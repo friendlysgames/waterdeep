@@ -94,6 +94,48 @@ Treat the two campaigns as a unified arc:
 
 ---
 
+## Source Research
+
+Before drafting any arc, chapter, appendix, or encounter, read **`sources/SOURCE_GUIDE.md`** to find which source files to consult. It maps every PDF and JSON to its contents, cross-references, and caveats, with a per-arc "When to consult" list. Never write content about a location, NPC, or investigation beat without first checking the source guide and reading the listed files.
+
+Primary source files:
+- **`sources/adventure-wdh.json`** — full original Dragon Heist adventure text (all chapters, keyed areas, appendices). Consult before writing any remix scene.
+- **`sources/adventure-wdmm.json`** — full original Dungeon of the Mad Mage text. Consult only for integration seeds; Undermountain remix is future work.
+- **`sources/1–30 *.pdf`** — the Alexandrian Remix PDFs. Use for structural design, clue architecture, and heist frameworks; never copy prose.
+
+---
+
+## Workspace Structure
+
+| File / Folder | Contents |
+|---|---|
+| `campaign/structure/ch1-beginning.md` | Chapter 1 draft — Arc A (Finding Floon), session zero, opening scene |
+| `campaign/structure/ch2-city-of-splendors.md` | Chapter 2 draft — Arc B (Trollskull Alley), city lore, faction recruitment |
+| `campaign/structure/ch3-running-the-campaign.md` | Chapter 3 draft — structural rules: Three Clue Rule, heist framework, response teams, calendar |
+| `campaign/structure/appendix-a-npc-roster.md` | Appendix A — full NPC roster for DM reference |
+| `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
+| `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide (in progress; write faction sections individually before delivering as Artifact) |
+| `session 1 handoff.md` | Running log of completed work and where the current session left off — read at session start |
+
+---
+
+## Arc Quick Reference
+
+| Arc | Name | Core Activity |
+|---|---|---|
+| A | Finding Floon | Dock Ward investigation → Zhentarim warehouse → Xanathar sewer hideout |
+| B | Trollskull Alley | Tavern home base, faction recruitment, city exploration, Twin Parades |
+| C | Fireball! | Post-fireball investigation, nimblewright thread, House of Inspired Hands, Stone of Golorr acquired |
+| D | Gralhund Villa | Quinpartite faction confrontation, recovery of the Stone |
+| E | Faction Outposts | Intelligence-gathering heists at each faction's 2–3 outposts |
+| F | Xanathar's Lair | Dungeon infiltration heist; Eye #1 |
+| G | Cassalanter Villa | Social infiltration + temple dungeon heist; Eye #2; Founders' Day deadline |
+| H | Sea Maidens Faire | Caper heist (or alliance path) aboard Jarlaxle's ships; Eye #3 |
+| I | Kolat Towers | Raid on Manshoon's fortress; force field + extradimensional sanctum |
+| J | Vault of Dragons | Brandath Crypts approach, vault opening, Aurinax confrontation, 500,000 gp resolution |
+
+---
+
 ## Skills Reference
 
 All skill files live in `.claude/skills/`. Load a skill before performing its task — never work from memory for these.
@@ -111,6 +153,27 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | `humanize-prose` | Voice and rhythm pass on prose |
 | `deslop-text` | AI pattern check on prose |
 | `adventure-reloaded` | Structural and writing guide for all campaign remix content — load before drafting any arc, chapter, scene, NPC profile, or design notes section |
+
+---
+
+## Handoff Protocol
+
+**At session start:** Read the most recent `session N handoff.md` file (highest N in the root directory) before doing anything else. It contains outstanding work, key decisions already made, rules that override defaults, and a "Where to Start Next Session" section. Do not re-derive or re-ask anything the handoff file already settles.
+
+**At session end** (or when the user signals they are done): Write a new handoff file named `session [N+1] handoff.md` in the root directory. Sections to include:
+
+| Section | Contents |
+|---|---|
+| What Was Done | One-paragraph plain-English summary of the session's output |
+| Changes Made | Table of files modified with a one-line description of what changed |
+| Key Decisions | Each decision with: the decision itself, reasoning, and a verbatim user quote if one was given |
+| Rules and Instructions | Any standing rules established or reinforced this session (add to this list, never overwrite) |
+| Problems Solved | Bugs, prose violations, structural fixes caught and resolved |
+| Outstanding Work | Unchecked checkboxes carried forward from the previous handoff, plus any new unfinished items |
+| Warnings and Caveats | Cross-references or consistency risks that need checking later |
+| Where to Start Next Session | Specific files, line numbers, and what to do when the user names the next task |
+
+Carry all unchecked items from the previous handoff's Outstanding Work section into the new file. Do not drop them.
 
 ---
 
