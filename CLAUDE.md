@@ -16,44 +16,6 @@ Assume the DM owns both source books and is familiar with their contents. Do not
 
 All content must use **2024 D&D 5th Edition** rules and terminology. Never default to 2014 rules.
 
-Key changes to apply consistently:
-
-- **Species** (not "Race"). Half-Elves/Half-Orcs are not distinct species. Tieflings have Fiendish Legacies.
-- **Ability Score Increases** come from Backgrounds, not Species.
-- **Backgrounds** grant a Feat (Origin Feat), not a feature. New Backgrounds include Farmer, Guard, Scribe.
-- **Exhaustion**: −2 penalty to all d20 rolls + 5 ft. speed reduction per level (max 6, then death). One level removed per Long Rest.
-- **Heroic Inspiration** (not "Inspiration"): reroll any die, must take the new result, can be passed to another player.
-- **Surprise**: only imposes Disadvantage on Initiative rolls.
-- **Potions**: drinking or administering is a Bonus Action.
-- **Weapon Mastery**: martial classes get mastery properties (Cleave, Slow, etc.) on specific weapons.
-- **Spells**: only one spell slot per turn; Ritual spells castable by any prepared caster; Counterspell/Dispel Magic buffed; summoning spells use generic stat blocks; shapeshifting grants temp HP; Concentration save DC cap of 30; concentration spells can be ended freely.
-- **Focus Points** (not "Ki Points") for Monks.
-- **Truesight**: no longer reveals true forms of shapechangers.
-- **Turn Undead**: buffed; no Turn Resistance/Defiance/Immunity.
-- **Goblins** are Fey. **Gnolls** are Fiends.
-- Nonmagical BPS resistance/immunity: removed from all stat blocks.
-- "Bloodied" = at or below half HP.
-
-When a concept exists in both editions, always use the 2024 version unless the user explicitly says otherwise.
-
----
-
-## Monster Stat Block Format (2024)
-
-When generating stat blocks, follow 2024 formatting conventions:
-
-- **Initiative** listed with modifier and static score.
-- Ability scores, modifiers, and saving throw bonuses in table format.
-- Damage immunities and condition immunities grouped together.
-- **Gear section** for notable carried items (weapons, armor, wands, spellbooks).
-- **Habitat & Treasure** noted at the start of monster descriptions.
-- Saving throw features written concisely:
-  > *Shadow Breath (Recharge 5–6). Dexterity Saving Throw: DC 17, each creature within a 60-foot Cone. Failure: 35 (10d6) necrotic damage. Success: Half damage.*
-- Reactions use explicit Trigger/Response structure:
-  > *Parry. Trigger: The bandit is hit by a melee attack roll while holding a weapon. Response: The bandit adds 2 to its AC against that attack.*
-
----
-
 ## The Three Remix Pillars
 
 All design decisions should serve these three goals:
@@ -133,6 +95,14 @@ Primary source files:
 | H | Sea Maidens Faire | Caper heist (or alliance path) aboard Jarlaxle's ships; Eye #3 |
 | I | Kolat Towers | Raid on Manshoon's fortress; force field + extradimensional sanctum |
 | J | Vault of Dragons | Brandath Crypts approach, vault opening, Aurinax confrontation, 500,000 gp resolution |
+
+---
+
+## Active Plan
+
+**`C:\Users\robert.lupu\.claude\plans\peppy-swinging-yao.md`** — Full campaign architecture plan: act/arc structure, appendix outlines, critical design decisions, implementation steps, and verification checklist.
+
+> **Remove this section from CLAUDE.md once every part of the plan has been completed.**
 
 ---
 
