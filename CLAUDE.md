@@ -159,6 +159,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 **Output format:** Finished documents (completed arcs, chapters, standalone encounters) are delivered as an **HTML Artifact** that visually replicates how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later. Structure drafts and appendices still being written faction-by-faction (like Appendix D) go directly into their `.md` source file — no artifact until the document is complete.
 
+**Mission depth:** Faction missions must not reduce to a single skill check. Each mission needs multiple decision points, scene beats, or mechanical layers — social negotiation followed by an encounter, investigation that branches on player choices, a combat with a secondary objective, or a multi-stage resolution. A mission where the players roll once and the outcome is determined is not a mission, it is a wandering encounter. If the source mission is thin (one check, no scene structure), expand it.
+
 ---
 
 ## Workflows

@@ -1164,31 +1164,55 @@ Pell owes the party a favor. He will not say this and will not seek them out. Bu
 A paper bird — unusual for Savra, who is at the Halls of Justice this morning and wants the party to start without her. The message: "The Waterdeep Wazoo is reporting that the masked thief called the Black Viper has returned. Interview the publisher and find out what he actually knows. I will meet you when I'm done."
 
 **Background** *(DM only)*
-The story is fabricated. A genuine masked thief has been hitting noble estates, but the publisher's claim that she's the Cassalanters' secret twin sister is a planted story, delivered by Seffia Naelryke — a Cassalanter household operative. The story is a trap: plant something that casts suspicion on the Cassalanters and watch who comes asking. The Cassalanters monitor investigators through their imp network. The party's inquiry will be flagged within hours of the first conversation with Gaxly.
+The story is a planted trap. A genuine masked thief is active in the North Ward, but the publisher's claim that she's a secret Cassalanter twin is fabricated — invented by Seffia Naelryke, a Cassalanter household operative, and fed to the Wazoo as bait. The Cassalanters want to identify who in Waterdeep is investigating them seriously enough to track a lead about their family. The party's inquiry will be flagged through their imp network within hours of the first conversation with Gaxly.
+
+Seffia is still in the city. She visited Gaxly a second time two days after publication to "check the story's reception." She left a message drop — a specific candle shop in the Trades Ward — where interested parties can arrange contact. Gaxly will not volunteer this. He can be made to.
+
+The Hall of Records contains a sealed entry for "Petra Cassalanter, born 1470 DR, deceased 1471 DR" — a forged legal document installed by a Cassalanter lawyer to backstop the story if anyone checked. This changes the stakes: the Cassalanters did not just plant a rumor; they built infrastructure to support it.
 
 **Act 1 — The Waterdeep Wazoo**
 A narrow second-floor room at the corner of Immar and Stallion Streets in the North Ward. Fresh ink, cold coffee, broadsheet pages drying on strings overhead.
 
-**Gaxly Rudderbust** — professionally untidy, forty, with the specific dishevelment of someone who has decided this makes them look like a journalist. Protective of his sources in the way people are protective of things they know aren't quite right but are too committed to abandon. A DC 12 Charisma (Intimidation or Persuasion) check, or 50 gp, loosens him.
+**Gaxly Rudderbust** — professionally untidy, forty, with the specific dishevelment of someone who has decided this makes them look like a journalist. He has two layers.
 
-His source told him the Black Viper is the Cassalanters' secret twin sister — a child hidden since birth due to a disfigurement. The mask is concealment, not vanity. He delivers this with the relish of someone who has been waiting to say it. He published before he could verify it.
+*Layer one:* Source confidentiality. He published the story. He stands by it. He promised not to name his source and is protected by that promise in the way that people use small obligations to avoid large ones. A DC 12 Charisma (Intimidation or Persuasion) check or 50 gp moves him: his source told him the Black Viper is the Cassalanters' secret twin sister, hidden since birth due to a disfigurement. The mask is concealment, not vanity. He delivers this with the relish of someone who knows it's the best story he's run in years. He published before he could verify it. He's not sure he regrets it.
 
-**Act 2 — The Investigation**
-A DC 15 Intelligence (Investigation) check — a day's work interviewing servants, checking birth records at the Hall of Records, or speaking with social-register contacts — confirms with certainty that no such person exists. The Cassalanters have two children. There was no twin. The story was invented.
+*Layer two:* Seffia's return visit. Gaxly is warier about this. A DC 15 Charisma (Persuasion) check — phrased as genuine concern for his safety rather than extraction — or an honest disclosure that the story may be a planted trap convinces him to describe the contact arrangement: a red candle in the window of Barrow's Wick on Lamp Street in the Trades Ward means someone is willing to meet. He has not used it. He assumed it was for him to signal continued interest.
 
-If the party presses Gaxly for the source: he won't give a name. He promised confidentiality. What he can say: the source approached him, not the other way around, and offered the story "as a public service." The source was well-dressed and Tethyrian. A DC 14 Intelligence (History) check or follow-up social investigation of the Cassalanter household identifies this as Seffia Naelryke, a Cassalanter steward.
+**Act 2 — Two Tracks**
 
-**Act 3 — They're Already Watching**
-Within 48 hours of the party's inquiry, something shifts. A hire-coach passes Trollskull Alley twice in one day at a slow roll — not stopping, not threatening. A character with Passive Perception 14 notices a small flying creature — barely visible, shaped wrong for a bat — hovering near Trollskull Manor's upper windows before dawn, gone when anyone looks directly. The imp network flagged the inquiry within hours of the first conversation with Gaxly. This is not an immediate threat. It is a note in a ledger in a Sea Ward villa.
+*Track A — The Hall of Records:*
+A day's work among clerks and registry shelves turns up the sealed "Petra Cassalanter" entry. **Ilmeth Waevlur**, a retired registry clerk who worked the Sea Ward records for thirty years and now volunteers three mornings a week out of habit, is the key: a DC 13 Charisma (Persuasion) check or a mention of the Order of the Gauntlet prompts him to pull the entry and look at it critically. His verdict, after a long pause: the document has correct formatting and genuine official seals, but the clerk's signature is from a registrar who died in 1468 DR, two years before the alleged birth. Someone good at forgery had access to stolen seals. A real person did not exist. A real crime did.
 
-Savra receives the report — no twin, planted story — and is quiet for a moment. Then: "Who benefits from a false story pointing investigators at the Cassalanters?" She wants the party's analysis. This is the Order's first formal attention toward the Cassalanters' inner workings.
+*Track B — The Seffia Meeting:*
+Placing the red candle at Barrow's Wick triggers a reply the following morning: a meeting time and a neutral location — a tea house called the Steaming Anchor in the Trades Ward, midday.
+
+**Seffia Naelryke** is Tethyrian, mid-thirties, dressed to pass as a minor noblewoman. Gracious, composed, conducting a social audit from the moment the party enters. Her goal is to find out what they know and who they work for. She will not confirm the planted story. She will try to determine whether the party is a threat or an opportunity.
+
+A DC 16 Wisdom (Insight) check catches her tells: questions about the party's other investigations are too specific, her interest in Savra Belabranta by name arrives unprompted.
+
+The party has several options:
+- **Play along:** Let Seffia believe they have no Order connection and are independent operators. She offers 100 gp for everything they learn about the Gauntlet's investigation into the Cassalanters. If they accept and report to Savra, Savra is cold but not surprised: "Now we know what they want to track." The Cassalanters receive limited misinformation.
+- **Expose the trap:** Confront Seffia with the forged birth record. She goes very still. She will make a counter-offer: withdraw the investigation and the Cassalanters take no action against Trollskull Manor. She has two guards outside (use **Thug** stat block). If the party refuses and tries to detain her, she signals them.
+- **Detain Seffia:** Forces the guards into the open (combat). Seffia will not break under ordinary pressure; *Charm Person* (DC 14 Wisdom) or equivalent extracts one significant intelligence: "The Cassalanters know who the real Black Viper is. They are not trying to stop her. They need the Watch looking at Trollskull and the North Ward, not the Sea Ward. Something is being moved."
+- **Walk away:** The party leaves. Seffia files a report. The imp network escalates from observation to active tracking.
+
+**Act 3 — The Imp at Dawn**
+Regardless of how the Seffia meeting resolves, surveillance of Trollskull Manor begins within 48 hours. A hire-coach passes Trollskull Alley twice in one day at a slow roll. Before dawn on the second night, a character with Passive Perception 14 notices a small winged shape — too deliberate for a bat — hovering near the upper windows.
+
+The party can attempt to catch it. The imp is invisible during the approach; a DC 16 Wisdom (Perception) check locates it. A DC 16 Dexterity (Athletics or Acrobatics) check, or a spell that restrains or banishes without killing, captures it before it can vanish. Bound and stripped of invisibility, it is a Cassalanter servant: its material form alone — with its infernal binding marks — constitutes evidence of the family's access to devil-bound servitors. Savra takes it seriously.
+
+If not caught: it departs and the surveillance continues at a distance. The Cassalanters know the party is working for the Gauntlet. They will plan accordingly.
+
+Savra meets the party at day's end. She hears everything, weighs it, and asks one question: "What are they moving?" She has no answer yet. Neither does anyone else. But the question is now open.
 
 **Renown Opportunities**
-- +1: The story is confirmed fabricated and reported to Savra before the end of the arc.
-- +1: Seffia Naelryke is identified as the source and her name reported to Savra. It goes into the Order's Cassalanter file.
+- +1: The planted story confirmed fabricated and reported to Savra.
+- +1: The forged Hall of Records entry recovered, or Seffia Naelryke identified and her name delivered to Savra with the contact method as evidence.
+- +1 (bonus): The imp captured and delivered to the Halls of Justice. Physical evidence of Cassalanter devil-binding, filed formally.
 
 **Aftermath**
-The Cassalanter thread is on the Order's official radar. The party is now persons of interest to the Cassalanters — which means, when the Grand Game's pressure increases, something will happen. The imp watching Trollskull Manor will not be the last measure they take.
+The Cassalanter file opens. What the party chose to do with Seffia determines the immediate shape of the opposition: a deal accepted means quieter surveillance and a deliberate Cassalanter patience; an open confrontation means faster escalation and, by Mission 4, a more alert response from Gysheer's handlers. Savra's question — what are they moving — remains unanswered, and it stays with her through Mission 3.
 
 ---
 
@@ -1242,7 +1266,11 @@ Savra enters from the south at a controlled walk, sword drawn, takes in the tact
 **Act 2 — Gysheer Omfreys**
 The last spined devil is still twitching when an alley door opens. A Tethyrian woman, middle-aged, in good clothes conspicuous in the Field Ward, holding a knife with the grip of someone taught rather than experienced. Desperation and contempt, directed at Savra specifically. "You should not have come here. This was a consecrated working. You have disrupted the work of —" She stops. She has said too much. Her jaw closes. The knife stays up.
 
-**Gysheer Omfreys** (use **Cult Fanatic** stat block). She volunteers nothing. Only magical compulsion — *Charm Person* (DC 13 Wisdom save), *Command*, or equivalent — extracts: "operations for Lord Victoro Cassalanter of the Sea Ward," "preparation of ground," and "the shrine on Aveen Street." Three pieces of Grand Game intelligence.
+**Gysheer Omfreys** (use **Cult Fanatic** stat block). She says nothing further and will flee or fight if not restrained. Three independent paths lead to the shrine address:
+
+- **Magical compulsion** — *Charm Person* (DC 13 Wisdom save), *Command*, or equivalent extracts all three pieces: "operations for Lord Victoro Cassalanter of the Sea Ward," "preparation of ground," and "the shrine on Aveen Street."
+- **Her belongings** — a DC 13 Intelligence (Investigation) search of her person (possible only if she is subdued) turns up a folded ritual preparation note in her coat pocket. The note lists the shrine's address on Aveen Street, a delivery schedule for ritual components, and a Cassalanter household seal impression in the wax closure. The "Lord V.C." initialing is enough for Savra.
+- **Her residence** — Gysheer rents a room above a dyer's shop on Crispin Street in the Field Ward, two blocks from Twelvedog Court. A DC 14 Charisma (Persuasion or Intimidation) check with the landlord, or simply observing that her belongings are still there, allows entry. Inside: ritual preparation notes, the Aveen Street address in full, and a letter (unsigned, on Cassalanter household stationery) authorizing the working and naming Lord Victoro as principal. The residence search takes four hours and can be done after Gysheer flees.
 
 **Act 3 — Savra's Constraint**
 When Gysheer is subdued, Savra is quiet for a moment. "Devil worship is not illegal in Waterdeep. Summoning spined devils in a residential courtyard may be — I'll need to consult the Code Legal. But acting against the Cassalanters on the confession of one cultist extracted under magical compulsion is not something I can do." She says it with the flat evenness of a fact she finds distasteful. "Not officially." A pause. "What you choose to do with what you know — you are not the Order. I cannot instruct you. What I can tell you is that if you brought me real evidence — a document, not a confession — the Order would know exactly what to do with it."
