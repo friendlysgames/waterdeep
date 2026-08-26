@@ -1108,7 +1108,7 @@ The Order has no interest in playing the Grand Game on its own terms — not pos
 - Savra's read on Lord Victoro Cassalanter: "He's charming in the specific way that people are charming when they have something to hide."
 
 **What the Order asks for:**
-- Physical evidence of Cassalanter diabolism — a ritual record, a signed instruction from a named family member, a witness who will speak on the record — rather than a confession extracted under magical compulsion
+- Physical evidence of Cassalanter diabolism (a ritual record, a signed instruction from a named family member, a witness who will speak on the record) rather than a confession extracted under magical compulsion
 - Support when the Cassalanter confrontation comes (Arc G)
 - Honesty. Savra cannot work with people she is managing around. She will know when she is being managed.
 
@@ -1254,7 +1254,7 @@ Kelso's grudging respect — not an alliance, but a Field Ward gang that will no
 Savra at the door, urgency without display — she has been moving for an hour: "Spined devils terrorizing a Field Ward courtyard. I am going there now. Come." Already turning as she says it, coat on, sword at her side. The "please" is in the sentence structure even if the word is absent.
 
 **Background** *(DM only)*
-**Gysheer Omfreys** — an Asmodeus cultist connected to the Cassalanter network — summoned five **Spined Devils** as the opening act of a consecration ritual in an alley off Twelvedog Court. The devils escaped her direction and are loose in the court. Gysheer is still in the alley, deciding whether to flee or finish. She decides to finish when she hears the fighting, and mistakes the Order's arrival for a coordinated suppression of the ritual rather than a response to a public disturbance.
+**Gysheer Omfreys**, an Asmodeus cultist connected to the Cassalanter network, summoned five **Spined Devils** as the opening act of a consecration ritual in an alley off Twelvedog Court. The devils escaped her direction and are loose in the court. Gysheer is still in the alley, deciding whether to flee or finish. She decides to finish when she hears the fighting, and mistakes the Order's arrival for a coordinated suppression of the ritual rather than a response to a public disturbance.
 
 **Act 1 — Twelvedog Court**
 A small square in the Field Ward named for a kennel operation gone thirty years. Six buildings face inward, every shutter barred. Three residents are pinned behind an overturned market cart, sheltering from the things on the roof edges and window ledges — five creatures that look designed to shoot thorns at people, which is exactly what they are doing.
@@ -1297,7 +1297,7 @@ Savra meets the party at the Halls of Justice, not at Trollskull Manor. She has 
 **Background** *(DM only)*
 The Aveen Street shrine is a converted basement under a chandler's shop, leased two years ago through an intermediary and used intermittently as a ritual preparation site. The current configuration: a consecration circle for one of the twelve infernal rites Lord Victoro Cassalanter is conducting under his devil contract. Inside: ritual equipment, a locked strongbox containing an operational ledger in Victoro's own handwriting, and a standing guardian — a **Bearded Devil** assigned to protect the site.
 
-The chandler upstairs — Orros, nervous, innocent — leases the basement to "a civic association" and has not been downstairs in fourteen months.
+Upstairs: Orros, a nervous, innocent chandler who leased the basement to "a civic association" and has not been downstairs in fourteen months.
 
 **Act 1 — Aveen Street**
 The shrine entrance is a locked cellar door in an alley behind the chandler's shop. DC 13 Dexterity (Thieves' Tools) or DC 15 Strength to force it.
@@ -1323,7 +1323,7 @@ Savra takes the ledger directly to the Halls of Justice and files a formal petit
 
 The Cassalanters are informed of the petition within 48 hours through their Masked Lord contact. Lord Victoro accelerates the Founders' Day timeline by four days. Arc G's deadline tightens: the Reckoning is now four days earlier than the PCs would otherwise expect. Savra passes this calendar intelligence to the party as soon as she calculates it from the ledger's dated entries.
 
-Lord Victoro also triggers an infernal rider in his contract — a clause that names and marks anyone who has physically handled his ritual documentation. The consequences of that clause arrive in Mission 6.
+Lord Victoro also triggers an infernal rider in his contract, a clause that names and marks anyone who has physically handled his ritual documentation. The consequences of that clause arrive in Mission 6.
 
 ---
 
@@ -1381,7 +1381,7 @@ She shakes each person's hand, and she doesn't let go right away.
 
 Vajra's mandate is the city, specifically the parts of the city that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. She knows an archmage has returned — Hlam's first message gave her Manshoon's shape without the name. She does not yet know the Stone of Golorr has resurfaced or that four factions are competing for the vault.
 
-She learns this incrementally through the party. Each mission feeds her understanding. Mission 1 delivers Hlam's message about the buried thing waking. Mission 2 delivers Bregan D'aerthe's harbor presence. By Mission 4 she knows the intellect devourer factory's location. When the party brings her the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
+She learns this incrementally through the party. Each mission adds a piece: Hlam's warning about the buried thing waking from Mission 1, the Bregan D'aerthe submarine from Mission 2. By Mission 4 she knows the intellect devourer factory's location. When the party brings her the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
 
 **What Force Grey shares proactively:**
 - Preparatory spells and consumables before missions (Renown 3+: one spell up to 3rd level per tenday; Renown 10+: a mage from Tower staff for one operation per arc)
@@ -1393,7 +1393,7 @@ She learns this incrementally through the party. Each mission feeds her understa
 - A complete picture of the Grand Game, once the party has it to give. This is the most valuable thing they can do for Waterdeep
 - That the party not tell Vajra only what she wants to hear. She has people for that and does not need more
 
-**Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it is sealed away again. These are her priorities in order. She does not have a view on which faction deserves recognition — she has a view on which outcome leaves Waterdeep standing.
+**Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it is sealed away again. These are her priorities in order. Her concern is which outcome leaves Waterdeep standing. The rest is scoring.
 
 ### Arc Hooks
 
@@ -1474,7 +1474,7 @@ He's correct on both counts. The structure is a Bregan D'aerthe submarine — a 
 **Act 3 — The Report**
 Vajra hears the Zelifarn assessment first — straightforward, she takes it. Then the submarine: she goes quiet for a long moment. "A carnival fleet with an underwater attachment. In Waterdeep's harbor." A pause. "For how long?" The question is rhetorical. She writes something. "Did you get a specific shape?" She will ask follow-up questions about the submarine's dimensions and attachment method if the party can answer them; each additional detail earns her focused attention for another minute. When they have given everything they have, she closes the notebook. "Thank you. This is useful."
 
-She does not tell them what she is going to do with it. In this case, the answer is: file it under the Bregan D'aerthe section of her ongoing city threat assessment, and significantly revise her estimate of Jarlaxle's operational depth in Waterdeep.
+She does not tell them what she is going to do with it. In this case, the answer is: file it under the Bregan D'aerthe section of her ongoing city threat assessment, and significantly revise her understanding of how far Jarlaxle's reach actually extends in this city.
 
 **Renown Opportunities**
 - +1: Zelifarn's intentions are confirmed as non-hostile and reported accurately to Vajra.
@@ -1492,7 +1492,7 @@ Zelifarn is now a contact — loose, unconventional, and interested in a good ex
 Vajra's Sending, twenty-five words almost exactly: *"Force Grey operative Meloon Wardragon is behaving strangely. Observe him for a tenday. Do not approach him unless necessary. Report what you see."* She does not explain why she can't observe him herself. The party may assume she has reasons; she does.
 
 **Background** *(DM only)*
-Meloon Wardragon is a Force Grey veteran — large, cheerful, known for telling stories that have no business being this funny at this distance. He is none of these things now. An intellect devourer from Nihiloor's network occupied his skull approximately three weeks ago. It is using him as an observation post for Force Grey's operations — attending Yawning Portal meetings, noting who the party speaks to, filing reports through a dead drop in the Dock Ward. **Azuredge**, his sentient greataxe, has been fighting the devourer's control since it arrived. It is losing the argument about whether Meloon should expose himself, but it has prevented several worse things from happening. It needs someone to notice.
+Meloon Wardragon is a Force Grey veteran — large, cheerful, known for telling stories that have no business being this funny at this distance. He is none of these things now. An intellect devourer from Nihiloor's network occupied his skull approximately three weeks ago. It is using him as an observation post for Force Grey's operations: attending Yawning Portal meetings, noting who the party speaks to, filing reports through a dead drop in the Dock Ward. **Azuredge**, his sentient greataxe, has been fighting the devourer's control since it arrived. It is losing the argument about whether Meloon should expose himself, but it has prevented several worse things from happening. It needs someone to notice.
 
 **Act 1 — The Tenday**
 Meloon keeps a room at the Yawning Portal. He spends his days at the bar, at a table near the well, occasionally watching the portal's mouth with an attention that is not the attention he used to have.
@@ -1587,14 +1587,14 @@ Vajra's Sending arrives mid-afternoon: *"Three Watch magistrates have reversed s
 At the Tower, she has a short dossier on the desk — three names, three reversed decisions, one point of correlation: **Orvyn Dall**, a Watch appeals clerk whose office processes all three magistrates' documentation. "Nihiloor's network lost its Spawning Pool. It did not lose everything. If there is a devourer in the Watch's legal apparatus, I need it removed before it becomes embedded in something I can't reach." She pauses. "I cannot use Blackstaff authority here without triggering a review I am not ready to trigger. You are not the Blackstaff."
 
 **Background** *(DM only)*
-Nihiloor placed an intellect devourer inside Orvyn Dall — a mild, conscientious appeals clerk in the Watch's Trades Ward district magistracy — seven weeks ago. The devourer is not controlling Orvyn to spectacular effect; it is making small adjustments to which appeals reach which desks, which documents are filed late, which hearings are rescheduled. The three reversed rulings are the visible tip of twelve months of planned manipulation. The devourer is a **Nihiloor legacy operation** — it was installed before the Spawning Pool was destroyed and has continued running on its own. Nihiloor may not even know it is still active.
+Nihiloor placed an intellect devourer inside Orvyn Dall — a mild, conscientious appeals clerk in the Watch's Trades Ward district magistracy — seven weeks ago. The devourer has been working quietly: small adjustments to which appeals reach which desks, which documents are filed late, which hearings are rescheduled. The three reversed rulings are the visible tip of twelve months of planned manipulation. The devourer is a **Nihiloor legacy operation**, installed before the Spawning Pool was destroyed and running without further direction since. Nihiloor may not even know it is still active.
 
 Orvyn's clerk office is in the Watch's Trades Ward precinct. He lives in a modest apartment on Tallow Court in the Trades Ward. His daily schedule: precinct at eight bells, lunch at the Bricklayer's Cup, return to precinct, home by six bells.
 
 **Act 1 — Three Investigation Paths**
 Three independent observations, any of which confirms the possession:
 
-- **The rulings pattern:** A **DC 14 Intelligence (Investigation)** check examining the three reversed decisions (documents accessible at the public appeals registry, Hall of Records) identifies a fourth reversal — one that was quietly re-reversed two days later, suggesting the devourer corrected itself after a mistake. The re-reversal is in Dall's handwriting when the original reversal is in a magistrate's. He filed a correction to something he shouldn't have been able to correct.
+- **The rulings pattern:** A **DC 14 Intelligence (Investigation)** check examining the three reversed decisions (documents accessible at the public appeals registry, Hall of Records) identifies a fourth reversal, one that was quietly re-reversed two days later, suggesting the devourer corrected itself after a mistake. The re-reversal is in Dall's handwriting when the original reversal is in a magistrate's. He filed a correction to something he shouldn't have been able to correct.
 - **Behavioral surveillance:** Watching Dall over three days from the Bricklayer's Cup or precinct street during his schedule. A **DC 14 Wisdom (Perception or Insight)** check during the lunch observation catches: he eats with the flat, methodical pace of someone who is not tasting their food; his eyes track the precinct door rather than the room; when a colleague greets him by name, his reaction lags by a half-second before he smiles. These are the same tells the party learned in Mission 3 if they were observant.
 - **The apartment:** Orvyn's apartment contains, in a locked drawer in his writing desk (**DC 13 Dexterity — Thieves' Tools**), a small coded ledger that Nihiloor's operation has been using him to maintain — a list of which cases are being influenced and why. This is not something Orvyn is writing consciously. The devourer maintains it automatically. Finding and decoding it (**DC 12 Intelligence — Investigation**) does not require the code from Harper M2 — it is a simple notation cipher, and the entries are evidence on their own.
 
@@ -1655,7 +1655,7 @@ Six Manshoon Splinter agents (two **Spies** stat block, two **Veterans**, two **
 
 Vajra handles the Tower's active defenses. The party handles the agents who breach through a ground-floor access point — the Splinter has had weeks to find it, through Vira.
 
-A captured Splinter agent who is persuaded to cooperate (**DC 14 Charisma Intimidation or Persuasion**, or *Charm Person*) confirms the operation's origin: Kolat Towers, Manshoon personally directed this, the strike team was standing by for two weeks. This is direct evidence connecting Manshoon to an attempted assassination of the Blackstaff — evidence Vajra can take to Laeral Silverhand.
+A captured Splinter agent who is persuaded to cooperate (**DC 14 Charisma Intimidation or Persuasion**, or *Charm Person*) confirms the operation's origin: Kolat Towers, Manshoon personally directed this, the strike team was standing by for two weeks. This is direct evidence connecting Manshoon to an attempted assassination of the Blackstaff. Vajra can take it to Laeral Silverhand.
 
 **Renown Opportunities**
 - +2: The disruptor is found and removed before Vira can trigger it. The Tower's defensive protections are never compromised.
