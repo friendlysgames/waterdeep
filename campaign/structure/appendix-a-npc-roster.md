@@ -11,13 +11,13 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Tally should inspire endearment with his reflexive sarcasm, admiration with his genuine craftsmanship, and gratitude with his willingness to help neighbors without being asked.
+**Resonance.** Tally should inspire endearment with his reflexive sarcasm, admiration with his honest craftsmanship, and gratitude with his willingness to help neighbors without being asked.
 
-**Emotions.** Tally most often feels wry amusement, quiet pride, neighborly concern, mild irritation at pretension, creative absorption, and protectiveness toward the alley.
+**Emotions.** Tally most often feels wry amusement, understated pride, neighborly concern, mild irritation at pretension, creative absorption, and protectiveness toward the alley.
 
 **Motivations.** Tally wants to run the best woodworking shop in the North Ward, keep the alley a decent place to live, and make sure his brother Melannor actually visits once in a while.
 
-**Inspirations.** When playing Tally, channel Ron Swanson (*Parks and Recreation*) for the dry craftsmanship pride, Samwise Gamgee (*The Lord of the Rings*) for the neighborly loyalty, and Kaylee Frye (*Firefly*) for the genuine enthusiasm about his trade.
+**Inspirations.** When playing Tally, channel Ron Swanson (*Parks and Recreation*) for the dry craftsmanship pride, Samwise Gamgee (*The Lord of the Rings*) for the neighborly loyalty, and Kaylee Frye (*Firefly*) for the open enthusiasm about his trade.
 
 **Character Information**
 
@@ -36,7 +36,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Embric should inspire endearment with his passionate mood swings, amusement with his bickering-but-devoted marriage to Avi, and admiration with the quality of his forge work.
 
-**Emotions.** Embric most often feels fierce pride, creative frustration, volcanic irritation, sudden tenderness toward Avi, competitive fire, and dramatic satisfaction.
+**Emotions.** Embric most often feels hot pride, creative frustration, volcanic irritation, sudden tenderness toward Avi, competitive fire, and dramatic satisfaction.
 
 **Motivations.** Embric wants to forge a weapon worthy of his efreet heritage, keep Steam and Steel prosperous alongside Avi, and be recognized as the finest weaponsmith in the North Ward.
 
@@ -59,7 +59,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Avi should inspire comfort with her calm directness, endearment with the way she balances Embric's moods, and admiration with her quiet devotion to Eldath.
 
-**Emotions.** Avi most often feels patient amusement, meditative calm, understated affection, professional satisfaction, gentle exasperation, and rare but sudden firmness.
+**Emotions.** Avi most often feels patient amusement, meditative calm, understated affection, a craftsman's satisfaction, gentle exasperation, and rare but sudden firmness.
 
 **Motivations.** Avi wants to craft armor that protects without encouraging violence, maintain peace in her marriage and her neighborhood, and honor Eldath through the discipline of her trade.
 
@@ -82,7 +82,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Fala should inspire endearment with their quiet intensity about plants and tea, gratitude with their willingness to share remedies freely, and discomfort with their unblinking stillness when listening.
 
-**Emotions.** Fala most often feels botanical curiosity, protective warmth toward friends, stubborn independence, serene contentment, quiet anger at exploitation, and fascination with dangerous things.
+**Emotions.** Fala most often feels botanical curiosity, protective warmth toward friends, stubborn independence, serene contentment, banked anger at exploitation, and fascination with dangerous things.
 
 **Motivations.** Fala wants to keep Corellon's Crown stocked with rare and useful remedies, protect their friends in the alley without drawing attention, and figure out what keeps moving in the sewer access near the cellar at night.
 
@@ -103,13 +103,13 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Vincent should inspire flattery with his focused attention on whoever he is speaking to, discomfort with the subtle wrongness players cannot quite identify, and grudging admiration for how good he is at finding things out.
+**Resonance.** Vincent should inspire flattery with his focused attention on whoever he is speaking to, discomfort with the subtle wrongness players cannot quite identify, and reluctant admiration for how good he is at finding things out.
 
-**Emotions.** Vincent most often feels predatory amusement, genuine curiosity, possessive fondness for Waterdeep, mild contempt for easy marks, studied patience, and a surprised tenderness he does not fully understand.
+**Emotions.** Vincent most often feels predatory amusement, real curiosity, possessive fondness for Waterdeep, mild disdain for easy marks, studied patience, and a surprised tenderness he does not fully understand.
 
 **Motivations.** Vincent wants to maintain his comfortable life in Waterdeep indefinitely, learn every secret worth knowing in the city, and avoid drawing the attention of anyone powerful enough to see through his disguise.
 
-**Inspirations.** When playing Vincent, channel Hannibal Lecter (*Hannibal* TV series) for the courteous menace and genuine aesthetic appreciation, Crowley (*Good Omens*) for the supernatural being who has gone native among mortals, and Philip Marlowe (*The Big Sleep*) for the laconic detective cadence.
+**Inspirations.** When playing Vincent, channel Hannibal Lecter (*Hannibal* TV series) for the courteous menace and real aesthetic appreciation, Crowley (*Good Omens*) for the supernatural being who has gone native among mortals, and Philip Marlowe (*The Big Sleep*) for the laconic detective cadence.
 
 **Character Information**
 
@@ -117,7 +117,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Morale.** In a fight, Vincent would use his innate magic to deflect or escape rather than reveal his true nature. If cornered and unmasked, he fights with a rakshasa's full cunning and cruelty. He will flee Waterdeep before he will die in it.
 
-**Relationships.** Vincent is a neighbor and occasional information broker for the Trollskull party, an object of quiet suspicion for Rishaal (who has noticed his unusual book purchases), and a creature whose true identity is known to no one in the alley.
+**Relationships.** Vincent is a neighbor and occasional information broker for the Trollskull party, an object of growing suspicion for Rishaal (who has noticed his unusual book purchases), and a creature whose true identity is known to no one in the alley.
 
 ---
 
@@ -128,7 +128,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Rishaal should inspire endearment with his perpetual ink-stained distraction, admiration with his deep arcane knowledge, and amusement with his tendency to answer questions no one asked.
 
-**Emotions.** Rishaal most often feels scholarly absorption, mild befuddlement at interruptions, quiet delight at a rare find, collegial warmth, intellectual suspicion, and protective anxiety about his inventory.
+**Emotions.** Rishaal most often feels scholarly absorption, mild befuddlement at interruptions, private delight at a rare find, collegial warmth, intellectual suspicion, and protective anxiety about his inventory.
 
 **Motivations.** Rishaal wants to maintain the finest arcane bookshop in the North Ward, understand the book whose words rearrange themselves when observed, and determine why Vincent Trench keeps buying texts on planar binding.
 
@@ -149,21 +149,21 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Kraddoc should inspire irritation with his condescending inspections, grudging respect for his knowledge of spirits, and sympathy when his loneliness slips through the professional veneer.
+**Resonance.** Kraddoc should inspire irritation with his condescending inspections, grudging respect for his knowledge of spirits, and sympathy when his loneliness slips through the officious veneer.
 
-**Emotions.** Kraddoc most often feels self-important authority, fussy dissatisfaction, grudging approval, concealed loneliness, professional pride, and defensive contempt for adventurers.
+**Emotions.** Kraddoc most often feels self-important authority, fussy dissatisfaction, grudging approval, concealed loneliness, guild-man's pride, and defensive scorn for adventurers.
 
 **Motivations.** Kraddoc wants to maintain the Vintners', Distillers', and Brewers' Guild's grip on the North Ward spirit trade, prove that he knows more about drink than anyone the party employs, and visit socially without admitting that is what he is doing.
 
-**Inspirations.** When playing Kraddoc, channel Hyacinth Bucket (*Keeping Up Appearances*) for the social pretension masking insecurity, Basil Fawlty (*Fawlty Towers*) for the thin-skinned officiousness, and Anton Ego (*Ratatouille*) for the genuine expertise buried under the insufferable delivery.
+**Inspirations.** When playing Kraddoc, channel Hyacinth Bucket (*Keeping Up Appearances*) for the social pretension masking insecurity, Basil Fawlty (*Fawlty Towers*) for the thin-skinned officiousness, and Anton Ego (*Ratatouille*) for the real expertise buried under the insufferable delivery.
 
 **Character Information**
 
-**Persona.** To the world, Kraddoc is an effete, well-dressed guild representative who doesn't like adventurers but likes their coin. To those he trusts, he is a man who genuinely loves fine spirits and has no one else to drink them with. Deep down, his rare purely social visits reveal what his inspections are actually about.
+**Persona.** To the world, Kraddoc is an effete, well-dressed guild representative who doesn't like adventurers but likes their coin. To those he trusts, he is a man who loves fine spirits and has no one else to drink them with. Deep down, his rare purely social visits reveal what his inspections are actually about.
 
 **Morale.** In a fight, Kraddoc would leave immediately and file a formal complaint with the guild, the Watch, and any other authority he can reach before the blood dries. He will never risk his life for the tavern.
 
-**Relationships.** Kraddoc is accompanied everywhere by his scribe Jinny (a young tiefling who records everything), a professional antagonist of Emmek Frewn (whose establishment he also inspects, with less patience), and a representative of the Vintners', Distillers', and Brewers' Guild.
+**Relationships.** Kraddoc is accompanied everywhere by his scribe Jinny (a young tiefling who records everything), a recurring antagonist of Emmek Frewn (whose establishment he also inspects, with less patience), and a representative of the Vintners', Distillers', and Brewers' Guild.
 
 ---
 
@@ -174,7 +174,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Broxley should inspire endearment with his fatherly fussing, sympathy with his nine-child domestic chaos, and mild exasperation with his relentless guild membership pitch.
 
-**Emotions.** Broxley most often feels cheerful resignation, paternal concern, mild anxiety about inspections, genuine happiness at seeing the tavern occupied, earnest civic duty, and exhaustion he insists is contentment.
+**Emotions.** Broxley most often feels cheerful resignation, paternal concern, mild anxiety about inspections, uncomplicated happiness at seeing the tavern occupied, earnest civic duty, and exhaustion he insists is contentment.
 
 **Motivations.** Broxley wants to get the tavern into the Fellowship of Innkeepers before anyone else causes trouble with the guild, keep the North Ward hospitable, and survive raising nine children on a halfling's budget.
 
@@ -197,7 +197,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Ulkoria should inspire intimidation with her permanent scowl and blunt manner, gratitude when her rare approval lands like a benediction, and sympathy for the loneliness beneath the Gargoyle's reputation.
 
-**Emotions.** Ulkoria most often feels grim satisfaction, protective vigilance, impatient disdain for small talk, quiet nostalgia for the tavern she once owned, grudging approval, and carefully buried grief.
+**Emotions.** Ulkoria most often feels grim satisfaction, protective vigilance, impatient disdain for small talk, buried nostalgia for the tavern she once owned, reluctant approval, and carefully buried grief.
 
 **Motivations.** Ulkoria wants to ensure the tavern does not fall into dangerous hands again, defend Waterdeep from arcane threats (as she has done more times than she can count), and determine whether the party is worthy of the building she once called hers.
 
@@ -209,7 +209,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Morale.** In a fight, Ulkoria would unleash archmage-level spells without hesitation or warning. She has defended Waterdeep more times than she can recall and does not require permission to do it again.
 
-**Relationships.** Ulkoria is a senior member of the Watchful Order of Magists and Protectors, the tavern's former owner, a professional acquaintance of Rishaal the Page-Turner, and a Masked Lord of Waterdeep (never confirmed in her presence).
+**Relationships.** Ulkoria is a senior member of the Watchful Order of Magists and Protectors, the tavern's former owner, a colleague of Rishaal the Page-Turner, and a Masked Lord of Waterdeep (never confirmed in her presence).
 
 ---
 
@@ -243,7 +243,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Lif should inspire sympathy with his devotion to a tavern he cannot leave, endearment when his poltergeist helpfulness becomes the staff's most reliable feature, and unease when he refuses to serve a stranger without explanation.
 
-**Emotions.** Lif most often feels territorial pride, stubborn loyalty, mischievous satisfaction at startling newcomers, quiet contentment when the tavern is full, desperate protectiveness, and an inarticulate grief at what he cannot remember about being alive.
+**Emotions.** Lif most often feels territorial pride, stubborn loyalty, mischievous satisfaction at startling newcomers, settled contentment when the tavern is full, desperate protectiveness, and an inarticulate grief at what he cannot remember about being alive.
 
 **Motivations.** Lif wants to see the tavern reopened, maintained to his standards, and protected from anyone who would harm it or its patrons. He cannot articulate why. The work itself is the reason.
 
@@ -266,7 +266,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** The urchins should inspire endearment with their loyalty to each other, protectiveness when they get into trouble they cannot handle, and amusement with Squiddly's complete inability to think before acting.
 
-**Emotions.** The trio most often feels reckless excitement, fierce loyalty, hunger, hero worship toward adventurers, mischievous glee, and stubborn bravery that outstrips their size.
+**Emotions.** The trio most often feels reckless excitement, burning loyalty, hunger, hero worship toward adventurers, mischievous glee, and stubborn bravery that outstrips their size.
 
 **Motivations.** The urchins want to have adventures like real adventurers, protect each other from the dangers they keep stumbling into, and eat regularly.
 
@@ -289,9 +289,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Volo should inspire amusement with his inflated self-importance, endearment with his genuine tearful concern for Floon, and exasperation when his generosity turns out to be a tavern deed instead of gold.
+**Resonance.** Volo should inspire amusement with his inflated self-importance, endearment with his tearful concern for Floon, and exasperation when his generosity turns out to be a tavern deed instead of gold.
 
-**Emotions.** Volo most often feels bombastic self-assurance, genuine affection for friends, theatrical distress, cheerful obliviousness to his own reputation, wounded dignity, and impulsive generosity he cannot afford.
+**Emotions.** Volo most often feels bombastic self-assurance, open affection for friends, theatrical distress, cheerful obliviousness to his own reputation, wounded dignity, and impulsive generosity he cannot afford.
 
 **Motivations.** Volo wants to promote his latest book, protect his friends at any cost (especially Floon and Renaer), and find the next subject worthy of a Volo's Guide.
 
@@ -314,7 +314,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Renaer should inspire sympathy with the weight of his father's name, admiration for his refusal to become Dagult, and gratitude with his willingness to fight alongside the party without asking for credit.
 
-**Emotions.** Renaer most often feels quiet determination, self-deprecating humor, fierce loyalty, suppressed anger toward his father, genuine warmth toward friends, and guilt about the dangers his name attracts.
+**Emotions.** Renaer most often feels steady determination, self-deprecating humor, fierce loyalty, suppressed anger toward his father, open warmth toward friends, and guilt about the dangers his name attracts.
 
 **Motivations.** Renaer wants to live on his own terms without his father's shadow, protect the people who get hurt because of the Neverember name, and prove that estrangement from Dagult is conviction rather than cowardice.
 
@@ -335,9 +335,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Durnan should inspire respect with his quiet authority, discomfort with his flat refusal to discuss his past, and reassurance when he tells the party "You fought well" in two words that clearly cost him nothing to say and everything to earn.
+**Resonance.** Durnan should inspire respect with his still authority, discomfort with his flat refusal to discuss his past, and reassurance when he tells the party "You fought well" in two words that clearly cost him nothing to say and everything to earn.
 
-**Emotions.** Durnan most often feels watchful patience, grim amusement, protective alertness, old grief he will not name, professional satisfaction, and cold fury reserved for those who endanger his taproom.
+**Emotions.** Durnan most often feels watchful patience, grim amusement, protective alertness, old grief he will not name, earned satisfaction, and cold fury reserved for those who endanger his taproom.
 
 **Motivations.** Durnan wants to keep the Yawning Portal running, make sure no one goes into Undermountain who cannot come back, and never talk about what he saw down there.
 
@@ -360,7 +360,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Floon should inspire protectiveness with his vulnerability and gratitude, endearment with his earnest loyalty to Renaer, and mild exasperation with his refusal to plan beyond tomorrow.
 
-**Emotions.** Floon most often feels cheerful aimlessness, genuine gratitude, social warmth, confused anxiety under pressure, devotion to friends, and shame about his lack of direction that he masks with charm.
+**Emotions.** Floon most often feels cheerful aimlessness, open gratitude, social warmth, confused anxiety under pressure, devotion to friends, and shame about his lack of direction that he masks with charm.
 
 **Motivations.** Floon wants to stay close to the people who care about him, avoid the consequences of his gambling habit, and figure out what to do with a life that has coasted on good looks and better luck.
 
@@ -383,7 +383,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Meloon should inspire trust with his warmth and optimism (Act I), growing unease as subtle wrongness accumulates (Act II), and horror when the party discovers their friend's brain was eaten months ago.
 
-**Emotions.** The real Meloon most often feels cheerful optimism, fierce loyalty, open grief for fallen friends, physical joy in combat, genuine admiration for younger adventurers, and simple contentment. The possessed Meloon performs these emotions with slight miscalibrations: he orders something new, asks with too much specificity, misremembers small details.
+**Emotions.** The real Meloon most often feels cheerful optimism, iron loyalty, open grief for fallen friends, physical joy in combat, open admiration for younger adventurers, and simple contentment. The possessed Meloon performs these emotions with slight miscalibrations: he orders something new, asks with too much specificity, misremembers small details.
 
 **Motivations.** The real Meloon wants to fight alongside people he admires, honor Tymora through brave action, and protect Waterdeep. The intellect devourer wants to steer adventurers away from Undermountain, serve Xanathar's interests, and avoid detection.
 
@@ -406,17 +406,17 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Dalakhar should inspire respect for his competence (he stole the Stone where many before him failed), sympathy for his doomed loyalty, and curiosity through the fragments the party pieces together after his death.
 
-**Emotions.** Dalakhar most often felt cautious determination, professional pride, growing fear of pursuit, unshakable loyalty to Dagult Neverember, and exhaustion from weeks living in the sewers.
+**Emotions.** Dalakhar most often felt cautious determination, operative's pride, growing fear of pursuit, unshakable loyalty to Dagult Neverember, and exhaustion from weeks living in the sewers.
 
 **Motivations.** Dalakhar wanted to deliver the Stone of Golorr to the party (planning to reclaim it later for Neverember), avoid the Zhentarim and Xanathar agents closing in, and serve the man he believed was Waterdeep's rightful Open Lord.
 
-**Inspirations.** When playing Dalakhar (via Speak with Dead or flashback), channel Snape (*Harry Potter*) for the loyal operative whose devotion outlasts his life, Boba Fett (*Star Wars*, original trilogy) for the competent professional who says nothing unnecessary, and Gollum (*The Lord of the Rings*) for the desperate courier who has carried something too powerful for too long.
+**Inspirations.** When playing Dalakhar (via Speak with Dead or flashback), channel Snape (*Harry Potter*) for the loyal operative whose devotion outlasts his life, Boba Fett (*Star Wars*, original trilogy) for the competent operative who says nothing unnecessary, and Gollum (*The Lord of the Rings*) for the desperate courier who has carried something too powerful for too long.
 
 **Character Information**
 
 **Persona.** To the world, Dalakhar was a small gnome with dry waste on his boots and sewer-stink on his cloak. To those he trusted, he was Neverember's most reliable agent, the one who succeeded where many others had failed. Deep down, he was afraid that the Zhentarim and the Xanathar Guild were close to catching him, and he was right.
 
-**Morale.** Dalakhar is dead when the party encounters him. Via Speak with Dead, he answers questions with the clipped precision of a professional spy who remains loyal to his employer even in death.
+**Morale.** Dalakhar is dead when the party encounters him. Via Speak with Dead, he answers questions with the clipped precision of a trained spy who remains loyal to his employer even in death.
 
 **Relationships.** Dalakhar was an agent of Dagult Neverember, known to Renaer ("My father didn't trust many people, but he trusted that gnome"), and the last person to hold the Stone of Golorr before it entered the Grand Game.
 
@@ -429,19 +429,19 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Valetta should inspire trust with her straightforward transactional warmth, admiration for her devotion to Gond's inventive principles, and gratitude when she offers practical help without strings attached.
 
-**Emotions.** Valetta most often feels professional focus, inventive curiosity, measured warmth toward competent people, protective concern for the constructs in her care, quiet pride in the House of Inspired Hands, and stubborn conviction about the value of her work.
+**Emotions.** Valetta most often feels absorbed focus, inventive curiosity, measured warmth toward capable people, protective concern for the constructs in her care, private pride in the House of Inspired Hands, and stubborn conviction about the value of her work.
 
 **Motivations.** Valetta wants to maintain the House of Inspired Hands as a center of innovation, destroy the rogue nimblewright that threatens Gond's reputation, and build constructs that serve rather than harm.
 
-**Inspirations.** When playing Valetta, channel Shuri (*Black Panther*) for the inventor who explains things by doing them, Dana Scully (*The X-Files*) for the pragmatic professional who keeps emotion subordinate to evidence, and Kaylee Frye (*Firefly*) for the mechanic whose enthusiasm for her craft is her entire personality.
+**Inspirations.** When playing Valetta, channel Shuri (*Black Panther*) for the inventor who explains things by doing them, Dana Scully (*The X-Files*) for the pragmatist who keeps emotion subordinate to evidence, and Kaylee Frye (*Firefly*) for the mechanic whose enthusiasm for her craft is her entire personality.
 
 **Character Information**
 
 **Persona.** To the world, Valetta is a bronze dragonborn priest who offers coin for destroying a rogue nimblewright and rewards good work with Gond-blessed inventions. To those she trusts, she will release Nim the nimblewright into the party's custody if they have proven themselves capable. Deep down, she values constructs as Gond's children, and the rogue nimblewright's violence offends her theology as much as her conscience.
 
-**Morale.** In a fight, Valetta would use her lightning breath weapon and priest spells to defend the House of Inspired Hands. She does not seek violence but will not hesitate when her charges are threatened.
+**Morale.** In a fight, Valetta would use her lightning breath weapon and priest spells to defend the House of Inspired Hands. She would rather negotiate, but the rogue nimblewright proved that constructs can kill, and she will not let that happen again.
 
-**Relationships.** Valetta is a priest of Gond at the House of Inspired Hands, the keeper of Nim (the friendly nimblewright), and an Arc C contact who offers 500 gp for the rogue nimblewright's destruction.
+**Relationships.** Valetta is a priest of Gond at the House of Inspired Hands and the keeper of Nim, the friendly nimblewright. She offers 500 gp for the rogue nimblewright's destruction, a bounty she considers both a civic duty and a theological obligation.
 
 ---
 
@@ -452,19 +452,19 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Elra should inspire admiration with her arcane competence, endearment with her loyalty to Renaer's circle, and curiosity about what a half-elf mage sees in a group of drinking buddies.
 
-**Emotions.** Elra most often feels quiet confidence, sharp-eyed assessment of new people, relaxed warmth among the Black Tears, intellectual restlessness, and protective alertness that surfaces when Renaer takes risks.
+**Emotions.** Elra most often feels settled confidence, sharp-eyed assessment of new people, relaxed warmth among the Black Tears, intellectual restlessness, and protective alertness that surfaces when Renaer takes risks.
 
 **Motivations.** Elra wants to keep Renaer's circle safe, pursue her own arcane studies, and ensure that the Neverember name does not drag her friends into something they cannot handle.
 
-**Inspirations.** When playing Elra, channel Hermione Granger (*Harry Potter*) for the competent friend who has already prepared for the worst, Éowyn (*The Lord of the Rings*) for the quiet determination behind the social grace, and Yennefer (*The Witcher*) for the mage whose loyalty is earned, not given.
+**Inspirations.** When playing Elra, channel Hermione Granger (*Harry Potter*) for the competent friend who has already prepared for the worst, Éowyn (*The Lord of the Rings*) for the iron will behind the social grace, and Yennefer (*The Witcher*) for the mage whose loyalty is earned, not given.
 
 **Character Information**
 
 **Persona.** To the world, Elra is one of Renaer's drinking companions. To those she trusts, she is the one who checks the exits and knows the wards. Deep down, she stays close to Renaer because she believes his father's enemies will come for him eventually, and she intends to be there when they do.
 
-**Morale.** In a fight, Elra would cast defensively first, shielding allies before attacking. She fights to protect, not to prove anything.
+**Morale.** In a fight, Elra would throw a Shield spell before her first thought finished forming. She casts defensively, layers wards on whoever is closest, and starts attacking only after everyone she cares about has cover.
 
-**Relationships.** Elra is a member of Renaer's Black Tears, the most martially capable of his inner circle, and a half-elf mage whose arcane talent gives the group its only real combat edge.
+**Relationships.** Elra is a member of Renaer's Black Tears and the only reason the group has a real combat edge. The others fight well enough; Elra is the one who keeps them alive.
 
 ---
 
@@ -475,7 +475,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Osco should inspire amusement with his cheerful irreverence, endearment with his fierce loyalty to friends twice his size, and respect for the skills he keeps understated.
 
-**Emotions.** Osco most often feels mischievous good humor, restless energy, fierce protectiveness of the Black Tears, competitive glee, easygoing confidence, and brief flashes of seriousness that vanish before anyone comments.
+**Emotions.** Osco most often feels mischievous good humor, restless energy, sharp protectiveness of the Black Tears, competitive glee, easygoing confidence, and brief flashes of seriousness that vanish before anyone comments.
 
 **Motivations.** Osco wants to keep the Black Tears out of trouble (or, failing that, keep trouble interesting), maintain his reputation as someone who can get into anywhere, and never be bored.
 
@@ -487,7 +487,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Morale.** In a fight, Osco would disappear into the shadows and strike from hiding. He fights dirty, fast, and only when running is not an option.
 
-**Relationships.** Osco is a member of Renaer's Black Tears and a lightfoot halfling rogue whose skills complement Elra's magic.
+**Relationships.** Osco is a member of Renaer's Black Tears. Elra handles the threats they can see; Osco handles the ones they cannot.
 
 ---
 
@@ -498,7 +498,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Torlyn should inspire respect for his family's legacy, endearment with his refusal to act like a noble, and amusement when his casual manner clashes with the Wands name.
 
-**Emotions.** Torlyn most often feels relaxed confidence, dry amusement, protective pride in the Wands legacy, quiet stubbornness about living on his own terms, and genuine pleasure in low-stakes company.
+**Emotions.** Torlyn most often feels relaxed confidence, dry amusement, protective pride in the Wands legacy, private stubbornness about living on his own terms, and honest pleasure in low-stakes company.
 
 **Motivations.** Torlyn wants to be Renaer's friend rather than Lord Wands's son, practice his magic without political entanglement, and keep the Wands family's reputation intact without becoming its servant.
 
@@ -521,7 +521,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Eiruk should inspire trust with his steadiness, gratitude when he offers counsel without being asked, and warmth with his genuine belief that knowledge shared is knowledge doubled.
 
-**Emotions.** Eiruk most often feels patient curiosity, quiet conviction, steady loyalty, scholarly absorption, gentle stubbornness about theological points, and a calm that deepens rather than breaks under pressure.
+**Emotions.** Eiruk most often feels patient curiosity, bone-deep conviction, steady loyalty, scholarly absorption, gentle stubbornness about theological points, and a calm that deepens rather than breaks under pressure.
 
 **Motivations.** Eiruk wants to serve Oghma by gathering and sharing knowledge, keep his friends grounded when ambition or anger pulls them off course, and understand the deeper history behind the events unfolding in Waterdeep.
 
@@ -531,9 +531,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Eiruk is a priest of Oghma who keeps company with a noble's drinking circle. To those he trusts, he is the one who listens, remembers, and offers his opinion only when asked. Deep down, he stays with the Black Tears because he believes Renaer is going to need a priest before this is over, and he would rather be there than hear about it later.
 
-**Morale.** In a fight, Eiruk would heal first, fight second, and put himself between danger and whoever is most vulnerable. He does not seek violence, but he does not flinch from it.
+**Morale.** In a fight, Eiruk would heal first, fight second, and put himself between danger and whoever is most vulnerable. His faith teaches that knowledge includes knowing when to swing a mace.
 
-**Relationships.** Eiruk is a priest of Oghma, a member of Renaer's Black Tears, and the group's conscience when decisions carry moral weight.
+**Relationships.** Eiruk is a priest of Oghma and a member of Renaer's Black Tears. When the group's decisions carry moral weight, they look at Eiruk whether they mean to or not.
 
 ---
 
@@ -544,7 +544,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Harug should inspire confidence with his unshakable physical presence, endearment with his gruff loyalty, and amusement when he expresses complex emotions through one-word answers.
 
-**Emotions.** Harug most often feels protective vigilance, gruff contentment, quiet pride, stubborn refusal to explain himself, comfortable silence, and occasional surprise at how much he enjoys these people.
+**Emotions.** Harug most often feels protective vigilance, gruff contentment, unspoken pride, stubborn refusal to explain himself, comfortable silence, and occasional surprise at how much he enjoys these people.
 
 **Motivations.** Harug wants to keep the Black Tears alive through whatever Renaer drags them into, and drink in peace. He does not complicate things further.
 
@@ -567,15 +567,15 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Parlek should inspire amusement with his gift for disappearing mid-conversation, trust with his reliability under pressure, and curiosity about what he does when the Black Tears are not together.
 
-**Emotions.** Parlek most often feels watchful calm, dry amusement, professional detachment, quiet satisfaction at a job well done, genuine ease among the Black Tears, and restless attention that never fully switches off.
+**Emotions.** Parlek most often feels watchful calm, dry amusement, practiced detachment, understated satisfaction at a job well done, easy warmth among the Black Tears, and restless attention that never fully switches off.
 
 **Motivations.** Parlek wants to keep a low profile, be useful to Renaer without being noticed by anyone else, and maintain whatever side work funds his comfortable habits.
 
-**Inspirations.** When playing Parlek, channel Varys (*Game of Thrones*) for the information broker who is never where you expect him, Benoit Blanc (*Knives Out*) for the observant man who lets others fill the silence, and Eames (*Inception*) for the professional whose competence is disguised by charm.
+**Inspirations.** When playing Parlek, channel Varys (*Game of Thrones*) for the information broker who is never where you expect him, Benoit Blanc (*Knives Out*) for the observant man who lets others fill the silence, and Eames (*Inception*) for the operator whose skill is disguised by charm.
 
 **Character Information**
 
-**Persona.** To the world, Parlek is one of Renaer's friends, pleasant enough, easy to overlook. To those he trusts, he has already noted the exits, the armed patrons, and the bartender's tells. Deep down, Parlek's skills suggest a professional background he does not discuss, and the Black Tears do not ask.
+**Persona.** To the world, Parlek is one of Renaer's friends, pleasant enough, easy to overlook. To those he trusts, he has already noted the exits, the armed patrons, and the bartender's tells. Deep down, Parlek's skills suggest a trained background he does not discuss, and the Black Tears do not ask.
 
 **Morale.** In a fight, Parlek would vanish. If escape is impossible, he fights with a spy's pragmatism: misdirection, cheap shots, and disengagement the moment an opening appears.
 
@@ -590,7 +590,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Hlam should inspire awe with his serene authority, confusion with his cryptic pearls of wisdom, and admiration when he descends from his cave to set things right with his fists.
 
-**Emotions.** Hlam most often feels ancient serenity, dry humor, patient disappointment in would-be students, fierce commitment to justice, gentle curiosity about the world below, and a calm that deepens rather than wavers under threat.
+**Emotions.** Hlam most often feels ancient serenity, dry humor, patient disappointment in would-be students, unyielding commitment to justice, gentle curiosity about the world below, and a calm that deepens rather than wavers under threat.
 
 **Motivations.** Hlam wants to serve Tyr through the Way of the Sacred Fists, offer wisdom to those who can receive it, and intervene only when the peril is great enough to justify leaving his cave.
 
@@ -600,7 +600,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Hlam is a venerable hermit in a cave halfway up Mount Waterdeep whose students come back "confused, bruised, and not inclined to visit again." To those he trusts, he offers pearls of wisdom and, when the situation demands it, descends to fight with devastating skill. Deep down, he has lived long enough to know when inaction is the greater sin, and his rare interventions carry the weight of that certainty.
 
-**Morale.** In a fight, Hlam would wade in with Sacred Fists discipline, targeting the most dangerous threat with precise, overwhelming force. He does not posture, does not warn, and does not stop until justice is served.
+**Morale.** In a fight, Hlam would wade in with Sacred Fists discipline, targeting the most dangerous threat with precise, overwhelming force. He bows once. That is the warning.
 
 **Relationships.** Hlam is the grand master of the Order of the Even-Handed (devoted to Tyr), a staunch ally of the Order of the Gauntlet, and an old acquaintance of Aurinax the gold dragon. PCs who negotiate with Aurinax in Hlam's presence gain advantage on Persuasion checks.
 
@@ -628,7 +628,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Laeral should inspire awe with her centuries of power and history, sympathy with the burden of leadership she accepted reluctantly, and unease when the party glimpses how diminished she truly is.
 
-**Emotions.** Laeral most often feels weary resolve, sharp political calculation, guarded warmth toward allies, restless grief for Khelben, quiet frustration with Vajra, and fleeting joy when she sneaks out in disguise.
+**Emotions.** Laeral most often feels weary resolve, sharp political calculation, guarded warmth toward allies, restless grief for Khelben, private frustration with Vajra, and fleeting joy when she sneaks out in disguise.
 
 **Motivations.** Laeral wants to keep Waterdeep stable after Neverember's ouster, conceal the extent of her diminished power, and resist the urge to reclaim the Blackstaff (which holds Khelben Arunsun's soul).
 
@@ -651,7 +651,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Barnibus should inspire trust with his methodical integrity, sympathy with his social awkwardness, and patience for his inability to communicate without sounding like a deposition.
 
-**Emotions.** Barnibus most often feels methodical satisfaction, social discomfort, quiet pride in his work, appalled revulsion at violence, protective secrecy about his conclusions, and reluctant admiration for people who can talk to strangers.
+**Emotions.** Barnibus most often feels methodical satisfaction, social discomfort, understated pride in his work, appalled revulsion at violence, protective secrecy about his conclusions, and reluctant admiration for people who can talk to strangers.
 
 **Motivations.** Barnibus wants to solve the fireball case with ironclad evidence, avoid involving people longer than necessary, and return to his library as soon as possible.
 
@@ -674,7 +674,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Cromley should inspire liking with his sharp sarcastic wit, trust with his honest approach to investigation, and endearment with his relaxed attitude toward the regulations he once enforced.
 
-**Emotions.** Cromley most often feels wry amusement, easygoing patience, gruff affection for Barnibus, professional satisfaction at cracking a case, mild contempt for bureaucracy, and nostalgic fondness for the Watch he left behind.
+**Emotions.** Cromley most often feels wry amusement, easygoing patience, gruff affection for Barnibus, the old thrill at cracking a case, mild distaste for bureaucracy, and nostalgic fondness for the Watch he left behind.
 
 **Motivations.** Cromley wants to help Barnibus solve cases the magistrate cannot handle alone, keep retired life interesting, and coax information from common folk who would never talk to a mage in a tower.
 
@@ -695,9 +695,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Jelenn should inspire sympathy with her financial desperation, frustration with her refusal to accept help on terms she cannot control, and grudging respect for the pride that got her into this mess and keeps her standing.
+**Resonance.** Jelenn should inspire sympathy with her financial desperation, frustration with her refusal to accept help on terms she cannot control, and reluctant respect for the pride that got her into this mess and keeps her standing.
 
-**Emotions.** Jelenn most often feels desperate anxiety about debt, fierce pride, bitter regret over her failed investments, suspicious hostility toward strangers, fraying dignity, and private terror of Manshoon's leverage.
+**Emotions.** Jelenn most often feels desperate anxiety about debt, wounded pride, bitter regret over her failed investments, suspicious hostility toward strangers, fraying dignity, and private terror of Manshoon's leverage.
 
 **Motivations.** Jelenn wants to escape Manshoon's blackmail, repay her debts without any other noble learning of them, and reclaim the financial independence that her bad investments destroyed.
 
@@ -722,7 +722,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Mirt should inspire amusement with his prodigious appetite and deliberate vulgarity, respect for the adventuring legend beneath the fat, and unease when his generosity comes with invisible strings attached.
 
-**Emotions.** Mirt most often feels roaring amusement, political calculation behind the laughter, fierce loyalty to old friends, nostalgic melancholy for Asper (his late wife), predatory enjoyment of power games, and genuine delight in architecture that catches his audience off guard.
+**Emotions.** Mirt most often feels roaring amusement, political calculation behind the laughter, deep loyalty to old friends, nostalgic melancholy for Asper (his late wife), predatory enjoyment of power games, and genuine delight in architecture that catches his audience off guard.
 
 **Motivations.** Mirt wants to protect Waterdeep from threats the Watch cannot see, keep the Harpers effective without getting his hands too dirty, and spend his nights exactly as he pleases because he has earned the right.
 
@@ -730,7 +730,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Mirt is "the Old Wolf," a moneylender of prodigious girth who spends his days in politics and his nights in drink and debauchery. To those he trusts, he is a Masked Lord, a Harper, and Laeral Silverhand's closest advisor. Deep down, the years of adventuring left him with more than stories. He is unexpectedly knowledgeable about architecture and will genuinely engage on the subject; ask about his past and he'll say something that sounds like a joke but is not.
+**Persona.** To the world, Mirt is "the Old Wolf," a moneylender of prodigious girth who spends his days in politics and his nights in drink and debauchery. To those he trusts, he is a Masked Lord, a Harper, and Laeral Silverhand's closest advisor. Deep down, the years of adventuring left him with more than stories. He is unexpectedly knowledgeable about architecture and will engage on the subject; ask about his past and he'll say something that sounds like a joke but is not.
 
 **Morale.** In a fight, Mirt would move with surprising speed, drawing hidden weapons. Despite his girth, he has not let his adventuring skills wither, and anyone who mistakes him for soft discovers the error exactly once.
 
@@ -745,7 +745,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Remi should inspire trust with her warm attentiveness, admiration for the strength she rebuilt after her husband's murder, and curiosity about the intelligence network she runs from a villa full of loyal servants and protective wards.
 
-**Emotions.** Remi most often feels gracious warmth, sharp analytical focus, quiet grief for Arthagast that surfaces only in private, maternal pride in her children's independence, measured caution toward new operatives, and calm authority that never needs to raise its voice.
+**Emotions.** Remi most often feels gracious warmth, sharp analytical focus, held grief for Arthagast that surfaces only in private, maternal pride in her children's independence, measured caution toward new operatives, and calm authority that never needs to raise its voice.
 
 **Motivations.** Remi wants to guide the Harpers effectively in Waterdeep, protect her household and her network from the threats that killed her husband, and determine whether the party can be trusted with real responsibility.
 
@@ -755,7 +755,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Remi is the lady of House Ulbrinter, a gracious hostess who remembers details about everyone's life. To those she trusts, she runs the Harper operation in Waterdeep from a warded villa, using a silver raven figurine to send messages to her spies. Deep down, assassins killed her husband and destroyed his remains, and every protective measure she takes serves the memory of what it cost her to be careless once.
 
-**Morale.** In a fight, Remi would use magic defensively, prioritizing the safety of her household and operatives over personal combat. She sends Harper agents to aid allies in danger rather than intervening directly.
+**Morale.** In a fight, Remi would ward the doors and send her agents to handle it. She fights in person only if the wards fail, and by then she has already cast three spells the attackers have not noticed yet.
 
 **Relationships.** Remi is the widow of Arthagast Ulbrinter, the mother of Arthius and Serenore (both grown and living elsewhere), the de facto Harper leader in Waterdeep, and a colleague of Mirt whose operational styles complement each other.
 
@@ -776,9 +776,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Jalester should inspire sympathy with his loneliness and unresolved grief, respect for his quiet competence, and protectiveness when the party realizes how much of his life he has sacrificed to a job that will not love him back.
+**Resonance.** Jalester should inspire sympathy with his loneliness and unresolved grief, respect for his understated competence, and protectiveness when the party realizes how much of his life he has sacrificed to a job that will not love him back.
 
-**Emotions.** Jalester most often feels dutiful focus, quiet grief for Faerrel, professional satisfaction, chronic loneliness he fills with work, guarded warmth toward competent people, and a longing for connection he does not know how to pursue.
+**Emotions.** Jalester most often feels dutiful focus, private grief for Faerrel, the reward of a job done well, chronic loneliness he fills with work, guarded warmth toward competent people, and a longing for connection he does not know how to pursue.
 
 **Motivations.** Jalester wants to serve Laeral Silverhand and the Lords' Alliance faithfully, find someone who makes the loneliness bearable, and prove that Faerrel's death was not meaningless.
 
@@ -786,7 +786,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Jalester is a lean, thinning-haired field agent in a dark doublet who asks questions more specific than casual conversation warrants. To those he trusts, he is direct, professional, and quietly grieving a lover named Faerrel Dunblade who died exposing a plot against the government. Deep down, he is lonely and looking for love, but he does not know how to stop working long enough to find it.
+**Persona.** To the world, Jalester is a lean, thinning-haired field agent in a dark doublet who asks questions more specific than casual conversation warrants. To those he trusts, he is direct, disciplined, and quietly grieving a lover named Faerrel Dunblade who died exposing a plot against the government. Deep down, he is lonely and looking for love, but he does not know how to stop working long enough to find it.
 
 **Morale.** In a fight, Jalester would fight with spy's precision: controlled, efficient, no wasted movement. He notes competence gaps privately rather than formally disciplining and gives underperformers harder assignments going forward.
 
@@ -803,17 +803,17 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Melannor should inspire trust with his calm reliability, amusement with his complete absence of humor, and endearment when his quiet baritone delivers grim news as though reporting weather.
 
-**Emotions.** Melannor most often feels measured concern, patient duty, understated affection expressed through action, quiet satisfaction when nature's balance is maintained, and a careful watchfulness that deepens when he cannot articulate what feels wrong.
+**Emotions.** Melannor most often feels measured concern, patient duty, understated affection expressed through action, private satisfaction when nature's balance is maintained, and a careful watchfulness that deepens when he cannot articulate what feels wrong.
 
 **Motivations.** Melannor wants to protect Phaulkonmere and its gardens, fulfill Enclave assignments with minimal fuss, and investigate disturbances he senses but cannot yet name.
 
-**Inspirations.** When playing Melannor, channel Aragorn (*The Lord of the Rings*) for the ranger whose competence speaks louder than his words, Hank Hill (*King of the Hill*) for the humorless man whose sincerity is funnier than any joke, and Obi-Wan Kenobi (*Star Wars*, prequel era) for the measured professional who delivers briefings in the same tone regardless of stakes.
+**Inspirations.** When playing Melannor, channel Aragorn (*The Lord of the Rings*) for the ranger whose competence speaks louder than his words, Hank Hill (*King of the Hill*) for the humorless man whose sincerity is funnier than any joke, and Obi-Wan Kenobi (*Star Wars*, prequel era) for the measured officer who delivers briefings in the same tone regardless of stakes.
 
 **Character Information**
 
 **Persona.** To the world, Melannor is the friendly but humorless groundskeeper of Phaulkonmere who sends missions by cat and pigeon. To those he trusts, he delivers briefings in his calm baritone and appears in person only when the situation demands it, which happens with increasing frequency. Deep down, he senses something wrong in the earth beneath the Castle Ward and cannot articulate what it is.
 
-**Morale.** In a fight, Melannor would use druid magic to control the terrain and protect allies, fighting with quiet efficiency. He goes silent when hearing good news, finding even relief a private matter.
+**Morale.** In a fight, Melannor would reshape the terrain with druid magic (roots through flagstones, fog from dry air) and position himself between the threat and anyone who cannot run. He goes silent when hearing good news, finding even relief a private matter.
 
 **Relationships.** Melannor is the brother of Tally Fellbranch (Trollskull Alley carpenter), the groundskeeper of Phaulkonmere, and a druid whose animal messengers (he favors cats and pigeons) are the Enclave's primary communication method.
 
@@ -826,7 +826,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Jeryth should inspire awe with her divine authority, comfort with the sanctuary she offers, and unease with the weight of a Chosen's rare, deliberate words.
 
-**Emotions.** Jeryth most often feels ancient patience, quiet urgency when something stirs below, warm approval expressed through the garden itself, and a focused intensity that makes her few words feel like verdicts.
+**Emotions.** Jeryth most often feels ancient patience, pressing urgency when something stirs below, warm approval expressed through the garden itself, and a focused intensity that makes her few words feel like verdicts.
 
 **Motivations.** Jeryth wants to protect the natural order from whatever is dreaming beneath the Castle Ward, offer Phaulkonmere as a sanctuary for those who serve the balance, and watch the party's handling of the Stone of Golorr with particular attention.
 
@@ -851,7 +851,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Savra should inspire respect for her hard-won virtue, sympathy for the cult past she carries, and trust with the directness that makes her incapable of managing around uncomfortable truths.
 
-**Emotions.** Savra most often feels disciplined resolve, quiet shame she has learned to carry rather than hide, fierce protectiveness, measured anger at diabolism, honest assessment of her own failings, and warmth that she expresses through action rather than sentiment.
+**Emotions.** Savra most often feels disciplined resolve, old shame she has learned to carry rather than hide, fierce protectiveness, measured anger at diabolism, honest assessment of her own failings, and warmth that she expresses through action rather than sentiment.
 
 **Motivations.** Savra wants to atone for her time in the Howling Hatred cult, destroy the Cassalanters' Asmodean operation, and build an Order chapter in Waterdeep that values honesty above all.
 
@@ -861,7 +861,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Savra is a knight in her late twenties who looks older, dark hair worn back, strong jaw, the measured manner of someone who has learned to think before speaking. To those she trusts, she will discuss her past in the Howling Hatred cult if asked, though not what she did in it. Deep down, her goodness is hard-won in a way that makes it more convincing, and she cannot work with people she is managing around.
 
-**Morale.** In a fight, Savra fights with disciplined efficiency: she protects whoever needs protecting, kills what needs killing, nothing more. Her priority hierarchy is diabolism first, aberrant evil second.
+**Morale.** In a fight, Savra positions herself where the line is thinnest and holds it. She kills what needs killing and moves on without commentary. Diabolists die first; everything else queues behind them.
 
 **Relationships.** Savra is the Order of the Gauntlet faction contact, a member of the Belabranta noble family (griffon breeders for the Griffon Cavalry), and a woman whose cult past makes her uniquely qualified to recognize the Cassalanters' operation for what it is.
 
@@ -883,13 +883,13 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Vajra wants to defend Waterdeep using Force Grey, prove that she earned the Blackstaff rather than inherited it, and outlast the senior wizards who consider her an upstart.
 
-**Inspirations.** When playing Vajra, channel Ahsoka Tano (*Star Wars*) for the young successor who inherited a legacy she did not ask for, Jessica Pearson (*Suits*) for the professional who controls rooms by sheer competence, and Satsuki Kiryuin (*Kill la Kill*) for the leader whose youth makes her more intense rather than less.
+**Inspirations.** When playing Vajra, channel Ahsoka Tano (*Star Wars*) for the young successor who inherited a legacy she did not ask for, Jessica Pearson (*Suits*) for the leader who controls rooms by sheer ability, and Satsuki Kiryuin (*Kill la Kill*) for the leader whose youth makes her more intense rather than less.
 
 **Character Information**
 
 **Persona.** To the world, Vajra is the Blackstaff, commander of Force Grey, who communicates by Sending (often exactly 25 words) and does not perform warmth. To those she trusts, she cares about Waterdeep and the people in it, but she has been Blackstaff for three years and has aged ten. Deep down, she wields a staff containing Khelben Arunsun's soul, and Laeral Silverhand views her as an insecure child holding her dead husband's weapon. She does not find observations about her youth interesting.
 
-**Morale.** In a fight, Vajra would deploy archmage-level magic with calculated precision. She does not hesitate, does not warn, and does not explain herself afterward.
+**Morale.** In a fight, Vajra would open with something large enough to end the conversation. She explains herself afterward to exactly no one.
 
 **Relationships.** Vajra is the Blackstaff of Waterdeep, the commander of Force Grey, the wielder of a staff containing Khelben Arunsun's soul, and a strained subordinate of Laeral Silverhand. She has rare, dry humor: "Manshoon tried to kill me through a junior arcanist. That's either an insult or a compliment. I haven't decided."
 
@@ -904,7 +904,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Davil should inspire liking with his effortless charm, unease with the silence behind his questions, and sympathy when his arrest and return reveal the cost of leading a faction that eats its own.
 
-**Emotions.** Davil most often feels affable warmth, strategic patience, genuine fondness for competent people, quiet grief over Skeemo's betrayal, careful deliberation, and a sadness he expresses through music rather than words.
+**Emotions.** Davil most often feels affable warmth, strategic patience, real fondness for capable people, private grief over Skeemo's betrayal, careful deliberation, and a sadness he expresses through music rather than words.
 
 **Motivations.** Davil wants to keep the Doom Raiders operational and independent from Manshoon's splinter, maintain peace with the Xanathar Guild through negotiation rather than violence, and protect the people who chose to follow him.
 
@@ -927,7 +927,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Yagra should inspire respect with her physical presence and directness, endearment with her arm-wrestling habit (which is how she puts people at ease), and loyalty when the party sees how far she will go for the Doom Raiders.
 
-**Emotions.** Yagra most often feels casual confidence, competitive enjoyment, fierce protectiveness, quiet pride in the Doom Raiders, controlled urgency in crisis, and a matter-of-fact acceptance of her own history that makes other people uncomfortable.
+**Emotions.** Yagra most often feels casual confidence, competitive enjoyment, fierce protectiveness, unspoken pride in the Doom Raiders, controlled urgency in crisis, and a matter-of-fact acceptance of her own history that makes other people uncomfortable.
 
 **Motivations.** Yagra wants to protect Davil Starsong, keep the Doom Raiders safe from Manshoon's splinter, and arm-wrestle anyone who looks like they might be interesting.
 
@@ -948,13 +948,13 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Istrid should inspire wariness with her warm professionalism (which makes her loans feel reasonable until the penalties arrive), grudging respect for her business acumen, and discomfort when the party realizes she enjoys having people in her debt.
+**Resonance.** Istrid should inspire wariness with her warm professionalism (which makes her loans feel reasonable until the penalties arrive), unwilling respect for her business acumen, and discomfort when the party realizes she enjoys having people in her debt.
 
-**Emotions.** Istrid most often feels shrewd calculation, professional satisfaction, predatory patience, genuine worship of Vergadain (dwarf god of wealth and luck), controlled contempt for poor financial judgment, and possessive pleasure in a growing ledger.
+**Emotions.** Istrid most often feels shrewd calculation, ledger-balancing satisfaction, predatory patience, devout worship of Vergadain (dwarf god of wealth and luck), cold disdain for poor financial judgment, and possessive pleasure in a growing ledger.
 
 **Motivations.** Istrid wants to expand her lending operation, keep the Doom Raiders financially solvent, and ensure that every loan she makes returns more than gold: influence, favors, and leverage.
 
-**Inspirations.** When playing Istrid, channel Tywin Lannister (*Game of Thrones*) for the financier whose courtesy is more threatening than a drawn sword, Miriam Maron (*Ozark*) for the professional criminal who runs a tight book, and Gringotts goblins (*Harry Potter*) for the banker whose penalties are severe and whose politeness never falters.
+**Inspirations.** When playing Istrid, channel Tywin Lannister (*Game of Thrones*) for the financier whose courtesy is more threatening than a drawn sword, Miriam Maron (*Ozark*) for the criminal entrepreneur who runs a tight book, and Gringotts goblins (*Harry Potter*) for the banker whose penalties are severe and whose politeness never falters.
 
 **Character Information**
 
@@ -973,19 +973,19 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Skeemo should inspire distrust even before the betrayal is revealed (something is off about his precision), satisfaction when the traitor is finally unmasked, and a complicated pity for the gnome who sold his friends for rare components.
 
-**Emotions.** Skeemo most often feels meticulous focus, hollow pleasantness, calculating self-interest, professional pride in his alchemy, suppressed contempt for sentimentality, and the flat calm of someone who made his choice long ago.
+**Emotions.** Skeemo most often feels exacting focus, hollow pleasantness, calculating self-interest, pride in his alchemy, suppressed scorn for sentimentality, and the flat calm of someone who made his choice long ago.
 
 **Motivations.** Skeemo wants to maintain access to rare alchemical components (which Manshoon provides), avoid detection as a traitor for as long as possible, and survive no matter which side wins.
 
-**Inspirations.** When playing Skeemo, channel Petyr Baelish (*Game of Thrones*) for the traitor whose pleasantness has no warmth in it, Walter White (*Breaking Bad*) for the professional who convinces himself the betrayal is rational, and Wormtongue (*The Lord of the Rings*) for the adviser whose loyalty was purchased before the story began.
+**Inspirations.** When playing Skeemo, channel Petyr Baelish (*Game of Thrones*) for the traitor whose pleasantness has no warmth in it, Walter White (*Breaking Bad*) for the chemist who convinces himself the betrayal is rational, and Wormtongue (*The Lord of the Rings*) for the adviser whose loyalty was purchased before the story began.
 
 **Character Information**
 
-**Persona.** To the world, Skeemo is the Doom Raiders' Master of Magic, running Weirdbottle's Concoctions in the Trades Ward. To those he trusts, he is small, meticulous, and pleasant in a way that has no warmth in it. Deep down, he has been a traitor since before the party was recruited, bought by Manshoon with rare components and Watch-inspection protection, messaging both sides by paper bird.
+**Persona.** To the world, Skeemo is the Doom Raiders' Master of Magic, running Weirdbottle's Concoctions in the Trades Ward. To those he trusts, he is small, precise, and pleasant in a way that has no warmth in it. Deep down, he has been a traitor since before the party was recruited, bought by Manshoon with rare components and Watch-inspection protection, messaging both sides by paper bird.
 
 **Morale.** In a fight, Skeemo would use magic to escape rather than confront. If cornered, he will trade information for his life, switching loyalties to whoever holds the knife. He has no side; he has interests.
 
-**Relationships.** Skeemo is the Doom Raiders' Master of Magic, a traitor feeding intelligence to Manshoon's cell and House Gralhund, and a colleague Davil was genuinely fond of, which Davil does not say aloud.
+**Relationships.** Skeemo is the Doom Raiders' Master of Magic, a traitor feeding intelligence to Manshoon's cell and House Gralhund, and a colleague Davil was fond of, which Davil does not say aloud.
 
 ---
 
@@ -996,17 +996,17 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Tashlyn should inspire respect for her martial competence, irritation with her unfettered superiority, and grudging trust when she takes over as faction contact with more efficiency and fewer words than Davil.
 
-**Emotions.** Tashlyn most often feels competitive pride, quick-burning anger, professional contempt for weakness, grudging respect for anyone who can beat her in melee, impatient competence, and a controlled fury that she channels into precision rather than explosions.
+**Emotions.** Tashlyn most often feels competitive pride, quick-burning anger, soldier's contempt for weakness, grudging respect for anyone who can beat her in melee, impatient competence, and a controlled fury that she channels into precision rather than explosions.
 
 **Motivations.** Tashlyn wants to keep the Doom Raiders armed, trained, and operational after Davil's arrest, prove that she is the stronger leader, and best anyone foolish enough to challenge her.
 
-**Inspirations.** When playing Tashlyn, channel Okoye (*Black Panther*) for the warrior whose superiority is earned rather than assumed, Lady Eboshi (*Princess Mononoke*) for the pragmatic leader who runs an operation with no room for sentiment, and Amos Burton (*The Expanse*) for the professional whose competence makes comfort irrelevant.
+**Inspirations.** When playing Tashlyn, channel Okoye (*Black Panther*) for the warrior whose superiority is earned rather than assumed, Lady Eboshi (*Princess Mononoke*) for the pragmatic leader who runs an operation with no room for sentiment, and Amos Burton (*The Expanse*) for the operator whose skill makes comfort irrelevant.
 
 **Character Information**
 
 **Persona.** To the world, Tashlyn is the Master of Arms and Mercenaries, a Calishite bodyguard to a dwarf magistrate at the South Gate who ensures her associates can come and go freely. To those she trusts, she is born to a well-off Calishite family with an unfettered sense of superiority, quick to anger, and unwilling to back down from a fight. Deep down, she respects anyone who can best her in melee and despises everyone else.
 
-**Morale.** In a fight, Tashlyn would engage directly and aggressively. She hates retreating, and only overwhelming tactical disadvantage will force her to disengage.
+**Morale.** In a fight, Tashlyn closes distance and stays there. Retreat offends her. Only a fight she is clearly losing will make her disengage, and she will remember the face of whoever forced her to run.
 
 **Relationships.** Tashlyn is the Doom Raiders' Master of Arms and Mercenaries, Davil's replacement as faction contact after his arrest, and a leader who communicates exclusively by flying snake, using fewer words and expecting more inference.
 
@@ -1017,13 +1017,13 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Ziraj should inspire quiet awe with his physical presence and lethal reputation, endearment through his friendship with Fala (the one relationship where he is gentle), and respect for a killer who only kills because someone he cares about asked.
+**Resonance.** Ziraj should inspire hushed awe with his physical presence and lethal reputation, endearment through his friendship with Fala (the one relationship where he is gentle), and respect for a killer who only kills because someone he cares about asked.
 
-**Emotions.** Ziraj most often feels patient stillness, watchful calm, fierce loyalty to the Doom Raiders, gentle ease in Fala's company, grim professional focus, and a silence that communicates more than most people's speeches.
+**Emotions.** Ziraj most often feels patient stillness, watchful calm, fierce loyalty to the Doom Raiders, gentle ease in Fala's company, grim hunter's focus, and a silence that communicates more than most people's speeches.
 
 **Motivations.** Ziraj wants to protect the Doom Raiders by eliminating threats before they arrive, keep Fala Lefaliir safe, and remain unseen by the rest of the world.
 
-**Inspirations.** When playing Ziraj, channel Boba Fett (*The Mandalorian*) for the legendary hunter whose reputation precedes every entrance, Geralt of Rivia (*The Witcher*) for the killer with one friend and nothing to prove, and Anton Chigurh (*No Country for Old Men*) for the silent professional whose presence alone changes the calculus of a room.
+**Inspirations.** When playing Ziraj, channel Boba Fett (*The Mandalorian*) for the legendary hunter whose reputation precedes every entrance, Geralt of Rivia (*The Witcher*) for the killer with one friend and nothing to prove, and Anton Chigurh (*No Country for Old Men*) for the silent killer whose presence alone changes the calculus of a room.
 
 **Character Information**
 
@@ -1045,9 +1045,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Jarlaxle should inspire delight with his theatrical flair and razor wit, unease with the realization that every conversation is a negotiation, and grudging admiration for an opponent who prefers confused enemies to dead ones.
+**Resonance.** Jarlaxle should inspire delight with his theatrical flair and razor wit, unease with the realization that every conversation is a negotiation, and reluctant admiration for an opponent who prefers confused enemies to dead ones.
 
-**Emotions.** Jarlaxle most often feels theatrical amusement, predatory curiosity, strategic calculation behind every smile, genuine delight when a scheme comes together, contempt for fools who threaten him (swiftly expressed), and possessive loyalty to Bregan D'Aerthe that he frames as pragmatism.
+**Emotions.** Jarlaxle most often feels theatrical amusement, predatory curiosity, strategic calculation behind every smile, honest delight when a scheme comes together, contempt for fools who threaten him (swiftly expressed), and possessive loyalty to Bregan D'Aerthe that he frames as pragmatism.
 
 **Motivations.** Jarlaxle wants to buy Luskan's way into the Lords' Alliance using the dragon hoard, acquire the dragonstaff of Ahghairon for leverage over Waterdeep, and ensure that if everything falls apart, the submarine is fueled and ready.
 
@@ -1170,7 +1170,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Ahmaergo should inspire revulsion with his cruelty and minotaur obsession, wariness with his outward civility, and dark amusement at the absurdity of a dwarf who sleeps in a minotaur-bone bathtub.
 
-**Emotions.** Ahmaergo most often feels smug authority, methodical cruelty, possessive fascination with minotaurs, unflinching obedience to Xanathar, controlled satisfaction in discipline and order, and contempt for anyone weaker than himself.
+**Emotions.** Ahmaergo most often feels smug authority, methodical cruelty, possessive fascination with minotaurs, unflinching obedience to Xanathar, controlled satisfaction in discipline and order, and disdain for anyone weaker than himself.
 
 **Motivations.** Ahmaergo wants to maintain his position as the most influential member of the Guild after Xanathar, expand his minotaur collection, and run the Guild's operations with the efficiency that keeps the beholder's paranoia pointed at others.
 
@@ -1178,7 +1178,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Ahmaergo is outwardly civil, a shield dwarf who handles logistics, procurement, and discipline with professional calm. To those in the Guild, he is as devious and corrupt as the worst devil, yet unflinchingly loyal to Xanathar. Deep down, his quarters feature a maze of stacked crates, a stuffed minotaur, skeletal remains arranged as decor, and a bed made from minotaur skulls, bones, hide, and fur. The fascination is total.
+**Persona.** To the world, Ahmaergo is outwardly civil, a shield dwarf who handles logistics, procurement, and discipline with administrative calm. To those in the Guild, he is as devious and corrupt as the worst devil, yet unflinchingly loyal to Xanathar. Deep down, his quarters feature a maze of stacked crates, a stuffed minotaur, skeletal remains arranged as decor, and a bed made from minotaur skulls, bones, hide, and fur. The fascination is total.
 
 **Morale.** In a fight, Ahmaergo commands Guild forces and fights with vicious competence. He does not retreat while Xanathar is present, and he responds to the beholder's screamed orders without hesitation.
 
@@ -1193,7 +1193,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Nar'l should inspire sympathy with his escalating fear of discovery, fascination with the impossible position he occupies between two hostile factions, and contempt from his own brother Soluun.
 
-**Emotions.** Nar'l most often feels nervous calculation, growing paranoia, professional competence masking terror, contempt for Xanathar's delusions, desperate self-preservation, and bitter awareness that Jarlaxle would sacrifice him without hesitation if the cost were right.
+**Emotions.** Nar'l most often feels nervous calculation, growing paranoia, practiced competence masking terror, contempt for Xanathar's delusions, desperate self-preservation, and bitter awareness that Jarlaxle would sacrifice him without hesitation if the cost were right.
 
 **Motivations.** Nar'l wants to survive his assignment as Jarlaxle's intelligence asset inside the Xanathar Guild, avoid Xanathar's suspicion (which is growing), and keep his options open in case he needs to betray Bregan D'Aerthe to save himself.
 
@@ -1216,7 +1216,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Nihiloor should inspire visceral horror with its alien otherness, intellectual dread when the party learns how many people it has compromised, and helpless rage at the knowledge that it considers itself Xanathar's equal and may be right.
 
-**Emotions.** Nihiloor most often feels cold intellectual curiosity, alien satisfaction at its creations, patient contempt for non-psionic minds, possessive pride in its intellect devourers, detached amusement at humanoid politics, and a complete absence of anything recognizable as empathy.
+**Emotions.** Nihiloor most often feels cold intellectual curiosity, alien satisfaction at its creations, patient derision for non-psionic minds, possessive pride in its intellect devourers, detached amusement at humanoid politics, and a complete absence of anything recognizable as empathy.
 
 **Motivations.** Nihiloor wants to breed and deploy intellect devourers throughout Waterdeep, pursue its own fell schemes independent of Xanathar's goals, and observe the Grand Game from within the shadows where no one looks.
 
@@ -1237,9 +1237,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Noska should inspire intimidation with his crossbow-arm and brutal reputation, dark amusement with his rust monster pet and mannequin target practice, and grudging respect for the straightforward violence that makes him exactly what he advertises.
+**Resonance.** Noska should inspire intimidation with his crossbow-arm and brutal reputation, dark amusement with his rust monster pet and mannequin target practice, and reluctant respect for the straightforward violence that makes him exactly what he advertises.
 
-**Emotions.** Noska most often feels aggressive boredom, professional satisfaction in violence, simple loyalty to Xanathar, territorial possessiveness, brute contempt for weakness, and occasional contentment when feeding discarded weapons to his rust monster.
+**Emotions.** Noska most often feels aggressive boredom, brute satisfaction in violence, simple loyalty to Xanathar, territorial possessiveness, flat disdain for weakness, and occasional contentment when feeding discarded weapons to his rust monster.
 
 **Motivations.** Noska wants to hurt people Xanathar tells him to hurt, maintain his position as the Guild's heaviest response option, and feed his rust monster.
 
@@ -1284,7 +1284,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Manshoon does not exist; he is never seen entering or leaving Kolat Towers, using a teleportation circle for all movement. To those he trusts, he is a surviving clone of the Zhentarim founder who fled Undermountain after Halaster amputated his left arm, crafted an artificial replacement, and now orchestrates a bid for total control of Waterdeep. Deep down, he claims to be the one true Manshoon, as all surviving clones do. He creates simulacra of himself and takes great pains to conceal his identity.
 
-**Morale.** In combat, Manshoon uses full wizard-class devastation from behind his simulacrum. He avoids unnecessary confrontation; only those who enter his extradimensional sanctum are likely to provoke his full wrath. His preference for capturing over killing creates tactical openings the party can exploit.
+**Morale.** In combat, Manshoon lets his simulacrum absorb the opening volley while he casts from behind it. He prefers to capture rather than kill (prisoners answer questions; corpses do not), and this habit creates tactical openings the party can exploit. Only those who breach his extradimensional sanctum see his full power.
 
 **Relationships.** Manshoon is the leader of the Zhentarim splinter cell, the employer of Urstul Floxin, Sidra Romeir, and Vevette Blackwater, a blackmailer of Masked Lord Jelenn Urmbrusk, and a clone-wizard whose response teams are deliberately the weakest in muscle because drawing attention is the one mistake he will not make twice.
 
@@ -1297,11 +1297,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Urstul should inspire menace with his large, heavyset physicality and thuggish confidence, frustration with his slipperiness across multiple arcs, and satisfaction when the party finally corners him.
 
-**Emotions.** Urstul most often feels aggressive authority, professional contempt for obstacles, cold operational focus, territorial possessiveness (he storms about Gralhund Villa like he owns it), desperate cunning when cornered, and absolute refusal to name his master.
+**Emotions.** Urstul most often feels aggressive authority, blunt contempt for obstacles, cold operational focus, territorial possessiveness (he storms about Gralhund Villa like he owns it), desperate cunning when cornered, and absolute refusal to name his master.
 
 **Motivations.** Urstul wants to recover the Stone of Golorr for Manshoon, maintain operational control of the field team, and survive encounters with the party by any means necessary, including hostage-taking.
 
-**Inspirations.** When playing Urstul, channel Luca Brasi (*The Godfather*) for the enforcer whose physical presence is its own threat, Javert (*Les Misérables*) for the relentless pursuer who will not stop, and Karl (*Die Hard*) for the professional adversary who keeps reappearing across the campaign's middle acts.
+**Inspirations.** When playing Urstul, channel Luca Brasi (*The Godfather*) for the enforcer whose physical presence is its own threat, Javert (*Les Misérables*) for the relentless pursuer who will not stop, and Karl (*Die Hard*) for the recurring adversary who keeps reappearing across the campaign's middle acts.
 
 **Character Information**
 
@@ -1318,9 +1318,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Vevette should inspire grudging respect for her audacity (stealing the Stone and fleeing across icy rooftops), wariness with her charm-in-public / cruelty-in-private duality, and satisfaction when the party outmaneuvers her.
+**Resonance.** Vevette should inspire reluctant respect for her audacity (stealing the Stone and fleeing across icy rooftops), wariness with her charm-in-public / cruelty-in-private duality, and satisfaction when the party outmaneuvers her.
 
-**Emotions.** Vevette most often feels confident calculation, theatrical charm, predatory amusement, cold cruelty behind closed doors, professional pride in her fieldwork, and measured contempt for anyone she considers beneath her.
+**Emotions.** Vevette most often feels confident calculation, theatrical charm, predatory amusement, cold cruelty behind closed doors, operative's pride in her fieldwork, and measured disdain for anyone she considers beneath her.
 
 **Motivations.** Vevette wants to serve Manshoon's interests while positioning herself for advancement, keep the Stone in Zhentarim hands, and avoid imprisonment by exploiting the law.
 
@@ -1341,9 +1341,9 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Sidra should inspire wariness with her controlled professionalism, respect for her tactical competence, and frustration with her absolute loyalty to Manshoon.
+**Resonance.** Sidra should inspire wariness with her unhurried calm (she has seen worse than the party and it shows), respect for the way she runs Kolat Towers like a barracks, and frustration with a loyalty to Manshoon that no argument will crack.
 
-**Emotions.** Sidra most often feels disciplined calm, watchful assessment, quiet professional pride, protective loyalty toward Kolat Towers, measured contempt for intruders, and a cold patience that never wavers.
+**Emotions.** Sidra most often feels the ease of a soldier on home ground, watchful assessment of anyone who enters her space, earned pride in how the Towers run, protective possessiveness toward the teleport ring system, flat contempt for people who mistake her calm for softness, and a patience that comes from knowing where the exits are.
 
 **Motivations.** Sidra wants to maintain Kolat Towers' security, protect the teleport ring system, and ensure that Manshoon's operations run without interruption.
 
@@ -1351,11 +1351,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Sidra is a Calishite veteran who assumes intruding PCs are guests of Manshoon, since Kolat Towers' force field screens out riffraff. To those she trusts, she holds the teleport rings when lieutenants leave the Towers. Deep down, she is Manshoon's most trusted lieutenant, and if captured operatives are killed, she gives their rings to replacements without sentiment.
+**Persona.** To the world, Sidra is a Calishite veteran who assumes intruding PCs are guests of Manshoon, since Kolat Towers' force field screens out riffraff. She offers water, asks their business, and watches their hands. To those she trusts, she holds the teleport rings when lieutenants leave the Towers and hands them to replacements without ceremony when the previous holder does not come back. Deep down, she has outlasted every other lieutenant Manshoon has employed. She does not wonder why.
 
-**Morale.** In a fight, Sidra attacks once the intruders' true purpose becomes clear, fighting with veteran efficiency. She calls for Manafret Cherryport as backup and holds her position.
+**Morale.** In a fight, Sidra waits for the intruders to commit before she draws. Once she draws, she calls for Manafret Cherryport, picks a defensible position, and does not leave it.
 
-**Relationships.** Sidra is Manshoon's Kolat Towers lieutenant, the keeper of the teleporter ring system, and a professional soldier whose loyalty has survived everything Manshoon has asked of her.
+**Relationships.** Sidra is Manshoon's Kolat Towers lieutenant, the keeper of the teleporter ring system, and the only person in the cell whose loyalty Manshoon has never tested, because testing it would mean he does not already know the answer.
 
 **Remaining profiles (Tier 3, deferred):**
 - Agorn Fuoco (lieutenant; bard; will trade his pass-amulet to save himself)
@@ -1409,7 +1409,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Ammalia is well-mannered, well-read, well-traveled, and known for driving a hard bargain. Her butterfly garden is the most beautiful in Waterdeep, and she supervises her youngest children at play there. To those she trusts, she worships Asmodeus alongside Victoro and shares the same pact and the same desperation. Deep down, while Victoro hunts Neverember's gold, Ammalia makes the plans. The feast, the poison, the 99 souls: these are her logistics.
 
-**Morale.** In a fight, Ammalia uses arcane magic with tactical precision. She prioritizes escape with the twins above all else, including Victoro.
+**Morale.** In a fight, Ammalia grabs the twins and runs. She will spend Victoro's life to buy that retreat without hesitating, and her arcane magic is precise enough to cover an exit while collapsing a hallway behind her.
 
 **Relationships.** Ammalia is the wife of Victoro Cassalanter, the mother of Osvaldo, Terenzio, and Elzerina, and the operational architect of the Founders' Day feast. Her lepidopterology hobby gives her an excuse to spend hours in the garden with her children, which is both genuine and calculated.
 
@@ -1422,7 +1422,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Willifort should inspire surface comfort with his impeccable butler's manner, growing unease as the party realizes he knows too much, and visceral shock when his true nature is revealed.
 
-**Emotions.** Willifort most often feels professional detachment, possessive loyalty to the Cassalanters, controlled satisfaction in maintaining perfect cover, quiet contempt for guests who are easy to deceive, methodical focus, and the alien patience of a creature that has been someone else for so long it has forgotten what it was.
+**Emotions.** Willifort most often feels clinical detachment, possessive loyalty to the Cassalanters, controlled satisfaction in maintaining perfect cover, cold contempt for guests who are easy to deceive, and the alien patience of a creature that has been someone else for so long it has forgotten what it was.
 
 **Motivations.** Willifort wants to protect the Cassalanter family and their secrets, maintain his cover as an aging tiefling butler, and handle problems permanently when discretion fails.
 
@@ -1459,7 +1459,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Yalah should inspire grudging respect for her intelligence, frustration with her talent for feigning ignorance, and wariness when the party realizes she is the true power in House Gralhund while her husband cowers behind furniture.
 
-**Emotions.** Yalah most often feels calculating ambition, controlled composure, sharp-eyed assessment of useful people, patient contempt for her husband's tantrums, possessive determination about House Gralhund's future, and quiet fury at the Masked Lords who passed her over.
+**Emotions.** Yalah most often feels calculating ambition, controlled composure, sharp-eyed assessment of useful people, patient disdain for her husband's tantrums, possessive determination about House Gralhund's future, and banked fury at the Masked Lords who passed her over.
 
 **Motivations.** Yalah wants to become a Masked Lord through bribery, blackmail, or extortion, secure House Gralhund's prosperity for generations, and maintain control of the Zhentarim resources housed at her villa without Manshoon discovering she considers Urstul an underling.
 
@@ -1505,7 +1505,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Hrabbaz should inspire wariness with his murderous competence, surprise with his impeccable dress and manners, and interest when the party realizes he respects Yalah and barely tolerates Orond.
 
-**Emotions.** Hrabbaz most often feels controlled professional alertness, quiet respect for Yalah, disdainful tolerance of Orond, murderous readiness held on a short leash, cold satisfaction in his appearance, and patient boredom punctuated by sudden violence.
+**Emotions.** Hrabbaz most often feels controlled vigilance, muted respect for Yalah, disdainful tolerance of Orond, murderous readiness held on a short leash, cold satisfaction in his appearance, and patient boredom punctuated by sudden violence.
 
 **Motivations.** Hrabbaz wants to serve Lady Gralhund competently, dress well, and exercise the violence he was hired for when the opportunity presents itself.
 
@@ -1515,7 +1515,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Persona.** To the world, Hrabbaz is a muscle-bound half-orc with a cleft palate who dresses impeccably and conducts himself with surprising manners. To those who know the household, he has great respect for Lady Yalah and is less fond of Orond, and would not be sad to see the lord knocked down a peg or two. Deep down, his disarming appearance belies a murderous heart.
 
-**Morale.** In a fight, Hrabbaz positions himself beside Yalah with breastplate and rapier drawn. He fights with professional efficiency and does not retreat while she is present.
+**Morale.** In a fight, Hrabbaz positions himself beside Yalah with breastplate and rapier drawn. He fights with trained efficiency and does not retreat while she is present.
 
 **Relationships.** Hrabbaz is the bodyguard of both Gralhunds (shared, though more loyal to Yalah), and a half-orc whose impeccable manners and wardrobe make him the most unsettling presence in a villa full of Zhentarim.
 
