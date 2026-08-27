@@ -21,6 +21,7 @@ Created Appendix E (Villain Factions) from scratch — the four-faction operatio
 ### Files Created
 | File | Purpose |
 |------|---------|
+| `campaign/structure/appendix-e-villain-factions.md` | Full villain factions operations guide — all four factions, outposts, response teams, revelation lists |
 | `session 4 handoff.md` | This file |
 
 ---
