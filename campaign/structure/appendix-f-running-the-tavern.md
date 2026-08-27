@@ -592,7 +592,7 @@ Burnished amber-bronze scales; bookish in posture; ink on hands; appears mid-tho
 
 **Jarlaxle Baenre** *(Bregan D'aerthe, NE male drow; see Appendix A and Act III)*
 *Always in disguise. Different disguise each visit. Always the best seat without seeming to choose it.*
-Finds everything genuinely interesting; asks exactly one question per conversation he already knows the answer to; never orders the same thing twice.
+Finds everything interesting; asks exactly one question per conversation he already knows the answer to; never orders the same thing twice.
 
 **Running Jarlaxle at the bar:** He visits because the party interests him — they are his most unpredictable variable. Every visit should leave the party wondering what he wanted and whether they gave it to him. Play him as delighted, not menacing. The delight is worse. Drow PCs feel his attention differently — he has specific and complicated interest in drow operating independently on the surface.
 
@@ -626,7 +626,7 @@ Response Teams are detailed fully in Appendix E (Villain Factions). This section
 - A Guild plant as staff (Tobrin Ashvale, Grevik Nass) has been exposed
 - Party has the Stone of Golorr or an Eye and the Guild knows it
 
-**Early campaign (Acts I–II):** Four duergar, same time, sit at two tables covering door and stair. One looks at the party once with a filed-tooth smile. Leaves exact coin. No tip. No return that night. Meaning: the Guild knows where you live.
+**Early campaign (Acts I–II):** Four duergar, same time, sit at two tables covering door and stair. One looks at the party once with a filed-tooth smile. Leaves exact coin. No tip. No return that night. The Guild knows where you live.
 
 **Active campaign (Acts II–IV, once the Guild marks the party as a threat):** Gorath sits at the bar with his back to the room, orders something good, and says: "You cost us something. We want it back. Or we want something worth the same. You have until the new moon." Then leaves. His team is outside.
 
@@ -685,7 +685,7 @@ If the party is a serious Act III threat: Seffia Naelryke's team (cult fanatic +
 
 ### Bregan D'aerthe — Fel'rekt Lafeen (or Another Lieutenant)
 
-*Jarlaxle's people are the only faction that might genuinely enjoy the tavern.*
+*Jarlaxle's people are the only faction that might enjoy the tavern.*
 
 **Who comes:** Fel'rekt Lafeen most often in the early campaign (Acts II–III), with 2–4 drow in excellent surface disguise. They order interesting things, tip well, cause no trouble. Jarlaxle himself appears separately in a different disguise each time (see Patron Profiles), preceded by Fel'rekt scoping the room first.
 
@@ -711,7 +711,7 @@ If the party is a serious Act III threat: Seffia Naelryke's team (cult fanatic +
 By the time the Grand Game reaches its active phase, the tavern's status matters to the factions:
 
 - **Harpers** may use it as a casual dead-drop point (rotating books via Rishaal).
-- **Doom Raiders** (if not hostile) may send a Response Team to drink and tip — showing normalcy. Message: *we know where you live and are not currently bothered by this.*
+- **Doom Raiders** (if not hostile) may send a Response Team to drink and tip — showing normalcy. They know where you live. For now, that doesn't trouble them.
 - **Xanathar Guild** has no specific interest in the tavern, but a Guild operative may follow a target inside. This is the Guild's version of not caring about the tavern.
 - **Bregan D'aerthe**, through Jarlaxle, finds the tavern genuinely charming. He has a table reserved — the party doesn't know this yet. He begins appearing occasionally in a different disguise each time.
 
