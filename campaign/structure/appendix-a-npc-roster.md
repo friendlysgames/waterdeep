@@ -17,6 +17,7 @@ Status: On hold. Roster compiled; profiles not yet written.
 - Broxley Fairkettle
 - Ulkoria Stonemarrow
 - Emmek Frewn
+- Lif (poltergeist; permanent resident of Trollskull Manor; tends bar with poltergeist efficiency; central to the tavern's Fame track and Event table; must be appeased before the Grand Opening)
 - Nat, Jenks, and Squiddly (group entry)
 
 ### 2. Independents — Allies
@@ -29,6 +30,8 @@ Status: On hold. Roster compiled; profiles not yet written.
 - Valetta (cleric of Gond; House of Inspired Hands; Arc C)
 - Lady Gondafrey (City Watch captain; prisoner at Kolat Towers; Arc I)
 - Aurinax (adult gold dragon; Vault guardian; Arc J)
+- Renaer's Black Tears (group entry: Laraelra "Elra" Harsard, Osco Salibuck, Lord Torlyn Wands, Eiruk Weskur, Harug Shieldsunder, Parlek Lateriff — Renaer's social circle and informal bodyguards; appear on the Renaer's Friends patron table in Appendix F; individual entries fold into Renaer's Relationships section unless a specific character demands development)
+- Hlam (Calishite hermit monk; lives at the peak of Mount Waterdeep; consulted in Force Grey M1 for intelligence on threats to the city; independent sage with no faction affiliation)
 - Hadra Stonebread (former Cassalanter household cook, 12 years; knows villa layout, staff identities, and which cult members attended private suppers; high-value intelligence asset in Arcs G–J; appears as Appendix F tavern staff candidate)
 - Esloon Bezant (Red Wizard exile; Mage stat block; Dock Ward crew; appears in Lords' Alliance M3; resurfaces in Arc E as faction hire or freelance complication if not detained)
 - Sir Ambrose Everdawn (Kelemvor champion; City of the Dead patrol; Emerald Enclave M3 partner; names the Brandath Crypt in Aftermath — Arc J intelligence seed)
@@ -136,14 +139,11 @@ Status: On hold. Roster compiled; profiles not yet written.
 ---
 
 ## Omitted / Deferred
-- Lif (poltergeist) — brief sidebar in Appendix F (Trollskull Manor)
-- Renaer's Black Tears (6 members: Laraelra Harsard, Osco Salibuck, Lord Torlyn Wands, Eiruk Weskur, Harug Shieldsunder, Parlek Lateriff) — fold into Renaer's Relationships entry
 - The nimblewright — plot prop; no profile needed; covered in Arc C notes
 - Kalain (seasonal painter NPC from original WDH) — remix drops seasonal structure; omit
 - Single-scene eyewitnesses (Jezrynne Hornraven, Martem Trec, Obaya Uday) — no profile
 - Nim (construct) — no profile
 - Madrak, Jinny (Kraddoc's scribe), Justyn Rassk — too peripheral
-- Hlam — listed here as too peripheral, but appears significantly in Force Grey M1; reconsider if Force Grey arc is substantially developed
 - Orvyn Dall (Watch appeals clerk; intellect devourer host in Force Grey M5) — single-arc NPC; no profile
 - Vessin (tiefling BD informant, Dock Ward; BD M1 recipient) — too peripheral; fold into Krebbyg's entry if needed
 - Brimel Crestfall (Cassalanter household steward; BD M5 informant) — single-mission NPC; no profile
