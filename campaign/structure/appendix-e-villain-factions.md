@@ -28,8 +28,7 @@ Make a list of concrete, timestamped results. "Gorath's duergar will visit Troll
 
 The factions know things the PCs don't. Response teams, surveillance operations, and intelligence networks are all running in the background. The clue documents in each outpost reflect what the factions have learned. When PCs find those documents, they're reading real intelligence — the faction is playing an active game, not following a script.
 
-> [!warning]+ **Don't Run the Factions as Obstacles**
-> Each faction is a player in the Grand Game — they have goals, they pursue them, they react to setbacks. They don't exist to block the PCs. Some factions may try to recruit the PCs. Others may try to deceive them. A few will try to kill them, but even then it's because the PCs represent a specific threat to a specific plan. Play factions like thinking opponents. They lose interest in the PCs the moment the PCs stop mattering to their plans.
+**Play factions like thinking opponents, not obstacles.** Each faction has goals, pursues them, and reacts to setbacks. They lose interest in the PCs the moment the PCs stop mattering to their plans. A few will try to kill the PCs — but only because the PCs represent a specific threat to a specific goal, not because killing the PCs is a default behavior.
 
 ### The MacGuffin Chain
 
@@ -65,24 +64,6 @@ Xanathar is a beholder — paranoid, impulsive, and absolute in his conviction t
 His most visible eccentricity is Sylgar, his pet goldfish. Xanathar's attachment to the fish is total and terrifying. Xanatharian agents who let anything bad happen to Sylgar can expect to be eaten. This is not a metaphor.
 
 His agenda in the Grand Game is territorial. Xanathar already controls the vault's location through the Stone of Golorr. The gold itself holds little appeal; the leverage it represents is everything. He'd prefer the vault to stay hidden under his control indefinitely — a source of leverage he can threaten but never has to use.
-
-> [!profile]+ **Profile: Xanathar**
->
-> **Roleplaying Information**
-> ***Resonance.*** Xanathar should inspire dread through his unpredictability, grim fascination through his monstrous intelligence, and dark comedy through his goldfish obsession — the fish matters more than any plan, and the DM should play this without irony.
->
-> ***Emotions.*** Xanathar most often feels suspicious, imperious, contemptuous, briefly delighted (Sylgar-related), and implacably furious.
->
-> ***Motivations.*** Xanathar wants to control the vault without spending a single coin of it; eliminate the Zhentarim from Waterdeep; and know, at every moment, where Sylgar is.
->
-> ***Inspirations.*** When playing Xanathar, channel Jabba the Hutt (*Star Wars*), Lord Farquaad (*Shrek*), and Judge Doom (*Who Framed Roger Rabbit*).
->
-> **Character Information**
-> ***Persona.*** To the criminal underworld, Xanathar is an all-seeing crime lord whose reach extends into every ward. To his inner circle, he's a creature of terrifying mood swings and irrational loyalties. Deep down, Xanathar is profoundly alone — the paranoia that makes him dangerous also makes genuine connection impossible, and he knows it.
->
-> ***Morale.*** In a fight, Xanathar opens with eye rays and keeps Nihiloor nearby. He won't flee; his lair is his fortress and he'll fight to the last eyestalk. He will briefly halt hostilities for anyone who threatens Sylgar — if the goldfish is at risk, protection comes before retaliation.
->
-> ***Relationships.*** Xanathar distrusts Ahmaergo but relies on him completely. He tolerates Nar'l Xibrindas (who is secretly reporting to the Zhentarim). He regards Nihiloor as the only creature in Waterdeep capable of understanding him.
 
 ### Key NPCs
 
@@ -156,32 +137,13 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats — smallca
 
 ## Part 3: Manshoon's Zhentarim
 
-> [!warning]+ **The Doom Raiders Are Not This Faction**
-> The Doom Raiders — Davil Starsong's group, based out of Trollskull Alley — are a *player faction* described in Appendix C. Manshoon's splinter is a completely separate organization that peeled off from the Doom Raiders' local network when Manshoon returned to Waterdeep. The two groups dislike each other. Never conflate them. When players ally with the Zhentarim through Davil, they're working with the Doom Raiders, not Manshoon. The villains in this section answer only to Manshoon.
+**A note on the Zhentarim:** Two cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in Appendix C. Manshoon's splinter is a completely separate organization that peeled off from the Doom Raiders' local network when he returned to Waterdeep. The two groups dislike each other. When players ally with the Zhentarim through Davil, they're working with the Doom Raiders, not Manshoon. The villains in this section answer only to Manshoon.
 
 ### Personality and Agenda
 
 Manshoon is a centuries-old wizard, a clone of a clone of the original Black Network's founder, who claims — as all surviving Manshoon clones do — to be the one true Manshoon. Waterdeep's power structure interests him less than leverage over it. The 500,000 gold dragons would provide exactly that: the ability to shape policy, compromise officials, and operate above the law without holding any formal position.
 
 He keeps a simulacrum in Kolat Towers while the original Manshoon watches from safer ground. His approach to the Grand Game reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction — a calculated choice. Drawing too much attention is the one mistake Manshoon won't make twice.
-
-> [!profile]+ **Profile: Manshoon**
->
-> **Roleplaying Information**
-> ***Resonance.*** Manshoon should inspire unease through his patience, grudging respect through his competence, and paranoid fascination through the simulacrum question — players who know about the clone should never feel certain which Manshoon they're dealing with.
->
-> ***Emotions.*** Manshoon most often feels calculating, contemptuous, quietly satisfied, and cold.
->
-> ***Motivations.*** Manshoon wants the 500,000 dragons as political leverage (he has no interest in spending it); control of Waterdeep's criminal infrastructure on his own terms; and the permanent elimination of Xanathar.
->
-> ***Inspirations.*** When playing Manshoon, channel Tywin Lannister (*Game of Thrones*), Petyr Baelish (*Game of Thrones*), and Grand Admiral Thrawn (*Star Wars: Rebels*).
->
-> **Character Information**
-> ***Persona.*** To Waterdeep's underworld, Manshoon is a rumor — a wizard who may or may not exist, operating through intermediaries. To his lieutenants in Kolat Towers, he's an absolute authority who appears without warning and vanishes the same way. Deep down, Manshoon knows that clones are not immortality — they're a succession of selves, each claiming to be the real one, and the fear that he isn't the real one surfaces in his most ruthless decisions.
->
-> ***Morale.*** In a fight, the simulacrum fights to buy the true Manshoon time to escape. The true Manshoon uses *dimension door* at the first sign of genuine danger and doesn't sacrifice himself for anything.
->
-> ***Relationships.*** Manshoon regards Sidra Romeir as his most capable lieutenant and Agorn Fuoco as an embarrassing liability he hasn't yet had reason to eliminate. He considers Xanathar a rabid animal that should have been put down years ago.
 
 ### Key NPCs
 
@@ -203,10 +165,7 @@ He keeps a simulacrum in Kolat Towers while the original Manshoon watches from s
 
 All three Zhentarim response teams consist of a lieutenant plus 3–4 **thugs**. Every lieutenant carries a pass-amulet to Kolat Towers and will try to destroy it if capture seems certain — except Agorn, who trades his to save himself.
 
-Any Zhentarim team sent to attack the PCs carries orders to take them as prisoners to the Interrogation House on Brindul Alley. Questioned team members can point the PCs toward the house.
-
-> [!design]+ **Why the Zhentarim Teams Are Weaker**
-> Manshoon's response teams are lighter than the other factions' by design. The PCs are likely to take the Zhentarim less seriously in the field — which is what Manshoon wants. He's not trying to intimidate the PCs into compliance; he's gathering intelligence on them while they underestimate his reach. The weaker teams also make the Zhentarim a good selection when the DM needs to apply pressure to already-depleted PCs without risking a TPK.
+Any Zhentarim team sent to attack the PCs carries orders to take them as prisoners to the Interrogation House on Brindul Alley. Questioned team members can point the PCs toward the house. The lighter roster is intentional — Manshoon wants intelligence, not body counts, and underestimated enemies are more useful to him than dead ones. These teams also make useful pressure on depleted parties when a lethal faction encounter would risk a TPK.
 
 **Vevette Blackwater** — swashbuckler + 3–4 **thugs**.
 **Agorn Fuoco** — bard + 3–4 **thugs**.
@@ -232,8 +191,7 @@ Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **aco
 
 *Area O2 — Ground Level.* A crumpled note from Avareen to Seccent, full of barely contained contempt: Avareen complains about Manshoon's directive to hand over a broadsheet publisher named Shan Chien for Seccent's "foul rites," but closes with "Manshoon's word is my command."
 
-> [!info]+ **The Gralhund Complication**
-> If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from an apartment across the street. Following Chirada's intelligence, the Gralhunds may mount their own raid on Yellowspire to access the teleportal. This can insert a third party into whatever operation the PCs are planning.
+**Gralhund complication:** If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from across the street. The Gralhunds may mount their own raid on Yellowspire to access the teleportal — inserting a third party into whatever operation the PCs are planning.
 
 **Roster:** Amath Seccent (**priest**) + 4 **acolytes**. Agorn Fuoco may also be present (1-in-3 chance on any given day).
 
@@ -248,42 +206,6 @@ Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bar
 The Cassalanters found a loophole. A ritual can substitute "one shy of a million gold coins" for the children's souls. They have most of the money. They need Neverember's vault to cover the remainder.
 
 Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in genuine danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
-
-> [!profile]+ **Profile: Victoro Cassalanter**
->
-> **Roleplaying Information**
-> ***Resonance.*** Victoro should inspire uneasy sympathy through his obvious love for his children, discomfort through the gap between his warmth and his willingness to commit mass murder, and creeping dread as players piece together what the ritual requires.
->
-> ***Emotions.*** Victoro most often feels controlled urgency (the deadline is immovable), social warmth (his public persona is a practiced skill), deep shame (the pact was his idea; the children suffer for it), and occasional cold calculation.
->
-> ***Motivations.*** Victoro wants his children's souls back. The gold, the alliances, the deaths at the feast are all means to that single end.
->
-> ***Inspirations.*** When playing Victoro, channel Walter White (*Breaking Bad*), Tywin Lannister (*Game of Thrones*), and Francis Underwood (*House of Cards*).
->
-> **Character Information**
-> ***Persona.*** To Waterdeep society, Victoro is a charming, generous nobleman — a patron of the arts, a supporter of the city's guilds. To allies and agents, he's a precise and demanding employer who rewards loyalty. Deep down, Victoro knows the pact was his idea, made freely, and the twins' suffering is the consequence of his ambition.
->
-> ***Morale.*** In a fight, Victoro calls for Willifort and retreats to protect Ammalia and the children. He won't risk himself while the ritual remains unfinished.
->
-> ***Relationships.*** Victoro regards Ammalia as his partner in both guilt and desperation. He keeps Willifort Crowelle's true nature away from the PCs because he knows it would disturb them.
-
-> [!profile]+ **Profile: Ammalia Cassalanter**
->
-> **Roleplaying Information**
-> ***Resonance.*** Ammalia should inspire pity through her visible grief, unease through her willingness to sacrifice 99 strangers to save two specific children, and a complicated sympathy that becomes harder to sustain as the full picture becomes clear.
->
-> ***Emotions.*** Ammalia most often feels grief, desperate hope, calculating focus, and brief tenderness when her children are near.
->
-> ***Motivations.*** Ammalia wants her twins alive on the other side of Founders' Day. The 99 people at the feast are arithmetic to her — horrible arithmetic, but arithmetic nonetheless.
->
-> ***Inspirations.*** When playing Ammalia, channel Lady Macbeth (*Macbeth*), Cersei Lannister (*Game of Thrones*), and Amy Dunne (*Gone Girl*).
->
-> **Character Information**
-> ***Persona.*** To guests at the villa, Ammalia is the perfect Waterdhavian hostess — gracious, cultured, attentive. To her allies, she's the sharper edge of the Cassalanter pair. Deep down, Ammalia has stopped believing she's a good person and is making her peace with that.
->
-> ***Morale.*** Ammalia won't fight. She talks, delays, and calls for help. If cornered, she surrenders rather than risk the twins losing both parents.
->
-> ***Relationships.*** Ammalia coordinates with Seffia Naelryke for cult operations. She trusts Willifort Crowelle completely, which is either wisdom or its opposite.
 
 ### The Soul Pact: Active vs. Passive Mode
 
@@ -359,24 +281,6 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 Jarlaxle Baenre is many things: the secret lord of Luskan, the commander of Bregan D'Aerthe, and in Waterdeep, Captain Zardoz Zord of the Sea Maidens Faire, a traveling carnival that covers his intelligence operations. He arrived in the city to advance Luskan's bid to join the Lords' Alliance, and came prepared: nimblewrights sold to wealthy families across every ward, each one harvesting intelligence through a crystal ball aboard the *Scarlet Marpenoth*.
 
 He enters the Grand Game later than the other factions. When the nimblewright investigation leads the PCs to him, he'll want to understand what they're chasing before offering anything. A conversation with Jarlaxle is rarely what it appears to be. The first thing he'll do is determine whether the PCs are useful or dangerous — ideally, he'll discover they're both.
-
-> [!profile]+ **Profile: Jarlaxle Baenre**
->
-> **Roleplaying Information**
-> ***Resonance.*** Jarlaxle should inspire delight through his wit, admiration through his competence, unease through the suspicion that he's always getting the better of the conversation, and a creeping fascination with what he wants.
->
-> ***Emotions.*** Jarlaxle most often feels entertained, strategically interested, warmly calculating, and occasionally, with the right person, briefly honest.
->
-> ***Motivations.*** Jarlaxle wants Luskan recognized by the Lords' Alliance; wants to add the Vault of Dragons gold to Luskan's treasury; and wants to leave Waterdeep having made it at least slightly more interesting than he found it.
->
-> ***Inspirations.*** When playing Jarlaxle, channel Tyrion Lannister (*Game of Thrones*), Captain Jack Sparrow (*Pirates of the Caribbean*), and Varys (*Game of Thrones*).
->
-> **Character Information**
-> ***Persona.*** To Waterdeep's merchant class, "Captain Zord" is an eccentric, charming carnival impresario. To Bregan D'Aerthe, Jarlaxle is an absolute authority whose judgment has earned their loyalty over decades. Deep down, Jarlaxle is one of the only minds in the Grand Game that finds the whole thing interesting, which makes him the most unpredictable player at the table.
->
-> ***Morale.*** In a fight, Jarlaxle negotiates first, misdirects second, and fights with considerable skill if pressed. He won't flee — he redirects.
->
-> ***Relationships.*** Jarlaxle trusts Krebbyg and Fel'rekt with logistical operations and regards Soluun Xibrindas as a liability he hasn't yet moved on. He regards the PCs with proprietary interest. They're unusual pieces. He hasn't decided what to do with them yet.
 
 ### Key NPCs
 
