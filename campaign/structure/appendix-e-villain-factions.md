@@ -334,7 +334,47 @@ Malcolm Brizzenbright haunts the building. He shares his knowledge with PCs who 
 
 ---
 
-## Part 6: Revelation Lists
+## Part 6: Escalation and Inter-Faction Dynamics
+
+### Faction Escalation
+
+Each faction moves through five escalation stages when the PCs interfere with their operations. Stages advance when a previous stage fails or when the faction's intelligence confirms the PCs are a serious threat. Reaching full mobilization usually requires the PCs to hit multiple faction assets first.
+
+| Faction | Observation | Investigation | Response Teams | Direct Confrontation | Full Mobilization |
+|---|---|---|---|---|---|
+| **Xanathar's Guild** | Gazer scouts; Nihiloor processes captured intelligence | Tier 1: Gorath's duergar deployed as a warning | Tier 2: Korgstrod's heavy team (half-ogre + gazer) | Tier 3: Noska's bugbear squad with orders to eliminate | Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
+| **Manshoon's Zhentarim** | Flying snake courier network; Nar'l Xibrindas feeds intel from Xanathar's inner circle | Avareen identifies the threat; Urstul reviews field reports | Agorn or Vevette's team; orders are to capture, not kill | Urstul's team if the others fail; Manshoon issues personal directives by flying snake | Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
+| **The Cassalanters** | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise | Willifort gathers close intelligence on PC identities and contacts | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode | Bearded devil called up; Willifort targets a PC ally to create leverage | Cassalanters activate city connections — Watch reports, noble complaints, guild sanctions — before resorting to infernal force |
+| **Bregan D'Aerthe** | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops | Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred | Fel'rekt, Krebbyg, and Soluun deployed together | Jarlaxle intervenes personally, always with an offer rather than a fight |
+
+**Xanathar.** Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost may jump straight to Tier 2. Anything involving Sylgar brings Tier 3 without warning.
+
+**Manshoon.** Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat Towers may operate for sessions before he escalates past response teams. His preference for capturing over killing creates tactical openings.
+
+**Cassalanters.** The Cassalanters' escalation is binary. In passive mode they barely react. In hostile mode they skip to Willifort's full operation. The switch happens when the PCs refuse to help or are identified as a threat to the soul-pact plan.
+
+**Bregan D'Aerthe.** Jarlaxle doesn't mobilize against the PCs; he acquires leverage and applies it through negotiation. The only scenario that pushes him to direct confrontation is the PCs killing his lieutenants without offering terms first.
+
+---
+
+### Inter-Faction Operations
+
+The factions compete with each other independently of the PCs. These operations run in the background throughout the campaign.
+
+| Faction Pair | Posture | Active Operations | Key Documents |
+|---|---|---|---|
+| **Xanathar vs. Manshoon** | Cold war — hostile but controlled | Nar'l Xibrindas feeds Manshoon regular intelligence from Xanathar's inner circle. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects betrayal but hasn't identified the source. | *Correspondence with N'arl Xibrindas*, *Report to Agorn Fuoco* |
+| **Xanathar vs. Cassalanters** | Parallel competition — no direct contact | Xanathar has intelligence on the Seven Masks Theater but no active operation against the Cassalanters. If the Cassalanters go hostile to the PCs, Seffia's team enters the Xanathar lair heist as a competing faction. | None currently active |
+| **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — indirect overlap | Fel'rekt Lafeen observed the Xanathar operation at Gralhund Villa. Bregan D'Aerthe purchases equipment through Grinda Garloth, Xanathar's armorer — a dependency neither faction has acknowledged. | *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
+| **Manshoon vs. Cassalanters** | Mutual distrust — no contact | Seffia approached Vevette Blackwater to open a communication channel. Vevette refused, suspecting a trap. No further contact from either side. | *Seffia Naelryke's Visiting Card* (Vevette Blackwater) |
+| **Manshoon vs. Bregan D'Aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'Aerthe cut-out and ordered his abduction. Krebbyg has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised. | *Directive to Zorbog* (Interrogation House), *Letter Regarding Fenerus Stormcastle* (Seven Masks Theater) |
+| **Cassalanters vs. Bregan D'Aerthe** | Surveillance — not yet conflict | Cassalanter imps conduct ongoing surveillance of the Sea Maidens Faire. Jarlaxle's counter-intelligence hasn't detected it. If the Cassalanters turn hostile, Willifort attempts to assassinate Jarlaxle, fails, and likely pushes Jarlaxle toward a PC alliance against the Cassalanters. | *Instructions from Lord Cassalanter* (Asmodean Shrine) |
+
+When the PCs hit a faction outpost, check whether any inter-faction document is present and whether finding it opens a thread toward a second faction. The revelation lists in Part 7 show where each document is found.
+
+---
+
+## Part 7: Revelation Lists
 
 *Each entry below names the document or discovery and, in parentheses, where it is found. These lists adhere to the Three Clue Rule: at minimum, three independent paths lead to each location. Create additional clues dynamically through tracking, interrogation, and PC research.*
 
