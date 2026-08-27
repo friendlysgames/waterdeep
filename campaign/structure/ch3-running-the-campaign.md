@@ -14,7 +14,7 @@ The Adventure Summary gives the full campaign shape in one view. The Structural 
 
 Dragon Heist is a city, and cities don't pause while the players think. The four villain factions move independently, react to what the PCs do, compete with each other, and pursue their own goals on their own schedules. The DM's job is to manage a system of competing interests and let the PCs find their place inside it.
 
-This chapter gives the DM the mechanical infrastructure to do that without burning out between sessions.
+The mechanical infrastructure here lets the DM manage that system without burning out between sessions.
 
 ---
 
@@ -225,7 +225,7 @@ PCs in different factions will have conflicting faction interests by design. The
 
 **Full faction detail:** Appendix C (faction overviews — goals, key members, territory, resources); Appendix D (running factions in play — missions by renown tier, faction hooks per arc, conflicting loyalty guidance).
 
-**Tone:** Overview-level. This section orients the DM; the appendices are where they run the factions.
+**Tone:** Overview-level. Read for orientation; run the factions from the appendices.
 
 ---
 
@@ -253,7 +253,7 @@ The original gives the PCs Trollskull Manor as a reward after Arc A but provides
 
 *Why the Fireball Must Kill Someone*
 
-The fireball that opens Arc C is a story beat in the original — notable but not devastating. This design note argues that the fireball must kill or destroy a named NPC the players bonded with during Arc B. The specific victim is left open (the DM identifies it, not the text). This is non-negotiable motivation engineering: personal loss converts a civic investigation into a personal crusade. The three clue paths to the nimblewright remain, but the players pursue them with urgency rather than obligation.
+The fireball that opens Arc C is a story beat in the original — notable but not devastating. This design note argues that the fireball must kill or destroy a named NPC the players bonded with during Arc B. The text does not name the victim — the DM identifies them. This is non-negotiable motivation engineering: personal loss converts a civic investigation into a personal crusade. The three clue paths to the nimblewright remain, but the players pursue them with urgency rather than obligation.
 
 *Why Founders' Day Is a Hard Deadline*
 
@@ -269,7 +269,7 @@ Arc J produces 500,000gp. The original adventure suggests returning it to Waterd
 
 *Why Aurinax Is Given a Moral Complexity*
 
-The gold dragon guardian in the vault is rewritten from a straightforward obstacle into a character with something like a crisis. The design note explains what was wrong with the original (a guardian who exists only as an encounter) and what the rewrite accomplishes: a good dragon who has spent decades keeping a corrupt politician's secret deserves to be more interesting than his stat block. Aurinax can be reasoned with. His attitude toward the vault's purpose has shifted. How PCs approach him should determine whether he is an obstacle, a complication, or an unexpected ally.
+The gold dragon guardian in the vault is rewritten from a straightforward obstacle into a character with a genuine crisis. The design note explains what was wrong with the original (a guardian who exists only as an encounter) and what the rewrite accomplishes: a good dragon who has spent decades keeping a corrupt politician's secret deserves to be more interesting than his stat block. Aurinax can be reasoned with. His attitude toward the vault's purpose has shifted. How PCs approach him should determine whether he is an obstacle, a complication, or an unexpected ally.
 
 **Tone:** Direct, engaged, occasionally personal. Design notes address the DM as a peer with opinions about Dragon Heist and give them a real argument. When a popular community fix was considered and rejected, that rejection is named and explained.
 

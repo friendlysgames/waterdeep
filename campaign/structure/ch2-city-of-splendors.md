@@ -20,7 +20,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 
 ### Lore of Waterdeep
 
-**Purpose:** Gives the DM enough of the city to make it feel inhabited — not exhaustive, but dense enough that Waterdeep has friction, history, and personality before the first session.
+**Purpose:** Gives the DM enough of the city to make it feel inhabited — dense enough for Waterdeep to have friction, history, and personality before the first session.
 
 **Content:**
 
@@ -76,7 +76,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 **Content:**
 
 *Era 1 — Ahghairon's Gifts (early history of the city)*
-- Ahghairon the Wizard as Waterdeep's true founder — not the first settlement, but the first system
+- Ahghairon the Wizard as Waterdeep's true founder — the first system, even if not the first settlement
 - The Open Lord: a visible, accountable executive, designed to be removed if they fail the city
 - The Masked Lords: anonymous councilors whose identities are the city's most closely guarded secret; Ahghairon's answer to the problem of power is to make sure no one person can hold all of it
 - The dragonward, the Code Legal, the City Watch — built not as conveniences but as protections; frame these as the work of someone who watched what tyranny actually looks like and designed against it specifically
@@ -104,7 +104,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 - This era's closing note: two organizations now use the same name in the same city and despise each other; neither acknowledges the other as legitimate; the players will eventually need to understand this distinction
 
 *Era 5 — A Debt in Blood (the Cassalanter bargain, approximately twenty years before the campaign)*
-- The Cassalanter name in Waterdeep's noble registry: three centuries; comfortable wealth before any intervention; the bargain was not made from desperation
+- The Cassalanter name in Waterdeep's noble registry: three centuries; comfortable wealth before any intervention; the bargain was made from ambition, not desperation
 - What the bargain was: three children's souls in exchange for wealth compressed from three generations into one, and political access that normally takes a family centuries to build; Victoro and Ammalia discussed it, understood what they were signing, and signed
 - The proof of contract: souls claimed one at a time; Osvaldo, the eldest, was seventeen; he is now in his early thirties and is a chain devil living in the temple beneath his parents' villa; they visit him
 - What the Cassalanters built in the years since: the charitable reputation, the political connections, the public warmth — none of it faked; they became what they presented themselves as while also accumulating what Asmodeus requires
@@ -115,7 +115,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 - Who Neverember was: not a villain by origin; an ambitious politician who genuinely improved Waterdeep — harbor expansion, post-Spellplague rebuilding in the Dock Ward, Watch funding increases; the improvements were real
 - How the embezzlement began: small diversions for infrastructure projects he couldn't get officially approved; grew into a reserve; the reserve became personal; by the time the Masked Lords investigated, he had convinced himself his contributions to the city entitled him to it
 - The Stone of Golorr: an aboleth artifact Neverember had modified to encode the vault's location in a form only the three Eyes could unlock; he scattered the Eyes among trusted contacts before his ouster; the trust did not outlast his position
-- His ouster: the Masked Lords voted him out; Laeral Silverhand appointed; Neverember retreated to Neverwinter and declared himself "Lord Protector" there; the public story was managed; the private damage is ongoing
+- His ouster: the Masked Lords voted him out; Laeral Silverhand appointed; Neverember retreated to Neverwinter and declared himself "Lord Protector" there; the Lords managed the public story; the private damage is ongoing
 - Renaer: knew about the embezzlement in general terms, not the vault's location; has spent three years working to separate his name from his father's; the vault, if it surfaces, destroys that effort regardless of what Renaer does or didn't know
 
 *Era 7 — A City Watching Itself (Laeral's Waterdeep, the present)*
@@ -170,7 +170,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 
 ### Xanathar
 
-**Purpose:** Gives the DM the tools to portray Xanathar as a specific, three-dimensional villain — not a generic monster with an eye, but a paranoid intelligence that has built a criminal empire around its own terror of vulnerability.
+**Purpose:** Gives the DM the tools to portray Xanathar as a specific, three-dimensional villain: a paranoid intelligence that has built a criminal empire around its own terror of vulnerability, wearing the trappings of a monster because the trappings are convenient.
 
 **Personality Phases**
 

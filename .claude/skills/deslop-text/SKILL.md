@@ -295,12 +295,45 @@ Target phrases:
 
 Fix: say what you actually mean. If the phrase is doing real work, replace it with a specific observation. If it's decoration, delete it.
 
+### W33 · "In the way that" vague comparisons
+
+Sentences that gesture at a specific quality by routing it through a generalizing comparison instead of stating it directly.
+
+Pattern: `in the [adjective] way that [experience or type of person/event]`, `in the way that [class of thing] [does something]`.
+
+Examples:
+- "He came back changed in the specific way that long imprisonments change people." → What changed? Say it.
+- "She looked at him in the way that old rivals do." → How did she look? Describe it.
+- "The city was quiet in the way that cities get quiet before something happens." → What kind of quiet? Name it.
+
+These constructions sound literary but withhold the actual observation. The comparison class is too broad to carry meaning. The writer knows what they observed and routes it through abstraction instead of saying it.
+
+Fix: name the specific quality, change, or behavior directly. Cut everything from "in the way that" onward and replace it with the concrete thing.
+
+### W34 · Mutually dependent filler pairs
+
+Two consecutive short sentences where neither justifies its own existence — each one props up the other. The second sentence typically qualifies, emotionally annotates, or comments on the first rather than adding independent content. Together they sound like prose; remove either one and nothing of value is lost.
+
+Forms:
+- Qualifier pair: "X is true. It is [degree] than expected." — second sentence adjusts the first
+- Meta-commentary pair: "X. This is [observation about X]." — second sentence labels rather than extends
+- Hedge-then-frame: "X. That's [adjective]." — second sentence tells the reader how to feel about the first
+
+Examples:
+- "The warmth is still there. It is somewhat quieter now." → "The warmth is still there, quieter now."
+- "He is warm about it. This is harder to deal with than if he weren't." → "His warmth is harder to deal with than coldness would be." or just cut the second sentence.
+- "He nodded. It meant nothing." — this one is fine: the second sentence delivers new, specific content (the nod is meaningless) rather than glossing the first.
+
+The distinction: a second sentence is filler if it only rephrases or emotionally frames the first. It earns its place if it adds a new, independent fact or inverts the first in a meaningful way.
+
+Fix: merge into one sentence if both halves are worth keeping. Cut the second sentence if the first stands on its own. Never cut the first and keep the second — the second is always the dependent one.
+
 ---
 
 ## Severity classification
 
 **High** (instant AI tells — fix these first):
-W1 (filler phrases), W2 ("not X, it is Y"), W5 (marketing language), W6 (generic openings), W9 (paired adjectives), W15 (excited-to-announce), W16 (whether you're X or Y), W17 (faux-conversational pivots), W21 (corporate cliches), W24 (triple-value lists)
+W1 (filler phrases), W2 ("not X, it is Y"), W5 (marketing language), W6 (generic openings), W9 (paired adjectives), W15 (excited-to-announce), W16 (whether you're X or Y), W17 (faux-conversational pivots), W21 (corporate cliches), W24 (triple-value lists), W33 ("in the way that" vague comparisons), W34 (mutually dependent filler pairs)
 
 **Medium** (weaken the writing):
 W3 (em-dashes), W4 (rhetorical questions), W7 (passive voice), W8 (hedging), W10 (meta-references), W11 (mechanical transitions), W12 (bold emphasis), W13 (scare quotes), W14 (section-end summaries), W18 (exclamation clusters), W19 (repetitive "You"), W22 (hashtags), W23 (emoji), W25 (corporate slang), W26 (uncontracted forms), W30 (heading emoji), W32 (internet cliches)

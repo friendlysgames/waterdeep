@@ -26,11 +26,19 @@ The Harpers are a loose confederation of bards, spies, sages, and do-gooders who
 
 In Waterdeep, the Harpers maintain strong ties to the city's intellectual and artistic communities. Their primary concern in the current moment is Manshoon's clone and his consolidation of the Black Network's ruthless wing. They are also quietly alert to the Stone of Golorr — they believe it contains intelligence of strategic importance and want it in their hands.
 
-**The Waterdeep cell is compromised.** Manshoon's agents have infiltrated the Harpers' local network. Information shared with Harper contacts has a meaningful chance of reaching Kolat Towers. This should create complications organically — not a problem to be resolved, but a feature that rewards paranoid operational security.
+**The Waterdeep cell is compromised.** Manshoon's agents have infiltrated the Harpers' local network. Information shared with Harper contacts has a meaningful chance of reaching Kolat Towers. This should create complications organically — a feature that rewards paranoid operational security.
 
 **Primary Contact:** Mirt the Moneylender — bluff, jovial sea merchant on the surface; in practice one of the most politically dangerous men in Waterdeep. Senior Harper, Masked Lord, and close confidant of Open Lord Laeral Silverhand. His manor in the Sea Ward is theoretically available for visits; in practice he is almost never home.
 
 **Secondary Contact:** Remallia "Remi" Haventree — a precise, guarded elf widow who manages Harper intelligence operations in the North Ward. Harder to read than Mirt but ultimately more reliable. Her faction identity is kept hidden from the PCs until she chooses to reveal it; they will not know her as a Harper unless she tells them.
+
+### First Meeting
+
+- Paper bird delivers tickets to *The Fall of Tiamat* at Lightsinger Theater + note to meet Mirt in Private Box C at intermission; formal attire required (tailor on Delzorin Street has been told to expect them)
+- Mirt uses Act 1 to assess the party — composure, who speaks first, who listens; keeps conversation light
+- Intermission: explains the Harpers plainly (work from shadows, resist tyranny, not a guild or government); does not mention the Stone, Manshoon, or the Grand Game's real shape — this is assessment, not briefing
+- Characters who accept: silver harp-and-crescent pin already in his coat pocket, pressed into hand
+- Exit: "I am almost never home" — warm, but immediately unavailable
 
 ### Earning Renown
 
@@ -80,6 +88,13 @@ The Lords' Alliance is the most demanding faction in terms of professional condu
 
 **Secondary Contact:** Laeral Silverhand, Open Lord of Waterdeep — reachable only through Jalester, and only once the PCs have earned sufficient standing (Renown 25+) or the Grand Game has escalated to a level she cannot ignore.
 
+### First Meeting
+
+- Jalester finds them himself at the Yawning Portal (or Trollskull if the party rarely goes out); references the Arc A warehouse — he has been watching since then
+- Pitch: Alliance needs people who can operate where Watch and Guard cannot; resources and backing in exchange; assignments are not optional — only faction that states this upfront
+- No ceremony on acceptance; stands and leaves
+- At the door, without turning: "Assignments from us are not optional. If that changes your answer, now is the time to say so." — waits three seconds, then goes
+
 ### Earning Renown
 
 - **Report Grand Game activity to Jalester (+1).** Brief Jalester on any confirmed faction operation, location, or agent. One award per significant piece of intelligence; vague tips do not qualify.
@@ -99,7 +114,7 @@ The Lords' Alliance is the most demanding faction in terms of professional condu
 | 25 | **Warduke** | Laeral Silverhand grants one private audience per arc. Alliance deploys a response team of four **veterans** to assist in one operation per arc, authorized personally by Jalester. Alliance intelligence shares current estimated locations of all four villain faction response teams, updated every 3 days through Jalester's Watch contacts. A Masked Lord takes a discreet interest: once per arc, a written request through Jalester results in that Lord using their authority to open a door, seal an investigation, or apply political pressure. Their identity is never revealed. |
 | 50 | **Lioncrown** | Full political backing of the Open Lord. One outstanding charge against a party member dropped or a wanted status cleared at Laeral's authority. The Alliance assigns a dedicated attaché empowered to act on the Open Lord's behalf in the field. Laeral will answer three direct questions about the Grand Game, the vault, or Waterdeep's political situation — honestly. |
 
-**Grand Game agenda:** Lords' Alliance PCs who bring the Grand Game to Jalester's attention trigger Laeral's direct involvement. Once Laeral is fully aware, she makes recovering the 500,000 dragons a political priority and extends significant resources to PCs who have proven loyal. The Alliance will not let the party keep the gold — but offers extraordinary renown and political capital in exchange for returning it. Characters who pocket the gold and claim ignorance will find Laeral a very thorough investigator.
+**Grand Game agenda:** Lords' Alliance PCs who bring the Grand Game to Jalester's attention trigger Laeral's direct involvement. Once Laeral is fully aware, she makes recovering the 500,000 dragons a political priority and extends significant resources to PCs who have proven loyal. The Alliance will not let the party keep the gold — but offers extraordinary renown and political capital in exchange for returning it. Characters who pocket the gold and claim ignorance will find Laeral a thorough investigator.
 
 ### Missions
 
@@ -125,6 +140,14 @@ The Enclave has no stake in Neverember's gold and will make no demands regarding
 **Primary Contact:** Melannor Fellbranch — groundskeeper of Phaulkonmere in the Southern Ward. Friendly but humorless, a half-elf druid who communicates primarily via *animal messenger* spells.
 
 **Secondary Contact:** Jeryth Phaulkon — the lady of the Phaulkonmere estate, a noblewoman who has become a demigod and Chosen of Mielikki. She manifests as a disembodied voice throughout the villa's gardens. She cannot be harmed in this state, has access to the full druid spell list, and will cast spells for Enclave members whose renown equals or exceeds the spell's level.
+
+### First Meeting
+
+- White cat appears at Trollskull window one morning, speaks the invitation in Melannor's voice (*animal messenger*), then disappears
+- Phaulkonmere gate is open; Melannor walks them through the garden — explains the Enclave around disruption and balance, not nature romantically; mentions the beholder in the sewers directly
+- Jeryth's voice heard throughout the garden; introduces herself, explains her current state (demigod, cannot appear physically), offers Phaulkonmere as a no-strings refuge
+- Characters who accept: Jeryth bestows *charm of restoration* without ceremony or announcement — they feel it, she doesn't mention it
+- Melannor walks them out: "I'll be in touch"
 
 ### Earning Renown
 
@@ -169,6 +192,14 @@ The Order has a particular interest in the Cassalanters, who are active Asmodeus
 
 **Primary Contact:** Savra Belabranta — a knight of the Order from a noble family known for raising griffons for the Griffon Cavalry. She is atoning for a past with the Howling Hatred elemental cult — a detail she shares only with characters who earn her trust — and has channeled that shame into an iron commitment to justice. She communicates mission briefings personally.
 
+### First Meeting
+
+- Savra comes to Trollskull, knocks, waits — no invitation sent
+- Pitch at the door: Order hunts evil actively; names the beholder empire and a noble family with infernal ties (Cassalanters, unnamed) as priority targets; doesn't soften the cost
+- If asked why she joined: answers honestly about making amends for a darker past; doesn't elaborate unless pressed
+- Characters who accept: taken to Halls of Justice for brief oath ceremony — silver gauntlet passed among members, priest witnesses, oath sworn
+- Savra closes: "The work does not wait"
+
 ### Earning Renown
 
 - **Produce solid evidence of Cassalanter diabolism and deliver it to Savra (+2).** The Order suspects the Cassalanters but lacks actionable proof. Any physical evidence — a ritual record, a signed contract, a witness willing to speak to the Lords — triggers the Order's full engagement with that thread.
@@ -207,15 +238,23 @@ Full write-ups appear in Appendix D. Summary:
 
 *"The best thing about being part of the Black Network? The Network is always there when you need it."*
 
-The Doom Raiders are a cell of experienced Zhentarim operators who arrived in Waterdeep several years ago and built a network of commercial fronts they genuinely believe in. They are professional criminals who prefer contracts to confrontations and sincerely believe the Black Network works best when it operates like a legitimate enterprise. They are not good, but they are not sadistic — they can be trusted to honor their agreements.
+The Doom Raiders are a cell of experienced Zhentarim operators who arrived in Waterdeep several years ago and built a network of commercial fronts they genuinely believe in. They are professional criminals who prefer contracts to confrontations and sincerely believe the Black Network works best when it operates like a legitimate enterprise. Their agreements hold. Their violence is purposeful, never gratuitous.
 
-The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal war. The two cells despise each other: information shared with the Doom Raiders will not reach Manshoon's agents. However, characters who join the Doom Raiders are joining one half of a fractured organization and will inevitably be caught in the crossfire as Manshoon moves to eliminate Davil's cell entirely. This is a feature of the campaign, not a complication to be managed away.
+The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal war. The two cells despise each other: information shared with the Doom Raiders will not reach Manshoon's agents. However, characters who join the Doom Raiders are joining one half of a fractured organization and will inevitably be caught in the crossfire as Manshoon moves to eliminate Davil's cell entirely. This is a structural feature of the campaign.
 
 **Primary Contact:** Davil Starsong — a sun elf retired adventurer who leads the Doom Raiders' Waterdeep operation. Charming, direct, and genuinely invested in ending the street violence Manshoon's cell has caused. **After the PCs complete their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell is not responsible for the recent killings.
 
 **Secondary Contact:** Tashlyn Yafeera — takes over mission briefings after Davil's arrest, communicating by flying snake. She has sharper intelligence on Manshoon's faction than Davil and her assignments reflect it.
 
 **Street Contact:** Yagra Stonefist — the half-orc Doom Raider present at the Yawning Portal during Arc A. She serves as the go-between for new recruits and arranges direct meetings with Davil.
+
+### First Meeting
+
+- Flying snake delivers note to Trollskull: "Want to be part of something big? Speak to Davil Starsong at the Yawning Portal"
+- Yagra already at the bar; how she greets the party depends on Arc A history (six variants: helped her / stopped her early / sided with Guild / stayed out and she won / stayed out and she lost / tried diplomacy) — each acknowledges what happened, calibrates how much goodwill she extends
+- Yagra leads them to Davil
+- Davil: pours without asking; acknowledges Zhentarim upfront; explains Doom Raiders are the legitimate-business wing opposed to Manshoon's cell; offers resources for capable, discreet help
+- Does not press for an immediate answer: "not for too long — the city doesn't have patience"
 
 ### Earning Renown
 
@@ -259,9 +298,19 @@ Full write-ups appear in Appendix D. Summary:
 
 Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, who has been outmaneuvering Underdark politics for generations. In Waterdeep, the operation runs out of the Sea Maidens Faire — a traveling carnival that is exactly what it appears to be, and also something else entirely. Jarlaxle does not brawl in the streets. He acquires information, sells it selectively, positions operatives in every major faction, and acts decisively only when the odds are already arranged in his favor.
 
-Joining Bregan D'aerthe means working for Jarlaxle, who genuinely values capable people and will treat his agents well — until their interests diverge from his, at which point he will maneuver them into serving his ends anyway, with a smile. Characters who join this faction are playing a game where the other player is better at it than they are. This is not a reason not to play. It is a reason to pay attention.
+Joining Bregan D'aerthe means working for Jarlaxle, who genuinely values capable people and will treat his agents well — until their interests diverge from his, at which point he will maneuver them into serving his ends anyway, with a smile. Characters who join this faction are playing a game where the other player is better at it than they are. Pay attention.
 
 **Primary Contact:** Jarlaxle Baenre — operating in Waterdeep as the flamboyant Illuskan carnival master Zardoz Zord. He is always performing, but the performance is genuine: a man who chose delight as a survival strategy and discovered it works. He gives compliments that are precise and earned. He remembers everything you said three conversations ago. He is never threatened by capable people — he collects them. The tell players should learn to watch for: when Jarlaxle stops smiling, the situation has become genuinely serious.
+
+### First Meeting
+
+- **Primary path:** Arc C nimblewright investigation leads to the Sea Maidens Faire; full scene in Arc C; membership offered if party negotiates with Jarlaxle rather than treating him as a target
+- **Secondary path (drow-heavy parties):** D'aerthe spies shadow the party for several days; drow characters catch glimpses (passive 18+ or DC 15 Insight identifies them as drow specifically interested in drow PCs)
+  - If reported to Watch: watchers vanish, contact ends
+  - If confronted: spies melt away, leave a black eye patch on the cobblestones
+- Following morning: J.B. Nevercott (haberdasher, burgundy coat, *hat of disguise*) knocks at Trollskull; maintains the fiction until a drow character steps away from the group
+- Drops fiction: names Bregan D'aerthe, offers a first assignment as an introduction — small, deniable; produces a plain black card with a silver ship
+- Does not confirm his real identity; remains J.B. Nevercott until the fiction becomes untenable
 
 ### Earning Renown
 
@@ -282,7 +331,7 @@ Joining Bregan D'aerthe means working for Jarlaxle, who genuinely values capable
 | 25 | **Commander** | Jarlaxle accompanies the party on one mission per arc, fighting at full capacity. Two **drow gunslingers** and four **drow** support one major operation per arc. Jarlaxle can arrange one of the following: a private audience with a Masked Lord, passage in or out of Waterdeep without City Watch knowledge, or the quiet disappearance of one named individual for 1d10 days. Once per arc. |
 | 50 | **Houseless Noble** | Jarlaxle names the character an honorary member of Bregan D'aerthe's inner circle. Full Underdark network opens to them: contacts in Menzoberranzan, surface brokers from Luskan to Calimshan, and a standing invitation to operate under D'aerthe's protection anywhere in Faerûn. Access to the submarine *Scarlet Marpenoth* and its crew for any mission the character undertakes. |
 
-**Grand Game agenda:** Jarlaxle wants the gold not to keep it but to return it to Laeral Silverhand — making the Open Lord personally indebted to him, which is worth more than the gold itself in his long-running project to secure Luskan's admission to the Lords' Alliance. He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign. PCs who understand his actual goals can deal with him openly and find him a reliable, if unsettling, partner. PCs who mistake him for a simple villain will be outmaneuvered at every turn — and will enjoy it considerably less than if they had paid attention.
+**Grand Game agenda:** Jarlaxle wants to return the gold to Laeral Silverhand — making the Open Lord personally indebted to him, which is worth more than the gold itself in his long-running project to secure Luskan's admission to the Lords' Alliance. He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign. PCs who understand his actual goals can deal with him openly and find him a reliable, if unsettling, partner. PCs who mistake him for a simple villain will be outmaneuvered at every turn — and will enjoy it considerably less than if they had paid attention.
 
 ### Missions
 
@@ -301,11 +350,20 @@ Full write-ups appear in Appendix D. Summary:
 
 *"Waterdeep has enemies it cannot acknowledge. We handle those."*
 
-Force Grey is Waterdeep's official cadre of elite adventuring agents, organized and commanded by Vajra Safahr, the Blackstaff — the city's most powerful individual wizard and its designated guardian against arcane threats. Force Grey is not a public organization. Its operations are deniable, its membership discreet, and its mandate broad: handle threats the City Watch and City Guard cannot or should not touch.
+Force Grey is Waterdeep's official cadre of elite adventuring agents, organized and commanded by Vajra Safahr, the Blackstaff — the city's most powerful individual wizard and its designated guardian against arcane threats. Its operations are deniable, its membership discreet, and its mandate broad: handle threats the City Watch and City Guard cannot or should not touch.
 
 Characters who join the Gray Hands — the entry tier of Force Grey — are not yet full Force Grey operatives. Vajra is testing them. What they earn in the meantime is something more immediately valuable: the personal patronage of the Blackstaff. Her backing is not something that can be purchased or networked into. It is earned — and it comes with extraordinary expectations in return.
 
 **Primary Contact:** Vajra Safahr, the Blackstaff — the youngest person to hold the title and among the most formidable wizards in Waterdeep. Communicates primarily via *sending* spells and is not given to small talk. A genuine ally to characters who prove themselves; a genuinely intimidating authority figure to those who cross her.
+
+### First Meeting
+
+- *Sending* spell reaches one party member: "I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."
+- If declined: contacts a different member next day; if declined again, waits until next level — notes the refusals, doesn't take them personally
+- Tower door opens before they speak (they were expected)
+- Vajra at standing desk — doesn't move to a sitting room; offers Gray Hands (not Force Grey) — entry tier, pending track record
+- References Renaer's endorsement, the Arc A warehouse; current priority framed as magical coercion: people acting against their will in positions of influence; Watch can't touch it
+- On acceptance: brief note, door opens by itself; closes: "Try to get some sleep. The work does not wait for people to be rested."
 
 ### Earning Renown
 

@@ -121,7 +121,8 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | `ttrpg-sourcebook-style` | Lore, faction overviews, location descriptions, NPC profiles, setting prose |
 | `foundry-journal` | Any formatted output — always load alongside dnd-adventure-text or ttrpg-sourcebook-style |
 | `humanize-prose` | Voice and rhythm pass on prose |
-| `deslop-text` | AI pattern check on prose |
+| `deslop-text` | AI pattern check on prose — structural patterns (em-dashes, W2, metronomic sentences, etc.) |
+| `no-ai-slop` | Complementary AI pattern check — binary contrasts, colon reveals, throat-clearing, importance puffery, weasel attribution, synonym cycling. Always run alongside deslop-text; they catch different things. Installed globally. |
 | `adventure-reloaded` | Structural and writing guide for all campaign remix content — load before drafting any arc, chapter, scene, NPC profile, or design notes section |
 
 ---
@@ -155,11 +156,13 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
-**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` first (flag AI patterns, apply rewrites), then `humanize-prose` (voice and rhythm pass). Deliver only the polished version.
+**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Deliver only the polished version.
 
 **Output format:** Finished documents (completed arcs, chapters, standalone encounters) are delivered as an **HTML Artifact** that visually replicates how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later. Structure drafts and appendices still being written faction-by-faction (like Appendix D) go directly into their `.md` source file — no artifact until the document is complete.
 
 **Mission depth:** Faction missions must not reduce to a single skill check. Each mission needs multiple decision points, scene beats, or mechanical layers — social negotiation followed by an encounter, investigation that branches on player choices, a combat with a secondary objective, or a multi-stage resolution. A mission where the players roll once and the outcome is determined is not a mission, it is a wandering encounter. If the source mission is thin (one check, no scene structure), expand it.
+
+**Git commits:** Commit to git at the end of every turn in which files were changed. The commit message must explain *why* the changes were made — not just what changed. Reference the design decision or consistency issue that drove each edit. This preserves reasoning across context compaction, so future sessions can understand not just what is in the files but why it got there.
 
 ---
 
@@ -173,7 +176,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 4. For NPC profiles: use the Resonance / Emotions / Motivations / Inspirations // Persona / Morale / Relationships format from `adventure-reloaded`
 5. For monsters: load `dnd-monster-designer` (standard) or `boss-design` (named villain)
 6. For encounter balancing: load `cr2-encounter-builder`
-7. Run `deslop-text` → `humanize-prose` on all prose
+7. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose
 8. Deliver as HTML Artifact
 
 ### Writing a new encounter area or keyed location
@@ -182,7 +185,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 2. Write the entry (setup paragraph → read-aloud → creature behavior → checks → treasure → development)
 3. For any monsters: load `dnd-monster-designer` (standard) or `boss-design` (named villain/boss)
 4. For encounter balancing: load `cr2-encounter-builder`
-5. Run `deslop-text` → `humanize-prose` on all prose
+5. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose
 6. Deliver as HTML Artifact mimicking Foundry journal layout
 
 ### Converting 2014 adventure content to 2024
@@ -190,14 +193,14 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 1. Load `dnd-adventure-converter` + `dnd-adventure-text` + `foundry-journal`
 2. Run the converter's full workflow: terminology pass → structural pass → action naming → monster renames
 3. For any embedded full stat blocks: pull out, run through `dnd-monster-converter`, splice back in
-4. Run `deslop-text` → `humanize-prose` on the final prose
+4. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on the final prose
 5. Deliver as HTML Artifact
 
 ### Writing lore, faction overviews, or sourcebook-style content
 
 1. Load `ttrpg-sourcebook-style` + `foundry-journal`
 2. Write content following sourcebook conventions (consequence-layered facts, competing tensions, in-world closing quote)
-3. Run `deslop-text` → `humanize-prose`
+3. Run `deslop-text` + `no-ai-slop` → `humanize-prose`
 4. Deliver as HTML Artifact
 
 ### Designing a boss or major villain

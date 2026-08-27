@@ -162,7 +162,7 @@ The loan has since been partially repaid. What remains is not enough to panic ov
 *Your character knows the following:* Istrid Horn holds a legitimate debt. She has made no contact outside of routine payment collection. You are not afraid of her. You are merely aware that she knows a great deal about you, has recorded it, and will continue to add to the record.
 
 **The Holder: Istrid Horn (Doom Raiders)**
-A half-dwarf who runs a money-lending operation out of the South Ward and serves as one of Davil Starsong's most effective lieutenants. She is not charming. She is reliable, exact, and genuinely disinterested in personal drama — she wants debts paid and useful people identified. Her first contact with the character arrives through routine channels, a note about a payment, a clarifying question about an arrangement. It is only later that it becomes clear she has been forwarding summaries of the debt relationship to Davil Starsong. Who the character owes, and how reliably they pay, tells her everything about who they are.
+A half-dwarf who runs a money-lending operation out of the South Ward and serves as one of Davil Starsong's most effective lieutenants. She doesn't deal in charm. Reliable, exact, and genuinely disinterested in personal drama — she wants debts paid and useful people identified. Her first contact with the character arrives through routine channels, a note about a payment, a clarifying question about an arrangement. It is only later that it becomes clear she has been forwarding summaries of the debt relationship to Davil Starsong. Who the character owes, and how reliably they pay, tells her everything about who they are.
 
 ---
 
@@ -170,7 +170,7 @@ A half-dwarf who runs a money-lending operation out of the South Ward and serves
 
 You were hired — through enough layers of intermediary that you could not have known at the time — to carry a sealed package from the Trades Ward to a contact in the Dock Ward and ask no questions. You did not ask questions. You carried the package. When you arrived at the delivery point there was a body, fresh, and three armed people who did not work for whoever had hired you. You ran. The package came with you.
 
-The package is still with you, still sealed. You haven't opened it — not discipline, but the sensible knowledge that some things can't be unlearned. This is true. It's also true that the package is heavier than it looks, and sometimes warmer.
+The package is still with you, still sealed. You haven't opened it. The sensible knowledge that some things can't be unlearned is its own kind of discipline. The package is heavier than it looks, and sometimes warmer.
 
 *Your character knows the following:* Urstul Floxin — a name you obtained with difficulty afterward — is the man who was waiting for the package. He has made one attempt to locate you, through channels that required real effort to trace back. He knows approximately where you are. He has not moved against you, which means either he is biding his time or he wants the package more than he wants satisfaction.
 
@@ -190,13 +190,13 @@ What they did not know when they acquired the credential was that Yalah Gralhund
 *Your character knows the following:* The seal was used. The credential exists somewhere in someone's records. Whether it has been traced is not known. What is known is that Yalah Gralhund is not the kind of person who discovers an insult and simply absorbs it.
 
 **The Holder: Yalah Gralhund**
-A Waterdhavian noble of genuine intelligence and practical ruthlessness — her husband Orond manages appearances; she manages the house. Her first contact with the character will feel like an invitation: social, professional, seemingly cordial. She won't accuse. She'll place the character in a position where they understand, without being told, that she knows — and that her response isn't yet decided. Characters who handle this meeting well, demonstrating they are worth more as an asset than as an example, may find the credential problem quietly retired in exchange for a specific private service. Characters who confirm her suspicion that they are merely opportunistic will have a different experience.
+A Waterdhavian noble of genuine intelligence and practical ruthlessness — her husband Orond manages appearances; she manages the house. Her first contact with the character will feel like an invitation: social, professional, warm without being warm. She won't accuse. She'll place the character in a position where they understand, without being told, that she knows — and that her response isn't yet decided. Characters who handle this meeting well, demonstrating they are worth more as an asset than as an example, may find the credential problem quietly retired in exchange for a specific private service. Characters who confirm her suspicion that they are merely opportunistic will have a different experience.
 
 ---
 
 **Purpose — Renaer's Confidence**
 
-Renaer Neverember trusted you with something he does not trust easily: the truth. Not the public truth about his father's corruption — that story is becoming common knowledge — but a specific, private piece of it: a name, a location, a transaction that implicates someone who is not his father and who is still very much active and very much in Waterdeep. He told you because he needed someone outside his usual circles to hold the information. Because he thought you would know what to do with it if something happened to him.
+Renaer Neverember trusted you with something he does not trust easily: the truth. Not the public truth about his father's corruption — that story is becoming common knowledge — but a specific, private piece of it: a name, a location, a transaction that implicates someone who is not his father — still active, still in Waterdeep. He told you because he needed someone outside his usual circles to hold the information. Because he thought you would know what to do with it if something happened to him.
 
 Nothing has happened to him. Yet. But the information is still yours, and what you do with it — keep it, use it, trade it — will define what kind of person you are in a city that runs on exactly this kind of knowledge.
 
@@ -228,7 +228,7 @@ You did not know, for some time, that you were being run. The information you re
 
 Davil came afterward to offer a drink and mention, warmly, that he'd heard good things about you and thought it was past time you met properly. No acknowledgment of the arrangement — just an introduction.
 
-*Your character knows the following:* Davil Starsong used you as an intelligence asset without your consent, and his first official meeting with you opened with a compliment rather than an admission. This tells you most of what you need to know about how he operates. It does not tell you what he intends next.
+*Your character knows the following:* Davil Starsong used you as an intelligence asset without your consent, and his first official meeting with you opened with a compliment rather than an admission. This tells you most of what you need to know about how he operates — not what he intends next.
 
 **The Holder: Davil Starsong (Doom Raiders)**
 A slender, elegantly dressed sun elf who serves as the public face of the Doom Raiders' Waterdeep operation. He is charming, cultured, and entirely transparent about being charming and cultured — which is its own form of deflection. Beneath the social performance, he's a genuine professional who believes the Doom Raiders' moderate approach to crime is both more profitable and more ethical than Manshoon's methods. His first formal ask of the character is small and explicitly acknowledged as such — he's calibrating them, not exploiting them, and he makes this clear. Characters who engage honestly will find the relationship evolving into something closer to a genuine working partnership. Characters who try to leverage the asset-running against him will discover that Davil has been planning for that move since the first note was dropped.
@@ -237,22 +237,22 @@ A slender, elegantly dressed sun elf who serves as the public face of the Doom R
 
 **Justice — Blastwind's Evidence**
 
-Barnibus Blastwind is a City Watch investigator of considerable reputation: thorough, methodical, rarely wrong. You watched Blastwind do something deliberate. When he realized he'd been seen, he made a decision about how to handle that which was, in its own way, impressive: he decided to do nothing. He looked at you for a long moment and then continued doing what he had been doing, and then the moment was over.
+Barnibus Blastwind is a City Watch investigator of considerable reputation: thorough, methodical, rarely wrong. You watched Blastwind do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. Held your gaze for a long moment, then went back to what he'd been doing.
 
 A week later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in seven days. He wasn't there to threaten you. Call it an introduction.
 
 *Your character knows the following:* Barnibus Blastwind knows what you saw. You know what he did. Both of you are now holding something the other cannot comfortably use without mutual destruction. Blastwind seems to find this arrangement workable.
 
 **The Holder: Barnibus Blastwind (City Watch)**
-An investigator in his middle years — reputation earned, private compromise carefully buried. He's not corrupt in the conventional sense — his compromise was situational, singular, and involves a person he refuses to discuss. He's also genuinely good at his job, which makes him valuable in ways the character didn't anticipate when this began. His first official request involves something the Watch can't pursue through official channels. He frames this honestly. Characters who help him begin accumulating something more durable than leverage: a genuine ally who knows the city's investigative apparatus from the inside, and who has a reason to keep them safe.
+An investigator in his middle years — reputation earned, private compromise carefully buried. His compromise is situational: one incident, singular, involving a person he refuses to discuss. He's also genuinely good at his job, which makes him valuable in ways the character didn't anticipate when this began. His first official request involves something the Watch can't pursue through official channels. He frames this honestly. Characters who help him begin accumulating something more durable than leverage: a genuine ally who knows the city's investigative apparatus from the inside, and who has a reason to keep them safe.
 
 ---
 
 **Knowledge — Skeemo's Index**
 
-Skeemo Weirdbottle maintains, out of a cramped and thoroughly unassuming shop in the Dock Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exists outside the Xanathar Guild's own records. He compiled it partly for business purposes and partly because he finds the city's power structures intrinsically interesting as a subject of study. He sold you something from it — access, a specific piece of information, a document that enabled something you needed to do — and the transaction was handled with professional discretion.
+Skeemo Weirdbottle maintains, out of a cramped and thoroughly unassuming shop in the Dock Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exists outside the Xanathar Guild's own records. He compiled it partly for business purposes and partly because he finds the city's power structures intrinsically interesting as a subject of study. He sold you something from it — access, a specific piece of information, a document that enabled something you needed to do — and conducted the transaction with professional discretion.
 
-What he did not mention at the time was that the transaction was itself entered into the index. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
+What he did not mention was that he had already entered it into the index as he filed it. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
 
 *Your character knows the following:* Skeemo Weirdbottle has detailed knowledge of at least one thing you have done, filed under your name, cross-referenced against other entries. He doesn't threaten you with it. He appears to simply consider it useful to know. Whenever you encounter him, he'll offer to sell you additional information, and the prices are always fair. This, somehow, makes it worse.
 
@@ -265,7 +265,7 @@ A gnome alchemist whose cheerful manner and genuine intellectual curiosity make 
 
 **Bonds** are formative backstory elements — the wound or truth those events left, not the events themselves. A Bond explains why the character behaves the way they do: the thing that shaped their worldview, their relationship to power, their capacity for trust. Every Bond connects to something the campaign will press on.
 
-**Flaws** are the character's internal arc — each one a thing the character must overcome by the end of the campaign to become who they need to be. These aren't personality quirks, and they're not levers for the DM to exploit. Each one answers: *what is this character's damage, and what does it cost them?* The campaign's events — the fireball, the Cassalanter children, the vault, the gold — are designed to press on exactly these.
+**Flaws** are the character's internal arc — each one a thing the character must overcome by the end of the campaign to become who they need to be. These are genuine internal obstacles, not personality flavoring or DM tools. Each one answers: *what is this character's damage, and what does it cost them?* The campaign's events — the fireball, the Cassalanter children, the vault, the gold — are designed to press on exactly these.
 
 Players choose or roll one Bond and one Flaw. Ask both to be read aloud at the table during session zero — the conversation that follows is usually more useful than any individual entry.
 
@@ -329,7 +329,7 @@ Players choose or roll one Bond and one Flaw. Ask both to be read aloud at the t
 
 1. **Bregan D'aerthe conditional entry:** The chapter must make unmistakably clear that Bregan D'aerthe is not a session zero faction choice. The conditional entry mechanic (Arc C nimblewright → Sea Maidens Faire → Jarlaxle contact) should be explained with enough specificity that a player understands what they need to do in play to unlock it — without spoiling Arc C's investigation.
 
-2. **Tone of the chapter:** Not sales copy. Not hype. This chapter is honest about what the campaign is and isn't. A group that reads it and decides this isn't their game has been well-served.
+2. **Tone of the chapter:** Not sales copy. Not hype. Say what the campaign is and isn't. A group that reads this and decides it isn't their game has been well-served.
 
 3. **The gold question placement:** "What would your character do with half a million Dragons?" should appear in the session zero script as a player-facing prompt, not in the DM's private design notes. It surfaces player values. The answer matters later.
 
