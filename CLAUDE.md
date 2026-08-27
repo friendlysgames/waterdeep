@@ -77,6 +77,7 @@ Primary source files:
 | `campaign/structure/appendix-a-npc-roster.md` | Appendix A — full NPC roster for DM reference |
 | `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
 | `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version — temp files in `campaign/structure/temp/` may diverge if edited post-assembly. |
+| `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Prose-polished, structure draft. |
 | `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. May be deleted — content is preserved in appendix-d. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
 
@@ -157,7 +158,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
-**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Deliver only the polished version.
+**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Run the full pipeline recursively until no violations remain. Deliver only the polished version. Quoted character dialogue is exempt from W-codes and empty-adverb rules — formal or idiosyncratic speech patterns inside quotation marks are intentional character voice.
 
 **Output format:** All campaign documents go to `.md` source files. **No HTML Artifacts are published until the full campaign structure is complete** — meaning all arcs, chapters, and appendices have been drafted and reviewed. When the campaign structure is done, finished documents are delivered as HTML Artifacts that visually replicate how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later.
 
