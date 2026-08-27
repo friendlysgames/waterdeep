@@ -96,4 +96,4 @@ All rules from Session 1 handoff carry forward unchanged, plus:
 
 ## Where to Start Next Session
 
-Read `campaign/structure/appendix-d-running-factions.md` to orient on the full assembled document (2,312 lines, 7 factions). The next logical task is a prose quality pass (deslop-text + no-ai-slop → humanize-prose) followed by delivering the complete Appendix D as an HTML Artifact in Foundry journal style. Load `foundry-journal` before rendering. Alternatively, if the user wants to move to a different document (e.g., Arc chapters, Appendix A/C), start with whatever they name.
+Work on the **tavern appendix** — the Trollskull Manor reference document covering how the party's home base operates during the campaign. Begin by reading `CLAUDE.md` for standing rules, then check what (if anything) already exists for the tavern in the campaign structure files before drafting. The tavern appendix should cover: property mechanics (repair, renovation, staff), the tavern as a social hub during Arc B, faction visit protocols, and any mechanical hooks tied to the tavern's reputation or income.
