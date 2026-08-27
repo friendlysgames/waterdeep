@@ -10,7 +10,7 @@ The systems here cover six areas: Operating Costs, the Reputation Track (Fame), 
 
 ## Part 1: Operating Costs
 
-Three expense categories recur every tenday. Guild fees and staff wages together form the **base 60 gp/tenday** figure established during Arc B. Supply costs sit on top and scale with Fame.
+Three expense categories recur every tenday. Guild fees and staff wages together form the **base 60 gp/tenday** figure established during Act I. Supply costs sit on top and scale with Fame.
 
 **Unpaid Debt rule:** Every 1 gp of unpaid debt subtracts 1 from the next Revenue Roll.
 
@@ -61,7 +61,7 @@ The remaining 10 gp of the 50 gp staff/maintenance budget covers incidentals.
 
 #### Lif the Poltergeist Bartender
 
-If appeased during Arc B, Lif serves as bartender for free. Communicates by gesture, chalk slate, and atmospheric emphasis. His signature drink — **The Half-Elf** (two-layer spirit-and-ale, layers never mix) — adds +2 to the Revenue Roll any tenday he is tending bar and it is on the menu.
+If appeased during Act I, Lif serves as bartender for free. Communicates by gesture, chalk slate, and atmospheric emphasis. His signature drink — **The Half-Elf** (two-layer spirit-and-ale, layers never mix) — adds +2 to the Revenue Roll any tenday he is tending bar and it is on the menu.
 
 If not appeased, Lif does not prevent the party from hiring a living bartender. See bartender candidates below.
 
@@ -87,7 +87,7 @@ When a position is open, candidates arrive within a day. The DM chooses which ap
 |---|---|---|---|---|---|---|
 | 1 | **Kassia Brenn** | NG human | Hardworking, fast, notices everything | None. Will relay patron observations if asked. | 5 gp | +1 |
 | 2 | **Pell Ashford** | CG halfling | Beloved, catastrophically clumsy | None. Halfling gossip network provides one useful rumor/tenday accidentally. **Note: different character from OG M1's "Pell" (Xanathar dealer) — two unrelated NPCs with the same first name.** | 4 gp | +2 Fame/tenday; −1d6 gp breakage |
-| 3 | **Ivrala Sorn** | LE human | Excellent server, Cassalanter operative | Cassalanter household. Reports monthly to Willifort Crowelle at a Dock Ward tobacconist. Intelligence is long-game: shapes how Lady Ammalia approaches the party in Arc G. If employed alongside Rella Asp (Master Cook), Cassalanters gain full kitchen + floor picture. | 5 gp | +1; intel filed as noted |
+| 3 | **Ivrala Sorn** | LE human | Excellent server, Cassalanter operative | Cassalanter household. Reports monthly to Willifort Crowelle at a Dock Ward tobacconist. Intelligence is long-game: shapes how Lady Ammalia approaches the party in Act III. If employed alongside Rella Asp (Master Cook), Cassalanters gain full kitchen + floor picture. | 5 gp | +1; intel filed as noted |
 | 4 | **Darvish** | LG human | Former Watch sergeant (injury), excellent | Retired Watch, Lords' Alliance adjacent. Knows Jalester Silvermane professionally. Survived a Xanathar Guild ambush — recognizes Guild members and quietly informs the party. | 6 gp | +1; advance warning when Xanathar Response Team escalates |
 | 5 | **Nessa & Corvin Vayle** | CN human twins | Exceptional efficiency; Corvin is a Harper courier | Corvin: Harper courier, not agent. Tavern becomes a minor Harper waypoint. Mirt's network already accounts for them. Package deliveries arrive at the kitchen entrance for Corvin — not the party's business, mostly. | 10 gp (both) | +2; Harper intelligence channel if party is Harper-affiliated |
 
@@ -105,7 +105,7 @@ When a position is open, candidates arrive within a day. The DM chooses which ap
 
 | # | Name | Alignment/Race | Key Quality | Faction Note | Wage | Revenue Effect |
 |---|---|---|---|---|---|---|
-| 1 | **Yagra Stonefist** | N half-orc | Party met her in Arc A (Yawning Portal brawl). Arrival scene varies by how that encounter went — four variants in source. | Doom Raiders (Zhentarim). When Xanathar Response Team arrives, she forces a choice: team backs down (50%) or escalates (50%). Will not be asked to stay out of it. | 8 gp | Advantage on Event nights; Xanathar visits roll forced choice |
+| 1 | **Yagra Stonefist** | N half-orc | Party met her in Act I (Yawning Portal brawl). Arrival scene varies by how that encounter went — four variants in source. | Doom Raiders (Zhentarim). When Xanathar Response Team arrives, she forces a choice: team backs down (50%) or escalates (50%). Will not be asked to stay out of it. | 8 gp | Advantage on Event nights; Xanathar visits roll forced choice |
 | 2 | **Bram Volker** | LN human | Retired Watch sergeant, 22 years service. Reliable in exactly the situations Watch training covers. | Retired Watch. Lords' Alliance adjacent — Jalester knows him ("reliable in the narrow sense"). | 6 gp | Advantage on standard Event nights; no bonus on supernatural/faction Events |
 | 3 | **Torbo** | CN goliath | Physically exceptional, easily distracted. Ends most brawls by standing in them. | None (visiting from Spine of the World, perpetually "leaving soon"). Arm-wrestling with Yagra if both employed: Auto-resolves all physical Events; +1 Fame first time crowd watches. | 7 gp | Advantage on physical brawl Events; 1d6 → structural damage on 1 |
 | 4 | **Sister Valdra** | LG human | Order of the Gauntlet (unofficial, personal initiative). Investigating Cassalanters on her own time. Uses bouncer job as cover. | OotG — Savra Belabranta does not know she is here. Has 3 pieces of Cassalanter intelligence. Will share with party if they demonstrate trustworthiness (OotG affiliation or a specific act). Sister Valdra recognizes Ivrala Sorn if both employed simultaneously (DC 13 Perception). | 6 gp (will accept 4 gp) | Advantage on Event nights; +1 OotG Renown/tenday, cap +3 |
@@ -137,7 +137,7 @@ Full profiles in source. Summary:
 | # | Name | Alignment/Race | Key Quality | Faction Note | Revenue/Fame |
 |---|---|---|---|---|---|
 | 1 | **Chef Oswin Barr** | NG human | Demanding, brilliant, complete kitchen autonomy required. Cannot work with Candidate 3. | None | +5 Revenue; +1 Fame; threatens to quit if a dish is criticized publicly |
-| 2 | **Rella Asp** | NE human | Exceptional cook. Cassalanter poisoner on placement assignment. | Cassalanter household. Not here to poison the party — gathering intelligence. Commission arrives when party becomes a genuine threat to the Cassalanters' Arc G plans. Target: an NPC the party values, not a party member. Leaves before party can trace it. | +4 Revenue; commission details in source |
+| 2 | **Rella Asp** | NE human | Exceptional cook. Cassalanter poisoner on placement assignment. | Cassalanter household. Not here to poison the party — gathering intelligence. Commission arrives when party becomes a genuine threat to the Cassalanters' Act III plans. Target: an NPC the party values, not a party member. Leaves before party can trace it. | +4 Revenue; commission details in source |
 | 3 | **Durlan Copperkettle** | LN gnome | Genuinely average. Absolutely certain he is exceptional. Bakers' Guild censure on record. | None. Will file a grievance if dismissed without written documentation. | −2 Revenue; −1 Fame after 2 tendays |
 | 4 | **"The Widow" Maren Holst** | NG human | Former household cook (40 years). Will not take Master Cook title but will run the kitchen. Will also have quiet, correct opinions about how the party is living their lives. | None. Late husband traded with half Waterdeep's guilds — she knows more about who runs what than most officials. | +4 Revenue; +2 Fame opening tenday, +1/tenday cap +5. Dismissing her without cause: −2 Fame immediately |
 | 5 | **Grevik Nass** | NE half-orc | Skilled cook. Xanathar Guild information broker using chef work as cover. Reports through a kitchen supplier. | Xanathar Guild. DC 15 Insight, DC 16 Investigation to detect. No version of this works out for the party if they don't catch him. | +3 Revenue; after 2 tendays, Guild has patron profile |
@@ -179,7 +179,7 @@ Raw materials the tavern sells. Scale with volume, quality, and Fame tier. Paid 
 
 ---
 
-### Faction Renovation Assistance (Arc B)
+### Faction Renovation Assistance (Act I)
 
 The 1,250 gp renovation cost is not small for a 2nd-level party. What each faction offers:
 
@@ -214,7 +214,7 @@ Fame is not currency — it cannot be spent. It modifies Revenue Rolls and shape
 
 ### Starting Fame
 
-When the Grand Opening occurs, roll 1d6 and add bonuses earned through Arc B preparation:
+When the Grand Opening occurs, roll 1d6 and add bonuses earned through Act I preparation:
 
 | Preparation | Bonus |
 |---|---|
@@ -385,11 +385,11 @@ Use this four-step procedure for each significant night the characters spend at 
 | 17 | Faction Contact *(primary faction contact for any PC; reroll if already present)* |
 | 18 | Campaign NPC *(DM's choice — update this slot as the campaign progresses)* |
 | 19 | Jarlaxle Baenre *(always in disguise; reroll if timing feels wrong)* |
-| 20 | Response Team *(see Part 7; reroll if campaign hasn't reached Arc C)* |
+| 20 | Response Team *(see Part 7; reroll before Act II begins)* |
 
 **Campaign NPC (18):** Any NPC the players have formed a strong connection with from elsewhere — a rescued prisoner, a faction agent they've befriended, a Renaer's Friends regular they've come to like.
 
-**Response Team (20):** Reroll before Arc C begins. After the fireball, a Faction Response Team arriving for a drink — reconnaissance or confrontation — is plausible.
+**Response Team (20):** Reroll before Act II begins. After the fireball, a Faction Response Team arriving for a drink — reconnaissance or confrontation — is plausible.
 
 ---
 
@@ -502,7 +502,7 @@ Speaks without small talk; unnerving stillness when listening; strong opinions a
 **Vincent Trench** *(Tiger's Eye, LE rakshasa in Calishite human disguise, Rakshasa stat block)*
 Asks questions; seems genuinely interested in whoever he's speaking to; always spirits, always neat; his hands are backwards.
 
-**2024 note:** Truesight no longer auto-reveals shapeshifters — Vincent's rakshasa nature requires *True Seeing* or specific magical investigation, not casual divine scrutiny. Play him as the best-connected, most unsettling man in the North Ward until Arc C or D when the reveal matters most.
+**2024 note:** Truesight no longer auto-reveals shapeshifters — Vincent's rakshasa nature requires *True Seeing* or specific magical investigation, not casual divine scrutiny. Play him as the best-connected, most unsettling man in the North Ward until Act II when the reveal matters most.
 
 - Client meeting in back — nervous Dock Ward merchant who keeps looking at the door
 - Wants to hire the party to follow young noble Adric Thongolir (meeting someone he shouldn't)
@@ -525,12 +525,12 @@ Direct; does not perform warmth; knows more about the party than she should.
 **Meloon Wardragon** *(Champion Fighter, NG Illuskan human)*
 Endlessly optimistic; buys rounds; tells stories about dead people he loved with complete emotional openness; sees himself in young adventurers and says so.
 
-**Arc C–E note:** By Arc C, Meloon has been compromised by an Xanathar Guild intellect devourer. The Meloon who visits during Arc B is genuine. The one who arrives in Arcs C–E may not be. The DM should track when this shift occurs and let the party notice gradually — the tavern is where early warning signs should emerge. The Force Grey mission "The Trouble with Meloon" formalizes this.
+**Act II–III note:** By Act II, Meloon has been compromised by an Xanathar Guild intellect devourer. The Meloon who visits during Act I is genuine. The one who arrives in Acts II–III may not be. The DM should track when this shift occurs and let the party notice gradually — the tavern is where early warning signs should emerge. The Force Grey mission "The Trouble with Meloon" formalizes this.
 
 - Buys a round; asks sincerely how the party is finding Waterdeep; actually listens
 - Tells a story about a Force Grey operation that went wrong; names people who died; is fond of them
 - Asks if the party has met Vajra yet; says she's worth trusting; says this with specific weight
-- *(Arc C+ only, intellect devourer active)* Orders something he's never ordered before. Asks about current investigation with slightly too much specificity. Gets something small wrong about a previous conversation.
+- *(Act II+, intellect devourer active)* Orders something he's never ordered before. Asks about current investigation with slightly too much specificity. Gets something small wrong about a previous conversation.
 
 **Floon Blagmaar** *(Commoner, CG Tethyrian human)*
 Charming in an unfocused way; devoted to Renaer; better instincts than he appears to have, worse judgment than those instincts deserve.
@@ -590,7 +590,7 @@ Burnished amber-bronze scales; bookish in posture; ink on hands; appears mid-tho
 - Asks if the party left a message at the shop for Variel Duskwhisper — he received two messages for that name and isn't sure which is which
 - Vincent Trench has been in the shop twice this tenday. Both times buying books on planar binding. Rishaal is not worried. He is mentioning it.
 
-**Jarlaxle Baenre** *(Bregan D'aerthe, NE male drow; see Appendix A and Arc H)*
+**Jarlaxle Baenre** *(Bregan D'aerthe, NE male drow; see Appendix A and Act III)*
 *Always in disguise. Different disguise each visit. Always the best seat without seeming to choose it.*
 Finds everything genuinely interesting; asks exactly one question per conversation he already knows the answer to; never orders the same thing twice.
 
@@ -626,9 +626,9 @@ Response Teams are detailed fully in Appendix E (Villain Factions). This section
 - A Guild plant as staff (Tobrin Ashvale, Grevik Nass) has been exposed
 - Party has the Stone of Golorr or an Eye and the Guild knows it
 
-**Early campaign (Arc B–C):** Four duergar, same time, sit at two tables covering door and stair. One looks at the party once with a filed-tooth smile. Leaves exact coin. No tip. No return that night. Meaning: the Guild knows where you live.
+**Early campaign (Acts I–II):** Four duergar, same time, sit at two tables covering door and stair. One looks at the party once with a filed-tooth smile. Leaves exact coin. No tip. No return that night. Meaning: the Guild knows where you live.
 
-**Active campaign (Arcs D–J, once the Guild marks the party as a threat):** Gorath sits at the bar with his back to the room, orders something good, and says: "You cost us something. We want it back. Or we want something worth the same. You have until the new moon." Then leaves. His team is outside.
+**Active campaign (Acts II–IV, once the Guild marks the party as a threat):** Gorath sits at the bar with his back to the room, orders something good, and says: "You cost us something. We want it back. Or we want something worth the same. You have until the new moon." Then leaves. His team is outside.
 
 **What the party can do:** Negotiate, return goods (if goods rather than information), or prepare for Korgstrod's team. No social check makes the Guild forget what they lost. Exchange or escalation.
 
@@ -665,7 +665,7 @@ Response Teams are detailed fully in Appendix E (Villain Factions). This section
 
 **Who comes:** "Willifort Crowelle" — a doppelganger, the Cassalanters' most trusted lieutenant. Always arrives as a different identity: friendly rival tavern owner, minor city functionary checking compliance paperwork, Harper contact the party hasn't met. Never arrives as himself, because himself does not exist.
 
-If the party is a serious Arc G threat: Seffia Naelryke's team (cult fanatic + 2 spies + 1 veteran + 1 invisible imp) conducts a quiet search during a busy service — not a confrontation, a reconnaissance.
+If the party is a serious Act III threat: Seffia Naelryke's team (cult fanatic + 2 spies + 1 veteran + 1 invisible imp) conducts a quiet search during a busy service — not a confrontation, a reconnaissance.
 
 **Triggers:**
 - Party has connected the Cassalanters to the Grand Game through investigation
@@ -687,7 +687,7 @@ If the party is a serious Arc G threat: Seffia Naelryke's team (cult fanatic + 2
 
 *Jarlaxle's people are the only faction that might genuinely enjoy the tavern.*
 
-**Who comes:** Fel'rekt Lafeen most often in the early campaign (Arc C–E), with 2–4 drow in excellent surface disguise. They order interesting things, tip well, cause no trouble. Jarlaxle himself appears separately in a different disguise each time (see Patron Profiles), preceded by Fel'rekt scoping the room first.
+**Who comes:** Fel'rekt Lafeen most often in the early campaign (Acts II–III), with 2–4 drow in excellent surface disguise. They order interesting things, tip well, cause no trouble. Jarlaxle himself appears separately in a different disguise each time (see Patron Profiles), preceded by Fel'rekt scoping the room first.
 
 **Triggers:**
 - Party has interfered with Bregan D'aerthe's Eye operations or the Sea Maidens Faire
@@ -715,7 +715,7 @@ By the time the Grand Game reaches its active phase, the tavern's status matters
 - **Xanathar Guild** has no specific interest in the tavern, but a Guild operative may follow a target inside. This is the Guild's version of not caring about the tavern.
 - **Bregan D'aerthe**, through Jarlaxle, finds the tavern genuinely charming. He has a table reserved — the party doesn't know this yet. He begins appearing occasionally in a different disguise each time.
 
-### The Tavern and Undermountain (Post-Arc J)
+### The Tavern and Undermountain (Post-Act IV)
 
 When the campaign transitions into *Dungeon of the Mad Mage*, Trollskull Tavern becomes the above-ground anchor — a reason to return to the surface, an income source between dungeon runs, a place where Undermountain rumors circulate. Durnan's Yawning Portal is the professional operation; the Trollskull is where the amateurs talk.
 
