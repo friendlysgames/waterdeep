@@ -71,6 +71,10 @@ If not appeased, Lif does not prevent the party from hiring a living bartender. 
 
 When a position is open, candidates arrive within a day. The DM chooses which appear based on campaign needs, or rolls 1d4 among options 1–4 (option 5 always appears last if the position is still open after three days).
 
+**Running the Interviews:** The hiring process is a low-stakes social encounter that teaches players Waterdeep is full of people with agendas. Each candidate has something they're hiding or something they want. PCs who ask the right questions — or succeed on a **DC 13 Wisdom (Insight) check** during the conversation — catch the tells. Those who hire on first impressions deserve what they get.
+
+Not every candidate needs a full scene. Present the appearance, let the candidate speak a line or two, and watch who the players fixate on. Develop the ones they ask follow-up questions about; decline the rest with a handshake. **DC 13 Insight:** reveals the candidate's hidden quality or agenda. **DC 20:** reveals the specific secret. **Failure:** candidate reads as broadly trustworthy or broadly untrustworthy at the DM's discretion — not specifically.
+
 **Bartender Candidates (10 gp/tenday standard)**
 
 | # | Name | Alignment/Race | Key Quality | Faction Note | Wage | Revenue Effect |
