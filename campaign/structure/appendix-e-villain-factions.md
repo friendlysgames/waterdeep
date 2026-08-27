@@ -123,7 +123,7 @@ Grinda runs her operation out of the standard Mistshore description from the ori
 
 #### Orb Confectioners / Xanathar Sewer Hideout (Southern Ward, Rising Ride)
 
-Orb Confectioners is a sweets shop specializing in eye-shaped treats — smallcakes, sweatmeats, sugar plates, candied nuts. Its cellar connects to a duergar operation run by Korgstrod Uxgulm. Use the Autumn version of the Cellar Complex (DH p. 86) for the layout.
+Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes, sweatmeats, sugar plates, candied nuts. Its cellar connects to a duergar operation run by Korgstrod Uxgulm. Use the Autumn version of the Cellar Complex (DH p. 86) for the layout.
 
 *Passphrase.* Ask for "eight small eyes." The counter-staff asks, "How would you like those arranged?" Correct answer: "Around an ocular cake." Correct answers earn an escort to the basement stairs.
 
@@ -149,7 +149,7 @@ He keeps a simulacrum in Kolat Towers while the original Manshoon watches from s
 
 **Sidra Romeir** — Manshoon's most trusted lieutenant, stationed at Kolat Towers. Holds the teleport rings when lieutenants leave the Towers. If captured lieutenants are killed, Sidra gives their rings to Kaevra.
 
-**Vevette Blackwater** — a swashbuckler (DH p. 216) with fiery red hair streaked platinum that can glow in the dark on her command. Charming in public, cruel in private. Carries *Seffia Naelryke's Visiting Card* — Seffia approached Vevette to open a Cassalanter–Zhentarim communication channel, but Vevette rebuffed her, suspecting a trap.
+**Vevette Blackwater** — a swashbuckler (DH p. 216) with fiery red hair streaked platinum that can glow in the dark on her command. Charming in public, cruel in private. Carries *Seffia Naelryke's Visiting Card*: Seffia approached Vevette to open a Cassalanter–Zhentarim communication channel, but Vevette rebuffed her, suspecting a trap.
 
 **Agorn Fuoco** — a bard (DH p. 195) and hollow coward who sends his thugs into danger while hanging back. Will barter his pass-amulet to Kolat Towers for his own life without hesitation. Carries a *Report to Agorn Fuoco*: intelligence confirming that Korgstrod's duergar operate out of Orb Confectioners on Rising Ride.
 
@@ -163,9 +163,9 @@ He keeps a simulacrum in Kolat Towers while the original Manshoon watches from s
 
 ### Response Teams
 
-All three Zhentarim response teams consist of a lieutenant plus 3–4 **thugs**. Every lieutenant carries a pass-amulet to Kolat Towers and will try to destroy it if capture seems certain — except Agorn, who trades his to save himself.
+All three Zhentarim response teams consist of a lieutenant plus 3–4 **thugs**. Every lieutenant carries a pass-amulet to Kolat Towers and will try to destroy it if capture seems certain, except Agorn, who trades his to save himself.
 
-Any Zhentarim team sent to attack the PCs carries orders to take them as prisoners to the Interrogation House on Brindul Alley. Questioned team members can point the PCs toward the house. The lighter roster is intentional — Manshoon wants intelligence, not body counts, and underestimated enemies are more useful to him than dead ones. These teams also make useful pressure on depleted parties when a lethal faction encounter would risk a TPK.
+Any Zhentarim team sent to attack the PCs carries orders to take them as prisoners to the Interrogation House on Brindul Alley. Questioned team members can point the PCs toward the house. The lighter roster is intentional. Manshoon wants intelligence, not body counts, and underestimated enemies are more useful to him than dead ones. These teams also make useful pressure on depleted parties when a lethal faction encounter would risk a TPK.
 
 **Vevette Blackwater** — swashbuckler + 3–4 **thugs**.
 **Agorn Fuoco** — bard + 3–4 **thugs**.
@@ -175,9 +175,9 @@ Any Zhentarim team sent to attack the PCs carries orders to take them as prisone
 
 #### Interrogation House (Trade Ward, Brindul Alley)
 
-Use the map for house L1 (DH p. 62). Avareen Windrivver and Zorbog Jyarkoth maintain this as a combination safe house and covert interrogation center. Three black **flying snakes** nest near the ceiling — the Zhentarim's message couriers.
+Use the map for house L1 (DH p. 62). Avareen Windrivver and Zorbog Jyarkoth maintain this as a combination safe house and covert interrogation center. Three black **flying snakes** nest near the ceiling, the Zhentarim's message couriers.
 
-*Front Room.* Avareen and Zorbog's quarters. Avareen carries a pass-amulet to Kolat Towers. As the PCs explore, a flying snake arrives with *A Directive to Zorbog* signed by "Manshoon" — ordering Zorbog to kidnap Fenerus Stormcastle of Quill Alley, a "known associate of these new meddlers in the Grand Game."
+*Front Room.* Avareen and Zorbog's quarters. Avareen carries a pass-amulet to Kolat Towers. As the PCs explore, a flying snake arrives with *A Directive to Zorbog* signed by "Manshoon", ordering Zorbog to kidnap Fenerus Stormcastle of Quill Alley, a "known associate of these new meddlers in the Grand Game."
 
 *Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack: **Ott Steeltoes**, a Xanatharian agent captured while the Zhentarim were trying to locate the Eye. He doesn't know what the Eye is.
 
@@ -191,7 +191,7 @@ Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **aco
 
 *Area O2 — Ground Level.* A crumpled note from Avareen to Seccent, full of barely contained contempt: Avareen complains about Manshoon's directive to hand over a broadsheet publisher named Shan Chien for Seccent's "foul rites," but closes with "Manshoon's word is my command."
 
-**Gralhund complication:** If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from across the street. The Gralhunds may mount their own raid on Yellowspire to access the teleportal — inserting a third party into whatever operation the PCs are planning.
+**Gralhund complication:** If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from across the street. The Gralhunds may mount their own raid on Yellowspire to access the teleportal, inserting a third party into whatever operation the PCs are planning.
 
 **Roster:** Amath Seccent (**priest**) + 4 **acolytes**. Agorn Fuoco may also be present (1-in-3 chance on any given day).
 
@@ -239,13 +239,13 @@ The Cassalanters' posture in the Grand Game shifts based on whether the PCs are 
 
 #### Asmodean Shrine (North Ward, Aveen Street)
 
-From outside, an unremarkable residence. Inside, every room has been converted to Asmodean worship. The Cassalanters bought this property after discovering the Hell cyst in Area 8 below — a pinprick of Hell co-located onto the Material Plane, which powers the summoning circle above it.
+From outside, an unremarkable residence. Inside, every room has been converted to Asmodean worship. The Cassalanters bought this property after discovering the Hell cyst in Area 8 below: a pinprick of Hell co-located onto the Material Plane, which powers the summoning circle above it.
 
 *Area 1 — Summoning Circle.* Demonic sigils on the floor connect to the Hell cyst below. The circle summons 2 **imps** once every nine days.
 
 *Area 2 — Styxian Shrine.* A stone font half-filled with grayish water enchanted to mimic the River Styx. Drinking requires a DC 14 Wisdom save or the drinker loses all memories for 8 hours. The cultists call this a sacrament.
 
-*Area 4 — Chapter House.* An *animate object* statue of writhing tentacles (50 hp, AC 10, +6 to hit, 2d20+2 damage). Attacks only on command. Under a cot: *Arn's Book of Worship* — a prayer text with Arn Xalrondar's name and the Windmill's address written inside the back cover.
+*Area 4 — Chapter House.* An *animate object* statue of writhing tentacles (50 hp, AC 10, +6 to hit, 2d20+2 damage). Attacks only on command. Under a cot: *Arn's Book of Worship*, a prayer text with Arn Xalrondar's name and the Windmill's address written inside the back cover.
 
 *Area 5 — Demonic Jelly.* Three kegs of amber jelly that act as a *potion of hill giant strength* when rubbed over the body (6 doses per keg).
 
@@ -267,7 +267,7 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 
 *Area W8 — Room of Rituals.* A blood-painted pentagram on the floor, burned-down candles at each point, and a desk drowning in papers.
 
-- DC 15 Intelligence (Arcana): The ritual was a demonic divination — a weakly powered version of *legend lore* — seeking something tied to "Neverember," "the wealth of Waterdeep," "Golorr," and "that which has been lost to the waters of Lethe."
+- DC 15 Intelligence (Arcana): The ritual was a demonic divination (a weakly powered version of *legend lore*) seeking something tied to "Neverember," "the wealth of Waterdeep," "Golorr," and "that which has been lost to the waters of Lethe."
 - The desk holds a map of Waterdeep. Strange lines of blood criss-cross it, but one location in the City of the Dead has been circled in charcoal with accompanying text identifying it as the "Brandath Crypt."
 
 **Roster:** Seffia Naelryke (**cult fanatic**) + Arn Xalrondar (**cult fanatic**) + 1 **imp** (invisible, on watch).
@@ -284,9 +284,9 @@ He enters the Grand Game later than the other factions. When the nimblewright in
 
 ### Key NPCs
 
-**Fel'rekt Lafeen** — drow gunslinger, Bregan D'Aerthe lieutenant, led the D'Aerthe team at Gralhund Villa. Carries *A Recommendation for Materiel* — a note from "J" instructing contact with Grinda Garloth at Mistshore, with a caution not to reveal his heritage.
+**Fel'rekt Lafeen** — drow gunslinger, Bregan D'Aerthe lieutenant, led the D'Aerthe team at Gralhund Villa. Carries *A Recommendation for Materiel*, a note from "J" instructing contact with Grinda Garloth at Mistshore, with a caution not to reveal his heritage.
 
-**Krebbyg Masq'il'yr** — drow gunslinger, Jarlaxle's logistics lieutenant. Collects messages from Fenerus Stormcastle's house every 1d3 days and carries them to the *Scarlet Marpenoth*. Carries a *Sealed Letter to Fenerus Stormcastle* — a 100 gp payment note (velvet pouch attached) signed "J."
+**Krebbyg Masq'il'yr** — drow gunslinger, Jarlaxle's logistics lieutenant. Collects messages from Fenerus Stormcastle's house every 1d3 days and carries them to the *Scarlet Marpenoth*. Carries a *Sealed Letter to Fenerus Stormcastle*, a 100 gp payment note (velvet pouch attached) signed "J."
 
 **Soluun Xibrindas** — drow gunslinger. Carries a bloodstained playbill from the Seven Masks Theater for a performance of *Blood Wedding*. Stalks and murders elven and half-elven audience members after shows. Jarlaxle is aware and hasn't yet decided what to do about it.
 
@@ -314,7 +314,7 @@ Use the description from DH p. 63. Fenerus collects messages from dead drops thr
 
 - Intelligence on Masked Lords, blackmail material, or diplomatic assessments of Lords' Alliance support for Luskan.
 - A surveillance report from Fel'rekt Lafeen on the Gralhund Villa observation post, noting Zhentarim presence and gazer activity nearby.
-- A note about "Westra Moltimmur" and "Sapphiria's Booty" — minimal research identifies these as belonging to the Seven Masks Theater.
+- A note about "Westra Moltimmur" and "Sapphiria's Booty" (minimal research identifies these as belonging to the Seven Masks Theater)
 - A guild licensing note about the Council of Musicians' objection to the Sea Maidens Faire as a public entertainment, resolved through the Jesters' Guild.
 - "Nimblewright delivery completed to Bowgentra Summertaen. We have eyes up in the Watchful Order."
 
@@ -459,7 +459,7 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 
 **Yellowspire** (Castle Ward)
 - Tracking Urstul Floxin before the Gralhund Villa operation (Response Team: Urstul Floxin)
-- Threatening Agorn Fuoco — he sells out Amath Seccent to save himself (Response Team: Agorn Fuoco)
+- Threatening Agorn Fuoco: he sells out Amath Seccent to save himself (Response Team: Agorn Fuoco)
 - *A Missive from Castle Ward* (Gralhund Villa)
 - Questioning Samara (Xanathar's Lair)
 
@@ -467,5 +467,5 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 - *Xanathar's Report on the Grand Game* (Xanathar's Lair)
 - *Cassalanter's Report on the Grand Game* (Cassalanter Villa)
 - Teleportation circle (Yellowspire)
-- Capturing Agorn Fuoco — he barters his pass-amulet (Response Team: Agorn Fuoco)
+- Capturing Agorn Fuoco: he barters his pass-amulet (Response Team: Agorn Fuoco)
 - Questioning Samara (Xanathar's Lair)
