@@ -84,6 +84,7 @@ Status: On hold. Roster compiled; profiles not yet written.
 - Zelifarn (young sea dragon; allied with BD)
 - Fenerus Stormcastle (human cut-out and message-drop on Quill Alley; lamplighter by day; knows messages go to Sea Maidens Faire; target of Manshoon kidnap directive in Arc E)
 - Malcolm Brizzenbright (ghost; Seven Masks Theater founder; anxious about Jarlaxle's use of the theater; knows "Rongquan Mystere" is a false identity; non-hostile recurring NPC)
+- Quilm (drow; Bregan D'Aerthe scout; placed as tavern bouncer candidate; neutralizes all BD response team visits automatically; the recommendation letter from "J" is recognizably Jarlaxle's handwriting to drow PCs or BD-affiliated characters; appears as Appendix F bouncer candidate)
 
 ### 12. Xanathar Guild
 - Xanathar (beholder crime lord)
