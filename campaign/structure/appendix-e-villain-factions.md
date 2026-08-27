@@ -8,9 +8,9 @@
 
 ### Overview
 
-Periodically throughout Waterdeep's long history, its byzantine factions become collectively fixated on a single objective. The city's chroniclers call these episodes Grand Games — competitions that breed subterfuge, violence, and all manner of covert maneuvering, often without the city's population noticing anything unusual at all.
+Periodically throughout Waterdeep's long history, its byzantine factions become collectively fixated on a single objective. The city's chroniclers call these episodes Grand Games. They breed subterfuge, violence, and all manner of covert maneuvering, often without the city's population noticing anything unusual at all.
 
-The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dragons that disgraced former Open Lord Dagult Neverember embezzled from the city and hid in a vault beneath the Brandath Crypt. The vault's location is locked inside the Stone of Golorr, an aboleth-created artifact Neverember blinded before he lost it — stripping out three gemstone Eyes the Stone needs before it can reveal anything useful. Getting into the vault requires recovering all three Eyes and restoring them to the Stone.
+The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dragons that disgraced former Open Lord Dagult Neverember embezzled from the city and hid in a vault beneath the Brandath Crypt. The vault's location is locked inside the Stone of Golorr, an aboleth-created artifact Neverember blinded before he lost it. He stripped out three gemstone Eyes the Stone needs to reveal anything useful. Getting into the vault requires recovering all three Eyes and restoring them to the Stone.
 
 Four factions are in active competition for the Enigma when the campaign begins. The players' characters stumble into the middle of that competition, and their choices will determine who wins, who loses, and what the vault's gold accomplishes.
 
@@ -26,9 +26,9 @@ Between sessions, spend five minutes asking three questions about each faction:
 
 Make a list of concrete, timestamped results. "Gorath's duergar will visit Trollskull Manor Tuesday at noon. Soluun Xibrindas will attempt to ambush whoever leaves the manor after midnight on Wednesday." Keep the list on your GM screen. When the PCs act, check the list and adjust.
 
-The factions know things the PCs don't. Response teams, surveillance operations, and intelligence networks are all running in the background. The clue documents in each outpost reflect what the factions have learned. When PCs find those documents, they're reading real intelligence — the faction is playing an active game, not following a script.
+The factions know things the PCs don't. Response teams, surveillance operations, and intelligence networks are all running in the background. The clue documents in each outpost reflect what the factions have learned. When PCs find those documents, they're reading real intelligence. The faction is playing an active game, not following a script.
 
-**Play factions like thinking opponents, not obstacles.** Each faction has goals, pursues them, and reacts to setbacks. They lose interest in the PCs the moment the PCs stop mattering to their plans. A few will try to kill the PCs — but only because the PCs represent a specific threat to a specific goal, not because killing the PCs is a default behavior.
+**Play factions like thinking opponents, not obstacles.** Each faction has goals, pursues them, and reacts to setbacks. They lose interest in the PCs the moment the PCs stop mattering to their plans. A few will try to kill the PCs, but only because the PCs represent a specific threat to a specific goal, not because killing the PCs is a default behavior.
 
 ### The MacGuffin Chain
 
@@ -42,7 +42,7 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 **Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. Jarlaxle acquired it through Bregan D'Aerthe intelligence operations before the campaign begins, though he enters the Grand Game later than the other factions.
 
-**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypt in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr — all three Eyes restored — and speaks the command phrase the Stone reveals.
+**The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypt in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
 
 ### Faction Knowledge at Campaign Start
 
@@ -59,11 +59,11 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 ### Personality and Agenda
 
-Xanathar is a beholder — paranoid, impulsive, and absolute in his conviction that everyone around him is either a tool or a threat. He holds territory through fear and loyalty through power, two things he understands. Trust, he doesn't understand at all.
+Xanathar is a beholder, paranoid, impulsive, and absolute in his conviction that everyone around him is either a tool or a threat. He holds territory through fear and loyalty through power, two things he understands. Trust, he doesn't understand at all.
 
 His most visible eccentricity is Sylgar, his pet goldfish. Xanathar's attachment to the fish is total and terrifying. Xanatharian agents who let anything bad happen to Sylgar can expect to be eaten. This is not a metaphor.
 
-His agenda in the Grand Game is territorial. Xanathar already controls the vault's location through the Stone of Golorr. The gold itself holds little appeal; the leverage it represents is everything. He'd prefer the vault to stay hidden under his control indefinitely — a source of leverage he can threaten but never has to use.
+His agenda in the Grand Game is territorial. Xanathar already controls the vault's location through the Stone of Golorr. The gold itself holds little appeal; the leverage it represents is everything. He'd prefer the vault to stay hidden under his control indefinitely, a source of leverage he can threaten but never has to use.
 
 ### Key NPCs
 
@@ -97,17 +97,17 @@ Xanathar deploys response teams in escalating tiers. The first or second team th
 
 #### Terasse Estate (Castle Ward, Elsambul's Lane)
 
-A modest rowhouse secretly owned by Xanathar. On the surface, Keln Trigos runs a healing operation for Xanatharian agents. Behind that, the estate is one of Waterdeep's gladiatorial gathering points — those who want to attend the fights in Xanathar's Lair report here, are plied with exotic food, then blindfolded and escorted through an underground dock to the caverns near Skullport.
+A modest rowhouse secretly owned by Xanathar. On the surface, Keln Trigos runs a healing operation for Xanatharian agents. Behind that, the estate is one of Waterdeep's gladiatorial gathering points. Those who want to attend the fights in Xanathar's Lair report here, are plied with exotic food, then blindfolded and escorted through an underground dock to the caverns near Skullport.
 
 *Area 1 — Front Door.* Two passphrases control entry: healing services ("I heard the red hand was hot"), gladiatorial gatherings ("the bawdy star shines bright tonight").
 
 *Area 3 — Kitchen.* A rug of reddish scales hides a trap door leading to the underground dock. Guests are blindfolded before they descend.
 
-*Area 5 — Upper Landing.* A tapestry depicting a stylized beholder with humanoids bowing before it. The hanging logbook (*Injury Reports*) records patients under pseudonyms — but one recent entry notes that an arrow wound was the result of "incautious observation of the windmill on Coachlamp Lane."
+*Area 5 — Upper Landing.* A tapestry depicting a stylized beholder with humanoids bowing before it. The hanging logbook (*Injury Reports*) records patients under pseudonyms, but one recent entry notes that an arrow wound was the result of "incautious observation of the windmill on Coachlamp Lane."
 
 *Area 6–7 — Master Suite.* Keln's desk holds *Instructions for Gladiatorial Weaponry* from Ahmaergo: a shipment of exotic weapons is being sent by Grinda Garloth for the next gladiatorial audience.
 
-*Areas 8–10 — Sick Rooms.* A bedridden Xanatharian agent has an *Ill Man's Note* on his bedside table — the Orb Confectioners passphrase, written in verse.
+*Areas 8–10 — Sick Rooms.* A bedridden Xanatharian agent has an *Ill Man's Note* on his bedside table: the Orb Confectioners passphrase, written in verse.
 
 **Roster:** Keln Trigos (**priest**) + 2 **guards** + 1d4 Xanatharian agents (**thug** stat block).
 
@@ -141,9 +141,9 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats — smallca
 
 ### Personality and Agenda
 
-Manshoon is a centuries-old wizard, a clone of a clone of the original Black Network's founder, who claims — as all surviving Manshoon clones do — to be the one true Manshoon. Waterdeep's power structure interests him less than leverage over it. The 500,000 gold dragons would provide exactly that: the ability to shape policy, compromise officials, and operate above the law without holding any formal position.
+Manshoon is a centuries-old wizard, a clone of a clone of the original Black Network's founder, who claims, as all surviving Manshoon clones do, to be the one true Manshoon. Waterdeep's power structure interests him less than leverage over it. The 500,000 gold dragons would provide exactly that: the ability to shape policy, compromise officials, and operate above the law without holding any formal position.
 
-He keeps a simulacrum in Kolat Towers while the original Manshoon watches from safer ground. His approach to the Grand Game reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction — a calculated choice. Drawing too much attention is the one mistake Manshoon won't make twice.
+He keeps a simulacrum in Kolat Towers while the original Manshoon watches from safer ground. His approach reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction. This is deliberate. Drawing too much attention is the one mistake Manshoon won't make twice.
 
 ### Key NPCs
 
@@ -187,7 +187,7 @@ Rescuing Ott: he immediately tries to recruit his rescuers into Xanathar's organ
 
 #### Yellowspire (Castle Ward)
 
-Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers — one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
+Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers, one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
 
 *Area O2 — Ground Level.* A crumpled note from Avareen to Seccent, full of barely contained contempt: Avareen complains about Manshoon's directive to hand over a broadsheet publisher named Shan Chien for Seccent's "foul rites," but closes with "Manshoon's word is my command."
 
@@ -205,7 +205,7 @@ Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bar
 
 The Cassalanters found a loophole. A ritual can substitute "one shy of a million gold coins" for the children's souls. They have most of the money. They need Neverember's vault to cover the remainder.
 
-Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in genuine danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
+Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
 ### The Soul Pact: Active vs. Passive Mode
 
@@ -280,7 +280,7 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 
 Jarlaxle Baenre is many things: the secret lord of Luskan, the commander of Bregan D'Aerthe, and in Waterdeep, Captain Zardoz Zord of the Sea Maidens Faire, a traveling carnival that covers his intelligence operations. He arrived in the city to advance Luskan's bid to join the Lords' Alliance, and came prepared: nimblewrights sold to wealthy families across every ward, each one harvesting intelligence through a crystal ball aboard the *Scarlet Marpenoth*.
 
-He enters the Grand Game later than the other factions. When the nimblewright investigation leads the PCs to him, he'll want to understand what they're chasing before offering anything. A conversation with Jarlaxle is rarely what it appears to be. The first thing he'll do is determine whether the PCs are useful or dangerous — ideally, he'll discover they're both.
+He enters the Grand Game later than the other factions. When the nimblewright investigation leads the PCs to him, he'll want to understand what they're chasing before offering anything. A conversation with Jarlaxle is rarely what it appears to be. The first thing he'll do is determine whether the PCs are useful or dangerous. Ideally, he'll discover they're both.
 
 ### Key NPCs
 
@@ -288,7 +288,7 @@ He enters the Grand Game later than the other factions. When the nimblewright in
 
 **Krebbyg Masq'il'yr** — drow gunslinger, Jarlaxle's logistics lieutenant. Collects messages from Fenerus Stormcastle's house every 1d3 days and carries them to the *Scarlet Marpenoth*. Carries a *Sealed Letter to Fenerus Stormcastle* — a 100 gp payment note (velvet pouch attached) signed "J."
 
-**Soluun Xibrindas** — drow gunslinger. Carries a bloodstained playbill from the Seven Masks Theater for a performance of *Blood Wedding*. Stalks and murders elven and half-elven audience members after shows. Jarlaxle is aware and has not yet decided what to do about it.
+**Soluun Xibrindas** — drow gunslinger. Carries a bloodstained playbill from the Seven Masks Theater for a performance of *Blood Wedding*. Stalks and murders elven and half-elven audience members after shows. Jarlaxle is aware and hasn't yet decided what to do about it.
 
 **Zelifarn** — water genasi stationed aboard the *Scarlet Marpenoth*.
 
@@ -298,7 +298,7 @@ He enters the Grand Game later than the other factions. When the nimblewright in
 
 ### Response Teams
 
-Bregan D'Aerthe teams favor misdirection over lethal force when possible. Jarlaxle's preference is non-lethal resolution — confused enemies are more useful to him than dead ones.
+Bregan D'Aerthe teams favor misdirection over lethal force when possible. Jarlaxle's preference is non-lethal resolution. Confused enemies are more useful to him than dead ones.
 
 **Standard Profile:** 1–2 **drow gunslingers** (DH p. 201) + 4–8 **drow** (MM p. 126). One gunslinger is usually a named lieutenant.
 
@@ -328,7 +328,7 @@ Use the Autumn version of the theater (DH p. 75). Jarlaxle owns it under the fal
 
 *Area P6 — Stage Manager's Office.* Among theater paperwork: the *Letter Regarding Fenerus Stormcastle's House* from "K" to "J." Krebbyg warns Jarlaxle that strange eyes have been watching Fenerus's house and black snakes have been spotted over the Trades Ward; he recommends caution and possibly finding a replacement asset.
 
-Malcolm Brizzenbright haunts the building. He shares his knowledge with PCs who treat him with respect — including the detail about "Rongquan" meeting with drow who mentioned the Sea Maidens Faire.
+Malcolm Brizzenbright haunts the building. He shares his knowledge with PCs who treat him with respect, including the detail about "Rongquan" meeting with drow who mentioned the Sea Maidens Faire.
 
 **Roster:** 2 **drow** (safe house guards, present only when the dressing room is occupied) + Malcolm Brizzenbright (ghost, non-hostile).
 
@@ -344,7 +344,7 @@ Each faction moves through five escalation stages when the PCs interfere with th
 |---|---|---|---|---|---|
 | **Xanathar's Guild** | Gazer scouts; Nihiloor processes captured intelligence | Tier 1: Gorath's duergar deployed as a warning | Tier 2: Korgstrod's heavy team (half-ogre + gazer) | Tier 3: Noska's bugbear squad with orders to eliminate | Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
 | **Manshoon's Zhentarim** | Flying snake courier network; Nar'l Xibrindas feeds intel from Xanathar's inner circle | Avareen identifies the threat; Urstul reviews field reports | Agorn or Vevette's team; orders are to capture, not kill | Urstul's team if the others fail; Manshoon issues personal directives by flying snake | Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
-| **The Cassalanters** | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise | Willifort gathers close intelligence on PC identities and contacts | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode | Bearded devil called up; Willifort targets a PC ally to create leverage | Cassalanters activate city connections — Watch reports, noble complaints, guild sanctions — before resorting to infernal force |
+| **The Cassalanters** | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise | Willifort gathers close intelligence on PC identities and contacts | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode | Bearded devil called up; Willifort targets a PC ally to create leverage | Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force |
 | **Bregan D'Aerthe** | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops | Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred | Fel'rekt, Krebbyg, and Soluun deployed together | Jarlaxle intervenes personally, always with an offer rather than a fight |
 
 **Xanathar.** Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost may jump straight to Tier 2. Anything involving Sylgar brings Tier 3 without warning.
@@ -353,7 +353,7 @@ Each faction moves through five escalation stages when the PCs interfere with th
 
 **Cassalanters.** The Cassalanters' escalation is binary. In passive mode they barely react. In hostile mode they skip to Willifort's full operation. The switch happens when the PCs refuse to help or are identified as a threat to the soul-pact plan.
 
-**Bregan D'Aerthe.** Jarlaxle doesn't mobilize against the PCs; he acquires leverage and applies it through negotiation. The only scenario that pushes him to direct confrontation is the PCs killing his lieutenants without offering terms first.
+**Bregan D'Aerthe.** Against the PCs, Jarlaxle reaches for leverage before force. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 
 ---
 
@@ -365,7 +365,7 @@ The factions compete with each other independently of the PCs. These operations 
 |---|---|---|---|
 | **Xanathar vs. Manshoon** | Cold war — hostile but controlled | Nar'l Xibrindas feeds Manshoon regular intelligence from Xanathar's inner circle. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects betrayal but hasn't identified the source. | *Correspondence with N'arl Xibrindas*, *Report to Agorn Fuoco* |
 | **Xanathar vs. Cassalanters** | Parallel competition — no direct contact | Xanathar has intelligence on the Seven Masks Theater but no active operation against the Cassalanters. If the Cassalanters go hostile to the PCs, Seffia's team enters the Xanathar lair heist as a competing faction. | None currently active |
-| **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — indirect overlap | Fel'rekt Lafeen observed the Xanathar operation at Gralhund Villa. Bregan D'Aerthe purchases equipment through Grinda Garloth, Xanathar's armorer — a dependency neither faction has acknowledged. | *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
+| **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — indirect overlap | Fel'rekt Lafeen observed the Xanathar operation at Gralhund Villa. Bregan D'Aerthe purchases equipment through Grinda Garloth, Xanathar's armorer, a dependency neither faction has acknowledged. | *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
 | **Manshoon vs. Cassalanters** | Mutual distrust — no contact | Seffia approached Vevette Blackwater to open a communication channel. Vevette refused, suspecting a trap. No further contact from either side. | *Seffia Naelryke's Visiting Card* (Vevette Blackwater) |
 | **Manshoon vs. Bregan D'Aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'Aerthe cut-out and ordered his abduction. Krebbyg has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised. | *Directive to Zorbog* (Interrogation House), *Letter Regarding Fenerus Stormcastle* (Seven Masks Theater) |
 | **Cassalanters vs. Bregan D'Aerthe** | Surveillance — not yet conflict | Cassalanter imps conduct ongoing surveillance of the Sea Maidens Faire. Jarlaxle's counter-intelligence hasn't detected it. If the Cassalanters turn hostile, Willifort attempts to assassinate Jarlaxle, fails, and likely pushes Jarlaxle toward a PC alliance against the Cassalanters. | *Instructions from Lord Cassalanter* (Asmodean Shrine) |
