@@ -76,8 +76,9 @@ Primary source files:
 | `campaign/structure/ch3-running-the-campaign.md` | Chapter 3 draft — structural rules: Three Clue Rule, heist framework, response teams, calendar |
 | `campaign/structure/appendix-a-npc-roster.md` | Appendix A — full NPC roster for DM reference |
 | `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
-| `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide (in progress; write faction sections individually before delivering as Artifact) |
-| `session 1 handoff.md` | Running log of completed work and where the current session left off — read at session start |
+| `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version — temp files in `campaign/structure/temp/` may diverge if edited post-assembly. |
+| `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. May be deleted — content is preserved in appendix-d. |
+| Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
 
 ---
 
@@ -159,6 +160,12 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Deliver only the polished version.
 
 **Output format:** All campaign documents go to `.md` source files. **No HTML Artifacts are published until the full campaign structure is complete** — meaning all arcs, chapters, and appendices have been drafted and reviewed. When the campaign structure is done, finished documents are delivered as HTML Artifacts that visually replicate how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later.
+
+**Wait to be asked:** Never begin researching or writing the next section (faction, arc, appendix) without an explicit user request. Complete the current task, then stop.
+
+**Mini-arc mission structure:** Every faction mission follows this sequence: Hook → Background (DM-only context) → Act 1 → Act 2 → Act 3 → Renown Opportunities → Aftermath. Do not skip or reorder sections.
+
+**Renown tier calibration:** L2–3 missions award 2 base renown; L4–5 missions award 3 base; L6–7 missions award 4 base. Bonus +1 renown is granted only for explicitly listed conditions in the Renown Opportunities section — not for general good play.
 
 **Mission depth:** Faction missions must not reduce to a single skill check. Each mission needs multiple decision points, scene beats, or mechanical layers — social negotiation followed by an encounter, investigation that branches on player choices, a combat with a secondary objective, or a multi-stage resolution. A mission where the players roll once and the outcome is determined is not a mission, it is a wandering encounter. If the source mission is thin (one check, no scene structure), expand it.
 
