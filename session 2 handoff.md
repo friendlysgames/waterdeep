@@ -59,7 +59,7 @@ Ran a full cross-faction consistency audit on all seven temp faction docs (`camp
 All rules from Session 1 handoff carry forward unchanged, plus:
 
 - **Git commits (new):** Commit at the end of every turn that changes files. Message must explain *why* the changes were made — reference the design decision or consistency issue. This is a standing rule in `CLAUDE.md`.
-- **No artifact for structure drafts:** Appendix D and similar in-progress documents go to `.md` files only. Artifact when complete.
+- **No artifacts until structure is done:** All campaign documents go to `.md` files. No HTML Artifacts are published until the full campaign structure (all arcs, chapters, appendices) is complete.
 - **Wait to be asked:** Never begin researching or writing the next section without an explicit user request.
 - **Research before writing:** Always grep WDH JSON and read Alexandrian PDFs before writing any faction or campaign content.
 - **Zero-prep design:** Every decision the document can settle must be settled in the document. No "DM's choice" placeholders.
@@ -81,10 +81,8 @@ All rules from Session 1 handoff carry forward unchanged, plus:
 ## Outstanding Work
 
 - [ ] **Temp folder cleanup** — `campaign/structure/temp/` (8 files, 2,308 lines) is now redundant since all content is in appendix-d. Delete or keep as source reference — user has not decided.
-- [ ] **Deslop + humanize pass on appendix-d** — The assembled document has not had a prose quality pass since assembly. Run `deslop-text` + `no-ai-slop` → `humanize-prose` before delivering as an Artifact.
-- [ ] **Appendix D HTML Artifact** — Appendix D is now a complete document (all 7 factions). The next deliverable is an HTML Artifact in Foundry journal style. Load `foundry-journal` before rendering.
 - [ ] **task_f5bf1f2c (from Session 1)** — All-factions contact audit against Appendix C. Partially addressed by the consistency check this session, but the chip from Session 1 was never formally closed.
-- [ ] **Artifact deletion (from Session 1)** — User asked to delete the Lords' Alliance artifact (`https://claude.ai/code/artifact/1f9473a5-3bea-44a2-af92-af3597270add`). Must be done manually from the `claude.ai/code/artifacts` gallery.
+- [ ] **Remaining structure work** — All arcs, chapters, and appendices must be drafted before any HTML Artifacts are published. No Artifact deliverables until the full campaign structure is complete.
 
 ---
 
