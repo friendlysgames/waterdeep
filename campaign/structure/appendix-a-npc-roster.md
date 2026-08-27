@@ -30,7 +30,12 @@ Status: On hold. Roster compiled; profiles not yet written.
 - Valetta (cleric of Gond; House of Inspired Hands; Arc C)
 - Lady Gondafrey (City Watch captain; prisoner at Kolat Towers; Arc I)
 - Aurinax (adult gold dragon; Vault guardian; Arc J)
-- Renaer's Black Tears (group entry: Laraelra "Elra" Harsard, Osco Salibuck, Lord Torlyn Wands, Eiruk Weskur, Harug Shieldsunder, Parlek Lateriff — Renaer's social circle and informal bodyguards; appear on the Renaer's Friends patron table in Appendix F; individual entries fold into Renaer's Relationships section unless a specific character demands development)
+- Laraelra "Elra" Harsard (half-elf mage; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
+- Osco Salibuck (lightfoot halfling; rogue; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
+- Lord Torlyn Wands (Illuskan human; wizard; Wands noble family; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
+- Eiruk Weskur (Chondathan human; priest of Oghma; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
+- Harug Shieldsunder (shield dwarf; fighter; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
+- Parlek Lateriff (Chondathan human; rogue; Renaer's Black Tears; appears on Appendix F Renaer's Friends table)
 - Hlam (Calishite hermit monk; lives at the peak of Mount Waterdeep; consulted in Force Grey M1 for intelligence on threats to the city; independent sage with no faction affiliation)
 - Hadra Stonebread (former Cassalanter household cook, 12 years; knows villa layout, staff identities, and which cult members attended private suppers; high-value intelligence asset in Arcs G–J; appears as Appendix F tavern staff candidate)
 - Esloon Bezant (Red Wizard exile; Mage stat block; Dock Ward crew; appears in Lords' Alliance M3; resurfaces in Arc E as faction hire or freelance complication if not detained)
@@ -135,6 +140,52 @@ Status: On hold. Roster compiled; profiles not yet written.
 - Yalah Gralhund (true driver of the family's Grand Game involvement)
 - Orond Gralhund (Yalah's husband; less committed)
 - Hrabbaz (half-orc bodyguard)
+
+### 16. Tavern Staff Candidates
+
+All 25 possible hires, organized by role. Faction-affiliated candidates cross-reference their primary section; profiles for those NPCs live there. Non-affiliated candidates are profiled here. Full Appendix F candidate entries have interview tells, mechanical effects, and faction reveal conditions.
+
+**Bartender Candidates** *(10 gp/tenday standard; free if Lif is appeased)*
+- Perella Dunwhistle (NG rock gnome; former Yawning Portal bartender; the best available hire; arrives with calibrated tools and immediately spots tap misalignment; excellent revenue; works in rapport with Lif without prompting)
+- Orryn Tetch (CN half-elf; charming; skims ~2 sp/shift from the till; stops entirely if warned rather than dismissed — treating him as worth correcting is novel to him; no faction)
+- Gosta Ironhelm (LN shield dwarf; informal City Watch reporting arrangement; gives one warning before filing a report if the party does something illegal; Lords' Alliance-adjacent)
+- Senna Vael → *see Section 10 — Doom Raiders*
+- Tobrin Ashvale → *see Section 12 — Xanathar Guild*
+
+**Server Candidates** *(5 gp/tenday standard; hire two)*
+- Kassia Brenn (NG human; excellent server, no agenda; knows within one tenday which regulars tip, which are trouble, and which are something more; reports observations to the party if asked; best revenue among non-faction servers)
+- Pell Ashford (CG halfling; warm, remembers every name, makes difficult patrons cheerful; catastrophically clumsy — −1d6 gp breakage per tenday; halfling gossip network provides one useful rumor per tenday without intending to)
+- Ivrala Sorn → *see Section 14 — Cassalanters*
+- Darvish (LG human; retired Watch, 12 years Harbor Ward; permanent limp from Xanathar Guild ambush; recognizes Guild members by face and informs the party quietly; Lords' Alliance-adjacent; advance warning when Xanathar response team escalates)
+- Nessa & Corvin Vayle (CN human twins; package hire; Nessa handles front of house, Corvin covers the room systematically; Corvin is a Harper courier — tavern becomes a minor Harper waypoint); Corvin → *see Section 5 — Harpers*
+
+**Line Cook Candidates** *(8 gp/tenday standard)*
+- Hadra Stonebread → *see Section 2 — Independents — Allies*
+- Jorn Kettleblack (CN human; mediocre cook who believes he is exceptional; causes conflict with other kitchen staff within one tenday; cannot work alongside a Master Cook; no faction)
+- Whisper (N kenku; silent; communicates by writing; can reproduce any dish after observing it once; cannot improvise substitutions; replays overheard conversations verbatim in original voices — useful to Harpers; kenku street network has Xanathar proximity but she makes no reports)
+- Brother Aldric (NG human; Ilmater monk between postings; 30-day tenure only, leaves regardless of circumstances; casts Cure Wounds once per day; extraordinary cooking as an act of worship; regulars mourn his departure)
+- Karrast (N githzerai; 60-day tenure only; planar cooking techniques from six planes; exceptional results; a Githyanki agent appears once near tenure's end — he handles it outside the tavern, quietly)
+
+**Bouncer Candidates** *(+5 gp/tenday above base; unlocks Bouncer upgrade)*
+- Yagra Stonefist → *see Section 10 — Doom Raiders*
+- Bram Volker (LN human; retired Watch, Harbor Ward, 22 years; reliable in exactly the situations Watch training covers — brawls, threats, basic crowd control; freezes on supernatural or faction-level events; Lords' Alliance-adjacent)
+- Torbo (CN goliath; physically capable of ending most brawls by standing in them; prone to absorbing into a single conversation at exactly the wrong moment; once accidentally destroyed a load-bearing wall; with Yagra: auto-resolves every physical event)
+- Sister Valdra → *see Section 8 — Order of the Gauntlet*
+- Quilm → *see Section 11 — Bregan D'Aerthe*
+
+**House Bard Candidates** *(+8 gp/tenday standard)*
+- Mattrim "Threestrings" Mereg → *see Section 5 — Harpers*
+- Lysa of the White Lute (NG half-elf; twelve years playing guild functions and the Temple of Milil; no professional performance experience; more talented than she knows; needs encouragement after a failure; no faction)
+- Fennick Doss (CN gnome; brilliant for the first two hours; deteriorates with each subsequent drink; by closing is composing original pieces with no recognizable melody; has played private events for every faction in Waterdeep and will not disclose a single thing he heard; no faction)
+- The Remarkable Ossibar (NE human; performs using Minor Illusion for all music; layers a mild mood-influencing cantrip — DC 12 Wisdom save or patron is particularly receptive to spending; DC 14 Arcana identifies the mood effect; Watchful Order has a file on him; no faction)
+- Variel Duskwhisper → *see Section 5 — Harpers*
+
+**Master Cook Candidates** *(14 gp/tenday; unlocks Master Cook upgrade)*
+- Chef Oswin Barr (NG human; outstanding cook; requires complete kitchen autonomy — non-negotiable; cannot work alongside Durlan Copperkettle; no faction)
+- Rella Asp → *see Section 14 — Cassalanters*
+- Durlan Copperkettle (LN gnome; average cook; convinced he is exceptional; Bakers' Guild censured him four years ago for misrepresenting credentials; files a grievance if dismissed without written documentation of performance failure; cannot work alongside Oswin Barr; no faction)
+- "The Widow" Maren Holst (NG human; 40 years household cooking; no professional credentials; regulars come specifically for the food within five days; will not accept the title Master Cook; has quiet, direct, correct opinions about how the tavern is run; her late husband traded with half of Waterdeep's guilds — she knows more about who runs what than most Watch commanders; no faction)
+- Grevik Nass → *see Section 12 — Xanathar Guild*
 
 ---
 
