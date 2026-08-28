@@ -164,6 +164,20 @@ Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: 
 
 A party of four that wins the tournament takes home roughly 500 gp between Zord's fee and the prize purses — enough to close most of the renovation gap if faction financing has covered the rest. Losing the final still pays 390 gp. The arena is one of the few legitimate sources of this much money at the party's level, and Zord knows it when he sends the invitation.
 
+*Noble Commissions.* Between each round, Zord descends from his box and delivers sealed notes to the party's waiting area. Each note is a noble's private commission: a performance condition, with gold attached if the party meets it during the next bout. They are not obligations. Ignoring a note costs nothing except the bonus. Meeting one means fighting under an additional constraint, which the crowd and the commissioning noble will both notice.
+
+Example commissions by round:
+
+| Round | Commission | Bonus |
+|---|---|---:|
+| Qualification | "End a bout with a theatrical final strike — give the crowd something to remember" | +20 gp |
+| Bracket R1 | "No member falls unconscious. We prefer to see your team at full strength." | +30 gp |
+| Bracket R2 | "Demonstrate restraint — accept your opponents' yield immediately, no additional strikes" | +25 gp |
+| Final | "Make it last. Three full exchanges before the yield." | +50 gp |
+| Final | "Win with every member still standing." | +60 gp |
+
+A single noble may offer multiple commissions for the same round; the party can attempt all of them simultaneously if the conditions are compatible. Zord does not tell them which noble sent which note. After the bout, he collects fulfilled commissions personally, pays on the spot, and says nothing about the source.
+
 The crowd includes a notable number of people in plain work clothes paying extremely professional attention to the fights. Sea Ward nobles occupy the premium seating on both sides; any party that reaches the final has their faces memorized by people who can afford to act on that information.
 
 *Meloon's Team.* The final round puts the party across the sand from a team led by Meloon Wardragon — a Force Grey fighter who competes here because he enjoys it, alongside three colleagues who have clearly fought together before. He is direct and uncomplicated in a fight: no showboating, no goading, just a man who is very good at this and wants to see if the party is too. The bout is the toughest of the day. Win or lose, Meloon is first across the sand when the yield is called — firm handshake, specific compliment about something he noticed in the fight, and a recommendation for the best tavern currently operating in the North Ward that comes with a grin when the party tells him they own one. He asks their names and uses them. Cross-ref **Appendix A** (Meloon Wardragon profile). Force Grey Mission 3 brings him back in a very different condition — the party meeting him as himself here is the setup.
@@ -196,8 +210,6 @@ The crowd includes a notable number of people in plain work clothes paying extre
 - Volo, who attempts to write a review for his next publication and spills ink on two pages.
 
 *Ammalia Cassalanter (New Content).* Ammalia Cassalanter arrives without Lord Cassalanter. She is everything the wine gift promised: warm, generous, interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. None of that is visible here. Her warmth is genuine — she finds capable people interesting, and she is very interested in people who have proven they can navigate a city that is doing its best to kill them. **Thread: The Cassalanters Exist** (third path). Cross-ref **Appendix A** (Ammalia Cassalanter profile).
-
-*Zardoz Zord's Noble Referrals (Ongoing — Post-Opening).* In the days following the Grand Opening, a note arrives from Zordoz Zord: he has been approached by several noble households and guild patrons who saw the party compete at the Field of Triumph and want to contract their services. He offers to act as an informal broker — he forwards the requests, takes no cut, and asks only that the party remember his interest in capable people. The referrals arrive roughly monthly thereafter, typically one to three per tenday-cycle, each offering 50–100 gp for guard work, escort, retrieval, or consultation. They are real contracts with real nobles. Zord is building a map of what the party will do for money, and for whom. Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle profile).
 
 *The Skullport Trader (New Content — Mad Mage Seed).* A compact, sun-dark merchant arrives late in the evening with an unusual inventory: river stones that glow faintly under arcane examination, bottles of water that never warms, a vial of something described as "cave-aged, original vintage, not for the squeamish." He trades from a flat-bottomed boat at Mistshore and comes to the surface twice a year. He asks the party, with genuine curiosity, whether they've noticed more activity below recently. "The harbor bottom has been busy. More than usual. Something moving." He buys two ales, tips generously, and disappears into the late crowd without giving his name. **Thread: Undermountain Is Active** (second path).
 
