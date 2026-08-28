@@ -437,11 +437,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Meloon is a barrel-chested warrior who swaggers through the Yawning Portal in the third person and offers increasingly implausible excuses for why Azuredge is not at his hip. To those who knew him before, the wrongness is harder to name than to describe: he orders drinks he never used to like, misremembers details from fights he was famous for, and gives directions through the sewers that lead straight into Xanathar patrols. Deep down, the real Meloon has been gone for three months, replaced by Nihiloor's intellect devourer wearing his body like a suit. The creature performs warmth with slight miscalibrations; the real man felt it.
+**Persona.** To the world, Meloon Wardragon is a barrel-chested warrior who enters every room at full volume — laugh, handshake, Azuredge at his hip and demonstrated on request. He fills taverns with warmth and expects nothing back for it. To those he trusts, he is the friend who shows up unprompted, who rescued Vajra alongside Renaer without being asked and never mentioned it again, who carries quiet grief for colleagues he has outlived. Deep down, Nihiloor's intellect devourer has marked him as a target precisely because he is trusted, well-connected, and constitutionally unable to believe that a friend's body could be used against him. The possession comes in Act III. When it does, the wrongness is harder to name than to describe: the third person, the implausible Azuredge excuses, the drinks he never used to order, the directions through the sewers that lead straight into Xanathar patrols.
 
-**Morale.** The possessed Meloon fights competently but steers outcomes to serve Xanathar's interests; each dawn he must win a contest of wills with Azuredge to wield it, and calling it back after a throw may still fail. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
+**Morale.** Before the Act III possession, Meloon fights with reckless generosity — placing himself between allies and the worst of it, trusting Azuredge's return-throw completely. After the intellect devourer takes hold, he fights competently but steers outcomes to serve Xanathar's interests; each dawn he must win a contest of wills with Azuredge to wield it, and calling it back after a throw may still fail. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
 
-**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (who has noticed the change and is quietly alarmed), a puppet of Nihiloor's intellect devourer on behalf of the Xanathar, and a Yawning Portal regular whose deterioration Bonnie has already clocked, her surface-thought-reading telling her something is deeply wrong.
+**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (whose growing unease through Act II, without knowing why, becomes alarm when the possession takes hold in Act III), a Yawning Portal regular whose surface thoughts Bonnie reads as comprehensibly normal through Acts I and II, and — from Act III onward — a puppet of Nihiloor's intellect devourer serving Xanathar's interests.
 
 ---
 
@@ -650,18 +650,166 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Hlam is the grand master of the Order of the Even-Handed (devoted to Tyr), a staunch ally of the Order of the Gauntlet, and an old acquaintance of Aurinax the gold dragon. PCs who negotiate with Aurinax in Hlam's presence gain advantage on Persuasion checks.
 
-**Remaining profiles (Tier 3, deferred):**
-- Hadra Stonebread (former Cassalanter household cook, 12 years; knows villa layout, staff identities, and which cult members attended private suppers; high-value intelligence asset in Arcs G-J; appears as Appendix F tavern staff candidate)
-- Esloon Bezant (Red Wizard exile; Mage stat block; Dock Ward crew; appears in Lords' Alliance M3; resurfaces in Arc E as faction hire or freelance complication if not detained)
-- Sir Ambrose Everdawn (Kelemvor champion; City of the Dead patrol; Emerald Enclave M3 partner; names the Brandath Crypt in Aftermath, an Arc J intelligence seed)
-- Lady Gondafrey (City Watch captain; prisoner at Kolat Towers; Arc I)
-- Aurinax (adult gold dragon; Vault guardian; Arc J)
+#### Hadra Stonebread
+*Human retired cook, lawful neutral. Commoner.*
+
+**Roleplaying Information**
+
+**Resonance.** Hadra should inspire sympathy with the quiet courage it takes to say what she witnessed; gratitude when she provides a complete villa layout the party could not obtain any other way; and unease with how frightened she still is of Willifort Crowelle.
+
+**Emotions.** Hadra most often feels guilt-tinged relief at having left; persistent low-grade fear she cannot shake; unexpected resolve when asked directly; nervous watchfulness; and a quiet pride in twelve years of good work for people who did not deserve it.
+
+**Motivations.** Hadra wants to stay out of Willifort Crowelle's reach, tell someone with actual authority what she witnessed in that house, and find work somewhere clean.
+
+**Inspirations.** When playing Hadra, channel Erin Brockovich (*Erin Brockovich*), Mrs. Patmore (*Downton Abbey*), and Mrs. Hudson (*Sherlock*).
+
+**Character Information**
+
+**Persona.** To the world, Hadra Stonebread is a retired cook in her fifties looking for domestic work — soft-spoken, thorough, the kind of woman who asks about the pantry before she asks about the wage. To those who press her about the Cassalanters, she is twelve years of floor plans, staff schedules, and private-supper guest lists: the most complete intelligence asset available to anyone planning to enter that villa. Deep down, she knows Willifort Crowelle noticed the day she left, and she does not know how long the Cassalanters will allow a witness to walk free.
+
+**Morale.** Hadra will not fight. If threatened, she offers everything she knows about the Cassalanters immediately, without negotiation.
+
+**Relationships.** Hadra is a former household employee of the Cassalanters (twelve years), a woman who knows Willifort Crowelle on sight and avoids his sight in return, and a Trollskull Manor staff candidate whose interview reveals the cost of working for wealthy people with secrets.
+
+---
+
+#### Esloon Bezant
+*Human mage (Red Wizard exile), neutral. Mage.*
+
+**Roleplaying Information**
+
+**Resonance.** Esloon should inspire wariness with his Red Wizard tattoos (those markings mean something in Thay); reluctant respect when he proves competent and reliable; and unease because a man willing to work against Thayan interests has enemies the party cannot see.
+
+**Emotions.** Esloon most often feels pragmatic calculation, understated contempt for sentimentality, genuine pride in his craft, dry humor about his situation, and controlled anger when someone mentions Thay carelessly.
+
+**Motivations.** Esloon wants to survive long enough that the Thayan hierarchy considers him not worth the effort, run his Dock Ward operation at a comfortable profit, and avoid anything that draws official attention.
+
+**Inspirations.** When playing Esloon, channel Elim Garak (*Deep Space Nine*), Magneto (*X-Men: First Class*), and John Constantine (*DC Comics*).
+
+**Character Information**
+
+**Persona.** To the world, Esloon is a tattooed Thayan expatriate who takes fee-for-service magical work and does not discuss his past. To those who work with him, he is direct and reliable: he delivers what was agreed and expects the same. Deep down, he left Thay because the Lich Lord's methods finally exceeded his tolerance, and he finds people who assume that makes him safe considerably more dangerous than the ones who assume it does not.
+
+**Morale.** In a fight, Esloon concentrates on the largest threat, fights without wasted movement, and withdraws if the situation becomes irrational. He does not take fights he calculates to be unwinnable.
+
+**Relationships.** Esloon is a freelance Red Wizard operating out of the Dock Ward, a Lords' Alliance mission three contact (they want him detained, not recruited, though he carries useful intelligence either way), and an independent operator whose fee is always stated before work begins.
+
+---
+
+#### Sir Ambrose Everdawn
+*Human paladin of Kelemvor, lawful neutral. Paladin.*
+
+**Roleplaying Information**
+
+**Resonance.** Sir Ambrose should inspire respect with the dignity he brings to his patrol; gratitude when he names the Brandath Crypt without being asked; and sympathy for a man who has attended more burials than friendships.
+
+**Emotions.** Sir Ambrose most often feels measured calm, professional grief that never spills into sentimentality, genuine warmth toward the properly dead, quiet irritation when the living treat the City of the Dead carelessly, and rare dry humor.
+
+**Motivations.** Sir Ambrose wants to ensure the peaceful dead remain so, protect the City of the Dead from disturbance, and settle the accounts of those who have no one to settle them.
+
+**Inspirations.** When playing Sir Ambrose, channel Eddard Stark (*Game of Thrones*), Atticus Finch (*To Kill a Mockingbird*), and Raymond Holt (*Brooklyn Nine-Nine*).
+
+**Character Information**
+
+**Persona.** To the world, Sir Ambrose is the Kelemvorite knight who walks the City of the Dead at dusk and expects nothing from the living except that they treat the grounds with respect. To those who earn his trust, he knows every family plot, every disturbed grave, and every noble house's burial customs, and he has a long memory for both the honored dead and the people who failed to honor them. Deep down, his knowledge of the Brandath Crypt is not something he offers freely — it belongs to the dead, and he considers every living person who wants it to be someone who should justify the want.
+
+**Morale.** In a fight, Sir Ambrose draws his blade only in defense of the dead or the living, in that order. He fights with the efficiency of a man who has no doubt about why he draws.
+
+**Relationships.** Sir Ambrose is the City of the Dead's senior Kelemvorite patrol knight, an Emerald Enclave mission three partner who knows the Brandath Crypt's location and history, and the intelligence source for the Arc J approach through the crypts.
+
+---
+
+#### Lady Gondafrey
+*Lawful good gargoyle (human soul), lawful good / chaotic evil (1-in-10 days). Gargoyle.*
+
+**Roleplaying Information**
+
+**Resonance.** Lady Gondafrey should inspire pity for the form she is trapped in; unexpected trust when her lawful good nature shows through the stone face; and unease when the gargoyle's nature asserts itself.
+
+**Emotions.** Lady Gondafrey most often feels dutiful determination to keep her oath even now, bitter grief for the body she lost, quiet warmth when treated with the dignity of her rank, controlled rage at the injustice, and a lawful goodness she clings to because it is the last thing she has that is wholly hers.
+
+**Motivations.** Lady Gondafrey wants to continue her duty as a knight of Tyr from within the gargoyle's body, bring Duhlark Kolat's crimes to light, and avoid the days when the gargoyle wins.
+
+**Inspirations.** When playing Lady Gondafrey, channel Quasimodo (*The Hunchback of Notre Dame*), the Beast (*Beauty and the Beast*), and Bruce Banner (*Marvel*).
+
+**Character Information**
+
+**Persona.** To the world, Lady Gondafrey is a gargoyle with a woman's face and stone wings, locked in a cell in Kolat Towers, lawful good by alignment and humanoid by disposition. To those who speak with her, she retains the protocols and memories of a City Watch captain who was investigating a suspicious wizard when he captured her — and she still considers herself on duty. Deep down, once per day she feels the gargoyle's chaotic evil nature claw at the surface, and she has never told anyone how often that battle is close.
+
+**Morale.** When lawful good, she fights with a knight's discipline: protecting others, targeting combatants, holding ground. When chaotic evil (roll 1 on a d10 at each dawn), she attacks indiscriminately and attempts to orchestrate deaths, including the characters'.
+
+**Relationships.** Lady Gondafrey is a City Watch captain from 1379 DR who became a prisoner of Duhlark Kolat and subsequently of Manshoon, a potential Arc I ally whose alignment is unstable on a daily basis, and a witness to decades of Kolat Towers' history.
+
+---
+
+#### Aurinax
+*Adult gold dragon (disguised as "Barok Clanghammer"), lawful good. Adult Gold Dragon.*
+
+**Roleplaying Information**
+
+**Resonance.** Aurinax should inspire awe when he drops his disguise; respect when he declines to be bullied; and admiration when his patience proves more stubborn than any leverage the party brings.
+
+**Emotions.** Aurinax most often feels patient wisdom, genuine curiosity about the party, measured warmth toward those who deal honestly, quiet pride in oath-keeping, and faint sadness that none of the people who made the original arrangement are present to conclude it properly.
+
+**Motivations.** Aurinax wants to keep his oath to Dagult Neverember, retain the dragonstaff of Ahghairon as his agreed payment, and see the gold legitimately transferred before he considers his duty discharged.
+
+**Inspirations.** When playing Aurinax, channel Gandalf (*The Lord of the Rings*), Iroh (*Avatar: The Last Airbender*), and the Ancient One (*Doctor Strange*).
+
+**Character Information**
+
+**Persona.** To the world, "Barok Clanghammer" is a stocky, unremarkable dwarf who sits on a stone in a vault and does not say much. To those who negotiate with him honestly, Aurinax is a gold dragon who has kept an oath to a man he respected for years and finds the absence of that man's authorized representatives both unfortunate and philosophically interesting. Deep down, he will not break his word — and he is patient enough to wait for someone authorized to release him from it, even if that takes another century.
+
+**Morale.** Aurinax attacks only in defense of himself, the dragonstaff, or the gold. Intimidation checks against him automatically fail; a failed charm attempt gives all subsequent Charisma checks disadvantage. He uses Legendary Resistance against charm effects and does not drop his disguise until combat begins.
+
+**Relationships.** Aurinax is the guardian of the Vault of Dragons (placed by Dagult Neverember), the wielder of the dragonstaff of Ahghairon, an old acquaintance of Hlam, and the final gatekeeper for the 500,000 gp resolution in Arc J.
 
 ---
 
 ### 3. Independents — Adversaries
-- The Black Viper (independent cat burglar; wildcard in the Grand Game)
-- Kelso Fiddlewick (halfling; leads the Shard Shunners wererat gang in the Dock Ward; recurring contact in Doom Raiders M3 and OotG M3; uses deliberate fairness as his standard; not inherently hostile to the party)
+
+#### The Black Viper (Lady Esvele Rosznar)
+*Human noble/rogue, chaotic neutral. Rogue.*
+
+**Roleplaying Information**
+
+**Resonance.** The Black Viper should inspire amusement with her irreverence toward the noble houses she robs; respect for the gap between who she is by day and what she does at night; and unease when she reveals how far she is willing to go to stay free.
+
+**Emotions.** The Black Viper most often feels reckless glee at the work, wry self-awareness about her choices, contempt for the noble society that produced her, genuine excitement at the party's potential as allies or obstacles, and a restless hunger for something she cannot name.
+
+**Motivations.** The Black Viper wants to rob the people she is forced to call peers, maintain the fiction of Lady Esvele the dutiful daughter, and stay free long enough to figure out what she actually wants.
+
+**Inspirations.** When playing the Black Viper, channel Catwoman (*DC Comics*), Lyra Belacqua (*His Dark Materials*), and Margaery Tyrell (*Game of Thrones*).
+
+**Character Information**
+
+**Persona.** To the world, Lady Esvele Rosznar is the dutiful younger daughter of House Rosznar: impeccably dressed, reliably present at social functions, and quietly disappointing in the marriage market. To those who see her at work, she is the Black Viper — sleek black leather, a hood and mask, and enough skill at lock, wall, and guard to make a decade of noble boredom look like excellent criminal preparation. Deep down, she is not sure whether she chose this life or whether the life chose her, and the question gets easier to ignore every time she gets away clean.
+
+**Morale.** In a fight, the Black Viper feints, disengages, and finds an exit. She does not kill and she does not linger. The party is more useful to her as a distraction than as a casualty.
+
+**Relationships.** The Black Viper is Lady Esvele Rosznar of House Rosznar (a member the house would prefer to forget if she were caught), an independent cat burglar with no faction affiliation, a wildcard who can be recruited for a Cassalanter Villa infiltration with a DC 14 Persuasion or Intimidation check, and a recurring complication in any noble estate the party decides to rob.
+
+---
+
+#### Kelso Fiddlewick
+*Lightfoot halfling wererat, neutral. Spy (wererat).*
+
+**Roleplaying Information**
+
+**Resonance.** Kelso should inspire wariness with his cheerful practicality (he runs a gang of wererats and has no illusions about what that means); reluctant respect when he keeps his word even when it costs him; and surprise when his fairness proves more reliable than most legitimate contacts.
+
+**Emotions.** Kelso most often feels businesslike satisfaction, wry amusement, competitive assessment of everyone he meets, genuine protectiveness of his gang, and deadpan delivery of alarming information.
+
+**Motivations.** Kelso wants to run the Shard Shunners as a profitable operation, keep his people fed and out of the Watch's attention, and complete contracted work to the letter while expecting the same.
+
+**Inspirations.** When playing Kelso, channel Alfie Solomons (*Peaky Blinders*), Rocket Raccoon (*Guardians of the Galaxy*), and Fagin (*Oliver Twist*, sympathetic adaptation).
+
+**Character Information**
+
+**Persona.** To the world, Kelso is the smallest gang leader in the Dock Ward, which means people underestimate him twice: once for his size, and once for the eight wererats he did not mention. To those who deal with him honestly, he is scrupulously fair — he delivers exactly what was contracted and expects the same, making him more reliable than most of the city's legitimate business relationships. Deep down, he respects anyone who negotiates clearly and has contempt for anyone who tries to intimidate a man whose people can climb walls and eat through lock-boxes.
+
+**Morale.** In a fight, Kelso identifies the exit before he identifies the enemy, calls his people by name, and leaves through the gap in the wall he had scouted on arrival. He does not die for a contract.
+
+**Relationships.** Kelso is the leader of the Shard Shunners wererat gang (Dock Ward), the man Emmek Frewn hired to sabotage Trollskull Manor, a recurring contact in Doom Raiders mission three and Order of the Gauntlet mission three, and a man whose sister Danika works alongside him in the gang's operations.
 
 ---
 
@@ -805,13 +953,141 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Remi is the widow of Arthagast Ulbrinter, the mother of Arthius and Serenore (both grown and living elsewhere), the de facto Harper leader in Waterdeep, and a colleague of Mirt whose operational styles complement each other.
 
-**Remaining profiles (Tier 3, deferred):**
-- Mattrim "Threestrings" Mereg (Harper spy operating as a bard; Yawning Portal and Trollskull regular; appears as Appendix F House Bard candidate)
-- Bonnie (doppelganger; runs the Yawning Portal's intelligence network; becomes formal Harper operative after Harper M3; key recurring intelligence hub)
-- Corene Wyldath (halfling Harper informant embedded in Xanathar's Dock Ward operation; compromised by intellect devourer in Harper M5; recovery is the mission's focus)
-- Variel Duskwhisper (Harper courier using touring musician cover; Trollskull Tavern bard candidate in Appendix F; passes one piece of Harper-network intelligence per tenday)
-- Corvin & Nessa Vayle (CN human twins; package hire as tavern servers; Corvin is a Harper courier who makes the tavern a minor Harper waypoint; see Section 16 for staff candidate details)
-- Maxeene (talking draft horse; permanent Speak with Animals courtesy of a Harper-sympathetic druid; Harper intelligence asset; Harper M2 target; gossips freely with anyone she finds interesting)
+#### Mattrim "Threestrings" Mereg
+*Human bard (Harper spy), lawful good. Bard.*
+
+**Roleplaying Information**
+
+**Resonance.** Threestrings should inspire warmth with his deliberate ordinariness; respect when the spy underneath the mediocre bard reveals itself; and gratitude when his two years of groundwork at the Yawning Portal proves exactly as valuable as a two-year investment should be.
+
+**Emotions.** Threestrings most often feels casual sociability masking constant observation, quiet pride in a cover that holds, genuine affection for Bonnie and her gang, private conflict about what an honest assessment will mean for them, and the steady patience of a man who plays the long game.
+
+**Motivations.** Threestrings wants to maintain his Yawning Portal cover indefinitely, deliver an honest assessment of Bonnie's gang to the Harpers, and protect the people he has spent two years befriending, if he can find a way.
+
+**Inspirations.** When playing Threestrings, channel Tom Ripley (*The Talented Mr. Ripley*), Sam Malone (*Cheers*), and Elim Garak (*Deep Space Nine*).
+
+**Character Information**
+
+**Persona.** To the world, Mattrim Mereg is a middling bard who plays three strings because he broke the others and has not gotten around to replacing them. He plays the Yawning Portal most evenings, drinks moderately, and is well-liked in the way that unremarkable people are well-liked. To those he trusts, he is a Harper operative who has spent two years building rapport with Bonnie's gang and knows their secret. Deep down, he has done his job too well — he likes them, and he knows what an honest report will probably recommend.
+
+**Morale.** In a fight, Threestrings supports allies with Bardic Inspiration and stays out of melee range. He does not break cover for a fight he can avoid.
+
+**Relationships.** Threestrings is a Harper agent embedded at the Yawning Portal, the only person in Waterdeep who knows Bonnie's true nature, the subject of Harper mission four (an assessment of the doppelgangers), and a Trollskull Manor house bard candidate whose daytime audition is both genuine and convenient.
+
+---
+
+#### Bonnie
+*Doppelganger, neutral. Doppelganger.*
+
+**Roleplaying Information**
+
+**Resonance.** Bonnie should inspire discomfort at never being sure what she actually looks like; sympathy when you understand her gang arrived in Waterdeep looking for work and found it; and unexpected warmth when she turns out to be funny about the whole situation.
+
+**Emotions.** Bonnie most often feels practical calculation, dry amusement at the situations her nature creates, genuine protectiveness of her gang, careful evaluation of everyone who looks at her twice, and cautious warmth toward people who treat her as a person rather than a thing.
+
+**Motivations.** Bonnie wants to keep the gang fed and employed, maintain the barmaid cover Durnan depends on, and hold a city that has finally started to work.
+
+**Inspirations.** When playing Bonnie, channel Mystique (*X-Men*, pragmatic adaptation), Odo (*Deep Space Nine*), and Varys (*Game of Thrones*).
+
+**Character Information**
+
+**Persona.** To the world, "Bonnie" is the Yawning Portal barmaid who remembers your order, laughs at the right moments, and has the particular skill of making every patron feel like the most interesting person in the room. To those who know what she is, she is the leader of a five-doppelganger operation who found Waterdeep worth staying for, and who will not have that disrupted by a faction's curiosity. Deep down, she reads people professionally and personally, and she has never met anyone she could entirely stop reading — including herself.
+
+**Morale.** In a fight, Bonnie uses her Read Thoughts ability before she draws a weapon, targets the most dangerous opponent first, and fights with the tactical intelligence of someone who has survived by understanding people. She does not fight unless flight is impossible.
+
+**Relationships.** Bonnie is the leader of a doppelganger gang operating at the Yawning Portal, Durnan's most reliable barmaid (he knows nothing), a person whose nature Threestrings knows and has not reported, one of the three keys required to open the Vault of Dragons, and a potential Harper operative after mission three.
+
+---
+
+#### Corene Wyldath
+*Halfling spy (compromised), neutral good. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Corene should inspire respect for the courage her deep-cover work required; growing dread as the party notices the subtle wrongness in her recent reports; and genuine sympathy when they understand she may not know she is compromised.
+
+**Emotions.** Corene most often feels methodical field-operative focus, a growing gap between what she reports and what she intended to say, genuine loyalty to the Harpers that the intellect devourer is slowly erasing, and the particular exhaustion that looks like calm.
+
+**Motivations.** Corene wants to maintain her cover, extract meaningful intelligence, and survive. The intellect devourer's goals diverge: map Harper operations, identify the network, and avoid detection.
+
+**Inspirations.** When playing Corene, channel Offred (*The Handmaid's Tale*), Cassian Andor (*Andor*), and Natasha Romanoff (*Marvel*, double-agent aspect).
+
+**Character Information**
+
+**Persona.** To the world, Corene Wyldath is a reliable Harper informant embedded in Xanathar's Dock Ward operation for four months and sending good intelligence. To those who pay attention, something shifted three weeks ago; her reports are still accurate, but she is asking different questions. Deep down, Corene is still in there. The intellect devourer is careful not to leave gaps large enough to trigger an alert.
+
+**Morale.** In a fight, Corene fights competently and tactically — the intellect devourer does not want to draw attention through reckless behavior.
+
+**Relationships.** Corene is a Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation, the target of Harper mission five (confirmation of the compromise and safe extraction), and the most dangerous kind of asset: one who cannot confirm her own loyalty.
+
+---
+
+#### Variel Duskwhisper
+*Wood elf bard (Harper courier), neutral good. Bard.*
+
+**Roleplaying Information**
+
+**Resonance.** Variel should inspire warmth with his unhurried folk musician manner; trust when his intelligence turns out to be precise; and pleasant surprise when a man who plays three-hour sets turns out to have been watching the entire time.
+
+**Emotions.** Variel most often feels meditative patience, the quiet satisfaction of work that has proven sufficient over eight years, genuine pleasure in a good performance, mild boredom that reads as serenity, and professional satisfaction when the information moves correctly.
+
+**Motivations.** Variel wants to pass Harper-network intelligence without drawing attention, maintain the touring musician cover that lets him move freely, and play sets good enough that no one remembers them as anything else.
+
+**Inspirations.** When playing Variel, channel Legolas (*The Lord of the Rings*, the observer who says little and sees everything), Varys (*Game of Thrones*, the network man), and Bard (*The Hobbit*, the purposeful practitioner).
+
+**Character Information**
+
+**Persona.** To the world, Variel Duskwhisper is a wandering elf bard who plays folk ballads at the same establishments on a slow circuit and drinks his one drink slowly. To those who know where to listen, he tells one story per set that is also an intelligence report, delivered in the structure of the tale and audible only to someone who knows what they are hearing. Deep down, he has been doing this for eight years and finds the work sufficient.
+
+**Morale.** In a fight, Variel uses bardic magic to protect himself and exits. He does not put the courier network at risk for a fight.
+
+**Relationships.** Variel is a Harper courier operating under touring musician cover, a Trollskull Manor bard candidate whose audition is genuine, a member of the Harper intelligence relay who passes one piece of network intelligence per tenday, and a man who has watched the same taverns long enough to notice when something changes.
+
+---
+
+#### Corvin & Nessa Vayle
+*Human twins, chaotic neutral. Commoners.*
+
+**Roleplaying Information**
+
+**Resonance.** The Vayles should inspire amusement with their sibling dynamic (they bicker constantly but function as a single efficient unit); and useful surprise when Corvin's courier role makes the tavern a minor Harper waypoint.
+
+**Emotions.** The Vayles most often feel competitive affection for each other, casual professionalism, Corvin's private focus when a message needs to pass, and Nessa's practiced incuriosity about what Corvin sometimes does.
+
+**Motivations.** The Vayles want to work somewhere interesting enough to stay at, maintain the arrangement that lets them operate as a unit, and pass whatever Corvin needs to pass without Nessa having to know about it.
+
+**Inspirations.** When playing the Vayles, channel Fred and George Weasley (*Harry Potter*), Tweedledee and Tweedledum (*Alice in Wonderland*, if they ran a pub with military efficiency), and Chang and Eng Bunker (the linked-pair metaphor).
+
+**Character Information**
+
+**Persona.** To the world, the Vayle twins are inseparable servers who learned to work together by arguing about everything and are excellent at the job. To those who hire both, Corvin is the one who sometimes passes a folded note to a specific regular. To those who ask Nessa about it, she asked once, his answer was satisfactory, and she stopped asking.
+
+**Morale.** In a fight, the Vayles grab each other and run. They are not paid enough for that.
+
+**Relationships.** Corvin and Nessa Vayle are a package hire for the tavern staff, a minor Harper waypoint through Corvin's courier role, and Trollskull Manor server candidates detailed in Appendix F.
+
+---
+
+#### Maxeene
+*Draft horse with permanent Speak with Animals, unaligned. Beast (Intelligence 7).*
+
+**Roleplaying Information**
+
+**Resonance.** Maxeene should inspire delight when she opines on the quality of someone's oat ration; surprise when her information is genuinely useful; and amusement when she evaluates humans with the same detached interest they usually reserve for horses.
+
+**Emotions.** Maxeene most often feels frank assessments of everyone she encounters, specific preferences about hay quality and hitching-post location, genuine pleasure in a good conversation, mild irritation at humans who do not think horses are listening, and breezy confidence in her own opinions.
+
+**Motivations.** Maxeene wants to stand in pleasant locations, receive good hay, talk to people worth talking to, and occasionally provide information to the Harpers in exchange for being taken seriously as an intelligence source.
+
+**Inspirations.** When playing Maxeene, channel Tiffany Aching (*Discworld*), Miss Marple (*Agatha Christie*), and Watson (*Sherlock Holmes*, the observer everyone underestimates).
+
+**Character Information**
+
+**Persona.** To the world, Maxeene is a large draft horse of unremarkable coloring that stands outside the Yawning Portal some evenings. To those with Speak with Animals, she is a detailed gossip who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year — because she is pleasant-looking and no one assumes a horse is paying attention. Deep down, she enjoys the conversations because they are more interesting than the hay.
+
+**Morale.** Maxeene bolts from violence and is difficult to retrieve. She will, however, provide detailed information about whoever threatened her.
+
+**Relationships.** Maxeene is a Harper intelligence asset with permanent Speak with Animals (courtesy of a Harper-sympathetic druid), the target of Harper mission two, and the best passive surveillance available to anyone who remembers to ask her what she heard at the hitching post outside the Cassalanter Villa last tenday.
 
 ---
 
@@ -911,8 +1187,26 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Savra is the Order of the Gauntlet faction contact, a member of the Belabranta noble family (griffon breeders for the Griffon Cavalry), and a woman whose cult past makes her uniquely qualified to recognize the Cassalanters' operation for what it is.
 
-**Remaining profiles (Tier 3, deferred):**
-- Sister Valdra (unofficial OotG operative; personal Cassalanter investigation unsanctioned by Savra; holds 3 pieces of Cassalanter intel the party does not have; can recognize Ivrala Sorn on sight if both are present; appears as Appendix F bouncer candidate)
+#### Sister Valdra
+*Half-orc cleric of Tyr, lawful good. Priest.*
+
+**Roleplaying Information**
+
+**Resonance.** Sister Valdra should inspire immediate respect for the specificity of her evidence; sympathy for a woman who built a case no one asked her to build; and protective frustration that Savra cannot know and therefore cannot officially help.
+
+**Emotions.** Sister Valdra most often feels focused determination, the controlled anger of someone who has been right for months and cannot get anyone official to act, genuine care for the servant whose story no one believed, and quiet relief when she finally finds someone willing to listen.
+
+**Motivations.** Sister Valdra wants to build a case against the Cassalanters that Savra or the Watch can act on, protect the people who can still be protected, and work within Tyr's framework even when the framework is slow.
+
+**Inspirations.** When playing Sister Valdra, channel Erin Brockovich (*Erin Brockovich*), Rosa Diaz (*Brooklyn Nine-Nine*), and Brienne of Tarth (*Game of Thrones*).
+
+**Character Information**
+
+**Persona.** To the world, Sister Valdra is a half-orc temple guard who does security work and looks for honest employment as a bouncer or muscle. To those who earn her trust, she has been building a case against the Cassalanters for three months on her own time, without orders and without telling Savra, based on a servant's story the Watch dismissed six months ago. Deep down, she holds three pieces of evidence linking the villa to Asmodeus worship, and she has been waiting for someone with the authority — or the recklessness — to use them.
+
+**Morale.** In a fight, Sister Valdra positions herself at the front and does not retreat from a threat to someone in her care. She calls on Tyr and means it.
+
+**Relationships.** Sister Valdra is an unofficial Order of the Gauntlet operative (unsanctioned by Savra Belabranta), the holder of three independent pieces of Cassalanter intelligence, the one person who can recognize Ivrala Sorn on sight (DC 13 Perception when both are present), and a Trollskull Manor bouncer candidate.
 
 ---
 
@@ -1176,11 +1470,95 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Krebbyg is the close friend and operational partner of Fel'rekt Lafeen, Jarlaxle's logistics lieutenant (collecting messages from Fenerus Stormcastle for the Scarlet Marpenoth), and the operating cover manager of the Seven Masks Theater.
 
-**Remaining profiles (Tier 3, deferred):**
-- Zelifarn (young sea dragon; allied with BD)
-- Fenerus Stormcastle (human cut-out and message-drop on Quill Alley; lamplighter by day; knows messages go to Sea Maidens Faire; target of Manshoon kidnap directive in Arc E)
-- Malcolm Brizzenbright (ghost; Seven Masks Theater founder; anxious about Jarlaxle's use of the theater; knows "Rongquan Mystere" is a false identity; non-hostile recurring NPC)
-- Quilm (drow; Bregan D'Aerthe scout; placed as tavern bouncer candidate; neutralizes all BD response team visits automatically; the recommendation letter from "J" is recognizably Jarlaxle's handwriting to drow PCs or BD-affiliated characters; appears as Appendix F bouncer candidate)
+#### Zelifarn
+*Young sea dragon (bronze-scaled), neutral. Sea Dragon Wyrmling.*
+
+**Roleplaying Information**
+
+**Resonance.** Zelifarn should inspire immediate delight with his chirping enthusiasm; pleasant surprise when his requested intelligence is specific and his offered reward is genuine; and amusement at a dragon who waves.
+
+**Emotions.** Zelifarn most often feels bright curiosity, uncomplicated friendliness, genuine interest in surface-world affairs, delight when someone tells him something he did not know, and possessive pride in his stretch of Deepwater Harbor.
+
+**Motivations.** Zelifarn wants to learn about the surface world and the strange ships that pass through his harbor, stay useful to Jarlaxle (the most interesting patron in the water), and collect specific information in exchange for specific rewards.
+
+**Inspirations.** When playing Zelifarn, channel Toothless (*How to Train Your Dragon*), Nemo (*Finding Nemo*), and Mushu (*Mulan*).
+
+**Character Information**
+
+**Persona.** To the world, Zelifarn is a young sea dragon who surfaces near ships in Deepwater Harbor with bronze-scaled curiosity and a cheerful wave. To those who engage with him honestly, he will trade specific information about the Eyecatcher for specific information about the surface world, and the reward he offers is genuine and already prepared. Deep down, he reports to Jarlaxle in his own way — not for pay, but because Jarlaxle is the most interesting patron and the harbor is more interesting with him in it.
+
+**Morale.** Zelifarn does not fight at the surface. If threatened, he submerges and does not resurface near the threat. He remembers, though, and the sea is large.
+
+**Relationships.** Zelifarn is the young sea dragon allied with Bregan D'Aerthe, a Deepwater Harbor intelligence asset, and the source of a genuine reward (300 sp, a golden octopus amulet, and a *scroll of revivify*) for parties willing to trade information about the Scarlet Marpenoth's contents.
+
+---
+
+#### Fenerus Stormcastle
+*Human spy (retired brigand), neutral evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Fenerus should inspire wariness with a man who has a long criminal record and no reason to be honest; grudging respect when his leverage over the Stone's location proves real; and sympathy for the impossible position that placed him at the intersection of every faction's interest simultaneously.
+
+**Emotions.** Fenerus most often feels calculating watchfulness, practiced evasion, a criminal's patience honed over a decade of brigandage and a quiet retirement, contempt for anyone who thinks threats work faster than deals, and an exhaustion he has worn so long it looks like indifference.
+
+**Motivations.** Fenerus wants to trade the Stone's location for immunity and nothing less, survive the overlapping interest of the Zhentarim, Xanathar Guild, and Bregan D'Aerthe, and live long enough to see the arrangement concluded cleanly.
+
+**Inspirations.** When playing Fenerus, channel Walter White (*Breaking Bad*, early seasons), Jimmy McGill (*Better Call Saul*), and Red Reddington (*The Blacklist*).
+
+**Character Information**
+
+**Persona.** To the world, Fenerus Stormcastle is a big, scar-faced man with gray hair who lights lamps in the Trades Ward and minds his own business. To those who question him, he is a practiced liar who has had considerable time in a Watch cell to decide exactly what his silence is worth and what he will give up first. Deep down, he hid the Stone of Golorr somewhere even the drow did not find it, and he will not reveal it until he has immunity in writing and a signed release from a magister or a Lord.
+
+**Morale.** In a fight, Fenerus disengages immediately. He has survived too many of the wrong kinds of fights to start one he did not choose.
+
+**Relationships.** Fenerus is the former founder of the Blood Hawk Posse (current brigands on the Amphail road), a Bregan D'Aerthe cut-out and message-drop on Quill Alley (unknowing; he believes his contacts are Luskan agents), a City Watch prisoner who hid the Stone of Golorr before his arrest, and the target of Manshoon's kidnap directive in Arc E.
+
+---
+
+#### Malcolm Brizzenbright
+*Human ghost, neutral. Ghost.*
+
+**Roleplaying Information**
+
+**Resonance.** Malcolm should inspire pity for a man who loved his theater enough to haunt it; endearment with his fussy pride in the building's artistic integrity; and useful surprise when his grievance against Jarlaxle turns out to be the intelligence the party needed.
+
+**Emotions.** Malcolm most often feels proprietary outrage at the Lantanese machinery in the basement, anxious concern about the theater's reputation, a director's eye that notices everything that has changed, and the specific unhappiness of a ghost who died too early to see what his theater would become.
+
+**Motivations.** Malcolm wants to protect the Seven Masks Theater's reputation, convince someone worth convincing that "Rongquan Mystere" is not who he claims, and move props in a way that communicates his displeasure without being dismissed as a poltergeist.
+
+**Inspirations.** When playing Malcolm, channel Nearly Headless Nick (*Harry Potter*), Casper (*Casper*), and Albert Brooks (*any comedy where he plays a man who is right about everything and cannot make anyone listen*).
+
+**Character Information**
+
+**Persona.** To the world, the Seven Masks Theater has a ghost that moves props during rehearsals and occasionally hisses at actors who project poorly. To those who speak with him, Malcolm Brizzenbright is the theater's founder — appalled by the Lantanese machinery in the basement, anxious about the drow who uses a secret door he did not put there, and offended by a man who introduced himself as "Rongquan Mystere" when the handwriting on his correspondence is obviously not Tethyrian. Deep down, he has been waiting for someone to tell, and the only question is whether they are worth telling.
+
+**Morale.** Malcolm is a ghost. He passes through walls, can terrify intruders, and moves props. He avoids combat because the theater cannot afford the damage.
+
+**Relationships.** Malcolm Brizzenbright is the founding ghost of the Seven Masks Theater, the only witness to the secret door between the theater and the Vault of Dragons, and a man whose handwriting analysis of Jarlaxle's correspondence is reliable to anyone with a Harper contact who has seen the original letters.
+
+---
+
+#### Quilm
+*Drow spy (Bregan D'Aerthe scout), neutral. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Quilm should inspire professional respect for his quiet competence; subtle unease if someone notices the recommendation letter's handwriting; and useful satisfaction when Bregan D'Aerthe response team visits simply stop materializing.
+
+**Emotions.** Quilm most often feels operational discipline, the particular stillness of a scout who has learned to be uninteresting, professional loyalty to Bregan D'Aerthe, private amusement at the tavern work, and the patience of someone whose job is to be overlooked.
+
+**Motivations.** Quilm wants to maintain his position at the tavern, file the weekly intelligence reports Jarlaxle expects, and neutralize Bregan D'Aerthe response team visits without exposing that he is doing so.
+
+**Inspirations.** When playing Quilm, channel Boba Fett (*Star Wars*), Leon (*Leon: The Professional*), and Varys (*Game of Thrones*, the useful invisible man).
+
+**Character Information**
+
+**Persona.** To the world, Quilm is a drow who applied for the bouncer position with a handwritten recommendation and does the job without comment or complaint. To those who read the recommendation letter carefully, the handwriting is recognizably Jarlaxle's — the flourishes are distinctive, visible to any drow character or anyone who has previously seen his correspondence (DC 12 Investigation). Deep down, he filed his first intelligence report the evening he was hired and has not missed a week.
+
+**Morale.** In a fight, Quilm removes threats to the tavern with the minimum force required. He does not escalate, and he does not explain.
+
+**Relationships.** Quilm is a Bregan D'Aerthe scout placed as a Trollskull Manor bouncer candidate, the reason no Bregan D'Aerthe response team visit materializes while he works there, a man whose recommendation from "J" contains Jarlaxle's handwriting, and a weekly intelligence source for Jarlaxle's Waterdeep network.
 
 ---
 
@@ -1299,13 +1677,141 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Noska is a Xanathar Guild enforcer, the Tier 3 response team leader, and a shield dwarf whose crossbow-arm, rust monster pet, and bathtub bed constitute a complete portrait of his priorities.
 
-**Remaining profiles (Tier 3, deferred):**
-- Ott Steeltoes (dwarf; tends Sylgar; also described as field agent in Appendix E; reconcile roles when profiling)
-- Thorvin Twinbeard (dwarf engineer; maintains lair traps and constructs)
-- Keln Trigos (tiefling priest; runs Terasse Estate healing operation and gladiatorial transport; Tier 1 outpost keeper)
-- Grinda Garloth (black market armorer at Mistshore; Mage stat block; equips Xanathar agents and sells to third parties including Bregan D'Aerthe; key cross-faction NPC)
-- Korgstrod Uxgulm (duergar; leads sewer hideout beneath Orb Confectioners; Tier 2 response team leader)
-- Gorath (duergar; Tier 1 response team leader; sent to deliver lessons, not kill)
+#### Ott Steeltoes
+*Dwarf cult fanatic (Zuggtmoy), neutral evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Ott should inspire dark amusement with his eyestalk hat and his desperate attempts to telepathically summon a beholder who cannot hear him; sympathy when you understand he sleeps under a fishbowl on a straw pallet; and unexpected usefulness once rescued.
+
+**Emotions.** Ott most often feels low-grade fear that this is the Sylgar who finally dies on his watch, the meditative calm of someone who has outsourced his existential crisis to a demon queen of fungi, absurd pride in the fish's consistent good health, and genuine relief when intruders arrive who are not from Xanathar.
+
+**Motivations.** Ott wants to keep Sylgar alive, avoid being blamed for anything Xanathar decides is someone's fault, and eventually find a Zuggtmoy shrine not located directly below a beholder's sanctum.
+
+**Inspirations.** When playing Ott, channel Wormtail (*Harry Potter*), Gollum (*The Lord of the Rings*, the devoted caretaker), and Smithers (*The Simpsons*).
+
+**Character Information**
+
+**Persona.** To the world, Ott Steeltoes is the dwarf with the beholder-eyestalk hat who tends the fish and sleeps under the bowl. To those who free him from the Interrogation House, he is grateful, terrified, and full of accurate information about Xanathar's Lair — including guard schedules, trap locations, and the fact that the large fishbowl weighs 6,000 pounds. Deep down, he has known for years that Xanathar will eventually blame him for something, and he is increasingly grateful to anyone who provides a reasonable exit.
+
+**Morale.** In a fight, Ott stammers, closes his eyes, and attempts to communicate his distress to Xanathar. This does not work. He then runs.
+
+**Relationships.** Ott is Xanathar's fishkeeper (all Sylgar replacements have passed through him), a Zuggtmoy worshipper who cultivates mushrooms in his quarters, a Zhentarim prisoner at the Interrogation House, a Xanathar Guild field agent, and a detailed intelligence source for anyone who rescues him and asks the right questions about the Lair.
+
+---
+
+#### Thorvin Twinbeard
+*Dwarf engineer (secret Harper), neutral good. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Thorvin should inspire initial wariness with his mechanical work for Xanathar; growing sympathy when his reluctance becomes visible; and genuine trust when he turns out to be the inside man.
+
+**Emotions.** Thorvin most often feels the specific stress of doing terrible work because the alternative is worse, genuine engineering pride he wishes he could direct at anything else, cautious hope when the party appears, and relief at finally having someone useful to tell about the smokepowder.
+
+**Motivations.** Thorvin wants to survive long enough for someone to take down the Lair, pass intelligence through Harper channels, and never finish the pulverizer if he can help it.
+
+**Inspirations.** When playing Thorvin, channel Geppetto (*Pinocchio*), Scotty (*Star Trek*), and Hank Schrader (*Breaking Bad*, the reluctant insider).
+
+**Character Information**
+
+**Persona.** To the world, Thorvin is an irritable dwarf engineer building mechanical horrors for Xanathar and taking no questions about his methods. To those who earn his trust, he has been a Harper informant for three years, knows exactly where Nar'l Xibrindas hid the smokepowder, and will tell the party where to place it for maximum effect before he flees up the cellar stairs. Deep down, Xanathar has sent a gazer to watch him, and Thorvin knows it, and the gazer knows Thorvin knows it.
+
+**Morale.** In a fight, Thorvin flees immediately through whichever stairs lead outside. He does not die for his employer.
+
+**Relationships.** Thorvin is a Xanathar Guild engineer, a secret Harper informant, the man who maintains the Lair's mechanical constructs and traps (and knows every failure condition), and the reason the smokepowder demolition option is viable.
+
+---
+
+#### Keln Trigos
+*Tiefling priest (Xanathar Guild), neutral evil. Priest.*
+
+**Roleplaying Information**
+
+**Resonance.** Keln should inspire surface comfort with his healer's professional warmth; growing unease as the clinic's real purpose becomes clear; and cold realization that the blindfolded guests never ask where they are going.
+
+**Emotions.** Keln most often feels efficient professional pride, the specific calm of someone who has decided knowing less is safer, practical care for the patients he actually heals, and clinical indifference to what happens after they leave his care.
+
+**Motivations.** Keln wants to run the Terasse Estate operation smoothly, provide Xanathar with a reliable healing and transport service, and avoid becoming interesting to anyone with authority.
+
+**Inspirations.** When playing Keln, channel Nucky Thompson (*Boardwalk Empire*), Dr. Jacoby (*Twin Peaks*, the professional with a sideline), and the coroner in any crime procedural who is more helpful than he ought to be.
+
+**Character Information**
+
+**Persona.** To the world, Keln Trigos runs a quiet healing operation in a Castle Ward rowhouse and asks no questions about how you got hurt. To those who know the passphrases, the building runs two entirely separate services that have never been officially linked, and both function without incident. Deep down, he has worked for Xanathar long enough to understand what happens to people the Guild stops using, and he is therefore very reliable.
+
+**Morale.** In a fight, Keln uses priestly spells to hold ground, calls his guards, and sends a message to Xanathar. He does not run — the building is his responsibility.
+
+**Relationships.** Keln is the Xanathar Guild's Tier 1 outpost keeper (Terasse Estate, Elsambul's Lane, Castle Ward), the manager of the gladiatorial transport route (healing services and Lair access under the same roof), and the keeper of two passphrases that access very different services.
+
+---
+
+#### Grinda Garloth
+*Human mage (black market armorer), neutral. Mage.*
+
+**Roleplaying Information**
+
+**Resonance.** Grinda should inspire endearment with her eccentric single-mindedness (everything she does is about what is on the harbor floor); respect for her genuine competence; and wariness when you realize she sells to whoever pays.
+
+**Emotions.** Grinda most often feels absorbed technical focus, opportunistic calculation, specific pleasure in a successful dive, pragmatic indifference to her clients' intentions, and genuine excitement when someone has useful information about underwater locations.
+
+**Motivations.** Grinda wants to find whatever is at the bottom of Deepwater Harbor, maintain the Apparatus of Kwalish, and sell her services and equipment to whoever covers her costs.
+
+**Inspirations.** When playing Grinda, channel Q (*James Bond*), Doc Brown (*Back to the Future*), and Ellen Ripley (*Alien*, practical survivor who does what works).
+
+**Character Information**
+
+**Persona.** To the world, Grinda is the wizard who lives over a closed dock and disappears into Deepwater Harbor for days at a time, and whose Apparatus of Kwalish is available for rental at rates she considers entirely reasonable. To those who deal with her, she sells services, equipment, and information — about anything except her current client list, which is proprietary. Deep down, she does not care about the Grand Game; she cares about the dragon turtle wreck at 47 fathoms and what might still be salvageable.
+
+**Morale.** In a fight, Grinda uses her arcane magic to support whoever she is currently working with and retreats into the harbor if things go against her. She will help the party if they defended her from Noska.
+
+**Relationships.** Grinda Garloth is a black market armorer and salvage wizard at Mistshore, an allied service provider to both Xanathar Guild and Bregan D'Aerthe, the owner of the Apparatus of Kwalish, and an emergency combat support option in the Stone of Golorr investigation if the party defended her home.
+
+---
+
+#### Korgstrod Uxgulm
+*Duergar (Tier 2 response team leader), lawful evil. Duergar.*
+
+**Roleplaying Information**
+
+**Resonance.** Korgstrod should inspire wariness with his brute authority; dark humor with his unshakeable belief that his personal spiritual unworthiness explains the fake stone's failure to attune; and satisfying irony when the party realizes he is guarding a worthless piece of rock with complete conviction.
+
+**Emotions.** Korgstrod most often feels the duergar's characteristic contempt for weakness, thwarted ambition at being unable to attune to the stone, frustrated pride in a subordinate operation that should have been simple, and physical pleasure in discipline.
+
+**Motivations.** Korgstrod wants to deliver the Stone of Golorr to Xanathar and receive the credit, maintain discipline in the sewer hideout, and figure out why he cannot attune to the stone (the answer is that it is a fake, but this has not occurred to him).
+
+**Inspirations.** When playing Korgstrod, channel Vernon Dursley (*Harry Potter*, the authoritarian who does not understand what he controls), General Grievous (*Star Wars*, the capable commander with a systemic failure), and any mid-level bureaucrat who is certain the problem is personal inadequacy.
+
+**Character Information**
+
+**Persona.** To the world, Korgstrod Uxgulm is a duergar in a stone chair attended by kobold lackeys who keep asking about a whip. To those who deal with him, he holds what he believes to be the Stone of Golorr and intends to deliver it to Xanathar when he is ready. Deep down, he cannot attune to the stone, and rather than question the stone, he has concluded that he is unworthy of it, and he is working on his unworthiness.
+
+**Morale.** In a fight, Korgstrod enlarges himself, presses forward, and uses his whip to position the kobolds he expects to die first. He does not retreat from his own hideout.
+
+**Relationships.** Korgstrod is the duergar leader of the Orb Confectioners sewer hideout, the Xanathar Guild's Tier 2 response team leader, the holder of a convincing fake Stone of Golorr, and the commander of a kobold retinue whose continued employment is contingent on not being in his field of vision when things go wrong.
+
+---
+
+#### Gorath
+*Duergar (Tier 1 response team leader), lawful evil. Duergar.*
+
+**Roleplaying Information**
+
+**Resonance.** Gorath should inspire slow dread as the message lands; unexpected respect for a man who delivers bad news without threatening and still makes you feel threatened; and the particular unease of a warning delivered with total professionalism.
+
+**Emotions.** Gorath most often feels professional calm, the satisfaction of a message delivered precisely, contempt for situations that require raised voices, deliberate patience, and the focused restraint of a man who is himself the warning.
+
+**Motivations.** Gorath wants to deliver the message exactly as instructed, leave without escalating, and ensure the recipient understood.
+
+**Inspirations.** When playing Gorath, channel Mike Ehrmantraut (*Breaking Bad*), Anton Chigurh (*No Country for Old Men*, the message-before-consequence aspect), and Winston Wolf (*Pulp Fiction*).
+
+**Character Information**
+
+**Persona.** To the world, Gorath is a stocky duergar who walks into the tavern in unremarkable clothes, sits at the bar, orders something good, and leaves exact coin. To those who receive his message, he delivers it once, clearly, and does not repeat himself. Deep down, Gorath is the announcement. The consequence comes after. He finds the distinction important.
+
+**Morale.** In a fight, Gorath fights without aggression and without mercy, in that order. He does not pursue. His job is to survive and report.
+
+**Relationships.** Gorath is the Xanathar Guild's Tier 1 response team leader (four duergar, sent when the Guild wants a lesson taught rather than a person killed), the formal notice that Xanathar knows what the party did, and the first escalation before Korgstrod's team and then Noska's arrive.
 - Grevik Nass (half-orc; Xanathar plant deployed as tavern Master Cook candidate; files patron intelligence to the Guild after 2 tendays; appears as Appendix F Master Cook candidate)
 - Tobrin Ashvale (Xanathar plant; tavern staff infiltration role; referenced in Appendix F response team trigger conditions alongside Grevik Nass; details to develop with profile)
 
@@ -1403,13 +1909,141 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Sidra is Manshoon's Kolat Towers lieutenant, the keeper of the teleporter ring system, and the only person in the cell whose loyalty Manshoon has never tested, because testing it would mean he does not already know the answer.
 
-**Remaining profiles (Tier 3, deferred):**
-- Agorn Fuoco (lieutenant; bard; will trade his pass-amulet to save himself)
-- Avareen Windrivver (spy; maintains Interrogation House on Brindul Alley; carries pass-amulet to Kolat Towers)
-- Zorbog Jyarkoth (thug; Avareen's partner at the Interrogation House; may fold into Avareen's entry)
-- Amath Seccent (Banite priestess; occupies Yellowspire; the tower's teleportation circle is a back-route into Kolat Towers bypassing the pass-amulet requirement)
-- Vira Solkan (junior arcanist; Manshoon plant embedded in Blackstaff Tower for 6 weeks; attempts to introduce a resonance disruptor into Tower defenses; Force Grey M6 antagonist)
-- Manafret Cherryport (lightfoot halfling mage; Kolat Towers cook and lieutenant; loves cooking, uses mage hand to cut vegetables; wears a teleporter ring; assumes intruders are guests unless convinced otherwise)
+#### Agorn Fuoco
+*Human bard (Manshoon lieutenant), neutral evil. Bard.*
+
+**Roleplaying Information**
+
+**Resonance.** Agorn should inspire pity when you realize he is genuinely out of his depth; contempt when he starts trading people to buy his own escape; and wry surprise when his mother appears and he becomes, briefly, comprehensible.
+
+**Emotions.** Agorn most often feels artistic self-absorption, the particular anxiety of someone who has made too many decisions based on mood, passive compliance with whoever is most immediately persuasive, genuine love of music that sits embarrassingly alongside everything else, and deep filial attachment to his mother.
+
+**Motivations.** Agorn wants to avoid consequences for the Stone's transfer, use whatever he knows (Amath's identity, his pass-amulet, Manshoon's operational structure) to buy his freedom, and eventually retire somewhere quieter.
+
+**Inspirations.** When playing Agorn, channel Pete Campbell (*Mad Men*), Zaphod Beeblebrox (*The Hitchhiker's Guide to the Galaxy*), and Tom Ripley (*The Talented Mr. Ripley*, the man always one step behind the situation).
+
+**Character Information**
+
+**Persona.** To the world, Agorn Fuoco is a bard who attends the theater, keeps excellent company, and does occasional work for the Zhentarim that he does not ask about too carefully. To those who capture him, he offers his pass-amulet, Amath Seccent's address, Manshoon's general operational structure, and whatever else occurs to him — starting immediately and working outward from least to most useful, in the order most likely to buy another minute. Deep down, he would rather be playing music.
+
+**Morale.** In a fight, Agorn attempts to flee immediately. If capture is certain, he begins trading information before anyone asks.
+
+**Relationships.** Agorn is a Manshoon lieutenant and bard, the man who entrusted the Stone of Golorr to Amath Seccent, a pass-amulet holder for Kolat Towers, and a man whose mother lives in Mistshore and knows nothing about any of this.
+
+---
+
+#### Avareen Windrivver
+*Human spy (Zhentarim interrogator), lawful evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Avareen should inspire cold unease with her professional courtesy (nothing about her manner suggests this is a person's house); dread when the party understands what the windowless building is for; and clinical discomfort with someone who finds interrogation simply a job.
+
+**Emotions.** Avareen most often feels professional detachment, organizational loyalty, the controlled patience of someone who is never in a hurry, measured satisfaction in work done to specification, and a complete absence of interest in the personal dimensions of her work.
+
+**Motivations.** Avareen wants to run the Brindul Alley operation to Manshoon's specifications, maintain the pass-amulet's security, and deliver outcomes with minimum exposure.
+
+**Inspirations.** When playing Avareen, channel Claire Underwood (*House of Cards*), Amy Dunne (*Gone Girl*, the controlled precision), and Hans Landa (*Inglourious Basterds*, the politeness before the menace).
+
+**Character Information**
+
+**Persona.** To the world, Avareen lives in a windowless house in Brindul Alley and is not there to meet her neighbors. To those who work with her, she is reliable, thorough, and personally uninvested in outcomes. Deep down, she has a pass-amulet to Kolat Towers because Manshoon has never had a reason to question her, and she has taken care that no reason develops.
+
+**Morale.** In a fight, Avareen fights with a spy's discipline: efficient, targeted, and oriented toward extraction rather than victory. She does not sacrifice herself for the building.
+
+**Relationships.** Avareen is the Zhentarim interrogation operative at the Brindul Alley Interrogation House, Zorbog Jyarkoth's operational partner, a pass-amulet holder for Kolat Towers, and Ott Steeltoes's current jailer.
+
+---
+
+#### Zorbog Jyarkoth
+*Human thug (Zhentarim), neutral evil. Thug.*
+
+**Roleplaying Information**
+
+**Resonance.** Zorbog should inspire physical wariness with his size; and a specific kind of unease when you realize he takes direction from Avareen without ever asking why.
+
+**Emotions.** Zorbog most often feels uncomplicated professional purpose, loyalty to whoever is currently paying, comfortable indifference to the details of his work, and mild curiosity about the people who come through the house.
+
+**Motivations.** Zorbog wants to do what Avareen says, do it correctly the first time, and receive pay.
+
+**Inspirations.** When playing Zorbog, channel Oddjob (*James Bond*), Gregor Clegane (*Game of Thrones*, reliable physical presence), and Drax (*Guardians of the Galaxy*, literal interpretation of everything).
+
+**Character Information**
+
+**Persona.** To the world, Zorbog occupies the windowless house with Avareen and handles the parts of their work that require physical certainty. To those who deal with him, he takes direction from Avareen without comment, question, or visible opinion on the subject. Deep down, he does not interrogate things.
+
+**Morale.** In a fight, Zorbog protects Avareen and the building, in that order. He does not retreat while Avareen is still inside.
+
+**Relationships.** Zorbog is Avareen Windrivver's operational partner at the Interrogation House and the physical deterrent of the Brindul Alley operation. His profile may fold into Avareen's entry if the DM runs them as a single encounter.
+
+---
+
+#### Amath Seccent
+*Human priest of Bane, lawful evil. Priest.*
+
+**Roleplaying Information**
+
+**Resonance.** Amath should inspire surface unease with her composed certainty; cold dread as the handprints accumulate in the party's field of vision; and the specific discomfort of someone who is polite, correct, and utterly committed to a god whose primary offering is absolute subjugation.
+
+**Emotions.** Amath most often feels the absolute calm of someone who has found certainty, controlled contempt for weakness, genuine devotion to Bane that she does not experience as devotion so much as alignment, and measured courtesy toward those who have not yet committed to the wrong side.
+
+**Motivations.** Amath wants to maintain Yellowspire as a Banite cell in Waterdeep, support Manshoon's operations where they serve Bane's interests, and convert, use, or remove people in the order that serves the hierarchy.
+
+**Inspirations.** When playing Amath, channel Dolores Umbridge (*Harry Potter*), the Grand Inquisitor (*Star Wars Rebels*), and Claude Frollo (*The Hunchback of Notre Dame*).
+
+**Character Information**
+
+**Persona.** To the world, Amath Seccent is a well-mannered woman in common clothes who lives in an old tower in the Castle Ward. To those who enter the tower, every interior surface is covered in black handprints (the symbol of Bane) and the five occupants wear fur-lined robes and are at complete peace with this. Deep down, the tower is a house of worship, a command post, and a fallback location, and she considers any distinction between these purposes academic.
+
+**Morale.** In a fight, Amath maintains her composure, uses priestly magic precisely, and calls her acolytes to position. The tower is defensible and she knows every corner of it.
+
+**Relationships.** Amath is the Banite priestess occupying Yellowspire (Castle Ward), the keeper of a teleportation circle providing a back-route into Kolat Towers (bypassing the pass-amulet requirement), Agorn Fuoco's romantic partner and the person entrusted with the Stone of Golorr, and a Manshoon-adjacent religious operative whose devotion to Bane predates and outlasts any particular Zhentarim arrangement.
+
+---
+
+#### Vira Solkan
+*Human mage (Manshoon plant), neutral evil. Mage.*
+
+**Roleplaying Information**
+
+**Resonance.** Vira should inspire unease at the realization that the threat is already inside; cold professional respect for the patience it took to go six weeks undetected in Blackstaff Tower; and dread when the party understands the resonance disruptor is already in place.
+
+**Emotions.** Vira most often feels the specific stillness of an operative who has been playing a role for six weeks and cannot afford to slip, professional calculation, genuine ability to disappear into competence, private contempt for the Tower's complacency, and controlled anxiety that the disruptor will be discovered before activation.
+
+**Motivations.** Vira wants to keep the resonance disruptor undetected until Manshoon activates it, maintain her cover inside Blackstaff Tower, and extract cleanly when the time comes.
+
+**Inspirations.** When playing Vira, channel Natasha Romanoff (*Marvel*), Elizabeth Jennings (*The Americans*, the embedded operative), and Margaery Tyrell (*Game of Thrones*, the patient infiltrator).
+
+**Character Information**
+
+**Persona.** To the world, Vira Solkan is a quiet junior arcanist in her first posting at Blackstaff Tower who does her work, stays late, and does not talk much at meals. To those who investigate her, she has no suspicious contacts, no unusual expenses, and no detectable magical connection to Kolat Towers. Deep down, the resonance disruptor is already in place, and she is counting days.
+
+**Morale.** In a fight, Vira uses mage spells to cover her exit. The disruptor is more important than her survival.
+
+**Relationships.** Vira is a Manshoon plant embedded inside Blackstaff Tower, the operative responsible for installing the resonance disruptor in the Tower's defensive architecture, and the primary antagonist of Force Grey mission six.
+
+---
+
+#### Manafret Cherryport
+*Lightfoot halfling mage (Kolat Towers cook), neutral evil. Mage.*
+
+**Roleplaying Information**
+
+**Resonance.** Manafret should inspire endearment with his halfling hospitality; a specific kind of unsettling confusion when he does not register that you are intruders; and the disquieting experience of being offered dinner by someone who works for a wizard who kills people.
+
+**Emotions.** Manafret most often feels genuine domestic pride, the uncomplicated satisfaction of a well-run kitchen, pleasant curiosity about visitors who have not introduced themselves, loyal warmth toward Manshoon expressed through excellent food, and mild concern when guests seem confused.
+
+**Motivations.** Manafret wants to cook well, keep the kitchen orderly, be useful to Manshoon, and welcome whoever the teleporter ring brings through the sanctum.
+
+**Inspirations.** When playing Manafret, channel Bilbo Baggins (*The Hobbit*), Samwise Gamgee (*The Lord of the Rings*, domestic competence), and Hannibal Lecter (*Hannibal*, the disconcerting chef who welcomes you warmly).
+
+**Character Information**
+
+**Persona.** To the world, Manafret is the Kolat Towers cook who sets an extra place at the table for visitors who may arrive unexpectedly from the sanctum. To those who enter the kitchen through the wrong door, he asks whether they have eaten, what they would prefer, and whether he should let Lord Manshoon know they have arrived. Deep down, he wears the teleporter ring because Manshoon trusts him, and the intruders always seem to respond well to the food.
+
+**Morale.** In a fight, Manafret retreats to a defensible position, calls for help through whatever means are available, and uses his halfling size to make himself a difficult target. He does not use the teleporter ring except on Manshoon's orders.
+
+**Relationships.** Manafret is Manshoon's Kolat Towers cook and a teleporter ring holder, a lieutenant whose threat is contextual (his ring bypasses the pass-amulet system), and a man whose hospitality toward intruders has probably prevented more deaths than his employer would prefer.
 
 ---
 
@@ -1482,17 +2116,233 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Relationships.** Willifort is the chief butler and Lord Victoro's personal attendant, a doppelganger who holds keys to every room alongside Victoro and Ammalia, and the Cassalanters' intelligence operative who reports to Ammalia on everything that transpires within the villa.
 
-**Remaining profiles (Tier 3, deferred):**
-- Osvaldo Cassalanter (eldest son; chain devil; imprisoned in temple attic)
-- Terenzio Cassalanter (one of the twins; intended sacrifice)
-- Elzerina Cassalanter (one of the twins; intended sacrifice)
-- Tissina Khyret (tiefling cult fanatic; Ammalia's personal attendant)
-- Laiba "Nana" Rosse (tiefling cult fanatic; twins' caretaker and tutor)
-- Jandar Chergoba (tiefling cult fanatic; head chef)
-- Seffia Naelryke (cult fanatic; stationed at Converted Windmill with Arn; Cassalanter response team leader; arc-level recurring NPC across Arcs E, G, H)
-- Arn Xalrondar (cult fanatic; Seffia's partner at the Windmill; his Book of Worship links directly to the Windmill address)
-- Rella Asp (Cassalanter poisoner placed as tavern Master Cook candidate; collects patron intelligence; commission to poison a bonded NPC triggers in Act III; appears as Appendix F Master Cook candidate)
-- Ivrala Sorn (human; Cassalanter operative placed as tavern server candidate; reports to Willifort Crowelle; recognizable to Sister Valdra on DC 13 Perception; appears as Appendix F server candidate)
+#### Osvaldo Cassalanter
+*Human (chain devil), neutral evil (formerly lawful good). Chain Devil.*
+
+**Roleplaying Information**
+
+**Resonance.** Osvaldo should inspire horror when the party realizes what the howling is; genuine sorrow for the boy in the portrait with the ceremonial rapier; and cold terror when the chain devil is encountered in the flesh.
+
+**Emotions.** Osvaldo most often feels the chain devil's rage against confinement, fragmented grief for a life that ended at fifteen, desperate pleading when Ammalia visits, a hatred of his own condition that sometimes expresses as hatred of everything, and the specific anguish of knowing his siblings are scheduled for the same fate.
+
+**Motivations.** The chain devil wants to escape, attack, and destroy anything that enters the attic. The fragmented self wants to understand what happened to him and make contact with the siblings he cannot see.
+
+**Inspirations.** When playing Osvaldo, channel the Beast (*Beauty and the Beast*, before the transformation reversed), Bertha Mason (*Jane Eyre*), and the Hulk (*Marvel*, the monster who remembers being someone else).
+
+**Character Information**
+
+**Persona.** To the world, Osvaldo Cassalanter is a name the family does not mention — "attending school in a faraway city," Terenzio and Elzerina were told. To those who open the attic door, he is a chain devil in a soundproofed attic who attacks immediately, and whose chains have a 15-foot reach. Deep down, some fragment of Osvaldo is still there, and it hears his mother's voice when she comes to read, and it is very much aware of what was done to it.
+
+**Morale.** Osvaldo attacks anything that enters the attic except Ammalia. Her presence calms him enough for her to read from outside the shielding circle, but she does not go into the room.
+
+**Relationships.** Osvaldo is the eldest child of Victoro and Ammalia (soul surrendered to Asmodeus three years ago during the family's financial crisis), the reason Terenzio and Elzerina are scheduled for sacrifice (the pact requires either a 500,000 gp redemption or 99 more souls), and the tragedy that both explains and indicts everything his parents are doing.
+
+---
+
+#### Terenzio Cassalanter
+*Human child, lawful good. Commoner (child).*
+
+**Roleplaying Information**
+
+**Resonance.** Terenzio should inspire immediate protectiveness; delight at his dragon-costume earnestness; and creeping dread as you understand his parents are planning to sacrifice him at the Founders' Day feast.
+
+**Emotions.** Terenzio most often feels uncomplicated curiosity, physical joy in play, trust in the adults he knows, the particular bravery of a child who has never had reason to doubt that he is loved, and restless impatience to grow up enough to have adventures.
+
+**Motivations.** Terenzio wants to play with his sister, explore the parts of the villa his parents told him not to explore, and eventually become someone who could go in the attic.
+
+**Inspirations.** When playing Terenzio, channel Simba (*The Lion King*), Hiccup (*How to Train Your Dragon*, before he found the dragon), and Bastian (*The Neverending Story*).
+
+**Character Information**
+
+**Persona.** To the world, Terenzio is a boy in a dragon costume being chased around the library by his sister with a wooden sword. To those who speak with him, he knows his parents are looking for "missing dragons," he has heard howling from the attic two or three times, and he thinks his brother Osvaldo must be doing very well at school by now. Deep down, he has decided that whatever is in the attic is probably a dragon, and he considers this exciting rather than frightening.
+
+**Morale.** Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game.
+
+**Relationships.** Terenzio is one of the twins (alongside Elzerina), the intended sacrifice at the Founders' Day feast, a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons.
+
+---
+
+#### Elzerina Cassalanter
+*Human child, lawful good. Commoner (child).*
+
+**Roleplaying Information**
+
+**Resonance.** Elzerina should inspire the same immediate protectiveness as Terenzio, sharpened by her aggression; startled warmth when she asks flat-out whether you fight monsters and can she come; and the particular dread of knowing that this one will fight when the time comes and it will not be enough.
+
+**Emotions.** Elzerina most often feels competitive physical energy, a younger sibling's determination to never be the one who backs down, quick tactical assessment she does not know she has, open warmth to anyone who takes her seriously, and fierce protectiveness of Terenzio even while she is chasing him.
+
+**Motivations.** Elzerina wants to beat Terenzio at everything, find out what is in the attic before he does, and find an adult who will answer her actual questions instead of the easy ones.
+
+**Inspirations.** When playing Elzerina, channel Arya Stark (*Game of Thrones*, early seasons), Merida (*Brave*), and Lyra Belacqua (*His Dark Materials*, early).
+
+**Character Information**
+
+**Persona.** To the world, Elzerina is the twin who hits first and asks later, currently wearing a knight's helm and swinging a wooden sword at her brother's dragon costume. To those who speak with her seriously, she wants to know whether the party fights monsters and whether they have met any dragons. Deep down, she has overheard things she did not understand, and she files them away with the efficiency of a child who has learned that adults do not explain until after they have decided you are old enough.
+
+**Morale.** Elzerina does not run when frightened. She interposes herself between Terenzio and the threat and looks for a weapon.
+
+**Relationships.** Elzerina is Terenzio's twin and the bolder of the two, an intended sacrifice at the Founders' Day feast alongside her brother, and a child who suspects something is wrong in this house without knowing what.
+
+---
+
+#### Tissina Khyret
+*Tiefling cult fanatic (Asmodeus), lawful evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Tissina should inspire surface courtesy; the specific unease of someone who anticipates needs too precisely; and cold dread when the party learns she is a cult fanatic.
+
+**Emotions.** Tissina most often feels attentive devotion to Ammalia, theological certainty about Asmodeus, professional alertness to threats to the household, and the particular steadiness of someone who has never doubted the choice she made.
+
+**Motivations.** Tissina wants to protect Ammalia and the household, serve Asmodeus through that service, and identify threats to the villa before they become problems.
+
+**Inspirations.** When playing Tissina, channel Gríma Wormtongue (*The Lord of the Rings*), Theon Greyjoy (*Game of Thrones*, servile devotion), and Moneypenny (*James Bond*, loyal adjutant in a darker register).
+
+**Character Information**
+
+**Persona.** To the world, Tissina Khyret is the tiefling attendant who stands near Ammalia at social functions and anticipates what is needed before it is asked. To those she considers threats, she is the first person in the villa to notice something is wrong. Deep down, her worship of Ammalia and her worship of Asmodeus flow from the same devotion, and she has never seen any contradiction between them.
+
+**Morale.** In a fight, Tissina protects Ammalia first, using cult fanatic spells to hold threats at distance while Ammalia escapes.
+
+**Relationships.** Tissina is Ammalia Cassalanter's personal tiefling attendant, a cult fanatic whose regalia is stored alongside Willifort Crowelle's in a shared lockbox, and the first cultist in the villa to notice an infiltration.
+
+---
+
+#### Laiba "Nana" Rosse
+*Tiefling cult fanatic (Asmodeus), neutral evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Nana Rosse should inspire genuine warmth when she crochets dolls for the twins; discomfort when the party realizes she reports their movements to the household hierarchy; and cold horror at the distance between her genuine affection and what she is serving.
+
+**Emotions.** Nana Rosse most often feels the uncomplicated warmth of a woman who has cared for children for decades, devout conviction about Asmodeus that she has folded into her maternal role, mild exasperation when the twins sneak away, and genuine worry about their wellbeing alongside a complete absence of conflict between these things.
+
+**Motivations.** Nana Rosse wants to keep the twins safe and happy until the feast, maintain her position in the household, and serve Asmodeus through the care she gives.
+
+**Inspirations.** When playing Nana Rosse, channel Dolores (*Westworld*, the seemingly innocent keeper), Mrs. Hudson (*Sherlock*), and Granny Weatherwax (*Discworld*, the power in a grandmotherly frame).
+
+**Character Information**
+
+**Persona.** To the world, Nana Rosse is the tiefling grandmother who crochets dolls for Terenzio and Elzerina and scolds them gently for sneaking away from lessons. To those who look past the warmth, she reports the children's movements to the household every evening, without considering it a betrayal, because in her understanding keeping them safe and keeping them accounted for are the same thing. Deep down, she believes she is the best thing in the twins' lives, and she may be right.
+
+**Morale.** In a fight, Nana Rosse grabs the twins and places herself between them and the threat. She is more dangerous than she looks.
+
+**Relationships.** Laiba "Nana" Rosse is the twins' tiefling caretaker and tutor, a cult fanatic whose devotion to the children and devotion to the cult are inseparable in her own understanding, and the person who knows the twins' daily movements better than anyone else in the villa.
+
+---
+
+#### Jandar Chergoba
+*Tiefling cult fanatic (Asmodeus), lawful evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Jandar should inspire the professional respect any accomplished chef earns; shock when ten knives rise from the counters; and cold realization that the Founders' Day menu is already planned.
+
+**Emotions.** Jandar most often feels rigorous professional pride in the kitchen's standards, theological certainty carried without drama, the specific pleasure of a plan executed flawlessly, controlled urgency on the days that matter, and contempt for anyone who asks about the menu without understanding what the menu serves.
+
+**Motivations.** Jandar wants to run the kitchen to his exacting standards, prepare the Founders' Day feast exactly as planned, and serve Asmodeus through the craft that brought him to the Cassalanters' attention.
+
+**Inspirations.** When playing Jandar, channel Gordon Ramsay (*Hell's Kitchen*, precision without warmth), Anthony Bourdain (the seriousness of craft), and Hannibal Lecter (*Hannibal*, the disconcerting chef in a domestic context).
+
+**Character Information**
+
+**Persona.** To the world, Jandar runs the Cassalanter kitchen with the efficiency of a general who has never had to reconsider a campaign. To those who threaten the kitchen, a single word raises every knife in the room. Deep down, the Founders' Day feast is the most important project of his career, and he has approached it with the same precision he brings to everything else.
+
+**Morale.** In a fight, Jandar speaks the word "For'zaal" (raising ten flying swords) and retreats to a defensible position. He does not abandon the kitchen before Founders' Day.
+
+**Relationships.** Jandar is the Cassalanter Villa's head chef, a cult fanatic, the keeper of golden sacrificial implements hidden under a sack of potatoes, and the person who determines whether the Founders' Day poison is distributed correctly.
+
+---
+
+#### Seffia Naelryke
+*Human cult fanatic (Asmodeus), lawful evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Seffia should inspire cold professionalism that produces unease; dread when the party learns she was tasked with silencing witnesses and failed; and the particular menace of someone currently in the middle of fixing a problem.
+
+**Emotions.** Seffia most often feels the focused calm of someone mid-operation, controlled frustration at the Vaelle Lurval failure, theological certainty as a stabilizing force, and the specific alertness of someone who knows she is now a loose end for the Cassalanters if she does not resolve this correctly.
+
+**Motivations.** Seffia wants to recover from the Vaelle Lurval failure without exposing it to Lord Cassalanter, resume her response team role, and maintain the Converted Windmill as a reliable Asmodean fallback location.
+
+**Inspirations.** When playing Seffia, channel Cersei Lannister (*Game of Thrones*, calculating damage controller), Amy Dunne (*Gone Girl*, the professional who handles what others can't), and Villanelle (*Killing Eve*, efficient rather than theatrical).
+
+**Character Information**
+
+**Persona.** To the world, Seffia maintains a decrepit windmill in the Southern Ward, sleeps in one of its upper rooms, and does not receive visitors. To those who investigate, she and Arn have converted the windmill into an Asmodean shrine and a cult fallback location. Deep down, she was given two missions (retrieve the Stone and silence three witnesses), failed the quieter one, and she is dealing with the consequences cleanly.
+
+**Morale.** In a fight, Seffia uses cult fanatic spells precisely, calls the spined devils if available, and positions Arn to cover her flanks. She does not retreat from her own operational base.
+
+**Relationships.** Seffia is the Cassalanter response team leader (stationed at the Converted Windmill, Southern Ward), Arn Xalrondar's operational partner, the cult fanatic who failed to silence Vaelle Lurval, and an arc-level recurring NPC across Arcs E, G, and H.
+
+---
+
+#### Arn Xalrondar
+*Human cult fanatic (Asmodeus), lawful evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Arn should inspire wariness at how completely he defers to Seffia; cold focus when the spined devils arrive and he makes the call himself; and a specific kind of compliance that becomes initiative at the worst moment.
+
+**Emotions.** Arn most often feels subordinate devotion to Seffia's operational judgment, theological certainty as bedrock, the particular focus of someone who does what the mission requires without auditing it, and quiet pride in the devil-summoning decision he made under pressure.
+
+**Motivations.** Arn wants to do what the mission requires, keep the Windmill operational, and trust Seffia's judgment on everything except the moments she is not in the room.
+
+**Inspirations.** When playing Arn, channel Draco Malfoy (*Harry Potter*, the true believer within a hierarchy), Gaston (*Beauty and the Beast*, the follower who becomes a problem when given a clear target), and any subordinate who is more dangerous than the person giving orders.
+
+**Character Information**
+
+**Persona.** To the world, Arn Xalrondar sleeps at the Windmill with Seffia and defers to her judgment on everything that involves planning. To those who investigate, his Book of Worship contains the Windmill's address as the place of assembly, and the handprints in the apartment match those at Cassalanter Villa. Deep down, he made the right call giving the Stone to the spined devil — the mission required it, the Stone escaped, and he will not be talked out of believing the decision was correct.
+
+**Morale.** In a fight, Arn covers Seffia's flanks and does not retreat unless Seffia orders it.
+
+**Relationships.** Arn is the Cassalanter Converted Windmill co-occupant, Seffia Naelryke's operational partner, the cultist whose Book of Worship links directly to the Windmill address (an intelligence seed for any investigation), and the man who sent the Stone of Golorr out with a spined devil rather than allow the party to take it.
+
+---
+
+#### Rella Asp
+*Human poisoner (Cassalanter operative), lawful evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Rella should inspire initial warmth with her impressive culinary credentials; growing unease as her interest in patron identities exceeds any culinary curiosity; and cold horror when the commission becomes clear.
+
+**Emotions.** Rella most often feels professional focus, the calm of someone who has done this before, a cook's genuine pride in the cover work, controlled patience, and the specific discipline of someone who does not rush.
+
+**Motivations.** Rella wants to collect intelligence on the tavern's regular patrons, stay employed and inconspicuous until the commission activates, and execute the commission cleanly when the target appears.
+
+**Inspirations.** When playing Rella, channel Amy Dunne (*Gone Girl*, the controlled, patient professional), Mrs. Lovett (*Sweeney Todd*, the cook with a sideline), and Nurse Ratched (*One Flew Over the Cuckoo's Nest*, the uncanny competence).
+
+**Character Information**
+
+**Persona.** To the world, Rella Asp is an accomplished Master Cook who arrives with excellent references, treats the kitchen with professional seriousness, and produces food that patrons remember. To those who observe carefully, her interest in who orders what and who dines with whom exceeds any normal culinary curiosity. Deep down, she is waiting for a specific name to appear in the reservation ledger, and when it does, the commission executes itself.
+
+**Morale.** In a fight, Rella uses her kitchen knowledge to improvise and exits through the kitchen if available. She is not paid to fight.
+
+**Relationships.** Rella Asp is a Cassalanter operative placed as a Trollskull Manor Master Cook candidate, a poisoner whose commission to poison a bonded NPC activates in Act III, an intelligence collector reporting to Willifort Crowelle, and an Appendix F staff candidate.
+
+---
+
+#### Ivrala Sorn
+*Human spy (Cassalanter operative), neutral evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Ivrala should inspire pleasant initial impression with her reliable professionalism; unsettled recognition when Sister Valdra goes tense at the sight of her; and quiet dread when the party realizes she is working for the villa.
+
+**Emotions.** Ivrala most often feels professional neutrality, the specific watchfulness of a server who is also counting, controlled patience, mild contempt for the tavern work that is well-hidden, and a cool assessment of every patron she serves.
+
+**Motivations.** Ivrala wants to collect patron and faction intelligence on behalf of the Cassalanters, maintain the server cover, and pass regular reports to Willifort Crowelle.
+
+**Inspirations.** When playing Ivrala, channel Tatiana Maslany playing a sleeper operative (*Orphan Black*), Peggy Olson (*Mad Men*, the professional who is always watching), and any spy whose cover is impeccable because she is genuinely good at the job.
+
+**Character Information**
+
+**Persona.** To the world, Ivrala Sorn is a reliable, professional server who arrives on time, keeps orders correct, and remembers patron preferences. To those who know what they are looking at, she is filing weekly reports on Trollskull Manor's regulars, their faction affiliations, and who is drinking with whom. Deep down, Sister Valdra has seen her face in Cassalanter Villa's staff quarters, and she recognizes it.
+
+**Morale.** In a fight, Ivrala exits immediately and sends a report. She does not fight.
+
+**Relationships.** Ivrala is a Cassalanter intelligence operative placed as a Trollskull Manor server candidate, a person reporting to Willifort Crowelle on patron activity, recognizable to Sister Valdra on a DC 13 Perception check when both are present, and an Appendix F server candidate.
 
 ---
 
