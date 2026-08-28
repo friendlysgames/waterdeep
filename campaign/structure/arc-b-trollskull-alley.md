@@ -24,7 +24,7 @@ The party holds the deed to a derelict tavern in the North Ward and roughly enou
 
 While the renovation runs, Waterdeep comes to them. Guild inspectors arrive with clipboards and expectations. Neighbors appear with gifts, concerns, and agendas. Each of the city's seven adventuring factions sends its own recruiter, targeting specific party members by alignment, race, and reputation, not the group as a whole. The same party might find a Harper paper bird on one windowsill, a Bregan D'aerthe surveillance trail developing behind a drow PC, and a Doom Raiders flying snake delivering a note to the party's most morally flexible member, all in the same week. The factions want specific people. The party has to decide what they want in return.
 
-Between the renovation costs, the guild fees, and the neighbor who keeps filing complaints about rats, the city shows the party exactly what it costs to put down roots. The arc's emotional high point is the Grand Opening — a full house, a poltergeist who has extended professional courtesy to the new owners, and an Ammalia Cassalanter attending as a generous patron, curious and charming and already counting the days to Founders' Day. Two set-piece events bracket the arc's public life: the Twin Parades, where something mechanical walks in one of the processions without explanation, and an optional invitation to the Field of Triumph, where a carnival master named Zardoz Zord watches the party with considerably more attention than a haberdasher from the Sea Ward should need.
+Between the renovation costs, the guild fees, and the neighbor who keeps filing complaints about rats, the city shows the party exactly what it costs to put down roots. Before the tavern opens, an invitation from the Sea Maidens Faire draws them to the Field of Triumph, where a carnival master named Zardoz Zord watches from a private box and Meloon Wardragon leads the opposing team in the final round. The arc's emotional high point is the Grand Opening — a full house, a poltergeist who has extended professional courtesy to the new owners, and an Ammalia Cassalanter attending as a generous patron, curious and charming and already counting the days to Founders' Day. The Twin Parades follow not long after, where something mechanical walks in one of the processions without explanation.
 
 The arc ends the way it began: abruptly. A fireball detonates in Trollskull Alley.
 
@@ -134,7 +134,7 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 | Bregan D'aerthe | The Silk Handkerchief | Acquire a noble's handkerchief and deliver it to a tiefling girl |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
 
-Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon that will recalibrate on a second hearing. **Thread: Undermountain Is Active.** See also Scene 5.
+Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon that will recalibrate on a second hearing. **Thread: Undermountain Is Active.** See also Scene 6.
 
 *The Two Zhentarims Clarify.* When the party joins the Doom Raiders or receives a direct briefing from Davil Starsong, the Doom Raiders / Manshoon's Splinter distinction is made explicit. **Thread: Two Zhentarims.** Second path: Yagra Stonefist is a bouncer candidate (see Appendix F Staff Candidates) — her red jade Zhentarim pendant and explicit Doom Raiders association make the split visible to any PC who asks. Third path: Fala's friendship with Ziraj the Hunter (Scene 3) established the Doom Raiders' personal-connection style of operation before any organizational explanation.
 
@@ -144,7 +144,27 @@ Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: 
 
 ---
 
-### Scene 5: The Grand Opening
+### Scene 5: The Field of Triumph
+
+**Purpose:** Set-piece encounter during the renovation period, before the tavern opens. Introduces Zardoz Zord (Jarlaxle) and Meloon Wardragon through action rather than conversation. Creates Xanathar Guild recruitment pressure.
+
+**Content:**
+
+*The Tournament Invitation.* An invitation arrives from the Sea Maidens Faire, a carnival flotilla docked in Waterdeep Harbor. Zardoz Zord, the Faire's flamboyant Illuskan captain, has reserved gladiatorial entry slots at the Field of Triumph and wants sponsored combatants. Entry is free; the prize is 50 gp per combatant plus whatever reputation accrues from public performance. The invitation is addressed to the party by name.
+
+*Tournament Structure.* Two exhibition bouts against hired challengers, nonlethal rules — participants yield, they do not die. The Field of Triumph is Xanathar Guild territory for recruitment; scouts in the crowd are watching for capable combatants. The crowd includes a notable number of people in plain work clothes paying extremely professional attention to the fights.
+
+*Meloon's Team.* The final round puts the party across the sand from a team led by Meloon Wardragon — a Force Grey fighter who competes here because he enjoys it, alongside three colleagues who have clearly fought together before. He is direct and uncomplicated in a fight: no showboating, no goading, just a man who is very good at this and wants to see if the party is too. The bout is the toughest of the day. Win or lose, Meloon is first across the sand when the yield is called — firm handshake, specific compliment about something he noticed in the fight, and a recommendation for the best tavern currently operating in the North Ward that comes with a grin when the party tells him they own one. He asks their names and uses them. Cross-ref **Appendix A** (Meloon Wardragon profile). Force Grey Mission 3 brings him back in a very different condition — the party meeting him as himself here is the setup.
+
+*Xanathar Guild Recruitment Pressure.* After the final bout, a Guild scout makes contact — professional and direct, offering paid work in the Dock Ward and handing over a token for the Old Xoblob Shop. Not a viable faction path (villain faction), but establishes the Guild's reach and creates social pressure the party has to manage: accept the token, discard it, or use it as intelligence.
+
+*Jarlaxle Watching.* Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted by the party's performance. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled — something considerably more precise underneath the showmanship, the focused patience of a man evaluating something very carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Arc H.
+
+**Tone:** Gladiatorial and physical. The party fights, wins or loses, and meets someone they will like before the campaign turns him against them.
+
+---
+
+### Scene 6: The Grand Opening
 
 **Purpose:** Mark the tavern's transition from derelict to operational. The arc's emotional climax. Long-game seeds go into the ground beneath the celebration.
 
@@ -173,9 +193,9 @@ Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: 
 
 ---
 
-### Scene 6: The Twin Parades
+### Scene 7: The Twin Parades
 
-**Purpose:** Alexandrian set-piece event. Foreshadow nimblewrights for Arc C. Put the party into Waterdeep's public life at city scale.
+**Purpose:** Alexandrian set-piece event. Foreshadow nimblewrights for Arc C. Put the party into Waterdeep's public life at city scale, now as tavern owners with a reputation.
 
 **Content:**
 
@@ -191,26 +211,6 @@ Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: 
 *Festival Aftermath.* Return to the tavern. Frewn's Brews suffered a minor incident during the parades — a cask cracked and leaked, blamed on a faulty fitting. One of the Shard Shunners' handiwork, except it happened at the wrong building. Emmek is furious with Kelso Fiddlewick. The party finds a note slid under their door: "Apologies for any confusion. The service economy is difficult." No signature.
 
 **Tone:** Expansive, colorful, faintly ominous. The nimblewright registers as strange and is forgotten — until Arc C.
-
----
-
-### Scene 7: The Field of Triumph (Optional)
-
-**Purpose:** Optional set-piece introducing Zardoz Zord (Jarlaxle), exposing Meloon Wardragon's intellect devourer, and creating Xanathar Guild recruitment pressure. Parties that skip this lose no structural information; individual seeds have partial delivery paths elsewhere.
-
-**Content:**
-
-*The Tournament Invitation.* An invitation arrives from the Sea Maidens Faire, a carnival flotilla docked in Waterdeep Harbor. Zardoz Zord, the Faire's flamboyant Illuskan captain, has reserved gladiatorial entry slots at the Field of Triumph and wants sponsored combatants. Entry is free; the prize is 50 gp per combatant plus whatever reputation accrues from public performance. The invitation is addressed to the party by name.
-
-*Tournament Structure.* Two to three exhibition bouts against hired challengers (use appropriate CR creatures for the party's level). The Field of Triumph is Xanathar Guild territory for recruitment; scouts in the crowd are watching for capable combatants. The crowd includes a notable number of people in plain work clothes paying extremely professional attention to the fights.
-
-*The Anti-Magic Field.* One exhibition bout includes a brief anti-magic zone as a theatrical device. In the suppression area, active magical disguises and enchantments lapse. A character watching the crowd during this beat can make a **DC 15 Wisdom (Perception)** check: success reveals a figure in the audience momentarily blank-faced, the affectation of a cheerful off-duty soldier dropping away to reveal watchful stillness where a personality should be. **This is Meloon Wardragon, Force Grey member, currently hosting an intellect devourer.** The moment lasts seconds. The fight resumes. Plants the Meloon thread for Force Grey Mission 3 (Appendix D — Mission 3 available at 4th level).
-
-*Xanathar Guild Recruitment Pressure.* After the final bout, a Guild scout makes contact — professional and direct, offering paid work in the Dock Ward and handing over a token for the Old Xoblob Shop. Not a viable faction path (villain faction), but establishes the Guild's reach and creates social pressure the party has to manage: accept the token, discard it, or use it as intelligence.
-
-*Jarlaxle Watching.* Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted by the party's performance. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled — something considerably more precise underneath the showmanship, the focused patience of a man evaluating something very carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Arc H.
-
-**Tone:** Gladiatorial and theatrical on the surface; surveillance underneath.
 
 ---
 
@@ -245,13 +245,13 @@ Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: 
 
 All nine decisions settled from source evidence:
 
-1. **Seven scenes confirmed.** Five core (Arrival, Guild Gauntlet, Neighbors, Factions, Grand Opening) plus two set-piece events (Twin Parades, optional Field of Triumph). Justified by 3–5 session runtime and the broader content scope of this arc.
+1. **Seven scenes confirmed.** Four core (Arrival, Guild Gauntlet, Neighbors, Factions) plus Field of Triumph before the Grand Opening, then Grand Opening as culmination, then Twin Parades as coda. Justified by 3–5 session runtime and the broader content scope of this arc.
 
 2. **Lif appeasement mechanics in Scene 1.** Three-stage escalation (nuisance → warning → violence), behavioral appeasement condition (renovate with intent to reopen), specific consequences of destruction vs. appeasement. Mechanics belong in Arc B (encounter), not Appendix F (which handles ongoing Lif-as-bartender mechanics).
 
-3. **Ammalia at the Grand Opening (Scene 5).** First appearance at the Grand Opening, preceded by the Cassalanter Bank Hook (credit note and wine gift two days prior). Her warmth is genuine and unambiguous; the diabolist framing is entirely DM-side.
+3. **Ammalia at the Grand Opening (Scene 6).** First appearance at the Grand Opening, preceded by the Cassalanter Bank Hook (credit note and wine gift two days prior). Her warmth is genuine and unambiguous; the diabolist framing is entirely DM-side.
 
-4. **Field of Triumph as optional Scene 7.** Parties that skip lose the Meloon foreshadowing and Jarlaxle seed — both have partial delivery paths elsewhere (Force Grey Mission 4 for Meloon; Zardoz Zord appears in Arc C/H context). Labeled optional and structured to cost nothing if skipped.
+4. **Field of Triumph as Scene 5, placed before the Grand Opening.** The party fights in the city before they have a tavern to be proud of — the tournament win (or close loss) is part of what makes opening night feel earned. Meloon is met as himself here; Force Grey Mission 3 brings him back changed.
 
 5. **Cassalanter Bank Hook specifics.** Willifort Crowelle at the Cassalanter Counting House processes the party's loan paperwork. Wine gift and card two days before the Grand Opening. Three-path redundancy for "The Cassalanters Exist" thread: Renaer's aside (Scene 3), the credit note/wine (Scene 5), Ammalia's visit (Scene 5).
 
@@ -259,9 +259,9 @@ All nine decisions settled from source evidence:
 
 7. **Filthy Meg via faction referral.** Harpers (Remallia Haventree) or Doom Raiders (Yagra) name her as a Dock Ward source. Direct Dock Ward exploration works but opens at DC 16.
 
-8. **Twin Parades calendar date.** From `sources/24. Addendum The Twin Parades.pdf` — PDF currently unreadable without poppler. Date to be confirmed from Alexandrian source during the final prose pass. Interim placement: after the Grand Opening, before the fireball.
+8. **Twin Parades calendar date.** From `sources/24. Addendum The Twin Parades.pdf` — PDF currently unreadable without poppler. Date to be confirmed from Alexandrian source during the final prose pass. Interim placement: after the Grand Opening (Scene 6), before the fireball.
 
-9. **Sandbox scene ordering.** Scenes 1–3 are sequential (the party must arrive, deal with guilds, and meet neighbors before factions can recruit them). Scenes 4–5 overlap (invitations arrive during the renovation period, which is also when neighbor introductions are ongoing). Scene 6 (Twin Parades) is a scheduled city event that interrupts the faction/tavern rhythm. Scene 7 (Field of Triumph) is flexible — can occur before or after the Twin Parades, or not at all.
+9. **Sandbox scene ordering.** Scenes 1–3 are sequential (the party must arrive, deal with guilds, and meet neighbors before factions can recruit them). Scene 4 overlaps the renovation period (faction invitations arrive while the renovation runs; so does the Field of Triumph invitation). Scene 5 (Field of Triumph) occurs during the renovation period, before opening. Scene 6 (Grand Opening) is the renovation's culmination. Scene 7 (Twin Parades) is a scheduled city event following the opening.
 
 ---
 
@@ -280,7 +280,7 @@ All nine decisions settled from source evidence:
 
 - **Appendix A: NPC Roster** — All Trollskull Alley neighbor profiles (Section 1); BD observer profile (**outstanding — must be written before final prose pass**); Emmek Frewn and Shard Shunners; Ammalia Cassalanter; Willifort Crowelle; Filthy Meg (Section 3)
 - **Appendix C: Player Faction Recruitment** — First Meeting scenes for all seven factions; Bregan D'aerthe recruitment criteria and J.B. Nevercott scene; BD campaign-start Remix Option
-- **Appendix D: Running the Factions** — Level 2 faction missions (all seven factions); Force Grey Mission 1 (Hlam) and Mission 3 (Meloon) specifically
+- **Appendix D: Running the Factions** — Level 2 faction missions (all seven factions); Force Grey Mission 1 (Hlam) and Mission 3 (Meloon — first encountered as himself in Scene 5) specifically
 - **Appendix F: Managing Trollskull Manor** — 1,250 gp renovation cost and Faction Renovation Assistance; Lif-as-bartender mechanics and Signature Drink; all staff candidate tables; Fame track and Revenue Roll system; Faction Response Teams
 - **Ch. 3: Running the Campaign** — The Fireball Victim mechanic; Festival Calendar; Two Zhentarims structural rule; Faction Response Teams
 
@@ -290,9 +290,9 @@ All nine decisions settled from source evidence:
 
 ## Sandbox Structuring
 
-***Seven Scenes for an Episodic Arc.*** Arc A has four scenes because Arc A is a linear investigation — it flows from clue to clue, from the surface to the sewers, and ends when Floon is found. Arc B is structurally different: the party has a home base, multiple concurrent obligations, and no investigation to follow. The seven-scene structure imposes narrative progression on open-ended content without prescribing player choices. Scenes 1–3 run sequentially because the party cannot receive faction invitations before they have somewhere to receive them. Scenes 4–5 overlap the renovation period. Scenes 6–7 are set-piece events that occur when the calendar or player interest dictates. The DM runs Arc B as weeks of parallel activity, with these scenes as waypoints rather than a script.
+***Seven Scenes for an Episodic Arc.*** Arc A has four scenes because Arc A is a linear investigation — it flows from clue to clue, from the surface to the sewers, and ends when Floon is found. Arc B is structurally different: the party has a home base, multiple concurrent obligations, and no investigation to follow. The seven-scene structure imposes narrative progression on open-ended content without prescribing player choices. Scenes 1–3 run sequentially because the party cannot receive faction invitations before they have somewhere to receive them. Scene 4 overlaps the renovation period with faction recruitment running parallel to neighbor introductions. Scene 5 (Field of Triumph) slots into the renovation period — the party is recruited, fighting in the city's arena, and hiring staff all in the same stretch of time. Scene 6 (Grand Opening) is the renovation's endpoint and the arc's emotional culmination. Scene 7 (Twin Parades) is the city's calendar, not the party's — it falls when it falls. The DM runs Arc B as weeks of parallel activity, with these scenes as waypoints rather than a script.
 
-***The Arc's Dramatic Question.*** "Can the PCs establish themselves in Waterdeep's web of factions and obligations?" The answer is given at the Grand Opening: the party has become residents, not just occupants. Everything before Scene 5 builds toward that answer. Scenes 6 and 7 are the city acknowledging it.
+***The Arc's Dramatic Question.*** "Can the PCs establish themselves in Waterdeep's web of factions and obligations?" The answer is given at the Grand Opening: the party has become residents, not just occupants. Scenes 1–5 build toward that answer. Scene 7 (Twin Parades) is the city continuing to move around them, which is its own kind of acknowledgment.
 
 ## The Fireball Victim as Structural Goal
 
@@ -316,11 +316,17 @@ The party can resolve him through four paths: *confront* (exposing his loan from
 
 ## The Twin Parades as Nimblewright Foreshadowing
 
-***Pure Setup with No Arc B Payoff.*** The nimblewright sighting in Scene 6 offers nothing the party can act on. They see a mechanical figure in a procession. They may or may not make the Arcana check that tells them what they're seeing. The procession moves on. There is no investigation thread to pull, no NPC to question, no immediate consequence. This is deliberate. Arc C's Nimblewright Investigation lands harder because the party has a prior sighting they may or may not have registered as significant. If they made the check and noted it, Arc C opens with an immediate corroborating clue. If they missed it, Renaer's Arc C account of a mechanical figure near the fireball site becomes the first data point. Either way, Arc B has done its work.
+***Pure Setup with No Arc B Payoff.*** The nimblewright sighting in Scene 7 offers nothing the party can act on. They see a mechanical figure in a procession. They may or may not make the Arcana check that tells them what they're seeing. The procession moves on. There is no investigation thread to pull, no NPC to question, no immediate consequence. This is deliberate. Arc C's Nimblewright Investigation lands harder because the party has a prior sighting they may or may not have registered as significant. If they made the check and noted it, Arc C opens with an immediate corroborating clue. If they missed it, Renaer's Arc C account of a mechanical figure near the fireball site becomes the first data point. Either way, Arc B has done its work.
+
+## The Field of Triumph and Meloon Wardragon
+
+***Meeting Meloon Before He's Gone.*** The Field of Triumph places Meloon Wardragon in front of the party as himself: direct, skilled, warm, genuinely likeable. He leads the opposing team in the final round, gives them a real fight, and congratulates them afterward regardless of outcome. This is the party's only opportunity to know Meloon before Force Grey Mission 3 reveals what happened to him — the intellect devourer takes hold after Arc C, not before. The design depends on the sequence: the encounter works as foreshadowing only because it comes before the corruption. Parties who fight Meloon at the Field of Triumph and then encounter him again in Mission 3 will remember him as the man who shook their hands and asked their names — and that memory is what makes Mission 3 matter.
+
+***Why Through a Fight Rather Than a Conversation.*** Meloon is not primarily a talker. Placing him in a gladiatorial bout — where the party sees his craft, his competitiveness, and his sportsmanship in the same two minutes — characterizes him faster and more memorably than any social encounter could. A man who fights hard and congratulates his opponents honestly is fully established. There is nothing to add.
 
 ## Mad Mage Seeds
 
-***Three Seeds, No Hooks.*** Arc B plants three Undermountain threads — the Skullport trader (Scene 5), Durnan's warning (Scene 5), Hlam's message (Force Grey Mission 1) — but none of them resolve in Arc B or provide actionable investigation paths. They are designed to register and then recede, accumulating below the surface until the Dragon Heist resolution makes Halaster's awareness of Waterdeep's events feel retrospectively obvious rather than bolted on. The original WDH adventure handles this connection poorly, threading it in through dungeon encounters with no surface-campaign acknowledgment. These seeds are the fix — but they must be planted lightly, without pulling focus from Arc B's actual dramatic work.
+***Three Seeds, No Hooks.*** Arc B plants three Undermountain threads — the Skullport trader (Scene 6), Durnan's warning (Scene 6), Hlam's message (Force Grey Mission 1) — but none of them resolve in Arc B or provide actionable investigation paths. They are designed to register and then recede, accumulating below the surface until the Dragon Heist resolution makes Halaster's awareness of Waterdeep's events feel retrospectively obvious rather than bolted on. The original WDH adventure handles this connection poorly, threading it in through dungeon encounters with no surface-campaign acknowledgment. These seeds are the fix — but they must be planted lightly, without pulling focus from Arc B's actual dramatic work.
 
 ## Force Grey / Zelifarn
 
