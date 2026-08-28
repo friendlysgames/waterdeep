@@ -1,6 +1,6 @@
 # Appendix A — NPC Roster and Profiles
 
-Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
+Status: All tiers profiled (16 sections complete).
 
 ---
 
@@ -441,7 +441,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Morale.** Before the Act III possession, Meloon fights with reckless generosity — placing himself between allies and the worst of it, trusting Azuredge's return-throw completely. After the intellect devourer takes hold, he fights competently but steers outcomes to serve Xanathar's interests; each dawn he must win a contest of wills with Azuredge to wield it, and calling it back after a throw may still fail. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
 
-**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (whose growing unease through Act II, without knowing why, becomes alarm when the possession takes hold in Act III), a Yawning Portal regular whose surface thoughts Bonnie reads as comprehensibly normal through Acts I and II, and — from Act III onward — a puppet of Nihiloor's intellect devourer serving Xanathar's interests.
+**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (whose growing unease through Act II, without knowing why, becomes alarm when the possession takes hold in Act III), a Yawning Portal regular whose surface thoughts Bonnie reads as comprehensibly normal through Acts I and II, and, from Act III onward, a puppet of Nihiloor's intellect devourer serving Xanathar's interests.
 
 ---
 
@@ -492,7 +492,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Laraelra "Elra" Harsard
-*Half-elf mage. Mage.*
+*Half-elf mage, neutral good. Mage.*
 
 **Roleplaying Information**
 
@@ -515,7 +515,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Osco Salibuck
-*Lightfoot halfling rogue. Rogue (stat block TBD).*
+*Lightfoot halfling rogue, chaotic good. Rogue.*
 
 **Roleplaying Information**
 
@@ -538,7 +538,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Lord Torlyn Wands
-*Illuskan human wizard. Mage.*
+*Illuskan human wizard, chaotic good. Mage.*
 
 **Roleplaying Information**
 
@@ -561,7 +561,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Eiruk Weskur
-*Chondathan human priest of Oghma. Priest.*
+*Chondathan human priest of Oghma, neutral good. Priest.*
 
 **Roleplaying Information**
 
@@ -584,7 +584,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Harug Shieldsunder
-*Shield dwarf fighter. Veteran.*
+*Shield dwarf fighter, lawful neutral. Veteran.*
 
 **Roleplaying Information**
 
@@ -607,7 +607,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 ---
 
 #### Parlek Lateriff
-*Chondathan human rogue. Spy.*
+*Chondathan human rogue, true neutral. Spy.*
 
 **Roleplaying Information**
 
@@ -649,6 +649,8 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 **Morale.** In a fight, Hlam would wade in with Sacred Fists discipline, targeting the most dangerous threat with precise, overwhelming force. He bows once. That is the warning.
 
 **Relationships.** Hlam is the grand master of the Order of the Even-Handed (devoted to Tyr), a staunch ally of the Order of the Gauntlet, and an old acquaintance of Aurinax the gold dragon. PCs who negotiate with Aurinax in Hlam's presence gain advantage on Persuasion checks.
+
+---
 
 #### Hadra Stonebread
 *Human retired cook, lawful neutral. Commoner.*
@@ -1830,8 +1832,52 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 **Morale.** In a fight, Gorath fights without aggression and without mercy, in that order. He does not pursue. His job is to survive and report.
 
 **Relationships.** Gorath is the Xanathar Guild's Tier 1 response team leader (four duergar, sent when the Guild wants a lesson taught rather than a person killed), the formal notice that Xanathar knows what the party did, and the first escalation before Korgstrod's team and then Noska's arrive.
-- Grevik Nass (half-orc; Xanathar plant deployed as tavern Master Cook candidate; files patron intelligence to the Guild after 2 tendays; appears as Appendix F Master Cook candidate)
-- Tobrin Ashvale (Xanathar plant; tavern staff infiltration role; referenced in Appendix F response team trigger conditions alongside Grevik Nass; details to develop with profile)
+
+---
+
+#### Grevik Nass
+*Half-orc cook, neutral evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Grevik should inspire immediate comfort with his competence and no-fuss manner, and retroactive unease when the party discovers the kitchen window takes in every table.
+
+**Emotions.** Grevik most often feels professional pride in clean work, patient attention to patron patterns, quiet contempt for sloppiness, calm deliberateness, and genuine satisfaction when a dish lands exactly right. Underneath all of it sits background guilt he does not examine.
+
+**Motivations.** Grevik wants to compile an accurate patron intelligence file for the Xanathar Guild (who dines here, with whom, and about what), make the food worth recommending so no one looks closely at the cook, and complete the assignment without drawing a replacement.
+
+**Inspirations.** When playing Grevik, channel Gustavo Fring (*Breaking Bad*), Thomas Barrow (*Downton Abbey*), and The Operative (*Serenity*).
+
+**Character Information**
+
+**Persona.** To the world, Grevik is a half-orc cook who lets the food do the talking: attentive to the pass, quiet at the bar, no trouble to manage. To those who work alongside him, he notes which tables order twice, which guests lower their voices, and which visitors he sees again without a reservation. Deep down, he has filed more detailed intelligence from this kitchen than the Guild expected, and the thought that the tally might make him harder to release than to retire has started to surface at quiet moments.
+
+**Morale.** In a fight, Grevik yields position, retreats through the kitchen, and gets a runner to the Guild within the hour. He is an intelligence operative and fights nothing he can avoid.
+
+**Relationships.** Grevik is a Xanathar Guild operative embedded as the tavern's Master Cook candidate, a man whose two-tenday file will give Xanathar a usable picture of Trollskull's patronage, and one of two Guild plants in the tavern staff alongside Tobrin Ashvale, whose position behind the bar gives the Guild a second angle on the same room.
+
+---
+
+#### Tobrin Ashvale
+*Human bartender, neutral evil. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Tobrin should inspire comfort with his attentiveness (he remembers names, usuals, and passing remarks from two visits ago) and retroactive unease when the party realizes none of that warmth is accidental.
+
+**Emotions.** Tobrin most often feels practiced ease, attentive warmth (professional and deployed), patient calculation beneath a pleasant surface, mild contempt for patrons who volunteer everything, quiet satisfaction in a bar kept well, and the flat calm he allows himself only when alone.
+
+**Motivations.** Tobrin wants to maintain a running intelligence file on Trollskull's patrons, visitors, and overheard conversations; keep the bar warm enough that no one suspects the bartender; and use his position in the Guild's response chain to trigger escalation when the threshold is crossed.
+
+**Inspirations.** When playing Tobrin, channel Sam Malone (*Cheers*), Varys (*Game of Thrones*), and Tom Ripley (*The Talented Mr. Ripley*).
+
+**Character Information**
+
+**Persona.** To the world, Tobrin is a warm, attentive bartender who makes everyone feel like a regular. To those he trusts (meaning no one), he runs a rolling intelligence file on every patron: who meets whom, who seems nervous, who the party has been talking to. Deep down, he is one of two Guild plants in the building, the one with better social access, and he is waiting to see how long it takes anyone to notice either of them.
+
+**Morale.** In a fight, Tobrin does not fight. He disappears into the crowd and reports at the first opportunity. Once discovered, he negotiates: what he knows about the Guild's operations in this building is worth more to the party than his Guild debt, and he understands the math.
+
+**Relationships.** Tobrin is a Xanathar Guild operative embedded as the tavern's bartender, one of the Guild's two Trollskull infiltrators alongside Grevik Nass, and the trigger for the Guild's escalating response conditions (detailed in Appendix F); when the party crosses a threshold, Tobrin makes the call.
 
 ---
 
