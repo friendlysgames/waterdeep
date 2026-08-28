@@ -64,6 +64,7 @@ Primary source files:
 - **`sources/adventure-wdh.json`** — full original Dragon Heist adventure text (all chapters, keyed areas, appendices). Consult before writing any remix scene.
 - **`sources/adventure-wdmm.json`** — full original Dungeon of the Mad Mage text. Consult only for integration seeds; Undermountain remix is future work.
 - **`sources/1–30 *.pdf`** — the Alexandrian Remix PDFs. Use for structural design, clue architecture, and heist frameworks; never copy prose.
+- **`sources/Other remix files/`** — 17 Patreon NPC character guides, villain combat tactics, event guides, and heist prep notes. Consult when writing profiles for major NPCs (Lif, Nat, Renaer, Meloon, Davil, Victoro, Ammalia, Jarlaxle, Vajra, the urchins) or planning villain encounters.
 
 ---
 
@@ -74,7 +75,7 @@ Primary source files:
 | `campaign/structure/ch1-beginning.md` | Chapter 1 draft — Arc A (Finding Floon), session zero, opening scene |
 | `campaign/structure/ch2-city-of-splendors.md` | Chapter 2 draft — Arc B (Trollskull Alley), city lore, faction recruitment |
 | `campaign/structure/ch3-running-the-campaign.md` | Chapter 3 draft — structural rules: Three Clue Rule, heist framework, response teams, calendar |
-| `campaign/structure/appendix-a-npc-roster.md` | Appendix A — full NPC roster for DM reference |
+| `campaign/structure/appendix-a-npc-roster.md` | Appendix A — complete NPC roster: 55 Tier 1–2 profiles, 38 Tier 3 profiles, 1 Tier 4 profile (Senna Vael), 25 tavern staff candidates; all profiles fully prose-polished |
 | `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
 | `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version — temp files in `campaign/structure/temp/` may diverge if edited post-assembly. |
 | `campaign/structure/appendix-e-villain-factions.md` | Appendix E — villain faction operations guide; all four villain factions (Xanathar, Manshoon, Cassalanters, Bregan D'Aerthe), NPC rosters, outpost entries, response teams, revelation lists, escalation framework, inter-faction dynamics. Structuring draft (no profiles, no callouts). |
@@ -172,6 +173,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Mission depth:** Faction missions must not reduce to a single skill check. Each mission needs multiple decision points, scene beats, or mechanical layers — social negotiation followed by an encounter, investigation that branches on player choices, a combat with a secondary objective, or a multi-stage resolution. A mission where the players roll once and the outcome is determined is not a mission, it is a wandering encounter. If the source mission is thin (one check, no scene structure), expand it.
 
 **Git commits:** Commit to git at the end of every turn in which files were changed. The commit message must explain *why* the changes were made — not just what changed. Reference the design decision or consistency issue that drove each edit. This preserves reasoning across context compaction, so future sessions can understand not just what is in the files but why it got there.
+
+**Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits (deleting and re-writing the handoff) that pollute the git log. The handoff must be the last commit of every session.
 
 ---
 
