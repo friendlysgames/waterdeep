@@ -241,21 +241,21 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Roleplaying Information**
 
-**Resonance.** Lif should inspire sympathy with his devotion to a tavern he cannot leave, endearment when his poltergeist helpfulness becomes the staff's most reliable feature, and unease when he refuses to serve a stranger without explanation.
+**Resonance.** Lif should inspire sympathy with his devotion to a tavern he cannot leave, endearment when his poltergeist helpfulness becomes the staff's most reliable feature, and dread when the party realizes why he has been warning them away from the cellar this whole time.
 
-**Emotions.** Lif most often feels territorial pride, stubborn loyalty, mischievous satisfaction at startling newcomers, settled contentment when the tavern is full, desperate protectiveness, and an inarticulate grief at what he cannot remember about being alive.
+**Emotions.** Lif most often feels territorial pride, stubborn loyalty, mischievous satisfaction at startling newcomers, settled contentment when the tavern is full, desperate protectiveness of the cellar door, and an inarticulate grief at what he cannot remember about being alive.
 
-**Motivations.** Lif wants to see the tavern reopened, maintained to his standards, and protected from anyone who would harm it or its patrons. He cannot articulate why. The work itself is the reason.
+**Motivations.** Lif wants to see the tavern reopened, maintained to his standards, and protected from anyone who would harm it or its patrons. He wants no one near the cellar, especially children, for reasons that predate anything he can still put into words.
 
 **Inspirations.** When playing Lif, channel Dobby (*Harry Potter*), Casper (*Casper*), and WALL-E (*WALL-E*).
 
 **Character Information**
 
-**Persona.** To the world, Lif is a poltergeist who breaks plates and writes "Closing time!" on dusty surfaces. To those who appease him, he is a half-elf barkeeper who pulls out chairs, delivers drinks, takes coats, and locks doors. Deep down, maintaining this tavern was his life's work, and death did not change the job description.
+**Persona.** To the world, Lif is a poltergeist who warns strangers away from the cellar in soot on the mirror and hurls crockery at anyone who tries the hatch anyway. His portrait behind the bar shifts with the party's standing: flat disapproval when they arrive, skeptical assessment as they work, a small smile once they have earned it. To those who appease him, he pulls out chairs, delivers drinks, and locks up at night. Deep down, he died holding a hag at bay on the last night of Fleetswake, long enough for the patrons to escape. The work of keeping this tavern safe did not stop when his body did.
 
-**Morale.** In a fight, Lif would hurl objects at anyone threatening the tavern or its patrons. At half hit points, he flees to the turret and fights to the end. He cannot be reasoned with when the tavern is in danger.
+**Morale.** In a fight, Lif hurls whatever is bolted down at anyone threatening the tavern or its patrons. At half hit points, he retreats to the turret. He cannot be reasoned with when someone is heading for the cellar.
 
-**Relationships.** Lif is the permanent resident of Trollskull Manor, a spectral colleague of whatever bartender the party hires (his signature drink "The Half-Elf" adds +2 to Revenue Rolls), and a silent judge of every patron who walks through the door.
+**Relationships.** Lif is the permanent resident of Trollskull Manor, a spectral colleague of whatever bartender the party hires (his signature drink "The Half-Elf" adds +2 to Revenue Rolls), the silent guarantor of the urchins' kitchen arrangement in exchange for their staying away from the cellar hatch, and a judge of every patron who walks through the door. A portrait of his love interest stands on an easel in the turret peak; no one living knows her name.
 
 ---
 
@@ -274,7 +274,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Nat is a lanky ten-year-old who communicates through a sign language she invented and taught the others. To those she trusts, she is the one who scouts ahead, picks the safest escape route, and carries the most food. Deep down, she is the oldest and she knows it, and the weight of that is heavier than anyone her age should carry.
+**Persona.** To the world, Nat is a lanky ten-year-old who is deaf and communicates through a sign language she invented and taught the others. To those she trusts, she is the one who scouts ahead, picks the safest escape route, and carries the most food. Deep down, she is the oldest and she knows it, and the weight of that is heavier than anyone her age should carry.
 
 **Morale.** In a fight, Nat grabs the others and runs. She scouts an exit before she scouts an enemy.
 
@@ -360,7 +360,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Resonance.** Renaer should inspire sympathy with the weight of his father's name, admiration for his refusal to become Dagult, and gratitude with his willingness to fight alongside the party without asking for credit.
 
-**Emotions.** Renaer most often feels steady determination, self-deprecating humor, fierce loyalty, suppressed anger toward his father, open warmth toward friends, and guilt about the dangers his name attracts.
+**Emotions.** Renaer most often feels steady determination, self-deprecating humor, fierce loyalty, suppressed anger toward his father, open warmth toward friends, guilt about the dangers his name attracts, and a growing, private alarm at what Meloon has become.
 
 **Motivations.** Renaer wants to live on his own terms without his father's shadow, protect the people who get hurt because of the Neverember name, and prove that estrangement from Dagult is conviction rather than cowardice.
 
@@ -368,11 +368,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Renaer is the estranged son of Dagult Neverember, striking good looks, a love of drink, and a flair for diplomacy. To those he trusts, he is self-deprecating about his name, deflects sincerity with humor, and becomes completely serious when the Vault or Floon comes up. Deep down, he shares his father's charm and intelligence but lives in fear that he also shares the belligerence, ill temper, and bad judgment.
+**Persona.** To the world, Renaer is the estranged son of Dagult Neverember: striking, well-read, a collector of rare tomes, and the most useful person at any table in Waterdeep because he knows the city's factions, geography, and recent politics the way other people know their own street. He owns more property than anyone in the city, all of it inherited from his mother (Dagult received nothing). To those he trusts, he is self-deprecating about his name, deflects sincerity with humor, and becomes completely serious when the Vault or Floon comes up. Deep down, he shares his father's charm and intelligence but lives in fear that he also shares the belligerence, ill temper, and bad judgment.
 
 **Morale.** In a fight, Renaer draws whatever weapon is available and positions himself beside the most vulnerable ally. His trust is easily gained but impossible to restore once broken.
 
-**Relationships.** Renaer is the estranged son of Dagult Neverember (former Open Lord, current Lord of Neverwinter), the devoted friend of Floon Blagmaar, a Harper-adjacent ally of Mirt and Remi Haventree, and the leader of the Black Tears (his personal circle of trusted companions).
+**Relationships.** Renaer is the estranged son of Dagult Neverember (former Open Lord, current Lord of Neverwinter), the devoted friend of Floon Blagmaar, the closest living friend of Meloon Wardragon (whose changed behavior has him alarmed), a man who rescued Vajra Safahr from Khondar Naomal's agents and left the Blackstaff permanently in his debt, a Harper-adjacent ally of Mirt and Remi Haventree, and the leader of the Black Tears (his personal circle of trusted companions).
 
 ---
 
@@ -437,11 +437,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Meloon is a handsome, formidable warrior who loves a good fight, buys rounds, and tells stories about dead friends with complete emotional openness. To those he trusts, he sees himself in young adventurers and says so. Deep down, the real Meloon has been gone for three months, replaced by Nihiloor's intellect devourer wearing his body like a suit. The creature performs warmth; the real man felt it.
+**Persona.** To the world, Meloon is a barrel-chested warrior who swaggers through the Yawning Portal in the third person and offers increasingly implausible excuses for why Azuredge is not at his hip. To those who knew him before, the wrongness is harder to name than to describe: he orders drinks he never used to like, misremembers details from fights he was famous for, and gives directions through the sewers that lead straight into Xanathar patrols. Deep down, the real Meloon has been gone for three months, replaced by Nihiloor's intellect devourer wearing his body like a suit. The creature performs warmth with slight miscalibrations; the real man felt it.
 
-**Morale.** The real Meloon fights with joy and positions himself to protect allies. The possessed Meloon fights competently but subtly steers combat outcomes to serve Xanathar's interests. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
+**Morale.** The possessed Meloon fights competently but steers outcomes to serve Xanathar's interests; each dawn he must win a contest of wills with Azuredge to wield it, and calling it back after a throw may still fail. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
 
-**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr), a close friend of Renaer Neverember, a puppet of Nihiloor (via intellect devourer), and a regular at the Yawning Portal whose change in behavior the party should notice before anyone tells them.
+**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (who has noticed the change and is quietly alarmed), a puppet of Nihiloor's intellect devourer on behalf of the Xanathar, and a Yawning Portal regular whose deterioration Bonnie has already clocked, her surface-thought-reading telling her something is deeply wrong.
 
 ---
 
@@ -958,11 +958,11 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Davil is the Master of Opportunities and Negotiations, a sun elf who makes friends easily and negotiates deals with grace, even while drunk, using an elven lute as a spellcasting focus. To those he trusts, he is a retired adventurer who joined the Zhentarim with his companions and frames the group as helping people in need. Deep down, he withholds explanation and lets things sit, showing interest without revealing why, and he was fond of Skeemo in a way he does not say aloud.
+**Persona.** To the world, Davil is the Master of Opportunities and Negotiations: a sun elf who makes friends easily, negotiates deals with grace even while drunk, speaks with a lilt he attributes to his elven heritage, and wears a charm bracelet hung with small trophies from monsters the Doom Raiders have killed. He conducts business from a curtained room on the Yawning Portal's second floor, with a permanent suite on the third. To those he trusts, he is a retired adventurer who joined the Zhentarim with his companions and frames the whole enterprise as helping people in need. Deep down, he withholds explanation and lets things sit, showing interest without revealing why, and he was fond of Skeemo in a way he does not say aloud.
 
 **Morale.** In a fight, Davil would attempt negotiation first, fight with a swashbuckler's precision second, and retreat to preserve the Doom Raiders' leadership structure third. After his arrest and return, he fights more deliberately: the warmth is still there, quieter now.
 
-**Relationships.** Davil is the cell leader of the Doom Raiders (Waterdeep Zhentarim), the faction contact for Zhentarim-aligned PCs, a keeper of a room at the Yawning Portal, and a colleague of Istrid, Tashlyn, Ziraj, and the traitor Skeemo Weirdbottle.
+**Relationships.** Davil is the cell leader of the Doom Raiders (Waterdeep Zhentarim), the faction contact for Zhentarim-aligned PCs, a permanent resident at the Yawning Portal (second floor business room, third floor suite), a colleague of Istrid, Tashlyn, Ziraj, and the traitor Skeemo Weirdbottle, and the unknowing target of Nihiloor's intellect devourer, with Meloon watching him and waiting for a clean opportunity to kill him without witnesses.
 
 ---
 
@@ -1430,7 +1430,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Victoro is a devilishly handsome half-elf banker, philanthropist, and worshipper of Lathander whose profits fund charity. To those he trusts, he is a secret priest of Asmodeus whose pact traded his three children's souls for power. Deep down, everything the Cassalanters tell the PCs about their situation is technically true. They do not mention that the ritual also requires poisoning 99 people at the Founders' Day feast. He carries a ruby-tipped cane that functions as a rod of rulership.
+**Persona.** To the world, Victoro is a devilishly handsome half-elf banker, philanthropist, and worshipper of Lathander whose profits fund charity, with an unreadable smile and a genuine warmth toward his younger children that makes the rest of what he is harder to see. To those he trusts, he is a secret priest of Asmodeus whose pact traded his three children's souls for power. Deep down, everything the Cassalanters tell the PCs about their situation is technically true; they do not mention that the ritual also requires poisoning 99 people at the Founders' Day feast. He cannot bring himself to go to the attic where Osvaldo is; that vigil belongs to Ammalia. He carries a ruby-tipped cane that functions as a rod of rulership.
 
 **Morale.** In a fight, Victoro uses his priestly magic and social authority to de-escalate, negotiate, or bribe. If combat is unavoidable, he fights to protect his family and his secret, and he is slow to anger but devastating when pushed.
 
@@ -1453,7 +1453,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Character Information**
 
-**Persona.** To the world, Ammalia is well-mannered, well-read, well-traveled, and known for driving a hard bargain. Her butterfly garden is the most beautiful in Waterdeep, and she supervises her youngest children at play there. To those she trusts, she worships Asmodeus alongside Victoro and shares the same pact and the same desperation. Deep down, while Victoro hunts Neverember's gold, Ammalia makes the plans. The feast, the poison, the 99 souls: these are her logistics.
+**Persona.** To the world, Ammalia is well-mannered, well-read, well-traveled, and known for driving a hard bargain. Her butterfly garden is the most beautiful in Waterdeep, and she supervises her youngest children at play there. To those she trusts, she worships Asmodeus alongside Victoro and shares the same pact and the same desperation. Deep down, while Victoro hunts Neverember's gold, Ammalia makes the plans: the feast, the poison, the 99 souls. She also goes to the attic where Osvaldo is bound, and reads him his favorite stories from a chair placed just outside the shielding circle while he curses her name and pleads with her to save him.
 
 **Morale.** In a fight, Ammalia grabs the twins and runs. She will spend Victoro's life to buy that retreat without hesitating, and her arcane magic is precise enough to cover an exit while collapsing a hallway behind her.
 
