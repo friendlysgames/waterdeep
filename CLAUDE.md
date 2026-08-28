@@ -65,6 +65,7 @@ Primary source files:
 - **`sources/adventure-wdmm.json`** — full original Dungeon of the Mad Mage text. Consult only for integration seeds; Undermountain remix is future work.
 - **`sources/1–30 *.pdf`** — the Alexandrian Remix PDFs. Use for structural design, clue architecture, and heist frameworks; never copy prose.
 - **`sources/Other remix files/`** — 17 Patreon NPC character guides, villain combat tactics, event guides, and heist prep notes. Consult when writing profiles for major NPCs (Lif, Nat, Renaer, Meloon, Davil, Victoro, Ammalia, Jarlaxle, Vajra, the urchins) or planning villain encounters.
+- **`sources/Appendix_B_-_Player_Factions.md`**, **`sources/Appendix_C_-_Player_Faction_Missions.md`**, **`sources/Appendix_D_-_Running_the_Tavern.md`** — Alexandrian Remix appendices in markdown format; supplement the corresponding PDFs. Consult alongside `3. Player Character Factions.pdf` and `27. Addendum A Night in Trollskull Manor.pdf`.
 
 ---
 
@@ -78,9 +79,10 @@ Primary source files:
 | `campaign/structure/appendix-a-npc-roster.md` | Appendix A — complete NPC roster: 55 Tier 1–2 profiles, 38 Tier 3 profiles, 1 Tier 4 profile (Senna Vael), 25 tavern staff candidates; all profiles fully prose-polished |
 | `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
 | `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version — temp files in `campaign/structure/temp/` may diverge if edited post-assembly. |
-| `campaign/structure/appendix-e-villain-factions.md` | Appendix E — villain faction operations guide; all four villain factions (Xanathar, Manshoon, Cassalanters, Bregan D'Aerthe), NPC rosters, outpost entries, response teams, revelation lists, escalation framework, inter-faction dynamics. Structuring draft (no profiles, no callouts). |
+| `campaign/structure/appendix-e-villain-factions.md` | Appendix E — villain faction operations guide; all four villain factions (Xanathar, Manshoon, Cassalanters, Bregan D'Aerthe), NPC rosters, outpost entries, response teams, revelation lists, escalation framework, inter-faction dynamics. Structuring draft (no sidebar callouts); Nihiloor's three-project breakdown written in full. |
 | `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Prose-polished, structure draft. |
 | `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. May be deleted — content is preserved in appendix-d. |
+| `sources/SOURCE_GUIDE.md` | Master map of every source file: filename, origin, contents summary, which arcs to consult it for, cross-references, and caveats. Read before writing any arc or appendix. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
 
 ---
