@@ -1456,6 +1456,8 @@ Vajra now knows two things she did not know before: Manshoon's Splinter is activ
 **Hook**
 Four words in a Sending: *"Bronze dragon. Deepwater Harbor. Intentions unknown. Come to the Tower."* Vajra has four vials of *potion of water breathing* on the desk when the party arrives. Thirty minutes each. "Move with purpose," she says.
 
+*Hook variant — The Umberlee approach:* During Fleetswake, Umberlee's tithes are going missing from the deepest harbor moorings. The Dread High Priest of the Queenspire (a Darfellan named Meritide Blackfin) contacts the party directly — through a dockside priest, a message in a sailor's tankard, or a locathah messenger — and gives them 48 hours to find the thief before the goddess calls a wave. The priest provides gillweed or potions of water breathing. The party brings this problem to Vajra (through Renaer, or because they have Renown 1+ with Force Grey), and she folds it into Mission 2 as the same underwater assignment. This variant roots the mission in a city-wide stakes moment rather than a Blackstaff Sending and is better suited to parties with a connection to the harbor, the Enclave, or Umberlee's faithful.
+
 **Background** *(DM only)*
 **Zelifarn** is a young bronze dragon who has taken up residence near an old elvish wreck forty feet below the harbor surface. He has been there eleven days. He has surfaced twice — once to examine a fishing boat, once to speak briefly with a sailor, who fainted. He has not harmed anyone. He has also noticed something attached to the hull of the *Eyecatcher*, the Sea Maidens Faire's largest vessel, anchored in the deep harbor: a secondary structure below the waterline that does not match any conventional hull architecture. He would examine it himself but the ship's crew discouraged his approach.
 
@@ -2113,6 +2115,49 @@ Complications:
 
 **Aftermath**
 J.B. Nevercott pays the 80 gp in person at the Yawning Portal two days after publication. He is cheerful and says nothing about the front page. He asks how the party is getting on in the city, what they've seen, whether they've met interesting people. He is genuinely curious about their answers. He takes his leave after twenty minutes and tips well.
+
+---
+
+### Mission 2b — The Betrayal Pitch
+**Level 3 | 2 renown | 100 gp from "J.B. Nevercott" + one operational token**
+
+*This mission is optional and positioned between Missions 2 and 3. It requires the party to have met J.B. Nevercott in Mission 2. It functions as Jarlaxle's loyalty and competence test and as the first moment the party can figure out that Zardoz Zord and J.B. Nevercott are the same man.*
+
+**Hook**
+J.B. Nevercott finds the party again — same easy manner, same coat, same sense that the meeting was not accidental. He has a job. "There's a vessel in the harbor, the *Eyecatcher* — the Sea Maidens Faire flagship. Captain Zardoz Zord's personal ship. I need a specific item retrieved from his stateroom. A carved obsidian compass, about so." He holds his thumb and index finger two inches apart. "The captain is going to be ashore this evening for a performance. His crew is reliable but not alert. I can provide you with a skiff and a suggested route to the hull."
+
+He names a price. He does not explain why he wants the compass or why it's aboard a carnival ship.
+
+**Background** *(DM only)*
+There is no compass. Jarlaxle wrote this job himself. He is robbing himself — the *Eyecatcher* is his ship, "Zardoz Zord" is his persona, and he knows exactly what the party will find inside. What he is actually doing: testing whether the party can plan and execute a shipboard infiltration, how they handle unexpected complications, and whether they'll take a job without sufficient information. The "crew" aboard the *Eyecatcher* tonight is running at half complement, and the "alert" members are specifically instructed not to catch anyone who gets as far as the stateroom corridor — but they will make the approach feel earned.
+
+The stateroom contains no obsidian compass. It contains the *Ledger of Commissioned Automata* — Jarlaxle's complete record of every Nimblewright sold, with purchaser names, delivery addresses, programming notes, and the voided Cassalanter entry. Jarlaxle left it visible. He wants to see if the party is smart enough to take the thing they weren't asked to take.
+
+**Act 1 — Planning the Approach**
+The *Eyecatcher* is anchored in the deep harbor, accessible by skiff. The party has one hour before Zardoz's shore performance ends. Options:
+
+- *Swimming approach:* Cold harbor water, 60-foot swim to the hull. **DC 12 Athletics** checks; characters with a swim speed succeed automatically.
+- *Skiff:* J.B. Nevercott provided one. A lantern at the stern can be shuttered. Docking at the service ladder is quiet if the party doesn't rush.
+- *From below:* Characters with water breathing access can approach the keel-mounted *Scarlet Marpenoth* — a submarine hatch. It is not locked from below. It leads into the hull's lower deck, thirty feet from the stateroom stairs.
+
+**Act 2 — The Ship**
+Four crewmembers are visible topside, three below. All are drow in disguise — a **DC 14 Wisdom (Insight)** check on sustained observation reveals that they move like trained soldiers, not sailors. The party can stealth past all of them with **DC 12 Dexterity (Stealth)** group checks. One crewmember per deck is positioned where a failed check has them moving toward the sound; on a second failure, they block the corridor without engaging — they are watching, not stopping.
+
+**The stateroom:** Unlocked. A desk, a weapons rack, an elaborate wardrobe, and a chart table. On the chart table: the Ledger of Commissioned Automata, open to the most recent entries. A **DC 11 Intelligence (Investigation)** check identifies it as a customer registry. A **DC 13** check reads the voided Cassalanter entry and understands what a cancellation means: the Cassalanters were buying a Nimblewright — a spy — and then weren't. The obsidian compass is not here. There is a carved jade compass on the wardrobe shelf. It was never specified as obsidian.
+
+**Act 3 — The Exit**
+Zardoz returns early from the performance — not by accident. He boards just as the party is making their exit. He sees them. He smiles.
+
+He does not stop them. He says: "I do hope J.B.'s commission was specific enough. He can be vague." He lets them get back to the skiff. Two days later, J.B. Nevercott meets them to collect the compass (or the jade one, or nothing — whatever they brought). He is not surprised they found the Ledger instead. He pays what he promised, plus a bonus, without explanation.
+
+**Renown Opportunities**
+- +1: The party returns something to J.B. Nevercott — compass, Ledger, or both.
+- +1 (supplementary): The party takes the Ledger regardless of the commission, recognizing it as more valuable than whatever they were nominally sent for. Jarlaxle marks this. Krebbyg, when told: "They make good decisions under pressure." Jarlaxle, when told: "Excellent. Send them Mission 3."
+
+**Aftermath**
+The Ledger of Commissioned Automata, if kept, becomes a functional investigation prop for Arc C and a revelation tool for Arc H. The voided Cassalanter entry specifically — Ammalia cancelled her Nimblewright order, losing a deposit, to prevent Jarlaxle's scrying device from entering her home — tells a careful reader more about the Cassalanters' wariness than any social interaction would. If the party shares it with a faction contact, Mirt reacts with quiet alarm; Vajra asks three questions and takes notes; Jalester photographs it mentally and thanks them with unusual sincerity.
+
+The party has also seen Zardoz Zord, met J.B. Nevercott, and now has a memory that the two men had the same smile. Whether they put this together before Arc H is a function of player attention, not plot mechanics.
 
 ---
 

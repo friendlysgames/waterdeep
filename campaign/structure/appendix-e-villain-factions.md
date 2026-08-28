@@ -71,7 +71,11 @@ His agenda in the Grand Game is territorial. Xanathar already controls the vault
 
 **Nar'l Xibrindas** (DH p. 213) — Xanathar's advisor and secret Bregan D'Aerthe asset. Nar'l reports to Jarlaxle by *Sending* spell and has been operating in place for three years. The smokepowder delivery referenced in the Korgstrod correspondence was his operation.
 
-**Nihiloor** (DH p. 213) — a mind flayer who handles Xanathar's most sensitive intelligence operations. Nihiloor's methods leave little behind for PCs to question.
+**Nihiloor** (DH p. 213) — a mind flayer who officially handles Xanathar's most sensitive intelligence operations. In practice, Nihiloor is running three concurrent projects that extend well beyond his brief:
+
+1. **The Infiltration.** Intellect devourers placed inside city government officials — Watch officers, guild administrators, minor functionaries — give Nihiloor eyes throughout Waterdeep's bureaucracy. Three Harper assets are already compromised (Mirt knows about one). The operation has been running for eight months.
+2. **The Experiments.** Creatures captured during Arena operations are being subjected to psionic modification in the lair's deeper chambers. The goal is unclear to anyone but Nihiloor.
+3. **The Puppet.** Nihiloor has been exerting psionic domination over Xanathar himself for the past four months. The original Xanathar's responses have been gradually suppressed and replaced with Nihiloor's preferences, expressed through the beholder's personality. Xanathar is, in the operational sense, a puppet — a nine-foot-diameter gasbag with eye-rays and the city's most feared crime network, controlled by the mind flayer standing beside him. The paranoia, the goldfish, the executions — all authentic. The strategic decisions are not. Evidence for this exists in Nihiloor's research chamber in the deep lair and is a primary secondary objective for any party thorough enough to find it. Its long-term payoff is the Seadeeps colony (Undermountain Level 17), where Nihiloor's true allegiance runs.
 
 **Noska Ur'Gray** (DH p. 213) — a shield dwarf enforcer, Xanathar's heaviest response option. Leads the third-tier response team when earlier escalations fail.
 

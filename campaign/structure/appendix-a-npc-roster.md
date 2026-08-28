@@ -391,11 +391,11 @@ Status: All tiers profiled (16 sections complete).
 
 **Character Information**
 
-**Persona.** To the world, Durnan is a middle-aged innkeeper whose best days are behind him. To those he trusts, he is still the adventurer who keeps Grimvault under the bar and a double crossbow behind the bottles. Deep down, he has seen things in Undermountain that he will take to his grave, and his blunt warnings to low-level adventurers are not cruelty but grief.
+**Persona.** To the world, Durnan is a middle-aged innkeeper whose best days are behind him. To those he trusts, he is still the adventurer who keeps Grimvault under the bar and a double crossbow behind the bottles. Deep down, he has seen things in Undermountain that he will take to his grave, and his blunt warnings to low-level adventurers are not cruelty but grief. What he shows to nobody: he is a secret Masked Lord of Waterdeep, and the city's welfare is not a cause he supports — it is a charge he keeps.
 
 **Morale.** In a fight, Durnan would vault the bar, greatsword in hand, and end it. He prefers fists or a flung tankard for brawls, saves steel for threats that deserve it, and ejects troublemakers with a single word: "Out."
 
-**Relationships.** Durnan is the owner of the Yawning Portal, a reluctant acquaintance of Volo (whom he tolerates), a silent ally of Mirt, and a man who rarely says two words when one will do. If he has living family, he does not speak of them.
+**Relationships.** Durnan is the owner of the Yawning Portal, a reluctant acquaintance of Volo (whom he tolerates), a silent ally of Mirt, and a man who rarely says two words when one will do. If he has living family, he does not speak of them. He is one of the anonymous Masked Lords of Waterdeep — and the secret founder of the Red Sashes, a vigilante group whose fighters pose as regular Yawning Portal patrons and are magically sworn to his service. Neither of these facts is discoverable through normal play, and Durnan will not confirm them under any pressure. What the party will eventually notice: when Waterdeep is genuinely threatened, the old innkeeper tends to know about it before the Watch does.
 
 ---
 
@@ -788,7 +788,7 @@ Status: All tiers profiled (16 sections complete).
 
 **Morale.** In a fight, the Black Viper feints, disengages, and finds an exit. She does not kill and she does not linger. The party is more useful to her as a distraction than as a casualty.
 
-**Relationships.** The Black Viper is Lady Esvele Rosznar of House Rosznar (a member the house would prefer to forget if she were caught), an independent cat burglar with no faction affiliation, a wildcard who can be recruited for a Cassalanter Villa infiltration with a DC 14 Persuasion or Intimidation check, and a recurring complication in any noble estate the party decides to rob.
+**Relationships.** The Black Viper is Lady Esvele Rosznar of House Rosznar (a member the house would prefer to forget if she were caught), an independent cat burglar with no faction affiliation, a wildcard who can be recruited for a Cassalanter Villa infiltration with a DC 14 Persuasion or Intimidation check, and a recurring complication in any noble estate the party decides to rob. Her base of operations — the Viper Den — sits directly above the Brandath Crypts on the approaches to the Vault of Dragons, which means she has mapped the crypt access in more detail than any living person outside the Cassalanter household. In Arc G she attends the Cassalanter event as a social guest and slips away mid-dinner to rob her hosts, creating a Batman/Catwoman dynamic with any party also running reconnaissance that evening. In Arc J her knowledge of the crypt is an asset worth cultivating or a complication worth managing, depending on what she has decided to do about the vault herself.
 
 ---
 
@@ -812,6 +812,29 @@ Status: All tiers profiled (16 sections complete).
 **Morale.** In a fight, Kelso identifies the exit before he identifies the enemy, calls his people by name, and leaves through the gap in the wall he had scouted on arrival. He does not die for a contract.
 
 **Relationships.** Kelso is the leader of the Shard Shunners wererat gang (Dock Ward), the man Emmek Frewn hired to sabotage Trollskull Manor, a recurring contact in Doom Raiders mission three and Order of the Gauntlet mission three, and a man whose sister Danika works alongside him in the gang's operations.
+
+---
+
+#### Filthy Meg
+*Merfolk, neutral. Spy (information broker).*
+
+**Roleplaying Information**
+
+**Resonance.** Filthy Meg should inspire unease with the gap between what she looks like and what she actually knows; grudging respect once the party understands how deep her network runs; and wariness at a contact who serves two of the city's most dangerous players and answers to neither.
+
+**Emotions.** Filthy Meg most often feels calm professional assessment, mild contempt for clients who underestimate her, quiet satisfaction at holding information others would pay anything for, genuine protectiveness toward the Field Ward homeless population she uses as eyes, and dark amusement at Waterdeep's pretensions.
+
+**Motivations.** Meg wants accurate intelligence she can sell at the right price, to maintain the independence that makes her genuinely useful, and to keep her Field Ward network fed and overlooked.
+
+**Inspirations.** When playing Filthy Meg, channel Madame de Pompadour (information as power), Tyrion Lannister's spymaster instincts (*Game of Thrones*), and Niska (*Firefly*) — the businesslike menace of someone who operates outside every faction's rules.
+
+**Character Information**
+
+**Persona.** To most of Waterdeep, Filthy Meg doesn't exist — a rumor the Dock Ward tells about a tattooed merfolk woman who surfaces near Mistshore and knows things she has no business knowing. To those who have met her, she is exactly what the rumor says: heavily tattooed from collarbone to gill slits, comfortable in two fathoms of harbor water and equally comfortable trading secrets in the back of a dockside tavern. Deep down, she has decided that independence is the only leverage worth having, and she maintains it with the same care she gives to her information — methodically, without sentiment.
+
+**Morale.** If cornered, Meg drops into the harbor. If her Field Ward people are threatened, she doesn't fight — she remembers, and she sells the information about who was responsible to someone who will handle it for her.
+
+**Relationships.** Filthy Meg is an independent merfolk information broker operating out of Mistshore — she is not on Xanathar's payroll and not a BD asset, which is precisely what makes her valuable. She has existing relationships with both Jarlaxle (who gave her a ring of true sight as a retainer payment and gets harbor intelligence in return) and the Cassalanters (who have paid for Field Ward surveillance twice). Her network of homeless residents in the Field Ward is her primary collection mechanism: they notice who passes through, where people sleep, and what disappears. She resurfaces in Arc H as the best independent source on the Sea Maidens Faire's crew movements and in Arc J on Brandath Crypt foot traffic.
 
 ---
 
