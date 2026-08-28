@@ -17,7 +17,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Tally wants to run the best woodworking shop in the North Ward, keep the alley a decent place to live, and make sure his brother Melannor actually visits once in a while.
 
-**Inspirations.** When playing Tally, channel Ron Swanson (*Parks and Recreation*) for the dry craftsmanship pride, Samwise Gamgee (*The Lord of the Rings*) for the neighborly loyalty, and Kaylee Frye (*Firefly*) for the open enthusiasm about his trade.
+**Inspirations.** When playing Tally, channel Ron Swanson (*Parks and Recreation*), Samwise Gamgee (*The Lord of the Rings*), and Kaylee Frye (*Firefly*).
 
 **Character Information**
 
@@ -40,7 +40,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Embric wants to forge a weapon worthy of his efreet heritage, keep Steam and Steel prosperous alongside Avi, and be recognized as the finest weaponsmith in the North Ward.
 
-**Inspirations.** When playing Embric, channel Gordon Ramsay (*Hell's Kitchen*) for the mood swings and exacting standards, Inigo Montoya (*The Princess Bride*) for the passionate sincerity, and Zeus (*Hadestown*) for the elemental volatility that never quite crosses into cruelty.
+**Inspirations.** When playing Embric, channel Gordon Ramsay (*Hell's Kitchen*), Inigo Montoya (*The Princess Bride*), and Zeus (*Hadestown*).
 
 **Character Information**
 
@@ -63,7 +63,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Avi wants to craft armor that protects without encouraging violence, maintain peace in her marriage and her neighborhood, and honor Eldath through the discipline of her trade.
 
-**Inspirations.** When playing Avi, channel Toph Beifong (*Avatar: The Last Airbender*) for the blunt honesty and physical confidence, Winona Kirk (*Star Trek 2009*) for the steady-under-pressure calm, and Essun (*The Fifth Season*) for the quiet power held deliberately in check.
+**Inspirations.** When playing Avi, channel Toph Beifong (*Avatar: The Last Airbender*), Winona Kirk (*Star Trek 2009*), and Essun (*The Fifth Season*).
 
 **Character Information**
 
@@ -86,7 +86,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Fala wants to keep Corellon's Crown stocked with rare and useful remedies, protect their friends in the alley without drawing attention, and figure out what keeps moving in the sewer access near the cellar at night.
 
-**Inspirations.** When playing Fala, channel Luna Lovegood (*Harry Potter*) for the serene oddness and unsettling perceptiveness, Poison Ivy (*Batman: The Animated Series*) for the plant-first worldview, and Chiyo (*Princess Mononoke*) for the healer who is curious rather than frightened by dangerous things.
+**Inspirations.** When playing Fala, channel Luna Lovegood (*Harry Potter*), Poison Ivy (*Batman: The Animated Series*), and Chiyo (*Princess Mononoke*).
 
 **Character Information**
 
@@ -109,7 +109,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Vincent wants to maintain his comfortable life in Waterdeep indefinitely, learn every secret worth knowing in the city, and avoid drawing the attention of anyone powerful enough to see through his disguise.
 
-**Inspirations.** When playing Vincent, channel Hannibal Lecter (*Hannibal* TV series) for the courteous menace and real aesthetic appreciation, Crowley (*Good Omens*) for the supernatural being who has gone native among mortals, and Philip Marlowe (*The Big Sleep*) for the laconic detective cadence.
+**Inspirations.** When playing Vincent, channel Hannibal Lecter (*Hannibal* TV series), Crowley (*Good Omens*), and Philip Marlowe (*The Big Sleep*).
 
 **Character Information**
 
@@ -132,7 +132,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Rishaal wants to maintain the finest arcane bookshop in the North Ward, understand the book whose words rearrange themselves when observed, and determine why Vincent Trench keeps buying texts on planar binding.
 
-**Inspirations.** When playing Rishaal, channel Ollivander (*Harry Potter*) for the obsessive specialist who forgets social conventions, the Librarian (*Discworld*) for the territorial protectiveness over books, and Varrick (*The Legend of Korra*) for the warm, scattered-but-brilliant energy.
+**Inspirations.** When playing Rishaal, channel Ollivander (*Harry Potter*), the Librarian (*Discworld*), and Varrick (*The Legend of Korra*).
 
 **Character Information**
 
@@ -155,7 +155,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Kraddoc wants to maintain the Vintners', Distillers', and Brewers' Guild's grip on the North Ward spirit trade, prove that he knows more about drink than anyone the party employs, and visit socially without admitting that is what he is doing.
 
-**Inspirations.** When playing Kraddoc, channel Hyacinth Bucket (*Keeping Up Appearances*) for the social pretension masking insecurity, Basil Fawlty (*Fawlty Towers*) for the thin-skinned officiousness, and Anton Ego (*Ratatouille*) for the real expertise buried under the insufferable delivery.
+**Inspirations.** When playing Kraddoc, channel Hyacinth Bucket (*Keeping Up Appearances*), Basil Fawlty (*Fawlty Towers*), and Anton Ego (*Ratatouille*).
 
 **Character Information**
 
@@ -178,7 +178,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Broxley wants to get the tavern into the Fellowship of Innkeepers before anyone else causes trouble with the guild, keep the North Ward hospitable, and survive raising nine children on a halfling's budget.
 
-**Inspirations.** When playing Broxley, channel Bilbo Baggins (*The Lord of the Rings*) for the fussy hospitality and quiet courage, Mr. Weasley (*Harry Potter*) for the overwhelmed-but-devoted father, and Ted Lasso (*Ted Lasso*) for the earnest optimism that wears people down through sheer persistence.
+**Inspirations.** When playing Broxley, channel Bilbo Baggins (*The Lord of the Rings*), Mr. Weasley (*Harry Potter*), and Ted Lasso (*Ted Lasso*).
 
 **Character Information**
 
@@ -201,7 +201,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Ulkoria wants to ensure the tavern does not fall into dangerous hands again, defend Waterdeep from arcane threats (as she has done more times than she can count), and determine whether the party is worthy of the building she once called hers.
 
-**Inspirations.** When playing Ulkoria, channel Professor McGonagall (*Harry Potter*) for the stern exterior hiding fierce protectiveness, Olenna Tyrell (*Game of Thrones*) for the blunt assessments that land like verdicts, and Izumi Curtis (*Fullmetal Alchemist*) for the terrifying mentor whose scowl is her kindness.
+**Inspirations.** When playing Ulkoria, channel Professor McGonagall (*Harry Potter*), Olenna Tyrell (*Game of Thrones*), and Izumi Curtis (*Fullmetal Alchemist*).
 
 **Character Information**
 
@@ -224,7 +224,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Emmek wants to make Frewn's Brews the most successful tavern in the North Ward, see the party's establishment fail spectacularly, and never be bought out or displaced again the way his sisters bought him out of the tanning business.
 
-**Inspirations.** When playing Emmek, channel Salieri (*Amadeus*) for the mediocrity consumed by envy of natural talent, Dwight Schrute (*The Office*) for the petty scheming that is both threatening and pathetic, and Mr. Potter (*It's a Wonderful Life*) for the small-town rival whose cruelty comes from fear of irrelevance.
+**Inspirations.** When playing Emmek, channel Salieri (*Amadeus*), Dwight Schrute (*The Office*), and Mr. Potter (*It's a Wonderful Life*).
 
 **Character Information**
 
@@ -247,7 +247,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Lif wants to see the tavern reopened, maintained to his standards, and protected from anyone who would harm it or its patrons. He cannot articulate why. The work itself is the reason.
 
-**Inspirations.** When playing Lif, channel Dobby (*Harry Potter*) for the devoted service that oscillates between helpful and destructive, Casper (*Casper*) for the ghost who wants to belong, and WALL-E (*WALL-E*) for the wordless character whose personality emerges entirely through what he does.
+**Inspirations.** When playing Lif, channel Dobby (*Harry Potter*), Casper (*Casper*), and WALL-E (*WALL-E*).
 
 **Character Information**
 
@@ -259,26 +259,72 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 ---
 
-#### Nat, Jenks, and Squiddly
-*Human, human, and tiefling street urchins, neutral good. Commoners.*
+#### Nat
+*Human street urchin, neutral good. Commoner.*
 
 **Roleplaying Information**
 
-**Resonance.** The urchins should inspire endearment with their loyalty to each other, protectiveness when they get into trouble they cannot handle, and amusement with Squiddly's complete inability to think before acting.
+**Resonance.** Nat should inspire protectiveness with her fierce quiet leadership, admiration when her sign language clicks as its own complete language, and warmth when the party realizes she has been watching out for them just as carefully as she watches out for Jenks and Squiddly.
 
-**Emotions.** The trio most often feels reckless excitement, burning loyalty, hunger, hero worship toward adventurers, mischievous glee, and stubborn bravery that outstrips their size.
+**Emotions.** Nat most often feels alert watchfulness, fierce protectiveness of the other two, quick tactical assessment, stubborn determination, wary sizing-up of new adults, and rare but open joy when she trusts someone.
 
-**Motivations.** The urchins want to have adventures like real adventurers, protect each other from the dangers they keep stumbling into, and eat regularly.
+**Motivations.** Nat wants to keep Jenks and Squiddly alive, find adults worth trusting, and have adventures that are actually worth the risk.
 
-**Inspirations.** When playing the urchins, channel the Goonies (*The Goonies*) for the brave kids in over their heads, Arya Stark (*Game of Thrones*, early seasons) for Nat's fierce leadership, and Pippin (*The Lord of the Rings*) for Squiddly's act-first-think-never energy.
+**Inspirations.** When playing Nat, channel Arya Stark (*Game of Thrones*, early seasons) and Enid (*The Walking Dead*).
 
 **Character Information**
 
-**Persona.** To the world, the urchins are three North Ward kids who steal apple carts, pick pockets, and hurl snowballs at adventurers. To those they trust, Nat is a lanky ten-year-old deaf girl who leads through a sign language she invented and taught the others; Jenks is a portly nine-year-old who is shy around strangers but will charge into a frozen lake to save a friend; Squiddly is a nine-year-old tiefling with an eye patch who has never met a dare he would refuse. Deep down, they are children playing at being heroes, and the campaign will test whether the party lets them stay children.
+**Persona.** To the world, Nat is a lanky ten-year-old who communicates through a sign language she invented and taught the others. To those she trusts, she is the one who scouts ahead, picks the safest escape route, and carries the most food. Deep down, she is the oldest and she knows it, and the weight of that is heavier than anyone her age should carry.
 
-**Morale.** In a fight, Squiddly would fire toy arrows and shout insults. Nat would grab the others and run. Jenks would freeze until someone he loves is in danger, and then he would do something absurdly brave.
+**Morale.** In a fight, Nat grabs the others and runs. She scouts an exit before she scouts an enemy.
 
-**Relationships.** The urchins are regulars at Trollskull Manor (they break in after hours to sleep in the kitchen), acquaintances of Fenerus Stormcastle (the lamplighter they see on their rounds), and increasingly devoted fans of the party.
+**Relationships.** Nat is the de facto leader of the three urchins, the inventive mind behind their shared sign language, and a regular at Trollskull Manor (she and the others break in after hours to sleep in the kitchen).
+
+---
+
+#### Jenks
+*Human street urchin, neutral good. Commoner.*
+
+**Roleplaying Information**
+
+**Resonance.** Jenks should inspire endearment with his careful shyness, and shock — the good kind — when he does something absurdly brave without warning or hesitation.
+
+**Emotions.** Jenks most often feels gentle contentment when things are calm, shy discomfort around strangers, open warmth around his friends, quiet hunger, sudden iron courage when someone he loves is in danger, and a deep uncomplicated kindness he does not know is remarkable.
+
+**Motivations.** Jenks wants to stay close to Nat and Squiddly, be useful, and eat something warm.
+
+**Inspirations.** When playing Jenks, channel Samwise Gamgee (*The Lord of the Rings*) and Dustin Henderson (*Stranger Things*).
+
+**Character Information**
+
+**Persona.** To the world, Jenks is a portly nine-year-old who is shy around strangers and trails behind the others. To those he trusts, he is the one who remembers who was kind and who was not, and who would charge into a frozen lake without a second thought if Nat or Squiddly were in it. Deep down, his bravery is not heroic — it is just what he does when it matters.
+
+**Morale.** In a fight, Jenks freezes. Then, if someone he loves is in danger, he does something the party will not believe a nine-year-old just did.
+
+**Relationships.** Jenks is Nat's steadiest companion, Squiddly's reluctant foil, and an acquaintance of Fenerus Stormcastle (the lamplighter they see on their rounds).
+
+---
+
+#### Squiddly
+*Tiefling street urchin, neutral good. Commoner.*
+
+**Roleplaying Information**
+
+**Resonance.** Squiddly should inspire amusement with his absolute inability to think before acting, endearment with the loyalty underneath the chaos, and protectiveness when he gets himself into trouble Nat has to get him out of.
+
+**Emotions.** Squiddly most often feels reckless excitement, competitive urgency, burning curiosity, cheerful disregard for consequences, fierce loyalty to the other two, and brief — very brief — surprise when things go wrong.
+
+**Motivations.** Squiddly wants to do the most impressive thing possible at all times, keep up with Nat, and never back down from a dare.
+
+**Inspirations.** When playing Squiddly, channel Pippin (*The Lord of the Rings*) and Bart Simpson (*The Simpsons*).
+
+**Character Information**
+
+**Persona.** To the world, Squiddly is a nine-year-old tiefling with a leather eye patch who has never met a dare he would refuse. To those he trusts, he is the one who volunteers first, asks questions never, and assumes everything will work out. Deep down, he acts before thinking because thinking has never once stopped anything bad from happening, and he has decided this means thinking is the problem.
+
+**Morale.** In a fight, Squiddly fires toy arrows, shouts insults, and keeps going until Nat physically removes him from the situation.
+
+**Relationships.** Squiddly is the most enthusiastic member of the trio, an increasingly devoted fan of the party, and the primary reason Nat has developed such excellent contingency plans.
 
 ---
 
@@ -295,7 +341,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Volo wants to promote his latest book, protect his friends at any cost (especially Floon and Renaer), and find the next subject worthy of a Volo's Guide.
 
-**Inspirations.** When playing Volo, channel Gilderoy Lockhart (*Harry Potter*) for the self-promoting bluster that conceals real competence, Jack Sparrow (*Pirates of the Caribbean*) for the charm that makes you forget he just lied to you, and Zapp Brannigan (*Futurama*) for the gap between his self-image and reality.
+**Inspirations.** When playing Volo, channel Gilderoy Lockhart (*Harry Potter*), Jack Sparrow (*Pirates of the Caribbean*), and Zapp Brannigan (*Futurama*).
 
 **Character Information**
 
@@ -318,7 +364,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Renaer wants to live on his own terms without his father's shadow, protect the people who get hurt because of the Neverember name, and prove that estrangement from Dagult is conviction rather than cowardice.
 
-**Inspirations.** When playing Renaer, channel Zuko (*Avatar: The Last Airbender*) for the son defined by his father's sins, Faramir (*The Lord of the Rings*) for the noble who refuses to become the man his family expects, and Han Solo (*Star Wars*) for the deflecting humor that hides how much he cares.
+**Inspirations.** When playing Renaer, channel Zuko (*Avatar: The Last Airbender*), Faramir (*The Lord of the Rings*), and Han Solo (*Star Wars*).
 
 **Character Information**
 
@@ -341,7 +387,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Durnan wants to keep the Yawning Portal running, make sure no one goes into Undermountain who cannot come back, and never talk about what he saw down there.
 
-**Inspirations.** When playing Durnan, channel Clint Eastwood (*Unforgiven*) for the retired killer who speaks in single sentences, Nick Fury (*Marvel*) for the man who knows everything and shares nothing, and Al Swearengen (*Deadwood*) for the barkeeper whose establishment is his kingdom.
+**Inspirations.** When playing Durnan, channel Clint Eastwood (*Unforgiven*), Nick Fury (*Marvel*), and Al Swearengen (*Deadwood*).
 
 **Character Information**
 
@@ -364,7 +410,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Floon wants to stay close to the people who care about him, avoid the consequences of his gambling habit, and figure out what to do with a life that has coasted on good looks and better luck.
 
-**Inspirations.** When playing Floon, channel Joey Tribbiani (*Friends*) for the lovable lack of intellect paired with emotional loyalty, Ser Dontos (*Game of Thrones*) for the well-meaning man who stumbles into events far bigger than himself, and Andy Dwyer (*Parks and Recreation*) for the charm that compensates for everything he is missing.
+**Inspirations.** When playing Floon, channel Joey Tribbiani (*Friends*), Ser Dontos (*Game of Thrones*), and Andy Dwyer (*Parks and Recreation*).
 
 **Character Information**
 
@@ -387,7 +433,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** The real Meloon wants to fight alongside people he admires, honor Tymora through brave action, and protect Waterdeep. The intellect devourer wants to steer adventurers away from Undermountain, serve Xanathar's interests, and avoid detection.
 
-**Inspirations.** When playing Meloon, channel Thor (*Marvel*, early films) for the joyful warrior with open emotions, then shift to the T-1000 (*Terminator 2*) for the possessed version: same shape, wrong software, uncanny-valley errors that accumulate until the mask slips.
+**Inspirations.** When playing Meloon, channel Thor (*Marvel*, early films); once possessed, shift to the T-1000 (*Terminator 2*).
 
 **Character Information**
 
@@ -410,7 +456,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Dalakhar wanted to deliver the Stone of Golorr to the party (planning to reclaim it later for Neverember), avoid the Zhentarim and Xanathar agents closing in, and serve the man he believed was Waterdeep's rightful Open Lord.
 
-**Inspirations.** When playing Dalakhar (via Speak with Dead or flashback), channel Snape (*Harry Potter*) for the loyal operative whose devotion outlasts his life, Boba Fett (*Star Wars*, original trilogy) for the competent operative who says nothing unnecessary, and Gollum (*The Lord of the Rings*) for the desperate courier who has carried something too powerful for too long.
+**Inspirations.** When playing Dalakhar (via Speak with Dead or flashback), channel Snape (*Harry Potter*), Boba Fett (*Star Wars*, original trilogy), and Gollum (*The Lord of the Rings*).
 
 **Character Information**
 
@@ -433,7 +479,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Valetta wants to maintain the House of Inspired Hands as a center of innovation, destroy the rogue nimblewright that threatens Gond's reputation, and build constructs that serve rather than harm.
 
-**Inspirations.** When playing Valetta, channel Shuri (*Black Panther*) for the inventor who explains things by doing them, Dana Scully (*The X-Files*) for the pragmatist who keeps emotion subordinate to evidence, and Kaylee Frye (*Firefly*) for the mechanic whose enthusiasm for her craft is her entire personality.
+**Inspirations.** When playing Valetta, channel Shuri (*Black Panther*), Dana Scully (*The X-Files*), and Kaylee Frye (*Firefly*).
 
 **Character Information**
 
@@ -456,7 +502,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Elra wants to keep Renaer's circle safe, pursue her own arcane studies, and ensure that the Neverember name does not drag her friends into something they cannot handle.
 
-**Inspirations.** When playing Elra, channel Hermione Granger (*Harry Potter*) for the competent friend who has already prepared for the worst, Éowyn (*The Lord of the Rings*) for the iron will behind the social grace, and Yennefer (*The Witcher*) for the mage whose loyalty is earned, not given.
+**Inspirations.** When playing Elra, channel Hermione Granger (*Harry Potter*), Éowyn (*The Lord of the Rings*), and Yennefer (*The Witcher*).
 
 **Character Information**
 
@@ -479,7 +525,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Osco wants to keep the Black Tears out of trouble (or, failing that, keep trouble interesting), maintain his reputation as someone who can get into anywhere, and never be bored.
 
-**Inspirations.** When playing Osco, channel Merry Brandybuck (*The Lord of the Rings*) for the halfling whose loyalty outstrips his caution, Locke Lamora (*The Lies of Locke Lamora*) for the rogue who steals for the thrill and loves for keeps, and Jake Peralta (*Brooklyn Nine-Nine*) for the clown who becomes competent exactly when it matters.
+**Inspirations.** When playing Osco, channel Merry Brandybuck (*The Lord of the Rings*), Locke Lamora (*The Lies of Locke Lamora*), and Jake Peralta (*Brooklyn Nine-Nine*).
 
 **Character Information**
 
@@ -502,7 +548,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Torlyn wants to be Renaer's friend rather than Lord Wands's son, practice his magic without political entanglement, and keep the Wands family's reputation intact without becoming its servant.
 
-**Inspirations.** When playing Torlyn, channel Neville Longbottom (*Harry Potter*, later books) for the noble who grew into himself quietly, Prince Hal (*Henry V*) for the aristocrat who prefers the company of commoners, and Sokka (*Avatar: The Last Airbender*) for the one whose casual manner hides real capability.
+**Inspirations.** When playing Torlyn, channel Neville Longbottom (*Harry Potter*, later books), Prince Hal (*Henry V*), and Sokka (*Avatar: The Last Airbender*).
 
 **Character Information**
 
@@ -525,7 +571,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Eiruk wants to serve Oghma by gathering and sharing knowledge, keep his friends grounded when ambition or anger pulls them off course, and understand the deeper history behind the events unfolding in Waterdeep.
 
-**Inspirations.** When playing Eiruk, channel Samwise Gamgee (*The Lord of the Rings*) for the steady friend who holds the group together, Iroh (*Avatar: The Last Airbender*) for the gentle wisdom that never lectures, and Brother Cadfael (*The Cadfael Chronicles*) for the cleric whose faith is practical rather than performative.
+**Inspirations.** When playing Eiruk, channel Samwise Gamgee (*The Lord of the Rings*), Iroh (*Avatar: The Last Airbender*), and Brother Cadfael (*The Cadfael Chronicles*).
 
 **Character Information**
 
@@ -548,7 +594,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Harug wants to keep the Black Tears alive through whatever Renaer drags them into, and drink in peace. He does not complicate things further.
 
-**Inspirations.** When playing Harug, channel Gimli (*The Lord of the Rings*) for the dwarf whose loyalty is expressed through action rather than words, Sandor Clegane (*Game of Thrones*) for the fighter whose gruff exterior is his entire vocabulary for affection, and Drax (*Guardians of the Galaxy*) for the warrior who takes everything literally and means everything he says.
+**Inspirations.** When playing Harug, channel Gimli (*The Lord of the Rings*), Sandor Clegane (*Game of Thrones*), and Drax (*Guardians of the Galaxy*).
 
 **Character Information**
 
@@ -571,7 +617,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Parlek wants to keep a low profile, be useful to Renaer without being noticed by anyone else, and maintain whatever side work funds his comfortable habits.
 
-**Inspirations.** When playing Parlek, channel Varys (*Game of Thrones*) for the information broker who is never where you expect him, Benoit Blanc (*Knives Out*) for the observant man who lets others fill the silence, and Eames (*Inception*) for the operator whose skill is disguised by charm.
+**Inspirations.** When playing Parlek, channel Varys (*Game of Thrones*), Benoit Blanc (*Knives Out*), and Eames (*Inception*).
 
 **Character Information**
 
@@ -594,7 +640,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Hlam wants to serve Tyr through the Way of the Sacred Fists, offer wisdom to those who can receive it, and intervene only when the peril is great enough to justify leaving his cave.
 
-**Inspirations.** When playing Hlam, channel Mr. Miyagi (*The Karate Kid*) for the teacher whose lessons look like chores, Pai Mei (*Kill Bill*) for the grandmaster who sends students home bruised and confused, and Gandalf (*The Lord of the Rings*) for the sage who arrives precisely when he means to.
+**Inspirations.** When playing Hlam, channel Mr. Miyagi (*The Karate Kid*), Pai Mei (*Kill Bill*), and Gandalf (*The Lord of the Rings*).
 
 **Character Information**
 
@@ -632,7 +678,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Laeral wants to keep Waterdeep stable after Neverember's ouster, conceal the extent of her diminished power, and resist the urge to reclaim the Blackstaff (which holds Khelben Arunsun's soul).
 
-**Inspirations.** When playing Laeral, channel Galadriel (*The Lord of the Rings*) for the ancient power who chooses restraint, President Roslin (*Battlestar Galactica*) for the reluctant leader governing through crisis, and M (*James Bond*, Judi Dench era) for the spymaster who conceals vulnerability behind authority.
+**Inspirations.** When playing Laeral, channel Galadriel (*The Lord of the Rings*), President Roslin (*Battlestar Galactica*), and M (*James Bond*, Judi Dench era).
 
 **Character Information**
 
@@ -655,7 +701,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Barnibus wants to solve the fireball case with ironclad evidence, avoid involving people longer than necessary, and return to his library as soon as possible.
 
-**Inspirations.** When playing Barnibus, channel Hercule Poirot (*Agatha Christie*) for the fussy investigator who solves crimes through method rather than bravery, Gil Grissom (*CSI*) for the scientist who relates to evidence better than people, and Newt Scamander (*Fantastic Beasts*) for the brilliant introvert who cannot make eye contact during conversation.
+**Inspirations.** When playing Barnibus, channel Hercule Poirot (*Agatha Christie*), Gil Grissom (*CSI*), and Newt Scamander (*Fantastic Beasts*).
 
 **Character Information**
 
@@ -678,7 +724,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Cromley wants to help Barnibus solve cases the magistrate cannot handle alone, keep retired life interesting, and coax information from common folk who would never talk to a mage in a tower.
 
-**Inspirations.** When playing Cromley, channel Columbo (*Columbo*) for the investigator whose casual manner hides a razor mind, Watson (*Sherlock Holmes*) for the practical partner who grounds the brilliant eccentric, and Murtaugh (*Lethal Weapon*) for the retired cop who keeps getting pulled back in.
+**Inspirations.** When playing Cromley, channel Columbo (*Columbo*), Watson (*Sherlock Holmes*), and Murtaugh (*Lethal Weapon*).
 
 **Character Information**
 
@@ -701,7 +747,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Jelenn wants to escape Manshoon's blackmail, repay her debts without any other noble learning of them, and reclaim the financial independence that her bad investments destroyed.
 
-**Inspirations.** When playing Jelenn, channel Cersei Lannister (*Game of Thrones*, middle seasons) for the cornered aristocrat whose bluster is proportional to her fear, Mrs. Dashwood (*Sense and Sensibility*) for the proud woman undone by financial ruin, and Marge Gunderson (*Fargo*) for the capacity to make hard choices when the bluster drops.
+**Inspirations.** When playing Jelenn, channel Cersei Lannister (*Game of Thrones*, middle seasons), Mrs. Dashwood (*Sense and Sensibility*), and Marge Gunderson (*Fargo*).
 
 **Character Information**
 
@@ -726,7 +772,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Mirt wants to protect Waterdeep from threats the Watch cannot see, keep the Harpers effective without getting his hands too dirty, and spend his nights exactly as he pleases because he has earned the right.
 
-**Inspirations.** When playing Mirt, channel Robert Baratheon (*Game of Thrones*) for the warrior-king gone to fat whose reputation still carries lethal weight, Falstaff (*Henry IV*) for the wit and appetites that mask a keen mind, and Winston Wolfe (*Pulp Fiction*) for the fixer who solves problems so efficiently it looks casual.
+**Inspirations.** When playing Mirt, channel Robert Baratheon (*Game of Thrones*), Falstaff (*Henry IV*), and Winston Wolfe (*Pulp Fiction*).
 
 **Character Information**
 
@@ -749,7 +795,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Remi wants to guide the Harpers effectively in Waterdeep, protect her household and her network from the threats that killed her husband, and determine whether the party can be trusted with real responsibility.
 
-**Inspirations.** When playing Remi, channel Violet Crawley (*Downton Abbey*) for the aristocrat who controls the room by asking better questions than she answers, Minerva McGonagall (*Harry Potter*) for the mentor who watches more carefully than she appears to, and Mrs. S (*Orphan Black*) for the protector whose salon manners conceal operational ruthlessness.
+**Inspirations.** When playing Remi, channel Violet Crawley (*Downton Abbey*), Minerva McGonagall (*Harry Potter*), and Mrs. S (*Orphan Black*).
 
 **Character Information**
 
@@ -782,7 +828,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Jalester wants to serve Laeral Silverhand and the Lords' Alliance faithfully, find someone who makes the loneliness bearable, and prove that Faerrel's death was not meaningless.
 
-**Inspirations.** When playing Jalester, channel Steve Rogers (*Captain America*) for the earnest soldier displaced from everything he loved, Brienne of Tarth (*Game of Thrones*) for the warrior whose duty fills the space where a personal life should be, and Will Graham (*Hannibal*) for the investigator who sees too much and connects too little.
+**Inspirations.** When playing Jalester, channel Steve Rogers (*Captain America*), Brienne of Tarth (*Game of Thrones*), and Will Graham (*Hannibal*).
 
 **Character Information**
 
@@ -807,7 +853,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Melannor wants to protect Phaulkonmere and its gardens, fulfill Enclave assignments with minimal fuss, and investigate disturbances he senses but cannot yet name.
 
-**Inspirations.** When playing Melannor, channel Aragorn (*The Lord of the Rings*) for the ranger whose competence speaks louder than his words, Hank Hill (*King of the Hill*) for the humorless man whose sincerity is funnier than any joke, and Obi-Wan Kenobi (*Star Wars*, prequel era) for the measured officer who delivers briefings in the same tone regardless of stakes.
+**Inspirations.** When playing Melannor, channel Aragorn (*The Lord of the Rings*), Hank Hill (*King of the Hill*), and Obi-Wan Kenobi (*Star Wars*, prequel era).
 
 **Character Information**
 
@@ -830,7 +876,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Jeryth wants to protect the natural order from whatever is dreaming beneath the Castle Ward, offer Phaulkonmere as a sanctuary for those who serve the balance, and watch the party's handling of the Stone of Golorr with particular attention.
 
-**Inspirations.** When playing Jeryth, channel the Oracle (*The Matrix*) for the cryptic guide who tells you what you need to hear rather than what you want, the Great Deku Tree (*The Legend of Zelda*) for the ancient voice that speaks through living things, and Galadriel (*The Lord of the Rings*, mirror scene) for the divine feminine whose warnings carry inevitability.
+**Inspirations.** When playing Jeryth, channel the Oracle (*The Matrix*), the Great Deku Tree (*The Legend of Zelda*), and Galadriel (*The Lord of the Rings*, mirror scene).
 
 **Character Information**
 
@@ -855,7 +901,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Savra wants to atone for her time in the Howling Hatred cult, destroy the Cassalanters' Asmodean operation, and build an Order chapter in Waterdeep that values honesty above all.
 
-**Inspirations.** When playing Savra, channel Brienne of Tarth (*Game of Thrones*) for the knight whose goodness was forged in suffering, Furiosa (*Mad Max: Fury Road*) for the leader whose past gives her conviction rather than hesitation, and Jean Valjean (*Les Misérables*) for the reformed sinner whose redemption is a daily choice.
+**Inspirations.** When playing Savra, channel Brienne of Tarth (*Game of Thrones*), Furiosa (*Mad Max: Fury Road*), and Jean Valjean (*Les Misérables*).
 
 **Character Information**
 
@@ -883,7 +929,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Vajra wants to defend Waterdeep using Force Grey, prove that she earned the Blackstaff rather than inherited it, and outlast the senior wizards who consider her an upstart.
 
-**Inspirations.** When playing Vajra, channel Ahsoka Tano (*Star Wars*) for the young successor who inherited a legacy she did not ask for, Jessica Pearson (*Suits*) for the leader who controls rooms by sheer ability, and Satsuki Kiryuin (*Kill la Kill*) for the leader whose youth makes her more intense rather than less.
+**Inspirations.** When playing Vajra, channel Ahsoka Tano (*Star Wars*), Jessica Pearson (*Suits*), and Satsuki Kiryuin (*Kill la Kill*).
 
 **Character Information**
 
@@ -908,7 +954,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Davil wants to keep the Doom Raiders operational and independent from Manshoon's splinter, maintain peace with the Xanathar Guild through negotiation rather than violence, and protect the people who chose to follow him.
 
-**Inspirations.** When playing Davil, channel Havelock Vetinari (*Discworld*) for the leader whose politeness is a precision instrument, Iroh (*Avatar: The Last Airbender*) for the gentle strategist who hides steel behind tea, and Michael Corleone (*The Godfather*) for the crime lord who genuinely believes he is doing this for the family.
+**Inspirations.** When playing Davil, channel Havelock Vetinari (*Discworld*), Iroh (*Avatar: The Last Airbender*), and Michael Corleone (*The Godfather*).
 
 **Character Information**
 
@@ -931,7 +977,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Yagra wants to protect Davil Starsong, keep the Doom Raiders safe from Manshoon's splinter, and arm-wrestle anyone who looks like they might be interesting.
 
-**Inspirations.** When playing Yagra, channel Drax (*Guardians of the Galaxy*) for the warrior whose social skills are expressed through physical challenges, Michonne (*The Walking Dead*) for the protector who speaks through action, and Rosa Diaz (*Brooklyn Nine-Nine*) for the tough exterior that is not hiding softness so much as protecting loyalty.
+**Inspirations.** When playing Yagra, channel Drax (*Guardians of the Galaxy*), Michonne (*The Walking Dead*), and Rosa Diaz (*Brooklyn Nine-Nine*).
 
 **Character Information**
 
@@ -954,7 +1000,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Istrid wants to expand her lending operation, keep the Doom Raiders financially solvent, and ensure that every loan she makes returns more than gold: influence, favors, and leverage.
 
-**Inspirations.** When playing Istrid, channel Tywin Lannister (*Game of Thrones*) for the financier whose courtesy is more threatening than a drawn sword, Miriam Maron (*Ozark*) for the criminal entrepreneur who runs a tight book, and Gringotts goblins (*Harry Potter*) for the banker whose penalties are severe and whose politeness never falters.
+**Inspirations.** When playing Istrid, channel Tywin Lannister (*Game of Thrones*), Miriam Maron (*Ozark*), and Gringotts goblins (*Harry Potter*).
 
 **Character Information**
 
@@ -977,7 +1023,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Skeemo wants to maintain access to rare alchemical components (which Manshoon provides), avoid detection as a traitor for as long as possible, and survive no matter which side wins.
 
-**Inspirations.** When playing Skeemo, channel Petyr Baelish (*Game of Thrones*) for the traitor whose pleasantness has no warmth in it, Walter White (*Breaking Bad*) for the chemist who convinces himself the betrayal is rational, and Wormtongue (*The Lord of the Rings*) for the adviser whose loyalty was purchased before the story began.
+**Inspirations.** When playing Skeemo, channel Petyr Baelish (*Game of Thrones*), Walter White (*Breaking Bad*), and Wormtongue (*The Lord of the Rings*).
 
 **Character Information**
 
@@ -1000,7 +1046,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Tashlyn wants to keep the Doom Raiders armed, trained, and operational after Davil's arrest, prove that she is the stronger leader, and best anyone foolish enough to challenge her.
 
-**Inspirations.** When playing Tashlyn, channel Okoye (*Black Panther*) for the warrior whose superiority is earned rather than assumed, Lady Eboshi (*Princess Mononoke*) for the pragmatic leader who runs an operation with no room for sentiment, and Amos Burton (*The Expanse*) for the operator whose skill makes comfort irrelevant.
+**Inspirations.** When playing Tashlyn, channel Okoye (*Black Panther*), Lady Eboshi (*Princess Mononoke*), and Amos Burton (*The Expanse*).
 
 **Character Information**
 
@@ -1023,7 +1069,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Ziraj wants to protect the Doom Raiders by eliminating threats before they arrive, keep Fala Lefaliir safe, and remain unseen by the rest of the world.
 
-**Inspirations.** When playing Ziraj, channel Boba Fett (*The Mandalorian*) for the legendary hunter whose reputation precedes every entrance, Geralt of Rivia (*The Witcher*) for the killer with one friend and nothing to prove, and Anton Chigurh (*No Country for Old Men*) for the silent killer whose presence alone changes the calculus of a room.
+**Inspirations.** When playing Ziraj, channel Boba Fett (*The Mandalorian*), Geralt of Rivia (*The Witcher*), and Anton Chigurh (*No Country for Old Men*).
 
 **Character Information**
 
@@ -1051,7 +1097,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Jarlaxle wants to buy Luskan's way into the Lords' Alliance using the dragon hoard, acquire the dragonstaff of Ahghairon for leverage over Waterdeep, and ensure that if everything falls apart, the submarine is fueled and ready.
 
-**Inspirations.** When playing Jarlaxle, channel Jack Sparrow (*Pirates of the Caribbean*) for the swashbuckler whose incompetence is a performance, Loki (*Marvel*) for the trickster god whose schemes nest inside other schemes, and Hector (*Westworld*) for the charming rogue who treats every interaction as theater because the audience is always him.
+**Inspirations.** When playing Jarlaxle, channel Jack Sparrow (*Pirates of the Caribbean*), Loki (*Marvel*), and Hector (*Westworld*).
 
 **Character Information**
 
@@ -1074,7 +1120,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Soluun wants to kill every surface elf and half-elf he can find without consequences, serve Jarlaxle with absolute loyalty, and prove that his brother Nar'l is the weak one.
 
-**Inspirations.** When playing Soluun, channel the Punisher (*Marvel*) for the methodical killer operating under his own moral code, Colonel Kurtz (*Apocalypse Now*) for the operative who has gone native in his own darkness, and Kylo Ren (*Star Wars*) for the fanatic whose devotion is indistinguishable from rage.
+**Inspirations.** When playing Soluun, channel the Punisher (*Marvel*), Colonel Kurtz (*Apocalypse Now*), and Kylo Ren (*Star Wars*).
 
 **Character Information**
 
@@ -1097,7 +1143,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Fel'rekt wants to prove himself worthy of Jarlaxle's confidence, protect Krebbyg (his closest friend), and demonstrate that leaving drow society made him stronger rather than weaker.
 
-**Inspirations.** When playing Fel'rekt, channel Samwise Gamgee (*The Lord of the Rings*) for the loyal follower whose bravery exceeds his station, Finn (*Star Wars*) for the defector who found purpose in choosing his own side, and Sokka (*Avatar: The Last Airbender*) for the eager combatant who compensates for insecurity with enthusiasm.
+**Inspirations.** When playing Fel'rekt, channel Samwise Gamgee (*The Lord of the Rings*), Finn (*Star Wars*), and Sokka (*Avatar: The Last Airbender*).
 
 **Character Information**
 
@@ -1120,7 +1166,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Krebbyg wants to follow Fel'rekt into whatever comes next, run the Seven Masks Theater without Malcolm Brizzenbright's ghost interfering, and prove useful enough that Jarlaxle never regrets taking him in.
 
-**Inspirations.** When playing Krebbyg, channel Rocket Raccoon (*Guardians of the Galaxy*) for the rash operator who lets others do the thinking, Jesse Pinkman (*Breaking Bad*) for the loyal subordinate whose enthusiasm exceeds his judgment, and Mushu (*Mulan*) for the sidekick who compensates for size with volume.
+**Inspirations.** When playing Krebbyg, channel Rocket Raccoon (*Guardians of the Galaxy*), Jesse Pinkman (*Breaking Bad*), and Mushu (*Mulan*).
 
 **Character Information**
 
@@ -1151,7 +1197,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Xanathar wants to eliminate every Zhentarim operative in Waterdeep, recover the Stone of Golorr, and ensure that no one takes anything that belongs to him, especially Sylgar.
 
-**Inspirations.** When playing Xanathar, channel Tony Montana (*Scarface*) for the paranoid crime lord who sees enemies in every shadow, Smaug (*The Hobbit*) for the hoarder who values possession over use, and GLaDOS (*Portal*) for the alien intelligence whose casual cruelty is indistinguishable from conversation.
+**Inspirations.** When playing Xanathar, channel Tony Montana (*Scarface*), Smaug (*The Hobbit*), and GLaDOS (*Portal*).
 
 **Character Information**
 
@@ -1174,7 +1220,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Ahmaergo wants to maintain his position as the most influential member of the Guild after Xanathar, expand his minotaur collection, and run the Guild's operations with the efficiency that keeps the beholder's paranoia pointed at others.
 
-**Inspirations.** When playing Ahmaergo, channel Oddjob (*Goldfinger*) for the loyal enforcer whose civility makes his violence worse, Dolores Umbridge (*Harry Potter*) for the bureaucrat whose polite cruelty is more threatening than honest rage, and Buffalo Bill (*Silence of the Lambs*) for the collector whose obsession is the window into his pathology.
+**Inspirations.** When playing Ahmaergo, channel Oddjob (*Goldfinger*), Dolores Umbridge (*Harry Potter*), and Buffalo Bill (*Silence of the Lambs*).
 
 **Character Information**
 
@@ -1197,7 +1243,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Nar'l wants to survive his assignment as Jarlaxle's intelligence asset inside the Xanathar Guild, avoid Xanathar's suspicion (which is growing), and keep his options open in case he needs to betray Bregan D'Aerthe to save himself.
 
-**Inspirations.** When playing Nar'l, channel Severus Snape (*Harry Potter*) for the double agent whose survival depends on being trusted by a paranoid master, Gus Fring (*Breaking Bad*) for the operative who performs loyalty while calculating exit routes, and Donnie Brasco (*Donnie Brasco*) for the undercover agent losing track of which side he is on.
+**Inspirations.** When playing Nar'l, channel Severus Snape (*Harry Potter*), Gus Fring (*Breaking Bad*), and Donnie Brasco (*Donnie Brasco*).
 
 **Character Information**
 
@@ -1220,7 +1266,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Nihiloor wants to breed and deploy intellect devourers throughout Waterdeep, pursue its own fell schemes independent of Xanathar's goals, and observe the Grand Game from within the shadows where no one looks.
 
-**Inspirations.** When playing Nihiloor, channel HAL 9000 (*2001: A Space Odyssey*) for the alien intelligence whose calm is its most disturbing feature, Hannibal Lecter (*Silence of the Lambs*) for the predator who finds its prey intellectually interesting, and the Borg Queen (*Star Trek*) for the hive intelligence that considers individuality a disease.
+**Inspirations.** When playing Nihiloor, channel HAL 9000 (*2001: A Space Odyssey*), Hannibal Lecter (*Silence of the Lambs*), and the Borg Queen (*Star Trek*).
 
 **Character Information**
 
@@ -1243,7 +1289,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Noska wants to hurt people Xanathar tells him to hurt, maintain his position as the Guild's heaviest response option, and feed his rust monster.
 
-**Inspirations.** When playing Noska, channel Drax (*Guardians of the Galaxy*) for the enforcer who takes everything literally, Mountain (*Game of Thrones*) for the brute whose violence is its own language, and Bane (*The Dark Knight Rises*) for the enforcer with a distinctive physical modification that defines his silhouette.
+**Inspirations.** When playing Noska, channel Drax (*Guardians of the Galaxy*), Mountain (*Game of Thrones*), and Bane (*The Dark Knight Rises*).
 
 **Character Information**
 
@@ -1278,7 +1324,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Manshoon wants to oust Laeral Silverhand, kill the Blackstaff, reduce the Masked Lords to vassals, declare himself Wizard-King of Waterdeep, and eventually turn on Halaster and claim Undermountain's riches.
 
-**Inspirations.** When playing Manshoon, channel Magneto (*X-Men*) for the patient ideologue whose power makes him terrifyingly reasonable, Emperor Palpatine (*Star Wars*) for the schemer who builds empires from hidden rooms, and Moriarty (*Sherlock Holmes*) for the adversary who never needs to be in the same room as the violence he orchestrates.
+**Inspirations.** When playing Manshoon, channel Magneto (*X-Men*), Emperor Palpatine (*Star Wars*), and Moriarty (*Sherlock Holmes*).
 
 **Character Information**
 
@@ -1301,7 +1347,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Urstul wants to recover the Stone of Golorr for Manshoon, maintain operational control of the field team, and survive encounters with the party by any means necessary, including hostage-taking.
 
-**Inspirations.** When playing Urstul, channel Luca Brasi (*The Godfather*) for the enforcer whose physical presence is its own threat, Javert (*Les Misérables*) for the relentless pursuer who will not stop, and Karl (*Die Hard*) for the recurring adversary who keeps reappearing across the campaign's middle acts.
+**Inspirations.** When playing Urstul, channel Luca Brasi (*The Godfather*), Javert (*Les Misérables*), and Karl (*Die Hard*).
 
 **Character Information**
 
@@ -1324,7 +1370,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Vevette wants to serve Manshoon's interests while positioning herself for advancement, keep the Stone in Zhentarim hands, and avoid imprisonment by exploiting the law.
 
-**Inspirations.** When playing Vevette, channel Catwoman (*Batman Returns*) for the acrobatic thief whose charm is weaponized, Cersei Lannister (*Game of Thrones*) for the public grace masking private viciousness, and Irene Adler (*Sherlock Holmes*) for the adversary who surrenders only when the law protects her better than fighting would.
+**Inspirations.** When playing Vevette, channel Catwoman (*Batman Returns*), Cersei Lannister (*Game of Thrones*), and Irene Adler (*Sherlock Holmes*).
 
 **Character Information**
 
@@ -1347,7 +1393,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Sidra wants to maintain Kolat Towers' security, protect the teleport ring system, and ensure that Manshoon's operations run without interruption.
 
-**Inspirations.** When playing Sidra, channel Moneypenny (*James Bond*) for the gatekeeper whose calm competence controls access to power, Riza Hawkeye (*Fullmetal Alchemist*) for the lieutenant whose loyalty to her commander is absolute and practical, and Vasquez (*Aliens*) for the soldier who does not flinch.
+**Inspirations.** When playing Sidra, channel Moneypenny (*James Bond*), Riza Hawkeye (*Fullmetal Alchemist*), and Vasquez (*Aliens*).
 
 **Character Information**
 
@@ -1380,7 +1426,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Victoro wants to save his younger twins from the Asmodean pact before their ninth birthday, acquire 999,999 gold pieces to fund the buy-out clause, and sacrifice 99 souls at the Founders' Day feast while maintaining his philanthropist reputation.
 
-**Inspirations.** When playing Victoro, channel Tywin Lannister (*Game of Thrones*) for the father whose love and cruelty are the same thing, Frollo (*The Hunchback of Notre Dame*) for the religious man whose faith justifies his worst impulses, and Gustavo Fring (*Breaking Bad*) for the respectable businessman whose public charity funds private monstrosity.
+**Inspirations.** When playing Victoro, channel Tywin Lannister (*Game of Thrones*), Frollo (*The Hunchback of Notre Dame*), and Gustavo Fring (*Breaking Bad*).
 
 **Character Information**
 
@@ -1403,7 +1449,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Ammalia wants to save the twins by any means necessary (including poisoning 99 people), maintain the family's social position, and ensure that the Founders' Day feast goes exactly as planned.
 
-**Inspirations.** When playing Ammalia, channel Lady Macbeth (*Macbeth*) for the wife whose ambition exceeds her husband's nerve, Mama Imelda (*Coco*) for the matriarch whose love justifies every terrible decision, and Catherine de Medici (*The Serpent Queen*) for the aristocrat whose entertaining conceals assassination.
+**Inspirations.** When playing Ammalia, channel Lady Macbeth (*Macbeth*), Mama Imelda (*Coco*), and Catherine de Medici (*The Serpent Queen*).
 
 **Character Information**
 
@@ -1426,7 +1472,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Willifort wants to protect the Cassalanter family and their secrets, maintain his cover as an aging tiefling butler, and handle problems permanently when discretion fails.
 
-**Inspirations.** When playing Willifort, channel Alfred Pennyworth (*Batman*) for the butler who knows every secret in the house, Mystique (*X-Men*) for the shapechanger whose loyalty is total and identity is fluid, and Kato (*The Green Hornet*) for the servant who is the most dangerous person in the room.
+**Inspirations.** When playing Willifort, channel Alfred Pennyworth (*Batman*), Mystique (*X-Men*), and Kato (*The Green Hornet*).
 
 **Character Information**
 
@@ -1463,7 +1509,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Yalah wants to become a Masked Lord through bribery, blackmail, or extortion, secure House Gralhund's prosperity for generations, and maintain control of the Zhentarim resources housed at her villa without Manshoon discovering she considers Urstul an underling.
 
-**Inspirations.** When playing Yalah, channel Cersei Lannister (*Game of Thrones*) for the noblewoman whose ambition outstrips her family's reputation, Livia Soprano (*The Sopranos*) for the wife who runs the house while her husband thinks he does, and Claire Underwood (*House of Cards*) for the political spouse whose patience is a weapon.
+**Inspirations.** When playing Yalah, channel Cersei Lannister (*Game of Thrones*), Livia Soprano (*The Sopranos*), and Claire Underwood (*House of Cards*).
 
 **Character Information**
 
@@ -1486,7 +1532,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Orond wants to be the patriarch his title says he is, see Yalah appointed as a Masked Lord (which he believes will elevate him), and stop feeling afraid in his own home.
 
-**Inspirations.** When playing Orond, channel Joffrey Baratheon (*Game of Thrones*) for the petulant authority figure whose power is entirely borrowed, Tobias Funke (*Arrested Development*) for the man whose self-image has no relationship to reality, and Percy Wetmore (*The Green Mile*) for the coward whose cruelty is proportional to his fear.
+**Inspirations.** When playing Orond, channel Joffrey Baratheon (*Game of Thrones*), Tobias Funke (*Arrested Development*), and Percy Wetmore (*The Green Mile*).
 
 **Character Information**
 
@@ -1509,7 +1555,7 @@ Status: Tiers 1-2 profiled (~55 NPCs). Tiers 3-4 deferred (roster entries only).
 
 **Motivations.** Hrabbaz wants to serve Lady Gralhund competently, dress well, and exercise the violence he was hired for when the opportunity presents itself.
 
-**Inspirations.** When playing Hrabbaz, channel Oddjob (*Goldfinger*) for the well-dressed enforcer whose manners are inversely proportional to his mercy, Drogo (*Game of Thrones*) for the warrior whose silence communicates everything, and Hector Salamanca's twins (*Better Call Saul*) for the enforcers whose impeccable presentation makes their violence more unsettling.
+**Inspirations.** When playing Hrabbaz, channel Oddjob (*Goldfinger*), Drogo (*Game of Thrones*), and Hector Salamanca's twins (*Better Call Saul*).
 
 **Character Information**
 
