@@ -128,7 +128,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | `ttrpg-sourcebook-style` | Lore, faction overviews, location descriptions, NPC profiles, setting prose |
 | `foundry-journal` | Any formatted output — always load alongside dnd-adventure-text or ttrpg-sourcebook-style |
 | `humanize-prose` | Voice and rhythm pass on prose |
-| `deslop-text` | AI pattern check on prose — structural patterns (em-dashes, W2, metronomic sentences, etc.) |
+| `deslop-text` | AI pattern check on prose — structural patterns (em-dashes, W2, metronomic sentences, etc.). Installed globally. |
 | `no-ai-slop` | Complementary AI pattern check — binary contrasts, colon reveals, throat-clearing, importance puffery, weasel attribution, synonym cycling. Always run alongside deslop-text; they catch different things. Installed globally. |
 | `adventure-reloaded` | Structural and writing guide for all campaign remix content — load before drafting any arc, chapter, scene, NPC profile, or design notes section |
 
@@ -138,7 +138,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 
 **At session start:** Read the most recent `session N handoff.md` file (highest N in the root directory) before doing anything else. It contains outstanding work, key decisions already made, rules that override defaults, and a "Where to Start Next Session" section. Do not re-derive or re-ask anything the handoff file already settles.
 
-**At session end** (or when the user signals they are done): Write a new handoff file named `session [N+1] handoff.md` in the root directory. Sections to include:
+**At session end** (only when the user invokes `/handoff` — never proactively): Write a new handoff file named `session [N+1] handoff.md` in the root directory. Sections to include:
 
 | Section | Contents |
 |---|---|
@@ -192,7 +192,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 5. For monsters: load `dnd-monster-designer` (standard) or `boss-design` (named villain)
 6. For encounter balancing: load `cr2-encounter-builder`
 7. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose
-8. Deliver as HTML Artifact
+8. Save to `.md` source file (HTML Artifact delivery is deferred — see Output Format in Standing Rules)
 
 ### Writing a new encounter area or keyed location
 
@@ -201,7 +201,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 3. For any monsters: load `dnd-monster-designer` (standard) or `boss-design` (named villain/boss)
 4. For encounter balancing: load `cr2-encounter-builder`
 5. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose
-6. Deliver as HTML Artifact mimicking Foundry journal layout
+6. Save to `.md` source file (HTML Artifact delivery is deferred — see Output Format in Standing Rules)
 
 ### Converting 2014 adventure content to 2024
 
@@ -209,14 +209,14 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 2. Run the converter's full workflow: terminology pass → structural pass → action naming → monster renames
 3. For any embedded full stat blocks: pull out, run through `dnd-monster-converter`, splice back in
 4. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on the final prose
-5. Deliver as HTML Artifact
+5. Save to `.md` source file (HTML Artifact delivery is deferred — see Output Format in Standing Rules)
 
 ### Writing lore, faction overviews, or sourcebook-style content
 
 1. Load `ttrpg-sourcebook-style` + `foundry-journal`
 2. Write content following sourcebook conventions (consequence-layered facts, competing tensions, in-world closing quote)
 3. Run `deslop-text` + `no-ai-slop` → `humanize-prose`
-4. Deliver as HTML Artifact
+4. Save to `.md` source file (HTML Artifact delivery is deferred — see Output Format in Standing Rules)
 
 ### Designing a boss or major villain
 
