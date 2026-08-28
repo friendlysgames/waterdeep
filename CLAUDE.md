@@ -74,6 +74,7 @@ Primary source files:
 | File / Folder | Contents |
 |---|---|
 | `campaign/structure/arc-a-finding-floon.md` | Arc A structure document — Finding Floon; four scenes with Three Clue paths, Nihiloor foreshadowing, Trollskull Manor reward; structuring draft |
+| `campaign/structure/arc-b-trollskull-alley.md` | Arc B structure document — Trollskull Alley; seven scenes (arrival, guild gauntlet, neighbors, factions, grand opening, Twin Parades, Field of Triumph); Lif appeasement mechanics, Ammalia intro, three information threads; structuring draft |
 | `campaign/structure/ch1-beginning.md` | Chapter 1 draft — Arc A (Finding Floon), session zero, opening scene |
 | `campaign/structure/ch2-city-of-splendors.md` | Chapter 2 draft — Arc B (Trollskull Alley), city lore, faction recruitment |
 | `campaign/structure/ch3-running-the-campaign.md` | Chapter 3 draft — structural rules: Three Clue Rule, heist framework, response teams, calendar |
