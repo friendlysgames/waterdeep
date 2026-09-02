@@ -242,7 +242,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 
 **Goals**
 
-1. **Acquire the Vault of Dragons** — needs the gold to fund a private army and buy political legitimacy; method: Stone + three Eyes + vault; has one Eye; contingency: destroy the vault rather than let another faction have it; connects to Arc I
+1. **Acquire the Stone of Golorr** — the Stone is a transformed aboleth encoded with ancient Weave knowledge; Manshoon means to absorb the Weave and supplant Mystra; the vault's gold funds the process; method: Stone recovery → Weave absorption; has one Eye; contingency: destroy the vault rather than cede it; connects to Arcs D and I
 2. **Control Waterdeep's Underworld** — eliminate Xanathar, absorb the Doom Raiders, marginalize Bregan D'aerthe; method: patient erosion through targeted disruption and strategic violence; the Dock Ward conflict in Acts I–II is this plan in early operation
 3. **The Simulacrum Insurance** — the simulacrum is not a backup; it is the primary survival strategy; defeating Manshoon in combat may defeat only his copy; connects to Arc I design requirement
 

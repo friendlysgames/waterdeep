@@ -145,7 +145,9 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 
 ### Personality and Agenda
 
-Manshoon is a centuries-old wizard, a clone of a clone of the original Black Network's founder, who claims, as all surviving Manshoon clones do, to be the one true Manshoon. Waterdeep's power structure interests him less than leverage over it. The 500,000 gold dragons would provide exactly that: the ability to shape policy, compromise officials, and operate above the law without holding any formal position.
+Manshoon is a centuries-old wizard, a clone of a clone of the original Black Network's founder, who claims, as all surviving Manshoon clones do, to be the one true Manshoon. The gold means nothing to him as wealth. He wants the Stone of Golorr for what it knows: the Stone is a transformed aboleth, and encoded in its centuries of absorbed memory is ancient knowledge of the Weave's structure. Manshoon intends to use that knowledge to absorb the Weave and supplant Mystra. The vault is an instrument. The Stone is the goal.
+
+The 500,000 gold dragons matter for what they buy: a private army, bribed magisters, time. Two Masked Lords on the Council are already compromised — Corylus Thann through scandal, Jelenn Urmbrusk through debt — and voting Manshoon's way without knowing why their interests have aligned. This leverage is his most carefully guarded intelligence. A character who brings evidence of the blackmail to Laeral Silverhand or the full Lords' Council collapses Manshoon's political position immediately, which is why the documentation lives at Kolat Towers and nowhere else.
 
 He keeps a simulacrum in Kolat Towers while the original Manshoon watches from safer ground. His approach reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction. This is deliberate. Drawing too much attention is the one mistake Manshoon won't make twice.
 
