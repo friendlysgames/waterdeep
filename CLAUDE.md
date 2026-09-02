@@ -114,6 +114,8 @@ Primary source files:
 
 **`C:\Users\robert.lupu\.claude\plans\peppy-swinging-yao.md`** — Full campaign architecture plan: act/arc structure, appendix outlines, critical design decisions, implementation steps, and verification checklist.
 
+**`C:\Users\robert.lupu\.claude\plans\let-s-plan-the-structure-recursive-robin.md`** — Heist arcs E–J interconnected structure: Eye distribution, outpost tier classification, cross-arc intel pipelines, faction state tracking, calendar/deadline mechanics, lair genre requirements, drafting order (E→F→G→H→I→J).
+
 > **Remove this section from CLAUDE.md once every part of the plan has been completed.**
 
 ---
