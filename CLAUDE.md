@@ -87,6 +87,8 @@ Primary source files:
 | `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Prose-polished, structure draft. |
 | `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. Content is fully preserved in `appendix-d-running-factions.md`; these files are safe to delete. |
 | `sources/SOURCE_GUIDE.md` | Master map of every source file: filename, origin, contents summary, which arcs to consult it for, cross-references, and caveats. Read before writing any arc or appendix. |
+| `sources/Act_III_Arc_D.md` | Alexandrian Remix source for Arc D (Gralhund Villa) — primary reference for villa area descriptions, day/night state, and the quinpartite confrontation. |
+| `sources/Act_III_Arc_E.md` | Alexandrian Remix source for Arc E (Faction Outposts) — 903 lines; primary source for all faction outpost heists. Read before drafting Arc E. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
 
 ---
@@ -156,6 +158,8 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 
 Carry all unchecked items from the previous handoff's Outstanding Work section into the new file. Do not drop them.
 
+**Git log range for the Changes Made table:** Find the commit that wrote the previous handoff file and use it as the base — e.g. `git log <prev-handoff-commit>..HEAD`. Do not use `--since` flags; same-day sessions bleed together.
+
 ---
 
 ## Standing Rules (Always Apply — No Need to Ask)
@@ -185,6 +189,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Plan before drafting:** Write and get an arc plan approved (via ExitPlanMode) before drafting any prose. Never write scene content without an approved plan. Use `.claude/plans/plan-arc-b-structure-valiant-pudding.md` as the format template for arc plans — not the master campaign plan (`peppy-swinging-yao.md`).
 
 **Design Notes format:** Design Notes are a top-level `# Design Notes: [Arc Name]` section (H1), placed after all scene entries. They are never an H3 subsection inside Scenes. Arc A uses the older H3-inside-Sections pattern — do not replicate it for new arcs.
+
+**Arc Opener format:** The Arc Opener is backstory — it describes how the arc's situation came to exist, not what happens during the arc. It does not narrate faction consultations, chases, or confrontations that occur in the scenes. See the Arc D Opener as the corrected example.
 
 ---
 
