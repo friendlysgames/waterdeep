@@ -207,6 +207,36 @@ This snapshot is a starting point, not a fixed state. If the party arrives earli
 | G19 | 9 commoners | Barricaded; armed with improvised clubs |
 | G2 | Hurv Taldred (shadow) + 2 mastiff-shadows | Transformed at nightfall; still in the yard |
 
+*Notable Areas (Night).*
+
+**G15a (Guest Suite — Floxin's Former Room).** One guard dead in the chair with a crossbow bolt in his throat — a single, professional shot. A second slumped against the door he was supposed to be standing in front of. The window stands open. The sill carries a scrape of dried blood.
+
+Floxin is gone, moving toward G13 or G16 depending on where the party falls in the raid timeline. What he left behind: a black leather glove on the floor near the wardrobe, dropped in his hurry to get out. It is too small to be his. It carries the faint smell of a woman's perfume — Yalah's, from the weeks when the two of them were still pretending to be partners. A party that notices it and holds the detail will recognize it when they reach G16.
+
+If the raid timeline places Floxin still in G15a when the party arrives, one guard is already dead and the second is alive but pinned back, Floxin's crossbow aimed one-handed at his throat while Floxin works the window latch with a knife. He does not freeze. The crossbow swings toward the door. He wants one thing from whoever just walked in: for them to close it again. He is wounded, he is not going to negotiate from this position, and he will finish this conversation as quickly as possible once he decides whether they are an obstacle.
+
+**G15b (Guest Suite — Orond's Barricade).** The wardrobe that was pushed against the door from inside has been shoved aside. Inside, overturned furniture, Orond's evening coat torn at the shoulder, and Lord Orond Gralhund himself backed against the far wall with a fireplace poker in both hands and the whites of his eyes showing. When he sees the party is not Zhentarim, the grip on the poker goes slack.
+
+Orond will not fight. He is the kind of coward who has decided money means he doesn't have to be brave, and tonight has thoroughly tested that theory. Under DC 10 Intimidation (Disadvantage if he has any reason to believe Yalah can hear him), he will confirm:
+
+- The Stone of Golorr is some kind of ancient creature transformed into an artifact; it holds the location of a hidden vault somewhere beneath Waterdeep containing half a million gold dragons.
+- Lady Yalah sent the nimblewright to the alley on Ches 22nd. The fireball killed the gnome and most of Floxin's men. "It was careless," Orond says, and stops talking for a moment.
+- There is a religious cult. He does not know its name, does not know who leads it. Yalah has never told him and he has been wise enough not to ask. There are symbols in a trunk in the master bedroom. He has never opened it.
+
+Orond in the party's custody is leverage in G16. If they bring him upstairs and Yalah sees him, she will surrender the Stone without a Charisma check — no negotiation required.
+
+**G16 (Master Bedroom — Night).** The double doors may be locked or standing open depending on where the raid timeline sits. Inside: Lady Yalah Gralhund in a fitted breastplate, rapier drawn, a small brass key on a chain at her throat. Hrabbaz beside her, fists closed, expression empty. They are waiting to see what the party does.
+
+Yalah does not fight if she can avoid it. She trades — information, coin, assurances she does not intend to honor — buying time while she reads the room. The Stone of Golorr is tucked in an inner pocket of her breastplate. She will not reach for it while the situation is in motion.
+
+*Family Above All.* Yalah is first and last a mother. If the party has Orond in custody, or makes it credibly clear that Zartan or Greth are in immediate danger, her demeanor changes without transition. She hands over the Stone. No check required. Hrabbaz will not intervene if she looks at him first — this is her decision and he trusts it.
+
+*Yalah's Brass Key.* The key at her throat opens the locked tome in G12, bypassing the Specter trap. A party that takes it on their way out of the villa prevents three specters from ambushing whoever opens the chronicle later.
+
+*The Wooden Trunk.* At the foot of the bed. Locked (DC 15 thieves' tools). Appears to contain clothes and shoes. DC 15 Perception to spot the false bottom. Inside: two holy symbols of Asmodeus in chased silver, two liturgical robes in red and gold with Cassalanter house embroidery worked into the collar. This is the first physical evidence connecting the Gralhunds and the Cassalanters as members of the same Asmodean cult — not political allies, not business partners, but worshippers. It pays off in Arc G.
+
+If truly cornered — Hrabbaz down, Stone taken or about to be, nowhere to run — Yalah uses her ring of keys to unlock G18 and steps inside with her children, locking the door behind her.
+
 *Jarlaxle's Team in Motion (Conditional).* If Bregan D'Aerthe is present in Artheyn Manor, this sequence plays out concurrent with beats 8–10 above, once the raid is fully committed:
 
 1. Jarlaxle's drow gunslingers take up sniping positions at Artheyn Manor's top-floor windows, targeting the Upstairs Foyer (G13) through the facing windows.
