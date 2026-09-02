@@ -306,7 +306,9 @@ The party must see the Stone leave and decide to give chase.
 
 **Content:**
 
-*Bad Time to Be a Zhent.* By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing what they find inside. Twenty-three bodies. Lady Gralhund missing. Lord Gralhund in shock, saying nothing intelligible. Hrabbaz dead. No Stone, no nimblewright, no Floxin. The lead broadsheet names the event the **Gralhund Villa Bloodbath** within forty-eight hours, and the Watch begins a city-wide crackdown on the Black Network — arresting known and suspected Zhentarim figures regardless of cell affiliation, legitimate business or not.
+*Bad Time to Be a Zhent.* By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing what they find inside. Twenty-three bodies. Lord Gralhund in shock, saying nothing intelligible. Hrabbaz dead. No Stone, no nimblewright, no Floxin. The lead broadsheet names the event the **Gralhund Villa Bloodbath** within forty-eight hours, and the Watch begins a city-wide crackdown on the Black Network — arresting known and suspected Zhentarim figures regardless of cell affiliation, legitimate business or not.
+
+Lady Gralhund's status depends on how the confrontation resolved. She may be missing (fled the estate before the Watch arrived), in Watch custody (captured or surrendered), or present and cooperating — each of which produces a different political situation for House Gralhund in the subsequent arcs. If she is in custody, she says nothing useful; she is skilled at this. If she is missing, the Watch posts a quiet want notice through Waterdeep's gate guards and ship registries. If she is dead, Orond becomes the face of House Gralhund overnight, which is roughly as effective as it sounds.
 
 Party members with visible Zhentarim associations should keep a low profile for at least a tenday. Characters who were seen at the villa and can be described by surviving witnesses may be sought for questioning. A PC who fled the scene visibly may receive a Watch summons within three days.
 
