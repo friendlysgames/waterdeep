@@ -245,11 +245,10 @@ What Kalain knows:
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 3 → 4 | C | The party identifies the nimblewright as perpetrator and traces its origin to the House of Inspired Hands | 300 |
-| 3 → 4 | C | The party identifies Gralhund Villa as the nimblewright's location and confirms the Stone is there | 200 |
-| 3 → 4 | C | The party completes the Backtracking Dalakhar branch (optional) | 100 |
+| 3 | C | The party identifies the nimblewright as perpetrator and traces its origin to the House of Inspired Hands | 200 |
+| 3 | C | The party confirms the Stone of Golorr's location at Gralhund Villa, Saerdoun Street, North Ward | 150 |
 
-*Total: 500 XP base (600 with optional branch). Level 4 is reached when the party has confirmed the Gralhund address through any combination of the three investigative paths.*
+*Total: 350 XP toward level 4. Level 4 is reached in Arc D upon recovering the Stone of Golorr.*
 
 *The Stone of Golorr — What the Party Knows.* Required knowledge by arc's end:
 - Dalakhar was Neverember's spy, carrying the Stone to them when the fireball killed him.
@@ -291,7 +290,7 @@ All seventeen decisions are settled from source material and campaign continuity
 14. **Faction contact responses to the death mark.** Four contacts with distinct intelligence (Mirt, Vajra, Jalester, Tashlyn). Each provides a different fragment; none duplicates another.
 15. **Cassalanter dinner before Gralhund Villa.** First direct villain contact. Ammalia's warmth is established behavior from Arc B. No mention of children, the infernal pact, or Asmodeus.
 16. **Faction advice and "If They Don't Go" contingencies belong in Arc D.** Arc C ends at "you know where to go." The "Choosing a Course of Action" material from Act_III_Arc_D.md opens Arc D.
-17. **Level 4 milestone triggered by confirming the Gralhund address.** Awarded when any combination of paths delivers the address with sufficient certainty. Most parties hit this when the detector confirms the signal on Saerdoun Street.
+17. **Level 4 milestone split across Arcs C and D.** Arc C awards 350 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Level 4 is not reached until Arc D, when the party recovers the Stone of Golorr. The Backtracking Dalakhar branch (formerly an optional third milestone) is absorbed into Arc C's narrative rewards rather than tracked as a separate XP milestone.
 
 ---
 
