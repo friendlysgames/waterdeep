@@ -77,7 +77,19 @@ If this condition is not met — the party bypassed the Sea Maidens Faire entire
 - **DC 15 Stealth (group check):** Approach the villa without being spotted by any team. On failure, compare the lowest result against each team's passive Perception to determine who noticed first.
 - **DC 15 Athletics:** Scale the 12-foot perimeter walls without assistance. The Coach House (G3) roofline provides a platform for reaching the Balcony (G17) without this check.
 
-*Villa Exterior Details.* 12-foot stone walls, reinforced construction. Main gate: *arcane lock* (DC 25 Strength to force, DC 20 thieves' tools). All interior ceilings 20 feet. City Watch response: 1d6 + 4 minutes from any audible commotion outside the walls (1 mage, 6 veterans). The Balcony (G17) is visible from Saerdoun Street at DC 14 Perception and reachable from the Coach House (G3) roofline with a DC 10 Athletics check.
+*Villa Exterior Details.* The following information about the villa's exterior is available through observation, checks, or time spent watching. It is not given to the party; it is earned.
+
+**Immediately visible** (no check, anyone on Saerdoun Street): The estate occupies a full block. The perimeter wall is stone — old construction, reinforced — and tall enough that the roofline of the Coach House (G3) is the only interior structure visible above it. The main gate faces Saerdoun Street. A two-story carriage arch flanks it. Upper floors of the manor are visible over the wall.
+
+**DC 12 Perception or 10 minutes of observation:** The wall is approximately 12 feet. The interior drop on the far side is less — the yard slopes — making it easier to descend than to scale from outside. A DC 15 Athletics check scales the wall without assistance. The Coach House roofline can be reached from outside (DC 10 Athletics on the carriage arch) and provides a platform for approaching the Balcony (G17) without a wall check.
+
+**DC 14 Perception:** The Balcony (G17) on the upper floor is recessed into the manor's north face, partially obscured by the ornamental ironwork above the main entrance. It is reachable from the Coach House roofline.
+
+**DC 15 Investigation (close approach to the gate):** The main gate latch does not yield to normal pressure. A faint resistance — not mechanical — stops the mechanism before it catches. *Detect Magic* within 10 feet confirms: *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
+
+**Spending 30+ minutes watching from a fixed position:** The City Watch patrol passes Saerdoun Street irregularly, roughly every 20 minutes. Any audible commotion outside the walls — a fight, breaking stone, shouting — draws a Watch response in 1d6 + 4 minutes (1 mage, 6 veterans). This timing is not available through a skill check alone; it requires either sustained observation or a knowledgeable faction contact (Cromley, Jalester, a city-wise NPC).
+
+**Not knowable from outside:** Interior ceiling heights (20 feet throughout), specific room layouts, number and position of interior guards. These require entry, prior intelligence (Jarlaxle's layout if the party met him in Arc C), or a divination spell.
 
 *Optional Daytime Escalation (New Content — Flagged Optional).* During daytime infiltration, no rival factions are present to absorb damage or draw guard attention. If the DM judges the standard household too thin for a level 4 party, the following optional elements may be added. They represent Yalah's precautionary measures, deployed quietly after Floxin's arrival triggered her paranoia.
 
