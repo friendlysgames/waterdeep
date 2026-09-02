@@ -84,7 +84,7 @@ Primary source files:
 | `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version — temp files in `campaign/structure/temp/` may diverge if edited post-assembly. |
 | `campaign/structure/appendix-e-villain-factions.md` | Appendix E — villain faction operations guide; all four villain factions (Xanathar, Manshoon, Cassalanters, Bregan D'Aerthe), NPC rosters, outpost entries, response teams, revelation lists, escalation framework, inter-faction dynamics. Structuring draft (no sidebar callouts); Nihiloor's three-project breakdown written in full. |
 | `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Prose-polished, structure draft. |
-| `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. May be deleted — content is preserved in appendix-d. |
+| `campaign/structure/temp/` | 8 temp files (preamble + 7 faction docs) used as drafting sources before assembly into Appendix D. Content is fully preserved in `appendix-d-running-factions.md`; these files are safe to delete. |
 | `sources/SOURCE_GUIDE.md` | Master map of every source file: filename, origin, contents summary, which arcs to consult it for, cross-references, and caveats. Read before writing any arc or appendix. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
 
@@ -180,6 +180,10 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Git commits:** Commit to git at the end of every turn in which files were changed. The commit message must explain *why* the changes were made — not just what changed. Reference the design decision or consistency issue that drove each edit. This preserves reasoning across context compaction, so future sessions can understand not just what is in the files but why it got there.
 
 **Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits (deleting and re-writing the handoff) that pollute the git log. The handoff must be the last commit of every session.
+
+**Plan before drafting:** Write and get an arc plan approved (via ExitPlanMode) before drafting any prose. Never write scene content without an approved plan. Use `.claude/plans/plan-arc-b-structure-valiant-pudding.md` as the format template for arc plans — not the master campaign plan (`peppy-swinging-yao.md`).
+
+**Design Notes format:** Design Notes are a top-level `# Design Notes: [Arc Name]` section (H1), placed after all scene entries. They are never an H3 subsection inside Scenes. Arc A uses the older H3-inside-Sections pattern — do not replicate it for new arcs.
 
 ---
 
