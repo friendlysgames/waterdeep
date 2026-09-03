@@ -188,14 +188,14 @@ Full write-ups appear in Appendix D. Summary:
 
 The Order of the Gauntlet is a fellowship of paladins, clerics, and devout martial warriors who pursue and destroy evil actively — without waiting for it to come to them. In Waterdeep, they function as a quasi-religious law-enforcement body: more aggressive and less subtle than the City Watch, and considerably less interested in political nuance. They are exactly the allies you want when facing devil-worshippers or a mind-flayer-backed crime lord.
 
-The Order has a particular interest in the Cassalanters, who are active Asmodeus cultists conducting devil-bargain rituals behind a public face of impeccable piety. Characters whose investigations brush against the Cassalanters will find the Order increasingly engaged — and increasingly impatient for hard evidence they can act on. They also expect members who recover large hoards to tithe at least 25% to a worthy cause. Characters who do this without being reminded earn the renown; those who must be reminded earn only the reminder.
+The Order has a particular interest in the Cassalanters — a Sea Ward noble family whose impeccable public piety and conspicuous generosity the Order finds deeply suspicious. Months of quiet surveillance have produced no actionable evidence. Something is concealed behind the charity and the temple attendance; the Order cannot yet prove what. Characters whose investigations brush against the Cassalanters will find the Order increasingly engaged — and increasingly impatient for hard evidence they can act on. They also expect members who recover large hoards to tithe at least 25% to a worthy cause. Characters who do this without being reminded earn the renown; those who must be reminded earn only the reminder.
 
 **Primary Contact:** Savra Belabranta — a knight of the Order from a noble family known for raising griffons for the Griffon Cavalry. She is atoning for a past with the Howling Hatred elemental cult — a detail she shares only with characters who earn her trust — and has channeled that shame into an iron commitment to justice. She communicates mission briefings personally.
 
 ### First Meeting
 
 - Savra comes to Trollskull, knocks, waits — no invitation sent
-- Pitch at the door: Order hunts evil actively; names the beholder empire and a noble family with infernal ties (Cassalanters, unnamed) as priority targets; doesn't soften the cost
+- Pitch at the door: Order hunts evil actively; names the beholder empire and a Sea Ward noble family the Order has been watching for months (unnamed) as priority targets; doesn't soften the cost
 - If asked why she joined: answers honestly about making amends for a darker past; doesn't elaborate unless pressed
 - Characters who accept: taken to Halls of Justice for brief oath ceremony — silver gauntlet passed among members, priest witnesses, oath sworn
 - Savra closes: "The work does not wait"

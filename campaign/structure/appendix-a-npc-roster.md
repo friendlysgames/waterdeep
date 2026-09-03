@@ -1200,7 +1200,7 @@ Status: All tiers profiled (16 sections complete).
 
 **Emotions.** Savra most often feels disciplined resolve, old shame she has learned to carry rather than hide, fierce protectiveness, measured anger at diabolism, honest assessment of her own failings, and warmth that she expresses through action rather than sentiment.
 
-**Motivations.** Savra wants to atone for her time in the Howling Hatred cult, destroy the Cassalanters' Asmodean operation, and build an Order chapter in Waterdeep that values honesty above all.
+**Motivations.** Savra wants to atone for her time in the Howling Hatred cult, expose and shut down whatever infernal operation she believes is running behind Waterdeep's noble piety, and build an Order chapter that values honesty above all.
 
 **Inspirations.** When playing Savra, channel Brienne of Tarth (*Game of Thrones*), Furiosa (*Mad Max: Fury Road*), and Jean Valjean (*Les Misérables*).
 
@@ -1210,7 +1210,7 @@ Status: All tiers profiled (16 sections complete).
 
 **Morale.** In a fight, Savra positions herself where the line is thinnest and holds it. She kills what needs killing and moves on without commentary. Diabolists die first; everything else queues behind them.
 
-**Relationships.** Savra is the Order of the Gauntlet faction contact, a member of the Belabranta noble family (griffon breeders for the Griffon Cavalry), and a woman whose cult past makes her uniquely qualified to recognize the Cassalanters' operation for what it is.
+**Relationships.** Savra is the Order of the Gauntlet faction contact, a member of the Belabranta noble family (griffon breeders for the Griffon Cavalry), and a woman whose cult past makes her uniquely attuned to the signs of infernal operations — which is exactly why the Order assigned her to Waterdeep.
 
 #### Sister Valdra
 *Half-orc cleric of Tyr, lawful good. Priest.*
