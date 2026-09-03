@@ -677,6 +677,35 @@ Key content:
 
 ---
 
+## Other Remix Files
+
+The `sources/Other remix files/` folder contains Patreon-exclusive NPC guides, villain combat notes, and event supplements. These are DM-facing reference documents, not adventure text. All are from the same Alexandrian Remix creator unless otherwise noted.
+
+### Individual NPC Guides (`.docx` files)
+
+| File | Focus | When to consult |
+|------|-------|-----------------|
+| `Cassalanters, their tragic backtstory, and Endgame setup.docx` | Victoro & Ammalia backstory, the soul-pact timeline, the children's situation, endgame resolution paths | Arcs C, G; any Cassalanter villain scene |
+| `Davil and the Doom Raider Zhents + Elf Killer mission and more.docx` | Davil Starsong characterization, Doom Raider faction dynamics, the Elf Killer mission hook | Arc B (faction recruitment), Appendix D (Doom Raiders section) |
+| `Gale of Waterdeep in Waterdeep Dragon Heist.docx` | Gale as a recurring NPC; her role in the city's political/magical landscape | Any scene featuring Gale |
+| `Jarlaxle Baenre NPC Guide.docx` | Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him | Arcs C, H; Appendix E (Bregan D'aerthe section) |
+| `Lif and the Haunting of Trollskull Manor.docx` | Lif the poltergeist — history, personality, appeasement mechanics, tavern integration | Arc B; Appendix F |
+| `Meloon Wardragon NPC Guide.docx` | Meloon as a Force Grey contact; his mind-control situation (Ahghairon's Dragonward), morale, and redemption arc | Arc B (faction recruitment), Appendix D (Force Grey section) |
+| `Renaer Neverember Guide, his backstory and family secrets.docx` | Renaer's history, his father's crimes, what he knows vs. what he suspects, roleplaying guidance | Arc A, Arc D; any Renaer scene |
+| `The 3 Urchins NPC Guide.docx` | Nat, Squiddly, and Jenks — personalities, street knowledge, quest hooks, how to use them as recurring contacts | Arc B; any urchin interaction |
+| `The Waterdavian's Guide to Waterdeep NPCs (my notes of a bunch of NPCs all in one place, before I made the more cleaned up NPC Guides).docx` | Broad NPC reference — use as a secondary source; the individual guides above supersede this where they overlap | Secondary reference only |
+| `Vajra Safahr, Zelifarn, and Deepwater Harbor quests.docx` | Vajra as Force Grey Blackstaff, Zelifarn the sea dragon, Deepwater Harbor quest hooks | Arc B (Force Grey contact); Arc H (Zelifarn at Sea Maidens Faire) |
+| `Xoblob_s Shop, NPC guide to his trinkets and roll tables.docx` | Xoblob the deep gnome shopkeeper — personality, shop inventory, trinket roll tables, as a faction-neutral information source | Arc B; any Dock Ward scene |
+| `Zardoz Zord (and extra side quest hook).docx` | Jarlaxle's "Zardoz Zord" persona — the Sea Maidens Faire disguise and an additional side quest hook | Arc C (Sea Maidens Faire first contact), Arc H |
+
+### Subfolders
+
+- **`Event Guides (Shipwrights Ball, Field of Triumph Arc, etc)/`** — Supplementary event guides for specific Waterdeep festivals and activities. Consult when writing the Field of Triumph scene in Arc B or any named festival event.
+- **`Guides to understanding Alexandrian Remix/`** — Meta-documents explaining the Alexandrian's design decisions. Supplementary to `22. How the Remix Works.pdf` — read if you need deeper context on a structural choice.
+- **`VIllain Combat Guides and Enhanced Stat Blocks for certain boss level NPCs/`** — Tactical guidance and enhanced stat blocks for major villain encounters. Consult alongside `boss-design` skill when building any named villain fight. These are 2014 format — convert using `dnd-monster-converter` or `boss-design` skill.
+
+---
+
 ## Quick Lookup Index
 
 Use this table to find sources by topic:
