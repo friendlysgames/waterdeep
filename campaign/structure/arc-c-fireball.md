@@ -198,7 +198,7 @@ Critical entry: NW-02, O. Gralhund, Saerdoun Street, North Ward. Notable entry: 
 
 ### Scene 5: The Cassalanter Dinner (New Content)
 
-**Purpose:** First direct villain contact in the campaign. The party meets Victoro and Ammalia Cassalanter in person, on the Cassalanters' terms, before anything dangerous has happened. Ammalia's warmth is established behavior from Arc B — she is genuinely fond of people who show initiative, not performing for the party's benefit. Victoro steers the conversation toward the Stone with surgical patience. No infernal imagery, no pact, no children. The party's response — how much they share, whether they accept — becomes the Cassalanters' operational picture for Arc G.
+**Purpose:** The Cassalanters make their first move. The party has met Ammalia before — she visited Trollskull Manor in Arc B and is a known patron. This dinner is something different: Victoro is present, the invitation arrived the day after the fireball, and the conversation has an agenda. Ammalia's warmth is unchanged and genuine. Victoro's interest in the Stone is new, careful, and undisguised only to those paying close attention. The party's response — how much they share, whether they accept — becomes the Cassalanters' operational picture for Arc G.
 
 **Content:**
 
@@ -386,7 +386,7 @@ All seventeen decisions are settled from source material and campaign continuity
 
 ## The Cassalanter Approach
 
-***First Direct Villain Contact.*** Arc B introduces the Cassalanters as patrons — warm, generous, not yet dangerous. Arc C delivers the first direct approach: the dinner invitation, the Stone-and-alliance conversation, Victoro's careful interest. Ammalia's warmth is established behavior from Arc B, not a new tactic deployed specifically for manipulation. The dinner is a genuine attempt to recruit capable people before someone else does. The party's response shapes what the Cassalanters know when Arc G begins. This contact solves a pacing problem in the original campaign where the Cassalanters appear in Arc B as patrons and vanish entirely until the Arc G heist, with no intervening contact to bridge that gap. The Arc C dinner makes the connection without revealing anything premature — no pact, no children, no Asmodeus.
+***The Cassalanters Make Their Move.*** Arc B establishes the Cassalanters as warm, generous patrons — Ammalia a known presence at Trollskull Manor. Arc C delivers the first approach with an agenda: the dinner invitation arrives the morning after the fireball, and Victoro is at the table. Ammalia's warmth is unchanged; her role is to make the party comfortable enough that Victoro's question feels collaborative rather than predatory. The dinner is a genuine attempt to recruit capable people before someone else does — and an intelligence-gathering operation. The party's response shapes what the Cassalanters know when Arc G begins. This scene solves a pacing problem in the original campaign where the Cassalanters appear in Arc B as patrons and vanish entirely until the Arc G heist, with no intervening contact to bridge that gap. The Arc C dinner makes the connection without revealing anything premature — no pact, no children, no Asmodeus.
 
 ## Backtracking Dalakhar as Reward for Thoroughness
 
