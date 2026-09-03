@@ -322,17 +322,19 @@ The confrontation should feel tragic. These are desperate parents who chose a mo
 
 *Eye #2 Recovery.* Eye #2 is a small orb-shaped gemstone extracted from behind the Asmodeus statue's base — either through careful bypass of the warding or through the statue's destruction via the mace of disruption. Inserting it into the Stone of Golorr follows the same physical simplicity as Eye #1: it seats into a socket with an exact fit, a resonant tone felt more than heard.
 
-*Stone of Golorr Upgrade — Two Scenarios.*
+*Stone of Golorr Upgrade — Three Scenarios.*
 
-**If this is Eye #1 (Arc F not yet completed).** The Stone awakens for the first time. The attuned character hears a voice — old and precise, like water that has been underground for a long time. It does not say hello. "Two remain." No elaboration. The fragmentary images from Arc E Scene 1 clarify: "salt air and creaking wood, dark-skinned elf with silver hair" resolves to a ship in Waterdeep harbor, a theater company's banner, a patient figure at the prow. "An eye, unblinking in darkness, carved stone wet from underground springs" resolves to the beholder's lair beneath Skullport. Unprompted: "I want to be whole." The Stone's cooperation with the party is overlap of interest, not loyalty.
+**If this is the first Eye restored (neither Arc F nor Arc H completed).** The Stone awakens for the first time. The attuned character hears a voice — old and precise, like water that has been underground for a long time. It does not say hello. "Two remain." No elaboration. The fragmentary images from Arc E Scene 1 clarify: "salt air and creaking wood, dark-skinned elf with silver hair" resolves to a ship in Waterdeep harbor, a theater company's banner, a patient figure at the prow. "An eye, unblinking in darkness, carved stone wet from underground springs" resolves to the beholder's lair beneath Skullport. Unprompted: "I want to be whole." The Stone's cooperation with the party is overlap of interest, not loyalty.
 
-**If this is Eye #2 (Arc F already completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
+**If this is the second Eye restored (one of Arc F or Arc H completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
 
 - "One remains."
-- The remaining Eye's location resolves fully: "A ship in the harbor. The Scarlet Marpenoth. A silver-haired elf who has been patient for eleven years." The Stone identifies the Eye by proximity-sense, not by name.
+- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If Arc F was first (Xanathar's lair already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A silver-haired elf who has been patient for eleven years." If Arc H was first (Jarlaxle's Eye already recovered), the final impression is: "Beneath Skullport. An eye, unblinking in carved stone, wet from underground springs. It has been waiting longer than anyone has been looking." The Stone identifies each Eye by proximity-sense, not by name.
 - The Vault's existence acknowledged: the Stone confirms it knows where the Vault is and that three Eyes will unlock the full knowledge. It does not reveal the location or command phrase.
 - The Stone's agenda deepens: "I am remembering what I was." The aboleth consciousness bleeds through more strongly — references to deep water, dreaming minds, geological patience. The Mad Mage seed intensifies.
 - What it does NOT reveal: the vault location, the command phrase, and Aurinax's nature. These require all three Eyes.
+
+**If this is the third Eye restored (both Arc F and Arc H already completed).** The Stone goes still, then speaks with sudden, precise clarity. The fragmentary impressions are gone. The vault's location, the command phrase, and the nature of its guardian resolve in full. Run the 3-Eye disclosure scene from Arc J at this point. Arc order does not change the awakening, only its timing.
 
 *Faction State Changes.*
 
