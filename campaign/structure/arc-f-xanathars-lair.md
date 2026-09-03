@@ -387,6 +387,8 @@ Xanathar uses a custom two-phase boss stat block rather than the 2024 Monster Ma
 
 The purpose of the two-phase design is to give Xanathar a combat identity that reflects character rather than just capability. A beholder is already terrifying by the numbers. The specific flavor of Xanathar's fight — the specific eye rays he prioritizes, the moment he breaks and runs, what he screams when he runs — comes from who he is. That specificity distinguishes this fight from any other beholder encounter the party might have.
 
+*The stat block itself will be built in Appendix B using `/boss-design`.*
+
 ## Variable Difficulty and Escalation State
 
 The four-tier difficulty table translates Arc E's outpost consequences into Arc F's environment without requiring DM judgment. The reason this must be table-specified is that it rewards player decisions in Arc E with concrete, legible consequences in Arc F. If hitting outposts changes nothing about the lair, the party learns that outpost actions don't matter. If hitting outposts makes the lair harder in specifically defined ways they can discover through reconnaissance, the party learns that their actions have weight. The tier table makes this legible, repeatable, and consistent regardless of which DM runs it.
