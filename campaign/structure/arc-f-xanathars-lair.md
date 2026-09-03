@@ -247,9 +247,9 @@ Once Stage 3 fires, the party has approximately 4 minutes before Ahmaergo's team
 
 *Eye #1 Recovery.* The Eye is a smoky-gray gemstone the size of a large marble. Beside the Stone of Golorr, it is obviously the same material, like a piece broken from the Stone's surface and polished separately. It seats into one of three oval sockets on the Stone's face. The fit is exact. There is a resonant tone, felt more than heard, and then the Stone changes.
 
-*The Stone Wakes — 1 Eye Restored.*
+*Stone of Golorr Upgrade — Three Scenarios.*
 
-This is the scene's centerpiece. The DM should pause the action here. The party has been carrying an object. They are about to discover they've been carrying a consciousness.
+**If this is the first Eye restored (neither Arc G nor Arc H completed).** This is the scene's centerpiece. The DM should pause the action here. The party has been carrying an object. They are about to discover they've been carrying a consciousness.
 
 The attuned character hears a voice for the first time. It is not warm. It is old and precise, like water that has been underground for a long time. It does not say hello. It says what it means and stops.
 
@@ -262,6 +262,16 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 **What It Does Not Say.** The vault's location, the command phrase, and the precise position of either remaining Eye (that requires 2 Eyes). The Stone communicates more than it did. It does not communicate everything.
 
 **Mad Mage Seed.** For one moment — brief, involuntary — the attuned character experiences the Stone's communication as something vaster than a Stone. Not just old. Something that once dreamed, much further below, in the dark under the dark. The impression passes in seconds. The Stone says nothing about it. The DM should not explain it. It is a seed, and it belongs to Undermountain.
+
+**If this is the second Eye restored (one of Arc G or Arc H completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
+
+- "One remains."
+- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If Arc G was first (Cassalanter villa already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A silver-haired elf who has been patient for eleven years." If Arc H was first (Jarlaxle's Eye already recovered), the final impression is: "A villa in the Sea Ward. A temple beneath it, stone floor engraved with the Cassalanter house mark. The children's laughter has a hollow quality." The Stone identifies each Eye by proximity-sense, not by name.
+- The Vault's existence acknowledged: the Stone confirms it knows where the Vault is and that three Eyes will unlock the full knowledge. It does not reveal the location or command phrase.
+- The Stone's agenda deepens: "I am remembering what I was." The aboleth consciousness bleeds through more strongly — references to deep water, dreaming minds, geological patience. The Mad Mage seed intensifies.
+- What it does NOT reveal: the vault location, the command phrase, and Aurinax's nature. These require all three Eyes.
+
+**If this is the third Eye restored (both Arc G and Arc H already completed).** The Stone goes still, then speaks with sudden, precise clarity. The fragmentary impressions are gone. The vault's location, the command phrase, and the nature of its guardian resolve in full. Run the 3-Eye disclosure scene from Arc J at this point. Arc order does not change the awakening, only its timing.
 
 *Faction State Changes.*
 
