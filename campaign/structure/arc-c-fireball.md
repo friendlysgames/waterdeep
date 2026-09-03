@@ -192,13 +192,39 @@ Critical entry: NW-02, O. Gralhund, Saerdoun Street, North Ward. Notable entry: 
 
 *The Voided Cassalanter Entry. (New Content)* The complete ledger records a Cassalanter commission — placed, programmed, voided before delivery. Notation: "Buyer withdrew — unspecified concerns re: detection." Victoro Cassalanter suspected the nimblewrights might contain surveillance devices. He was correct. The clairvoyance crystal reference numbers in the ledger are the key: each purchased nimblewright has a corresponding crystal recording what it witnesses. Victoro pulled his order when he worked this out. This pays off in Arc G when the party discovers what the Gralhund unit's crystal captured.
 
-*The Cassalanter Approach. (New Content)* Before the party reaches Gralhund Villa, Ammalia Cassalanter sends a dinner invitation — warm, personal, references the fireball as a neighborhood tragedy. Victoro steers the dinner conversation toward the Stone and offers a cooperative arrangement. No mention of the children, the infernal pact, or Asmodeus. This is the first direct villain contact. The party's response — sharing intelligence, deflecting, or accepting with reservations — shapes what the Cassalanters know when Arc G begins. Cross-ref Arc G (Cassalanter Villa approach and alliance mechanic).
-
 **Tone:** Layered, transactional. Every conversation is a negotiation. Information has a price. Every person who helps the party is also pursuing their own agenda. Jarlaxle's warmth and the party's frustration at the apparent stall are both genuine — neither cancels the other.
 
 ---
 
-### Scene 5: Backtracking Dalakhar (Optional)
+### Scene 5: The Cassalanter Dinner (New Content)
+
+**Purpose:** First direct villain contact in the campaign. The party meets Victoro and Ammalia Cassalanter in person, on the Cassalanters' terms, before anything dangerous has happened. Ammalia's warmth is established behavior from Arc B — she is genuinely fond of people who show initiative, not performing for the party's benefit. Victoro steers the conversation toward the Stone with surgical patience. No infernal imagery, no pact, no children. The party's response — how much they share, whether they accept — becomes the Cassalanters' operational picture for Arc G.
+
+**Content:**
+
+*The Invitation.* Ammalia sends a personal note within a day of the fireball, handwritten on cream vellum in a clear, unhurried hand. She references the neighborhood tragedy, expresses concern for "those so near the incident on Ches 22nd," and invites the party to dinner at Cassalanter Villa the following evening. The letter mentions that Victoro is eager to meet them properly, which is the only signal that business will be discussed. There is no pressure: the invitation includes a footman's address for a reply.
+
+*The Villa.* Cassalanter Villa sits in the Sea Ward, set back from the street behind an iron gate and a garden whose topiary has been maintained for two generations. The house staff is attentive, formal, and impeccably briefed. The dining room seats twelve; tonight it is set for six. The children are "not well enough for company" — a detail offered once and not returned to. The food is excellent. The wine is exceptional. Everything is exactly right, and a party paying attention will find the precision slightly exhausting.
+
+*Ammalia at the Table.* She remembers every detail the party mentioned in Arc B — neighborhood politics, the state of Trollskull Manor, small personal observations — and asks after them with what reads as genuine interest. She is not performing warmth; she possesses it in excess and deploys it without calculation, which makes her harder to read than Victoro. A DC 14 Insight check reveals that she is watching to see how the party handles kindness, not suspicion: she is forming an opinion. The result of that opinion is Victoro's problem.
+
+*Victoro's Pitch.* After the first course, Victoro raises the fireball. He expresses condolences. He mentions that the family had some acquaintance with Lord Neverember's later projects and that the object Dalakhar was carrying has "historical and financial significance beyond what most people appreciate." He does not name the Stone of Golorr. He offers to share what the Cassalanters have learned — contacts, research, documents — in exchange for a first conversation if the party recovers the object. His language is courteous, precise, and carries no threat. He does not ask for the Stone. He asks to be in the room.
+
+*What the Cassalanters Know.* Victoro knows: Dalakhar worked for Neverember, the Stone is the key to a concealed vault, all three Eyes were separated from the Stone years ago, and the vault's physical entrance is in the Brandath family crypt. He does not share any of this at the dinner. His goal is assessment — he wants to know how much the party has found and whether they are worth cultivating.
+
+*What the Cassalanters Do Not Know.* Nobody at this table knows the Cassalanters are infernalists — not the Harpers, not Force Grey, not the party. Ammalia and Victoro do not volunteer anything about the children, the pact, or the shrine. The debt is the conversation they are not having. A DC 16 Insight check on Victoro reads him as a man who made a decision he cannot unmake and has arranged his life carefully around it. This is accurate. It yields nothing.
+
+*Party Response and Consequences.*
+- **Sharing intelligence:** The Cassalanters learn where the investigation points. Victoro updates his operational picture. Entering Arc G, he knows what the party found at Gralhund Villa and what they did there. Cassalanter response teams are positioned accordingly.
+- **Deflecting:** Victoro notes the restraint and interprets it as operational caution — a quality he respects. He does not press. Entering Arc G, he treats the party as capable but unaligned.
+- **Accepting the arrangement:** Victoro follows up within two days with a sealed letter summarizing what the Cassalanters know — no vault specifics; he is not foolish. Entering Arc G, the party has a prior relationship and a document trail. The alliance track opens.
+- **Refusing outright or treating the dinner as hostile:** Ammalia does not change expression. Victoro sees them out personally. Entering Arc G, the party is a complication rather than an asset.
+
+**Tone:** Layered hospitality. Every comfort is real and every comfort is a negotiating position. Ammalia is the warmth; Victoro is the patience. The party is not in danger. They are being evaluated by people who are very good at it.
+
+---
+
+### Scene 6: Backtracking Dalakhar (Optional)
 
 **Purpose:** Optional investigation branch rewarding thorough parties with Grand Game history, a Cassalanter connection through Kalain, and vault-opening clues that pay off in Arc J. Non-essential for reaching Gralhund Villa — gated behind proactive behavior, not hidden by design.
 
@@ -319,7 +345,7 @@ All seventeen decisions are settled from source material and campaign continuity
 
 - **Arc B, Scene 7** — Twin Parades nimblewright sighting; parties that made the DC 14/16 check recognize Jezrynne's description in Scene 1 without a check. Arc B's Milestone establishes the DM's observation task that resolves as the twelfth body.
 - **Arc D: Gralhund Villa** — Direct sequel. Faction advice, "Choosing a Course of Action," and "If They Don't Go" contingencies open Arc D. Urstul Floxin's strike team arrives night of Ches 24th regardless of party action.
-- **Arc G: Cassalanter Villa** — Cassalanter dinner in Scene 4 is the first direct villain contact. The voided nimblewright ledger entry establishes that Victoro correctly suspected surveillance devices. Kalain's account of Victoro's visit (Scene 5, optional) is the first concrete vault-to-Cassalanter link.
+- **Arc G: Cassalanter Villa** — Cassalanter dinner in Scene 5 is the first direct villain contact. The voided nimblewright ledger entry establishes that Victoro correctly suspected surveillance devices. Kalain's account of Victoro's visit (Scene 5, optional) is the first concrete vault-to-Cassalanter link.
 - **Arc H: Sea Maidens Faire** — Jarlaxle's conditional activation in Scene 4 seeds the heist target. The *Scarlet Marpenoth* model at the House of Inspired Hands and the sub's presence beneath the *Eyecatcher* establish the submersible as a high-value intelligence asset.
 - **Arc J: Vault of Dragons** — Lord Dagult's papers (Scene 5, optional): vault-opening method, Kraddoc correspondence, unsigned Eyes letter confirming all three were in Neverember's hands four years ago. All three pay off at Arc J.
 - **Appendix A: NPC Roster** — Profiles required for: Barnibus Blastwind, Saeth Cromley, Fala Lefaliir, Jezrynne Hornraven, Renaer Neverember, Valetta, Nim, Captain Zord (Jarlaxle), Myl Dunpier, Kalain, Urstul Floxin, Ammalia and Victoro Cassalanter, Davil Starsong, Tashlyn Yafeera.
