@@ -197,6 +197,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 **Arc Opener format:** The Arc Opener is backstory — it describes how the arc's situation came to exist, not what happens during the arc. It does not narrate faction consultations, chases, or confrontations that occur in the scenes. See the Arc D Opener as the corrected example.
 
+**Order-agnostic Stone scenarios:** Stone of Golorr upgrade sections must frame upgrades around how many Eyes have been restored (first/second/third), never around which specific arc preceded. When two Eyes are restored, split into two sub-cases based on which prior lair arc ran first, each pointing to the correct remaining impression. Applies to every lair arc (F, G, H) — do not condition upgrade text on a fixed arc ordering.
+
 ---
 
 ## Workflows
