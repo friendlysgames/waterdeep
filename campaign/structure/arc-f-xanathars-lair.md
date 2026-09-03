@@ -70,14 +70,9 @@ Suborning: reaching X16 and altering two specific runes in the control array tak
 
 Without suborning the panopticus, the party must reroute entirely around monitored areas. X18 and X19 both have sensors; reaching the Sanctum through the main corridors without suborning or bypassing X18 means moving through active scrying coverage.
 
-*Xanathar's Pre-Set Location.* The DM determines Xanathar's location before the session, as a deliberate dramatic choice, not a die roll at the table.
+*Xanathar's Location.* Xanathar is in X19 (the Sanctum) with Sylgar. He has barely left for weeks. The Eye is there. So is he.
 
-| Location | State | DM Recommendation |
-|----------|-------|------------------|
-| Arena, invisible (X6) | Watching fights in private | Best for: parties using gladiatorial transport, tournament active, Unaware tier |
-| Public Audience (X18) | Holding court, Guild petitions | Best for: parties entering via X1, moderate escalation, Suspicious tier |
-| Sanctum (X19) | With Sylgar, brooding | Best for: creating an inevitable confrontation, Alert or Lockdown tier |
-| Asleep (X21) | Fitful sleep, dream nullifier pulsing | Best for: creating maximum opportunity window for a capable party, Unaware tier |
+This means the party cannot simply walk into X19 and take the Eye — not unless they create a window. The dream nullifier in X20 exists for this purpose: destroying it sends Xanathar into the corridor to find Ahmaergo, giving the party approximately 4 minutes. A party that found X20 through reconnaissance or Thorvin's guidance has a clean extraction opportunity. A party that didn't must extract the Eye while a paranoid beholder is in the room.
 
 *Safe Zone: Area X28.* The Guild Recreation Hall has no panopticus sensor. Nihiloor built this blind spot intentionally; rank-and-file Guild members speak more freely without surveillance, and their unguarded conversations are useful intelligence. The party can use X28 as a staging area once they reach it: rest, plan, treat wounds, or establish a rendezvous. Guild members here are occupied with card games and arguments and will not scrutinize strangers with a plausible story.
 
@@ -113,14 +108,14 @@ Consequences: Xanathar is destroyed if present in the lair, or escapes through t
 Permanent consequences: the Guild is gone as an intelligence resource. The Arc J vault approach loses access to Guild knowledge and contacts. The Undermountain connection from X4 is sealed. The party trades a dangerous faction they can understand for an unconstrained Nihiloor operating below the city with no leash.
 *The Dream Nullifier (X20).* A copper bowl the size of a serving dish, mounted in a maintenance alcove between X19 and X21. A Passive Perception score of 15 or higher notices it while passing through the corridor. A DC 13 Intelligence (Arcana) check identifies its function: it prevents Xanathar from dreaming of other beholders, waking him before the dream takes hold.
 
-Destroying it (antimagic field or dispel magic against DC 15) triggers behavioral change within 3 minutes: intrusive dream-images of other beholders crowd Xanathar's perception. He summons Ahmaergo and two guards to his location, demanding explanation. The party has approximately 4 minutes to move through the areas those guards were stationed in.
+Destroying it (antimagic field or dispel magic against DC 15) triggers behavioral change within 3 minutes: intrusive dream-images of other beholders crowd Xanathar's perception. He leaves X19 to find Ahmaergo, demanding explanation, seeking confirmation that the lair is still secure. He moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
 
 *Variable Difficulty: Escalation Tier.*
 
 | Tier | Entry | Panopticus | Guards | Tournament |
 |------|-------|------------|--------|------------|
 | Unaware | Standard | Standard (DC 16) | 20-minute patrol intervals | Runs on schedule |
-| Suspicious | X1 unwatched; X4 checked | DC checks +2 | Extra pairs at X2, X4 | Runs; Xanathar watches from X18 |
+| Suspicious | X1 unwatched; X4 checked | DC checks +2 | Extra pairs at X2, X4 | Runs; Xanathar remains in X19 |
 | Alert | X1 trapped | DC checks +2 | Posts doubled; Ahmaergo patrols X12–X18 | Suspended |
 | Lockdown | X1 barricaded and trapped; X4 crossbow-point | DC checks +4 | Full response team in X6 at all times | Suspended; X4 transport severed |
 
@@ -152,13 +147,15 @@ Destroying it (antimagic field or dispel magic against DC 15) triggers behaviora
 
 **X16 — Panopticus Chamber.** A circular room with a central crystal array connecting five crystal housings to the lair's sensors by preserved magical filaments. Three dwarves monitor the feeds. The room smells of ozone and something faintly organic. The control runes are visible on the primary housing (DC 14 Intelligence (Arcana) to identify); altering two specific runes (DC 16, 3 minutes) replaces the live feed with a recorded loop. The three dwarves are non-combatants — they surrender immediately if confronted and know which areas have active sensors, what each feed currently shows, and when the last alarm test was run. They do not know about Nihiloor's back door into the system.
 
-**X18 — Audience Chamber.** The lair's largest upper-level room. A high-vaulted chamber with a raised dais; the panopticus sensor here is the widest-field in the lair, covering the entire chamber floor and both side corridors. During an active audience session: 15–25 Guild members waiting for their turn. The door to X19 is behind the dais — two guards flank it during empty periods; four guards plus Xanathar's bulk during an active session.
+**X18 — Audience Chamber.** The lair's largest upper-level room. A high-vaulted chamber with a raised dais; the panopticus sensor here is the widest-field in the lair, covering the entire chamber floor and both side corridors. During an active audience session: 15–25 Guild members waiting for their turn. The door to X19 is behind the dais — two guards flank it during empty periods; four guards flank it during an active session.
 
 **X19 — Xanathar's Sanctum.** A circular room with purple carpet. Personal relics on shelves: small figures, collected baubles, trinkets from significant moments in Xanathar's life. At the center, Sylgar's bowl — a large crystal sphere filled with salt water, algae, decorative rocks, and Sylgar the goldfish. At the bottom of the sphere, among the rocks, glinting faintly through the water's refractions: Eye #1. A small smoky-gray gemstone Ott Steeltoes placed there months ago because it looked like it belonged.
 
-Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. If Xanathar is present, this draws immediate attention ("What happened to Sylgar? What did you do to Sylgar?"). If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. He begins with eye rays.
+Xanathar is here. The party must extract the Eye with a paranoid beholder in the room — unless they have already used X20.
 
-**X20 — Dream Nullifier.** A copper bowl in a maintenance alcove between X19 and X21. Passive Perception 15 to notice while passing. Destroying it: antimagic field or dispel magic (DC 15). Effect: within 3 minutes, Xanathar experiences intrusive beholder-images and summons Ahmaergo plus two guards to his location. The party gains approximately 4 minutes to move through the areas those guards vacated.
+Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. Xanathar snaps to attention: "What happened to Sylgar? What did you do to Sylgar?" If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. He begins with eye rays.
+
+**X20 — Dream Nullifier.** A copper bowl in a maintenance alcove between X19 and X21. Passive Perception 15 to notice while passing. Destroying it: antimagic field or dispel magic (DC 15). Effect: within 3 minutes, Xanathar experiences intrusive beholder-images and leaves X19 in agitation to find Ahmaergo — demanding explanation, seeking confirmation the lair is secure. He moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
 
 **X28 — Guild Recreation Hall.** No scrying sensor. Card games, arm wrestling, complaints about Xanathar. Off-duty Guild members here will not scrutinize strangers with a plausible story. The party can rest up to 1 hour, plan next steps, or wait out a patrol sweep.
 
@@ -218,7 +215,7 @@ Jarlaxle's team — himself, one BD lieutenant, and a response team — uses whi
 | Undetected, moving toward X19 | Launches a distraction — a loud "accident" at X4 drawing guards and giving X16 two contradictory feeds | Party benefits from the confusion; may encounter BD operatives in corridors and mistake them for enemies |
 | Detected, cascade active | Exploits the chaos the party created to rush X14 → X19 | Race to the Eye; whoever arrives at X19 first claims it |
 | Allied with Nar'l | Nar'l tips Jarlaxle; BD team avoids X19 for 20 minutes | Party may discover this coordination from Nar'l's behavior |
-| Party in X19 when Jarlaxle arrives | Three-way: PCs, Jarlaxle, Xanathar if present | Jarlaxle immediately negotiates — he'd rather split benefit than fight. His offer: the Eye for a favor to be named later. He does not negotiate down from this |
+| Party in X19 when Jarlaxle arrives | Three-way: PCs, Jarlaxle, Xanathar (present unless X20 was used) | Jarlaxle immediately negotiates — he'd rather split benefit than fight. His offer: the Eye for a favor to be named later. He does not negotiate down from this |
 | Party has the Eye, escaping | Jarlaxle withdraws his team | Clean exit. But Jarlaxle knows what they took, and Arc H's stakes are now shaped by this |
 
 The simultaneous heist is a pressure-release valve. If the party's heist collapses at Stage 3 or 4, Jarlaxle's distraction pulls heat and opens a window. If the heist fails entirely and Jarlaxle claims the Eye, the campaign does not end. It redirects. Arc H becomes a recovery operation with the Eye in Jarlaxle's possession. The party enters Arc H from behind, under pressure, with less leverage. This is a consequence.
@@ -339,7 +336,11 @@ Eye #1 has been intentionally placed in Sylgar's fishbowl rather than a vault, s
 
 Xanathar does not know the Eye's value. Ott Steeltoes thought it was a pretty stone and placed it where Xanathar likes his fish's habitat to look interesting. It has been sitting there for months, protected less by paranoid security than by the fact that nobody knows it's there. This placement tells the party more about Xanathar's nature in one beat than any amount of descriptive prose: a being of tremendous power who keeps a world-altering artifact as an inadvertent pet decoration.
 
-The extraction challenge — removing the Eye without disturbing Sylgar — provides a final moment of focus and calibrated tension even for parties that reach X19 cleanly. The fish is the last obstacle. Making the rule that harming Sylgar turns Xanathar immediately and irreversibly Hostile is correct: it reflects that Xanathar values Sylgar above guild loyalty, above tactical self-interest, above anything else in the lair. Violating that should carry the most severe possible consequence.
+Xanathar is in X19 when the party arrives. This is not conditional on tier or timing — it is the design. The question is not whether Xanathar is there but whether the party has found X20.
+
+A party that found the dream nullifier through Thorvin's guidance or onsite reconnaissance has a tool: destroy it, wait three minutes, follow Xanathar out of the room, and extract the Eye with four minutes of silence. A party that didn't find X20 must extract the Eye while a paranoid beholder watches them. Both paths reach the same moment — the Sleight of Hand check against the fishbowl — but the first is deliberate and timed, and the second is improvised and desperate. This is the correct two-track design for a heist arc: preparation should matter, and the party that prepared should feel it.
+
+Making the rule that harming Sylgar turns Xanathar immediately and irreversibly Hostile is correct: it reflects that Xanathar values Sylgar above guild loyalty, above tactical self-interest, above anything else in the lair. Violating that should carry the most severe possible consequence.
 
 ## The Stone Speaks
 
