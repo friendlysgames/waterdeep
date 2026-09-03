@@ -99,7 +99,9 @@ Xanathar deploys response teams in escalating tiers. The first or second team th
 
 ### Outposts
 
-#### Terasse Estate (Castle Ward, Elsambul's Lane)
+#### Terasse Estate — Mini-Heist (Castle Ward, Elsambul's Lane)
+
+*Full 5-step planning framework in Arc E Scene 4A. This entry provides keyed area reference for the operation.*
 
 A modest rowhouse secretly owned by Xanathar. On the surface, Keln Trigos runs a healing operation for Xanatharian agents. Behind that, the estate is one of Waterdeep's gladiatorial gathering points. Those who want to attend the fights in Xanathar's Lair report here, are plied with exotic food, then blindfolded and escorted through an underground dock to the caverns near Skullport.
 
@@ -115,7 +117,11 @@ A modest rowhouse secretly owned by Xanathar. On the surface, Keln Trigos runs a
 
 **Roster:** Keln Trigos (**priest**) + 2 **guards** + 1d4 Xanatharian agents (**thug** stat block).
 
-#### Grinda Garloth / Mistshore (Dock Ward)
+**Escalation:** Xanathar moves to Suspicious (Tier 2). If a second Xanathar outpost has already been hit, moves directly to Alert (Tier 3); Gorath's team deploys within 2 days to the last known party location. **Founders' Day Clock: 2–4 days.**
+
+#### Grinda Garloth's — Encounter-Plus (Dock Ward, Mistshore)
+
+*Independent discovery path: any character asking about Xanathar weapons, black-market arms, or Guild suppliers in the Dock Ward gets pointed to Grinda in Mistshore within a day (DC 12 Charisma, no faction membership required). This is the Xanathar chain's street-level entry point.*
 
 Grinda runs her operation out of the standard Mistshore description from the original campaign, ignoring seasonal variants. She is Xanathar's black market armorer, equipping Xanatharian agents on request and freelancing to third parties for coin.
 
@@ -125,7 +131,9 @@ Grinda runs her operation out of the standard Mistshore description from the ori
 
 **Roster:** Grinda Garloth (**mage** stat block) + 2 **scouts**.
 
-#### Orb Confectioners / Xanathar Sewer Hideout (Southern Ward, Rising Ride)
+**Escalation:** Xanathar moves to Suspicious (Tier 2) if raided; no tier change if the party engages as customers without taking documents. **Founders' Day Clock: 1–2 days.**
+
+#### Orb Confectioners / Xanathar Sewer Hideout — Encounter-Plus (Southern Ward, Rising Ride)
 
 Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes, sweatmeats, sugar plates, candied nuts. Its cellar connects to a duergar operation run by Korgstrod Uxgulm. Use the Autumn version of the Cellar Complex (DH p. 86) for the layout.
 
@@ -136,6 +144,8 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 *Area B9b — Korgstrod's Room.* The chest at the foot of the bed is a **mimic**. A hidden coffer under the bed (DC 13 to find) holds 500 gp and *Correspondence with N'arl Xibrindas*: "Only you, me, and X know of the smokepowder. It must be brought to the Staircase of Eyes on the night of the 1st at precisely the stroke of eleven. Use disposable muscle. I will mark the sewer tunnels west of your hideout with a red eye to guide your men." N'arl's guildsigns lead toward Area X1 of Xanathar's Lair; the trail requires DC 15 checks, rising to DC 17 near the lair itself. Three failures before a success means the trail is gone.
 
 **Roster:** Korgstrod Uxgulm (**duergar**) + 4 **duergar**.
+
+**Escalation:** Xanathar moves to Alert (Tier 3). Korgstrod's response team deploys within 1d4 days of the operation. **Founders' Day Clock: 1–3 days.**
 
 ---
 
@@ -179,7 +189,9 @@ Any Zhentarim team sent to attack the PCs carries orders to take them as prisone
 
 ### Outposts
 
-#### Interrogation House (Trade Ward, Brindul Alley)
+#### Interrogation House — Encounter-Plus (Trade Ward, Brindul Alley)
+
+*Independent discovery path: parties that searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the safe house through Trade Ward canvassing — the traffic is unusual enough to notice (DC 14 Investigation over a day, no faction membership required). This is the Manshoon chain's street-level entry point.*
 
 Use the map for house L1 (DH p. 62). Avareen Windrivver and Zorbog Jyarkoth maintain this as a combination safe house and covert interrogation center. Three black **flying snakes** nest near the ceiling, the Zhentarim's message couriers.
 
@@ -191,7 +203,11 @@ Rescuing Ott: he immediately tries to recruit his rescuers into Xanathar's organ
 
 **Roster:** Avareen Windrivver (**spy**) + Zorbog Jyarkoth (**thug**) + 3 **flying snakes**.
 
-#### Yellowspire (Castle Ward)
+**Escalation:** Manshoon moves to Alert (Tier 3). Flying snakes carry the alarm within hours if any escape; Vevette Blackwater's team deploys within 1d4 days. If Xanathar cross-faction spillover applies, Manshoon moves to Lockdown (Tier 4). **Founders' Day Clock: 1–2 days.**
+
+#### Yellowspire — Mini-Heist (Castle Ward)
+
+*Full 5-step planning framework in Arc E Scene 5B. This entry provides keyed area reference for the operation.*
 
 Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers, one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
 
@@ -200,6 +216,8 @@ Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **aco
 **Gralhund complication:** If the Gralhunds remain active in the Grand Game, their agent Chirada may be watching Yellowspire from across the street. The Gralhunds may mount their own raid on Yellowspire to access the teleportal, inserting a third party into whatever operation the PCs are planning.
 
 **Roster:** Amath Seccent (**priest**) + 4 **acolytes**. Agorn Fuoco may also be present (1-in-3 chance on any given day).
+
+**Escalation:** Manshoon moves to Suspicious (Tier 2) if the Interrogation House has not yet been hit; moves to Lockdown (Tier 4) if it has. Agorn carries word to surviving Zhentarim contacts if he escapes; response teams redeploy within 1d4 days. **Founders' Day Clock: 3–5 days.**
 
 ---
 
@@ -243,7 +261,7 @@ The Cassalanters' posture in the Grand Game shifts based on whether the PCs are 
 
 ### Outposts
 
-#### Asmodean Shrine (North Ward, Aveen Street)
+#### Asmodean Shrine — Encounter-Plus (North Ward, Aveen Street)
 
 From outside, an unremarkable residence. Inside, every room has been converted to Asmodean worship. The Cassalanters bought this property after discovering the Hell cyst in Area 8 below: a pinprick of Hell co-located onto the Material Plane, which powers the summoning circle above it.
 
@@ -265,7 +283,11 @@ The apprentice wizard in Area 2 carries *Instructions from Lord Cassalanter* dir
 
 **Roster:** 1 **cult fanatic** + 2 **imps** (Area 1) | 1 **apprentice wizard** + 2 **imps** (Area 2) | 2 **cult fanatics** (Area 4).
 
-#### Converted Windmill (Southern Ward, Coachlamp Lane)
+**Escalation:** Cassalanters move to Alert (Tier 3). Imp survivors report to the family within hours; Seffia's team deploys within 2 days. If BD outposts have also been hit, Cassalanters flag the party as a threat to their Faire surveillance arrangement. **Founders' Day Clock: 1–2 days.**
+
+#### Converted Windmill — Mini-Heist (Southern Ward, Coachlamp Lane)
+
+*Full 5-step planning framework in Arc E Scene 6B. This entry provides keyed area reference for the operation.*
 
 Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and Seffia Naelryke live here as cult fanatics in plain dress.
 
@@ -277,6 +299,8 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 - The desk holds a map of Waterdeep. Strange lines of blood criss-cross it, but one location in the City of the Dead has been circled in charcoal with accompanying text identifying it as the "Brandath Crypt."
 
 **Roster:** Seffia Naelryke (**cult fanatic**) + Arn Xalrondar (**cult fanatic**) + 1 **imp** (invisible, on watch).
+
+**Escalation:** Cassalanters move to Lockdown (Tier 4) if the shrine has already been hit; Alert (Tier 3) if this is the first Cassalanter outpost. If the sentry imp escapes, Cassalanters know exactly what was taken. **Founders' Day Clock: 3–5 days.**
 
 ---
 
@@ -312,7 +336,7 @@ Later in the campaign, a single team may include all three surviving lieutenants
 
 ### Outposts
 
-#### Fenerus Stormcastle's House (Trade Ward, Quill Alley)
+#### Fenerus Stormcastle's House — Encounter-Plus (Trade Ward, Quill Alley)
 
 Use the description from DH p. 63. Fenerus collects messages from dead drops throughout the Trades Ward and stores them at the house; Krebbyg picks them up every 1d3 days. Fenerus is not supposed to know where the messages go, but he followed Krebbyg once and does.
 
@@ -328,7 +352,11 @@ Use the description from DH p. 63. Fenerus collects messages from dead drops thr
 
 **Roster:** Fenerus Stormcastle (**commoner**) + no permanent guards.
 
-#### Seven Masks Theater (Dock Ward)
+**Escalation:** Bregan D'Aerthe moves to Suspicious (Tier 2) if the party searches the house without BD renown; no tier change if they visit openly with Jarlaxle's introduction. If Fenerus has already been kidnapped before the party arrives, no escalation triggers — the kidnap is not traceable to the party from BD's perspective. **Founders' Day Clock: 1–3 days (longer if staking out for Krebbyg).**
+
+#### Seven Masks Theater — Mini-Heist (Dock Ward)
+
+*Full 5-step planning framework in Arc E Scene 7B. This entry provides keyed area reference for the operation.*
 
 Use the Autumn version of the theater (DH p. 75). Jarlaxle owns it under the false identity of Rongquan Mystere. One dressing room is kept empty as an emergency safe house for D'Aerthe agents. Jarlaxle uses the theater for neutral-ground meetings with other factions.
 
@@ -337,6 +365,8 @@ Use the Autumn version of the theater (DH p. 75). Jarlaxle owns it under the fal
 Malcolm Brizzenbright haunts the building. He shares his knowledge with PCs who treat him with respect, including the detail about "Rongquan" meeting with drow who mentioned the Sea Maidens Faire.
 
 **Roster:** 2 **drow** (safe house guards, present only when the dressing room is occupied) + Malcolm Brizzenbright (ghost, non-hostile).
+
+**Escalation:** Bregan D'Aerthe moves to Alert (Tier 3) if the dressing room is searched without BD sanction. BD renown penalties apply if the outpost is raided without an established relationship; if drow guards escape, Jarlaxle knows before the party reaches the door. **Founders' Day Clock: 2–4 days.**
 
 ---
 
