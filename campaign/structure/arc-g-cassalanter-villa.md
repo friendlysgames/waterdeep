@@ -28,7 +28,9 @@ The household holds six souls who know what lies beneath. Willifort Crowelle, do
 
 **Content.**
 
-*Running This Scene.* Same format as Arc F Scene 1: a montage of faction consultations, each adding a piece to the picture. Run whichever contacts have active relationships with the party. The intelligence here is shallower than Arc F's — no faction has an embedded agent inside the villa, and the Cassalanters' social position makes direct surveillance difficult. What the contacts provide is context, suspicion, and operational windows.
+*Running This Scene.* Each contact below is available only to party members of that faction. A party with no Harper has no channel to Mirt; a party with no Force Grey member has no Vajra briefing. The scene's intelligence yield depends entirely on which factions the party joined during Arcs B and C. This is by design.
+
+The intelligence here is shallower than Arc F's — no faction has an embedded agent inside the villa, and the Cassalanters' social position makes direct surveillance difficult. What the contacts provide is context, suspicion, and operational windows.
 
 *Mirt (Harpers).* Mirt has attended Cassalanter social events for years. He knows the villa's public layout from personal observation — the entrance hall, the ballroom, the garden, the dining rooms. He has always suspected hidden areas: "No noble family needs that much cellar space. I've been in that wine cellar — it's too small for a house that size. The stonework on the west wall doesn't match." If the Asmodean Shrine outpost was hit in Arc E, Mirt can confirm the cult connection and warn that Cassalanter security will have tightened. He lacks hard evidence sufficient for the Masked Lords — he needs proof from inside the villa. He says this directly: "I can suspect all I like. The Lords need something I can put on a table."
 

@@ -24,7 +24,9 @@ Jarlaxle has known about Nar'l Xibrindas's double-agent role for eleven years. T
 
 **Content.**
 
-*Running This Scene.* This briefing is narrower than Arc E's faction consultation, which covered the entire faction landscape. Every contact here is pointing at a single location. The DM should run whichever contacts have active relationships with the party. Not all seven need to appear, and the scene works at any size. Run it as a montage of consultations: brief, specific, each one adding a piece to the picture.
+*Running This Scene.* Each contact below is available only to party members of that faction. A party with no Harper has no channel to Mirt; a party with no Force Grey member has no Vajra briefing. The scene's intelligence yield depends entirely on which factions the party joined during Arcs B and C — a party that spread its memberships widely arrives knowing a great deal; a party that clustered into one or two factions arrives with significant blind spots. This is by design.
+
+This briefing is narrower than Arc E's faction consultation, which covered the entire faction landscape. Every contact here is pointing at a single location. Run it as a montage of consultations: brief, specific, each one adding a piece to the picture.
 
 *Mirt (Harpers).* Thorvin Twinbeard is inside the lair — a Harper asset embedded in the lair's engineering staff for six years, Mirt's most carefully kept secret. Mirt provides Thorvin's location (X13, the workshop) and a recognition code: ask him what he thinks of the new pulley design. His response — "It'll hold if the load is distributed right" — confirms the channel. If Xanathar outposts were hit in Arc E, Mirt warns that Thorvin's cover may be compromised: a gazer has been assigned to watch him, and Thorvin knows it.
 
