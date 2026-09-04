@@ -2179,7 +2179,7 @@ Xanathar sends escalating forces each night. Each attack comes after midnight.
 **Act 1 — Night One: The Muscle**
 Six **Thugs** and two **Bugbears** attack the tavern from the street entrance. No finesse — they want Ott back and have been told to make noise about it. They are not trying to kill the party; they are trying to break in, grab Ott, and leave. Both bugbears go for the basement stairs. Four thugs hold the main room.
 
-If the party has established a Watch relationship (Lords' Alliance Renown 4+ or prior Watch cooperation): a Watch patrol arrives after 4 rounds in response to the noise. The Guild operatives scatter, though one bugbear will attempt to take Ott regardless.
+If the party has established a Watch relationship (Lords' Alliance Renown 3+ (Redknife rank) or prior Watch cooperation): a Watch patrol arrives after 4 rounds in response to the noise. The Guild operatives scatter, though one bugbear will attempt to take Ott regardless.
 
 Any captured operative knows only: "Xanathar wants the halfling. There's more coming."
 
