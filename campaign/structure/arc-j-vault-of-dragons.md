@@ -270,9 +270,25 @@ A prominent stone replica of Mt. Waterdeep sits at the heart of the hoard pile, 
 
 ## Milestone and Transition
 
-Arc J awards the level 7 milestone if it has not already fired at the fourth completed lair arc. Either way, by the end of Scene 6 the party stands at 7th level, the Grand Game formally concluded, and the campaign's central mystery — what happened to Neverember's stolen gold — fully resolved by the party's own choices rather than by the DM's fiat.
+**Content.**
 
-There is no further arc within Dragon Heist to transition into. What follows, if the table continues, is Undermountain. The five Mad Mage bridge hooks in Scene 6 are the DM's starting toolkit for that transition — use as many or as few as the table wants, but do not feel obligated to use all five. A campaign can end cleanly here, with nothing left unresolved that the party didn't choose to leave open.
+*Milestone XP.* Whether this table applies depends on whether the level 7 milestone already fired during the fourth completed lair arc (F, G, H, or I — whichever came fourth), per that arc's own Milestone and Transition section.
+
+*If level 7 has not yet fired* (the party reached Arc J with only three lair arcs completed, holding all three Eyes):
+
+| Level | Arc | Milestone | XP |
+|:-----:|-----|-----------|---:|
+| 6 → 7 | J | The party performs the ceremonial opening and enters the Vault of Dragons | 150 |
+| 6 → 7 | J | The party resolves the Aurinax confrontation, by any of the four paths | 150 |
+| 7 | J | The party survives the Faction Confrontation and reaches a resolution for the gold | 100 |
+
+*Total: 400 XP. Level 7 is reached during Scene 4, confirmed by the end of Scene 5.*
+
+*If level 7 already fired* (the party completed all four lair arcs before Arc J): the three beats above are still worth marking at the table — they are real narrative achievements — but they carry no further XP. The party is already at the campaign's terminal level, and Arc J's milestone is the Grand Game's resolution itself rather than another rung on the ladder.
+
+Either way, by the end of Scene 6 the party stands at 7th level, the Grand Game formally concluded, and the campaign's central mystery — what happened to Neverember's stolen gold — fully resolved by the party's own choices rather than by the DM's fiat.
+
+*Transition.* There is no further arc within Dragon Heist to transition into. What follows, if the table continues, is Undermountain. The five Mad Mage bridge hooks in Scene 6 are the DM's starting toolkit for that transition — use as many or as few as the table wants, but do not feel obligated to use all five. A campaign can end cleanly here, with nothing left unresolved that the party didn't choose to leave open.
 
 ---
 
