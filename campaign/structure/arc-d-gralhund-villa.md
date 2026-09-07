@@ -359,10 +359,10 @@ Branch outcomes:
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 3 | D | The party participates in the quinpartite confrontation at Gralhund Villa and affects its outcome | 100 |
-| 3 → 4 | D | The party recovers the Stone of Golorr | 50 |
+| 3 | D | The party participates in the quinpartite confrontation at Gralhund Villa and affects its outcome | 600 |
+| 3 → 4 | D | The party recovers the Stone of Golorr | 300 |
 
-*Total: 150 XP. Level 4 is reached when the party recovers the Stone of Golorr. Grand total across Arcs C and D: 500 XP.*
+*Total: 900 XP. Level 4 is reached when the party recovers the Stone of Golorr. Grand total across Arcs C and D: 1,800 XP — exactly the XP required to advance from 3rd (900 cumulative) to 4th (2,700 cumulative) level.*
 
 *The Stone of Golorr — What the Party Knows.* Required knowledge by arc's end (if the party holds the Stone):
 - The Stone is a transformed aboleth — an inanimate vessel for compressed memory, created by a wizard to hold Neverember's vault knowledge.

@@ -278,11 +278,11 @@ A prominent stone replica of Mt. Waterdeep sits at the heart of the hoard pile, 
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 6 → 7 | J | The party performs the ceremonial opening and enters the Vault of Dragons | 150 |
-| 6 → 7 | J | The party resolves the Aurinax confrontation, by any of the four paths | 150 |
-| 7 | J | The party survives the Faction Confrontation and reaches a resolution for the gold | 100 |
+| 6 → 7 | J | The party performs the ceremonial opening and enters the Vault of Dragons | 3,000 |
+| 6 → 7 | J | The party resolves the Aurinax confrontation, by any of the four paths | 3,000 |
+| 7 | J | The party survives the Faction Confrontation and reaches a resolution for the gold | 3,000 |
 
-*Total: 400 XP. Level 7 is reached during Scene 4, confirmed by the end of Scene 5.*
+*Total: 9,000 XP — exactly the XP required to advance from 6th (14,000 cumulative) to 7th (23,000 cumulative) level. Level 7 is reached during Scene 4, confirmed by the end of Scene 5.*
 
 *If level 7 already fired* (the party completed all four lair arcs before Arc J): the three beats above are still worth marking at the table — they are real narrative achievements — but they carry no further XP. The party is already at the campaign's terminal level, and Arc J's milestone is the Grand Game's resolution itself rather than another rung on the ladder.
 

@@ -388,12 +388,12 @@ Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the ba
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 4 | E | Complete first outpost chain (any faction) | 75 |
-| 4→5 | E | Complete second outpost chain (any faction) | 75 |
+| 4 | E | Complete first outpost chain (any faction) | 1,900 |
+| 4→5 | E | Complete second outpost chain (any faction) | 1,900 |
 
 *Completing a chain:* Hit at least two outposts of the same faction and recover at least one piece of actionable lair intelligence. For Xanathar (three outposts), two of three is sufficient. For all other factions (two outposts), both must be cleared. A party that hits one Xanathar outpost and one Zhentarim outpost has started two chains but completed neither.
 
-Total Arc E: 150 XP. Level 5 on second chain completion. Cumulative milestone total through Arcs C–E: 650 XP.
+Total Arc E: 3,800 XP — exactly the XP required to advance from 4th (2,700 cumulative) to 5th (6,500 cumulative) level. Level 5 on second chain completion. Cumulative milestone total through Arcs A–E: 6,500 XP — exactly the 5th-level threshold.
 
 *Transition.* The party holds enough intelligence to attempt at least one lair heist. The DM reviews each faction's escalation tier and communicates it through environmental detail: Dock Ward patrols are heavier than last tenday; a Castle Ward merchant notes that the old tower on the hill has gone dark; the Sea Maidens Faire hasn't performed in a week. Party chooses which lair first. Arcs F, G, H, and I are available in any order.
 

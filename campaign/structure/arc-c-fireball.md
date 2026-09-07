@@ -281,10 +281,10 @@ What Kalain knows:
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 3 | C | The party identifies the nimblewright as perpetrator and traces its origin to the House of Inspired Hands | 200 |
-| 3 | C | The party confirms the Stone of Golorr's location at Gralhund Villa, Saerdoun Street, North Ward | 150 |
+| 3 | C | The party identifies the nimblewright as perpetrator and traces its origin to the House of Inspired Hands | 500 |
+| 3 | C | The party confirms the Stone of Golorr's location at Gralhund Villa, Saerdoun Street, North Ward | 400 |
 
-*Total: 350 XP toward level 4. Level 4 is reached in Arc D upon recovering the Stone of Golorr.*
+*Total: 900 XP toward level 4. Level 4 is reached in Arc D upon recovering the Stone of Golorr.*
 
 *The Stone of Golorr — What the Party Knows.* Required knowledge by arc's end:
 - Dalakhar was Neverember's spy, carrying the Stone to them when the fireball killed him.
