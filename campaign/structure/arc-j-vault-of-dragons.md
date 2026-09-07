@@ -114,7 +114,7 @@ With the third Eye seated, the Stone goes still, then speaks with sudden, precis
 *Sourcing the Components.* None of these require anything the campaign has not already made available:
 
 - **A dragon scale.** Type doesn't matter. A specialty shop can supply one for roughly 900 gp. The party may also recall specific sources encountered earlier in the campaign — Zelifarn's collection, Jarlaxle's private quarters, the Cassalanters' study — any of which could yield one for the asking, a favor, or a theft, depending on the party's standing with that source.
-- **Sunlight.** The *sunbeam* spell suffices. So does Manshoon's sunglobe, if he is Destroyed and the item was recovered from Kolat Towers. Absent either, twenty large steel mirrors (400 gp total) and several hours of careful alignment work will do.
+- **Sunlight.** The *daylight* spell suffices — its light counts as sunlight under 2024 rules, and at 3rd level it's well within reach of a 7th-level party. So does Manshoon's sunglobe, if he is Destroyed and the item was recovered from Kolat Towers. Absent either, twenty large steel mirrors (400 gp total) and several hours of careful alignment work will do.
 - **A mithral hammer.** Does not need to be large. A local smith can commission one for 150 gp.
 
 *Learning the Ceremony.* Three independent paths converge on the same ritual:
