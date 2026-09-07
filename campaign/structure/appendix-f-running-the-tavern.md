@@ -518,7 +518,7 @@ Self-deprecating about his name; deflects sincerity with humor; completely serio
 
 **Vajra Safahr, the Blackstaff** *(Archmage stat block, NG Calishite human; see Appendix A)*
 Direct; does not perform warmth; knows more about the party than she should.
-- Lights have been seen in Kolat Towers in the Southern Ward. She mentions this as a footnote. It is not a footnote.
+- Lights have been seen in Kolat Towers in the Trades Ward. She mentions this as a footnote. It is not a footnote.
 - Knows uncomfortably too much about the party's last operation (doesn't name names, doesn't explain)
 - Attempts to recruit the party into Force Grey; if not yet distinguished enough, assigns an observer instead
 
