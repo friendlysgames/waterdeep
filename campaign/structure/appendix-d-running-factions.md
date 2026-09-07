@@ -1981,7 +1981,7 @@ The party has a decision before anyone knows they've made it:
 **Act 3 — Ziraj's Gift**
 When he can speak clearly — after healing, twenty minutes of quiet, and a mug of something from Fala's back shelf — Ziraj is marginally more talkative than usual. Which is still almost nothing. He reaches into the inside of his coat with his good arm and produces a folded diagram.
 
-"The force field," he says. "Three gaps. They rotate every six hours; each gap is one minute." The diagram shows Yellowspire's exterior from multiple angles, with three positions marked in small careful script. "I watched the amulet deliveries. The north approach, the tower's shadow at noon, the passage behind the miller's." He sets the diagram on the table. "I was going to use it myself. I won't now." A pause. "Use it."
+"The force field," he says. "Three gaps. They rotate every six hours; each gap is one minute." The diagram shows Kolat Towers' exterior from multiple angles, with three positions marked in small careful script. "I watched the amulet deliveries. The north approach, the tower's shadow at noon, the passage behind the miller's." He sets the diagram on the table. "I was going to use it myself. I won't now." A pause. "Use it."
 
 The diagram is usable intelligence for Arc I. Combined with the pass-amulet ledger from Mission 5, the Doom Raiders have provided two independent entry paths through Kolat Towers' outer defenses: the amulets get through the field, and the rooftop diagram shows when the field is briefly penetrable for those who don't have an amulet. Davil, shown the diagram the next morning, understands immediately what it means.
 
