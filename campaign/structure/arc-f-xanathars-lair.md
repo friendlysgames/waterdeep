@@ -313,19 +313,19 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 | Level | Arc | Milestone | XP |
 |:-----:|-----|-----------|---:|
-| 4–6 | F | The party recovers the Eye of the Stone from Xanathar's Lair | 3,000 |
+| 4–6 | F | The party recovers the Eye of the Stone from Xanathar's Lair | 6,000 |
 
-Arcs F, G, H, and I each award the same flat 3,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after Arc E, since outpost chains and lair heists are independently sequenced. This produces a simple, order-agnostic pace: the party's *first* completed heist (whichever letter it is) reaches level 5, the *second* reaches level 6, and level 7 requires *all four* — the third heist alone does not level the party up. Since only four heists exist and one of them is always Kolat Towers (Arc I), level 7 is unreachable without it.
+Arcs F, G, H, and I each award the same flat 6,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after Arc E, since outpost chains and lair heists are independently sequenced. Track cumulative XP against the real 2024 level thresholds (2,700 / 6,500 / 14,000 / 23,000); level-ups fire the moment the running total crosses one, which does not require landing on it exactly. This produces a simple, order-agnostic pace: the party's *first* completed heist (whichever letter it is) crosses into level 5, the *second* crosses into level 6, and level 7 requires *all four* — the third heist alone leaves the total short. Since only four heists exist and one of them is always Kolat Towers (Arc I), level 7 is unreachable without it.
 
-| Heists completed | Cumulative XP | Level |
-|:-----------------:|---:|:-----:|
-| 0 (post-Arc E) | 3,500 | 4 |
-| 1 | 6,500 | 5 |
-| 2 | 9,500 | 6 |
-| 3 | 12,500 | 6 |
-| 4 | 15,500 | 7 |
+| Heists completed | Cumulative XP | Crosses | Level |
+|:-----------------:|---:|:-----:|:-----:|
+| 0 (post-Arc E) | 3,500 | — | 4 |
+| 1 | 9,500 | 6,500 | 5 |
+| 2 | 15,500 | 14,000 | 6 |
+| 3 | 21,500 | — | 6 |
+| 4 | 27,500 | 23,000 | 7 |
 
-This ladder is specific to this campaign and departs from the core rulebook's cumulative XP table past 5th level — the divergence is deliberate, in service of the heist-count pacing above, not an error. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
+These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
 
 Arc F's transition is open. The three remaining lair arcs (G, H, I) are available in any order, and the Stone's sharpened impressions plus faction debrief intelligence provides organic guidance toward each. The Founders' Day deadline creates pressure without prescribing order.
 
