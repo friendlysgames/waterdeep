@@ -1,6 +1,6 @@
 # Appendix A — NPC Roster and Profiles
 
-Status: All tiers profiled (16 sections complete).
+Status: All tiers profiled (16 sections complete). 12 cross-reference profiles added (Arcs C, D, G, H, I).
 
 ---
 
@@ -764,6 +764,52 @@ Status: All tiers profiled (16 sections complete).
 **Morale.** Aurinax attacks only in defense of himself, the dragonstaff, or the gold. Intimidation checks against him automatically fail; a failed charm attempt gives all subsequent Charisma checks disadvantage. He uses Legendary Resistance against charm effects and does not drop his disguise until combat begins.
 
 **Relationships.** Aurinax is the guardian of the Vault of Dragons (placed by Dagult Neverember), the wielder of the dragonstaff of Ahghairon, an old acquaintance of Hlam, and the final gatekeeper for the 500,000 gp resolution in Arc J.
+
+---
+
+#### Kalain
+*Half-elf painter, chaotic neutral. Commoner (with modifications).*
+
+**Roleplaying Information**
+
+**Resonance.** Kalain should inspire immediate unease with the gap between the celebrated artist she once was and the person who answers the door of a crumbling harbor tower, sympathy when the source of her ruin becomes clear, and discomfort at how much she has lost for something that does not remember her name.
+
+**Emotions.** Kalain most often feels paranoid suspicion of every visitor, aching grief she cannot name, obsessive absorption in the newer darker paintings, desperate tenderness toward the older peaceful ones, agitated distress when accused directly, and brief flashes of the woman she was before.
+
+**Motivations.** Kalain wants to be left alone by Dagult's people, keep the peaceful paintings safe from the monsters in the newer canvases, and find some version of the morning she first understood she had been used.
+
+**Inspirations.** When playing Kalain, channel Miss Havisham (*Great Expectations*), Blanche DuBois (*A Streetcar Named Desire*), and Nina Zarechnaya (*The Seagull*).
+
+**Character Information**
+
+**Persona.** To the world, Kalain is a half-elf painter living alone in a dilapidated harbor tower, once celebrated in Waterdavian circles. To those who earn a DC 14 Persuasion check on arrival, she is a woman who helped Dagult Neverember with something she no longer quite understands, and has been waiting for his assassins ever since — losing conversational threads mid-sentence, rubbing her cheek with increasing agitation under pressure, and calling animated figures from her older peaceful canvases (sleeping cats, bowls of fruit, quiet landscapes) to fetch things or run small errands. Deep down, the newer paintings are all monsters wearing the same face, and creatures from them can be loosed against intruders.
+
+**Morale.** Kalain does not fight directly. She accuses, retreats into paranoid recrimination, and animates creatures from the darker canvases if she believes herself threatened. A second Persuasion check (DC 12) can talk her down from a specific accusation about Dalakhar. Calmed, she answers questions with the honesty of someone who has forgotten to protect herself.
+
+**Relationships.** Kalain was a former intimate of Dagult Neverember whose abandonment ended both her career and her peace of mind; her tower contains correspondence bearing directly on the Vault of Dragons; her locked document case holds intelligence — the first concrete Cassalanter-to-vault link, a vault-opening clue, and an unsigned letter confirming Neverember's deliberate separation of Stone and Eyes — that is among the most consequential in the campaign, available to any party with enough patience to earn it.
+
+---
+
+#### Myl Dunpier
+*Human innkeeper, neutral. Commoner.*
+
+**Roleplaying Information**
+
+**Resonance.** Myl should inspire trust with her complete lack of agenda, practical respect for the way she runs a clean establishment, and mild reassurance that at least one person in Waterdeep will tell a straight story if you pay for the information in advance.
+
+**Emotions.** Myl most often feels practical patience, straightforward assessment of whether a guest is likely to cause problems, professional detachment from other people's emergencies, mild irritation at irregularities, and composed helpfulness when someone is organized enough to ask clearly.
+
+**Motivations.** Myl wants to run a profitable and orderly inn on Snail Street without her guests' business becoming her problem, get paid on time, and maintain the Dripping Dagger's reputation for discretion.
+
+**Inspirations.** When playing Myl Dunpier, channel Mrs. Hudson (*Sherlock Holmes*), Marge Gunderson (*Fargo*), and Aunt Pol (*The Belgariad*).
+
+**Character Information**
+
+**Persona.** To the world, Myl Dunpier is a practical middle-aged woman with ink-stained fingers who manages the Inn of the Dripping Dagger on Snail Street with no interest in her guests' business and considerable interest in being paid on time. To those who deal with her honestly, she is a reliable source of exactly the information she has — guest names, room assignments, arrivals and departures — delivered without embellishment or inference. Deep down, she keeps meticulous records not out of professional pride but because the Watch has stopped by twice this year asking similar questions, and she finds it less trouble to have the answers ready.
+
+**Morale.** Myl does not fight. She sends for the Watch promptly, then returns to the desk. If the inn is directly threatened, she removes the ledger first.
+
+**Relationships.** Myl is the proprietor of the Inn of the Dripping Dagger, the innkeeper who lodged Dalakhar on Ches 22nd and retains a clear memory of his description and departure time, and the contact who sends a street child to Trollskull Manor with Kalain's letter if the party had the foresight to leave a forwarding address.
 
 ---
 
@@ -1651,6 +1697,75 @@ Status: All tiers profiled (16 sections complete).
 
 ---
 
+#### Margo Verida
+*Human bard, chaotic good. Bard.*
+
+**Roleplaying Information**
+
+**Resonance.** Margo should inspire admiration with the quality of the music — it is genuinely excellent, not traveling-performer adequate — and careful attention when the party understands that the woman playing for the captain's table can also end a fight, and will if pressed.
+
+**Emotions.** Margo most often feels creative absorption during a performance, relaxed warmth in Jarlaxle's company, quick professional assessment of new people's motives, genuine pleasure in a room that does not know what it is looking at, and a clean loyalty to Jarlaxle that has nothing servile about it.
+
+**Motivations.** Margo wants to keep making music worth making, maintain her friendship with Jarlaxle on the terms they have established, and be honest about what she is — a bard and a skilled combatant who chooses her associates freely and has chosen well.
+
+**Inspirations.** When playing Margo, channel Inara Serra (*Firefly*), Mata Hari (history), and Portia (*The Merchant of Venice*).
+
+**Character Information**
+
+**Persona.** To the world, Margo Verida is a performer traveling with Zardoz Zord's carnival — excellent, clearly at home on a ship, someone you assume is in Jarlaxle's company for professional reasons. To those who deal with her directly, she is one of the few people Jarlaxle treats as a peer rather than an asset, and she notices when the treatment shifts. Deep down, she flattery-tested Jarlaxle once, early in the acquaintance, to confirm his compliments were genuine rather than operational; they were, which is why she is still here.
+
+**Morale.** In a fight, Margo uses bardic magic for control and positioning before engaging directly. She is not suicidal and is not Jarlaxle's shield; she fights for reasons she has chosen, not on assignment. A DC 13 Persuasion check built on specific flattery about her music opens a social window before any fight becomes unavoidable. She will not betray Jarlaxle under any circumstances.
+
+**Relationships.** Margo is Jarlaxle's companion aboard the Eyecatcher — not his employee, his friend — paired with Khafeyta Murzan in J29, a BD-associated operative whose affiliation derives from freely chosen loyalty rather than organizational membership, and a combatant significantly more capable than a performer's cabin assignment implies.
+
+---
+
+#### Khafeyta Murzan
+*Human swashbuckler, neutral good. Swashbuckler.*
+
+**Roleplaying Information**
+
+**Resonance.** Khafeyta should inspire immediate interest in how good she actually is — she carries herself like someone who knows, and the impression is accurate — and comfortable respect for the way she treats a genuine fight story as real currency.
+
+**Emotions.** Khafeyta most often feels active physical engagement with whatever she is doing, competitive assessment of capable opponents, uncomplicated pleasure in Margo's company and Jarlaxle's, a fighter's professional pride, and a contented certainty about her own situation that reads as ease and is earned.
+
+**Motivations.** Khafeyta wants to be excellent at her craft, spend time with people worth spending it with, and find situations complicated enough to be interesting. She chose Jarlaxle's company for reasons similar to Margo's and arrived at the same conclusion through a different door.
+
+**Inspirations.** When playing Khafeyta, channel Inigo Montoya (*The Princess Bride*), Brienne of Tarth (*Game of Thrones*), and Porthos (*The Three Musketeers*).
+
+**Character Information**
+
+**Persona.** To the world, Khafeyta Murzan is the other one in J29 — not the performer, the fighter. To those who engage her directly, she is sharp and immediately interested in whether the person across from her has a story worth hearing; a genuine account of a difficult fight opens the social window that flattery opens for Margo, and she checks for the difference between embellishment and truth. Deep down, she and Margo occupy different frequencies — Margo reads a room through its emotional resonance, Khafeyta through its exits and weapons — and between them they have all of it covered.
+
+**Morale.** In a fight, Khafeyta engages directly. She is the more aggressive of the two companions, the one who steps forward while Margo controls the room behind her. A DC 14 Persuasion check grounded in a credible account of a real fight creates a social opening before violence becomes the only option. She will not betray Jarlaxle.
+
+**Relationships.** Khafeyta is Jarlaxle's companion aboard the Eyecatcher, paired with Margo Verida in J29, a swashbuckler whose presence alongside Margo means J29 is significantly harder to pass through uncontested than its designation implies.
+
+---
+
+#### Vessa
+*Doppelganger, neutral. Doppelganger.*
+
+**Roleplaying Information**
+
+**Resonance.** Vessa should inspire discomfort at the moment she briefly shows her true face to a BD-affiliated party member — a flash of gray, a knowing look, the implication that she has been watching longer than they have been looking — and then calibrated trust, because she is useful and she knows it.
+
+**Emotions.** Vessa most often feels patient professional detachment, cold satisfaction in the quality of her cover, operational curiosity about how the party's infiltration is proceeding, and a very old, very contained disinterest in her own face.
+
+**Motivations.** Vessa wants to maintain her cover in the Cassalanter social scene, observe the outcome of the Arc G operation, and report accurate intelligence to Jarlaxle. She does not want to enter the temple.
+
+**Inspirations.** When playing Vessa, channel Tatiana Maslany (*Orphan Black*), Mystique (*X-Men: First Class*), and Gus Fring (*Breaking Bad*).
+
+**Character Information**
+
+**Persona.** To the world, "Vessa" is a noblewoman circulating through the Cassalanter banquet hall with the ease of someone who has been attending these events for months, which she has. To BD-affiliated party members who approach her, she provides a brief unambiguous signal — a flash of gray features, a knowing look — before returning to the social performance; to everyone else, she is a mysterious woman who seems to know too much. Deep down, she has been doing this long enough that she has to think before remembering what her own face looks like, and has decided this is probably fine.
+
+**Morale.** Vessa does not fight in the villa under any circumstances — her cover is the asset and she will not burn it. Exposed or cornered, she uses her read thoughts ability to identify what to say to exit the situation, and then says it. She will not enter the temple below the villa under any circumstances.
+
+**Relationships.** Vessa (full name Lymeria Lhaurilstar) is a Bregan D'aerthe doppelganger operative embedded in the Cassalanter social scene under a permanent human cover, Jarlaxle's primary intelligence source on the Cassalanter operation throughout Arc G, a useful ally to BD-affiliated party members (distraction, cover stories, social-exposure suppression), and the source of the intelligence adjustment Jarlaxle makes to his Eye #3 strategy once Arc G resolves.
+
+---
+
 ### 12. Xanathar Guild
 
 #### Xanathar
@@ -2180,6 +2295,98 @@ Status: All tiers profiled (16 sections complete).
 
 ---
 
+#### Kaevja Cynavern
+*Human mage, lawful neutral. Mage.*
+
+**Roleplaying Information**
+
+**Resonance.** Kaevja should inspire wariness the moment the party sees her reach for a spell component — she is the sanctum's communications node, not its strongest fighter, and players who understand this will understand why she is the most important target in E3.
+
+**Emotions.** Kaevja most often feels professional alertness, calculated assessment of threats and exits, calm certainty about her role in the sanctum's security architecture, and controlled urgency about any situation that develops faster than her protocols allow for.
+
+**Motivations.** Kaevja wants to earn her continued place in Manshoon's organization, protect the sanctum against unauthorized entry, and cast the sending that accelerates reinforcements before she is incapacitated.
+
+**Inspirations.** When playing Kaevja, channel Elim Garak (*Deep Space Nine*), Lisbeth Salander (*The Girl with the Dragon Tattoo*), and Natasha Romanoff (*Marvel Cinematic Universe*).
+
+**Character Information**
+
+**Persona.** To the world — specifically to anyone who has breached E2 and triggered the Mask discharge — Kaevja is the mage at E3, already reaching for her component pouch. To Manshoon, she is the sanctum's most reliable early-warning mechanism, valued more for the sending she can cast than for the spells she throws in combat. Deep down, she serves Manshoon because he is the most capable operator she has encountered, and working for the most capable operator available is, in her estimation, the rational choice until demonstrated otherwise.
+
+**Morale.** Kaevja's first action is always the sending — to Manshoon's current location and to E8 — not combat. If she sends successfully and the party's attention is fully on her, she uses the earth elemental gem and fights behind it. If the party eliminates her silently before she can act, she contributes nothing; if she succeeds, she has made the entire operation significantly harder.
+
+**Relationships.** Kaevja is Sidra Romeir's sanctum counterpart in E3, Manshoon's primary early-warning mechanism, a mage whose communications role matters more than her combat capability, and the party's most time-sensitive priority target in the extradimensional sanctum.
+
+---
+
+#### Havia Quickknife
+*Lightfoot halfling adept, lawful evil. (Adept.)*
+
+**Roleplaying Information**
+
+**Resonance.** Havia should inspire initial underestimation — she is a halfling, she is small, she is in a formal audience chamber — and then immediate correction, because she is in E10 of Manshoon's sanctum and she has been waiting for someone to enter it.
+
+**Emotions.** Havia most often feels settled conviction, physical readiness she has to consciously contain, absolute certainty in her service to Manshoon, controlled anticipation in combat, and no ambivalence of any kind about the work.
+
+**Motivations.** Havia wants to serve Manshoon completely and to neutralize any threat that enters the audience chamber. She does not want other things.
+
+**Inspirations.** When playing Havia, channel River Tam (*Firefly*), Elektra (*Daredevil*, Netflix series), and Dolores (*Westworld*).
+
+**Character Information**
+
+**Persona.** To the world, Havia Quickknife is a small halfling woman in a formal audience chamber. To anyone who observes her stance, she is a martial artist trained to a discipline that does not leave room for hesitation or exit plans. Deep down, she arrived in the sanctum because she had nowhere else she wanted to be, and the notion of leaving has not crossed her mind since.
+
+**Morale.** Havia attacks in a straight line and does not retreat. She and Mookie do not coordinate tactically — they simply both move toward the threat simultaneously — but they are faster than their size suggests, trained well past what most opponents expect, and entirely unwilling to stop. She fights to death.
+
+**Relationships.** Havia is paired with Mookie Plush as one of two halfling adepts serving as Manshoon's household fanatics in E10, one of the sanctum's most physically capable non-spellcasting combatants, and a source of no useful information if somehow captured — she does not negotiate and knows nothing that would benefit the party.
+
+---
+
+#### Mookie Plush
+*Lightfoot halfling adept, lawful evil. (Adept.)*
+
+**Roleplaying Information**
+
+**Resonance.** Mookie should inspire unexpected warmth on first encounter — he has the approachable affect of someone who thinks the situation can still be friendly — and then immediate revision, because the warmth does not change the outcome.
+
+**Emotions.** Mookie most often feels cheerful certainty, a kind of undiscriminating goodwill toward everyone in the room regardless of what he is about to do to them, absolute devotion to Manshoon, and genuine puzzlement when opponents expect the warmth to mean something.
+
+**Motivations.** Mookie wants to serve Manshoon completely. His warmth is not a tactic; it is simply who he is. These two things coexist without contradiction, from his perspective.
+
+**Inspirations.** When playing Mookie, channel Bellatrix Lestrange (*Harry Potter*), Harley Quinn (*DC Comics*), and Jules Winnfield (*Pulp Fiction*).
+
+**Character Information**
+
+**Persona.** To the world, Mookie Plush is the friendlier of the two halflings in the audience chamber — he smiles easily, seems genuinely interested in who the party is, and gives a distinct impression that he would rather this did not have to happen. To anyone who probes this affect, it does not crack because there is nothing beneath it to crack: he is genuinely warm, genuinely loyal, and genuinely willing to kill everyone in the room. Deep down, he found what he was looking for when Manshoon offered him a place, and the finding resolved him completely.
+
+**Morale.** Mookie fights to death, like Havia, but with a quality of sad inevitability he brings to the engagement — not cruelty, not rage, just commitment. He does not retreat. He does not negotiate. He occasionally says something kind in the middle of something terrible.
+
+**Relationships.** Mookie is paired with Havia Quickknife in E10, a halfling adept whose warm manner makes him in some ways more unsettling than a straightforwardly violent opponent, and the sort of NPC whose death, if the party pauses on it, feels like waste rather than victory.
+
+---
+
+#### Yorn the Terror
+*Human enforcer, neutral evil. Gladiator.*
+
+**Roleplaying Information**
+
+**Resonance.** Yorn should inspire dread disproportionate to any initial description — the epithet "the Terror" was not self-applied, and the people who gave it to him are professionals who know what they are talking about.
+
+**Emotions.** Yorn most often feels steady patience, a physical readiness he carries the way other people carry stillness, satisfaction in his particular utility to Manshoon's operation, and a focused clarity that descends once he understands a situation is no longer going to be avoided.
+
+**Motivations.** Yorn wants to do the work Manshoon brought him in for — enforcement, extraction, the maintenance of internal fear as much as external threat — and to do it well enough that his value is never questioned.
+
+**Inspirations.** When playing Yorn, channel Anton Chigurh (*No Country for Old Men*), Victor Creed (*X-Men*), and Sandor Clegane (*Game of Thrones*).
+
+**Character Information**
+
+**Persona.** To the world — specifically to anyone brought into the sanctum who is about to be questioned — Yorn the Terror is the fact of what is going to happen. He does not monologue. He does not explain himself. To Manshoon's lieutenants, he is the asset deployed when a situation has moved past the point at which conversation is the primary tool. Deep down, he has been called "the Terror" long enough that he has stopped thinking of it as a name and started thinking of it as a description.
+
+**Morale.** Yorn does not retreat and does not stop. He uses his physicality as a weapon before he draws a weapon, positioning himself to cut off exits and force opponents into a space where his strength is most useful. He does not negotiate mid-combat, but a party that can match his damage output can defeat him; a party that attempts to escape will discover that the corridor behind them has become a different kind of problem.
+
+**Relationships.** Yorn is a Manshoon Splinter enforcer stationed in the extradimensional sanctum whose role in the organization is the maintenance of internal fear as much as the exercise of direct violence, and a threat that compounds significantly if encountered late in the operation when the reinforcement timer has already thinned the party's resources.
+
+---
+
 ### 14. Cassalanters
 
 #### Victoro Cassalanter
@@ -2479,6 +2686,29 @@ Status: All tiers profiled (16 sections complete).
 
 ---
 
+#### Caladorn Cassalanter
+*Ghost of a Cassalanter noble, lawful good. Ghost.*
+
+**Roleplaying Information**
+
+**Resonance.** Caladorn should inspire immediate pity when the party understands what he has been watching from A4a for three years, admiration when his dignity holds despite everything his family has become, and a specific grief when his voice breaks speaking their names.
+
+**Emotions.** Caladorn most often feels steadfast conviction in a duty that has outlasted death, grief that has had three years to deepen undisturbed, controlled anguish when his family is mentioned or visible evidence of their corruption surrounds him, and a warmth — readable as relief rather than welcome — when the Siamorphe holy symbol is presented.
+
+**Motivations.** Caladorn wants to see the infernal corruption of his house ended, the effigy in A7 destroyed, and some portion of the honor his family carried for generations restored to the name he left behind. He does not want revenge on Victoro and Ammalia. He wants the bargain broken.
+
+**Inspirations.** When playing Caladorn, channel King Hamlet (*Hamlet*), Ned Stark (*Game of Thrones*), and Jacob Marley (*A Christmas Carol*).
+
+**Character Information**
+
+**Persona.** To the world — specifically to anyone who enters A4a bearing a Siamorphe holy symbol — Caladorn is an armored figure with silver hair and the Cassalanter features, carrying the family sword, voice steady until it is not. His portrait hangs prominently in the entrance hall upstairs, silver-haired and armored; the family uses his image as civic virtue while remaining unable to reach him. To those who present the symbol and wait, he is lucid, measured, and specific about what he is asking and what he is giving in return. Deep down, they turned his wife's goddess into that thing, and he has been twelve feet away from it for three years.
+
+**Morale.** Caladorn attacks any creature bearing fiendish taint on sight — a restriction that has forced the Cassalanters to retreat from A4a twice. Against creatures who present the Siamorphe holy symbol, he manifests peacefully and provides the +1 plate armor and mace of disruption from his sarcophagus. He does not waver when told the full terms of the pact.
+
+**Relationships.** Caladorn is the ghost of Victoro Cassalanter's father, a former Masked Lord and hero of the North who devoted his life to Siamorphe, the former owner of two items critical to the contract-destruction path (the +1 plate armor and the mace of disruption), and the reason the solution to the Cassalanter pact has been beneath the villa the entire time — accessible only to people not corrupted by it.
+
+---
+
 ### 15. Gralhunds
 
 #### Yalah Gralhund
@@ -2550,6 +2780,52 @@ Status: All tiers profiled (16 sections complete).
 
 ---
 
+#### Hurv Taldred
+*Human cult fanatic, neutral evil. Cult Fanatic.*
+
+**Roleplaying Information**
+
+**Resonance.** Hurv should inspire immediate discomfort with his flat measuring gaze, unease at the Cassalanter devotional symbol beneath his groundskeeper's clothes, and alarm when the party learns what "becomes shadows at night" actually means.
+
+**Emotions.** Hurv most often feels territorial vigilance, cold doctrinal certainty that outsiders in the villa yard have already earned their fate, deep reverence for the Cassalanters as Asmodeus's chosen servants, and a controlled satisfaction in enforcing the estate's perimeter.
+
+**Motivations.** Hurv wants to protect Gralhund Villa from intrusion, fulfill his obligations to the Cassalanter cult that gave his life meaning, and eliminate anything that crosses the yard perimeter without authorization.
+
+**Inspirations.** When playing Hurv, channel Judge Holden (*Blood Meridian*), Randall Flagg (*The Stand*), and Anton Chigurh (*No Country for Old Men*).
+
+**Character Information**
+
+**Persona.** To the world, Hurv Taldred is the Gralhund Villa groundskeeper — taciturn, competent, and territorial about the yard. To those who probe his loyalties, the Cassalanter devotional mark beneath his shirt and his behavior on nights when the villa's guests worship suggest he answers to more than the Gralhunds. Deep down, he does not regard the cultist identity and the groundskeeper identity as separate things; both exist to keep the grounds clean.
+
+**Morale.** During the day, Hurv patrols the yard with two mastiffs and challenges intruders at blade-range before raising an alarm. At nightfall he transforms into shadow form — DC 13 Stealth required to avoid him in this state — and is significantly more dangerous than any assessment of a groundskeeper suggests. He does not retreat, does not negotiate, and does not calculate the cost of his own survival.
+
+**Relationships.** Hurv is employed by the Gralhunds as yard security and serves the Cassalanter cult with equal devotion, the principal threat in G2 during Arc D infiltrations, and more dangerous after sunset than most parties will expect on first contact.
+
+---
+
+#### Chirada
+*Human operative, neutral. Spy.*
+
+**Roleplaying Information**
+
+**Resonance.** Chirada should inspire professional respect for how thoroughly she has been following the same evidence trail as the party, unease when the party realizes she was watching Yellowspire from across the street before they arrived, and cautious interest — she is not an enemy by default, and she may be more useful as an informed independent party than as an obstacle.
+
+**Emotions.** Chirada most often feels focused competence, patient determination, professional assessment of how a given situation might be leveraged, and measured irritation when others disrupt a surveillance operation she has been running for weeks.
+
+**Motivations.** Chirada wants to recover the Second Eye of the Stone of Golorr for what remains of Gralhund House interests, track the movements of whoever holds the Stone, and complete the mission described in the Missive from Castle Ward without becoming another casualty of the Grand Game.
+
+**Inspirations.** When playing Chirada, channel George Smiley (*Tinker Tailor Soldier Spy*), Maya (*Zero Dark Thirty*), and Melinda May (*Agents of S.H.I.E.L.D.*).
+
+**Character Information**
+
+**Persona.** To the world, Chirada does not register at street level — she is a woman across the street reading, a vendor browsing her own stall, a courier with a wrong address. To anyone who makes the DC 15 Perception check that spots her, she is a competent operative doing exactly what the party is doing, for a different employer. Deep down, with the Gralhund household in disarray following Arc D, she is the most capable intelligence asset they have left — working independently, without backup, on a mission she intends to complete anyway.
+
+**Morale.** Chirada does not fight if she can avoid it. Her response to exposure is withdrawal, misdirection, and a subsequent approach from a different direction. If cornered, or if the party signals genuine cooperation, she negotiates — she has nothing to gain from dying over an Eye she has not yet found, and information is worth more than pride.
+
+**Relationships.** Chirada is a Gralhund intelligence operative who signed the Missive from Castle Ward the party found in G12, a competing investigator tracking the Stone through Arc D and into Arc E, and a potential intelligence source on the Yellowspire teleportal — including the access phrase — if the party reaches her before she becomes a complication instead.
+
+---
+
 ### 16. Tavern Staff Candidates
 
 All 25 possible hires, organized by role. Faction-affiliated candidates cross-reference their primary section; profiles for those NPCs live there. Non-affiliated candidates are profiled here. Full Appendix F candidate entries have interview tells, mechanical effects, and faction reveal conditions.
@@ -2600,7 +2876,6 @@ All 25 possible hires, organized by role. Faction-affiliated candidates cross-re
 
 ## Omitted / Deferred
 - The nimblewright — plot prop; no profile needed; covered in Arc C notes
-- Kalain (seasonal painter NPC from original WDH) — remix drops seasonal structure; omit
 - Single-scene eyewitnesses (Jezrynne Hornraven, Martem Trec, Obaya Uday) — no profile
 - Nim (construct) — no profile
 - Madrak, Jinny (Kraddoc's scribe), Justyn Rassk — too peripheral
