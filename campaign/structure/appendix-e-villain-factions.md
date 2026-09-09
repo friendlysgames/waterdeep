@@ -89,7 +89,7 @@ His agenda in the Grand Game is territorial. Xanathar already controls the vault
 
 ### Response Teams
 
-Xanathar deploys response teams in escalating tiers. The first or second team the PCs encounter should carry *A Directive from N'arl Xibrindas*, instructing the team leader to resupply at Grinda Garloth's. If it's the second encounter, the directive notes the PCs' previous success and names the fallen agents. That outfitted team carries a *potion of healing*, a *potion of greater healing*, and a *+1 weapon*.
+Xanathar deploys response teams in escalating tiers. The first or second team the PCs encounter should carry *A Directive from Nar'l Xibrindas*, instructing the team leader to resupply at Grinda Garloth's. If it's the second encounter, the directive notes the PCs' previous success and names the fallen agents. That outfitted team carries a *potion of healing*, a *potion of greater healing*, and a *+1 weapon*.
 
 **Tier 1 — Gorath's Team.** Gorath leads 4 **duergar**. Sent when someone needs to be taught a lesson.
 
@@ -141,7 +141,7 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 
 *Area B7 — Mechanical Beholder.* A letter among the equipment: *On the Delivery of a Mechanical Beholder* from Ahmaergo, threatening death if the mechanical beholder isn't delivered to Terasse Estate by the ninth of Tarsakh.
 
-*Area B9b — Korgstrod's Room.* The chest at the foot of the bed is a **mimic**. A hidden coffer under the bed (DC 13 to find) holds 500 gp and *Correspondence with N'arl Xibrindas*: "Only you, me, and X know of the smokepowder. It must be brought to the Staircase of Eyes on the night of the 1st at precisely the stroke of eleven. Use disposable muscle. I will mark the sewer tunnels west of your hideout with a red eye to guide your men." N'arl's guildsigns lead toward Area X1 of Xanathar's Lair; the trail requires DC 15 checks, rising to DC 17 near the lair itself. Three failures before a success means the trail is gone.
+*Area B9b — Korgstrod's Room.* The chest at the foot of the bed is a **mimic**. A hidden coffer under the bed (DC 13 to find) holds 500 gp and *Correspondence with Nar'l Xibrindas*: "Only you, me, and X know of the smokepowder. It must be brought to the Staircase of Eyes on the night of the 1st at precisely the stroke of eleven. Use disposable muscle. I will mark the sewer tunnels west of your hideout with a red eye to guide your men." N'arl's guildsigns lead toward Area X1 of Xanathar's Lair; the trail requires DC 15 checks, rising to DC 17 near the lair itself. Three failures before a success means the trail is gone.
 
 **Roster:** Korgstrod Uxgulm (**duergar**) + 4 **duergar**.
 
@@ -401,7 +401,7 @@ The factions compete with each other independently of the PCs. These operations 
 |---|---|---|---|
 | **Xanathar vs. Manshoon** | Cold war — hostile but controlled | Manshoon knows Xanathar killed his envoys and holds both the Stone and Eye #1. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects a mole in his organization; he is hunting in the wrong direction. | *Report to Agorn Fuoco* |
 | **Xanathar vs. Cassalanters** | Parallel competition — no direct contact | Xanathar has intelligence on the Seven Masks Theater but no active operation against the Cassalanters. If the Cassalanters go hostile to the PCs, Seffia's team enters the Xanathar lair heist as a competing faction. | None currently active |
-| **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — deep infiltration | Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'Aerthe's best intelligence source on Guild movements. Xanathar suspects a mole; he has not identified Nar'l. Fel'rekt observed the Gralhund Villa operation. Bregan D'Aerthe purchases equipment through Grinda Garloth, a dependency neither faction has acknowledged. | *Correspondence with N'arl Xibrindas* (Sewer Hideout), *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
+| **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — deep infiltration | Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'Aerthe's best intelligence source on Guild movements. Xanathar suspects a mole; he has not identified Nar'l. Fel'rekt observed the Gralhund Villa operation. Bregan D'Aerthe purchases equipment through Grinda Garloth, a dependency neither faction has acknowledged. | *Correspondence with Nar'l Xibrindas* (Sewer Hideout), *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
 | **Manshoon vs. Cassalanters** | Mutual distrust — no contact | Seffia approached Vevette Blackwater to open a communication channel. Vevette refused, suspecting a trap. No further contact from either side. | *Seffia Naelryke's Visiting Card* (Vevette Blackwater) |
 | **Manshoon vs. Bregan D'Aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'Aerthe cut-out and ordered his abduction. Krebbyg has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised. | *Directive to Zorbog* (Interrogation House), *Letter Regarding Fenerus Stormcastle* (Seven Masks Theater) |
 | **Cassalanters vs. Bregan D'Aerthe** | Surveillance — not yet conflict | Cassalanter imps conduct ongoing surveillance of the Sea Maidens Faire. Jarlaxle's counter-intelligence hasn't detected it. If the Cassalanters turn hostile, Willifort attempts to assassinate Jarlaxle, fails, and likely pushes Jarlaxle toward a PC alliance against the Cassalanters. | *Instructions from Lord Cassalanter* (Asmodean Shrine) |
@@ -465,7 +465,7 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 **Grinda Garloth** (Dock Ward, Mistshore)
 - *Note Regarding Gladiatorial Weaponry* (Terasse Estate — references Grinda by name)
 - *A Recommendation for Materiel* (Response Team: Fel'rekt Lafeen — names Grinda at Mistshore)
-- *A Directive from N'arl Xibrindas* (Any Xanathar Response Team)
+- *A Directive from Nar'l Xibrindas* (Any Xanathar Response Team)
 
 **Terasse Estate** (Castle Ward, Elsambul's Lane)
 - *A Directive Regarding Materiel* (Grinda Garloth — names Terasse as the delivery point)
@@ -482,7 +482,7 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 - Rescuing Ott Steeltoes (Zhentarim Interrogation House — Ott leads the PCs back to Xanathar)
 - *A Note Regarding Gladiatorial Weapons* (Grinda Garloth)
 - Gladiatorial gathering point (Terasse Estate — blindfolded transport to the Lair)
-- *Correspondence with N'arl Xibrindas* (Xanathar Sewer Hideout 2 — guildsigns lead to Area X1)
+- *Correspondence with Nar'l Xibrindas* (Xanathar Sewer Hideout 2 — guildsigns lead to Area X1)
 
 ---
 

@@ -46,7 +46,7 @@ The arc ends the way it began: abruptly. A fireball detonates in Trollskull Alle
 - **Stage 2 (Warning):** Words appear in the dust on floors and grimy windows. "CLOSING TIME." "LAST CALL." "GET OUT." If the party engages respectfully — cleaning up, asking questions aloud, demonstrating intent to restore the tavern as a public house — Lif de-escalates toward acceptance.
 - **Stage 3 (Violence):** If the party attacks or persistently disrespects the building, Lif hauls furniture into improvised barriers, shatters the remaining intact glassware, and eventually retreats to the turret. Destroying Lif requires reducing his poltergeist HP to 0; he flees when reduced to half. **Destroying Lif forfeits his +2 Revenue bonus and the "free bartender" line in the operating cost calculation permanently.**
 
-Lif's appeasement is behavioral, not a single check: if the party renovates with clear intent to reopen the tavern as a functioning public house, he gradually accepts them over the course of Scene 1 through Scene 5. By the Grand Opening, a party that has treated the building with respect will find Lif laying out bar tools, wiping down surfaces, and managing the chalk slate. Cross-ref **Appendix A** (Lif profile), **Appendix F, Part 2** (Lif as bartender, Signature Drink mechanics).
+Lif's appeasement is behavioral, not a single check: if the party renovates with clear intent to reopen the tavern as a functioning public house, he gradually accepts them over the course of Scene 1 through Scene 5. By the Grand Opening, a party that has treated the building with respect will find Lif laying out bar tools, wiping down surfaces, and managing the chalk slate. Cross-ref **Appendix A** (Lif profile), **Appendix F, Part 1** (Lif as bartender, Signature Drink mechanics).
 
 *Renovation Economics.* The numbers: 1,000 gp to renovate over 12 days, 250 gp for guild licenses and contracts paid upfront. Total: 1,250 gp. A 2nd-level party fresh from Arc A is unlikely to have this. Financing options available immediately: Renaer offers a no-interest loan up to 200 gp when told about the cost, embarrassed by the party's thanks and with no expectation of repayment; faction assistance is available once contact is established (see Scene 4 and **Appendix F, Faction Renovation Assistance**). The gap between what the party has and what the renovation costs is the engine driving faction recruitment.
 
@@ -94,7 +94,7 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 
 *Renaer and Floon Return.* Both recur as visitors during the renovation period. Renaer brings wineglasses and the name of his silversmith, offers his Sea Ward townhouse as a workspace for anything sensitive, and means it. Floon appears twice without invitation, each time nursing a hangover, each time leaving a small tip. He has found a dice game in the Trades Ward. It is not going well.
 
-*The BD Observer (New Content).* The drow from Arc A Scene 1 — Jarlaxle's Yawning Portal field observer — is spotted near Trollskull Alley during the renovation period. **DC 14 Wisdom (Perception)** to recognize her from Scene 1; **DC 17 Intelligence (Investigation)** to identify her as Bregan D'aerthe. She is professional and evasive if approached. Available only to parties with drow PCs or characters who made the Scene 1 Perception check. Her presence seeds the BD surveillance that escalates into Scene 4 recruitment. Cross-ref **Appendix A** (BD observer profile — **must be written before the final prose pass, per session 7 outstanding work**).
+*The BD Observer (New Content).* The drow from Arc A Scene 1 — Jarlaxle's Yawning Portal field observer — is spotted near Trollskull Alley during the renovation period. **DC 14 Wisdom (Perception)** to recognize her from Scene 1; **DC 17 Intelligence (Investigation)** to identify her as Bregan D'aerthe. She is professional and evasive if approached. Available only to parties with drow PCs or characters who made the Scene 1 Perception check. Her presence seeds the BD surveillance that escalates into Scene 4 recruitment. Cross-ref **Appendix A** (Ryvarra profile, BD Section).
 
 **Tone:** Warm, social, layered. The warmth is the point. The DM knows the fireball is coming; the players do not.
 
@@ -225,7 +225,7 @@ The crowd includes a notable number of people in plain work clothes paying extre
 
 **Content:**
 
-*Festival Atmosphere.* Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation. The party is participating in Waterdeep civic life now, not observing it — they have neighbors in this crowd, faction contacts, and a tavern that people here have visited. Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar) for placement in the campaign timeline. The Twin Parades date and full event structure: **`sources/24. Addendum The Twin Parades.pdf`** *(unread — requires poppler; date to be confirmed during final prose pass)*.
+*Festival Atmosphere.* Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation. The party is participating in Waterdeep civic life now, not observing it — they have neighbors in this crowd, faction contacts, and a tavern that people here have visited. Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar) for placement in the campaign timeline. The Twin Parades fall on Tarsahk 20. Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
 
 *The Nimblewright Sighting.* One of the processions includes a mechanical figure among its performers — moving through a theatrical display with fluid, humanoid precision. **DC 14 Wisdom (Perception)** to notice that the figure's movement is genuinely mechanical rather than theatrical; **DC 16 Intelligence (Arcana)** to identify it as a construct of advanced manufacture — a nimblewright, or something very like one. The figure is visible for approximately two minutes before the procession moves on. No immediate consequence. Pure Arc C foreshadowing. If characters later describe what they saw, Renaer's account of a mechanical figure near the fireball site in Arc C gains immediate corroboration.
 
@@ -281,11 +281,11 @@ All nine decisions settled from source evidence:
 
 5. **Cassalanter Bank Hook specifics.** Willifort Crowelle at the Cassalanter Counting House processes the party's loan paperwork. Wine gift and card two days before the Grand Opening. Three-path redundancy for "The Cassalanters Exist" thread: Renaer's aside (Scene 3), the credit note/wine (Scene 5), Ammalia's visit (Scene 5).
 
-6. **BD observer identification in Scene 3.** DC 14 Perception to recognize her from Arc A Scene 1; DC 17 Investigation for Bregan D'aerthe identification. Seeds the Scene 4 BD surveillance. **BD observer Appendix A profile is outstanding work — must be written before the final prose pass.**
+6. **BD observer identification in Scene 3.** DC 14 Perception to recognize her from Arc A Scene 1; DC 17 Investigation for Bregan D'aerthe identification. Seeds the Scene 4 BD surveillance. Cross-ref **Appendix A** (Ryvarra profile, BD Section).
 
 7. **Filthy Meg via faction referral.** Harpers (Remallia Haventree) or Doom Raiders (Yagra) name her as a Dock Ward source. Direct Dock Ward exploration works but opens at DC 16.
 
-8. **Twin Parades calendar date.** From `sources/24. Addendum The Twin Parades.pdf` — PDF currently unreadable without poppler. Date to be confirmed from Alexandrian source during the final prose pass. Interim placement: after the Grand Opening (Scene 6), before the fireball.
+8. **Twin Parades calendar date.** The Twin Parades fall on Tarsahk 20 — confirmed from cross-arc evidence (Arc G Founders' Day Clock; Arc H Tarsahk 20 departure deadline). Placement: after the Grand Opening (Scene 6), before the fireball.
 
 9. **Sandbox scene ordering.** Scenes 1–3 are sequential (the party must arrive, deal with guilds, and meet neighbors before factions can recruit them). Scene 4 overlaps the renovation period (faction invitations arrive while the renovation runs; so does the Field of Triumph invitation). Scene 5 (Field of Triumph) occurs during the renovation period, before opening. Scene 6 (Grand Opening) is the renovation's culmination. Scene 7 (Twin Parades) is a scheduled city event following the opening.
 
@@ -304,7 +304,7 @@ All nine decisions settled from source evidence:
 
 ## 5. Cross-References
 
-- **Appendix A: NPC Roster** — All Trollskull Alley neighbor profiles (Section 1); BD observer profile (**outstanding — must be written before final prose pass**); Emmek Frewn and Shard Shunners; Ammalia Cassalanter; Willifort Crowelle; Filthy Meg (Section 3)
+- **Appendix A: NPC Roster** — All Trollskull Alley neighbor profiles (Section 1); Ryvarra (BD Section); Emmek Frewn and Shard Shunners; Ammalia Cassalanter; Willifort Crowelle; Filthy Meg (Section 3)
 - **Appendix C: Player Faction Recruitment** — First Meeting scenes for all seven factions; Bregan D'aerthe recruitment criteria and J.B. Nevercott scene; BD campaign-start Remix Option
 - **Appendix D: Running the Factions** — Level 2 faction missions (all seven factions); Force Grey Mission 1 (Hlam) and Mission 3 (Meloon — first encountered as himself in Scene 5) specifically
 - **Appendix F: Managing Trollskull Manor** — 1,250 gp renovation cost and Faction Renovation Assistance; Lif-as-bartender mechanics and Signature Drink; all staff candidate tables; Fame track and Revenue Roll system; Faction Response Teams

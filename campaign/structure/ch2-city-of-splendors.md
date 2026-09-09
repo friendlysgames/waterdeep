@@ -27,7 +27,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 *The Wards*
 - **Castle Ward** (city center, government, Yawning Portal): seat of the Masked Lords; City Watch headquarters; Durnan's Yawning Portal is the campaign's literal and symbolic entry point
 - **Sea Ward** (wealthy northwest): noble estates, major temples, the Field of Triumph; Cassalanter Villa is here
-- **North Ward** (established families, quieter money): quieter money, old names, established households
+- **North Ward** (established families, quieter money): quieter money, old names, established households; Trollskull Manor (the party's home base) is here — operating mechanics in Appendix F
 - **Trades Ward** (commerce, guilds, day-and-night activity): most guild halls; faction front businesses cluster here; Kolat Towers (Manshoon's fortress) occupies a fortified block here
 - **South Ward** (working class, immigrants, industry): Istrid Horn's moneylending operation; where new arrivals settle first
 - **Dock Ward** (port, crime, contraband):** the most dangerous ward; Xanathar Guild's primary surface territory; Sea Maidens Faire moors here during Fleetswake
@@ -38,7 +38,7 @@ Waterdeep has always been governed by secrets — the Masked Lords, the hidden g
 - **Open Lord Laeral Silverhand**: one of the Seven Sisters, former Chosen of Mystra; politically formidable; knows more about the Grand Game than she lets on; would prefer to recover the vault quietly if it ever surfaces
 - **Masked Lords**: anonymous governing council; their identities are the city's most closely guarded secret; individual Lords may have faction affiliations the PCs never learn
 - **The Code Legal**: posted publicly, enforced by the Watch; notable for what it doesn't cover (most guild business) as much as what it does
-- **Magisters**: city judges; Saeth Cromley handles most Watch referrals; Barnibus Blastwind handles sensitive investigations
+- **Magisters**: city judges; Barnibus Blastwind handles sensitive investigations
 - **The City Watch**: 1,200 guards across three shifts; understaffed, overworked; not corrupt by default but susceptible to political pressure
 
 *Guilds*

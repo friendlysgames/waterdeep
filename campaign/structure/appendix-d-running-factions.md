@@ -241,8 +241,8 @@ He's positioned near the wine and is perfectly happy to spend the evening there.
 
 ---
 
-**Commander Saeth Cromley** — *Watch Commander, North Ward. Uncomfortable at parties.*
-He's here because Remallia maintains careful relations with the Watch and always invites one or two commanders. Cromley is blunt, a little disheveled, and visibly relieved when anyone wants to talk about actual problems instead of art. He's been dealing with a series of warehouse break-ins in the Dock Ward — organized, professional, nothing taken that wasn't supposed to be moved. He thinks it's connected to a turf dispute but can't prove it.
+**Saeth Cromley** — *Retired Watch Sergeant, North Ward. Uncomfortable at parties.*
+He's here because Remallia maintains careful relations with the Watch and always invites a friendly face from that world. Cromley is blunt, a little disheveled, and visibly relieved when anyone wants to talk about actual problems instead of art. He's been dealing with a series of warehouse break-ins in the Dock Ward — organized, professional, nothing taken that wasn't supposed to be moved. He thinks it's connected to a turf dispute but can't prove it.
 *Topics:* The warehouse breaks-ins (Xanathar Guild moving product). Recent Dock Ward violence between two groups he can't identify ("one group dresses like merchants, fights like soldiers"). A Watch officer who went missing two months ago; body never found. He'll share operational details freely with anyone who seems like they might actually help.
 *What he knows:* The missing officer was Corene Wyldath's contact at the Watch. He doesn't know that. He just knows the file is cold.
 
@@ -824,7 +824,7 @@ The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wake
 **What the Enclave asks for:**
 - Reports on aberrant creature activity — where intellect devourers are operating, what new creatures Xanathar has released, whether any mind-touched citizens have been encountered
 - That the Stone of Golorr not remain in Waterdeep longer than necessary — its activation is pulling at something below the city
-- One thing from Arc J: 24 hours' notice before the vault is opened. Jeryth wants time to prepare wards.
+- One thing from Arc J: Jeryth asks to be present when the vault is opened. Mission 6 prepares her wards in advance; she needs no notice beyond the party's call.
 
 ### Arc Hooks
 
@@ -834,7 +834,7 @@ The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wake
 | **Arc D** | Gralhund Villa sits over a minor ley line the Enclave monitors. Xanathar Guild activity around it has destabilized the line. Melannor would like to know what happened inside. |
 | **Arc F** | Jeryth provides an enchanted herb sprig that functions as a mild psychic shield: advantage on the first saving throw against an implanted intellect devourer, usable once. She asks the PCs to carry it into Xanathar's lair. |
 | **Arc G** | The Cassalanter infernal ritual is disrupting a ley line in the Sea Ward. Jeryth's gardens are experiencing interference — herbs dying overnight, birds leaving the estate oaks. She can feel the ritual's schedule as surges of disturbance, giving the PCs a calendar indicator for the Founders' Day deadline. |
-| **Arc J** | Mission 6 triggers here. Jeryth needs 24 hours — not for the gold, for the warding. She is already working. |
+| **Arc J** | Mission 6 triggers here. Jeryth needs no advance notice — M6 already prepared her wards. She is ready when the party calls. |
 
 ---
 
