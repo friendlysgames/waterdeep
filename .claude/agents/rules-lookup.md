@@ -1,7 +1,7 @@
 ---
 name: rules-lookup
 description: Use this agent to look up any 2024 D&D 5e rule, spell, monster stat block, item, condition, action, or mechanic. It searches the 5etools mirror 2 GitHub repository and returns exact rule text with source citation. Never work from memory for rules — always fetch current data.
-model: sonnet
+model: claude-sonnet-4-6
 tools:
   - WebFetch
 ---

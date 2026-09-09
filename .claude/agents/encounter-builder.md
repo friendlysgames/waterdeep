@@ -1,7 +1,7 @@
 ---
 name: encounter-builder
 description: Use this agent to design and balance any encounter using the CR 2.0 system. Give it the party level, scenario context, and desired difficulty. It reads the cr2-encounter-builder, boss-design, and dnd-monster-designer skills, builds the encounter with full math, and writes it to the target file. Never use the DMG XP system — always CR 2.0.
-model: sonnet
+model: claude-sonnet-4-6
 tools:
   - Read
   - Edit

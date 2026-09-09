@@ -1,7 +1,7 @@
 ---
 name: consistency-checker
 description: Use this agent to QA all campaign structure documents for cross-file inconsistencies. It reads every arc and appendix, then flags mismatches in NPC names, XP milestones, faction flags, Stone of Golorr Eye counts, clue pipelines, and Three Clue Rule coverage. Run it whenever a major arc is completed or before the HTML Artifact delivery pass.
-model: sonnet
+model: claude-sonnet-4-6
 tools:
   - Read
   - Grep

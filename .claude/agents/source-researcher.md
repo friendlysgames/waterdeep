@@ -1,7 +1,7 @@
 ---
 name: source-researcher
 description: Use this agent to research any NPC, location, faction, event, or object in the Waterdeep campaign source materials before writing any content. Call it before drafting any arc, scene, or NPC profile to surface canonical facts from the WDH JSON and Alexandrian PDFs. Never skip this step — the project rule is never work from memory.
-model: sonnet
+model: claude-sonnet-4-6
 tools:
   - Read
   - Grep
