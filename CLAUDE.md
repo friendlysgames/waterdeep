@@ -2,6 +2,8 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+> **Start every session by reading the most recent `session N handoff.md` in the root directory (highest N — currently `session 18 handoff.md`).** It records completed work, standing decisions, outstanding tasks, and exactly where to pick up next. Do not re-derive or re-ask anything it already settles.
+
 ---
 
 ## Project Purpose
@@ -113,16 +115,6 @@ Primary source files:
 | H | Sea Maidens Faire | Caper heist (or alliance path) aboard Jarlaxle's ships; Eye #3 |
 | I | Kolat Towers | Raid on Manshoon's fortress; force field + extradimensional sanctum |
 | J | Vault of Dragons | Brandath Crypts approach, vault opening, Aurinax confrontation, 500,000 gp resolution |
-
----
-
-## Active Plan
-
-**`C:\Users\robert.lupu\.claude\plans\peppy-swinging-yao.md`** — Full campaign architecture plan: act/arc structure, appendix outlines, critical design decisions, implementation steps, and verification checklist.
-
-**`C:\Users\robert.lupu\.claude\plans\let-s-plan-the-structure-recursive-robin.md`** — Heist arcs E–J interconnected structure: Eye distribution, outpost tier classification, cross-arc intel pipelines, faction state tracking, calendar/deadline mechanics, lair genre requirements, drafting order (E→F→G→H→I→J).
-
-> **Remove this section from CLAUDE.md once every part of the plan has been completed.**
 
 ---
 
