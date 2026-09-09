@@ -272,18 +272,32 @@ A prominent stone replica of Mt. Waterdeep sits at the heart of the hoard pile, 
 
 **Content.**
 
-*Milestone XP.* Arc J awards no leveling XP of its own — the entire level 4→7 climb happens during Arc E and the heist phase (Arcs F, G, H, I), per each of those arcs' own Milestone sections. By the time Arc J begins, the party is at one of exactly two states:
+*Milestone XP.* Entering Arc J, the party is at one of exactly two states, set entirely by the heist phase (Arcs E–I; see each lair arc's own Milestone section):
 
-| Heists completed before Arc J | Level entering Arc J |
-|:-----------------:|:-----:|
-| 3 (Arcs F, G, H — Kolat Towers skipped) | 6 |
-| 4 (Arcs F, G, H, and I) | 7 |
+| Heists completed before Arc J | Cumulative XP | Level entering Arc J |
+|:-----------------:|---:|:-----:|
+| 3 (Arcs F, G, H — Kolat Towers skipped) | 21,500 | 6 |
+| 4 (Arcs F, G, H, and I) | 27,500 | 7 |
 
-A party can only reach Arc J with at least three lair arcs done, since all three Eyes (from F, G, H) are required to open the Vault — Kolat Towers carries no Eye and is never required for entry, only for the fourth heist slot that unlocks level 7. Whichever level the party enters at, they complete the campaign at that level; nothing in Arc J's own scenes grants further XP. This is why the arc is written for a 6th-to-7th-level party rather than a fixed 7th — Scene 5's Faction Confrontation in particular should be run with the entering level in mind (see that scene's roster-assembly table), since a level 6 party that skipped Kolat Towers also faces a full-strength, unidentified Manshoon by default (Arc I is what typically resolves that threat).
+A party can only reach Arc J with at least three lair arcs done, since all three Eyes (from F, G, H) are required to open the Vault — Kolat Towers carries no Eye and is never required for entry, only for the fourth heist slot that unlocks level 7 early. This is why the arc is written for a 6th-to-7th-level party rather than a fixed 7th — Scene 5's Faction Confrontation in particular should be run with the entering level in mind (see that scene's roster-assembly table), since a level 6 party that skipped Kolat Towers also faces a full-strength, unidentified Manshoon by default (Arc I is what typically resolves that threat).
+
+Unlike every prior arc, Arc J does not stop at inheriting the party's level — for one specific entry state, it carries them further, to 8th, since 8th level is the campaign's intended handoff point into Dungeon of the Mad Mage. But that further climb is not universal: it belongs only to the party that did all four heists.
+
+**If the party did all four heists (entered at level 7, 27,500 XP):** three milestones, tied to the arc's three biggest turns, total 12,500 XP —
+
+| Level | Arc | Milestone | XP |
+|:-----:|-----|-----------|---:|
+| 7 | J | The party performs the ceremonial opening and enters the Vault of Dragons | 2,500 |
+| 7 | J | The party resolves the Aurinax confrontation, by any of the four paths | 4,000 |
+| 7 → 8 | J | The party survives the Faction Confrontation and reaches a resolution for the gold | 6,000 |
+
+27,500 + 12,500 = 40,000 XP, comfortably past the real 34,000 threshold for 8th level without spilling into 9th (48,000).
+
+**If the party skipped Kolat Towers (entered at level 6, 21,500 XP):** the same three beats still happen and are still worth marking as real accomplishments at the table, but they carry no XP. The party finishes the campaign at level 6, exactly where the heist phase left them. Level 8 — like level 7 before it — is unreachable without Kolat Towers; skipping it caps the party for the rest of the campaign, not just through Arc J.
 
 By the end of Scene 6 the Grand Game is formally concluded, and the campaign's central mystery — what happened to Neverember's stolen gold — is fully resolved by the party's own choices rather than by the DM's fiat.
 
-*Transition.* There is no further arc within Dragon Heist to transition into. What follows, if the table continues, is Undermountain. The five Mad Mage bridge hooks in Scene 6 are the DM's starting toolkit for that transition — use as many or as few as the table wants, but do not feel obligated to use all five. A campaign can end cleanly here, with nothing left unresolved that the party didn't choose to leave open.
+*Transition.* There is no further arc within Dragon Heist to transition into. What follows, if the table continues, is Undermountain. 8th level is this campaign's intended handoff point into it — the outcome for a party that did all four heists — but a party that skipped Kolat Towers descends at 6th instead, having traded the deeper start for whatever they gained by leaving Manshoon's fortress alone. Either is a valid place to begin Dungeon of the Mad Mage; the difference is a consequence of the party's own choices, not a gap to patch. The five Mad Mage bridge hooks in Scene 6 are the DM's starting toolkit for that transition — use as many or as few as the table wants, but do not feel obligated to use all five. A campaign can end cleanly here, with nothing left unresolved that the party didn't choose to leave open.
 
 ---
 
