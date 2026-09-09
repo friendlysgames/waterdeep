@@ -1,6 +1,6 @@
 # Arc J — Vault of Dragons
 
-*An adventure for 7th-level characters.*
+*An adventure for 6th- to 7th-level characters.*
 
 ---
 
@@ -272,21 +272,16 @@ A prominent stone replica of Mt. Waterdeep sits at the heart of the hoard pile, 
 
 **Content.**
 
-*Milestone XP.* Whether this table applies depends on whether the level 7 milestone already fired during the fourth completed lair arc (F, G, H, or I — whichever came fourth), per that arc's own Milestone and Transition section.
+*Milestone XP.* Arc J awards no leveling XP of its own — the entire level 4→7 climb happens during Arc E and the heist phase (Arcs F, G, H, I), per each of those arcs' own Milestone sections. By the time Arc J begins, the party is at one of exactly two states:
 
-*If level 7 has not yet fired* (the party reached Arc J with only three lair arcs completed, holding all three Eyes):
+| Heists completed before Arc J | Level entering Arc J |
+|:-----------------:|:-----:|
+| 3 (Arcs F, G, H — Kolat Towers skipped) | 6 |
+| 4 (Arcs F, G, H, and I) | 7 |
 
-| Level | Arc | Milestone | XP |
-|:-----:|-----|-----------|---:|
-| 6 → 7 | J | The party performs the ceremonial opening and enters the Vault of Dragons | 3,000 |
-| 6 → 7 | J | The party resolves the Aurinax confrontation, by any of the four paths | 3,000 |
-| 7 | J | The party survives the Faction Confrontation and reaches a resolution for the gold | 3,000 |
+A party can only reach Arc J with at least three lair arcs done, since all three Eyes (from F, G, H) are required to open the Vault — Kolat Towers carries no Eye and is never required for entry, only for the fourth heist slot that unlocks level 7. Whichever level the party enters at, they complete the campaign at that level; nothing in Arc J's own scenes grants further XP. This is why the arc is written for a 6th-to-7th-level party rather than a fixed 7th — Scene 5's Faction Confrontation in particular should be run with the entering level in mind (see that scene's roster-assembly table), since a level 6 party that skipped Kolat Towers also faces a full-strength, unidentified Manshoon by default (Arc I is what typically resolves that threat).
 
-*Total: 9,000 XP — exactly the XP required to advance from 6th (14,000 cumulative) to 7th (23,000 cumulative) level. Level 7 is reached during Scene 4, confirmed by the end of Scene 5.*
-
-*If level 7 already fired* (the party completed all four lair arcs before Arc J): the three beats above are still worth marking at the table — they are real narrative achievements — but they carry no further XP. The party is already at the campaign's terminal level, and Arc J's milestone is the Grand Game's resolution itself rather than another rung on the ladder.
-
-Either way, by the end of Scene 6 the party stands at 7th level, the Grand Game formally concluded, and the campaign's central mystery — what happened to Neverember's stolen gold — fully resolved by the party's own choices rather than by the DM's fiat.
+By the end of Scene 6 the Grand Game is formally concluded, and the campaign's central mystery — what happened to Neverember's stolen gold — is fully resolved by the party's own choices rather than by the DM's fiat.
 
 *Transition.* There is no further arc within Dragon Heist to transition into. What follows, if the table continues, is Undermountain. The five Mad Mage bridge hooks in Scene 6 are the DM's starting toolkit for that transition — use as many or as few as the table wants, but do not feel obligated to use all five. A campaign can end cleanly here, with nothing left unresolved that the party didn't choose to leave open.
 

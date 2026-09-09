@@ -1,6 +1,6 @@
 # Arc F — Xanathar's Lair
 
-*An adventure for 5th- to 6th-level characters.*
+*An adventure for 4th- to 6th-level characters.*
 
 ---
 
@@ -309,7 +309,23 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 ## Milestone and Transition
 
-Arc F awards no experience milestone within the arc. The next milestone — reaching level 6 — fires after the party completes their second lair heist (Arc G, H, or I, whichever comes second). The arc is designed to be run at level 5–6; parties who complete Arc E at level 5 and attempt multiple arcs before Arc F will be at level 6 already, which is within the intended range.
+*Milestone XP.*
+
+| Level | Arc | Milestone | XP |
+|:-----:|-----|-----------|---:|
+| 4–6 | F | The party recovers the Eye of the Stone from Xanathar's Lair | 3,000 |
+
+Arcs F, G, H, and I each award the same flat 3,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after Arc E, since outpost chains and lair heists are independently sequenced. This produces a simple, order-agnostic pace: the party's *first* completed heist (whichever letter it is) reaches level 5, the *second* reaches level 6, and level 7 requires *all four* — the third heist alone does not level the party up. Since only four heists exist and one of them is always Kolat Towers (Arc I), level 7 is unreachable without it.
+
+| Heists completed | Cumulative XP | Level |
+|:-----------------:|---:|:-----:|
+| 0 (post-Arc E) | 3,500 | 4 |
+| 1 | 6,500 | 5 |
+| 2 | 9,500 | 6 |
+| 3 | 12,500 | 6 |
+| 4 | 15,500 | 7 |
+
+This ladder is specific to this campaign and departs from the core rulebook's cumulative XP table past 5th level — the divergence is deliberate, in service of the heist-count pacing above, not an error. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
 
 Arc F's transition is open. The three remaining lair arcs (G, H, I) are available in any order, and the Stone's sharpened impressions plus faction debrief intelligence provides organic guidance toward each. The Founders' Day deadline creates pressure without prescribing order.
 

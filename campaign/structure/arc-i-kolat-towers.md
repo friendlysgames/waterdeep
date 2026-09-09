@@ -1,6 +1,6 @@
 # Arc I — Kolat Towers
 
-*An adventure for 6th- to 7th-level characters.*
+*An adventure for 4th- to 6th-level characters.*
 
 ---
 
@@ -286,7 +286,23 @@ Three values; this flag is read directly in Arc J.
 
 ## Milestone and Transition
 
-Arc I awards the level 7 milestone if it is the party's fourth lair arc — completing any four of Arcs F, G, H, and I. If the party completes Arc I before reaching four total lair arcs, no milestone fires within the arc. The level 7 milestone reflects full operational readiness for the Vault approach.
+*Milestone XP.*
+
+| Level | Arc | Milestone | XP |
+|:-----:|-----|-----------|---:|
+| 4–7 | I | The party completes the Kolat Towers raid | 3,000 |
+
+Arcs F, G, H, and I each award the same flat 3,000 XP for completing their heist, regardless of order. Kolat Towers holds no Eye, so it is never required to reach Arc J — but it is the only way to be the party's *fourth* completed heist, and level 7 requires all four. A party that skips it is capped at level 6 for the rest of the campaign, however many of Arcs F, G, H they complete. A party that runs it — first, second, third, or last — is simply counting it toward that fourth slot.
+
+| Heists completed | Cumulative XP | Level |
+|:-----------------:|---:|:-----:|
+| 0 (post-Arc E) | 3,500 | 4 |
+| 1 | 6,500 | 5 |
+| 2 | 9,500 | 6 |
+| 3 | 12,500 | 6 |
+| 4 | 15,500 | 7 |
+
+This ladder is specific to this campaign and departs from the core rulebook's cumulative XP table past 5th level — the divergence is deliberate, in service of the heist-count pacing above, not an error.
 
 Arc I's transition is not open-ended in the same way as prior lair arcs. The remaining task is Arc J. The intelligence haul — Manshoon's Report on the Grand Game, the Blackmail Ledger, the partial command phrase — feeds directly into Arc J preparation. If the party completes Arc I with all three Eyes restored, Arc J launches immediately.
 
