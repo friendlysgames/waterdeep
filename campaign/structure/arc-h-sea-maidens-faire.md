@@ -259,7 +259,7 @@ If combat occurs, Jarlaxle uses hit-and-run tactics: smoke bombs (20-foot-radius
 
 The Vault's existence is acknowledged: the Stone confirms it knows where the Vault is, and that three Eyes will unlock the full knowledge. The Stone's agenda deepens: "I am remembering what I was." An aboleth consciousness bleeds through more strongly — not hostile, not helpful, simply ancient and attentive.
 
-**If this is Eye #3 (both Arc F and Arc G already completed).** The Stone goes still. Then it speaks with sudden, precise clarity — the fragmentary impressions are gone. The vault's location resolves in complete architectural detail: the Brandath Crypts in the City of the Dead, a specific mausoleum, a specific passage, a specific door. The command phrase is spoken once, clearly, without repetition. The guardian's nature is described with the clinical precision of a being that has watched a gold dragon stand alone in the dark with five hundred thousand gold coins for four years: Aurinax, bound by a geas, loyal, patient, extraordinarily dangerous.
+**If this is Eye #3 (both Arc F and Arc G already completed).** The Stone goes still. Then it speaks with sudden, precise clarity — the fragmentary impressions are gone. The vault's location does not resolve as an address but as a riddle in the Stone's alien cadence — imagery and verse pointing toward the Brandath Crypts, requiring interpretation to reach. The guardian's nature is described with the clinical precision of a being that has watched a gold dragon stand alone in the dark with five hundred thousand gold coins for years: bound by oath, loyal, patient beyond mortal reckoning, extraordinarily dangerous.
 
 The aboleth consciousness is fully present. Not a whisper, not an impression, but a mind. Illuun, dreaming on Undermountain Level 4, is closer to the surface of the Stone's personality than it has ever been. The Stone does not explain Illuun. It simply stops pretending to be only a stone.
 
@@ -338,7 +338,7 @@ Arc H's transition is open. The remaining lair arcs are available in any order. 
 - **Appendix B** — Custom stat block for Jarlaxle (boss encounter). Stat blocks for Soluun, Fel'rekt, Krebbyg (drow gunslingers).
 - **Appendix E** — Bregan D'aerthe faction overview, NPC roster, outpost entries, response team compositions, escalation framework.
 - **Arc F (Xanathar's Lair)** — Stone 1-Eye impressions (ship in harbor, bald elf) point toward Arc H. Jarlaxle's simultaneous heist in Arc F shapes Arc H stakes. Report on Seven Masks Theater (X35) provides third clue path to Arc H.
-- **Arc G (Cassalanter Villa)** — Report on Cultists of Asmodeus (J30) provides Three Clue Rule path to Arc G. "Bonnie" the BD operative in Arc G previews Jarlaxle's surveillance operations.
+- **Arc G (Cassalanter Villa)** — Report on Cultists of Asmodeus (J30) provides Three Clue Rule path to Arc G. "Vessa" the BD operative in Arc G previews Jarlaxle's surveillance operations.
 - **Arc I (Kolat Towers)** — Jarlaxle's Report on the Grand Game (J30) and the Zhentarim pass-amulets (Scene 5) both provide independent Three Clue Rule paths to Arc I. Combined with Jarlaxle's BD intelligence on Manshoon (alliance/patron path), this is the strongest entry path to Arc I in the campaign.
 - **Arc J (Vault of Dragons)** — "BD operational?" flag set in Arc H Scene 6 affects Arc J's difficulty and approach options. Full Awakening (if Eye #3) launches Arc J directly.
 - **Undermountain (future)** — Zelifarn's grief and potential alliance seeds his future role if the party descends. Illuun's emerging consciousness in the Stone's Full Awakening connects to Undermountain Level 4.
@@ -421,6 +421,6 @@ Arc H provides Three Clue Rule paths to three other arcs.
 
 **To Arc G (if not yet completed).** The Report on the Cultists of Asmodeus (J30) identifies the Asmodean Shrine on Aveen Street and references an ancient worship site below the Sea Ward, converging on Cassalanter Villa. This is one of three independent paths to Arc G.
 
-**To Arc F (if not yet completed).** The Letter from Nar'l Xibrindas (U3) confirms the BD mole in Xanathar's organization and mentions the Seven Masks Theater purchase. This connects to the Xanathar Guild intelligence network and provides context for approaching Arc F.
+**To Arc F (if not yet completed).** The Letter from Nar'l Xibrindas (U3) confirms the BD mole in Xanathar's organization and mentions the Seven Masks Theater purchase. This is one of three independent paths to Arc F — connecting the BD intelligence network to the Xanathar Guild and providing operational context for the approach.
 
 **To Arc I (Kolat Towers).** Two independent paths from Arc H: Jarlaxle's Report on the Grand Game (J30) references Manshoon's operations and Kolat Towers; and the Zhentarim pass-amulets recovered from the Manshoon strike team (Scene 5) provide physical access to Kolat Towers. These join the existing paths from Arc F (Samara's testimony from X7, Nihiloor's files from X23) and Arc G (Cassalanter Report on the Grand Game from C6 or C22). The Three Clue Rule is satisfied to Arc I through any combination of prior arcs.

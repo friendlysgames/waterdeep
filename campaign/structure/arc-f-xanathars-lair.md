@@ -268,7 +268,7 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 **If this is the second Eye restored (one of Arc G or Arc H completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
 
 - "One remains."
-- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If Arc G was first (Cassalanter villa already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A silver-haired elf who has been patient for eleven years." If Arc H was first (Jarlaxle's Eye already recovered), the final impression is: "A villa in the Sea Ward. A temple beneath it, stone floor engraved with the Cassalanter house mark. The children's laughter has a hollow quality." The Stone identifies each Eye by proximity-sense, not by name.
+- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If Arc G was first (Cassalanter villa already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A bald elf who has been patient for eleven years." If Arc H was first (Jarlaxle's Eye already recovered), the final impression is: "A villa in the Sea Ward. A temple beneath it, stone floor engraved with the Cassalanter house mark. The children's laughter has a hollow quality." The Stone identifies each Eye by proximity-sense, not by name.
 - The Vault's existence acknowledged: the Stone confirms it knows where the Vault is and that three Eyes will unlock the full knowledge. It does not reveal the location or command phrase.
 - The Stone's agenda deepens: "I am remembering what I was." The aboleth consciousness bleeds through more strongly — references to deep water, dreaming minds, geological patience. The Mad Mage seed intensifies.
 - What it does NOT reveal: the vault location, the command phrase, and Aurinax's nature. These require all three Eyes.
@@ -336,7 +336,7 @@ Arc F's transition is open. The three remaining lair arcs (G, H, I) are availabl
 - **Arc E Scene 1** — Stone of Golorr attunement and fragmentary impressions. Arc F Scene 6 implements the knowledge expansion that Arc E deferred.
 - **Arc E Scene 4 (Xanathar Outposts)** — Terasse Estate, Grinda Garloth's, Orb Confectioners. Entry methods seeded in Arc E are executed in Arc F Scene 2.
 - **Arc E escalation tiers** — Party's outpost activity directly determines Arc F's adversary roster. See Scene 3 variable difficulty table.
-- **Appendix A** — Full NPC profiles for Xanathar, Ahmaergo, Nar'l Xibrindas, Nihiloor, Noska Ur'gray, Ott Steeltoes, Thorvin Twinbeard, Keln Trigos, Grinda Garloth, Korgstrod Uurb, Gorath.
+- **Appendix A** — Full NPC profiles for Xanathar, Ahmaergo, Nar'l Xibrindas, Nihiloor, Noska Ur'gray, Ott Steeltoes, Thorvin Twinbeard, Keln Trigos, Grinda Garloth, Korgstrod Uxgulm, Gorath.
 - **Appendix B** — Custom two-phase boss stat block for Xanathar. Custom stat blocks for Ahmaergo (minotaur veteran), Nar'l (drow mage + grell bodyguard), Nihiloor (mind flayer arcanist).
 - **Appendix E** — Xanathar Guild faction overview, NPC roster, outpost entries, response team compositions, escalation framework, Nihiloor's three-project breakdown.
 - **Arc G (Cassalanter Villa)** — Stone 1-Eye impressions (Sea Ward villa, hidden temple) point toward Arc G. Cassalanter faction state reflects what the party's Cassalanter relationship has been.
