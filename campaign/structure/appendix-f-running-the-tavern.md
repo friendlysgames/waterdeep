@@ -202,11 +202,13 @@ The 1,250 gp renovation cost is not small for a 2nd-level party. What each facti
 
 ### Campaign Calendar
 
-Founders' Day falls on **Tarsahk 20** — the city-wide holiday commemorating Waterdeep's founding as a unified city.
+Two hard deadlines shape the campaign's second half. They fall in different months and operate independently.
 
-**Tavern impact:** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as the Twin Parades draw crowds; taverns along the parade route — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets; faction response teams may be spotted, and notable patrons from every tier appear at once. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
+**Tarsahk 20 — Sea Maidens Faire departure.** Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsahk 20. After that date, the Arc H alliance path is no longer available and the faction relationship defaults to adversarial. This is the Arc H deadline only; it has no connection to the Cassalanter arc.
 
-**Campaign deadline:** Founders' Day is the hard deadline for **Arcs G and H**. The Cassalanter infernal contract comes due at midnight on Tarsahk 20 — the fulfillment ceremony requires the family's principal players to be in the city. Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsahk 21; after that date, the Arc H alliance path is no longer available and the faction relationship defaults to adversarial. PCs who have not resolved either arc before midnight must do so under emergency conditions or accept the consequences of the deadline passing.
+**Flamerule 1 — Founders' Day.** The city-wide holiday commemorating Waterdeep's founding as a unified city. The Cassalanter infernal contract's fulfillment window opens on this date. The twins' ninth birthday — the actual sacrifice deadline — falls one tenday later, on Flamerule 11. PCs who have not disrupted the contract before Flamerule 11 arrive to find the ceremony already completed.
+
+**Tavern impact (Founders' Day):** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as the Twin Parades draw crowds; taverns along the parade route — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
 
 ---
 

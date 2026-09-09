@@ -326,7 +326,7 @@ The confrontation should feel tragic. These are desperate parents who chose a mo
 
 *Stone of Golorr Upgrade — Three Scenarios.*
 
-**If this is the first Eye restored (neither Arc F nor Arc H completed).** The Stone awakens for the first time. The attuned character hears a voice — old and precise, like water that has been underground for a long time. It does not say hello. "Two remain." No elaboration. The fragmentary images from Arc E Scene 1 clarify: "salt air and creaking wood, dark-skinned elf with silver hair" resolves to a ship in Waterdeep harbor, a theater company's banner, a patient figure at the prow. "An eye, unblinking in darkness, carved stone wet from underground springs" resolves to the beholder's lair beneath Skullport. Unprompted: "I want to be whole." The Stone's cooperation with the party is overlap of interest, not loyalty.
+**If this is the first Eye restored (neither Arc F nor Arc H completed).** The Stone awakens for the first time. The attuned character hears a voice — old and precise, like water that has been underground for a long time. It does not say hello. "Two remain." No elaboration. The fragmentary images from Arc E Scene 1 clarify: "salt air and creaking wood, dark-skinned elf" resolves to a ship in Waterdeep harbor, a theater company's banner — a bald elf at the prow, patient, watching. "An eye, unblinking in darkness, carved stone wet from underground springs" resolves to the beholder's lair beneath Skullport. Unprompted: "I want to be whole." The Stone's cooperation with the party is overlap of interest, not loyalty.
 
 **If this is the second Eye restored (one of Arc F or Arc H completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
 
