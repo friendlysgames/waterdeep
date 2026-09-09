@@ -405,7 +405,7 @@ The fleet structure also gives the departure deadline physical reality. The ship
 
 ## Stone of Golorr Full Awakening
 
-If Arc H delivers the third Eye, this is the campaign's pivotal revelation. The Stone reveals everything: vault location, command phrase, Aurinax's nature. This moment must be given its full weight regardless of which arc delivers it — the text frames the Full Awakening identically whether the third Eye came from Xanathar's fishbowl, the Asmodeus statue, or Jarlaxle's crystal ball pedestal.
+If Arc H delivers the third Eye, this is the campaign's pivotal revelation. The Stone delivers its revelation as riddle and impression, not as an address: the Brandath Crypts, a patient and unnamed guardian, imagery requiring interpretation rather than a key. The command phrase is not spoken — that knowledge awaits the ceremonial ritual in Arc J Scene 3. This moment must be given its full weight regardless of which arc delivers it — the text frames the Full Awakening identically whether the third Eye came from Xanathar's fishbowl, the Asmodeus statue, or Jarlaxle's crystal ball pedestal.
 
 The Full Awakening also brings the aboleth consciousness fully forward. The Stone stops pretending to be an object. It is Illuun's instrument — an ancient, cold, patient intelligence that has been observing the party through every attunement since Arc E. The Mad Mage seed planted in the 1-Eye awakening germinates here. The party is not carrying a treasure map. They are carrying a mind.
 
