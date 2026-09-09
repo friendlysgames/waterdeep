@@ -200,6 +200,14 @@ The 1,250 gp renovation cost is not small for a 2nd-level party. What each facti
 | Mirt | Up to 500 gp | Favor, not coin | Indefinite; he calls it in when useful. Should feel like a shadow over every Harper ask. |
 | Renaer | Up to 200 gp | Coin; "when convenient" | He will never ask. The guilt lands when the party is sitting on 3,000 gp from a heist. |
 
+### Campaign Calendar
+
+Founders' Day falls on **Tarsahk 20** — the city-wide holiday commemorating Waterdeep's founding as a unified city.
+
+**Tavern impact:** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as the Twin Parades draw crowds; taverns along the parade route — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets; faction response teams may be spotted, and notable patrons from every tier appear at once. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
+
+**Campaign deadline:** Founders' Day is the hard deadline for **Arcs G and H**. The Cassalanter infernal contract comes due at midnight on Tarsahk 20 — the fulfillment ceremony requires the family's principal players to be in the city. Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsahk 21; after that date, the Arc H alliance path is no longer available and the faction relationship defaults to adversarial. PCs who have not resolved either arc before midnight must do so under emergency conditions or accept the consequences of the deadline passing.
+
 ---
 
 ## Part 2: The Reputation Track (Fame)

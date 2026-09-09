@@ -67,10 +67,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **The Talking Mare** | Locate Maxeene, a talking draft horse working the city streets, and learn what she knows about Zhent operatives she may have overheard. | +1 |
-| 3rd | **The Gazer in the Bookshop** | Rescue bookseller Uza Solizeph's shop — and her cat Fillipa — from a gazer that has taken up residence inside. The City Watch won't help; the Harpers owe Uza a favor. | +1 |
-| 4th | **The Doppelganger Assessment** | Harper member Mattrim Mereg wants to recruit a gang of doppelgangers. Investigate their trustworthiness and report back. Only their leader Bonnie passes scrutiny. | +2 |
-| 5th | **The Spy at Haventree's Party** | Attend a society party at House Ulbrinter and identify the drow spy who has infiltrated the guest list. The suspect turns out to be someone remarkable. | +2 |
+| 2nd | **The Talking Mare** | Locate Maxeene, a talking draft horse working the city streets, and learn what she knows about Zhent operatives she may have overheard. | +2 |
+| 3rd | **The Dead Drop** | Rescue bookseller Uza Solizeph's shop — and her cat Fillipa — from a gazer that has taken up residence inside while searching for a compromised Harper dead drop. | +2 |
+| 4th | **The Doppelganger Auditions** | Harper member Mattrim Mereg wants to recruit a gang of doppelgangers. Investigate their trustworthiness and report back. Only their leader Bonnie passes scrutiny. | +3 |
+| 5th | **A Friend's House** | Attend a society party at House Haventree and identify the drow spy who has infiltrated the guest list. The suspect turns out to be someone remarkable. | +3 |
+| 6th | **The Sleeping Asset** | Find and rescue Harper informant Corene Wyldath, missing three weeks from her post inside Xanathar's Dock Ward operation — she has been compromised by an intellect devourer. | +4 |
+| 7th | **The Stone's Other Master** | Mirt requests three days with the Stone of Golorr before vault entry; a Harper seer detected an abolethic resonance waking below the city when the Stone was activated. A Splinter squad attacks during the handover. | +4 |
 
 ---
 
@@ -122,10 +124,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **Protecting the Dungsweepers** | Guard a team of guild workers through a tenday of street-cleaning in the Trades Ward. Tedious until a carrion crawler emerges from the sewers on day nine. | +1 |
-| 3rd | **Finding Harko** | Track down and eliminate Harko Swornhold, an exiled adventurer working for the Xanathar Guild to incite gang violence in the Dock Ward. | +1 |
-| 4th | **Scuttling the Thayan Deal** | Prevent Manshoon's Zhentarim from recruiting Red Wizard Esloon Bezant and his gang of thugs. Diplomacy, deception, or direct confrontation are all viable. | +2 |
-| 5th | **The Rooftop Assassin** | Locate Ziraj the Hunter — a Zhentarim assassin picking off targets from the rooftops — and deliver him alive to the City Watch. Reportedly hiding near Trollskull Alley. | +2 |
+| 2nd | **The Long Watch** | Guard a team of guild workers through a tenday of street-cleaning in the Trades Ward. Tedious until a carrion crawler emerges from the sewers on day nine. | +2 |
+| 3rd | **The Exile's Return** | Track down and eliminate Harko Swornhold, an exiled adventurer working for the Xanathar Guild to incite gang violence in the Dock Ward. | +2 |
+| 4th | **The Red Wizard's Price** | Prevent Manshoon's Zhentarim from recruiting Red Wizard Esloon Bezant and his gang of thugs. Diplomacy, deception, or direct confrontation are all viable. | +3 |
+| 5th | **The Archer Above** | Locate Ziraj the Hunter — a Zhentarim assassin picking off targets from the rooftops — and deliver him alive to the City Watch. Reportedly hiding near Trollskull Alley. | +3 |
+| 6th | **Fentree's Ledger** | Recover the personal records of deceased trade investigator Orvane Fentree before rival factions acquire them — the ledger proves the Vault of Dragons is in Waterdeep, correcting Laeral's intelligence. | +4 |
+| 7th | **An Audience with the Open Lord** | Attend a formal audience with Laeral Silverhand at Piergeiron's Palace; she seeks intelligence on the Stone, the factions' plans, and advice on a dangerous offer from Manshoon's Splinter. Rewards a Masked Lord's Writ for the vault operation. | +4 |
 
 ---
 
@@ -175,10 +179,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **The Undercliff Scarecrows** | Three animated scarecrows are terrorizing farms outside the city walls. Track them down and destroy all three before any farmers are killed. | +1 |
-| 3rd | **The Necromancer's Harvest** | Assist Sir Ambrose Everdawn in a ten-night patrol of the City of the Dead. Someone is stealing bones and raising skeletons — the necromancer stays hidden, but their work must stop. | +1 |
-| 4th | **The Doppelganger Problem** | A gang of doppelgangers hiding in the Yawning Portal is destabilizing the city's social fabric. Convince their leader Bonnie to take her people and leave Waterdeep — peacefully, if possible. | +2 |
-| 5th | **The Grells in the Dock Ward** | The Xanathar Guild is releasing monsters as Watch distractions. Two grells are snatching citizens in the Dock Ward. Hunt them down before more people disappear. | +2 |
+| 2nd | **The Undercliff Scarecrows** | Three animated scarecrows are terrorizing farms outside the city walls. Track them down and destroy all three before any farmers are killed. | +2 |
+| 3rd | **Ten Nights in the City of the Dead** | Assist Sir Ambrose Everdawn in a ten-night patrol of the City of the Dead. Someone is stealing bones and raising skeletons — the necromancer stays hidden, but their work must stop. | +2 |
+| 4th | **The Doppelganger Problem** | A gang of doppelgangers hiding in the Yawning Portal is destabilizing the city's social fabric. Convince their leader Bonnie to take her people and leave Waterdeep — peacefully, if possible. | +3 |
+| 5th | **The Grells in the Dock Ward** | The Xanathar Guild is releasing monsters as Watch distractions. Two grells are snatching citizens in the Dock Ward. Hunt them down before more people disappear. | +3 |
+| 6th | **The Fouled Channel** | Investigate dying plants at Phaulkonmere traced to Manshoon Splinter contamination of the Castle Ward cisterns — alchemical waste from intellect devourer experiments spreading through the Trades Ward water supply. | +4 |
+| 7th | **The Dreamer's Reach** | Jeryth Phaulkon has fallen silent, locked in psychic combat with Illuun's reach through the underground water table. Descend into the Castle Ward cisterns to destroy Illuun's surface anchor point and free her. | +4 |
 
 ---
 
@@ -227,10 +233,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **Breaking Up the Brawl** | Prevent a Zhent-paid gang fight from escalating in the Field Ward by intimidating or defeating the would-be combatants before anyone dies. | +1 |
-| 3rd | **The Black Viper Investigation** | Investigate reports that the notorious masked thief known as the Black Viper has returned. The trail touches the Grand Game in ways Savra doesn't yet realize. | +1 |
-| 4th | **The Shard Shunners** | A gang of halfling wererats is harassing a Field Ward inn out of spite. Drive them off or defeat them before the innkeeper loses everything. | +2 |
-| 5th | **Spined Devils in Twelvedog Court** | Help Savra put down a pack of spined devils terrorizing the Field Ward. The aftermath reveals a direct thread to a very prominent Waterdavian family. | +2 |
+| 2nd | **Breaking Up the Brawl** | Prevent a Zhent-paid gang fight from escalating in the Field Ward by intimidating or defeating the would-be combatants before anyone dies. | +2 |
+| 3rd | **The Black Viper Investigation** | Investigate reports that the notorious masked thief known as the Black Viper has returned. The trail touches the Grand Game in ways Savra doesn't yet realize. | +2 |
+| 4th | **The Shard Shunners** | A gang of halfling wererats is harassing a Field Ward inn out of spite. Drive them off or defeat them before the innkeeper loses everything. | +3 |
+| 5th | **Spined Devils in Twelvedog Court** | Help Savra put down a pack of spined devils terrorizing the Field Ward. The aftermath reveals a direct thread to a very prominent Waterdavian family. | +3 |
+| 6th | **The Shrine on Aveen Street** | Raid a hidden Asmodeus shrine in the Field Ward — a Cassalanter ritual preparation site — and recover Lord Victoro's operational ledger as physical evidence of diabolism for the Order's formal petition to the Lords. | +4 |
+| 7th | **The Writ and the Weight** | A Horned Devil arrives at the Halls of Justice to recover the incriminating ledger and kill everyone who touched it — Lord Victoro's infernal contract triggered a contractual enforcement rider. Defend against the infernal assault. | +4 |
 
 ---
 
@@ -283,10 +291,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **The Dockside Killer** | Three elf and half-elf sailors have been decapitated in the Dock Ward. Stake out the docks at night, protect the next likely target, and stop the killer before more die. | +1 |
-| 3rd | **The Poisoned Delivery** | Pick up a package from Skeemo Weirdbottle's shop and deliver it to a contact near the God Catcher statue. The contents are not what the label says. | +1 |
-| 4th | **The Missing Snobeedle** | A wealthy halfling family offers 500 gp for information on their missing son Dasher. The truth about where Dasher has gone and what he has become is more complicated than a simple disappearance. | +2 |
-| 5th | **Silencing Skeemo** | Skeemo Weirdbottle has been feeding information to the wrong people and must be eliminated quietly, with no trace back to the Network. The assignment tests both skill and willingness to cross a line. | +2 |
+| 2nd | **The Dockside Killer** | Three elf and half-elf sailors have been decapitated in the Dock Ward. Stake out the docks at night, protect the next likely target, and stop the killer before more die. | +2 |
+| 3rd | **The Poisoned Delivery** | Pick up a package from Skeemo Weirdbottle's shop and deliver it to a contact near the God Catcher statue. The contents are not what the label says. | +2 |
+| 4th | **The Missing Snobeedle** | A wealthy halfling family offers 500 gp for information on their missing son Dasher. The truth about where Dasher has gone and what he has become is more complicated than a simple disappearance. | +3 |
+| 5th | **Silencing Skeemo** | Skeemo Weirdbottle has been feeding information to the wrong people and must be eliminated quietly, with no trace back to the Network. The assignment tests both skill and willingness to cross a line. | +3 |
+| 6th | **The Yellowspire Job** | Infiltrate Yellowspire, Manshoon's Trades Ward relay tower, and steal the pass-amulet distribution ledger — showing which lieutenants carry which amulets on what rotation — the key to bypassing Kolat Towers' force field. | +4 |
+| 7th | **Ziraj's Last Hunt** | Manshoon's kill team has ambushed Ziraj the Hunter on Waterdeep's rooftops; race through the city to find him wounded and neutralize three remaining Splinter agents. Ziraj survives and provides a rooftop diagram of Kolat Towers' force-field gaps. | +4 |
 
 ---
 
@@ -339,10 +349,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **The Handkerchief Job** | Steal a silk handkerchief from a Waterdavian noble and deliver it to a tiefling girl living rough on the docks near Net and Dock Streets. A small test of skill and discretion. The reason matters more than it seems. | +1 |
-| 3rd | **The Wazoo Drop** | Deliver an anonymous exposé on devil worship among unnamed Waterdavian noble families to the publisher of *The Waterdeep Wazoo* without being identified. Jarlaxle wrote it himself. He enjoys rattling the nobility. | +1 |
-| 4th | **Guarding Ott Steeltoes** | An Xanathar Guild prisoner appears — inexplicably — bound in the tavern's basement. Guard him for three nights while Jarlaxle makes arrangements. Xanathar sends escalating forces to retrieve him each night. | +2 |
-| 5th | **The Compromised Spy** | Nar'l Xibrindas — Jarlaxle's agent embedded in Xanathar's council — has been compromised. Eliminate him before Xanathar does, to prevent him being tortured into revealing D'aerthe's operations. Jarlaxle furnishes a route directly into the beholder's lair. | +2 |
+| 2nd | **The Handkerchief and the Girl** | Steal a silk handkerchief from a Waterdavian noble and deliver it to a tiefling girl living rough on the docks near Net and Dock Streets. A small test of skill and discretion. The reason matters more than it seems. | +2 |
+| 3rd | **The Wazoo Affair** | Deliver an anonymous exposé on devil worship among unnamed Waterdavian noble families to the publisher of *The Waterdeep Wazoo* without being identified. Jarlaxle wrote it himself. He enjoys rattling the nobility. | +2 |
+| 4th | **Three Nights** | An Xanathar Guild prisoner appears — inexplicably — bound in the tavern's basement. Guard him for three nights while Jarlaxle makes arrangements. Xanathar sends escalating forces to retrieve him each night. | +3 |
+| 5th | **The Compromised Eye** | Extract or protect Nar'l Xibrindas, the BD mole embedded in Xanathar's Guild. Jarlaxle forbids killing him — Nar'l is more valuable alive and in position. Three approaches: feed him a false report, extract him from the city, or confront Ahmaergo's counterintelligence source. | +3 |
+| 6th | **The Theater's Back Room** | Facilitate a covert handoff at Seven Masks Theater — a frightened Cassalanter steward has a floor plan of the North Ward windmill the family uses for infernal contract fulfillment — while a Cassalanter watcher attempts to intercept the exchange. | +4 |
+| 7th | **The Dive** | Xanathar Guild divers have located the Scarlet Marpenoth submarine moored under the Eyecatcher and are staging to place a limpet charge on the hull. Dive into Deepwater Harbor to stop the dive team and remove the charge before dawn detonation. | +4 |
 
 ---
 
@@ -392,10 +404,12 @@ Full write-ups appear in Appendix D. Summary:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **Consulting Hlam** | Climb to the hermit monk Hlam's cave on the slopes of Mount Waterdeep and extract whatever intelligence he has on current threats to the city. The ascent is the first challenge. | +1 |
-| 3rd | **The Dragon in the Harbor** | A young bronze dragon named Zelifarn has taken up residence in Deepwater Harbor. Determine its intentions. Vajra provides *potions of water breathing* for the dive. | +1 |
-| 4th | **The Trouble with Meloon** | Force Grey operative Meloon Wardragon has been behaving erratically. Observe him for a tenday and report back. What the characters discover may reveal the reach of Xanathar's mind-control operations — and require more than surveillance to resolve. | +2 |
-| 5th | **Destroy the Intellect Factory** | Xanathar is using intellect devourers to seize control of key Waterdavians throughout the city. Infiltrate the beholder's lair and destroy whatever is creating these horrors. Vajra covers the cost of any *raise dead* spells required. | +2 |
+| 2nd | **Consulting Hlam** | Climb to the hermit monk Hlam's cave on the slopes of Mount Waterdeep and extract whatever intelligence he has on current threats to the city. The ascent is the first challenge. | +2 |
+| 3rd | **The Dragon in the Harbor** | A young bronze dragon named Zelifarn has taken up residence in Deepwater Harbor. Determine its intentions. Vajra provides *potions of water breathing* for the dive. | +2 |
+| 4th | **The Trouble with Meloon** | Force Grey operative Meloon Wardragon has been behaving erratically. Observe him for a tenday and report back. What the characters discover may reveal the reach of Xanathar's mind-control operations — and require more than surveillance to resolve. | +3 |
+| 5th | **Destroy the Intellect Factory** | Xanathar is using intellect devourers to seize control of key Waterdavians throughout the city. Infiltrate the beholder's lair and destroy whatever is creating these horrors. Vajra covers the cost of any *raise dead* spells required. | +3 |
+| 6th | **The Legate's Eyes** | Three Watch magistrates have reversed rulings benefiting Guild interests. Track and extract Orvyn Dall, a Watch appeals clerk running a self-sustaining Nihiloor intellect devourer legacy operation, without triggering a Watch investigation. | +4 |
+| 7th | **Smoke in the Tower** | A Manshoon Splinter mole named Vira Solkan has embedded herself in Blackstaff Tower to install a resonance disruptor that would open a four-hour window for a Kolat Towers strike team to assassinate Vajra. Find her and stop the attack. | +4 |
 
 ---
 
