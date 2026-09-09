@@ -69,6 +69,11 @@ Primary source files:
 - **`sources/Other remix files/`** — Patreon NPC guides, villain combat notes, event supplements, and enhanced stat blocks. See the "Other Remix Files" section in `sources/SOURCE_GUIDE.md` for the full file enumeration, NPC focus, and when-to-consult notes.
 - **`sources/Appendix_B_-_Player_Factions.md`**, **`sources/Appendix_C_-_Player_Faction_Missions.md`**, **`sources/Appendix_D_-_Running_the_Tavern.md`** — Alexandrian Remix appendices in markdown format; supplement the corresponding PDFs. Consult alongside `3. Player Character Factions.pdf` and `27. Addendum A Night in Trollskull Manor.pdf`.
 
+Ember format reference files (for document structure, not adventure content):
+- **`C:\Temp\ember\quest-event-combat.md`** — Ember combat event example ("Dusktide Rising"). The most complete illustration of the event file format: two-phase H3 structure, selective `> **[GM]** >` blockquotes, `### Concluding the Event` → attunements → `#### Next Steps` + `#### Milestone`, and the player zone (`## Overview` / `## Read Aloud` / `## Summary`) at the bottom.
+- **`C:\Temp\ember\quest-overview.md`** — Ember quest overview example ("Ooze Control"). Reference for the GM blockquote header (Requirements / Difficulty / Milestone Overview H4s) and the `## Overview` player-facing section.
+- **`C:\Temp\ember\area-keyed-room.md`** — Ember keyed room example (Arvoda's Elixirs). Reference for the opening-prose-no-heading pattern, H4 NPC sections, and the H3 event-conditional section with `Refer to the [Event Name] Event` callout.
+
 ---
 
 ## Workspace Structure
@@ -98,6 +103,8 @@ Primary source files:
 | `sources/Act_III_Arc_D.md` | Alexandrian Remix source for Arc D (Gralhund Villa) — primary reference for villa area descriptions, day/night state, and the quinpartite confrontation. |
 | `sources/Act_III_Arc_E.md` | Alexandrian Remix source for Arc E (Faction Outposts) — 903 lines; primary source for all faction outpost heists. Read before drafting Arc E. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
+| `campaign/quests/` | New home for all arc content in Ember-style modular format (Quest Journal per arc: overview + event pages + design notes). Being built arc-by-arc to replace `campaign/structure/arc-*.md`. |
+| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. |
 
 ---
 
@@ -118,6 +125,12 @@ Primary source files:
 
 ---
 
+## Active Plan
+
+**`C:\Users\robert.lupu\.claude\plans\that-s-pretty-much-what-tingly-summit.md`** — Ember-style modular document structure: one Journal Entry per arc (overview + event pages + design notes), separate Journal Entries per location cluster (area overview + keyed room pages), Milestone Points system replacing XP. Governs all new arc drafting going forward. `adventure-reloaded` skill updated to match.
+
+---
+
 ## Skills Reference
 
 All skill files live in `.claude/skills/`. Load a skill before performing its task — never work from memory for these.
@@ -135,7 +148,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | `humanize-prose` | Voice and rhythm pass on prose |
 | `deslop-text` | AI pattern check on prose — structural patterns (em-dashes, W2, metronomic sentences, etc.). Installed globally. |
 | `no-ai-slop` | Complementary AI pattern check — binary contrasts, colon reveals, throat-clearing, importance puffery, weasel attribution, synonym cycling. Always run alongside deslop-text; they catch different things. Installed globally. |
-| `adventure-reloaded` | Structural and writing guide for all campaign remix content — load before drafting any arc, chapter, scene, NPC profile, or design notes section |
+| `adventure-reloaded` | Structural and writing guide for all campaign remix content — load before drafting any quest journal, event file, location journal, keyed room, NPC profile, or design notes page. Governs Ember-style modular format, GM/player zones, Milestone Points, and cross-document callout syntax. |
 
 ---
 
@@ -170,6 +183,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
+**Milestone Points:** The campaign uses Ember's Milestone Points system — no XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests and Faction Missions award 1 point. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
+
 **Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Run the full pipeline recursively until no violations remain. Deliver only the polished version. Quoted character dialogue is exempt from W-codes and empty-adverb rules — formal or idiosyncratic speech patterns inside quotation marks are intentional character voice.
 
 **Output format:** All campaign documents go to `.md` source files. **No HTML Artifacts are published until the full campaign structure is complete** — meaning all arcs, chapters, and appendices have been drafted and reviewed. When the campaign structure is done, finished documents are delivered as HTML Artifacts that visually replicate how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later.
@@ -202,7 +217,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 
 1. Load `adventure-reloaded` — this governs overall document structure, arc openers, scene voice, callout taxonomy, NPC profile format, and design notes philosophy
 2. Load `dnd-adventure-text` + `foundry-journal` for scene-level prose and visual formatting
-3. Draft the arc in order: Arc Opener → Scene Entries → Design Notes section (always last)
+3. Draft the arc as a Quest Journal — flat folder, all files = pages: `overview.md` → event files (`ev-NN-name.md` in order) → `flowchart.md` → `design-notes.md`. For each keyed location, draft a separate Location Journal folder: `area-overview.md` → room files (`[code]-[name].md`). See `adventure-reloaded` for all file-type format specs.
 4. For NPC profiles: use the Resonance / Emotions / Motivations / Inspirations // Persona / Morale / Relationships format from `adventure-reloaded`
 5. For monsters: load `dnd-monster-designer` (standard) or `boss-design` (named villain)
 6. For encounter balancing: load `cr2-encounter-builder`
