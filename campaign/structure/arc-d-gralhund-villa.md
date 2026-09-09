@@ -389,7 +389,7 @@ All seven decisions are settled:
 
 5. **G15b correction is inline in Scene 3's Notable Areas.** The Alexandrian explicitly removes the teleportation circle and flying snakes from G15b. This is a factual correction to the published module, not a design philosophy choice — it belongs in the scene, not in Design Notes.
 
-6. **Level 4 milestone split across Arcs C and D.** Arc C awards 350 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Arc D awards 150 XP across two milestones (participating in the confrontation, recovering the Stone). Level 4 is reached on the second Arc D milestone. Grand total: 500 XP.
+6. **Level 4 milestone split across Arcs C and D.** Arc C awards 900 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Arc D awards 900 XP across two milestones (participating in the confrontation, recovering the Stone). Level 4 is reached on the second Arc D milestone. Grand total: 1,800 XP.
 
 7. **Manshoon does not appear and is not named in Arc D.** Floxin refuses to name his master throughout — this is established in his Appendix A profile. The party fights Manshoon's agents without knowing whose agents they are. The reveal is preserved for a later arc.
 

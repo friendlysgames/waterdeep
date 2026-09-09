@@ -85,6 +85,12 @@ By the time the detector spun hard on Saerdoun Street, the party had built their
 
 If the party mentions Fala's account of the burned man fleeing north — Renaer reaches out to Harper contacts at once. Within one day, he returns: the burned man matches Urstul Floxin, Manshoon's chief field agent in Waterdeep; a North Ward resident saw Floxin — visibly burned and limping — enter Gralhund Villa on Saerdoun Street within hours of the blast. The Watch sent two constables who were told everything was fine. No warrant was issued.
 
+*Three Independent Clue Paths to the Stone Connection:*
+
+- **Renaer's Paper Bird.** Renaer arrives within two hours of learning about the explosion. Dalakhar's paper bird, sent that morning, states that the Stone of Golorr was in his hands and that he was on his way to Trollskull Manor. This path is the arc's proactive failsafe — it delivers the core facts regardless of prior investigation success.
+- **Speak with Dead — Dalakhar's Body.** The bodies remain available for five days after the Watch takes custody. Dalakhar can answer up to five questions about the Stone directly: that he stole it from Xanathar's lair, that it is the key to a hidden vault of gold dragons somewhere beneath the city, and that Renaer Neverember vouched for the party. See Scene 1 for access methods.
+- **Speak with Dead — The Two Dead Zhentarim.** Bashekk Ortallis and Wern Malkrave each provide up to five answers. They were assigned to intercept Dalakhar for Urstul Floxin, and confirm that whatever he carried would make the cell "as rich as kings." Their testimony establishes that the Guild was tracking Dalakhar specifically because he carried the Stone. Each body is an independent path; neither depends on the other.
+
 **For Doom Raiders Characters. (New Content)** Davil Starsong is still free during Arc C — his arrest happens in the Watch's post-Gralhund crackdown, which follows Arc D. Davil identifies Floxin immediately as Manshoon's blade and suspects Floxin filed an anonymous tip naming the Doom Raiders as persons of interest in the fireball — damage control meant to draw Watch heat away from the Splinter cell. He wants proof of Floxin's direct involvement. *The Dilemma:* The bombing was Zhentarim — the other cell, the rival operation, a splinter this party never sanctioned. That distinction is real. Explaining it to Trollskull Alley neighbors is going to be very difficult.
 
 *Player Faction Contact Reactions.* As the fireball investigation proceeds, each player faction contact responds in their own register. These exchanges can be delivered as flying snake messages, chance encounters, or requested meetings depending on the party's established communication patterns.
@@ -326,7 +332,7 @@ All seventeen decisions are settled from source material and campaign continuity
 14. **Faction contact responses to the death mark.** Four contacts with distinct intelligence (Mirt, Vajra, Jalester, Tashlyn). Each provides a different fragment; none duplicates another.
 15. **Cassalanter dinner before Gralhund Villa.** First direct villain contact. Ammalia's warmth is established behavior from Arc B. No mention of children, the infernal pact, or Asmodeus.
 16. **Faction advice and "If They Don't Go" contingencies belong in Arc D.** Arc C ends at "you know where to go." The "Choosing a Course of Action" material from Act_III_Arc_D.md opens Arc D.
-17. **Level 4 milestone split across Arcs C and D.** Arc C awards 350 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Level 4 is not reached until Arc D, when the party recovers the Stone of Golorr. The Backtracking Dalakhar branch (formerly an optional third milestone) is absorbed into Arc C's narrative rewards rather than tracked as a separate XP milestone.
+17. **Level 4 milestone split across Arcs C and D.** Arc C awards 900 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Level 4 is not reached until Arc D, when the party recovers the Stone of Golorr. The Backtracking Dalakhar branch (formerly an optional third milestone) is absorbed into Arc C's narrative rewards rather than tracked as a separate XP milestone.
 
 ---
 

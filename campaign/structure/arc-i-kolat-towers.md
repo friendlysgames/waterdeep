@@ -304,8 +304,6 @@ Arcs F, G, H, and I each award the same flat 6,000 XP for completing their heist
 
 These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder.
 
-This ladder is specific to this campaign and departs from the core rulebook's cumulative XP table past 5th level — the divergence is deliberate, in service of the heist-count pacing above, not an error.
-
 Arc I's transition is not open-ended in the same way as prior lair arcs. The remaining task is Arc J. The intelligence haul — Manshoon's Report on the Grand Game, the Blackmail Ledger, the partial command phrase — feeds directly into Arc J preparation. If the party completes Arc I with all three Eyes restored, Arc J launches immediately.
 
 ---
