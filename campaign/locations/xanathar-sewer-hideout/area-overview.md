@@ -6,7 +6,7 @@
 >
 > This location is used during the **Xanathar Sewer Hideout** Event (ev-04) of Arc A. The party approaches from the east through the sewer tunnels, following Xanathar guildsign. Q01 is the entry point. Q07 holds Floon Blagmaar. Q11 is Nihiloor's escape route.
 >
-> Alert state and illumination conditions are set before the party reaches Q01 — by the sewer navigation outcome and gazer encounter. Refer to the **Xanathar Sewer Hideout** Event for those mechanics.
+> Alert state and illumination are set by the sewer navigation outcome and gazer encounter before the party reaches Q01. Refer to the **Xanathar Sewer Hideout** Event for those mechanics.
 
 ## Gameplay Details
 
@@ -18,7 +18,7 @@ All rooms are on a single level, slightly below the main sewer tunnel depth. The
 
 ### Illumination
 
-No natural light throughout. Torches were placed in wall sconces but most have burned out; assume complete darkness unless the party provides light. The goblins in Q02 rely on darkvision — they do not use or carry light sources.
+No natural light throughout. Torches were placed in wall sconces but most have burned out; assume complete darkness unless the party provides light. The goblins in Q02 rely on darkvision and don't use or carry light sources.
 
 ### Terrain
 
@@ -38,7 +38,7 @@ Q03, Q04, Q08, Q09, Q10, Q11: no inhabitants.
 
 ### Alert State
 
-Two triggers set the hideout to alert state. Either is sufficient; both together do not compound:
+Two triggers set the hideout to alert state. Either is sufficient; both together don't compound:
 
 - **Gazer defeated in open combat** before the party reaches Q01 — the noise carries through the tunnels; the Q02 goblins are awake by the time the party arrives at Q01
 - **Two or more failed navigation checks** during sewer navigation — the party wandered into wrong passages audible to Q01; the Q02 goblins heard them and woke
@@ -53,7 +53,7 @@ If neither trigger fires, the goblins are asleep and the complex is in unaware s
 
 **Q06:** Gray ooze (CR 1/2). Emerged from the cesspit. The dead goblins' bones float in it.
 
-**Q07:** Grum'shar (CE half-orc wizard, CR 2); one intellect devourer (CR 2). Nihiloor (mind flayer, CR 7) flees on party arrival — does not fight except to dominate a creature blocking its escape path.
+**Q07:** Grum'shar (CE half-orc wizard, CR 2); one intellect devourer (CR 2). Nihiloor (mind flayer, CR 7) flees on party arrival — doesn't fight except to dominate a creature blocking its escape path.
 
 ### Doors
 

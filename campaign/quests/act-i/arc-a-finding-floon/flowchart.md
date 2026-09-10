@@ -55,8 +55,8 @@ Arc B — Trollskull Alley
 
 ## Notes
 
-**Failure state:** A party that fails all three sewer navigation checks arrives at Q07 to find Floon dead. This is the arc's only hard failure outcome. The deed to Trollskull Manor is still delivered by Volo regardless — he honors the attempt. Arc B begins either way; Floon's absence is a running thread in Arc B rather than a campaign-ending event.
+**Failure state:** A party that fails all three sewer navigation checks arrives at Q07 to find Floon dead, the arc's only hard failure state. Volo still delivers the deed to Trollskull Manor regardless — he honors the attempt. Arc B begins either way; Floon's death becomes an unresolved thread the party can chase.
 
-**Milestone sequencing:** Both milestone events must be completed for the party to reach Level 2. A party that skips the warehouse and goes directly to the sewer via the bead trail earns Milestone 2 before Milestone 1; level-up still triggers when the second point is awarded (cumulative threshold = 2 regardless of order).
+**Milestone sequencing:** The party must complete both milestone events to reach Level 2. A party that skips the warehouse and goes directly to the sewer via the bead trail earns the second point before the first; level-up still triggers when the cumulative total hits 2 (regardless of order).
 
 **Krentz continuity:** If Krentz survived ev-01, he appears in Q05 of the sewer hideout recovering from the Yawning Portal incident. His presence gives Zemk advantage on initiative (he warns him in time). This is the only cross-event mechanical consequence in Arc A.

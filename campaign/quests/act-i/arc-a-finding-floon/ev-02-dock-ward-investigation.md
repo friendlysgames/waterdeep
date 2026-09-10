@@ -22,7 +22,7 @@ Three independent paths converge on the same answer: Zhentarim thugs grabbed two
 
 #### Path A — Blood in the Streets
 
-En route from the Yawning Portal into the Dock Ward — before the party reaches the Xoblob Shop or the Skewered Dragon — they cross a City Watch crime scene. A dozen guards have arrested three surviving thugs from a street brawl. The prisoners wear black leather armor; flying snake tattoos are visible on their necks and forearms. The Watch waves the party off, but the tattoos are in plain view.
+Before the party reaches the Xoblob Shop or the Skewered Dragon, they cross a City Watch crime scene. A dozen guards have arrested three surviving thugs from a street brawl. The prisoners wear black leather armor; flying snake tattoos are visible on their necks and forearms. The Watch waves the party off, but the tattoos are in plain view.
 
 These are **Manshoon's Splinter Zhentarim**. They report to Kolat Towers, not to Davil Starsong. DC 13 Intelligence (History) check with any criminal, faction, or guild background identifies the tattoo as Zhentarim; distinguishing which cell is not possible from a tattoo alone at this level.
 
@@ -52,16 +52,16 @@ Three formal independent paths converge on the same answer: a warehouse at the e
 >
 > #### Skewered Dragon as Bonus Path
 >
-> Parties who visit the Skewered Dragon (Revelation #1, Path C) will also learn the Candle Lane address from the regulars in the same conversation. This is the fastest route through both revelations. It is a bonus, not a fourth formal path — the Three Clue Rule is satisfied by the three paths below.
+> Parties who visit the Skewered Dragon (Revelation #1, Path C) will also learn the Candle Lane address from the regulars in the same conversation. This is the fastest route through both revelations. It is a bonus, not a fourth formal path. The three paths below satisfy the Three Clue Rule.
 
 #### Path A — Neighborhood Canvass
 
 Asking around the blocks near the Xoblob Shop and crime scene, ten to fifteen minutes of active questioning:
 
 - **A shellfish vendor on Sail Street** (dwarf woman, taciturn): DC 15 Charisma (Persuasion) to engage; if persuaded, she has seen snake-tattoo men entering a warehouse on Candle Lane for months, bringing crates at odd hours.
-- **A boy selling fish wrappers near the crime scene** (eleven years old, opportunistic): claims the men are sailors from the *Scarlet Gull* at the East Dock — a red herring. He overheard a Watch guard say something about sailors and filled in the rest. Will demand 2 cp for any further "information," all of it vague or wrong.
+- **A boy selling fish wrappers near the crime scene** (eleven years old, opportunistic): claims the men are sailors from the *Scarlet Gull* at the East Dock — a red herring. He overheard a Watch guard say something about sailors and filled in the rest. Will demand 2 cp for any further details, all invented, vague, or wrong.
 - **Two dockworkers eating in a doorway on Dock Street** (both nervous): they have seen the snake-tattoo men; DC 13 Charisma (Persuasion) (DC 11 if the party shows any faction credential or Watch badge) confirms: a warehouse at the end of Candle Lane. "Don't say we told you."
-- **An old woman at an upstairs window on a cross alley**: noticed only if the party looks up — she has been watching the crime scene all morning. Calls down unprompted that she has seen those men going in and out of the Candle Lane place for a long time. No check required.
+- **An old woman at an upstairs window on a cross alley**: noticed only if the party looks up. She has been watching the crime scene all morning. Calls down unprompted that she has seen those men going in and out of the Candle Lane place for a long time. No check required.
 
 #### Path B — Prisoner Interrogation
 
@@ -76,7 +76,7 @@ Any cooperative prisoner names Candle Lane. A prisoner who refuses requires DC 1
 
 #### Path C — Floon's Bead Trail
 
-Floon's necklace — a holy symbol of Lurue, a unicorn bas-relief on a blue pearl chain — shed beads during the struggle outside Xoblob's shop. The beads are pale blue against dark stone; DC 13 Wisdom (Perception) to spot the trail on the cobblestones.
+Floon's necklace, a holy symbol of Lurue worked as a unicorn bas-relief on a blue pearl chain, shed beads during the struggle outside Xoblob's shop. The beads are pale blue against dark stone; DC 13 Wisdom (Perception) to spot the trail on the cobblestones.
 
 Following the trail leads directly to the mouth of Candle Lane and ends at the warehouse gate. If the party already knows the address from another path, the trail still confirms which building on Candle Lane.
 

@@ -16,7 +16,7 @@ Two levels. Z01 (main room), Z02 (storage closet), Z03 (secret room), and Z05 (o
 
 ### Illumination
 
-Unlit during the events of Arc A. The building's windows are covered or painted over. Light sources must be provided by the party.
+Unlit during the events of Arc A. The building's windows are covered or painted over. The party must provide their own light.
 
 ### Yard and Fence
 
@@ -34,24 +34,24 @@ Three locked entry points (DC 12 Dexterity with thieves' tools, or DC 10 Strengt
 
 During the **Zhentarim Warehouse** Event, the building is occupied by four kenku, left by the Xanathar Guild to kill any Zhentarim who return. The Zhentarim cell that used this warehouse is dead — killed in the raid that preceded the party's arrival.
 
-**Renaer Neverember** is in Z02. He has slipped his bonds and is waiting. He will not reveal himself until the kenku are dealt with.
+**Renaer Neverember** is in Z02. He has slipped his bonds and is waiting. He won't reveal himself until the party deals with the kenku.
 
 ### Kenku Alert State
 
-**Unaware state:** The kenku are distributed through the building, still searching the wreckage. Party entry requires a group DC 13 Dexterity (Stealth) check against the kenku's passive Perception of 13.
+**Unaware state:** The kenku are still moving through the building, rifling crates and checking the bodies for valuables. They haven't settled. Party entry requires a group DC 13 Dexterity (Stealth) check against their passive Perception of 13.
 
-**Alert state:** Triggered by forced entry, combat noise in the yard, or a failed Stealth check on entry. Kenku have hidden behind overturned furniture in Z01 and are watching the entry points. Group Stealth DC rises to 16.
+**Alert state:** Triggered by forced entry, combat noise in the yard, or a failed Stealth check on entry. The kenku have concealed themselves behind overturned furniture in Z01 and watch the entry points from cover. Group Stealth DC rises to 16.
 
 Each keyed room entry notes how the kenku behave in both states. Refer to the **Zhentarim Warehouse** Event for the full entry mechanic.
 
 ### Enemies
 
-**Four kenku (CR 1/4).** One possible lookout position exists on the Z04 balcony; if the kenku are in alert state, one may be stationed there watching the yard through a gap in the painted-over skylight panel. This is a DM judgment call based on how the alert was triggered.
+**Four kenku (CR 1/4).** One kenku may take up a lookout position on the Z04 balcony. If activity in the yard triggered the alert, it perches there, watching through the gap in the skylight panel.
 
 ### The Previous Occupants
 
-The twelve corpses in Z01 are the remnants of two organizations that met violently. Five Zhentarim thugs (flying snake tattoos on neck or forearm) and seven Xanathar Guild thugs (one has a circle-with-ten-spokes tattooed on their right palm — Xanathar's mark). Rapiers and daggers lie nearby. The fight was recent — within the past day.
+The twelve corpses in Z01 are the remnants of two organizations that met violently. Five Zhentarim thugs (flying snake tattoos on neck or forearm) and seven Xanathar Guild thugs, one of whom has Xanathar's circle-and-spokes mark tattooed on their right palm. Rapiers and daggers lie nearby. The fight was no more than a day old.
 
 ### Loot
 
-Z03 contains four paintings (75 gp each) and fifteen silver trade bars (50 gp each, black with corrosion). Z05 contains a paper bird (magic item) and the mourning locket (see Z05). Z04 and the corpses in Z01 have nothing of value beyond the weapons (too common to note).
+Z03 contains four paintings (75 gp each) and fifteen silver trade bars (50 gp each, black with corrosion). Z05 contains a paper bird (magic item) and the mourning locket (see Z05). Z04 and the Z01 corpses carry only common weapons.

@@ -2,15 +2,15 @@
 
 A halfling-scale cellar beneath a home on Fishgut Alley, belonging to the **Peabody family** — Wendell Peabody, his wife Hetta, and their adult daughter Calla, all brewers of a passable dark ale sold to three local taverns. The cellar is their production space: oak barrels in various stages of fermentation, copper pipes, grain sacks, a hand-pump above a well shaft, and the smell of yeast strong enough to taste.
 
-The tunnel from Q08 surfaces through a flagstone in the cellar's northeast corner, concealed by a rack of empty barrels that was pushed against the wall long ago and forgotten. The Peabodys have never discovered the tunnel. Their cellar flagstone is on the outside of the barrel rack; they cannot see the tunnel entrance from their normal work areas.
+The tunnel from Q08 surfaces through a flagstone in the cellar's northeast corner, concealed by a rack of empty barrels that was pushed against the wall long ago and forgotten. The Peabodys have never found it. Their cellar flagstone is on the outside of the barrel rack; they can't see the entrance from their normal work areas.
 
-> If the party emerges through the tunnel while the Peabodys are in the cellar: a halfling woman in a leather apron, arms braced on a barrel, stares at the party with an expression that passes through surprise, alarm, and settling reluctant calculation in about four seconds. "Right then. Would you like a drink while I decide whether to scream?"
+> If the party surfaces through the flagstone while the Peabodys are in the cellar: a halfling woman in a leather apron, arms braced on a barrel, stares at the party with an expression that passes through surprise, alarm, and settling reluctant calculation in about four seconds. "Right then. Would you like a drink while I decide whether to scream?"
 
-The Peabodys are not hostile; they are pragmatic. They are also aware that they live in the Dock Ward and have survived it by minding their own affairs. If the party is clearly not a threat and treats the family with basic respect, they will let the matter pass and ask no questions they don't want answered.
+The Peabodys are pragmatic. They are also aware that they live in the Dock Ward and have survived it by minding their own affairs. If the party is clearly not a threat and treats the family with basic respect, they will let the matter pass and ask no questions they don't want answered.
 
 ### Arc B Resource
 
-The Q08/Q09 tunnel provides a second sewer entry and exit point for future Dock Ward operations. The Peabodys can become allies in Arc B — a reliable safe house one level above the sewer complex — if the party handles the initial encounter well. Alternatively, the tunnel is simply a useful operational detail: a way in and out of the sewer hideout without using the guildsign entrance, accessible to any party that knows the barrel rack has a secret behind it.
+The Q08/Q09 passage provides a second sewer entry and exit point for future Dock Ward operations. The Peabodys can become allies in Arc B — a reliable safe house one level above the sewer complex — if the party handles the initial encounter well. Alternatively, the passage is simply a useful operational detail: a way in and out of the sewer hideout without using the guildsign entrance, accessible to any party that knows the barrel rack has a secret behind it.
 
 This resource should not be pressed in Arc A. The party has just rescued Floon; the Peabodys are a footnote for now, not a faction to develop immediately.
 

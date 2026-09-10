@@ -36,7 +36,7 @@ Refer to the **Zhentarim Warehouse** journal for keyed room entries describing b
 
 ### The Kenku
 
-Four kenku were left here by Xanathar's Guild to kill any Zhentarim who return. The Zhentarim cell that used this warehouse is already dead — killed in the raid. The kenku do not know the party is not Zhentarim; they are hostile on sight in alert state, suspicious in unaware state.
+Four kenku were left here by Xanathar's Guild to kill any Zhentarim who return. The Zhentarim cell that used this warehouse is already dead — killed in the raid. The kenku don't know the party isn't Zhentarim; they're hostile on sight in alert state, suspicious in unaware state.
 
 Kenku speak only in mimicked voices — fragments captured from conversations they have overheard. Under DC 10 Charisma (Intimidation), a captured or subdued kenku repeats, in three different voices:
 
@@ -51,12 +51,12 @@ Kenku speak only in mimicked voices — fragments captured from conversations th
 **What Renaer shares without prompting:**
 - Five Zhentarim grabbed him and Floon outside Old Xoblob Shop two nights ago and brought them here
 - They questioned him about his father's embezzled gold — money Renaer has refused to help his father hide
-- They took his mourning locket, which he believed held a keepsake from his mother; he did not know there was a hidden compartment
+- They took his mourning locket, which he believed held a keepsake from his mother; he didn't know there was a hidden compartment
 - The Xanathar Guild attacked before the interrogation went further
 - He slipped his bonds in the confusion and hid in Z02
 - Through a gap in the door he watched Xanathar agents drag an unconscious Floon through the main room, out through the yard, and down the alley toward a sewer grate
 
-**What Renaer does not know:** what the locket contained; where the Vault is; the Stone of Golorr's role in any of this. His ignorance is genuine.
+**What Renaer doesn't know:** what the locket contained; where the Vault is; the Stone of Golorr's role in any of this. His ignorance is genuine.
 
 **If asked about his father's enemies:** The Cassalanters have been quietly acquiring properties near the Brandath family tombs — his mother's family plots. He cannot explain it. He raises it as an oddity, not an accusation.
 
@@ -90,7 +90,7 @@ The kenku are neutralized (defeated, driven off, or subdued). The party controls
 >
 > #### Next Steps
 >
-> With Revelation #3 established, the party proceeds to the **Xanathar Sewer Hideout** Event. The sewer grate is half a block east of the warehouse yard. Renaer offers to wait at the warehouse or accompany the party — he does not know what is in the sewers, but he wants Floon back.
+> With Revelation #3 established, the party proceeds to the **Xanathar Sewer Hideout** Event. The sewer grate is half a block east of the warehouse yard. Renaer offers to wait at the warehouse or accompany the party — he doesn't know what's in the sewers, but he wants Floon back.
 >
 > #### Milestone: Zhentarim Warehouse
 >

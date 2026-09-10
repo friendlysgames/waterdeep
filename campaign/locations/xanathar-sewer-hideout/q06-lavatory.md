@@ -6,10 +6,10 @@ The gray ooze takes up most of the accessible floor. Moving through the room wit
 
 The cesspit itself drops down approximately ten feet into a collecting chamber connected to the main sewer flow. Nothing of interest below.
 
-> The ooze does not react until touched or disturbed. A character who looks into the cesspit hole smells something bad that is not the usual sewer smell — the ooze has been in contact with the stone for long enough to etch it.
+> The ooze doesn't react until touched or disturbed. A character who looks into the cesspit hole smells something that isn't the usual sewer smell — the ooze has been eating into the stone long enough to etch it.
 
 #### Gray Ooze
 
-Hostile. Pseudopod attack corrodes metal weapons and armor on contact. It does not pursue beyond the room — the cesspit is its origin point and it has no interest in the corridor.
+Hostile. Pseudopod attack corrodes metal weapons and armor on contact. It doesn't pursue beyond the room — the cesspit is its origin point and it has no interest in the corridor.
 
 **Pitted weapons on the floor:** A character who tries to use either dropped weapon makes a DC 10 Strength check or it breaks on the first attack roll (whether or not the attack hits).

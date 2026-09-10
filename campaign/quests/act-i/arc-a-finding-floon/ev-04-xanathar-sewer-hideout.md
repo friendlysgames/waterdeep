@@ -42,11 +42,11 @@ Midway through the route, at a branching tunnel junction, a **gazer** (Xanathar 
 
 **Bypass:** Group DC 13 Dexterity (Stealth) check. On success, the party neutralizes or slips past the gazer without alerting the hideout.
 
-**Open combat:** Defeating the gazer in open combat should be treated as noise reaching Q01 — add the alert trigger even if the navigation checks were otherwise successful.
+**Open combat:** Defeating the gazer in open combat should be treated as noise reaching Q01. Add the alert trigger even if the navigation checks were otherwise successful.
 
 ### The Hideout — Q01 to Q11
 
-The complex is an eleven-room Xanathar Guild cell built into a decommissioned sewer vault. No natural light; goblins rely on darkvision. All interior doors unlocked — Grum'shar assumes only those with guild business reach this place.
+The complex is an eleven-room Xanathar Guild cell built into a decommissioned sewer vault. No natural light; goblins rely on darkvision. All interior doors are unlocked. Grum'shar assumes only those with guild business reach this place.
 
 Alert state (goblins awake) is set by the navigation result and the gazer encounter. Refer to the **Xanathar Sewer Hideout** journal for keyed room entries describing both states.
 
@@ -64,13 +64,13 @@ Alert state (goblins awake) is set by the navigation result and the gazer encoun
 
 ### Q07 — The Boss Chamber
 
-When the party arrives (if the navigation result is not the failure state):
+When the party arrives (if the navigation result isn't the failure state):
 
 **Grum'shar** (CE half-orc wizard) stands with his foot on Floon's chest, fire burning around his clenched fist, interrogating him. **Nihiloor** (mind flayer) is seated on a raised platform to the south, cradling an **intellect devourer**.
 
-The moment Nihiloor sees the party: it rises, sets the intellect devourer down (now loose and hostile), and glides toward the western double door — heading for Q11. Nihiloor uses *dominate monster* only to clear its escape path if blocked. It does not fight the party. It does not speak. Grum'shar and the intellect devourer cover its escape.
+The moment it sees the party, it rises, sets the intellect devourer down (now loose and hostile), and glides toward the western double door, heading for Q11. It uses *dominate monster* only to clear its escape path if blocked. It doesn't fight the party. It doesn't speak. Grum'shar and the intellect devourer cover its escape.
 
-**Floon** is alive but has 1 hit point. If healed, he hugs everyone. If the party asks what he knows: he does not know why he was taken. He has been unconscious for most of his captivity.
+**Floon** is alive but has 1 hit point. If healed, he hugs everyone. If the party asks what he knows: he doesn't know why he was taken. He's been unconscious for most of his captivity.
 
 **Grum'shar's satchel** (recovered whether he fled or is defeated here): spellbook containing *burning hands*, *disguise self*, *false life*, *shield*, *unseen servant*, *witch bolt*.
 
@@ -80,9 +80,9 @@ The moment Nihiloor sees the party: it rises, sets the intellect devourer down (
 
 ### Nihiloor and Q11
 
-Nihiloor glides from Q07 through the hideout's western corridor to Q11. If the party pursues, Nihiloor is always ahead — it moves with purpose and knows the complex. Any creature that blocks its path encounters *dominate monster* (DC 15 Wisdom saving throw).
+Nihiloor glides from Q07 through the hideout's western corridor to Q11. If the party pursues, it is always ahead, moving with purpose through passages it knows by heart. Any creature that blocks its path encounters *dominate monster* (DC 15 Wisdom saving throw).
 
-At Q11, Nihiloor presses its 3-inch stone orb into the pillar's circular indentation. An opaque black doorway (8 feet tall, 4 feet wide) opens in the south wall. Nihiloor steps through into area X22 of Xanathar's lair. The party cannot follow unless they somehow have the orb (impossible in normal play — Nihiloor carries it through). The portal closes 1 minute after the orb is removed from the indentation.
+At Q11, it presses its 3-inch stone orb into the pillar's circular indentation. An opaque black doorway (8 feet tall, 4 feet wide) opens in the south wall. It steps through into area X22 of Xanathar's lair. The party cannot follow unless they somehow have the orb (impossible in normal play, since it carries the orb through). The portal closes 1 minute after the orb is removed from the indentation.
 
 After Nihiloor escapes, Q11's pillar is inert. DC 14 Intelligence (Arcana) identifies the indentation as a key socket. DC 16 Intelligence (History) identifies the guildsign as Xanathar's mark. See the **Q11 — Escape Portal** room entry in the **Xanathar Sewer Hideout** journal for full mechanic details.
 
@@ -90,11 +90,11 @@ After Nihiloor escapes, Q11's pillar is inert. DC 14 Intelligence (Arcana) ident
 >
 > #### Nihiloor — Restraint is the Point
 >
-> The party's encounter with Nihiloor is a sight-line, not a fight. They see it rise, release the intellect devourer, and glide purposefully out of the room. This moment communicates one thing: Grum'shar was never the top of this structure. The goal is not horror — it is scale. Players should leave Q07 understanding that something they cannot yet face was running this cell. Nihiloor's full scope surfaces across Arcs B through F.
+> The party's encounter with Nihiloor is a sight-line. They see it rise, release the intellect devourer, and glide out of the room. This moment shows that Grum'shar was never the top of this structure. The goal is scale. Players should leave Q07 understanding that something they cannot yet face was running this cell. Its full scope surfaces across Arcs B through F.
 
 ### Volo's Payment
 
-With Floon rescued, the party surfaces. Volo is waiting — at the warehouse, or at the Yawning Portal, or wherever the party set a rendezvous. He does not have the 100 gp per character. He produces the deed to a derelict tavern in Trollskull Alley, North Ward:
+With Floon rescued, the party surfaces. Volo is waiting at the warehouse, at the Yawning Portal, or wherever the party set a rendezvous. He doesn't have the 100 gp per character. He produces the deed to a derelict tavern in Trollskull Alley, North Ward:
 
 > "Worth considerably more than the gold owed. An investment in your futures."
 
@@ -106,11 +106,11 @@ The deed is real. **Trollskull Manor** is real, non-operational, and now the par
 
 #### Floon Blagmaar Rescued: Floon Alive at Rescue
 
-Floon is found alive in Q07 (1 hp) and survives the arc. He does not know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Arc B as a Trollskull Alley regular.
+Floon is found alive in Q07 (1 hp) and survives the arc. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Arc B as a Trollskull Alley regular.
 
 #### Nihiloor Sighted: Party Present in Q07 When Nihiloor Escaped
 
-The party witnessed a mind flayer in the Xanathar Guild's sewer cell. They do not yet know what it is. This attunement serves as a retroactive payoff when Nihiloor's role in the Grand Game is revealed in Arc F.
+The party witnessed a mind flayer in the Xanathar Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Arc F.
 
 #### Deed to Trollskull Manor: Volo's Payment Accepted
 
@@ -120,7 +120,7 @@ The party holds legal title to a derelict tavern at 10 Trollskull Alley, North W
 >
 > #### Next Steps
 >
-> The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer — at the warehouse, the Yawning Portal, or en route to the Alley — is the emotional close of the arc.
+> The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer (at the warehouse, the Yawning Portal, or en route to the Alley) is the emotional close of the arc.
 >
 > Proceed to **Arc B: Trollskull Alley**. See the **Arc B Overview** for entry conditions.
 >
@@ -130,7 +130,7 @@ The party holds legal title to a derelict tavern at 10 Trollskull Alley, North W
 
 ## Overview
 
-The sewers beneath the Dock Ward lead to an Xanathar Guild hideout carved into a decommissioned vault. Floon Blagmaar is alive inside — barely. So is something else, something that leaves before the party can engage it.
+The sewers beneath the Dock Ward lead to an Xanathar Guild hideout carved into a decommissioned vault. Floon Blagmaar is alive inside. Barely. So is something else, something that leaves before the party can engage it.
 
 ## Read Aloud
 

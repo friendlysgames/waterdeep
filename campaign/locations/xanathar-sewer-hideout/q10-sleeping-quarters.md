@@ -4,6 +4,6 @@ A rectangular room with straw pallets on the floor — eight of them, laid in tw
 
 The room is empty when the party arrives. Whoever slept on the pallets left in a hurry or moved elsewhere in the complex for the current operation — the pallets are compressed and the blankets are in disarray, but no one is here now.
 
-Nothing of value. The manacles cannot be removed without significant effort and are not worth the trouble regardless.
+Nothing of value. The chains can't be pulled free without significant effort and aren't worth the trouble regardless.
 
-> The room smells of mildew and old fear. The manacles on the east wall are not a comfortable size — they were installed for humans or larger, and the rough iron suggests they were made to last, not to be comfortable.
+> The room smells of mildew and old fear. The manacles on the east wall are sized for humans or larger — rough iron, made to last.

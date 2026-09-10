@@ -1,6 +1,6 @@
 # Q04 — Empty Sleeping Area
 
-Six straw-stuffed mattresses on the floor, laid in two rows of three. All of them are occupied in the sense that they have been slept in recently — flattened straw, dented centers, a thin blanket on one — but empty now. The occupants are elsewhere in the complex.
+Six straw-stuffed mattresses on the floor, laid in two rows of three. All recently slept in — flattened straw, dented centers, a thin blanket on one — but empty now. The occupants are elsewhere in the complex.
 
 The room is otherwise bare. One stub of a tallow candle on the floor near the door, burned out.
 

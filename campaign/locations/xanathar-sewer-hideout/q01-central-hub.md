@@ -12,7 +12,7 @@ The secret door leads south into a short rough-hewn passage, then up into Q09 (t
 
 In alert state, the Q02 goblins are awake and watching this chamber from their alcoves. They cannot be seen from the entry tunnel until the party enters Q01. The party has one round to act before the goblins react — they shout (waking Q05) and throw javelins.
 
-A DC 14 Dexterity (Stealth) check (made before entering Q01) may allow one or more party members to enter without immediately being spotted. The goblins have disadvantage on Perception checks against unlit targets beyond 30 feet.
+A DC 14 Dexterity (Stealth) check made before entering Q01 lets one or more party members enter without alerting the goblins. The goblins have disadvantage on Perception checks against unlit targets beyond 30 feet.
 
 ### Zhentarim Warehouse Event
 
