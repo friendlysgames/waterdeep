@@ -6,7 +6,7 @@
 >
 > This Social Event occurs when the party arrives at the Yawning Portal to meet their contact. In this Event:
 >
-> - Threestrings (Doom Raiders spy, Harper contact) introduces the party's situation and awaits Volo's arrival
+> - Threestrings (Harper agent embedded at the Yawning Portal) introduces the party's situation and awaits Volo's arrival
 > - A bar brawl erupts between Yagra Stonefist (Doom Raiders) and Krentz's Xanathar Guild crew
 > - Brandoch descends into Undermountain; the crowd performs the Going Down Song
 > - A troll hauls itself out of the well with six stirges attached; Durnan handles the troll while the party handles the stirges
