@@ -38,7 +38,7 @@
 
 **Dock Ward:** Manshoon's Splinter thugs under arrest (not a combat encounter). Optional: Splinter thugs approach to intimidate if the party stalls (proactive failsafe).
 
-**Zhentarim Warehouse:** Four kenku (CR 1/4). One kenku may be a lookout in Z09 (loft). Alert state varies by entry method.
+**Zhentarim Warehouse:** Four kenku (CR 1/4). One kenku may be a lookout on the Z04 balcony in alert state. Alert state varies by entry method.
 
 **Sewer Approach:** One gazer (CR 1/2) — guarding the junction en route to Q01.
 
