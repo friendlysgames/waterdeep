@@ -8,7 +8,7 @@ The room is otherwise empty. The Zhentarim cell did not have time to move the co
 
 #### Finding the Room
 
-The secret door is set into the south wall of Z01 or the connecting passage, indistinguishable from surrounding planking without examination. DC 15 Wisdom (Perception) to locate. Opening the door triggers a faint bell in Z05 — a spring mechanism wired to alert the offices when the stash is accessed.
+The secret door is set into the south wall of Z01 or the connecting passage, indistinguishable from surrounding planking without examination. DC 15 Wisdom (Perception) to locate. Opening the door triggers a bell in Z05 — a spring mechanism wired to alert the offices when the stash is accessed.
 
 **Treasure:**
 - Four paintings depicting Luskan, Neverwinter, Silverymoon, and Baldur's Gate — 75 gp each

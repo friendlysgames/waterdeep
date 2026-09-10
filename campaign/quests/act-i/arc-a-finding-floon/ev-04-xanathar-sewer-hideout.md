@@ -82,9 +82,7 @@ The moment Nihiloor sees the party: it rises, sets the intellect devourer down (
 
 Nihiloor glides from Q07 through the hideout's western corridor to Q11. If the party pursues, Nihiloor is always ahead — it moves with purpose and knows the complex. Any creature that blocks its path encounters *dominate monster* (DC 15 Wisdom saving throw).
 
-At Q11, Nihiloor presses its 3-inch stone orb into the pillar's circular indentation. An opaque black doorway (8 feet tall, 4 feet wide) opens in the south wall. Nihiloor steps through into area X22 of Xanathar's lair. The portal closes behind it.
-
-The party cannot follow unless they somehow have the orb (impossible in normal play — Nihiloor carries it through). The portal closes 1 minute after the orb is removed from the indentation.
+At Q11, Nihiloor presses its 3-inch stone orb into the pillar's circular indentation. An opaque black doorway (8 feet tall, 4 feet wide) opens in the south wall. Nihiloor steps through into area X22 of Xanathar's lair. The party cannot follow unless they somehow have the orb (impossible in normal play — Nihiloor carries it through). The portal closes 1 minute after the orb is removed from the indentation.
 
 After Nihiloor escapes, Q11's pillar is inert. DC 14 Intelligence (Arcana) identifies the indentation as a key socket. DC 16 Intelligence (History) identifies the guildsign as Xanathar's mark. See the **Q11 — Escape Portal** room entry in the **Xanathar Sewer Hideout** journal for full mechanic details.
 

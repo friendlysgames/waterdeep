@@ -30,7 +30,7 @@ The party enters a crowded, loud taproom. Merchants, adventurers, off-duty Watch
 
 ### The Bar Brawl
 
-Within fifteen minutes of the party's arrival, Yagra Stonefist crosses the room. She has been nursing a drink while watching a table of five Xanathar Guild thugs, led by **Krentz** — a man with eye-shaped tattoos shaved into his scalp. Two nights ago, Krentz's crew killed a Doom Raiders operative in the Dock Ward. When one of Krentz's companions says something audible about snake men getting what they deserved, Yagra moves.
+Within fifteen minutes of the party's arrival, Yagra Stonefist crosses the room. She has been nursing a drink while watching a table of five Xanathar Guild thugs, led by **Krentz** — a man with eye-shaped tattoos on his shaved scalp. Two nights ago, Krentz's crew killed a Doom Raiders operative in the Dock Ward. When one of Krentz's companions says something audible about snake men getting what they deserved, Yagra moves.
 
 Before she throws the first punch: "You had no quarrel with us. Those weren't your turf. That was my friend." Krentz: "Your friend." Pause. "He's dead." First punch.
 

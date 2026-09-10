@@ -45,7 +45,7 @@ ev-04 — Xanathar Sewer Hideout ─────── Milestone: 1 point → Le
             Q09 Peabody cellar / Q08 escape tunnel (Arc B resource)
             Q10 empty sleeping quarters
             Volo's payment → Deed to Trollskull Manor
-            Attunements: Floon Rescued / Nihiloor Sighted / Deed to Trollskull Manor
+            Attunements: Floon Blagmaar Rescued / Nihiloor Sighted / Deed to Trollskull Manor
             See: Xanathar Sewer Hideout journal (Q01–Q11)
       │
       ▼
@@ -59,4 +59,4 @@ Arc B — Trollskull Alley
 
 **Milestone sequencing:** Both milestone events must be completed for the party to reach Level 2. A party that skips the warehouse and goes directly to the sewer via the bead trail earns Milestone 2 before Milestone 1; level-up still triggers when the second point is awarded (cumulative threshold = 2 regardless of order).
 
-**Krentz continuity:** If Krentz survived the brawl in ev-01 (party used a peaceful resolution or stayed out), he appears in Q05 of the sewer hideout recovering from the YP incident. His presence gives the kenku in Q05 advantage on initiative (he warns them in time). This is the only cross-event mechanical consequence in Arc A.
+**Krentz continuity:** If Krentz survived ev-01, he appears in Q05 of the sewer hideout recovering from the Yawning Portal incident. His presence gives Zemk advantage on initiative (he warns him in time). This is the only cross-event mechanical consequence in Arc A.

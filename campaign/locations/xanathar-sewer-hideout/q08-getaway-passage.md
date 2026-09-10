@@ -1,6 +1,6 @@
 # Q08 — Getaway Passage
 
-A storage room east of the Q07 boss chamber, appearing unremarkable: stone walls, low ceiling, empty shelving along the south wall. The floor is stone like the rest of the complex.
+A storage room adjacent to the Q07 boss chamber, appearing unremarkable: stone walls, low ceiling, empty shelving along the south wall. The floor is stone like the rest of the complex.
 
 One of the flagstones near the north wall is loose. A character who examines the floor or steps on this flagstone notices: DC 10 Wisdom (Perception) to spot the uneven seam around it; no check required if a character specifically lifts or tests each stone.
 

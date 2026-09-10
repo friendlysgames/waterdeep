@@ -65,4 +65,4 @@ Grum'shar and Nihiloor are present with Floon when the party arrives (unless the
 
 ### Q11 Status
 
-Inert after Nihiloor escapes (orb gone). Active for 1 minute after the orb is placed in the indentation. In normal play, Nihiloor always reaches Q11 before the party does. The room entry covers both states.
+Inert after Nihiloor escapes (orb gone). Active for 1 minute after the orb is removed from the indentation. In normal play, Nihiloor always reaches Q11 before the party does. The room entry covers both states.

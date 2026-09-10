@@ -26,4 +26,4 @@ The gray ooze in Q06 escaped from the cesspit and killed two goblins sent to dis
 
 ### Xanathar Sewer Hideout Event
 
-During the **Xanathar Sewer Hideout** Event, Krentz's presence here is conditional on whether he survived the **Yawning Portal** Event. If the party used a peaceful resolution or stayed out of the brawl in ev-01, Krentz is here. If Krentz was incapacitated in ev-01, he is absent.
+During the **Xanathar Sewer Hideout** Event, Krentz's presence here is conditional on whether he survived the **Yawning Portal** Event. If Krentz survived ev-01, he is here.
