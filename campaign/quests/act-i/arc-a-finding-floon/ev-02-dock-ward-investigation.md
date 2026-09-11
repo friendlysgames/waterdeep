@@ -42,17 +42,11 @@ He describes five men in black leather armor grabbing Floon and a well-dressed c
 
 A dim Dock Ward dive, operated by **Manshoon's Splinter Zhentarim** as an informal ward headquarters. Regulars here remember Volo and Floon from two nights ago. After Volo left, Floon stayed and met Renaer Neverember. They drank, played Three-Dragon Ante, and left together around midnight. Five men followed them out. "Those men haven't come back," says one regular. "Flying snake tattoos."
 
-This path also names Candle Lane (see Revelation #2, Path A below) — the Skewered Dragon simultaneously delivers both revelations for parties who come here first. The current regulars are Splinter men on home ground; the party is in unfriendly territory if they push too hard without social skill.
+The current regulars are Splinter men on home ground; the party is in unfriendly territory if they push too hard without social skill. They know who grabbed Floon and Renaer. They don't know where Candle Lane is — or they won't say.
 
 ### Revelation #2 — Warehouse Location on Candle Lane
 
 Three formal independent paths converge on the same answer: a warehouse at the end of Candle Lane.
-
-> **[GM]**
->
-> #### Skewered Dragon as Bonus Path
->
-> Parties who visit the Skewered Dragon (Revelation #1, Path C) will also learn the Candle Lane address from the regulars in the same conversation. This is the fastest route through both revelations. It is a bonus, not a fourth formal path. The three paths below satisfy the Three Clue Rule.
 
 #### Path A — Neighborhood Canvass
 
