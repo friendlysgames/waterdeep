@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-> **Start every session by reading the most recent `session N handoff.md` in the root directory (highest N — currently `session 19 handoff.md`).** It records completed work, standing decisions, outstanding tasks, and exactly where to pick up next. Do not re-derive or re-ask anything it already settles.
+> **Start every session by reading the most recent `session N handoff.md` in the root directory (highest N — currently `session 20 handoff.md`).** It records completed work, standing decisions, outstanding tasks, and exactly where to pick up next. Do not re-derive or re-ask anything it already settles.
 
 ---
 
