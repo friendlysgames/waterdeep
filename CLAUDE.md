@@ -80,7 +80,7 @@ Ember format reference files (for document structure, not adventure content):
 
 | File / Folder | Contents |
 |---|---|
-| `campaign/structure/arc-a-finding-floon.md` | Arc A structure document — Finding Floon; four scenes with Three Clue paths, Nihiloor foreshadowing, Trollskull Manor reward; structuring draft |
+| `campaign/structure/arc-a-finding-floon.md` | Arc A structure document — **RETIRED**; superseded by the modular files in `campaign/quests/act-i/arc-a-finding-floon/`. Read only for historical reference; never use for content decisions. |
 | `campaign/structure/arc-b-trollskull-alley.md` | Arc B structure document — Trollskull Alley; seven scenes (arrival, guild gauntlet, neighbors, factions, grand opening, Twin Parades, Field of Triumph); Lif appeasement mechanics, Ammalia intro, three information threads; structuring draft |
 | `campaign/structure/arc-c-fireball.md` | Arc C structure document — Fireball; six scenes (The Fireball, The Witnesses, The Nimblewright Hunt, The Sea Maidens Faire, The Cassalanter Dinner, Backtracking Dalakhar); three-phase investigation, Speak with Dead, Nim's CSL and sparrow trap, Valetta's reward, nine owner elimination montage, partial/complete ledger, BD sidebar (inverted renown), Cassalanter dinner as dedicated scene with four outcome tracks, optional Kalain branch (vault clues, death mark, four faction responses); 2 milestones (900 XP toward level 4); structuring draft |
 | `campaign/structure/arc-d-gralhund-villa.md` | Arc D structure document — Gralhund Villa; six scenes (What the Factions Say, Observing the Villa, Daytime Infiltration, The Zhentarim Raid, The Rooftop Chase, Aftermath); quinpartite confrontation (Gralhunds + Manshoon's Zhentarim + Xanathar + conditional BD + PCs); day/night state mechanic; 10-beat raid timeline; 2024 chase mechanics; Istrid Horn scene; 2 milestones (900 XP, level 4 on Stone recovery); structuring draft |
@@ -103,8 +103,11 @@ Ember format reference files (for document structure, not adventure content):
 | `sources/Act_III_Arc_D.md` | Alexandrian Remix source for Arc D (Gralhund Villa) — primary reference for villa area descriptions, day/night state, and the quinpartite confrontation. |
 | `sources/Act_III_Arc_E.md` | Alexandrian Remix source for Arc E (Faction Outposts) — 903 lines; primary source for all faction outpost heists. Read before drafting Arc E. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
-| `campaign/quests/` | New home for all arc content in Ember-style modular format (Quest Journal per arc: overview + event pages + design notes). Being built arc-by-arc to replace `campaign/structure/arc-*.md`. |
-| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. |
+| `campaign/quests/act-i/arc-a-finding-floon/` | Arc A Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-04`, `flowchart.md`, `design-notes.md`. Fully QA'd (source-researcher + consistency-checker) and prose-polished. |
+| `campaign/quests/` | Home for all arc content in Ember-style modular format (Quest Journal per arc: overview + event pages + design notes). Arc A is complete; remaining arcs pending conversion from `campaign/structure/arc-*.md`. |
+| `campaign/locations/zhentarim-warehouse/` | Zhentarim Warehouse Location Journal — **complete**: `area-overview.md` + `z01` through `z05`. Fully prose-polished. |
+| `campaign/locations/xanathar-sewer-hideout/` | Xanathar Sewer Hideout Location Journal — **complete**: `area-overview.md` + `q01` through `q11`. Fully prose-polished. |
+| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. Two locations complete (see above); remaining locations pending. |
 
 ---
 
@@ -208,6 +211,10 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Arc Opener format:** The Arc Opener is backstory — it describes how the arc's situation came to exist, not what happens during the arc. It does not narrate faction consultations, chases, or confrontations that occur in the scenes. See the Arc D Opener as the corrected example.
 
 **Order-agnostic Stone scenarios:** Stone of Golorr upgrade sections must frame upgrades around how many Eyes have been restored (first/second/third), never around which specific arc preceded. When two Eyes are restored, split into two sub-cases based on which prior lair arc ran first, each pointing to the correct remaining impression. Applies to every lair arc (F, G, H) — do not condition upgrade text on a fixed arc ordering.
+
+**Arc A timeline:** The kidnapping of Floon happened "last night" (Alexandrian timeline), not "two nights ago" (WDH RAW). Use "last night" consistently across all Arc A content.
+
+**Threestrings faction label:** Mattrim Mereg ("Threestrings") is a **Harper agent** embedded at the Yawning Portal. He is never "Doom Raiders" or "independent." This error has appeared twice across sessions — always verify NPC faction labels against Appendix A, never against arc summaries.
 
 ---
 
