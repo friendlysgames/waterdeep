@@ -73,7 +73,7 @@ Enclosed are tickets for the entire party to *The Fall of Tiamat*, an opera sung
 The invitation arrives by *paper bird*: a note folded into the shape of a sparrow that taps on a window of Trollskull Manor and waits. When unfolded, it reads in a flowing, unhurried hand:
 
 <div class="fvtt narrative">
-    <p>"Renaer tells us you are a good bet. He bought you tickets to the opera tonight at the Lightsinger Theater in the Castle Ward. If you are interested, meet Mirt at intermission. Private Box C. Formal attire is required for admittance."</p>
+    <p>"Renaer tells us you are a good bet. He bought you tickets to the opera tonight at the Lightsinger Theater in the Sea Ward. If you are interested, meet Mirt at intermission. Private Box C. Formal attire is required for admittance."</p>
 </div>
 
 Enclosed are tickets for the entire party to *The Fall of Tiamat*, an opera sung in Giant describing the Dragon Queen's defeat at the Well of Dragons. The language requirement ensures that most of the audience cannot understand the libretto — the Harpers appreciate the metaphor.
@@ -82,7 +82,7 @@ Formal wear can be hired from a tailor on Delzorin Street if the party is not pr
 
 ### Arriving at Lightsinger Theater
 
-The theater stands on a well-kept street in the Castle Ward, its exterior lit by *continual flame* lamps that paint the stonework amber. A pair of doormen in livery check tickets at the entrance with the unhurried precision of people who have turned away difficult guests before.
+The theater stands on a well-kept street in the Sea Ward, its exterior lit by *continual flame* lamps that paint the stonework amber. A pair of doormen in livery check tickets at the entrance with the unhurried precision of people who have turned away difficult guests before.
 
 <div class="fvtt narrative">
     <p>The interior of the Lightsinger is everything the exterior promises. Tiers of dark lacquered galleries rise from the pit to the ceiling, hung with velvet curtains that muffle sound to a soft, concentrated hush. Driftglobes drift in slow rotation above the pit orchestra, casting a warm, unsteady light across the audience below — finely dressed merchants, minor nobles, and a scattering of people who are clearly very good at looking as though they belong here.</p>

@@ -2042,7 +2042,7 @@ What Jarlaxle does not have: access to the vault itself, a way to open the Stone
 **Hook**
 A small note, no return address, delivered with two theater tickets: *"Sea Maidens Faire Debut Parade, Dock Ward. Afterward, speak to the booking manager at Seven Masks."* At the theater, Kreb Sorrush — compact, professional, slightly too still for a human — receives the party with a warm handshake and a business proposition.
 
-"A small favor. There's a noble hosting a reception tonight in the Castle Ward — Lady Mirilin Ashford, house on Sorn Street. She carries a silk handkerchief embroidered with a silver anchor. I'd like you to obtain it and deliver it to a young woman named Vessin, who lives near the waterfront — corner of Net Street and Dock Street, in a converted crate with a yellow door." He slides a folded street map across. "The reception is open to presentable guests. I'd prefer you not start anything."
+"A small favor. There's a noble hosting a reception tonight in the Castle Ward — Lady Mirilin Ashford, house on Sorn Street. She carries a silk handkerchief embroidered with a silver anchor. I'd like you to obtain it and deliver it to a young tiefling woman named Vessin, who lives near the waterfront — corner of Net Street and Dock Street, in a converted crate with a yellow door." He slides a folded street map across. "The reception is open to presentable guests. I'd prefer you not start anything."
 
 **Background** *(DM only)*
 The handkerchief contains a coded message hidden in the anchor embroidery — eleven specific knots that only Bregan D'aerthe field operatives can read. **Vessin** is a tiefling girl of fourteen, a D'aerthe informant cut off from contact for six weeks because **Lady Mirilin Ashford** has been intercepting her deliveries. Not because Ashford knows what they are — she collects silk handkerchiefs obsessively and Vessin's contact uses the same embroidery house. Krebbyg doesn't explain this. He knows only that Jarlaxle wants the handkerchief delivered.
@@ -2064,7 +2064,7 @@ Characters who examine the handkerchief carefully and succeed on a **DC 13 Intel
 Decoding the message requires a **DC 17 Intelligence (Investigation)** check with time to work through the pattern, or delivering it to Vessin intact and asking her directly. Vessin will not explain what it says. She will confirm it matters.
 
 **Act 3 — Vessin**
-The corner of Net Street and Dock Street: a converted harbor crate on a raised frame, door painted yellow. Vessin opens before the party knocks — she heard them coming. Small, dark-haired, sixteen if her build is anything to go by. She takes the handkerchief, counts the knots with her thumb, and relaxes in a way she hasn't been relaxed for the past six weeks.
+The corner of Net Street and Dock Street: a converted harbor crate on a raised frame, door painted yellow. Vessin opens before the party knocks — she heard them coming. Small, dark-haired, tiefling, sixteen if her build is anything to go by. She takes the handkerchief, counts the knots with her thumb, and relaxes in a way she hasn't been relaxed for the past six weeks.
 
 She says: "Tell Kreb: still watching. Nothing changed." Then: "Thank you. He wouldn't have sent people worth sending."
 

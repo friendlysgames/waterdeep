@@ -208,7 +208,7 @@ Two hard deadlines shape the campaign's second half. They fall in different mont
 
 **Flamerule 1 — Founders' Day.** The city-wide holiday commemorating Waterdeep's founding as a unified city. The Cassalanter infernal contract's fulfillment window opens on this date. The twins' ninth birthday — the actual sacrifice deadline — falls one tenday later, on Flamerule 11. PCs who have not disrupted the contract before Flamerule 11 arrive to find the ceremony already completed.
 
-**Tavern impact (Founders' Day):** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as the Twin Parades draw crowds; taverns along the parade route — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
+**Tavern impact (Founders' Day):** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as civic ceremonies and street celebrations draw crowds; taverns throughout the city — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
 
 ---
 

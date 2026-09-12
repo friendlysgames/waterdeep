@@ -135,11 +135,11 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
-| Lords' Alliance | The Long Watch | Ten-day guard duty; carrion crawler on day nine |
+| Lords' Alliance | Protecting the Dungsweepers | Ten-day guard duty; carrion crawler on day nine |
 | Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
 | Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
 | Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
-| Bregan D'aerthe | The Handkerchief and the Girl | Obtain a noble's silk handkerchief and deliver it to a tiefling girl named Vessin |
+| Bregan D'aerthe | The Handkerchief Job | Obtain a noble's silk handkerchief and deliver it to a tiefling girl named Vessin |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
 
 Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon that will recalibrate on a second hearing. **Thread: Undermountain Is Active.** See also Scene 6.
@@ -233,7 +233,7 @@ The crowd includes a notable number of people in plain work clothes paying extre
 
 **Content:**
 
-*Festival Atmosphere.* Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation. The party is participating in Waterdeep civic life now, not observing it — they have neighbors in this crowd, faction contacts, and a tavern that people here have visited. Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar) for placement in the campaign timeline. The Twin Parades fall on Tarsahk 20. Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
+*Festival Atmosphere.* Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation. The party is participating in Waterdeep civic life now, not observing it — they have neighbors in this crowd, faction contacts, and a tavern that people here have visited. Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar) for placement in the campaign timeline. The Twin Parades fall on Ches 21 — the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The Sea Maidens Faire fleet arrived in harbor this morning; the party may notice the carnival flotilla from the parade route's eastern end. Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
 
 *The Nimblewright Sighting.* One of the processions includes a mechanical figure among its performers — moving through a theatrical display with fluid, humanoid precision. **DC 14 Wisdom (Perception)** to notice that the figure's movement is genuinely mechanical rather than theatrical; **DC 16 Intelligence (Arcana)** to identify it as a construct of advanced manufacture — a nimblewright, or something very like one. The figure is visible for approximately two minutes before the procession moves on. No immediate consequence. Pure Arc C foreshadowing. If characters later describe what they saw, Renaer's account of a mechanical figure near the fireball site in Arc C gains immediate corroboration.
 
@@ -264,7 +264,7 @@ The crowd includes a notable number of people in plain work clothes paying extre
 
 | NPC | Where Introduced | Why This Loss Works |
 |---|---|---|
-| Fala Lefaliir | Scene 3 | The loss of their shelter affects Ziraj's safety and cuts a Doom Raiders thread |
+| Fala Lefaliir | Scene 3 | The loss of their shelter affects Ziraj's safety and cuts a Doom Raiders thread. **Note:** Selecting Fala removes them from Arc C Scene 2's witness roster — adjust that scene accordingly. |
 | Tally Fellbranch | Scene 3 | Connected to Renaer and Melannor; his death damages two faction relationships |
 | Floon Blagmaar | Scenes 3 and 5 | The party rescued him in Arc A; losing him again hits differently the second time |
 | Lif | Scene 1 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |
@@ -293,7 +293,7 @@ All nine decisions settled from source evidence:
 
 7. **Filthy Meg via faction referral.** Harpers (Remallia Haventree) or Doom Raiders (Yagra) name her as a Dock Ward source. Direct Dock Ward exploration works but opens at DC 16.
 
-8. **Twin Parades calendar date.** The Twin Parades fall on Ches 21 (Selûne Sashelas) — confirmed from Alexandrian Addendum PDF 24. Placement: after the Grand Opening (Scene 6), before the fireball on Ches 22nd.
+8. **Twin Parades calendar date.** The Twin Parades fall on Ches 21 (Fleetswake) — confirmed from Alexandrian Addendum PDF 24. Placement: after the Grand Opening (Scene 6), before the fireball on Ches 22nd.
 
 9. **Sandbox scene ordering.** Scenes 1–3 are sequential (the party must arrive, deal with guilds, and meet neighbors before factions can recruit them). Scene 4 overlaps the renovation period (faction invitations arrive while the renovation runs; so does the Field of Triumph invitation). Scene 5 (Field of Triumph) occurs during the renovation period, before opening. Scene 6 (Grand Opening) is the renovation's culmination. Scene 7 (Twin Parades) is a scheduled city event following the opening.
 
@@ -340,7 +340,7 @@ All nine decisions settled from source evidence:
 
 ## Emmek Frewn as Sustained Antagonist
 
-***The Arc's Only Persistent Conflict Thread.*** Every other conflict in Arc B is either friendly (factions) or reactive (guild inspections, neighbor eccentricities). Emmek Frewn is the arc's only genuine antagonist — a man actively working to destroy what the party is building. His escalation sequence (Appendix A, sourced from WDH Chapter 2) runs: guild interference → rat infestation → rumor campaign (−10 penalty on three Revenue Rolls) → Shard Shunner escalation → Watch complaint letter. He starts in Scene 2 and is still active in Scene 5.
+***The Arc's Only Persistent Conflict Thread.*** Every other conflict in Arc B is either friendly (factions) or reactive (guild inspections, neighbor eccentricities). Emmek Frewn is the arc's only genuine antagonist — a man actively working to destroy what the party is building. His escalation sequence (Appendix A, sourced from WDH Chapter 2) runs: guild interference → rat infestation → rumor campaign (−10 penalty on three Revenue Rolls) → Shard Shunner escalation → Watch complaint letter. He starts in Scene 2 and remains active through the end of the arc — the escalation table runs into Scene 7 and beyond.
 
 The party can resolve him through four paths: *confront* (exposing his loan from Istrid Horn creates pressure — Istrid doesn't want the attention, and her Doom Raiders affiliation complicates public enforcement); *outcompete* (become successful enough that he can no longer afford the Shard Shunners); *cover his debt* (Istrid is owed 150 gp; covering it removes his leverage and creates an awkward obligation); *Watch report* (the Shard Shunners are halfling wererats — a Watch report implicates him in something far more serious than a business dispute). No path should feel costless. Emmek is a Neverwinter refugee whose family was destroyed by volcanic eruption, bought out by his sisters, and staking everything on a pub he cannot afford to lose. He is not a monster. He is desperate. The party should feel the weight of that when they win.
 
