@@ -441,7 +441,7 @@ Status: All tiers profiled (16 sections complete). 12 cross-reference profiles a
 
 **Morale.** Before the Act III possession, Meloon fights with reckless generosity — placing himself between allies and the worst of it, trusting Azuredge's return-throw completely. After the intellect devourer takes hold, he fights competently but steers outcomes to serve Xanathar's interests; each dawn he must win a contest of wills with Azuredge to wield it, and calling it back after a throw may still fail. If killed and raised, the real Meloon returns, and the difference is immediately obvious to anyone who knew him before.
 
-**Relationships.** Meloon is a former member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (whose growing unease through Act II, without knowing why, becomes alarm when the possession takes hold in Act III), a Yawning Portal regular whose surface thoughts Bonnie reads as comprehensibly normal through Acts I and II, and, from Act III onward, a puppet of Nihiloor's intellect devourer serving Xanathar's interests.
+**Relationships.** Meloon is an active member of Force Grey (reporting to Vajra Safahr, whose life he saved more than a decade ago alongside Renaer), the closest friend of Renaer Neverember (whose growing unease through Act II, without knowing why, becomes alarm when the possession takes hold in Act III), a Yawning Portal regular whose surface thoughts Bonnie reads as comprehensibly normal through Acts I and II, and, from Act III onward, a puppet of Nihiloor's intellect devourer serving Xanathar's interests.
 
 ---
 

@@ -70,7 +70,15 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 
 *Other Guilds.* Brief beats: Justyn Rassk (Guild of Butchers) delivers meat, demands a 3 gp gratuity above guild fees, and implies unpleasant things about future deliveries if he doesn't get it. This is a bluff — he has no capacity to follow through — but reading it requires a DC 13 Wisdom (Insight) check. Kraddoc appears at the Vintners' Guild inspection, chastises the party's current beverage selection, and suggests specific guild products "the guild is emphasizing this tenday." Buying two of them reduces the first month's supply rate by 5 gp. He will never acknowledge this as a social visit. Cross-ref **Appendix A** (Broxley Fairkettle profile, Hammond Kraddoc profile, Justyn Rassk note).
 
-*Emmek Frewn's First Move.* During or immediately after the guild visits, Frewn begins his interference campaign. He has spoken to the Carpenters' Guild foreman and the Cellarers' inspector about the party's "property destruction history" and "possible Watch complications" arising from the warehouse incident in Arc A. These conversations don't block any permit but impose a −2 penalty on guild inspection DCs for the first week. More visibly: Shard Shunner wererats in halfling form are casing Trollskull Manor as potential staff applicants, looking for entry points. **Cross-ref Appendix A** (Emmek Frewn profile, Shard Shunners escalation table) for the full sabotage sequence.
+*Emmek Frewn's First Move.* During or immediately after the guild visits, Frewn begins his interference campaign. He has spoken to the Carpenters' Guild foreman and the Cellarers' inspector about the party's "property destruction history" and "possible Watch complications" arising from the warehouse incident in Arc A. These conversations don't block any permit but impose a −2 penalty on guild inspection DCs for the first week. More visibly: Shard Shunner wererats in halfling form are casing Trollskull Manor as potential staff applicants, looking for entry points. **Cross-ref Appendix A** (Emmek Frewn profile) for his full character detail. The sabotage escalation runs as follows:
+
+| Stage | Trigger | Action |
+|---|---|---|
+| 1 (Scene 2) | Renovation begins | Guild interference: −2 penalty on permit inspection DCs for the first week |
+| 2 (Scene 6) | Staff hiring opens | Shard Shunner wererats re-apply under false names; if hired, they cause minor ongoing sabotage (spilled casks, missing deliveries) |
+| 3 (Scene 6) | Grand Opening announced | Rumor campaign: Emmek tells guild contacts and neighbors the party has Watch complications and a violent reputation |
+| 4 (Scene 7) | Tavern gains Fame 2+ | Property damage attempt: Kelso Fiddlewick targets the nearest rival building — which turns out to be the wrong one (a cask cracks at Frewn's Brews instead). Emmek is furious. Kelso sends a note: "Apologies for any confusion." |
+| 5 (any) | Party confronts Emmek with evidence | Emmek folds immediately if shown the loan document from Istrid Horn or a written account of the Shard Shunners' involvement; he cannot afford Watch scrutiny |
 
 **Tone:** Bureaucratic comedy with teeth. The humor is in the procedural absurdity; the substance is in the relationships being built beneath it. Every guild interaction is a potential alliance or a future complication.
 
@@ -89,7 +97,7 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 - **Fala Lefaliir (Corellon's Crown):** Brings a bundle of herbal remedies — hangover cures, sleep aids, mild pain relief — "practical gifts for a new business." Mentions offhandedly that a friend visits the second floor and might knock if he sees a light on late. Does not name Ziraj the Hunter. **Thread: Two Zhentarims.** Ziraj is a Doom Raiders operative; Fala's friendship with him establishes that the Doom Raiders operate through personal connection, not organizational hierarchy.
 - **Vincent Trench (Tiger's Eye):** Knocks formally, presents his rate card, and offers his services for investigations. "Most new businesses in the North Ward find they have enemies they didn't know about. I'm useful for that." He is a rakshasa named Valantajar who has lived in Waterdeep long enough to genuinely like it. His interest in the party is self-serving but not immediately hostile. Cross-ref **Appendix A** (Vincent Trench / Valantajar profile).
 - **Rishaal the Page-Turner (Book Wyrm's Treasure):** Arrives with a slim leather-bound history of the North Ward and hands it over: "There's a chapter on the building. Thought you'd want to know what you own." Has questions about the cellar, delivered via a footnote on a subsequent visit. Increasingly suspicious of Vincent Trench and will share that suspicion if the party shows interest. Cross-ref **Appendix A** (Rishaal profile).
-- **Ulkoria Stonemarrow (Watchful Order):** Appears without knocking, inspects the courtyard oak tree (circling it, laying one hand on the bark, saying nothing), examines the cellar door, and leaves a pre-filled invoice for two glyphs of warding: 240 gp for both, take it or leave it. When departing: "The building has had bad luck with owners. Don't contribute to the pattern." She is a Masked Lord of Waterdeep — the party will not learn this in this arc. Her inspection is protective. Cross-ref **Appendix A** (Ulkoria Stonemarrow profile).
+- **Ulkoria Stonemarrow (Watchful Order):** Appears without knocking, inspects the courtyard oak tree (circling it, laying one hand on the bark, saying nothing), examines the cellar door, and leaves a pre-filled invoice for two glyphs of warding: 600 gp for both (300 gp each), take it or leave it. When departing: "The building has had bad luck with owners. Don't contribute to the pattern." She is a Masked Lord of Waterdeep — the party will not learn this in this arc. Her inspection is protective. Cross-ref **Appendix A** (Ulkoria Stonemarrow profile).
 - **Emmek Frewn (Frewn's Brews):** Arrives during renovation with a bottle of cheap wine. Competitive politeness that curdles over ten minutes. He talks about market share, foot traffic, the sort of clientele the North Ward prefers. His sabotage campaign (Scene 2) is already running; the party may not have connected it to him yet. The Shard Shunners are visible in the alley behind him for characters who succeed on a DC 13 Wisdom (Perception) check. Cross-ref **Appendix A** (Emmek Frewn profile).
 
 *Renaer and Floon Return.* Both recur as visitors during the renovation period. Renaer brings wineglasses and the name of his silversmith, offers his Sea Ward townhouse as a workspace for anything sensitive, and means it. Floon appears twice without invitation, each time nursing a hangover, each time leaving a small tip. He has found a dice game in the Trades Ward. It is not going well.
@@ -127,11 +135,11 @@ Lif's appeasement is behavioral, not a single check: if the party renovates with
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
-| Lords' Alliance | The Dungsweepers' Escort | Ten-day guard duty; carrion crawler on day nine |
-| Emerald Enclave | Scarecrow Patrol | Three animated scarecrows terrorizing Undercliff farms |
-| Order of the Gauntlet | Gang War Intervention | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
-| Doom Raiders | The Elf Sailor Murders | Identify who is killing half-elf sailors in the Dock Ward |
-| Bregan D'aerthe | The Silk Handkerchief | Acquire a noble's handkerchief and deliver it to a tiefling girl |
+| Lords' Alliance | The Long Watch | Ten-day guard duty; carrion crawler on day nine |
+| Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
+| Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
+| Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
+| Bregan D'aerthe | The Handkerchief and the Girl | Obtain a noble's silk handkerchief and deliver it to a tiefling girl named Vessin |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
 
 Force Grey Mission 1 (Consulting Hlam) delivers the arc's Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon that will recalibrate on a second hearing. **Thread: Undermountain Is Active.** See also Scene 6.
@@ -201,7 +209,7 @@ The crowd includes a notable number of people in plain work clothes paying extre
 - An appeased Lif handles the bar himself, which eliminates the immediate bartender position, though the party may hire living staff anyway. An unappeased or destroyed Lif means the position is open and competitive.
 - One of the Shard Shunner wererats may return for a second interview under a different name. DC 15 Passive Perception or DC 14 active Perception to recognize them from a Scene 2 encounter.
 
-*The Cassalanter Bank Hook (New Content).* When the party's renovation financing requires a formal loan or credit arrangement, their paperwork passes through the Cassalanter Counting House — a Sea Ward banking operation with accounts throughout the North Ward. Willifort Crowelle, the warm and precise clerk who handles their account, mentions that Lord and Lady Cassalanter take a personal interest in new businesses establishing themselves in the North Ward. Two days before the Grand Opening, a messenger delivers a cask of Athkatlan vintage wine with a card: *"From the house of Cassalanter. We look forward to patronizing your establishment."* No counting house clerk sends wine of this quality without instructions from above. **Thread: The Cassalanters Exist** (second path; the first path was Renaer's aside in Scene 3: "the Cassalanters are generous to causes they want to be seen supporting — keep that in mind").
+*The Cassalanter Bank Hook (New Content).* When the party's renovation financing requires a formal loan or credit arrangement, their paperwork passes through the Cassalanter Counting House — a Sea Ward banking operation with accounts throughout the North Ward. A warm and precise counting house clerk mentions that Lord and Lady Cassalanter take a personal interest in new businesses establishing themselves in the North Ward. Two days before the Grand Opening, a messenger delivers a cask of Athkatlan vintage wine with a card: *"From the house of Cassalanter. We look forward to patronizing your establishment."* No counting house clerk sends wine of this quality without instructions from above. **Thread: The Cassalanters Exist** (second path; the first path was Renaer's aside in Scene 3: "the Cassalanters are generous to causes they want to be seen supporting — keep that in mind").
 
 *Opening Night.* A full evening of tavern operation. Starting Fame rolled or set per **Appendix F, Part 2**. Key guests:
 - Neighbors from Scene 3 (Tally, Embric and Avi, Fala, Rishaal; Vincent Trench sends regrets via a note and a gift of expensive pipe tobacco). Ulkoria arrives late, drinks one ale, says "Acceptable," and leaves.
@@ -260,7 +268,7 @@ The crowd includes a notable number of people in plain work clothes paying extre
 | Tally Fellbranch | Scene 3 | Connected to Renaer and Melannor; his death damages two faction relationships |
 | Floon Blagmaar | Scenes 3 and 5 | The party rescued him in Arc A; losing him again hits differently the second time |
 | Lif | Scene 1 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |
-| A hired staff member | Scene 5 | Only if the party bonded with a specific candidate; requires DM observation of hiring scenes |
+| A hired staff member | Scene 6 | Only if the party bonded with a specific candidate; requires DM observation of hiring scenes |
 | A PC backstory NPC | Setup-dependent | Works if the backstory includes a Waterdeep connection the party activated during Arc B |
 
 **Transition to Arc C.** The fireball strikes Trollskull Alley. Abrupt by design — Arc C opens in the aftermath.
@@ -279,7 +287,7 @@ All nine decisions settled from source evidence:
 
 4. **Field of Triumph as Scene 5, placed before the Grand Opening.** The party fights in the city before they have a tavern to be proud of — the tournament win (or close loss) is part of what makes opening night feel earned. Meloon is met as himself here; Force Grey Mission 3 brings him back changed.
 
-5. **Cassalanter Bank Hook specifics.** Willifort Crowelle at the Cassalanter Counting House processes the party's loan paperwork. Wine gift and card two days before the Grand Opening. Three-path redundancy for "The Cassalanters Exist" thread: Renaer's aside (Scene 3), the credit note/wine (Scene 5), Ammalia's visit (Scene 5).
+5. **Cassalanter Bank Hook specifics.** An unnamed counting house clerk (not Willifort Crowelle — Willifort is the doppelganger butler at the villa, Cross-ref **Appendix A**) processes the party's loan paperwork. Wine gift and card two days before the Grand Opening. Three-path redundancy for "The Cassalanters Exist" thread: Renaer's aside (Scene 3), the credit note/wine (Scene 6), Ammalia's visit (Scene 6).
 
 6. **BD observer identification in Scene 3.** DC 14 Perception to recognize her from Arc A Scene 1; DC 17 Investigation for Bregan D'aerthe identification. Seeds the Scene 4 BD surveillance. Cross-ref **Appendix A** (Ryvarra profile, BD Section).
 

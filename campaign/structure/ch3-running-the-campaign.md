@@ -39,7 +39,7 @@ Total estimated sessions: 29–51. Roughly 7–13 months of weekly play.
 
 *One prose paragraph per Act:* Describes the Act's dramatic arc, tone, and what it asks of the players — not a plot summary, but a characterization of the experience. How Act I feels different from Act III. What changes between the investigation phase and the heist phase. What Arc J is emotionally, not mechanically.
 
-*Milestone XP table:* One milestone per arc transition, keyed to a specific narrative achievement rather than monster kills. The full table lives in the final document. Key pacing note: level 4 is granted mid-Arc C when the Gralhund connection is established, not at Arc D's completion — the investigation earns it; Gralhund Villa is the first test of it.
+*Milestone XP table:* One milestone per arc transition, keyed to a specific narrative achievement rather than monster kills. The full table lives in the final document. Key pacing note: level 4 is granted in Arc D when the party recovers the Stone of Golorr — the Arc C investigation builds toward that moment; Gralhund Villa is where it pays off.
 
 **Tone:** Structural and practical. This is the section a DM consults when deciding whether this campaign fits their group and schedule.
 

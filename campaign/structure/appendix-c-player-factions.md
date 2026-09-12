@@ -1,6 +1,6 @@
 # Appendix C — Player Factions
 
-Player characters in this campaign may join one or more of seven factions during Act I (Arc B). Six are the standard organizations of the Forgotten Realms — the Harpers, Lords' Alliance, Emerald Enclave, Order of the Gauntlet, Zhentarim (Doom Raiders), and Force Grey. The seventh is Bregan D'aerthe, Jarlaxle's drow mercenary company, available only to characters who follow the Arc C investigation to the Sea Maidens Faire and choose to work with Jarlaxle rather than against him.
+Player characters in this campaign may join one or more of seven factions during Act I (Arc B). Six are the standard organizations of the Forgotten Realms — the Harpers, Lords' Alliance, Emerald Enclave, Order of the Gauntlet, Zhentarim (Doom Raiders), and Force Grey. The seventh is Bregan D'aerthe, Jarlaxle's drow mercenary company. It has two entry paths: a primary path through the Arc C nimblewright investigation (reaching the Sea Maidens Faire and choosing to work with Jarlaxle rather than against him), and a secondary path available during Arc B for parties with drow characters (D'aerthe surveillance followed by J.B. Nevercott's visit). If neither path is followed, Jarlaxle remains a background player and this faction is unavailable during normal play.
 
 Each faction has its own personality, resources, and agenda in the Grand Game. The missions described in this appendix are the introductory tasks available during Act I and Act II (Arcs A–D). Full mission write-ups — including Acts III and IV faction hooks — appear in **Appendix D: Running the Player Factions**.
 
@@ -304,7 +304,7 @@ Full write-ups appear in Appendix D. Summary:
 
 *"Everything is a transaction. The only question is whether you know what you're paying."*
 
-**Entry condition:** Bregan D'aerthe is only available if the Arc C nimblewright investigation leads the PCs to the Sea Maidens Faire and they choose to negotiate with or work alongside Jarlaxle rather than treat him as a target. If the PCs never follow that thread through Arc C, Jarlaxle remains a background player and this faction is unavailable during normal play.
+**Entry condition:** Bregan D'aerthe has two entry paths. Primary: the Arc C nimblewright investigation leads the PCs to the Sea Maidens Faire and they choose to negotiate with or work alongside Jarlaxle rather than treat him as a target. Secondary (drow-heavy parties only): D'aerthe surveillance during Arc B escalates to J.B. Nevercott's visit at Trollskull Manor — see the First Meeting section below. If neither path is followed, Jarlaxle remains a background player and this faction is unavailable during normal play.
 
 Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, who has been outmaneuvering Underdark politics for generations. In Waterdeep, the operation runs out of the Sea Maidens Faire — a traveling carnival that is exactly what it appears to be, and also something else entirely. Jarlaxle does not brawl in the streets. He acquires information, sells it selectively, positions operatives in every major faction, and acts decisively only when the odds are already arranged in his favor.
 
