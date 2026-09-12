@@ -66,7 +66,7 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 *Mad Mage Seed.* The attuning character's connection to the Stone changes something. Illuun's dreaming — the aboleth consciousness compressed within the Stone — leaks slightly more than before. Not enough to communicate. Enough to feel: a cold patience beneath the city, not geographic but geological, present in the stone itself rather than in any particular chamber. When the attuning character asks about this, the Stone changes the subject.
 
-*Founders' Day Clock.* Attunement occurs approximately Ches 25th in the campaign calendar. Founders' Day — Flamerule 1st — is roughly sixty-five days away. The party does not know this deadline yet. The DM tracks it.
+*Founders' Day Clock.* Attunement occurs approximately Ches 25th in the campaign calendar. Founders' Day — Flamerule 1st — is roughly three months away (approximately 97 days). The party does not know this deadline yet. The DM tracks it.
 
 **Tone:** Intimate and strange. The Stone is a compressed aboleth consciousness performing contractual service — it cooperates because it is compelled to, not because it wants to help. Its communication is efficient and alien. The party should feel they are using something that was not designed with their comfort in mind, and that the thing is simultaneously more and less than they expected.
 

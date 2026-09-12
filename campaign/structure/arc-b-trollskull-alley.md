@@ -293,7 +293,7 @@ All nine decisions settled from source evidence:
 
 7. **Filthy Meg via faction referral.** Harpers (Remallia Haventree) or Doom Raiders (Yagra) name her as a Dock Ward source. Direct Dock Ward exploration works but opens at DC 16.
 
-8. **Twin Parades calendar date.** The Twin Parades fall on Tarsahk 20 — confirmed from cross-arc evidence (Arc G Founders' Day Clock; Arc H Tarsahk 20 departure deadline). Placement: after the Grand Opening (Scene 6), before the fireball.
+8. **Twin Parades calendar date.** The Twin Parades fall on Ches 21 (Selûne Sashelas) — confirmed from Alexandrian Addendum PDF 24. Placement: after the Grand Opening (Scene 6), before the fireball on Ches 22nd.
 
 9. **Sandbox scene ordering.** Scenes 1–3 are sequential (the party must arrive, deal with guilds, and meet neighbors before factions can recruit them). Scene 4 overlaps the renovation period (faction invitations arrive while the renovation runs; so does the Field of Triumph invitation). Scene 5 (Field of Triumph) occurs during the renovation period, before opening. Scene 6 (Grand Opening) is the renovation's culmination. Scene 7 (Twin Parades) is a scheduled city event following the opening.
 
