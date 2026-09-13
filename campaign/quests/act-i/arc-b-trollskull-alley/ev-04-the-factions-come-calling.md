@@ -96,10 +96,6 @@ Cross-ref **Appendix A, Section 3** (Filthy Meg profile).
 
 ### Concluding the Event
 
-#### Milestone — 1 Point
-
-Enrollment and renovation financing are both secured. The party has community and resources; the renovation gap is covered. Award 1 Milestone Point.
-
 #### Faction Joined: [Name]
 
 One attunement per enrolled faction, recorded individually. "Faction Joined: Harpers" and "Faction Joined: Doom Raiders" can coexist on different party members. Cross-referenced by Appendix C (mission unlock), Appendix D (mission dispatch), and Arc E (outpost access).
@@ -113,6 +109,10 @@ One attunement per enrolled faction, recorded individually. "Faction Joined: Har
 > #### Next Steps
 >
 > The renovation is still running. Faction missions are now available. The Field of Triumph invitation arrives from the Sea Maidens Faire. Proceed to **The Field of Triumph** Event.
+>
+> #### Milestone: The Factions Come Calling
+>
+> Completing this Event awards 1 Milestone Point. Enrollment and renovation financing are both secured.
 
 ## Overview
 

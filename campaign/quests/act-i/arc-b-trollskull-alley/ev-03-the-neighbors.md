@@ -6,8 +6,8 @@
 >
 > This Event covers the six neighbor first-contact moments during the renovation period. Each arrival is separate — days apart, not a single day of introductions. In this Event:
 >
-> - Six neighbors establish themselves as distinct people; Scene 3 is the party's primary social investment in the community they are entering
-> - Ryvarra (the drow observer from Arc A Scene 1) is spotted near the alley; BD surveillance is seeded
+> - Six neighbors establish themselves as distinct people; this is the party's primary social investment in the community they are entering
+> - Ryvarra (the drow observer from the **Yawning Portal** Event) is spotted near the alley; BD surveillance is seeded
 > - The Two Zhentarims thread receives its first surface path via Fala's friendship with Ziraj
 > - The DM's fireball victim observation task begins: which NPC is the party most engaged with?
 >
@@ -37,12 +37,12 @@ Both recur as visitors during the renovation period. Renaer brings wineglasses a
 
 ### The BD Observer
 
-The drow from Arc A Scene 1 — Jarlaxle's Yawning Portal field observer — is spotted near Trollskull Alley during the renovation period.
+The drow from the **Yawning Portal** Event — Jarlaxle's field observer — is spotted near Trollskull Alley during the renovation period.
 
-- **DC 14 Wisdom (Perception)** to recognize her from Arc A Scene 1
+- **DC 14 Wisdom (Perception)** to recognize her from the **Yawning Portal** Event
 - **DC 17 Intelligence (Investigation)** to identify her as Bregan D'aerthe
 
-She is professional and evasive if approached. Available only to parties with drow PCs or characters who made the Arc A Scene 1 Perception check. Her presence seeds the BD surveillance that escalates into ev-04's recruitment sequence.
+She is professional and evasive if approached. Available only to parties with drow PCs or characters who made the **Yawning Portal** Perception check. Her presence seeds the BD surveillance that escalates into **The Factions Come Calling** Event.
 
 Award **Ryvarra Identified** if both checks succeed. Cross-ref **Appendix A** (Ryvarra profile).
 

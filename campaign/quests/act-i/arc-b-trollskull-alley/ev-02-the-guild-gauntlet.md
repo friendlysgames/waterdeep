@@ -26,7 +26,7 @@ Each requires a site inspection and a fee. Cross-ref **Appendix F, Part 1** for 
 
 Frewn spent the day after the party arrived speaking to the Carpenters' Guild foreman and the Cellarers' inspector about the party's "property destruction history" and "possible Watch complications" from the warehouse incident in Arc A. These conversations do not block any permit but impose a **−2 penalty on all guild inspection DCs for the first week**. The party will not know the source unless they ask and succeed on a **DC 13 Charisma (Persuasion)** check with the relevant inspector.
 
-The Shard Shunner wererats in halfling form are visible in the alley behind Emmek during his Scene 3 visit, casing the manor as potential staff applicants and looking for entry points. **DC 13 Wisdom (Perception)** to notice them now.
+The Shard Shunner wererats in halfling form are visible in the alley behind Emmek during his **The Neighbors** Event visit, casing the manor as potential staff applicants and looking for entry points. **DC 13 Wisdom (Perception)** to notice them now.
 
 Cross-ref **Appendix A** (Emmek Frewn profile) for the full escalation sequence.
 

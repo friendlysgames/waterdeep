@@ -26,15 +26,15 @@
 
 ## Key Notes on Sequence
 
-**Scenes 1–3 are sequential.** The party cannot receive faction invitations before they have somewhere to receive them. The neighbors cannot introduce themselves before the party arrives. The guild inspectors cannot come before the deed is presented.
+**Welcome to Trollskull Alley, The Guild Gauntlet, and The Neighbors are sequential.** The party cannot receive faction invitations before they have somewhere to receive them. The neighbors cannot introduce themselves before the party arrives. The guild inspectors cannot come before the deed is presented.
 
-**Scene 4 overlaps the renovation period.** Faction invitations arrive while the renovation runs; the party may be meeting Tally on the same day a Harper paper bird lands on their window.
+**The Factions Come Calling overlaps the renovation period.** Faction invitations arrive while the renovation runs; the party may be meeting Tally on the same day a Harper paper bird lands on their window.
 
-**Scene 5 occurs during the renovation period, before opening.** The Field of Triumph invitation arrives after faction enrollment, while the party still has time before opening. Zord's timing is deliberate — he wants to see them before the tavern is successful.
+**The Field of Triumph occurs during the renovation period, before opening.** The invitation arrives after faction enrollment, while the party still has time before opening. Zord's timing is deliberate — he wants to see them before the tavern is successful.
 
-**Scene 6 is the renovation's endpoint.** All renovation-period content concludes here. Opening night is the milestone, not the end of the arc.
+**The Grand Opening is the renovation's endpoint.** All renovation-period content concludes here. Opening night is the milestone, not the end of the arc.
 
-**Scene 7 is calendar-fixed.** The Twin Parades fall on Ches 21 regardless of the party's pace. If the party opens the tavern late, there may be only days between the Grand Opening and the Parades.
+**The Twin Parades is calendar-fixed.** It falls on Ches 21 regardless of the party's pace. If the party opens the tavern late, there may be only days between the Grand Opening and the Parades.
 
 ## Branch Points
 

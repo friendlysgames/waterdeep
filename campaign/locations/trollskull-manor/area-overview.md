@@ -4,7 +4,7 @@ Trollskull Manor stands at the north end of Trollskull Alley, a four-story stone
 
 **State: Renovation (Scenes 1–5).** During the renovation period, the building is partially inhabited and entirely under reconstruction. Rooms are cleared room by room; furniture is removed or repaired; the guild inspectors have right of access. The building is structurally sound but cosmetically stripped. Lif is active in the taproom and upper floors.
 
-**State: Operational (Scene 6+).** After the Grand Opening, the building functions as a licensed tavern. Public floors are furnished and staffed. Private floors are occupied. Lif works the bar.
+**State: Operational (The Grand Opening onward).** After the Grand Opening, the building functions as a licensed tavern. Public floors are furnished and staffed. Private floors are occupied. Lif works the bar.
 
 ---
 
@@ -12,7 +12,7 @@ Trollskull Manor stands at the north end of Trollskull Alley, a four-story stone
 
 **Street facade.** Stone construction, four stories. Front door faces the alley; the lock was broken at some point and repaired as part of the renovation. Ground-floor windows are recessed; the building does not invite casual inspection from the street. Five chimney stacks are visible from the alley; three serve fireplaces, two serve the kitchen.
 
-**Courtyard.** A shared rear space accessible via the back gate; Steam and Steel's back gate opens onto the same courtyard. An oak tree grows in the northeast corner, large enough that its canopy touches the third-floor balcony. Ulkoria Stonemarrow inspects this tree during her Scene 3 visit without explaining why. The courtyard connects to the alley via a passage between the manor and the Bent Nail.
+**Courtyard.** A shared rear space accessible via the back gate; Steam and Steel's back gate opens onto the same courtyard. An oak tree grows in the northeast corner, large enough that its canopy touches the third-floor balcony. Ulkoria Stonemarrow inspects this tree during her **The Neighbors** Event visit without explaining why. The courtyard connects to the alley via a passage between the manor and the Bent Nail.
 
 **Three entry points:**
 - Front door (alley-facing; primary public entry)

@@ -9,7 +9,7 @@
 > - The party gets their first look at the alley and the manor's physical state
 > - Lif the poltergeist makes himself known within ten minutes and escalates through three stages based on party behavior
 > - The renovation economics are established: 1,250 gp total (1,000 gp renovation + 250 gp guild fees upfront)
-> - Lif's appeasement condition is behavioral — it runs through Scene 5 before resolving at the Grand Opening
+> - Lif's appeasement condition is behavioral — it runs through **The Field of Triumph** Event before resolving at the Grand Opening
 >
 > For the full manor layout, see the **Trollskull Manor** Location Journal.
 >
@@ -31,7 +31,7 @@ The party arrives with deed in hand. Trollskull Alley runs north off Delzorin St
 
 **Frewn's Brews** — at the far end of the alley, a pub under a fresh sign with new paint and modest foot traffic at this hour. The name is not Trollskull Manor.
 
-Neighbor shops are visible but not yet open for introductions. The alley establishes its character before Scene 3 brings individual personalities forward.
+Neighbor shops are visible but not yet open for introductions. The alley establishes its character before **The Neighbors** Event brings individual personalities forward.
 
 ### The Manor
 

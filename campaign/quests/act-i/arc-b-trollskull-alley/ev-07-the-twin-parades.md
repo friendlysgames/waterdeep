@@ -62,7 +62,7 @@ Before the Event ends, the DM must designate the fireball victim. The arc has pr
 
 | NPC | Introduced | Loss Logic |
 |---|---|---|
-| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from Arc C Scene 2's witness roster — adjust that scene accordingly. |
+| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Arc C — adjust that event accordingly. |
 | Tally Fellbranch | ev-03 | Connected to Renaer and Melannor; his death damages two faction relationships |
 | Floon Blagmaar | ev-03, ev-05 | The party rescued him in Arc A; losing him again hits differently the second time |
 | Lif | ev-01 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |

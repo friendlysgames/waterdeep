@@ -74,10 +74,6 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 ### Concluding the Event
 
-#### Milestone — 1 Point → Level 3
-
-Trollskull Manor is open. The arc's emotional climax. Award 1 Milestone Point; the party advances to Level 3 immediately.
-
 #### Lif Appeased
 
 If not already awarded: Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Record the attunement; Appendix F's full bartender mechanics apply from this point forward.
@@ -95,6 +91,10 @@ Record when the first of the three seeds is received. The full three-seed cluste
 > #### Next Steps
 >
 > The tavern is open. The arc's main work is done. The Twin Parades fall on Ches 21 — the calendar brings the arc to its coda. Proceed to **The Twin Parades** Event.
+>
+> #### Milestone: The Grand Opening
+>
+> Completing this Event awards 1 Milestone Point. This is likely to advance the party to Level 3 if they have completed Arc A and **The Factions Come Calling** Event.
 
 ## Overview
 
