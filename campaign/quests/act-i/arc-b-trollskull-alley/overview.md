@@ -34,7 +34,7 @@
 - **Vincent Trench / Valantajar** (independent) — rakshasa detective at the Tiger's Eye; self-serving interest in the party
 - **Rishaal the Page-Turner** (Watchful Order) — bookseller at Book Wyrm's Treasure; filed the poltergeist notice; suspicious of Vincent Trench
 - **Ulkoria Stonemarrow** (Watchful Order / Masked Lords) — mage neighbor; glyph offer; inspects the courtyard oak without explanation
-- **Ryvarra** (Bregan D'Aerthe) — drow field observer from Arc A Scene 1; spotted near the alley during renovation; BD surveillance escalation
+- **Ryvarra** (Bregan D'Aerthe) — drow field observer from the Yawning Portal (Arc A ev-01); spotted near the alley during renovation; BD surveillance escalation
 - **J.B. Nevercott** (Bregan D'Aerthe) — haberdasher cover identity; arrives after BD surveillance is acknowledged
 - **Renaer Neverember** (independent) — party ally from Arc A; offers no-interest loan up to 200 gp; townhouse available as workspace
 - **Floon Blagmaar** (independent) — appears twice during renovation; dice game in the Trades Ward is not going well
@@ -50,7 +50,7 @@
 
 **Lif (Stage 3):** If the party attacks or persistently disrespects the manor, Lif escalates to violence — furniture barriers, shattered glassware, retreat to the turret at half HP. Resolves through appeasement or combat; combat awards **Lif Destroyed** attunement and forfeits his +2 Revenue bonus permanently.
 
-**Shard Shunner Wererats:** Halfling lycanthropes in Emmek Frewn's employ. Spotted as staff applicants casing entry points in Scene 2. One may return for a second interview under a different name in Scene 6. Not a combat encounter unless the party initiates.
+**Shard Shunner Wererats:** Halfling lycanthropes in Emmek Frewn's employ. Spotted casing entry points in ev-02; one may return for a staff interview under a false name in ev-06. Not a combat encounter unless the party initiates.
 
 **Field of Triumph:** Nonlethal gladiatorial combat across four rounds. Final round opponent is Meloon Wardragon's Force Grey team. No permanent consequences; the combat rules the arena enforces make this safe by design.
 
