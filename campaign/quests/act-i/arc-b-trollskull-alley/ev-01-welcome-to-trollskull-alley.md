@@ -9,7 +9,7 @@
 > - The party gets their first look at the alley and the manor's physical state
 > - Lif the poltergeist makes himself known within ten minutes and escalates through three stages based on party behavior
 > - The renovation economics are established: 1,250 gp total (1,000 gp renovation + 250 gp guild fees upfront)
-> - Lif's appeasement condition is behavioral — it runs through **The Field of Triumph** Event before resolving at the Grand Opening
+> - Lif's appeasement condition is behavioral: it runs through **The Field of Triumph** Event before resolving at the Grand Opening
 >
 > For the full manor layout, see the **Trollskull Manor** Location Journal.
 >
@@ -37,7 +37,7 @@ Neighbor shops are visible but not yet open for introductions. The alley establi
 
 The main door is unlocked — the lock is broken. Inside: a taproom filled with broken tables, tarnished silverware, casks of wine that have turned to vinegar, and harmless rats. The building has four stories and a turret, multiple balconies, and five chimneys. Most rooms are empty except for cobwebs and dust. A **DC 11 Investigation** of the taproom turns up a chalk slate behind the bar, a stack of half-legible tab ledgers, and a brass bell still hanging above the serving hatch.
 
-The building is structurally sound. The renovation problem is cosmetic and economic, not structural.
+The building is structurally sound; the renovation problem is cosmetic and economic.
 
 ### Lif
 
@@ -53,7 +53,7 @@ If the party ignores this or responds with hostility, escalate to Stage 2.
 
 Words appear in the dust on floors and grimy windows: **CLOSING TIME. LAST CALL. GET OUT.**
 
-If the party engages respectfully — cleaning up, asking questions aloud, demonstrating intent to restore the tavern as a public house — Lif de-escalates toward acceptance. This is not immediate; the acceptance accumulates across Scenes 1–5 as the renovation proceeds.
+If the party engages respectfully — cleaning up, asking questions aloud, demonstrating intent to restore the tavern as a public house — Lif de-escalates toward acceptance. The acceptance accumulates gradually across Scenes 1–5 as the renovation proceeds.
 
 If the party continues with hostility or ignores the warnings, escalate to Stage 3.
 
@@ -88,7 +88,7 @@ Awarded at the Grand Opening (ev-06), not here. Lif's acceptance accumulates qui
 
 #### Lif Destroyed
 
-Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in Appendix F adjusts accordingly. Record this attunement now — ev-06 reads it.
+Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in Appendix F adjusts accordingly. Record this attunement now; ev-06 reads it.
 
 > **[GM]**
 >

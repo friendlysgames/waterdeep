@@ -20,7 +20,7 @@ An invitation arrives from the Sea Maidens Faire, a carnival flotilla docked in 
 
 ### Tournament Structure
 
-The Field of Triumph's standard gladiatorial format: a free-for-all qualification round, then a four-team bracket. Nonlethal rules throughout — participants yield, they do not die. The party competes as a team.
+The Field of Triumph's standard gladiatorial format: a free-for-all qualification round, then a four-team bracket. Nonlethal rules throughout; participants yield, they do not die. The party competes as a team.
 
 | Round | Prize |
 |---|---:|
@@ -30,7 +30,7 @@ The Field of Triumph's standard gladiatorial format: a free-for-all qualificatio
 | Final — win | 150 gp |
 | Final — honorable yield | 40 gp |
 
-A party of four that wins the tournament takes home roughly 500 gp between Zord's fee and the prize purses — enough to close most of the remaining renovation gap.
+A party of four that wins the tournament takes home roughly 500 gp between Zord's fee and the prize purses, enough to close most of the remaining renovation gap.
 
 ### Noble Commissions
 
@@ -48,21 +48,21 @@ A single noble may offer multiple commissions for the same round. Zord collects 
 
 ### Meloon's Team
 
-The final round puts the party across the sand from a team led by **Meloon Wardragon** — a Force Grey fighter who competes here because he enjoys it, alongside three colleagues who have clearly fought together before. He is direct in a fight: no showboating, no goading, just a man who is very good at this and wants to see if the party is too.
+The final round puts the party across the sand from a team led by **Meloon Wardragon** — a Force Grey fighter who competes here because he enjoys it, alongside three colleagues who have clearly fought together before. He is direct in a fight: no showboating, no goading, just a man who excels at this and wants to see if the party is too.
 
 Win or lose, Meloon is first across the sand when the yield is called — firm handshake, specific compliment about something he noticed in the fight, and a recommendation for the best tavern currently operating in the North Ward that comes with a grin when the party tells him they own one. He asks their names and uses them.
 
 Award **Meloon Met (Field of Triumph)** attunement.
 
-Force Grey Mission 3 brings him back in a very different condition. This attunement is load-bearing for that mission's impact. Cross-ref **Appendix A** (Meloon Wardragon profile), **Appendix D** (Force Grey Mission 3).
+Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref **Appendix A** (Meloon Wardragon profile), **Appendix D** (Force Grey Mission 3).
 
 ### Xanathar Guild Contact
 
-After the final bout, a Guild scout makes contact — professional and direct, offering paid work in the Dock Ward and handing over a token for the Old Xoblob Shop. Not a viable faction path.
+After the final bout, a Guild scout makes contact: professional and direct, offering paid work in the Dock Ward and handing over a token for the Old Xoblob Shop. Not a viable faction path.
 
 #### Party Branch — Keeps the Token
 
-Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified — this notification becomes relevant in Arc F.
+Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified. This notification becomes relevant in Arc F.
 
 #### Party Branch — Discards the Token
 
@@ -74,7 +74,7 @@ Award **Xanathar Token: Reported**. Faction receives intelligence on Guild scout
 
 ### Jarlaxle Watching
 
-Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled — something considerably more precise underneath the showmanship, the focused patience of a man evaluating something carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Arc H.
+Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled, something considerably more precise underneath the showmanship, the focused patience of a man evaluating something carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Arc H.
 
 Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle Baenre profile).
 
@@ -82,7 +82,7 @@ Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle Baenre profile).
 
 #### Meloon Met (Field of Triumph)
 
-The party encountered Meloon Wardragon as himself — competitive, warm, direct. Force Grey Mission 3 brings him back changed. The contrast requires this prior meeting. Record the attunement.
+The party encountered Meloon Wardragon as himself: competitive, warm, direct. Force Grey Mission 3 brings him back changed. The contrast requires this prior meeting. Record the attunement.
 
 #### Xanathar Token State
 
@@ -104,4 +104,4 @@ Zardoz Zord invited the party to fight in his sponsored gladiatorial slots at th
 
 ## Summary
 
-The party competed in Zordoz Zord's sponsored gladiatorial slots at the Field of Triumph, met Meloon Wardragon in the final round, and received an unsolicited contact from the Xanathar Guild. The prize purses helped close the renovation gap. The tournament is done; the Grand Opening is next.
+The party competed in Zardoz Zord's sponsored gladiatorial slots at the Field of Triumph, met Meloon Wardragon in the final round, and received an unsolicited contact from the Xanathar Guild. The prize purses helped close the renovation gap. The tournament is done; the Grand Opening is next.

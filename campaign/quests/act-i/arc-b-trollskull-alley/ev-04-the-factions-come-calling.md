@@ -120,7 +120,7 @@ Seven factions sent invitations to specific party members while the renovation r
 
 ## Read Aloud
 
-> The invitations arrive across ten days: a paper bird that waits on the windowsill, a flying snake that drops a note and leaves, a woman in armor who knocks with no advance warning. Each one is addressed to a specific person and offers a specific thing. The renovation gap looks very different by the end of the week.
+> The invitations arrive across ten days: a paper bird that waits on the windowsill, a flying snake that drops a note and leaves, a woman in armor who knocks with no advance warning. Each one is addressed to a specific person and offers a specific thing. The renovation gap looks different by the end of the week.
 
 ## Summary
 

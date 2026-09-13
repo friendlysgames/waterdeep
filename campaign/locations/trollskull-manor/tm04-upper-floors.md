@@ -2,7 +2,7 @@
 
 The second and third floors run the full footprint of the building, with narrow corridors and multiple rooms on each level. Both floors were unfurnished when the party arrived — previous owners cleared them out at some point, or the furniture rotted. The rooms are structurally intact but bare.
 
-**Renovation state.** Empty rooms being cleaned and assessed. The Carpenters' Guild work includes these floors — window frames, door hardware, floorboard stabilization. Some rooms have balconies; the balcony hardware is checked by the Roofers' Guild. Lif's Stage 1 activity (object-moving) occurs here, where there are still moveable objects from the renovation work.
+**Renovation state.** Empty rooms being cleaned and assessed. The Carpenters' Guild work includes these floors — window frames, door hardware, floorboard stabilization. Some rooms have balconies; the balcony hardware is checked by the Roofers' Guild.
 
 **Operational state.** Divided between private dining rooms (second floor, available for hire) and guest rooms (third floor, available for overnight lodging once the tavern establishes sufficient Fame). Cross-ref **Appendix F, Part 2** (Fame track, room hire revenue).
 

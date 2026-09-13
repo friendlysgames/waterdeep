@@ -4,11 +4,11 @@
 >
 > #### Gamemaster's Summary
 >
-> This Event occurs on Ches 21 — the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the arc does not accelerate it. In this Event:
+> This Event occurs on Ches 21, the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the arc does not accelerate it. In this Event:
 >
 > - Two processions converge on the Market; the party participates as North Ward residents, not spectators
 > - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Arc C corroboration path
-> - The Sea Maidens Faire fleet arrived in harbor this morning — first Arc H seed visible from the parade route
+> - The Sea Maidens Faire fleet arrived in harbor this morning; the first Arc H seed is visible from the parade route
 > - BD faction mission window (The Handkerchief Job) if party is Bregan D'Aerthe-enrolled
 > - Davil Starsong is visible in the crowd; Ammalia Cassalanter is at the charity booth
 > - The Festival Aftermath (Frewn's cask incident) provides closure on Emmek's arc and confirms Stage 4 misfired
@@ -23,7 +23,7 @@
 
 Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation.
 
-The party is participating in Waterdeep civic life now, not observing it — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Arc H reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
+The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Arc H reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
 
 Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar).
 
@@ -32,7 +32,7 @@ Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar).
 One of the processions includes a mechanical figure among its performers — moving through a theatrical display with fluid, humanoid precision.
 
 - **DC 14 Wisdom (Perception)** to notice that the figure's movement is genuinely mechanical rather than theatrical
-- **DC 16 Intelligence (Arcana)** to identify it as a construct of advanced manufacture — a nimblewright, or something very like one
+- **DC 16 Intelligence (Arcana)** to identify it as a construct of advanced manufacture, specifically a nimblewright or something like one
 
 The figure is visible for approximately two minutes before the procession moves on. No immediate consequence.
 
@@ -62,7 +62,7 @@ Before the Event ends, the DM must designate the fireball victim. The arc has pr
 
 | NPC | Introduced | Loss Logic |
 |---|---|---|
-| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Arc C — adjust that event accordingly. |
+| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Arc C; adjust that event accordingly. |
 | Tally Fellbranch | ev-03 | Connected to Renaer and Melannor; his death damages two faction relationships |
 | Floon Blagmaar | ev-03, ev-05 | The party rescued him in Arc A; losing him again hits differently the second time |
 | Lif | ev-01 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |
@@ -75,9 +75,9 @@ Award **Fireball Victim Designated: [NPC Name]** attunement.
 
 ### Festival Aftermath
 
-Return to the tavern after the parades. Frewn's Brews suffered a minor incident — a cask cracked and leaked, blamed on a faulty fitting. Emmek is furious at his contractor, a halfling named Kelso Fiddlewick. The party finds a note slid under their door: *"Apologies for any confusion. The service economy is difficult."* No signature.
+Return to the tavern after the parades. Frewn's Brews suffered a minor incident: a cask cracked and leaked, blamed on a faulty fitting. Emmek is furious at his contractor, a halfling named Kelso Fiddlewick. The party finds a note slid under their door: *"Apologies for any confusion. The service economy is difficult."* No signature.
 
-This is Emmek's Stage 4 misfiring — Kelso targeted the wrong building. Emmek knows it; the party does not yet. The note may become useful evidence later.
+This is Emmek's Stage 4 misfiring. Kelso targeted the wrong building. Emmek knows it; the party does not yet. The note may become useful evidence later.
 
 ### Concluding the Event
 
@@ -93,11 +93,11 @@ Recorded. Arc C reads this attunement in its opening beat.
 >
 > #### Transition to Arc C
 >
-> Proceed to **Arc C: Fireball!** The explosion occurs the following morning, Ches 22nd. The Sea Maidens Faire fleet is now docked in Waterdeep Harbor. Fleetswake (Ches 21–30) is the primary Arc H reconnaissance window — see **Arc H Overview**.
+> Proceed to **Arc C: Fireball!** The explosion occurs the following morning, Ches 22nd. The Sea Maidens Faire fleet is now docked in Waterdeep Harbor. Fleetswake (Ches 21–30) is the primary Arc H reconnaissance window; see **Arc H Overview**.
 
 ## Overview
 
-The Twin Parades brought both sides of the city together on Ches 21 — the first day of Fleetswake, when the harbor fills with tall ships. The party watched, waved to people they knew, and may or may not have noticed a mechanical figure moving in ways that weren't quite theatrical. They returned to the tavern, found a note of apology under the door, and went to bed.
+The Twin Parades brought both sides of the city together on Ches 21, the first day of Fleetswake, when the harbor fills with tall ships. The party watched, waved to people they knew, and may or may not have noticed a mechanical figure moving in ways that weren't quite theatrical. They returned to the tavern, found a note of apology under the door, and went to bed.
 
 ## Read Aloud
 

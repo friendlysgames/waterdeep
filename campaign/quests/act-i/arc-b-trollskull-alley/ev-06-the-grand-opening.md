@@ -20,17 +20,17 @@
 
 ### Staff Hiring
 
-In the days before opening, candidates arrive for each open position. The interview process is a low-stakes social encounter with real consequences — candidates have agendas, faction affiliations, and secrets that will matter later. Full candidate tables in **Appendix F, Staff Candidates**.
+In the days before opening, candidates arrive for each open position. The interview process is a low-stakes social encounter with real consequences: candidates have agendas, faction affiliations, and secrets that will matter later. Full candidate tables in **Appendix F, Staff Candidates**.
 
 Key framing:
 - Candidates arrive through word of mouth and guild placement notices; the party does not advertise
 - An appeased Lif handles the bar himself (**Lif Appeased** attunement), eliminating the bartender position; the party may still hire living staff
 - An unappeased or destroyed Lif means the bartender position is open and competitive
-- One Shard Shunner wererat may return for a second interview under a different name — **DC 15 Passive Perception** or **DC 14 active Perception** to recognize them from ev-02
+- One Shard Shunner wererat may return for a second interview under a different name; **DC 15 Passive Perception** or **DC 14 active Perception** to recognize them from ev-02
 
 ### The Cassalanter Bank Hook
 
-When the party's renovation financing required a formal loan or credit arrangement, their paperwork passed through the **Cassalanter Counting House** — a Sea Ward banking operation with accounts throughout the North Ward. Two days before opening, a messenger delivers a cask of Athkatlan vintage wine with a card: *"From the house of Cassalanter. We look forward to patronizing your establishment."*
+When the party's renovation financing required a formal loan or credit arrangement, their paperwork passed through the **Cassalanter Counting House** (a Sea Ward banking operation with accounts throughout the North Ward). Two days before opening, a messenger delivers a cask of Athkatlan vintage wine with a card: *"From the house of Cassalanter. We look forward to patronizing your establishment."*
 
 No counting house clerk sends wine of this quality without instructions from above. **Thread: The Cassalanters Exist** (second path; first path was Renaer's aside in ev-03: "the Cassalanters are generous to causes they want to be seen supporting — keep that in mind").
 
@@ -52,15 +52,15 @@ Starting Fame rolled or set per **Appendix F, Part 2**. Key guests:
 
 ### Ammalia Cassalanter
 
-Ammalia arrives without Lord Cassalanter. She is warm, generous, and interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. None of that is visible here.
+Ammalia arrives without Lord Cassalanter. She is warm, generous, and interested in the party as people. She stays two hours, learns everyone's name, and leaves with the social grace that makes a room feel larger after she's gone. She is a diabolist counting the days to Founders' Day. Play none of it.
 
-Her warmth is genuine — she finds capable people interesting, and she is very interested in people who have proven they can navigate a city that is doing its best to kill them.
+Her warmth is genuine — she finds capable people interesting, and she pays close attention to those who have survived a city doing its best to kill them.
 
 Award **Ammalia Cassalanter Met** attunement.
 
 **Thread: The Cassalanters Exist** (third path). The three-path redundancy is complete.
 
-Cross-ref **Appendix A** (Ammalia Cassalanter profile). Design Notes: her warmth must never be undercut with signaling — see the Ammalia Design Note in design-notes.md.
+Cross-ref **Appendix A** (Ammalia Cassalanter profile). Design Notes: her warmth must never be undercut with signaling; see the Ammalia Design Note in design-notes.md.
 
 ### Undermountain Seeds
 
@@ -90,7 +90,7 @@ Record when the first of the three seeds is received. The full three-seed cluste
 >
 > #### Next Steps
 >
-> The tavern is open. The arc's main work is done. The Twin Parades fall on Ches 21 — the calendar brings the arc to its coda. Proceed to **The Twin Parades** Event.
+> The tavern is open. The arc's main work is done. The Twin Parades fall on Ches 21. The calendar brings the arc to its coda. Proceed to **The Twin Parades** Event.
 >
 > #### Milestone: The Grand Opening
 >

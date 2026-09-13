@@ -10,11 +10,11 @@
 >
 > *An adventure for 2nd-level characters.*
 >
-> Combat is limited — the arc's friction is social, economic, and bureaucratic. Lif's Stage 3 is the only mandatory fight, and it resolves short of a kill. The Field of Triumph (ev-05) is a gladiatorial set-piece under nonlethal rules.
+> Combat is limited; the arc's friction is social, economic, and bureaucratic. Lif's Stage 3 is the only mandatory fight, and it resolves short of a kill. The Field of Triumph (ev-05) is a gladiatorial set-piece under nonlethal rules.
 >
 > #### Milestone Overview
 >
-> Arc B awards **2 Milestone Points** total — one per milestone event.
+> Arc B awards **2 Milestone Points** total, one per milestone event.
 >
 > - **The Factions Come Calling** Event (ev-04): 1 Milestone Point — factions enrolled; renovation financing secured
 > - **The Grand Opening** Event (ev-06): 1 Milestone Point → Level 3 — Trollskull Manor opens to the public
@@ -56,7 +56,7 @@
 
 ## Overview
 
-The party arrived in the North Ward with the deed to a derelict tavern and not enough gold to fix it. Trollskull Manor was four stories of broken furniture, vinegar casks, and a poltergeist who had been minding the place alone since 1479 DR. He had opinions about new ownership.
+The party arrived in the North Ward with the deed to a derelict tavern and not enough gold to fix it. Trollskull Manor was four stories of broken furniture, vinegar casks, and a poltergeist who had been minding the place alone since 1479 DR and had opinions about new ownership.
 
 While the renovation ran, Waterdeep came to them. Guild inspectors arrived with clipboards. Neighbors appeared with gifts, concerns, and agendas. Seven adventuring factions sent their own recruiters, targeting specific party members by alignment, race, and reputation — not the group as a whole. Between the guild fees, the renovation costs, and the neighbor across the alley filing complaints about rats, the city showed them exactly what it cost to put down roots.
 
