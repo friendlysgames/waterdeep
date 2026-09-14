@@ -84,9 +84,17 @@ Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle Baenre profile).
 
 The party encountered Meloon Wardragon as himself: competitive, warm, direct. Force Grey Mission 3 brings him back changed. The contrast requires this prior meeting. Record the attunement.
 
-#### Xanathar Token State
+#### Xanathar Token: Kept
 
-One of: Kept / Discarded / Reported. Arcs E and F read this attunement for Guild encounter framing.
+The party held the Guild scout's token. It functions as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified of them — this notification is read by Arc F's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
+
+#### Xanathar Token: Discarded
+
+The party returned or discarded the token. No further Guild contact in this arc.
+
+#### Xanathar Token: Reported
+
+The party brought the token and the scout's approach to a faction. The faction gains intelligence on Guild scouting patterns in the Sea Ward. Read by Arc E's intelligence-gathering phase.
 
 > **[GM]**
 >
