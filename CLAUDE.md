@@ -2,7 +2,7 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-> **Start every session by reading the most recent `session N handoff.md` in the root directory (highest N — currently `session 20 handoff.md`).** It records completed work, standing decisions, outstanding tasks, and exactly where to pick up next. Do not re-derive or re-ask anything it already settles.
+> **Start every session by reading the most recent `session N handoff.md` in the root directory (highest N — currently `session 21 handoff.md`).** It records completed work, standing decisions, outstanding tasks, and exactly where to pick up next. Do not re-derive or re-ask anything it already settles.
 
 ---
 
@@ -81,7 +81,8 @@ Ember format reference files (for document structure, not adventure content):
 | File / Folder | Contents |
 |---|---|
 | `campaign/structure/arc-a-finding-floon.md` | Arc A structure document — **RETIRED**; superseded by the modular files in `campaign/quests/act-i/arc-a-finding-floon/`. Read only for historical reference; never use for content decisions. |
-| `campaign/structure/arc-b-trollskull-alley.md` | Arc B structure document — Trollskull Alley; seven scenes (arrival, guild gauntlet, neighbors, factions, grand opening, Twin Parades, Field of Triumph); Lif appeasement mechanics, Ammalia intro, three information threads; structuring draft |
+| `campaign/structure/arc-b-trollskull-alley.md` | Arc B structure document — reference only; superseded by the modular files in `campaign/quests/act-i/arc-b-trollskull-alley/`. Do not use for content decisions. |
+| `campaign/quests/act-i/arc-b-trollskull-alley/` | Arc B Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-07`, `flowchart.md`, `design-notes.md`. Fully QA'd and prose-polished. |
 | `campaign/structure/arc-c-fireball.md` | Arc C structure document — Fireball; six scenes (The Fireball, The Witnesses, The Nimblewright Hunt, The Sea Maidens Faire, The Cassalanter Dinner, Backtracking Dalakhar); three-phase investigation, Speak with Dead, Nim's CSL and sparrow trap, Valetta's reward, nine owner elimination montage, partial/complete ledger, BD sidebar (inverted renown), Cassalanter dinner as dedicated scene with four outcome tracks, optional Kalain branch (vault clues, death mark, four faction responses); 2 milestones (900 XP toward level 4); structuring draft |
 | `campaign/structure/arc-d-gralhund-villa.md` | Arc D structure document — Gralhund Villa; six scenes (What the Factions Say, Observing the Villa, Daytime Infiltration, The Zhentarim Raid, The Rooftop Chase, Aftermath); quinpartite confrontation (Gralhunds + Manshoon's Zhentarim + Xanathar + conditional BD + PCs); day/night state mechanic; 10-beat raid timeline; 2024 chase mechanics; Istrid Horn scene; 2 milestones (900 XP, level 4 on Stone recovery); structuring draft |
 | `campaign/structure/arc-e-faction-outposts.md` | Arc E structure document — Faction Outposts; nine scenes (Stone attunement, faction consultation, structural guide, four faction outpost sections, response teams, aftermath/debriefs); 10 outposts across four factions (4 mini-heist, 6 encounter-plus); baked-in escalation system; independent chain entry paths; Founders' Day clock; Manshoon name reveal; 2 milestones (800 XP total; does not by itself reach level 5 — see the heist-phase milestone ladder in Arcs F–I); structuring draft |
@@ -107,7 +108,8 @@ Ember format reference files (for document structure, not adventure content):
 | `campaign/quests/` | Home for all arc content in Ember-style modular format (Quest Journal per arc: overview + event pages + design notes). Arc A is complete; remaining arcs pending conversion from `campaign/structure/arc-*.md`. |
 | `campaign/locations/zhentarim-warehouse/` | Zhentarim Warehouse Location Journal — **complete**: `area-overview.md` + `z01` through `z05`. Fully prose-polished. |
 | `campaign/locations/xanathar-sewer-hideout/` | Xanathar Sewer Hideout Location Journal — **complete**: `area-overview.md` + `q01` through `q11`. Fully prose-polished. |
-| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. Two locations complete (see above); remaining locations pending. |
+| `campaign/locations/trollskull-manor/` | Trollskull Manor Location Journal — **complete**: `area-overview.md` + `tm01` through `tm06`. Fully prose-polished. |
+| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. Three locations complete (see above); remaining locations pending. |
 
 ---
 
@@ -215,6 +217,10 @@ Carry all unchecked items from the previous handoff's Outstanding Work section i
 **Arc A timeline:** The kidnapping of Floon happened "last night" (Alexandrian timeline), not "two nights ago" (WDH RAW). Use "last night" consistently across all Arc A content.
 
 **Threestrings faction label:** Mattrim Mereg ("Threestrings") is a **Harper agent** embedded at the Yawning Portal. He is never "Doom Raiders" or "independent." This error has appeared twice across sessions — always verify NPC faction labels against Appendix A, never against arc summaries.
+
+**Scene-to-event mapping is not 1:1:** When planning an arc decomposition, evaluate each scene on its dramatic weight. One scene can become multiple events, or multiple scenes can collapse into one event. Don't assume one-scene-to-one-event.
+
+**Attunement format:** Entries in `### Concluding the Event` use `#### Flag Name: Condition` as the heading. The body states what was recorded and names the specific downstream arc or event where the flag is read. No "Award X" language in the Concluding section — award language stays in the narrative body branches. Arc A attunement entries are the reference.
 
 ---
 
