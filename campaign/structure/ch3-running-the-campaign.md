@@ -81,12 +81,13 @@ The Waterdeep festival calendar is a structural device, not flavor. Festivals pr
 
 Key dates:
 
-| Festival | Date | Structural function |
+| Festival / Date | Date | Structural function |
 |----------|------|---------------------|
-| Fleetswake | Ches 21–30 | Maritime festival; Sea Maidens Faire is most visible; cover for Arc H reconnaissance |
+| Fleetswake | Ches 21–30 | Maritime festival; Sea Maidens Faire arrives in harbor; cover for Arc H reconnaissance |
+| Twin Parades | Ches 21 | Opening day of Fleetswake; nimblewright sighting in the procession (Arc B ev-07); fireball strikes the following morning |
+| The Fireball | Ches 22 | Campaign inciting incident; opens Arc C; the morning after the Twin Parades |
 | Waukeentide | Tarsakh 1–10 | Trade festival; Cassalanter social events peak; cover for Arc G surveillance phase |
 | Founders' Day | Flamerule 1 | HARD DEADLINE: Cassalanter sacrifice window closes; if PCs have not resolved the children's situation, the sacrifice occurs |
-| Day of Wonders | Marpenoth 3 | Nimblewright Parade; can be moved earlier in the calendar if pacing demands it |
 
 The DM should decide the campaign start date (Alturiak or early Ches is typical, leaving two months before Fleetswake) and maintain a session-by-session calendar. Players who are paying attention should be able to track the approach of Founders' Day without being told what it means until they understand the Cassalanters.
 
@@ -304,7 +305,7 @@ The gold dragon guardian in the vault is rewritten from a straightforward obstac
 - Ch. 1: Campaign Contract (the DM's promise to the players about what kind of game this is)
 - Ch. 2: Villain sections (the Grand Game in Play is the operational layer on top of the villain character documents); History section (establishes why each faction is positioned where it is at campaign start)
 - Arc A: First application of Three Clue Rule (Finding Floon); first faction response team encounter
-- Arc B: Festival calendar first becomes relevant (Day of Wonders); Founders' Day countdown implicit from Ammalia's introduction
+- Arc B: Festival calendar first becomes relevant (Twin Parades / Fleetswake, Ches 21); Founders' Day countdown implicit from Ammalia's introduction
 - Arc C: Three Clue Rule under pressure (fireball investigation); faction response teams all deploy; Jarlaxle's conditional entry gates here
 - Arc E: Revelation lists in full operation; faction state tracking most complex
 - Arc G: Founders' Day deadline mechanics; Cassalanter resolution path selection
