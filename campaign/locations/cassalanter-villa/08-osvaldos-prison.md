@@ -1,4 +1,4 @@
-# C24 — Osvaldo's Prison
+﻿# C24 — Osvaldo's Prison
 
 The attic. Accessible via the stair from C23 (Ammalia's study trapdoor), or through a locked exterior door on the attic level from the third-floor landing.
 
@@ -8,11 +8,11 @@ The staircase from C23 is soundproofed. The soundproofing ends at the attic door
 
 The attic door is not locked from the corridor side.
 
-### Heist — Arc G Only
+### Heist — Cassalanter Villa Only
 
 > **[GM]**
 >
-> This room has no Normal section. It is inaccessible during Arc C — the attic is sealed and forbidden to all household staff. The exterior door's lock (DC 19) is beyond any non-plot access path in Arc C. Access occurs only during the Arc G operation.
+> This room has no Normal section. It is inaccessible during Fireball — the attic is sealed and forbidden to all household staff. The exterior door's lock (DC 19) is beyond any non-plot access path in Fireball. Access occurs only during the Cassalanter Villa operation.
 
 Inside: a burned pentagram on the floor. Abjuration wards glow faintly around the pentagram's perimeter — DC 15 Intelligence (Arcana) to identify as containment wards. An iron ring is set in the center of the pentagram floor. Chains extend from the ring.
 

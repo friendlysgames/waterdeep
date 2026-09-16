@@ -1,4 +1,4 @@
-# A3 — Anterior Vestibule
+﻿# A3 — Anterior Vestibule
 
 > **[GM]**
 >
@@ -8,7 +8,7 @@ The vestibule is an antechamber to the ceremonial hall (A7). Eighteen feet of oi
 
 The doors to A7 are at the far end — iron-bound oak, unlocked, heavy. They require Strength 14 to push open, or two creatures of any strength working together.
 
-### Heist — Arc G Temple Layer
+### Heist — Cassalanter Villa Temple Layer
 
 **Inhabitants — Non-Gathering.** The vestibule is empty during non-gathering periods. No permanent guard assignment outside the ceremonial hall.
 

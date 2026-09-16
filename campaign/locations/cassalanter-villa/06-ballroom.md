@@ -1,4 +1,4 @@
-# C13 — Ballroom
+﻿# C13 — Ballroom
 
 The villa's centerpiece. A high-ceilinged room with floor-to-ceiling windows on the garden side and a polished floor that draws the eye the moment you enter. The floor is a Siamorphe mosaic — the goddess's sun symbol rendered in gold and white tile, five feet across, centered precisely in the room. Candelabras ring the perimeter. A dancing mannequin stands in an alcove near the garden doors, jointed arms at rest.
 
@@ -8,7 +8,7 @@ The ballroom is quiet and maintained for events. The dancing mannequin is decora
 
 The windows overlook the butterfly garden (C25). From the ballroom window, the six imps in raven form are visible in the garden trees — DC 15 Wisdom (Perception) to notice their unnaturally focused gaze.
 
-### Heist — Arc G Social Event Configuration
+### Heist — Cassalanter Villa Social Event Configuration
 
 During the Charity Ball, Goldenight gala, or any social event, the ballroom is the primary infiltration space. The crowd — 40–60 guests — provides cover. Social exposure checks occur here at advantage: the noise, movement, and general social chaos make a degree of unusual behavior unremarkable.
 

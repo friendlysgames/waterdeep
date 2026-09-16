@@ -1,10 +1,10 @@
-# Zhentarim Warehouse — Area Overview
+﻿# Zhentarim Warehouse — Area Overview
 
 > **[GM]**
 >
 > #### Area Map Context
 >
-> This location is used during the **Zhentarim Warehouse** Event (ev-03) of Arc A. The party enters through the yard gate from Candle Lane. Renaer Neverember begins in Z02. The kenku alert state is determined by the party's entry approach — see the **Zhentarim Warehouse** Event for entry mechanic details.
+> This location is used during the **Zhentarim Warehouse** Event (ev-03) of Finding Floon. The party enters through the yard gate from Candle Lane. Renaer Neverember begins in Z02. The kenku alert state is determined by the party's entry approach — see the **Zhentarim Warehouse** Event for entry mechanic details.
 
 ## Gameplay Details
 
@@ -16,7 +16,7 @@ Two levels. Z01 (main room), Z02 (storage closet), Z03 (secret room), and Z05 (o
 
 ### Illumination
 
-Unlit during the events of Arc A. The building's windows are covered or painted over. The party must provide their own light.
+Unlit during the events of Finding Floon. The building's windows are covered or painted over. The party must provide their own light.
 
 ### Yard and Fence
 

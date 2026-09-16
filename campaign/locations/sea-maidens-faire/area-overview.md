@@ -1,4 +1,4 @@
-# Sea Maidens Faire — Area Overview
+﻿# Sea Maidens Faire — Area Overview
 
 > **[GM]**
 >
@@ -14,7 +14,7 @@
 >
 > **Event use:**
 > - **ev-05 (The Sea Maidens Faire):** Primary event. All three investigation paths (ask Zord / steal ledger / crystal ball) run here. Refer to the **The Sea Maidens Faire** Event for path mechanics, boarding DCs, and ledger details.
-> - **Arc H (Sea Maidens Faire heist):** Full heist operation across the fleet. Heist sections of each room file are provisional; Arc H decomposition may revise them.
+> - **Sea Maidens Faire (Sea Maidens Faire heist):** Full heist operation across the fleet. Heist sections of each room file are provisional; Sea Maidens Faire decomposition may revise them.
 
 ## Gameplay Details
 
@@ -36,11 +36,11 @@ Day: all decks open to natural light; below-deck areas supplemented by lanterns.
 
 ### Enemies
 
-**Normal (Arc C investigation):** No standing combat encounters during the investigation. Crew confront unauthorized boarders with warning, then physical restraint — not lethal force unless drawn weapons appear. The gunslingers at J23 have kill-on-sight orders for unauthorized access to J27; avoid that area.
+**Normal (Fireball investigation):** No standing combat encounters during the investigation. Crew confront unauthorized boarders with warning, then physical restraint — not lethal force unless drawn weapons appear. The gunslingers at J23 have kill-on-sight orders for unauthorized access to J27; avoid that area.
 
 **Alert (post-discovery of theft):** If the party's theft of the ledger is discovered while they are still aboard, two drow elite warriors and a gunslinger respond to the area of the theft within 3 rounds. Response is graduated — confrontation first, combat if the party draws weapons.
 
-**Heist (Arc H):** See Heist sections of each room file. Arc H escalation tiers govern response.
+**Heist (Sea Maidens Faire):** See Heist sections of each room file. Sea Maidens Faire escalation tiers govern response.
 
 ### Boarding
 

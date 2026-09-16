@@ -1,10 +1,10 @@
-# C4 — Reading Room
+﻿# C4 — Reading Room
 
 Ground floor, east wing. A comfortable room with leather chairs and bookshelves filling two walls. A black dragon hunting trophy is mounted above the fireplace — old and well-maintained, the taxidermy work from another era. Victoro receives guests here during daylight hours when no formal event is scheduled.
 
 A private journal rests on the side table beside the leftmost chair. Victoro reads it here. He sometimes forgets to take it with him.
 
-### Normal — Arc C Dinner Arrival
+### Normal — Fireball Dinner Arrival
 
 During ev-06, if the party arrives early or is left briefly in a waiting area, they may be placed in the reading room. Willifort is not present; a servant offers wine and excuses himself. The journal is on the table.
 
@@ -16,9 +16,9 @@ The journal does not have a lock. Reading it openly: any party member may pick i
 
 The first entry confirms the Vault of Dragons' gold is the financial component of the buy-out clause. The second is a name ("Y.G." — identifiable as Yalah Gralhund with a DC 14 Intelligence (History) check, cross-referencing the Gralhund family and their Sea Ward connections). The third confirms Victoro understands the Stone's nature — the journal predates the fireball. He has been planning around the Stone for longer than the party has known it existed.
 
-There is no other sensitive material in the reading room during Arc C. The journal is the yield.
+There is no other sensitive material in the reading room during Fireball. The journal is the yield.
 
-### Heist — Arc G Social Event / Day Infiltration
+### Heist — Cassalanter Villa Social Event / Day Infiltration
 
 During social events, Victoro entertains guests here in rotation with C9 (dining room). He holds a wine glass and makes banking small talk. The journal is on the side table unless Victoro is in the room, in which case it is closed on the table beside him.
 

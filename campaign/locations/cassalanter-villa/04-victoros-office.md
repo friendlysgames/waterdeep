@@ -1,4 +1,4 @@
-# C6 — Victoro's Office
+﻿# C6 — Victoro's Office
 
 Third floor. A dark-paneled study with a broad mahogany desk, a map of Waterdeep on the wall, and floor-to-ceiling shelves of ledgers and correspondence. The room smells of ink and leather binding. The door is locked.
 
@@ -12,7 +12,7 @@ The office is empty when Victoro is receiving guests or at a social event. Lisse
 
 A party member who slips in during a cleaning window has twelve minutes before Lissette returns. The helmed horror is present and active from the moment they approach the desk.
 
-### Heist — Arc G Infiltration
+### Heist — Cassalanter Villa Infiltration
 
 **The Helmed Horror.** AC 20, HP 60. It pursues the triggering creature throughout the villa but does not leave the building. It is immune to fire, lightning, and the frightened condition. It attacks until the triggering creature is dead or incapacitated, then returns to its corner. The deactivation word is unknown to the party; Victoro speaks it in Infernal. No source within the villa will yield this word — the helmed horror is fought, fled, or endured.
 
@@ -22,8 +22,8 @@ If the party bypasses the desk entirely and searches the room from a distance, t
 
 No check required to find the desk's surface papers. Thirteen loan contracts — the Cassalanter banking leverage over Waterdeep's guilds. Names, sums, terms. A party member with DC 12 Intelligence (History) can identify that these contracts represent effective control over the Chandlers', Coopers', and Carpenters' guilds, among others.
 
-**Hidden compartment (DC 15 Intelligence (Investigation)):** A false drawer bottom holds a gold Asmodeus holy symbol worth 250 gp and a report from Seffia Naelryke covering the external outpost operations (cross-reference to Arc E — specifically the Converted Windmill and the Asmodean Shrine). The Naelryke report confirms in writing what Arc E outpost documents implied: the Cassalanters maintain an external operations cell.
+**Hidden compartment (DC 15 Intelligence (Investigation)):** A false drawer bottom holds a gold Asmodeus holy symbol worth 250 gp and a report from Seffia Naelryke covering the external outpost operations (cross-reference to Faction Outposts — specifically the Converted Windmill and the Asmodean Shrine). The Naelryke report confirms in writing what Faction Outposts outpost documents implied: the Cassalanters maintain an external operations cell.
 
-Also in the hidden compartment: the **Cassalanter Report on the Grand Game**. This document is a hand-written summary of the current faction competition for the Stone of Golorr, prepared by Victoro for his own reference. It references Manshoon's operations directly, identifies Kolat Towers by name and location, describes Zhentarim splinter movements in the Castle Ward, and includes the note: *"The wizard who calls himself Manshoon guards his fortress with a force field that admits only those he has keyed."* This is the Three Clue Rule path to Arc I — Kolat Towers.
+Also in the hidden compartment: the **Cassalanter Report on the Grand Game**. This document is a hand-written summary of the current faction competition for the Stone of Golorr, prepared by Victoro for his own reference. It references Manshoon's operations directly, identifies Kolat Towers by name and location, describes Zhentarim splinter movements in the Castle Ward, and includes the note: *"The wizard who calls himself Manshoon guards his fortress with a force field that admits only those he has keyed."* This is the Three Clue Rule path to Kolat Towers — Kolat Towers.
 
-A second copy of the Cassalanter Report on the Grand Game is kept in C22 (Ammalia's study), ensuring that parties who do not reach C6 still have access to the Arc I clue.
+A second copy of the Cassalanter Report on the Grand Game is kept in C22 (Ammalia's study), ensuring that parties who do not reach C6 still have access to the Kolat Towers clue.

@@ -1,16 +1,16 @@
-# C1 — Entrance Hall
+﻿# C1 — Entrance Hall
 
 A two-story foyer with marble floors and a grand staircase curving to the second floor. The walls are hung with Cassalanter ancestor portraits — Caladorn Cassalanter is prominently placed near the stair, silver-haired and armored in the heraldic style of the North. The room smells of fresh flowers and warm candle wax.
 
-### Normal — Arc C Dinner / Arc G Day Operations
+### Normal — Fireball Dinner / Cassalanter Villa Day Operations
 
 A harpsichord stands in the corner alcove, its bench empty. Willifort Crowelle greets every visitor at the door — warm, professional, offering to take coats and refreshments. His *Detect Thoughts* is active from the moment a guest crosses the threshold, reading surface thoughts automatically without requiring concentration.
 
-During Arc C (ev-06), the party arrives here by Ammalia's invitation. Willifort takes coats, offers wine, and escorts the party to C9 (dining room). He reads the party during this transit. The Social Exposure System begins at Stage 1.
+During Fireball (ev-06), the party arrives here by Ammalia's invitation. Willifort takes coats, offers wine, and escorts the party to C9 (dining room). He reads the party during this transit. The Social Exposure System begins at Stage 1.
 
 The entrance hall connects to: the main corridor (C4, C9), the staircase (C5 landing, upper floors), and the service corridor (C2, C10).
 
-### Heist — Arc G Social Event Configuration
+### Heist — Cassalanter Villa Social Event Configuration
 
 During the Charity Ball or Goldenight gala, the entrance hall is filled with 40–60 guests. A harpsichord player performs in the alcove. Willifort circulates with a tray, angling to position himself within 30 feet of the party. Guards defer to guest status at Stage 1 — they stand near the stair door, hands empty, watching.
 

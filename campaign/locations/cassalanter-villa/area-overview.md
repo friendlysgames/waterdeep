@@ -1,4 +1,4 @@
-# Cassalanter Villa — Area Overview
+﻿# Cassalanter Villa — Area Overview
 
 > **[GM]**
 >
@@ -9,8 +9,8 @@
 > **Floors:** Ground (C1, C2, C4, C9, C10, C13); Upper ground / second (C15, C22 approaches); Third (C6, C22); Attic (C24); Garden-level (C25); Basement (C27, C28); Sub-basement stair (C29 → A1).
 >
 > **Event use:**
-> - **ev-06 (The Cassalanter Dinner):** Arc C event, optional. The party arrives through the gate and is received in C1 (entrance hall). The dinner takes place in C9 (dining room — see below). Refer to the **The Cassalanter Dinner** Event for the full dinner sequence.
-> - **Arc G (Cassalanter Villa heist):** Primary heist event. All 17 keyed areas are operational. The villa layer (C1–C29) is social infiltration; the temple layer (A1–A9) is a dungeon.
+> - **ev-06 (The Cassalanter Dinner):** Fireball event, optional. The party arrives through the gate and is received in C1 (entrance hall). The dinner takes place in C9 (dining room — see below). Refer to the **The Cassalanter Dinner** Event for the full dinner sequence.
+> - **Cassalanter Villa (Cassalanter Villa heist):** Primary heist event. All 17 keyed areas are operational. The villa layer (C1–C29) is social infiltration; the temple layer (A1–A9) is a dungeon.
 
 ## Gameplay Details
 
@@ -50,7 +50,7 @@ Day: ground floor naturally lit through tall windows; upper floors reliant on co
 
 40–60 civilian guests in C1, lower C5, C9, C13, C15, and C25. Ten servant commoners in service areas. Guards at C5 doubled to 4. Willifort circulates with a tray. C6 helmed horror active regardless.
 
-### The Social Exposure System (Arc G)
+### The Social Exposure System (Cassalanter Villa)
 
 Four-stage escalation governing social-layer movement. Begins at Stage 1 (Accepted Guest) when the party arrives legitimately. Triggers advance stages; de-escalation is possible at Stage 2 only.
 
@@ -63,7 +63,7 @@ Four-stage escalation governing social-layer movement. Begins at Stage 1 (Accept
 
 ### The Dining Room (C9)
 
-The dining room is not keyed as a separate location journal page — it is used in Arc C (ev-06) and in Arc G social events but has no unique mechanical content. During the Arc C dinner, C9 is set for six: Victoro, Ammalia, the party (up to four), and one household staff member serving. During social events: Victoro entertains guests here. The room connects to C10 (kitchen) via a service door and to C1 (entrance hall) via the main corridor. No locks, no restricted materials.
+The dining room is not keyed as a separate location journal page — it is used in Fireball (ev-06) and in Cassalanter Villa social events but has no unique mechanical content. During the Fireball dinner, C9 is set for six: Victoro, Ammalia, the party (up to four), and one household staff member serving. During social events: Victoro entertains guests here. The room connects to C10 (kitchen) via a service door and to C1 (entrance hall) via the main corridor. No locks, no restricted materials.
 
 ### The Temple Layer
 

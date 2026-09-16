@@ -1,4 +1,4 @@
-# C10 — Kitchen
+﻿# C10 — Kitchen
 
 A well-appointed kitchen with a large central hearth, hanging copper pots, and a preparation table scarred by decades of use. Six commoner assistants work here during mealtimes. The room smells of roasting meat, spices, and something sharper — vinegar used for preserving.
 
@@ -12,7 +12,7 @@ The **cellar key ring** hangs on a hook in the pantry alcove — visible from th
 
 **Turning Jandar:** Victoro holds a 3,000 gp financial obligation over him, converted to cult service three years ago. Jandar hates what he does. DC 12 Charisma (Persuasion) with an offer of protection turns him; DC 10 if the party can resolve the debt or credibly promise to. He provides: kitchen schedules, which deliveries access the cellar, and the location of the wine cellar's false wall. He does not know the Siamorphe sun passphrase for C27 — only that the cellar has "a funny door that the family's guests use on certain nights."
 
-### Heist — Arc G Social Event / Founders' Day Configuration
+### Heist — Cassalanter Villa Social Event / Founders' Day Configuration
 
 During social events: Jandar and full staff in the kitchen, serving food to guests. The cellar key ring is on its hook. The carving knives are ordinary until commanded otherwise.
 

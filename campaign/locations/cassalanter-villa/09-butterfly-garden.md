@@ -1,4 +1,4 @@
-# C25 — Butterfly Garden
+﻿# C25 — Butterfly Garden
 
 A walled garden at the villa's rear, filling the space between the garden mudroom (C2) and the east perimeter wall. Tropical species fill the space — species that should not survive Waterdeep's climate. The air is fifteen degrees warmer than the street outside, humid and fragrant with flowers that bloom year-round. Ravens perch in the garden trees and along the top of the perimeter wall.
 
@@ -14,7 +14,7 @@ Six imps in raven form perch in the garden. They move between the trees, the wal
 
 Marchello the gardener tends the garden at dawn and dusk. He is aware that the ravens watch people ("Regular birds don't watch you"). He has not connected this to anything supernatural — Ammalia told him they were rescue birds from the docks.
 
-### Heist — Arc G Social Event Configuration
+### Heist — Cassalanter Villa Social Event Configuration
 
 During social events, the butterfly garden hosts 8–15 guests in rotation. Ammalia circulates through here on her twenty-minute pattern. Wine is served by a servant stationed near the garden gate. The imps remain in raven form throughout — the crowd provides cover for their surveillance and they are active throughout the event.
 

@@ -1,4 +1,4 @@
-# A9 — Stream and Pool
+﻿# A9 — Stream and Pool
 
 > **[GM]**
 >
@@ -8,7 +8,7 @@ The temple's lowest point. A natural cavern, irregular and unworked, that predat
 
 The pool is four feet deep at the center. The stream is cold.
 
-### Heist — Arc G Temple Layer
+### Heist — Cassalanter Villa Temple Layer
 
 **Two Functions.** A9 serves as both an alternate entry point (stream approach from the Mud Flats) and the primary escape route for parties that cannot exit through the villa.
 

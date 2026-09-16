@@ -1,4 +1,4 @@
-# C27 — False Vault
+﻿# C27 — False Vault
 
 Basement level. A triple-locked iron door at the end of the cellar corridor.
 
@@ -6,7 +6,7 @@ Basement level. A triple-locked iron door at the end of the cellar corridor.
 
 On the other side: a stone room, empty. Stone shelves on three walls, stone floor, stone ceiling. No treasure. No furnishing. Nothing.
 
-### Heist — Arc G Only
+### Heist — Cassalanter Villa Only
 
 > **[GM]**
 >

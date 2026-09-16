@@ -1,4 +1,4 @@
-# C28 — Wine Cellar
+﻿# C28 — Wine Cellar
 
 Stone walls lined with bottle racks from floor to ceiling. The Cassalanters maintain a genuine collection — 600 bottles, organized by region and vintage. Fifteen to twenty bottles are worth 50 gp or more individually; three are worth over 200 gp. The cellar is cool and smells of oak and limestone.
 
@@ -16,7 +16,7 @@ The Siamorphe sun symbol is prominent. A DC 12 Intelligence (Religion) check ide
 
 **The Night Guard.** One guard on the cellar night shift, midnight to dawn. He has heard murmuring through the west wall on nights when the cult gathers — he was told these are "private religious observances" and instructed not to interfere. He has complied for two years. If the party approaches him and tells him what is actually happening, he provides patrol routes, blind spots, and the garden gate schedule. He is ex-Watch. He does not forgive the Cassalanters easily for what they have had him ignore.
 
-### Heist — Arc G Operation
+### Heist — Cassalanter Villa Operation
 
 The secret door is the threshold between the social layer and the temple. Everything above the west wall: painted surfaces, managed appearances, the illusion of a household. Everything below: stone, incense, and what the Cassalanters have built beneath their home.
 

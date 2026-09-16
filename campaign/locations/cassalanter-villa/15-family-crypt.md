@@ -1,4 +1,4 @@
-# A4 / A4a — Family Crypt / Caladorn's Crypt
+﻿# A4 / A4a — Family Crypt / Caladorn's Crypt
 
 > **[GM]**
 >
@@ -8,7 +8,7 @@ A4 is a vaulted chamber adjacent to the anterior vestibule, reached through a si
 
 A4a is a smaller antechamber at the far end of A4, separated by an open arch. One sarcophagus here, distinguished from the others by its size and its effigy: an armored figure, silver-haired, with the Cassalanter features and the bearing of someone who carried a weapon all his life. A plaque reads: CALADORN CASSALANTER — MASKED LORD OF WATERDEEP — SERVANT OF SIAMORPHE IN HIS TIME.
 
-### Heist — Arc G Temple Layer
+### Heist — Cassalanter Villa Temple Layer
 
 **Three Specters (A4).** Rise from the floor when a living creature enters the chamber. Attack without hesitation. Combat statistics: standard specters.
 

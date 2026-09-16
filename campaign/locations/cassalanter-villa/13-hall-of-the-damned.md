@@ -1,14 +1,14 @@
-# A1 — Hall of the Damned
+﻿# A1 — Hall of the Damned
 
 > **[GM]**
 >
-> This room and all temple areas (A1–A9) are **Heist-only**. They are inaccessible during Arc C. The party reaches A1 either by descending from C29 (the secret vault staircase) or by emerging from A9 (the stream entrance from the Mud Flats).
+> This room and all temple areas (A1–A9) are **Heist-only**. They are inaccessible during Fireball. The party reaches A1 either by descending from C29 (the secret vault staircase) or by emerging from A9 (the stream entrance from the Mud Flats).
 
 The staircase from C29 opens into a vaulted stone passage, twelve feet wide and thirty feet long. The floor is flagstone, worn smooth by repeated foot traffic. Three iron doors are set into the east wall, evenly spaced — each leads to a sacrifice cell, approximately eight feet square, empty and scrubbed clean. Whatever happened in these cells was recent. A key ring on a hook near the first door opens all three.
 
 The passage smells of incense and old stone. A spiral stair at the far end descends to A3 (anterior vestibule).
 
-### Heist — Arc G Temple Layer
+### Heist — Cassalanter Villa Temple Layer
 
 **The sacrifice cells.** Three cells, doors unlocked with the key ring. Each cell holds an iron ring set in the floor, a drain, and a low stone shelf along one wall. The cells have been cleaned — the stone is damp in the drains, scrubbed. No blood, no personal effects, no indication of what they were used for beyond their design. A DC 14 Intelligence (Investigation) check on the cells collectively determines they are consistent with holding sacrificial subjects prior to ritual — the rings' height is calibrated for a kneeling adult.
 

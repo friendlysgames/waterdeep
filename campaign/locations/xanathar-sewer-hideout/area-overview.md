@@ -1,10 +1,10 @@
-# Xanathar Sewer Hideout — Area Overview
+﻿# Xanathar Sewer Hideout — Area Overview
 
 > **[GM]**
 >
 > #### Area Map Context
 >
-> This location is used during the **Xanathar Sewer Hideout** Event (ev-04) of Arc A. The party approaches from the east through the sewer tunnels, following Xanathar guildsign. Q01 is the entry point. Q07 holds Floon Blagmaar. Q11 is Nihiloor's escape route.
+> This location is used during the **Xanathar Sewer Hideout** Event (ev-04) of Finding Floon. The party approaches from the east through the sewer tunnels, following Xanathar guildsign. Q01 is the entry point. Q07 holds Floon Blagmaar. Q11 is Nihiloor's escape route.
 >
 > Alert state and illumination are set by the sewer navigation outcome and gazer encounter before the party reaches Q01. Refer to the **Xanathar Sewer Hideout** Event for those mechanics.
 
@@ -26,7 +26,7 @@ One foot of sewage covers the floor of Q01 and the entry approach tunnel. Q02 th
 
 ### Inhabitants
 
-**Base inhabitants during Arc A:**
+**Base inhabitants during Finding Floon:**
 - Q02a, Q02b: two goblins (one per alcove; asleep in unaware state, awake and watching Q01 in alert state)
 - Q05: Zemk (duergar); Krentz (human, if he survived ev-01)
 - Q06: one gray ooze
@@ -34,7 +34,7 @@ One foot of sewage covers the floor of Q01 and the entry approach tunnel. Q02 th
 
 Q03, Q04, Q08, Q09, Q10, Q11: no inhabitants.
 
-**Floon's location:** Q07 throughout Arc A (until rescued or found dead in the failure state).
+**Floon's location:** Q07 throughout Finding Floon (until rescued or found dead in the failure state).
 
 ### Alert State
 

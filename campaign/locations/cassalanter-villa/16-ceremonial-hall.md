@@ -1,4 +1,4 @@
-# A7 — Ceremonial Hall
+﻿# A7 — Ceremonial Hall
 
 > **[GM]**
 >
@@ -8,7 +8,7 @@ The temple's heart. A thirty-foot-tall statue of Asmodeus dominates the far wall
 
 The hall is sixty feet long and forty feet wide. Stone pews face the statue in rows. A dais with a stone lectern stands before the statue, ten feet from the fire bowl.
 
-### Heist — Arc G Temple Layer
+### Heist — Cassalanter Villa Temple Layer
 
 **Inhabitants — Non-Gathering.** The hall is empty. The fire bowl burns. No other light source.
 
@@ -35,4 +35,4 @@ Striking the statue with the mace of disruption: the mace resonates immediately 
 - The children's souls are freed. Osvaldo's chain devil form, if still alive, dissolves — he dies, but his soul is freed
 - The Cassalanters are liberated. Asmodean retribution follows within days (see Scene 6 — Aftermath)
 
-**Stone of Golorr Upgrade.** Inserting Eye #2 into the Stone follows from the area. Refer to the **Cassalanter Villa** Event in Arc G for the full Stone upgrade scene — which of three scenarios applies depends on how many Eyes have been restored before this one.
+**Stone of Golorr Upgrade.** Inserting Eye #2 into the Stone follows from the area. Refer to the **Cassalanter Villa** Event in Cassalanter Villa for the full Stone upgrade scene — which of three scenarios applies depends on how many Eyes have been restored before this one.

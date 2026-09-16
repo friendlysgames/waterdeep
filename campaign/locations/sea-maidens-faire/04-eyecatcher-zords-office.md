@@ -1,4 +1,4 @@
-# J29/J30 — Eyecatcher: Jarlaxle's Cabins
+﻿# J29/J30 — Eyecatcher: Jarlaxle's Cabins
 
 Two adjacent private spaces in the Eyecatcher's aft castle, separated from the guest and common areas by a shared secret door in the wardrobe of J28.
 
@@ -6,7 +6,7 @@ Two adjacent private spaces in the Eyecatcher's aft castle, separated from the g
 
 **J30 — Captain's Main Cabin:** Jarlaxle's private space. The magic mouth trap, the jade chess set (2,500 gp, kept on a side table), a nimblewright guard standing in the corner, and a trapdoor in the floor — arcane locked (Jarlaxle's key or DC 20 Dexterity (Thieves' Tools)) — opening to the Scarlet Marpenoth's pressurized hatch collar (U1). The complete ledger is kept here in a locked drawer (DC 16 Thieves' Tools for the drawer; DC 18 Investigation to find within the desk's papers).
 
-### Normal — Arc C Investigation
+### Normal — Fireball Investigation
 
 **Zord Interview (J29):** A party that arranges a meeting with Zord is escorted here by the steward. Zord is already present, seated, hat in place. He knows about the fireball, the gnome, and the Stone. He reads the party's investigation state in the first two exchanges and decides how much to share.
 
@@ -18,12 +18,12 @@ If the party asks about the nimblewright: Zord excuses himself briefly, steps th
 
 **Trapdoor to Scarlet Marpenoth:** Arcane locked (DC 20 Thieves' Tools or Jarlaxle's key). A party that bypasses it finds U1 below — the pressurized entry hatch to the submersible.
 
-### Heist — Arc H Operational State
+### Heist — Sea Maidens Faire Operational State
 
-*Provisional — subject to revision at Arc H decomposition.*
+*Provisional — subject to revision at Sea Maidens Faire decomposition.*
 
-During Arc H, J29 is Jarlaxle's command post — he manages the heist's moving parts from here, not from J30 or J31 (training area). The Zardoz Zord persona may or may not be in effect depending on the party's prior relationship with him (see Arc H: Jarlaxle's Disposition table per BD relationship state).
+During Sea Maidens Faire, J29 is Jarlaxle's command post — he manages the heist's moving parts from here, not from J30 or J31 (training area). The Zardoz Zord persona may or may not be in effect depending on the party's prior relationship with him (see Sea Maidens Faire: Jarlaxle's Disposition table per BD relationship state).
 
-The complete ledger is no longer here — it was secured to the Scarlet Marpenoth (U4, Jarlaxle's stateroom) after Arc C. The jade chess set remains. The nimblewright guard is active at combat readiness.
+The complete ledger is no longer here — it was secured to the Scarlet Marpenoth (U4, Jarlaxle's stateroom) after Fireball. The jade chess set remains. The nimblewright guard is active at combat readiness.
 
 The trapdoor to the Scarlet Marpenoth is unlocked during the heist if Jarlaxle expects to need a fast extraction route.

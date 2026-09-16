@@ -1,4 +1,4 @@
-# Q11 — Escape Portal
+﻿# Q11 — Escape Portal
 
 An otherwise empty room at the western end of the complex. Stone floor, bare walls, low ceiling. The air here is different from the rest of the hideout — drier, faintly charged, like the air before a lightning strike. The smell of sewage doesn't reach this room.
 
@@ -20,10 +20,10 @@ In the center of the floor stands a stone pillar, roughly five feet tall and two
 
 **DC 16 Intelligence (History):** The guildsign on the pillar is Xanathar's personal mark, the lidless eye symbol used by the Xanathar Guild. This specific arrangement (circle, ten spokes, indentation at center) appears in accounts of Xanathar's lair architecture. The pillar was placed here deliberately, as a fixed transit point.
 
-### Arc F Seed
+### Xanathar's Lair Seed
 
-This room is the campaign's first physical connection to Xanathar's lair. When the party infiltrates the lair in Arc F, they will enter from the other side of this portal, arriving in X22, recognizing the transit architecture, and understanding that the pillar they examined in the sewers under Trollskull Alley is the same system they are now using. The party can't follow Nihiloor through in Arc A. By Arc F, they will have the means.
+This room is the campaign's first physical connection to Xanathar's lair. When the party infiltrates the lair in Xanathar's Lair, they will enter from the other side of this portal, arriving in X22, recognizing the transit architecture, and understanding that the pillar they examined in the sewers under Trollskull Alley is the same system they are now using. The party can't follow Nihiloor through in Finding Floon. By Xanathar's Lair, they will have the means.
 
 ### Xanathar Sewer Hideout Event
 
-During the **Xanathar Sewer Hideout** Event, Nihiloor uses it to escape. The party can't follow. Refer to the **Xanathar Sewer Hideout** Event for the full escape sequence and the implications for Arc F.
+During the **Xanathar Sewer Hideout** Event, Nihiloor uses it to escape. The party can't follow. Refer to the **Xanathar Sewer Hideout** Event for the full escape sequence and the implications for Xanathar's Lair.
