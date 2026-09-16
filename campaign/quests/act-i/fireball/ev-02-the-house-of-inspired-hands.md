@@ -1,4 +1,4 @@
-# The House of Inspired Hands
+﻿# The House of Inspired Hands
 
 > **[GM]**
 >
@@ -102,7 +102,7 @@ From ev-02 — all three are equivalent:
 Record whether any party member communicated with Nim directly in Common Sign Language, or whether the conversation went through Valetta's partial translation. Read by design-notes.md (Nim character moment documentation).
 
 #### Detector Obtained
-The party has the nimblewright detector. Required for ev-04. Read by ev-04.
+The party has the nimblewright detector. Required for ev-03. Read by ev-03.
 
 > **[GM]**
 >
@@ -112,7 +112,7 @@ The party has the nimblewright detector. Required for ev-04. Read by ev-04.
 >
 > #### Milestone: The House of Inspired Hands
 >
-> Completing this Event awards 1 Milestone Point. The party has identified the nimblewright as perpetrator and traced its origin to the House of Inspired Hands. This is the first of two Milestone Points in Arc C.
+> Completing this Event awards 1 Milestone Point. The party has identified the nimblewright as perpetrator and traced its origin to the House of Inspired Hands. This is the first of two Milestone Points in Fireball.
 
 ## Overview
 

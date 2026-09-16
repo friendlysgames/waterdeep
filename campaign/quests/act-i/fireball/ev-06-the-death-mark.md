@@ -1,4 +1,4 @@
-# The Death Mark
+﻿# The Death Mark
 
 > **[GM]**
 >
@@ -11,7 +11,7 @@
 > - Xanathar's death mark sits on the pillow — a warning left for a man who never came back.
 > - The Xanathar response team approaches afterward if the party enters; intelligence shared scales with how many days have elapsed.
 > - Four faction contacts react to the death mark with distinct intelligence fragments.
-> - Kalain's Letter is the delayed trigger for ev-08 — fires if the party left contact information with Myl Dunpier.
+> - Kalain's Letter is the delayed trigger for ev-07 — fires if the party left contact information with Myl Dunpier.
 >
 > **Trigger:** The party investigates Dalakhar's movements and tracks him to the Inn of the Dripping Dagger (DC 15 Charisma (Investigation) over a day's inquiry through inns and lodging houses in the Trades Ward, or a faction tip from Mirt or Jalester).
 
@@ -57,7 +57,7 @@ The team consists of two Guild members in civilian clothes. They probe what the 
 >
 > #### Using the Xanathar Team as a Clue Path
 >
-> If the party reached this event without having confirmed the Gralhund address through ev-04/05, the Xanathar team is a fourth path to the address: follow Floxin → Yellowspire safe house → Gralhund Villa. The team does not know they're providing this; they're trying to assess the party's intelligence.
+> If the party reached this event without having confirmed the Gralhund address through ev-03/04, the Xanathar team is a fourth path to the address: follow Floxin → Yellowspire safe house → Gralhund Villa. The team does not know they're providing this; they're trying to assess the party's intelligence.
 >
 > A party that already knows the Gralhund address gains nothing from this track beyond characterization of the Guild's operational sophistication.
 
@@ -86,21 +86,21 @@ The letter is personal — Kalain writes as if she and Dalakhar are resuming a c
 ### Concluding the Event
 
 #### Death Mark Discovered
-The party found and identified Xanathar's death mark. Record whether the identification check succeeded (symbol recognized as Xanathar's sigil). Read by faction contact reactions above and by ev-08 (Kalain's characterization of the intelligence landscape).
+The party found and identified Xanathar's death mark. Record whether the identification check succeeded (symbol recognized as Xanathar's sigil). Read by faction contact reactions above and by ev-07 (Kalain's characterization of the intelligence landscape).
 
 #### Xanathar Team Encountered
-Record whether the team made contact and what the party revealed. Read by Arc D/E (Xanathar faction awareness of the party's investigation depth).
+Record whether the team made contact and what the party revealed. Read by Gralhund Villa/E (Xanathar faction awareness of the party's investigation depth).
 
 #### Kalain's Letter: Received / Not Received
-Record whether the party left contact information with Myl Dunpier. If yes, the letter arrives Ches 26th. If no, it sits at the inn. Read by ev-08 trigger condition.
+Record whether the party left contact information with Myl Dunpier. If yes, the letter arrives Ches 26th. If no, it sits at the inn. Read by ev-07 trigger condition.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> If **Kalain's Letter: Received** and the party chooses to investigate — proceed to the **Kalain's Tower** Event (ev-08).
+> If **Kalain's Letter: Received** and the party chooses to investigate — proceed to the **Kalain's Tower** Event (ev-07).
 >
-> If the party is ready to commit to Gralhund Villa — proceed to **Arc D: Gralhund Villa**. The letter can be collected afterward if the party returns to the inn before Ches 28th.
+> If the party is ready to commit to Gralhund Villa — proceed to **Gralhund Villa: Gralhund Villa**. The letter can be collected afterward if the party returns to the inn before Ches 28th.
 
 ## Overview
 

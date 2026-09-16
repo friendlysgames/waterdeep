@@ -1,4 +1,4 @@
-# Design Notes: Fireball
+﻿# Design Notes: Fireball
 
 ## Investigation Architecture
 
@@ -6,13 +6,13 @@
 
 ***The Proactive Failsafe.*** If the party stalls after Scene 1 — no witnesses, no Arcana check, no Watch contact — Renaer arrives within two hours carrying Dalakhar's paper bird, delivering the gnome's name and a direct Stone pointer. A passive party receives the basic facts; a thorough party earns the nuance. The failsafe keeps the investigation moving without removing the incentive to investigate.
 
-## The Arc B Victim
+## The Trollskull Alley Victim
 
-***Arc B's Most Important Structural Output.*** Arc B's Milestone section contains a DM observation task: identify, based on table investment across seven scenes, the neighbor the players bonded with. That person is among the dead in ev-01. A fireball that kills eleven strangers is a plot event. A fireball that kills someone the party tried to warn, or hired, or saved once, or whose name came up in between-session speculation — that is the campaign's first genuine loss. It converts the investigation from a plot obligation into a personal imperative. The selection must be made before Arc C begins. This arc does not work if it is made on the fly.
+***Trollskull Alley's Most Important Structural Output.*** Trollskull Alley's Milestone section contains a DM observation task: identify, based on table investment across seven scenes, the neighbor the players bonded with. That person is among the dead in ev-01. A fireball that kills eleven strangers is a plot event. A fireball that kills someone the party tried to warn, or hired, or saved once, or whose name came up in between-session speculation — that is the campaign's first genuine loss. It converts the investigation from a plot obligation into a personal imperative. The selection must be made before Fireball begins. This arc does not work if it is made on the fly.
 
 ***Why the DM Chooses, Not the Players.*** Voting converts tragedy into mechanics. The choice belongs to the DM because it is based on observation — who did the players ask follow-up questions about, who became real through accumulated small moments, whose name appeared in table speculation without prompting. No structural design element can manufacture that. Only attention and time can.
 
-***The Fala Fallback.*** If Fala Lefaliir was the designated victim, Tally Fellbranch substitutes as the witness who saw Floxin flee north. The information is identical; the delivery changes. Do not use Fala for both roles — the DM's selection from Arc B is binding.
+***The Fala Fallback.*** If Fala Lefaliir was the designated victim, Tally Fellbranch substitutes as the witness who saw Floxin flee north. The information is identical; the delivery changes. Do not use Fala for both roles — the DM's selection from Trollskull Alley is binding.
 
 ## Why the Nimblewright Steals the Stone
 
@@ -20,13 +20,13 @@
 
 ***Floxin as Self-Serving Witness.*** His cooperation is not generosity. He wants the Stone tracked so the Zhentarim can follow. His account of the "metal man" is accurate because a false description produces a false lead and he needs the real one found. Parties that pass DC 14 Insight must decide what to do with a useful informant who is also a tail.
 
-## Scene-to-Event Split: Scene 3 → ev-03 + ev-04
+## Scene-to-Event Split: Scene 3 → ev-02 + ev-03
 
-Scene 3 in the source document covers both the House of Inspired Hands encounter (Nim, Valetta, detector) and the nine-owner elimination montage. These are separate dramatic modes: ev-03 is an encounter-dense temple visit requiring social navigation and a character moment; ev-04 is a city-scale montage requiring spatial thinking and ending at a decision point. Combining them produces a session with two incompatible rhythms. Split enables each to breathe.
+Scene 3 in the source document covers both the House of Inspired Hands encounter (Nim, Valetta, detector) and the nine-owner elimination montage. These are separate dramatic modes: ev-02 is an encounter-dense temple visit requiring social navigation and a character moment; ev-03 is a city-scale montage requiring spatial thinking and ending at a decision point. Combining them produces a session with two incompatible rhythms. Split enables each to breathe.
 
-## Scene-to-Event Split: Scene 6 → ev-07 + ev-08
+## Scene-to-Event Split: Scene 6 → ev-06 + ev-07
 
-Scene 6 in the source combines the Inn of the Dripping Dagger (the death mark investigation) with Kalain's Tower (the painter, the lockbox). These are not just separate locations — they have different tones, different entry conditions, different consequences, and one triggers the other through a delayed mechanism (Kalain's Letter). Combining them obscures the deliberate delay and the distinction between an intelligence/action scene (ev-07) and an emotional/exposition scene (ev-08).
+Scene 6 in the source combines the Inn of the Dripping Dagger (the death mark investigation) with Kalain's Tower (the painter, the lockbox). These are not just separate locations — they have different tones, different entry conditions, different consequences, and one triggers the other through a delayed mechanism (Kalain's Letter). Combining them obscures the deliberate delay and the distinction between an intelligence/action scene (ev-06) and an emotional/exposition scene (ev-07).
 
 ## Nim's CSL Moment
 
@@ -46,16 +46,16 @@ Scene 6 in the source combines the Inn of the Dripping Dagger (the death mark in
 
 ## The Cassalanter Dinner
 
-***Bridging Arc B to Arc G.*** The original campaign places the Cassalanters as Arc B patrons and then drops them entirely until the Arc G heist, with no intervening contact. The dinner scene solves this pacing problem: it delivers the first approach with an agenda (Victoro at the table, not just Ammalia) while revealing nothing premature — no infernal pact, no children, no Asmodeus. The party's response becomes the Cassalanters' operational picture for Arc G. Four response tracks produce four distinct starting states for the Arc G infiltration.
+***Bridging Trollskull Alley to Cassalanter Villa.*** The original campaign places the Cassalanters as Trollskull Alley patrons and then drops them entirely until the Cassalanter Villa heist, with no intervening contact. The dinner scene solves this pacing problem: it delivers the first approach with an agenda (Victoro at the table, not just Ammalia) while revealing nothing premature — no infernal pact, no children, no Asmodeus. The party's response becomes the Cassalanters' operational picture for Cassalanter Villa. Four response tracks produce four distinct starting states for the Cassalanter Villa infiltration.
 
-***Ammalia Is Not Performing.*** Her warmth is established behavior from Arc B and is not a deception. The design temptation is to make warm NPCs secretly cold and cold NPCs secretly warm — this undermines the party's ability to read the room. Ammalia is genuinely warm and that warmth is a negotiating position because she possesses it, not because she is manufacturing it. These are different things, and playing the distinction correctly changes the dinner's texture.
+***Ammalia Is Not Performing.*** Her warmth is established behavior from Trollskull Alley and is not a deception. The design temptation is to make warm NPCs secretly cold and cold NPCs secretly warm — this undermines the party's ability to read the room. Ammalia is genuinely warm and that warmth is a negotiating position because she possesses it, not because she is manufacturing it. These are different things, and playing the distinction correctly changes the dinner's texture.
 
 ## Backtracking Dalakhar as Reward for Thoroughness
 
-***Non-Essential, Consequential.*** ev-07 and ev-08 cannot block the party's path to Gralhund Villa. But a party that pursues them gains: the death mark (characterization of the Xanathar Guild's sophistication), the Cassalanter-to-vault link through Kalain's account of Victoro's visit, the vault-opening method, and the unsigned Eyes letter confirming Neverember's deliberate separation of Stone and Eyes. These are among the most consequential intelligence finds in the campaign, gated behind exactly the investigative habits this arc tries to build: exhaustive canvassing, leaving contact information, following up on letters addressed to dead men.
+***Non-Essential, Consequential.*** ev-06 and ev-07 cannot block the party's path to Gralhund Villa. But a party that pursues them gains: the death mark (characterization of the Xanathar Guild's sophistication), the Cassalanter-to-vault link through Kalain's account of Victoro's visit, the vault-opening method, and the unsigned Eyes letter confirming Neverember's deliberate separation of Stone and Eyes. These are among the most consequential intelligence finds in the campaign, gated behind exactly the investigative habits this arc tries to build: exhaustive canvassing, leaving contact information, following up on letters addressed to dead men.
 
 ***Kalain as Emotional Register.*** Kalain's tower is a site of elegiac loss — a person who was broken by someone who did not notice breaking her. The party should not feel they have won something by finding the lockbox. The information gain is high; the emotional experience should be difficult. A scene where both are true is the correct delivery method for this material.
 
 ## Faction Visibility
 
-***The First Arc Where All Four Villain Factions Pursue the Same Object.*** Arc A establishes the Guild and the Zhentarim as adversaries. Arc B introduces the Cassalanters as patrons and BD as observers. Arc C is the first arc where all four reach for the same object at the same time in the same city. The design makes this concrete: Xanathar gazers in the alley, Zhent parallel investigation, BD conditional observers, Cassalanter condolence note and dinner invitation. These are not flavor — they are the Grand Game becoming visible for the first time.
+***The First Arc Where All Four Villain Factions Pursue the Same Object.*** Finding Floon establishes the Guild and the Zhentarim as adversaries. Trollskull Alley introduces the Cassalanters as patrons and BD as observers. Fireball is the first arc where all four reach for the same object at the same time in the same city. The design makes this concrete: Xanathar gazers in the alley, Zhent parallel investigation, BD conditional observers, Cassalanter condolence note and dinner invitation. These are not flavor — they are the Grand Game becoming visible for the first time.

@@ -1,10 +1,10 @@
-# Arc C: Fireball!
+﻿# Fireball: Fireball!
 
 > **[GM]**
 >
 > #### Quest Requirements
 >
-> Arc B complete. The DM's observation task from Arc B Scene 3 is resolved — the Arc B victim has been designated by name before this arc begins. The party is established at Trollskull Manor and has at least one active faction contact.
+> Trollskull Alley complete. The DM's observation task from Trollskull Alley Scene 3 is resolved — the Trollskull Alley victim has been designated by name before this arc begins. The party is established at Trollskull Manor and has at least one active faction contact.
 >
 > #### Difficulty
 >
@@ -12,21 +12,21 @@
 >
 > #### Milestone Overview
 >
-> Arc C awards 2 Milestone Points total.
+> Fireball awards 2 Milestone Points total.
 >
 > | Milestone | Event | Points |
 > |---|---|---|
-> | Nimblewright identified; traced to the House of Inspired Hands | ev-03 | 1 |
-> | Gralhund Villa confirmed as the Stone's location | ev-04 | 1 |
+> | Nimblewright identified; traced to the House of Inspired Hands | ev-02 | 1 |
+> | Gralhund Villa confirmed as the Stone's location | ev-03 | 1 |
 >
-> Level 4 is reached in Arc D, not here. These two points contribute toward the 4-point threshold.
+> Level 4 is reached in Gralhund Villa, not here. These two points contribute toward the 4-point threshold.
 
 ## Involved Characters
 
 - **Barnibus Blastwind** (City Watch / Watchful Order) — forensic investigator who takes charge of the crime scene; precise, private, will share conclusions only under pressure
 - **Saeth Cromley** (City Watch) — sergeant directing constable canvass; has nothing to share and does not try
 - **Urstul Floxin** (Manshoon's Zhentarim) — Zhent field commander; survived the blast; gives his real name; wants the party to track the Stone so his cell can follow
-- **Fala Lefaliir** (neighbor, Trollskull Alley) — greenhouse proprietor; watched the burned man flee north; substituted by Tally Fellbranch if she was the Arc B victim
+- **Fala Lefaliir** (neighbor, Trollskull Alley) — greenhouse proprietor; watched the burned man flee north; substituted by Tally Fellbranch if she was the Trollskull Alley victim
 - **Jezrynne Hornraven** (North Ward noble) — saw the nimblewright on the cooperage roof from outside the Tiger's Eye
 - **Martem Trec** (Trollskull Alley resident) — twelve years old; hiding at the rain barrel; has the *necklace of fireballs*; witnessed the musicians die
 - **Vincent Trench / "The Rake"** (Tiger's Eye) — private investigator; is a rakshasa; shares limited accurate intelligence; withholds that he recognized the construct immediately
@@ -40,7 +40,7 @@
 - **Kalain** (Kalain's Tower, near harbor) — half-elf painter; former companion of Lord Dagult Neverember; paranoid, fragmented; has papers that constitute some of the most valuable intelligence in the campaign
 - **Ammalia Cassalanter** (Cassalanter Villa) — warm, attentive; sends the dinner invitation; is not performing; is forming an opinion
 - **Victoro Cassalanter** (Cassalanter Villa) — patient, precise; wants to be "in the room"; does not reveal the infernal pact, the children, or Asmodeus
-- **Davil Starsong** (Doom Raiders, player faction contact) — free during Arc C; arrested in the Watch's post-Gralhund crackdown after Arc D; suspects Floxin filed the Watch tip naming the Doom Raiders as persons of interest
+- **Davil Starsong** (Doom Raiders, player faction contact) — free during Fireball; arrested in the Watch's post-Gralhund crackdown after Gralhund Villa; suspects Floxin filed the Watch tip naming the Doom Raiders as persons of interest
 - **Dalakhar** (deceased) — rock gnome spy; Neverember's agent; can answer five questions via *Speak with Dead* for five days after the blast
 - **Bashekk Ortallis / Wern Malkrave** (deceased) — two dead Zhentarim; can answer five questions each via *Speak with Dead*
 
@@ -48,7 +48,7 @@
 
 - **Xanathar's death-mark team** (Scene 6 optional): intelligence probe at the Inn of the Dripping Dagger; probes what the party knows; does not fight unless cornered
 - **Nim's animated paintings** (Kalain's Tower, optional): creatures animated from Kalain's monster paintings; hostile if she accuses the party of working for Neverember; the smaller paintings (cats, fruit bowls, quiet landscapes) animate as cooperative fetch-helpers
-- **Faction response team observers**: all four villain factions watch the investigation from the first day; none engage directly during Arc C unless the party takes aggressive action at the Faire
+- **Faction response team observers**: all four villain factions watch the investigation from the first day; none engage directly during Fireball unless the party takes aggressive action at the Faire
 
 ## Overview
 
@@ -58,4 +58,4 @@ Three paths converged on the same conclusion. The crime scene's Arcana trace pla
 
 The House of Inspired Hands held a nimblewright of its own, built three months before the blast, and the detector device never used to find the runaway that fled a month later. Nine sweeps across four wards cleared every legitimate owner and left two signals standing: the harbor, where the Sea Maidens Faire's three ships lit the detector like a chandelier, and the North Ward, where a single reading on Saerdoun Street spun the device harder than anything else in the city. The Faire turned out to be a detour with an intelligence yield — the nimblewright's seller, its original buyer, a ledger that named the Gralhunds, and Jarlaxle Baenre behind the Zord persona. The detector's final reading pointed to a gated estate in the North Ward.
 
-The Stone of Golorr is at Gralhund Villa. Urstul Floxin's strike team arrives on the night of Ches 24th. The investigation ends at a locked gate. What happens when the party goes through it is Arc D.
+The Stone of Golorr is at Gralhund Villa. Urstul Floxin's strike team arrives on the night of Ches 24th. The investigation ends at a locked gate. What happens when the party goes through it is Gralhund Villa.

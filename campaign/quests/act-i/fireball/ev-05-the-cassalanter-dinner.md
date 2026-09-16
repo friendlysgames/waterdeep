@@ -1,4 +1,4 @@
-# The Cassalanter Dinner
+﻿# The Cassalanter Dinner
 
 > **[GM]**
 >
@@ -8,12 +8,12 @@
 >
 > - Ammalia is warm, attentive, and genuine; she is not performing.
 > - Victoro makes a calibrated pitch after the first course — he wants to be "in the room."
-> - The party's response (four tracks) shapes the Cassalanter operational picture entering Arc G.
+> - The party's response (four tracks) shapes the Cassalanter operational picture entering Cassalanter Villa.
 > - No infernal pact, children, or Asmodeus are mentioned. This is not the conversation for those.
 >
 > **Trigger:** The party accepts Ammalia's invitation. The invitation arrives by messenger within one day of the fireball. The dinner takes place the following evening.
 >
-> **Attunement read:** Ammalia Cassalanter Met *(from Arc B ev-06)* — if this is set, Ammalia references specific details from that visit. If not, she introduces herself warmly but without prior context.
+> **Attunement read:** Ammalia Cassalanter Met *(from Trollskull Alley ev-06)* — if this is set, Ammalia references specific details from that visit. If not, she introduces herself warmly but without prior context.
 >
 > For the villa layout, see the **Cassalanter Villa** journal.
 
@@ -27,7 +27,7 @@ The villa sits in the Sea Ward behind an iron gate and a garden whose topiary ha
 
 ### Ammalia at the Table
 
-She remembers every detail the party mentioned during Arc B — neighborhood politics, the state of the tavern, small personal observations the party may have already forgotten — and asks after them with genuine interest. She is not performing warmth; she possesses it in excess and deploys it without calculation.
+She remembers every detail the party mentioned during Trollskull Alley — neighborhood politics, the state of the tavern, small personal observations the party may have already forgotten — and asks after them with genuine interest. She is not performing warmth; she possesses it in excess and deploys it without calculation.
 
 **DC 14 Wisdom (Insight):** She is watching to see how the party handles kindness, not suspicion. She is forming an opinion. The result of that opinion is Victoro's problem. A failed check produces no false read — the DM does not say she seems deceptive. She simply seems warm.
 
@@ -51,44 +51,44 @@ He does not name the *Stone of Golorr*. He does not ask for the Stone. He asks t
 
 The party shares what they found: the crime scene, the nimblewright, the sweep, the Gralhund name.
 
-**Consequence:** The Cassalanters learn where the investigation points. Victoro updates his operational picture. Entering Arc G, he knows what the party found at Gralhund Villa and what they did there. Cassalanter response teams are positioned accordingly. Ammalia thanks them warmly. Victoro follows up within two days with a sealed letter summarizing what the Cassalanters have learned — no vault specifics; he is not foolish. The alliance track in Arc G opens.
+**Consequence:** The Cassalanters learn where the investigation points. Victoro updates his operational picture. Entering Cassalanter Villa, he knows what the party found at Gralhund Villa and what they did there. Cassalanter response teams are positioned accordingly. Ammalia thanks them warmly. Victoro follows up within two days with a sealed letter summarizing what the Cassalanters have learned — no vault specifics; he is not foolish. The alliance track in Cassalanter Villa opens.
 
 #### Track B — Deflecting
 
 The party shares nothing specific — polite misdirection, vague acknowledgment, or an honest "we're still investigating."
 
-**Consequence:** Victoro notes the restraint and interprets it as operational caution — a quality he respects. He does not press. He says: "Of course. We'll be available, when the time comes." Entering Arc G, the party is treated as capable but unaligned. Neither warmth nor frost.
+**Consequence:** Victoro notes the restraint and interprets it as operational caution — a quality he respects. He does not press. He says: "Of course. We'll be available, when the time comes." Entering Cassalanter Villa, the party is treated as capable but unaligned. Neither warmth nor frost.
 
 #### Track C — Accepting the Arrangement Outright
 
 The party agrees to Victoro's terms — they'll tell him when they find the Stone.
 
-**Consequence:** Same as Track A's follow-up letter, but Victoro's subsequent communication is more specific: he names the vault as "Lord Dagult's Melairkyn project" without elaboration, which confirms the party's prior knowledge if they visited Kalain. Entering Arc G, the party has a document trail and a prior relationship. The alliance track opens with one step already taken.
+**Consequence:** Same as Track A's follow-up letter, but Victoro's subsequent communication is more specific: he names the vault as "Lord Dagult's Melairkyn project" without elaboration, which confirms the party's prior knowledge if they visited Kalain. Entering Cassalanter Villa, the party has a document trail and a prior relationship. The alliance track opens with one step already taken.
 
 #### Track D — Refusing or Treating the Dinner as Hostile
 
 The party declines outright, accuses the Cassalanters of involvement, or leaves early.
 
-**Consequence:** Ammalia does not change expression. Victoro sees them out personally and thanks them for coming. Entering Arc G, the party is a complication rather than an asset. Cassalanter response teams in Arc G are briefed to watch them as unknown-hostile rather than unknown-neutral.
+**Consequence:** Ammalia does not change expression. Victoro sees them out personally and thanks them for coming. Entering Cassalanter Villa, the party is a complication rather than an asset. Cassalanter response teams in Cassalanter Villa are briefed to watch them as unknown-hostile rather than unknown-neutral.
 
 ### Concluding the Event
 
 #### Cassalanter Response: Track (A / B / C / D)
 
-Record which response track the party took. Read by Arc G (Cassalanter operational posture; alliance track availability; response team briefing).
+Record which response track the party took. Read by Cassalanter Villa (Cassalanter operational posture; alliance track availability; response team briefing).
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> This event has no narrative successor inside Arc C — it is a standalone optional scene available throughout the investigation window. After the dinner, the party returns to the investigation. If they have not yet visited the Faire (ev-05) or confirmed the Gralhund address (ev-04), those continue normally.
+> This event has no narrative successor inside Fireball — it is a standalone optional scene available throughout the investigation window. After the dinner, the party returns to the investigation. If they have not yet visited the Faire (ev-04) or confirmed the Gralhund address (ev-03), those continue normally.
 >
-> When the party commits to entering Gralhund Villa, proceed to **Arc D: Gralhund Villa**. The Cassalanter dinner result is read at the start of Arc G.
+> When the party commits to entering Gralhund Villa, proceed to **Gralhund Villa: Gralhund Villa**. The Cassalanter dinner result is read at the start of Cassalanter Villa.
 
 ## Overview
 
-The Cassalanters invited the party to dinner at their Sea Ward villa. Ammalia was warm, Victoro was precise, and the pitch was simple: tell them when you find the Stone. The party's response will define the Cassalanters' operational posture when Arc G begins.
+The Cassalanters invited the party to dinner at their Sea Ward villa. Ammalia was warm, Victoro was precise, and the pitch was simple: tell them when you find the Stone. The party's response will define the Cassalanters' operational posture when Cassalanter Villa begins.
 
 ## Summary
 
-Ammalia Cassalanter's dinner invitation brought the party to the villa on the evening after the fireball. Victoro acknowledged the "historical significance" of what Dalakhar was carrying and offered to share research in exchange for a first conversation when the Stone was found. The party's response determined whether the Cassalanters entered Arc G as allies, neutrals, or adversaries.
+Ammalia Cassalanter's dinner invitation brought the party to the villa on the evening after the fireball. Victoro acknowledged the "historical significance" of what Dalakhar was carrying and offered to share research in exchange for a first conversation when the Stone was found. The party's response determined whether the Cassalanters entered Cassalanter Villa as allies, neutrals, or adversaries.

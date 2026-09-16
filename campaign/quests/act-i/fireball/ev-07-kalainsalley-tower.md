@@ -1,4 +1,4 @@
-# Kalain's Tower
+﻿# Kalain's Tower
 
 > **[GM]**
 >
@@ -12,7 +12,7 @@
 > - She reveals Victoro Cassalanter's recent visit — the first concrete Cassalanter-to-vault link.
 > - Lord Dagult's lockbox contains four items that together constitute some of the most valuable intelligence in the campaign.
 >
-> **Trigger:** The party has Kalain's letter (Kalain's Letter: Received from ev-07) and chooses to follow the address, OR the party visits the harbor district and hears about a reclusive painter who knew Neverember from an NPC referral.
+> **Trigger:** The party has Kalain's letter (Kalain's Letter: Received from ev-06) and chooses to follow the address, OR the party visits the harbor district and hears about a reclusive painter who knew Neverember from an NPC referral.
 
 ### Kalain's Tower
 
@@ -44,9 +44,9 @@ What she knows — and will eventually share, in pieces, without prompting:
 >
 > #### The Cassalanter Link
 >
-> This is the first concrete in-campaign evidence that Victoro has been actively investigating the vault independently — not just in response to the fireball but for weeks prior. It confirms the dinner conversation's implication and explains why his intelligence is unusually specific. Cross-ref Arc G: Victoro's research dossier.
+> This is the first concrete in-campaign evidence that Victoro has been actively investigating the vault independently — not just in response to the fireball but for weeks prior. It confirms the dinner conversation's implication and explains why his intelligence is unusually specific. Cross-ref Cassalanter Villa: Victoro's research dossier.
 >
-> A party that received Track C or Track A from ev-06 (Cassalanter dinner) will recognize this as confirming what they already knew. A party that skipped ev-06 gains the Cassalanter connection here for the first time.
+> A party that received Track C or Track A from ev-05 (Cassalanter dinner) will recognize this as confirming what they already knew. A party that skipped ev-05 gains the Cassalanter connection here for the first time.
 
 **DC 12 Charisma (Persuasion) — accessing the lockbox:** After the Cassalanter revelation, if the party asks about the papers Cassalanter was asking about, Kalain gestures toward a writing table in the corner without much concern. The lockbox is there. **DC 13 Dexterity (Thieves' Tools)** to open it; Kalain has the key and hands it over if asked and if the DC 14 check succeeded earlier.
 
@@ -54,13 +54,13 @@ What she knows — and will eventually share, in pieces, without prompting:
 
 The lockbox contains correspondence Kalain kept without fully understanding why. Four documents:
 
-**1. Neverember's crossed-out task list.** A page of notes in a cramped, efficient hand, most items struck through. One entry near the bottom is unfinished: *"move the dragon to the Melairkyn ceremonial vault."* The entry was never struck out. Pays off in Arc J: the dragon is Aurinax.
+**1. Neverember's crossed-out task list.** A page of notes in a cramped, efficient hand, most items struck through. One entry near the bottom is unfinished: *"move the dragon to the Melairkyn ceremonial vault."* The entry was never struck out. Pays off in Vault of Dragons: the dragon is Aurinax.
 
 **2. Kraddoc correspondence.** Letters to Hammond Kraddoc of the Vintners', Distillers', and Brewers' Guild confirming large bribes paid to cover a contaminated-liquor scandal in the Dock Ward. Neverember's private leverage over the Guild. Not directly relevant to the Stone but potentially useful for a party building political assets.
 
-**3. Melairkyn notes.** Research notes on the Melairkyn dwarves and their cult of Dumathoin. Most are fragments — partial citations, library call numbers, observations about the Vault of Dragons as a Dumathoin ceremonial site. One section is complete and explicit: *"A ceremonial vault can be opened by standing before Dumathoin's doors and striking the scale of a dragon with a mithral hammer in the place where the sun's light should fall."* The vault-opening method, written in Neverember's hand. Pays off in Arc J.
+**3. Melairkyn notes.** Research notes on the Melairkyn dwarves and their cult of Dumathoin. Most are fragments — partial citations, library call numbers, observations about the Vault of Dragons as a Dumathoin ceremonial site. One section is complete and explicit: *"A ceremonial vault can be opened by standing before Dumathoin's doors and striking the scale of a dragon with a mithral hammer in the place where the sun's light should fall."* The vault-opening method, written in Neverember's hand. Pays off in Vault of Dragons.
 
-**4. The unsigned Eyes letter.** Dated four years ago, in a different hand: *"The last of the three Eyes has been secured."* No signature. No context. The implication: all three Eyes were in Neverember's hands four years ago, and he deliberately separated them from the Stone. A party that has been tracking the Eye count will recognize the significance immediately. Pays off in Arc J: confirms the separation was intentional, not a consequence of theft.
+**4. The unsigned Eyes letter.** Dated four years ago, in a different hand: *"The last of the three Eyes has been secured."* No signature. No context. The implication: all three Eyes were in Neverember's hands four years ago, and he deliberately separated them from the Stone. A party that has been tracking the Eye count will recognize the significance immediately. Pays off in Vault of Dragons: confirms the separation was intentional, not a consequence of theft.
 
 ### Tone Note
 
@@ -69,18 +69,18 @@ The lockbox contains some of the most consequential intelligence in the entire c
 ### Concluding the Event
 
 #### Vault-Opening Method Known
-The party has the Melairkyn notes: dragon scale + mithral hammer + sunlight = vault opens. Read by Arc J (ceremonial opening sequence, Scene 3).
+The party has the Melairkyn notes: dragon scale + mithral hammer + sunlight = vault opens. Read by Vault of Dragons (ceremonial opening sequence, Scene 3).
 
 #### Eyes Letter Found
-The party has the unsigned letter confirming Neverember held all three Eyes four years ago. Read by Arc J (Vault of Dragons: the Full Awakening scene, confirming the deliberate separation).
+The party has the unsigned letter confirming Neverember held all three Eyes four years ago. Read by Vault of Dragons (Vault of Dragons: the Full Awakening scene, confirming the deliberate separation).
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> This event has no narrative successor inside Arc C. After visiting Kalain's tower, the party returns to the investigation. If they have not yet committed to Gralhund Villa — proceed to **Arc D: Gralhund Villa** when ready.
+> This event has no narrative successor inside Fireball. After visiting Kalain's tower, the party returns to the investigation. If they have not yet committed to Gralhund Villa — proceed to **Gralhund Villa: Gralhund Villa** when ready.
 >
-> The Dalakhar Papers (vault-opening method + Eyes letter) are read at Arc J, not before. Do not treat them as immediately actionable — the party cannot use the vault-opening method until they have the Stone, the Eyes, and the Brandath Crypts access.
+> The Dalakhar Papers (vault-opening method + Eyes letter) are read at Vault of Dragons, not before. Do not treat them as immediately actionable — the party cannot use the vault-opening method until they have the Stone, the Eyes, and the Brandath Crypts access.
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# The Sea Maidens Faire
+﻿# The Sea Maidens Faire
 
 > **[GM]**
 >
@@ -8,10 +8,10 @@
 >
 > - Multiple nimblewright signals overwhelm the detector — the Gralhund unit is not isolatable here.
 > - Three independent paths reach the same conclusion: the Gralhunds are the target.
-> - Each path has distinct consequences for Jarlaxle's deployment in Arc D.
+> - Each path has distinct consequences for Jarlaxle's deployment in Gralhund Villa.
 > - The BD character track gives any Bregan D'Aerthe party member a private meeting with Jarlaxle.
 >
-> **Trigger:** Faire: Visited First attunement (from ev-04).
+> **Trigger:** Faire: Visited First attunement (from ev-03).
 >
 > For the full ship and fleet layout, see the **Sea Maidens Faire** journal.
 
@@ -31,7 +31,7 @@ Zord is Jarlaxle Baenre. He does not advertise this. The persona is impeccable �
 
 **What he knows:** The Gralhund nimblewright's buyer identity, the Stone's trajectory through the Grand Game, and the Eyecatcher's crystal ball's recorded footage of the murder. He is sharing none of this by default.
 
-A party that attended the Field of Triumph (Arc B) recognizes the private-box figure. DC 16 Intelligence (History) without the prior encounter to identify "Captain Zord" as someone whose wealth and operational reach exceeds what a carnival ship captain should have.
+A party that attended the Field of Triumph (Trollskull Alley) recognizes the private-box figure. DC 16 Intelligence (History) without the prior encounter to identify "Captain Zord" as someone whose wealth and operational reach exceeds what a carnival ship captain should have.
 
 ### Three Independent Paths to the Gralhund Connection
 
@@ -39,7 +39,7 @@ A party that attended the Field of Triumph (Arc B) recognizes the private-box fi
 
 After pleasantries and a read of the party's investigation state, Zord excuses himself briefly. He returns with the Gralhund name, address, and the note that their nimblewright had "combat programming — unusual for a household model." He offers this freely.
 
-**Consequence:** The party has told Jarlaxle everything he needs to know. He deploys Bregan D'Aerthe agents to Gralhund Villa before the party arrives. Cross-ref Arc D: Jarlaxle Pre-Positioned attuement.
+**Consequence:** The party has told Jarlaxle everything he needs to know. He deploys Bregan D'Aerthe agents to Gralhund Villa before the party arrives. Cross-ref Gralhund Villa: Jarlaxle Pre-Positioned attuement.
 
 #### Path 2 — Steal Jarlaxle's Records (Difficult, Preserves Secrecy)
 
@@ -71,7 +71,7 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 
 **Operating the crystal ball:** DC 15 Intelligence (Arcana) to activate without an attunement slot spent. Provides recorded footage — visual-only, no audio — of the morning of Ches 22nd: a small figure (Dalakhar) running through the alley, the nimblewright dropping from the cooperage roof, the fireball, the nimblewright rifling the body, the Stone removed, the construct fleeing east. Definitive evidence of both the nimblewright's identity and the Stone's fate.
 
-**Consequence:** Jarlaxle discovers the submersible was accessed within 24 hours. He is impressed rather than angry. He is curious who can find a submersible he considers invisible. He does not deploy to Gralhund Villa — this party does not need his help and should not get it without asking. Cross-ref Arc H: the *Scarlet Marpenoth* as a high-value intelligence and infiltration asset.
+**Consequence:** Jarlaxle discovers the submersible was accessed within 24 hours. He is impressed rather than angry. He is curious who can find a submersible he considers invisible. He does not deploy to Gralhund Villa — this party does not need his help and should not get it without asking. Cross-ref Sea Maidens Faire: the *Scarlet Marpenoth* as a high-value intelligence and infiltration asset.
 
 ### The Ledger — Partial and Complete
 
@@ -95,7 +95,7 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 
 **Critical entry:** NW-02, O. Gralhund, Saerdoun Street, North Ward. The investigative payoff.
 
-**Notable entry:** NW-03, V. Cassalanter, Cassalanter Villa, Sea Ward — VOID. Notation: "Buyer withdrew — unspecified concerns re: detection." Victoro Cassalanter suspected the nimblewrights might contain surveillance devices. He was correct. The clairvoyance crystal reference numbers in the ledger are the key: each purchased nimblewright has a corresponding crystal recording what it witnesses. Victoro pulled his order when he worked this out. The Crystal Ball at the *Marpenoth* proves the point. This pays off in Arc G.
+**Notable entry:** NW-03, V. Cassalanter, Cassalanter Villa, Sea Ward — VOID. Notation: "Buyer withdrew — unspecified concerns re: detection." Victoro Cassalanter suspected the nimblewrights might contain surveillance devices. He was correct. The clairvoyance crystal reference numbers in the ledger are the key: each purchased nimblewright has a corresponding crystal recording what it witnesses. Victoro pulled his order when he worked this out. The Crystal Ball at the *Marpenoth* proves the point. This pays off in Cassalanter Villa.
 
 > **[GM]**
 >
@@ -121,15 +121,15 @@ Record which path the party used to reach the Gralhund connection:
 - **Ledger Stolen (Eyecatcher):** Complete ledger obtained; Jarlaxle discovers theft within 24 hours; does not deploy.
 - **Crystal Ball Accessed:** Maximum intelligence (crystal ball footage); Jarlaxle discovers access; does not deploy; is curious about who found the sub.
 
-Read by Arc D (Jarlaxle pre-positioning; faction interaction matrix).
+Read by Gralhund Villa (Jarlaxle pre-positioning; faction interaction matrix).
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> Proceed to **Arc D: Gralhund Villa** after this event. The party now has the Gralhund name, address, and a window that is closing — Floxin's strike team arrives on Ches 24th at nightfall.
+> Proceed to **Gralhund Villa: Gralhund Villa** after this event. The party now has the Gralhund name, address, and a window that is closing — Floxin's strike team arrives on Ches 24th at nightfall.
 >
-> The Cassalanter dinner (ev-06) and the Dalakhar backtrack (ev-07, ev-08) remain available before the party commits to entering the estate. Arc D's first beat covers the decision window.
+> The Cassalanter dinner (ev-05) and the Dalakhar backtrack (ev-06, ev-07) remain available before the party commits to entering the estate. Gralhund Villa's first beat covers the decision window.
 
 ## Overview
 
@@ -137,4 +137,4 @@ The Sea Maidens Faire's fleet carried multiple nimblewright signals — the Gral
 
 ## Summary
 
-The Sea Maidens Faire investigation identified Jarlaxle Baenre as the nimblewright's seller and confirmed NW-02 as the Gralhund purchase. The complete or partial ledger, a direct request to Zord, or footage from the *Scarlet Marpenoth*'s crystal ball each reached the same address: Saerdoun Street, North Ward. The Cassalanter entry — voided before delivery — planted a question that pays off in Arc G.
+The Sea Maidens Faire investigation identified Jarlaxle Baenre as the nimblewright's seller and confirmed NW-02 as the Gralhund purchase. The complete or partial ledger, a direct request to Zord, or footage from the *Scarlet Marpenoth*'s crystal ball each reached the same address: Saerdoun Street, North Ward. The Cassalanter entry — voided before delivery — planted a question that pays off in Cassalanter Villa.

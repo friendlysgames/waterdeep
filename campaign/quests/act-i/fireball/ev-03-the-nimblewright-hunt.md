@@ -1,4 +1,4 @@
-# The Nimblewright Hunt
+﻿# The Nimblewright Hunt
 
 > **[GM]**
 >
@@ -9,12 +9,12 @@
 > - Nine owners are visited across four wards; seven are cleared quickly by the detector.
 > - Two signals remain after the sweep: the Sea Maidens Faire (harbor) and Gralhund Estate (North Ward, strongest signal).
 > - The party chooses whether to investigate the Faire first or proceed directly to Gralhund Villa.
-> - Going directly to Gralhund Villa is a valid choice — it transitions immediately to Arc D.
-> - Going to the Faire first leads to ev-05 and intelligence that changes the Gralhund approach.
+> - Going directly to Gralhund Villa is a valid choice — it transitions immediately to Gralhund Villa.
+> - Going to the Faire first leads to ev-04 and intelligence that changes the Gralhund approach.
 >
-> **Trigger:** The party has the nimblewright detector (Detector Obtained attunement, from ev-03).
+> **Trigger:** The party has the nimblewright detector (Detector Obtained attunement, from ev-02).
 >
-> **Attunement read:** Renaer Contact: Gralhund Villa Named — if this is set (from ev-02), the party already knows Gralhund Villa is the destination before the sweep begins. The sweep confirms and narrows.
+> **Attunement read:** Renaer Contact: Gralhund Villa Named — if this is set (from ev-01), the party already knows Gralhund Villa is the destination before the sweep begins. The sweep confirms and narrows.
 
 ### The Elimination Montage
 
@@ -51,7 +51,7 @@ When the party sweeps the Dock Ward, the detector whirs before they reach the No
 
 Three ships: *Heartbreaker* and *Hellraiser* (docked galleons, painted crimson and gold, flying Faire pennants at a pier in the Dock Ward) and the *Eyecatcher* (anchored a quarter-mile out in Deepwater Harbor). Painted carnival stalls and bright canvas awnings fill the pier between the docked ships.
 
-The Gralhund nimblewright is not here. The party will find this out if they investigate — the detector cannot isolate the Gralhund unit from the fleet's multiple signals. But the investigation is not wasted. The intelligence yield at the Faire (the ledger, Jarlaxle's identity, the nimblewright network) pays off throughout the rest of Arc C, Arc D, and Arc H.
+The Gralhund nimblewright is not here. The party will find this out if they investigate — the detector cannot isolate the Gralhund unit from the fleet's multiple signals. But the investigation is not wasted. The intelligence yield at the Faire (the ledger, Jarlaxle's identity, the nimblewright network) pays off throughout the rest of Fireball, Gralhund Villa, and Sea Maidens Faire.
 
 ### Decision Point
 
@@ -60,9 +60,9 @@ After the sweep, two locations produce strong unresolved readings:
 - **Sea Maidens Faire** (harbor, Dock Ward): Multiple signals; could not isolate the Gralhund unit; Jarlaxle's ships.
 - **Gralhund Estate** (Saerdoun Street, North Ward): Strongest single signal outside the Faire; guards refused entry.
 
-**Option A — Faire First:** The party investigates the Sea Maidens Faire before proceeding to Gralhund Villa. Leads to ev-05. Intelligence gained changes the tactical picture for Arc D.
+**Option A — Faire First:** The party investigates the Sea Maidens Faire before proceeding to Gralhund Villa. Leads to ev-04. Intelligence gained changes the tactical picture for Gralhund Villa.
 
-**Option B — Direct to Gralhund Villa:** The party skips the Faire and goes directly to Gralhund Villa. This is a valid choice. Transition to Arc D immediately — the party knows the address, knows the Stone is there, and moves. Jarlaxle does not pre-position BD agents at the estate because the party never gave him reason to.
+**Option B — Direct to Gralhund Villa:** The party skips the Faire and goes directly to Gralhund Villa. This is a valid choice. Transition to Gralhund Villa immediately — the party knows the address, knows the Stone is there, and moves. Jarlaxle does not pre-position BD agents at the estate because the party never gave him reason to.
 
 > **[GM]**
 >
@@ -73,10 +73,10 @@ After the sweep, two locations produce strong unresolved readings:
 ### Concluding the Event
 
 #### Gralhund Villa Located
-The party has confirmed Gralhund Estate on Saerdoun Street, North Ward as the strongest nimblewright signal in the city. The Stone of Golorr is there. Read by Arc D entry conditions.
+The party has confirmed Gralhund Estate on Saerdoun Street, North Ward as the strongest nimblewright signal in the city. The Stone of Golorr is there. Read by Gralhund Villa entry conditions.
 
 #### Faire: Visited First / Skipped
-Record whether the party chose to investigate the Sea Maidens Faire before proceeding to Gralhund Villa. Read by ev-05 (conditional event trigger) and Arc D (Jarlaxle pre-positioning).
+Record whether the party chose to investigate the Sea Maidens Faire before proceeding to Gralhund Villa. Read by ev-04 (conditional event trigger) and Gralhund Villa (Jarlaxle pre-positioning).
 
 > **[GM]**
 >
@@ -84,11 +84,11 @@ Record whether the party chose to investigate the Sea Maidens Faire before proce
 >
 > **If Faire: Visited First** — proceed to the **The Sea Maidens Faire** Event.
 >
-> **If Faire: Skipped** — proceed directly to **Arc D: Gralhund Villa**. The arc transition is immediate. Arc C ends here for this party. The Cassalanter dinner (ev-06) and Dalakhar backtrack (ev-07, ev-08) are only available if the party delays before entering the estate — available windows are noted in Arc D's opening.
+> **If Faire: Skipped** — proceed directly to **Gralhund Villa: Gralhund Villa**. The arc transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
 >
 > #### Milestone: The Nimblewright Hunt
 >
-> Completing this Event awards 1 Milestone Point. The party has confirmed Gralhund Villa, Saerdoun Street, North Ward as the Stone's location. This is the second of two Milestone Points in Arc C, for a total of 2 points (9 cumulative toward Level 4, which is reached in Arc D).
+> Completing this Event awards 1 Milestone Point. The party has confirmed Gralhund Villa, Saerdoun Street, North Ward as the Stone's location. This is the second of two Milestone Points in Fireball, for a total of 2 points (9 cumulative toward Level 4, which is reached in Gralhund Villa).
 
 ## Overview
 
