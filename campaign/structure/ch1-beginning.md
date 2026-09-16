@@ -55,6 +55,7 @@ An urban heist thriller built on community, consequence, and factional intrigue 
 *Safety Tools*
 - Content categories to disclose (phrased to not spoil):
   - Infernal bargaining and soul forfeiture
+  - Child death — a named child dies in the opening event of Fireball; no player intervention is possible
   - Child endangerment with a time-limited resolution window
   - Sudden, unforeseeable loss — characters may lose people they care about
   - Body horror involving transformation

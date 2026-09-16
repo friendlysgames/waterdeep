@@ -26,7 +26,7 @@ Twelve bodies in the blast area when the smoke clears:
 - **Dalakhar** — male rock gnome; burned cloak; boots and hem caked with dried gray sewer silt; clutching a dagger in a scorched fist; five 100 gp gems in a belt pouch. His pockets are turned out and emptied — someone searched the body after the blast, in a hurry.
 - **Two cloaked male humans in leather armor** — one has a winged snake tattooed on his right forearm. The Black Network brand.
 - **Two female humans and one male half-elf in plain clothes** — North Ward servants running early errands.
-- **Four halflings** — two women who had been playing fiddle and flute; two men who had been dancing to the music.
+- **Four halflings** — two women who had been playing fiddle and flute; one man who had been dancing to the music; one boy, twelve years old, who had been dancing beside him. His name was Sarlo. He and Martem ran the same alley routes every morning.
 - **One elderly female human in a gray traveling cloak** — her morning walk.
 - **The Trollskull Alley victim** — the neighbor the party bonded with across Trollskull Alley. Dead. No ambiguity, no last-second survival. The selection was made before this arc began. Play the discovery straight.
 
@@ -139,9 +139,9 @@ No check needed for the sighting itself. DC 13 Intelligence (Arcana) to identify
 
 Twelve years old. Hiding behind the rain barrel at the east end of the blast radius — not in the street with the adult witnesses. Finding him requires active searching (DC 12 Investigation of the blast area or interviewing neighbors about where the children were) or a neighbor's direction.
 
-He watched the halfling musicians die. He has the *necklace of fireballs*; it fell into his rain barrel when the nimblewright's chain caught on a chimney as it fled east.
+Sarlo was there too — dancing to the music with the adults, the way he always did on warm mornings. Martem watched him die. He has the *necklace of fireballs*; it fell into his rain barrel when the nimblewright's chain caught on a chimney as it fled east.
 
-He describes the construct without prompting if asked what he saw: "A person made of metal, like a clock, that ran across the roof and dropped the bead that killed them and didn't look back at all, not even once."
+He describes the construct without prompting if asked what he saw: "A person made of metal, like a clock, that ran across the roof and dropped the bead that killed them and didn't look back at all, not even once." He does not say Sarlo's name. He says "them."
 
 **DC 8 Persuasion** (Advantage if the party shows genuine compassion rather than reaching for the item) to convince him to hand over the necklace. On a failure, he pulls it back — not because he wants it, but because he is not ready to trust a stranger with something this dangerous. He will try again later if the party returns.
 
