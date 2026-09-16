@@ -24,9 +24,9 @@ The Alexandrian's explicit design mandate for this confrontation: **the player c
 
 After the fireball, Urstul Floxin followed the nimblewright's rooftop trail east to Saerdoun Street. He was not expected. Lady Yalah Gralhund met him at the door with swords drawn, took his weapons, and confined him to the parlor while she decided what to do with the *Stone of Golorr*. The arrangement Floxin had brokered — the Gralhunds as junior informants, the Stone passing to Manshoon's cell in exchange for protection and payment — had been Yalah's own initiative. She had simply revised the terms. The Stone was worth more than the protection. She was still deciding how to leverage it.
 
-Floxin has been in that parlor for two days. Yalah's guards watch him around the clock. She has his weapons. She has the Stone. The nimblewright stands in the corner of her bedroom, repaired and waiting. Xanathar's gazers, which tracked Floxin from the fireball site, are posted at cardinal points around the estate — four of them, watching the exits. Bregan D'Aerthe has a team across Saerdoun Street in the empty Artheyn Manor, watching all of them watch each other. Lady Gralhund does not know the drow are there. She has her hands full with the Zhentarim already.
+Floxin killed his two watchers and was gone by the following morning. Two bodies in G15a mark where he was held. Lady Gralhund has the Stone. The nimblewright stands in the corner of her bedroom, repaired and waiting. Xanathar's gazers, which tracked Floxin from the fireball site, are posted at cardinal points around the estate — four of them, watching the exits. Bregan D'Aerthe has a team across Saerdoun Street in the empty Artheyn Manor, watching all of them watch each other. Lady Gralhund does not know the drow are there.
 
-Floxin sent a message before his weapons were taken. His backup — eight agents, full kit — will arrive at Gralhund Villa on the night of Ches 24th and extract the Stone by force if Yalah has not relented. He did not request sanction; this is his standing directive. The party has a window of roughly forty-eight hours from the moment they receive the address. After Ches 24th, the strike team enters regardless, and whoever is inside the estate that night will be navigating a battle that was already in motion before they arrived.
+Floxin's backup directive triggered the moment he failed to report in. Eight agents, full kit — arriving at Gralhund Villa on the night of Ches 24th. He is with them now, leading them. The party has a window of roughly forty-eight hours from the moment they receive the address. After Ches 24th, Floxin's team enters regardless, and whoever is inside the estate that night will be navigating a battle that was already in motion before they arrived.
 
 ---
 
@@ -36,7 +36,7 @@ Floxin sent a message before his weapons were taken. His backup — eight agents
 
 **Content:**
 
-*The Window.* The party has until the night of Ches 24th. After that, Floxin's team arrives regardless. Tashlyn confirmed the timing from captured intelligence. The window is real, and the contacts all know it.
+*The Window.* The party has until the night of Ches 24th. After that, Floxin's team arrives regardless. Davil confirmed the timing from captured intelligence. The window is real, and the contacts all know it.
 
 *Mirt (Harpers — available if renown 1+).* The quietest nudge, carrying the clearest self-interest. Mirt does not order the party in. He offers gratitude — stated as gratitude, not as a threat — if the Stone comes to him first. He notes, almost as an aside, that the Watch's involvement "tends to end these things." He is not wrong. He does not explain that the Harpers have been trying to get a lead on the Stone for weeks, or that coming to him first gives him leverage over every faction that doesn't. The party can read what they want into his warmth.
 
@@ -58,7 +58,7 @@ Floxin sent a message before his weapons were taken. His backup — eight agents
 
 **Content:**
 
-*The Day/Night Metric.* When the party arrives at Saerdoun Street determines the encounter state. If they arrive before nightfall on Ches 24th, the household is in its day configuration: the Gralhund guards are active, Urstul Floxin is confined in the parlor, and the Stone is upstairs with Lady Yalah. The Zhentarim raid has not yet happened. If they arrive on the night of Ches 24th, Floxin's team has already entered through the pantry and the raid is in progress. The party walks into a battle rather than a household.
+*The Day/Night Metric.* When the party arrives at Saerdoun Street determines the encounter state. If they arrive before nightfall on Ches 24th, the household is in its day configuration: the Gralhund guards are active and the Stone is upstairs with Lady Yalah. The Zhentarim raid has not yet happened. If they arrive on the night of Ches 24th, Floxin's team has already entered through the pantry and the raid is in progress. The party walks into a battle rather than a household.
 
 The day/night choice should not feel like a coin flip. The DM should surface what the party knows — the Ches 24th deadline — clearly enough that deciding to arrive early or late is a genuine choice with understood consequences.
 
@@ -121,7 +121,6 @@ These additions are optional and should not be stacked. Choose the element that 
 | G5 (Kitchen) | 2 cooks | Commoners; flee if threatened |
 | G7 (Laundry) | Head maid | Carries the ring of keys (all locked interior doors and cabinets) |
 | G8 (Great Hall) | 2 house guards | Primary downstairs patrol |
-| G9 (Parlor) | Urstul Floxin (disarmed, confined) + 2 house guards | Guards are Yalah's, assigned to watch Floxin until she decides his fate |
 | G10 (Den) | Lord Orond Gralhund | Present in his trophy room with a caged hawk |
 | G11 (Study) | — | Papers on the desk (see Notable Areas) |
 | G12 (Library) | — | Trapped tome; Missive from Castle Ward |
@@ -177,7 +176,7 @@ Separate from the trapped tome: a folded letter left on a reading stand. *A Miss
 2. **The Maid.** The cook's scream reaches the Laundry (G7). The head maid abandons her work and runs for the Servants' Quarters (G19). A Zhent agent chases her down on the backstairs and kills her.
 3. **Guard Split.** The screams reach the Great Hall (G8). Two guards run to alert the Barracks (G4). Three move to intercept in G7.
 4. **The Empty Hall.** The Zhents push into the south end of G8, finding it briefly clear. Two Parlor guards (G9) move to intercept — Floxin kills them personally.
-5. **Urstul's Escape.** While the ground floor dissolves into chaos, Floxin (confined in G9) kills his two watchers and walks out. This happens simultaneously with beat 4; the DM should decide whether the party witnesses it or hears the aftermath.
+5. **Floxin Pushes Forward.** Floxin advances through the south end of G8 with his last operational agents and drives toward the staircase. He moves fast and precise — he knows the layout.
 6. **Orond Flushed.** Lord Orond Gralhund, hearing the fighting, flees his study and runs upstairs. Floxin gives chase. A guard catches Floxin on the stairs and buys Orond twelve seconds.
 7. **Laundry Retreat.** The three guards from G7 fight their way back into G8. They are outnumbered. All three die before reinforcements arrive.
 8. **G15 Barricade.** A guard on the upper floor ushers Orond into G15b and bars the door from outside. Floxin kills the guard. He begins trying to kick the door down.
@@ -191,7 +190,7 @@ Separate from the trapped tome: a folded letter left on a reading stand. *A Miss
 | G6 (Pantry) | Butler, cook (2) |
 | G7 (Laundry) | Head maid (1) |
 | G8 (Great Hall) | 8 house guards, 2 Zhent thugs (10) |
-| G9 (Parlor) | 2 house guards — killed by Floxin escaping (2) |
+| G9 (Parlor) | 2 house guards — killed by Floxin during his pre-raid escape; bodies still in place (2) |
 | G13 (Upstairs Foyer) | 6 house guards, 2 Zhent thugs (8) |
 
 This snapshot is a starting point, not a fixed state. If the party arrives earlier in the timeline, fewer people are dead.
@@ -213,7 +212,6 @@ This snapshot is a starting point, not a fixed state. If the party arrives earli
 
 Floxin is gone, moving toward G13 or G16 depending on where the party falls in the raid timeline. What he left behind: a black leather glove on the floor near the wardrobe, dropped in his hurry to get out. It is too small to be his. It carries the faint smell of a woman's perfume — Yalah's, from the weeks when the two of them were still pretending to be partners. A party that notices it and holds the detail will recognize it when they reach G16.
 
-If the raid timeline places Floxin still in G15a when the party arrives, one guard is already dead and the second is alive but pinned back, Floxin's crossbow aimed one-handed at his throat while Floxin works the window latch with a knife. He does not freeze. The crossbow swings toward the door. He wants one thing from whoever just walked in: for them to close it again. He is wounded, he is not going to negotiate from this position, and he will finish this conversation as quickly as possible once he decides whether they are an obstacle.
 
 **G15b (Guest Suite — Orond's Barricade).** The wardrobe that was pushed against the door from inside has been shoved aside. Inside, overturned furniture, Orond's evening coat torn at the shoulder, and Lord Orond Gralhund himself backed against the far wall with a fireplace poker in both hands and the whites of his eyes showing. When he sees the party is not Zhentarim, the grip on the poker goes slack.
 

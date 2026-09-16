@@ -124,7 +124,6 @@ Suggested candidates (not prescriptive — the actual victim is whoever the play
 | Candidate | Why it works |
 |-----------|-------------|
 | Fala Lefaliir (herbalist) | The most likely bond for groups who frequent their shop; gentle and memorable; death feels like losing a neighborhood |
-| Jalester Silvermane or Davil Starsong (faction contacts) | Makes the investigation political AND personal; ties the fireball directly to the Grand Game's cost |
 | Lif the poltergeist (Trollskull Manor ghost) | Non-lethal in the conventional sense but the manor's personality disappears; works best if the group anthropomorphized Lif heavily |
 | A PC's backstory NPC | Maximum personal stakes; requires session zero coordination to establish the NPC exists in Waterdeep; must be a named character with at least one scene |
 

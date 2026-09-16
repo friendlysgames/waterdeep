@@ -10,7 +10,7 @@ Arc C is the campaign's tonal shift. It delivers Waterdeep's first genuine loss,
 
 ## 1. Core Concept
 
-Dalakhar, a rock gnome spy working for exiled Lord Dagult Neverember, had been carrying the *Stone of Golorr* toward Trollskull Manor when four separate factions converged on the same alley at the same moment. Urstul Floxin's Zhentarim moved to intercept him from the north. The Gralhund nimblewright — a Lantanese construct sold by Jarlaxle Baenre's Sea Maidens Faire, armed with a *necklace of fireballs* by Lady Yalah Gralhund — watched from a rooftop, under orders to secure the Stone before any other faction could claim it. When Floxin appeared about to take Dalakhar alive, the nimblewright hurled a bead into the crowd. The fireball killed Dalakhar, two Zhentarim sellswords, nine bystanders, and the DM's chosen Arc B victim. Floxin survived — burned and furious — the Stone already gone. The nimblewright dropped from the roof, rifled Dalakhar's body, pocketed the Stone, and fled east across the rooftops toward Gralhund Villa. Floxin followed it back to the estate. Lady Gralhund disarmed him at swordpoint, confined him in a ground-floor room, and refused to yield the Stone. He killed his guards, escaped without it, and is now assembling a strike team for a forced return. That return is Arc D. The investigation that begins in Arc C must reach Gralhund Villa before the night of Ches 24th, when Floxin's team arrives and the situation becomes unrecoverable.
+Dalakhar, a rock gnome spy working for exiled Lord Dagult Neverember, had been carrying the *Stone of Golorr* toward Trollskull Manor when four separate factions converged on the same alley at the same moment. Urstul Floxin's Zhentarim moved to intercept him from the north. The Gralhund nimblewright — a Lantanese construct sold by Jarlaxle Baenre's Sea Maidens Faire, armed with a *necklace of fireballs* by Lady Yalah Gralhund — watched from a rooftop, under orders to secure the Stone before any other faction could claim it. When Floxin appeared about to take Dalakhar alive, the nimblewright hurled a bead into the crowd. The fireball killed Dalakhar, two Zhentarim sellswords, eight bystanders, and the DM's chosen Arc B victim. Floxin survived — burned and furious — the Stone already gone. The nimblewright dropped from the roof, rifled Dalakhar's body, pocketed the Stone, and fled east across the rooftops toward Gralhund Villa. Floxin followed it back to the estate. Lady Gralhund disarmed him at swordpoint, confined him in a ground-floor room, and refused to yield the Stone. He killed his guards, escaped without it, and is now assembling a strike team for a forced return. That return is Arc D. The investigation that begins in Arc C must reach Gralhund Villa before the night of Ches 24th, when Floxin's team arrives and the situation becomes unrecoverable.
 
 ---
 
@@ -20,7 +20,7 @@ Dalakhar, a rock gnome spy working for exiled Lord Dagult Neverember, had been c
 
 *An adventure for 3rd-level characters.*
 
-The fireball detonated at midday on Ches 22nd. By the time the party reached the door, the alley held eleven bodies and a silence where music had been playing. One of the eleven was someone they knew. The investigation began in the street with a five-minute window before the City Watch cordoned the scene — evidence to collect, witnesses to find, a burned man in a merchant's coat limping north and leaving a trail that would eventually resolve into an address.
+The fireball detonated at first light on Ches 22nd. By the time the party reached the door, the alley held twelve bodies and a silence where music had been playing. One of the twelve was someone they knew. The investigation began in the street with a five-minute window before the City Watch cordoned the scene — evidence to collect, witnesses to find, a burned man in a merchant's coat limping north and leaving a trail that would eventually resolve into an address.
 
 Three routes ran in parallel from the crime scene to the same conclusion. At the blast crater: a necklace of fireballs with a broken clasp, a gnome's sewer-caked boots, a construct-origin trace in the scorch pattern. The evidence pointed toward an advanced mechanical construct operating in the city. Witnesses painted its description from separate vantage points: Jezrynne on the cooperage roof, Martem at the rain barrel, Fala watching from the greenhouse. Renaer arrived within hours with a name for the dead gnome and a Harper contact who, within a day, placed the burned man walking into Gralhund Villa on Saerdoun Street.
 
@@ -36,7 +36,7 @@ By the time the detector spun hard on Saerdoun Street, the party had built their
 
 **Content:**
 
-*The Explosion.* Midday detonation in Trollskull Alley. 20-foot-radius sphere, 8d6 fire damage, DC 15 Dexterity save for any character in the alley. Eleven bodies in the blast radius. The nimblewright threw the bead from a rooftop, dropped to the street, rifled Dalakhar's body, and fled east across the rooftops. Floxin survived to the north, badly burned.
+*The Explosion.* First light detonation in Trollskull Alley. 20-foot-radius sphere, 8d6 fire damage, DC 15 Dexterity save for any character in the alley. Eleven bodies in the blast radius. The nimblewright threw the bead from a rooftop, dropped to the street, rifled Dalakhar's body, and fled east across the rooftops. Floxin survived to the north, badly burned.
 
 *The Twelfth Body.* The DM's chosen Arc B victim is the twelfth. Dead, no ambiguity, no last-second survival. The DM's observation task from Arc B Scene 3 ends here. Cross-ref Arc B Milestone (fireball victim candidate table). Grief does not require months of backstory. It requires one specific thing made vivid.
 
@@ -46,7 +46,7 @@ By the time the detector spun hard on Saerdoun Street, the party had built their
 
 *The Crime Scene Evidence.* Four layers accessible in the window before the Watch seals the scene:
 - **Surface (no check):** Eleven bodies, blast crater, scorch ring, every ground-floor window within thirty feet shattered.
-- **DC 12 Investigation:** Black Network tattoo on the dead Zhentarim; sewer silt on Dalakhar's boots; a rain barrel at the east end of the blast radius holds something metal — the *necklace of fireballs* (two beads remaining, broken clasp) dropped when the nimblewright's chain caught on a chimney as it fled east. Martem Trec has it.
+- **DC 15 Wisdom (Perception):** Black Network tattoo on the dead Zhentarim; sewer silt on Dalakhar's boots; a rain barrel at the east end of the blast radius holds something metal — the *necklace of fireballs* (two beads remaining, broken clasp) dropped when the nimblewright's chain caught on a chimney as it fled east. Martem Trec has it.
 - **DC 14 Perception:** Dalakhar's pockets turned out and emptied — someone searched the body after the blast, in a hurry.
 - **DC 16 Arcana:** Construct-origin transmutation trace in the scorch pattern. The incendiary device was wielded by something nonmagical carrying a magic item, not a spellcaster. The signature is mechanically precise in a way that rules out all known humanoid and monster sources.
 
@@ -74,7 +74,7 @@ By the time the detector spun hard on Saerdoun Street, the party had built their
 
 *The Witness Pool.* Seven witnesses with specific evidence fragments, accessible in any order. Most speak without needing a check; specific DCs apply where a witness is reluctant, traumatized, or concealing information.
 
-- **Fala Lefaliir.** Was watering greenhouse plants on the second floor when the blast blew out the windows. Saw a cloaked man stoop over one of the bodies — the gnome — after the blast. He was badly burned, limping north toward the Bent Nail, looking back over his shoulder. Fala saw Floxin, not the nimblewright. The nimblewright had already taken the Stone and fled before Floxin reached the body. No check needed; Fala is shaken and willing.
+- **Fala Lefaliir.** Was watering greenhouse plants on the second floor when the blast blew out the windows. Saw a cloaked man stoop over one of the bodies — the gnome — after the blast. He was badly burned, limping north toward the Bent Nail, looking back over his shoulder. Fala saw Floxin, not the nimblewright. The nimblewright had already taken the Stone and fled before Floxin reached the body. No check needed; Fala is shaken and willing. *If Fala was the Arc B fireball victim:* She is dead in the alley. Substitute Tally Fellbranch as this witness — she watched the blast from the Bent Nail's doorway and provides the same account of the burned man limping north.
 - **Jezrynne Hornraven.** Noblewoman, had just left the Tiger's Eye detective office when the blast hit. Saw the nimblewright on the cooperage roof: it moved wrong, like a puppet on wires with no wires, had something in its hand, threw it down into the street, then ran east across the roof toward the Sea Ward. DC 13 Arcana to identify her description as consistent with a nimblewright. No check needed for the sighting itself.
 - **Martem Trec.** Twelve years old. Hiding behind the rain barrel at the east end of the blast radius — not standing in the street with the adult witnesses. Finding him requires active searching or asking a neighbor where the children are. He watched the halfling musicians die. He has the *necklace of fireballs*; it fell into his rain barrel when the nimblewright's chain caught on a chimney as it fled east. He describes the construct without prompting if asked what he saw, quietly and precisely: "A person made of metal, like a clock, that ran across the roof and dropped the bead that killed them and didn't look back at all, not even once." DC 8 Persuasion (Advantage if the party shows genuine compassion rather than simply reaching for the item) to convince him to hand it over. On a failure, he pulls it back — not because he wants it, but because he is not ready to trust a stranger with something this dangerous.
 - **Vincent Trench.** The Tiger's Eye detective agency, across the alley. Arrived after the explosion. DC 15 Insight: knows more than he's saying. DC 16 Persuasion: confirms he saw the construct from his window — "a construct of Lantanese manufacture, moving with purpose, heading for the harbor." He is a rakshasa. What he shares is accurate. What he withholds is that he recognized it immediately and already knows who builds them.
@@ -144,7 +144,7 @@ The detector is a 1-foot-long copper contraption with an umbrella-like metallic 
 | 1 | House of Inspired Hands / Nim | Sea Ward | Confirmed non-culprit; validates the detector |
 | 2 | Bowgentra Summertaen | Castle Ward | Household servant; incapable of independent action |
 | 3 | Lord Adarbrent | Sea Ward | Bodyguard; household logs confirm stationary on Ches 22nd |
-| 4 | Lord Dezlentyr | North Ward | Personal attendant; a frail lord who relies on it daily |
+| 4 | A. Margaster, Margaster House | North Ward | Household attendant; patrician family, three floors of staff |
 | 5 | House of Wonder | Sea Ward | Temple guardian; high priest confirms its presence all morning |
 | 6 | Mother Tamra's | Trades Ward | Porter and night watchman; proprietor protective but cooperative |
 | 7 | City Armory | Castle Ward | Weapon drill demonstrator; operational log is maintained |
@@ -180,7 +180,7 @@ The detector is a 1-foot-long copper contraption with an umbrella-like metallic 
 | Unit | Crystal | Date | Buyer | Address | Balance |
 |---|---|---|---|---|---|
 | NW-01 | CR-01 | Marpenoth 3 | B. Summertaen | Watchful Order, Castle Ward | 25,000 gp |
-| NW-03 | CR-03 | Marpenoth 12 | [excised] | Yellowspire, Castle Ward | 25,000 gp |
+| NW-05 | CR-05 | Uktar 4 | [excised] | Yellowspire, Castle Ward | 25,000 gp |
 
 The partial ledger confirms the network exists but does not name the Gralhunds. NW-02 — the Gralhund entry — is one of the seven rows cut out. The **complete ledger** (aboard the *Eyecatcher* or given directly by Jarlaxle to BD operatives) holds all nine entries:
 
@@ -188,9 +188,10 @@ The partial ledger confirms the network exists but does not name the Gralhunds. 
 |---|---|---|---|---|---|
 | NW-01 | CR-01 | Marpenoth 3 | B. Summertaen | Watchful Order, Castle Ward | 25,000 gp |
 | NW-02 | CR-02 | Marpenoth 7 | O. Gralhund | Saerdoun St., North Ward | 25,000 gp |
-| NW-03 | CR-03 | Marpenoth 12 | V. Cassalanter | Cassalanter Villa, Sea Ward | 25,000 gp |
+| NW-03 | CR-03 | Marpenoth 12 | V. Cassalanter | Cassalanter Villa, Sea Ward | *VOID* |
 | NW-04 | CR-04 | Marpenoth 19 | A. Margaster | Margaster House, North Ward | 25,000 gp |
-| NW-05–09 | CR-05–09 | Uktar–Nightal | [redacted] | [redacted] | 25,000 gp each |
+| NW-05 | CR-05 | Uktar 4 | [name redacted] | Yellowspire, Castle Ward | 25,000 gp |
+| NW-06–09 | CR-06–09 | Uktar–Nightal | [redacted] | [redacted] | 25,000 gp each |
 
 Critical entry: NW-02, O. Gralhund, Saerdoun Street, North Ward. Notable entry: NW-03, V. Cassalanter, Cassalanter Villa, Sea Ward.
 
@@ -258,7 +259,7 @@ Critical entry: NW-02, O. Gralhund, Saerdoun Street, North Ward. Notable entry: 
 - **Mirt (Harpers, Renown 1+):** Identifies the mark without hesitation. Shares a rough map of observed Guild patrol patterns in the Trades Ward. Notes that Harper intelligence may be tainted — Manshoon has placed double agents in the network.
 - **Vajra (Force Grey, Renown 1+):** Interested in what the mark implies about the Guild's operational sophistication. Has a partial dossier on Dalakhar — confirms his role, notes he infiltrated Xanathar's organization before going dark. DC 13 Persuasion to share it.
 - **Jalester (Lords' Alliance, Renown 1+):** Reports to Laeral Silverhand. Returns within two hours: confirms Guild operating above street level, possible Watch leak. Offers 72-hour Watch ID papers. Notes that a North Ward household matching Gralhund Villa's description has been flagged as a possible Black Network safe house — a third path to the address.
-- **Tashlyn Yafeera (Doom Raiders, Renown 1+):** Examines the mark with professional detachment. Confirms Guild death marks have been increasing. Questions who is feeding them intelligence — calculating whether the same leak that burned Dalakhar also burned Davil.
+- **Davil Starsong (Doom Raiders, Renown 1+):** Examines the mark with professional detachment. Confirms Guild death marks have been increasing. He is calculating whether the same leak that burned Dalakhar is going to burn him next — and whether Floxin filed the anonymous Watch tip naming the Doom Raiders as persons of interest, drawing heat away from Manshoon's cell.
 
 *Kalain's Letter.* Arrives four days after Dalakhar's death, addressed to him at the Inn of the Dripping Dagger. If the party left their names with Myl Dunpier and asked her to contact them if anything arrived for the gnome, she sends a street child to Trollskull Manor with it. Otherwise the letter sits uncollected behind the bar. Rewards the investigative habit of leaving contact information at every point of inquiry.
 

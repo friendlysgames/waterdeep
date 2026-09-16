@@ -430,7 +430,7 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 - *Playbill for the Seven Masks Theater* (Response Team: Soluun Xibrindas)
 - *Letter from N'arl* (Sea Maidens Faire)
 
-**Lair: Sea Maidens Faire** (*Scarlet Marpenoth*, *Dragon Wing*, *Eyecatcher*)
+**Lair: Sea Maidens Faire** (*Heartbreaker*, *Hellraiser*, *Eyecatcher*, *Scarlet Marpenoth*)
 - Report on guild difficulties relating to the Sea Maidens Faire (Fenerus Stormcastle's House)
 - Following Krebbyg / Questioning Fenerus (Fenerus Stormcastle's House)
 - Speaking with Malcolm Brizzenbright (Seven Masks Theater)
