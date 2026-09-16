@@ -19,7 +19,7 @@
 > | Nimblewright identified; traced to the House of Inspired Hands | ev-02 | 1 |
 > | Gralhund Villa confirmed as the Stone's location | ev-03 | 1 |
 >
-> Level 4 is reached in Gralhund Villa, not here. These two points contribute toward the 4-point threshold.
+> Level 4 is not reached here — it triggers at Stone recovery in Gralhund Villa (Arc D).
 
 ## Involved Characters
 

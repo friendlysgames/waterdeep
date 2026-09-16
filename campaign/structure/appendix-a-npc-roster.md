@@ -2726,7 +2726,7 @@ Status: All tiers profiled (16 sections complete). 12 cross-reference profiles a
 
 **Character Information**
 
-**Persona.** To the world, Yalah is the lady of House Gralhund, whose motto is "We see both sides." She has a keen mind and the wisdom to discern friend from foe. To those she trusts, she commands the Black Network resources at her villa and treats Urstul Floxin as her employee. Deep down, she gave the Stone and the map to her nimblewright servant and feigns ignorance about both. Previous bids to become a Masked Lord were thwarted, and the gold in the Vault represents her last best chance.
+**Persona.** To the world, Yalah is the lady of House Gralhund, whose motto is "We see both sides." She has a keen mind and the wisdom to discern friend from foe. To those she trusts, she commands the Black Network resources at her villa and treats Urstul Floxin as her employee. Deep down, she pried the Stone from Floxin at sword-point and holds it herself — she does not trust a construct with this much leverage. Previous bids to become a Masked Lord were thwarted, and the gold in the Vault represents her last best chance.
 
 **Morale.** In a confrontation, Yalah would feign innocence, redirect blame, and rely on Hrabbaz and her Zhentarim retainers. She does not fight unless cornered, and even then she negotiates.
 

@@ -129,7 +129,7 @@ No check needed; Fala is shaken and willing.
 
 #### Jezrynne Hornraven
 
-Noblewoman. Had just left the Tiger's Eye detective office when the blast hit. Saw the nimblewright on the cooperage rooftop — it moved wrong, like a puppet on wires with no wires, had something in its hand, threw it down into the street, then ran east across the rooftops toward the Sea Ward.
+Noblewoman. Had just left the Tiger's Eye detective office when the blast hit. Saw the nimblewright on the cooperage rooftop — it moved wrong, like a puppet on wires with no wires, had something in its hand, threw it down into the street, then ran east across the rooftops.
 
 No check needed for the sighting itself. DC 13 Intelligence (Arcana) to identify her description as consistent with a nimblewright — this is the synthesis check; simply identifying the type from her account.
 

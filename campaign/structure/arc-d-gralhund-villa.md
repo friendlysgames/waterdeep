@@ -20,11 +20,11 @@ The Alexandrian's explicit design mandate for this confrontation: **the player c
 
 ### Arc Opener
 
-*An adventure for 4th-level characters.*
+*An adventure for 3rd-level characters.*
 
-After the fireball, Urstul Floxin followed the nimblewright's rooftop trail east to Saerdoun Street. He was not expected. Lady Yalah Gralhund met him at the door with swords drawn, took his weapons, and confined him to the parlor while she decided what to do with the *Stone of Golorr*. The arrangement Floxin had brokered — the Gralhunds as junior informants, the Stone passing to Manshoon's cell in exchange for protection and payment — had been Yalah's own initiative. She had simply revised the terms. The Stone was worth more than the protection. She was still deciding how to leverage it.
+After the fireball, Urstul Floxin followed the nimblewright's rooftop trail east to Saerdoun Street. He was not expected. Lady Yalah Gralhund met him in the front hall with a drawn blade at his throat. She had the guards disarm him and pry the *Stone of Golorr* from his grip at sword-point; he had been carrying it under his coat since the fireball. The arrangement Floxin had brokered — the Gralhunds as junior informants, the Stone passing to Manshoon's cell in exchange for protection and payment — had been Yalah's own initiative. She had simply revised the terms. The Stone was worth more than Manshoon's protection. A Masked Lord's seat required the kind of leverage that could not be manufactured. The vault's half-million gold dragons could buy it. She was deciding how.
 
-Floxin killed his two watchers and was gone by the following morning. Two bodies in G15a mark where he was held. Lady Gralhund has the Stone. The nimblewright stands in the corner of her bedroom, repaired and waiting. Xanathar's gazers, which tracked Floxin from the fireball site, are posted at cardinal points around the estate — four of them, watching the exits. Bregan D'Aerthe has a team across Saerdoun Street in the empty Artheyn Manor, watching all of them watch each other. Lady Gralhund does not know the drow are there.
+Floxin killed his two watchers and was gone by the following morning. Two bodies in G9 mark where he was held. Lady Gralhund has the Stone. The nimblewright stands in the corner of her bedroom, repaired and waiting. Xanathar's gazers, which tracked Floxin from the fireball site, are posted at cardinal points around the estate — four of them, watching the exits. Bregan D'Aerthe has a team across Saerdoun Street in the empty Artheyn Manor, watching all of them watch each other. Lady Gralhund does not know the drow are there.
 
 Floxin's backup directive triggered the moment he failed to report in. Eight agents, full kit — arriving at Gralhund Villa on the night of Ches 24th. He is with them now, leading them. The party has a window of roughly forty-eight hours from the moment they receive the address. After Ches 24th, Floxin's team enters regardless, and whoever is inside the estate that night will be navigating a battle that was already in motion before they arrived.
 
@@ -46,9 +46,13 @@ Floxin's backup directive triggered the moment he failed to report in. Eight age
 
 *Vajra Safahr (Force Grey — available if renown 1+, or through Blackstaff Tower contact).* No pretense of subtlety. Vajra cannot authorize them legally and does not pretend otherwise. She pushes them to go that night and report back. She promises to speak to the Open Lord afterward. What "afterward" means in practice — whether it constitutes protection, or merely advocacy after the fact — she does not specify. The party can assess that for themselves.
 
-*Jarlaxle Baenre/Captain Zord (Bregan D'Aerthe — conditional on Arc C Faire contact).* Jarlaxle reaches out via a carnival acrobat who delivers a sealed note to wherever the party is staying. The note offers a meeting. In the meeting, he provides the complete nimblewright ledger, a detailed layout of the villa's upper floor from recordings made by the nimblewright's embedded clairvoyance crystal, and specific positions for Xanathar's four gazers on the perimeter. He does not mention that Fel'rekt Lafeen's team is already in the house across the street. His generosity is genuine in content. It is calculated in purpose. He is measuring whether the party can be trusted with real intelligence — and whether they are the kind of people who notice what was not offered. Cross-ref Arc C Design Note on "investigation quality has consequences."
+*Jarlaxle Baenre / Captain Zardoz Zord (Bregan D'Aerthe — conditional on Arc C ev-04: Jarlaxle Informed).* Jarlaxle reaches out via a carnival acrobat who delivers a sealed note to wherever the party is staying. The note offers a meeting. In the meeting, he provides the complete nimblewright ledger, a detailed layout of the villa's upper floor from recordings made by the nimblewright's embedded clairvoyance crystal, and specific positions for Xanathar's four gazers on the perimeter. He does not mention that Fel'rekt Lafeen's team is already in the house across the street. His generosity is genuine in content. It is calculated in purpose. He is measuring whether the party can be trusted with real intelligence — and whether they are the kind of people who notice what was not offered. Cross-ref Arc C Design Note on "investigation quality has consequences."
 
-**Tone:** Deliberative, each voice distinct. Mirt is warm and careful. Davil is blunt without being harsh. Jalester is genuinely cautious, not obstructive. Vajra is commandingly direct. Jarlaxle is warm and deflects every wrong question before it lands. The party should feel the weight of five different agendas converging on the same question — and register that all five are nudging them toward the same answer, each for their own reasons.
+*Renaer Neverember (available if Renaer Contact: Gralhund Villa Named attunement is set from Arc C ev-01).* The source who named the villa does not have a faction brief to deliver. He wants to understand what his father's vault has to do with the Gralhunds, and what the Gralhunds have to do with the Zhentarim that burned Trollskull Alley. His access to Harper contacts gave the party the address; his family history gives him a stake in what happens once they cross the gate. He does not ask the party to act. He asks to know what they find. He will be at his townhouse, in the study, when they come back.
+
+**Tone:** Deliberative, each voice distinct. Mirt is warm and careful. Davil is blunt without being harsh. Jalester is genuinely cautious, not obstructive. Vajra is commandingly direct. Jarlaxle is warm and deflects every wrong question before it lands. Renaer is personal where the others are political. The party should feel the weight of six different agendas converging on the same question — and register that all six are nudging them toward the same answer, each for their own reasons.
+
+*If They Don't Go.* If the party specifically decides not to enter Gralhund Villa after being given the address, the Alexandrian's fallback applies: Floxin's team arrives on the night of Ches 24th regardless. Two days later, broadsheets name the event the "Gralhund Villa Bloodbath." Faction contacts reach out; the party hears from Mirt, Davil (before his arrest), or Renaer with secondhand accounts of what happened inside. The Stone's location becomes the next investigation — wherever the faction that left the estate with it has taken it. The party has not lost the campaign; they have changed its shape.
 
 ---
 
@@ -68,9 +72,9 @@ The day/night choice should not feel like a coin flip. The DM should surface wha
 
 **Xanathar's Gazers (DC 16 Perception).** Four gazers positioned at cardinal points around the villa. Each PC success on the Perception check reveals one; each additional 2 points of margin reveals another. The gazers followed Floxin to the villa and are installed to understand what he wants from the Gralhunds. They do not intervene in anything that happens at the villa itself — they report and follow. If the party is spotted: no immediate reaction. Xanathar now knows the party is involved. The gazers will follow anyone who leaves the villa with something valuable.
 
-**Jarlaxle's Team at Artheyn Manor (DC 14 Perception — conditional on Arc C Faire contact).** If the party made contact with Jarlaxle during Arc C, Fel'rekt Lafeen's team is positioned in Artheyn Manor, directly across Saerdoun Street. The owner (Radford Artheyn) has relocated to the Moonshae Isles and the manor is empty. Ground floor: Fel'rekt Lafeen and two drow at a front-room watch post. Top floor: two drow gunslingers and six additional drow with a sightline to the villa's upper windows. *A Directive from Jarlaxle* sits on a side table in the ground-floor room — recoverable after the raid if Artheyn Manor is searched. Jarlaxle's team has full situational awareness of both other factions' watchers. They are waiting for an opportunity, not a trigger. Cross-ref Appendix E for the directive document listing.
+**Jarlaxle's Team at Artheyn Manor (DC 14 Perception — conditional on Arc C ev-04: Jarlaxle Informed).** If the party alerted Jarlaxle during Arc C — specifically setting the Jarlaxle Informed attunement in ev-04 — Fel'rekt Lafeen's team is positioned in Artheyn Manor, directly across Saerdoun Street. The owner (Radford Artheyn) has relocated to the Moonshae Isles and the manor is empty. Ground floor: Fel'rekt Lafeen and two drow at a front-room watch post. Top floor: two drow gunslingers and six additional drow with a sightline to the villa's upper windows. *A Directive from Jarlaxle* sits on a side table in the ground-floor room — recoverable after the raid if Artheyn Manor is searched. Jarlaxle's team has full situational awareness of both other factions' watchers. They are waiting for an opportunity, not a trigger. Cross-ref Appendix E for the directive document listing.
 
-If this condition is not met — the party bypassed the Sea Maidens Faire entirely — Artheyn Manor is empty and the fourth faction is absent from the confrontation.
+If this condition is not met — the party bypassed the Sea Maidens Faire entirely, or entered it and set Ledger Stolen or Crystal Ball Accessed instead of Jarlaxle Informed — Artheyn Manor is empty and the fourth faction is absent from the confrontation.
 
 *Reconnaissance Mechanics.* A party that scouts carefully enters the confrontation knowing where each faction is positioned. Specific checks:
 - **DC 14 Investigation or Survival:** Identify the Zhentarim watchers' sightline gaps, revealing a blind approach route along the villa's west wall.
@@ -115,19 +119,20 @@ These additions are optional and should not be stacked. Choose the element that 
 
 | Area | Occupant(s) | Notes |
 |------|-------------|-------|
-| G2 (Yard) | Hurv Taldred (cult fanatic), 2 mastiffs | Groundskeeper; becomes shadows at night (DC 13 Stealth to avoid) |
-| G3 (Coach House) | Stableboy Ike, 4 draft horses | Contains horseshoes of speed + 2,000 gp in gold trade bars |
+| G2 (Yard) | Hurv Taldred (cult fanatic) | Groundskeeper; becomes a shadow at night (DC 13 Stealth to avoid) |
+| G3 (Coach House) | Stableboy Ike, 4 draft horses, 2 mastiffs | Mastiffs kenneled here; respond to Hurv's commands only — not Ike's voice. Contains horseshoes of speed + 2,000 gp in gold trade bars. |
 | G4 (Barracks) | Off-duty guards (sleeping or resting) | Most unavailable unless the alarm is raised |
 | G5 (Kitchen) | 2 cooks | Commoners; flee if threatened |
 | G7 (Laundry) | Head maid | Carries the ring of keys (all locked interior doors and cabinets) |
-| G8 (Great Hall) | 2 house guards | Primary downstairs patrol |
-| G10 (Den) | Lord Orond Gralhund | Present in his trophy room with a caged hawk |
-| G11 (Study) | — | Papers on the desk (see Notable Areas) |
-| G12 (Library) | — | Trapped tome; Missive from Castle Ward |
+| G8 (Great Hall) | 4 house guards | Primary downstairs patrol |
+| G10 (Den) | — | Trophy room; caged falcon (hawk statistics) on a perch |
+| G11 (Orond's Study) | Nimblewright | Dormant in the northeast corner; activates on *Alarm* trigger or Yalah's command word. See Notable Areas. |
+| G12 (Family Library) | Lord Orond Gralhund | Reading at the central table; will not fight. Trapped tome on iron lectern; *Missive from Castle Ward* on a reading stand. See Notable Areas. |
 | G13 (Upstairs Foyer) | 2 house guards | Upstairs patrol |
-| G16 (Master Bedroom) | Lady Yalah Gralhund, Hrabbaz, nimblewright | Yalah has the Stone. Hrabbaz guards the door. Nimblewright stands in the corner. |
+| G16 (Master Bedroom) | Lady Yalah Gralhund, Hrabbaz | Yalah has the Stone. Hrabbaz guards the door. |
 | G18 (Children's Room) | Zartan (13), Greth (10) | Noncombatants; locked in |
-| G19 (Servants' Wing) | 9 commoners | Maids, valets, cooks — unaware of Floxin or the Stone |
+| G19 (Servants' Wing) | 4 commoners | Maids and valets — unaware of Floxin or the Stone |
+| *(Conditional)* | *1 Asmodean priest + 2 cult fanatics (Cassalanters)* | *Present only if the party is actively working for the Cassalanters. Positioned in the G9 parlor, observing. Yalah is aware; she invited them as witnesses.* |
 
 *Peaceful Entry.* If the party approaches openly — the front gate, a visiting card, a polite request — they can access Lord Orond. DC 12 Persuasion to be received as guests; DC 15 if they mention the fireball or the Zhentarim. Lady Yalah never appears for a peaceful visit. She stays upstairs. Orond, if cultivated (DC 10 Charisma, disadvantage if Yalah has been warned), reveals under pressure: the Stone is in Yalah's keeping, Floxin was there of their own invitation (though he now understates the arrangement), and the Stone "has something to do with the Neverember matter." He does not know what the matter is. He does not know Manshoon is Floxin's master. He knows the Zhentarim offered protection and money, and that the arrangement has gone badly wrong.
 
@@ -146,13 +151,13 @@ Yalah is alerted at step 2. She does not leave G16. She orders Hrabbaz to bar th
 
 *Notable Areas.*
 
-**G3 (Coach House).** Padlocked (DC 20 thieves' tools). Inside: four draft horses including Yalah's mare Maladar; stableboy Ike (commoner, 14, frightened by unusual visitors). Locked saddlebag on a wall peg: horseshoes of speed (one set, for Maladar). Two saddlebags under the coach bench contain gold trade bars: four bars at 250 gp each per bag, 2,000 gp total.
+**G3 (Coach House).** Padlocked (DC 20 thieves' tools). Inside: four draft horses and Yalah's riding mare Maladar (five horses total); stableboy Ike (commoner, 14, frightened by unusual visitors). Two mastiffs are kenneled against the south wall — they do not obey Ike; a party that bribes him into silence still has the mastiffs to contend with (they respond to Hurv's whistle commands from the yard). Locked saddlebag on a wall peg: horseshoes of speed (one set, for Maladar). Two saddlebags under the coach bench contain gold trade bars: four bars at 250 gp each per bag, 2,000 gp total.
 
-**G11 (Orond's Study).** Locked (DC 15 thieves' tools). The desk holds the *Gralhund Study of the Grand Game* — Orond's personal journal entries on the six Grand Game factions, including his "Eagle" and "Catoblepas" embedded agents in Renaer's household, and his deductions about the Three Eyes and the Stone. A DC 15 Investigation finds a false book concealing the private volume. Cross-ref Appendix E for the full document listing.
+**G11 (Orond's Study).** Locked (DC 15 thieves' tools). During the day, the nimblewright stands dormant against the northeast corner — alone in the room. Orond uses the library (G12) while at home; the study is his working office, not his reading chair. The nimblewright activates if the estate's *Alarm* network triggers or Yalah speaks the command word from G16. The desk holds the *Gralhund Study of the Grand Game* — Orond's personal journal entries on the six Grand Game factions, including his "Eagle" and "Catoblepas" embedded agents in Renaer's household, and his deductions about the Three Eyes and the Stone. A DC 15 Investigation finds a false book concealing the private volume. Cross-ref Appendix E for the full document listing.
 
-**G12 (Family Library).** Locked tome on the center table: the Gralhund family chronicle. Trapped — opening it without the key from the head maid's ring releases 3 specters (1-minute Material Plane duration; they pursue whoever opened the tome, then dissolve). The chronicle contains the Gralhund tiefling lineage: an ancestor's pact with a devil, an amputated tail, the Infernal bloodline that produced Orond's scar. This is lore, not leverage — but it contextualizes the Asmodeus compartment in G16.
+**G12 (Family Library).** Locked tome on an iron lectern in the corner: the Gralhund family chronicle. Trapped — opening it without the key from the head maid's ring releases 3 specters (1-minute Material Plane duration; they pursue whoever opened the tome, then dissolve). The chronicle contains the Gralhund tiefling lineage: an ancestor's pact with a devil, an amputated tail, the Infernal bloodline that produced Orond's scar. This is lore, not leverage — but it contextualizes the Asmodeus compartment in G16.
 
-Separate from the trapped tome: a folded letter left on a reading stand. *A Missive from Castle Ward* — signed "Chirada," dated two weeks prior. Refers to tracking "the Second Eye" to a location in the Castle Ward called Yellowspire, and to a teleportal within that is accessible via a specific phrase. This letter has nothing to do with the Stone and everything to do with Arc E. Cross-ref Appendix E, Yellowspire section.
+Separate from the trapped tome: a folded letter on a reading stand. *A Missive from Castle Ward*, signed "Chirada," dated two weeks prior. The exact text: *"We are now certain that the Second Eye was carried from the warehouse in the Dock Ward to Yellowspire in the Castle Ward. I no longer believe that it remains within Yellowspire, however. After observing the Zhentarim traffic here, I am convinced that they must be using a teleportal within the tower. If we wish to track the Second Eye further, we will need to access that teleportal or otherwise determine where it leads. – Chirada"* The Second Eye is one of three objects required to fully awaken the Stone of Golorr; this letter is a direct intelligence feed into the Grand Game, addressed to the Gralhunds by someone who has been watching Yellowspire on their behalf. It pays off in Arc E. Cross-ref Appendix E, Yellowspire section.
 
 **G15b (Guest Suite, Inner Room).** The published module places a permanent teleportation circle linked to Kolat Towers in this room, along with a birdcage holding three flying snakes. The Alexandrian Remix explicitly removes both elements. G15b is an ordinary guest room with no magical infrastructure. If a party searches it, they find luggage belonging to a Zhentarim operative — Floxin's gear, minus his weapons and the Stone.
 
@@ -172,7 +177,7 @@ Separate from the trapped tome: a folded letter left on a reading stand. *A Miss
 
 *The Ten-Beat Timeline.* Present as a sequence the DM can enter at any point. Each beat is approximately 1–3 minutes of real-time action inside the building.
 
-1. **Pantry Entry.** Floxin and eight agents in black leather pick the Pantry (G6) lock. Two Zhents surprise the butler and the head cook mid-liaison. The cook flees toward the Kitchen (G5), screaming.
+1. **Pantry Entry.** Floxin and three agents in black leather pick the Pantry (G6) lock. Two Zhents surprise the butler and the head cook mid-liaison. The cook flees toward the Kitchen (G5), screaming.
 2. **The Maid.** The cook's scream reaches the Laundry (G7). The head maid abandons her work and runs for the Servants' Quarters (G19). A Zhent agent chases her down on the backstairs and kills her.
 3. **Guard Split.** The screams reach the Great Hall (G8). Two guards run to alert the Barracks (G4). Three move to intercept in G7.
 4. **The Empty Hall.** The Zhents push into the south end of G8, finding it briefly clear. Two Parlor guards (G9) move to intercept — Floxin kills them personally.
@@ -190,7 +195,7 @@ Separate from the trapped tome: a folded letter left on a reading stand. *A Miss
 | G6 (Pantry) | Butler, cook (2) |
 | G7 (Laundry) | Head maid (1) |
 | G8 (Great Hall) | 8 house guards, 2 Zhent thugs (10) |
-| G9 (Parlor) | 2 house guards — killed by Floxin during his pre-raid escape; bodies still in place (2) |
+| G9 (Parlor) | 2 house guards — killed by Floxin before the raid when he escaped his confinement; bodies still in place (2) |
 | G13 (Upstairs Foyer) | 6 house guards, 2 Zhent thugs (8) |
 
 This snapshot is a starting point, not a fixed state. If the party arrives earlier in the timeline, fewer people are dead.
@@ -202,16 +207,17 @@ This snapshot is a starting point, not a fixed state. If the party arrives earli
 | G15 area | Urstul Floxin (50 hp) + 1 Zhent thug | Floxin trying to breach G15b; wounded but functional |
 | G15b | Orond Gralhund (barricaded) | Terrified; will talk if reached |
 | G16 | Yalah Gralhund + Hrabbaz | Door barred; Yalah has the Stone or has already sent it with the nimblewright |
-| G13 area | 4 surviving house guards vs. 2–3 surviving Zhent thugs | Active melee |
+| G13 area | 4 surviving house guards vs. 1–2 surviving Zhent thugs | Active melee |
 | G19 | 9 commoners | Barricaded; armed with improvised clubs |
 | G2 | Hurv Taldred (shadow) + 2 mastiff-shadows | Transformed at nightfall; still in the yard |
+| *(Conditional)* | *1 Asmodean priest + 2 cult fanatics (Cassalanters)* | *Present only if working for Cassalanters. Positioned near G9; withdrawn to G18 corridor if the raid escalates. Yalah does not speak for them — they act on their own instructions.* |
 
 *Notable Areas (Night).*
 
-**G15a (Guest Suite — Floxin's Former Room).** One guard dead in the chair with a crossbow bolt in his throat — a single, professional shot. A second slumped against the door he was supposed to be standing in front of. The window stands open. The sill carries a scrape of dried blood.
+**G15a (Guest Suite — Floxin's Former Room).** An ordinary guest room, already cleared. The bed has been stripped; the basin is empty. Floxin moved through here during the raid on his way up, not back. A black leather glove lies on the floor near the wardrobe, dropped in his hurry. It is too small to be his — a woman's glove, fine leather, with a faint trace of perfume he would recognize from weeks of meetings at this estate. A party that notices it and holds the detail will recognize whose it is when they reach G16.
 
-Floxin is gone, moving toward G13 or G16 depending on where the party falls in the raid timeline. What he left behind: a black leather glove on the floor near the wardrobe, dropped in his hurry to get out. It is too small to be his. It carries the faint smell of a woman's perfume — Yalah's, from the weeks when the two of them were still pretending to be partners. A party that notices it and holds the detail will recognize it when they reach G16.
 
+**G9 (Parlor — Pre-Raid Escape).** Two house guards, killed before the raid began. Floxin killed his watchers here when he was still a prisoner — in the small hours of Ches 24th, while the household slept. One died in the chair with a crossbow bolt he never heard coming. The second made it to the window before he was taken from behind; the latch has been forced outward, and a dark smear runs down the sill where he gripped it. The bodies are cold by the time the party arrives. Searching the room turns up a set of manacles with a sprung lock — how Yalah secured Floxin when she revised their arrangement. The manacles are a legal instrument, stamped with a Gralhund house seal.
 
 **G15b (Guest Suite — Orond's Barricade).** The wardrobe that was pushed against the door from inside has been shoved aside. Inside, overturned furniture, Orond's evening coat torn at the shoulder, and Lord Orond Gralhund himself backed against the far wall with a fireplace poker in both hands and the whites of his eyes showing. When he sees the party is not Zhentarim, the grip on the poker goes slack.
 
@@ -220,10 +226,11 @@ Orond will not fight. He is the kind of coward who has decided money means he do
 - The Stone of Golorr is some kind of ancient creature transformed into an artifact; it holds the location of a hidden vault somewhere beneath Waterdeep containing half a million gold dragons.
 - Lady Yalah sent the nimblewright to the alley on Ches 22nd. The fireball killed the gnome and most of Floxin's men. "It was careless," Orond says, and stops talking for a moment.
 - There is a religious cult. He does not know its name, does not know who leads it. Yalah has never told him and he has been wise enough not to ask. There are symbols in a trunk in the master bedroom. He has never opened it.
+- The house funded Zhentarim agents who abducted Renaer Neverember months ago — before the fireball, before Floxin, before the Stone. Orond says this quietly, as if saying it softly makes it less true. Yalah arranged it. The point was to use Renaer as leverage to recover the Stone from Dalakhar, the gnome spy who stole it from Lord Neverember's people in the first place. "It went sideways," he says. "The gnome didn't come for the boy." He does not say what happened to Renaer after that. The party may already know.
 
 Orond in the party's custody is leverage in G16. If they bring him upstairs and Yalah sees him, she will surrender the Stone without a Charisma check — no negotiation required.
 
-**G16 (Master Bedroom — Night).** The double doors may be locked or standing open depending on where the raid timeline sits. Inside: Lady Yalah Gralhund in a fitted breastplate, rapier drawn, a small brass key on a chain at her throat. Hrabbaz beside her, fists closed, expression empty. They are waiting to see what the party does.
+**G16 (Master Bedroom — Night).** The double doors may be locked or standing open depending on where the raid timeline sits. Inside: Lady Yalah Gralhund in a fitted breastplate, rapier drawn, a small brass key on a chain at her throat, a ring of keys at her belt (all locked interior doors and cabinets — the head maid's copy died with her in G7). Hrabbaz beside her, fists closed, expression empty. They are waiting to see what the party does.
 
 Yalah does not fight if she can avoid it. She trades — information, coin, assurances she does not intend to honor — buying time while she reads the room. The Stone of Golorr is tucked in an inner pocket of her breastplate. She will not reach for it while the situation is in motion.
 
@@ -237,13 +244,13 @@ If truly cornered — Hrabbaz down, Stone taken or about to be, nowhere to run �
 
 *Jarlaxle's Team in Motion (Conditional).* If Bregan D'Aerthe is present in Artheyn Manor, this sequence plays out concurrent with beats 8–10 above, once the raid is fully committed:
 
-1. Jarlaxle's drow gunslingers take up sniping positions at Artheyn Manor's top-floor windows, targeting the Upstairs Foyer (G13) through the facing windows.
-2. Fel'rekt Lafeen and six drow cross the rooftops and drop to the Balcony (G17).
-3. The gunslingers fire through the G13 windows, killing two guards and providing Fel'rekt's team a clean entry point.
-4. Fel'rekt breaks into G16. Hrabbaz meets him at the door. They fight for six rounds. Hrabbaz loses.
-5. Orond is dragged from G15b into G16. Fel'rekt negotiates with Yalah through the door while holding Orond.
-6. Yalah, hearing Hrabbaz go silent, breaks down and surrenders the Stone. She sobs. She hands it through the door.
-7. Bregan D'Aerthe withdraws across the roof as the City Watch arrives at the front gate.
+1. Jarlaxle's drow gunslingers and two additional drow cross the rooftops and take up covering positions at the exterior of G13 — sightlines into the upstairs corridor.
+2. Fel'rekt Lafeen and four drow drop to the Balcony (G17) and enter the upper floor.
+3. The gunslingers open fire through the G13 windows, killing two guards and clearing Fel'rekt's path.
+4. Yalah, hearing the shots and reading the situation, retreats into G18 — the children's room — and bars the door from inside. She brings her rapier but not Hrabbaz; Hrabbaz holds the G16 door against whoever comes next.
+5. Orond is pulled from G15b and dragged to G16 as a hostage. Hrabbaz, seeing Orond in Fel'rekt's grip, does not fight. He steps aside.
+6. Fel'rekt negotiates through the G18 door while holding Orond — Zartan and Greth are on the other side, and Yalah knows it. "The Stone, Lady Gralhund. That is all I am here for."
+7. Yalah surrenders the Stone through the door. She does not speak. Fel'rekt's team withdraws across the rooftops as the City Watch arrives at the front gate.
 
 **BD-Affiliated PCs:** If any party member belongs to Bregan D'Aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid — sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross. He does not break operational discipline to coordinate openly. The sharpshooter support is a quiet gift, not a joint operation.
 
@@ -316,14 +323,15 @@ Tashlyn's first direct contact: "Keep a low profile. I'll be in touch." She does
 
 *Istrid Horn's Approach (Conditional — Party Was Directly Involved in the Raid).* If the party participated in the villa confrontation, a black flying snake finds them within forty-eight hours of leaving the scene. It carries a handwritten note on yellowed paper: *"I have a business matter to discuss. Ahghairon's Statue, City of the Dead, after dark. Come alone or don't come."* Signed with a symbol: an hourglass with a coin at the bottom.
 
-Istrid Horn is a shield dwarf fence and unlicensed moneylender with Zhentarim ties who operates through the Doom Raiders' network. The Watch's crackdown has her terrified — she has outstanding loans to a half-dozen city officials, documented in a ledger she cannot afford to have found. She wants the party to hide her, or destroy the ledger, for a tenday, while she makes arrangements to relocate to Baldur's Gate.
+Istrid Horn is a shield dwarf fence and unlicensed moneylender who holds the title **Master of Trade and Coin** within the Doom Raiders. The Watch's crackdown has her terrified — she has outstanding loans to a half-dozen city officials, documented in a ledger she cannot afford to have found. She wants the party to hide her, or destroy the ledger, for a tenday, while she makes arrangements to relocate to Baldur's Gate.
 
-The meeting at Ahghairon's Statue proceeds in the dark, with Istrid seated on a bench and three large cloaked companions standing at the edges of the lamplight. She offers 10 platinum pieces for information about what the Watch knows, and 40 platinum for a tenday of shelter. If Zhentarim-affiliated PCs are present, she has already told a Doom Raiders colleague the meeting is happening — insurance against betrayal.
+The meeting at Ahghairon's Statue proceeds at highsun — she chose the open hour deliberately, too many witnesses for anyone to try anything. Istrid is alone, seated on a bench with a satchel at her feet and her eyes on the gate. She offers 10 platinum pieces for information about what the Watch knows, and 40 platinum for a tenday of shelter.
 
 Branch outcomes:
 - **Help her:** She stays hidden for a tenday, then vanishes south. She leaves a handwritten note: the name and location of a Zhentarim courier cache in the South Ward that the party can raid without Manshoon's cell knowing for at least a month. Doom Raiders renown +2 if the party reports the arrangement to Tashlyn.
-- **Turn her in:** City Watch takes her and her companions. The moneylending ledger surfaces in the Watch's evidence log and quietly disappears within a week — someone on the force had a loan outstanding. The Watch contact improves (reduced questioning on the Gralhund matter). Doom Raiders renown −2 if the party reports this to Tashlyn. Tashlyn does not say why.
+- **Turn her in:** City Watch takes her. The moneylending ledger surfaces in the Watch's evidence log and quietly disappears within a week — someone on the force had a loan outstanding. The Watch contact improves (reduced questioning on the Gralhund matter). Doom Raiders renown −2 if the party reports this to Tashlyn. Tashlyn does not say why.
 - **Take her money and leave her:** She relocates independently. The cache note never comes. She holds no grudge but also extends no future goodwill.
+- **Mortal Enemy:** If any PC has designated Istrid Horn as their **Mortal Enemy** faction contact (from the Doom Raiders recruitment track), this meeting is not neutral. She is both terrified and obligated — she cannot refuse to come, and the party holds the leverage. A PC with this history may extract the courier cache information and the 40 platinum and full shelter cooperation without any check, simply by naming the arrangement clearly. Alternatively: a PC who turns her in despite having named her mortal enemy forfeits the Mortal Enemy bond and takes Doom Raiders renown −3. Tashlyn's note arrives the next morning: *"That was our business. Not the Watch's."*
 
 *Faction Debriefs.* Within one to three days of the villa, the party's contacts begin reaching out for accounts of what happened. The crackdown has made everyone careful about direct meetings; most contacts use flying snakes or anonymous notes requesting a rendezvous they consider safe.
 
@@ -333,7 +341,7 @@ Branch outcomes:
 - **Order of the Gauntlet (Savra):** Her debrief request is not a request — it is a time and a location. She wants to know if any of the villa's occupants showed signs of infernal corruption: unusual tattoos, branded symbols, liturgical items from proscribed cults. She does not explain why until after the party answers. If they found the G16 compartment, she confirms: the Cassalanters sent agents to Gralhund Villa during the confrontation. She has confirmed it from a separate source. "This is not over." She sounds like she has known that for some time.
 - **Force Grey (Vajra):** Vajra wants a full operational debrief — which factions were present, where each one entered and exited, whether any Watch checkpoint in the surrounding blocks was compromised or unmanned during the raid, and any direct evidence of Nihiloor's involvement. Xanathar Guild activity in close proximity to a Watch checkpoint the Guild has never previously approached is, in her judgment, a test. She wants to know if the test succeeded.
 - **Doom Raiders (Tashlyn):** Already covered above — Davil is in custody, Tashlyn's first message is "Keep a low profile. I'll be in touch." No debrief. No elaboration.
-- **Bregan D'Aerthe (Krebbyg — conditional on Arc C Faire contact):** Word reaches the party through whatever channel Krebbyg established during Arc C: *"We saw what happened at Gralhund. We know which factions were there. We know who left with what. If the party is interested in a full account — faction by faction — the theater has a back room. Price is one conversation. Not a mission. A meeting."* Jarlaxle was on the rooftops. He watched every entrance and exit.
+- **Bregan D'Aerthe (conditional on Arc C ev-04: Jarlaxle Informed):** Word reaches the party through whatever channel Krebbyg established during Arc C: *"We saw what happened at Gralhund. We know which factions were there. We know who left with what. If the party is interested in a full account — faction by faction — the theater has a back room. Price is one conversation. Not a mission. A meeting."* Jarlaxle was on the rooftops. He watched every entrance and exit.
 
 *Gralhund Response Team (Forward Seed).* If the party did not recover the Stone — if it remains with the Gralhunds at scene end — Yalah will eventually use whatever she holds as leverage. The Gralhund Response Team (Hrabbaz, if he survived, or a hired replacement; one spy embedded in Renaer's household; one martial arts adept from a Castle Ward mercenary company) becomes available to the DM for later arc complications. **New appendix content required** if this branch is ever exercised — the team is not statted here.
 
@@ -353,19 +361,19 @@ Branch outcomes:
 
 **Content:**
 
-*Milestone XP.*
+*Milestone Points.*
 
-| Level | Arc | Milestone | XP |
-|:-----:|-----|-----------|---:|
-| 3 | D | The party participates in the quinpartite confrontation at Gralhund Villa and affects its outcome | 600 |
-| 3 → 4 | D | The party recovers the Stone of Golorr | 300 |
+| Milestone | Trigger | Points | Cumulative |
+|-----------|---------|--------|-----------|
+| Villa confrontation | The party participates in the quinpartite confrontation at Gralhund Villa and affects its outcome | 1 | 9 |
+| Stone of Golorr recovered | The party exits the villa holding the Stone of Golorr | 1 | 10 → **Level 4** |
 
-*Total: 900 XP. Level 4 is reached when the party recovers the Stone of Golorr. Grand total across Arcs C and D: 1,800 XP — exactly the XP required to advance from 3rd (900 cumulative) to 4th (2,700 cumulative) level.*
+Level 4 is reached when the Stone is recovered. Cumulative total at the close of Arc D: 10 Milestone Points.
 
 *The Stone of Golorr — What the Party Knows.* Required knowledge by arc's end (if the party holds the Stone):
 - The Stone is a transformed aboleth — an inanimate vessel for compressed memory, created by a wizard to hold Neverember's vault knowledge.
 - An attuned character can extract vault intelligence from the Stone; it will also read and modify memories without announcement.
-- The Stone requires three Eyes to fully reveal the vault's location. The party has one, or none, or knows where to look.
+- The Stone requires three Eyes to fully reveal the vault's location. The party has none — Eyes are recovered in the heist arcs (F, G, H).
 - Aurinax, a gold dragon, guards the vault beneath Waterdeep and holds the dragonstaff of Ahghairon.
 - *Mad Mage Seed.* Any character who handles the Stone directly — holds it, examines it, attunes to it — hears a whisper they cannot localize: something ancient, patient, and cold, dreaming beneath the city. This is aboleth Illuun on Undermountain Level 4. Planted now, pays off if the campaign extends into the Dungeon of the Mad Mage.
 
@@ -387,7 +395,7 @@ All seven decisions are settled:
 
 5. **G15b correction is inline in Scene 3's Notable Areas.** The Alexandrian explicitly removes the teleportation circle and flying snakes from G15b. This is a factual correction to the published module, not a design philosophy choice — it belongs in the scene, not in Design Notes.
 
-6. **Level 4 milestone split across Arcs C and D.** Arc C awards 900 XP across two milestones (nimblewright identification, Gralhund Villa confirmation). Arc D awards 900 XP across two milestones (participating in the confrontation, recovering the Stone). Level 4 is reached on the second Arc D milestone. Grand total: 1,800 XP.
+6. **Level 4 milestone split across Arcs C and D.** Arc C awards 2 Milestone Points (nimblewright identification at ev-02, Gralhund Villa confirmation at ev-03 — cumulative total: 9). Arc D awards 2 Milestone Points (participating in the confrontation, recovering the Stone). Level 4 is reached on the second Arc D milestone (cumulative total: 10). No XP is tracked.
 
 7. **Manshoon does not appear and is not named in Arc D.** Floxin refuses to name his master throughout — this is established in his Appendix A profile. The party fights Manshoon's agents without knowing whose agents they are. The reveal is preserved for a later arc.
 
