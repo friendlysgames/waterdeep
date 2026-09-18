@@ -18,7 +18,7 @@
 
 Floxin is at the G15b door, shoulder into the wood, boot following, reading each impact for where the barricade is weakest. He is focused. Wounded from the downstairs fighting (50 hp remaining, no active poison; his supply was lost in the initial engagement), still fully operational. He still has his weapons.
 
-When the party arrives, he turns and reads them in a single glance: not Gralhund guards, not Zhents he recognizes, weapons drawn. He is in a corridor with one exit, and the party is standing in it.
+When the party arrives, he turns and reads them in a single glance: not Gralhund guards, not his people — but not strangers either. He places them from the Ches 22nd blast scene. They were there. Now they are here. Weapons drawn. He is in a corridor with one exit, and the party is standing in it.
 
 What he does next depends on the tactical read:
 
