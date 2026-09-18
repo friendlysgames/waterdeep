@@ -6,7 +6,7 @@ Dainty chairs arranged around a low table, a chaise longue near the window, a wi
 
 Two house guards are dead in this room. Floxin killed them in the small hours of Ches 24th, while the household slept. He was still a prisoner then; the raid had not yet begun.
 
-One guard died in the dainty chair by the south wall, a crossbow bolt he never heard coming. He is still in the chair; the bolt is lodged between his ribs and he has been there long enough that the room has that specific smell.
+One guard died in the dainty chair by the south wall, a crossbow bolt he never heard coming. He is still in the chair; the bolt is lodged between his ribs, and the room has had long enough to develop the close, sweetish smell of blood that was never cleaned up.
 
 The second guard made it to the window. The latch has been pushed outward, not broken, and a dark smear runs down the sill where he gripped it as he fell. He is on the floor beneath the window, on his side.
 

@@ -12,7 +12,7 @@ A folded letter rests on the reading stand. It was placed there two weeks ago an
 
 > *"We are now certain that the Second Eye was carried from the warehouse in the Dock Ward to Yellowspire in the Castle Ward. I no longer believe that it remains within Yellowspire, however. After observing the Zhentarim traffic here, I am convinced that they must be using a teleportal within the tower. If we wish to track the Second Eye further, we will need to access that teleportal or otherwise determine where it leads. — Chirada"*
 
-No check is required to read the letter; it's open on the stand. The party needs only to look at it.
+No check is required to read the letter; it's open on the stand.
 
 Setting this attunement: ***G12 Searched: Chirada Letter Found.*** Pays off in Arc E — Yellowspire, the Second Eye, and Chirada's name.
 
