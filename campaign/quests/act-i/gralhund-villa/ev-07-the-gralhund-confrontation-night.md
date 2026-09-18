@@ -42,7 +42,7 @@ Same behavior as the day version: acts on Yalah's judgment, not his own. He will
 
 ### If Jarlaxle's Team Fires (Conditional — *Jarlaxle Informed*)
 
-If the BD sequence from ev-04 did not already fire — if the party arrived at G16 before Fel'rekt reached it — it fires now. Gunslingers at G13 windows, Fel'rekt through the balcony. Yalah retreats into G18 with the door locked, Hrabbaz holds G16. Fel'rekt negotiates through the G18 door.
+If the BD sequence from ev-04 did not already fire (the party arrived at G16 before Fel'rekt reached it), it fires now. Gunslingers at G13 windows, Fel'rekt through the balcony. Yalah retreats into G18 with the door locked, Hrabbaz holds G16. Fel'rekt negotiates through the G18 door.
 
 If the BD sequence already fired in ev-04 and Yalah already surrendered the Stone to Fel'rekt, this event is moot — proceed to ev-08 or ev-09 based on whether the party pursues.
 
@@ -52,7 +52,7 @@ Same as the day version: if cornered with no options, she speaks the command wor
 
 ### Last Resort
 
-If truly cornered — Hrabbaz down, Stone about to be taken, nowhere to run — Yalah uses her ring of keys to unlock G18, steps inside with her children, and locks the door behind her. She does not attack from G18. She waits.
+If truly cornered, with Hrabbaz down, the Stone about to be taken, and nowhere to run, Yalah uses her ring of keys to unlock G18, steps inside with her children, and locks the door behind her. She does not attack from G18. She waits.
 
 ### Stone Recovery Paths
 

@@ -17,13 +17,13 @@
 
 The estate occupies a full block on Saerdoun Street, North Ward. The following information is available through observation, skill checks, and time spent watching. None of it is volunteered.
 
-**Immediately visible (no check, anyone on Saerdoun Street):** The perimeter wall is old stone — reinforced, extending above head height. The main gate faces the street. A two-story carriage arch flanks it. The roof of the Coach House (G3) is the only interior structure visible over the wall. The upper floors of the manor proper rise behind it.
+**Immediately visible (no check, anyone on Saerdoun Street):** The perimeter wall is old stone, reinforced, extending above head height. The main gate faces the street. A two-story carriage arch flanks it. The roof of the Coach House (G3) is the only interior structure visible over the wall. The upper floors of the manor proper rise behind it.
 
 **DC 12 Perception or 10 minutes of observation:** The wall is approximately 12 feet. The interior yard slopes downward, making the drop on the far side less than the exterior climb — easier to descend than to scale from outside. The Coach House roofline can be reached from outside (DC 10 Athletics on the carriage arch) and provides a platform for approaching the Balcony (G17) without a wall check.
 
 **DC 14 Perception:** The Balcony (G17) on the upper floor is recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance. It is reachable from the Coach House roofline.
 
-**DC 15 Investigation (close approach to the gate):** The main gate latch does not yield to normal pressure. A faint resistance — not mechanical — stops the mechanism before it catches. *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
+**DC 15 Investigation (close approach to the gate):** The main gate latch does not yield to normal pressure. A faint resistance stops the mechanism before it catches. *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
 
 **Spending 30+ minutes watching from a fixed position:** The City Watch patrol passes Saerdoun Street irregularly, roughly every 20 minutes. Any audible commotion outside the walls draws a Watch response in 1d6 + 4 minutes (1 mage, 6 veterans). This timing is not available through a skill check; it requires sustained observation or a knowledgeable contact (Jalester, Cromley, any city-wise NPC).
 
@@ -65,7 +65,7 @@ If this condition is not set, Artheyn Manor is empty.
 
 The party must decide when to enter. This decision determines everything that follows.
 
-**Day state** (arriving before nightfall on Ches 24th): The Gralhund household is in its normal configuration — guards at their posts, the nimblewright dormant in G11, Lady Yalah upstairs with the Stone. Floxin's team has not arrived. No bodies. Proceed to **ev-03: Daytime Infiltration**.
+**Day state** (arriving before nightfall on Ches 24th): The Gralhund household is in its normal configuration: guards at their posts, the nimblewright dormant in G11, Lady Yalah upstairs with the Stone. Floxin's team has not arrived. No bodies. Proceed to **ev-03: Daytime Infiltration**.
 
 **Night state** (arriving on the night of Ches 24th, raid in progress): Floxin's team has already entered through the Pantry (G6). The raid is underway. At least a dozen bodies when the party arrives. Three factions in collision. Proceed to **ev-04: The Zhentarim Raid**.
 

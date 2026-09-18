@@ -55,16 +55,16 @@ The Alarm network does not respond to whispered voices, Prestidigitation food-sc
 
 ### Lord Orond Gralhund (G12 — Day Only)
 
-Orond is in the Family Library (G12) during the day — reading at the padded chair, an illuminated historical volume open across his knees, a glass of something amber on the side table. He is the softest point of entry to the upper floor if the party reaches him through a peaceful approach or catches him before guards arrive.
+Orond is in the Family Library (G12) during the day, reading at the padded chair, an illuminated historical volume open across his knees, a glass of something amber on the side table. He is the softest point of entry to the upper floor if the party reaches him through a peaceful approach or catches him before guards arrive.
 
 Orond will not fight under any circumstances. He has paid others to take that risk for him.
 
-Under DC 10 Charisma (Persuasion) — Disadvantage if Yalah has already been alerted — he confirms:
+Under DC 10 Charisma (Persuasion; Disadvantage if Yalah has already been alerted), he confirms:
 
 - The Stone of Golorr is an ancient creature transformed into an artifact; it holds the location of a hidden vault beneath Waterdeep containing enormous wealth.
 - Lady Yalah sent the nimblewright to Trollskull Alley on Ches 22nd. He calls the outcome "careless," and stops talking for a moment.
-- There is a religious affiliation — symbols in a trunk in the master bedroom — that he has never asked about directly.
-- The house funded Zhentarim agents who abducted Renaer Neverember months ago. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar. It went sideways — the gnome did not come for the boy. He says this quietly, as if volume changes what it means.
+- There is a religious affiliation (symbols in a trunk in the master bedroom) that he has never asked about directly.
+- The house funded Zhentarim agents who abducted Renaer Neverember months ago. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar. It went sideways: the gnome never came for the boy. He says this quietly, as if volume changes what it means.
 
 If the party takes Orond into custody and brings him upstairs to G16, Yalah will surrender the Stone without a Charisma check. Hrabbaz will stand down if Yalah looks at him first.
 
@@ -80,7 +80,7 @@ If the party takes Orond into custody and brings him upstairs to G16, Yalah will
 
 ### Yalah's Contingency
 
-If Yalah judges that the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright — dormant in G11, awaiting either the Alarm trigger or her command word spoken from G16 — to take the Stone and flee rather than surrender it. She does not do this reflexively; she reads the situation first. If the nimblewright escapes with the Stone, proceed to ev-08: The Rooftop Chase.
+If Yalah judges that the confrontation has turned against her and the Stone is about to be taken, she may order the nimblewright in G11 to take the Stone and flee rather than surrender it. The construct is dormant there, triggered by either the Alarm network or her command word spoken from G16. She does not do this reflexively; she reads the situation first. If the nimblewright escapes with the Stone, proceed to ev-08: The Rooftop Chase.
 
 > **[GM]**
 >
@@ -97,14 +97,14 @@ If Yalah judges that the confrontation has turned against her and the Stone is a
 
 ### The Raid Arrives
 
-If the party is still inside when nightfall arrives on Ches 24th — or if the Zhent watchers spotted the party entering and Floxin mobilizes early — the raid begins regardless. Hurv Taldred transforms into a shadow in the yard (G2). The Party can hear the pantry door give from inside the building.
+If the party is still inside when nightfall arrives on Ches 24th, or if the Zhent watchers spotted them entering and Floxin mobilizes early, the raid begins regardless. Hurv Taldred transforms into a shadow in the yard (G2). The Party can hear the pantry door give from inside the building.
 
 Continue from current adversary positions into ev-04: The Zhentarim Raid. The day-to-night chain folds both events into a single session without a break.
 
 ### Concluding the Event
 
 #### G12 Searched: Chirada Letter Found / Not Found
-Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in Arc E — Yellowspire, Chirada's name, and the Second Eye lead.
+Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in Arc E: Yellowspire, Chirada's name, and the Second Eye lead.
 
 #### Orond's Confession: Heard / Missed
 Record whether the party questioned Orond and heard his four revelations. Shapes ev-09 aftermath — parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
@@ -131,4 +131,4 @@ The villa during the day is a functioning household — guarded, armed, and oper
 
 ## Summary
 
-The party entered Gralhund Villa during the day. The estate was guarded and operational, Lady Yalah upstairs with the Stone. Lord Orond was in the library. Whatever the party did here — who they spoke with, what doors they opened — set the shape of what came next.
+The party entered Gralhund Villa during the day. The estate was guarded and operational, Lady Yalah upstairs with the Stone. Lord Orond was in the library. Whatever the party did here set the shape of what came next: who they spoke to, what doors they opened, what they left standing.

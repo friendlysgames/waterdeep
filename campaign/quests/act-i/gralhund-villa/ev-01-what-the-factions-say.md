@@ -18,7 +18,7 @@ The party has roughly forty-eight hours. The faction contacts know it. Each one 
 
 ### Mirt (Harpers — available if Harper renown 1+)
 
-The quietest nudge, carrying the clearest self-interest. Mirt delivers his input in person if possible — over food, without an agenda on the table, at a time of his choosing. He does not order the party to move on the villa. He offers gratitude. Stated as gratitude, not as a threat, not as a condition. He notes, almost as an aside, that the Watch's involvement in these matters "tends to end them." He is not wrong. He does not explain that the Harpers have been tracking the Stone for weeks and that a party arriving first — and bringing it to him — gives him leverage over every faction that doesn't hear about it first.
+The quietest nudge, carrying the clearest self-interest. Mirt delivers his input in person if possible — over food, without an agenda on the table, at a time of his choosing. He does not order the party to move on the villa. He offers gratitude. Stated as gratitude, not as a threat, not as a condition. He notes, almost as an aside, that the Watch's involvement in these matters "tends to end them." He is not wrong. He does not explain that the Harpers have been tracking the Stone for weeks, or that the party, arriving at the villa first and bringing it to him, gives him leverage over every faction that hears about it later.
 
 The party can read whatever they want into his warmth. It is not performed.
 
@@ -30,13 +30,13 @@ The most direct voice in the room. Davil places Floxin in Trollskull Alley that 
 
 ### Jalester Silvermane (Lords' Alliance — available if Lords' Alliance renown 1+)
 
-The sole voice of caution, and the only contact who says what he means without a subtext behind it. Unauthorized entry into a North Ward noble's estate carries the same legal weight as burglary. He is not wrong about this. He offers the "cleanest legal path": a conversation with Sergeant Cromley, who will look the other way for forty-eight hours if the party signs a statement committing to share their intelligence within that window.
+The sole voice of caution, and the only contact who says what he means without a subtext behind it. Unauthorized entry into a North Ward noble's estate carries the same legal weight as burglary. He is not wrong about this. He offers what he calls the cleanest legal path: a conversation with Sergeant Cromley, who will look the other way for forty-eight hours if the party signs a statement committing to share their intelligence within that window.
 
 Jalester does not acknowledge that forty-eight hours means the Stone will be gone before any legal process concludes. He does not know. The party does.
 
 ### Vajra Safahr (Force Grey — available if Force Grey renown 1+, or through Blackstaff Tower contact)
 
-No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward. What "afterward" means in practice — protection, advocacy, or simply documentation that something was said — she does not specify. Her instruction is clear and her backing is ambiguous.
+No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward, without specifying what this means in practice — protection, advocacy, or simply documentation that something was said. Her instruction is clear and her backing is ambiguous.
 
 ### Jarlaxle Baenre (Bregan D'Aerthe — conditional on *Jarlaxle Informed* attunement from Arc C, or BD renown 1+)
 

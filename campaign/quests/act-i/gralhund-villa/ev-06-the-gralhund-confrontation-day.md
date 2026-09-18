@@ -21,7 +21,7 @@ Lady Yalah Gralhund: fitted breastplate, rapier at her hip, a small brass key on
 
 ### The Negotiation Phase
 
-Yalah does not fight if she can avoid it. She trades — information, coin, assurances she has no intention of keeping — buying time while she reads the room. The Stone is in an inner pocket of her breastplate and will stay there as long as the situation is in motion.
+Yalah does not fight if she can avoid it. She trades: information, coin, assurances she has no intention of keeping. Each offer is time purchased while she reads the room. The Stone is in an inner pocket of her breastplate and will stay there as long as the situation is in motion.
 
 What she will offer, freely:
 - Safe passage out of the estate, her word that the guards will stand down.
@@ -55,7 +55,7 @@ Fel'rekt negotiates through the G18 door. *"The Stone, Lady Gralhund. That is al
 
 ### Yalah's Nimblewright Contingency
 
-If Yalah judges that the confrontation has turned against her — Hrabbaz is down or cornered, Stone about to be taken, no negotiating room left — she speaks the command word from memory. The nimblewright in G11 activates, crosses the upper floor in under a minute, and Yalah passes it the Stone through the balcony door.
+If Hrabbaz is down or cornered, the Stone about to be taken, no negotiating room left, Yalah speaks the command word from memory. The nimblewright in G11 activates, crosses the upper floor in under a minute, and Yalah passes it the Stone through the balcony door.
 
 The nimblewright takes the Balcony (G17) route to the Coach House roofline and drops to the street.
 
