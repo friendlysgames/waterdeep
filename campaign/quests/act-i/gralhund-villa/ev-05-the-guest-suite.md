@@ -48,7 +48,7 @@ Under **DC 10 Intimidation** (Disadvantage if he has any reason to believe Yalah
 
 **3. A religious affiliation.** He does not know its name, does not know who leads it. There are symbols in a trunk in the master bedroom. He has never opened it. "I have been wise enough not to ask."
 
-**4. The Neverember abduction.** The house funded Zhentarim agents who seized Renaer Neverember weeks ago, before the fireball, before the Stone. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar, the gnome who stole it from Lord Neverember's people. "It went sideways. The gnome didn't come for the boy." He says this softly, as if volume changes what it means.
+**4. The Neverember abduction.** The house funded Zhentarim agents who seized Renaer Neverember two tendays ago, before the fireball, before the Stone. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar, the gnome who stole it from Lord Neverember's people. "It went sideways. The gnome didn't come for the boy." He says this softly, as if volume changes what it means.
 
 **Orond as leverage in G16.** If the party brings Orond upstairs when they approach Lady Yalah, she will surrender the Stone without a Charisma check; no negotiation required. Hrabbaz will stand down if she looks at him first. This is the fastest resolution path in the arc.
 
