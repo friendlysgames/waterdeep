@@ -1,4 +1,4 @@
-# Arc B: Flowchart
+﻿# Trollskull Alley: Flowchart
 
 ## Scene Sequence
 
@@ -21,7 +21,7 @@
          ↓
 [ev-07] The Twin Parades            ←── Calendar-fixed: Ches 21
                 │
-                └── → ARC C: FIREBALL (Ches 22)
+                └── → Fireball: FIREBALL (Ches 22)
 ```
 
 ## Key Notes on Sequence
@@ -58,7 +58,7 @@ ev-03: Ryvarra spotted (optional)
 ev-07: Procession observation
   ├── DC 14 Perception + DC 16 Arcana → "Nimblewright: Noticed"
   └── Miss either check → "Nimblewright: Missed"
-          → Arc C opens cold vs. corroborated
+          → Fireball opens cold vs. corroborated
 ```
 
 **Fireball Victim Selection:**
@@ -71,18 +71,18 @@ DM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
 
 | Attunement | Set At | Read By |
 |---|---|---|
-| Lif Appeased | ev-06 | Appendix F (bartender mechanics); Arc C (Spirit Haunting) |
-| Lif Destroyed | ev-01 | Appendix F (no bartender line); Arc C (Spirit Haunting absent) |
-| Sewer Grate Documented | ev-02 | Arc C (response team sewer approach) |
+| Lif Appeased | ev-06 | Appendix F (bartender mechanics); Fireball (Spirit Haunting) |
+| Lif Destroyed | ev-01 | Appendix F (no bartender line); Fireball (Spirit Haunting absent) |
+| Sewer Grate Documented | ev-02 | Fireball (response team sewer approach) |
 | Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
-| Faction Joined: [Name] | ev-04 | Appendix C, D (missions); Arc E (outpost access) |
-| BD Contact Established | ev-04 | Arc H (Zardoz relationship) |
-| BD Contact Severed | ev-04 | Arc H (no BD relationship in arc entry) |
+| Faction Joined: [Name] | ev-04 | Appendix C, D (missions); Faction Outposts (outpost access) |
+| BD Contact Established | ev-04 | Sea Maidens Faire (Zardoz relationship) |
+| BD Contact Severed | ev-04 | Sea Maidens Faire (no BD relationship in arc entry) |
 | Meloon Met (Field of Triumph) | ev-05 | Force Grey Mission 3 |
-| Xanathar Token: Kept/Discarded/Reported | ev-05 | Arc E, Arc F |
-| Ammalia Cassalanter Met | ev-06 | Arc G (entry disposition) |
-| Undermountain Thread Activated | ev-06 | Arc F (intelligence briefing depth) |
-| Nimblewright: Noticed | ev-07 | Arc C (corroboration vs. cold open) |
-| Nimblewright: Missed | ev-07 | Arc C (Renaer's account is first data point) |
-| Fireball Victim Designated: [NPC] | ev-07 | Arc C (opening beat) |
+| Xanathar Token: Kept/Discarded/Reported | ev-05 | Faction Outposts, Xanathar's Lair |
+| Ammalia Cassalanter Met | ev-06 | Cassalanter Villa (entry disposition) |
+| Undermountain Thread Activated | ev-06 | Xanathar's Lair (intelligence briefing depth) |
+| Nimblewright: Noticed | ev-07 | Fireball (corroboration vs. cold open) |
+| Nimblewright: Missed | ev-07 | Fireball (Renaer's account is first data point) |
+| Fireball Victim Designated: [NPC] | ev-07 | Fireball (opening beat) |

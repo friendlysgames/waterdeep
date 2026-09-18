@@ -1,10 +1,10 @@
-# Arc B: Trollskull Alley
+﻿# Trollskull Alley: Trollskull Alley
 
 > **[GM]**
 >
 > #### Quest Requirements
 >
-> Arc A complete. The party holds the deed to Trollskull Manor, received from Volo Geddarm as payment for Floon Blagmaar's rescue. They arrive in the North Ward as 2nd-level characters with no established community and not enough gold.
+> Finding Floon complete. The party holds the deed to Trollskull Manor, received from Volo Geddarm as payment for Floon Blagmaar's rescue. They arrive in the North Ward as 2nd-level characters with no established community and not enough gold.
 >
 > #### Difficulty
 >
@@ -14,7 +14,7 @@
 >
 > #### Milestone Overview
 >
-> Arc B awards **2 Milestone Points** total, one per milestone event.
+> Trollskull Alley awards **2 Milestone Points** total, one per milestone event.
 >
 > - **The Factions Come Calling** Event (ev-04): 1 Milestone Point — factions enrolled; renovation financing secured
 > - **The Grand Opening** Event (ev-06): 1 Milestone Point → Level 3 — Trollskull Manor opens to the public
@@ -34,9 +34,9 @@
 - **Vincent Trench / Valantajar** (independent) — rakshasa detective at the Tiger's Eye; self-serving interest in the party
 - **Rishaal the Page-Turner** (Watchful Order) — bookseller at Book Wyrm's Treasure; filed the poltergeist notice; suspicious of Vincent Trench
 - **Ulkoria Stonemarrow** (Watchful Order / Masked Lords) — mage neighbor; glyph offer; inspects the courtyard oak without explanation
-- **Ryvarra** (Bregan D'Aerthe) — drow field observer from the Yawning Portal (Arc A ev-01); spotted near the alley during renovation; BD surveillance escalation
+- **Ryvarra** (Bregan D'Aerthe) — drow field observer from the Yawning Portal (Finding Floon ev-01); spotted near the alley during renovation; BD surveillance escalation
 - **J.B. Nevercott** (Bregan D'Aerthe) — haberdasher cover identity; arrives after BD surveillance is acknowledged
-- **Renaer Neverember** (independent) — party ally from Arc A; offers no-interest loan up to 200 gp; townhouse available as workspace
+- **Renaer Neverember** (independent) — party ally from Finding Floon; offers no-interest loan up to 200 gp; townhouse available as workspace
 - **Floon Blagmaar** (independent) — appears twice during renovation; dice game in the Trades Ward is not going well
 - **Zardoz Zord / Jarlaxle Baenre** (Bregan D'Aerthe) — Sea Maidens Faire captain; sponsors the party's tournament entry; watches from his box
 - **Meloon Wardragon** (Force Grey) — leads the opposing team in the Field of Triumph final round; met as himself here; load-bearing for Force Grey Mission 3

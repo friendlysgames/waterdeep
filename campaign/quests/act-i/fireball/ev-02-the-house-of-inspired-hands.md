@@ -98,10 +98,10 @@ From ev-02 — all three are equivalent:
 
 ### Concluding the Event
 
-#### Nim Contacted: CSL / Via Translation
-Record whether any party member communicated with Nim directly in Common Sign Language, or whether the conversation went through Valetta's partial translation. Read by design-notes.md (Nim character moment documentation).
+#### Nim Contacted Via CSL: True / False
+Record whether any party member communicated with Nim directly in Common Sign Language. False if the conversation went through Valetta's partial translation. Read by design-notes.md (Nim character moment documentation).
 
-#### Detector Obtained
+#### Detector Obtained: True / False
 The party has the nimblewright detector. Required for ev-03. Read by ev-03.
 
 > **[GM]**

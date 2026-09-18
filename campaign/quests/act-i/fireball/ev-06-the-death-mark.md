@@ -85,20 +85,20 @@ The letter is personal — Kalain writes as if she and Dalakhar are resuming a c
 
 ### Concluding the Event
 
-#### Death Mark Discovered
+#### Death Mark Discovered: True / False
 The party found and identified Xanathar's death mark. Record whether the identification check succeeded (symbol recognized as Xanathar's sigil). Read by faction contact reactions above and by ev-07 (Kalain's characterization of the intelligence landscape).
 
-#### Xanathar Team Encountered
+#### Xanathar Team Encountered: True / False
 Record whether the team made contact and what the party revealed. Read by Gralhund Villa/E (Xanathar faction awareness of the party's investigation depth).
 
-#### Kalain's Letter: Received / Not Received
-Record whether the party left contact information with Myl Dunpier. If yes, the letter arrives Ches 26th. If no, it sits at the inn. Read by ev-07 trigger condition.
+#### Kalain Letter Received: True / False
+Record whether the party left contact information with Myl Dunpier. If True, the letter arrives Ches 26th. If False, it sits at the inn. Read by ev-07 trigger condition.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> If **Kalain's Letter: Received** and the party chooses to investigate — proceed to the **Kalain's Tower** Event (ev-07).
+> If *Kalain Letter Received: True* and the party chooses to investigate — proceed to the **Kalain's Tower** Event (ev-07).
 >
 > If the party is ready to commit to Gralhund Villa — proceed to **Gralhund Villa: Gralhund Villa**. The letter can be collected afterward if the party returns to the inn before Ches 28th.
 

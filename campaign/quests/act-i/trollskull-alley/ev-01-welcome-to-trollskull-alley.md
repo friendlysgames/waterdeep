@@ -1,4 +1,4 @@
-# Welcome to Trollskull Alley
+﻿# Welcome to Trollskull Alley
 
 > **[GM]**
 >
@@ -71,7 +71,7 @@ Cross-ref **Appendix A** (Lif profile), **Appendix F, Part 1** (Lif as bartender
 
 ### Renovation Economics
 
-The numbers: **1,000 gp** to renovate over 12 days; **250 gp** for guild licenses and contracts paid upfront. Total: **1,250 gp**. A 2nd-level party fresh from Arc A is unlikely to have this on hand.
+The numbers: **1,000 gp** to renovate over 12 days; **250 gp** for guild licenses and contracts paid upfront. Total: **1,250 gp**. A 2nd-level party fresh from Finding Floon is unlikely to have this on hand.
 
 Financing options available immediately:
 
@@ -82,11 +82,11 @@ The gap between what the party has and what the renovation costs is the engine t
 
 ### Concluding the Event
 
-#### Lif Appeased
+#### Lif Appeased: True / False
 
 Awarded at the Grand Opening (ev-06), not here. Lif's acceptance accumulates quietly across the renovation period. At ev-06, he is behind the bar on opening night without being asked. The full attunement unpacking is in ev-06.
 
-#### Lif Destroyed
+#### Lif Destroyed: True / False
 
 Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in Appendix F adjusts accordingly. Record this attunement now; ev-06 reads it.
 

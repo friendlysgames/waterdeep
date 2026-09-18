@@ -1,4 +1,4 @@
-# The Neighbors
+﻿# The Neighbors
 
 > **[GM]**
 >
@@ -48,17 +48,17 @@ Award **Ryvarra Identified** if both checks succeed. Cross-ref **Appendix A** (R
 
 ### The DM's Observation Task
 
-Arc B's most important output is invisible. The party spends these scenes getting to know the Trollskull Alley community. The DM spends these scenes observing which NPC the players have bonded with. The observation is not optional; the fireball victim must be identified before Arc C begins.
+Trollskull Alley's most important output is invisible. The party spends these scenes getting to know the Trollskull Alley community. The DM spends these scenes observing which NPC the players have bonded with. The observation is not optional; the fireball victim must be identified before Fireball begins.
 
 Candidates and their loss logic are in ev-07. Begin tracking now.
 
 ### Concluding the Event
 
-#### Ryvarra Identified
+#### Ryvarra Identified: True / False
 
 Both Perception and Investigation checks passed. BD surveillance is confirmed. When J.B. Nevercott arrives in ev-04, the party already knows what they're dealing with. The attunement modifies how ev-04's BD recruitment sequence opens.
 
-#### Two Zhentarims Known
+#### Two Zhentarims Known: True / False
 
 Fala's mention of Ziraj (or a subsequent follow-up conversation about the "friend who visits the second floor") establishes the Doom Raiders' personal-connection style before Davil Starsong's recruitment invitation arrives. The distinction between Doom Raiders and Manshoon's Splinter is easier to absorb when one half of it has already been humanized.
 

@@ -1,4 +1,4 @@
-# The Grand Opening
+﻿# The Grand Opening
 
 > **[GM]**
 >
@@ -74,17 +74,17 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 ### Concluding the Event
 
-#### Lif Appeased
+#### Lif Appeased: True / False
 
 If not already awarded: Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Record the attunement; Appendix F's full bartender mechanics apply from this point forward.
 
-#### Ammalia Cassalanter Met
+#### Ammalia Cassalanter Met: True / False
 
-Record attunement. Arc G reads this flag; Ammalia's arc-entry disposition is shaped by this first contact.
+Record attunement. Cassalanter Villa reads this flag; Ammalia's arc-entry disposition is shaped by this first contact.
 
-#### Undermountain Thread Activated
+#### Undermountain Thread Activated: True / False
 
-Record when the first of the three seeds is received. The full three-seed cluster becomes relevant to Arc F's intelligence briefing.
+Record when the first of the three seeds is received. The full three-seed cluster becomes relevant to Xanathar's Lair's intelligence briefing.
 
 > **[GM]**
 >
@@ -94,7 +94,7 @@ Record when the first of the three seeds is received. The full three-seed cluste
 >
 > #### Milestone: The Grand Opening
 >
-> Completing this Event awards 1 Milestone Point. This is likely to advance the party to Level 3 if they have completed Arc A and **The Factions Come Calling** Event.
+> Completing this Event awards 1 Milestone Point. This is likely to advance the party to Level 3 if they have completed Finding Floon and **The Factions Come Calling** Event.
 
 ## Overview
 

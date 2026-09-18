@@ -68,10 +68,10 @@ The lockbox contains some of the most consequential intelligence in the entire c
 
 ### Concluding the Event
 
-#### Vault-Opening Method Known
+#### Vault Opening Method Known: True / False
 The party has the Melairkyn notes: dragon scale + mithral hammer + sunlight = vault opens. Read by Vault of Dragons (ceremonial opening sequence, Scene 3).
 
-#### Eyes Letter Found
+#### Eyes Letter Found: True / False
 The party has the unsigned letter confirming Neverember held all three Eyes four years ago. Read by Vault of Dragons (Vault of Dragons: the Full Awakening scene, confirming the deliberate separation).
 
 > **[GM]**

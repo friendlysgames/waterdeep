@@ -113,15 +113,17 @@ The persona drops. Hat removed, quieter smile, plain speech. He offers the compl
 
 ### Concluding the Event
 
-#### Jarlaxle Informed / Ledger Stolen / Crystal Ball Accessed
+#### Jarlaxle Informed: True / False
+The party spoke directly with Jarlaxle (as Zord or revealed). True = he deploys BD agents to Gralhund Villa before the party arrives. Read by Gralhund Villa (faction interaction matrix; *Jarlaxle Informed* trigger).
 
-Record which path the party used to reach the Gralhund connection:
-- **Jarlaxle Informed:** He deploys BD agents to Gralhund Villa before the party arrives.
-- **Ledger Stolen (Heartbreaker):** Jarlaxle discovers the theft within 24 hours; does not deploy; partial ledger obtained.
-- **Ledger Stolen (Eyecatcher):** Complete ledger obtained; Jarlaxle discovers theft within 24 hours; does not deploy.
-- **Crystal Ball Accessed:** Maximum intelligence (crystal ball footage); Jarlaxle discovers access; does not deploy; is curious about who found the sub.
+#### Nimblewright Ledger Stolen: True / False
+The party stole seller records from the Heartbreaker or Eyecatcher. True = Jarlaxle discovers the theft within 24 hours and does not deploy. Read by Gralhund Villa.
 
-Read by Gralhund Villa (Jarlaxle pre-positioning; faction interaction matrix).
+#### Ledger Complete: True / False
+Record only when *Nimblewright Ledger Stolen* is True. True = records from the Eyecatcher (complete chain of sale). False = Heartbreaker only (partial). Read by Gralhund Villa (intelligence depth).
+
+#### Crystal Ball Accessed: True / False
+The party accessed the Scarlet Marpenoth's crystal ball footage. True = maximum intelligence; Jarlaxle discovers the access and does not deploy; is curious about who found the sub. Read by Gralhund Villa.
 
 > **[GM]**
 >

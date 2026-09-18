@@ -216,11 +216,11 @@ All four villain factions move on the crime scene within hours of the explosion.
 
 ### Concluding the Event
 
-#### Necklace of Fireballs: Recovered / Not Recovered
+#### Necklace of Fireballs Recovered: True / False
 
 Record whether the party obtained the *necklace of fireballs* from Martem Trec. Two beads remaining. Broken clasp makes the object vulnerable — a failed Dexterity saving throw from any source while carrying it may detonate a bead (DC 12). Read by ev-03 (party has a hazardous item during the sweep).
 
-#### Renaer Contact: Gralhund Villa Named / Not Named
+#### Gralhund Villa Named: True / False
 
 Record whether Renaer has returned with the Harpers' intelligence placing Floxin at Gralhund Villa. This fires by Ches 23rd morning if the party mentioned the burned man fleeing north. Read by ev-03 (nimblewright hunt convergence) and ev-04 (if the party skips the Faire).
 

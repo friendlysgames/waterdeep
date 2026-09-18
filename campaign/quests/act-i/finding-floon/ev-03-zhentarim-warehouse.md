@@ -1,4 +1,4 @@
-# Zhentarim Warehouse
+﻿# Zhentarim Warehouse
 
 > **[GM]**
 >
@@ -78,11 +78,11 @@ A captured kenku repeats under DC 10 Charisma (Intimidation): "Follow the yellow
 
 ### Concluding the Event
 
-#### Renaer Neverember Found: Renaer Alive at Arc Completion
+#### Renaer Found: True / False
 
-Renaer is found in Z02 and survives the arc. He becomes a recurring contact in Arc B and beyond. His account of the locket seizure establishes Manshoon's cell's objective — the Eye of the Stone of Golorr.
+Renaer is found in Z02 and survives the arc. He becomes a recurring contact in Trollskull Alley and beyond. His account of the locket seizure establishes Manshoon's cell's objective — the Eye of the Stone of Golorr.
 
-#### Warehouse Cleared: All Kenku Dealt With
+#### Warehouse Cleared: True / False
 
 The kenku are neutralized (defeated, driven off, or subdued). The party controls the warehouse. Any loot in Z03 (four paintings, fifteen silver trade bars) is now accessible without contest.
 

@@ -1,4 +1,4 @@
-# The Guild Gauntlet
+﻿# The Guild Gauntlet
 
 > **[GM]**
 >
@@ -8,7 +8,7 @@
 >
 > - The party visits six guilds to obtain required permits; each is a social encounter with its own texture
 > - The Watchful Order's inspector notices Lif and introduces a deadline or a formality depending on ev-01's outcome
-> - The Cellarers' inspector flags the sewer access grate (T7) — a seed for Arc C response team routing
+> - The Cellarers' inspector flags the sewer access grate (T7) — a seed for Fireball response team routing
 > - Emmek Frewn begins his sabotage campaign: Stage 1 imposes −2 on permit inspection DCs for the first week
 > - The Carpenters' Guild negotiation is the arc's first persuasion challenge with a concrete lever
 >
@@ -24,7 +24,7 @@ Each requires a site inspection and a fee. Cross-ref **Appendix F, Part 1** for 
 
 ### Emmek Frewn's First Move
 
-Frewn spent the day after the party arrived speaking to the Carpenters' Guild foreman and the Cellarers' inspector about the party's "property destruction history" and "possible Watch complications" from the warehouse incident in Arc A. These conversations do not block any permit but impose a **−2 penalty on all guild inspection DCs for the first week**. The party will not know the source unless they ask and succeed on a **DC 13 Charisma (Persuasion)** check with the relevant inspector.
+Frewn spent the day after the party arrived speaking to the Carpenters' Guild foreman and the Cellarers' inspector about the party's "property destruction history" and "possible Watch complications" from the warehouse incident in Finding Floon. These conversations do not block any permit but impose a **−2 penalty on all guild inspection DCs for the first week**. The party will not know the source unless they ask and succeed on a **DC 13 Charisma (Persuasion)** check with the relevant inspector.
 
 The Shard Shunner wererats in halfling form are visible in the alley behind Emmek during his **The Neighbors** Event visit, casing the manor as potential staff applicants and looking for entry points. **DC 13 Wisdom (Perception)** to notice them now.
 
@@ -42,7 +42,7 @@ This is the party's first negotiation in a city where knowing what you're buying
 
 The inspector finds the **sewer access grate at T7** in the manor's cellar and connects it to the city's sewer network through infrastructure predating the current building by at least two centuries. He flags it for "structural heritage documentation" — not a blocking condition, but it goes on the permit record.
 
-Award **Sewer Grate Documented** attunement. This passage becomes relevant when faction response teams use the sewer approach, and when the party re-enters the sewer network in Arc C.
+Award **Sewer Grate Documented** attunement. This passage becomes relevant when faction response teams use the sewer approach, and when the party re-enters the sewer network in Fireball.
 
 ### The Watchful Order Inspection
 
@@ -66,9 +66,9 @@ Cross-ref **Appendix A** (Broxley Fairkettle profile, Hammond Kraddoc profile).
 
 ### Concluding the Event
 
-#### Sewer Grate Documented
+#### Sewer Grate Documented: True / False
 
-The Cellarers' inspector's flag is on the permit record. The T7 grate connects the manor's cellar to the city sewer network. Cross-ref **Arc C** (response team routing, sewer re-entry).
+The Cellarers' inspector's flag is on the permit record. The T7 grate connects the manor's cellar to the city sewer network. Cross-ref **Fireball** (response team routing, sewer re-entry).
 
 > **[GM]**
 >

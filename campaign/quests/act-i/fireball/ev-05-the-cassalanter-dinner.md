@@ -73,9 +73,19 @@ The party declines outright, accuses the Cassalanters of involvement, or leaves 
 
 ### Concluding the Event
 
-#### Cassalanter Response: Track (A / B / C / D)
+#### Cassalanter Track A: True / False
+The party shared intelligence with Victoro — crime scene findings, the nimblewright, the Gralhund name. Cassalanters know the party's investigative depth entering Cassalanter Villa; alliance track opens.
 
-Record which response track the party took. Read by Cassalanter Villa (Cassalanter operational posture; alliance track availability; response team briefing).
+#### Cassalanter Track B: True / False
+The party deflected — polite misdirection or honest uncertainty. Victoro interprets it as operational caution; neither warmth nor frost entering the villa.
+
+#### Cassalanter Track C: True / False
+The party accepted the arrangement outright. Same as Track A plus a follow-up letter naming the vault as "Lord Dagult's Melairkyn project"; alliance track opens with one step already taken.
+
+#### Cassalanter Track D: True / False
+The party refused or treated the dinner as hostile. Cassalanter response teams briefed to watch them as unknown-hostile entering the villa; alliance track closed.
+
+Read by Cassalanter Villa (Cassalanter operational posture; alliance track availability; response team briefing). Only one track fires per play-through; the others are False.
 
 > **[GM]**
 >

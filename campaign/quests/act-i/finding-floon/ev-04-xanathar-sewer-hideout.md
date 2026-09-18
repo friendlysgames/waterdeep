@@ -1,4 +1,4 @@
-# Xanathar Sewer Hideout
+﻿# Xanathar Sewer Hideout
 
 > **[GM]**
 >
@@ -10,7 +10,7 @@
 > - A gazer guard blocks the junction midway — bypassed or defeated before reaching Q01
 > - The party infiltrates an eleven-room Xanathar Guild cell (Q01–Q11)
 > - Floon is alive in Q07; Nihiloor flees through the Q11 portal before the party can engage it
-> - Q09 is a future Dock Ward resource (Arc B); Q11 is the Arc F sewer-to-lair seed
+> - Q09 is a future Dock Ward resource (Trollskull Alley); Q11 is the Xanathar's Lair sewer-to-lair seed
 >
 > For keyed room details (Q01–Q11), see the **Xanathar Sewer Hideout** journal.
 >
@@ -58,7 +58,7 @@ Alert state (goblins awake) is set by the navigation result and the gazer encoun
 
 **Q07 — Boss Chamber:** See below.
 
-**Q09 — Private Cellar:** Peabody halfling family brewing beer below Fishgut Alley. Arc B resource — provides a second sewer entry and exit point.
+**Q09 — Private Cellar:** Peabody halfling family brewing beer below Fishgut Alley. Trollskull Alley resource — provides a second sewer entry and exit point.
 
 **Q11 — Escape Portal:** Stone pillar with Xanathar guildsign and circular key socket. See Nihiloor section below.
 
@@ -90,7 +90,7 @@ After Nihiloor escapes, Q11's pillar is inert. DC 14 Intelligence (Arcana) ident
 >
 > #### Nihiloor — Restraint is the Point
 >
-> The party's encounter with Nihiloor is a sight-line. They see it rise, release the intellect devourer, and glide out of the room. This moment shows that Grum'shar was never the top of this structure. The goal is scale. Players should leave Q07 understanding that something they cannot yet face was running this cell. Its full scope surfaces across Arcs B through F.
+> The party's encounter with Nihiloor is a sight-line. They see it rise, release the intellect devourer, and glide out of the room. This moment shows that Grum'shar was never the top of this structure. The goal is scale. Players should leave Q07 understanding that something they cannot yet face was running this cell. Its full scope surfaces across Trollskull Alley through Xanathar.s Lair.
 
 ### Volo's Payment
 
@@ -104,17 +104,17 @@ The deed is real. **Trollskull Manor** is real, non-operational, and now the par
 
 ### Concluding the Event
 
-#### Floon Blagmaar Rescued: Floon Alive at Rescue
+#### Floon Rescued: True / False
 
-Floon is found alive in Q07 (1 hp) and survives the arc. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Arc B as a Trollskull Alley regular.
+Floon is found alive in Q07 (1 hp) and survives the arc. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Trollskull Alley as a Trollskull Alley regular.
 
-#### Nihiloor Sighted: Party Present in Q07 When Nihiloor Escaped
+#### Nihiloor Sighted: True / False
 
-The party witnessed a mind flayer in the Xanathar Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Arc F.
+The party witnessed a mind flayer in the Xanathar Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Xanathar's Lair.
 
-#### Deed to Trollskull Manor: Volo's Payment Accepted
+#### Trollskull Deed Accepted: True / False
 
-The party holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward. Arc B begins with this deed in hand.
+The party holds legal title to a derelict tavern at 10 Trollskull Alley, North Ward. Trollskull Alley begins with this deed in hand.
 
 > **[GM]**
 >
@@ -122,11 +122,11 @@ The party holds legal title to a derelict tavern at 10 Trollskull Alley, North W
 >
 > The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer (at the warehouse, the Yawning Portal, or en route to the Alley) is the emotional close of the arc.
 >
-> Proceed to **Arc B: Trollskull Alley**. See the **Arc B Overview** for entry conditions.
+> Proceed to **Trollskull Alley: Trollskull Alley**. See the **Trollskull Alley Overview** for entry conditions.
 >
 > #### Milestone: Xanathar Sewer Hideout
 >
-> Completing this Event (Floon rescued from Q07) awards 1 Milestone Point. Arc A awards 2 total Milestone Points. At 2 cumulative points the party advances to Level 2 — instant and party-wide, no Long Rest required.
+> Completing this Event (Floon rescued from Q07) awards 1 Milestone Point. Finding Floon awards 2 total Milestone Points. At 2 cumulative points the party advances to Level 2 — instant and party-wide, no Long Rest required.
 
 ## Overview
 

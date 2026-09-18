@@ -1,4 +1,4 @@
-# The Field of Triumph
+﻿# The Field of Triumph
 
 > **[GM]**
 >
@@ -62,7 +62,7 @@ After the final bout, a Guild scout makes contact: professional and direct, offe
 
 #### Party Branch — Keeps the Token
 
-Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified. This notification becomes relevant in Arc F.
+Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified. This notification becomes relevant in Xanathar's Lair.
 
 #### Party Branch — Discards the Token
 
@@ -70,31 +70,31 @@ Award **Xanathar Token: Discarded**. No further contact in this arc.
 
 #### Party Branch — Reports the Contact to a Faction
 
-Award **Xanathar Token: Reported**. Faction receives intelligence on Guild scouting patterns. Relevant to the intelligence-gathering work in Arc E.
+Award **Xanathar Token: Reported**. Faction receives intelligence on Guild scouting patterns. Relevant to the intelligence-gathering work in Faction Outposts.
 
 ### Jarlaxle Watching
 
-Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled, something considerably more precise underneath the showmanship, the focused patience of a man evaluating something carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Arc H.
+Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled, something considerably more precise underneath the showmanship, the focused patience of a man evaluating something carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Sea Maidens Faire.
 
 Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle Baenre profile).
 
 ### Concluding the Event
 
-#### Meloon Met (Field of Triumph)
+#### Meloon Met: True / False
 
 The party encountered Meloon Wardragon as himself: competitive, warm, direct. Force Grey Mission 3 brings him back changed. The contrast requires this prior meeting. Record the attunement.
 
-#### Xanathar Token: Kept
+#### Xanathar Token Kept: True / False
 
-The party held the Guild scout's token. It functions as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified of them — this notification is read by Arc F's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
+The party held the Guild scout's token. It functions as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified of them — this notification is read by Xanathar's Lair's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
 
-#### Xanathar Token: Discarded
+#### Xanathar Token Discarded: True / False
 
 The party returned or discarded the token. No further Guild contact in this arc.
 
-#### Xanathar Token: Reported
+#### Xanathar Token Reported: True / False
 
-The party brought the token and the scout's approach to a faction. The faction gains intelligence on Guild scouting patterns in the Sea Ward. Read by Arc E's intelligence-gathering phase.
+The party brought the token and the scout's approach to a faction. The faction gains intelligence on Guild scouting patterns in the Sea Ward. Read by Faction Outposts's intelligence-gathering phase.
 
 > **[GM]**
 >

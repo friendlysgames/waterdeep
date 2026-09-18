@@ -72,19 +72,19 @@ After the sweep, two locations produce strong unresolved readings:
 
 ### Concluding the Event
 
-#### Gralhund Villa Located
+#### Gralhund Villa Located: True / False
 The party has confirmed Gralhund Estate on Saerdoun Street, North Ward as the strongest nimblewright signal in the city. The Stone of Golorr is there. Read by Gralhund Villa entry conditions.
 
-#### Faire: Visited First / Skipped
+#### Faire Visited First: True / False
 Record whether the party chose to investigate the Sea Maidens Faire before proceeding to Gralhund Villa. Read by ev-04 (conditional event trigger) and Gralhund Villa (Jarlaxle pre-positioning).
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> **If Faire: Visited First** — proceed to the **The Sea Maidens Faire** Event.
+> **If Faire Visited First: True** — proceed to the **The Sea Maidens Faire** Event.
 >
-> **If Faire: Skipped** — proceed directly to **Gralhund Villa: Gralhund Villa**. The arc transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
+> **If Faire Visited First: False** — proceed directly to **Gralhund Villa: Gralhund Villa**. The arc transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
 >
 > #### Milestone: The Nimblewright Hunt
 >

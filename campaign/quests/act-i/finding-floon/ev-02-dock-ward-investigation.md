@@ -1,4 +1,4 @@
-# Dock Ward Investigation
+﻿# Dock Ward Investigation
 
 > **[GM]**
 >
@@ -36,7 +36,7 @@ He describes five men in black leather armor grabbing Floon and a well-dressed c
 >
 > #### Xoblob's Window
 >
-> The stuffed beholder mounted in Xoblob's window is a magical sensor through which Xanathar occasionally views the street. This is not discoverable at Arc A level. Plant it if it fits the scene; don't press it.
+> The stuffed beholder mounted in Xoblob's window is a magical sensor through which Xanathar occasionally views the street. This is not discoverable at Finding Floon level. Plant it if it fits the scene; don't press it.
 
 #### Path C — Skewered Dragon
 

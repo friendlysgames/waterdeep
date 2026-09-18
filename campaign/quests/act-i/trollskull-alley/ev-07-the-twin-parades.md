@@ -1,4 +1,4 @@
-# The Twin Parades
+﻿# The Twin Parades
 
 > **[GM]**
 >
@@ -7,13 +7,13 @@
 > This Event occurs on Ches 21, the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the arc does not accelerate it. In this Event:
 >
 > - Two processions converge on the Market; the party participates as North Ward residents, not spectators
-> - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Arc C corroboration path
-> - The Sea Maidens Faire fleet arrived in harbor this morning; the first Arc H seed is visible from the parade route
+> - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Fireball corroboration path
+> - The Sea Maidens Faire fleet arrived in harbor this morning; the first Sea Maidens Faire seed is visible from the parade route
 > - BD faction mission window (The Handkerchief Job) if party is Bregan D'Aerthe-enrolled
 > - Davil Starsong is visible in the crowd; Ammalia Cassalanter is at the charity booth
 > - The Festival Aftermath (Frewn's cask incident) provides closure on Emmek's arc and confirms Stage 4 misfired
 > - The DM's fireball victim selection must be finalized before this Event ends
-> - The arc hard-cuts to Arc C at this Event's conclusion
+> - The arc hard-cuts to Fireball at this Event's conclusion
 >
 > Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
 >
@@ -23,7 +23,7 @@
 
 Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation.
 
-The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Arc H reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
+The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Sea Maidens Faire reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
 
 Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar).
 
@@ -38,11 +38,11 @@ The figure is visible for approximately two minutes before the procession moves 
 
 | Check Result | Attunement |
 |---|---|
-| Both checks pass | "Nimblewright: Noticed" — Arc C opens with immediate corroboration of Renaer's account |
+| Both checks pass | "Nimblewright: Noticed" — Fireball opens with immediate corroboration of Renaer's account |
 | Only Perception passes | "Nimblewright: Noticed" — party saw the mechanical figure but cannot name it |
-| Neither check passes | "Nimblewright: Missed" — Arc C's nimblewright thread opens cold; Renaer's account is the first data point |
+| Neither check passes | "Nimblewright: Missed" — Fireball's nimblewright thread opens cold; Renaer's account is the first data point |
 
-This is pure Arc C foreshadowing. There is nothing to investigate here; the procession moves on.
+This is pure Fireball foreshadowing. There is nothing to investigate here; the procession moves on.
 
 ### Faction Encounters
 
@@ -62,12 +62,12 @@ Before the Event ends, the DM must designate the fireball victim. The arc has pr
 
 | NPC | Introduced | Loss Logic |
 |---|---|---|
-| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Arc C; adjust that event accordingly. |
+| Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Fireball; adjust that event accordingly. |
 | Tally Fellbranch | ev-03 | Connected to Renaer and Melannor; his death damages two faction relationships |
-| Floon Blagmaar | ev-03, ev-05 | The party rescued him in Arc A; losing him again hits differently the second time |
+| Floon Blagmaar | ev-03, ev-05 | The party rescued him in Finding Floon; losing him again hits differently the second time |
 | Lif | ev-01 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |
 | A hired staff member | ev-06 | Only if the party bonded with a specific candidate; requires observed investment during hiring |
-| A PC backstory NPC | Setup-dependent | Works if a Waterdeep backstory connection was activated during Arc B |
+| A PC backstory NPC | Setup-dependent | Works if a Waterdeep backstory connection was activated during Trollskull Alley |
 
 The victim is whoever the DM watched become real to the table. Cross-ref **Ch. 3: Running the Campaign** (The Fireball Victim mechanic) for full guidance.
 
@@ -81,19 +81,19 @@ This is Emmek's Stage 4 misfiring. Kelso targeted the wrong building. Emmek know
 
 ### Concluding the Event
 
-#### Nimblewright: Noticed / Nimblewright: Missed
+#### Nimblewright Noticed: True / False
 
-Recorded. Arc C reads this attunement to determine whether the party enters the investigation with a prior sighting corroborating Renaer's account, or cold.
+Recorded. Fireball reads this attunement to determine whether the party enters the investigation with a prior sighting corroborating Renaer's account, or cold.
 
-#### Fireball Victim Designated: [NPC]
+#### Fireball Victim Designated: True / False
 
-Recorded. Arc C reads this attunement in its opening beat.
+Recorded. Fireball reads this attunement in its opening beat. The DM notes which NPC was designated in their own session notes.
 
 > **[GM]**
 >
-> #### Transition to Arc C
+> #### Transition to Fireball
 >
-> Proceed to **Arc C: Fireball!** The explosion occurs the following morning, Ches 22nd. The Sea Maidens Faire fleet is now docked in Waterdeep Harbor. Fleetswake (Ches 21–30) is the primary Arc H reconnaissance window; see **Arc H Overview**.
+> Proceed to **Fireball: Fireball!** The explosion occurs the following morning, Ches 22nd. The Sea Maidens Faire fleet is now docked in Waterdeep Harbor. Fleetswake (Ches 21–30) is the primary Sea Maidens Faire reconnaissance window; see **Sea Maidens Faire Overview**.
 
 ## Overview
 

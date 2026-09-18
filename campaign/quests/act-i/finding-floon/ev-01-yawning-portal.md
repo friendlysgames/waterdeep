@@ -1,4 +1,4 @@
-# The Yawning Portal
+﻿# The Yawning Portal
 
 > **[GM]**
 >
@@ -44,7 +44,7 @@ Fight ends faster. Durnan ejects Krentz's companions with less damage to furnitu
 
 #### Party Branch — Helps Krentz or the Xanathar Thugs
 
-Yagra turns briefly on the party before Durnan ends it. She is not hostile after, but she will not work with this party without a significant reconciliation effort in Arc B or later. No attunement.
+Yagra turns briefly on the party before Durnan ends it. She is not hostile after, but she will not work with this party without a significant reconciliation effort in Trollskull Alley or later. No attunement.
 
 #### Party Branch — Stays Out
 
@@ -80,7 +80,7 @@ Durnan drives the troll back into the well. "You fought well," said to any chara
 
 #### Party Branch — Also Engages the Troll
 
-Durnan keeps the troll's primary attention, preventing it from turning fully on party members who wade in. After: "Useful. But that was mine." Said without heat. Award **Durnan's Acknowledgment** attunement at higher register. Arc B tracks the difference.
+Durnan keeps the troll's primary attention, preventing it from turning fully on party members who wade in. After: "Useful. But that was mine." Said without heat. Award **Durnan's Acknowledgment** attunement at higher register. Trollskull Alley tracks the difference.
 
 #### Party Branch — Uses Fire or Acid on the Troll
 
@@ -108,13 +108,13 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 
 ### Concluding the Event
 
-#### Durnan's Acknowledgment: Party Engaged the Troll or Used Fire
+#### Durnan Acknowledged: True / False
 
-The party demonstrated meaningful competence in a dangerous moment. Durnan's estimation of them adjusts upward in ways that manifest subtly in Arc B. He is slightly more communicative, and the Watch guards who know him give the party slightly more benefit of the doubt.
+The party demonstrated meaningful competence in a dangerous moment. Durnan's estimation of them adjusts upward in ways that manifest subtly in Trollskull Alley. He is slightly more communicative, and the Watch guards who know him give the party slightly more benefit of the doubt.
 
-#### Yagra's Courtesy: Party Helped Yagra or Peacefully Resolved the Brawl
+#### Yagra Courteous: True / False
 
-Yagra extends professional courtesy. She will not pretend this was warmth, but she names Davil Starsong to the party and will not work against them in Arc B without cause.
+Yagra extends professional courtesy. She will not pretend this was warmth, but she names Davil Starsong to the party and will not work against them in Trollskull Alley without cause.
 
 > **[GM]**
 >

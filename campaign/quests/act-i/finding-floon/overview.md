@@ -1,4 +1,4 @@
-# Arc A: Finding Floon
+﻿# Finding Floon: Finding Floon
 
 > **[GM]**
 >
@@ -12,7 +12,7 @@
 >
 > #### Milestone Overview
 >
-> Arc A awards **2 Milestone Points** total — one per milestone event.
+> Finding Floon awards **2 Milestone Points** total — one per milestone event.
 >
 > - **The Zhentarim Warehouse** Event (ev-03): 1 Milestone Point — warehouse cleared, Renaer Neverember found
 > - **The Xanathar Sewer Hideout** Event (ev-04): 1 Milestone Point — Floon Blagmaar rescued
@@ -52,4 +52,4 @@ The Dock Ward investigation produced three independent paths to the perpetrators
 
 Inside the warehouse, an Xanathar Guild raid had already wiped out Manshoon's cell. Four kenku were searching the wreckage. Floon wasn't there. The man they found was Renaer Neverember, the Open Lord's estranged son, grabbed by mistake and hidden in a back room when the raid hit. Renaer explained that Floon had been mistaken for him, dragged unconscious through a cellar trapdoor into the sewer below, and taken to an Xanathar Guild hideout following yellow chalk guildsigns. Three distinct leads confirmed the route.
 
-The sewer hideout — eleven rooms of a decommissioned vault beneath the Dock Ward — held Floon alive in the boss chamber. They cleared the hideout's guards and retrieved him. In the boss chamber, before it retreated, they saw Nihiloor: a mind flayer rising from its seat, setting something loose on the floor, and gliding purposefully through the far door toward a stone portal at the complex's western end. It pressed an orb to the pillar; a black doorway opened; it stepped through. The portal closed. They surfaced, delivered Floon to Volo, and received the deed to a derelict tavern in Trollskull Alley called Trollskull Manor. Arc B begins with that deed in hand.
+The sewer hideout — eleven rooms of a decommissioned vault beneath the Dock Ward — held Floon alive in the boss chamber. They cleared the hideout's guards and retrieved him. In the boss chamber, before it retreated, they saw Nihiloor: a mind flayer rising from its seat, setting something loose on the floor, and gliding purposefully through the far door toward a stone portal at the complex's western end. It pressed an orb to the pillar; a black doorway opened; it stepped through. The portal closed. They surfaced, delivered Floon to Volo, and received the deed to a derelict tavern in Trollskull Alley called Trollskull Manor. Trollskull Alley begins with that deed in hand.

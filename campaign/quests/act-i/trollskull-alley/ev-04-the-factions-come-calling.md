@@ -1,4 +1,4 @@
-# The Factions Come Calling
+﻿# The Factions Come Calling
 
 > **[GM]**
 >
@@ -24,9 +24,9 @@ Over the course of the renovation period, each faction sends invitations through
 |---|---|---|
 | **Harpers** | Paper bird taps on a Trollskull Manor window, waits | Good-aligned; Renaer vouches for the party |
 | **Lords' Alliance** | Jalester Silvermane visits Trollskull or finds them at the Yawning Portal | City residents; civic-minded track record |
-| **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Arc A |
+| **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Finding Floon |
 | **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Paladins, clerics, characters with strong moral conviction |
-| **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Arc A |
+| **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Finding Floon |
 | **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Drow PCs primarily; non-drow PCs may be observed but not recruited |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
@@ -38,7 +38,7 @@ Drow PCs notice the surveillance over several days (passive Perception 18 to spo
 
 #### Party Branch — Reports Surveillance to the Watch
 
-Jarlaxle ends contact for now. **BD Contact Severed** attunement. No further BD recruitment in this arc; Jarlaxle's awareness of the party persists into Arc H.
+Jarlaxle ends contact for now. **BD Contact Severed** attunement. No further BD recruitment in this arc; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
 
 #### Party Branch — Confronts the Drow Spies Directly
 
@@ -96,13 +96,32 @@ Cross-ref **Appendix A, Section 3** (Filthy Meg profile).
 
 ### Concluding the Event
 
-#### Faction Joined: [Name]
+#### Harpers Joined: True / False
+At least one party member enrolled with the Harpers. Cross-referenced by Appendix C (mission unlock), Appendix D (mission dispatch), and Faction Outposts (outpost access).
 
-One attunement per enrolled faction, recorded individually. "Faction Joined: Harpers" and "Faction Joined: Doom Raiders" can coexist on different party members. Cross-referenced by Appendix C (mission unlock), Appendix D (mission dispatch), and Arc E (outpost access).
+#### Lords Alliance Joined: True / False
+At least one party member enrolled with the Lords' Alliance.
 
-#### BD Acknowledged / BD Contact Severed
+#### Emerald Enclave Joined: True / False
+At least one party member enrolled with the Emerald Enclave.
 
-**BD Acknowledged** if the J.B. Nevercott meeting proceeds. **BD Contact Severed** if the party reported the surveillance to the Watch. The Arc H BD recruitment and Zardoz Zord's relationship with the party are shaped by this flag.
+#### Order of Gauntlet Joined: True / False
+At least one party member enrolled with the Order of the Gauntlet.
+
+#### Force Grey Joined: True / False
+At least one party member enrolled with Force Grey.
+
+#### Doom Raiders Joined: True / False
+At least one party member enrolled with the Doom Raiders.
+
+#### Bregan Dae'rthe Joined: True / False
+At least one party member enrolled with Bregan D'Aerthe.
+
+#### BD Acknowledged: True / False
+The J.B. Nevercott meeting proceeded. The Sea Maidens Faire BD recruitment and Zardoz Zord's relationship with the party are shaped by this flag.
+
+#### BD Contact Severed: True / False
+The party reported the BD surveillance to the Watch. Overrides *BD Acknowledged* if both are set.
 
 > **[GM]**
 >
