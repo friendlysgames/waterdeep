@@ -64,20 +64,20 @@ He does not ask the party to act. He asks to know what they find. He will be at 
 
 ### Concluding the Event
 
-#### Faction Brief Received: Mirt
-If the party heard Mirt's brief, record this. Shapes ev-09 debrief tone — Mirt's follow-up request is lower-pressure for parties who reported in promptly.
+#### Mirt Brief: Received
+The party heard Mirt's ask before committing to the villa. Shapes ev-09 debrief — Mirt's follow-up arrives with lower pressure for parties who reported in promptly.
 
-#### Faction Brief Received: Davil
-If the party heard Davil's brief, record this. Sets the expectation that Floxin's testimony clearing the Doom Raiders from the fireball is a deliverable. Read by ev-09 when Davil is arrested and Tashlyn takes over.
+#### Davil Brief: Received
+The party heard Davil's ask for Floxin's testimony clearing the Doom Raiders from the explosion. Read by ev-09 when Tashlyn replaces Davil as the Doom Raiders contact after his arrest.
 
-#### Faction Brief Received: Jalester
-If the party heard Jalester's brief, record this. Shapes ev-09 debrief — Jalester's Watch reassignment detail is most directly useful to parties who noted his caution here.
+#### Jalester Brief: Received
+The party heard Jalester's caution and his offer of the Cromley path. Shapes ev-09 debrief — Jalester's Watch reassignment is most relevant to parties who registered his legal constraint here.
 
-#### Faction Brief Received: Vajra
-If the party heard Vajra's brief, record this. Shapes ev-09 debrief — Vajra's operational debrief request is framed differently for parties who received advance instruction versus parties who acted independently.
+#### Vajra Brief: Received
+The party received Vajra's advance instruction to move on the villa. Shapes ev-09 debrief — Vajra's debrief is framed differently for parties acting on her instruction versus those who moved independently.
 
-#### Jarlaxle Brief Received: Yes / No
-Record whether the party met with Jarlaxle and received his intelligence package (upper floor layout, gazer positions, nimblewright ledger). Read by ev-02 (the party enters with or without this intelligence) and ev-06/ev-07 (Yalah's negotiation tone).
+#### Jarlaxle Brief: Received / Not Received
+Record whether the party met with Jarlaxle and received his intelligence package — upper floor layout, gazer positions, and the nimblewright ledger. Read by ev-02 (the party enters with or without this intelligence) and ev-06/ev-07 (Yalah's negotiation tone).
 
 > **[GM]**
 >
