@@ -84,11 +84,14 @@ If Yalah judges the confrontation has turned against her and the Stone is about 
 
 ### Concluding the Event
 
-#### Night Entry Route: [Gate / Pantry / Balcony / Wall]
-Record which approach the party used. Shapes what they encountered on entry and where in the building they are when ev-04 continues. Read by ev-04 to establish the party's starting position within the raid.
+#### Balcony Entry Used: True / False
+The party entered via the Coach House roofline to the G17 balcony. If True, they bypassed the raid and proceed directly to ev-07 without going through ev-04.
 
-#### Observation Teams Spotted at Night: Gazers Active
-Carry forward the ev-02 attunement. If gazers were not identified in ev-02, note that Xanathar now has a record of the party entering the building during the raid.
+#### Pantry Entry Used: True / False
+The party entered via the already-open pantry door. If True, they avoided the main yard encounter and begin the raid in the kitchen corridor.
+
+#### Gazers Active at Night: True / False
+Carry forward from *Gazers Spotted* in ev-02. If False, Xanathar has an unrecorded record of the party entering the building during the raid.
 
 > **[GM]**
 >

@@ -64,19 +64,19 @@ He does not ask the party to act. He asks to know what they find. He will be at 
 
 ### Concluding the Event
 
-#### Mirt Brief: Received
+#### Mirt Brief Received: True / False
 The party heard Mirt's ask before committing to the villa. Shapes ev-09 debrief — Mirt's follow-up arrives with lower pressure for parties who reported in promptly.
 
-#### Davil Brief: Received
+#### Davil Brief Received: True / False
 The party heard Davil's ask for Floxin's testimony clearing the Doom Raiders from the explosion. Read by ev-09 when Tashlyn replaces Davil as the Doom Raiders contact after his arrest.
 
-#### Jalester Brief: Received
+#### Jalester Brief Received: True / False
 The party heard Jalester's caution and his offer of the Cromley path. Shapes ev-09 debrief — Jalester's Watch reassignment is most relevant to parties who registered his legal constraint here.
 
-#### Vajra Brief: Received
+#### Vajra Brief Received: True / False
 The party received Vajra's advance instruction to move on the villa. Shapes ev-09 debrief — Vajra's debrief is framed differently for parties acting on her instruction versus those who moved independently.
 
-#### Jarlaxle Brief: Received / Not Received
+#### Jarlaxle Brief Received: True / False
 Record whether the party met with Jarlaxle and received his intelligence package — upper floor layout, gazer positions, and the nimblewright ledger. Read by ev-02 (the party enters with or without this intelligence) and ev-06/ev-07 (Yalah's negotiation tone).
 
 > **[GM]**

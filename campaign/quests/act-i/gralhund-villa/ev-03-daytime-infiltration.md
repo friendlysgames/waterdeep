@@ -103,10 +103,10 @@ Continue from current adversary positions into ev-04: The Zhentarim Raid. The da
 
 ### Concluding the Event
 
-#### G12 Searched: Chirada Letter Found / Not Found
+#### Chirada Letter Found: True / False
 Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in Arc E: Yellowspire, Chirada's name, and the Second Eye lead.
 
-#### Orond's Confession: Heard / Missed
+#### Orond Confession Heard: True / False
 Record whether the party questioned Orond and heard his four revelations. Shapes ev-09 aftermath — parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
 
 > **[GM]**

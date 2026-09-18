@@ -85,10 +85,16 @@ The day/night choice should not feel like a coin flip. The DM should surface wha
 
 ### Concluding the Event
 
-#### Observation Teams Spotted: Results
-Record which factions' watchers the party identified (Zhentarim / Gazers / BD team). Read by ev-03 and ev-04 — the party's intelligence on perimeter threats shapes their entry options and contingency awareness.
+#### Zhents Spotted: True / False
+Record whether the party identified the Zhentarim watchers on Saerdoun Street. Read by ev-04 — awareness of the raiding force shapes contingency decisions during the raid.
 
-#### Villa Approach: Day / Night
+#### Gazers Spotted: True / False
+Record whether the party identified Xanathar's gazers surveilling the villa. Read by ev-03c — if not spotted, Xanathar has an unrecorded record of the party entering during the raid.
+
+#### BD Team Spotted: True / False
+Record whether the party identified Bregan D'Aerthe watchers near the villa. Read by ev-03 and ev-04 — BD awareness shapes the party's read on Jarlaxle's interest.
+
+#### Day Entry: True / False
 Record the party's entry timing. This is the branch that determines whether ev-03 or ev-04 fires next.
 
 > **[GM]**

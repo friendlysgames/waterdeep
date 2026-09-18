@@ -140,16 +140,20 @@ If the party did not recover the Stone (if it remains with the Gralhunds at arc'
 
 ### Concluding the Event
 
-#### Istrid Horn Outcome: Helped / Turned In / Abandoned / Mortal Enemy
-Record the Istrid Horn resolution. Read by Arc E: Doom Raiders renown modifier and courier cache availability.
+#### Istrid Horn Helped: True / False
+Record whether the party sheltered Istrid Horn. Read by Arc E: Doom Raiders renown modifier and courier cache availability.
 
-#### Arc D End State
-Record the full end-state ledger:
-- Stone Holder (Party / BD / Zhentarim / Xanathar)
-- Chirada letter (found / not found)
-- G16 Asmodean compartment (found / not found)
-- Orond's confession (heard / not heard)
-- Yalah status (missing / custody / dead)
+#### Istrid Horn Turned In: True / False
+Record whether the party handed her to the Watch. Read by Arc E: Watch relation modifier and Doom Raiders renown penalty.
+
+#### G16 Compartment Found: True / False
+Record whether the party discovered the locked Asmodean compartment in the G16 trunk. If True, they hold the Cassalanter seal and know Yalah had an infernal contact in Castle Ward. Read by Arc G.
+
+#### Yalah Missing: True / False
+Record whether Yalah fled before the Watch arrived. If True, a want notice circulates through gate guards and ship registries.
+
+#### Yalah In Custody: True / False
+Record whether Yalah was taken by the Watch. If True, she is in Castle Waterdeep and says nothing useful. If both *Yalah Missing* and *Yalah In Custody* are False, she is dead.
 
 > **[GM]**
 >

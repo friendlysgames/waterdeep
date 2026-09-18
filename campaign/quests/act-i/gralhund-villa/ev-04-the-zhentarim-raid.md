@@ -94,8 +94,11 @@ Floxin's plan can succeed or collapse based on party action.
 
 ### Concluding the Event
 
-#### Floxin Status: Alive / Dead / Captured
-Record Floxin's status at the end of the raid. If alive, he becomes available as a Manshoon response team leader in Arc I. If captured, he provides nothing useful about his master.
+#### Floxin Alive: True / False
+Record whether Floxin survived the raid. If True, he becomes available as a Manshoon response team leader in Arc I.
+
+#### Floxin Captured: True / False
+Record whether the party took Floxin into custody. If True, he provides nothing useful about his master. Only meaningful when *Floxin Alive* is True.
 
 > **[GM]**
 >

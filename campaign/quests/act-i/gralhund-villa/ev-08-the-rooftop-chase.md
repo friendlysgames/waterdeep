@@ -72,12 +72,12 @@ From any of these locations, the Stone moves to the faction's primary lair withi
 
 ### If the Chase Succeeds
 
-The party recovers the Stone from the carrier. Record *Stone Holder: Party* and proceed to ev-09. Milestone 2 fires at the ev-09 opening.
+The party recovers the Stone from the carrier. Set *Stone Recovered: True* and proceed to ev-09. Milestone 2 fires at the ev-09 opening.
 
 ### Concluding the Event
 
-#### Stone Holder: Party / BD / Zhentarim
-Record who holds the Stone at chase end. Determines whether Milestone 2 fires in ev-09.
+#### Stone Recovered: True / False
+Record whether the party holds the Stone at chase end. True → Milestone 2 fires at ev-09 opening. False → party enters ev-09 without the Stone.
 
 > **[GM]**
 >
