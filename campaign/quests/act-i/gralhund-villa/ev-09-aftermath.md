@@ -130,8 +130,6 @@ The message assesses the mission against Jarlaxle's standing orders. Its tone de
 
 *Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'Aerthe renown +2.
 
-*Stone Holder: BD* (Fel'rekt stepped in because the operative's negotiation failed or stalled) — the orders were carried out, but not by the operative: *"The Stone reached the right hands. The path there was longer than it needed to be. Jarlaxle notes the difference."* Bregan D'Aerthe renown +1.
-
 *Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
 
 In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the arc produced.
