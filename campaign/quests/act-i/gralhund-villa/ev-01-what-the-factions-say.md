@@ -58,7 +58,7 @@ His generosity is genuine in content. It is calculated in purpose.
 
 ### Renaer Neverember (conditional on *Gralhund Villa Named* attunement from Arc C)
 
-The source who named the villa does not have a faction brief to deliver. He wants to understand what his father's vault has to do with the Gralhunds, and what the Gralhunds have to do with the Zhentarim who burned Trollskull Alley. His access to Harper contacts gave the party the address. His family history gives him a stake in what happens once they cross the gate.
+The source who named the villa does not have a faction brief to deliver. He wants to understand what his father's vault has to do with the Gralhunds, and what the Gralhunds have to do with the Zhentarim who were chasing Dalakhar through Trollskull Alley the night of the explosion. His access to Harper contacts gave the party the address. His family history gives him a stake in what happens once they cross the gate.
 
 He does not ask the party to act. He asks to know what they find. He will be at his townhouse, in the study, when they come back.
 
