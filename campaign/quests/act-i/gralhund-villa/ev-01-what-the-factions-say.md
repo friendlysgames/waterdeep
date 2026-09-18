@@ -24,9 +24,9 @@ The party can read whatever they want into his warmth. It is not performed.
 
 ### Davil Starsong (Doom Raiders — available if Doom Raiders renown 1+)
 
-The most direct voice in the room. Davil ties Floxin to the fireball explicitly, names him as the reason Dalakhar is dead and the Stone is behind a locked gate in the North Ward. He frames recovery as a matter of clearing the Doom Raiders' name: bring him proof that Floxin ordered the fireball — Floxin's own words, under duress if necessary — and he can use it to cut the Watch's case against the Doom Raiders loose from Manshoon's cell.
+The most direct voice in the room. Davil places Floxin in Trollskull Alley that night and names him as the reason Dalakhar is dead and the Stone is behind a locked gate in the North Ward. He frames recovery as a matter of clearing the Doom Raiders' name: the Watch has witnesses who placed Zhentarim agents in the alley. What the Watch doesn't have is anyone willing to say those agents weren't working for the Doom Raiders. Floxin's testimony — his own account of who sent him into Trollskull Alley and why — can separate the Doom Raiders from the bombing entirely.
 
-*"Go in. Get out. Bring proof."* He does not specify what proof looks like. He trusts the party to recognize it when they find it. This is either confidence in them or a sign that he does not know what Floxin will say.
+*"Go in. Get out. Bring proof."* He doesn't specify what proof looks like. He trusts the party to recognize it when they find it. This is either confidence in them or a sign he doesn't know what Floxin will say.
 
 ### Jalester Silvermane (Lords' Alliance — available if Lords' Alliance renown 1+)
 
@@ -38,7 +38,7 @@ Jalester does not acknowledge that forty-eight hours means the Stone will be gon
 
 No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward. What "afterward" means in practice — protection, advocacy, or simply documentation that something was said — she does not specify. Her instruction is clear and her backing is ambiguous.
 
-### Jarlaxle Baenre (Bregan D'Aerthe — conditional on *Jarlaxle Informed* attunement from Arc C)
+### Jarlaxle Baenre (Bregan D'Aerthe — conditional on *Jarlaxle Informed* attunement from Arc C, or BD renown 1+)
 
 A carnival acrobat delivers a sealed note to wherever the party is staying. The note offers a meeting — a specific time, a specific location, nothing else. In the meeting:
 
@@ -68,7 +68,7 @@ He does not ask the party to act. He asks to know what they find. He will be at 
 If the party heard Mirt's brief, record this. Shapes ev-09 debrief tone — Mirt's follow-up request is lower-pressure for parties who reported in promptly.
 
 #### Faction Brief Received: Davil
-If the party heard Davil's brief, record this. Sets the expectation that proof of Floxin's fireball order is a deliverable. Read by ev-09 when Davil is arrested and Tashlyn takes over.
+If the party heard Davil's brief, record this. Sets the expectation that Floxin's testimony clearing the Doom Raiders from the fireball is a deliverable. Read by ev-09 when Davil is arrested and Tashlyn takes over.
 
 #### Faction Brief Received: Jalester
 If the party heard Jalester's brief, record this. Shapes ev-09 debrief — Jalester's Watch reassignment detail is most directly useful to parties who noted his caution here.
