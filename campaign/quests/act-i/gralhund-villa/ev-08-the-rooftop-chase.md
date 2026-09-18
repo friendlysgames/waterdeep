@@ -19,7 +19,7 @@ The party must see the Stone leave and decide to give chase. This event does not
 
 **Nimblewright.** Yalah's contingency: the construct drops from the Balcony (G17) to the Coach House roofline and crosses from there. It moves at 60 feet per round and does not tire.
 
-**Bregan D'Aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going — a BD outpost in the Trades Ward (Fenerus Stormcastle).
+**Bregan D'Aerthe.** Fel'rekt's team exits via the rooftops. They move fast and know where they are going: a BD outpost in the Trades Ward (Fenerus Stormcastle).
 
 **Zhentarim survivor.** A surviving Zhent thug grabbed the Stone in the confusion and is running for the nearest safe house rather than waiting for orders that aren't coming.
 
@@ -56,7 +56,7 @@ At the end of each participant's turn, roll a d12:
 
 Xanathar's gazers have been following anyone who left the villa with something valuable. They may intercede. The DM chooses one of two outcomes:
 
-**Tactical assist:** A gazer swoops in and fires a paralytic ray at whoever is carrying the Stone, crippling them for one round and letting the party close distance. Xanathar would rather the party have the Stone than any other faction — he can always take it from the party later.
+**Tactical assist:** A gazer swoops in and fires a paralytic ray at whoever is carrying the Stone, crippling them for one round and letting the party close distance. Xanathar would rather the party have the Stone than any other faction; he can always take it from the party later.
 
 **Response team intercept:** If the DM wants a harder version of this scene, a Xanathar Guild response team cuts off the rooftop exit route, producing a three-way confrontation for the Stone. Refer to the **Appendix E Villain Factions** section on Xanathar response teams for roster and tactics.
 
@@ -95,10 +95,10 @@ The Stone is somewhere ahead on North Ward rooftops, moving fast. The party has 
 
 ## Read Aloud
 
-> The construct drops from the balcony without pausing — lands on the Coach House roof, crosses it in four strides, and is over the perimeter wall and gone. The North Ward rooftops spread out ahead in the dark, slate and tile and chimneys, a city laid flat.
+> The construct drops from the balcony without pausing, lands on the Coach House roof, crosses it in four strides, and is over the perimeter wall and gone. The North Ward rooftops spread out ahead in the dark, slate and tile and chimneys, a city laid flat.
 >
 > It is forty feet ahead. Sixty. Getting further.
 
 ## Summary
 
-The Stone left the villa without the party holding it. A rooftop chase across the North Ward followed. Whether the party recovered it, or it slipped away into a faction safe house, the arc resolved at whatever distance from the objective it ended at.
+The Stone left the villa without the party holding it. A rooftop chase across the North Ward followed. Whether the party recovered it or it slipped away into a faction safe house, the arc ends here.

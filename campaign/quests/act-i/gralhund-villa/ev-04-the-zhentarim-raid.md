@@ -14,11 +14,11 @@
 >
 > **Trigger:** Party arrives at Gralhund Villa on the night of Ches 24th (raid in progress), OR the party was inside during the day and the raid begins at nightfall.
 
-The raid began through the Pantry door. From here, events have their own momentum. The DM should enter the timeline at the beat that reflects how early the party arrived — then play the situation as it develops. Floxin had a plan; the raid has since departed from it.
+The raid began through the Pantry door. From here, events have their own momentum. The DM should enter the timeline at the beat that reflects how early the party arrived, then play the situation as it develops. Floxin had a plan; the raid has since departed from it.
 
 ### Floxin's Plan
 
-Quiet entry through the Pantry (G6). Two teams — one sweeps the ground floor and secures the staff, one pushes straight to the upper floor. Negotiate the Stone. Simple. He has done harder jobs.
+Quiet entry through the Pantry (G6). Two teams: one sweeps the ground floor and secures the staff, one pushes straight to the upper floor. Negotiate the Stone. Simple. He has done harder jobs.
 
 He does not know about Jarlaxle's team across the street.
 
@@ -32,7 +32,7 @@ Each beat is approximately 1–3 minutes of real-time action inside the building
 
 **Beat 3 — Guard Split.** The screams reach G8. Two guards run to alert G4 Barracks. Three move to intercept in G7.
 
-**Beat 4 — The Empty Hall.** The Zhents push into the south end of G8, finding it briefly clear. Two guards from G9 move to intercept — Floxin kills them personally.
+**Beat 4 — The Empty Hall.** The Zhents push into the south end of G8, finding it briefly clear. Two guards from G9 move to intercept. Floxin kills them personally.
 
 **Beat 5 — Forward Push.** Floxin advances through the south end of G8 with his last operational agents and drives toward the staircase. He knows the layout; he moves fast.
 
@@ -48,7 +48,7 @@ Each beat is approximately 1–3 minutes of real-time action inside the building
 
 ### Night Adversary Snapshot
 
-This is the body count at Beat 10 — the default night entry point. If the party arrives earlier, some of these people are still alive.
+This is the body count at Beat 10, the default night entry point. If the party arrives earlier, some of these people are still alive.
 
 | Area | Dead |
 |------|------|
@@ -73,22 +73,22 @@ This is the body count at Beat 10 — the default night entry point. If the part
 
 If *Jarlaxle Informed* is set, this sequence fires concurrent with Beats 8–10 once the raid is fully committed:
 
-1. Jarlaxle's drow gunslingers and two drow cross the rooftops and take positions at the exterior of G13 — sightlines through the upstairs windows.
+1. Jarlaxle's drow gunslingers and two drow cross the rooftops and take positions at the exterior of G13, with sightlines through the upstairs windows.
 2. Fel'rekt Lafeen and four drow drop to the Balcony (G17) and enter the upper floor.
 3. The gunslingers fire through the G13 windows, killing two guards and clearing Fel'rekt's path.
-4. Yalah retreats into G18 — the children's room — and bars the door from inside.
+4. Yalah retreats into G18 (the children's room) and bars the door from inside.
 5. Orond is pulled from G15b and brought to G16. Hrabbaz, seeing Orond in Fel'rekt's grip, does not fight. He steps aside.
 6. Fel'rekt negotiates through the G18 door while holding Orond. Zartan and Greth are on the other side. *"The Stone, Lady Gralhund. That is all I am here for."*
 7. Yalah surrenders the Stone through the door. She does not speak. Fel'rekt's team withdraws across the rooftops as the Watch arrives at the front gate.
 
-**BD-affiliated PCs:** If any party member belongs to Bregan D'Aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid — sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross.
+**BD-affiliated PCs:** If any party member belongs to Bregan D'Aerthe, Jarlaxle's gunslingers extend their covering fire to include that character during the raid, sniping threats the PC is engaged with through the upper-floor windows. Fel'rekt acknowledges the PC with a nod when their paths cross.
 
 ### Failure Is Not Foreordained
 
 Floxin's plan can succeed or collapse based on party action.
 
 - If the party draws off or eliminates the Barracks reinforcements at Beat 9, Floxin's team may hold the ground floor.
-- If Jarlaxle's team enters early — triggered by party action rather than the natural timeline — the BD sequence collapses into improvisation.
+- If Jarlaxle's team enters early (triggered by party action rather than the natural timeline), the BD sequence collapses into improvisation.
 - If the party kills or captures Floxin before Beat 8, Orond never makes it to G15b, and the night confrontation in G16 plays out differently.
 - Xanathar's gazers observe throughout and will not enter the estate. They follow anyone who exits with something valuable.
 
@@ -111,7 +111,7 @@ Record Floxin's status at the end of the raid. If alive, he becomes available as
 
 ## Overview
 
-Floxin's team entered through the Pantry at nightfall on Ches 24th. The party arrived — either at the beginning of the assault or mid-way through — into a building already producing dead people at a steady rate.
+Floxin's team entered through the Pantry at nightfall on Ches 24th. The party arrived, either at the beginning of the assault or midway through, into a building already producing dead people at a steady rate.
 
 ## Read Aloud
 

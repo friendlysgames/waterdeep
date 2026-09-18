@@ -46,6 +46,6 @@
 
 The investigation that began in Trollskull Alley ends at the gate of Gralhund Villa on Saerdoun Street. The Stone of Golorr is upstairs in Lady Yalah Gralhund's breastplate. Urstul Floxin's backup team arrives on the night of Ches 24th. Xanathar's gazers are already watching the perimeter. Jarlaxle's Bregan D'Aerthe has a team across the street, waiting for the right moment to move.
 
-The party has a window of roughly forty-eight hours. They can enter the villa during the day — a guarded household, the Stone upstairs, the alarm one wrong move away from pulling everyone in the building into the stairwell. Or they can wait and enter that night, walking into a battle already in progress, with three factions contesting a building full of bodies.
+The party has a window of forty-eight hours. They can enter the villa during the day — a guarded household, the Stone upstairs, the alarm one wrong move away from pulling everyone in the building into the stairwell. Or they can wait and enter that night, walking into a battle already in progress, with three factions contesting a building full of bodies.
 
 The party should come out with the Stone. Every path through the building is designed to make that outcome achievable. The Rooftop Chase is the contingency — the catch if it slips past them inside. If the Stone escapes entirely, the campaign continues from a weaker position, but it continues. They have made the next conversation harder.
