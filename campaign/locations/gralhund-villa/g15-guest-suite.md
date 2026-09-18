@@ -8,7 +8,7 @@ Two connecting rooms: G15a (outer, with a bathing area) and G15b (inner bedchamb
 
 ## G15a — Outer Suite
 
-A modest antechamber with a claw-footed bathtub behind a privacy curtain, a washstand, and a coat rack. Floxin's traveling coat is on the rack — it has been there since Ches 22nd; he was not permitted to take it when Yalah had him disarmed.
+A modest antechamber with a claw-footed bathtub behind a privacy curtain, a washstand, and a coat rack. Floxin's traveling coat is on the rack — it has been there since Ches 22nd; he wasn't permitted to take it when Yalah had him disarmed.
 
 **Day state:** Empty.
 
@@ -22,4 +22,4 @@ A furnished guest room: a carved bed with four posts, a wardrobe, a writing desk
 
 **Day state:** Empty — the room has been undisturbed since Ches 22nd. The bed is made but slept-in; Floxin made it himself, which he does out of habit.
 
-**Night state:** **Lord Orond Gralhund** is barricaded inside (wardrobe + desk + chair pressed against the door from the inside). He is backed against the far wall with a fireplace poker in both hands and the whites of his eyes showing. For his behavior and the four revelations he will confirm under pressure, refer to the **The Guest Suite** Event (ev-05).
+**Night state:** **Lord Orond Gralhund** is barricaded inside (wardrobe + desk + chair pressed against the door from the inside). He's backed against the far wall with a fireplace poker in both hands and the whites of his eyes showing. For his behavior and the four revelations he will confirm under pressure, refer to the **The Guest Suite** Event (ev-05).

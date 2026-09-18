@@ -49,7 +49,7 @@ An *Alarm* spell network covers the perimeter and interior doors. It triggers on
 - Any combat sound louder than a whispered argument
 - Any visible spellcasting flash inside the perimeter
 
-It does not trigger on quiet movement, lock-picking, or the party moving through already-opened doors. The nimblewright in G11 activates on any Alarm trigger.
+It doesn't trigger on quiet movement, lock-picking, or the party moving through already-opened doors. The nimblewright in G11 activates on any Alarm trigger.
 
 Once the Alarm triggers (day state): refer to the Alarm Escalation Timeline in ev-03.
 
@@ -87,7 +87,7 @@ Once the Alarm triggers (day state): refer to the Alarm Escalation Timeline in e
 
 ### Day/Night State Mechanic
 
-**State is determined by when the party arrives:**
+**State depends on when the party arrives:**
 
 **Day state** — party arrives before nightfall on Ches 24th. Full household active. No bodies. The Stone is on Yalah's person in G16.
 
@@ -95,10 +95,10 @@ Once the Alarm triggers (day state): refer to the Alarm Escalation Timeline in e
 
 **Day-to-night chain** — if the party is inside during the day and remains when nightfall arrives, the raid begins from the Pantry (G6). Hurv Taldred transforms in G2. The day adversary roster transitions to the night roster over the course of the ten raid beats.
 
-Only NPC presence and combat-state occupants change by state. All physical features — documents, treasure, environmental DCs, traps — are always present regardless of state.
+Only NPC presence and combat-state occupants change by state. All physical features are always present regardless of state: documents, treasure, environmental DCs, and traps.
 
 ### Enemies
 
-**Xanathar's four gazers** patrol the exterior perimeter at cardinal points throughout both states. They observe, track, and follow anyone leaving with something valuable. They do not enter the estate.
+**Xanathar's four gazers** patrol the exterior perimeter at cardinal points throughout both states. They observe, track, and follow anyone leaving with something valuable. They don't enter the estate.
 
 **City Watch response:** Any audible commotion outside the perimeter walls brings 1 mage + 6 veterans within 1d6 + 4 minutes. The Watch does not respond to interior sounds during the raid unless drawn by external noise.

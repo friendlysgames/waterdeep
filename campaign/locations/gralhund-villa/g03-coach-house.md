@@ -4,7 +4,7 @@ A sliding timber door, padlocked from outside. Inside: four draft horses in box 
 
 **Padlock:** DC 20 thieves' tools to pick quietly. The padlock is heavy iron; breaking it (DC 22 Strength) is loud.
 
-**Stableboy Ike** (commoner, 14) sleeps in a straw-bedded corner stall. He is not supposed to be here at night — he told his mother he was staying with a friend — and he will cooperate with anything that sounds like it will end with him not getting in trouble. He cannot command the mastiffs. They obey Hurv's whistle and no one else's.
+**Stableboy Ike** (commoner, 14) sleeps in a straw-bedded corner stall. He told his mother he was staying with a friend tonight; he wasn't supposed to be here. He'll cooperate with anything that sounds like it will end with him not getting in trouble. He cannot command the mastiffs. They obey Hurv's whistle and no one else's.
 
 **Two mastiffs** are kenneled against the south wall. In the day state, they have 30-foot leads and will investigate any sound that isn't Ike or Hurv. Prestidigitation (food scent) at DC 10 Sleight of Hand distracts one for 5 minutes.
 
