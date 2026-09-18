@@ -47,21 +47,17 @@ Hrabbaz is not a negotiator. He has been paid to stand beside a door, and he wil
 
 Mid-confrontation, if the situation has not already resolved:
 
-The gunslingers take positions at G13's exterior windows and fire through the glass — two guards at the stairhead, neutralized. Fel'rekt Lafeen drops to the balcony (G17) with four drow and enters through the glass doors to G16.
+The gunslingers take positions at G13's exterior windows and fire through the glass — two guards at the stairhead, neutralized. Fel'rekt Lafeen drops to the balcony (G17) with four drow.
 
-Yalah reads this immediately: she retreats into G18 — the children's room — and locks the door from inside. Hrabbaz holds G16 against Fel'rekt, buying her the seconds she needs.
+**What happens next depends on whether a BD operative is in the party.**
+
+#### No BD Operative in the Party
+
+Fel'rekt enters through the glass doors to G16. Yalah reads this immediately: she retreats into G18 — the children's room — and locks the door from inside. Hrabbaz holds G16 against Fel'rekt, buying her the seconds she needs.
 
 Before Fel'rekt moves toward the G18 door, he turns to the party. His voice is level and carries no threat: *"Jarlaxle sends his regards. You have been following the same trail we have — which means you already know what is in that room and what it is worth. I am not here to fight you. What I am here for is behind that door."*
 
 He gestures toward G18. Then he looks at the party and waits.
-
-> **[GM]**
->
-> #### If a Party Member Is a BD Operative
->
-> Fel'rekt addresses them separately from the rest of the group, by name or operative title: *"[Name]. Jarlaxle's compliments. You know what I am here to do."*
->
-> For a BD operative, cooperation is the implicit expectation, not a choice on a menu. The operative can still refuse (Resist path applies), but it registers as insubordination — record a −1 BD Renown consequence; Jarlaxle is informed. If they cooperate or negotiate, the Persuasion check is waived and the intelligence is shared freely: Fel'rekt considers them entitled to it.
 
 **Three paths:**
 
@@ -72,6 +68,18 @@ He gestures toward G18. Then he looks at the party and waits.
 **Resist.** The party tries to stop him or take the Stone themselves. Fel'rekt does not argue: *"Unfortunate."* He sends two drow to hold the party at the balcony while he works the G18 door. This is a blocking action, not a kill order — the drow fight to restrain, not to drop anyone below 0. If the party breaks through, Fel'rekt abandons the Stone negotiation and retreats via the balcony empty-handed. The Stone remains with Yalah.
 
 **Fel'rekt negotiates with Yalah regardless** — unless the party is actively preventing it. *"The Stone, Lady Gralhund. That is all I am here for."* If she surrenders the Stone to Fel'rekt, record *Stone Holder: BD* and proceed to ev-08 (the party may give chase) or ev-09 (if the party chooses not to pursue).
+
+#### BD Operative in the Party
+
+Fel'rekt does not enter G16. He holds at the balcony threshold and addresses the operative through the glass: *"[Name]. Jarlaxle's orders. The Stone goes with you. Handle this."*
+
+He and his team wait at G17, visible to anyone inside G16. Yalah can see four armed drow on the balcony through the glass doors while the party stands between her and the exit. The BD presence is leverage, not action — yet.
+
+**The party runs the negotiation.** The visible drow on the balcony reduce the Persuasion DC by 3 for the remainder of this confrontation (DC 14 → DC 11 in the standard case; DC 10 → automatic success if Orond is in custody). Yalah is calculating odds she does not like.
+
+**If the negotiation succeeds:** The party takes the Stone. Fel'rekt nods from the balcony and withdraws with his team without a word.
+
+**If the negotiation is failing** — the party has exhausted their leverage, a Persuasion check has failed, or Yalah has spoken the command word for the nimblewright — Fel'rekt enters G16 and addresses Yalah directly, not the party: *"Lady Gralhund. Consider your next choice carefully."* His presence alone tips her calculation. If she still refuses, the confrontation becomes combat. Fel'rekt fights to reach Yalah, not to harm the party. Whoever reaches her first takes the Stone. Record *Stone Holder: Party* or *Stone Holder: BD* accordingly.
 
 ### Yalah's Nimblewright Contingency
 
