@@ -124,11 +124,7 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
-**Bregan D'Aerthe — No Operative in Party, Stone Holder: Party (conditional — *Jarlaxle Informed*).** A note through whatever channel was established in Arc C: *"We saw what happened at Gralhund. We know which factions were there. We know who left with what. If the party is interested in a full account — faction by faction — the theater has a back room. Price is one conversation. Not a mission. A meeting."* Jarlaxle was on the rooftops. He watched every entrance and exit.
-
-**Bregan D'Aerthe — No Operative in Party, Stone Holder: BD.** No debrief note. The Stone package already said everything. The card signed "J." was the introduction; what comes next is the party's move. If they want to follow up, Jarlaxle is at the theater. He is not going to explain himself twice.
-
-**Bregan D'Aerthe — BD Operative in Party.** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
+**Bregan D'Aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
 
 The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the arc outcome:
 
