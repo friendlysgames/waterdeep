@@ -8,27 +8,42 @@
 >
 > - The party meets Yalah in G16 after navigating the raid and the guest suite sequence (ev-04 → ev-05).
 > - The raid is still in progress — G13 is active combat, the building is not secure.
-> - Yalah is in emergency mode; less negotiating room than the day version, but the same core leverage points apply.
-> - If *Jarlaxle Informed* is set, the BD assault sequence fires if it has not already fired during ev-04.
-> - Stone recovery paths are the same four as ev-06; the Milestone fires here.
+> - Yalah is in emergency mode: the warmth is gone, the negotiating window is compressed, but the same leverage points work.
+> - Hrabbaz acts on Yalah's judgment, not his own. He will not fight against her will.
+> - If *Jarlaxle Informed* is set, the BD assault fires if it has not already fired during ev-04.
+> - Stone recovery paths: party extracts directly, BD takes it (Fel'rekt, conditional), Zhent survivor seizes it during raid chaos, or Yalah orders the nimblewright to flee with it.
 >
 > **Trigger:** Night path. Party reaches G16 after ev-04 (Zhentarim Raid) and ev-05 (The Guest Suite).
 
-The double doors to the master bedroom are barred from inside. Hrabbaz put the bar down the moment the first shots rang out in G8. On the other side: Lady Yalah Gralhund in breastplate and rapier, the Stone in an inner pocket, Hrabbaz at the wall. She is not calm — not the way she was in the day version. The building is full of Zhentarim and the Guard is losing ground downstairs.
+The double doors to the master bedroom are barred from inside. Hrabbaz put the bar down the moment the first shots rang out in G8. On the other side: Lady Yalah Gralhund in breastplate and rapier, the Stone in an inner pocket, Hrabbaz at the wall. The building is full of Zhentarim and the Guard is losing ground downstairs.
 
 The door can be forced (DC 20 Strength, loud), picked (DC 18 thieves' tools, requires kneeling at the door for 1 minute), or circumvented via the Balcony (G17) through the glass doors that Yalah has probably not thought to bolt.
 
 ### The Emergency Meeting
 
-Yalah has less room to negotiate in the night version. The building is on fire, figuratively. She has dropped the warmth. Armed strangers who are not Floxin and not the Watch are here for the Stone, and she already knows it.
+She has dropped the warmth. Armed strangers who are not Floxin and not the Watch are here for the Stone, and she already knows it.
 
 She still trades. She trades faster, with less ceremony, and with less patience for exploratory dialogue.
 
-What she offers the same as in the day version: assurances, coin, vague mutual benefit. What triggers surrender remains the same: Orond in the party's custody, or a credible immediate threat to Zartan or Greth.
+What she will offer, freely:
+- Safe passage out of the estate, her word that whoever is left standing in G8 will let them go.
+- "A mutual benefit arrangement" — vague, no numbers, no specifics.
+- Information about Floxin that she claims is worth more than the Stone itself. (It is not. She will use it to buy minutes.)
 
-**If the party has Orond:** She recognizes him the moment she sees him. Her expression does not break; it goes blank. She hands over the Stone. Hrabbaz stands down when she looks at him.
+What she will not offer without a Charisma check (DC 14 Persuasion):
+- The Stone directly.
+- Any confirmation that she has the Stone.
+- Anything about the cult affiliation or the G16 trunk.
+
+What changes the calculation entirely:
+
+**Family.** Yalah is first and last a mother. If the party has Orond in custody, she recognizes him the moment she sees him. Her expression does not break; it goes blank. She hands over the Stone. No check required. Hrabbaz stands down when she looks at him.
+
+**Credible threat to the children.** A party that makes it clear — not as a threat, as a fact — that Zartan or Greth are in immediate danger produces the same result. She hands over the Stone.
 
 **If the party has no leverage:** DC 14 Persuasion to extract the Stone through argument. At this hour, with the building in chaos, she is slightly more afraid than she would normally allow herself to be. The DC does not change, but her tells are easier to read — a character with DC 12 Insight recognizes that she is calculating exits more than she is calculating responses.
+
+**The Brass Key.** A small brass key hangs on a chain at Yalah's throat. It opens the locked tome in the Family Library (G12), bypassing its Specter trap. A party that takes the key — during the confrontation, on the way out, or from an unconscious Yalah — prevents three specters from ambushing whoever opens the family chronicle later.
 
 ### The Raid as Pressure
 
@@ -38,15 +53,25 @@ If the DM wants to add pressure without adding combatants: have sounds escalate 
 
 ### Hrabbaz
 
-Same behavior as the day version: acts on Yalah's judgment, not his own. He will not fight against her will. He will absolutely fight for her if she gives the word, and he will not hesitate or pull his punches.
+Hrabbaz is not a negotiator. He has been paid to stand beside a door, and he will stand there. He does not initiate; he responds to Yalah's read. If Yalah says *stop*, he stops. If she says *now*, he acts. There is no version of this encounter where Hrabbaz fights against Yalah's will. He will absolutely fight for her if she gives the word, and he will not hesitate or pull his punches.
 
 ### If Jarlaxle's Team Fires (Conditional — *Jarlaxle Informed*)
 
-If the BD sequence from ev-04 did not already fire (the party arrived at G16 before Fel'rekt reached it), it fires now. Gunslingers at G13 windows, Fel'rekt through the balcony. Yalah retreats into G18 with the door locked, Hrabbaz holds G16.
+If the BD sequence from ev-04 did not already fire (the party arrived at G16 before Fel'rekt reached it), it fires now. Gunslingers take positions at G13's exterior windows and fire through the glass — guards at the stairhead, neutralized. Fel'rekt Lafeen drops to the balcony (G17) with four drow and enters through the glass doors to G16.
+
+Yalah reads this immediately: she retreats into G18 — the children's room — and locks the door from inside. Hrabbaz holds G16 against Fel'rekt, buying her the seconds she needs.
 
 Before Fel'rekt moves toward the G18 door, he turns to the party. The building is still audibly in chaos below; he does not raise his voice: *"Jarlaxle sends his regards. You have been following the same trail we have — which means you already know what is in that room and what it is worth. I am not here to fight you. What I am here for is behind that door."*
 
 He gestures toward G18. Then he looks at the party and waits.
+
+> **[GM]**
+>
+> #### If a Party Member Is a BD Operative
+>
+> Fel'rekt addresses them separately from the rest of the group, by name or operative title: *"[Name]. Jarlaxle's compliments. You know what I am here to do."*
+>
+> For a BD operative, cooperation is the implicit expectation, not a choice on a menu. The operative can still refuse (Resist path applies), but it registers as insubordination — record a −1 BD Renown consequence; Jarlaxle is informed. If they cooperate or negotiate, the Persuasion check is waived and the intelligence is shared freely: Fel'rekt considers them entitled to it.
 
 **Three paths:**
 
@@ -62,7 +87,11 @@ If the BD sequence already fired in ev-04 and Yalah already surrendered the Ston
 
 ### Yalah's Nimblewright Contingency
 
-Same as the day version: if cornered with no options, she speaks the command word. The nimblewright activates in G11, crosses the upper floor, takes the Stone via the balcony route. If this happens, proceed to ev-08.
+If Hrabbaz is down or cornered, the Stone about to be taken, no negotiating room left, Yalah speaks the command word from memory. The nimblewright in G11 activates, crosses the upper floor in under a minute, and Yalah passes it the Stone through the balcony door.
+
+The nimblewright takes the Balcony (G17) route to the Coach House roofline and drops to the street.
+
+If this happens, proceed to ev-08: The Rooftop Chase.
 
 ### Last Resort
 
@@ -92,9 +121,7 @@ Record who holds the Stone at the close of this confrontation. Read by ev-08 (ch
 >
 > #### Milestone: The Confrontation — 1 Point
 >
-> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 9.
->
-> This milestone fires here, in ev-07, for parties on the night path. It did not fire in ev-06 (that milestone fires for parties on the day path). Only one fires per playthrough.
+> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 9. This milestone fires here, in ev-07, for parties on the night path. It does not fire in ev-06.
 
 ## Overview
 

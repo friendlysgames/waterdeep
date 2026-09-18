@@ -55,6 +55,14 @@ Before Fel'rekt moves toward the G18 door, he turns to the party. His voice is l
 
 He gestures toward G18. Then he looks at the party and waits.
 
+> **[GM]**
+>
+> #### If a Party Member Is a BD Operative
+>
+> Fel'rekt addresses them separately from the rest of the group, by name or operative title: *"[Name]. Jarlaxle's compliments. You know what I am here to do."*
+>
+> For a BD operative, cooperation is the implicit expectation, not a choice on a menu. The operative can still refuse (Resist path applies), but it registers as insubordination — record a −1 BD Renown consequence; Jarlaxle is informed. If they cooperate or negotiate, the Persuasion check is waived and the intelligence is shared freely: Fel'rekt considers them entitled to it.
+
 **Three paths:**
 
 **Cooperate.** The party stands aside and lets Fel'rekt work. He acknowledges this with a nod and moves to negotiate through the G18 door. When Yalah surrenders the Stone, he takes it — then turns back to the party: *"Jarlaxle remembers his debts. When this city decides what to do with half a million gold dragons, someone who was helpful tonight will find the doors easier to open."* He exits via the balcony. Record *Stone Holder: BD*. The party receives an open invitation to the Sea Maidens Faire at any time — Fel'rekt's word, not a written note.
