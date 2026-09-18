@@ -8,7 +8,7 @@
 >
 > - Six faction contacts each deliver a distinct tactical perspective and agenda.
 > - The party hears five versions of the same situation without any of them being straightforwardly wrong.
-> - If the party met Jarlaxle in Arc C (Jarlaxle Informed set), he offers the most actionable intelligence in the arc — and withholds exactly one thing.
+> - If the party met Jarlaxle in Arc C (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
 > - All contacts reference the Ches 24th deadline; the party understands the window is real.
 > - "If They Don't Go" contingency is noted at the end for DM reference.
 >
@@ -16,31 +16,37 @@
 
 The party has roughly forty-eight hours. The faction contacts know it. Each one reaches out in the forty-eight hours after the fireball's investigation delivers the address — notes, flying snakes, casual encounters that are not casual. The DM can deliver these in any order; they do not require the party to seek anyone out. The contacts find them.
 
-### Mirt (Harpers — available if Harper renown 1+)
+### Mirt (Harpers)
 
 The quietest nudge, carrying the clearest self-interest. Mirt delivers his input in person if possible — over food, without an agenda on the table, at a time of his choosing. He does not order the party to move on the villa. He offers gratitude. Stated as gratitude, not as a threat, not as a condition. He notes, almost as an aside, that the Watch's involvement in these matters "tends to end them." He is not wrong. He does not explain that the Harpers have been tracking the Stone for weeks, or that the party, arriving at the villa first and bringing it to him, gives him leverage over every faction that hears about it later.
 
 The party can read whatever they want into his warmth. It is not performed.
 
-### Davil Starsong (Doom Raiders — available if Doom Raiders renown 1+)
+### Davil Starsong (Doom Raiders)
 
 The most direct voice in the room. Davil places Floxin in Trollskull Alley that night and names him as the reason Dalakhar is dead and the Stone is behind a locked gate in the North Ward. He frames recovery as a matter of clearing the Doom Raiders' name: the Watch has witnesses who placed Zhentarim agents in the alley. What the Watch doesn't have is anyone willing to say those agents weren't working for the Doom Raiders. Floxin's testimony — his own account of who sent him into Trollskull Alley and why — can separate the Doom Raiders from the bombing entirely.
 
 *"Go in. Get out. Bring proof."* He doesn't specify what proof looks like. He trusts the party to recognize it when they find it. This is either confidence in them or a sign he doesn't know what Floxin will say.
 
-### Jalester Silvermane (Lords' Alliance — available if Lords' Alliance renown 1+)
+### Jalester Silvermane (Lords' Alliance)
 
 The sole voice of caution, and the only contact who says what he means without a subtext behind it. Unauthorized entry into a North Ward noble's estate carries the same legal weight as burglary. He is not wrong about this. He offers what he calls the cleanest legal path: a conversation with Sergeant Cromley, who will look the other way for forty-eight hours if the party signs a statement committing to share their intelligence within that window.
 
 Jalester does not acknowledge that forty-eight hours means the Stone will be gone before any legal process concludes. He does not know. The party does.
 
-### Vajra Safahr (Force Grey — available if Force Grey renown 1+, or through Blackstaff Tower contact)
+### Vajra Safahr (Force Grey)
 
 No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward, without specifying what this means in practice — protection, advocacy, or simply documentation that something was said. Her instruction is clear and her backing is ambiguous.
 
-### Jarlaxle Baenre (Bregan D'Aerthe — conditional on *Jarlaxle Informed* attunement from Arc C, or BD renown 1+)
+### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from Arc C — fires for all parties, not members only)
 
-A carnival acrobat delivers a sealed note to wherever the party is staying. The note offers a meeting — a specific time, a specific location, nothing else. In the meeting:
+A carnival acrobat delivers a sealed note to wherever the party is staying. The note offers a meeting — a specific time, a specific location, nothing else.
+
+**What happens in that meeting depends on whether a BD operative is in the party.**
+
+#### No BD Operative in the Party
+
+In the meeting:
 
 - He provides the complete nimblewright ledger, showing the chain of manufacture, sale, and delivery to the Gralhunds.
 - He provides a detailed layout of the villa's upper floor derived from recordings made by the nimblewright's embedded clairvoyance crystal — room positions, the G16 master bedroom, Yalah's confirmed location.
@@ -55,6 +61,18 @@ His generosity is genuine in content. It is calculated in purpose.
 > #### Jarlaxle's Test
 >
 > The party will find Fel'rekt's team in Artheyn Manor during ev-02 if they scout carefully (DC 14 Perception). How they respond to that discovery — whether they raise it with Jarlaxle, blame him for the omission, or simply note it and proceed — is the test. A party that mentions it gets a smile and a redirect. A party that doesn't mention it gets a warmer reception the next time they meet. Never both. Cross-ref Arc D Design Notes.
+
+#### BD Operative in the Party
+
+The meeting is the same setting, the same sealed note, the same acrobat delivery. But Jarlaxle does not perform for the operative. The warmth is still there; the calculation is visible beneath it.
+
+He provides the same package — nimblewright ledger, upper floor layout, gazer positions. Then he adds what he withheld from everyone else:
+
+*"Fel'rekt and four of my people are already at Artheyn Manor, across the street. They will move when the confrontation is in play. Your job is to be in that room when it matters. The Stone goes with the party — with you — when you leave. That is the only outcome that satisfies me."*
+
+He does not explain what happens if the outcome does not satisfy him. He does not need to. He tells the operative directly: *"Do not look to Fel'rekt for permission. He is there to back you up, not to run the operation. You are running the operation."*
+
+He expects no reply beyond acknowledgment. The meeting is three minutes shorter than it is for everyone else.
 
 ### Renaer Neverember (conditional on *Gralhund Villa Named* attunement from Arc C)
 
