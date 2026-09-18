@@ -15,17 +15,19 @@
 
 ### The Villa Exterior
 
-The estate occupies a full block on Saerdoun Street, North Ward. The following information is available through observation, skill checks, and time spent watching. None of it is volunteered.
+The estate occupies a full block on Saerdoun Street, North Ward. The perimeter wall is old stone, reinforced, extending above head height. The main gate faces the street, a two-story carriage arch flanking it. The Coach House (G3) roofline is the only interior structure visible from street level. The upper floors of the manor rise behind it.
 
-**Immediately visible (no check, anyone on Saerdoun Street):** The perimeter wall is old stone, reinforced, extending above head height. The main gate faces the street. A two-story carriage arch flanks it. The roof of the Coach House (G3) is the only interior structure visible over the wall. The upper floors of the manor proper rise behind it.
+**If the PCs are looking for a way inside:**
 
-**DC 12 Perception or 10 minutes of observation:** The wall is approximately 12 feet. The interior yard slopes downward, making the drop on the far side less than the exterior climb — easier to descend than to scale from outside. The Coach House roofline can be reached from outside (DC 10 Athletics on the carriage arch) and provides a platform for approaching the Balcony (G17) without a wall check.
+Three approaches to the estate interior:
 
-**DC 14 Perception:** The Balcony (G17) on the upper floor is recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance. It is reachable from the Coach House roofline.
+- **Main gate** — the only ground-level entry point. DC 15 Investigation (requires close approach to the gate): the latch does not yield to normal pressure; *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
+- **Over the wall** — approximately 12 feet (DC 12 Perception or 10 minutes of observation). DC 15 Athletics to scale from the street side. The interior yard slopes downward; the drop on the far side is shorter than the climb.
+- **Coach House roofline** — accessible from the street via DC 10 Athletics on the carriage arch. No wall check required. From the roofline, the Balcony (G17) is reachable: recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance (DC 14 Perception to spot from street level).
 
-**DC 15 Investigation (close approach to the gate):** The main gate latch does not yield to normal pressure. A faint resistance stops the mechanism before it catches. *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
+**If the PCs are watching for patrol patterns:**
 
-**Spending 30+ minutes watching from a fixed position:** The City Watch patrol passes Saerdoun Street irregularly, roughly every 20 minutes. Any audible commotion outside the walls draws a Watch response in 1d6 + 4 minutes (1 mage, 6 veterans). This timing is not available through a skill check; it requires sustained observation or a knowledgeable contact (Jalester, Cromley, any city-wise NPC).
+A party observing from a fixed position for 30+ minutes notes the City Watch passing Saerdoun Street irregularly, roughly every 20 minutes. Any audible commotion outside the walls draws a Watch response in 1d6 + 4 minutes (1 mage, 6 veterans). Jalester, Cromley, or any city-wise contact can supply the same information without the wait.
 
 ### The Three Observation Teams
 
