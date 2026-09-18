@@ -88,6 +88,26 @@ The meeting at Ahghairon's Statue proceeds **at highsun**. She chose the open ho
 
 **Mortal Enemy.** If any PC has designated Istrid Horn as their Doom Raiders Mortal Enemy contact: she cannot refuse to come, and the party holds the leverage. A PC with this history may extract the courier cache information and the full 40 platinum and shelter cooperation without a check, simply by naming the arrangement clearly. Alternatively: a PC who turns her in despite having named her mortal enemy forfeits the Mortal Enemy bond and takes Doom Raiders renown −3. Tashlyn's note arrives the next morning: *"That was our business. Not the Watch's."*
 
+### Jarlaxle Returns the Stone (Conditional — *Stone Holder: BD*, No BD Operative)
+
+If Bregan D'Aerthe holds the Stone and no BD operative is in the party, a package arrives at Trollskull Manor some time after Istrid's approach — the exact hour does not matter, but it is the same day. It is wrapped in dark cloth, unmarked, left at the door by someone no one saw.
+
+Inside: the Stone of Golorr. And a card, blank on one side, written on the other in a small, precise hand:
+
+*"Consider this an introduction. — J."*
+
+Nothing else. No instructions. No conditions stated.
+
+> **[GM]**
+>
+> #### Why Jarlaxle Returns It
+>
+> He had the Stone. He could have opened it himself and sent an operative into the vault. He chose not to. The message is everything the card doesn't say: he knew who they were before they knew him, he is more useful to them with the Stone in their hands than in his, and he expects them to remember this when the time comes.
+>
+> This is not charity. It is the most effective possible investment in a relationship he has already decided will be valuable.
+>
+> **Milestone 2 fires when the package is opened.** The Stone in party hands triggers the Milestone regardless of when in the event it arrives. Award 1 Milestone Point now. Cumulative total: 10 → **Level 4.**
+
 ### Faction Debriefs
 
 Within one to three days of the villa, the party's active faction contacts request accounts of what happened. Most use flying snakes or anonymous notes; the crackdown has made direct meetings risky.
@@ -104,7 +124,19 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
-**Bregan D'Aerthe (conditional — *Jarlaxle Informed*).** A note through whatever channel was established in Arc C: *"We saw what happened at Gralhund. We know which factions were there. We know who left with what. If the party is interested in a full account — faction by faction — the theater has a back room. Price is one conversation. Not a mission. A meeting."* Jarlaxle was on the rooftops. He watched every entrance and exit.
+**Bregan D'Aerthe — No Operative in Party (conditional — *Jarlaxle Informed*).** A note through whatever channel was established in Arc C: *"We saw what happened at Gralhund. We know which factions were there. We know who left with what. If the party is interested in a full account — faction by faction — the theater has a back room. Price is one conversation. Not a mission. A meeting."* Jarlaxle was on the rooftops. He watched every entrance and exit.
+
+**Bregan D'Aerthe — BD Operative in Party.** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
+
+The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the arc outcome:
+
+*Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'Aerthe renown +2.
+
+*Stone Holder: BD* (Fel'rekt stepped in because the operative's negotiation failed or stalled) — the orders were carried out, but not by the operative: *"The Stone reached the right hands. The path there was longer than it needed to be. Jarlaxle notes the difference."* Bregan D'Aerthe renown +1.
+
+*Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
+
+In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the arc produced.
 
 ### Gralhund Response Team (Forward Seed)
 
