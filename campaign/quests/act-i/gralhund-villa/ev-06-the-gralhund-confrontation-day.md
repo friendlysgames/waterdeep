@@ -51,7 +51,19 @@ The gunslingers take positions at G13's exterior windows and fire through the gl
 
 Yalah reads this immediately: she retreats into G18 — the children's room — and locks the door from inside. Hrabbaz holds G16 against Fel'rekt, buying her the seconds she needs.
 
-Fel'rekt negotiates through the G18 door. *"The Stone, Lady Gralhund. That is all I am here for."* If she surrenders the Stone to Fel'rekt, the Stone is now with BD — record the *Stone Holder: BD* attunement and proceed to ev-08 (the party may give chase) or ev-09 (if the party chooses not to pursue).
+Before Fel'rekt moves toward the G18 door, he turns to the party. His voice is level and carries no threat: *"Jarlaxle sends his regards. You have been following the same trail we have — which means you already know what is in that room and what it is worth. I am not here to fight you. What I am here for is behind that door."*
+
+He gestures toward G18. Then he looks at the party and waits.
+
+**Three paths:**
+
+**Cooperate.** The party stands aside and lets Fel'rekt work. He acknowledges this with a nod and moves to negotiate through the G18 door. When Yalah surrenders the Stone, he takes it — then turns back to the party: *"Jarlaxle remembers his debts. When this city decides what to do with half a million gold dragons, someone who was helpful tonight will find the doors easier to open."* He exits via the balcony. Record *Stone Holder: BD*. The party receives an open invitation to the Sea Maidens Faire at any time — Fel'rekt's word, not a written note.
+
+**Negotiate.** The party wants something in exchange for standing aside — information, a cut, a guarantee. DC 13 Persuasion. On a success: Fel'rekt provides one piece of intelligence the party does not yet have (GM's choice from: the Stone's second Eye location, Yalah's Asmodean contact in Castle Ward, or Floxin's dead-drop locations). On a failure: he declines without heat — *"The offer stands anyway. Stand aside or don't."* — and proceeds regardless.
+
+**Resist.** The party tries to stop him or take the Stone themselves. Fel'rekt does not argue: *"Unfortunate."* He sends two drow to hold the party at the balcony while he works the G18 door. This is a blocking action, not a kill order — the drow fight to restrain, not to drop anyone below 0. If the party breaks through, Fel'rekt abandons the Stone negotiation and retreats via the balcony empty-handed. The Stone remains with Yalah.
+
+**Fel'rekt negotiates with Yalah regardless** — unless the party is actively preventing it. *"The Stone, Lady Gralhund. That is all I am here for."* If she surrenders the Stone to Fel'rekt, record *Stone Holder: BD* and proceed to ev-08 (the party may give chase) or ev-09 (if the party chooses not to pursue).
 
 ### Yalah's Nimblewright Contingency
 
