@@ -17,13 +17,17 @@
 
 The estate occupies a full block on Saerdoun Street, North Ward. The perimeter wall is old stone, reinforced, extending above head height. The main gate faces the street, a two-story carriage arch flanking it. The Coach House (G3) roofline is the only interior structure visible from street level. The upper floors of the manor rise behind it.
 
-**If the PCs are looking for a way inside:**
+**If the PCs are sizing up the perimeter wall:**
 
-Three approaches to the estate interior:
+Old stone, approximately 12 feet high (DC 12 Perception or 10 minutes of observation). DC 15 Athletics to scale from the street side. The interior yard slopes downward — the drop on the far side is shorter than the climb.
 
-- **Main gate** — the only ground-level entry point. DC 15 Investigation (requires close approach to the gate): the latch does not yield to normal pressure; *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
-- **Over the wall** — approximately 12 feet (DC 12 Perception or 10 minutes of observation). DC 15 Athletics to scale from the street side. The interior yard slopes downward; the drop on the far side is shorter than the climb.
-- **Coach House roofline** — accessible from the street via DC 10 Athletics on the carriage arch. No wall check required. From the roofline, the Balcony (G17) is reachable: recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance (DC 14 Perception to spot from street level).
+**If the PCs are trying the main gate:**
+
+Close approach required. The latch does not yield to normal pressure; a faint resistance stops the mechanism before it catches. DC 15 Investigation to register the latch behavior. *Detect Magic* within 10 feet confirms *arcane lock*. Forcing it requires DC 25 Strength or DC 20 thieves' tools.
+
+**If the PCs are looking for an approach that avoids the wall:**
+
+The carriage arch beside the gate provides a platform. DC 10 Athletics gains the Coach House (G3) roofline without a wall check. From the roofline, the Balcony (G17) is reachable — recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance (DC 14 Perception to spot from street level).
 
 **If the PCs are watching for patrol patterns:**
 
