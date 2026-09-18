@@ -27,7 +27,7 @@ Close approach required. The latch does not yield to normal pressure; a faint re
 
 **If the PCs are looking for an approach that avoids the wall:**
 
-The carriage arch beside the gate provides a platform. DC 10 Athletics gains the Coach House (G3) roofline without a wall check. From the roofline, the Balcony (G17) is reachable — recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance (DC 14 Perception to spot from street level).
+DC 14 Perception spots the Balcony (G17) — recessed into the manor's north face, partially obscured by ornamental ironwork above the main entrance. To reach it: DC 10 Athletics on the carriage arch beside the gate gains the Coach House (G3) roofline without a wall check, and the balcony is accessible from there.
 
 **If the PCs are watching for patrol patterns:**
 
