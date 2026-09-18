@@ -64,7 +64,7 @@ Under DC 10 Charisma (Persuasion; Disadvantage if Yalah has already been alerted
 - The Stone of Golorr is an ancient creature transformed into an artifact; it holds the location of a hidden vault beneath Waterdeep containing enormous wealth.
 - Lady Yalah sent the nimblewright to Trollskull Alley on Ches 22nd. He calls the outcome "careless," and stops talking for a moment.
 - There is a religious affiliation (symbols in a trunk in the master bedroom) that he has never asked about directly.
-- The house funded Zhentarim agents who abducted Renaer Neverember months ago. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar. It went sideways: the gnome never came for the boy. He says this quietly, as if volume changes what it means.
+- The house funded Zhentarim agents who abducted Renaer Neverember weeks ago. Yalah arranged it. The point was leverage to recover the Stone from Dalakhar. It went sideways: the gnome never came for the boy. He says this quietly, as if volume changes what it means.
 
 If the party takes Orond into custody and brings him upstairs to G16, Yalah will surrender the Stone without a Charisma check. Hrabbaz will stand down if Yalah looks at him first.
 
