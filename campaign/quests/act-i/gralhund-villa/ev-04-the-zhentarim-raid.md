@@ -14,7 +14,7 @@
 >
 > **Trigger:** Party arrives at Gralhund Villa on the night of Ches 24th (raid in progress), OR the party was inside during the day and the raid begins at nightfall.
 
-The raid began through the Pantry door. From here, events have their own momentum. The DM should enter the timeline at the beat that reflects how early the party arrived — then play the situation as it develops. Floxin's plan is not a script the raid follows; it is a plan the raid was following before things started going wrong.
+The raid began through the Pantry door. From here, events have their own momentum. The DM should enter the timeline at the beat that reflects how early the party arrived — then play the situation as it develops. Floxin had a plan; the raid has since departed from it.
 
 ### Floxin's Plan
 

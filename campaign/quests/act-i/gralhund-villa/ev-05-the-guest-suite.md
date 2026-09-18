@@ -18,7 +18,7 @@
 
 Floxin is at the G15b door — shoulder into the wood, boot following, reading each impact for where the barricade is weakest. He is focused. Wounded from the downstairs fighting (50 hp remaining, no active poison — his poison supply was lost in the initial engagement), still fully operational. He still has his weapons.
 
-When the party arrives, he turns and reads them in a single glance: not Gralhund guards, not Zhents he recognizes, weapons drawn. He is in a corridor with nowhere to go that doesn't go through them.
+When the party arrives, he turns and reads them in a single glance: not Gralhund guards, not Zhents he recognizes, weapons drawn. He is in a corridor with one exit, and the party is standing in it.
 
 What he does next depends on the tactical read:
 
@@ -42,7 +42,7 @@ He will not fight. The kind of coward who has decided money means he doesn't hav
 
 Under **DC 10 Intimidation** (Disadvantage if he has any reason to believe Yalah can hear him through the wall), he confirms:
 
-**1. The Stone of Golorr.** An ancient creature transformed into an artifact; it holds the location of a hidden vault somewhere beneath Waterdeep containing half a million gold dragons. He does not know how to open it. He does not know about the Eyes.
+**1. The Stone of Golorr.** An ancient creature transformed into an artifact; it holds the location of a hidden vault somewhere beneath Waterdeep containing half a million gold dragons. He does not know how to open it, and knows nothing of the Eyes.
 
 **2. Yalah ordered the fireball.** The nimblewright was sent to Trollskull Alley on Ches 22nd on her orders. "It was careless," Orond says. He stops talking for a moment.
 

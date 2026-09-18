@@ -4,9 +4,9 @@
 
 The published Dragon Heist resolves Gralhund Villa by having the Stone leave with a villain-specific NPC — Grinda Garloth, or Fenerus Stormcastle, depending on the season variant. This creates a structural problem: the party has spent an entire arc tracking the Stone to this estate, and it escapes before they can act on that intelligence. The result tends to produce player frustration — the investigation was real effort, the address was earned, but the Stone was going to move regardless.
 
-The Alexandrian's revision is explicit: the expected outcome is for the player characters to have the Stone of Golorr. Every scene in this arc is designed to make that outcome achievable without scripting it. The daytime infiltration (ev-03) puts the party in the building before rivals arrive. The raid (ev-04) creates chaos that can work in the party's favor if they position correctly. The Rooftop Chase (ev-08) catches the Stone if it slips past them inside. Three redundant paths to the same result.
+The expected outcome is for the player characters to have the Stone of Golorr. Every scene in this arc is designed to make that outcome achievable without scripting it. The daytime infiltration (ev-03) puts the party in the building before rivals arrive. The raid (ev-04) creates chaos that can work in the party's favor if they position correctly. The Rooftop Chase (ev-08) catches the Stone if it slips past them inside. Three redundant paths to the same result.
 
-What breaks if the party doesn't get the Stone? The campaign continues — but every subsequent negotiation runs from weakness rather than strength. Jarlaxle deals with petitioners differently than he deals with principals. Whichever faction holds the Stone begins locating the vault within days. The party is racing an active countdown rather than holding a controlling position. This is consequential, not catastrophic.
+What breaks if the party doesn't get the Stone? The campaign continues — but every subsequent negotiation runs from weakness rather than strength. Jarlaxle deals with petitioners differently than he deals with principals. Whichever faction holds the Stone begins locating the vault within days. The party is racing an active countdown rather than holding a controlling position. This is consequential.
 
 ## The Day/Night Metric as a Player-Facing Choice
 
@@ -28,7 +28,7 @@ The DM running this arc should prepare the adversary rosters and understand each
 
 The intelligence Jarlaxle offers in ev-01 is accurate. He has the ledger. He has the upper floor layout. He knows where Xanathar's gazers are. He gives the party all of it, freely, without apparent agenda.
 
-What he does not offer: that Fel'rekt Lafeen's team is already in Artheyn Manor, directly across the street. This is not an error or an oversight. He is measuring whether the party notices what was not offered, and whether they can act on incomplete intelligence without later making it someone else's fault.
+He does not mention that Fel'rekt Lafeen's team is already in Artheyn Manor, directly across the street. This is not an error or an oversight. He is measuring whether the party notices what was not offered, and whether they can act on incomplete intelligence without later making it someone else's fault.
 
 Parties that find the BD team during ev-02 reconnaissance and raise it with Jarlaxle get a smile and a redirect. Parties that find it and don't raise it get a warmer reception next time. Parties that never find it get a practical demonstration that faction intelligence is always partial. This connects directly to the Arc C design note on investigation quality having consequences — the relationship with Jarlaxle is indexed to how the party handles exactly these moments.
 

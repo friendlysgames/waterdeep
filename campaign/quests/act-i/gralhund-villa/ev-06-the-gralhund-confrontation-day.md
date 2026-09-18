@@ -93,7 +93,7 @@ The day-path confrontation. Lady Yalah Gralhund, breastplate on, Stone in her co
 
 ## Read Aloud
 
-> She is already standing when the door opens. Breastplate fitted, rapier at her hip, a small key on a chain resting at her throat. The large figure beside her does not move. Lady Yalah Gralhund looks at you the way someone looks at a thing they have been expecting, and then she asks, very calmly, what it is you want.
+> She is already standing when the door opens. Breastplate fitted, rapier at her hip, a small key on a chain resting at her throat. The large figure beside her does not move. Lady Yalah Gralhund looks at you without surprise and asks, calmly, what it is you want.
 
 ## Summary
 

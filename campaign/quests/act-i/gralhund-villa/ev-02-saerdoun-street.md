@@ -15,7 +15,7 @@
 
 ### The Villa Exterior
 
-The estate occupies a full block on Saerdoun Street, North Ward. The following information is available through observation, skill checks, and time spent watching. It is earned, not given.
+The estate occupies a full block on Saerdoun Street, North Ward. The following information is available through observation, skill checks, and time spent watching. None of it is volunteered.
 
 **Immediately visible (no check, anyone on Saerdoun Street):** The perimeter wall is old stone — reinforced, extending above head height. The main gate faces the street. A two-story carriage arch flanks it. The roof of the Coach House (G3) is the only interior structure visible over the wall. The upper floors of the manor proper rise behind it.
 

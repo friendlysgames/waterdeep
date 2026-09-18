@@ -20,13 +20,13 @@ The door can be forced (DC 20 Strength, loud), picked (DC 18 thieves' tools, req
 
 ### The Emergency Meeting
 
-Yalah has less room to negotiate in the night version. The building is on fire, figuratively. She is not performing warmth. She is making calculations in real time, and the presence of armed strangers who are not Floxin and are not the Watch tells her exactly one thing: the Stone is the point of this visit.
+Yalah has less room to negotiate in the night version. The building is on fire, figuratively. She has dropped the warmth. Armed strangers who are not Floxin and not the Watch are here for the Stone, and she already knows it.
 
 She still trades. She trades faster, with less ceremony, and with less patience for exploratory dialogue.
 
 What she offers the same as in the day version: assurances, coin, vague mutual benefit. What triggers surrender remains the same: Orond in the party's custody, or a credible immediate threat to Zartan or Greth.
 
-**If the party has Orond:** She recognizes him the moment she sees him. Her expression does not break; it goes briefly blank in the way things do when they become very simple. She hands over the Stone. Hrabbaz stands down when she looks at him.
+**If the party has Orond:** She recognizes him the moment she sees him. Her expression does not break; it goes blank. She hands over the Stone. Hrabbaz stands down when she looks at him.
 
 **If the party has no leverage:** DC 14 Persuasion to extract the Stone through argument. At this hour, with the building in chaos, she is slightly more afraid than she would normally allow herself to be. The DC does not change, but her tells are easier to read — a character with DC 12 Insight recognizes that she is calculating exits more than she is calculating responses.
 
@@ -88,7 +88,7 @@ The night-path confrontation. Lady Yalah Gralhund behind a barred door, a buildi
 
 ## Read Aloud
 
-> The door is barred from inside. Through it you can hear, faintly, the fighting still ongoing at the stairhead below — and a silence on the other side of this door that is deliberate. Someone is standing very still, listening to you listen to them.
+> The door is barred from inside. Through it you can hear, faintly, the fighting still ongoing at the stairhead below — and a silence on the other side of this door that is deliberate. Someone is standing motionless, listening to you listen to them.
 >
 > > *"Who's there."* Not a question. An evaluation.
 
