@@ -77,11 +77,11 @@ Carried from session 25 (still unchecked):
 - [ ] Appendix B (Monster Compendium) — not yet drafted
 - [ ] Guides and setting pages (20 files) need a prose-writing pass at the final polish phase
 
-New from this session:
+New from this session (all completed in session 27):
 
-- [ ] **Update `appendix-d-running-factions.md`** — remove the full mission write-ups (now superseded by quest journals), replace with H3 header stubs pointing to the journal paths. Keep intact: Grand Game Stance sections, Arc Hooks tables, per-faction preamble prose.
-- [ ] **Update CLAUDE.md Workspace Structure** — add `campaign/quests/faction-missions/` as a new row in the Quest Journals table, describing all 7 faction folders as complete. Note the no-milestone-points decision in the Mechanics standing rules.
-- [ ] **`adventure-reloaded` skill update** — the skill currently says "Side Quest / Faction Mission — 1 Milestone Point on completion of its terminal event." This rule is now wrong for this campaign. Update to carve out faction missions explicitly.
+- [x] **Update `appendix-d-running-factions.md`** — replaced all 43 mission write-ups with pointer stubs; Grand Game Stance, Arc Hooks, and per-faction preamble kept intact. File: 2312 → 533 lines. Commit: `42d611d`.
+- [x] **Update CLAUDE.md Workspace Structure** — added `campaign/quests/faction-missions/` row to Quest Journals table; updated Milestone Points standing rule to carve out faction missions. Commit: `42d611d`.
+- [x] **`adventure-reloaded` skill update** — split "Side Quest / Faction Mission" into two separate rules; faction missions now explicitly award no points. Commit: `42d611d`.
 
 Pending arc conversions (unchanged):
 
@@ -96,8 +96,8 @@ Pending arc conversions (unchanged):
 
 ## Warnings and Caveats
 
-- **Appendix D is now partially redundant** — its mission text duplicates the quest journals. Until the Appendix D cleanup is done, both versions exist. The quest journals are authoritative; Appendix D is the legacy source.
-- **`adventure-reloaded` skill has a stale milestone rule** — it says faction missions award 1 Milestone Point. This is incorrect for this campaign and needs updating before any future content references it.
+- **Appendix D cleanup complete** — mission write-ups replaced with stubs; quest journals are authoritative. The redundancy is resolved.
+- **`adventure-reloaded` skill updated** — faction missions now explicitly award no Milestone Points.
 - **Force Grey flowchart stubs were committed and then removed** — the git history has those stubs in commits before `48cddbf`. This is fine; they are fully deleted in the cleanup commit.
 - **EE M6 carries an `Illuun Contact` flag for Undermountain Level 4** — the agent added this unprompted based on the source material. It is a valid connection worth preserving.
 - **FG M4 references Nihiloor as the same mind flayer who appears in Arc F** — the design-notes.md documents how to handle the encounter depending on whether M4 ran before or after Arc F.
@@ -106,10 +106,9 @@ Pending arc conversions (unchanged):
 
 ## Where to Start Next Session
 
-Three cleanup tasks are ready to go (any order, can be done in one session):
+All session 26 cleanup tasks are complete. The next major task is **Arc E — Faction Outposts** conversion:
 
-1. **Update `adventure-reloaded` skill** — change the Milestone Points section to state that faction missions in this campaign award no Milestone Points (main arc ladder handles full progression).
-2. **Update CLAUDE.md** — add `campaign/quests/faction-missions/` to the Workspace Structure table; add the no-faction-milestone rule to the Mechanics section.
-3. **Clean up `appendix-d-running-factions.md`** — remove the full mission write-ups, replace with pointers to the quest journals. Keep Grand Game Stance + Arc Hooks + preamble prose.
-
-After those three are done, the next major task is **Arc E — Faction Outposts** conversion (load `adventure-reloaded`, read `arc-e-faction-outposts.md` and `sources/Act_III_Arc_E.md`, write and get an approved event decomposition plan).
+1. Load `adventure-reloaded`
+2. Read `campaign/structure/arc-e-faction-outposts.md` and `sources/Act_III_Arc_E.md`
+3. Write and get an approved event decomposition plan
+4. Then convert to quest journal format under `campaign/quests/act-i/faction-outposts/` (or appropriate path)
