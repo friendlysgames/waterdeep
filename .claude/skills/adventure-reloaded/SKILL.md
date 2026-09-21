@@ -289,7 +289,8 @@ The campaign uses Ember's Milestone Points system. No XP is tracked. Advancement
 
 **Point values:**
 - **Main Quest arc** — ~2 Milestone Points total across its milestone events
-- **Side Quest / Faction Mission** — 1 Milestone Point on completion of its terminal event
+- **Side Quest** — 1 Milestone Point on completion of its terminal event
+- **Faction Mission** — no Milestone Points. Faction missions in this campaign are supplementary content; their rewards are gold, renown, tangible items, and cross-arc intel. The main arc ladder (Arcs A–J) covers the full 1→8 progression without faction missions.
 
 **Progression table:**
 

@@ -71,6 +71,7 @@ When a quest journal exists for an arc, it supersedes the structure doc. Use the
 | `campaign/quests/act-i/trollskull-alley/` | Complete | Arc B — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. QA'd. |
 | `campaign/quests/act-i/fireball/` | Complete | Arc C — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. |
 | `campaign/quests/act-i/gralhund-villa/` | Complete | Arc D — `overview.md`, `ev-01`–`ev-09`, `flowchart.md`, `design-notes.md`. |
+| `campaign/quests/faction-missions/` | Complete | All 43 faction missions (44 folders including BD-M2b optional) across 7 faction subdirectories. Each mission = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`. No Milestone Points awarded. |
 
 Arcs E–J are pending conversion. Their structure docs are authoritative until quest journals exist.
 
@@ -292,7 +293,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
-**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests and Faction Missions award 1 point. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
+**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests award 1 point. Faction Missions award no Milestone Points — the main arc ladder (Arcs A–J) covers the full 1→8 progression without them; faction rewards are gold, renown, items, and cross-arc intel. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
 
 ### Writing Process
 
