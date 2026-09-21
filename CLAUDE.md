@@ -82,7 +82,7 @@ Ember format reference files (for document structure, not adventure content):
 |---|---|
 | `campaign/structure/arc-a-finding-floon.md` | Arc A structure document — **RETIRED**; superseded by the modular files in `campaign/quests/act-i/finding-floon/`. Read only for historical reference; never use for content decisions. |
 | `campaign/structure/arc-b-trollskull-alley.md` | Arc B structure document — reference only; superseded by the modular files in `campaign/quests/act-i/trollskull-alley/`. Do not use for content decisions. |
-| `campaign/quests/act-i/trollskull-alley/` | Arc B Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-07`, `flowchart.md`, `design-notes.md`. Fully QA'd and prose-polished. |
+| `campaign/quests/act-i/trollskull-alley/` | Arc B Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-07`, `flowchart.md`, `design-notes.md`. QA'd. Structuring draft. |
 | `campaign/structure/arc-c-fireball.md` | Arc C structure document — Fireball; six scenes (The Fireball, The Witnesses, The Nimblewright Hunt, The Sea Maidens Faire, The Cassalanter Dinner, Backtracking Dalakhar); three-phase investigation, Speak with Dead, Nim's CSL and sparrow trap, Valetta's reward, nine owner elimination montage, partial/complete ledger, BD sidebar (inverted renown), Cassalanter dinner as dedicated scene with four outcome tracks, optional Kalain branch (vault clues, death mark, four faction responses); 2 Milestone Points toward Level 4; structuring draft |
 | `campaign/quests/act-i/fireball/` | Fireball Quest Journal — **complete**: `overview.md`, `ev-01` through `ev-07`, `flowchart.md`, `design-notes.md`. 7 events (blast and witnesses merged into ev-01). Structuring draft — not yet prose-polished. |
 | `campaign/structure/arc-d-gralhund-villa.md` | Arc D structure document — **SUPERSEDED**; replaced by the modular files in `campaign/quests/act-i/gralhund-villa/` and `campaign/locations/gralhund-villa/`. Read only for historical reference; never use for content decisions. |
@@ -97,25 +97,25 @@ Ember format reference files (for document structure, not adventure content):
 | `campaign/structure/ch1-beginning.md` | Chapter 1 draft — Arc A (Finding Floon), session zero, opening scene |
 | `campaign/structure/ch2-city-of-splendors.md` | Chapter 2 draft — Arc B (Trollskull Alley), city lore, faction recruitment |
 | `campaign/structure/ch3-running-the-campaign.md` | Chapter 3 draft — structural rules: Three Clue Rule, heist framework, response teams, calendar |
-| `campaign/structure/appendix-a-npc-roster.md` | Appendix A — complete NPC roster: 55 Tier 1–2 profiles, 38 Tier 3 profiles, 1 Tier 4 profile (Senna Vael), 25 tavern staff candidates; all profiles fully prose-polished |
+| `campaign/structure/appendix-a-npc-roster.md` | Appendix A — complete NPC roster: 55 Tier 1–2 profiles, 38 Tier 3 profiles, 1 Tier 4 profile (Senna Vael), 25 tavern staff candidates. Structuring draft. |
 | `campaign/structure/appendix-b-monster-compendium.md` | Appendix B — custom monster and boss stat blocks for the campaign. Not yet drafted. |
 | `campaign/structure/appendix-c-player-factions.md` | Appendix C — player faction profiles and mission tables |
 | `campaign/structure/appendix-d-running-factions.md` | Appendix D — faction-by-faction operations guide; all 7 factions assembled (2,312 lines). Authoritative version. |
 | `campaign/structure/appendix-e-villain-factions.md` | Appendix E — villain faction operations guide; all four villain factions (Xanathar, Manshoon, Cassalanters, Bregan D'Aerthe), NPC rosters, outpost entries, response teams, revelation lists, escalation framework, inter-faction dynamics. Structuring draft (no sidebar callouts); Nihiloor's three-project breakdown written in full. |
-| `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Prose-polished, structure draft. |
+| `campaign/structure/appendix-f-running-the-tavern.md` | Appendix F — Trollskull Manor mechanics: Operating Costs, Reputation/Fame track, Revenue, Tavern Time procedure, d20 Events table, Notable Patron Profiles (32 alley/city/faction NPCs), staff candidate tables (32 candidates across 6 role groups with interview tells and mechanics), Faction Response Teams, Grand Game integration. Structuring draft. |
 | `sources/SOURCE_GUIDE.md` | Master map of every source file: filename, origin, contents summary, which arcs to consult it for, cross-references, and caveats. Read before writing any arc or appendix. |
 | `sources/Act_III_Arc_D.md` | Alexandrian Remix source for Arc D (Gralhund Villa) — primary reference for villa area descriptions, day/night state, and the quinpartite confrontation. |
 | `sources/Act_III_Arc_E.md` | Alexandrian Remix source for Arc E (Faction Outposts) — 903 lines; primary source for all faction outpost heists. Read before drafting Arc E. |
 | Most recent `session N handoff.md` in root (highest N) | Running log of completed work, key decisions, and where to start next session — read at session start |
-| `campaign/quests/act-i/finding-floon/` | Arc A Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-04`, `flowchart.md`, `design-notes.md`. Fully QA'd (source-researcher + consistency-checker) and prose-polished. |
+| `campaign/quests/act-i/finding-floon/` | Arc A Quest Journal — **complete and authoritative**: `overview.md`, `ev-01` through `ev-04`, `flowchart.md`, `design-notes.md`. QA'd (source-researcher + consistency-checker). Structuring draft. |
 | `campaign/quests/` | Home for all arc content in Ember-style modular format (Quest Journal per arc: overview + event pages + design notes). Arc A is complete; remaining arcs pending conversion from `campaign/structure/arc-*.md`. |
-| `campaign/locations/zhentarim-warehouse/` | Zhentarim Warehouse Location Journal — **complete**: `area-overview.md` + `z01` through `z05`. Fully prose-polished. |
-| `campaign/locations/xanathar-sewer-hideout/` | Xanathar Sewer Hideout Location Journal — **complete**: `area-overview.md` + `q01` through `q11`. Fully prose-polished. |
-| `campaign/locations/trollskull-manor/` | Trollskull Manor Location Journal — **complete**: `area-overview.md` + `tm01` through `tm06`. Fully prose-polished. |
+| `campaign/locations/zhentarim-warehouse/` | Zhentarim Warehouse Location Journal — **complete**: `area-overview.md` + `z01` through `z05`. Structuring draft. |
+| `campaign/locations/xanathar-sewer-hideout/` | Xanathar Sewer Hideout Location Journal — **complete**: `area-overview.md` + `q01` through `q11`. Structuring draft. |
+| `campaign/locations/trollskull-manor/` | Trollskull Manor Location Journal — **complete**: `area-overview.md` + `tm01` through `tm06`. Structuring draft. |
 | `campaign/locations/house-of-inspired-hands/` | House of Inspired Hands Location Journal — `area-overview.md` + `01-main-hall.md`, `02-nims-attic.md`. Structuring draft — not yet prose-polished. |
 | `campaign/locations/sea-maidens-faire/` | Sea Maidens Faire Location Journal — `area-overview.md` + `01` through `05` (Heartbreaker main deck, Eyecatcher cabins, Scarlet Marpenoth). Structuring draft — not yet prose-polished. |
 | `campaign/locations/cassalanter-villa/` | Cassalanter Villa Location Journal — `area-overview.md` + `01` through `17` (12 villa rooms + 5 temple). Structuring draft — not yet prose-polished. |
-| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. Three locations fully prose-polished; three more at structuring draft stage. |
+| `campaign/locations/` | Location Journals — one folder per location cluster (area overview + keyed room pages). Separate from the quest journals they serve. All locations at structuring draft stage. |
 
 ---
 

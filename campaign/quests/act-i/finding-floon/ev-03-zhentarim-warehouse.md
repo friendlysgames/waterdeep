@@ -49,7 +49,7 @@ Kenku speak only in mimicked voices — fragments captured from conversations th
 **Renaer Neverember** (see Appendix A) is in Z02. He is unarmed, bruised, cooperative, and waiting for the kenku to be dealt with before he attempts to leave. When the kenku are handled and the building is confirmed clear, he emerges and speaks freely.
 
 **What Renaer shares without prompting:**
-- Five Zhentarim grabbed him and Floon outside Old Xoblob Shop two nights ago and brought them here
+- Five Zhentarim grabbed him and Floon outside Old Xoblob Shop last night and brought them here
 - They questioned him about his father's embezzled gold — money Renaer has refused to help his father hide
 - They took his mourning locket, which he believed held a keepsake from his mother; he didn't know there was a hidden compartment
 - The Xanathar Guild attacked before the interrogation went further

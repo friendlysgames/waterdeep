@@ -94,7 +94,7 @@ Brandoch survives. He is at the bar in shock: he turned back immediately when he
 
 ### Volo's Quest
 
-Volo pushes through the settling crowd, steered to the party's table by Threestrings. He has already decided to hire the party; the troll fight confirmed his judgment. He describes Floon Blagmaar: wavy red-blond hair, early thirties, more charming than sensible, last seen at the Skewered Dragon two nights ago wearing princely garb.
+Volo pushes through the settling crowd, steered to the party's table by Threestrings. He has already decided to hire the party; the troll fight confirmed his judgment. He describes Floon Blagmaar: wavy red-blond hair, early thirties, more charming than sensible, last seen at the Skewered Dragon last night wearing princely garb.
 
 **Terms:** 10 gp per character upfront; 100 gp per character when Floon is returned alive.
 
@@ -132,4 +132,4 @@ The party's first night in Waterdeep drops them into a bar fight between two riv
 
 ## Summary
 
-The party met their contact at the Yawning Portal, witnessed a brawl between Doom Raiders and Xanathar Guild operatives, survived a troll emerging from the Undermountain well, and accepted a job from the writer Volo Geddarm to find his missing companion Floon Blagmaar, last seen in the Dock Ward two nights ago.
+The party met their contact at the Yawning Portal, witnessed a brawl between Doom Raiders and Xanathar Guild operatives, survived a troll emerging from the Undermountain well, and accepted a job from the writer Volo Geddarm to find his missing companion Floon Blagmaar, last seen in the Dock Ward last night.

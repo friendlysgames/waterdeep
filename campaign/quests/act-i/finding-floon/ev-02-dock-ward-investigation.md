@@ -18,7 +18,7 @@ Streets are dark — most streetlamps smashed, candles taken from doorways. Salt
 
 ### Revelation #1 — Who Took Floon and Renaer
 
-Three independent paths converge on the same answer: Zhentarim thugs grabbed two men outside Old Xoblob Shop two nights ago.
+Three independent paths converge on the same answer: Zhentarim thugs grabbed two men outside Old Xoblob Shop last night.
 
 #### Path A — Blood in the Streets
 
@@ -40,7 +40,7 @@ He describes five men in black leather armor grabbing Floon and a well-dressed c
 
 #### Path C — Skewered Dragon
 
-A dim Dock Ward dive, operated by **Manshoon's Splinter Zhentarim** as an informal ward headquarters. Regulars here remember Volo and Floon from two nights ago. After Volo left, Floon stayed and met Renaer Neverember. They drank, played Three-Dragon Ante, and left together around midnight. Five men followed them out. "Those men haven't come back," says one regular. "Flying snake tattoos."
+A dim Dock Ward dive, operated by **Manshoon's Splinter Zhentarim** as an informal ward headquarters. Regulars here remember Volo and Floon from last night. After Volo left, Floon stayed and met Renaer Neverember. They drank, played Three-Dragon Ante, and left together around midnight. Five men followed them out. "Those men haven't come back," says one regular. "Flying snake tattoos."
 
 The current regulars are Splinter men on home ground; the party is in unfriendly territory if they push too hard without social skill. They know who grabbed Floon and Renaer. They don't know where Candle Lane is — or they won't say.
 
