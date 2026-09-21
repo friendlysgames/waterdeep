@@ -1,5 +1,9 @@
 # Chapter 3: Running the Campaign
 
+> **RETIRED** — superseded by modular files in `campaign/guides/gm-guide/`.
+>
+> GM Guide: [Adventure Summary](../guides/gm-guide/adventure-summary.md) · [Structural Rules](../guides/gm-guide/structural-rules.md) · [Grand Game in Play](../guides/gm-guide/grand-game-in-play.md) · [Player Factions Overview](../guides/gm-guide/player-factions-overview.md) · [Design Notes: Running the Campaign](../guides/gm-guide/design-notes-running-the-campaign.md)
+
 ---
 
 ## Chapter Purpose

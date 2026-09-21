@@ -1,5 +1,11 @@
 # Chapter 2: The City of Splendors
 
+> **RETIRED** — superseded by modular files in `campaign/setting/` and `campaign/setting/villains/`.
+>
+> Setting: [Waterdeep Lore](../setting/waterdeep-lore.md) · [History of Waterdeep](../setting/history.md) · [The Grand Game](../setting/grand-game.md)
+>
+> Villains: [Xanathar](../setting/villains/xanathar.md) · [Manshoon](../setting/villains/manshoon.md) · [The Cassalanters](../setting/villains/cassalanters.md) · [Jarlaxle Baenre](../setting/villains/jarlaxle.md)
+
 ---
 
 ## Chapter Purpose

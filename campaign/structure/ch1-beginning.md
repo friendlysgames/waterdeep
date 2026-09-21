@@ -1,5 +1,11 @@
 # Chapter 1: Beginning the Campaign
 
+> **RETIRED** — superseded by modular files in `campaign/guides/players-guide/` and `campaign/guides/gm-guide/`.
+>
+> Players' Guide: [About This Campaign](../guides/players-guide/about-this-campaign.md) · [Character Creation](../guides/players-guide/character-creation.md) · [Debts of the City](../guides/players-guide/debts-of-the-city.md) · [Bonds and Flaws](../guides/players-guide/bonds-and-flaws.md) · [Faction Affiliations](../guides/players-guide/faction-affiliations.md)
+>
+> GM Guide: [About This Campaign](../guides/gm-guide/about-this-campaign.md) · [Session Zero](../guides/gm-guide/session-zero.md) · [Debts of the City](../guides/gm-guide/debts-of-the-city.md)
+
 ---
 
 ## Chapter Purpose
