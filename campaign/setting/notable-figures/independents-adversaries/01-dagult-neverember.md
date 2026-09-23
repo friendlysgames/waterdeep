@@ -27,4 +27,4 @@
 
 ## Overview
 
-Dagult Neverember is the disgraced former Open Lord of Waterdeep who embezzled 500,000 gp from the city before his removal from office; the gold he hid is the prize every faction in the Grand Game is chasing, and he intends to reclaim it — or at minimum to ensure no one else profits cleanly from his theft.
+Dagult Neverember is the disgraced former Open Lord of Waterdeep who embezzled 500,000 gp from the city before his removal from office; the gold he hid is the prize every faction in the Grand Game is chasing, and he intends to reclaim it — or at least to ensure no one else profits cleanly from his theft.

@@ -27,4 +27,4 @@
 
 ## Overview
 
-Kelso Fiddlewick leads the Shard Shunners, a small wererat gang operating out of the Dock Ward; he is currently under contract to Emmek Frewn to sabotage the party's tavern, but he is also the most reliable black-market contact in the ward — if the party can make it worth his while to break that contract.
+Kelso Fiddlewick leads the Shard Shunners, a small wererat gang operating out of the Dock Ward, and is the most reliable black-market contact in the ward — direct, dependable, and priced accordingly.

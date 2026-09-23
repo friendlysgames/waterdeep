@@ -27,4 +27,4 @@
 
 ## Overview
 
-A proud noblewoman in her fifties who travels with sixteen guards and dismisses uninvited contact with brisk authority, concealing real financial desperation beneath the armor of her rank.
+Jelenn Urmbrusk is a proud noblewoman in her fifties who travels with sixteen guards and meets uninvited contact with brisk, dismissive authority.

@@ -27,4 +27,4 @@
 
 ## Overview
 
-Osco Salibuck is a lightfoot halfling rogue who drinks with Renaer Neverember's crowd, keeps his skills understated, and can get into anywhere.
+Osco Salibuck is a lightfoot halfling rogue who drinks with Renaer Neverember's crowd, keeps his skills understated, and can get in anywhere.

@@ -27,4 +27,4 @@
 
 ## Overview
 
-Vincent Trench is the private detective across the alley — pipe-smoking, precise, and willing to find almost anything for the right price. Something about him is subtly off, though most people can never say exactly what.
+Vincent Trench is the private detective across the alley — pipe-smoking, precise, willing to find almost anything for the right price, and subtly wrong in ways his customers cannot quite name.

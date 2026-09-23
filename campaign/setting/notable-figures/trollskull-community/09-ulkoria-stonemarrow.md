@@ -27,4 +27,4 @@
 
 ## Overview
 
-Ulkoria Stonemarrow — "the Gargoyle" to the North Ward — is a shield dwarf archmage who sold Trollskull Manor years ago and has watched it suffer under every owner since. She calls on the party without warning and with very few words of welcome.
+Ulkoria Stonemarrow — "the Gargoyle" to the North Ward — is a shield dwarf archmage who sold Trollskull Manor years ago and has watched it suffer under every owner since. She calls on the party without warning and with few words of welcome.

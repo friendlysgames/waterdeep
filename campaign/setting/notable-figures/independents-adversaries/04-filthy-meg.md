@@ -27,4 +27,4 @@
 
 ## Overview
 
-Filthy Meg is a heavily tattooed merfolk information broker who operates out of Mistshore near the harbor; she is not affiliated with any faction, which is exactly why Jarlaxle and the Cassalanters both pay her, and why the party should consider doing the same.
+Filthy Meg is a heavily tattooed merfolk information broker who operates out of Mistshore near the harbor; she is not affiliated with any faction, which is exactly what makes her valuable, and her prices reflect it.

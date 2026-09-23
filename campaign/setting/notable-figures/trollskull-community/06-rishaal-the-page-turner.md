@@ -27,4 +27,4 @@
 
 ## Overview
 
-Rishaal runs Book Wyrm's Treasure, the arcane bookshop across from the tavern, and is the alley's most reliable source on magical texts, rare lore, and anything a wizard might need — if you can get his attention long enough to ask.
+Rishaal runs Book Wyrm's Treasure, the arcane bookshop across from the tavern, and keeps the alley's best selection of magical texts and arcane lore — if you can get his attention long enough to ask.

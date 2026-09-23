@@ -27,4 +27,4 @@
 
 ## Overview
 
-Embric co-owns Steam and Steel with his wife Avi, forging weapons in Trollskull Alley with the intensity of someone who takes every piece personally. Loud, quick to anger, and just as quick to offer a neighbor a hand, he is hard to miss and harder to dislike once you know him.
+Embric co-owns Steam and Steel with his wife Avi, forging every blade as though his reputation depends on this one specifically. Loud, quick to anger, and just as quick to offer a neighbor a hand, he is hard to miss and harder to dislike once you know him.

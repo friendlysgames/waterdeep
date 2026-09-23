@@ -27,4 +27,4 @@
 
 ## Overview
 
-The Open Lord of Waterdeep, fifth of the Seven Sisters, whose political authority and centuries as an archmage make her the most powerful figure the party is likely to address directly. She accepted the role because the city needed her, and she holds it with weary precision.
+Laeral Silverhand is the Open Lord of Waterdeep and fifth of the Seven Sisters — her centuries as an archmage and her political authority make her the most formidable official the party is likely to address directly. She accepted the role because the city needed her, and she holds it with weary precision.

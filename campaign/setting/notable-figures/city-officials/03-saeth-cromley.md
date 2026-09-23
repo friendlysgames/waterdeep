@@ -27,4 +27,4 @@
 
 ## Overview
 
-A retired City Watch sergeant who partners with Barnibus Blastwind on investigations, serving as the magistrate's translator between forensic reasoning and the common folk they need to interview.
+Saeth Cromley is a retired City Watch sergeant who works alongside Barnibus Blastwind on investigations, translating between the magistrate's forensic reasoning and the common folk they need to interview.

@@ -27,4 +27,4 @@
 
 ## Overview
 
-Lif is the poltergeist who has haunted Trollskull Manor since long before the party arrived — not hostile to the right owners, but never neutral about the cellar. He communicates in thrown crockery and soot-written warnings, and will work alongside the party if they earn his approval.
+Lif is the poltergeist who has haunted Trollskull Manor since long before the party arrived — approachable to the right owners, but fixed on the cellar. He communicates in thrown crockery and soot-written warnings, and will work alongside the party if they earn his approval.

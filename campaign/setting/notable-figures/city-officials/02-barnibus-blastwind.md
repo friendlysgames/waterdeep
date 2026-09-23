@@ -27,4 +27,4 @@
 
 ## Overview
 
-A meticulous magistrate of the Watchful Order of Magists and Protectors who investigates unusual crimes with a specialist's patience and a pronounced difficulty making conversation sound like anything other than a formal deposition.
+Barnibus Blastwind is a meticulous magistrate of the Watchful Order of Magists and Protectors who investigates unusual crimes with a specialist's patience — and an inability to make any of it sound like ordinary conversation.

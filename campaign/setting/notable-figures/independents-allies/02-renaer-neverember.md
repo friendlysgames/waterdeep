@@ -27,4 +27,4 @@
 
 ## Overview
 
-Renaer Neverember is the estranged son of Dagult Neverember — striking, well-read, and knowledgeable about Waterdeep's factions and politics. He owns significant property in the city and is willing to fight alongside those he trusts.
+Renaer Neverember is the estranged son of Dagult Neverember — sharp, well-read, and knowledgeable about every faction operating in the city. He owns considerable property in Waterdeep and fights alongside those he trusts.

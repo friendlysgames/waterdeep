@@ -27,4 +27,4 @@
 
 ## Overview
 
-"Barok Clanghammer" is a stocky, unremarkable dwarf who sits in the Vault of Dragons and does not say much — until negotiations begin and his patience proves more stubborn than any leverage brought against it.
+"Barok Clanghammer" is a stocky, unremarkable dwarf who sits on a stone and says little — until negotiations begin and his patience proves more stubborn than any leverage brought against it.

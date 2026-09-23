@@ -27,4 +27,4 @@
 
 ## Overview
 
-Myl Dunpier is the practical proprietor of the Inn of the Dripping Dagger on Snail Street, reliable, unembellishing, and inclined to have answers ready before anyone asks.
+Myl Dunpier is the practical proprietor of the Inn of the Dripping Dagger on Snail Street — reliable, precise, and inclined to have answers ready before anyone asks.

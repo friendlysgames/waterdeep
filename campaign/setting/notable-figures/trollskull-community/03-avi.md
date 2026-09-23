@@ -27,4 +27,4 @@
 
 ## Overview
 
-Avi crafts armor at Steam and Steel alongside her husband Embric; calm and precise where he is loud and impulsive, she is the neighbor who will listen without judgment and answer a direct question with an equally direct answer.
+Avi crafts armor at Steam and Steel alongside her husband Embric; calm and precise where he is loud and impulsive, she is the neighbor who will listen without judgment and answer plainly.
