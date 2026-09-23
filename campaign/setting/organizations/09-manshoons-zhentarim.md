@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **Campaign role:** Villain faction; seeks the Stone of Golorr for its encoded Weave knowledge, not the vault's gold.
+> - **Campaign role:** Villain faction; pursues the Stone of Golorr for the Weave knowledge encoded in its aboleth memory.
 > - **Contacts:** **Avareen Windrivver**, **Agorn Fuoco**, **Vevette Blackwater** (field operatives); **Sidra Romeir** (Kolat Towers)
 > - **Villain profile:** see **Manshoon** in Villains
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers**
@@ -112,4 +112,4 @@ Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat 
 
 ## Overview
 
-Manshoon's Zhentarim is a splinter cell of the Black Network with no connection to Davil Starsong's Doom Raiders. Its wizard-clone leader operates from the extradimensional sanctum at Kolat Towers, pursuing the Stone of Golorr not for the vault's gold but for ancient Weave knowledge encoded in the Stone's aboleth memory. Field teams are deliberately light — Manshoon prefers capturing enemies over killing them, and his response teams reflect that.
+Manshoon's Zhentarim is a splinter cell of the Black Network with no connection to Davil Starsong's Doom Raiders. Its wizard-clone leader runs operations from a hidden sanctum in the city, keeping field teams lean and preferring captured enemies to dead ones.

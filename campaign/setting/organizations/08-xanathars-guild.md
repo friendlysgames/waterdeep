@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **Campaign role:** Villain faction; the Grand Game's most territorially established competitor, holding the Stone of Golorr and Eye #1.
+> - **Campaign role:** Villain faction; the Grand Game's most territorially entrenched competitor, holding Eye #1.
 > - **Contacts:** **Ahmaergo**, **Keln Trigos**, **Grinda Garloth** (outpost keepers); **Gorath**, **Korgstrod Uxgulm**, **Noska Ur'gray** (response team leaders)
 > - **Villain profile:** see **Xanathar** in Villains
 > - **Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**
@@ -131,4 +131,4 @@ Xanathar's paranoia means his response to ambiguity is escalation. A single thre
 
 ## Overview
 
-Xanathar's Guild is Waterdeep's largest criminal syndicate, run by a paranoid beholder from a fortified lair below the city. The Guild holds the Stone of Golorr and controls access to Skullport's smuggling networks, gladiatorial circuits, and a web of informants embedded throughout the wards. Its field operations are coordinated by Ahmaergo, and its three city outposts — a healer's clinic, a black market armorer, and a sweetshop front — form the chain that leads investigators toward the lair.
+Xanathar's Guild is Waterdeep's largest criminal syndicate, run by a paranoid beholder from a fortified lair below the city. The Guild controls access to Skullport's smuggling networks, gladiatorial circuits, and a web of informants embedded throughout the wards. Its field operations are coordinated by Ahmaergo, and its three city outposts — a healer's clinic, a black market armorer, and a sweetshop front — form the chain that leads investigators toward the lair.

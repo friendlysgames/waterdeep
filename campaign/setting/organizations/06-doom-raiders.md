@@ -42,6 +42,12 @@ The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal w
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+Davil's cell sees an enormous opportunity in the half-million dragons — efforts are underway to reclaim and rebuild Zhentil Keep, and that money could buy the Doom Raiders a seat on the reforming Zhentarim Council. PCs who recover the gold and hand it to the Doom Raiders are effectively buying their patrons into continental leadership. This is a real choice with real consequences.
+
+### Stance
+
 The Doom Raiders are the legitimate Black Network in Waterdeep, and it is at war with itself. Manshoon's Zhentarim splinter is a rival cell that infiltrated the same organization, actively working to destroy Davil's network, his people, and everything they built. This is the Doom Raiders' defining preoccupation. The Grand Game is secondary.
 
 They also see the half-million dragons as the most significant opportunity of their careers. Efforts are underway to reclaim and rebuild Zhentil Keep, and the reforming Zhentarim Council is choosing its membership. That money could buy Davil's cell a seat at the table — genuine continental influence rather than the precarious position of a regional branch operation. PCs who recover the gold and deliver it to the Doom Raiders are buying their patrons into something much larger than one campaign.
@@ -110,6 +116,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 
 ## Overview
 
-The Doom Raiders are a cell of experienced Zhentarim operators running commercial fronts in Waterdeep — professional criminals who prefer contracts to confrontations. They are at active internal war with Manshoon's Zhentarim splinter, which makes every piece of intelligence the party brings them valuable and every mission a potential move in a larger fight.
-
-Davil's cell sees an enormous opportunity in the half-million dragons — efforts are underway to reclaim and rebuild Zhentil Keep, and that money could buy the Doom Raiders a seat on the reforming Zhentarim Council. PCs who recover the gold and hand it to the Doom Raiders are effectively buying their patrons into continental leadership. This is a real choice with real consequences.
+The Doom Raiders are a cell of experienced Zhentarim operators running commercial fronts in Waterdeep — professional criminals who prefer contracts to confrontations. They are at active internal war with a rival Zhentarim splinter cell, which makes every piece of intelligence the party brings them valuable and every mission a potential move in a larger fight.

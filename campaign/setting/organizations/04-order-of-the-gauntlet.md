@@ -25,6 +25,12 @@ The Order has a particular interest in the Cassalanters — a Sea Ward noble fam
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+The Order will move aggressively against the Cassalanters once they have solid evidence of diabolism. PCs who uncover that evidence and share it gain both renown and a formidable ally in the endgame. The tithe expectation applies to the Vault of Dragons: characters who give generously find Savra going well out of her way to support them; characters who pocket everything are quietly reassigned to less sensitive operations.
+
+### Stance
+
 The Order has a hierarchy: diabolism first, aberrant evil second, everything else after that. The vault gold concerns Savra only as a function of who it might empower — 500,000 gold in the hands of an active Asmodeus cult would be catastrophic. In Manshoon's or Xanathar's hands, nearly as bad. In the city treasury, she has no objection.
 
 At campaign start, Savra has believed for months that the Cassalanters are active infernalists. She has no legal evidence. She has been building toward a confrontation she knows will come, and she has been doing it without investigators capable of generating that evidence. The PCs change this.
@@ -96,5 +102,3 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 ## Overview
 
 The Order of the Gauntlet is a fellowship of paladins, clerics, and devout martial warriors who pursue and destroy evil actively. In Waterdeep, they are focused on diabolism — specifically a Sea Ward noble family they have watched for months without actionable evidence.
-
-The Order will move aggressively against the Cassalanters once they have solid evidence of diabolism. PCs who uncover that evidence and share it gain both renown and a formidable ally in the endgame. The tithe expectation applies to the Vault of Dragons: characters who give generously find Savra going well out of her way to support them; characters who pocket everything are quietly reassigned to less sensitive operations.

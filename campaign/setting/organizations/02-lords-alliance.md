@@ -28,6 +28,12 @@ The Lords' Alliance is the most demanding faction in terms of professional condu
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+Lords' Alliance PCs who bring the Grand Game to Jalester's attention trigger Laeral's direct involvement. Once Laeral is fully aware, she makes recovering the 500,000 dragons a political priority and extends significant resources to PCs who have proven loyal. The Alliance will not let the party keep the gold — but offers extraordinary renown and political capital in exchange for returning it. Characters who pocket the gold and claim ignorance will find Laeral a thorough investigator.
+
+### Stance
+
 The Lords' Alliance wants the 500,000 gold pieces returned to Waterdeep's city treasury. In Laeral Silverhand's framing: the gold was taxed from Waterdavian citizens and merchants. Lord Neverember's exile does not change its ownership. She will see it recovered, disbursed properly, and will credit those who made the recovery possible — but she will not blink at institutional procedure to get it.
 
 At campaign start, Laeral is three moves behind. Jalester's field reports and Watch contacts have placed the vault somewhere in Neverwinter. She is not yet aware the Stone of Golorr has resurfaced in Waterdeep or that all four villain factions are circling it. PCs who pass her intelligence early change the shape of her involvement significantly. Those who keep her in the dark find her arriving at **Vault of Dragons** as an uncertain variable rather than an ally.
@@ -97,5 +103,3 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 ## Overview
 
 The Lords' Alliance is a coalition of rulers and operatives from Waterdeep and the allied cities of the North, united by the conviction that civilization must be actively defended. In Waterdeep, the Alliance operates as a pro-city intelligence and security apparatus with direct reach to the Open Lord.
-
-Lords' Alliance PCs who bring the Grand Game to Jalester's attention trigger Laeral's direct involvement. Once Laeral is fully aware, she makes recovering the 500,000 dragons a political priority and extends significant resources to PCs who have proven loyal. The Alliance will not let the party keep the gold — but offers extraordinary renown and political capital in exchange for returning it. Characters who pocket the gold and claim ignorance will find Laeral a thorough investigator.

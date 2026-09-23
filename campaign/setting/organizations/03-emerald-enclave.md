@@ -27,6 +27,12 @@ The Enclave has no stake in Neverember's gold and will make no demands regarding
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+The Emerald Enclave genuinely has no interest in the gold and will make no demands regarding the Vault or its contents. Their aid has no hidden strings. Characters who need a refuge, a reliable spellcaster, or one relationship in the city that isn't angling for something will find the Enclave invaluable in the campaign's later acts.
+
+### Stance
+
 The Emerald Enclave has no interest in the vault gold. Jeryth Phaulkon is explicit about this when it comes up: the gold belonged to Waterdeep before Lord Neverember took it, and will belong to Waterdeep again — that question is for the Lords to settle. What the Enclave cares about is what is moving underneath all of it.
 
 Jeryth has been aware of a psychic disturbance in the earth beneath Waterdeep's Castle Ward since before the campaign begins. She calls it a dreaming presence — old, patient, and hungry. When the Stone of Golorr is activated, the resonance she has been tracking strengthens. She knows this is connected. She does not know what it is or where it is anchored, but the Brandath crypts feel specifically wrong to her: old wrongness, patient rather than sharp.
@@ -97,5 +103,3 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 ## Overview
 
 The Emerald Enclave is an organization of druids, rangers, and survivalists dedicated to maintaining balance between civilization and the wild. Their Waterdeep presence centers on Phaulkonmere, a sanctuary no faction will openly violate.
-
-The Emerald Enclave genuinely has no interest in the gold and will make no demands regarding the Vault or its contents. Their aid has no hidden strings. Characters who need a refuge, a reliable spellcaster, or one relationship in the city that isn't angling for something will find the Enclave invaluable in the campaign's later acts.

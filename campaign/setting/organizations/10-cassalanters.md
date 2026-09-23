@@ -129,4 +129,4 @@ The Cassalanters' escalation is binary. In passive mode they barely react. In ho
 
 ## Overview
 
-The Cassalanters are Waterdeep's most prominent philanthropic family, a half-elf banker and his wizard wife whose generosity funds temples, orphanages, and civic improvements across the city. Their true purpose is acquiring enough gold to satisfy the terms of an Asmodean pact before Founders' Day — a deadline that cannot be extended and a loophole that requires both the vault's gold and 99 sacrificial deaths.
+The Cassalanters are Waterdeep's most prominent philanthropic family, a half-elf banker and his wizard wife whose generosity funds temples, orphanages, and civic improvements across the city. Their social calendar and philanthropic obligations mask a private urgency that intensifies as Founders' Day draws closer.

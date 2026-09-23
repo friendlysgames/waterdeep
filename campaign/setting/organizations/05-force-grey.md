@@ -28,6 +28,12 @@ Characters who join the Gray Hands — the entry tier of Force Grey — are not 
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+Force Grey is allied to the Open Lord. If Force Grey members bring the Grand Game to Vajra's attention, she will inform Laeral Silverhand — and Laeral will move quickly to reclaim the 500,000 dragons. This is the most certain path to the gold returning to the city's coffers and to the party earning institutional gratitude rather than institutional pursuit. Characters who want legitimacy as their reward — a clean name, political standing, the city's formal thanks — should invest in this relationship above all others.
+
+### Stance
+
 Vajra's mandate is the city, specifically the parts of the city that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. She knows an archmage has returned; Hlam's first message gave her Manshoon's shape without the name. She does not yet know the Stone of Golorr has resurfaced or that four factions are competing for the vault.
 
 She learns this incrementally through the party. Each mission adds a piece: Hlam's warning about the buried thing waking from Mission 1, the Bregan D'aerthe submarine from Mission 2. By Mission 4 she knows the intellect devourer factory's location. When the party brings her the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
@@ -96,5 +102,3 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 ## Overview
 
 Force Grey is Waterdeep's deniable cadre of elite adventuring agents, commanded by Vajra Safahr, the Blackstaff. It handles arcane threats the City Watch and City Guard cannot or should not touch. Entry begins through the Gray Hands — the junior tier — where Vajra tests candidates before extending full Force Grey status.
-
-Force Grey is allied to the Open Lord. If Force Grey members bring the Grand Game to Vajra's attention, she will inform Laeral Silverhand — and Laeral will move quickly to reclaim the 500,000 dragons. This is the most certain path to the gold returning to the city's coffers and to the party earning institutional gratitude rather than institutional pursuit. Characters who want legitimacy as their reward — a clean name, political standing, the city's formal thanks — should invest in this relationship above all others.

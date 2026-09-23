@@ -35,6 +35,12 @@ In Waterdeep, the Harpers maintain strong ties to the city's intellectual and ar
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+The Harpers will happily allow the PCs to keep Neverember's gold. What they want is the Stone of Golorr. If the PCs hand it over, Mirt considers the debt paid in full and offers a substantial favor in return. If the PCs refuse, the Harpers become noticeably less forthcoming — but will not act against them.
+
+### Stance
+
 The Harpers know the Cassalanters are infernalists. They don't know the full scope of the vault situation until the PCs tell them. They want no single faction (including the Lords' Alliance, Force Grey, or the PCs) to walk away from the Grand Game with unchecked power. Their ideal outcome: the vault money is dispersed in ways that prevent political consolidation, the Stone of Golorr is handed to them for study, and whatever is dreaming below the city stays asleep.
 
 **What the Harpers share proactively:**
@@ -103,5 +109,3 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 ## Overview
 
 The Harpers are a loose confederation of spies, bards, and scholars working in the shadows to prevent any single power from dominating Faerûn. In Waterdeep, they track the Grand Game from a position of information — their greatest resource and their greatest vulnerability.
-
-The Harpers will happily allow the PCs to keep Neverember's gold. What they want is the Stone of Golorr. If the PCs hand it over, Mirt considers the debt paid in full and offers a substantial favor in return. If the PCs refuse, the Harpers become noticeably less forthcoming — but will not act against them.

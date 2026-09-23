@@ -47,6 +47,12 @@ He enters the Grand Game later than the other factions. When the nimblewright in
 
 ## Grand Game Stance
 
+### Grand Game Agenda
+
+Jarlaxle wants to return the gold to Laeral Silverhand — making the Open Lord personally indebted to him, which is worth more than the gold itself in his long-running project to secure Luskan's admission to the Lords' Alliance. He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign. PCs who understand his actual goals can deal with him openly and find him a reliable, if unsettling, partner. PCs who mistake him for a simple villain will be outmaneuvered at every turn — and will enjoy it considerably less than if they had paid attention.
+
+### Stance
+
 Jarlaxle is here for the intelligence — what Waterdeep's power structure looks like from the inside, who the real decision-makers are behind the Masked Lords' anonymity, and what it would take to buy Luskan a seat at the Lords' Alliance table. The half-million dragons in Neverember's vault are an interesting side opportunity. The political intelligence he is collecting is the actual mission.
 
 This means Bregan D'aerthe's approach to the Grand Game is sideways. Jarlaxle is not competing with Xanathar or Manshoon for the Stone — he already holds one of the Eyes (Eye #3, aboard the *Scarlet Marpenoth*, mounted beneath the *Eyecatcher*'s keel) and is content to let the other factions expend resources chasing each other. His asset inside Xanathar's organization — **Nar'l Xibrindas**, a drow mage who serves as the beholder's advisor and reports to Jarlaxle by *Sending* spell — keeps him informed of the Guild's movements. His Sea Maidens Faire parades give him cover to move personnel and materials through any ward in the city without scrutiny.
@@ -190,6 +196,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 
 ## Overview
 
-Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, running the Sea Maidens Faire carnival as cover for a city-wide intelligence network. Jarlaxle holds Eye #3 and has positioned his people inside every major faction in Waterdeep. Joining him means working for the most capable operator in the city — one who will treat his agents well until their interests diverge from his.
-
-Jarlaxle wants to return the gold to Laeral Silverhand — making the Open Lord personally indebted to him, which is worth more than the gold itself in his long-running project to secure Luskan's admission to the Lords' Alliance. He also wants the Stone of Golorr for Underdark political reasons that extend well beyond the surface campaign. PCs who understand his actual goals can deal with him openly and find him a reliable, if unsettling, partner. PCs who mistake him for a simple villain will be outmaneuvered at every turn — and will enjoy it considerably less than if they had paid attention.
+Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, running the Sea Maidens Faire carnival as cover for a city-wide intelligence network. He has positioned his people inside every major faction in Waterdeep. Joining him means working for the most capable operator in the city — one who will treat his agents well until their interests diverge from his.
