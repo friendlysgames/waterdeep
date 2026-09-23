@@ -43,19 +43,19 @@ The complete original Dragon Heist adventure, structured as follows:
 - **Appendix C — Encounters:** City-wide encounter tables by ward. Minor reference value for the remix — the Alexandrian replaces random encounters with targeted faction response teams.
 
 **When to consult:**
-- Arc A (Finding Floon): Ch.1
-- Arc B (Trollskull Alley): Ch.2
-- Arc C (Fireball): Ch.3 (fireball + nimblewright investigation + Gralhund Villa)
-- Arc D (Gralhund Villa): Ch.3 (Gralhund Villa section)
-- Arc E (Faction Outposts): Ch.2 (faction contacts), Ch.5-8 (faction lair content for outpost design)
-- Arc F (Xanathar's Lair): Ch.5
-- Arc G (Cassalanter Villa): Ch.6
-- Arc H (Sea Maidens Faire): Ch.7
-- Arc I (Kolat Towers): Ch.8
-- Arc J (Vault of Dragons): Ch.4
+- **Finding Floon**: Ch.1
+- **Trollskull Alley**: Ch.2
+- **Fireball!**: Ch.3 (fireball + nimblewright investigation + Gralhund Villa)
+- **Gralhund Villa**: Ch.3 (Gralhund Villa section)
+- **Faction Outposts**: Ch.2 (faction contacts), Ch.5-8 (faction lair content for outpost design)
+- **Xanathar's Lair**: Ch.5
+- **Cassalanter Villa**: Ch.6
+- **Sea Maidens Faire**: Ch.7
+- **Kolat Towers**: Ch.8
+- **Vault of Dragons**: Ch.4
 - Chapter 2 remix (The City of Splendors): Ch.9 (Enchiridion)
-- Appendix A (Bestiary): Appendix B
-- Appendix F (Trollskull Manor): Ch.2
+- the **Bestiary** (not yet drafted): Appendix B
+- the **Trollskull Manor** guide: Ch.2
 
 **Cross-references:** Pairs with every Alexandrian PDF. Ch.9 pairs with `2. Other Factions.pdf`, `1. The Villains.pdf`, `3. Player Character Factions.pdf`.
 
@@ -138,7 +138,7 @@ Key content:
 - Faction knowledge states at campaign start (what each faction knows about the Stone, the Grand Game, each other)
 - Faction goals and methods — how each faction's *way of doing things* differs (Xanathar: brute force and paranoia; Manshoon: precision and deniability; Cassalanters: social manipulation and infernal leverage; Jarlaxle: charm and information)
 
-**When to consult:** Chapter 2 (villain character documents), Arc D (faction collision at Gralhund), Appendix E (villain faction profiles). Read before drafting any villain NPC profile.
+**When to consult:** Chapter 2 (villain character documents), **Gralhund Villa** (faction collision at Gralhund), **Running the Villains** (GM Guide) (villain faction profiles). Read before drafting any villain NPC profile.
 
 **Cross-references:** `21. Faction Reports of the Grand Game.pdf` (what factions know at any given moment), `6. Faction Response Teams.pdf` (how they project force).
 
@@ -156,7 +156,7 @@ Key content:
 - **Renaer Neverember:** His political position, his fraught relationship with his father Dagult, what he actually knows about the gold, his motivations (clear his name, not profit from the theft).
 - **Volothamp Geddarm:** Volo's function as quest-giver and how to play him. His relationship with Durnan.
 
-**When to consult:** Chapter 2 (city lore, NPC context), Arc A (Volo/Renaer intros), Arc D (Gralhund Villa context). For any scene involving the City Watch or Gralhunds.
+**When to consult:** Chapter 2 (city lore, NPC context), **Finding Floon** (Volo/Renaer intros), **Gralhund Villa** (context). For any scene involving the City Watch or Gralhunds.
 
 **Cross-references:** `adventure-wdh.json` Ch.9 (Enchiridion — governance structure), `1. The Villains.pdf` (where villain factions intersect with these NPCs).
 
@@ -173,17 +173,17 @@ Key content:
 - How each faction views the Grand Game — what they want from the gold, how they react to PC actions
 - The Bregan D'aerthe option: conditions under which PCs can join, what Jarlaxle offers, what the faction asks in return
 
-**When to consult:** Arc B (faction recruitment), Appendix C (player faction reference), Appendix D (running player factions), any scene with a faction contact NPC.
+**When to consult:** **Trollskull Alley** (faction recruitment), the **Organizations** pages (player faction reference), the **Organizations** pages (running player factions), any scene with a faction contact NPC.
 
 **Cross-references:** `26. Addendum Other Collaborators.pdf` (Bregan D'aerthe as PC patron), `1. The Villains.pdf` (how villain factions view PC factions).
 
-**Caveats:** The remix separates the Doom Raiders explicitly from Manshoon's cell. References in this PDF to "the Zhentarim" should be read as the Doom Raiders only — Manshoon's splinter is treated as a distinct villain faction throughout. Also note that Bregan D'aerthe membership is conditional on the Sea Maidens Faire being reachable via the nimblewright investigation (Arc C).
+**Caveats:** The remix separates the Doom Raiders explicitly from Manshoon's cell. References in this PDF to "the Zhentarim" should be read as the Doom Raiders only — Manshoon's splinter is treated as a distinct villain faction throughout. Also note that Bregan D'aerthe membership is conditional on the Sea Maidens Faire being reachable via the nimblewright investigation (**Fireball!**).
 
 ---
 
 ### `4. Gralhund Villa.pdf`
 
-**Contents:** The Alexandrian's redesign of the Gralhund Villa encounter (Arc D). The central innovation: the "quinpartite confrontation" — five factions converging on the villa simultaneously.
+**Contents:** The Alexandrian's redesign of the Gralhund Villa encounter (**Gralhund Villa**). The central innovation: the "quinpartite confrontation" — five factions converging on the villa simultaneously.
 
 Key content:
 - Gralhund Villa keyed location with dynamic occupant states based on intrusion method and timing
@@ -193,7 +193,7 @@ Key content:
 - Watch response and time pressure mechanic
 - How the PCs end up with the Stone: design rationale and recommended method regardless of approach
 
-**When to consult:** Arc D (the entire arc). Also read before Arc E to understand the faction behavioral patterns established here.
+**When to consult:** **Gralhund Villa** (the entire quest). Also read before **Faction Outposts** to understand the faction behavioral patterns established here.
 
 **Cross-references:** `adventure-wdh.json` Ch.3 (base Gralhund Villa map and NPC stats), `1. The Villains.pdf` (faction agendas at the villa), `13. Clues and Timelines.pdf` (timeline of how the factions end up at the villa).
 
@@ -201,7 +201,7 @@ Key content:
 
 ### `5. Faction Outposts.pdf`
 
-**Contents:** The Alexandrian's outpost system — each villain faction has 2-3 outposts scattered across Waterdeep that PCs can investigate, infiltrate, or raid as part of Arc E intelligence-gathering.
+**Contents:** The Alexandrian's outpost system — each villain faction has 2-3 outposts scattered across Waterdeep that PCs can investigate, infiltrate, or raid as part of **Faction Outposts** intelligence-gathering.
 
 Key content per faction:
 
@@ -227,7 +227,7 @@ Key content per faction:
 
 Each outpost entry includes: key NPCs, adversary roster (alert and non-alert states), notable documents/props, and the specific intelligence each outpost yields.
 
-**When to consult:** Arc E (all of it). Also reference when designing faction response team triggers — hitting an outpost triggers deployment.
+**When to consult:** **Faction Outposts** (all of it). Also reference when designing faction response team triggers — hitting an outpost triggers deployment.
 
 **Cross-references:** `6. Faction Response Teams.pdf` (response to outpost incursions), `17. Outpost and Lair Revelation Lists.pdf` (what intelligence each outpost yields), the relevant lair PDF for each faction.
 
@@ -250,7 +250,7 @@ Key content:
 - Cassalanter teams: hired muscle + devil backup (summoned if losing), use social/legal threats first
 - Bregan D'aerthe teams: disguises and misdirection, prefer non-lethal containment, report back rather than act
 
-**When to consult:** Throughout Arc E-I whenever PCs take action against faction assets. Chapter 3 (structural rules: how response teams work). Appendix E (villain faction operations).
+**When to consult:** Throughout Act III whenever PCs take action against faction assets. Chapter 3 (structural rules: how response teams work). **Running the Villains** (GM Guide) (villain faction operations).
 
 **Cross-references:** `7. Other Response Teams.pdf` (Watch, Gralhunds, other non-villain reactors), `5. Faction Outposts.pdf` (what triggers deployment), `17. Outpost and Lair Revelation Lists.pdf` (what teams carry as clue props).
 
@@ -264,10 +264,10 @@ Key content:
 - City Watch response: jurisdiction, response time by ward, when they escalate to the City Guard, when they back down (noble involvement, political pressure), arrest procedures
 - Griffon Cavalry: when they deploy, what triggers aerial response
 - Lords' Alliance Guard: patrol routes, chain of command to Laeral Silverhand
-- Gralhund security: what survives after Arc D and whether the Gralhunds themselves become a persistent threat
+- Gralhund security: what survives after **Gralhund Villa** and whether the Gralhunds themselves become a persistent threat
 - Guilds as reactors: which guild violations trigger enforcement responses relevant to the PCs' heist activities
 
-**When to consult:** Any arc where PCs might attract Watch attention (which is all of them). Especially Arc C (fireball — Watch is actively investigating), Arc D (Gralhund Villa — Watch response clock), Arc G (Cassalanter Villa — social/legal threats).
+**When to consult:** Any quest where PCs might attract Watch attention (which is all of them). Especially **Fireball!** (fireball — Watch is actively investigating), **Gralhund Villa** (Watch response clock), **Cassalanter Villa** (social/legal threats).
 
 **Cross-references:** `adventure-wdh.json` Ch.9 (Enchiridion — governance), `2. Other Factions.pdf` (Watch as a faction), `6. Faction Response Teams.pdf` (villain teams' relationship to Watch detection).
 
@@ -282,11 +282,11 @@ Key content:
 - Eye #1: Xanathar has it — in his sanctum in Xanathar's Lair
 - Eye #2: Cassalanters have it — in the temple vault beneath their villa
 - Eye #3: Jarlaxle has it — aboard the *Scarlet Marpenoth*
-- The Stone of Golorr itself: PCs will acquire it during Arc D (Gralhund Villa). The Stone without its Eyes cannot open the vault — this is why all three lair heists are required.
+- The Stone of Golorr itself: PCs will acquire it during **Gralhund Villa**. The Stone without its Eyes cannot open the vault — this is why all three lair heists are required.
 - Eye retrieval mechanics: what the Eye looks like, how it attaches to the Stone, what each successful Eye insertion reveals (clues that eventually point to the vault location)
 - Why Manshoon doesn't have an Eye: he knows the vault's theoretical location from research but can't open it without the Eyes, so he's trying to intercept the PCs at the vault rather than acquire Eyes directly.
 
-**When to consult:** Every lair arc (F, G, H). Arc J (vault opening). Any time the Stone or Eyes are referenced in player descriptions or design notes.
+**When to consult:** Every lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**). **Vault of Dragons** (vault opening). Any time the Stone or Eyes are referenced in player descriptions or design notes.
 
 **Cross-references:** `18. Golorr Artifacts.pdf` (the Stone's mechanical properties in detail), `adventure-wdh.json` Appendix A (original Stone of Golorr stats), `20. The Vault.pdf` (how the Eyes open the vault).
 
@@ -296,7 +296,7 @@ Key content:
 
 ### `9. Lair – Sea Maidens Faire.pdf`
 
-**Contents:** The Alexandrian's full heist design for the Sea Maidens Faire (Arc H). Genre: caper heist.
+**Contents:** The Alexandrian's full heist design for the Sea Maidens Faire. Genre: caper heist.
 
 Key content:
 - Full keyed location for all three ships (*Eyecatcher*, *Heartbreaker*, *Hellraiser*) and the submarine *Scarlet Marpenoth* — adversary rosters for normal and parade states
@@ -307,7 +307,7 @@ Key content:
 - The drow gunslingers as bodyguards and their personalities
 - Zelifarn (young sea dragon) as a secondary encounter and potential ally/quest-giver
 
-**When to consult:** Arc H (the entire arc). Also read during Arc B/C when designing the conditional entry thread (what clues lead from the nimblewright investigation to the Sea Maidens Faire).
+**When to consult:** **Sea Maidens Faire** (the entire quest). Also read during **Trollskull Alley** and **Fireball!** when designing the conditional entry thread (what clues lead from the nimblewright investigation to the Sea Maidens Faire).
 
 **Cross-references:** `8. The Eyes of the Stone.pdf` (Eye #3 is here), `1. The Villains.pdf` (Jarlaxle's agenda), `3. Player Character Factions.pdf` (Bregan D'aerthe membership conditions), `26. Addendum Other Collaborators.pdf` (Jarlaxle as PC patron).
 
@@ -315,7 +315,7 @@ Key content:
 
 ### `10. Lair  Cassalanter Villa.pdf`
 
-**Contents:** The Alexandrian's full heist design for Cassalanter Villa (Arc G). Genre: social infiltration leading to a dungeon layer.
+**Contents:** The Alexandrian's full heist design for Cassalanter Villa. Genre: social infiltration leading to a dungeon layer.
 
 Key content:
 - Full keyed location: villa (29+ areas) with day/night/event occupant states, and Temple of Asmodeus (9 areas) beneath
@@ -327,7 +327,7 @@ Key content:
 - Five resolution paths for the children's pact (from the plan's Critical Design Decisions)
 - Founders' Day deadline mechanics and what happens if it passes
 
-**When to consult:** Arc G (the entire arc). Chapter 2 (Cassalanter villain document — their private motivations). Any scene where the Cassalanters interact with PCs socially.
+**When to consult:** **Cassalanter Villa** (the entire quest). Chapter 2 (Cassalanter villain document — their private motivations). Any scene where the Cassalanters interact with PCs socially.
 
 **Cross-references:** `8. The Eyes of the Stone.pdf` (Eye #2 is here), `1. The Villains.pdf` (Cassalanter agenda), `adventure-wdh.json` Ch.6 (original villa map and NPC stats), `29. Addendum Timelines & Starting the Campaign.pdf` (Founders' Day on the calendar).
 
@@ -335,7 +335,7 @@ Key content:
 
 ### `11. Lair  Xanathar's Lair.pdf`
 
-**Contents:** The Alexandrian's full heist design for Xanathar's Lair (Arc F). Genre: dungeon infiltration.
+**Contents:** The Alexandrian's full heist design for Xanathar's Lair. Genre: dungeon infiltration.
 
 Key content:
 - Full keyed location (36 areas) with adversary rosters in two states: normal and full alert (the lair is semi-permanently on elevated alert due to Xanathar's paranoia)
@@ -346,7 +346,7 @@ Key content:
 - Jarlaxle's simultaneous heist: if PCs are also investigating the Sea Maidens Faire, Jarlaxle's crew may attempt the same heist at the same time, creating chaos and complication
 - Tunnels to Undermountain Level 1 (areas X4 and X15 approximately)
 
-**When to consult:** Arc F (the entire arc).
+**When to consult:** **Xanathar's Lair** (the entire quest).
 
 **Cross-references:** `8. The Eyes of the Stone.pdf` (Eye #1 is here), `1. The Villains.pdf` (Xanathar's agenda and personality), `adventure-wdh.json` Ch.5 (original lair map and NPC stats), `6. Faction Response Teams.pdf` (Xanathar response team behavior).
 
@@ -354,7 +354,7 @@ Key content:
 
 ### `12. Lair  Zhentarim – Kolat Towers.pdf`
 
-**Contents:** The Alexandrian's full design for Kolat Towers (Arc I). Genre: raid (deliberate structural variation from the other three heists — this one is not subtle).
+**Contents:** The Alexandrian's full design for Kolat Towers. Genre: raid (deliberate structural variation from the other three heists — this one is not subtle).
 
 Key content:
 - Full keyed location: towers (22 areas) plus extradimensional sanctum (13 areas accessed via teleporters)
@@ -364,7 +364,7 @@ Key content:
 - Manshoon's spellbook: secondary treasure target, contains several unique spells he developed.
 - Reinforcement clock: Manshoon's lieutenants will reinforce if combat is prolonged. The raid is designed for speed over stealth.
 
-**When to consult:** Arc I (the entire arc).
+**When to consult:** **Kolat Towers** (the entire quest).
 
 **Cross-references:** `5. Faction Outposts.pdf` (Yellowspire — where pass-amulets are located), `1. The Villains.pdf` (Manshoon's agenda and simulacrum), `adventure-wdh.json` Ch.8 (original towers map and NPC stats), `8. The Eyes of the Stone.pdf` (Manshoon is NOT holding an Eye — he's trying to ambush the PCs at the vault instead).
 
@@ -379,9 +379,9 @@ Key content:
 - Master clue matrix: which locations contain which clues, ensuring redundancy
 - Timeline of events before the campaign begins (what happened with Dalakhar, Kalain, the Stone's journey, how it ended up with Dalakhar)
 - Timeline of active villain faction activities during the campaign (what each faction is doing each week — useful for simulating a living world)
-- Investigation pacing guidance: how fast should PCs be expected to move from Arc C through Arc D?
+- Investigation pacing guidance: how fast should PCs be expected to move from **Fireball!** through **Gralhund Villa**?
 
-**When to consult:** Arc C (nimblewright investigation — the most investigation-heavy arc). Arc D (clue trail to Gralhund Villa). Arc E (outpost intelligence redundancy). Chapter 3 (structural rules — Three Clue Rule application). Appendix E (revelation lists).
+**When to consult:** **Fireball!** (nimblewright investigation — the most investigation-heavy quest). **Gralhund Villa** (clue trail to Gralhund Villa). **Faction Outposts** (outpost intelligence redundancy). Chapter 3 (structural rules — Three Clue Rule application). **Running the Villains** (GM Guide) (revelation lists).
 
 **Cross-references:** `17. Outpost and Lair Revelation Lists.pdf` (the master revelation tables), `14. Finding Floon.pdf`, `15. The Nimblewright Investigation.pdf`, `16. Backtracking Dalakhar & Kalain.pdf`.
 
@@ -389,7 +389,7 @@ Key content:
 
 ### `14. Finding Floon.pdf`
 
-**Contents:** The Alexandrian's redesign of Arc A — Finding Floon Blagmaar. Addresses the original's weak investigation structure.
+**Contents:** The Alexandrian's redesign of **Finding Floon**. Addresses the original's weak investigation structure.
 
 Key content:
 - Revised clue path: three independent ways to learn Floon was taken from the Zhentarim warehouse (eyewitnesses in the Dock Ward, direct investigation of the warehouse, following Renaer's lead)
@@ -398,7 +398,7 @@ Key content:
 - Nihiloor introduction: the mind flayer is present but not meant to be confronted. Escape, stealth, or distraction are the intended solutions.
 - Renaer's knowledge state: what Renaer knows about his father, the gold, and the Grand Game — and how much he should reveal now vs. later
 
-**When to consult:** Arc A (the entire arc).
+**When to consult:** **Finding Floon** (the entire quest).
 
 **Cross-references:** `adventure-wdh.json` Ch.1 (base maps and NPC stats), `13. Clues and Timelines.pdf` (investigation architecture), `2. Other Factions.pdf` (Renaer's characterization).
 
@@ -406,7 +406,7 @@ Key content:
 
 ### `15. The Nimblewright Investigation.pdf`
 
-**Contents:** The Alexandrian's redesign of the post-fireball investigation in Arc C. The nimblewright thread is the campaign's central investigation sequence.
+**Contents:** The Alexandrian's redesign of the post-fireball investigation in **Fireball!**. The nimblewright thread is the campaign's central investigation sequence.
 
 Key content:
 - Three independent paths to identifying the nimblewright as the fireball source: (1) eyewitness accounts place a figure near Dalakhar just before the blast, (2) residual abjuration magic on the necklace of fireballs traces to construct-crafted enchantment, (3) a surviving shard of the necklace has a maker's mark pointing to the House of Inspired Hands
@@ -414,7 +414,7 @@ Key content:
 - Nim's characterization: the automaton caretaker of the House of Inspired Hands, her pride in her work, her distress about the escaped nimblewright
 - Valetta the elf cleric: temple of Gond, can perform the sending to detect a nimblewright's presence in the city (requires the tracker device)
 
-**When to consult:** Arc C (the core investigation sequence). Read alongside `13. Clues and Timelines.pdf`.
+**When to consult:** **Fireball!** (the core investigation sequence). Read alongside `13. Clues and Timelines.pdf`.
 
 **Cross-references:** `16. Backtracking Dalakhar & Kalain.pdf` (parallel investigation path), `adventure-wdh.json` Ch.3 (base House of Inspired Hands and Gralhund Villa content), `4. Gralhund Villa.pdf` (where the investigation leads).
 
@@ -422,7 +422,7 @@ Key content:
 
 ### `16. Backtracking Dalakhar  Kalain.pdf`
 
-**Contents:** An optional investigation branch in Arc C — following Dalakhar's trail backwards to understand where he came from and why he was targeted.
+**Contents:** An optional investigation branch in **Fireball!** — following Dalakhar's trail backwards to understand where he came from and why he was targeted.
 
 Key content:
 - Kalain the painter: an artist who briefly sheltered Dalakhar before the fireball. Her studio in the Trades Ward is a clue location.
@@ -430,7 +430,7 @@ Key content:
 - Information yielded: context for the Grand Game, confirmation that multiple factions were hunting Dalakhar simultaneously
 - Why this is optional: all the investigation-critical clues about the nimblewright are available via `15. The Nimblewright Investigation.pdf`. This branch adds depth and rewards thorough PCs but is not required.
 
-**When to consult:** Arc C (optional investigation branch). Read only if you want to include this thread; skip if you want Arc C tighter.
+**When to consult:** **Fireball!** (optional investigation branch). Read only if you want to include this thread; skip if you want **Fireball!** tighter.
 
 **Cross-references:** `13. Clues and Timelines.pdf` (how Dalakhar's timeline fits the overall timeline), `15. The Nimblewright Investigation.pdf` (the primary investigation track).
 
@@ -447,7 +447,7 @@ Key content:
 - Clue props: what physical items (documents, maps, coded messages) are carried by which faction response teams
 - Design philosophy: every investigation dead end is a design failure. This document is the quality check.
 
-**When to consult:** Arc E (every outpost), Arc F-I (every lair). When designing any location that might yield investigation clues. Chapter 3 (structural rules). Appendix E (revelation lists section).
+**When to consult:** **Faction Outposts** (every outpost), the four lair heists (every lair). When designing any location that might yield investigation clues. Chapter 3 (structural rules). **Running the Villains** (GM Guide) (revelation lists section).
 
 **Cross-references:** `6. Faction Response Teams.pdf` (response team props), `5. Faction Outposts.pdf` (outpost locations), `13. Clues and Timelines.pdf` (overall clue architecture), all four lair PDFs.
 
@@ -464,7 +464,7 @@ Key content:
 - The Stone's whispers: the aboleth's corrupted influence — brief visions of undersea memories, references to "a dreaming mind below" (the Undermountain seed)
 - The dragonstaff of Ahghairon: in the vault, connected to Aurinax's service. Full mechanical description.
 
-**When to consult:** Any scene where the Stone or Eyes are introduced, used, or described. Arc C (Stone first acquired — even before the Eyes are mentioned, the Stone's properties need to be clear). Arc F-H (Eye acquisition). Arc J (vault opening sequence).
+**When to consult:** Any scene where the Stone or Eyes are introduced, used, or described. **Fireball!** (Stone first acquired — even before the Eyes are mentioned, the Stone's properties need to be clear). **Xanathar's Lair**, **Cassalanter Villa**, and **Sea Maidens Faire** (Eye acquisition). **Vault of Dragons** (vault opening sequence).
 
 **Cross-references:** `8. The Eyes of the Stone.pdf` (where each Eye is held), `20. The Vault.pdf` (how the complete artifact opens the vault), `adventure-wdh.json` Appendix A (original Stone stats to convert from).
 
@@ -480,7 +480,7 @@ Key content:
 - Crypt occupants: undead Brandath family members, puzzle-trap based on the family's history, city of the dead context
 - The vault door: how the ceremonial lock (three Eyes + Stone + mithral hammer + dragonscale + sunlight) works physically
 
-**When to consult:** Arc J (vault approach). Also useful for Arc E when writing the Cassalanter outpost that contains the vault-location clue.
+**When to consult:** **Vault of Dragons** (vault approach). Also useful for **Faction Outposts** when writing the Cassalanter outpost that contains the vault-location clue.
 
 **Cross-references:** `20. The Vault.pdf` (what's inside), `5. Faction Outposts.pdf` (Cassalanter outpost with the clue to this location), `adventure-wdh.json` Ch.4 (original vault entry content).
 
@@ -498,7 +498,7 @@ Key content:
 - Aftermath tables: political consequences of different outcomes (PCs keep gold, return it, distribute it, destroy it, use it to buy political outcomes)
 - Laeral Silverhand's involvement: when and how the Open Lord appears
 
-**When to consult:** Arc J (the entire arc).
+**When to consult:** **Vault of Dragons** (the entire quest).
 
 **Cross-references:** `19. The Brandath Crypts.pdf` (the approach), `18. Golorr Artifacts.pdf` (the ceremonial lock), `adventure-wdh.json` Ch.4 (original vault content), `28. Addendum The Dragon of Dragon Heist.pdf` (Aurinax design guidance).
 
@@ -514,7 +514,7 @@ Key content:
 - These are clue-seeding props: each document is designed to be found by PCs during outpost infiltrations or from defeated response teams
 - The documents reveal inter-faction tensions (e.g., Nar'l Xibrindas's loyalties are subtly undermined in Xanathar's report — he's praised too much, which in Xanathar's paranoid world is suspicious)
 
-**When to consult:** Arc E (designing outpost props and response team documents). Appendix E (revelation lists). When writing in-world handouts for the DM to print/share.
+**When to consult:** **Faction Outposts** (designing outpost props and response team documents). **Running the Villains** (GM Guide) (revelation lists). When writing in-world handouts for the DM to print/share.
 
 **Cross-references:** `6. Faction Response Teams.pdf` (which teams carry which documents), `17. Outpost and Lair Revelation Lists.pdf` (where in the revelation list these documents appear).
 
@@ -549,7 +549,7 @@ Key content:
 - Durnan as a character: how to play him as more than a bartender
 - A Bregan D'aerthe watcher in the Yawning Portal: a subtle first seed of Jarlaxle's surveillance network
 
-**When to consult:** Arc A (opening session design). Chapter 1 (session zero — what the first session should feel like).
+**When to consult:** **Finding Floon** (opening session design). Chapter 1 (session zero — what the first session should feel like).
 
 **Cross-references:** `adventure-wdh.json` Ch.1 (original opening content), `14. Finding Floon.pdf` (the investigation that follows).
 
@@ -557,15 +557,15 @@ Key content:
 
 ### `24. Addendum The Twin Parades.pdf`
 
-**Contents:** A dual-festival event during Arc B — two different parade events on the same day that plant nimblewrights in the city and foreshadow the investigation arc.
+**Contents:** A dual-festival event during **Trollskull Alley** — two different parade events on the same day that plant nimblewrights in the city and foreshadow the investigation quest.
 
 Key content:
 - The parade of fantastical beasts (magic creatures on display, carnival atmosphere) and the mechanical procession (constructs, nimblewrights among them)
 - How the parades serve the three-pillar structure: establish Waterdeep as a living city, plant nimblewrights in the PCs' awareness, create a festive backdrop for faction recruitment
-- What the PCs might notice during the parade that pays off in Arc C (the nimblewright investigation): specific design notes for planting these seeds without telegraphing
+- What the PCs might notice during the parade that pays off in **Fireball!** (the nimblewright investigation): specific design notes for planting these seeds without telegraphing
 - Skill-check opportunities at parade events that yield early faction intelligence
 
-**When to consult:** Arc B (Twin Parades event within Trollskull Alley arc). Write this event when drafting Arc B scene entries.
+**When to consult:** **Trollskull Alley** (Twin Parades event). Write this event when drafting **Trollskull Alley** scene entries.
 
 **Cross-references:** `adventure-wdh.json` Ch.2 (original festival content), `15. The Nimblewright Investigation.pdf` (what the parade seeds for).
 
@@ -583,7 +583,7 @@ Key content:
 - Faction insignia and seals (for identifying faction documents)
 - The nimblewright tracker device (illustration + description for player handout)
 
-**When to consult:** When designing player-facing handouts for any arc. Especially useful for Arc B (faction recruitment letters), Arc C-E (coded messages and faction documents), and Arc A (the Wanted Poster).
+**When to consult:** When designing player-facing handouts for any quest. Especially useful for **Trollskull Alley** (faction recruitment letters), **Fireball!**, **Gralhund Villa**, and **Faction Outposts** (coded messages and faction documents), and **Finding Floon** (the Wanted Poster).
 
 **Cross-references:** `21. Faction Reports of the Grand Game.pdf` (the in-world faction documents that go with these props), `17. Outpost and Lair Revelation Lists.pdf` (which locations drop which props).
 
@@ -594,13 +594,13 @@ Key content:
 **Contents:** Optional NPCs and factions who can become PC allies — beyond the standard five PC factions.
 
 Key content:
-- **Jarlaxle as patron:** Conditions under which Bregan D'aerthe actively employs the PCs rather than treating them as obstacles. What he offers, what he demands, how the relationship evolves. This is the primary reference for the Arc H alliance path.
+- **Jarlaxle as patron:** Conditions under which Bregan D'aerthe actively employs the PCs rather than treating them as obstacles. What he offers, what he demands, how the relationship evolves. This is the primary reference for the **Sea Maidens Faire** alliance path.
 - **Renaer Neverember as active ally:** If the PCs build a strong relationship with Renaer, he can provide noble social access, Waterdeep knowledge, and political cover. His limits: he won't break laws and he won't sacrifice his father publicly before it becomes unavoidable.
 - **Mirt the Moneylender as Harper contact:** How Mirt functions as more than just a faction contact — his history, his tavern network, and his personal stake in Waterdeep's power balance.
 - **Zelifarn the dragon:** The young sea dragon encountered at the Sea Maidens Faire — what quest he might offer, and how the PCs could help him, which earns them a dragon ally.
 - **Force Grey (Gray Hands):** Vajra Safahr's conditions for Force Grey involvement. They won't act unless PCs are members and the situation is a genuine city-level threat.
 
-**When to consult:** Arc B (when NPC ally options are established), Arc H (Jarlaxle ally path), Appendix D (Running Player Factions — Bregan D'aerthe section). Whenever PCs try to cultivate a relationship with an NPC not covered in `3. Player Character Factions.pdf`.
+**When to consult:** **Trollskull Alley** (when NPC ally options are established), **Sea Maidens Faire** (Jarlaxle ally path), the **Bregan D'aerthe** organization page (Bregan D'aerthe section). Whenever PCs try to cultivate a relationship with an NPC not covered in `3. Player Character Factions.pdf`.
 
 **Cross-references:** `3. Player Character Factions.pdf` (Bregan D'aerthe formal membership), `1. The Villains.pdf` (Jarlaxle's agenda), `9. Lair – Sea Maidens Faire.pdf` (Zelifarn's location).
 
@@ -617,7 +617,7 @@ Key content:
 - Emmek Frewn: the rival tavern owner, his sabotage tactics, and how the feud escalates
 - The tavern as intelligence hub: specific examples of faction agents using the tavern, rumors that filter in through the customer base, how running a public space gives the PCs passive intelligence
 
-**When to consult:** Arc B (establishing the tavern, renovation, Trollskull Alley community). Appendix F (Managing Trollskull Manor — draw directly from this PDF for the appendix content). Any session that starts or ends at the tavern.
+**When to consult:** **Trollskull Alley** (establishing the tavern, renovation, Trollskull Alley community). the **Trollskull Manor** guide (draw directly from this PDF for the guide content). Any session that starts or ends at the tavern.
 
 **Cross-references:** `adventure-wdh.json` Ch.2 (original tavern content and neighbor NPCs), `25. Addendum Fancy Props.pdf` (Trollskull Alley map prop).
 
@@ -634,7 +634,7 @@ Key content:
 - Multiple encounter resolutions: combat (hard fight, he's an adult gold dragon), negotiation (requires understanding his situation), persuasion that his oath is legally void (requires an argument about the dragonstaff's holder's absence), offering to release him from the oath (requires magical means or convincing Laeral Silverhand)
 - The dragonstaff as an item: its post-vault use and political significance to Waterdeep
 
-**When to consult:** Arc J (the vault confrontation). Chapter 2 (if writing a section on the dragonstaff or Aurinax's history). Appendix B (if writing Aurinax's stat block — he's a named villain-adjacent figure using `boss-design` skill).
+**When to consult:** **Vault of Dragons** (the vault confrontation). Chapter 2 (if writing a section on the dragonstaff or Aurinax's history). the **Bestiary** (not yet drafted) (if writing Aurinax's stat block — he's a named villain-adjacent figure using `boss-design` skill).
 
 **Cross-references:** `20. The Vault.pdf` (the vault context), `adventure-wdh.json` Appendix B (original Aurinax stats to convert from), `18. Golorr Artifacts.pdf` (the dragonstaff is in the vault).
 
@@ -654,7 +654,7 @@ Key content:
 - **Pacing guide:** How many in-world days each arc should take, and how to keep calendar pressure real without railroading
 - **Founders' Day details:** What happens if the Cassalanters succeed, what the public aftermath looks like, how it changes the remaining campaign
 
-**When to consult:** Chapter 3 (structural rules — festival calendar, faction state tracking). Arc C (the fireball's timing relative to the calendar). Arc G (Founders' Day deadline). Anytime you need to place an event on a specific in-world date.
+**When to consult:** Chapter 3 (structural rules — festival calendar, faction state tracking). **Fireball!** (the fireball's timing relative to the calendar). **Cassalanter Villa** (Founders' Day deadline). Anytime you need to place an event on a specific in-world date.
 
 **Cross-references:** `13. Clues and Timelines.pdf` (the investigation timelines that this calendar governs), `10. Lair Cassalanter Villa.pdf` (Founders' Day mechanics).
 
@@ -671,7 +671,7 @@ Key content:
 - Recovery options: can a destroyed Eye be restored? (Short answer: with significant magical effort, yes — but it's a side quest)
 - Plot resilience: this document is a safety net for DMs whose players made the Eyes unusable through combat or creative problem-solving
 
-**When to consult:** Arc E-H (if there is any risk that an Eye might be destroyed or lost during a lair heist). Arc J (if PCs arrive at the vault without all three Eyes). This is a contingency document — read it so you can handle these outcomes smoothly, but don't design toward them.
+**When to consult:** **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, and **Sea Maidens Faire** (if there is any risk that an Eye might be destroyed or lost during a lair heist). **Vault of Dragons** (if PCs arrive at the vault without all three Eyes). This is a contingency document — read it so you can handle these outcomes smoothly, but don't design toward them.
 
 **Cross-references:** `8. The Eyes of the Stone.pdf` (normal Eye function), `18. Golorr Artifacts.pdf` (Stone mechanics), `20. The Vault.pdf` (how the vault opens normally).
 
@@ -685,22 +685,22 @@ The `sources/Other remix files/` folder contains Patreon-exclusive NPC guides, v
 
 | File | Focus | When to consult |
 |------|-------|-----------------|
-| `Cassalanters, their tragic backtstory, and Endgame setup.docx` | Victoro & Ammalia backstory, the soul-pact timeline, the children's situation, endgame resolution paths | Arcs C, G; any Cassalanter villain scene |
-| `Davil and the Doom Raider Zhents + Elf Killer mission and more.docx` | Davil Starsong characterization, Doom Raider faction dynamics, the Elf Killer mission hook | Arc B (faction recruitment), Appendix D (Doom Raiders section) |
+| `Cassalanters, their tragic backtstory, and Endgame setup.docx` | Victoro & Ammalia backstory, the soul-pact timeline, the children's situation, endgame resolution paths | **Fireball!**, **Cassalanter Villa**; any Cassalanter villain scene |
+| `Davil and the Doom Raider Zhents + Elf Killer mission and more.docx` | Davil Starsong characterization, Doom Raider faction dynamics, the Elf Killer mission hook | **Trollskull Alley** (faction recruitment), the **Zhentarim (Doom Raiders)** organization page (Doom Raiders section) |
 | `Gale of Waterdeep in Waterdeep Dragon Heist.docx` | Gale as a recurring NPC; her role in the city's political/magical landscape | Any scene featuring Gale |
-| `Jarlaxle Baenre NPC Guide.docx` | Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him | Arcs C, H; Appendix E (Bregan D'aerthe section) |
-| `Lif and the Haunting of Trollskull Manor.docx` | Lif the poltergeist — history, personality, appeasement mechanics, tavern integration | Arc B; Appendix F |
-| `Meloon Wardragon NPC Guide.docx` | Meloon as a Force Grey contact; his mind-control situation (Ahghairon's Dragonward), morale, and redemption arc | Arc B (faction recruitment), Appendix D (Force Grey section) |
-| `Renaer Neverember Guide, his backstory and family secrets.docx` | Renaer's history, his father's crimes, what he knows vs. what he suspects, roleplaying guidance | Arc A, Arc D; any Renaer scene |
-| `The 3 Urchins NPC Guide.docx` | Nat, Squiddly, and Jenks — personalities, street knowledge, quest hooks, how to use them as recurring contacts | Arc B; any urchin interaction |
+| `Jarlaxle Baenre NPC Guide.docx` | Jarlaxle's personality, tactics, goals, and the Bregan D'aerthe operation; how to play him | **Fireball!**, **Sea Maidens Faire**; the **Bregan D'aerthe** organization page (Bregan D'aerthe section) |
+| `Lif and the Haunting of Trollskull Manor.docx` | Lif the poltergeist — history, personality, appeasement mechanics, tavern integration | **Trollskull Alley**; the **Trollskull Manor** guide |
+| `Meloon Wardragon NPC Guide.docx` | Meloon as a Force Grey contact; his mind-control situation (Ahghairon's Dragonward), morale, and redemption arc | **Trollskull Alley** (faction recruitment), the **Force Grey** organization page (Force Grey section) |
+| `Renaer Neverember Guide, his backstory and family secrets.docx` | Renaer's history, his father's crimes, what he knows vs. what he suspects, roleplaying guidance | **Finding Floon**, **Gralhund Villa**; any Renaer scene |
+| `The 3 Urchins NPC Guide.docx` | Nat, Squiddly, and Jenks — personalities, street knowledge, quest hooks, how to use them as recurring contacts | **Trollskull Alley**; any urchin interaction |
 | `The Waterdavian's Guide to Waterdeep NPCs (my notes of a bunch of NPCs all in one place, before I made the more cleaned up NPC Guides).docx` | Broad NPC reference — use as a secondary source; the individual guides above supersede this where they overlap | Secondary reference only |
-| `Vajra Safahr, Zelifarn, and Deepwater Harbor quests.docx` | Vajra as Force Grey Blackstaff, Zelifarn the sea dragon, Deepwater Harbor quest hooks | Arc B (Force Grey contact); Arc H (Zelifarn at Sea Maidens Faire) |
-| `Xoblob_s Shop, NPC guide to his trinkets and roll tables.docx` | Xoblob the deep gnome shopkeeper — personality, shop inventory, trinket roll tables, as a faction-neutral information source | Arc B; any Dock Ward scene |
-| `Zardoz Zord (and extra side quest hook).docx` | Jarlaxle's "Zardoz Zord" persona — the Sea Maidens Faire disguise and an additional side quest hook | Arc C (Sea Maidens Faire first contact), Arc H |
+| `Vajra Safahr, Zelifarn, and Deepwater Harbor quests.docx` | Vajra as Force Grey Blackstaff, Zelifarn the sea dragon, Deepwater Harbor quest hooks | **Trollskull Alley** (Force Grey contact); **Sea Maidens Faire** (Zelifarn at Sea Maidens Faire) |
+| `Xoblob_s Shop, NPC guide to his trinkets and roll tables.docx` | Xoblob the deep gnome shopkeeper — personality, shop inventory, trinket roll tables, as a faction-neutral information source | **Trollskull Alley**; any Dock Ward scene |
+| `Zardoz Zord (and extra side quest hook).docx` | Jarlaxle's "Zardoz Zord" persona — the Sea Maidens Faire disguise and an additional side quest hook | **Fireball!** (Sea Maidens Faire first contact), **Sea Maidens Faire** |
 
 ### Subfolders
 
-- **`Event Guides (Shipwrights Ball, Field of Triumph Arc, etc)/`** — Supplementary event guides for specific Waterdeep festivals and activities. Consult when writing the Field of Triumph scene in Arc B or any named festival event.
+- **`Event Guides (Shipwrights Ball, Field of Triumph Arc, etc)/`** — Supplementary event guides for specific Waterdeep festivals and activities. Consult when writing the Field of Triumph scene in **Trollskull Alley** or any named festival event.
 - **`Guides to understanding Alexandrian Remix/`** — Meta-documents explaining the Alexandrian's design decisions. Supplementary to `22. How the Remix Works.pdf` — read if you need deeper context on a structural choice.
 - **`VIllain Combat Guides and Enhanced Stat Blocks for certain boss level NPCs/`** — Tactical guidance and enhanced stat blocks for major villain encounters. Consult alongside `boss-design` skill when building any named villain fight. These are 2014 format — convert using `dnd-monster-converter` or `boss-design` skill.
 

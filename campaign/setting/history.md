@@ -37,7 +37,7 @@
 - Manshoon of Zhentil Keep as the Zhentarim's founder: a mercantile conspiracy built into a criminal network spanning the Sword Coast; ambition on an organizational scale
 - The simulacrum problem as the organization's defining condition: Manshoon has died and been replaced by his own simulacra multiple times; the Zhentarim that now operates across the Sword Coast is an organization that has outlasted its founder's coherent leadership and retained only his methods
 - The fracture: Davil Starsong's cell separates from Manshoon's organization on explicitly pragmatic grounds — visible violence and criminal overreach shorten lifespans; a moderate operation presenting a legitimate face is more profitable and survivable; this is the Doom Raiders, now operating in Waterdeep as "the Zhentarim" that most of Waterdeep knows
-- Manshoon's separate Waterdeep operation: the original philosophy, arrived later, read Neverember's ouster as political opportunity; Kolat Towers established quietly; whether the man in the towers is the original Manshoon or a simulacrum is a question the text leaves open until Arc I
+- Manshoon's separate Waterdeep operation: the original philosophy, arrived later, read Neverember's ouster as political opportunity; Kolat Towers established quietly; whether the man in the towers is the original Manshoon or a simulacrum is a question the text leaves open until **Kolat Towers**
 - This era's closing note: two organizations now use the same name in the same city and despise each other; neither acknowledges the other as legitimate; the players will eventually need to understand this distinction
 
 *Era 5 — A Debt in Blood (the Cassalanter bargain, approximately twenty years before the campaign)*

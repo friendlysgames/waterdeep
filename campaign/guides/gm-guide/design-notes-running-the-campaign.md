@@ -24,11 +24,11 @@ The original has one MacGuffin (the Stone of Golorr) passed between factions. Th
 
 *Why Trollskull Manor*
 
-The original gives the PCs Trollskull Manor as a reward after Arc A but provides limited mechanical reason to invest in it. This note explains the motivation engineering decision: the manor creates something the PCs care about protecting before the fireball destroys it; the neighborhood relationships developed in Arc B become the emotional cost of Arc C; the Trollskull community is the campaign's human stakes made concrete. Without this investment, the fireball is just a plot event.
+The original gives the PCs Trollskull Manor as a reward after **Finding Floon** but provides limited mechanical reason to invest in it. This note explains the motivation engineering decision: the manor creates something the PCs care about protecting before the fireball destroys it; the neighborhood relationships developed in **Trollskull Alley** become the emotional cost of **Fireball!**; the Trollskull community is the campaign's human stakes made concrete. Without this investment, the fireball is just a plot event.
 
 *Why the Fireball Must Kill Someone*
 
-The fireball that opens Arc C is a story beat in the original — notable but not devastating. This design note argues that the fireball must kill or destroy a named NPC the players bonded with during Arc B. The text does not name the victim — the DM identifies them. This is non-negotiable motivation engineering: personal loss converts a civic investigation into a personal crusade. The three clue paths to the nimblewright remain, but the players pursue them with urgency rather than obligation.
+The fireball that opens **Fireball!** is a story beat in the original — notable but not devastating. This design note argues that the fireball must kill or destroy a named NPC the players bonded with during **Trollskull Alley**. The text does not name the victim — the DM identifies them. This is non-negotiable motivation engineering: personal loss converts a civic investigation into a personal crusade. The three clue paths to the nimblewright remain, but the players pursue them with urgency rather than obligation.
 
 *Why Founders' Day Is a Hard Deadline*
 
@@ -40,7 +40,7 @@ The design note defends the conditional entry mechanic — Jarlaxle enters the G
 
 *Why the Gold Is Not Given to the City*
 
-Arc J produces 500,000gp. The original adventure suggests returning it to Waterdeep as the most heroic outcome. This design note argues against structuring Arc J around this expectation: the players must have genuine agency over the gold for the campaign's moral questions to have weight. The note explains all five resolution paths (keep, return, distribute, use for a specific purpose, trade to a faction) and what each one means for the political aftermath. The DM is told explicitly: do not railroad the gold away from the players. The consequences of keeping it should be dramatic, not punitive.
+**Vault of Dragons** produces 500,000gp. The original adventure suggests returning it to Waterdeep as the most heroic outcome. This design note argues against structuring **Vault of Dragons** around this expectation: the players must have genuine agency over the gold for the campaign's moral questions to have weight. The note explains all five resolution paths (keep, return, distribute, use for a specific purpose, trade to a faction) and what each one means for the political aftermath. The DM is told explicitly: do not railroad the gold away from the players. The consequences of keeping it should be dramatic, not punitive.
 
 *Why Aurinax Is Given a Moral Complexity*
 

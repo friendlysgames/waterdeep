@@ -13,7 +13,7 @@
 *The Wards*
 - **Castle Ward** (city center, government, Yawning Portal): seat of the Masked Lords; City Watch headquarters; Durnan's Yawning Portal is the campaign's literal and symbolic entry point
 - **Sea Ward** (wealthy northwest): noble estates, major temples, the Field of Triumph; Cassalanter Villa is here
-- **North Ward** (established families, quieter money): quieter money, old names, established households; Trollskull Manor (the party's home base) is here — operating mechanics in Appendix F
+- **North Ward** (established families, quieter money): quieter money, old names, established households; Trollskull Manor (the party's home base) is here — operating mechanics in the **Trollskull Manor** guide
 - **Trades Ward** (commerce, guilds, day-and-night activity): most guild halls; faction front businesses cluster here; Kolat Towers (Manshoon's fortress) occupies a fortified block here
 - **South Ward** (working class, immigrants, industry): Istrid Horn's moneylending operation; where new arrivals settle first
 - **Dock Ward** (port, crime, contraband): the most dangerous ward; Xanathar Guild's primary surface territory; Sea Maidens Faire moors here during Fleetswake
@@ -34,7 +34,7 @@
 
 *Religion*
 - Major temples in Sea Ward: Tyr (Justice; City Watch captain is a worshiper), Tymora (Luck; popular with adventurers and criminals alike), Selûne (Moon; widely attended)
-- House of Inspired Hands: a Gondar workshop-temple, not a standard place of worship; Arc C connects here
+- House of Inspired Hands: a Gondar workshop-temple, not a standard place of worship; **Fireball!** connects here
 - Hidden: the Cassalanters maintain an illegal temple to Asmodeus beneath their villa; the Code Legal offense alone is capital
 
 *Festival Calendar (DM reference)*
@@ -43,7 +43,7 @@
 | Ches 21–30 | Fleetswake | Maritime festival; Sea Maidens Faire arrives; cover for Dock Ward investigation |
 | Tarsakh 1–10 | Waukeentide | Commerce festival; Cassalanters host public galas; cover for Sea Ward investigation |
 | Flamerule 1 | Founders' Day | HARD DEADLINE — Cassalanter sacrifice; city celebrates publicly |
-| Marpenoth 3 | Day of Wonders | Gondar invention festival; nimblewright demonstrations; adjustable for Arc C pacing |
+| Marpenoth 3 | Day of Wonders | Gondar invention festival; nimblewright demonstrations; adjustable for **Fireball!** pacing |
 
 *The Dragonward and Walking Statues*
 - The dragonward: Ahghairon's founding spell; prevents dragons from entering the city without the Open Lord's permission

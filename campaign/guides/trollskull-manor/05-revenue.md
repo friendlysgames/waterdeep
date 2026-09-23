@@ -40,7 +40,7 @@ Subtract in this order from gross revenue:
 
 Negative result → Unpaid Debt, subtracts from next Revenue Roll.
 
-**Context:** At Known tier (~40 gp supply, ~100 gp total costs), an average roll (avg 105 gp) yields ~5 gp net. A solid roll yields ~40 gp net. Startup costs of 1,250 gp won't recoup from average Known-tier rolls — the tavern is a home base and social engine through Arcs B–E, not a profit center. Consistent strong rolling at Respected tier recovers startup investment in ~15–20 tendays.
+**Context:** At Known tier (~40 gp supply, ~100 gp total costs), an average roll (avg 105 gp) yields ~5 gp net. A solid roll yields ~40 gp net. Startup costs of 1,250 gp won't recoup from average Known-tier rolls — the tavern is a home base and social engine through **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, and **Faction Outposts**, not a profit center. Consistent strong rolling at Respected tier recovers startup investment in ~15–20 tendays.
 
 **DM guidance:** Don't run the Revenue Roll every session. When the party is deep in an investigation arc, run it in the background and report the result in a line. The roll matters most during the early game when money is tight, and during any period when faction pressure is actively disrupting the neighbourhood. After Fame 31+ (Respected), hand-wave the roll unless something dramatic happened that tenday.
 

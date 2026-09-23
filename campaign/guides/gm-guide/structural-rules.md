@@ -17,7 +17,7 @@ The campaign contains two distinct Zhentarim factions that must never be conflat
 - **The Doom Raiders** (Davil Starsong's cell): a player-joinable faction; presents a public face of legitimate business and moderate criminal enterprise; will not cooperate with Manshoon and does not acknowledge his cell as legitimate Zhentarim; found in Trollskull Alley and across the city as apparent professionals
 - **Manshoon's Splinter Cell**: the villain faction; operates from Kolat Towers; the "Zhentarim" that conducts assassinations and uses mind-controlled servants; Manshoon views the Doom Raiders as deserters who stole his name
 
-When PCs encounter "the Zhentarim" in any given scene, the DM must know which cell is present. These factions will not cooperate. They will actively undermine each other if their operations overlap. The distinction should become apparent to attentive PCs during Arc B.
+When PCs encounter "the Zhentarim" in any given scene, the DM must know which cell is present. These factions will not cooperate. They will actively undermine each other if their operations overlap. The distinction should become apparent to attentive PCs during **Trollskull Alley**.
 
 *Faction Response Teams*
 
@@ -42,10 +42,10 @@ Key dates:
 
 | Festival / Date | Date | Structural function |
 |----------|------|---------------------|
-| Fleetswake | Ches 21–30 | Maritime festival; Sea Maidens Faire arrives in harbor; cover for Arc H reconnaissance |
-| Twin Parades | Ches 21 | Opening day of Fleetswake; nimblewright sighting in the procession (Arc B ev-07); fireball strikes the following morning |
-| The Fireball | Ches 22 | Campaign inciting incident; opens Arc C; the morning after the Twin Parades |
-| Waukeentide | Tarsakh 1–10 | Trade festival; Cassalanter social events peak; cover for Arc G surveillance phase |
+| Fleetswake | Ches 21–30 | Maritime festival; Sea Maidens Faire arrives in harbor; cover for **Sea Maidens Faire** reconnaissance |
+| Twin Parades | Ches 21 | Opening day of Fleetswake; nimblewright sighting in the procession (**Trollskull Alley** ev-07); fireball strikes the following morning |
+| The Fireball | Ches 22 | Campaign inciting incident; opens **Fireball!**; the morning after the Twin Parades |
+| Waukeentide | Tarsakh 1–10 | Trade festival; Cassalanter social events peak; cover for **Cassalanter Villa** surveillance phase |
 | Founders' Day | Flamerule 1 | HARD DEADLINE: Cassalanter sacrifice window closes; if PCs have not resolved the children's situation, the sacrifice occurs |
 
 The DM should decide the campaign start date (Alturiak or early Ches is typical, leaving two months before Fleetswake) and maintain a session-by-session calendar. Players who are paying attention should be able to track the approach of Founders' Day without being told what it means until they understand the Cassalanters.
@@ -61,21 +61,21 @@ How to apply it:
 
 Every critical investigation beat should have at least one of each type. If all three paths require successful rolls, the rule is technically met but practically fragile.
 
-Critical beats to audit (one table per beat, verification in Appendix E revelation lists):
-- Finding Floon (Arc A)
-- Identifying the nimblewright and its owner (Arc C)
-- Connecting the fireball to the Gralhunds (Arc C)
-- Locating each Eye of the Stone (Arc E)
-- Finding each villain faction's lair (Arc E)
-- Opening the Vault of Dragons (Arc J)
+Critical beats to audit (one table per beat, verification in **Running the Villains** (GM Guide) revelation lists):
+- Finding Floon
+- Identifying the nimblewright and its owner (**Fireball!**)
+- Connecting the fireball to the Gralhunds (**Fireball!**)
+- Locating each Eye of the Stone (**Faction Outposts**)
+- Finding each villain faction's lair (**Faction Outposts**)
+- Opening the Vault of Dragons
 
 *The Fireball Victim*
 
-The fireball that opens Arc C must kill or destroy a named NPC the players bonded with during Arc B. This is the DM's active observation task throughout Arc B — not a decision made at session zero, but a read made at the table.
+The fireball that opens **Fireball!** must kill or destroy a named NPC the players bonded with during **Trollskull Alley**. This is the DM's active observation task throughout **Trollskull Alley** — not a decision made at session zero, but a read made at the table.
 
 How to run it:
-- During Arc B, watch for which NPC the group gravitates toward. Not necessarily the one with the most page time — the one the players ask about, reference between sessions, return to.
-- Identify the victim before Arc C begins. Write them into the fireball scene. Do not leave it vague.
+- During **Trollskull Alley**, watch for which NPC the group gravitates toward. Not necessarily the one with the most page time — the one the players ask about, reference between sessions, return to.
+- Identify the victim before **Fireball!** begins. Write them into the fireball scene. Do not leave it vague.
 - The scene should not be survivable-with-a-heal. The victim is dead or, in Lif's case, gone — the campaign's first irreversible consequence.
 
 Suggested candidates (not prescriptive — the actual victim is whoever the players chose):
@@ -115,4 +115,4 @@ Inter-faction activity continues off-screen. If the PCs spend three sessions on 
 - [Grand Game in Play](grand-game-in-play.md) — faction escalation tiers and inter-faction conflict
 - [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — why these structural choices were made
 - [Setting: Grand Game](../../setting/grand-game.md) — in-world framing for the faction competition
-- Appendix E: full revelation lists and faction response team rosters
+- **Running the Villains** (GM Guide): full revelation lists and faction response team rosters

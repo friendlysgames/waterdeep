@@ -17,7 +17,7 @@
 
 *Species Notes (2024)*
 - Drow: will encounter Jarlaxle and Bregan D'aerthe; Jarlaxle has complicated feelings about surface drow; coordinate with DM before session one
-- Gnome: natural connection to House of Inspired Hands (Arc C); can build a relationship with Nim the automaton-maker
+- Gnome: natural connection to House of Inspired Hands (**Fireball!**); can build a relationship with Nim the automaton-maker
 - Tiefling: the Cassalanters regard tieflings as distant infernal kin and will show warmth that deserves scrutiny
 
 *Backgrounds (XPHB — 2024 Player's Handbook)*
@@ -79,4 +79,4 @@ Select FRHoF backgrounds suited to a Waterdeep campaign:
 
 - [Debts of the City](debts-of-the-city.md) — additional character anchors chosen at session zero
 - [Bonds and Flaws](bonds-and-flaws.md) — character arc tables
-- [Faction Affiliations](faction-affiliations.md) — faction preview; formal choice deferred to Arc B
+- [Faction Affiliations](faction-affiliations.md) — faction preview; formal choice deferred to **Trollskull Alley**

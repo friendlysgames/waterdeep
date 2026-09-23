@@ -12,18 +12,18 @@
 
 *The Four Acts — overview table*
 
-| Act | Title | Levels | Arcs | Est. Sessions | Dramatic Question |
-|-----|-------|--------|------|---------------|-------------------|
-| I | The Setup | 1–3 | A, B | 6–10 | Who are these people, and what have they stumbled into? |
-| II | The Investigation | 3–4 | C, D | 4–8 | Who killed Dalakhar, and what was he carrying? |
-| III | The Heists | 4–7 | E, F, G, H, I | 16–28 | Can the PCs recover all three Eyes before any faction assembles them? |
-| IV | The Vault | 7 | J | 3–5 | Who claims the Dragons of Waterdeep — and at what cost? |
+| Act | Title | Levels | Quests | Est. Sessions | Dramatic Question |
+|-----|-------|--------|--------|---------------|-------------------|
+| I | The Setup | 1–3 | Finding Floon, Trollskull Alley | 6–10 | Who are these people, and what have they stumbled into? |
+| II | The Investigation | 3–4 | Fireball!, Gralhund Villa | 4–8 | Who killed Dalakhar, and what was he carrying? |
+| III | The Heists | 4–7 | Faction Outposts, Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire, Kolat Towers | 16–28 | Can the PCs recover all three Eyes before any faction assembles them? |
+| IV | The Vault | 7 | Vault of Dragons | 3–5 | Who claims the Dragons of Waterdeep — and at what cost? |
 
 Total estimated sessions: 29–51. Roughly 7–13 months of weekly play.
 
-*One prose paragraph per Act:* Describes the Act's dramatic arc, tone, and what it asks of the players — not a plot summary, but a characterization of the experience. How Act I feels different from Act III. What changes between the investigation phase and the heist phase. What Arc J is emotionally, not mechanically.
+*One prose paragraph per Act:* Describes the Act's dramatic arc, tone, and what it asks of the players — not a plot summary, but a characterization of the experience. How Act I feels different from Act III. What changes between the investigation phase and the heist phase. What **Vault of Dragons** is emotionally, not mechanically.
 
-*Milestone Points table:* One or two Milestone Points per arc, keyed to specific narrative achievements rather than monster kills. The full progression table lives in the final document. Key pacing note: Level 4 is reached in Gralhund Villa when the party recovers the Stone of Golorr — the Fireball investigation builds toward that moment; Gralhund Villa is where it pays off.
+*Milestone Points table:* One or two Milestone Points per quest, keyed to specific narrative achievements rather than monster kills. The full progression table lives in the final document. Key pacing note: Level 4 is reached in Gralhund Villa when the party recovers the Stone of Golorr — the Fireball investigation builds toward that moment; Gralhund Villa is where it pays off.
 
 **Tone:** Structural and practical. This is the section a DM consults when deciding whether this campaign fits their group and schedule.
 

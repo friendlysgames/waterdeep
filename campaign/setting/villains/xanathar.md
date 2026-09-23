@@ -14,7 +14,7 @@
 |-------|------|-------------|----------|
 | 1 | The Paranoid Tyrant | Acts I–II | Calm control punctuated by administrative violence; the PCs are inside a system whose center they haven't identified |
 | 2 | The Wounded God | Act III | Paranoia spiking to full-body vigilance; PCs specifically identified; everything implies conspiracy |
-| 3 | The Cornered Monster | Arc F | Volcanic and occasionally lucid; all safeguards failed; the goldfish is the only consistent anchor |
+| 3 | The Cornered Monster | **Xanathar's Lair** | Volcanic and occasionally lucid; all safeguards failed; the goldfish is the only consistent anchor |
 
 *Phase triggers*
 - Phase 1 → 2: PCs steal an Eye, raid a Guild location, or free a significant prisoner
@@ -35,7 +35,7 @@
 
 **Goals**
 
-1. **Acquire the Vault of Dragons** — wants the gold as proof of supremacy, not primarily for wealth; method: recover the Stone, use the three Eyes, open the vault; contingency: pursue whoever has it; connects to Arc F
+1. **Acquire the Vault of Dragons** — wants the gold as proof of supremacy, not primarily for wealth; method: recover the Stone, use the three Eyes, open the vault; contingency: pursue whoever has it; connects to **Xanathar's Lair**
 2. **Eliminate Manshoon** — the splinter cell incursion is a personal insult; method: Guild response teams targeting Zhentarim operations; no contingency (this failure is part of what drives Phase 3)
 3. **Maintain the Undercity** — Skullport supply lines fund the Guild; method: Ahmaergo manages this operationally; connects to Mad Mage integration
 
@@ -52,6 +52,6 @@
 
 ## Cross-References
 
-- [Arc F: Xanathar's Lair](../../structure/arc-f-xanathars-lair.md) — heist arc featuring Xanathar directly
-- [Appendix A: NPC Roster](../../structure/appendix-a-npc-roster.md) — full profiles for Ahmaergo, Nihiloor, Nar'l Xibrindas
-- [Appendix E: Villain Factions](../../structure/appendix-e-villain-factions.md) — operational detail, response teams, escalation
+- [Xanathar's Lair](../../structure/arc-f-xanathars-lair.md) — heist quest featuring Xanathar directly
+- [Notable Figures](../notable-figures/) — full profiles for Ahmaergo, Nihiloor, Nar'l Xibrindas
+- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — operational detail, response teams, escalation; see also [Xanathar's Guild](../organizations/08-xanathars-guild.md)
