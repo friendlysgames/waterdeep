@@ -32,7 +32,7 @@ The factions know things the PCs don't. Response teams, surveillance operations,
 
 The campaign's central plot runs through a chain of objects, each one gatekeeping the next.
 
-**The Stone of Golorr** — an aboleth creation, held by Xanathar in his lair. The Stone can name the location of Neverember's Vault, but Neverember blinded it by removing three Eyes before losing control of it. Without all three Eyes seated in the Stone, it reveals nothing useful.
+**The Stone of Golorr** — an aboleth creation. At campaign start it is in Dalakhar's possession; Dalakhar was a rock gnome spy in Neverember's employ, carrying the Stone to Trollskull Manor when the fireball killed him. The Gralhunds recovered it from the blast site. The party acquires it during **Gralhund Villa**. The Stone can name the location of Neverember's Vault, but Neverember blinded it by removing three Eyes before losing control of it. Without all three Eyes seated in the Stone, it reveals nothing useful.
 
 **Eye #1** — formerly held by Manshoon's Zhentarim, who stole it from Protector's Enclave in Neverwinter. Xanathar killed the Zhentarim envoys who brought it to him and seized the Eye. It now resides in Xanathar's Lair sanctum.
 
@@ -46,23 +46,23 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 | Faction | What They Know | What They Have | What They Need |
 |---|---|---|---|
-| Xanathar's Guild | Stone is blinded; needs three Eyes; Zhentarim had one Eye | Stone of Golorr + Eye #1 | Eyes #2 and #3 |
-| Manshoon's Zhentarim | Stone is with Xanathar; Cassalanters have an Eye | Nothing | Stone + any two Eyes |
-| The Cassalanters | Vault is beneath Brandath Crypt; Stone's location known | Eye #2 | Stone + Eyes #1 and #3 |
-| Bregan D'Aerthe | General awareness of Enigma; nimblewright trail leads to Gralhunds | Eye #3 | Stone + Eyes #1 and #2 |
+| Xanathar's Guild | Dalakhar was moving the Stone; Stone is now in circulation; does not know the Eyes' significance or the vault's location | Eye #1 (in Sylgar's bowl; Xanathar does not know what it is) | The Stone; the Eyes' significance |
+| Manshoon's Zhentarim | The Stone exists and unlocks great wealth; Urstul Floxin's team was tracking Dalakhar; does not yet know the Stone reached the Gralhunds | Nothing | Stone + any two Eyes |
+| The Cassalanters | Vault is beneath Brandath Crypt; does not yet know the Stone is in play or in circulation | Eye #2 | Stone + Eyes #1 and #3 |
+| Bregan D'Aerthe | Most complete picture via Nar'l Xibrindas; knows the Stone, the Eyes, and the vault; waiting to see which party proves most useful | Eye #3 | Stone + Eyes #1 and #2 |
 
 ## Faction Escalation
 
-Each faction moves through five escalation stages when the PCs interfere with their operations. Stages advance when a previous stage fails or when the faction's intelligence confirms the PCs are a serious threat. Reaching full mobilization usually requires the PCs to hit multiple faction assets first.
+Each faction moves through four escalation tiers when the PCs interfere with their operations. Tiers advance when a previous tier's response fails or when the faction's intelligence confirms the PCs are a serious threat. Reaching Lockdown usually requires the PCs to hit multiple faction assets first.
 
-| Faction | Observation | Investigation | Response Teams | Direct Confrontation | Full Mobilization |
-|---|---|---|---|---|---|
-| **Xanathar's Guild** | Gazer scouts; Nihiloor processes captured intelligence | Tier 1: Gorath's duergar deployed as a warning | Tier 2: Korgstrod's heavy team (half-ogre + gazer) | Tier 3: Noska's bugbear squad with orders to eliminate | Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
-| **Manshoon's Zhentarim** | Flying snake courier network; Agorn and Avareen's field reports | Avareen identifies the threat; Urstul reviews field reports | Agorn or Vevette's team; orders are to capture, not kill | Urstul's team if the others fail; Manshoon issues personal directives by flying snake | Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
-| **The Cassalanters** | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise | Willifort gathers close intelligence on PC identities and contacts | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode | Bearded devil called up; Willifort targets a PC ally to create leverage | Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force |
-| **Bregan D'Aerthe** | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops | Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred | Fel'rekt, Krebbyg, and Soluun deployed together | Jarlaxle intervenes personally, always with an offer rather than a fight |
+| Faction | Unaware | Suspicious | Alert | Lockdown |
+|---|---|---|---|---|
+| **Xanathar's Guild** | Normal operations | Gazer scouts; Nihiloor processes captured intelligence. First team (Gorath's duergar) deployed as a warning | Second team (Korgstrod's heavy team (half-ogre + gazer)) | Third team (Noska's bugbear squad with orders to eliminate). Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
+| **Manshoon's Zhentarim** | Normal operations | Flying snake courier network; Agorn and Avareen's field reports. Avareen identifies the threat; Urstul reviews field reports | Agorn or Vevette's team; orders are to capture, not kill | Urstul's team if the others fail; Manshoon issues personal directives by flying snake. Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
+| **The Cassalanters** | Normal operations | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise. Willifort gathers close intelligence on PC identities and contacts | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode | Bearded devil called up; Willifort targets a PC ally to create leverage. Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force |
+| **Bregan D'Aerthe** | Normal operations | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops. Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred | Fel'rekt, Krebbyg, and Soluun deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight |
 
-**Xanathar.** Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost may jump straight to Tier 2. Anything involving Sylgar brings Tier 3 without warning.
+**Xanathar.** Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost advances directly from Suspicious to Alert. Anything involving Sylgar brings Lockdown without warning.
 
 **Manshoon.** Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat Towers may operate for sessions before he escalates past response teams. His preference for capturing over killing creates tactical openings.
 
@@ -76,7 +76,7 @@ The factions compete with each other independently of the PCs. These operations 
 
 | Faction Pair | Posture | Active Operations | Key Documents |
 |---|---|---|---|
-| **Xanathar vs. Manshoon** | Cold war — hostile but controlled | Manshoon knows Xanathar killed his envoys and holds both the Stone and Eye #1. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects a mole in his organization; he is hunting in the wrong direction. | *Report to Agorn Fuoco* |
+| **Xanathar vs. Manshoon** | Cold war — hostile but controlled | Manshoon knows Xanathar killed his envoys and kept Eye #1. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects a mole in his organization; he is hunting in the wrong direction. | *Report to Agorn Fuoco* |
 | **Xanathar vs. Cassalanters** | Parallel competition — no direct contact | Xanathar has intelligence on the Seven Masks Theater but no active operation against the Cassalanters. If the Cassalanters go hostile to the PCs, Seffia's team enters the Xanathar lair heist as a competing faction. | None currently active |
 | **Xanathar vs. Bregan D'Aerthe** | Cautious rivalry — deep infiltration | Nar'l Xibrindas, Xanathar's own advisor, reports to Jarlaxle by *Sending* spell — Bregan D'Aerthe's best intelligence source on Guild movements. Xanathar suspects a mole; he has not identified Nar'l. Fel'rekt observed the Gralhund Villa operation. Bregan D'Aerthe purchases equipment through Grinda Garloth, a dependency neither faction has acknowledged. | *Correspondence with Nar'l Xibrindas* (Sewer Hideout), *A Recommendation for Materiel* (Fel'rekt), *Report on the Seven Masks Theater* (Xanathar's Lair) |
 | **Manshoon vs. Cassalanters** | Mutual distrust — no contact | Seffia approached Vevette Blackwater to open a communication channel. Vevette refused, suspecting a trap. No further contact from either side. | *Seffia Naelryke's Visiting Card* (Vevette Blackwater) |

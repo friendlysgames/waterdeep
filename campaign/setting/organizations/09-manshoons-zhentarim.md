@@ -81,11 +81,10 @@ Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **aco
 
 | Tier | Behavior |
 |---|---|
-| Observation | Flying snake courier network; Agorn and Avareen's field reports |
-| Investigation | Avareen identifies the threat; Urstul reviews field reports |
-| Response Teams | Agorn or Vevette's team; orders are to capture, not kill |
-| Direct Confrontation | Urstul's team if the others fail; Manshoon issues personal directives by flying snake |
-| Full Mobilization | Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
+| Unaware | Normal operations |
+| Suspicious | Flying snake courier network; Agorn and Avareen's field reports. Avareen identifies the threat; Urstul reviews field reports |
+| Alert | Agorn or Vevette's team; orders are to capture, not kill |
+| Lockdown | Urstul's team if the others fail; Manshoon issues personal directives by flying snake. Manshoon's simulacrum engages; Sidra locks down Kolat Towers |
 
 Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat Towers may operate for sessions before he escalates past response teams. His preference for capturing over killing creates tactical openings.
 

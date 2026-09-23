@@ -131,11 +131,10 @@ Malcolm Brizzenbright haunts the building. He shares his knowledge with PCs who 
 
 | Tier | Behavior |
 |------|----------|
-| Observation | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops. |
-| Investigation | Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem. |
-| Response Teams | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred. |
-| Direct Confrontation | Fel'rekt, Krebbyg, and Soluun deployed together. |
-| Full Mobilization | Jarlaxle intervenes personally, always with an offer rather than a fight. |
+| Unaware | Normal operations. |
+| Suspicious | Nimblewright network harvests ambient intelligence; Fenerus drops messages at dead drops. Krebbyg reviews drops; Jarlaxle assesses whether the PCs are an asset or a problem. |
+| Alert | 1–2 drow gunslingers + drow escort; misdirection and non-lethal containment preferred. |
+| Lockdown | Fel'rekt, Krebbyg, and Soluun deployed together. Jarlaxle intervenes personally, always with an offer rather than a fight. |
 
 **Bregan D'Aerthe.** Against the PCs, Jarlaxle reaches for leverage before force. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 

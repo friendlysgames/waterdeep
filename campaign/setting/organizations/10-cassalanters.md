@@ -98,11 +98,10 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 
 | Tier | Behavior |
 |---|---|
-| Observation | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise |
-| Investigation | Willifort gathers close intelligence on PC identities and contacts |
-| Response Teams | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode |
-| Direct Confrontation | Bearded devil called up; Willifort targets a PC ally to create leverage |
-| Full Mobilization | Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force |
+| Unaware | Normal operations |
+| Suspicious | Imp surveillance from the Asmodean Shrine; Willifort tracks in disguise. Willifort gathers close intelligence on PC identities and contacts |
+| Alert | Seffia's team in passive mode; Seffia + Willifort combined in hostile mode |
+| Lockdown | Bearded devil called up; Willifort targets a PC ally to create leverage. Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force |
 
 The Cassalanters' escalation is binary. In passive mode they barely react. In hostile mode they skip to Willifort's full operation. The switch happens when the PCs refuse to help or are identified as a threat to the soul-pact plan.
 

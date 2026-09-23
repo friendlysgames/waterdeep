@@ -36,11 +36,11 @@ His agenda in the Grand Game is territorial. Xanathar already controls the vault
 
 Xanathar deploys response teams in escalating tiers. The first or second team the PCs encounter should carry *A Directive from Nar'l Xibrindas*, instructing the team leader to resupply at Grinda Garloth's. If it's the second encounter, the directive notes the PCs' previous success and names the fallen agents. That outfitted team carries a *potion of healing*, a *potion of greater healing*, and a *+1 weapon*.
 
-**Tier 1 — Gorath's Team.** Gorath leads 4 **duergar**. Sent when someone needs to be taught a lesson.
+**First Team — Gorath's Team.** Gorath leads 4 **duergar**. Sent when someone needs to be taught a lesson.
 
-**Tier 2 — Korgstrod's Team.** Korgstrod Uxgulm leads 3 **duergar**, a **half-ogre**, and a **gazer**. The half-ogre carries the *Orb Confectioners' Note*: the passphrase to the sewer hideout ("Eight small eyes." / "Around an ocular cake.").
+**Second Team — Korgstrod's Team.** Korgstrod Uxgulm leads 3 **duergar**, a **half-ogre**, and a **gazer**. The half-ogre carries the *Orb Confectioners' Note*: the passphrase to the sewer hideout ("Eight small eyes." / "Around an ocular cake.").
 
-**Tier 3 — Noska's Team.** Noska Ur'Gray leads 6 **bugbears** and a **gazer**. Sent when Xanathar is done sending messages and wants the problem gone.
+**Third Team — Noska's Team.** Noska Ur'Gray leads 6 **bugbears** and a **gazer**. Sent when Xanathar is done sending messages and wants the problem gone.
 
 ## Outposts
 
@@ -96,13 +96,12 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 
 | Tier | Behavior |
 |---|---|
-| Observation | Gazer scouts; Nihiloor processes captured intelligence |
-| Investigation | Tier 1: Gorath's duergar deployed as a warning |
-| Response Teams | Tier 2: Korgstrod's heavy team (half-ogre + gazer) |
-| Direct Confrontation | Tier 3: Noska's bugbear squad with orders to eliminate |
-| Full Mobilization | Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
+| Unaware | Normal operations |
+| Suspicious | Gazer scouts; Nihiloor processes captured intelligence. First team (Gorath's duergar) deployed as a warning |
+| Alert | Second team (Korgstrod's heavy team (half-ogre + gazer)) |
+| Lockdown | Third team (Noska's bugbear squad with orders to eliminate). Xanathar takes personal interest; lair incursions trigger Eye-ray responses |
 
-Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost may jump straight to Tier 2. Anything involving Sylgar brings Tier 3 without warning.
+Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost advances directly from Suspicious to Alert. Anything involving Sylgar brings Lockdown without warning.
 
 ## Revelation List
 

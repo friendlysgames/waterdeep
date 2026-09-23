@@ -21,17 +21,16 @@ What each villain faction knows before the PCs do anything:
 
 *Escalation Tiers*
 
-For each villain faction: how their posture toward the PCs shifts across five tiers.
+How each villain faction's posture toward the PCs shifts across four tiers.
 
 | Tier | Faction posture | Trigger | What the DM does |
 |------|-----------------|---------|------------------|
-| 1 — Unaware | Faction doesn't know the PCs exist | Campaign start | Background activity only |
-| 2 — Observed | Faction has registered the PCs as a variable | PCs appear at a faction-adjacent scene | Nar'l/intelligence assets begin tracking; no action taken |
-| 3 — Investigated | Faction is actively learning about the PCs | PCs hit a faction asset or acquire something faction wants | Response team deployed; clue-seeding props in play |
-| 4 — Engaged | Faction has made the PCs a priority problem | PCs have cost the faction significantly or hold an Eye | Lieutenant takes personal interest; job offer OR assassination attempt depending on faction |
-| 5 — Confrontation | Faction is in direct conflict with PCs | PCs have broken an agreement, stolen from a principal, or blocked a core goal | Full mobilization; faction leader attention; Arc-level consequences |
+| 1 — Unaware | Faction doesn't know the PCs exist as a threat; normal operations only | Campaign start | Background activity only |
+| 2 — Suspicious | Faction has noticed unexplained losses; observation and investigation under way | PCs appear at a faction-adjacent scene | Intelligence assets begin tracking; no action taken |
+| 3 — Alert | Faction knows the PCs are active; response teams deployed | PCs hit a faction asset or acquire something faction wants | Response team deployed; clue-seeding props in play |
+| 4 — Lockdown | Full security posture, lair defenses hardened; direct confrontation and full mobilization | PCs have cost the faction significantly, hold an Eye, broken an agreement, or blocked a core goal | Lieutenant takes personal interest; job offer OR assassination attempt depending on faction; full mobilization; faction leader attention; Arc-level consequences |
 
-Each faction reaches these tiers at different paces. Xanathar escalates faster and more irrationally. Jarlaxle almost never reaches tier 4 without choosing to. The Cassalanters prefer tier 3 indefinitely — the less visible their pursuit, the better.
+Each faction reaches these tiers at different paces. Xanathar escalates faster and more irrationally. Jarlaxle almost never reaches Lockdown without choosing to. The Cassalanters prefer Alert indefinitely — the less visible their pursuit, the better.
 
 *Inter-Faction Conflict (independent of PCs)*
 
@@ -65,4 +64,4 @@ Not every escalation resolves through combat or confrontation. Guidance on:
 - [Structural Rules](structural-rules.md) — faction response team mechanics and escalation props
 - [Setting: Grand Game](../../setting/grand-game.md) — in-world texture of how power moves
 - [Setting: Villains](../../setting/villains/) — personality phases and goals for each villain faction
-- Appendix E: full escalation framework and revelation lists
+- **Running the Villains** (GM Guide): escalation table and inter-faction operations
