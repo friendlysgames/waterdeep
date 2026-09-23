@@ -2,11 +2,11 @@
 
 ## The Cassalanter Thread
 
-***Why this mission exists.*** The Archer Above is fundamentally a setup mission for Arc G. Its primary narrative job — finding a killer and stopping three additional murders — is real and satisfying on its own terms, but its secondary job is more structurally important: generating the Alliance's Cassalanter intelligence package before Arc G begins.
+***Why this mission exists.*** The Archer Above is fundamentally a setup mission for **Cassalanter Villa**. Its primary narrative job — finding a killer and stopping three additional murders — is real and satisfying on its own terms, but its secondary job is more structurally important: generating the Alliance's Cassalanter intelligence package before **Cassalanter Villa** begins.
 
-The partial address in Vhaspar's belongings is the mission's critical payload. It is not highlighted or dramatized. It sits among his effects alongside a sketch and 320 gp, waiting for someone to make a DC 15 check. The party that makes this check and reports it to Jalester gets advance knowledge of the Cassalanter Villa service entrance timing before Arc G reconnaissance begins. The party that misses it or does not report it loses that advantage.
+The partial address in Vhaspar's belongings is the mission's critical payload. It is not highlighted or dramatized. It sits among his effects alongside a sketch and 320 gp, waiting for someone to make a DC 15 check. The party that makes this check and reports it to Jalester gets advance knowledge of the Cassalanter Villa service entrance timing before **Cassalanter Villa** reconnaissance begins. The party that misses it or does not report it loses that advantage.
 
-This design is deliberate. The Three Clue Rule applies to Arc G's entry points — the service entrance timing is one of three ways the party can learn about it. But it is the cleanest way, because it comes from direct investigation in a mission they were already running, rather than from dedicated reconnaissance. The reward for thoroughness should feel like competence pays off, not like you found the hidden lever.
+This design is deliberate. The Three Clue Rule applies to **Cassalanter Villa**'s entry points — the service entrance timing is one of three ways the party can learn about it. But it is the cleanest way, because it comes from direct investigation in a mission they were already running, rather than from dedicated reconnaissance. The reward for thoroughness should feel like competence pays off, not like you found the hidden lever.
 
 ## Vhaspar as a Moral Object
 

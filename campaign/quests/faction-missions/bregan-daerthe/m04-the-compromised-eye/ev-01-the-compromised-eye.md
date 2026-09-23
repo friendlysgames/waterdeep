@@ -55,11 +55,11 @@ Get Nar'l out of Xanathar's lair before anyone notices he is gone. He returns to
 
 Two **Spies** guard the main junction. Group **DC 14 Dexterity (Stealth)** check to move with Nar'l past their patrol route. On failure, one sentry investigates toward the sound; on a second failure, both are alerted and attack.
 
-Extraction removes Nar'l from danger permanently. His value as an inside source is gone. He is alive, safe, and available — in Arc F and Arc I — as a guide who knows the lair layout from three years of observation.
+Extraction removes Nar'l from danger permanently. His value as an inside source is gone. He is alive, safe, and available — in **Xanathar's Lair** and **Kolat Towers** — as a guide who knows the lair layout from three years of personal observation.
 
 **Option C — Discredit Ahmaergo's Source**
 
-The party inserts someone into Xanathar's Guild's outer organization — via Arc E contacts or a **DC 16 Charisma (Deception)** insertion — and discredits the Watch informant thread before Ahmaergo can formalize the investigation.
+The party inserts someone into Xanathar's Guild's outer organization — via **Faction Outposts** contacts or a **DC 16 Charisma (Deception)** insertion — and discredits the Watch informant thread before Ahmaergo can formalize the investigation.
 
 Discrediting the thread requires identifying which informant Ahmaergo is using, constructing a counter-narrative that exposes that informant as unreliable, and delivering it through Guild channels without the delivery itself appearing suspicious. Each step is an independent check: **DC 13 Intelligence (Investigation)** to identify the informant, **DC 14 Charisma (Deception or Persuasion)** to construct the counter-narrative, and **DC 13 Dexterity (Stealth)** group check to deliver it through the outer org without exposure.
 
@@ -68,26 +68,26 @@ On full success: Xanathar's internal investigation closes, Nar'l returns to full
 > **[GM]**
 >
 > #### What Happens If the Party Kills Nar'l
-> Killing Nar'l is an action against the mission brief. Krebbyg is quiet when told. He says: "That was not the instruction." The Eliminated flag is set True. Jarlaxle does not arrange the private dinner. The mission is technically complete — Xanathar's investigation of Nar'l ends because Nar'l is gone — but Jarlaxle's assessment of the party drops significantly. This affects his openness in Mission 5 and his posture in Arc H.
+> Killing Nar'l is an action against the mission brief. Krebbyg is quiet when told. He says: "That was not the instruction." The Eliminated flag is set True. Jarlaxle does not arrange the private dinner. The mission is technically complete — Xanathar's investigation of Nar'l ends because Nar'l is gone — but Jarlaxle's assessment of the party drops significantly. This affects his openness in Mission 5 and his posture in **Sea Maidens Faire**.
 
 ### Concluding the Event
 
 #### Nar'l Active: True / False
 
-Record whether the party allowed Nar'l Xibrindas to continue operating as a double agent (Options A or C on success). This flag is read by **Arc F — Xanathar's Lair**: if True, Nar'l is still in place and can be leveraged as an intel source inside the Guild during the heist operation.
+Record whether the party allowed Nar'l Xibrindas to continue operating as a double agent (Options A or C on success). This flag is read by **Xanathar's Lair**: if True, Nar'l is still in place and can be leveraged as an intel source inside the Guild during the heist operation.
 
 #### Nar'l Extracted: True / False
 
-Record whether the party extracted Nar'l from his position and brought him safely out of the sewer system (Option B). If True, Nar'l Xibrindas is available as a direct information source for **Arc F** and **Arc I**; he knows Nihiloor's patrol patterns and the lair's eastern access routes from three years of personal observation.
+Record whether the party extracted Nar'l from his position and brought him safely out of the sewer system (Option B). If True, Nar'l Xibrindas is available as a direct information source for **Xanathar's Lair** and **Kolat Towers**; he knows Nihiloor's patrol patterns and the lair's eastern access routes from three years of personal observation.
 
 #### Nar'l Eliminated: True / False
 
-Record whether the party killed or permanently removed Nar'l from play. If True, the Xanathar Guild loses its most accessible internal dissident; **Arc F** entry paths that rely on insider knowledge are unavailable, and Jarlaxle's posture toward the party in **Arc H** is cooler.
+Record whether the party killed or permanently removed Nar'l from play. If True, the Xanathar Guild loses its most accessible internal dissident; **Xanathar's Lair** entry paths that rely on insider knowledge are unavailable, and Jarlaxle's posture toward the party in **Sea Maidens Faire** is cooler.
 
 > **[GM]**
 >
 > **+2 Renown** if Nar'l is alive and Xanathar's immediate investigation is closed by any method.
-> **+1 Renown (supplementary)** if Nar'l is extracted alive via Option B. His placement inside Xanathar's Guild is lost, but he is available as a guide for Arc F.
+> **+1 Renown (supplementary)** if Nar'l is extracted alive via Option B. His placement inside Xanathar's Guild is lost, but he is available as a guide for **Xanathar's Lair**.
 > **No renown** if Nar'l is killed. The mission completes but Jarlaxle does not reward it.
 
 > **[GM]**

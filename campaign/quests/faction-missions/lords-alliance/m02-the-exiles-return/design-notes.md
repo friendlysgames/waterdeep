@@ -14,8 +14,8 @@ The three resolution paths for Lira are calibrated to feel like real choices rat
 
 His surrender at half HP is not cowardice. It is the same pragmatism. He does not die for either faction paying him. This is true of most people who work at Harko's level of the city's underworld, and the mission is designed to make that legible rather than heroic or contemptible.
 
-## Veralax and the Arc E Thread
+## Veralax and the Faction Outposts Thread
 
-***Planting the Splinter's Dock Ward presence.*** Veralax is a minor but structurally useful plant. If the party reports him to Jalester, Watch surveillance dismantles one Splinter communication channel before Arc E begins — and when the party encounters the Splinter response team in Arc E, one position is noticeably understaffed. This is a small but concrete reward for doing the investigative work correctly: the world is measurably different because they identified and reported an actionable address.
+***Planting the Splinter's Dock Ward presence.*** Veralax is a minor but structurally useful plant. If the party reports him to Jalester, Watch surveillance dismantles one Splinter communication channel before **Faction Outposts** begins — and when the party encounters the Splinter response team in **Faction Outposts**, one position is noticeably understaffed. This is a small but concrete reward for doing the investigative work correctly: the world is measurably different because they identified and reported an actionable address.
 
 The Thayan intelligence file — received if Harko is taken to Watch custody — is the other downstream payload. It seeds Mission 3 by giving the party a two-point reduction on locating Esloon. Both rewards exist to demonstrate that thoroughness has compounding value: not just renown on completion, but tangible advantages several missions later.

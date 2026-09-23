@@ -21,7 +21,7 @@
 - **Zalara Moonwhisper** — elven archivist at the Font of Knowledge; has found an administrative reference to the Vault of Dragons
 - **Farrak Iltimer** — dwarf gemcutter; knows about the Cassalanters' blood-red ruby order; good stories
 - **Serithka Ondal** — tiefling composer; noticed that "Erystian Demarne" recognized her Fiendish Legacy on sight
-- **Jelenn Urmbrusk** — Masked Lord (identity hidden); being blackmailed by Manshoon; her name surfaces again in Arc I
+- **Jelenn Urmbrusk** — Masked Lord (identity hidden); being blackmailed by Manshoon; her name surfaces again in **Kolat Towers**
 
 ## Dangers & Enemies
 - No combat triggers at the salon itself
@@ -33,4 +33,4 @@ A formal invitation from Remallia Haventree arrived at Trollskull Manor, accompa
 
 The impostor was Jarlaxle Baenre, attending as "Erystian Demarne, Luskan poet." He had already identified Mirt across the room and decided the party looked interesting. His disguise held against casual scrutiny; identifying him required combining two lines of evidence or a high Insight check. Whether the party named him or not, a calling card arrived at Trollskull Manor two days later.
 
-The salon was also an intelligence-gathering opportunity. Ten named guests carried threads relevant to Arc G (Cassalanter dye order, infernal contract context), the Vault of Dragons, the Splinter's Masked Lord compromises, and Mission 5's Corene Wyldath — none of them connected to each other on the surface.
+The salon was also an intelligence-gathering opportunity. Ten named guests carried threads relevant to **Cassalanter Villa** (Cassalanter dye order, infernal contract context), the Vault of Dragons, the Splinter's Masked Lord compromises, and Mission 5's Corene Wyldath — none of them connected to each other on the surface.

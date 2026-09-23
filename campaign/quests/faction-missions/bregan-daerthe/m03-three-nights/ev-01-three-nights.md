@@ -16,7 +16,7 @@
 
 **Ott Steeltoes** is a halfling in his fifties, wearing a fish-stained apron and iron restraints he cannot remove. He is not violent and will not attempt escape. He is worried about Sylgar — Xanathar's pet goldfish, whose care requires specific knowledge only Ott possesses — and he is not embarrassed about this. He will ask, on the first night, whether the fish eats a consistent schedule when he is not there. The question is genuine.
 
-Jarlaxle's three-night plan: each evening, Krebbyg visits Ott in the cellar and conducts a quiet conversation about Xanathar's lair. Ott, having decided he prefers to continue existing, answers questions about the panopticus blind spots, the beholder's daily routines, and which corridors Xanathar avoids when Sylgar is having a difficult day. He does not know he is providing intelligence for an Arc F operation. He is simply talking to someone who seems interested.
+Jarlaxle's three-night plan: each evening, Krebbyg visits Ott in the cellar and conducts a quiet conversation about Xanathar's lair. Ott, having decided he prefers to continue existing, answers questions about the panopticus blind spots, the beholder's daily routines, and which corridors Xanathar avoids when Sylgar is having a difficult day. He does not know he is providing intelligence for a **Xanathar's Lair** operation. He is simply talking to someone who seems interested.
 
 Xanathar sends escalating force each night. This is not a tactical decision — it is a beholder losing the ability to manage his fear about Sylgar. By the third night, rational allocation of resources has left the building.
 

@@ -17,7 +17,7 @@
 
 Mirt had a Harper-sympathetic druid cast a permanent Speak with Animals on Maxeene years ago as a favor. She has been gossiping freely to people she finds interesting ever since, which means her intelligence is informal, observational, and often more useful than structured reports. The Splinter does not know which Dock Ward horse is the asset. Vell is waiting for a Harper contact to identify the target for her — she has been in the hire-coach on Fillet Lane for two days.
 
-Maxeene is pulling a merchant's wagon on Fillet Lane this afternoon. The Shesstra Street address she names is a Manshoon Splinter safehouse. This feeds directly into the Arc E outpost seed for the Splinter's Trades Ward operation.
+Maxeene is pulling a merchant's wagon on Fillet Lane this afternoon. The Shesstra Street address she names is a Manshoon Splinter safehouse. This feeds directly into the **Faction Outposts** outpost seed for the Splinter's Trades Ward operation.
 
 ### Act 1 — Finding Maxeene
 
@@ -72,7 +72,7 @@ A **DC 12 Intelligence (Investigation)** check while she is describing the pale 
 >
 > #### Next Steps
 >
-> Mirt, when the party reports in: "She told you about Shesstra Street." Not a question. He does not elaborate on what he does with it. The Shesstra Street building is a Manshoon Splinter safehouse and one of the outpost seeds in **Arc E — Faction Outposts**.
+> Mirt, when the party reports in: "She told you about Shesstra Street." Not a question. He does not elaborate on what he does with it. The Shesstra Street building is a Manshoon Splinter safehouse and one of the outpost seeds in **Faction Outposts**.
 >
 > **Harper Mission 2 — The Dead Drop** becomes available when the party reaches Renown 3 and 3rd level.
 >

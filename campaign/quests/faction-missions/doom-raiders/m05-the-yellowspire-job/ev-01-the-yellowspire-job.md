@@ -16,7 +16,7 @@
 
 Yellowspire is narrow, four stories, operating as a private residence with shuttered windows and foot traffic patterns that do not match the cover. The concealed floor plate is a flagstone in the northeast corner of the ground floor, slightly lighter than the others — deliberate, so Splinter agents can identify it in the dark. The teleportation circle is always active. Pressing the floor plate before stepping into the circle deactivates the trigger rune for thirty seconds and allows safe transit. Stepping in without pressing it sends a silent signal to Kolat Towers; four agents arrive in ten minutes.
 
-The pass-amulet ledger is what Davil needs for Arc I. The three coded correspondence letters are what Tashlyn needs: they name Vevette Blackwater as Kolat Towers' coordinating officer and outline the next month's operational priorities.
+The pass-amulet ledger is what Davil needs for **Kolat Towers**. The three coded correspondence letters are what Tashlyn needs: they name Vevette Blackwater as Kolat Towers' coordinating officer and outline the next month's operational priorities.
 
 ### Surveillance
 
@@ -77,7 +77,7 @@ If the four Splinter agents arrive before the party exits: they emerge combat-re
 > **[GM]**
 >
 > **+2 Renown if** the pass-amulet ledger is recovered and delivered to Davil. He looks at it for a long time. Then: "We know where the amulets are. All of them. When you're ready for Kolat Towers — tell me a day before." He does not explain what he plans to do from outside.
-> **+1 Renown if** the three correspondence letters are recovered. They confirm Vevette Blackwater's operational role. Tashlyn adds this to her file and shares a summary with the party: Vevette coordinates the strike team deployments, which makes her a priority target in Arc I.
+> **+1 Renown if** the three correspondence letters are recovered. They confirm Vevette Blackwater's operational role. Tashlyn adds this to her file and shares a summary with the party: Vevette coordinates the strike team deployments, which makes her a priority target in **Kolat Towers**.
 > **+1 Renown (bonus) if** the exit is clean — no Splinter agent can confirm who broke in, and Yellowspire's security posture does not change in response. Davil receives the ledger and Manshoon's cell never learns what was taken.
 
 > **[GM]**
@@ -90,7 +90,7 @@ If the four Splinter agents arrive before the party exits: they emerge combat-re
 >
 > He folds the page and slides it across the table.
 >
-> > "That's Arc I's front door."
+> > "That's **Kolat Towers**' front door."
 >
 > **Doom Raiders Mission 6 — Ziraj's Last Hunt** becomes available when the party reaches Renown 12 and character level 7.
 >

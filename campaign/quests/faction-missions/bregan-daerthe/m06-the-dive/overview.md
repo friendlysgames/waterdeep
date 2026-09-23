@@ -29,4 +29,4 @@ Krebbyg arrived at Trollskull Manor near midnight with four potions of water bre
 
 The operation had three parts. Getting into the water without the Guild's surface lookout sending a warning bird. Reaching the wreck and the Eye before the Guild divers, or taking it from them if they arrived first. Getting back to the surface with Eye #3 when both the Guild team and the Scarlet Marpenoth's crew might be watching.
 
-If the party recovered the Eye cleanly, Jarlaxle knew within twenty-four hours through his harbor network. If the Guild team escaped or left witnesses, Xanathar learned that Bregan D'aerthe was operating at the anchorage — and the escalation that followed fed directly into Arc H.
+If the party recovered the Eye cleanly, Jarlaxle knew within twenty-four hours through his harbor network. If the Guild team escaped or left witnesses, Xanathar learned that Bregan D'aerthe was operating at the anchorage — and the escalation that followed fed directly into **Sea Maidens Faire**.

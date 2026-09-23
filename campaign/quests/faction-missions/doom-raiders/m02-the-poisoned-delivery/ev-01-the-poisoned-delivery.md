@@ -91,7 +91,7 @@ The message is from **Tashlyn Yafeera**. There is no explanation, no name, and n
 >
 > If the party warned Esvele or refused the delivery and told Davil before his arrest: he thanks them quietly, once, before the Watch comes — and says that whoever packed those potions did it with access to the Network's supplier chain. He does not say Skeemo's name. He has not confirmed it yet.
 >
-> Esvele Rosznar, warned or not deceived, remembers the party's faces. She is the Black Viper, and the party may encounter her again in Arc G, where her parallel heist at Cassalanter Villa creates its own intersection point. A party that warned her has one interaction that starts warmer than it otherwise would.
+> Esvele Rosznar, warned or not deceived, remembers the party's faces. She is the Black Viper, and the party may encounter her again in **Cassalanter Villa**, where her parallel heist creates its own intersection point. A party that warned her has one interaction that starts warmer than it otherwise would.
 >
 > **Doom Raiders Mission 3 — The Missing Snobeedle** becomes available when the party reaches Renown 3 and character level 4.
 >

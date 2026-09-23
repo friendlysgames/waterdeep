@@ -62,7 +62,7 @@ The Guild representatives he names become Watch targets. It is not immediate —
 >
 > Vajra now knows Nihiloor's network has self-sustaining assets placed before the Spawning Pool was destroyed. She begins auditing the Watch's other district clerkships — quietly, on her own authority.
 >
-> The party has bought Waterdeep approximately four months of clean Watch legal proceedings. This matters in Arc J, where Watch cooperation around the vault district is influenced by whether the legal apparatus has been compromised.
+> The party has bought Waterdeep approximately four months of clean Watch legal proceedings. This matters in **Vault of Dragons**, where Watch cooperation around the vault district is influenced by whether the legal apparatus has been compromised.
 >
 > **Force Grey Mission 6 — Smoke in the Tower** becomes available when the party reaches Renown 14 and 7th level.
 >

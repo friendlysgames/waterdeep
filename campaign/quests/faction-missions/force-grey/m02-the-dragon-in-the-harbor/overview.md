@@ -29,4 +29,4 @@ After several minutes of enthusiastic negotiation, Zelifarn mentions conversatio
 
 The submarine is a Bregan D'aerthe operational vessel. Vajra's reaction to this intelligence is the best evidence of what it means: she goes quiet, picks up a pen, and starts asking very specific questions about dimensions and attachment method.
 
-Zelifarn resurfaces in **Arc H — Sea Maidens Faire**, where parties who established a genuine relationship with him have prior standing as an approach vector and a moral thread.
+Zelifarn resurfaces in **Sea Maidens Faire**, where parties who established a genuine relationship with him have prior standing as an approach vector and a moral thread.

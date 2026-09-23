@@ -10,7 +10,7 @@ This calibration is intentional. The faction's later missions — protecting Nar
 
 ## The Scarlet Marpenoth Access Path
 
-***Planting the submarine before Arc H.*** The from-below approach path introduces the *Scarlet Marpenoth* as a location before Arc H names it directly. A party that used this route has already been inside — they know the hatch location, the lower deck layout, and that the submarine is accessible from below without alerting topside crew. In Arc H, this knowledge can serve as an entry advantage or a negotiation point.
+***Planting the submarine before Sea Maidens Faire.*** The from-below approach path introduces the *Scarlet Marpenoth* as a location before **Sea Maidens Faire** names it directly. A party that used this route has already been inside — they know the hatch location, the lower deck layout, and that the submarine is accessible from below without alerting topside crew. In **Sea Maidens Faire**, this knowledge can serve as an entry advantage or a negotiation point.
 
 The Scarlet Marpenoth's presence is not announced in the approach description. It is described as "a submarine shape attached to the *Eyecatcher*'s keel." The party can investigate further or not. The hatch not being locked from below is deliberate — Jarlaxle chose not to lock it.
 

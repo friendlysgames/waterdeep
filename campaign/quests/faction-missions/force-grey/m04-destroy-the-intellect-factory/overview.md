@@ -28,4 +28,4 @@ At the Tower, potions are on the desk: one *potion of psychic resistance* per ch
 
 The mission has two phases: navigating to the Spawning Pool, and destroying it. The navigation route crosses active areas where encounters are probable. Nihiloor may or may not be in the Extraction Chamber when the party passes through it. Three methods destroy the pool. The escape is the final challenge.
 
-**Nihiloor appears again in Arc F** if it escaped this mission; parties who drove it out here will recognize it. If it was destroyed or cornered here, it is gone — which affects whether Xanathar's mind-control network has remaining operational intelligence in the city.
+**Nihiloor appears again in Xanathar's Lair** if it escaped this mission; parties who drove it out here will recognize it. If it was destroyed or cornered here, it is gone — which affects whether Xanathar's mind-control network has remaining operational intelligence in the city.

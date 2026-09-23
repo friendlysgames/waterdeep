@@ -2,9 +2,9 @@
 
 ## Eye #3 as a Mission Payload
 
-***The Eye that determines who has leverage.*** This mission is the BD chain's most consequential moment for Arc H. If Eye 3 Recovered by BD is True, Jarlaxle enters Arc H holding all three Eyes — two from the other faction heists (F and G) and one his people just secured. That posture gives the alliance path real weight: the party can negotiate from Jarlaxle's strength rather than arguing him into cooperation. If False, Eye #3 is in Guild hands, and Arc H confronts Jarlaxle with a deficiency rather than a position. Both versions of Arc H are playable; the mission determines which version the party walks into.
+***The Eye that determines who has leverage.*** This mission is the BD chain's most consequential moment for **Sea Maidens Faire**. If Eye 3 Recovered by BD is True, Jarlaxle enters **Sea Maidens Faire** holding all three Eyes — two from the other lair heists (Xanathar's Lair and Cassalanter Villa) and one his people just secured. That posture gives the alliance path real weight: the party can negotiate from Jarlaxle's strength rather than arguing him into cooperation. If False, Eye #3 is in Guild hands, and **Sea Maidens Faire** confronts Jarlaxle with a deficiency rather than a position. Both versions of **Sea Maidens Faire** are playable; the mission determines which version the party walks into.
 
-The flag is intentionally named from Bregan D'aerthe's perspective rather than the party's — "Eye 3 Recovered by BD" rather than "Eye 3 Recovered." This is because Arc H's consequence is about institutional leverage, not personal accomplishment. The party did the work; what Arc H cares about is who holds the stone.
+The flag is intentionally named from Bregan D'aerthe's perspective rather than the party's — "Eye 3 Recovered by BD" rather than "Eye 3 Recovered." This is because **Sea Maidens Faire**'s consequence is about institutional leverage, not personal accomplishment. The party did the work; what **Sea Maidens Faire** cares about is who holds the stone.
 
 ## Krebbyg's Exposure
 
@@ -16,8 +16,8 @@ The profile callout is included because the party has now worked with Krebbyg fo
 
 ***Concrete coordination in an environment that prevents communication.*** The rope signals (one slow tug / two quick / three rapid) are provided as concrete, usable mechanics rather than a narrative gesture toward coordination. Underwater operations that depend on surface coordination fail interestingly when the communication breaks — the party misses a signal, or the Guild boat cuts the rope, or Krebbyg has to give the emergency signal and the party has to decide how quickly they can actually surface with the Eye in hand. The signals are not decoration; they are a resource the DM can threaten.
 
-## The Arc H Bridge
+## The Sea Maidens Faire Bridge
 
-***What the chain delivers.*** The BD mission chain ends here and hands its flags directly to Arc H. The four flags produced — Eye 3 Recovered by BD, and the three Nar'l flags from Mission 4 — collectively describe what Jarlaxle is holding and who he has lost when Arc H begins. A party that completed every BD mission with maximum success approaches Jarlaxle in Arc H from a position of demonstrated competence, mutual familiarity, and operational trust that has been built over six missions. Jarlaxle will notice. He has noticed everything.
+***What the chain delivers.*** The BD mission chain ends here and hands its flags directly to **Sea Maidens Faire**. The four flags produced — Eye 3 Recovered by BD, and the three Nar'l flags from Mission 4 — collectively describe what Jarlaxle is holding and who he has lost when **Sea Maidens Faire** begins. A party that completed every BD mission with maximum success approaches Jarlaxle in **Sea Maidens Faire** from a position of demonstrated competence, mutual familiarity, and operational trust that has been built over six missions. Jarlaxle will notice. He has noticed everything.
 
 A party that failed M6 approaches the same table with Jarlaxle knowing the Guild is aware of his harbor operations, Eye #3 is in Xanathar's hands, and the alliance he was building with the party did not succeed on its most important test. That is a different conversation, and it is worth running.

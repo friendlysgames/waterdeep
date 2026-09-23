@@ -79,10 +79,10 @@ The Mages lead with *Fireball* in enclosed spaces if the party clusters; the Vet
 > Vajra formally names the party **Force Grey Commanders**. She does not make a speech about it. She gives each character a written commission — the Blackstaff's mark, their name, their standing — and says: "You have earned this."
 >
 > **Force Grey Commander status has two practical effects:**
-> - **Blackstaff Authority Extension:** Once per arc, the party can invoke the Blackstaff's authority to legitimize an otherwise-illegal action they needed to take to resolve a genuine arcane threat. Vajra covers it. She does not like being asked to use this and will say so clearly if it becomes habitual.
-> - **Tower Staff Access:** One mage from Blackstaff Tower's staff is available for one operation per arc — accompaniment, casting support, or specialized arcane analysis. The mage follows reasonable orders and will not perform suicidal assignments.
+> - **Blackstaff Authority Extension:** Once per quest, the party can invoke the Blackstaff's authority to legitimize an otherwise-illegal action they needed to take to resolve a genuine arcane threat. Vajra covers it. She does not like being asked to use this and will say so clearly if it becomes habitual.
+> - **Tower Staff Access:** One mage from Blackstaff Tower's staff is available for one operation per quest — accompaniment, casting support, or specialized arcane analysis. The mage follows reasonable orders and will not perform suicidal assignments.
 >
-> Vajra delivers the strike team intelligence to Laeral Silverhand in a meeting the party can attend. Laeral asks the party one question before the meeting ends: "Is there anything else I should know about Manshoon's operation?" The answer, at this point in the campaign, is yes. What the party chooses to share shapes the alliance structure available in **Arc I — Kolat Towers** and **Arc J — Vault of Dragons**.
+> Vajra delivers the strike team intelligence to Laeral Silverhand in a meeting the party can attend. Laeral asks the party one question before the meeting ends: "Is there anything else I should know about Manshoon's operation?" The answer, at this point in the campaign, is yes. What the party chooses to share shapes the alliance structure available in **Kolat Towers** and **Vault of Dragons**.
 >
 > #### Milestone: None
 >

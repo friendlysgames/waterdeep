@@ -51,7 +51,7 @@ A DC 14 Intelligence (Arcana or History) check reads the residue clearly: below 
 ### Concluding the Event
 
 #### Brandath Crypts Visited: True / False
-Record whether the party entered and explored the interior of the Brandath family crypts in the City of the Dead. This location is revisited in **Arc J — The Vault of Dragons**, where the Brandath Crypts serve as one approach path to the vault. Parties who explored here have prior knowledge of the crypt layout and the magical signature of the sealed floor.
+Record whether the party entered and explored the interior of the Brandath family crypts in the City of the Dead. This location is revisited in **Vault of Dragons**, where the Brandath Crypts serve as one approach path to the vault. Parties who explored here have prior knowledge of the crypt layout and the magical signature of the sealed floor.
 
 > **[GM]**
 >
@@ -59,7 +59,7 @@ Record whether the party entered and explored the interior of the Brandath famil
 >
 > Sir Ambrose Everdawn is a reliable minor contact in the City of the Dead from this point forward. He can be consulted on cemetery matters, aberrant creature patterns, and the legal standing of the northern section.
 >
-> Jeryth's message — "tell me the moment they open it" — is her first direct reference to the vault's eventual opening. It threads forward to **Arc J — The Vault of Dragons**, where she is already prepared to ward the opening when the party calls.
+> Jeryth's message — "tell me the moment they open it" — is her first direct reference to the vault's eventual opening. It threads forward to **Vault of Dragons**, where she is already prepared to ward the opening when the party calls.
 >
 > The 100 gp per character reward is paid by Melannor on behalf of the Enclave at the next meeting, without ceremony.
 >

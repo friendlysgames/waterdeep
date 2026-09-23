@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Quest Requirements
-> *Order of the Gauntlet Mission 6. Available at Renown 14 and character level 7. Follows Arc G resolution.*
+> *Order of the Gauntlet Mission 6. Available at Renown 14 and character level 7. Follows **Cassalanter Villa** resolution.*
 >
 > #### Difficulty
 > *A mission for 7th-level characters.*

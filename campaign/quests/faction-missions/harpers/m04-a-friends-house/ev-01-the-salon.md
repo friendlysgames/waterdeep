@@ -100,7 +100,7 @@ Here because Remallia maintains careful relations with the Watch. Blunt, a littl
 *What he knows:* The missing officer was Corene Wyldath's Watch contact (Mission 5). He does not know that. The file is cold.
 
 **Tessabrant Elamondra** — *Half-elf shipping merchant. Losing money and looking for quiet help.*
-Three shipments in four months redirected — the goods arrive, but to wrong buyers whose paperwork is pristine. She has been asking if anyone at the dinner knows anyone discreet. She mentions the Cassalanters have been buying unusual quantities of a specific imported dye. (True. It is used in a ritual in Arc G.)
+Three shipments in four months redirected — the goods arrive, but to wrong buyers whose paperwork is pristine. She has been asking if anyone at the dinner knows anyone discreet. She mentions the Cassalanters have been buying unusual quantities of a specific imported dye. (True. It is used in a ritual in **Cassalanter Villa**.)
 
 **Lord Aldric Talmost** — *Minor noble. Desperate to matter.*
 He has heard fragments about "the vault situation" from someone at his club and has been working it into every conversation for a week. A Cassalanter cousin told him the family had a significant windfall coming — "not from trade." He can be pumped with flattery (**DC 10 Charisma/Persuasion**). He does not know what it means. It is useful.
@@ -119,7 +119,7 @@ A Tethyrian human woman in her fifties. Precise in dress, deliberate in speech. 
 
 If a PC mentions the Zhentarim: she excuses herself within three minutes.
 
-*What she knows:* She knows the names of two other Masked Lords Manshoon is blackmailing. She will not say this tonight. Her name appears on the blackmail list the party finds at Kolat Towers in Arc I. A PC who met her here and makes a **DC 12 Intelligence** check recognizes the name immediately.
+*What she knows:* She knows the names of two other Masked Lords Manshoon is blackmailing. She will not say this tonight. Her name appears on the blackmail list the party finds in **Kolat Towers**. A PC who met her here and makes a **DC 12 Intelligence** check recognizes the name immediately.
 
 ### Concluding the Event
 

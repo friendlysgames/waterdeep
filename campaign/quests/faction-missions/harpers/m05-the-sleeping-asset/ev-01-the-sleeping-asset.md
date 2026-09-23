@@ -10,13 +10,13 @@
 > - She is found at her regular meeting point in the Trades Ward plaza — looking fine, saying all the right things.
 > - Detection requires sustained interaction, not a single roll; Detect Thoughts reveals the devourer is aware of the spell.
 > - Three resolution paths: extract the devourer, kill her, or use her as a double agent.
-> - The resolution determines what tactical intelligence reaches the Harpers for Arc F.
+> - The resolution determines what tactical intelligence reaches the Harpers for **Xanathar's Lair**.
 
 **Background (DM only)**
 
 Nihiloor implanted the intellect devourer twelve days ago. The devourer is using Corene as a surveillance asset: she has been attending Harper contact meetings and reporting everything back. She is not in distress. She is not a prisoner. She genuinely appears functional. Nothing about her surface behavior is wrong except for things that require close observation or specific diagnostics to notice.
 
-Nihiloor's devourers have touched three Harper assets total — this fact is in the Arc F briefing hooks, where Mirt offers tactical support for the lair heist if the party commits to eliminating Nihiloor. Corene's situation is the evidence behind that request.
+Nihiloor's devourers have touched three Harper assets total — this fact is in the **Xanathar's Lair** briefing hooks, where Mirt offers tactical support for the lair heist if the party commits to eliminating Nihiloor. Corene's situation is the evidence behind that request.
 
 The connection between Corene's devourer and Nihiloor is psychic. Detect Thoughts that penetrates below the surface layer reaches the devourer's monitoring function — and the devourer knows the spell is active the moment it is cast.
 
@@ -72,7 +72,7 @@ Grim. Mirt accepts it without comment when informed. The devourer-Corene reports
 
 **Leave Her in Place — Double Agent**
 
-The Harpers feed false information through her dead drop for the next tenday. Mirt plants one false piece of intelligence into Nihiloor's awareness: guard patrol timing, a dummy meeting location, or a name that does not exist. This intelligence is now inside Xanathar's lair before the party enters it in Arc F.
+The Harpers feed false information through her dead drop for the next tenday. Mirt plants one false piece of intelligence into Nihiloor's awareness: guard patrol timing, a dummy meeting location, or a name that does not exist. This intelligence is now inside Xanathar's lair before the party enters it in **Xanathar's Lair**.
 
 High risk: Nihiloor is intelligent and may detect the manipulation. If the planted information contradicts something he can verify independently, the deception collapses.
 
@@ -87,7 +87,7 @@ High risk: Nihiloor is intelligent and may detect the manipulation. If the plant
 >
 > #### Next Steps
 >
-> Resolving this mission activates the Renown 30+ Harper benefit: informants in Xanathar's Guild. If Corene is saved or used as a double agent, the Harpers provide one tactical intelligence package for **Arc F — Xanathar's Lair**: patrol schedule for one section of the lair, or the location of Nihiloor's lab. If she is killed, that intelligence is lost but the Splinter operation is revealed to Mirt, who passes it to Vajra Safahr. Force Grey takes a greater interest in Xanathar's lair and may be active there when the party enters.
+> Resolving this mission activates the Renown 30+ Harper benefit: informants in Xanathar's Guild. If Corene is saved or used as a double agent, the Harpers provide one tactical intelligence package for **Xanathar's Lair**: patrol schedule for one section of the lair, or the location of Nihiloor's lab. If she is killed, that intelligence is lost but the Splinter operation is revealed to Mirt, who passes it to Vajra Safahr. Force Grey takes a greater interest in Xanathar's lair and may be active there when the party enters.
 >
 > Mirt, after the resolution: "Three devourers. Three of ours. Nihiloor's been running an asset collection operation inside this city for months." He closes his notes. "When you go in — finish it."
 >

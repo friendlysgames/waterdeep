@@ -10,13 +10,13 @@
 > - A quiet approach catches Vhaspar at his table without a weapon drawn; a loud approach or forced door triggers a rooftop chase.
 > - Once caught, Vhaspar names Halek Farran under custody with minimal pressure — he wants Watch protection more than he wants loyalty to a client he never met in full.
 > - His belongings contain a partial Cassalanter Villa address: the mission's critical secondary payload.
-> - Identifying and reporting the address before Arc G is the most valuable action available in this mission.
+> - Identifying and reporting the address before **Cassalanter Villa** is the most valuable action available in this mission.
 
 **Background (DM only)**
 
 **Vhaspar Holmbridge**, 57, is a retired City Watch sharpshooter who served in the Dock Ward for twenty years. He was hired through a Cassalanter household intermediary named **Halek Farran** — a steward who handles sensitive errands for the Cassalanter family. Halek used three layers of buffer: a hire agency, a written instruction, a drop box. Vhaspar met Halek once, briefly, in a coffeehouse on Chandler Street, Sea Ward.
 
-The three victims were not faction operatives. They witnessed a money transfer six weeks ago in which a Cassalanter-hired fence paid a Xanathar Guild broker for ritual components connected to Arc G's infernal timeline. They saw it by accident. Halek was tasked with closing that loose end. Vhaspar took the contract for 400 gp. He is not ideologically motivated.
+The three victims were not faction operatives. They witnessed a money transfer six weeks ago in which a Cassalanter-hired fence paid a Xanathar Guild broker for ritual components connected to **Cassalanter Villa**'s infernal timeline. They saw it by accident. Halek was tasked with closing that loose end. Vhaspar took the contract for 400 gp. He is not ideologically motivated.
 
 Vhaspar has one name left on his list he has not acted on yet: a Dock Ward longshoreman whose sketch is in his belongings. He is willing to cooperate with Watch custody if it means he does not die. The partial Cassalanter Villa address in his room — on a scrap reading "...ilanter Villa, Sea Ward, side entrance gate" — is intelligence he did not know he was carrying. He received it as part of a second, never-executed contract from the same intermediary and kept it without reading it carefully.
 
@@ -72,9 +72,9 @@ In Watch custody or while the party holds him, Vhaspar gives up **Halek Farran**
 >
 > #### The Cassalanter Villa Address — Critical Secondary Payload
 >
-> Reporting the partial address to Jalester before Arc G begins is the most valuable action available in this mission. Jalester passes it to the Watch's Criminal Intelligence division. Within a week they compile a basic dossier: Halek Farran's name, the Watch guard rotation at Cassalanter Villa's service entrance, and a sketch of the villa's walled exterior.
+> Reporting the partial address to Jalester before **Cassalanter Villa** begins is the most valuable action available in this mission. Jalester passes it to the Watch's Criminal Intelligence division. Within a week they compile a basic dossier: Halek Farran's name, the Watch guard rotation at Cassalanter Villa's service entrance, and a sketch of the villa's walled exterior.
 >
-> This dossier becomes part of the Alliance's Arc G intelligence package (see Arc G Overview). If the party is planning the Cassalanter heist, they have advance knowledge of the service gate timing before they conduct their own reconnaissance. This is the clearest example of how intelligence investment in the mission arc pays directly into heist preparation.
+> This dossier becomes part of the Alliance's **Cassalanter Villa** intelligence package. If the party is planning the Cassalanter heist, they have advance knowledge of the service gate timing before they conduct their own reconnaissance. This is the clearest example of how intelligence investment in the mission arc pays directly into heist preparation.
 >
 > **If Vhaspar was killed:** Halek Farran is never named. Halek cleans house — he disappears from Waterdeep within 48 hours of Vhaspar's death. The dossier is never compiled. The Cassalanter Villa service entrance information is not available through Alliance channels.
 
@@ -84,7 +84,7 @@ In Watch custody or while the party holds him, Vhaspar gives up **Halek Farran**
 >
 > **Renown:**
 > - +1 if Vhaspar is arrested alive and provides testimony identifying Halek Farran.
-> - +1 if the partial address is identified as Cassalanter Villa and reported to Jalester before Arc G begins.
+> - +1 if the partial address is identified as Cassalanter Villa and reported to Jalester before **Cassalanter Villa** begins.
 >
 > #### Next Steps
 >
@@ -108,4 +108,4 @@ Three unexplained murders in the North Ward. A retired City Watch sharpshooter g
 
 ## Summary
 
-Jalester sent the party to find a retired City Watch sharpshooter named **Vhaspar Holmbridge** who had been killing witnesses to a Cassalanter-linked money transfer. They tracked him to Yander's Feed Store on Pell Street and either caught him at his table or chased him across rooftops. In custody, Vhaspar named **Halek Farran**, a Cassalanter household steward who had organized the contract through layers of intermediary. His belongings contained a partial address identifying Cassalanter Villa's service entrance — intelligence that became the foundation of the Alliance's Arc G preparation.
+Jalester sent the party to find a retired City Watch sharpshooter named **Vhaspar Holmbridge** who had been killing witnesses to a Cassalanter-linked money transfer. They tracked him to Yander's Feed Store on Pell Street and either caught him at his table or chased him across rooftops. In custody, Vhaspar named **Halek Farran**, a Cassalanter household steward who had organized the contract through layers of intermediary. His belongings contained a partial address identifying Cassalanter Villa's service entrance — intelligence that became the foundation of the Alliance's **Cassalanter Villa** preparation.

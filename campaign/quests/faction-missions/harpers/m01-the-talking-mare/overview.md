@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Quest Requirements
-> Available from the start of Act I. No prior Harper missions required. The PCs must have made contact with Mirt through the Harpers faction recruitment hook in Arc B.
+> Available from the start of Act I. No prior Harper missions required. The PCs must have made contact with Mirt through the Harpers faction recruitment hook in **Trollskull Alley**.
 >
 > #### Difficulty
 > *An adventure for 2nd–3rd level characters.*

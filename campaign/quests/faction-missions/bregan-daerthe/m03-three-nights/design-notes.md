@@ -20,4 +20,4 @@ The progression tells a story about Xanathar even though Xanathar never appears.
 
 ***The intelligence payload.*** Ott returns to Xanathar's lair and says nothing that could trace back to Bregan D'aerthe. This matters for the party's ongoing safety: if Ott had been debriefed and broke, the Guild would have a connection between Trollskull Manor and Jarlaxle's operation. Ott chose not to provide that connection. This is not heroism on his part — it is a calculation about which relationship he is safer in. He trusts Krebbyg more than he trusts Xanathar's mercy. That is a reasonable position.
 
-The intelligence Ott provided feeds Arc F. The party will not see how it was used until Krebbyg or Jarlaxle mentions it, if they ever do.
+The intelligence Ott provided feeds **Xanathar's Lair**. The party will not see how it was used until Krebbyg or Jarlaxle mentions it, if they ever do.

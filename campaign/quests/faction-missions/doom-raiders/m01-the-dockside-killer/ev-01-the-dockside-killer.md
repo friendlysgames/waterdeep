@@ -10,7 +10,7 @@
 > - The party sets up on Night 3 (or later, at their pace) to intercept Soluun before he strikes.
 > - Soluun fights at half hit points, then breaks for the rooftops; a three-check pursuit sequence determines whether he escapes.
 > - A forged Bregan D'aerthe token on Soluun's person is the mission's most significant intelligence find.
-> - If Soluun escapes, he resurfaces in Arc H watching the Sea Maidens Faire ships from the waterfront.
+> - If Soluun escapes, he resurfaces in **Sea Maidens Faire** watching the Sea Maidens Faire ships from the waterfront.
 
 **Background (DM only)**
 
@@ -56,7 +56,7 @@ When shown it, Davil goes quiet for a moment and does not explain why it interes
 > **[GM]**
 >
 > **+1 Renown if** Heldar survives and Soluun is stopped — killed, captured, or driven from the area before he can finish what he started.
-> **+1 Renown (supplementary) if** Soluun is taken alive and delivered to the Watch. His file becomes available to the party for reference in Arc H, where it provides the Watch's record of an unauthorized drow operating under a forged Bregan D'aerthe token.
+> **+1 Renown (supplementary) if** Soluun is taken alive and delivered to the Watch. His file becomes available to the party for reference in **Sea Maidens Faire**, where it provides the Watch's record of an unauthorized drow operating under a forged Bregan D'aerthe token.
 
 > **[GM]**
 >
@@ -64,7 +64,7 @@ When shown it, Davil goes quiet for a moment and does not explain why it interes
 >
 > Heldar, sober the next morning and informed of what happened, pays the party 50 gp from thin savings and is embarrassed that this is all he has. He also knows the docks well: if the party is ever looking for passage information, ship manifests, or waterfront gossip in later arcs, Heldar will help within his considerable limits.
 >
-> If Soluun escaped: Davil notes it in his file. Soluun resurfaces in **Arc H — Sea Maidens Faire**, watching the ships from the waterfront. He recognizes the party on sight and has had several months to decide how he feels about that.
+> If Soluun escaped: Davil notes it in his file. Soluun resurfaces in **Sea Maidens Faire**, watching the ships from the waterfront. He recognizes the party on sight and has had several months to decide how he feels about that.
 >
 > **Doom Raiders Mission 2 — The Poisoned Delivery** becomes available when the party reaches Renown 2 and character level 3.
 >

@@ -6,7 +6,7 @@
 > *Order of the Gauntlet Mission 5. Available at Renown 10 and character level 6.*
 >
 > > [!warning]+ Sequencing
-> > This mission should be offered before Arc G begins. It establishes a Cassalanter ritual foothold that Arc G references, and it generates the four-day compression of the Founders' Day deadline that gives Arc G its central urgency. If Arc G has already resolved, this mission loses its downstream impact — Mission 6 follows normally, but the compressed deadline becomes historical context rather than active pressure.
+> > This mission should be offered before **Cassalanter Villa** begins. It establishes a Cassalanter ritual foothold that **Cassalanter Villa** references, and it generates the four-day compression of the Founders' Day deadline that gives **Cassalanter Villa** its central urgency. If **Cassalanter Villa** has already resolved, this mission loses its downstream impact — Mission 6 follows normally, but the compressed deadline becomes historical context rather than active pressure.
 >
 > #### Difficulty
 > *A mission for 6th-level characters.*

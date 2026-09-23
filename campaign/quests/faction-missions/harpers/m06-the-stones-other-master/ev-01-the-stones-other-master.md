@@ -70,16 +70,16 @@ Mirt departs after the raid, disappointed but not hostile. The vault tactical ad
 
 > **[GM]**
 >
-> **+1 Renown if** the party allows Mirt the three days and receives the study results — they learn the compromised contact's name and can act on it before Arc J.
+> **+1 Renown if** the party allows Mirt the three days and receives the study results — they learn the compromised contact's name and can act on it before **Vault of Dragons**.
 > **+1 Renown if** the Splinter squad is defeated and the sending stone recovered. Mirt can use it to feed false information toward Manshoon or to listen for traffic.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> The Splinter raid confirms Manshoon knows the Stone is with the party and where they live. This is operational intelligence that shapes Arc I — the Kolat Towers raid will have additional preparation if Manshoon has had time to analyze what his squad observed.
+> The Splinter raid confirms Manshoon knows the Stone is with the party and where they live. This is operational intelligence that shapes **Kolat Towers** — the Kolat Towers raid will have additional preparation if Manshoon has had time to analyze what his squad observed.
 >
-> If Jalester was identified as compromised: any intelligence he has passed to the Lords' Alliance about the party's plans is now suspect — Illuun has had access to it. Refer to the **Arc J — Vault of Dragons** overview for how this flag affects the convergence scene.
+> If Jalester was identified as compromised: any intelligence he has passed to the Lords' Alliance about the party's plans is now suspect — Illuun has had access to it. Refer to the **Vault of Dragons** overview for how this flag affects the convergence scene.
 >
 > If Renaer was identified instead: everything he has told the party about his father's vault plans must be re-examined for what he may have revealed, unknowingly, to Illuun.
 >

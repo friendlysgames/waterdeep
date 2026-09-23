@@ -39,7 +39,7 @@ Pirn will not give the name of his handler above him in the Guild. He doesn't kn
 > **[GM]**
 >
 > #### Pirn's Downstream Value
-> A captured and thoroughly questioned Pirn can name the Xanathar Guild street agent who authorized his operation: **Krentz**, who appears in Arc B's sewers sequence. This is a bonus connection — the mission does not require identifying Krentz. If the party brings this name to the Watch or to Jalester before Arc B, it flags the Xanathar Guild's Dock Ward cell for increased Watch scrutiny during the first two arcs.
+> A captured and thoroughly questioned Pirn can name the Xanathar Guild street agent who authorized his operation: **Krentz**, who appears in **Trollskull Alley**'s sewers sequence. This is a bonus connection — the mission does not require identifying Krentz. If the party brings this name to the Watch or to Jalester before **Trollskull Alley**, it flags the Xanathar Guild's Dock Ward cell for increased Watch scrutiny during the first two quests.
 
 ### Act 3 — Finding the Source
 
@@ -86,7 +86,7 @@ He is not a Harper asset or an Alliance contact. He is a person who was helped a
 > **[GM]**
 >
 > #### Herath's Note — Downstream Use
-> Herath's sewer access point becomes a viable entry path for **Arc F — Xanathar's Lair** (the Sewer Route). If the party retained the note, they have a head start on that approach before they begin Arc F reconnaissance. The note is not required — the sewer route remains available through other means — but it is the most organic path, arriving before the party knows they will need it.
+> Herath's sewer access point becomes a viable entry path for **Xanathar's Lair** (the Sewer Route). If the party retained the note, they have a head start on that approach before they begin **Xanathar's Lair** reconnaissance. The note is not required — the sewer route remains available through other means — but it is the most organic path, arriving before the party knows they will need it.
 
 ### Concluding the Event
 

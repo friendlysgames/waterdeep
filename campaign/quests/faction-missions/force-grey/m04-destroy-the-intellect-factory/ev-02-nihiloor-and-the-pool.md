@@ -60,7 +60,7 @@ The party is moving through a space that now knows something happened. Each area
 >
 > The Gray Hands have graduated to full Force Grey status. Vajra gives each character a written commission — the Blackstaff's mark, their names, their standing.
 >
-> Nihiloor is either dead or somewhere in the city. If it escaped X24, it is still operational and resurfaces in **Arc F — Xanathar's Lair**. If it was destroyed here, it is gone — Xanathar's mind-control network has no remaining operational intelligence in Waterdeep.
+> Nihiloor is either dead or somewhere in the city. If it escaped X24, it is still operational and resurfaces in **Xanathar's Lair**. If it was destroyed here, it is gone — Xanathar's mind-control network has no remaining operational intelligence in Waterdeep.
 >
 > **Force Grey Mission 5 — The Legate's Eyes** becomes available when the party reaches Renown 10 and 6th level.
 >

@@ -55,7 +55,7 @@ Mirt, when given the address and the files: "Two different approaches to the sam
 >
 > **+1 Renown (partial recovery)** if the Splinter safehouse is found and reported to Mirt. He can clean house on two additional compromised assets before the Splinter acts on the intelligence Edric filed.
 >
-> If the safehouse is not found: Edric's report is now with the Splinter. Manshoon's awareness of the PCs escalates, and the Kolat Towers raid in Arc I has reinforced defenses tuned specifically to the PCs' known capabilities.
+> If the safehouse is not found: Edric's report is now with the Splinter. Manshoon's awareness of the PCs escalates, and the **Kolat Towers** raid has reinforced defenses tuned specifically to the PCs' known capabilities.
 
 > **[GM]**
 >
@@ -63,7 +63,7 @@ Mirt, when given the address and the files: "Two different approaches to the sam
 >
 > Mirt is disappointed that Edric was not caught during the interviews, but he does not say so in a way that removes agency from the party. What he says is: "The Splinter knows more about you than they did yesterday. Plan accordingly."
 >
-> The safehouse address is a secondary Splinter outpost seed for **Arc E — Faction Outposts**.
+> The safehouse address is a secondary Splinter outpost seed for **Faction Outposts**.
 >
 > **Harper Mission 4 — A Friend's House** becomes available when the party reaches Renown 8 and 5th level.
 >

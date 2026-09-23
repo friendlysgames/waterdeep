@@ -82,9 +82,9 @@ He lets them go.
 >
 > #### Next Steps
 >
-> The *Ledger of Commissioned Automata*, if kept, becomes an investigation prop for Arc C (Nimblewright thread) and a revelation tool for Arc H. The voided Cassalanter entry tells a careful reader more about the Cassalanters' operational wariness than any social interaction would.
+> The *Ledger of Commissioned Automata*, if kept, becomes an investigation prop for **Fireball!** (Nimblewright thread) and a revelation tool for **Sea Maidens Faire**. The voided Cassalanter entry tells a careful reader more about the Cassalanters' operational wariness than any social interaction would.
 >
-> The party has now seen Zardoz Zord, met J.B. Nevercott twice, and has a memory that both men had the same smile. Whether they connect this before Arc H is a function of player attention. The mission does not prompt them toward it.
+> The party has now seen Zardoz Zord, met J.B. Nevercott twice, and has a memory that both men had the same smile. Whether they connect this before **Sea Maidens Faire** is a function of player attention. The mission does not prompt them toward it.
 >
 > This conditional mission is complete. Proceed to **Three Nights** Mission (M3).
 >

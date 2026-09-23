@@ -17,7 +17,7 @@
 **Background (DM only)**
 **Illuun** is an abolethic dreamer anchored to Undermountain Level 4. It has been extending psychic reach upward through Waterdeep's underground water table for decades, barely perceptible. The Stone of Golorr's activation created a resonance Illuun responded to, pushing more actively toward the surface. Jeryth, connected to Phaulkonmere's root systems and water table, has been quietly absorbing and deflecting this influence for months. Mission 5's disruption of the cistern system opened a path directly into the underground channel Jeryth uses, and Illuun has been pressing through that path for three days.
 
-Jeryth is winning. But the effort consumes her ability to communicate, and she has 48 hours before she breaks the connection or withdraws too deep into Phaulkonmere's earth to surface for months — which means she would not be available to ward the vault opening in Arc J.
+Jeryth is winning. But the effort consumes her ability to communicate, and she has 48 hours before she breaks the connection or withdraws too deep into Phaulkonmere's earth to surface for months — which means she would not be available to ward the vault opening in **Vault of Dragons**.
 
 Destroying the anchor severs Illuun's reach through this specific path. It does not harm Illuun, which is too far below to be touched by this action. Illuun has now registered whoever disturbed its surface operations. Any party member who received direct psychic contact is personally known to it.
 
@@ -84,13 +84,13 @@ Record whether any party member experienced direct psychic contact with Illuun b
 > **[GM]**
 >
 > **+1 Renown if** the anchor is destroyed and both chuul neutralized before the party leaves the cisterns.
-> **+1 Renown if** the psychic contact experience — if any PC experienced it — is reported to Melannor in full detail. He records it and sends the account to Jeryth. She references it in Arc J. A PC who received the contact is also now personally registered to Illuun.
+> **+1 Renown if** the psychic contact experience — if any PC experienced it — is reported to Melannor in full detail. He records it and sends the account to Jeryth. She references it in **Vault of Dragons**. A PC who received the contact is also now personally registered to Illuun.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> Jeryth is ready for **Arc J — The Vault of Dragons**. She has already prepared her wards. The party does not need to give her advance notice — she is listening and will be present when they call.
+> Jeryth is ready for **Vault of Dragons**. She has already prepared her wards. The party does not need to give her advance notice — she is listening and will be present when they call.
 >
 > If the party reports what they perceived during the anchor examination to Mirt (Harpers): the connection between the Stone of Golorr and Illuun's reach becomes concrete intelligence. Mirt goes quiet for a long moment. "Undermountain Level 4," he says. "Well." Three days later a paper bird arrives at Trollskull Manor: *"That name is Illuun. Don't say it below the cisterns."*
 >
@@ -110,4 +110,4 @@ Jeryth Phaulkon has fallen silent. Something below the Castle Ward has found a p
 
 ## Summary
 
-The party descended into the deepest level of the Castle Ward cisterns, destroyed a centuries-old abolethic anchor point in Illuun's surface network, and freed Jeryth Phaulkon from the psychic hold on her connection to the estate. On their return, Jeryth gave the party a Phaulkonmere ward — a woven root ring providing advantage against aberration Charmed and Frightened conditions — and confirmed she was already prepared for Arc J.
+The party descended into the deepest level of the Castle Ward cisterns, destroyed a centuries-old abolethic anchor point in Illuun's surface network, and freed Jeryth Phaulkon from the psychic hold on her connection to the estate. On their return, Jeryth gave the party a Phaulkonmere ward — a woven root ring providing advantage against aberration Charmed and Frightened conditions — and confirmed she was already prepared for **Vault of Dragons**.

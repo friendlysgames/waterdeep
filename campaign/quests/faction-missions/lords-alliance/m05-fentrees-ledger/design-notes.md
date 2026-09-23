@@ -2,9 +2,9 @@
 
 ## The Vault Intelligence Pivot
 
-***Why this mission is structurally critical.*** Mission 5 is the hinge between the Alliance's intelligence arc and Arc J. Laeral has been operating on wrong intelligence for three years — she believes the Vault of Dragons is in Neverwinter. The ledger corrects this. A party that delivers the ledger changes Laeral's entire preparation timeline and makes Mission 6 available. A party that lets the ledger fall to the Guild or the Cassalanters changes the Arc F and Arc G opposition states in concrete, visible ways.
+***Why this mission is structurally critical.*** Mission 5 is the hinge between the Alliance's intelligence arc and **Vault of Dragons**. Laeral has been operating on wrong intelligence for three years — she believes the Vault of Dragons is in Neverwinter. The ledger corrects this. A party that delivers the ledger changes Laeral's entire preparation timeline and makes Mission 6 available. A party that lets the ledger fall to the Guild or the Cassalanters changes the **Xanathar's Lair** and **Cassalanter Villa** opposition states in concrete, visible ways.
 
-Both failure states are designed to create real consequences rather than narrative flavor. The Guild getting the ledger means their Arc F response team has advance knowledge. The Cassalanters getting it means they arrive at Arc G with a partial map advantage. These are not abstract "the world is different" statements — they translate directly into harder heist conditions in specific arcs. The party that plays this mission cleanly has materially improved the odds for their heist-phase play.
+Both failure states are designed to create real consequences rather than narrative flavor. The Guild getting the ledger means their **Xanathar's Lair** response team has advance knowledge. The Cassalanters getting it means they arrive at **Cassalanter Villa** with a partial map advantage. These are not abstract "the world is different" statements — they translate directly into harder heist conditions in specific quests. The party that plays this mission cleanly has materially improved the odds for their heist-phase play.
 
 ## Three Approaches and the Bidding Clock
 
@@ -16,7 +16,7 @@ The interception path is intentionally the hardest. Letting the bidding conclude
 
 ***The Cassalanter connection.*** Emira Volstren is present primarily to confirm what Mission 4 planted: the Cassalanter household is taking active operational steps in the Grand Game. Her presence at the Green Dragon, identifiable by the household signet ring and the house guard waiting outside, is the second data point connecting the Cassalanters to vault intelligence gathering. Mission 4 gave the party an address. Mission 5 gives them a named household representative actively trying to acquire vault-locating evidence.
 
-Reporting her name to Jalester is worth a renown point because it advances the Alliance's pre-Arc G dossier. It is not required — the mission's primary objective is the ledger — but it is the kind of secondary intelligence work that distinguishes thorough play from adequate play.
+Reporting her name to Jalester is worth a renown point because it advances the Alliance's pre-**Cassalanter Villa** dossier. It is not required — the mission's primary objective is the ledger — but it is the kind of secondary intelligence work that distinguishes thorough play from adequate play.
 
 ## Rezka's Offer
 

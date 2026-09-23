@@ -18,4 +18,4 @@ The GM should note when the OG-M2 and BD-M2 Wazoo stories break relative to this
 
 ## Esvele Rosznar as a Long Thread
 
-***The Black Viper is not a one-scene NPC.*** Esvele's reaction to this mission — whether she received poison, was warned, or was successfully deceived — is load-bearing for Arc G, where she runs a parallel heist at Cassalanter Villa. A party that warned her walks into that parallel with one interaction that has already established something like trust. The GM should carry that forward rather than resetting the relationship to neutral.
+***The Black Viper is not a one-scene NPC.*** Esvele's reaction to this mission — whether she received poison, was warned, or was successfully deceived — is load-bearing for **Cassalanter Villa**, where she runs a parallel heist. A party that warned her walks into that parallel with one interaction that has already established something like trust. The GM should carry that forward rather than resetting the relationship to neutral.

@@ -9,7 +9,7 @@
 > - The party has roughly thirty minutes to scuttle the Esloon/Sarvos deal before it concludes.
 > - Four distinct approaches are available: direct disruption, Watch exposure, turning Esloon, or neutralizing Sarvos.
 > - Any approach that brings the party into direct engagement with Esloon opens his question about whether there is a real offer from the Alliance.
-> - If the deal concludes uninterrupted, the Splinter gains eight additional pieces of muscle for the Arc E checkpoint strike.
+> - If the deal concludes uninterrupted, the Splinter gains eight additional pieces of muscle for the **Faction Outposts** checkpoint strike.
 > - Sarvos captured provides actionable intelligence on the Watch checkpoint operation.
 
 **Background (DM only)**
@@ -82,13 +82,13 @@ Jalester's response, if asked: a long pause, then: "He's not wrong that we're as
 
 The deal is scuttled if any of the following is true: Esloon is detained or withdraws from negotiations; Sarvos is captured or neutralized; the meeting is directly disrupted before it concludes; or the Watch checkpoint operation is exposed and reported before the meeting ends.
 
-**If the deal concludes:** Esloon and Sarvos shake hands in the private room and part through different exits. The Splinter gains eight additional pieces of muscle for the Dock Ward checkpoint strike. In Arc E, the Splinter response team in the Dock Ward has two additional members when the party encounters it.
+**If the deal concludes:** Esloon and Sarvos shake hands in the private room and part through different exits. The Splinter gains eight additional pieces of muscle for the Dock Ward checkpoint strike. In **Faction Outposts**, the Splinter response team in the Dock Ward has two additional members when the party encounters it.
 
-**If Esloon turned away and not detained:** He remains in the Dock Ward with his crew, nominally independent. He resurfaces in Arc E as a possible hire for any faction with coin — the party may encounter him working for the Xanathar Guild or as a freelance complication, depending on whether the party brought his question back to Jalester.
+**If Esloon turned away and not detained:** He remains in the Dock Ward with his crew, nominally independent. He resurfaces in **Faction Outposts** as a possible hire for any faction with coin — the party may encounter him working for the Xanathar Guild or as a freelance complication, depending on whether the party brought his question back to Jalester.
 
 **If Esloon detained:** He is held for ten days and released without charge — the Thayan warrant does not survive the embassy review process. He leaves Waterdeep. His crew disperses.
 
-**If the checkpoint strike is exposed:** The strike still occurs in Arc E but fails — the Splinter loses the cargo window and delays their Baldur's Gate communication by three weeks. One Splinter operation in Arc E is noticeably disrupted.
+**If the checkpoint strike is exposed:** The strike still occurs in **Faction Outposts** but fails — the Splinter loses the cargo window and delays their Baldur's Gate communication by three weeks. One Splinter operation in **Faction Outposts** is noticeably disrupted.
 
 ### Concluding the Event
 
@@ -96,7 +96,7 @@ The deal is scuttled if any of the following is true: Esloon is detained or with
 >
 > **Renown:**
 > - +1 if the deal is scuttled by any method before it concludes.
-> - +1 if Sarvos Miln is captured and identifies the Watch checkpoint as the Splinter's target — Jalester can pre-position Watch reinforcements, and the checkpoint strike fails when it fires in Arc E.
+> - +1 if Sarvos Miln is captured and identifies the Watch checkpoint as the Splinter's target — Jalester can pre-position Watch reinforcements, and the checkpoint strike fails when it fires in **Faction Outposts**.
 >
 > #### Next Steps
 >

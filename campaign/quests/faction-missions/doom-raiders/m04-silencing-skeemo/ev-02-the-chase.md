@@ -8,14 +8,14 @@
 >
 > - Two chase paths exist depending on whether Skeemo reached the skylight: the dray street chase or the Fly + Greater Invisibility rooftop pursuit.
 > - The dray chase involves civilian bystanders; the rooftop pursuit becomes a targeting problem after three rounds.
-> - If Skeemo escapes: he reaches the Yellowspire teleportation circle and arrives at Kolat Towers. He resurfaces in Arc I and recognizes the party on sight.
+> - If Skeemo escapes: he reaches the Yellowspire teleportation circle and arrives at Kolat Towers. He resurfaces in **Kolat Towers** and recognizes the party on sight.
 > - If Skeemo is caught: Act 3 covers the elimination and what the satchel contains.
 
 **Background (DM only)**
 
 The two chase paths are mutually exclusive based on whether the party blocked the skylight. The dray was hired yesterday with the specific intention of using civilian passengers as cover — Skeemo knows that a party willing to attack a vehicle full of commuters is a different kind of problem than a party that hesitates. The rooftop invisibility route is his backup: he has *Greater Invisibility* prepared and it is one of the first things he casts once he has three rounds of separation.
 
-If he reaches Yellowspire: the teleportation circle deposits him directly in Kolat Towers. He arrives with his satchel, his intelligence files, and a very specific face recognition for everyone in the party. This is a partial mission failure — the Network still benefits from the satchel being destroyed or not sent, but Skeemo is out of reach until Arc I.
+If he reaches Yellowspire: the teleportation circle deposits him directly in Kolat Towers. He arrives with his satchel, his intelligence files, and a very specific face recognition for everyone in the party. This is a partial mission failure — the Network still benefits from the satchel being destroyed or not sent, but Skeemo is out of reach until **Kolat Towers**.
 
 ### The Street Chase (If Skeemo Did Not Reach the Skylight)
 
@@ -91,7 +91,7 @@ He buys the party a drink. He does not say what it is for.
 >
 > #### Next Steps
 >
-> If Skeemo escaped to Yellowspire: he is now at Kolat Towers. He has his intelligence files, his spellbook, and a clear memory of everyone in the party. He appears in **Arc I — Kolat Towers**, where he will recognize the party on sight and alert Manshoon immediately. Davil knows this has happened and says so.
+> If Skeemo escaped to Yellowspire: he is now at Kolat Towers. He has his intelligence files, his spellbook, and a clear memory of everyone in the party. He appears in **Kolat Towers**, where he will recognize the party on sight and alert Manshoon immediately. Davil knows this has happened and says so.
 >
 > If Skeemo was stopped: the paper birds give Tashlyn the name Vevette Blackwater, which she adds to a file that feeds directly into Mission 5's target.
 >
@@ -113,4 +113,4 @@ Skeemo is running. The party has until he reaches the teleportation circle at Ye
 
 ## Summary
 
-The party pursued Skeemo Weirdbottle through the Trades Ward after he broke for his escape route. The chase ended in the streets or the rooftops. Whether Skeemo was caught or reached the Yellowspire teleportation circle shaped what comes next in Arc I and what Tashlyn now knows about Kolat Towers.
+The party pursued Skeemo Weirdbottle through the Trades Ward after he broke for his escape route. The chase ended in the streets or the rooftops. Whether Skeemo was caught or reached the Yellowspire teleportation circle shaped what comes next in **Kolat Towers** and what Tashlyn now knows.

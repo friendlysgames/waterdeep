@@ -58,7 +58,7 @@ She notes whether anyone was killed. She does not labor the point.
 >
 > #### Next Steps
 >
-> **Pell's debt:** Pell owes the party a favor. He will not say this and will not seek them out. He can be found at the Rusted Anchor in the Dock Ward. If the party finds him during Arc E, he will name which Field Ward gang leaders have been paid by the Splinter and which have not — actionable intelligence for that arc.
+> **Pell's debt:** Pell owes the party a favor. He will not say this and will not seek them out. He can be found at the Rusted Anchor in the Dock Ward. If the party finds him during **Faction Outposts**, he will name which Field Ward gang leaders have been paid by the Splinter and which have not — actionable intelligence for that quest.
 >
 > When the party reaches Renown 2 and character level 3, **Order of the Gauntlet Mission 2 — The Black Viper Investigation** becomes available.
 >

@@ -105,12 +105,12 @@ He slides both documents into an envelope and holds it out to the party.
 
 #### Force Field Gap Intel: True / False
 
-Record whether the party recovered Ziraj's rooftop diagram of Kolat Towers' force field gap locations. This flag is read by **Arc I — Kolat Towers**, where the gap diagram provides a viable entry route that bypasses the force field entirely. Parties without this intel must discover the gaps through in-mission scouting during Arc I.
+Record whether the party recovered Ziraj's rooftop diagram of Kolat Towers' force field gap locations. This flag is read by **Kolat Towers**, where the gap diagram provides a viable entry route that bypasses the force field entirely. Parties without this intel must discover the gaps through in-mission scouting during **Kolat Towers**.
 
 > **[GM]**
 >
 > **+2 Renown if** Ziraj is alive and extracted to Corellon's Crown. Davil hears this from Yagra, who was there, and is quiet before saying "Thank you" with more weight than the words usually carry.
-> **+1 Renown if** all three remaining Splinter agents are neutralized. Manshoon's kill team is gone. The Doom Raiders have one fewer operational liability entering Arc I.
+> **+1 Renown if** all three remaining Splinter agents are neutralized. Manshoon's kill team is gone. The Doom Raiders have one fewer operational liability entering **Kolat Towers**.
 > **+1 Renown (supplementary) if** Ziraj's rooftop diagram is delivered to Davil. He studies it for two minutes. Then: "Between these two things, we can get into Kolat Towers three different ways."
 
 > **[GM]**
@@ -121,9 +121,9 @@ Record whether the party recovered Ziraj's rooftop diagram of Kolat Towers' forc
 >
 > > > "We take care of our own."
 >
-> Davil delivers a final note — a list of forty-three names, with locations and last known roles: every Manshoon Splinter operative he has identified over three years of watching them. "For Arc I," the note says. "Do what you think is right with what you find there." There is no closing. It is signed with his name.
+> Davil delivers a final note — a list of forty-three names, with locations and last known roles: every Manshoon Splinter operative he has identified over three years of watching them. "For **Kolat Towers**," the note says. "Do what you think is right with what you find there." There is no closing. It is signed with his name.
 >
-> This mission chain is complete. The Doom Raiders' contribution to **Arc I — Kolat Towers** depends on the flags carried out of Missions 5 and 6: the pass-amulet ledger, the rooftop diagram, and Davil's list of forty-three names.
+> This mission chain is complete. The Doom Raiders' contribution to **Kolat Towers** depends on the flags carried out of Missions 5 and 6: the pass-amulet ledger, the rooftop diagram, and Davil's list of forty-three names.
 >
 > #### Milestone: None
 >

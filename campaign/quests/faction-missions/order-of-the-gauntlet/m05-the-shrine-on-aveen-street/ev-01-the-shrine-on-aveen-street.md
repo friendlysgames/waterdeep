@@ -59,7 +59,7 @@ The Cassalanters are informed of the petition within 48 hours through their Mask
 ### Concluding the Event
 
 #### Shrine Destroyed: True / False
-Record whether the party destroyed the consecration circle and the shrine's ritual contents after taking the ledger. This flag is read by Arc G (Cassalanter Villa) as a Cassalanter pressure mechanic — if the shrine was destroyed, the Cassalanters have lost one of their preparation footholds before the Founders' Day timeline compressed.
+Record whether the party destroyed the consecration circle and the shrine's ritual contents after taking the ledger. This flag is read by **Cassalanter Villa** as a Cassalanter pressure mechanic — if the shrine was destroyed, the Cassalanters have lost one of their preparation footholds before the Founders' Day timeline compressed.
 
 > **[GM]**
 >
@@ -71,9 +71,9 @@ Record whether the party destroyed the consecration circle and the shrine's ritu
 >
 > #### Next Steps
 >
-> Savra's petition to the Lords is now filed. **Order of the Gauntlet Mission 6 — The Writ and the Weight** becomes available after Arc G resolves, or concurrently if the party delays the heist.
+> Savra's petition to the Lords is now filed. **Order of the Gauntlet Mission 6 — The Writ and the Weight** becomes available after **Cassalanter Villa** resolves, or concurrently if the party delays the heist.
 >
-> The Founders' Day deadline in Arc G is now four days tighter than previously established. Savra delivers this calendar intelligence directly.
+> The Founders' Day deadline in **Cassalanter Villa** is now four days tighter than previously established. Savra delivers this calendar intelligence directly.
 >
 > #### Milestone: None
 >
@@ -91,4 +91,4 @@ A consecrated basement under a chandler's shop holds the evidence Savra needs �
 
 ## Summary
 
-The party cleared the Cassalanter shrine on Aveen Street, defeated a bound bearded devil, and recovered Lord Victoro's operational ledger. Savra filed a formal petition for Lords' review. The Founders' Day deadline in Arc G compressed by four days.
+The party cleared the Cassalanter shrine on Aveen Street, defeated a bound bearded devil, and recovered Lord Victoro's operational ledger. Savra filed a formal petition for Lords' review. The Founders' Day deadline in **Cassalanter Villa** compressed by four days.

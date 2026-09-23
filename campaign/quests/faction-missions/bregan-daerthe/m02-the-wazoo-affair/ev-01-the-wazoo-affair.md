@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-The document is an exposé: unnamed noble families in Waterdeep's Sea Ward host private religious services to an infernal entity. The language is carefully vague. The information is accurate — this is the Cassalanters. **Jarlaxle** wrote it himself, using intelligence from **Nar'l Xibrindas** inside Xanathar's organization. He cannot publish it under any name that traces to him. Once published, the story will pressure the Cassalanters and force them to redirect resources toward damage control during Arc E.
+The document is an exposé: unnamed noble families in Waterdeep's Sea Ward host private religious services to an infernal entity. The language is carefully vague. The information is accurate — this is the Cassalanters. **Jarlaxle** wrote it himself, using intelligence from **Nar'l Xibrindas** inside Xanathar's organization. He cannot publish it under any name that traces to him. Once published, the story will pressure the Cassalanters and force them to redirect resources toward damage control during **Faction Outposts**.
 
 **Gaxly Rudderbust** — freelance journalist, fifties, deliberately disheveled, grey braid, ink stains on every item of clothing. His dinner parties run long and loud. His guests are mostly former journalists, political gossips, and one or two debtors he is successfully avoiding mentioning. He will publish the document without knowing its source, because the story is good and he can verify the core facts independently.
 

@@ -54,7 +54,7 @@ She offers a trade immediately — the ledger for safe exit from Waterdeep. The 
 
 > > "Take it. I'll give you everything that comes with it. Just get me out of the city. Your patron has Watch contacts — I know she does. I need a window and a head start, not money."
 
-The party can take the ledger outright, honor the trade and provide the window she needs, or take her into Watch custody with the ledger. Jalester accepts all three outcomes. Honoring the trade costs nothing — Rezka leaves Waterdeep and the Guild loses an operative. Taking her into Watch custody provides a statement that confirms the Guild's active surveillance of Fentree, which is actionable intelligence for Arc E.
+The party can take the ledger outright, honor the trade and provide the window she needs, or take her into Watch custody with the ledger. Jalester accepts all three outcomes. Honoring the trade costs nothing — Rezka leaves Waterdeep and the Guild loses an operative. Taking her into Watch custody provides a statement that confirms the Guild's active surveillance of Fentree, which is actionable intelligence for **Faction Outposts**.
 
 #### Disrupt the Meetings
 
@@ -79,7 +79,7 @@ The party must intercept them in the street or on the staircase — three agains
 > **[GM]**
 >
 > #### Emira Volstren — The Secondary Payload
-> Regardless of which approach the party uses, identifying **Emira Volstren** by name and reporting her to Jalester confirms that the Cassalanter household has active intelligence interest in the vault's location. Jalester passes this to the Watch's Criminal Intelligence division. Combined with Mission 4's Halek Farran lead, it builds the picture of a household taking operational steps ahead of Arc G.
+> Regardless of which approach the party uses, identifying **Emira Volstren** by name and reporting her to Jalester confirms that the Cassalanter household has active intelligence interest in the vault's location. Jalester passes this to the Watch's Criminal Intelligence division. Combined with Mission 4's Halek Farran lead, it builds the picture of a household taking operational steps ahead of **Cassalanter Villa**.
 >
 > Identifying Emira requires either engaging her directly (she will not give her name voluntarily, but a **DC 14 Wisdom (Insight)** check notices the signet ring she wears inward-facing, matching the description of Cassalanter household staff) or following the Cassalanter house guard from the inn's entrance after Emira's meeting fails to occur.
 
@@ -99,9 +99,9 @@ Jalester, when he receives the ledger: reads these pages twice. Says nothing for
 >
 > **If the ledger reaches Jalester:** Laeral's intelligence corrects. She now knows the Vault of Dragons is in Waterdeep, active, and that Dunberton Holdings was the shell structure maintaining it. She accelerates her political preparation. **Mission 6** becomes available.
 >
-> **If the ledger goes to Noska:** The Xanathar Guild has confirmation of the vault's Waterdeep location before the party has the Stone of Golorr deciphered. The Guild's intelligence about the vault's ward structure in Arc F is one step ahead of the party. Xanathar's faction response team has advance knowledge that a vault access attempt is coming.
+> **If the ledger goes to Noska:** The Xanathar Guild has confirmation of the vault's Waterdeep location before the party has the Stone of Golorr deciphered. The Guild's intelligence about the vault's ward structure in **Xanathar's Lair** is one step ahead of the party. Xanathar's faction response team has advance knowledge that a vault access attempt is coming.
 >
-> **If the ledger goes to Emira Volstren:** The Cassalanters share it with their infernal advisors. In Arc G–H, the Cassalanters arrive at the vault approach with a partial map of the ceremonial lock's location.
+> **If the ledger goes to Emira Volstren:** The Cassalanters share it with their infernal advisors. In **Cassalanter Villa** and **Sea Maidens Faire**, the Cassalanters arrive at the vault approach with a partial map of the ceremonial lock's location.
 >
 > #### Next Steps
 >

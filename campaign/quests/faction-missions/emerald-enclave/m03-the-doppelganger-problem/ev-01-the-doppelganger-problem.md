@@ -66,7 +66,7 @@ As a parting courtesy, she names the Manshoon Splinter operative who bought the 
 >
 > #### Next Steps
 >
-> Kelso Fiddlewick's name as a Splinter contact feeds directly into **Arc E — Faction Outposts** as the cleanest early intelligence on Manshoon's information network. If reported to both Mirt and Jalester, they begin pulling the thread independently.
+> Kelso Fiddlewick's name as a Splinter contact feeds directly into **Faction Outposts** as the cleanest early intelligence on Manshoon's information network. If reported to both Mirt and Jalester, they begin pulling the thread independently.
 >
 > Three days after Bonnie's departure, a flying dove arrives at Trollskull Manor carrying a folded note: three dots in a triangle. Melannor, when shown it, identifies it as a doppelganger notation mark — her name, essentially. "It's a receipt. She's confirming she left." He seems to find this slightly touching.
 >

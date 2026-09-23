@@ -16,9 +16,9 @@ The question is designed to destabilize the assumption that the Lords' Alliance 
 
 Bringing this back to Jalester and watching him acknowledge it is the payoff. He does not promise anything. But he does not dismiss it, either. A Jalester who has been told "one of your potential assets is working two sides because your side hasn't offered him anything real" is a Jalester who will think about what the Alliance's offer actually looks like. This thread does not fully resolve in the mission arc — it is a seed for a later session's conversation with Laeral about what the Alliance is actually for.
 
-## The Arc E Payoffs
+## The Faction Outposts Payoffs
 
-***Compounding consequences.*** Both renown conditions in this mission have direct mechanical payoffs in Arc E, and they are designed to be visible rather than abstract. If Sarvos is captured and the checkpoint strike is exposed, the party can see the result in Arc E: the Splinter response team in the Dock Ward is disrupted, the strike fails, and one Splinter operation is noticeably missing a step.
+***Compounding consequences.*** Both renown conditions in this mission have direct mechanical payoffs in **Faction Outposts**, and they are designed to be visible rather than abstract. If Sarvos is captured and the checkpoint strike is exposed, the party can see the result in **Faction Outposts**: the Splinter response team in the Dock Ward is disrupted, the strike fails, and one Splinter operation is noticeably missing a step.
 
 This is the Alliance missions' central design principle: the work accumulates. Each completed mission with full intelligence handoff leaves a concrete mark on the world that the party can observe later. A party that consistently delivers partial outcomes — deal killed but no intelligence extracted, renown earned but no downstream thread — is doing the missions correctly in a narrow sense but missing the compounding value.
 

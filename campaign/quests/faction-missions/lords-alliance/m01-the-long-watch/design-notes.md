@@ -14,7 +14,7 @@ The "don't make it worse" line in Day 2 is the mission's thesis statement. The p
 
 ## Herath's Note as Long-Range Seed
 
-***The organic approach path.*** Herath's sewer access note is a planted element for Arc F. The party receives it without fanfare, from a character with no institutional weight, as a personal gesture of reciprocity. The note has no immediate use. Its value only becomes clear much later, when the Sewer Route into Xanathar's Lair is the cleanest available entry point.
+***The organic approach path.*** Herath's sewer access note is a planted element for **Xanathar's Lair**. The party receives it without fanfare, from a character with no institutional weight, as a personal gesture of reciprocity. The note has no immediate use. Its value only becomes clear much later, when the Sewer Route into Xanathar's Lair is the cleanest available entry point.
 
 This is by deliberate design. The Three Clue Rule applies to major arc beats, but it also applies to entry points. Herath's note is the most organic path to the sewer approach: earned through specific behavior, arriving before the party knows they will need it, from someone with no agenda beyond returning a favor. The contrast with receiving a mission briefing packet from Jalester is intentional — this is the kind of intelligence you get by being decent to people who work the city's margins.
 

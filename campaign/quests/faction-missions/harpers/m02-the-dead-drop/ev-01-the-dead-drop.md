@@ -19,7 +19,7 @@ The Harper dead drop behind the philosophy section loose brick was used by Mattr
 
 Tessalar Maeridge began visiting the shop three months ago. He was recruited by a Splinter handler with 50 gold pieces and instructions to report anything unusual about the philosophy section. He did not anticipate a gazer attack and is not committed to the Splinter. His handler uses a drop location at the Trades Ward customs house.
 
-If the Splinter has received the cipher note's contents, two Harper assets in noble houses are compromised. This affects Mirt's Cassalanter social contacts in Arc G unless the party resolves the Tessalar situation cleanly.
+If the Splinter has received the cipher note's contents, two Harper assets in noble houses are compromised. This affects Mirt's Cassalanter social contacts in **Cassalanter Villa** unless the party resolves the Tessalar situation cleanly.
 
 ### Act 1 — The Shop
 
@@ -74,7 +74,7 @@ Regardless of Tessalar's fate: Uza gives the party a used spellbook from her bac
 >
 > #### Next Steps
 >
-> If the Splinter received the cipher contents and Tessalar is not turned: two Harper assets in noble houses are compromised. Mirt loses access to one of his Cassalanter social contacts — relevant to **Arc G — Cassalanter Villa** — unless the party resolved this cleanly. He never says this directly, but his Cassalanter intelligence becomes notably thinner until the contact chain is restored.
+> If the Splinter received the cipher contents and Tessalar is not turned: two Harper assets in noble houses are compromised. Mirt loses access to one of his Cassalanter social contacts — relevant to **Cassalanter Villa** — unless the party resolved this cleanly. He never says this directly, but his Cassalanter intelligence becomes notably thinner until the contact chain is restored.
 >
 > Uza becomes a recurring Trades Ward contact. She does not know she hosted a Harper dead drop and will not be told. She will help the party find books, references, and people who are very interested in very specific things.
 >

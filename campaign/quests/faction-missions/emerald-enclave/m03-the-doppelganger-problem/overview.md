@@ -24,4 +24,4 @@ Doppelgangers are operating freely out of the Yawning Portal while four factions
 
 The mission is a negotiation. Bonnie already knows why the party is there. She has already decided what she will accept and at what cost. One of her crew has been selling intelligence to the Manshoon Splinter and she has been holding the knowledge in reserve, waiting for a moment when it would be most useful.
 
-If the party lets her handle the traitor in her own way, she honors the departure agreement and gives them a parting gift: the name of the Splinter operative who bought the intelligence from her crew. That name is Kelso Fiddlewick. Melannor passes it to both the Harpers and the Lords' Alliance independently, and it becomes an active investigation thread in Arc E.
+If the party lets her handle the traitor in her own way, she honors the departure agreement and gives them a parting gift: the name of the Splinter operative who bought the intelligence from her crew. That name is Kelso Fiddlewick. Melannor passes it to both the Harpers and the Lords' Alliance independently, and it becomes an active investigation thread in **Faction Outposts**.

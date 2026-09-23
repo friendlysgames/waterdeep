@@ -70,7 +70,7 @@ She does not tell them what she is going to do with it. The answer is: file it u
 ### Concluding the Event
 
 #### Zelifarn Contacted: True / False
-Record whether the party made contact with Zelifarn and established a relationship. This flag is read by **Arc H — Sea Maidens Faire**, where Zelifarn is an approach vector and a moral thread. Parties who met him here have prior standing with a young bronze dragon who has been watching the harbor — he recognizes them, has been following their activities with interest, and will cooperate more readily because of what was exchanged here.
+Record whether the party made contact with Zelifarn and established a relationship. This flag is read by **Sea Maidens Faire**, where Zelifarn is an approach vector and a moral thread. Parties who met him here have prior standing with a young bronze dragon who has been watching the harbor — he recognizes them, has been following their activities with interest, and will cooperate more readily because of what was exchanged here.
 
 > **[GM]**
 >
@@ -83,7 +83,7 @@ Record whether the party made contact with Zelifarn and established a relationsh
 >
 > Zelifarn is now a contact — loose, unconventional, and interested in a good exchange. He notices everything that moves below the harbor surface. He will share observations in exchange for something interesting to add to his collection.
 >
-> He resurfaces in **Arc H — Sea Maidens Faire**. Parties who gave him something genuine here have established prior standing. Parties who gave him nothing worth keeping will need to earn it fresh.
+> He resurfaces in **Sea Maidens Faire**. Parties who gave him something genuine here have established prior standing. Parties who gave him nothing worth keeping will need to earn it fresh.
 >
 > **Force Grey Mission 3 — The Trouble with Meloon** becomes available when the party reaches Renown 4 and 4th level.
 >

@@ -61,7 +61,7 @@ Krebbyg, given the document: "This is what Jarlaxle was waiting for."
 > **[GM]**
 >
 > #### The Windmill's Significance
-> The converted windmill in the North Ward is the Cassalanter outpost targeted in Arc E. Its contents — specifically documents on the lower floor — reference the Brandath Crypts vault approach and provide a clue chain leading to Arc J. Jarlaxle has been assembling this intelligence chain since Mission 2 (the Wazoo document pressured the Cassalanters and put Brimel under strain). The windmill intelligence is the payload he has been building toward.
+> The converted windmill in the North Ward is the Cassalanter outpost targeted in **Faction Outposts**. Its contents — specifically documents on the lower floor — reference the Brandath Crypts vault approach and provide a clue chain leading to **Vault of Dragons**. Jarlaxle has been assembling this intelligence chain since Mission 2 (the Wazoo document pressured the Cassalanters and put Brimel under strain). The windmill intelligence is the payload he has been building toward.
 >
 > This does not need to be explained to the party. Krebbyg's "This is what Jarlaxle was waiting for" is sufficient acknowledgment that the mission matters more than its presentation suggests.
 

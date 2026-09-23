@@ -40,7 +40,7 @@ What he will offer with a **DC 15 Charisma (Persuasion)** check: "There's a Harp
 > **[GM]**
 >
 > #### Mirt's Response to the Identification
-> When the party reports to Mirt: he goes quiet for a long moment. "He's been attending her parties for three months. He's been mapping our network — who we meet with, where we operate." Another silence. "He could have left before anyone was the wiser. He let you identify him." He looks at the party with equal parts impressed and unsettled. "He wanted us to know he knows." He does not say what that means for Arc E. He does not have to.
+> When the party reports to Mirt: he goes quiet for a long moment. "He's been attending her parties for three months. He's been mapping our network — who we meet with, where we operate." Another silence. "He could have left before anyone was the wiser. He let you identify him." He looks at the party with equal parts impressed and unsettled. "He wanted us to know he knows." He does not say what that means for **Faction Outposts**. He does not have to.
 
 ### If the Party Names Someone Else
 
@@ -54,12 +54,12 @@ The calling card still arrives at Trollskull Manor two days later: *Better luck 
 
 #### Jarlaxle Identity Exposed at Harper Salon: True / False
 
-Record whether the party identified Erystian Demarne as Jarlaxle Baenre during the salon or tail. This flag is read by Arc H (Sea Maidens Faire) — parties who made this connection earlier approach the Faire with prior knowledge of Jarlaxle's identity and operating method.
+Record whether the party identified Erystian Demarne as Jarlaxle Baenre during the salon or tail. This flag is read by **Sea Maidens Faire** — parties who made this connection earlier approach the Faire with prior knowledge of Jarlaxle's identity and operating method.
 
 > **[GM]**
 >
 > **+1 Renown if** Jarlaxle is correctly identified and the identification reported to Mirt before he leaves the estate (or immediately after the tail if the confrontation happens in the street).
-> **+1 Renown if** the party documents enough — the alias, the companion's bearing, the drow-made boots, the dead drop notation from the tail — that Mirt can build a working intelligence profile on Jarlaxle's cover identity. This gives the Harpers a head start when the Sea Maidens Faire becomes a target in Arc E.
+> **+1 Renown if** the party documents enough — the alias, the companion's bearing, the drow-made boots, the dead drop notation from the tail — that Mirt can build a working intelligence profile on Jarlaxle's cover identity. This gives the Harpers a head start when the Sea Maidens Faire becomes a target in **Faction Outposts**.
 
 > **[GM]**
 >
@@ -67,13 +67,13 @@ Record whether the party identified Erystian Demarne as Jarlaxle Baenre during t
 >
 > Remallia is now a known Harper contact. The party can approach her directly from this point forward.
 >
-> The calling card threads forward: the Sea Maidens Faire becomes a Harper target again in Arc E, and the name "Erystian Demarne" resurfaces. Parties who carry the documentation profile Mirt mentioned enter that arc with an advantage the parties who missed the identification do not have.
+> The calling card threads forward: the Sea Maidens Faire becomes a Harper target again in **Faction Outposts**, and the name "Erystian Demarne" resurfaces. Parties who carry the documentation profile Mirt mentioned enter that quest with an advantage the parties who missed the identification do not have.
 >
 > The salon guest threads are available to pursue:
 > - Saeth Cromley's missing Watch officer is Corene Wyldath's contact — relevant to Mission 5.
-> - Tessabrant Elamondra's dye detail and Farrak Iltimer's ruby order are Arc G Cassalanter pre-intelligence.
+> - Tessabrant Elamondra's dye detail and Farrak Iltimer's ruby order are **Cassalanter Villa** pre-intelligence.
 > - Zalara Moonwhisper's vault reference is an early Vault of Dragons thread.
-> - Jelenn Urmbrusk's name appears on the Kolat Towers blackmail list in Arc I.
+> - Jelenn Urmbrusk's name appears on the Kolat Towers blackmail list in **Kolat Towers**.
 >
 > **Harper Mission 5 — The Sleeping Asset** becomes available when the party reaches Renown 10 and 6th level.
 >

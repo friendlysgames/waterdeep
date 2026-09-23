@@ -63,7 +63,7 @@ Before the party leaves, Savra gives each member a copy of the formal recognitio
 
 Two practical effects follow the recognition:
 - Watch officers who see the party in conflict with a Cassalanter operative will not automatically intervene against them.
-- In Arc J, if the Halls of Justice formally recognized the party as Order associates, Watch cooperation at the Vault district is marginally better. Savra will testify on the party's behalf if any Arc J complication goes legal.
+- In **Vault of Dragons**, if the Halls of Justice formally recognized the party as Order associates, Watch cooperation at the Vault district is marginally better. Savra will testify on the party's behalf if any **Vault of Dragons** complication goes legal.
 
 > > "The Founders' Day timeline is tighter than we thought," she says. "Whatever you're doing with the vault — do it fast."
 
@@ -81,9 +81,9 @@ She shakes each person's hand, and she does not let go right away.
 >
 > #### Next Steps
 >
-> The party holds formal Order recognition. In **Arc G: Cassalanter Villa**, this recognition can be presented as grounds for Watch non-interference during the heist.
+> The party holds formal Order recognition. In **Cassalanter Villa**, this recognition can be presented as grounds for Watch non-interference during the heist.
 >
-> In **Arc J: Vault of Dragons**, Watch cooperation at the Vault district is marginally better with this recognition in hand. Savra will testify on the party's behalf if any Arc J complication goes legal.
+> In **Vault of Dragons**, Watch cooperation at the Vault district is marginally better with this recognition in hand. Savra will testify on the party's behalf if any **Vault of Dragons** complication goes legal.
 >
 > #### Milestone: None
 >

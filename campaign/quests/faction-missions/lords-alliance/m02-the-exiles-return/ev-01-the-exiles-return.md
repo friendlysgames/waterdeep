@@ -10,7 +10,7 @@
 > - Inside the warehouse, Harko fights until bloodied, then calls for surrender and offers Veralax's identity as a trade.
 > - Lira — a Muleskull Tavern server who appears in the alley — gives the party sixty seconds to demonstrate whether they can operate quietly.
 > - A captured Harko in Watch custody generates the sealed Thayan intelligence file used in Mission 3.
-> - Veralax's identity reported to Jalester seeds a Splinter thread that pays off in Arc E.
+> - Veralax's identity reported to Jalester seeds a Splinter thread that pays off in **Faction Outposts**.
 
 **Background (DM only)**
 
@@ -104,7 +104,7 @@ This information is accurate, verifiable, and actionable. Veralax is a Manshoon 
 >
 > **If Harko is taken to Watch custody:** He gives a full statement. Jalester receives the sealed Thayan intelligence file on **Esloon Bezant** — his failed coup in Thay, his arrival in Waterdeep, and a list of associates. This file reduces the DC to locate Esloon in **Mission 3** by 2.
 >
-> **If Veralax's address reaches Jalester:** Watch surveillance identifies Veralax as a Manshoon Splinter operative. He is picked up two weeks later. His arrest removes one communication channel in the Dock Ward — the Splinter response team in Arc E is missing one of its usual liaisons.
+> **If Veralax's address reaches Jalester:** Watch surveillance identifies Veralax as a Manshoon Splinter operative. He is picked up two weeks later. His arrest removes one communication channel in the Dock Ward — the Splinter response team in **Faction Outposts** is missing one of its usual liaisons.
 >
 > #### Next Steps
 >

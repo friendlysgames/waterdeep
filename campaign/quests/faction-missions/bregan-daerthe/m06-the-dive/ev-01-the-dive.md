@@ -95,7 +95,7 @@ Krebbyg, when the party surfaces with the Eye or without it: he reads their hand
 
 #### Eye 3 Recovered by BD: True / False
 
-Record whether the party recovered the third Eye of the Stone of Golorr on behalf of Bregan D'aerthe. This flag is read by **Arc H — Sea Maidens Faire**, where it affects which party has leverage in the negotiation with Jarlaxle. If True, Jarlaxle enters the Arc H negotiation holding Eye #3 and the BD alliance path opens from a position of strength. If False, Eye #3 is in Guild hands or lost; Arc H's confrontation path becomes the more likely resolution.
+Record whether the party recovered the third Eye of the Stone of Golorr on behalf of Bregan D'aerthe. This flag is read by **Sea Maidens Faire**, where it affects which party has leverage in the negotiation with Jarlaxle. If True, Jarlaxle enters the **Sea Maidens Faire** negotiation holding Eye #3 and the BD alliance path opens from a position of strength. If False, Eye #3 is in Guild hands or lost; **Sea Maidens Faire**'s confrontation path becomes the more likely resolution.
 
 > **[GM]**
 >
@@ -107,13 +107,13 @@ Record whether the party recovered the third Eye of the Stone of Golorr on behal
 >
 > #### Next Steps
 >
-> If the Guild dive team escaped or the lookout sent a warning: the Xanathar Guild's awareness of Bregan D'aerthe's harbor operations is elevated. **Arc H — Sea Maidens Faire** should note that the Guild's escalation tier toward the Eyecatcher anchorage is one higher than its base. Xanathar has been told his people encountered resistance at the wreck, and he will want to know who.
+> If the Guild dive team escaped or the lookout sent a warning: the Xanathar Guild's awareness of Bregan D'aerthe's harbor operations is elevated. **Sea Maidens Faire** should note that the Guild's escalation tier toward the Eyecatcher anchorage is one higher than its base. Xanathar has been told his people encountered resistance at the wreck, and he will want to know who.
 >
 > Krebbyg delivers a message the following morning: *The Faire is committed to Waterdeep for another season. Zardoz Zord extends his personal regards.* A second envelope holds the 250 gp. There is no note with the coin.
 >
-> The party now has standing access to the Seven Masks Theater back room as a meeting point and safe house. At Jarlaxle's discretion — and at Renown 15+ — drow disguise resources are available for **Arc H**.
+> The party now has standing access to the Seven Masks Theater back room as a meeting point and safe house. At Jarlaxle's discretion — and at Renown 15+ — drow disguise resources are available for **Sea Maidens Faire**.
 >
-> This mission chain is complete. The BD faction's contribution to **Arc H — Sea Maidens Faire** depends on the flags carried forward from this chain: Eye 3 Recovered by BD, and the three Nar'l flags from Mission 4. All four shape the posture Jarlaxle takes when the party arrives at the Eyecatcher with demands.
+> This mission chain is complete. The BD faction's contribution to **Sea Maidens Faire** depends on the flags carried forward from this chain: Eye 3 Recovered by BD, and the three Nar'l flags from Mission 4. All four shape the posture Jarlaxle takes when the party arrives at the Eyecatcher with demands.
 >
 > #### Milestone: None
 >

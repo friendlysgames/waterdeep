@@ -1,12 +1,12 @@
 # Design Notes: Force Grey Mission 4 — Destroy the Intellect Factory
 
-## Nihiloor's Arc-Spanning Role
+## Nihiloor's Quest-Spanning Role
 
-***The same enemy, twice.*** Nihiloor is the same mind flayer who appears in Xanathar's personal retinue in Arc F. This mission intentionally precedes Arc F in the expected encounter sequence — the Force Grey arc is building toward Arc F throughout, and Mission 4 is the moment where the two tracks merge. A party that ran this mission and drove Nihiloor out encounters a weakened version of it in Arc F: still dangerous, but with fewer hosts and without the production infrastructure that made it a threat at scale.
+***The same enemy, twice.*** Nihiloor is the same mind flayer who appears in Xanathar's personal retinue in **Xanathar's Lair**. This mission intentionally precedes **Xanathar's Lair** in the expected encounter sequence — the Force Grey arc is building toward **Xanathar's Lair** throughout, and Mission 4 is the moment where the two tracks merge. A party that ran this mission and drove Nihiloor out encounters a weakened version of it in **Xanathar's Lair**: still dangerous, but with fewer hosts and without the production infrastructure that made it a threat at scale.
 
-***If Arc F runs first.*** It is possible for the party to reach Arc F before completing Mission 4, particularly if their Force Grey renown path is slower than their main-quest advancement. In this case, the mission encounter with Nihiloor carries a different weight: the party recognizes it, knows what it can do, and has prior evidence of its capabilities. Nihiloor, in turn, has encountered the party in the lair and adjusted — its escape route from X24 is now a prepared path rather than an improvised one, and it moves toward it faster. The DM should note the sequence when planning this mission.
+***If Xanathar's Lair runs first.*** It is possible for the party to reach **Xanathar's Lair** before completing Mission 4, particularly if their Force Grey renown path is slower than their main-quest advancement. In this case, the mission encounter with Nihiloor carries a different weight: the party recognizes it, knows what it can do, and has prior evidence of its capabilities. Nihiloor, in turn, has encountered the party in the lair and adjusted — its escape route from X24 is now a prepared path rather than an improvised one, and it moves toward it faster. The DM should note the sequence when planning this mission.
 
-***Destruction vs. escape.*** Whether Nihiloor is destroyed here matters for Arc F. This is documented in the Next Steps block. The DM should track which outcome occurred and carry it forward — it is one of the few places in the faction mission arc where a specific binary outcome (alive vs. dead) has named downstream effects.
+***Destruction vs. escape.*** Whether Nihiloor is destroyed here matters for **Xanathar's Lair**. This is documented in the Next Steps block. The DM should track which outcome occurred and carry it forward — it is one of the few places in the faction mission arc where a specific binary outcome (alive vs. dead) has named downstream effects.
 
 ## Soluun Xibrindas
 

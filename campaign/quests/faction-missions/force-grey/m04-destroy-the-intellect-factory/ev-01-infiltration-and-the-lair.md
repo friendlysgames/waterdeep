@@ -15,7 +15,7 @@
 
 **Background (DM only)**
 
-This is the same lair the party passed through in Arc A — the Xanathar sewer hideout has a connection deeper into the lair structure. **Nihiloor** is a mind flayer managing intellect devourer production. It is not suicidal. Its priority in any confrontation is escape, and it has been doing this long enough to have an escape route.
+This is the same lair the party passed through in **Finding Floon** — the Xanathar sewer hideout has a connection deeper into the lair structure. **Nihiloor** is a mind flayer managing intellect devourer production. It is not suicidal. Its priority in any confrontation is escape, and it has been doing this long enough to have an escape route.
 
 **Meloon Wardragon**, if restored in Mission 3, can provide tactical intelligence before the party departs. The devourer that occupied him had access to his Force Grey memories, which included two visits to Xanathar's Lair. Meloon's recall is fragmentary — the devourer suppressed his own conscious memory — but the layout of X1 through X24 is familiar enough that Meloon can sketch a rough map and name the beholder zombie in X2. If Meloon is available, the party has Advantage on the first Perception check they make inside the lair.
 
@@ -35,9 +35,9 @@ She says it without inflection. There is a short silence.
 
 Three routes exist. Which are available depends on prior work:
 
-**The Sewer Route** — Available if the party has the sewer access point from Lords' Alliance Mission 1's aftermath (Herath's note) or has any intelligence on the sewer hideout from Arc A. Enter through the Orb Confectioners' cellar using the passphrase "eight small eyes / around an ocular cake," through the sewer hideout, and into the lair's lower areas.
+**The Sewer Route** — Available if the party has the sewer access point from Lords' Alliance Mission 1's aftermath (Herath's note) or has any intelligence on the sewer hideout from **Finding Floon**. Enter through the Orb Confectioners' cellar using the passphrase "eight small eyes / around an ocular cake," through the sewer hideout, and into the lair's lower areas.
 
-**The Gathering Point Route** — Available if the party has any Xanathar Guild passphrase or contact gathered during the Arc A–B investigations, OG Mission 1 (Pell's Field Ward intelligence), or Guild street knowledge from prior missions. Access is through one of the Terasse Estate gathering points; the party is escorted blind to the lair's entry hall.
+**The Gathering Point Route** — Available if the party has any Xanathar Guild passphrase or contact gathered during the **Finding Floon** and **Trollskull Alley** investigations, OG Mission 1 (Pell's Field Ward intelligence), or Guild street knowledge from prior missions. Access is through one of the Terasse Estate gathering points; the party is escorted blind to the lair's entry hall.
 
 **The Bregan D'aerthe Route** — Available if the party has established a relationship with Jarlaxle's organization (BD missions, the Mission 2 calling card, or Sea Maidens Faire reconnaissance). Bregan D'aerthe has an underground passage to X1. Three **DC 13 Wisdom (Perception) checks** to follow the guildsign without losing the thread.
 
@@ -69,9 +69,9 @@ A drow is unconscious in the corner: **Soluun Xibrindas**, in poor condition, al
 > #### If Nihiloor Is Present in X24
 > Nihiloor does not want to fight a prepared party. From round one it moves toward the exit — *Mind Blast* (60-foot Cone, **DC 15 Intelligence**; failure: 4d8+4 psychic + Stunned until end of next turn) only if the party blocks all exits. *Dominate Monster* if cornered. Its goal is to leave, not to win. The party's goal is the Spawning Pool, not Nihiloor; blocking the exit to fight it costs time and resources they need for the pool.
 >
-> If Nihiloor escapes here, it is gone from the lair for this operation. It resurfaces in **Arc F**. Parties who ran it off here will recognize it there.
+> If Nihiloor escapes here, it is gone from the lair for this operation. It resurfaces in **Xanathar's Lair**. Parties who ran it off here will recognize it there.
 >
-> If Nihiloor is destroyed or cornered here, it is gone entirely. This affects Arc F: Xanathar's personal retinue has a vacancy, and his mind-control network has lost its operational intelligence in the city.
+> If Nihiloor is destroyed or cornered here, it is gone entirely. This affects **Xanathar's Lair**: Xanathar's personal retinue has a vacancy, and his mind-control network has lost its operational intelligence in the city.
 
 **X25 — Food for Thought:** The room adjacent to the Spawning Pool. Whatever is here when the party arrives must be dealt with before entering X26. Proceed to the **Nihiloor and the Pool** Event.
 

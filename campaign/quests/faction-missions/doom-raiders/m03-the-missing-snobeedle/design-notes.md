@@ -6,7 +6,7 @@
 
 A party that has run OG-M3 or EE-M3 before this mission has already met Kelso. The DR-M3 source text is explicit about this: the Aftermath notes that "if the party has also worked with the Order of the Gauntlet, they have met him twice, in different capacities, and he has noticed." The Background block for this mission preserves that expectation. The GM should bring the prior encounter into Kelso's first exchange — not with an explanation or recap, but with the recognition that someone shows when they already know how someone operates.
 
-The convergence is designed rather than accidental. Kelso is the party's clearest window into the Dock Ward's informal economy. Across three different faction missions, he accumulates a picture of the party that no single mission could build. By the time Arc E involves the Dock Ward outposts, a party that dealt fairly with the Shard Shunners has an asset they earned through repeated behavior, not a single diplomatic check.
+The convergence is designed rather than accidental. Kelso is the party's clearest window into the Dock Ward's informal economy. Across three different faction missions, he accumulates a picture of the party that no single mission could build. By the time **Faction Outposts** involves the Dock Ward outposts, a party that dealt fairly with the Shard Shunners has an asset they earned through repeated behavior, not a single diplomatic check.
 
 ## Dasher's Choice as a Design Problem
 

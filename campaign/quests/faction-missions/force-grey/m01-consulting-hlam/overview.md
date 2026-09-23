@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Quest Requirements
-> Available from the start of Force Grey membership. No prior arc completion required. Best placed before or during Arc B, while the party is still establishing its Waterdeep contacts.
+> Available from the start of Force Grey membership. No prior arc completion required. Best placed before or during **Trollskull Alley**, while the party is still establishing its Waterdeep contacts.
 >
 > #### Difficulty
 > *An adventure for 2nd-level characters.*

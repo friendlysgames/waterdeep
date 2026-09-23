@@ -26,4 +26,4 @@ Krebbyg arrived at early afternoon — not his hour. He was more concise than us
 
 The party reached Nar'l through his Castle Ward sewer contact protocol — a chalk spider mark on the east wall of the main junction, followed by a four-hour wait until he arrived by Dimension Door, cloaked and visibly strained. He was managing fear with everything he had. He confirmed that he had been covering for Soluun. He did not apologize.
 
-Three approaches were viable: forge a false report to satisfy Ahmaergo, extract Nar'l from the lair entirely, or discredit Ahmaergo's source before the investigation could formalize. The choice shaped Nar'l's status going into Arc F — and the choice's consequences cannot be reversed.
+Three approaches were viable: forge a false report to satisfy Ahmaergo, extract Nar'l from the lair entirely, or discredit Ahmaergo's source before the investigation could formalize. The choice shaped Nar'l's status going into **Xanathar's Lair** — and the choice's consequences cannot be reversed.

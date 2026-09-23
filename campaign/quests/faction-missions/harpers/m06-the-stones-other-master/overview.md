@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Quest Requirements
-> Available at Renown 13 and 7th level, and only after the Stone of Golorr has been partially awakened (at least one Eye installed). Triggers during Arc J — The Vault of Dragons preparation phase.
+> Available at Renown 13 and 7th level, and only after the Stone of Golorr has been partially awakened (at least one Eye installed). Triggers during **Vault of Dragons** preparation phase.
 >
 > #### Difficulty
 > *An adventure for 7th level characters.*
@@ -28,4 +28,4 @@ He was asking. He looked tired.
 
 The negotiation was interrupted by a Manshoon Splinter squad that had been watching Trollskull Manor and moved on the building within two hours of Mirt's arrival. Whether the party had agreed or refused, the Splinter wanted the Stone.
 
-The mission's resolution shaped two things: what tactical intelligence the Harpers brought to Arc J, and whether the party learned the name of the individual the Stone had identified as psychically compromised.
+The mission's resolution shaped two things: what tactical intelligence the Harpers brought to **Vault of Dragons**, and whether the party learned the name of the individual the Stone had identified as psychically compromised.

@@ -10,7 +10,7 @@
 > - The Castle Ward cisterns contain a contaminated eastern channel — oily iridescent film, wrong smell, faint psychic quality; extended exposure (10+ minutes) imposes the Dazed condition.
 > - The Splinter cache is in a sealed side-chamber: six alchemical vessels and a logbook decipherable at DC 14 Intelligence (Investigation), naming Raeve Solnath.
 > - Raeve's two cultist assistants arrive during or after the cache discovery; they flee rather than fight.
-> - If both escape, Raeve relocates the cache and the Trades Ward Watch operates at disadvantage on Wisdom checks during Arc E.
+> - If both escape, Raeve relocates the cache and the Trades Ward Watch operates at disadvantage on Wisdom checks during **Faction Outposts**.
 > - Jeryth purifies the contaminated channels through a Phaulkonmere herb cutting once the source is sealed; the garden restores that evening.
 
 **Background (DM only)**
@@ -43,7 +43,7 @@ The logbook uses a Splinter cipher. A **DC 14 Intelligence (Investigation) check
 >
 > They will not fight. They turn and run the moment they see the party. **DC 14 Dexterity** to interpose before they reach the tunnel, or any spell that holds or restrains. A caught cultist answers directly: they were paid to add vessels to the eastern channel every three days; they have done this for six weeks; they do not know who hired them beyond a message drop. They cannot identify Raeve.
 >
-> If both escape, Raeve relocates the cache within two days. The contamination continues into Arc E. The Trades Ward City Watch operates at disadvantage on Wisdom checks for the duration of Arc E as the cognitive suppression spreads through district water.
+> If both escape, Raeve relocates the cache within two days. The contamination continues into **Faction Outposts**. The Trades Ward City Watch operates at disadvantage on Wisdom checks for the duration of **Faction Outposts** as the cognitive suppression spreads through district water.
 
 ### Purification
 
@@ -60,13 +60,13 @@ When the party returns to Phaulkonmere that evening, the herb beds are restored.
 > **[GM]**
 >
 > **+1 Renown if** the Splinter cache is found and destroyed before any cultist can report the breach to Raeve. The delivery schedule ends.
-> **+1 Renown if** the logbook is recovered and decoded, providing the six-week schedule and Raeve Solnath's name. If reported to the Lords' Alliance, they set an ambush at the cistern entrance timed to the next scheduled delivery. Raeve is arrested in Arc E.
+> **+1 Renown if** the logbook is recovered and decoded, providing the six-week schedule and Raeve Solnath's name. If reported to the Lords' Alliance, they set an ambush at the cistern entrance timed to the next scheduled delivery. Raeve is arrested in **Faction Outposts**.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> Jeryth's purification work deepens her connection to Waterdeep's underground water system through the channels she has now restored. This connection strengthens the wards she applies in **Arc J — The Vault of Dragons** when the vault is opened.
+> Jeryth's purification work deepens her connection to Waterdeep's underground water system through the channels she has now restored. This connection strengthens the wards she applies in **Vault of Dragons** when the vault is opened.
 >
 > Melannor tells the party the following morning that Jeryth has offered her healing to each of them for injuries sustained on any mission going forward. She will not say this herself. That is how she marks a debt repaid, he explains.
 >

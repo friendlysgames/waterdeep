@@ -8,7 +8,7 @@
 >
 > - Laeral Silverhand meets the party in a private audience chamber at Piergeiron's Palace and asks three questions about the Grand Game.
 > - She presents the Manshoon offer openly as a political question she wants the party's judgment on before she decides.
-> - A successful argument against the offer (DC 13) prevents Manshoon's leverage play in Arc J.
+> - A successful argument against the offer (DC 13) prevents Manshoon's leverage play in **Vault of Dragons**.
 > - The Masked Lord's Writ is issued at the close of the audience regardless of how the questions are answered.
 > - If Jalester Silvermane has been identified as Illuun-compromised (Harper Mission 6), the party faces a choice about whether to tell Laeral now.
 >
@@ -57,15 +57,15 @@ She adds:
 
 > > "You're right that accepting it creates a precedent I'll regret."
 
-She declines the offer. In Arc J, Manshoon holds no political leverage card. The Splinter does not have a play at the vault.
+She declines the offer. In **Vault of Dragons**, Manshoon holds no political leverage card. The Splinter does not have a play at the vault.
 
-**If the party has no opinion or argues for accepting it:** Laeral makes the deal with the Splinter. In Arc J, Manshoon gains specific leverage: he can delay Watch cooperation with the party for up to two hours by activating a political contact, or threaten to expose one Masked Lord identity to the public press. The party may be forced to negotiate with him rather than fight him directly through Arc I. Laeral will not be embarrassed about her choice. She will not help manage its consequences.
+**If the party has no opinion or argues for accepting it:** Laeral makes the deal with the Splinter. In **Vault of Dragons**, Manshoon gains specific leverage: he can delay Watch cooperation with the party for up to two hours by activating a political contact, or threaten to expose one Masked Lord identity to the public press. The party may be forced to negotiate with him rather than fight him directly through **Kolat Towers**. Laeral will not be embarrassed about her choice. She will not help manage its consequences.
 
 > **[GM]**
 >
 > #### What Counts as a Specific Reason
 >
-> A moral appeal ("it's wrong to deal with Manshoon") does not meet the DC. Laeral already has moral distaste for the offer; she said so implicitly by asking. What she is testing is whether the party can identify the strategic problem: accepting the offer validates the Splinter as a political entity with the right to operate in Waterdeep, creates a precedent for future extortion of city officials, and gives Manshoon intelligence about which Lords are most vulnerable to being named publicly — which he will use after Arc J regardless of whether the gold agreement is honored.
+> A moral appeal ("it's wrong to deal with Manshoon") does not meet the DC. Laeral already has moral distaste for the offer; she said so implicitly by asking. What she is testing is whether the party can identify the strategic problem: accepting the offer validates the Splinter as a political entity with the right to operate in Waterdeep, creates a precedent for future extortion of city officials, and gives Manshoon intelligence about which Lords are most vulnerable to being named publicly — which he will use after **Vault of Dragons** regardless of whether the gold agreement is honored.
 >
 > Any argument that names one of these specific mechanisms, made with a successful check, persuades her.
 
@@ -81,9 +81,9 @@ She looks at each party member once.
 
 **The Masked Lord's Writ** authorizes the party by name to enter the Vault of Dragons district and access the ceremonial lock under the authority of the Open Lord of Waterdeep. It includes a provision for Watch non-interference during the operation.
 
-**Practical effects in Arc J:**
+**Practical effects in Vault of Dragons:**
 - City Watch officers who challenge the party at the Vault district gate defer to the writ. The gate is opened within four rounds of presentation.
-- One legal intervention is available during Arc J: Laeral will authorize Watch action on the party's behalf once — used to handle a rival faction complication, a legal challenge, or an NPC arrest.
+- One legal intervention is available during **Vault of Dragons**: Laeral will authorize Watch action on the party's behalf once — used to handle a rival faction complication, a legal challenge, or an NPC arrest.
 
 > **[GM]**
 >
@@ -91,7 +91,7 @@ She looks at each party member once.
 >
 > If Jalester Silvermane has been identified as Illuun-compromised (Harper Mission 6): any intelligence the party shared with Jalester during this audience — including the Stone's current location — has potentially reached Illuun's network.
 >
-> Laeral does not know about the compromise. The party faces a choice: tell her now (she removes Jalester from active duty immediately, which disrupts Alliance operations in Arc J) or handle it themselves (which means the compromise continues to be active through the vault approach).
+> Laeral does not know about the compromise. The party faces a choice: tell her now (she removes Jalester from active duty immediately, which disrupts Alliance operations in **Vault of Dragons**) or handle it themselves (which means the compromise continues to be active through the vault approach).
 >
 > Neither option is clearly correct. Telling her is honest and protective. Not telling her preserves Alliance operational capacity but leaves Illuun with a potential intelligence feed into everything the party just disclosed.
 
@@ -105,7 +105,7 @@ She looks at each party member once.
 >
 > #### Next Steps
 >
-> The party holds the Masked Lord's Writ. **Arc J — Vault of Dragons** is now formally authorized. Laeral's involvement in Arc J is shaped by how the audience went: a party that gave her accurate intelligence and argued against the Splinter deal will find her a prepared ally. A party that hedged or let the deal proceed will find her present but not actively supporting.
+> The party holds the Masked Lord's Writ. **Vault of Dragons** is now formally authorized. Laeral's involvement in **Vault of Dragons** is shaped by how the audience went: a party that gave her accurate intelligence and argued against the Splinter deal will find her a prepared ally. A party that hedged or let the deal proceed will find her present but not actively supporting.
 >
 > #### Milestone: None
 >
@@ -125,4 +125,4 @@ The Open Lord of Waterdeep has questions for the party. She has something they n
 
 ## Summary
 
-Laeral Silverhand summoned the party to Piergeiron's Palace and asked three questions about the Grand Game: who holds the Stone, what the factions intend to do with the vault gold, and whether she should accept the Manshoon Splinter's offer to trade Masked Lord identities for a share of the vault. The party's answers and their handling of the Manshoon question shaped Laeral's preparation and the leverage conditions waiting for them in Arc J. At the close of the audience, she issued the Masked Lord's Writ authorizing the vault operation under her authority.
+Laeral Silverhand summoned the party to Piergeiron's Palace and asked three questions about the Grand Game: who holds the Stone, what the factions intend to do with the vault gold, and whether she should accept the Manshoon Splinter's offer to trade Masked Lord identities for a share of the vault. The party's answers and their handling of the Manshoon question shaped Laeral's preparation and the leverage conditions waiting for them in **Vault of Dragons**. At the close of the audience, she issued the Masked Lord's Writ authorizing the vault operation under her authority.

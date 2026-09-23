@@ -33,7 +33,7 @@ Tashlyn Yafeera called the meeting in person at Dead End Alley in the Dock Ward,
 
 Everything the party had done for the faction had been visible to the Splinter. Tashlyn said she was sorry about that.
 
-Skeemo had prepared for this moment. A dray was hired for tomorrow. A route ran through the Castle Ward. He had access to the teleportation circle at Yellowspire, Manshoon's Trades Ward relay point, and the circle would deliver him directly to Kolat Towers. If he reached it, he was out of reach until Arc I.
+Skeemo had prepared for this moment. A dray was hired for tomorrow. A route ran through the Castle Ward. He had access to the teleportation circle at Yellowspire, Manshoon's Trades Ward relay point, and the circle would deliver him directly to Kolat Towers. If he reached it, he was out of reach until **Kolat Towers**.
 
 He knew the party was coming. He did not know when.
 

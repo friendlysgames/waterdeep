@@ -24,4 +24,4 @@ Two grells have established a nest in an abandoned Dock Ward warehouse, driven u
 
 Two investigation checks locate the warehouse. The fight requires split attention: both grells must be dealt with while Mirsa is protected and freed from the cocoon before the second grell fully reorients. A grell at half HP breaks for the open loading doors and goes over the harbor. When the party returns to Phaulkonmere to report, Jeryth speaks directly for the first time. Every party member who enters the garden receives her gift.
 
-Mirsa's account of the Pier 17 dockhand payoff is clean, specific, and actionable. It points toward a Xanathar Guild south dock operation that threads into Arc E.
+Mirsa's account of the Pier 17 dockhand payoff is clean, specific, and actionable. It points toward a Xanathar Guild south dock operation that threads into **Faction Outposts**.

@@ -16,4 +16,4 @@
 
 ## Downstream Connection
 
-***Arc G Cassalanter access.*** If the cipher note's contents reach the Splinter and Tessalar is not turned, Mirt loses access to a Cassalanter social contact. This is never announced directly — it manifests as thinner Harper intelligence about Cassalanter villa operations when the party is preparing for Arc G. The party can trigger this consequence without knowing they did, which makes the mission's resolution carry more weight than a simple pass/fail.
+***Cassalanter Villa access.*** If the cipher note's contents reach the Splinter and Tessalar is not turned, Mirt loses access to a Cassalanter social contact. This is never announced directly — it manifests as thinner Harper intelligence about Cassalanter villa operations when the party is preparing for **Cassalanter Villa**. The party can trigger this consequence without knowing they did, which makes the mission's resolution carry more weight than a simple pass/fail.

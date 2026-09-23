@@ -14,8 +14,8 @@ The GM should play Davil's return accordingly. He was fond of Skeemo. He does no
 
 Both paths are winnable. The dray chase is harder to clean up if the party escalates; the rooftop chase becomes nearly unwinnable if the party lacks magical revelation options. The split between them is not random — it tracks the party's entry approach in ev-01. A party that blocked the skylight does not get the dray path. A party that entered through the front door does not get the clean rooftop interception.
 
-## Skeemo's Escape as an Arc I Setup
+## Skeemo's Escape as a Kolat Towers Setup
 
-***Skeemo escaping is a designed outcome, not a failure state.*** The mission source explicitly states: "If he reaches it, he is out of reach until the party can go to Kolat Towers in Arc I." This is preserved rather than foreclosed. A party that lets Skeemo reach Yellowspire does not simply lose renown — they acquire an Arc I complication that changes the tenor of that heist. Skeemo will recognize them on sight and alert his new patron. The party that stopped him is walking into Kolat Towers without that liability.
+***Skeemo escaping is a designed outcome, not a failure state.*** The mission source explicitly states: "If he reaches it, he is out of reach until the party can go to Kolat Towers." This is preserved rather than foreclosed. A party that lets Skeemo reach Yellowspire does not simply lose renown — they acquire a **Kolat Towers** complication that changes the tenor of that heist. Skeemo will recognize them on sight and alert his new patron. The party that stopped him is walking into Kolat Towers without that liability.
 
-The design does not punish the losing party unfairly. Arc I is already the hardest heist in the arc sequence. Adding a live hostile who knows the party's faces sharpens that difficulty without making it impossible. The Chase ev file makes this explicit in the Next Steps block so the GM is not managing a surprise at Arc I.
+The design does not punish the losing party unfairly. **Kolat Towers** is already the hardest heist in the quest sequence. Adding a live hostile who knows the party's faces sharpens that difficulty without making it impossible. The Chase ev file makes this explicit in the Next Steps block so the GM is not managing a surprise at **Kolat Towers**.

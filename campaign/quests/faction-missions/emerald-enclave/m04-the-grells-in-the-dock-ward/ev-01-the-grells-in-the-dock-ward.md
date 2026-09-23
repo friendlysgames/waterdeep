@@ -63,20 +63,20 @@ Every party member who enters Phaulkonmere receives a warmth with no natural sou
 
 #### Mirsa's Account
 
-When she recovers, Mirsa is coherent and specific. She was grabbed near Pier 17. A Xanathar Guild operative paid two dockhands to vacate the pier that night — she heard the exchange clearly and remembers the pier number, the arrangement, and the operative's description before she lost consciousness. The pier number and the payoff detail are actionable intelligence pointing toward the Guild's south dock operation, a thread into Arc E.
+When she recovers, Mirsa is coherent and specific. She was grabbed near Pier 17. A Xanathar Guild operative paid two dockhands to vacate the pier that night — she heard the exchange clearly and remembers the pier number, the arrangement, and the operative's description before she lost consciousness. The pier number and the payoff detail are actionable intelligence pointing toward the Guild's south dock operation, a thread into **Faction Outposts**.
 
 ### Concluding the Event
 
 > **[GM]**
 >
 > **+1 Renown if** Mirsa is rescued alive before either grell escapes.
-> **+1 Renown if** Pier 17 and the dockhand payoff are investigated and reported to both Melannor and the Watch. One Xanathar Guild cargo movement in Arc E is disrupted by unexpected Watch attention on the south docks as a result.
+> **+1 Renown if** Pier 17 and the dockhand payoff are investigated and reported to both Melannor and the Watch. One Xanathar Guild cargo movement in **Faction Outposts** is disrupted by unexpected Watch attention on the south docks as a result.
 
 > **[GM]**
 >
 > #### Next Steps
 >
-> Mirsa's account of the Pier 17 dockhand payoff is actionable intelligence pointing toward the Xanathar Guild's south dock operation in **Arc E — Faction Outposts**.
+> Mirsa's account of the Pier 17 dockhand payoff is actionable intelligence pointing toward the Xanathar Guild's south dock operation in **Faction Outposts**.
 >
 > **Emerald Enclave Mission 5 — The Fouled Channel** becomes available when the party reaches Renown 9 and 6th level.
 >
