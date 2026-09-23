@@ -386,7 +386,7 @@ Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the ba
 
 ### Milestone and Transition
 
-| Level | Arc | Milestone | XP |
+| Level | Quest | Milestone | XP |
 |:-----:|-----|-----------|---:|
 | 4 | **Faction Outposts** | Complete first outpost chain (any faction) | 400 |
 | 4 | **Faction Outposts** | Complete second outpost chain (any faction) | 400 |

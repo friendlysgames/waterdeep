@@ -311,7 +311,7 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 *Milestone XP.*
 
-| Level | Arc | Milestone | XP |
+| Level | Quest | Milestone | XP |
 |:-----:|-----|-----------|---:|
 | 4–6 | **Xanathar's Lair** | The party recovers the Eye of the Stone from Xanathar's Lair | 6,000 |
 
