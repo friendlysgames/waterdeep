@@ -50,6 +50,25 @@ The gold dragon guardian in the vault is rewritten from a straightforward obstac
 
 ---
 
+## Omitted NPCs
+
+These NPCs appear in quests but have no Notable Figures page, by design:
+
+- The nimblewright — plot prop; no profile needed; covered in the **Fireball!** quest journal
+- Single-scene eyewitnesses (Jezrynne Hornraven, Martem Trec, Obaya Uday) — no profile
+- Nim (construct) — no profile
+- Madrak, Jinny (Kraddoc's scribe), Justyn Rassk — too peripheral
+- Orvyn Dall (Watch appeals clerk; intellect devourer host in **The Legate's Eyes**) — single-quest NPC; no profile
+- Vessin (tiefling BD informant, Dock Ward; **The Handkerchief and the Girl** recipient) — too peripheral; covered by Krebbyg's entry
+- Brimel Crestfall (Cassalanter household steward; **The Theater's Back Room** informant) — single-mission NPC; no profile
+- Florette Cressyn (Cassalanter watcher; **The Theater's Back Room** antagonist) — single-mission NPC; no profile
+- Vell (Manshoon Splinter spy; **The Dead Drop** antagonist hunting Maxeene) — single-mission NPC; no profile
+- Gaxly Rudderbust (Waterdeep Wazoo editor; **The Wazoo Affair**) — single-mission NPC; no profile
+- Heldar (Dock Ward sailor; **The Dockside Killer** near-victim) — single-scene NPC; no profile
+- Rorik Halvars (mercenary name used as cover in **The Yellowspire Job**) — too peripheral
+
+---
+
 ## Source References
 
 - `ch3-running-the-campaign.md` Section 2: "Design Notes: Running the Campaign"
