@@ -1,0 +1,13 @@
+{
+  "experimental": {
+    "agentTeams": true
+  },
+  "teammateMode": "tmux",
+  "env": {
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "claude-sonnet-4-6",
+    "CLAUDE_CODE_SUBAGENT_MODEL": "claude-sonnet-4-6"
+  },
+  "teams": {
+    "model": "claude-sonnet-4-6"
+  }
+}
