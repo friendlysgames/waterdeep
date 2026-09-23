@@ -6,7 +6,7 @@
 > - **Campaign role:** Villain faction; the Grand Game's most territorially established competitor, holding the Stone of Golorr and Eye #1.
 > - **Contacts:** **Ahmaergo**, **Keln Trigos**, **Grinda Garloth** (outpost keepers); **Gorath**, **Korgstrod Uxgulm**, **Noska Ur'gray** (response team leaders)
 > - **Villain profile:** see **Xanathar** in Villains
-> - **Featured in:** **Finding Floon** (Arc A), **Gralhund Villa** (Arc D), **Faction Outposts** (Arc E), **Xanathar's Lair** (Arc F)
+> - **Featured in:** **Finding Floon**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**
 
 ## Operations
 
@@ -46,7 +46,7 @@ Xanathar deploys response teams in escalating tiers. The first or second team th
 
 ### Terasse Estate — Mini-Heist (Castle Ward, Elsambul's Lane)
 
-*Full 5-step planning framework in Arc E Scene 4A. This entry provides keyed area reference for the operation.*
+*Full 5-step planning framework in **Faction Outposts**, Scene 4A. This entry provides keyed area reference for the operation.*
 
 A modest rowhouse secretly owned by Xanathar. On the surface, Keln Trigos runs a healing operation for Xanatharian agents. Behind that, the estate is one of Waterdeep's gladiatorial gathering points. Those who want to attend the fights in Xanathar's Lair report here, are plied with exotic food, then blindfolded and escorted through an underground dock to the caverns near Skullport.
 

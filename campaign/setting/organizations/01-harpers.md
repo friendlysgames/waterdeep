@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — intelligence-gathering operatives working against tyranny and Manshoon's consolidation of the Black Network.
 > - **Contacts:** **Mirt** (primary); **Remallia "Remi" Haventree** (secondary — identity hidden from PCs until Mission 4)
 > - **Mission delivery:** Paper birds arrive at the tavern or wherever the PCs were last seen. Mirt is always somewhere between hard to find and deliberately unavailable.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Faction Outposts** (Arc E), **Xanathar's Lair** (Arc F), **Cassalanter Villa** (Arc G), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 
 ## Operations
 
@@ -47,16 +47,16 @@ The Harpers know the Cassalanters are infernalists. They don't know the full sco
 - The Stone of Golorr, or at minimum three days' access to study it (Mission 6)
 - That the vault gold not be given to any one faction or individual
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Harper Hook |
+| Quest | Harper Hook |
 |-----|-------------|
-| **Arc C** | Mirt quietly tells a Harper PC that the Cassalanters funded the Howling Hatred cult three years ago — and that their sudden interest in the Grand Game worries him. |
-| **Arc D** | A Harper agent was in the crowd near Gralhund Villa. If PCs don't report in, Mirt asks directly what they were doing there. |
-| **Arc E** | Harper informants can be activated against Xanathar and Manshoon outposts (Renown 30+). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the PCs. |
-| **Arc F** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the PCs commit to eliminating Nihiloor. |
-| **Arc G** | The Harpers have documentation of the Cassalanters' infernal contract. Mirt will hand it over if the PCs agree to bring him the contract itself after the heist — not a copy, the original. |
-| **Arc J** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
+| **Fireball!** | Mirt quietly tells a Harper PC that the Cassalanters funded the Howling Hatred cult three years ago — and that their sudden interest in the Grand Game worries him. |
+| **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If PCs don't report in, Mirt asks directly what they were doing there. |
+| **Faction Outposts** | Harper informants can be activated against Xanathar and Manshoon outposts (Renown 30+). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the PCs. |
+| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the PCs commit to eliminating Nihiloor. |
+| **Cassalanter Villa** | The Harpers have documentation of the Cassalanters' infernal contract. Mirt will hand it over if the PCs agree to bring him the contract itself after the heist — not a copy, the original. |
+| **Vault of Dragons** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
 
 ## First Meeting
 

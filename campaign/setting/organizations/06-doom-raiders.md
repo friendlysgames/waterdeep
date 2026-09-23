@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — the legitimate Black Network cell in Waterdeep, at active internal war with Manshoon's Zhentarim splinter.
 > - **Contacts:** **Davil Starsong** (primary, Yawning Portal); **Tashlyn Yafeera** (takes over after Mission 2, communicates by flying snake); **Yagra Stonefist** (street contact, Yawning Portal bar)
 > - **Mission delivery:** Flying snake.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Faction Outposts** (Arc E), **Kolat Towers** (Arc I), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers**, **Vault of Dragons**
 >
 > *Contact: Davil Starsong, always at the Yawning Portal. He keeps a room upstairs and does all his business in the taproom, which he has decided is safer than a private office and more honest than a warehouse. He's a sun elf who looks like a man who has decided that charm is both a genuine quality and an excellent professional tool, and has spent enough decades cultivating the combination that he can no longer tell where one ends and the other begins. He uses an elven lute as a spellcasting focus and has it slung across his back during every meeting. He negotiates with grace and aplomb even when he's been drinking, which is most of the time. He is genuinely invested in ending the street violence Manshoon's cell has caused. His investment in ending the violence is the position of someone who cannot run a legitimate criminal enterprise in a city where an illegitimate one keeps shooting people.*
 >
@@ -28,7 +28,7 @@ The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal w
 
 **Secondary Contact:** Tashlyn Yafeera — takes over mission briefings after Davil's arrest, communicating by flying snake. She has sharper intelligence on Manshoon's faction than Davil and her assignments reflect it.
 
-**Street Contact:** Yagra Stonefist — the half-orc Doom Raider present at the Yawning Portal during Arc A. She serves as the go-between for new recruits and arranges direct meetings with Davil.
+**Street Contact:** Yagra Stonefist — the half-orc Doom Raider present at the Yawning Portal during **Finding Floon**. She serves as the go-between for new recruits and arranges direct meetings with Davil.
 
 ## Key Members
 
@@ -60,20 +60,20 @@ What the Doom Raiders do not tell the party, until Mission 4 forces the truth ou
 
 **Grand Game goal:** Vault gold to the Zhentarim Council fund. Manshoon's cell dismantled before it can contest the vault. Skeemo's betrayal cleaned up internally without Watch involvement. Ziraj alive. Davil keeps the moral ledger as balanced as his business allows.
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Doom Raiders Hook |
+| Quest | Doom Raiders Hook |
 |-----|------------------|
-| **Arc C** | Davil suspects Skeemo was monitoring Dalakhar's movements on behalf of House Gralhund before the fireball. He wants to know what the party saw at the blast site — specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He has a theory he is not ready to name. |
-| **Arc D** | Davil is arrested in the Watch's post-Gralhund crackdown on all Zhentarim operations. A flying snake delivers the first word: *"Davil is unavailable. Continue normal operations. Await further contact."* Tashlyn takes over. Her first direct message to the party: "Keep a low profile. I'll be in touch." She will not explain what that means. |
-| **Arc E** | The Doom Raiders have been watching Yellowspire — Manshoon's Trades Ward relay point — for two months. Tashlyn has schematics. She's been waiting for someone capable of going inside. Mission 5 is the operational payoff of that patience. |
-| **Arc I** | Davil has the pass-amulet distribution ledger (from Mission 5) and Ziraj's rooftop diagram (from Mission 6). Between them, the Doom Raiders can offer the party two independent paths through Kolat Towers' outer defenses. This is their contribution to Arc I — provided both missions are completed. |
-| **Arc J** | At Dread Lord renown: Davil proposes a 10% split in exchange for a distraction crew, a locksmith backup, and a wagon extraction team. If Skeemo is still alive, he is present at the vault working for Manshoon's simulacrum and will recognize the party on sight. |
+| **Fireball!** | Davil suspects Skeemo was monitoring Dalakhar's movements on behalf of House Gralhund before the fireball. He wants to know what the party saw at the blast site — specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He has a theory he is not ready to name. |
+| **Gralhund Villa** | Davil is arrested in the Watch's post-Gralhund crackdown on all Zhentarim operations. A flying snake delivers the first word: *"Davil is unavailable. Continue normal operations. Await further contact."* Tashlyn takes over. Her first direct message to the party: "Keep a low profile. I'll be in touch." She will not explain what that means. |
+| **Faction Outposts** | The Doom Raiders have been watching Yellowspire — Manshoon's Trades Ward relay point — for two months. Tashlyn has schematics. She's been waiting for someone capable of going inside. Mission 5 is the operational payoff of that patience. |
+| **Kolat Towers** | Davil has the pass-amulet distribution ledger (from Mission 5) and Ziraj's rooftop diagram (from Mission 6). Between them, the Doom Raiders can offer the party two independent paths through Kolat Towers' outer defenses. This is their contribution to **Kolat Towers** — provided both missions are completed. |
+| **Vault of Dragons** | At Dread Lord renown: Davil proposes a 10% split in exchange for a distraction crew, a locksmith backup, and a wagon extraction team. If Skeemo is still alive, he is present at the vault working for Manshoon's simulacrum and will recognize the party on sight. |
 
 ## First Meeting
 
 - Flying snake delivers note to Trollskull: "Want to be part of something big? Speak to Davil Starsong at the Yawning Portal"
-- Yagra already at the bar; how she greets the party depends on Arc A history (six variants: helped her / stopped her early / sided with Guild / stayed out and she won / stayed out and she lost / tried diplomacy) — each acknowledges what happened, calibrates how much goodwill she extends
+- Yagra already at the bar; how she greets the party depends on **Finding Floon** history (six variants: helped her / stopped her early / sided with Guild / stayed out and she won / stayed out and she lost / tried diplomacy) — each acknowledges what happened, calibrates how much goodwill she extends
 - Yagra leads them to Davil
 - Davil: pours without asking; acknowledges Zhentarim upfront; explains Doom Raiders are the legitimate-business wing opposed to Manshoon's cell; offers resources for capable, discreet help
 - Does not press for an immediate answer: "not for too long — the city doesn't have patience"

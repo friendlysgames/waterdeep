@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — political operatives committed to recovering the 500,000 stolen dragons for Waterdeep's treasury.
 > - **Contacts:** **Jalester Silvermane** (primary); **Laeral Silverhand** (escalation contact — does not deliver missions; reachable through Jalester once PCs have Renown 25+ or the Grand Game reaches a tipping point)
 > - **Mission delivery:** Jalester delivers missions in person, usually at the Yawning Portal or at Trollskull Manor when the matter is sensitive enough for a house call. He is direct, professional, and quietly grieving; his boyfriend Faerrel Dunblade was killed in a street fight a year ago, and he fills the silence with work.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Faction Outposts** (Arc E), **Cassalanter Villa** (Arc G), **Sea Maidens Faire** (Arc H), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Sea Maidens Faire**, **Vault of Dragons**
 
 ## Operations
 
@@ -30,7 +30,7 @@ The Lords' Alliance is the most demanding faction in terms of professional condu
 
 The Lords' Alliance wants the 500,000 gold pieces returned to Waterdeep's city treasury. In Laeral Silverhand's framing: the gold was taxed from Waterdavian citizens and merchants. Lord Neverember's exile does not change its ownership. She will see it recovered, disbursed properly, and will credit those who made the recovery possible — but she will not blink at institutional procedure to get it.
 
-At campaign start, Laeral is three moves behind. Jalester's field reports and Watch contacts have placed the vault somewhere in Neverwinter. She is not yet aware the Stone of Golorr has resurfaced in Waterdeep or that all four villain factions are circling it. PCs who pass her intelligence early change the shape of her involvement significantly. Those who keep her in the dark find her arriving at Arc J as an uncertain variable rather than an ally.
+At campaign start, Laeral is three moves behind. Jalester's field reports and Watch contacts have placed the vault somewhere in Neverwinter. She is not yet aware the Stone of Golorr has resurfaced in Waterdeep or that all four villain factions are circling it. PCs who pass her intelligence early change the shape of her involvement significantly. Those who keep her in the dark find her arriving at **Vault of Dragons** as an uncertain variable rather than an ally.
 
 **What the Lords' Alliance shares proactively:**
 - Watch patrol schedules for any ward, once per week, for PCs with valid Alliance credentials (Renown 3+)
@@ -42,20 +42,20 @@ At campaign start, Laeral is three moves behind. Jalester's field reports and Wa
 - A commitment that the gold will reach Waterdeep's treasury or an approved dispersal — not a single faction's coffers
 - The name of whoever is currently holding the Stone of Golorr, whenever the PCs can safely disclose it
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Lords' Alliance Hook |
+| Quest | Lords' Alliance Hook |
 |-----|----------------------|
-| **Arc C** | Jalester mentions that the Sea Maidens Faire uses private docking arrangements that circumvent standard Watch inspections. He's not pursuing it — just noting it as something unusual. |
-| **Arc D** | The Xanathar Guild activity around Gralhund Villa coincided with three Watch officers being transferred off that beat the week before. Jalester wants to know what the PCs saw in the villa. |
-| **Arc E** | With LA credentials (Renown 3+), Watch officers share basic patrol schedules for any ward. This is immediately useful when approaching Xanathar or Splinter outposts. |
-| **Arc G** | The Vhaspar Holmbridge connection from Mission 4's Aftermath gives the LA an early Cassalanter dossier — one Watch guard rotation and a partial exterior layout of the villa grounds. |
-| **Arc H** | Laeral wants documentation of the Sea Maidens Faire's private cargo manifests. If Jarlaxle hasn't been unmasked yet, this is an intelligence-gathering opportunity; if he has, she wants to understand what Bregan D'aerthe is doing in Waterdeep. |
-| **Arc J** | Mission 6 triggers here. If Mission 5 succeeded, Laeral summons the PCs to Piergeiron's Palace and commissions them officially for the vault operation. If Mission 5 failed, Jalester asks them to provide direct testimony about the vault — Laeral needs firsthand accounts she can trust. |
+| **Fireball!** | Jalester mentions that the Sea Maidens Faire uses private docking arrangements that circumvent standard Watch inspections. He's not pursuing it — just noting it as something unusual. |
+| **Gralhund Villa** | The Xanathar Guild activity around Gralhund Villa coincided with three Watch officers being transferred off that beat the week before. Jalester wants to know what the PCs saw in the villa. |
+| **Faction Outposts** | With LA credentials (Renown 3+), Watch officers share basic patrol schedules for any ward. This is immediately useful when approaching Xanathar or Splinter outposts. |
+| **Cassalanter Villa** | The Vhaspar Holmbridge connection from Mission 4's Aftermath gives the LA an early Cassalanter dossier — one Watch guard rotation and a partial exterior layout of the villa grounds. |
+| **Sea Maidens Faire** | Laeral wants documentation of the Sea Maidens Faire's private cargo manifests. If Jarlaxle hasn't been unmasked yet, this is an intelligence-gathering opportunity; if he has, she wants to understand what Bregan D'aerthe is doing in Waterdeep. |
+| **Vault of Dragons** | Mission 6 triggers here. If Mission 5 succeeded, Laeral summons the PCs to Piergeiron's Palace and commissions them officially for the vault operation. If Mission 5 failed, Jalester asks them to provide direct testimony about the vault — Laeral needs firsthand accounts she can trust. |
 
 ## First Meeting
 
-- Jalester finds them himself at the Yawning Portal (or Trollskull if the party rarely goes out); references the Arc A warehouse — he has been watching since then
+- Jalester finds them himself at the Yawning Portal (or Trollskull if the party rarely goes out); references the **Finding Floon** warehouse — he has been watching since then
 - Pitch: Alliance needs people who can operate where Watch and Guard cannot; resources and backing in exchange; assignments are not optional — only faction that states this upfront
 - No ceremony on acceptance; stands and leaves
 - At the door, without turning: "Assignments from us are not optional. If that changes your answer, now is the time to say so." — waits three seconds, then goes

@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — Waterdeep's deniable cadre of elite adventuring agents, commanded by the Blackstaff.
 > - **Contacts:** **Vajra Safahr, the Blackstaff**
 > - **Mission delivery:** *Sending* spell.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Xanathar's Lair** (Arc F), **Cassalanter Villa** (Arc G), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 >
 > *Contact: Vajra Safahr, the Blackstaff — communicates by Sending spell, in person at Blackstaff Tower when the situation requires it. Direct. Professional. She cares about Waterdeep and the people in it, but doesn't perform warmth she doesn't feel. She has been Blackstaff for three years and has aged approximately ten years in that time. She is younger than the title suggests and does not find this observation interesting.*
 >
@@ -44,15 +44,15 @@ She learns this incrementally through the party. Each mission adds a piece: Hlam
 
 **Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it is sealed away again. These are her priorities in order. Her concern is which outcome leaves Waterdeep standing. The rest is scoring.
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Force Grey Hook |
+| Quest | Force Grey Hook |
 |-----|----------------|
-| **Arc C** | The fireball's magical signature is wrong in a specific way — the residue suggests a *nimblewright* detonation, which is registered manufacture. Vajra contacts the party the following day: she wants their firsthand account of the blast site. |
-| **Arc D** | Gralhund Villa had Xanathar Guild activity in proximity to a Watch checkpoint the Guild has not previously approached. Vajra wants a full debrief. Specifically: any sign of Nihiloor's presence, any implanted citizens encountered, any evidence of coordination between the Guild and outside parties. |
-| **Arc F** | Mission 4 is Force Grey's direct contribution to Arc F — the Spawning Pool is inside Xanathar's lair. The mission and the arc are the same event. |
-| **Arc G** | Vajra holds documentation on the Cassalanter infernal contract — Thayan provenance, acquired through a network she will not specify. She will share it with the party if they commit to recovering the original contract from the villa. She wants the original for study. "A copy tells me what was agreed. The original tells me what was actually meant." |
-| **Arc J** | If the party has delivered the Grand Game briefing: Vajra is present at the vault opening, provides active magical containment, and stands ready to deal with anything the vault holds that shouldn't be held. If not: she arrives late and finds the situation requiring cleanup she was not prepared for. |
+| **Fireball!** | The fireball's magical signature is wrong in a specific way — the residue suggests a *nimblewright* detonation, which is registered manufacture. Vajra contacts the party the following day: she wants their firsthand account of the blast site. |
+| **Gralhund Villa** | Gralhund Villa had Xanathar Guild activity in proximity to a Watch checkpoint the Guild has not previously approached. Vajra wants a full debrief. Specifically: any sign of Nihiloor's presence, any implanted citizens encountered, any evidence of coordination between the Guild and outside parties. |
+| **Xanathar's Lair** | Mission 4 is Force Grey's direct contribution to **Xanathar's Lair** — the Spawning Pool is inside Xanathar's lair. The mission and the arc are the same event. |
+| **Cassalanter Villa** | Vajra holds documentation on the Cassalanter infernal contract — Thayan provenance, acquired through a network she will not specify. She will share it with the party if they commit to recovering the original contract from the villa. She wants the original for study. "A copy tells me what was agreed. The original tells me what was actually meant." |
+| **Vault of Dragons** | If the party has delivered the Grand Game briefing: Vajra is present at the vault opening, provides active magical containment, and stands ready to deal with anything the vault holds that shouldn't be held. If not: she arrives late and finds the situation requiring cleanup she was not prepared for. |
 
 ## First Meeting
 
@@ -60,7 +60,7 @@ She learns this incrementally through the party. Each mission adds a piece: Hlam
 - If declined: contacts a different member next day; if declined again, waits until next level — notes the refusals, doesn't take them personally
 - Tower door opens before they speak (they were expected)
 - Vajra at standing desk — doesn't move to a sitting room; offers Gray Hands (not Force Grey) — entry tier, pending track record
-- References Renaer's endorsement, the Arc A warehouse; current priority framed as magical coercion: people acting against their will in positions of influence; Watch can't touch it
+- References Renaer's endorsement, the **Finding Floon** warehouse; current priority framed as magical coercion: people acting against their will in positions of influence; Watch can't touch it
 - On acceptance: brief note, door opens by itself; closes: "Try to get some sleep. The work does not wait for people to be rested."
 
 ## Renown & Ranks

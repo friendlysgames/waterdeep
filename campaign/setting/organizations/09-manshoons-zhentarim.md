@@ -6,7 +6,7 @@
 > - **Campaign role:** Villain faction; seeks the Stone of Golorr for its encoded Weave knowledge, not the vault's gold.
 > - **Contacts:** **Avareen Windrivver**, **Agorn Fuoco**, **Vevette Blackwater** (field operatives); **Sidra Romeir** (Kolat Towers)
 > - **Villain profile:** see **Manshoon** in Villains
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Faction Outposts** (Arc E), **Kolat Towers** (Arc I)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers**
 
 ## Operations
 
@@ -65,7 +65,7 @@ Rescuing Ott: he immediately tries to recruit his rescuers into Xanathar's organ
 
 ### Yellowspire — Mini-Heist (Castle Ward)
 
-*Full 5-step planning framework in Arc E Scene 5B. This entry provides keyed area reference for the operation.*
+*Full 5-step planning framework in **Faction Outposts**, Scene 5B. This entry provides keyed area reference for the operation.*
 
 Use the Winter version of the Old Tower (DH p. 79). Amath Seccent and four **acolytes** occupy this converted tower. The permanent teleportation circle here connects directly to Kolat Towers, one of the few physical routes into Manshoon's lair that bypasses the pass-amulet requirement.
 

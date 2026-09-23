@@ -6,7 +6,7 @@
 > - **Campaign role:** Villain faction; racing to acquire the vault's gold before the Founders' Day deadline, when their soul pact with Asmodeus comes due.
 > - **Contacts:** **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle** (villa-facing); **Seffia Naelryke** (field operative)
 > - **Villain profile:** see **Cassalanters** in Villains
-> - **Featured in:** **Fireball!** (Arc C), **Faction Outposts** (Arc E), **Cassalanter Villa** (Arc G)
+> - **Featured in:** **Fireball!**, **Faction Outposts**, **Cassalanter Villa**
 
 ## Operations
 
@@ -79,7 +79,7 @@ The apprentice wizard in Area 2 carries *Instructions from Lord Cassalanter* dir
 
 ### Converted Windmill — Mini-Heist (Southern Ward, Coachlamp Lane)
 
-*Full 5-step planning framework in Arc E Scene 6B. This entry provides keyed area reference for the operation.*
+*Full 5-step planning framework in **Faction Outposts**, Scene 6B. This entry provides keyed area reference for the operation.*
 
 Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and Seffia Naelryke live here as cult fanatics in plain dress.
 
@@ -122,7 +122,7 @@ The Cassalanters' escalation is binary. In passive mode they barely react. In ho
 - *Report from Seffia Naelryke* (Cassalanter Villa)
 
 **Lair: Cassalanter Villa** (Sea Ward)
-- Proactive: Invitation from the Cassalanters (Arc C entry point)
+- Proactive: Invitation from the Cassalanters (**Fireball!** entry point)
 - *Bregan D'Aerthe's Report on the Grand Game* (Sea Maidens Faire)
 - Questioning Cultists (Asmodean Shrine — the fanatics name the Villa)
 - *Noble Sigil on the Mirror of the Fiend* (Asmodean Shrine)

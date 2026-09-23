@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — martial agents pursuing diabolism and aberrant evil; focused on the Cassalanters.
 > - **Contacts:** **Savra Belabranta** (primary, delivers missions in person — no paper birds, no messengers, no flying snakes unless urgent)
 > - **Mission delivery:** Savra arrives in person. She is in her late twenties and looks older in the way that people who have been through something and come out the other side look older. Dark hair worn back. A strong jaw. The patient, measured manner of someone who has learned to think before speaking and found the habit worth keeping. She was a member of the Howling Hatred elemental cult before she was an Order knight. She will tell you this if asked. She will not tell you what she did while she was in it. She is making amends. This is the work she found that made that meaningful.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Xanathar's Lair** (Arc F), **Cassalanter Villa** (Arc G), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 
 ## Operations
 
@@ -38,18 +38,18 @@ The Order steps outside the Grand Game entirely: no positioning for the vault, n
 
 **What the Order asks for:**
 - Physical evidence of Cassalanter diabolism (a ritual record, a signed instruction from a named family member, a witness who will speak on the record) rather than a confession extracted under magical compulsion
-- Support when the Cassalanter confrontation comes (Arc G)
+- Support when the Cassalanter confrontation comes (**Cassalanter Villa**)
 - Honesty. Savra cannot work with people she is managing around. She will know when she is being managed.
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Order of the Gauntlet Hook |
+| Quest | Order of the Gauntlet Hook |
 |-----|---------------------------|
-| **Arc C** | The fireball killed people near a delivery route Savra has been watching. She wants to know what the PCs saw — specifically whether anyone was collecting from the bodies before the Watch arrived. |
-| **Arc D** | The Cassalanters sent agents to Gralhund Villa during the confrontation. Savra wants a full debrief on everything the party saw inside. |
-| **Arc F** | The Xanathar Guild's use of intellect devourers is an abomination in Savra's specific theological framework. She offers to accompany the party into Xanathar's lair (her Renown 3 benefit, once per arc) if they commit to putting Nihiloor down permanently. |
-| **Arc G** | Savra has been preparing for this since Mission 5. She accompanies the party into the Cassalanter Villa as a combat ally. Her knowledge of the villa's interior is limited; her capability inside it is not. |
-| **Arc J** | If the Halls of Justice formally recognized the party as Order agents (Mission 6 Aftermath), Watch cooperation at the Vault district is marginally better. More practically: Savra will testify on the party's behalf if any Arc J complication goes legal. |
+| **Fireball!** | The fireball killed people near a delivery route Savra has been watching. She wants to know what the PCs saw — specifically whether anyone was collecting from the bodies before the Watch arrived. |
+| **Gralhund Villa** | The Cassalanters sent agents to Gralhund Villa during the confrontation. Savra wants a full debrief on everything the party saw inside. |
+| **Xanathar's Lair** | The Xanathar Guild's use of intellect devourers is an abomination in Savra's specific theological framework. She offers to accompany the party into Xanathar's lair (her Renown 3 benefit, once per arc) if they commit to putting Nihiloor down permanently. |
+| **Cassalanter Villa** | Savra has been preparing for this since Mission 5. She accompanies the party into the Cassalanter Villa as a combat ally. Her knowledge of the villa's interior is limited; her capability inside it is not. |
+| **Vault of Dragons** | If the Halls of Justice formally recognized the party as Order agents (Mission 6 Aftermath), Watch cooperation at the Vault district is marginally better. More practically: Savra will testify on the party's behalf if any **Vault of Dragons** complication goes legal. |
 
 ## First Meeting
 

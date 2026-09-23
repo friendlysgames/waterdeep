@@ -6,7 +6,7 @@
 > - **Campaign role:** Player faction — druids and rangers monitoring Waterdeep's natural balance; uniquely disinterested in the vault gold.
 > - **Contacts:** **Melannor Fellbranch** (primary); **Jeryth Phaulkon** (patron spirit — present and aware, not a mission dispatcher)
 > - **Mission delivery:** Animal messenger — typically a pigeon that lands on a windowsill, speaks the briefing in Melannor's calm baritone, and departs. Urgent messages arrive through whichever creature happens to be nearby. Melannor appears in person only when the situation requires it.
-> - **Featured in:** **Fireball!** (Arc C), **Gralhund Villa** (Arc D), **Xanathar's Lair** (Arc F), **Cassalanter Villa** (Arc G), **Vault of Dragons** (Arc J)
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 
 ## Operations
 
@@ -36,22 +36,22 @@ The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wake
 **What the Enclave shares proactively:**
 - Phaulkonmere as a safe haven from day 1 — neutral ground no faction will openly violate, no questions asked
 - Animal messenger communications anywhere in Waterdeep at Renown 3+
-- Jeryth's sense of the dreamer's activity — she can tell the PCs when the underground disturbance intensifies (corresponding to Illuun's influence reaching upward), relevant from Arc C onward
+- Jeryth's sense of the dreamer's activity — she can tell the PCs when the underground disturbance intensifies (corresponding to Illuun's influence reaching upward), relevant from **Fireball!** onward
 
 **What the Enclave asks for:**
 - Reports on aberrant creature activity — where intellect devourers are operating, what new creatures Xanathar has released, whether any mind-touched citizens have been encountered
 - That the Stone of Golorr not remain in Waterdeep longer than necessary — its activation is pulling at something below the city
-- One thing from Arc J: Jeryth asks to be present when the vault is opened. Mission 6 prepares her wards in advance; she needs no notice beyond the party's call.
+- One thing from **Vault of Dragons**: Jeryth asks to be present when the vault is opened. Mission 6 prepares her wards in advance; she needs no notice beyond the party's call.
 
-## Arc Hooks
+## Quest Hooks
 
-| Arc | Emerald Enclave Hook |
+| Quest | Emerald Enclave Hook |
 |-----|----------------------|
-| **Arc C** | Jeryth perceived a sharp psychic disturbance the night of the fireball — something was activated in the Castle Ward. Melannor asks the PCs what they know. |
-| **Arc D** | Gralhund Villa sits over a minor ley line the Enclave monitors. Xanathar Guild activity around it has destabilized the line. Melannor would like to know what happened inside. |
-| **Arc F** | Jeryth provides an enchanted herb sprig that functions as a mild psychic shield: advantage on the first saving throw against an implanted intellect devourer, usable once. She asks the PCs to carry it into Xanathar's lair. |
-| **Arc G** | The Cassalanter infernal ritual is disrupting a ley line in the Sea Ward. Jeryth's gardens are experiencing interference — herbs dying overnight, birds leaving the estate oaks. She can feel the ritual's schedule as surges of disturbance, giving the PCs a calendar indicator for the Founders' Day deadline. |
-| **Arc J** | Mission 6 triggers here. Jeryth needs no advance notice — M6 already prepared her wards. She is ready when the party calls. |
+| **Fireball!** | Jeryth perceived a sharp psychic disturbance the night of the fireball — something was activated in the Castle Ward. Melannor asks the PCs what they know. |
+| **Gralhund Villa** | Gralhund Villa sits over a minor ley line the Enclave monitors. Xanathar Guild activity around it has destabilized the line. Melannor would like to know what happened inside. |
+| **Xanathar's Lair** | Jeryth provides an enchanted herb sprig that functions as a mild psychic shield: advantage on the first saving throw against an implanted intellect devourer, usable once. She asks the PCs to carry it into Xanathar's lair. |
+| **Cassalanter Villa** | The Cassalanter infernal ritual is disrupting a ley line in the Sea Ward. Jeryth's gardens are experiencing interference — herbs dying overnight, birds leaving the estate oaks. She can feel the ritual's schedule as surges of disturbance, giving the PCs a calendar indicator for the Founders' Day deadline. |
+| **Vault of Dragons** | Mission 6 triggers here. Jeryth needs no advance notice — M6 already prepared her wards. She is ready when the party calls. |
 
 ## First Meeting
 
