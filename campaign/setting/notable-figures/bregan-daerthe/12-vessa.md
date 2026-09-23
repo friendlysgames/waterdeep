@@ -27,4 +27,4 @@
 
 ## Overview
 
-A noblewoman circulating through Waterdeep's high social scene with the ease of someone who has attended these events for months — she knows too much about too many people, and she never goes near the exits.
+A noblewoman who has been attending Waterdeep's high social events for months, fluent with every face in the room, who knows too much about too many people and never goes near the exits.

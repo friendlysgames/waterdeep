@@ -27,4 +27,4 @@
 
 ## Overview
 
-A wood elf bard on a slow touring circuit who plays folk ballads at the same establishments and nurses a single drink over the course of an evening, attentive in a way that most audiences mistake for the meditative serenity of a working musician.
+A wood elf bard on a slow touring circuit who plays folk ballads at the same establishments and nurses a single drink over the course of an evening, watching the room more carefully than the unhurried manner suggests.

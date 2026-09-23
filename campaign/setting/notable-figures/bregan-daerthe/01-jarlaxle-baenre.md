@@ -27,4 +27,4 @@
 
 ## Overview
 
-A flamboyant Illuskan sea captain running the Sea Maidens Faire carnival out of Deepwater Harbor — theatrical, immediately charming, and precise in a way that is easy to mistake for performance.
+A flamboyant Illuskan sea captain running the Sea Maidens Faire carnival out of Deepwater Harbor, theatrical, immediately charming, with a precision behind the showmanship that most people don't notice until the conversation is already over.

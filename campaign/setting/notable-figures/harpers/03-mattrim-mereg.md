@@ -27,4 +27,4 @@
 
 ## Overview
 
-A middling bard who plays most evenings at the Yawning Portal on a lute missing three strings, liked in the easy way of someone unremarkable, with no obvious reason to be watching the room as carefully as he is.
+A middling bard who plays most evenings at the Yawning Portal on a lute missing three strings, well-liked and easy to overlook, with no obvious reason to be watching the room as carefully as he is.

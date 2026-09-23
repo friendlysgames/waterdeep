@@ -27,4 +27,4 @@
 
 ## Overview
 
-Inseparable twins who work as servers, bicker constantly about everything, and operate together with the practiced efficiency of people who have divided their responsibilities long ago without ever formally discussing it.
+Inseparable twins who work as servers, bicker about everything, and function as a single efficient unit without ever having formally agreed to do so.

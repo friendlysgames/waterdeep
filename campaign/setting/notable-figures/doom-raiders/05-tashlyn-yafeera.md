@@ -27,4 +27,4 @@
 
 ## Overview
 
-A Calishite bodyguard posted at the South Gate who ensures her associates move freely through the city — compact, precise, and quick to anger in a way that invites misreading her as impulsive rather than dangerous.
+A Calishite bodyguard posted at the South Gate who ensures her associates move freely through the city, compact, precise, and quick enough to anger that most people mistake her for impulsive before they learn she is dangerous.

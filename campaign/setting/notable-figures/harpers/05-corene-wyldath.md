@@ -27,4 +27,4 @@
 
 ## Overview
 
-A halfling field operative with the steady manner and particular calm of someone who has spent months building a cover identity inside Xanathar's Guild, whose recent reports have been accurate but somehow feel slightly off.
+A halfling with a composed manner, precise in her attention and sparing with her words, who gives the impression of someone watching for something without ever looking like she is.

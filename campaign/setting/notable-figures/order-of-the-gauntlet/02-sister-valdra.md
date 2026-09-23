@@ -27,4 +27,4 @@
 
 ## Overview
 
-A half-orc temple guard who takes on security and bouncer work, with the quiet attentiveness of someone watching for something specific and three months of unsanctioned investigation that she has been waiting for the right person to hear.
+A half-orc temple guard between postings who takes security and bouncer work, observant past what the job demands, and deliberate about who she trusts.

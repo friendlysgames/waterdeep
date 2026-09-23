@@ -27,4 +27,4 @@
 
 ## Overview
 
-A disembodied female voice heard throughout the Phaulkonmere gardens, who speaks briefly and only to those she has reason to address, with the focused intensity of someone for whom words are a deliberate expenditure.
+A disembodied female voice heard throughout the Phaulkonmere gardens, who addresses only those she has reason to speak to, and does so with few words and complete precision.
