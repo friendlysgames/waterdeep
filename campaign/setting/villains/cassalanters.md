@@ -27,7 +27,7 @@
 | NPC | Role | Nature of relationship |
 |-----|------|----------------------|
 | Victoro and Ammalia (each other) | Co-conspirators | The marriage is real; decision made together, burden carried together; Ammalia makes the final calls; Victoro has stopped questioning this |
-| Osvaldo | Eldest child (transformed) | Chain devil; the Cassalanters know where he is; they visit; the DM decides what these visits look like |
+| Osvaldo | Eldest child (transformed) | Chain devil imprisoned in C24 (the soundproofed villa attic); Ammalia visits weekly, sitting outside the pentagram to read aloud while Osvaldo spits curses at her and weeps; Victoro has not visited in months |
 | Terenzio and Elzerina | Surviving children | Nine and seven years old; don't know about the bargain; should appear in **Trollskull Alley** before PCs investigate the villa |
 | Asmodeus | Creditor | The terms are fixed; Asmodeus does not negotiate with mortals who have already signed |
 | The Harpers | Watchers | Ammalia knows the Harpers monitor their charitable work; their genuine goodness has kept the surveillance clean for years |
