@@ -2,7 +2,7 @@
 name: adventure-reloaded
 description: >
   Governs the structure, voice, and design philosophy for writing the Waterdeep Campaign Remix.
-  Defines the Ember-style modular document format: Quest Journals (one per arc) and Location
+  Defines the Ember-style modular document format: Quest Journals (one per quest) and Location
   Journals (one per location cluster), each containing discrete pages (overview, event files,
   keyed rooms, design notes). Documents the GM/player two-zone pattern for event files, the
   Milestone Points progression system, and the cross-document callout syntax. Load before
@@ -23,10 +23,10 @@ The campaign is organized around **narratives**, not locations.
 ```
 Campaign
 ├── Chapter 1 — Beginning the Campaign  (session zero, character creation)
-├── Chapter 2 — The World               (reference material: lore, factions, key villains)
+├── Setting Compendium                  (reference material: lore, NPCs, factions, organizations)
 ├── Chapter 3 — Running the Campaign    (adventure summary, structural rules, pacing)
 ├── Act I
-│   ├── Arc A — Finding Floon           (each arc = one Quest Journal folder)
+│   ├── Finding Floon                   (each quest = one Quest Journal folder)
 │   │   ├── overview.md                 (Quest Overview page)
 │   │   ├── flowchart.md                (event sequence page)
 │   │   ├── ev-01-yawning-portal.md     (Event pages, flat — no subfolder)
@@ -34,7 +34,7 @@ Campaign
 │   │   ├── ev-03-zhentarim-warehouse.md
 │   │   ├── ev-04-xanathar-sewer.md
 │   │   └── design-notes.md             (Design Notes page)
-│   └── Arc B — [Name]
+│   └── [Quest Name]
 │       └── ...
 └── Act II
     └── ...
@@ -51,11 +51,11 @@ Locations (separate from quest journals):
 
 **Folder = one Foundry Journal Entry.** File = one Page within that journal. Quest journals and location journals are separate entries — a location folder never lives inside a quest folder.
 
-**Acts** bundle arcs with similar stakes or settings.
+**Acts** bundle quests with similar stakes or settings.
 
-**Arcs** are complete narrative units with a dramatic question and a clear goal.
+**Quests** are complete narrative units with a dramatic question and a clear goal.
 
-**Events** are discrete moments within an arc — a confrontation, a discovery, a choice, a combat phase.
+**Events** are discrete moments within a quest — a confrontation, a discovery, a choice, a combat phase.
 
 ---
 
@@ -63,8 +63,8 @@ Locations (separate from quest journals):
 
 Each markdown folder maps to one Foundry Journal Entry (one item in the sidebar). Each `.md` file within that folder becomes one Page within that journal.
 
-- **Quest Journal** (`campaign/quests/act-I/arc-a-finding-floon/`) — contains the overview, flowchart, all event pages, and design notes for one arc. Files are flat siblings — no events/ subfolder.
-- **Location Journal** (`campaign/locations/zhentarim-warehouse/`) — contains the area overview and all keyed room pages for one location cluster. Separate from the arc that primarily uses it.
+- **Quest Journal** (`campaign/quests/act-i/finding-floon/`) — contains the overview, flowchart, all event pages, and design notes for one quest. Files are flat siblings — no events/ subfolder.
+- **Location Journal** (`campaign/locations/zhentarim-warehouse/`) — contains the area overview and all keyed room pages for one location cluster. Separate from the quest that primarily uses it.
 
 Permission gating in Foundry is at the **page level**. The GM/player zone split in event files is enforced by page-level permissions, not by blockquote syntax alone. The `> **[GM]** >` blockquote is a visual marker for specific GM-only callouts within GM-visible content; it does not replace page-level gating.
 
@@ -91,30 +91,30 @@ There is no separator rule between the zones — the `## Overview` H2 heading ma
 
 ### 1. Quest Overview (`overview.md`)
 
-The landing page for the arc's quest journal. GM zone is a `> **[GM]** >` blockquote at the top. Below the blockquote, `## Involved Characters` and `## Dangers & Enemies` are regular GM-facing markdown. `## Overview` at the bottom is the player-visible summary.
+The landing page for the quest journal. GM zone is a `> **[GM]** >` blockquote at the top. Below the blockquote, `## Involved Characters` and `## Dangers & Enemies` are regular GM-facing markdown. `## Overview` at the bottom is the player-visible summary.
 
 ```markdown
-# [Arc Name]: [Descriptive Title]
+# [Quest Name]: [Descriptive Title]
 
 > **[GM]**
 >
 > #### Quest Requirements
-> [Entry conditions; what arcs or flags must precede this one]
+> [Entry conditions; what quests or flags must precede this one]
 >
 > #### Difficulty
 > *An adventure for X–Y level characters.*
 >
 > #### Milestone Overview
-> [Total Milestone Points this arc awards; which events bear a milestone]
+> [Total Milestone Points this quest awards; which events bear a milestone]
 
 ## Involved Characters
-- **[NPC Name]** ([faction]) — [one-line role in this arc]
+- **[NPC Name]** ([faction]) — [one-line role in this quest]
 
 ## Dangers & Enemies
-[Adversary roster summary — key factions and named opponents active in this arc]
+[Adversary roster summary — key factions and named opponents active in this quest]
 
 ## Overview
-[2–4 paragraphs, past tense. The arc's narrative beats from inciting incident to resolution.
+[2–4 paragraphs, past tense. The quest's narrative beats from inciting incident to resolution.
 Names key NPCs, locations, and the choices the PCs face. The shape of events, not outcomes.]
 ```
 
@@ -238,10 +238,10 @@ the PCs perceive when they enter.]
 
 ### 5. Design Notes (`design-notes.md`)
 
-Last page in every Quest Journal. Contains all design rationale for the arc. Format unchanged from existing convention.
+Last page in every Quest Journal. Contains all design rationale for the quest. Format unchanged from existing convention.
 
 ```markdown
-# Design Notes: [Arc Name]
+# Design Notes: [Quest Name]
 
 ## [Thematic Category]
 
@@ -254,13 +254,101 @@ what it accomplishes, what future payoffs it plants.]
 Second page in the Quest Journal (after overview). Text diagram of the event sequence and its branches. Placeholder for now; becomes a Mermaid diagram in the HTML Artifact pass.
 
 ```markdown
-# [Arc Name] — Event Flowchart
+# [Quest Name] — Event Flowchart
 
 Start → **Event 01 — [Name]** → branches:
   A: [condition] → **Event 02 — [Name]**
   B: [condition] → **Event 03 — [Name]**
          └── → **Event 04 — [Name]** (shared exit)
 ```
+
+### 7. NPC Page (`campaign/setting/notable-figures/[group]/NN-name.md`)
+
+One file per named NPC in the Notable Figures setting compendium. File naming: zero-padded `NN-` prefix, lowercase hyphenated name without quotes or apostrophes.
+
+```markdown
+# [NPC Name]
+
+> **[GM]**
+>
+> #### Gamemaster's Summary
+> - *[species occupation, alignment — from source subtitle]*. Stat block: **[stat block]**.
+> - **Affiliation:** [group name; for secret affiliations state both, e.g. "Xanathar's Guild (secretly Harpers)"]
+> - **Featured in:** [bold quest/location names, comma-separated in campaign order]
+
+## Roleplaying Information
+
+[Resonance, Emotions, Motivations, Inspirations paragraphs — VERBATIM from source]
+
+## Character Information
+
+[Persona, Morale, Relationships paragraphs — VERBATIM from source]
+
+## Overview
+
+[NEW: 1–2 sentences, player-safe. What the party would know or observe on first meeting.
+No secrets, no hidden allegiances, no stat info.]
+```
+
+**Verbatim rule:** Copy profile text character-for-character. The only permitted edits inside moved text are retargeting stale references ("Appendix A/C/D/E/F" → bold-name pointers; "Arc X" labels → bold quest names).
+
+**Overview spoiler rule:** Write the Overview as what a player would know from the character's PUBLIC face on first meeting. For anyone with a cover identity, disguise, secret allegiance, or hidden nature (e.g. Jarlaxle as Zardoz Zord, Aurinax as a dwarf, Nar'l as Xanathar's advisor, Cassalanters as philanthropists, doppelgangers, possessed people, cultists), describe ONLY the cover. Never mention the Stone of Golorr, the Eyes, the vault, a villain's real plan, or who secretly works for whom. When in doubt, say less.
+
+**Featured in:** Bold names, comma-separated, quests first in campaign order (Finding Floon, Trollskull Alley, Fireball!, Gralhund Villa, Faction Outposts, Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire, Kolat Towers, Vault of Dragons), then missions, then locations. If none found, write "Background figure; no scripted appearance."
+
+### 8. Organization Page (`campaign/setting/organizations/NN-faction.md`)
+
+One file per faction. GM zone comes first; player-facing sections come last. File naming: zero-padded `NN-` prefix, lowercase hyphenated faction slug.
+
+```markdown
+# [Faction Name]
+
+> **[GM]**
+>
+> #### Gamemaster's Summary
+> - **Campaign role:** [one line — player faction / villain faction / both]
+> - **Contacts:** [bold names] — from source preamble
+> - **Mission delivery:** [from source preamble] (player factions only)
+> - **Featured in:** [bold quest names only — never "Arc X" labels]
+
+## Operations
+[Player factions: faction description paragraphs, verbatim. Villains: "Personality and Agenda"
+verbatim, plus any extra sections such as "The Soul Pact" as ### subsections.]
+
+## Key Members
+[One bullet per NPC: `- **[Name]** — [role, one line]. See the **[Name]** page in Notable Figures.`
+For villain factions, merge operational sentences verbatim into the bullet.]
+
+## Grand Game Stance
+### Grand Game Agenda
+[Verbatim agenda paragraph from source]
+### Stance
+[Verbatim stance text including shares-proactively / asks-for lists]
+← player factions only
+
+## Quest Hooks                  ← player factions (source table; "Arc X" labels replaced with quest names)
+## First Meeting                ← player factions (source text, verbatim)
+
+## Response Teams               ← villain factions (source, verbatim)
+## Outposts                     ← villain factions (source; each outpost a ### heading, verbatim)
+## Escalation                   ← villain factions (this faction's escalation row rendered as a
+                                   4-row table Tier | Behavior using the four tiers
+                                   Unaware/Suspicious/Alert/Lockdown, plus faction-specific notes)
+## Revelation List              ← villain factions (source section for this faction, verbatim)
+
+## Renown & Ranks               ← player factions (source "Earning Renown" list, then Ranks & Benefits
+                                   table, verbatim)
+## Missions                     ← player factions (source mission table verbatim; each mission name bold
+                                   as a pointer to its quest journal; add: "Full mission write-ups are
+                                   in the **Faction Missions** quest journals.")
+
+## Overview
+[NEW: 2–3 sentences, player-safe summary of who the faction is and what it wants. For player
+factions, the source "Grand Game agenda" paragraph goes here verbatim as a second paragraph
+if it is player-safe.]
+```
+
+Bregan D'aerthe gets both player-faction and villain-faction sections.
 
 ---
 
@@ -274,7 +362,7 @@ Events, rooms, and overviews call out to each other by **bold name** — never f
 | Event → keyed room | `For the full area, see **Z1 — Main Room** in the **Zhentarim Warehouse** journal.` |
 | Event → Area Overview | `Refer to the **Gralhund Villa Area Overview** for adversary rosters and map features.` |
 | Keyed room → event | `During the **Zhentarim Raid** Event, a squad sweeps this room on Beat 4. Refer to the **Zhentarim Raid** Event for the timeline.` |
-| Arc → arc | `This outcome leads into **Arc D: Gralhund Villa**. See the **Arc D Overview** for entry conditions.` |
+| Quest → quest | `This outcome leads into **Gralhund Villa**. See the **Gralhund Villa Overview** for entry conditions.` |
 
 ---
 
@@ -288,9 +376,9 @@ The campaign uses Ember's Milestone Points system. No XP is tracked. Advancement
 - Level-up recovers HP, spell slots, and Short/Long Rest features; it does NOT recharge item uses or allow spell swaps
 
 **Point values:**
-- **Main Quest arc** — ~2 Milestone Points total across its milestone events
+- **Main Quest** — ~2 Milestone Points total across its milestone events
 - **Side Quest** — 1 Milestone Point on completion of its terminal event
-- **Faction Mission** — no Milestone Points. Faction missions in this campaign are supplementary content; their rewards are gold, renown, tangible items, and cross-arc intel. The main arc ladder (Arcs A–J) covers the full 1→8 progression without faction missions.
+- **Faction Mission** — no Milestone Points. Faction missions in this campaign are supplementary content; their rewards are gold, renown, tangible items, and cross-quest intel. The main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without faction missions.
 
 **Progression table:**
 
@@ -311,23 +399,22 @@ The campaign uses Ember's Milestone Points system. No XP is tracked. Advancement
 > #### Milestone: [Event Name]
 >
 > Completing this Event awards 1 Milestone Point. [Optional: "This is likely to advance
-> the party to Level X if they have completed [prior arc]."]
+> the party to Level X if they have completed [prior quest]."]
 ```
 
-**When decomposing existing arc files:** Do not convert XP values. Re-designate which events are milestone events based on narrative weight — major discoveries, heist completions, confrontation resolutions. The existing XP structure is retired.
+**When decomposing existing quest files:** Do not convert XP values. Re-designate which events are milestone events based on narrative weight — major discoveries, heist completions, confrontation resolutions. The existing XP structure is retired.
 
 ---
 
-## Chapter 2 — Reference Material
+## Setting Compendium
 
-Chapter 2 is a GM reference, not an adventure. Structure it as:
+The Setting Compendium replaces the former Chapter 2 appendices. It is a GM reference, not an adventure. Structure:
 
-- **Lore of [Setting]** — geography, culture, factions, magic, religions, key history.
-- **History of [Setting]** — narrative timeline, written as a story, not a list of dates.
-- **[Key Villain]** — a full character document covering:
-  - **Roleplaying [Villain]**: personality phases, each with player-facing emotional goals, pop-culture inspirations, triggers for phase shifts, behavioral rules.
-  - **[Villain]'s Relationships**: one paragraph per major faction/NPC. Specific and opinionated, never neutral.
-  - **[Villain]'s Goals**: named sub-plans with method, contingency, and connection to the larger scheme.
+- **Notable Figures** (`campaign/setting/notable-figures/`) — 122 NPC pages organized into 15 group folders. One NPC Page per named character (see File Type Spec 7). Groups: trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds.
+- **Organizations** (`campaign/setting/organizations/`) — 10 faction pages (01-harpers through 10-cassalanters). Each page merges player-faction and villain-faction content: operations, key members, Grand Game stance, quest hooks, response teams, outposts, escalation, renown, and missions (see File Type Spec 8).
+- **Lore and History** (`campaign/setting/waterdeep-lore.md`, `history.md`, `grand-game.md`) — wards, governance, guilds, religion, festivals, dragonward; 8-era narrative history; in-world Grand Game frame.
+- **Villain Files** (`campaign/setting/villains/`) — full character documents for Xanathar, Manshoon, the Cassalanters, and Jarlaxle: personality phases, relationships, goals.
+- **Trollskull Manor Guide** (`campaign/guides/trollskull-manor/`) — 9 pages covering operating costs, staff and hiring, fame, revenue, the tenday schedule, tavern events, notable patrons, and response teams at the manor. The Ember "Stronghold" analog.
 
 ---
 
@@ -335,7 +422,7 @@ Chapter 2 is a GM reference, not an adventure. Structure it as:
 
 Contains:
 
-- **Adventure Summary**: structured list of acts with level ranges, prose paragraph per act, and milestone table keyed to arc completions.
+- **Adventure Summary**: structured list of acts with level ranges, prose paragraph per act, and milestone table keyed to quest completions.
 - **Structural Rules**: recurring mechanics — faction spy behavior, villain response, encounter tables, bespoke rules.
 - **[Villain]'s Relationship to the PCs**: how antagonist attitude evolves, when and why they escalate.
 - **Design Notes: Running the Campaign**: macro-level design notes explaining every major structural decision.
@@ -348,7 +435,7 @@ Contains:
 |---------|-------|---------|
 | `[!info]+` | Info | Additional information about rules needed to run a scene or area. |
 | `[!warning]+` | Warning | Important information to avoid common pitfalls and mistakes. |
-| `[!lore]+` | Lore | Additional context about a scene, chapter, or arc. |
+| `[!lore]+` | Lore | Additional context about a scene, chapter, or quest. |
 | `[!abstract]+` | Narrative | An optional path players might take through a scene or area. |
 | `[!profile]+` | Profile | Additional information about roleplaying a particular NPC. |
 | `[!item]+` | Item | Statistics for a new or modified item. |
@@ -362,6 +449,8 @@ Use `+` (expandable) for all sidebar callouts. `npc-narrative` and `dialogue` do
 ---
 
 ## NPC Profile Format
+
+This format is for **inline profiles within event and area files** — callout blocks embedded in GM content. For standalone NPC pages in Notable Figures, see File Type Spec 7.
 
 ```markdown
 > [!profile]+ **Profile: [NPC Name]**
@@ -417,7 +506,7 @@ Design notes are a justification addressed to the DM of *why* a change was made 
 - Lore explanation — use `[!lore]+`
 - Tactical GM advice — use `[!warning]+` or `[!info]+`
 - Read-aloud text — never in design notes
-- Summaries of what happens — the arc overview does that
+- Summaries of what happens — the quest overview does that
 
 ---
 
@@ -435,4 +524,4 @@ For Read Aloud text (`## Read Aloud`), use a blockquote. NPC dialogue within Rea
 
 ## The Remix is a Whole
 
-The remix is an integrated tapestry. A minor detail in Arc A may be a load-bearing support for Arc G. Design notes must surface these connections. When designing any event or location, always ask: does this element appear again? When? Does removing it break anything downstream? If a future payoff exists, plant it in the design note for the event that introduces it.
+The remix is an integrated tapestry. A minor detail in Finding Floon may be a load-bearing support for Cassalanter Villa. Design notes must surface these connections. When designing any event or location, always ask: does this element appear again? When? Does removing it break anything downstream? If a future payoff exists, plant it in the design note for the event that introduces it.
