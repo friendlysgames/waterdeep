@@ -69,8 +69,8 @@ When a quest journal exists for an arc, it supersedes the structure doc. Use the
 |---|---|---|
 | `campaign/quests/act-i/finding-floon/` | Complete | Arc A — `overview.md`, `ev-01`–`ev-04`, `flowchart.md`, `design-notes.md`. QA'd (source-researcher + consistency-checker). |
 | `campaign/quests/act-i/trollskull-alley/` | Complete | Arc B — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. QA'd. |
-| `campaign/quests/act-i/fireball/` | Complete | Arc C — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. |
-| `campaign/quests/act-i/gralhund-villa/` | Complete | Arc D — `overview.md`, `ev-01`–`ev-09`, `flowchart.md`, `design-notes.md`. |
+| `campaign/quests/act-ii/fireball/` | Complete | Arc C — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. |
+| `campaign/quests/act-ii/gralhund-villa/` | Complete | Arc D — `overview.md`, `ev-01`–`ev-09`, `flowchart.md`, `design-notes.md`. |
 | `campaign/quests/faction-missions/` | Complete | All 43 faction missions (44 folders including BD-M2b optional) across 7 faction subdirectories. Each mission = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`. No Milestone Points awarded. |
 
 Arcs E–J are pending conversion. Their structure docs are authoritative until quest journals exist.
@@ -83,8 +83,8 @@ Arcs E–J are pending conversion. Their structure docs are authoritative until 
 |---|---|
 | `campaign/structure/arc-a-finding-floon.md` | `campaign/quests/act-i/finding-floon/` |
 | `campaign/structure/arc-b-trollskull-alley.md` | `campaign/quests/act-i/trollskull-alley/` |
-| `campaign/structure/arc-c-fireball.md` | `campaign/quests/act-i/fireball/` |
-| `campaign/structure/arc-d-gralhund-villa.md` | `campaign/quests/act-i/gralhund-villa/` |
+| `campaign/structure/arc-c-fireball.md` | `campaign/quests/act-ii/fireball/` |
+| `campaign/structure/arc-d-gralhund-villa.md` | `campaign/quests/act-ii/gralhund-villa/` |
 
 **Active** (pending conversion to quest journal):
 
