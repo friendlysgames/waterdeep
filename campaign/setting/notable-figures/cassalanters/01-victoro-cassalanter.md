@@ -28,4 +28,4 @@
 
 ## Overview
 
-Victoro Cassalanter is a devilishly handsome half-elf banker and philanthropist whose profits are said to fund charities across Waterdeep, and whose easy warmth with his younger children is as much of his public reputation as his unreadable smile.
+Victoro Cassalanter is a devilishly handsome half-elf banker and philanthropist. His profits are said to fund charities across Waterdeep, and his easy warmth with his younger children is as well-known as his unreadable smile.

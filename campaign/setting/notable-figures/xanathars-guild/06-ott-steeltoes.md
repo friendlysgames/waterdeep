@@ -27,4 +27,4 @@
 
 ## Overview
 
-Ott Steeltoes is a Guild functionary best known for wearing a hat fashioned from a beholder's dried eyestalks. He tends the fish — a particular task with particular stakes — and otherwise keeps to himself.
+Ott Steeltoes is a Guild functionary best known for wearing a hat fashioned from a beholder's dried eyestalks. He tends the fish — a quiet task with impossible stakes — and otherwise keeps to himself.

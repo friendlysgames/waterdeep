@@ -28,4 +28,4 @@
 
 ## Overview
 
-Ammalia Cassalanter is well-mannered, well-read, and well-traveled, a noblewoman known for driving a hard bargain and for keeping the most beautiful butterfly garden in Waterdeep, where she can often be found supervising her youngest children at play.
+Ammalia Cassalanter is a noblewoman known for driving a hard bargain and for keeping the most beautiful butterfly garden in Waterdeep, where she can often be found supervising her youngest children at play.

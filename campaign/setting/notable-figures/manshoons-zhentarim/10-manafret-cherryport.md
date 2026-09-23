@@ -27,4 +27,4 @@
 
 ## Overview
 
-The halfling cook of Kolat Towers who sets an extra place at the table for unexpected visitors. He asks whether they have eaten, what they would prefer, and whether he should let Lord Manshoon know they have arrived.
+The halfling cook of Kolat Towers who sets an extra place at the table for unexpected visitors. He asks whether they have eaten, what they would prefer, and whether he should let the tower's master know they have arrived.
