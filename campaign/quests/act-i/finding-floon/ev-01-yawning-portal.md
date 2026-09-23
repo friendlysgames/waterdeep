@@ -26,7 +26,7 @@ Merchants, adventurers, off-duty Watch guards, dock workers. **Threestrings** (M
 
 **Two veteran adventurers at the well table** — a dwarf woman and a half-elf man, currently taking bets on whether tonight's Dipper returns. They explain the custom cheerfully to anyone who asks.
 
-**Ryvarra** (BD observer) — a drow woman in the observation balcony, posing as a Calimshan cloth merchant, untouched glass of wine in front of her. She has been at that table every evening for two weeks, cataloguing who descends into Undermountain and who comes back. She is never named in this arc. The party notices her only if they specifically ask who is watching the well; they get a description, nothing more.
+**Ryvarra** (BD observer) — a drow woman in the observation balcony, posing as a Calimshan cloth merchant, untouched glass of wine in front of her. She has been at that table every evening for two weeks, cataloguing who descends into Undermountain and who comes back. She is never named in this quest. The party notices her only if they specifically ask who is watching the well; they get a description, nothing more.
 
 ### The Bar Brawl
 

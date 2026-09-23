@@ -9,7 +9,7 @@
 > - If the party holds the Stone, Milestone 2 fires immediately — the party reaches Level 4.
 > - The "Bad Time to Be a Zhent" Watch crackdown reshapes every faction relationship for the rest of the campaign.
 > - Davil is arrested; Tashlyn Yafeera takes over Doom Raiders contact duties.
-> - Istrid Horn's scene at Ahghairon's Statue is the arc's one quiet personal beat.
+> - Istrid Horn's scene at Ahghairon's Statue is the quest's one quiet personal beat.
 > - Six faction debriefs arrive within three days of the bloodbath.
 >
 > **Trigger:** The party has exited Gralhund Villa. Stone status is determined.
@@ -26,17 +26,17 @@ The first thing the party does, consciously or not, is establish where the Stone
 >
 > Level 4 triggers immediately — no Long Rest required. The party recovers HP, spell slots, and Short/Long Rest features. Item uses and spell preparations are unchanged.
 >
-> If the Stone is not in party hands, this Milestone does not fire. The party enters Arc E without it, negotiating from weakness. Milestone 2 is not available again in Arc D — it has passed.
+> If the Stone is not in party hands, this Milestone does not fire. The party enters **Faction Outposts** without it, negotiating from weakness. Milestone 2 is not available again in this quest — it has passed.
 
 ### What the Party Knows and Holds
 
-At arc's end, confirm what the party has. Cross-check against attunements set during the arc:
+At quest's end, confirm what the party has. Cross-check against attunements set during this quest:
 
 | Intelligence | Source | Pays Off |
 |---|---|---|
-| Stone of Golorr | G16 — Yalah, or recovered in ev-08 | Arc F/G/H/I opening state |
-| Second Eye / Yellowspire lead | G12 — Chirada letter (if G12 was searched) | Arc E |
-| Gralhund–Cassalanter cult link | G16 trunk (if G16 compartment was found) | Arc G |
+| Stone of Golorr | G16 — Yalah, or recovered in ev-08 | lair heist opening state |
+| Second Eye / Yellowspire lead | G12 — Chirada letter (if G12 was searched) | **Faction Outposts** |
+| Gralhund–Cassalanter cult link | G16 trunk (if G16 compartment was found) | **Cassalanter Villa** |
 | Grand Game journal | G11 (if G11 was searched) | Lore; Orond characterization |
 | Orond's confession | ev-03 or ev-05 | Davil's proof request; faction debrief tone |
 | Manshoon's name | Not revealed; Floxin never gave it | Preserved for a later arc |
@@ -126,28 +126,28 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Bregan D'Aerthe — BD Operative in Party (conditional — *Jarlaxle Informed*).** No back-room invitation. Fel'rekt's debrief arrives through the operative's established channel — a direct, brief message, not an open offer to the group.
 
-The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the arc outcome:
+The message assesses the mission against Jarlaxle's standing orders. Its tone depends on the quest outcome:
 
 *Stone Holder: Party* — the operative delivered as ordered: *"Stone confirmed. Jarlaxle is satisfied. Your renown with the organization reflects the outcome."* Bregan D'Aerthe renown +2.
 
 *Stone Holder: Zhentarim, Xanathar, or Nimblewright* (Stone lost entirely) — *"The Stone did not reach the party. Jarlaxle is reviewing the operation. Await contact."* No renown change. Jarlaxle will want an explanation before the next assignment.
 
-In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the arc produced.
+In all cases, the operative is not blamed for outcomes beyond their control (the party's failure, another faction seizing the Stone mid-chase). The renown reflects what the operative personally did, not what the quest produced.
 
 ### Gralhund Response Team (Forward Seed)
 
-If the party did not recover the Stone (if it remains with the Gralhunds at arc's end), Yalah will eventually use whatever she holds as leverage. A Gralhund Response Team becomes available to the DM for later arc complications. **This team is a forward seed only.** Roster and stats are new appendix content if this branch is ever exercised.
+If the party did not recover the Stone (if it remains with the Gralhunds at quest's end), Yalah will eventually use whatever she holds as leverage. A Gralhund Response Team becomes available to the DM for later quest complications. **This team is a forward seed only.** Roster and stats are new appendix content if this branch is ever exercised.
 
 ### Concluding the Event
 
 #### Istrid Horn Helped: True / False
-Record whether the party sheltered Istrid Horn. Read by Arc E: Doom Raiders renown modifier and courier cache availability.
+Record whether the party sheltered Istrid Horn. Read by **Faction Outposts**: Doom Raiders renown modifier and courier cache availability.
 
 #### Istrid Horn Turned In: True / False
-Record whether the party handed her to the Watch. Read by Arc E: Watch relation modifier and Doom Raiders renown penalty.
+Record whether the party handed her to the Watch. Read by **Faction Outposts**: Watch relation modifier and Doom Raiders renown penalty.
 
 #### G16 Compartment Found: True / False
-Record whether the party discovered the locked Asmodean compartment in the G16 trunk. If True, they hold the Cassalanter seal and know Yalah had an infernal contact in Castle Ward. Read by Arc G.
+Record whether the party discovered the locked Asmodean compartment in the G16 trunk. If True, they hold the Cassalanter seal and know Yalah had an infernal contact in Castle Ward. Read by **Cassalanter Villa**.
 
 #### Yalah Missing: True / False
 Record whether Yalah fled before the Watch arrived. If True, a want notice circulates through gate guards and ship registries.
@@ -159,7 +159,7 @@ Record whether Yalah was taken by the Watch. If True, she is in Castle Waterdeep
 >
 > #### Next Steps
 >
-> Proceed to **Arc E: Faction Outposts**. Arc E opens with the party deciding which faction to probe first. The post-crackdown landscape has shifted: Davil is in Watch custody, Tashlyn is reorganizing, Jarlaxle is reassessing the party's usefulness. The faction outpost phase begins.
+> Proceed to **Faction Outposts**. **Faction Outposts** opens with the party deciding which faction to probe first. The post-crackdown landscape has shifted: Davil is in Watch custody, Tashlyn is reorganizing, Jarlaxle is reassessing the party's usefulness. The faction outpost phase begins.
 >
 > #### Milestone: The Stone of Golorr — 1 Point (conditional)
 >

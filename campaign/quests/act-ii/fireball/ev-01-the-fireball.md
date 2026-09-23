@@ -9,7 +9,7 @@
 > - The fireball kills twelve: Dalakhar, two Zhentarim, eight bystanders, and the Trollskull Alley victim.
 > - The party has five minutes before the Watch seals the scene and controls access.
 > - Seven witnesses spread across the alley hold distinct evidence fragments, available in any order throughout the day.
-> - Renaer Neverember arrives within two hours carrying Dalakhar's paper bird — the arc's proactive failsafe for Revelation #2.
+> - Renaer Neverember arrives within two hours carrying Dalakhar's paper bird — the quest's proactive failsafe for Revelation #2.
 > - Three independent paths to Revelation #1 (a nimblewright caused the explosion) run through this event.
 > - Three independent paths to Revelation #2 (the Stone of Golorr) begin here and extend into subsequent events.
 > - All four villain faction response teams activate.
@@ -28,7 +28,7 @@ Twelve bodies in the blast area when the smoke clears:
 - **Two female humans and one male half-elf in plain clothes** — North Ward servants running early errands.
 - **Four halflings** — two women who had been playing fiddle and flute; one man who had been dancing to the music; one boy, twelve years old, who had been dancing beside him. His name was Sarlo. He and Martem ran the same alley routes every morning.
 - **One elderly female human in a gray traveling cloak** — her morning walk.
-- **The Trollskull Alley victim** — the neighbor the party bonded with across Trollskull Alley. Dead. No ambiguity, no last-second survival. The selection was made before this arc began. Play the discovery straight.
+- **The Trollskull Alley victim** — the neighbor the party bonded with across Trollskull Alley. Dead. No ambiguity, no last-second survival. The selection was made before this quest began. Play the discovery straight.
 
 The nimblewright threw the bead from the cooperage rooftop to the east, dropped to the street, rifled Dalakhar's body, took the Stone of Golorr, and fled east across the rooftops. Floxin was north of the blast radius — badly burned, conscious.
 
@@ -181,7 +181,7 @@ When the party mentions Fala's (or Tally's) account of the burned man fleeing no
 >
 > #### Three Independent Clue Paths to Revelation #2 (The Stone of Golorr)
 >
-> **Path A — Renaer's Paper Bird.** Dalakhar's letter states the Stone is in his hands and he was on his way to Trollskull Manor. This is the arc's proactive failsafe — it delivers the core revelation regardless of other investigation success. Renaer arrives within two hours.
+> **Path A — Renaer's Paper Bird.** Dalakhar's letter states the Stone is in his hands and he was on his way to Trollskull Manor. This is the quest's proactive failsafe — it delivers the core revelation regardless of other investigation success. Renaer arrives within two hours.
 >
 > **Path B — Speak with Dead, Dalakhar.** Available for five days. Five answers available; relevant questions yield: the Stone is the key to a hidden vault of gold dragons; he stole it from Xanathar's lair; Renaer vouched for them.
 >

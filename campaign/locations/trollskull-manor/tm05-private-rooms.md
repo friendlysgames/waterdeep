@@ -8,4 +8,4 @@ The fourth floor is the building's residential level — quieter than the public
 
 **Balcony and oak.** The balcony connects to the third-floor balcony by an exterior ladder and to the courtyard directly by the oak's upper limbs. A character comfortable with heights can move between the fourth floor and the courtyard without using the stairs. **DC 12 Dexterity (Acrobatics)** to descend the oak without incident.
 
-Cross-ref **area-overview.md** (courtyard, oak tree), **Appendix F, Staff Candidates** (balcony detail noted by some candidates during tours).
+Cross-ref **area-overview.md** (courtyard, oak tree), the **Trollskull Manor** guide, Staff and Hiring (balcony detail noted by some candidates during tours).

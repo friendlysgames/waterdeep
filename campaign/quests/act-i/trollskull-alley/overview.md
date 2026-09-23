@@ -10,7 +10,7 @@
 >
 > *An adventure for 2nd-level characters.*
 >
-> Combat is limited; the arc's friction is social, economic, and bureaucratic. Lif's Stage 3 is the only mandatory fight, and it resolves short of a kill. The Field of Triumph (ev-05) is a gladiatorial set-piece under nonlethal rules.
+> Combat is limited; the quest's friction is social, economic, and bureaucratic. Lif's Stage 3 is the only mandatory fight, and it resolves short of a kill. The Field of Triumph (ev-05) is a gladiatorial set-piece under nonlethal rules.
 >
 > #### Milestone Overview
 >

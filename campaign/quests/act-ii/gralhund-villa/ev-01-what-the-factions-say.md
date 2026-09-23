@@ -8,7 +8,7 @@
 >
 > - Six faction contacts each deliver a distinct tactical perspective and agenda.
 > - The party hears five versions of the same situation without any of them being straightforwardly wrong.
-> - If the party met Jarlaxle in Arc C (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
+> - If the party met Jarlaxle in **Fireball!** (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
 > - All contacts reference the Ches 24th deadline; the party understands the window is real.
 > - "If They Don't Go" contingency is noted at the end for DM reference.
 >
@@ -38,7 +38,7 @@ Jalester does not acknowledge that forty-eight hours means the Stone will be gon
 
 No pretense of subtlety. Vajra cannot authorize entry legally and does not pretend otherwise. She pushes the party to move that night. She promises to speak to the Open Lord afterward, without specifying what this means in practice — protection, advocacy, or simply documentation that something was said. Her instruction is clear and her backing is ambiguous.
 
-### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from Arc C — fires for all parties, not members only)
+### Jarlaxle Baenre (conditional on *Jarlaxle Informed* from **Fireball!** — fires for all parties, not members only)
 
 A carnival acrobat delivers a sealed note to wherever the party is staying. The note offers a meeting — a specific time, a specific location, nothing else.
 
@@ -60,7 +60,7 @@ His generosity is genuine in content. It is calculated in purpose.
 >
 > #### Jarlaxle's Test
 >
-> The party will find Fel'rekt's team in Artheyn Manor during ev-02 if they scout carefully (DC 14 Perception). How they respond to that discovery — whether they raise it with Jarlaxle, blame him for the omission, or simply note it and proceed — is the test. A party that mentions it gets a smile and a redirect. A party that doesn't mention it gets a warmer reception the next time they meet. Never both. Cross-ref Arc D Design Notes.
+> The party will find Fel'rekt's team in Artheyn Manor during ev-02 if they scout carefully (DC 14 Perception). How they respond to that discovery — whether they raise it with Jarlaxle, blame him for the omission, or simply note it and proceed — is the test. A party that mentions it gets a smile and a redirect. A party that doesn't mention it gets a warmer reception the next time they meet. Never both. Cross-ref **Gralhund Villa** Design Notes.
 
 #### BD Operative in the Party
 
@@ -74,7 +74,7 @@ He does not explain what happens if the outcome does not satisfy him. He does no
 
 He expects no reply beyond acknowledgment. The meeting is three minutes shorter than it is for everyone else.
 
-### Renaer Neverember (conditional on *Gralhund Villa Named* attunement from Arc C)
+### Renaer Neverember (conditional on *Gralhund Villa Named* attunement from **Fireball!**)
 
 The source who named the villa does not have a faction brief to deliver. He wants to understand what his father's vault has to do with the Gralhunds, and what the Gralhunds have to do with the Zhentarim who were chasing Dalakhar through Trollskull Alley the night of the explosion. His access to Harper contacts gave the party the address. His family history gives him a stake in what happens once they cross the gate.
 

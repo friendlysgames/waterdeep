@@ -9,12 +9,12 @@
 > - Seven factions send invitations to eligible party members — per-character, not per-party
 > - BD surveillance escalates to the J.B. Nevercott doorstep visit; the Watch-report branch severs contact
 > - Faction renovation financing becomes available once contact is established
-> - Level 2 missions unlock once enrollment is confirmed; full write-ups in Appendix D
+> - Level 2 missions unlock once enrollment is confirmed; full write-ups in the **Faction Missions** quest journals
 > - Filthy Meg is named as a Dock Ward source by Harpers or Doom Raiders
 >
 > **Milestone: 1 Milestone Point** — factions enrolled; renovation financing secured.
 >
-> Cross-ref **Appendix C** (all First Meeting scenes, BD Remix Option), **Appendix D** (Level 2 missions), **Appendix F** (Faction Renovation Assistance).
+> Cross-ref the **Organizations** pages (all First Meeting scenes, BD Remix Option), the **Faction Missions** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
 
 ### Invitations Arrive
 
@@ -30,7 +30,7 @@ Over the course of the renovation period, each faction sends invitations through
 | **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Drow PCs primarily; non-drow PCs may be observed but not recruited |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
-First Meeting scenes for all seven factions are in **Appendix C**.
+First Meeting scenes for all seven factions are in the **Organizations** pages.
 
 ### Bregan D'Aerthe Recruitment
 
@@ -38,11 +38,11 @@ Drow PCs notice the surveillance over several days (passive Perception 18 to spo
 
 #### Party Branch — Reports Surveillance to the Watch
 
-Jarlaxle ends contact for now. **BD Contact Severed** attunement. No further BD recruitment in this arc; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
+Jarlaxle ends contact for now. **BD Contact Severed** attunement. No further BD recruitment in this quest; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
 
 #### Party Branch — Confronts the Drow Spies Directly
 
-The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in **Appendix C**. Award **BD Contact Established** attunement.
+The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in the **Bregan D'aerthe** organization page. Award **BD Contact Established** attunement.
 
 #### Party Branch — Does Nothing
 
@@ -50,7 +50,7 @@ Surveillance continues. **Ryvarra Identified** attunement (from ev-03) modifies 
 
 ### Faction Renovation Assistance
 
-Once contact is established, each faction's financing offer becomes available. Full terms in **Appendix F, Faction Renovation Assistance**:
+Once contact is established, each faction's financing offer becomes available. Full terms in the **Trollskull Manor** guide, Faction Renovation Assistance:
 
 | Faction | Offer | String |
 |---|---|---|
@@ -66,7 +66,7 @@ The party's financing choices are their first real faction commitments.
 
 ### Level 2 Missions
 
-Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in **Appendix D**:
+Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in the **Faction Missions** quest journals:
 
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
@@ -85,19 +85,19 @@ Once enrolled, characters receive their first faction assignments. Quick referen
 When the party joins the Doom Raiders or receives a direct briefing from Davil Starsong, the Doom Raiders / Manshoon's Splinter distinction is made explicit. Three paths to this clarification:
 
 1. Doom Raiders enrollment — Davil explains it directly
-2. Yagra Stonefist as staff candidate (Appendix F) — her Zhentarim pendant and Doom Raiders affiliation visible to any PC who asks
+2. Yagra Stonefist as staff candidate (the **Trollskull Manor** guide) — her Zhentarim pendant and Doom Raiders affiliation visible to any PC who asks
 3. Fala's friendship with Ziraj (ev-03) — the Doom Raiders' personal-connection style was already on display before any organizational explanation arrives
 
 ### Filthy Meg
 
 The Mistshore information broker is available through faction referral: **Remallia Haventree** (Harpers) or **Yagra Stonefist** (Doom Raiders) name her as a reliable Dock Ward source. Direct Dock Ward exploration works, but the referral drops the opening Persuasion DC from 16 to 12. Award **Filthy Meg Referred** attunement when a referral is received.
 
-Cross-ref **Appendix A, Section 3** (Filthy Meg profile).
+Cross-ref the **Filthy Meg** page in Notable Figures.
 
 ### Concluding the Event
 
 #### Harpers Joined: True / False
-At least one party member enrolled with the Harpers. Cross-referenced by Appendix C (mission unlock), Appendix D (mission dispatch), and Faction Outposts (outpost access).
+At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** organization page (mission unlock), the **Faction Missions** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
 #### Lords Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.

@@ -55,7 +55,7 @@ Trollskull Alley — Trollskull Alley
 
 ## Notes
 
-**Failure state:** A party that fails all three sewer navigation checks arrives at Q07 to find Floon dead, the arc's only hard failure state. Volo still delivers the deed to Trollskull Manor regardless — he honors the attempt. Trollskull Alley begins either way; Floon's death becomes an unresolved thread the party can chase.
+**Failure state:** A party that fails all three sewer navigation checks arrives at Q07 to find Floon dead, the quest's only hard failure state. Volo still delivers the deed to Trollskull Manor regardless — he honors the attempt. Trollskull Alley begins either way; Floon's death becomes an unresolved thread the party can chase.
 
 **Milestone sequencing:** The party must complete both milestone events to reach Level 2. A party that skips the warehouse and goes directly to the sewer via the bead trail earns the second point before the first; level-up still triggers when the cumulative total hits 2 (regardless of order).
 

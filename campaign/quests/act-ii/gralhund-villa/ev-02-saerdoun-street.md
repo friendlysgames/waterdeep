@@ -51,7 +51,7 @@ Four gazers positioned at cardinal points around the estate. Each success on the
 
 #### Jarlaxle's Team at Artheyn Manor (DC 14 Perception — conditional on *Jarlaxle Informed*)
 
-If the party set the *Jarlaxle Informed* attunement in Arc C, Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street. The owner has relocated to the Moonshae Isles and the building is dark.
+If the party set the *Jarlaxle Informed* attunement in **Fireball!**, Fel'rekt Lafeen's team occupies the empty Artheyn Manor directly across Saerdoun Street. The owner has relocated to the Moonshae Isles and the building is dark.
 
 Ground floor: Fel'rekt and two drow at a front-room watch post. Top floor: two drow gunslingers and six additional drow with a direct sightline to the villa's upper windows. *A Directive from Jarlaxle* sits on a side table in the ground-floor room — recoverable if the party searches Artheyn Manor before or after the raid. Jarlaxle's team has full situational awareness of both other factions' watchers. They are waiting for an opportunity, not a trigger.
 

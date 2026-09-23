@@ -8,7 +8,7 @@
 
 ## The Trollskull Alley Victim
 
-***Trollskull Alley's Most Important Structural Output.*** Trollskull Alley's Milestone section contains a DM observation task: identify, based on table investment across seven scenes, the neighbor the players bonded with. That person is among the dead in ev-01. A fireball that kills eleven strangers is a plot event. A fireball that kills someone the party tried to warn, or hired, or saved once, or whose name came up in between-session speculation — that is the campaign's first genuine loss. It converts the investigation from a plot obligation into a personal imperative. The selection must be made before Fireball begins. This arc does not work if it is made on the fly.
+***Trollskull Alley's Most Important Structural Output.*** Trollskull Alley's Milestone section contains a DM observation task: identify, based on table investment across seven scenes, the neighbor the players bonded with. That person is among the dead in ev-01. A fireball that kills eleven strangers is a plot event. A fireball that kills someone the party tried to warn, or hired, or saved once, or whose name came up in between-session speculation — that is the campaign's first genuine loss. It converts the investigation from a plot obligation into a personal imperative. The selection must be made before Fireball begins. This quest does not work if it is made on the fly.
 
 ***Why the DM Chooses, Not the Players.*** Voting converts tragedy into mechanics. The choice belongs to the DM because it is based on observation — who did the players ask follow-up questions about, who became real through accumulated small moments, whose name appeared in table speculation without prompting. No structural design element can manufacture that. Only attention and time can.
 
@@ -36,7 +36,7 @@ Scene 6 in the source combines the Inn of the Dripping Dagger (the death mark in
 
 ## Nim's Preference vs. Valetta's Reward
 
-***The Built-In Tension.*** Valetta's reward is for proof of the nimblewright's destruction. Nim wants it returned intact. These are not identical — the DM does not need to resolve this tension for the party; it exists so the party can choose. A party that destroys the runaway collects the reward. A party that captures and returns it gets nothing from the temple, but Nim's reaction to its return is one of the more moving character beats available in this arc if the party invested in the CSL moment.
+***The Built-In Tension.*** Valetta's reward is for proof of the nimblewright's destruction. Nim wants it returned intact. These are not identical — the DM does not need to resolve this tension for the party; it exists so the party can choose. A party that destroys the runaway collects the reward. A party that captures and returns it gets nothing from the temple, but Nim's reaction to its return is one of the more moving character beats available in this quest if the party invested in the CSL moment.
 
 ## The Dock Ward as Deliberate Redirect
 
@@ -52,10 +52,10 @@ Scene 6 in the source combines the Inn of the Dripping Dagger (the death mark in
 
 ## Backtracking Dalakhar as Reward for Thoroughness
 
-***Non-Essential, Consequential.*** ev-06 and ev-07 cannot block the party's path to Gralhund Villa. But a party that pursues them gains: the death mark (characterization of the Xanathar Guild's sophistication), the Cassalanter-to-vault link through Kalain's account of Victoro's visit, the vault-opening method, and the unsigned Eyes letter confirming Neverember's deliberate separation of Stone and Eyes. These are among the most consequential intelligence finds in the campaign, gated behind exactly the investigative habits this arc tries to build: exhaustive canvassing, leaving contact information, following up on letters addressed to dead men.
+***Non-Essential, Consequential.*** ev-06 and ev-07 cannot block the party's path to Gralhund Villa. But a party that pursues them gains: the death mark (characterization of the Xanathar Guild's sophistication), the Cassalanter-to-vault link through Kalain's account of Victoro's visit, the vault-opening method, and the unsigned Eyes letter confirming Neverember's deliberate separation of Stone and Eyes. These are among the most consequential intelligence finds in the campaign, gated behind exactly the investigative habits this quest tries to build: exhaustive canvassing, leaving contact information, following up on letters addressed to dead men.
 
 ***Kalain as Emotional Register.*** Kalain's tower is a site of elegiac loss — a person who was broken by someone who did not notice breaking her. The party should not feel they have won something by finding the lockbox. The information gain is high; the emotional experience should be difficult. A scene where both are true is the correct delivery method for this material.
 
 ## Faction Visibility
 
-***The First Arc Where All Four Villain Factions Pursue the Same Object.*** Finding Floon establishes the Guild and the Zhentarim as adversaries. Trollskull Alley introduces the Cassalanters as patrons and BD as observers. Fireball is the first arc where all four reach for the same object at the same time in the same city. The design makes this concrete: Xanathar gazers in the alley, Zhent parallel investigation, BD conditional observers, Cassalanter condolence note and dinner invitation. These are not flavor — they are the Grand Game becoming visible for the first time.
+***The First Quest Where All Four Villain Factions Pursue the Same Object.*** Finding Floon establishes the Guild and the Zhentarim as adversaries. Trollskull Alley introduces the Cassalanters as patrons and BD as observers. Fireball is the first quest where all four reach for the same object at the same time in the same city. The design makes this concrete: Xanathar gazers in the alley, Zhent parallel investigation, BD conditional observers, Cassalanter condolence note and dinner invitation. These are not flavor — they are the Grand Game becoming visible for the first time.

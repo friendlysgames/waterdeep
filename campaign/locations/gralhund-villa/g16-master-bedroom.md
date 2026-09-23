@@ -11,7 +11,7 @@ At the foot of the bed: a locked traveling trunk, iron-banded, with a combinatio
 - **DC 15 Wisdom (Perception)** to spot that the bottom of the trunk is false — it sits slightly higher than it should.
 - Lifting the false bottom reveals: two **holy symbols of Asmodeus** in chased silver, engraved with a script neither Orond nor Yalah has ever been asked about, and two **liturgical robes** in red and gold with Cassalanter house embroidery worked into the collar and cuffs.
 
-This is the first physical evidence that the Gralhunds and the Cassalanters are members of the same Asmodean cult. It pays off in Arc G.
+This is the first physical evidence that the Gralhunds and the Cassalanters are members of the same Asmodean cult. It pays off in **Cassalanter Villa**.
 
 Setting this attunement: ***G16 Asmodean Compartment Searched: Yes / No.***
 

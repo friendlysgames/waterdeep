@@ -106,7 +106,7 @@ The deed is real. **Trollskull Manor** is real, non-operational, and now the par
 
 #### Floon Rescued: True / False
 
-Floon is found alive in Q07 (1 hp) and survives the arc. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Trollskull Alley as a Trollskull Alley regular.
+Floon is found alive in Q07 (1 hp) and survives the quest. He doesn't know why he was taken. He thanks everyone, invites the party to drinks he cannot afford, and reappears in Trollskull Alley as a Trollskull Alley regular.
 
 #### Nihiloor Sighted: True / False
 
@@ -120,7 +120,7 @@ The party holds legal title to a derelict tavern at 10 Trollskull Alley, North W
 >
 > #### Next Steps
 >
-> The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer (at the warehouse, the Yawning Portal, or en route to the Alley) is the emotional close of the arc.
+> The party holds the deed to Trollskull Manor. The reunion of Floon and Renaer (at the warehouse, the Yawning Portal, or en route to the Alley) is the emotional close of the quest.
 >
 > Proceed to **Trollskull Alley: Trollskull Alley**. See the **Trollskull Alley Overview** for entry conditions.
 >

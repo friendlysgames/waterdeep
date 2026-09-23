@@ -4,7 +4,7 @@
 >
 > #### Gamemaster's Summary
 >
-> This Event occurs on Ches 21, the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the arc does not accelerate it. In this Event:
+> This Event occurs on Ches 21, the opening day of Fleetswake (Ches 21–30). It is calendar-fixed; the quest does not accelerate it. In this Event:
 >
 > - Two processions converge on the Market; the party participates as North Ward residents, not spectators
 > - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Fireball corroboration path
@@ -13,7 +13,7 @@
 > - Davil Starsong is visible in the crowd; Ammalia Cassalanter is at the charity booth
 > - The Festival Aftermath (Frewn's cask incident) provides closure on Emmek's arc and confirms Stage 4 misfired
 > - The DM's fireball victim selection must be finalized before this Event ends
-> - The arc hard-cuts to Fireball at this Event's conclusion
+> - The quest hard-cuts to **Fireball!** at this Event's conclusion
 >
 > Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
 >
@@ -25,7 +25,7 @@ Two processions converge on the Market: one moving south from the Castle Ward, o
 
 The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Sea Maidens Faire reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
 
-Cross-ref **Ch. 3: Running the Campaign** (Festival Calendar).
+Cross-ref **Structural Rules** (GM Guide) (Festival Calendar).
 
 ### The Nimblewright Sighting
 
@@ -54,11 +54,11 @@ Brief social moments, not full scenes:
 
 ### BD Mission Window
 
-If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in **Appendix D**.
+If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in the **Bregan D'aerthe** Faction Missions quest journals.
 
 ### Finalize the Fireball Victim
 
-Before the Event ends, the DM must designate the fireball victim. The arc has provided six sessions of observation. The candidates:
+Before the Event ends, the DM must designate the fireball victim. The quest has provided six sessions of observation. The candidates:
 
 | NPC | Introduced | Loss Logic |
 |---|---|---|

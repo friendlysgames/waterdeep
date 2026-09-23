@@ -16,11 +16,11 @@
 >
 > For room-level Grand Opening detail, see the **Trollskull Manor** Location Journal.
 >
-> Cross-ref **Appendix F** (Staff Candidates, Fame track, Revenue Roll system), **Appendix A** (Ammalia Cassalanter profile).
+> Cross-ref the **Trollskull Manor** guide (Staff and Hiring, Fame, Revenue), the **Ammalia Cassalanter** page in Notable Figures.
 
 ### Staff Hiring
 
-In the days before opening, candidates arrive for each open position. The interview process is a low-stakes social encounter with real consequences: candidates have agendas, faction affiliations, and secrets that will matter later. Full candidate tables in **Appendix F, Staff Candidates**.
+In the days before opening, candidates arrive for each open position. The interview process is a low-stakes social encounter with real consequences: candidates have agendas, faction affiliations, and secrets that will matter later. Full candidate tables in the **Trollskull Manor** guide, Staff and Hiring.
 
 Key framing:
 - Candidates arrive through word of mouth and guild placement notices; the party does not advertise
@@ -36,7 +36,7 @@ No counting house clerk sends wine of this quality without instructions from abo
 
 ### Opening Night
 
-Starting Fame rolled or set per **Appendix F, Part 2**. Key guests:
+Starting Fame rolled or set per the **Trollskull Manor** guide, Fame. Key guests:
 
 **Neighbors** — Tally, Embric and Avi, Fala, Rishaal (all four attend). Vincent Trench sends regrets via a note and a gift of expensive pipe tobacco. Ulkoria arrives late, drinks one ale, says "Acceptable," and leaves.
 
@@ -60,7 +60,7 @@ Award **Ammalia Cassalanter Met** attunement.
 
 **Thread: The Cassalanters Exist** (third path). The three-path redundancy is complete.
 
-Cross-ref **Appendix A** (Ammalia Cassalanter profile). Design Notes: her warmth must never be undercut with signaling; see the Ammalia Design Note in design-notes.md.
+Cross-ref the **Ammalia Cassalanter** page in Notable Figures. Design Notes: her warmth must never be undercut with signaling; see the Ammalia Design Note in design-notes.md.
 
 ### Undermountain Seeds
 
@@ -76,11 +76,11 @@ Three threads land here. None resolves; all are designed to accumulate below the
 
 #### Lif Appeased: True / False
 
-If not already awarded: Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Record the attunement; Appendix F's full bartender mechanics apply from this point forward.
+If not already awarded: Lif is behind the bar on opening night. He has extended professional courtesy to the new owners and has no intention of leaving. Record the attunement; the **Trollskull Manor** guide's full bartender mechanics apply from this point forward.
 
 #### Ammalia Cassalanter Met: True / False
 
-Record attunement. Cassalanter Villa reads this flag; Ammalia's arc-entry disposition is shaped by this first contact.
+Record attunement. Cassalanter Villa reads this flag; Ammalia's quest-entry disposition is shaped by this first contact.
 
 #### Undermountain Thread Activated: True / False
 
@@ -90,7 +90,7 @@ Record when the first of the three seeds is received. The full three-seed cluste
 >
 > #### Next Steps
 >
-> The tavern is open. The arc's main work is done. The Twin Parades fall on Ches 21. The calendar brings the arc to its coda. Proceed to **The Twin Parades** Event.
+> The tavern is open. The quest's main work is done. The Twin Parades fall on Ches 21. The calendar brings the quest to its coda. Proceed to **The Twin Parades** Event.
 >
 > #### Milestone: The Grand Opening
 >

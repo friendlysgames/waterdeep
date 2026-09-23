@@ -46,7 +46,7 @@ Kenku speak only in mimicked voices — fragments captured from conversations th
 
 ### Finding Renaer
 
-**Renaer Neverember** (see Appendix A) is in Z02. He is unarmed, bruised, cooperative, and waiting for the kenku to be dealt with before he attempts to leave. When the kenku are handled and the building is confirmed clear, he emerges and speaks freely.
+**Renaer Neverember** (see the **Renaer Neverember** page in Notable Figures) is in Z02. He is unarmed, bruised, cooperative, and waiting for the kenku to be dealt with before he attempts to leave. When the kenku are handled and the building is confirmed clear, he emerges and speaks freely.
 
 **What Renaer shares without prompting:**
 - Five Zhentarim grabbed him and Floon outside Old Xoblob Shop last night and brought them here
@@ -80,7 +80,7 @@ A captured kenku repeats under DC 10 Charisma (Intimidation): "Follow the yellow
 
 #### Renaer Found: True / False
 
-Renaer is found in Z02 and survives the arc. He becomes a recurring contact in Trollskull Alley and beyond. His account of the locket seizure establishes Manshoon's cell's objective — the Eye of the Stone of Golorr.
+Renaer is found in Z02 and survives the quest. He becomes a recurring contact in Trollskull Alley and beyond. His account of the locket seizure establishes Manshoon's cell's objective — the Eye of the Stone of Golorr.
 
 #### Warehouse Cleared: True / False
 

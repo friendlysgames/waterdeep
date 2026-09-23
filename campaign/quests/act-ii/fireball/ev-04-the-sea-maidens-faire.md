@@ -19,7 +19,7 @@
 
 The fleet is visible from the harbor approach: *Heartbreaker* and *Hellraiser* docked at a private pier, painted crimson and gold, Faire pennants snapping in the harbor wind; *Eyecatcher* anchored a quarter-mile out in Deepwater Harbor. Carnival stalls and canvas awnings fill the pier between the docked ships. The detector spins the moment the party approaches within 500 feet of the pier — multiple signals, overlapping, impossible to isolate.
 
-The Gralhund nimblewright is not here. The party will not find it by sweeping the fleet. The signals are the legitimate nimblewright valets sold to Jarlaxle's clients and retained for ship operations. Following the lead to its productive-but-incomplete conclusion is exactly the investigative experience this arc builds.
+The Gralhund nimblewright is not here. The party will not find it by sweeping the fleet. The signals are the legitimate nimblewright valets sold to Jarlaxle's clients and retained for ship operations. Following the lead to its productive-but-incomplete conclusion is exactly the investigative experience this quest builds.
 
 The payoff: the party cannot tell from outside the fleet which nimblewright is which, but they can learn who sold the Gralhund unit, who bought it, and from the ledger, where every unit went.
 

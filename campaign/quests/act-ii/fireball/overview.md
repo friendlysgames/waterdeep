@@ -4,7 +4,7 @@
 >
 > #### Quest Requirements
 >
-> Trollskull Alley complete. The DM's observation task from Trollskull Alley Scene 3 is resolved — the Trollskull Alley victim has been designated by name before this arc begins. The party is established at Trollskull Manor and has at least one active faction contact.
+> Trollskull Alley complete. The DM's observation task from Trollskull Alley Scene 3 is resolved — the Trollskull Alley victim has been designated by name before this quest begins. The party is established at Trollskull Manor and has at least one active faction contact.
 >
 > #### Difficulty
 >
@@ -19,7 +19,7 @@
 > | Nimblewright identified; traced to the House of Inspired Hands | ev-02 | 1 |
 > | Gralhund Villa confirmed as the Stone's location | ev-03 | 1 |
 >
-> Level 4 is not reached here — it triggers at Stone recovery in Gralhund Villa (Arc D).
+> Level 4 is not reached here — it triggers at Stone recovery in **Gralhund Villa**.
 
 ## Involved Characters
 

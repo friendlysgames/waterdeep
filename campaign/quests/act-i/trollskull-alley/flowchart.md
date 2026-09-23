@@ -32,7 +32,7 @@
 
 **The Field of Triumph occurs during the renovation period, before opening.** The invitation arrives after faction enrollment, while the party still has time before opening. Zord's timing is deliberate — he wants to see them before the tavern is successful.
 
-**The Grand Opening is the renovation's endpoint.** All renovation-period content concludes here. Opening night is the milestone, not the end of the arc.
+**The Grand Opening is the renovation's endpoint.** All renovation-period content concludes here. Opening night is the milestone, not the end of the quest.
 
 **The Twin Parades is calendar-fixed.** It falls on Ches 21 regardless of the party's pace. If the party opens the tavern late, there may be only days between the Grand Opening and the Parades.
 
@@ -67,16 +67,16 @@ DM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
   └── ev-07: "Fireball Victim Designated: [NPC]" must be recorded before arc ends
 ```
 
-## Attunements Set in This Arc
+## Attunements Set in This Quest
 
 | Attunement | Set At | Read By |
 |---|---|---|
-| Lif Appeased | ev-06 | Appendix F (bartender mechanics); Fireball (Spirit Haunting) |
-| Lif Destroyed | ev-01 | Appendix F (no bartender line); Fireball (Spirit Haunting absent) |
+| Lif Appeased | ev-06 | the **Trollskull Manor** guide (bartender mechanics); Fireball (Spirit Haunting) |
+| Lif Destroyed | ev-01 | the **Trollskull Manor** guide (no bartender line); Fireball (Spirit Haunting absent) |
 | Sewer Grate Documented | ev-02 | Fireball (response team sewer approach) |
 | Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
-| Faction Joined: [Name] | ev-04 | Appendix C, D (missions); Faction Outposts (outpost access) |
+| Faction Joined: [Name] | ev-04 | the **Organizations** pages (missions); Faction Outposts (outpost access) |
 | BD Contact Established | ev-04 | Sea Maidens Faire (Zardoz relationship) |
 | BD Contact Severed | ev-04 | Sea Maidens Faire (no BD relationship in arc entry) |
 | Meloon Met (Field of Triumph) | ev-05 | Force Grey Mission 3 |

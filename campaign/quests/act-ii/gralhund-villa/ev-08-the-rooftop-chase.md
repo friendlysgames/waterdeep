@@ -4,7 +4,7 @@
 >
 > #### Gamemaster's Summary
 >
-> This Chase Event is the contingency for the arc's design mandate — it fires only if the Stone escaped the villa. In this Event:
+> This Chase Event is the contingency for the quest's design mandate — it fires only if the Stone escaped the villa. In this Event:
 >
 > - The party gives chase to the Stone carrier across North Ward rooftops.
 > - 2024 DMG chase mechanics govern the sequence; the North Ward d12 complication table provides environmental obstacles.
@@ -58,7 +58,7 @@ Xanathar's gazers have been following anyone who left the villa with something v
 
 **Tactical assist:** A gazer swoops in and fires a paralytic ray at whoever is carrying the Stone, crippling them for one round and letting the party close distance. Xanathar would rather the party have the Stone than any other faction; he can always take it from the party later.
 
-**Response team intercept:** If the DM wants a harder version of this scene, a Xanathar Guild response team cuts off the rooftop exit route, producing a three-way confrontation for the Stone. Refer to the **Appendix E Villain Factions** section on Xanathar response teams for roster and tactics.
+**Response team intercept:** If the DM wants a harder version of this scene, a Xanathar Guild response team cuts off the rooftop exit route, producing a three-way confrontation for the Stone. Refer to the Response Teams section of the **Xanathar's Guild** organization page for roster and tactics.
 
 ### If the Chase Fails
 
@@ -101,4 +101,4 @@ The Stone is somewhere ahead on North Ward rooftops, moving fast. The party has 
 
 ## Summary
 
-The Stone left the villa without the party holding it. A rooftop chase across the North Ward followed. Whether the party recovered it or it slipped away into a faction safe house, the arc ends here.
+The Stone left the villa without the party holding it. A rooftop chase across the North Ward followed. Whether the party recovered it or it slipped away into a faction safe house, the quest ends here.

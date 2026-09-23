@@ -14,6 +14,6 @@ A folded letter rests on the reading stand. It was placed there two weeks ago an
 
 No check is required to read the letter; it's open on the stand.
 
-Setting this attunement: ***G12 Searched: Chirada Letter Found.*** Pays off in Arc E — Yellowspire, the Second Eye, and Chirada's name.
+Setting this attunement: ***G12 Searched: Chirada Letter Found.*** Pays off in **Faction Outposts** — Yellowspire, the Second Eye, and Chirada's name.
 
 **Day state only — Lord Orond Gralhund:** Orond is in this room during the day, reading in the wolf-skin chair, a glass of amber spirits on the side table beside him. For his social encounter behavior, refer to the **Daytime Infiltration** Event (ev-03).

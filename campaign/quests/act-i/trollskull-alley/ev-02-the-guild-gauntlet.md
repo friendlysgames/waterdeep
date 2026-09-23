@@ -10,7 +10,7 @@
 > - The Watchful Order's inspector notices Lif and introduces a deadline or a formality depending on ev-01's outcome
 > - The Cellarers' inspector flags the sewer access grate (T7) — a seed for Fireball response team routing
 > - Emmek Frewn begins his sabotage campaign: Stage 1 imposes −2 on permit inspection DCs for the first week
-> - The Carpenters' Guild negotiation is the arc's first persuasion challenge with a concrete lever
+> - The Carpenters' Guild negotiation is the quest's first persuasion challenge with a concrete lever
 >
 > This Event has no milestone.
 
@@ -20,7 +20,7 @@
 
 Required guilds: Carpenters', Roofers', and Plaisterers' Guild (structural work); Cellarers' and Plumbers' Guild (basement and plumbing); Guild of Butchers (meat supply); Bakers' Guild (bread and pastries); Launderers' Guild (linens); Watchful Order of Magists and Protectors (fire suppression ward).
 
-Each requires a site inspection and a fee. Cross-ref **Appendix F, Part 1** for the fee table.
+Each requires a site inspection and a fee. Cross-ref the **Trollskull Manor** guide, Operating Costs for the fee table.
 
 ### Emmek Frewn's First Move
 
@@ -28,7 +28,7 @@ Frewn spent the day after the party arrived speaking to the Carpenters' Guild fo
 
 The Shard Shunner wererats in halfling form are visible in the alley behind Emmek during his **The Neighbors** Event visit, casing the manor as potential staff applicants and looking for entry points. **DC 13 Wisdom (Perception)** to notice them now.
 
-Cross-ref **Appendix A** (Emmek Frewn profile) for the full escalation sequence.
+Cross-ref the **Emmek Frewn** page in Notable Figures for the full escalation sequence.
 
 ### The Carpenters' Guild Negotiation
 
@@ -62,7 +62,7 @@ The Order requires written attestation that the haunting poses no public safety 
 
 **Hammond Kraddoc** appears at the Vintners' Guild inspection, chastises the party's current beverage selection, and suggests two specific guild products "the guild is emphasizing this tenday." Buying both reduces the first month's supply rate by 5 gp. He will never acknowledge this as a social visit.
 
-Cross-ref **Appendix A** (Broxley Fairkettle profile, Hammond Kraddoc profile).
+Cross-ref the **Broxley Fairkettle** and **Hammond Kraddoc** pages in Notable Figures.
 
 ### Concluding the Event
 

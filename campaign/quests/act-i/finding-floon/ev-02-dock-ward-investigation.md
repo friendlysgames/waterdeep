@@ -8,7 +8,7 @@
 >
 > - The party pursues three independent paths to Revelation #1 (who took Floon and Renaer)
 > - The party pursues three formal paths to Revelation #2 (Candle Lane warehouse address)
-> - Proactive failsafes engage if all paths fail — the arc cannot stall here
+> - Proactive failsafes engage if all paths fail — the quest cannot stall here
 >
 > No milestone is awarded for this Event. The event ends when the party has the warehouse address.
 

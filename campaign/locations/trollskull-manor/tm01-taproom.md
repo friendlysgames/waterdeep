@@ -12,6 +12,6 @@ The ground floor's main public space. Bar along the north wall, hearth on the ea
 
 **Staff interview space.** During the hiring period before the Grand Opening (ev-06), the taproom serves as the interview area. Candidates are seated across the bar; Lif is present and has opinions he expresses through the chalk slate.
 
-**Grand Opening crowd zone.** On opening night, this room holds the bulk of the guests. Starting Fame established per Appendix F, Part 2.
+**Grand Opening crowd zone.** On opening night, this room holds the bulk of the guests. Starting Fame established per the **Trollskull Manor** guide, Fame.
 
-Cross-ref **Appendix F, Part 1** (bar operations, Lif mechanics, Signature Drink), **Appendix F, Staff Candidates**.
+Cross-ref the **Trollskull Manor** guide, Operating Costs (bar operations, Lif mechanics, Signature Drink), Staff and Hiring.

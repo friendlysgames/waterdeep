@@ -61,13 +61,13 @@ If the party continues with hostility or ignores the warnings, escalate to Stage
 
 Lif hauls furniture into improvised barriers, shatters the remaining intact glassware, and retreats to the turret when reduced to half hit points. See **tm06-turret.md** in the Trollskull Manor Location Journal for retreat and resolution detail.
 
-Destroying Lif requires reducing him to 0 hit points. Award **Lif Destroyed** attunement. His +2 Revenue bonus and the "free bartender" line in Appendix F's operating cost calculation are forfeited permanently.
+Destroying Lif requires reducing him to 0 hit points. Award **Lif Destroyed** attunement. His +2 Revenue bonus and the "free bartender" line in the **Trollskull Manor** guide's operating cost calculation are forfeited permanently.
 
 #### Appeasement
 
 Lif's appeasement is behavioral, not a single check. A party that renovates with clear intent to reopen the tavern as a functioning public house gradually earns his acceptance across the renovation period. By the Grand Opening (ev-06), a party that has treated the building with respect finds Lif laying out bar tools, wiping down surfaces, and managing the chalk slate behind the bar. Award **Lif Appeased** attunement at the Grand Opening.
 
-Cross-ref **Appendix A** (Lif profile), **Appendix F, Part 1** (Lif as bartender, Signature Drink mechanics).
+Cross-ref the **Lif** page in Notable Figures, the **Trollskull Manor** guide, Operating Costs (Lif as bartender, Signature Drink mechanics).
 
 ### Renovation Economics
 
@@ -76,7 +76,7 @@ The numbers: **1,000 gp** to renovate over 12 days; **250 gp** for guild license
 Financing options available immediately:
 
 - **Renaer Neverember** — no-interest loan up to 200 gp; he offers it when told about the cost and expects no formal repayment
-- **Faction assistance** — available once contact is established in ev-04; see **Appendix F, Faction Renovation Assistance** for full terms per faction
+- **Faction assistance** — available once contact is established in ev-04; see the **Trollskull Manor** guide, Faction Renovation Assistance for full terms per faction
 
 The gap between what the party has and what the renovation costs is the engine that drives faction recruitment in ev-04.
 
@@ -88,7 +88,7 @@ Awarded at the Grand Opening (ev-06), not here. Lif's acceptance accumulates qui
 
 #### Lif Destroyed: True / False
 
-Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in Appendix F adjusts accordingly. Record this attunement now; ev-06 reads it.
+Lif reduced to 0 HP. The +2 Revenue bonus is gone. The tavern runs without a poltergeist bartender; the opening costs table in the **Trollskull Manor** guide adjusts accordingly. Record this attunement now; ev-06 reads it.
 
 > **[GM]**
 >

@@ -54,7 +54,7 @@ Win or lose, Meloon is first across the sand when the yield is called — firm h
 
 Award **Meloon Met (Field of Triumph)** attunement.
 
-Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref **Appendix A** (Meloon Wardragon profile), **Appendix D** (Force Grey Mission 3).
+Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Missions quest journals (Mission 3).
 
 ### Xanathar Guild Contact
 
@@ -66,7 +66,7 @@ Award **Xanathar Token: Kept**. The token may function as limited safe passage i
 
 #### Party Branch — Discards the Token
 
-Award **Xanathar Token: Discarded**. No further contact in this arc.
+Award **Xanathar Token: Discarded**. No further contact in this quest.
 
 #### Party Branch — Reports the Contact to a Faction
 
@@ -76,7 +76,7 @@ Award **Xanathar Token: Reported**. Faction receives intelligence on Guild scout
 
 Zardoz Zord watches every bout from the Faire's reserved box, expansive and theatrically delighted. A **DC 18 Wisdom (Insight)** check reads the delight as genuine but not uncontrolled, something considerably more precise underneath the showmanship, the focused patience of a man evaluating something carefully. He does not initiate contact beyond post-tournament congratulations. He is noting the party for Sea Maidens Faire.
 
-Cross-ref **Appendix A** (Zardoz Zord / Jarlaxle Baenre profile).
+Cross-ref the **Jarlaxle Baenre** page in Notable Figures.
 
 ### Concluding the Event
 
@@ -90,7 +90,7 @@ The party held the Guild scout's token. It functions as limited safe passage in 
 
 #### Xanathar Token Discarded: True / False
 
-The party returned or discarded the token. No further Guild contact in this arc.
+The party returned or discarded the token. No further Guild contact in this quest.
 
 #### Xanathar Token Reported: True / False
 

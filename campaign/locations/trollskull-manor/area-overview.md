@@ -41,14 +41,14 @@ Trollskull Manor stands at the north end of Trollskull Alley, a four-story stone
 Lif is the poltergeist of the building's last barkeeper — a dwarf who tended the taproom from its last year of operation in 1479 DR until the current owners arrived. He manifests as moving objects, handwriting on dusty surfaces, and the occasional flung piece of glassware. He does not leave the building.
 
 His state is determined by the **Welcome to Trollskull Alley** Event:
-- **Lif Appeased** — cooperative; behind the bar from the Grand Opening onward; all Appendix F Lif mechanics apply
+- **Lif Appeased** — cooperative; behind the bar from the Grand Opening onward; all **Trollskull Manor** guide Lif mechanics apply
 - **Lif Destroyed** — absent; +2 Revenue bonus and "free bartender" cost offset gone permanently
 - **Unresolved** — Stage 1–2 active; appeasement still possible but the Grand Opening will be complicated
 
-Cross-ref **Appendix A** (Lif profile), **Appendix F, Part 1** (bartender mechanics, Signature Drink).
+Cross-ref the **Lif** page in Notable Figures, the **Trollskull Manor** guide, Operating Costs (bartender mechanics, Signature Drink).
 
 ---
 
 ## Source Note
 
-Room layout sourced from `sources/adventure-wdh.json` Chapter 2 (T1–T7 keyed areas) and Appendix F. Verify room count and any added area detail against `sources/27. Addendum A Night in Trollskull Manor.pdf` before the prose pass (PDF requires poppler).
+Room layout sourced from `sources/adventure-wdh.json` Chapter 2 (T1–T7 keyed areas) and the **Trollskull Manor** guide. Verify room count and any added area detail against `sources/27. Addendum A Night in Trollskull Manor.pdf` before the prose pass (PDF requires poppler).

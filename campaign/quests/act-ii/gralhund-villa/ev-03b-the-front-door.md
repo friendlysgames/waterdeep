@@ -101,7 +101,7 @@ The Chirada letter on the G12 reading stand is visible to anyone who enters the 
 Record whether the party questioned Orond and heard his four revelations. Shapes ev-09 aftermath — parties who heard the confession have documentation of Yalah's orders on Ches 22nd.
 
 #### Chirada Letter Found: True / False
-Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in Arc E: Yellowspire, Chirada's name, and the Second Eye lead.
+Record whether the party found and read *A Missive from Castle Ward* on the G12 reading stand. Pays off in **Faction Outposts**: Yellowspire, Chirada's name, and the Second Eye lead.
 
 #### Front Door Visit Recorded: True / False
 Cray noted the party's names in his ledger. Yalah is informed by evening: who came, what they claimed, and that they spoke with Orond. Read by ev-09 — shapes Yalah's debrief attitude and any Watch-related aftermath if the party used a Watch credential.

@@ -95,7 +95,7 @@ Floxin's plan can succeed or collapse based on party action.
 ### Concluding the Event
 
 #### Floxin Alive: True / False
-Record whether Floxin survived the raid. If True, he becomes available as a Manshoon response team leader in Arc I.
+Record whether Floxin survived the raid. If True, he becomes available as a Manshoon response team leader in **Kolat Towers**.
 
 #### Floxin Captured: True / False
 Record whether the party took Floxin into custody. If True, he provides nothing useful about his master. Only meaningful when *Floxin Alive* is True.

@@ -84,7 +84,7 @@ Record whether the party chose to investigate the Sea Maidens Faire before proce
 >
 > **If Faire Visited First: True** — proceed to the **The Sea Maidens Faire** Event.
 >
-> **If Faire Visited First: False** — proceed directly to **Gralhund Villa: Gralhund Villa**. The arc transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
+> **If Faire Visited First: False** — proceed directly to **Gralhund Villa: Gralhund Villa**. The quest transition is immediate. Fireball ends here for this party. The Cassalanter dinner (ev-05) and Dalakhar backtrack (ev-06, ev-07) are only available if the party delays before entering the estate — available windows are noted in Gralhund Villa's opening.
 >
 > #### Milestone: The Nimblewright Hunt
 >

@@ -4,7 +4,7 @@
 
 The published Dragon Heist resolves Gralhund Villa by having the Stone leave with a villain-specific NPC (Grinda Garloth or Fenerus Stormcastle, depending on the variant). This creates a structural problem: the party has spent an entire arc tracking the Stone to this estate, and it escapes before they can act on that intelligence. The result tends to produce frustration. The investigation was real effort, the address was earned, and the Stone was going to move regardless.
 
-The expected outcome is for the player characters to have the Stone of Golorr. Every scene in this arc makes that outcome achievable without scripting it. The daytime infiltration (ev-03) puts the party in the building before rivals arrive; the raid (ev-04) creates chaos they can exploit; the Rooftop Chase (ev-08) recovers the Stone if it slips past them inside. Three redundant paths to the same result.
+The expected outcome is for the player characters to have the Stone of Golorr. Every scene in this quest makes that outcome achievable without scripting it. The daytime infiltration (ev-03) puts the party in the building before rivals arrive; the raid (ev-04) creates chaos they can exploit; the Rooftop Chase (ev-08) recovers the Stone if it slips past them inside. Three redundant paths to the same result.
 
 What breaks if the party doesn't get the Stone? The campaign continues — but every subsequent negotiation runs from weakness rather than strength. Jarlaxle deals with petitioners differently than he deals with principals. Whichever faction holds the Stone begins locating the vault within days. The party is racing an active countdown rather than holding a controlling position. This is consequential.
 
@@ -20,9 +20,9 @@ The optional daytime escalation elements exist because the nighttime state provi
 
 The published Gralhund Villa chapter is a keyed dungeon: fixed NPC positions, a linear threat structure, a predetermined outcome. The Alexandrian's revision replaces this with adversary rosters: dynamic NPC positions that respond to PC actions and produce cascading reactions rather than static encounters.
 
-This arc follows that philosophy. The ten-beat raid timeline is a spine, not a script. The DM can drop the party into it at any beat, and party action can derail it entirely. Floxin does not inevitably succeed at anything. Jarlaxle's team arriving early changes the calculus. The party drawing the Barracks reinforcements away from Beat 9 may let Floxin hold the ground floor.
+This quest follows that philosophy. The ten-beat raid timeline is a spine, not a script. The DM can drop the party into it at any beat, and party action can derail it entirely. Floxin does not inevitably succeed at anything. Jarlaxle's team arriving early changes the calculus. The party drawing the Barracks reinforcements away from Beat 9 may let Floxin hold the ground floor.
 
-The DM running this arc should prepare the adversary rosters and understand each faction's goals, then play the situation as it develops.
+The DM running this quest should prepare the adversary rosters and understand each faction's goals, then play the situation as it develops.
 
 ## Jarlaxle's Test
 
@@ -30,19 +30,19 @@ The intelligence Jarlaxle offers in ev-01 is accurate. He has the ledger. He has
 
 He does not mention that Fel'rekt Lafeen's team is already in Artheyn Manor, directly across the street. This is not an error or an oversight. He is measuring whether the party notices what was not offered, and whether they can act on incomplete intelligence without later making it someone else's fault.
 
-Parties that find the BD team during ev-02 reconnaissance and raise it with Jarlaxle get a smile and a redirect. Parties that find it and don't raise it get a warmer reception next time. Parties that never find it get a practical demonstration that faction intelligence is always partial. This connects directly to the Arc C design note on investigation quality having consequences: the relationship with Jarlaxle is indexed to how the party handles exactly these moments.
+Parties that find the BD team during ev-02 reconnaissance and raise it with Jarlaxle get a smile and a redirect. Parties that find it and don't raise it get a warmer reception next time. Parties that never find it get a practical demonstration that faction intelligence is always partial. This connects directly to the **Fireball!** design note on investigation quality having consequences: the relationship with Jarlaxle is indexed to how the party handles exactly these moments.
 
 ## Manshoon Stays Invisible
 
-The party fights Manshoon's operatives throughout this arc and does not learn whose operatives they are. Floxin does not name his master. This is consistent with his Appendix A profile and with how operational security works in a cell structure where the operator never sees the principal. DC 14 Insight during any interrogation of Floxin confirms this genuinely: he knows a dead-drop chain and a code, not a name or a face.
+The party fights Manshoon's operatives throughout this quest and does not learn whose operatives they are. Floxin does not name his master. This is consistent with his Notable Figures profile and with how operational security works in a cell structure where the operator never sees the principal. DC 14 Insight during any interrogation of Floxin confirms this genuinely: he knows a dead-drop chain and a code, not a name or a face.
 
-When the Manshoon reveal comes, it needs to land as a recontextualization of events the party has already lived through. An Arc D reveal produces a name they file away. A later reveal, after they have encountered his agents in multiple arcs without connecting them to a single source, produces the retroactive click that defines a well-structured mystery.
+When the Manshoon reveal comes, it needs to land as a recontextualization of events the party has already lived through. A **Gralhund Villa** reveal produces a name they file away. A later reveal, after they have encountered his agents in multiple quests without connecting them to a single source, produces the retroactive click that defines a well-structured mystery.
 
 ## The Rooftop Chase as Genuine Failure State
 
 ev-08 is a contingency, not a guaranteed beat. If the party extracts the Stone directly from the building (the expected outcome in most sessions), ev-08 never triggers. When it does trigger, it should feel like a real consequence of what happened in ev-03 through ev-07, not an additional mandatory scene.
 
-If the chase fails and the Stone reaches a faction safe house, the campaign continues from a weaker position. Jarlaxle will deal with the party. Xanathar will not. Manshoon's cell now knows the party is active and failed. These consequences reshape the social landscape of subsequent arcs without ending the campaign. The Stone is not irretrievable — but retrieving it from a faction lair is Arc E's problem, not Arc D's.
+If the chase fails and the Stone reaches a faction safe house, the campaign continues from a weaker position. Jarlaxle will deal with the party. Xanathar will not. Manshoon's cell now knows the party is active and failed. These consequences reshape the social landscape of subsequent arcs without ending the campaign. The Stone is not irretrievable — but retrieving it from a faction lair is **Faction Outposts**' problem, not this quest's.
 
 ## Optional Homebrew Escalation
 
@@ -56,4 +56,4 @@ The "Bad Time to Be a Zhent" crackdown and Davil's arrest are the city's direct 
 
 Manshoon's cell goes quieter. Xanathar's North Ward operations become more careful. Jarlaxle leaves no evidence at Artheyn Manor and is never definitively connected to the villa's events. The party will be questioned if they were seen. Their choices during the crackdown (who they protect, who they hand to the Watch, how they handle Istrid Horn) define their faction relationships in the second half of the campaign.
 
-Istrid Horn's scene is deliberately the arc's one quiet, personal beat: a terrified fence who has been holding debt leverage over city officials, now caught in a crackdown she did not cause and cannot stop. Three outcomes, none of them clean, each of which says something about what the party values when the political machinery is grinding around them.
+Istrid Horn's scene is deliberately the quest's one quiet, personal beat: a terrified fence who has been holding debt leverage over city officials, now caught in a crackdown she did not cause and cannot stop. Three outcomes, none of them clean, each of which says something about what the party values when the political machinery is grinding around them.

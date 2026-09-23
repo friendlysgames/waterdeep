@@ -6,4 +6,4 @@ A brass cage on the central table holds a **hooded falcon** (hawk statistics, we
 
 **The suits of armor:** Decorative, hollow, and mounted on wheeled stands. They can be toppled (Dexterity saving throw or knocked prone for any creature standing adjacent when one falls). They aren't animate and don't fight.
 
-**Unoccupied in both states.** The den is used for after-dinner smoking and Orond's occasional conversation with his business partners, but neither is scheduled during this arc.
+**Unoccupied in both states.** The den is used for after-dinner smoking and Orond's occasional conversation with his business partners, but neither is scheduled during this quest.

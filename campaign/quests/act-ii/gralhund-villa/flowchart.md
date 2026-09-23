@@ -80,24 +80,24 @@ Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (
 
 ## Attunement Summary
 
-### Read from Prior Arcs
+### Read from Prior Quests
 
 | Attunement | Source | Read In |
 |---|---|---|
-| Jarlaxle Informed | Arc C ev-04 | ev-01 (Jarlaxle contact available), ev-02 (BD team at Artheyn Manor), ev-06/ev-07 (BD assault fires) |
-| Gralhund Villa Named | Arc C ev-03 | ev-01 (Renaer contact available), ev-02 (Renaer contingency) |
+| Jarlaxle Informed | **Fireball!** ev-04 | ev-01 (Jarlaxle contact available), ev-02 (BD team at Artheyn Manor), ev-06/ev-07 (BD assault fires) |
+| Gralhund Villa Named | **Fireball!** ev-03 | ev-01 (Renaer contact available), ev-02 (Renaer contingency) |
 
-### Set During Arc D
+### Set During Gralhund Villa
 
 | Attunement | Where Set | Read By |
 |---|---|---|
 | Faction Brief Received (per contact) | ev-01 | ev-09 (debrief tone) |
 | Observation Teams Spotted | ev-02 | ev-03/ev-04 (entry advantages) |
 | Villa Approach: Day / Night | ev-02 | ev-03 vs ev-04 routing |
-| G12 Searched: Chirada Letter | ev-03 (daytime) | Arc E (Yellowspire/Second Eye lead) |
+| G12 Searched: Chirada Letter | ev-03 (daytime) | **Faction Outposts** (Yellowspire/Second Eye lead) |
 | Grand Game Journal Found | G11 room file (DC 15 — any state) | ev-09 end-state ledger |
-| G16 Asmodean Compartment Searched | G16 room file (DC 15 Perception — any state) | Arc G (Cassalanter cult link) |
+| G16 Asmodean Compartment Searched | G16 room file (DC 15 Perception — any state) | **Cassalanter Villa** (Cassalanter cult link) |
 | Orond's Confession: Heard / Missed | ev-03 (day) or ev-05 (night) | ev-09 |
-| Floxin Status: Alive / Dead / Captured | ev-04 or ev-05 | Arc I (Manshoon response team) |
+| Floxin Status: Alive / Dead / Captured | ev-04 or ev-05 | **Kolat Towers** (Manshoon response team) |
 | Stone Holder: Party / BD / Zhent / Xanathar | ev-06 or ev-07 | ev-08 trigger; ev-09 Milestone 2 |
-| Istrid Horn Outcome | ev-09 | Arc E (Doom Raiders renown) |
+| Istrid Horn Outcome | ev-09 | **Faction Outposts** (Doom Raiders renown) |
