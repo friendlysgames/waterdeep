@@ -8,6 +8,7 @@ on:
       - ".claude/skills/update-campaign-viewer/references/viewer-template.html"
       - "scripts/build-viewer.py"
       - ".github/workflows/deploy-pages.yml"
+      - "docs/**"
   workflow_dispatch:
 
 permissions:
