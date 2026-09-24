@@ -32,16 +32,9 @@ The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wake
 
 ## First Meeting
 
-A white cat appears at Trollskull Manor's window one morning, speaks the invitation in Melannor's calm baritone, and disappears before the party can respond. It's an *animal messenger*.
+A white cat delivers Melannor's verbal invitation to Trollskull Manor; the party follows it to Phaulkonmere, where Melannor walks them through the gardens and introduces the Enclave around disruption and balance. Jeryth Phaulkon's voice carries through the estate; she introduces herself, explains she cannot appear physically, and offers Phaulkonmere as neutral ground. Characters who accept membership receive a *charm of restoration* without ceremony. Melannor walks them to the gate: "I'll be in touch."
 
-Phaulkonmere's gate stands open when they arrive. Melannor meets them at the entrance and walks them through the gardens. He introduces the Enclave around disruption and balance, not nature as a romantic idea, and mentions the beholder in the sewers directly, without softening it. As they walk, Jeryth's voice carries through the garden; she is present throughout the estate, a disembodied presence who speaks only to those she has reason to address. She introduces herself, explains that she can't appear physically, and offers Phaulkonmere as neutral ground with no strings attached.
-
-Characters who accept become members. Jeryth bestows a *charm of restoration* without ceremony or announcement. The characters feel it happen, but she doesn't remark on it.
-
-Melannor walks them to the gate. "I'll be in touch," he says.
-
-> [!profile]**Jeryth's Manner**
-> Jeryth's voice comes from the garden itself, not from any fixed direction. She speaks rarely and precisely — no pleasantries, no repetition. When she offers something, she has already decided. When she's silent, she's still listening.
+Full scene text, the **Jeryth's Manner** sidebar, read-aloud, and the **Emerald Enclave Joined** flag are in [**First Meeting** (Emerald Enclave)](../../quests/faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md).
 
 ## Renown & Ranks
 

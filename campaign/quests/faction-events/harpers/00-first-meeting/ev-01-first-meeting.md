@@ -17,19 +17,17 @@
 
 Mirt has followed the party's movements since Renaer named them. He does not recruit strangers; Renaer's vouching converts persons of interest into candidates worth a theater ticket. The assessment happens before any assignment is offered.
 
-Lightsinger Theater is in the Castle Ward, a half-hour walk from Trollskull Alley. Mirt has reserved Private Box C for the evening and arranged access in advance. A tailor on Delzorin Street received a note this morning that the party may present themselves for appropriate attire; there is no charge, and the fitting takes less than an hour.
-
-*The Fall of Tiamat* is a recent dramatic work that reframes the dragon goddess's defeat as a failure of political will rather than a triumph of divine power. It provokes arguments. Mirt chose it for that reason.
+Mirt has reserved Private Box C for the evening and arranged access in advance. The tailor on Delzorin Street named in the note has been told to expect the party; formal attire will be ready before curtain.
 
 ### The Paper Bird
 
 The paper bird arrives at a Trollskull Manor window with the deliberate patience of something trained. It waits. The note inside unfolds to reveal two tickets to *The Fall of Tiamat*, a direction to the Delzorin Street tailor, and a request to meet in Private Box C at intermission. Formal attire is required; the note specifies the tailor without further explanation.
 
-The invitation carries no signature and no seal. Any character who examines it carefully and makes a successful **DC 12 Intelligence (Investigation)** check concludes it was sent by someone who did not need to sign it.
+The invitation carries no signature and no seal.
 
 ### Act 1 at Lightsinger
 
-**Mirt** (Chaotic Good, Illuskan human, he/him), the Old Wolf, a moneylender of prodigious girth who holds two offices no one openly names, is in Private Box C when the party arrives. He has ordered wine for the whole box. He sits back from the rail where the curtain leaves him half in shadow, acknowledging the party's arrival with a brief incline of his head, and turns his attention back to the stage.
+**Mirt** (Chaotic Good, Illuskan human, he/him), the Old Wolf, a moneylender of prodigious girth who spends his days in politics and his nights in drink and debauchery, is in Private Box C when the party arrives. He has ordered wine for the whole box. He sits back from the rail where the curtain leaves him half in shadow, acknowledging the party's arrival with a brief incline of his head, and turns his attention back to the stage.
 
 He is in no hurry to speak.
 
@@ -47,7 +45,6 @@ Mirt is happy to discuss the following topics during intermission:
 
 - The Harpers — purpose, method, the sort of people they recruit, and what the network looks like from inside it.
 - Renaer Neverember — with brief, genuine warmth. He does not elaborate on how much he trusts him.
-- The Lightsinger Theater itself — at somewhat greater length than the topic seems to warrant. He is interested in the architecture and will say so.
 
 He does not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault, or anything else from the Grand Game at this meeting. This is an assessment, not a briefing.
 

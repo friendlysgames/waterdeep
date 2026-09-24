@@ -32,16 +32,9 @@ The Order steps outside the Grand Game entirely: no positioning for the vault, n
 
 ## First Meeting
 
-**Savra Belabranta** (Neutral Good, Tethyrian Human, she/her) is the Order's faction contact in Waterdeep — a knight in her late twenties whose directness has the quality of a deliberate practice. She knocks on Trollskull Manor's door without an invitation, without a letter sent ahead. She waits.
+Savra arrives at Trollskull Manor unannounced, knocks once, and waits for an invitation. She names two targets — a beholder empire beneath the streets and an unnamed Sea Ward noble family the Order has been watching for months — and states the cost of the work without softening it. Characters who press sincerely about her past learn she left the Howling Hatred cult; she'll give the name and nothing more about what she did in it. Those who accept are escorted to the Halls of Justice, where a silver gauntlet passes among the new members and a priest of Tyr witnesses the oath. Savra's closing line: *"The work does not wait."*
 
-Her pitch is brief. The Order hunts evil actively. She names two targets: a beholder empire operating beneath the city's streets, and a Sea Ward noble family the Order has been watching for months (she doesn't name them yet). She lays out what the work costs and doesn't soften it.
-
-Any character who asks why Savra joined the Order and takes the time to press sincerely finds that she answers honestly: she speaks of making amends for a darker past, and doesn't elaborate further unless pressed again. Her willingness to say this is part of how she reads the party. She's watching whether they handle the information or file it away as leverage.
-
-Characters who accept are taken to the Halls of Justice for a brief oath ceremony. A silver gauntlet passes among the new members, a temple priest witnesses, and the oath is sworn. Savra closes: *"The work does not wait."*
-
-> [!profile]**Savra Belabranta**
-> Savra's warmth comes through action and reliability, not sentiment. Her signature tell is a single measured nod — she gives it when someone has just said something true. Characters who earn it early will notice when they stop getting it. She has told the party she carries a darker past; she won't discuss what she did in it. Pressing her on that subject ends the conversation.
+Full scene, branches, and Savra's profile sidebar: [Order of the Gauntlet First Meeting](../../quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md).
 
 ## Renown & Ranks
 

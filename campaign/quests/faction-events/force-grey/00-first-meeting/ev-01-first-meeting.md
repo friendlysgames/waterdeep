@@ -46,7 +46,7 @@ The door swings open as they reach the steps. Nobody inside could have seen them
 
 She's at a standing desk in the main study, annotating a map. She doesn't look up immediately. The Blackstaff — the physical staff — leans against the desk within reach.
 
-> [!profile]+**Profile: Vajra Safahr**
+> [!profile]**Profile: Vajra Safahr**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she doesn't feel, and sympathy when the party realizes she has aged a decade in three years on the job.

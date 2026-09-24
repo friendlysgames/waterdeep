@@ -14,9 +14,9 @@
 
 **Background (DM only)**
 
-Jalester made his assessment during **Finding Floon**. He was not at the warehouse — the Watch's formal investigation was already two hours behind — but he read the scene from the report and the names attached to it. What he observed in the days that followed confirmed his judgment.
+Jalester made his assessment during **Finding Floon**. He was not at the warehouse, but he read the scene from the report and the names attached to it. What he observed in the days that followed confirmed his judgment.
 
-He delivers this pitch in person because the Alliance has lost operatives to the assumption that assignments were suggestions. Two went dark on operations they judged low priority. One did not survive the gap that left. Jalester will not pretend this is a casual arrangement.
+He delivers this pitch in person because the Alliance has had operatives go dark on critical operations. Jalester will not pretend this is a casual arrangement.
 
 ### Seeking Out the Party
 
@@ -48,9 +48,9 @@ He waits three seconds. Then he leaves.
 
 ### If the Party Pushes Back
 
-Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives treat assignments as suggestions. One of those gaps cost a contact's life. He is not accusing the party of something they have not done — he is describing the arrangement accurately so they can decide accurately.
+Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He is not accusing the party of something they have not done — he is describing the arrangement accurately so they can decide accurately.
 
-He will not move on the condition itself. He will, if asked, describe the procedure for an operative who believes an assignment is wrong: bring the objection to him directly, before acting independently. He will hear it. He has taken two assignments back to Laeral in his career. Both times it mattered.
+He will not move on the condition itself. He will, if asked, describe the procedure for an operative who believes an assignment is wrong: bring the objection to him directly, before acting independently. He will hear it.
 
 ### Declining
 
@@ -66,7 +66,7 @@ True if at least one party member accepted Jalester's terms and enrolled. This f
 >
 > #### Next Steps
 >
-> If Lords' Alliance Joined is True: **Lords' Alliance Mission 1 — The Long Watch** becomes available once any enrolled character reaches 2nd level. Jalester delivers the assignment in person within the tenday.
+> If Lords' Alliance Joined is True: **Lords' Alliance Mission 1 — The Long Watch** is an adventure for 2nd-level characters. Jalester delivers the assignment in person.
 >
 > If Lords' Alliance Joined is False: Jalester does not follow up. The Alliance may appear at **Vault of Dragons** as an uncertain variable; how involved they are depends on what intelligence the party has shared through other means across the campaign.
 
