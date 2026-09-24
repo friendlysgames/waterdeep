@@ -1,38 +1,73 @@
 # About This Campaign
 
-Welcome to Waterdeep. Before you build a character, know what kind of game this is. It asks a lot of its players: patience, curiosity, and a willingness to follow the city's factions into territory you didn't plan for.
+The [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) is what your players have already read. Share it before session zero; everything on this page is yours alone.
 
-> [!info]**How to Read This Guide**
-> This page contains the full Players' Guide text plus GM-only sidebars and a GM section at the end. The player text, everything through "Who This Campaign Suits", is safe to share with your table. The sidebars and the "Running It for Your Table" section are not.
+*Waterdeep: Dragon Heist Remix* rebuilds the original adventure as a genuine heist campaign for 2024 D&D 5th Edition, running from 1st through 7th or 8th level before handing off into *Dungeon of the Mad Mage*. Four villain factions compete for the same hidden fortune, all active from the first session, none of them waiting for your players to notice them. Over 29 to 51 sessions (roughly seven to thirteen months of weekly play), the party builds a home in Waterdeep's North Ward, investigates a murder, plans and executes four heist operations, faces a dragon in a vault, and decides what to do with 500,000 gold pieces. None of those decisions are scripted in advance.
 
-## The Three Pillars
+## What This Remix Changes
 
-**Make It a Heist.** Every major score, whether it's a faction's stronghold, a rival's stash house, or the vault at the center of it all, is something you can case, plan against, and hit on your own terms. You'll scout entrances, map guard patterns, and choose an approach before you commit. Charging in the front door works. So does bluffing your way past a guard captain, bribing a servant for a floor plan, or slipping in through the sewers. The city rewards a plan.
+**All four villain factions run simultaneously.** No season villain. Xanathar's Guild, Manshoon's Zhentarim, the Cassalanters, and Bregan D'aerthe are active from session one, each pursuing a different angle on the same prize.
 
-**Feature All Villains.** Several rival powers are chasing the same prize at the same time, each with a different method and a different temperament. They're moving pieces of their own while you work, and your actions shift which of them gains ground. You'll be navigating a city where the balance of power is never settled.
+**Act III is four distinct heist genres.** Xanathar's Lair is dungeon infiltration; Cassalanter Villa is social penetration; Sea Maidens Faire is a nautical caper; Kolat Towers is a fortress assault. Each target is scoutable, plannable, and responsive to how thoroughly the party prepares.
 
-**Your choices drive the story.** Every mystery has more than one way in. If a lead goes cold, another will surface, so you're never one missed roll away from a dead end. What you decide to chase, who you decide to trust, and how loudly you announce yourselves all change what the city looks like the next morning. The people and factions around you notice what you do, and they respond. We build situations, not scripts.
+**The three Eyes are distributed among the factions.** Recovering all three from their holders is the precondition for opening the vault. Kolat Towers, Manshoon's fortress, holds no Eye.
 
-## What Makes This Campaign Different
+**Trollskull Alley spends the investment Fireball! will need.** The neighborhood the party builds in Act I is the stakes the fireball destroys in Act II. This requires patience: several sessions of community relationships before the payoff.
 
-Planning beats raw power. A well-cased approach beats a well-rolled Attack Roll more often than not, and the smartest victories at this table rarely involve a fight at all.
+**The fireball kills someone the party bonded with.** Determined by GM observation during **Trollskull Alley**, not by roll. It converts a civic investigation into a personal one.
 
-A choice made in one faction's favor is a choice made against another's. A fortune lies hidden somewhere in Waterdeep, and everyone has a claim to it: the factions, the nobles, your own characters. We're not going to tell you the right answer, because there isn't one. What your character decides to do with that fortune, if they ever get the chance, says more about them than any stat block could.
+**Founders' Day is a hard deadline.** The Cassalanters plan to poison ninety-nine people at a charity feast on Flamerule 1, under cover of Waterdeep's founding celebration. Stop the feast or the souls are already gone, regardless of what happens afterward.
+
+**Aurinax has four paths to resolution.** The adult gold dragon guarding the vault is not a mandatory fight. Oath-release, negotiation, legal argument, and combat are all live, weighted by what the party brings to the conversation.
+
+**The gold is the party's decision.** Five resolution paths exist. The campaign does not steer toward any of them.
 
 > [!design]**Why Four Villains at Once**
-> We built this campaign around several rival powers acting at the same time rather than a single mastermind, because a city with one villain is a city that stops moving the moment you deal with them. Here, the other powers keep working, keep reacting to what you do, and stay ready to fill any vacuum you create. Your choices shift the balance between them, sometimes toward you, sometimes not. We won't tell you here which of them wants what. You'll find that out in play.
+> A city with one villain stops moving the moment you deal with them. Here, the other factions keep working, keep reacting, and stay ready to fill any vacuum you create. Your players' choices shift the balance between them, and that balance is never settled. Four-faction play creates genuine decisions that a single-villain campaign can't support: which lair do you hit first? Whose Eye do you trade for an alliance? The overhead is real, which is why **The Grand Game in Play** gives you a weekly routine for tracking it.
 
-## Who This Campaign Suits
+## The Three Pillars at the Table
 
-It's built for tables that enjoy exploring a living city: walking its wards, following a lead down an unexpected street, and treating a rumor as seriously as a written clue. It rewards lateral thinking. If the front door is locked, find a window. Your home base matters too. The people who depend on it, and the stakes that come with keeping it standing, are as much a part of the story as any dungeon. And because several factions are working independently and reacting to you, the story you get is one nobody at the table, including your GM, has fully scripted in advance.
+**Make It a Heist** means preparation changes the options. A party that cases Cassalanter Villa gets better entry options and knows where Willifort Crowelle is standing. A party that wings it still gets through, but improvises more of it. See [Design Notes](design-notes-running-the-campaign.md) for the five-step heist framework.
 
-It's not built for tables that want a primary combat focus. Fights happen, and some of them are dangerous, but they are rarely the fastest or smartest way through a problem. It's also not built for tables that want a clear, guided throughline from scene to scene. We won't always tell you what to do next; figuring that out is part of the game. If your table wants a tightly scripted story with a single villain and a predictable rhythm of encounters, this isn't that campaign, and it's better to know that now than three sessions in.
+**Feature All Villains** means keeping all four factions moving between sessions. Faction Response Teams deploy when the party hits assets; the party's choices shift which factions gain ground. Each faction responds to threat differently: Xanathar escalates on instinct, Manshoon prefers capture over kill, the Cassalanters exhaust legal and social leverage before calling up infernal muscle. That difference should be legible at the table. See [The Grand Game in Play](grand-game-in-play.md) for the between-session tracking procedure.
+
+**Fix-Up and Structural Robustness** means applying the Three Clue Rule to every investigation beat: at least three independent paths to each conclusion, with at least one passive path that finds the party rather than waiting to be found. Build situations, not scripts. If the party goes somewhere the design didn't anticipate, there's a faction there. See [Structural Rules](structural-rules.md) for implementation.
+
+## The Shape of the Campaign
+
+Four acts, levels 1 through 7 or 8. See [Adventure Summary](adventure-summary.md) for the full breakdown with milestone pacing.
+
+**Act I: The Setup** (Levels 1–3) opens on Ches 1 with a missing-persons job that pays in real estate and closes on Ches 21 with the Twin Parades and the neighborhood relationships that make Act II land.
+
+**Act II: The Investigation** (Levels 3–4) opens Ches 22 when the fireball kills someone the party knows. It ends at Gralhund Villa, a quinpartite faction confrontation, with the Stone of Golorr in the party's hands.
+
+**Act III: The Heists** (Levels 4–7) is the campaign's bulk. Two clocks run underneath it: the Sea Maidens Faire departs Tarsakh 20 and Founders' Day falls Flamerule 1.
+
+**Act IV: The Vault** (Levels 6–8) reads every flag the party set across Act III, populates the final confrontation accordingly, and puts half a million gold pieces on the vault floor.
+
+The MacGuffin chain runs in a straight line: the Stone of Golorr names the vault but can't open it without all three Eyes. Xanathar holds Eye #1 (in Sylgar's fish bowl, unknowingly). The Cassalanters hold Eye #2. Jarlaxle holds Eye #3 aboard the *Scarlet Marpenoth*. Kolat Towers holds Manshoon, not an Eye. It's the fourth heist target; clearing it before the Vault pushes the party to Level 7.
+
+## Using This Guide
+
+| Page | When to read it |
+|---|---|
+| [Session Zero](session-zero.md) | Before session one — full script, campaign pitch, safety tools, the gold question |
+| [Debts of the City](debts-of-the-city.md) | During character creation — GM guidance on Holder NPCs and the Warning callouts players don't see |
+| [Bonds and Flaws](bonds-and-flaws.md) | During character creation — where each Flaw lands in the campaign |
+| [Adventure Summary](adventure-summary.md) | Before pitching to players — four-act shape, milestone progression, pacing |
+| [Structural Rules](structural-rules.md) | Before **Finding Floon** — Two Zhentarims, response teams, festival calendar, Three Clue Rule |
+| [Running the Villains](running-the-villains.md) | Before **Finding Floon** — MacGuffin chain, faction knowledge at campaign start, escalation tiers |
+| [The Grand Game in Play](grand-game-in-play.md) | Before **Trollskull Alley** — faction starting positions, between-session tracking procedure |
+| [Player Factions Overview](player-factions-overview.md) | Before **Trollskull Alley** — renown rules, conflicting loyalties, Bregan D'aerthe unique mechanic |
+| [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) | Any time you want the argument behind a structural choice — not required prep |
+
+The [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) is the player handout; it has no GM content. You don't need to repitch what's there.
 
 ## Running It for Your Table
 
-The deaths in this campaign land because the players don't see them coming. A named NPC they've spent sessions with dies at the opening of **Fireball!**, and the loss hits precisely because **Trollskull Alley** gave them time to care. Don't foreshadow it. Don't soften it. The Session Zero script names the content categories without naming the moments, and that is all the warning the table needs. Trust the investment the players have already made.
+The deaths in this campaign land because the players don't see them coming. A named NPC dies at the opening of **Fireball!**; the loss hits precisely because **Trollskull Alley** gave them time to care. Don't foreshadow it. Don't soften it. The Session Zero script names the content categories without naming the moments. That's all the warning the table needs.
 
-Play the Cassalanters as people who love their children. Victoro and Ammalia made a catastrophic bargain before their eldest son was old enough to understand what his parents were doing to him. Osvaldo was fifteen. He is a chain devil now, chained in a soundproofed attic, and his mother still comes to read to him. Their love is real; their plan is monstrous; the gap between those two things is the whole point. When players understand it, some will want to help, some will want to stop the poison and let the twins die, and some will be unable to choose. All of those responses are valid. Play the Cassalanters straight — sympathetic motives, genuine evil, no winking at the camera — and trust the players to sit with the discomfort.
+Play the Cassalanters as people who love their children. Victoro and Ammalia made a catastrophic bargain before their eldest son was old enough to understand what his parents were doing to him. Osvaldo was fifteen. He is a chain devil now, chained in a soundproofed attic, and his mother still comes to read to him. Their love is real; their plan is monstrous; the gap between those two things is the whole point. When players understand it, some will want to help, some will want to stop the poison and let the twins die, and some will be unable to choose. All of those responses are valid. Play them straight: sympathetic motives, genuine evil, no winking at the camera. Trust the players to sit with the discomfort.
 
 The vault gold's resolution is deliberately left open. Half a million dragons embezzled from the city end up in your players' hands, and every path out of that vault has a credible moral case behind it. Let the session end with the characters standing among the gold, making a decision that says something about who they've become over a year of play. Don't nudge them toward any one answer.
 
@@ -45,6 +80,8 @@ The vault gold's resolution is deliberately left open. Half a million dragons em
 
 ## Cross-References
 
-- [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) — player-facing version (no GM sidebars or GM section)
+- [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) — the player-facing page to share with your table
+- [Adventure Summary](adventure-summary.md) — four-act structure and milestone pacing
+- [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — reasoning behind the major structural choices
 - [Session Zero](session-zero.md) — full session zero script
-- [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — macro structural reasoning
+- [Structural Rules](structural-rules.md) — Three Clue Rule, response teams, campaign calendar
