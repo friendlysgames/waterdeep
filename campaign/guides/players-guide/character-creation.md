@@ -1,6 +1,6 @@
 # Character Creation
 
-Building a character for this campaign means building someone who belongs in Waterdeep and has a reason to care what happens to it. The city is not a backdrop your character passes through between fights. It's the point. Before you finalize a character sheet, make sure your concept answers three questions.
+Building a character for this campaign means building someone who belongs in Waterdeep and has a reason to care what happens to it. The city is the point, not a backdrop your character passes through between fights. Before you finalize a character sheet, make sure your concept answers three questions.
 
 ## General Guidance
 
@@ -8,18 +8,18 @@ Building a character for this campaign means building someone who belongs in Wat
 
 **A reason to stay.** Waterdeep is expensive, crowded, and watched by more factions than most of its residents realize. Your character needs something that keeps them from packing up and leaving the first time things get complicated, because things will get complicated.
 
-**A reason to get involved in strangers' problems.** This is the one that gets your character to the table. Adventurers in Waterdeep don't wait for a formal writ before they act. They hear about a friend of a friend in trouble and they go. Whatever drives that impulse for your character, a code, a debt, a habit of trouble, simple curiosity, have it ready.
+**A reason to get involved in strangers' problems.** This is the one that gets your character to the table. Adventurers in Waterdeep don't wait for a formal writ before they act. They hear about a friend of a friend in trouble and they go. Whatever drives that impulse for your character, know it before you sit down: a code, a debt, a habit of trouble, plain curiosity.
 
 The campaign opens on exactly this kind of moment. Your characters cross paths in a Waterdeep tavern, where someone explains that a friend of a friend has gone missing and asks for help finding him. It's the kind of favor that works for a mercenary character looking for coin, a helpful one who can't walk past someone in need, or one who was simply in the wrong tavern at the wrong time and got swept up in it. Build toward that opening, not away from it.
 
-Early in the campaign, your characters come to own a tavern of their own, a foothold in the city that's theirs to run, staff, and defend. This is a deliberate turn, and it's worth building toward. We encourage you to want something in Waterdeep beyond the next job. A reputation worth protecting. A community that knows your name. A debt you mean to repay, or a dream you're finally in a position to chase. A character who wants nothing from the city will have less reason to fight for it later.
+Early in the campaign, your characters come to own a tavern of their own, a foothold in the city that's theirs to run, staff, and defend. This is a deliberate choice. We encourage you to want something in Waterdeep beyond the next job. A reputation worth protecting. A community that knows your name. A debt you mean to repay, or a dream you're finally in a position to chase. A character who wants nothing from the city will have less reason to fight for it later.
 
 > [!info]**Drow Characters**
 > Drow player characters draw attention from drow interests active in the city. Waterdeep's relationship with the surface drow community runs deeper and stranger than most Waterdhavians know. Talk to your GM before session one so your character's background accounts for it.
 
 ## Species
 
-**Drow** characters carry the complications above into every session; see the sidebar. Coordinate with your GM before play begins so the attention your character draws fits the story you both want to tell.
+**Drow** characters carry drow faction interest into every session. Coordinate with your GM before play begins so the attention your character draws fits the story you both want to tell.
 
 **Gnome** characters have a natural connection to the House of Inspired Hands, a temple of Gond in the Sea Ward that doubles as a guild of inventors and tinkerers. It's the kind of place a gnome character might already know by reputation, or might walk into and feel instantly at home, full of clockwork, half-finished contraptions, and artisans who speak of their god the way other people speak of an old friend.
 
