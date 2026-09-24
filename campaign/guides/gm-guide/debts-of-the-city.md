@@ -36,7 +36,7 @@ The loan has since been partially repaid. What remains isn't enough to panic ove
 
 Istrid Horn is a shield dwarf moneylender operating out of a guarded warehouse in the Dock Ward, serving as the Doom Raiders' Master of Trade and Coin. Her lending rates are competitive and her manner is professional. This makes it easy to miss that she is building a ledger of leverage alongside every debt she holds.
 
-Her first contact with the character arrives through routine channels: a payment reminder, a clarifying question about outstanding terms. She doesn't push. Borrowers who pay reliably are left alone; those who slip reveal something about their character, and she notes it. She has been forwarding summaries of the debt relationship to Davil Starsong. Not as a threat — a professional like Istrid simply reads people from their payment habits, and Davil finds her assessments useful.
+Her first contact with the character arrives through routine channels: a payment reminder, a clarifying question about outstanding terms. She doesn't push. Borrowers who pay reliably are left alone; those who slip reveal something about their character, and she notes it. She has been forwarding summaries of the debt relationship to Davil Starsong. Not as a threat. A professional like Istrid simply reads people from their payment habits, and Davil finds her assessments useful.
 
 Characters who pay in full close their financial obligation and nothing more. Istrid has already formed her opinion of them. She may bring them to Davil's attention at some point, or she may simply file them away. Either way, the relationship was never as transactional as it appeared.
 
@@ -54,9 +54,9 @@ It's still with you, still sealed. You haven't opened it. The sensible knowledge
 
 Urstul Floxin is Manshoon's chief field operative in Waterdeep: a large, heavyset Illuskan man in his forties who moves through rooms as though he owns them and reserves his anger for moments when it will accomplish something. He is methodical, personally dangerous, and one of the more capable people the character will encounter during the campaign.
 
-His first approach arrives as a reasonable business transaction — a fair offer for the package's return, no questions asked, the matter concluded cleanly. He means this, up to a point. The offer doesn't stay reasonable indefinitely; each refusal narrows his patience and shifts his calculation of what the character is worth versus what they're costing him.
+His first approach arrives as a reasonable business transaction: a fair offer for the package's return, no questions asked, the matter concluded cleanly. He means this, up to a point. The offer doesn't stay reasonable indefinitely; each refusal narrows his patience and shifts his calculation of what the character is worth versus what they're costing him.
 
-Characters who return the package and survive the meeting will find they've demonstrated exactly the competence Floxin values in reluctant assets. The Debt doesn't resolve with the exchange. It restructures around a new arrangement, one that Floxin considers an upgrade.
+Characters who return the package and survive the meeting will find they've demonstrated exactly the competence Floxin values in reluctant assets. The Debt restructures around a new arrangement rather than resolving cleanly; Floxin considers it an upgrade.
 
 > [!warning]**Two Zhentarims**
 > Floxin works for Manshoon, not the Doom Raiders. A character whose Debt is held by Floxin is already entangled with the campaign's primary villain faction, whether they know it or not. Davil Starsong's cell is a separate organization and won't automatically come to this character's aid. Let the character discover the distinction on their own.
@@ -75,7 +75,7 @@ What you didn't know when you acquired the credential was that Yalah Gralhund is
 
 Yalah Gralhund is the lady of House Gralhund, a Sea Ward noble family whose motto is "We see both sides." Her husband Orond manages appearances; she manages the house. Her intelligence is genuine and her ruthlessness practical: she is interested in outcomes that serve House Gralhund, and in nothing else.
 
-Her first contact with the character will feel like an invitation — social, professional, the warmth of someone who knows many people. She won't accuse. She'll place the character in a setting where both parties understand the same thing without saying it: she knows, and her response is still being decided.
+Her first contact with the character will feel like an invitation: social, professional, the warmth of someone who knows many people. She won't accuse. She'll place the character in a setting where both parties understand the same thing without saying it: she knows, and her response is still being decided.
 
 Characters who handle this meeting well, demonstrating they're worth more as an asset than as an example, will find the credential problem quietly retired in exchange for a specific private service. Characters who confirm her suspicion that they are merely opportunistic will have a different experience.
 
@@ -93,7 +93,7 @@ Nothing has happened to him. Yet. But the information is still yours, and what y
 
 Renaer Neverember is the estranged son of Dagult Neverember, the former Open Lord who looted the Vault of Dragons before his removal from office. Renaer is nothing like his father, which has cost him: politically exiled by association with Dagult's name, he works quietly to repair both his standing and his city.
 
-The information he passed to the character concerns a third party — a name, a location, a transaction implicating someone still active in Waterdeep whose corruption has nothing to do with Dagult's and has not reached public attention. Renaer shared it because he needed someone outside his usual circles to hold it, in case something happened to him. Nothing has. The information has not yet been used.
+The information he passed to the character concerns a third party: a name, a location, a transaction implicating someone still active in Waterdeep whose corruption has nothing to do with Dagult's and has not reached public attention. Renaer shared it because he needed someone outside his usual circles to hold it, in case something happened to him. Nothing has. The information has not yet been used.
 
 He makes contact once, in a setting that leaves room for the character to redirect. He asks what they've done with it, in a tone that makes clear he has thought carefully about the range of possible answers. Characters who have handled it with care — held it close, used it well, or simply kept it — will find Renaer a more useful ally than his difficult name suggests. He knows the city's factions and geography with unusual depth, maintains relationships that span from the Harpers to the Lords' Alliance, and genuinely wants nothing from the party beyond the reassurance that he read them correctly. Characters who have sold or wasted the information will find that Renaer's warmth has a ceiling he doesn't announce in advance.
 
@@ -130,7 +130,7 @@ Davil came afterward to offer a drink and mention, warmly, that he'd heard good 
 
 Davil Starsong is the Doom Raiders' Master of Opportunities and Negotiations: a sun elf who makes friends easily, negotiates deals with practiced grace, and operates from a curtained room on the Yawning Portal's second floor with a permanent suite on the third. His charm bracelet holds small trophies from monsters the Doom Raiders have killed over the years. He is entirely transparent about being charming, which functions as its own form of professional misdirection.
 
-He's a genuine professional who believes the Doom Raiders' moderate approach to crime is both more effective and more defensible than Manshoon's methods. His first formal ask of the character is small and framed as exactly that — he's calibrating them, not exploiting them, and he says so. Characters who engage honestly find the relationship evolving into something closer to a working partnership over the course of the campaign. Characters who attempt to use the asset-running as leverage against him will find that Davil has been anticipating that move since before the first note was dropped.
+He's a genuine professional who believes the Doom Raiders' moderate approach to crime is both more effective and more defensible than Manshoon's methods. His first formal ask of the character is small and framed as exactly that: he's calibrating them, not exploiting them, and he says so. Characters who engage honestly find the relationship evolving into something closer to a working partnership over the course of the campaign. Characters who attempt to use the asset-running as leverage against him will find that Davil has been anticipating that move since before the first note was dropped.
 
 ---
 
@@ -144,9 +144,9 @@ A week later, an unsigned note arrived at your residence. It said: *We should me
 
 ### The Holder: Barnibus Blastwind (Watchful Order of Magists and Protectors)
 
-Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors: methodical, private, and genuinely skilled at investigative work. His professional compromise is situational — one incident, singular, involving a person he refuses to discuss. Outside that incident, his record is clean.
+Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors: methodical, private, and genuinely skilled at investigative work. His professional compromise is situational: one incident, one person he refuses to discuss. Outside that incident, his record is clean.
 
-He presents the mutual-observation arrangement as workable because he means it. His first formal request involves something the Watch can't pursue through official channels, and he frames this honestly rather than dressing it as a favor. Characters who help him begin accumulating something more durable than leverage: an ally with working knowledge of Waterdeep's investigative apparatus and a personal stake in keeping them clear of its attention.
+He presents the mutual-observation arrangement as workable because he means it. His first formal request involves something the Watch can't pursue through official channels, and he frames this honestly rather than dressing it as a favor. Characters who help him gain an ally who knows Waterdeep's investigative apparatus from the inside and has a personal stake in keeping them clear of its attention.
 
 ---
 
@@ -167,7 +167,7 @@ His requests, when they come, tend to be specific and counterintuitive: he wants
 ---
 
 > [!design]**Debts as Acceleration**
-> The Debt system exists to solve a classic sandbox problem: players who feel like observers of a world that hasn't yet involved them. A character who owes Istrid Horn a debt is already inside the story. A character who ran Floxin's package has a problem that will find them whether or not they go looking. Space each Debt's demands across the campaign — early calls should be low-stakes and character-defining; mid-campaign calls should create genuine tension; late-campaign calls should force meaningful choices about loyalty, identity, and the price of freedom. Use Debts as reasons for NPCs to seek the characters out, not as punishments.
+> The Debt system exists to solve a classic sandbox problem: players who feel like observers of a world that hasn't yet involved them. A character who owes Istrid Horn a debt is already inside the story. A character who ran Floxin's package has a problem that will find them whether or not they go looking. Space each Debt's demands across the campaign. Early calls should be low-stakes and character-defining; mid-campaign calls should create genuine tension; late-campaign calls should force meaningful choices about loyalty, identity, and the price of freedom. Use Debts as reasons for NPCs to seek the characters out, not as punishments.
 
 ## Cross-References
 

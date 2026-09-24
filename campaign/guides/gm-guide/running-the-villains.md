@@ -1,6 +1,6 @@
 # Running the Villains
 
-This page is your reference for the Grand Game. Read it before the campaign begins and keep it close — every faction listed here is active from the first session, whether or not the players have encountered them yet.
+Read this page before the campaign begins and keep it close. Every faction listed here is active from the first session, whether or not the players have encountered them yet.
 
 ## Overview
 
@@ -10,7 +10,7 @@ The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dra
 
 Four factions are in active competition for the Enigma when the campaign begins. The players' characters stumble into the middle of that competition, and their choices will determine who wins, who loses, and what the vault's gold accomplishes.
 
-For the between-sessions procedure — the weekly faction check, faction state tracking, escalation pace, and when factions stand down — see **The Grand Game in Play**.
+For the between-sessions procedure (the weekly faction check, faction state tracking, escalation pace, and when factions stand down), see **The Grand Game in Play**.
 
 ## The MacGuffin Chain
 
