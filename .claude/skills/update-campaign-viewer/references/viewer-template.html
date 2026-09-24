@@ -11,6 +11,7 @@
   --sidebar-hover: #2a2a4e;
   --sidebar-selected: #3a3a5e;
   --sidebar-border: #333355;
+  --page-sidebar-bg: #1e1e32;
   --content-bg: #faf6ef;
   --content-text: #1a1a1a;
   --content-heading: #4a2800;
@@ -33,6 +34,7 @@
     --sidebar-text: #b0b0b8;
     --sidebar-hover: #1a1a30;
     --sidebar-selected: #252545;
+    --page-sidebar-bg: #17172c;
     --content-bg: #1e1e2a;
     --content-text: #d4d0c8;
     --content-heading: #e8c878;
@@ -54,6 +56,7 @@
   --sidebar-text: #b0b0b8;
   --sidebar-hover: #1a1a30;
   --sidebar-selected: #252545;
+  --page-sidebar-bg: #17172c;
   --content-bg: #1e1e2a;
   --content-text: #d4d0c8;
   --content-heading: #e8c878;
@@ -81,20 +84,177 @@ body {
 
 #app {
   display: grid;
-  grid-template-columns: 300px 1fr;
+  grid-template-columns: 1fr 280px;
   height: 100vh;
   height: 100dvh;
+  transition: grid-template-columns 0.2s ease;
 }
 
-#sidebar {
+body.journal-sidebar-collapsed #app {
+  grid-template-columns: 1fr 34px;
+}
+
+body.journal-open #app {
+  grid-template-columns: 220px 1fr 280px;
+}
+
+body.journal-open.page-sidebar-collapsed #app {
+  grid-template-columns: 34px 1fr 280px;
+}
+
+body.journal-open.journal-sidebar-collapsed #app {
+  grid-template-columns: 220px 1fr 34px;
+}
+
+body.journal-open.page-sidebar-collapsed.journal-sidebar-collapsed #app {
+  grid-template-columns: 34px 1fr 34px;
+}
+
+#page-sidebar {
+  background: var(--page-sidebar-bg);
+  color: var(--sidebar-text);
+  overflow-y: auto;
+  padding: 0 12px 16px;
+  display: none;
+  flex-direction: column;
+  border-right: 1px solid var(--sidebar-border);
+  font-size: 13px;
+  position: relative;
+}
+
+body.journal-open #page-sidebar {
+  display: flex;
+}
+
+body.page-sidebar-collapsed #page-sidebar .page-sidebar-header,
+body.page-sidebar-collapsed #page-sidebar #page-list {
+  display: none;
+}
+
+.page-sidebar-header {
+  position: sticky;
+  top: 0;
+  background: var(--page-sidebar-bg);
+  padding-top: 16px;
+  padding-bottom: 10px;
+  padding-right: 26px;
+  z-index: 2;
+}
+
+.page-sidebar-header h3 {
+  margin: 0;
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  color: #f0f0f5;
+  letter-spacing: 0.02em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+#page-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  flex: 1;
+}
+
+#page-list li {
+  margin: 0;
+}
+
+#page-list .empty-state {
+  color: var(--sidebar-text);
+  opacity: 0.7;
+  font-size: 12px;
+  padding: 8px 4px;
+}
+
+.page-item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  cursor: pointer;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.page-item:hover {
+  background: var(--sidebar-hover);
+}
+
+.page-item:focus-visible {
+  outline: 2px solid var(--sidebar-selected);
+  outline-offset: -2px;
+}
+
+.page-item.selected {
+  background: var(--sidebar-selected);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.page-item .icon {
+  flex: none;
+  font-size: 13px;
+}
+
+.page-item .label {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.sidebar-toggle-btn {
+  position: absolute;
+  top: 12px;
+  width: 22px;
+  height: 22px;
+  border: 1px solid var(--sidebar-border);
+  background: var(--sidebar-hover);
+  color: var(--sidebar-text);
+  cursor: pointer;
+  font-size: 14px;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border-radius: 4px;
+  z-index: 3;
+}
+
+.sidebar-toggle-btn:hover {
+  background: var(--sidebar-selected);
+  color: #fff;
+}
+
+.sidebar-toggle-btn.right-edge {
+  right: 6px;
+}
+
+.sidebar-toggle-btn.left-edge {
+  left: 6px;
+}
+
+#journal-sidebar {
   background: var(--sidebar-bg);
   color: var(--sidebar-text);
   overflow-y: auto;
   padding: 0 16px 16px;
   display: flex;
   flex-direction: column;
-  border-right: 1px solid var(--sidebar-border);
+  border-left: 1px solid var(--sidebar-border);
   font-size: 13px;
+  position: relative;
+}
+
+body.journal-sidebar-collapsed #journal-sidebar .sidebar-header,
+body.journal-sidebar-collapsed #journal-sidebar #tree,
+body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
+  display: none;
 }
 
 .sidebar-header {
@@ -103,6 +263,7 @@ body {
   background: var(--sidebar-bg);
   padding-top: 16px;
   padding-bottom: 10px;
+  padding-left: 24px;
   z-index: 2;
 }
 
@@ -200,6 +361,12 @@ body {
 }
 
 .tree-item.selected {
+  background: var(--sidebar-selected);
+  color: #ffffff;
+  font-weight: 600;
+}
+
+.tree-header.selected-journal {
   background: var(--sidebar-selected);
   color: #ffffff;
   font-weight: 600;
@@ -537,11 +704,16 @@ pre code {
 }
 
 @media (max-width: 768px) {
-  #app {
+  #app,
+  body.journal-sidebar-collapsed #app,
+  body.journal-open #app,
+  body.journal-open.page-sidebar-collapsed #app,
+  body.journal-open.journal-sidebar-collapsed #app,
+  body.journal-open.page-sidebar-collapsed.journal-sidebar-collapsed #app {
     grid-template-columns: 1fr;
   }
 
-  #sidebar {
+  #journal-sidebar {
     position: fixed;
     top: 0;
     left: 0;
@@ -554,7 +726,7 @@ pre code {
     box-shadow: 2px 0 16px rgba(0,0,0,0.4);
   }
 
-  body.sidebar-open #sidebar {
+  body.sidebar-open #journal-sidebar {
     transform: translateX(0);
   }
 
@@ -562,7 +734,26 @@ pre code {
     display: inline-block;
   }
 
-  body.sidebar-open #sidebar-overlay {
+  #page-sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 84%;
+    max-width: 300px;
+    transform: translateX(-100%);
+    transition: transform 0.25s ease;
+    z-index: 100;
+    box-shadow: 2px 0 16px rgba(0,0,0,0.4);
+  }
+
+  body.journal-open:not(.page-sidebar-collapsed) #page-sidebar {
+    display: flex;
+    transform: translateX(0);
+  }
+
+  body.sidebar-open #sidebar-overlay,
+  body.journal-open:not(.page-sidebar-collapsed) #sidebar-overlay {
     display: block;
     position: fixed;
     inset: 0;
@@ -578,19 +769,12 @@ pre code {
 </head>
 <body>
 <div id="app">
-  <nav id="sidebar">
-    <div class="sidebar-header">
-      <h2>Campaign Compendium</h2>
-      <input type="search" id="search" placeholder="Search pages...">
-      <div class="sidebar-controls">
-        <button id="expand-all" title="Expand all">+</button>
-        <button id="collapse-all" title="Collapse all">&minus;</button>
-      </div>
+  <nav id="page-sidebar">
+    <div class="page-sidebar-header">
+      <h3 id="journal-title">Pages</h3>
     </div>
-    <div id="tree"></div>
-    <div class="sidebar-footer">
-      <span id="stats"></span>
-    </div>
+    <ul id="page-list"></ul>
+    <button id="page-sidebar-collapse" class="sidebar-toggle-btn right-edge" title="Collapse pages">&lsaquo;</button>
   </nav>
   <main id="content">
     <div class="toolbar">
@@ -606,6 +790,21 @@ pre code {
       <p class="empty-state">Select a page from the sidebar.</p>
     </article>
   </main>
+  <nav id="journal-sidebar">
+    <button id="journal-sidebar-collapse" class="sidebar-toggle-btn left-edge" title="Collapse journals">&rsaquo;</button>
+    <div class="sidebar-header">
+      <h2>Campaign Compendium</h2>
+      <input type="search" id="search" placeholder="Search pages...">
+      <div class="sidebar-controls">
+        <button id="expand-all" title="Expand all">+</button>
+        <button id="collapse-all" title="Collapse all">&minus;</button>
+      </div>
+    </div>
+    <div id="tree"></div>
+    <div class="sidebar-footer">
+      <span id="stats"></span>
+    </div>
+  </nav>
 </div>
 <div id="sidebar-overlay"></div>
 <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
@@ -620,8 +819,11 @@ const QUESTS_ORDER = ['act-i', 'act-ii', 'faction-missions'];
 const TITLE_WORD_OVERRIDES = { gm: 'GM', npc: 'NPC', i: 'I', ii: 'II', iii: 'III', iv: 'IV' };
 const MINOR_WORDS = new Set(['of', 'the', 'and', 'in', 'on', 'at', 'a', 'an', 'to', 'for', 'or', 'nor', 'with', 'from']);
 
-const sidebarEl = document.getElementById('sidebar');
+const journalSidebarEl = document.getElementById('journal-sidebar');
+const pageSidebarEl = document.getElementById('page-sidebar');
 const treeEl = document.getElementById('tree');
+const pageListEl = document.getElementById('page-list');
+const journalTitleEl = document.getElementById('journal-title');
 const searchInput = document.getElementById('search');
 const expandAllBtn = document.getElementById('expand-all');
 const collapseAllBtn = document.getElementById('collapse-all');
@@ -631,10 +833,14 @@ const gmToggleEl = document.getElementById('gm-mode');
 const pageContentEl = document.getElementById('page-content');
 const hamburgerEl = document.getElementById('sidebar-toggle');
 const overlayEl = document.getElementById('sidebar-overlay');
+const pageSidebarCollapseBtn = document.getElementById('page-sidebar-collapse');
+const journalSidebarCollapseBtn = document.getElementById('journal-sidebar-collapse');
 
 let treeData = null;
 let collapsedState = null;
 let currentPath = null;
+let currentJournal = null;
+let currentSearchQuery = '';
 let pageIndexByPath = new Map();
 let itemIndexByPath = new Map();
 let branchIndex = new Map();
@@ -846,12 +1052,28 @@ function persistGmMode(v) {
   try { localStorage.setItem('campaign-viewer-gm-mode', JSON.stringify(v)); } catch (e) {}
 }
 
+function loadSidebarCollapse(which) {
+  try {
+    const raw = localStorage.getItem('campaign-viewer-' + which + '-sidebar-collapsed');
+    if (raw !== null) return JSON.parse(raw);
+  } catch (e) {}
+  return false;
+}
+
+function persistSidebarCollapse(which, v) {
+  try { localStorage.setItem('campaign-viewer-' + which + '-sidebar-collapsed', JSON.stringify(v)); } catch (e) {}
+}
+
 function updateHeaderIcons(header, type, collapsed) {
-  header.querySelector('.caret').textContent = collapsed ? '▶' : '▼';
+  if (type !== 'journal') header.querySelector('.caret').textContent = collapsed ? '▶' : '▼';
   if (type === 'folder') header.querySelector('.icon').textContent = collapsed ? '📁' : '📂';
 }
 
 function onBranchHeaderClick(node) {
+  if (node.type === 'journal') {
+    openJournal(node);
+    return;
+  }
   const entry = branchIndex.get(node.id);
   if (!entry) return;
   const collapsed = entry.li.classList.toggle('collapsed');
@@ -862,45 +1084,20 @@ function onBranchHeaderClick(node) {
 }
 
 function renderNode(node, ancestorNames, ancestorIds) {
-  const li = document.createElement('li');
-
   if (node.type === 'page') {
-    li.className = 'tree-node tree-page';
-    const item = document.createElement('div');
-    item.className = 'tree-item';
-    item.tabIndex = 0;
-    item.setAttribute('role', 'button');
-
-    const iconSpan = document.createElement('span');
-    iconSpan.className = 'icon';
-    iconSpan.textContent = '📄';
-
-    const labelSpan = document.createElement('span');
-    labelSpan.className = 'label';
-    labelSpan.textContent = node.name;
-
-    item.appendChild(iconSpan);
-    item.appendChild(labelSpan);
-    item.addEventListener('click', function () { selectPage(node.path); });
-    item.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); selectPage(node.path); }
-    });
-    li.appendChild(item);
-
     node.breadcrumb = ancestorNames.concat([node.name]);
     node.ancestorIds = ancestorIds.slice();
     pageIndexByPath.set(node.path, node);
-    itemIndexByPath.set(node.path, { li: li, item: item });
     const pageData = CAMPAIGN_DATA.pages[node.path] || {};
     searchIndex.push({
       path: node.path,
       titleLower: (node.name || '').toLowerCase(),
       contentLower: (pageData.content || '').toLowerCase(),
     });
-
-    return li;
+    return null;
   }
 
+  const li = document.createElement('li');
   allBranchIds.push(node.id);
   const collapsed = collapsedState ? collapsedState.has(node.id) : true;
   li.className = 'tree-node tree-' + node.type + (collapsed ? ' collapsed' : '');
@@ -912,7 +1109,7 @@ function renderNode(node, ancestorNames, ancestorIds) {
 
   const caret = document.createElement('span');
   caret.className = 'caret';
-  caret.textContent = collapsed ? '▶' : '▼';
+  caret.textContent = (node.type === 'journal') ? '' : (collapsed ? '▶' : '▼');
 
   const icon = document.createElement('span');
   icon.className = 'icon';
@@ -931,16 +1128,25 @@ function renderNode(node, ancestorNames, ancestorIds) {
   });
   li.appendChild(header);
 
-  const childUl = document.createElement('ul');
-  childUl.className = 'tree-children';
+  branchIndex.set(node.id, { li: li, header: header, node: node });
+
   const childAncestorNames = ancestorNames.concat([node.name]);
   const childAncestorIds = ancestorIds.concat([node.id]);
+
+  if (node.type === 'journal') {
+    node.children.forEach(function (child) {
+      renderNode(child, childAncestorNames, childAncestorIds);
+    });
+    return li;
+  }
+
+  const childUl = document.createElement('ul');
+  childUl.className = 'tree-children';
   node.children.forEach(function (child) {
-    childUl.appendChild(renderNode(child, childAncestorNames, childAncestorIds));
+    const childEl = renderNode(child, childAncestorNames, childAncestorIds);
+    if (childEl) childUl.appendChild(childEl);
   });
   li.appendChild(childUl);
-
-  branchIndex.set(node.id, { li: li, header: header, node: node });
 
   return li;
 }
@@ -956,7 +1162,8 @@ function renderSidebarTree() {
   const ul = document.createElement('ul');
   ul.className = 'tree-root';
   treeData.root.children.forEach(function (child) {
-    ul.appendChild(renderNode(child, [], []));
+    const childEl = renderNode(child, [], []);
+    if (childEl) ul.appendChild(childEl);
   });
   treeEl.appendChild(ul);
 }
@@ -1030,6 +1237,14 @@ function highlightSelected(path) {
   if (entry) entry.item.classList.add('selected');
 }
 
+function highlightSelectedJournal(journalId) {
+  branchIndex.forEach(function (entry) {
+    if (entry.node.type === 'journal') entry.header.classList.remove('selected-journal');
+  });
+  const entry = branchIndex.get(journalId);
+  if (entry) entry.header.classList.add('selected-journal');
+}
+
 function revealAndExpandTo(node) {
   if (!node.ancestorIds || !node.ancestorIds.length) return;
   if (!collapsedState) collapsedState = new Set(allBranchIds);
@@ -1050,6 +1265,84 @@ function revealAndExpandTo(node) {
 
 function closeMobileSidebar() {
   document.body.classList.remove('sidebar-open');
+  if (window.matchMedia('(max-width: 768px)').matches) {
+    document.body.classList.add('page-sidebar-collapsed');
+  }
+}
+
+function renderPageList(journalNode) {
+  journalTitleEl.textContent = journalNode.name;
+  pageListEl.innerHTML = '';
+  itemIndexByPath = new Map();
+
+  if (!journalNode.children.length) {
+    const empty = document.createElement('li');
+    empty.className = 'empty-state';
+    empty.textContent = 'No pages.';
+    pageListEl.appendChild(empty);
+    return;
+  }
+
+  journalNode.children.forEach(function (pageNode) {
+    const li = document.createElement('li');
+    const item = document.createElement('div');
+    item.className = 'page-item';
+    item.tabIndex = 0;
+    item.setAttribute('role', 'button');
+
+    const iconSpan = document.createElement('span');
+    iconSpan.className = 'icon';
+    iconSpan.textContent = '📄';
+
+    const labelSpan = document.createElement('span');
+    labelSpan.className = 'label';
+    labelSpan.textContent = pageNode.name;
+
+    item.appendChild(iconSpan);
+    item.appendChild(labelSpan);
+    item.addEventListener('click', function () { selectPage(pageNode.path); });
+    item.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); selectPage(pageNode.path); }
+    });
+    li.appendChild(item);
+    pageListEl.appendChild(li);
+    itemIndexByPath.set(pageNode.path, { li: li, item: item });
+  });
+
+  if (currentSearchQuery) {
+    const matched = computeMatches(currentSearchQuery);
+    itemIndexByPath.forEach(function (entry, path) {
+      entry.li.classList.toggle('search-hidden', !matched.has(path));
+    });
+  }
+}
+
+function openJournal(journalNode, opts) {
+  opts = opts || {};
+  currentJournal = journalNode;
+  renderPageList(journalNode);
+  document.body.classList.add('journal-open');
+  highlightSelectedJournal(journalNode.id);
+  closeMobileSidebar();
+
+  const hasTarget = opts.selectPath && journalNode.children.some(function (c) { return c.path === opts.selectPath; });
+  const targetPath = hasTarget ? opts.selectPath : (journalNode.children[0] ? journalNode.children[0].path : null);
+  if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
+}
+
+function openHashPage(path) {
+  const node = pageIndexByPath.get(path);
+  if (!node || !node.ancestorIds || !node.ancestorIds.length) {
+    selectPage(path, { skipHash: true });
+    return;
+  }
+  const journalId = node.ancestorIds[node.ancestorIds.length - 1];
+  const journalEntry = branchIndex.get(journalId);
+  if (journalEntry) {
+    openJournal(journalEntry.node, { selectPath: path, skipHash: true });
+  } else {
+    selectPage(path, { skipHash: true });
+  }
 }
 
 function selectPage(path, opts) {
@@ -1087,12 +1380,14 @@ function computeVisibleBranches(node, matched, visible) {
 }
 
 function clearSearch() {
+  currentSearchQuery = '';
   itemIndexByPath.forEach(function (entry) { entry.li.classList.remove('search-hidden'); });
   branchIndex.forEach(function (entry) { entry.li.classList.remove('search-hidden', 'search-expanded'); });
 }
 
 function applySearch(query) {
   const q = query.trim();
+  currentSearchQuery = q;
   if (!q) { clearSearch(); return; }
   const matched = computeMatches(q);
   const visibleBranches = new Set();
@@ -1147,10 +1442,24 @@ function wireControls() {
   });
   overlayEl.addEventListener('click', closeMobileSidebar);
 
+  pageSidebarCollapseBtn.addEventListener('click', function () {
+    const collapsed = document.body.classList.toggle('page-sidebar-collapsed');
+    pageSidebarCollapseBtn.innerHTML = collapsed ? '&rsaquo;' : '&lsaquo;';
+    pageSidebarCollapseBtn.title = collapsed ? 'Expand pages' : 'Collapse pages';
+    persistSidebarCollapse('page', collapsed);
+  });
+
+  journalSidebarCollapseBtn.addEventListener('click', function () {
+    const collapsed = document.body.classList.toggle('journal-sidebar-collapsed');
+    journalSidebarCollapseBtn.innerHTML = collapsed ? '&lsaquo;' : '&rsaquo;';
+    journalSidebarCollapseBtn.title = collapsed ? 'Expand journals' : 'Collapse journals';
+    persistSidebarCollapse('journal', collapsed);
+  });
+
   window.addEventListener('hashchange', function () {
     const hash = location.hash ? decodeURIComponent(location.hash.replace(/^#/, '')) : '';
     if (hash && hash !== currentPath && pageIndexByPath.has(hash)) {
-      selectPage(hash, { skipHash: true });
+      openHashPage(hash);
     }
   });
 }
@@ -1160,6 +1469,17 @@ function init() {
   gmToggleEl.checked = gmMode;
   document.body.classList.toggle('player-mode', !gmMode);
   collapsedState = loadCollapsedState();
+
+  if (loadSidebarCollapse('page')) {
+    document.body.classList.add('page-sidebar-collapsed');
+    pageSidebarCollapseBtn.innerHTML = '&rsaquo;';
+    pageSidebarCollapseBtn.title = 'Expand pages';
+  }
+  if (loadSidebarCollapse('journal')) {
+    document.body.classList.add('journal-sidebar-collapsed');
+    journalSidebarCollapseBtn.innerHTML = '&lsaquo;';
+    journalSidebarCollapseBtn.title = 'Expand journals';
+  }
 
   if (typeof marked !== 'undefined' && marked.setOptions) {
     marked.setOptions({ gfm: true, breaks: false });
@@ -1181,7 +1501,7 @@ function init() {
 
   const hash = location.hash ? decodeURIComponent(location.hash.replace(/^#/, '')) : '';
   if (hash && pageIndexByPath.has(hash)) {
-    selectPage(hash, { skipHash: true });
+    openHashPage(hash);
   }
 }
 
