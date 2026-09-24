@@ -56,4 +56,4 @@
 
 - [Kolat Towers](../../structure/arc-i-kolat-towers.md) — heist quest featuring Manshoon directly
 - [Notable Figures](../notable-figures/) — full profile for Urstul Floxin
-- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — operational detail, response teams, escalation; see also [Manshoon's Zhentarim](../organizations/09-manshoons-zhentarim.md)
+- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — villain reference tables; [Manshoon's Zhentarim](../../guides/factions/10-manshoons-zhentarim.md) (Factions guide) — response teams, outposts, escalation, revelation list; [Manshoon's Zhentarim](../organizations/09-manshoons-zhentarim.md) (Organizations) — who the Zhentarim are

@@ -87,7 +87,7 @@ Critical beats to audit:
 | Finding each villain faction's lair | **Faction Outposts** |
 | Opening the Vault of Dragons | **Vault of Dragons** |
 
-Verification lives in the Revelation Lists on the villain Factions guide pages ([Bregan D'aerthe](../factions/08-bregan-daerthe.md), [Xanathar's Guild](../factions/09-xanathars-guild.md), [Cassalanters](../factions/11-cassalanters.md)).
+Verification lives in the Revelation Lists on the villain Factions guide pages ([Bregan D'aerthe](../factions/08-bregan-daerthe.md), [Xanathar's Guild](../factions/09-xanathars-guild.md), [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md), [Cassalanters](../factions/11-cassalanters.md)).
 
 ## The Fireball Victim
 

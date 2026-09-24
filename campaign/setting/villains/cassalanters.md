@@ -54,4 +54,4 @@
 
 - [Cassalanter Villa](../../structure/arc-g-cassalanter-villa.md) — heist quest featuring the Cassalanters directly
 - [Notable Figures](../notable-figures/) — full profiles for Victoro, Ammalia, Osvaldo, Willifort Crowelle
-- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — operational detail, response teams, escalation; see also [The Cassalanters](../organizations/10-cassalanters.md)
+- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — villain reference tables; [The Cassalanters](../../guides/factions/11-cassalanters.md) (Factions guide) — response teams, outposts, escalation, revelation list; [The Cassalanters](../organizations/10-cassalanters.md) (Organizations) — who the Cassalanters are
