@@ -1,5 +1,7 @@
 # Foundry Journal JSON Structure Reference
 
+> **`_key` is required, not optional.** This document's examples below focus on the visible document shape and can read as if `_key` is a minor bookkeeping field. It is not: every JournalEntry needs a top-level `"_id"` plus `"_key": "!journal!<id>"`, every page needs `"_key": "!journal.pages!<entryId>.<pageId>"`, and every category (if any are used) needs `"_key": "!journal.categories!<entryId>.<catId>"`. Without these, `foundryvtt-cli` silently builds an empty pack — no error, just nothing in it. `assemble.py` (in `scripts/`) already sets these correctly; if you ever hand-write JSON instead of using it, don't skip this.
+
 ## Top-Level Object
 
 ```json
@@ -120,7 +122,7 @@ Within a category, pages use incrementing multiples of 100000:
 
 ### text.content
 
-This is the full HTML content of the page. All markdown formatting must be converted to HTML here. See `sidebar-html.md` for sidebar conversion rules.
+This is the full HTML content of the page. All markdown formatting must be converted to HTML here. See `../SKILL.md` (Markup components, Conversion rules) and `sidebar-icons.md` for sidebar conversion rules.
 
 **Basic HTML rules:**
 - Paragraphs: `<p>text</p>`

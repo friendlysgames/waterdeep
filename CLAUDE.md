@@ -247,7 +247,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 |---|---|
 | `adventure-reloaded` | **Load first for any campaign content task** — governs Ember-style modular format, GM/player zones, Milestone Points, cross-document callout syntax, quest openers, scene voice, NPC profile format, design notes philosophy. Load before drafting any quest journal, event file, location journal, keyed room, NPC profile, or design notes page. |
 | `dnd-adventure-text` | Writing any adventure prose: encounter areas, read-aloud text, GM notes, treasure, traps |
-| `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style` |
+| `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style`. Also governs sidebar/callout markup (`[!type]`) in all campaign `.md`, and the `md2html.py`/`assemble.py` scripts that convert a quest journal, location journal, guide, or setting folder to Foundry JSON |
 | `ttrpg-sourcebook-style` | Lore, faction overviews, location descriptions, NPC profiles, setting prose |
 | `ember-adventure-style` | Ember voice layer for adventure text — always load alongside `dnd-adventure-text` for events, quest overviews, keyed rooms, read-aloud, NPC dialogue, tactics, Summary |
 | `ember-setting-style` | Ember voice layer for setting and GM guidance — always load alongside `ttrpg-sourcebook-style` for lore, organizations, Notable Figures, gazetteer entries, Players' Guide, GM Guide |
@@ -345,7 +345,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits that pollute the git log. The handoff must be the last commit of every session.
 
-**Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 4.6) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
+**Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 4.6) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. Drafting goes to `prose-drafter`, which is pinned to Sonnet 4.6. Never draft with a `general-purpose` agent on the `sonnet` alias, because that alias resolves to the newest Sonnet, not 4.6. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
 
 **Wait to be asked:** Never begin researching or writing the next section (faction, quest, guide) without an explicit user request. Complete the current task, then stop.
 
