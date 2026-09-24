@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - **Campaign role:** Player faction and villain faction — drow mercenary company operating the Sea Maidens Faire carnival; holds Eye #3 and runs a city-wide intelligence network.
 > - **Contacts:** **Jarlaxle Baenre** / "Zardoz Zord" (primary, Sea Maidens Faire); **Krebbyg Masq'il'yr** / "Kreb Sorrush" (street contact, Seven Masks Theater)
-> - **Mission delivery:** Anonymous black coin pouches (Missions 1–2); in-person through Krebbyg; Jarlaxle directly after Mission 4.
+> - **Mission delivery:** Mission 1 by unsigned theater tickets that lead to Kreb Sorrush at the Seven Masks; Mission 2 by J.B. Nevercott in person at the Yawning Portal; Missions 3–6 in person through Krebbyg.
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**, **Vault of Dragons**
 >
 > **Primary Contact:** Jarlaxle Baenre — operating as "Zardoz Zord," a flamboyant Illuskan sea captain running the Sea Maidens Faire out of three carnival ships in Deepwater Harbor. His first in-person meeting with the party is the Trollskull Alley recruitment visit, arriving as "J.B. Nevercott," a haberdasher who happens to know a great deal about editorial publishing schedules. Mission 2 (The Wazoo Affair) is the first job he brings after that meeting. He does not acknowledge that J.B. Nevercott and Zardoz Zord are the same person, even when both have been seen by the same party member — this is the kind of thing he finds amusing. After Mission 4, he dispenses with J.B. Nevercott but remains Zardoz Zord until **Sea Maidens Faire**, where the party meets the real Jarlaxle Baenre.
