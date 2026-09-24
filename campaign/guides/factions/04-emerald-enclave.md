@@ -27,7 +27,7 @@ The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wake
 | **Fireball!** | Jeryth perceived a sharp psychic disturbance the night of the fireball — something was activated in the Castle Ward. Melannor asks what the party knows. |
 | **Gralhund Villa** | Gralhund Villa sits over a minor ley line the Enclave monitors. Xanathar Guild activity around it has destabilized the line. Melannor would like to know what happened inside. |
 | **Xanathar's Lair** | Jeryth provides an enchanted herb sprig that functions as a mild psychic shield: advantage on the first saving throw against an implanted intellect devourer, usable once. She asks the party to carry it into Xanathar's lair. |
-| **Cassalanter Villa** | The Cassalanter infernal ritual is disrupting a ley line in the Sea Ward. Jeryth's gardens are experiencing interference — herbs dying overnight, birds leaving the estate oaks. She can feel the ritual's schedule as surges of disturbance, giving the party a calendar indicator for the Founders' Day deadline. |
+| **Cassalanter Villa** | A persistent infernal disturbance in the Sea Ward is disrupting a ley line Jeryth monitors. She cannot trace it to a specific address. Herbs are dying overnight at Phaulkonmere; the estate oaks have lost their birds. She can feel the disturbance's rhythm as regular surges — enough to give the party a calendar indicator if they can find the source. |
 | **Vault of Dragons** | Mission 6 triggers here. Jeryth needs no advance notice — M6 already prepared her wards. She's ready when the party calls. |
 
 ## First Meeting

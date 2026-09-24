@@ -4,10 +4,10 @@ For who the Harpers are, see the **Harpers** organization page.
 
 ## Grand Game Stance
 
-The Harpers know the Cassalanters are infernalists, though the full shape of the vault situation remains unclear to them until the party reports in. Their overriding concern is the concentration of power in any single hand — including the Lords' Alliance, Force Grey, or the party itself. They want the vault gold dispersed too broadly for any faction to consolidate, the Stone of Golorr delivered to Harper custody for study, and whatever is dreaming below the city left undisturbed.
+The Harpers have watched the Cassalanters for years and found nothing — which is itself suspicious. No noble family is this clean, this charitable, this free of political enemies. Mirt has been building a dossier for two years and has not broken the surface. Their overriding concern is the concentration of power in any single hand — including the Lords' Alliance, Force Grey, or the party itself. They want the vault gold dispersed too broadly for any faction to consolidate, the Stone of Golorr delivered to Harper custody for study, and whatever is dreaming below the city left undisturbed.
 
 **What the Harpers share proactively:**
-- The Cassalanters' infernal history (after Mission 3, if the party seems likely to encounter them)
+- Mirt's accumulated suspicions about the Cassalanters: years of surveillance, a charity whose recipients don't survive scrutiny, a household that has never had a scandal (after Mission 3, if the party seems likely to encounter them)
 - That the Waterdeep Harper network has been infiltrated by Zhentarim double-agents (after Mission 4, if the party has met Davil)
 - Advance warning of faction response team deployments (at Renown 15+)
 
@@ -29,7 +29,7 @@ Manshoon's infiltration of the Waterdeep cell creates complications organically.
 | **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If the party doesn't report in, Mirt asks directly what they were doing there. |
 | **Faction Outposts** | Harper informants can be activated against Xanathar and Manshoon outposts (Renown 30+). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the party. |
 | **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. |
-| **Cassalanter Villa** | The Harpers have documentation of the Cassalanters' infernal contract. Mirt will hand it over if the party agrees to bring him the contract itself after the heist — not a copy, the original. |
+| **Cassalanter Villa** | Mirt has assembled years of anomalies: charity whose recipients cannot be verified, Watch inquiries that closed without findings, finances that do not add up. He shares the dossier if the party agrees to bring him whatever physical evidence they find below the villa — original documents, anything that answers his question. The question he cannot let go. |
 | **Vault of Dragons** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
 
 ## First Meeting

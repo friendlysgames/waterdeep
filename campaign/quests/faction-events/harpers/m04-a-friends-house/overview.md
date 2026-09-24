@@ -33,4 +33,4 @@ A formal invitation from Remallia Haventree arrived at Trollskull Manor, accompa
 
 The impostor was Jarlaxle Baenre, attending as "Erystian Demarne, Luskan poet." He had already identified Mirt across the room and decided the party looked interesting. His disguise held against casual scrutiny; identifying him required combining two lines of evidence or a high Insight check. Whether the party named him or not, a calling card arrived at Trollskull Manor two days later.
 
-The salon was also an intelligence-gathering opportunity. Ten named guests carried threads relevant to **Cassalanter Villa** (Cassalanter dye order, infernal contract context), the Vault of Dragons, the Splinter's Masked Lord compromises, and Mission 5's Corene Wyldath — none of them connected to each other on the surface.
+The salon was also an intelligence-gathering opportunity. Ten named guests carried threads relevant to **Cassalanter Villa** (suspicious Cassalanter purchases that gain meaning in retrospect), the Vault of Dragons, the Splinter's Masked Lord compromises, and Mission 5's Corene Wyldath — none of them connected to each other on the surface.

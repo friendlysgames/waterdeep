@@ -150,8 +150,8 @@ Each of the six standard factions assigns a named contact who handles recruitmen
 |---------|---------|------------------------|
 | Harpers | **Mirt** (primary); **Remallia "Remi" Haventree** (secondary — identity withheld until Mission 4) | Intelligence on faction activity; protection of vulnerable NPCs; exposure of corruption |
 | Lords' Alliance | **Jalester Silvermane** | The gold returned to the city treasury; factions contained; no public embarrassment of the Lords |
-| Emerald Enclave | **Melannor Fellbranch** | Anything tied to unnatural or fiendish corruption — Cassalanter diabolism, undead in Undermountain |
-| Order of the Gauntlet | **Savra Belabranta** | Combat support against known villain lairs; the Cassalanter sacrifice stopped before Founders' Day |
+| Emerald Enclave | **Melannor Fellbranch** | Anything tied to unnatural or fiendish corruption — the unidentified infernal disturbance in the Sea Ward, undead in Undermountain |
+| Order of the Gauntlet | **Savra Belabranta** | Combat support against known villain lairs; whatever the Cassalanters are planning stopped before Founders' Day |
 | Force Grey | **Vajra Safahr** | The same outcomes the Open Lord wants, handled quietly and without the Lords' Alliance's politics |
 | Doom Raiders | **Davil Starsong** (Missions 1–2); **Tashlyn Yafeera** (Missions 3–6) | Intelligence on Manshoon's cell; containment of Xanathar Guild activity; anything that weakens their rivals |
 
