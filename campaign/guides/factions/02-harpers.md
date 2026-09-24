@@ -34,16 +34,9 @@ Manshoon's infiltration of the Waterdeep cell creates complications organically.
 
 ## First Meeting
 
-**Mirt** (Chaotic Good, Illuskan Human, he/him) is the oldest wolf in a city full of foxes, and his first meeting with a potential Harper recruit looks nothing like a recruitment.
+A paper bird delivers two theater tickets to Lightsinger Theater, a request to meet in Private Box C at intermission, and a direction to a Delzorin Street tailor who has already been told to expect them. Mirt watches the first act before introducing himself, assessing who speaks first and who watches the exits. At intermission, he explains the Harpers plainly and presses a silver harp-and-crescent pin into the nearest open hand before anyone has finished answering. His parting words — *"I am almost never home"* — are warm and immediately final.
 
-The party receives a paper bird — a magically folded note that unfolds mid-flight to deposit two tickets to *The Fall of Tiamat* at Lightsinger Theater, along with a request to meet in Private Box C at intermission. Formal attire is required; the note specifies that a tailor on Delzorin Street has been told to expect them.
-
-Mirt uses Act 1 to observe before introducing himself. He watches from the box where the curtain leaves him half-shadowed, noting who speaks first, who stays quiet, and whether any of them watch the exits. At intermission, he explains the Harpers plainly: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He doesn't mention the Stone of Golorr, Manshoon, or the full shape of the Grand Game. This meeting is assessment, not briefing.
-
-Characters who accept find Mirt already holding a silver harp-and-crescent pin, which he presses into the nearest open hand rather than making a production of the gesture. His parting words — *"I am almost never home"* — are warm but immediately final.
-
-> [!profile]**Running Mirt**
-> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He's genuinely amused and genuinely calculating, always at once. Characters who treat him as a wealthy eccentric discover their error when the pin appears — already in his hand, already decided.
+The full scene is the [Harpers First Meeting](../../quests/faction-events/harpers/00-first-meeting/ev-01-first-meeting.md) event.
 
 ## Renown & Ranks
 

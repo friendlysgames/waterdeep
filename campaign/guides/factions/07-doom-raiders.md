@@ -34,11 +34,9 @@ Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon'
 
 ## First Meeting
 
-- A flying snake delivers a note to Trollskull Manor: *"Want to be part of something big? Speak to Davil Starsong at the Yawning Portal."*
-- Yagra Stonefist is already at the bar when the party arrives. How she greets them depends on their **Finding Floon** history: six variants covering helped her fight, stopped her early, sided with the Guild, stayed out and she won, stayed out and she lost, and tried to broker a peace. Each acknowledges what happened and calibrates how much goodwill she extends.
-- Yagra leads the party to Davil.
-- Davil pours without asking. He acknowledges the Zhentarim affiliation immediately, explains that the Doom Raiders are the legitimate-business wing of the Black Network and that Manshoon's cell is the enemy, and offers access to the faction's resources in exchange for capable, discreet help.
-- He does not press for an answer on the spot. *"Not for too long — the city doesn't have patience."*
+A flying snake delivers a note to Trollskull Manor during **The Factions Come Calling** Event: *"Want to be part of something big? Speak to Davil Starsong at the Yawning Portal."* Yagra Stonefist is at the bar when the party arrives; how she greets them depends on their history from **The Yawning Portal** Event in **Finding Floon** and the **Yagra Courteous** flag. She leads them upstairs to Davil, who pours without asking, names the Two Zhentarims split immediately, and does not press for an answer that night.
+
+Full scene — including all six Yagra greeting variants and Davil's read-aloud dialogue — in [Doom Raiders First Meeting](../../quests/faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md).
 
 ## Renown & Ranks
 

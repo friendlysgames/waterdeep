@@ -31,16 +31,9 @@ At campaign start, Laeral is three moves behind. Jalester's field reports and Wa
 
 ## First Meeting
 
-Jalester finds the party himself — at the Yawning Portal if they are regular presences there, at Trollskull Manor if they rarely venture out. He references the **Finding Floon** warehouse without prompting, making clear he has been watching since the investigation. There is no recruitment ceremony: he's already decided.
+Jalester seeks the party out himself — at the Yawning Portal or Trollskull Manor — and references the **Finding Floon** warehouse without prompting. His pitch is direct: the Alliance needs operatives who can work where the City Watch cannot, and it provides institutional backing in return. He answers questions, then delivers one condition before any answer can be given, waits three seconds, and leaves.
 
-His pitch is direct. The Alliance needs operatives who can work where the City Watch and City Guard can't. In exchange, the Alliance provides resources and institutional backing. He answers any questions without hurrying, then delivers his condition before they can give an answer:
-
-> "Assignments from us are not optional. If that changes your answer, now is the time to say so."
-
-He waits three seconds, then leaves.
-
-> [!design]**The Only Faction That Says It**
-> The Lords' Alliance is the only player faction that states upfront that its assignments are not optional. This is a character point for Jalester, not a penalty mechanic — he says it because the Alliance has had operatives go dark on critical operations, and he won't pretend this is a casual arrangement. Players who push back open a useful conversation; the condition is not negotiable, but Jalester will explain his reasoning.
+Full scene: [**Lords' Alliance First Meeting**](../../quests/faction-events/lords-alliance/00-first-meeting/ev-01-first-meeting.md)
 
 ## Renown & Ranks
 

@@ -32,11 +32,9 @@ She learns this incrementally through the party. Mission 1 adds Hlam's warning a
 
 ## First Meeting
 
-The invitation arrives as a *Sending* spell, targeting one party member: *"I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."* If the party declines, Vajra contacts a different member the following day. A second refusal earns no hard response — she notes both and waits until they advance a level, filing their hesitation without taking it personally.
+Vajra sends a *Sending* to one party member by name; a second refusal closes the offer until the party advances a level. She receives them at her standing desk at Blackstaff Tower — door already open — and offers Gray Hand status, citing Renaer's endorsement and the **Finding Floon** warehouse. She closes with: *"Try to get some sleep. The work does not wait for people to be rested."*
 
-Blackstaff Tower opens the moment they arrive: the door swings before anyone knocks. They were expected. Vajra is at her standing desk when they enter and doesn't move to a sitting room. She offers the Gray Hands — Force Grey's entry tier, pending a track record — and explains why she believes they have one worth building on. She references Renaer's endorsement and the **Finding Floon** warehouse. Her current priority is magic being used against people's will: Waterdhavians acting against themselves, against their households, against their offices. The City Watch can't touch it.
-
-On acceptance, Vajra writes a brief note. The door opens by itself. She closes with: *"Try to get some sleep. The work does not wait for people to be rested."*
+Full scene: [**Force Grey First Meeting**](../../quests/faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
 
 ## Renown & Ranks
 
