@@ -18,11 +18,11 @@ Xanathar deploys response teams in escalating tiers. The first or second team th
 
 *Full 5-step planning framework in **Faction Outposts**, Scene 4A. This entry provides keyed area reference for the operation.*
 
-A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two levels — both under the same roof, both accessible by passphrase, and neither officially connected. Keln Trigos runs a healing operation for Xanatharian agents on the upper floors. Below it, the estate serves as one of Waterdeep's gladiatorial gathering points: those who want to attend the fights in Xanathar's Lair report here, are plied with exotic food, then blindfolded and escorted through an underground dock to the caverns near Skullport.
+A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two levels — both under the same roof, both accessible by passphrase, and neither officially connected. Keln Trigos runs a healing operation for Xanatharian agents on the upper floors. Below it, the estate serves as one of Waterdeep's gladiatorial gathering points: those who want to attend the fights in Xanathar's Lair report here; staff ply them with exotic food, then blindfold them and escort them through an underground dock to caverns near Skullport.
 
 **Area 1 — Front Door.** Two passphrases control entry. For healing services: "I heard the red hand was hot." For gladiatorial gatherings: "the bawdy star shines bright tonight."
 
-**Area 3 — Kitchen.** A rug of reddish scales hides a trap door leading to the underground dock. Guests are blindfolded before they descend.
+**Area 3 — Kitchen.** A rug of reddish scales hides a trap door leading to the underground dock. Staff blindfold guests before they descend.
 
 **Area 5 — Upper Landing.** A tapestry depicting a stylized beholder with humanoids bowing before it hangs on the wall. The hanging logbook (*Injury Reports*) records patients under pseudonyms; one recent entry notes that an arrow wound was the result of "incautious observation of the windmill on Coachlamp Lane."
 
@@ -64,7 +64,7 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 
 ## Escalation
 
-Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost advances the faction directly from Suspicious to Alert — the intermediate tier is skipped. The table below describes behavior at each tier.
+Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost pushes the faction directly from Suspicious to Alert, skipping the intermediate tier.
 
 | Tier | Behavior |
 |---|---|

@@ -4,11 +4,11 @@ Game mechanics for running the Cassalanters as a villain faction. For who they a
 
 ## The Soul Pact: Active vs. Passive Mode
 
-The Cassalanters' posture in the Grand Game shifts based on whether the party has agreed to work for them. The soul pact has a hard deadline — Flamerule 11, the twins' ninth birthday — and until that date the family needs the Stone of Golorr. Whether the party becomes an asset or a threat shapes how they pursue it.
+The Cassalanters' posture in the Grand Game shifts based on whether the party has agreed to work for them. The soul pact has a hard deadline on Flamerule 11, the twins' ninth birthday, and until that date the family needs the Stone of Golorr. Whether the party becomes an asset or a threat shapes how they pursue it.
 
-If the party agreed to help, the Cassalanters go quiet. With the characters in the field as their agents, drawing attention to themselves risks unraveling the arrangement. Seffia's team may be dispatched if the party requests backup or if the Cassalanters need to insert themselves without appearing to act. Willifort keeps tabs on the characters from a distance, reporting to Ammalia, and the family's response apparatus holds.
+If the party agreed to help, the Cassalanters go quiet. With the characters in the field as their agents, drawing attention to themselves risks unraveling the arrangement. The Cassalanters may dispatch Seffia's team if the party requests backup or if they need to insert themselves without appearing to act. Willifort keeps tabs on the characters from a distance, reporting to Ammalia, and the family's response apparatus holds.
 
-If the party refused or turned Hostile, the campaign takes a harder shape. Imps summoned at the Asmodean Shrine maintain surveillance on the characters, feeding the Cassalanters continuous intelligence. Seffia's team joins the Eye heist at **Xanathar's Lair** as a competing faction. Willifort attempts to assassinate Jarlaxle, fails, then targets the characters in a follow-up attempt — a sequence that may push Jarlaxle to propose an alliance against the Cassalanters.
+If the party refused or turned Hostile, the campaign takes a harder shape. Imps summoned at the Asmodean Shrine maintain surveillance on the characters, feeding the Cassalanters continuous intelligence. Seffia's team joins the Eye heist at **Xanathar's Lair** as a competing faction. Willifort attempts to assassinate Jarlaxle, fails, then targets the characters in a follow-up attempt. This may push Jarlaxle to propose an alliance against the Cassalanters.
 
 ## Response Teams
 

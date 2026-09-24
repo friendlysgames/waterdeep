@@ -13,12 +13,12 @@ The Doom Raiders do not tell the party until Mission 4 forces the truth out. **S
 **What the Doom Raiders share proactively:**
 - Istrid Horn's lending operation is available to faction members at reasonable rates: up to 200 gp at Renown 1, up to 2,500 gp at Renown 10.
 - Tashlyn's City Guard position provides one piece of actionable Splinter intelligence per tenday at Renown 3+.
-- Ziraj the Hunter can be requested for a single operation per quest, to be taken alive or quietly eliminated. He will not take suicidal assignments. He does not argue about it.
+- Ziraj the Hunter can be requested for a single operation per quest, to be taken alive or quietly eliminated. He won't take suicidal assignments and doesn't argue about it.
 
 **What the Doom Raiders ask for:**
 - Anything the party learns about Manshoon's cell: safe house locations, lieutenant identities, communication methods, operational timing. One confirmed piece per tenday is worth more than a dramatic report filed once a month.
 - Discretion. The Doom Raiders are criminals running legitimate-fronted businesses in a city where the City Watch already has their file. Missions should be conducted in ways that do not invite scrutiny.
-- Loyalty as the Doom Raiders define it: the party is one of theirs. When something goes wrong, the faction will do what it can. The same is expected in return.
+- Loyalty as the Doom Raiders define it: the party is one of theirs. When something goes wrong, the faction will do what it can. The faction expects the same in return.
 
 Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon's cell is dismantled before it can contest the vault, Skeemo's betrayal is cleaned up internally without Watch involvement, and Ziraj is alive. He keeps the moral ledger as balanced as his business allows.
 
@@ -26,7 +26,7 @@ Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon'
 
 | Quest | Doom Raiders Hook |
 |-----|------------------|
-| **Fireball!** | Davil suspects Skeemo was monitoring Dalakhar's movements on behalf of House Gralhund before the fireball. He wants to know what the party saw at the blast site, specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He has a theory he is not ready to name. |
+| **Fireball!** | Davil suspects Skeemo was monitoring Dalakhar's movements on behalf of House Gralhund before the fireball. He wants to know what the party saw at the blast site, specifically whether anyone was collecting from the bodies or watching the scene before the Watch arrived. He has a theory he isn't ready to name. |
 | **Gralhund Villa** | Davil is arrested in the Watch's post-Gralhund crackdown on all Zhentarim operations. A flying snake delivers the first word: *"Davil is unavailable. Continue normal operations. Await further contact."* Tashlyn takes over. Her first direct message to the party: *"Keep a low profile. I'll be in touch."* She will not explain what that means. |
 | **Faction Outposts** | The Doom Raiders have been watching Yellowspire, Manshoon's Trades Ward relay point, for two months. Tashlyn has schematics. She has been waiting for someone capable of going inside. Mission 5 is the operational payoff of that patience. |
 | **Kolat Towers** | Davil has the pass-amulet distribution ledger (from Mission 5) and Ziraj's rooftop diagram (from Mission 6). Between them, the Doom Raiders can offer the party two independent paths through Kolat Towers' outer defenses, provided both missions are complete. This is the faction's contribution to **Kolat Towers**. |
@@ -58,7 +58,7 @@ Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon'
 | 1 | **Fang** | Recognized Network member. Istrid Horn will offer the character a loan of up to 200 gp at favorable rates, no questions asked. Stolen goods sell at 60% value through Doom Raiders' fences instead of the standard 50%. |
 | 3 | **Wolf** | Davil or Tashlyn provides one piece of actionable intelligence on a rival faction's activities per tenday, drawn from the Network's informant web. Access to a Black Network safe house in the Dock Ward. Restricted goods available at a 20% discount through the supply chain, including thieves' tools, forgery kits, disguise kits, poisons, and unlicensed weapons. |
 | 10 | **Viper** | The Network arranges one forged document per quest: identity papers, licenses, or letters of introduction that pass scrutiny without magical verification. Yagra Stonefist or another Doom Raider serves as muscle (use **veteran** stat block) on one operation per quest. A Doom Raiders specialist in forgery, lockpicking, alchemy, or disguise assists on one job at no charge; after that, the standard rate is 50 gp per day. |
-| 25 | **Ardragon** | The Network deploys a three-person crew (two **spies** and one **assassin**) to assist in one heist or operation per quest. Davil's informants inside Manshoon's cell can be activated for specific intelligence once per quest (DC 14 Intelligence check; failure means the informant is unavailable for two weeks). Ziraj the Hunter owes Davil a favor: once per campaign, request that Ziraj neutralize one named target, captured alive or quietly eliminated. Ziraj will not take assignments he considers suicidal. |
+| 25 | **Ardragon** | The Network deploys a three-person crew (two **spies** and one **assassin**) to assist in one heist or operation per quest. Davil's informants inside Manshoon's cell can be activated for specific intelligence once per quest (DC 14 Intelligence check; failure means the informant is unavailable for two weeks). Ziraj the Hunter owes Davil a favor: once per campaign, request that Ziraj neutralize one named target, captured alive or quietly eliminated. Ziraj won't take assignments he considers suicidal. |
 | 50 | **Dread Lord** | Eight Black Network operatives are available for one major operation. Davil proposes the character for a seat on the reforming Zhentarim Council, a position of genuine continental influence within the Black Network. Doom Raiders safe houses in every ward. Davil offers formal partnership for the vault operation: a distraction crew draws off one faction's forces, a locksmith backup stands by, and a wagon team handles extraction logistics, in exchange for 10% of whatever the party walks away with. |
 
 ## Missions
@@ -72,7 +72,7 @@ Davil's ideal outcome: the vault gold funds the Zhentarim Council bid, Manshoon'
 | 6th | **The Yellowspire Job** | Infiltrate Yellowspire, Manshoon's Trades Ward relay tower, and steal the pass-amulet distribution ledger showing which lieutenants carry which amulets on what rotation — the key to bypassing Kolat Towers' force field. | +4 |
 | 7th | **Ziraj's Last Hunt** | Manshoon's kill team has ambushed Ziraj the Hunter on Waterdeep's rooftops; race through the city to find him wounded and neutralize three remaining Splinter agents. Ziraj survives and provides a rooftop diagram of Kolat Towers' force-field gaps. | +4 |
 
-**After the party completes their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell is not responsible for the recent killings.
+**After the party completes their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell isn't responsible for the recent killings.
 
 Full mission write-ups are in the **Faction Missions** quest journals.
 

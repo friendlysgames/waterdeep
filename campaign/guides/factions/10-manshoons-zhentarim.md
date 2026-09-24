@@ -57,7 +57,7 @@ Manshoon underestimates threats that aren't magical. A party that stays clear of
 
 ## Revelation List
 
-*Each entry names the document or discovery and, in parentheses, where it is found. These lists adhere to the Three Clue Rule: at minimum, three independent paths lead to each location. Create additional clues dynamically through tracking, interrogation, and character research.*
+*Each entry names the document or discovery and, in parentheses, where it is found. These lists adhere to the Three Clue Rule: at minimum, three independent paths lead to each location. Create additional clues through tracking, interrogation, and research as the campaign develops.*
 
 **Zhentarim Interrogation House** (Trade Ward, Brindul Alley)
 - *Directive to Urstul Floxin* (Response Team: Urstul Floxin — names Avareen in Brindul Alley)

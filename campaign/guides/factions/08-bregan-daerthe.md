@@ -69,8 +69,8 @@ Three outcomes are possible when the party spots the watchers:
 
 | Level | Mission | Summary | Renown |
 |-------|---------|---------|--------|
-| 2nd | **The Handkerchief and the Girl** | Steal a silk handkerchief from a Waterdavian noble and deliver it to a tiefling girl living rough on the docks near Net and Dock Streets. A small test of skill and discretion. The reason matters more than it seems. | +2 |
-| 3rd | **The Wazoo Affair** | Deliver an anonymous exposé on devil worship among unnamed Waterdavian noble families to the publisher of *The Waterdeep Wazoo* without being identified. Jarlaxle wrote it himself. He enjoys rattling the nobility. | +2 |
+| 2nd | **The Handkerchief and the Girl** | Steal a silk handkerchief from a Waterdhavian noble and deliver it to a tiefling girl living rough on the docks near Net and Dock Streets. A small test of skill and discretion. The reason matters more than it seems. | +2 |
+| 3rd | **The Wazoo Affair** | Deliver an anonymous exposé on devil worship among unnamed Waterdhavian noble families to the publisher of *The Waterdeep Wazoo* without being identified. Jarlaxle wrote it himself. He enjoys rattling the nobility. | +2 |
 | 4th | **Three Nights** | An Xanathar Guild prisoner appears — inexplicably — bound in the tavern's basement. Guard him for three nights while Jarlaxle makes arrangements. Xanathar sends escalating forces to retrieve him each night. | +3 |
 | 5th | **The Compromised Eye** | Extract or protect Nar'l Xibrindas, the BD mole embedded in Xanathar's Guild. Jarlaxle forbids killing him — Nar'l is more valuable alive and in position. Three approaches: feed him a false report, extract him from the city, or confront Ahmaergo's counterintelligence source. | +3 |
 | 6th | **The Theater's Back Room** | Facilitate a covert handoff at Seven Masks Theater — a frightened Cassalanter steward has a floor plan of the North Ward windmill the family uses for infernal contract fulfillment — while a Cassalanter watcher attempts to intercept the exchange. | +4 |
@@ -141,7 +141,7 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 - Message regarding "Westra Moltimmur" and "Sapphiria's Booty" (Fenerus Stormcastle's House)
 - *Report on the Seven Masks Theater* (Xanathar's Lair)
 - *Playbill for the Seven Masks Theater* (Response Team: Soluun Xibrindas)
-- *Letter from N'arl* (Sea Maidens Faire)
+- *Letter from Nar'l* (Sea Maidens Faire)
 
 **Lair: Sea Maidens Faire** (*Heartbreaker*, *Hellraiser*, *Eyecatcher*, *Scarlet Marpenoth*)
 - Report on guild difficulties relating to the Sea Maidens Faire (Fenerus Stormcastle's House)
