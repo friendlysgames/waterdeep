@@ -12,7 +12,7 @@ Use this table to plan your character. You'll meet these contacts, and several o
 | Emerald Enclave | Melannor Fellbranch | Safe passage through parks, ranger contacts | Protecting natural spaces; opposing undead activity |
 | Force Grey | Vajra Safahr | Powerful backup in genuine city-scale threats | Exclusive; earning Vajra's trust first |
 | Doom Raiders (Zhentarim) | Davil Starsong | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
-| Bregan D'aerthe* | Zardoz Zord, a carnival showman | Best intelligence in the city; drow resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
+| Bregan D'aerthe* | Revealed in play | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
 
 *Bregan D'aerthe doesn't approach during **Trollskull Alley**; the sidebar below explains when it becomes available.
 
