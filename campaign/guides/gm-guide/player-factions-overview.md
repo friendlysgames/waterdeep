@@ -1,7 +1,5 @@
 # Player Factions Overview
 
-# Faction Affiliations
-
 You don't choose a faction during character creation. You can tell your GM which factions interest you, but formal membership happens in play. Every major faction in Waterdeep initiates contact with your characters during **Trollskull Alley**, and you decide how to answer when they do. Your character can belong to more than one faction at once — memberships in rival factions can pull your party in different directions. That tension is by design. Talk it through when it comes up.
 
 Use this table to plan your character. Each faction's contact introduces themselves in play.
@@ -90,7 +88,7 @@ Renown is tracked as a separate numerical score for each faction a character bel
 
 Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals. Faction missions award no Milestone Points.
 
-**A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, called **the Splinter** throughout these notes. They are hostile to the Doom Raiders and to the PCs.
+**A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the PCs.
 
 **Mission delivery.** Unless noted, missions arrive via the faction's preferred method: paper birds for Harpers, flying snakes for Doom Raiders, animal messengers for the Enclave, *Sending* spells for Force Grey.
 

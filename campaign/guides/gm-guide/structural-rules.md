@@ -101,7 +101,7 @@ Before ev-07 ends, write the chosen NPC's name in your session notes and record 
 |---|---|---|
 | Fala Lefaliir (they/them) | ev-03 | Ziraj's shelter gone; the Doom Raiders thread cut. If Fala dies, Tally replaces them as the eyewitness in **Fireball!** ev-01. |
 | Tally Fellbranch (he/him) | ev-03 | Connected to Renaer and Melannor; his death damages two faction relationships |
-| Floon Blagmaar | ev-03, ev-05 | The party rescued him in **Finding Floon**; losing him a second time carries weight it didn't before |
+| Floon Blagmaar | ev-03, ev-06 | The party rescued him in **Finding Floon**; losing him a second time carries weight it didn't before |
 | Lif | ev-01 (if appeased) | His second death is the manor's spirit going with the neighborhood |
 | A hired staff member | ev-06 | Only works if the party visibly bonded with a specific candidate during hiring |
 | A PC backstory NPC | Setup-dependent | Requires a Waterdeep backstory connection established and activated during Trollskull Alley |

@@ -64,7 +64,7 @@ Before the Event ends, the DM must designate the fireball victim. The quest has 
 |---|---|---|
 | Fala Lefaliir | ev-03 | Ziraj's shelter gone; Doom Raiders thread cut. **Note:** Selecting Fala removes them from **The Witnesses** Event in Fireball; adjust that event accordingly. |
 | Tally Fellbranch | ev-03 | Connected to Renaer and Melannor; his death damages two faction relationships |
-| Floon Blagmaar | ev-03, ev-05 | The party rescued him in Finding Floon; losing him again hits differently the second time |
+| Floon Blagmaar | ev-03, ev-06 | The party rescued him in Finding Floon; losing him again hits differently the second time |
 | Lif | ev-01 (if appeased) | His second death is the tavern's spirit dying with its neighborhood |
 | A hired staff member | ev-06 | Only if the party bonded with a specific candidate; requires observed investment during hiring |
 | A PC backstory NPC | Setup-dependent | Works if a Waterdeep backstory connection was activated during Trollskull Alley |
