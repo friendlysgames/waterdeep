@@ -4,11 +4,11 @@ Game mechanics for running the Harpers as a player faction. For who the Harpers 
 
 ## Grand Game Stance
 
-The Harpers know the Cassalanters are infernalists. They don't know the full scope of the vault situation until the PCs tell them. They want no single faction (including the Lords' Alliance, Force Grey, or the PCs) to walk away from the Grand Game with unchecked power. Their ideal outcome: the vault money is dispersed in ways that prevent political consolidation, the Stone of Golorr is handed to them for study, and whatever is dreaming below the city stays asleep.
+The Harpers know the Cassalanters are infernalists, though the full shape of the vault situation remains unclear to them until the party reports in. Their overriding concern is the concentration of power in any single hand — including the Lords' Alliance, Force Grey, or the party itself. They want the vault gold dispersed too broadly for any faction to consolidate, the Stone of Golorr delivered to Harper custody for study, and whatever is dreaming below the city left undisturbed.
 
 **What the Harpers share proactively:**
-- The Cassalanters' infernal history (after Mission 3, if PCs seem likely to encounter them)
-- That the Waterdeep Harper network has been infiltrated by Zhentarim double-agents (after Mission 4, if the PCs have met Davil)
+- The Cassalanters' infernal history (after Mission 3, if the party seems likely to encounter them)
+- That the Waterdeep Harper network has been infiltrated by Zhentarim double-agents (after Mission 4, if the party has met Davil)
 - Advance warning of faction response team deployments (at Renown 15+)
 
 **What the Harpers ask for:**
@@ -16,37 +16,47 @@ The Harpers know the Cassalanters are infernalists. They don't know the full sco
 - The Stone of Golorr, or at minimum three days' access to study it (Mission 6)
 - That the vault gold not be given to any one faction or individual
 
-Manshoon's infiltration of the Waterdeep cell should create complications organically: information the party shares with Harper contacts can reach Kolat Towers, which rewards paranoid operational security.
+Manshoon's infiltration of the Waterdeep cell creates complications organically. Information the party shares with Harper contacts can reach Kolat Towers, which rewards paranoid operational security.
+
+> [!warning]**Infiltration Risk**
+> Manshoon has planted at least one double-agent in the Waterdeep Harper cell, exposed during **The Sleeping Asset**. Intelligence the party discloses to Harper contacts before that mission may reach Kolat Towers. Track what has been shared and when — Manshoon's foreknowledge of Harper-held information is among his most effective advantages.
 
 ## Quest Hooks
 
 | Quest | Harper Hook |
 |-----|-------------|
 | **Fireball!** | Mirt quietly tells a Harper PC that the Cassalanters funded the Howling Hatred cult three years ago — and that their sudden interest in the Grand Game worries him. |
-| **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If PCs don't report in, Mirt asks directly what they were doing there. |
-| **Faction Outposts** | Harper informants can be activated against Xanathar and Manshoon outposts (Renown 30+). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the PCs. |
-| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the PCs commit to eliminating Nihiloor. |
-| **Cassalanter Villa** | The Harpers have documentation of the Cassalanters' infernal contract. Mirt will hand it over if the PCs agree to bring him the contract itself after the heist — not a copy, the original. |
+| **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If the party does not report in, Mirt asks directly what they were doing there. |
+| **Faction Outposts** | Harper informants can be activated against Xanathar and Manshoon outposts (Renown 30+). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the party. |
+| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. |
+| **Cassalanter Villa** | The Harpers have documentation of the Cassalanters' infernal contract. Mirt will hand it over if the party agrees to bring him the contract itself after the heist — not a copy, the original. |
 | **Vault of Dragons** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
 
 ## First Meeting
 
-- Paper bird delivers tickets to *The Fall of Tiamat* at Lightsinger Theater + note to meet Mirt in Private Box C at intermission; formal attire required (tailor on Delzorin Street has been told to expect them)
-- Mirt uses Act 1 to assess the party — composure, who speaks first, who listens; keeps conversation light
-- Intermission: explains the Harpers plainly (work from shadows, resist tyranny, not a guild or government); does not mention the Stone, Manshoon, or the Grand Game's real shape — this is assessment, not briefing
-- Characters who accept: silver harp-and-crescent pin already in his coat pocket, pressed into hand
-- Exit: "I am almost never home" — warm, but immediately unavailable
+**Mirt** (Chaotic Good, Illuskan Human, he/him) is the oldest wolf in a city full of foxes, and his first meeting with a potential Harper recruit looks nothing like a recruitment.
+
+The party receives a paper bird — a magically folded note that unfolds mid-flight to deposit two tickets to *The Fall of Tiamat* at Lightsinger Theater, along with a request to meet in Private Box C at intermission. Formal attire is required; the note specifies that a tailor on Delzorin Street has been told to expect them.
+
+Mirt uses Act 1 to observe before introducing himself. He watches from the box where the curtain leaves him half-shadowed, noting who speaks first, who stays quiet, and whether any of them watch the exits. At intermission, he explains the Harpers plainly: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He does not mention the Stone of Golorr, Manshoon, or the full shape of the Grand Game. This meeting is assessment, not briefing.
+
+Characters who accept find Mirt already holding a silver harp-and-crescent pin, which he presses into the nearest open hand rather than making a production of the gesture. His parting words — *"I am almost never home"* — are warm but immediately final.
+
+> [!profile]**Running Mirt**
+> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is genuinely amused and genuinely calculating, always at once. Characters who treat him as a wealthy eccentric discover their error when the pin appears — already in his hand, already decided.
 
 ## Renown & Ranks
 
 ### Earning Renown
+
+Harper Renown reflects how much Mirt trusts the party with the Harpers' real work, measured in the quality of intelligence delivered, in moral clarity when it costs something, and ultimately in what happens to the Stone of Golorr.
 
 - **Feed credible intelligence to Mirt (+1).** Report actionable information about a Grand Game faction's current position, assets, or plans. One award per faction per act; vague tips do not qualify.
 - **Expose a Manshoon double-agent (+1).** Identify and confirm the identity of a Zhentarim agent embedded in the Harpers or an allied organization. Reporting a name Mirt can act on is sufficient.
 - **Protect a civilian from faction crossfire (+1).** Directly intervene to prevent a non-combatant from being harmed as collateral damage during Grand Game operations. Applies once per significant incident.
 - **Identify the Cassalanters as diabolists and report it (+2).** A character who independently uncovers this and reports it to Mirt demonstrates exactly the field intelligence work the Harpers prize.
 - **Recover or deliver the Stone of Golorr to the Harpers (+3).** The single highest-value act a Harper operative can perform short of ending the Grand Game.
-- **Refuse to act against civilians on faction orders (+1).** The Harpers value moral clarity alongside operational effectiveness. A character who declines a mission that would require harming innocents — and explains why — earns quiet respect.
+- **Refuse to act against civilians on faction orders (+1).** A character who declines a mission that would require harming innocents — and explains why — earns quiet respect. The Harpers value moral clarity alongside operational effectiveness.
 
 ### Harper Ranks & Benefits
 
@@ -55,8 +65,8 @@ Manshoon's infiltration of the Waterdeep cell should create complications organi
 | 1 | **Watcher** | Recognized Harper. Other members are Friendly by default. Silver harp-and-crescent pin. Access to the Harper safe house in the North Ward, maintained by Remi. |
 | 3 | **Harpshadow** | Mirt answers one direct question per tenday about faction activity or Waterdeep politics, drawing on the Harper intelligence network. Safe house contacts in the Dock Ward, Trades Ward, and Castle Ward share street-level intelligence on any faction you ask about — known agents, movement patterns, recent activity. Each contact refreshes once per week. |
 | 10 | **Brightcandle** | Requisition one *potion of healing* or *spell scroll* (cantrip or 1st-level spell) per mission from Harper stores. Call in one Harper field agent (use **Spy** stat block) as backup once per quest. A Harper mentor teaches one *persona*: a false identity with a cover name, documentation, appropriate clothes, and two Harper contacts who will vouch for the story in person. |
-| 25 | **Wise Owl** | Mirt arranges a private audience with Laeral Silverhand if the matter is urgent. Harpers provide cover for one sensitive operation per quest: forged documents, coordinated distractions, or witnesses who saw nothing. Harper informants embedded in the Xanathar Guild, Sea Maidens Faire, and Manshoon's Splinter can be activated for one specific intelligence request each (DC 13 Charisma check; failure means the informant is unavailable for two weeks). A second *persona* is learned. When any villain faction designates the character as a priority target, Mirt's network detects it and passes warning within 24 hours. |
-| 50 | **High Harper** | Full access to Harper intelligence archives for the North. May request a team of three Harper agents for one operation. Mirt personally accompanies the party on one mission of their choosing. Mirt reveals that he is a Masked Lord of Waterdeep — if the PCs haven't already worked it out — and can be asked to act in that capacity once (one request, one use). May request a covert Harper extraction from anywhere in the city, or ask the High Harpers to formally expose one villain faction's activities to the Open Lord. A third *persona* is learned. |
+| 25 | **Wise Owl** | Mirt arranges a private audience with Laeral Silverhand if the matter is urgent. Harpers provide cover for one sensitive operation per quest: forged documents, coordinated distractions, or witnesses who saw nothing. Harper informants embedded in the Xanathar Guild, Sea Maidens Faire, and Manshoon's Splinter can be activated for one specific intelligence request each (DC 13 Charisma check; failure means the informant is unavailable for two weeks). A second *persona* is learned. When any villain faction designates a character as a priority target, Mirt's network detects it and passes warning within 24 hours. |
+| 50 | **High Harper** | Full access to Harper intelligence archives for the North. May request a team of three Harper agents for one operation. Mirt personally accompanies the party on one mission of their choosing. Mirt reveals that he is a Masked Lord of Waterdeep — if the party has not already worked it out — and can be asked to act in that capacity once (one request, one use). May request a covert Harper extraction from anywhere in the city, or ask the High Harpers to formally expose one villain faction's activities to the Open Lord. A third *persona* is learned. |
 
 ## Missions
 

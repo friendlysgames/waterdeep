@@ -4,9 +4,9 @@ Game mechanics for running Force Grey as a player faction. For who Force Grey ar
 
 ## Grand Game Stance
 
-Vajra's mandate is the city, specifically the parts of the city that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. She knows an archmage has returned; Hlam's first message gave her Manshoon's shape without the name. She does not yet know the Stone of Golorr has resurfaced or that four factions are competing for the vault.
+Vajra's mandate is the city — specifically the parts that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. An archmage has returned; Hlam's first message gave her Manshoon's shape without the name. She does not yet know the Stone of Golorr has resurfaced, or that four factions are competing for the vault.
 
-She learns this incrementally through the party. Each mission adds a piece: Hlam's warning about the buried thing waking from Mission 1, the Bregan D'aerthe submarine from Mission 2. By Mission 4 she knows the intellect devourer factory's location. When the party brings her the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
+She learns this incrementally through the party. Mission 1 adds Hlam's warning about the buried thing waking; Mission 2 brings the Bregan D'aerthe submarine. By Mission 4 she knows the intellect devourer factory's location. When the party delivers the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
 
 **What Force Grey shares proactively:**
 - Preparatory spells and consumables before missions (Renown 3+: one spell up to 3rd level per tenday; Renown 10+: a mage from Tower staff for one operation per quest)
@@ -15,7 +15,7 @@ She learns this incrementally through the party. Each mission adds a piece: Hlam
 
 **What Force Grey asks for:**
 - Intelligence about magical threats before they become crises
-- A complete picture of the Grand Game, once the party has it to give. This is the most valuable thing they can do for Waterdeep
+- A complete picture of the Grand Game, once the party has it to give — the most valuable thing they can do for Waterdeep
 - That the party not tell Vajra only what she wants to hear. She has people for that and does not need more
 
 **Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it is sealed away again. These are her priorities in order. Her concern is which outcome leaves Waterdeep standing. The rest is scoring.
@@ -32,21 +32,24 @@ She learns this incrementally through the party. Each mission adds a piece: Hlam
 
 ## First Meeting
 
-- *Sending* spell reaches one party member: "I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."
-- If declined: contacts a different member next day; if declined again, waits until next level — notes the refusals, doesn't take them personally
-- Tower door opens before they speak (they were expected)
-- Vajra at standing desk — doesn't move to a sitting room; offers Gray Hands (not Force Grey) — entry tier, pending track record
-- References Renaer's endorsement, the **Finding Floon** warehouse; current priority framed as magical coercion: people acting against their will in positions of influence; Watch can't touch it
-- On acceptance: brief note, door opens by itself; closes: "Try to get some sleep. The work does not wait for people to be rested."
+The invitation arrives as a *Sending* spell, targeting one party member: *"I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."* If the party declines, Vajra contacts a different member the following day. A second refusal earns no hard response — she notes both and waits until they advance a level, filing their hesitation without taking it personally.
+
+Blackstaff Tower opens the moment they arrive: the door swings before anyone knocks. They were expected. Vajra is at her standing desk when they enter and does not move to a sitting room. She offers the Gray Hands — Force Grey's entry tier, pending a track record — and explains why she believes they have one worth building on. She references Renaer's endorsement and the **Finding Floon** warehouse. Her current priority is magic being used against people's will: Waterdavians acting against themselves, against their households, against their offices. The City Watch cannot touch it.
+
+On acceptance, Vajra writes a brief note. The door opens by itself. She closes with: *"Try to get some sleep. The work does not wait for people to be rested."*
 
 ## Renown & Ranks
 
+### Earning Renown
+
 - **Report a significant arcane threat to Vajra before it becomes a crisis (+1).** Intellect devourers in city officials, a necromancer in the City of the Dead, an illegal gate or summoning circle discovered during Grand Game operations — any magical threat the Watch cannot handle. Once per confirmed new threat.
-- **Bring the Grand Game fully to Vajra's attention (+2).** A formal briefing with sufficient evidence for Vajra to escalate to Laeral Silverhand. One of the most consequential acts a Gray Hand can perform; transforms the political landscape of the campaign's final act.
+- **Bring the Grand Game fully to Vajra's attention (+2).** A formal briefing with sufficient evidence for Vajra to escalate to Laeral Silverhand. One of the most consequential acts a Gray Hand can perform; it transforms the political landscape of the campaign's final act.
 - **Purge an intellect devourer infestation or free a mind-controlled Waterdavian (+1).** Directly countering Xanathar's mind-control operations is Force Grey's most urgent Grand Game priority. A single implanted citizen counts as one incident; discovering and purging an entire network counts as two.
 - **Protect Blackstaff Tower or its staff from a direct threat (+2).** Any coordinated attack on Blackstaff Tower is taken personally by Vajra.
 - **Assist Vajra with arcane research connected to the Stone of Golorr or the Vault (+1).** Delivering a Golorr artifact for examination, exploring a relevant tunnel network, translating a relevant text — even when Vajra has not formally assigned the task.
 - **Keep Laeral Silverhand's involvement in the Grand Game clean (+1).** Force Grey's value to the Open Lord lies partly in its deniability. Characters who resolve a problem without creating a political incident earn Vajra's appreciation in a way flashy violence does not. Once per quest.
+
+### Force Grey Ranks & Benefits
 
 | Renown | Rank | Benefits |
 |--------|------|----------|
