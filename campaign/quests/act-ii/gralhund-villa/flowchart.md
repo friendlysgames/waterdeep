@@ -71,8 +71,8 @@ ev-02: Saerdoun Street
 
 | # | Event | Condition | Points | Cumulative |
 |---|-------|-----------|--------|-----------|
-| 1 | ev-06 or ev-07 | Party engages the Gralhund confrontation — whichever path fires | 1 | 9 |
-| 2 | ev-09 | Stone of Golorr in party hands at Aftermath opening | 1 | 10 → **Level 4** |
+| 1 | ev-06 or ev-07 | Party engages the Gralhund confrontation — whichever path fires | 1 | 8 |
+| 2 | ev-09 | Stone of Golorr in party hands at Aftermath opening | 1 | 9 → **Level 4** |
 
 Milestone 1 fires in exactly one confrontation event per playthrough — ev-06 (day path) or ev-07 (night path), never both. Milestone 2 is conditional: fires only if the party holds the Stone. A successful ev-08 rooftop chase still enables Milestone 2 in ev-09 if the Stone is recovered.
 

@@ -386,14 +386,13 @@ Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the ba
 
 ### Milestone and Transition
 
-| Level | Quest | Milestone | XP |
-|:-----:|-----|-----------|---:|
-| 4 | **Faction Outposts** | Complete first outpost chain (any faction) | 400 |
-| 4 | **Faction Outposts** | Complete second outpost chain (any faction) | 400 |
+| Level | Quest | Milestone | Points |
+|:-----:|-----|-----------|:---:|
+| 4 | **Faction Outposts** | Complete the first outpost chain (any faction) | 1 |
 
 *Completing a chain:* Hit at least two outposts of the same faction and recover at least one piece of actionable lair intelligence. For Xanathar (three outposts), two of three is sufficient. For all other factions (two outposts), both must be cleared. A party that hits one Xanathar outpost and one Zhentarim outpost has started two chains but completed neither.
 
-Total **Faction Outposts**: 800 XP. Both chains together are not enough to reach level 5 on their own — the party remains 4th level through all of **Faction Outposts**, cumulative 3,500 XP. A party can attempt any lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, or **Kolat Towers**) after completing just one chain, or even none; this quest's outposts are the recommended on-ramp, not a hard gate. See the Milestone section in **Xanathar's Lair** (or any lair heist's) for how the heist phase carries the party from 4th to 7th level.
+Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a second chain earns intelligence, not points. The party remains 4th level through all of **Faction Outposts**, at 10 cumulative points. A party can attempt any lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, or **Kolat Towers**) after completing just one chain, or even none; this quest's outposts are the recommended on-ramp, not a hard gate. See the Milestone section in **Xanathar's Lair** (or any lair heist's) for how the heist phase carries the party from 4th to 7th level.
 
 *Transition.* The party holds enough intelligence to attempt at least one lair heist. The DM reviews each faction's escalation tier and communicates it through environmental detail: Dock Ward patrols are heavier than last tenday; a Castle Ward merchant notes that the old tower on the hill has gone dark; the Sea Maidens Faire hasn't performed in a week. Party chooses which lair first. **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** are available in any order.
 
@@ -419,7 +418,7 @@ Total **Faction Outposts**: 800 XP. Both chains together are not enough to reach
 
 8. **Fenerus kidnap timing.** Directive arrives live at the Interrogation House. Kidnap fires 1d6+2 days later. Three branching outcomes depending on whether the party warns Fenerus, arrives during the kidnap, or finds an empty house.
 
-9. **Chain completion defined.** Two outposts of the same faction plus one piece of actionable lair intelligence. Both chains together yield 800 XP — not enough to reach level 5 on their own. Level 5 is reached on the first completed lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, or **Kolat Towers**).
+9. **Chain completion defined.** Two outposts of the same faction plus one piece of actionable lair intelligence. The first completed chain awards 1 Milestone Point (cumulative 10), not enough to reach level 5. Level 5 is reached on the first completed lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, or **Kolat Towers**).
 
 10. **Founders' Day Clock.** Per-outpost day estimates in every entry. Party learns about the deadline through play, not through this guide.
 

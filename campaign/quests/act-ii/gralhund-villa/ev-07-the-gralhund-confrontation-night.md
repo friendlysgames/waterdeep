@@ -129,7 +129,7 @@ Record whether the party holds the Stone at the close of this confrontation. Tru
 >
 > #### Milestone: The Confrontation — 1 Point
 >
-> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 9. This milestone fires here, in ev-07, for parties on the night path. It does not fire in ev-06.
+> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 8. This milestone fires here, in ev-07, for parties on the night path. It does not fire in ev-06.
 
 ## Overview
 

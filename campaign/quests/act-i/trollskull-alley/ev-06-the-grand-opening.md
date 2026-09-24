@@ -94,7 +94,7 @@ Record when the first of the three seeds is received. The full three-seed cluste
 >
 > #### Milestone: The Grand Opening
 >
-> Completing this Event awards 1 Milestone Point. This is likely to advance the party to Level 3 if they have completed Finding Floon and **The Factions Come Calling** Event.
+> Completing this Event awards 1 Milestone Point. This is likely to advance the party to Level 3 if they have completed Finding Floon, **The Factions Come Calling** Event, and **The Field of Triumph** Event.
 
 ## Overview
 

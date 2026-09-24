@@ -309,23 +309,23 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 ## Milestone and Transition
 
-*Milestone XP.*
+*Milestone Points.*
 
-| Level | Quest | Milestone | XP |
-|:-----:|-----|-----------|---:|
-| 4–6 | **Xanathar's Lair** | The party recovers the Eye of the Stone from Xanathar's Lair | 6,000 |
+| Level | Quest | Milestone | Points |
+|:-----:|-----|-----------|:---:|
+| 4–6 | **Xanathar's Lair** | The party recovers the Eye of the Stone from Xanathar's Lair | 4 |
 
-**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same flat 6,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after **Faction Outposts**, since outpost chains and lair heists are independently sequenced. Track cumulative XP against the real 2024 level thresholds (2,700 / 6,500 / 14,000 / 23,000); level-ups fire the moment the running total crosses one, which does not require landing on it exactly. This produces a simple, order-agnostic pace: the party's *first* completed heist (whichever letter it is) crosses into level 5, the *second* crosses into level 6, and level 7 requires *all four* — the third heist alone leaves the total short. Since only four heists exist and one of them is always Kolat Towers, level 7 is unreachable without it.
+**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same 4 Milestone Points, regardless of order. When a heist is converted to a quest journal, the 4 points sit on four milestone events (1 point each). All four heists can be run in any order at any point after **Faction Outposts**. Track cumulative points against the Milestone Points progression table (L5 at 13, L6 at 18, L7 at 23). The pace is order-agnostic: the *first* completed heist reaches level 5, the *second* reaches level 6, and level 7 requires *all four*, because three heists leave the total one point short. One of the four heists is always Kolat Towers, so level 7 is unreachable without it.
 
-| Heists completed | Cumulative XP | Crosses | Level |
-|:-----------------:|---:|:-----:|:-----:|
-| 0 (post-**Faction Outposts**) | 3,500 | — | 4 |
-| 1 | 9,500 | 6,500 | 5 |
-| 2 | 15,500 | 14,000 | 6 |
-| 3 | 21,500 | — | 6 |
-| 4 | 27,500 | 23,000 | 7 |
+| Heists completed | Cumulative points | Level |
+|:-----------------:|:---:|:-----:|
+| 0 (post-**Faction Outposts**) | 10 | 4 |
+| 1 | 14 | 5 |
+| 2 | 18 | 6 |
+| 3 | 22 | 6 |
+| 4 | 26 | 7 |
 
-These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
+The quest's encounters are calibrated for the full 4th–6th level range this flexibility produces.
 
 This quest's transition is open. The three remaining lair heists (**Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**) are available in any order, and the Stone's sharpened impressions plus faction debrief intelligence provides organic guidance toward each. The Founders' Day deadline creates pressure without prescribing order.
 

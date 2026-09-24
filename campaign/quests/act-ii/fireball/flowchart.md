@@ -36,10 +36,10 @@ Optional Events — available throughout the Fireball investigation window:
 
 | Event | Trigger | Points | Cumulative |
 |---|---|---|---|
-| ev-02: The House of Inspired Hands | Nimblewright identified; origin traced to the temple of Gond | 1 | 8 (toward Level 4) |
-| ev-03: The Nimblewright Hunt | Gralhund Villa confirmed as the Stone's location | 1 | 9 (toward Level 4) |
+| ev-02: The House of Inspired Hands | Nimblewright identified; origin traced to the temple of Gond | 1 | 6 (toward Level 4) |
+| ev-03: The Nimblewright Hunt | Gralhund Villa confirmed as the Stone's location | 1 | 7 (toward Level 4) |
 
-Level 4 is not reached here. It triggers in **Gralhund Villa** upon recovering the Stone of Golorr — the second Gralhund Villa milestone, at cumulative total 10.
+Level 4 is not reached here. It triggers in **Gralhund Villa** upon recovering the Stone of Golorr — the second Gralhund Villa milestone, at cumulative total 9.
 
 ---
 

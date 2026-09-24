@@ -210,11 +210,11 @@ This section captures key design decisions from the active structure documents (
 
 ### Faction Outposts
 
-Nine scenes: Stone attunement, faction consultation, structural guide, four faction outpost sections, response teams, aftermath/debriefs. 10 outposts across four factions (4 mini-heist, 6 encounter-plus). Baked-in escalation system; independent chain entry paths; Founders' Day clock; Manshoon name reveal. **2 Milestone Points** (does not by itself reach Level 5 — see heist-phase milestone ladder in the four lair heists).
+Nine scenes: Stone attunement, faction consultation, structural guide, four faction outpost sections, response teams, aftermath/debriefs. 10 outposts across four factions (4 mini-heist, 6 encounter-plus). Baked-in escalation system; independent chain entry paths; Founders' Day clock; Manshoon name reveal. **1 Milestone Point**, for the first completed outpost chain (cumulative 10; does not reach Level 5 — see the heist-phase ladder in the four lair heists).
 
 ### Xanathar's Lair
 
-Six scenes: Intelligence Briefing, Casing the Target, Preparation, The Operation, Complications and Escape, Aftermath. Panopticus surveillance mechanic; three entry methods; pre-set Xanathar location table; 15 keyed areas including Nihiloor's domain (X23–X27) with Splinter intel; Jarlaxle simultaneous heist (5-row interaction matrix); smokepowder demolition option; Stone of Golorr 1-Eye awakening (voice, impressions, agenda); variable difficulty by escalation tier; cross-quest clue pipeline to Cassalanter Villa, Sea Maidens Faire, and Kolat Towers. **Heist Milestone Points**: order-agnostic — 1st heist → Level 5, 2nd → Level 6, all 4 → Level 7 (Kolat Towers is always one of the four, so Level 7 requires it). 4th–6th level.
+Six scenes: Intelligence Briefing, Casing the Target, Preparation, The Operation, Complications and Escape, Aftermath. Panopticus surveillance mechanic; three entry methods; pre-set Xanathar location table; 15 keyed areas including Nihiloor's domain (X23–X27) with Splinter intel; Jarlaxle simultaneous heist (5-row interaction matrix); smokepowder demolition option; Stone of Golorr 1-Eye awakening (voice, impressions, agenda); variable difficulty by escalation tier; cross-quest clue pipeline to Cassalanter Villa, Sea Maidens Faire, and Kolat Towers. **Heist Milestone Points**: 4 per heist, order-agnostic — 1st heist → Level 5, 2nd → Level 6, all 4 → Level 7 (Kolat Towers is always one of the four, so Level 7 requires it). 4th–6th level.
 
 ### Cassalanter Villa
 
@@ -304,7 +304,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
-**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests award 1 point. Faction Missions award no Milestone Points — the main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without them; faction rewards are gold, renown, items, and cross-quest intel. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
+**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests award 1 point. The campaign ladder (Ember's table, L8 at 28): Finding Floon 2, Trollskull Alley 3, Fireball! 2, Gralhund Villa 2 (L4 at 9), Faction Outposts 1, each lair heist 4 (1st → L5, 2nd → L6, 4th → L7), Vault of Dragons 2 (3-heist parties end at L7, 4-heist parties at L8). Faction Missions award no Milestone Points — the main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without them; faction rewards are gold, renown, items, and cross-quest intel. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
 
 ### Writing Process
 
