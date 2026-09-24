@@ -1,8 +1,8 @@
 # Faction Affiliations
 
-No faction is chosen at your character creation table. You can tell your GM which factions interest you, but formal membership happens in play. Every major faction in Waterdeep initiates contact with your characters during **Trollskull Alley**, and you decide how to answer when they do. Your character can belong to more than one faction at once. Memberships in rival factions can pull your party in different directions. That's by design, and it's worth a conversation at the table when it comes up, not something to avoid.
+You don't choose a faction during character creation. You can tell your GM which factions interest you, but formal membership happens in play. Every major faction in Waterdeep initiates contact with your characters during **Trollskull Alley**, and you decide how to answer when they do. Your character can belong to more than one faction at once — memberships in rival factions can pull your party in different directions. That tension is by design. Talk it through when it comes up.
 
-The table below is a preview for planning your character, not a selection screen. You'll meet these contacts, and several others, once play begins.
+Use this table to plan your character. You'll meet these contacts, and several others, once play begins.
 
 | Faction | Contact | What they offer | What they ask |
 |---------|---------|-----------------|----------------|
@@ -14,10 +14,10 @@ The table below is a preview for planning your character, not a selection screen
 | Doom Raiders (Zhentarim) | Davil Starsong | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
 | Bregan D'aerthe* | Zardoz Zord, a carnival showman | Best intelligence in the city; drow resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
 
-*Bregan D'aerthe doesn't approach during **Trollskull Alley**; see the sidebar below.
+*Bregan D'aerthe doesn't approach during **Trollskull Alley**; the sidebar below explains when it becomes available.
 
 > [!warning]**The Two Zhentarims**
-> If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**, the network Davil Starsong runs out of the Yawning Portal. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a very different moral code. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
+> If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**, the network Davil Starsong runs out of the Yawning Portal. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a moral code that has nothing in common with the Doom Raiders'. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
 
 > [!warning]**Bregan D'aerthe Is Unlocked, Not Chosen**
 > You can't pick Bregan D'aerthe at session zero. This faction becomes available only if your party follows a particular lead during **Fireball!**. If you never follow it, Bregan D'aerthe stays a rival, or stays out of your story entirely. If you're interested, say so at your table. Your GM can make sure that door stays open.
