@@ -2,22 +2,22 @@
 
 You don't choose a faction during character creation. You can tell your GM which factions interest you, but formal membership happens in play. Every major faction in Waterdeep initiates contact with your characters during **Trollskull Alley**, and you decide how to answer when they do. Your character can belong to more than one faction at once — memberships in rival factions can pull your party in different directions. That tension is by design. Talk it through when it comes up.
 
-Use this table to plan your character. You'll meet these contacts, and several others, once play begins.
+Use this table to plan your character. Each faction's contact introduces themselves in play.
 
-| Faction | Contact | What they offer | What they ask |
-|---------|---------|-----------------|----------------|
-| Harpers | Mirt the Moneylender | Intelligence, political cover, archive access | Surveillance, dead drops, attending specific events |
-| Lords' Alliance | Jalester Silvermane | Official sanction, noble-tier social access, legal protection | Reporting on crime, protecting civic stability |
-| Order of the Gauntlet | Savra Belabranta | Reliable combat backup in righteous causes | Actively exposing evil, especially infernal dealings |
-| Emerald Enclave | Melannor Fellbranch | Safe passage through parks, ranger contacts | Protecting natural spaces; opposing undead activity |
-| Force Grey | Vajra Safahr | Powerful backup in genuine city-scale threats | Exclusive; earning Vajra's trust first |
-| Doom Raiders (Zhentarim) | Davil Starsong | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
-| Bregan D'aerthe* | Revealed in play | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
+| Faction | What they offer | What they ask |
+|---------|-----------------|----------------|
+| Harpers | Intelligence, political cover, archive access | Surveillance, dead drops, attending specific events |
+| Lords' Alliance | Official sanction, noble-tier social access, legal protection | Reporting on crime, protecting civic stability |
+| Order of the Gauntlet | Reliable combat backup in righteous causes | Actively exposing evil, especially infernal dealings |
+| Emerald Enclave | Safe passage through parks, ranger contacts | Protecting natural spaces; opposing undead activity |
+| Force Grey | Powerful backup in genuine city-scale threats | Exclusive; earning the leadership's trust first |
+| Doom Raiders (Zhentarim) | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
+| Bregan D'aerthe* | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
 
 *Bregan D'aerthe doesn't approach during **Trollskull Alley**; the sidebar below explains when it becomes available.
 
 > [!warning]**The Two Zhentarims**
-> If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**, the network Davil Starsong runs out of the Yawning Portal. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a moral code that has nothing in common with the Doom Raiders'. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
+> If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a moral code that has nothing in common with the Doom Raiders'. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
 
 > [!warning]**Bregan D'aerthe Is Unlocked, Not Chosen**
 > You can't pick Bregan D'aerthe at session zero. This faction becomes available only if your party follows a particular lead during **Fireball!**. If you never follow it, Bregan D'aerthe stays a rival, or stays out of your story entirely. If you're interested, say so at your table. Your GM can make sure that door stays open.
