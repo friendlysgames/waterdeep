@@ -46,11 +46,11 @@ Before the group finalizes their characters, pose this to the whole table:
 
 Three things to name before play begins.
 
-**PvP is off by default.** A player who wants their character to act against the party brings it to the table as a conversation, not a unilateral decision.
+**PvP is off by default.** A player who wants their character to act against the party brings it to the table as a conversation first.
 
-**Joining a villain faction is a table conversation, not a solo decision.** Four rival factions are actively dangerous and will attempt to recruit player characters over the course of the campaign. Whether a player accepts those overtures requires the same discussion.
+**Joining a villain faction requires a table conversation.** Four rival factions are actively dangerous and will attempt to recruit player characters over the course of the campaign. Whether a player accepts those overtures requires the same discussion.
 
-**The two Zhentarims.** In Waterdeep, "the Zhentarim" describes two separate organizations with nothing in common except the name. Davil Starsong's Doom Raiders are criminals who present as legitimate businesspeople and will recruit the party during Trollskull Alley; they're a joinable player faction. A rival Zhentarim cell operates elsewhere in the city, answers to a different and far more dangerous leader, and is openly hostile to the Doom Raiders. Establish this at session zero — it's the distinction most likely to confuse players once the city's faction dynamics become visible. Joining the Doom Raiders doesn't mean working for the campaign's primary villain faction.
+**The two Zhentarims.** In Waterdeep, "the Zhentarim" describes two separate organizations with nothing in common except the name. Davil Starsong's Doom Raiders are criminals who present as legitimate businesspeople and will recruit the party during Trollskull Alley; they're a joinable player faction. A rival Zhentarim cell operates elsewhere in the city, answers to a different and far more dangerous leader, and is openly hostile to the Doom Raiders. Establish this at session zero; it's the distinction most likely to confuse players once the city's faction dynamics become visible. Joining the Doom Raiders doesn't mean working for the campaign's primary villain faction.
 
 The [Faction Affiliations](../players-guide/faction-affiliations.md) page uses the same player-safe framing. The rival cell's leader is not named there, and you don't name him here either. The Bregan D'aerthe appear on the faction preview table without their contact. He introduces himself in play.
 
@@ -72,7 +72,7 @@ Disclose these content categories before play begins. Phrasing should describe t
 > [!warning]**Sarlo**
 > The child death in the disclosure is **Sarlo**: a twelve-year-old halfling boy who dies in the opening scene of **Fireball!** (see [The Fireball](../../quests/act-ii/fireball/ev-01-the-fireball.md)). His death is written into the event with no intervention mechanic. Players cannot prevent it. Confirm this is something the table can handle before the campaign reaches Act II.
 
-Use the **X-Card** for mid-session intervention, especially once the campaign reaches Act III. Set **Lines and Veils** at session zero — hard stops and fade-to-black preferences, established now rather than negotiated under pressure. If a content moment lands badly mid-session, slow down and check in. The campaign's moral weight is a feature the table chose together; it's not a mandate to push through.
+Use the **X-Card** for mid-session intervention, especially once the campaign reaches Act III. Set **Lines and Veils** at session zero: hard stops and fade-to-black preferences, established now rather than negotiated under pressure. If a content moment lands badly mid-session, slow down and check in. The campaign's moral weight is a feature the table chose together; it's not a mandate to push through.
 
 ---
 

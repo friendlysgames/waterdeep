@@ -62,7 +62,7 @@ The surveillance has three branches:
 > [!warning]**Bregan D'aerthe Contact Severed**
 > If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This flag closes BD membership for the entire campaign. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
 
-Joining Bregan D'aerthe does not require discovering Jarlaxle's true identity. That revelation belongs to **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread draws the party toward the carnival and its captain. Membership opens several quests before that disclosure.
+Jarlaxle's true identity surfaces in **Fireball!** and **Sea Maidens Faire**, when the nimblewright thread leads the party to the carnival and its captain. Membership opens several quests before that disclosure.
 
 For parties who join, **Sea Maidens Faire** inverts: the Faire becomes a home base and Jarlaxle sends the party after another faction's Eye rather than holding the Faire as a heist target. The quest's inversion is the point — BD members experience the Grand Game from Jarlaxle's side of the table, where the resources and the objectives both belong to him.
 
@@ -80,7 +80,7 @@ The practical limit: faction pressure should complicate a decision the party car
 
 Renown is tracked as a separate numerical score for each faction a character belongs to. A character who joins both the Harpers and the Doom Raiders has two independent scores, each starting at 0. Ranks and benefits are per-faction; reaching Renown 10 with the Harpers does nothing for a character's Doom Raiders standing.
 
-**Calibration.** A character who completes all six faction missions and earns available Grand Game bonuses will reach approximately Renown 30–35 by the late heist quests — enough for the Renown 25 rank in their primary faction and Renown 10–15 in a secondary one. Build late-game faction payoffs with that range in mind.
+**Calibration.** A character who completes all six faction missions and earns available Grand Game bonuses will reach approximately Renown 30–35 by the late heist quests, enough for the Renown 25 rank in their primary faction and Renown 10–15 in a secondary one. Build late-game faction payoffs with that range in mind.
 
 **Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. A character who repeatedly accepts and abandons assignments does not. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
 

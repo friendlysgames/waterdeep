@@ -93,7 +93,7 @@ Verification lives in the Revelation Lists on the villain organization pages ([B
 
 The fireball that opens **Fireball!** kills a named NPC the party bonded with during **Trollskull Alley**. Observation begins in ev-03, when the party first meets their neighbors, and runs through the rest of the quest. The victim must be designated before **The Twin Parades** (ev-07) ends.
 
-The players tell you who it is. They're the ones asking follow-up questions about a particular NPC, returning to their shop, referencing them between sessions, mentioning their name when it doesn't come up organically. Page time doesn't determine the victim. Attention does. Your job through Trollskull Alley is to watch for it.
+The players tell you who it is: the one they keep asking about after scenes end, whose shop they return to without prompting, whose name surfaces in conversation when there's no mechanical reason for it. Your job through Trollskull Alley is to watch for it.
 
 Before ev-07 ends, write the chosen NPC's name in your session notes and record the attunement **Fireball Victim Designated: [NPC Name]**. **Fireball!** reads this attunement in its opening beat.
 
@@ -106,7 +106,7 @@ Before ev-07 ends, write the chosen NPC's name in your session notes and record 
 | A hired staff member | ev-06 | Only works if the party visibly bonded with a specific candidate during hiring |
 | A PC backstory NPC | Setup-dependent | Requires a Waterdeep backstory connection established and activated during Trollskull Alley |
 
-Three rules hold. The victim can't be a PC. The victim isn't chosen for your narrative convenience — a fireball that removes someone you wanted gone is a plot move, not a consequence. And the scene isn't survivable with a healing spell. A death that can be reversed is a near-miss, not a loss. The campaign's first irreversible consequence has to feel irreversible.
+Three rules hold. The victim can't be a PC. The victim isn't chosen for your narrative convenience — a fireball that removes someone you wanted gone is a plot move, not a consequence. And the scene isn't survivable with a healing spell. A reversible death is a near-miss. The campaign's first irreversible consequence has to feel irreversible.
 
 ---
 
