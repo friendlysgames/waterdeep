@@ -37,7 +37,7 @@
 
 **Goals**
 
-1. **Acquire the Stone of Golorr** — the Stone is a transformed aboleth encoded with ancient Weave knowledge; Manshoon means to absorb the Weave and supplant Mystra; the vault's gold funds the process; method: Stone recovery → Weave absorption; has one Eye; contingency: destroy the vault rather than cede it; connects to **Gralhund Villa** and **Kolat Towers**
+1. **Acquire the Stone of Golorr** — the Stone is a transformed aboleth encoded with ancient Weave knowledge; Manshoon means to absorb the Weave and supplant Mystra; the vault's gold funds the process; method: Stone recovery → Weave absorption; holds no Eye — Xanathar killed the envoys who delivered Eye #1 as a gift and kept it; needs the Stone plus any two Eyes; contingency: destroy the vault rather than cede it; connects to **Gralhund Villa** and **Kolat Towers**
 2. **Control Waterdeep's Underworld** — eliminate Xanathar, absorb the Doom Raiders, marginalize Bregan D'aerthe; method: patient erosion through targeted disruption and strategic violence; the Dock Ward conflict in Acts I–II is this plan in early operation
 3. **The Simulacrum Insurance** — the simulacrum is not a backup; it is the primary survival strategy; defeating Manshoon in combat may defeat only his copy; connects to **Kolat Towers** design requirement
 
