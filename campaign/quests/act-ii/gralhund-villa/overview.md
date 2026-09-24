@@ -19,7 +19,7 @@
 > | The party engages the confrontation with Lady Yalah Gralhund | ev-06 or ev-07 | 1 |
 > | The Stone of Golorr is in party hands at Aftermath opening | ev-09 | 1 |
 >
-> Level 4 is reached when the Stone is confirmed in party hands at the start of ev-09 (cumulative: 10).
+> Level 4 is reached when the Stone is confirmed in party hands at the start of ev-09 (cumulative: 9).
 
 ## Involved Characters
 

@@ -32,8 +32,13 @@ The loan has since been partially repaid. What remains isn't enough to panic ove
 
 *Your character knows the following:* Istrid Horn holds a legitimate debt. She has made no contact outside of routine payment collection. You are not afraid of her. You are merely aware that she knows a great deal about you, has recorded it, and will keep adding to the record.
 
-**The Holder: Istrid Horn (Doom Raiders)**
-A shield dwarf who runs a money-lending operation out of the Dock Ward and serves as one of Davil Starsong's most effective lieutenants. She doesn't deal in charm. Reliable, exact, and genuinely disinterested in personal drama — she wants debts paid and useful people identified. Her first contact with the character arrives through routine channels, a note about a payment, a clarifying question about an arrangement. It is only later that it becomes clear she has been forwarding summaries of the debt relationship to Davil Starsong. Who the character owes, and how reliably they pay, tells her everything about who they are.
+### The Holder: Istrid Horn (Doom Raiders)
+
+Istrid Horn is a shield dwarf moneylender operating out of a guarded warehouse in the Dock Ward, serving as the Doom Raiders' Master of Trade and Coin. Her lending rates are competitive and her manner is professional. This makes it easy to miss that she is building a ledger of leverage alongside every debt she holds.
+
+Her first contact with the character arrives through routine channels: a payment reminder, a clarifying question about outstanding terms. She doesn't push. Borrowers who pay reliably are left alone; those who slip reveal something about their character, and she notes it. She has been forwarding summaries of the debt relationship to Davil Starsong. Not as a threat. A professional like Istrid simply reads people from their payment habits, and Davil finds her assessments useful.
+
+Characters who pay in full close their financial obligation and nothing more. Istrid has already formed her opinion of them. She may bring them to Davil's attention at some point, or she may simply file them away. Either way, the relationship was never as transactional as it appeared.
 
 ---
 
@@ -45,10 +50,16 @@ It's still with you, still sealed. You haven't opened it. The sensible knowledge
 
 *Your character knows the following:* Urstul Floxin, a name you obtained with difficulty afterward, is the man who was waiting for the package. He has made one attempt to locate you, through channels that took real effort to trace back. He knows approximately where you are. He hasn't moved against you, which means either he's biding his time or he wants the package more than he wants satisfaction.
 
-**The Holder: Urstul Floxin (Manshoon's Zhentarim)**
-One of Manshoon's most effective field lieutenants: methodical, personally dangerous, and not given to visible anger. His first approach to the character will be dressed as a business transaction — a reasonable offer for the package's return, no questions asked, the whole matter tidied away. He means this, up to a point. The offer becomes less reasonable each time they decline. Characters who return the package and survive the meeting will discover they've demonstrated exactly the competence Floxin prefers in reluctant assets. The relationship doesn't end with the exchange — it reorganizes around a new one.
+### The Holder: Urstul Floxin (Manshoon's Zhentarim)
 
-> **Warning: Two Zhentarims.** Floxin works for Manshoon, not the Doom Raiders. A character whose debt is held by Floxin is already in the cross-hairs of the campaign's villain faction, whether they know it or not. Davil Starsong's cell will not automatically help this character — they are a separate organization. Let the character navigate the distinction without the DM explaining it for them.
+Urstul Floxin is Manshoon's chief field operative in Waterdeep: a large, heavyset Illuskan man in his forties who moves through rooms as though he owns them and reserves his anger for moments when it will accomplish something. He is methodical, personally dangerous, and one of the more capable people the character will encounter during the campaign.
+
+His first approach arrives as a reasonable business transaction: a fair offer for the package's return, no questions asked, the matter concluded cleanly. He means this, up to a point. The offer doesn't stay reasonable indefinitely; each refusal narrows his patience and shifts his calculation of what the character is worth versus what they're costing him.
+
+Characters who return the package and survive the meeting will find they've demonstrated exactly the competence Floxin values in reluctant assets. The Debt restructures around a new arrangement rather than resolving cleanly; Floxin considers it an upgrade.
+
+> [!warning]**Two Zhentarims**
+> Floxin works for Manshoon, not the Doom Raiders. A character whose Debt is held by Floxin is already entangled with the campaign's primary villain faction, whether they know it or not. Davil Starsong's cell is a separate organization and won't automatically come to this character's aid. Let the character discover the distinction on their own.
 
 ---
 
@@ -60,8 +71,13 @@ What you didn't know when you acquired the credential was that Yalah Gralhund is
 
 *Your character knows the following:* The seal was used. The credential exists somewhere in someone's records. Whether it's been traced is not known. What is known is that Yalah Gralhund isn't the kind of person who discovers an insult and simply absorbs it.
 
-**The Holder: Yalah Gralhund**
-A Waterdhavian noble of genuine intelligence and practical ruthlessness — her husband Orond manages appearances; she manages the house. Her first contact with the character will feel like an invitation: social, professional, warm without being warm. She won't accuse. She'll place the character in a position where they understand, without being told, that she knows — and that her response isn't yet decided. Characters who handle this meeting well, demonstrating they are worth more as an asset than as an example, may find the credential problem quietly retired in exchange for a specific private service. Characters who confirm her suspicion that they are merely opportunistic will have a different experience.
+### The Holder: Yalah Gralhund (House Gralhund)
+
+Yalah Gralhund is the lady of House Gralhund, a Sea Ward noble family whose motto is "We see both sides." Her husband Orond manages appearances; she manages the house. Her intelligence is genuine and her ruthlessness practical: she is interested in outcomes that serve House Gralhund, and in nothing else.
+
+Her first contact with the character will feel like an invitation: social, professional, the warmth of someone who knows many people. She won't accuse. She'll place the character in a setting where both parties understand the same thing without saying it: she knows, and her response is still being decided.
+
+Characters who handle this meeting well, demonstrating they're worth more as an asset than as an example, will find the credential problem quietly retired in exchange for a specific private service. Characters who confirm her suspicion that they are merely opportunistic will have a different experience.
 
 ---
 
@@ -73,8 +89,13 @@ Nothing has happened to him. Yet. But the information is still yours, and what y
 
 *Your character knows the following:* You're carrying information that multiple powerful people want. Renaer doesn't yet know how much he can trust you with it. The information's value won't last forever.
 
-**The Holder: Renaer Neverember**
-The son of Waterdeep's disgraced former Open Lord: educated, wealthy, politically exiled by association with his father's crimes, and working quietly to repair both his city and his name. He's genuinely decent, which makes him dangerous in a different way than the people around him — decent people are harder to predict when pushed far enough. He won't demand the information back. He won't threaten. He'll ask, once, whether the character has done anything with it, in a tone that makes clear he has thought carefully about what the possible answers mean. Characters who have acted honorably gain a friend who's more connected than he appears. Characters who haven't will find that Renaer's decency has a limit they've helped define.
+### The Holder: Renaer Neverember (Independent)
+
+Renaer Neverember is the estranged son of Dagult Neverember, the former Open Lord who looted the Vault of Dragons before his removal from office. Renaer is nothing like his father, which has cost him: politically exiled by association with Dagult's name, he works quietly to repair both his standing and his city.
+
+The information he passed to the character concerns a third party: a name, a location, a transaction implicating someone still active in Waterdeep whose corruption has nothing to do with Dagult's and has not reached public attention. Renaer shared it because he needed someone outside his usual circles to hold it, in case something happened to him. Nothing has. The information has not yet been used.
+
+He makes contact once, in a setting that leaves room for the character to redirect. He asks what they've done with it, in a tone that makes clear he has thought carefully about the range of possible answers. Characters who have handled it with care — held it close, used it well, or simply kept it — will find Renaer a more useful ally than his difficult name suggests. He knows the city's factions and geography with unusual depth, maintains relationships that span from the Harpers to the Lords' Alliance, and genuinely wants nothing from the party beyond the reassurance that he read them correctly. Characters who have sold or wasted the information will find that Renaer's warmth has a ceiling he doesn't announce in advance.
 
 ---
 
@@ -86,10 +107,14 @@ Ahmaergo, Xanathar's dwarven majordomo and the man who actually runs the Guild's
 
 *Your character knows the following:* The Guild doesn't know, officially, that you exist. Ahmaergo knows. He made one indirect inquiry months after the event, to confirm you were still in Waterdeep and still capable. You confirmed both by answering.
 
-**The Holder: Ahmaergo (Xanathar's Guild)**
-A compact, humorless dwarf who is in practical terms the operational brain of the Xanathar Guild. He doesn't have Xanathar's moods or its capacity for sudden violence, which makes him considerably more dangerous to deal with: he's consistent. His first formal request arrives as a logistics problem — something that requires someone unaffiliated, deniable, and competent. He won't call it debt repayment. Characters who complete the task will find the *Outstanding* column now reads *Current.* Characters who refuse will find the official records suddenly contain their name in a context that requires immediate explanation to the City Watch.
+### The Holder: Ahmaergo (Xanathar's Guild)
 
-> **Warning: The Beholder.** Ahmaergo maintains his private ledger precisely because Xanathar does not know about every arrangement. If Xanathar becomes aware of the character's existence — through carelessness, through another character's indiscretion, through any direct contact — the dynamic changes completely. Xanathar does not distinguish between asset, debtor, and enemy when its paranoia is engaged. Keep the beholder out of this relationship for as long as dramatically possible.
+Ahmaergo is the Xanathar Guild's majordomo: a shield dwarf of outward civility and exacting administrative competence who functions as the Guild's operational second-in-command. Most orders that bear Xanathar's name were drafted by Ahmaergo. His private ledger is separate from official Guild records because Xanathar doesn't know about every arrangement he makes, which is precisely the point.
+
+His first formal contact arrives as a logistics problem requiring someone unaffiliated, deniable, and capable. He won't frame it as debt repayment. Characters who complete the task find the *Outstanding* column now reads *Current*. Characters who refuse find their name appearing in official Guild records, in a context that requires immediate and uncomfortable explanation to the City Watch.
+
+> [!warning]**The Beholder**
+> Ahmaergo keeps his private ledger separate from Guild records because Xanathar doesn't know about every arrangement he runs. If Xanathar becomes aware of the character's existence — through carelessness, another character's indiscretion, or any direct contact with the Guild — the dynamic changes entirely. Xanathar doesn't distinguish between asset, debtor, and enemy when its paranoia is engaged. Hold the beholder back from this relationship for as long as dramatically possible.
 
 ---
 
@@ -101,8 +126,11 @@ Davil came afterward to offer a drink and mention, warmly, that he'd heard good 
 
 *Your character knows the following:* Davil Starsong used you as an intelligence asset without your consent, and his first official meeting with you opened with a compliment rather than an admission. This tells you most of what you need to know about how he operates, not what he intends next.
 
-**The Holder: Davil Starsong (Doom Raiders)**
-A slender, elegantly dressed sun elf who serves as the public face of the Doom Raiders' Waterdeep operation. He is charming, cultured, and entirely transparent about being charming and cultured — which is its own form of deflection. Beneath the social performance, he's a genuine professional who believes the Doom Raiders' moderate approach to crime is both more profitable and more ethical than Manshoon's methods. His first formal ask of the character is small and explicitly acknowledged as such — he's calibrating them, not exploiting them, and he makes this clear. Characters who engage honestly will find the relationship evolving into something closer to a genuine working partnership. Characters who try to leverage the asset-running against him will discover that Davil has been planning for that move since the first note was dropped.
+### The Holder: Davil Starsong (Doom Raiders)
+
+Davil Starsong is the Doom Raiders' Master of Opportunities and Negotiations: a sun elf who makes friends easily, negotiates deals with practiced grace, and operates from a curtained room on the Yawning Portal's second floor with a permanent suite on the third. His charm bracelet holds small trophies from monsters the Doom Raiders have killed over the years. He is entirely transparent about being charming, which functions as its own form of professional misdirection.
+
+He's a genuine professional who believes the Doom Raiders' moderate approach to crime is both more effective and more defensible than Manshoon's methods. His first formal ask of the character is small and framed as exactly that: he's calibrating them, not exploiting them, and he says so. Characters who engage honestly find the relationship evolving into something closer to a working partnership over the course of the campaign. Characters who attempt to use the asset-running as leverage against him will find that Davil has been anticipating that move since before the first note was dropped.
 
 ---
 
@@ -114,8 +142,11 @@ A week later, an unsigned note arrived at your residence. It said: *We should me
 
 *Your character knows the following:* Barnibus Blastwind knows what you saw. You know what he did. Both of you are now holding something the other can't comfortably use without mutual destruction. Blastwind seems to find this arrangement workable.
 
-**The Holder: Barnibus Blastwind (Watchful Order of Magists and Protectors)**
-An investigator in his middle years — reputation earned, private compromise carefully buried. His compromise is situational: one incident, singular, involving a person he refuses to discuss. He's also genuinely good at his job, which makes him valuable in ways the character didn't anticipate when this began. His first official request involves something the Watch can't pursue through official channels. He frames this honestly. Characters who help him begin accumulating something more durable than leverage: a genuine ally who knows the city's investigative apparatus from the inside, and who has a reason to keep them safe.
+### The Holder: Barnibus Blastwind (Watchful Order of Magists and Protectors)
+
+Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors: methodical, private, and genuinely skilled at investigative work. His professional compromise is situational: one incident, one person he refuses to discuss. Outside that incident, his record is clean.
+
+He presents the mutual-observation arrangement as workable because he means it. His first formal request involves something the Watch can't pursue through official channels, and he frames this honestly rather than dressing it as a favor. Characters who help him gain an ally who knows Waterdeep's investigative apparatus from the inside and has a personal stake in keeping them clear of its attention.
 
 ---
 
@@ -127,15 +158,19 @@ What he didn't mention was that he'd already entered it into the index as he fil
 
 *Your character knows the following:* Skeemo Weirdbottle has detailed knowledge of at least one thing you have done, filed under your name and cross-referenced against other entries. He doesn't threaten you with it. He appears to simply consider it useful to know. Whenever you encounter him, he'll offer to sell you additional information, and the prices are always fair. This, somehow, makes it worse.
 
-**The Holder: Skeemo Weirdbottle (Doom Raiders)**
-A gnome alchemist whose cheerful manner and genuine intellectual curiosity make it easy to miss that he's one of the most effectively networked people in Waterdeep's criminal underground. He serves the Doom Raiders primarily as an information broker, a supplier, and an analyst, and he is better at all three than anyone outside the organization knows. His requests, when they come, tend to be strange: he wants something specific and counterintuitive, and he pays well for it. Characters who indulge his particular interests may find that his index begins working in their favor — information about other people surfacing at convenient moments. Characters who try to find and destroy his records will discover that Skeemo maintains backups in more places than one, and was genuinely more amused than alarmed by the attempt.
+### The Holder: Skeemo Weirdbottle (Doom Raiders)
+
+Skeemo Weirdbottle is a rock gnome alchemist who runs Weirdbottle's Concoctions from a Trades Ward side street, serving the Doom Raiders as their Master of Magic and functioning simultaneously as an information broker, a supplier, and an analyst. He is better at all three than anyone outside the organization knows, and his index is more comprehensive than the character realizes.
+
+His requests, when they come, tend to be specific and counterintuitive: he wants something narrow and strange, and he pays well for it. Characters who engage with his particular interests will find the index beginning to work in their favor, with information about other people surfacing at useful moments. Characters who attempt to locate and destroy his records will find that Skeemo maintained backups in more places than they anticipated, and he was more amused by the attempt than alarmed.
 
 ---
 
-> **Design Note: Debts as Acceleration.** The Debt system exists to solve a classic sandbox problem: players who feel like observers of a world that hasn't yet involved them. A character who owes Istrid Horn a debt is already inside the story. A character who ran Floxin's package has a problem that will find them whether or not they go looking. Space the debt's demands across the campaign — early calls should be low-stakes and character-defining; mid-campaign calls should create genuine tension; late-campaign calls should force meaningful choices about loyalty, identity, and the price of freedom. Use debts as reasons for NPCs to seek the characters out, not as punishments.
+> [!design]**Debts as Acceleration**
+> The Debt system exists to solve a classic sandbox problem: players who feel like observers of a world that hasn't yet involved them. A character who owes Istrid Horn a debt is already inside the story. A character who ran Floxin's package has a problem that will find them whether or not they go looking. Space each Debt's demands across the campaign. Early calls should be low-stakes and character-defining; mid-campaign calls should create genuine tension; late-campaign calls should force meaningful choices about loyalty, identity, and the price of freedom. Use Debts as reasons for NPCs to seek the characters out, not as punishments.
 
 ## Cross-References
 
-- [Players' Guide: Debts of the City](../players-guide/debts-of-the-city.md) — player version (no Holder or Warning sections)
+- [Players' Guide: Debts of the City](../players-guide/debts-of-the-city.md) — player version (no Holder sections or GM sidebars)
 - [Session Zero](session-zero.md) — when and how to introduce the Debt system
 - [Grand Game in Play](grand-game-in-play.md) — how Debt holders operate in the faction landscape

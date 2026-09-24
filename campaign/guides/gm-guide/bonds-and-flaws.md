@@ -42,11 +42,8 @@ Choose or roll one Flaw. Each one names a genuine internal obstacle — somethin
 > [!info]**At Session Zero**
 > Choose or roll one Bond and one Flaw, then read both aloud at the table. The conversation that follows — what these mean, why you picked them, what your fellow players notice in them — is often more useful than the entries themselves.
 
-> **[GM]**
->
-> #### GM Notes
->
-> Each Flaw is built to meet one part of the campaign head on. Players don't see this column, so the pressure arrives as a story beat rather than a signposted test. When a player picks a Flaw, note where it lands and give that character the spotlight when the quest arrives.
+> [!info]**Where Each Flaw Lands**
+> Players never see this table, so each Flaw's pressure arrives as a story beat rather than a signposted test. Note which quest each player's Flaw maps to, and give that character the spotlight when the campaign gets there.
 >
 > | d8 | Where the campaign presses |
 > |----|----------------------------|
@@ -61,6 +58,6 @@ Choose or roll one Flaw. Each one names a genuine internal obstacle — somethin
 
 ## Cross-References
 
-- [Players' Guide: Bonds and Flaws](../players-guide/bonds-and-flaws.md) — player-facing version (no GM Notes)
+- [Players' Guide: Bonds and Flaws](../players-guide/bonds-and-flaws.md) — player-facing version (no GM sidebar)
 - [Debts of the City](debts-of-the-city.md) — additional character anchors, with Holder guidance
 - [Session Zero](session-zero.md) — where Bonds and Flaws are chosen and read aloud

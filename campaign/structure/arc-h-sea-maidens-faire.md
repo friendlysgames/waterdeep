@@ -40,7 +40,7 @@ Unlike **Xanathar's Lair** (where the briefing confirms a known dungeon) or **Ca
 
 *Vajra Safahr (Force Grey — renown 1+).* Arcane assessment of the fleet. Vajra detects transmutation and illusion magic saturating the Eyecatcher — consistent with sustained disguise effects on multiple humanoids. She identifies the nimblewright crystal ball's signature as a persistent clairvoyance network: "Someone on that ship is watching nine locations in this city simultaneously through paired crystals." If the party completed Force Grey Mission 2 (Zelifarn and the Harbor), Vajra has already filed the submarine observation in her threat assessment. She now provides the critical operational detail: the Scarlet Marpenoth detaches from the Eyecatcher's hull via a keel collar mechanism. If Jarlaxle decides to flee, the submarine separates and submerges independently. "If your target can leave underwater, you need a plan for that." At renown 10+, Vajra stations a Blackstaff mage in a harbor skiff with a communication bead matched to one in the party's possession; once per contact, the mage casts silence or fog cloud at range, provided the party is within 200 feet of the harbor entrance.
 
-*Tashlyn Yafeera or Davil Starsong (Doom Raiders — renown 1+).* The Doom Raiders have had dealings with Jarlaxle's operation — he approached them early in the campaign about intelligence sharing, which they declined. Tashlyn or Davil can provide the Faire's supply schedule: food deliveries from the Butchers' Guild on Ches 22, 26, and Tarsahk 2, 6; water cask deliveries from the Watermen's Guild every three days; exotic animal feed from a private supplier in the Field Ward. Each delivery requires a crew of 4–6 and takes 45 minutes. Delivery crews have unescorted access to the cargo holds. The Doom Raiders also note that the Faire's revenue does not match its operating costs: "They're spending more than they're earning. The carnival is subsidized by something else." At renown 10+, Yagra Stonefist accompanies the supply delivery infiltration — she knows enough Guild cant to bluff past a cargo inspection and can carry concealed equipment for the party without triggering search protocols.
+*Tashlyn Yafeera or Davil Starsong (Doom Raiders — renown 1+).* The Doom Raiders have had dealings with Jarlaxle's operation — he approached them early in the campaign about intelligence sharing, which they declined. Tashlyn or Davil can provide the Faire's supply schedule: food deliveries from the Butchers' Guild on Ches 22, 26, and Tarsakh 2, 6; water cask deliveries from the Watermen's Guild every three days; exotic animal feed from a private supplier in the Field Ward. Each delivery requires a crew of 4–6 and takes 45 minutes. Delivery crews have unescorted access to the cargo holds. The Doom Raiders also note that the Faire's revenue does not match its operating costs: "They're spending more than they're earning. The carnival is subsidized by something else." At renown 10+, Yagra Stonefist accompanies the supply delivery infiltration — she knows enough Guild cant to bluff past a cargo inspection and can carry concealed equipment for the party without triggering search protocols.
 
 *Jarlaxle (Bregan D'aerthe — renown 1+).* Available only if a PC is a BD member. Jarlaxle contacts them directly through the existing relationship. His pitch is straightforward: he knows the party has the Stone of Golorr, and possibly an Eye or two already restored. He wants the hoard — not for himself, but for Luskan. "Five hundred thousand dragons buys a seat on the Lords' Alliance council that Luskan cannot earn by reputation alone. Let me tell you why that matters, and what I can offer in return." He lays out Luskan's Alliance bid plainly. He does not threaten. He frames cooperation as mutual benefit. How much he reveals beyond the pitch depends on trust: at Operative rank (Renown 10+), Jarlaxle deals plainly and may offer Eye #3 outright as a show of good faith. At Soldier or Initiate rank, he wraps the same agenda in the Zardoz Betrayal Pitch — a competence and loyalty test before he shows his full hand (see Scene 3). If no PC is a BD member, Jarlaxle is not available as a briefing contact.
 
@@ -74,11 +74,11 @@ Unlike **Xanathar's Lair** (where the briefing confirms a known dungeon) or **Ca
 
 *Festival and Event Windows.*
 
-**Carnival Parades (5 dates: Ches 10, 21, 25, Tarsahk 1, 5).** During parades, the Faire's performers march through Waterdeep's streets. The pier is nearly empty. The docked ships retain skeleton crews. The Eyecatcher's crew is reduced to watch personnel only. Best pure-heist window: fewest adversaries, maximum time before absence is noticed. Duration: 3–4 hours per parade.
+**Carnival Parades (5 dates: Ches 10, 21, 25, Tarsakh 1, 5).** During parades, the Faire's performers march through Waterdeep's streets. The pier is nearly empty. The docked ships retain skeleton crews. The Eyecatcher's crew is reduced to watch personnel only. Best pure-heist window: fewest adversaries, maximum time before absence is noticed. Duration: 3–4 hours per parade.
 
 **Shipwright's Ball (Ches 25).** Jarlaxle attends the Ball in disguise — as J.B. Nevercott or Rongquan Mystere. The Eyecatcher is reduced to skeleton crew with no captain aboard. Social cover for surveillance: half the party can attend the Ball while the other half boards the Eyecatcher. Duration: full evening (6 hours). This is the best diplomatic window — Jarlaxle is accessible in a social setting where business is expected.
 
-**Tarsahk 20 — Sea Maidens Faire Departure.** The hard deadline. If the party has not acted by this date, the ships leave Waterdeep. This quest becomes a pursuit-at-sea scenario or a negotiation from extreme weakness. At Lockdown tier (both BD outposts hit plus spillover), the departure accelerates to Tarsahk 15.
+**Tarsakh 20 — Sea Maidens Faire Departure.** The hard deadline. If the party has not acted by this date, the ships leave Waterdeep. This quest becomes a pursuit-at-sea scenario or a negotiation from extreme weakness. At Lockdown tier (both BD outposts hit plus spillover), the departure accelerates to Tarsakh 15.
 
 *Crew Observation.* The Eyecatcher's defining casing challenge. The crew are drow in human disguise — sustained transmutation effects, hats of disguise, careful discipline about behavior in sunlight. A party briefed by Mirt (crew avoids sunlight) or Vajra (illusion magic saturating the ship) can identify the disguises with a DC 15 Intelligence (Arcana) check or a DC 14 Wisdom (Perception) check if they know what to look for. Dispel magic on any crew member reveals a drow. This knowledge changes the stakes: the party is not robbing a carnival; they are robbing a drow intelligence operation.
 
@@ -125,7 +125,7 @@ Zelifarn also introduces this quest's moral dimension. The crystal ball in U4 �
 | Unaware | No BD outposts hit | Standard roster. Carnival operating normally. Crew relaxed. Disguises not reinforced. |
 | Suspicious | Seven Masks Theater hit | Patrols increased on all ships. Jarlaxle aware someone is investigating BD. Carnival hours shortened. Drow operatives more visible on the Eyecatcher deck. |
 | Alert | Both BD outposts hit | Ships on high alert. 4 of 8 nimblewrights from J18 now active and patrolling. Jarlaxle may have relocated Eye #3 to his person. External submarine hatch sealed and trapped (DC 16 Thieves' Tools to disarm; 4d6 lightning damage on failure). |
-| Lockdown | Spillover + both outposts | Carnival shut down. Ships preparing early departure (Tarsahk 15). Jarlaxle relocated to the Scarlet Marpenoth permanently. Full combat roster. All 8 nimblewrights from J18 active. Pier access restricted to crew only. |
+| Lockdown | Spillover + both outposts | Carnival shut down. Ships preparing early departure (Tarsakh 15). Jarlaxle relocated to the Scarlet Marpenoth permanently. Full combat roster. All 8 nimblewrights from J18 active. Pier access restricted to crew only. |
 
 **Tone.** Planning that shifts based on which path the party chooses. The heist path feels like Ocean's Eleven — assembling allies, timing windows, identifying weaknesses. The alliance path feels like a diplomatic thriller — political favors, credibility checks, the weight of promises. The patron path feels like a spy film — double-crosses, loyalty tests, the awareness that the employer may also be the target.
 
@@ -307,25 +307,25 @@ All contacts shift to problem-solving mode. Where is the Eye now? Is Jarlaxle le
 
 ## Milestone and Transition
 
-*Milestone XP.*
+*Milestone Points.*
 
-| Level | Quest | Milestone | XP |
-|:-----:|-------|-----------|---:|
-| 4–6 | **Sea Maidens Faire** | The party recovers the Eye of the Stone from the Sea Maidens Faire | 6,000 |
+| Level | Quest | Milestone | Points |
+|:-----:|-----|-----------|:---:|
+| 4–6 | **Sea Maidens Faire** | The party recovers the Eye of the Stone from the Sea Maidens Faire | 4 |
 
-**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same flat 6,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after **Faction Outposts**, since outpost chains and lair heists are independently sequenced. Track cumulative XP against the real 2024 level thresholds (2,700 / 6,500 / 14,000 / 23,000); level-ups fire the moment the running total crosses one, which does not require landing on it exactly. This produces a simple, order-agnostic pace: the party's *first* completed heist crosses into level 5, the *second* crosses into level 6, and level 7 requires *all four* — the third heist alone leaves the total short. Since only four heists exist and one of them is always **Kolat Towers**, level 7 is unreachable without it.
+**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same 4 Milestone Points, regardless of order. When a heist is converted to a quest journal, the 4 points sit on four milestone events (1 point each). All four heists can be run in any order at any point after **Faction Outposts**. Track cumulative points against the Milestone Points progression table (L5 at 13, L6 at 18, L7 at 23). The pace is order-agnostic: the *first* completed heist reaches level 5, the *second* reaches level 6, and level 7 requires *all four*, because three heists leave the total one point short. One of the four heists is always Kolat Towers, so level 7 is unreachable without it.
 
-| Heists completed | Cumulative XP | Crosses | Level |
-|:-----------------:|---:|:-----:|:-----:|
-| 0 (post-**Faction Outposts**) | 3,500 | — | 4 |
-| 1 | 9,500 | 6,500 | 5 |
-| 2 | 15,500 | 14,000 | 6 |
-| 3 | 21,500 | — | 6 |
-| 4 | 27,500 | 23,000 | 7 |
+| Heists completed | Cumulative points | Level |
+|:-----------------:|:---:|:-----:|
+| 0 (post-**Faction Outposts**) | 10 | 4 |
+| 1 | 14 | 5 |
+| 2 | 18 | 6 |
+| 3 | 22 | 6 |
+| 4 | 26 | 7 |
 
-These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
+The quest's encounters are calibrated for the full 4th–6th level range this flexibility produces.
 
-This quest's transition is open. The remaining lair heists are available in any order. The Stone's sharpened impressions and faction debrief intelligence provide organic guidance toward each. The Tarsahk 20 departure deadline and the Founders' Day deadline (from **Cassalanter Villa**, if not yet completed) create dual pressure without prescribing order.
+This quest's transition is open. The remaining lair heists are available in any order. The Stone's sharpened impressions and faction debrief intelligence provide organic guidance toward each. The Tarsakh 20 departure deadline and the Founders' Day deadline (from **Cassalanter Villa**, if not yet completed) create dual pressure without prescribing order.
 
 ---
 
@@ -413,7 +413,7 @@ The Full Awakening also brings the aboleth consciousness fully forward. The Ston
 
 The four-tier difficulty table translates **Faction Outposts**' BD outpost consequences into this quest's fleet environment. At Unaware, the Faire operates normally — the party walks into a carnival. At Lockdown, the carnival is shut down and the ships are preparing to leave early — the party assaults a military vessel.
 
-This quest's departure deadline (Tarsahk 20, or Tarsahk 15 at Lockdown) is unique among lair heists. Neither **Xanathar's Lair** nor **Cassalanter Villa** has a hard deadline tied to the target physically leaving the campaign's geography. The departure deadline creates urgency of a different kind than **Cassalanter Villa**'s Founders' Day: not "something bad happens if you wait" but "the opportunity disappears." The fleet sails. The Eye goes with it.
+This quest's departure deadline (Tarsakh 20, or Tarsakh 15 at Lockdown) is unique among lair heists. Neither **Xanathar's Lair** nor **Cassalanter Villa** has a hard deadline tied to the target physically leaving the campaign's geography. The departure deadline creates urgency of a different kind than **Cassalanter Villa**'s Founders' Day: not "something bad happens if you wait" but "the opportunity disappears." The fleet sails. The Eye goes with it.
 
 ## Three Clue Rule Paths Out of This Quest
 

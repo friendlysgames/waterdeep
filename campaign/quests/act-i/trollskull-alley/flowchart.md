@@ -14,6 +14,8 @@
          │  └── MILESTONE: 1 Point
          ↓
 [ev-05] The Field of Triumph        ←── Occurs during renovation; before opening
+         │  ↑                           Tournament completed
+         │  └── MILESTONE: 1 Point
          ↓
 [ev-06] The Grand Opening           ←── Renovation endpoint; Lif appeasement resolves
          │  ↑                           Emmek Stage 4 may fire (staff hiring)

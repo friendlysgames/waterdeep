@@ -14,7 +14,7 @@ If the party accesses the room without Ammalia present:
 
 **The Red Leather Grimoire (on the lectern).** No lock on the grimoire itself. Content:
 - The commune ritual Ammalia uses to contact Asmodeus through a pit fiend proxy, written in her handwriting
-- The terms of the infernal contract transcribed in full — Osvaldo's transformation, the twins' souls forfeit on their ninth birthday, the buy-out clause: 999,999 gp and ninety-nine souls before Flamerule 1
+- The terms of the infernal contract transcribed in full — Osvaldo's transformation, the twins' souls forfeit on their ninth birthday, the buy-out clause: 999,999 gp and ninety-nine souls before the twins' ninth birthday (Flamerule 11)
 - Marginal notes added over three years, escalating in desperation: *"There must be another way."* *"Nana cannot know."* *"V. still cannot enter the attic. He tries."* *"There must be another way."* The phrase appears eleven times, in different inks.
 
 **The Desk.** Ammalia's spellbook in a locked drawer (DC 16 Thieves' Tools). Ten vials of midnight tears poison on a small wooden rack beside the spellbook — unlabeled, clear liquid, tasteless, effect onset 24 hours. Any character who succeeds on a DC 15 Intelligence (Medicine) check identifies the substance.

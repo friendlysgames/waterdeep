@@ -285,29 +285,28 @@ If Jarlaxle was Robbed and arrived hostile at Scene 5, he accepts that this vent
 
 **Content.**
 
-*Milestone XP.* Entering **Vault of Dragons**, the party is at one of exactly two states, set entirely by the heist phase (**Faction Outposts** and the four lair heists; see each lair heist's own Milestone section):
+*Milestone Points.* Entering **Vault of Dragons**, the party is at one of exactly two states, set entirely by the heist phase (**Faction Outposts** and the four lair heists; see each lair heist's own Milestone section):
 
-| Heists completed before **Vault of Dragons** | Cumulative XP | Level entering **Vault of Dragons** |
+| Heists completed before **Vault of Dragons** | Cumulative points | Level entering **Vault of Dragons** |
 |:-----------------:|---:|:-----:|
-| 3 (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire** — Kolat Towers skipped) | 21,500 | 6 |
-| 4 (all four lair heists) | 27,500 | 7 |
+| 3 (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire** — Kolat Towers skipped) | 22 | 6 |
+| 4 (all four lair heists) | 26 | 7 |
 
 A party can only reach **Vault of Dragons** with at least three lair heists done, since all three Eyes (from **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**) are required to open the Vault — Kolat Towers carries no Eye and is never required for entry, only for the fourth heist slot that unlocks level 7 early. This is why the quest is written for a 6th-to-7th-level party rather than a fixed 7th — Scene 5's Faction Confrontation in particular should be run with the entering level in mind (see that scene's roster-assembly table), since a level 6 party that skipped Kolat Towers also faces a full-strength, unidentified Manshoon by default (**Kolat Towers** is what typically resolves that threat).
 
-Unlike every prior quest, **Vault of Dragons** does not stop at inheriting the party's level — it always carries the party one level further, on top of wherever the heist phase left them. The same three milestones, tied to the quest's three biggest turns, apply regardless of entry state and total 6,500 XP:
+Unlike every prior quest, **Vault of Dragons** does not stop at inheriting the party's level — it always carries the party one level further, on top of wherever the heist phase left them. Two milestones, tied to the quest's two biggest turns, apply regardless of entry state and total 2 Milestone Points. The ceremonial opening is the climax's threshold, not a milestone:
 
-| Milestone | XP |
-|-----------|---:|
-| The party performs the ceremonial opening and enters the Vault of Dragons | 1,500 |
-| The party resolves the Aurinax confrontation, by any of the four paths | 2,000 |
-| The party survives the Faction Confrontation and reaches a resolution for the gold | 3,000 |
+| Milestone | Points |
+|-----------|:---:|
+| The party resolves the Aurinax confrontation, by any of the four paths | 1 |
+| The party survives the Faction Confrontation and reaches a resolution for the gold | 1 |
 
-Because the two entry states start from different cumulative totals, the same flat 6,500 XP lands them on different real thresholds:
+Because the two entry states start from different cumulative totals, the same 2 points land them on different thresholds (L7 at 23, L8 at 28):
 
-| Heists done | Entering **Vault of Dragons** | + **Vault of Dragons** (6,500) | Ending level |
+| Heists done | Entering **Vault of Dragons** | + **Vault of Dragons** (2) | Ending level |
 |:-----------:|:---------------:|:----------------:|:-------------:|
-| 3 (Kolat Towers skipped) | 21,500 XP (level 6) | 28,000 XP | 7 |
-| 4 (all heists) | 27,500 XP (level 7) | 34,000 XP | 8 |
+| 3 (Kolat Towers skipped) | 22 points (level 6) | 24 points | 7 |
+| 4 (all heists) | 26 points (level 7) | 28 points | 8 |
 
 A party that skipped Kolat Towers still gains a level from completing **Vault of Dragons** — it just started one level lower, and stays one level lower, ending the campaign at 7th instead of 8th. Level 8 remains exclusive to the party that ran all four heists, but **Vault of Dragons**'s own climax is never worth zero.
 

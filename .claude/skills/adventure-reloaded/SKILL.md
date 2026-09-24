@@ -376,9 +376,21 @@ The campaign uses Ember's Milestone Points system. No XP is tracked. Advancement
 - Level-up recovers HP, spell slots, and Short/Long Rest features; it does NOT recharge item uses or allow spell swaps
 
 **Point values:**
-- **Main Quest** — ~2 Milestone Points total across its milestone events
+- **Main Quest** — ~2 Milestone Points total across its milestone events (Trollskull Alley 3, Faction Outposts 1, and each lair heist 4 are the exceptions; see the ladder below)
 - **Side Quest** — 1 Milestone Point on completion of its terminal event
 - **Faction Mission** — no Milestone Points. Faction missions in this campaign are supplementary content; their rewards are gold, renown, tangible items, and cross-quest intel. The main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without faction missions.
+
+**Campaign ladder** (reaches the progression table's thresholds exactly):
+
+| Quest | Points | Cumulative | Level |
+|---|:---:|:---:|:---:|
+| Finding Floon | 2 | 2 | 2 |
+| Trollskull Alley | 3 | 5 | 3 |
+| Fireball! | 2 | 7 | 3 |
+| Gralhund Villa | 2 | 9 | 4 |
+| Faction Outposts | 1 | 10 | 4 |
+| Lair heists (each, any order) | 4 | 14 / 18 / 22 / 26 | 5 / 6 / 6 / 7 |
+| Vault of Dragons | 2 | 24 or 28 | 7 (3 heists) or 8 (4 heists) |
 
 **Progression table:**
 

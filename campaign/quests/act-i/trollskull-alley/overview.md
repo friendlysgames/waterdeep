@@ -14,12 +14,13 @@
 >
 > #### Milestone Overview
 >
-> Trollskull Alley awards **2 Milestone Points** total, one per milestone event.
+> Trollskull Alley awards **3 Milestone Points** total, one per milestone event.
 >
 > - **The Factions Come Calling** Event (ev-04): 1 Milestone Point — factions enrolled; renovation financing secured
+> - **The Field of Triumph** Event (ev-05): 1 Milestone Point — tournament completed; renovation nearly funded
 > - **The Grand Opening** Event (ev-06): 1 Milestone Point → Level 3 — Trollskull Manor opens to the public
 >
-> At 4 cumulative Milestone Points the party advances to Level 3. Level-up is instant and party-wide; no Long Rest required.
+> At 5 cumulative Milestone Points the party advances to Level 3. Level-up is instant and party-wide; no Long Rest required.
 
 ## Involved Characters
 

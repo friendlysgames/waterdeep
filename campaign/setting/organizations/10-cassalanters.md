@@ -3,14 +3,14 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **Campaign role:** Villain faction; racing to acquire the vault's gold before the Founders' Day deadline, when their soul pact with Asmodeus comes due.
+> - **Campaign role:** Villain faction; racing to acquire the vault's gold before the twins' ninth birthday, Flamerule 11, when their soul pact with Asmodeus comes due; Founders' Day (Flamerule 1) is the feast date and the party's true deadline.
 > - **Contacts:** **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle** (villa-facing); **Seffia Naelryke** (field operative)
 > - **Villain profile:** see **Cassalanters** in Villains
 > - **Featured in:** **Fireball!**, **Faction Outposts**, **Cassalanter Villa**
 
 ## Operations
 
-Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bargain. The details vary depending on who is speaking. Years ago, they forged a pact with Asmodeus, trading their children's souls for power and prosperity. Their twins, Terenzio and Elzerina, are nine years old. On their tenth birthday, at the Founders' Day feast, the pact comes due.
+Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bargain. The details vary depending on who is speaking. Years ago, they forged a pact with Asmodeus, trading their children's souls for power and prosperity. Their twins, Terenzio and Elzerina, are eight years old. On their ninth birthday, Flamerule 11, the pact comes due. Founders' Day falls ten days before, on Flamerule 1; that is when the Cassalanters plan to collect the ninety-nine souls.
 
 The Cassalanters found a loophole. A ritual can substitute "one shy of a million gold coins" for the children's souls. They have most of the money. They need Neverember's vault to cover the remainder.
 

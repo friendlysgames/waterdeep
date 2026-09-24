@@ -6,7 +6,7 @@
 
 ## Quest Opener
 
-Three years before the Trollskull fireball, Victoro and Ammalia Cassalanter signed a contract with Asmodeus. The terms were specific: Osvaldo, their eldest, age nine — taken immediately, transformed into a chain devil, bound. The twins, Terenzio and Elzerina — souls forfeit on their ninth birthday, one tenday after Founders' Day. The buy-out clause: 999,999 gold pieces and the sacrifice of ninety-nine souls, delivered before the twins' birthday. The Cassalanters had traded their children for time they could not afford and power they could not refuse.
+Three years before the Trollskull fireball, Victoro and Ammalia Cassalanter signed a contract with Asmodeus. The terms were specific: Osvaldo, their eldest, age fifteen — taken immediately, transformed into a chain devil, bound. The twins, Terenzio and Elzerina — souls forfeit on their ninth birthday, one tenday after Founders' Day. The buy-out clause: 999,999 gold pieces and the sacrifice of ninety-nine souls, delivered before the twins' birthday. The Cassalanters had traded their children for time they could not afford and power they could not refuse.
 
 The desperation began with Dagult Neverember. His embezzlement from the city treasury gutted the Cassalanter banking operations — loans underwritten against civic funds that no longer existed. Victoro's investments collapsed in sequence. The family's reputation held because reputation lags reality, but the ledgers told a different story. Ammalia found the path through infernal research: a patron who could restore their fortune and guarantee their children's futures. The contract arrived through a pit fiend intermediary. They signed it together, in the temple beneath their own villa, on a night when Osvaldo was sleeping two floors above.
 
@@ -70,13 +70,13 @@ At least one of these three paths is available to any party regardless of prior 
 
 *Social Event Schedule.*
 
-Waukeentide (Tarsahk 1–10) provides the primary casing and operation windows:
+Waukeentide (Tarsakh 1–10) provides the primary casing and operation windows:
 
-**Caravance (Tarsahk 1).** Gift-giving holiday. The Cassalanters give most staff the night off to celebrate privately with their children. A skeleton crew remains: perimeter guards, Willifort, imp watchers on Osvaldo's door. The primary heist window: minimal staff, the Cassalanters emotionally focused on the twins. After the children sleep, cultists arrive for a midnight gathering in the temple — the Cult Gathering adversary roster applies from midnight to dawn.
+**Caravance (Tarsakh 1).** Gift-giving holiday. The Cassalanters give most staff the night off to celebrate privately with their children. A skeleton crew remains: perimeter guards, Willifort, imp watchers on Osvaldo's door. The primary heist window: minimal staff, the Cassalanters emotionally focused on the twins. After the children sleep, cultists arrive for a midnight gathering in the temple — the Cult Gathering adversary roster applies from midnight to dawn.
 
-**Goldenight (Tarsahk 5).** Businesses open all night, gold-themed celebrations across the city. The Cassalanters host a gala at the villa — 40–60 guests circulating through the entrance hall, ballroom, dining rooms, and butterfly garden. Surveillance opportunity: the crowd provides cover for movement and observation. The Social Event adversary roster applies.
+**Goldenight (Tarsakh 5).** Businesses open all night, gold-themed celebrations across the city. The Cassalanters host a gala at the villa — 40–60 guests circulating through the entrance hall, ballroom, dining rooms, and butterfly garden. Surveillance opportunity: the crowd provides cover for movement and observation. The Social Event adversary roster applies.
 
-**The Waukeentide Charity Ball (Tarsahk 7).** The Cassalanters host a fundraiser for Field Ward reconstruction. This is the primary social-infiltration entry point. The party can attend as guests (if invited through **Fireball!**), infiltrate as servants (guild contractor uniforms from Doom Raider contacts, DC 14 Charisma (Deception) to maintain cover under staff questioning), or arrive as uninvited guests (DC 16 Charisma (Deception) at the door, advantage if the party has a plausible noble cover story). The ball fills the villa's public spaces and provides legitimate cover for being inside the house. The Social Event adversary roster applies.
+**The Waukeentide Charity Ball (Tarsakh 7).** The Cassalanters host a fundraiser for Field Ward reconstruction. This is the primary social-infiltration entry point. The party can attend as guests (if invited through **Fireball!**), infiltrate as servants (guild contractor uniforms from Doom Raider contacts, DC 14 Charisma (Deception) to maintain cover under staff questioning), or arrive as uninvited guests (DC 16 Charisma (Deception) at the door, advantage if the party has a plausible noble cover story). The ball fills the villa's public spaces and provides legitimate cover for being inside the house. The Social Event adversary roster applies.
 
 **Founders' Day (Flamerule 1).** Not a heist window. This is the deadline. The poisoning feast occupies the villa's lawn pavilions. One hundred guests — the city's poorest, invited through Ammalia's Field Ward charity. Jandar prepares the food outside. Ninety-nine cups of wine contain midnight tears. The feast begins at noon. Midnight tears takes effect 24 hours after ingestion — the guests die the following day, scattered across the city, with no visible connection to the Cassalanters. If the party has not acted by this date, the sacrifice occurs.
 
@@ -202,7 +202,7 @@ Victoro and Ammalia do not fight. They break. Ammalia weeps. Victoro drops the s
 
 **C22 — Ammalia's Study.** Third floor, locked (DC 18 Dexterity (Thieves' Tools) or Ammalia's key). A red leather grimoire sits on a lectern — the commune ritual to contact Asmodeus (who responds through a pit fiend proxy), the contract's terms transcribed in Ammalia's handwriting, and marginal notes in increasing desperation. The desk holds Ammalia's spellbook and ten vials of midnight tears poison. A trapdoor in the floor opens to C23 (a closet leading to C24, the attic). The Cassalanter Report on the Grand Game is also here per the Alexandrian overlay — a second placement of the **Kolat Towers** clue document, ensuring that parties who reach C22 but not C6 still find the path to Kolat Towers.
 
-**C24 — Osvaldo's Prison.** The attic. Soundproofed. Accessible via C23 from C22, or via a locked exterior door on the attic level (DC 19 Dexterity (Thieves' Tools)). Inside: a burned pentagram on the floor, abjuration wards glowing faintly, and Osvaldo — a chain devil who was once a nine-year-old boy. He is chained to an iron ring in the floor. Two imps in spider form cling to the rafters.
+**C24 — Osvaldo's Prison.** The attic. Soundproofed. Accessible via C23 from C22, or via a locked exterior door on the attic level (DC 19 Dexterity (Thieves' Tools)). Inside: a burned pentagram on the floor, abjuration wards glowing faintly, and Osvaldo — a chain devil who was once a fifteen-year-old boy. He is chained to an iron ring in the floor. Two imps in spider form cling to the rafters.
 
 Osvaldo is insane. He alternates between the chain devil's combat instincts and fragments of the child he was — calling for his mother, asking why it hurts, then lashing with his chains at anything that moves. He cannot be reasoned with. If the party dispels the abjuration ward (DC 15 Arcana to identify; dispel magic to release), Osvaldo attacks — then stops mid-swing, weeps, and dies. His form dissolves into black ichor. If the infernal contract is later destroyed (Path 2), this death is retroactively a mercy — his soul is freed. If the contract is not destroyed, his soul belongs to Asmodeus.
 
@@ -402,23 +402,23 @@ Each contact reacts to what the party actually did. Four outcome tracks:
 
 ## Milestone and Transition
 
-*Milestone XP.*
+*Milestone Points.*
 
-| Level | Quest | Milestone | XP |
-|:-----:|-------|-----------|---:|
-| 4–6 | **Cassalanter Villa** | The party recovers the Eye of the Stone from Cassalanter Villa | 6,000 |
+| Level | Quest | Milestone | Points |
+|:-----:|-----|-----------|:---:|
+| 4–6 | **Cassalanter Villa** | The party recovers the Eye of the Stone from Cassalanter Villa | 4 |
 
-**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same flat 6,000 XP for completing their heist, regardless of order — all four are entered in any order, at any point after **Faction Outposts**, since outpost chains and lair heists are independently sequenced. Track cumulative XP against the real 2024 level thresholds (2,700 / 6,500 / 14,000 / 23,000); level-ups fire the moment the running total crosses one, which does not require landing on it exactly. This produces a simple, order-agnostic pace: the party's *first* completed heist crosses into level 5, the *second* crosses into level 6, and level 7 requires *all four* — the third heist alone leaves the total short. Since only four heists exist and one of them is always **Kolat Towers**, level 7 is unreachable without it.
+**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same 4 Milestone Points, regardless of order. When a heist is converted to a quest journal, the 4 points sit on four milestone events (1 point each). All four heists can be run in any order at any point after **Faction Outposts**. Track cumulative points against the Milestone Points progression table (L5 at 13, L6 at 18, L7 at 23). The pace is order-agnostic: the *first* completed heist reaches level 5, the *second* reaches level 6, and level 7 requires *all four*, because three heists leave the total one point short. One of the four heists is always Kolat Towers, so level 7 is unreachable without it.
 
-| Heists completed | Cumulative XP | Crosses | Level |
-|:-----------------:|---:|:-----:|:-----:|
-| 0 (post-**Faction Outposts**) | 3,500 | — | 4 |
-| 1 | 9,500 | 6,500 | 5 |
-| 2 | 15,500 | 14,000 | 6 |
-| 3 | 21,500 | — | 6 |
-| 4 | 27,500 | 23,000 | 7 |
+| Heists completed | Cumulative points | Level |
+|:-----------------:|:---:|:-----:|
+| 0 (post-**Faction Outposts**) | 10 | 4 |
+| 1 | 14 | 5 |
+| 2 | 18 | 6 |
+| 3 | 22 | 6 |
+| 4 | 26 | 7 |
 
-These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder. The arc's encounters are calibrated for the full 4th–6th level range this flexibility produces.
+The quest's encounters are calibrated for the full 4th–6th level range this flexibility produces.
 
 This quest's transition is open. The remaining lair heists are available in any order, and the Stone's impressions plus faction debrief intelligence provide organic guidance. The Founders' Day deadline creates pressure without prescribing order.
 

@@ -18,7 +18,7 @@ Inside: a burned pentagram on the floor. Abjuration wards glow faintly around th
 
 At the end of the chains: Osvaldo.
 
-He has the statistics of a chain devil. He is also, somewhere underneath, a nine-year-old boy. He alternates between states — the chain devil's combat readiness, then a sudden stillness, then a child's voice: "Mama?" Then the chains lash again.
+He has the statistics of a chain devil. He is also, somewhere underneath, a fifteen-year-old boy. He alternates between states — the chain devil's combat readiness, then a sudden stillness, then a child's voice: "Mama?" Then the chains lash again.
 
 **Two imps in spider form** cling to the rafters above the ring. They are passive observers during normal attic operations, reporting to Ammalia through a one-way telepathic bond. They attack if Osvaldo is directly threatened or if the party attempts to dispel the containment wards.
 

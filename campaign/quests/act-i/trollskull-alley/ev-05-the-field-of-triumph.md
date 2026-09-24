@@ -12,7 +12,7 @@
 > - Xanathar Guild makes unsolicited contact after the final bout; the party receives a token
 > - Emmek's Stages 2–3 can trigger if the renovation has opened staff hiring
 >
-> This Event has no milestone.
+> **Milestone: 1 Milestone Point** — the party completes the tournament; the renovation is nearly funded.
 
 ### The Tournament Invitation
 
@@ -101,6 +101,10 @@ The party brought the token and the scout's approach to a faction. The faction g
 > #### Next Steps
 >
 > The renovation continues. The tournament winnings have closed most of the financing gap. The party is now known at the Field of Triumph, which means they are known across the Sea Ward and by every faction with Noble connections. Proceed to **The Grand Opening** Event.
+>
+> #### Milestone: The Field of Triumph
+>
+> Completing this Event awards 1 Milestone Point. The party fought all four rounds, win or lose, and the prize purses have nearly closed the renovation gap.
 
 ## Overview
 

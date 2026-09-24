@@ -22,7 +22,7 @@ The first thing the party does, consciously or not, is establish where the Stone
 >
 > #### Milestone: The Stone of Golorr — 1 Point
 >
-> If the Stone of Golorr is in party hands at the opening of this event, award 1 Milestone Point. Cumulative total: 10. **The party reaches Level 4.**
+> If the Stone of Golorr is in party hands at the opening of this event, award 1 Milestone Point. Cumulative total: 9. **The party reaches Level 4.**
 >
 > Level 4 triggers immediately — no Long Rest required. The party recovers HP, spell slots, and Short/Long Rest features. Item uses and spell preparations are unchanged.
 >
@@ -106,7 +106,7 @@ Nothing else. No instructions. No conditions stated.
 >
 > This is not charity. It is the most effective possible investment in a relationship he has already decided will be valuable.
 >
-> **Milestone 2 fires when the package is opened.** The Stone in party hands triggers the Milestone regardless of when in the event it arrives. Award 1 Milestone Point now. Cumulative total: 10 → **Level 4.**
+> **Milestone 2 fires when the package is opened.** The Stone in party hands triggers the Milestone regardless of when in the event it arrives. Award 1 Milestone Point now. Cumulative total: 9 → **Level 4.**
 
 ### Faction Debriefs
 
@@ -163,7 +163,7 @@ Record whether Yalah was taken by the Watch. If True, she is in Castle Waterdeep
 >
 > #### Milestone: The Stone of Golorr — 1 Point (conditional)
 >
-> If the Stone of Golorr is in party hands at the opening of this Event, award 1 Milestone Point. Cumulative total: 10 → **Level 4**.
+> If the Stone of Golorr is in party hands at the opening of this Event, award 1 Milestone Point. Cumulative total: 9 → **Level 4**.
 >
 > This Milestone was listed at the top of this Event. It does not fire again here; this entry is a cross-reference.
 

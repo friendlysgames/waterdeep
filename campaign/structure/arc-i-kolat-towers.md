@@ -286,23 +286,23 @@ Three values; this flag is read directly in **Vault of Dragons**.
 
 ## Milestone and Transition
 
-*Milestone XP.*
+*Milestone Points.*
 
-| Level | Quest | Milestone | XP |
-|:-----:|-----|-----------|---:|
-| 4–7 | Kolat Towers | The party completes the Kolat Towers raid | 6,000 |
+| Level | Quest | Milestone | Points |
+|:-----:|-----|-----------|:---:|
+| 4–7 | Kolat Towers | The party completes the Kolat Towers raid | 4 |
 
-**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same flat 6,000 XP for completing their heist, regardless of order. Kolat Towers holds no Eye, so it is never required to reach **Vault of Dragons** — but it is the only way to be the party's *fourth* completed heist, and level 7 requires all four (crossing the real 23,000 cumulative threshold; see the table below). A party that skips it never accumulates enough XP to cross that threshold and is capped at level 6 for the rest of the campaign, however many of **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire** they complete. A party that runs it — first, second, third, or last — is simply counting it toward that fourth slot.
+**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** each award the same 4 Milestone Points, regardless of order. When a heist is converted to a quest journal, the 4 points sit on four milestone events (1 point each). All four heists can be run in any order at any point after **Faction Outposts**. Track cumulative points against the Milestone Points progression table (L5 at 13, L6 at 18, L7 at 23). The pace is order-agnostic: the *first* completed heist reaches level 5, the *second* reaches level 6, and level 7 requires *all four*, because three heists leave the total one point short. One of the four heists is always Kolat Towers, so level 7 is unreachable without it.
 
-| Heists completed | Cumulative XP | Crosses | Level |
-|:-----------------:|---:|:-----:|:-----:|
-| 0 (post-**Faction Outposts**) | 3,500 | — | 4 |
-| 1 | 9,500 | 6,500 | 5 |
-| 2 | 15,500 | 14,000 | 6 |
-| 3 | 21,500 | — | 6 |
-| 4 | 27,500 | 23,000 | 7 |
+| Heists completed | Cumulative points | Level |
+|:-----------------:|:---:|:-----:|
+| 0 (post-**Faction Outposts**) | 10 | 4 |
+| 1 | 14 | 5 |
+| 2 | 18 | 6 |
+| 3 | 22 | 6 |
+| 4 | 26 | 7 |
 
-These are the real 2024 rulebook XP thresholds — this is RAW milestone XP (a real, tracked number awarded per achievement, leveling up on the standard cumulative table), not a custom ladder.
+The quest's encounters are calibrated for the 4th–7th level range this flexibility produces.
 
 **Kolat Towers**'s transition is not open-ended in the same way as prior lair heists. The remaining task is **Vault of Dragons**. The intelligence haul — Manshoon's Report on the Grand Game, the Blackmail Ledger, the partial command phrase — feeds directly into **Vault of Dragons** preparation. If the party completes **Kolat Towers** with all three Eyes restored, **Vault of Dragons** launches immediately.
 

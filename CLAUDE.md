@@ -135,11 +135,11 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `session-zero.md` | Full session zero script: campaign pitch, gold question, contract, safety tools |
 | `debts-of-the-city.md` | Superset of player version; adds Holder guidance, Warning callouts, Design Note |
 | `bonds-and-flaws.md` | Superset of player version; adds GM Notes table of where each Flaw lands in the campaign |
-| `adventure-summary.md` | Four-act overview table, dramatic arc per act, milestone pacing notes |
-| `structural-rules.md` | Two Zhentarims, faction response teams, festival calendar, Three Clue Rule, fireball victim, faction state tracking |
-| `grand-game-in-play.md` | Starting faction knowledge, escalation tiers (1–5), inter-faction conflict, when factions back down |
+| `adventure-summary.md` | Four-act overview table, one paragraph per act, Milestone Points ladder |
+| `structural-rules.md` | Two Zhentarims, faction response teams, campaign calendar (Ches 1 start, Ches 20 Grand Opening, Tarsakh 20, Flamerule 1 and 11), Three Clue Rule, fireball victim |
+| `grand-game-in-play.md` | Between-sessions procedure: weekly faction check, faction state tracking, escalation pace, inter-faction conflict, when factions back down |
 | `player-factions-overview.md` | Six standard factions + Bregan D'aerthe unique mechanic; conflicting loyalties overview; renown rules and faction-mission preamble |
-| `running-the-villains.md` | Grand Game overview, running four villains, MacGuffin chain, starting knowledge, escalation (four tiers Unaware/Suspicious/Alert/Lockdown), inter-faction operations |
+| `running-the-villains.md` | Villain reference: Grand Game overview, MacGuffin chain, starting-knowledge table, escalation table (four tiers Unaware/Suspicious/Alert/Lockdown), inter-faction operations |
 | `design-notes-running-the-campaign.md` | Macro design notes: simultaneous villains, heist framework, distributed Eyes, manor, fireball, Founders' Day, Jarlaxle's hidden identity, gold resolution, Aurinax; "Omitted NPCs" section |
 
 **Trollskull Manor Guide** (`campaign/guides/trollskull-manor/`)
@@ -210,11 +210,11 @@ This section captures key design decisions from the active structure documents (
 
 ### Faction Outposts
 
-Nine scenes: Stone attunement, faction consultation, structural guide, four faction outpost sections, response teams, aftermath/debriefs. 10 outposts across four factions (4 mini-heist, 6 encounter-plus). Baked-in escalation system; independent chain entry paths; Founders' Day clock; Manshoon name reveal. **2 Milestone Points** (does not by itself reach Level 5 — see heist-phase milestone ladder in the four lair heists).
+Nine scenes: Stone attunement, faction consultation, structural guide, four faction outpost sections, response teams, aftermath/debriefs. 10 outposts across four factions (4 mini-heist, 6 encounter-plus). Baked-in escalation system; independent chain entry paths; Founders' Day clock; Manshoon name reveal. **1 Milestone Point**, for the first completed outpost chain (cumulative 10; does not reach Level 5 — see the heist-phase ladder in the four lair heists).
 
 ### Xanathar's Lair
 
-Six scenes: Intelligence Briefing, Casing the Target, Preparation, The Operation, Complications and Escape, Aftermath. Panopticus surveillance mechanic; three entry methods; pre-set Xanathar location table; 15 keyed areas including Nihiloor's domain (X23–X27) with Splinter intel; Jarlaxle simultaneous heist (5-row interaction matrix); smokepowder demolition option; Stone of Golorr 1-Eye awakening (voice, impressions, agenda); variable difficulty by escalation tier; cross-quest clue pipeline to Cassalanter Villa, Sea Maidens Faire, and Kolat Towers. **Heist Milestone Points**: order-agnostic — 1st heist → Level 5, 2nd → Level 6, all 4 → Level 7 (Kolat Towers is always one of the four, so Level 7 requires it). 4th–6th level.
+Six scenes: Intelligence Briefing, Casing the Target, Preparation, The Operation, Complications and Escape, Aftermath. Panopticus surveillance mechanic; three entry methods; pre-set Xanathar location table; 15 keyed areas including Nihiloor's domain (X23–X27) with Splinter intel; Jarlaxle simultaneous heist (5-row interaction matrix); smokepowder demolition option; Stone of Golorr 1-Eye awakening (voice, impressions, agenda); variable difficulty by escalation tier; cross-quest clue pipeline to Cassalanter Villa, Sea Maidens Faire, and Kolat Towers. **Heist Milestone Points**: 4 per heist, order-agnostic — 1st heist → Level 5, 2nd → Level 6, all 4 → Level 7 (Kolat Towers is always one of the four, so Level 7 requires it). 4th–6th level.
 
 ### Cassalanter Villa
 
@@ -222,7 +222,7 @@ Six scenes (same structure as Xanathar's Lair). Social exposure system (4-stage:
 
 ### Sea Maidens Faire
 
-Six scenes (same structure as Xanathar's Lair). Caper heist genre (three-beat: Something Goes Wrong → Escalation → Confrontation or Escape); three resolution paths (heist/alliance/patron); three entry methods (carnival cover, harbor approach via Zelifarn, supply delivery); 15 keyed areas (10 Eyecatcher + 5 Scarlet Marpenoth); Zardoz Betrayal Pitch (conditional on BD membership or prior Jarlaxle contact); Manshoon parallel strike (6-row interaction matrix, always fires); Zelifarn crystal ball moral thread; Stone of Golorr 3-scenario upgrade (order-agnostic, includes Full Awakening); Tarsahk 20 departure deadline; outcome-branched faction debriefs (5 BD states); Three Clue Rule paths to Cassalanter Villa, Xanathar's Lair, and Kolat Towers. 4th–6th level.
+Six scenes (same structure as Xanathar's Lair). Caper heist genre (three-beat: Something Goes Wrong → Escalation → Confrontation or Escape); three resolution paths (heist/alliance/patron); three entry methods (carnival cover, harbor approach via Zelifarn, supply delivery); 15 keyed areas (10 Eyecatcher + 5 Scarlet Marpenoth); Zardoz Betrayal Pitch (conditional on BD membership or prior Jarlaxle contact); Manshoon parallel strike (6-row interaction matrix, always fires); Zelifarn crystal ball moral thread; Stone of Golorr 3-scenario upgrade (order-agnostic, includes Full Awakening); Tarsakh 20 departure deadline; outcome-branched faction debriefs (5 BD states); Three Clue Rule paths to Cassalanter Villa, Xanathar's Lair, and Kolat Towers. 4th–6th level.
 
 ### Kolat Towers
 
@@ -304,7 +304,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Encounter math:** Always use `cr2-encounter-builder` (CR 2.0 system). Never use the DMG XP system.
 
-**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests award 1 point. Faction Missions award no Milestone Points — the main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without them; faction rewards are gold, renown, items, and cross-quest intel. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
+**Milestone Points:** No XP is tracked. Each milestone-bearing Event awards 1 Milestone Point to the whole party (including absent players). Main Quests award ~2 points total; Side Quests award 1 point. The campaign ladder (Ember's table, L8 at 28): Finding Floon 2, Trollskull Alley 3, Fireball! 2, Gralhund Villa 2 (L4 at 9), Faction Outposts 1, each lair heist 4 (1st → L5, 2nd → L6, 4th → L7), Vault of Dragons 2 (3-heist parties end at L7, 4-heist parties at L8). Faction Missions award no Milestone Points — the main quest ladder (Finding Floon through Vault of Dragons) covers the full 1→8 progression without them; faction rewards are gold, renown, items, and cross-quest intel. Level-up is instant and party-wide when the cumulative threshold is reached — no Long Rest required. See the Milestone Points System section in `adventure-reloaded` for the full progression table and level-up rules.
 
 ### Writing Process
 

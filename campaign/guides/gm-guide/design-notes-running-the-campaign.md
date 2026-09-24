@@ -1,58 +1,112 @@
 # Design Notes: Running the Campaign
 
-> Structuring draft. Content migrated from ch3-running-the-campaign.md.
+These notes assume you've run or read the original Dragon Heist and want the reasoning behind this remix's departures, not just a list of them. Each section names what the original did, why it created problems at the table, and what replaced it.
 
 ---
 
-# Design Notes: Running the Campaign
+## Why Simultaneous Villains
 
-**Purpose:** The macro-level design note section — the "why" behind every major structural decision in the campaign architecture. Each note explains what was wrong with the original, what replaced it, and what the replacement accomplishes. Written for a DM who has read Dragon Heist, heard community opinions about it, and wants to understand the intent behind the remix's departures.
+Dragon Heist ships with four villain factions and tells you to pick one. The season-villain structure has a real argument behind it: one villain means a cleaner arc, a defined antagonist, and a campaign that doesn't ask the GM to track four competing agendas at once.
 
-**Content:**
+It also costs you the thing that makes Waterdeep interesting.
 
-*Why Simultaneous Villains*
+The City of Splendors is, canonically, a place where every power that matters watches every other power, waiting for an opening. When you pick a season villain, you convert that political texture into a genre piece: a crime drama where the Dragon Cult is running things this year. The other three factions become background noise. A campaign where Jarlaxle is the season villain isn't a Dragon Heist campaign; it's a Jarlaxle story. The city feels smaller than it should.
 
-The original Dragon Heist uses a "season villain" structure — one villain faction per run-through. This is addressed directly and the decision explained: what the season structure accomplishes (cleaner focus, dedicated arc), what it costs (players lose the political texture of competing factions, the city feels less alive, the specific villain chosen skews the campaign's tone uncontrollably). The remix's choice to feature all four simultaneously is argued on three grounds: it makes Waterdeep feel like a genuine power struggle rather than a scripted encounter chain; it creates organic player agency when PCs can pick which faction to hit first; and it means no single villain defines the campaign's identity.
+The remix runs all four simultaneously for three reasons. First, a city where four powerful factions are genuinely competing gives players organic reasons to act without the plot needing to push them. If the Cassalanters are poisoning people, Xanathar is having informants killed, and Manshoon is blackmailing city officials, the party doesn't need a quest to care. Second, four-faction play creates genuine choice: which lair do you hit first? Whose Eye do you trade for an alliance? A single-villain campaign has only one answer to those questions. Third, no single villain defines the campaign's identity, which means it can accommodate different playstyles at once. The group that wants political intrigue gets it through the Cassalanters; the group that wants dungeon delving gets it through Xanathar's Lair.
 
-*Why the Heist Framework*
+The overhead is real. The faction state tables in **Running the Villains** exist because you need them. If tracking four escalation states feels like too much, there's a lighter approach: let the factions escalate automatically on a calendar, skip the response-team mechanics, and only track the flags that directly affect whichever heist the party is currently running. The full system is there for GMs who want it; the stripped version still runs four active villains.
 
-Dragon Heist is marketed as a heist but plays as an investigation followed by a dungeon. The structural decision to reorganize Act III around the five-step heist framework is explained here: Identify Score, Gather Info, Surveillance, Prep, Operation — applied consistently across all four lairs with distinct genres (dungeon infiltration, social infiltration, caper, raid). This ensures mechanical variety and rewards player investment in planning rather than punishing it.
+---
 
-*Why the Eyes Are Distributed*
+## Why the Heist Framework
 
-The original has one MacGuffin (the Stone of Golorr) passed between factions. The remix distributes the three Eyes separately, requiring the PCs to penetrate multiple lairs. The design note explains this decision: a single MacGuffin creates a single bottleneck; three Eyes mean PCs must engage all four factions rather than focusing on one; the distribution also creates negotiation currency (trade an Eye for an alliance, use an Eye as bait, steal an Eye twice if necessary).
+Dragon Heist is marketed as a heist campaign. The original is an investigation that ends in a dungeon: **Fireball!** sends the party chasing clues about a construct, which leads to the Stone of Golorr, which leads to a faction confrontation at Gralhund Villa, which eventually leads to a faction lair. The party arrives and fights through it. Nothing about that is wrong, but calling it a heist raises expectations the design doesn't meet.
 
-*Why Trollskull Manor*
+We apply a five-step framework to every Act III lair: Identify the Score, Gather Information, Surveillance, Preparation, and Operation. The framework solves a specific problem. The original design rewards players who engage with faction politics but does almost nothing for players who ask good questions, case the target, and plan their approach. Under the heist framework, planning pays off. A party that does careful surveillance of Cassalanter Villa gets better entry options and intelligence on Willifort's detect thoughts range. A party that wings it still has a path through, but they spend more of the operation improvising rather than executing a plan they built.
 
-The original gives the PCs Trollskull Manor as a reward after **Finding Floon** but provides limited mechanical reason to invest in it. This note explains the motivation engineering decision: the manor creates something the PCs care about protecting before the fireball destroys it; the neighborhood relationships developed in **Trollskull Alley** become the emotional cost of **Fireball!**; the Trollskull community is the campaign's human stakes made concrete. Without this investment, the fireball is just a plot event.
+The four lairs run as four distinct genres. Xanathar's Lair is dungeon infiltration: break into an underground complex with a beholder at the center. Cassalanter Villa is social infiltration: work within a functioning household whose owners are watching you back. Sea Maidens Faire is a caper: the thing that's supposed to go wrong goes wrong in the first act, and you adapt in real time. Kolat Towers is a raid: Manshoon isn't a puzzle, he's an obstacle, and the question is whether you can take him. Different player instincts dominate different genres, so the heist phase plays differently from session to session rather than feeling like four iterations of the same map.
 
-*Why the Fireball Must Kill Someone*
+One approach we considered and rejected: treating the entire lair phase as a single mega-heist where the party collects all three Eyes in one operation. That destroys genre variety, collapses the pacing, and loses the Stone's gradual awakening, which is designed to unfold across three separate lair confrontations. Three Eyes across three heists is the right structure.
 
-The fireball that opens **Fireball!** is a story beat in the original — notable but not devastating. This design note argues that the fireball must kill or destroy a named NPC the players bonded with during **Trollskull Alley**. The text does not name the victim — the DM identifies them. This is non-negotiable motivation engineering: personal loss converts a civic investigation into a personal crusade. The three clue paths to the nimblewright remain, but the players pursue them with urgency rather than obligation.
+---
 
-*Why Founders' Day Is a Hard Deadline*
+## Why the Eyes Are Distributed
 
-Ammalia Cassalanter's deadline does not appear in the infernal contract — it is her own calculation. The design note explains why this matters: it is a morally significant detail. The Cassalanters are not working to a devil's timetable; they are working to a mother's calculation of how fast her children's souls are eroding. This makes the deadline simultaneously more flexible (it could be wrong) and more urgent (there is no appeal). The note also explains why Founders' Day was chosen over other dates: it is late enough in the campaign year to give PCs time, early enough that it creates genuine pressure before Act IV, and its civic significance makes the sacrifice narratively resonant.
+The original Stone of Golorr is a single MacGuffin passed between factions. The party recovers it, opens the vault, done. This works fine for a four-session endgame, but it creates a single bottleneck: whoever holds the Stone controls the campaign's third act.
 
-*Why the Nimblewright Thread Leads to Jarlaxle*
+Splitting the three Eyes across three separate lairs accomplishes three things. The party must engage all four factions rather than concentrating on the one that currently holds the Stone; even a party that despises the Cassalanters still has to get inside their villa to recover Eye #2. The distribution creates negotiation currency: trade an Eye for an alliance, offer one as bait, lose one to a rival faction and steal it back. And the Stone's gradual awakening (fragmentary impressions at one Eye, a partial map at two, the Full Awakening at three) gives the party a reason to invest in each lair heist independently rather than treating the first two as obstacles between themselves and the vault.
 
-Bregan D'aerthe recruits during **Trollskull Alley**, alongside every other player faction. Any PC can join. J.B. Nevercott's visit to Trollskull Manor happens in every campaign where the party hasn't severed contact — which means Jarlaxle is already operating in the city from Act I, through a persona that commits to nothing and explains nothing.
+This requires one thing from you: keep track of which faction holds which Eye, and make sure players understand that all three are necessary. The Stone's partial awakenings handle most of the exposition: each one leaves an impression that confirms another Eye exists and points a direction. Trust the impressions to do their job.
+
+---
+
+## Why Trollskull Manor
+
+The original gives the party Trollskull Manor after **Finding Floon** as a practical reward: you have a home base, go renovate it. The problem is that a home base is only meaningful if losing something there costs something. The original fireball is a plot event. The party investigates it because it's the next chapter, not because the explosion killed someone they knew.
+
+**Trollskull Alley** exists to spend the investment **Fireball!** is going to need. The Trollskull community gets built out over the course of Act I specifically so the fireball can destroy something the party cares about. This is motivation engineering, and it requires patience: the GM has to invest several sessions in neighborhood relationships before the payoff lands.
+
+If the party treats Trollskull Alley as a logistics quest (renovate the tavern, hire staff, collect the revenue), the fireball lands as a logistics problem. If they treat it as a slice-of-life arc (build actual relationships with neighbors, get into community drama, care whether Fala's apothecary survives the month), the fireball converts a civic investigation into a personal crusade. The design tries to create conditions for the second outcome, but it's table investment that makes the difference.
+
+---
+
+## Why the Fireball Must Kill Someone
+
+The fireball in **Fireball!** kills a named NPC from the Trollskull community. This isn't optional.
+
+The three clue paths to the nimblewright exist regardless of who died. What the victim changes is whether the party follows those clues out of obligation or urgency. Obligation produces an investigation campaign that moves at plot speed. Urgency produces one that moves at player speed. The campaign is designed for the second.
+
+You identify the victim by observation during **Trollskull Alley**, not by rolling dice. Six candidates exist: Fala Lefaliir, Tally Fellbranch, Floon Blagmaar, Lif if appeased, a hired staff member, or a PC backstory NPC. Watch which NPC the party has spent the most time with, whose presence they take for granted, whose absence would register as a loss. That NPC dies in the blast. The attunement flag locks in before ev-07 ends; see **Trollskull Alley** for the full candidate list and the consequence that if Fala dies, Tally becomes the **Fireball!** witness.
+
+One practical note: the victim should be named to the party through someone else's grief before the investigation formally begins. A neighbor weeping over a body creates emotional context that a list of casualties doesn't. Let the death land before the mystery starts.
+
+---
+
+## Why Founders' Day Is a Hard Deadline
+
+The contract Victoro and Ammalia Cassalanter signed with Asmodeus specifies its terms: 999,999 gold pieces and ninety-nine souls, delivered before the twins' ninth birthday on Flamerule 11. The birthday is the contract's hard deadline.
+
+Founders' Day is different. Ammalia chose Flamerule 1 as her operational window for the soul collection. The plan: invite one hundred of Waterdeep's poorest to a charitable feast on the villa's lawn pavilions, administer midnight tears through ninety-nine cups of wine, and let the guests go home. They die the next day, scattered across the city, with no visible connection to the Cassalanters. Founders' Day works as a cover because a civic celebration makes Ammalia's invitation to the poor unremarkable, because her established charity work makes the feast plausible, and because ten days before the birthday is the last window that still allows time to verify the contract terms are met.
+
+The feast is the party's real deadline. Stop the feast and the soul half of the buy-out fails, regardless of what happens with the gold. Let the feast proceed and ninety-nine people are already dead, regardless of whether the party later destroys the contract. The birthday is ten days away on Flamerule 1, but by then the irreversible harm has already been done.
+
+Why Founders' Day rather than some other date? Because the feast's civic resonance is not incidental. A celebration of Waterdeep's founding, attended by its most vulnerable citizens, provides the perfect cover for a Cassalanter sacrifice. Ammalia is not blind to the symbolism. She's spent years learning not to look at it too closely.
+
+---
+
+## Why the Nimblewright Thread Leads to Jarlaxle
+
+Bregan D'aerthe recruits during **Trollskull Alley**, alongside every other player faction. Any PC can join. J.B. Nevercott's visit to Trollskull Manor happens in every campaign where the party hasn't severed contact, which means Jarlaxle is already operating in the city from Act I, through a persona that commits to nothing and explains nothing.
 
 What the nimblewright thread answers is who J.B. Nevercott is. The **Fireball!** investigation leads from the construct's origin to the Sea Maidens Faire, where Jarlaxle's carnival is the source. The moment the party connects the haberdasher to Zardoz Zord, and Zardoz Zord to the man behind the nimblewrights, is the reveal the campaign has been building toward. A party that joined Bregan D'aerthe in Act I has been working for a man whose full scope they didn't yet understand. That's the payoff.
 
-Jarlaxle's villain activity keys off the **Jarlaxle Informed** flag, set in **Fireball!** and read in **Gralhund Villa**. Faction membership doesn't escalate him — the flag does. A party that skips the nimblewright thread finds a Jarlaxle who stays in the background: useful, occasionally present, never dominant. The campaign has three complete villain arcs without him at the fore.
+Jarlaxle's villain activity keys off the **Jarlaxle Informed** flag, set in **Fireball!** and read in **Gralhund Villa**. Faction membership doesn't escalate him; the flag does. A party that skips the nimblewright thread finds a Jarlaxle who stays in the background: useful, occasionally present, never dominant. The campaign has three complete villain arcs without him at the fore.
 
 The Three Clue Rule obligation holds: at least three independent paths to the Sea Maidens Faire must be available, and at least one must be passive. The Faire is where the unmasking happens and where Eye #3 is held.
 
-*Why the Gold Is Not Given to the City*
+---
 
-**Vault of Dragons** produces 500,000gp. The original adventure suggests returning it to Waterdeep as the most heroic outcome. This design note argues against structuring **Vault of Dragons** around this expectation: the players must have genuine agency over the gold for the campaign's moral questions to have weight. The note explains all five resolution paths (keep, return, distribute, use for a specific purpose, trade to a faction) and what each one means for the political aftermath. The DM is told explicitly: do not railroad the gold away from the players. The consequences of keeping it should be dramatic, not punitive.
+## Why the Gold Is Not Given to the City
 
-*Why Aurinax Is Given a Moral Complexity*
+The original adventure treats returning the 500,000 gp to Waterdeep as the most heroic outcome and shapes **Vault of Dragons**'s resolution around it. This remix treats the gold as a genuine choice.
 
-The gold dragon guardian in the vault is rewritten from a straightforward obstacle into a character with a genuine crisis. The design note explains what was wrong with the original (a guardian who exists only as an encounter) and what the rewrite accomplishes: a good dragon who has spent decades keeping a corrupt politician's secret deserves to be more interesting than his stat block. Aurinax can be reasoned with. His attitude toward the vault's purpose has shifted. How PCs approach him should determine whether he is an obstacle, a complication, or an unexpected ally.
+The gold needs to feel like a genuine decision, one with multiple valid answers. **Vault of Dragons** Scene 6 offers five paths. The Cassalanters arrive with carts if the cooperative relationship was maintained, providing fast extraction with strings attached. The party arranges their own transport and keeps the gold, with any surviving response teams repurposed to complicate the extraction. Laeral Silverhand makes a single polite offer to accept the hoard's return in exchange for a 10% finder's fee (50,000 gp); she asks once and accepts the answer. The party leaves the gold in place and draws on it as needed, which the source material calls "incredibly clever" and which the Stone's memory-erasure ritual can make permanent. Or the gold's existence becomes a bargaining chip: trading knowledge of the hoard's location for favors, without anyone moving a coin.
 
-**Tone:** Direct, engaged, occasionally personal. Design notes address the DM as a peer with opinions about Dragon Heist and give them a real argument. When a popular community fix was considered and rejected, that rejection is named and explained.
+Don't railroad the gold away from the players. The consequences of keeping it should be dramatic, not punitive: response teams, political pressure, the logistics of moving 10,000 pounds of wealth through Waterdeep. A party that earned 500,000 gp deserves to decide what to do with it.
+
+Players will propose other ends for the money, and each one runs through a path that already exists. A party that gives the gold away to the city's poor first has to move it, so run the transport path and its complications, then hand it out. A party that trades the gold to a faction is running the political-leverage path, with the coin in the deal instead of the location. Neither needs new machinery.
+
+---
+
+## Why Aurinax Has Moral Complexity
+
+The original Aurinax is a guardian who blocks the vault. He's explicitly described as a combat encounter.
+
+That framing wastes a good character. Aurinax is a gold dragon who swore an oath to Dagult Neverember and spent years in the dark beneath a mausoleum waiting for an authorization that grows less likely every month. Neverember is publicly exiled, his authority to bind such oaths stripped with him. The dragon has had a long time to think about what a promise to a corrupt man still means, and he doesn't have a clean answer.
+
+Four resolution paths exist, none of them predetermined by the DM. Oath-release is what Aurinax wants and will accept without a fight: Renaer Neverember presented formally, the Masked Lord's Writ from **Lords' Alliance** Mission 6, or the release phrase from the Stone's Full Awakening all constitute genuine authority in his eyes. Negotiation without release requires a DC 18 Charisma (Persuasion) check; he can be talked into a partial concession, with advantage if Vajra or a Bahamut worshiper is present. Legal argument is the most interesting path: Neverember's exile is public record, and a party willing to argue that a disgraced lord's binding oath has lapsed gives Aurinax permission to agree with something he already half-believes. Combat is available because Aurinax defends himself, the dragonstaff, and the gold, but he won't initiate, won't chase a retreating party, and can't be intimidated. His Legendary Resistance defeats charm attempts outright.
+
+Run all four as live possibilities. The party that earned a Writ gets the clean ending. The party that argues the case gets to feel like they talked their way past a dragon on the merits. The party that fights understands they chose the expensive path. Let the party's approach determine which ending they get.
 
 ---
 
@@ -75,13 +129,9 @@ These NPCs appear in quests but have no Notable Figures page, by design:
 
 ---
 
-## Source References
-
-- `ch3-running-the-campaign.md` Section 2: "Design Notes: Running the Campaign"
-- `22. How the Remix Works.pdf` — primary structural reference for the remix's design philosophy
-
 ## Cross-References
 
 - [Adventure Summary](adventure-summary.md) — campaign structure that these design decisions produced
 - [Structural Rules](structural-rules.md) — the mechanics these decisions generated
-- [Grand Game in Play](grand-game-in-play.md) — how simultaneous villains operate in practice
+- [The Grand Game in Play](grand-game-in-play.md) — how simultaneous villains operate in practice
+- [Running the Villains](running-the-villains.md) — the four-faction escalation system in detail

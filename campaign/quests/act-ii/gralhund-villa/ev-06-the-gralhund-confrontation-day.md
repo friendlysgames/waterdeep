@@ -113,7 +113,7 @@ Record whether the party holds the Stone at the close of this confrontation. Tru
 >
 > #### Milestone: The Confrontation — 1 Point
 >
-> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 9.
+> The party engaging the confrontation with Lady Yalah Gralhund in G16 awards 1 Milestone Point. Cumulative total: 8.
 
 ## Overview
 

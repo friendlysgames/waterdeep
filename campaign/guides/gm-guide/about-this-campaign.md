@@ -3,7 +3,7 @@
 Welcome to Waterdeep. Before you build a character, know what kind of game this is. It asks a lot of its players: patience, curiosity, and a willingness to follow the city's factions into territory you didn't plan for.
 
 > [!info]**How to Read This Guide**
-> This is the GM superset of the Players' Guide page; everything above/around is safe to share. GM-only notes live in the `> **[GM]**` zone below.
+> This page contains the full Players' Guide text plus GM-only sidebars and a GM section at the end. The player text, everything through "Who This Campaign Suits", is safe to share with your table. The sidebars and the "Running It for Your Table" section are not.
 
 ## The Three Pillars
 
@@ -28,20 +28,23 @@ It's built for tables that enjoy exploring a living city: walking its wards, fol
 
 It's not built for tables that want a primary combat focus. Fights happen, and some of them are dangerous, but they are rarely the fastest or smartest way through a problem. It's also not built for tables that want a clear, guided throughline from scene to scene. We won't always tell you what to do next; figuring that out is part of the game. If your table wants a tightly scripted story with a single villain and a predictable rhythm of encounters, this isn't that campaign, and it's better to know that now than three sessions in.
 
-> **[GM]**
->
-> #### GM Notes
->
-> **DM Private Note (do NOT share with players):** This campaign contains deaths of bonded NPCs, infernal bargains with irreversible consequences, and a villain whose motivations are genuinely sympathetic. None of these should be spoiled at session zero — they land precisely because players do not see them coming.
->
-> Key content categories to handle carefully:
-> - A named NPC the players bonded with in **Trollskull Alley** dies in the fireball (**Fireball!** opening)
-> - The Cassalanters made an infernal bargain that is irreversible; their motives are comprehensible; this is intentional
-> - Osvaldo Cassalanter was a person before he was a chain devil; his parents visit him
-> - The vault gold's moral status is deliberately ambiguous — the campaign must not telegraph a "correct" resolution
+## Running It for Your Table
+
+The deaths in this campaign land because the players don't see them coming. A named NPC they've spent sessions with dies at the opening of **Fireball!**, and the loss hits precisely because **Trollskull Alley** gave them time to care. Don't foreshadow it. Don't soften it. The Session Zero script names the content categories without naming the moments, and that is all the warning the table needs. Trust the investment the players have already made.
+
+Play the Cassalanters as people who love their children. Victoro and Ammalia made a catastrophic bargain before their eldest son was old enough to understand what his parents were doing to him. Osvaldo was fifteen. He is a chain devil now, chained in a soundproofed attic, and his mother still comes to read to him. Their love is real; their plan is monstrous; the gap between those two things is the whole point. When players understand it, some will want to help, some will want to stop the poison and let the twins die, and some will be unable to choose. All of those responses are valid. Play the Cassalanters straight — sympathetic motives, genuine evil, no winking at the camera — and trust the players to sit with the discomfort.
+
+The vault gold's resolution is deliberately left open. Half a million dragons embezzled from the city end up in your players' hands, and every path out of that vault has a credible moral case behind it. Let the session end with the characters standing among the gold, making a decision that says something about who they've become over a year of play. Don't nudge them toward any one answer.
+
+> [!warning]**Keep These From the Table**
+> None of these are disclosed at session zero. They work because players don't see them coming.
+> - A named NPC the party bonded with in **Trollskull Alley** dies at the opening of **Fireball!**
+> - The Cassalanters made an infernal bargain that is irreversible. Their motives are comprehensible. Both things are true, and that is intentional.
+> - Osvaldo Cassalanter was a person before he was a chain devil. He was fifteen. His mother still visits him.
+> - The vault gold's moral status is deliberately ambiguous. Don't telegraph a correct resolution.
 
 ## Cross-References
 
-- [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) — player-facing version (no DM notes)
+- [Players' Guide: About This Campaign](../players-guide/about-this-campaign.md) — player-facing version (no GM sidebars or GM section)
 - [Session Zero](session-zero.md) — full session zero script
 - [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — macro structural reasoning
