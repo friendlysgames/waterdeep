@@ -26,7 +26,7 @@ Some rows fire on a calendar tenday; others fire in the first tenday after a que
 |---|---|---|---|
 | Ches 21–30, after the fireball | Tally Fellbranch, Embric & Avi, Fala Lefaliir | 6: a City Watch patrol arrests a patron | The alley counts its dead. The Watch is sweeping the North Ward for fireball witnesses, and the arrest shows the party how hard the city is leaning on the neighborhood. |
 | First tenday after **Gralhund Villa** | Renaer Neverember, Floon Blagmaar, Yagra Stonefist (at the bar, or on the door if she is the Bouncer) | 8: Xanathar's Guild (Gorath's Duergar) | The Stone has changed hands. The first villain visit tells the party they're now players in the Grand Game. |
-| Tarsahk 11–20 | Jarlaxle Baenre (in disguise), Mattrim "Threestrings" Mereg, Rishaal the Page-Turner | 19: a courier arrives with an urgent message for a patron who just left | The patron who just left was Jarlaxle. The message, from Krebbyg, reads "The tide turns on the twentieth." It's the party's last clear warning before the Faire sails. |
+| Tarsakh 11–20 | Jarlaxle Baenre (in disguise), Mattrim "Threestrings" Mereg, Rishaal the Page-Turner | 19: a courier arrives with an urgent message for a patron who just left | The patron who just left was Jarlaxle. The message, from Krebbyg, reads "The tide turns on the twentieth." It's the party's last clear warning before the Faire sails. |
 | First tenday after the party's first lair heist | Faction Contact (slot 17), Jalester Silvermane, Hammond Kraddoc | 8: the Response Team of the faction whose lair was robbed | The robbed faction comes to look at the people who robbed it. |
 | Mirtul 1–10 | Rishaal the Page-Turner, Ulkoria Stonemarrow, Vincent Trench | 9: Kyser Tameno's first visit | Arcane gossip night. An archmage of the Watchful Order drinks two tables from a rakshasa in disguise, and a wizard walks out of the wall. |
 | Kythorn 1–10 | Broxley Fairkettle, Tally Fellbranch, Laraelra "Elra" Harsard with Lord Torlyn Wands (Renaer's Friends) | 14: a Masked Lord visits (at Fame 81+); otherwise 17: a socialite demands the best table | Guild season. The night measures where the tavern stands with the city's upper floors. |
@@ -72,7 +72,7 @@ Slot 18 on the Patron Table is the NPC listed here for the most recently complet
 | 16 | Yagra Stonefist *(reroll if currently employed as Bouncer — she's on the door)* |
 | 17 | Faction Contact *(primary faction contact for any PC; reroll if already present)* |
 | 18 | Campaign NPC *(see the Slot 18 table in the Tenday Schedule)* |
-| 19 | Jarlaxle Baenre *(always in disguise; reroll after Tarsahk 20 unless the party is allied with Bregan D'aerthe)* |
+| 19 | Jarlaxle Baenre *(always in disguise; reroll after Tarsakh 20 unless the party is allied with Bregan D'aerthe)* |
 | 20 | Response Team *(see **Response Teams at the Tavern**; reroll before Act II begins)* |
 
 **Campaign NPC (18):** The NPC named in the Slot 18 table for the most recently completed quest — a rescued prisoner, an ally, or a witness the party has come to know.

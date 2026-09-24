@@ -10,7 +10,7 @@ Trollskull Tavern is the party's home in Waterdeep — rebuilt with their own co
 
 Two hard deadlines shape the campaign's second half. They fall in different months and operate independently.
 
-**Tarsahk 20 — Sea Maidens Faire departure.** Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsahk 20. After that date, the **Sea Maidens Faire** alliance path is no longer available and the faction relationship defaults to adversarial. This is the **Sea Maidens Faire** deadline only; it has no connection to **Cassalanter Villa**.
+**Tarsakh 20 — Sea Maidens Faire departure.** Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsakh 20. After that date, the **Sea Maidens Faire** alliance path is no longer available and the faction relationship defaults to adversarial. This is the **Sea Maidens Faire** deadline only; it has no connection to **Cassalanter Villa**.
 
 **Flamerule 1 — Founders' Day.** The city-wide holiday commemorating Waterdeep's founding as a unified city. The Cassalanter infernal contract's fulfillment window opens on this date. The twins' ninth birthday — the actual sacrifice deadline — falls one tenday later, on Flamerule 11. PCs who have not disrupted the contract before Flamerule 11 arrive to find the ceremony already completed.
 

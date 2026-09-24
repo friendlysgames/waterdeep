@@ -29,10 +29,10 @@
 
 | Faction | What they know | What they have | What they're doing |
 |---------|---------------|----------------|-------------------|
-| Xanathar Guild | Stone was with Dalakhar (now Gralhund/PCs); Dalakhar worked for Renaer | One Eye | Pursuing the Stone; hunting Dalakhar's trail |
-| Manshoon's Zhentarim | Stone was with Dalakhar; Gralhunds intercepted it | One Eye | Urstul Floxin redirected to Gralhund Villa |
-| Cassalanters | Vault exists (Lords' Alliance contact); have one Eye | One Eye | Accumulating soul coins; not yet pursuing Stone actively |
-| Bregan D'aerthe | Full intelligence via Nar'l Xibrindas inside Xanathar Guild | No Eye yet | Moving to acquire one; observing all other factions |
+| Xanathar Guild | Stone was with Dalakhar (now Gralhund/PCs); Dalakhar worked for Renaer | Eye #1 | Pursuing the Stone; hunting Dalakhar's trail |
+| Manshoon's Zhentarim | Stone was with Dalakhar; Gralhunds intercepted it | Nothing | Urstul Floxin redirected to Gralhund Villa |
+| Cassalanters | Vault exists (Lords' Alliance contact); have one Eye | Eye #2 | Accumulating soul coins; not yet pursuing Stone actively |
+| Bregan D'aerthe | Full intelligence via Nar'l Xibrindas inside Xanathar Guild | Eye #3 | Waiting to see which party proves most useful; observing all other factions |
 | Doom Raiders | Aware of Grand Game at high level; not primary competitors for vault | Nothing | Maintaining territory; watching |
 
 **Tone:** Practical and in-world. The DM should finish this section with a working sense of how power moves in Waterdeep — the texture of it, not just the stats.

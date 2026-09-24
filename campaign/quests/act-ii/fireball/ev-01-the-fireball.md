@@ -34,7 +34,7 @@ The nimblewright threw the bead from the cooperage rooftop to the east, dropped 
 
 ### The Investigation Window
 
-Five minutes before the first six City Guard soldiers arrive and seal the alley. Twenty minutes before **Barnibus Blastwind** (meticulous dwarf mage, Watchful Order) and **Sergeant Saeth Cromley** appear with twenty constables and formally take charge.
+Five minutes before the first six City Guard soldiers arrive and seal the alley. Twenty minutes before **Barnibus Blastwind** (meticulous Illuskan human mage, Watchful Order) and **Sergeant Saeth Cromley** appear with twenty constables and formally take charge.
 
 After the Watch seals the scene, accessing the bodies requires DC 15 Stealth (avoid notice) or Watch cooperation (see below). Bodies are removed to the North Ward Watch Station by midmorning; *Gentle Repose* is cast on each.
 

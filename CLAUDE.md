@@ -222,7 +222,7 @@ Six scenes (same structure as Xanathar's Lair). Social exposure system (4-stage:
 
 ### Sea Maidens Faire
 
-Six scenes (same structure as Xanathar's Lair). Caper heist genre (three-beat: Something Goes Wrong → Escalation → Confrontation or Escape); three resolution paths (heist/alliance/patron); three entry methods (carnival cover, harbor approach via Zelifarn, supply delivery); 15 keyed areas (10 Eyecatcher + 5 Scarlet Marpenoth); Zardoz Betrayal Pitch (conditional on BD membership or prior Jarlaxle contact); Manshoon parallel strike (6-row interaction matrix, always fires); Zelifarn crystal ball moral thread; Stone of Golorr 3-scenario upgrade (order-agnostic, includes Full Awakening); Tarsahk 20 departure deadline; outcome-branched faction debriefs (5 BD states); Three Clue Rule paths to Cassalanter Villa, Xanathar's Lair, and Kolat Towers. 4th–6th level.
+Six scenes (same structure as Xanathar's Lair). Caper heist genre (three-beat: Something Goes Wrong → Escalation → Confrontation or Escape); three resolution paths (heist/alliance/patron); three entry methods (carnival cover, harbor approach via Zelifarn, supply delivery); 15 keyed areas (10 Eyecatcher + 5 Scarlet Marpenoth); Zardoz Betrayal Pitch (conditional on BD membership or prior Jarlaxle contact); Manshoon parallel strike (6-row interaction matrix, always fires); Zelifarn crystal ball moral thread; Stone of Golorr 3-scenario upgrade (order-agnostic, includes Full Awakening); Tarsakh 20 departure deadline; outcome-branched faction debriefs (5 BD states); Three Clue Rule paths to Cassalanter Villa, Xanathar's Lair, and Kolat Towers. 4th–6th level.
 
 ### Kolat Towers
 
