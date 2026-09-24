@@ -156,6 +156,15 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `08-notable-patrons.md` | Named patron profiles |
 | `09-response-teams-at-the-tavern.md` | Faction response team rules at the manor |
 
+**Factions Guide** (`campaign/guides/factions/`): factions as game mechanics. Faction lore lives in `campaign/setting/organizations/`.
+
+| File | Contents |
+|---|---|
+| `01-overview.md` | How renown works, running faction missions, page map |
+| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting, Renown & Ranks, Missions |
+| `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
+| `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
+
 The Bestiary (custom monster and boss stat blocks) is not yet drafted.
 
 ### Setting (`campaign/setting/`)
@@ -172,7 +181,7 @@ All setting files are structuring drafts.
 | `villains/cassalanters.md` | 3 phases, relationships, goals, children timing note |
 | `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
-| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Each merges player-faction and villain-faction content from the former appendices. |
+| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
 ### Sources
 
@@ -333,6 +342,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 **Structuring draft means structuring draft:** No content in this campaign is "prose-polished" in the final sense. The prose pipeline cleans up structural outlines; it does not replace the prose-writing pass. Never mark any file as "prose-polished" in CLAUDE.md.
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
+
+**Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
 
 **Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
 
