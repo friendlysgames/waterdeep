@@ -48,5 +48,5 @@
 ## Cross-References
 
 - [History of Waterdeep](history.md) — how each faction arrived at their current position
-- [GM Guide: Grand Game in Play](../guides/gm-guide/grand-game-in-play.md) — operational faction tracker with escalation tiers
+- [GM Guide: Grand Game in Play](../guides/gm-guide/grand-game-in-play.md) — between-sessions procedure: weekly faction check, state tracking, escalation pace
 - [Setting: Villains](villains/) — detailed character documents for each villain faction

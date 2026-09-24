@@ -135,11 +135,11 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `session-zero.md` | Full session zero script: campaign pitch, gold question, contract, safety tools |
 | `debts-of-the-city.md` | Superset of player version; adds Holder guidance, Warning callouts, Design Note |
 | `bonds-and-flaws.md` | Superset of player version; adds GM Notes table of where each Flaw lands in the campaign |
-| `adventure-summary.md` | Four-act overview table, dramatic arc per act, milestone pacing notes |
-| `structural-rules.md` | Two Zhentarims, faction response teams, festival calendar, Three Clue Rule, fireball victim, faction state tracking |
-| `grand-game-in-play.md` | Starting faction knowledge, escalation tiers (1–5), inter-faction conflict, when factions back down |
+| `adventure-summary.md` | Four-act overview table, one paragraph per act, Milestone Points ladder |
+| `structural-rules.md` | Two Zhentarims, faction response teams, campaign calendar (Ches 1 start, Ches 20 Grand Opening, Tarsakh 20, Flamerule 1 and 11), Three Clue Rule, fireball victim |
+| `grand-game-in-play.md` | Between-sessions procedure: weekly faction check, faction state tracking, escalation pace, inter-faction conflict, when factions back down |
 | `player-factions-overview.md` | Six standard factions + Bregan D'aerthe unique mechanic; conflicting loyalties overview; renown rules and faction-mission preamble |
-| `running-the-villains.md` | Grand Game overview, running four villains, MacGuffin chain, starting knowledge, escalation (four tiers Unaware/Suspicious/Alert/Lockdown), inter-faction operations |
+| `running-the-villains.md` | Villain reference: Grand Game overview, MacGuffin chain, starting-knowledge table, escalation table (four tiers Unaware/Suspicious/Alert/Lockdown), inter-faction operations |
 | `design-notes-running-the-campaign.md` | Macro design notes: simultaneous villains, heist framework, distributed Eyes, manor, fireball, Founders' Day, Jarlaxle's hidden identity, gold resolution, Aurinax; "Omitted NPCs" section |
 
 **Trollskull Manor Guide** (`campaign/guides/trollskull-manor/`)
