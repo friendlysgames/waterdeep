@@ -434,7 +434,8 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   padding: 0.65rem 1.25rem;
 }
 
-#sidebar-toggle {
+#sidebar-toggle,
+#page-list-toggle {
   display: none;
   background: transparent;
   border: 1px solid var(--toolbar-border);
@@ -443,12 +444,12 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   font-size: 16px;
   padding: 2px 8px;
   cursor: pointer;
-  margin-right: 0.75rem;
 }
 
 .toolbar-left {
   display: flex;
   align-items: center;
+  gap: 0.5rem;
   min-width: 0;
 }
 
@@ -713,17 +714,18 @@ pre code {
     grid-template-columns: 1fr;
   }
 
+  /* Journal sidebar: right-side drawer (matches its desktop position) */
   #journal-sidebar {
     position: fixed;
     top: 0;
-    left: 0;
+    right: 0;
     bottom: 0;
     width: 84%;
     max-width: 320px;
-    transform: translateX(-100%);
+    transform: translateX(100%);
     transition: transform 0.25s ease;
     z-index: 100;
-    box-shadow: 2px 0 16px rgba(0,0,0,0.4);
+    box-shadow: -2px 0 16px rgba(0,0,0,0.4);
   }
 
   body.sidebar-open #journal-sidebar {
@@ -732,8 +734,13 @@ pre code {
 
   #sidebar-toggle {
     display: inline-block;
+    margin-right: 0;
+    min-width: 36px;
+    min-height: 36px;
+    font-size: 18px;
   }
 
+  /* Page sidebar: left-side drawer (matches its desktop position) */
   #page-sidebar {
     position: fixed;
     top: 0;
@@ -752,6 +759,20 @@ pre code {
     transform: translateX(0);
   }
 
+  /* Pages toggle: visible when a journal is open */
+  #page-list-toggle {
+    display: none;
+    min-width: 36px;
+    min-height: 36px;
+    font-size: 18px;
+    margin-right: 0;
+  }
+
+  body.journal-open #page-list-toggle {
+    display: inline-block;
+  }
+
+  /* Overlay */
   body.sidebar-open #sidebar-overlay,
   body.journal-open:not(.page-sidebar-collapsed) #sidebar-overlay {
     display: block;
@@ -761,8 +782,29 @@ pre code {
     z-index: 90;
   }
 
+  /* Comfortable reading on small screens */
   #page-content {
-    padding: 1.5rem 1rem 3rem;
+    padding: 1.25rem 1rem 3rem;
+  }
+
+  /* Touch-friendly tree and page list items */
+  .tree-item,
+  .page-item {
+    min-height: 44px;
+    padding: 8px 10px;
+  }
+
+  /* Tables scroll horizontally rather than overflowing */
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Tighter toolbar on small screens */
+  .toolbar {
+    padding: 0.4rem 0.75rem;
+    gap: 0.5rem;
   }
 }
 </style>
@@ -779,7 +821,8 @@ pre code {
   <main id="content">
     <div class="toolbar">
       <div class="toolbar-left">
-        <button id="sidebar-toggle" title="Toggle menu" aria-label="Toggle menu">&#9776;</button>
+        <button id="sidebar-toggle" title="Journals" aria-label="Toggle journal list">&#9776;</button>
+        <button id="page-list-toggle" title="Pages" aria-label="Toggle page list">&#8801;</button>
         <div id="breadcrumb"></div>
       </div>
       <label class="gm-toggle">
@@ -832,6 +875,7 @@ const breadcrumbEl = document.getElementById('breadcrumb');
 const gmToggleEl = document.getElementById('gm-mode');
 const pageContentEl = document.getElementById('page-content');
 const hamburgerEl = document.getElementById('sidebar-toggle');
+const pageListToggleEl = document.getElementById('page-list-toggle');
 const overlayEl = document.getElementById('sidebar-overlay');
 const pageSidebarCollapseBtn = document.getElementById('page-sidebar-collapse');
 const journalSidebarCollapseBtn = document.getElementById('journal-sidebar-collapse');
@@ -1323,11 +1367,20 @@ function openJournal(journalNode, opts) {
   renderPageList(journalNode);
   document.body.classList.add('journal-open');
   highlightSelectedJournal(journalNode.id);
-  closeMobileSidebar();
 
+  const isMobile = window.matchMedia('(max-width: 768px)').matches;
   const hasTarget = opts.selectPath && journalNode.children.some(function (c) { return c.path === opts.selectPath; });
-  const targetPath = hasTarget ? opts.selectPath : (journalNode.children[0] ? journalNode.children[0].path : null);
-  if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
+
+  if (isMobile) {
+    // Close the journal drawer and show the page list as an overlay.
+    // Only auto-navigate when a specific page was requested (e.g. deep-link).
+    document.body.classList.remove('sidebar-open');
+    document.body.classList.remove('page-sidebar-collapsed');
+    if (hasTarget) selectPage(opts.selectPath, { skipHash: !!opts.skipHash });
+  } else {
+    const targetPath = hasTarget ? opts.selectPath : (journalNode.children[0] ? journalNode.children[0].path : null);
+    if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
+  }
 }
 
 function openHashPage(path) {
@@ -1438,8 +1491,18 @@ function wireControls() {
   });
 
   hamburgerEl.addEventListener('click', function () {
+    const opening = !document.body.classList.contains('sidebar-open');
     document.body.classList.toggle('sidebar-open');
+    if (opening && window.matchMedia('(max-width: 768px)').matches) {
+      document.body.classList.add('page-sidebar-collapsed');
+    }
   });
+  if (pageListToggleEl) {
+    pageListToggleEl.addEventListener('click', function () {
+      document.body.classList.remove('sidebar-open');
+      document.body.classList.remove('page-sidebar-collapsed');
+    });
+  }
   overlayEl.addEventListener('click', closeMobileSidebar);
 
   pageSidebarCollapseBtn.addEventListener('click', function () {
