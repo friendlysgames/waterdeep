@@ -131,7 +131,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 
 | File | Contents |
 |---|---|
-| `about-this-campaign.md` | Superset of player version; adds DM private notes on deaths, sympathetic villains, tone |
+| `about-this-campaign.md` | Separate GM briefing page (not a superset of the player version): what the remix changes, the pillars at the table, the campaign's shape, a GM Guide page map, tone, and the secrets to keep from players |
 | `session-zero.md` | Full session zero script: campaign pitch, gold question, contract, safety tools |
 | `debts-of-the-city.md` | Superset of player version; adds Holder guidance, Warning callouts, Design Note |
 | `bonds-and-flaws.md` | Superset of player version; adds GM Notes table of where each Flaw lands in the campaign |
@@ -334,7 +334,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
 
-**Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
+**Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
 
 **Quests, not arcs:** The campaign is organized as quests within Acts. Refer to quests by name (**Fireball!**, **Xanathar's Lair**); never write "Arc X" labels in new content. Structure-doc file names keep their `arc-*` slugs until each is converted to a quest journal.
 
