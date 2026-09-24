@@ -34,7 +34,7 @@ The loan has since been partially repaid. What remains isn't enough to panic ove
 
 ## Survival: Floxin's Package
 
-You were hired, through enough layers of intermediary that you couldn't have known at the time, to carry a sealed package from the Trades Ward to a contact in the Dock Ward and ask no questions. You didn't ask questions. You carried the package. When you arrived at the delivery point there was a body, fresh, and three armed people who didn't work for whoever had hired you. You ran. The package came with you.
+You were hired, through enough layers of intermediary that you couldn't have known at the time, to carry a sealed package from the Trades Ward to a contact in the Dock Ward and ask no questions. You didn't ask questions. You carried the package. When you arrived at the delivery point there was a fresh body and three armed people who didn't work for whoever had hired you. You ran. The package came with you.
 
 It's still with you, still sealed. You haven't opened it. The sensible knowledge that some things can't be unlearned is its own kind of discipline. The package is heavier than it looks, and sometimes warmer.
 
@@ -50,11 +50,11 @@ What you didn't know when you acquired the credential was that Yalah Gralhund is
 
 ## Purpose: Renaer's Confidence
 
-Renaer Neverember trusted you with something he doesn't trust easily: the truth. Not the public truth about his father's corruption, which is becoming common knowledge, but a specific, private piece of it: a name, a location, a transaction that implicates someone who isn't his father and is still active in Waterdeep. He told you because he needed someone outside his usual circles to hold the information, because he thought you'd know what to do with it if something happened to him.
+Renaer Neverember trusted you with something he doesn't trust easily: a name, a location, a transaction that implicates someone who isn't his father and is still active in Waterdeep. His father's corruption is already becoming common knowledge. This isn't. He told you because he needed someone outside his usual circles to hold the information, because he thought you'd know what to do with it if something happened to him.
 
 Nothing has happened to him. Yet. But the information is still yours, and what you do with it (keep it, use it, trade it) will define what kind of person you are in a city that runs on exactly this kind of knowledge.
 
-*Your character knows the following:* You're carrying information that multiple powerful people would very much want. Renaer doesn't yet know how much he can trust you with it. The information's value won't last forever.
+*Your character knows the following:* You're carrying information that multiple powerful people want. Renaer doesn't yet know how much he can trust you with it. The information's value won't last forever.
 
 ## Redemption: Ahmaergo's Inventory
 
@@ -76,13 +76,13 @@ Davil came afterward to offer a drink and mention, warmly, that he'd heard good 
 
 Barnibus Blastwind is a City Watch investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
 
-A week later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in seven days. He wasn't there to threaten you. Call it an introduction.
+A week later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in seven days. Call it an introduction, secured in advance.
 
 *Your character knows the following:* Barnibus Blastwind knows what you saw. You know what he did. Both of you are now holding something the other can't comfortably use without mutual destruction. Blastwind seems to find this arrangement workable.
 
 ## Knowledge: Skeemo's Index
 
-Skeemo Weirdbottle maintains, out of a cramped and thoroughly unassuming shop in the Dock Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exists outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting as a subject of study. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
+Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Dock Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
 
 What he didn't mention was that he'd already entered it into the index as he filed it. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
 
