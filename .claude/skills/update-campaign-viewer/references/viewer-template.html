@@ -203,6 +203,7 @@ body.page-sidebar-collapsed #page-sidebar #page-list {
 }
 
 .page-item .label {
+  flex: 1;
   overflow: hidden;
   text-overflow: ellipsis;
 }
@@ -415,10 +416,133 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
 }
 
 #content {
-  overflow-y: auto;
   background: var(--content-bg);
   display: flex;
   flex-direction: column;
+  min-height: 0;
+}
+
+#panes {
+  flex: 1;
+  display: flex;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.reading-pane {
+  flex: 1;
+  overflow-y: auto;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+#pane-secondary {
+  display: none;
+  border-left: 2px solid var(--content-border);
+}
+
+body.split-view #pane-secondary {
+  display: flex;
+}
+
+.pane-header {
+  display: none;
+  position: sticky;
+  top: 0;
+  z-index: 4;
+  background: var(--toolbar-bg);
+  border-bottom: 1px solid var(--toolbar-border);
+  padding: 0.3rem 1rem;
+  align-items: center;
+  gap: 0.5rem;
+  min-height: 34px;
+  flex: none;
+}
+
+body.split-view .pane-header {
+  display: flex;
+}
+
+body.split-view #breadcrumb {
+  display: none;
+}
+
+.pane-breadcrumb {
+  flex: 1;
+  font-size: 0.75rem;
+  color: var(--content-text);
+  opacity: 0.75;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  min-width: 0;
+}
+
+.pane-breadcrumb .crumb-part:last-child {
+  opacity: 1;
+  font-weight: 600;
+}
+
+body.split-view .reading-pane.active-pane .pane-header {
+  border-bottom: 2px solid var(--sidebar-selected);
+}
+
+.pane-close-btn {
+  background: transparent;
+  border: none;
+  color: var(--content-text);
+  cursor: pointer;
+  font-size: 13px;
+  padding: 2px 5px;
+  border-radius: 3px;
+  opacity: 0.6;
+  flex: none;
+}
+
+.pane-close-btn:hover {
+  background: var(--sidebar-hover);
+  opacity: 1;
+}
+
+#split-toggle {
+  background: transparent;
+  border: 1px solid var(--toolbar-border);
+  border-radius: 4px;
+  color: var(--content-text);
+  font-size: 15px;
+  padding: 2px 8px;
+  cursor: pointer;
+}
+
+body.split-view #split-toggle {
+  background: var(--sidebar-selected);
+  color: #fff;
+  border-color: var(--sidebar-selected);
+}
+
+.open-split-btn {
+  display: none;
+  background: transparent;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  color: var(--sidebar-text);
+  font-size: 11px;
+  padding: 1px 4px;
+  cursor: pointer;
+  flex: none;
+  opacity: 0.7;
+  line-height: 1.4;
+}
+
+.page-item:hover .open-split-btn {
+  display: inline-block;
+}
+
+.open-split-btn:hover {
+  opacity: 1;
+  background: var(--sidebar-selected);
+  color: #fff;
 }
 
 .toolbar {
@@ -467,14 +591,14 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   font-weight: 600;
 }
 
-#page-content {
+.page-content {
   max-width: 800px;
   margin: 0 auto;
   padding: 2rem 1rem 4rem;
   width: 100%;
 }
 
-#page-content .empty-state {
+.page-content .empty-state {
   color: var(--content-text);
   opacity: 0.6;
   font-style: italic;
@@ -489,56 +613,56 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   .hint-mobile { display: inline; }
 }
 
-#page-content h1, #page-content h2, #page-content h3,
-#page-content h4, #page-content h5, #page-content h6 {
+.page-content h1, .page-content h2, .page-content h3,
+.page-content h4, .page-content h5, .page-content h6 {
   font-family: Georgia, 'Times New Roman', serif;
   color: var(--content-heading);
   line-height: 1.3;
 }
 
-#page-content h1 {
+.page-content h1 {
   font-size: 2rem;
   margin: 0 0 1.25rem;
   padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--content-border);
 }
 
-#page-content h2 {
+.page-content h2 {
   font-size: 1.5rem;
   margin: 2rem 0 1rem;
   padding-bottom: 0.3rem;
   border-bottom: 1px solid var(--content-border);
 }
 
-#page-content h3 {
+.page-content h3 {
   font-size: 1.25rem;
   margin: 1.75rem 0 0.75rem;
 }
 
-#page-content h4 {
+.page-content h4 {
   font-size: 1.05rem;
   margin: 1.4rem 0 0.6rem;
 }
 
-#page-content p {
+.page-content p {
   line-height: 1.7;
   margin: 0.85rem 0;
 }
 
-#page-content ul, #page-content ol {
+.page-content ul, .page-content ol {
   line-height: 1.7;
   padding-left: 1.5rem;
 }
 
-#page-content li {
+.page-content li {
   margin: 0.3rem 0;
 }
 
-#page-content a {
+.page-content a {
   color: var(--content-link);
 }
 
-#page-content hr {
+.page-content hr {
   border: none;
   border-top: 1px solid var(--content-border);
   margin: 2rem 0;
@@ -591,6 +715,7 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   margin: 0;
   padding: 0;
 }
+
 
 .npc-narrative {
   display: grid;
@@ -772,7 +897,7 @@ pre code {
   }
 
   /* Comfortable reading on small screens */
-  #page-content {
+  .page-content {
     padding: 1.25rem 1rem 3rem;
   }
 
@@ -795,6 +920,8 @@ pre code {
     padding: 0.4rem 0.75rem;
     gap: 0.5rem;
   }
+
+  #split-toggle, .open-split-btn { display: none !important; }
 }
 </style>
 </head>
@@ -813,14 +940,31 @@ pre code {
         <button id="page-list-toggle" title="Pages" aria-label="Toggle page list">&#8801;</button>
         <div id="breadcrumb"></div>
       </div>
+      <button id="split-toggle" title="Split view" aria-label="Toggle split view">&#10697;</button>
       <button id="sidebar-toggle" title="Journals" aria-label="Toggle journal list">&#9776;</button>
     </div>
-    <article id="page-content">
-      <p class="empty-state">
-        <span class="hint-desktop">Select a page from the sidebar.</span>
-        <span class="hint-mobile">Tap <strong>&#9776;</strong> to browse journals.</span>
-      </p>
-    </article>
+    <div id="panes">
+      <div id="pane-primary" class="reading-pane active-pane">
+        <div class="pane-header">
+          <div id="breadcrumb-primary" class="pane-breadcrumb"></div>
+        </div>
+        <article id="page-content-primary" class="page-content">
+          <p class="empty-state">
+            <span class="hint-desktop">Select a page from the sidebar.</span>
+            <span class="hint-mobile">Tap <strong>&#9776;</strong> to browse journals.</span>
+          </p>
+        </article>
+      </div>
+      <div id="pane-secondary" class="reading-pane">
+        <div class="pane-header">
+          <div id="breadcrumb-secondary" class="pane-breadcrumb"></div>
+          <button id="close-secondary" class="pane-close-btn" title="Close pane">&#x2715;</button>
+        </div>
+        <article id="page-content-secondary" class="page-content">
+          <p class="empty-state">Select a page to open here.</p>
+        </article>
+      </div>
+    </div>
   </main>
   <nav id="journal-sidebar">
     <button id="journal-sidebar-collapse" class="sidebar-toggle-btn left-edge" title="Collapse journals">&rsaquo;</button>
@@ -861,7 +1005,11 @@ const expandAllBtn = document.getElementById('expand-all');
 const collapseAllBtn = document.getElementById('collapse-all');
 const statsEl = document.getElementById('stats');
 const breadcrumbEl = document.getElementById('breadcrumb');
-const pageContentEl = document.getElementById('page-content');
+const splitToggleEl = document.getElementById('split-toggle');
+const paneEls = { primary: document.getElementById('page-content-primary'), secondary: document.getElementById('page-content-secondary') };
+const paneBreadcrumbEls = { primary: document.getElementById('breadcrumb-primary'), secondary: document.getElementById('breadcrumb-secondary') };
+const paneContainerEls = { primary: document.getElementById('pane-primary'), secondary: document.getElementById('pane-secondary') };
+const closeSecondaryBtn = document.getElementById('close-secondary');
 const hamburgerEl = document.getElementById('sidebar-toggle');
 const pageListToggleEl = document.getElementById('page-list-toggle');
 const overlayEl = document.getElementById('sidebar-overlay');
@@ -870,7 +1018,8 @@ const journalSidebarCollapseBtn = document.getElementById('journal-sidebar-colla
 
 let treeData = null;
 let collapsedState = null;
-let currentPath = null;
+let currentPathByPane = { primary: null, secondary: null };
+let activePaneId = 'primary';
 let currentJournal = null;
 let currentSearchQuery = '';
 let pageIndexByPath = new Map();
@@ -1217,7 +1366,7 @@ function processGmZones(root) {
   });
 }
 
-function renderPageContent(node) {
+function renderPageContent(node, targetEl) {
   const data = CAMPAIGN_DATA.pages[node.path] || {};
   const content = data.content || '';
   const html = (typeof marked !== 'undefined') ? marked.parse(content) : '<pre>' + escapeHtml(content) + '</pre>';
@@ -1226,29 +1375,44 @@ function renderPageContent(node) {
   wrapper.innerHTML = html;
   processGmZones(wrapper);
 
-  pageContentEl.innerHTML = '';
+  targetEl.innerHTML = '';
   if (!wrapper.querySelector('h1')) {
     const h1 = document.createElement('h1');
     h1.textContent = data.title || node.name;
-    pageContentEl.appendChild(h1);
+    targetEl.appendChild(h1);
   }
-  while (wrapper.firstChild) pageContentEl.appendChild(wrapper.firstChild);
+  while (wrapper.firstChild) targetEl.appendChild(wrapper.firstChild);
 }
 
-function renderBreadcrumb(node) {
-  breadcrumbEl.innerHTML = '';
+function renderBreadcrumb(node, targetEl) {
+  const el = targetEl || breadcrumbEl;
+  el.innerHTML = '';
   (node.breadcrumb || []).forEach(function (part, i) {
     if (i > 0) {
       const sep = document.createElement('span');
       sep.className = 'crumb-sep';
       sep.textContent = ' > ';
-      breadcrumbEl.appendChild(sep);
+      el.appendChild(sep);
     }
     const span = document.createElement('span');
     span.className = 'crumb-part';
     span.textContent = part;
-    breadcrumbEl.appendChild(span);
+    el.appendChild(span);
   });
+}
+
+function setActivePaneId(paneId) {
+  activePaneId = paneId;
+  Object.keys(paneContainerEls).forEach(function (id) {
+    paneContainerEls[id].classList.toggle('active-pane', id === paneId);
+  });
+}
+
+function syncMainBreadcrumb() {
+  const path = currentPathByPane[activePaneId];
+  if (!path) { breadcrumbEl.innerHTML = ''; return; }
+  const node = pageIndexByPath.get(path);
+  if (node) renderBreadcrumb(node);
 }
 
 function highlightSelected(path) {
@@ -1318,8 +1482,19 @@ function renderPageList(journalNode) {
     labelSpan.className = 'label';
     labelSpan.textContent = pageNode.name;
 
+    const splitBtn = document.createElement('button');
+    splitBtn.className = 'open-split-btn';
+    splitBtn.title = 'Open in split view';
+    splitBtn.textContent = '⧉';
+    splitBtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      document.body.classList.add('split-view');
+      selectPage(pageNode.path, { paneId: 'secondary' });
+    });
+
     item.appendChild(iconSpan);
     item.appendChild(labelSpan);
+    item.appendChild(splitBtn);
     item.addEventListener('click', function () { selectPage(pageNode.path); });
     item.addEventListener('keydown', function (e) {
       if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); selectPage(pageNode.path); }
@@ -1348,6 +1523,8 @@ function openJournal(journalNode, opts) {
   const hasTarget = opts.selectPath && journalNode.children.some(function (c) { return c.path === opts.selectPath; });
 
   if (isMobile) {
+    // Close the journal drawer and show the page list as an overlay.
+    // Only auto-navigate when a specific page was requested (e.g. deep-link).
     document.body.classList.remove('sidebar-open');
     document.body.classList.remove('page-sidebar-collapsed');
     if (hasTarget) selectPage(opts.selectPath, { skipHash: !!opts.skipHash });
@@ -1374,17 +1551,22 @@ function openHashPage(path) {
 
 function selectPage(path, opts) {
   opts = opts || {};
+  const paneId = opts.paneId || activePaneId;
   const node = pageIndexByPath.get(path);
   if (!node) return;
-  currentPath = path;
-  renderBreadcrumb(node);
-  renderPageContent(node);
-  highlightSelected(path);
-  if (!opts.skipHash) {
-    try { location.hash = encodeURIComponent(path); } catch (e) {}
+  currentPathByPane[paneId] = path;
+  setActivePaneId(paneId);
+  renderBreadcrumb(node, paneBreadcrumbEls[paneId]);
+  syncMainBreadcrumb();
+  renderPageContent(node, paneEls[paneId]);
+  if (paneId === 'primary') {
+    highlightSelected(path);
+    if (!opts.skipHash) {
+      try { location.hash = encodeURIComponent(path); } catch (e) {}
+    }
+    revealAndExpandTo(node);
+    closeMobileSidebar();
   }
-  revealAndExpandTo(node);
-  closeMobileSidebar();
 }
 
 function computeMatches(query) {
@@ -1473,6 +1655,38 @@ function wireControls() {
   }
   overlayEl.addEventListener('click', closeMobileSidebar);
 
+  if (splitToggleEl) {
+    splitToggleEl.addEventListener('click', function () {
+      const entering = !document.body.classList.contains('split-view');
+      document.body.classList.toggle('split-view');
+      if (!entering) {
+        currentPathByPane.secondary = null;
+        paneEls.secondary.innerHTML = '<p class="empty-state">Select a page to open here.</p>';
+        paneBreadcrumbEls.secondary.innerHTML = '';
+        setActivePaneId('primary');
+        syncMainBreadcrumb();
+      }
+    });
+  }
+  if (closeSecondaryBtn) {
+    closeSecondaryBtn.addEventListener('click', function () {
+      document.body.classList.remove('split-view');
+      currentPathByPane.secondary = null;
+      paneEls.secondary.innerHTML = '<p class="empty-state">Select a page to open here.</p>';
+      paneBreadcrumbEls.secondary.innerHTML = '';
+      setActivePaneId('primary');
+      syncMainBreadcrumb();
+    });
+  }
+  Object.keys(paneContainerEls).forEach(function (paneId) {
+    paneContainerEls[paneId].addEventListener('click', function () {
+      if (activePaneId !== paneId) {
+        setActivePaneId(paneId);
+        syncMainBreadcrumb();
+      }
+    });
+  });
+
   pageSidebarCollapseBtn.addEventListener('click', function () {
     const collapsed = document.body.classList.toggle('page-sidebar-collapsed');
     pageSidebarCollapseBtn.innerHTML = collapsed ? '&rsaquo;' : '&lsaquo;';
@@ -1489,7 +1703,7 @@ function wireControls() {
 
   window.addEventListener('hashchange', function () {
     const hash = location.hash ? decodeURIComponent(location.hash.replace(/^#/, '')) : '';
-    if (hash && hash !== currentPath && pageIndexByPath.has(hash)) {
+    if (hash && hash !== currentPathByPane.primary && pageIndexByPath.has(hash)) {
       openHashPage(hash);
     }
   });
