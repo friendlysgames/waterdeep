@@ -1,8 +1,8 @@
 # The Grand Game in Play
 
-The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each week. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**.
+The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each session. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**.
 
-## The Weekly Faction Check
+## The Tenday Faction Check
 
 Running four simultaneous factions is less complicated than it sounds, because only one or two are visible in any given session. The others are working in the background. Between sessions, spend five minutes asking three questions about each faction:
 
@@ -16,7 +16,7 @@ The factions know things the PCs don't. Response teams, surveillance operations,
 
 Play factions like thinking opponents, not obstacles. Each one has goals, pursues them methodically, and reacts to setbacks. A faction loses interest in the PCs the moment the PCs stop mattering to its plans. Some factions will try to kill the party, but only because the PCs represent a specific threat to a specific goal.
 
-> [!abstract]**The Weekly Check at a Glance**
+> [!abstract]**The Tenday Check at a Glance**
 > **Three questions per faction:**
 > 1. What do they know right now?
 > 2. What are they doing about it?
@@ -25,7 +25,7 @@ Play factions like thinking opponents, not obstacles. Each one has goals, pursue
 > **Four things to track per faction:**
 > - Current knowledge of PC identities and capabilities
 > - Response status: team deployed? leadership notified? which escalation tier?
-> - What the faction is pursuing this week, independent of the PCs
+> - What the faction is pursuing this tenday, independent of the PCs
 > - Whether the faction's Grand Game position has shifted (Eye acquired or lost, operative compromised, alliance changed)
 
 ## Faction State Tracking
@@ -36,7 +36,7 @@ After each session, update a short faction record for each villain faction. Four
 
 **Response status.** Record which escalation tier each faction currently occupies and what would push it to the next one. Note whether a response team has been deployed and whether the PC threat has reached faction leadership.
 
-**Independent weekly activity.** Write one sentence describing what the faction is doing this week regardless of PC involvement. This keeps factions present in the narrative even when the party is focused elsewhere.
+**Independent tenday activity.** Write one sentence describing what the faction is doing this tenday regardless of PC involvement. This keeps factions present in the narrative even when the party is focused elsewhere.
 
 **Grand Game position.** Record any shift in the faction's standing: an Eye acquired or lost, a key operative killed or compromised, an alliance formed or broken, a safe house burned.
 

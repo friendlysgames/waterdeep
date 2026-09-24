@@ -10,7 +10,7 @@ The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dra
 
 Four factions are in active competition for the Enigma when the campaign begins. The players' characters stumble into the middle of that competition, and their choices will determine who wins, who loses, and what the vault's gold accomplishes.
 
-For the between-sessions procedure (the weekly faction check, faction state tracking, escalation pace, and when factions stand down), see **The Grand Game in Play**.
+For the between-sessions procedure (the tenday faction check, faction state tracking, escalation pace, and when factions stand down), see **The Grand Game in Play**.
 
 ## The MacGuffin Chain
 
@@ -82,5 +82,5 @@ When the PCs hit a faction outpost, check whether any inter-faction document is 
 ## Cross-References
 
 - **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, and **Bregan D'aerthe** organization pages: key members, response teams, outposts, each faction's escalation row, and revelation lists.
-- **The Grand Game in Play** (GM Guide): between-sessions procedure: the weekly faction check, faction state tracking, escalation pace, and when factions back down.
+- **The Grand Game in Play** (GM Guide): between-sessions procedure: the tenday faction check, faction state tracking, escalation pace, and when factions back down.
 - **Villains** (Setting): personality phases and goals for Xanathar, Manshoon, the Cassalanters, and Jarlaxle.

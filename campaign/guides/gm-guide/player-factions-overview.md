@@ -53,7 +53,7 @@ The surveillance has three branches:
 
 - **Watch reported:** The spies vanish within hours. All BD contact ends for the campaign. Set **BD Contact Severed**.
 - **Surveillance confronted:** The spies melt away and leave a single black eye patch on the cobblestones. J.B. Nevercott knocks the next morning.
-- **Party does nothing:** Surveillance continues through the week. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
+- **Party does nothing:** Surveillance continues through the tenday. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
 
 **J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** organization page. Set **BD Contact Established** when it concludes.
 
