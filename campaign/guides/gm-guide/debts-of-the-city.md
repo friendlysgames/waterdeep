@@ -108,20 +108,20 @@ A slender, elegantly dressed sun elf who serves as the public face of the Doom R
 
 ## Justice: Blastwind's Evidence
 
-Barnibus Blastwind is a City Watch investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
+Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors, an investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
 
 A week later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in seven days. Call it an introduction, secured in advance.
 
 *Your character knows the following:* Barnibus Blastwind knows what you saw. You know what he did. Both of you are now holding something the other can't comfortably use without mutual destruction. Blastwind seems to find this arrangement workable.
 
-**The Holder: Barnibus Blastwind (City Watch)**
+**The Holder: Barnibus Blastwind (Watchful Order of Magists and Protectors)**
 An investigator in his middle years — reputation earned, private compromise carefully buried. His compromise is situational: one incident, singular, involving a person he refuses to discuss. He's also genuinely good at his job, which makes him valuable in ways the character didn't anticipate when this began. His first official request involves something the Watch can't pursue through official channels. He frames this honestly. Characters who help him begin accumulating something more durable than leverage: a genuine ally who knows the city's investigative apparatus from the inside, and who has a reason to keep them safe.
 
 ---
 
 ## Knowledge: Skeemo's Index
 
-Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Dock Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
+Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Trades Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
 
 What he didn't mention was that he'd already entered it into the index as he filed it. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
 

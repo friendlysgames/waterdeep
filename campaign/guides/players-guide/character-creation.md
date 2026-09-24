@@ -23,7 +23,7 @@ Early in the campaign, your characters come to own a tavern of their own, a foot
 
 **Gnome** characters have a natural connection to the House of Inspired Hands, a temple of Gond in the Sea Ward that doubles as a guild of inventors and tinkerers. It's the kind of place a gnome character might already know by reputation, or might walk into and feel instantly at home, full of clockwork, half-finished contraptions, and artisans who speak of their god the way other people speak of an old friend.
 
-**Tiefling** characters may notice something curious about how a handful of Waterdeep's oldest noble families treat them. Where most of the city's upper crust regards tieflings with the same polite wariness they'd show anyone with an unusual bloodline, some old noble families show a warmth that goes further than manners require: genuine interest, real generosity, an ease that feels earned rather than performed. Ordinary Waterdhavians read it as simple open-mindedness. Your character is welcome to wonder if there's more to it.
+**Tiefling** characters may notice something curious about how a handful of Waterdeep's oldest noble families treat them. Where most of the city's upper crust regards tieflings with the same polite wariness they'd show anyone with an unusual bloodline, some old noble families are notably courteous to them. Ordinary Waterdhavians read it as simple open-mindedness.
 
 ## Backgrounds
 

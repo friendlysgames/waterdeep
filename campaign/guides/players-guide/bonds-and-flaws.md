@@ -29,9 +29,9 @@ Choose or roll one Flaw. Each one names a genuine internal obstacle — somethin
 |----|------|--------------------------|
 | 1 | I believe the world owes me a better deal than it has given me. Until I stop keeping that accounting, every choice I make will be shaped by it. | **Vault of Dragons**: what you choose to do with a fortune says who you are |
 | 2 | I have decided, without admitting it to myself, that keeping myself safe matters more than doing right. | **Fireball!**: when danger lands on your own street, the question stops being abstract |
-| 3 | I cannot forgive. Not really. I perform forgiveness convincingly when it suits me. | **Cassalanter Villa**: a noble family's private choices put your mercy to the test |
+| 3 | I cannot forgive. Not really. I perform forgiveness convincingly when it suits me. | **Cassalanter Villa**: the people you meet there test whether your mercy has limits |
 | 4 | I use competence as a substitute for connection. As long as I am useful, I do not have to be known. | **Trollskull Alley**: the community that forms around the tavern will not let this stand |
-| 5 | I have decided that some people are not worth protecting. The category quietly expands when I am tired or afraid. | **Cassalanter Villa**: what you find behind that family's walls asks how far your protection extends |
+| 5 | I have decided that some people are not worth protecting. The category quietly expands when I am tired or afraid. | **Cassalanter Villa**: the stakes there ask how far your protection extends |
 | 6 | I need to be right more than I need to be honest. The gap between those two things is larger than I have allowed myself to see. | **Doom Raiders**: this faction will eventually ask you for something that doesn't sit easy |
 | 7 | I have mistaken control for safety for so long that I cannot tell the difference. I plan. I manage. I do not trust. I call this wisdom. | The faction heists of Act III: none of them can be pulled off alone |
 | 8 | I am waiting for someone to give me permission to want what I want. No one is going to give that permission. I know this. I am still waiting. | **Vault of Dragons**: the vault is the moment, and no one is going to tell you what to do |
