@@ -1,50 +1,38 @@
 # Faction Affiliations
 
-> Structuring draft. Content migrated from ch1-beginning.md.
+No faction is chosen at your character creation table. You can tell your GM which factions interest you, but formal membership happens in play. Every major faction in Waterdeep initiates contact with your characters during **Trollskull Alley**, and you decide how to answer when they do. Your character can belong to more than one faction at once. Memberships in rival factions can pull your party in different directions. That's by design, and it's worth a conversation at the table when it comes up, not something to avoid.
 
----
+The table below is a preview for planning your character, not a selection screen. You'll meet these contacts, and several others, once play begins.
 
-### Faction Affiliations
-
-**Purpose:** Gives players enough information to form preferences before session one, without making a binding choice before they've met the game's faction contacts in play.
-
-**Content:**
-- No faction is chosen at session zero. Players express preferences; formal affiliations are established when faction contacts approach the PCs during **Trollskull Alley**. The campaign makes this natural — every major faction initiates contact during the Trollskull Alley arc.
-- One exception: Bregan D'aerthe cannot be chosen at session zero. Jarlaxle enters the campaign only if the players follow the nimblewright investigation in **Fireball!**, which leads to the Sea Maidens Faire. If that thread is never followed, Bregan D'aerthe remains adversary or neutral. Interested players should know this before getting their heart set on it.
-- The Two Zhentarims note must appear here (not just in the contract section above): a player who wants to join "the Zhentarim" needs to understand they are choosing the Doom Raiders, not Manshoon's cell. These are distinct organizations with different contacts, methods, and moral postures.
-
-**Preview Table** (for player reference at session zero, not a selection screen):
-
-| Faction | Contact (met in Trollskull Alley) | What they offer | What they ask |
-|---------|------------------------|-----------------|----------------|
+| Faction | Contact | What they offer | What they ask |
+|---------|---------|-----------------|----------------|
 | Harpers | Mirt the Moneylender | Intelligence, political cover, archive access | Surveillance, dead drops, attending specific events |
 | Lords' Alliance | Jalester Silvermane | Official sanction, noble-tier social access, legal protection | Reporting on crime, protecting civic stability |
 | Order of the Gauntlet | Savra Belabranta | Reliable combat backup in righteous causes | Actively exposing evil, especially infernal dealings |
 | Emerald Enclave | Melannor Fellbranch | Safe passage through parks, ranger contacts | Protecting natural spaces; opposing undead activity |
-| Force Grey | Vajra Safahr | Powerful backup in genuine city-scale threats | Exclusive — must earn Vajra's trust first |
+| Force Grey | Vajra Safahr | Powerful backup in genuine city-scale threats | Exclusive; earning Vajra's trust first |
 | Doom Raiders (Zhentarim) | Davil Starsong | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
-| Bregan D'aerthe | Jarlaxle (as "Zardoz Zord") | Best intelligence in the city; drow resources | Loyalty — and eventually, a political favor for Luskan |
+| Bregan D'aerthe* | Zardoz Zord, a carnival showman | Best intelligence in the city; drow resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
 
-- Bregan D'aerthe conditional entry note: this faction is only available if the players follow the nimblewright investigation to the Sea Maidens Faire in **Fireball!**. Discuss with any interested player now so they understand it is a path to unlock, not a session zero pick.
-- Conflicting loyalty note: a party split between the Doom Raiders and Bregan D'aerthe restructures **Sea Maidens Faire** significantly. This is manageable but requires a table conversation before it happens.
+*Bregan D'aerthe doesn't approach during **Trollskull Alley**; see the sidebar below.
 
----
+> [!warning]**The Two Zhentarims**
+> If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**, the network Davil Starsong runs out of the Yawning Portal. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a very different moral code. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
 
-### Renown
+> [!warning]**Bregan D'aerthe Is Unlocked, Not Chosen**
+> You can't pick Bregan D'aerthe at session zero. This faction becomes available only if your party follows a particular lead during **Fireball!**. If you never follow it, Bregan D'aerthe stays a rival, or stays out of your story entirely. If you're interested, say so at your table. Your GM can make sure that door stays open.
 
-Renown is tracked as a numerical score for each faction a character belongs to, starting at 0 when they join. The five named ranks per faction unlock at **Renown 1, 3, 10, 25, and 50**. Benefits are cumulative — a character at Renown 10 retains the benefits of ranks 1 and 3.
+## Renown
 
-Completing faction missions earns the renown listed in each mission table. Specific Grand Game actions earn the renown listed in each faction's earning renown section. No other renown is awarded.
+- **Starting Renown.** Your Renown with a faction starts at 0 the moment you join.
+- **Rank thresholds.** Named ranks unlock at Renown 1, 3, 10, 25, and 50. Benefits are cumulative. A character at Renown 10 keeps everything earned at 1 and 3.
+- **Earning Renown.** You earn Renown by completing faction missions and by taking the specific Grand Game actions each faction lists under its own Earning Renown section. No other source awards Renown; general good roleplay earns none on its own.
+- **Losing Renown.** Serious offenses cost 2 Renown each: betraying a mission, harming faction members, or working against the faction's interests. Renown never falls below 0.
+- **Lords' Alliance discipline.** The Lords' Alliance is the only faction that enforces consequences for refusing or failing an assigned mission without compelling reason: formal suspension until reinstated, or outright dismissal.
 
-Serious offenses — betraying a mission, harming faction members, working against the faction's interests — cost 2 renown per offense. Renown cannot fall below 0. For the **Lords' Alliance specifically**: refusing or failing to complete an assigned mission without compelling justification results in formal suspension (no further missions until reinstated) or dismissal (loss of membership and all renown). The Alliance is the only faction that enforces this.
-
----
-
-## Source References
-
-- `ch1-beginning.md` Section 2: "Faction Affiliations"
-- `3. Player Character Factions.pdf`: faction contacts, renown tiers, what each faction offers — primary reference for faction table content
+> [!info]**Renown at a Glance**
+> Starts at 0. Ranks unlock at 1, 3, 10, 25, and 50. Serious offenses cost 2 Renown each; Renown never drops below 0. Only the Lords' Alliance suspends or dismisses members over a refused or failed mission.
 
 ## Cross-References
 
-- **Organizations** (Setting): faction overviews — players see only their Overview sections
+- **Organizations** (Setting): full faction overviews; players see only their Overview sections
