@@ -467,20 +467,6 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   font-weight: 600;
 }
 
-.gm-toggle {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
-  font-size: 0.85rem;
-  cursor: pointer;
-  user-select: none;
-  flex: none;
-}
-
-.gm-toggle input {
-  cursor: pointer;
-}
-
 #page-content {
   max-width: 800px;
   margin: 0 auto;
@@ -604,10 +590,6 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   border-left: none;
   margin: 0;
   padding: 0;
-}
-
-body.player-mode .gm-zone {
-  display: none;
 }
 
 .npc-narrative {
@@ -828,13 +810,10 @@ pre code {
   <main id="content">
     <div class="toolbar">
       <div class="toolbar-left">
-        <button id="sidebar-toggle" title="Journals" aria-label="Toggle journal list">&#9776;</button>
         <button id="page-list-toggle" title="Pages" aria-label="Toggle page list">&#8801;</button>
         <div id="breadcrumb"></div>
       </div>
-      <label class="gm-toggle">
-        <input type="checkbox" id="gm-mode" checked> GM Mode
-      </label>
+      <button id="sidebar-toggle" title="Journals" aria-label="Toggle journal list">&#9776;</button>
     </div>
     <article id="page-content">
       <p class="empty-state">
@@ -882,7 +861,6 @@ const expandAllBtn = document.getElementById('expand-all');
 const collapseAllBtn = document.getElementById('collapse-all');
 const statsEl = document.getElementById('stats');
 const breadcrumbEl = document.getElementById('breadcrumb');
-const gmToggleEl = document.getElementById('gm-mode');
 const pageContentEl = document.getElementById('page-content');
 const hamburgerEl = document.getElementById('sidebar-toggle');
 const pageListToggleEl = document.getElementById('page-list-toggle');
@@ -1092,18 +1070,6 @@ function persistCollapsedState() {
   try {
     localStorage.setItem('campaign-viewer-collapsed', JSON.stringify(Array.from(collapsedState || [])));
   } catch (e) {}
-}
-
-function loadGmMode() {
-  try {
-    const raw = localStorage.getItem('campaign-viewer-gm-mode');
-    if (raw !== null) return JSON.parse(raw);
-  } catch (e) {}
-  return true;
-}
-
-function persistGmMode(v) {
-  try { localStorage.setItem('campaign-viewer-gm-mode', JSON.stringify(v)); } catch (e) {}
 }
 
 function loadSidebarCollapse(which) {
@@ -1382,8 +1348,6 @@ function openJournal(journalNode, opts) {
   const hasTarget = opts.selectPath && journalNode.children.some(function (c) { return c.path === opts.selectPath; });
 
   if (isMobile) {
-    // Close the journal drawer and show the page list as an overlay.
-    // Only auto-navigate when a specific page was requested (e.g. deep-link).
     document.body.classList.remove('sidebar-open');
     document.body.classList.remove('page-sidebar-collapsed');
     if (hasTarget) selectPage(opts.selectPath, { skipHash: !!opts.skipHash });
@@ -1494,12 +1458,6 @@ function wireControls() {
     searchTimer = setTimeout(function () { applySearch(val); }, 200);
   });
 
-  gmToggleEl.addEventListener('change', function () {
-    const on = gmToggleEl.checked;
-    document.body.classList.toggle('player-mode', !on);
-    persistGmMode(on);
-  });
-
   hamburgerEl.addEventListener('click', function () {
     const opening = !document.body.classList.contains('sidebar-open');
     document.body.classList.toggle('sidebar-open');
@@ -1538,9 +1496,6 @@ function wireControls() {
 }
 
 function init() {
-  const gmMode = loadGmMode();
-  gmToggleEl.checked = gmMode;
-  document.body.classList.toggle('player-mode', !gmMode);
   collapsedState = loadCollapsedState();
 
   if (loadSidebarCollapse('page')) {
