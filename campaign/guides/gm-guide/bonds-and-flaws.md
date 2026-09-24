@@ -42,8 +42,25 @@ Choose or roll one Flaw. Each one names a genuine internal obstacle — somethin
 > [!info]**At Session Zero**
 > Choose or roll one Bond and one Flaw, then read both aloud at the table. The conversation that follows — what these mean, why you picked them, what your fellow players notice in them — is often more useful than the entries themselves.
 
+> **[GM]**
+>
+> #### GM Notes
+>
+> Each Flaw is built to meet one part of the campaign head on. Players don't see this column, so the pressure arrives as a story beat rather than a signposted test. When a player picks a Flaw, note where it lands and give that character the spotlight when the quest arrives.
+>
+> | d8 | Where the campaign presses |
+> |----|----------------------------|
+> | 1 | **Vault of Dragons**: what the character does with the gold is the final score. |
+> | 2 | **Fireball!**: the fireball forces the question. |
+> | 3 | **Cassalanter Villa**: the Cassalanters are parents who did something unforgivable for the right reasons. |
+> | 4 | **Trollskull Alley**: the Trollskull community forms around the tavern and will not let this stand. |
+> | 5 | **Cassalanter Villa**: are the Cassalanter children worth the cost of saving them? |
+> | 6 | Doom Raiders membership: the faction will eventually ask for something uncomfortable. |
+> | 7 | The lair heists (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**): none of them can be done alone. |
+> | 8 | **Vault of Dragons**: the vault is the moment, and no one is going to tell the character what to do. |
+
 ## Cross-References
 
-- [GM Guide: Bonds and Flaws](../gm-guide/bonds-and-flaws.md) — GM superset of this document; adds where each Flaw lands in the campaign
-- [Character Creation](character-creation.md) — species, backgrounds, general guidance
-- [Debts of the City](debts-of-the-city.md) — additional anchors
+- [Players' Guide: Bonds and Flaws](../players-guide/bonds-and-flaws.md) — player-facing version (no GM Notes)
+- [Debts of the City](debts-of-the-city.md) — additional character anchors, with Holder guidance
+- [Session Zero](session-zero.md) — where Bonds and Flaws are chosen and read aloud

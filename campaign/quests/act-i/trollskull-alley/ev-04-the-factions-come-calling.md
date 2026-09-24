@@ -27,18 +27,18 @@ Over the course of the renovation period, each faction sends invitations through
 | **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Finding Floon |
 | **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Paladins, clerics, characters with strong moral conviction |
 | **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Finding Floon |
-| **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Drow PCs primarily; non-drow PCs may be observed but not recruited |
+| **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
 First Meeting scenes for all seven factions are in the **Organizations** pages.
 
 ### Bregan D'Aerthe Recruitment
 
-Drow PCs notice the surveillance over several days (passive Perception 18 to spot glimpses; **DC 15 Wisdom (Insight)** to confirm the watchers are interested specifically in drow party members).
+Any PC may notice the surveillance over several days (passive Perception 18 to spot glimpses; **DC 15 Wisdom (Insight)** to confirm the watchers are drow with a particular interest in the party, and in drow party members if any).
 
 #### Party Branch — Reports Surveillance to the Watch
 
-Jarlaxle ends contact for now. **BD Contact Severed** attunement. No further BD recruitment in this quest; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
+Jarlaxle ends contact. **BD Contact Severed** attunement. BD membership is closed for the campaign; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
 
 #### Party Branch — Confronts the Drow Spies Directly
 
@@ -46,7 +46,7 @@ The spies melt away and leave a single black eye patch on the cobblestones. The 
 
 #### Party Branch — Does Nothing
 
-Surveillance continues. **Ryvarra Identified** attunement (from ev-03) modifies this branch — a party that already confirmed BD involvement and still takes no action receives the J.B. Nevercott visit automatically at the end of the week.
+Surveillance continues for the rest of the week. At the end of the week, **J.B. Nevercott** knocks at the manor's front door. The visit arrives whether or not the party noticed the watchers. If **Ryvarra Identified** is True, the party already knows what they are dealing with — the First Meeting scene in the **Bregan D'aerthe** organization page notes how Nevercott's opening differs. Award **BD Contact Established** attunement.
 
 ### Faction Renovation Assistance
 
@@ -114,11 +114,11 @@ At least one party member enrolled with Force Grey.
 #### Doom Raiders Joined: True / False
 At least one party member enrolled with the Doom Raiders.
 
-#### Bregan Dae'rthe Joined: True / False
+#### Bregan D'Aerthe Joined: True / False
 At least one party member enrolled with Bregan D'Aerthe.
 
 #### BD Acknowledged: True / False
-The J.B. Nevercott meeting proceeded. The Sea Maidens Faire BD recruitment and Zardoz Zord's relationship with the party are shaped by this flag.
+The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this flag.
 
 #### BD Contact Severed: True / False
 The party reported the BD surveillance to the Watch. Overrides *BD Acknowledged* if both are set.

@@ -105,7 +105,7 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 
 ### For Bregan D'Aerthe Characters
 
-Any party member who is a Bregan D'Aerthe operative — or any drow the party has established contact with through prior arcs — is escorted from the main deck directly to Jarlaxle's private cabin rather than the public meeting room.
+Any party member who is a Bregan D'Aerthe operative is escorted from the main deck directly to Jarlaxle's private cabin rather than the public meeting room.
 
 The persona drops. Hat removed, quieter smile, plain speech. He offers the complete ledger as a gift and a test. His ask: be in the room when the Stone conversation happens. He does not elaborate on what "the conversation" will be. He is pleasant about it.
 

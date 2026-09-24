@@ -5,10 +5,10 @@
 > #### Gamemaster's Summary
 > - **Campaign role:** Player faction and villain faction — drow mercenary company operating the Sea Maidens Faire carnival; holds Eye #3 and runs a city-wide intelligence network.
 > - **Contacts:** **Jarlaxle Baenre** / "Zardoz Zord" (primary, Sea Maidens Faire); **Krebbyg Masq'il'yr** / "Kreb Sorrush" (street contact, Seven Masks Theater)
-> - **Mission delivery:** Anonymous black coin pouches (Missions 1–2); in-person through Krebbyg; Jarlaxle directly after Mission 4.
+> - **Mission delivery:** Mission 1 by unsigned theater tickets that lead to Kreb Sorrush at the Seven Masks; Mission 2 by J.B. Nevercott in person at the Yawning Portal; Missions 3–6 in person through Krebbyg.
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Sea Maidens Faire**, **Vault of Dragons**
 >
-> **Primary Contact:** Jarlaxle Baenre — operating as "Zardoz Zord," a flamboyant Illuskan sea captain running the Sea Maidens Faire out of three carnival ships in Deepwater Harbor. He meets the party in person for the first time during Mission 2, in the additional persona of "J.B. Nevercott," a haberdasher who happens to know a great deal about editorial publishing schedules. He does not acknowledge that J.B. Nevercott and Zardoz Zord are the same person, even when both have been seen by the same party member — this is the kind of thing he finds amusing. After Mission 4, he dispenses with J.B. Nevercott but remains Zardoz Zord until **Sea Maidens Faire**, where the party meets the real Jarlaxle Baenre.
+> **Primary Contact:** Jarlaxle Baenre — operating as "Zardoz Zord," a flamboyant Illuskan sea captain running the Sea Maidens Faire out of three carnival ships in Deepwater Harbor. His first in-person meeting with the party is the Trollskull Alley recruitment visit, arriving as "J.B. Nevercott," a haberdasher who happens to know a great deal about editorial publishing schedules. Mission 2 (The Wazoo Affair) is the first job he brings after that meeting. He does not acknowledge that J.B. Nevercott and Zardoz Zord are the same person, even when both have been seen by the same party member — this is the kind of thing he finds amusing. After Mission 4, he dispenses with J.B. Nevercott but remains Zardoz Zord until **Sea Maidens Faire**, where the party meets the real Jarlaxle Baenre.
 >
 > **Street Contact:** Krebbyg Masq'il'yr — usually at the Seven Masks Theater in the Dock Ward, where he operates as "Kreb Sorrush," the theater's booking manager. A drow gunslinger with a relaxed professional manner and a slight Luskan accent he makes no effort to conceal. He handles casting inquiries, performance schedules, and faction intelligence requests with equal efficiency, switching between them mid-sentence. He does not explain who he works for until the party has already worked for that person twice.
 
@@ -16,7 +16,7 @@
 
 *"Everything is a transaction. The only question is whether you know what you're paying."*
 
-**Entry condition:** Bregan D'aerthe has two entry paths. Primary: the **Fireball!** nimblewright investigation leads the PCs to the Sea Maidens Faire and they choose to negotiate with or work alongside Jarlaxle rather than treat him as a target. Secondary (drow-heavy parties only): D'aerthe surveillance during **Trollskull Alley** escalates to J.B. Nevercott's visit at Trollskull Manor — see the First Meeting section below. If neither path is followed, Jarlaxle remains a background player and this faction is unavailable during normal play.
+**Entry condition:** Bregan D'aerthe recruits during **Trollskull Alley**, the same as every other player faction. D'aerthe surveillance escalates to J.B. Nevercott's doorstep visit at Trollskull Manor — see the First Meeting section below. If the party reports the surveillance to the Watch, contact is severed and the faction is unavailable for the campaign.
 
 Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, who has been outmaneuvering Underdark politics for generations. In Waterdeep, the operation runs out of the Sea Maidens Faire — a traveling carnival that is exactly what it appears to be, and also something else entirely. Jarlaxle does not brawl in the streets. He acquires information, sells it selectively, positions operatives in every major faction, and acts decisively only when the odds are already arranged in his favor.
 
@@ -28,7 +28,7 @@ Joining Bregan D'aerthe means working for Jarlaxle, who genuinely values capable
 
 Jarlaxle Baenre is many things: the secret lord of Luskan, the commander of Bregan D'Aerthe, and in Waterdeep, Captain Zardoz Zord of the Sea Maidens Faire, a traveling carnival that covers his intelligence operations. He arrived in the city to advance Luskan's bid to join the Lords' Alliance, and came prepared: nimblewrights sold to wealthy families across every ward, each one harvesting intelligence through a crystal ball aboard the *Scarlet Marpenoth*.
 
-He enters the Grand Game later than the other factions. When the nimblewright investigation leads the PCs to him, he'll want to understand what they're chasing before offering anything. A conversation with Jarlaxle is rarely what it appears to be. The first thing he'll do is determine whether the PCs are useful or dangerous. Ideally, he'll discover they're both.
+He is present from **Trollskull Alley** onward, operating behind J.B. Nevercott's haberdasher fiction while Zardoz Zord runs the carnival. The nimblewright investigation in **Fireball!** is what leads the party to the man behind both names — from that point he stops pretending the party is just clientele. A conversation with Jarlaxle is rarely what it appears to be. The first thing he'll do is determine whether the PCs are useful or dangerous. Ideally, he'll discover they're both.
 
 ## Key Members
 
@@ -76,18 +76,21 @@ What Jarlaxle does not have: access to the vault itself, a way to open the Stone
 | Quest | Bregan D'aerthe Hook |
 |-----|---------------------|
 | **Fireball!** | Krebbyg, watching the post-fireball investigation, sends a theater invitation to any drow party members — or, if none are present, to "the group investigating the explosion on Trollskull." The note is on Faire stationery and includes two tickets to a Seven Masks Theater performance. It is not a mission. It is reconnaissance. |
-| **Gralhund Villa** | Jarlaxle (as J.B. Nevercott) was at the edge of the Gralhund Villa incident and saw which factions converged. He didn't intervene. Word comes through Krebbyg: "We saw what happened at Gralhund. We know who left with what. If the party is interested in what we saw, the theater has a back room." His price for the intelligence is a first conversation — not a mission, a meeting. |
+| **Gralhund Villa** | Jarlaxle (as J.B. Nevercott) was at the edge of the Gralhund Villa incident and saw which factions converged. He didn't intervene. Word comes through Krebbyg: "We saw what happened at Gralhund. We know who left with what. If the party is interested in what we saw, the theater has a back room." His price for the intelligence is a private conversation — not a mission, a meeting. |
 | **Faction Outposts** | The Seven Masks Theater appears on every list of Dock Ward Bregan D'aerthe assets the party might assemble from outpost intelligence. At Renown 3+, Krebbyg has briefed the door staff: party members walk in without questions. At Renown 0, the theater is just a target on a list. |
 | **Sea Maidens Faire** | Jarlaxle reveals himself. The caper heist path and the alliance path diverge here. Parties who completed Missions 4–5 have built enough operational trust that Jarlaxle offers the negotiation before the confrontation. |
 | **Vault of Dragons** | At Dread Lord renown: Jarlaxle proposes returning the gold publicly, in the party's name, to Laeral Silverhand — in exchange for a letter of introduction to the Lords' Alliance council. This is what he has always wanted. The gold is the vehicle. |
 
 ## First Meeting
 
-- **Primary path:** **Fireball!** nimblewright investigation leads to the Sea Maidens Faire; full scene in **Fireball!**; membership offered if party negotiates with Jarlaxle rather than treating him as a target
-- **Secondary path (drow-heavy parties):** D'aerthe spies shadow the party for several days; drow characters catch glimpses (passive 18+ or DC 15 Insight identifies them as drow specifically interested in drow PCs)
-  - If reported to Watch: watchers vanish, contact ends
-  - If confronted: spies melt away, leave a black eye patch on the cobblestones
-- Following morning: J.B. Nevercott (haberdasher, burgundy coat, *hat of disguise*) knocks at Trollskull; maintains the fiction until a drow character steps away from the group
+D'aerthe spies shadow the party for several days. Any party member may notice the surveillance (passive Perception 18; **DC 15 Wisdom (Insight)** to confirm the watchers are drow, and that they have a particular interest in any drow party members).
+
+- If reported to Watch: watchers vanish, contact ends; **BD Contact Severed**
+- If confronted: spies melt away, leave a single black eye patch on the cobblestones
+- If the party takes no action: surveillance continues; J.B. Nevercott arrives at Trollskull Manor's front door at the end of the week regardless
+
+**J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) knocks at Trollskull and maintains the fiction until the party invites him inside or is alone with him.
+
 - Drops fiction: names Bregan D'aerthe, offers a first assignment as an introduction — small, deniable; produces a plain black card with a silver ship
 - Does not confirm his real identity; remains J.B. Nevercott until the fiction becomes untenable
 

@@ -1,14 +1,6 @@
 # Jarlaxle Baenre
 
-> Structuring draft. Content migrated from ch2-city-of-splendors.md.
-
----
-
-### Jarlaxle Baenre
-
-**Purpose:** Gives the DM the tools to play the campaign's most flexible villain — the one whose role (adversary, ally, or patron) is determined by player choices, and who is playable and interesting in all three versions.
-
-> **Conditional Entry:** Jarlaxle enters the Grand Game as a named player only if the nimblewright investigation (**Fireball!**) leads to the Sea Maidens Faire. If the PCs never follow that thread, Bregan D'aerthe remains a background faction. Personality phases below apply only if the conditional is met. See: GM Guide Session Zero; GM Guide Player Factions Overview; Key Decisions below.
+> **Entry and Activation:** Two separate mechanics govern Bregan D'aerthe in this campaign. **Membership** runs during **Trollskull Alley**, like any other faction: drow lieutenants shadow the party for several days, then J.B. Nevercott (Jarlaxle in disguise, posing as a haberdasher) visits Trollskull Manor and offers enrollment to any interested PC. The only gate is party action — if the party reported the watchers to the Watch, the **BD Contact Severed** flag closes the faction for the campaign. The **Ryvarra Identified** flag (from **The Neighbors** event in **Trollskull Alley**) changes how the visit opens, not whether it happens. **Villain activation** is a separate track: Jarlaxle enters the Grand Game as a named player when the **Jarlaxle Informed** flag is set during **Fireball!** and read in **Gralhund Villa**. His identity stays hidden behind J.B. Nevercott and Zardoz Zord until **Sea Maidens Faire**. The personality phases below key off the Jarlaxle Informed flag, not BD membership. See: **GM Guide: Session Zero**; **GM Guide: Player Factions Overview**; **Bregan D'aerthe** organization page.
 
 **Personality Phases**
 
@@ -18,7 +10,7 @@ Phase 1 is universal. After the reveal, the track splits based on whether the PC
 
 | When active | The mode |
 |-------------|----------|
-| Acts I–II (conditional) | The disguise; a plausible, theatrical Calishite eccentric who is too observant; PCs may like him before they know who he is; the performance holds but the intelligence behind it keeps slipping through |
+| Acts I–II *(Jarlaxle Informed)* | The disguise; a plausible, theatrical Calishite eccentric who is too observant; PCs may like him before they know who he is; the performance holds but the intelligence behind it keeps slipping through |
 
 *Trigger to Phase 2:* PCs penetrate the disguise, or Jarlaxle decides they've earned the reveal. Either way, "Zardoz Zord" ends here.
 
@@ -68,14 +60,6 @@ Phase 1 is universal. After the reveal, the track splits based on whether the PC
 **Key design note:** Jarlaxle is the only villain whose faction (Bregan D'aerthe) the PCs can join. This must be written directly into the campaign structure, not treated as an edge case. A party that joins Bregan D'aerthe inverts **Sea Maidens Faire** — the Faire becomes their base, and Jarlaxle sends them after another faction's Eye.
 
 ---
-
-## Source References
-
-- `ch2-city-of-splendors.md` Section 2: "Jarlaxle Baenre"
-- `adventure-wdh.json` Ch.7: Sea Maidens Faire encounter area
-- `1. The Villains.pdf`: Alexandrian villain analysis — primary reference
-- `9. Lair Sea Maidens Faire.pdf`: full lair reference
-- `26. Addendum Other Collaborators.pdf`: Jarlaxle as potential ally
 
 ## Cross-References
 
