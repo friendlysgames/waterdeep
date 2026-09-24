@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Build the Campaign Compendium viewer from campaign markdown files."""
 
+import importlib.util
 import os
 import json
 import re
@@ -10,10 +11,23 @@ CAMPAIGN_DIR = "campaign"
 TEMPLATE_PATH = ".claude/skills/update-campaign-viewer/references/viewer-template.html"
 OUTPUT_PATH = "docs/index.html"
 PLACEHOLDER = "/*CAMPAIGN_DATA*/null"
+MD2HTML_PATH = ".claude/skills/foundry-journal/scripts/md2html.py"
+
+
+def _load_render_sidebars_markdown():
+    # md2html.py lives in a skill folder, not an importable package -- load
+    # it by path so build-viewer.py and the foundry-journal skill share one
+    # sidebar-markdown-to-HTML converter instead of two.
+    spec = importlib.util.spec_from_file_location("md2html", MD2HTML_PATH)
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module.render_sidebars_markdown
 
 
 def build():
+    render_sidebars_markdown = _load_render_sidebars_markdown()
     pages = {}
+    sidebar_count = 0
 
     for dirpath, dirnames, filenames in os.walk(CAMPAIGN_DIR):
         # Skip structure/ subtree (superseded by quest journals)
@@ -35,9 +49,14 @@ def build():
             if m:
                 title = m.group(1)
 
-            pages[rel] = {"title": title, "content": raw}
+            before = raw.count("[!")
+            content = render_sidebars_markdown(raw)
+            sidebar_count += before - content.count("[!")
+
+            pages[rel] = {"title": title, "content": content}
 
     print(f"Collected {len(pages)} pages", file=sys.stderr)
+    print(f"Converted {sidebar_count} sidebars to fvtt advice HTML", file=sys.stderr)
 
     data = {"pages": pages}
     json_str = json.dumps(data, ensure_ascii=False, separators=(",", ":"))
