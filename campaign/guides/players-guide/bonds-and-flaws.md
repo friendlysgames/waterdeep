@@ -1,10 +1,10 @@
 # Bonds and Flaws
 
-Bonds and Flaws give your character a past that still has weight. A Bond is the wound or the lesson a formative event left behind, not the event itself — it explains why your character trusts who they trust, wants what they want, and flinches at what they flinch at. A Flaw is the internal work your character has left to do: something they carry into Waterdeep that the city, and this campaign, will not let them set down quietly.
+Bonds and Flaws give your character a past that still has weight. A Bond is the wound or the lesson a formative event left behind, not the event itself. It explains why your character trusts who they trust, wants what they want, and flinches at what they flinch at. A Flaw is the internal work your character has left to do: something they carry into Waterdeep that the city, and this campaign, will not let them set down quietly.
 
 ## Bonds
 
-Choose or roll one Bond. It should say something true about who your character was before the campaign begins — the shape a past event left on them, more than the event itself.
+Choose or roll one Bond. It should say something true about who your character was before the campaign begins: the shape a past event left on them, more than the event itself.
 
 **Bonds (d8)**
 
@@ -37,7 +37,7 @@ Choose or roll one Flaw. Each one names a genuine internal obstacle — somethin
 | 8 | I am waiting for someone to give me permission to want what I want. No one is going to give that permission. I know this. I am still waiting. | **Vault of Dragons**: the vault is the moment, and no one is going to tell you what to do |
 
 > [!design]**Flaws Are Arcs**
-> Every Flaw on this table points at a part of the campaign, not just a corner of your backstory. These aren't dressing — they're things your character actively works to overcome, and we've built the story to press on exactly these pressure points. Where the pressure lands and what it costs you to hold your ground (or to bend) is something we've left for the table to discover.
+> Every Flaw on this table reaches into a specific part of the campaign. These are things your character actively works to overcome, and we built the story to press on each one. Where the pressure lands, and what it costs to hold your ground or to bend, is something we've left for the table to discover.
 
 > [!info]**At Session Zero**
 > Choose or roll one Bond and one Flaw, then read both aloud at the table. The conversation that follows — what these mean, why you picked them, what your fellow players notice in them — is often more useful than the entries themselves.
