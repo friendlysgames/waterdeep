@@ -247,7 +247,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 |---|---|
 | `adventure-reloaded` | **Load first for any campaign content task** — governs Ember-style modular format, GM/player zones, Milestone Points, cross-document callout syntax, quest openers, scene voice, NPC profile format, design notes philosophy. Load before drafting any quest journal, event file, location journal, keyed room, NPC profile, or design notes page. |
 | `dnd-adventure-text` | Writing any adventure prose: encounter areas, read-aloud text, GM notes, treasure, traps |
-| `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style` |
+| `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style`. Also governs sidebar/callout markup (`[!type]`) in all campaign `.md`, and the `md2html.py`/`assemble.py` scripts that convert a quest journal, location journal, guide, or setting folder to Foundry JSON |
 | `ttrpg-sourcebook-style` | Lore, faction overviews, location descriptions, NPC profiles, setting prose |
 | `ember-adventure-style` | Ember voice layer for adventure text — always load alongside `dnd-adventure-text` for events, quest overviews, keyed rooms, read-aloud, NPC dialogue, tactics, Summary |
 | `ember-setting-style` | Ember voice layer for setting and GM guidance — always load alongside `ttrpg-sourcebook-style` for lore, organizations, Notable Figures, gazetteer entries, Players' Guide, GM Guide |
