@@ -16,17 +16,7 @@ The Cassalanters found a loophole. A ritual can substitute "one shy of a million
 
 Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
-### The Soul Pact: Active vs. Passive Mode
-
-The Cassalanters' posture in the Grand Game shifts based on whether the PCs are working for them.
-
-**If the PCs agreed to help:** The Cassalanters go quiet. With the PCs in the field as their agents, drawing attention risks unraveling the arrangement. Seffia Naelryke's team may be dispatched if the PCs request backup or if the Cassalanters need to insert themselves subtly. Willifort keeps tabs on the PCs from a distance.
-
-**If the PCs refused or turned hostile:** The campaign's shape changes significantly.
-
-- Imps summoned at the Asmodean Shrine maintain surveillance on the PCs, feeding the Cassalanters continuous intelligence.
-- Seffia's team joins the Eye heist at Xanathar's Lair as a competing faction.
-- Willifort attempts to assassinate Jarlaxle, fails, then targets the PCs in a follow-up attempt. This may push Jarlaxle to propose an alliance against the Cassalanters.
+How the family responds to a party that helps or hinders them is in the **Cassalanters** Factions guide page.
 
 ## Key Members
 

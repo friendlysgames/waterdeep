@@ -2,6 +2,18 @@
 
 Game mechanics for running the Cassalanters as a villain faction. For who they are, see the **Cassalanters** organization page.
 
+## The Soul Pact: Active vs. Passive Mode
+
+The Cassalanters' posture in the Grand Game shifts based on whether the PCs are working for them.
+
+**If the PCs agreed to help:** The Cassalanters go quiet. With the PCs in the field as their agents, drawing attention risks unraveling the arrangement. Seffia Naelryke's team may be dispatched if the PCs request backup or if the Cassalanters need to insert themselves subtly. Willifort keeps tabs on the PCs from a distance.
+
+**If the PCs refused or turned hostile:** The campaign's shape changes significantly.
+
+- Imps summoned at the Asmodean Shrine maintain surveillance on the PCs, feeding the Cassalanters continuous intelligence.
+- Seffia's team joins the Eye heist at Xanathar's Lair as a competing faction.
+- Willifort attempts to assassinate Jarlaxle, fails, then targets the PCs in a follow-up attempt. This may push Jarlaxle to propose an alliance against the Cassalanters.
+
 ## Response Teams
 
 **Seffia's Team.** Seffia Naelryke (**cult fanatic**) + 2 **spies** + 1 **veteran** + 1 invisible **imp**. Deployed for intelligence-gathering, surveillance, or combat support when the Cassalanters are allied with the PCs.
