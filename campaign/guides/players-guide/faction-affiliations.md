@@ -12,15 +12,10 @@ Use this table to plan your character. Each faction's contact introduces themsel
 | Emerald Enclave | Safe passage through parks, ranger contacts | Protecting natural spaces; opposing undead activity |
 | Force Grey | Powerful backup in genuine city-scale threats | Exclusive; earning the leadership's trust first |
 | Doom Raiders (Zhentarim) | Criminal network access, fences, safe houses, street intelligence | Jobs that keep the network profitable |
-| Bregan D'aerthe* | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
-
-*Bregan D'aerthe doesn't approach during **Trollskull Alley**; the sidebar below explains when it becomes available.
+| Bregan D'aerthe | Exceptional intelligence; rare resources | Loyalty, and eventually a favor that reaches beyond Waterdeep |
 
 > [!warning]**The Two Zhentarims**
 > If you want your character to join "the Zhentarim," you're joining the **Doom Raiders**. A separate Zhentarim cell operates elsewhere in the city, answering to a different and far more dangerous leader, with different contacts, different methods, and a moral code that has nothing in common with the Doom Raiders'. The two organizations do not get along, and your GM will always make clear which one you're dealing with.
-
-> [!warning]**Bregan D'aerthe Is Unlocked, Not Chosen**
-> You can't pick Bregan D'aerthe at session zero. This faction becomes available only if your party follows a particular lead during **Fireball!**. If you never follow it, Bregan D'aerthe stays a rival, or stays out of your story entirely. If you're interested, say so at your table. Your GM can make sure that door stays open.
 
 ## Renown
 
