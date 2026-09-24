@@ -58,7 +58,7 @@ Xanathar's gazers have been following anyone who left the villa with something v
 
 **Tactical assist:** A gazer swoops in and fires a paralytic ray at whoever is carrying the Stone, crippling them for one round and letting the party close distance. Xanathar would rather the party have the Stone than any other faction; he can always take it from the party later.
 
-**Response team intercept:** If the DM wants a harder version of this scene, a Xanathar Guild response team cuts off the rooftop exit route, producing a three-way confrontation for the Stone. Refer to the Response Teams section of the **Xanathar's Guild** organization page for roster and tactics.
+**Response team intercept:** If the DM wants a harder version of this scene, a Xanathar Guild response team cuts off the rooftop exit route, producing a three-way confrontation for the Stone. Refer to the Response Teams section of the **Xanathar's Guild** Factions guide page for roster and tactics.
 
 ### If the Chase Fails
 

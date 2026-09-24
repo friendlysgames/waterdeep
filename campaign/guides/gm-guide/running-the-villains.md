@@ -10,7 +10,7 @@ The current Grand Game revolves around Neverember's Enigma: the 500,000 gold dra
 
 Four factions are in active competition for the Enigma when the campaign begins. The players' characters stumble into the middle of that competition, and their choices will determine who wins, who loses, and what the vault's gold accomplishes.
 
-For the between-sessions procedure (the weekly faction check, faction state tracking, escalation pace, and when factions stand down), see **The Grand Game in Play**.
+For the between-sessions procedure (the tenday faction check, faction state tracking, escalation pace, and when factions stand down), see **The Grand Game in Play**.
 
 ## The MacGuffin Chain
 
@@ -75,12 +75,12 @@ The factions compete with each other independently of the PCs. These operations 
 | **Manshoon vs. Bregan D'aerthe** | Escalating interference | Manshoon has identified Fenerus Stormcastle as a D'aerthe cut-out and ordered his abduction. Krebbyg Masq'il'yr has flagged the Zhentarim surveillance to Jarlaxle. If the abduction proceeds, Jarlaxle's Trades Ward intelligence network is directly compromised. | *Directive to Zorbog Jyarkoth* (Interrogation House), *Letter Regarding Fenerus Stormcastle* (Seven Masks Theater) |
 | **Cassalanters vs. Bregan D'aerthe** | Surveillance — not yet conflict | Cassalanter imps conduct ongoing surveillance of the Sea Maidens Faire. Jarlaxle's counter-intelligence hasn't detected it. If the Cassalanters turn hostile, Willifort attempts to assassinate Jarlaxle, fails, and that failure likely pushes Jarlaxle toward a PC alliance against the Cassalanters. | *Instructions from Lord Cassalanter* (Asmodean Shrine) |
 
-When the PCs hit a faction outpost, check whether any inter-faction document is present and whether finding it opens a thread toward a second faction. The Revelation List section of each villain faction's organization page shows where each document is found.
+When the PCs hit a faction outpost, check whether any inter-faction document is present and whether finding it opens a thread toward a second faction. The Revelation List section of each villain faction's Factions guide page shows where each document is found.
 
 ---
 
 ## Cross-References
 
-- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, and **Bregan D'aerthe** organization pages: key members, response teams, outposts, each faction's escalation row, and revelation lists.
-- **The Grand Game in Play** (GM Guide): between-sessions procedure: the weekly faction check, faction state tracking, escalation pace, and when factions back down.
+- **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, and **Bregan D'aerthe** organization pages: key members and Grand Game agenda. **Xanathar's Guild**, **Manshoon's Zhentarim**, **The Cassalanters**, and **Bregan D'aerthe** Factions guide pages: response teams, outposts, each faction's escalation row, and revelation lists.
+- **The Grand Game in Play** (GM Guide): between-sessions procedure: the tenday faction check, faction state tracking, escalation pace, and when factions back down.
 - **Villains** (Setting): personality phases and goals for Xanathar, Manshoon, the Cassalanters, and Jarlaxle.

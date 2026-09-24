@@ -30,9 +30,121 @@ Use this table to plan your character. Each faction's contact introduces themsel
 
 ---
 
+## Ranks and Benefits
+
+> [!info]**Ranks Are Cumulative**
+> Each rank adds to the benefits you already have. Reaching Renown 10 with any faction means you keep everything from Renown 1 and 3 as well.
+
+### Harpers
+
+The Harpers value intelligence work, field judgment, and moral clarity.
+
+- Feed actionable intelligence about a faction's position, assets, or plans to your contact.
+- Expose an enemy agent embedded in the Harper network or in an allied organization.
+- Protect a civilian from faction crossfire, or refuse an assignment that would harm innocents.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Watcher** | 1 | Recognized Harper. Other members are Friendly by default. Silver harp-and-crescent pin. Access to a Harper safe house in the North Ward. |
+| **Harpshadow** | 3 | Your contact answers one direct question per tenday about faction activity or Waterdeep politics. Street-level contacts in the Dock Ward, Trades Ward, and Castle Ward share intelligence on any faction once per week: known agents, movement patterns, recent activity. |
+| **Brightcandle** | 10 | Requisition one *potion of healing* or *spell scroll* (cantrip or 1st-level) per mission from Harper stores. Call in one Harper field agent as backup once per quest. A Harper mentor builds you a *persona*: a false identity with cover name, documentation, appropriate clothes, and two contacts who will vouch for it in person. |
+| **Wise Owl** | 25 | The faction covers one sensitive operation per quest: forged documents, coordinated distractions, or witnesses who saw nothing. Informants inside rival factions can be activated for one specific intelligence request each per quest (DC 13 Charisma check; failure means the informant is unavailable for two weeks). A second *persona* is learned. When a villain faction designates you as a priority target, your handlers warn you within 24 hours. The faction can arrange a private audience with city leadership if the matter is urgent. |
+| **High Harper** | 50 | Full access to Harper intelligence archives for the North. Request a team of three Harper agents for one operation. A senior Harper personally accompanies you on one mission of your choosing, drawing on a connection to Waterdeep's power structure that opens doors across the city. Request a covert extraction from anywhere in the city, or ask the High Harpers to formally expose a villain faction's activities to the Open Lord. A third *persona* is learned. |
+
+### Lords' Alliance
+
+The Alliance rewards intelligence that reaches the right authorities and actions that protect the city's stability. Missions it assigns are not optional — the only faction to say so plainly.
+
+- Report any confirmed Grand Game faction operation, location, or agent to your contact.
+- Bring enough evidence to formally escalate the Grand Game to the Open Lord's attention.
+- Prevent large-scale violence, assist the City Watch beyond their capacity, or counter Zhentarim Splinter operations.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Cloak** | 1 | Recognized operative. Watch officers treat you as a trusted civilian informant; minor legal infractions overlooked once per tenday. |
+| **Redknife** | 3 | Your contact requests a Watch escort of two guards for one dangerous errand per tenday. Access to Alliance safe houses in the Castle and Trades Wards. Minor charges dropped or a Watch report suppressed once per week. |
+| **Stingblade** | 10 | Your contact arranges an introduction to one named person in Waterdeep's political or merchant class once per quest. Alliance covers legal costs — bail, fines, damages — for one incident per quest. Access to Watch crime reports, witness statements, and active investigation files for any case in the city (classified cases require 4 hours and a DC 12 Charisma check). |
+| **Warduke** | 25 | Private audience with the Open Lord once per quest. Alliance deploys four veterans to assist in one operation per quest. Alliance intelligence shares current estimated locations of major faction response teams, updated every 3 days. Once per quest, a request through your contact results in a Masked Lord using their authority to open a door, seal an investigation, or apply political pressure. |
+| **Lioncrown** | 50 | Full political backing of the Open Lord. One outstanding charge dropped or a wanted status cleared at the Open Lord's authority. A dedicated Alliance attaché with Open Lord authority operates alongside you in the field. The Open Lord answers three direct questions about the Grand Game or Waterdeep's political situation — honestly. |
+
+### Emerald Enclave
+
+The Enclave rewards actions that protect Waterdeep's natural balance — stopping aberrant threats, preserving living systems, and defending Phaulkonmere.
+
+- Neutralize an aberrant creature threatening the city; prevent deliberate harm to the harbor, sewers, or surrounding countryside.
+- Return a dangerous or corrupted animal to safety rather than killing it, or defend Phaulkonmere from hostile incursion.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Springwarden** | 1 | Recognized member. A supernatural gift (*charm of restoration*) is bestowed on joining. Phaulkonmere serves as a safe haven — neutral ground no faction will openly violate. |
+| **Summerstrider** | 3 | Your contact relays messages anywhere in Waterdeep or its environs via *animal messenger* once per tenday. Healing spells for injuries sustained on Enclave business, at no cost. A network of gardeners, park wardens, and harbor fisherfolk passes environmental observations — unusual animal behavior, magical disturbances — once per ward per week. |
+| **Autumnreaver** | 10 | The patron spirit of Phaulkonmere casts any druid spell of 5th level or lower on your behalf once per quest, no components required. One trained beast assists in one operation per quest. Three hidden sewer routes through the city that avoid Watch and faction territory. |
+| **Winterstalker** | 25 | The patron spirit casts spells up to 8th level on your behalf once per quest. Your contact accompanies the party on one mission per quest as a capable combat and wilderness ally. Advance intelligence on any beast, plant creature, or elemental in a target location — with Advantage on Animal Handling checks and on your first Initiative roll against that creature — once per use. The harbor network shares departure schedules for vessels of interest automatically. |
+| **Master of the Wild** | 50 | A supernatural gift (*charm of heroism*) bestowed on every party member present at Phaulkonmere — once per campaign. Six rangers and druids support one major operation. Beasts of CR 2 or lower perform one clearly communicated task for you if it does not endanger them, once per quest. |
+
+### Order of the Gauntlet
+
+The Order rewards active pursuit of evil — especially diabolism — and cooperation with Waterdeep's religious institutions.
+
+- Produce solid physical evidence of diabolism and deliver it to your contact. Evidence that can be acted on officially matters more than any confession.
+- Destroy or banish a devil or demon (CR 3 or higher) during Grand Game operations; rescue a mind-controlled citizen; or tithe at least 25% of a major hoard to a worthy cause, unprompted.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Chevall** | 1 | Recognized member. Your contact vouches for your good faith to any temple of Tyr, Helm, or Torm in Waterdeep, granting access to healing services at cost. Temples of the Triad provide free healing (*Cure Wounds* at 1st level, once per day per temple) and a place to sleep. |
+| **Marcheon** | 3 | Your contact accompanies the party on one dangerous mission per quest as a combat ally. Borrow one mundane weapon or armor from the Order's armory per tenday at no cost. Temple priests share information about suspicious parishioners, unusual spiritual activity, and known fiendish signs in their parishes. |
+| **Whitehawk** | 10 | The Order conducts surveillance on one named suspect or location per quest, reporting findings within three days. A *potion of healing* and a *potion of greater healing* before each major operation. One Uncommon magic item from the Armor, Ring, or Weapon category, selected for effectiveness against fiends and undead. Temple spellcasters of the Triad cast spells of 2nd level or lower for you at no cost. Your contact shares the Order's dossier on their primary investigation target: years of compiled observation, a partial location layout, and documentation of suspected criminal activity. |
+| **Vindicator** | 25 | The Order formally investigates a named individual or organization for diabolism, with findings admissible to the Lords of Waterdeep. Three paladins or clerics available as a Strike Team for one operation per quest. Your contact presents you with a *+1 weapon* as a permanent gift. |
+| **Righteous Hand** | 50 | Six knights and two priests support one major operation. The Order petitions the Halls of Justice to formally recognize you as agents of the Order — quasi-official legal standing in Waterdeep. If you or an ally dies in service against a fiend or undead, the Order funds one Resurrection at no cost, once. |
+
+### Force Grey
+
+Force Grey rewards operatives who treat arcane threats as city-scale problems, feed intelligence before crises develop, and operate with the discretion the Blackstaff's deniability requires.
+
+- Report significant arcane threats before they become crises; free Waterdavians from magical coercion.
+- Deliver a formal briefing with enough evidence for the Blackstaff to escalate to the Open Lord — the most consequential act a Gray Hand can perform.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Gray Hand** | 1 | Recognized operative. Enter Blackstaff Tower at any hour without appointment. The Blackstaff provides one situational consumable — *potion of water breathing*, *potion of climbing*, or similar — before missions that require it. Watch officers treat you as an authorized operative and are Friendly by default. |
+| **Junior Griffon** | 3 | The Blackstaff casts one preparatory spell of up to 3rd level on the party before a mission, once per tenday: *nondetection*, *water breathing*, *see invisibility*, *speak with dead*, or similar. Access to Blackstaff Tower's reference library for arcane research. Requisition mundane equipment and Common potions from the Tower's quartermaster at no cost. |
+| **Senior Griffon** | 10 | A Tower mage assists in one operation per quest. The party receives a *wand of secrets*. City officials and Masked Lords are Friendly to you by default. With the Blackstaff's written authorization (DC 12 Charisma check during a non-crisis period), access restricted city areas: the City of the Dead at night, sealed evidence vaults, private Watch armories. |
+| **Force Grey** | 25 | Full Force Grey status. The Blackstaff can suspend one active charge or Watch investigation at her personal authority. She casts one spell of up to 7th level for the party once per quest. One veteran Force Grey member accompanies the party on one mission per quest for up to 7 days. An Underclock badge grants Advantage on Charisma checks made to influence city officials and military officers while the badge is visible. |
+| **Force Grey Commander** | 50 | Operational command of a Force Grey team: four veterans and one mage, for any mission you choose. The Open Lord is formally briefed on your contributions and extends her personal recognition — social and political currency across the city. Access to Blackstaff Tower's scroll vault: choose any one Rare Spell Scroll. The Blackstaff casts one spell of any level on your behalf, once. |
+
+### Doom Raiders (Zhentarim)
+
+The Doom Raiders reward intelligence on their internal enemies and protection of the Network's commercial fronts. The internal war with a rival Zhentarim cell makes every confirmed piece of intelligence about that cell valuable.
+
+- Feed confirmed intelligence about the rival Splinter cell to your contact — safe house locations, operative identities, operational timing.
+- Protect Network commercial fronts from disruption; acquire and deliver key intelligence artifacts to your contact.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Fang** | 1 | Recognized Network member. A faction money-lender offers loans up to 200 gp at favorable rates, no questions asked. Stolen goods sell at 60% value through Doom Raiders fences instead of the standard 50%. |
+| **Wolf** | 3 | Your contact provides one piece of actionable intelligence on a rival faction per tenday, drawn from the Network's informant web. Access to a Black Network safe house in the Dock Ward. Restricted goods — thieves' tools, forgery kits, disguise kits, poisons, unlicensed weapons — available through the supply chain at a 20% discount. |
+| **Viper** | 10 | The Network arranges one forged document per quest — identity papers, licenses, letters of introduction — indistinguishable from genuine without magical verification. A Doom Raider ally serves as muscle on one operation per quest. A faction specialist in forgery, lockpicking, alchemy, or disguise assists on one job at no charge; after that, 50 gp per day. |
+| **Ardragon** | 25 | The Network deploys a three-person crew — two operatives and an assassin — to assist in one heist or operation per quest. Informants inside the rival Splinter cell can be activated for one specific intelligence request per quest (DC 14 Intelligence check; failure means the informant is unavailable for two weeks). Once per campaign, request that a skilled operative neutralize one named target — captured alive or eliminated. |
+| **Dread Lord** | 50 | Eight Black Network operatives for one major operation. Your contact proposes you for a seat on the reforming Zhentarim Council. Doom Raiders safe houses in every ward. The faction offers an end-game operational partnership: a distraction crew, a locksmith backup, and a wagon extraction team — in exchange for 10% of whatever you recover. |
+
+### Bregan D'aerthe
+
+The faction rewards operatives who expand its intelligence picture and protect its embedded assets. Discretion is not a preference — it is the primary operational requirement.
+
+- Deliver intelligence about a rival faction's internal position or politics that the faction does not yet possess.
+- Protect an embedded faction informant's cover within a rival organization; use faction-provided cover without compromising it.
+
+| Rank | Renown | Benefits |
+|------|--------|---------|
+| **Initiate** | 1 | Recognized operative. Safe house access through the faction's harbor network. Access to drow-made equipment at cost (hand crossbows, *+1 bolts*, darkvision-enhancing gear) through faction supply lines. All faction members extend professional courtesy and will not act against you without orders from above. |
+| **Soldier** | 3 | Your handler shares one piece of intelligence per tenday drawn from the faction's embedded network, including intelligence from sources inside rival factions. Access to a cover identity support network. A 20% discount on black-market purchases brokered through the faction. |
+| **Officer** | 10 | A drow **spy** is assigned to you for between-mission work. Their loyalty is ultimately to the faction. Access to intelligence records useful for tracing illicit activity in the city. One Uncommon magic item from the faction's collection. An intelligence assessment on any faction, NPC, or location in Waterdeep on request, delivered within 48 hours — once per quest. |
+| **Commander** | 25 | Your handler accompanies you on one mission per quest, fighting at full capacity. Two **drow gunslingers** and four **drow** support one major operation per quest. Once per quest, your handler arranges one of the following: a private audience with a Masked Lord, passage in or out of Waterdeep without City Watch knowledge, or the quiet disappearance of one named individual for six days. |
+| **Houseless Noble** | 50 | Named an honorary member of the faction's inner circle. An extensive intelligence network across Faerûn opens to you, with contacts from the Underdark to the Sword Coast. Dedicated sea transport and crew for any mission you undertake. |
+
 ## Running the Player Factions
 
-Each of the six standard factions assigns a named contact who handles recruitment and mission delivery. Full profiles, mission tables, and First Meeting scenes are in the **Organizations** pages. The table below adds what the player version withholds: contacts and the faction's actual agenda.
+Each of the six standard factions assigns a named contact who handles recruitment and mission delivery. Full mission tables and First Meeting scenes are in the **Factions** guide pages. Full profiles are in the **Organizations** pages. The table below adds what the player version withholds: contacts and the faction's actual agenda.
 
 | Faction | Contact | What they want from PCs |
 |---------|---------|------------------------|
@@ -45,7 +157,7 @@ Each of the six standard factions assigns a named contact who handles recruitmen
 
 ## Bregan D'aerthe
 
-Bregan D'aerthe is the only villain faction available to player characters, and joining it changes the shape of a major quest. Full faction profile is on the **Bregan D'aerthe** organization page.
+Bregan D'aerthe is the only villain faction available to player characters, and joining it changes the shape of a major quest. Faction lore and key members are on the **Bregan D'aerthe** organization page; quest hooks, renown and ranks, missions, response teams, and outposts are on the **Bregan D'aerthe** Factions guide page.
 
 Recruitment follows the same schedule as the other six factions: during **Trollskull Alley**, three drow lieutenants shadow the party for several days. Any PC is a candidate. Drow party members draw closer surveillance, but the invitation reaches every member of the group regardless of species or background.
 
@@ -53,9 +165,9 @@ The surveillance has three branches:
 
 - **Watch reported:** The spies vanish within hours. All BD contact ends for the campaign. Set **BD Contact Severed**.
 - **Surveillance confronted:** The spies melt away and leave a single black eye patch on the cobblestones. J.B. Nevercott knocks the next morning.
-- **Party does nothing:** Surveillance continues through the week. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
+- **Party does nothing:** Surveillance continues through the tenday. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
 
-**J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** organization page. Set **BD Contact Established** when it concludes.
+**J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** Factions guide page. Set **BD Contact Established** when it concludes.
 
 > [!warning]**Bregan D'aerthe Contact Severed**
 > If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This flag closes BD membership for the entire campaign. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
@@ -74,27 +186,7 @@ A party with members in multiple factions will face these tensions as individual
 
 The practical limit: faction pressure should complicate a decision the party cares about, not force someone to act against the group's survival. Almost every faction obligation has a tenday of slack built in. Surface the competing positions as information; let the players find the path.
 
-## How Renown Works
-
-Renown is tracked as a separate numerical score for each faction a character belongs to. A character who joins both the Harpers and the Doom Raiders has two independent scores, each starting at 0. Ranks and benefits are per-faction; reaching Renown 10 with the Harpers does nothing for a character's Doom Raiders standing.
-
-**Calibration.** A character who completes all six faction missions and earns available Grand Game bonuses will reach approximately Renown 30–35 by the late heist quests, enough for the Renown 25 rank in their primary faction and Renown 10–15 in a secondary one. Build late-game faction payoffs with that range in mind.
-
-**Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. A character who repeatedly accepts and abandons assignments does not. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
-
-**Tracking.** Keep the per-faction Renown score on the session notes alongside the character sheet. Renown changes take effect immediately; a character who earns enough for a new rank gains its benefits before the next scene.
-
-## Running Faction Missions
-
-Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals. Faction missions award no Milestone Points.
-
-**A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the PCs.
-
-**Mission delivery.** Unless noted, missions arrive via the faction's preferred method: paper birds for Harpers, flying snakes for Doom Raiders, animal messengers for the Enclave, *Sending* spells for Force Grey.
-
-**Failure.** If a mission ends in failure, the situation changes; it doesn't simply reset. Targets escape, informants are compromised, and rival factions benefit. Each mission's Aftermath section describes exactly what changes when things go wrong.
-
-**Renown.** Missions are calibrated by tier: Level 2–3 missions pay 2 Renown, Level 4–5 pay 3, Level 6–7 pay 4. Each mission lists specific bonus conditions worth +1 each; award only those, not a general judgment call. A clean failure forfeits the award but costs nothing; a mission that causes collateral damage costs −1. Supplementary renown from upholding faction values (+1) and achieving major faction goals (+2) stacks on top; a dedicated member should reach Renown 30+ by the late heist quests.
+Renown rules and mission-running procedures are in the **Factions** guide: see [Factions: Overview](../factions/01-overview.md).
 
 ## Non-Player Factions
 
@@ -103,7 +195,9 @@ The seven factions above are the organizations available for player characters t
 ## Cross-References
 
 - [Players' Guide: Faction Affiliations](../players-guide/faction-affiliations.md) — player-facing subset
-- **Organizations** (Setting): full faction profiles, renown, ranks, and missions
+- [Factions Guide: Overview](../factions/01-overview.md) — Renown rules, mission-running procedures, page map for all faction pages
+- **Organizations** (Setting): full faction profiles and Grand Game agendas
+- **Factions** guide pages: renown, ranks, missions, and First Meeting scenes
 - **Notable Figures**: all faction contacts and key NPCs
 - **Running the Villains** (GM Guide): adversary faction details
 - **Faction Missions** (Quest Journals): full mission write-ups for all seven factions

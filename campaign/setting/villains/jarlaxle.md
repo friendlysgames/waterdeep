@@ -65,5 +65,5 @@ Phase 1 is universal. After the reveal, the track splits based on whether the PC
 
 - [Sea Maidens Faire](../../structure/arc-h-sea-maidens-faire.md) — heist quest featuring Jarlaxle directly
 - [Notable Figures](../notable-figures/) — full profiles for Nar'l Xibrindas
-- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — operational detail, response teams, escalation; see also [Bregan D'aerthe](../organizations/07-bregan-daerthe.md)
+- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — villain reference tables; [Bregan D'aerthe](../../guides/factions/08-bregan-daerthe.md) (Factions guide) — response teams, outposts, escalation, revelation list; [Bregan D'aerthe](../organizations/07-bregan-daerthe.md) (Organizations) — who Bregan D'aerthe is
 - [GM Guide: Player Factions Overview](../../guides/gm-guide/player-factions-overview.md) — Bregan D'aerthe as unique joinable villain faction

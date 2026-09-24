@@ -2,7 +2,7 @@
 
 > Structuring draft.
 
-Response Teams are detailed fully on the villain faction organization pages. This section covers how each team behaves specifically at the tavern — when they come, what they want, what the visit looks like at the bar rather than in an alley.
+Response Teams are detailed fully on the villain faction Factions guide pages. This section covers how each team behaves specifically at the tavern — when they come, what they want, what the visit looks like at the bar rather than in an alley.
 
 **Ground rule:** Response Teams do not attack the tavern unprovoked while customers are present. A public massacre in a licensed North Ward establishment invites City Guard, the Watchful Order, and potentially Vajra Safahr personally within the hour. What they do instead is visit. The manner of the visit tells the party exactly where they stand.
 

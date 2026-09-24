@@ -131,7 +131,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 
 | File | Contents |
 |---|---|
-| `about-this-campaign.md` | Superset of player version; adds DM private notes on deaths, sympathetic villains, tone |
+| `about-this-campaign.md` | Separate GM briefing page (not a superset of the player version): what the remix changes, the pillars at the table, the campaign's shape, a GM Guide page map, tone, and the secrets to keep from players |
 | `session-zero.md` | Full session zero script: campaign pitch, gold question, contract, safety tools |
 | `debts-of-the-city.md` | Superset of player version; adds Holder guidance, Warning callouts, Design Note |
 | `bonds-and-flaws.md` | Superset of player version; adds GM Notes table of where each Flaw lands in the campaign |
@@ -156,6 +156,15 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `08-notable-patrons.md` | Named patron profiles |
 | `09-response-teams-at-the-tavern.md` | Faction response team rules at the manor |
 
+**Factions Guide** (`campaign/guides/factions/`): factions as game mechanics. Faction lore lives in `campaign/setting/organizations/`.
+
+| File | Contents |
+|---|---|
+| `01-overview.md` | How renown works, running faction missions, page map |
+| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting, Renown & Ranks, Missions |
+| `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
+| `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
+
 The Bestiary (custom monster and boss stat blocks) is not yet drafted.
 
 ### Setting (`campaign/setting/`)
@@ -172,7 +181,7 @@ All setting files are structuring drafts.
 | `villains/cassalanters.md` | 3 phases, relationships, goals, children timing note |
 | `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
-| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Each merges player-faction and villain-faction content from the former appendices. |
+| `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Lore only: Operations, Key Members, Grand Game Agenda, Overview. Game mechanics (stance, hooks, first meeting, renown, missions, response teams, outposts, escalation, revelation lists) live in the **Factions Guide**. |
 
 ### Sources
 
@@ -334,7 +343,9 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
 
-**Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
+**Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
+
+**Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
 
 **Quests, not arcs:** The campaign is organized as quests within Acts. Refer to quests by name (**Fireball!**, **Xanathar's Lair**); never write "Arc X" labels in new content. Structure-doc file names keep their `arc-*` slugs until each is converted to a quest journal.
 

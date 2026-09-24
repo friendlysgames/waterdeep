@@ -16,7 +16,7 @@ Run Trollskull Alley as weeks of parallel activity, with these events as waypoin
 
 ## Trollskull Alley as the Conductor's Score
 
-**Trollskull Alley carries less original mechanical content than any other quest by design.** The tavern renovation system lives in the **Trollskull Manor** guide. The staff candidates live in the **Trollskull Manor** guide. The faction recruitment scenes live in the **Organizations** pages. The faction missions live in the **Faction Missions** quest journals. Trollskull Alley's job is to establish *when* each of these systems becomes relevant and *what the party is doing* when those systems activate, not to duplicate the content. A DM who reads Trollskull Alley and then the **Trollskull Manor** guide will have a complete picture of the renovation period. A DM who reads only Trollskull Alley will have enough to run the quest. That detail is there when they want it.
+**Trollskull Alley carries less original mechanical content than any other quest by design.** The tavern renovation system lives in the **Trollskull Manor** guide. The staff candidates live in the **Trollskull Manor** guide. The faction recruitment scenes live in the **Factions** guide pages. The faction missions live in the **Faction Missions** quest journals. Trollskull Alley's job is to establish *when* each of these systems becomes relevant and *what the party is doing* when those systems activate, not to duplicate the content. A DM who reads Trollskull Alley and then the **Trollskull Manor** guide will have a complete picture of the renovation period. A DM who reads only Trollskull Alley will have enough to run the quest. That detail is there when they want it.
 
 ## Emmek Frewn as Sustained Antagonist
 

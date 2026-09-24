@@ -54,4 +54,4 @@
 
 - [Xanathar's Lair](../../structure/arc-f-xanathars-lair.md) — heist quest featuring Xanathar directly
 - [Notable Figures](../notable-figures/) — full profiles for Ahmaergo, Nihiloor, Nar'l Xibrindas
-- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — operational detail, response teams, escalation; see also [Xanathar's Guild](../organizations/08-xanathars-guild.md)
+- [Running the Villains](../../guides/gm-guide/running-the-villains.md) — villain reference tables; [Xanathar's Guild](../../guides/factions/09-xanathars-guild.md) (Factions guide) — response teams, outposts, escalation, revelation list; [Xanathar's Guild](../organizations/08-xanathars-guild.md) (Organizations) — who the Guild is

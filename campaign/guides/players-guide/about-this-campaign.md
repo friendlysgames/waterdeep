@@ -30,5 +30,5 @@ It's not built for tables that want a primary combat focus. Fights happen, and s
 
 ## Cross-References
 
-- [GM Guide: About This Campaign](../gm-guide/about-this-campaign.md) — DM superset of this document; includes private running notes
+- [GM Guide: About This Campaign](../gm-guide/about-this-campaign.md) — the GM's briefing page for the campaign
 - [Faction Affiliations](faction-affiliations.md) — which factions are available and why

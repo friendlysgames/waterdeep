@@ -14,7 +14,7 @@
 >
 > **Milestone: 1 Milestone Point** — factions enrolled; renovation financing secured.
 >
-> Cross-ref the **Organizations** pages (all First Meeting scenes, BD Remix Option), the **Faction Missions** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
+> Cross-ref the **Factions** guide pages (all First Meeting scenes, BD Remix Option), the **Faction Missions** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
 
 ### Invitations Arrive
 
@@ -30,7 +30,7 @@ Over the course of the renovation period, each faction sends invitations through
 | **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
-First Meeting scenes for all seven factions are in the **Organizations** pages.
+First Meeting scenes for all seven factions are in the **Factions** guide pages.
 
 ### Bregan D'Aerthe Recruitment
 
@@ -42,11 +42,11 @@ Jarlaxle ends contact. **BD Contact Severed** attunement. BD membership is close
 
 #### Party Branch — Confronts the Drow Spies Directly
 
-The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in the **Bregan D'aerthe** organization page. Award **BD Contact Established** attunement.
+The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in the **Bregan D'aerthe** Factions guide page. Award **BD Contact Established** attunement.
 
 #### Party Branch — Does Nothing
 
-Surveillance continues for the rest of the week. At the end of the week, **J.B. Nevercott** knocks at the manor's front door. The visit arrives whether or not the party noticed the watchers. If **Ryvarra Identified** is True, the party already knows what they are dealing with — the First Meeting scene in the **Bregan D'aerthe** organization page notes how Nevercott's opening differs. Award **BD Contact Established** attunement.
+Surveillance continues for the rest of the week. At the end of the week, **J.B. Nevercott** knocks at the manor's front door. The visit arrives whether or not the party noticed the watchers. If **Ryvarra Identified** is True, the party already knows what they are dealing with — the First Meeting scene in the **Bregan D'aerthe** Factions guide page notes how Nevercott's opening differs. Award **BD Contact Established** attunement.
 
 ### Faction Renovation Assistance
 
@@ -97,7 +97,7 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 ### Concluding the Event
 
 #### Harpers Joined: True / False
-At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** organization page (mission unlock), the **Faction Missions** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
+At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Missions** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
 #### Lords Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.

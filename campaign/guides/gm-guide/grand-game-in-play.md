@@ -1,8 +1,8 @@
 # The Grand Game in Play
 
-The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each week. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**.
+The Grand Game doesn't wait. While the party rests, the factions are moving: issuing orders, reading intelligence, replenishing losses, and adjusting to whatever the PCs did last session. Between sessions, use this routine to keep four active villain factions coherent without rebuilding them from scratch each session. For the reference tables (faction knowledge at campaign start, the full escalation tier table, and the inter-faction operations matrix), see **Running the Villains**.
 
-## The Weekly Faction Check
+## The Tenday Faction Check
 
 Running four simultaneous factions is less complicated than it sounds, because only one or two are visible in any given session. The others are working in the background. Between sessions, spend five minutes asking three questions about each faction:
 
@@ -16,7 +16,7 @@ The factions know things the PCs don't. Response teams, surveillance operations,
 
 Play factions like thinking opponents, not obstacles. Each one has goals, pursues them methodically, and reacts to setbacks. A faction loses interest in the PCs the moment the PCs stop mattering to its plans. Some factions will try to kill the party, but only because the PCs represent a specific threat to a specific goal.
 
-> [!abstract]**The Weekly Check at a Glance**
+> [!abstract]**The Tenday Check at a Glance**
 > **Three questions per faction:**
 > 1. What do they know right now?
 > 2. What are they doing about it?
@@ -25,7 +25,7 @@ Play factions like thinking opponents, not obstacles. Each one has goals, pursue
 > **Four things to track per faction:**
 > - Current knowledge of PC identities and capabilities
 > - Response status: team deployed? leadership notified? which escalation tier?
-> - What the faction is pursuing this week, independent of the PCs
+> - What the faction is pursuing this tenday, independent of the PCs
 > - Whether the faction's Grand Game position has shifted (Eye acquired or lost, operative compromised, alliance changed)
 
 ## Faction State Tracking
@@ -36,7 +36,7 @@ After each session, update a short faction record for each villain faction. Four
 
 **Response status.** Record which escalation tier each faction currently occupies and what would push it to the next one. Note whether a response team has been deployed and whether the PC threat has reached faction leadership.
 
-**Independent weekly activity.** Write one sentence describing what the faction is doing this week regardless of PC involvement. This keeps factions present in the narrative even when the party is focused elsewhere.
+**Independent tenday activity.** Write one sentence describing what the faction is doing this tenday regardless of PC involvement. This keeps factions present in the narrative even when the party is focused elsewhere.
 
 **Grand Game position.** Record any shift in the faction's standing: an Eye acquired or lost, a key operative killed or compromised, an alliance formed or broken, a safe house burned.
 
@@ -81,7 +81,11 @@ Escalation rarely ends in a stand-up fight. Most factions have exits from direct
 
 **The Cassalanters** retreat to social and legal pressure before infernal force. Their first response to a party that has become a problem is Watch complaints, noble pressure, guild sanctions, and quiet damage to the PCs' reputation in the city. What they want for standing down is discretion: a party that will stay out of their affairs and never speak of the soul pact. Ammalia Cassalanter is more comfortable wielding Waterdeep's social machinery than facing direct confrontation. What they remember is anyone who has learned too much.
 
+They can also be negotiated out of the Grand Game entirely. The vault gold is a means, not an end. Everything they have done since signing Asmodeus's contract has aimed at buying their children's freedom before the twins' ninth birthday, and once a party discovers the full truth and approaches them directly, the social mask drops. Victoro's polished banker act vanishes and a frightened father takes his place. Ammalia weeps. They will take any genuine alternative the party offers, immediately and without negotiation. Two exits from the Game are available. In the cooperative path, the party secures the vault gold on their behalf; the Cassalanters exit satisfied, but every coin from Neverember's hoard goes to Asmodeus and the party receives nothing. In the contract path, the mace of disruption, recovered from Caladorn Cassalanter's ghost in the villa's family crypt, strikes the Asmodeus statue in A7, severs the infernal contract, and renders the gold irrelevant; the children are freed without payment, but Asmodean retribution follows within days. Both routes require reaching **Cassalanter Villa** first. The full resolution mechanics, including the sacrifice clause that runs parallel to the gold payment, are there.
+
 **Bregan D'aerthe** reaches for leverage before force in almost every circumstance. What Jarlaxle wants is the political favor he has pursued for years: Lords' Alliance membership for Luskan. Direct confrontation comes only when the PCs have killed his lieutenants without offering terms. Jarlaxle holds debts and opportunities. A party that has crossed him simply moves to a different column in his ledger.
+
+He can also be reasoned with, and even joined. Membership opens during **Trollskull Alley**, before the party knows who Jarlaxle is, through the same surveillance-and-recruitment sequence that runs for every other faction. Joining changes the shape of **Sea Maidens Faire** completely: D'aerthe members find the Faire is a home base rather than a heist target, and Jarlaxle sends the party after another faction's Eye instead. Reporting the initial surveillance to the Watch closes membership permanently and leaves Jarlaxle a neutral third party in **Sea Maidens Faire**, never a potential ally. For parties who have not joined, two paths to a voluntary resolution exist before Tarsakh 20, when the ships depart. The alliance path asks for a credible political commitment to Luskan's Lords' Alliance bid in exchange for Eye #3; it requires a DC 16 Charisma (Persuasion) check, with advantage when the party brings concrete commitments from two or more faction contacts, and Jarlaxle detects empty promises. It bypasses the heist entirely, but strains every faction relationship built to that point. The patron path is available to D'aerthe members: at Renown 10 or above, Jarlaxle gives the Eye outright as a reward for proven service; at Initiate or Soldier rank (Renown 1–9), he runs the Zardoz Betrayal Pitch instead, a competence and loyalty test disguised as a job, and a party that reports back honestly sees him drop the disguise, reveal himself, and offer the Eye freely. Full mechanics for all three routes are in **Sea Maidens Faire** and the **Bregan D'aerthe** Factions guide page.
 
 **Xanathar** rarely backs down once engaged. He takes opposition personally, his grudges are permanent, and he has no diplomatic instincts. Standing down is possible only if the PCs perform an act that satisfies his ego: a gesture of submission, a gift of intelligence about one of his enemies, a public humiliation of someone he hates. The act must be specific and visible to him. Quiet de-escalation doesn't register.
 
@@ -93,7 +97,7 @@ Escalation rarely ends in a stand-up fight. Most factions have exits from direct
 - [Structural Rules](structural-rules.md) — faction response team mechanics, festival calendar, Three Clue Rule
 - [Setting: Grand Game](../../setting/grand-game.md) — in-world texture of how power moves in Waterdeep
 - [Setting: Villains](../../setting/villains/) — personality phases and goals for Xanathar, Manshoon, the Cassalanters, and Jarlaxle
-- [Bregan D'aerthe](../../setting/organizations/07-bregan-daerthe.md) — response teams, revelation list
-- [Xanathar's Guild](../../setting/organizations/08-xanathars-guild.md) — response teams, revelation list
-- [Manshoon's Zhentarim](../../setting/organizations/09-manshoons-zhentarim.md) — response teams
-- [The Cassalanters](../../setting/organizations/10-cassalanters.md) — response teams, revelation list
+- [Bregan D'aerthe](../factions/08-bregan-daerthe.md) — response teams, revelation list
+- [Xanathar's Guild](../factions/09-xanathars-guild.md) — response teams, revelation list
+- [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response teams
+- [The Cassalanters](../factions/11-cassalanters.md) — response teams, revelation list
