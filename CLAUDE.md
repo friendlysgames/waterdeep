@@ -124,7 +124,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `about-this-campaign.md` | Three remix pillars, concept, who it suits |
 | `character-creation.md` | General guidance, species notes, all XPHB + FRHoF backgrounds rated for Waterdeep fit |
 | `debts-of-the-city.md` | All 8 Debts — flavor + "Your character knows" only; no Holder sections |
-| `bonds-and-flaws.md` | Bonds table (d8) and Flaws table (d8) with quest connections |
+| `bonds-and-flaws.md` | Bonds table (d8) and Flaws table (d8); quest connections are GM-only |
 | `faction-affiliations.md` | Faction preview table, BD conditional entry, Two Zhentarims note; player-safe renown basics |
 
 **GM Guide** (`campaign/guides/gm-guide/`)
@@ -134,6 +134,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `about-this-campaign.md` | Superset of player version; adds DM private notes on deaths, sympathetic villains, tone |
 | `session-zero.md` | Full session zero script: campaign pitch, gold question, contract, safety tools |
 | `debts-of-the-city.md` | Superset of player version; adds Holder guidance, Warning callouts, Design Note |
+| `bonds-and-flaws.md` | Superset of player version; adds GM Notes table of where each Flaw lands in the campaign |
 | `adventure-summary.md` | Four-act overview table, dramatic arc per act, milestone pacing notes |
 | `structural-rules.md` | Two Zhentarims, faction response teams, festival calendar, Three Clue Rule, fireball victim, faction state tracking |
 | `grand-game-in-play.md` | Starting faction knowledge, escalation tiers (1–5), inter-faction conflict, when factions back down |
