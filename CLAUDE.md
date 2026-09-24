@@ -249,6 +249,8 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | `dnd-adventure-text` | Writing any adventure prose: encounter areas, read-aloud text, GM notes, treasure, traps |
 | `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style` |
 | `ttrpg-sourcebook-style` | Lore, faction overviews, location descriptions, NPC profiles, setting prose |
+| `ember-adventure-style` | Ember voice layer for adventure text — always load alongside `dnd-adventure-text` for events, quest overviews, keyed rooms, read-aloud, NPC dialogue, tactics, Summary |
+| `ember-setting-style` | Ember voice layer for setting and GM guidance — always load alongside `ttrpg-sourcebook-style` for lore, organizations, Notable Figures, gazetteer entries, Players' Guide, GM Guide |
 | `dnd-adventure-converter` | Converting existing 2014 adventure prose to 2024 rules |
 | `dnd-monster-converter` | Converting an existing 2014 stat block to 2024 format |
 | `dnd-monster-designer` | Designing a new 2024 stat block for a standard monster or minion |
@@ -354,7 +356,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 ### Writing a new quest or campaign section
 
 1. Load `adventure-reloaded` (document structure, quest openers, scene voice, callout taxonomy, NPC profile format, design notes philosophy)
-2. Load `dnd-adventure-text` + `foundry-journal` (scene-level prose and visual formatting)
+2. Load `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal` (scene-level prose, Ember voice, and visual formatting)
 3. Draft as a Quest Journal — flat folder: `overview.md` → event files (`ev-NN-name.md` in order) → `flowchart.md` → `design-notes.md`
 4. For keyed locations, draft a separate Location Journal: `area-overview.md` → room files (`[code]-[name].md`)
 5. For NPC profiles: use the Resonance / Emotions / Motivations / Inspirations // Persona / Morale / Relationships format from `adventure-reloaded`
@@ -365,7 +367,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Writing a keyed location or encounter area
 
-1. Load `dnd-adventure-text` + `foundry-journal`
+1. Load `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal`
 2. Write: setup paragraph → read-aloud → creature behavior → checks → treasure → development
 3. For monsters: `dnd-monster-designer` (standard) or `boss-design` (named villain)
 4. For encounter balancing: `cr2-encounter-builder`
@@ -374,7 +376,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Converting 2014 content to 2024
 
-1. Load `dnd-adventure-converter` + `dnd-adventure-text` + `foundry-journal`
+1. Load `dnd-adventure-converter` + `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal`
 2. Terminology pass → structural pass → action naming → monster renames
 3. For embedded stat blocks: run through `dnd-monster-converter`, splice back in
 4. Run `deslop-text` + `no-ai-slop` → `humanize-prose`
@@ -382,7 +384,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Writing lore or sourcebook-style content
 
-1. Load `ttrpg-sourcebook-style` + `foundry-journal`
+1. Load `ttrpg-sourcebook-style` + `ember-setting-style` + `foundry-journal`
 2. Write following sourcebook conventions (consequence-layered facts, competing tensions, in-world closing quote)
 3. Run `deslop-text` + `no-ai-slop` → `humanize-prose`
 4. Save to `.md` source file
