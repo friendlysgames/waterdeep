@@ -326,7 +326,7 @@ By the end of Scene 6 the Grand Game is formally concluded, and the campaign's c
 - **Kolat Towers** Scene 6 — "Manshoon operational?" flag and the full Manshoon Identity Reveal, both read directly in Scene 5.
 - **Notable Figures** — Existing profiles used directly: Aurinax, Renaer Neverember, Hlam, Sir Ambrose Everdawn, Laeral Silverhand, Mirt, Jalester Silvermane, Vajra Safahr, Savra Belabranta, Jarlaxle, Manshoon. New profile added: Dagult Neverember.
 - **the Bestiary (not yet drafted)** — Boss stat block needed: Aurinax (see boss-design notes below).
-- the **Organizations** pages — All seven Mission 6 entries, quoted or paraphrased directly in Scene 1.
+- the **Factions** guide pages — All seven Mission 6 entries (Missions section), quoted or paraphrased directly in Scene 1.
 - **Running the Villains** (GM Guide) — The Grand Game setup (Part 1) and faction escalation framework, both load-bearing for Scene 5's roster assembly.
 - **Undermountain (future)** — Five Mad Mage bridge hooks cataloged in Scene 6.
 

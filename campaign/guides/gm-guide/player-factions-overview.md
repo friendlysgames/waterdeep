@@ -144,7 +144,7 @@ The faction rewards operatives who expand its intelligence picture and protect i
 
 ## Running the Player Factions
 
-Each of the six standard factions assigns a named contact who handles recruitment and mission delivery. Full profiles, mission tables, and First Meeting scenes are in the **Organizations** pages. The table below adds what the player version withholds: contacts and the faction's actual agenda.
+Each of the six standard factions assigns a named contact who handles recruitment and mission delivery. Full mission tables and First Meeting scenes are in the **Factions** guide pages. Full profiles are in the **Organizations** pages. The table below adds what the player version withholds: contacts and the faction's actual agenda.
 
 | Faction | Contact | What they want from PCs |
 |---------|---------|------------------------|
@@ -157,7 +157,7 @@ Each of the six standard factions assigns a named contact who handles recruitmen
 
 ## Bregan D'aerthe
 
-Bregan D'aerthe is the only villain faction available to player characters, and joining it changes the shape of a major quest. Full faction profile is on the **Bregan D'aerthe** organization page.
+Bregan D'aerthe is the only villain faction available to player characters, and joining it changes the shape of a major quest. Faction lore and key members are on the **Bregan D'aerthe** organization page; quest hooks, renown and ranks, missions, response teams, and outposts are on the **Bregan D'aerthe** Factions guide page.
 
 Recruitment follows the same schedule as the other six factions: during **Trollskull Alley**, three drow lieutenants shadow the party for several days. Any PC is a candidate. Drow party members draw closer surveillance, but the invitation reaches every member of the group regardless of species or background.
 
@@ -167,7 +167,7 @@ The surveillance has three branches:
 - **Surveillance confronted:** The spies melt away and leave a single black eye patch on the cobblestones. J.B. Nevercott knocks the next morning.
 - **Party does nothing:** Surveillance continues through the tenday. J.B. Nevercott knocks regardless of whether the party noticed the watchers.
 
-**J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** organization page. Set **BD Contact Established** when it concludes.
+**J.B. Nevercott** (haberdasher, burgundy coat, *hat of disguise*) arrives at Trollskull Manor and maintains the fiction until he chooses to drop it. The full First Meeting scene is in the **Bregan D'aerthe** Factions guide page. Set **BD Contact Established** when it concludes.
 
 > [!warning]**Bregan D'aerthe Contact Severed**
 > If the party reports the BD surveillance to the Watch, set **BD Contact Severed** and do not run the J.B. Nevercott scene. This flag closes BD membership for the entire campaign. Jarlaxle becomes aware of the party regardless; his intelligence network is thorough enough that the report changes nothing except the relationship. He operates as a neutral third party in **Sea Maidens Faire** rather than a potential ally. There is no second recruitment opportunity. The decision is permanent.
@@ -196,7 +196,8 @@ The seven factions above are the organizations available for player characters t
 
 - [Players' Guide: Faction Affiliations](../players-guide/faction-affiliations.md) — player-facing subset
 - [Factions Guide: Overview](../factions/01-overview.md) — Renown rules, mission-running procedures, page map for all faction pages
-- **Organizations** (Setting): full faction profiles, renown, ranks, and missions
+- **Organizations** (Setting): full faction profiles and Grand Game agendas
+- **Factions** guide pages: renown, ranks, missions, and First Meeting scenes
 - **Notable Figures**: all faction contacts and key NPCs
 - **Running the Villains** (GM Guide): adversary faction details
 - **Faction Missions** (Quest Journals): full mission write-ups for all seven factions

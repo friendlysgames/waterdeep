@@ -78,7 +78,7 @@ DM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
 | Sewer Grate Documented | ev-02 | Fireball (response team sewer approach) |
 | Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
-| Faction Joined: [Name] | ev-04 | the **Organizations** pages (missions); Faction Outposts (outpost access) |
+| Faction Joined: [Name] | ev-04 | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
 | BD Contact Established | ev-04 | Sea Maidens Faire (Zardoz relationship) |
 | BD Contact Severed | ev-04 | Sea Maidens Faire (no BD relationship in arc entry) |
 | Meloon Met (Field of Triumph) | ev-05 | Force Grey Mission 3 |

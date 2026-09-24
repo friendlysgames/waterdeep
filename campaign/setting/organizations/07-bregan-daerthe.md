@@ -16,7 +16,7 @@
 
 *"Everything is a transaction. The only question is whether you know what you're paying."*
 
-**Entry condition:** Bregan D'aerthe recruits during **Trollskull Alley**, the same as every other player faction. D'aerthe surveillance escalates to J.B. Nevercott's doorstep visit at Trollskull Manor — see the First Meeting section below. If the party reports the surveillance to the Watch, contact is severed and the faction is unavailable for the campaign.
+**Entry condition:** Bregan D'aerthe recruits during **Trollskull Alley**, the same as every other player faction. D'aerthe surveillance escalates to J.B. Nevercott's doorstep visit at Trollskull Manor — see the First Meeting section of the **Bregan D'aerthe** Factions guide page. If the party reports the surveillance to the Watch, contact is severed and the faction is unavailable for the campaign.
 
 Bregan D'aerthe is a mercenary company of drow exiles and surface operatives, led by Jarlaxle Baenre, who has been outmaneuvering Underdark politics for generations. In Waterdeep, the operation runs out of the Sea Maidens Faire — a traveling carnival that is exactly what it appears to be, and also something else entirely. Jarlaxle does not brawl in the streets. He acquires information, sells it selectively, positions operatives in every major faction, and acts decisively only when the odds are already arranged in his favor.
 

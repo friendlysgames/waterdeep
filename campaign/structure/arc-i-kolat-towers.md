@@ -320,7 +320,7 @@ The quest's encounters are calibrated for the 4th–7th level range this flexibi
 - **Notable Figures** — Existing profiles: Manshoon, Sidra Romeir, Manafret Cherryport, Vevette Blackwater, Agorn Fuoco, Urstul Floxin, Lady Gondafrey, Skeemo Weirdbottle. New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror.
 - **the Bestiary (not yet drafted)** — Boss stat block needed: Manshoon (with simulacrum mechanic distinction). Standard stat blocks needed: Havia Quickknife, Mookie Plush.
 - the **Faction Missions** quest journals (Doom Raiders Missions 5–6) — intelligence products feeding Scenes 1 and 2.
-- **The Zhentarim (Doom Raiders)** organization page — full operation write-up for the Kolat Towers parallel action.
+- **Doom Raiders** Factions guide page — Quest Hooks section; full operation write-up for the Kolat Towers parallel action.
 - **Running the Villains** (GM Guide) — Manshoon faction overview, escalation framework, Kolat Towers lair entry (line 502: Trades Ward).
 - The **Trollskull Manor** guide — corrected from "Southern Ward" to "Trades Ward."
 - **Chapter 2, line 30** — corrected from North Ward ward-border placement to Trades Ward.

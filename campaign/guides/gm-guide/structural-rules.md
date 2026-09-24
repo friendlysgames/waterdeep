@@ -23,7 +23,7 @@ Each villain faction maintains mobile squads — groups of 2–4 members deploye
 
 Faction state tracking runs between sessions; the full procedure is in [The Grand Game in Play](grand-game-in-play.md).
 
-**Team personalities.** Full rosters are on the organization pages ([Bregan D'aerthe](../../setting/organizations/07-bregan-daerthe.md), [Xanathar's Guild](../../setting/organizations/08-xanathars-guild.md), [Manshoon's Zhentarim](../../setting/organizations/09-manshoons-zhentarim.md), [Cassalanters](../../setting/organizations/10-cassalanters.md)). Their tactical characters at the table:
+**Team personalities.** Full rosters are on the Factions guide pages ([Bregan D'aerthe](../factions/08-bregan-daerthe.md), [Xanathar's Guild](../factions/09-xanathars-guild.md), [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md), [Cassalanters](../factions/11-cassalanters.md)). Their tactical characters at the table:
 
 - **Xanathar's Guild** — brute force with gazer scouts on point; paranoid overreaction to any threat; calls for reinforcements faster than necessary.
 - **Manshoon's Zhentarim** — professional mercenary tactics; more willing to negotiate mid-fight than any other faction; there are always more members nearby than visible.
@@ -87,7 +87,7 @@ Critical beats to audit:
 | Finding each villain faction's lair | **Faction Outposts** |
 | Opening the Vault of Dragons | **Vault of Dragons** |
 
-Verification lives in the Revelation Lists on the villain organization pages ([Bregan D'aerthe](../../setting/organizations/07-bregan-daerthe.md), [Xanathar's Guild](../../setting/organizations/08-xanathars-guild.md), [Cassalanters](../../setting/organizations/10-cassalanters.md)).
+Verification lives in the Revelation Lists on the villain Factions guide pages ([Bregan D'aerthe](../factions/08-bregan-daerthe.md), [Xanathar's Guild](../factions/09-xanathars-guild.md), [Cassalanters](../factions/11-cassalanters.md)).
 
 ## The Fireball Victim
 
@@ -116,8 +116,8 @@ Three rules hold. The victim can't be a PC. The victim isn't chosen for your nar
 - [Running the Villains](running-the-villains.md) — escalation tiers (Unaware / Suspicious / Alert / Lockdown), MacGuffin chain
 - [Design Notes: Running the Campaign](design-notes-running-the-campaign.md) — design rationale for these structural choices
 - [Setting: Waterdeep Lore](../../setting/waterdeep-lore.md) — full festival calendar
-- [Bregan D'aerthe](../../setting/organizations/07-bregan-daerthe.md) — response team roster and Revelation List
-- [Xanathar's Guild](../../setting/organizations/08-xanathars-guild.md) — response team roster and Revelation List
-- [Manshoon's Zhentarim](../../setting/organizations/09-manshoons-zhentarim.md) — response team roster
-- [Cassalanters](../../setting/organizations/10-cassalanters.md) — response team roster and Revelation List
+- [Bregan D'aerthe](../factions/08-bregan-daerthe.md) — response team roster and Revelation List
+- [Xanathar's Guild](../factions/09-xanathars-guild.md) — response team roster and Revelation List
+- [Manshoon's Zhentarim](../factions/10-manshoons-zhentarim.md) — response team roster
+- [Cassalanters](../factions/11-cassalanters.md) — response team roster and Revelation List
 - [Trollskull Alley ev-07: The Twin Parades](../../quests/act-i/trollskull-alley/ev-07-the-twin-parades.md) — fireball victim designation, nimblewright sighting
