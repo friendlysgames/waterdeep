@@ -496,6 +496,13 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   text-align: center;
 }
 
+.hint-mobile { display: none; }
+
+@media (max-width: 768px) {
+  .hint-desktop { display: none; }
+  .hint-mobile { display: inline; }
+}
+
 #page-content h1, #page-content h2, #page-content h3,
 #page-content h4, #page-content h5, #page-content h6 {
   font-family: Georgia, 'Times New Roman', serif;
@@ -830,7 +837,10 @@ pre code {
       </label>
     </div>
     <article id="page-content">
-      <p class="empty-state">Select a page from the sidebar.</p>
+      <p class="empty-state">
+        <span class="hint-desktop">Select a page from the sidebar.</span>
+        <span class="hint-mobile">Tap <strong>&#9776;</strong> to browse journals.</span>
+      </p>
     </article>
   </main>
   <nav id="journal-sidebar">
