@@ -27,7 +27,7 @@ Seven factions are available to PCs. Six are standard player factions; one is un
 
 Bregan D'aerthe is the only villain faction PCs can join. This changes **Sea Maidens Faire**'s structure entirely — the Sea Maidens Faire becomes a home base, and Jarlaxle sends the party after another faction's Eye rather than being the target of a heist. The arc's inversion is the point: PCs working for Jarlaxle experience the same heist framework from the other side.
 
-Bregan D'aerthe is available only if the nimblewright investigation (**Fireball!**) leads to the Sea Maidens Faire and the PCs respond to Jarlaxle's approach by negotiating rather than stealing. PCs who join take on Jarlaxle's goal (Lords' Alliance membership for Luskan) as their own faction obligation, which comes due in **Vault of Dragons**.
+Bregan D'aerthe recruits during **Trollskull Alley**, on the same schedule as the other six factions. Drow lieutenants shadow the party for several days; drow PCs are their primary interest, though any party member is a candidate. Unless the party reports the surveillance to the Watch — which triggers **BD Contact Severed** and closes membership for the rest of the campaign — J.B. Nevercott, a haberdasher, visits the manor and makes an offer. By the time **Fireball!** and **Sea Maidens Faire** arrive, the party has already had its chance to join; those quests are when Jarlaxle's real identity surfaces, not when membership opens. PCs who join take on Jarlaxle's goal (Lords' Alliance membership for Luskan) as their own faction obligation, which comes due in **Vault of Dragons**.
 
 *Conflicting loyalties*
 

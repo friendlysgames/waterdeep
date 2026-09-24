@@ -40,7 +40,7 @@ Bregan D'aerthe recruits during **Trollskull Alley**, alongside every other play
 
 What the nimblewright thread answers is who J.B. Nevercott is. The **Fireball!** investigation leads from the construct's origin to the Sea Maidens Faire, where Jarlaxle's carnival is the source. The moment the party connects the haberdasher to Zardoz Zord, and Zardoz Zord to the man behind the nimblewrights, is the reveal the campaign has been building toward. A party that joined Bregan D'aerthe in Act I has been working for a man whose full scope they didn't yet understand. That's the payoff.
 
-Jarlaxle's villain activity keys off the **Jarlaxle Informed** flag set during **Fireball!** and **Gralhund Villa**. Faction membership doesn't escalate him — the flag does. A party that skips the nimblewright thread finds a Jarlaxle who stays in the background: useful, occasionally present, never dominant. The campaign has three complete villain arcs without him at the fore.
+Jarlaxle's villain activity keys off the **Jarlaxle Informed** flag, set in **Fireball!** and read in **Gralhund Villa**. Faction membership doesn't escalate him — the flag does. A party that skips the nimblewright thread finds a Jarlaxle who stays in the background: useful, occasionally present, never dominant. The campaign has three complete villain arcs without him at the fore.
 
 The Three Clue Rule obligation holds: at least three independent paths to the Sea Maidens Faire must be available, and at least one must be passive. The Faire is where the unmasking happens and where Eye #3 is held.
 
