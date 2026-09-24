@@ -16,7 +16,7 @@ The Harpers are a loose confederation of bards, spies, sages, and do-gooders who
 
 In Waterdeep, the Harpers maintain strong ties to the city's intellectual and artistic communities. Their primary concern in the current moment is Manshoon's clone and his consolidation of the Black Network's ruthless wing. They are also quietly alert to the Stone of Golorr — they believe it contains intelligence of strategic importance and want it in their hands.
 
-**The Waterdeep cell is compromised.** Manshoon's agents have infiltrated the Harpers' local network. Information shared with Harper contacts has a meaningful chance of reaching Kolat Towers. This should create complications organically — a feature that rewards paranoid operational security.
+**The Waterdeep cell is compromised.** Manshoon's agents have infiltrated the Harpers' local network. Information shared with Harper contacts has a meaningful chance of reaching Kolat Towers.
 
 **Primary Contact:** Mirt the Moneylender — bluff, jovial sea merchant on the surface; in practice one of the most politically dangerous men in Waterdeep. Senior Harper, Masked Lord, and close confidant of Open Lord Laeral Silverhand. His manor in the Sea Ward is theoretically available for visits; in practice he is almost never home.
 

@@ -68,6 +68,8 @@ What the Doom Raiders do not tell the party, until Mission 4 forces the truth ou
 | 6th | **The Yellowspire Job** | Infiltrate Yellowspire, Manshoon's Trades Ward relay tower, and steal the pass-amulet distribution ledger — showing which lieutenants carry which amulets on what rotation — the key to bypassing Kolat Towers' force field. | +4 |
 | 7th | **Ziraj's Last Hunt** | Manshoon's kill team has ambushed Ziraj the Hunter on Waterdeep's rooftops; race through the city to find him wounded and neutralize three remaining Splinter agents. Ziraj survives and provides a rooftop diagram of Kolat Towers' force-field gaps. | +4 |
 
+**After the PCs complete their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell is not responsible for the recent killings.
+
 Full mission write-ups are in the **Faction Missions** quest journals.
 
 ## Cross-References

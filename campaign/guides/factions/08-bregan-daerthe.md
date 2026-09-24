@@ -34,7 +34,7 @@ What Jarlaxle does not have: access to the vault itself, a way to open the Stone
 
 ## First Meeting
 
-D'aerthe spies shadow the party for several days. Any party member may notice the surveillance (passive Perception 18; **DC 15 Wisdom (Insight)** to confirm the watchers are drow, and that they have a particular interest in any drow party members).
+Bregan D'aerthe recruits during **Trollskull Alley**, the same as every other player faction. D'aerthe spies shadow the party for several days. Any party member may notice the surveillance (passive Perception 18; **DC 15 Wisdom (Insight)** to confirm the watchers are drow, and that they have a particular interest in any drow party members).
 
 - If reported to Watch: watchers vanish, contact ends; **BD Contact Severed**
 - If confronted: spies melt away, leave a single black eye patch on the cobblestones

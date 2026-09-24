@@ -24,7 +24,7 @@ The Doom Raiders are a cell of experienced Zhentarim operators who arrived in Wa
 
 The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal war. The two cells despise each other: information shared with the Doom Raiders will not reach Manshoon's agents. However, characters who join the Doom Raiders are joining one half of a fractured organization and will inevitably be caught in the crossfire as Manshoon moves to eliminate Davil's cell entirely. This is a structural feature of the campaign.
 
-**Primary Contact:** Davil Starsong — a sun elf retired adventurer who leads the Doom Raiders' Waterdeep operation. Charming, direct, and genuinely invested in ending the street violence Manshoon's cell has caused. **After the PCs complete their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell is not responsible for the recent killings.
+**Primary Contact:** Davil Starsong — a sun elf retired adventurer who leads the Doom Raiders' Waterdeep operation. Charming, direct, and genuinely invested in ending the street violence Manshoon's cell has caused. Tashlyn Yafeera handles the cell's business whenever Davil is unavailable.
 
 **Secondary Contact:** Tashlyn Yafeera — takes over mission briefings after Davil's arrest, communicating by flying snake. She has sharper intelligence on Manshoon's faction than Davil and her assignments reflect it.
 

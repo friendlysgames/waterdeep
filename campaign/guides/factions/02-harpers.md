@@ -16,6 +16,8 @@ The Harpers know the Cassalanters are infernalists. They don't know the full sco
 - The Stone of Golorr, or at minimum three days' access to study it (Mission 6)
 - That the vault gold not be given to any one faction or individual
 
+Manshoon's infiltration of the Waterdeep cell should create complications organically: information the party shares with Harper contacts can reach Kolat Towers, which rewards paranoid operational security.
+
 ## Quest Hooks
 
 | Quest | Harper Hook |
