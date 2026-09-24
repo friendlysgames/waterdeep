@@ -125,7 +125,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `character-creation.md` | General guidance, species notes, all XPHB + FRHoF backgrounds rated for Waterdeep fit |
 | `debts-of-the-city.md` | All 8 Debts — flavor + "Your character knows" only; no Holder sections |
 | `bonds-and-flaws.md` | Bonds table (d8) and Flaws table (d8); quest connections are GM-only |
-| `faction-affiliations.md` | Faction preview table, BD conditional entry, Two Zhentarims note; player-safe renown basics |
+| `faction-affiliations.md` | Faction preview table (all seven factions recruit in Trollskull Alley), Two Zhentarims note; player-safe renown basics |
 
 **GM Guide** (`campaign/guides/gm-guide/`)
 
@@ -140,7 +140,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | `grand-game-in-play.md` | Starting faction knowledge, escalation tiers (1–5), inter-faction conflict, when factions back down |
 | `player-factions-overview.md` | Six standard factions + Bregan D'aerthe unique mechanic; conflicting loyalties overview; renown rules and faction-mission preamble |
 | `running-the-villains.md` | Grand Game overview, running four villains, MacGuffin chain, starting knowledge, escalation (four tiers Unaware/Suspicious/Alert/Lockdown), inter-faction operations |
-| `design-notes-running-the-campaign.md` | Macro design notes: simultaneous villains, heist framework, distributed Eyes, manor, fireball, Founders' Day, Jarlaxle conditional, gold resolution, Aurinax; "Omitted NPCs" section |
+| `design-notes-running-the-campaign.md` | Macro design notes: simultaneous villains, heist framework, distributed Eyes, manor, fireball, Founders' Day, Jarlaxle's hidden identity, gold resolution, Aurinax; "Omitted NPCs" section |
 
 **Trollskull Manor Guide** (`campaign/guides/trollskull-manor/`)
 
@@ -170,7 +170,7 @@ All setting files are structuring drafts.
 | `villains/xanathar.md` | 3 personality phases, relationships, goals, Sylgar note |
 | `villains/manshoon.md` | 3 phases (incl. Simulacrum), relationships, goals, Two Zhentarims DM note |
 | `villains/cassalanters.md` | 3 phases, relationships, goals, children timing note |
-| `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, conditional entry note |
+| `villains/jarlaxle.md` | Zardoz Zord phase + adversary/ally tracks, relationships, goals, entry and activation note |
 | `notable-figures/` | 122 NPC pages in 15 group folders (trollskull-community, independents-allies, independents-adversaries, city-officials, harpers, lords-alliance, emerald-enclave, order-of-the-gauntlet, force-grey, doom-raiders, bregan-daerthe, xanathars-guild, manshoons-zhentarim, cassalanters, gralhunds). One page per NPC: H1, `> **[GM]**` Gamemaster's Summary, ## Roleplaying Information, ## Character Information, ## Overview. |
 | `organizations/` | 10 faction pages: 01-harpers through 10-cassalanters. Each merges player-faction and villain-faction content from the former appendices. |
 
