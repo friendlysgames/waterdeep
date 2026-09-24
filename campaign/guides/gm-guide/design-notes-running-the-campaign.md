@@ -34,9 +34,15 @@ The fireball that opens **Fireball!** is a story beat in the original — notabl
 
 Ammalia Cassalanter's deadline does not appear in the infernal contract — it is her own calculation. The design note explains why this matters: it is a morally significant detail. The Cassalanters are not working to a devil's timetable; they are working to a mother's calculation of how fast her children's souls are eroding. This makes the deadline simultaneously more flexible (it could be wrong) and more urgent (there is no appeal). The note also explains why Founders' Day was chosen over other dates: it is late enough in the campaign year to give PCs time, early enough that it creates genuine pressure before Act IV, and its civic significance makes the sacrifice narratively resonant.
 
-*Why Jarlaxle's Entry Is Conditional*
+*Why the Nimblewright Thread Leads to Jarlaxle*
 
-The design note defends the conditional entry mechanic — Jarlaxle enters the Grand Game as a named player only if the nimblewright investigation reaches the Sea Maidens Faire. This is argued on player agency grounds: if Jarlaxle is always present and always relevant, he dominates the campaign's tone; his entry being conditional means groups that follow the thread get the full Bregan D'aerthe arc, while groups that don't still have three complete villain arcs. The note also covers the backup obligation: the Three Clue Rule requires at least three independent paths to the Sea Maidens Faire, and at least one must be passive (requiring no active player investigation to trigger). A DM who finds the group is unlikely to follow the nimblewright thread is expected to introduce the backup path rather than let the arc disappear.
+Bregan D'aerthe recruits during **Trollskull Alley**, alongside every other player faction. Any PC can join. J.B. Nevercott's visit to Trollskull Manor happens in every campaign where the party hasn't severed contact — which means Jarlaxle is already operating in the city from Act I, through a persona that commits to nothing and explains nothing.
+
+What the nimblewright thread answers is who J.B. Nevercott is. The **Fireball!** investigation leads from the construct's origin to the Sea Maidens Faire, where Jarlaxle's carnival is the source. The moment the party connects the haberdasher to Zardoz Zord, and Zardoz Zord to the man behind the nimblewrights, is the reveal the campaign has been building toward. A party that joined Bregan D'aerthe in Act I has been working for a man whose full scope they didn't yet understand. That's the payoff.
+
+Jarlaxle's villain activity keys off the **Jarlaxle Informed** flag set during **Fireball!** and **Gralhund Villa**. Faction membership doesn't escalate him — the flag does. A party that skips the nimblewright thread finds a Jarlaxle who stays in the background: useful, occasionally present, never dominant. The campaign has three complete villain arcs without him at the fore.
+
+The Three Clue Rule obligation holds: at least three independent paths to the Sea Maidens Faire must be available, and at least one must be passive. The Faire is where the unmasking happens and where Eye #3 is held.
 
 *Why the Gold Is Not Given to the City*
 
