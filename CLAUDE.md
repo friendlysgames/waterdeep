@@ -343,6 +343,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
 
+**Cassalanter secrecy:** Everybody is suspicious of the Cassalanters because they're too nice to be this rich and this purebred. Nobody knows they're infernalists. No faction or NPC knows about the Asmodean pact, the soul contract or the family's infernalism before the party discovers it; use suspicion, never knowledge.
+
 **Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
 
 **Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
