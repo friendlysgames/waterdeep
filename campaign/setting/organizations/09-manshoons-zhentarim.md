@@ -112,4 +112,4 @@ Manshoon underestimates threats that aren't magical. Operatives who avoid Kolat 
 
 ## Overview
 
-Manshoon's Zhentarim is a splinter cell of the Black Network with no connection to Davil Starsong's Doom Raiders. Its wizard-clone leader runs operations from a hidden sanctum in the city, keeping field teams lean and preferring captured enemies to dead ones.
+A ruthless Zhentarim splinter cell, wholly separate from Davil Starsong's Doom Raiders and hostile to them. The leader's name is not spoken on the street; its lean field teams move quietly through the city and take prisoners.

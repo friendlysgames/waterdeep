@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Duergar (Tier 1 response team leader), lawful evil*. Stat block: **Duergar**.
+> - *Duergar (first response team leader), lawful evil*. Stat block: **Duergar**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Gorath fights without aggression and without mercy, in that order. He does not pursue. His job is to survive and report.
 
-**Relationships.** Gorath is the Xanathar Guild's Tier 1 response team leader (four duergar, sent when the Guild wants a lesson taught rather than a person killed), the formal notice that Xanathar knows what the party did, and the first escalation before Korgstrod's team and then Noska's arrive.
+**Relationships.** Gorath is the Xanathar Guild's first response team leader (four duergar, sent when the Guild wants a lesson taught rather than a person killed), the formal notice that Xanathar knows what the party did, and the first escalation before Korgstrod's team and then Noska's arrive.
 
 ## Overview
 
