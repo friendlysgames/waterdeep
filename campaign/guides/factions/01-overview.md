@@ -1,6 +1,6 @@
 # Factions
 
-This guide covers factions as game mechanics. Each page in it tells you how a faction recruits, what it offers and demands, how its missions run, and what its position is in the Grand Game. The **Organizations** pages in the Setting hold the companion material: history, structure, internal politics, and the lore a player-character member would absorb over time. You can run faction play from this guide alone; the Organizations pages deepen it.
+This guide covers faction play as game mechanics. Each page explains how one of the campaign's factions recruits, what it offers members and demands in return, how its missions run, and where the faction stands in the Grand Game. History, internal structure, politics, and the lore a member would absorb over time live in the **Organizations** pages in the Setting. You can run faction play from this guide alone; the Organizations pages deepen it.
 
 ## How Renown Works
 
@@ -8,13 +8,13 @@ Renown is tracked as a separate numerical score for each faction a character bel
 
 **Calibration.** A character who completes all six faction missions and earns available Grand Game bonuses will reach approximately Renown 30–35 by the late heist quests, enough for the Renown 25 rank in their primary faction and Renown 10–15 in a secondary one. Build late-game faction payoffs with that range in mind.
 
-**Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. A character who repeatedly accepts and abandons assignments does not. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
+**Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. Someone who repeatedly accepts and then abandons assignments does not. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
 
 **Tracking.** Keep the per-faction Renown score on the session notes alongside the character sheet. Renown changes take effect immediately; a character who earns enough for a new rank gains its benefits before the next scene.
 
 ## Running Faction Missions
 
-Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals. Faction missions award no Milestone Points.
+Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals; they award no Milestone Points.
 
 **A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the PCs.
 
