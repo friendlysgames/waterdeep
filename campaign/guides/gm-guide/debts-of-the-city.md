@@ -138,7 +138,7 @@ He's a genuine professional who believes the Doom Raiders' moderate approach to 
 
 Barnibus Blastwind is a magistrate of the Watchful Order of Magists and Protectors, an investigator of considerable reputation: thorough, methodical, rarely wrong. You watched him do something deliberate. When he realized he'd been seen, he made the best decision available to a compromised man: he did nothing. He held your gaze for a long moment, then went back to what he'd been doing.
 
-A week later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in seven days. Call it an introduction, secured in advance.
+A tenday later, an unsigned note arrived at your residence. It said: *We should meet. You have seen something. I have a file.* When the meeting happened, the file contained everything Blastwind had been able to gather on you in ten days. Call it an introduction, secured in advance.
 
 *Your character knows the following:* Barnibus Blastwind knows what you saw. You know what he did. Both of you are now holding something the other can't comfortably use without mutual destruction. Blastwind seems to find this arrangement workable.
 
