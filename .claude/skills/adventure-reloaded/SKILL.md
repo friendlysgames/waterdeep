@@ -535,7 +535,7 @@ Events describe what is happening when the PCs arrive — NPCs are mid-action. T
 
 Every event file is written from scratch. No citations or references to original source books.
 
-Read-aloud text is always a `> [!narrative]` box, never a plain blockquote, both in scene bodies and in `## Read Aloud`. NPC dialogue inside a narrative box is written as nested `> >` lines within the box (ember-adventure-style §read-aloud). When players first meet an NPC, give that NPC a `> [!npc-narrative]**Name**` block (what they see and hear); never repeat it on later meetings. When an NPC answers player questions, write each question and answer as a `> [!dialogue]**Question**` block rather than a bulleted "if asked" list. Markup details are in `foundry-journal`.
+Read-aloud text is written to be spoken to the players, following the Read-Aloud Text rules in `dnd-adventure-text` (only what the characters perceive, present tense, 3–5 sentences, ending on something unresolved; no GM knowledge, summary or backstory). The same applies to `[!npc-narrative]` bodies. Read-aloud text is always a `> [!narrative]` box, never a plain blockquote, both in scene bodies and in `## Read Aloud`. NPC dialogue inside a narrative box is written as nested `> >` lines within the box (ember-adventure-style §read-aloud). When players first meet an NPC, give that NPC a `> [!npc-narrative]**Name**` block (what they see and hear); never repeat it on later meetings. When an NPC answers player questions, write each question and answer as a `> [!dialogue]**Question**` block rather than a bulleted "if asked" list. Markup details are in `foundry-journal`.
 
 ---
 
