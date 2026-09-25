@@ -25,7 +25,7 @@
 The waterfront runs on a different clock than the rest of the city. Ships unload at midnight. Cargo handlers work between bells. Ship Street is active enough that a small group moving with purpose draws no attention, but quiet enough that a figure staying still in a shadow eventually becomes visible.
 
 > [!readaloud]
-> The Dock Ward runs on its own schedule. Past midnight, cargo crews still move under hanging lanterns, voices low, boots loud on the wet cobbles. The smell of salt, tar, and rope sits heavy in the air. The Muleskull Tavern's windows are lit at the end of the block — the one establishment on Ship Street that never seems to close.
+> The Dock Ward runs on its own schedule. Past midnight, cargo crews still move under hanging lanterns, voices low, boots loud on the wet cobbles. The smell of salt, tar, and rope sits heavy in the air. The Muleskull Tavern is the only place on Ship Street with its windows still lit.
 
 Characters who spend the evening hours on Ship Street and the adjacent waterfront find three independent paths to the same conclusion.
 
@@ -69,7 +69,7 @@ A character who stated their intent to position ahead of Heldar's route at the s
 
 > [!hazard]**Soluun Xibrindas**
 >
-> **Soluun Xibrindas** uses the **Drow Gunslinger** stat block, with Advantage on Stealth checks in dim light or darkness.
+> **Soluun Xibrindas** uses the **Scout** stat block (2024 *Monster Manual*), with Advantage on Stealth checks in dim light or darkness and a hand crossbow substituted for the shortbow.
 >
 > #### Soluun's Tactics
 >
@@ -122,4 +122,4 @@ Three elf and half-elf sailors have been murdered in the Dock Ward. Find the kil
 
 ## Summary
 
-We tracked down the killer behind three Dock Ward murders — a disowned drow named Soluun, operating without his faction's knowledge. Heldar survived the night. On Soluun's person: a forged Bregan D'aerthe token that Davil pocketed without comment.
+We tracked down the killer behind three Dock Ward murders. He was a disowned drow named Soluun, operating without his faction's knowledge. Heldar survived the night. On Soluun's person: a forged Bregan D'aerthe token that Davil pocketed without comment.
