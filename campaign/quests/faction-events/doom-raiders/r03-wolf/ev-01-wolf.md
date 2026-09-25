@@ -15,7 +15,7 @@
 
 ### The Curtained Room
 
-The lute is on the wall where it always is. The charm bracelet rattles when Davil pours — one glass for everyone at the table, without asking, same as always.
+The lute is on the wall where it always is. The charm bracelet rattles when Davil pours: one glass for everyone at the table, without asking, same as always.
 
 > > "Wolf. That's the name we use when someone has stopped being a potential problem and started being a reliable one."
 
