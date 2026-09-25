@@ -59,7 +59,7 @@ The Cassalanter thread, the Order's surveillance resources, and Savra's personal
 >
 > #### Remedying the Reassignment
 >
-> The reassignment isn't permanent. If the party later donates an amount equal to the outstanding tithe — the 25% they declined — Savra appears in person once to acknowledge it. She doesn't make a ceremony of it. She says: *"Thank you"* — two words she almost never uses. Normal operations resume.
+> The reassignment isn't permanent. If the party later donates an amount equal to the outstanding tithe (the 25% they declined), Savra appears in person once to acknowledge it. She doesn't make a ceremony of it. She says: *"Thank you"* — two words she almost never uses. Normal operations resume.
 
 ### Concluding the Event
 
