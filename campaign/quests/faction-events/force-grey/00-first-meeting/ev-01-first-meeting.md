@@ -46,6 +46,9 @@ The door swings open as they reach the steps. Nobody inside could have seen them
 
 She is at a standing desk in the main study, annotating a map. She does not look up immediately. The Blackstaff — the physical staff — leans against the desk within reach.
 
+> [!npc-narrative]**Vajra Safahr**
+> A woman stands at a standing desk in the main study, annotating a map with quick, precise strokes. She does not look up immediately. The Blackstaff — the physical staff — leans against the desk within reach. When she sets her pen down and turns, the manner is direct: no pleasantries, no invitation to sit.
+
 > [!profile]**Profile: Vajra Safahr**
 >
 > **Roleplaying Information**
@@ -78,16 +81,16 @@ She is not recruiting for a cause. She wants operatives who understand the manda
 
 If the party asks questions, Vajra answers directly and without elaboration. She does not answer questions whose value does not justify the answer.
 
-> [!dialogue]**"What is Force Grey?"**
+> [!dialogue]**What is Force Grey?**
 > "A small unit of operatives under my authority. You'd be Gray Hands — probationary status. Full membership follows a track record."
 
-> [!dialogue]**"Why us?"**
+> [!dialogue]**Why us?**
 > "Renaer's judgment. The warehouse. The fact that you're still here and the Xanathar operatives you encountered are not."
 
-> [!dialogue]**"What do you want from us?"**
+> [!dialogue]**What do you want from us?**
 > "Intelligence about magical threats before they become crises. Discretion. Your honest account of what you find — not what you think I want to hear. I have people for the latter and don't need more."
 
-> [!dialogue]**"What do we get?"**
+> [!dialogue]**What do we get?**
 > "Gray Hands rank and everything that comes with it." She names the benefits. No negotiation. These are the terms. See the **Force Grey** Factions guide page for the rank benefits table.
 
 **On acceptance:** Vajra writes a brief note, folds it twice, and sets it on the desk's edge. The door at the stair opens by itself. She is already back at her map.
@@ -116,6 +119,7 @@ The Blackstaff of Waterdeep contacted one party member by *Sending* and invited 
 
 ## Read Aloud
 
+> [!narrative]
 > The spell arrives mid-morning, without preamble.
 >
 > > *"I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."*

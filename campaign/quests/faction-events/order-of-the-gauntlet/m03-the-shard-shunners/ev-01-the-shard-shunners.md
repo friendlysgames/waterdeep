@@ -31,7 +31,10 @@ What Trevar knows: the pattern is deliberate — same route, same time — which
 
 The Field Ward's informal social networks — the right corner stalls, an unnamed bar three streets east, the dye-worker's yard where halfling day laborers gather late afternoon. A **DC 14 Charisma (Persuasion) check**, or patient engagement over several hours without pressing, reaches Kelso.
 
-**Kelso Fiddlewick** (use **Wererat** stat block in halfling form). Compact, scarred along the jawline, alert and quick to read a room before committing to it. He explains what happened to **Danika** without performance. His position is clear: "Trevar didn't know. I believe that. Doesn't change what happened." He wants balance. He hasn't defined what that means. The party can.
+**Kelso Fiddlewick** (use **Wererat** stat block in halfling form). Compact, scarred along the jawline, alert and quick to read a room before committing to it.
+
+> [!npc-narrative]**Kelso Fiddlewick**
+> A compact halfling with a scar along the jawline, alert and quick to read a room before committing to it. He explains what happened to Danika without performance. He explains what happened to **Danika** without performance. His position is clear: "Trevar didn't know. I believe that. Doesn't change what happened." He wants balance. He hasn't defined what that means. The party can.
 
 ### Resolution
 
@@ -69,6 +72,7 @@ A halfling wererat gang is robbing guards at a Field Ward inn every night. The r
 
 ## Read Aloud
 
+> [!narrative]
 > Savra's brief is mild in the way she sounds when she finds the tactical picture distasteful. "Guards at the Endshift Tavern in the Field Ward are being robbed nightly. The innkeeper reports giant rats in the alleys. The Shard Shunners — a halfling wererat gang. They detest silver; that's how they got the name." A pause. "The Field Ward is not full of people who owe the Order goodwill. If you can solve this without killing anyone, the outcome will be better for everyone, including us."
 
 ## Summary

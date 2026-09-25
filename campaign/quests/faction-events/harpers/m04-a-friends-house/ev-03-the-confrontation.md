@@ -31,11 +31,22 @@ What happens next depends on what the party does with the information.
 
 **Pressing him for information:** If the party attempts to extract information rather than simply naming and reporting, he is willing to talk — within limits. He confirms he is Bregan D'aerthe. He confirms he has been attending Remallia's events. He does not confirm operational details.
 
-What he volunteers freely: "I've been curious what the Harpers think they know about the vault situation. They've been two moves behind since the Stone resurfaced." He says this as a statement of fact, not a taunt.
+> [!dialogue]**What are you actually doing here?**
+> "I've been curious what the Harpers think they know about the vault situation. They've been two moves behind since the Stone resurfaced."
 
-What he will offer with a **DC 15 Charisma (Persuasion)** check: "There's a Harper contact embedded in the Sea Maidens Faire. They don't know they've been made. If you reach them before the network does, they'll tell you things Mirt hasn't." He gives a physical description. He does not explain why he is offering this.
+He says this as a statement of fact, not a taunt.
 
-**Negotiating discretion:** If the party proposes any arrangement involving not reporting his identity to Mirt, he listens. He is not interested in buying their silence — he does not need to. He is interested in whether they are capable of playing this kind of game. A PC who makes a genuinely interesting proposal (rather than a transactional one) earns a direct response: "I'll remember that you tried." The calling card still arrives.
+> [!dialogue]**What can you tell us about our contacts?**
+> "There's a Harper contact embedded in the Sea Maidens Faire. They don't know they've been made. If you reach them before the network does, they'll tell you things Mirt hasn't."
+
+A **DC 15 Charisma (Persuasion)** check is required to draw this out. He gives a physical description. He does not explain why he is offering this.
+
+**Negotiating discretion:** If the party proposes any arrangement involving not reporting his identity to Mirt, he listens. He is not interested in buying their silence — he does not need to. He is interested in whether they are capable of playing this kind of game. A PC who makes a genuinely interesting proposal (rather than a transactional one) earns a direct response:
+
+> [!dialogue]**What if we agreed to stay quiet about your identity tonight?**
+> "I'll remember that you tried."
+
+The calling card still arrives.
 
 > **[GM]**
 >
@@ -87,13 +98,14 @@ Jarlaxle stopped at a canal bridge in the Castle Ward and turned around. The con
 
 ## Read Aloud
 
+> [!narrative]
 > He turned. He looked at you with the particular attention of someone who has been paying attention for longer than you realized.
 >
-> > > "You follow well. Better than the last set of people Mirt sent."
+> > "You follow well. Better than the last set of people Mirt sent."
 >
 > The Luskan affectation is still on, but the performance under it has shifted slightly. Less poet. More whatever he actually is.
 >
-> > > "I expect you have a question."
+> > "I expect you have a question."
 
 ## Summary
 

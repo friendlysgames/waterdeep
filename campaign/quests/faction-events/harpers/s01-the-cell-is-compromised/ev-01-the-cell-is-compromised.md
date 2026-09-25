@@ -51,11 +51,18 @@ He does not say what he is running. He does not say when. He means the silence t
 
 #### Pressing for Details
 
-Any character who pushes Mirt on the double agent's identity and makes a successful DC 15 Charisma (Persuasion) check gets one additional sentence: *"I know it's not you. That's the only name I can give you."* He means it without sentiment — it is an operational conclusion, not reassurance.
+> [!dialogue]**Who is the double agent?**
+> "I have fourteen people who touched what leaked. That's too many to accuse and too many to trust. I'm running something to narrow it down. When I have a name, you'll have a name."
+
+A **DC 15 Charisma (Persuasion)** check draws out one additional sentence: *"I know it's not you. That's the only name I can give you."* He means it without sentiment — it is an operational conclusion, not reassurance.
 
 Any character who asks how he connected the Splinter's movements to the Harper cell and makes a successful DC 13 Wisdom (Insight) check notices that Mirt's account of the three incidents is unusually precise for someone who speaks obliquely by habit. He has been working this for longer than a tenday.
 
-Any character who asks directly about Davil Starsong gets confirmation without embellishment: "Starsong mentioned something that fit a gap. He didn't know it was a gap." If the party presses further: "The Doom Raiders watch the Splinter for their own reasons. Starsong shares when it benefits him. Right now it happens to benefit us."
+> [!dialogue]**How does Davil Starsong connect to this?**
+> "Starsong mentioned something that fit a gap. He didn't know it was a gap."
+
+> [!dialogue]**Can you be more specific about Starsong's involvement?**
+> "The Doom Raiders watch the Splinter for their own reasons. Starsong shares when it benefits him. Right now it happens to benefit us."
 
 ### The New Protocol
 
@@ -94,13 +101,14 @@ Mirt calls the party to an unregistered room in the North Ward. The wine on the 
 
 ## Read Aloud
 
+> [!narrative]
 > A plain note arrives at Trollskull Manor, hand-delivered: a North Ward address, a time, and four words in cramped handwriting you recognize. *Come alone. Be careful.*
 >
 > Third floor. Low ceiling, smell of old plaster and whatever is cooking two floors below. Mirt is already there, seated at a table with a sealed bottle of wine in front of him, unopened.
 >
 > He does not offer it.
 >
-> > > "Sit down. We have a problem."
+> > "Sit down. We have a problem."
 
 ## Summary
 

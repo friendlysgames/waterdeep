@@ -23,7 +23,10 @@ If the Splinter has received the cipher note's contents, two Harper assets in no
 
 ### Act 1 — The Shop
 
-Uza is at Felzoun's Folly, two streets over, holding a cup of tea with both hands. She is not given to dramatic exaggeration — she is given to detailed, precise, and comprehensive description of dramatic events, which other people experience as exaggeration. She describes the creature accurately: spherical, roughly the size of a human head, one large central eye, smaller eyes on stalks. It knocked over the philosophy section and then hovered there staring at the wall. She has a cat, Fillipa, black-and-white, eleven years old, who has been demonstrating tactical intelligence for three days — knocking books into the gazer's path and retreating to the attic rafters whenever it got close. Uza lends the party her keys. Her only stated requirement is that Fillipa come out alive.
+Uza is at Felzoun's Folly, two streets over, holding a cup of tea with both hands. She is not given to dramatic exaggeration — she is given to detailed, precise, and comprehensive description of dramatic events, which other people experience as exaggeration.
+
+> [!npc-narrative]**Uza Solizeph**
+> A woman sitting with a cup of tea held in both hands, working her way through a thorough account of recent events with the patient precision of someone determined to get every detail correct. The people around her seem to experience this as dramatic. She is not being dramatic. She describes the creature accurately: spherical, roughly the size of a human head, one large central eye, smaller eyes on stalks. It knocked over the philosophy section and then hovered there staring at the wall. She has a cat, Fillipa, black-and-white, eleven years old, who has been demonstrating tactical intelligence for three days — knocking books into the gazer's path and retreating to the attic rafters whenever it got close. Uza lends the party her keys. Her only stated requirement is that Fillipa come out alive.
 
 The bookshop is three stories on Sorn Street. Each floor has been through the situation differently.
 
@@ -90,6 +93,7 @@ A Harper dead drop in a Trades Ward bookshop has been breached. A gazer is insid
 
 ## Read Aloud
 
+> [!narrative]
 > The paper bird's message is longer than usual, the handwriting slightly less neat: *"An old friend named Uza Solizeph runs a bookshop on Sorn Street in the Trades Ward. She's done quiet favors for twenty years. Something's gotten into her shop and she's frightened. Go see what needs doing."* A postscript crowded into the margin: *"She doesn't know what she's been helping us with. Keep it that way."*
 
 ## Summary

@@ -31,11 +31,17 @@ He offers two renown on completion and no tangible reward. He expects profession
 
 **Mareva Coile** is 45, sharp-tempered, and skeptical of outside help. She manages the route as a coordinator — holds the contracts, keeps the paperwork straight, speaks to Jalester. She does not apologize for being skeptical. She makes her concern explicit.
 
+> [!npc-narrative]**Mareva Coile**
+> A sharp-eyed woman in her mid-forties, already at the table before you arrive. Her expression is that of someone who has asked for outside help once and is not pleased to have needed to. She does not pretend otherwise.
+
 > > "If my workers stop showing up because they're scared, the city fills with filth in a tenday. That's worse than a black eye."
 
 She gives the party the supervisor rotation schedule and names the four supervisors who have access to the real-time route timing: Delvon Harsk, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
 
-The field crew leader is **Berna**: a dwarf woman of approximately sixty with a grey braid and the expression of someone who has lived entirely on her own terms. Twenty years with the Guild, seventeen of them on the Dock and Trades Ward circuits. She is economical. She will not make small talk. She expects the party to stay close, look capable, and not get underfoot. She will soften over the tenday as she determines they are, in her assessment, not useless — but this will manifest as acknowledgment, not warmth.
+The field crew leader is **Berna**: a dwarf woman of approximately sixty with a grey braid and the expression of someone who has lived entirely on her own terms.
+
+> [!npc-narrative]**Berna**
+> A dwarf woman of approximately sixty with a grey braid, standing behind Mareva with the expression of someone who has had a great deal of time to develop her assessments of other people. She is reserving judgment — visibly, deliberately. Twenty years with the Guild have given her a particular quality of stillness. Twenty years with the Guild, seventeen of them on the Dock and Trades Ward circuits. She is economical. She will not make small talk. She expects the party to stay close, look capable, and not get underfoot. She will soften over the tenday as she determines they are, in her assessment, not useless — but this will manifest as acknowledgment, not warmth.
 
 > [!profile]+ **Profile: Berna**
 >
@@ -117,10 +123,12 @@ Jalester assigned the party to protect a Dungsweepers' Guild crew coordinator th
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester picks a table away from the bar, sits, and doesn't waste your time.
 >
 > > "A gang war is making the streets dangerous and the Guild workers nervous. We've offered protection to their Dock Ward route coordinator — a woman named Mareva Coile. Three of her subordinates have been roughed up this tenday, and she's the next logical target. I need people willing to walk her route every day for a tenday. The Watch is stretched thin. This is real work." He meets each of your eyes in turn. "Six bells, Muleskull Tavern, Ship Street, Dock Ward."
 
+> [!narrative]
 > Mareva is already at the table when you arrive. She is sharp-eyed and not pretending to be pleased about needing outside help.
 >
 > Behind her stands a dwarf woman with a grey braid and the expression of someone who has had a great deal of time to develop her assessments of other people. She is reserving judgment — visibly, deliberately. She will revisit it based on what you do next.

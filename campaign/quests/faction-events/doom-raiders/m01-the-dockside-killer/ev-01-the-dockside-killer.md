@@ -78,6 +78,7 @@ Three elf and half-elf sailors have been murdered in the Dock Ward. Find the kil
 
 ## Read Aloud
 
+> [!narrative]
 > Ship Street at midnight is not quiet, but it has a different kind of noise than the daytime — the creak of rigging, the slap of harbor water, a handful of workers moving cargo under lantern light. The Muleskull Tavern's windows are still lit at the near end of the block.
 >
 > You have the name Heldar, a route, and whatever position you chose before he left the bar.

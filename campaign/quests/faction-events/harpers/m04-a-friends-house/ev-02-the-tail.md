@@ -70,13 +70,14 @@ Jarlaxle left the salon gracefully and the party followed him into the Castle Wa
 
 ## Read Aloud
 
+> [!narrative]
 > He leaves Haventree Villa without looking at you. His companion falls two steps behind the moment the gate closes — not casual, coordinated.
 >
 > You follow them through the Sea Ward gate and into the Castle Ward. They move like people with nowhere particular to be, which means they know exactly where they are going.
 >
 > At a canal bridge at the Castle Ward's edge, he stops. He does not look back first. He simply stops walking. When you close the distance, he turns.
 >
-> > > "You follow well."
+> > "You follow well."
 
 ## Summary
 

@@ -37,9 +37,13 @@ Either check identifies the correct warehouse. Both together give the party a fu
 
 Cavernous, dark, lit only through gaps in the boarding and a column of moonlight through the open loading doors thirty feet above. The smell of ozone and something organic reaches the party before they are fully inside.
 
+> [!narrative]
 > The warehouse smells of lightning about to strike. Thirty feet up, moonlight falls through open loading doors in a column that does not reach the floor. Something large shifts in the rafters.
 
 Two **Grells** hang from the rafters. One has already noticed the party. It drops toward them at the start of round one. The second is focused on the far corner of the floor — **Mirsa**, an elderly woman cocooned loosely in grell secretion, unconscious but breathing.
+
+> [!npc-narrative]**Mirsa**
+> An elderly woman is cocooned loosely in grell secretion in the far corner of the floor, unconscious but breathing. She is a seamstress from the dock district. She was grabbed at the wrong time and place, and she has been here since night before last.
 
 The second grell turns from Mirsa on round two, regardless of what the party does. The decision the party faces in round one: engage both grells and accept that Mirsa is undefended for one round, or split attention to protect her and accept the tactical disadvantage.
 
@@ -90,6 +94,7 @@ Two grells have taken three citizens from a Dock Ward pier. One is still alive i
 
 ## Read Aloud
 
+> [!narrative]
 > Melannor appears at Trollskull Manor in person, already moving when the door opens. "Flying aberrations in the Dock Ward, snatching citizens from the waterfront. Third person in as many nights. I've told the Watch; they're stretched thin. This one is ours." He has a sketch of the affected pier. He is already on his way there and clearly expects you to keep up.
 
 ## Summary

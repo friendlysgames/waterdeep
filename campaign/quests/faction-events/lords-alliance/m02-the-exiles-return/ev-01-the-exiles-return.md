@@ -68,6 +68,9 @@ Whether Harko is dead or captured, the kenku flee the moment the fight breaks. T
 
 **Lira** works evenings at the Muleskull Tavern. She came out the back door. She looks at Harko, then at the party, then at Harko again.
 
+> [!npc-narrative]**Lira**
+> A young Calishite woman, early twenties, in a server's apron. She is carrying a tray she clearly set down in a hurry. She rounds the corner and stops dead, taking in the scene with the rapid attention of someone trying to decide very quickly what they are looking at.
+
 > **[GM]**
 >
 > #### How Lira Decides
@@ -120,6 +123,7 @@ Jalester sent the party to find an exiled adventurer working with the Xanathar G
 
 ## Read Aloud
 
+> [!narrative]
 > The message arrives with a Watch seal, not a paper bird. Jalester's handwriting is precise.
 >
 > > *"An exiled adventurer named Harko Swornhold has returned to Waterdeep illegally. He was expelled three years ago for attempting to bribe Magister Kylynne Silmerhelve. He is now working with the Xanathar Guild to incite street violence. He was last seen recruiting kenku in the Dock Ward. Find him. Eliminate him or bring him to Watch custody; I'll accept either. Don't let him know you're coming."*

@@ -38,6 +38,9 @@ All three leads converge on her regular meeting point: a specific bench in the T
 
 Corene is at the bench at the expected time. She looks fine. She is alert, well-rested, and says all the right things about her absence: a Guild operation she had to stay close to, no opportunity to check in safely.
 
+> [!npc-narrative]**Corene Wyldath**
+> A halfling woman on a bench in the Trades Ward plaza, composed and unhurried, with the particular calm of someone who has been doing tense fieldwork long enough to make calm look like her resting state. She looks fine. She gives you her full attention. Her eye contact does not waver.
+
 > **[GM]**
 >
 > #### What Is Wrong with Her
@@ -103,9 +106,10 @@ A Harper informant embedded in Xanathar's Dock Ward operation stopped checking i
 
 ## Read Aloud
 
+> [!narrative]
 > Mirt comes in through the back door of Trollskull Manor — which means he had a key copied at some point — and sits down in the taproom with an untouched drink until someone comes downstairs.
 >
-> > > "I need to know if she's dead, captured, or something worse. And if it's something worse: I need you to handle it."
+> > "I need to know if she's dead, captured, or something worse. And if it's something worse: I need you to handle it."
 >
 > He looks like he has not slept.
 

@@ -17,6 +17,9 @@
 
 The attack comes from a side alley on **Shank Street, Dock Ward**, as **Mareva** returns from a late supervision check at the Dockside pumping station. Three Thugs emerge from the alley mouth. **Pirn** holds back twenty feet behind the group, in shadow, observing.
 
+> [!npc-narrative]**Pirn**
+> A young man — the same one who has been appearing at second-story windows and ahead of the route's circuit for three days. Tonight he holds back twenty feet behind the Thugs, in shadow, observing. He does not enter the fight. He is here to watch, not to act.
+
 The Thugs fight until two of their three fall, then break south toward the harbor. Pirn, if not intercepted, slips into a service lane and disappears into the Dock Ward.
 
 > [!combat]+ **Night Three Encounter**
@@ -31,8 +34,10 @@ The Thugs fight until two of their three fall, then break south toward the harbo
 
 **Pirn** is a Xanathar Guild street agent, not an ideologue. He is motivated by coin and has no particular loyalty to his employer when cornered.
 
-- **DC 12 Charisma (Intimidation):** He gives up Delvon Harsk's name and function immediately. "Route supervisor. Been giving me the schedule every tenday. Coin. I don't know what he owes or to who."
-- **DC 13 Charisma (Persuasion)** with a specific promise of Watch leniency on the table: same result, volunteered more easily.
+> [!dialogue]**Who's been giving you the route schedule?**
+> "Route supervisor. Been giving me the schedule every tenday. Coin. I don't know what he owes or to who."
+
+**DC 12 Charisma (Intimidation)**, or **DC 13 Charisma (Persuasion)** with a specific promise of Watch leniency on the table (same result, volunteered more easily).
 
 Pirn will not give the name of his handler above him in the Guild. He doesn't know it — that is by design.
 
@@ -51,7 +56,10 @@ A **DC 14 Intelligence (Investigation)** check at the attack site finds a folded
 
 #### Questioning Mareva
 
-A **DC 12 Charisma (Persuasion)** with Mareva confirms that only four route supervisors have access to the real-time schedule. She lists them without hesitation: **Delvon Harsk**, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
+> [!dialogue]**Who has access to the real-time route schedule?**
+> Only four route supervisors: Delvon Harsk, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
+
+**DC 12 Charisma (Persuasion)** required.
 
 #### Questioning the Supervisors
 
@@ -112,6 +120,7 @@ Night Three brings the ambush the party has been bracing for. When it ends, the 
 
 ## Read Aloud
 
+> [!narrative]
 > Mareva is returning from the pumping station alone. She told you she would be thirty minutes. It has been forty-five. The Dock Ward at this hour is quiet in a specific way — not empty, just watching.
 >
 > The alley mouth on Shank Street opens without warning. Three figures move fast and certain, already between you and her.

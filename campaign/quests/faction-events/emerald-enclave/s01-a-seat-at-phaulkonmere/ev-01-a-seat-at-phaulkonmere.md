@@ -76,6 +76,7 @@ After completing their first Emerald Enclave mission, the party returns to Phaul
 
 ## Read Aloud
 
+> [!narrative]
 > The white cat reappears at the manor window. Melannor's voice, quiet: "You've done the work. Come when you're ready." It drops to the street and disappears.
 >
 > Phaulkonmere's east gate stands open when you arrive. Melannor steps aside to let you through and walks with you into the garden without explanation. Near the oldest oaks, Jeryth's voice settles into the path ahead.

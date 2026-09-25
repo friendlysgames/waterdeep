@@ -62,7 +62,12 @@ A captured Sarvos will not give up Manshoon's identity. He confirms the Watch ch
 
 ### What Esloon Actually Wants
 
-Any approach that puts the party in direct conversation with Esloon — Options A, C, or a confrontation that doesn't immediately escalate — may open this beat. After the initial exchange, whatever form it takes, Esloon leans back.
+Any approach that puts the party in direct conversation with Esloon — Options A, C, or a confrontation that doesn't immediately escalate — may open this beat.
+
+> [!npc-narrative]**Esloon Bezant**
+> A broad, tattooed Thayan expatriate with a signet ring and the manner of someone who has been conducting business in this city long enough to have stopped thinking of it as a foreign posting. He is direct. He does not perform pleasantness.
+
+After the initial exchange, whatever form it takes, Esloon leans back.
 
 > > "I want to ask you something. Not about the deal."
 
@@ -76,7 +81,12 @@ He meets the party's eyes directly.
 
 He is asking whether there is a path in Waterdeep that does not end with him being used and discarded by whoever is currently convenient. The party can choose to bring this question back to Jalester.
 
-Jalester's response, if asked: a long pause, then: "He's not wrong that we're asking him for a favor without offering much. I'll look into whether there's something we can formalize." This is not a commitment. It is an acknowledgment. If the party followed through on Esloon's behalf, Esloon's attitude toward the Alliance shifts from neutral to cautiously observant. He does not become an asset. He stops being a liability.
+If the party brings Esloon's question back to Jalester:
+
+> [!dialogue]**Esloon asked whether the Alliance has a real offer for someone in his position. Does it?**
+> "He's not wrong that we're asking him for a favor without offering much. I'll look into whether there's something we can formalize."
+
+This is not a commitment. It is an acknowledgment. If the party followed through on Esloon's behalf, Esloon's attitude toward the Alliance shifts from neutral to cautiously observant. He does not become an asset. He stops being a liability.
 
 ### Resolution
 
@@ -112,6 +122,7 @@ The Manshoon Splinter is negotiating a deal with a Thayan exile. Jalester needs 
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester arrives at Trollskull Manor at noon and doesn't sit down. He's moving faster than his usual style.
 >
 > > "The Zhentarim are courting a Red Wizard named Esloon Bezant. Manshoon's people, not Davil's. Former Thayan, probably exiled, has a crew of eight he calls contractors. They're negotiating right now. The deal is muscle for an operation we don't fully understand yet, but the Zhentarim faction running this isn't the kind you negotiate with. I need the deal killed tonight. I don't care how."

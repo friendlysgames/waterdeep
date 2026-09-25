@@ -27,9 +27,18 @@ A narrow second-floor room at the corner of Immar and Stallion Streets in the No
 
 **Gaxly Rudderbust** — professionally untidy, forty, with a dishevelment that is deliberate and studied. He has two layers.
 
-*Layer one — source confidentiality:* He published the story. He stands by it. He promised not to name his source and is using that promise as cover for avoiding the larger conversation. A **DC 12 Charisma (Intimidation or Persuasion) check** or 50 gp breaks through: his source told him the Black Viper is the Cassalanters' secret twin sister, hidden since birth due to a disfigurement. The mask is concealment, not vanity. He published before he could verify it. He is not sure he regrets it.
+> [!npc-narrative]**Gaxly Rudderbust**
+> About forty, professionally untidy, the dishevelment deliberate and studied. The office matches him: broadsheet pages drying on strings overhead, coffee long cold.
 
-*Layer two — Seffia's return visit:* Gaxly is warier here. A **DC 15 Charisma (Persuasion) check** — phrased as genuine concern for his safety, not information extraction — or an honest disclosure that the story may be a planted trap convinces him to describe the contact arrangement: a red candle in the window of Barrow's Wick on Lamp Street in the Trades Ward means someone is willing to meet. He has not used it. He assumed it was for him to signal continued interest.
+> [!dialogue]**Who is your source for the Black Viper story?**
+> He published the story. He stands by it. He promised not to name his source and is using that promise as cover for avoiding the larger conversation.
+
+A **DC 12 Charisma (Intimidation or Persuasion) check** or 50 gp breaks through: his source told him the Black Viper is the Cassalanters' secret twin sister, hidden since birth due to a disfigurement. The mask is concealment, not vanity. He published before he could verify it. He is not sure he regrets it.
+
+> [!dialogue]**Did your source come back after the story ran?**
+> Gaxly is warier here. The contact arrangement: a red candle in the window of Barrow's Wick on Lamp Street in the Trades Ward means someone is willing to meet. He has not used it. He assumed it was for him to signal continued interest.
+
+A **DC 15 Charisma (Persuasion) check** — phrased as genuine concern for his safety, not information extraction — or an honest disclosure that the story may be a planted trap draws this out.
 
 > **[GM]**
 >
@@ -51,6 +60,9 @@ A **DC 13 Charisma (Persuasion) check** or a mention of the Order of the Gauntle
 Placing a red candle at Barrow's Wick triggers a reply the following morning: a meeting time, the Steaming Anchor tea house in the Trades Ward, midday.
 
 **Seffia Naelryke** — Tethyrian, mid-thirties, dressed to pass as a minor noblewoman. Gracious, composed, conducting a social audit from the moment the party enters. Her goal is to find out what they know and who they work for. She will not confirm the planted story. She will try to determine whether the party is a threat or an opportunity.
+
+> [!npc-narrative]**Seffia Naelryke**
+> The woman who arrives at the meeting is Tethyrian, mid-thirties, dressed to pass as a minor noblewoman. She is gracious, composed, and conducting a social audit from the moment she enters.
 
 A **DC 16 Wisdom (Insight) check** catches her tells: her questions about the party's other investigations are too specific; her interest in Savra Belabranta by name arrives unprompted. She already knows who she is talking to.
 
@@ -93,6 +105,7 @@ The Waterdeep Wazoo has published a story about the Black Viper that Savra belie
 
 ## Read Aloud
 
+> [!narrative]
 > The paper bird arrives early, before Savra's usual hour. The message is in her hand, spare and direct: *"Wazoo is reporting the Black Viper has returned. Interview the publisher. Find out what he actually knows. I will meet you when I'm done."*
 
 ## Summary

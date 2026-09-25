@@ -29,6 +29,9 @@ The invitation carries no signature and no seal.
 
 **Mirt** (Chaotic Good, Illuskan human, he/him), the Old Wolf, a moneylender of prodigious girth who spends his days in politics and his nights in drink and debauchery, is in Private Box C when the party arrives. He has ordered wine for the whole box. He sits back from the rail where the curtain leaves him half in shadow, acknowledging the party's arrival with a brief incline of his head, and turns his attention back to the stage.
 
+> [!npc-narrative]**Mirt**
+> A large, gray-haired man in excellent wool takes up most of the box, positioned back from the rail where the curtain half-hides him. He has ordered wine for more people than were invited. He acknowledges your arrival with a brief incline of his head and turns back to the stage. He has been measuring something since before you walked in.
+
 He is in no hurry to speak.
 
 During Act 1, he watches the stage and the party in roughly equal measure. His signature gesture is that slight head-tilt, barely a fraction of a degree, as if he is recalculating something. Any character who watches him for an extended period and makes a successful **DC 14 Wisdom (Insight)** check senses that he is measuring the party against specific criteria, though the criteria are not stated and he will not name them if asked.
@@ -43,8 +46,11 @@ At intermission, Mirt sets down his glass and explains the Harpers. He does not 
 
 Mirt is happy to discuss the following topics during intermission:
 
-- The Harpers — purpose, method, the sort of people they recruit, and what the network looks like from inside it.
-- Renaer Neverember — with brief, genuine warmth. He does not elaborate on how much he trusts him.
+> [!dialogue]**What can you tell us about the Harpers?**
+> The Harpers are a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members. He does not tell them what the first mission will be.
+
+> [!dialogue]**What do you think of Renaer Neverember?**
+> With brief, genuine warmth. He does not elaborate on how much he trusts him.
 
 He does not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault, or anything else from the Grand Game at this meeting. This is an assessment, not a briefing.
 
@@ -80,6 +86,7 @@ A paper bird delivers two theater tickets to Lightsinger Theater. In Private Box
 
 ## Read Aloud
 
+> [!narrative]
 > The box is already occupied when you arrive. A large, gray-haired man in excellent wool sits back from the rail, positioned where the curtain half-hides him, watching the stage. He has ordered wine for more people than were invited. He glances over as you take your seats with a brief, measuring look and turns back to the stage.
 >
 > > "Sit. The first act is short."

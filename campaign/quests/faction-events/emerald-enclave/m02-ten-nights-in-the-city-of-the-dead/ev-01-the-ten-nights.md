@@ -20,6 +20,9 @@ The skeletons are animated by a rogue necromancer. That identity is never discov
 
 He waits at the southern gate of the City of the Dead at sunset on the first night. A Tethyrian man of approximately sixty, broad and heavy, in plain traveling clothes with a sword that carries the look of long use. His only sign of office is a small silver gauntlet pin — Kelemvor's, not Tyr's. He is patient: unhurried, used to long dark hours and nothing moving.
 
+> [!npc-narrative]**Sir Ambrose Everdawn**
+> A broad, heavy Tethyrian man of about sixty, in plain traveling clothes. The sword at his hip carries the look of long use. His only sign of office is a small silver gauntlet pin — Kelemvor's, not Tyr's. He is unhurried: the patient stillness of someone accustomed to long dark hours and nothing moving.
+
 He explains the situation plainly. Bones have been going missing from three mausoleums in the northern section. He patrols the south half after dark. He needs the party to cover the north. At dawn he will meet them at the central gate path.
 
 > > "I've patrolled this cemetery for fifteen years. The northern section has felt wrong for months. Not fresh-wrong — old-wrong. Patient, like it's waiting for something."
@@ -82,6 +85,7 @@ For ten nights, the party patrols the northern City of the Dead and watches the 
 
 ## Read Aloud
 
+> [!narrative]
 > A crow arrives at Trollskull Manor — Melannor later explains that Jeryth chooses the crow when she considers something urgent. The briefing: "Bones are going missing from the City of the Dead. Someone is raising skeletons. Sir Ambrose Everdawn, a champion of Kelemvor, has been asked to patrol the southern half for ten nights. He needs someone to cover the northern section. Jeryth says go." A pause in the crow's delivery. "She said it three times. I mention this because she doesn't usually repeat herself."
 
 ## Summary

@@ -36,13 +36,22 @@ Bonnie is available before or after the formal interviews. She answers questions
 
 **Kael** — presents as a tall, angular retired sailor. Makes clear within the first five minutes that he considers this meeting pointless. Leaves after twenty minutes regardless of how the conversation goes. His Insight reveal (**DC 12**): he is not untrustworthy so much as uninterested. He does not want Harper membership and is only here because Bonnie asked. Not the mole.
 
+> [!npc-narrative]**Kael**
+> A tall, angular man who carries himself like someone accustomed to narrow ship corridors — all shoulder-economy and careful balance. He makes no attempt to seem interested in being here. He has not touched his drink.
+
 **Syla** — presents as a Tethyrian merchant's widow, middle-aged. Answers every question with another question — not evasively, but genuinely, using the interview as much as the PCs are. Her Insight reveal (**DC 13**): she is genuinely undecided about who she wants to be. Not lying. Not the mole.
+
+> [!npc-narrative]**Syla**
+> A middle-aged woman with the composed bearing of someone accustomed to managing difficult conversations in formal settings. She listens more than she speaks, and when she does answer, the answer is usually a question. She seems to find the interview as useful as you do.
 
 ### The Interviews — Evening Two
 
 **Evening Two: Edric, The Scholar, and The Merchant**
 
 **Edric Tanner** — presents as a cheerful, open-hearted Dock Ward teamster. Quick laugh, full of anecdotes about routes and cargo. The most disarming of the five. Has been in Bonnie's crew two months. The Splinter asset.
+
+> [!npc-narrative]**Edric Tanner**
+> A cheerful, open-faced man who fills a room with easy warmth — quick to laugh, full of route anecdotes, the kind of person who makes everyone around him feel included. He is the most immediately likeable of the five. His hands look like a teamster's. They are not.
 
 Detection approaches, usable without automatically succeeding:
 - Asking about specific Harper knowledge they should not have — all five profess ignorance, but Edric's denial is practiced
@@ -52,11 +61,20 @@ Detection approaches, usable without automatically succeeding:
 
 **The Scholar** — presents as a young academic, charming and forthcoming about everything except the things that actually matter. His Insight reveal (**DC 12**): he is already considering how Harper membership could be monetized. Not actively dangerous; loyalty is negotiable.
 
+> [!npc-narrative]**The Scholar**
+> A young man with the practiced openness of someone who has learned that seeming forthcoming is more useful than being forthcoming. He is charming, and he knows it. Every answer arrives polished.
+
 **The Merchant** — presents as a Dock Ward import dealer, neutral and cooperative. Effectively trustworthy in the limited sense of finding the current arrangement convenient. No hidden agenda.
+
+> [!npc-narrative]**The Merchant**
+> A broad-shouldered man in import-trade clothes who makes no particular impression on first meeting — neutral manner, cooperative posture, nothing visible to push against. He is here. He will answer questions. He seems to find this arrangement reasonable.
 
 ### Bonnie's Direct Question
 
-If a PC asks Bonnie directly whether she suspects anyone in the crew, she deflects: "That's what you're here for, isn't it?" If the same PC presses with specific observations, or names Edric with any supporting evidence, she goes quiet for a moment.
+> [!dialogue]**Do you suspect anyone in your crew?**
+> "That's what you're here for, isn't it?"
+
+If the same PC presses with specific observations, or names Edric with any supporting evidence, she goes quiet for a moment.
 
 > > "Tell me what you noticed. In order. Starting from the first evening."
 
@@ -131,6 +149,7 @@ Mirt needs a trusted second opinion on whether to recruit a crew of five doppelg
 
 ## Read Aloud
 
+> [!narrative]
 > Mirt finds you at the Yawning Portal himself — no paper bird. He is uncomfortable. He gets a table away from the bar and leans in.
 >
 > > "A member of our network — Mattrim Mereg, you may have met him at the bar — has gotten it into his head that we should recruit a gang of doppelgangers. I've been resisting the idea, but he's persistent and I need a second opinion I can trust. Talk to them. All five. Tell me what you actually think."

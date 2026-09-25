@@ -58,6 +58,9 @@ If **Ryvarra Identified** is True, the party already knows the man at the door h
 
 ### The Haberdasher at the Door
 
+> [!npc-narrative]**J.B. Nevercott**
+> A man in a burgundy coat, standing at the door with a hat box he shows no interest in opening. He has the bearing of someone who has dressed dukes and guild-masters and found them all equally wanting. His face is harder to describe afterward than it should be.
+
 A man in a burgundy coat stands at Trollskull Manor's front door holding a hat box. He has the bearing of someone who has dressed dukes and guild-masters and found them all equally wanting.
 
 > > "J.B. Nevercott, haberdasher. I believe I'm expected."

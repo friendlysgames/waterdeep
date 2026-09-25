@@ -43,6 +43,9 @@ The library is larger than it needs to be, full of maps still in use and books t
 
 Remi Haventree is already seated when they arrive. Variel Duskwhisper stands near the far window, holding his mandolin by the neck, watching the door. He nods when the party enters and says nothing.
 
+> [!npc-narrative]**Variel Duskwhisper**
+> A wood elf standing near the window with a mandolin held loosely by the neck, watching the door with the unhurried patience of someone who has been in this kind of room before. He nods once when you enter and does not speak. He looks like a musician. He is paying attention to everything.
+
 Mirt pours wine for everyone. He does not sit down.
 
 ### The Rank
@@ -129,6 +132,7 @@ A silver raven — sealed with wax and a signet ring — arrives at Trollskull M
 
 ## Read Aloud
 
+> [!narrative]
 > The library is larger than you expected. Maps crowd the walls alongside books that have clearly been read, and the fire has been burning long enough to take the chill out properly. Remi Haventree is seated near the window. A wood elf with a mandolin stands near the far wall and nods once when you enter.
 >
 > Mirt pours wine for everyone and doesn't sit down.

@@ -95,6 +95,7 @@ The Halls of Justice, midnight. A Horned Devil dispatched by the Cassalanters' i
 
 ## Read Aloud
 
+> [!narrative]
 > Savra is at the door before the usual hour. She closes it behind her. She is controlled. It is taking effort.
 >
 > > "The Cassalanters have filed three procedural objections to the Lords' review. This morning the Halls of Justice received a formal notification through their infernal protocols. A petition filed by something identifying itself as Lord Victoro's contractual counterpart." She meets each of you in turn. "Legally, that notification means nothing in Waterdeep. But it is a flag: something is coming to enforce it. I want you at the Halls of Justice tonight."

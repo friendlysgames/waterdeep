@@ -153,6 +153,7 @@ The Order of the Gauntlet assembled its senior members at the Halls of Justice t
 
 ## Read Aloud
 
+> [!narrative]
 > The hall is stone-still, six Order members and two priests standing in silence on either side of the altar. Sister Valdra is at the end of the line.
 >
 > Savra draws her sword and holds it flat across both hands.

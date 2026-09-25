@@ -70,6 +70,7 @@ Surveillance of Trollskull Manor begins. Before dawn, an imp watches the upper w
 
 ## Read Aloud
 
+> [!narrative]
 > It is the third watch when you see it — a shape near the upper window, too deliberate for a bat, hovering and adjusting as the light inside shifts. It is not moving toward you. It is watching.
 
 ## Summary

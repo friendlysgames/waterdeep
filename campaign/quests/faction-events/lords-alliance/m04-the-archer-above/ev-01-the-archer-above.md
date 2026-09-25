@@ -39,6 +39,9 @@ Vhaspar's room is at the top of the feed store's interior staircase. He has a le
 
 **Quiet approach (DC 13 Dexterity (Stealth) on the stairs):** Vhaspar is caught at his table, reviewing a sketch of his remaining target's walking route. He is alone and no weapon is drawn. When the party enters, he raises his hands slowly.
 
+> [!npc-narrative]**Vhaspar Holmbridge**
+> A grey-haired man of fifty-seven who carries himself like a soldier. He is at the table reviewing a sketch when the party enters. He raises his hands slowly. He says: "All right. You got here first."
+
 > > "All right. You got here first."
 
 **Loud approach or forced door:** Vhaspar is out the window before the party clears the doorframe. Catching him requires a rooftop chase: three Strength (Athletics) checks, DC 15 each, with one success ending the chase and two failures meaning he reaches a pre-arranged rope drop to a back lane and escapes to a secondary location — the Skewered Dragon's cellar storeroom, Dock Ward. He can be found there with a half-hour of Dock Ward investigation; the secondary location is less well-prepared, and he surrenders immediately when cornered again.
@@ -100,10 +103,12 @@ Three unexplained murders in the North Ward. A retired City Watch sharpshooter g
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester gives you the short version.
 >
 > > "We have a sniper problem. Three dead in the North Ward and Sea Ward transition — all killed with arrows from above, none of the bodies connected to any active faction operation. The Watch is overwhelmed. My contact says he was spotted going to ground near Trollskull Alley. I need him found and arrested. Not killed — killing him makes this worse. Alive, he tells us who hired him."
 
+> [!narrative]
 > Pell Street, North Ward. One block from your own front door. The north-facing window of the feed store's top floor is open just enough to see through without being seen.
 
 ## Summary

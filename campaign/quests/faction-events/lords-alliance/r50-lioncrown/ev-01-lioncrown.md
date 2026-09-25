@@ -50,6 +50,7 @@ A formal note arrives two days before — wax-sealed vellum, in Jalester's handw
 
 The annex room is smaller than the audience chamber used in **Mission 6**. Scarred table, four chairs, a cabinet of Alliance documents, a fire that has been burning long enough to warm the stone walls. It is where Laeral actually works. **Laeral Silverhand** is at the head of the table. **Jalester Silvermane** stands to one side. A third figure, compact and watchful, stands near the cabinet.
 
+> [!narrative]
 > Laeral does not rise when you enter. She looks at you once, then at the chair across from her.
 >
 > > "Lioncrown. Sit down."
@@ -170,6 +171,7 @@ Laeral Silverhand promoted the character to Lioncrown, the highest rank of the L
 
 ## Read Aloud
 
+> [!narrative]
 > The summons says "private Alliance business." The room at Piergeiron's Palace does not look like where the Open Lord receives petitioners. It looks like where she actually works — scarred table, cabinet of files, a fire that has been burning for hours. Laeral Silverhand is at the far end, and she looks at you once when you enter.
 >
 > > "Lioncrown. Sit down."

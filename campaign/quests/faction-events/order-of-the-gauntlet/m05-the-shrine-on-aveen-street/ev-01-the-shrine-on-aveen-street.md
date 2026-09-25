@@ -85,6 +85,7 @@ A consecrated basement under a chandler's shop holds the evidence Savra needs �
 
 ## Read Aloud
 
+> [!narrative]
 > Savra meets you at the Halls of Justice, not at Trollskull Manor. She has been here most of the morning. The Order's Cassalanter file now occupies three shelves. She is calm in the way that people are calm when they have finally reached the point where something can be done.
 >
 > > "The shrine on Aveen Street in the Field Ward — Gysheer named it. I cannot send Order knights into a private structure without legal grounds; this is still a shrine, protected under the Code Legal's religious property provisions. You, however, are citizens." She looks at you. "If you find physical evidence — a ritual record, a signed instruction from a named Cassalanter, anything that implicates a specific person in a specific act — I can take it to the Lords. I need it in hand, not described to me."

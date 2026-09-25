@@ -20,6 +20,7 @@ A Manshoon Splinter arcanist used the Undercliff as a testing ground for an anim
 
 The farming terraces east of the walls, accessible through Trollgate in the South Ward. Spring: green, actively worked, smelling of earth and cold harbor air. The visible signs of trouble are immediate — tools dropped mid-task at the edge of a field, a garden gate swinging open, the conspicuous absence of birds.
 
+> [!narrative]
 > The farm tracks here are quiet in a way that is not peaceful. A set of tools leans against a stone wall no one came back for. At the far end of a long field, a horse stands perfectly still, facing north.
 
 A DC 12 Wisdom (Perception or Survival) check, or half an hour of walking the terraces, establishes the general territories of all three scarecrows.
@@ -27,6 +28,9 @@ A DC 12 Wisdom (Perception or Survival) check, or half an hour of walking the te
 ### Gerrick Goodbarrel
 
 **Gerrick Goodbarrel** is in his north field with a pitchfork and an expression of pure, settled impatience. He has been waiting three days for the city to send someone. The party qualifies.
+
+> [!npc-narrative]**Gerrick Goodbarrel**
+> A halfling farmer stands in his north field with a pitchfork and an expression of pure, settled impatience. He looks to be about fifty, practical and sun-weathered. He has been waiting three days for the city to send someone, and his manner makes clear he has already formed his tactical assessment and is simply waiting to share it.
 
 He does not ask for help so much as share his tactical assessment. He has watched the scarecrows' movement patterns and identified the streambed running east-west through the middle terraces as a natural funnel — anything moving north to south must cross it. He also noticed chalk marks on a flat stone in the eastern draw near the northern farms: "Arcanist's work, probably. Didn't touch it."
 
@@ -83,6 +87,7 @@ Three animated scarecrows are terrorizing the Undercliff farms east of Waterdeep
 
 ## Read Aloud
 
+> [!narrative]
 > A pigeon lands on a windowsill at Trollskull Manor one morning, clears its throat with the deliberate clarity of a trained bird, and speaks in a calm baritone: "Animated scarecrows are terrorizing farms east of the city walls. Three of them. Livestock have been attacked and a farmer was struck unconscious. The City Guard is occupied with the gang war and considers animated agricultural fixtures beneath their threshold. Something must be done." The pigeon departs.
 
 ## Summary
