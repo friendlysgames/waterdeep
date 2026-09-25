@@ -317,6 +317,6 @@ Ember voice:
 
 1. Before drafting, read two or three Ember passages of the same type (Section 4–7 excerpts, or the export at `01 - Ember.zip`).
 2. Draft generously, following the ten rules.
-3. Run `voicecheck.py`. Fix every `TELL`. Bring sentence averages and em-dash rates within range.
+3. Run `voicecheck.py`. Fix every `TELL`. Bring sentence averages and em-dash rates within range. **Don't game the numbers:** stringing clauses together with "and… and… and" to raise the average produces run-ons Ember never writes. A long Ember sentence carries one scene or thought with its details; if a joined sentence changes subject halfway, split it.
 4. Read each paragraph's last sentence. If it sounds like the end of a chapter, rewrite it as the middle of one.
 5. Read each NPC's lines aloud. If a line would look good on a poster, rewrite it as something a person says.
