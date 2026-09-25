@@ -17,9 +17,10 @@ This skill captures how the Ember campaign writes adventure prose, adapted to th
 |---|---|
 | `adventure-reloaded` | File types, headings, GM/player zones, flags, Milestone Points, callout syntax |
 | `dnd-adventure-text` | Check/save/damage notation, condition and action capitalization, traps, treasure, doors, read-aloud craft basics |
-| **`ember-adventure-style`** | Voice per zone, sentence templates, NPC and dialogue choreography, tactics shape, branching language, reward staging, recap voice |
+| `ember-voice` | **Sentence-level voice for everything**: rhythm and length targets, the AI-tell catalogue, readaloud/speech/GM/setting voice with verbatim Ember examples, `voicecheck.py` |
+| **`ember-adventure-style`** | Zone rules, sentence templates, NPC and dialogue choreography, tactics shape, branching language, reward staging, recap voice |
 
-**Precedence when they disagree:** notation → `dnd-adventure-text`. Structure → `adventure-reloaded`. Voice, phrasing, and sentence shape → this skill. Project rules in CLAUDE.md (zero-prep, no dice rolls, members-only debriefs) override all three.
+**Precedence when they disagree:** notation → `dnd-adventure-text`. Structure → `adventure-reloaded`. How sentences sound (rhythm, length, tells) → `ember-voice`. Adventure formulas and zone conventions → this skill. **Load `ember-voice` first.** Project rules in CLAUDE.md (zero-prep, no dice rolls, members-only debriefs) override all three.
 
 ---
 
@@ -50,7 +51,7 @@ It may end on the open thread in present tense ("We must head to … if we wish 
 
 - **Warm and confident.** State what happens. "Krafton immediately offers shade and refreshments," not "Krafton might offer."
 - **Lightly elevated diction** in narration: *beseech, entreat, beckon, discern, ingratiate, retinue, retainer.* One elevated word per sentence at most. Never archaic.
-- **No contractions in narrator prose. NPCs use contractions freely.** The contrast is deliberate.
+- **Contractions are normal.** Ember uses them in GM prose (about 14 per 1,000 words) and readaloud narration (about 7), and constantly in speech (about 36).
 - **Humor lives in the characters, never the narrator.** The document is never jokey. Krafton is funny; the text about Krafton is not.
 - **No meta-commentary.** No "this may be difficult for low-level parties," no apology, no balance talk in scene prose. Design reasoning goes in `design-notes.md`.
 - **Failure is neutral and sympathetic.** Failure has a consequence, stated plainly, and the text never scolds: *"If the party fails to rescue Humbolt, he sinks up to his neck before Krafton's other staff manage to pull him out."*
@@ -173,7 +174,7 @@ Ember interleaves speech and **one physical beat**. The beat sits between lines,
 
 Rules:
 - **One signature gesture per NPC, reused.** Krafton's is "a sly smile … and a playful wink." Pick one per NPC and repeat it across events. It is shorthand the players learn to recognize.
-- **Bold marks vocal stress inside dialogue.** *"I believe **you're** the inquisitive group …"*, *"How **delightfully** controversial."* One stressed word per speech, used where the NPC would lean on it aloud. Never bold for GM emphasis inside dialogue.
+- **Bold marks vocal stress inside dialogue, rarely.** *"How **delightfully** controversial."* Ember does it in about 1 speech in 66. Use it at most once per event, where the NPC truly leans on a word. Never bold for GM emphasis inside dialogue.
 - **Spaced ellipses mark pauses and trailing off** in speech: *"There's more you should know … we could really use your help."* Use sparingly, one or two per speech.
 - **Broken-off words** use an em-dash: *"head of House Lil— oh, I recognize you!"*
 - Speeches break into short paragraphs at each shift of thought. A long speech is split by a narration beat, not a wall of quotation.
@@ -185,12 +186,12 @@ Rules:
 
 `dnd-adventure-text` governs read-aloud craft. Ember adds:
 
-- **Length.** 2–4 short paragraphs for scene openings and set pieces (80–200 words); one or two sentences for mid-scene hand-offs.
+- **Voice and length follow `ember-voice` Section 4.** Ember's readalouds have a median of 70 words; most run 50–100, set pieces run many paragraphs (up to about 680 words), and mid-scene hand-offs run one or two sentences. Sentences average about 21 words.
 - **Opener.** Ground the scene first. A participial arrival clause is fine (*"Gathered around a natural watering hole, you spot a sprawling caravan …"*). Stock "You see" / "You find yourself" openings are not.
 - **Wide shot, then the person.** Paragraph one gives the place and the crowd. Paragraph two narrows to the one NPC who matters, already doing something.
 - **Smell is Ember's second sense.** Visual first, then smell or sound. Touch and taste only when they carry danger.
 - **Dialogue belongs inside read-aloud.** NPCs speak within the `[!readaloud]` block, as nested `> >` quotations, interleaved with narration beats. Read-aloud is often a mini-script.
-- **Close on a hand-off.** End on an NPC gesture or question aimed at the characters: *"Once he spots your approach, his eyes twinkle with delight, and he gestures you over."* / *"So, what do you think?"*
+- **Close in motion.** End on what someone does or says next, often an NPC gesture or question aimed at the characters, never on a punchline or ominous one-liner: *"Once he spots your approach, his eyes twinkle with delight, and he gestures you over."* / *"So, what do you think?"*
 - **Plant one unexplained detail.** Mention the anomaly without comment: *"no placard or sign reveals this curious mausoleum's name or ownership."* The GM text explains it; the read-aloud does not.
 - **Short mid-scene reads** break a long conversation: a single line of dialogue or a two-sentence beat, introduced by a GM lead-in (*"Before the party leaves, Krafton closes the conversation with the following offer:"*).
 
@@ -266,4 +267,5 @@ Avoid:
 5. Give every combatant the three-beat tactics block (Section 8).
 6. Stage every reward twice (Section 9).
 7. Check the Summary is "we," past tense, 1–3 sentences.
-8. Run the CLAUDE.md prose pipeline (`deslop-text` + `no-ai-slop` → `humanize-prose`). Quoted dialogue is exempt from W-codes, so Ember's ellipses, broken-off dashes, and bold stress inside quotations stay.
+8. Run `python3 .claude/skills/ember-voice/scripts/voicecheck.py <file>` and fix every TELL. Bring the sentence averages within range.
+9. Run the CLAUDE.md prose pipeline (`deslop-text` + `no-ai-slop` → `humanize-prose`), with `ember-voice` overriding their rhythm advice. Quoted dialogue is exempt from W-codes, so Ember's ellipses, broken-off dashes, and bold stress inside quotations stay.

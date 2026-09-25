@@ -595,9 +595,25 @@ Events describe what is happening when the PCs arrive — NPCs are mid-action. T
 
 Every event file is written from scratch. No citations or references to original source books.
 
-**Readaloud text** is written to be spoken to the players. Write only what the characters perceive — no GM knowledge, summary, or backstory. Present tense, second person ("you"). Length fits the moment: a door is two sentences, a set-piece can run many paragraphs. End on something unresolved. NPC speech inside a readaloud block is written as nested `> >` blockquotes within the block. Every passage the GM reads aloud is a `> [!readaloud]` block; conditional variants are introduced in surrounding GM prose ("If X, read or paraphrase the following:") and are still `> [!readaloud]` blocks.
+**Readaloud text** is written to be spoken to the players. Write only what the characters perceive — no GM knowledge, summary, or backstory. Present tense, second person ("you"). Length fits the moment: a door is two sentences, a set-piece can run many paragraphs. End in motion, on what someone does or says next, never on a punchline. **How the sentences sound is set by `ember-voice`; load it before writing any prose.** NPC speech inside a readaloud block is written as nested `> >` blockquotes within the block. Every passage the GM reads aloud is a `> [!readaloud]` block; conditional variants are introduced in surrounding GM prose ("If X, read or paraphrase the following:") and are still `> [!readaloud]` blocks.
 
 **NPC encounters** use `> [!social]` blocks, placed at the point of first contact or any time the party re-engages an NPC in a scene. The run of `> [!qna]` blocks that follows covers topics the players are likely to raise — write each answer as read-aloud: an optional narration beat, then the NPC's quoted words.
+
+**Readaloud and dialogue density.** Match Ember's density. The user asked for "a higher number of boxed text, verbatim dialogue and narrative sections."
+- **Every beat the players experience gets a `[!readaloud]`:** arrivals, NPC entrances, reveals, the turn of a fight, discoveries, aftermath and departures. GM prose between blocks is one or two sentences of framing.
+- **NPCs speak in their own words.** Wherever GM text would *describe* what an NPC says ("Mirt explains the Harpers"), write the speech verbatim inside a readaloud or qna answer.
+- **Every `[!social]` block is followed by a run of `[!qna]` blocks**, one for each topic the NPC discusses and each question the players will obviously ask.
+- **Every branch outcome gets its own conditional readaloud:** accept or decline, success or failure, capture or escape.
+- **Findings are shown in voice.** An exploration check that reveals something ends with a nested `> >` quote of what the character perceives.
+
+**Missions open with the brief.** The first scene of a faction mission's first event is `### The Brief`: the faction contact gives the party the job in person, where the mission overview says they deliver it. The scene has:
+- a line of GM framing
+- a `[!readaloud]` of the meeting, with the brief as the contact's verbatim speech (what happened, what's needed, why the party, what's in it for them)
+- a `[!social]` block for the contact
+- `[!qna]` blocks for the obvious questions (who, why us, what do you know, where do we start, the pay)
+- a pointer into the next scene
+
+Answers use only facts in the mission files. Where a fact isn't stated (a pay figure), the contact deflects in character rather than inventing one. The user: "Each mission will need to have a scene with getting the actual mission brief as well."
 
 **Checks** go in `> [!exploration]` or `> [!hazard]` blocks. Never resolve a GM-side outcome with a die roll — zero-prep means the outcome is decided in the text.
 

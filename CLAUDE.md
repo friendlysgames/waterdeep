@@ -257,6 +257,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 
 | Skill | When to load |
 |---|---|
+| `ember-voice` | **Load for any campaign prose, before drafting or polishing.** The Ember writing voice: measured rhythm targets, the AI-tell catalogue, readaloud/speech/GM/setting voice with verbatim Ember examples, and `scripts/voicecheck.py`. Overrides the rhythm advice in `humanize-prose`, `deslop-text` and `ttrpg-sourcebook-style`. |
 | `adventure-reloaded` | **Load first for any campaign content task** — governs Ember-style modular format, GM/player zones, Milestone Points, cross-document callout syntax, quest openers, scene voice, NPC profile format, design notes philosophy. Load before drafting any quest journal, event file, location journal, keyed room, NPC profile, or design notes page. |
 | `dnd-adventure-text` | Writing any adventure prose: encounter areas, read-aloud text, GM notes, treasure, traps |
 | `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style`. Also governs sidebar/callout markup (`[!type]`) in all campaign `.md`, and the `md2html.py`/`assemble.py` scripts that convert a quest journal, location journal, guide, or setting folder to Foundry JSON |
@@ -319,7 +320,9 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Writing Process
 
-**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). Run the full pipeline recursively until no violations remain. Deliver only the polished version. Quoted character dialogue is exempt from W-codes and empty-adverb rules — formal or idiosyncratic speech patterns inside quotation marks are intentional character voice.
+**Ember voice:** All campaign prose is written in Ember's voice (`ember-voice`): plain, generous, flowing sentences (narration about 21 words, NPC speech about 14), NPCs who talk like people, and no punchlines, fragment stacks, tricolons, "not X, more Y", noir subtext or epigrams. Run `python3 .claude/skills/ember-voice/scripts/voicecheck.py <file>` on every drafted file and fix every TELL before committing. (User: "All the boxed text is obviously written by AI, so obvious it hurts." / "we need a proper 'ember voicing' for everything.")
+
+**Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). `ember-voice` wins wherever their rhythm advice conflicts with it: never polish prose into short punchy sentences. Run the full pipeline recursively until no violations remain. Deliver only the polished version. Quoted character dialogue is exempt from W-codes and empty-adverb rules — formal or idiosyncratic speech patterns inside quotation marks are intentional character voice.
 
 **Output format:** All campaign documents go to `.md` source files. No HTML Artifacts are published until the full campaign structure is complete — meaning all quests, chapters, and guides have been drafted and reviewed. When the campaign structure is done, finished documents are delivered as HTML Artifacts that visually replicate how the content would look in a Foundry VTT journal. Load `foundry-journal` to understand the visual structure, then render it as an Artifact. Do NOT produce Foundry JSON — that step comes later.
 
@@ -365,7 +368,9 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 4.6) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. Drafting goes to `prose-drafter`, which is pinned to Sonnet 4.6. Never draft with a `general-purpose` agent on the `sonnet` alias, because that alias resolves to the newest Sonnet, not 4.6. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
 
-**Agent concurrency cap:** Never run more than 5 agents at once. Queue further work and launch it as running agents finish.
+**Agent concurrency cap:** Never run more than 5 agents at once.
+
+**Skills are written by the main session.** Skill files (`.claude/skills/`) are written and revised by the main session, not by agents. (User: "When you get to it, write the skill yourself".) Queue further work and launch it as running agents finish.
 
 **Wait to be asked:** Never begin researching or writing the next section (faction, quest, guide) without an explicit user request. Complete the current task, then stop.
 
@@ -375,19 +380,19 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Writing a new quest or campaign section
 
-1. Load `adventure-reloaded` (document structure, quest openers, scene voice, callout taxonomy, NPC profile format, design notes philosophy)
+1. Load `ember-voice` (how every sentence sounds), then `adventure-reloaded` (document structure, quest openers, scene voice, callout taxonomy, NPC profile format, design notes philosophy)
 2. Load `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal` (scene-level prose, Ember voice, and visual formatting)
 3. Draft as a Quest Journal — flat folder: `overview.md` → event files (`ev-NN-name.md` in order) → `flowchart.md` → `design-notes.md`
 4. For keyed locations, draft a separate Location Journal: `area-overview.md` → room files (`[code]-[name].md`)
 5. For NPC profiles: use the Resonance / Emotions / Motivations / Inspirations // Persona / Morale / Relationships format from `adventure-reloaded`
 6. For monsters: `dnd-monster-designer` (standard) or `boss-design` (named villain)
 7. For encounter balancing: `cr2-encounter-builder`
-8. Run `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose
+8. Run `voicecheck.py`, then `deslop-text` + `no-ai-slop` → `humanize-prose` on all prose (`ember-voice` wins on rhythm)
 9. Save to `.md` source file
 
 ### Writing a keyed location or encounter area
 
-1. Load `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal`
+1. Load `ember-voice` + `dnd-adventure-text` + `ember-adventure-style` + `foundry-journal`
 2. Write: setup paragraph → read-aloud → creature behavior → checks → treasure → development
 3. For monsters: `dnd-monster-designer` (standard) or `boss-design` (named villain)
 4. For encounter balancing: `cr2-encounter-builder`
@@ -404,7 +409,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 ### Writing lore or sourcebook-style content
 
-1. Load `ttrpg-sourcebook-style` + `ember-setting-style` + `foundry-journal`
+1. Load `ember-voice` + `ttrpg-sourcebook-style` + `ember-setting-style` + `foundry-journal`
 2. Write following sourcebook conventions (consequence-layered facts, competing tensions, in-world closing quote)
 3. Run `deslop-text` + `no-ai-slop` → `humanize-prose`
 4. Save to `.md` source file

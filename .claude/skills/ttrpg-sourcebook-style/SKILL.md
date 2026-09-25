@@ -24,12 +24,8 @@ Information is stacked within sentences rather than broken apart. Subordinate cl
 
 - *"The city still has an ambition that its might can no longer support, which only serves to fuel the flames of grim, and ultimately futile, determination."*
 
-**Short declarative sentences arrive after accumulation — as a landing blow.**
-After two or three long, clause-heavy sentences, a short one lands hard.
-
-- *"Their might was renowned. Their luxuries were plentiful."*
-- *"Then the plague came."*
-- *"The forges bellow."*
+**Short sentences are occasional pauses, not landing blows.**
+A short sentence can mark a turn in events ("However, the war has largely drifted into the realm of myth."), but it carries information, and it never delivers a dramatic verdict. For this campaign, `ember-voice` sets the rhythm: about 5% of sentences at 7 words or fewer. "Then the plague came."-style punches are the pattern the user rejected as AI prose.
 
 **Appositives and em-dash asides add texture mid-sentence.**
 Rather than a new sentence, extra information is tucked in as an aside:
@@ -55,8 +51,8 @@ Even when describing something once great, its current degraded state is woven i
 **Competing forces are held in tension.**
 Paragraphs frequently balance an opposing pressure: the road is dangerous, *but* merchants still use it. The army is depleted, *but* its reputation intimidates. This "and yet" rhythm recurs constantly and gives the world a sense of lived friction.
 
-**Lists use tricolon with escalation.**
-When enumerating, prefer three items, ending with the most significant or extreme:
+**Lists follow the content, not a rhythm.**
+Enumerate as many items as the content has. Don't force a tricolon or build lists for escalation, because chanted triplets are an AI tell (see `ember-voice`). A natural list reads like this:
 
 - *"they marched, negotiated, and conquered"*
 - *"tools, machinery, and above all, weapons"*
@@ -84,7 +80,7 @@ Sourcebooks use headers to organize information into scannable layers — a GM s
 
 ## Paragraph and Section Rhythm
 
-**Paragraphs average 3–5 sentences.** Short paragraphs (1–2 sentences) are used for emphasis or abrupt transition. Very long paragraphs are rare.
+**Paragraphs run 3–6 sentences.** Each develops one subject or consequence. Avoid one-sentence paragraphs used for emphasis; Ember almost never uses them (see `ember-voice`).
 
 **Sections follow a general → specific → consequence arc.**
 Open by establishing the overall condition of a place or faction. Zoom into specific geography, events, or individuals. Close on the present-tense implication — the unresolved tension, the current threat, the mood right now.
@@ -135,6 +131,6 @@ Sourcebook prose is a functional document first. A GM may read it mid-session, u
 2. Establish the central tension or contradiction — what makes this interesting to a GM or player.
 3. Draft with participial or prepositional sentence openers as the default.
 4. Attach consequence to every fact.
-5. Place a short punchy sentence after a long accumulation.
+5. Check the rhythm against `ember-voice`: long, accumulative sentences, with no punchy landing lines or one-sentence verdicts.
 6. Close sections with an in-world quote if appropriate.
 7. Return only the prose — no preamble or commentary unless the user asks.
