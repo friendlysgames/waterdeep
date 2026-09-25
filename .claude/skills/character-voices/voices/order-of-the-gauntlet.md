@@ -8,7 +8,7 @@
 - **Sound:** A steady, low, controlled voice, deliberate and unhurried, as if she has learned to count to three before speaking.
 - **Sentence shape:** Plain, complete, direct sentences with no diplomatic padding. She states the hard truth first, then the reasoning.
 - **Word choice:** Knightly but unadorned: duty, truth, "I was wrong", "that's not good enough". Tyr is invoked as "the Maimed God". She calls the party by name and expects the same.
-- **Swearing:** Rare, and aimed squarely at wrongdoing ("That's a fucking lie, and you know it."). She owns it and doesn't apologise.
+- **Swearing:** *Stingy · Plain.* Rare, and aimed squarely at wrongdoing ("That's a fucking lie, and you know it."). She owns it and doesn't apologise.
 - **Personality in speech:** Disciplined resolve and old shame she carries openly. She'll speak about the cult if asked, never about what she did in it, and she says so. Anger at diabolism is controlled and cold. Her suspicions of the noble houses are voiced as suspicions, never as knowledge.
 - **Quirks:** She pauses before every serious answer. She says "I'll tell you plainly," and then does.
 - **Signature phrases:** "I'll tell you plainly." / "That's not good enough." / "Ask me. I'll answer."
@@ -26,7 +26,7 @@
 - **Sound:** A deep, rough, steady voice. It speeds up with suppressed urgency when she's finally allowed to talk about the case.
 - **Sentence shape:** Short, practical sentences in her bouncer role. When she presents evidence, organised, numbered and precise, like a prosecutor.
 - **Word choice:** Guard's plainness and investigator's precision: "evidence", "witness", "on record". Tyr is "the Just God". She calls the servant whose story no one believed by name.
-- **Swearing:** Casual in her bouncer role ("Out, and take your shit with you."). Controlled when presenting the case.
+- **Swearing:** *Casual · Plain.* Casual in her bouncer role ("Out, and take your shit with you."). Controlled when presenting the case.
 - **Personality in speech:** Focused determination and months of controlled anger. Relief at finally being heard makes her talk too fast. Her voice holds suspicion only (see the note below): "something is wrong in that house", never a named devil.
 - **Quirks:** She lays out evidence in order, with "one, two, three". She checks who else is listening before she starts.
 - **Signature phrases:** "I have it on record." / "Nobody believed her." / "One. Two. Three."

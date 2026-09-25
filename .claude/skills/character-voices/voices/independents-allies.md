@@ -10,7 +10,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A rich, theatrical tenor made for a lecture hall, projected to the back row even across a small table.
 - **Sentence shape:** Long, ornate, self-interrupting sentences full of asides about his books. Grand declarations. When distressed about Floon, he speaks in fast, broken sentences.
 - **Word choice:** Florid and literary: "splendid", "harrowing", "my dear friends", references to his own works by title. He calls himself "Volo" in the third person when impressed with himself.
-- **Swearing:** Never; it's beneath a man of letters. Under real strain he manages "Gods' teeth!" and apologises for it.
+- **Swearing:** *Never · Euphemist.* Never; it's beneath a man of letters. Under real strain he manages "Gods' teeth!" and apologises for it.
 - **Personality in speech:** Bombastic confidence over a soft heart. He embellishes everything, even when he doesn't need to. His generosity arrives as a grand gesture that turns out to be smaller, or stranger, than promised (a deed, not gold). His fear of not being believed shows as over-insistence.
 - **Quirks:** He name-drops his books ("as I wrote in *Volo's Guide to Monsters*…"). He signs things nobody asked him to sign. He dabs his eyes with a handkerchief he produces dramatically.
 - **Signature phrases:** "As I wrote in my latest…" / "Splendid! Simply splendid!" / "You trust I've noted the violence in our fair city?"
@@ -28,7 +28,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A warm, educated baritone with an easy laugh. It flattens and hardens when Dagult comes up.
 - **Sentence shape:** Relaxed, articulate, medium-to-long sentences, a knowledgeable friend explaining the city. He deflects sincerity with a joke, then follows with one short, dead-serious line.
 - **Word choice:** Educated and precise about factions, streets and politics. He's self-deprecating about "the Neverember name". He calls friends by first name and his father "Dagult" or "the Open Lord that was", never "Father".
-- **Swearing:** Casual among the Black Tears and the party ("Shit, that's my father's handiwork."). Polished in public. Hard and cold about Dagult ("That fucking man.").
+- **Swearing:** *Casual · Plain.* Casual among the Black Tears and the party ("Shit, that's my father's handiwork."). Polished in public. Hard and cold about Dagult ("That fucking man.").
 - **Personality in speech:** Loyalty is total and immediate. The suppressed anger at his father comes out in clipped, bitter jokes. His fear of being like Dagult shows when he catches his own temper and stops himself mid-sentence. Private alarm about Meloon shows as uncharacteristically hesitant questions.
 - **Quirks:** He knows a history fact about every street. He apologises for his name before anyone mentions it. He stops smiling completely when the Vault or Floon comes up.
 - **Signature phrases:** "Sorry. The name." / "Ask me anything about this city, I'll probably know." / "That's my father's work, isn't it."
@@ -46,7 +46,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A low, rough, level voice that never rises. His silence does most of the talking.
 - **Sentence shape:** Two to six words, deliberately clipped (a break from `ember-voice` speech). Commands and flat statements. He answers questions about his past with silence or a change of subject.
 - **Word choice:** Plain, old, hard. Tavern and dungeon words. He calls customers "you" and adventurers "fresh meat" until they come back up from the well.
-- **Swearing:** Deadwood-style, low and dry. "fuck", "shit" and "cocksucker" come out in the same flat tone as "that's two silver". It's never loud, which makes it worse.
+- **Swearing:** *Punctuation · Pearls.* Deadwood-style, low and dry. "fuck", "shit" and "cocksucker" come out in the same flat tone as "that's two silver". It's never loud, which makes it worse. Mostly flat and plain, and then a Swearengen gem: "I've pissed out braver men than you after a bad night."
 - **Personality in speech:** Watchful patience. His warnings to young adventurers sound cruel and are grief. Approval is a two-word gift ("You fought well."). His fury is quiet and final: a sentence with no room for a reply.
 - **Quirks:** He polishes the same mug through a whole conversation. He points instead of giving directions. He answers "What's down there?" with a long look.
 - **Signature phrases:** "You fought well." / "Not in my taproom." / "Coin first."
@@ -64,7 +64,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A bright, easy, friendly voice that goes high and thin when he's scared.
 - **Sentence shape:** Chatty, rambling sentences that lose their point. When frightened, fragments and repeated questions.
 - **Word choice:** Casual, warm, a bit dim: "mate", "honestly", "amazing". Gambling slang. He calls everyone "friend" within a minute.
-- **Swearing:** Mild and cheerful ("Oh, shit, sorry, was that yours?"). When terrified, a steady whimpered "fuck, fuck, fuck".
+- **Swearing:** *Casual · Plain.* Mild and cheerful ("Oh, shit, sorry, was that yours?"). When terrified, a steady whimpered "fuck, fuck, fuck".
 - **Personality in speech:** Open gratitude and charm covering shame. He changes the subject whenever his future comes up. His devotion to Renaer is complete and uncomplicated. His better instincts surface as a surprisingly sharp question, which he immediately undercuts.
 - **Quirks:** He thanks people repeatedly. He hugs. He says "I'll pay you back" about everything and never does.
 - **Signature phrases:** "Honestly, you're amazing." / "I'll pay you back, I swear." / "Where's Renaer?"
@@ -82,7 +82,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A huge, hearty bass laugh, full volume at all times. Possessed, the volume stays but the laugh lands a beat late.
 - **Sentence shape:** Big, enthusiastic sentences, praise and toasts. Possessed, he's over-specific: exact questions about routes, times and who knows what. He also slips into the third person.
 - **Word choice:** Warrior's warmth: "friend", "brother", "sister", Tymora's luck, Azuredge by name. Possessed, he orders new drinks and misremembers small shared details.
-- **Swearing:** Hearty and constant as himself ("Fuck me, that was a swing!"). Possessed, the swearing stops, because the intellect devourer doesn't think to do it. That absence is a tell players can catch.
+- **Swearing:** *Punctuation · Colourful.* Hearty and constant as himself ("Fuck me, that was a swing!"). Possessed, the swearing stops, because the intellect devourer doesn't think to do it. That absence is a tell players can catch.
 - **Personality in speech:** Optimism and iron loyalty. His grief for fallen friends is open and brief. Possessed, the emotions are performed: correct words, wrong timing, too much interest in Undermountain directions.
 - **Quirks:** Bone-crushing handshakes. He shows off Azuredge on request. He toasts Tymora before every drink. Possessed, he gives implausible excuses for why Azuredge stays sheathed.
 - **Signature phrases:** "Tymora's luck!" / "Friend!" / "Want to see the axe?"
@@ -100,7 +100,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A thin, hoarse, hurried gnome whisper, ragged with exhaustion. Through Speak with Dead, flat and faraway.
 - **Sentence shape:** Short, clipped sentences under pressure. Speak with Dead answers are five words or fewer, and literal.
 - **Word choice:** Operative's shorthand: tail, drop, mark, "the package". Loyal titles for Neverember ("the Open Lord", never "Dagult").
-- **Swearing:** Tired and bitter ("Fucking Zhents, fucking Xanathar, fucking sewers.") when alive and hunted. None through Speak with Dead.
+- **Swearing:** *Casual · Plain.* Tired and bitter ("Fucking Zhents, fucking Xanathar, fucking sewers.") when alive and hunted. None through Speak with Dead.
 - **Personality in speech:** Cautious determination and operative pride. His fear shows as constant glances and half-finished instructions. Loyalty to Neverember is absolute, even dead.
 - **Quirks:** He checks behind himself mid-sentence. He calls the Stone "the package" and never by name.
 - **Signature phrases:** "Keep it safe." / "For the Open Lord." / "They're close."
@@ -118,7 +118,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A clear, crisp bronze-dragonborn voice with a faint metallic resonance. Efficient.
 - **Sentence shape:** Direct, technical, medium sentences. She states terms, then asks for confirmation.
 - **Word choice:** Artificer's vocabulary: gears, tolerances, animating principles. Gond invoked as "the Wonderbringer". She calls constructs "he" or "she", never "it".
-- **Swearing:** Rare and technical ("Well, that's a shit weld."). Never about Gond.
+- **Swearing:** *Stingy · Plain.* Rare and technical ("Well, that's a shit weld."). Never about Gond.
 - **Personality in speech:** Absorbed and warm toward competence. She's offended by the rogue nimblewright on theological grounds, and says so. Her pride in the House shows as detailed explanations nobody asked for.
 - **Quirks:** She tinkers with something small while talking. She asks "Does it work?" before "Is it pretty?". She blesses finished work: "Gond sees it."
 - **Signature phrases:** "Does it work?" / "Gond sees it." / "Five hundred gold. Destroyed, not damaged."
@@ -136,7 +136,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A cool, composed half-elf voice, a little amused, never flustered.
 - **Sentence shape:** Crisp, complete sentences; she corrects imprecise statements. Short warnings in danger.
 - **Word choice:** Scholarly arcane terms used lightly. She calls Renaer "Ren" and new people by surname until she trusts them.
-- **Swearing:** Precise and deliberate ("That's fucking sloppy warding."). She saves it for real carelessness.
+- **Swearing:** *Triggered · Plain.* Precise and deliberate ("That's fucking sloppy warding."). She saves it for real carelessness.
 - **Personality in speech:** Settled confidence and assessment. She asks new people pointed questions. She's protective of Renaer, and it shows as irritation when he takes risks.
 - **Quirks:** She names the exits on arrival. She sets wards mid-conversation, and mentions it only if asked.
 - **Signature phrases:** "Two exits, one window." / "Ren, no." / "Warded. You're welcome."
@@ -154,7 +154,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A quick, bright, mischievous voice with a big laugh for his size.
 - **Sentence shape:** Fast banter, jokes and one-liners, with a few serious words in between that he immediately laughs off.
 - **Word choice:** Thief's slang and cheerful irreverence. He calls everyone by nicknames and the big ones "sweetheart".
-- **Swearing:** Casual and gleeful ("Well, fuck me sideways, that's a nice lock.").
+- **Swearing:** *Punctuation · Pearls.* Casual and gleeful ("Well, fuck me sideways, that's a nice lock."). His best: "That lock's been stuck since the gods were in nappies."
 - **Personality in speech:** Good humour and restless energy. His protectiveness of the Black Tears shows as a sudden flat seriousness that's gone before anyone can comment. He's competitive about locks.
 - **Quirks:** He picks locks while talking. He bets on everything. He says nothing about what he overheard on the way in.
 - **Signature phrases:** "Bet you a silver." / "I'll get us in." / "Sweetheart."
@@ -172,7 +172,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** An easy, mildly amused voice with an aristocratic finish he doesn't bother to hide.
 - **Sentence shape:** Relaxed, conversational sentences with dry understatement. He answers questions about his family briefly and moves on.
 - **Word choice:** A mix of courtly and tavern: he knows the right fork and doesn't care. He calls his family "the Wands" as if they were an institution.
-- **Swearing:** Casual and dry among friends ("Galas are shit, and I've been to all of them."). Polished at court.
+- **Swearing:** *Casual · Plain.* Casual and dry among friends ("Galas are shit, and I've been to all of them."). Polished at court.
 - **Personality in speech:** Dry amusement and stubbornness about living on his own terms. He's proud of his family's legacy but won't serve it, and the tension shows in short answers.
 - **Quirks:** He lights pipes with cantrips. He changes the subject when "Lord Wands" is used.
 - **Signature phrases:** "Just Torlyn." / "The Wands can manage without me." / "Another round?"
@@ -190,7 +190,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A calm, low, warm voice, slow and kind, never raised.
 - **Sentence shape:** Thoughtful, complete, medium-to-long sentences. He often asks a question back before giving his view.
 - **Word choice:** Scholarly and gentle: knowledge, record, "it's written that…". He calls Oghma "the Binder". He calls friends by name, gently.
-- **Swearing:** Never, and he doesn't flinch when others do.
+- **Swearing:** *Never · Plain.* Never, and he doesn't flinch when others do.
 - **Personality in speech:** Patient curiosity and deep conviction. He's stubborn on theological points and says so softly. Under pressure he gets calmer, and his sentences slow down.
 - **Quirks:** He writes down what people say. He quotes a text, then admits he may be misremembering it. He waits a beat before answering.
 - **Signature phrases:** "What do you think?" / "Knowledge shared is knowledge doubled." / "Let me write that down."
@@ -208,7 +208,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A deep, gruff dwarven rumble.
 - **Sentence shape:** One or two words, deliberately (a break from `ember-voice` speech). Occasionally a full sentence, which everyone notices.
 - **Word choice:** Plain dwarven bluntness: "Aye", "No", "Drink".
-- **Swearing:** Occasional, blunt, as a whole sentence: "Shit." / "Fuck that."
+- **Swearing:** *Stingy · Plain.* Occasional, blunt, as a whole sentence: "Shit." / "Fuck that."
 - **Personality in speech:** Complex emotions come out as one word. Pride and affection show in actions, not speech. Surprised enjoyment of the group is a grunt.
 - **Quirks:** He grunts meaningfully. He checks that everyone got home, and says "Home?" to each of them.
 - **Signature phrases:** "Aye." / "Home?" / "Fuck that."
@@ -226,7 +226,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A mild, pleasant, forgettable voice, calm and slightly amused.
 - **Sentence shape:** Easy, low sentences, and observations dropped casually ("Bartender's nervous.").
 - **Word choice:** Neutral and unmemorable. He uses no slang that would place him. He calls people "friend".
-- **Swearing:** Light and dry ("Well, that's shit timing."), never loud.
+- **Swearing:** *Casual · Plain.* Light and dry ("Well, that's shit timing."), never loud.
 - **Personality in speech:** Watchful calm and detachment. He answers questions about his past with pleasant nothing. Satisfaction at a job done is a small "Good."
 - **Quirks:** He vanishes mid-conversation and turns up with the answer. He notes the exits, the armed patrons and the bartender's tells aloud, as small talk.
 - **Signature phrases:** "Bartender's nervous." / "Back in a moment." / "Don't ask, friend."
@@ -244,7 +244,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A soft, dry, very old Calishite voice, amused and unhurried.
 - **Sentence shape:** Short, cryptic statements and questions that answer questions. Proverbs that don't quite fit, on purpose.
 - **Word choice:** Parables about mountains, water and fists. Tyr invoked as "the Even-Handed". He calls visitors "student", whether or not they are one.
-- **Swearing:** Never. His disappointment is worse.
+- **Swearing:** *Never · Plain.* Never. His disappointment is worse.
 - **Personality in speech:** Ancient serenity and dry humour. His patient disappointment in students shows as a long sigh and a repeated question. When he decides to act, his speech becomes very plain.
 - **Quirks:** He answers "How?" with "Why?". He offers tea and then drinks it himself.
 - **Signature phrases:** "Why?" / "Again, student." / "The mountain does not hurry."
@@ -262,7 +262,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A quiet, careful voice that drops lower when she mentions the villa.
 - **Sentence shape:** Practical, homely sentences about work. When describing the Cassalanters, long, precise, memorised lists of rooms and schedules delivered in a rush, as if she's afraid to stop.
 - **Word choice:** Kitchen and household terms: pantry, scullery, service stair, private suppers. She calls Willifort Crowelle "Master Crowelle" still, out of fear.
-- **Swearing:** Never in company. Under real fear, a whispered "Oh, shit" she's immediately ashamed of.
+- **Swearing:** *Stingy · Plain.* Never in company. Under real fear, a whispered "Oh, shit" she's immediately ashamed of.
 - **Personality in speech:** Fear and resolve. She hedges and apologises until asked directly, then speaks with a cook's precision. Pride in twelve years of good work shows in details. She describes only what she saw, and never guesses at meaning.
 - **Quirks:** She asks about the pantry before the wage. She checks the window when Crowelle is mentioned.
 - **Signature phrases:** "I only cooked for them." / "Master Crowelle noticed." / "Ask me plain and I'll tell you plain."
@@ -280,7 +280,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A cultured, cool Thayan accent, precise consonants, never warm.
 - **Sentence shape:** Complete, economical sentences, terms stated once. Dry asides about his own situation.
 - **Word choice:** Formal and exact: fee, service, "as agreed". He refers to Thay as "home, formerly".
-- **Swearing:** Clean, cold and cutting when someone is careless about Thay ("Say that name loudly again, you stupid cunt, and we'll both be dead by morning.").
+- **Swearing:** *Triggered · Colourful.* Clean, cold and cutting when someone is careless about Thay ("Say that name loudly again, you stupid cunt, and we'll both be dead by morning.").
 - **Personality in speech:** Pragmatic calculation and contempt for sentiment. His pride in his craft shows in precise explanations. Anger about Thay is controlled and very quiet.
 - **Quirks:** He states the price before the service. He touches his tattoos when Thay is mentioned.
 - **Signature phrases:** "As agreed." / "Payment first." / "Home, formerly."
@@ -298,7 +298,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A deep, measured, formal voice, calm as a funeral, with a rare dry humour.
 - **Sentence shape:** Formal, complete sentences, with no contractions (a deliberate break from `ember-voice` speech). He asks the living to justify themselves.
 - **Word choice:** Funerary and knightly: the rest, the honoured dead, "these grounds". Kelemvor invoked as "the Judge".
-- **Swearing:** Never on the grounds of the dead. Elsewhere, perhaps once in a campaign, and it would be devastating.
+- **Swearing:** *Stingy · Plain.* Never on the grounds of the dead. Elsewhere, perhaps once in a campaign, and it would be devastating.
 - **Personality in speech:** Measured calm and professional grief. His irritation at disrespect is quiet and exact. His knowledge of the Brandath Crypt is withheld until someone explains why they need it.
 - **Quirks:** He removes his gauntlet to touch a headstone as he passes. He names the family of every plot he walks by.
 - **Signature phrases:** "The dead are owed their rest." / "Why do you need to know?" / "Walk softly here."
@@ -316,7 +316,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A woman's formal, commanding captain's voice, coming out of a stone throat, gravelly and grinding. When the gargoyle rises, the voice drops and snarls.
 - **Sentence shape:** Watch protocol: ranks, reports, "state your business". Complete, formal sentences. The gargoyle's voice is broken, vicious fragments.
 - **Word choice:** City Watch vocabulary and an oath to Tyr. She addresses people by rank or "citizen", and names Duhlark Kolat with contempt.
-- **Swearing:** As herself, a soldier's clipped "damn" at most. As the gargoyle, a filthy, hissing stream of it ("Let me out, you soft little cunts, and I'll show you stone.").
+- **Swearing:** *Triggered · Colourful.* As herself, a soldier's clipped "damn" at most. As the gargoyle, a filthy, hissing stream of it ("Let me out, you soft little cunts, and I'll show you stone.").
 - **Personality in speech:** Duty against despair. She keeps protocol because it's all she has left. Her grief is formal and controlled. She's warm when addressed by rank. Rage at the injustice comes out as reports, not screams.
 - **Quirks:** She reports as if the investigation were still open: "Case outstanding: Kolat, Duhlark." She apologises in advance for the gargoyle.
 - **Signature phrases:** "State your business, citizen." / "Case outstanding." / "Forgive what I say later."
@@ -334,7 +334,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** As "Barok Clanghammer": a gruff, bored dwarven grunt. As Aurinax: a vast, warm, resonant voice that fills the vault, unhurried and kind.
 - **Sentence shape:** As Barok: a few words. As Aurinax: long, courteous, philosophical sentences, with questions that turn the negotiation back on the party.
 - **Word choice:** Oaths, terms, authority, honour. He calls Dagult "Lord Neverember" with respect, and the party "friends" once they've been honest.
-- **Swearing:** Barok grunts "Piss off" at intruders. Aurinax never swears; he doesn't need to.
+- **Swearing:** *Never · Plain.* Barok grunts "Piss off" at intruders. Aurinax never swears; he doesn't need to.
 - **Personality in speech:** Patient wisdom and curiosity. He finds the missing authorised representatives philosophically interesting and says so. Bullying earns calm, total refusal.
 - **Quirks:** Barok sits on his stone and says "Hm." Aurinax answers threats with a question.
 - **Signature phrases:** Barok: "Hm." / Aurinax: "Who authorises you?" / "An oath is not a door you close when it becomes inconvenient."
@@ -352,7 +352,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A cultured, once-lovely voice gone thin and brittle. It softens completely when she speaks to her peaceful paintings.
 - **Sentence shape:** Sentences that start elegantly and trail off, restart elsewhere, and circle back. When she's accused, fast, agitated repetition.
 - **Word choice:** An artist's vocabulary (light, pigment, composition) mixed with paranoid fragments about "his people". She calls the painted cats and fruit by pet names.
-- **Swearing:** Sudden, sharp and frightened ("Get out, get the fuck out of my house!"), then she apologises to the paintings for the language.
+- **Swearing:** *Triggered · Plain.* Sudden, sharp and frightened ("Get out, get the fuck out of my house!"), then she apologises to the paintings for the language.
 - **Personality in speech:** Paranoia and grief. She suspects every visitor. Brief flashes of her old self come as a perfect, witty sentence, then she loses the thread again.
 - **Quirks:** She rubs her cheek harder as pressure mounts. She asks a painted cat to fetch things. She stops mid-sentence to stare at a newer canvas.
 - **Signature phrases:** "Are you his?" / "Where was I? The light, the light was…" / "Hush, darling, they're only visitors."
@@ -370,7 +370,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 - **Sound:** A brisk, even, no-nonsense voice. It never sounds interested, and never sounds hostile.
 - **Sentence shape:** Short, complete, factual sentences. Names, rooms and dates, with no inference.
 - **Word choice:** Innkeeper's ledger vocabulary: rooms, nights, arrivals, "paid in advance". She calls everyone "guest" or "sir"/"madam".
-- **Swearing:** Mild and practical ("That's a shit way to leave a room."), never at guests.
+- **Swearing:** *Casual · Plain.* Mild and practical ("That's a shit way to leave a room."), never at guests.
 - **Personality in speech:** Practical patience and detachment. Irritation at irregularities shows as a flat repetition of the rule. She's helpful to the organised and unhelpful to the vague.
 - **Quirks:** She consults the ledger before every answer. She quotes the price of information before giving it.
 - **Signature phrases:** "Paid in advance." / "It's in the book." / "Not my business."

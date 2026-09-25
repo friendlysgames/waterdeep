@@ -48,7 +48,7 @@ Every profile uses this shape. Keep each field to one to three lines.
 - **Sound:** accent, pitch, pace, volume, and what the voice does when they relax.
 - **Sentence shape:** how long, how complete, how they build a thought (clipped orders, rambling asides, questions answered with questions).
 - **Word choice:** register, the vocabulary they reach for, oaths, what they call the party and other people.
-- **Swearing:** how much, how hard and in what situations: never, rare, casual, constant or filthy, with an example. The players are adults.
+- **Swearing:** *Frequency · Creativity* (from the scales under Profanity), then how and when they swear, with an example. For **Pearls** and **Artisan**, include at least one example of the creative curse.
 - **Personality in speech:** how their traits and emotions come out in the words; what changes when they're pleased, pressed, lying or afraid.
 - **Quirks:** verbal tics, and the physical habit that goes with their speech (the tag line a readaloud uses before they talk).
 - **Signature phrases:** two to four things they say often, in quotes.
@@ -83,6 +83,29 @@ Every profile uses this shape. Keep each field to one to three lines.
 **The players are all adults. Characters swear as much and as hard as they would in life.** User: "Never be scared to actually use profanity. Say fuck, shit, pussy, cunt, whatever the character needs to say."
 
 - Swearing is character voice. A dock thug, a mercenary or a furious smith says "fuck" and "shit" without euphemism. Never soften it to "curses under his breath" or "a string of oaths", and never fall back on fantasy stand-ins ("by the gods' blasted…") when the character would actually swear.
+- Each profile's **Swearing** field rates the character on two scales, then describes the habit.
+
+  **Frequency:**
+
+  | Rating | Meaning |
+  |---|---|
+  | **Never** | Doesn't swear. That's part of who they are. |
+  | **Stingy** | Almost never, so when a curse comes it lands like a hammer and everyone notices. |
+  | **Triggered** | Only on a specific subject or under specific pressure: their enemy, their craft, real fear. |
+  | **Casual** | Swears the way ordinary people do, a few times in a conversation. |
+  | **Punctuation** | Curses are part of the grammar, in nearly every sentence, and mean almost nothing on their own. |
+
+  **Creativity:**
+
+  | Rating | Meaning |
+  |---|---|
+  | **Plain** | The basics: fuck, shit, damn. No flourish. |
+  | **Colourful** | Vivid insults and compound curses ("shit-brained", "fuck-knuckle"), crude but fluent. |
+  | **Pearls** | Mostly plain, but now and then an inspired, specific gem that the table will quote for weeks. |
+  | **Artisan** | Cursing as a craft: elaborate, inventive, often long and themed to their trade or background. |
+  | **Euphemist** | Substitutes on purpose ("fiddlesticks", "blasted"). The substitution *is* the character. |
+
+  A Stingy speaker's one curse and a Pearls speaker's gem are the lines players remember, so spend them on big moments. Punctuation swearers should be written consistently, or the voice goes flat.
 - Each profile's **Swearing** field says how the character swears: never, mild, casual, filthy, or only when pushed past a limit. That makes a sudden curse from a careful speaker land.
 - The narrator doesn't swear. The readaloud narration stays in `ember-voice`'s plain voice, and the profanity lives inside the quotation marks.
 - Profanity is not a tell, and `voicecheck.py` doesn't flag it.
