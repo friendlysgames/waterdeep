@@ -27,13 +27,28 @@ TELLS = [
     ("noir 'something X' subtext", r"\bsomething (?:warm|careful|cold|harder|else|more) (?:in|underneath|behind|beneath)\b", "all", True),
     ("triplet X, X, X", r"\b(\w+) \w+, \1 \w+, (?:and )?\1 \w+", "all", True),
     ("'There's always a' aphorism", r"\bthere'?s always a\b|\balways true of\b", "speech", True),
-    ("'quietly' hedge", r"\bquietly\b", "all", True),
+    # 'quietly' is fine for real sound or stealth; flagged only when no sound/movement word is next to it
+    ("'quietly' as a non-committal hedge", r"\bquietly\b", "quietly", True),
     ("'here's the kicker'", r"\bhere'?s (?:the (?:kicker|thing|catch|twist|rub)|what (?:most people|nobody|no one))|\bwhat most people miss\b", "all", True),
     ("profound-but-empty abstraction", r"\b(?:the weight of|a testament to|palpable|tapestry|ineffable|unspoken (?:understanding|agreement|truth)|resonat(?:e|es|ed|ing) (?:with|through|deeply)|quiet (?:confidence|competence|authority|menace|dignity|strength|intensity|resolve))\b", "all", True),
     ("synonym triplet", r"\b(%s),? (%s),? (?:and |or )?(%s)\b" % ((r"careful|patient|deliberate|calm|measured|precise|cold|calculating|methodical|ruthless|efficient|steady|controlled|disciplined|meticulous|cunning|shrewd|ambitious|charming|warm|kind|gentle|patient|loyal|devoted|faithful",)*3), "all", True),
     ("colon reveal", r"\w: (?:it|he|she|they) (?:was|is|were|had)\b", "narration", False),
     ("telling the beat", r"\b(?:clearly|visibly|obviously) (?:embarrassed|nervous|upset|pleased|uncomfortable)\b|\bin a tone that\b", "narration", True),
 ]
+
+# Words that make "quietly" literal: sound, speech, stealth, movement.
+LITERAL_QUIET = r"(?:mov|walk|step|slip|creep|sneak|tiptoe|pad|speak|spoke|say|said|talk|whisper|murmur|mutter|hum|sing|laugh|sob|cr(?:y|ies|ied)|knock|clos|open|shut|enter(?!tain)|entr(?:y|ies)|leav|inform|thank|tell|told|lift|pick|climb|crawl|go(?:es)? in|approach|rot|sit|sat|breath|chuckl|reply|repl|answer|ask|call|drift|pass|pull|draw|slid|stir)\w*"
+
+
+def quietly_hedge(text):
+    """True when a 'quietly' in text is not next to a sound or movement word."""
+    for m in re.finditer(r"\bquietly\b", text, re.I):
+        before = re.findall(r"[\w']+", text[:m.start()])[-3:]
+        after = re.findall(r"[\w']+", text[m.end():])[:2]
+        if not any(re.fullmatch(LITERAL_QUIET, w, re.I) for w in before + after):
+            return True
+    return False
+
 
 SENT = re.compile(r"(?<=[.!?…])[\"”’)]*\s+")
 
@@ -101,7 +116,10 @@ def check(path):
     hard = 0
     for kind, n, text in items:
         for label, rx, scope, is_hard in TELLS:
-            if scope != "all" and scope != kind:
+            if scope == "quietly":
+                if not quietly_hedge(text):
+                    continue
+            elif scope != "all" and scope != kind:
                 continue
             if re.search(rx, text, re.I if label != "mic-drop line" else 0):
                 hard += is_hard
