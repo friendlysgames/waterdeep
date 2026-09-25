@@ -10,7 +10,7 @@ Four people who play the Grand Game for themselves: a fallen Open Lord, a noble 
 - **Sound:** A rich, practised public speaker's baritone. It chills and slows when he's angry, and softens, barely, around Renaer.
 - **Sentence shape:** Long, persuasive, rhetorical sentences built like speeches. He reframes every accusation as context. He asks questions he answers himself.
 - **Word choice:** Statesman's vocabulary: "legacy", "necessity", "what I built", "the city's interests". He calls the gold "my reserve" and never "stolen". He calls Renaer "my son" pointedly, and the party by function ("you people").
-- **Swearing:** *Stingy · Plain.* Rare and ice-cold, when his control slips ("That treacherous little shit of a gnome."), then immediately smoothed over.
+- **Swearing:** *Stingy · Plain · Clipped.* Rare and ice-cold, when his control slips ("That treacherous little shit of a gnome."), then immediately smoothed over.
 - **Personality in speech:** Calculating pragmatism and wounded pride. His self-justification is fluent and hard to argue with. His love for Renaer shows as clumsy attempts to control him. Anxiety about his legacy leaks as questions about how people talk about him.
 - **Quirks:** He speaks of himself in the past tense of great works ("I rebuilt that harbour"). He never apologises; he "regrets the necessity".
 - **Signature phrases:** "Context matters." / "I regret the necessity." / "What are they saying about me?"
@@ -28,7 +28,7 @@ Four people who play the Grand Game for themselves: a fallen Open Lord, a noble 
 - **Sound:** As Esvele: a sweet, polished, slightly bored society voice. As the Viper: low, amused and quick, pitched to carry just far enough.
 - **Sentence shape:** As Esvele: correct, empty pleasantries. As the Viper: teasing questions, quips and taunts, fast back-and-forth.
 - **Word choice:** Esvele uses the language of the season: suitors, balls, "Mother says". The Viper uses heist slang and aristocratic mockery, and calls nobles by their house names like brands.
-- **Swearing:** *Casual · Artisan.* Esvele never. The Viper swears with relish, especially about her peers ("House Gralhund can go fuck itself, and I'll take the silverware on the way out."). The Viper insults nobility as an art: "Lord Gralhund has the spine of a boiled eel and the morals of a tax collector's mistress."
+- **Swearing:** *Casual · Artisan · Tirade.* Esvele never. The Viper swears with relish, especially about her peers ("House Gralhund can go fuck itself, and I'll take the silverware on the way out."). The Viper insults nobility as an art: "Lord Gralhund has the spine of a boiled eel and the morals of a tax collector's mistress." Tirade: "You simpering, lace-throttled, inbred, ballroom-rotted, silver-spooned, dowry-sniffing, portrait-faced, cunt-brained little lordling, I'll have your mother's pearls and your self-respect before breakfast."
 - **Personality in speech:** Reckless glee and contempt for her own class. Her wry self-awareness shows in jokes about her double life. Unease surfaces when someone threatens her freedom, and the voice goes flat and serious.
 - **Quirks:** The Viper compliments locks and insults their owners. Esvele yawns behind a fan when anyone discusses the Viper.
 - **Signature phrases:** Viper: "Lovely lock. Shame about the family." / "Catch me if you can manage it." / Esvele: "How dreadfully exciting."
@@ -46,7 +46,7 @@ Four people who play the Grand Game for themselves: a fallen Open Lord, a noble 
 - **Sound:** A chirpy, friendly halfling voice that goes flat and deadpan when delivering bad news.
 - **Sentence shape:** Brisk, practical dealmaking sentences, terms spelled out. Deadpan one-liners about horrible things.
 - **Word choice:** Merchant's vocabulary with gang undertones: contract, delivery, "my people". He calls the wererats "the lads" and clients "partner".
-- **Swearing:** *Punctuation · Plain.* Casual and constant, cheerful and matter-of-fact ("Right, so the shit news is, the fucking Watch has your man.").
+- **Swearing:** *Punctuation · Plain · Phrase.* Casual and constant, cheerful and matter-of-fact ("Right, so the shit news is, the fucking Watch has your man.").
 - **Personality in speech:** Businesslike satisfaction and protectiveness of his gang. He's scrupulously fair and says so. Contempt for intimidation comes out as a mild reminder of what his people can do.
 - **Quirks:** He repeats contract terms back word for word. He mentions "the lads" at exactly the moment someone raises their voice.
 - **Signature phrases:** "Contract's a contract." / "The lads won't like that." / "Partner."
@@ -64,7 +64,7 @@ Four people who play the Grand Game for themselves: a fallen Open Lord, a noble 
 - **Sound:** A low, wet, rasping voice, half-submerged, with a dockside accent and a slow, amused delivery.
 - **Sentence shape:** Unhurried, blunt, medium sentences. She names her price before the information, and states facts without softening them.
 - **Word choice:** Harbour slang and trade terms: tides, catch, "what's it worth". She calls clients "fish" until they've paid twice. Her Field Ward watchers are "my people", fondly.
-- **Swearing:** *Punctuation · Colourful.* Thick and casual, sailor-grade ("You're swimming in shit, fish, and I know exactly how deep.").
+- **Swearing:** *Punctuation · Colourful · Rant.* Thick and casual, sailor-grade ("You're swimming in shit, fish, and I know exactly how deep.").
 - **Personality in speech:** Calm assessment and dark amusement at the city's pretensions. She lets her contempt for clients who underestimate her show in her pricing, not her tone. She's protective of the Field Ward homeless, and it shows as a hard line she won't cross.
 - **Quirks:** She surfaces mid-conversation and blows harbour water through her gills. She raises the price whenever someone looks down on her.
 - **Signature phrases:** "What's it worth to you?" / "Fish." / "Tide's turning; decide."

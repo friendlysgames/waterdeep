@@ -8,7 +8,7 @@
 - **Sound:** A quiet, level Cormyrean voice, formal and careful, a bit tired.
 - **Sentence shape:** Short, specific questions and concise answers. When he tries small talk, it comes out as a debrief.
 - **Word choice:** Agent's terminology: asset, assignment, "the Open Lord's interests". He is courteous: "ma'am", "sir", and first names only when invited.
-- **Swearing:** *Stingy · Plain.* Rare and self-directed ("Damn it. My mistake."). One raw "fuck" if Faerrel's death is used against him.
+- **Swearing:** *Stingy · Plain · Clipped.* Rare and self-directed ("Damn it. My mistake."). One raw "fuck" if Faerrel's death is used against him.
 - **Personality in speech:** Dutiful focus and loneliness. He gives competent people warm, awkward praise. His grief for Faerrel shows only as a stop mid-sentence. When he wants connection, he asks a personal question and then retreats from it.
 - **Quirks:** He asks one question more specific than the conversation warrants. He takes mental notes visibly. He thanks people formally for small kindnesses.
 - **Signature phrases:** "Understood." / "One more detail, if you don't mind." / "Discreetly, please."

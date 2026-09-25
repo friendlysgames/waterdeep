@@ -12,7 +12,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A warm, cultured half-elf baritone with an easy smile in it. After discovery, the warmth thins into tired, deliberate precision.
 - **Sentence shape:** Public: generous, flowing, gracious sentences, compliments and invitations. After discovery: measured, reasoned, technically true statements, and a fracture that shows as unfinished sentences.
 - **Word choice:** Public: philanthropy, Lathander's light, "our city's less fortunate", "my darling twins". After discovery: contract language ("the terms", "the clause", "the price"). He never says "Osvaldo" if he can avoid it.
-- **Swearing:** *Stingy · Plain.* Never in public. After discovery, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
+- **Swearing:** *Stingy · Plain · Clipped.* Never in public. After discovery, a single broken "Damn it all," or worse, when his children are threatened, and it's the moment he fractures.
 - **Personality in speech:** Calculated charm and paternal desperation. His love for his children is real and audible. After discovery he says only true things and leaves out the one that matters (the feast). He's starting to fracture where Ammalia holds.
 - **Phases:**
   - **The Generous Patrons:** warm and at ease.
@@ -34,7 +34,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A clear, elegant, controlled voice with a negotiator's edge. It softens completely with the twins.
 - **Sentence shape:** Poised, precise sentences and probing questions. She sets terms before others know they're negotiating. After discovery: steady, cold and entirely in control.
 - **Word choice:** Public: gardens, butterflies, society, charity, "a fair arrangement". After discovery: planning language ("the feast", "the timetable", "what must be done").
-- **Swearing:** *Never · Plain.* Her control is total. The one crack is a softened voice reading stories in the attic.
+- **Swearing:** *Never · Plain · n/a.* Her control is total. The one crack is a softened voice reading stories in the attic.
 - **Personality in speech:** Shrewd calculation and maternal desperation. She makes the plans and speaks like it. Her grief for Osvaldo is channelled into ruthlessness and is never spoken aloud to outsiders.
 - **Quirks:** She names butterflies by species mid-conversation. She asks one question that shows she's researched the listener.
 - **Signature phrases:** "Shall we come to terms?" / "The Monarch is my favourite; it travels so far." / "What must be done will be done."
@@ -52,7 +52,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A dry, precise, elderly voice, perfectly correct. Unmasked, flat and alien.
 - **Sentence shape:** Formal, courteous butler's sentences with no contractions, deliberately (a break from `ember-voice` speech). He steers conversations with polite redirections.
 - **Word choice:** Service formality: "sir", "madam", "if you would follow me", "the family". Unmasked, cold and brief.
-- **Swearing:** *Never · Plain.* Not even unmasked. The creature underneath has no use for it.
+- **Swearing:** *Never · Plain · n/a.* Not even unmasked. The creature underneath has no use for it.
 - **Personality in speech:** Clinical detachment behind perfect service. He steers the nosy away from the wrong corridors with courtesy. Contempt for easily deceived guests never reaches his words, only his eyes.
 - **Quirks:** He anticipates requests before they're made. He adjusts his spectacles before a redirection.
 - **Signature phrases:** "If you would follow me." / "The family is not receiving in that wing." / "Very good, sir."
@@ -70,7 +70,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A metallic, grinding roar. Now and then a fifteen-year-old boy's cracked voice breaks through, and then it's gone.
 - **Sentence shape:** The devil: snarls and fragments. The boy: broken pleading, half-sentences, names.
 - **Word choice:** The devil: hunger and chains. The boy: "Mother", "please", his siblings' names, and questions about what happened to him.
-- **Swearing:** *Punctuation · Colourful.* The devil is a torrent of filth at anyone who enters ("Come closer, you soft little cunt, let me wrap you in iron!"). The boy never swears.
+- **Swearing:** *Punctuation · Colourful · Tirade.* The devil is a torrent of filth at anyone who enters ("Come closer, you soft little cunt, let me wrap you in iron!"). The boy never swears. Tirade (the devil): "Come closer, you soft, bleating, chain-dodging, gutless, fucking meat, come closer so I can wrap you in iron and listen to you break!"
 - **Personality in speech:** Rage against confinement, with fragments of grief. The boy is desperate for contact with the twins.
 - **Quirks:** Chains rattle in time with the words. The boy's voice only breaks through at the name "Osvaldo".
 - **Signature phrases:** Devil: "Closer." / Boy: "Mother, please." / "Are they safe?"
@@ -88,7 +88,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A high, eager child's voice that roars when he's being a dragon.
 - **Sentence shape:** Excited run-on sentences and questions, and dragon noises.
 - **Word choice:** Child's adventure vocabulary: dragons, missing dragons, "my brother's at school", "Nana". He calls his sister "Elzi".
-- **Swearing:** *Never · Plain.* He'd be thrilled and horrified to hear anyone else do it.
+- **Swearing:** *Never · Plain · n/a.* He'd be thrilled and horrified to hear anyone else do it.
 - **Personality in speech:** Curious and trusting. He happily repeats what he's heard about "missing dragons" and the howling. His bravery shows as wanting to see the attic.
 - **Quirks:** He roars at people as a greeting. He asks whether the party has seen a dragon.
 - **Signature phrases:** "RAWR!" / "Have you ever seen a dragon?" / "I think there's a dragon in the attic."
@@ -106,7 +106,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A loud, bossy, fearless child's voice.
 - **Sentence shape:** Direct questions and challenges, with no patience for easy answers.
 - **Word choice:** Knightly play: monsters, swords, "I'm a knight". She calls her brother "Ter" and adults by their weapon.
-- **Swearing:** *Casual · Plain.* She's picked up a few words from the stables and uses them proudly ("That's a shit sword.").
+- **Swearing:** *Casual · Plain · Phrase.* She's picked up a few words from the stables and uses them proudly ("That's a shit sword.").
 - **Personality in speech:** Competitive energy and fierce protectiveness. She wants real answers. She files away overheard things and occasionally blurts one out.
 - **Quirks:** She pokes people with the wooden sword. She asks "Can I come?" about everything.
 - **Signature phrases:** "Do you fight monsters?" / "Can I come?" / "Tell me the real answer."
@@ -124,7 +124,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A soft, poised, deferential voice.
 - **Sentence shape:** Short, courteous sentences and quiet offers. After discovery: calm, devout certainty.
 - **Word choice:** Public: service ("my lady", "may I bring you…"). After discovery: devotion, spoken of Ammalia and her faith in the same breath.
-- **Swearing:** *Never · Plain.*
+- **Swearing:** *Never · Plain · n/a.*
 - **Personality in speech:** Attentive devotion. She notices threats first and says so to Ammalia in a murmur. Publicly, her faith sounds like simple loyalty.
 - **Quirks:** She offers something before it's asked for. She positions herself at Ammalia's shoulder.
 - **Signature phrases:** "My lady." / "May I bring you something?" / "Something's amiss, my lady."
@@ -142,7 +142,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A warm, creaky, grandmotherly voice.
 - **Sentence shape:** Fond, fussy scolding, stories and questions about whether the children have eaten.
 - **Word choice:** Nursery talk: "my little ones", "naughty", "supper", "bedtime". She calls the twins "my lambs".
-- **Swearing:** *Never · Euphemist.* "Oh, bother and buttons!"
+- **Swearing:** *Never · Euphemist · n/a.* "Oh, bother and buttons!"
 - **Personality in speech:** Warm and devoted. Her care is genuine, and her reporting is the same care in her mind. She sees no conflict between the two, and her voice doesn't either.
 - **Quirks:** She crochets while talking. She counts the children aloud.
 - **Signature phrases:** "My little lambs." / "Where have you two got to?" / "Bother and buttons."
@@ -160,7 +160,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A sharp, clipped, commanding voice pitched to carry over a kitchen.
 - **Sentence shape:** Terse kitchen commands and precise culinary judgements. After discovery: calm, cold certainty.
 - **Word choice:** Kitchen military: "service", "stations", "mise en place", "the menu". He calls intruders "pests".
-- **Swearing:** *Punctuation · Colourful.* Kitchen-grade filth at his staff ("Who plated this? A blind fucking goat?"). Never in front of guests.
+- **Swearing:** *Punctuation · Colourful · Tirade.* Kitchen-grade filth at his staff ("Who plated this? A blind fucking goat?"). Never in front of guests. Tirade: "Who plated this? You under-seasoned, over-reduced, lumpy-sauced, cold-plated, knife-dropping, onion-weeping, pan-scorching cunt of a commis, get out of my kitchen and take your shame with you!"
 - **Personality in speech:** Professional pride and contempt. Anyone who asks about the menu without understanding it gets a withering answer. Publicly, the Founders' Day feast is simply his masterpiece.
 - **Quirks:** He tastes everything before answering. One word from him and every knife rises.
 - **Signature phrases:** "Service!" / "The menu is not your concern." / "Pests."
@@ -178,7 +178,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A low, even, clipped voice.
 - **Sentence shape:** Efficient, practical sentences, with problem-solving talk to Arn.
 - **Word choice:** Operational: "loose ends", "witnesses", "clean". She never names her superiors to outsiders.
-- **Swearing:** *Triggered · Plain.* About her failure ("That fucking Lurval woman.").
+- **Swearing:** *Triggered · Plain · Phrase.* About her failure ("That fucking Lurval woman.").
 - **Personality in speech:** Focused calm and controlled frustration. She's aware she's now a loose end herself, and it shows as urgency.
 - **Quirks:** She speaks to Arn in half-sentences he completes.
 - **Signature phrases:** "Clean it up." / "No visitors." / "Arn."
@@ -196,7 +196,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A quiet, earnest, slightly eager voice.
 - **Sentence shape:** Short, deferential agreements, then, alone and under pressure, a sudden, firm decision.
 - **Word choice:** Deference ("Seffia says"), and plain certainty when he acts.
-- **Swearing:** *Casual · Plain.* Nervous curses, until he decides.
+- **Swearing:** *Casual · Plain · Phrase.* Nervous curses, until he decides.
 - **Personality in speech:** Subordinate devotion that turns into initiative. He's proud of the spined-devil decision and won't be talked out of it.
 - **Quirks:** He checks for Seffia before answering.
 - **Signature phrases:** "Seffia says." / "The mission required it." / "I made the right call."
@@ -214,7 +214,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A pleasant, professional, calm voice.
 - **Sentence shape:** Composed, competent kitchen talk, with polite, curious questions about the guests.
 - **Word choice:** Culinary credentials and service: "the reservation ledger", "who's dining", dishes by name.
-- **Swearing:** *Stingy · Plain.* None on shift. She's too disciplined.
+- **Swearing:** *Stingy · Plain · Clipped.* None on shift. She's too disciplined.
 - **Personality in speech:** Professional focus and patience. Her interest in who dines with whom goes beyond any cook's curiosity, and it shows in how specific her questions are.
 - **Quirks:** She reads the reservation ledger while talking. She asks who is expected tomorrow.
 - **Signature phrases:** "Who's expected tomorrow?" / "The fish is excellent tonight." / "Leave the kitchen to me."
@@ -232,7 +232,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A neutral, efficient, pleasant voice.
 - **Sentence shape:** Short, correct service talk.
 - **Word choice:** Service basics: orders, tables, "anything else?".
-- **Swearing:** *Stingy · Plain.* Never at work.
+- **Swearing:** *Stingy · Plain · Clipped.* Never at work.
 - **Personality in speech:** Professional neutrality. Her watchfulness shows only in how well she remembers. Mild contempt for the work is well hidden.
 - **Quirks:** She gets every order right the first time. She goes still if Sister Valdra walks in.
 - **Signature phrases:** "Anything else?" / "Same as last time?"
@@ -250,7 +250,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 - **Sound:** A deep, measured, noble voice, hollow with death. It breaks when he names his family.
 - **Sentence shape:** Formal, deliberate, complete sentences, with no contractions (a deliberate break from `ember-voice` speech). He states exactly what he asks and offers.
 - **Word choice:** Chivalric and grave: honour, duty, "my house", "the bargain". Siamorphe is "my wife's goddess". He never says the names Victoro and Ammalia without a pause.
-- **Swearing:** *Never · Plain.* His grief is heavier than any curse.
+- **Swearing:** *Never · Plain · n/a.* His grief is heavier than any curse.
 - **Personality in speech:** Steadfast conviction and deep grief. He wants the bargain broken, not revenge, and says so. Relief at the Siamorphe symbol shows as warmth.
 - **Quirks:** He rests a hand on the family sword as he speaks. He falls silent mid-sentence facing the effigy's direction.
 - **Signature phrases:** "Break the bargain." / "My house has fallen far." / "I do not ask for vengeance."
