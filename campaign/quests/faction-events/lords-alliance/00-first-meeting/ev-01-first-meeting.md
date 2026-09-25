@@ -28,7 +28,7 @@ He waits. He is not asking for confirmation.
 
 ### The Pitch
 
-His terms come without preamble. The Lords' Alliance needs operatives who can work where the City Watch and City Guard cannot: off-duty, off-record, outside the constraints of formal procedure. What the Alliance provides is institutional backing — Watch access, safe houses, direct lines to authority when the party needs a door opened or a charge addressed.
+His terms come without preamble. The Lords' Alliance needs operatives who can work where the City Watch and City Guard cannot: off-duty, off-record, outside the constraints of formal procedure. What the Alliance provides is institutional backing. Watch access, safe houses, direct lines to authority when the party needs a door opened or a charge addressed.
 
 He answers questions without volunteering more than he has been asked.
 
@@ -36,7 +36,7 @@ If asked who he reports to: Laeral Silverhand. If asked what the Alliance wants:
 
 ### The Condition
 
-When the questions have run out — or just before any answer can come — he adds:
+When the questions have run out, or just before any answer can come, he adds:
 
 > > "Assignments from us are not optional. If that changes your answer, now is the time to say so."
 
@@ -48,7 +48,7 @@ He waits three seconds. Then he leaves.
 
 ### If the Party Pushes Back
 
-Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He describes the arrangement accurately so they can decide accurately. The Alliance has had operatives treat assignments as suggestions; he is simply making sure that cannot happen here by accident.
+Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He describes the arrangement accurately so they can decide accurately. He wants their answer to be informed.
 
 He will not move on the condition itself. He will, if asked, describe the procedure for an operative who believes an assignment is wrong: bring the objection to him directly, before acting independently. He will hear it.
 

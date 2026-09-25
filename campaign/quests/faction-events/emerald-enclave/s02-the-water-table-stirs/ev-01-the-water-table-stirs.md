@@ -17,7 +17,7 @@
 > Renown is awarded when the party acts on a specific request — not for receiving the report.
 
 **Background (DM only)**
-**Illuun** is an abolethic dreamer anchored to Undermountain Level 4. It has been extending psychic reach upward through Waterdeep's underground water table for decades, barely perceptible — a faint wrongness in the groundwater that Jeryth, connected to Phaulkonmere's root systems, has been quietly absorbing and deflecting for months without the party's knowledge.
+**Illuun** is an abolethic dreamer anchored to Undermountain Level 4. It has been extending psychic reach upward through Waterdeep's underground water table for decades, barely perceptible, a faint wrongness in the groundwater that Jeryth, connected to Phaulkonmere's root systems, has been quietly absorbing and deflecting for months without the party's knowledge.
 
 The Stone of Golorr's activation creates a resonance Illuun recognizes and responds to. Each time the Stone grows more powerful — attunement, then each Eye restored — Illuun presses harder toward the surface. Jeryth tracks this escalation and reports it through Melannor, without naming the source, because she does not yet know its name.
 
@@ -55,7 +55,7 @@ Jeryth does not speak directly during Surge Two. The request comes through Melan
 
 **Request:** Keep the Stone in transit; do not leave it unattended or stored in a fixed location for more than a tenday at a stretch.
 
-**Renown:** This surge does not award renown on its own. Acting on the request is its own reward — a static Stone draws more of Illuun's attention than a moving one.
+**Renown:** This surge does not award renown on its own. Acting on the request is its own reward. A static Stone draws more of Illuun's attention than a moving one.
 
 ### Surge Three — Eyes Opening
 
@@ -67,7 +67,7 @@ Jeryth speaks directly during Surge Three. Her voice is in the garden when the p
 
 > > "The first Eye opening sent a pulse downward. The presence noticed it."
 
-A pause, the kind that carries information.
+A pause. The silence fills in what she left out.
 
 > > "The nightmares are attention, not harm. Not yet. But it is more awake than it was."
 
@@ -107,7 +107,7 @@ Melannor retrieves the seal from the garden workbench: a small disc of Phaulkonm
 > #### The Selduth Street Cellar
 > The townhouse belongs to **Bertio Caskwall**, a wine merchant who hired a legitimate excavation crew three tendays ago. He is not affiliated with any faction. He allows access with a plausible professional framing — "specialists in old foundation work" requires a DC 12 Charisma (Persuasion) check; showing a city guild credential or the Enclave token succeeds automatically. He does not need to know what the seal is.
 >
-> In the cellar: a DC 10 Wisdom (Perception) check locates the exposed node — a hairline crack in the foundation stone, faintly warm, with a quality of wrongness the party will recognize by now. Pressing the seal into the crack closes it. Jeryth's voice arrives briefly in the cellar — one word, "Good" — then is gone. Bertio notices his workers stop complaining about the cold.
+> In the cellar: a DC 10 Wisdom (Perception) check locates the exposed node — a hairline crack in the foundation stone, faintly warm, with a quality of wrongness the party will recognize by now. Pressing the seal into the crack closes it. Jeryth's voice arrives in the cellar, one word: "Good." Then it is gone. Bertio notices his workers stop complaining about the cold.
 
 **Request:** Retrieve the ward-seal from Melannor and press it into the exposed ley node in Bertio Caskwall's cellar on Selduth Street, Trades Ward.
 

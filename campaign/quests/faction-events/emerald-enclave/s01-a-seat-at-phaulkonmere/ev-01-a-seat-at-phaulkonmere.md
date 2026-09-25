@@ -27,7 +27,7 @@ It drops to the street before the party can respond. No hour, no assignment, no 
 
 ### Phaulkonmere in Welcome
 
-The east gate stands open when the party arrives. Melannor is already at the gate when they arrive. He steps aside to hold it and walks with them into the garden.
+The east gate stands open when the party arrives. Melannor is already at the gate when they arrive. He steps aside to hold it, says nothing, and walks with them into the garden.
 
 The estate moves around them without theater. Birds in the estate oaks go on with their business. The plants are simply present, untroubled. Phaulkonmere knows who is walking through it.
 

@@ -37,7 +37,7 @@ The animals lead the way to Phaulkonmere, each taking a different route through 
 
 ### The Gathered Enclave
 
-The estate has been prepared. Six individuals wait in the garden's broadest clearing — four humans, one half-elf, one wood elf. Some are armed. All are dressed for field work, not ceremony. They stand without arrangement, at ease with each other, the self-consciousness of ceremony long past.
+The estate has been prepared. Six individuals wait in the garden's broadest clearing: four humans, one half-elf, one wood elf. Some are armed. All are dressed for field work, not ceremony. They stand without arrangement, at ease with each other, the self-consciousness of ceremony long past.
 
 **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him) stands nearest the path. He nods once when the character arrives. Nothing else.
 
