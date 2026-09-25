@@ -29,7 +29,12 @@ The invitation arrives on its own schedule. It comes to a Trollskull Manor windo
 
 ### Act 1 at Lightsinger
 
-The Delzorin Street tailor has the party's attire ready. When the party arrives at Private Box C, Mirt is already there.
+The party has two stops before the curtain rises. The tailor on Delzorin Street has the attire ready and the bill settled in advance; Mirt is already in Private Box C at Lightsinger Theater when they arrive.
+
+> [!readaloud]
+> The tailor on Delzorin Street opens before you knock. The fittings take perhaps twenty minutes; the garments are already cut, already waiting. A card on the counter reads: *settled*. No one mentions by whom.
+
+The party makes their way to Lightsinger Theater and Private Box C. Mirt is already there.
 
 > [!readaloud]
 > The box is already occupied when you arrive. A large, gray-haired man in excellent wool sits back from the rail, positioned where the curtain half-hides him. He has ordered wine for more people than were invited.
@@ -38,7 +43,7 @@ The Delzorin Street tailor has the party's attire ready. When the party arrives 
 >
 > He glances over as you take your seats with a brief, measuring look, then turns back to the stage.
 
-He is in no hurry to speak. Throughout Act 1, he watches the stage and the party in roughly equal measure.
+He is in no hurry to speak.
 
 > [!social]**The Old Wolf**
 >
@@ -54,10 +59,35 @@ He is in no hurry to speak. Throughout Act 1, he watches the stage and the party
 > - The production, if anyone comments on it — with genuine opinions
 >
 > Any character who watches Mirt for an extended period and makes a successful DC 14 Wisdom (Insight) check senses that he is measuring the party against specific criteria. The criteria are not stated, and he will not name them if asked.
+>
+> Specific dialogue for Mirt on these topics is presented below.
+
+> [!qna]**Waterdeep gossip?**
+>
+> Mirt tilts his head toward whichever character spoke — the fraction of a degree that passes for his full attention.
+>
+> > "I hear things. Whether I share them depends on whether the conversation improves." A pause. "So far it's improving."
+
+> [!qna]**Have you eaten?**
+>
+> > "Good. A person who hasn't eaten makes poor decisions and worse company." He refills a glass without being asked. "The wine is drinkable. That's the most I'll promise."
+
+> [!qna]**The production?**
+>
+> He watches the stage a moment before answering.
+>
+> > "The second act is better. Tiamat has more to say than the mortals trying to stop her — that's usually true of the interesting ones."
 
 ### The Intermission
 
-At intermission, Mirt sets down his glass and explains the Harpers. He does not build to it.
+At intermission, Mirt sets down his glass and turns to face the box fully, for the first time all evening.
+
+> [!readaloud]
+> At the bell, Mirt sets his glass on the rail. He turns toward you — fully, deliberately — for the first time since you arrived.
+>
+> > "The Harpers. I'll tell you what they are and what they want, and then you can ask questions. After that, you decide."
+>
+> He doesn't wait for anyone to nod.
 
 > [!social]**The Offer**
 >
@@ -83,9 +113,29 @@ At intermission, Mirt sets down his glass and explains the Harpers. He does not 
 >
 > > "Good man. His father's failings don't belong to him."
 
-If the party declines, Mirt refills his glass, says nothing further about the Harpers, and leaves when the bell signals the second act. He does not pressure.
+> [!qna]**Who else is in the cell?**
+>
+> > "If you were meant to know, I'd have told you already."
 
-If the party accepts, Mirt produces a silver harp-and-crescent pin and presses it into the nearest open hand. He does not make a ceremony of the gesture; the pin was already in his hand before they finished answering.
+> [!qna]**What's the first mission?**
+>
+> He tilts his head the familiar fraction of a degree.
+>
+> > "You haven't said yes yet."
+
+If the party declines, read or paraphrase the following:
+
+> [!readaloud]
+> Mirt refills his glass. He says nothing else about the Harpers.
+>
+> When the bell signals the second act, he rises, smooths the front of his jacket, and moves for the door without looking back.
+
+If the party accepts, read or paraphrase the following:
+
+> [!readaloud]
+> The pin is already in his hand before you finish speaking. He doesn't produce it — it was simply there, waiting, as if the decision had been made before he arrived.
+>
+> He presses it into the nearest open palm. That is the whole ceremony.
 
 Either way, his parting words are the same. Read or paraphrase the following:
 
