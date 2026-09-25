@@ -4,10 +4,10 @@ description: >
   Governs the structure, voice, and design philosophy for writing the Waterdeep Campaign Remix.
   Defines the Ember-style modular document format: Quest Journals (one per quest) and Location
   Journals (one per location cluster), each containing discrete pages (overview, event files,
-  keyed rooms, design notes). Documents the GM/player two-zone pattern for event files, the
-  Milestone Points progression system, and the cross-document callout syntax. Load before
-  drafting any quest journal, event file, location journal, keyed room, NPC profile, or
-  design notes page.
+  keyed rooms, design notes). Documents Ember's six block types (readaloud, gamemaster, social,
+  qna, exploration, hazard) and their shorthand markdown syntax, the Milestone Points progression
+  system, and the cross-document callout syntax. Load before drafting any quest journal, event
+  file, location journal, keyed room, NPC profile, or design notes page.
 ---
 
 # Adventure Reloaded — Campaign Writing Guide
@@ -66,24 +66,48 @@ Each markdown folder maps to one Foundry Journal Entry (one item in the sidebar)
 - **Quest Journal** (`campaign/quests/act-i/finding-floon/`) — contains the overview, flowchart, all event pages, and design notes for one quest. Files are flat siblings — no events/ subfolder.
 - **Location Journal** (`campaign/locations/zhentarim-warehouse/`) — contains the area overview and all keyed room pages for one location cluster. Separate from the quest that primarily uses it.
 
-Permission gating in Foundry is at the **page level**. The GM/player zone split in event files is enforced by page-level permissions, not by blockquote syntax alone. The `> **[GM]** >` blockquote is a visual marker for specific GM-only callouts within GM-visible content; it does not replace page-level gating.
+Content in these pages is structured using Ember's six **block types**. Each block is a blockquote in markdown, rendered by the converter (`md2html.py`) as a coloured `<section class="block …">` element. See the **Block Types** and **Shorthand Syntax** sections below.
+
+Permission gating in Foundry is at the **page level**. `[!gamemaster]` blocks are the visual marker for GM-only content within a page; page-level permissions in Foundry control what players actually see.
 
 ---
 
-## GM / Player Zone Structure (Event Files)
+## Block Types
 
-Every event file has two zones:
+Six block types cover all content in this campaign. No others are used — not `[!narrative]`, `[!npc-narrative]`, `[!dialogue]`, `[!profile]`, `[!design]`, `[!lore]`, `[!info]`, `[!warning]`, `[!combat]`, or `> **[GM]**` zones.
 
-**GM zone** (top of file) — all content before `## Overview`. Contains the Gamemaster's Summary, branching narrative phases, NPC tactics, mechanical beats, attunement notes, and Next Steps. Permission: GM-only. Most of this is regular markdown — H3 sections, H4 beats, nested blockquotes for dialogue. The `> **[GM]** >` callout pattern is used selectively for specific GM-only notes (not as a wrapper for all GM content).
+| Block | Colour | What it holds |
+|---|---|---|
+| `readaloud` | parchment | Narration spoken to the players. Second person ("you"), present tense, only what the characters perceive. NPC speech sits as nested `> >` blockquotes inside the block. A conditional readaloud is introduced in GM prose: "If X, read or paraphrase the following:". Length fits the moment — two sentences for a door, many paragraphs for a campfire legend. Never GM notes, summary, or backstory. |
+| `gamemaster` | dark | Every GM-only note. At the top of each event: the **Gamemaster's Summary** ("This [Social/Exploration/Combat] Event occurs when… In this Event, the party can/must:" + bullets), with extra H4 subsections as needed (e.g. `#### Combat Phases`, `#### Matters of Punctuality`). Inline in scenes: Active Ally, Applying Pressure, hidden identity, Music, and so on. At the end: **Event Outcomes** (if any), **Next Steps**, **Milestone** (as an H4 inside **Next Steps**). |
+| `social` | blue | An NPC encounter. The title is an epithet: "The Charming Caravanner", "Conversation with Emelyn". Optional first body line: `Name (Alignment, Ancestry, pronouns) :: one-line summary` — renders as Ember's NPC header. Then: personality and behaviour; "Conversation topics X is willing to discuss include:" + a bulleted list; Insight and other checks and what they reveal. GM-facing. |
+| `qna` | purple | One topic the players raise. The question is terse: "Your trade?", "About Helkas?". The answer is read to the players: an optional narration beat, then the NPC's quoted words in a nested `> >` blockquote. A run of `[!qna]` blocks follows a `[!social]` block. |
+| `exploration` | green | Titled. Checks and what they reveal: "Any character who makes a successful DC N Skill check knows…". Complex-check list items use `- **Auto:**`, `- **Critical:**`, `- **Advantage:**`, `- **Disadvantage:**` markers. Found items; perceived text as a nested `> >` blockquote. |
+| `hazard` | red | Combat and danger: creature organisation, per-creature Tactics ("At the start of combat… Over the course of combat… prioritize… The battle ends when…"), ally tactics, Dramatic Moments, traps, ambush rules, area effects. |
 
-**Player zone** (bottom of file) — `## Overview`, `## Read Aloud`, `## Summary`. Permission: visible to players in the Codex. These sections are what players can see when they look at the quest log.
+**Attunement blocks** are Ember's character progression mechanic. This campaign does not use them.
 
-There is no separator rule between the zones — the `## Overview` H2 heading marks the transition.
+---
 
-**`> **[GM]** >` blockquote usage:**
-- At the top of each event file, wrapping `#### Gamemaster's Summary`
-- Mid-body, for specific tactical spoilers or GM-only notes that should not be read aloud
-- At the end of the GM zone, wrapping `#### Next Steps` and `#### Milestone: [Name]`
+## Shorthand Syntax
+
+The converter (`.claude/skills/foundry-journal/scripts/md2html.py`) renders this syntax as Ember's `<section class="block …">`. Each block is a blockquote whose first line is `> [!type]`, optionally followed by `**Title**`:
+
+| Shorthand | Notes |
+|---|---|
+| `> [!readaloud]` | No title. |
+| `> [!gamemaster]**Title**` | Further `#### Sub` lines inside become additional H4 subsections. |
+| `> [!qna]**Your trade?**` | The terse question is the title. |
+| `> [!social]**The Old Wolf**` | Epithet as title. Optional first body line `Name (Alignment, Ancestry, pronouns) :: one-line summary` renders as Ember's NPC header. |
+| `> [!exploration]**Title**` | Block title. List items starting `- **Auto:**` / `- **Critical:**` / `- **Advantage:**` / `- **Disadvantage:**` render as complex-check lines. |
+| `> [!hazard]**Title**` | Block title. |
+
+Other rules:
+- Nested NPC speech inside a block is `> >`.
+- Blocks sit at top level, never nested inside another block.
+- Leave a blank line between blocks and between a block and surrounding prose.
+- There are no other block types. The old types still render as a fallback in the converter, but new and converted text never uses them.
+- Design rationale goes on the quest's `design-notes.md` page, not in an event.
 
 ---
 
@@ -91,21 +115,23 @@ There is no separator rule between the zones — the `## Overview` H2 heading ma
 
 ### 1. Quest Overview (`overview.md`)
 
-The landing page for the quest journal. GM zone is a `> **[GM]** >` blockquote at the top. Below the blockquote, `## Involved Characters` and `## Dangers & Enemies` are regular GM-facing markdown. `## Overview` at the bottom is the player-visible summary.
+The landing page for the quest journal. Opens with a `[!gamemaster]` block, followed by GM-facing backstory prose and sections, then a player-safe `## Overview` at the bottom.
 
 ```markdown
 # [Quest Name]: [Descriptive Title]
 
-> **[GM]**
+> [!gamemaster]
 >
-> #### Quest Requirements
-> [Entry conditions; what quests or flags must precede this one]
+> #### Requirements
+> [Entry conditions; what quests or outcomes must precede this one]
 >
 > #### Difficulty
 > *An adventure for X–Y level characters.*
 >
-> #### Milestone Overview
+> #### Milestone Progression
 > [Total Milestone Points this quest awards; which events bear a milestone]
+
+[GM backstory paragraphs. Present tense for ongoing situation; past tense for how it came to be.]
 
 ## Involved Characters
 - **[NPC Name]** ([faction]) — [one-line role in this quest]
@@ -114,73 +140,108 @@ The landing page for the quest journal. GM zone is a `> **[GM]** >` blockquote a
 [Adversary roster summary — key factions and named opponents active in this quest]
 
 ## Overview
-[2–4 paragraphs, past tense. The quest's narrative beats from inciting incident to resolution.
-Names key NPCs, locations, and the choices the PCs face. The shape of events, not outcomes.]
+[2–4 sentences, player-safe. The quest's premise and shape, not its resolution.]
 ```
 
 ### 2. Event File (`ev-NN-event-name.md`)
 
-One file per scene beat. File naming: zero-padded `ev-` prefix. `ev-01-yawning-portal.md`.
+One file per scene beat. File naming: zero-padded `ev-` prefix. Example: `ev-01-yawning-portal.md`.
 
 ```markdown
 # [Event Name]
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
->
-> This [Exploration/Combat/Social] Event occurs when [trigger condition]. In this Event:
+> This [Exploration/Combat/Social] Event occurs when [trigger condition]. In this Event, the party can:
 >
 > - [Bullet: what can happen — 3–6 items]
 >
-> [Map note: which Foundry scene this event uses, if any]
+> [Optional H4 subsections: #### Combat Phases, #### Matters of Punctuality, etc.]
 
-[GM zone body: H3 branch sections, nested blockquote NPC dialogue, H4 mechanical beats.
-Regular markdown — not inside a GM blockquote unless it's a specific GM-only note.]
+### [Scene Name]
 
-> **[GM]**
+[1–3 sentences of GM framing — present tense, what is happening when the scene begins.]
+
+> [!readaloud]
+> [Opening narration. Second person, present tense, only what the characters perceive.
+> NPC speech as nested > > blockquotes. Length fits the moment; end on something unresolved.]
+
+[Follow-up GM prose, if needed. Keep it short — the content lives in the blocks.]
+
+> [!social]**[Epithet]**
 >
-> #### [Mid-body GM Note — e.g., "Applying Pressure"]
-> [Selective callout for a tactical spoiler or GM-only information within the body]
+> [NPC Name] ([Alignment], [Ancestry], [pronouns]) :: [one-line summary]
+>
+> [Personality and behaviour.]
+>
+> Conversation topics [Name] is willing to discuss include:
+> - [Topic]
+>
+> Any character who makes a successful DC N [Skill] check [reveals X].
+
+> [!qna]**[Terse question]**
+>
+> [Optional narration beat.]
+>
+> > [NPC's answer in quoted speech.]
+
+> [!exploration]**[Title]**
+>
+> Any character who makes a successful DC N [Skill] check knows [X].
+>
+> - **Critical:** [Additional detail on a critical success.]
+
+> [!hazard]**[Title]**
+>
+> [Creature organisation. Then:]
+>
+> #### [Creature] Tactics
+> At the start of combat, [creature] will [action].
+>
+> Over the course of combat, [creature] will prioritize:
+> - [Action or ability]
+>
+> The battle ends when [condition].
 
 ### Concluding the Event
 
-#### [Attunement Name]: [Condition]
-[Attunement text. H4 under Concluding the Event, in regular markdown.]
+[1–3 sentences of GM prose wrapping up the scene.]
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
 >
-> [Named callouts to following events. Conditional: "If X occurred, the party proceeds to
-> the **[Event Name]** Event. If Y, they proceed to **[Event Name]**."]
+> - **[Outcome Name]** — mark when [condition]. Read by **[Later Event]** [and Mission N].
+
+> [!gamemaster]**Next Steps**
+>
+> [Named callout to the following event. Conditional: "If X occurred, proceed to the
+> **[Event Name]** Event. If Y, proceed to **[Event Name]**."]
 >
 > #### Milestone: [Event Name]
 >
-> Completing this Event awards 1 Milestone Point. [Optional level note if applicable.]
+> Completing this Event awards 1 Milestone Point. [Optional: level note.]
 
 ## Overview
 
-[One sentence — the player-facing summary of what this event is about.]
-
-## Read Aloud
-
-> [!narrative]
-> [GM reads this aloud when the event begins. NPC dialogue sits inside the box as nested `> >` lines.]
+[One sentence — the player-facing summary of what this event is about. "At a Glance" text.]
 
 ## Summary
 
-[Quest log entry. 1–2 sentences, past tense. What the party remembers.]
+[Quest log entry. 1–4 sentences, first-person plural ("We traveled…", "We met…"). What the party remembers.]
 ```
 
-**GM zone heading hierarchy:**
+**Scene heading hierarchy:**
 - `###` H3 = major narrative phase or branching condition (`### Drake Assault`, `### If the PCs Arrive at Night`)
-- `####` H4 = named mechanical beat, NPC behavior, or attunement within a phase (`#### Drake Tactics`, `#### Ragen Attunement: Early Arrival`)
-- `> [!narrative]` = read-aloud box (every boxed text the GM reads to players, in the body and in `## Read Aloud`)
-- `> [!npc-narrative]**Name**` = the players' first sight of an NPC (first meeting in the campaign, or a major change in appearance); placed where they first meet
-- `> [!dialogue]**Question**` = one question the players can ask and the NPC's answer; use a run of these for any "if asked" / topic list
-- `> >` nested blockquote = NPC dialogue, inside a `[!narrative]` box or in GM prose
-- `> **[GM]** >` blockquote = selective GM-only callout (Summary at top, tactical notes mid-body, Next Steps + Milestone at end)
+- `####` H4 = named subsection inside a `[!gamemaster]` block (`#### Combat Phases`, `#### Active Ally`, `#### Applying Pressure`, `#### Milestone: …`)
+- `> [!readaloud]` = narration block (every passage the GM reads aloud, including conditional variants introduced in GM prose)
+- `> [!social]` + run of `> [!qna]` = NPC encounter and its topics
+- `> [!exploration]` = check-based discovery
+- `> [!hazard]` = combat, trap, or danger
+
+**Event Outcomes** replace the old binary attunement flags. An outcome name like "Davil Arrested" or "BD Contact Severed" is a named result the GM marks during play. Later events check it with: "If the party marked **BD Contact Severed**…". Keep exact names consistent across all files that reference the same outcome.
+
+**No `## Read Aloud` section.** The `[!readaloud]` blocks sit in the scene body at the moment they happen. The `## Overview` section's player-facing text is the "At a Glance" summary visible in the Codex. The `## Summary` section is the Journal Summary recorded on completion.
 
 ### 3. Area Overview (`area-overview.md`)
 
@@ -189,9 +250,7 @@ First page of every Location Journal. Covers all persistent location features.
 ```markdown
 # [Location Name] — Area Overview
 
-> **[GM]**
->
-> #### Area Map Context
+> [!gamemaster]**Area Map Context**
 >
 > [Which events use this location. Where the party enters per event. Any map-layer notes.]
 
@@ -200,49 +259,76 @@ First page of every Location Journal. Covers all persistent location features.
 The areas of [location] have the following features unless noted otherwise.
 
 ### Levels & Elevation
+[Description]
+
 ### Illumination
+[Description]
+
 ### Terrain
+[Description]
+
 ### Inhabitants
-[Base inhabitants. Conditional variants: "During the **[Event Name]** Event, the following
-also inhabit the area: …"]
+[Base inhabitants.]
+
+During the **[Event Name]** Event, the following also inhabit the area:
+- [NPC or creature]
+
 ### Enemies
-[Same pattern — base + event-conditional]
+[Base state — "None" if the area is not always hostile.]
 
-### [Named Mechanic — e.g., "The Day/Night State"]
-[H3 per location-wide mechanic. H4 for sub-rules within each mechanic.]
+During the **[Event Name]** Event, the following enemies are present:
+- [Creature]
 
-#### [Sub-Mechanic]
-[Details]
+### [Named Location-Wide Mechanic]
+
+[Prose description.]
+
+> [!hazard]**[Mechanic Name]**
+>
+> [Rules for the mechanic — triggers, effects, resolution.]
 ```
 
 ### 4. Keyed Room (`[code]-[room-name].md`)
 
-One file per keyed area entry. File naming: lowercase, zero-padded area code, hyphenated room name. `z01-main-room.md`, `g16-master-bedroom.md`, `x23-nihiloors-lair.md`.
+One file per keyed area entry. File naming: lowercase, zero-padded area code, hyphenated room name. Examples: `z01-main-room.md`, `g16-master-bedroom.md`, `x23-nihiloors-lair.md`.
 
 ```markdown
 # [Area Code] — [Room Name]
 
-[Opening description. No heading. Present tense, second person. 1–3 sentences of what
-the PCs perceive when they enter.]
+> [!readaloud]
+> [Opening narration. No heading precedes this block — it is the first element of the page.
+> Second person, present tense. 2–4 sentences of what the PCs perceive on entry. NPC
+> greeting as a nested > > blockquote if one is present.]
 
-> [Blockquote: opening read-aloud detail, or NPC greeting if one is present.]
+[One GM sentence of context — what is happening, who is here, what changes.]
 
-[Follow-up prose: sensory detail, interactable elements, what changes over time.]
+> [!social]**[Epithet]**
+>
+> [NPC Name] ([Alignment], [Ancestry], [pronouns]) :: [one-line summary]
+>
+> [Personality and behaviour. Topics list. Checks.]
 
-#### [NPC Name]
-[NPC stat reference, conversation topics, behavior when PCs arrive.]
+> [!qna]**[Terse question]**
+>
+> > [NPC's answer.]
 
-#### [NPC Wares / Services]
-[Secondary H4 for inventory or service details if needed]
+> [!exploration]**[Title]**
+>
+> [Check and what it reveals.]
+
+> [!hazard]**[Title]**
+>
+> [Danger, trap, or encounter mechanics.]
 
 ### [Event Name] — Event-Conditional Section
+
 [Content that only applies during a specific event. Close with:
 "Refer to the **[Event Name]** Event for full details."]
 ```
 
 ### 5. Design Notes (`design-notes.md`)
 
-Last page in every Quest Journal. Contains all design rationale for the quest. Format unchanged from existing convention.
+Last page in every Quest Journal. Contains all design rationale for the quest.
 
 ```markdown
 # Design Notes: [Quest Name]
@@ -273,9 +359,8 @@ One file per named NPC in the Notable Figures setting compendium. File naming: z
 ```markdown
 # [NPC Name]
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *[species occupation, alignment — from source subtitle]*. Stat block: **[stat block]**.
 > - **Affiliation:** [group name; for secret affiliations state both, e.g. "Xanathar's Guild (secretly Harpers)"]
 > - **Featured in:** [bold quest/location names, comma-separated in campaign order]
@@ -307,9 +392,8 @@ One file per faction. GM zone comes first; player-facing sections come last. Fil
 ```markdown
 # [Faction Name]
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - **Campaign role:** [one line — player faction / villain faction / both]
 > - **Contacts:** [bold names] — from source preamble
 > - **Mission delivery:** [from source preamble] (player factions only)
@@ -410,9 +494,13 @@ The campaign uses Ember's Milestone Points system. No XP is tracked. Advancement
 | 7 | 5 | 23 |
 | 8 | 6 | 28 |
 
-**In event files**, the milestone is the last H4 inside the `> **[GM]** > #### Next Steps` block:
+**In event files**, the milestone is an H4 inside the `[!gamemaster]**Next Steps**` block at the end of `### Concluding the Event`:
 
-```
+```markdown
+> [!gamemaster]**Next Steps**
+>
+> [Named callout to following events.]
+>
 > #### Milestone: [Event Name]
 >
 > Completing this Event awards 1 Milestone Point. [Optional: "This is likely to advance
@@ -446,58 +534,30 @@ Contains:
 
 ---
 
-## Callout Taxonomy
+## NPC Profiles in Event and Area Files
 
-| Callout | Label | Purpose |
-|---------|-------|---------|
-| `[!info]+` | Info | Additional information about rules needed to run a scene or area. |
-| `[!warning]+` | Warning | Important information to avoid common pitfalls and mistakes. |
-| `[!lore]+` | Lore | Additional context about a scene, chapter, or quest. |
-| `[!abstract]+` | Narrative | An optional path players might take through a scene or area. |
-| `[!profile]+` | Profile | Additional information about roleplaying a particular NPC. |
-| `[!item]+` | Item | Statistics for a new or modified item. |
-| `[!design]+` | Design | Designer intent and in-context design notes for a specific change. |
-| `[!combat]+` | Combat | Encounter balance, monster tactics, and trap mechanics. |
-| `[!npc-narrative]` | NPC Narrative | Player-facing NPC introduction — read-aloud block. First encounter only, or after substantial appearance change. |
-| `[!dialogue]` | Dialogue | NPC conversation tree — structured question/answer pairs. |
-
-Use `+` (expandable) for all sidebar callouts. `npc-narrative` and `dialogue` do not use `+`/`-`. These callouts appear inside the GM zone of event files and inside location/area files.
-
----
-
-## NPC Profile Format
-
-This format is for **inline profiles within event and area files** — callout blocks embedded in GM content. For standalone NPC pages in Notable Figures, see File Type Spec 7.
+For a named NPC who appears within an event or keyed room, their roleplaying profile goes in a `[!social]` block at the point where the party first encounters them. Use the epithet as the block title. The first line of the block body is the NPC header: `Name (Alignment, Ancestry, pronouns) :: one-line summary`.
 
 ```markdown
-> [!profile]+ **Profile: [NPC Name]**
+> [!social]**The Grudging Fence**
 >
-> **Roleplaying Information**
-> ***Resonance.*** [NPC Name] should inspire [emotion] with [trait], [emotion] with [trait],
-> and [emotion] with [trait].
+> Davil Starsong (Neutral, Half-Elf, he/him) :: a cheerful Zhentarim fixer who wants the party to owe him a favour.
 >
-> ***Emotions.*** [NPC Name] most often feels [list of 5–8 specific emotional states].
+> Davil is all warmth and easy smiles until someone tests his patience. He runs this meeting
+> like a job interview, not a negotiation.
 >
-> ***Motivations.*** [NPC Name] wants to [specific concrete goals — 2–3 items].
+> Conversation topics Davil is willing to discuss include:
+> - What the Zhentarim want from the party
+> - The recent fireball on Trollskull Alley (deflects any blame)
+> - What he can offer in exchange for loyalty
 >
-> ***Inspirations.*** When playing [NPC Name], channel [Character (*Source*)], [Character
-> (*Source*)], and [Character (*Source*)].
->
-> **Character Information**
-> ***Persona.*** To the world, [NPC Name] is [public face]. To those they trust, [NPC Name]
-> is [private face]. Deep down, [NPC Name] [inner truth].
->
-> ***Morale.*** In a fight, [NPC Name] would [behavior — specific, not vague].
->
-> ***Relationships.*** [NPC Name] is [relationship] of [Named Character], and [relationship]
-> of [Named Character].
+> Any character who succeeds on a DC 13 Insight check senses that Davil is withholding
+> something about the fireball — he knows more than he is saying.
 ```
 
-**Resonance** is the most important field — it tells the DM what players should feel toward the NPC, not what the NPC is like.
+**Resonance** is the most important dimension — it tells the GM what the players should feel toward the NPC. State it in the one-line summary or the opening sentence of the personality section. **Persona** always has three parts: public face / private face / inner truth.
 
-**Inspirations** must name characters with a specific, recognizable playing style.
-
-**Persona** always follows three parts: public / private / deep down.
+For standalone NPC pages in Notable Figures, use File Type Spec 7 instead.
 
 ---
 
@@ -520,8 +580,8 @@ Design notes are a justification addressed to the DM of *why* a change was made 
 
 ### What Not to Put in Design Notes
 
-- Lore explanation — use `[!lore]+`
-- Tactical GM advice — use `[!warning]+` or `[!info]+`
+- Lore explanation — belongs in GM prose or a `[!gamemaster]` block in the relevant event
+- Tactical GM advice — belongs in a `[!gamemaster]` block inline in the event
 - Read-aloud text — never in design notes
 - Summaries of what happens — the quest overview does that
 
@@ -535,7 +595,11 @@ Events describe what is happening when the PCs arrive — NPCs are mid-action. T
 
 Every event file is written from scratch. No citations or references to original source books.
 
-Read-aloud text is always a `> [!narrative]` box, never a plain blockquote, both in scene bodies and in `## Read Aloud`. NPC dialogue inside a narrative box is written as nested `> >` lines within the box (ember-adventure-style §read-aloud). When players first meet an NPC, give that NPC a `> [!npc-narrative]**Name**` block (what they see and hear); never repeat it on later meetings. When an NPC answers player questions, write each question and answer as a `> [!dialogue]**Question**` block rather than a bulleted "if asked" list. Markup details are in `foundry-journal`.
+**Readaloud text** is written to be spoken to the players. Write only what the characters perceive — no GM knowledge, summary, or backstory. Present tense, second person ("you"). Length fits the moment: a door is two sentences, a set-piece can run many paragraphs. End on something unresolved. NPC speech inside a readaloud block is written as nested `> >` blockquotes within the block. Every passage the GM reads aloud is a `> [!readaloud]` block; conditional variants are introduced in surrounding GM prose ("If X, read or paraphrase the following:") and are still `> [!readaloud]` blocks.
+
+**NPC encounters** use `> [!social]` blocks, placed at the point of first contact or any time the party re-engages an NPC in a scene. The run of `> [!qna]` blocks that follows covers topics the players are likely to raise — write each answer as read-aloud: an optional narration beat, then the NPC's quoted words.
+
+**Checks** go in `> [!exploration]` or `> [!hazard]` blocks. Never resolve a GM-side outcome with a die roll — zero-prep means the outcome is decided in the text.
 
 ---
 

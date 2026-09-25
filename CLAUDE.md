@@ -51,11 +51,13 @@ Primary source files:
 - **`sources/Other remix files/`** — Patreon NPC guides, villain combat notes, event supplements, and enhanced stat blocks. See the "Other Remix Files" section in `sources/SOURCE_GUIDE.md` for the full file enumeration, NPC focus, and when-to-consult notes.
 - **`sources/Appendix_B_-_Player_Factions.md`**, **`sources/Appendix_C_-_Player_Faction_Missions.md`**, **`sources/Appendix_D_-_Running_the_Tavern.md`** — Alexandrian Remix appendices in markdown. Consult alongside `3. Player Character Factions.pdf` and `27. Addendum A Night in Trollskull Manor.pdf`.
 
-Ember format reference files (document structure only — not adventure content):
-- **`C:\Users\robert.lupu\Downloads\01 - Ember\01 - Ember\05 - Quests\03 - Chapter 1\001 - The Winding Trail\014 - Dusktide Rising.md`** — Combat event example: two-phase H3 structure, `> **[GM]** >` blockquotes, `### Concluding the Event` → attunements → `#### Next Steps` + `#### Milestone`, player zone at bottom.
-- **`C:\Users\robert.lupu\Downloads\01 - Ember\01 - Ember\05 - Quests\03 - Chapter 1\003 - Ooze Control\001 - Overview.md`** — Quest overview example: GM blockquote header (Requirements / Difficulty / Milestone Overview H4s) and `## Overview` player-facing section.
-- **`C:\Users\robert.lupu\Downloads\01 - Ember\01 - Ember\03 - Area Walkthroughs\04 - Arctus Plateau\006 - Arcturel Dives\014 - Arvoda's Elixirs.md`** — Keyed room example: opening-prose-no-heading pattern, H4 NPC sections, H3 event-conditional section with `Refer to the [Event Name] Event` callout.
-- **`C:\Users\robert.lupu\Downloads\01 - Ember\01 - Ember\04 - Guides\001 - Players' Guide\020 - Milestone Progression.md`** — Milestone Points system reference: progression table (L1→L8 at 28 cumulative points), leveling rules, Main Quest vs Side Quest point awards.
+**Ember export (the structural reference):** `01 - Ember.zip` at the repo root is the full Ember export. Extract it to the scratchpad (`unzip -q "01 - Ember.zip" -d <scratchpad>/ember`) and read it before writing or restructuring any quest, event, area or room page. Our page model copies Ember's block model; the older remix sidebars (`[!design]`, `[!profile]`, `[!lore]`, `> **[GM]**` zones, `[!narrative]`, `[!npc-narrative]`, `[!dialogue]`) are retired. Key examples inside the export:
+- `05 - Quests/03 - Chapter 1/001 - The Winding Trail/003 - Sheltered Campsite.md` — social event; its "How to Use" boxes define every block type
+- `05 - Quests/03 - Chapter 1/001 - The Winding Trail/014 - Dusktide Rising.md` — combat event (hazard, exploration, readaloud)
+- `05 - Quests/03 - Chapter 1/001 - The Winding Trail/001 - Overview.md` — quest overview
+- `03 - Area Walkthroughs/04 - Arctus Plateau/006 - Arcturel Dives/` — area overview + keyed rooms
+- `04 - Guides/002 - Gamemaster's Guide/014 - Event Characteristics.md` — At a Glance, Setting the Scene, Journal Summary, Outcomes
+- `04 - Guides/001 - Players' Guide/020 - Milestone Progression.md` — Milestone Points table
 
 ---
 
@@ -329,7 +331,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Order-agnostic Stone scenarios:** Stone of Golorr upgrade sections must frame upgrades around how many Eyes have been restored (first/second/third), never around which specific lair heist preceded. When two Eyes are restored, split into two sub-cases based on which prior lair heist ran first. Applies to every lair heist (Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire) — do not condition upgrade text on a fixed quest ordering.
 
-**Attunement format:** Entries in `### Concluding the Event` use `#### Flag Name: Condition` as the heading. Flags are binary (True/False only) — multi-state scenarios split into multiple flags. The body states what was recorded and names the specific downstream quest or event where the flag is read. No "Award X" language in the Concluding section — award language stays in the narrative body branches.
+**Event Outcomes (replaces binary flags):** Campaign state is recorded as named Event Outcomes, never `#### Flag: True / False` headings or attunement blocks. `### Concluding the Event` ends with `> [!gamemaster]**Event Outcomes**` listing each outcome (`- **Outcome Name** — when to mark it; read by …`), then `> [!gamemaster]**Next Steps**`. An outcome keeps its established name so every reader still matches; later events read it in GM text ("If the party marked **BD Contact Severed**…"). No "Award X" language in outcomes; awards stay in the scene blocks. (User: "Event Outcomes" over flags.)
 
 ### Content Rules
 

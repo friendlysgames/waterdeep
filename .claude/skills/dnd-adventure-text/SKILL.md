@@ -46,20 +46,14 @@ Not all of these need explicit headers. Short entries fold multiple sections int
 
 Read-aloud text is what the GM reads or paraphrases to the players. It describes only what the characters can perceive — no hidden information, no stat block names.
 
-**In plain markdown / WotC style**, use `>>` blockquotes:
+Use the `[!readaloud]` block (see `foundry-journal`):
 
 ```
->>The door opens onto a vaulted chamber. Shelves of crumbling books line every wall, and the air smells of old paper and something sharper — burning.
->>
+> [!readaloud]
+> The door opens onto a vaulted chamber. Shelves of crumbling books line every wall, and the air smells of old paper and something sharper — burning.
 ```
 
-**In Foundry markdown**, use the `narrative` class from the foundry-journal skill:
-
-```html
-<div class="narrative">
-  <p>The door opens onto a vaulted chamber. Shelves of crumbling books line every wall, and the air smells of old paper and something sharper — burning.</p>
-</div>
-```
+A conditional readaloud is introduced in the surrounding GM prose: "If X, read or paraphrase the following:", then the block follows immediately.
 
 ### The job of read-aloud text
 
@@ -129,7 +123,7 @@ Read-aloud that ends on a full stop hands control back to no one in particular. 
 
 ### Length and pacing
 
-**Three to five sentences is the target.** The GM is reading this out loud. Every extra sentence costs attention. If you need more space, you're probably including things that belong in the GM-only setup paragraph.
+**Length fits the moment.** A door gets two sentences; a dramatic set piece earns many paragraphs. The GM reads this aloud. Every sentence that belongs in the GM-only setup paragraph costs attention — put it there instead.
 
 **Long read-alouds are for big moments.** A dramatic set piece — a cathedral, a climactic confrontation, an arrival at a city after a long journey — can earn more space. A supply room cannot.
 
@@ -366,19 +360,18 @@ If a portcullis or barrier has an unusual resolution method, note that too: "The
 
 ---
 
-## Sidebar and Callout Usage
+## Block Usage
 
-This skill does not define sidebar HTML classes or callout types. Use the `foundry-journal` skill for those. However, the *purpose* of different callout types maps to adventure text sections as follows:
+This skill does not define block HTML or syntax. Use the `foundry-journal` skill for that. However, the *purpose* of different Ember blocks maps to adventure text sections as follows:
 
-| Adventure content | Foundry sidebar type |
+| Adventure content | Ember block |
 |---|---|
-| GM summary of what's in a scene | `info` |
-| NPC personality and roleplaying guidance | `profile` |
-| Combat tactics and encounter balance notes | `combat` |
-| Traps, hazards, mistakes to avoid | `warning` |
-| World lore, history, context the GM needs | `lore` |
-| Designer intent, optional paths, pacing | `design` |
-| Item stats or new/modified items | `item` |
+| Narration read aloud to players | `[!readaloud]` |
+| GM-only event context, summaries, outcomes, next steps | `[!gamemaster]` |
+| NPC encounter, personality, roleplaying guidance | `[!social]` |
+| One player topic and NPC answer | `[!qna]` |
+| Skill checks, discoveries, found items | `[!exploration]` |
+| Combat, creatures, hazards, traps | `[!hazard]` |
 
 ---
 
