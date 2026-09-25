@@ -125,6 +125,53 @@ def convert_table(lines):
     return ''.join(out)
 
 
+
+# Ember block model. Each shorthand `> [!type]` renders as Ember's
+# `<section class="block TYPE">`. Legacy sidebar/component types from the
+# earlier remix map onto the nearest Ember block so older files still render.
+EMBER_ALIASES = {
+    'readaloud': 'readaloud', 'narrative': 'readaloud', 'npc-narrative': 'readaloud',
+    'gamemaster': 'gamemaster', 'gm': 'gamemaster',
+    'qna': 'qna', 'dialogue': 'qna',
+    'social': 'social', 'profile': 'social',
+    'exploration': 'exploration',
+    'hazard': 'hazard', 'combat': 'hazard',
+    'wip': 'wip',
+    # legacy GM-facing sidebars
+    'info': 'gamemaster', 'warning': 'gamemaster', 'lore': 'gamemaster',
+    'design': 'gamemaster', 'tip': 'gamemaster', 'abstract': 'gamemaster',
+    'item': 'gamemaster', 'sidebar': 'gamemaster',
+}
+
+COMPLEX_CHECK_CLASSES = [
+    (r'auto(?:matic)?(?: success)?', 'automatic-success'),
+    (r'critical success|critical', 'critical-success'),
+    (r'critical failure', 'critical-failure'),
+    (r'advantage', 'advantage'),
+    (r'disadvantage', 'disadvantage'),
+]
+
+
+def mark_complex_checks(html):
+    """Ember complex-check lists: a <ul> whose items open with a bold
+    **Auto:** / **Critical:** / **Advantage:** / **Disadvantage:** label
+    becomes <ul class="complex-check"> with the matching <li> class."""
+    def fix_ul(m):
+        ul = m.group(0)
+        hit = False
+        def fix_li(lm):
+            nonlocal hit
+            label = re.sub(r'[:\s]+$', '', lm.group(1)).strip().lower()
+            for pat, cls in COMPLEX_CHECK_CLASSES:
+                if re.fullmatch(pat, label):
+                    hit = True
+                    return f'<li class="{cls}"><strong>{lm.group(1)}</strong>'
+            return lm.group(0)
+        ul2 = re.sub(r'<li><strong>([^<]+)</strong>', fix_li, ul)
+        return ul2.replace('<ul>', '<ul class="complex-check">', 1) if hit else ul
+    return re.sub(r'<ul>.*?</ul>', fix_ul, html, flags=re.S)
+
+
 def convert_sidebar(header_line, body_lines, depth):
     """Render one sidebar (fvtt advice / narrative / dialogue / npc-narrative) to HTML.
 
@@ -150,6 +197,41 @@ def convert_sidebar(header_line, body_lines, depth):
             f'<div class="dialogue"><div class="dialogue-q"><p>{convert_inline(title)}</p></div>'
             f'<div class="dialogue-a">{inner_html}</div></div>'
         )
+
+    # --- Ember block model (see foundry-journal SKILL.md) ------------------
+    ember = EMBER_ALIASES.get(sidebar_type, sidebar_type)
+
+    if ember == 'readaloud':
+        body = inner_html
+        if sidebar_type == 'npc-narrative' and title:
+            # legacy npc-narrative: keep the name as a lead-in line
+            body = f'<p><strong>{convert_inline(title)}</strong></p>' + inner_html
+        return f'<section class="block readaloud">{body}</section>'
+
+    if ember == 'qna':
+        return (
+            f'<section class="block qna"><p class="question">{convert_inline(title)}</p>'
+            f'<div class="answer">{inner_html}</div></section>'
+        )
+
+    if ember == 'social':
+        head = f'<h4>{convert_inline(title)}</h4>' if title else ''
+        # Optional Ember NPC header: first line `Name (…) :: one-line summary`
+        stripped_lines = [l for l in stripped if l.strip()]
+        if stripped_lines and '::' in stripped_lines[0]:
+            dt, dd = stripped_lines[0].split('::', 1)
+            rest = stripped[stripped.index(stripped_lines[0]) + 1:]
+            inner_html = (
+                f'<dl><dt><p>{convert_inline(dt.strip())}</p></dt>'
+                f'<dd><p>{convert_inline(dd.strip())}</p></dd></dl>'
+                + ''.join(convert_blocks(rest))
+            )
+        return f'<section class="block social">{head}{inner_html}</section>'
+
+    if ember in ('gamemaster', 'exploration', 'hazard', 'wip'):
+        head = f'<h4>{convert_inline(title)}</h4>' if title else ''
+        body = mark_complex_checks(inner_html) if ember in ('exploration', 'hazard') else inner_html
+        return f'<section class="block {ember}">{head}{body}</section>'
 
     if sidebar_type == 'narrative':
         # Read-aloud box. Header is `> [!narrative]` with no title; any title

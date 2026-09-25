@@ -681,6 +681,75 @@ body.split-view #split-toggle {
   border-radius: 0 4px 4px 0;
 }
 
+
+/* ---- Ember block model ------------------------------------------------ */
+section.block {
+  margin: 1rem 0;
+  padding: 0.9rem 1.1rem;
+  border-radius: 6px;
+  border: 1px solid;
+}
+section.block > h4 {
+  margin: 0 0 0.5rem;
+  font-size: 1rem;
+}
+section.block > h4:not(:first-child) { margin-top: 0.9rem; }
+section.block blockquote {
+  background: transparent;
+  border-left: 3px solid currentColor;
+  opacity: 0.95;
+  margin: 0.5rem 0 0.5rem 0.25rem;
+  padding: 0 0 0 0.9rem;
+  font-style: italic;
+}
+section.block.readaloud {
+  background: var(--narrative-bg);
+  border-color: var(--narrative-border);
+  box-shadow: inset 0 0 0 3px rgba(196,168,112,0.18);
+  font-family: Georgia, 'Times New Roman', serif;
+}
+section.block.gamemaster {
+  background: var(--gm-zone-bg);
+  border-color: var(--gm-zone-border);
+  border-left-width: 5px;
+}
+section.block.social {
+  background: rgba(70,120,190,0.10);
+  border-color: rgba(70,120,190,0.55);
+}
+section.block.qna {
+  background: rgba(125,80,170,0.10);
+  border-color: rgba(125,80,170,0.55);
+}
+section.block.qna .question {
+  font-weight: 700;
+  margin: 0 0 0.4rem;
+  color: #7d50aa;
+}
+section.block.exploration {
+  background: rgba(70,150,90,0.10);
+  border-color: rgba(70,150,90,0.55);
+}
+section.block.hazard {
+  background: rgba(190,70,60,0.09);
+  border-color: rgba(190,70,60,0.55);
+}
+section.block.wip {
+  background: rgba(128,128,128,0.10);
+  border-color: rgba(128,128,128,0.5);
+  border-style: dashed;
+}
+section.block dl { margin: 0 0 0.6rem; }
+section.block dt p { margin: 0; font-weight: 700; }
+section.block dd { margin: 0.2rem 0 0; }
+section.block dd p { margin: 0; font-style: italic; }
+ul.complex-check { list-style: none; padding-left: 0.5rem; }
+ul.complex-check li { padding-left: 0.4rem; border-left: 3px solid rgba(128,128,128,0.4); margin: 0.35rem 0; }
+ul.complex-check li.automatic-success { border-left-color: #4a9a5a; }
+ul.complex-check li.critical-success { border-left-color: #c89b2a; }
+ul.complex-check li.advantage { border-left-color: #4678be; }
+ul.complex-check li.disadvantage, ul.complex-check li.critical-failure { border-left-color: #be463c; }
+
 .fvtt.advice {
   background: var(--advice-bg);
   border-left: 4px solid #5588cc;
