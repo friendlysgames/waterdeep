@@ -30,6 +30,9 @@ Rooftop sequence, Trollskull Alley and the adjacent streets east toward the Dock
 
 He is between two chimneys on the inn's roof. Two crossbow bolts — one through the left shoulder, one across the ribs. He is conscious, sitting against the far chimney with his oversized bow across his knees and his good hand on it. He watches the party arrive with the expression of someone who already counted the possible outcomes and is neutral about which one he got.
 
+> [!npc-narrative]**Ziraj the Hunter**
+> A half-orc of conspicuous size, sitting between two chimneys with his oversized bow across his knees. Two crossbow bolts — one through his shoulder, one across his ribs — and he watches the party arrive with the expression of someone who already counted the possible outcomes and is neutral about which one he got.
+
 He does not ask how they found him. He says:
 
 > > "Three left."
@@ -135,6 +138,7 @@ Ziraj the Hunter is on a rooftop with two bolts in him and three agents between 
 
 ## Read Aloud
 
+> [!narrative]
 > Yagra is already moving when she finishes the sentence. She does not look back to see if you are following.
 >
 > The rooftop trails east from the alley in the dark. Below, two figures move through a search pattern that is getting closer to where they are not yet looking.

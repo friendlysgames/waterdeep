@@ -101,6 +101,7 @@ Skeemo is running. The party has until he reaches the teleportation circle at Ye
 
 ## Read Aloud
 
+> [!narrative]
 > He is already moving when you clear the door — a gnome in a leather apron with a satchel tight against his body and no hesitation about where he is going. He does not look back.
 >
 > He casts *Fly* the moment he clears the skylight.

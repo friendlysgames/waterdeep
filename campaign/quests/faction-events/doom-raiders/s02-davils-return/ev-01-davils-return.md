@@ -48,6 +48,7 @@ Davil Starsong is out. He came back to the Yawning Portal, ordered a drink, and 
 
 ## Read Aloud
 
+> [!narrative]
 > He's at the bar when you arrive — same stool, lute slung across his back. He ordered without looking at the board. He sits with his drink for a while before he says anything.
 >
 > > "You should know — whatever Skeemo knew about your operation is already in Kolat Towers. I'd keep that in mind for what comes next."

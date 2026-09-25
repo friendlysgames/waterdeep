@@ -62,7 +62,7 @@ Placing a red candle at Barrow's Wick triggers a reply the following morning: a 
 **Seffia Naelryke** — Tethyrian, mid-thirties, dressed to pass as a minor noblewoman. Gracious, composed, conducting a social audit from the moment the party enters. Her goal is to find out what they know and who they work for. She will not confirm the planted story. She will try to determine whether the party is a threat or an opportunity.
 
 > [!npc-narrative]**Seffia Naelryke**
-> The woman who arrives at the meeting is Tethyrian, mid-thirties, dressed to pass as a minor noblewoman. She is gracious, composed, and conducting a social audit from the moment she enters.
+> The woman who arrives at the meeting is Tethyrian, mid-thirties, dressed as a minor noblewoman. She is gracious and composed, and she studies the party from the moment she sits down.
 
 A **DC 16 Wisdom (Insight) check** catches her tells: her questions about the party's other investigations are too specific; her interest in Savra Belabranta by name arrives unprompted. She already knows who she is talking to.
 

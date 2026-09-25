@@ -52,7 +52,7 @@ The God Catcher is one of the Walking Statues of Waterdeep — a vast stone figu
 
 **Esvele Rosznar** is a Tethyrian noblewoman in her late twenties, seated inside the coach with the hood of a purple cloak drawn up. She does not offer her name. She produces a black velvet pouch with fifteen platinum pieces before the party has fully stopped.
 
-> [!npc-narrative]**Esvele Rosznar**
+> [!npc-narrative]**The Hooded Noblewoman**
 > A Tethyrian noblewoman in her late twenties, seated in the coach with the hood of a purple cloak drawn up. She produces a black velvet pouch with fifteen platinum pieces before the party has fully stopped. She does not offer her name.
 
 She wants the coffer. The exchange is meant to take thirty seconds.

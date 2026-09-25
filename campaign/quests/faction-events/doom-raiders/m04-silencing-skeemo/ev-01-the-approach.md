@@ -86,6 +86,7 @@ Tashlyn Yafeera has confirmed Skeemo Weirdbottle is a traitor. The party moves o
 
 ## Read Aloud
 
+> [!narrative]
 > The shop is closed. The shutters are drawn. A paper bird exits through a crack in the upper shutter as you round the corner — it folds itself into flight and heads northeast before you can track it.
 >
 > You have until he reaches the teleportation circle at Yellowspire.
