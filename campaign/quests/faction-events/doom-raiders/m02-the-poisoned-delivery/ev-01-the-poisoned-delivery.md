@@ -63,20 +63,9 @@ She wants the coffer. The exchange is meant to take thirty seconds.
 > #### The Coffer Comes Back
 > If the party returns the coffer to Davil, his response is measured but tells a careful observer something important: he is not surprised that a delivery went wrong, only that the wrongness is this specific. He does not say Skeemo's name. He does not say anything more about it. He is adding this to a count he has been keeping for months.
 
-### Davil's Arrest
+### After the Delivery
 
-Two days after the delivery — whatever its outcome — a flying snake arrives at wherever the party is staying. The handwriting on the scroll is not Davil's.
-
-> > "Davil is unavailable. Continue normal operations. Await further contact."
-
-The message is from **Tashlyn Yafeera**. There is no explanation, no name, and no comfort in the phrasing. The next mission brief will come in a different hand and arrive without pleasantries.
-
-> **[GM]**
->
-> #### Who Is Tashlyn
-> **Tashlyn Yafeera** is the Doom Raiders' Master of Arms and Mercenaries. She also serves as Captain of the City Guard at the South Gate under a dwarf magister named Vorondar Levelstone — a cover position she has cultivated over two years. Her intelligence is sharper than Davil's because she has been building sources inside Manshoon's cell rather than business contacts in the Trades Ward. She communicates exclusively by flying snake and expects inference rather than explanation.
->
-> Do not introduce her by name here unless the party asks who sent the message. She introduces herself properly at the Mission 3 briefing.
+Davil's arrest follows two days after **Gralhund Villa**, not after this mission. See the **Davil's Arrest** Event (s01) for that scene — it fires for Doom Raiders members at the start of **Faction Outposts**.
 
 ### Concluding the Event
 
@@ -111,4 +100,4 @@ Pick up a package from a Doom Raiders alchemist in the Trades Ward and deliver i
 
 ## Summary
 
-The party retrieved a package from Skeemo Weirdbottle and delivered it — or attempted to — to a contact near the God Catcher. The package contained poison, not the mind-reading potions on the label. Davil was arrested before the party could brief him fully, and the flying snake that arrived after said nothing useful at all.
+The party retrieved a package from Skeemo Weirdbottle and delivered it — or attempted to — to a contact near the God Catcher. The package contained poison, not the mind-reading potions on the label.

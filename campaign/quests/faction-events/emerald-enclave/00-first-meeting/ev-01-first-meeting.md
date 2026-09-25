@@ -55,7 +55,7 @@ Midway through the gardens, a woman's voice arrives from the direction of the ol
 
 Jeryth speaks rarely and precisely. When she has said what she needs to say, she stops.
 
-> [!profile]+**Jeryth's Manner**
+> [!profile]**Jeryth's Manner**
 > Jeryth's voice comes from the garden itself, not from any fixed direction. She speaks rarely and precisely — no pleasantries, no repetition. When she offers something, she has already decided. When she's silent, she's still listening.
 
 ### Accepting Membership

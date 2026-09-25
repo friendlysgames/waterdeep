@@ -75,14 +75,14 @@ Any character who watches the Blackstaff when the vault figure — 500,000 drago
 
 Vajra does not look at it.
 
-> [!lore]+ **The Blackstaff's Soul**
+> [!lore] **The Blackstaff's Soul**
 > The Blackstaff contains the soul of Khelben Arunsun, the original Blackstaff of Waterdeep, who died to create it. Khelben spent decades defending this city. What the party is describing — Neverember's theft, four factions converging on concealed public wealth — is not abstract to him. Vajra is aware that the staff moves when he is present to something. She has learned not to comment on it at the table. You may use the staff's small reactions as a secondary signal: a confirmation that what the party has brought is real and significant.
 
 ### She Begins Writing
 
 When the party finishes, Vajra puts down her pen.
 
-She is still. This lasts longer than is comfortable — not theatrical, not performative. She is working through something. The room holds the silence without difficulty.
+She is still. This lasts longer than is comfortable. Not theatrical. Not performative. She is working through something, and the room holds the silence without difficulty.
 
 Any character who watches her during this pause and makes a successful DC 14 Wisdom (Insight) check determines that the pause is not about what to do next. She already knows. The pause is about what it means to do it.
 

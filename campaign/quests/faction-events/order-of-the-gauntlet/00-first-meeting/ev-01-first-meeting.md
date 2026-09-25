@@ -15,9 +15,9 @@
 
 **Background (DM only)**
 
-Savra was a Howling Hatred cultist for three years. She left — or was removed — under circumstances she doesn't disclose. The Order took her in afterward, which she regards as the clearest moral fact of her life. Her familiarity with how a cult plants itself inside ordinary institutions is exactly why the Order assigned her to Waterdeep. She is not blind to the irony.
+Savra was a Howling Hatred cultist. She left under circumstances she doesn't disclose. The Order took her in afterward, which she regards as the clearest moral fact of her life. Her familiarity with how a cult plants itself inside ordinary institutions is exactly why the Order assigned her to Waterdeep.
 
-The Sea Ward family she doesn't name is the Cassalanters. She has been building a case against them for months: their public charitable giving doesn't trace to any identifiable principle, Watch inquiries opened against them were closed before findings were produced, and their piety is consistent in a way that makes her uneasy rather than reassured. She has no legal evidence. Until she does, she names them only if pressed: *"A family in the Sea Ward. I haven't finished building the case."* She says nothing about diabolism or the infernal — that conclusion is hers alone, and she won't commit to it before the party has found the evidence themselves.
+The Sea Ward family she doesn't name is the Cassalanters. She has been watching them for months: their charity is too generous to be explained by principle, their bloodline too carefully maintained, their piety too consistent ever to slip. Watch inquiries opened against them were closed before findings were produced. Her years in the Howling Hatred taught her what that pattern can hide; she does not know what, if anything, is behind it here. She has no evidence. Until she does, she names them only if pressed: *"A family in the Sea Ward. I haven't finished building the case."*
 
 The two targets she names give the party a preview of where the campaign is heading. Both become heist objectives in Act III. She's not asking for commitment to a plan. She's asking whether the party is capable of caring about active evil.
 

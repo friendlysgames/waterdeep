@@ -40,21 +40,11 @@ First Meeting events for all seven factions:
 - Doom Raiders: [../../faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md](../../faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md)
 - Bregan D'aerthe: [../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)
 
-### Bregan D'Aerthe Recruitment
+### Bregan D'aerthe Recruitment
 
-Any PC may notice the surveillance over several days (passive Perception 18 to spot glimpses; **DC 15 Wisdom (Insight)** to confirm the watchers are drow with a particular interest in the party, and in drow party members if any).
+D'aerthe spies shadow the party for several days. The party may recognize them; if they report the surveillance to the Watch, contact ends permanently. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is True, his opening shifts.
 
-#### Party Branch — Reports Surveillance to the Watch
-
-Jarlaxle ends contact. **BD Contact Severed** attunement. BD membership is closed for the campaign; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
-
-#### Party Branch — Confronts the Drow Spies Directly
-
-The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in the **Bregan D'aerthe** Factions guide page. Award **BD Contact Established** attunement.
-
-#### Party Branch — Does Nothing
-
-Surveillance continues for the rest of the week. At the end of the week, **J.B. Nevercott** knocks at the manor's front door. The visit arrives whether or not the party noticed the watchers. If **Ryvarra Identified** is True, the party already knows what they are dealing with — the First Meeting scene in the **Bregan D'aerthe** Factions guide page notes how Nevercott's opening differs. Award **BD Contact Established** attunement.
+*Full First Meeting write-up, including all three branches and the Nevercott scene: [../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 
 ### Faction Renovation Assistance
 
