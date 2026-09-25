@@ -27,7 +27,7 @@ It drops to the street before the party can respond. No hour, no assignment, no 
 
 ### Phaulkonmere in Welcome
 
-The east gate stands open when the party arrives. Melannor is there, not waiting precisely, but present — the way a person ends up near the door when someone they expect is due. He steps aside to hold it, says nothing, and walks with them into the garden.
+The east gate stands open when the party arrives. Melannor is already at the gate when they arrive. He steps aside to hold it and walks with them into the garden.
 
 The estate moves around them without theater. Birds in the estate oaks go on with their business. The plants are simply present, untroubled. Phaulkonmere knows who is walking through it.
 
@@ -40,7 +40,7 @@ He holds it out. He looks at the ivy along the eastern wall while the party take
 > **[GM]**
 >
 > #### Melannor's Manner
-> He has no other words for the key. He is not being sentimental; he is solving a logistics problem. The key means: you belong here, come when you need to. He will not say that. If a party member thanks him, he nods once and finds something to look at nearby. He will walk them to the oldest section of the garden and stop there, as though this were where he was already heading.
+> He has no other words for the key. He is solving a logistics problem. The key means: you belong here, come when you need to. He will not say that. If a party member thanks him, he nods once and finds something to look at nearby. He will walk them to the oldest section of the garden and stop there, as though this were where he was already heading.
 
 ### Jeryth's Welcome
 

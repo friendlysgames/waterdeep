@@ -13,7 +13,7 @@
 >
 > **Background (GM only)**
 >
-> Laeral's brief appearance at a Warduke promotion is not ceremonial. Warduke is the threshold at which she begins treating a character as a known quantity rather than a field operative in someone else's reports. Her four sentences are a first impression she is forming, and she is letting the character know she is forming it. She is not there to be impressive. She is there to see them.
+> Laeral's brief appearance at a Warduke promotion is not ceremonial. Warduke is the threshold at which she begins treating a character as a known quantity rather than a field operative in someone else's reports. Her four sentences are a first impression she is forming, and she is letting the character know she is forming it. She is there to see them.
 >
 > The Masked Lord who takes a discreet interest at Warduke is predecided by the campaign but their identity is never revealed to the character, to Jalester, or to the party. All written requests through Jalester receive a single Lord's consideration — discreet, effective, and anonymous.
 
@@ -35,7 +35,7 @@ Jalester speaks first.
 
 > > "Current estimated positions of all four villain faction response teams. Updated every three days through Watch contacts. The updates come to you through the standard Alliance drop, same channel as the safe house keys. If the positions haven't updated in four days, assume something changed and proceed accordingly."
 
-**The Masked Lord.** He pauses here in a way he does not usually pause.
+**The Masked Lord.** He pauses before this one.
 
 > > "There is a Masked Lord who has taken a discreet interest in your work. I cannot tell you their name. I won't know their name. What I can tell you is this: once per quest, if you submit a written request through me — specific ask, specific problem — that Lord will use their authority to open a door, seal an investigation, or apply political pressure. The response comes back through me. No attribution."
 
@@ -81,4 +81,4 @@ Jalester Silvermane promoted the character to Warduke — the senior field rank 
 
 ## Summary
 
-The Warduke promotion was delivered at the Yawning Portal with Laeral Silverhand present. Jalester covered the operational benefits: a response team of four Veterans (one operation per quest, his authorization required), updated intelligence on all four villain faction response team positions every three days through the Alliance drop, and access to an anonymous Masked Lord's political authority once per quest through Jalester. Laeral confirmed she would meet with the character directly — one audience per quest, arranged through Jalester — and then left.
+The Warduke promotion was delivered at the Yawning Portal with Laeral Silverhand present. Jalester covered the operational benefits: a response team of four Veterans (one operation per quest, his authorization required), updated intelligence on all four villain faction response team positions every three days through the Alliance drop, and access to an anonymous Masked Lord's political authority once per quest through Jalester. Laeral confirmed she would meet with the character directly, once per quest through Jalester, and then left.

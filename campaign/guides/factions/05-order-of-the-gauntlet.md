@@ -32,7 +32,7 @@ The Order steps outside the Grand Game entirely: no positioning for the vault, n
 
 ## First Meeting
 
-Savra arrives at Trollskull Manor unannounced, knocks once, and waits for an invitation. She names two targets — a beholder empire beneath the streets and an unnamed Sea Ward noble family the Order has been watching for months — and states the cost of the work without softening it. Characters who press sincerely about her past learn she left the Howling Hatred cult; she'll give the name and nothing more about what she did in it. Those who accept are escorted to the Halls of Justice, where a silver gauntlet passes among the new members and a priest of Tyr witnesses the oath. Savra's closing line: *"The work does not wait."*
+Savra arrives at Trollskull Manor unannounced, knocks once, and waits for an invitation. She names two targets: a beholder empire beneath the streets and an unnamed Sea Ward noble family the Order has been watching for months. She states the cost of the work without softening it. Characters who press sincerely about her past learn she left the Howling Hatred cult; she'll give the name and nothing more about what she did in it. Those who accept are escorted to the Halls of Justice, where a silver gauntlet passes among the new members and a priest of Tyr witnesses the oath. Savra's closing line: *"The work does not wait."*
 
 Full scene, branches, and Savra's profile sidebar: [Order of the Gauntlet First Meeting](../../quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md).
 

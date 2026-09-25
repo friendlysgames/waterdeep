@@ -19,7 +19,7 @@
 
 **Background (DM only)**
 
-The Master of the Wild title is not honorary. It is the Enclave's formal acknowledgment that this character has done sustained work in the service of natural balance, at scale, over time. Jeryth does not give this rank to people she's known for a tenday. The six rangers and druids gathered in the garden are not decorative: they are available for one major operation, and Melannor has briefed them.
+The Master of the Wild title is the Enclave's formal acknowledgment that this character has done sustained work in the service of natural balance, at scale, over time. Jeryth does not give this rank to people she's known for a tenday. The six rangers and druids gathered in the garden are not decorative: they are available for one major operation, and Melannor has briefed them.
 
 The *charm of vitality* is Jeryth's personal gift, bestowed through Mielikki's authority. It extends to every party member present at Phaulkonmere at the time of the ceremony, once per campaign — Jeryth's way of marking the party's sustained work alongside the promoted character. She will not explain this or comment on it after. The charm settles into each person present the way the *charm of restoration* did at the First Meeting: without announcement.
 
@@ -31,13 +31,13 @@ Three animals arrive at once. A grey pigeon lands on the promoted character's wi
 
 They wait.
 
-Characters who open the window or step outside find the three animals simply watching, patient and coordinated in a way that suggests this was arranged. A DC 10 Wisdom (Perception) check is enough to confirm that all three are focused on the same character.
+Characters who open the window or step outside find the three animals watching, patient and clearly coordinated. They were sent. A DC 10 Wisdom (Perception) check is enough to confirm that all three are focused on the same character.
 
-The animals lead the way to Phaulkonmere — each taking a different route through the city, reconverging at the corner of the Southern Ward nearest the estate — if the character follows. They stop at the gate and remain there when the character enters.
+The animals lead the way to Phaulkonmere, each taking a different route through the city, reconverging at the corner of the Southern Ward nearest the estate. They stop at the gate and remain there when the character enters.
 
 ### The Gathered Enclave
 
-The estate has been prepared. Six individuals wait in the garden's broadest clearing — four humans, one half-elf, one wood elf. Some are armed. All are dressed for field work, not ceremony. They stand without arrangement, the way people stand when they know each other well and have been waiting long enough for any self-consciousness to pass.
+The estate has been prepared. Six individuals wait in the garden's broadest clearing — four humans, one half-elf, one wood elf. Some are armed. All are dressed for field work, not ceremony. They stand without arrangement, at ease with each other, the self-consciousness of ceremony long past.
 
 **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him) stands nearest the path. He nods once when the character arrives. Nothing else.
 
@@ -108,7 +108,7 @@ He waits for the character's answer. He does not press it either direction.
 >
 > #### The Character's Decision
 >
-> This is a genuine choice with no correct answer. Accepting opens Enclave support in Undermountain and makes this character the formal contact for what the Enclave learns below during the **Dungeon of the Mad Mage** arc. Declining is complete — Melannor nods and does not return to it. Either path has no effect on Dragon Heist.
+> This is a genuine choice with no correct answer. Accepting opens Enclave support in Undermountain and makes this character the formal contact for what the Enclave learns below during the **Dungeon of the Mad Mage** arc. Declining is complete. Melannor nods and does not return to it. Either path has no effect on Dragon Heist.
 
 ### Concluding the Event
 

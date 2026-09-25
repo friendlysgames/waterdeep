@@ -12,11 +12,11 @@
 
 ### The Yawning Portal, Upstairs
 
-The lute is in his hands this time, not leaning against the wall. He is working through something — nothing recognizable, just intervals — when the party comes in. He sets it in his lap and stays in his chair. He does not stand.
+The lute is in his hands this time, not leaning against the wall. He is working through something — nothing recognizable, just intervals — when the party comes in. He sets the lute in his lap without rising.
 
 > > "Ardragon. We don't give that one to people we aren't ready to rely on for the hard things."
 
-He is quieter than he was before his arrest. The warmth is still there. It takes a moment longer to reach the surface.
+He is quieter than he was before his arrest. The warmth is still there, slower to surface than before.
 
 He names the three benefits. They are larger than Wolf or Viper, and he treats them accordingly — not with ceremony, but with the specificity of someone handing over tools that could do real damage in the wrong hands.
 

@@ -28,7 +28,7 @@
 
 ### How the Conversation Starts
 
-**If Trigger A fires**, Savra chooses the moment herself. She does not make an appointment. She is simply there when the party settles in after an operation — a cup of whatever is available, the room quieter than usual — and she starts talking.
+**If Trigger A fires**, Savra chooses the moment herself. She does not make an appointment. She is simply there when the party settles in after an operation. A cup of whatever is available, the room quieter than usual. She starts talking.
 
 > > "I was in the Howling Hatred for four years. I've told you that. I haven't told you what I did in it."
 
@@ -46,9 +46,9 @@ Either path leads to the same place.
 
 ### What She Did
 
-She was close to the inner circle. Close to taking the Windcaller's oath — the rank below fully ordained. She'd been with them long enough to know what the high priest was and to have decided it didn't matter yet.
+She was close to the inner circle. Close to taking the Windcaller's oath, the rank below fully ordained. She'd been with them long enough to know what the high priest was and to have decided it didn't matter yet.
 
-Three years ago, during a storm that rolled in from the harbor and rattled every shutter on the Dock Ward, the high priest called a rite of cleansing. He named it a test of faith. Four junior initiates — two women, two men, all of them newer than Savra — were brought to the roof of the derelict tower the cult used as its meeting house. They were bound to iron ring-bolts in the parapet and told to trust the wind.
+Three years ago, during a storm that rolled in from the harbor and rattled every shutter on the Dock Ward, the high priest called a rite of cleansing. He named it a test of faith. Four junior initiates (two women, two men, all of them newer than Savra) were brought to the roof of the derelict tower the cult used as its meeting house. They were bound to iron ring-bolts in the parapet and told to trust the wind.
 
 Savra held the outer ritual circle. This meant standing at the stairwell door and making sure no one left.
 
@@ -78,7 +78,7 @@ After she has told them what she did, she returns to what they told her.
 
 > > "The cult always had money. More than member offerings could explain. It came through intermediaries — a courier from an office I never traced, notes in a formal hand. Old Waterdhavian. The kind of money that's been a family long enough it doesn't call attention to itself."
 
-She is not connecting this to any specific family out loud. She is describing what she knew. What she is doing — and what the party can see if they are watching — is sitting with the arithmetic.
+She is not connecting this to any specific family out loud. She is describing what she knew. She is sitting with the arithmetic — and the party can see it, if they are watching.
 
 > > "If that's true — if someone paid for that tower, paid for those bindings, and has been smiling in temple every Godsday since — then I was a tool. Which is a thing I already suspected and never wanted confirmed."
 
@@ -92,9 +92,9 @@ When she has finished, Savra looks at the party for a long moment.
 
 She means this as a direct question. She is not performing uncertainty about the answer. She wants to know whether they will hold it, use it, or file it away for leverage — and she will know the difference between those answers from what they say.
 
-She isn't asking for a particular response. She is asking for an honest one.
+She wants an honest answer.
 
-If the party says they'll keep it between them, she nods — once, the real nod — and the conversation ends. If they say they think it doesn't change anything, she accepts that. If they say they don't know, she accepts that too. The one thing that ends the conversation before it's over is an evasion, and she will name it as one: *"That's not an answer."*
+If the party says they'll keep it between them, she gives the real nod once and the conversation ends. If they say they think it doesn't change anything, she accepts that. If they say they don't know, she accepts that too. The one thing that ends the conversation before it's over is an evasion, and she will name it as one: *"That's not an answer."*
 
 ### Concluding the Event
 
@@ -116,7 +116,7 @@ If the party says they'll keep it between them, she nods — once, the real nod 
 >
 > This Event fires once. It does not repeat even if additional Howling Hatred intel surfaces later.
 >
-> If **Savra's Past Known: True** and **Cult Funding Linked: True**, Savra's behavior in **Cassalanter Villa** should reflect both: she enters the cult temple knowing she has been in one before, and knowing — in the way that doesn't require proof — that someone with money and a clean public face was behind the one she was in. She does not say this during **Cassalanter Villa**. She does her job.
+> If **Savra's Past Known: True** and **Cult Funding Linked: True**, Savra's behavior in **Cassalanter Villa** should reflect both: she enters the cult temple knowing she has been in one before, and knowing, without needing proof, that someone with money and a clean public face was behind the one she was in. She does not say this during **Cassalanter Villa**. She does her job.
 >
 > If this Event fires via Trigger B before the party reaches Renown 3, run it in abbreviated form: Savra confirms she was in the Howling Hatred and that the money was old Waterdhavian. She does not yet tell them about the tower. The full scene becomes available when Renown 3 is reached.
 

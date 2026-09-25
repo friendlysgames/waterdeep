@@ -13,13 +13,13 @@
 
 **Background (DM only)**
 
-The Autumnreaver rank is where the Enclave's druid-tier resources open fully. Jeryth's willingness to cast spells for this character is not a mechanical extension — she is investing deliberate divine attention, one use per quest. The three sewer routes on Melannor's map are genuine, maintained by the Enclave, and unmonitored by the Watch or any faction. They connect to Undermountain's upper levels through natural channels that predate the sewers by centuries.
+The Autumnreaver rank is where the Enclave's druid-tier resources open fully. Jeryth is investing deliberate divine attention in this character, one use per quest. The three sewer routes on Melannor's map are genuine, maintained by the Enclave, and unmonitored by the Watch or any faction. They connect to Undermountain's upper levels through natural channels that predate the sewers by centuries.
 
-The beast companion is a trained animal from Phaulkonmere's working stock. It is not a pet. It returns to the estate after each operation and assists only once per quest. Melannor states this plainly and will not elaborate.
+The beast companion is a trained working animal from Phaulkonmere's stock. It returns to the estate after each operation and assists only once per quest. Melannor states this plainly and will not elaborate.
 
 ### Melannor at the Door
 
-**Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him) appears at Trollskull Manor's door in the morning, dressed for travel. He looks at the promoted character with the same expression he uses for weather reports.
+**Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him) appears at Trollskull Manor's door in the morning, dressed for travel. He looks at the promoted character.
 
 > > "Autumnreaver. Walk with me."
 

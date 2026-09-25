@@ -9,7 +9,7 @@
 > - Zardoz Zord (if **Sea Maidens Faire** has not yet resolved) or Jarlaxle openly (if it has) delivers the promotion in person — not through Krebbyg, not through a card
 > - He explains the three special-favor options (Masked Lord audience, passage, disappearance) as though reading from a catalog, without visible emotion
 > - He names two Drow Gunslingers and four Drow who will support one operation per quest on the character's request
-> - He accompanies the party himself on one mission per quest, fighting at full capacity — and makes clear that his presence is a resource, not a gift
+> - He accompanies the party himself on one mission per quest, fighting at full capacity — and makes clear that his presence is a tactical asset, deployed by request
 > - No combat; one beat of faction color about D'aerthe's internal structure
 >
 > **Contact determination.** If **Sea Maidens Faire** has not resolved, Zardoz Zord summons the character to the Eyecatcher's upper salon by ivory card. If **Sea Maidens Faire** has resolved and Jarlaxle's identity is known, he summons them to the Scarlet Marpenoth's forward lounge — the first time anyone below Commander rank has been invited below the waterline.
@@ -50,11 +50,11 @@ He pauses.
 
 > "You will note I said one of three. Not one of each. Once. Per quest. I mention this because people in your position sometimes think 'once per quest' means 'once per quest for each option.'"
 
-He is not annoyed. He is specific.
+He is precise.
 
 > [!note]**Running the Three Favors**
 >
-> The favors are significant but bounded. The Masked Lord audience does not guarantee a favorable meeting — it guarantees the meeting happens. The passage window covers the party's movement, not cargo or prisoners. The six-day disappearance returns the individual unharmed with no memory of the interval; it cannot be used to permanently remove someone. Jarlaxle can arrange all three but will not explain exactly how. If the character asks, he says: "Competently."
+> The favors are significant but bounded. The Masked Lord audience does not guarantee a favorable meeting — it guarantees the meeting happens. The passage window covers the party's movement. Cargo and prisoners are excluded. The six-day disappearance returns the individual unharmed, with no memory of the interval; the favor creates a window, nothing more. Jarlaxle can arrange all three but will not explain exactly how. If the character asks, he says: "Competently."
 
 ### The Support Roster
 
@@ -64,7 +64,7 @@ He names them: **Pelsha** and **Vorn**, the two Gunslingers assigned to the char
 
 > [!profile]**Profile: Pelsha**
 >
-> ***Resonance.*** She is older than Krebbyg by several decades and has the patience to prove it. She treats recklessness in colleagues as a weather condition — unpleasant but expected.
+> ***Resonance.*** She is older than Krebbyg by several decades and has the patience to prove it. She treats recklessness in colleagues as weather. She notes it, adjusts, and moves on.
 >
 > ***Stat block.*** **Drow Gunslinger**.
 

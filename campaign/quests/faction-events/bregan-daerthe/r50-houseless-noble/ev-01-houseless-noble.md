@@ -9,20 +9,20 @@
 > - Jarlaxle names the character a Houseless Noble of Bregan D'aerthe's inner circle, the first surface operative to hold the rank in the company's history
 > - The ceremony takes place on the Scarlet Marpenoth, attended by Krebbyg, Fel'rekt, and whoever among the lieutenants is still alive and free
 > - Jarlaxle explains the Underdark network, the standing contacts in Menzoberranzan and beyond, and what the Scarlet Marpenoth's crew will do at the character's request
-> - The character faces one genuine choice: whether to accept a blank favor — a future obligation Jarlaxle will name at his choosing — in exchange for full inner-circle access, or to hold the rank without the obligation at partial access
-> - **Vault of Dragons** context: if this event fires after **Vault of Dragons** resolves, the Underdark network references shift — the Luskan Lords' Alliance bid becomes a known outcome, and Jarlaxle's forward-looking remarks are about Undermountain rather than Waterdeep
+> - The character faces one genuine choice: whether to accept a blank favor (a future obligation Jarlaxle will name at his choosing) in exchange for full inner-circle access, or to hold the rank without the obligation at partial access
+> - **Vault of Dragons** context: if this event fires after **Vault of Dragons** resolves, the Underdark network references shift: the Luskan Lords' Alliance bid becomes a known outcome, and Jarlaxle's forward-looking remarks are about Undermountain rather than Waterdeep
 >
 > > > [!design]**Expected in Dungeon of the Mad Mage**
 > >
-> > Reaching Renown 50 in Bregan D'aerthe requires completing all six missions at full bonus renown plus significant campaign contribution. Most parties will not reach this threshold during **Dragon Heist**. This event is written to work whether it fires before or after **Vault of Dragons** — see the Vault Context note in Scene 3. If it fires during Undermountain, the Underdark network is immediately relevant: the contacts in Menzoberranzan are operational assets below the surface. Run this event whenever it fires; it does not expire.
+> > Reaching Renown 50 in Bregan D'aerthe requires completing all six missions at full bonus renown plus significant campaign contribution. Most parties will not reach this threshold during **Dragon Heist**. This event is written to work whether it fires before or after **Vault of Dragons**; see the Vault Context note in Scene 3. If it fires during Undermountain, the Underdark network is immediately relevant: the contacts in Menzoberranzan are operational assets below the surface. Run this event whenever it fires; it does not expire.
 
 ### Scene 1: Below the Waterline
 
-The Scarlet Marpenoth at anchor. The gnome engineers have been sent to the upper deck. The forward lounge has been rearranged — the chart table pushed back, three lanterns added, a low bench set against the curved hull. It is not lavish. It is deliberate.
+The Scarlet Marpenoth at anchor. The gnome engineers have been sent to the upper deck. The forward lounge has been rearranged — the chart table pushed back, three lanterns added, a low bench set against the curved hull. It is deliberate and spare.
 
 Krebbyg and Fel'rekt are present. If any other lieutenants survive and are free: they are here too, standing without crowding the space. No one speaks when the character descends the ladder.
 
-Jarlaxle is standing at the center of the lounge in his full coat. He is not performing. This is the performance. The distinction is meaningful to anyone who has spent enough time watching him to know the difference.
+Jarlaxle stands at the center of the lounge in his full coat, hands still, watching the door. The hat is on, the coat is on, and nothing about him is angled toward an exit. He is here.
 
 > "You are here because you have earned a rank that D'aerthe has never given to a surface operative. I want to be precise about what that means, because I am always precise when the facts are significant."
 
@@ -44,7 +44,7 @@ He sets the coin on the character's palm.
 
 > "In the Underdark, this marks you as belonging to no house and to one company. On the surface, it is a coin. I recommend treating it as the former. The people who recognize it will not be fooled by the latter."
 
-Krebbyg grins. Fel'rekt nods. If anyone else is present, they acknowledge the moment in their own way — Soluun (if present and not yet gone by his own choices) looks away; the engineers' footsteps overhead stop, as if they can hear through the hull.
+Krebbyg grins. Fel'rekt nods. If anyone else is present, they acknowledge the moment in their own way: Soluun (if present and not yet gone by his own choices) looks away; the engineers' footsteps overhead stop, as if they can hear through the hull.
 
 > "The Underdark network: contacts in Menzoberranzan, surface brokers from Luskan to Calimshan, and a standing invitation to operate under D'aerthe's protection anywhere in Faerûn. The names come in writing, tonight, before you leave the ship."
 
@@ -98,7 +98,7 @@ Jarlaxle hands the sealed packet to Krebbyg, who delivers it to the character. H
 
 > "The Vault of Dragons resolved the way it resolved."
 
-He is not asking. He is marking the transition.
+He marks the transition.
 
 > **[GM]**
 >
@@ -142,7 +142,7 @@ Jarlaxle names the character a Houseless Noble of Bregan D'aerthe's inner circle
 
 ## Read Aloud
 
-> The Scarlet Marpenoth's forward lounge is lit warmer than you expected. Krebbyg and Fel'rekt are standing at the edges of the room, not speaking. The gnome engineers are topside. Jarlaxle is at the center in his full coat, holding a small black coin, and for once he is not performing.
+> The Scarlet Marpenoth's forward lounge is lit warmer than you expected. Krebbyg and Fel'rekt stand at the edges of the room, silent. The gnome engineers are topside. Jarlaxle is at the center in his full coat, holding a small black coin, and for once the performance has gone quiet.
 >
 > He sets the coin on your palm.
 >

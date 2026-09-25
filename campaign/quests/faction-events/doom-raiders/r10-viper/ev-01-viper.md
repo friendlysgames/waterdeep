@@ -11,7 +11,7 @@
 > - Tashlyn acknowledges the Viper rank and names the three new benefits without decoration: forged documents, muscle, specialist access
 > - The meeting ends when she stands; the cup she ordered stays untouched on the table
 >
-> **If Davil Released is True** when this threshold is reached — an unusual sequence in which the character reaches Renown 10 after Davil's return — Davil delivers the promotion at the Yawning Portal in his usual way. The benefits are identical; the warmth is his.
+> **If Davil Released is True** when this threshold is reached (an unusual sequence: the character has reached Renown 10 after Davil's return), Davil delivers the promotion at the Yawning Portal in his usual way. The benefits are identical; the warmth is his.
 
 ### The Flying Snake
 
@@ -35,7 +35,7 @@ She says it the way someone states a fact that required considerable evidence to
 
 > > "You don't reach Viper without knowing how to use what you're handed. So use it."
 
-She stands. The cup is still untouched. She leaves it there.
+She stands. The cup stays untouched on the table.
 
 > [!profile]**Profile: Tashlyn Yafeera**
 >

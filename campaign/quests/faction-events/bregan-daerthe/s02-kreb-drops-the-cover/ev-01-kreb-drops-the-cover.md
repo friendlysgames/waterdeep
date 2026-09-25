@@ -12,7 +12,7 @@
 > - The event sets the stage for **The Betrayal Pitch** (Mission 2b) without revealing Jarlaxle's hand.
 > - No checks required. No combat.
 
-The Seven Masks Theater runs a midweek matinée on Tenday afternoons. By the time the show ends, the back room smells of greasepaint and the particular sawdust-and-lamp-oil combination the stage machinery produces. **Krebbyg Masq'il'yr** is the only one still there when the party arrives — deep blue coat, hair loose, one hand resting on the grip of a holstered hand crossbow the way another person might drum their fingers.
+The Seven Masks Theater runs a midweek matinée on Tenday afternoons. By the time the show ends, the back room smells of greasepaint and the particular sawdust-and-lamp-oil combination the stage machinery produces. **Krebbyg Masq'il'yr** is the only one still there when the party arrives — deep blue coat, hair loose, one hand resting idle on the holstered hand crossbow's grip.
 
 He does not wait for them to sit. He has the envelope ready.
 

@@ -24,7 +24,7 @@ He pulls a folded paper from his doublet and sets it on the table or presses it 
 
 ### The Benefits
 
-**Watch Escort.** Jalester explains the escort arrangement with the specificity of a man who has filed this particular paperwork himself.
+**Watch Escort.** Jalester explains the escort arrangement precisely. He has filed this paperwork before.
 
 > > "Two guards, one errand per tenday. Give me a day's notice — written, through the usual drop — and they will be where you need them. They are Watch officers. Don't use them for anything the Watch itself couldn't do officially."
 

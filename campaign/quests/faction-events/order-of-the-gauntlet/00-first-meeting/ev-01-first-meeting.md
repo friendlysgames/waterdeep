@@ -39,7 +39,7 @@ The first: a beholder empire running operations beneath the city's streets. The 
 
 The second is harder to name cleanly. A Sea Ward noble family whose public piety never wavers, whose Watch complaints disappear before findings are produced, whose charitable donations can't be traced to any identifiable cause. She doesn't give the name yet. *"I haven't finished building the case. When I have enough to bring to the Lords, you'll hear the name."*
 
-She states what the work costs. Some of it will happen in places the city would rather pretend don't exist. Some of it won't end cleanly. She's not looking for operatives who need the situation softened. She's looking for people with skills she doesn't have and the freedom to move in ways a knight in good standing cannot.
+She states what the work costs. Some of it will happen in places the city would rather pretend don't exist. Some of it won't end cleanly. She wants people with skills she doesn't have and the freedom to move in ways a knight in good standing cannot.
 
 #### Answering Questions
 

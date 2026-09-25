@@ -25,7 +25,7 @@ The Undermountain Mandate came from two tendays of debate. The question was whet
 
 ### The Summons
 
-The note arrives at Trollskull Manor three days before the ceremony. Savra's hand — the same economical, slightly left-slanting script the character has seen before — on paper bearing the full Halls of Justice seal.
+The note arrives at Trollskull Manor three days before the ceremony. Savra's economical, slightly left-slanting hand on paper bearing the full Halls of Justice seal.
 
 *Halls of Justice. Main hall. [Date]. First bell past midday. Dress accordingly.*
 
@@ -35,7 +35,7 @@ The note arrives at Trollskull Manor three days before the ceremony. Savra's han
 
 The main hall holds sixty people at capacity. Today it holds the party, Savra, six senior Order members including Sister Valdra, and two priests of Tyr in full vestments standing to either side of the high altar.
 
-The Order members stand without speaking. They have operated alongside people who did what this character has done, and they know what the work costs. There is no ceremony in how they stand. There is something older than ceremony in it.
+The Order members stand without speaking. They have operated alongside people who did what this character has done, and they know what the work costs. Something older than ceremony holds them still.
 
 Savra stands before the altar.
 
@@ -83,7 +83,7 @@ He signs the record. Savra witnesses it.
 
 > > "It was recovered from a devil's effects. Not its original owner — the devil took it from someone. We took it from the devil." A pause. "You've carried it longer than anyone else who's had it. I thought you should know."
 
-She says this without inflection. It is a fact she judged worth sharing.
+She says this without inflection — a fact she judged worth sharing.
 
 ### The Mandate
 

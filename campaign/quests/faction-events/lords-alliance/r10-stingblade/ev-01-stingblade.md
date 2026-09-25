@@ -32,7 +32,7 @@ He adds, without elaborating further:
 
 > > "Don't waste this on someone you could have approached yourself across a tavern table."
 
-**Legal Coverage.** The Alliance covers bail, fines, and damages — one incident per quest. He describes this the way a man describes something he has had to use.
+**Legal Coverage.** The Alliance covers bail, fines, and damages — one incident per quest. He describes this plainly. He has used it.
 
 > > "If you end up in front of a Watch desk with coin owed to someone, the Alliance has a legal team. They are faster than you, and they do not ask whether it was your fault. Once per quest. The incident must be genuine — don't try to route a legitimate business debt through it."
 
@@ -54,7 +54,7 @@ He means a Charisma (Persuasion) check with the file officer. A failed attempt i
 
 ### A Detail of How It Works
 
-Jalester volunteers this without being asked — a piece of operational context.
+Jalester volunteers this without being asked. It is operational context.
 
 > > "The Watch files include informant identifications. Partial ones — the Watch usually knows no more than a code name and a general affiliation. But if you are trying to determine who else is feeding intelligence to city authorities on the Grand Game, the files are a starting point. I have used them that way."
 

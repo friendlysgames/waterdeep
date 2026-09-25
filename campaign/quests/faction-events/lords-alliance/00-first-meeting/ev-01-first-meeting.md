@@ -20,7 +20,7 @@ He delivers this pitch in person because the Alliance has had operatives go dark
 
 ### Seeking Out the Party
 
-Jalester finds the party at a moment that is not conspicuously private — the common room of the Yawning Portal, or Trollskull Manor's front if they rarely leave the alley — but removed from anyone likely to listen closely. He wears a dark doublet, collar fastened. He asks for a few minutes. He does not order food or drink.
+Jalester finds the party at a publicly accessible spot — the Yawning Portal's common room, or Trollskull Manor's front if they rarely leave the alley. Either way, far enough from anyone likely to listen closely. He wears a dark doublet, collar fastened. He asks for a few minutes. He does not order food or drink.
 
 > > "You were at the warehouse on Candle Lane. The Xanathar Guild was doing what the Guild does to the people they bring down. You did not leave."
 
@@ -48,7 +48,7 @@ He waits three seconds. Then he leaves.
 
 ### If the Party Pushes Back
 
-Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He is not accusing the party of something they have not done — he is describing the arrangement accurately so they can decide accurately.
+Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He describes the arrangement accurately so they can decide accurately. The Alliance has had operatives treat assignments as suggestions; he is simply making sure that cannot happen here by accident.
 
 He will not move on the condition itself. He will, if asked, describe the procedure for an operative who believes an assignment is wrong: bring the objection to him directly, before acting independently. He will hear it.
 

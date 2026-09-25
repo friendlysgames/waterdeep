@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-The Cassalanter dossier is a suspicion file. Nothing in it confirms infernalism, devil-worship, or any criminal act. It shows: charitable donations over twelve years that cannot be traced to any identifiable cause; four Watch complaints against the family closed without findings; a partial ground-floor layout of the villa assembled from public records; and one informal servant's account — never sworn — about screaming from above the top floor on certain nights. The servant no longer works for the family and hasn't been locatable since. Savra built this file herself. She knows exactly how thin it looks, and she knows that whatever it points to has been hidden by people who are good at hiding things.
+The Cassalanter dossier is a suspicion file. Nothing in it confirms infernalism, devil-worship, or any criminal act. It shows: charitable donations over twelve years that cannot be traced to any identifiable cause; four Watch complaints against the family closed without findings; a partial ground-floor layout of the villa assembled from public records; and one informal servant's account, never sworn, about screaming from above the top floor on certain nights. The servant no longer works for the family and hasn't been locatable since. Savra built this file herself. She knows exactly how thin it looks, and she knows that whatever it points to has been hidden by people who are good at hiding things.
 
 > > [!info]**The Cassalanter Dossier**
 > >
@@ -42,7 +42,7 @@ Savra sets a case on the bench.
 
 > > "The armory has more than borrowed swords."
 
-Inside is an Uncommon magic item selected for this character's role — from the Armor, Ring, or Weapon category, chosen for effectiveness against fiends and undead. It is not borrowed. It is a grant.
+Inside is an Uncommon magic item from the Armor, Ring, or Weapon category, selected for this character's role against fiends and undead. It is not borrowed. It is a grant.
 
 > **[GM]**
 >
@@ -60,7 +60,7 @@ She doesn't say it, even here. She doesn't need to.
 
 > > "This is what twelve years of observation produces when whatever you're looking at has been carefully hidden. It isn't evidence of what I think it is. It's evidence that something is being concealed by people who know how to conceal things."
 
-She sets a finger on the partial villa layout — ground floor only, assembled from public records.
+She sets a finger on the partial villa layout: ground floor only, assembled from public records.
 
 > > "The upper floors aren't on any public record. The basement isn't either."
 
@@ -98,7 +98,7 @@ Temple spellcasters of Tyr, Helm, and Torm will cast spells of 2nd level or lowe
 
 ## Overview
 
-Savra promoted the character to Whitehawk and delivered the rank's resources: Order surveillance on one named target per quest, potions before major operations, an Uncommon magic item from the armory, and access to temple spellcasting at no cost. She also handed over the Order's Cassalanter dossier — twelve years of watching a Sea Ward family, nothing in it admissible, everything in it suggesting that something is being very carefully hidden.
+Savra promoted the character to Whitehawk and delivered the rank's resources: Order surveillance on one named target per quest, potions before major operations, an Uncommon magic item from the armory, and access to temple spellcasting at no cost. She also handed over the Order's Cassalanter dossier — twelve years of watching a Sea Ward family, nothing in it admissible, everything in it suggesting that something is being carefully hidden.
 
 ## Summary
 

@@ -30,7 +30,7 @@ Nevercott slides a folded card across the desk. It has no heading.
 
 > "Beginning now: once per tenday, you may request an intelligence summary drawn from our embedded network. Reports on Xanathar's movement patterns, the beholder's current obsessions, which Guild members have been seen on the surface and when. Our source inside the organization is reliable."
 
-He does not name Nar'l Xibrindas. He says "our source" with the deliberate patience of someone who has learned that names are a form of currency best spent carefully.
+He does not name Nar'l Xibrindas. He says "our source" and does not elaborate. Names are currency in D'aerthe, and he spends them carefully.
 
 > "You request through Krebbyg. He will have the summary within 24 hours, delivered to a dead drop of your choosing. The summaries describe movement patterns and surface contacts. They do not describe lair layout. The distinction is deliberate."
 
@@ -48,7 +48,7 @@ He adds one qualification.
 
 > "The access does not extend to the ships themselves. The pier carnival is your stage. The Eyecatcher is not part of this arrangement."
 
-He does not explain what the Eyecatcher is. That is forthcoming, or it is not.
+He does not explain what the Eyecatcher is.
 
 ### Equipment at Rate
 

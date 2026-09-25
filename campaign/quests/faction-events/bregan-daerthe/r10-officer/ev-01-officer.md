@@ -17,7 +17,7 @@
 
 ### Nevercott (Pre-Mission 4 Path)
 
-The same back office. The same smell of candle wax. Nevercott is standing when the character arrives, which by now has stopped being unexpected.
+The same back office. The same smell of candle wax. Nevercott stands when the character arrives. He has done this every time.
 
 > "Officer. The organization recognizes sustained contribution. This is what that looks like."
 
@@ -37,7 +37,7 @@ He sets a card on the salon table. The card has a name: *Ilphrin Quiss*.
 
 ### Ilphrin Quiss
 
-A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She has operated in Waterdeep for eight months under the cover of a Trades Ward calligraphy shop. She is available between missions — not during, when she reports back to Jarlaxle by Sending regardless of the character's wishes.
+A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She has operated in Waterdeep for eight months under the cover of a Trades Ward calligraphy shop. She is available between missions. During missions, she reports back to Jarlaxle by Sending regardless of the character's wishes.
 
 > "Her loyalty is to D'aerthe. To me, specifically. She will follow your direction on any assignment that does not place her in a position to acquire intelligence on D'aerthe's own operations. You'll find she is very good at her work and very clear about that limit."
 

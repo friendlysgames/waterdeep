@@ -14,9 +14,9 @@
 
 **Background (DM only)**
 
-The Winterstalker rank is the second-highest in the Enclave. Jeryth's willingness to cast 8th-level spells is not a mechanical extension of earlier access — it is a meaningful increase in divine attention, and she acknowledges it as such. She will not say it costs her greatly, but she will note that eighth level requires care about when it is asked.
+The Winterstalker rank is the second-highest in the Enclave. Jeryth's 8th-level access represents a meaningful increase in divine attention, and she acknowledges it as such. She will not say it costs her greatly, but she will note that eighth level requires care about when it is asked.
 
-Melannor's personal accompaniment is offered without ceremony. He dislikes leaving Phaulkonmere for extended periods, though he will not say so. He shows up when called. That's all the character needs to know.
+Melannor's personal accompaniment is offered without ceremony. He dislikes leaving Phaulkonmere for extended periods, though he will not say so. He shows up when called.
 
 Sarna Dath is a harbor fisherfolk contact who has filed environmental reports for the Enclave for four years. Her blue-and-white boat is moored at the south quay. At this rank, her focus shifts from environmental anomalies to vessel movements: departure schedules, cargo manifests, anything on the water that doesn't match the harbor master's records.
 
@@ -36,7 +36,7 @@ It departs without waiting.
 
 ### Melannor's Accompaniment
 
-Melannor states what personal accompaniment means: one mission per quest. He carries a full druid's capabilities into the field. He will take the party's direction, but he has his own judgment about what to do when the plan stops working, and he will use it. He is not a follower.
+Melannor states what personal accompaniment means: one mission per quest. He carries a full druid's capabilities into the field. He will take the party's direction, but he has his own judgment about what to do when the plan stops working, and he will use it.
 
 > > "Call me when it matters. I'll be there."
 

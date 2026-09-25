@@ -29,7 +29,7 @@ The cat disappears before the party can respond. Any character who watches it go
 
 ### A Walk Through Phaulkonmere
 
-Phaulkonmere's gate stands open when the characters arrive. **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him), the estate's groundskeeper, greets them with a nod and leads them in without pleasantries. He is humorless but not cold. He considers the work more important than the company.
+Phaulkonmere's gate stands open when the characters arrive. **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him), the estate's groundskeeper, greets them with a nod and leads them in without pleasantries. He is humorless. He considers the work more important than the company.
 
 The gardens feel older than the maintained civic greenery of the Sea Ward. Melannor walks without hesitation. He is ready to discuss the following topics:
 
@@ -45,7 +45,7 @@ Any character who presses Melannor on the Enclave's position regarding the vault
 
 Midway through the gardens, a woman's voice arrives from the direction of the oldest oak, or perhaps not from any direction at all.
 
-**Jeryth Phaulkon** (Neutral Good, disembodied presence, she/her) is the Chosen of Mielikki and the patron of this estate. She addresses the characters directly: she cannot appear in the ordinary sense, but she is present throughout the estate, and she has reason to speak to them now. She is ready to discuss the following topics:
+**Jeryth Phaulkon** (Neutral Good, disembodied presence, she/her) is the Chosen of Mielikki and the patron of this estate. Her voice reaches the characters from no fixed direction. She is present throughout the estate and has reason to speak to them now. She is ready to discuss the following topics:
 
 - **Phaulkonmere as sanctuary.** Anyone the party brings here is under the estate's protection. No faction will openly move against them while they stand in these gardens. This is not a rule Jeryth enforces; it is a fact she has established.
 

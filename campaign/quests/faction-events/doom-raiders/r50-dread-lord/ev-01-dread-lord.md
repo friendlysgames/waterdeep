@@ -51,7 +51,7 @@ He lets the silence settle.
 
 ### The Proposal
 
-The Zhentarim Council is reforming. The Black Network has been fractured for years — Manshoon's disruption is one symptom of a larger structural failure — and the effort to reclaim and rebuild Zhentil Keep has created a need for the Council to reconstitute itself with members who can demonstrate they hold a city, run a cell that survives contact with the real world, and make decisions the Network can defend. That is what this cell has done. That is what this character has done inside it.
+The Zhentarim Council is reforming. The Black Network has been fractured for years; Manshoon's disruption is one symptom of a larger structural failure, and the effort to reclaim and rebuild Zhentil Keep has created a need for the Council to reconstitute itself with members who can demonstrate they hold a city, run a cell that survives contact with the real world, and make decisions the Network can defend. That is what this cell has done. That is what this character has done inside it.
 
 > > "I want to put your name forward. Not for a courtesy seat. For a full position — continental vote, continental access, the ability to shape what the Black Network becomes after Manshoon's operation is finished. I have watched you work for a long time. You belong at that table."
 

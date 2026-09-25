@@ -47,9 +47,9 @@ If the party declines, disputes the amount, or proposes keeping the full haul, S
 
 > > "All right."
 
-She leaves. The door closes quietly.
+She leaves, the door closing quietly behind her.
 
-Two days later, a written instruction arrives from the Order's Waterdeep office — not from Savra, in a clerk's hand. It redirects the party to routine field assignments: a harassment complaint in the Field Ward, a patrol coordination request, a witness escort to the Halls of Justice. The work is legitimate. It is not the work Savra was running.
+Two days later, a written instruction arrives from the Order's Waterdeep office — not from Savra, in a clerk's hand. It redirects the party to routine field assignments: a harassment complaint in the Field Ward, a patrol coordination request, a witness escort to the Halls of Justice. The work is legitimate. Savra's thread is not among the assignments.
 
 **Sister Valdra** becomes their contact for day-to-day Order assignments from this point forward. She is professional and does not explain the change. Savra remains reachable — she is still their faction contact — but she doesn't come in person. Written notes only, and only for operational necessity.
 

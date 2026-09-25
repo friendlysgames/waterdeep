@@ -16,9 +16,9 @@
 
 ### The Calimshan Merchant
 
-Ryvarra has been filing weekly intelligence reports to Jarlaxle from a reserved table at the Yawning Portal since before the party descended the well. She follows the work. During the renovation period, she moves through Trollskull Alley each morning as a cloth merchant on extended trade negotiations — never drinks from her glass, never takes notes, and her Calimshan accent slips in ways a trained ear notices.
+Ryvarra has been filing weekly intelligence reports to Jarlaxle from a reserved table at the Yawning Portal since before the party descended the well. She follows the work. During the renovation period, she moves through Trollskull Alley each morning as a cloth merchant on extended trade negotiations. She never drinks from her glass, never takes notes, and her Calimshan accent slips in ways a trained ear notices.
 
-The party may have already spotted her during **The Neighbors** Event. If **Ryvarra Identified** is False, they have another opportunity here. A **DC 14 Wisdom (Perception) check** lets any character recognize her from the Yawning Portal. A **DC 17 Intelligence (Investigation) check** — available only to a character who passed the first — places her as Bregan D'aerthe.
+The party may have already spotted her during **The Neighbors** Event. If **Ryvarra Identified** is False, they have another opportunity here. A **DC 14 Wisdom (Perception) check** lets any character recognize her from the Yawning Portal. A **DC 17 Intelligence (Investigation) check**, available only to a character who passed the first, places her as Bregan D'aerthe.
 
 Approached and questioned directly, Ryvarra excuses herself politely and does not return to the alley that day. No evidence remains. The adjacent stalls cannot describe her face.
 
@@ -38,9 +38,9 @@ Over several days, the party may notice Ryvarra and the broader surveillance net
 
 #### The Party Reports to the Watch
 
-A Watch officer takes the report, nods, and says he will look into it. By that evening, the watchers are gone. A formal letter arrives the next morning — signed by a Watch sergeant, thanking the party for their civic contribution, noting no criminal activity was found.
+A Watch officer takes the report, nods, and says he will look into it. By that evening, the watchers are gone. A formal letter arrives the next morning, signed by a Watch sergeant, thanking the party for their civic contribution, noting no criminal activity was found.
 
-Jarlaxle has the report from his own Watch contacts before the ink dries. He closes the party's file. They are a civilian variable in **Sea Maidens Faire**, not a potential asset. BD membership is closed for the campaign.
+Jarlaxle has the report from his own Watch contacts before the ink dries. He closes the party's file. In **Sea Maidens Faire**, Jarlaxle files them as a civilian variable, a presence to manage and nothing more. BD membership is closed for the campaign.
 
 Set **BD Contact Severed**. Cross-ref the **s04-contact-severed** event for downstream BD interactions.
 
@@ -58,13 +58,13 @@ If **Ryvarra Identified** is True, the party already knows the man at the door h
 
 ### The Haberdasher at the Door
 
-A man in a burgundy coat stands at Trollskull Manor's front door holding a hat box. He has the bearing of someone who has dressed far more powerful people than the party and found them all equally wanting.
+A man in a burgundy coat stands at Trollskull Manor's front door holding a hat box. He has the bearing of someone who has dressed dukes and guild-masters and found them all equally wanting.
 
 > > "J.B. Nevercott, haberdasher. I believe I'm expected."
 
-He is not expected. He maintains the fiction until the party invites him inside and the door closes — or until he judges himself secure by some other measure. He is courteous, conversationally precise about hat-making, and entirely uninterested in hat sales. The hat box has never been opened in its owner's presence.
+He is not expected. He maintains the fiction until the party invites him inside and the door closes, or until he judges himself secure by some other measure. He is courteous, conversationally precise about hat-making, and entirely uninterested in hat sales. The hat box has never been opened in its owner's presence.
 
-When he drops the fiction, he does it without ceremony.
+When he drops the cover, he does it without ceremony.
 
 > > "I represent an organization with interests in this city. Discreet interests. The kind that benefit from capable people who know when to be quiet."
 
@@ -72,7 +72,7 @@ He sets a plain black card with a silver ship embossed on one face on the neares
 
 > > "We have a small matter that wants handling. The kind that doesn't get written down. If it goes well, we'll have more to discuss."
 
-He does not name Jarlaxle. He says "Bregan D'aerthe" once — a courtesy, not a confession — only if pressed on the card's ship. He does not confirm his own identity beyond the name at the door; he remains J.B. Nevercott for the rest of the campaign until the fiction becomes entirely untenable. He leaves a time and a district but not a street, and he takes the hat box when he goes.
+He does not name Jarlaxle. He says "Bregan D'aerthe" once, only if pressed on the card's ship, a courtesy he offers when the question is direct. He does not confirm his own identity beyond the name at the door; he remains J.B. Nevercott for the rest of the campaign until the pretense becomes entirely untenable. He leaves a time and a district but not a street, and he takes the hat box when he goes.
 
 The *hat of disguise* he wears accounts for a face that is harder to describe afterward than it should be.
 
@@ -80,13 +80,13 @@ The *hat of disguise* he wears accounts for a face that is harder to describe af
 
 > > "I see you've already done some of the work. That does save time."
 
-The fiction compresses. Once alone, he drops it faster than usual and acknowledges Ryvarra's presence without giving her name — a fractional concession that signals his information on the party is current.
+His act compresses. Once alone, he drops it faster than usual and acknowledges Ryvarra's presence without giving her name, a fractional concession that signals his information on the party is current.
 
 **Joining.** Any party member may accept the assignment. Nevercott remarks, once and without elaboration, that the organization is mostly drow. He does not appear to regard this as a problem.
 
 > [!profile]**Profile: J.B. Nevercott**
 >
-> ***Resonance.*** Nevercott should inspire wary amusement with his maintenance of the fiction well past its useful life, and the particular alertness of someone who has already read the room before the room noticed him.
+> ***Resonance.*** Nevercott should inspire wary amusement with his maintenance of the cover well past its useful life, and the particular alertness of someone who has already read the room before the room noticed him.
 >
 > ***Persona.*** To the world, a haberdasher with a coat of exceptional cut and no hat samples. To those he trusts, a Bregan D'aerthe contact whose usefulness is the gap between how he presents and what he knows. Deep down, he has been briefed on the party by Ryvarra and at least two other sources before knocking.
 >
@@ -108,9 +108,9 @@ The party reported the BD surveillance to the Watch. BD membership is closed for
 >
 > #### Next Steps
 >
-> If **Bregan D'aerthe Joined** is True: the first BD mission, **The Handkerchief and the Girl**, is available once the party reaches Level 2. Two anonymous coin pouches follow in subsequent missions — 50 gp in a black pouch two days after the Mission 1 debrief, 100 gp the same afternoon as the Mission 3 debrief, no note in either. Jarlaxle is establishing a pattern before he introduces himself.
+> If **Bregan D'aerthe Joined** is True: the first BD mission, **The Handkerchief and the Girl**, is available once the party reaches Level 2. Two anonymous coin pouches follow in subsequent missions: 50 gp in a black pouch two days after the Mission 1 debrief, 100 gp the same afternoon as the Mission 3 debrief, no note in either. Jarlaxle is establishing a pattern before he introduces himself.
 >
-> If **BD Contact Severed** is True: Jarlaxle's awareness of the party persists. He is a neutral variable in **Sea Maidens Faire** and may approach if the situation demands it, but he treats the party as a civilian complication, not an asset. Recruitment is finished.
+> If **BD Contact Severed** is True: Jarlaxle's awareness of the party persists. He is a neutral variable in **Sea Maidens Faire** and may approach if the situation demands it, but he treats the party as a civilian complication to work around. Recruitment is finished.
 >
 > Return to **The Factions Come Calling** Event for the remainder of the faction recruitment period.
 
@@ -124,4 +124,4 @@ Bregan D'aerthe has had eyes on the party since the Yawning Portal. During the r
 
 ## Summary
 
-A Bregan D'aerthe contact named J.B. Nevercott arrived at Trollskull Manor during the renovation period, maintained the fiction of a haberdasher for as long as it served him, named the organization once when pressed, and offered a first assignment on terms the party could accept or decline. He left the black card on the table when he went.
+A Bregan D'aerthe contact named J.B. Nevercott arrived at Trollskull Manor during the renovation period, maintained the haberdasher cover for as long as it served him, named the organization once when pressed, and offered a first assignment on terms the party could accept or decline. He left the black card on the table when he went.

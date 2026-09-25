@@ -31,7 +31,7 @@ What she does know: something old, patient, and hungry is dreaming below the Cas
 
 **Trigger:** The Stone of Golorr is activated for the first time during or after **Fireball!**.
 
-**City symptom:** Starlings in the Castle Ward have been moving in tight formations over the harbor for three consecutive nights — dusk murmurations that collapse inward rather than dispersing, which harbor fisherfolk consider an ill sign. Melannor mentions it as one detail among several. He is not alarmed. He is noting it.
+**City symptom:** Starlings in the Castle Ward have been moving in tight formations over the harbor for three consecutive nights — dusk murmurations that collapse inward rather than dispersing, which harbor fisherfolk consider an ill sign. Melannor mentions it as one detail among several. He is noting it.
 
 Melannor delivers the report in person at Trollskull Manor, arriving without announcement — he has been passing this way. He does not say he came specifically to tell them.
 

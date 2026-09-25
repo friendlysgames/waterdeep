@@ -16,7 +16,7 @@
 
 **Background (GM only)**
 
-The Lords' Alliance put its conditions on the table at recruitment. Jalester said them plainly at First Meeting: assignments are not optional. Suspension is not a surprise — it is the formal consequence of a choice the character made with full information.
+The Lords' Alliance put its conditions on the table at recruitment. Jalester said them plainly at First Meeting: assignments are not optional. Suspension is the formal consequence of a choice the character made with full information.
 
 **What counts as a compelling reason:**
 

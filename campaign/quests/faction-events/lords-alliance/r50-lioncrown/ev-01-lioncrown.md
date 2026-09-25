@@ -22,7 +22,7 @@
 
 **Background (GM only)**
 
-The Lioncrown is the highest rank in the Lords' Alliance. Characters who reach it have earned something Laeral does not give easily: the expectation of an honest answer. She does not answer honestly in most contexts. She is careful with what she says on behalf of the city. The three honest answers at this ceremony are not a reward — they are an acknowledgment that the character has earned the right to know what she knows.
+The Lioncrown is the highest rank in the Lords' Alliance. Characters who reach it have earned something Laeral does not give easily: the expectation of an honest answer. She does not answer honestly in most contexts. She is careful with what she says on behalf of the city. The three honest answers at this ceremony are an acknowledgment that the character has earned the right to know what she knows.
 
 **The outstanding charge:** Remove whatever charge the character currently carries that would benefit most from removal — an arrest warrant, a Watch citation, a civil damages claim. If no charge currently exists, the benefit holds in reserve.
 
@@ -48,7 +48,7 @@ A formal note arrives two days before — wax-sealed vellum, in Jalester's handw
 
 ### Act 2 — Piergeiron's Palace, Annex Room
 
-The annex room is smaller than the audience chamber used in **Mission 6** — a working room, not a receiving room, with a scarred table, four chairs, a cabinet of Alliance documents, and a fire that has been burning long enough to warm the stone walls. **Laeral Silverhand** is at the head of the table. **Jalester Silvermane** stands to one side. A third figure — compact, watchful, unremarkable — stands near the cabinet.
+The annex room is smaller than the audience chamber used in **Mission 6**. Scarred table, four chairs, a cabinet of Alliance documents, a fire that has been burning long enough to warm the stone walls. It is where Laeral actually works. **Laeral Silverhand** is at the head of the table. **Jalester Silvermane** stands to one side. A third figure, compact and watchful, stands near the cabinet.
 
 > Laeral does not rise when you enter. She looks at you once, then at the chair across from her.
 >
@@ -62,7 +62,7 @@ She has a document on the table. She sets it in front of the character without p
 
 > > "You're carrying something. We're removing it."
 
-She names the outstanding charge — whatever it is — and the document is a formal writ of dismissal, signed under her authority as Open Lord and countersigned by Alliance legal counsel. The signature is real.
+She names the outstanding charge. The document on the table is a formal writ of dismissal, signed under her authority as Open Lord and countersigned by Alliance legal counsel. The signature is real.
 
 > > "Done. Don't thank me. Move on."
 
@@ -176,4 +176,4 @@ Laeral Silverhand promoted the character to Lioncrown — the highest rank of th
 
 ## Summary
 
-The character reached Renown 50 and received the Lioncrown rank from Laeral Silverhand in a working annex at Piergeiron's Palace. Laeral removed an outstanding charge, answered three direct questions honestly, and introduced Sevel Dastar as an available field attaché — the character decided whether to take him on. At the close of the meeting, alone with the character, Laeral asked them to watch for two missing Alliance handlers and a cartography team if their path led into Undermountain; the character decided whether to accept the commission.
+The character reached Renown 50 and received the Lioncrown rank from Laeral Silverhand in a working annex at Piergeiron's Palace. Laeral removed an outstanding charge, answered three direct questions honestly, and introduced Sevel Dastar as an available field attaché; the character decided whether to take him on. At the close of the meeting, alone with the character, Laeral asked them to watch for two missing Alliance handlers and a cartography team if their path led into Undermountain; the character decided whether to accept the commission.

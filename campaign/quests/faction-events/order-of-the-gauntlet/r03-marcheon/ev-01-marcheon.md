@@ -24,7 +24,7 @@ The armory is at the Halls of Justice, east annex — a cleric named Tobrin hold
 
 ### What She Can Do Now
 
-At Marcheon, Savra can accompany the character into an operation. Not a patrol, not a public investigation — an operation. Something with active opposition, in a place where the Order's presence would otherwise be too visible or too inflexible to fit.
+At Marcheon, Savra can accompany the character into an operation — something with active opposition, in a place where the Order's presence would otherwise be too visible or too inflexible to fit.
 
 Once per quest. She makes the offer when she judges it warranted; the character can also request it. She won't go in if she believes her presence will get the party killed.
 

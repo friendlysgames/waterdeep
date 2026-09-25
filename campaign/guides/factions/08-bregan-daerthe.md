@@ -34,7 +34,7 @@ Jarlaxle's Grand Game goal: hold Eye #3, collect political intelligence, keep al
 
 ## First Meeting
 
-Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to the whole party, not just drow members. D'aerthe spies shadow the group for several days before contact; if the party reports the surveillance to the Watch, contact ends permanently. Otherwise, a haberdasher named J.B. Nevercott arrives at Trollskull Manor's front door, maintains his fiction until he judges himself secure, then names Bregan D'aerthe and offers a first small assignment. He leaves a black card with a silver ship.
+Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to any party member. D'aerthe spies shadow the group for several days before contact; if the party reports the surveillance to the Watch, contact ends permanently. Otherwise, a haberdasher named J.B. Nevercott arrives at Trollskull Manor's front door, maintains his fiction until he judges himself secure, then names Bregan D'aerthe and offers a first small assignment. He leaves a black card with a silver ship.
 
 *Full write-up: [Bregan D'aerthe — First Meeting](../../quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 

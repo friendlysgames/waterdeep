@@ -6,8 +6,8 @@
 >
 > This Social Standalone Event fires after the **Compromised Eye** Mission resolves, provided Nar'l Eliminated is False. If Nar'l Eliminated is True, Jarlaxle does not arrange this dinner — the event does not fire, and the Zardoz Introduced flag remains False. In this Event:
 >
-> - Zardoz Zord meets the party in person for the first time as himself — not as J.B. Nevercott, who does not appear after this event.
-> - The dinner is personal, not operational. Zardoz asks three questions over three courses and does not brief the party on a mission.
+> - Zardoz Zord meets the party for the first time under his own name. J.B. Nevercott does not appear after this event.
+> - The dinner is personal. Zardoz asks three questions over three courses and does not brief the party on a mission.
 > - He does not discuss Nar'l Xibrindas, the Castle Ward sewers, or any detail connected to the **Compromised Eye** Mission.
 > - If the **Nar'l Active** flag is True and Option C succeeded, Zardoz adds one unprompted remark about the Guild between courses.
 > - Krebbyg delivers the operational token the following morning.
@@ -19,7 +19,7 @@
 
 Through four missions, Jarlaxle has been evaluating the party through intermediaries — Krebbyg's reports, Fel'rekt's observations, the pattern of decisions made under pressure. The dinner is where he forms his own assessment. He already has partial answers to every question he asks; he is checking his intelligence file against the living version.
 
-He has no intention of revealing that he is drow, that Zardoz Zord and J.B. Nevercott are the same person, or that he leads Bregan D'aerthe. He presents as a wealthy patron with a genuine interest in capable people — which is also, technically, accurate.
+He has no intention of revealing that he is drow, that Zardoz Zord and J.B. Nevercott are the same person, or that he leads Bregan D'aerthe. He presents as a wealthy patron with a genuine interest in capable people, which is also, technically, accurate.
 
 ### The Invitation
 
@@ -33,7 +33,7 @@ The card is heavier than it looks: a dense black stock, silver ship embossed on 
 
 ### The Dining Room
 
-A theater attendant — young, human, clearly briefed — meets the party at the Seven Masks door and leads them upstairs to a room that does not appear on any public map of the building. Long and low-ceilinged, heavy curtains over the windows, a table set for the party's number exactly. One candelabra at the center.
+A young human theater attendant, clearly briefed, meets the party at the Seven Masks door and leads them upstairs to a room that does not appear on any public map of the building. Long and low-ceilinged, heavy curtains over the windows, a table set for the party's number exactly. One candelabra at the center.
 
 **Zardoz Zord** (Jarlaxle's Illuskan cover identity, he/him) is already seated when the party enters. Cream and burgundy tonight, hat set to one side of the table like a resting guest. He rises. His smile arrives a half-second before his face fully assembles it.
 
@@ -53,7 +53,7 @@ He pours the wine himself. He does not call for staff.
 
 ### The Conversation
 
-Zardoz asks three questions over the course of the meal — one per course, unhurried, each followed by genuine listening and little response. Between questions he talks about the city, the food, the theater. He is an excellent conversationalist on all of it.
+Zardoz asks three questions over the course of the meal — one per course, unhurried, each followed by genuine listening and little response. Between questions he talks about the city, the food, and the theater.
 
 **First course.** *"Where are you from?"*
 
@@ -67,7 +67,7 @@ Any character who deflects — "staying alive," "problem-solving," anything evas
 
 He sets his glass down before asking this one. He means something precise by it: whether the city's version of the party matches the party's version of themselves. He does not explain what he means. He listens to the answer as carefully as he has listened to anything tonight.
 
-After this, the dinner becomes general — carnival logistics, harbor politics, a well-told piece of theater gossip involving a very famous singer and a very unfortunate wig. He is funny, genuinely warm, and still gathering information throughout.
+After this, the dinner becomes general — carnival logistics, harbor politics, a well-told piece of theater gossip involving a celebrated singer and a catastrophic wig. He is funny, genuinely warm, and still gathering information throughout.
 
 ### If Nar'l Active Is True and Option C Succeeded
 
@@ -101,7 +101,7 @@ A private dinner at the Seven Masks Theater, arranged by Krebbyg. The host is a 
 
 ## Read Aloud
 
-> The upper salon at Seven Masks is set for dinner — candles, good crystal, a table the right size for the party. The man already seated rises when you enter. Cream and burgundy, a hat set to one side like a resting guest.
+> The upper salon at Seven Masks is set for dinner: candles, good crystal, a table the right size for the party. The man already seated rises when you enter. Cream and burgundy, a hat set to one side like a resting guest.
 >
 > > > "I've been wanting to do this properly. Krebbyg is excellent at many things. Conversation is not one of them."
 >

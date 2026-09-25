@@ -23,7 +23,7 @@ He sets the decanter down.
 
 He names the three things the rank opens, without ceremony, the way someone names tools before handing them across a table.
 
-**Tenday intelligence.** The Network's informant web tracks rival faction movements across the city — Xanathar's Guild patrol rotations, Manshoon's Splinter communications, Watch surveillance priorities. One piece of actionable intelligence per tenday, filtered through Tashlyn Yafeera's judgment about what is worth passing along. It arrives by flying snake. Davil explains that Tashlyn manages the web; she decides what comes through and when. He does not apologize for this arrangement. It is the right arrangement.
+**Tenday intelligence.** The Network's informant web tracks rival faction movements across the city — Xanathar's Guild patrol rotations, Manshoon's Splinter communications, Watch surveillance priorities. One piece of actionable intelligence per tenday, filtered through Tashlyn Yafeera's judgment about what is worth passing along. It arrives by flying snake. Davil explains that Tashlyn manages the web; she decides what comes through and when. He does not apologize — the arrangement is correct.
 
 **The safe house.** A Dock Ward address, third floor, four exits. Davil presses a small wax tablet across the table — the address is pressed into it, and he expects the party to memorize it before they leave. The safe house is available on three hours' notice. Someone will be there when they arrive.
 
@@ -31,11 +31,7 @@ He names the three things the rank opens, without ceremony, the way someone name
 
 > > "The Network makes things easier to get for people who have earned the access. That's the whole arrangement."
 
-He refills his own glass.
-
-He does not refill anyone else's.
-
-That is the signal. The party is expected to understand it without being told.
+He refills only his own glass — the signal that the meeting is done.
 
 > [!info]**The Dock Ward Safe House**
 >

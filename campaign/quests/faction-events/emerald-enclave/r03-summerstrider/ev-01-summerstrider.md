@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-The Summerstrider rank marks the first meaningful threshold the Enclave cares about. Springwardens are members; Summerstriders are trusted. The practical difference: Jeryth is now willing to keep partial awareness on this character when they are injured in Enclave work. She does not make a gift of it. She simply does it.
+The Summerstrider rank marks the first meaningful threshold the Enclave cares about. Springwardens are members; Summerstriders are trusted. The practical difference: Jeryth is now willing to keep partial awareness on this character when they are injured in Enclave work. She simply does it.
 
 The network Melannor names — gardeners in the City of the Dead, park wardens near the Field of Triumph, fisherfolk along the south quay — has been tracking environmental anomalies since before the campaign began. The characters aren't the reason it exists. They now receive its reports.
 

@@ -15,7 +15,7 @@
 
 Davil is released at the end of the same tenday Mission 4 concludes — the Lords satisfied that his cell wasn't responsible for the Gralhund violence. He comes back to the Yawning Portal. He orders a drink. He sits with it for a few minutes before saying anything.
 
-He was fond of Skeemo. He doesn't say this.
+He was fond of Skeemo.
 
 > > "You should know — whatever Skeemo knew about your operation is already in Kolat Towers. I'd keep that in mind for what comes next."
 

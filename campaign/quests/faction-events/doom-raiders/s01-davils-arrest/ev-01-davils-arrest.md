@@ -14,11 +14,11 @@
 
 ### The Crackdown
 
-By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Within forty-eight hours the broadsheet runs — *Gralhund Villa Bloodbath* — and the Watch begins a city-wide sweep of the Black Network, arresting known and suspected Zhentarim regardless of cell affiliation, legitimate business or not.
+By the morning of Ches 25th, the City Watch has sealed Gralhund Villa and begun processing twenty-three bodies. Within forty-eight hours the broadsheet runs (*Gralhund Villa Bloodbath*), and the Watch begins a city-wide sweep of the Black Network, arresting known and suspected Zhentarim regardless of cell affiliation, legitimate business or not.
 
 Two days after the villa, Davil Starsong is taken in for questioning at Castle Waterdeep. The case against him is association, not evidence. "Pending questioning by the Lords" is the official language; in practice it's indefinite. He suspects Floxin filed an anonymous Watch tip naming the Doom Raiders as persons of interest — a damage-control move from Manshoon's cell, designed to draw scrutiny away from the Splinter and onto the legitimate operation. He has no proof of this yet.
 
-Doom Raiders party members aren't arrested. They are known associates of someone who is, which is different and only marginally better. Party members with visible Zhentarim connections should keep a low profile for a tenday.
+Doom Raiders party members are known associates of someone under arrest — different, and only marginally better. Party members with visible Zhentarim connections should keep a low profile for a tenday.
 
 ### The First Message
 

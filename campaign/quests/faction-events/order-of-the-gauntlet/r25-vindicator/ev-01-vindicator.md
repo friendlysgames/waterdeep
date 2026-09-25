@@ -14,7 +14,7 @@
 
 ### The Summons
 
-The note arrives at Trollskull Manor the morning before the meeting. Savra's handwriting — economical, slightly left-slanting — on paper with the Halls of Justice seal.
+The note arrives at Trollskull Manor the morning before the meeting. Savra's economical, slightly left-slanting handwriting on paper with the Halls of Justice seal.
 
 *Halls of Justice. Main chamber. Tomorrow, third bell past noon. Formal business.*
 
@@ -42,7 +42,7 @@ She means the investigation will not be blocked by political pressure if she can
 >
 > #### Filing the Investigation
 >
-> The character names a target — an individual or organization — and brings Savra enough predicate to justify the filing. The Cassalanter dossier received at Whitehawk is sufficient predicate to name Lord Victoro Cassalanter. The inquiry runs independently of the party's operations and produces a written report of findings within two tendays. Whether the Lords act on those findings depends on the political climate at the time of filing.
+> The character names a target (an individual or organization) and brings Savra enough predicate to justify the filing. The Cassalanter dossier received at Whitehawk is sufficient predicate to name Lord Victoro Cassalanter. The inquiry runs independently of the party's operations and produces a written report of findings within two tendays. Whether the Lords act on those findings depends on the political climate at the time of filing.
 
 ### The Strike Team
 
