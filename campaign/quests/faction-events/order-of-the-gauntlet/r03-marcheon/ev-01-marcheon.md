@@ -60,11 +60,11 @@ She doesn't add to this.
 >
 > #### Next Steps
 >
-> The armory and Savra's combat support are available from the next operation forward. **The Black Viper Investigation** unlocks at 3rd level; if it hasn't run yet, it can now. When the party's next dangerous operation comes up, offer Savra's accompaniment as an option — let the character decide whether to call it in.
+> The armory and Savra's combat support are available from the next operation forward. **The Black Viper Investigation** unlocks at 3rd level; if it hasn't run yet, it can now. When the party's next dangerous operation comes up, offer Savra's accompaniment as an option; let the character decide whether to call it in.
 
 ## Overview
 
-Savra delivered the Marcheon promotion: she can now accompany the character into one dangerous operation per quest as a combat ally, the Order's armory is open for borrowed weapons and armor, and the temple priest network — priests of Tyr, Helm, and Torm sharing what their parishes turn up — is available to the character each week.
+Savra delivered the Marcheon promotion: she can now accompany the character into one dangerous operation per quest as a combat ally, the Order's armory is open for borrowed weapons and armor, and the temple priest network (priests of Tyr, Helm, and Torm sharing what their parishes turn up) is available to the character each week.
 
 ## Summary
 

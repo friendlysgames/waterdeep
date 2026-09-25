@@ -36,7 +36,7 @@ On a result of 17 or higher, he adds:
 
 > > "You've already met the relevant parties. That's as specific as I get."
 
-He is not deflecting out of suspicion. He is deflecting because the question belongs to someone else, and he is entirely comfortable with that.
+He deflects because the question belongs to someone else, and he is entirely comfortable with that limit.
 
 > **[GM]**
 >

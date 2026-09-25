@@ -28,7 +28,7 @@ Approached and questioned directly, Ryvarra excuses herself politely and does no
 >
 > ***Persona.*** To the world, a Calimshan cloth merchant letting trade negotiations run long. To those who observe carefully: the full glass, the unwritten notes, the slipping accent. Deep down, a professional loyalty to Jarlaxle that does not extend to sentimentality.
 >
-> ***Morale.*** She fights to exit, not to win. Every move is aimed at a gap. The glass is full and the chair is straight before the last blow lands.
+> ***Morale.*** She fights toward the exit. Every move is aimed at a gap. The glass is full and the chair is straight before the last blow lands.
 >
 > ***Inspirations.*** George Smiley (*Tinker, Tailor, Soldier, Spy*), The Operative (*Serenity*).
 

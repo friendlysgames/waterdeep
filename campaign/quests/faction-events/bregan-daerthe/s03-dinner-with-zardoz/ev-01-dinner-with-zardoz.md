@@ -4,7 +4,7 @@
 >
 > #### Gamemaster's Summary
 >
-> This Social Standalone Event fires after the **Compromised Eye** Mission resolves, provided Nar'l Eliminated is False. If Nar'l Eliminated is True, Jarlaxle does not arrange this dinner — the event does not fire, and the Zardoz Introduced flag remains False. In this Event:
+> This Social Standalone Event fires after the **Compromised Eye** Mission resolves, provided Nar'l Eliminated is False. If Nar'l Eliminated is True, Jarlaxle does not arrange this dinner; the event does not fire, and the Zardoz Introduced flag remains False. In this Event:
 >
 > - Zardoz Zord meets the party for the first time under his own name. J.B. Nevercott does not appear after this event.
 > - The dinner is personal. Zardoz asks three questions over three courses and does not brief the party on a mission.
@@ -17,13 +17,13 @@
 
 **Background (DM only)**
 
-Through four missions, Jarlaxle has been evaluating the party through intermediaries — Krebbyg's reports, Fel'rekt's observations, the pattern of decisions made under pressure. The dinner is where he forms his own assessment. He already has partial answers to every question he asks; he is checking his intelligence file against the living version.
+Through four missions, Jarlaxle has been evaluating the party through intermediaries: Krebbyg's reports, Fel'rekt's observations, the pattern of decisions made under pressure. The dinner is where he forms his own assessment. He already has partial answers to every question he asks; he is checking his intelligence file against the living version.
 
 He has no intention of revealing that he is drow, that Zardoz Zord and J.B. Nevercott are the same person, or that he leads Bregan D'aerthe. He presents as a wealthy patron with a genuine interest in capable people, which is also, technically, accurate.
 
 ### The Invitation
 
-Krebbyg arrives at Trollskull Manor that evening — not his usual morning hour. He sets a small black card on the bar without sitting down.
+Krebbyg arrives at Trollskull Manor that evening, later than his usual morning hour. He sets a small black card on the bar without sitting down.
 
 > > "Seven Masks, tonight. Private room above the stage. Dinner is at eighth bell."
 
@@ -47,13 +47,13 @@ He pours the wine himself. He does not call for staff.
 >
 > #### Playing Zardoz at Dinner
 >
-> Zardoz is warm but precise — he picks specific words, not always the expected ones, and lets pauses run long enough that most people fill them. His signature gesture: he raises his glass slightly toward whoever is speaking, a fraction of a moment before they finish, as though already in agreement with the point being made. It reads as attention, not dismissal.
+> Zardoz is warm in delivery and precise in word choice, picking unexpected phrasing where a blunter speaker would reach for the obvious, and he lets pauses run long enough that most people fill them. His signature gesture: he raises his glass slightly toward whoever is speaking, a fraction of a moment before they finish, as though already in agreement with the point being made. It reads as close attention.
 >
 > He does not ask about Nar'l or the sewers. If a party member raises either, he tilts his head a degree and says: *"We can discuss operational matters another time."* He moves on. The change of subject is fluid enough that the topic seems not to have been introduced.
 
 ### The Conversation
 
-Zardoz asks three questions over the course of the meal — one per course, unhurried, each followed by genuine listening and little response. Between questions he talks about the city, the food, and the theater.
+Zardoz asks three questions over the course of the meal, one per course, unhurried, each followed by genuine listening and little response. Between questions he talks about the city, the food, and the theater.
 
 **First course.** *"Where are you from?"*
 
@@ -61,19 +61,19 @@ No context. No reciprocation. He listens, nods once, refills glasses.
 
 **Second course.** *"What are you good at?"*
 
-Any character who deflects — "staying alive," "problem-solving," anything evasive — receives a small smile, and then Zardoz completes the answer for them: he names the specific capability he thinks they actually have, drawn from Krebbyg's reports. He is accurate and does not wait for confirmation.
+Any character who deflects ("staying alive," "problem-solving," anything evasive) receives a small smile, and then Zardoz completes the answer for them: he names the specific capability he thinks they actually have, drawn from Krebbyg's reports. He is accurate and does not wait for confirmation.
 
 **Third course.** *"Does Waterdeep agree with you?"*
 
 He sets his glass down before asking this one. He means something precise by it: whether the city's version of the party matches the party's version of themselves. He does not explain what he means. He listens to the answer as carefully as he has listened to anything tonight.
 
-After this, the dinner becomes general — carnival logistics, harbor politics, a well-told piece of theater gossip involving a celebrated singer and a catastrophic wig. He is funny, genuinely warm, and still gathering information throughout.
+After this, the dinner becomes general: carnival logistics, harbor politics, a well-told piece of theater gossip involving a celebrated singer and a catastrophic wig. He is funny, genuinely warm, and still gathering information throughout.
 
 ### If Nar'l Active Is True and Option C Succeeded
 
 Read the **Nar'l Active** flag from the **Compromised Eye** Mission.
 
-Between the second and third courses, Zardoz says — unprompted, as though the thought surfaced on its own:
+Between the second and third courses, Zardoz says, unprompted, as though the thought surfaced on its own:
 
 > > "The Guild has some internal inconsistencies that are worth understanding before you go near the lair."
 
@@ -89,7 +89,7 @@ Set True when the party attends the dinner and speaks with Zardoz Zord. Set Fals
 >
 > #### Next Steps
 >
-> The morning after the dinner, Krebbyg leaves a small package at Trollskull Manor before the party rises — black cloth tied with a silk cord, set on the bar or by the door depending on who is up first.
+> The morning after the dinner, Krebbyg leaves a small package at Trollskull Manor before the party rises: black cloth tied with a silk cord, set on the bar or by the door depending on who is up first.
 >
 > Inside: a flat obsidian tile, palm-sized, with a silver ship engraved on one face. No note.
 >
@@ -97,7 +97,7 @@ Set True when the party attends the dinner and speaks with Zardoz Zord. Set Fals
 
 ## Overview
 
-A private dinner at the Seven Masks Theater, arranged by Krebbyg. The host is a theatrical sea captain who asks three careful questions and answers none of them about himself.
+A private dinner at the Seven Masks Theater, arranged by Krebbyg. The host is a theatrical sea captain who asks three careful questions and shares nothing about himself in return.
 
 ## Read Aloud
 

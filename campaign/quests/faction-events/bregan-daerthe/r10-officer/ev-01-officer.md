@@ -59,11 +59,11 @@ The records are the only reliable means of tracing any construct sold in the cit
 
 ### The Gift
 
-The contact produces a box. The box has been chosen with the same deliberate precision he applies to everything.
+The contact produces a box. The contact chose the box with the same deliberate precision he applies to everything.
 
 > "I selected this one myself. I have found, in my experience, that the right item reveals something about the person who receives it — specifically, that whoever selected it has been paying more attention than they were given credit for."
 
-The item is an Uncommon magic item chosen to reflect something specific about the character — their preferred tactics, a weakness they have been concealing, an ambition they have not named aloud. The GM should select from the options below or choose one that fits, then write the contact's remark to match.
+The item is an Uncommon magic item chosen to reflect something specific about the character: their preferred tactics, a weakness they have been concealing, an ambition they have not named aloud. The GM should select from the options below or choose one that fits, then write the contact's remark to match.
 
 **Suggested items by character type:**
 - *Cloak of elvenkind* — for a character who favors stealth and has been noticed doing it once too often
@@ -85,7 +85,7 @@ He pauses.
 
 > "Thorough within D'aerthe's reach. If you ask about the Vault of Dragons, you will receive a great deal of useful information and one significant gap. I mention this so you are not surprised by the gap."
 
-The service is available beginning the next quest. Requests go through Krebbyg or Ilphrin Quiss. The turnaround is always 48 hours — not faster, regardless of urgency.
+The service is available beginning the next quest. Requests go through Krebbyg or Ilphrin Quiss. The turnaround is always 48 hours, regardless of urgency.
 
 > [!profile]**Profile: The Officer Meeting**
 >
@@ -101,7 +101,7 @@ The character holds the Officer rank in Bregan D'aerthe, with a personal operati
 >
 > #### Next Steps
 >
-> Ilphrin Quiss becomes available at the character's direction between missions. The nimblewright shipping records can be cross-referenced against the House of Inspired Hands findings from **Fireball!** — the GM should flag this connection when the character reviews them. The once-per-quest intelligence assessment is available beginning with the next quest.
+> Ilphrin Quiss becomes available at the character's direction between missions. The nimblewright shipping records can be cross-referenced against the House of Inspired Hands findings from **Fireball!**; flag this connection when the character reviews them. The once-per-quest intelligence assessment is available beginning with the next quest.
 >
 > Return to whatever quest or event the party was pursuing when this event fired.
 

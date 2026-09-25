@@ -69,7 +69,7 @@ Recorded as True when the character receives Viper acknowledgment from Tashlyn o
 
 ## Overview
 
-Tashlyn Yafeera acknowledged the promotion to Viper rank at a South Ward taproom — seated, untouched cup in front of her. She named the three things the rank opens and stood when she was done.
+Tashlyn Yafeera acknowledged the promotion to Viper rank at a South Ward taproom: seated, untouched cup in front of her. She named the three things the rank opens and stood when she was done.
 
 ## Summary
 

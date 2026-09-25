@@ -18,7 +18,7 @@
 
 ### Scene 1: Below the Waterline
 
-The Scarlet Marpenoth at anchor. The gnome engineers have been sent to the upper deck. The forward lounge has been rearranged — the chart table pushed back, three lanterns added, a low bench set against the curved hull. It is deliberate and spare.
+The Scarlet Marpenoth at anchor. The gnome engineers have been sent to the upper deck. The forward lounge has been rearranged: the chart table pushed back, three lanterns added, a low bench set against the curved hull. It is deliberate and spare.
 
 Krebbyg and Fel'rekt are present. If any other lieutenants survive and are free: they are here too, standing without crowding the space. No one speaks when the character descends the ladder.
 
@@ -36,7 +36,7 @@ He pauses. He lets the submarine's quiet fill the pause.
 
 ### Scene 2: The Ceremony
 
-Jarlaxle reaches into his coat and produces a small black coin — not currency, older than currency. The surface is blank on one side, engraved on the other with a symbol the character may recognize from D'aerthe materials: a stylized spider caught in its own web, crossed by a blade.
+Jarlaxle reaches into his coat and produces a small black coin, older than currency. The surface is blank on one side, engraved on the other with a symbol the character may recognize from D'aerthe materials: a stylized spider caught in its own web, crossed by a blade.
 
 > "D'aerthe began as a house with no house. Everyone who joins the inner circle is Houseless by definition — it is not an insult. It is the origin. We chose it."
 
@@ -56,7 +56,7 @@ From overhead: a muffled acknowledgment, possibly defensive.
 
 > [!profile]**The Lieutenants at the Ceremony**
 >
-> ***Krebbyg.*** Louder than the occasion warrants, in the way of someone who has learned that enthusiasm is more useful than dignity. He will say something like: "Surface Noble. I told him you'd make it." He told no one this.
+> ***Krebbyg.*** Louder than the occasion warrants, treating ceremony the way he treats everything else: as something to be met at full volume. He will say something like: "Surface Noble. I told him you'd make it." He told no one this.
 >
 > ***Fel'rekt.*** Quiet but present. He shakes the character's hand with both of his, which is the D'aerthe equivalent of a speech.
 >

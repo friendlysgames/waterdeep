@@ -77,7 +77,7 @@ He signs the record. Savra witnesses it.
 >
 > #### The Resurrection Record
 >
-> The pledge covers one Resurrection (5th-level spell, 2024 rules). It applies to the character who received the Righteous Hand investiture, or to one named ally of that character's designation — the designation can be made at any time after this event, before the need arises. The Order covers the 1,000 gp material component cost. The pledge fires once.
+> The pledge covers one Resurrection (5th-level spell, 2024 rules). It applies to the character who received the Righteous Hand investiture, or to one named ally of that character's designation; the designation can be made at any time after this event, before the need arises. The Order covers the 1,000 gp material component cost. The pledge fires once.
 
 **The weapon.** Nothing new — the *+1 weapon* from Vindicator is already in the character's hands. Savra names, now, where it came from.
 

@@ -43,7 +43,7 @@ Her first words to them:
 
 > > "Davil talked too much and trusted too easily. I won't make that mistake."
 
-She doesn't elaborate. She introduces herself by name — Tashlyn Yafeera, Master of Arms and Mercenaries — and states the situation with the efficiency of someone who has already processed her feelings about it: Davil is in Castle Waterdeep, the Watch has nothing that will hold him indefinitely, and the cell's operations continue. Briefings will come through the usual channel. She expects the same discretion Davil did, with fewer questions about why.
+She doesn't elaborate. She introduces herself by name (Tashlyn Yafeera, Master of Arms and Mercenaries) and states the situation with the efficiency of someone who has already processed her feelings about it: Davil is in Castle Waterdeep, the Watch has nothing that will hold him indefinitely, and the cell's operations continue. Briefings will come through the usual channel. She expects the same discretion Davil did, with fewer questions about why.
 
 Her follow-up that same evening, delivered by flying snake: *"Keep a low profile. I'll be in touch."*
 
@@ -53,9 +53,9 @@ She doesn't say what that means. She'll contact the party when she's decided how
 
 The Watch has Davil on association, not evidence. His detention is indefinite under the Lords' questioning clause, but the case is thin. Substantive effort from the party can shorten it.
 
-**Gather evidence of his innocence.** If the party can document that the Doom Raiders cell had no operational role in the Gralhund Villa incident — witness accounts, evidence of Floxin's Watch tip, something that attributes the bloodbath to Manshoon's cell — a Watch captain with jurisdiction over Davil's case can be persuaded. Requires either a relevant contact (a Lords' Alliance Watch officer, a Harper liaison) or a **DC 16 Charisma (Persuasion)** check with the evidence in hand.
+**Gather evidence of his innocence.** If the party can document that the Doom Raiders cell had no operational role in the Gralhund Villa incident (witness accounts, evidence of Floxin's Watch tip, something that attributes the bloodbath to Manshoon's cell), a Watch captain with jurisdiction over Davil's case can be persuaded. Requires either a relevant contact (a Lords' Alliance Watch officer, a Harper liaison) or a **DC 16 Charisma (Persuasion)** check with the evidence in hand.
 
-**Pressure the right Watch captain.** The captain handling Davil's case responds to pressure from above. A party member with Lords' Alliance Renown 3+ can request Jalester Silvermane's help; Jalester can put a word through official channels. Alternatively, a **DC 15 Charisma (Persuasion or Intimidation)** check aimed at the captain directly — with something concrete to offer (the Splinter's role, Floxin's name, a piece of Watch-relevant intelligence) — opens the case for review.
+**Pressure the right Watch captain.** The captain handling Davil's case responds to pressure from above. A party member with Lords' Alliance Renown 3+ can request Jalester Silvermane's help; Jalester can put a word through official channels. Alternatively, a **DC 15 Charisma (Persuasion or Intimidation)** check aimed at the captain directly, with something concrete to offer (the Splinter's role, Floxin's name, a piece of Watch-relevant intelligence), opens the case for review.
 
 **Arrange a sympathetic lawyer.** A successful **DC 14 Intelligence (Investigation)** check to find a suitable advocate in Waterdeep, followed by 50 gp, places one in front of Davil within three days. The Lords dismiss the case within a tenday; Davil is out before Mission 4 concludes.
 
@@ -64,7 +64,7 @@ Any one of these approaches counts. Multiple approaches in combination improve t
 > **[GM]**
 >
 > #### Davil Is Grateful, in His Way
-> Davil's warmth doesn't disappear because he spent time in a cell. If the party worked for his release, he knows — Tashlyn will have told him — and he acknowledges it with the quiet, unhurried sincerity that's harder to deal with than a formal thank-you. He buys a round. He doesn't make a speech. The renown reflects this: he files the party in the category of people the Doom Raiders will go out of their way for.
+> Davil's warmth doesn't disappear because he spent time in a cell. If the party worked for his release, he knows (Tashlyn will have told him), and he acknowledges it with the quiet, unhurried sincerity that's harder to deal with than a formal thank-you. He buys a round. He doesn't make a speech. The renown reflects this: he files the party in the category of people the Doom Raiders will go out of their way for.
 > See the **Davil's Return** Event (s02) for his return scene.
 
 ### Concluding the Event

@@ -6,13 +6,13 @@
 >
 > This Social Event fires at the first natural pause after one character's Bregan D'aerthe renown reaches 25. By this point, **Three Nights** is complete and J.B. Nevercott has been retired. In this Event:
 >
-> - Zardoz Zord (if **Sea Maidens Faire** has not yet resolved) or Jarlaxle openly (if it has) delivers the promotion in person — not through Krebbyg, not through a card
+> - Zardoz Zord (if **Sea Maidens Faire** has not yet resolved) or Jarlaxle openly (if it has) delivers the promotion in person, coming himself rather than through Krebbyg or a card
 > - He explains the three special-favor options (Masked Lord audience, passage, disappearance) as though reading from a catalog, without visible emotion
 > - He names two Drow Gunslingers and four Drow who will support one operation per quest on the character's request
-> - He accompanies the party himself on one mission per quest, fighting at full capacity — and makes clear that his presence is a tactical asset, deployed by request
+> - He accompanies the party himself on one mission per quest, fighting at full capacity, and makes clear that his presence is a tactical asset, deployed by request
 > - No combat; one beat of faction color about D'aerthe's internal structure
 >
-> **Contact determination.** If **Sea Maidens Faire** has not resolved, Zardoz Zord summons the character to the Eyecatcher's upper salon by ivory card. If **Sea Maidens Faire** has resolved and Jarlaxle's identity is known, he summons them to the Scarlet Marpenoth's forward lounge — the first time anyone below Commander rank has been invited below the waterline.
+> **Contact determination.** If **Sea Maidens Faire** has not resolved, Zardoz Zord summons the character to the Eyecatcher's upper salon by ivory card. If **Sea Maidens Faire** has resolved and Jarlaxle's identity is known, he summons them to the Scarlet Marpenoth's forward lounge, the first time anyone below Commander rank has been invited below the waterline.
 
 ### The Summons
 
@@ -54,13 +54,13 @@ He is precise.
 
 > [!note]**Running the Three Favors**
 >
-> The favors are significant but bounded. The Masked Lord audience does not guarantee a favorable meeting — it guarantees the meeting happens. The passage window covers the party's movement. Cargo and prisoners are excluded. The six-day disappearance returns the individual unharmed, with no memory of the interval; the favor creates a window, nothing more. Jarlaxle can arrange all three but will not explain exactly how. If the character asks, he says: "Competently."
+> Each favor carries real weight and a firm ceiling. The Masked Lord audience does not guarantee a favorable meeting — it guarantees the meeting happens. The passage window covers the party's movement. Cargo and prisoners are excluded. The six-day disappearance returns the individual unharmed, with no memory of the interval; the favor creates a window, nothing more. Jarlaxle can arrange all three but will not explain exactly how. If the character asks, he says: "Competently."
 
 ### The Support Roster
 
 > "On one major operation per quest, I can deploy two Gunslingers and four of my people to support you. They are professional and they follow orders within the scope of the operation. They do not take risks that serve your plan at the expense of D'aerthe. You will find them reliable within that limit."
 
-He names them: **Pelsha** and **Vorn**, the two Gunslingers assigned to the character's operations at Commander rank. Both are present for this meeting — Pelsha at the door, Vorn by the porthole. They nod when named. Neither speaks.
+He names them: **Pelsha** and **Vorn**, the two Gunslingers assigned to the character's operations at Commander rank. Both are present for this meeting: Pelsha at the door, Vorn by the porthole. They nod when named. Neither speaks.
 
 > [!profile]**Profile: Pelsha**
 >
@@ -84,11 +84,11 @@ He finishes the glass.
 
 > [!note]**Running Jarlaxle as a Combatant**
 >
-> When Jarlaxle accompanies the party on a mission, he uses his **Swashbuckler** stat block and fights to full effect. He targets the most dangerous adversary first and uses his extensive magic item inventory freely. He does not sacrifice himself. If reduced below 30 hp, he begins looking for an escape — this is not cowardice, this is the operational discipline of someone who is irreplaceable. After the mission, he departs without comment on his own performance.
+> When Jarlaxle accompanies the party on a mission, he uses his **Swashbuckler** stat block and fights to full effect. He targets the most dangerous adversary first and uses his extensive magic item inventory freely. He does not sacrifice himself. If reduced below 30 hp, he begins looking for an escape. This is the operational discipline of someone who is irreplaceable. After the mission, he departs without comment on his own performance.
 
 ### The Faction Color
 
-As the meeting winds down — or as the character moves toward the ladder, depending on the setting — Jarlaxle offers one unrequested observation.
+As the meeting winds down, or as the character moves toward the ladder depending on the setting, Jarlaxle offers one unrequested observation.
 
 > "Commander is the rank where people either understand what D'aerthe is, or they start to wonder why they joined. I have found it is useful to say this once and not repeat it. If you are wondering: you joined because we are the best-organized operation in this city, and because working for the best has a clarity to it. If you are not wondering: that is why you are at this table."
 
@@ -110,8 +110,8 @@ The character holds Commander rank in Bregan D'aerthe, with access to the three-
 
 ## Overview
 
-Bregan D'aerthe names the character a Commander. Jarlaxle delivers the promotion in person — the first time the organization's leader has appeared for a rank event rather than delegating it. He outlines three special favors available once per quest, names two Drow Gunslinger operatives, and offers to accompany the party on missions himself.
+Bregan D'aerthe names the character a Commander. Jarlaxle delivers the promotion in person, the first time the organization's leader has appeared for a rank event rather than delegating it. He outlines three special favors available once per quest, names two Drow Gunslinger operatives, and offers to accompany the party on missions himself.
 
 ## Summary
 
-The character was named a Commander at a meeting with Jarlaxle himself, aboard the Eyecatcher or the Scarlet Marpenoth. He described the three-favor system, introduced Pelsha and Vorn as assigned operatives, and made clear that his personal accompaniment on missions was a resource rather than an honor.
+The character was named a Commander at a meeting with Jarlaxle himself, aboard the Eyecatcher or the Scarlet Marpenoth. He described the three-favor system, introduced Pelsha and Vorn as assigned operatives, and made clear that his personal accompaniment on missions was a tactical asset, available on request.
