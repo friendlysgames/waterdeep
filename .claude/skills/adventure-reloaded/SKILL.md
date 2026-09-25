@@ -327,7 +327,8 @@ For villain factions, merge operational sentences verbatim into the bullet.]
 ← player factions only
 
 ## Quest Hooks                  ← player factions (source table; "Arc X" labels replaced with quest names)
-## First Meeting                ← player factions (source text, verbatim)
+## First Meeting                ← player factions (2–4 sentence summary: who, where, the offer; then a
+                                   link to the faction's `00-first-meeting` event in Faction Events)
 
 ## Response Teams               ← villain factions (source, verbatim)
 ## Outposts                     ← villain factions (source; each outpost a ### heading, verbatim)
@@ -340,7 +341,7 @@ For villain factions, merge operational sentences verbatim into the bullet.]
                                    table, verbatim)
 ## Missions                     ← player factions (source mission table verbatim; each mission name bold
                                    as a pointer to its quest journal; add: "Full mission write-ups are
-                                   in the **Faction Missions** quest journals.")
+                                   in the **Faction Events** quest journals.")
 
 ## Overview
 [NEW: 2–3 sentences, player-safe summary of who the faction is and what it wants. For player

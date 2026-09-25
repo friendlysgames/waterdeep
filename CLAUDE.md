@@ -71,7 +71,7 @@ When a quest journal exists for a quest, it supersedes the structure doc. Use th
 | `campaign/quests/act-i/trollskull-alley/` | Complete | Trollskull Alley — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. QA'd. |
 | `campaign/quests/act-ii/fireball/` | Complete | Fireball! — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. |
 | `campaign/quests/act-ii/gralhund-villa/` | Complete | Gralhund Villa — `overview.md`, `ev-01`–`ev-09`, `flowchart.md`, `design-notes.md`. |
-| `campaign/quests/faction-missions/` | Complete | All 43 faction missions (44 folders including BD-M2b optional) across 7 faction subdirectories. Each mission = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`. No Milestone Points awarded. |
+| `campaign/quests/faction-events/` | Complete (structuring draft) | Faction Events for the 7 player factions. Per faction: `00-first-meeting/` (First Meeting event), `m01`–`m06` missions (43 missions, 44 folders including BD-M2b optional; each = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`), `s0N-*` standalone events (14 total: arrests, handoffs, briefings, consequences), and `r03`/`r10`/`r25`/`r50-*` rank-up events (28 total; every `r50` set-piece is expected during Dungeon of the Mad Mage). No Milestone Points awarded. |
 
 The Faction Outposts, Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire, Kolat Towers, and Vault of Dragons quests are pending conversion. Their structure docs are authoritative until quest journals exist.
 
@@ -161,7 +161,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | File | Contents |
 |---|---|
 | `01-overview.md` | How renown works, running faction missions, page map |
-| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting, Renown & Ranks, Missions |
+| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting (summary + link to its event), Renown & Ranks, Missions |
 | `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
 | `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
 
