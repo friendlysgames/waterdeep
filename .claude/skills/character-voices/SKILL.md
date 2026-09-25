@@ -2,7 +2,7 @@
 name: character-voices
 description: >
   How every named character in the Waterdeep campaign speaks: a voice profile for each of the 122
-  Notable Figures (sound, sentence shape, word choice, how personality shows in speech, quirks,
+  Notable Figures (123 profiles: Jarlaxle and his Zardoz Zord cover are separate) (sound, sentence shape, word choice, how personality shows in speech, quirks,
   signature phrases, what they never say, sample lines), one doc per faction group. Load it
   whenever writing or revising NPC dialogue, qna answers, readaloud speech, or social blocks, and
   whenever a GM needs to perform a character at the table. Works with ember-voice, which sets the
@@ -19,21 +19,21 @@ One doc per Notable Figures group, in `voices/`. Profiles are in the same order 
 
 | Doc | Characters |
 |---|---|
-| `voices/trollskull-community.md` | The manor's staff, neighbours and alley regulars |
-| `voices/independents-allies.md` | Friendly independents: Volo, Renaer, Floon, Durnan and others |
-| `voices/independents-adversaries.md` | Unaffiliated threats |
-| `voices/city-officials.md` | Laeral, the Watch and the Guard |
-| `voices/harpers.md` | Mirt, Remi, Threestrings and the Harper cell |
-| `voices/lords-alliance.md` | Jalester |
-| `voices/emerald-enclave.md` | Melannor and the Enclave |
-| `voices/order-of-the-gauntlet.md` | Savra and the Order |
-| `voices/force-grey.md` | Vajra |
-| `voices/doom-raiders.md` | Davil and the Doom Raiders |
-| `voices/bregan-daerthe.md` | Jarlaxle and his crews |
-| `voices/xanathars-guild.md` | The Xanathar and its lieutenants |
-| `voices/manshoons-zhentarim.md` | Manshoon and his splinter |
-| `voices/cassalanters.md` | Victoro, Ammalia and the household |
-| `voices/gralhunds.md` | Orond, Yalah and the villa |
+| `voices/trollskull-community.md` | Tally, Embric, Avi, Fala, Vincent Trench, Rishaal, Kraddoc, Broxley, Ulkoria, Emmek, Lif, Nat, Jenks, Squiddly |
+| `voices/independents-allies.md` | Volo, Renaer, Durnan, Floon, Meloon, Dalakhar, Valetta, the Black Tears (Elra, Osco, Torlyn, Eiruk, Harug, Parlek), Hlam, Hadra, Esloon, Sir Ambrose, Lady Gondafrey, Aurinax, Kalain, Myl |
+| `voices/independents-adversaries.md` | Dagult Neverember, the Black Viper, Kelso Fiddlewick, Filthy Meg |
+| `voices/city-officials.md` | Laeral Silverhand, Barnibus Blastwind, Saeth Cromley, Jelenn Urmbrusk |
+| `voices/harpers.md` | Mirt, Remi, Threestrings, Bonnie, Corene, Variel, the Vayle twins, Maxeene |
+| `voices/lords-alliance.md` | Jalester Silvermane |
+| `voices/emerald-enclave.md` | Melannor Fellbranch, Jeryth Phaulkon |
+| `voices/order-of-the-gauntlet.md` | Savra Belabranta, Sister Valdra |
+| `voices/force-grey.md` | Vajra Safahr |
+| `voices/doom-raiders.md` | Davil, Yagra, Istrid, Skeemo, Tashlyn, Ziraj, Senna Vael |
+| `voices/bregan-daerthe.md` | Zardoz Zord and Jarlaxle (two profiles), Soluun, Fel'rekt, Krebbyg, Zelifarn, Fenerus, Malcolm, Quilm, Ryvarra, Margo, Khafeyta, Vessa |
+| `voices/xanathars-guild.md` | The Xanathar, Ahmaergo, Nar'l, Nihiloor, Noska, Ott, Thorvin, Keln, Grinda, Korgstrod, Gorath, Grevik, Tobrin |
+| `voices/manshoons-zhentarim.md` | Manshoon, Floxin, Vevette, Sidra, Agorn, Avareen, Zorbog, Amath, Vira, Manafret, Kaevja, Havia, Mookie, Yorn |
+| `voices/cassalanters.md` | Victoro, Ammalia, Willifort, Osvaldo, the twins, Tissina, Nana Rosse, Jandar, Seffia, Arn, Rella, Ivrala, Caladorn |
+| `voices/gralhunds.md` | Yalah, Orond, Hrabbaz, Hurv, Chirada |
 
 When a character's Notable Figures page and their profile here disagree on a fact, the Notable Figures page wins. Fix the profile.
 
