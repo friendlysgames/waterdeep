@@ -94,9 +94,7 @@ Record whether the party killed or permanently removed Nar'l from play. If True,
 >
 > #### Next Steps
 >
-> Jarlaxle responds through Krebbyg — not a message, but an in-person appearance by Zardoz Zord at Seven Masks Theater, where he has arranged a private dinner. He does not discuss Nar'l or the sewers. He asks about the party: where they are from, what they are good at, whether Waterdeep agrees with them. He is gathering the information he has been accumulating since Mission 1. The operational token Krebbyg delivers the next morning is his way of acknowledging that the relationship has changed.
->
-> If Nar'l Active is True and Option C succeeded: Jarlaxle is more forthcoming than usual at dinner. He mentions, unprompted, that "the Guild has some internal inconsistencies that are worth understanding before you go near the lair." He does not elaborate further tonight.
+> Jarlaxle acknowledges the mission with a private dinner at the Seven Masks Theater — in person, as Zardoz Zord. See the [**Dinner with Zardoz**](../s03-dinner-with-zardoz/ev-01-dinner-with-zardoz.md) Standalone Event. (Does not fire if Nar'l Eliminated is True.)
 >
 > #### Milestone: None
 >
