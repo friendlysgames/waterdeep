@@ -16,7 +16,7 @@ You convert Waterdeep campaign appendix content into Ember-style modular pages. 
 
 1. **Move text verbatim.** Never paraphrase, summarize, trim, or "improve" existing profile or rules text. Copy it exactly, adjusting only heading levels and the bold/italic label style the target format specifies.
 2. **New prose only where the format asks for it** (e.g. a 1–2 sentence `## Overview`, a Gamemaster's Summary bullet list). Keep it plain, specific, and short. No em-dashes, no "not X but Y" contrasts, no puffery.
-3. **No sidebar callouts.** Never add `[!profile]+`, `[!info]+`, `[!warning]+`, `[!lore]+`, `[!design]+`, or any other `> [!...]` callout. The only blockquote allowed is the `> **[GM]**` zone marker the format specifies.
+3. **Ember blocks only.** Use the six Ember block types (`[!readaloud]`, `[!gamemaster]`, `[!social]`, `[!qna]`, `[!exploration]`, `[!hazard]`) per `adventure-reloaded` and `foundry-journal`. Do not add old-model callouts: `[!profile]`, `[!info]`, `[!warning]`, `[!lore]`, `[!design]`, `[!narrative]`, `[!npc-narrative]`, `[!dialogue]`, or `> **[GM]**` zones.
 4. **Cross-references use bold names, never file paths**: `see the **Renaer Neverember** page`, `the **Harpers** organization page`, `the **Finding Floon** quest`.
 5. **2024 D&D rules and terminology.** Stat-block names in bold (e.g. **Bandit Captain**).
 6. **No dice-roll placeholders or "DM decides" language** in anything you write. If the source has one and the task says to fix it, replace it with a concrete, predecided rule.

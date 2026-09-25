@@ -14,7 +14,7 @@ The patterns below are drawn from directly comparing two official adventures lin
 Don't duplicate work the other D&D skills already do:
 
 - **A full stat block** (AC/HP/ability table/actions, not just a name) embedded in the source → pull it out, convert it with `dnd-monster-converter`, splice the result back in. Don't hand-convert stat blocks here.
-- **Prose voice and encounter structure** (read-aloud craft, `***Treasure.***` formatting, area numbering, sidebar callouts) are governed by `dnd-adventure-text` and `foundry-journal`. Once this skill's terminology and structural passes are done, the text should already conform — this skill fixes *what the old text says*, not *how adventure prose is built*.
+- **Prose voice and encounter structure** (read-aloud craft, `***Treasure.***` formatting, area numbering, Ember block types) are governed by `dnd-adventure-text` and `foundry-journal`. Once this skill's terminology and structural passes are done, the text should already conform — this skill fixes *what the old text says*, not *how adventure prose is built*.
 - If the final output needs to become a Foundry journal, hand off to `foundry-journal` after this conversion pass, not before — convert the rules content first, then format it.
 
 ## Workflow
