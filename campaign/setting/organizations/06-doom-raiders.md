@@ -14,7 +14,7 @@
 >
 > *After Mission 2, the City Watch arrests Davil on suspicion of involvement in the Gralhund Villa incident. Contact passes to **Tashlyn Yafeera**, who communicates exclusively by flying snake. She is Master of Arms and Mercenaries and serves as Captain of the City Guard at the South Gate under Vorondar Levelstone, a dwarf magister whose trust she has carefully built over two years. She is precise and carries sharper intelligence than Davil, because she has been spending the past year building sources inside Manshoon's cell rather than business contacts in the Trades Ward. Her briefings use fewer words and expect more inference.*
 >
-> *Davil is released several weeks after Mission 4. He comes back sharper, more deliberate. The warmth is still there, quieter now.*
+> *Davil is released at the end of Mission 4. He comes back sharper, more deliberate. The warmth is still there, quieter now.*
 
 ## Operations
 

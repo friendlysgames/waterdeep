@@ -71,7 +71,7 @@ When a quest journal exists for a quest, it supersedes the structure doc. Use th
 | `campaign/quests/act-i/trollskull-alley/` | Complete | Trollskull Alley — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. QA'd. |
 | `campaign/quests/act-ii/fireball/` | Complete | Fireball! — `overview.md`, `ev-01`–`ev-07`, `flowchart.md`, `design-notes.md`. |
 | `campaign/quests/act-ii/gralhund-villa/` | Complete | Gralhund Villa — `overview.md`, `ev-01`–`ev-09`, `flowchart.md`, `design-notes.md`. |
-| `campaign/quests/faction-missions/` | Complete | All 43 faction missions (44 folders including BD-M2b optional) across 7 faction subdirectories. Each mission = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`. No Milestone Points awarded. |
+| `campaign/quests/faction-events/` | Complete (structuring draft) | Faction Events for the 7 player factions. Per faction: `00-first-meeting/` (First Meeting event), `m01`–`m06` missions (43 missions, 44 folders including BD-M2b optional; each = `overview.md` + `ev-NN` file(s) + optional `design-notes.md`), `s0N-*` standalone events (14 total: arrests, handoffs, briefings, consequences), and `r03`/`r10`/`r25`/`r50-*` rank-up events (28 total; every `r50` set-piece is expected during Dungeon of the Mad Mage). No Milestone Points awarded. |
 
 The Faction Outposts, Xanathar's Lair, Cassalanter Villa, Sea Maidens Faire, Kolat Towers, and Vault of Dragons quests are pending conversion. Their structure docs are authoritative until quest journals exist.
 
@@ -161,7 +161,7 @@ All guide files are structuring drafts; prose-writing pass deferred to final pol
 | File | Contents |
 |---|---|
 | `01-overview.md` | How renown works, running faction missions, page map |
-| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting, Renown & Ranks, Missions |
+| `02-harpers.md` … `07-doom-raiders.md` | Player factions: Grand Game Stance, Quest Hooks, First Meeting (summary + link to its event), Renown & Ranks, Missions |
 | `08-bregan-daerthe.md` | Player and villain faction: the player-faction sections plus Response Teams, Outposts, Escalation, Revelation List |
 | `09-xanathars-guild.md`, `10-manshoons-zhentarim.md`, `11-cassalanters.md` | Villain factions: Response Teams, Outposts, Escalation, Revelation List |
 
@@ -343,6 +343,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
 
+**Cassalanter secrecy:** Everybody is suspicious of the Cassalanters because they're too nice to be this rich and this purebred. Nobody knows they're infernalists. No faction or NPC knows about the Asmodean pact, the soul contract or the family's infernalism before the party discovers it; use suspicion, never knowledge.
+
 **Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
 
 **Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.
@@ -360,6 +362,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 **Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits that pollute the git log. The handoff must be the last commit of every session.
 
 **Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 4.6) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. Drafting goes to `prose-drafter`, which is pinned to Sonnet 4.6. Never draft with a `general-purpose` agent on the `sonnet` alias, because that alias resolves to the newest Sonnet, not 4.6. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
+
+**Agent concurrency cap:** Never run more than 5 agents at once. Queue further work and launch it as running agents finish.
 
 **Wait to be asked:** Never begin researching or writing the next section (faction, quest, guide) without an explicit user request. Complete the current task, then stop.
 

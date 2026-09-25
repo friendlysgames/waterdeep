@@ -1,52 +1,53 @@
 # Force Grey
 
-Game mechanics for running Force Grey as a player faction. For who Force Grey are, see the **Force Grey** organization page.
+For who Force Grey are, see the **Force Grey** organization page.
 
 ## Grand Game Stance
 
-Vajra's mandate is the city, specifically the parts of the city that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. She knows an archmage has returned; Hlam's first message gave her Manshoon's shape without the name. She does not yet know the Stone of Golorr has resurfaced or that four factions are competing for the vault.
+Vajra's mandate is the city — specifically the parts that arcane threats touch. At campaign start, she knows about Xanathar's mind-control operations and has confirmed that Nihiloor is the operating intelligence behind them. An archmage has returned; Hlam's first message gave her Manshoon's shape without the name. She doesn't yet know the Stone of Golorr has resurfaced, or that four factions are competing for the vault.
 
-She learns this incrementally through the party. Each mission adds a piece: Hlam's warning about the buried thing waking from Mission 1, the Bregan D'aerthe submarine from Mission 2. By Mission 4 she knows the intellect devourer factory's location. When the party brings her the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
+She learns this incrementally through the party. Mission 1 adds Hlam's warning about the buried thing waking; Mission 2 brings the Bregan D'aerthe submarine. By Mission 4 she knows the intellect devourer factory's location. When the party delivers the full Grand Game picture — all four factions, the Stone, the vault, the timeline — she goes still for a long time and then begins writing.
 
 **What Force Grey shares proactively:**
 - Preparatory spells and consumables before missions (Renown 3+: one spell up to 3rd level per tenday; Renown 10+: a mage from Tower staff for one operation per quest)
 - Arcane analysis of any artifact, document, or creature the party brings her — she will tell them what she finds, because it costs her nothing to share intelligence with people she trusts
-- Legal cover, once per quest, for an otherwise-illegal action the party needed to take to resolve a genuine threat. This is the Blackstaff's authority — she uses it carefully and does not like being asked to use it
+- Legal cover, once per quest, for an otherwise-illegal action the party needed to take to resolve a genuine threat. This is the Blackstaff's authority — she uses it carefully and doesn't like being asked to use it
 
 **What Force Grey asks for:**
 - Intelligence about magical threats before they become crises
-- A complete picture of the Grand Game, once the party has it to give. This is the most valuable thing they can do for Waterdeep
-- That the party not tell Vajra only what she wants to hear. She has people for that and does not need more
+- A complete picture of the Grand Game, once the party has it to give — the most valuable thing they can do for Waterdeep
+- That the party not tell Vajra only what she wants to hear. She has people for that and doesn't need more
 
-**Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it is sealed away again. These are her priorities in order. Her concern is which outcome leaves Waterdeep standing. The rest is scoring.
+**Grand Game goal:** The vault gold to the treasury. Nihiloor dead. Manshoon's arcane operations dismantled. The Stone of Golorr studied and understood before it's sealed away again. These are her priorities in order. Her concern is which outcome leaves Waterdeep standing. The rest is scoring.
 
 ## Quest Hooks
 
 | Quest | Force Grey Hook |
 |-----|----------------|
 | **Fireball!** | The fireball's magical signature is wrong in a specific way — the residue suggests a *nimblewright* detonation, which is registered manufacture. Vajra contacts the party the following day: she wants their firsthand account of the blast site. |
-| **Gralhund Villa** | Gralhund Villa had Xanathar Guild activity in proximity to a Watch checkpoint the Guild has not previously approached. Vajra wants a full debrief. Specifically: any sign of Nihiloor's presence, any implanted citizens encountered, any evidence of coordination between the Guild and outside parties. |
+| **Gralhund Villa** | Gralhund Villa had Xanathar Guild activity in proximity to a Watch checkpoint the Guild hasn't previously approached. Vajra wants a full debrief. Specifically: any sign of Nihiloor's presence, any implanted citizens encountered, any evidence of coordination between the Guild and outside parties. |
 | **Xanathar's Lair** | Mission 4 is Force Grey's direct contribution to **Xanathar's Lair** — the Spawning Pool is inside Xanathar's lair. The mission and the quest are the same event. |
-| **Cassalanter Villa** | Vajra holds documentation on the Cassalanter infernal contract — Thayan provenance, acquired through a network she will not specify. She will share it with the party if they commit to recovering the original contract from the villa. She wants the original for study. "A copy tells me what was agreed. The original tells me what was actually meant." |
-| **Vault of Dragons** | If the party has delivered the Grand Game briefing: Vajra is present at the vault opening, provides active magical containment, and stands ready to deal with anything the vault holds that shouldn't be held. If not: she arrives late and finds the situation requiring cleanup she was not prepared for. |
+| **Cassalanter Villa** | External arcane scrying from Blackstaff Tower has flagged persistent conjuration and abjuration residue beneath the Cassalanter villa — deep, consistent with binding circles, impossible to confirm without interior access. Vajra tells the party what her scrying found and offers Blackstaff Tower's full investigative resources in return for whatever physical evidence they recover. "I can see the outline. I need what's inside." |
+| **Vault of Dragons** | If the party has delivered the Grand Game briefing: Vajra is present at the vault opening, provides active magical containment, and stands ready to deal with anything the vault holds that shouldn't be held. If not: she arrives late and finds the situation requiring cleanup she wasn't prepared for. |
 
 ## First Meeting
 
-- *Sending* spell reaches one party member: "I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."
-- If declined: contacts a different member next day; if declined again, waits until next level — notes the refusals, doesn't take them personally
-- Tower door opens before they speak (they were expected)
-- Vajra at standing desk — doesn't move to a sitting room; offers Gray Hands (not Force Grey) — entry tier, pending track record
-- References Renaer's endorsement, the **Finding Floon** warehouse; current priority framed as magical coercion: people acting against their will in positions of influence; Watch can't touch it
-- On acceptance: brief note, door opens by itself; closes: "Try to get some sleep. The work does not wait for people to be rested."
+Vajra sends a *Sending* to one party member by name; a second refusal closes the offer until the party advances a level. She receives them at her standing desk at Blackstaff Tower — door already open — and offers Gray Hand status, citing Renaer's endorsement and the **Finding Floon** warehouse. She closes with: *"Try to get some sleep. The work does not wait for people to be rested."*
+
+Full scene: [**Force Grey First Meeting**](../../quests/faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
 
 ## Renown & Ranks
 
-- **Report a significant arcane threat to Vajra before it becomes a crisis (+1).** Intellect devourers in city officials, a necromancer in the City of the Dead, an illegal gate or summoning circle discovered during Grand Game operations — any magical threat the Watch cannot handle. Once per confirmed new threat.
-- **Bring the Grand Game fully to Vajra's attention (+2).** A formal briefing with sufficient evidence for Vajra to escalate to Laeral Silverhand. One of the most consequential acts a Gray Hand can perform; transforms the political landscape of the campaign's final act.
-- **Purge an intellect devourer infestation or free a mind-controlled Waterdavian (+1).** Directly countering Xanathar's mind-control operations is Force Grey's most urgent Grand Game priority. A single implanted citizen counts as one incident; discovering and purging an entire network counts as two.
+### Earning Renown
+
+- **Report a significant arcane threat to Vajra before it becomes a crisis (+1).** Intellect devourers in city officials, a necromancer in the City of the Dead, an illegal gate or summoning circle discovered during Grand Game operations — any magical threat the Watch can't handle. Once per confirmed new threat.
+- **Bring the Grand Game fully to Vajra's attention (+2).** A formal briefing with sufficient evidence for Vajra to escalate to Laeral Silverhand. One of the most consequential acts a Gray Hand can perform; it transforms the political landscape of the campaign's final act.
+- **Purge an intellect devourer infestation or free a mind-controlled Waterdhavian (+1).** Directly countering Xanathar's mind-control operations is Force Grey's most urgent Grand Game priority. A single implanted citizen counts as one incident; discovering and purging an entire network counts as two.
 - **Protect Blackstaff Tower or its staff from a direct threat (+2).** Any coordinated attack on Blackstaff Tower is taken personally by Vajra.
-- **Assist Vajra with arcane research connected to the Stone of Golorr or the Vault (+1).** Delivering a Golorr artifact for examination, exploring a relevant tunnel network, translating a relevant text — even when Vajra has not formally assigned the task.
-- **Keep Laeral Silverhand's involvement in the Grand Game clean (+1).** Force Grey's value to the Open Lord lies partly in its deniability. Characters who resolve a problem without creating a political incident earn Vajra's appreciation in a way flashy violence does not. Once per quest.
+- **Assist Vajra with arcane research connected to the Stone of Golorr or the Vault (+1).** Delivering a Golorr artifact for examination, exploring a relevant tunnel network, translating a relevant text — even when Vajra hasn't formally assigned the task.
+- **Keep Laeral Silverhand's involvement in the Grand Game clean (+1).** Force Grey's value to the Open Lord lies partly in its deniability. Characters who resolve a problem without creating a political incident earn Vajra's appreciation in a way flashy violence doesn't. Once per quest.
+
+### Force Grey Ranks & Benefits
 
 | Renown | Rank | Benefits |
 |--------|------|----------|
@@ -63,15 +64,18 @@ She learns this incrementally through the party. Each mission adds a piece: Hlam
 | 2nd | **Consulting Hlam** | Climb to the hermit monk Hlam's cave on the slopes of Mount Waterdeep and extract whatever intelligence he has on current threats to the city. The ascent is the first challenge. | +2 |
 | 3rd | **The Dragon in the Harbor** | A young bronze dragon named Zelifarn has taken up residence in Deepwater Harbor. Determine its intentions. Vajra provides *potions of water breathing* for the dive. | +2 |
 | 4th | **The Trouble with Meloon** | Force Grey operative Meloon Wardragon has been behaving erratically. Observe him for a tenday and report back. What the characters discover may reveal the reach of Xanathar's mind-control operations — and require more than surveillance to resolve. | +3 |
-| 5th | **Destroy the Intellect Factory** | Xanathar is using intellect devourers to seize control of key Waterdavians throughout the city. Infiltrate the beholder's lair and destroy whatever is creating these horrors. Vajra covers the cost of any *raise dead* spells required. | +3 |
+| 5th | **Destroy the Intellect Factory** | Xanathar is using intellect devourers to seize control of key Waterdhavians throughout the city. Infiltrate the beholder's lair and destroy whatever is creating these horrors. Vajra covers the cost of any *raise dead* spells required. | +3 |
 | 6th | **The Legate's Eyes** | Three Watch magistrates have reversed rulings benefiting Guild interests. Track and extract Orvyn Dall, a Watch appeals clerk running a self-sustaining Nihiloor intellect devourer legacy operation, without triggering a Watch investigation. | +4 |
 | 7th | **Smoke in the Tower** | A Manshoon Splinter mole named Vira Solkan has embedded herself in Blackstaff Tower to install a resonance disruptor that would open a four-hour window for a Kolat Towers strike team to assassinate Vajra. Find her and stop the attack. | +4 |
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Force Grey** organization page
-- Force Grey **Faction Missions** quest journals
+- [Force Grey Faction Events](../../quests/faction-events/force-grey/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - Notable Figures: **Vajra Safahr**
+- First Meeting: [Force Grey First Meeting](../../quests/faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [The Full Picture](../../quests/faction-events/force-grey/s01-the-full-picture/ev-01-the-full-picture.md)
+- Rank events: [Junior Griffon](../../quests/faction-events/force-grey/r03-junior-griffon/ev-01-junior-griffon.md), [Senior Griffon](../../quests/faction-events/force-grey/r10-senior-griffon/ev-01-senior-griffon.md), [Force Grey](../../quests/faction-events/force-grey/r25-force-grey/ev-01-force-grey.md), [Force Grey Commander](../../quests/faction-events/force-grey/r50-force-grey-commander/ev-01-force-grey-commander.md)

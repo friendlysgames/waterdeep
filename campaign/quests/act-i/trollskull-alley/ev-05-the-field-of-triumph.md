@@ -54,7 +54,7 @@ Win or lose, Meloon is first across the sand when the yield is called — firm h
 
 Award **Meloon Met (Field of Triumph)** attunement.
 
-Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Missions quest journals (Mission 3).
+Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Events (Mission 3).
 
 ### Xanathar Guild Contact
 

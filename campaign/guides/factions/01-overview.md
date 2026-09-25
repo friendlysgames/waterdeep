@@ -1,6 +1,6 @@
 # Factions
 
-This guide covers factions as game mechanics. Each page in it tells you how a faction recruits, what it offers and demands, how its missions run, and what its position is in the Grand Game. The **Organizations** pages in the Setting hold the companion material: history, structure, internal politics, and the lore a player-character member would absorb over time. You can run faction play from this guide alone; the Organizations pages deepen it.
+Each faction page covers how that faction recruits, what it offers members and demands in return, how its missions run, and where it stands in the Grand Game. History, internal structure, politics, and the lore a member would absorb over time live in the **Organizations** pages in the Setting. The mechanics here stand alone; the Organizations pages deepen them.
 
 ## How Renown Works
 
@@ -8,15 +8,15 @@ Renown is tracked as a separate numerical score for each faction a character bel
 
 **Calibration.** A character who completes all six faction missions and earns available Grand Game bonuses will reach approximately Renown 30–35 by the late heist quests, enough for the Renown 25 rank in their primary faction and Renown 10–15 in a secondary one. Build late-game faction payoffs with that range in mind.
 
-**Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. A character who repeatedly accepts and abandons assignments does not. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
+**Lords' Alliance discipline.** "Refusing or failing a mission without compelling reason" means a mission explicitly assigned by Jalester, not missions the character chose not to pursue independently. A character who declines a mission because it conflicts with a position they've maintained consistently throughout the campaign has a compelling reason. Someone who repeatedly accepts and then abandons assignments doesn't. Formal suspension removes mission access until Jalester reinstates them, usually after a demonstrated act of service to the city. Dismissal is permanent and removes all ranks and benefits, though not the Renown score itself, which becomes inert.
 
 **Tracking.** Keep the per-faction Renown score on the session notes alongside the character sheet. Renown changes take effect immediately; a character who earns enough for a new rank gains its benefits before the next scene.
 
 ## Running Faction Missions
 
-Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals. Faction missions award no Milestone Points.
+Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Events** quest journals; each faction's folder holds a First Meeting event, missions (m01–m06), standalone events (s0N) that fire on specific triggers, and rank-up events (r03, r10, r25, r50). They award no Milestone Points.
 
-**A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the PCs.
+**A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the party.
 
 **Mission delivery.** Unless noted, missions arrive via the faction's preferred method: paper birds for Harpers, flying snakes for Doom Raiders, animal messengers for the Enclave, *Sending* spells for Force Grey.
 
@@ -52,5 +52,5 @@ Each faction operates as an ongoing relationship. Contacts push for information,
 - [GM Guide: Running the Villains](../gm-guide/running-the-villains.md) — escalation tiers, starting knowledge, inter-faction operations
 - [GM Guide: The Grand Game in Play](../gm-guide/grand-game-in-play.md) — weekly faction check, faction state tracking, escalation pace
 - **Organizations** (Setting): [`../../setting/organizations/`](../../setting/organizations/) — faction history, structure, and lore
-- **Faction Missions** (Quest Journals): [`../../quests/faction-missions/`](../../quests/faction-missions/) — full mission write-ups for all seven factions
+- **Faction Events** (Quest Journals): [`../../quests/faction-events/`](../../quests/faction-events/) — First Meeting, missions, standalone events, and rank-up events for all seven factions
 - [Players' Guide: Faction Affiliations](../players-guide/faction-affiliations.md) — player-facing subset

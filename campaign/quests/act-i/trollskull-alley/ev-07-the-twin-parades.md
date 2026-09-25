@@ -54,7 +54,7 @@ Brief social moments, not full scenes:
 
 ### BD Mission Window
 
-If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in the **Bregan D'aerthe** Faction Missions quest journals.
+If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Mission) has not yet been completed: the procession provides a natural window. Vessin is positioned along the parade route. Full mission write-up in the **Bregan D'aerthe** Faction Events.
 
 ### Finalize the Fireball Victim
 

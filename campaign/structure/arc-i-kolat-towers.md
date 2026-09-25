@@ -62,7 +62,7 @@ Run this as a montage of consultations. Each contact adds one piece. The picture
 - Cassalanter Report on the Grand Game (**Cassalanter Villa**): references Manshoon and identifies the towers' location in the Trades Ward, correcting Samara's misdirection.
 - Jarlaxle's Report on the Grand Game (**Sea Maidens Faire**, J30): references Manshoon's Splinter operations.
 - Zhentarim pass-amulets (**Sea Maidens Faire**, Scene 5): recovered from the defeated strike team — physical entry tokens.
-- Doom Raiders intelligence (the **Faction Missions** quest journals, Doom Raiders Missions 5–6): pass-amulet ledger, force-field gap diagram.
+- Doom Raiders intelligence (the **Faction Events** quest journals, Doom Raiders Missions 5–6): pass-amulet ledger, force-field gap diagram.
 
 This quest is the convergence point for every faction's Manshoon intelligence. A party that spread across multiple quests arrives here having assembled the picture from multiple angles. A party that skipped most of those quests arrives having assembled less but still enough — Samara's testimony alone names the target.
 
@@ -319,7 +319,7 @@ The quest's encounters are calibrated for the 4th–7th level range this flexibi
 - **Vault of Dragons** — "Manshoon operational?" flag + intelligence haul (Report on the Grand Game, partial command phrase) directly shape the Vault approach.
 - **Notable Figures** — Existing profiles: Manshoon, Sidra Romeir, Manafret Cherryport, Vevette Blackwater, Agorn Fuoco, Urstul Floxin, Lady Gondafrey, Skeemo Weirdbottle. New profiles needed: Kaevja Cynavern, Havia Quickknife, Mookie Plush, Yorn the Terror.
 - **the Bestiary (not yet drafted)** — Boss stat block needed: Manshoon (with simulacrum mechanic distinction). Standard stat blocks needed: Havia Quickknife, Mookie Plush.
-- the **Faction Missions** quest journals (Doom Raiders Missions 5–6) — intelligence products feeding Scenes 1 and 2.
+- the **Faction Events** quest journals (Doom Raiders Missions 5–6) — intelligence products feeding Scenes 1 and 2.
 - **Doom Raiders** Factions guide page — Quest Hooks section; full operation write-up for the Kolat Towers parallel action.
 - **Running the Villains** (GM Guide) — Manshoon faction overview, escalation framework, Kolat Towers lair entry (line 502: Trades Ward).
 - The **Trollskull Manor** guide — corrected from "Southern Ward" to "Trades Ward."

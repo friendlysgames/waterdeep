@@ -9,12 +9,12 @@
 > - Seven factions send invitations to eligible party members — per-character, not per-party
 > - BD surveillance escalates to the J.B. Nevercott doorstep visit; the Watch-report branch severs contact
 > - Faction renovation financing becomes available once contact is established
-> - Level 2 missions unlock once enrollment is confirmed; full write-ups in the **Faction Missions** quest journals
+> - Level 2 missions unlock once enrollment is confirmed; full write-ups in the **Faction Events** quest journals
 > - Filthy Meg is named as a Dock Ward source by Harpers or Doom Raiders
 >
 > **Milestone: 1 Milestone Point** — factions enrolled; renovation financing secured.
 >
-> Cross-ref the **Factions** guide pages (all First Meeting scenes, BD Remix Option), the **Faction Missions** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
+> Cross-ref the **Factions** guide pages (all First Meeting scenes, BD Remix Option), the **Faction Events** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
 
 ### Invitations Arrive
 
@@ -27,26 +27,24 @@ Over the course of the renovation period, each faction sends invitations through
 | **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Finding Floon |
 | **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Paladins, clerics, characters with strong moral conviction |
 | **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Finding Floon |
-| **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
+| **Bregan D'aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
-First Meeting scenes for all seven factions are in the **Factions** guide pages.
+Each faction's First Meeting is its own event:
 
-### Bregan D'Aerthe Recruitment
+- Harpers: [**Harpers First Meeting**](../../faction-events/harpers/00-first-meeting/ev-01-first-meeting.md)
+- Lords' Alliance: [**Lords' Alliance First Meeting**](../../faction-events/lords-alliance/00-first-meeting/ev-01-first-meeting.md)
+- Emerald Enclave: [**Emerald Enclave First Meeting**](../../faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md)
+- Order of the Gauntlet: [**Order of the Gauntlet First Meeting**](../../faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md)
+- Force Grey: [**Force Grey First Meeting**](../../faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
+- Doom Raiders: [**Doom Raiders First Meeting**](../../faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md)
+- Bregan D'aerthe: [**Bregan D'aerthe First Meeting**](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)
 
-Any PC may notice the surveillance over several days (passive Perception 18 to spot glimpses; **DC 15 Wisdom (Insight)** to confirm the watchers are drow with a particular interest in the party, and in drow party members if any).
+### Bregan D'aerthe Recruitment
 
-#### Party Branch — Reports Surveillance to the Watch
+D'aerthe spies shadow the party for several days. The party may recognize them; if they report the surveillance to the Watch, contact ends permanently. Otherwise, J.B. Nevercott — haberdasher, burgundy coat, *hat of disguise* — arrives at Trollskull Manor's front door, maintains his fiction until he is secure, then names Bregan D'aerthe and offers a first assignment. If **Ryvarra Identified** is True, his opening shifts.
 
-Jarlaxle ends contact. **BD Contact Severed** attunement. BD membership is closed for the campaign; Jarlaxle's awareness of the party persists into Sea Maidens Faire.
-
-#### Party Branch — Confronts the Drow Spies Directly
-
-The spies melt away and leave a single black eye patch on the cobblestones. The next morning, a haberdasher named **J.B. Nevercott** knocks at the manor's front door and maintains the fiction of a hat merchant for as long as it amuses him. The full First Meeting scene — including J.B. Nevercott's read-aloud text and the moment the fiction drops — is in the **Bregan D'aerthe** Factions guide page. Award **BD Contact Established** attunement.
-
-#### Party Branch — Does Nothing
-
-Surveillance continues for the rest of the week. At the end of the week, **J.B. Nevercott** knocks at the manor's front door. The visit arrives whether or not the party noticed the watchers. If **Ryvarra Identified** is True, the party already knows what they are dealing with — the First Meeting scene in the **Bregan D'aerthe** Factions guide page notes how Nevercott's opening differs. Award **BD Contact Established** attunement.
+*Full First Meeting write-up, including all three branches and the Nevercott scene: [**Bregan D'aerthe First Meeting**](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 
 ### Faction Renovation Assistance
 
@@ -59,23 +57,23 @@ Once contact is established, each faction's financing offer becomes available. F
 | Emerald Enclave | *Fabricate* casting — −250 gp off renovation cost | No monetary cost; Melannor visits twice to cast |
 | Order of the Gauntlet | Guild connections — faster scheduling, favorable rates | Net 100 gp savings; Savra is visible at the site |
 | Doom Raiders | Istrid Horn's Black Network loan — 400 gp | Party-set repayment; Istrid wants no Watch attention |
-| Bregan D'Aerthe | Full bankrolling — up to 1,250 gp | Repayable in "operational access"; Jarlaxle's terms |
+| Bregan D'aerthe | Full bankrolling — up to 1,250 gp | Repayable in "operational access"; Jarlaxle's terms |
 | Force Grey | Tiny Hut and vault scrolls | No gold, but security value; Vajra notes the obligation |
 
 The party's financing choices are their first real faction commitments.
 
 ### Level 2 Missions
 
-Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in the **Faction Missions** quest journals:
+Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in the **Faction Events** quest journals:
 
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
-| Lords' Alliance | Protecting the Dungsweepers | Ten-day guard duty; carrion crawler on day nine |
+| Lords' Alliance | The Long Watch | Ten-day guard duty; carrion crawler on day nine |
 | Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
 | Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
 | Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
-| Bregan D'Aerthe | The Handkerchief Job | Obtain a noble's silk handkerchief; deliver it to a tiefling girl named Vessin |
+| Bregan D'aerthe | The Handkerchief and the Girl | Obtain a noble's silk handkerchief; deliver it to a tiefling girl named Vessin |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
 
 **Force Grey Mission 1** delivers a key Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon; recalibrates on a second hearing.
@@ -97,15 +95,15 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 ### Concluding the Event
 
 #### Harpers Joined: True / False
-At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Missions** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
+At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Events** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
-#### Lords Alliance Joined: True / False
+#### Lords' Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.
 
 #### Emerald Enclave Joined: True / False
 At least one party member enrolled with the Emerald Enclave.
 
-#### Order of Gauntlet Joined: True / False
+#### Order of the Gauntlet Joined: True / False
 At least one party member enrolled with the Order of the Gauntlet.
 
 #### Force Grey Joined: True / False
@@ -114,8 +112,8 @@ At least one party member enrolled with Force Grey.
 #### Doom Raiders Joined: True / False
 At least one party member enrolled with the Doom Raiders.
 
-#### Bregan D'Aerthe Joined: True / False
-At least one party member enrolled with Bregan D'Aerthe.
+#### Bregan D'aerthe Joined: True / False
+At least one party member enrolled with Bregan D'aerthe.
 
 #### BD Acknowledged: True / False
 The J.B. Nevercott meeting proceeded. Zardoz Zord's relationship with the party during Sea Maidens Faire is shaped by this flag.
@@ -143,4 +141,4 @@ Seven factions sent invitations to specific party members while the renovation r
 
 ## Summary
 
-Seven factions recruited eligible party members during the renovation period through characteristic delivery methods. Enrollment decisions were made; renovation financing was secured; Level 2 missions became available. The Bregan D'Aerthe surveillance escalated to a direct contact, with outcome depending on party response.
+Seven factions recruited eligible party members during the renovation period through characteristic delivery methods. Enrollment decisions were made; renovation financing was secured; Level 2 missions became available. The Bregan D'aerthe surveillance escalated to a direct contact, with outcome depending on party response.
