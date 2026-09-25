@@ -78,3 +78,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 - Lords' Alliance **Faction Missions** quest journals
 - The **Factions** guide overview
 - Notable Figures for the contacts (**Jalester Silvermane**, **Laeral Silverhand**)
+- Rank events: [**Redknife**](../../quests/faction-events/lords-alliance/r03-redknife/ev-01-redknife.md), [**Stingblade**](../../quests/faction-events/lords-alliance/r10-stingblade/ev-01-stingblade.md), [**Warduke**](../../quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md), [**Lioncrown**](../../quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md)

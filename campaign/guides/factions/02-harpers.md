@@ -80,3 +80,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 - Harpers **Faction Missions** quest journals: full write-ups for The Talking Mare through The Stone's Other Master
 - **Factions** guide overview: all player factions, renown system, conflicting loyalties
 - Notable Figures: **Mirt**, **Remallia "Remi" Haventree**, **Mattrim "Threestrings" Mereg**, **Bonnie**, **Corene Wyldath**, **Variel Duskwhisper**, **Corvin & Nessa Vayle**, **Maxeene**
+- Rank events: [Harpshadow](../../quests/faction-events/harpers/r03-harpshadow/ev-01-harpshadow.md) (Renown 3), [Brightcandle](../../quests/faction-events/harpers/r10-brightcandle/ev-01-brightcandle.md) (Renown 10), [Wise Owl](../../quests/faction-events/harpers/r25-wise-owl/ev-01-wise-owl.md) (Renown 25), [High Harper](../../quests/faction-events/harpers/r50-high-harper/ev-01-high-harper.md) (Renown 50)

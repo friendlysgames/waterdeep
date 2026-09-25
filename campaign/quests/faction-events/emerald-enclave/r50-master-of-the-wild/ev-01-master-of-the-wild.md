@@ -15,7 +15,7 @@
 > > [!design]**Expected in Dungeon of the Mad Mage**
 > > Parties are not expected to reach Renown 50 during Dragon Heist. This rank requires sustained faction engagement through missions and Grand Game actions well beyond what the campaign's main arc provides. This event is designed for the **Dungeon of the Mad Mage** and may fire before or after the **Vault of Dragons** resolution.
 > >
-> > If **Vault of Dragons** has already resolved: Jeryth's closing remarks may reference the dreamer's surface anchor having been dealt with, and the commission in Scene 4 shifts focus to Undermountain's deeper levels. If **Vault of Dragons** has not yet resolved: Jeryth's remarks are forward-looking — something old is still waiting to be addressed.
+> > If **The Dreamer's Reach** (Mission 6) is complete: Jeryth's closing remarks may reference the dreamer's surface anchor having been destroyed, and the commission in Scene 4 shifts focus to Undermountain's deeper levels. If **Vault of Dragons** has not yet resolved: Jeryth's remarks are forward-looking — something old is still waiting to be addressed.
 
 **Background (DM only)**
 
@@ -23,7 +23,7 @@ The Master of the Wild title is not honorary. It is the Enclave's formal acknowl
 
 The *charm of vitality* is Jeryth's personal gift, bestowed through Mielikki's authority. It extends to every party member present at Phaulkonmere at the time of the ceremony, once per campaign — Jeryth's way of marking the party's sustained work alongside the promoted character. She will not explain this or comment on it after. The charm settles into each person present the way the *charm of restoration* did at the First Meeting: without announcement.
 
-The choice at the end of the event is genuine. Melannor asks whether the character will formally accept the Enclave's commission into Undermountain — to track Illuun's reach from below, report what they find, and serve as the Enclave's eyes in the deep. Accepting does not obligate the character to abandon the party or take on solo missions. It opens Enclave support in Undermountain and makes the character the formal point of contact for whatever the Enclave learns below. Declining is also a real choice, and Melannor will not press it.
+The choice at the end of the event is genuine. Melannor asks whether the character will formally accept the Enclave's watch on Illuun from Undermountain — to track Illuun's reach from below, report what they find, and serve as the Enclave's eyes in the deep. Accepting does not obligate the character to abandon the party or take on solo missions. It opens Enclave support in Undermountain and makes the character the formal point of contact for whatever the Enclave learns below. Declining is also a real choice, and Melannor will not press it.
 
 ### The Silent Summons
 
@@ -116,7 +116,7 @@ He waits for the character's answer. He does not press it either direction.
 
 The promoted character reached Renown 50 with the Emerald Enclave. This flag is read by any Dungeon of the Mad Mage event that checks for the highest Enclave rank.
 
-#### Undermountain Commission Accepted: True / False
+#### Illuun Watch Accepted: True / False
 
 The character accepted Melannor's request to serve as the Enclave's point of contact in Undermountain. True: the character receives additional Enclave intelligence support and supply in the Dungeon of the Mad Mage arc. False: the character declined; Melannor does not assign a substitute. This flag is read in Dungeon of the Mad Mage events that track active Enclave presence in the deep.
 
@@ -124,9 +124,9 @@ The character accepted Melannor's request to serve as the Enclave's point of con
 >
 > #### Next Steps
 >
-> If **Undermountain Commission Accepted** is True: Melannor hands the character a folded slip of paper with three signal marks — signs they can leave in Undermountain's tunnels to activate Enclave contact. The six rangers and druids brief the character on the tunnel network's current state, then depart.
+> If **Illuun Watch Accepted** is True: Melannor hands the character a folded slip of paper with three signal marks — signs they can leave in Undermountain's tunnels to activate Enclave contact. The six rangers and druids brief the character on the tunnel network's current state, then depart.
 >
-> If **Undermountain Commission Accepted** is False: Melannor nods. "Understood." He opens the gate. The six rangers and druids depart without comment.
+> If **Illuun Watch Accepted** is False: Melannor nods. "Understood." He opens the gate. The six rangers and druids depart without comment.
 >
 > The *charm of vitality* is in effect for all party members who were present. Note which characters were in the garden.
 

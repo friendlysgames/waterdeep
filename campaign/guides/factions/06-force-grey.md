@@ -76,3 +76,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 - Force Grey **Faction Missions** quest journals
 - **Factions** guide overview
 - Notable Figures: **Vajra Safahr**
+- Rank events: [Junior Griffon](../../quests/faction-events/force-grey/r03-junior-griffon/ev-01-junior-griffon.md), [Senior Griffon](../../quests/faction-events/force-grey/r10-senior-griffon/ev-01-senior-griffon.md), [Force Grey](../../quests/faction-events/force-grey/r25-force-grey/ev-01-force-grey.md), [Force Grey Commander](../../quests/faction-events/force-grey/r50-force-grey-commander/ev-01-force-grey-commander.md)

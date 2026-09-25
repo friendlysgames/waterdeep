@@ -75,3 +75,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 - Emerald Enclave **Faction Missions** quest journals
 - **Factions** guide overview
 - Notable Figures for the contacts
+- Rank events: [Summerstrider (r03)](../../quests/faction-events/emerald-enclave/r03-summerstrider/ev-01-summerstrider.md) · [Autumnreaver (r10)](../../quests/faction-events/emerald-enclave/r10-autumnreaver/ev-01-autumnreaver.md) · [Winterstalker (r25)](../../quests/faction-events/emerald-enclave/r25-winterstalker/ev-01-winterstalker.md) · [Master of the Wild (r50)](../../quests/faction-events/emerald-enclave/r50-master-of-the-wild/ev-01-master-of-the-wild.md)

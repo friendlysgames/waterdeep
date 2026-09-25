@@ -80,3 +80,4 @@ Full mission write-ups are in the **Faction Missions** quest journals.
 - Doom Raiders **Faction Missions** quest journals
 - **Factions** guide overview
 - Notable Figures: **Davil Starsong**, **Yagra Stonefist**, **Tashlyn Yafeera**, **Ziraj the Hunter**, **Istrid Horn**, **Skeemo Weirdbottle**
+- Rank events: [Made Wolf](../../quests/faction-events/doom-raiders/r03-wolf/ev-01-wolf.md) · [Made Viper](../../quests/faction-events/doom-raiders/r10-viper/ev-01-viper.md) · [Made Ardragon](../../quests/faction-events/doom-raiders/r25-ardragon/ev-01-ardragon.md) · [Dread Lord](../../quests/faction-events/doom-raiders/r50-dread-lord/ev-01-dread-lord.md)
