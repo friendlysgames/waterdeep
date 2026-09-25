@@ -82,7 +82,7 @@ He means it as a statement of fact.
 >
 > Ott disappears with Krebbyg before the party wakes on the fourth morning. A note on Trollskull's bar, in neat, unhurried handwriting: *Three nights. Thank you. —Z.Z.*
 >
-> That afternoon, the second anonymous coin pouch arrives: 100 gp, plus a note this time — *A more interesting assignment follows shortly.*
+> That afternoon, the second anonymous coin pouch arrives. See the [**Coin Pouches**](../s01-coin-pouches/ev-01-coin-pouches.md) Standalone Event.
 >
 > Ott, returned to Xanathar's lair, tells the beholder only that he was held in a cellar by humans and does not know where. He does not mention anything connecting the experience to Bregan D'aerthe. Over three evenings of quiet conversation with Krebbyg, he decided he prefers to continue existing. This was a reasonable decision.
 >

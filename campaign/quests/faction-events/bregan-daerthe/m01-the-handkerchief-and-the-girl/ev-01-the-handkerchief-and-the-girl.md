@@ -79,7 +79,7 @@ She is not being dismissive. She is simply finished.
 >
 > Krebbyg can be found at Seven Masks Theater the following morning. He receives the debrief in professional silence, thanks the party in three words, and says he will be in touch.
 >
-> Two days after the debrief, a black coin pouch appears at the party's door: 50 gp in gold pieces and one silver piece. The silver piece has a tiny anchor scratched into it. There is no note.
+> Two days after this debrief, the first anonymous coin pouch arrives at Trollskull Manor's door. See the [**Coin Pouches**](../s01-coin-pouches/ev-01-coin-pouches.md) Standalone Event.
 >
 > #### Milestone: None
 >
