@@ -21,27 +21,25 @@
 The invitation arrives on its own schedule. It comes to a Trollskull Manor window and waits.
 
 > [!readaloud]
-> The paper bird lands on the sill with the deliberate patience of something trained. It folds its wings and holds still.
+> The paper bird lands on the windowsill and waits, wings folded.
 >
-> The note inside unfolds into two tickets for *The Fall of Tiamat* at Lightsinger Theater, a direction to a tailor on Delzorin Street — "they are expecting you" — and a single request: meet in Private Box C at intermission. Formal attire is required.
->
-> The note carries no signature and no seal.
+> The note inside holds two tickets for *The Fall of Tiamat* at Lightsinger Theater, directions to a tailor on Delzorin Street with the words "they are expecting you," and a request to meet in Private Box C at intermission. Formal attire is required. There is no signature.
 
 ### Act 1 at Lightsinger
 
 The party has two stops before the curtain rises. The tailor on Delzorin Street has the attire ready and the bill settled in advance; Mirt is already in Private Box C at Lightsinger Theater when they arrive.
 
 > [!readaloud]
-> The tailor on Delzorin Street opens before you knock. The fittings take perhaps twenty minutes; the garments are already cut, already waiting. A card on the counter reads: *settled*. No one mentions by whom.
+> The tailor on Delzorin Street has the door open before you reach it. The fittings take about twenty minutes, and the garments fit well enough that they must have been cut from a description. A card on the counter says *settled*. The tailor does not explain who paid.
 
 The party makes their way to Lightsinger Theater and Private Box C. Mirt is already there.
 
 > [!readaloud]
-> The box is already occupied when you arrive. A large, gray-haired man in excellent wool sits back from the rail, positioned where the curtain half-hides him. He has ordered wine for more people than were invited.
+> The box is occupied when you arrive. A large, gray-haired man in a good wool suit sits back from the rail in a chair set where the curtain partly hides him from the other boxes. Wine has been poured for more people than were invited.
 >
 > > "Sit. The first act is short."
 >
-> He glances over as you take your seats with a brief, measuring look, then turns back to the stage.
+> He glances toward you as you settle in, takes a look at each face in turn, then turns back to the stage.
 
 He is in no hurry to speak.
 
@@ -51,7 +49,7 @@ He is in no hurry to speak.
 >
 > Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is amused and calculating, always at once.
 >
-> His signature gesture is a slight head-tilt — barely a fraction of a degree — as if he is recalculating something. Characters who treat him as a wealthy eccentric discover their error when the pin appears: it was already in his hand before they finished answering.
+> His habit is a slight tilt of the head while he recalculates something. Characters who take him for a wealthy eccentric find out otherwise when he offers the pin, because he has plainly decided about them before they finish answering.
 >
 > Conversation topics Mirt is willing to discuss during Act 1 include:
 > - Waterdeep gossip and local color — freely
@@ -64,30 +62,32 @@ He is in no hurry to speak.
 
 > [!qna]**Waterdeep gossip?**
 >
-> Mirt tilts his head toward whichever character spoke — the fraction of a degree that passes for his full attention.
+> Mirt tilts his head toward whichever character spoke and considers for a moment.
 >
-> > "I hear things. Whether I share them depends on whether the conversation improves." A pause. "So far it's improving."
+> > "I hear things. Whether I share them depends on whether the conversation improves." He takes a sip of wine. "So far it's improving."
 
 > [!qna]**Have you eaten?**
 >
-> > "Good. A person who hasn't eaten makes poor decisions and worse company." He refills a glass without being asked. "The wine is drinkable. That's the most I'll promise."
+> He nods and reaches over to refill the nearest glass.
+>
+> > "Good. You'd be surprised how many people show up to things without having eaten first." He holds up the bottle to see if anyone else needs topping up. "The wine is decent, anyway. This theater doesn't cut corners on what they serve in the boxes."
 
 > [!qna]**The production?**
 >
-> He watches the stage a moment before answering.
+> He watches the stage for a moment before he answers.
 >
-> > "The second act is better. Tiamat has more to say than the mortals trying to stop her — that's usually true of the interesting ones."
+> > "The second act is better. Tiamat gets more to say. The playwright gave her the better lines. The mortals spend most of Act 1 just reacting to her."
 
 ### The Intermission
 
 At intermission, Mirt sets down his glass and turns to face the box fully, for the first time all evening.
 
 > [!readaloud]
-> At the bell, Mirt sets his glass on the rail. He turns toward you — fully, deliberately — for the first time since you arrived.
+> At the bell, Mirt sets his glass on the rail and turns to face the box directly, something he has not done since you arrived.
 >
 > > "The Harpers. I'll tell you what they are and what they want, and then you can ask questions. After that, you decide."
 >
-> He doesn't wait for anyone to nod.
+> He begins speaking without waiting for a response.
 
 > [!social]**The Offer**
 >
@@ -119,30 +119,28 @@ At intermission, Mirt sets down his glass and turns to face the box fully, for t
 
 > [!qna]**What's the first mission?**
 >
-> He tilts his head the familiar fraction of a degree.
+> He tilts his head.
 >
 > > "You haven't said yes yet."
 
 If the party declines, read or paraphrase the following:
 
 > [!readaloud]
-> Mirt refills his glass. He says nothing else about the Harpers.
+> Mirt refills his glass and does not bring up the Harpers again.
 >
-> When the bell signals the second act, he rises, smooths the front of his jacket, and moves for the door without looking back.
+> When the curtain bell rings, he stands, straightens his jacket, and walks out.
 
 If the party accepts, read or paraphrase the following:
 
 > [!readaloud]
-> The pin is already in his hand before you finish speaking. He doesn't produce it — it was simply there, waiting, as if the decision had been made before he arrived.
->
-> He presses it into the nearest open palm. That is the whole ceremony.
+> Mirt reaches into his jacket and comes out with a small silver pin, a harp-and-crescent. He presses it into the nearest open hand and closes your fingers around it.
 
 Either way, his parting words are the same. Read or paraphrase the following:
 
 > [!readaloud]
 > > *"I am almost never home."*
 >
-> He is gone before the curtain rises.
+> He walks out, and the curtain rises a moment later.
 
 ### Concluding the Event
 
