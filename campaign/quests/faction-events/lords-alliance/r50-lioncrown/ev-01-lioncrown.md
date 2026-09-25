@@ -12,13 +12,13 @@
 > - Laeral introduces **Sevel Dastar**, the dedicated attaché, and explains his terms. The character decides whether to accept him.
 > - At the close, alone with the character, Laeral makes a private request about missing Alliance agents in Undermountain. The character decides whether to accept the commission.
 >
-> > > [!design]**Expected During Dungeon of the Mad Mage**
-> > >
-> > > Parties are not expected to reach Renown 50 during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after the vault has resolved and the campaign descends into Undermountain. It is written to function in both contexts.
-> > >
-> > > **If Vault of Dragons has not yet resolved:** The three questions and Laeral's answers concern the Grand Game's current state. The Undermountain Commission is framed as contingency — "if your path leads there." Sevel Dastar can be deployed for the vault approach if the character accepts him.
-> > >
-> > > **If Vault of Dragons has already resolved:** Laeral's honest answers address what the vault resolution changed — politically, institutionally, and for the characters personally. The Undermountain Commission is concrete rather than speculative. The attaché is assigned for the descent.
+> > [!design]**Expected During Dungeon of the Mad Mage**
+> >
+> > Parties are not expected to reach Renown 50 during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after the vault has resolved and the campaign descends into Undermountain. It is written to function in both contexts.
+> >
+> > **If Vault of Dragons has not yet resolved:** The three questions and Laeral's answers concern the Grand Game's current state. The Undermountain Commission is framed as contingency — "if your path leads there." Sevel Dastar can be deployed for the vault approach if the character accepts him.
+> >
+> > **If Vault of Dragons has already resolved:** Laeral's honest answers address what the vault resolution changed — politically, institutionally, and for the characters personally. The Undermountain Commission is concrete rather than speculative. The attaché is assigned for the descent.
 
 **Background (GM only)**
 

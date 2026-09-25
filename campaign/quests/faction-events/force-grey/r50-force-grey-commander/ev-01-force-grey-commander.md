@@ -14,10 +14,10 @@
 > - Laeral Silverhand arrives and extends the Open Lord's formal recognition
 > - The party chooses how that recognition is recorded: publicly or sealed
 >
-> > > [!design]**Expected in Dungeon of the Mad Mage**
-> > > Reaching Renown 50 with Force Grey requires extended operations well beyond Dragon Heist's timeframe. This event is designed to fire during **Dungeon of the Mad Mage**, not during Dragon Heist. Build it into Undermountain session planning rather than Dragon Heist.
-> > >
-> > > **If Vault of Dragons has already resolved when this event fires:** Laeral's briefing draws directly on that resolution — she names the vault, what the party did, and the political capital it generated. Use dialogue lines marked *[Post-Vault]* below. If Vault of Dragons has not yet resolved, use the unmarked lines. Either way, this event does not alter **Vault of Dragons** — it adds no Dragon Heist plot facts and does not merge with any mission or quest scene.
+> > [!design]**Expected in Dungeon of the Mad Mage**
+> > Reaching Renown 50 with Force Grey requires extended operations well beyond Dragon Heist's timeframe. This event is designed to fire during **Dungeon of the Mad Mage**, not during Dragon Heist. Build it into Undermountain session planning rather than Dragon Heist.
+> >
+> > **If Vault of Dragons has already resolved when this event fires:** Laeral's briefing draws directly on that resolution — she names the vault, what the party did, and the political capital it generated. Use dialogue lines marked *[Post-Vault]* below. If Vault of Dragons has not yet resolved, use the unmarked lines. Either way, this event does not alter **Vault of Dragons** — it adds no Dragon Heist plot facts and does not merge with any mission or quest scene.
 
 **Background (DM only)**
 
