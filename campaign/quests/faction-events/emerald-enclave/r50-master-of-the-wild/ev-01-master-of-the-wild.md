@@ -72,7 +72,7 @@ A character who asks what happened gets a brief answer from Melannor:
 This gift is once per campaign and covers only those present in the garden at this moment.
 
 > [!tip]**The Charm of Vitality**
-> The *charm of vitality* is a supernatural gift listed in the 2024 Dungeon Master's Guide. It typically grants advantage on Constitution saving throws for a set duration. Verify the exact effect against your copy of the 2024 DMG. The charm is deliberately selected as distinct from the *charm of restoration* given at Rank 1 (joining) and the *charm of heroism* given upon completing **The Grells in the Dock Ward** (Mission 4) — the gift at Master of the Wild is one of endurance and natural resilience, fitting Mielikki's domain.
+> The *charm of vitality* (2024 *Dungeon Master's Guide*) lets its bearer give themselves the benefit of a *potion of vitality* as a Magic action, once; then the charm vanishes. The charm is deliberately selected as distinct from the *charm of restoration* given at Rank 1 (joining) and the *charm of heroism* given upon completing **The Grells in the Dock Ward** (Mission 4) — the gift at Master of the Wild is one of endurance and natural resilience, fitting Mielikki's domain.
 
 ### The Operational Support
 
