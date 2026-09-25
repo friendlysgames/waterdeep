@@ -43,7 +43,7 @@ He does not offer the wine. Anyone who has spent time with Mirt knows he always 
 
 He tells them: someone inside the Waterdeep Harper cell is reporting operational intelligence to Manshoon's people. He knows because the Splinter acted on information that only moved through Harper channels, on a timeline that rules out independent discovery. He names the incident from the party's mission history.
 
-Then he sets the folded parchment aside. He is not interested in their reaction. He is interested in getting to the next part.
+Then he sets the folded parchment aside.
 
 > > "I have fourteen people who touched what leaked. That's too many to accuse and too many to trust. I'm running something to narrow it down. When I have a name, you'll have a name."
 

@@ -27,7 +27,7 @@ The three-agent team is a coordinated deployment: simultaneous entry, a protecti
 
 The archive access covers Harper intelligence records for the North: informant reports from the past five years, faction movement patterns, historical operations and their outcomes. It does not give access to the current identities of embedded operatives.
 
-The Masked Lord reveal is real. Mirt is not performing equanimity. He chose to tell the character because the rank has earned it, and because having a High Harper who doesn't know what Mirt can actually do limits what they can plan together. He is genuinely calm about saying it, but the decision to say it was not small.
+The Masked Lord reveal is real. Mirt's equanimity is real. He chose to tell the character because the rank has earned it, and because having a High Harper who does not know what Mirt can actually do limits what they can plan together. He is calm; the decision was significant.
 
 ### The Summons
 
@@ -63,7 +63,7 @@ Remi hands over the third persona documentation across the table. She built it b
 
 > [!profile]**Running Mirt at High Harper**
 >
-> This is the only meeting where Mirt is slightly uncomfortable, and the discomfort is small and real. He has run field operations for decades from behind a persona of cheerful vulgarity; being seen clearly costs something, even by people he trusts. Play it as a brief pause before the reveal, a moment where he seems to consider whether to say the next sentence before saying it. Not reluctance — just weight.
+> This is the only meeting where Mirt is slightly uncomfortable, and the discomfort is small and real. He has run field operations for decades from behind a persona of cheerful vulgarity; being seen clearly costs something, even by people he trusts. Play it as a brief pause before the reveal, a moment where he seems to consider whether to say the next sentence before saying it. The pause carries weight.
 
 ### The Revelation
 
@@ -71,11 +71,11 @@ Mirt sets down his glass. The shift in manner is slight but legible.
 
 > *"There's one more thing. I don't say this to people in the field. I haven't said it to anyone in this cell except Remi."*
 
-A pause — genuinely brief, not theatrical.
+A brief pause.
 
 > *"I'm a Masked Lord of Waterdeep."*
 
-He waits. He watches the party's response, and his calm during the silence is actual calm — the decision to say it was not small, but the saying is done.
+He waits. He watches the party's response. He is calm during the silence; the decision was significant, and it is behind him.
 
 He explains what it means. The Lords of Waterdeep govern the city's highest affairs from behind masks, anonymous in principle even to each other. His public life as a moneylender is real. His Harper work is real. The Masked Lord seat is the third layer, the one that makes the other two possible, and the one he has never named to anyone carrying a sword for a living until now.
 

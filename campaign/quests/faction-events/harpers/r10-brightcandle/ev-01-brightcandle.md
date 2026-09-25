@@ -40,7 +40,7 @@ He names the **Spy** stat block in passing — not as a boast, as information th
 
 ### Remi on the Persona
 
-**Remi Haventree** (Sun elf, Chaotic Good, she/her) asks three questions. She is unhurried and attentive; every answer gets the kind of attention that suggests she is building something in the back of her mind as the character speaks.
+**Remi Haventree** (Sun elf, Chaotic Good, she/her) asks three questions. She is unhurried and attentive; every answer earns her full attention as she assembles something she does not yet name.
 
 Where did you grow up. What did you do before Waterdeep. What trade could you pass for — in a casual conversation, without preparation.
 

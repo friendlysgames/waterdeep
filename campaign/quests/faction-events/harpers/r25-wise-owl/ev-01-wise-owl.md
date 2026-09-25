@@ -39,7 +39,7 @@ Three embedded contacts. Mirt names their posting without naming them.
 
 > *"One in Xanathar's operation. One in the Sea Maidens Faire. One close enough to Manshoon's people to hear the important conversations. You reach them through me — one specific question, not 'tell me everything.' If they can answer, they will. If they're unavailable that tenday, they're unavailable."*
 
-The activation is a DC 13 Charisma check — not a persuasion attempt, but the craft of framing a request the informant can act on without exposure. Failure means the informant is unavailable for two tendays; they are not burned, only uncontactable.
+The activation is a DC 13 Charisma check — the craft of framing a request the informant can act on without exposure. Failure means the informant is unavailable for two tendays but not burned.
 
 > *"Ask precise questions. Vague requests get vague answers at best and a compromised asset at worst."*
 
@@ -71,7 +71,7 @@ The note is in Laeral Silverhand's hand: a meeting time, a location in the Palac
 
 ### The Second Persona
 
-Remi does not build this one in the room. A folded document arrives at Trollskull Manor within two days: cover name, three-year trading history, receipts, and a guild associate who will confirm the story in a face-to-face conversation. Better infrastructure than the first persona, and better suited to contexts where the character needs credibility rather than mere anonymity.
+Remi does not build this one in the room. A folded document arrives at Trollskull Manor within two days: cover name, three-year trading history, receipts, and a guild associate who will confirm the story in a face-to-face conversation. More substantial than the first persona, and suited to contexts where the character needs credibility rather than anonymity.
 
 ### Concluding the Event
 

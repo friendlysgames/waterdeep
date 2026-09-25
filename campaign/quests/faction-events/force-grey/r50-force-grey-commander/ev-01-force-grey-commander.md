@@ -23,9 +23,9 @@
 
 Force Grey Commander is not a rank Vajra creates often. The count of people who have held it in three years of her tenure is single digits. This is the point where she gives the party operational command of Force Grey assets — real command, not loan arrangements — and it requires a different kind of conversation than anything that preceded it.
 
-She contacted Laeral separately. That process was not comfortable. Laeral Silverhand is the Open Lord and Vajra's nominal superior, and Vajra has spent three years maintaining as much independence from that relationship as the institution allows. Calling Laeral in for this — for a recognition she could have handled herself — is an acknowledgment that the party has done something belonging to the Open Lord's authority to acknowledge, not just the Blackstaff's. Vajra has done this once before in her tenure. It went fine. She is aware that is not a guarantee.
+She contacted Laeral separately. That process was not comfortable. Laeral Silverhand is the Open Lord and Vajra's nominal superior, and Vajra has spent three years maintaining as much independence from that relationship as the institution allows. Calling Laeral in for this — for a recognition she could have handled herself — is an acknowledgment that the party has done something belonging to the Open Lord's authority to acknowledge rather than the Blackstaff's alone. Vajra has done this once before in her tenure. It went fine. She knows it is no guarantee.
 
-The choice about how the recognition is recorded is genuine. Public recognition means the city knows who they are and what they've done; enemies know too. Private recognition means the capability without the profile — the city's formal thanks exists in a sealed record, not in the broadsheets. Vajra has no preference. She says this plainly because it is true.
+The choice about how the recognition is recorded is genuine. Public recognition means the city knows who they are and what they have done; enemies know too. Private recognition means the capability without the profile — the city's formal thanks exists in a sealed record, not in the broadsheets. Vajra has no preference. She says this plainly because it is true.
 
 ### The Sending
 
@@ -35,9 +35,9 @@ The *Sending* arrives early — before the city is fully awake, not at mid-morni
 
 ### Blackstaff Tower
 
-The door opens. Vajra is not at the desk. She's at the narrow window at the back of the study, the one that faces Mount Waterdeep's slope. She doesn't turn immediately.
+The door opens. Vajra is at the narrow window at the back of the study, the one that faces Mount Waterdeep's slope. She does not turn immediately.
 
-When she does, she crosses to the desk. The Blackstaff is where it always is. She doesn't touch it.
+When she does, she crosses to the desk. The Blackstaff is where it always is. She does not touch it.
 
 > > "Force Grey Commander. I've been Blackstaff for three years. This is the third time I've given this rank."
 
@@ -51,7 +51,7 @@ She opens the bottom drawer and produces a folded document — heavier stock tha
 
 > > "They're not your soldiers. They're Tower staff on extended assignment. The distinction matters to the people on the team, and it should matter to you. They follow your operational lead. They debrief to me. This has not changed."
 
-Aldris Maeven — the mage who has worked with the party since Senior Griffon rank — leads the arcane element. The four veterans are named in the commission document. Vajra does not introduce them individually today; they'll be available to the party within a tenday.
+Aldris Maeven — the mage who has worked with the party since Senior Griffon rank — leads the arcane element. The four veterans are named in the commission document. Vajra does not introduce them individually today; they will be available to the party within a tenday.
 
 She sets the commission on the desk and crosses to a door at the back of the study. It has always been there. She has never opened it in their presence. A word and a gesture unlocks it.
 
@@ -96,7 +96,7 @@ She gives the party a moment. Then:
 >
 > ***Resonance.*** Laeral should inspire awe with her centuries of power and history, sympathy with the burden of leadership she accepted reluctantly, and unease when the party glimpses how diminished she truly is.
 >
-> ***Persona.*** To the world, Laeral Silverhand is the Open Lord of Waterdeep, fifth of the Seven Sisters, a formidable archmage. To those she trusts, she's a woman who took the job because the Masked Lords asked and no one else could hold the city together. She avoids direct expenditures of power when possible — every use reveals how much she has lost since the Spellplague, and the extent of that decline is a state secret.
+> ***Persona.*** To the world, Laeral Silverhand is the Open Lord of Waterdeep, fifth of the Seven Sisters, a formidable archmage. To those she trusts, she is a woman who took the job because the Masked Lords asked and no one else could hold the city together. She avoids direct expenditures of power when possible — every use reveals how much she has lost since the Spellplague, and the extent of that decline is a state secret.
 >
 > ***Relationships.*** Laeral is the widow of Khelben Arunsun, the original Blackstaff. She is Vajra's nominal superior — and she views Vajra, privately, as an insecure young woman wielding her dead husband's staff. Neither of them comments on this in the other's presence.
 

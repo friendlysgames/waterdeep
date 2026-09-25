@@ -39,7 +39,7 @@ He answers one question about faction activity or Waterdeep politics as the firs
 
 > [!profile]**Running Mirt at Harpshadow**
 >
-> The promotion is acknowledged and immediately moved past. Mirt does not make ceremonies. If a character seems tempted to use the contacts for personal matters rather than faction intelligence, his response is a short silence and then a change of subject. The contacts are for actionable intelligence. He trusts the character to understand the distinction.
+> Mirt acknowledges the promotion and moves past it immediately. He does not make ceremonies. If a character seems tempted to use the contacts for personal matters rather than faction intelligence, his response is a short silence and then a change of subject. The contacts are for actionable intelligence. He trusts the character to understand the distinction.
 
 ### Concluding the Event
 

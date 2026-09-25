@@ -16,13 +16,13 @@
 
 **Background (DM only)**
 
-Renown 25 is full Force Grey. It is not a routine promotion. Gray Hand, Junior Griffon, and Senior Griffon were tiered access — each real, each smaller than this. Force Grey status means Vajra is putting her personal authority behind the character's judgment. She has done it for fewer people than the Tower's staff roster might suggest.
+Renown 25 is full Force Grey. It is not a routine promotion. Gray Hand, Junior Griffon, and Senior Griffon were tiered access — each real, each smaller than this. Force Grey status means Vajra is putting her personal authority behind the character's judgment. She has done it for fewer people than the Tower's staff roster would suggest.
 
 The Underclock badge is issued to active Force Grey members only. It marks the wearer as operating under the Blackstaff's direct authority. City officials and military officers recognize it — not all of them, but enough that the first thirty seconds of most conversations are different. The Advantage on Charisma checks is the mechanical version of a messier human reality.
 
-The suspended charge or Watch investigation is among the most significant things Vajra can do for an individual operative. She uses it carefully. It doesn't erase what the character did — it removes the institutional consequence while the investigation is active. If the party completed a mission requiring an extralegal action and the Watch opened a file, this is when that file becomes dormant.
+The suspended charge or Watch investigation is among the most significant things Vajra can do for an individual operative. She uses it carefully. It does not erase what the character did — it removes the institutional consequence while the investigation is active. If the party completed a mission requiring an extralegal action and the Watch opened a file, this is when that file becomes dormant.
 
-The Veteran assigned for mission support has field history with Force Grey. They follow the party's operational lead, but they debrief to Vajra. This is not negotiable and Vajra doesn't pretend it is.
+The Veteran assigned for mission support has field history with Force Grey. They follow the party's operational lead, but they debrief to Vajra. She does not present this as optional.
 
 ### The Sending
 
@@ -52,7 +52,7 @@ The veteran assigned to mission support is a grey-haired dwarf standing near the
 
 > > "Rhendar. One mission per quest, up to seven days. You run the operation; he follows your lead. He reports to me on return."
 
-Rhendar nods once. He doesn't elaborate.
+Rhendar nods once. He does not elaborate.
 
 > > "The spells. One of up to 7th level before a mission, once per quest. Tell me what you're facing and I'll tell you what I can provide. Same rules as before: come with a specific need."
 

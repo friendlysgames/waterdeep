@@ -15,15 +15,15 @@
 
 **Background (DM only)**
 
-Renown 10 is where Vajra stops evaluating the party and starts planning with them. Gray Hand and Junior Griffon were about whether the relationship was worth building. Senior Griffon is about what to build with it. She's deploying Tower staff — actual resources she controls and is responsible for — and that requires a higher confidence in the party's judgment than anything that came before it.
+Renown 10 is where Vajra stops evaluating the party and starts planning with them. Gray Hand and Junior Griffon established whether the relationship was worth having. Senior Griffon is about what to build with it. She is deploying Tower staff — actual resources she controls and is responsible for — and that requires a higher confidence in the party's judgment than anything that came before it.
 
-The mage deployed per quest is not a babysitter or a chaperone. The arrangement is: Force Grey provides arcane capability; the party provides operational intelligence the Tower doesn't have from the outside. Vajra assigns a member of her staff suited to the party's methods. She chooses who. She doesn't send people she can't afford to lose.
+The mage deployed per quest is not a babysitter or a chaperone. The arrangement is: Force Grey provides arcane capability; the party provides operational intelligence the Tower does not have from the outside. Vajra assigns a member of her staff suited to the party's methods. She chooses who. She does not send people she cannot afford to lose.
 
 The *wand of secrets* is standard Tower-issue kit for operatives working restricted areas — detects concealed doors and compartments. Skip this if the party already acquired one through Mission 2 rewards.
 
 City officials and Masked Lords extend professional courtesy to known Blackstaff operatives. This is informal but real. Characters who abuse it reduce Vajra's goodwill faster than renown can accumulate.
 
-Written authorization for restricted areas (the City of the Dead at night, sealed evidence vaults, private Watch armories) requires a DC 12 Charisma check during a non-crisis period. The check is not about difficulty — it's Vajra making sure the party can explain what they need and why. If they can't explain it clearly, she won't sign it.
+Written authorization for restricted areas (the City of the Dead at night, sealed evidence vaults, private Watch armories) requires a DC 12 Charisma check during a non-crisis period. The check is not about difficulty — it is Vajra making sure the party can explain what they need and why. If they cannot explain it clearly, she will not sign it.
 
 ### The Sending
 
@@ -33,7 +33,7 @@ The spell arrives with efficient brevity:
 
 ### Blackstaff Tower
 
-The door opens before they reach the step. Vajra finishes the sentence she's writing before turning.
+The door opens before they reach the step. Vajra finishes the sentence she is writing before turning.
 
 > > "Senior Griffon. You've given me enough to plan with. That's why this changes."
 
@@ -49,11 +49,11 @@ The city official benefit next. Vajra explains it as a structural fact, not a pe
 
 > > "City officials and Masked Lords are Friendly to you by default while your status with Force Grey is current. They extend professional courtesy the way they would to a Watch captain with clean hands. Don't treat it as a license."
 
-For restricted access — the City of the Dead at night, sealed evidence vaults, private Watch armories — she'll write authorization on request:
+For restricted access — the City of the Dead at night, sealed evidence vaults, private Watch armories — she will write authorization on request:
 
 > > "Come to me during a period that isn't a crisis. Tell me what you need and why. If I can justify the authorization, I'll sign it."
 
-She doesn't discuss it as a check. To her it's a simple question: can they explain what they need clearly? If yes, she signs. If not, she sends them to find out.
+She does not discuss it as a check. To her it is a simple question: can they explain what they need clearly? If yes, she signs. If not, she sends them to find out.
 
 > [!dialogue]**Can we request a different mage from the Tower?**
 > "You work with who I assign. Aldris has the right profile for your operational type. If the assignment proves wrong in practice, come back with specifics. I'll adjust."

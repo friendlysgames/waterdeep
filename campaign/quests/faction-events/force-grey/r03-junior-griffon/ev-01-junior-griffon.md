@@ -14,9 +14,9 @@
 
 **Background (DM only)**
 
-Junior Griffon is the first real threshold. Gray Hand was probationary — a credential extended before the party had done enough to earn it. Renown 3 means they've reported a confirmed threat, handled a complication without creating a political problem, or otherwise demonstrated they're using the relationship correctly. Vajra's evaluation of them has not changed. The rank change confirms that her initial evaluation was accurate.
+Junior Griffon is the first real threshold. Gray Hand was probationary — a credential extended before the party had done enough to earn it. Renown 3 means they have reported a confirmed threat, handled a complication without creating a political problem, or otherwise demonstrated they are using the relationship correctly. Vajra's evaluation of them has not changed. The rank change confirms that her initial evaluation was accurate.
 
-The preparatory spell is not generosity. It is operational logic. A well-prepared team is less likely to produce an outcome she has to explain to Laeral Silverhand.
+The preparatory spell is operational logic. A well-prepared team is less likely to produce an outcome she has to explain to Laeral Silverhand.
 
 The reference library is a practical resource. Blackstaff Tower's collection holds material unavailable at Candle Lane or any guild archive — Vajra has spent three years acquiring anything relevant to arcane threat assessment. Characters who use it produce better intelligence. That is the only reason access exists.
 
@@ -38,7 +38,7 @@ She sets a folded letter on the desk's edge — a signed requisition for the Tow
 
 > > "Mundane equipment. Common potions. If you need something outside that range, come to me directly. The quartermaster handles the routine."
 
-The reference library is on the second floor, behind the door with the iron latch. She uses it for arcane threat research; they're welcome to anything not in her active stacks. Books removed from the building require her written authorization. She signs them; she doesn't commit verbally.
+The reference library is on the second floor, behind the door with the iron latch. She uses it for arcane threat research; they are welcome to anything not in her active stacks. Books removed from the building require her written authorization. She signs them; she does not commit verbally.
 
 > > "The preparatory spells: I'll cast one before a mission, once a tenday, if you tell me in advance what you're walking into. Third level or below. *Nondetection*, *water breathing*, *see invisibility*, *speak with dead* — whatever the situation requires."
 
@@ -46,7 +46,7 @@ She pauses.
 
 > > "Don't request it unless you know why you need it. I don't cast blind."
 
-She's already back at her map when they reach the stair.
+She is already back at her map when they reach the stair.
 
 > [!dialogue]**What determines which spell you cast?**
 > "What the mission requires. Come with a specific need and I'll tell you whether I can meet it. Come without one and I'll send you back to find out what you're missing."

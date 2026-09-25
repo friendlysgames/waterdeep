@@ -82,9 +82,9 @@ Vajra does not look at it.
 
 When the party finishes, Vajra puts down her pen.
 
-She is still. This lasts longer than is comfortable. Not theatrical. Not performative. She is working through something, and the room holds the silence without difficulty.
+She is still. The pause lasts longer than is comfortable; she is working through something, and the room holds the silence without difficulty.
 
-Any character who watches her during this pause and makes a successful DC 14 Wisdom (Insight) check determines that the pause is not about what to do next. She already knows. The pause is about what it means to do it.
+Any character who watches her during this pause and makes a successful DC 14 Wisdom (Insight) check determines that she already knows what to do next. The pause is about what it means to do it.
 
 Then she picks up the pen again. She does not look at the Blackstaff.
 

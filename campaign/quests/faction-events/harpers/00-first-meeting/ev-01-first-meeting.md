@@ -35,7 +35,7 @@ During Act 1, he watches the stage and the party in roughly equal measure. His s
 
 > [!profile]**Running Mirt**
 >
-> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is genuinely amused and genuinely calculating, always at once. Characters who treat him as a wealthy eccentric discover their error when the pin appears — already in his hand, already decided.
+> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is amused and calculating, always at once. Characters who treat him as a wealthy eccentric discover their error when the pin appears — already in his hand, already decided.
 
 ### The Intermission
 
