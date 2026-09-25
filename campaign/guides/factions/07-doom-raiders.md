@@ -70,7 +70,7 @@ Full scene — including all six Yagra greeting variants and Davil's read-aloud 
 | 6th | **The Yellowspire Job** | Infiltrate Yellowspire, Manshoon's Trades Ward relay tower, and steal the pass-amulet distribution ledger showing which lieutenants carry which amulets on what rotation — the key to bypassing Kolat Towers' force field. | +4 |
 | 7th | **Ziraj's Last Hunt** | Manshoon's kill team has ambushed Ziraj the Hunter on Waterdeep's rooftops; race through the city to find him wounded and neutralize three remaining Splinter agents. Ziraj survives and provides a rooftop diagram of Kolat Towers' force-field gaps. | +4 |
 
-**After the party completes their second mission, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention. Davil is released once the Lords conclude his cell isn't responsible for the recent killings.
+**Two days after Gralhund Villa, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention; see the [**Davil's Arrest**](../../quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md) Event. Davil is released at the end of Mission 4, once the Lords conclude his cell isn't responsible for the recent killings; see the [**Davil's Return**](../../quests/faction-events/doom-raiders/s02-davils-return/ev-01-davils-return.md) Event.
 
 Full mission write-ups are in the **Faction Missions** quest journals.
 
