@@ -28,21 +28,21 @@
 Davil Starsong receives the party in his curtained room on the second floor of the Yawning Portal. He is already pouring when they arrive.
 
 > [!readaloud]
-> The curtain to the back room parts before you knock. Davil Starsong is already at the table, filling a second cup with the unhurried certainty of someone who watched you come up the stairs. His lute rests against the wall beside him, and the small charm bracelet at his wrist catches the candlelight as he sets down the bottle.
+> The curtain to the back room parts before you knock. Davil Starsong is at the table, filling a second cup, and he glances up as you step through. His lute rests against the wall beside him, and the small charm bracelet at his wrist catches the candlelight as he sets down the bottle.
 >
 > > "Sit. Please."
 >
-> He does not wait for you to settle before he begins.
+> He waits for you to settle, then sets his cup down and folds his hands on the table.
 >
-> > "Three sailors found dead in the Dock Ward. Elves and half-elves — all of them, every night for three consecutive nights. Different alleys off Ship Street, all after midnight, all alone. The City Watch opened a file and closed it just as fast. No evidence, no witnesses, no progress."
+> > "Three sailors found dead in the Dock Ward. Elves and half-elves, all of them, one per night for three nights, in different alleys off Ship Street, after midnight each time and alone each time. The City Watch opened a file and closed it just as fast. No evidence, no witnesses, nothing."
 >
 > He turns his cup in his hands.
 >
-> > "I kept my people out of it until I could see a pattern. Now I can. It's too consistent to be random. Whoever this is, they know those alleys, they know the hour, and they know how to vanish afterward. Which means there's a next one. There's always a next one."
+> > "I kept my people out of it until I could see a pattern. Now I can. It is too deliberate to be chance. Whoever this is, they know those alleys, they know the hour, and they know how to be gone before anyone comes looking. There will be another one. You understand that, yes?"
 >
-> He looks at you across the table — something warm in it, and something more careful underneath.
+> He looks at you across the table with easy warmth.
 >
-> > "I need someone who can work the docks at night without looking like they're working them. My people can't. You can. Find the killer. Stop the next one."
+> > "I need someone who can work the docks at night without looking like they are working them. My people cannot, not in that part of the city. You can. Find the killer. Stop the next one."
 
 > [!social]**The Master of Opportunities**
 >
@@ -64,27 +64,27 @@ Davil Starsong receives the party in his curtained room on the second floor of t
 
 > [!qna]**Who were the victims?**
 >
-> > "Three sailors. Elves and half-elves, elven blood in every one. Found in alleys off Ship Street, one per night, three nights running. After midnight every time, alone every time." He pauses. "The Watch found nothing because there was nothing to find. This person is careful."
+> > "Three sailors, elves and half-elves," he says. "Found in alleys off Ship Street, one each night for three nights, after midnight and alone each time." He pauses. "The Watch found nothing because there was nothing left to find. Whoever did this did not rush."
 
 > [!qna]**Why us?**
 >
-> > "My people are known in that part of the city." He says it with a small, rueful smile. "Not fondly. Someone watching the docks at night with a Zhentarim association raises questions I'd rather not answer right now. You don't have that problem."
+> > "My people are known in that part of the city," he says with a small rueful smile, "and not warmly. Someone watching the docks at night with a Zhentarim association raises questions I would rather not answer right now. You do not have that problem."
 
 > [!qna]**What do you know about the killer?**
 >
-> > "Consistent. Disciplined. Same corridor, same hour, isolated targets — that's preparation, not opportunity. Someone who knows those alleys well enough to choose them." He turns his cup again. "Which is most of what I know."
+> > "Careful and patient," he says, "and working the same stretch of water at the same hour with isolated targets each time. That kind of consistency takes planning. You do not land in the right place three nights in a row by accident." He turns his cup again. "Which is most of what I can tell you."
 >
-> He says this in a tone that politely declines to be pressed further.
+> He turns the charm bracelet over once and leaves it at that.
 
 > [!qna]**Where do we start?**
 >
-> > "Ship Street itself. Walk it at night. The Muleskull Tavern at the near end. All three died within a few blocks of it. And take a look at the three alley sites together, not separately. I think you'll find they have more in common than they appear to."
+> > "Ship Street itself," he says. "Walk it at night, and start at the Muleskull Tavern at the near end. All three of them died within a few blocks of it. And if you look at the three alley sites together rather than one at a time, I think you will find they have more in common than they appear to."
 
 > [!qna]**The pay?**
 >
-> Davil's fingers find the charm bracelet at his wrist and turn one of the small trophies over.
+> Davil's fingers find the charm bracelet at his wrist and turn one of the small trophies between his fingers.
 >
-> > "You'll be compensated. My gratitude has a certain currency in this city, and membership in my organization has more. We'll sort the particulars when the work is done."
+> > "You will be compensated," he says. "Coin, yes, and beyond that, my good opinion has opened doors in this city for people I have found capable. We can sort out the details when the work is done."
 
 Once the party accepts, proceed to **The Dock Ward at Night**.
 
@@ -93,7 +93,7 @@ Once the party accepts, proceed to **The Dock Ward at Night**.
 The waterfront runs on a different clock than the rest of the city. Ships unload at midnight. Cargo handlers work between bells. Ship Street is active enough that a small group moving with purpose draws no attention, but quiet enough that a figure staying still in a shadow eventually becomes visible.
 
 > [!readaloud]
-> The Dock Ward runs on its own schedule. Past midnight, cargo crews still move under hanging lanterns, voices low, boots loud on the wet cobbles. The smell of salt, tar, and rope sits heavy in the air. The Muleskull Tavern is the only place on Ship Street with its windows still lit.
+> The Dock Ward does not sleep when the rest of the city does. Past midnight, cargo crews still move under hanging lanterns, voices low and boots loud on the wet cobbles. The smell of salt, tar, and rope sits heavy in the air, and the Muleskull Tavern is the only place on Ship Street with its windows still lit.
 
 Characters who spend the evening hours on Ship Street and the adjacent waterfront find three independent paths to the same conclusion.
 
@@ -101,13 +101,13 @@ Characters who spend the evening hours on Ship Street and the adjacent waterfron
 >
 > Any character who watches the waterfront at midnight on Night 2 or later and makes a successful DC 13 Wisdom (Perception) check notices that one of the shadows near the Muleskull's side alley has not shifted with the wind off the harbor. Soluun is already in position by the time most of the foot traffic has thinned.
 >
-> > The figure hasn't moved in twenty minutes. The dock workers have passed it twice. The shadow doesn't shift with the wind.
+> > The figure in the gap between those buildings has not moved in twenty minutes. The dock workers have passed it twice without a second glance, and the shadow it casts does not shift with the wind off the harbor.
 
 > [!exploration]**The Name Heldar**
 >
 > Any character who strikes up a conversation with two or more dock workers and makes a successful DC 13 Charisma (Persuasion) check learns a specific detail: one of them was drinking with the second victim the night before that one died.
 >
-> > "Heldar? Yeah, I know him. Half-elf, works the eastern wharf. He was drinking with the second one they found, the evening before it happened. Heldar's been back every night since. Same table, third bell, same route home. You'd think he'd have the sense to vary it."
+> > "Heldar? Yeah, I know him. Half-elf, works the eastern wharf. He was drinking with the second one they found, the evening before it happened. He has been back every night since, sits at the same table, leaves around third bell, and takes the same route back to the ship every time. You'd think he'd have the sense to vary it."
 >
 > Heldar is at the Muleskull Tavern, late table, third bell.
 
@@ -115,7 +115,7 @@ Characters who spend the evening hours on Ship Street and the adjacent waterfron
 >
 > Any character who examines all three alley locations as a group and makes a successful DC 12 Intelligence (Investigation) check identifies what they share: all victims were alone, all after midnight, all within three blocks of the Muleskull, all walking toward the eastern wharf.
 >
-> > Three alleys, three nights, three victims — and the same choice each time. Isolated, after midnight, within three blocks of the same tavern. This is reconnaissance, not impulse. Whoever chose these spots knew them before the killings.
+> > All three of the alleys are off the same stretch of Ship Street, within a few blocks of the Muleskull Tavern, and each victim was alone and well after midnight. Someone chose each of these locations deliberately and knew them before arriving.
 >
 > The killer knows this stretch of the docks. He is not choosing victims at random.
 
@@ -124,9 +124,9 @@ Characters who spend the evening hours on Ship Street and the adjacent waterfron
 Night 3, or later at the party's pace: Heldar leaves the Muleskull after last bell, moving east on Ship Street with the careful step of someone who has had three drinks too many and is compensating. Soluun is already positioned in the gap between two buildings off Net Street, watching the approach.
 
 > [!readaloud]
-> Ship Street at midnight is not quiet, but it has a different kind of noise than the daytime — the creak of rigging, the slap of harbor water, a handful of workers moving cargo under lantern light. The Muleskull Tavern's windows are still lit at the near end of the block.
+> Ship Street at midnight is quieter than the daytime but not empty. The rigging creaks, harbor water slaps against the pilings, and a handful of workers are still moving cargo under lantern light. The Muleskull Tavern's windows are still lit at the near end of the block.
 >
-> You have the name Heldar, a route, and whatever position you chose before he left the bar.
+> You know Heldar's name and his usual route from the Muleskull, and you are settled into the position you chose before last call.
 
 A character who stated their intent to position ahead of Heldar's route at the start of the evening gains Advantage on the following check.
 
@@ -139,12 +139,12 @@ A character who stated their intent to position ahead of Heldar's route at the s
 If the check succeeds, read or paraphrase the following:
 
 > [!readaloud]
-> The shadow in the gap between the buildings off Net Street has been there too long. The others shift with the wind off the harbor. This one does not. A figure is pressed flat against the wall, watching Heldar's approach. He has not moved in minutes.
+> The shadow in the gap between the buildings off Net Street has been there too long. The others shift with the wind off the harbor, but this one stays fixed. A figure is pressed flat against the wall, watching Heldar's approach, and he has not moved in several minutes.
 
 If the check fails, read or paraphrase the following:
 
 > [!readaloud]
-> A figure drops from above Ship Street — a drow, landing without a sound, his hand crossbow already raised. He moves like someone who has watched this route for several nights running.
+> A figure drops from above Ship Street, a drow, landing without a sound on the cobbles and bringing up a hand crossbow in the same motion. He has his eyes on Heldar and his back to the nearest shadow.
 
 > [!gamemaster]**Heldar's Survival**
 >
@@ -174,18 +174,18 @@ If the check fails, read or paraphrase the following:
 If the pursuit succeeds, read or paraphrase the following:
 
 > [!readaloud]
-> The drow runs out of roof. He stops at the edge above Sail Street, looks at the drop, and looks back at you. There is nowhere to jump that wouldn't break something. After a moment, he raises his hands — not in surrender exactly, more in recognition of arithmetic.
+> The drow reaches the edge above Sail Street and stops. He looks down at the drop, and looks back at you, and there is nowhere useful to go. After a moment, he raises his hands.
 
 If the pursuit fails, read or paraphrase the following:
 
 > [!readaloud]
-> He clears the gap between the buildings with the step of someone who has done it before. By the time you reach the edge, he has already dropped below the roofline on the far side and is gone. The harbor is dark. He could be anywhere.
+> He clears the gap between the buildings and lands on the far roof without slowing down. By the time you reach the edge, he has dropped below the roofline on the far side and is gone, and the harbor spreads out dark and wide below.
 
 > [!exploration]**The Forged Token**
 >
 > After Soluun is captured or his body is searched, the party finds a small silver disc on his person.
 >
-> > A silver disc, about the size of a large coin. One face is etched with a stylized spider motif — the knot work too precise, the finish too polished. It is trying very hard to look like something official.
+> > A silver disc, about the size of a large coin. One face is etched with a stylized spider motif, and the knot work is very precise and the finish very smooth and even. The overall effect is of something made to look official.
 >
 > Any character who examines the token and makes a successful DC 14 Intelligence (History) check, or who has prior knowledge of genuine D'aerthe tokens, identifies the discrepancy: the knot work is wrong, the finish too polished. Someone made this for him, or he made it himself.
 >
@@ -200,9 +200,7 @@ If the **Heldar Survived** outcome is marked, read or paraphrase the following t
 > [!readaloud]
 > Heldar is at the waterfront the next morning, sober, sitting on a dock post with the careful stillness of someone who slept badly. When he sees you, he gets to his feet too quickly and has to catch himself.
 >
-> > "I — they told me what happened. What you did." He fumbles with a small purse, clearly embarrassed by its size. "It's everything I've got on me. Fifty gold. I know that's not — I just wanted you to have it."
->
-> He is embarrassed that this is all he has.
+> > "I — they told me what happened. What you did." He fumbles with a small purse and holds it out. "It's everything I've got on me. Fifty gold. I know that's not — I just wanted you to have it."
 
 > [!gamemaster]**Event Outcomes**
 >
