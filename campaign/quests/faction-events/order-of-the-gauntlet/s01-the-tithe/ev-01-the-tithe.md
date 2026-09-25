@@ -63,15 +63,13 @@ The Cassalanter thread, the Order's surveillance resources, and Savra's personal
 
 ### Concluding the Event
 
-#### Tithe Paid: True
+#### Tithe Paid: True / False
 
-The party contributed 25% or more of the recovered haul to a worthy cause. Savra registered the act. Read in **Vault of Dragons** — **The Final Approach**: Savra's willingness to vouch for the party before the Lords depends in part on this record. Her formal testimony, if needed, is unqualified.
+**True:** The party contributed 25% or more of the recovered haul to a worthy cause. Savra registered the act. Read in **Vault of Dragons** — **The Final Approach**: Savra's willingness to vouch for the party before the Lords depends in part on this record. Her formal testimony, if needed, is unqualified.
 
-#### Tithe Paid: False
+**False:** The party declined or paid less than 25%. The shortfall is recorded. Read in **Vault of Dragons** — **The Final Approach**: Savra's cooperation at the Vault is conditional. She does not actively obstruct, but she does not go out of her way.
 
-The party declined or paid less than 25%. The shortfall is recorded. Read in **Vault of Dragons** — **The Final Approach**: Savra's cooperation at the Vault is conditional. She does not actively obstruct, but she does not go out of her way.
-
-#### Quietly Reassigned: True
+#### Quietly Reassigned: True / False
 
 The party refused the tithe entirely. The Order has reassigned them to routine operations. Read in **Vault of Dragons** — **The Final Approach**: Savra does not appear as an ally. Sister Valdra fulfills any required Order liaison role. Savra's personal testimony is not available.
 

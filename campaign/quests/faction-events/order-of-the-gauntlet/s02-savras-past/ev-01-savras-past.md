@@ -98,21 +98,17 @@ If the party says they'll keep it between them, she nods — once, the real nod 
 
 ### Concluding the Event
 
-#### Savra's Past Known: True
+#### Savra's Past Known: True / False
 
-The party learned Savra's full history in this scene: her cult rank, the rite on the tower, the two who went over, and the fact that she held the circle. Recorded. Read in **Cassalanter Villa** — when Savra descends into the cult temple, she says nothing about what she recognizes. Her silence in those rooms has weight now. Read in **Vault of Dragons** — her testimony, if given, carries the specific authority of someone who knows from the inside what the cost of an infernal arrangement looks like in the people around it.
+**True:** The party learned Savra's full history in this scene: her cult rank, the rite on the tower, the two who went over, and the fact that she held the circle. Recorded. Read in **Cassalanter Villa** — when Savra descends into the cult temple, she says nothing about what she recognizes. Her silence in those rooms has weight now. Read in **Vault of Dragons** — her testimony, if given, carries the specific authority of someone who knows from the inside what the cost of an infernal arrangement looks like in the people around it.
 
-#### Savra's Past Known: False
+**False:** The conversation did not happen — either Trigger A never fired or Trigger B did not surface the funding intel before **Cassalanter Villa**. Savra enters the temple as she enters everything else: with her jaw set and her sword ready. She does not discuss what she knows about cult architecture.
 
-The conversation did not happen — either Trigger A never fired or Trigger B did not surface the funding intel before **Cassalanter Villa**. Savra enters the temple as she enters everything else: with her jaw set and her sword ready. She does not discuss what she knows about cult architecture.
+#### Cult Funding Linked: True / False
 
-#### Cult Funding Linked: True
+**True:** The party shared the Howling Hatred funding intel with Savra and she made the arithmetic visible: the money was Waterdhavian, it was old, and it was deliberate. Recorded. Read in **Cassalanter Villa** — before the party enters the Cassalanter estate, Savra is quieter than usual. She does not explain why. If someone asks, she says: *"I want this done right."* Read in **Vault of Dragons** — if Savra testifies before the Lords, she can speak to a funding pattern she witnessed from inside an operation it was paying for, without naming the source. The Lords can make their own arithmetic.
 
-The party shared the Howling Hatred funding intel with Savra and she made the arithmetic visible: the money was Waterdhavian, it was old, and it was deliberate. Recorded. Read in **Cassalanter Villa** — before the party enters the Cassalanter estate, Savra is quieter than usual. She does not explain why. If someone asks, she says: *"I want this done right."* Read in **Vault of Dragons** — if Savra testifies before the Lords, she can speak to a funding pattern she witnessed from inside an operation it was paying for, without naming the source. The Lords can make their own arithmetic.
-
-#### Cult Funding Linked: False
-
-The intel did not reach Savra, or Trigger B never fired. Her approach to the Cassalanter estate is professional. The personal weight is absent.
+**False:** The intel did not reach Savra, or Trigger B never fired. Her approach to the Cassalanter estate is professional. The personal weight is absent.
 
 > **[GM]**
 >

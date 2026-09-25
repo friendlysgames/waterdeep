@@ -69,10 +69,12 @@ Any one of these approaches counts. Multiple approaches in combination improve t
 
 ### Concluding the Event
 
-#### Davil Arrested: True
+#### Davil Arrested: True / False
+
 Davil Starsong is in Watch custody at Castle Waterdeep. Read by **DR Mission 3 — The Missing Snobeedle** (Tashlyn briefs; Davil absent), **DR Mission 4 — Silencing Skeemo** (Tashlyn briefs; Davil absent), **Davil's Return** (s02: fires at the end of Mission 4), and the **Doom Raiders** factions guide renown table.
 
-#### Tashlyn Contact: True
+#### Tashlyn Contact: True / False
+
 Tashlyn Yafeera has met the party and taken over mission delivery. Read by **DR Mission 3 — The Missing Snobeedle** onward through **DR Mission 4 — Silencing Skeemo**, and by **Xanathar's Lair** Scene 1 (Doom Raiders faction briefing contact).
 
 #### Worked for Davil's Release: True / False
@@ -85,10 +87,6 @@ Record whether the party made a substantive effort to shorten Davil's detention 
 > Doom Raiders mission briefings now come from Tashlyn by flying snake. **DR Mission 3 — The Missing Snobeedle** is the next mission, available at Renown 3 and character level 4.
 >
 > Davil's release is covered in the **Davil's Return** Event (s02), which fires at the end of **DR Mission 4 — Silencing Skeemo**.
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
 
 ## Overview
 

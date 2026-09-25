@@ -94,10 +94,6 @@ Set True when the party attends the dinner and speaks with Zardoz Zord. Set Fals
 > Inside: a flat obsidian tile, palm-sized, with a silver ship engraved on one face. No note.
 >
 > This is the operational token. Presenting it to any crew member of the Sea Maidens Faire ships identifies the bearer as a personal contact of Zardoz Zord, granting access to the ships without prior arrangement. Krebbyg does not explain this. The party learns its use when they need it.
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
 
 ## Overview
 

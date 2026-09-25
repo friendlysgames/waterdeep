@@ -32,7 +32,8 @@ If the party worked for his release (*Worked for Davil's Release: True*), his ac
 
 ### Concluding the Event
 
-#### Davil Released: True
+#### Davil Released: True / False
+
 Davil Starsong is out of Watch custody and back at the Yawning Portal. Read by **Xanathar's Lair** Scene 1 (Doom Raiders briefing contact: Davil if released, Tashlyn if not), **Kolat Towers** (Davil's contributions to the approach depend on his being operational), and **Vault of Dragons** (Davil's presence at the confrontation and the Zhentarim Council bid).
 
 > **[GM]**
@@ -40,10 +41,6 @@ Davil Starsong is out of Watch custody and back at the Yawning Portal. Read by *
 > #### Next Steps
 >
 > **DR Mission 5 — The Yellowspire Job** becomes available at Renown 9 and character level 6. Tashlyn briefs it; Davil may be present at the Yawning Portal for context.
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
 
 ## Overview
 

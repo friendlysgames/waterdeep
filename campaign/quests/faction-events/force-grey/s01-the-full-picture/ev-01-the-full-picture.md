@@ -102,7 +102,7 @@ The party earns **+2 renown** with Force Grey for delivering a complete Grand Ga
 
 ### Concluding the Event
 
-#### Vajra Briefed: True
+#### Vajra Briefed: True / False
 
 The party delivered a complete Grand Game picture — all four factions identified with evidence, the Stone's function confirmed, the vault's contents known, at least one live deadline stated. Vajra Safahr has written to Laeral Silverhand with the full scope. This flag is read in the **Vault of Dragons** quest to determine whether Laeral Silverhand arrives prepared and before the confrontation peaks, or arrives late and improvising. It is also read in the **Force Grey** factions guide when calculating the +2 renown award and verifying Force Grey rank progression.
 
