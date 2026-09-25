@@ -420,6 +420,7 @@ body.journal-sidebar-collapsed #journal-sidebar .sidebar-footer {
   display: flex;
   flex-direction: column;
   min-height: 0;
+  min-width: 0; /* grid 1fr = minmax(auto,1fr): without this, a long breadcrumb widens the page on mobile */
 }
 
 #panes {
@@ -575,9 +576,12 @@ body.split-view #split-toggle {
   align-items: center;
   gap: 0.5rem;
   min-width: 0;
+  flex: 1 1 auto;
 }
 
 #breadcrumb {
+  min-width: 0;
+  flex: 1 1 auto;
   font-size: 0.8rem;
   color: var(--content-text);
   opacity: 0.75;
