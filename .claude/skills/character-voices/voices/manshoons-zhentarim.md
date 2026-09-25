@@ -12,7 +12,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A cultured, cool, perfectly modulated voice, never raised, precise in every consonant. His artificial arm clicks faintly when he gestures.
 - **Sentence shape:** Long, calm, flawless sentences built like proofs. He states the other person's options for them, then the consequence of each.
 - **Word choice:** Scholarly and imperial: "inevitable", "an arrangement", "the Weave", "my city" (said as a correction). He calls the party by name once he's learned it, and simulacra of himself "the others".
-- **Swearing:** *Never · Plain.* Profanity is for people who lack better words. His rare anger is precise and calm, and more frightening for it.
+- **Swearing:** *Never · Plain · n/a.* Profanity is for people who lack better words. His rare anger is precise and calm, and more frightening for it.
 - **Personality in speech:** Cold patience, contempt and certainty. He negotiates from strength and is calm about consequences in a way that should unsettle. His frustrated pride about the arm and Halaster surfaces as one clipped, bitter sentence, then composure again.
 - **Phases:**
   - **The Shadow (Acts I–II):** never heard. Only his lieutenants speak, and they won't name him.
@@ -34,7 +34,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A heavy, rough baritone, loud by default, and a growl when blocked.
 - **Sentence shape:** Short orders and threats. He answers questions about his master with silence or "Not your business."
 - **Word choice:** Street-soldier plainness: "the job", "the package", "my people". He calls enemies "friend" sarcastically.
-- **Swearing:** *Punctuation · Colourful.* Aggressive, crude and constant ("Get that fucking gnome, you slack-jawed pisspots!").
+- **Swearing:** *Punctuation · Colourful · Rant.* Aggressive, crude and constant ("Get that fucking gnome, you slack-jawed pisspots!").
 - **Personality in speech:** Aggressive authority. He storms about Gralhund Villa as if he owned it and talks that way too. Cornered, he turns cunning and grabs a hostage, still never naming his master.
 - **Quirks:** He talks to his flying snakes more gently than to people. He jabs a finger at whoever he's talking to.
 - **Signature phrases:** "Not your business." / "Move." / "You'll never get the name."
@@ -52,7 +52,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A bright, playful, flirtatious voice in public. In private, low and cold.
 - **Sentence shape:** Witty, teasing banter in public. Short, cutting sentences in private. She cites the law like a card up her sleeve.
 - **Word choice:** Glamorous and legalistic: "darling", "charges", "evidence", "prove it". She calls lesser operatives "help".
-- **Swearing:** *Casual · Pearls.* Mostly flirty little curses, then a cruel gem in private: "You're not worth the blood it'd take to shut you up."
+- **Swearing:** *Casual · Pearls · Phrase.* Mostly flirty little curses, then a cruel gem in private: "You're not worth the blood it'd take to shut you up."
 - **Personality in speech:** Theatrical charm over cold cruelty. Her pride in her fieldwork comes out as boasting. She's confident the law protects her, and says so.
 - **Quirks:** She makes her hair glow for emphasis. She reminds people she's done nothing they can prove.
 - **Signature phrases:** "Prove it, darling." / "I've done nothing wrong." / "Help."
@@ -70,7 +70,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A low, relaxed, steady Calishite voice.
 - **Sentence shape:** Courteous, practical questions ("Water? Your business?"), then flat statements when the courtesy ends.
 - **Word choice:** Barracks plainness with hospitality: water, business, "the master's guests". She calls people "guest" until they aren't.
-- **Swearing:** *Stingy · Plain.* One flat "shit" when something breaches the Towers.
+- **Swearing:** *Stingy · Plain · Clipped.* One flat "shit" when something breaches the Towers.
 - **Personality in speech:** At ease on home ground. She assumes intruders are guests and speaks accordingly. Her contempt for anyone who mistakes calm for softness comes out as one quiet sentence.
 - **Quirks:** She offers water first. She looks at people's hands, not their faces.
 - **Signature phrases:** "Water?" / "Your business, guest?" / "Hands where I can see them."
@@ -88,7 +88,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A smooth, musical, slightly affected tenor. It cracks into a whine under pressure.
 - **Sentence shape:** Easy, self-absorbed small talk about art and society. Captured, a rapid stream of offers, from least to most useful.
 - **Word choice:** Artistic and social: performances, "delightful company", "a small favour". He calls his mother "Mama", and becomes briefly comprehensible when she's present.
-- **Swearing:** *Casual · Plain.* Whining curses ("Oh, fuck, oh, this is bad, this is so bad").
+- **Swearing:** *Casual · Plain · Phrase.* Whining curses ("Oh, fuck, oh, this is bad, this is so bad").
 - **Personality in speech:** Artistic self-absorption and passive compliance. He agrees with whoever is most persuasive in the room. His self-preservation is shameless.
 - **Quirks:** He hums when nervous. He offers information before anyone asks. He mentions his mother at inappropriate moments.
 - **Signature phrases:** "Let's be civilised." / "I can give you something better." / "Mama will be so upset."
@@ -106,7 +106,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A soft, pleasant, unhurried voice with a clerk's neutrality.
 - **Sentence shape:** Polite, complete, patient sentences. Questions, then a pause, then the same question again.
 - **Word choice:** Clinical and administrative: "session", "cooperation", "to specification". She calls the subject "you" and Zorbog by name.
-- **Swearing:** *Never · Plain.* Her politeness is the menace.
+- **Swearing:** *Never · Plain · n/a.* Her politeness is the menace.
 - **Personality in speech:** Professional detachment. She's uninterested in the personal. Satisfaction in a job done correctly shows as a small "Thank you."
 - **Quirks:** She repeats a question with identical wording. She says "Zorbog" as a complete instruction.
 - **Signature phrases:** "Let's try that again." / "Thank you." / "Zorbog."
@@ -124,7 +124,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A slow, deep, mild voice.
 - **Sentence shape:** A few literal words, deliberately (a break from `ember-voice` speech). He answers exactly what's asked.
 - **Word choice:** Simple and literal: "Yes", "Done", "Pay?". He takes figures of speech at face value.
-- **Swearing:** *Never · Plain.* It isn't a thing he does.
+- **Swearing:** *Never · Plain · n/a.* It isn't a thing he does.
 - **Personality in speech:** Uncomplicated purpose. His mild curiosity about the people in the house comes out as blunt, harmless-sounding questions.
 - **Quirks:** He waits for Avareen's instruction before answering. He asks visitors their names, then forgets them.
 - **Signature phrases:** "Yes." / "Done." / "Avareen says."
@@ -142,7 +142,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A clear, composed, courteous voice, never warm and never cold.
 - **Sentence shape:** Polite, measured sentences with doctrinal weight, often framed as gentle instruction.
 - **Word choice:** Hierarchy and order: "obedience", "strength", "your place". She speaks of Bane as "the Black Hand" with serene reverence. She calls outsiders "those who have not yet chosen".
-- **Swearing:** *Never · Plain.* Disorder offends her.
+- **Swearing:** *Never · Plain · n/a.* Disorder offends her.
 - **Personality in speech:** Absolute calm and contempt for weakness. She's measured and courteous toward those who might still convert. Her cruelty is stated like policy.
 - **Quirks:** She touches a painted handprint as she speaks. She offers the party a choice she has already made for them.
 - **Signature phrases:** "Order is mercy." / "Choose your place." / "The Black Hand holds all things."
@@ -160,7 +160,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A soft, slightly shy voice, easily talked over.
 - **Sentence shape:** Short, modest, competent answers in cover. Exposed, a cold, clear, businesslike voice replaces it.
 - **Word choice:** Junior-arcanist deference ("I'm only on the second-floor rotation"). Exposed, operational: "activation", "extraction".
-- **Swearing:** *Stingy · Plain.* None in cover. A single cold "fuck" when she's exposed.
+- **Swearing:** *Stingy · Plain · Clipped.* None in cover. A single cold "fuck" when she's exposed.
 - **Personality in speech:** Practised stillness. She disappears into competence. Private contempt for the Tower's complacency leaks as a too-precise answer about wards.
 - **Quirks:** She apologises for being in the way. She stays late and says she likes the quiet.
 - **Signature phrases:** "I'm only junior." / "I like the quiet." / "It's nothing, really."
@@ -178,7 +178,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A warm, merry, grandfatherly halfling voice.
 - **Sentence shape:** Hospitable, rambling kitchen talk: menus, questions about appetite, fussing.
 - **Word choice:** Food and hospitality: "have you eaten?", dishes by name, "Lord Manshoon". He calls everyone "dear".
-- **Swearing:** *Never · Euphemist.* "Oh, burnt biscuits!"
+- **Swearing:** *Never · Euphemist · n/a.* "Oh, burnt biscuits!"
 - **Personality in speech:** Genuine domestic pride. He doesn't register intruders as threats. His loyalty to Manshoon comes out as fussing over the master's preferences. He's mildly concerned when guests seem confused.
 - **Quirks:** He sets an extra place mid-conversation. He offers to let Lord Manshoon know they've arrived, which is a real threat he doesn't know he's making.
 - **Signature phrases:** "Have you eaten, dear?" / "Shall I tell Lord Manshoon you've arrived?" / "Oh, burnt biscuits!"
@@ -196,7 +196,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A crisp, fast, cool voice.
 - **Sentence shape:** Clipped warnings and a Sending recited mid-fight. She states threat assessments aloud.
 - **Word choice:** Protocol and threat analysis: "breach", "reinforcements", "rational". She calls Manshoon "the most capable operator available".
-- **Swearing:** *Triggered · Plain.* When a situation outruns her protocols ("Shit, that's not in the protocol.").
+- **Swearing:** *Triggered · Plain · Phrase.* When a situation outruns her protocols ("Shit, that's not in the protocol.").
 - **Personality in speech:** Alert and calculating. She serves Manshoon because it's rational, and says so if asked. She's urgent when events move faster than protocol.
 - **Quirks:** She's reaching for her component pouch before she speaks. She counts exits aloud.
 - **Signature phrases:** "Breach, E3." / "Rational choice." / "Reinforcements inbound."
@@ -214,7 +214,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A quiet, level halfling voice.
 - **Sentence shape:** Two or three words, deliberately (a break from `ember-voice` speech). She speaks only to warn.
 - **Word choice:** Minimal and absolute: "No further." / "For him."
-- **Swearing:** *Never · Plain.*
+- **Swearing:** *Never · Plain · n/a.*
 - **Personality in speech:** Settled conviction. She has no ambivalence and no exit plan, and the voice has none either.
 - **Quirks:** She shifts her stance instead of answering.
 - **Signature phrases:** "No further." / "For him."
@@ -232,7 +232,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A bright, chatty, cheerful voice that stays warm throughout the violence.
 - **Sentence shape:** Friendly questions and small talk, and apologetic little asides mid-fight.
 - **Word choice:** Warm and casual: "friend", "aw", "sorry about this". He calls Manshoon "the boss" fondly.
-- **Swearing:** *Casual · Plain.* Friendly, apologetic curses ("Aw, shit, sorry, that one's gonna bruise.").
+- **Swearing:** *Casual · Plain · Phrase.* Friendly, apologetic curses ("Aw, shit, sorry, that one's gonna bruise.").
 - **Personality in speech:** Cheerful certainty and goodwill. He's genuinely puzzled when opponents expect the warmth to mean mercy. His devotion to Manshoon comes out as happy loyalty.
 - **Quirks:** He asks people's names and hometowns. He apologises while fighting.
 - **Signature phrases:** "Aw, friend." / "Sorry about this." / "The boss needs me."
@@ -250,7 +250,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 - **Sound:** A low, flat, patient voice, rarely heard.
 - **Sentence shape:** Almost nothing: a word or two before it begins, deliberately (a break from `ember-voice` speech).
 - **Word choice:** Final and plain. He never threatens, only states.
-- **Swearing:** *Stingy · Plain.* Rarely: one flat word that means the conversation is over.
+- **Swearing:** *Stingy · Plain · Clipped.* Rarely: one flat word that means the conversation is over.
 - **Personality in speech:** Steady patience and focused clarity once talk has failed. His silence is the terror.
 - **Quirks:** He removes his gloves before he speaks.
 - **Signature phrases:** "Now." / "It's time."

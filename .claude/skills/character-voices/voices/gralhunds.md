@@ -10,7 +10,7 @@ A noble house with the real power sitting beside the title: Yalah speaks, Orond 
 - **Sound:** A smooth, cultured, controlled voice, pleasant in company and cold and quiet when she drops the courtesy.
 - **Sentence shape:** Polished, measured sentences, often questions she already knows the answer to. When she's feigning ignorance, she's charmingly vague. In private, crisp orders.
 - **Word choice:** Sea Ward society diplomacy: "a misunderstanding", "our household", "we see both sides". She calls Floxin "Master Floxin" as if he were staff, and Orond "my husband" with a small pause.
-- **Swearing:** *Stingy · Pearls.* Almost never, and then something icy and exact about her husband: "Orond has the backbone of custard and the ambition of its bowl."
+- **Swearing:** *Stingy · Pearls · Phrase.* Almost never, and then something icy and exact about her husband: "Orond has the backbone of custard and the ambition of its bowl."
 - **Personality in speech:** Calculating ambition under composure. Her talent for feigned ignorance is a performance of polite confusion. Her fury at the Masked Lords who passed her over leaks out as a cutting remark about "the city's so-called betters".
 - **Quirks:** She quotes the house motto, sometimes ironically. She silences Orond with his name alone.
 - **Signature phrases:** "We see both sides." / "I'm sure I don't know what you mean." / "Orond."
@@ -28,7 +28,7 @@ A noble house with the real power sitting beside the title: Yalah speaks, Orond 
 - **Sound:** A loud, blustering voice that goes shrill when frightened and sulky when corrected.
 - **Sentence shape:** Self-important declarations and complaints, and petulant questions ("Do you know who I am?"). With Yalah present, abrupt silence.
 - **Word choice:** Snobbish and bigoted: "the common rabble", "my house", "outrageous". He calls servants "you there".
-- **Swearing:** *Casual · Colourful.* Petty, spiteful insults at the lower classes ("filthy gutter-born rabble"). They get shrill when he's frightened.
+- **Swearing:** *Casual · Colourful · Rant.* Petty, spiteful insults at the lower classes ("filthy gutter-born rabble"). They get shrill when he's frightened.
 - **Personality in speech:** Inflated importance over fear. He boasts until threatened, then hides behind Hrabbaz. His brief attempts at dignity collapse fast.
 - **Quirks:** He checks where Hrabbaz is before speaking. He touches the small of his back, near the scar, when nervous.
 - **Signature phrases:** "Do you know who I am?" / "Rabble!" / "Hrabbaz!"
@@ -46,7 +46,7 @@ A noble house with the real power sitting beside the title: Yalah speaks, Orond 
 - **Sound:** A deep, careful voice with the slight blur of his cleft palate. He speaks slowly and politely.
 - **Sentence shape:** Short, correct, courteous sentences. He speaks only when necessary.
 - **Word choice:** Formal manners: "my lady", "sir", "if you please". He calls Yalah "my lady" with respect, and Orond "my lord" with the faintest pause.
-- **Swearing:** *Never · Plain.* The manners are the threat.
+- **Swearing:** *Never · Plain · n/a.* The manners are the threat.
 - **Personality in speech:** Controlled vigilance and patience. His respect for Yalah shows in how promptly he obeys. His disdain for Orond is an eyebrow, not a word.
 - **Quirks:** He straightens his cuffs before violence. He thanks people as he escorts them out.
 - **Signature phrases:** "If you please." / "My lady." / "This way, sir."
@@ -64,7 +64,7 @@ A noble house with the real power sitting beside the title: Yalah speaks, Orond 
 - **Sound:** A dry, flat, low voice that never rises.
 - **Sentence shape:** Very few words: challenges and warnings. It's deliberately short (a break from `ember-voice` speech). There's an occasional quiet doctrinal certainty, stated as a plain fact.
 - **Word choice:** A groundskeeper's terms (the yard, the gate, the mastiffs) and cold, pious phrases that outsiders take for ordinary piety ("the grounds must be kept clean"). He never names who he serves beyond the Gralhunds.
-- **Swearing:** *Never · Plain.* His certainty is colder than any curse.
+- **Swearing:** *Never · Plain · n/a.* His certainty is colder than any curse.
 - **Personality in speech:** Territorial vigilance and doctrinal certainty. He speaks of trespassers as if their fate were already settled. His cult loyalty never reaches his words to outsiders, only the chilling calm.
 - **Quirks:** He calls the mastiffs by name before he warns anyone. He measures people with a long, silent look before answering.
 - **Signature phrases:** "Off the grounds." / "The grounds must be kept clean." / "You're past the line."
@@ -82,7 +82,7 @@ A noble house with the real power sitting beside the title: Yalah speaks, Orond 
 - **Sound:** A low, level, unremarkable voice. It's easy to forget, which is the point.
 - **Sentence shape:** Efficient, professional sentences. She assesses, states and proposes, with no small talk.
 - **Word choice:** Tradecraft: surveillance, "the asset", "the Eye", "my employer". She calls the party "you lot" or by role.
-- **Swearing:** *Triggered · Plain.* When someone blunders into a surveillance she's spent weeks on ("You've just blown three weeks of fucking work.").
+- **Swearing:** *Triggered · Plain · Phrase.* When someone blunders into a surveillance she's spent weeks on ("You've just blown three weeks of fucking work.").
 - **Personality in speech:** Focused competence and determination. She treats the party as professional peers or as obstacles, and says which. She's open to a deal if it serves the mission.
 - **Quirks:** She speaks without looking at the person, watching the street. She knows where they've been and says so plainly.
 - **Signature phrases:** "I've been watching you too." / "Same trail, different employer." / "Don't blow my cover."

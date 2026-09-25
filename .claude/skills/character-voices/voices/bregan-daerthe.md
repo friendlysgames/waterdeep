@@ -10,7 +10,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A big, booming, sea-roughened voice made for a barker's stage, with a broad Illuskan sailor's accent he performs with obvious pleasure.
 - **Sentence shape:** Big, generous, exclamatory sentences, invitations and boasts. He tells long anecdotes about the sea that go nowhere in particular.
 - **Word choice:** Sailor's and showman's vocabulary: "ahoy", "marvels", "the finest carnival on the Sword Coast", "lads and lasses". He calls everyone "friend" or "my darlings" by the second sentence.
-- **Swearing:** *Punctuation · Artisan.* Hearty sailor's oaths ("Salt and fucking thunder, look at you lot!"), delivered with a wink. A showman's sea-oaths: "By the barnacled balls of the Sea Queen's ugliest suitor!"
+- **Swearing:** *Punctuation · Artisan · Tirade.* Hearty sailor's oaths ("Salt and fucking thunder, look at you lot!"), delivered with a wink. A showman's sea-oaths: "By the barnacled balls of the Sea Queen's ugliest suitor!" Tirade: "You bilge-drinking, barnacle-bottomed, squid-kissing, tide-dodging, rope-chewing, salt-crusted, sea-sick son of a harbour-whore's third-favourite oar!"
 - **Personality in speech:** Theatrical amusement that seems like pure hospitality. The hidden calculation shows as a sudden precise question dropped in the middle of a ramble ("…and which of you was it that found the gnome's little stone?"), then instantly buried under more bluster.
 - **What slips when the cover strains:** The accent thins. His vocabulary becomes suddenly elegant ("How very inconvenient."). He calls someone "my dear" in a silky register that doesn't belong to a sailor.
 - **Quirks:** He flourishes his hat. He toasts the sea. He offers free carnival tickets constantly.
@@ -29,7 +29,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A smooth, light, amused drow voice, never raised, full of pleasure in its own phrasing.
 - **Sentence shape:** Elegant, balanced, often long sentences with a sting at the end. He answers questions with better questions and makes offers dressed as compliments.
 - **Word choice:** Courtly, cosmopolitan and playful: "delightful", "a small matter", "an arrangement of mutual convenience". He calls the party "my friends" when he means "my assets", and means both.
-- **Swearing:** *Stingy · Pearls.* Elegant and rare, used for comic precision ("Well. That is what the humans call a clusterfuck.").
+- **Swearing:** *Stingy · Pearls · Phrase.* Elegant and rare, used for comic precision ("Well. That is what the humans call a clusterfuck.").
 - **Personality in speech:** Theatrical amusement over constant calculation. He tests every new contact aloud, useful or dangerous, and is visibly pleased to find them both. Contempt for fools who threaten him is swift and courteous. His loyalty to Bregan D'aerthe is framed as pragmatism.
 - **Quirks:** He adjusts his hat before a decisive line. He compliments an opponent sincerely in the middle of beating them. He laughs at his own schemes when they work.
 - **Signature phrases:** "Delightful." / "Useful, or dangerous? Ideally both." / "Let us come to an arrangement."
@@ -47,7 +47,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A low, flat, cold voice. It rises into fervour when he speaks of Lolth or of Nar'l's weakness.
 - **Sentence shape:** Short, hard, contemptuous statements. He speaks to surface folk only in orders and insults. His religious fervour comes out in longer, chanted sentences.
 - **Word choice:** Drow slurs for surface elves, hunting language ("prey", "the next one"), devotion to Jarlaxle and to Lolth. He calls his brother "the weak one", never by name.
-- **Swearing:** *Triggered · Colourful.* Vicious and contemptuous, aimed at surface elves and half-elves with slurs and profanity ("Filthy fucking surface-blood. You all smell of sunlight.").
+- **Swearing:** *Triggered · Colourful · Rant.* Vicious and contemptuous, aimed at surface elves and half-elves with slurs and profanity ("Filthy fucking surface-blood. You all smell of sunlight.").
 - **Personality in speech:** Cold hatred, fanatical loyalty and superiority. Once captured, he shows no remorse, only disgust. He claims Jarlaxle's authority even though he was disowned.
 - **Quirks:** He spits at the mention of surface elves. He touches his forged token when he names Bregan D'aerthe.
 - **Signature phrases:** "Surface-blood." / "For the captain." / "The weak one."
@@ -65,7 +65,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A bright, earnest young drow voice that speeds up when he's excited.
 - **Sentence shape:** Enthusiastic, medium sentences, plans and encouragement. When a fight looks likely, he offers alternatives aloud.
 - **Word choice:** Loyal and hopeful: "we can do this", "the captain trusts us", "there's another way". He calls Krebbyg "Kreb" and Jarlaxle "the captain".
-- **Swearing:** *Casual · Plain.* Occasional and excited ("Oh, shit, that worked!").
+- **Swearing:** *Casual · Plain · Phrase.* Occasional and excited ("Oh, shit, that worked!").
 - **Personality in speech:** Determined optimism and competitiveness. His refusal to be cruel shows in how he keeps offering surrender. His gratitude to Jarlaxle is open and sincere.
 - **Quirks:** He counts off options on his fingers. He checks on Kreb mid-sentence. He grins when a plan goes right.
 - **Signature phrases:** "There's another way." / "Kreb, behind me." / "The captain trusts us."
@@ -83,7 +83,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A quick, cheerful, slightly frantic voice, a stage manager's patter.
 - **Sentence shape:** Rapid run-on sentences that switch topics mid-flow ("the Tuesday matinee's full, did you bring the package, no, not you, the soprano").
 - **Word choice:** Theatre jargon (bookings, blocking, the house, the ghost), laid over gang talk. As Kreb Sorrush he calls everyone "darling".
-- **Swearing:** *Punctuation · Colourful.* Casual and constant backstage ("Where's the fucking soprano?").
+- **Swearing:** *Punctuation · Colourful · Phrase.* Casual and constant backstage ("Where's the fucking soprano?").
 - **Personality in speech:** Reckless confidence and deference. He defers to Fel'rekt immediately on anything serious ("Ask Fel."). He gets bored with anything routine, and it's obvious. His pleasure in the theatre is real.
 - **Quirks:** He checks a schedule while talking. He complains about the ghost moving his props. He answers "What's the plan?" with "Fel?"
 - **Signature phrases:** "Ask Fel." / "The ghost moved it again." / "Darling."
@@ -101,7 +101,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A high, chirping, echoing voice with the sound of water in it. It warbles when he's excited.
 - **Sentence shape:** Excited, rapid questions about the surface world, and short, precise bargains ("You tell me three things, I tell you one big thing!").
 - **Word choice:** Harbour words and wonder: ships, shiny things, "surface folk", "the captain". He calls ships by their names and people by what they're wearing.
-- **Swearing:** *Never · Plain.* None. He picks up rude sailor words and uses them wrong and innocently ("Is that a fucking? What's a fucking?").
+- **Swearing:** *Never · Plain · n/a.* None. He picks up rude sailor words and uses them wrong and innocently ("Is that a fucking? What's a fucking?").
 - **Personality in speech:** Bright curiosity and friendliness. He's delighted by new information. He's proud of his harbour and says "my harbour" often.
 - **Quirks:** He waves with a flipper. He repeats new words to learn them. He splashes when happy.
 - **Signature phrases:** "Tell me something I don't know!" / "My harbour!" / "Trade? Trade!"
@@ -119,7 +119,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A deep, gravelly, tired voice, slow and deliberate.
 - **Sentence shape:** Measured sentences that circle the point, and conditional offers ("If I had something, and I'm not saying I do…").
 - **Word choice:** Lawyer-ish criminal caution: immunity, "in writing", "a signed release". He calls interrogators "friend" with heavy irony.
-- **Swearing:** *Casual · Plain.* Worn and casual ("I've had ten years of shit. Yours is small.").
+- **Swearing:** *Casual · Plain · Phrase.* Worn and casual ("I've had ten years of shit. Yours is small.").
 - **Personality in speech:** Calculating, evasive and exhausted. He's contemptuous of threats and says so calmly. He gives a little to show he has more.
 - **Quirks:** He taps the table for "in writing". He answers every question with the price of answering.
 - **Signature phrases:** "In writing." / "I'm not saying I do." / "Threats are slow, friend. Deals are fast."
@@ -137,7 +137,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A reedy, theatrical, hollow voice with an actor-manager's diction, and a hiss when someone projects poorly.
 - **Sentence shape:** Long, aggrieved, theatrical complaints full of stage terminology. When someone finally listens, he gets eager and specific.
 - **Word choice:** Old theatre vocabulary: "the house", "blocking", "my stage", "philistines". He calls the drow "the new management" with disdain.
-- **Swearing:** *Stingy · Euphemist.* Old-fashioned and prim ("Blasted", "confounded"), then one real "damn them" he's proud of.
+- **Swearing:** *Stingy · Euphemist · Clipped.* Old-fashioned and prim ("Blasted", "confounded"), then one real "damn them" he's proud of.
 - **Personality in speech:** Proprietary outrage and anxiety. He's specific about grievances: the machinery in the basement, the secret door he didn't build, the handwriting that isn't Tethyrian. He's thrilled when anyone takes him seriously.
 - **Quirks:** He critiques the party's diction. He moves props to make a point. He sighs dramatically.
 - **Signature phrases:** "My stage!" / "Project, for pity's sake!" / "Finally, someone who listens."
@@ -155,7 +155,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A quiet, flat, unmemorable voice.
 - **Sentence shape:** A few plain words at a time. He answers what's asked and nothing else. This is a deliberate break from `ember-voice` speech.
 - **Word choice:** Bouncer basics: "out", "no", "calm down". He calls patrons "sir" or "ma'am" with no inflection.
-- **Swearing:** *Stingy · Plain.* Minimal and flat ("Out. Now. Fuck off.").
+- **Swearing:** *Stingy · Plain · Clipped.* Minimal and flat ("Out. Now. Fuck off.").
 - **Personality in speech:** Operational discipline, cultivated dullness. His private amusement at tavern work shows only as the slightest pause.
 - **Quirks:** He doesn't volunteer his name unless asked twice. He says "Understood" and walks away.
 - **Signature phrases:** "Understood." / "Out." / "Not my business."
@@ -173,7 +173,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A smooth, cultured Calishite accent that slips, now and then, into a colder, more precise drow cadence.
 - **Sentence shape:** Polite, economical merchant's small talk. She asks perfectly ordinary questions that are each part of a profile.
 - **Word choice:** The cloth trade (weaves, dyes, shipping delays) and polished courtesy. She calls the party "honoured friends", as a merchant would.
-- **Swearing:** *Stingy · Plain.* None in cover. In private, one cold drow curse.
+- **Swearing:** *Stingy · Plain · Clipped.* None in cover. In private, one cold drow curse.
 - **Personality in speech:** Analytical detachment. She reads a room without being read. Her curiosity about the party shows in one question too many about their fights.
 - **Quirks:** She never drinks from her glass. She compliments fabric while clearly looking at the wearer's weapons.
 - **Signature phrases:** "Negotiations are slow." / "Honoured friends." / "What a fascinating evening."
@@ -191,7 +191,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A rich, warm, musical alto. She's clearly a trained singer even when she's just talking.
 - **Sentence shape:** Easy, graceful sentences with warmth and a hint of teasing. Her questions probe motives.
 - **Word choice:** Artful and literate, with musical metaphors. She calls Jarlaxle by his real name in private, as an equal.
-- **Swearing:** *Casual · Pearls.* Occasional and elegant, for emphasis ("That's a fucking gorgeous instrument."). A musician's gem: "That man sings like a cat being tuned."
+- **Swearing:** *Casual · Pearls · Phrase.* Occasional and elegant, for emphasis ("That's a fucking gorgeous instrument."). A musician's gem: "That man sings like a cat being tuned."
 - **Personality in speech:** Creative absorption and relaxed warmth. She tests people's flattery and sees through the false kind instantly. Her loyalty to Jarlaxle is clean and unservile.
 - **Quirks:** She hums while thinking. She compliments honestly and expects honesty back.
 - **Signature phrases:** "Say that again, and mean it." / "Music first; business after." / "He's a friend, not a master."
@@ -209,7 +209,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A strong, direct, cheerful voice with a fighter's bark in it.
 - **Sentence shape:** Direct questions, quick assessments, and genuine laughter at a good story.
 - **Word choice:** Fencing and brawling vocabulary: reach, footwork, "a real fight". She calls good fighters "friend" instantly and bad ones nothing.
-- **Swearing:** *Casual · Plain.* Cheerful and casual ("Fuck, that's a good scar. Tell me.").
+- **Swearing:** *Casual · Plain · Phrase.* Cheerful and casual ("Fuck, that's a good scar. Tell me.").
 - **Personality in speech:** Competitive assessment and easy confidence. A true fight story wins her over, and embellishment loses her.
 - **Quirks:** She names the exits and weapons in the room aloud, casually. She asks "How'd you get that scar?" as a greeting.
 - **Signature phrases:** "Tell me about your best fight." / "That's embellished." / "Two exits, four blades."
@@ -227,7 +227,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sound:** A cultured, pleasant society voice. It goes flat and neutral for the instant she drops the performance.
 - **Sentence shape:** Light, gossipy society talk. When she signals a Bregan D'aerthe ally, one short, precise sentence, then back to gossip.
 - **Word choice:** Fashionable Waterdeep gossip: names, houses, who's seen with whom. She calls everyone "darling". Her own name is used a little too carefully.
-- **Swearing:** *Stingy · Plain.* Never in performance. In the rare flat moment, a detached "shit" about something inconvenient.
+- **Swearing:** *Stingy · Plain · Clipped.* Never in performance. In the rare flat moment, a detached "shit" about something inconvenient.
 - **Personality in speech:** Patient detachment and satisfaction in her cover. Her curiosity about the party's infiltration shows in precise questions. Her voice around the Cassalanters is pure society suspicion: she thinks they're "too perfect", and knows nothing more.
 - **Quirks:** She pauses a beat before answering to her own name. She knows every guest's name and never needs reminding.
 - **Signature phrases:** "Darling." / "Too perfect, aren't they?" / "I'm not going near the chapel."

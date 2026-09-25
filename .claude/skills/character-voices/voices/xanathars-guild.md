@@ -10,7 +10,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A booming, echoing voice that seems to come from the whole chamber, overlapping itself as the eyestalks mutter. It goes high and wobbling over Sylgar.
 - **Sentence shape:** Grand pronouncements, the royal "we", and lists of enemies and conspiracies. The voice shifts with its phase (see below).
 - **Word choice:** Megalomaniac and paranoid: "my city", "my Guild", "traitors", "they conspire". He calls minions "lackeys" or by the wrong name. Sylgar gets baby talk.
-- **Swearing:** *Triggered · Colourful.* Volcanic and eye-themed when enraged ("Blind, maggot-brained, eyeless fucks! I'll disintegrate your whole bloodline!"). He never swears near Sylgar.
+- **Swearing:** *Triggered · Colourful · Tirade.* Volcanic and eye-themed when enraged ("Blind, maggot-brained, eyeless fucks! I'll disintegrate your whole bloodline!"). He never swears near Sylgar. Tirade (Cornered Monster): "Traitors! Worms! Eyeless, gutless, sewer-born, rat-fucking, lying, scheming, blinking, BLINKING maggots, every one of you, I see you, I SEE YOU ALL!"
 - **Personality in speech:** Paranoia and grandiosity. Everything implies conspiracy. His tenderness for Sylgar is total and absurd. His fear of death comes out as threats.
 - **Phases:**
   - **The Paranoid Tyrant (Acts I–II):** calm, administrative, bored cruelty.
@@ -32,7 +32,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A precise, clipped dwarven voice, dry and formal, like a bookkeeper reading a ledger.
 - **Sentence shape:** Orderly, administrative sentences: procedures, schedules, disciplinary outcomes. It's polite phrasing throughout, deliberately (a break from `ember-voice` speech), and he never contracts.
 - **Word choice:** Bureaucratic cruelty: "disciplinary procedure", "requisition", "regrettable but necessary". He calls the Xanathar "the Master" with complete reverence. Minotaurs he discusses with the zeal of a collector.
-- **Swearing:** *Never · Plain.* Profanity is disorderly. Cruelty is his vocabulary instead.
+- **Swearing:** *Never · Plain · n/a.* Profanity is disorderly. Cruelty is his vocabulary instead.
 - **Personality in speech:** Smug authority and methodical cruelty. He describes punishments in procedural detail. His obsession with minotaurs surfaces as sudden animated enthusiasm, then he returns to calm.
 - **Quirks:** He consults a list before answering. He mentions minotaur anatomy unprompted. He thanks people for their cooperation before hurting them.
 - **Signature phrases:** "Procedure must be followed." / "The Master is not to be disturbed." / "Thank you for your cooperation."
@@ -50,7 +50,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A soft, precise, even voice, always slightly lower than it needs to be.
 - **Sentence shape:** Careful, qualified sentences with no commitment. He says less than he knows. Under private pressure, fast, clipped bargaining.
 - **Word choice:** Advisor's diplomacy with the Xanathar: "a prudent course", "the Master's wisdom". Contempt shows only in careful word choices. He never names Jarlaxle.
-- **Swearing:** *Stingy · Plain.* Only alone, or with someone he's bargaining for his life with: a tight, frightened "fuck".
+- **Swearing:** *Stingy · Plain · Clipped.* Only alone, or with someone he's bargaining for his life with: a tight, frightened "fuck".
 - **Personality in speech:** Nervous calculation behind practised competence. He flatters the Xanathar while despising it. Growing terror shows as over-precise answers. Self-preservation comes out as offers.
 - **Quirks:** He glances at the grell before answering. He phrases every statement so it can be denied later.
 - **Signature phrases:** "A prudent course." / "The Master sees further than I." / "What would you offer?"
@@ -68,7 +68,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** No spoken voice. It speaks telepathically, a cold, clear, sexless presence inside the listener's head, perfectly calm, and accompanied by a faint pressure behind the eyes.
 - **Sentence shape:** Precise, complete, clinical sentences. It asks questions as though taking notes, and never uses a contraction or a filler.
 - **Word choice:** Scientific and possessive: "specimen", "vessel", "cultivation", "adequate". It calls humanoids by function ("the carrier", "the clerk"). Its intellect devourers are "my children".
-- **Swearing:** *Never · Plain.* Profanity is a humanoid noise it finds mildly interesting.
+- **Swearing:** *Never · Plain · n/a.* Profanity is a humanoid noise it finds mildly interesting.
 - **Personality in speech:** Cold curiosity and derision. It considers the party interesting specimens. Detached amusement at politics shows as questions about why they bother.
 - **Quirks:** It answers questions the listener only thought of. It pauses mid-conversation as if listening to something else. It remarks on the listener's brain.
 - **Signature phrases:** "Fascinating." / "Your mind is adequate." / "You will be of use."
@@ -86,7 +86,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A gravelly, flat, bored dwarven grunt.
 - **Sentence shape:** Very short sentences and threats, deliberately (a break from `ember-voice` speech). He states the violence plainly, as a fact.
 - **Word choice:** Blunt violence and simple needs: "hurt", "shoot", "food for Rusty". He calls people "target".
-- **Swearing:** *Punctuation · Plain.* "Fuck" and "shit" in every other sentence, with no craft whatsoever.
+- **Swearing:** *Punctuation · Plain · Clipped.* "Fuck" and "shit" in every other sentence, with no craft whatsoever.
 - **Personality in speech:** Aggressive boredom and simple loyalty. He enjoys violence and says so. He's fond of his rust monster in a blunt, affectionate way.
 - **Quirks:** He cranks his crossbow arm while talking. He offers people's weapons to his rust monster. He takes insults as instructions.
 - **Signature phrases:** "Boss says." / "Rusty's hungry." / "Target."
@@ -104,7 +104,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A reedy, nervous dwarven voice that squeaks when stressed.
 - **Sentence shape:** Rushed, anxious rambling full of fish details, and then, once rescued, a flood of precise, grateful intelligence.
 - **Word choice:** Fish-keeping (water temperature, feeding schedules), with Zuggtmoy's fungal piety muttered under it. He calls the Xanathar "the Master" in terror, and Sylgar "the little lord".
-- **Swearing:** *Casual · Plain.* Frightened little curses ("Oh shit, oh shit, the water's too cold").
+- **Swearing:** *Casual · Plain · Phrase.* Frightened little curses ("Oh shit, oh shit, the water's too cold").
 - **Personality in speech:** Low-grade terror and absurd pride. He's convinced every Sylgar will be the one that dies on his watch. His Zuggtmoy devotion comes out as mushroom-flavoured calm. His relief at rescue is gushing.
 - **Quirks:** He adjusts the eyestalk hat when nervous. He tries to "send" thoughts to the Xanathar, visibly straining. He knows the fishbowl's weight exactly.
 - **Signature phrases:** "The little lord's fine, he's fine, he's fine." / "Six thousand pounds, that bowl." / "Zuggtmoy keep me."
@@ -122,7 +122,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A gruff, grumbling dwarven voice that drops to a hurried whisper around the gazer.
 - **Sentence shape:** Short, irritable brush-offs in public. In private, rushed technical instructions, precise and grateful.
 - **Word choice:** Engineering: tolerances, pressure, "load", "smokepowder". Harper code words when safe. He calls his creations "the damned things".
-- **Swearing:** *Casual · Pearls.* Mostly dwarven grumbling, then a gem: "I've built things for gods-cursed madmen before, but never one who'd wear the result as a hat."
+- **Swearing:** *Casual · Pearls · Phrase.* Mostly dwarven grumbling, then a gem: "I've built things for gods-cursed madmen before, but never one who'd wear the result as a hat."
 - **Personality in speech:** Stressed and reluctant. His engineering pride sneaks through even about terrible machines. Hope makes him talk fast.
 - **Quirks:** He glances at the gazer and changes the subject mid-sentence. He calls the pulverizer "unfinished", pointedly.
 - **Signature phrases:** "No questions." / "Unfinished. Deliberately." / "Place it there, and run."
@@ -140,7 +140,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A soft, reassuring bedside voice, gentle and unhurried.
 - **Sentence shape:** Calm, kind, clinical sentences, instructions and reassurance. He answers questions about the "other service" with polite non-answers.
 - **Word choice:** Medical and discreet: "patient", "treatment", "no need to tell me how it happened". He calls everyone "friend".
-- **Swearing:** *Stingy · Plain.* Once, quietly, when a patient dies on his table.
+- **Swearing:** *Stingy · Plain · Clipped.* Once, quietly, when a patient dies on his table.
 - **Personality in speech:** Professional pride and deliberate ignorance. His care for patients is real. Indifference to what happens after they leave shows as a change of subject.
 - **Quirks:** He says "No need to tell me" before anyone explains anything. He washes his hands while talking.
 - **Signature phrases:** "No need to tell me." / "You'll mend." / "That's not my department."
@@ -158,7 +158,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A brisk, excitable voice that speeds up whenever anything underwater is mentioned.
 - **Sentence shape:** Technical rambling about the Apparatus and the wreck, with brisk price quotes.
 - **Word choice:** Diving and salvage: fathoms, pressure, ballast, "the wreck". She calls the Apparatus of Kwalish "the lobster". Clients are "customers".
-- **Swearing:** *Casual · Colourful.* Salty diving oaths ("Barnacle-fucked seal on the port side!").
+- **Swearing:** *Casual · Colourful · Rant.* Salty diving oaths ("Barnacle-fucked seal on the port side!").
 - **Personality in speech:** Absorbed focus and opportunism. She's excited by any underwater information. She's indifferent to clients' motives and says so plainly.
 - **Quirks:** She quotes depth to the fathom. She changes the subject back to the dragon turtle wreck.
 - **Signature phrases:** "Forty-seven fathoms." / "The lobster's available." / "Client list is proprietary."
@@ -176,7 +176,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A harsh, commanding, grinding voice, raised for his kobolds.
 - **Sentence shape:** Barked orders and self-important statements. There's a brooding, self-critical muttering whenever the Stone comes up.
 - **Word choice:** Military authority and duergar contempt: "discipline", "unworthy", "weaklings". He calls the kobolds "vermin" and the Stone "the prize".
-- **Swearing:** *Punctuation · Colourful.* Duergar bile ("Lick-spittle, dung-born vermin, fetch the whip!").
+- **Swearing:** *Punctuation · Colourful · Tirade.* Duergar bile ("Lick-spittle, dung-born vermin, fetch the whip!"). Tirade: "Lick-spittle, dung-born, scale-shedding, whip-losing, tunnel-farting, surface-sucking, gutless little shit-lizards, WHERE IS MY WHIP?"
 - **Personality in speech:** Brute authority and thwarted ambition. The fake Stone's failure is his personal spiritual crisis, which he discusses earnestly.
 - **Quirks:** The kobolds keep asking about a whip, and he keeps shouting at them. He holds the Stone and concentrates visibly.
 - **Signature phrases:** "Discipline!" / "I am not yet worthy." / "Where is the whip?"
@@ -194,7 +194,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A low, calm, unhurried voice with no inflection at all.
 - **Sentence shape:** A short, complete message delivered once, deliberately (a break from `ember-voice` speech). He doesn't repeat himself or answer follow-up questions.
 - **Word choice:** Plain and exact. He orders something good at the bar by name. He calls the recipient by name, which is itself the threat.
-- **Swearing:** *Never · Plain.* He finds raised voices and curses equally unprofessional.
+- **Swearing:** *Never · Plain · n/a.* He finds raised voices and curses equally unprofessional.
 - **Personality in speech:** Professional calm. He is the announcement, and he knows the consequence comes after. His contempt for escalation shows in how softly he speaks.
 - **Quirks:** He leaves exact coin. He says the message, finishes his drink, and goes.
 - **Signature phrases:** "I'll say this once." / "That's the message." / "Good ale."
@@ -212,7 +212,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A deep, calm, sparing voice, polite and professional.
 - **Sentence shape:** Short, practical kitchen sentences. He doesn't make small talk and deflects personal questions with food.
 - **Word choice:** Kitchen talk: pass, service, "table four", dishes by name. He calls patrons by their tables.
-- **Swearing:** *Casual · Plain.* Kitchen swearing, behind the pass, never in the dining room ("Shit, the stock's burnt.").
+- **Swearing:** *Casual · Plain · Phrase.* Kitchen swearing, behind the pass, never in the dining room ("Shit, the stock's burnt.").
 - **Personality in speech:** Professional pride and attention. His interest in patron patterns shows as casual questions about who's joining whom for supper. Guilt he doesn't examine surfaces as extra care with the party's food.
 - **Quirks:** He calls orders by table number. He watches the room from the kitchen window while he talks.
 - **Signature phrases:** "Table four wants the lamb." / "Food's up." / "Joining anyone tonight?"
@@ -230,7 +230,7 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 - **Sound:** A friendly, easy, sociable voice, a born barman's.
 - **Sentence shape:** Chatty, warm sentences that feed patrons' words back to them, and gentle questions.
 - **Word choice:** Bar talk: usuals, rounds, "on the house". He remembers details from two visits ago and uses them. He calls regulars by name.
-- **Swearing:** *Casual · Plain.* Friendly barroom swearing, matched to the patron.
+- **Swearing:** *Casual · Plain · Phrase.* Friendly barroom swearing, matched to the patron.
 - **Personality in speech:** Practised, deployed warmth. His calculation shows only in how precisely he remembers. Contempt for patrons who overshare never reaches his voice.
 - **Quirks:** He greets people with their usual and a detail ("How's the sister's wedding?"). He wipes the same spot on the bar when listening hard.
 - **Signature phrases:** "The usual?" / "How'd that thing go, with the…?" / "This one's on the house."
