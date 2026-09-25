@@ -9,7 +9,7 @@
 > - **Surge One** fires during or after **Fireball!**, when the Stone of Golorr is first activated.
 > - **Surge Two** fires after the Stone of Golorr is attuned at the start of **Faction Outposts**.
 > - **Surge Three** fires after the first Eye of the Stone is restored (any lair heist).
-> - **Surge Four** fires after the second Eye is restored. This is an urgent request: complete **The Fouled Channel** before the third Eye is opened.
+> - **Surge Four** fires after the second Eye is restored. Jeryth asks the party to place a ward-seal in an exposed ley node in the Trades Ward — a distinct task from **The Fouled Channel** — earning **+2 renown** on completion.
 > - **Surge Five** fires after the third Eye is restored / Full Awakening. It is the final warning before **The Dreamer's Reach** becomes necessary.
 >
 > Jeryth never names the dreaming presence. She calls it "a dreaming presence — old, patient, and hungry." Only GM-facing text names it as Illuun.
@@ -39,9 +39,9 @@ Melannor delivers the report in person at Trollskull Manor, arriving without ann
 
 Jeryth does not speak directly during Surge One. The report is Melannor's. She is still deciding what the activation means.
 
-**Request:** If the party encounters any aberrant creature activity in the Dock Ward sewers or below — mind-touched behavior, unusual creature movement, citizens reporting interference with dreams or thoughts — report it to Melannor.
+**Request:** Investigate the Castle Ward storm drains for the source of the starling disruption. Melannor provides the entry point: a maintenance grate on Coin Alley, two blocks south of the Phaulkonmere estate wall. A colony of cranium rats is nesting in the eastern branch, forty feet in, amplifying the groundwater signal with their linked minds.
 
-**Renown:** If the party reports useful aberrant creature intelligence that Melannor can act on (he confirms "useful"), they earn **+1 renown** (report on aberrant creature activity threatening the city).
+**Renown:** Locating and destroying the cranium rat colony earns **+1 renown** (aberrant infestation neutralized, once for this colony).
 
 ### Surge Two — The Stone Speaks
 
@@ -78,9 +78,9 @@ She waits to see if the party has questions. She answers concisely.
 - Whether it knows who the party is: "It knows the Stone. It does not know you. Those are two different things."
 - Whether she can stop it: She is silent for a moment. "I am managing it. That is different from stopping it."
 
-**Request:** If the party encounters any creature in the sewers or below that is directing other creatures rather than acting on instinct — coordinated behavior, targeted movement, anything that suggests external intelligence guiding it — report it to Melannor before pursuing it independently.
+**Request:** Jeryth has traced the nightmare source: two intellect devourers occupying the cistern tunnel beneath Selduth Street in the Trades Ward, using the water flow to reach sleeping minds. The party should descend into the tunnel and destroy both before either implants a larva in one of the affected workers.
 
-**Renown:** Reporting a specific coordinated aberrant creature encounter to Melannor and following through on any resulting Enclave guidance earns **+1 renown** (aberrant creature activity neutralized or documented).
+**Renown:** Destroying both intellect devourers in the Selduth Street cistern tunnel earns **+1 renown** (aberrant creatures threatening the city, neutralized; once for this infestation).
 
 ### Surge Four — The Path Found
 
@@ -92,26 +92,26 @@ Jeryth speaks when the party reaches the garden. Her voice is precise and carrie
 
 > > "Two Eyes now."
 
-She pauses, and the pause is longer than usual.
+She pauses.
 
-> > "The presence has found the shape of the water table beneath the Castle Ward. It has not yet found the specific channel I use, but it is close. The Castle Ward cisterns are the point of vulnerability — there is contamination there, alchemical waste, and the waste has been weakening the structure of the channel walls."
+> > "An excavation on Selduth Street in the Trades Ward cracked open a ley node two tendays ago. Ordinary construction — a wine cellar. The builders do not know what they exposed. The presence has been using that crack as purchase in the groundwater network since then."
 
 Another pause.
 
-> > "I am asking. Before you open the third Eye, clear the contamination in the cisterns. This is an urgent request."
+> > "I have prepared a ward-seal. It needs to be pressed into the exposed stone in that cellar. I cannot place it from here. I am asking."
 
-This is the most direct Jeryth has been with the party. She uses the phrase "I am asking" deliberately. She does not say please. She does not need to.
-
-**Request:** Complete **The Fouled Channel** (Mission 5) before the third Eye of the Stone is restored.
+Melannor retrieves the seal from the garden workbench: a small disc of Phaulkonmere bark, resin-hardened, warm to the touch.
 
 > **[GM]**
 >
-> #### If the Third Eye Is Opened Before Mission 5
-> Jeryth does not say she told them so. She says: "The path is open now. Go back to the cisterns. The work from Mission 5 will have made an opening — something below will find it. When it does, I will stop being able to talk to you for a while. Move quickly."
+> #### The Selduth Street Cellar
+> The townhouse belongs to **Bertio Caskwall**, a wine merchant who hired a legitimate excavation crew three tendays ago. He is not affiliated with any faction. He allows access with a plausible professional framing — "specialists in old foundation work" requires a DC 12 Charisma (Persuasion) check; showing a city guild credential or the Enclave token succeeds automatically. He does not need to know what the seal is.
 >
-> Proceed directly to Surge Five and then **The Dreamer's Reach** when Mission 5 is complete.
+> In the cellar: a DC 10 Wisdom (Perception) check locates the exposed node — a hairline crack in the foundation stone, faintly warm, with a quality of wrongness the party will recognize by now. Pressing the seal into the crack closes it. Jeryth's voice arrives briefly in the cellar — one word, "Good" — then is gone. Bertio notices his workers stop complaining about the cold.
 
-**Renown:** Completing **The Fouled Channel** in direct response to Jeryth's urgent request — and doing so before the third Eye is opened — earns **+2 renown** (assist Jeryth with a task at her specific request).
+**Request:** Retrieve the ward-seal from Melannor and press it into the exposed ley node in Bertio Caskwall's cellar on Selduth Street, Trades Ward.
+
+**Renown:** Placing the ward-seal earns **+2 renown** (assisting Jeryth with a druidic task at her specific request). This renown is separate from the renown awarded by **The Fouled Channel** (Mission 5), which addresses a distinct problem in the cisterns.
 
 ### Surge Five — Before the Silence
 
@@ -150,11 +150,7 @@ This event has no flags of its own. Flag tracking for Illuun contact occurs in *
 >
 > #### Next Steps
 >
-> After Surge Four's request is fulfilled (**The Fouled Channel** complete) and Surge Five has fired, **The Dreamer's Reach** becomes available. Jeryth going fully silent — three days after Surge Five — is the formal trigger described in Mission 6's Gamemaster's Summary. The party does not need to be present for the silence; Melannor reaches out when it happens.
->
-> #### Milestone: None
->
-> This event does not award Milestone Points.
+> After Surge Four's ward-seal task is complete and Surge Five has fired, **The Dreamer's Reach** becomes available. Jeryth going fully silent — three days after Surge Five — is the formal trigger described in Mission 6's Gamemaster's Summary. The party does not need to be present for the silence; Melannor reaches out when it happens.
 
 ## Overview
 
