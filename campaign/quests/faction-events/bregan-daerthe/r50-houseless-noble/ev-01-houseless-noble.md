@@ -12,7 +12,7 @@
 > - The character faces one genuine choice: whether to accept a blank favor (a future obligation Jarlaxle will name at his choosing) in exchange for full inner-circle access, or to hold the rank without the obligation at partial access
 > - **Vault of Dragons** context: if this event fires after **Vault of Dragons** resolves, the Underdark network references shift: the Luskan Lords' Alliance bid becomes a known outcome, and Jarlaxle's forward-looking remarks are about Undermountain rather than Waterdeep
 >
-> > > [!design]**Expected in Dungeon of the Mad Mage**
+> > [!design]**Expected in Dungeon of the Mad Mage**
 > >
 > > Reaching Renown 50 in Bregan D'aerthe requires completing all six missions at full bonus renown plus significant campaign contribution. Most parties will not reach this threshold during **Dragon Heist**. This event is written to work whether it fires before or after **Vault of Dragons**; see the Vault Context note in Scene 3. If it fires during Undermountain, the Underdark network is immediately relevant: the contacts in Menzoberranzan are operational assets below the surface. Run this event whenever it fires; it does not expire.
 

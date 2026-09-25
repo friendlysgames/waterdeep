@@ -36,7 +36,9 @@ Once he is willing to talk:
 
 > > "I know why Xanathar is suspicious. I have been covering for Soluun."
 
-He does not apologize. He does not explain his reasoning for covering his brother. > [!dialogue]**Why did you cover for Soluun?**
+He does not apologize. He does not explain his reasoning for covering his brother.
+
+> [!dialogue]**Why did you cover for Soluun?**
 > "He is my brother."
 
 He understands that this is not sustainable. He knows about Ahmaergo's investigation. He is willing to cooperate on a solution because the alternative is Nihiloor, which is not something he is willing to accept.
