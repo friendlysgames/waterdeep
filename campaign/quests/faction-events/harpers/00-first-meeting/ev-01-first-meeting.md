@@ -12,51 +12,49 @@
 >
 > #### Preparation
 >
-> Mirt has followed the party's movements since Renaer named them. He does not recruit strangers; Renaer's vouching converts persons of interest into candidates worth a theater ticket. The assessment happens before any assignment is offered.
+> Mirt has been watching the party since Renaer named them to him, and he doesn't recruit strangers. Renaer's vouching converts people of interest into candidates worth a theater ticket, and any assessment he makes happens before any assignment is offered.
 >
 > Private Box C at Lightsinger Theater is reserved for the evening. The tailor on Delzorin Street named in the note has been told to expect the party; formal attire will be ready before curtain.
 
 ### The Paper Bird
 
-The invitation arrives on its own schedule. It comes to a Trollskull Manor window and waits.
+A paper bird delivers the invitation on its own schedule, arriving at a Trollskull Manor window and waiting there until someone notices it.
 
 > [!readaloud]
-> The paper bird lands on the windowsill and waits, wings folded.
+> A paper bird is waiting on the windowsill when someone notices it, wings folded neatly over the small note tucked against its body.
 >
-> The note inside holds two tickets for *The Fall of Tiamat* at Lightsinger Theater, directions to a tailor on Delzorin Street with the words "they are expecting you," and a request to meet in Private Box C at intermission. Formal attire is required. There is no signature.
+> The note holds two tickets for *The Fall of Tiamat* at Lightsinger Theater, directions to a tailor on Delzorin Street with the words "they are expecting you," and a request to meet in Private Box C at intermission, where formal attire will be expected. There is no name on it anywhere.
 
 ### Act 1 at Lightsinger
 
-The party has two stops before the curtain rises. The tailor on Delzorin Street has the attire ready and the bill settled in advance; Mirt is already in Private Box C at Lightsinger Theater when they arrive.
+The party has two stops before the curtain rises. The tailor on Delzorin Street has the attire ready and the bill settled in advance, and Mirt is in Private Box C at Lightsinger Theater when they arrive.
 
 > [!readaloud]
-> The tailor on Delzorin Street has the door open before you reach it. The fittings take about twenty minutes, and the garments fit well enough that they must have been cut from a description. A card on the counter says *settled*. The tailor does not explain who paid.
+> The tailor on Delzorin Street has the door open before you reach it, and a pair of assistants are waiting inside with pins and chalk. The fittings take about twenty minutes, and the garments fit well enough that they must have been cut from a description of you. When you ask about the bill, the tailor slides a card across the counter with *settled* written on it and doesn't say who paid.
 
-The party makes their way to Lightsinger Theater and Private Box C. Mirt is already there.
+The party makes their way to Lightsinger Theater and Private Box C. Mirt is there.
 
 > [!readaloud]
-> The box is occupied when you arrive. A large, gray-haired man in a good wool suit sits back from the rail in a chair set where the curtain partly hides him from the other boxes. Wine has been poured for more people than were invited.
+> A large, gray-haired man in a good wool suit is in Private Box C when you arrive, seated well back from the rail in a chair placed where the curtain partly hides him from the boxes on either side. Wine has been poured for more people than were invited.
 >
 > > "Sit. The first act is short."
 >
-> He glances toward you as you settle in, takes a look at each face in turn, then turns back to the stage.
+> He glances toward you as you settle in, takes a look at each face in turn, and then turns back to the stage.
 
-He is in no hurry to speak.
+Mirt settles back as the curtain rises. He watches the stage without speaking, glancing toward the party from time to time, and seems perfectly content to let any conversation come on its own.
 
 > [!social]**The Old Wolf**
 >
 > Mirt (Chaotic Good, Illuskan human, he/him) :: a moneylender of prodigious girth, known across Waterdeep, with an adventuring past most people mistake for boasting.
 >
-> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is amused and calculating, always at once.
+> Mirt's way of sizing people up is to ask about Waterdeep gossip and whether they've eaten, rather than about their motives or intentions. He is genuinely curious about both, and he listens to the answers attentively and without hurrying anyone along. During Act 1 he is warm, a little amused, and in no particular rush.
 >
-> His habit is a slight tilt of the head while he recalculates something. Characters who take him for a wealthy eccentric find out otherwise when he offers the pin, because he has plainly decided about them before they finish answering.
+> His habit when listening closely is a slight tilt of the head. A character who watches him through the first act and makes a successful DC 14 Wisdom (Insight) check senses that he is measuring the party against specific criteria that he will not name if asked.
 >
 > Conversation topics Mirt is willing to discuss during Act 1 include:
-> - Waterdeep gossip and local color — freely
-> - Whether the party has eaten — with apparent concern
-> - The production, if anyone comments on it — with genuine opinions
->
-> Any character who watches Mirt for an extended period and makes a successful DC 14 Wisdom (Insight) check senses that he is measuring the party against specific criteria. The criteria are not stated, and he will not name them if asked.
+> - Waterdeep gossip and local color, which he shares freely.
+> - Whether the party has eaten, which he asks about with what looks like real concern.
+> - The production, if anyone comments on it, about which he has genuine opinions.
 >
 > Specific dialogue for Mirt on these topics is presented below.
 
@@ -64,26 +62,26 @@ He is in no hurry to speak.
 >
 > Mirt tilts his head toward whichever character spoke and considers for a moment.
 >
-> > "I hear things. Whether I share them depends on whether the conversation improves." He takes a sip of wine. "So far it's improving."
+> > "Oh, I hear a great many things. Whether I share any of them depends entirely on whether the conversation improves." He takes a sip of wine and glances back at the stage. "It's improving so far, if that helps."
 
 > [!qna]**Have you eaten?**
 >
 > He nods and reaches over to refill the nearest glass.
 >
-> > "Good. You'd be surprised how many people show up to things without having eaten first." He holds up the bottle to see if anyone else needs topping up. "The wine is decent, anyway. This theater doesn't cut corners on what they serve in the boxes."
+> > "Good, good. You'd be surprised how many people show up to an evening like this without having eaten first, and then wonder why they can't think clearly." He holds up the bottle to check if anyone else needs a top-up. "The wine's decent enough here, anyway. This theater doesn't cut corners on what they put in the boxes."
 
 > [!qna]**The production?**
 >
 > He watches the stage for a moment before he answers.
 >
-> > "The second act is better. Tiamat gets more to say. The playwright gave her the better lines. The mortals spend most of Act 1 just reacting to her."
+> > "The second act is better than this one, honestly. The playwright gave Tiamat the better lines, and you'll see why when she actually gets to speak for herself. Right now the mortals are spending most of Act 1 just reacting to her, which isn't nearly as interesting."
 
 ### The Intermission
 
-At intermission, Mirt sets down his glass and turns to face the box fully, for the first time all evening.
+At intermission, Mirt sets down his glass and turns to address the box directly.
 
 > [!readaloud]
-> At the bell, Mirt sets his glass on the rail and turns to face the box directly, something he has not done since you arrived.
+> At the bell, Mirt sets his glass down on the rail and turns his chair to face the rest of the box, settling back with his hands folded in his lap.
 >
 > > "The Harpers. I'll tell you what they are and what they want, and then you can ask questions. After that, you decide."
 >
@@ -91,15 +89,13 @@ At intermission, Mirt sets down his glass and turns to face the box fully, for t
 
 > [!social]**The Offer**
 >
-> Mirt does not sell the Harpers. He describes them: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members. He does not say what the first mission will be.
+> Mirt describes the Harpers plainly, without embellishment or persuasion: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members, and he doesn't say what the first mission will be.
 >
-> He does not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault, or any element of the Grand Game. This is an assessment, not a briefing.
->
-> When he has said what he came to say, Mirt waits to hear what questions the party asks. The questions are part of the assessment.
+> He doesn't touch on the Stone of Golorr, Manshoon, the Cassalanters, the vault, or anything else connected to the Grand Game. After he has said what he came to say, he waits to hear what questions the party asks, and he listens carefully to how they ask them.
 >
 > Conversation topics Mirt is willing to discuss during intermission include:
-> - What the Harpers are and what they do — directly and without flourish
-> - Renaer Neverember — with brief, genuine warmth; he does not elaborate on how much he trusts him
+> - What the Harpers are and what they do, which he explains directly and without flourish.
+> - Renaer Neverember, whom he speaks of with brief, genuine warmth, though he does not say how much he trusts him.
 >
 > Specific dialogue for Mirt on these topics is presented below.
 
@@ -109,7 +105,7 @@ At intermission, Mirt sets down his glass and turns to face the box fully, for t
 
 > [!qna]**About Renaer?**
 >
-> Mirt is briefly, genuinely warm.
+> A brief smile crosses his face and then settles.
 >
 > > "Good man. His father's failings don't belong to him."
 
@@ -119,16 +115,16 @@ At intermission, Mirt sets down his glass and turns to face the box fully, for t
 
 > [!qna]**What's the first mission?**
 >
-> He tilts his head.
+> He tilts his head toward whoever spoke.
 >
-> > "You haven't said yes yet."
+> > "You haven't said yes yet, so I'd settle that first before we get to what comes after."
 
 If the party declines, read or paraphrase the following:
 
 > [!readaloud]
-> Mirt refills his glass and does not bring up the Harpers again.
+> Mirt refills his glass, leans back in his chair, and says nothing more about the Harpers for the rest of the intermission.
 >
-> When the curtain bell rings, he stands, straightens his jacket, and walks out.
+> When the curtain bell rings for the second act, he stands, straightens his jacket, and goes.
 
 If the party accepts, read or paraphrase the following:
 
@@ -140,11 +136,11 @@ Either way, his parting words are the same. Read or paraphrase the following:
 > [!readaloud]
 > > *"I am almost never home."*
 >
-> He walks out, and the curtain rises a moment later.
+> He goes out through the curtain, and a minute or so later the bell rings and the second act begins.
 
 ### Concluding the Event
 
-The evening ends when Mirt leaves. Anyone who accepted the pin leaves the theater as a Harper.
+The evening is effectively over once Mirt leaves. Any character who accepted the pin walks out of Lightsinger Theater as a Harper at Renown 1.
 
 > [!gamemaster]**Event Outcomes**
 >
@@ -160,8 +156,8 @@ The evening ends when Mirt leaves. Anyone who accepted the pin leaves the theate
 
 ## Overview
 
-A paper bird delivers two theater tickets to Lightsinger Theater. In Private Box C at intermission, the party meets Mirt — a moneylender of considerable girth who explains the Harpers plainly, watches who asks the right questions, and places a silver pin in the nearest open hand before anyone finishes answering.
+A paper bird delivers an unsigned invitation to Lightsinger Theater, with a note directing the party to a Delzorin Street tailor for formal attire before curtain. In Private Box C, they meet Mirt, a moneylender of considerable girth who watches Act 1 in comfortable silence, describes the Harpers plainly at intermission, and leaves a silver pin in the nearest open hand before walking out ahead of the second act.
 
 ## Summary
 
-We were summoned to Lightsinger Theater by a paper bird carrying two tickets and a tailor's address. In Private Box C, we met Mirt — plainspoken about who the Harpers are and what they want, and clearly already certain of something he hadn't told us. He watched the first act. At intermission, he made his offer. He pressed a silver harp-and-crescent pin into a waiting hand without making it a ceremony, said he was almost never home, and left before the curtain rose.
+We were summoned to Lightsinger Theater by a paper bird carrying two tickets and a tailor's address on Delzorin Street. In Private Box C, we met Mirt, a moneylender who watched the first act without saying much, and then described the Harpers plainly at intermission, without any effort to sell us on it. He pressed a silver harp-and-crescent pin into a waiting hand, said he was almost never home, and left before the curtain rose.

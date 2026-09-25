@@ -27,6 +27,10 @@ TELLS = [
     ("noir 'something X' subtext", r"\bsomething (?:warm|careful|cold|harder|else|more) (?:in|underneath|behind|beneath)\b", "all", True),
     ("triplet X, X, X", r"\b(\w+) \w+, \1 \w+, (?:and )?\1 \w+", "all", True),
     ("'There's always a' aphorism", r"\bthere'?s always a\b|\balways true of\b", "speech", True),
+    ("'quietly' hedge", r"\bquietly\b", "all", True),
+    ("'here's the kicker'", r"\bhere'?s (?:the (?:kicker|thing|catch|twist|rub)|what (?:most people|nobody|no one))|\bwhat most people miss\b", "all", True),
+    ("profound-but-empty abstraction", r"\b(?:the weight of|a testament to|palpable|tapestry|ineffable|unspoken (?:understanding|agreement|truth)|resonat(?:e|es|ed|ing) (?:with|through|deeply)|quiet (?:confidence|competence|authority|menace|dignity|strength|intensity|resolve))\b", "all", True),
+    ("synonym triplet", r"\b(%s),? (%s),? (?:and |or )?(%s)\b" % ((r"careful|patient|deliberate|calm|measured|precise|cold|calculating|methodical|ruthless|efficient|steady|controlled|disciplined|meticulous|cunning|shrewd|ambitious|charming|warm|kind|gentle|patient|loyal|devoted|faithful",)*3), "all", True),
     ("colon reveal", r"\w: (?:it|he|she|they) (?:was|is|were|had)\b", "narration", False),
     ("telling the beat", r"\b(?:clearly|visibly|obviously) (?:embarrassed|nervous|upset|pleased|uncomfortable)\b|\bin a tone that\b", "narration", True),
 ]
