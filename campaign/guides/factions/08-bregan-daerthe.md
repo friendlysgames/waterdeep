@@ -150,3 +150,4 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 - **Factions** guide overview
 - **Running the Villains** in the GM Guide
 - Notable Figures: **Jarlaxle Baenre**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Soluun Xibrindas**, **Zelifarn**, **Fenerus Stormcastle**, **Malcolm Brizzenbright**
+- Rank events: [Soldier](../../quests/faction-events/bregan-daerthe/r03-soldier/ev-01-soldier.md) · [Officer](../../quests/faction-events/bregan-daerthe/r10-officer/ev-01-officer.md) · [Commander](../../quests/faction-events/bregan-daerthe/r25-commander/ev-01-commander.md) · [Houseless Noble](../../quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md)
