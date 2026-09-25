@@ -35,7 +35,7 @@ The Thugs fight until two of their three fall, then break south toward the harbo
 **Pirn** is a Xanathar Guild street agent, not an ideologue. He is motivated by coin and has no particular loyalty to his employer when cornered.
 
 > [!dialogue]**Who's been giving you the route schedule?**
-> "Route supervisor. Been giving me the schedule every tenday. Coin. I don't know what he owes or to who."
+> He gives up **Delvon Harsk**'s name and function at once. "Route supervisor. Been giving me the schedule every tenday. Coin. I don't know what he owes or to who."
 
 **DC 12 Charisma (Intimidation)**, or **DC 13 Charisma (Persuasion)** with a specific promise of Watch leniency on the table (same result, volunteered more easily).
 
@@ -57,7 +57,7 @@ A **DC 14 Intelligence (Investigation)** check at the attack site finds a folded
 #### Questioning Mareva
 
 > [!dialogue]**Who has access to the real-time route schedule?**
-> Only four route supervisors: Delvon Harsk, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
+> Only four route supervisors: **Delvon Harsk**, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
 
 **DC 12 Charisma (Persuasion)** required.
 
