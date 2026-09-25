@@ -14,13 +14,11 @@
 
 The Seven Masks Theater runs a midweek matinée on Tenday afternoons. By the time the show ends, the back room smells of greasepaint and the particular sawdust-and-lamp-oil combination the stage machinery produces. **Krebbyg Masq'il'yr** is the only one still there when the party arrives — deep blue coat, hair loose, one hand resting idle on the holstered hand crossbow's grip.
 
-He does not wait for them to sit. He has the envelope ready.
+He does not wait for them to sit.
 
-> > "That's from the management. A hundred gold and a note. Figure out which matters more."
+> > "Nevercott paid you for the Wazoo job. Good. Then we can skip the part where I pretend to only book acts."
 
-The envelope contains 100 gp and a short printed card: *A more interesting assignment follows shortly. Patience, please.*
-
-Krebbyg watches them read it. He runs his thumb along the hand crossbow's grip — once, twice, a habit he does not seem to notice — and then straightens against the costume rack.
+He runs his thumb along the hand crossbow's grip — once, twice, a habit he does not seem to notice — and then straightens against the costume rack.
 
 > > "You've done two jobs now. Run them out of the Yawning Portal, out of here — wherever Nevercott finds you. Same jobs, same employer, same chain. I'm part of that chain." He tilts his head. "Figured that was worth saying out loud."
 
@@ -40,11 +38,11 @@ He deflects because the question belongs to someone else, and he is entirely com
 
 > **[GM]**
 >
-> > [!info]**The "More Interesting Assignment"**
+> > [!info]**What Comes Next**
 > >
-> > The printed card carries Jarlaxle's own language, relayed down the chain. Krebbyg does not know what Mission 2b involves. He expects to find out when Nevercott departs. **The Betrayal Pitch** fires when J.B. Nevercott contacts the party next — see **The Betrayal Pitch** overview for its two trigger conditions (BD membership and Nevercott contact through **The Wazoo Affair**).
+> > Krebbyg does not know what Mission 2b involves. He expects to find out when Nevercott departs. **The Betrayal Pitch** fires when J.B. Nevercott contacts the party next — see **The Betrayal Pitch** overview for its two trigger conditions (BD membership and Nevercott contact through **The Wazoo Affair**).
 > >
-> > If conditions for **The Betrayal Pitch** are not met, the note is accurate: Mission 3 (**Three Nights**) follows in due course.
+> > If conditions for **The Betrayal Pitch** are not met, Mission 3 (**Three Nights**) follows in due course.
 
 ### Concluding the Event
 
@@ -68,9 +66,9 @@ Two missions in, Krebbyg meets the party at the Seven Masks Theater and ends the
 
 ## Read Aloud
 
-> The back of the Seven Masks Theater empties fast after the matinée. Krebbyg is the last one there — envelope in hand before you have said a word.
+> The back of the Seven Masks Theater empties fast after the matinée. Krebbyg is the last one there, and he starts talking before you have said a word.
 >
-> > > "That's from the management. A hundred gold and a note. Figure out which matters more."
+> > > "Nevercott paid you for the Wazoo job. Good. Then we can skip the part where I pretend to only book acts."
 >
 > He watches you read. Then, without ceremony:
 >

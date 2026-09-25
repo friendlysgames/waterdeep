@@ -48,7 +48,7 @@ As the party prepares to go — Hlam indicates the meeting's end by returning to
 
 > > "The Blackstaff carries more than she knows. Not the staff — she knows what the staff is. The city. She does not know what is buried beneath it, and the buried thing is waking." A pause. "Tell her that from me. She will understand the half of it that matters."
 
-The Stone of Golorr's abolethic resonance has been faint but consistent for weeks; Hlam's sustained attention has caught it. Vajra, when the party delivers this message, goes still. She asks them to repeat it exactly. Then: "Thank you." A pause. "This doesn't leave the Tower."
+The Stone of Golorr's abolethic resonance has been faint but consistent for tendays; Hlam's sustained attention has caught it. Vajra, when the party delivers this message, goes still. She asks them to repeat it exactly. Then: "Thank you." A pause. "This doesn't leave the Tower."
 
 ### Concluding the Event
 

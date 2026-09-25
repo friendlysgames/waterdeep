@@ -4,7 +4,7 @@
 
 ***Mission 6 is the payoff of everything that came before.*** The Doom Raiders mission chain is built around one central revelation — Skeemo's betrayal — and one central question: what does it cost? Missions 1 through 3 establish the faction's texture and its people. Mission 4 is the reckoning. Missions 5 and 6 are the faction's answer to that reckoning: they act, and they provide the party the tools for **Kolat Towers**.
 
-Ziraj's rooftop diagram is the final tool. The mission is not about stopping the kill team — it is about whether Ziraj survives long enough to hand the party something he spent weeks building. The renown structure reflects this: Ziraj alive is worth two points because the diagram comes with him. The kill team is worth one because the faction cares about removing liability, not body counts.
+Ziraj's rooftop diagram is the final tool. The mission is not about stopping the kill team — it is about whether Ziraj survives long enough to hand the party something he spent tendays building. The renown structure reflects this: Ziraj alive is worth two points because the diagram comes with him. The kill team is worth one because the faction cares about removing liability, not body counts.
 
 ## Fala Lefaliir as a Distinct Scene
 

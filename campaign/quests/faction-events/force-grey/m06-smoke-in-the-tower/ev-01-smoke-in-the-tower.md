@@ -15,7 +15,7 @@
 
 **Background (DM only)**
 
-**Vira Solkan**, 26, is a junior arcanist assigned to Blackstaff Tower's second-floor research section six weeks ago. Her application is backed by forged credentials from Neverwinter Academy. Her assignment: identify the Tower's containment ward protocols and introduce a resonance disruptor into the ward architecture that will disable the Tower's defensive protections for a four-hour window. During that window, a six-person Kolat Towers strike team will move on Vajra directly.
+**Vira Solkan**, 26, is a junior arcanist assigned to Blackstaff Tower's second-floor research section six tendays ago. Her application is backed by forged credentials from Neverwinter Academy. Her assignment: identify the Tower's containment ward protocols and introduce a resonance disruptor into the ward architecture that will disable the Tower's defensive protections for a four-hour window. During that window, a six-person Kolat Towers strike team will move on Vajra directly.
 
 Vira has been preparing the disruptor for ten days. She is two days from triggering it. The disruptor is a hollowed research text on her assigned shelf in the second-floor workroom — a physical object containing a precisely tuned resonance crystal that will discharge into the ward architecture when placed against the ward anchor.
 
@@ -31,7 +31,7 @@ Any two of the three paths are sufficient to confront Vira with confidence. All 
 
 **The resonance source:** Vajra has detected the wrongness in the second floor's east workroom. A **DC 15 Intelligence (Arcana) check** in that room narrows the source to a shelf section. Each document on the section can be examined; the hollowed text is **DC 13 Intelligence (Investigation)** to identify as structurally modified — the spine is slightly thicker than the page count justifies, and the cover has been re-glued. The disruptor crystal inside is **DC 15 Arcana** to understand what it does. If the party removes it before confronting Vira, she has only the signal option remaining.
 
-**The behavioral audit:** Vira has been at the Tower for six weeks and has made no close contacts among the staff. This is unusual. A **DC 13 Charisma (Persuasion) check** with any three senior staff members — asking who has kept most to themselves — produces her name consistently. She has been polite, unremarkable, and deliberately invisible. Three separate staff members naming the same junior arcanist without prompting is evidence.
+**The behavioral audit:** Vira has been at the Tower for six tendays and has made no close contacts among the staff. This is unusual. A **DC 13 Charisma (Persuasion) check** with any three senior staff members — asking who has kept most to themselves — produces her name consistently. She has been polite, unremarkable, and deliberately invisible. Three separate staff members naming the same junior arcanist without prompting is evidence.
 
 **The credential check:** Vira's Neverwinter Academy credentials are forged — good forgeries, but not perfect. A **DC 16 Intelligence (History) check** identifying the specific signatory format used on Neverwinter Academy certificates from the relevant year — compared against Vira's application documents — reveals a sealing mark not used until three years after her claimed graduation date. This requires access to the Tower's application files, which Vajra authorizes on request.
 
@@ -47,7 +47,7 @@ She is not panicked. She is not suicidal. If cornered with the disruptor secured
 
 If she triggers the disruptor before the party can stop her: the Tower's defensive ward protections go down for four hours. Vajra knows immediately — the ward failure registers at her desk like a physical blow — and the situation escalates dramatically. The strike team still arrives in fifteen minutes, but now the Tower has no active defenses. Vajra and the party handle this together; it is survivable, but costly.
 
-If she sends the signal and the disruptor is still intact: the strike team arrives in fifteen minutes. The Tower's defenses are active, which the agents were not expecting. Their entry point — identified through six weeks of Vira's observation — is a ground-floor service access on the Tower's north face.
+If she sends the signal and the disruptor is still intact: the strike team arrives in fifteen minutes. The Tower's defenses are active, which the agents were not expecting. Their entry point — identified through six tendays of Vira's observation — is a ground-floor service access on the Tower's north face.
 
 ### The Strike Team
 
@@ -60,7 +60,7 @@ The Mages lead with *Fireball* in enclosed spaces if the party clusters; the Vet
 > **[GM]**
 >
 > #### Capturing an Agent
-> A Splinter agent who is persuaded to cooperate — **DC 14 Charisma (Intimidation or Persuasion)**, or *Charm Person* — confirms: Kolat Towers. Manshoon personally directed the operation. The strike team was on standby for two weeks. Vira's embed took six weeks to prepare.
+> A Splinter agent who is persuaded to cooperate — **DC 14 Charisma (Intimidation or Persuasion)**, or *Charm Person* — confirms: Kolat Towers. Manshoon personally directed the operation. The strike team was on standby for two tendays. Vira's embed took six tendays to prepare.
 >
 > This is direct evidence connecting Manshoon to an attempted assassination of the Blackstaff. Vajra can take it to Laeral Silverhand. A formal deposition, recorded in the party's presence, constitutes the clearest legal instrument Vajra has had on Manshoon's operation to date.
 

@@ -16,7 +16,7 @@
 
 **Vhaspar Holmbridge**, 57, is a retired City Watch sharpshooter who served in the Dock Ward for twenty years. He was hired through a Cassalanter household intermediary named **Halek Farran** — a steward who handles sensitive errands for the Cassalanter family. Halek used three layers of buffer: a hire agency, a written instruction, a drop box. Vhaspar met Halek once, briefly, in a coffeehouse on Chandler Street, Sea Ward.
 
-The three victims were not faction operatives. They witnessed a money transfer six weeks ago in which a Cassalanter-hired fence paid a Xanathar Guild broker for ritual components connected to **Cassalanter Villa**'s infernal timeline. They saw it by accident. Halek was tasked with closing that loose end. Vhaspar took the contract for 400 gp. He is not ideologically motivated.
+The three victims were not faction operatives. They witnessed a money transfer six tendays ago in which a Cassalanter-hired fence paid a Xanathar Guild broker for ritual components connected to **Cassalanter Villa**'s infernal timeline. They saw it by accident. Halek was tasked with closing that loose end. Vhaspar took the contract for 400 gp. He is not ideologically motivated.
 
 Vhaspar has one name left on his list he has not acted on yet: a Dock Ward longshoreman whose sketch is in his belongings. He is willing to cooperate with Watch custody if it means he does not die. The partial Cassalanter Villa address in his room — on a scrap reading "...ilanter Villa, Sea Ward, side entrance gate" — is intelligence he did not know he was carrying. He received it as part of a second, never-executed contract from the same intermediary and kept it without reading it carefully.
 
@@ -25,7 +25,7 @@ Vhaspar has one name left on his list he has not acted on yet: a Dock Ward longs
 Locating Vhaspar requires three investigation checks, each building on the last.
 
 **Check 1 — DC 13 Intelligence (Investigation)**
-Canvassing the North Ward, asking about a man watching rooftops or departing buildings at odd hours: a linen merchant on Tarnath Street saw "a grey-haired man who walks like a soldier" checking in at Yander's Feed Store on Pell Street a week ago with a long rolled canvas under his arm. He came back at odd hours.
+Canvassing the North Ward, asking about a man watching rooftops or departing buildings at odd hours: a linen merchant on Tarnath Street saw "a grey-haired man who walks like a soldier" checking in at Yander's Feed Store on Pell Street a tenday ago with a long rolled canvas under his arm. He came back at odd hours.
 
 **Check 2 — DC 12 Charisma (Persuasion) with Yander Coirn**
 **Yander Coirn**, the feed store's proprietor, confirms the man — gave the name "Belvor." Paid a tenday up front. Room is the top floor, north-facing window.
@@ -72,7 +72,7 @@ In Watch custody or while the party holds him, Vhaspar gives up **Halek Farran**
 >
 > #### The Cassalanter Villa Address — Critical Secondary Payload
 >
-> Reporting the partial address to Jalester before **Cassalanter Villa** begins is the most valuable action available in this mission. Jalester passes it to the Watch's Criminal Intelligence division. Within a week they compile a basic dossier: Halek Farran's name, the Watch guard rotation at Cassalanter Villa's service entrance, and a sketch of the villa's walled exterior.
+> Reporting the partial address to Jalester before **Cassalanter Villa** begins is the most valuable action available in this mission. Jalester passes it to the Watch's Criminal Intelligence division. Within a tenday they compile a basic dossier: Halek Farran's name, the Watch guard rotation at Cassalanter Villa's service entrance, and a sketch of the villa's walled exterior.
 >
 > This dossier becomes part of the Alliance's **Cassalanter Villa** intelligence package. If the party is planning the Cassalanter heist, they have advance knowledge of the service gate timing before they conduct their own reconnaissance. This is the clearest example of how intelligence investment in the mission arc pays directly into heist preparation.
 >

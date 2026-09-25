@@ -88,7 +88,7 @@ The deal is scuttled if any of the following is true: Esloon is detained or with
 
 **If Esloon detained:** He is held for ten days and released without charge — the Thayan warrant does not survive the embassy review process. He leaves Waterdeep. His crew disperses.
 
-**If the checkpoint strike is exposed:** The strike still occurs in **Faction Outposts** but fails — the Splinter loses the cargo window and delays their Baldur's Gate communication by three weeks. One Splinter operation in **Faction Outposts** is noticeably disrupted.
+**If the checkpoint strike is exposed:** The strike still occurs in **Faction Outposts** but fails — the Splinter loses the cargo window and delays their Baldur's Gate communication by three tendays. One Splinter operation in **Faction Outposts** is noticeably disrupted.
 
 ### Concluding the Event
 

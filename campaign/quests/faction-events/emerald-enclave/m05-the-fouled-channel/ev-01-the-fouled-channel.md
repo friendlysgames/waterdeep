@@ -14,7 +14,7 @@
 > - Jeryth purifies the contaminated channels through a Phaulkonmere herb cutting once the source is sealed; the garden restores that evening.
 
 **Background (DM only)**
-**Raeve Solnath** is the same Manshoon Splinter arcanist responsible for the Mission 1 scarecrows — an operative with a habit of field testing in places he considers far enough from Splinter scrutiny to be deniable. He has used a sealed cistern section as an alchemical disposal site for six weeks, introducing psychically resonant waste from failed intellect devourer grafting experiments. The contamination creates mild cognitive suppression in anyone who drinks affected water. His intent was long-term: soften a Watch-heavy district. The contamination has now reached Phaulkonmere's groundwater through an underground stream.
+**Raeve Solnath** is the same Manshoon Splinter arcanist responsible for the Mission 1 scarecrows — an operative with a habit of field testing in places he considers far enough from Splinter scrutiny to be deniable. He has used a sealed cistern section as an alchemical disposal site for six tendays, introducing psychically resonant waste from failed intellect devourer grafting experiments. The contamination creates mild cognitive suppression in anyone who drinks affected water. His intent was long-term: soften a Watch-heavy district. The contamination has now reached Phaulkonmere's groundwater through an underground stream.
 
 Raeve is not present during this mission. Two cultist assistants operate the delivery schedule — twice weekly, every three days. They do not know his location.
 
@@ -34,14 +34,14 @@ Following the film upstream leads east toward a sealed side-chamber: a fitted st
 
 Inside the side-chamber: six alchemical vessels containing waste product, ready for introduction to the channel. A coded logbook, bound in oilskin.
 
-The logbook uses a Splinter cipher. A **DC 14 Intelligence (Investigation) check** decodes it. Inside: six weeks of delivery dates, visit frequency, and the name of the operation's coordinator — **Raeve Solnath**. The six weeks of dated entries are precise enough to calculate when the Trades Ward water first became affected.
+The logbook uses a Splinter cipher. A **DC 14 Intelligence (Investigation) check** decodes it. Inside: six tendays of delivery dates, visit frequency, and the name of the operation's coordinator — **Raeve Solnath**. The six tendays of dated entries are precise enough to calculate when the Trades Ward water first became affected.
 
 > **[GM]**
 >
 > #### The Cultist Arrival
 > Roll 1d6 when the party begins examining the cache. On 1–3: Raeve's two **Cultist** assistants arrive during the examination, entering from the east channel passage. On 4–6: they arrive as the party is leaving. Either way, they come.
 >
-> They will not fight. They turn and run the moment they see the party. **DC 14 Dexterity** to interpose before they reach the tunnel, or any spell that holds or restrains. A caught cultist answers directly: they were paid to add vessels to the eastern channel every three days; they have done this for six weeks; they do not know who hired them beyond a message drop. They cannot identify Raeve.
+> They will not fight. They turn and run the moment they see the party. **DC 14 Dexterity** to interpose before they reach the tunnel, or any spell that holds or restrains. A caught cultist answers directly: they were paid to add vessels to the eastern channel every three days; they have done this for six tendays; they do not know who hired them beyond a message drop. They cannot identify Raeve.
 >
 > If both escape, Raeve relocates the cache within two days. The contamination continues into **Faction Outposts**. The Trades Ward City Watch operates at disadvantage on Wisdom checks for the duration of **Faction Outposts** as the cognitive suppression spreads through district water.
 
@@ -60,7 +60,7 @@ When the party returns to Phaulkonmere that evening, the herb beds are restored.
 > **[GM]**
 >
 > **+1 Renown if** the Splinter cache is found and destroyed before any cultist can report the breach to Raeve. The delivery schedule ends.
-> **+1 Renown if** the logbook is recovered and decoded, providing the six-week schedule and Raeve Solnath's name. If reported to the Lords' Alliance, they set an ambush at the cistern entrance timed to the next scheduled delivery. Raeve is arrested in **Faction Outposts**.
+> **+1 Renown if** the logbook is recovered and decoded, providing the six-tenday schedule and Raeve Solnath's name. If reported to the Lords' Alliance, they set an ambush at the cistern entrance timed to the next scheduled delivery. Raeve is arrested in **Faction Outposts**.
 
 > **[GM]**
 >

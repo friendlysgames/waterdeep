@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-Dasher chose this. He spent two weeks deliberating before accepting the lycanthropy, which is longer than most of the Shard Shunners spent. He has thought about what happens when the party comes — Kelso told him it was coming — and he has decided. His decision is not impulsive. It is not a cry for help. It is also not fully clean: he has not spoken to his family in eight months because he cannot figure out what to say, which is its own kind of avoidance.
+Dasher chose this. He spent two tendays deliberating before accepting the lycanthropy, which is longer than most of the Shard Shunners spent. He has thought about what happens when the party comes — Kelso told him it was coming — and he has decided. His decision is not impulsive. It is not a cry for help. It is also not fully clean: he has not spoken to his family in eight months because he cannot figure out what to say, which is its own kind of avoidance.
 
 Blossom's detail about the silver sensitivity is the only information in the mission that she does not know the meaning of. She says it because it is the truth and she has no other leads to offer. A party member who knows anything about wererats understands immediately what it means. The party now has a fact Blossom does not: her son is lycanthrope by choice, not abduction.
 
@@ -42,7 +42,7 @@ Three independent paths lead to Kelso Fiddlewick by late afternoon:
 
 **The dock workers:** Two or more dock workers near Net Street have seen a halfling crew moving goods at night along the eastern waterfront. They know a face — a stocky halfling with a badly scarred jaw, distinctive enough to describe — but not a name.
 
-**The tincture seller:** A potion seller near Sail Street stocks silver-free pain tinctures, ordered by the same halfling woman every two weeks. She will describe the customer if the party offers coin or a plausible reason. That customer is Shard Shunners.
+**The tincture seller:** A potion seller near Sail Street stocks silver-free pain tinctures, ordered by the same halfling woman every two tendays. She will describe the customer if the party offers coin or a plausible reason. That customer is Shard Shunners.
 
 **The Guild runner:** A Xanathar Guild runner was shaken down last tenday by a halfling crew on the east waterfront. He does not want to be shaken down again and will point the party at the Blushing Mermaid on Sail Street in exchange for not being a problem for him today.
 

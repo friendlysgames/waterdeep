@@ -16,7 +16,7 @@
 
 **Background (DM only)**
 
-**Meloon Wardragon** is a Force Grey veteran — large, cheerful, known for telling stories that have no business being this funny at this distance. He is none of these things now. An intellect devourer from Nihiloor's network occupied his skull approximately three weeks ago. It is using him as an observation post for Force Grey's operations: attending Yawning Portal meetings, noting who the party speaks to, filing reports through a dead drop in the Dock Ward.
+**Meloon Wardragon** is a Force Grey veteran — large, cheerful, known for telling stories that have no business being this funny at this distance. He is none of these things now. An intellect devourer from Nihiloor's network occupied his skull approximately three tendays ago. It is using him as an observation post for Force Grey's operations: attending Yawning Portal meetings, noting who the party speaks to, filing reports through a dead drop in the Dock Ward.
 
 **Azuredge**, his sentient greataxe, has been fighting the devourer's control since it arrived. It is losing the argument about whether Meloon should expose himself, but it has prevented several worse things from happening. It needs someone to notice.
 

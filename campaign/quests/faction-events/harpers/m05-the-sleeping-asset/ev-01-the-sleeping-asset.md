@@ -22,15 +22,15 @@ The connection between Corene's devourer and Nihiloor is psychic. Detect Thought
 
 ### Phase 1 — The Search
 
-Mirt's briefing: a halfling Harper informant named Corene Wyldath, embedded in Xanathar's Dock Ward operation for six months, stopped checking in three weeks ago. She used the assumed name "Halla Ironstave" in the Dock Ward. She is not dead — Mirt would know if she were dead. He does not know what is wrong.
+Mirt's briefing: a halfling Harper informant named Corene Wyldath, embedded in Xanathar's Dock Ward operation for six months, stopped checking in three tendays ago. She used the assumed name "Halla Ironstave" in the Dock Ward. She is not dead — Mirt would know if she were dead. He does not know what is wrong.
 
 Three independent investigation beats to locate her:
 
-**Harper Dock Ward Contacts (Renown 3+):** They describe seeing a halfling woman matching Corene's description at a Guild warehouse on Shrimp Street three weeks ago, during a Watch sweep. She was unusually calm. No one with six months in this work stays that calm during a sweep.
+**Harper Dock Ward Contacts (Renown 3+):** They describe seeing a halfling woman matching Corene's description at a Guild warehouse on Shrimp Street three tendays ago, during a Watch sweep. She was unusually calm. No one with six months in this work stays that calm during a sweep.
 
 **The Harbormaster's Assistant:** A minor Harper sympathizer. He saw her twice recently at Guild meetings she had no reason to attend as cover — a Guild cargo review that handles routing decisions, not street-level work.
 
-**The Boarding House:** Asking in the Field Ward under the name "Halla Ironstave" finds her landlord: she paid three months in advance last week. Not like her.
+**The Boarding House:** Asking in the Field Ward under the name "Halla Ironstave" finds her landlord: she paid three months in advance last tenday. Not like her.
 
 All three leads converge on her regular meeting point: a specific bench in the Trades Ward plaza she uses for dead drops.
 
@@ -43,7 +43,7 @@ Corene is at the bench at the expected time. She looks fine. She is alert, well-
 > #### What Is Wrong with Her
 > The tells are subtle and require engagement to surface — not visible on first glance.
 >
-> - Her eye contact is too steady. People who have been doing tense fieldwork for three weeks have involuntary breaks; hers do not.
+> - Her eye contact is too steady. People who have been doing tense fieldwork for three tendays have involuntary breaks; hers do not.
 > - Her speech is too considered. Every sentence has a half-second of preparation before it arrives — not hesitation, processing.
 > - **DC 15 Wisdom (Insight)** during conversation catches both patterns together and identifies them as wrong.
 > - **DC 12 Intelligence (Arcana) or Wisdom (Medicine)**, made after sustained interaction (at least five minutes of conversation): identifies signs of intellect devourer occupation — flat affect, absence of involuntary reactions, a faint smell of psychic residue that is hard to place.
@@ -68,7 +68,7 @@ After the Long Rest, Corene's intelligence: six months of Xanathar Guild Dock Wa
 
 **Kill Her**
 
-Grim. Mirt accepts it without comment when informed. The devourer-Corene reports a breach before dying — Nihiloor knows the Harpers are onto the deception. The Xanathar Guild goes to increased alert in the Dock Ward for two weeks.
+Grim. Mirt accepts it without comment when informed. The devourer-Corene reports a breach before dying — Nihiloor knows the Harpers are onto the deception. The Xanathar Guild goes to increased alert in the Dock Ward for two tendays.
 
 **Leave Her in Place — Double Agent**
 
@@ -99,7 +99,7 @@ High risk: Nihiloor is intelligent and may detect the manipulation. If the plant
 
 ## Overview
 
-A Harper informant embedded in Xanathar's Dock Ward operation stopped checking in three weeks ago. Mirt needs to know if she is dead, captured, or something worse. She is something worse.
+A Harper informant embedded in Xanathar's Dock Ward operation stopped checking in three tendays ago. Mirt needs to know if she is dead, captured, or something worse. She is something worse.
 
 ## Read Aloud
 

@@ -2,7 +2,7 @@
 
 ## Soluun as a Cross-Faction Thread
 
-***Soluun Xibrindas's long reach.*** Soluun appears here as a low-level investigation target, but he carries more weight than the mission brief suggests. He is the brother of Nar'l Xibrindas — Jarlaxle's deepest asset inside Xanathar's Guild — and Nar'l has been covering for Soluun's unauthorized presence in Waterdeep for weeks. The party does not learn this here. They learn it in Bregan D'aerthe Mission 4, where Nar'l's exposure begins precisely because of what Soluun has been doing in the Dock Ward. DR-M1 plants the seed; BD-M4 pays it off.
+***Soluun Xibrindas's long reach.*** Soluun appears here as a low-level investigation target, but he carries more weight than the mission brief suggests. He is the brother of Nar'l Xibrindas — Jarlaxle's deepest asset inside Xanathar's Guild — and Nar'l has been covering for Soluun's unauthorized presence in Waterdeep for tendays. The party does not learn this here. They learn it in Bregan D'aerthe Mission 4, where Nar'l's exposure begins precisely because of what Soluun has been doing in the Dock Ward. DR-M1 plants the seed; BD-M4 pays it off.
 
 The forged D'aerthe token is designed to raise a specific question without answering it. Davil's unusual silence when shown it is the only tell. A party that asks Davil why it interests him gets nothing. A party that encounters Soluun again in **Sea Maidens Faire**, or that follows the BD mission chain, eventually understands what the token meant and what it cost Nar'l.
 

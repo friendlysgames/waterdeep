@@ -108,7 +108,7 @@ The party reported the BD surveillance to the Watch. BD membership is closed for
 >
 > #### Next Steps
 >
-> If **Bregan D'aerthe Joined** is True: the first BD mission, **The Handkerchief and the Girl**, is available once the party reaches Level 2. Two anonymous coin pouches follow in subsequent missions: 50 gp in a black pouch two days after the Mission 1 debrief, 100 gp the same afternoon as the Mission 3 debrief, no note in either. Jarlaxle is establishing a pattern before he introduces himself.
+> If **Bregan D'aerthe Joined** is True: the first BD mission, **The Handkerchief and the Girl**, is available once the party reaches Level 2. Two anonymous coin pouches follow in subsequent missions: 50 gp in a black pouch two days after the Mission 1 debrief with no note, and 100 gp the afternoon Ott leaves at the end of Mission 3, this time with a note (see the [**Coin Pouches**](../s01-coin-pouches/ev-01-coin-pouches.md) Event). Jarlaxle is establishing a pattern before he introduces himself.
 >
 > If **BD Contact Severed** is True: Jarlaxle's awareness of the party persists. He is a neutral variable in **Sea Maidens Faire** and may approach if the situation demands it, but he treats the party as a civilian complication to work around. Recruitment is finished.
 >

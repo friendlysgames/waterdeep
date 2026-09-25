@@ -23,7 +23,7 @@
 
 ## Overview
 
-A small vessel carrying Eye #3 went down in Deepwater Harbor several weeks ago after a confrontation aboard that ended with the Eye going overboard. The wreck settled at forty feet — recent enough to be undisturbed, shallow enough to reach without specialized equipment, deep enough to be murky and unlit. Jarlaxle's harbor network tracked it. Xanathar's people tracked it independently. Both sides sent teams on the same night.
+A small vessel carrying Eye #3 went down in Deepwater Harbor several tendays ago after a confrontation aboard that ended with the Eye going overboard. The wreck settled at forty feet — recent enough to be undisturbed, shallow enough to reach without specialized equipment, deep enough to be murky and unlit. Jarlaxle's harbor network tracked it. Xanathar's people tracked it independently. Both sides sent teams on the same night.
 
 Krebbyg arrived at Trollskull Manor near midnight with four potions of water breathing on the table before the party had finished reading his face. The situation: a Xanathar Guild dive team was staging at Pier 17 off Sail Street, thirty minutes from entering the water. The wreck's position was marked — he had the bearing. He had a rowboat. He did not dive.
 

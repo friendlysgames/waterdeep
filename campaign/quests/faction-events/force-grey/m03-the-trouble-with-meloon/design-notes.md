@@ -6,7 +6,7 @@
 
 ## Azuredge as the Mission's Heart
 
-***The sentient weapon mechanic.*** Azuredge is the most important element of this mission, not Meloon. Meloon is the problem. Azuredge is the moral architecture: a weapon that has been fighting its user's possession for weeks, that has prevented worse things from happening, that cannot do this alone and knows it. When it communicates — three emotional impressions, not words — it is not asking the party to complete a task. It is asking them to finish something it started.
+***The sentient weapon mechanic.*** Azuredge is the most important element of this mission, not Meloon. Meloon is the problem. Azuredge is the moral architecture: a weapon that has been fighting its user's possession for tendays, that has prevented worse things from happening, that cannot do this alone and knows it. When it communicates — three emotional impressions, not words — it is not asking the party to complete a task. It is asking them to finish something it started.
 
 The DC 14 + question variant (vs. DC 18 without) is the mission rewarding players who think to ask the axe a question rather than just rolling to understand it. Addressing an inanimate object that might be alive is the kind of thing players either do instinctively or never think to do. The lower DC rewards the instinct.
 

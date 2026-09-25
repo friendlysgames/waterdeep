@@ -23,7 +23,7 @@ Dead End Alley, Dock Ward, before dawn. Tashlyn is already there when the party 
 
 She does not waste words:
 
-> > "Skeemo Weirdbottle has been selling us to Manshoon's cell. Three confirmed courier exchanges in two weeks with a known Splinter contact. He has also been feeding House Gralhund before that — which means Gralhund had our operational schedule, which means Manshoon had it when Gralhund fell."
+> > "Skeemo Weirdbottle has been selling us to Manshoon's cell. Three confirmed courier exchanges in two tendays with a known Splinter contact. He has also been feeding House Gralhund before that — which means Gralhund had our operational schedule, which means Manshoon had it when Gralhund fell."
 
 A pause.
 

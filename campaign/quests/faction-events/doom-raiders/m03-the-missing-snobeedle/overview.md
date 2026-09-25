@@ -30,7 +30,7 @@ No combat unless the party provokes Kelso's gang directly. The Shard Shunners ar
 
 A flying snake from Tashlyn arrived at Trollskull Manor with three tight lines: investigate a missing halfling named Dasher Snobeedle, a Undercliff family offering 500 gp for information, money goes to the Network. The phrasing was economical. The word "recovered" appeared once and was not explained.
 
-**Dasher Snobeedle** was not lost. He left the Snobeedle family orchard eight months ago, walked into the Dock Ward, found the Shard Shunners, and chose to join them. He was infected with lycanthropy willingly, after two weeks of deliberation. He had not contacted his family and did not plan to.
+**Dasher Snobeedle** was not lost. He left the Snobeedle family orchard eight months ago, walked into the Dock Ward, found the Shard Shunners, and chose to join them. He was infected with lycanthropy willingly, after two tendays of deliberation. He had not contacted his family and did not plan to.
 
 His mother, **Blossom Snobeedle**, was an experienced druid who had spent eight months believing her son was in danger. She was wrong about the nature of his situation. She was right that she had lost him. She received the party at her orchard in the Undercliff, offered them tea she had been preparing since she saw them coming up the road, and gave them Dasher's belongings and an unsent letter she had read several times already.
 

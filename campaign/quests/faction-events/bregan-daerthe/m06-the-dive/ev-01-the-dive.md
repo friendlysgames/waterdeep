@@ -15,7 +15,7 @@
 
 **Background (DM only)**
 
-Eye #3 of the Stone of Golorr went into the harbor during a confrontation aboard a hired ketch three weeks ago. The ketch went down within minutes; most of the crew swam clear but the Eye sank with the cargo. Jarlaxle's harbor network identified the wreck's position four days after the sinking. Xanathar's people identified it independently a week later — their dive team has been staging for two nights, waiting for calm water and a dark tide.
+Eye #3 of the Stone of Golorr went into the harbor during a confrontation aboard a hired ketch three tendays ago. The ketch went down within minutes; most of the crew swam clear but the Eye sank with the cargo. Jarlaxle's harbor network identified the wreck's position four days after the sinking. Xanathar's people identified it independently a tenday later — their dive team has been staging for two nights, waiting for calm water and a dark tide.
 
 Tonight both sides move.
 
@@ -127,7 +127,7 @@ A sunken wreck, forty feet down, with Eye #3 locked in the captain's cabin. Kreb
 
 > Krebbyg is at Trollskull Manor near midnight. He sets four potions on the table before anyone speaks. He is more concise than usual.
 >
-> > > "Eye #3. It went into the harbor three weeks ago off a vessel that sank. Xanathar's Guild located the wreck. They have a dive team staging at Pier 17 off Sail Street. We have less than an hour."
+> > > "Eye #3. It went into the harbor three tendays ago off a vessel that sank. Xanathar's Guild located the wreck. They have a dive team staging at Pier 17 off Sail Street. We have less than an hour."
 >
 > He slides a harbor chart across. A bearing line is marked in pencil — south by southeast from the pier, forty feet down.
 >

@@ -52,7 +52,7 @@ ev-01: Party behavior
 ev-03: Ryvarra spotted (optional)
   └── ev-04: Surveillance escalates
        ├── Report to Watch → "BD Contact Severed" — no further BD recruitment
-       └── Confront or ignore → J.B. Nevercott arrives → "BD Contact Established"
+       └── Confront or ignore → J.B. Nevercott arrives → "BD Acknowledged"
 ```
 
 **Nimblewright Branch:**
@@ -79,7 +79,7 @@ DM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
 | Ryvarra Identified | ev-03 | ev-04 (BD recruitment entry framing) |
 | Two Zhentarims Known | ev-03 | ev-04 (Doom Raiders enrollment context) |
 | Faction Joined: [Name] | ev-04 | the **Factions** guide pages (missions); Faction Outposts (outpost access) |
-| BD Contact Established | ev-04 | Sea Maidens Faire (Zardoz relationship) |
+| BD Acknowledged | ev-04 | Sea Maidens Faire (Zardoz relationship) |
 | BD Contact Severed | ev-04 | Sea Maidens Faire (no BD relationship in arc entry) |
 | Meloon Met (Field of Triumph) | ev-05 | Force Grey Mission 3 |
 | Xanathar Token: Kept/Discarded/Reported | ev-05 | Faction Outposts, Xanathar's Lair |

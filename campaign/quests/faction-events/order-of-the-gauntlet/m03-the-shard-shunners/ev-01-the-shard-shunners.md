@@ -21,9 +21,9 @@ Kelso is not wrong. He has not defined what balance means. The party can propose
 
 ### The Endshift Tavern
 
-A working-class inn that never closes because its clientele works shifts. **Trevar** is a heavyset Illuskan man who has moved past angry into a kind of resigned inventiveness. Two guards quit last week; one more leaves at the tenday's end. The rats take the same guard's purse on the same route three nights running, which means they know the layout.
+A working-class inn that never closes because its clientele works shifts. **Trevar** is a heavyset Illuskan man who has moved past angry into a kind of resigned inventiveness. Two guards quit last tenday; one more leaves at the tenday's end. The rats take the same guard's purse on the same route three nights running, which means they know the layout.
 
-Trevar fired **Darrick Holstan** six weeks ago for threatening a halfling. He thought Darrick was being paranoid. He is reconsidering many things.
+Trevar fired **Darrick Holstan** six tendays ago for threatening a halfling. He thought Darrick was being paranoid. He is reconsidering many things.
 
 What Trevar knows: the pattern is deliberate — same route, same time — which means someone is watching; he's heard the name Shard Shunners in the ward; Darrick was fired for threatening "a halfling kid," and he is now beginning to connect the things he did not connect at the time.
 

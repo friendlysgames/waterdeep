@@ -69,11 +69,11 @@ Once enrolled, characters receive their first faction assignments. Quick referen
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
-| Lords' Alliance | Protecting the Dungsweepers | Ten-day guard duty; carrion crawler on day nine |
+| Lords' Alliance | The Long Watch | Ten-day guard duty; carrion crawler on day nine |
 | Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
 | Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
 | Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
-| Bregan D'aerthe | The Handkerchief Job | Obtain a noble's silk handkerchief; deliver it to a tiefling girl named Vessin |
+| Bregan D'aerthe | The Handkerchief and the Girl | Obtain a noble's silk handkerchief; deliver it to a tiefling girl named Vessin |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
 
 **Force Grey Mission 1** delivers a key Undermountain thread: Hlam tells the party that "evil's twin hides its face for now — expect that to change before winter's end." An oblique reference to Manshoon; recalibrates on a second hearing.
@@ -97,13 +97,13 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 #### Harpers Joined: True / False
 At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Events** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
-#### Lords Alliance Joined: True / False
+#### Lords' Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.
 
 #### Emerald Enclave Joined: True / False
 At least one party member enrolled with the Emerald Enclave.
 
-#### Order of Gauntlet Joined: True / False
+#### Order of the Gauntlet Joined: True / False
 At least one party member enrolled with the Order of the Gauntlet.
 
 #### Force Grey Joined: True / False

@@ -51,7 +51,7 @@ He wants things, and he pursues them through the relentless application of enthu
 
 After several minutes of negotiation over interesting objects, Zelifarn mentions something conversationally:
 
-> > "The big ship with the funny name, the one with the flags — something is attached to its bottom. Not the usual shapes. Not an anchor, not a keel extension. A shape I don't know. Like a second hull that faces down." A tilt of the head. "I've been watching it for a week. It comes out sometimes, at night, and goes back." A pause. "I considered offering to help them with their security and decided they would say no."
+> > "The big ship with the funny name, the one with the flags — something is attached to its bottom. Not the usual shapes. Not an anchor, not a keel extension. A shape I don't know. Like a second hull that faces down." A tilt of the head. "I've been watching it for a tenday. It comes out sometimes, at night, and goes back." A pause. "I considered offering to help them with their security and decided they would say no."
 
 He is correct on both counts. The structure is a Bregan D'aerthe submarine — a covert operational vessel attached to the flagship's hull below the waterline. Zelifarn's observation is accurate, and Vajra's reaction to it is the best intelligence-processing the party will witness this arc.
 
@@ -109,4 +109,4 @@ Vajra sends the party into Deepwater Harbor to assess a young bronze dragon who 
 
 ## Summary
 
-Vajra sent the party to assess a young bronze dragon named Zelifarn living near an elvish wreck below Deepwater Harbor. He proved non-hostile and intensely curious. He also volunteered that a second hull structure was attached to the bottom of the *Eyecatcher* — one of the Sea Maidens Faire vessels — that he had been watching for a week. Vajra received both reports and immediately began writing.
+Vajra sent the party to assess a young bronze dragon named Zelifarn living near an elvish wreck below Deepwater Harbor. He proved non-hostile and intensely curious. He also volunteered that a second hull structure was attached to the bottom of the *Eyecatcher* — one of the Sea Maidens Faire vessels — that he had been watching for a tenday. Vajra received both reports and immediately began writing.

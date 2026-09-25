@@ -141,4 +141,4 @@ Ziraj the Hunter is on a rooftop with two bolts in him and three agents between 
 
 ## Summary
 
-The party located Ziraj the Hunter on an inn roof in Trollskull Alley, extracted him to Corellon's Crown, and dealt with the three remaining Splinter kill team members. Fala Lefaliir treated his wounds. Ziraj produced a rooftop diagram of Kolat Towers' force field gaps — intelligence he had assembled over weeks of observation and intended to use himself, now handed to the party before he lost the capacity.
+The party located Ziraj the Hunter on an inn roof in Trollskull Alley, extracted him to Corellon's Crown, and dealt with the three remaining Splinter kill team members. Fala Lefaliir treated his wounds. Ziraj produced a rooftop diagram of Kolat Towers' force field gaps — intelligence he had assembled over tendays of observation and intended to use himself, now handed to the party before he lost the capacity.

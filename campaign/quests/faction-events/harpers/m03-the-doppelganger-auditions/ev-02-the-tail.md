@@ -41,7 +41,7 @@ If he is killed or detained before he can return to the safehouse: his current f
 The address is a narrow building in the Trades Ward, shuttered windows, no signage. Interior: three rooms. Two Spies on the ground floor. A third-floor workspace with operational files.
 
 The files contain:
-- Notes from Edric's two weeks of surveillance on Mattrim Mereg — confirming his identity as a Harper operative
+- Notes from Edric's two tendays of surveillance on Mattrim Mereg — confirming his identity as a Harper operative
 - A partial list of two other Harper assets in noble houses with descriptions and contact routines
 - Operational correspondence referencing a handler name the party may have encountered before
 

@@ -11,7 +11,7 @@ Rather than competing with Xanathar or Manshoon for the Stone, Jarlaxle already 
 The vault itself, a way to open the Stone without all three Eyes, and leverage over Waterdeep's nobility independent of the carnival's goodwill — those are the gaps the party can fill, provided Jarlaxle decides to cultivate them.
 
 **What Bregan D'aerthe shares proactively:**
-- Anonymous black coin pouches arrive at the party's door after Missions 1 and 3 — no note, no explanation. Amounts: 50 gp, then 100 gp. Jarlaxle is establishing a pattern of generosity before he introduces himself.
+- Anonymous black coin pouches arrive at the party's door after Missions 1 and 3, unexplained. Amounts: 50 gp with no note, then 100 gp with a short note promising a more interesting assignment. Jarlaxle is establishing a pattern of generosity before he introduces himself.
 - At Renown 3+: Nar'l Xibrindas's intelligence on Xanathar's movement patterns is available once per tenday — response timing and surface contacts, not the lair layout. The distinction is deliberate.
 - At Renown 5+: The *Scarlet Marpenoth* is available as an extraction vehicle for one operation adjacent to **Sea Maidens Faire**, if the party has completed Mission 4.
 

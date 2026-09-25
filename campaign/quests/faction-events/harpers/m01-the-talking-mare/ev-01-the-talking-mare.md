@@ -47,7 +47,7 @@ She is chatty. Left to her own inclinations, she starts with the apple and moves
 
 > > "A pale man with a carved wooden wand hired my dray four days ago. Dock Ward to Shesstra Street, Trades Ward. Three floors, no signage. Red lantern in the upper window."
 
-> > "Two weeks ago, a sun elf and a very large half-orc took my dray from the Dock Ward to the Yawning Portal. They argued most of the way. The elf wanted to keep looking for someone. The half-orc said it was too exposed. The elf said, 'The war doesn't help anyone until we know who's running it.'"
+> > "Two tendays ago, a sun elf and a very large half-orc took my dray from the Dock Ward to the Yawning Portal. They argued most of the way. The elf wanted to keep looking for someone. The half-orc said it was too exposed. The elf said, 'The war doesn't help anyone until we know who's running it.'"
 
 > > "I would like to be moved to the stables on Candle Lane. The Dock Ward has felt strange lately."
 
@@ -57,7 +57,7 @@ A **DC 12 Intelligence (Investigation)** check while she is describing the pale 
 
 **Relocate Maxeene:** The party arranges new stabling on Candle Lane, through Mirt or on their own initiative. Mirt is pleased. Maxeene continues as an active Harper asset. Vell loses the target and reports back to her handler empty-handed.
 
-**Leave her in place:** Vell confirms the identification and reports to her handler. The Splinter now has a surveillance window on a Harper asset's route. Maxeene is no longer viable as an intelligence resource within a week.
+**Leave her in place:** Vell confirms the identification and reports to her handler. The Splinter now has a surveillance window on a Harper asset's route. Maxeene is no longer viable as an intelligence resource within a tenday.
 
 **Vell follows the party:** If the party leaves Fillet Lane without handling Vell, she tails them. A **DC 15 Passive Perception** (or an active Perception check if the party is watching for pursuit) notices the same hire-coach several streets back. Vell can be confronted, shaken off, or followed back to the Shesstra Street safehouse herself — the same address Maxeene described.
 

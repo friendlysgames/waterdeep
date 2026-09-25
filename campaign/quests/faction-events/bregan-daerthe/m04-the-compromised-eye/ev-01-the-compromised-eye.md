@@ -45,7 +45,7 @@ Three approaches are viable. The party chooses one.
 
 Nar'l drafts a misleading incident report for Ahmaergo explaining the intelligence gaps as deliberate misdirection of a Watch informant who was operating close to Guild interests. The report requires one piece of corroborating external evidence to hold up: a Watch broadsheet entry, a guild record, or a statement from a named contact that supports the narrative.
 
-Assembling the corroborating material requires a **DC 14 Intelligence (Investigation) or Charisma (Deception)** check. On success, Nar'l submits the report and Ahmaergo is satisfied — the investigation closes. On failure, the report is submitted but Ahmaergo remains suspicious; the party has bought two weeks, no more, and Nar'l's standing is formally under review.
+Assembling the corroborating material requires a **DC 14 Intelligence (Investigation) or Charisma (Deception)** check. On success, Nar'l submits the report and Ahmaergo is satisfied — the investigation closes. On failure, the report is submitted but Ahmaergo remains suspicious; the party has bought two tendays, no more, and Nar'l's standing is formally under review.
 
 Nar'l remains in place. His intelligence channel to Jarlaxle is intact.
 

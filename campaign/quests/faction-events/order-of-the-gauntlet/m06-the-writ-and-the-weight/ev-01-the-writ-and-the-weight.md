@@ -55,7 +55,7 @@ When the Horned Devil is destroyed or banished, the halls go quiet except for th
 
 > > "That's the first time they've sent something that heavy," she says. "Which means the petition is working." She looks at the party. "They're scared."
 
-Two days later, the Lords' formal review returns a preliminary finding: sufficient grounds to proceed. The Cassalanters are officially under investigation. Lord Victoro Cassalanter attends a charity function the following week and smiles at everyone who approaches him.
+Two days later, the Lords' formal review returns a preliminary finding: sufficient grounds to proceed. The Cassalanters are officially under investigation. Lord Victoro Cassalanter attends a charity function the following tenday and smiles at everyone who approaches him.
 
 ### The Recognition
 

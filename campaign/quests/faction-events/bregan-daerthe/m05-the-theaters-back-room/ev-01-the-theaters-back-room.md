@@ -52,7 +52,7 @@ A quiet doorway two blocks from the theater. Brimel speaks quickly and does not 
 
 The document contains: a street address in the North Ward and a hand-drawn floor plan of a converted windmill, two floors, lower-floor room kept locked. Brimel adds what the document does not say:
 
-> > "I don't know what's in the locked room. I know Lord Victoro used the word *resolution* when he described what it contained. And I know Madam Ammalia went there the week after their youngest was born."
+> > "I don't know what's in the locked room. I know Lord Victoro used the word *resolution* when he described what it contained. And I know Madam Ammalia went there the tenday after their youngest was born."
 
 He takes nothing with him. He asks no questions. He goes home.
 

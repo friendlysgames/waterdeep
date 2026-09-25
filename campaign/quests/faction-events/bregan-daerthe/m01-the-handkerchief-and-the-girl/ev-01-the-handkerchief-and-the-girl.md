@@ -13,7 +13,7 @@
 
 **Background (DM only)**
 
-The handkerchief contains a coded message hidden in the anchor embroidery — eleven specific knots that only Bregan D'aerthe field operatives can read. **Vessin** is a tiefling girl of sixteen, a D'aerthe informant who has been working the Dock Ward waterfront for eighteen months. Her contact method uses a specific embroidery house that also supplies Lady Ashford's household. Six weeks ago, a delivery went to Ashford instead of Vessin; Ashford kept it because the anchor motif matched her collection. Krebbyg does not fully understand the situation — he knows only that Jarlaxle wants the handkerchief delivered and that Vessin has been out of contact.
+The handkerchief contains a coded message hidden in the anchor embroidery — eleven specific knots that only Bregan D'aerthe field operatives can read. **Vessin** is a tiefling girl of sixteen, a D'aerthe informant who has been working the Dock Ward waterfront for eighteen months. Her contact method uses a specific embroidery house that also supplies Lady Ashford's household. Six tendays ago, a delivery went to Ashford instead of Vessin; Ashford kept it because the anchor motif matched her collection. Krebbyg does not fully understand the situation — he knows only that Jarlaxle wants the handkerchief delivered and that Vessin has been out of contact.
 
 Vessin is Jarlaxle's best-positioned observation asset in the Dock Ward. He values her considerably more than he has indicated to Krebbyg.
 
@@ -48,13 +48,13 @@ Fully decoding the message requires a **DC 17 Intelligence (Investigation)** che
 > **[GM]**
 >
 > #### If the Party Decodes the Message
-> Krebbyg, when told about it at debrief, pauses. Then: "How did you recognize the pattern?" He listens to the answer and files it. He says nothing further. Jarlaxle hears about it within the week.
+> Krebbyg, when told about it at debrief, pauses. Then: "How did you recognize the pattern?" He listens to the answer and files it. He says nothing further. Jarlaxle hears about it within the tenday.
 
 ### Vessin
 
 Corner of Net Street and Dock Street in the Dock Ward: a converted harbor crate on a raised frame, door painted yellow. Vessin opens before the party knocks — she heard them on the approach stairs. Small, dark-haired, tiefling, her movements economical in the way of someone who has spent years not being noticed.
 
-She takes the handkerchief and counts the knots with her thumb. Her posture changes when she finishes. Six weeks of silence ending in a single count.
+She takes the handkerchief and counts the knots with her thumb. Her posture changes when she finishes. Six tendays of silence ending in a single count.
 
 > > "Tell Kreb: still watching. Nothing changed."
 

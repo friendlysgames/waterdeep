@@ -14,7 +14,7 @@
 ## Involved Characters
 - **Savra Belabranta** (Order of the Gauntlet) — contacts the party by paper bird; joins them at day's end for the debrief
 - **Gaxly Rudderbust** (Waterdeep Wazoo) — the publisher; published a planted story about the Black Viper; source-protective, two-layered; can be moved by coin or a direct appeal to his safety
-- **Ilmeth Waevlur** (Hall of Records, retired) — volunteers three mornings a week; the only person who can identify the forged birth record for what it is
+- **Ilmeth Waevlur** (Hall of Records, retired) — volunteers three mornings a tenday; the only person who can identify the forged birth record for what it is
 - **Seffia Naelryke** (Cassalanter household operative) — the woman who planted the story; Tethyrian, composed, conducting a social audit from the moment the party enters
 
 ## Dangers & Enemies

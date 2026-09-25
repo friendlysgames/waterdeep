@@ -16,7 +16,7 @@
 
 **Background (DM only)**
 
-Bonnie ran quiet background checks on each crew member after a Guild operation was tipped off. She confirmed Edric's behavioral drift three weeks ago and said nothing — she wanted to see whether the Harpers were competent enough to catch him. She is effectively evaluating the PCs as potential clients throughout the interviews. Her interest in how carefully they ask questions is not incidental; it is the assessment.
+Bonnie ran quiet background checks on each crew member after a Guild operation was tipped off. She confirmed Edric's behavioral drift three tendays ago and said nothing — she wanted to see whether the Harpers were competent enough to catch him. She is effectively evaluating the PCs as potential clients throughout the interviews. Her interest in how carefully they ask questions is not incidental; it is the assessment.
 
 Edric has already filed one report identifying Mattrim Mereg as a Harper operative. He will use the interview sessions to gather intelligence on the PCs: their affiliations, how they approach a trust problem, what they look like in action. He is personable and disarming by design.
 
@@ -76,7 +76,7 @@ He says it quietly, without drama.
 
 Then:
 
-> > "I need to tell you something else. Bonnie knows. She's known for about a week. She hasn't told me because she thinks she can fix it herself. She can't."
+> > "I need to tell you something else. Bonnie knows. She's known for about a tenday. She hasn't told me because she thinks she can fix it herself. She can't."
 
 He looks up.
 
@@ -90,14 +90,14 @@ Mirt listens without interrupting.
 
 **If Edric is correctly identified:** Mirt is visibly relieved. He recruits the other four under a provisional arrangement — they report to Bonnie, Bonnie reports nothing to the Harpers but agrees to a neutrality pact. Mattrim is chastened. Edric is either neutralized (the Splinter loses their embedded asset) or left in place as a controlled asset feeding false information.
 
-**If Bonnie's prior knowledge is disclosed:** Mirt goes quiet for longer than usual. "She ran her own check. Sat on it. Watched." He recalibrates. A PC can push him — with a **DC 13 Charisma (Persuasion)** check, or simply by making the case directly that Bonnie found Edric three weeks before the Harpers knew to look — and Mirt agrees to offer her a full operative role rather than a neutrality pact. She names her own terms: her crew's identities stay protected, she routes intelligence through the PCs rather than directly to Mirt, and she retains discretion over which jobs she takes. Mirt accepts. Bonnie becomes a Harper operative with the Yawning Portal as her base.
+**If Bonnie's prior knowledge is disclosed:** Mirt goes quiet for longer than usual. "She ran her own check. Sat on it. Watched." He recalibrates. A PC can push him — with a **DC 13 Charisma (Persuasion)** check, or simply by making the case directly that Bonnie found Edric three tendays before the Harpers knew to look — and Mirt agrees to offer her a full operative role rather than a neutrality pact. She names her own terms: her crew's identities stay protected, she routes intelligence through the PCs rather than directly to Mirt, and she retains discretion over which jobs she takes. Mirt accepts. Bonnie becomes a Harper operative with the Yawning Portal as her base.
 
-**If Edric is not identified:** All five are offered provisional recruitment. Within a week, Edric files a report. Names, descriptions, Harper affiliation. The Splinter now knows who the party is. Proceed to **The Tail** Event.
+**If Edric is not identified:** All five are offered provisional recruitment. Within a tenday, Edric files a report. Names, descriptions, Harper affiliation. The Splinter now knows who the party is. Proceed to **The Tail** Event.
 
 > **[GM]**
 >
 > #### If the Splinter Safehouse Is Investigated
-> If Edric is caught and the party follows up on the safehouse connection in Trades Ward: it contains notes about two other Harper assets in the city. Mirt can clean house on them before the Splinter acts. If Edric is not caught, those assets are burned within a week.
+> If Edric is caught and the party follows up on the safehouse connection in Trades Ward: it contains notes about two other Harper assets in the city. Mirt can clean house on them before the Splinter acts. If Edric is not caught, those assets are burned within a tenday.
 
 ### Concluding the Event
 
@@ -139,4 +139,4 @@ Mirt needs a trusted second opinion on whether to recruit a crew of five doppelg
 
 ## Summary
 
-The party conducted two evenings of interviews with Bonnie's doppelganger crew. Mattrim, after the interviews, disclosed that one crew member had already reported the party's Harper affiliation to the Splinter — and that Bonnie had known for a week and had been trying to handle it herself. The party's recommendations to Mirt shaped both Edric Tanner's fate and Bonnie's long-term role in the Harper network.
+The party conducted two evenings of interviews with Bonnie's doppelganger crew. Mattrim, after the interviews, disclosed that one crew member had already reported the party's Harper affiliation to the Splinter — and that Bonnie had known for a tenday and had been trying to handle it herself. The party's recommendations to Mirt shaped both Edric Tanner's fate and Bonnie's long-term role in the Harper network.

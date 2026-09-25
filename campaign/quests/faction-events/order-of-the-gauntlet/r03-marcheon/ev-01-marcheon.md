@@ -36,7 +36,7 @@ She means this as a practical filter, not a disclaimer. She's been in enough ope
 
 Priests of Tyr, Helm, and Torm hear things their parishioners don't intend to share. Confessions. Arguments in the vestibule. People who come to pray when they're frightened of something they can't name. The priests have been talking to Savra since she arrived in Waterdeep.
 
-At Marcheon, that network opens to the character: unusual spiritual activity, known fiendish signs, parishioners who've said something that stuck. One briefing per week from the relevant temple, if there's anything worth briefing.
+At Marcheon, that network opens to the character: unusual spiritual activity, known fiendish signs, parishioners who've said something that stuck. One briefing per tenday from the relevant temple, if there's anything worth briefing.
 
 > > "They won't share names without the person's knowledge — Tyr's law. But they'll share patterns, and right now there are patterns worth knowing."
 
@@ -64,7 +64,7 @@ She doesn't add to this.
 
 ## Overview
 
-Savra delivered the Marcheon promotion: she can now accompany the character into one dangerous operation per quest as a combat ally, the Order's armory is open for borrowed weapons and armor, and the temple priest network (priests of Tyr, Helm, and Torm sharing what their parishes turn up) is available to the character each week.
+Savra delivered the Marcheon promotion: she can now accompany the character into one dangerous operation per quest as a combat ally, the Order's armory is open for borrowed weapons and armor, and the temple priest network (priests of Tyr, Helm, and Torm sharing what their parishes turn up) is available to the character each tenday.
 
 ## Summary
 

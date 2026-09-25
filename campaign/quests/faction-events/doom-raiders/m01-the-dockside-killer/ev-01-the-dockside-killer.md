@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-**Soluun Xibrindas** has been operating in Waterdeep for three weeks. He is renegade — disowned by Jarlaxle before the campaign began for conducting unsanctioned operations that created exposure risk for Bregan D'aerthe's presence in the city. He kills half-elves from personal hatred, with no faction authorization. The forged identification token is his own creation: a small silver disc with a stylized spider motif that does not quite match genuine D'aerthe tokens.
+**Soluun Xibrindas** has been operating in Waterdeep for three tendays. He is renegade — disowned by Jarlaxle before the campaign began for conducting unsanctioned operations that created exposure risk for Bregan D'aerthe's presence in the city. He kills half-elves from personal hatred, with no faction authorization. The forged identification token is his own creation: a small silver disc with a stylized spider motif that does not quite match genuine D'aerthe tokens.
 
 Heldar is a half-elf sailor who drinks alone at the Muleskull Tavern on Ship Street most nights and walks the same route back to his ship each time. He matched the previous three victims in every detail that mattered to Soluun, and Soluun has been watching him for two days. He does not know this.
 

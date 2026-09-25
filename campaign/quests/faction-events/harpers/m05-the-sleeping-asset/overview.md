@@ -22,7 +22,7 @@
 
 ## Overview
 
-Mirt arrived at Trollskull Manor before dawn, through the back door, and sat in the taproom until someone came downstairs. His Harper informant Corene Wyldath had stopped checking in three weeks earlier. He had been patient. He was not anymore.
+Mirt arrived at Trollskull Manor before dawn, through the back door, and sat in the taproom until someone came downstairs. His Harper informant Corene Wyldath had stopped checking in three tendays earlier. He had been patient. He was not anymore.
 
 Corene had been compromised by Nihiloor twelve days earlier. An intellect devourer had eaten her brain. She was walking, talking, maintaining her cover, filing false reports that the Dock Ward operation was running normally — and attending Harper contact meetings while reporting everything back to Nihiloor. The party located her at her regular meeting point in the Trades Ward and had to determine whether she was the real Corene, a doppelganger, or something worse.
 

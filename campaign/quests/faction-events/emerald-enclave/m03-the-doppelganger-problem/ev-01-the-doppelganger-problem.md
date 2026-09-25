@@ -48,7 +48,7 @@ She has been sitting on this for some time. The timing is right now. He leaves w
 
 ### The Agreement
 
-Bonnie asks for two weeks to arrange departure for her crew. She will honor this. There is no deception at this stage — she is settling an account and creating no new problems.
+Bonnie asks for two tendays to arrange departure for her crew. She will honor this. There is no deception at this stage — she is settling an account and creating no new problems.
 
 As a parting courtesy, she names the Manshoon Splinter operative who bought the intelligence from her traitor. The name is **Kelso Fiddlewick** — a Field Ward gang leader with connections the party may already know from Order of the Gauntlet work. Melannor passes the name to both the Harpers and the Lords' Alliance independently.
 
@@ -88,4 +88,4 @@ Five doppelgangers are operating freely out of the Yawning Portal. One is sellin
 
 ## Summary
 
-The party negotiated with Bonnie, leader of a doppelganger crew operating from the Yawning Portal. She agreed to a two-week departure timeline and, as a parting courtesy, named Kelso Fiddlewick as the Manshoon Splinter operative who had been buying intelligence from a traitor in her crew.
+The party negotiated with Bonnie, leader of a doppelganger crew operating from the Yawning Portal. She agreed to a two-tenday departure timeline and, as a parting courtesy, named Kelso Fiddlewick as the Manshoon Splinter operative who had been buying intelligence from a traitor in her crew.

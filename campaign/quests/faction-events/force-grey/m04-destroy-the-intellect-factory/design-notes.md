@@ -12,7 +12,7 @@
 
 ***Why include a rescue here.*** Soluun appears in Doom Raiders Mission 1 (The Dockside Killer) as the antagonist and reappears here as a prisoner. A party that dealt with him in Mission 1 will recognize him in X24 and face an interesting decision: the man they may have arrested, fought, or let escape is now in need of rescue from the same organization they are currently infiltrating. Whether they help him says something about the party's moral accounting.
 
-For parties who never encountered Soluun before: he is a drow claiming BD affiliation to stay alive, which has been working for six weeks, and the debt he owes if rescued can be presented as a future asset without requiring prior acquaintance.
+For parties who never encountered Soluun before: he is a drow claiming BD affiliation to stay alive, which has been working for six tendays, and the debt he owes if rescued can be presented as a future asset without requiring prior acquaintance.
 
 ***The escape cost.*** The decision to rescue Soluun is made in Event 01; the cost is paid in Event 02. Carrying an unconscious person through an alerted dungeon is a concrete mechanical burden. This is intentional — the design ensures that the rescue has weight at the point when it matters, not just at the point of decision. Players who chose to help him and then feel the cost of that choice have engaged with the mission more meaningfully than players who never had to pay for their intentions.
 

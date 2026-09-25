@@ -21,7 +21,7 @@ Pirn is not acting on formal Guild authority. This is a low-level operation at t
 
 ### At the Yawning Portal
 
-**Jalester Silvermane** picks a table far enough from the bar that the conversation won't carry and delivers the mission without preamble. The gang war is making the Dock Ward dangerous. The Alliance offered protection to the Dungsweepers' Guild route coordinator. Three of her subordinates were roughed up this week, and she is the next logical target. He needs people willing to walk the route every day for a tenday. The Watch is stretched thin. This is real work.
+**Jalester Silvermane** picks a table far enough from the bar that the conversation won't carry and delivers the mission without preamble. The gang war is making the Dock Ward dangerous. The Alliance offered protection to the Dungsweepers' Guild route coordinator. Three of her subordinates were roughed up this tenday, and she is the next logical target. He needs people willing to walk the route every day for a tenday. The Watch is stretched thin. This is real work.
 
 > > "Six bells, Muleskull Tavern, Ship Street, Dock Ward. Her name is Mareva Coile. She'll give you the schedule. Do the work."
 
@@ -31,7 +31,7 @@ He offers two renown on completion and no tangible reward. He expects profession
 
 **Mareva Coile** is 45, sharp-tempered, and skeptical of outside help. She manages the route as a coordinator — holds the contracts, keeps the paperwork straight, speaks to Jalester. She does not apologize for being skeptical. She makes her concern explicit.
 
-> > "If my workers stop showing up because they're scared, the city fills with filth in a week. That's worse than a black eye."
+> > "If my workers stop showing up because they're scared, the city fills with filth in a tenday. That's worse than a black eye."
 
 She gives the party the supervisor rotation schedule and names the four supervisors who have access to the real-time route timing: Delvon Harsk, Orryn Saltwick, Bremma Dunnet, and Cass Fildura.
 
@@ -119,7 +119,7 @@ Jalester assigned the party to protect a Dungsweepers' Guild crew coordinator th
 
 > Jalester picks a table away from the bar, sits, and doesn't waste your time.
 >
-> > "A gang war is making the streets dangerous and the Guild workers nervous. We've offered protection to their Dock Ward route coordinator — a woman named Mareva Coile. Three of her subordinates have been roughed up this week, and she's the next logical target. I need people willing to walk her route every day for a tenday. The Watch is stretched thin. This is real work." He meets each of your eyes in turn. "Six bells, Muleskull Tavern, Ship Street, Dock Ward."
+> > "A gang war is making the streets dangerous and the Guild workers nervous. We've offered protection to their Dock Ward route coordinator — a woman named Mareva Coile. Three of her subordinates have been roughed up this tenday, and she's the next logical target. I need people willing to walk her route every day for a tenday. The Watch is stretched thin. This is real work." He meets each of your eyes in turn. "Six bells, Muleskull Tavern, Ship Street, Dock Ward."
 
 > Mareva is already at the table when you arrive. She is sharp-eyed and not pretending to be pleased about needing outside help.
 >

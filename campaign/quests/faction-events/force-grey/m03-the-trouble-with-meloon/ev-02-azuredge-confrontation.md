@@ -10,14 +10,14 @@
 > - Reporting to Vajra triggers her immediate action — she removes the devourer herself, at Blackstaff Tower, by *wish*.
 > - Direct extraction: a 4th-level spellcaster can force the devourer to surface with a DC 18 Intelligence (Arcana) check; failure deals 4d6 psychic damage to Meloon; success forces the devourer out and makes it immediately hostile.
 > - Inconclusive reporting: the devourer files its weekly report; Nihiloor's network has now identified the party by description; Mission 4 is expecting them.
-> - Meloon, when restored, is disoriented and then grateful with the intensity of someone who has been not-themselves for weeks.
+> - Meloon, when restored, is disoriented and then grateful with the intensity of someone who has been not-themselves for tendays.
 > - Vajra provides a wand of secrets on any successful resolution.
 
 **Background (DM only)**
 
 The party has everything they need. Now the question is what they do with it.
 
-Vajra has been waiting for confirmation she could not officially seek. If they bring her a full, specific report — behavioral tells, Azuredge's communication, magical confirmation on Day 7 — she acts the following morning. She has been Blackstaff for three years and has been watching Meloon go wrong for two weeks without being able to name it officially. The party has given her the naming.
+Vajra has been waiting for confirmation she could not officially seek. If they bring her a full, specific report — behavioral tells, Azuredge's communication, magical confirmation on Day 7 — she acts the following morning. She has been Blackstaff for three years and has been watching Meloon go wrong for two tendays without being able to name it officially. The party has given her the naming.
 
 If the party attempts direct extraction themselves, they are improvising something that is not written in any manual. Success is possible. The cost of failure is paid by Meloon.
 
@@ -29,9 +29,9 @@ The report must be specific to trigger her action. Vajra asks three questions: w
 
 She casts *wish* herself — the only available method — and removes the devourer in a private session at Blackstaff Tower the following morning. She does not perform this casually. *Wish* costs something even for the Blackstaff. She does it without announcing this.
 
-The party can observe the extraction if they ask. Meloon, restored, is disoriented and then grateful with the intensity of someone who has been not-themselves for weeks and only now understands what that means.
+The party can observe the extraction if they ask. Meloon, restored, is disoriented and then grateful with the intensity of someone who has been not-themselves for tendays and only now understands what that means.
 
-> > "How long?" he asks. A pause. Then: "Three weeks." He sits with that for a moment. "Three weeks."
+> > "How long?" he asks. A pause. Then: "Three tendays." He sits with that for a moment. "Three tendays."
 
 He does not say anything else for a while. Later, he buys the party a drink. He does not say what it is for.
 

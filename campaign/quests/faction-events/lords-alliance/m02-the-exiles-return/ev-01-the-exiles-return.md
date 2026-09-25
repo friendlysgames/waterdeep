@@ -14,7 +14,7 @@
 
 **Background (DM only)**
 
-**Harko Swornhold** (Bandit Captain stat block) is playing two sides. He is working as a low-level incitement organizer for the Xanathar Guild — recruiting kenku, spreading tension in the Dock Ward. A Manshoon Splinter fixer named **Veralax** found him two weeks after he returned to the city and offered him coin to serve as a communications cutout between the Splinter and Xanathar street crews. Harko accepted as insurance and has been taking Veralax's coin while deciding whether to actually set up the channel. He has not told the Xanathar Guild about Veralax.
+**Harko Swornhold** (Bandit Captain stat block) is playing two sides. He is working as a low-level incitement organizer for the Xanathar Guild — recruiting kenku, spreading tension in the Dock Ward. A Manshoon Splinter fixer named **Veralax** found him two tendays after he returned to the city and offered him coin to serve as a communications cutout between the Splinter and Xanathar street crews. Harko accepted as insurance and has been taking Veralax's coin while deciding whether to actually set up the channel. He has not told the Xanathar Guild about Veralax.
 
 His two **kenku** companions serve as sentries at the warehouse's two entry points and communicate warnings through memorized knock patterns. If combat breaks out, both immediately retreat to the street and begin mimicking a Watch whistle sequence. A real Watch patrol responds in four rounds.
 
@@ -74,7 +74,7 @@ Whether Harko is dead or captured, the kenku flee the moment the fight breaks. T
 >
 > Lira's decision the following morning depends entirely on what the party does in the sixty seconds after she appears.
 >
-> **If the party is immediately honest:** She is frightened but responds to directness. She knew Harko — he had been drinking at the Muleskull for two weeks, quiet, never trouble inside. She is not going to the Watch tonight. She says: "He wasn't a good person. But that's not the same as this being right." She leaves. In the morning she decides not to file a report.
+> **If the party is immediately honest:** She is frightened but responds to directness. She knew Harko — he had been drinking at the Muleskull for two tendays, quiet, never trouble inside. She is not going to the Watch tonight. She says: "He wasn't a good person. But that's not the same as this being right." She leaves. In the morning she decides not to file a report.
 >
 > **If the party lies or hedges:** She says nothing and leaves. The Watch receives a report the following morning noting a body in the alley and a description of the party. Jalester receives it, sighs, and tells the party: "I said quietly." He does not formally discipline them — there is no official mission record — but he gives harder assignments going forward.
 >
@@ -86,7 +86,7 @@ Whether Harko is dead or captured, the kenku flee the moment the fight breaks. T
 
 If Harko is alive, he offers information in exchange for Watch custody over execution. He delivers this clearly, not desperately.
 
-> > "I've been running messages between two handlers who don't know about each other. One works for Xanathar. The other one — the one who found me two weeks after I got back into the city — goes by Veralax. Dresses like a gem merchant. Meets at the Bent Nail alehouse, Dock Ward, every Highsun. Middle booth. He's Zhentarim — the bad kind, not the ones who do business. He's trying to use me to pass information between his people and the Xanathar street crews. I've been taking his coin but I haven't set up anything yet."
+> > "I've been running messages between two handlers who don't know about each other. One works for Xanathar. The other one — the one who found me two tendays after I got back into the city — goes by Veralax. Dresses like a gem merchant. Meets at the Bent Nail alehouse, Dock Ward, every Highsun. Middle booth. He's Zhentarim — the bad kind, not the ones who do business. He's trying to use me to pass information between his people and the Xanathar street crews. I've been taking his coin but I haven't set up anything yet."
 
 This information is accurate, verifiable, and actionable. Veralax is a Manshoon Splinter fixer. The Bent Nail meeting is real.
 
@@ -104,7 +104,7 @@ This information is accurate, verifiable, and actionable. Veralax is a Manshoon 
 >
 > **If Harko is taken to Watch custody:** He gives a full statement. Jalester receives the sealed Thayan intelligence file on **Esloon Bezant** — his failed coup in Thay, his arrival in Waterdeep, and a list of associates. This file reduces the DC to locate Esloon in **Mission 3** by 2.
 >
-> **If Veralax's address reaches Jalester:** Watch surveillance identifies Veralax as a Manshoon Splinter operative. He is picked up two weeks later. His arrest removes one communication channel in the Dock Ward — the Splinter response team in **Faction Outposts** is missing one of its usual liaisons.
+> **If Veralax's address reaches Jalester:** Watch surveillance identifies Veralax as a Manshoon Splinter operative. He is picked up two tendays later. His arrest removes one communication channel in the Dock Ward — the Splinter response team in **Faction Outposts** is missing one of its usual liaisons.
 >
 > #### Next Steps
 >

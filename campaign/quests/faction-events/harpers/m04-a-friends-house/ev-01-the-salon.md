@@ -103,7 +103,7 @@ Here because Remallia maintains careful relations with the Watch. Blunt, a littl
 Three shipments in four months redirected — the goods arrive, but to wrong buyers whose paperwork is pristine. She has been asking if anyone at the dinner knows anyone discreet. She mentions the Cassalanters have been buying unusual quantities of a specific imported dye. (True. It is used in a ritual in **Cassalanter Villa**.)
 
 **Lord Aldric Talmost** — *Minor noble. Desperate to matter.*
-He has heard fragments about "the vault situation" from someone at his club and has been working it into every conversation for a week. A Cassalanter cousin told him the family had a significant windfall coming — "not from trade." He can be pumped with flattery (**DC 10 Charisma/Persuasion**). He does not know what it means. It is useful.
+He has heard fragments about "the vault situation" from someone at his club and has been working it into every conversation for a tenday. A Cassalanter cousin told him the family had a significant windfall coming — "not from trade." He can be pumped with flattery (**DC 10 Charisma/Persuasion**). He does not know what it means. It is useful.
 
 **Zalara Moonwhisper** — *Elven archivist. Attached to the Font of Knowledge.*
 She recently found records suggesting a significant sum was placed in trust under the Lords' authority over a century ago and never formally disbursed. She thinks it is a clerical error. She has found a reference to the Vault of Dragons in an administrative record dated 1244 DR, filed under "extraordinary reserve, Lords' disposition." She does not know what it means. If the PCs explain or hint, she offers to pull the full document — which names the vault's ceremonial lock.

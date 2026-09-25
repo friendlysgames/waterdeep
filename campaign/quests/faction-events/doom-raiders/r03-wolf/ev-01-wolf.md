@@ -35,7 +35,7 @@ He refills only his own glass — the signal that the meeting is done.
 
 > [!info]**The Dock Ward Safe House**
 >
-> The address Davil provides is a third-floor loft above a tallow chandler's shop near the fish market. The Doom Raiders keep it stocked with two changes of nondescript clothing, a week's worth of preserved rations, basic bandaging supplies, and a small lockbox containing 25 gp. Party members may spend time here between missions without Watch scrutiny. The safe house is not a refuge for active fugitives — if the party brings a wanted person inside, they are responsible for what follows.
+> The address Davil provides is a third-floor loft above a tallow chandler's shop near the fish market. The Doom Raiders keep it stocked with two changes of nondescript clothing, a tenday's worth of preserved rations, basic bandaging supplies, and a small lockbox containing 25 gp. Party members may spend time here between missions without Watch scrutiny. The safe house is not a refuge for active fugitives — if the party brings a wanted person inside, they are responsible for what follows.
 
 ### Concluding the Event
 

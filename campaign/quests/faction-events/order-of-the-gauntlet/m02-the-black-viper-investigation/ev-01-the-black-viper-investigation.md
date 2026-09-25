@@ -42,7 +42,7 @@ Both tracks are available simultaneously. The party may pursue one, the other, o
 
 #### Track A — The Hall of Records
 
-A day's work among clerks and registry shelves. **Ilmeth Waevlur**, a retired clerk who worked the Sea Ward records for thirty years and now volunteers three mornings a week out of habit, is the key contact.
+A day's work among clerks and registry shelves. **Ilmeth Waevlur**, a retired clerk who worked the Sea Ward records for thirty years and now volunteers three mornings a tenday out of habit, is the key contact.
 
 A **DC 13 Charisma (Persuasion) check** or a mention of the Order of the Gauntlet prompts him to pull the "Petra Cassalanter" entry and look at it critically. His verdict, after a long pause: the document has correct formatting and genuine official seals, but the clerk's signature belongs to a registrar who died in 1468 DR — two years before the alleged birth. Someone with access to stolen seals produced a convincing forgery. A real person did not exist. A real crime did.
 

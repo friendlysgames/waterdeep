@@ -59,7 +59,7 @@ The second floor is unlit. Gaxly's editorial office is at the far end: a desk th
 
 *The Waterdeep Wazoo*, three days after the delivery: a front-page story, anonymously sourced, about certain noble families and private infernal worship. It is specific enough to be alarming and vague enough to be legally unprovable.
 
-Within a week, **Victoro Cassalanter** sends two associates to speak with Rudderbust about his source. They are dressed as solicitors and carry threatening paperwork. Gaxly tells the truth: he found the document on his desk and he has no idea who left it. He will say this truthfully under any pressure because it is true. The associates leave without satisfaction.
+Within a tenday, **Victoro Cassalanter** sends two associates to speak with Rudderbust about his source. They are dressed as solicitors and carry threatening paperwork. Gaxly tells the truth: he found the document on his desk and he has no idea who left it. He will say this truthfully under any pressure because it is true. The associates leave without satisfaction.
 
 Jarlaxle is satisfied. The Cassalanters are looking at Rudderbust rather than at him.
 
@@ -107,4 +107,4 @@ A publishing matter: plant a sensitive document on a North Ward editor's desk du
 
 ## Summary
 
-The party infiltrated the Wazoo building during Gaxly Rudderbust's dinner party and placed J.B. Nevercott's sealed document in the editorial stack. Three days later it ran as the front page: an anonymously sourced exposé on infernal worship among certain Sea Ward noble families. Within a week, two Cassalanter associates arrived at the Wazoo dressed as solicitors. J.B. Nevercott paid 80 gp at the Yawning Portal and asked nothing about any of it.
+The party infiltrated the Wazoo building during Gaxly Rudderbust's dinner party and placed J.B. Nevercott's sealed document in the editorial stack. Three days later it ran as the front page: an anonymously sourced exposé on infernal worship among certain Sea Ward noble families. Within a tenday, two Cassalanter associates arrived at the Wazoo dressed as solicitors. J.B. Nevercott paid 80 gp at the Yawning Portal and asked nothing about any of it.
