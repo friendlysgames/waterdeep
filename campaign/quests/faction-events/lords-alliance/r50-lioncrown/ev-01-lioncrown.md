@@ -163,18 +163,16 @@ Set **True** if the character accepts Laeral's request to watch for the missing 
 > The character leaves Piergeiron's Palace with: the outstanding charge removed (or held in reserve), three honest answers from the Open Lord, and their decisions on Sevel Dastar and the Undermountain Commission recorded.
 >
 > If **Vault of Dragons** has not yet resolved, Sevel Dastar — if accepted — can be deployed in the vault approach. If the campaign has moved into the Dungeon of the Mad Mage, confirm the Undermountain Commission flag in the session record: the missing agents are a thread, not a footnote.
->
-> This event awards no Milestone Points.
+
+## Overview
+
+Laeral Silverhand promoted the character to Lioncrown — the highest rank of the Lords' Alliance — at a private meeting in Piergeiron's Palace. The ceremony included the removal of an outstanding charge, an offer of three honest answers to any questions about the Grand Game or Waterdeep's politics, and the introduction of a dedicated attaché. Laeral made a private request about Undermountain at the close.
 
 ## Read Aloud
 
 > The summons says "private Alliance business." The room at Piergeiron's Palace does not look like where the Open Lord receives petitioners. It looks like where she actually works — scarred table, cabinet of files, a fire that has been burning for hours. Laeral Silverhand is at the far end, and she looks at you once when you enter.
 >
 > > "Lioncrown. Sit down."
-
-## Overview
-
-Laeral Silverhand promoted the character to Lioncrown — the highest rank of the Lords' Alliance — at a private meeting in Piergeiron's Palace. The ceremony included the removal of an outstanding charge, an offer of three honest answers to any questions about the Grand Game or Waterdeep's politics, and the introduction of a dedicated attaché. Laeral made a private request about Undermountain at the close.
 
 ## Summary
 

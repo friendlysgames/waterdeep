@@ -23,7 +23,7 @@ For parties who understood what they reported, the silence is confirmation. For 
 
 > **[GM]**
 >
-> > [!warning] **Don't Restate First Meeting Content**
+> > [!warning]**Don't Restate First Meeting Content**
 > >
 > > This event does not replay the Watch visit or Ryvarra's surveillance from **The Factions Come Calling** Event. Those scenes are already resolved. This event records what follows.
 

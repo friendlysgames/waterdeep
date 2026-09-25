@@ -68,14 +68,14 @@ She corrects one assumption. Whatever specific location the party believes the v
 
 She says nothing further about the Cassalanters beyond acknowledging the scrying data. She does not speculate on infernal involvement.
 
-> [!warning] **Cassalanter Rule**
+> [!warning]**Cassalanter Rule**
 > Vajra has external scrying evidence of conjuration and abjuration residue beneath the Cassalanter villa — consistent with binding circles. She does not have interior access, documentary evidence of an infernal contract, or testimony concerning Asmodeus. She will not confirm what she cannot confirm. If the party presents claims beyond what they could have physically observed or documented, Vajra closes that thread with: *"I'll file what you saw. Not what you concluded."* Do not allow the party or Vajra to state, imply, or act on the existence of a soul pact unless the party obtained proof during **Cassalanter Villa**.
 
 Any character who watches the Blackstaff when the vault figure — 500,000 dragons — is named and makes a successful DC 13 Wisdom (Perception) check notices the staff shift against the desk, without anyone touching it. There is no magical discharge. It simply moves.
 
 Vajra does not look at it.
 
-> [!lore] **The Blackstaff's Soul**
+> [!lore]**The Blackstaff's Soul**
 > The Blackstaff contains the soul of Khelben Arunsun, the original Blackstaff of Waterdeep, who died to create it. Khelben spent decades defending this city. What the party is describing — Neverember's theft, four factions converging on concealed public wealth — is not abstract to him. Vajra is aware that the staff moves when he is present to something. She has learned not to comment on it at the table. You may use the staff's small reactions as a secondary signal: a confirmation that what the party has brought is real and significant.
 
 ### She Begins Writing

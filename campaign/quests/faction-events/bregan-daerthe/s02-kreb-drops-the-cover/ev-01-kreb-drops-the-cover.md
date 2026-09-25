@@ -40,7 +40,7 @@ He is not deflecting out of suspicion. He is deflecting because the question bel
 
 > **[GM]**
 >
-> > [!info] **The "More Interesting Assignment"**
+> > [!info]**The "More Interesting Assignment"**
 > >
 > > The printed card carries Jarlaxle's own language, relayed down the chain. Krebbyg does not know what Mission 2b involves. He expects to find out when Nevercott departs. **The Betrayal Pitch** fires when J.B. Nevercott contacts the party next — see **The Betrayal Pitch** overview for its two trigger conditions (BD membership and Nevercott contact through **The Wazoo Affair**).
 > >
