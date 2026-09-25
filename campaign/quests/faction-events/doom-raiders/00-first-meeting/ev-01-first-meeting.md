@@ -6,7 +6,7 @@
 >
 > This Social Event occurs when the party arrives at the Yawning Portal after receiving Davil Starsong's note during the **The Factions Come Calling** Event. In this Event:
 >
-> - Yagra Stonefist is already at the bar; she greets the party in one of six ways depending on their history in **The Yawning Portal** Event and the **Yagra Courteous** flag
+> - Yagra Stonefist is already at the bar; she greets the party in one of five ways depending on their history in **The Yawning Portal** Event and the **Yagra Courteous** flag
 > - Yagra leads them to Davil's curtained room on the second floor
 > - Davil pours without asking and names the Two Zhentarims split without being prompted
 > - He describes what the Doom Raiders offer and what they ask for in return

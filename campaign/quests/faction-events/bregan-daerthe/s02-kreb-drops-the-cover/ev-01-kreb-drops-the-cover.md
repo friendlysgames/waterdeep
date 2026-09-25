@@ -18,7 +18,7 @@ He does not wait for them to sit. He has the envelope ready.
 
 > > "That's from the management. A hundred gold and a note. Figure out which matters more."
 
-The envelope contains 100 gp and a short printed card: *A more interesting assignment follows shortly. Patience, please.*
+The envelope contains 100 gp and a short printed card: *A more interesting assignment follows shortly.*
 
 Krebbyg watches them read it. He runs his thumb along the hand crossbow's grip — once, twice, a habit he does not seem to notice — and then straightens against the costume rack with the look of someone whose timing has come good.
 

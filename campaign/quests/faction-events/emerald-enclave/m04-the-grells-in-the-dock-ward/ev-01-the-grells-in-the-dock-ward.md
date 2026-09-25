@@ -55,7 +55,7 @@ A grell reduced to half its maximum HP disengages from the fight and moves towar
 
 The party returns to report. Melannor meets them at the estate gate. When he hears Mirsa is alive, he goes quiet for a moment, then nods once.
 
-Jeryth's voice settles over the garden. It is the first time she has spoken to the party directly rather than through Melannor's relay.
+Jeryth's voice settles over the garden. She speaks to the party, not to the estate at large.
 
 > > "You did well. Come in."
 
@@ -94,4 +94,4 @@ Two grells have taken three citizens from a Dock Ward pier. One is still alive i
 
 ## Summary
 
-The party tracked two grells to an abandoned Dock Ward warehouse and rescued a kidnapped seamstress named Mirsa. On their return to Phaulkonmere, Jeryth Phaulkon spoke directly for the first time and bestowed a charm of heroism on each party member who entered the garden. Mirsa's account of the Pier 17 dockhand payoff pointed toward a Xanathar Guild operation on the south docks.
+The party tracked two grells to an abandoned Dock Ward warehouse and rescued a kidnapped seamstress named Mirsa. On their return to Phaulkonmere, Jeryth Phaulkon spoke in the garden and bestowed a charm of heroism on each party member who entered. Mirsa's account of the Pier 17 dockhand payoff pointed toward a Xanathar Guild operation on the south docks.

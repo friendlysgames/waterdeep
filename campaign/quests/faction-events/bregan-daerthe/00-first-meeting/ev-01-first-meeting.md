@@ -22,7 +22,7 @@ The party may have already spotted her during **The Neighbors** Event. If **Ryva
 
 Approached and questioned directly, Ryvarra excuses herself politely and does not return to the alley that day. No evidence remains. The adjacent stalls cannot describe her face.
 
-> [!profile] **Profile: Ryvarra**
+> [!profile]**Profile: Ryvarra**
 >
 > ***Resonance.*** Ryvarra should inspire the particular unease of someone who has been cataloguing the party since before they knew they were interesting, and retroactive dread once the party understands their first night at the Yawning Portal was already filed and addressed to Jarlaxle.
 >
@@ -84,15 +84,15 @@ The fiction compresses. Once alone, he drops it faster than usual and acknowledg
 
 **Joining.** Any party member may accept the assignment. Nevercott remarks, once and without elaboration, that the organization is mostly drow. He does not appear to regard this as a problem.
 
-> [!profile] **Profile: J.B. Nevercott**
+> [!profile]**Profile: J.B. Nevercott**
 >
 > ***Resonance.*** Nevercott should inspire wary amusement with his maintenance of the fiction well past its useful life, and the particular alertness of someone who has already read the room before the room noticed him.
 >
 > ***Persona.*** To the world, a haberdasher with a coat of exceptional cut and no hat samples. To those he trusts, a Bregan D'aerthe contact whose usefulness is the gap between how he presents and what he knows. Deep down, he has been briefed on the party by Ryvarra and at least two other sources before knocking.
 >
-> ***Morale.*** Nevercott does not fight. If blocked, he produces a glass bead and drops it. The obscuring cloud that follows is the last anyone sees of him for three tendays.
+> ***Morale.*** Nevercott does not fight.
 >
-> ***Inspirations.*** Harry Lime (*The Third Man*), Londo Mollari (*Babylon 5*).
+> ***Inspirations.*** Harry Lime (*The Third Man*).
 
 ### Concluding the Event
 
@@ -120,7 +120,7 @@ Bregan D'aerthe has had eyes on the party since the Yawning Portal. During the r
 
 ## Read Aloud
 
-> The man at the door is wearing a coat the color of a good Saerloon burgundy and carrying a hat box he shows no interest in opening. He gives his name as J.B. Nevercott, haberdasher, and asks to come in with the calm certainty of someone who expects the answer to be yes.
+> The man at the door is wearing a burgundy coat and carrying a hat box he shows no interest in opening. He gives his name as J.B. Nevercott, haberdasher, and asks to come in with the calm certainty of someone who expects the answer to be yes.
 
 ## Summary
 

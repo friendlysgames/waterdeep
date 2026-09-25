@@ -69,7 +69,7 @@ Pressing her on what she did in the cult ends the conversation. She thanks them 
 
 Savra doesn't apply pressure. Once the pitch is done, she waits.
 
-**If the party declines:** She thanks them without showing disappointment, makes clear the offer remains open, and leaves. She'll approach again after **Fireball!** if the party interacted with the scene near Cassalanter-adjacent territory — she has more specific information by then and a stronger reason to ask. She also approaches again after **Gralhund Villa** if party debriefs mention Cassalanter agents at the villa.
+**If the party declines:** She thanks them without showing disappointment, makes clear the offer remains open, and leaves. The offer stands for the campaign.
 
 **If members of the party accept:** *"Good. Let's finish it at the Halls of Justice."*
 
@@ -97,7 +97,7 @@ True if at least one party member took the oath at the Halls of Justice in this 
 >
 > If **Order of the Gauntlet Joined** is True: The **Breaking Up the Brawl** mission unlocks immediately. Return to **The Factions Come Calling** Event to resolve remaining faction invitations, then proceed to **The Field of Triumph** Event when all factions have had their opportunity.
 >
-> If **Order of the Gauntlet Joined** is False: Savra's standing offer remains open. She returns after **Fireball!** (if the party was present near the Cassalanter dinner thread) or after **Gralhund Villa** (if Cassalanter agents featured in the debrief). Her second approach carries more specific information about the unnamed family.
+> If **Order of the Gauntlet Joined** is False: Savra's standing offer remains open. The party can seek her out at the Halls of Justice at any point. She won't push the approach again unprompted.
 
 ## Overview
 
@@ -113,4 +113,4 @@ Savra Belabranta arrived at Trollskull Manor without warning and laid out the Or
 
 ## Summary
 
-Savra Belabranta arrived at Trollskull Manor without advance notice and pitched the Order of the Gauntlet's work: active investigation into a beholder empire beneath the city, and an unnamed Sea Ward noble family the Order has watched for months. She named what the work costs and didn't frame it as anything other than what it was. Characters who asked sincerely about her past learned she spent three years in the Howling Hatred cult; she gave the name and nothing else. Those who accepted were taken to the Halls of Justice, where a silver gauntlet passed among them and a priest of Tyr witnessed the oath. Savra closed: *"The work does not wait."*
+Savra Belabranta arrived at Trollskull Manor without advance notice and pitched the Order of the Gauntlet's work: active investigation into a beholder empire beneath the city, and an unnamed Sea Ward noble family the Order has watched for months. She named what the work costs and didn't frame it as anything other than what it was. Characters who asked sincerely about her past learned she had been in the Howling Hatred cult; she gave the name and nothing else. Those who accepted were taken to the Halls of Justice, where a silver gauntlet passed among them and a priest of Tyr witnessed the oath. Savra closed: *"The work does not wait."*

@@ -46,7 +46,7 @@ Either path leads to the same place.
 
 ### What She Did
 
-She was close to the inner circle. Close to taking the Windcaller's oath — the rank below fully ordained. She'd been with the cult four years, long enough to know what the high priest was and to have decided it didn't matter yet.
+She was close to the inner circle. Close to taking the Windcaller's oath — the rank below fully ordained. She'd been with them long enough to know what the high priest was and to have decided it didn't matter yet.
 
 Three years ago, during a storm that rolled in from the harbor and rattled every shutter on the Dock Ward, the high priest called a rite of cleansing. He named it a test of faith. Four junior initiates — two women, two men, all of them newer than Savra — were brought to the roof of the derelict tower the cult used as its meeting house. They were bound to iron ring-bolts in the parapet and told to trust the wind.
 
@@ -62,7 +62,7 @@ She walked out of the tower that night. Two days later she was at the Halls of J
 
 She doesn't add to this. She doesn't say she feels better for having told it. She does not reach for the cup.
 
-> [!profile]+**Savra During This Scene**
+> [!profile]**Savra During This Scene**
 >
 > Savra tells this the way she tells everything: plainly, without ornamentation. There is no self-pity in it and no performance of guilt. She held the circle and two people died and she has been carrying that specific fact for three years. She is not asking the party to carry it with her. She is making sure they know who she is before she takes them into a cult temple.
 >

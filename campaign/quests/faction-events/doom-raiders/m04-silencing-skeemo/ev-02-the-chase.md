@@ -72,13 +72,7 @@ She adds it to a file the party has not seen.
 
 ### Davil's Return
 
-Davil is released from Watch custody within the week — the Lords satisfied that his cell was not responsible for the Gralhund violence. He comes back to the Yawning Portal. He orders a drink. He sits with it for a few minutes before saying anything.
-
-He was fond of Skeemo. He does not say this.
-
-> > "You should know — whatever Skeemo knew about your operation is already in Kolat Towers. I'd keep that in mind for what comes next."
-
-He buys the party a drink. He does not say what it is for.
+Davil's release fires at the end of this mission. The full scene — his return to the Yawning Portal, what he says about Skeemo and Kolat Towers, and what he acknowledges if the party worked for his release — is in the **Davil's Return** Event (s02).
 
 ### Concluding the Event
 
