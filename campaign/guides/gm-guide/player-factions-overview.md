@@ -200,4 +200,4 @@ The seven factions above are the organizations available for player characters t
 - **Factions** guide pages: renown, ranks, missions, and First Meeting scenes
 - **Notable Figures**: all faction contacts and key NPCs
 - **Running the Villains** (GM Guide): adversary faction details
-- **Faction Missions** (Quest Journals): full mission write-ups for all seven factions
+- **Faction Events** (Quest Journals): full mission write-ups for all seven factions

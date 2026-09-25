@@ -68,12 +68,14 @@ Full scene: [**Force Grey First Meeting**](../../quests/faction-events/force-gre
 | 6th | **The Legate's Eyes** | Three Watch magistrates have reversed rulings benefiting Guild interests. Track and extract Orvyn Dall, a Watch appeals clerk running a self-sustaining Nihiloor intellect devourer legacy operation, without triggering a Watch investigation. | +4 |
 | 7th | **Smoke in the Tower** | A Manshoon Splinter mole named Vira Solkan has embedded herself in Blackstaff Tower to install a resonance disruptor that would open a four-hour window for a Kolat Towers strike team to assassinate Vajra. Find her and stop the attack. | +4 |
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Force Grey** organization page
-- Force Grey **Faction Missions** quest journals
+- [Force Grey Faction Events](../../quests/faction-events/force-grey/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - Notable Figures: **Vajra Safahr**
+- First Meeting: [Force Grey First Meeting](../../quests/faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [The Full Picture](../../quests/faction-events/force-grey/s01-the-full-picture/ev-01-the-full-picture.md)
 - Rank events: [Junior Griffon](../../quests/faction-events/force-grey/r03-junior-griffon/ev-01-junior-griffon.md), [Senior Griffon](../../quests/faction-events/force-grey/r10-senior-griffon/ev-01-senior-griffon.md), [Force Grey](../../quests/faction-events/force-grey/r25-force-grey/ev-01-force-grey.md), [Force Grey Commander](../../quests/faction-events/force-grey/r50-force-grey-commander/ev-01-force-grey-commander.md)

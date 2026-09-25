@@ -97,7 +97,7 @@ If the party asks questions, Vajra answers directly and without elaboration. She
 ### Concluding the Event
 
 #### Force Grey Joined: True / False
-Set True when at least one party member accepts Gray Hand status from Vajra Safahr. Read in Force Grey Faction Missions (mission unlock gate), and in the **The Full Picture** event (`faction-events/force-grey/s01-the-full-picture`).
+Set True when at least one party member accepts Gray Hand status from Vajra Safahr. Read in Force Grey Faction Events (mission unlock gate), and in the **The Full Picture** event (`faction-events/force-grey/s01-the-full-picture`).
 
 #### Force Grey Offer Closed: True / False
 Set True when the party declines Vajra's *Sending* twice without accepting in between. The offer reopens when the party advances a level. Read as an entry condition for this event on re-fire: if True and the party has not advanced a level since the flag was set, the event does not fire again.

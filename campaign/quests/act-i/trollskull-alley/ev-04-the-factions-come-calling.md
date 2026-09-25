@@ -9,12 +9,12 @@
 > - Seven factions send invitations to eligible party members — per-character, not per-party
 > - BD surveillance escalates to the J.B. Nevercott doorstep visit; the Watch-report branch severs contact
 > - Faction renovation financing becomes available once contact is established
-> - Level 2 missions unlock once enrollment is confirmed; full write-ups in the **Faction Missions** quest journals
+> - Level 2 missions unlock once enrollment is confirmed; full write-ups in the **Faction Events** quest journals
 > - Filthy Meg is named as a Dock Ward source by Harpers or Doom Raiders
 >
 > **Milestone: 1 Milestone Point** — factions enrolled; renovation financing secured.
 >
-> Cross-ref the **Factions** guide pages (all First Meeting scenes, BD Remix Option), the **Faction Missions** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
+> Cross-ref the **Factions** guide pages (all First Meeting scenes, BD Remix Option), the **Faction Events** quest journals (Level 2 missions), the **Trollskull Manor** guide (Faction Renovation Assistance).
 
 ### Invitations Arrive
 
@@ -64,7 +64,7 @@ The party's financing choices are their first real faction commitments.
 
 ### Level 2 Missions
 
-Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in the **Faction Missions** quest journals:
+Once enrolled, characters receive their first faction assignments. Quick reference; full write-ups in the **Faction Events** quest journals:
 
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
@@ -95,7 +95,7 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 ### Concluding the Event
 
 #### Harpers Joined: True / False
-At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Missions** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
+At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Events** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
 #### Lords Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.

@@ -72,12 +72,14 @@ Full scene — including all six Yagra greeting variants and Davil's read-aloud 
 
 **Two days after Gralhund Villa, the City Watch arrests Davil and holds him at Castle Waterdeep pending questioning about the Zhentarim's role in the street violence.** Contact passes to Tashlyn Yafeera during his detention; see the [**Davil's Arrest**](../../quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md) Event. Davil is released at the end of Mission 4, once the Lords conclude his cell isn't responsible for the recent killings; see the [**Davil's Return**](../../quests/faction-events/doom-raiders/s02-davils-return/ev-01-davils-return.md) Event.
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Doom Raiders** organization page
-- Doom Raiders **Faction Missions** quest journals
+- [Doom Raiders Faction Events](../../quests/faction-events/doom-raiders/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - Notable Figures: **Davil Starsong**, **Yagra Stonefist**, **Tashlyn Yafeera**, **Ziraj the Hunter**, **Istrid Horn**, **Skeemo Weirdbottle**
+- First Meeting: [Doom Raiders First Meeting](../../quests/faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [Davil's Arrest](../../quests/faction-events/doom-raiders/s01-davils-arrest/ev-01-davils-arrest.md) · [Davil's Return](../../quests/faction-events/doom-raiders/s02-davils-return/ev-01-davils-return.md)
 - Rank events: [Made Wolf](../../quests/faction-events/doom-raiders/r03-wolf/ev-01-wolf.md) · [Made Viper](../../quests/faction-events/doom-raiders/r10-viper/ev-01-viper.md) · [Made Ardragon](../../quests/faction-events/doom-raiders/r25-ardragon/ev-01-ardragon.md) · [Dread Lord](../../quests/faction-events/doom-raiders/r50-dread-lord/ev-01-dread-lord.md)

@@ -14,7 +14,7 @@ Renown is tracked as a separate numerical score for each faction a character bel
 
 ## Running Faction Missions
 
-Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Missions** quest journals; they award no Milestone Points.
+Each faction operates as an ongoing relationship. Contacts push for information, react to the party's choices in the Grand Game, and bring their own agendas to bear as events escalate. Faction missions are structured as mini-arcs: each has an investigation phase, a complication, and at least two resolution paths. No single skill check determines success. Full write-ups are in the **Faction Events** quest journals; each faction's folder holds a First Meeting event, missions (m01–m06), standalone events (s0N) that fire on specific triggers, and rank-up events (r03, r10, r25, r50). They award no Milestone Points.
 
 **A note on the Zhentarim.** Two Zhentarim cells operate in Waterdeep. Davil Starsong's **Doom Raiders** are the player-joinable faction covered in the **Organizations** pages. Manshoon's faction is the villain cell, which the faction-mission journals call **the Splinter**. They are hostile to the Doom Raiders and to the party.
 
@@ -52,5 +52,5 @@ Each faction operates as an ongoing relationship. Contacts push for information,
 - [GM Guide: Running the Villains](../gm-guide/running-the-villains.md) — escalation tiers, starting knowledge, inter-faction operations
 - [GM Guide: The Grand Game in Play](../gm-guide/grand-game-in-play.md) — weekly faction check, faction state tracking, escalation pace
 - **Organizations** (Setting): [`../../setting/organizations/`](../../setting/organizations/) — faction history, structure, and lore
-- **Faction Missions** (Quest Journals): [`../../quests/faction-missions/`](../../quests/faction-missions/) — full mission write-ups for all seven factions
+- **Faction Events** (Quest Journals): [`../../quests/faction-events/`](../../quests/faction-events/) — First Meeting, missions, standalone events, and rank-up events for all seven factions
 - [Players' Guide: Faction Affiliations](../players-guide/faction-affiliations.md) — player-facing subset

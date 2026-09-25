@@ -70,12 +70,14 @@ The Order's missions are concentrated in the Field Ward, where Savra has built a
 | 6th | **The Shrine on Aveen Street** | Raid a hidden Asmodeus shrine in the Field Ward — a Cassalanter ritual preparation site — and recover Lord Victoro's operational ledger as physical evidence of diabolism for the Order's formal petition to the Lords. | +4 |
 | 7th | **The Writ and the Weight** | A Horned Devil arrives at the Halls of Justice to recover the incriminating ledger and kill everyone who touched it — Lord Victoro's infernal contract triggered a contractual enforcement rider. Defend against the infernal assault. | +4 |
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Order of the Gauntlet** organization page
-- Order of the Gauntlet **Faction Missions** quest journals
+- [Order of the Gauntlet Faction Events](../../quests/faction-events/order-of-the-gauntlet/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - Notable Figures: **Savra Belabranta**, **Sister Valdra**
+- First Meeting: [Order of the Gauntlet First Meeting](../../quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [The Tithe](../../quests/faction-events/order-of-the-gauntlet/s01-the-tithe/ev-01-the-tithe.md) · [Savra's Past](../../quests/faction-events/order-of-the-gauntlet/s02-savras-past/ev-01-savras-past.md)
 - Rank events: [Marcheon](../../quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md), [Whitehawk](../../quests/faction-events/order-of-the-gauntlet/r10-whitehawk/ev-01-whitehawk.md), [Vindicator](../../quests/faction-events/order-of-the-gauntlet/r25-vindicator/ev-01-vindicator.md), [Righteous Hand](../../quests/faction-events/order-of-the-gauntlet/r50-righteous-hand/ev-01-righteous-hand.md)

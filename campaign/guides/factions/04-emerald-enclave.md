@@ -67,12 +67,14 @@ Full scene text, the **Jeryth's Manner** sidebar, read-aloud, and the **Emerald 
 | 6th | **The Fouled Channel** | Investigate dying plants at Phaulkonmere traced to Manshoon Splinter contamination of the Castle Ward cisterns — alchemical waste from intellect devourer experiments spreading through the Trades Ward water supply. | +4 |
 | 7th | **The Dreamer's Reach** | Jeryth Phaulkon has fallen silent, locked in psychic combat with Illuun's reach through the underground water table. Descend into the Castle Ward cisterns to destroy Illuun's surface anchor point and free her. | +4 |
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Emerald Enclave** organization page
-- Emerald Enclave **Faction Missions** quest journals
+- [Emerald Enclave Faction Events](../../quests/faction-events/emerald-enclave/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - Notable Figures for the contacts
+- First Meeting: [Emerald Enclave First Meeting](../../quests/faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [A Seat at Phaulkonmere](../../quests/faction-events/emerald-enclave/s01-a-seat-at-phaulkonmere/ev-01-a-seat-at-phaulkonmere.md) · [The Water Table Stirs](../../quests/faction-events/emerald-enclave/s02-the-water-table-stirs/ev-01-the-water-table-stirs.md)
 - Rank events: [Summerstrider (r03)](../../quests/faction-events/emerald-enclave/r03-summerstrider/ev-01-summerstrider.md) · [Autumnreaver (r10)](../../quests/faction-events/emerald-enclave/r10-autumnreaver/ev-01-autumnreaver.md) · [Winterstalker (r25)](../../quests/faction-events/emerald-enclave/r25-winterstalker/ev-01-winterstalker.md) · [Master of the Wild (r50)](../../quests/faction-events/emerald-enclave/r50-master-of-the-wild/ev-01-master-of-the-wild.md)

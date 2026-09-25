@@ -70,7 +70,7 @@ Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to the w
 | 6th | **The Theater's Back Room** | Facilitate a covert handoff at Seven Masks Theater — a frightened Cassalanter steward has a floor plan of the windmill the family maintains under a false name for private gatherings they keep entirely off their social calendar — while a Cassalanter watcher attempts to intercept the exchange. | +4 |
 | 7th | **The Dive** | Xanathar Guild divers have located the Scarlet Marpenoth submarine moored under the Eyecatcher and are staging to place a limpet charge on the hull. Dive into Deepwater Harbor to stop the dive team and remove the charge before dawn detonation. | +4 |
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Response Teams
 
@@ -146,8 +146,10 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 ## Cross-References
 
 - **Bregan D'aerthe** organization page: who they are, their personnel, and their Grand Game agenda
-- Bregan D'aerthe **Faction Missions** quest journals: full write-ups for all six missions
+- [Bregan D'aerthe Faction Events](../../quests/faction-events/bregan-daerthe/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
 - **Running the Villains** in the GM Guide
 - Notable Figures: **Jarlaxle Baenre**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Soluun Xibrindas**, **Zelifarn**, **Fenerus Stormcastle**, **Malcolm Brizzenbright**
+- First Meeting: [Bregan D'aerthe First Meeting](../../quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [Coin Pouches](../../quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md) · [Kreb Drops the Cover](../../quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md) · [Dinner with Zardoz](../../quests/faction-events/bregan-daerthe/s03-dinner-with-zardoz/ev-01-dinner-with-zardoz.md) · [Contact Severed](../../quests/faction-events/bregan-daerthe/s04-contact-severed/ev-01-contact-severed.md)
 - Rank events: [Soldier](../../quests/faction-events/bregan-daerthe/r03-soldier/ev-01-soldier.md) · [Officer](../../quests/faction-events/bregan-daerthe/r10-officer/ev-01-officer.md) · [Commander](../../quests/faction-events/bregan-daerthe/r25-commander/ev-01-commander.md) · [Houseless Noble](../../quests/faction-events/bregan-daerthe/r50-houseless-noble/ev-01-houseless-noble.md)

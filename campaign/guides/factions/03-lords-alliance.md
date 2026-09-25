@@ -70,12 +70,14 @@ Alliance operatives earn Renown through acts that advance Waterdeep's institutio
 | 7th | **An Audience with the Open Lord** | Attend a formal audience with Laeral Silverhand at Piergeiron's Palace; she seeks intelligence on the Stone, the factions' plans, and advice on a dangerous offer from Manshoon's Splinter. Success earns the party a Masked Lord's Writ for the vault operation. | +4 |
 
 
-Full mission write-ups are in the **Faction Missions** quest journals.
+Full mission write-ups are in the **Faction Events** quest journals.
 
 ## Cross-References
 
 - **Lords' Alliance** organization page
-- Lords' Alliance **Faction Missions** quest journals
+- [Lords' Alliance Faction Events](../../quests/faction-events/lords-alliance/) — six missions, first meeting, standalone events, rank-up events
 - The **Factions** guide overview
 - Notable Figures for the contacts (**Jalester Silvermane**, **Laeral Silverhand**)
+- First Meeting: [Lords' Alliance First Meeting](../../quests/faction-events/lords-alliance/00-first-meeting/ev-01-first-meeting.md)
+- Standalone events: [Suspension and Dismissal](../../quests/faction-events/lords-alliance/s01-suspension-and-dismissal/ev-01-suspension-and-dismissal.md) · [Escalation to the Open Lord](../../quests/faction-events/lords-alliance/s02-escalation-to-the-open-lord/ev-01-escalation-to-the-open-lord.md)
 - Rank events: [**Redknife**](../../quests/faction-events/lords-alliance/r03-redknife/ev-01-redknife.md), [**Stingblade**](../../quests/faction-events/lords-alliance/r10-stingblade/ev-01-stingblade.md), [**Warduke**](../../quests/faction-events/lords-alliance/r25-warduke/ev-01-warduke.md), [**Lioncrown**](../../quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md)
