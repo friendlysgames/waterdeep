@@ -363,6 +363,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 4.6) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. Drafting goes to `prose-drafter`, which is pinned to Sonnet 4.6. Never draft with a `general-purpose` agent on the `sonnet` alias, because that alias resolves to the newest Sonnet, not 4.6. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
 
+**Agent concurrency cap:** Never run more than 5 agents at once. Queue further work and launch it as running agents finish.
+
 **Wait to be asked:** Never begin researching or writing the next section (faction, quest, guide) without an explicit user request. Complete the current task, then stop.
 
 ---
