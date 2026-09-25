@@ -18,13 +18,13 @@
 > - At the end, she asks the party one question. Their answer tells her what she needs to know.
 > - The **Savra's Past Known** and **Cult Funding Linked** flags set here are read in **Cassalanter Villa** and **Vault of Dragons**.
 
-> > [!lore]+**The Howling Hatred**
-> >
-> > The Howling Hatred was an elemental air cult operating in and around Waterdeep until roughly three years before the campaign. Its high priest preached that the dead weight of the world — its walls, its contracts, its piled gold — was what prevented true communion with Yan-C-Bin, the Prince of Evil Air. Members progressed through named ranks: Initiate, Windwalker, Windcaller, and finally Feather of Yan-C-Bin, the ordained inner circle.
-> >
-> > The cult operated out of a derelict Dock Ward tower for its final two years. Its funding never came from member donations; it arrived through intermediaries, in amounts too consistent and too clean to be casual generosity. The cult collapsed suddenly — a chain of arrests in a single tenday, the high priest disappearing before the Watch closed in. No official explanation for the funding source was ever entered into the Watch record.
-> >
-> > The Howling Hatred is not active in Waterdeep during the campaign. Its surviving members scattered or recanted.
+> [!lore]**The Howling Hatred**
+>
+> The Howling Hatred was an elemental air cult operating in and around Waterdeep until roughly three years before the campaign. Its high priest preached that the dead weight of the world — its walls, its contracts, its piled gold — was what prevented true communion with Yan-C-Bin, the Prince of Evil Air. Members progressed through named ranks: Initiate, Windwalker, Windcaller, and finally Feather of Yan-C-Bin, the ordained inner circle.
+>
+> The cult operated out of a derelict Dock Ward tower for its final years. Its funding never came from member donations; it arrived through intermediaries, in amounts too consistent and too clean to be casual generosity. The cult collapsed suddenly — a chain of arrests in a single tenday, the high priest disappearing before the Watch closed in. No official explanation for the funding source was ever entered into the Watch record.
+>
+> The Howling Hatred is not active in Waterdeep during the campaign. Its surviving members scattered or recanted.
 
 ### How the Conversation Starts
 

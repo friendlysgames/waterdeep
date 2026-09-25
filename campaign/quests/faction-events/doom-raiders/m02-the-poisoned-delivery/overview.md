@@ -16,7 +16,7 @@
 > **Skeemo Weirdbottle** is a traitor. The party does not know this yet, and neither does Davil. What happens here — how the party handles the coffer, whether they inspect it, what they tell Davil — will color every scene in Mission 4 when the truth comes out. Play Skeemo as courteous, professional, and without warmth. He is observing the party the entire time they are in his shop.
 
 ## Involved Characters
-- **Davil Starsong** (Doom Raiders) — delivers the mission by flying snake rather than in person; does not know the coffer's contents; is arrested two days after this mission concludes
+- **Davil Starsong** (Doom Raiders) — delivers the mission by flying snake rather than in person; does not know the coffer's contents
 - **Skeemo Weirdbottle** (Doom Raiders / Manshoon Splinter double agent) — presents the coffer with businesslike precision; answers no questions about the contents; is testing the party on Manshoon's behalf
 - **Esvele Rosznar** (independent) — the Black Viper, a Tethyrian noblewoman and skilled thief; meets the party near the God Catcher in a hire-coach; has no idea what is actually in the coffer
 - **Gaxly Rudderbust** (independent) — not in this mission directly; named in **Background (DM only)** as a future Cassalanter thread. If the party has already run OG-M2 or BD-M2, they have already encountered Gaxly and his editorial operation
@@ -34,4 +34,3 @@ The package was not what it claimed to be. Skeemo had placed four potions of poi
 
 This was also a test. Skeemo observed whether the party inspected the coffer, whether they asked questions, whether they delivered without hesitation. The result fed directly into his intelligence report to Manshoon. A party that delivered blindly was controllable. A party that noticed something and said nothing was worth watching. A party that refused was a problem.
 
-Two days after the delivery, the City Watch arrested Davil in the post-Gralhund crackdown on all known Zhentarim figures. The first word arrived by flying snake from someone who was not Davil.

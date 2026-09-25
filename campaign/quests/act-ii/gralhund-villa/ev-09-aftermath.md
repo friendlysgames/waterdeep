@@ -56,15 +56,9 @@ Party members with visible Zhentarim associations should keep a low profile for 
 
 ### Davil Arrested, Tashlyn Takes Over
 
-Two days after the villa: Davil Starsong is taken in for questioning at Castle Waterdeep. The Watch's sweep has caught him on association, not evidence; "pending questioning by the Lords" is indefinite. He suspects Floxin filed an anonymous Watch tip naming the Doom Raiders as persons of interest, a damage-control move meant to draw heat away from Manshoon's cell.
+Two days after the villa, the Watch's Zhentarim sweep catches Davil Starsong on association — held at Castle Waterdeep pending Lords' questioning, not evidence. He suspects Floxin filed an anonymous tip to draw heat away from Manshoon's cell; **Tashlyn Yafeera**, Master of Arms and Mercenaries, takes over contact duties.
 
-A black flying snake arrives at wherever the party is staying. It carries a note from **Tashlyn Yafeera**, Doom Raiders Master of Stealth and Deception and now the party's de facto contact:
-
-*"Davil is unavailable. Continue normal operations. Await further contact."*
-
-Four words of cover. Zero words of comfort.
-
-Tashlyn's first direct contact comes within forty-eight hours: *"Keep a low profile. I'll be in touch."* She does not explain what that means. She will be in touch when she has decided how much to trust a party that walked into a noble's estate and started a war.
+For Doom Raiders members, see the **Davil's Arrest** Event (s01) for the full scene: Tashlyn's introduction, "Keep a low profile," and the option to work for Davil's release.
 
 ### Istrid Horn's Approach
 

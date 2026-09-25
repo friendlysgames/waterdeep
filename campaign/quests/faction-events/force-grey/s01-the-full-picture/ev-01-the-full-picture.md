@@ -34,7 +34,7 @@ The event fires only when the party can demonstrate all four of the following:
 
 **The Stone of Golorr.** The party demonstrates understanding of the Stone's function: it contains the vault's location and access conditions, requires three Eyes to fully unlock, and is either in their possession or known to be at large. They must be able to describe how they confirmed this.
 
-**The Vault.** The party knows the vault holds approximately 500,000 dragons — Neverember's concealed embezzlement from the city treasury — and that its location is somewhere beneath Waterdeep, accessible only through the Stone.
+**The Vault.** The party knows the vault holds approximately 500,000 dragons (Neverember's concealed embezzlement from the city treasury) and that its location is somewhere beneath Waterdeep, accessible only through the Stone.
 
 **A Live Deadline.** The party identifies at least one active time constraint: Founders' Day, the Tarsakh 20 departure, or any equivalent pressure point confirmed through their operations.
 
@@ -112,17 +112,17 @@ The party delivered a complete Grand Game picture — all four factions identifi
 >
 > If the party has questions before leaving, Vajra answers three:
 >
-> She will attend the vault opening if they want her there. She has dispatched a quiet inquiry to the Lords' Alliance regarding treasury records for the relevant period of Neverember's tenure. She is not asking the party to pause their own operations — she is asking them to be quiet about Laeral's involvement until Laeral has moved.
+> She will attend the vault opening if they want her there. She has dispatched a quiet inquiry to the Lords' Alliance regarding treasury records for the relevant period of Neverember's tenure. She wants the party's operations to continue; she wants only their discretion about Laeral's involvement until Laeral has moved.
 >
 > She does not tell them what Laeral's response will be, because she does not know how quickly Laeral will be able to act. She will not say this.
 >
-> If the party has not yet completed all four lair heists, they proceed normally. The **Vajra Briefed** flag determines Laeral's arrival state in **Vault of Dragons** — prepared and resourced (flag True) versus late and improvising (flag False) — not whether Laeral appears at all.
+> If the party has not yet completed all four lair heists, they proceed normally. The **Vajra Briefed** flag determines Laeral's arrival state in **Vault of Dragons**: prepared and resourced (flag True) or late and improvising (flag False). It does not determine whether Laeral appears at all.
 >
 > **Harper Mission 2 — The Dead Drop** or any other pending faction business proceeds without interruption. This event does not alter the party's operational tempo.
 
 ## Overview
 
-The party delivers a complete account of the Grand Game to Vajra Safahr at Blackstaff Tower: all four competing factions, the Stone of Golorr, the vault's contents, the deadline. Vajra listens, confirms what she already knew, and corrects one assumption. When the briefing ends, she goes still for a long moment — then reaches for a pen and begins writing to Laeral Silverhand.
+The party delivers a complete account of the Grand Game to Vajra Safahr at Blackstaff Tower: all four competing factions, the Stone of Golorr, the vault's contents, the deadline. Vajra listens, confirms what she already knew, and corrects one assumption. When the briefing ends, she goes still for a long moment, then reaches for a pen and begins writing to Laeral Silverhand.
 
 ## Read Aloud
 

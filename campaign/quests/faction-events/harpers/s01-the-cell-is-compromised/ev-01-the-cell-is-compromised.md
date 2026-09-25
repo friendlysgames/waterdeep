@@ -72,25 +72,21 @@ He folds the parchment and pockets it. The bottle stays where it is.
 > > "Find what you can. Keep it until we meet. I'll be in touch."
 
 > [!info]**Operating Under Compromise**
-> Until **The Sleeping Asset** resolves the double agent and the `Harper Leak Known: True` flag is set, treat all Harper cell contacts other than Mirt as potentially compromised. If the party passes sensitive intelligence through a Harper safe house, a cell contact, or a dead drop, that intelligence has a one-in-four chance of reaching Kolat Towers within forty-eight hours. Roll a d4 behind the screen when the party shares information through any non-Mirt Harper channel; on a 1, Manshoon's people receive it within two days. Track what was shared — it becomes foreknowledge in **Kolat Towers**.
+> From this Event until **The Sleeping Asset** exposes the double agent, treat all Harper cell contacts other than Mirt as potentially compromised. If the party passes sensitive intelligence through a Harper safe house, a cell contact, or a dead drop, that intelligence has a one-in-four chance of reaching Kolat Towers within forty-eight hours. Roll a d4 behind the screen when the party shares information through any non-Mirt Harper channel; on a 1, Manshoon's people receive it within two days. Track what was shared — it becomes foreknowledge in **Kolat Towers**.
 >
 > If the party respected the new protocol throughout, note it when **The Sleeping Asset** opens: Mirt tells them the trap worked because certain channels went quiet. If they passed sensitive material anyway, that detail can surface in Corene Wyldath's post-mission debrief as intelligence Nihiloor already held — the party's security lapse on record, without a penalty beyond the natural consequence.
 
 ### Concluding the Event
 
-#### Harper Leak Known: True
+#### Harper Leak Known: True / False
 
-The party has been briefed that the Waterdeep Harper cell is compromised. Mirt believes a Manshoon double agent is embedded in the cell but does not yet have a name. This flag is read in **The Sleeping Asset** at the point when Mirt's trap closes on the source and the party is brought in to run the final investigation.
+The party has been briefed that the Waterdeep Harper cell is compromised. Mirt believes a Manshoon double agent is embedded in the cell but does not yet have a name. False if the event has not fired. This flag is read in **The Sleeping Asset** at the point when Mirt's trap closes on the source and the party is brought in to run the final investigation.
 
 > **[GM]**
 >
 > #### Next Steps
 >
 > **The Sleeping Asset** becomes available when the party reaches Renown 10 and 6th level, after **A Friend's House** is complete. The briefing in that mission — Mirt arriving before dawn, through the back door, with the same controlled urgency — connects directly to this scene. The double agent's exposure is the answer to the question Mirt does not name tonight.
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
 
 ## Overview
 

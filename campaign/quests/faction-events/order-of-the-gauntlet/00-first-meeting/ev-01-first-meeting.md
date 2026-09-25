@@ -35,7 +35,7 @@ She doesn't push through the doorway. She waits for an invitation.
 
 Inside, she sits when offered and gets to it without warmup. The Order hunts active evil — not its echoes, not its history. Two targets in Waterdeep concern her right now.
 
-The first: a beholder empire running operations beneath the city's streets. Its upper agents use intellect devourers. Its command structure centers on a mind flayer named Nihiloor. The Guild above it has grown large enough that no city authority wants to acknowledge the depth of the problem.
+The first: a beholder empire running operations beneath the city's streets. The Guild above it has grown large enough that no city authority wants to acknowledge the depth of the problem.
 
 The second is harder to name cleanly. A Sea Ward noble family whose public piety never wavers, whose Watch complaints disappear before findings are produced, whose charitable donations can't be traced to any identifiable cause. She doesn't give the name yet. *"I haven't finished building the case. When I have enough to bring to the Lords, you'll hear the name."*
 
@@ -43,7 +43,7 @@ She states what the work costs. Some of it will happen in places the city would 
 
 #### Answering Questions
 
-Characters who ask why she's approaching them specifically: *"Renaer speaks well of you. That's enough to start."*
+Characters who ask why she's approaching them specifically: *"I look for people who hold a line when it costs them something. You've been in Waterdeep long enough to have shown me what I needed to see."*
 
 Characters who ask about the unnamed family get what she's willing to say: *"A Sea Ward family. Leave it there for now."* A **DC 14 Charisma (Persuasion)** check draws out: *"Their charity doesn't trace to any principle I've been able to verify. Their Watch inquiries get closed before completion. That pattern doesn't happen by accident."* On a failure, she holds: *"When I'm ready to name them, I will."*
 
@@ -55,11 +55,11 @@ Characters who push back on the targets get the same answer framed a different w
 
 Any character who asks why Savra joined the Order — and takes the time to ask as if they actually want to know — gets a direct answer.
 
-*"I was in a cult. The Howling Hatred. Three years."* She doesn't qualify it, doesn't explain what led her there. *"I left. The Order took me in after. That's the shape of it."*
+*"I was in a cult. The Howling Hatred."* She doesn't qualify it, doesn't explain what led her there. *"I left. The Order took me in after. That's the shape of it."*
 
 She doesn't say what she did inside the cult. She's watching what the party does with what she's just told them. Characters who treat it as context about a person and move on earn a single measured nod — her tell for when someone has said or done something true. Characters who treat it as leverage have her attention in a different way. She won't name what she noticed.
 
-Pressing her on what she did in the cult ends the conversation. She thanks them for their time, collects herself without visible emotion, and leaves. She returns the following morning and gives the party one more chance. If they press again on the same question, she doesn't come back.
+Pressing her on what she did in the cult ends the conversation. She thanks them for their time, collects herself without visible emotion, and leaves. The offer stands; she'll work with the party if they come to her later.
 
 > [!profile]**Savra Belabranta**
 >
