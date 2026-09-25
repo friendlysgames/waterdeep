@@ -189,7 +189,7 @@ Rules:
 - **Opener.** Ground the scene first. A participial arrival clause is fine (*"Gathered around a natural watering hole, you spot a sprawling caravan …"*). Stock "You see" / "You find yourself" openings are not.
 - **Wide shot, then the person.** Paragraph one gives the place and the crowd. Paragraph two narrows to the one NPC who matters, already doing something.
 - **Smell is Ember's second sense.** Visual first, then smell or sound. Touch and taste only when they carry danger.
-- **Dialogue belongs inside read-aloud.** NPCs speak within the block, as nested `> >` quotations, interleaved with narration beats. Read-aloud is often a mini-script.
+- **Dialogue belongs inside read-aloud.** NPCs speak within the `> [!narrative]` block, as nested `> >` quotations, interleaved with narration beats. Read-aloud is often a mini-script.
 - **Close on a hand-off.** End on an NPC gesture or question aimed at the characters: *"Once he spots your approach, his eyes twinkle with delight, and he gestures you over."* / *"So, what do you think?"*
 - **Plant one unexplained detail.** Mention the anomaly without comment: *"no placard or sign reveals this curious mausoleum's name or ownership."* The GM text explains it; the read-aloud does not.
 - **Short mid-scene reads** break a long conversation: a single line of dialogue or a two-sentence beat, introduced by a GM lead-in (*"Before the party leaves, Krafton closes the conversation with the following offer:"*).

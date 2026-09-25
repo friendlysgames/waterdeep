@@ -38,6 +38,17 @@ Player-facing box, boxed and italicized in both renderers:
 </div>
 ```
 
+**Markdown shorthand** (use this in campaign `.md`; the converter and viewer emit the div above):
+
+```
+> [!narrative]
+> Text the GM reads aloud to players.
+>
+> > "NPC dialogue sits inside the box as a nested line."
+```
+
+The header takes no title. Every read-aloud box in an event, keyed room or `## Read Aloud` section uses this, never a plain `>` blockquote.
+
 ### Notable aside (GM callout, no icon)
 
 ```html

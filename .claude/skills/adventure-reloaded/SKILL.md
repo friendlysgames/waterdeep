@@ -165,7 +165,8 @@ Regular markdown — not inside a GM blockquote unless it's a specific GM-only n
 
 ## Read Aloud
 
-> [GM reads this aloud when the event begins. NPC dialogue in nested > > blockquotes.]
+> [!narrative]
+> [GM reads this aloud when the event begins. NPC dialogue sits inside the box as nested `> >` lines.]
 
 ## Summary
 
@@ -175,7 +176,10 @@ Regular markdown — not inside a GM blockquote unless it's a specific GM-only n
 **GM zone heading hierarchy:**
 - `###` H3 = major narrative phase or branching condition (`### Drake Assault`, `### If the PCs Arrive at Night`)
 - `####` H4 = named mechanical beat, NPC behavior, or attunement within a phase (`#### Drake Tactics`, `#### Ragen Attunement: Early Arrival`)
-- `> >` nested blockquote = NPC dialogue inside narration or Read Aloud
+- `> [!narrative]` = read-aloud box (every boxed text the GM reads to players, in the body and in `## Read Aloud`)
+- `> [!npc-narrative]**Name**` = the players' first sight of an NPC (first meeting in the campaign, or a major change in appearance); placed where they first meet
+- `> [!dialogue]**Question**` = one question the players can ask and the NPC's answer; use a run of these for any "if asked" / topic list
+- `> >` nested blockquote = NPC dialogue, inside a `[!narrative]` box or in GM prose
 - `> **[GM]** >` blockquote = selective GM-only callout (Summary at top, tactical notes mid-body, Next Steps + Milestone at end)
 
 ### 3. Area Overview (`area-overview.md`)
@@ -531,7 +535,7 @@ Events describe what is happening when the PCs arrive — NPCs are mid-action. T
 
 Every event file is written from scratch. No citations or references to original source books.
 
-For Read Aloud text (`## Read Aloud`), use a blockquote. NPC dialogue within Read Aloud uses nested `> >` blockquotes.
+Read-aloud text is always a `> [!narrative]` box, never a plain blockquote, both in scene bodies and in `## Read Aloud`. NPC dialogue inside a narrative box is written as nested `> >` lines within the box (ember-adventure-style §read-aloud). When players first meet an NPC, give that NPC a `> [!npc-narrative]**Name**` block (what they see and hear); never repeat it on later meetings. When an NPC answers player questions, write each question and answer as a `> [!dialogue]**Question**` block rather than a bulleted "if asked" list. Markup details are in `foundry-journal`.
 
 ---
 
