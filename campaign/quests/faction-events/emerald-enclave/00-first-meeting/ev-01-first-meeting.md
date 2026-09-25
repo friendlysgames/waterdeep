@@ -15,9 +15,9 @@
 
 **Background (DM only)**
 
-Jeryth Phaulkon has been an estate-bound presence for decades — a Chosen of Mielikki who can no longer leave Phaulkonmere in physical form. She is present everywhere in the gardens and nowhere a visitor can fix their eyes. The invitation by white cat is standard Enclave practice; Melannor uses a cat with a permanent *Speak with Animals* effect as his preferred long-range messenger, sent across the city's rooftops and returned the same way.
+Jeryth Phaulkon has been an estate-bound presence for decades, a Chosen of Mielikki who can no longer leave Phaulkonmere in physical form. She is present everywhere in the gardens and nowhere a visitor can fix their eyes. The invitation by white cat is standard Enclave practice; Melannor uses a cat with a permanent *Speak with Animals* effect as his preferred long-range messenger, sent across the city's rooftops and returned the same way.
 
-The offer of Phaulkonmere as neutral ground is genuine and established. No faction will openly violate it. When Jeryth states this, it carries the weight of a fact she has already tested. The *charm of restoration* settles into a new member the instant they accept — no visible action, no ceremony. The character simply knows something is different. Jeryth does not remark on it.
+The offer of Phaulkonmere as neutral ground is genuine and established. No faction will openly violate it. When Jeryth states this, it carries the weight of a fact she has already tested. The *charm of restoration* settles into a new member the instant they accept. No visible action, no ceremony. The character simply knows something is different. Jeryth does not remark on it.
 
 ### The Cat at the Window
 
@@ -25,17 +25,17 @@ The invitation arrives one morning during the renovation period. A white cat app
 
 > > "Melannor Fellbranch, Phaulkonmere. The gate will be open when you arrive. The gardens are worth seeing."
 
-The cat disappears before the party can respond. Any character who watches it go and makes a successful DC 12 Intelligence (Arcana) check recognizes the effect as *animal messenger* — a druid's preferred long-range communication.
+The cat disappears before the party can respond. Any character who watches it go and makes a successful DC 12 Intelligence (Arcana) check recognizes the effect as *animal messenger*, a druid's preferred long-range communication.
 
 ### A Walk Through Phaulkonmere
 
-Phaulkonmere's gate stands open when the characters arrive. **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him), the estate's groundskeeper, greets them with a nod and leads them in without pleasantries. He is humorless but not cold — the manner of someone who considers the work more important than the company.
+Phaulkonmere's gate stands open when the characters arrive. **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him), the estate's groundskeeper, greets them with a nod and leads them in without pleasantries. He is humorless but not cold. He considers the work more important than the company.
 
 The gardens feel older than the maintained civic greenery of the Sea Ward. Melannor walks without hesitation. He is ready to discuss the following topics:
 
 - **The Enclave's purpose.** The Enclave's concern is disruption to the natural order. Scenic preservation is beside the point. Someone is releasing monsters into the city sewers; construction is disrupting ley lines that have held stable for centuries. These are concrete problems that require solving.
 
-- **The beholder.** Melannor mentions Xanathar's Guild directly. A beholder operating below the city is an aberrant creature with no business in any ecosystem. He says this the way someone reports a blocked drain — a practical problem, presently unresolved.
+- **The beholder.** Melannor mentions Xanathar's Guild directly. A beholder operating below the city is an aberrant creature with no business in any ecosystem. His tone carries no alarm. A practical problem, presently unresolved.
 
 - **The party.** He watched their handling of the Xanathar sewer hideout during **Finding Floon**. He found it instructive. He does not elaborate on what the instruction was.
 
@@ -43,7 +43,7 @@ Any character who presses Melannor on the Enclave's position regarding the vault
 
 ### Jeryth's Voice
 
-Midway through the gardens, a woman's voice arrives — from the direction of the oldest oak, or perhaps not from any direction at all.
+Midway through the gardens, a woman's voice arrives from the direction of the oldest oak, or perhaps not from any direction at all.
 
 **Jeryth Phaulkon** (Neutral Good, disembodied presence, she/her) is the Chosen of Mielikki and the patron of this estate. She addresses the characters directly: she cannot appear in the ordinary sense, but she is present throughout the estate, and she has reason to speak to them now. She is ready to discuss the following topics:
 
@@ -60,7 +60,7 @@ Jeryth speaks rarely and precisely. When she has said what she needs to say, she
 
 ### Accepting Membership
 
-Jeryth's offer is plain: Phaulkonmere is neutral ground, available from this moment forward. Characters who accept find a *charm of restoration* settling into them with no announcement — Jeryth does not remark on it. Characters who decline are still welcome to visit; the gate stays open for anyone the party brings.
+Jeryth's offer is plain: Phaulkonmere is neutral ground, available from this moment forward. Characters who accept find a *charm of restoration* settling into them with no announcement. Jeryth does not remark on it. Characters who decline are still welcome to visit; the gate stays open for anyone the party brings.
 
 ### Concluding the Event
 
@@ -95,7 +95,7 @@ The party receives a verbal invitation delivered by a white cat and follows it t
 >
 > > "The Enclave's concern is disruption," Melannor says, walking without breaking stride. "A beholder in the city sewers. Ley lines under four wards of construction scaffolding. These are problems worth solving."
 >
-> Somewhere in the middle of the gardens, the silence shifts. A woman's voice arrives from the direction of the oldest oak — or perhaps not from any direction at all.
+> Somewhere in the middle of the gardens, the silence shifts. A woman's voice arrives from the direction of the oldest oak, or perhaps not from any direction at all.
 >
 > > "You came. Good. My name is Jeryth Phaulkon. I can't appear to you in the way you'd expect. But I am here, and this ground is safe — whatever faction has reason to move against you, none of them will do it here."
 >
@@ -103,4 +103,4 @@ The party receives a verbal invitation delivered by a white cat and follows it t
 
 ## Summary
 
-We followed a white cat's invitation to Phaulkonmere and met Melannor Fellbranch, the Emerald Enclave's groundskeeper, who walked us through gardens that smelled older than the Sea Ward. Midway through, a disembodied voice named Jeryth Phaulkon introduced herself and offered us sanctuary — Phaulkonmere as neutral ground, no faction will move against us here. Those who accepted membership found a charm of restoration settle into them without ceremony.
+We followed a white cat's invitation to Phaulkonmere and met Melannor Fellbranch, the Emerald Enclave's groundskeeper, who walked us through gardens that smelled older than the Sea Ward. Midway through, a disembodied voice named Jeryth Phaulkon introduced herself and offered Phaulkonmere as sanctuary. No faction will openly move against us here. Those who accepted membership found a charm of restoration settle into them without ceremony.

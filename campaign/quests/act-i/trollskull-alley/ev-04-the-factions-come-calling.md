@@ -30,7 +30,15 @@ Over the course of the renovation period, each faction sends invitations through
 | **Bregan D'Aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
 
-First Meeting scenes for all seven factions are in the **Factions** guide pages.
+First Meeting events for all seven factions:
+
+- Harpers: [../../faction-events/harpers/00-first-meeting/ev-01-first-meeting.md](../../faction-events/harpers/00-first-meeting/ev-01-first-meeting.md)
+- Lords' Alliance: [../../faction-events/lords-alliance/00-first-meeting/ev-01-first-meeting.md](../../faction-events/lords-alliance/00-first-meeting/ev-01-first-meeting.md)
+- Emerald Enclave: [../../faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md](../../faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md)
+- Order of the Gauntlet: [../../faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md](../../faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md)
+- Force Grey: [../../faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md](../../faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md)
+- Doom Raiders: [../../faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md](../../faction-events/doom-raiders/00-first-meeting/ev-01-first-meeting.md)
+- Bregan D'aerthe: [../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md](../../faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)
 
 ### Bregan D'Aerthe Recruitment
 

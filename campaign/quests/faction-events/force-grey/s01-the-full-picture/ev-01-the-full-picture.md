@@ -22,9 +22,9 @@ What she does not have is the full political picture: four factions simultaneous
 
 The Blackstaff moves on its own at specific moments during the briefing. Khelben Arunsun served as a Lord's Mage for decades and devoted the last years of his life to Waterdeep's defense. He is not indifferent to what he hears. Vajra does not comment on it.
 
-Writing to Laeral is the right call and Vajra knows it. She also knows Laeral sees her as an insecure young woman wielding her dead husband's staff. Handing the Open Lord a complete picture — enough for Laeral to marshal her resources and engage four organized factions simultaneously — means handing her the resolution. Vajra does it because the 500,000 dragons need to reach the treasury, and her personal position is irrelevant to that.
+Writing to Laeral is the right call and Vajra knows it. She also knows Laeral sees her as an insecure young woman wielding her dead husband's staff. Handing the Open Lord a complete picture means handing her the resolution. Vajra does it because the 500,000 dragons need to reach the treasury, and her personal position is irrelevant to that.
 
-What the party does not know: Laeral needs complete intelligence to act effectively. She cannot afford to engage this situation improvising. The full scope is not a courtesy — it is a requirement.
+What the party does not know: Laeral cannot engage four organized factions simultaneously without full intelligence and preparation. The extent of her decline since the Spellplague is a state secret. Improvising this situation is not an option she has.
 
 ### What Counts as the Full Picture
 
@@ -46,7 +46,7 @@ Force Grey members at Renown 1 or higher have standing access to Blackstaff Towe
 
 The door opens before they knock.
 
-Vajra is at the standing desk. She does not move to a sitting room — she never does when she has not yet decided the tone of a conversation. The Blackstaff leans against the desk's corner within arm's reach, where it always is.
+Vajra is at the standing desk. She does not move to a sitting room. She never does when she has not yet decided the tone of a conversation. The Blackstaff leans against the desk's corner within arm's reach, where it always is.
 
 > > "You have something for me. Sit or don't — this will take however long it takes."
 
@@ -62,13 +62,13 @@ She confirms three items without prompting — she already had this intelligence
 - The Kolat Towers arcane signature (she has known an archmage operated there since Hlam's first report; she did not have the name)
 - The Cassalanters' persistent arcane residue pattern beneath their villa, consistent with binding circles of significant scale, confirmed through Blackstaff Tower's external scrying
 
-She corrects one assumption. Whatever specific location the party believes the vault occupies — any Ward, street, or building they have theorized from the Stone's partial knowledge — Vajra redirects them:
+She corrects one assumption. Whatever specific location the party believes the vault occupies, whether a particular Ward, street, or building theorized from the Stone's partial knowledge, Vajra redirects them:
 
 > > "The Stone tells you where to go when you are ready to go. You do not work backward from residue patterns. You follow the Stone."
 
 She says nothing further about the Cassalanters beyond acknowledging the scrying data. She does not speculate on infernal involvement.
 
-> [!warning]+ **Cassalanter Rule**
+> [!warning] **Cassalanter Rule**
 > Vajra has external scrying evidence of conjuration and abjuration residue beneath the Cassalanter villa — consistent with binding circles. She does not have interior access, documentary evidence of an infernal contract, or testimony concerning Asmodeus. She will not confirm what she cannot confirm. If the party presents claims beyond what they could have physically observed or documented, Vajra closes that thread with: *"I'll file what you saw. Not what you concluded."* Do not allow the party or Vajra to state, imply, or act on the existence of a soul pact unless the party obtained proof during **Cassalanter Villa**.
 
 Any character who watches the Blackstaff when the vault figure — 500,000 dragons — is named and makes a successful DC 13 Wisdom (Perception) check notices the staff shift against the desk, without anyone touching it. There is no magical discharge. It simply moves.
@@ -130,7 +130,7 @@ The party delivers a complete account of the Grand Game to Vajra Safahr at Black
 >
 > > "Sit or don't. This will take however long it takes."
 >
-> When you have finished, she sets down her pen. She is still for what feels like a full minute — eyes on the middle distance, hands flat on the desk. The Blackstaff does not move. The room does not move.
+> When you have finished, she sets down her pen. She is still for what feels like a full minute — eyes on the middle distance, hands flat on the desk. The room is quiet. The Blackstaff does not move.
 >
 > Then she picks up a fresh sheet of paper and begins to write.
 >

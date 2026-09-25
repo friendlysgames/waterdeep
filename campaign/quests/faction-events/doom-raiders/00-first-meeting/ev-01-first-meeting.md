@@ -51,7 +51,7 @@ What the faction asks in return is capable, discreet work — and anything the p
 
 He doesn't describe the trouble further. He pours himself a second drink and waits.
 
-> [!profile]+ **Profile: Davil Starsong**
+> [!profile]**Profile: Davil Starsong**
 >
 > **Roleplaying Information**
 > ***Resonance.*** Davil should inspire liking with his effortless charm, unease with the silence behind his questions, and sympathy when his arrest and return reveal the cost of leading a faction that eats its own.

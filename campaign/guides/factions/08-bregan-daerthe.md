@@ -34,15 +34,9 @@ Jarlaxle's Grand Game goal: hold Eye #3, collect political intelligence, keep al
 
 ## First Meeting
 
-Bregan D'aerthe recruits during **Trollskull Alley**, the same tenday window as every other player faction. The offer extends to the whole party, not just drow members. D'aerthe spies shadow the group for several days before contact. Any party member may notice the surveillance with a passive Perception of 18; a successful **DC 15 Wisdom (Insight) check** confirms the watchers are drow, with a particular interest in any drow party members.
+Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to the whole party, not just drow members. D'aerthe spies shadow the group for several days before contact; if the party reports the surveillance to the Watch, contact ends permanently. Otherwise, a haberdasher named J.B. Nevercott arrives at Trollskull Manor's front door, maintains his fiction until he judges himself secure, then names Bregan D'aerthe and offers a first small assignment. He leaves a black card with a silver ship.
 
-Three outcomes are possible when the party spots the watchers:
-
-- If a party member reports the surveillance to the City Watch, the watchers vanish and contact ends permanently. Set the **BD Contact Severed** flag. Jarlaxle treats the party as a closed file and approaches **Sea Maidens Faire** as a neutral third party rather than a potential ally.
-- If the party confronts the watchers directly, the spies melt away and leave a single black eye patch on the cobblestones.
-- If the party takes no action, surveillance continues until the end of the week, at which point J.B. Nevercott arrives at Trollskull Manor's front door regardless.
-
-**J.B. Nevercott** — haberdasher, burgundy coat, *hat of disguise* — knocks at Trollskull and maintains the fiction until the party invites him inside or is alone with him. Once secure, he drops it: names Bregan D'aerthe, produces a plain black card with a silver ship, and offers a first assignment as an introduction — small, deniable. He doesn't confirm his real identity; he remains J.B. Nevercott until the fiction becomes untenable.
+*Full write-up: [Bregan D'aerthe — First Meeting](../../quests/faction-events/bregan-daerthe/00-first-meeting/ev-01-first-meeting.md)*
 
 ## Renown & Ranks
 

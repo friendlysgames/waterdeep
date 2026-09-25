@@ -61,7 +61,7 @@ She doesn't say what she did inside the cult. She's watching what the party does
 
 Pressing her on what she did in the cult ends the conversation. She thanks them for their time, collects herself without visible emotion, and leaves. She returns the following morning and gives the party one more chance. If they press again on the same question, she doesn't come back.
 
-> [!profile]+ **Savra Belabranta**
+> [!profile]**Savra Belabranta**
 >
 > Savra's warmth comes through action and reliability, not sentiment. Her signature tell is a single measured nod — she gives it when someone has just said something true. Characters who earn it early will notice when they stop getting it. She has told the party she carries a darker past; she won't discuss what she did in it. Pressing her on that subject ends the conversation.
 
