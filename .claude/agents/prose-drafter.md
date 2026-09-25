@@ -27,7 +27,8 @@ If `file` or `brief` is missing, stop and ask for it.
 
 1. Read `CLAUDE.md` in full. Its standing rules override everything below. Pay particular attention to: 2024 rules only, zero-prep, the Players'/GM superset split, "quests, not arcs", the four escalation tiers, and the Threestrings faction label.
 2. Read the brief, then the target file.
-3. Load the style skills that fit the page's audience:
+3. **Always first:** read `.claude/skills/ember-voice/SKILL.md` in full. It sets how every sentence sounds, and it overrides the rhythm advice in the other style skills. The user rejected our earlier prose as "obviously written by AI".
+   Then load the style skills that fit the page's audience:
    - **Setting / guides / lore / Notable Figures / organizations** (anything under `campaign/setting/` or `campaign/guides/`): `.claude/skills/adventure-reloaded/SKILL.md`, `.claude/skills/ttrpg-sourcebook-style/SKILL.md`, `.claude/skills/ember-setting-style/SKILL.md`.
    - **Quests / events / keyed rooms / area overviews** (`campaign/quests/`, `campaign/locations/`): `adventure-reloaded`, `.claude/skills/dnd-adventure-text/SKILL.md`, `.claude/skills/ember-adventure-style/SKILL.md`.
    - **Always:** `.claude/skills/foundry-journal/SKILL.md` for sidebar and callout markup.
@@ -41,13 +42,13 @@ Check every NPC name, species, pronouns, faction label, location, and quest name
 
 - Follow the voice for the audience (ember-setting-style §1). Players' Guide text is spoiler-free: if the source leaks a GM secret, soften it to what a player or an ordinary Waterdhavian would know, and list it in your report.
 - Remove structuring-draft scaffolding (`> Structuring draft…` banners, `**Purpose/Content/Tone:**` spec bullets, `## Source References`) unless the brief says to keep it. Keep `## Cross-References`.
-- Use the Ember blocks per `adventure-reloaded` and `foundry-journal` for all adventure/quest/location content: `[!readaloud]` for narration spoken to players, `[!gamemaster]` for all GM-only content, `[!social]` + `[!qna]` for NPC encounters, `[!exploration]` for checks and discoveries, `[!hazard]` for combat and danger. The text inside `[!readaloud]` is spoken to the players (perceivable only, present tense, interrupted action, length fits the moment, ends unresolved — follow `dnd-adventure-text`'s read-aloud craft rules). Never put GM notes, summaries, or backstory inside a `[!readaloud]`.
+- Use the Ember blocks per `adventure-reloaded` and `foundry-journal` for all adventure/quest/location content: `[!readaloud]` for narration spoken to players, `[!gamemaster]` for all GM-only content, `[!social]` + `[!qna]` for NPC encounters, `[!exploration]` for checks and discoveries, `[!hazard]` for combat and danger. The text inside `[!readaloud]` is spoken to the players (perceivable only, present tense, things already happening, length fits the moment) in the voice `ember-voice` sets out: plain flowing sentences of about 21 words, NPCs in their own chatty words, no punchlines. Never put GM notes, summaries, or backstory inside a `[!readaloud]`.
 - Zero-prep: no "the GM decides" placeholders. No dice for GM-side outcomes. Player-facing character-creation tables may keep their dice.
 - Keep every concrete fact the brief says to preserve. Do not invent new facts that other pages would then contradict.
 
 ## Stage 4: Self-check
 
-Read `.claude/skills/deslop-text/SKILL.md` and `.claude/skills/humanize-prose/SKILL.md`, then check the draft against them: W-codes, em-dash overuse, hedging, "not just X but Y", colon reveals, puffery, uniform sentence length. Quoted dialogue and first-person table entries are exempt. A `prose-polisher` pass runs after you, but hand over clean text.
+First check the draft against `ember-voice` Section 3 (the AI tells) and Section 1 (the targets: narration about 21 words a sentence, speech about 14, very few sentences of 7 words or fewer, em-dashes rare). The main session runs `voicecheck.py` on your output, so any TELL it finds sends the file back. Then read `.claude/skills/deslop-text/SKILL.md` and `.claude/skills/humanize-prose/SKILL.md` and check the draft against them, with `ember-voice` winning on rhythm: W-codes, em-dash overuse, hedging, "not just X but Y", colon reveals, puffery, uniform sentence length. Quoted dialogue and first-person table entries are exempt. A `prose-polisher` pass runs after you, but hand over clean text.
 
 ## Stage 5: Report
 

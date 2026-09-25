@@ -14,7 +14,7 @@ For **visual formatting** (HTML classes, sidebar callout types, `[!info]` / `[!c
 
 ## Voice and Register
 
-Adventure text addresses the GM directly in second person: "you", "the party", "the characters." It is authoritative but not stiff — clear, precise, and slightly cinematic. It trusts the GM to improvise; it does not over-explain.
+Adventure text addresses the GM directly in second person: "you", "the party", "the characters." It is a colleague briefing a colleague: plain, complete and friendly, never cinematic. Sentence-level voice for every kind of adventure text follows `ember-voice`.
 
 **Do:** "The goblins spot the party and draw their weapons."
 **Don't:** "If the goblins see the player characters, they will draw their weapons and prepare to fight."
@@ -22,7 +22,7 @@ Adventure text addresses the GM directly in second person: "you", "the party", "
 - Present tense for descriptions of static spaces and persistent facts.
 - Past tense only for backstory, history, or what has already happened in-world before the party arrived.
 - No padding. Say it once, precisely.
-- Contractions are acceptable in NPC speech. Avoid them in GM-facing prose.
+- Contractions are normal everywhere, as in Ember: most common in NPC speech, common in GM prose, occasional in read-aloud narration.
 
 ---
 
@@ -55,128 +55,21 @@ Use the `[!readaloud]` block (see `foundry-journal`):
 
 A conditional readaloud is introduced in the surrounding GM prose: "If X, read or paraphrase the following:", then the block follows immediately.
 
-### The job of read-aloud text
+### Voice
 
-Read-aloud text has one job: to drop the players into a moment. It is not a room inventory, a plot summary, or a mood essay. It gives the players exactly enough to know where they are and what demands their attention — then stops.
+**The voice of all read-aloud text is set by `ember-voice`.** Read it before writing any read-aloud; its rules, numbers and examples override anything here. In short:
+- Plain, generous, literal description in flowing sentences of about 21 words.
+- The wide shot first, then the person or thing that matters, then their speech or the detail that invites the party to act.
+- NPCs speak in their own chatty words, introduced by a physical action tag.
+- Paragraphs never end on a punchline, a verdict or an ominous one-liner.
+- The length fits the moment. Most blocks run 50–100 words, and a set piece can run many paragraphs.
 
-The GM has all the detail they need in the surrounding prose. The read-aloud is for the players, spoken aloud at the table, and it competes with ambient noise, distracted brains, and the memory of whatever just happened. Write for that context: vivid, specific, brief.
-
----
-
-### What to put in — and what to leave out
-
-**Include:**
-- The dominant sensory impression of the space (not all senses at once — pick the one that hits first)
-- Anything that's actively happening when the party arrives (creatures in motion, sounds, smells)
-- The one detail that makes this room different from every other room
-- The hook — the thing that demands a response
-
-**Leave out:**
-- Exits, unless an exit is the point (a door standing open where it shouldn't be, a tunnel that reeks of death)
-- Furniture inventory ("a table, four chairs, a bookshelf, a rug")
-- History and backstory — that belongs in the GM text
-- Monster stat block names when they exceed what the characters would recognise — see below
-- HP, alignment, morale, or any mechanics
-- How the characters feel — they're not your characters
-
----
-
-### Sentence-level craft
-
-**Lead with the room, not with "you."**
-The opening sentence grounds the space. "You enter a room and see..." is the weakest possible start. Drop the party directly into the environment.
-
-> ❌ "You enter a large chamber and see several goblins rifling through crates."
-> ✅ "This square chamber is packed with crates. Three armed goblins methodically search through them."
-
-**Use verbs that show interrupted action.**
-The party has just arrived. Something was happening before they got there. The best read-alouds capture a moment already in motion — which implies a world that exists without the players.
-
-> "A large brown bear *rises* from the stream. A fish drops from its mouth as it roars."
-> "Several goblins *pull* books off the shelves, throwing them onto a large pile in the middle of the room, where a well-armed goblin *stands holding a tinderbox*."
-
-The bear wasn't posed there for the party. The goblins weren't waiting. They were doing things. The party interrupted.
-
-**One specific detail beats three generic ones.**
-Specificity creates the feeling of reality. Pick the one true strange or telling detail and commit to it.
-
-> ❌ "The room has old, dusty furniture and smells musty and abandoned."
-> ✅ "The air smells of old paper and something sharper — burning."
-
-The second version tells you a room full of books is at risk. It earns its place. The first tells you nothing a generic dungeon room wouldn't.
-
-**Let NPC voice carry social scenes.**
-When the scene is fundamentally about a person, the read-aloud should often be that person speaking — not a description of the room they're standing in.
-
-> "Please, make yourselves comfortable. I'm so grateful to you all for meeting me here. I have a terrible problem, and I'm hoping you can solve it."
-
-No description of the inn. No description of Myrna. The voice is the scene.
-
-**End on something unresolved.**
-Read-aloud that ends on a full stop hands control back to no one in particular. End on something that invites a response — a question in the air, a moment of eye contact, a sound from behind a door.
-
-> ✅ "Words are written above both entrances to the room." *(what do they say?)*
-> ✅ "A fish drops from the bear's mouth to the water as it roars!" *(action requiring response)*
-> ✅ "'You must be working for Myrna,' the tall human says, blinking slowly at you with wide eyes." *(expectation of reply)*
-
----
-
-### Length and pacing
-
-**Length fits the moment.** A door gets two sentences; a dramatic set piece earns many paragraphs. The GM reads this aloud. Every sentence that belongs in the GM-only setup paragraph costs attention — put it there instead.
-
-**Long read-alouds are for big moments.** A dramatic set piece — a cathedral, a climactic confrontation, an arrival at a city after a long journey — can earn more space. A supply room cannot.
-
-**Split when the moment has two phases.** If a dramatic scene has a hard break in the middle — an explosion, a gate slamming shut, the dust settling after a collapse — split it into two consecutive blocks. Each ends on its own beat, and the GM delivers them in sequence as the scene progresses. A single block would muddy both moments. For example: a boulder trap could have one block for the crack and the roar of falling stone, and a second for the aftermath once the dust settles and the passage is blocked.
-
----
-
-### Patterns to avoid
-
-These are the signs of AI-generated or weak read-aloud text. Avoid them.
-
-**The "you find yourself" opener.**
-> ❌ "You find yourself standing at the entrance to a grand library."
-
-No one finds themselves anywhere. They walk somewhere. Start in the scene, not approaching it.
-
-**The adjective stack.**
-> ❌ "A large, ancient, moss-covered, imposing stone door stands before you."
-
-One adjective, precisely chosen, does more work than four. "The door is iron and old, sweating with condensation." That's a feeling. "Large, ancient, imposing" is a list.
-
-**"You can see / you can hear / sounds can be heard."**
-> ❌ "You can hear voices through the wall."
-> ✅ "Voices murmur through the wall to the west."
-
-Cut "you can." The sense is implied. The passive form ("sounds can be heard") is worse — it removes even the implied subject.
-
-**Emotional stage directions.**
-> ❌ "The room has an eerie, unsettling atmosphere."
-> ✅ "A single candle burns on the table. The rest of the room is dark."
-
-The players decide how it feels. You give them the facts that produce the feeling.
-
-**Summarising instead of showing.**
-> ❌ "This room appears to have been used for dark rituals."
-> ✅ "Dried blood traces the outline of a circle on the floor. At its center, a chair with manacles bolted to the armrests."
-
-Show the evidence. Let the conclusion land on its own.
-
-**The procedural exit.**
-> ❌ "There are three exits: a door to the north, a corridor to the east, and a staircase descending to the south."
-> Never end a read-aloud on an exit inventory. That's cartography, not atmosphere.
-
----
-
-### The fast test
-
-Before finalising any read-aloud, ask:
-1. Could I cut the first sentence and start on the second? (If yes, cut it.)
-2. Does this contain anything the GM text already says? (If yes, remove the duplicate.)
-3. Is there a creature or NPC here? Are they *doing something*, or just standing? (They should be doing something.)
-4. Does it end on something that invites response, or just trail off?
-5. Would a GM feel confident reading this cold, mid-session, while someone across the table is arguing about spell slots? (If not, simplify.)
+What still applies from this skill:
+- **Only what the characters perceive.** No hidden information, no stat block names beyond what they would recognise, no mechanics, no history the characters don't know.
+- **Things are already happening.** Creatures and NPCs are in motion when the party arrives: goblins pulling books off shelves, a bear rising from a stream.
+- **Show evidence, not conclusions.** "Dried blood traces the outline of a circle on the floor", not "this room appears to have been used for dark rituals".
+- **No "you find yourself" openers and no exit inventories.**
+- **Split when the moment has two phases.** An explosion, a gate slamming shut, the dust settling after a collapse: use two consecutive blocks, each delivered as the scene reaches it.
 
 ---
 

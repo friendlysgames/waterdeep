@@ -11,7 +11,7 @@ Rewrites text to sound like it was written by a real, skilled human author. Focu
 ## Core Philosophy
 
 Human writers don't write like AI. They:
-- Vary sentence length dramatically — short punches, then long winding sentences that carry the reader somewhere unexpected
+- Vary sentence length naturally. For this campaign, `ember-voice` sets the targets: mostly long, flowing sentences, with a short one as an occasional pause, never a stack of short punches.
 - Use specific, concrete sensory details rather than vague descriptors
 - Let characters and scenes breathe with small imperfections and personality
 - Avoid over-explanation; trust the reader
@@ -28,7 +28,7 @@ Human writers don't write like AI. They:
 - **Transition words as crutches**: "Furthermore", "Additionally", "Moreover" → find natural connective tissue or just let ideas follow each other
 
 ### Inject Humanity
-- **Rhythm variation**: Deliberately alternate long and short sentences
+- **Rhythm variation**: Break up metronomic runs, but keep the rhythm plain and flowing (see `ember-voice`). Don't manufacture drama with short sentences.
 - **Specificity**: "a tavern" → "a low-ceilinged room smelling of wet wool and cheap tallow"
 - **Voice quirks**: A narrator can have opinions, asides, or a slightly wry tone
 - **Imperfection**: Real prose sometimes starts mid-thought or ends ambiguously — that's fine
@@ -47,7 +47,7 @@ Human writers don't write like AI. They:
 Try to detect the register of the original and stay within it:
 - **Dark/gritty fantasy**: Stay visceral and grounded. Cut the lofty abstractions.
 - **High fantasy/epic**: A touch of grandeur is fine, but earned — not decorative.
-- **TTRPG boxed text**: Punchy, evocative, second-person or close-third. 2–4 sentences max per beat.
+- **TTRPG boxed text**: Follow `ember-voice`. Plain, generous second-person description in flowing sentences, NPC speech in their own chatty words, and no punchlines or ominous one-liners. The length fits the moment (usually 50–100 words).
 - **Novel prose**: More room for interiority and detail.
 
 ## What NOT to Change

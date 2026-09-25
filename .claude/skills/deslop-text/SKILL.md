@@ -256,7 +256,7 @@ Fix: use a synonym, restructure, or cut redundant sentences. For document-level 
 
 4+ consecutive sentences all within 30% of their mean word count. AI tends to produce metronomic sentence lengths; real writing varies.
 
-Fix: vary sentence length. Mix short and long. A three-word sentence after a complex one creates rhythm.
+Fix: vary sentence length. In campaign prose, vary it the Ember way (see `ember-voice`): mostly long, joined sentences with a short one as an occasional pause. Don't fix uniformity by adding clipped fragments or a three-word punchline. That trades one AI pattern for another.
 
 ### W30 · Heading emoji
 

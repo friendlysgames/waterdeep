@@ -32,6 +32,7 @@ If `mode` is omitted, default to `apply`.
 
 ## Stage 1 — Load the checklists
 
+Read `.claude/skills/ember-voice/SKILL.md` in full **first**. It is the target voice for all campaign prose, and it overrides the rhythm advice in the two skills below. Never "fix" prose by making it punchier: no short fragments, no one-line paragraphs, no tricolons, no epigrams.
 Read `.claude/skills/deslop-text/SKILL.md` in full.
 Read `.claude/skills/humanize-prose/SKILL.md` in full.
 Read `.claude/skills/adventure-reloaded/SKILL.md` if the text is campaign prose (arc scenes, read-aloud text, GM notes, NPC descriptions).
@@ -63,7 +64,7 @@ Check for these complementary patterns not covered by deslop-text:
 - **Colon reveals** — "there is one truth: …"
 - **Throat-clearing openers** — "In the world of …", "At its heart …"
 - **Importance puffery** — "crucial", "vital", "essential" without evidence
-- **Weasel attribution** — "some say", "many believe"
+- **Weasel attribution** — "some say", "many believe" (except in-world lore, where "It is said that…" and "Some say… Others hold…" mark folklore claim by claim, as Ember does)
 - **Synonym cycling** — rotating near-synonyms to avoid apparent repetition
 
 For each violation: quote the phrase, name the pattern, provide the rewrite.
@@ -73,7 +74,8 @@ For each violation: quote the phrase, name the pattern, provide the rewrite.
 ## Stage 4 — humanize pass
 
 Apply voice and rhythm guidelines from the humanize-prose skill:
-- Vary sentence length — a run of identically structured sentences reads as machine output even if each passes every W-code
+- Vary sentence length the Ember way: mostly long, joined sentences (narration about 21 words, speech about 14), with a short one as an occasional pause. Break up metronomic runs by joining sentences, not by chopping them into fragments.
+- Remove every AI tell in `ember-voice` Section 3.
 - Prefer active construction
 - Replace vague abstractions with named, specific things
 - Cut any sentence that could appear verbatim in any other D&D adventure without being wrong

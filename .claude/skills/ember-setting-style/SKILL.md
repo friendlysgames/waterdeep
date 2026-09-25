@@ -17,10 +17,11 @@ This skill captures how the Ember campaign writes its Setting Compendium, Gazett
 | Skill | Owns |
 |---|---|
 | `adventure-reloaded` | Page architecture (NPC page, Organization page), GM zones, callout syntax, Milestone Points |
-| `ttrpg-sourcebook-style` | Sentence construction, consequence-layered facts, tension, tricolon, header discipline, clarity over atmosphere |
+| `ember-voice` | **Sentence-level voice for everything**: rhythm and length targets, the AI-tell catalogue, setting and guide voice with verbatim Ember examples, `voicecheck.py` |
+| `ttrpg-sourcebook-style` | Sentence construction, consequence-layered facts, tension, header discipline, clarity over atmosphere |
 | **`ember-setting-style`** | The four audience voices, entry shape and information order, the historian aside, secrets handling, GM-advice register, gazetteer conventions, naming and dating |
 
-**Precedence when they disagree:** page structure → `adventure-reloaded`. Sentence craft → `ttrpg-sourcebook-style`, except for the first-sentence rule in Section 3 below, where this skill wins. Voice, audience, and entry order → this skill. CLAUDE.md rules (Players'/GM superset split, zero-prep, no dice, structuring-draft limits) override all three.
+**Precedence when they disagree:** how sentences sound (rhythm, length, tells) → `ember-voice`, which you should load first. Page structure → `adventure-reloaded`. Sentence craft → `ttrpg-sourcebook-style`, except for the first-sentence rule in Section 3 below, where this skill wins. Voice, audience, and entry order → this skill. CLAUDE.md rules (Players'/GM superset split, zero-prep, no dice, structuring-draft limits) override all three.
 
 For adventure scenes (events, keyed rooms), use `ember-adventure-style` instead.
 
@@ -41,7 +42,7 @@ Never let the voices bleed. GM advice does not slip into lore narration, and lor
 
 ## 2. Lore Voice
 
-**Played straight.** History, myth, and faction lore are grave. No narrator wit, no winking, no modern idiom. Wit is allowed in exactly two places: the historian aside (Section 5) and the closing line of a minor NPC blurb (Section 8).
+**Played straight.** History, myth, and faction lore are grave. No narrator wit, no winking, no modern idiom. Wit is allowed in three places: the historian aside (Section 5), the closing line of a minor NPC blurb, and the dry, gentle humour of Notable Figures personality prose ("it was little surprise to anyone when he was found quite dead amidst a mountain of books").
 
 **Confident by default.** State present-day and recent facts without hedging. Uncertainty is marked **claim by claim**, with a fixed set of constructions, never spread across a whole passage:
 
@@ -70,7 +71,7 @@ Never let the voices bleed. GM advice does not slip into lore narration, and lor
 
 Waterdeep form: *"The Xanathar Guild is the largest criminal organization in Waterdeep's sewers, and the only one run by a beholder."*
 
-After the first sentence, `ttrpg-sourcebook-style` governs: participial and concessive openers, consequence-layering, and the short landing sentence.
+After the first sentence, `ttrpg-sourcebook-style` governs participial and concessive openers and consequence-layering, and `ember-voice` governs rhythm: long, accumulative sentences of 25–35 words, and no short landing sentence.
 
 **Ember's favorite concessive frame** opens later paragraphs: *"Though small and scattered, the Sanguinaries take an active role …"* / *"Despite creating these precautions, most in Brevin don't think about them."*
 
@@ -233,4 +234,5 @@ Ember never does these. Do not invent them:
 5. Place any historian aside, keeping it free of secrets. Put hidden truth in GM Notes or a Secret.
 6. For GM guidance, pair every recommendation with its reason, and label any Rules Override.
 7. Write the `## Overview` last, and check it could stand alone as the whole page.
-8. Run the CLAUDE.md prose pipeline (`deslop-text` + `no-ai-slop` → `humanize-prose`). The historian aside and quoted speech count as character voice for the dialogue exemption.
+8. Run `python3 .claude/skills/ember-voice/scripts/voicecheck.py <file>` and fix every TELL.
+9. Run the CLAUDE.md prose pipeline (`deslop-text` + `no-ai-slop` → `humanize-prose`). The historian aside and quoted speech count as character voice for the dialogue exemption.
