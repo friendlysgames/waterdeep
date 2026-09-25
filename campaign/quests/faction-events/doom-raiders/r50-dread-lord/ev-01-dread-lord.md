@@ -129,6 +129,7 @@ Davil Starsong came in person. He brought the inner circle to the third-floor ro
 
 ## Read Aloud
 
+> [!narrative]
 > The third-floor room at the Yawning Portal holds a table and four people who built something in this city and held it together through a betrayal, an arrest, and a war that isn't finished. Davil is standing at the head of the table. He hasn't sat down yet.
 >
 > He doesn't look like someone who sends flying snakes when he has something important to say.

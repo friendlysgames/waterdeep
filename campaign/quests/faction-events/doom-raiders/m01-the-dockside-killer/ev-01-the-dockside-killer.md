@@ -43,6 +43,9 @@ A character who positioned ahead of the route — stated this intent at the star
 > #### Heldar's Survival
 > If Soluun strikes before the party can intercept him, Heldar is at 0 hit points but not dead — the wound was meant to stun, not kill, before the follow-through. One character's action stabilizes him without a roll. The party still has Soluun to deal with.
 
+> [!npc-narrative]**The Rooftop Killer**
+> A drow drops from the shadows above Ship Street, a hand crossbow already raised. He moves like someone who has watched this route for nights.
+
 **Soluun Xibrindas** — use the **Scout** stat block (2024 *Monster Manual*), with Advantage on Stealth checks in dim light or darkness and a hand crossbow substituted for the shortbow. He does not fight to the death. When reduced to half his hit points, he attempts to disengage and run. He goes up — a drainpipe, a crate stack, then the roofline above Ship Street.
 
 **Pursuit across the rooftops:** Three **DC 14 Strength (Athletics)** checks to keep pace. On three successes before three failures, Soluun is cornered above a warehouse on Sail Street with nowhere useful to jump and surrenders rather than fall. On three failures before three successes, he clears the neighborhood and drops somewhere the party cannot follow.
@@ -78,6 +81,7 @@ Three elf and half-elf sailors have been murdered in the Dock Ward. Find the kil
 
 ## Read Aloud
 
+> [!narrative]
 > Ship Street at midnight is not quiet, but it has a different kind of noise than the daytime — the creak of rigging, the slap of harbor water, a handful of workers moving cargo under lantern light. The Muleskull Tavern's windows are still lit at the near end of the block.
 >
 > You have the name Heldar, a route, and whatever position you chose before he left the bar.

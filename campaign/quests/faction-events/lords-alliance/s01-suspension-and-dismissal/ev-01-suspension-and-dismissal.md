@@ -54,9 +54,10 @@ He looks at the character directly.
 
 He leaves. He is writing in his small notebook before he reaches the door, the hand moving without him slowing down.
 
-Any character who presses him for more and makes a successful DC 13 Charisma (Persuasion) check gets one additional sentence:
+Any character who presses him for more gets one additional sentence with a **DC 13 Charisma (Persuasion)** check:
 
-> > "I don't enjoy this. That's not the point."
+> [!dialogue]**Why are you doing this?**
+> "I don't enjoy this. That's not the point."
 
 He does not stop walking.
 
@@ -144,6 +145,7 @@ A Lords' Alliance member refused or abandoned an assigned mission without compel
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester arrives at Trollskull Manor at a time the rest of the party is elsewhere. He knocks twice, enters when let in, and stays near the door. He does not take a seat.
 >
 > > "The mission you were assigned is past its window. You're suspended from active operations — no assignments, no Alliance support. There's a path back: bring me verified intelligence on a villain faction operation and I'll reinstate you."

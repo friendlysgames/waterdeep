@@ -40,6 +40,9 @@ Asking about the red-haired woman by physical description finds a Caravan Court 
 
 Rezka's plan: meet Noska at second bell in Room 4, Emira at third bell in Room 6. She is in Room 3 herself, reviewing the ledger, until the first meeting begins.
 
+> [!npc-narrative]**Rezka**
+> A red-haired woman in her thirties, in practical clothes. She is upstairs in Room 3 with the ledger open in front of her, reviewing its pages.
+
 **Arriving before second bell:** **Noska Ur'gray** is downstairs with two Bandit bodyguards at a corner table. **Emira Volstren** arrives five minutes after Noska, alone, with a Cassalanter house guard waiting outside the inn's entrance.
 
 **Pravin Cloth**, the proprietor, is incurious about his guests' business. He confirms the room assignments to anyone who asks politely and does not ask follow-up questions.
@@ -119,6 +122,7 @@ Laeral Silverhand needs a dead man's ledger before anyone else reads it. A Xanat
 
 ## Read Aloud
 
+> [!narrative]
 > The letter arrives by regular courier — plain paper, Jalester's name at the bottom. More formal than his usual style.
 >
 > > *"An old trade investigator named Orvane Fentree was found dead in his home in the Trades Ward on Greengrass morning. The Watch has ruled it natural causes. His personal records — twenty years of guild and contract documentation — are missing from his study. Laeral Silverhand has a particular interest in those records. Find them before anyone else reads them."*

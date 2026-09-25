@@ -30,6 +30,9 @@ A **DC 12 Constitution saving throw** to arrive without Exhaustion. Taking extra
 
 He is seated in meditation facing the harbor. When footsteps reach the path, he opens his eyes. He heard them much earlier than that. Old in a way that resists estimation. His clothes match the rock. He looks at them once — brief, complete, nothing wasted.
 
+> [!npc-narrative]**Hlam**
+> An old man is seated in meditation, facing the harbor far below. He does not turn when the party arrives. He opens his eyes. Old in a way that resists estimation — his clothes match the rock, and he looks at them once, brief and complete, nothing wasted.
+
 His cooperation is not automatic. What he responds to: directness, honesty, the acknowledgment that the party does not actually know what they are asking for and is here anyway. What earns Disadvantage on any check: appeals to authority, urgency framing, or flattery. A character who simply states the truth — "We work for the Blackstaff. She needs to know what threats are moving against the city." — rolls straight or earns Advantage.
 
 A **DC 12 Charisma (Persuasion) check** earns his first answer:
@@ -75,6 +78,7 @@ Vajra sends the party up Mount Waterdeep to consult a reclusive monk named Hlam 
 
 ## Read Aloud
 
+> [!narrative]
 > The Sending arrives in one character's head without preamble. Twenty-five words, each one precise:
 >
 > > "Hlam is a monk on Mount Waterdeep's slope. Seek him out. Ask what threats he has perceived. Don't mention my name. Don't overstay."

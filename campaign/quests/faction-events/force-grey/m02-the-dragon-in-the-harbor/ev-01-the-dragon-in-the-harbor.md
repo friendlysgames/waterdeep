@@ -43,6 +43,9 @@ The harbor bottom at depth is cold, dark at the edges, and lit in the center by 
 
 He notices the party before they are within speaking range. He turns and approaches at a speed that covers the distance before anyone has quite formulated an approach. He is young and intensely curious.
 
+> [!npc-narrative]**Zelifarn**
+> A creature approximately forty feet long circles the elvish wreck, trailing cold bioluminescence. He turns toward the party before they are within speaking range and closes the distance at a speed that leaves no time to formulate an approach. He is young — intensely, relentlessly curious — and his interest in the party is genuine and immediate.
+
 He wants things, and he pursues them through the relentless application of enthusiasm and logic rather than threats. The belt buckle on a character's belt is interesting. The ring on another character's finger has a story. A character who gives Zelifarn something they genuinely value — not a spare coin, something they actually use — earns his warmest regard for the rest of the conversation and, implicitly, beyond. A character who gives him something worthless receives polite attention and nothing more.
 
 **Assessing his intentions:** A **DC 13 Wisdom (Insight)** check confirms he is harmless and genuinely curious about the harbor. On a failure, his motives remain uncertain — the party can report that he did not attack anyone but cannot confirm he will not. Vajra, when given this ambiguous report, does not love it. She asks them to return if he surfaces again. A partial report is a real consequence.
@@ -97,6 +100,7 @@ Vajra sends the party into Deepwater Harbor to assess a young bronze dragon who 
 
 ## Read Aloud
 
+> [!narrative]
 > Four words arrive in one character's head:
 >
 > > "Bronze dragon. Deepwater Harbor. Intentions unknown. Come to the Tower."

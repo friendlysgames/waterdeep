@@ -33,6 +33,9 @@ The Dock Ward has dozens of working dray horses on daily routes. Three independe
 
 Maxeene has the star marking and turns her head when she hears her name. She is well-groomed and wearing good-quality dray harness. She is on Fillet Lane at the expected time.
 
+> [!npc-narrative]**Maxeene**
+> A grey roan draft horse with a clear white star marking, well-groomed and fitted with good-quality dray harness, pulling a merchant's wagon along Fillet Lane. She turns her head when she hears her name — attentive in a way that doesn't fit the surroundings. When she speaks, her voice is unhurried, with a slight Castle Ward upper-class cadence that she has been collecting for years.
+
 A hire-coach has been parked across the lane for forty minutes. The driver appears restless. A **DC 14 Passive Perception** notices the coach has not moved despite the pretense of waiting for a fare. Vell (Spy stat block) is inside. She has been waiting for someone else to do the identification work for her. Once the PCs approach Maxeene, Vell moves in — either intercepting the conversation directly or settling in to follow the party when they leave.
 
 Approaching Maxeene openly while Vell is watching allows her to confirm which horse is the Harper asset. Approaching through the crowd, or sending only one character while the others maintain position, limits Vell's sight line.
@@ -86,6 +89,7 @@ A Harper-connected draft horse has been quietly gathering intelligence in the Do
 
 ## Read Aloud
 
+> [!narrative]
 > Mirt is in the private box when you arrive, watching the stage with the expression of a man who has no real interest in the play. He pours wine he has already had delivered and gets to the point without looking away from the actors.
 >
 > > "There's a draft mare named Maxeene working a dray route in the Dock Ward. She listens to everything and she remembers it. I need to know what she's heard before someone less friendly to us finds her first."

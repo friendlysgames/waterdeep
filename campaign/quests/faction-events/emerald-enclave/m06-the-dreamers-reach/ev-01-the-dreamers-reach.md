@@ -104,6 +104,7 @@ Jeryth Phaulkon has fallen silent. Something below the Castle Ward has found a p
 
 ## Read Aloud
 
+> [!narrative]
 > Melannor is standing in Phaulkonmere's garden when you arrive. The plants grow normally, but without direction. The birds in the estate oaks are roosting facing outward, which he later describes as wrong in a way he cannot fully explain.
 >
 > > "She's still there. I can feel her presence in the estate. She's fighting something." He turns. "I think whatever you disturbed down there noticed you. And I think you need to go back and finish it."

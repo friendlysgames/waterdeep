@@ -41,6 +41,9 @@ A drow spy, trained in surveillance, forgery, and the kind of patience that make
 
 > "Her loyalty is to D'aerthe. To me, specifically. She will follow your direction on any assignment that does not place her in a position to acquire intelligence on D'aerthe's own operations. You'll find she is very good at her work and very clear about that limit."
 
+> [!npc-narrative]**Ilphrin Quiss**
+> A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She nods once when introduced. She does not shake hands.
+
 Ilphrin Quiss is present at the end of this meeting, at the door or near the window, depending on the location. She nods once when introduced. She does not shake hands.
 
 > [!note]**Running Ilphrin Quiss**

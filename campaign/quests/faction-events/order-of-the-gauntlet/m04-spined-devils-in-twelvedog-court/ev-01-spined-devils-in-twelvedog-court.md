@@ -35,7 +35,10 @@ Five **Spined Devils** (2024 *Monster Manual*). They prefer range, occupying roo
 
 ### Gysheer Omfreys
 
-The last spined devil is still twitching when an alley door opens. **Gysheer Omfreys** (use **Cult Fanatic** stat block) — middle-aged, Tethyrian, in good clothes. She holds a knife with the grip of someone taught rather than experienced. Desperation and contempt directed at Savra specifically. "You should not have come here. This was a consecrated working. You have disrupted the work of —" She stops. She has said too much. Her jaw closes. The knife stays up.
+The last spined devil is still twitching when an alley door opens. **Gysheer Omfreys** (use **Cult Fanatic** stat block) — middle-aged, Tethyrian, in good clothes. She holds a knife with the grip of someone taught rather than experienced. Desperation and contempt directed at Savra specifically.
+
+> [!npc-narrative]**Gysheer Omfreys**
+> Middle-aged, Tethyrian, in good clothes that stand out in the Field Ward. She holds a knife with the grip of someone taught rather than experienced. Her contempt is directed at Savra specifically. "You should not have come here. This was a consecrated working. You have disrupted the work of —" She stops. She has said too much. Her jaw closes. The knife stays up.
 
 She says nothing further and will flee or fight if not restrained.
 
@@ -82,7 +85,10 @@ Five spined devils are loose in a Field Ward courtyard. Three residents are shel
 
 ## Read Aloud
 
-> Savra is at the door before you are fully awake, coat on, sword at her side, already turning as she speaks: "Spined devils terrorizing a Field Ward courtyard. I am going there now. Come."
+> [!narrative]
+> Savra is at the door before you are fully awake, coat on, sword at her side, already turning as she speaks:
+>
+> > "Spined devils terrorizing a Field Ward courtyard. I am going there now. Come."
 
 ## Summary
 

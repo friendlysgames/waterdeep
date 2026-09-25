@@ -24,6 +24,9 @@ The orchard and meadery sit at the edge of the Undercliff — tidy halfling-scal
 
 **Blossom Snobeedle** receives the party in the drinking hall. She is a halfling in her fifties, capable in the quiet way of someone who has been doing difficult things for a long time. She has been preparing tea since she saw them coming up the road.
 
+> [!npc-narrative]**Blossom Snobeedle**
+> A halfling in her fifties with the capable quiet of someone who has been doing difficult things for a long time. She has been preparing tea since she saw the party coming up the road.
+
 > > "Thank you for coming. I don't know who else to ask."
 
 She has kept Dasher's belongings in his room, which she has not changed. She offers them reluctantly — a childhood belt knife, a journal, and the letter.
@@ -49,6 +52,9 @@ Three independent paths lead to Kelso Fiddlewick by late afternoon:
 **At the Blushing Mermaid:**
 
 Kelso Fiddlewick is already at his table when the party arrives. He sees them before they see him. He does not run. He has the specific patience of someone who has been waiting for this and has decided how he wants it to go.
+
+> [!npc-narrative]**Kelso Fiddlewick**
+> A stocky halfling with a badly scarred jaw, already at his table when the party arrives. He sees them before they see him. He does not run; he has the specific patience of someone who has been waiting for this.
 
 > > "You're here about Dasher. He's not lost. He's where he wants to be."
 
@@ -103,6 +109,7 @@ A halfling family in the Undercliff is offering 500 gp for information on a miss
 
 ## Read Aloud
 
+> [!narrative]
 > Blossom Snobeedle has been preparing tea since she saw you coming up the road. The orchard is tidy, the drinking hall is clean, and she has kept her son's belongings exactly as he left them. She has the specific quiet of someone who has been holding themselves together for eight months and intends to keep doing it regardless of what you say.
 >
 > She slides an unsent letter across the table.

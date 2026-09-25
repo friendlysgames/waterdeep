@@ -126,7 +126,7 @@ def convert_table(lines):
 
 
 def convert_sidebar(header_line, body_lines, depth):
-    """Render one sidebar (fvtt advice / dialogue / npc-narrative) to HTML.
+    """Render one sidebar (fvtt advice / narrative / dialogue / npc-narrative) to HTML.
 
     `header_line` still carries its own quote-prefix; `depth` is how many
     '>' tokens announce it. `body_lines` are the lines that follow it, each
@@ -150,6 +150,11 @@ def convert_sidebar(header_line, body_lines, depth):
             f'<div class="dialogue"><div class="dialogue-q"><p>{convert_inline(title)}</p></div>'
             f'<div class="dialogue-a">{inner_html}</div></div>'
         )
+
+    if sidebar_type == 'narrative':
+        # Read-aloud box. Header is `> [!narrative]` with no title; any title
+        # given is ignored so a stray label never lands in the boxed text.
+        return f'<div class="narrative">{inner_html}</div>'
 
     if sidebar_type == 'npc-narrative':
         name_html = convert_inline(title)

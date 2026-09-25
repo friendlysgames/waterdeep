@@ -104,6 +104,7 @@ A Manshoon Splinter relay tower in the Trades Ward holds the pass-amulet ledger 
 
 ## Read Aloud
 
+> [!narrative]
 > Yellowspire is narrow and old, a wizard's tower wearing the disguise of a private residence — shuttered windows, no signage, the foot traffic of a building where people arrive and leave without wanting to be seen doing either. The roof connects to the adjacent building over a four-foot gap. The front door uses a coded knock. The side entrance is through a kitchen window that no one has bothered to lock.
 >
 > You have one day to watch it before you go in.

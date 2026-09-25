@@ -26,11 +26,15 @@ The shop in the Trades Ward is organized with a gnome's specific logic: labels f
 
 **Skeemo Weirdbottle** is behind the counter when the party arrives: small, meticulous, wearing a leather apron with more pockets than seems necessary. He knows the party by name. The coffer comes from under the counter and goes onto the surface with a quiet click.
 
+> [!npc-narrative]**Skeemo Weirdbottle**
+> A rock gnome alchemist, small and meticulous, wearing a leather apron with more pockets than seems necessary. His pleasantness is technically indistinguishable from warmth.
+
 > > "It's paid for. Handle it carefully."
 
-He does not answer questions about the contents. If pressed:
+He does not answer questions about the contents.
 
-> > "It's not your business, and if it were, I'd have told you."
+> [!dialogue]**What's in the coffer?**
+> "It's not your business, and if it were, I'd have told you."
 
 He is pleasant in the way of someone who has decided that pleasantness is the most efficient surface to present. His attention, when the party turns to examine the coffer, never fully leaves them.
 
@@ -47,6 +51,9 @@ A broken seal changes the God Catcher exchange: Esvele notices immediately that 
 The God Catcher is one of the Walking Statues of Waterdeep — a vast stone figure with one hand outstretched over a Castle Ward intersection, frozen mid-stride since the Century of Skyfire. The hire-coach is waiting in its shadow at the arranged time.
 
 **Esvele Rosznar** is a Tethyrian noblewoman in her late twenties, seated inside the coach with the hood of a purple cloak drawn up. She does not offer her name. She produces a black velvet pouch with fifteen platinum pieces before the party has fully stopped.
+
+> [!npc-narrative]**The Hooded Noblewoman**
+> A Tethyrian noblewoman in her late twenties, seated in the coach with the hood of a purple cloak drawn up. She produces a black velvet pouch with fifteen platinum pieces before the party has fully stopped. She does not offer her name.
 
 She wants the coffer. The exchange is meant to take thirty seconds.
 
@@ -94,6 +101,7 @@ Pick up a package from a Doom Raiders alchemist in the Trades Ward and deliver i
 
 ## Read Aloud
 
+> [!narrative]
 > The coffer is small, silk-lined, sealed with Skeemo's wax. The label reads *Potions of Mind Reading (4)* in a hand so precise it looks printed. The seal is unbroken. The weight is right.
 >
 > Something is wrong with the smell.

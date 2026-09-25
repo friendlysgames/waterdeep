@@ -66,6 +66,7 @@ After the party reported Bregan D'aerthe's surveillance to the City Watch, the w
 
 ## Read Aloud
 
+> [!narrative]
 > In the tenday after the Watch visit, Trollskull Alley gets quieter in a specific way. The Harpers find a side street. The Lords' Alliance makes a proper call. The watcher who had been watching the alley approach is simply no longer there. No one from that quarter follows up.
 
 ## Summary

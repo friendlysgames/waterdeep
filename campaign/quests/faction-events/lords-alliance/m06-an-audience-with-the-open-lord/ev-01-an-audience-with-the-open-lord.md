@@ -26,7 +26,11 @@ Her disclosure of this offer to the party is genuine and deliberate. She wants t
 
 The palace is everything it should be: clean marble, Watch officers at every door, a functionary who leads the party through three corridors and a waiting room to a private audience chamber with a long table and a fire that does not need tending. **Laeral Silverhand** is already there.
 
-> She looks like a woman who has been working since before you woke up. She is sitting at the far end of the table with a cup of tea she is not drinking, a small stack of letters she is not reading, and the expression of someone who has already thought about this meeting from your side of it. When you enter, she sets the cup down.
+> [!npc-narrative]**Laeral Silverhand**
+> A woman who looks like she has been working since before you woke up. She sits at the far end of the table with a cup of tea she is not drinking and a stack of letters she is not reading. The expression is one of someone who has already thought about this meeting from your side of it.
+
+> [!narrative]
+> She is sitting at the far end of the table. When you enter, she sets the cup down.
 >
 > > "Sit. I don't have a long speech for you. I have questions."
 
@@ -117,8 +121,10 @@ The Open Lord of Waterdeep has questions for the party. She has something they n
 
 ## Read Aloud
 
+> [!narrative]
 > Two City Watch officers arrive at Trollskull Manor in full dress uniform. The summons is on formal vellum. Laeral Silverhand requests the party's presence at Piergeiron's Palace at the close of the afternoon bell. Attendance is characterized as voluntary. The summons is signed.
 
+> [!narrative]
 > The fire in the audience chamber does not need tending. Laeral Silverhand is at the far end of the table when you enter — not waiting for you, precisely, but ready.
 >
 > > "Sit. I don't have a long speech for you. I have questions."

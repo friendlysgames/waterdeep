@@ -32,6 +32,9 @@ If a party member confronts the tail directly:
 
 Edric does not fight if he has any other option. The moment a PC closes to talking distance with recognition on their face, he drops the day laborer form and takes a new one — nondescript, unremarkable, face of a middle-aged Waterdavian merchant. He tries to step into the foot traffic and walk away.
 
+> [!npc-narrative]**Edric Tanner**
+> The Dock Ward day laborer face is gone. In its place: a middle-aged Waterdavian merchant of no particular distinction — the kind of face that crowds produce and crowds consume. He is already moving toward the foot traffic. He did not panic. He was ready for this.
+
 **DC 13 Dexterity (Athletics)** to cut him off before he breaks into the crowd. If he is cornered in an alley or stopped physically, he bargains: he will give the party the safehouse address in exchange for a thirty-second head start. He is genuinely not interested in dying for the Splinter.
 
 If he is killed or detained before he can return to the safehouse: his current form carries no identification. A **DC 14 Intelligence (Investigation)** check of his possessions finds a folded note with a Trades Ward address in unfamiliar handwriting — the safehouse.
@@ -77,6 +80,7 @@ Edric Tanner was not identified during the interviews. He is now following a par
 
 ## Read Aloud
 
+> [!narrative]
 > You notice him the third time — same forgettable face in three different places across an hour, always at a comfortable distance, always somewhere that gives him a line of sight. A Dock Ward day laborer with nothing particular about him except that he keeps appearing.
 >
 > He noticed you noticing.

@@ -13,9 +13,9 @@
 > - After the other witnesses leave, Savra presents the Undermountain Mandate — the senior council's decision to extend the Order's formal authority underground. The character chooses whether to accept it.
 > - One binary flag set: **Undermountain Mandate Accepted**.
 >
-> > > [!design]**Expected in Dungeon of the Mad Mage**
-> > >
-> > > Parties are not expected to reach Renown 50 with the Order of the Gauntlet during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after sustained service in Undermountain. It can run before or after **Vault of Dragons**; if **Vault of Dragons** has already resolved, see the note in the Concluding section.
+> > [!design]**Expected in Dungeon of the Mad Mage**
+> >
+> > Parties are not expected to reach Renown 50 with the Order of the Gauntlet during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after sustained service in Undermountain. It can run before or after **Vault of Dragons**; if **Vault of Dragons** has already resolved, see the note in the Concluding section.
 
 **Background (DM only)**
 
@@ -153,6 +153,7 @@ The Order of the Gauntlet assembled its senior members at the Halls of Justice t
 
 ## Read Aloud
 
+> [!narrative]
 > The hall is stone-still, six Order members and two priests standing in silence on either side of the altar. Sister Valdra is at the end of the line.
 >
 > Savra draws her sword and holds it flat across both hands.

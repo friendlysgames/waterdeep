@@ -73,10 +73,14 @@ A pause. The silence fills in what she left out.
 
 She waits to see if the party has questions. She answers concisely.
 
-**What Jeryth will discuss:**
-- Whether the presence is dangerous: "It is capable of harm. It is not pursuing it. It is orienting."
-- Whether it knows who the party is: "It knows the Stone. It does not know you. Those are two different things."
-- Whether she can stop it: She is silent for a moment. "I am managing it. That is different from stopping it."
+> [!dialogue]**Is the presence dangerous?**
+> "It is capable of harm. It is not pursuing it. It is orienting."
+
+> [!dialogue]**Does it know who we are?**
+> "It knows the Stone. It does not know you. Those are two different things."
+
+> [!dialogue]**Can you stop it?**
+> She is silent for a moment. "I am managing it. That is different from stopping it."
 
 **Request:** Jeryth has traced the nightmare source: two intellect devourers occupying the cistern tunnel beneath Selduth Street in the Trades Ward, using the water flow to reach sleeping minds. The party should descend into the tunnel and destroy both before either implants a larva in one of the affected workers.
 

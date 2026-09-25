@@ -34,6 +34,9 @@ She leads them up the stairs regardless of history. She's professional about it.
 
 The curtained room on the second floor holds a table, two chairs, and a decanter. Davil's lute leans against the wall, not in his hands, just there. The charm bracelet on his wrist rattles softly when he pours.
 
+> [!npc-narrative]**Davil Starsong**
+> The sun elf behind the table pours without waiting to be asked. A lute leans against the wall behind him, unplayed. The charm bracelet on his wrist — hung with small trophies from killed monsters — rattles softly as he sets down the decanter.
+
 He pours without asking.
 
 > > "I'm Davil Starsong. I run the Doom Raiders — the Zhentarim cell that actually works for a living."
@@ -88,6 +91,7 @@ A flying snake delivered a note to Trollskull Manor: Davil Starsong wants a word
 
 ## Read Aloud
 
+> [!narrative]
 > The Yawning Portal: loud, smoky, full of people pretending they aren't watching the well. Yagra Stonefist is at the bar, one hand around a tankard, watching the door as though she knew exactly when you'd come through it.
 
 ## Summary

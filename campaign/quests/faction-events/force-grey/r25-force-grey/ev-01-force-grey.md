@@ -50,6 +50,9 @@ A pause. The Blackstaff leans against the corner of the desk where it always is.
 
 The veteran assigned to mission support is a grey-haired dwarf standing near the window with the patient quiet of someone who has long since stopped needing to prove anything. Rhendar Solne. Eleven years with Force Grey, field-scarred, two words at a time.
 
+> [!npc-narrative]**Rhendar Solne**
+> A grey-haired dwarf stands near the window with the patient quiet of someone who has long since stopped needing to prove anything. Field-scarred. Eleven years with Force Grey. He acknowledges the party with a single nod and says nothing else.
+
 > > "Rhendar. One mission per quest, up to seven days. You run the operation; he follows your lead. He reports to me on return."
 
 Rhendar nods once. He does not elaborate.

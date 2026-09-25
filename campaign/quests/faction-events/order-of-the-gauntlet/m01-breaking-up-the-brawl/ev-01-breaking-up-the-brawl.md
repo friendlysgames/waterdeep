@@ -72,6 +72,7 @@ A standoff in a Field Ward market square — four paid thugs, a cornered Guild d
 
 ## Read Aloud
 
+> [!narrative]
 > The square is loud before it is visible. When you round the corner, you see the reason: four heavyset men have backed a slight figure and his two companions against a grain stall. A loose ring of locals surrounds them, keeping a careful distance. The barking is coming from a brown dog pressed flat against the far wall, looking uncertain about all of this.
 
 ## Summary

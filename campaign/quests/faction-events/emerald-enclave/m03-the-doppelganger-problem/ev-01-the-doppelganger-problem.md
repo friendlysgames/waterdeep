@@ -82,6 +82,7 @@ Five doppelgangers are operating freely out of the Yawning Portal. One is sellin
 
 ## Read Aloud
 
+> [!narrative]
 > A falcon arrives at Trollskull Manor — Jeryth's choice for urgent work. The briefing: "Doppelgangers are operating out of the Yawning Portal. Shapeshifters of no fixed loyalty, moving freely through the city while four factions compete for the same ground. The Enclave cannot permit it. They need to leave Waterdeep. Peacefully, if possible."
 >
 > A postscript, in Melannor's own voice rather than the bird's flat delivery: "Jeryth said 'peacefully if possible' three times. I'm including that in case it's useful."

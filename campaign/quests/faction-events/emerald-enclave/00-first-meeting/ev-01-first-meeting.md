@@ -31,27 +31,39 @@ The cat disappears before the party can respond. Any character who watches it go
 
 Phaulkonmere's gate stands open when the characters arrive. **Melannor Fellbranch** (Neutral Good, Half-Elf Druid, he/him), the estate's groundskeeper, greets them with a nod and leads them in without pleasantries. He is humorless. He considers the work more important than the company.
 
-The gardens feel older than the maintained civic greenery of the Sea Ward. Melannor walks without hesitation. He is ready to discuss the following topics:
+> [!npc-narrative]**Melannor Fellbranch**
+> A half-elf in plain outdoor clothes stands just inside the gate, watching your approach with the patience of someone who accurately predicted what they would see. He greets you with a nod and leads you in without pleasantries. His voice, when it comes, is a low baritone. He considers the work more important than the company, and he makes no attempt to conceal this.
 
-- **The Enclave's purpose.** The Enclave's concern is disruption to the natural order. Scenic preservation is beside the point. Someone is releasing monsters into the city sewers; construction is disrupting ley lines that have held stable for centuries. These are concrete problems that require solving.
+The gardens feel older than the maintained civic greenery of the Sea Ward. Melannor walks without hesitation.
 
-- **The beholder.** Melannor mentions Xanathar's Guild directly. A beholder operating below the city is an aberrant creature with no business in any ecosystem. His tone carries no alarm. A practical problem, presently unresolved.
+> [!dialogue]**What does the Enclave actually care about?**
+> The Enclave's concern is disruption to the natural order. Scenic preservation is beside the point. Someone is releasing monsters into the city sewers; construction is disrupting ley lines that have held stable for centuries. These are concrete problems that require solving.
 
-- **The party.** He watched their handling of the Xanathar sewer hideout during **Finding Floon**. He found it instructive. He does not elaborate on what the instruction was.
+> [!dialogue]**What about the beholder?**
+> Melannor mentions Xanathar's Guild directly. A beholder operating below the city is an aberrant creature with no business in any ecosystem. His tone carries no alarm. A practical problem, presently unresolved.
 
-Any character who presses Melannor on the Enclave's position regarding the vault gold and makes a successful DC 12 Charisma (Persuasion) check hears the plain answer: the gold belonged to Waterdeep before Lord Neverember took it and will belong to Waterdeep again. That question is for the Lords to settle.
+> [!dialogue]**Why us?**
+> He watched their handling of the Xanathar sewer hideout during **Finding Floon**. He found it instructive. He does not elaborate on what the instruction was.
+
+> [!dialogue]**What is the Enclave's position on the vault gold?**
+> The gold belonged to Waterdeep before Lord Neverember took it and will belong to Waterdeep again. That question is for the Lords to settle.
+
+A successful **DC 12 Charisma (Persuasion)** check is required to draw this answer out of him.
 
 ### Jeryth's Voice
 
 Midway through the gardens, a woman's voice arrives from the direction of the oldest oak, or perhaps not from any direction at all.
 
-**Jeryth Phaulkon** (Neutral Good, disembodied presence, she/her) is the Chosen of Mielikki and the patron of this estate. Her voice reaches the characters from no fixed direction. She is present throughout the estate and has reason to speak to them now. She is ready to discuss the following topics:
+**Jeryth Phaulkon** (Neutral Good, disembodied presence, she/her) is the Chosen of Mielikki and the patron of this estate. Her voice reaches the characters from no fixed direction. She is present throughout the estate and has reason to speak to them now.
 
-- **Phaulkonmere as sanctuary.** Anyone the party brings here is under the estate's protection. No faction will openly move against them while they stand in these gardens. This is not a rule Jeryth enforces; it is a fact she has established.
+> [!dialogue]**Is Phaulkonmere truly safe?**
+> Anyone the party brings here is under the estate's protection. No faction will openly move against them while they stand in these gardens. This is not a rule Jeryth enforces; it is a fact she has established.
 
-- **The disturbance below.** There is a psychic presence in the earth beneath the Castle Ward. Old. Patient. She has been absorbing and deflecting it for months, and it has been intensifying. She does not know its name yet, but she knows it is connected to whatever is stirring below the city.
+> [!dialogue]**What is the disturbance below?**
+> There is a psychic presence in the earth beneath the Castle Ward. Old. Patient. She has been absorbing and deflecting it for months, and it has been intensifying. She does not know its name yet, but she knows it is connected to whatever is stirring below the city.
 
-- **What she asks.** Reports on aberrant creature activity anywhere in the city. Awareness of any mind-touched citizens or unusual behavior near the sewers. One specific request: that the Stone of Golorr, if the party acquires it, not remain in Waterdeep longer than necessary.
+> [!dialogue]**What do you need from us?**
+> Reports on aberrant creature activity anywhere in the city. Awareness of any mind-touched citizens or unusual behavior near the sewers. One specific request: that the Stone of Golorr, if the party acquires it, not remain in Waterdeep longer than necessary.
 
 Jeryth speaks rarely and precisely. When she has said what she needs to say, she stops.
 
@@ -81,6 +93,7 @@ The party receives a verbal invitation delivered by a white cat and follows it t
 
 ## Read Aloud
 
+> [!narrative]
 > A white cat appears at the window one morning. It settles on the sill with the composure of someone who has no doubt they will be seen, and when a character draws close enough, it speaks in a man's low baritone.
 >
 > > "Melannor Fellbranch, Phaulkonmere. The gate will be open when you arrive. The gardens are worth seeing."
@@ -89,6 +102,7 @@ The party receives a verbal invitation delivered by a white cat and follows it t
 
 ---
 
+> [!narrative]
 > Phaulkonmere's gate is open. A half-elf in plain outdoor clothes stands just inside, watching your approach with the patience of someone who accurately predicted what they would see. He turns without greeting and leads you in.
 >
 > The estate smells of wet earth and something older. The paths curve farther than the property seems to have room for.

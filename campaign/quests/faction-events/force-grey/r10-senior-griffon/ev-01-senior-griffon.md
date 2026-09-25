@@ -43,6 +43,9 @@ She produces a *wand of secrets* — standard issue, Tower markings carved into 
 
 Waiting near the door: a researcher from Vajra's reference division, with the particular quality of someone trained to listen in rooms full of people talking. Young, focused, quietly attentive. Vajra makes the introduction in three words: *"Aldris Maeven. Arcane support."*
 
+> [!npc-narrative]**Aldris Maeven**
+> A researcher from Vajra's reference division stands near the door, with the particular quality of someone trained to listen in rooms full of people talking. Young, focused, quietly attentive. She shakes hands once and says very little. That seems about right.
+
 > > "She'll meet your party at a location of your choosing, work within your operational context, and deliver a debrief on return. She is not a member of your party. She is Tower staff on loan."
 
 The city official benefit next. Vajra explains it as a structural fact, not a perk:

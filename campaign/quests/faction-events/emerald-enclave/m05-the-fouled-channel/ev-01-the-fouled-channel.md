@@ -82,6 +82,7 @@ Phaulkonmere's herb beds are dying overnight, and the source is in the Castle Wa
 
 ## Read Aloud
 
+> [!narrative]
 > Three mornings in a row, Melannor finds a patch of dead herbs in the beds closest to Phaulkonmere's eastern wall — each patch slightly larger than the last. Jeryth has said nothing, which he has learned to read as concern.
 >
 > He summons you in person. "Something is wrong underground. I can feel it in the garden; Jeryth can feel it in the water table. We need to find the source before it reaches the deeper root systems." He has one lead: the drainage tunnel below the Undercliff southern terraces that Gerrick Goodbarrel described. "If something is moving through the underground water, that tunnel is the path."

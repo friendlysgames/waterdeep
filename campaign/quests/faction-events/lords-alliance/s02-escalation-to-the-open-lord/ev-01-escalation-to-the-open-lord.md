@@ -41,6 +41,7 @@ The party finds Jalester at the Yawning Portal — his usual position at a table
 
 He listens without interrupting. Read or paraphrase the following when the party finishes:
 
+> [!narrative]
 > Jalester sets down his pen. He looks at the notes he has been taking while they spoke, then at nothing for a moment. It is the longest pause you have seen from him.
 >
 > Then he picks the pen back up.
@@ -106,6 +107,7 @@ The party brought Jalester Silvermane a complete intelligence brief: the Stone o
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester is at his usual table near the far wall of the Yawning Portal, a drink at his elbow and a pen in his hand. He listens without interrupting. When the party finishes, he sets the pen down.
 >
 > He does not say anything for a moment. He looks at his notes, then at nothing in particular.

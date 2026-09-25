@@ -90,13 +90,14 @@ A nervous household steward has intelligence worth having. A Cassalanter investi
 
 ## Read Aloud
 
+> [!narrative]
 > Krebbyg is at Seven Masks with a different bearing than usual — something has become time-sensitive.
 >
-> > > "There's a man named Brimel Crestfall. Household steward to the Cassalanters. He's been paid to deliver information about a property his employers use in the North Ward — a converted windmill. He's ready. But someone from House Cassalanter is watching him."
+> > "There's a man named Brimel Crestfall. Household steward to the Cassalanters. He's been paid to deliver information about a property his employers use in the North Ward — a converted windmill. He's ready. But someone from House Cassalanter is watching him."
 >
 > He looks at the party.
 >
-> > > "The handoff needs to happen tonight. Zardoz Zord has a performance at the theater at nine. Brimel has a ticket. The watcher does not have reason to move yet. Section C, row four. When the first number starts: ask him if the Faire's previous stop was Luskan."
+> > "The handoff needs to happen tonight. Zardoz Zord has a performance at the theater at nine. Brimel has a ticket. The watcher does not have reason to move yet. Section C, row four. When the first number starts: ask him if the Faire's previous stop was Luskan."
 
 ## Summary
 

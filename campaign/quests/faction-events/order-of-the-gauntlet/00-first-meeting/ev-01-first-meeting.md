@@ -23,6 +23,9 @@ The two targets she names give the party a preview of where the campaign is head
 
 ### The Knock
 
+> [!npc-narrative]**Savra Belabranta**
+> A woman in her late twenties with dark hair worn back and a strong jaw. She wears a long coat, no visible armor, but carries herself like armor is something she's accustomed to. She takes a moment to look at each of you before she speaks.
+
 Savra arrives without a letter sent ahead. She knocks once. The sound carries its own patience.
 
 When the door opens, she takes a moment to look at whoever answers before she speaks.
@@ -43,19 +46,26 @@ She states what the work costs. Some of it will happen in places the city would 
 
 #### Answering Questions
 
-Characters who ask why she's approaching them specifically: *"I look for people who hold a line when it costs them something. You've been in Waterdeep long enough to have shown me what I needed to see."*
+> [!dialogue]**Why are you approaching us specifically?**
+> "I look for people who hold a line when it costs them something. You've been in Waterdeep long enough to have shown me what I needed to see."
 
-Characters who ask about the unnamed family get what she's willing to say: *"A Sea Ward family. Leave it there for now."* A **DC 14 Charisma (Persuasion)** check draws out: *"Their charity doesn't trace to any principle I've been able to verify. Their Watch inquiries get closed before completion. That pattern doesn't happen by accident."* On a failure, she holds: *"When I'm ready to name them, I will."*
+> [!dialogue]**Who is this Sea Ward family?**
+> "A Sea Ward family. Leave it there for now."
 
-Characters who ask about the beholder get more. Savra's combat knowledge of Xanathar's Guild operatives is specific and current. She'll share it.
+A **DC 14 Charisma (Persuasion)** check draws out: *"Their charity doesn't trace to any principle I've been able to verify. Their Watch inquiries get closed before completion. That pattern doesn't happen by accident."* On a failure, she holds: *"When I'm ready to name them, I will."*
 
-Characters who push back on the targets get the same answer framed a different way. She'll discuss approach and timing. She won't walk back what the targets are.
+> [!dialogue]**What do you know about the beholder operation?**
+> Savra's combat knowledge of Xanathar's Guild operatives is specific and current. She'll share it.
+
+> [!dialogue]**What if we push back on the targets?**
+> She'll discuss approach and timing. She won't walk back what the targets are.
 
 ### The Darker Exchange
 
 Any character who asks why Savra joined the Order — and takes the time to ask as if they actually want to know — gets a direct answer.
 
-*"I was in a cult. The Howling Hatred."* She doesn't qualify it, doesn't explain what led her there. *"I left. The Order took me in after. That's the shape of it."*
+> [!dialogue]**Why did you join the Order?**
+> "I was in a cult. The Howling Hatred." She doesn't qualify it, doesn't explain what led her there. "I left. The Order took me in after. That's the shape of it."
 
 She doesn't say what she did inside the cult. She's watching what the party does with what she's just told them. Characters who treat it as context about a person and move on earn a single measured nod — her tell for when someone has said or done something true. Characters who treat it as leverage have her attention in a different way. She won't name what she noticed.
 
@@ -105,6 +115,7 @@ Savra Belabranta arrived at Trollskull Manor without warning and laid out the Or
 
 ## Read Aloud
 
+> [!narrative]
 > The knock is unhurried. When you open the door, a woman in her late twenties stands in the frame — dark hair worn back, a long coat, no visible armor, but carrying herself like armor is something she's accustomed to. She takes a moment to look at you before she speaks.
 >
 > > "Savra Belabranta. Order of the Gauntlet. I'd like five minutes."

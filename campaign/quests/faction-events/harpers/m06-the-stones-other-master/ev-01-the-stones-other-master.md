@@ -30,11 +30,15 @@ He is asking. He looks tired.
 
 He explains what he knows: the Stone holds a consciousness, not just a map. That consciousness is connected to something old and patient below the city. "If you open the vault while that connection is active, you may be giving it what it has been waiting for."
 
-**If pressed directly** — a PC who asks what else he knows, or who explicitly points out that he is holding something back — he tells them the rest. The Stone may identify psychically compromised individuals. He cannot promise the results will not touch someone the party trusts.
+> [!dialogue]**What aren't you telling us?**
+> The Stone may identify psychically compromised individuals. He cannot promise the results will not touch someone the party trusts.
 
 **Negotiating the terms:** The party can agree outright, negotiate for added intelligence, or refuse. Negotiating yields: Mirt shares Harper intelligence about the vault's secondary safeguards — things not visible on the ceremonial lock — in exchange for access. He will share this even if he is not fully trusted; he needs the three days more than he needs the upper hand.
 
-**Refusing outright:** Mirt accepts it. "I understand. Keep it safe." He stays for the Splinter raid — he was already in the building, and he is not going to leave them to it — then departs afterward.
+**Refusing outright:** Mirt accepts it. He stays for the Splinter raid — he was already in the building, and he is not going to leave them to it — then departs afterward.
+
+> [!dialogue]**We won't give you the Stone.**
+> "I understand. Keep it safe."
 
 ### Phase 2 — The Raid
 
@@ -95,11 +99,12 @@ Something woke up when the party used the Stone. Mirt wants three days with it b
 
 ## Read Aloud
 
+> [!narrative]
 > After midnight. Mirt comes in through the front door this time, and he sits in the taproom with an untouched drink until someone comes downstairs.
 >
 > When you appear, he looks up. He looks tired.
 >
-> > > "Something woke up when you used the Stone. One of our seers felt it — something below the city. I need three days with the Stone before you use it to open the vault. I'll give it back. You have my word."
+> > "Something woke up when you used the Stone. One of our seers felt it — something below the city. I need three days with the Stone before you use it to open the vault. I'll give it back. You have my word."
 >
 > He is asking.
 

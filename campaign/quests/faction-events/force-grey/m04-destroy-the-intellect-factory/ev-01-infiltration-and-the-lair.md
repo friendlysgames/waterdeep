@@ -93,6 +93,7 @@ The party infiltrates Xanathar's Lair through one of three routes and navigates 
 
 ## Read Aloud
 
+> [!narrative]
 > The potions are on Vajra's desk when you arrive — one each, labeled in her hand. She places the last one down and straightens.
 >
 > > "The pool is eight feet across, four feet deep, slightly luminescent. Three devourers developing in the fluid. Destroy the pool and all three. Come back." She pauses. "I will cover the cost of any *raise dead* spells that become necessary."

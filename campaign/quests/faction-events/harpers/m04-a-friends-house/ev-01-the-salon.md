@@ -21,7 +21,20 @@ Jarlaxle has accepted Remallia's invitation through a mutual acquaintance she do
 
 ### Arriving at Haventree Villa
 
-Haventree Villa is in the Sea Ward, three stories, with a garden courtyard open to the evening air. Remallia greets the party personally when they arrive. She introduces herself. If a PC asks how she knows Mirt: "Oh, we've worked together for years." She does not elaborate. Mirt, if asked the same question later: "Remi and I go back." He also does not elaborate. Let the implication settle.
+Haventree Villa is in the Sea Ward, three stories, with a garden courtyard open to the evening air. Remallia greets the party personally when they arrive. She introduces herself.
+
+> [!npc-narrative]**Remallia "Remi" Haventree**
+> A sun elf woman moving through the arriving guests with the ease of someone who has run these events for thirty years — greeting each person personally, remembering details about their lives, asking better questions than she answers. She is watching the party more carefully than she appears to be. She is gracious in a way that takes work.
+
+> [!dialogue]**How do you know Mirt?**
+> "Oh, we've worked together for years."
+
+She does not elaborate. Mirt, if asked the same question later:
+
+> [!dialogue]**How do you know Remi?**
+> "Remi and I go back."
+
+He also does not elaborate. Let the implication settle.
 
 Mirt is stationed near the wine. He gives the PCs the task privately when the moment allows — usually within the first thirty minutes.
 
@@ -48,6 +61,9 @@ Mirt is stationed near the wine. He gives the PCs the task privately when the mo
 > ***Relationships.*** Jarlaxle has been monitoring Mirt Rundlestone's network for three months. He regards the party as interesting new data points in a picture he is still assembling.
 
 **Identifying Erystian Demarne:**
+
+> [!npc-narrative]**Erystian Demarne**
+> A man in clothes of extraordinary quality for a working poet — charming, improbably knowledgeable, socially at ease in a room he appears to have read completely before he arrived. The companion beside him defers with a precision that reads more like a personal guard than a fellow traveler. His Luskan accent is plausible, slightly formal, and learned.
 
 Clues available without a roll:
 - His clothes are of extraordinary quality for a working poet
@@ -149,6 +165,7 @@ A Sea Ward salon at Haventree Villa. Someone in the room is not who they appear 
 
 ## Read Aloud
 
+> [!narrative]
 > A formal invitation arrives at Trollskull Manor — heavy paper, Sea Ward seal, Haventree crest. Lady Remallia Haventree requests the pleasure of your company at a salon dinner at her estate.
 >
 > A shorter note arrives the same afternoon, in Mirt's cramped handwriting: *"Go. Dress well. Someone in that room is not who they appear to be."*

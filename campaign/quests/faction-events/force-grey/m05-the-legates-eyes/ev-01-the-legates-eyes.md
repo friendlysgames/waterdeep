@@ -76,6 +76,7 @@ Three Watch magistrates have reversed significant rulings. All three benefit the
 
 ## Read Aloud
 
+> [!narrative]
 > Vajra's Sending arrives mid-afternoon:
 >
 > > "Three Watch magistrates. Reversed significant rulings. Past month. All benefiting Guild interests. I need you at the Tower tonight."

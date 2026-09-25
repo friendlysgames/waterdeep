@@ -20,6 +20,9 @@ He delivers this pitch in person because the Alliance has had operatives go dark
 
 ### Seeking Out the Party
 
+> [!npc-narrative]**Jalester Silvermane**
+> A lean man with thinning hair and a dark doublet, collar fastened. His questions will prove more specific than the setting warrants. He asks for a few minutes and does not order food or drink.
+
 Jalester finds the party at a publicly accessible spot — the Yawning Portal's common room, or Trollskull Manor's front if they rarely leave the alley. Either way, far enough from anyone likely to listen closely. He wears a dark doublet, collar fastened. He asks for a few minutes. He does not order food or drink.
 
 > > "You were at the warehouse on Candle Lane. The Xanathar Guild was doing what the Guild does to the people they bring down. You did not leave."
@@ -32,7 +35,17 @@ His terms come without preamble. The Lords' Alliance needs operatives who can wo
 
 He answers questions without volunteering more than he has been asked.
 
-If asked who he reports to: Laeral Silverhand. If asked what the Alliance wants: people who treat Waterdeep's stability as a value rather than an obstacle. If asked what it pays: Alliance support, which compounds over time in ways coin does not. If pressed on specifics, he says the first assignment will show what the arrangement looks like in practice.
+> [!dialogue]**Who do you report to?**
+> Laeral Silverhand.
+
+> [!dialogue]**What does the Alliance want from us?**
+> People who treat Waterdeep's stability as a value rather than an obstacle.
+
+> [!dialogue]**What does it pay?**
+> Alliance support, which compounds over time in ways coin does not.
+
+> [!dialogue]**What does that look like in practice?**
+> The first assignment will show what the arrangement looks like in practice.
 
 ### The Condition
 
@@ -50,7 +63,10 @@ He waits three seconds. Then he leaves.
 
 Jalester will explain his reasoning once, without defensiveness. The Alliance has had operatives go dark on critical operations, treating assignments as suggestions. He describes the arrangement accurately so they can decide accurately. He wants their answer to be informed.
 
-He will not move on the condition itself. He will, if asked, describe the procedure for an operative who believes an assignment is wrong: bring the objection to him directly, before acting independently. He will hear it.
+He will not move on the condition itself.
+
+> [!dialogue]**What if we think an assignment is wrong?**
+> Bring the objection to him directly, before acting independently. He will hear it.
 
 ### Declining
 
@@ -76,6 +92,7 @@ Jalester Silvermane sought out the party, cited the **Finding Floon** warehouse 
 
 ## Read Aloud
 
+> [!narrative]
 > Jalester finds you at the edge of the room — close enough to speak plainly, far enough from anyone who would listen. Dark doublet, collar fastened, nothing in front of him. He asks for a few minutes.
 >
 > > "You were at the warehouse on Candle Lane. The Xanathar Guild was doing what the Guild does to the people they bring down. You did not leave."

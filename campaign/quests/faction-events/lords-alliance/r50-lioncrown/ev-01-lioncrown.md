@@ -12,13 +12,13 @@
 > - Laeral introduces **Sevel Dastar**, the dedicated attaché, and explains his terms. The character decides whether to accept him.
 > - At the close, alone with the character, Laeral makes a private request about missing Alliance agents in Undermountain. The character decides whether to accept the commission.
 >
-> > > [!design]**Expected During Dungeon of the Mad Mage**
-> > >
-> > > Parties are not expected to reach Renown 50 during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after the vault has resolved and the campaign descends into Undermountain. It is written to function in both contexts.
-> > >
-> > > **If Vault of Dragons has not yet resolved:** The three questions and Laeral's answers concern the Grand Game's current state. The Undermountain Commission is framed as contingency — "if your path leads there." Sevel Dastar can be deployed for the vault approach if the character accepts him.
-> > >
-> > > **If Vault of Dragons has already resolved:** Laeral's honest answers address what the vault resolution changed — politically, institutionally, and for the characters personally. The Undermountain Commission is concrete rather than speculative. The attaché is assigned for the descent.
+> > [!design]**Expected During Dungeon of the Mad Mage**
+> >
+> > Parties are not expected to reach Renown 50 during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after the vault has resolved and the campaign descends into Undermountain. It is written to function in both contexts.
+> >
+> > **If Vault of Dragons has not yet resolved:** The three questions and Laeral's answers concern the Grand Game's current state. The Undermountain Commission is framed as contingency — "if your path leads there." Sevel Dastar can be deployed for the vault approach if the character accepts him.
+> >
+> > **If Vault of Dragons has already resolved:** Laeral's honest answers address what the vault resolution changed — politically, institutionally, and for the characters personally. The Undermountain Commission is concrete rather than speculative. The attaché is assigned for the descent.
 
 **Background (GM only)**
 
@@ -50,6 +50,7 @@ A formal note arrives two days before — wax-sealed vellum, in Jalester's handw
 
 The annex room is smaller than the audience chamber used in **Mission 6**. Scarred table, four chairs, a cabinet of Alliance documents, a fire that has been burning long enough to warm the stone walls. It is where Laeral actually works. **Laeral Silverhand** is at the head of the table. **Jalester Silvermane** stands to one side. A third figure, compact and watchful, stands near the cabinet.
 
+> [!narrative]
 > Laeral does not rise when you enter. She looks at you once, then at the chair across from her.
 >
 > > "Lioncrown. Sit down."
@@ -170,6 +171,7 @@ Laeral Silverhand promoted the character to Lioncrown, the highest rank of the L
 
 ## Read Aloud
 
+> [!narrative]
 > The summons says "private Alliance business." The room at Piergeiron's Palace does not look like where the Open Lord receives petitioners. It looks like where she actually works — scarred table, cabinet of files, a fire that has been burning for hours. Laeral Silverhand is at the far end, and she looks at you once when you enter.
 >
 > > "Lioncrown. Sit down."

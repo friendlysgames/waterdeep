@@ -75,6 +75,7 @@ The tenth dawn brings a name and a question underneath the Brandath family vault
 
 ## Read Aloud
 
+> [!narrative]
 > Sir Ambrose is already at the central gate path when you arrive. The northern section has been quiet since the third hour — not empty, but still, as if whatever was moving through it decided to wait instead.
 >
 > He hears your report. Then he looks north.

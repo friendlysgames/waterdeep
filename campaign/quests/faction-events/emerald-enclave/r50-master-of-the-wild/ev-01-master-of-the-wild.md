@@ -136,6 +136,7 @@ After reaching Renown 50 with the Emerald Enclave, three animals arrive in silen
 
 ## Read Aloud
 
+> [!narrative]
 > Three animals arrive without explanation: a grey pigeon on the window ledge, a white cat in the street below, an owl on the rooftop across the way. None of them speak. They look at you and wait.
 >
 > When you reach Phaulkonmere, six people are standing in the garden's broadest clearing — rangers and druids, armed for field work, standing the way people stand when they've been waiting long enough for ceremony to pass. Melannor is nearest the path. He nods.

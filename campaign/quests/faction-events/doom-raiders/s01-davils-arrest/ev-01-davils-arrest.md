@@ -39,6 +39,9 @@ Within forty-eight hours, a second flying snake arrives. This one carries a time
 
 Tashlyn chooses the meeting place: a quiet corner of a taproom in the South Ward, away from the Guard's usual circuit. She's already seated when the party arrives, her back to the wall, a cup she hasn't touched in front of her. She doesn't stand.
 
+> [!npc-narrative]**Tashlyn Yafeera**
+> A compact Calishite woman, already seated when the party arrives, her back to the wall, a cup she hasn't touched in front of her. She does not stand. She is precise and quick enough to anger in a way that her stillness does not hide.
+
 Her first words to them:
 
 > > "Davil talked too much and trusted too easily. I won't make that mistake."
@@ -94,6 +97,7 @@ Two days after Gralhund Villa, the Watch's Zhentarim sweep catches Davil Starson
 
 ## Read Aloud
 
+> [!narrative]
 > The broadsheet is two days old. Outside, the Watch is running men in black leather out of every ward in the city. Somewhere in a holding cell at Castle Waterdeep, Davil Starsong is doing what he does best: making himself hard to pin down.
 >
 > A flying snake finds you wherever you're staying. The handwriting on the scroll is not his.
