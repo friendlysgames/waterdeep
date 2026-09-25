@@ -18,14 +18,13 @@ Yagra Stonefist is at the bar when the party arrives, one hand around a tankard,
 
 How she greets them depends on what happened during **The Yawning Portal** Event in **Finding Floon**.
 
-| **Finding Floon** outcome | Her line |
+| **Finding Floon** outcome | Her greeting |
 |---|---|
 | **Helped her fight** (Yagra Courteous: True) | She sets the tankard down and looks them over, revising an earlier estimate. *"Good punch. Better timing. He's upstairs."* |
-| **Stopped her early** (Yagra Courteous: False) | A glance over, not fully turning. No grudge, no warmth. *"You got in the way. Still, you showed up. He's upstairs."* She doesn't say who. |
 | **Sided with the Guild** (Yagra Courteous: False) | She holds the look for a beat before speaking. *"Davil sent for you. I'm delivering the message. That's all this is."* She doesn't wait for a response. |
-| **Stayed out and she won** (Yagra Courteous: False) | A neutral nod, the kind that means nothing except recognition. *"You let me work. Smart. He's upstairs."* |
-| **Stayed out and she lost** (Yagra Courteous: False) | She turns from the bar and studies them for two full seconds. *"I know what you are. Come on."* Not an accusation. A category. |
-| **Tried to broker peace** (DC 16 Persuasion succeeded; Yagra Courteous: True) | A slight drop in her shoulders, the closest she gets to ease with someone new. *"Nice words, that night. Davil's going to want to hear more. He's upstairs."* |
+| **Stayed out** (Yagra Courteous: False) | She turns from the bar and assesses them the same way she did when she came round that night. *"Watchers."* A pause. *"He's upstairs."* |
+| **Tried to broker peace — DC 16 succeeded** (Yagra Courteous: True) | A slight drop in her shoulders, the closest she gets to ease with someone new. *"Nice words, that night. Davil's going to want to hear more. He's upstairs."* |
+| **Tried to broker peace — DC 16 failed** (Yagra Courteous: False) | A look that says she remembers. *"You tried to stop it. I heard you. Didn't work."* She was beaten anyway. She doesn't add that part. |
 
 If **Yagra Courteous** is True, she may have already mentioned Davil's name back in **Finding Floon**. If the party mentions that's why they've come, she raises an eyebrow and says nothing. That means she's pleased.
 
