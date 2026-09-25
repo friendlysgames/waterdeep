@@ -48,18 +48,17 @@ For parties who understood what they reported, the silence is confirmation. For 
 
 ### Concluding the Event
 
-#### BD Contact Severed: True
-Already set in **Trollskull Alley** (**The Factions Come Calling** Event). This event records the downstream consequences. Read in **Sea Maidens Faire**: determines which resolution paths are available (Path 1 only) and confirms the Zardoz Betrayal Pitch condition is not met.
+#### BD Contact Severed: True / False
+
+**True:** The party reported BD's surveillance to the Watch. Set in **Trollskull Alley** (**The Factions Come Calling** Event) or the **Bregan D'aerthe — First Meeting** Event. BD membership is closed for the campaign. Read in **Sea Maidens Faire**: Path 2 (Alliance) and Path 3 (Patron) are closed; the Zardoz Betrayal Pitch does not fire; Path 1 (Heist) remains available.
+
+**False:** The party did not report the watchers, or the First Meeting proceeded normally. BD membership is available. This event does not fire.
 
 > **[GM]**
 >
 > #### Next Steps
 >
 > No sequel within the BD faction sequence. Proceed through the campaign normally. In **Sea Maidens Faire** Scene 3 (Preparation), when listing the three resolution paths and the Zardoz Betrayal Pitch trigger conditions, reference this flag: Path 2 and Path 3 are closed, the Pitch condition fails, Path 1 is the only route.
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
 
 ## Overview
 
