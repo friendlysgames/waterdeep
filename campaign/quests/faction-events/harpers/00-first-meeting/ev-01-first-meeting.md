@@ -1,80 +1,110 @@
 # Harpers First Meeting
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social Event occurs when at least one Good-aligned party member receives the paper bird invitation during **The Factions Come Calling** Event. Renaer's vouching is the prerequisite; the paper bird does not arrive until Renaer has named the party to Mirt. In this Event, the party can:
 >
-> This Social Event fires when at least one Good-aligned party member receives the paper bird invitation during **The Factions Come Calling** Event. Renaer's vouching is the prerequisite; the paper bird does not arrive until Renaer has named the party to Mirt. In this Event:
+> - Receive an unsigned theater invitation at Trollskull Manor, delivered by a trained paper bird
+> - Be outfitted by a Delzorin Street tailor before curtain
+> - Spend Act 1 at Lightsinger Theater with Mirt, who watches the party as attentively as he watches the stage
+> - Learn what the Harpers are, plainly and without embellishment, at intermission
+> - Accept or decline membership; if they accept, receive the silver harp-and-crescent pin
 >
-> - A paper bird delivers theater tickets and a request to meet in Private Box C at Lightsinger Theater at intermission; a Delzorin Street tailor has been instructed to outfit them
-> - Mirt watches Act 1 from the shadowed half of the box, saying little, measuring who speaks first and who watches the exits
-> - At intermission, he explains the Harpers plainly: their purpose, their method, who they answer to
-> - He does not mention the Stone of Golorr, Manshoon, or the shape of the Grand Game at this meeting
-> - Characters who accept find a silver harp-and-crescent pin already in his hand before they have finished answering
-> - His parting words are *"I am almost never home"* — warm and immediately final
-
-**Background (DM only)**
-
-Mirt has followed the party's movements since Renaer named them. He does not recruit strangers; Renaer's vouching converts persons of interest into candidates worth a theater ticket. The assessment happens before any assignment is offered.
-
-Mirt has reserved Private Box C for the evening and arranged access in advance. The tailor on Delzorin Street named in the note has been told to expect the party; formal attire will be ready before curtain.
+> #### Preparation
+>
+> Mirt has followed the party's movements since Renaer named them. He does not recruit strangers; Renaer's vouching converts persons of interest into candidates worth a theater ticket. The assessment happens before any assignment is offered.
+>
+> Private Box C at Lightsinger Theater is reserved for the evening. The tailor on Delzorin Street named in the note has been told to expect the party; formal attire will be ready before curtain.
 
 ### The Paper Bird
 
-The paper bird arrives at a Trollskull Manor window with the deliberate patience of something trained. It waits. The note inside unfolds to reveal two tickets to *The Fall of Tiamat*, a direction to the Delzorin Street tailor, and a request to meet in Private Box C at intermission. Formal attire is required; the note specifies the tailor without further explanation.
+The invitation arrives on its own schedule. It comes to a Trollskull Manor window and waits.
 
-The invitation carries no signature and no seal.
+> [!readaloud]
+> The paper bird lands on the sill with the deliberate patience of something trained. It folds its wings and holds still.
+>
+> The note inside unfolds into two tickets for *The Fall of Tiamat* at Lightsinger Theater, a direction to a tailor on Delzorin Street — "they are expecting you" — and a single request: meet in Private Box C at intermission. Formal attire is required.
+>
+> The note carries no signature and no seal.
 
 ### Act 1 at Lightsinger
 
-**Mirt** (Chaotic Good, Illuskan human, he/him), the Old Wolf, a moneylender of prodigious girth who spends his days in politics and his nights in drink and debauchery, is in Private Box C when the party arrives. He has ordered wine for the whole box. He sits back from the rail where the curtain leaves him half in shadow, acknowledging the party's arrival with a brief incline of his head, and turns his attention back to the stage.
+The Delzorin Street tailor has the party's attire ready. When the party arrives at Private Box C, Mirt is already there.
 
-> [!npc-narrative]**Mirt**
-> A large, gray-haired man in excellent wool takes up most of the box, positioned back from the rail where the curtain half-hides him. He has ordered wine for more people than were invited. He acknowledges your arrival with a brief incline of his head and turns back to the stage. He has been measuring something since before you walked in.
-
-He is in no hurry to speak.
-
-During Act 1, he watches the stage and the party in roughly equal measure. His signature gesture is that slight head-tilt, barely a fraction of a degree, as if he is recalculating something. Any character who watches him for an extended period and makes a successful **DC 14 Wisdom (Insight)** check senses that he is measuring the party against specific criteria, though the criteria are not stated and he will not name them if asked.
-
-> [!profile]**Running Mirt**
+> [!readaloud]
+> The box is already occupied when you arrive. A large, gray-haired man in excellent wool sits back from the rail, positioned where the curtain half-hides him. He has ordered wine for more people than were invited.
 >
-> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is amused and calculating, always at once. Characters who treat him as a wealthy eccentric discover their error when the pin appears — already in his hand, already decided.
+> > "Sit. The first act is short."
+>
+> He glances over as you take your seats with a brief, measuring look, then turns back to the stage.
+
+He is in no hurry to speak. Throughout Act 1, he watches the stage and the party in roughly equal measure.
+
+> [!social]**The Old Wolf**
+>
+> Mirt (Chaotic Good, Illuskan human, he/him) :: a moneylender of prodigious girth, known across Waterdeep, with an adventuring past most people mistake for boasting.
+>
+> Mirt's assessment style is oblique: he asks about Waterdeep gossip and whether the party has eaten, not about their motives or credentials. The measure is composure and quiet competence, not a formal vetting. He is amused and calculating, always at once.
+>
+> His signature gesture is a slight head-tilt — barely a fraction of a degree — as if he is recalculating something. Characters who treat him as a wealthy eccentric discover their error when the pin appears: it was already in his hand before they finished answering.
+>
+> Conversation topics Mirt is willing to discuss during Act 1 include:
+> - Waterdeep gossip and local color — freely
+> - Whether the party has eaten — with apparent concern
+> - The production, if anyone comments on it — with genuine opinions
+>
+> Any character who watches Mirt for an extended period and makes a successful DC 14 Wisdom (Insight) check senses that he is measuring the party against specific criteria. The criteria are not stated, and he will not name them if asked.
 
 ### The Intermission
 
-At intermission, Mirt sets down his glass and explains the Harpers. He does not build to it. The Harpers are a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members. He does not tell them what the first mission will be.
+At intermission, Mirt sets down his glass and explains the Harpers. He does not build to it.
 
-Mirt is happy to discuss the following topics during intermission:
+> [!social]**The Offer**
+>
+> Mirt does not sell the Harpers. He describes them: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members. He does not say what the first mission will be.
+>
+> He does not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault, or any element of the Grand Game. This is an assessment, not a briefing.
+>
+> When he has said what he came to say, Mirt waits to hear what questions the party asks. The questions are part of the assessment.
+>
+> Conversation topics Mirt is willing to discuss during intermission include:
+> - What the Harpers are and what they do — directly and without flourish
+> - Renaer Neverember — with brief, genuine warmth; he does not elaborate on how much he trusts him
+>
+> Specific dialogue for Mirt on these topics is presented below.
 
-> [!dialogue]**What can you tell us about the Harpers?**
-> The Harpers are a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members. He does not tell them what the first mission will be.
+> [!qna]**About the Harpers?**
+>
+> > "A network. We work from the shadows. We resist tyranny where we find it — in a guild, in a government, in a man with a title and too much coin. We answer to none of those things."
 
-> [!dialogue]**What do you think of Renaer Neverember?**
-> With brief, genuine warmth. He does not elaborate on how much he trusts him.
+> [!qna]**About Renaer?**
+>
+> Mirt is briefly, genuinely warm.
+>
+> > "Good man. His father's failings don't belong to him."
 
-He does not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault, or anything else from the Grand Game at this meeting. This is an assessment, not a briefing.
+If the party declines, Mirt refills his glass, says nothing further about the Harpers, and leaves when the bell signals the second act. He does not pressure.
 
-When he has said what he came to say, he waits to hear what questions they ask. The questions are part of the assessment.
+If the party accepts, Mirt produces a silver harp-and-crescent pin and presses it into the nearest open hand. He does not make a ceremony of the gesture; the pin was already in his hand before they finished answering.
 
-**If the party declines,** Mirt refills his glass, says nothing further about the Harpers, and leaves when the bell signals the second act. He does not pressure.
+Either way, his parting words are the same. Read or paraphrase the following:
 
-**If the party accepts,** Mirt produces a silver harp-and-crescent pin and presses it into the nearest open hand. He does not make a ceremony of the gesture; the pin was already in his hand before they finished answering.
-
-Either way, his parting words are the same:
-
+> [!readaloud]
 > > *"I am almost never home."*
-
-He is gone before the curtain rises.
+>
+> He is gone before the curtain rises.
 
 ### Concluding the Event
 
-#### Harpers Joined: True / False
+The evening ends when Mirt leaves. Anyone who accepted the pin leaves the theater as a Harper.
 
-True if at least one party member accepted Mirt's offer and received the pin. This flag is read by the **Harpers** Factions guide page (mission unlock), and by the **Harpers Faction Events** missions — beginning with **The Talking Mare** (m01) — to confirm eligibility before each mission dispatch.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Harpers Joined** — mark when at least one party member accepted Mirt's offer and received the pin. Read by the **Harpers** Factions Guide page (mission unlock), and by every Harpers Faction Event beginning with **The Talking Mare** to confirm eligibility before each mission dispatch.
+
+> [!gamemaster]**Next Steps**
 >
 > Characters who accepted the pin are recognized Harpers at Renown 1 (Watcher rank) and gain access to the North Ward safe house through Remi Haventree. **The Talking Mare** becomes available when they reach 2nd level.
 >
@@ -83,13 +113,6 @@ True if at least one party member accepted Mirt's offer and received the pin. Th
 ## Overview
 
 A paper bird delivers two theater tickets to Lightsinger Theater. In Private Box C at intermission, the party meets Mirt — a moneylender of considerable girth who explains the Harpers plainly, watches who asks the right questions, and places a silver pin in the nearest open hand before anyone finishes answering.
-
-## Read Aloud
-
-> [!narrative]
-> The box is already occupied when you arrive. A large, gray-haired man in excellent wool sits back from the rail, positioned where the curtain half-hides him, watching the stage. He has ordered wine for more people than were invited. He glances over as you take your seats with a brief, measuring look and turns back to the stage.
->
-> > "Sit. The first act is short."
 
 ## Summary
 
