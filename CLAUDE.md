@@ -258,6 +258,7 @@ All skill files live in `.claude/skills/`. Load a skill before performing its ta
 | Skill | When to load |
 |---|---|
 | `ember-voice` | **Load for any campaign prose, before drafting or polishing.** The Ember writing voice: measured rhythm targets, the AI-tell catalogue, readaloud/speech/GM/setting voice with verbatim Ember examples, and `scripts/voicecheck.py`. Overrides the rhythm advice in `humanize-prose`, `deslop-text` and `ttrpg-sourcebook-style`. |
+| `character-voices` | **Load whenever writing NPC dialogue, qna answers, readaloud speech or social blocks.** A voice profile for every Notable Figure (sound, sentence shape, word choice, swearing frequency and creativity, quirks, signature phrases, never, sample lines), one doc per faction group in `voices/`. |
 | `adventure-reloaded` | **Load first for any campaign content task** — governs Ember-style modular format, GM/player zones, Milestone Points, cross-document callout syntax, quest openers, scene voice, NPC profile format, design notes philosophy. Load before drafting any quest journal, event file, location journal, keyed room, NPC profile, or design notes page. |
 | `dnd-adventure-text` | Writing any adventure prose: encounter areas, read-aloud text, GM notes, treasure, traps |
 | `foundry-journal` | Any formatted output — always load alongside `dnd-adventure-text` or `ttrpg-sourcebook-style`. Also governs sidebar/callout markup (`[!type]`) in all campaign `.md`, and the `md2html.py`/`assemble.py` scripts that convert a quest journal, location journal, guide, or setting folder to Foundry JSON |
@@ -321,6 +322,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 ### Writing Process
 
 **Ember voice:** All campaign prose is written in Ember's voice (`ember-voice`): plain, generous, flowing sentences (narration about 21 words, NPC speech about 14), NPCs who talk like people, and no punchlines, fragment stacks, tricolons, "not X, more Y", noir subtext or epigrams. Run `python3 .claude/skills/ember-voice/scripts/voicecheck.py <file>` on every drafted file and fix every TELL before committing. (User: "All the boxed text is obviously written by AI, so obvious it hurts." / "we need a proper 'ember voicing' for everything.")
+
+**Adult table, real profanity:** All players are adults. NPC dialogue uses real profanity wherever the character would: fuck, shit, cunt, whatever fits. There are no euphemisms and no "he curses" summaries. Each character's swearing level is set in `character-voices`. Narration stays clean; the swearing is in the speech. (User: "Never be scared to actually use profanity. Say fuck, shit, pussy, cunt, whatever the character needs to say.")
 
 **Prose polish:** After generating any prose — read-aloud text, lore, GM notes, NPC descriptions — always run `deslop-text` and `no-ai-slop` together (they catch different patterns; run both), then `humanize-prose` (voice and rhythm pass). `ember-voice` wins wherever their rhythm advice conflicts with it: never polish prose into short punchy sentences. Run the full pipeline recursively until no violations remain. Deliver only the polished version. Quoted character dialogue is exempt from W-codes and empty-adverb rules — formal or idiosyncratic speech patterns inside quotation marks are intentional character voice.
 

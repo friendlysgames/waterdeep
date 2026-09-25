@@ -28,6 +28,7 @@ If `file` or `brief` is missing, stop and ask for it.
 1. Read `CLAUDE.md` in full. Its standing rules override everything below. Pay particular attention to: 2024 rules only, zero-prep, the Players'/GM superset split, "quests, not arcs", the four escalation tiers, and the Threestrings faction label.
 2. Read the brief, then the target file.
 3. **Always first:** read `.claude/skills/ember-voice/SKILL.md` in full. It sets how every sentence sounds, and it overrides the rhythm advice in the other style skills. The user rejected our earlier prose as "obviously written by AI".
+   For any page with NPC speech (dialogue, qna, readaloud, social blocks), also read `.claude/skills/character-voices/SKILL.md` and the `voices/` doc for each named NPC who speaks. Write every line in that character's profile voice, including their swearing level.
    Then load the style skills that fit the page's audience:
    - **Setting / guides / lore / Notable Figures / organizations** (anything under `campaign/setting/` or `campaign/guides/`): `.claude/skills/adventure-reloaded/SKILL.md`, `.claude/skills/ttrpg-sourcebook-style/SKILL.md`, `.claude/skills/ember-setting-style/SKILL.md`.
    - **Quests / events / keyed rooms / area overviews** (`campaign/quests/`, `campaign/locations/`): `adventure-reloaded`, `.claude/skills/dnd-adventure-text/SKILL.md`, `.claude/skills/ember-adventure-style/SKILL.md`.
