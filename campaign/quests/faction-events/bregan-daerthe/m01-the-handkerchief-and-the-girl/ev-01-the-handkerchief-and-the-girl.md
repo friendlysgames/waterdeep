@@ -52,6 +52,9 @@ Fully decoding the message requires a **DC 17 Intelligence (Investigation)** che
 
 ### Vessin
 
+> [!npc-narrative]**Vessin**
+> Small, dark-haired, tiefling, her movements economical in the way of someone who has spent years not being noticed. She opens the door before the party knocks — she heard them on the approach stairs.
+
 Corner of Net Street and Dock Street in the Dock Ward: a converted harbor crate on a raised frame, door painted yellow. Vessin opens before the party knocks — she heard them on the approach stairs. Small, dark-haired, tiefling, her movements economical in the way of someone who has spent years not being noticed.
 
 She takes the handkerchief and counts the knots with her thumb. Her posture changes when she finishes. Six tendays of silence ending in a single count.

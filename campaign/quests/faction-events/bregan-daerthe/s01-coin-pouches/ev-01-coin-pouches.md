@@ -50,6 +50,7 @@ Two anonymous black coin pouches arrive at Trollskull Manor following the party'
 
 ## Read Aloud
 
+> [!narrative]
 > Two days after Krebbyg's debrief, a small black cloth pouch sits on Trollskull Manor's front doorstep. No one heard it arrive.
 
 ## Summary

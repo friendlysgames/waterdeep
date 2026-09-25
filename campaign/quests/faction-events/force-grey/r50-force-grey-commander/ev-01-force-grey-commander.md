@@ -149,6 +149,7 @@ Vajra Safahr convened the party at Blackstaff Tower and formally issued a Force 
 
 ## Read Aloud
 
+> [!narrative]
 > Blackstaff Tower opens before you knock, as it always has. Vajra is at the window when you enter — the narrow one that faces the mountain — and she doesn't turn right away. When she does:
 >
 > > "Force Grey Commander. I've been Blackstaff for three years. This is the third time I've given this rank."

@@ -93,17 +93,18 @@ A publishing matter: plant a sensitive document on a North Ward editor's desk du
 
 ## Read Aloud
 
+> [!narrative]
 > A tall man in an overcoat that costs more than most merchants earn in a month finds you at the Yawning Portal. One eye is covered by a silk patch. He orders a round before sitting down. He shakes your hand and introduces himself as J.B. Nevercott.
 >
-> > > "I have a publishing matter. There's a broadsheet in the North Ward called *The Waterdeep Wazoo* — perhaps you've read it. The editor is a man named Gaxly Rudderbust. I need a document delivered to his editorial desk before tomorrow's print run. The document is sensitive. It should appear to arrive without a sender."
+> > "I have a publishing matter. There's a broadsheet in the North Ward called *The Waterdeep Wazoo* — perhaps you've read it. The editor is a man named Gaxly Rudderbust. I need a document delivered to his editorial desk before tomorrow's print run. The document is sensitive. It should appear to arrive without a sender."
 >
 > He produces a sealed folder from his coat.
 >
-> > > "His office is on the second floor of the Wazoo building, corner of Immar Street and Stallion Street. Tonight, Rudderbust is hosting a small dinner party downstairs."
+> > "His office is on the second floor of the Wazoo building, corner of Immar Street and Stallion Street. Tonight, Rudderbust is hosting a small dinner party downstairs."
 >
 > A pause.
 >
-> > > "None of his guests are expecting you."
+> > "None of his guests are expecting you."
 
 ## Summary
 

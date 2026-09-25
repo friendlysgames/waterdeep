@@ -25,6 +25,9 @@ Krebbyg's instruction to the party before they leave: "He stays alive and in pla
 
 Nar'l's contact protocol: a specific chalk mark on the east wall of the Castle Ward main sewer junction, changed every tenday. The current mark is a small stylized spider. Characters who reach the junction and make the mark wait. Within four hours, **Nar'l** arrives by *Dimension Door*, cloaked and moving close to the wall.
 
+> [!npc-narrative]**Nar'l Xibrindas**
+> He is compact, precise, and aged even for a drow. His hands are absolutely still.
+
 He is compact, precise, and aged even for a drow. His hands are absolutely still.
 
 Initial attitude: **Hostile.** He did not expect strangers at his contact point, and he has operational reasons to assume this could be an Ahmaergo probe. A **DC 14 Charisma (Persuasion)** check, or presenting the code phrase Krebbyg provides, shifts him to Indifferent within three exchanges. On a failure, he does not leave — but he does not engage either. Additional attempts after the first require a different approach: a different party member speaking, a different opening, or a disclosure of specific information only Jarlaxle's people would hold.
@@ -33,7 +36,8 @@ Once he is willing to talk:
 
 > > "I know why Xanathar is suspicious. I have been covering for Soluun."
 
-He does not apologize. He does not explain his reasoning for covering his brother. If asked directly: "He is my brother." That is the entire answer.
+He does not apologize. He does not explain his reasoning for covering his brother. > [!dialogue]**Why did you cover for Soluun?**
+> "He is my brother."
 
 He understands that this is not sustainable. He knows about Ahmaergo's investigation. He is willing to cooperate on a solution because the alternative is Nihiloor, which is not something he is willing to accept.
 
@@ -106,21 +110,22 @@ Jarlaxle's deepest asset inside Xanathar's Guild is compromised. The party finds
 
 ## Read Aloud
 
+> [!narrative]
 > Krebbyg arrives at early afternoon — not his usual hour. He is more concise than usual.
 >
-> > > "Nar'l Xibrindas. He's our deepest asset in Xanathar's Guild. Xanathar has started asking questions about him. We don't know why yet."
+> > "Nar'l Xibrindas. He's our deepest asset in Xanathar's Guild. Xanathar has started asking questions about him. We don't know why yet."
 >
 > A pause.
 >
-> > > "We think Soluun may be the cause."
+> > "We think Soluun may be the cause."
 >
 > He says the name carefully. He watches your faces for recognition.
 >
-> > > "Soluun is Nar'l's brother. He was disowned from Bregan D'aerthe before this operation began. If Nar'l has been covering for his brother's activity in the city, Xanathar's people may have traced it back to him."
+> > "Soluun is Nar'l's brother. He was disowned from Bregan D'aerthe before this operation began. If Nar'l has been covering for his brother's activity in the city, Xanathar's people may have traced it back to him."
 >
 > He looks at the table.
 >
-> > > "Jarlaxle needs to know what's happening before Nihiloor gets involved. Once the mind flayer is interested in Nar'l, the situation becomes significantly worse."
+> > "Jarlaxle needs to know what's happening before Nihiloor gets involved. Once the mind flayer is interested in Nar'l, the situation becomes significantly worse."
 
 ## Summary
 

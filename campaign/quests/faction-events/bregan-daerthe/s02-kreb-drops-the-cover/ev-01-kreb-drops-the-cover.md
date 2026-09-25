@@ -14,6 +14,9 @@
 
 The Seven Masks Theater runs a midweek matinée on Tenday afternoons. By the time the show ends, the back room smells of greasepaint and the particular sawdust-and-lamp-oil combination the stage machinery produces. **Krebbyg Masq'il'yr** is the only one still there when the party arrives — deep blue coat, hair loose, one hand resting idle on the holstered hand crossbow's grip.
 
+> [!npc-narrative]**Krebbyg Masq'il'yr**
+> Deep blue coat, hair loose, one hand resting idle on the holstered hand crossbow's grip. He runs his thumb along the hand crossbow's grip — once, twice, a habit he does not seem to notice — and then straightens against the costume rack.
+
 He does not wait for them to sit.
 
 > > "Nevercott paid you for the Wazoo job. Good. Then we can skip the part where I pretend to only book acts."
@@ -66,13 +69,14 @@ Two missions in, Krebbyg meets the party at the Seven Masks Theater and ends the
 
 ## Read Aloud
 
+> [!narrative]
 > The back of the Seven Masks Theater empties fast after the matinée. Krebbyg is the last one there, and he starts talking before you have said a word.
 >
-> > > "Nevercott paid you for the Wazoo job. Good. Then we can skip the part where I pretend to only book acts."
+> > "Nevercott paid you for the Wazoo job. Good. Then we can skip the part where I pretend to only book acts."
 >
 > He watches you read. Then, without ceremony:
 >
-> > > "You've done two jobs now. Yawning Portal, here, wherever Nevercott finds you. Same jobs, same employer, same chain. I'm part of that chain." He tilts his head. "Figured that was worth saying out loud."
+> > "You've done two jobs now. Yawning Portal, here, wherever Nevercott finds you. Same jobs, same employer, same chain. I'm part of that chain." He tilts his head. "Figured that was worth saying out loud."
 
 ## Summary
 

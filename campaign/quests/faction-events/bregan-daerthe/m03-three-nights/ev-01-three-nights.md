@@ -96,16 +96,19 @@ There is a man in the basement. Jarlaxle needs him kept there for three nights. 
 
 ## Read Aloud
 
+> [!narrative]
 > Krebbyg is at Trollskull Manor's door before dawn. He does not knock — he waits until someone comes out. Then:
 >
-> > > "There's a man in your basement. He's been there since last night. Jarlaxle needs him kept there for three nights and returned undamaged. After that, Jarlaxle will explain everything."
+> > "There's a man in your basement. He's been there since last night. Jarlaxle needs him kept there for three nights and returned undamaged. After that, Jarlaxle will explain everything."
 >
 > A pause.
 >
-> > > "He won't, actually. But he'll acknowledge it happened, which is as close as he comes."
->
-> In the basement: a halfling in his fifties, wearing an apron that still smells of fish flakes, bound at the wrists and ankles by iron bands. He looks up. He does not look dangerous.
->
+> > "He won't, actually. But he'll acknowledge it happened, which is as close as he comes."
+
+> [!npc-narrative]**Ott Steeltoes**
+> A halfling in his fifties, wearing an apron that still smells of fish flakes, bound at the wrists and ankles by iron bands. He looks up. He does not look dangerous.
+
+> [!narrative]
 > He asks, after a moment, whether you know anything about goldfish.
 
 ## Summary

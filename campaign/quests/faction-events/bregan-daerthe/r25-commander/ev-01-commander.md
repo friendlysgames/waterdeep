@@ -62,6 +62,12 @@ He is precise.
 
 He names them: **Pelsha** and **Vorn**, the two Gunslingers assigned to the character's operations at Commander rank. Both are present for this meeting: Pelsha at the door, Vorn by the porthole. They nod when named. Neither speaks.
 
+> [!npc-narrative]**Pelsha**
+> She is older than Krebbyg by several decades and has the patience to prove it. She stands at the door, nods when named, and says nothing.
+
+> [!npc-narrative]**Vorn**
+> He stands by the porthole, nods when named, and says nothing. He rarely speaks during a mission but speaks often before it, asking questions the party had not thought to ask.
+
 > [!profile]**Profile: Pelsha**
 >
 > ***Resonance.*** She is older than Krebbyg by several decades and has the patience to prove it. She treats recklessness in colleagues as weather. She notes it, adjusts, and moves on.

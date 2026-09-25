@@ -80,12 +80,10 @@ He folds his hands.
 
 **Decline the blank favor.** The rank is recognized. The coin is genuine. The network contacts are delivered tonight. The Scarlet Marpenoth's crew will accept a request from the character, but the response requires Jarlaxle's approval rather than being guaranteed. He does not resent the refusal. He respects it, fractionally.
 
-**Ask what the favor might be.** Jarlaxle answers honestly.
-
+> [!dialogue]**What might the favor be?**
 > "I don't know. That is not evasion. If I knew what I would need from you, I would ask for it now and call it a mission. I am asking for the option, not the outcome. I have found that the people worth trusting are the people who can tolerate that."
 
-**If the character asks whether he has ever called such a favor in before:**
-
+> [!dialogue]**Have you ever called such a favor in before?**
 > "Yes. Three times. Two of the people who accepted it are still working with D'aerthe. One is not, because she declined when I named it. She is fine. I did not hold it against her. I did take away the access."
 
 > [!note]**The Blank Favor in Play**
@@ -142,6 +140,7 @@ Jarlaxle names the character a Houseless Noble of Bregan D'aerthe's inner circle
 
 ## Read Aloud
 
+> [!narrative]
 > The Scarlet Marpenoth's forward lounge is lit warmer than you expected. Krebbyg and Fel'rekt stand at the edges of the room, silent. The gnome engineers are topside. Jarlaxle is at the center in his full coat, holding a small black coin, and for once the performance has gone quiet.
 >
 > He sets the coin on your palm.

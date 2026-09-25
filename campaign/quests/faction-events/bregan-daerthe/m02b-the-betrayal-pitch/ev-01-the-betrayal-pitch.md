@@ -98,13 +98,14 @@ J.B. Nevercott wants a compass from a ship's stateroom. The ship belongs to a ma
 
 ## Read Aloud
 
+> [!narrative]
 > J.B. Nevercott finds you again at the Yawning Portal. Same coat. Same easy manner. He orders drinks without asking.
 >
-> > > "There's a vessel in the harbor, the *Eyecatcher* — the Sea Maidens Faire flagship. Captain Zardoz Zord's personal ship. I need a specific item retrieved from his stateroom. A carved obsidian compass, about so."
+> > "There's a vessel in the harbor, the *Eyecatcher* — the Sea Maidens Faire flagship. Captain Zardoz Zord's personal ship. I need a specific item retrieved from his stateroom. A carved obsidian compass, about so."
 >
 > He holds his thumb and index finger two inches apart.
 >
-> > > "The captain is going to be ashore this evening for a performance. His crew is reliable but not alert. I can provide a skiff and a suggested route to the hull."
+> > "The captain is going to be ashore this evening for a performance. His crew is reliable but not alert. I can provide a skiff and a suggested route to the hull."
 >
 > He slides a folded map of the harbor across the table. He names a price. He does not explain why he wants the compass, or why it is aboard a carnival ship.
 

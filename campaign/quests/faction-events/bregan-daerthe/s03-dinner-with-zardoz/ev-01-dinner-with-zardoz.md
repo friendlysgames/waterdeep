@@ -101,9 +101,10 @@ A private dinner at the Seven Masks Theater, arranged by Krebbyg. The host is a 
 
 ## Read Aloud
 
+> [!narrative]
 > The upper salon at Seven Masks is set for dinner: candles, good crystal, a table the right size for the party. The man already seated rises when you enter. Cream and burgundy, a hat set to one side like a resting guest.
 >
-> > > "I've been wanting to do this properly. Krebbyg is excellent at many things. Conversation is not one of them."
+> > "I've been wanting to do this properly. Krebbyg is excellent at many things. Conversation is not one of them."
 >
 > He pours the wine himself. He does not call for a servant.
 
