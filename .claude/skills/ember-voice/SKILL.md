@@ -160,6 +160,7 @@ Match the moment. A door is two sentences; an arrival is a paragraph or two; a c
 
 > Honestly, it's not really worth talking about. Sounds much worse than it is. There have just been a few small issues. Tiny things, really. Other than the mine on Level 3 in the Dives closing, that is.
 
+- **Swear like the character would.** The players are adults: NPCs say "fuck", "shit" and worse when that's who they are, per `character-voices`. Narration never swears.
 - **Bold stress is rare.** Use it at most once in an event, where the speaker truly leans on a word.
 - **Keep facts in character.** An NPC who deflects does it in their own words ("You'll be paid. We can sort out the details when the work is done."), never with a clever line.
 

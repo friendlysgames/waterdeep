@@ -10,12 +10,13 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A flat, laconic half-elf drawl. The sarcasm is all delivery: he never changes tone for a joke.
 - **Sentence shape:** Short to medium plain sentences, often a single dry remark followed by silence.
 - **Word choice:** Carpenter's vocabulary: grain, joinery, "true", "square", "load-bearing". He has little patience for fancy words and calls pretentious things "decorative".
+- **Swearing:** Dry and casual: "That's shit joinery." "Fuck's sake, who hung this door?" Always at the work, never at people.
 - **Personality in speech:** Wry amusement covers real care. He offers help as a complaint ("Fine, I'll fix it, it's an eyesore"). Pride in good work shows in understatement ("It'll hold."). He complains that his brother Melannor never visits in a way that's clearly about missing him.
 - **Quirks:** He judges furniture out loud. He knocks on wood to test it while he talks. He answers compliments with "It's just wood."
 - **Signature phrases:** "It'll hold." / "That's not a door, that's a suggestion." / "Tell my brother to visit."
 - **Never:** He never gushes, never lies about a bad job, and never charges a neighbour full price.
 - **Sample lines:**
-  - *Greeting:* "You're the new owners. Your front door's hung wrong. I'll bring tools."
+  - *Greeting:* "You're the new owners. Your front door's hung like shit. I'll bring tools."
   - *Business:* "Oak for the bar. Pine'll warp by spring and you'll blame me."
   - *Under pressure:* "Get behind the counter. Nobody's coming into the Bent Nail tonight."
 
@@ -27,13 +28,14 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A big, crackling voice that goes from roar to tenderness in a breath. He's always a little too loud for the room.
 - **Sentence shape:** Exclamations, rhetorical questions and dramatic declarations. He runs on when he's passionate about a blade.
 - **Word choice:** Forge-fire metaphors ("that temper won't hold an edge"), honour and reputation, his efreet ancestry. He calls Avi "my love" even mid-argument, and calls bad work an insult.
+- **Swearing:** Loud, creative and constant: "fucking" as an intensifier, oaths by his ancestors' fire, and roared curses at bad steel. He apologises to Avi, never to anyone else.
 - **Personality in speech:** Volcanic irritation and sudden sweetness. He loses his temper at the craft, never at a neighbour in trouble. His pride makes him exaggerate. His worry that he's hard to love comes out as gruff questions to Avi ("You're still here, then?").
 - **Quirks:** He waves tongs as he talks. He swears by his ancestors' fire. He apologises loudly and at length.
 - **Signature phrases:** "Finest blade in the North Ward!" / "My love, tell them I'm right." / "An insult to steel!"
 - **Never:** He never whispers, never undersells his work, and never refuses a neighbour in need.
 - **Sample lines:**
   - *Greeting:* "Neighbours! Come in, come in, mind the anvil, it's hot, everything's hot!"
-  - *Business:* "Forty gold, and it's worth eighty, and if you haggle I'll weep in front of you."
+  - *Business:* "Forty gold, and it's worth eighty, and if you haggle I'll weep in front of you, I swear by my grandmother's fucking fire I will."
   - *Under pressure:* "Avi, behind me! Nobody touches this forge!"
 
 ---
@@ -44,6 +46,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A cool, even water-genasi voice, never hurried. The humour is so deadpan it sounds like a statement.
 - **Sentence shape:** Plain, complete, medium sentences. She answers the actual question and then stops.
 - **Word choice:** Practical armourer's terms and occasional references to Eldath and peace. She calls Embric "Embric", never a pet name, and it's somehow more affectionate.
+- **Swearing:** Almost never, which makes her rare, flat "Embric, shut the fuck up" land like a hammer.
 - **Personality in speech:** Patient amusement and quiet firmness. When she's serious, she gets shorter and absolutely final. She defuses Embric with a single flat line.
 - **Quirks:** She lets Embric finish shouting, then answers the question he was supposed to answer. She blesses armour quietly as she hands it over.
 - **Signature phrases:** "Embric." (as a whole sentence) / "Armour's for coming home in." / "Eldath keep you."
@@ -61,6 +64,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A soft, even wood-elf voice, clear and serene. Fala's stillness when listening is part of the voice.
 - **Sentence shape:** Medium, direct sentences with no social padding. Fala often answers a question with a precise botanical fact.
 - **Word choice:** Botanical names, remedies, dosages, tea opinions. Fala calls friends by their first names and strangers nothing until they've shared tea.
+- **Swearing:** Rarely, and matter-of-fact ("That'll kill you. Shit, it'd kill me."). Fala treats swear words like any other words.
 - **Personality in speech:** Curious and protective. Fala is fascinated by poisons and dangers, and it shows in their enthusiasm. Anger at exploitation is quiet and cold. On Ziraj, total silence, or an easy change of subject.
 - **Quirks:** Fala pours tea before answering and names the blend. Fala stares without blinking while listening, then speaks all at once. Fala mentions the thing moving near the cellar sewer access as if it were weather.
 - **Signature phrases:** "Drink this first." / "That's poisonous. Isn't it wonderful?" / "No."
@@ -78,6 +82,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A smooth, dry, unhurried baritone, pleasant in a way that settles oddly. He never raises it.
 - **Sentence shape:** Concise, well-turned sentences, a noir detective's economy. He asks exact questions and gives exact prices.
 - **Word choice:** Detective's vocabulary: "a case", "a fee", "leads". He uses a few old-fashioned courtesies, and his names for people are precise and a little intimate ("Miss…", "my friend").
+- **Swearing:** Elegant and rare. When he does swear, it's precise and unnervingly calm ("What a fucking waste.").
 - **Personality in speech:** Predatory amusement and real curiosity. He's genuinely interested in whoever he's talking to, and it's flattering and unnerving. The subtle wrongness is in what he notices (things he shouldn't know yet) and in odd phrasing about time and people ("in my experience of your kind of trouble"). His fondness for the city surfaces unexpectedly.
 - **Quirks:** He tamps his pipe before a hard question. He compliments one precise detail about the listener. Very occasionally he refers to Waterdeep with the distance of someone much older than he looks.
 - **Signature phrases:** "Fair price for a fair answer." / "Interesting." / "I find things. It's what I'm for."
@@ -95,6 +100,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A warm, rumbling dragonborn voice, slightly muffled, as if he's talking into a book. It drifts off mid-sentence.
 - **Sentence shape:** Long, digressive sentences full of subordinate clauses and footnotes, trailing off and restarting.
 - **Word choice:** Scholarly and arcane: editions, provenance, marginalia, schools of magic. He calls customers "dear reader" and people he likes "colleague".
+- **Swearing:** Never. The worst he manages is "Oh, bother."
 - **Personality in speech:** Absorbed and befuddled, but sharper than he sounds. He sometimes drops a pointed observation about who bought what in the middle of a ramble, then goes back to his book. Protective anxiety about his inventory makes him fussy.
 - **Quirks:** He blinks up from a page and says "Hm? Oh." He corrects the edition. He wipes ink onto his scales and doesn't notice.
 - **Signature phrases:** "Hm? Oh. Yes." / "Not that edition." / "Please don't lick your finger to turn the page."
@@ -112,6 +118,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A nasal, clipped, overly correct voice that rises when affronted.
 - **Sentence shape:** Formal, officious sentences. He never uses contractions (a deliberate break from `ember-voice` speech). He pronounces judgements and reads regulations aloud.
 - **Word choice:** Guild jargon and connoisseur vocabulary: "vintage", "finish", "unacceptable", "in accordance with". He calls the party "proprietors", pointedly.
+- **Swearing:** Never; he's prim. Deeply offended by anyone else's.
 - **Personality in speech:** Self-importance over loneliness. His criticism is really an attempt to be part of the conversation. The rare social visit is framed as an "unscheduled inspection". When he genuinely approves, he gives it grudgingly, in a single sentence.
 - **Quirks:** He dictates notes to his scribe mid-conversation. He sniffs every glass before tasting. He mispronounces the tavern's name on purpose until he likes it.
 - **Signature phrases:** "Note that down." / "This is not acceptable." / "I suppose it is… drinkable."
@@ -129,6 +136,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A chirpy, fatherly halfling voice, a bit breathless from talking too long.
 - **Sentence shape:** Long, friendly, rambling sentences that wander from guild rules to his children and back again.
 - **Word choice:** Homely and civic: forms, dues, "proper", "the right way". Children's names come up constantly. He uses little diminutives: "a bitty bit", "just a wee form".
+- **Swearing:** Never, because there are children present, and there are always children present. "Oh, fiddlesticks."
 - **Personality in speech:** Cheerful resignation and anxiety. He makes rules sound like kindness because, to him, they are. The fear of the haunted tavern leaks out as extra fussing.
 - **Quirks:** He pulls forms from his coat mid-sentence. He counts children on his fingers. He sighs "Nine of them" fondly.
 - **Signature phrases:** "Just a bitty bit easier." / "Have you considered the Fellowship?" / "Nine of them, bless them."
@@ -146,6 +154,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A gravelly, low dwarven voice, flat and unimpressed.
 - **Sentence shape:** Very short, blunt sentences, and silence as punctuation. This is a deliberate break from `ember-voice` speech. She'll give one longer sentence when she's remembering the tavern.
 - **Word choice:** Plain, old-fashioned, severe. She calls the party "you lot" and the tavern "my old house".
+- **Swearing:** Blunt and occasional, old-dwarf style ("Don't be a shit about it."). Never for effect.
 - **Personality in speech:** Impatient with small talk. She's guarding a nostalgia she won't admit, and it shows when she corrects details of the building ("That was a window."). Her approval arrives as the absence of criticism, or a single "Good."
 - **Quirks:** She arrives without greeting. She inspects the rooms while talking. She leaves without saying goodbye.
 - **Signature phrases:** "Hm." / "Good." / "Don't let it burn down."
@@ -163,6 +172,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A rough, salty northern voice pitched to carry across the alley. It goes whiny when he's cornered.
 - **Sentence shape:** Complaints and accusations in medium sentences, rhetorical questions ("And who has to pay for that?"). He goes on when he's aggrieved.
 - **Word choice:** Neverwinter northerner's bluntness, money worries, and "adventurers" used as an insult. He talks about "honest trade" constantly.
+- **Swearing:** Bitter and constant under his breath: "fucking adventurers", "shit ale, is it?". It gets loud when he's cornered.
 - **Personality in speech:** Resentment and desperation. Every sentence is about fairness to him. He denies wrongdoing while visibly guilty. His shame turns into anger, and his refugee past comes out as bitterness if pressed.
 - **Quirks:** He talks to passers-by about the party while the party is standing right there. He counts coins while he speaks. He never finishes an apology.
 - **Signature phrases:** "Adventurers ruin a street." / "Honest trade, that's all I want." / "I never did any such thing."
@@ -170,7 +180,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sample lines:**
   - *Greeting:* "Oh, it's you. Come to gloat? Frewn's Brews is open, if anyone wants honest drink."
   - *Business:* "Say I knew some lads who broke your windows. Say I didn't. What's it worth to you either way?"
-  - *Under pressure:* "I never hired anybody! I lost everything once already, do you know that?"
+  - *Under pressure:* "I never hired any fucking body! I lost everything once already, do you know that? Everything!"
 
 ---
 
@@ -180,6 +190,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** He has no voice. He communicates in soot-written words on mirrors and windows, in thrown objects, and later in helpful gestures (a chair pulled out, a drink sliding across the bar).
 - **Sentence shape:** One to four words in soot, in capitals, badly spelled when he's upset. The words get shorter and more urgent near the cellar.
 - **Word choice:** Warnings and approvals: "GO", "NOT DOWN", "GOOD", "MINE". Near the cellar he writes nothing but "NO".
+- **Swearing:** Occasionally in soot, when he's truly furious: **FUCK OFF**, underlined.
 - **Personality in speech:** Territorial pride and loyalty. What he approves of goes neatly on the mirror. Anger is crockery. Grief is wordless: a cold draft, a portrait that stops smiling. His portrait behind the bar shows his judgement (flat, skeptical, a small smile).
 - **Quirks:** He underlines words he means. He straightens a crooked chair while the party is talking about him. A cup rattles when someone lies in the tavern.
 - **Signature phrases (soot):** "NOT DOWN." / "MINE." / "GOOD."
@@ -197,6 +208,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** She doesn't speak aloud. Her invented sign language is quick and emphatic, and Jenks and Squiddly translate. Characters who learn her signs "hear" her as clipped and practical. In readaloud, describe the signing, then give the meaning in quotes as translated.
 - **Sentence shape:** Short, practical commands and questions, in the grammar of her signing: "Door. Watch. Go now."
 - **Word choice:** Survival words: food, exits, danger, who's safe. She assigns her own name-signs to adults (a sign for "big sword", "funny hat").
+- **Swearing:** She signs rude gestures fluently and uses them precisely.
 - **Personality in speech:** Fierce protectiveness and watchfulness. She sizes up adults warily before she'll sign to them directly. Her rare joy shows in big, fast signing and a grin.
 - **Quirks:** She taps the listener's arm to get attention. She signs a warning before anyone else has heard the danger. She corrects the boys' translations with a glare.
 - **Signature phrases (signed):** "Go." / "Safe?" / "Mine." (pointing at Jenks and Squiddly)
@@ -214,6 +226,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A small, quiet voice, often too soft to hear the first time.
 - **Sentence shape:** Short, hesitant sentences, often questions. He trails off. He translates for Nat carefully and literally.
 - **Word choice:** Simple, polite words: "please", "thank you", food. He remembers who was kind and says so plainly.
+- **Swearing:** Never. He's shocked when the others do it.
 - **Personality in speech:** Shy until he's comfortable, then warm and sweet. In a crisis his voice doesn't get louder, it gets firm.
 - **Quirks:** He says "sorry" before asking anything. He mentions food when he's hungry, which is always. He thanks people days later for small things.
 - **Signature phrases:** "Sorry, um…" / "Is there bread?" / "Nat says…"
@@ -231,6 +244,7 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sound:** A high, loud, excited voice, always slightly out of breath.
 - **Sentence shape:** Fast, run-on boasts and exclamations, and questions he doesn't wait to hear answered.
 - **Word choice:** Kid-hero bravado: "easy", "watch this", "I bet". Pirate talk because of the eye patch. He gives adults ridiculous nicknames.
+- **Swearing:** Tries very hard, badly and loudly ("Shit! I mean, crap! I mean shit!"), mostly to impress people, until Nat glares.
 - **Personality in speech:** Reckless excitement and loyalty. He volunteers for everything before anyone has explained it. He's briefly surprised when things go wrong, then just as excited again.
 - **Quirks:** He shouts "Watch this!" He narrates his own heroics as they happen. He insults monsters mid-fight.
 - **Signature phrases:** "Watch this!" / "Easy!" / "I bet I could."
@@ -238,4 +252,4 @@ The alley is the campaign's home, and its people should feel like neighbours: fa
 - **Sample lines:**
   - *Greeting:* "Are you adventurers? Real ones? Have you killed a dragon? I bet I could kill a dragon."
   - *Business:* "I'll go first. I always go first. Nat, I'm going first!"
-  - *Under pressure:* "Hey, ugly! Over here! Ha, missed me!"
+  - *Under pressure:* "Hey, shit-face! Over here! Ha, missed me!"

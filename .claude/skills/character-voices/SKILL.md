@@ -48,6 +48,7 @@ Every profile uses this shape. Keep each field to one to three lines.
 - **Sound:** accent, pitch, pace, volume, and what the voice does when they relax.
 - **Sentence shape:** how long, how complete, how they build a thought (clipped orders, rambling asides, questions answered with questions).
 - **Word choice:** register, the vocabulary they reach for, oaths, what they call the party and other people.
+- **Swearing:** how much, how hard and in what situations: never, rare, casual, constant or filthy, with an example. The players are adults.
 - **Personality in speech:** how their traits and emotions come out in the words; what changes when they're pleased, pressed, lying or afraid.
 - **Quirks:** verbal tics, and the physical habit that goes with their speech (the tag line a readaloud uses before they talk).
 - **Signature phrases:** two to four things they say often, in quotes.
@@ -76,6 +77,15 @@ Every profile uses this shape. Keep each field to one to three lines.
 8. **Speech still follows `ember-voice`** for rhythm (speech averages about 14 words a sentence, with contractions, hesitations and ordinary talk), except where a profile deliberately goes against it. A terse soldier talks in short sentences; a pompous noble never contracts. Those deliberate breaks are written into the profile.
 9. **Existing lines are canon.** Quoted lines already in the campaign stay as written. A profile is built to fit them.
 10. **Sample lines show a voice. They are not facts.** The details inside a sample line (a shipment, a song, a street) are there to demonstrate how the character talks. Never lift them into quest content as facts; write new lines from the event's own facts.
+
+## Profanity
+
+**The players are all adults. Characters swear as much and as hard as they would in life.** User: "Never be scared to actually use profanity. Say fuck, shit, pussy, cunt, whatever the character needs to say."
+
+- Swearing is character voice. A dock thug, a mercenary or a furious smith says "fuck" and "shit" without euphemism. Never soften it to "curses under his breath" or "a string of oaths", and never fall back on fantasy stand-ins ("by the gods' blasted…") when the character would actually swear.
+- Each profile's **Swearing** field says how the character swears: never, mild, casual, filthy, or only when pushed past a limit. That makes a sudden curse from a careful speaker land.
+- The narrator doesn't swear. The readaloud narration stays in `ember-voice`'s plain voice, and the profanity lives inside the quotation marks.
+- Profanity is not a tell, and `voicecheck.py` doesn't flag it.
 
 ## How to use a profile when writing dialogue
 
