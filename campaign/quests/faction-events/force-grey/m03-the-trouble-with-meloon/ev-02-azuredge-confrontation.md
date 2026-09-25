@@ -85,6 +85,7 @@ The tenday ends. The party must decide what to do with what they found.
 
 ## Read Aloud
 
+> [!narrative]
 > Vajra receives you at the standing desk, which is where she has all conversations she has not yet decided the tone of. She has a notebook open.
 >
 > > "Tell me everything you observed. In order."

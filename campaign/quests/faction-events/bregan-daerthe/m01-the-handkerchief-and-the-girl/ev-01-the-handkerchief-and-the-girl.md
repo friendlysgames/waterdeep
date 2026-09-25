@@ -91,15 +91,18 @@ A theater booking manager with a relaxed manner and a single job: find a silk ha
 
 ## Read Aloud
 
+> [!narrative]
 > Two theater tickets arrive in an unsigned envelope — good seats for the Sea Maidens Faire Debut Parade in the Dock Ward. A short note is tucked beneath them: *Afterward, speak to the booking manager at Seven Masks.*
->
+
+> [!npc-narrative]**Kreb Sorrush**
 > The booking manager is compact, professional, and a half-shade too still for a human. He shakes your hand. He orders drinks without asking if there is a round going. He sits down.
->
-> > > "A small favor. There's a noble hosting a reception tonight in the Castle Ward — Lady Mirilin Ashford, house on Sorn Street. She carries a silk handkerchief embroidered with a silver anchor. I'd like you to obtain it and deliver it to a young tiefling woman named Vessin, who lives near the waterfront — corner of Net Street and Dock Street, in a converted crate with a yellow door."
+
+> [!narrative]
+> > "A small favor. There's a noble hosting a reception tonight in the Castle Ward — Lady Mirilin Ashford, house on Sorn Street. She carries a silk handkerchief embroidered with a silver anchor. I'd like you to obtain it and deliver it to a young tiefling woman named Vessin, who lives near the waterfront — corner of Net Street and Dock Street, in a converted crate with a yellow door."
 >
 > He slides a folded street map across the table.
 >
-> > > "The reception is open to presentable guests. I'd prefer you not start anything."
+> > "The reception is open to presentable guests. I'd prefer you not start anything."
 
 ## Summary
 

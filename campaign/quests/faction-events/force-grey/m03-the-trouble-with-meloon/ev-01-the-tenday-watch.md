@@ -81,6 +81,7 @@ Vajra assigns the party to watch a Force Grey veteran named Meloon Wardragon at 
 
 ## Read Aloud
 
+> [!narrative]
 > Vajra's Sending is twenty-five words, almost exactly:
 >
 > > "Force Grey operative Meloon Wardragon is behaving strangely. Observe him for a tenday. Do not approach him unless necessary. Report what you see."

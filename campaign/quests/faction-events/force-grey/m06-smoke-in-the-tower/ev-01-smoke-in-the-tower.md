@@ -94,6 +94,7 @@ Something is wrong with Blackstaff Tower's containment architecture. Vajra has h
 
 ## Read Aloud
 
+> [!narrative]
 > The Tower's door-attendant arrives at Trollskull Manor in person. This has not happened before. She is already moving when you answer the door.
 >
 > Vajra is at the window when you arrive — not at the standing desk, which has been pushed to the wall. She turns.

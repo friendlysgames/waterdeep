@@ -123,6 +123,7 @@ Bregan D'aerthe has had eyes on the party since the Yawning Portal. During the r
 
 ## Read Aloud
 
+> [!narrative]
 > The man at the door is wearing a burgundy coat and carrying a hat box he shows no interest in opening. He gives his name as J.B. Nevercott, haberdasher, and asks to come in with the calm certainty of someone who expects the answer to be yes.
 
 ## Summary

@@ -74,6 +74,7 @@ The party reaches the Spawning Pool and must destroy it before the lair can resp
 
 ## Read Aloud
 
+> [!narrative]
 > The basin sits in the center of the room, slightly warm, lit from within by a dim blue-white luminescence. Three shapes move slowly beneath the surface — brain-sized, not yet awake, not yet capable of doing what they will do if given more time. The smell is brine and something older.
 >
 > The pool is eight feet across. Four feet deep. This is what Nihiloor built. This is what has been producing the things that ended up behind the eyes of Meloon Wardragon and Orvyn Dall and a dozen others across this city.

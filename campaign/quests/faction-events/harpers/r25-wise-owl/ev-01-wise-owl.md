@@ -61,7 +61,7 @@ The note is in Laeral Silverhand's hand: a meeting time, a location in the Palac
 
 > *"She's the Open Lord. Don't bring her a problem you could solve on your own."*
 
-> [!sidebar]**Laeral Silverhand**
+> [!profile]**Laeral Silverhand**
 >
 > Laeral Silverhand is the Open Lord of Waterdeep — the city's elected chief magistrate, the public face of its government, and, less publicly, one of the Seven Sisters and a former Chosen of Mystra. She is one of the most politically powerful individuals in Faerûn and maintains the air of someone who has simply been around long enough to find most things interesting rather than alarming. A private audience with her is not a common courtesy — it is a real exchange of trust, and she will remember how it is used.
 

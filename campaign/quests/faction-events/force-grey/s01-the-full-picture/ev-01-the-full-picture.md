@@ -126,6 +126,7 @@ The party delivers a complete account of the Grand Game to Vajra Safahr at Black
 
 ## Read Aloud
 
+> [!narrative]
 > Blackstaff Tower opens before you knock. Inside, Vajra stands at the desk in the center of the room, the Blackstaff leaning against the desk's corner within arm's reach. She does not move toward a chair or a sitting room. The room smells of old stone and cold workings — decades of arcane residue layered into the walls.
 >
 > > "Sit or don't. This will take however long it takes."
