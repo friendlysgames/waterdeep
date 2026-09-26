@@ -1,102 +1,187 @@
 # The Grells in the Dock Ward
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Combat Event begins when Melannor arrives in person at Trollskull Manor. In this Event, the party can:
 >
-> This Combat Event begins when Melannor arrives in person at Trollskull Manor. In this Event:
+> - Receive the mission brief from Melannor in person and ask him what he knows
+> - Locate the warehouse using dock records or by reading the physical environment
+> - Navigate the abandoned warehouse and protect Mirsa while dealing with both grells
+> - Rescue Mirsa from the grell cocoon before the second grell fully reorients
+> - Return to Phaulkonmere and receive Jeryth Phaulkon's gift directly
 >
-> - Two investigation checks locate the warehouse: DC 14 Intelligence (Investigation) via dock records and contacts; DC 14 Wisdom (Survival) via physical environment.
-> - The first grell drops immediately on round one; the second focuses on Mirsa until round two.
-> - Freeing Mirsa requires an Action and a DC 12 Strength (Athletics) check; a grell within 5 feet raises the DC to 14.
-> - A grell reduced to half HP breaks for the harbor loading doors and dives; a fled grell is not destroyed.
-> - Melannor accompanies to the warehouse exterior and stops there.
-> - On return to Phaulkonmere, Jeryth speaks directly and bestows a charm of heroism on each party member who enters the garden.
+> #### Background
+>
+> The grells were driven up from Undermountain Level 1 by Xanathar Guild excavation in the tunnels beneath the harbor district. A Guild operative paid two dockhands to vacate Pier 17 the night Mirsa was taken — the Guild knew the grells were operating in the area and used the disruption as cover for a cargo movement on the south docks. Mirsa was grabbed at the wrong time and place. She was conscious long enough to hear the dockhand payoff before she lost consciousness, and she remembers it clearly.
+>
+> Melannor has known about the grells for two days. He went to the Watch and was turned away. He is here because this is the last option he has, and there is still someone alive in that nest.
 
-**Background (DM only)**
-The grells were disturbed from Undermountain Level 1 by Xanathar Guild excavation activity in the tunnels beneath the harbor district. A Xanathar Guild operative paid two dockhands to vacate Pier 17 the night Mirsa was taken — the Guild has known the grells were operating and used the disruption as cover for a cargo movement on the south docks. Mirsa was grabbed at the wrong time and place. She was conscious long enough to hear the dockhand payoff before she lost consciousness, and she remembers it clearly.
+### The Brief
 
-Melannor has known about the grells for two days. He tried to get Watch attention. He failed. He is here because there is no one else, and he is moving quickly because Mirsa has been in that nest since night before last.
+Melannor arrives at Trollskull Manor in person, and he does not knock softly.
+
+> [!readaloud]
+> Melannor Fellbranch is at the front door when someone answers it, and he steps inside without waiting for an invitation. He glances once around the room to count who is present, and then he speaks without preamble.
+>
+> > "Flying aberrations have been taking citizens from Pier 17 in the Dock Ward — one each night for the past three nights. I went to the Watch two days ago. They are stretched thin and they consider the south waterfront outside their current scope." A brief pause. "One of the three is still alive. She has been in the nest since night before last, and I want her out."
+
+> [!social]**The Groundskeeper**
+>
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: an Emerald Enclave druid who manages Phaulkonmere's grounds and delivers bad news in the same tone he would use for the weather.
+>
+> Melannor is here because every other channel failed and one of the victims is still breathing. He does not say that. His tone does not change; his eyes go to the party and stay there with the focused attention of someone taking stock of what they have available. He is scared. He has been scared since yesterday morning, and he has not let it alter a single sentence.
+>
+> He will walk with the party to the warehouse exterior. He will stop at the door. He does not explain why, and no one needs to ask.
+>
+> Conversation topics Melannor is willing to discuss include:
+> - What grells are and how they operate
+> - The three victims and the location of the pier
+> - What he has already tried to do and why it did not work
+> - Where to start looking for the specific warehouse
+>
+> Specific dialogue for Melannor on these topics is presented below.
+
+> [!qna]**What are grells?**
+>
+> > "Flying aberrations. Tentacles, paralytic venom, they cocoon their prey and carry it back to the nest. They come from the deep places beneath the city. They do not belong above ground."
+
+> [!qna]**Who was taken?**
+>
+> > "Three citizens from Pier 17. The first two were dockhands. The third is a seamstress named Mirsa, from the dock district. She is elderly and she has been in the nest since night before last." He pauses just long enough for that to land. "She was alive when she was taken. I believe she is still alive."
+
+> [!qna]**Why not handle this yourself?**
+>
+> He says nothing for a moment.
+>
+> > "I will walk with you to the building. I will wait outside." Another brief pause. "I would prefer the people inside to come back out."
+
+> [!qna]**Where do we start?**
+>
+> > "South quay. Pier 17 was the last confirmed location. Something in that warehouse district has been the source — the ozone smell carries. Dock contacts and the harbor records should narrow it. So will the physical environment if you read it carefully."
+
+Once the party is ready to move, proceed to **The Search**.
 
 ### The Search
 
-Two checks, in sequence, locate the warehouse.
+The south quay runs along the harbor's edge below the warehouses that service the heavier Dock Ward trade. Most of them are working. One is not.
 
-**DC 14 Intelligence (Investigation)** — dock ward contacts, the harbor master's assistant, pier records: multiple reports of unusual sounds from a closed waterfront warehouse on the south quay. A harbor master's aide describes a persistent ozone smell from one specific building, present for three days.
-
-**DC 14 Wisdom (Survival)** — reading the physical environment: the absence of cats that normally prowl dock warehouses; overturned crates near the south door; open loading doors thirty feet above, which is wrong for a closed building. The nest is in the upper story.
-
-Either check identifies the correct warehouse. Both together give the party a full picture of what they are walking into before they enter.
-
-> **[GM]**
+> [!exploration]**Dock Records and Contacts**
 >
-> #### Melannor at the Exterior
-> He walks to the building's front door and stops. He looks at the loading doors high above for a moment. Then he turns to face the party and says nothing else. He is scared and he is not showing it well. He will wait outside for the full duration of the fight.
+> Any character who consults the harbor master's records or questions dock workers and makes a successful DC 14 Intelligence (Investigation) check learns that one closed warehouse on the south quay has been generating complaints for three days. A harbor master's aide describes a persistent ozone smell from one specific building, unlike anything he has smelled in thirty years working the docks.
+
+> [!exploration]**Reading the Physical Environment**
+>
+> Any character who walks the south quay and makes a successful DC 14 Wisdom (Survival) check notices three things that do not fit the surroundings: the complete absence of cats that normally prowl dock warehouses; a set of overturned crates near the south door of one building that no one has bothered to right; and open loading doors thirty feet above that building, which is wrong for a closed warehouse. The nest is in the upper story.
+
+Either check identifies the correct warehouse. Both together give the party a full picture of what is inside before they open the door.
+
+> [!gamemaster]**Melannor at the Exterior**
+>
+> Melannor walks with the party to the building's front door and stops there. He looks up at the loading doors thirty feet above for a moment, then turns to face the party and says nothing else. He will wait outside for the full duration of the fight.
 
 ### Inside the Warehouse
 
-Cavernous, dark, lit only through gaps in the boarding and a column of moonlight through the open loading doors thirty feet above. The smell of ozone and something organic reaches the party before they are fully inside.
+The ozone smell reaches the party in the street before they open the door.
 
-> [!narrative]
-> The warehouse smells of lightning about to strike. Thirty feet up, moonlight falls through open loading doors in a column that does not reach the floor. Something large shifts in the rafters.
+> [!readaloud]
+> The warehouse smells of lightning about to strike, a dry charge in the air that doesn't belong to the morning outside. Something large shifts in the rafters above where the loading doors hang open thirty feet up, and a column of pale light falls from them toward a floor that is wide and mostly empty, the boards dark with old water stains. In the far corner of the warehouse, mostly hidden from the door, a figure is wrapped in something pale and faintly luminous, and her chest is moving.
 
-Two **Grells** hang from the rafters. One has already noticed the party. It drops toward them at the start of round one. The second is focused on the far corner of the floor — **Mirsa**, an elderly woman cocooned loosely in grell secretion, unconscious but breathing.
+Two **Grells** are in the rafters. One has already noticed the party and will drop at the start of round one. The second is focused on Mirsa and will not turn until round two.
 
-> [!npc-narrative]**Mirsa**
-> An elderly woman is cocooned loosely in grell secretion in the far corner of the floor, unconscious but breathing. She is a seamstress from the dock district. She was grabbed at the wrong time and place, and she has been here since night before last.
-
-The second grell turns from Mirsa on round two, regardless of what the party does. The decision the party faces in round one: engage both grells and accept that Mirsa is undefended for one round, or split attention to protect her and accept the tactical disadvantage.
-
-#### Freeing Mirsa
-
-An Action and a **DC 12 Strength (Athletics) check** frees her from the cocoon. She cannot be freed safely with a grell within 5 feet — the secretion reacts to combat disturbance and tightens under the vibration. A character who attempts the check with a grell adjacent must succeed on a DC 14 Strength check instead, or the action is wasted.
-
-#### A Grell at Half HP
-
-A grell reduced to half its maximum HP disengages from the fight and moves toward the open loading doors above. Once through, it goes over the harbor and dives below the surface. A grell that flees is not destroyed. Two days later, Melannor asks the party whether they know where it went. Harbor workers on the south quay will report a large flying creature disappearing into the water before this question is answered.
+> [!hazard]**Two Grells**
+>
+> Both grells use the **Grell** stat block (2024 *Monster Manual*).
+>
+> #### Grell One Tactics
+>
+> At the start of combat, Grell One drops from the rafters toward the nearest character.
+>
+> Over the course of combat, Grell One will prioritize:
+> - Grappling and paralyzing the character nearest to the entrance
+> - Staying above melee reach when possible, using the thirty-foot ceiling
+>
+> The battle ends for Grell One when it is destroyed or reduced to half its HP, at which point it breaks for the loading doors above and dives into the harbor.
+>
+> #### Grell Two Tactics
+>
+> At the start of combat, Grell Two remains focused on Mirsa and does not react to the party until round two.
+>
+> Over the course of combat, Grell Two will prioritize:
+> - Staying within 5 feet of Mirsa and attacking any character who approaches her
+> - Defending her position over pursuing characters who move away
+>
+> The battle ends for Grell Two when it is destroyed or reduced to half its HP, at which point it breaks for the loading doors above and dives into the harbor.
+>
+> #### Freeing Mirsa
+>
+> Freeing Mirsa from the cocoon requires an Action and a successful DC 12 Strength (Athletics) check. A grell within 5 feet of her raises this DC to 14, as the secretion tightens under combat vibration. Mirsa is unconscious and cannot assist.
+>
+> #### Breaking for the Harbor
+>
+> A grell reduced to half its maximum HP disengages and moves directly toward the open loading doors above. Once through, it goes over the harbor and dives below the surface. A grell that reaches the harbor is not destroyed.
 
 ### Returning to Phaulkonmere
 
-The party returns to report. Melannor meets them at the estate gate. When he hears Mirsa is alive, he goes quiet for a moment, then nods once.
+Melannor meets the party at the estate gate. When he hears Mirsa is alive, he goes quiet for a moment and nods once.
 
-Jeryth's voice settles over the garden. She speaks to the party, not to the estate at large.
+Jeryth speaks.
 
+> [!readaloud]
+> Melannor leads the party through the estate gate and into the garden, and a moment later a voice comes from everywhere in the garden at once, calm and unhurried, with the leaves on the nearest oak tilting very slightly toward the sound.
+>
 > > "You did well. Come in."
+>
+> Something warm and sourceless settles over the garden, and each of you feels it clearly.
 
-Every party member who enters Phaulkonmere receives a warmth with no natural source. Jeryth bestows a *charm of heroism* (supernatural gift, 2024 DMG) on each of them. She says nothing about it. It simply happens.
+Every party member who enters Phaulkonmere receives a *charm of heroism* (supernatural gift, 2024 DMG). Jeryth says nothing more about it.
 
-#### Mirsa's Account
+> [!social]**The Voice in the Garden**
+>
+> Jeryth Phaulkon (spirit of Phaulkonmere, she/her) :: the spirit of the estate, speaking directly to the party for the first time.
+>
+> Jeryth has said what she came to say. Her gift is given without ceremony. The warmth in the garden is her approval, and she does not explain it.
 
-When she recovers, Mirsa is coherent and specific. She was grabbed near Pier 17. A Xanathar Guild operative paid two dockhands to vacate the pier that night — she heard the exchange clearly and remembers the pier number, the arrangement, and the operative's description before she lost consciousness. The pier number and the payoff detail are actionable intelligence pointing toward the Guild's south dock operation, a thread into **Faction Outposts**.
+> [!social]**The Rescued Seamstress**
+>
+> Mirsa (Neutral, Tethyrian Human, she/her) :: an elderly Dock Ward seamstress who is shaken, grateful, and wants to do something useful with what she knows.
+>
+> Mirsa is frightened but coherent, and she is clear about what she heard before she lost consciousness. She wants the party to have the information. She describes what she saw at Pier 17 with the precise, helpful quality of someone who has been sitting with a useful memory for two days and waiting for someone to take it.
+>
+> Conversation topics Mirsa is willing to discuss include:
+> - What she saw at Pier 17 before she was taken
+> - The exchange she heard between the unknown man and the two dockhands
+
+> [!qna]**What happened at Pier 17?**
+>
+> She straightens, composing herself.
+>
+> > "There were two dockhands I know by sight, and a third man I didn't recognize — well-dressed for the docks, not someone who worked them. He was paying the other two to clear out for the night. I heard the pier number, I heard the amount, and I heard him say it was all handled." A pause. "Pier 17. That's what I heard. And it was not a small amount."
 
 ### Concluding the Event
 
-> **[GM]**
->
-> **+1 Renown if** Mirsa is rescued alive before either grell escapes.
-> **+1 Renown if** Pier 17 and the dockhand payoff are investigated and reported to both Melannor and the Watch. One Xanathar Guild cargo movement in **Faction Outposts** is disrupted by unexpected Watch attention on the south docks as a result.
+Mirsa's account of the Pier 17 dockhand payoff is specific and actionable.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
 >
-> Mirsa's account of the Pier 17 dockhand payoff is actionable intelligence pointing toward the Xanathar Guild's south dock operation in **Faction Outposts**.
+> - **Mirsa Rescued** — mark when Mirsa is freed from the cocoon and alive when the party leaves the warehouse. Read by **The Fouled Channel** (her Pier 17 information confirms the Guild's south dock operation is ongoing).
+> - **Pier 17 Investigated** — mark when Mirsa's account of the dockhand payoff is investigated and reported to both Melannor and the Watch. Read by **Faction Outposts** (one Xanathar Guild cargo movement is disrupted by unexpected Watch attention on the south docks).
+> - **Grell Escaped** — mark when either grell reaches the harbor loading doors. Read by **The Fouled Channel** (Melannor will ask the party whether they know where it went; harbor workers on the south quay will report a large flying creature disappearing into the water).
+
+> [!gamemaster]**Next Steps**
+>
+> **+1 Renown** if the **Mirsa Rescued** outcome is marked and both grells are neutralized before either escapes.
+> **+1 Renown** if the **Pier 17 Investigated** outcome is marked.
+>
+> Two days after a grell escaped: Melannor asks the party whether they know where it went. Harbor workers on the south quay will have reported a large flying creature disappearing into the water before this question comes up.
 >
 > **Emerald Enclave Mission 5 — The Fouled Channel** becomes available when the party reaches Renown 9 and 6th level.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
 
 ## Overview
 
 Two grells have taken three citizens from a Dock Ward pier. One is still alive in the nest.
 
-## Read Aloud
-
-> [!narrative]
-> Melannor appears at Trollskull Manor in person, already moving when the door opens. "Flying aberrations in the Dock Ward, snatching citizens from the waterfront. Third person in as many nights. I've told the Watch; they're stretched thin. This one is ours." He has a sketch of the affected pier. He is already on his way there and clearly expects you to keep up.
-
 ## Summary
 
-The party tracked two grells to an abandoned Dock Ward warehouse and rescued a kidnapped seamstress named Mirsa. On their return to Phaulkonmere, Jeryth Phaulkon spoke in the garden and bestowed a charm of heroism on each party member who entered. Mirsa's account of the Pier 17 dockhand payoff pointed toward a Xanathar Guild operation on the south docks.
+The party tracked two grells to an abandoned warehouse on the south quay and rescued a kidnapped seamstress named Mirsa. On their return to Phaulkonmere, Jeryth Phaulkon spoke directly for the first time and gave each party member who entered the garden a charm of heroism. Mirsa's account of the Pier 17 dockhand payoff pointed toward a Xanathar Guild operation on the south docks.
