@@ -1,104 +1,160 @@
 # The Theater's Back Room
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social/Exploration Event takes place at Seven Masks Theater during a Sea Maidens Faire performer showcase. In this Event, the party can:
 >
-> This Social/Exploration Event takes place at Seven Masks Theater during a Sea Maidens Faire performer showcase. In this Event:
+> - Receive the brief from Krebbyg at Seven Masks before the performance and ask what they need to know
+> - Identify Florette Cressyn in the lobby and neutralize her before the handoff window opens
+> - Receive the document from Brimel Crestfall during the first musical number — one quiet exchange, seat C, row 4
+> - Hear Brimel's account of the locked room in a doorway two blocks from the theater
+> - Deliver the intelligence package to Krebbyg
 >
-> - Florette Cressyn is the primary obstacle. She is in the lobby before Brimel arrives. The party has time to act before the handoff window opens.
-> - The handoff itself is a single specific beat: seat C, row 4, the correct question asked quietly, during the first musical number. It cannot be improvised — Brimel will not initiate.
-> - Brimel's debrief in the street after the performance is the intelligence payload. He confirms the floor plan and adds context the document does not contain.
-> - Zardoz Zord is onstage and does not acknowledge the party. His presence is cover and cannot be leveraged to assist the mission.
+> #### Background
+>
+> Jarlaxle has been building toward this intelligence since Mission 2. The Wazoo Affair put public pressure on the Cassalanter household and placed Brimel Crestfall under the kind of administrative strain that makes careful people start listening to conversations they were never meant to hear. Brimel is a household steward in his forties, competent and quiet, and frightened by what he has decided to do. He overheard Victoro Cassalanter use the word *resolution* in connection with a "northern property" at a family dinner. He has no idea the obligation is an infernal contract. He knows the windmill's street address and that the family uses it for something they do not discuss with staff. He agreed to this handoff for reasons he has not fully articulated to himself.
+>
+> **Florette Cressyn** is a professional investigator on Ammalia Cassalanter's retainer, watching Brimel tonight on Ammalia's instructions, because Ammalia suspects he may be sharing household information. She has no evidence yet and will not act without something definite. She has a ticket to the showcase.
+>
+> The intelligence Brimel holds: a street address in the North Ward, a hand-drawn floor plan of a converted windmill, and two months of personal observation summarized in three pages. The locked room on the lower floor, serviced monthly by a man who arrives at odd hours, is the Cassalanter outpost in the North Ward. Its documents point toward the Brandath Crypts vault approach. This is what Jarlaxle has been working toward for three missions.
 
-**Background (DM only)**
+### The Brief
 
-**Brimel Crestfall** — Cassalanter household steward, forties. He overheard a family dinner conversation referencing a "northern property" as relevant to "the resolution of the lord's obligation." He has no idea the obligation is an infernal contract. He knows the windmill's street address and that the family uses it for something they do not discuss with staff. He is frightened and has agreed to this handoff for reasons he has not fully articulated to himself.
+Krebbyg is waiting at Seven Masks when the party arrives. He is not behind the booking desk.
 
-**Florette Cressyn** — professional investigator on Ammalia Cassalanter's retainer. Trained, observant, and currently watching Brimel on Ammalia's instructions. She has no evidence yet — she is watching because Ammalia suspects Brimel may be sharing household information and wants confirmation before acting. She has a ticket to the showcase. Her attention is on Brimel, not the stage.
+> [!readaloud]
+> Seven Masks Theater is quiet at this hour, the box office closed and the lobby dark, and the auditorium doors are propped open for a cleaning crew still working between the rows. Krebbyg is in the far corner of the lobby near the stage-door stairwell. He watches the entrance when you come in, then turns to face you.
+>
+> > "Right. Brimel Crestfall — Cassalanter household steward. He has a ticket for tonight and he will not look for you. He will not initiate. Section C, row four. When the first number starts, sit next to him and ask whether the Faire's previous stop was Luskan. He'll pass something. Don't open it in the theater."
+>
+> He pulls tickets from his coat.
+>
+> > "Zardoz is on at nine. There is a complication — Ammalia Cassalanter put a professional on Brimel tonight. She has the same ticket, she'll be in the lobby before he arrives, and she is good. Find her, darling, and deal with her before that curtain goes up."
 
-The intelligence Brimel holds: a street address in the North Ward, a hand-drawn floor plan of a converted windmill, and two months of observation summarized in three pages. The locked room on the lower floor — serviced monthly — is the Cassalanter outpost in the North Ward. Its documents point toward the Brandath Crypts vault approach. Jarlaxle has been building toward this intelligence for three missions.
+> [!social]**The Theater Manager**
+>
+> Krebbyg Masq'il'yr (Chaotic Neutral, Elf (Drow), he/him) :: Bregan D'aerthe operative running Seven Masks Theater's bookings under the name Kreb Sorrush.
+>
+> Krebbyg is concise tonight, which itself communicates the seriousness of what he is asking. He is operating in his theater cover but does not have the usual patter; he has a window to work with, and it is closing. He knows Brimel's seat, the code question, and the debrief location two blocks from the theater. He does not know Florette Cressyn personally. He has not met her, and he does not know her seat.
+>
+> He knows Zardoz is onstage tonight and that this is not a coincidence. He does not explain this. He mentions it only if asked.
+>
+> Topics Krebbyg is willing to discuss:
+> - The handoff protocol: the code question, the seat, the timing window during the first musical number
+> - Brimel's background, which he describes factually and without embellishment: frightened man, household staff, not a professional
+> - Florette: a professional investigator, not guild muscle; neutralizing her without violence and without involving the Watch is better
+
+> [!qna]**Who is Brimel?**
+>
+> > "Household steward. Twenty years with the Cassalanters. He got frightened by something he heard, and here we are. He knows the address and the layout of a property the family uses in the North Ward. That is what he is carrying tonight."
+
+> [!qna]**Who is the watcher?**
+>
+> Krebbyg glances briefly toward the auditorium.
+>
+> > "Ammalia's investigator. Professional — not guild muscle, a professional. She has no evidence yet or she would have moved already. She is watching because Ammalia told her to watch. Find her in the lobby before the performance begins and deal with her before the first number."
+
+> [!qna]**Why is Zardoz onstage tonight?**
+>
+> > "He is performing. He is always performing. And if you need an alibi for being in this theater tonight, there it is." He picks up a clipboard he has no intention of reading. "He will not acknowledge you. Don't try."
+
+> [!qna]**What do we get paid?**
+>
+> He looks at the question for a moment.
+>
+> > "Two hundred. Tomorrow morning. And the back room stays open."
+
+Proceed to **The Lobby**.
 
 ### The Lobby
 
-Seven Masks Theater, nine o'clock. The lobby is crowded with Faire fans — a genuine showcase, popular, well-attended. Zardoz Zord will host onstage in forty minutes.
+Seven Masks Theater, thirty minutes before the performance. The lobby fills steadily with Faire fans, and Zardoz Zord will be onstage in thirty minutes.
 
-A **DC 13 Wisdom (Perception)** check in the lobby identifies **Florette Cressyn**: she has a good seat ticket but her attention is on Brimel, not the stage setup or the other guests. She is good at looking casual. She is not casual.
+> [!readaloud]
+> The theater lobby is loud with the kind of crowd that has been looking forward to this all week. Faire fans cluster around the playbills near the entrance, and the bar in the east alcove is three deep. Ushers in red-and-gold livery direct people toward the auditorium, and the conversation bounces between the painted ceilings and the marble floor. Zardoz Zord's name is on posters along both walls, and the doors to the auditorium are not yet open.
 
-Characters who identify her and want to act before Brimel arrives:
+A **DC 13 Wisdom (Perception)** check in the lobby identifies **Florette Cressyn**: a woman in her thirties, plainly but carefully dressed, standing near the entrance to the main seating area. She holds a program she has not looked at. Her attention moves steadily from face to face as each new arrival comes through the lobby doors.
 
-- **Remove her from the lobby:** A **DC 14 Charisma (Deception or Persuasion)** task — manufacture a reason she needs to leave, misdirect her attention to a different floor, or start a credible incident that draws her away from the seating area. A believable story about a problem with her ticket, a message from a purported colleague, or a commotion at the coat check all qualify.
+If the party identifies Florette, read or paraphrase the following:
 
-- **Neutralize her within the theater:** Harder. She is discreet and trained, and the theater is crowded. Any obvious physical approach draws a Watch officer who is positioned near the stage-left exit. A **DC 13 Dexterity (Stealth)** check to move close enough for a quiet incapacitation, then the DM's judgment on whether the method avoids attention. The Watch officer is not hostile — he is present for crowd management — but he is observant.
+> [!readaloud]
+> Near the seating entrance, a woman stands still in the movement around her. She is holding a program without looking at it, and her gaze moves steadily across the lobby from face to face, unhurried and methodical. Her expression is pleasant and tells you nothing at all.
 
-> **[GM]**
+> [!social]**The Investigator**
 >
-> #### If Florette Is Not Neutralized Before the Handoff
-> Florette watches Brimel closely during the performance. If the party makes the handoff while she is present and unoccupied, she follows Brimel after the first half. The party needs to intercept her on the street — **DC 13 Dexterity (Stealth or Athletics)** to get between Florette and Brimel before she is close enough to identify who he met. If this fails, Florette identifies one party member by description and reports to Ammalia Cassalanter within 24 hours.
+> Florette Cressyn (human, she/her) :: professional investigator retained by Ammalia Cassalanter; watching Brimel Crestfall tonight; patient, trained, and not looking for a fight.
+>
+> Florette is observant and professional. She is not hostile unless provoked, and she will not escalate inside the theater. Her sole objective tonight is to confirm whether Brimel has contact with anyone outside the household. She is not fooled by thin cover stories; she is a **DC 14** challenge, not DC 11. A party that uses something specific to the theater environment (a problem with a ticket, a message from a supposed colleague, a commotion at the coat check) will do better than one that tries a generic social gambit. She has no evidence tonight and will not act without something definite.
+
+> [!exploration]**Remove Her from the Lobby**
+>
+> A **DC 14 Charisma (Deception or Persuasion)** task: manufacture a reason she needs to leave, misdirect her attention to another floor, or create a credible incident that draws her away from the seating entrance. On a success, she steps away and the handoff window opens cleanly.
+
+> [!exploration]**Neutralize Her in the Theater**
+>
+> This is the harder option, because Florette is discreet and trained and the theater is crowded. It takes a **DC 13 Dexterity (Stealth)** check to move close enough for a quiet incapacitation, followed by a method that avoids attracting the Watch officer positioned near the stage-left exit. The officer is there for crowd management and means the party no harm, though he is observant.
+
+> [!gamemaster]**If Florette Is Not Neutralized Before the Handoff**
+>
+> Florette watches Brimel closely during the performance. If the party makes the handoff while she is present and unoccupied, she follows Brimel after the first half. The party needs to intercept her on the street with a **DC 13 Dexterity (Stealth or Athletics)** check to get between Florette and Brimel before she can identify who he met. If this check fails, Florette identifies at least one party member by description and reports to Ammalia Cassalanter within twenty-four hours. Mark **Florette Filed a Report**.
+
+Proceed to **The Handoff**.
 
 ### The Handoff
 
-Brimel is in section C, row 4, center aisle seat. He will not initiate contact. He will not look for the party. He has been told what to listen for.
+Brimel is in section C, row 4, center aisle. He arrived precisely on time and has not looked around once.
 
-The handoff window: during the first musical number, when the sound covers quiet speech. A character who takes the adjacent seat and asks, in a half-voice, whether the Faire's previous stop was Luskan — Brimel passes a small folded document without looking at the speaker. The exchange takes three seconds. He does not acknowledge it afterward.
+> [!readaloud]
+> The auditorium lights drop as the first number begins, and the stage fills with light and a Faire ensemble opening brassy and bright, the kind of number that gets the crowd to their feet for a moment before they settle back down and catch their breath. Zardoz Zord sweeps onto the stage in full costume, arms wide, and the applause from the front rows is immediate and warm.
+>
+> Row four, section C. The man in the center aisle seat has both hands in his lap and his eyes on the stage and has not moved since the lights went down.
 
-If Florette has been neutralized: Brimel exits through a side door after the first half without incident.
-
-If Florette is still present and watching: proceed to the intervention check described above.
+A character who takes the adjacent seat during the first number and asks, in a half-voice, whether the Faire's previous stop was Luskan receives a response without eye contact: a small folded document passes from Brimel's knee to the character's hand in under three seconds. He does not acknowledge the exchange afterward.
 
 ### Brimel's Debrief
 
-A quiet doorway two blocks from the theater. Brimel speaks quickly and does not stay long.
+If Florette has been neutralized, Brimel exits through a side door after the first half without incident. A quiet doorway two blocks from the theater. He speaks quickly and does not stay long.
 
-The document contains: a street address in the North Ward and a hand-drawn floor plan of a converted windmill, two floors, lower-floor room kept locked. Brimel adds what the document does not say:
-
+> [!readaloud]
+> The street is quiet two blocks from the theater, the crowd noise fading behind you. Brimel stops in a recessed doorway, the entrance to a locked tailor's shop with its window dark, and turns to face you with his back to the street.
+>
 > > "I don't know what's in the locked room. I know Lord Victoro used the word *resolution* when he described what it contained. And I know Madam Ammalia went there the tenday after their youngest was born."
 
-He takes nothing with him. He asks no questions. He goes home.
+He takes nothing with him. He does not ask questions. He goes home.
 
-Krebbyg, given the document: "This is what Jarlaxle was waiting for."
+Krebbyg is waiting at the theater's stage entrance when the party returns.
 
-> **[GM]**
+> [!readaloud]
+> Krebbyg takes the folded document, opens it, reads it once, and closes it again.
 >
-> #### The Windmill's Significance
-> The converted windmill in the North Ward is the Cassalanter outpost targeted in **Faction Outposts**. Its contents — specifically documents on the lower floor — reference the Brandath Crypts vault approach and provide a clue chain leading to **Vault of Dragons**. Jarlaxle has been assembling this intelligence chain since Mission 2 (the Wazoo document pressured the Cassalanters and put Brimel under strain). The windmill intelligence is the payload he has been building toward.
->
-> This does not need to be explained to the party. Krebbyg's "This is what Jarlaxle was waiting for" is sufficient acknowledgment that the mission matters more than its presentation suggests.
+> > "This is what Jarlaxle was waiting for."
 
 ### Concluding the Event
 
-> **[GM]**
->
-> **+2 Renown** if the intelligence package reaches Krebbyg and Florette has no evidence — the handoff went clean, no Cassalanter report was filed.
-> **+1 Renown (supplementary)** if Florette was neutralized without violence and without Watch involvement. Jarlaxle, told about the method: "Clean. Good." From him, that is specific praise.
+The mission ends when the intelligence package reaches Krebbyg. Whether Florette was neutralized cleanly determines the supplementary outcome.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
 >
-> The 200 gp arrives via Krebbyg the next day, with a short note in handwriting the party has not seen before — this is Jarlaxle's, though they do not know it yet: *What you gathered will matter more than you know. The theater's back room remains open to you.*
+> - **Intelligence Delivered** — mark when the intelligence package reaches Krebbyg intact; read by **Faction Outposts** (the windmill's location and floor plan are available as pre-gathered intelligence when the party targets the North Ward outpost) and **Vault of Dragons** (context about the Cassalanters' interest in the Brandath Crypts vault approach).
+> - **Florette Neutralized Cleanly** — mark when Florette was handled without violence and without Watch involvement; read by the renown award below.
+> - **Florette Filed a Report** — mark when Florette identified at least one party member by description; read by **Cassalanter Villa** (Ammalia Cassalanter has a description of the party on file before their first visit).
+
+> [!gamemaster]**Next Steps**
 >
-> The Seven Masks Theater back room is now available to BD party members as a meeting point and safe house between missions. Krebbyg will receive contacts there without prior arrangements.
+> Award **+2 Renown** if **Intelligence Delivered** is marked and **Florette Filed a Report** is not. Award **+1 Renown (supplementary)** if **Florette Neutralized Cleanly** is marked. Jarlaxle, told about the method: "Clean. Good." From him, that is specific praise.
 >
-> #### Milestone: None
+> The 200 gp arrives via Krebbyg the following morning with a short note in handwriting the party has not seen before. It is Jarlaxle's, though they do not know it yet: *What you gathered will matter more than you know. The theater's back room remains open to you.*
+>
+> The Seven Masks Theater back room is now available to BD party members as a meeting point and safe house between missions. Krebbyg will receive them there without prior arrangements.
 >
 > This mission does not award a Milestone Point.
 
 ## Overview
 
-A nervous household steward has intelligence worth having. A Cassalanter investigator has a ticket to the same show. The handoff has a thirty-second window.
-
-## Read Aloud
-
-> [!narrative]
-> Krebbyg is at Seven Masks with a different bearing than usual — something has become time-sensitive.
->
-> > "There's a man named Brimel Crestfall. Household steward to the Cassalanters. He's been paid to deliver information about a property his employers use in the North Ward — a converted windmill. He's ready. But someone from House Cassalanter is watching him."
->
-> He looks at the party.
->
-> > "The handoff needs to happen tonight. Zardoz Zord has a performance at the theater at nine. Brimel has a ticket. The watcher does not have reason to move yet. Section C, row four. When the first number starts: ask him if the Faire's previous stop was Luskan."
+A Cassalanter household steward has spent two months sitting on a piece of information he was never meant to hear. Tonight he has a ticket to the Sea Maidens Faire showcase, a seat in section C, and instructions for a one-question handoff. His employer has sent a professional to watch him.
 
 ## Summary
 
-The party attended the Sea Maidens Faire showcase at Seven Masks Theater, identified and dealt with Florette Cressyn in the lobby, and received a folded document from Brimel Crestfall during the first musical number. Two blocks from the theater, Brimel described a locked room in a North Ward windmill that Lord Victoro Cassalanter called "the resolution." Krebbyg received the document and said it was exactly what Jarlaxle had been waiting for.
+The party received Krebbyg's brief at Seven Masks Theater and identified Florette Cressyn in the lobby before the showcase began. During the first musical number, a character took the adjacent seat in section C, row 4, and received a folded document from Brimel Crestfall. In a doorway two blocks from the theater, Brimel described a locked room in a North Ward windmill that Lord Victoro Cassalanter had called "the resolution." Krebbyg received the document and said it was exactly what Jarlaxle had been waiting for.
