@@ -13,7 +13,7 @@
 
 **Emotions.** Savra most often feels disciplined resolve, old shame she has learned to carry rather than hide, fierce protectiveness, measured anger at diabolism, honest assessment of her own failings, and warmth that she expresses through action rather than sentiment.
 
-**Motivations.** Savra wants to atone for her time in the Howling Hatred cult, expose and shut down whatever infernal operation she believes is running behind Waterdeep's noble piety, and build an Order chapter that values honesty above all.
+**Motivations.** Savra wants to atone for her time in the Howling Hatred cult, root out the infernal cults she hunts wherever they hide in Waterdeep, find out what the Cassalanters are concealing behind their charity, and build an Order chapter that values honesty above all.
 
 **Inspirations.** When playing Savra, channel Brienne of Tarth (*Game of Thrones*), Furiosa (*Mad Max: Fury Road*), and Jean Valjean (*Les Misérables*).
 

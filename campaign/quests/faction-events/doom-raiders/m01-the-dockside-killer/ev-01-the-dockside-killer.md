@@ -70,7 +70,7 @@ Davil Starsong receives the party in his curtained room on the second floor of t
 
 > [!qna]**Why us?**
 >
-> > "My people are known in that part of the city," he says with a small rueful smile, "and not warmly. Someone keeping watch on those docks with any kind of Zhentarim association draws exactly the questions I'd rather not be fielding right now. You don't have that complication."
+> > "My people are known in that part of the city," he says with a small rueful smile, "and not warmly. Someone keeping watch on those docks with any kind of Zhentarim association draws exactly the questions I'd rather not be fielding right now. You don't have that complication. Yet."
 
 > [!qna]**What do you know about the killer?**
 >
