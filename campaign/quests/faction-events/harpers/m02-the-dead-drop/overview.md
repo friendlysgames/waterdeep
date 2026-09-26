@@ -1,9 +1,9 @@
 # The Dead Drop: Overview
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
-> Available at Renown 3 and 3rd level. The Talking Mare must be complete.
+> Available at Renown 3 and 3rd level. **The Talking Mare** must be complete.
 >
 > #### Difficulty
 > *An adventure for 3rd level characters.*
@@ -11,12 +11,17 @@
 > #### Milestone Overview
 > This mission does not award a Milestone Point.
 
+The breach started three months ago, when Tessalar Maeridge, a young Trades Ward counting house clerk, was recruited by a Splinter handler with fifty gold pieces and instructions to report anything unusual about the philosophy section of Uza Solizeph's bookshop on Sorn Street. Tessalar did not know that a Harper dead drop had been concealed behind a loose brick on that shelf for a decade. He reported what he observed, the Splinter identified the drop, and they sent a gazer to retrieve the cipher note through its eyebeam and search for a secondary document. The secondary document does not exist — Mattrim Mereg misplaced it three months ago — but the gazer has been instructed to keep looking.
+
+Uza Solizeph has hosted the dead drop for ten years without knowing it. She runs a three-story bookshop on Sorn Street and is precise, thorough and unflappable. When the gazer entered her shop she retreated to Felzoun's Folly two streets over, gave her cat Fillipa to the attic rafters as a rearguard, and has been waiting for someone competent to arrive. Fillipa has been in the attic beams for three days, harassing the gazer by knocking books into its path and retreating whenever it gets close. She will not accept comfort from anyone until the gazer is dead.
+
+The cipher note the gazer read through its eyebeam contains partial contact identifiers for Harper assets in two noble houses. Someone on the other end was watching when the gazer read it. If the party does not resolve Tessalar's situation cleanly, those two assets are compromised, and Mirt loses access to a Cassalanter social contact — which affects preparation for **Cassalanter Villa** — though he never says this directly.
+
 ## Involved Characters
 - **Mirt** (Harpers) — mission contact; delivers via paper bird
-- **Uza Solizeph** — bookshop owner on Sorn Street, Trades Ward; has been unknowingly hosting a Harper dead drop for a decade; gives the party her keys and requests only that her cat Fillipa survive
-- **Fillipa** — Uza's black-and-white cat, eleven years old; has been tactically harassing a gazer in the attic for three days; will not accept comfort until the gazer is dead
+- **Uza Solizeph** — bookshop owner on Sorn Street, Trades Ward; has been hosting a Harper dead drop for a decade without knowing it; gives the party her keys and requests only that her cat Fillipa survive
+- **Fillipa** — Uza's black-and-white cat, eleven years old; has been tactically harassing the gazer in the attic for three days; will not accept comfort until the gazer is dead
 - **Tessalar Maeridge** — young counting house clerk; recruited by a Splinter handler for 50 gp to watch the philosophy section; in over his head and not committed to the Splinter
-- **The Gazer** — Splinter-sent beholder-kin; hunting for a secondary document on the third floor; hostile and will not retreat
 
 ## Dangers & Enemies
 - Gazer (Gazer stat block) — third-floor attic; hostile; will not withdraw; stray eye rays can destroy books and a set of rare manuscripts
@@ -24,6 +29,4 @@
 
 ## Overview
 
-Mirt's paper bird described Uza Solizeph, a bookseller on Sorn Street who had been hosting a Harper dead drop in her philosophy section for a decade without knowing it. A Splinter informant among her regular customers identified the drop location and reported it. The Splinter sent a gazer to retrieve a cipher note through its eyebeam and search for a secondary document that turned out not to exist. Uza had retreated to a nearby tavern with her cat Fillipa in the attic rafters running a rearguard action against the creature.
-
-The party cleared the shop, found the breached dead drop behind the loose brick, and identified Tessalar Maeridge as the informant through Mirt's lead. Their choices about Tessalar — turn him as a double agent, report him to the Watch, or simply warn Mirt and relocate the drop — shaped how much residual damage the Splinter could extract from the compromise.
+A Harper dead drop in a Trades Ward bookshop has been breached. A gazer is inside, the shop owner's cat has been running a rearguard action against it for three days, and the clerk who sold out the location is still visiting the philosophy section on his handler's instructions.

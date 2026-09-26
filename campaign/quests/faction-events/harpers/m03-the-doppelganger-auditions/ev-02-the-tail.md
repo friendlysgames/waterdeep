@@ -1,90 +1,123 @@
 # The Tail
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Exploration Event begins the morning after the final interview night, when Edric was not identified and begins following a party member. In this Event, the party can:
 >
-> This Exploration Event begins the morning after the final interview night, when Edric has not been identified and begins following a party member. In this Event:
+> - Notice Edric tailing a party member through the Dock Ward on a DC 15 Passive Perception, or any active Perception check during deliberate movement.
+> - Confront Edric directly and watch him drop his face for a new one.
+> - Corner him and bargain for the safehouse address, or search his body after he is killed.
+> - Follow the address to a Splinter safehouse in the Trades Ward and retrieve operational files that partially recover the mission.
 >
-> - Edric is skilled at surveillance — DC 15 Passive Perception to notice he is following, or an active Perception check during deliberate movement.
-> - If caught and confronted directly, he drops his current guise and adopts a new face immediately.
-> - He will not fight unless cornered — he tries to disengage and report back.
-> - Following him leads to a Splinter safehouse in the Trades Ward, different from Shesstra Street but run by the same cell.
-> - Reporting the safehouse to Mirt partially recovers the mission; he can clean house on two compromised assets from the files inside.
-
-**Background (DM only)**
-
-Edric filed his report the morning after the interviews concluded. He knows the party's faces, their Harper affiliation, and enough operational detail to make the Splinter's awareness of them dangerous. His next task is continuing surveillance. If he is caught and the safehouse is found, the Splinter loses both an asset and an operations hub in the Trades Ward. If he reaches the safehouse and drops his file, the damage is done — but Mirt can still act on the safehouse contents if the party brings him the address.
-
-Edric's current guise when the tail begins is a Dock Ward day laborer, generic and forgettable. He has at least two backup forms mentally staged.
-
-The safehouse in the Trades Ward is different from the Shesstra Street address from Mission 1, but operated by the same cell. This is the second Splinter Trades Ward location the party will have found if they also resolved Mission 1 cleanly.
+> #### Background
+>
+> Edric filed his report the morning after the interviews concluded. He knows the party's faces, their Harper affiliation, and enough operational detail to make the Splinter's awareness of them dangerous. His next task is continuing surveillance. If he is caught and the safehouse is found, the Splinter loses both an asset and an operations hub in the Trades Ward.
+>
+> Edric's current guise when the tail begins is a Dock Ward day laborer, generic and forgettable. He has at least two backup forms staged. The safehouse he reports to is different from the Shesstra Street address from Mission 1, but operated by the same cell.
 
 ### Spotting the Tail
 
-Edric picks up on a party member the morning after the final interview. He is skilled. **DC 15 Passive Perception** notices the same forgettable day laborer in three separate locations over the course of an hour. An active Perception check during any deliberate movement — taking a roundabout route, stopping unexpectedly, doubling back — achieves the same result at **DC 14**.
+Edric picks up on a party member the morning after the final interview.
 
-If no one spots him: he follows for three hours, notes locations, and returns to the safehouse to file an update. The damage is incremental but compounding — Manshoon's awareness of the PCs grows.
+> [!readaloud]
+> The same forgettable face has appeared three times in an hour, always at a comfortable distance, always positioned with a clear line of sight. A Dock Ward day laborer with nothing particular about him except that he keeps appearing.
+
+> [!exploration]**The Recurring Face**
+>
+> Any character with a Passive Perception of 15 or higher notices the same forgettable figure in three separate locations over the course of an hour. An active Perception check during any deliberate movement — taking a roundabout route, stopping unexpectedly, doubling back — achieves the same with a DC 14.
+>
+> - **Advantage:** Characters who are actively watching for surveillance gain Advantage on the active check.
+>
+> If no one spots him within three hours: Edric follows, notes locations, and returns to the safehouse to file an update. The damage is incremental but compounding — Manshoon's awareness of the party grows with each report.
 
 ### The Confrontation
 
-If a party member confronts the tail directly:
+If a party member closes to talking distance with recognition on their face, Edric drops the day laborer form without hesitation.
 
-Edric does not fight if he has any other option. The moment a PC closes to talking distance with recognition on their face, he drops the day laborer form and takes a new one — nondescript, unremarkable, face of a middle-aged Waterdavian merchant. He tries to step into the foot traffic and walk away.
+> [!readaloud]
+> The day laborer face is gone. A middle-aged Waterdavian merchant has taken its place, unremarkable in every detail, and he is stepping into the flow of foot traffic before you have finished registering the change.
 
-> [!npc-narrative]**Edric Tanner**
-> The Dock Ward day laborer face is gone. In its place: a middle-aged Waterdavian merchant of no particular distinction — the kind of face that crowds produce and crowds consume. He is already moving toward the foot traffic. He did not panic. He was ready for this.
+> [!exploration]**Cutting Him Off**
+>
+> Any character who moves to intercept before Edric reaches the foot traffic must make a successful DC 13 Dexterity (Athletics) check to cut off his line of movement.
+>
+> If cornered in an alley or stopped physically, Edric does not fight. He bargains: the safehouse address in exchange for a thirty-second head start. He gives it flatly, without embellishment.
+>
+> > "Trades Ward, three blocks north of the customs house. Narrow building, shuttered windows, no signage. That's all I have for you."
+>
+> He is genuinely not interested in dying for the Splinter.
 
-**DC 13 Dexterity (Athletics)** to cut him off before he breaks into the crowd. If he is cornered in an alley or stopped physically, he bargains: he will give the party the safehouse address in exchange for a thirty-second head start. He is genuinely not interested in dying for the Splinter.
+If Edric is killed or detained before he can reach the safehouse, a search of his person turns up a note.
 
-If he is killed or detained before he can return to the safehouse: his current form carries no identification. A **DC 14 Intelligence (Investigation)** check of his possessions finds a folded note with a Trades Ward address in unfamiliar handwriting — the safehouse.
+> [!exploration]**Edric's Possessions**
+>
+> Any character who searches Edric after he is killed or detained and makes a successful DC 14 Intelligence (Investigation) check finds a folded note in his coat with a Trades Ward address written in unfamiliar handwriting.
+>
+> > The address is three blocks north of the customs house. The handwriting is careful, deliberate, the letters placed without haste.
 
 ### The Safehouse
 
-The address is a narrow building in the Trades Ward, shuttered windows, no signage. Interior: three rooms. Two Spies on the ground floor. A third-floor workspace with operational files.
+The address is a narrow building in the Trades Ward with shuttered windows and no signage. The ground floor has two rooms. A third-floor workspace has a long table with operational files.
 
-The files contain:
-- Notes from Edric's two tendays of surveillance on Mattrim Mereg — confirming his identity as a Harper operative
-- A partial list of two other Harper assets in noble houses with descriptions and contact routines
-- Operational correspondence referencing a handler name the party may have encountered before
+> [!readaloud]
+> The building is exactly as described: narrow, shuttered, no sign above the door. The street it faces is a working-hours lane, the kind where no one looks twice at people going in and out of unremarkable doors. You hear nothing from inside.
 
-A **DC 12 Intelligence (Investigation)** of the files surfaces all three contents. The partial asset list is what the cipher note from Mission 2 was attempting to confirm — the Splinter has been building the same picture from two directions.
+> [!hazard]**Two Spies**
+>
+> Two Spies (Spy stat blocks, 2024 *Monster Manual*) are on the ground floor. They are not expecting the party.
+>
+> #### Spy Tactics
+>
+> At the start of combat, the Spies take defensive positions in the two-room ground floor, one covering the door and one moving to flank.
+>
+> Over the course of combat, the Spies will prioritize:
+> - Preventing access to the staircase.
+> - Calling out to any agents upstairs if the fight goes against them.
+>
+> The battle ends when both Spies are incapacitated or dead.
 
-Mirt, when given the address and the files: "Two different approaches to the same list." He closes the file. "They've been thorough." He does not say what he does next, but the two compromised assets are moved within forty-eight hours.
+> [!exploration]**The Operational Files**
+>
+> Any character who examines the third-floor workspace and makes a successful DC 12 Intelligence (Investigation) check surfaces three categories of contents from the files on the long table.
+>
+> > - Notes from Edric's surveillance on Mattrim Mereg over two tendays, confirming his identity as a Harper operative.
+> > - A partial list of two Harper assets in noble houses, with physical descriptions and contact routines.
+> > - Operational correspondence referencing a handler name the party may have encountered in other Splinter contexts.
+>
+> The partial asset list is what the cipher note from Mission 2 was building toward from the other direction. The Splinter has been developing the same picture from two separate sources.
+
+When given the address and the files, Mirt goes quiet for a moment.
+
+> [!readaloud]
+> Mirt takes the file and opens it. He reads for a moment and then closes it.
+>
+> > "Two different approaches to the same list." He sets the file down on the table. "They've been thorough."
+>
+> He does not say what he does next. Two compromised assets are moved within forty-eight hours.
 
 ### Concluding the Event
 
-> **[GM]**
->
-> **+1 Renown (partial recovery)** if the Splinter safehouse is found and reported to Mirt. He can clean house on two additional compromised assets before the Splinter acts on the intelligence Edric filed.
->
-> If the safehouse is not found: Edric's report is now with the Splinter. Manshoon's awareness of the PCs escalates, and the **Kolat Towers** raid has reinforced defenses tuned specifically to the PCs' known capabilities.
+The Splinter's intelligence on the party cannot be fully recovered, but the safehouse contents let Mirt limit the damage.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
 >
-> Mirt is disappointed that Edric was not caught during the interviews, but he does not say so in a way that removes agency from the party. What he says is: "The Splinter knows more about you than they did yesterday. Plan accordingly."
+> - **Safehouse Found** — mark when the Splinter safehouse is found and reported to Mirt; award +1 Renown (partial recovery). Mirt can clean house on two compromised assets before the Splinter acts on Edric's filed report. Read by **Faction Outposts** (secondary Splinter Trades Ward outpost seed).
+> - **Splinter File Recovered** — mark when the operational files are retrieved from the third-floor workspace. Read by **Kolat Towers** (reinforced defenses tuned to the party's known capabilities are reduced; Mirt moved the exposed assets before Manshoon could act on the intelligence).
+
+> [!gamemaster]**Next Steps**
+>
+> If the safehouse was not found: Edric's report is now with the Splinter. Manshoon's awareness of the party is elevated, and **Kolat Towers** has reinforced defenses tuned to their known capabilities and faces. Mirt's comment: "The Splinter knows more about you than they did yesterday. Plan accordingly."
 >
 > The safehouse address is a secondary Splinter outpost seed for **Faction Outposts**.
 >
 > **Harper Mission 4 — A Friend's House** becomes available when the party reaches Renown 8 and 5th level.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
 
 ## Overview
 
-Edric Tanner was not identified during the interviews. He is now following a party member through the Dock Ward, compiling a detailed profile for the Splinter.
-
-## Read Aloud
-
-> [!narrative]
-> You notice him the third time — same forgettable face in three different places across an hour, always at a comfortable distance, always somewhere that gives him a line of sight. A Dock Ward day laborer with nothing particular about him except that he keeps appearing.
->
-> He noticed you noticing.
+Edric Tanner was not identified during the interviews. He is following a party member through the Dock Ward and compiling a detailed profile for the Splinter.
 
 ## Summary
 
-Edric Tanner, unidentified during the interviews, began surveillance on the party. Following him back to a Trades Ward safehouse recovered partial intelligence on the Splinter's Harper asset list — the same list the cipher note from the bookshop had been building toward from the other direction.
+Edric Tanner, unidentified during the interviews, began following us through the Dock Ward the next morning. We spotted him on his third appearance, cornered him, and followed his address to a Splinter safehouse in the Trades Ward with two agents inside and a file room upstairs. The files were building toward the same Harper asset list that the cipher note from the bookshop had been approaching from the other direction.
