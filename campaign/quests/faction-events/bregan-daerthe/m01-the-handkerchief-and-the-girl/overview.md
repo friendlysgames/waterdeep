@@ -1,6 +1,6 @@
 # The Handkerchief and the Girl: Overview
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > Available at Renown 0. Level 2 recommended. This is the opening mission of the Bregan D'aerthe chain. No prior missions required.
@@ -10,6 +10,10 @@
 >
 > #### Milestone Overview
 > This mission does not award a Milestone Point.
+
+The handkerchief contains a coded message hidden in the anchor embroidery — eleven specific knots that only Bregan D'aerthe field operatives can read. Vessin is Jarlaxle's best-positioned observation asset in the Dock Ward, and he values her considerably more than he has indicated to Krebbyg. Six tendays ago, a delivery from the shared embroidery house went to Lady Ashford's household instead of Vessin's, because Ashford collects embroidered silks and intercepted it by chance. Krebbyg knows only that Jarlaxle wants the handkerchief delivered; he does not fully understand the situation.
+
+The party's role is to recover the handkerchief from Lady Ashford's reception and deliver it to Vessin near the waterfront. Krebbyg presents this as a favor with minimal context, and the party is not expected to understand what the handkerchief contains or who Vessin is.
 
 ## Involved Characters
 - **Kreb Sorrush** (Bregan D'aerthe) — booking manager at Seven Masks Theater in the Dock Ward; provides the mission brief and receives the debrief; poses as a human and never corrects the impression
@@ -21,8 +25,4 @@ No combat. The reception is a closed social environment, and Krebbyg's brief exp
 
 ## Overview
 
-Two theater tickets arrived in an unsigned envelope with a short note: *Sea Maidens Faire Debut Parade, Dock Ward. Afterward, speak to the booking manager at Seven Masks.* The booking manager, Kreb Sorrush, was compact, professional, and a half-shade too still for a human. He received the party with a warm handshake and a business proposition.
-
-The job was simple. Lady Mirilin Ashford was hosting a reception that evening in the Castle Ward. She carried a silk handkerchief embroidered with a silver anchor. Krebbyg wanted it delivered to a tiefling girl named Vessin, at the corner of Net Street and Dock Street, in a converted crate with a yellow door. He provided a street map and asked that the party not start anything.
-
-The handkerchief contained a coded message hidden in the anchor embroidery — eleven specific knots readable only to Bregan D'aerthe field operatives. Vessin had been cut off from contact for six tendays because Lady Ashford, who collects embroidered silks obsessively, had been intercepting deliveries by chance. Krebbyg did not explain any of this. He knew only that Jarlaxle wanted the handkerchief delivered.
+A theater booking manager with a relaxed manner and a single job: find a silk handkerchief at a Castle Ward reception and deliver it to a tiefling girl near the waterfront.
