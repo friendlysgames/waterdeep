@@ -14,7 +14,7 @@ When Mission 4 arrives and Tashlyn names Skeemo as a traitor, the party has a sp
 
 If the party has already done OG-M2 or BD-M2 before this mission, they have met Gaxly before: a friendly, disheveled, ink-stained journalist who runs loose dinner parties and remembers faces. The DR-M2 event does not involve Gaxly directly, but any party member who has been to the Wazoo building for OG-M2 or BD-M2 would recognize it from a broadsheet reference or passing mention.
 
-The GM should note when the OG-M2 and BD-M2 Wazoo stories break relative to this mission's timeline. If both of those missions are running simultaneously with DR-M2, Gaxly may be visibly overwhelmed by competing crises — the Black Viper plant and the infernal worship exposé both landing in the same press cycle — while Esvele Rosznar's social circle is being destabilized by infernal worship allegations.
+The GM should note when the OG-M2 and BD-M2 Wazoo stories break relative to this mission's timeline. If both of those missions are running simultaneously with DR-M2, Gaxly may be visibly overwhelmed by competing crises — the Black Viper plant and the hidden-gold exposé both landing in the same press cycle — while Esvele Rosznar's social circle is being destabilized by an exposé about one family's hidden gold and missing servants.
 
 ## Esvele Rosznar as a Long Thread
 
