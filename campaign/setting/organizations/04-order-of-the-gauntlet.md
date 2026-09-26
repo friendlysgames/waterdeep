@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **Campaign role:** Player faction — martial agents pursuing diabolism and aberrant evil; focused on the Cassalanters.
+> - **Campaign role:** Player faction — martial agents hunting diabolists and aberrant evil across the city; quietly suspicious of the Cassalanters.
 > - **Contacts:** **Savra Belabranta** (primary, delivers missions in person — no paper birds, no messengers, no flying snakes unless urgent)
 > - **Mission delivery:** Savra arrives in person. She is in her late twenties and looks older in the way that people who have been through something and come out the other side look older. Dark hair worn back. A strong jaw. The patient, measured manner of someone who has learned to think before speaking and found the habit worth keeping. She was a member of the Howling Hatred elemental cult before she was an Order knight. She will tell you this if asked. She will not tell you what she did while she was in it. She is making amends. This is the work she found that made that meaningful.
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
@@ -25,7 +25,7 @@ The Order has a particular interest in the Cassalanters — a Sea Ward noble fam
 
 ## Grand Game Agenda
 
-The Order will move aggressively against the Cassalanters once they have solid evidence of diabolism. PCs who uncover that evidence and share it gain both renown and a formidable ally in the endgame. The tithe expectation applies to the Vault of Dragons: characters who give generously find Savra going well out of her way to support them; characters who pocket everything are quietly reassigned to less sensitive operations.
+The Order will move aggressively against the Cassalanters once they have solid evidence of whatever the family is hiding. PCs who uncover that evidence and share it gain both renown and a formidable ally in the endgame. The tithe expectation applies to the Vault of Dragons: characters who give generously find Savra going well out of her way to support them; characters who pocket everything are quietly reassigned to less sensitive operations.
 
 ## Cross-References
 
@@ -33,4 +33,4 @@ The Order will move aggressively against the Cassalanters once they have solid e
 
 ## Overview
 
-The Order of the Gauntlet is a fellowship of paladins, clerics, and devout martial warriors who pursue and destroy evil actively. In Waterdeep, they are focused on diabolism — specifically a Sea Ward noble family they have watched for months without actionable evidence.
+The Order of the Gauntlet is a fellowship of paladins, clerics, and devout martial warriors who pursue and destroy evil actively. In Waterdeep, they hunt diabolists wherever the trail leads, and they keep a wary eye on a Sea Ward noble family whose generosity seems too good to be true, though months of watching have turned up nothing they can name.

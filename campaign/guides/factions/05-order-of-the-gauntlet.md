@@ -16,7 +16,7 @@ The Order steps outside the Grand Game entirely: no positioning for the vault, n
 - Savra's read on Lord Victoro Cassalanter: "He's charming. The kind of charming that comes from practice."
 
 **What the Order asks for:**
-- Physical evidence of Cassalanter diabolism (a ritual record, a signed instruction from a named family member, a witness who will speak on the record) rather than a confession extracted under magical compulsion
+- Physical evidence of whatever the Cassalanters are hiding (a ledger, a ritual record, a signed instruction from a named family member, a witness who will speak on the record) rather than a confession extracted under magical compulsion
 - Support when the Cassalanter confrontation comes (**Cassalanter Villa**)
 - Honesty. Savra can't work with people she's managing around. She'll know when she's being managed.
 
@@ -40,7 +40,7 @@ Full scene, branches, and Savra's profile sidebar: [Order of the Gauntlet First 
 
 ### Earning Renown
 
-- **Produce solid evidence of Cassalanter diabolism and deliver it to Savra (+2).** The Order has suspected the Cassalanters for some time but lacks actionable proof. Any physical evidence — a ritual record, a signed contract, a witness willing to speak before the Lords — triggers the Order's full engagement with that thread.
+- **Produce solid evidence of what the Cassalanters are hiding and deliver it to Savra (+2).** The Order has suspected the Cassalanters of something for some time but cannot say what, and lacks actionable proof. Any physical evidence — a ritual record, a signed contract, a witness willing to speak before the Lords — triggers the Order's full engagement with that thread.
 - **Destroy or banish a devil or demon encountered during Grand Game operations (+1).** One award per creature of CR 3 or higher. Savra must be informed; creatures dispatched without her knowledge don't count.
 - **Rescue a mind-controlled or enslaved Waterdhavian (+1).** Freeing a citizen from an intellect devourer, breaking a charm placed by a Xanathar operative, or liberating someone held against their will. Once per significant rescue.
 - **Tithe at least 25% of a major recovered hoard to a worthy cause (+1).** Characters who do this without prompting earn the renown.
@@ -67,7 +67,7 @@ The Order's missions are concentrated in the Field Ward, where Savra has built a
 | 3rd | **The Black Viper Investigation** | Investigate reports that the notorious masked thief known as the Black Viper has returned. The trail touches the Grand Game in ways Savra doesn't yet realize. | +2 |
 | 4th | **The Shard Shunners** | A gang of halfling wererats is harassing a Field Ward inn out of spite. Drive them off or defeat them before the innkeeper loses everything. | +3 |
 | 5th | **Spined Devils in Twelvedog Court** | Help Savra put down a pack of spined devils terrorizing the Field Ward. The aftermath reveals a direct thread to a prominent Waterdhavian family. | +3 |
-| 6th | **The Shrine on Aveen Street** | Raid a hidden Asmodeus shrine in the Field Ward — a Cassalanter ritual preparation site — and recover Lord Victoro's operational ledger as physical evidence of diabolism for the Order's formal petition to the Lords. | +4 |
+| 6th | **The Shrine on Aveen Street** | Raid a hidden Asmodeus shrine in the Field Ward. The Order knows only that the shrine is infernal; the party discovers it is a Cassalanter ritual preparation site and recovers Lord Victoro's operational ledger, the first physical evidence tying the family to diabolism, for the Order's formal petition to the Lords. | +4 |
 | 7th | **The Writ and the Weight** | A Horned Devil arrives at the Halls of Justice to recover the incriminating ledger and kill everyone who touched it — Lord Victoro's infernal contract triggered a contractual enforcement rider. Defend against the infernal assault. | +4 |
 
 Full mission write-ups are in the **Faction Events** quest journals.
