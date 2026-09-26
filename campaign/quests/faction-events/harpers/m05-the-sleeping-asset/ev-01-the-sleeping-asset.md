@@ -92,7 +92,7 @@ Corene is at the bench at the expected time. She looks fine.
 
 > [!social]**Halla Ironstave**
 >
-> Corene Wyldath (Lawful Good, Lightfoot halfling, she/her) :: Harper field agent, six months embedded in Xanathar's Dock Ward operation; currently hosting an intellect devourer; everything about her surface behavior is correct and slightly wrong.
+> Corene Wyldath (Neutral Good, halfling, she/her) :: Harper field agent, six months embedded in Xanathar's Dock Ward operation; currently hosting an intellect devourer; everything about her surface behavior is correct and slightly wrong.
 >
 > The devourer has been careful. Corene's cover is intact, her reports have been plausible, and nothing about her at a glance is visibly wrong. The tells are subtle and require engagement to surface.
 >

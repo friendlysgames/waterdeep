@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Audit social-block headers 'Name (Alignment, Ancestry, pronouns) ::' against Notable Figures alignments.
-Usage: cd repo && python3 align_audit.py [path-glob-prefix under faction-events]"""
+Usage: cd repo && python3 .claude/briefs/voice-run/align_audit.py <faction>/[folder prefix]
+(The prefix is relative to campaign/quests/faction-events/; a full path matches nothing and prints nothing.)"""
 import re,glob,sys
 pre=sys.argv[1] if len(sys.argv)>1 else ''
 nf={}

@@ -7,7 +7,7 @@ All paths are under `campaign/quests/faction-events/`. The run converts every Fa
 1. Launch one `prose-drafter` agent per batch with the brief and the batch's folders. Never run more than 5 agents at once.
 2. When it reports, run the QA from the repo root:
    - `python3 .claude/briefs/voice-run/qa_batch.py <faction>/<folder> ...` checks for facts missing against the baseline commit in `voice-run-baseline.txt`, undefined outcomes, retired syntax, render problems and voicecheck TELLs.
-   - `python3 .claude/briefs/voice-run/align_audit.py <path prefix>` checks social-block alignments against the Notable Figures pages.
+   - `python3 .claude/briefs/voice-run/align_audit.py <faction>/<folder>` (relative to faction-events; a full path silently matches nothing) checks social-block alignments against the Notable Figures pages.
    - Check every "missing tokens" DC or number by hand against `git show <baseline>:<path>`. Most missing tokens are just retired headings; lost DCs, numbers and stat-block names are real.
    - Also check narration averages: anything well under Ember's 21 words a sentence is choppy and goes back to the agent.
 3. Apply small fixes yourself. Send anything larger back to the same agent with SendMessage.
