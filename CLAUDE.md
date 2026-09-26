@@ -353,6 +353,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Cassalanter secrecy:** Everybody is suspicious of the Cassalanters because they're too nice to be this rich and this purebred. Nobody knows they're infernalists. No faction or NPC knows about the Asmodean pact, the soul contract or the family's infernalism before the party discovers it; use suspicion, never knowledge.
 
+**Bregan D'aerthe rejects Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her, or invokes the Spider Queen with devotion. Members speak of her with contempt, as the goddess they walked away from; the zeal a house drow gives Lolth, Soluun gives to Jarlaxle. (User: "Bregan D'aerthe *rejects* Lolth as their goddess.")
+
 **Factions: mechanics vs lore:** Faction game mechanics go in the Factions Guide (`campaign/guides/factions/`); faction lore goes in the organization pages. Never put rules, hooks, missions, renown or villain-response mechanics on an organization page.
 
 **Players' Guide / GM Guide split:** Any content that exists in both guides must follow the superset rule (exception: **About This Campaign** has separate player and GM pages that share no text) — the player version is the safe-to-share subset; the GM version includes everything in the player version plus Holder guidance, Warning callouts, DM-private tone notes, and Design Notes. No content exists only in the player version.

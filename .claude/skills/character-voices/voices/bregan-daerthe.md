@@ -42,20 +42,20 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 ---
 
 ### Soluun Xibrindas
-*A fanatical drow killer: cold, contemptuous and devout, with every word soaked in hatred for surface elves.*
+*A fanatical drow killer: cold, contemptuous and zealous for the captain, with every word soaked in hatred for surface elves.*
 
-- **Sound:** A low, flat, cold voice. It rises into fervour when he speaks of Lolth or of Nar'l's weakness.
-- **Sentence shape:** Short, hard, contemptuous statements. He speaks to surface folk only in orders and insults. His religious fervour comes out in longer, chanted sentences.
-- **Word choice:** Drow slurs for surface elves, hunting language ("prey", "the next one"), devotion to Jarlaxle and to Lolth. He calls his brother "the weak one", never by name.
+- **Sound:** A low, flat, cold voice. It rises into fervour when he speaks of Jarlaxle or of Nar'l's weakness.
+- **Sentence shape:** Short, hard, contemptuous statements. He speaks to surface folk only in orders and insults. His zeal for the band comes out in longer, chanted sentences, the way other drow pray.
+- **Word choice:** Drow slurs for surface elves, hunting language ("prey", "the next one"), devotion to Jarlaxle and the band, and open contempt for Lolth and the matron houses that serve her. He calls his brother "the weak one", never by name.
 - **Swearing:** *Triggered · Colourful · Rant.* Vicious and contemptuous, aimed at surface elves and half-elves with slurs and profanity ("Filthy fucking surface-blood. You all smell of sunlight.").
 - **Personality in speech:** Cold hatred, fanatical loyalty and superiority. Once captured, he shows no remorse, only disgust. He claims Jarlaxle's authority even though he was disowned.
 - **Quirks:** He spits at the mention of surface elves. He touches his forged token when he names Bregan D'aerthe.
 - **Signature phrases:** "Surface-blood." / "For the captain." / "The weak one."
-- **Never:** He never apologises, never shows mercy to an elf, and never admits Jarlaxle disowned him.
+- **Never:** He never apologises, never shows mercy to an elf, never admits Jarlaxle disowned him, and never speaks of Lolth as anything but the spider-bitch he walked away from.
 - **Sample lines:**
   - *Greeting:* "You're not elves. Stay out of my way and you might live."
   - *Business:* "I serve the captain. Whatever they told you about me is a lie told for the humans."
-  - *Under pressure:* "Kill me, then. The Spider Queen watches. You'll all be prey one day."
+  - *Under pressure:* "Kill me, then. No goddess is coming for me, and I never wanted one. The captain remembers his own. You'll all be prey one day."
 
 ---
 
