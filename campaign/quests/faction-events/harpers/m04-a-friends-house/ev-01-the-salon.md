@@ -160,7 +160,7 @@ Twenty to thirty guests are present at the salon. The following ten are fully pl
 
 > [!social]**The Host**
 >
-> Remallia "Remi" Haventree (Neutral Good, Sun elf, she/her) :: senior Harper operative and host of thirty years, whose faction identity surfaces through implication over the course of the evening.
+> Remallia "Remi" Haventree (Chaotic Good, Sun elf, she/her) :: senior Harper operative and host of thirty years, whose faction identity surfaces through implication over the course of the evening.
 >
 > Remi moves through the room with the ease of someone who has run these events for a very long time, greeting each person personally and asking better questions than she answers. She knows details about the party's lives that Mirt would have told her, and she uses them. Her warmth is real and it is also a method, and both of those things are true at the same time.
 >
@@ -293,7 +293,7 @@ Twenty to thirty guests are present at the salon. The following ten are fully pl
 
 > [!social]**The Masked Lord**
 >
-> Jelenn Urmbrusk (Lawful Neutral, Tethyrian human, she/her) :: Masked Lord of Waterdeep (identity hidden); being blackmailed by Manshoon.
+> Jelenn Urmbrusk (Neutral, Tethyrian human, she/her) :: Masked Lord of Waterdeep (identity hidden); being blackmailed by Manshoon.
 >
 > Jelenn is a woman in her fifties, precise in her dress and deliberate in her speech, performing the perfect composure of someone for whom composure costs a great deal. She borrowed from the Zhentarim when her money-lending business failed three years ago. Manshoon's people own her now. She files favorable reports as a Masked Lord when asked, covers Watch infractions, and has dismissed two arrests she had no grounds to dismiss.
 >

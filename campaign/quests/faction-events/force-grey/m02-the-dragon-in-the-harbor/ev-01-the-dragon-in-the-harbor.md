@@ -81,7 +81,7 @@ He closes the distance at a speed that leaves no time to formulate an approach. 
 
 > [!social]**The Bronze Dragon**
 >
-> Zelifarn (Neutral Good, Young Bronze Dragon, he/him) :: a bright, bouncy young sea dragon who trades facts the way sailors trade rumors, with complete sincerity on both sides.
+> Zelifarn (Neutral, Young Bronze Dragon, he/him) :: a bright, bouncy young sea dragon who trades facts the way sailors trade rumors, with complete sincerity on both sides.
 >
 > Zelifarn wants things, and he pursues them through relentless enthusiasm and fair trading rather than threats or leverage. He is proud of his harbor — "my harbour" is how he refers to it — and he has been watching everything in it with the focused attention of someone who genuinely enjoys watching. He calls ships by their names and people by what they are wearing. He picks up rude sailor words and uses them wrong and innocently.
 >

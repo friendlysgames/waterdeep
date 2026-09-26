@@ -49,7 +49,7 @@ He is seated in meditation, facing the harbor. He heard the party much earlier t
 
 > [!social]**The Mountain Monk**
 >
-> Hlam (Lawful Neutral, Calishite human, he/him) :: a hermit monk of indeterminate age who perceives threats through sustained attention that most people never achieve.
+> Hlam (Lawful Good, Calishite human, he/him) :: a hermit monk of indeterminate age who perceives threats through sustained attention that most people never achieve.
 >
 > Hlam says almost nothing by way of greeting. He answers questions with questions when he thinks the party is asking the wrong thing, and he waits out silences with more patience than the party is likely to have. His dry humour surfaces in a short, soft observation and then goes, without any signal that it was meant to be funny. He does not explain his riddles, and he will not repeat an answer.
 >
