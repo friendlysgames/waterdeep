@@ -1,120 +1,201 @@
 # The Missing Snobeedle
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Investigation/Social Event begins when Tashlyn's flying snake delivers the mission brief to Trollskull Manor. In this Event, the party can:
 >
-> This Investigation/Social Event begins when the party travels to the Snobeedle Orchard in the Undercliff east of the city walls. In this Event:
+> - Receive the mission brief by flying snake from Tashlyn Yafeera
+> - Travel to the Snobeedle Orchard in the Undercliff and speak with Blossom Snobeedle, who provides Dasher's belongings and a letter that points toward a deliberate departure
+> - Follow three independent paths through the Dock Ward to find Kelso Fiddlewick at the Blushing Mermaid
+> - Arrange a meeting with Dasher through Kelso and hear Dasher's position directly
+> - Choose from four resolution paths, each with distinct consequences for Blossom, Kelso, and future Network operations
+
+> [!gamemaster]**Dasher's Situation**
 >
-> - Blossom Snobeedle provides Dasher's belongings, including a letter that points toward a deliberate departure rather than a kidnapping.
-> - Three independent paths through the Dock Ward lead to Kelso Fiddlewick at the Blushing Mermaid.
-> - Kelso arranges a meeting with Dasher on Dasher's terms.
-> - Dasher's position is unambiguous: he is not going home.
-> - Four resolution paths exist, each with distinct consequences for Blossom, Kelso, and future Network operations.
+> Dasher chose this. He spent two tendays deliberating before accepting the lycanthropy, which is longer than most of the Shard Shunners spent. He has thought about what happens when the party comes — Kelso told him it was coming — and he has decided. His decision is not impulsive and is not a cry for help. It is also not fully clean: he has not spoken to his family in eight months because he cannot figure out what to say, which is its own kind of avoidance.
+>
+> Blossom's detail about the silver sensitivity is the only information in this mission that she does not know the meaning of. She says it because it is the truth and she has no other leads to offer. A party member who knows anything about wererats understands immediately what it means: her son is a lycanthrope by choice, not abduction.
 
-**Background (DM only)**
+### The Brief
 
-Dasher chose this. He spent two tendays deliberating before accepting the lycanthropy, which is longer than most of the Shard Shunners spent. He has thought about what happens when the party comes — Kelso told him it was coming — and he has decided. His decision is not impulsive. It is not a cry for help. It is also not fully clean: he has not spoken to his family in eight months because he cannot figure out what to say, which is its own kind of avoidance.
+A flying snake from Tashlyn arrives at Trollskull Manor and waits until someone notices it.
 
-Blossom's detail about the silver sensitivity is the only information in the mission that she does not know the meaning of. She says it because it is the truth and she has no other leads to offer. A party member who knows anything about wererats understands immediately what it means. The party now has a fact Blossom does not: her son is lycanthrope by choice, not abduction.
+> [!readaloud]
+> A flying snake is coiled on the windowsill when someone notices it, and the note tied to its neck is folded into a tight square.
+>
+> Three lines, in Tashlyn's compressed hand:
+>
+> > *Snobeedle orchard, Undercliff. Missing son, Dasher. 500 gp — Network's. Find him.*
+
+There is no one present to ask questions. Proceed to **The Snobeedle Orchard**.
 
 ### The Snobeedle Orchard
 
-The orchard and meadery sit at the edge of the Undercliff — tidy halfling-scale buildings surrounded by fruit trees, a low fence around the production area, a drinking hall with long tables and ceilings too low for a human to stand upright without care. The shop smells of apple and honey and something that has been fermenting for exactly the right amount of time.
+The orchard and meadery sit at the edge of the Undercliff east of the city walls: tidy halfling-scale buildings surrounded by fruit trees, a low fence around the production area, and a drinking hall with long tables and ceilings too low for a human to stand upright without care. The shop smells of apple and honey and something that has been fermenting for exactly the right amount of time.
 
-**Blossom Snobeedle** receives the party in the drinking hall. She is a halfling in her fifties, capable in the quiet way of someone who has been doing difficult things for a long time. She has been preparing tea since she saw them coming up the road.
+Blossom Snobeedle has been preparing tea since she saw the party coming up the road.
 
-> [!npc-narrative]**Blossom Snobeedle**
-> A halfling in her fifties with the capable quiet of someone who has been doing difficult things for a long time. She has been preparing tea since she saw the party coming up the road.
-
+> [!readaloud]
+> The road up to the orchard crests a low rise, and the meadery's main hall is already visible from a hundred yards away, its windows open and a kettle hanging on the hook above the hearth fire. A halfling woman in her fifties is coming out to meet you before you reach the gate, wiping her hands on her apron.
+>
 > > "Thank you for coming. I don't know who else to ask."
+>
+> She leads you inside and sets the tea on the table, and the cups are already out. She has kept Dasher's belongings in his room, she says, and she hasn't changed anything. She goes to get them and comes back with a childhood belt knife, a journal, and an unsent letter — addressed to a friend whose name she doesn't recognize and that she has already read several times.
+>
+> > "He hated silver," she says, in the way of someone offering a detail they can't quite place. "Ever since he was little. He'd get a rash if it touched his skin."
+>
+> She does not understand what this means. She says it because she has run out of other leads.
 
-She has kept Dasher's belongings in his room, which she has not changed. She offers them reluctantly — a childhood belt knife, a journal, and the letter.
+> [!social]**The Waiting Mother**
+>
+> Blossom Snobeedle (Neutral Good, Lightfoot Halfling, she/her) :: an experienced druid who has held herself together for eight months and intends to keep doing it.
+>
+> Blossom receives the party with genuine warmth and genuine grief in equal measure. She is capable and quiet and does not ask for reassurance. She has already thought through the worst possibilities and is here for the truth, not a comfortable version of it. She offers tea and Dasher's belongings without drama, because she has nothing else useful to give.
+>
+> The letter is the most important thing she has. She hands it over reluctantly — she has been the only one reading it — but she does not hold back.
+>
+> Conversation topics Blossom is willing to discuss include:
+> - Dasher's character: what he was like, what he loved and hated, why she thought he might leave
+> - The letter: she has read it many times and does not know what the unnamed possibility is
+> - Dasher's silver sensitivity: she mentions it because she cannot think of anything else it could mean
+> - What she wants: the truth, and her son safe
+>
+> Any character who speaks with Blossom and makes a successful DC 12 Wisdom (Insight) check senses that she is braced for bad news and would rather have it plainly than have it softened.
 
-The letter was never sent. It is addressed to a friend whose name the party does not recognize, and Blossom does not know. It does not name a gang, a crime, or an intention to stay away. It describes hating the meadery, feeling like the orchard is a sentence rather than a home, and an unnamed possibility he has been offered that "nobody here would understand." A **DC 13 Wisdom (Insight)** check reading the letter suggests that whoever Dasher is with now, he went to them willingly.
-
-Blossom adds, in the way of someone sharing a detail they cannot quite place:
-
-> > "He hated silver. Ever since he was little. He'd get a rash if it touched his skin."
-
-She does not understand what this means. She says it because she has run out of other leads.
+> [!exploration]**Dasher's Letter**
+>
+> The letter is unsent and addressed to a friend whose name Blossom does not recognize. Any character who reads it and makes a successful DC 13 Wisdom (Insight) check concludes that Dasher went to wherever he is now willingly, based on how he describes what he is leaving rather than what he is going toward.
+>
+> > *The meadery is killing me slowly and nobody here sees it. My parents are good people. I don't blame them. There is a possibility I have been offered that nobody in this family would understand, and I intend to take it. I am not in danger. I am finally the opposite of that.*
+>
+> The letter does not name a gang, a crime, or an intention to stay away permanently. It does mention, without connecting it to anything, that Dasher has always hated silver and always will.
 
 ### The Dock Ward
 
-Three independent paths lead to Kelso Fiddlewick by late afternoon:
+Three independent paths lead to Kelso Fiddlewick by late afternoon.
 
-**The dock workers:** Two or more dock workers near Net Street have seen a halfling crew moving goods at night along the eastern waterfront. They know a face — a stocky halfling with a badly scarred jaw, distinctive enough to describe — but not a name.
+> [!exploration]**The Dock Workers**
+>
+> Any character who asks about unusual activity on the eastern waterfront and spends time near Net Street makes a successful DC 12 Charisma (Persuasion) check to learn from two or more dock workers that a halfling crew has been moving cargo there after midnight. They can describe the gang's leader — a stocky halfling with a badly scarred jaw — but none of them know a name.
+>
+> > "There's a crew of halflings working the east wharf past midnight, been at it a few tendays now. Their boss has this jaw — looks like he lost a fight with something that bites. Stocky fella. Doesn't say much."
 
-**The tincture seller:** A potion seller near Sail Street stocks silver-free pain tinctures, ordered by the same halfling woman every two tendays. She will describe the customer if the party offers coin or a plausible reason. That customer is Shard Shunners.
+> [!exploration]**The Tincture Seller**
+>
+> Any character who asks about unusual orders for alchemical goods near Sail Street and offers coin or a plausible reason can learn from a potion seller there that a halfling woman orders silver-free pain tinctures every two tendays, always for the same buyer. That buyer is the Shard Shunners.
+>
+> > "Regular order. Every two tendays, same woman, same three tinctures. All of them silver-free. I don't ask why people need what they need, but she pays well and on time, and she mentioned once it was for a crew on the east waterfront."
 
-**The Guild runner:** A Xanathar Guild runner was shaken down last tenday by a halfling crew on the east waterfront. He does not want to be shaken down again and will point the party at the Blushing Mermaid on Sail Street in exchange for not being a problem for him today.
+> [!exploration]**The Guild Runner**
+>
+> Any character who asks questions among Xanathar Guild contacts can learn from a Guild runner near the eastern waterfront that a halfling crew shook him down last tenday and is operating out of the Blushing Mermaid on Sail Street. He will share the location in exchange for not being a problem for him today.
+>
+> > "Halflings with attitude. Lots of them. Their boss has a scarred jaw and patience like you wouldn't believe. They're out of the Blushing Mermaid on Sail Street. I'd tell you to watch yourself, but honestly they seemed more interested in the cargo than in being difficult."
 
-**At the Blushing Mermaid:**
+### The Blushing Mermaid
 
-Kelso Fiddlewick is already at his table when the party arrives. He sees them before they see him. He does not run. He has the specific patience of someone who has been waiting for this and has decided how he wants it to go.
+Kelso Fiddlewick is already at his table when the party arrives. He sees them before they see him and does not move.
 
-> [!npc-narrative]**Kelso Fiddlewick**
-> A stocky halfling with a badly scarred jaw, already at his table when the party arrives. He sees them before they see him. He does not run; he has the specific patience of someone who has been waiting for this.
+> [!readaloud]
+> The Blushing Mermaid is a low-ceilinged tavern on Sail Street, the kind of place where nobody bothers about what the table next to them is discussing. Kelso Fiddlewick is at a corner table when you come in — a stocky halfling with a badly scarred jaw, watching the door with the specific patience of someone who has been expecting you and has already decided how this is going to go.
 
-> > "You're here about Dasher. He's not lost. He's where he wants to be."
+> [!social]**The Patient Ganger**
+>
+> Kelso Fiddlewick (Neutral, Lightfoot Halfling, he/him) :: the Shard Shunners' leader; he already knows why the party is here and has decided to let them see Dasher.
+>
+> Kelso does not run and does not bluster. He has thought about this visit and made a decision: Dasher should be able to speak for himself. He will arrange the meeting on Dasher's terms, and those terms are non-negotiable. He does not explain his reasoning because he does not need to. If the party has already dealt with the Shard Shunners in OG-M3 or EE-M3, bring that recognition forward in his first exchange — not with a recap, but with the ease of someone who already knows how these particular people operate.
+>
+> Kelso will not discuss Shard Shunners operations, how many members the gang has, or Dasher's circumstances before the party meets Dasher. He will say one thing and wait for an answer.
+>
+> Any character who watches Kelso during the conversation and makes a successful DC 13 Wisdom (Insight) check senses that he is genuinely comfortable with whatever the party decides, because he trusts Dasher's decision and expects Dasher to hold it.
 
-He is willing to arrange a meeting. The terms are Dasher's: on his ground, no Watch involvement, the party agrees before he takes them there.
+> [!qna]**About Dasher?**
+>
+> He sets his cup down.
+>
+> > "You're here about Dasher. He's not lost. He's where he wants to be." A pause. "Talk to him first. Then decide what you're going to tell the family."
 
-> > "Talk to him first. Then decide what you're going to tell the family."
+> [!qna]**Can we see him?**
+>
+> > "That's why I'm still sitting here." He gets to his feet. "His ground. No Watch involvement. You agree to that before we go anywhere."
 
-Kelso does not expand on this. He has said what he meant.
+> [!qna]**Will he come home?**
+>
+> He picks up his jacket from the back of the chair.
+>
+> > "That's a conversation for you and Dasher. I'm not going to tell him what to do."
+
+Kelso leads the party to the Shard Shunners' den once the terms are agreed.
 
 ### Dasher
 
-The Shard Shunner den is near the eastern waterfront: a converted boat storage building, low ceiling, eight halflings going about ordinary work when the party arrives. Dasher is recognizable from a childhood portrait Blossom provided — same round face, new scar on his left hand, calmer than the photo would predict.
+The Shard Shunners' den is a converted boat storage building near the eastern waterfront: low ceiling, eight halflings going about ordinary work when the party arrives. Dasher is recognizable from a portrait Blossom provided — the same round face, a new scar on his left hand, calmer than any childhood picture would predict.
 
-He is not going home. He says this without apology or hostility.
+> [!readaloud]
+> The boat storage building is low and wide, with nets piled along one wall and crates stacked along the other, and most of the Shard Shunners are doing the kind of ordinary work that fills any afternoon: mending gear, moving things from one place to another, eating. Dasher is at a table near the back and he has been watching the door since you came in. He stands up and doesn't come toward you.
+>
+> > "The meadery was suffocating. My parents are good people. I couldn't breathe there." He says it plainly, without apology, the way someone says a thing they've been waiting to say for eight months. "I chose this. The lycanthropy was part of the choosing. I'm not in danger. I'm home."
 
-> > "The meadery was suffocating. My parents are good people. I could not breathe. I chose this. The lycanthropy was part of the choosing. I'm not in danger. I'm home."
+> [!social]**The One Who Left**
+>
+> Dasher Snobeedle (Neutral, Lightfoot Halfling, he/him) :: nineteen years old; he chose the gang and the lycanthropy willingly and is not going back.
+>
+> Dasher has thought about this conversation. He is not defensive and is not hostile. He is also not fully at peace with the eight months of silence — he knows he owes his family something and cannot figure out what it is — but he will not let that uncertainty move him from his position. He says what is true without embellishment.
+>
+> Conversation topics Dasher is willing to discuss include:
+> - Why he left: the meadery, the orchard, the feeling of a life already decided
+> - The lycanthropy: he chose it, and he means that
+> - His family: he loves them and is not going back, and both of those things are true at the same time
+> - A cure: he did not ask for one, but he will listen if the argument is made on his terms
+>
+> Any character who speaks with Dasher and makes a successful DC 13 Wisdom (Insight) check senses that his determination is real and that the only thing underneath it is that he hasn't found the words yet for what to say to his mother.
 
-He means it. He is also someone who has not spoken to his family in eight months and knows he is the reason they have been looking for him.
+> [!qna]**Why didn't you tell them?**
+>
+> He looks at the table for a moment.
+>
+> > "I've written the letter four times. I can't explain it in a way they'd understand, and I didn't want to explain it wrong. I know that's not good enough. I don't have a better answer."
 
-**The party's options:**
+> [!qna]**About the lycanthropy?**
+>
+> > "I thought about it for two tendays before I said yes. That's longer than anyone else here took." He glances toward the others at work nearby. "It wasn't the worst decision I've made, and I've made a few."
 
-*Report honestly to Blossom:* Dasher is alive, safe, and has chosen the Shard Shunners. She will come to the Dock Ward herself within a day. Kelso and Dasher will deal with her arrival. Nothing is resolved — but the family has the truth.
+> [!qna]**What should we tell your family?**
+>
+> > "That I'm alive and I'm not in danger and I'm where I want to be." He pauses. "You can tell them more than that if you want to. That's up to you."
 
-*Broker a family meeting:* A **DC 14 Charisma (Persuasion)** check with Dasher, framing the meeting as one conversation on his terms with no Watch involvement, gets him to agree. He comes to the Snobeedle Orchard on a market day, meets Blossom for two hours, and leaves. The conversation does not go the way either of them planned. Blossom pays the 500 gp. Dasher goes back to the Dock Ward.
+The party's options for resolution are below.
 
-*Offer to find a lycanthropy cure:* Dasher did not ask for a cure. A **DC 15 Charisma (Persuasion)** check to propose it as his choice rather than the family's — no pressure, no strings — gets him to consider it. A *Remove Curse* cast by a willing character, or arranged through a temple, cures the lycanthropy if Dasher consents in the moment. He still does not go home. But he goes as someone who made a second deliberate choice, not one who had his first reversed. He does not say he might return to the orchard eventually. The possibility is there.
+**Report honestly to Blossom:** The party tells Blossom that Dasher is alive, safe, and has chosen the Shard Shunners. She will come to the Dock Ward herself within a day. Kelso and Dasher will deal with her arrival. Nothing is resolved — but the family has the truth.
 
-*Report Dasher as dead:* The Snobeedles grieve, the Watch is not involved, and the Network receives 500 gp. Tashlyn considers this acceptable. Kelso, if he finds out, will not forget it.
+**Broker a family meeting:** A successful DC 14 Charisma (Persuasion) check with Dasher, framing the meeting as one conversation on his terms with no Watch involvement, gets him to agree to come to the Snobeedle Orchard on a market day. He meets Blossom for two hours and leaves. The conversation does not go the way either of them planned. Blossom pays the 500 gp. Dasher goes back to the Dock Ward.
+
+**Offer to find a lycanthropy cure:** Dasher did not ask for a cure. A successful DC 15 Charisma (Persuasion) check, framing the cure as his choice rather than his family's wish, gets him to consider it. A *Remove Curse* cast by a willing character, or arranged through a temple, cures the lycanthropy if Dasher consents in the moment. He still does not go home, but he goes as someone who made a second deliberate choice. He does not say he might return to the orchard eventually, but the possibility is there.
+
+**Report Dasher as dead:** The Snobeedles grieve, the Watch is not involved, and the Network receives 500 gp. Tashlyn considers this acceptable. Kelso, if he finds out, will not forget it.
 
 ### Concluding the Event
 
-> **[GM]**
->
-> **+2 Renown if** the Snobeedle family receives accurate information about Dasher and he is not delivered against his will. Any resolution except the false report qualifies.
-> **+1 Renown (supplementary) if** the family meeting is brokered — Blossom and Dasher have a real conversation. Tashlyn hears about this outcome and says nothing. Her silence on this specific resolution is itself a tell: she expected something harder.
+However the party resolves the mission, Kelso notices. He is the same Kelso who features in OG-M3 and EE-M3, and a party that has worked with those factions before has met him in different contexts. A Field Ward gang leader who has no active reason to be hostile is a limited but real asset in the arc heist phase.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> Mark each outcome that occurs. Later events read them.
 >
-> Kelso Fiddlewick remembers how the party dealt with his people. He is the same Kelso who features in OG-M3 and EE-M3 — if the party has worked with the Order of the Gauntlet or the Emerald Enclave, they have met him before in different contexts. A Field Ward gang leader with reasons to not be actively hostile is a limited but real asset in the arc heist phase, where the Dock Ward's informal networks carry weight.
+> - **Dasher Located** — mark when the party finds Dasher and speaks with him. Read by **Silencing Skeemo** (Mission 4) — the Network contact in the Dock Ward.
+> - **Blossom Told the Truth** — mark when the party delivers an accurate account to Blossom; award +2 Renown. Read by **Faction Outposts** (Kelso's disposition toward the party).
+> - **Family Meeting Brokered** — mark when the DC 14 Persuasion check succeeds and Dasher meets Blossom; award an additional +1 Renown. Read by **Faction Outposts** (Tashlyn's unusually long silence on the outcome is itself a tell).
+> - **False Report Filed** — mark when the party reports Dasher as dead. Read by **Faction Outposts** (Kelso's disposition, if he ever finds out).
+
+> [!gamemaster]**Next Steps**
+>
+> Kelso Fiddlewick remembers how the party dealt with his people. A party that dealt fairly with the Shard Shunners has an asset in the Dock Ward's informal networks that carries weight once **Faction Outposts** begins.
 >
 > **Doom Raiders Mission 4 — Silencing Skeemo** becomes available when the party reaches Renown 6 and character level 5.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
 
 ## Overview
 
 A halfling family in the Undercliff is offering 500 gp for information on a missing son. Find him, and decide what to tell them.
-
-## Read Aloud
-
-> [!narrative]
-> Blossom Snobeedle has been preparing tea since she saw you coming up the road. The orchard is tidy, the drinking hall is clean, and she has kept her son's belongings exactly as he left them. She has the specific quiet of someone who has been holding themselves together for eight months and intends to keep doing it regardless of what you say.
->
-> She slides an unsent letter across the table.
->
-> > "He hated silver. Ever since he was little."
 
 ## Summary
 

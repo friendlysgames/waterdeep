@@ -25,7 +25,7 @@ TELLS = [
     ("'already' for inevitability", r"\balready\b", "narration", False),
     ("'simply' / 'somehow'", r"\b(?:simply|somehow)\b", "narration", False),
     ("noir 'something X' subtext", r"\bsomething (?:warm|careful|cold|harder|else|more) (?:in|underneath|behind|beneath)\b", "all", True),
-    ("triplet X, X, X", r"\b(\w+) \w+, \1 \w+, (?:and )?\1 \w+", "all", True),
+    ("triplet X, X, X", r"\b(?!(?:the|a|an|his|her|their|its|my|your|our|in|on|at|of|to|with|for|by)\b)(\w+) \w+, \1 \w+, (?:and )?\1 \w+", "all", True),
     ("'There's always a' aphorism", r"\bthere'?s always a\b|\balways true of\b", "speech", True),
     # 'quietly' is fine for real sound or stealth; flagged only when no sound/movement word is next to it
     ("'quietly' as a non-committal hedge", r"\bquietly\b", "quietly", True),
@@ -37,7 +37,7 @@ TELLS = [
 ]
 
 # Words that make "quietly" literal: sound, speech, stealth, movement.
-LITERAL_QUIET = r"(?:mov|walk|step|slip|creep|sneak|tiptoe|pad|speak|spoke|say|said|talk|whisper|murmur|mutter|hum|sing|laugh|sob|cr(?:y|ies|ied)|knock|clos|open|shut|enter(?!tain)|entr(?:y|ies)|leav|inform|thank|tell|told|lift|pick|climb|crawl|go(?:es)? in|approach|rot|sit|sat|breath|chuckl|reply|repl|answer|ask|call|drift|pass|pull|draw|slid|stir)\w*"
+LITERAL_QUIET = r"(?:mov|walk|step|slip|creep|sneak|tiptoe|pad|speak|spoke|say|said|talk|whisper|murmur|mutter|hum|sing|laugh|sob|cr(?:y|ies|ied)|knock|clos|open|shut|enter(?!tain)|entr(?:y|ies)|leav|inform|thank|tell|told|lift|pick|climb|crawl|go(?:es)? in|approach|rot|sit|sat|breath|chuckl|reply|repl|answer|ask|call|drift|pass|pull|draw|slid|stir|argu|convers|chat|discuss|confer|agree|laugh|weep|cough)\w*"
 
 
 def quietly_hedge(text):

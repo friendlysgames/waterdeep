@@ -12,10 +12,10 @@ When Mission 4 arrives and Tashlyn names Skeemo as a traitor, the party has a sp
 
 ***Gaxly and the overlapping Wazoo threads.*** Gaxly Rudderbust does not appear in this mission directly, but he is the same Gaxly who appears in OG-M2 (The Black Viper Investigation) and BD-M2 (The Wazoo Affair). All three missions involve the *Waterdeep Wazoo*'s editorial operation, and all three can be running simultaneously in the same tenday.
 
-If the party has already done OG-M2 or BD-M2 before this mission, they have met Gaxly before — he is a friendly, disheveled, ink-stained journalist who runs loose dinner parties and remembers faces. The DR-M2 event does not involve Gaxly directly, but any party member who has been to the Wazoo building for OG-M2 or BD-M2 would recognize it from a broadsheet reference or passing mention.
+If the party has already done OG-M2 or BD-M2 before this mission, they have met Gaxly before: a friendly, disheveled, ink-stained journalist who runs loose dinner parties and remembers faces. The DR-M2 event does not involve Gaxly directly, but any party member who has been to the Wazoo building for OG-M2 or BD-M2 would recognize it from a broadsheet reference or passing mention.
 
 The GM should note when the OG-M2 and BD-M2 Wazoo stories break relative to this mission's timeline. If both of those missions are running simultaneously with DR-M2, Gaxly may be visibly overwhelmed by competing crises — the Black Viper plant and the infernal worship exposé both landing in the same press cycle — while Esvele Rosznar's social circle is being destabilized by infernal worship allegations.
 
 ## Esvele Rosznar as a Long Thread
 
-***The Black Viper is not a one-scene NPC.*** Esvele's reaction to this mission — whether she received poison, was warned, or was successfully deceived — is load-bearing for **Cassalanter Villa**, where she runs a parallel heist. A party that warned her walks into that parallel with one interaction that has already established something like trust. The GM should carry that forward rather than resetting the relationship to neutral.
+***The Black Viper is not a one-scene NPC.*** Esvele's reaction to this mission is load-bearing for **Cassalanter Villa**, where she runs a parallel heist, regardless of whether she received poison, was warned, or was successfully deceived. A party that warned her walks into that parallel with one interaction that has already established something like trust. The GM should carry that forward rather than resetting the relationship to neutral.

@@ -1,6 +1,6 @@
 # Doom Raiders Mission 1 — The Dockside Killer
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > *Doom Raiders Mission 1. Available at Renown 0 and character level 2.*
@@ -10,6 +10,14 @@
 >
 > #### Milestone Overview
 > This mission does not award a Milestone Point.
+
+Three elf and half-elf sailors were found dead in the Dock Ward over consecutive nights, each one in a different alley off Ship Street, each alone, each after midnight. The City Watch opened an investigation and made no progress. The killer had left nothing behind, chose isolated victims, and knew the stretch of waterfront well enough to disappear before anyone came looking.
+
+Davil Starsong had heard about the deaths before the Watch filed their first report. He kept his network out of it until he had a pattern: elf and half-elf targets, same corridor, same hour, consistent precision. He read it as deliberate rather than opportunistic, and that was what worried him. He needed someone who would blend into the Dock Ward at night without drawing the kind of attention his own people would.
+
+The killer was **Soluun Xibrindas**, a drow operative working without authorization in Waterdeep. He had been disowned by Bregan D'aerthe before the campaign began — Jarlaxle removed him from the roster for conducting unsanctioned operations that created exposure risks for the Sea Maidens Faire's presence in the city. Soluun continued operating anyway, killing half-elves out of personal hatred with no faction backing and no mission purpose. The forged Bregan D'aerthe identification token on his person was his own insurance, not an official credential.
+
+The mission closed one of two ways: Soluun stopped and Heldar alive, with the forged token as evidence, or Soluun gone over the rooftops and the question of the token still open.
 
 ## Involved Characters
 - **Davil Starsong** (Doom Raiders) — primary contact; delivers the mission in person at the Yawning Portal; warm, precise, and never without his lute
@@ -21,10 +29,4 @@
 
 ## Overview
 
-Three elf and half-elf sailors were found decapitated in the Dock Ward over consecutive nights — each one in a different alley off Ship Street, each alone, each after midnight. The City Watch opened an investigation and made no progress. The killer left no evidence, chose isolated victims, and knew the stretch of waterfront well enough to disappear before anyone came looking.
-
-Davil Starsong had heard about the deaths before the Watch filed their first report. He kept his network out of it until he had a pattern: elf and half-elf targets, same corridor, same hour, consistent precision. That was professional, not opportunistic. He needed someone who would blend into the Dock Ward at night without drawing the attention his own people would.
-
-The killer was **Soluun Xibrindas**, a drow gunslinger operating without authorization in Waterdeep. He had been disowned by Bregan D'aerthe before the campaign began — Jarlaxle removed him from the roster for conducting unsanctioned operations that created exposure risks for the Sea Maidens Faire's presence in the city. Soluun continued operating anyway, killing half-elves out of personal hatred with no faction backing and no mission purpose. The forged Bregan D'aerthe identification token on his person was his own insurance policy, not an official credential.
-
-The party's work ended one of two ways: Soluun stopped, Heldar alive, and a forged D'aerthe token in hand — or Soluun gone over the rooftops, the Dock Ward watching, and Davil's file on the matter still open.
+Three elf and half-elf sailors have been murdered in the Dock Ward, one each night, in different alleys off Ship Street. Davil Starsong needs someone who can move through the waterfront at night, find the killer, and stop the next murder.
