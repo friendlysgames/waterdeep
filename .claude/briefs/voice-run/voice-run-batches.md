@@ -19,19 +19,19 @@ All paths are under `campaign/quests/faction-events/`. The run converts every Fa
 |---|---|---|
 | H1 | harpers: m01, m02, m03 | Merged |
 | H2 | harpers: m04, m05 | Merged |
-| H3 | harpers: m06, r03, r10, r25, r50, s01 | See handoff |
+| H3 | harpers: m06, r03, r10, r25, r50, s01 | Merged |
 | D1 | doom-raiders: 00-first-meeting, m01 (overview + design-notes; ev-01 is the pilot), m02, m03 | Merged |
-| D2 | doom-raiders: m04, m05 | See handoff |
-| D3 | doom-raiders: m06, r03, r10, r25, r50, s01, s02 | See handoff |
+| D2 | doom-raiders: m04, m05 | Merged |
+| D3 | doom-raiders: m06, r03, r10, r25, r50, s01, s02 | Merged |
 | B1 | bregan-daerthe: 00-first-meeting, m01, m02 | Merged |
 | B2 | bregan-daerthe: m02b, m03, m04 | Merged |
 | B3 | bregan-daerthe: m05, m06 | Merged |
 | B4 | bregan-daerthe: r03, r10, r25, r50, s01, s02, s03, s04 | Not started |
 | E1 | emerald-enclave: 00-first-meeting, m01, m02, m03 | Merged |
 | E2 | emerald-enclave: m04, m05, m06 | Merged |
-| E3 | emerald-enclave: r03, r10, r25, r50, s01, s02 | See handoff |
+| E3 | emerald-enclave: r03, r10, r25, r50, s01, s02 | Merged |
 | F1 | force-grey: 00-first-meeting, m01, m02 | Merged |
-| F2 | force-grey: m03, m04 | See handoff |
+| F2 | force-grey: m03, m04 | Merged |
 | F3 | force-grey: m05, m06, s01 | Not started |
 | F4 | force-grey: r03, r10, r25, r50 | Not started |
 | L1 | lords-alliance: 00-first-meeting, m01, m02 | Not started |
