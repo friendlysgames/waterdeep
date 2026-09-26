@@ -47,7 +47,7 @@ Mirt settles back as the curtain rises. He watches the stage without speaking, g
 >
 > Mirt (Chaotic Good, Illuskan human, he/him) :: a moneylender of prodigious girth, known across Waterdeep, with an adventuring past most people mistake for boasting.
 >
-> Mirt's way of sizing people up is to ask about Waterdeep gossip and whether they've eaten, rather than about their motives or intentions. He is genuinely curious about both, and he listens to the answers attentively and without hurrying anyone along. During Act 1 he is warm, a little amused, and in no particular rush.
+> Mirt's way of sizing people up is to ask about Waterdeep gossip and whether they've eaten, rather than about their motives or their intentions. He is genuinely curious about both, and he listens to the answers with more care than the delivery suggests. During Act 1 he is the Old Wolf: loud, rolling, a little crude, and in no hurry at all.
 >
 > His habit when listening closely is a slight tilt of the head. A character who watches him through the first act and makes a successful DC 14 Wisdom (Insight) check senses that he is measuring the party against specific criteria that he will not name if asked.
 >
@@ -60,21 +60,21 @@ Mirt settles back as the curtain rises. He watches the stage without speaking, g
 
 > [!qna]**Waterdeep gossip?**
 >
-> Mirt tilts his head toward whichever character spoke and considers for a moment.
+> Mirt tilts his head toward whichever character spoke.
 >
-> > "Oh, I hear a great many things. Whether I share any of them depends entirely on whether the conversation improves." He takes a sip of wine and glances back at the stage. "It's improving so far, if that helps."
+> > "Gods, where do I start. There's a Sea Ward merchant, I won't say which one, who's been paying a diviner thirty dragons a tenday to confirm his wife is faithful, and the diviner keeps saying yes, because the diviner is the one fucking her. I've heard this from three different people and none of them agreed on how it ends." He refills the nearest glass without looking away from the stage. "Half of what I know I probably shouldn't tell you. Ask me something specific."
 
 > [!qna]**Have you eaten?**
 >
-> He nods and reaches over to refill the nearest glass.
+> He nods and reaches for the bottle.
 >
-> > "Good, good. You'd be surprised how many people show up to an evening like this without having eaten first, and then wonder why they can't think clearly." He holds up the bottle to check if anyone else needs a top-up. "The wine's decent enough here, anyway. This theater doesn't cut corners on what they put in the boxes."
+> > "Good, good. You'd be surprised how many people come to something like this empty and then wonder why the whole fucking evening feels off." He tops up the nearest glass and checks the others. "The wine here's been decent since they sorted the cellar. I don't know what they changed, but it's one of the few things in this city that's been getting better instead of worse and charging me for the privilege."
 
 > [!qna]**The production?**
 >
-> He watches the stage for a moment before he answers.
+> He watches the stage a beat before he answers.
 >
-> > "The second act is better than this one, honestly. The playwright gave Tiamat the better lines, and you'll see why when she actually gets to speak for herself. Right now the mortals are spending most of Act 1 just reacting to her, which isn't nearly as interesting."
+> > "The second act's better — wait until Tiamat actually gets to speak. Right now the mortals are doing all the talking and she's sitting up there being enormous, which is a waste of a good playwright's afternoon." He settles back in his chair. "My view is you don't write a dragon-goddess and then spend half your running time keeping her quiet. But the man's still getting paid and I'm still buying tickets, so apparently he knows something I don't."
 
 ### The Intermission
 
@@ -89,7 +89,7 @@ At intermission, Mirt sets down his glass and turns to address the box directly.
 
 > [!social]**The Offer**
 >
-> Mirt describes the Harpers plainly, without embellishment or persuasion: a network that works from the shadows, resists tyranny, and answers to no guild and no government. He names none of the Waterdeep cell's members, and he doesn't say what the first mission will be.
+> The man who spent Act 1 rolling through gossip and theater opinions is gone. Mirt at intermission is quiet, exact, and without ornament: short sentences, plain words, no swearing. He describes the Harpers without trying to sell them, and names none of the Waterdeep cell's members.
 >
 > He doesn't touch on the Stone of Golorr, Manshoon, the Cassalanters, the vault, or anything else connected to the Grand Game. After he has said what he came to say, he waits to hear what questions the party asks, and he listens carefully to how they ask them.
 >
@@ -111,13 +111,13 @@ At intermission, Mirt sets down his glass and turns to address the box directly.
 
 > [!qna]**Who else is in the cell?**
 >
-> > "If you were meant to know, I'd have told you already."
+> > "Nobody gets a list."
 
 > [!qna]**What's the first mission?**
 >
 > He tilts his head toward whoever spoke.
 >
-> > "You haven't said yes yet, so I'd settle that first before we get to what comes after."
+> > "You haven't said yes yet."
 
 If the party declines, read or paraphrase the following:
 

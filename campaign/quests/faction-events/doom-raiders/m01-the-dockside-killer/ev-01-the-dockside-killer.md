@@ -34,21 +34,23 @@ Davil Starsong receives the party in his curtained room on the second floor of t
 >
 > He waits for you to settle, then sets his cup down and folds his hands on the table.
 >
-> > "Three sailors found dead in the Dock Ward, all of them elves or half-elves, one each night for three nights, in different alleys off Ship Street, after midnight and alone each time. The City Watch opened a file and closed it again almost as fast, because there was no evidence, no witnesses, nothing they were willing to pursue."
+> > "Three sailors found dead in the Dock Ward, all of them elves or half-elves, one each night for three nights, in different alleys off Ship Street, after midnight and alone each time. The Watch opened a file and set it aside almost immediately, because there was nothing there they were prepared to pursue."
 >
 > He turns his cup in his hands.
 >
-> > "I kept my people out of it until I could see a pattern, and now I can. It's too deliberate to be coincidence. Whoever this is, they know those alleys and the hour, and they know how to be gone before anyone comes looking. There will be another one, and you understand that as well as I do, yes?"
+> > "I kept my people out of it until I could see a pattern, and now I can. The care in it is not accidental: the same stretch of the docks, the same hour, always alone, always well after midnight. Whoever this is has been deliberate about it, and there will be another one. You understand that as well as I do, yes?"
 >
 > He looks at you across the table with easy warmth.
 >
-> > "I need someone who can move through the docks at night without looking like they are working them, and my people cannot do that in that part of the city without drawing exactly the wrong kind of attention. You can. Find the killer and stop the next one."
+> > "I need someone who can move through the docks at night without appearing to work them, and my own people can't manage that in this part of the city without drawing exactly the kind of notice I'd rather avoid. You don't have that difficulty. Find whoever this is and stop the next one, and I will consider that a very real service, yes?"
 
 > [!social]**The Master of Opportunities**
 >
 > Davil Starsong (Neutral, Sun Elf, he/him) :: a sun elf fixer who presents favors as gifts and debts as opportunities.
 >
-> Davil made up his mind to offer this job before the party sat down. He is precise about the facts and warm toward the party, with the easy manner of someone who has sized people up for a living and likes what he sees. He fidgets with the charm bracelet when he is weighing something. His lute stays on the wall during business, and its presence is a signal to anyone paying attention.
+> Davil made up his mind to offer this job before the party sat down. He is precise about the facts and warm toward the party, with the easy manner of someone who has sized people up for a living and likes what he sees. He turns the charm bracelet at his wrist when he is weighing something, and he lets silences sit rather than filling them. His lute stays on the wall during business.
+>
+> When he speaks, he frames everything as opportunity and as helping people who can't help themselves. He ends many of his sentences on a gentle question — "yes?" — not to seek confirmation but to include the listener. He does not yet call the party "my friends"; that comes after they've completed a job for him.
 >
 > He will not discuss his sources, whether he has a suspect, or what the forged token means when the party finds it. He is not forthcoming about why he kept his network out of the investigation until he had a pattern.
 >
@@ -64,27 +66,27 @@ Davil Starsong receives the party in his curtained room on the second floor of t
 
 > [!qna]**Who were the victims?**
 >
-> > "Three sailors, all of them elves or half-elves," he says, "found in alleys off Ship Street, one each night for three nights, after midnight and alone each time." He pauses. "The Watch found nothing because there was nothing left to find. Whoever did this took their time."
+> > "Three sailors, all of them elves or half-elves," he says, "found in alleys off Ship Street, one each night for three nights, after midnight and alone each time." He pauses. "The Watch found nothing because there was nothing left to find. Whoever did this was patient about it, and patience worries me more than anger ever has, yes?"
 
 > [!qna]**Why us?**
 >
-> > "My people are known in that part of the city," he says with a small rueful smile, "and not warmly. Someone watching the docks at night with any kind of Zhentarim association raises questions I would rather not be answering right now, and that's a problem you simply don't have."
+> > "My people are known in that part of the city," he says with a small rueful smile, "and not warmly. Someone keeping watch on those docks with any kind of Zhentarim association draws exactly the questions I'd rather not be fielding right now. You don't have that complication."
 
 > [!qna]**What do you know about the killer?**
 >
-> > "Someone careful and patient," he says, "who has worked the same stretch of water at the same hour with isolated targets each time. That kind of consistency takes planning and some familiarity with the ground, and you don't end up in the right place three nights in a row without having been there before." He turns his cup again. "I'm afraid that's more or less all I can tell you."
+> > "Someone careful and patient," he says, "who has worked the same stretch of the docks at the same hour with targets who were always alone. That kind of consistency takes planning, and it takes familiarity with the ground, and you don't find the right place three nights running without having been there before." He turns his cup again. "I think that covers what I know, yes?"
 >
 > He turns the charm bracelet over once and leaves it at that.
 
 > [!qna]**Where do we start?**
 >
-> > "Ship Street is where I'd start," he says. "Walk it at night, beginning at the Muleskull Tavern on the near end. All three of them died within a few blocks of it. And if you look at the three alley sites together rather than one at a time, I think you'll find they share more than they appear to."
+> > "Ship Street is where I'd start," he says. "Walk it at night, beginning at the Muleskull Tavern on the near end, since all three died within a few blocks of it, and the sites will tell you more together than they do separately. I'd look at them as a group rather than one at a time, yes?"
 
 > [!qna]**The pay?**
 >
 > Davil's fingers find the charm bracelet at his wrist and turn one of the small trophies between his fingers.
 >
-> > "You will be compensated," he says. "There is coin in it, and beyond that my good opinion has opened doors in this city for people I have found capable, and I have a feeling that will matter to at least one of you. We can sort out the details when the work is done."
+> > "You will be compensated," he says. "There is coin in it, and beyond that my good opinion opens doors in this city that don't otherwise open. We can sort out the details when the work is done."
 
 Once the party accepts, proceed to **The Dock Ward at Night**.
 
@@ -107,7 +109,7 @@ Characters who spend the evening hours on Ship Street and the adjacent waterfron
 >
 > Any character who strikes up a conversation with two or more dock workers and makes a successful DC 13 Charisma (Persuasion) check learns that one of them was drinking with the second victim the night before that one died.
 >
-> > "Heldar? Yeah, I know him. He's a half-elf, works the eastern wharf, and he was drinking with the second one they found, the evening before it happened. He's been back every night since, sits at the same table, leaves around third bell, and takes the same route back to his ship every time. You'd think he'd have the sense to vary it."
+> > "Heldar? Yeah, I know him. Half-elf, works the eastern wharf — he was drinking with the second one they found, the night before it happened, sitting right there at that table. He's been back every night since, same table, leaves around third bell, takes the same route back to his ship every time. I don't know why he keeps walking that way. I'd have taken a different fucking street by now."
 >
 > Heldar is at the Muleskull Tavern, late table, third bell.
 
@@ -198,7 +200,7 @@ If the **Heldar Survived** outcome is marked, read or paraphrase the following t
 > [!readaloud]
 > Heldar is at the waterfront the next morning, sitting on a dock post with the sober, careful stillness of someone who slept badly, and when he sees you he gets to his feet too quickly and has to catch himself.
 >
-> > "I — they told me what happened. What you did." He fumbles with a small purse and holds it out. "It's everything I've got on me. Fifty gold. I know that's not — I just wanted you to have it."
+> > "I — shit, I don't — they told me what you did." He holds out a small purse. "Fifty gold. It's all I've got on me right now. I know it's not near enough, just — take it, will you?"
 
 > [!gamemaster]**Event Outcomes**
 >

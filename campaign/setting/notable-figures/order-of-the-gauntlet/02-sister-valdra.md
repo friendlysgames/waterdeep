@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Sister Valdra is a half-orc temple guard who does security work and looks for honest employment as a bouncer or muscle. To those who earn her trust, she has been building a case against the Cassalanters for three months on her own time, without orders and without telling Savra, based on a servant's story the Watch dismissed six months ago. Deep down, she holds three pieces of evidence linking the villa to Asmodeus worship, and she has been waiting for someone with the authority — or the recklessness — to use them.
+**Persona.** To the world, Sister Valdra is a half-orc temple guard who does security work and looks for honest employment as a bouncer or muscle. To those who earn her trust, she has been building a case against the Cassalanters for three months on her own time, without orders and without telling Savra, based on a servant's story the Watch dismissed six months ago. Deep down, she holds three pieces of evidence that something is badly wrong behind the villa's charity (she cannot say what, only that the family is too generous, too perfect, and that people who look closely stop being seen), and she has been waiting for someone with the authority — or the recklessness — to use them.
 
 **Morale.** In a fight, Sister Valdra positions herself at the front and does not retreat from a threat to someone in her care. She calls on Tyr and means it.
 
