@@ -1,6 +1,6 @@
 # Force Grey Mission 3 — The Trouble with Meloon
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > Requires Force Grey Renown 4 and 4th level. Available after Mission 2 is complete.
@@ -11,21 +11,27 @@
 > #### Milestone Overview
 > This mission awards no Milestone Points.
 
+Meloon Wardragon has been a Force Grey veteran since before Vajra took the Blackstaff. He is trusted, well-connected, and constitutionally incapable of believing that a friend's body could be used against him. An intellect devourer from Nihiloor's network has been occupying his skull for three tendays. Vajra cannot observe him herself without alerting him; official Force Grey surveillance changes his behavior immediately. The party is her only option for unmarked observation.
+
+Azuredge, the sentient greataxe Meloon has carried for two decades, has been fighting the devourer's control since it arrived. It has prevented worse things from happening. It cannot reach Meloon through the devourer's interference, but it can reach the party, if they pay attention to it.
+
+The mission's three outcomes depend entirely on how specifically the party can document the possession. A full report triggers Vajra's immediate action. A direct extraction attempt surfaces the devourer as a combat threat. An inconclusive report leaves Nihiloor's network with the party's identities before Mission 4 begins.
+
 ## Involved Characters
-- **Vajra Safahr** (Force Grey) — the Blackstaff; sends the surveillance mission by Sending spell; acts immediately on confirmed intelligence
+
+- **Vajra Safahr** (Force Grey) — the Blackstaff; assigns the surveillance mission by *Sending*; acts immediately on confirmed intelligence
 - **Meloon Wardragon** (Force Grey) — a Force Grey veteran, large and formerly cheerful; currently occupied by an intellect devourer from Nihiloor's network
 - **Azuredge** (independent) — Meloon's sentient greataxe; actively fighting the devourer's control and waiting for someone to notice; the mission's moral center
 - **Durnan** (Yawning Portal) — knows what the party is there for; says nothing; watches
 
 ## Dangers & Enemies
-The primary threat is an **Intellect Devourer** (2024 *Monster Manual*) — currently occupying Meloon's skull, not visible or targetable until extracted. If a direct extraction is attempted and fails, the devourer surfaces and attempts to implant in the nearest living creature. The only combat risk in this mission is during failed extraction; all other beats are observation and social.
+
+The primary threat is an **Intellect Devourer** (2024 *Monster Manual*), currently occupying Meloon's skull and not visible or targetable until extracted. If direct extraction is attempted and fails, the devourer surfaces and tries to implant in the nearest living creature. All combat risk in this mission is confined to a failed extraction. Every other beat is observation and social.
 
 ## Overview
 
-Vajra's Sending assigns a tenday of observation on Meloon Wardragon, a Force Grey veteran who has been behaving strangely. She does not explain why she cannot observe him herself.
+Vajra assigns the party to watch Force Grey veteran Meloon Wardragon at the Yawning Portal for a tenday. Something is wrong with him, and she cannot watch him herself without changing his behavior.
 
-Over the tenday, the party watches Meloon's table at the Yawning Portal slowly reveal what has happened to him. His responses lag. He attends meetings with the focused attention of something that is using him as an observation post. On Day 7, his sentient axe **Azuredge** reaches out to a party member directly, communicating its urgent awareness through emotional impression: *There is something wrong with him. I cannot reach him. You can.*
+Over the tenday, the party observes the slow accumulation of a picture: lagged responses, cataloguing questions, a morning ritual with his axe that the axe appears to be losing. On Day 7 of the watch, Meloon's sentient greataxe Azuredge can reach a party member who addresses it by name, delivering three emotional impressions in sequence — something is wrong with him, I cannot reach him, you can.
 
-The party has three paths when the tenday ends. They can report to Vajra with full specificity — she acts immediately, removes the devourer by *wish*, and Meloon is restored. They can attempt a direct magical extraction themselves, with the devourer surfacing on success and becoming a direct threat. Or they can report inconclusively, in which case Nihiloor's network has now identified Force Grey's new Gray Hands — and the Spawning Pool in Mission 4 will be expecting them.
-
-The mission rewards the party with a *wand of secrets* on any successful resolution. Vajra had been holding it.
+When the tenday ends, the party must decide what to do with what they found.
