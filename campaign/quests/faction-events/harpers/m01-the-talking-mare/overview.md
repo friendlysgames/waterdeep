@@ -1,15 +1,19 @@
 # The Talking Mare: Overview
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
-> Available from the start of Act I. No prior Harper missions required. The PCs must have made contact with Mirt through the Harpers faction recruitment hook in **Trollskull Alley**.
+> Available from the start of Act I. No prior Harper missions required. The party must have joined the Harpers in the **Harpers First Meeting** event.
 >
 > #### Difficulty
 > *An adventure for 2nd–3rd level characters.*
 >
 > #### Milestone Overview
 > This mission does not award a Milestone Point.
+
+The Manshoon Splinter does not know which horse in the Dock Ward is the Harper asset. They have inferred, from a report by an unnamed source, that a horse with a Speak with Animals enchantment is working the dray routes somewhere in the ward, and they sent an operative named Vell to watch and wait for a Harper contact to do the identification work for them. She has been in a hire-coach on Fillet Lane for two days.
+
+Maxeene is a grey roan draft mare who received a permanent Speak with Animals enchantment from a Harper-sympathetic druid some years ago as a favour. She has been passing observations to the Harpers ever since, in the cheerful, gossipy manner of a horse who finds human behaviour interesting. Her intelligence is informal and conversational and often more useful than structured reports. Mirt needs her moved to new stabling before Vell can confirm her identity and report back.
 
 ## Involved Characters
 - **Mirt** (Harpers) — mission contact; delivers the task privately in a theater box and disappears before the first act ends
@@ -18,11 +22,9 @@
 - **Orvel** — Dock Ward urchin; knows Maxeene's current location for a silver piece and one apple
 
 ## Dangers & Enemies
-- Vell (Spy) — not immediately hostile; follows the party after they locate Maxeene, then reports to her handler or intercepts depending on the PCs' actions
-- Three agents at the Shesstra Street safehouse if the PCs follow Vell back (Spy stat blocks; not triggered unless the PCs choose to pursue)
+- Vell (Spy) — not immediately hostile; follows the party after they locate Maxeene, then reports to her handler or intercepts depending on the party's actions
+- Three agents at the Shesstra Street safehouse if the party follows Vell back (Spy stat blocks; not triggered unless the party chooses to pursue)
 
 ## Overview
 
-Mirt contacted the party through a set of matinée tickets delivered without explanation to Trollskull Manor. At the Lightsinger Theater, speaking without looking away from the stage, he described a draft mare named Maxeene who had been enchanted years ago to understand and speak the common tongue. She had been overhearing useful things for the Harpers for some time. A Manshoon Splinter operative had begun watching the Dock Ward dray routes that tenday, waiting for someone else to identify which horse could actually speak — the Splinter lacked Harper intelligence on Maxeene directly, but they had inferred that a Harper-connected horse was somewhere in the Dock Ward and sent Vell to wait.
-
-The party located Maxeene on Fillet Lane, spoke with her, and learned that she had been carrying a pale, silent man four days earlier from an unmarked building on Shesstra Street in the Trades Ward — a building that turned out to be a Manshoon Splinter safehouse. Vell was watching from a hire-coach across the lane. The party's choices about Maxeene's relocation and Vell's fate determined both the asset's long-term safety and what intelligence reached Mirt about the Shesstra Street address.
+A draft mare named Maxeene has been passing useful observations to the Harpers from her Dock Ward dray routes for years. A Manshoon Splinter operative is watching Fillet Lane from a hire-coach, waiting for someone to identify the right horse. Mirt needs Maxeene relocated before the Splinter makes her.
