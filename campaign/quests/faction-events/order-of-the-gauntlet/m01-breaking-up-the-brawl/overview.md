@@ -1,6 +1,6 @@
 # Breaking Up the Brawl
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > *Order of the Gauntlet Mission 1. Available at Renown 0 and character level 2.*

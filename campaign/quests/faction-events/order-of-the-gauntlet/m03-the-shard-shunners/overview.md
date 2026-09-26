@@ -1,6 +1,6 @@
 # The Shard Shunners
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > *Order of the Gauntlet Mission 3. Available at Renown 4 and character level 4.*

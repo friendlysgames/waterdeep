@@ -1,6 +1,6 @@
 # The Black Viper Investigation
 
-> **[GM]**
+> [!gamemaster]
 >
 > #### Quest Requirements
 > *Order of the Gauntlet Mission 2. Available at Renown 2 and character level 3.*
@@ -20,7 +20,7 @@
 ## Dangers & Enemies
 **Seffia Naelryke** (no combat stat block; uses two **Thugs** as exterior guards if the party attempts to detain her). Combat is unlikely if the Seffia meeting is handled with care; forced detention brings the guards.
 
-A **Cassalanter imp** begins surveillance of Trollskull Manor within 48 hours of the party's first contact with Gaxly. It is invisible, small, and fast. Capturing it is difficult but consequential — physical evidence of Cassalanter devil-binding.
+An **Imp** begins surveillance of Trollskull Manor within 48 hours of the party's first contact with Gaxly. It is invisible, small, and fast. Capturing it is difficult but consequential — the Order's first hard piece of evidence that whoever is watching the party employs an infernal creature.
 
 ## Overview
 The Waterdeep Wazoo has published a story claiming the Black Viper — a masked thief active in the North Ward — is a secret Cassalanter twin sister. The story is a planted trap. A Cassalanter operative named Seffia Naelryke fed it to the publisher to identify anyone investigating the family seriously enough to follow the lead.
