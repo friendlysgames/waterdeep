@@ -46,7 +46,7 @@ The shop in the Trades Ward is organized with a gnome's specific logic: labels f
 
 > [!social]**The Precise Alchemist**
 >
-> Skeemo Weirdbottle (Neutral Evil, Rock Gnome, he/him) :: a tidy alchemist whose politeness has no warmth in it.
+> Skeemo Weirdbottle (Lawful Evil, Rock Gnome, he/him) :: a tidy alchemist whose politeness has no warmth in it.
 >
 > Skeemo's pleasantness is technically indistinguishable from warmth. He greets the party by name, which he knew in advance, and answers questions with deflections that are technically reasonable. His attention, when the party turns to examine the coffer, never fully leaves them. Every response and hesitation will go into his report. He will not confirm or deny any specifics about the coffer's contents.
 >
