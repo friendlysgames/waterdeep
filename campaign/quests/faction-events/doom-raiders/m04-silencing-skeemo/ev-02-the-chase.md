@@ -1,111 +1,134 @@
 # The Chase
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Exploration/Combat Event begins the moment Skeemo runs and ends with his elimination or his escape to Yellowspire. In this Event, the party can:
 >
-> This Combat/Exploration Event begins the moment Skeemo runs and ends with either his elimination or his escape to Yellowspire. In this Event:
+> - Chase Skeemo through the Trades Ward by street or rooftop, depending on how the approach went.
+> - Navigate civilian bystanders and Watch visibility in the street chase, or solve an invisibility targeting problem in the rooftop pursuit.
+> - Search the satchel if Skeemo is caught, and discover that his paper birds are addressed to Vevette Blackwater.
+> - Handle the elimination in a way that clears the Watch file — or create a complication that surfaces in **Kolat Towers**.
 >
-> - Two chase paths exist depending on whether Skeemo reached the skylight: the dray street chase or the Fly + Greater Invisibility rooftop pursuit.
-> - The dray chase involves civilian bystanders; the rooftop pursuit becomes a targeting problem after three rounds.
-> - If Skeemo escapes: he reaches the Yellowspire teleportation circle and arrives at Kolat Towers. He resurfaces in **Kolat Towers** and recognizes the party on sight.
-> - If Skeemo is caught: Act 3 covers the elimination and what the satchel contains.
-
-**Background (DM only)**
-
-The two chase paths are mutually exclusive based on whether the party blocked the skylight. The dray was hired yesterday with the specific intention of using civilian passengers as cover — Skeemo knows that a party willing to attack a vehicle full of commuters is a different kind of problem than a party that hesitates. The rooftop invisibility route is his backup: he has *Greater Invisibility* prepared and it is one of the first things he casts once he has three rounds of separation.
-
-If he reaches Yellowspire: the teleportation circle deposits him directly in Kolat Towers. He arrives with his satchel, his intelligence files, and a very specific face recognition for everyone in the party. This is a partial mission failure — the Network still benefits from the satchel being destroyed or not sent, but Skeemo is out of reach until **Kolat Towers**.
-
-### The Street Chase (If Skeemo Did Not Reach the Skylight)
-
-Skeemo on the ground: he reaches the front door or the back alley and moves toward Copper Lane. The dray is around the corner — prearranged, five commuter passengers already aboard, driver paid to move when Skeemo gets on.
-
-A **DC 14 Strength (Athletics)** check to catch the dray before it merges into Trades Ward traffic. Failure means he is in the Castle Ward flow within two minutes, using the vehicle and the crowd for cover.
-
-If the dray is in traffic: three **DC 14 Dexterity (Acrobatics)** or **Strength (Athletics)** checks to keep pace across the busy thoroughfare, cutting between wagons and pedestrians. Three successes before three failures brings the party alongside the dray. Three failures means Skeemo exits at a side street the party cannot follow quickly enough.
-
-> **[GM]**
+> #### The Two Chase Paths
 >
-> #### The Bystanders
-> The dray carries five civilian commuters who did not know what they were boarding. Skeemo did this deliberately. Any attack on the dray that does not specifically target Skeemo risks injuring passengers and drawing immediate Watch attention. A party that causes civilian casualties in the Trades Ward opens a Watch file that is exactly what Tashlyn said to avoid. Targeted spells and precision strikes are the viable options; area effects are not.
+> The street chase and the rooftop chase are mutually exclusive. If **Rooftop Position Taken** is marked from **The Approach**, the dray never gets moving — Skeemo came out onto the tiles and the ground chase does not occur. If **Forced Entry Made** is marked, Skeemo had a full head start through the skylight and the dray is still parked on Copper Lane. If **Quiet Entry Made** is marked, the party interrupted Skeemo before he reached the skylight, and either the shop confrontation resolved or he broke for the front door.
 
-If the dray is stopped: Skeemo abandons it immediately and runs on foot. He is not fast without the vehicle. A **DC 12 Dexterity (Acrobatics)** check to cut him off; on success, the party is between him and Yellowspire. On failure, he has a side street and sixty feet of separation.
+> [!gamemaster]**The Dray**
+>
+> Skeemo hired the dray yesterday with five civilian commuter passengers already booked — an arrangement designed so the vehicle is not empty when he boards. He knows that a party willing to attack a vehicle full of commuters is a different kind of problem than a party that hesitates. Any attack on the dray that does not specifically target Skeemo risks injuring passengers and drawing immediate Watch attention. A Watch file is exactly what Tashlyn said to avoid. Targeted spells and precision strikes are viable; area effects are not.
 
-### The Rooftop Chase (If Skeemo Reached the Skylight)
+### The Street Chase
 
-Skeemo clears the shop's skylight and immediately casts *Fly*. He stays low over the Trades Ward roofline — below the altitude where the Griffon Cavalry would take notice. He is heading north toward Yellowspire on Copper Pot Lane.
+Skeemo is on the ground, moving fast for the corner of Copper Lane where the dray is waiting.
 
-**Three rounds of opportunity:** For the first three rounds, Skeemo is visible: a gnome in a leather apron, moving fast, heading north-northwest. Any ranged attack or spell that can reach his altitude is viable. His AC is not high; the problem is window time, not defenses.
+> [!readaloud]
+> He comes out the door at a run, crossing Copper Lane without checking for traffic, and the dray is right there around the corner — a covered wagon with a driver gathering the reins and five passengers who appear entirely unaware of what they have boarded.
 
-At the start of round 4, he casts *Greater Invisibility* on himself.
+> [!exploration]**Catching the Dray**
+>
+> Any character who moves to intercept before the dray pulls into traffic can attempt a DC 14 Strength (Athletics) check to reach the vehicle before it merges into the Trades Ward flow.
+>
+> - On success, the party reaches the dray before it moves. Skeemo is still aboard and the confrontation happens in the street.
+> - On failure, the dray is moving in Castle Ward traffic within two minutes. Continue to **Traffic Chase**.
 
-**With Greater Invisibility active:** Skeemo is untargetable by standard attacks. The party needs one of the following:
-- A spell that reveals invisible creatures (*Faerie Fire*, any effect that creates a visible marker)
-- An area effect cast along his projected flight path (he is still moving; the noise of his movement is a **DC 20 Wisdom (Perception)** check to track)
-- A way to reach the rooftop where he will land when the spell expires (ten minutes; he will land at Yellowspire before then)
+> [!exploration]**Traffic Chase**
+>
+> If the dray is in motion, three DC 14 Dexterity (Acrobatics) or Strength (Athletics) checks are needed to keep pace across the busy thoroughfare, cutting between wagons and pedestrians.
+>
+> - On three successes before three failures, the party comes alongside the dray and Skeemo abandons it immediately, running on foot. A DC 12 Dexterity (Acrobatics) check then cuts him off; on success, the party is between him and Yellowspire. On failure, he has a side street and sixty feet of separation.
+> - On three failures before three successes, Skeemo exits at a side street the party cannot follow quickly enough. Continue to **Escaping to Yellowspire**.
 
-> **[GM]**
+### The Rooftop Chase
+
+Skeemo has cleared the skylight and casts *Fly* immediately. He stays low over the Trades Ward roofline, below the altitude where the Griffon Cavalry patrols, heading north toward Yellowspire on Copper Pot Lane.
+
+> [!readaloud]
+> He clears the skylight frame and the air shimmers around him as the spell takes hold. He is heading north, keeping to rooftop height, a gnome in a leather apron with a satchel pressed flat against his body and no hesitation about the direction.
+
+> [!hazard]**Skeemo Above the Roofline**
+>
+> **Skeemo Weirdbottle** uses the **Mage** stat block (2024 *Monster Manual*).
+>
+> #### Skeemo's Tactics
+>
+> At the start of the rooftop chase, Skeemo is visible: flying north-northwest at low altitude, with three rounds before he casts *Greater Invisibility*. Any ranged attack or spell that can reach his altitude is viable during this window. His AC is not high; the difficulty is the window itself.
+>
+> Over the course of the chase, Skeemo prioritizes distance over engagement. He does not stop to fight unless cornered and brought below half his hit points — and at that point he will negotiate before he fights.
+>
+> At the start of round 4, Skeemo casts *Greater Invisibility* on himself. With the spell active, he is untargetable by standard attacks. The party needs one of the following to continue the pursuit:
+>
+> - A spell that reveals invisible creatures (*Faerie Fire*, any effect that creates a visible marker).
+> - An area effect cast along his projected flight path — his noise of movement is a DC 20 Wisdom (Perception) check to track.
+> - A route to Yellowspire that arrives at Copper Pot Lane before the five-minute flying window closes. Any character who knows the Trades Ward layout can attempt a DC 14 Intelligence (History) check to identify a parallel street that beats Skeemo there.
 >
 > #### Yellowspire's Clock
-> Yellowspire is on Copper Pot Lane, approximately fifteen minutes on foot from Weirdbottle's Concoctions. Flying, Skeemo covers the distance in four to five minutes. A party on foot chasing a flying invisible target is almost certainly not catching him before he reaches the circle. The options are magical interception, a faster movement option the party already has, or arriving at Yellowspire before him via a shortcut that trades distance for speed. Any character who knows the Trades Ward layout can attempt a **DC 14 Intelligence (History)** check to identify a parallel route that arrives at Copper Pot Lane before the five-minute mark.
+>
+> Yellowspire is on Copper Pot Lane, approximately fifteen minutes on foot from Weirdbottle's Concoctions. Flying, Skeemo covers the distance in four to five minutes. A party on foot chasing a flying invisible target will not catch him before he reaches the circle without magical interception, a faster movement option they already have, or the shortcut from the History check.
+>
+> The battle ends when Skeemo is cornered and brought below half his hit points, captured by magical means, or when he disappears into Yellowspire.
 
-### Act 3 — The Resolution
+### The Resolution
 
-If Skeemo is caught — in the shop, in the alley, on the street, on a rooftop — how the party handles the elimination is their decision. Tashlyn's constraint is a single, clear negative: no Watch investigation tracing to the Network.
+If Skeemo is caught — in the shop, in the alley, on the street, or on a rooftop — how the party handles the elimination is their decision. Tashlyn's constraint is a single clear requirement: no Watch investigation tracing to the Network.
 
-Quiet methods — a knife in a closed shop, an arrangement that looks like an accident, a body that will not be found quickly — clear the Watch file entirely. An alley death is found and investigated within hours. A dramatic public confrontation leaves a scene. Sufficiently creative staging (a shop accident, an apparent theft gone wrong) removes the Watch case.
+Quiet methods clear the Watch file entirely. A knife in a closed shop, an arrangement that looks like an accident, a body that will not be found quickly. An alley death is found and investigated within hours. A dramatic public confrontation leaves a scene that the Watch will have opinions about. Sufficiently creative staging — a shop accident, an apparent theft gone wrong — removes the Watch case.
 
-Skeemo does not fight if caught and completely cornered. He negotiates — offering intelligence, offering names, offering whatever he has. He has a great deal, and some of it is real. Tashlyn's instructions covered this contingency: the intelligence offer is a delaying tactic, and Skeemo's value to Manshoon as a live captive of the party is considerably higher than his value dead. The party decides.
+> [!gamemaster]**Skeemo's Negotiation**
+>
+> Skeemo does not fight if caught and completely cornered. He negotiates instead, and starts offering intelligence and names and anything else he thinks the party might want. He has a great deal, and some of it is real. Tashlyn's instructions covered this contingency: the intelligence offer is a delaying tactic, and Skeemo's value to Manshoon as a live captive of the party is considerably higher than his value dead. The party decides.
 
-**The satchel** contains:
-- His spellbook (all prepared spells, useful as reference)
-- A *potion of mind reading*
-- 150 gp in a silk coin purse
-- Three paper birds addressed to a Kolat Towers contact name: **Vevette Blackwater**
+> [!exploration]**The Satchel**
+>
+> After Skeemo is caught or his body is searched, the party finds the following in his satchel:
+>
+> - His spellbook (all prepared spells, useful as reference)
+> - A *potion of mind reading*
+> - 150 gp in a silk coin purse
+> - Three paper birds addressed to a Kolat Towers contact name: **Vevette Blackwater**
+>
+> The paper birds are written in code. Even the coded content confirms Skeemo was reporting directly to Manshoon. When shown the paper birds, Tashlyn takes them and the coin purse, and leaves the rest.
 
-The paper birds are written in code. Even the coded content confirms Skeemo was reporting directly to Manshoon. Tashlyn takes the paper birds and the coin purse. She leaves the rest.
+If the satchel is recovered and the paper birds are shown to Tashlyn, read or paraphrase the following:
 
+> [!readaloud]
+> Tashlyn reads each paper bird once, sets it down on the table, and reads the stack again. When she looks up, she has the look of someone adding a name to a short list.
+>
 > > "Vevette Blackwater. Good. Now I have a name."
+>
+> She adds it to a file the party has not seen.
 
-She adds it to a file the party has not seen.
+### Escaping to Yellowspire
+
+> [!gamemaster]**If Skeemo Escapes**
+>
+> If Skeemo reaches the teleportation circle at Yellowspire, he is deposited directly at Kolat Towers. He arrives with his satchel, his intelligence files, and a clear memory of everyone in the party. Mark the **Skeemo at Kolat Towers** outcome. This is a partial mission failure — the Network still benefits if the satchel stays behind or is destroyed, but Skeemo himself is out of reach until **Kolat Towers**. Davil mentions it when the party returns, noting it the way he notes other intelligence he has already processed.
 
 ### Davil's Return
 
-Davil's release fires at the end of this mission. The full scene — his return to the Yawning Portal, what he says about Skeemo and Kolat Towers, and what he acknowledges if the party worked for his release — is in the **Davil's Return** Event (s02).
+Davil's release fires at the end of this mission. The full scene — his return to the Yawning Portal, what he says about Skeemo, and what he acknowledges if the party worked for his release — is in the **Davil's Return** Event (s02).
 
 ### Concluding the Event
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> **+2 Renown if** Skeemo is eliminated without opening a Watch investigation that traces to the Network.
-> **+1 Renown (supplementary) if** the satchel is recovered and the paper birds are delivered to Tashlyn. She reads them carefully and does not speak for a while. "Vevette Blackwater. Good. Now I have a name." She adds it to her file.
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Skeemo Eliminated** — mark when Skeemo is stopped without opening a Watch investigation that traces to the Network; award +2 Renown. Read by **Doom Raiders Mission 5 — The Yellowspire Job** (Tashlyn's Vevette Blackwater file is confirmed and Davil's return is in effect).
+> - **Satchel Recovered** — mark when the satchel and its paper birds are delivered to Tashlyn; award +1 Renown. Read by **Doom Raiders Mission 5 — The Yellowspire Job** (Tashlyn has the name Vevette Blackwater from two independent sources).
+> - **Skeemo at Kolat Towers** — mark when Skeemo reaches the Yellowspire teleportation circle. Read by **Kolat Towers** (Skeemo is resident at Kolat Towers, recognizes the party on sight, and alerts Manshoon immediately when they arrive).
 
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> #### Next Steps
+> If Skeemo escaped to Yellowspire, Davil notes it when the party returns. Skeemo resurfaces in **Kolat Towers**.
 >
-> If Skeemo escaped to Yellowspire: he is now at Kolat Towers. He has his intelligence files, his spellbook, and a clear memory of everyone in the party. He appears in **Kolat Towers**, where he will recognize the party on sight and alert Manshoon immediately. Davil knows this has happened and says so.
->
-> If Skeemo was stopped: the paper birds give Tashlyn the name Vevette Blackwater, which she adds to a file that feeds directly into Mission 5's target.
+> If Skeemo was stopped, the paper birds give Tashlyn the name Vevette Blackwater, which feeds directly into **Doom Raiders Mission 5 — The Yellowspire Job**.
 >
 > **Doom Raiders Mission 5 — The Yellowspire Job** becomes available when the party reaches Renown 9 and character level 6.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
 
 ## Overview
 
-Skeemo is running. The party has until he reaches the teleportation circle at Yellowspire.
-
-## Read Aloud
-
-> [!narrative]
-> He is already moving when you clear the door — a gnome in a leather apron with a satchel tight against his body and no hesitation about where he is going. He does not look back.
->
-> He casts *Fly* the moment he clears the skylight.
+Skeemo Weirdbottle is running. The party has until he reaches the teleportation circle at Yellowspire.
 
 ## Summary
 
-The party pursued Skeemo Weirdbottle through the Trades Ward after he broke for his escape route. The chase ended in the streets or the rooftops. Whether Skeemo was caught or reached the Yellowspire teleportation circle shaped what comes next in **Kolat Towers** and what Tashlyn now knows.
+The party pursued Skeemo Weirdbottle through the Trades Ward after he broke for his escape route. The chase ended in the streets or the rooftops. Whether Skeemo was caught or reached the Yellowspire teleportation circle shaped what comes next in **Kolat Towers** and what Tashlyn now knows about Vevette Blackwater.
