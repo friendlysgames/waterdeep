@@ -48,7 +48,7 @@ Sir Ambrose waits at the southern gate of the City of the Dead at sunset on the 
 
 > [!social]**The Warden of the Dead**
 >
-> Sir Ambrose Everdawn (Lawful Good, Tethyrian human, he/him) :: a dignified paladin of Kelemvor who has held the City of the Dead for fifteen years and expects the living to earn his cooperation.
+> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian human, he/him) :: a dignified paladin of Kelemvor who has held the City of the Dead for fifteen years and expects the living to earn his cooperation.
 >
 > Ambrose speaks in formal, complete sentences, with no contractions. He addresses the party courteously and with a degree of initial reserve. He knows the northern section is wrong — he has felt it for months — but he shares that knowledge carefully, in the order he decides to share it, and only to people who have demonstrated they are paying attention. His rare dry humour surfaces once or twice over ten nights if the party earns his respect.
 >

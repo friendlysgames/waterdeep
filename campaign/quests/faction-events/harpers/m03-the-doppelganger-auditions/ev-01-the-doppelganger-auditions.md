@@ -205,7 +205,7 @@ After both interview evenings conclude, Mattrim sets his lute down and pulls the
 
 > [!social]**Threestrings**
 >
-> Mattrim "Threestrings" Mereg (Neutral Good, Tethyrian human, he/him) :: a Harper agent using a mediocre-bard cover; careful and slow when being honest; genuinely worried.
+> Mattrim "Threestrings" Mereg (Lawful Good, Tethyrian human, he/him) :: a Harper agent using a mediocre-bard cover; careful and slow when being honest; genuinely worried.
 >
 > Mattrim is not performing. The lute is down. He went through every conversation looking for the tell and came up wrong, and he is telling the party this plainly, which costs him something. He is also asking them, without saying it directly, to tell him whether he missed something he should have caught.
 >

@@ -137,7 +137,7 @@ Every party member who enters Phaulkonmere receives a *charm of heroism* (supern
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (spirit of Phaulkonmere, she/her) :: the spirit of the estate, speaking directly to the party for the first time.
+> Jeryth Phaulkon (Neutral Good, disembodied presence, she/her) :: the spirit of the estate, speaking directly to the party for the first time.
 >
 > Jeryth has said what she came to say. Her gift is given without ceremony. The warmth in the garden is her approval, and she does not explain it.
 

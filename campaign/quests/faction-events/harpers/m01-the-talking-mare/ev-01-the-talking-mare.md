@@ -105,7 +105,7 @@ Fillet Lane runs through the middle of a working warehouse district, wide enough
 
 > [!social]**The Grey Roan**
 >
-> Maxeene (Neutral, Draft horse, she/her) :: a Harper intelligence asset with a permanent Speak with Animals enchantment and a Castle Ward social register she has been collecting for years.
+> Maxeene (Unaligned, Draft horse, she/her) :: a Harper intelligence asset with a permanent Speak with Animals enchantment and a Castle Ward social register she has been collecting for years.
 >
 > Maxeene has been doing this for a long time. She knows the difference between someone who treats her as a colleague and someone who talks to her like she is simple. She goes silent and stays a horse if the party addresses her in the slow, careful cadence some people use with children and foreigners, or if they try to hurry her. She answers freely and at length if the party gives her the apple from the note and speaks to her as they would any contact.
 >
