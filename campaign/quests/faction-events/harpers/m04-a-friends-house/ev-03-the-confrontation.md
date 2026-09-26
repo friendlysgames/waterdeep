@@ -1,112 +1,142 @@
 # The Confrontation
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social Event begins when Jarlaxle addresses the party — either at the canal bridge after the tail, or when confronted directly at the salon. In this Event, the party can:
 >
-> This Social Event begins when Jarlaxle stops and turns around — either at the canal bridge after the tail, or when confronted directly at the salon. In this Event:
+> - Receive Jarlaxle's acknowledgment of the identification; he is pleased, not alarmed
+> - Press him for information about the vault situation or the compromised asset at the Sea Maidens Faire (DC 15 Persuasion)
+> - Propose a negotiated arrangement, which he listens to gracefully and declines
+> - Report to Mirt and hear his response, which is more unsettling than it is satisfying
+> - Receive a calling card at Trollskull Manor two days later, regardless of what the party does
 >
-> - Jarlaxle acknowledges the identification. He is pleased, not alarmed.
-> - The conversation goes three ways depending on what the party does: press him for information, report cleanly to Mirt, or negotiate an arrangement.
-> - Jarlaxle leaves when the conversation is finished. A calling card arrives at Trollskull Manor two days later regardless.
-> - A wrong identification (naming someone else) has its own resolution.
+> #### Background
+>
+> Jarlaxle has been attending Remallia's parties for three months, mapping the Harper network: who Mirt meets with, where they operate, which assets are active. He let the party get close enough to identify him because he wanted them to. He wanted Mirt to know that he knows. The calling card is the confirmation of that message. Whether or not the party names him correctly does not affect his operational security in any significant way — he was prepared for both outcomes. What interests him is how the party handles it.
 
-**Background (DM only)**
+### The Confrontation Opens
 
-Jarlaxle has been attending Remallia's parties for three months. He has been mapping the Harper network: who Mirt meets with, where they operate, which assets are which. He let the party get close enough to identify him because he wanted them to. He wanted Mirt to know that he knows. The calling card is the confirmation of that message.
+If the party confronted Jarlaxle directly at the salon rather than following him, read or paraphrase the following:
 
-Whether or not the party names him correctly does not affect his operational security significantly — he was prepared for this outcome either way. What interests him is how the party handles it.
+> [!readaloud]
+> You find him near the garden door, in the middle of a conversation with the tiefling composer, and he turns toward you a half-second before you reach him, as though he heard a change in the foot traffic before you were close enough to see.
+>
+> The Luskan affectation is still on, but something in the quality of his attention has shifted.
+>
+> > "I see. You've decided not to wait for the second act."
+>
+> He looks at you with the easy pleasure of someone who has been looking forward to this conversation.
+>
+> > "I expect you have a question."
+
+If the party followed him and he turned at the canal bridge, this scene follows directly from ev-02. Read or paraphrase the following:
+
+> [!readaloud]
+> He turned and looked at you with the particular attention of someone who has been watching for longer than you realized. The Luskan affectation is still on, but the performance under it has shifted slightly — less poet now than whatever he actually is.
+>
+> > "I expect you have a question."
 
 ### If the Party Names Him Correctly
 
-Jarlaxle acknowledges it with a small bow.
-
+> [!readaloud]
+> He acknowledges the identification with a small bow, unhurried.
+>
 > > "You have good eyes. Mirt does choose well."
 
-He makes no attempt to talk them out of reporting. He does not offer bribes. He is genuinely pleased — the identification is a compliment he is comfortable accepting.
+He makes no attempt to talk them out of reporting. He does not offer bribes. He is genuinely pleased — the identification is a compliment he is comfortable accepting. What happens next depends on what the party does with the information.
 
-What happens next depends on what the party does with the information.
-
-**Reporting to Mirt (standard resolution):** Jarlaxle makes his excuses to Remallia (gracious, thirty seconds), walks out without urgency, and is gone. If this happens at the salon, he leaves before the party can follow. A calling card arrives at Trollskull Manor two days later: an embossed card with a harp and crescent moon crossed through with a rapier, and the words *I hear you've been asking about a certain mechanical footman.* No signature.
-
-**Pressing him for information:** If the party attempts to extract information rather than simply naming and reporting, he is willing to talk — within limits. He confirms he is Bregan D'aerthe. He confirms he has been attending Remallia's events. He does not confirm operational details.
-
-> [!dialogue]**What are you actually doing here?**
-> "I've been curious what the Harpers think they know about the vault situation. They've been two moves behind since the Stone resurfaced."
-
-He says this as a statement of fact, not a taunt.
-
-> [!dialogue]**What can you tell us about our contacts?**
-> "There's a Harper contact embedded in the Sea Maidens Faire. They don't know they've been made. If you reach them before the network does, they'll tell you things Mirt hasn't."
-
-A **DC 15 Charisma (Persuasion)** check is required to draw this out. He gives a physical description. He does not explain why he is offering this.
-
-**Negotiating discretion:** If the party proposes any arrangement involving not reporting his identity to Mirt, he listens. He is not interested in buying their silence — he does not need to. He is interested in whether they are capable of playing this kind of game. A PC who makes a genuinely interesting proposal (rather than a transactional one) earns a direct response:
-
-> [!dialogue]**What if we agreed to stay quiet about your identity tonight?**
-> "I'll remember that you tried."
-
-The calling card still arrives.
-
-> **[GM]**
+> [!social]**The Identified Guest**
 >
-> #### Mirt's Response to the Identification
-> When the party reports to Mirt: he goes quiet for a long moment. "He's been attending her parties for three months. He's been mapping our network — who we meet with, where we operate." Another silence. "He could have left before anyone was the wiser. He let you identify him." He looks at the party with equal parts impressed and unsettled. "He wanted us to know he knows." He does not say what that means for **Faction Outposts**. He does not have to.
+> Jarlaxle Baenre (Chaotic Neutral, Drow, he/him) :: mercenary leader and spymaster, the Luskan affectation still on in dress and posture but the performance underneath it now visible.
+>
+> Jarlaxle is not alarmed. He has been prepared for this outcome since the party walked through the door. He is interested in how they choose to handle the information — whether they press, negotiate, or simply report. He treats any of these as reasonable choices by competent people.
+>
+> He will confirm he is Bregan D'aerthe. He will confirm he has been attending Remallia's events. He will not confirm operational details or anything about the Grand Game beyond what he chooses to offer as a demonstration of his own information advantage.
+>
+> Conversation topics Jarlaxle is willing to discuss include:
+> - His presence at the salon and what he has been doing there, in broad terms
+> - The vault situation and the Harpers' positioning, on which he offers a pointed observation
+> - The compromised asset at the Sea Maidens Faire, which he offers if pressed and the check is made
+>
+> Specific dialogue for Jarlaxle on these topics is presented below.
+
+> [!qna]**What are you actually doing here?**
+>
+> He tilts his head very slightly.
+>
+> > "I've been curious what the Harpers think they know about the vault situation. They've been two moves behind since the Stone resurfaced." He pauses, then adds with even warmth: "That is a statement of fact, not a taunt. I find the Harpers genuinely useful when they're working from good intelligence."
+
+> [!qna]**What can you tell us about our contacts?**
+>
+> A successful **DC 15 Charisma (Persuasion)** check is required. On a success, he gives the information freely; without it, he declines with equal grace.
+>
+> > "There is a Harper contact embedded in the Sea Maidens Faire. They don't know they have been made. If you reach them before the network does, they will tell you things Mirt hasn't." He provides a brief physical description. He does not explain why he is offering this.
+
+> [!qna]**What if we agreed to stay quiet about your identity?**
+>
+> A slight smile.
+>
+> > "I'll remember that you tried."
+>
+> The calling card still arrives regardless.
+
+> [!gamemaster]**Mirt's Response to the Identification**
+>
+> When the party reports to Mirt, he goes quiet for a long moment.
+>
+> > "He's been attending her parties for three months. He's been mapping our network — who we meet with, where we operate."
+>
+> Another silence. Then:
+>
+> > "He could have left before anyone was the wiser. He let you identify him."
+>
+> He looks at the party.
+>
+> > "He wanted us to know he knows."
+>
+> He does not say what that means for **Faction Outposts**. He does not have to.
+>
+> **Documenting the intelligence profile:** If the party documents the alias, the companion's role, the drow-made boots, and at least one element from **The Tail** (the dead drop notation or the advance payment), Mirt can build a working intelligence profile on Jarlaxle's cover identity. This gives the Harpers a head start when the Sea Maidens Faire becomes a target in **Faction Outposts**. Mark the **Jarlaxle Cover Profile Documented** outcome.
+
+**Reporting cleanly:** Jarlaxle makes his excuses to Remallia — gracious, thirty seconds — and is gone. If the confrontation happened at the salon, he leaves before the party can follow.
 
 ### If the Party Names Someone Else
 
-Remallia is politely embarrassed on behalf of whoever was accused. The accused guest — probably Serithka Ondal, who was visibly nervous, or Lord Talmost, who had been acting suspiciously about "the vault situation" — is confused and then offended in proportion to their temperament.
+Remallia is politely embarrassed on behalf of whoever was accused. The accused guest — most likely Serithka Ondal, who spent most of the evening watching from a wall, or Lord Talmost, who had been behaving suspiciously about the vault situation — is confused and then offended in proportion to their temperament.
 
-Jarlaxle watches the scene from across the garden. He is quietly entertained.
+From across the garden, Jarlaxle watches the scene. He finds it entertaining and keeps the smile off his face.
 
-The calling card still arrives at Trollskull Manor two days later: *Better luck next time.* He found the attempt interesting. He is still interested in the party.
+The calling card still arrives at Trollskull Manor two days later: *Better luck next time.* He found the attempt interesting regardless of the outcome. He is still interested in the party.
 
 ### Concluding the Event
 
-#### Jarlaxle Identity Exposed at Harper Salon: True / False
+Two days after the salon, a card arrives at Trollskull Manor regardless of what the party did: an embossed card with a harp and crescent moon crossed through with a rapier, and the words *I hear you've been asking about a certain mechanical footman.* There is no signature.
 
-Record whether the party identified Erystian Demarne as Jarlaxle Baenre during the salon or tail. This flag is read by **Sea Maidens Faire** — parties who made this connection earlier approach the Faire with prior knowledge of Jarlaxle's identity and operating method.
+> [!gamemaster]**Event Outcomes**
+>
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Jarlaxle Identity Exposed at Harper Salon** — mark when the party correctly identifies Erystian Demarne as Jarlaxle Baenre and reports the identification to Mirt before he leaves the estate, or in the street immediately after the tail; award +1 Renown. Read by **Faction Outposts** and **Sea Maidens Faire**.
+> - **Jarlaxle Cover Profile Documented** — mark when the party presents Mirt with the alias, the companion's role, the drow-made boots, and at least one Tail element (dead drop notation or advance payment); award +1 Renown. Read by **Faction Outposts** (Harpers enter the Sea Maidens Faire with a working intelligence profile on Jarlaxle's cover identity).
 
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> **+1 Renown if** Jarlaxle is correctly identified and the identification reported to Mirt before he leaves the estate (or immediately after the tail if the confrontation happens in the street).
-> **+1 Renown if** the party documents enough — the alias, the companion's bearing, the drow-made boots, the dead drop notation from the tail — that Mirt can build a working intelligence profile on Jarlaxle's cover identity. This gives the Harpers a head start when the Sea Maidens Faire becomes a target in **Faction Outposts**.
-
-> **[GM]**
+> Remallia Haventree is now a known Harper contact. The party can approach her directly from this point forward.
 >
-> #### Next Steps
+> The calling card threads forward: the Sea Maidens Faire becomes a Harper target in **Faction Outposts**, and the name "Erystian Demarne" resurfaces. Parties who documented the intelligence profile enter that quest with an advantage others do not.
 >
-> Remallia is now a known Harper contact. The party can approach her directly from this point forward.
->
-> The calling card threads forward: the Sea Maidens Faire becomes a Harper target again in **Faction Outposts**, and the name "Erystian Demarne" resurfaces. Parties who carry the documentation profile Mirt mentioned enter that quest with an advantage the parties who missed the identification do not have.
->
-> The salon guest threads are available to pursue:
-> - Saeth Cromley's missing Watch officer is Corene Wyldath's contact — relevant to Mission 5.
+> The salon guest threads remain available to pursue:
+> - Saeth Cromley's missing Watch officer is Corene Wyldath's contact — relevant to **Mission 5**.
 > - Tessabrant Elamondra's dye detail and Farrak Iltimer's ruby order are **Cassalanter Villa** pre-intelligence.
-> - Zalara Moonwhisper's vault reference is an early Vault of Dragons thread.
-> - Jelenn Urmbrusk's name appears on the Kolat Towers blackmail list in **Kolat Towers**.
+> - Zalara Moonwhisper's vault record is an early **Vault of Dragons** thread.
+> - Jelenn Urmbrusk's name appears on the blackmail list in **Kolat Towers**.
 >
 > **Harper Mission 5 — The Sleeping Asset** becomes available when the party reaches Renown 10 and 6th level.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
 
 ## Overview
 
 Jarlaxle stopped at a canal bridge in the Castle Ward and turned around. The conversation he was willing to have was more interesting than the one Mirt sent the party to have.
 
-## Read Aloud
-
-> [!narrative]
-> He turned. He looked at you with the particular attention of someone who has been paying attention for longer than you realized.
->
-> > "You follow well. Better than the last set of people Mirt sent."
->
-> The Luskan affectation is still on, but the performance under it has shifted slightly. Less poet. More whatever he actually is.
->
-> > "I expect you have a question."
-
 ## Summary
 
-Jarlaxle acknowledged the identification with a small bow and was pleased by it. He confirmed nothing operational, offered the party a thread about a compromised Harper asset at the Sea Maidens Faire, and left when the conversation was finished. A calling card arrived at Trollskull Manor two days later: a harp and crescent moon crossed through with a rapier, and the words *I hear you've been asking about a certain mechanical footman.*
+Jarlaxle acknowledged the identification with a small bow and was pleased by it. He confirmed he was Bregan D'aerthe and that he had been mapping the Harper network through Remallia's salon for three months. He offered one thread about a compromised Harper asset at the Sea Maidens Faire, and left when the conversation was finished. A calling card arrived at Trollskull Manor two days later: a harp and crescent moon crossed through with a rapier, and the words *I hear you've been asking about a certain mechanical footman.*

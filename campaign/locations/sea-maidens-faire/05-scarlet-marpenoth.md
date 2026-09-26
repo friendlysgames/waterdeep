@@ -37,7 +37,7 @@ On a failure (DC 15 Arcana), the ball activates but shows only static impression
 
 #### Other Significant Compartments
 
-**U3 — Soluun's Stateroom:** Drow gunslinger Soluun Xibrindas at a Lolth shrine. Footlocker: Lantanese diving suit (functions as a *cap of water breathing*; allows underwater breathing for 24 hours, reusable). The suit is the only diving gear aboard.
+**U3 — Soluun's Stateroom:** Drow gunslinger Soluun Xibrindas, cleaning his weapons. Footlocker: Lantanese diving suit (functions as a *cap of water breathing*; allows underwater breathing for 24 hours, reusable). The suit is the only diving gear aboard.
 
 **U4 — Jarlaxle's Stateroom:** Locked (DC 18 Thieves' Tools). Harp, harpsichord, and a magic one-way window showing the sea outside. The trunk in the corner releases a mechanical spider swarm on unauthorized opening (DC 16 Perception to notice the trap; DC 14 Dexterity to disable; swarm: AC 12, 44 HP, Multiattack). The trunk's false bottom contains the complete ledger after Fireball (if the Eyecatcher ledger was stolen, Jarlaxle moved this copy here; if not stolen, the J30 copy remains there).
 
