@@ -1,23 +1,27 @@
 # Design Notes: A Friend's House
 
-## On Pacing
+## A Salon with Practical Access
 
-***A three-hour session with no combat and no time pressure.*** This mission is structurally unusual: it is the only Harper mission built around lateral information-gathering rather than a task. The "mission" — find the impostor — is one thread inside a richer evening. A DM who runs it as a linear task will leave most of the mission's value on the table. Remallia's salon is three sessions of setup for **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, and **Vault of Dragons** compressed into one evening. The advice to plan for six to eight named NPC interactions is genuinely structural, not optional.
+The invitation arrives three days before the event, leaving a fitting and a fixed recovery appointment rather than demanding suitable clothing without time to find it. The hostess's borrowed garments keep missed appointments from closing the mission, while the shared 200 GP source reward remains separate from individual Harper Renown.
 
-***Three event files for one mission.*** The mission splits into Salon → Tail → Confrontation because each phase has a distinct dramatic question. The salon asks: can the party identify the impostor? The tail asks: what does the party learn while following? The confrontation asks: what does the party do with what they know? Collapsing these into one file buries the Tail's observation beats and makes the Confrontation feel like a scene that materializes without setup.
+The three events preserve different decisions: whom to talk to, which route to follow and what to disclose after identification. Guests have fixed follow-up appointments when their information needs documents, allowing the evening to open investigations without requiring the party to consume every conversation in one sitting.
 
-## On Jarlaxle
+## Remallia and the Guests
 
-***He let them find him.*** This is the mission's central design insight. Jarlaxle's identification is not a failure he suffered — it is a message he delivered. He has been attending Remallia's parties for three months specifically to understand the Harper network. He could have avoided identification. The calling card confirms the message: *I wanted you to know that I know.* Mirt's response — "He wanted us to know he knows" — should land as a genuine moment of dread. Jarlaxle is not an asset the party caught. He is an adversary who allowed himself to be seen.
+Remallia's faction identity is disclosed privately here for the first time, while public introductions preserve the characters' covers and membership boundaries. Earlier rank support remains routed through Mirt; companions can attend the salon without entering the private Harper brief.
 
-***The wrong identification.*** If the party names someone else, Jarlaxle watches from across the garden and sends a calling card anyway. *Better luck next time.* This outcome is not a dead end — it is the same thread, with Jarlaxle having a slightly more detailed picture of the party's current capabilities.
+The restored mission places House Ulbrinter in the Sea Ward, which this scoped draft retains. Appendix C, The Spy at Haventree's Party, Scene 1 instead places the villa on Delzorin Street in the North Ward between Vhezoar and Brondar's Way. That source-location discrepancy is recorded for later reconciliation without editing external campaign pages.
 
-## On the Guest Gallery
+The Cassalanter purchases remain unusual commercial evidence, with no guest knowing a pact, ritual or infernal patron. Farrak's guesses concern ceremonial display rather than secretly identifying a rite. Zalara's old administrative entry likewise supplies a vault reference without proving that the present hoard has remained there since 1244 DR.
 
-***Intelligence density without telegraphing.*** The ten named guests carry threads relevant to **Cassalanter Villa** (Tessabrant's dye detail, Farrak's ruby order, Lord Talmost's vault hints), **Kolat Towers** (Jelenn Urmbrusk's name on the blackmail list), **Vault of Dragons** (Zalara's vault record), and Mission 5 (Saeth Cromley's missing officer is Corene's Watch contact). None of these connections are visible as connections at the time. Play each NPC as a real person with real concerns, not as a quest giver with an arrow over their head. The party will encounter some of these threads months later and connect them backwards to this evening. That is the intended experience.
+## Identifying and Following Jarlaxle
 
-***Jelenn Urmbrusk.*** Jelenn is the most structurally significant guest. Her name on the Kolat Towers blackmail list in **Kolat Towers** is the payoff for any character who noticed her discomfort and made the DC 18 Insight check tonight. If no one made that check, the recognition in **Kolat Towers** is still possible — the name just arrives without the emotional context from this evening. The salon meeting makes that moment hit harder.
+Independent cover observations support questioning, and Jarlaxle's acknowledgment supplies the specific name that clothing alone couldn't prove. Recognizing him beneath Erystian doesn't identify every other disguise, including Captain Zardoz Zord. A party that reports uncertain evidence receives a useful profile result without being credited with an unmade discovery.
 
-## On the BD Sidebar
+The pursuit has a fixed courtyard, signal address and timing, with either target returning the party to the conversation. Its chalk code is a nonmagical signal, and the vendor accepts a prepaid voucher rather than an unsupported circulating paper currency. Jarlaxle's departure leaves declared following available without an automatic escape ruling.
 
-***The BD operative's choice is genuine.*** The sidebar is not a catch; it is a real faction-loyalty moment. Jarlaxle offers intelligence and asks for discretion. The Harpers sent the party to identify him. There is no clean answer. The three-way brokering option — DC 16 Deception to satisfy both sides — exists for parties who want to play it as a game, but Jarlaxle will clock what they did, and Mirt will eventually too. The sidebar is designed so that the most mechanically rewarding outcome requires the most sophisticated play, and the "right" faction answer is genuinely a choice rather than a default.
+## Discretion and Shared Rewards
+
+The BD request belongs to an actual BD member, and its recovery bonus requires timely help for Mara rather than mere silence. A negotiated anonymous warning can preserve a Harper profile result without granting a correct-name bonus to someone who withheld the name. No branch grants two faction memberships.
+
+Mara has a name, description, public booth, recovery message and deadline, so the offered intelligence leads to an actionable rescue. Remallia's courier carries separate sealed 200 GP purses the following morning, while the paper bird carries only the note. All intended external readers are stated in outcomes, and their campaign-wide integration remains outside this folder.

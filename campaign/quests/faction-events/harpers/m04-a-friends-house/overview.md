@@ -2,38 +2,59 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Available at Renown 8 and 5th level. The Doppelganger Auditions must be complete.
+> Available to Harper members at Renown 8 and 5th level after **The Doppelganger Auditions**, with companions welcome as invited salon guests.
 >
 > #### Difficulty
-> *An adventure for 5th level characters.*
+> *An adventure for 5th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> The salon and optional pursuit resolve through observation and negotiation, with no combat triggered by identifying the guest.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-Remallia Haventree has been running the Harper network from Haventree Villa in the Sea Ward for three decades. The party has worked with Mirt for months without learning that the gracious hostess who remembers their names and sends invitations is his senior contact and the operational head of the Waterdeep cell. This salon is the natural moment for that to surface — Remallia's identity will not be announced; it will emerge through her manner, her questions, and the way she and Mirt move through the same rooms without appearing to coordinate.
+## Hook
 
-Jarlaxle Baenre has been attending Remallia's salons for three months on an invitation brokered through a mutual acquaintance who does not know they are Bregan D'aerthe. His purpose is to map the Harper network: who Mirt meets with, where they operate, which assets are active. He has already identified Mirt across the room before the party arrives, and he marks the party within thirty minutes of their entrance. He lets them find him. The calling card he sends two days later is not an accident — it is confirmation that the identification was the message he meant to send.
+Remallia Haventree's invitation reaches the members' lodging at noon, three days before her salon at House Ulbrinter in the Sea Ward. Mirt's separate note asks the Harper members to identify an impostor, while the invitation includes their assisting companions by name.
+
+## Background
+
+Jarlaxle Baenre has attended Remallia's parties for three months as Erystian Demarne, a Luskan poet, observing Mirt's contacts without revealing himself. Remallia's own Harper identity has remained private before this mission; her invitation opens a relationship the members can maintain afterward. The salon's other guests bring commercial concerns and incomplete rumors that the party can pursue without discovering a single answer connecting them all.
+
+## The Salon
+
+The fitting appointment and paid clothing hire give every invited guest a workable route to suitable attire before the evening. At 19:00 Remallia greets them, and Mirt speaks privately to the Harper members at 19:20. They can talk with the ten named principals, compare clues about Erystian or take time over the other guests' concerns until the salon closes at 22:00.
+
+## Following Erystian
+
+If the party follows Jarlaxle when he leaves, a ten-minute walk offers three further observations before he stops in a named courtyard. Following his companion instead reveals a signal location, with both routes leaving the confrontation available. Directly approaching him at the salon skips this pursuit event.
+
+## Naming Him and Negotiating
+
+Jarlaxle acknowledges a correct identification and hears questions or proposals without fighting. The members decide what to report to Mirt, while a Bregan D'aerthe helper can weigh a separate request for discretion. Every branch receives a calling card forty-eight hours after the salon, leaving further contact possible even if the party accused the wrong guest or let him leave.
+
+## Renown Opportunities
+
+Each participating Harper member gains 3 base Renown for attending and reporting a considered assessment. Remallia pays every actual attendee 200 GP the following morning as a shared source reward, including companions.
+
+- **+1 Harper Renown:** correctly identify Jarlaxle and report to Mirt before he leaves the estate, or immediately after the street confrontation.
+- **+1 Harper Renown:** provide the alias and at least two concrete cover observations so Mirt can build an operational profile.
+- **+1 Bregan D'aerthe Renown:** an actual BD member accepts Jarlaxle's discretion request and helps Mara Coppersail leave the Faire before the Harpers' independent recovery at the stated deadline. The negotiated three-way arrangement can meet this condition while preserving Harper awards for actual Harper members.
+
+## Aftermath
+
+Remallia becomes a known Harper contact, and the identification outcome gives **Sea Maidens Faire** its intended prior-knowledge reader. Other guest conversations seed **Cassalanter Villa**, **Kolat Towers**, **Vault of Dragons** and **The Sleeping Asset**, preserving suspicions without granting knowledge of noble infernalism. **The Cell Is Compromised** can trigger after this mission once the party has met Davil, and **The Sleeping Asset** becomes available at Renown 10 and 6th level.
 
 ## Involved Characters
-- **Remallia Haventree** (Harpers, senior Harper operative, identity hidden until now) — host of the salon; her Harper identity is the evening's implicit reveal
-- **Mirt** (Harpers) — present at the salon; gives the mission task privately when the moment allows; three glasses in and watching the room from near the wine
-- **Jarlaxle Baenre** — attending as "Erystian Demarne, Luskan poet"; has already identified Mirt across the room and is curious about the party; the mission's target
-- **Saeth Cromley** — retired Watch sergeant; uncomfortable at parties; has information about a missing Watch officer who was Corene Wyldath's contact
-- **Tessabrant Elamondra** — shipping merchant losing money to redirected deliveries; Cassalanter dye purchase detail available
-- **Lord Aldric Talmost** — minor noble; has heard fragments about "the vault situation" and is working them into every conversation
-- **Zalara Moonwhisper** — elven archivist at the Font of Knowledge; has found an administrative reference to the Vault of Dragons
-- **Farrak Iltimer** — dwarf gemcutter; knows about the Cassalanters' blood-red ruby order; good stories
-- **Serithka Ondal** — tiefling composer; noticed that "Erystian Demarne" recognized her Fiendish Legacy on sight
-- **Jelenn Urmbrusk** — Masked Lord (identity hidden); being blackmailed by Manshoon; her name surfaces again in **Kolat Towers**
+
+- **Remallia Haventree** and **Mirt** (Harpers): hostess and private mission contact.
+- **Jarlaxle Baenre** (Bregan D'aerthe): attends as Erystian Demarne with a disguised guard companion.
+- **Saeth Cromley**, **Tessabrant Elamondra**, **Lord Aldric Talmost**, **Zalara Moonwhisper**, **Farrak Iltimer**, **Serithka Ondal** and **Jelenn Urmbrusk**: the seven other named guests whose concerns support later inquiries.
+- **Mara Coppersail** (Harpers): a compromised Faire ticket clerk who can be warned and recovered afterward.
 
 ## Dangers & Enemies
-- No combat triggers at the salon itself
-- Jarlaxle does not become hostile if identified; he is pleased
+
+Jarlaxle is gathering information rather than inviting a fight. Public accusations cost access to a guest's goodwill, while discretion and reliable evidence allow the party to learn more without treating the whole room as hostile.
 
 ## Overview
 
-A formal invitation from Remallia Haventree arrived at Trollskull Manor, accompanied by a separate note from Mirt with his characteristic understatement: someone in that room is not who they appear to be. The evening was a Sea Ward salon at Haventree Villa — twenty to thirty guests, Remallia moving through the room with the ease of someone who has run these events for thirty years, Mirt stationed near the wine.
-
-The impostor was Jarlaxle Baenre, attending as "Erystian Demarne, Luskan poet." He had already identified Mirt across the room and decided the party looked interesting. Identifying him required combining two lines of evidence or a high Insight check. Whether the party named him or not, a calling card arrived at Trollskull Manor two days later.
-
-The salon was also an intelligence-gathering opportunity. Ten named guests carried threads relevant to **Cassalanter Villa**, the Vault of Dragons, the Splinter's Masked Lord compromises, and Mission 5's Corene Wyldath — none of them connected to each other on the surface.
+A formal salon gives the party time to meet Remallia and her guests, identify a disguised observer and choose what to do with the information they gather.

@@ -1,36 +1,64 @@
 # The Stone's Other Master: Overview
 
-> [!gamemaster]
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
->
-> Available at Renown 13 and 7th level, and only after the Stone of Golorr has been partially awakened with at least one Eye installed. Triggers during the **Vault of Dragons** preparation phase.
+> Available to a Harper member at Renown 13 and 7th level while preparing for **Vault of Dragons**, with at least one Eye restored to the Stone. The study works at any restored-Eye count and doesn't assume a particular heist order.
 >
 > #### Difficulty
+> *An adventure for 7th-level characters.*
 >
-> *An adventure for 7th level characters.*
+> The raid has one Mage, two Toughs and a Spy leader. The **Harpers Mechanics Reference** audits the assault, optional leader interception, full squad, burst risk and Mirt's actual CR 9 ally contribution for three, four and five participating combatants.
 >
-> #### Milestone Overview
->
-> This mission does not award a Milestone Point.
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-Activating the Stone of Golorr by installing an Eye creates a psychic resonance in the deep places below Waterdeep, where an abolethic dreamer called Illuun waits on Undermountain Level 4. Harper seers detected the pulse of that resonance and passed it to Mirt. He believes the Stone can do more than open a vault — used carefully over three days, it may identify individuals in the party's intelligence network whose thinking has been compromised by Illuun's influence without their knowledge. He has two suspects. He comes to Trollskull Manor after midnight to ask for three days with the Stone before the vault opens.
+## Hook
 
-He arrives at the front door, which is unusual, and he sits with an untouched drink until the party comes downstairs. He is asking, not demanding. He looks tired.
+Mirt visits the members at 00:15, asking to study the Stone for three days before they open the vault. A seer felt its awakening resonate beneath the city, and he wants to understand the connection before anyone relies on it further.
 
-A Manshoon Splinter watcher has been tracking the Stone's magical signature since the first Eye was installed. That watcher reported Mirt's arrival at Trollskull Manor before any negotiation between Mirt and the party began. The squad moves regardless of what the conversation produces.
+## Background
+
+When an Eye is restored, Harper seer Ivara Dunn detects a psychic response from Illuun on Undermountain Level 4 to Golorr inside the Stone. She believes the Stone can identify a contact whose thoughts have become accessible through that connection. The contact is Jalester Silvermane, unknowingly compromised through exposure near the Yawning Portal's well; the study reveals his name only after consent and a direct question about the findings.
+
+A Splinter watcher already observed the Stone at the manor and Mirt's arrival, independently of Orren's register route. Four agents prepare to raid the building at 02:00 whether the party accepts or refuses the study. Their information is a location and observed holder, without automatic knowledge of the party's private decisions.
+
+## Negotiating Custody
+
+Mirt briefs the Harper members privately, then hears the actual holder and companions who share custody when negotiating access. He offers written return terms and supervised study, accepting a refusal without hostility. An agreed transfer waits for his noncombatant-driven carriage at 02:00, leaving the Stone with its agreed holder until departure.
+
+## Defending the Stone
+
+The Mage and two Toughs attack while the Spy leader watches the exits, with Mirt protecting the holder and civilian staff. The Mage can collect an actually unattended Stone, then must keep it until her next turn before casting Dimension Door. Her fixed nearby destination leaves interception and recovery possible.
+
+## The Three-Day Study
+
+If the party grants access and retains or recovers the Stone, Mirt returns it exactly seventy-two hours after study begins. He provides the vault guardian information and the resonance finding, answering a direct question about compromised contacts with Jalester's name. Refusal preserves custody while leaving those study results unavailable.
+
+## Renown Opportunities
+
+Each participating Harper member gains 4 base Renown for resolving the raid and reporting the Stone's actual disposition. The study is optional and doesn't gate the base award.
+
+- **+1 Renown:** grant the full three-day study and receive its results. Jalester's identity still requires asking directly.
+- **+1 Renown:** defeat or capture the assault squad and recover the Spy leader's sending stone.
+
+Helping companions receive no Harper Renown or membership through the defense.
+
+## Aftermath
+
+**Jalester Compromise Identified** supplies the intended Lords' Alliance M6 and **Vault of Dragons** readers only after its consent-and-question gate. The recovered sending stone gives a limited paired communication channel, without passive eavesdropping. Splinter reports retain only what surviving observers actually witnessed, and the Undermountain threat remains a future objective rather than a new quest drafted here.
 
 ## Involved Characters
 
-- **Mirt** (Harpers) — arrives after midnight through the front door; in business mode; asking, not demanding
-- **Jalester Silvermane** (Lords' Alliance) — the individual the study will identify as psychically compromised if the party complies and asks directly; not present in this mission; unaware of his own compromise
-- **Splinter Squad** — two **Thugs**, one **Mage**, and a squad leader (Spy stat block) carrying a sending stone keyed to Manshoon's voice directly; arrives within two hours of Mirt's arrival
+- **Mirt** (Harpers): requests custody and protects the holder during the attack.
+- **Ivara Dunn** (Harpers): conducts the supervised study at Mirt's residence.
+- **Jalester Silvermane** (Lords' Alliance): the unwitting psychic contact identified by that study.
+- **Illuun**: the abolethic influence beneath the city, absent from the encounter.
+- **Splinter Mage**, **two Toughs** and **Spy leader**: the four-creature retrieval squad.
 
 ## Dangers & Enemies
 
-- **Splinter Squad:** two Thugs, one Mage, and a squad leader (Spy stat block)
-- The Mage's contingency spell teleports the Stone to Kolat Towers if she takes 30 or more damage while holding it; it does not fire if she never obtains the Stone
+The Mage uses the verified 2024 block with the reference's one-use Dimension Door addition, without Contingency. The enemy roster remains four creatures, and Mirt's protective attack trigger brings his real CR 9 contribution into the encounter when met.
 
 ## Overview
 
-Mirt arrived at Trollskull Manor after midnight and asked for three days with the Stone before the vault opens, citing a psychic resonance Harper seers had detected below the city. Whether the party agrees or refuses, the Manshoon Splinter moves on the building that same night — the squad's watcher had already reported Mirt's location before any decision was made.
+Mirt asks to study the awakened Stone before the vault opens, leaving its holder to decide what arrangements to make for its custody.

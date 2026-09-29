@@ -2,27 +2,65 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Available at Renown 10 and 6th level. A Friend's House must be complete.
+> Available to Harper members at Renown 10 and 6th level after **A Friend's House**. **The Cell Is Compromised** supplies the earlier warning when its trigger was met, but this brief explains the investigation if that warning hasn't occurred.
 >
 > #### Difficulty
-> *An adventure for 6th level characters.*
+> *An adventure for 6th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> The **Harpers Mechanics Reference** audits the standard Spy host, custom intellect-devourer variant and optional two-Spy interception for actual participating combatants. The member count doesn't determine the combat baseline.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-Nihiloor implanted an intellect devourer inside Corene Wyldath's skull twelve days before this mission begins. The devourer is not a crude infiltration — Corene is still walking, talking, maintaining her cover, and filing reports. From the outside, the only sign that something is wrong is that she stopped checking in three tendays ago, which is the sign that got Mirt's attention.
+## Hook
 
-The devourer is using Corene as a surveillance asset. She has been attending Harper contact meetings and reporting everything back through Nihiloor's psychic link. She appears functional because she is functional — the devourer has been careful to keep her cover intact while harvesting what it can. The party will have to diagnose what they are looking at before they can decide what to do about it, and Corene's behavior under sustained interaction will give them the tools to do that.
+Mirt arrives before dawn to ask the members to locate Corene Wyldath and investigate the separate leak in the Harper register. He briefs the members privately, with companions able to assist the searches, capture and rescue afterward.
+
+## Background
+
+Corene spent four months undercover in Xanathar's Dock Ward operation under the name Halla Ironstave. Her last proper check-in was three weeks ago, followed by nine days of legitimate isolation during a Guild investigation. Twelve days ago Nihiloor implanted a brain-preserving parasite, suppressing her control while keeping her alive and using her memories to maintain the cover.
+
+Orren Vale, the Harper records-relay clerk, separately copies registered operational reports to Beldan Rusk for Manshoon's Splinter. His channel reaches its recipient exactly forty-eight hours after each entry. Neither channel supplies the other villain with intelligence, and rescuing Corene doesn't remove Orren's access.
+
+## Finding Both Routes
+
+Three witnesses independently direct the party to Corene's regular bench in the Trades Ward. Mirt also authorizes inspection of Orren's annotated register, surveillance of the real customs-house collection point and a uniquely worded false extraction report. Any one of those investigations can identify the clerk without forcing the party through the others.
+
+## The Agent at the Bench
+
+Corene answers familiar questions while asking for operational names she wouldn't normally need. Sustained observation, diagnostic examination or thought probing can establish the occupation, each leaving another route available after failure. The party decides how to approach a living victim whose body remains under hostile control.
+
+## Extraction and Closure
+
+The party can use its own curse-ending magic or bring Corene alive to Remallia's prepared extraction room. Killing the host or leaving her in place have fixed consequences, with a specific false report available for the latter choice. Orren's access and queued copies must also be secured before the register leak is closed, irrespective of Corene's outcome.
+
+## Renown Opportunities
+
+Each participating Harper member gains 4 base Renown for investigating Corene and reporting her actual resolution, including the register findings or the fact that it remains open.
+
+- **+1 Renown:** release Corene alive by ending the occupation curse, then bring her safely through one Long Rest.
+- **+1 Renown:** leave her in place and confirm through the described warehouse response that Mirt's single false report reached Nihiloor.
+
+The two optional paths reward their separate accomplished conditions once; choosing an approach without completing it earns no bonus. Helping companions gain no Harper Renown or membership.
+
+## Aftermath
+
+A recovered Corene supplies four months of Dock Ward intelligence after resting, while a planted report creates a bounded surveillance response. Her death before extraction raises Guild Dock Ward sites to at least Alert for fourteen days. Orren's closure prevents copies still queued under his control, while information delivered earlier remains with the Splinter.
+
+The intended **Xanathar's Lair** reader receives Corene's recorded outcome and its specified intelligence, rather than a general Renown 30 benefit awarded early. **The Stone's Other Master** becomes available at Renown 13 and 7th level once the Stone has at least one restored Eye.
 
 ## Involved Characters
-- **Mirt** (Harpers) — arrives at Trollskull Manor unannounced, through the back door, with a key he had copied; this is how he behaves when something is genuinely wrong
-- **Corene Wyldath** — halfling Harper informant, embedded in Xanathar's Dock Ward operation for six months; intellect devourer host; physically fine, affectively wrong
-- **Nihiloor** (Xanathar's Guild, mind flayer) — responsible for Corene's compromise; not directly present in this mission; connected to the devourer through a psychic link
+
+- **Mirt** and **Remallia Haventree** (Harpers): investigator and supervised extraction support.
+- **Corene Wyldath** (Harpers): a living Halfling informant occupied by Nihiloor's custom parasite.
+- **Orren Vale** (Harpers, secret Manshoon informant): records-relay clerk seeking security through betrayal.
+- **Beldan Rusk** (Manshoon Splinter): receives Orren's copies at the established collection point.
+- **Nihiloor** (Xanathar's Guild): receives the parasite's daily report, without appearing in this mission.
 
 ## Dangers & Enemies
-- Intellect devourer (inside Corene's skull) — not combat-capable while inside a host; hostile if physically expelled; **Intellect Devourer** stat block
-- No exterior combat encounters unless the party attracts attention in the Dock Ward
+
+Corene's occupied body uses the ordinary 2024 Spy statistics; the expelled parasite uses the verified variant in the mechanics reference. Two Spies may attend the false-destination trap, while Orren avoids fighting and can be arrested or allowed to escape without creating a boss encounter.
 
 ## Overview
 
-A Harper informant embedded in Xanathar's Dock Ward operation stopped checking in three tendays ago. Mirt needs to know if she is dead, captured, or something worse. She is something worse.
+The party searches for an absent Harper agent and the clerk behind a separate reporting leak, choosing how to protect a living victim while securing the compromised records.
