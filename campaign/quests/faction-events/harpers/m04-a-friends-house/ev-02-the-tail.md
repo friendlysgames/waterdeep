@@ -2,71 +2,95 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Exploration Event begins when the party follows Jarlaxle out of Haventree Villa and ends when he stops at the canal bridge and turns. In this Event, the party can:
+> This Exploration Event begins when the party follows Erystian from House Ulbrinter and ends at his chosen courtyard. In this Event, the party can:
 >
-> - Follow Jarlaxle through the Sea Ward gate and into the Castle Ward without losing him — he is not trying to be lost
-> - Gather three pieces of intelligence across three observation beats along a ten-minute route
-> - Follow Jarlaxle's companion when he splits off at a corner, discovering a Bregan D'aerthe dead drop
-> - Reach the canal bridge where Jarlaxle stops and faces them, transitioning to **The Confrontation** (ev-03)
+> - Observe the boots and the companion's change from guest to guard.
+> - Follow the companion to a fixed signal location or continue after Jarlaxle.
+> - Recognize that the walk and final stop were planned before the conversation begins.
 >
-> #### Background
->
-> Jarlaxle made his excuses to Remallia gracefully — warm, thirty seconds, nothing alarming. He did not look at the party when he left. He did not need to. He has been aware of their interest for at least forty minutes.
->
-> He is not leading them anywhere operational. He has no intention of walking into a Bregan D'aerthe safehouse with Harper agents at his back. He is going to let them follow for ten minutes, observe how they do it, and then stop and introduce himself properly. The route is circuitous on purpose — long enough for three observation beats and enough time for the street to thin out before he turns. He is giving the party a chance to get useful information before the conversation begins.
+> No combat or standalone reward occurs during this transition. The observations can support the profile bonus in **The Confrontation**.
 
-### The Route
+### Background
 
-Jarlaxle leaves Haventree Villa without looking back. The party can follow without a check — he is not trying to lose them.
+Jarlaxle knows the party is following from the villa and takes a ten-minute route toward the Castle Ward boundary, ending in Shield Court beside the closed Rill's Silks shop. He keeps operational interiors out of the route, intending to speak after seeing how the party follows. Lethan's signal check gives a limited external clue without revealing a hidden headquarters.
 
-> [!readaloud]
-> He leaves Haventree Villa without looking at you. His companion falls two steps behind the moment the gate closes behind them — not casual, coordinated — and they begin moving through the Sea Ward without hurry.
->
-> You follow them through the gate and into the Castle Ward. The evening is cool, the streets are mostly quiet at this hour, and they walk at the easy pace of people with nowhere particular to be, though neither of them hesitates at a single turning.
+### Leaving the Villa
 
-> [!exploration]**Observation Beat One — The Gates**
->
-> As Jarlaxle moves through the Sea Ward gate onto the Castle Ward avenue, the streetlights catch his boots for a moment.
->
-> A character who watches his feet and succeeds on a **DC 12 Wisdom (Perception)** check confirms what was visible at the salon: the sole pattern is drow-made, designed for silence on stone. His companion's posture shifts the moment they are clear of the gate — from social guest to personal guard, eyes moving through the street.
-
-> [!exploration]**Observation Beat Two — The Corner**
->
-> Halfway through the Castle Ward, Jarlaxle pauses at a corner and says something brief to his companion. The companion nods and takes a parallel street. They are splitting for the rest of the route.
->
-> A successful **DC 13 Intelligence (Investigation)** check, made while watching the companion's direction, identifies which street he takes. Following the companion instead of Jarlaxle leads to a building in the Castle Ward with no public entrance. He checks a chalk mark on the doorframe, makes one of his own, and moves on. A successful **DC 15 Intelligence (Arcana)** check, or any character with thieves' cant, recognizes the chalk marks as Bregan D'aerthe dead drop signals.
-
-> [!exploration]**Observation Beat Three — The Vendor**
->
-> Near the canal bridge at the Castle Ward's edge, Jarlaxle pauses at a street vendor and makes a purchase without hurrying. A successful **DC 14 Wisdom (Perception)** check reveals that he does not pay from a coin pouch — he pays from a folded note already separated and ready, the denomination exact. He had prepared for this stop before he left the salon. He knew where he was going when he made his excuses to Remallia.
-
-### Jarlaxle Turns Around
-
-On the far side of the bridge, on a stretch of quiet cobblestones with the canal on one side and a closed tailor's shop on the other, Jarlaxle stops walking. He does not look back first. He simply stops.
+Jarlaxle leaves at 21:30, or immediately after an earlier private conversation, with Lethan two steps behind him. The party can follow without a check because he maintains an ordinary walking pace and doesn't attempt to lose them. Keeping an unnoticed pursuit remains a choice, but Jarlaxle is aware of them regardless and doesn't penalize a failed attempt with a vanished target.
 
 > [!readaloud]
-> At the far end of the bridge, he stops walking. He does not look back or slow his pace before it — he simply stops and stands on the quiet cobblestones while you close the distance.
 >
-> When you are within speaking distance, he turns. He is still in the Luskan poet clothes and posture, but the quality of his attention has changed. He looks at you the way someone looks at something they have been watching for some time.
+> Erystian pauses beside Remallia at the door while his companion waits for the last guest's carriage to pass along the street.
 >
-> > "You follow well. Better than the last set of people Mirt sent."
+> > "Thank you for the evening, Remallia. I've enjoyed the company you've brought together, and I hope you'll let me return when the next invitation is ready."
 >
-> He says it without hostility, as a plain statement of fact, and waits.
+> They begin walking toward the southern streets, and the companion drops behind him far enough to watch both sides of the road.
 
-Proceed to **The Confrontation** (ev-03).
+> [!exploration]**The Boots under the Lamps**
+>
+> Two minutes into the walk, a successful DC 12 Wisdom (Perception) check notices the distinctive drow-made sole pattern as Jarlaxle crosses a lit doorway. This confirms the salon's boots clue, while Lethan's guard position is visible without a check. Failure leaves the original salon evidence and later observations available.
+
+### The Companion's Signal
+
+Five minutes after departure, Jarlaxle speaks briefly to Lethan at the corner and sends him along a parallel street. A successful DC 13 Intelligence (Investigation) check identifies his route to the boarded side entrance of 4 Shield Street; failure leaves the party able to follow him visibly instead of reconstructing his intended route.
+
+> [!readaloud]
+>
+> Erystian pauses at the corner and points toward the next street while a wagon rolls between his companion and you. The companion nods and walks away from the main route, leaving Erystian to continue toward a row of closed shops.
+
+If the party is close enough to hear their exchange, use the following instead:
+
+> [!readaloud]
+>
+> Erystian pauses at the corner and points toward the parallel street, keeping his companion beside him until the wagon has passed.
+>
+> > "Check the mark and meet me in Shield Court. Our guests have kept up with us, and I would rather give them time to ask their questions there."
+>
+> Lethan nods before turning into the next street.
+>
+> > "I'll come to the courtyard when it's checked. You can go ahead while I take the other street."
+
+> [!exploration]**The Chalk beside the Doorframe**
+>
+> Lethan checks a chalk mark at 4 Shield Street, adds a second short stroke and continues to Shield Court, arriving two minutes after Jarlaxle. The party can see this from the street without entering the building, whose boarded door has no public access.
+>
+> A successful DC 15 Intelligence (Investigation) check recognizes a nonmagical signal notation used by covert agents; a character who understands Thieves' Cant recognizes its signal function without a check. It marks a completed contact rather than supplying a decoded message or proving an interior lair. Jarlaxle's acknowledgment in the next event can establish the BD connection. Following Lethan still reaches the courtyard and doesn't forfeit the confrontation.
+
+### Shield Court
+
+At minute eight, Jarlaxle stops at a chestnut vendor outside Shield Court. A successful DC 14 Wisdom (Perception) check notices that he has a folded payment voucher prepared for this particular stall; the vendor accepts it as prepaid credit, avoiding invented Waterdhavian paper currency. He then crosses to the closed tailor's door and waits.
+
+> [!readaloud]
+>
+> Erystian hands the vendor a folded voucher and accepts the wrapped chestnuts before crossing toward a quiet courtyard beside the closed tailor's shop. He waits by the door until you come within speaking distance, then turns and offers the packet toward you.
+>
+> > "I thought we might want a quieter place to speak. You've followed me this far, so I'd like to hear what you were hoping to ask."
+
+### Renown Opportunities
+
+This event grants no separate Renown. Record each observation actually made for the cover-profile bonus, with the boots or guard behavior counted only once if already noticed at the salon.
+
+### Aftermath
+
+The signal location becomes a limited point for future surveillance, while Jarlaxle's chosen courtyard keeps the conversation away from Remallia's other guests. He doesn't lead the party into an operational headquarters.
 
 ### Concluding the Event
 
-This event is a bridge between the salon and the confrontation. There are no standalone Renown awards here.
+Jarlaxle waits for the party's question without requiring them to announce an accusation first.
+
+> [!gamemaster]**Event Outcomes**
+>
+> - **BD Signal Site Observed** — mark when the party sees Lethan mark 4 Shield Street; **Faction Outposts** reads it as an external signal lead, with no interior roster established here.
+> - **Erystian Cover Observations Recorded** — mark with the actual boots, guard, signal or prepared-route evidence; **The Confrontation** reads these for its one profile bonus.
 
 > [!gamemaster]**Next Steps**
 >
-> Proceed to **The Confrontation** (ev-03).
+> Proceed to **The Confrontation** in Shield Court, whether the party followed Jarlaxle or Lethan. This mission awards no Milestone Points.
 
 ## Overview
 
-Jarlaxle left Haventree Villa without looking at the party and took a ten-minute route through the Castle Ward. He let them observe him the whole way. Then he stopped at a canal bridge and turned around.
+The party follows Erystian through the evening streets, observing his companion's signal check before he stops to invite a private conversation.
 
 ## Summary
 
-The party followed Jarlaxle from Haventree Villa through the Sea Ward gate and into the Castle Ward. Three observation beats along the route established his drow-made boots, confirmed his companion's role as a personal guard, and turned up Bregan D'aerthe dead drop marks on a building in the Castle Ward. At a canal bridge on the district's edge, Jarlaxle stopped, turned, and spoke.
+We followed Erystian and recorded the details we noticed along his route. He waited in Shield Court rather than trying to lose us, giving us a place to ask him what he was doing at the salon.

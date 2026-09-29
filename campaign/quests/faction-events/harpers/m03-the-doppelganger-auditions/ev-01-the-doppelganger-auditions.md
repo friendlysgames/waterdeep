@@ -2,271 +2,351 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event runs across two evenings at the Yawning Portal, then concludes with Mattrim's private revelation and the party's report to Mirt. In this Event, the party can:
+> This Social Event begins with Mirt's personal visit and ends with the members' recommendation, or passes into **The Tail** if Edric remains unidentified. In this Event, the party can:
 >
-> - Receive the mission brief from Mirt in person — no paper bird — which signals the mission's weight.
-> - Conduct two evenings of interviews with five doppelgangers, one of whom (Edric Tanner) is a Splinter asset.
-> - Observe Bonnie running her own assessment of the party throughout, and decide whether to disclose it to Mirt.
-> - Identify Edric through smart questions or specific skill checks.
-> - Hear Mattrim's revelation after the interviews: he worked it out too, and he knows Bonnie already knew.
-> - Report to Mirt and shape both Edric's fate and Bonnie's long-term role in the Harper network.
->
-> #### Background
->
-> Bonnie ran quiet background checks on each crew member after a Guild operation was tipped off. She confirmed Edric's behavioral drift three tendays ago and said nothing — she wanted to see whether the Harpers were competent enough to catch him. She is evaluating the party as potential clients throughout the interviews, and her interest in how carefully they ask questions is not incidental; it is the assessment.
->
-> Edric filed one report identifying Mattrim Mereg as a Harper operative before the interviews were arranged. He will use the sessions to gather intelligence on the party. He is personable and disarming by design. Finding his tells requires paying close attention to the most appealing person in the room.
->
-> If Edric is not identified during the interviews, he begins following party members the next morning. Proceed to the **The Tail** event (ev-02).
+> - Interview five colleagues across two evenings without disclosing their identities to the public room.
+> - Test Edric's claimed work through three independent approaches.
+> - Learn why Bonnie withheld her own findings and negotiate her relationship with the Harpers.
+> - Intercept Edric before his new report leaves, or continue the investigation during his surveillance.
 
 ### The Brief
 
-Mirt finds the party at the Yawning Portal himself. No paper bird means this is not a routine errand.
+Mirt finds the eligible Harper members at the Yawning Portal at 17:00 and takes them to the upstairs private room. His brief remains members-only, with companions invited afterward if the members want help interviewing the crew.
 
 > [!readaloud]
-> The Yawning Portal is busy for a midday, and Mirt has found a table away from the bar — not his usual spot. He is sitting without a drink when you arrive, which is unusual enough to notice. He waits until everyone is in before he speaks.
 >
-> > "A member of our network — Mattrim Mereg, you may have met him at the bar — has gotten it into his head that we should recruit a gang of doppelgangers. I've been resisting the idea, but he's persistent and I need a second opinion I can trust. Talk to them. All five. Tell me what you actually think."
+> Mirt arrives while Mattrim is playing beside the entrance, pausing long enough to listen before turning toward you with one hand on the stair rail.
 >
-> He does not tell you which ones he suspects.
+> > "Come upstairs with me so we can discuss something without the music over it."
+>
+> In the private room he draws a chair toward the table and waits until the door has closed before setting his notes down.
+>
+> > "Mattrim wants us to work with Bonnie's people. I've been resisting him, and he's kept asking. I'd like you to meet the five colleagues she brings and tell me what arrangement you'd trust. Hear them before you recommend anything."
 
-> [!social]**The Second Opinion**
+> [!social]**Mirt's Second Opinion**
 >
-> Mirt (Chaotic Good, Illuskan human, he/him) :: a moneylender and Harper handler; uncomfortable about this specific request and not hiding it well.
->
-> Mirt is in business mode, but the subject makes him shorter than usual. He is not enthusiastic about recruiting doppelgangers, and he does not pretend to be. He needs an outside read that is not Mattrim's, and he trusts the party's judgment enough to ask for one. He will not tell them who he suspects because that would bias the evaluation.
->
-> Conversation topics Mirt is willing to discuss include:
-> - Why he is hesitant about recruiting doppelgangers, which he explains plainly.
-> - What he wants from the party's report, which is an honest assessment, not a recommendation to hire.
-> - How the interviews are arranged, which Bonnie has organized at the Portal.
->
-> Specific dialogue for Mirt on these topics is presented below.
+> Mirt keeps the assessment in the private room and leaves Mattrim's recommendation among his notes. He wants the members' independent judgment, with the arrangement still open to their report. His concern is covered below; he doesn't require them to endorse the crew before meeting it.
 
-> [!qna]**Why the hesitation?**
+> [!qna]**What worries you?**
 >
-> > "I'm not opposed to the idea in principle. I'm opposed to the idea of recruiting five strangers whose faces I can't rely on, when I don't know which of them Mattrim has already told things to." He taps the table once. "Talk to them. Tell me what you see."
+> > "They can change faces, but that's useful to us as well as dangerous. I want to know what they expect from the work and whether they'll keep an agreement. Mattrim likes them, and I need another view."
 
-> [!qna]**What do you want from us?**
+> [!gamemaster]**The Existing Report**
 >
-> > "Tell me if any of them are a problem. Tell me if all of them are a problem. Tell me if Mattrim's judgment has gone sideways, because that's also useful information." He straightens. "I want your actual read, not the one that agrees with his."
+> Edric has already identified Mattrim to the Splinter. He has not yet filed the account gathered during these interviews, which he delivers at 09:00 the morning after evening two unless intercepted. That report describes the characters present and names only affiliations explicitly disclosed or verified; it doesn't make all helping companions Harpers.
 
-> [!qna]**How are the interviews arranged?**
->
-> > "Bonnie has set it up. Two evenings, at the Portal. Mattrim will be there."
+### The First Evening
 
-### The Interviews — Evening One
-
-Bonnie arranges the meetings across two evenings. Each doppelganger arrives in human form. Mattrim Mereg is at a table nearby, nursing a single drink, playing quiet songs throughout each evening.
+Mattrim introduces the party to Bonnie at 18:30. She reserves the upstairs room, setting Kael's interview for 19:00 and Syla's for 19:30, with half an hour for each unless Kael leaves sooner.
 
 > [!readaloud]
-> Bonnie is at the back of the common room when you arrive for the first evening, watching the door. She gives you a table with good sightlines and brings drinks without being asked. Mattrim is three tables over with his lute, playing something unhurried that fits the room well, and he doesn't look over.
+>
+> Mattrim carries his lute upstairs while Bonnie clears cups from the table and checks that the room's door will close properly behind the guests. She sets a fresh jug within reach and places a clean sheet beside it.
+>
+> > "You can ask what you need to, love, but who gets the notes you're taking? I'd like to know who's holding them afterward, especially if you're writing down where everyone works."
+>
+> Mattrim draws a chair away from the interview table and settles beside the window with his lute across his knees.
+>
+> > "These are my friends, so I'm going to keep my mouth shut while you hear them. Give them time to answer, please. I've made enough of a mess explaining this myself."
 
-> [!social]**The Crew Boss**
+> [!social]**Bonnie's Assessment**
 >
-> Bonnie (Neutral, Doppelganger, she/her) :: the doppelganger running a crew of five at the Yawning Portal, currently using a barmaid face she's had for three years.
+> Bonnie (Neutral, Doppelganger, she/her) :: a working barmaid who protects the crew's employment while considering a new client.
 >
-> Bonnie is available before and after the formal interviews. She answers questions about the crew with apparent openness, and her attention is warm and attentive in the way she is always warm and attentive. What she is actually doing is assessing how carefully the party asks questions, and how well they listen to answers. She knows exactly which crew member is the problem, and she is deciding whether these particular clients are worth trusting before she tells them anything.
->
-> A character who makes a successful DC 15 Wisdom (Insight) check during a conversation with Bonnie senses that her interest in the party's judgment is too precise, her attention too directed toward their competence rather than their credentials. She is evaluating clients, not presenting herself for hire.
->
-> Conversation topics Bonnie is willing to discuss include:
-> - The crew, about whom she is descriptive and complimentary in a way that is technically accurate but reveals nothing.
-> - The work they do and what their current arrangement with the Portal looks like.
-> - What Harper membership would mean for the crew practically.
->
-> Specific dialogue for Bonnie on these topics is presented below.
+> Bonnie uses her familiar barmaid guise in the public room and discusses shapeshifting only upstairs. She asks who will hold the notes, how names will be protected and whether refusal would cost anyone their existing job. She accepts clear answers and doesn't demand recruitment as payment for access. A successful DC 15 Wisdom (Insight) check notices that she watches the interviewers' judgment as closely as she watches her colleagues; this observation doesn't identify Edric.
 
-> [!qna]**Tell us about the crew.**
+> [!qna]**Are you applying too?**
 >
-> > "Five of us. All working. Different faces for different jobs — the usual. Kael does cargo work, Syla does meetings with people who want someone with a calming face. Edric runs routes. The Scholar and the Merchant handle anything that needs a specific social register." She straightens the tray she's carrying. "We're good at our work. That's why Mattrim asked."
+> > "I'm deciding whether we'd work well together. The others need to speak for themselves, and I'd rather you heard them without me answering every question for them."
 
-> [!qna]**Do you suspect anyone in your crew?**
+> [!qna]**How many are in your crew?**
 >
-> She looks at you for a moment before she answers.
->
-> > "That's what you're here for, isn't it?"
->
-> If the same character presses with specific observations, or names Edric with supporting evidence, she goes quiet and sets down the tray.
->
-> > "Tell me what you noticed. In order. Starting from the first evening."
->
-> She is not confirming anything. She wants to see whether the party's work matches hers. If the evidence is solid and specific, she confirms it. If it is vague or incomplete, she listens without comment and changes the subject.
+> > "Six, counting me. You'll meet the other five over these two evenings, and then we can talk about what you think would work."
 
-The first two interviewees arrive on the first evening.
-
-**Kael** arrives first. He is a tall, angular man who carries himself with the economy of movement of someone accustomed to narrow ship corridors. He makes no attempt to seem interested in being here and leaves after twenty minutes regardless of how the conversation goes.
-
-> [!social]**Kael**
+> [!qna]**What protection do you need?**
 >
-> Kael (Unaligned, Doppelganger, he/him) :: a retired-sailor presentation; not untrustworthy, just uninterested; not the mole.
+> Bonnie turns the clean sheet over, leaving its blank side toward the room.
 >
-> Kael did not want to come and makes no effort to hide it. He considers this meeting pointless and says so, not rudely, just factually. He answers questions with accurate brevity and does not elaborate. He has not touched his drink.
->
-> A successful DC 12 Wisdom (Insight) check confirms he is not untrustworthy so much as uninterested. He does not want Harper membership and is only here because Bonnie asked him to be. He is not the mole.
+> > "Keep the names upstairs and off the public tables, please, and tell me what happens if someone says no. Do they still have the job they came here with? I need your answer before I ask them to trust you with anything else."
 
-> [!qna]**Why are you here?**
+> [!social]**Kael, the Retired Sailor**
 >
-> > "Bonnie asked. I don't usually say no to Bonnie." He glances toward the door. "I'll be honest with you — this isn't something I want. I've got work. I'm not looking for more supervision."
+> Kael presents as a tall, angular sailor, keeps his coat on and leaves at 19:20 regardless of the interview's progress. He discusses old ship work plainly but doesn't want Harper membership, attending only because Bonnie asked. A successful DC 12 Wisdom (Insight) check confirms disinterest rather than concealed loyalty to an enemy; direct questions about whether he wants the work produce the same practical answer.
 
-**Syla** arrives after Kael leaves. She is a middle-aged woman with the composed bearing of someone accustomed to managing difficult conversations in formal settings. She listens more than she speaks.
-
-> [!social]**Syla**
+> [!qna]**Why did you come?**
 >
-> Syla (Unaligned, Doppelganger, she/her) :: a Tethyrian-widow presentation; genuinely undecided about who she wants to be; not the mole.
->
-> Syla uses the interview as much as the party does. She answers every question with another question, not evasively but genuinely, as though she is working something out. A successful DC 13 Wisdom (Insight) check confirms she is genuinely undecided about who she wants to be and whether Harper membership would help her figure that out. She is not lying. She is not the mole.
+> > "Bonnie asked me to hear you out. I've got work already, and I don't want another employer telling me where to go after dark. If that's what this involves, count me out."
 
-> [!qna]**What would Harper membership mean for you?**
+> [!qna]**What was your ship work?**
 >
-> She considers the question with visible interest.
+> Kael draws his coat sleeve back from the cup without taking it off.
 >
-> > "I'm not sure yet. That's the honest answer." A pause. "What does it usually mean for people who join? I'd like to know what you've seen."
+> > "I worked as a sailor before I retired, and I know how to keep a place in a crew. I've had enough of taking another person's orders to want a different arrangement now."
 
-### The Interviews — Evening Two
-
-Three interviewees arrive on the second evening: Edric Tanner, the Scholar, and the Merchant. Mattrim is at the same table, playing the same unhurried songs.
+At 19:20, Kael closes the interview:
 
 > [!readaloud]
-> The second evening is quieter than the first. Mattrim has been at his corner table for an hour when you arrive. He looks up once, nods, and goes back to playing.
+>
+> Kael rises from his chair and pulls his coat straight, leaving his untouched cup beside the jug as he turns toward the door.
+>
+> > "I've heard you, and I don't want the work, but tell Bonnie I came as she asked. I've got somewhere else to be tonight, so I'll leave you to the next interview."
 
-**Edric Tanner** arrives first. He is the most immediately likeable of the five — open-faced, quick laugh, full of route anecdotes, the kind of person who makes everyone around him feel included. He has been in Bonnie's crew for two months. He is the Splinter asset.
+> [!social]**Syla, the Merchant's Widow**
+>
+> Syla presents as a middle-aged Tethyrian widow and asks about each responsibility before offering an answer. She is unsure what life she wants, asking whether the Harpers would accept limited work without controlling her other identities. A successful DC 13 Wisdom (Insight) check confirms that uncertainty is genuine; giving concrete terms lets her discuss them without any check.
 
-> [!social]**Edric Tanner**
+> [!qna]**Would you accept the work?**
 >
-> Edric Tanner (Unaligned, Doppelganger, he/him) :: a Dock Ward teamster presentation; the most disarming of the five; the Splinter asset.
->
-> Edric is the most appealing person in the room. He fills conversations with easy warmth, route anecdotes and quick questions back. He has been doing this long enough that the warmth has become entirely convincing. His hands look like a teamster's. They are not.
->
-> Finding his tells requires paying close attention to the most appealing person in the room. Detection approaches that are available without automatically succeeding:
-> - Asking about specific Harper knowledge they should not have — all five profess ignorance, but Edric's denial is practiced rather than genuine.
-> - Asking them to describe the Waterdeep they know — Edric's knowledge of the Dock Ward reads more like an observer's survey than a worker's familiarity; he knows routes and schedules with a precision that comes from watching rather than doing.
-> - A successful DC 16 Wisdom (Insight) during conversation: Edric blinks too infrequently and answers questions a half-second faster than natural. His responses are preloaded.
-> - A successful DC 13 Intelligence (Investigation) examining his hands after the meeting: no callus pattern consistent with teamster work.
->
-> If confronted directly with specific evidence before the interview concludes, Edric withdraws gracefully and leaves. He does not escalate. He does not confirm anything.
+> > "What would I have to give up to do it? I don't mean the hours, although those matter too. Would you expect me to use the same name whenever I met one of you?"
 
-> [!qna]**Tell us about your work.**
->
-> > "Dock Ward, mostly — cargo routes, some warehouse work, the usual. I've been running the same circuits for years. You get to know the city that way, really know it, the way you don't if you're just walking around." He settles back in his chair. "What kind of work does the network usually need?"
+### The Second Evening
 
-> [!qna]**What do you know about the Harpers?**
->
-> He gives an easy smile.
->
-> > "Not much, honestly. Mattrim said you do good work, keep things stable. That's enough for me. I'm not looking for politics."
+Bonnie brings Edric at 19:00 the following evening, the Scholar at 19:30 and the Merchant at 20:00. Each has half an hour, with Bonnie available afterward to discuss the party's observations.
 
-**The Scholar** arrives after Edric. He is a young man with the practiced openness of someone who has learned that seeming forthcoming is more useful than being forthcoming. He is charming, and he knows it.
+> [!readaloud]
+>
+> Bonnie holds the door for the next guest and points toward the empty chair beside your notes.
+>
+> > "This is Edric Tanner. He's been working with us for two months, and you have until half past before the next guest comes up."
+>
+> Edric takes the chair opposite you and places his cup beside the jug, looking from it to the people around the table.
+>
+> > "Would you mind if I helped myself while we talked about the Dock Ward routes? Have you been down there lately, or is the work you have in mind somewhere else?"
+>
+> > "If you've been caught behind a wagon down there, you've probably seen me trying to get it moving. What would you need from someone who knows those streets? I can't promise everyone would be pleased to see me asking questions."
+
+> [!social]**Edric's Teamster Cover**
+>
+> Edric Tanner (Doppelganger, he/him) :: a Splinter informant presenting as a cheerful Dock Ward teamster.
+>
+> Edric has been in the crew for two months. He discusses routes and cargo with practiced warmth, asking about the party's assignments in return, but his supposed work is an observer's survey. He claims to know nothing of Harper operations until someone discloses a detail. He won't confess from an unsupported accusation, though presenting specific evidence makes him ask for a private arrangement rather than argue indefinitely.
+
+> [!exploration]**Three Ways to Test the Cover**
+>
+> - **Practical work:** asking what Edric personally does when a loaded cart wheel sticks produces a route description rather than an account of unloading or repairing it. Asking again for the steps he takes reveals that he cannot describe the work. No check is needed for these concrete follow-up questions.
+> - **Conversation:** a successful DC 16 Wisdom (Insight) check notices that answers about supposed experiences arrive rehearsed, with the same wording when asked again. This identifies a false work history without making every unusual mannerism proof of treachery.
+> - **Hands:** a successful DC 13 Intelligence (Investigation) check while examining Edric's offered hands finds no callus pattern matching his claimed daily work. It is a mismatch in his chosen guise, rather than a rule preventing a Doppelganger from copying calluses.
+>
+> Any of these findings gives Bonnie something specific to compare with her own evidence. A failed check leaves practical questioning and Bonnie's conversation available.
+
+> [!qna]**What do you do when a loaded wheel sticks?**
+>
+> Edric draws a finger through a wet ring beside his cup, tracing the turn of a street.
+>
+> > "You want the wider turn by the wagon yard. The carts bunch up when someone tries to cut the corner, and then the drivers behind them start shouting. I try to keep clear of that stretch."
+
+> [!qna]**What steps do you take to free it?**
+>
+> Edric takes his finger off the table and reaches for the jug again.
+>
+> > "I mean, it depends which wagon you're dealing with, and it's easier to tell the driver where he should have turned. I couldn't give you the repair steps from here without knowing more about the wagon."
+
+> [!qna]**What do you know about Harper operations?**
+>
+> > "I only know what you're telling me tonight, because nobody has been giving me your assignments. What would you want someone who works on those streets to know?"
 
 > [!social]**The Scholar**
 >
-> The Scholar (Unaligned, Doppelganger, he/him) :: a young-academic presentation; charming and forthcoming about everything except the things that actually matter; not the mole.
->
-> A successful DC 12 Wisdom (Insight) check identifies that he is already considering how Harper membership could be monetized. Not actively dangerous; loyalty is negotiable but not dangerous in any immediate sense.
+> The Scholar presents as a young academic and answers warmly until asked what work should pay. A successful DC 12 Wisdom (Insight) check finds that he is already considering the commercial value of Harper affiliation, rather than hiding an enemy employer. Directly asking for his terms gets an honest request for payment by the job, with no promise of permanent membership.
 
-> [!qna]**What are you looking for in this arrangement?**
+> [!qna]**What would make you accept?**
 >
-> Every answer arrives polished.
->
-> > "Access, mostly. The right introductions, the right rooms. What I do requires being trusted by people who are careful about who they trust, and an organization with your kind of reputation is worth more than any single job." A pleasant smile. "I imagine that's useful to both of us."
-
-**The Merchant** is the last to arrive. He is a broad-shouldered man in import-trade clothes who makes no particular impression on first meeting — neutral manner, cooperative posture, nothing visible to push against.
+> > "Payment for the work and some clarity about what I'm agreeing to. I've heard a great deal about doing things for the right reason, but I still have rent to pay."
 
 > [!social]**The Merchant**
 >
-> The Merchant (Unaligned, Doppelganger, he/him) :: a Dock Ward import-dealer presentation; effectively trustworthy in a limited way; no hidden agenda.
+> The Merchant presents as a Dock Ward import dealer who values predictable arrangements. He discusses deliveries, expenses and notice periods without concealing another agenda, agreeing to occasional paid work if Bonnie confirms the client is reliable. He offers cooperation because the arrangement suits him, and doesn't claim a devotion he hasn't developed.
+
+> [!qna]**Can we rely on you?**
 >
-> He is here and he will answer questions and he finds the arrangement reasonable. A successful DC 11 Wisdom (Insight) check confirms that his cooperation is genuine within the terms of the arrangement he has in mind. He has no hidden agenda.
+> > "You can rely on me to do what we've agreed, provided I know the terms before I start. Bonnie has kept our work steady, and I'm content to hear what she recommends."
 
-> [!qna]**Why do you want this?**
->
-> > "Stability. We've got a good setup at the Portal. A formal arrangement means it stays that way." He shrugs. "That's what I'm after."
+### Bonnie's Findings
 
-### Mattrim's Revelation
-
-After both interview evenings conclude, Mattrim sets his lute down and pulls the party aside before they can report to Mirt.
+At 20:30, Bonnie asks to hear the party's observations in the order they made them. Naming Edric with any concrete cover mismatch above makes her disclose the investigation; vague suspicion makes her ask for a specific example and leaves all evidence routes available.
 
 > [!readaloud]
-> Mattrim finds you before you can leave. He sets his lute down carefully on the table, which he does not usually do — he keeps it in hand even when he is done playing — and he looks at the table for a moment before he looks at you.
 >
-> > "I think one of them told someone about you. About your affiliation."
+> Bonnie sits down after the last guest leaves and moves the unused cups away from your notes, keeping the interview list in front of her.
 >
-> He says it carefully, without drama.
->
-> > "I don't know which one. I've been going through every conversation and I keep coming up wrong."
->
-> He looks up.
->
-> > "I need to tell you something else. Bonnie knows. She's known for about a tenday. She hasn't told me because she thinks she can fix it herself. She can't."
->
-> He waits.
->
-> > "Whatever you recommend to Mirt — I'll abide by it. I just wanted you to know that she tried."
+> > "Tell me which interview you want to discuss first, and what you noticed while you were talking. We can go through your observations in the order they happened."
 
-> [!social]**Threestrings**
->
-> Mattrim "Threestrings" Mereg (Lawful Good, Tethyrian human, he/him) :: a Harper agent using a mediocre-bard cover; careful and slow when being honest; genuinely worried.
->
-> Mattrim is not performing. The lute is down. He went through every conversation looking for the tell and came up wrong, and he is telling the party this plainly, which costs him something. He is also asking them, without saying it directly, to tell him whether he missed something he should have caught.
->
-> He will answer questions honestly. He does not know which interviewee filed the report, but he has his suspicions and will share them if pressed.
->
-> Specific dialogue for Mattrim on these topics is presented below.
-
-> [!qna]**Do you know which one?**
->
-> He plucks one string absently and stops himself.
->
-> > "Not for certain. I've been going through it. The one I keep coming back to is Edric — something about the Dock Ward answers, they were too rehearsed, too smooth. But I've been wrong before and I don't want to say it until I'm sure." He looks at you directly. "Did you catch something I didn't?"
-
-> [!qna]**Why didn't Bonnie tell you?**
->
-> > "She's protecting her crew. She found it herself, she didn't want to hand it to us, she thought she could handle it without it becoming a whole — situation." A pause. "I understand why she did it. I'd have done the same thing three years ago."
-
-### The Report to Mirt
-
-Mirt listens without interrupting.
-
-> [!gamemaster]**Mirt's Response**
->
-> **If Edric is correctly identified:** Mirt is visibly relieved. He recruits the other four under a provisional arrangement — they report to Bonnie, Bonnie reports nothing to the Harpers but agrees to a neutrality pact. Mattrim is chastened. Edric is either neutralized (the Splinter loses their embedded asset) or left in place as a controlled asset feeding false information.
->
-> **If Bonnie's prior knowledge is disclosed:** Mirt goes quiet for longer than usual. "She ran her own check. Sat on it. Watched." He recalibrates. A party member can make the case directly that Bonnie identified Edric three tendays before the Harpers knew to look — no check required if the argument is sound, or a DC 13 Charisma (Persuasion) check if Mirt is skeptical. On a success, Mirt agrees to offer Bonnie a full operative role rather than a neutrality pact. She names her own terms: her crew's identities stay protected, she routes intelligence through the party rather than directly to Mirt, and she retains discretion over which jobs she takes. Mirt accepts. This earns +1 Renown.
->
-> **If Edric is not identified:** All five are offered provisional recruitment. Within a tenday, Edric files a full report — names, descriptions, Harper affiliation. Proceed to **The Tail** Event (ev-02).
->
-> **If the Splinter safehouse Edric connects to is investigated:** It contains notes about two other Harper assets in the city. Mirt can clean house on them before the Splinter acts, and earns the party +1 Renown.
+If the party names Edric with a concrete cover mismatch, Bonnie continues:
 
 > [!readaloud]
-> Mirt listens to the full report before he says anything. When he speaks, his voice is level.
 >
-> > "Good. Now tell me what you want to do about it."
+> Bonnie rests her hands on the table and waits until you have finished before turning Edric's name toward you on the list.
+>
+> > "I found a payment after one of our jobs was tipped off, three weeks ago. It led to Edric. I've been trying to trace who took his reports, and I wanted to know whether you would find the same trouble before I trusted you with it."
+
+If the party offers only vague suspicion, use this response instead:
+
+> [!readaloud]
+>
+> Bonnie leaves the interview list where it is and draws your notes closer, looking along the entries before returning them to you.
+>
+> > "What did he actually say or do that I can compare with what I know? Being uneasy about someone doesn't tell me which part of his account failed."
+
+> [!qna]**Why didn't you tell Mattrim?**
+>
+> > "He knew I was checking something, but I hadn't given him Edric's name. I didn't want the whole crew questioned in the middle of the fucking bar while I still had a chance to find the buyer."
+
+### Mattrim and the Recommendation
+
+Mattrim takes the participating interviewers aside at 20:45, after Bonnie's conversation, whether or not they identified Edric. He learned one week ago that Bonnie had found a betrayal, but he doesn't know which colleague she suspected unless the party has told him.
+
+> [!readaloud]
+>
+> Mattrim sets the lute in its case and waits until the last footsteps have gone down the stairs before pulling his chair beside yours. He keeps his voice at the same easy volume, although he takes longer to choose what he wants to say.
+>
+> > "I think one of them has told someone about us. About who I work for, at least. Bonnie told me a week ago that she'd found trouble and was checking it, but she didn't give me a name."
+>
+> > "Shit, I should have asked more carefully. Whatever you recommend, I'll hear it. I wanted you to know she was trying to protect them, even if she should have brought us in sooner."
+
+Mirt receives the members at his residence at 21:30, or at 09:00 the next morning if they postpone the visit. A report arriving at the latter time is too late for the pre-delivery bonus unless Edric was already intercepted.
+
+> [!gamemaster]**Mirt's Decisions**
+>
+> If Edric is identified, Mirt asks Bonnie to exclude him immediately, offering Kael, Syla, the Scholar and the Merchant occasional work through her without automatic faction enrollment. Kael declines; Syla reserves her answer; the Scholar and Merchant accept paid work. Bonnie receives a neutrality pact unless the party makes the case for a fuller role.
+>
+> A successful DC 13 Charisma (Persuasion) check, or a direct case citing Bonnie's three-week investigation and specific protective conduct, persuades Mirt to offer her an operative role. Bonnie accepts only with her crew's identities protected, intelligence routed through the participating Harper members and freedom to decline jobs. Mirt accepts those terms; the party decides whether to recommend and maintain that relationship.
+>
+> If Edric remains unidentified, Mirt offers the five colleagues a provisional arrangement through Bonnie without enrolling them. Edric delivers his report at 09:00 and begins **The Tail**; don't mark **Harper M3 Complete** until that investigation or Bonnie's subsequent exclusion resolves his place in the crew.
+
+If the members persuade Mirt to offer the operative role through the stated check or direct evidence, he makes this offer:
+
+> [!readaloud]
+>
+> Mirt brings Bonnie's account of the payment beside the proposed terms, leaving both sheets within her reach while he turns toward her.
+>
+> > "You traced the betrayal and tried to protect the crew while doing it. I'd like you to work with us as an operative, with their identities protected and reports through these members. You can decline a job that would put them at risk."
+
+If Bonnie accepts the operative arrangement, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Bonnie reads Mirt's written terms and places a finger beneath the space for reports, leaving the agreement unsigned beside her cup.
+>
+> > "Put the reports through these people, keep my crew's identities protected, and let me decline a job when it would expose them. Are those the terms you're offering, so I can put my name to them?"
+>
+> Mirt adds the report route beneath the existing terms and turns the sheet back toward her.
+>
+> > "You can decline, and their names stay protected under the terms written here. Bring the reports through the members we're working with, and we'll keep that route in the agreement."
+>
+> Bonnie signs and gives you the second copy, folding it so the names are inside.
+>
+> > "I'll bring you what we learn, and I'll tell you when a job would put the others at risk. I'd like you to tell me the same before asking us to take it."
+>
+> > "When can we meet upstairs at the Portal again to settle the first piece of work? I'll need something specific before I bring it to the others."
+
+If the crew keeps the neutrality pact, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Mirt puts the proposed jobs aside while Bonnie checks the promise protecting her crew's names, then leaves the signed copy beside her cup.
+>
+> > "Their identities stay protected. We'll bring individual jobs through these members, and you can decide whether the terms suit you."
+>
+> Bonnie folds her copy and stands beside the chair, checking that the names remain inside before slipping it into her pocket.
+>
+> > "I'll hear those jobs when you have them. We haven't agreed to join you, but we can consider work that keeps the others safe."
+>
+> She takes the signed copy with her, leaving Mirt's copy beside the proposed jobs on the table.
+
+When Bonnie passes an occasional-work offer to her four remaining colleagues, their answers retain the choices made in their interviews:
+
+> [!qna]**Kael's answer?**
+>
+> > "No, thank you, I've got the work I want and the interview hasn't changed my mind. Bonnie knows where to find me for the jobs we already do together."
+
+> [!qna]**Syla's answer?**
+>
+> > "I'd like to keep the terms and think about them. I haven't decided what life I want next, and I don't want to give you a promise before I have."
+
+> [!qna]**The Scholar's answer?**
+>
+> > "Yes, I can work with payment by the job and terms settled before I begin. Send it through Bonnie so we both know what I've agreed to do."
+
+> [!qna]**The Merchant's answer?**
+>
+> > "Bonnie is content with the client, and the terms cover what I need. I'll take occasional work through her, provided you give me the notice we've agreed."
+
+If Edric is identified, Mirt makes the exclusion part of either arrangement:
+
+> [!readaloud]
+>
+> Mirt draws a line beneath Edric's name and leaves the other four names on the assessment sheet.
+>
+> > "Edric leaves the crew now, and we can offer the others occasional work through you. No membership is required; give them the terms and let them choose for themselves."
+
+If Edric remains unidentified, Mirt makes only a provisional offer:
+
+> [!readaloud]
+>
+> Mirt keeps all five interview names on the sheet and passes the proposed arrangement across to Bonnie.
+>
+> > "We'll try occasional work through Bonnie first. Nobody is enrolled by accepting a job, and we'll review the arrangement after we've seen how it goes."
+
+### Intercepting Edric
+
+Identifying Edric during the interviews allows the party to confront him before 09:00. He leaves the Portal at 08:30 if still free, carrying the folded report for the safehouse on Nethpranter Street; following him uses **The Tail**'s address and files without its already-delivered-report premise.
+
+> [!gamemaster]**Outcomes for the Direct Investigation**
+>
+> When using those sections, record **Edric Captured**, **Nethpranter Safehouse Reported** and **Harper Contacts Relocated** from **The Tail** whenever their conditions are met, even though its ordinary opening is skipped. At 09:00, mark **Edric Report Delivered** if interception hasn't prevented delivery, including when Edric was identified but remains free. **Edric Identified** records the finding alone; the separate **Edric Report Prevented** or **Edric Report Delivered** outcomes govern what the Splinter received.
+
+> [!hazard]**An Optional Doppelganger Encounter**
+>
+> Edric uses the standard 2024 **Doppelganger**, with no additional phases or HP resets. He bargains for release and a thirty-second head start in exchange for the address if physically cornered.
+>
+> #### Edric's Tactics
+> Edric begins near the nearest available exit, keeping his clothes and carried report through every change of guise.
+>
+> During combat, Edric:
+> - Uses Unsettling Visage against pursuers and changes guise with his Bonus Action when the crowd offers concealment.
+> - Takes Disengage and moves through an unblocked exit rather than remaining to attack.
+> - Uses his two Slams against the nearest conscious blocker only when no escape route remains.
+>
+> Printed first-round Advantage applies once for the encounter. He surrenders if his exit remains blocked and he falls to 10 HP or fewer; the encounter also ends with an agreed release, successful escape or defeat. Changing shape doesn't itself Hide him or change his clothing.
+
+### Renown Opportunities
+
+Each participating Harper member gains 3 base Renown for the interviews and considered report. Mirt pays every contributing character 50 GP as an assessment fee, including helping companions.
+
+> [!readaloud]
+>
+> Mirt sets a row of purses beside the assessment sheet, counting one for each person who helped with the interviews before passing them across the table.
+>
+> > "Fifty gold for each contributor, including the people who helped without joining us. Make sure they receive theirs. You've done the assessment I asked for, and this is the agreed fee."
+
+> [!gamemaster]**Mission Bonuses**
+>
+> Add +1 Renown for identifying and reporting Edric before the 09:00 delivery, +1 for Bonnie accepting the full operative arrangement, and +1 for finding the safehouse and reporting its files or address. Each applies only to participating Harper members, and the safehouse bonus cannot be earned again in **The Tail**.
+
+### Aftermath
+
+Bonnie excludes Edric as soon as the evidence identifies him, informing her four remaining colleagues and forbidding him their private meetings or crew work. His capture isn't required for that exclusion. If he remains at large after **The Tail**, she still excludes him once informed, while already-delivered reports remain with the Splinter.
 
 ### Concluding the Event
 
-The mission's outcome shapes the Harper network's relationship with the Yawning Portal for the rest of the campaign.
+The recommendation settles the crew's arrangement, while an unidentified Edric leaves the operational investigation open for the following event.
 
 > [!gamemaster]**Event Outcomes**
 >
-> Mark each outcome that occurs. Later events read them.
->
-> - **Edric Identified** — mark when Edric Tanner is correctly named and reported to Mirt before filing a full report; award +1 Renown. The other four doppelgangers are retained under the neutrality pact. Read by **The Tail** (ev-02): if marked, ev-02 does not fire.
-> - **Bonnie Recruited** — mark when Bonnie is offered a full operative role and accepts, requiring Edric to be identified and Bonnie's prior knowledge disclosed; award +1 Renown. Read by every subsequent mission where Yawning Portal intelligence or cover identities are relevant.
-> - **Splinter Safehouse Found** — mark when the safehouse Edric leads to is investigated and its contents reported to Mirt; award +1 Renown. Read by **Faction Outposts** (secondary Splinter Trades Ward outpost seed).
-> - **Harper M3 Complete** — mark when the mission resolves with any outcome. Read by **Emerald Enclave Mission 3 — The Doppelganger Problem** (if marked, Bonnie has dealt with the traitor internally and the Enclave mission opens on a different footing).
+> - **Edric Identified** — mark when concrete interview evidence or later surveillance establishes his betrayal; Bonnie reads this finding, while later events check the separate report outcome for delivery.
+> - **Edric Report Prevented** — mark when interception stops the 09:00 delivery; later Splinter encounters retain his older report on Mattrim but lack this new interview account.
+> - **Bonnie Harper Operative** — mark when she accepts Mirt's full terms; later Harper briefings can request Portal intelligence through the participating members.
+> - **Bonnie Neutrality Pact** — mark when she accepts protected identities and optional paid work without membership; later requests preserve her discretion.
+> - **Harper M3 Complete** — mark after the assessment is reported and Bonnie has excluded Edric from her crew, regardless of capture or escape; **The Doppelganger Problem** reads his absence.
 
 > [!gamemaster]**Next Steps**
 >
-> If **Edric Identified** is marked: Bonnie becomes a recurring contact. A source of Yawning Portal intelligence — who is meeting whom, what names are being asked about, what strangers came through — and a fallback safe house for the party. Her crew can provide short-term cover identities on a mission-by-mission basis. Mattrim is delighted and slightly competitive about it.
->
-> If Edric is not identified and **Harper M3 Complete** is marked without **Edric Identified**: Edric files his full report, and **The Tail** (ev-02) fires the next morning.
->
-> **Harper Mission 4 — A Friend's House** becomes available when the party reaches Renown 8 and 5th level.
+> If Edric remains unidentified, continue with **The Tail** at 09:30 the next morning. Otherwise, its safehouse material remains available if the party follows his lead. **A Friend's House** becomes available at Renown 8 and 5th level; this mission awards no Milestone Points.
 
 ## Overview
 
-Mirt needs a trusted second opinion on whether to recruit a crew of five doppelgangers operating out of the Yawning Portal. One of them is a Manshoon Splinter asset. Their boss already knows, and she has been running her own assessment of the party since the interviews were arranged.
+Five members of Bonnie’s crew meet the party over two evenings to discuss what they would expect from Harper work.
 
 ## Summary
 
-We ran two evenings of interviews with Bonnie's doppelganger crew at the Yawning Portal while Threestrings played songs in the corner that were more perceptive than they sounded. After the interviews, he set his lute down and told us one crew member had already filed a report on our Harper affiliation, and that Bonnie had known for a tenday and been trying to fix it herself. The party's recommendation to Mirt shaped both Edric Tanner's fate and Bonnie's long-term role in the network.
+We interviewed Bonnie's colleagues and compared their answers before recommending an arrangement to Mirt. Our investigation determined whether Edric's new report was stopped and whether Bonnie agreed to become a Harper operative.

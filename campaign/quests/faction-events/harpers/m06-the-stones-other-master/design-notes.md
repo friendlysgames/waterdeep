@@ -1,29 +1,23 @@
 # Design Notes: The Stone's Other Master
 
-## On the Undermountain Seed
+## A Request with Separate Pressure
 
-Illuun as the campaign's structural through-line. The Stone's activation stirring an abolethic dreamer below the city is the Waterdeep-to-Undermountain bridge thread that the campaign's cross-arc design requires. Mirt detecting this resonance and asking for three days to study it is the vehicle that delivers the information to the party in a way that has weight — they have to decide how much they trust Mirt, and the stakes of that decision are clear. Burying the connection in a Harper briefing note would not produce that moment.
+Mirt asks for consent because faction membership doesn't give him ownership of the Stone. The holder can supervise, negotiate written terms or refuse, while the observed Splinter raid occurs independently at 02:00. A relocated Stone changes what the attackers find without forcing the party back into the tavern.
 
-The Illuun connection is named in the Background section of the event but kept out of player-facing content. The party learns what the resonance is only if they comply and ask directly. If they refuse, the one hook they carry into **Vault of Dragons** is Mirt's parting line: "It knows it's going to be used. It has been patient. I don't know for what."
+The three-day study uses the actual transfer time and restored-Eye count, with no fixed lair ordering. Losing the Stone delays study until recovery and renewed consent, preventing a result that appears while the item remains in enemy custody.
 
-## On Jalester Silvermane
+## A Fight with Recoverable Custody
 
-The compromise revelation is optional, not mandatory. The party learns the compromised contact's name only if they gave Mirt the Stone and asked directly whether the study found anything else. The revelation is not a trap — Jalester is not villainous, and the compromise is not a betrayal; it is an accident of geography. Its impact on the party's relationship with the Lords' Alliance is significant enough that the revelation should be reserved for parties who actively pursued the information.
+The roster has four creatures, with the Spy leader separate from the three-person assault unless he actually joins. The Mage can acquire only an unattended Stone and has a full interval until her next turn before escape. Ending Invisibility before Dimension Door leaves the visible Counterspell window, and the fixed three-hundred-foot rendezvous makes local recovery possible.
 
-Renaer Neverember is the alternate. If the party has had minimal contact with Jalester, Renaer is the correct choice — use whichever name the party has a stronger relationship with. The reveal should land as a person, not as a mechanics flag. A name the party barely remembers produces no dramatic effect.
+Mirt's modified source block is CR 9 rather than the generic Warrior Veteran. His protective trigger commits actual attacks when the holder or civilians are threatened, and the reference includes that real ally Power instead of crediting defensive Help as full offense. Actual party count and first-turn knockout risk retain their own branches.
 
-## On the Splinter Raid
+## The Stone and the Paired Channel
 
-The raid fires regardless. This is the most important structural note: the Splinter moves on Trollskull Manor whether the party agreed to Mirt's request or refused. The raid is a consequence of Mirt arriving at the tavern, not a consequence of the negotiation's outcome. A Splinter watcher was tracking the Stone's magical signature; Mirt's presence was reported before the party made any decision. The party cannot prevent the raid by refusing Mirt. This keeps the event from feeling like a punishment for compliance and clarifies that Manshoon's intelligence operation is running independently of the party's choices.
+The 2024 Sending Stones entry is XDMG p.303 in the verified [item source record](https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data/items.json). Its pair shares one use until dawn and targets the mate's bearer; it has no passive listening or object-teleport function. Prior voice recognition requires an actual reply, while false messages remain choices whose success isn't automatically granted.
 
-The squad leader's sending stone is keyed to Manshoon's voice directly, and it is the most significant trophy from the raid. A party that heard Manshoon in **Kolat Towers** can recognize the voice immediately. A party that has not can still use the stone operationally — Mirt describes its value if asked. The stone's significance as campaign intelligence — confirmation that Manshoon is directly monitoring the Stone's location — is separate from whatever the party does with it tactically.
+Jalester is the fixed psychic contact, identified only after consent, completed study and a direct question. The study reward doesn't silently reveal him, and Renaer is never substituted to fit a presumed emotional preference. Jalester remains unwitting rather than disloyal, preserving the difference between a monitored route and a hostile faction.
 
-## Cross-Quest Consequences
+## Intended External Readers
 
-This mission feeds three downstream threads directly.
-
-**Xanathar's Lair:** The compromised contact chain and the Nihiloor thread both originate here.
-
-**Kolat Towers:** The Splinter raid confirms Manshoon's operational awareness, which shapes the Kolat Towers infiltration's difficulty. If the sending stone was recovered and handed to Mirt, he can push false intelligence toward Manshoon before the party moves on the towers, reducing preparation difficulty by one step.
-
-**Vault of Dragons:** The Jalester or Renaer compromise flag changes how the party can trust their intelligence network during the vault convergence. If neither flag was marked, the party enters **Vault of Dragons** with their full contact chain intact but without the warning about what Illuun may have observed.
+Jalester Compromise Identified supplies the Lords' Alliance M6 and Vault of Dragons readers, while raid observations carry only the facts actually delivered to Manshoon. Existing external pages retain older alternate-contact and passive-channel claims outside this scope, with the event recording precise intended state for later integration.
