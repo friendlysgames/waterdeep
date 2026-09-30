@@ -1,7 +1,7 @@
 ---
 name: prose-drafter
 description: Use this agent to draft or rewrite campaign prose in place — Players' Guide, GM Guide, Trollskull Manor Guide, setting/lore pages, Notable Figures, organizations, and quest/location pages. Give it one target file plus a brief (scope, sidebars to add, what to keep, spoiler limits). It loads the style skills for the page's audience, verifies every NPC/faction/quest name against the setting pages, drafts, and self-checks against the prose pipeline. It does not commit.
-model: claude-sonnet-4-6
+model: claude-sonnet-5-5
 tools:
   - Read
   - Write

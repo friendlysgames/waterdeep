@@ -1,7 +1,7 @@
 ---
 name: journal-converter
 description: Use this agent to convert monolithic campaign appendix content into Ember-style modular Foundry journal pages (one .md file per page). Give it the source file + line range, the target folder, and the page format to use. It moves text verbatim, adds only the specified new fields, and never adds sidebar callouts.
-model: claude-sonnet-4-6
+model: claude-sonnet-5-5
 tools:
   - Read
   - Write
