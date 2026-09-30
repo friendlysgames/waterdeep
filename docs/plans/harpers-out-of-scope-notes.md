@@ -115,3 +115,79 @@ Base: `campaign/quests/faction-events/order-of-the-gauntlet/`.
 - **s02:9** — R3 M. "The party holds OotG Renown 3".
 - **R3 M, systemic:** Renown awards never say "members only".
 - **Clean:** m03, r03, r50, 00-first-meeting and s02's Cassalanter handling.
+
+## Guides and Setting
+
+Method: every guide page, organization page and villain page was read in full. The 122 NPC pages were keyword-grepped, and every hit was read. NPC prose that implies the leader without the keywords could have been missed.
+
+**Decision needed first: do the villains know each other?** Xanathar and Jarlaxle are written as knowing Manshoon by name: Xanathar's kill orders, and a Jarlaxle–Manshoon non-interference pact. Jarlaxle and Manshoon are also written as knowing the Cassalanter pact. The user's rule names "the harpers and other factions". It's unclear whether it covers villain factions. The findings below mark these V, pending that answer.
+
+### R1
+- **Starting-knowledge tables** (`setting/grand-game.md:28–36`, `guides/gm-guide/running-the-villains.md:34–41`) don't violate R1, but they have gaps. Neither records what each faction knows about the splinter, and neither has the Floxin belief. `running-the-villains` has no Doom Raiders row. Fix: add a splinter-knowledge column (Doom Raiders: "Floxin leads"; everyone else: "the Black Network has split").
+- **`guides/factions/07-doom-raiders.md:19, :23, :45, :46, :31`** — V. The Doom Raiders' asks and Renown conditions name "Manshoon's cell". The Outposts hook at :31 calls Yellowspire "Manshoon's Trades Ward relay point". :59 is M. :70 and :71 are T. :7 is M: GM truth sits unmarked inside the stance section.
+- **`guides/factions/08-bregan-daerthe.md:9`** — V (pending the villain decision). Jarlaxle is described as competing "with Xanathar or Manshoon".
+- **`guides/factions/06-force-grey.md:21`** — V/T. The goal is "Manshoon's arcane operations dismantled", which contradicts :7 ("Manshoon's shape without the name").
+- **`guides/factions/05-order-of-the-gauntlet.md:7`** — V. Savra's stance says "In Manshoon's or Xanathar's hands".
+- **`guides/factions/03-lords-alliance.md:42, :47`** — M/T. **:67** — T (the L4 mission "Prevent Manshoon's Zhentarim…"). The player guide version correctly says "Splinter".
+- **`guides/factions/02-harpers.md:48, :30`** — M. **:61** — T (Wise Owl: "informants embedded in… Manshoon's Splinter").
+- **`guides/factions/04-emerald-enclave.md:67`** — T (the L6 "Manshoon Splinter contamination").
+- **`guides/factions/10-manshoons-zhentarim.md:39`** — T. Avareen's note at Yellowspire O2 names Manshoon. Yellowspire can be hit before the Interrogation House (:45), which breaks arc-e's "name only at Interrogation House". `setting/villains/manshoon.md:22` gives a different reveal trigger ("two separate intelligence threads").
+- **`guides/gm-guide/structural-rules.md:7`** — V. The Doom Raiders "don't acknowledge Manshoon's cell".
+- **`guides/gm-guide/grand-game-in-play.md:61, :65`** — V (pending the villain decision). Xanathar's kill order on Manshoon, and the Jarlaxle–Manshoon peer arrangement.
+- **`guides/gm-guide/player-factions-overview.md:159, :186, :188`** — V. The Doom Raiders want "Intelligence on Manshoon's cell" and "Manshoon destroyed". :188 also says a Doom Raider PC would "protect Manshoon's rival operation", which is probably a wording error. The player subset at :18 and :122 is compliant.
+- **`guides/gm-guide/debts-of-the-city.md:133`** — V. Davil compares himself with "Manshoon's methods".
+- **`guides/trollskull-manor/08-notable-patrons.md:57`** — T. Vajra, as an ungated patron, mentions "Lights… in Kolat Towers". (`09-response-teams:47, :49`, where Vevette never names her employer, is the model to follow.)
+- **`setting/villains/xanathar.md:32, :39`** — V (pending). Xanathar has "ordered Manshoon killed twice", and his goal is "Eliminate Manshoon". His own NPC page (`xanathars-guild/01-xanathar.md:17`) doesn't say this.
+- **`setting/villains/manshoon.md:34`; `setting/villains/jarlaxle.md:48`** — V (pending). Mutual knowledge through the non-interference pact.
+- **`setting/organizations/01-harpers.md:6, :17`** — V. The Harpers' "primary concern… is Manshoon's clone and his consolidation". They know the leader, and that he's a clone.
+- **`setting/organizations/02-lords-alliance.md:17`** — V. The Alliance is "deeply alarmed by Manshoon's activities".
+- **`setting/organizations/06-doom-raiders.md:6, :11, :15, :25, :27, :29`** — V. Throughout, the page has them at war with Manshoon and says Tashlyn built "sources inside Manshoon's cell". It also contradicts itself: :25 says information won't reach Manshoon's agents, while :38 makes Skeemo a traitor who feeds it to them.
+- **Notable Figures:**
+  - `doom-raiders/01-davil-starsong.md:16` and `02-yagra-stonefist.md:16` — V.
+  - `04-skeemo-weirdbottle.md:16, :22, :26` — T. He's an insider, so this may be fine.
+  - `gralhunds/01-yalah-gralhund.md:16` — V. It contradicts its own :26 ("not realizing their true master is Manshoon").
+  - `force-grey/01-vajra-safahr-the-blackstaff.md:26` — T. An ungated quote, "Manshoon tried to kill me…".
+  - `city-officials/04-jelenn-urmbrusk.md:14–26` — T. She knows Manshoon blackmails her, and she appears in Harper M4 at L5.
+  - `manshoons-zhentarim/05-agorn-fuoco.md:22` — T. He can be captured at Yellowspire before the Interrogation House.
+  - Compliant models: `02-urstul-floxin.md:14, :22` ("will not divulge his master's name") and `01-manshoon.md:31`.
+- **Minor:** `setting/waterdeep-lore.md:17` ("Kolat Towers (Manshoon's fortress)" with no GM framing) and `setting/grand-game.md:18`.
+
+### R2
+- **`setting/villains/jarlaxle.md:51`** — V (pending). Jarlaxle "knows about their infernal bargain through intelligence".
+- **`setting/villains/manshoon.md:35`** — V (pending). "Their infernal connections could have been leveraged."
+- **`guides/factions/11-cassalanters.md:81`** — V. BD holds a *Report on the Cultists of Asmodeus* in the Revelation List at the Sea Maidens Faire. **:82** — T. The Harpers hire the party to investigate the shrine.
+- **`gralhunds/04-hurv-taldred.md:7, :12, :14, :22`** — T. A Cassalanter cultist with a devotional mark appears in Gralhund Villa in Act II, before discovery. It also implies Cassalanter worship at the Gralhund house.
+- **`guides/factions/02-harpers.md:28`** — T. Mirt tells a Harper "the Cassalanters funded the Howling Hatred cult".
+- **`guides/trollskull-manor/03-staff-and-hiring.md:64`; `independents-allies/15-hadra-stonebread.md:22, :30`** — T. Hadra knows "which cult members attended private suppers".
+- **Minor:** `gm-guide/player-factions-overview.md:157` (Savra knows about a plan and the Founders' Day deadline), `factions/06-force-grey.md:30` (binding circles), `setting/grand-game.md:20` ("galas are recruitment screens").
+
+### R3
+- **V: one PC in several factions.** This contradicts the user's rule that "each party member may join one faction":
+  - `guides/players-guide/faction-affiliations.md:3` and `guides/gm-guide/player-factions-overview.md:3` ("Your character can belong to more than one faction at once")
+  - `guides/factions/01-overview.md:7, :9` (a Harper who is also a Doom Raider, with primary and secondary ranks)
+  - `guides/trollskull-manor/02-operating-costs.md:31` (stacking Harper, Lords' Alliance and Emerald Enclave standing)
+- **V-leaning: BD membership as a party state.**
+  - `gm-guide/grand-game-in-play.md:88`
+  - `gm-guide/player-factions-overview.md:171–182` (one Watch report closes BD "for the entire campaign")
+  - `setting/villains/jarlaxle.md:3`
+  - `trollskull-manor/09-response-teams-at-the-tavern.md:96`
+  - This matches the BD s04 finding above.
+- **M: rank benefits and missions addressed to "the party":**
+  - `factions/07-doom-raiders.md:11, :21`
+  - `factions/08-bregan-daerthe.md:14, :31, :32`
+  - `factions/06-force-grey.md:55–58`
+  - `factions/02-harpers.md:45`
+  - `trollskull-manor/09-response-teams-at-the-tavern.md:45, :51`
+  - `trollskull-manor/02-operating-costs.md:78–86`
+  - `trollskull-manor/03-staff-and-hiring.md:58`
+  - `gm-guide/session-zero.md:53`
+  - `notable-figures/doom-raiders/07-senna-vael.md:12`
+  - `notable-figures/harpers/01-mirt.md:26`
+  - `organizations/02-lords-alliance.md:7, :23`
+  - `organizations/07-bregan-daerthe.md:11, :13`
+  - `factions/04-emerald-enclave.md:57` (a party-wide charm, arguably fine)
+
+### Other inconsistencies
+- The Harpers guide places the double-agent warning after Mission 4 (:11) but has the agent exposed in Mission 5 (:22).
+- Istrid's loan is 200 gp in `factions/07-doom-raiders.md:14` but 400 gp in `trollskull-manor/02-operating-costs.md:84`.
+- `organizations/09-manshoons-zhentarim.md:13` says the splinter broke from the Doom Raiders' network. `history.md:39` says the reverse.
