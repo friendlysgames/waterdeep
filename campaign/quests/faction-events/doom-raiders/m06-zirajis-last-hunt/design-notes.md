@@ -1,25 +1,19 @@
 # Design Notes: Ziraj's Last Hunt
 
-## The Mission That Ends the Chain
+## A Hunt After the Tower
 
-***Mission 6 is the payoff of everything that came before.*** The Doom Raiders mission chain is built around one central revelation — Skeemo's betrayal — and one central question: what does it cost? Missions 1 through 3 establish the faction's texture and its people. Mission 4 is the reckoning. Missions 5 and 6 are the faction's answer to that reckoning: they act, and they provide the party the tools for **Kolat Towers**.
+***The mission used to hand over an intelligence product, and now it asks whether Ziraj survives.*** The draft ended with Ziraj's rooftop diagram of the force field gaps. That intelligence now belongs to **The Yellowspire Job**, where Ziraj hands his notes over at Corellon's Crown, so **Force Field Gap Intel** is no longer set here. Seventh level also requires all four lair heists, which makes this mission a post-**Kolat Towers** event. The kill team is therefore the Splinter's survivors, acting out of revenge and out of Ziraj's own surveillance of the tower. Nothing in the event depends on the party having used or skipped his notes.
 
-Ziraj's rooftop diagram is the final tool. The mission is not about stopping the kill team — it is about whether Ziraj survives long enough to hand the party something he spent weeks building. The renown structure reflects this: Ziraj alive is worth two points because the diagram comes with him. The kill team is worth one because the faction cares about removing liability, not body counts.
+***Ziraj can die.*** A mission called Ziraj's Last Hunt with a guaranteed survivor has no stakes. The failure branch is real: the Splinter prefers Ziraj as a target, and two rounds of delay cost his life. **Ziraj Fell** is handled by **Made Ardragon** (the favor is gone), **Dread Lord** (the empty chair) and **Vault of Dragons** Scene 1. *Revivify* is allowed, because refusing it would be a fight with the table.
 
-## Fala Lefaliir as a Distinct Scene
+## Source Departures
 
-***Fala's scene is its own section by design.*** The source text positions Fala's information about Ziraj's condition — the grooved bolt tip, the "he won't take two days" observation — as a separate beat from the extraction sequence. It would be easy to fold this into the transition prose between extraction and Ziraj's gift, but doing so loses something: Fala is the only person in this scene who speaks to what happened with any clinical distance, and their perspective on the machined bolt tips is actionable intelligence the party might follow up on.
+***Stat blocks.*** Ziraj uses the 2024 Assassin with an oversized longbow swap from his Notable Figures page. The Assassin's first-turn limit follows the **Doom Raiders Mechanics Reference**: Ondra makes two attacks on her first turn, and the party has Advantage on initiative. Ziraj isn't counted as a combatant, and his two shots are fixed so that healing him matters. Yagra doesn't fight, because her Notable Figures block is a "Thug", which does not exist in the 2024 Monster Manual.
 
-The grooved bolt detail is a seed, not a resolution. It confirms that someone with metalworking access manufactured equipment specifically for this kill. That trail leads nowhere in this mission — but a party that notes it and follows it in **Kolat Towers** will find the workshop that made them inside Kolat Towers. The design note here is: plant it clearly, let the party pick it up or not.
+***What was cut.*** The forty-three names Davil hands over are gone, because **Kolat Towers** already delivers the list. The "We take care of our own" line is gone as a slogan. The draft's split approach is replaced by the false trail, because the reference rosters assume the whole party fights. The wound rule was rewritten so Fala's healing ends it: magical healing, including her tinctures, removes the Disadvantage, and her two-day rest is advice only.
 
-## Yagra's Role
+***Invented and unverified.*** Ondra Kell is invented, along with her status as a survivor of the Kolat Towers raid. The unprofiled minor characters are Ondra and the unnamed Spies. The inn at the far end of the alley has no name in any source. Sail Street is used as in the draft and isn't verified against a setting page. The rooftop hide and black-fletched arrows are invented to explain why the Splinter hunts Ziraj.
 
-***Yagra does not appear in the briefing. She is the briefing.*** The mission starts with her at the door, armor on, already moving. This format was chosen deliberately: a flying snake is a message, and this is not a moment for a message. Yagra appearing in person, before dawn, without knocking politely, communicates the stakes more efficiently than any description could. The party does not need to be told this is urgent. Yagra running to their door at two in the morning is the information.
+## Out-of-Scope Notes
 
-Her line at the end of the mission — "We take care of our own" — is the Doom Raiders' thesis statement, delivered by the person who ran to get the party rather than handling it herself. She could not get to Ziraj alone and she knew it. She made the right call. The faction values that.
-
-## The Attunement Flag
-
-***Force Field Gap Intel determines Kolat Towers entry.*** The diagram is the cleanest non-amulet entry path into Kolat Towers. Parties who carry this flag into **Kolat Towers** have a second route that completely bypasses the force field question. Parties who do not carry this flag must discover the gap pattern through in-mission scouting — possible, but slower and noisier. The flag is binary: either the party has the diagram or they do not. There is no partial state.
-
-The connection to **Kolat Towers** is stated explicitly in the flag body so the GM can reference it when **Kolat Towers** begins, rather than having to reconstruct the connection mid-session.
+These conflicts sit outside the Doom Raiders folder and are logged for the out-of-scope notes: **Kolat Towers** (the structure doc, line 43) credits Doom Raiders Mission 6 for the gap diagram and lists 43 names that M6 no longer delivers; **Vault of Dragons** (line 53) reads "Mission 6 succeeded" and Davil's note listing Splinter operatives; the Doom Raiders guide page (lines 32 and 71) says Ziraj provides the diagram; the Lords' Alliance guide page (line 68) says **The Archer Above** locates Ziraj, but the quest journal's archer is Vhaspar Holmbridge; and the **Made Ardragon** draft still says "once per campaign" and uses a True/False flag.
