@@ -13,7 +13,7 @@
 
 ### Hook
 
-Davil does not send a flying snake. On every evening after the member reaches Renown 50, he sits at the table nearest the well in the Yawning Portal with the lute across his knees and waits, and Durnan points the member to him the first time they come up from below. Companions can wait in the taproom, and the rank meeting itself is for qualifying members only. If several members qualify, Davil sees them together, and each answers for themselves.
+Davil does not send a flying snake. On every evening after the member reaches Renown 50, he sits at the table nearest the well in the Yawning Portal with the lute across his knees and waits, and Durnan points the member to him the first time they come up from below. Companions can wait in the taproom, and the rank meeting itself is for qualifying members only. If several members qualify, Davil sees them together, and each answers for themselves. A member whose name lacks **Ardragon Reached** has it marked now and gains the Ardragon benefits from **Ardragon** as well.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -47,13 +47,29 @@ If **Skeemo Silenced** is marked, read or paraphrase the following:
 >
 > > "Skeemo's chair stays empty. He sold us for years, and he is dead because of it, and I find I still set a place for him in my head. I would ask you to forgive me that."
 
-If **Skeemo Captured** is marked, read or paraphrase the following:
+If **Skeemo Captured** is marked, use the reading that matches his fate. If **Skeemo Exiled** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
 > Davil rests a hand on the back of the pushed-in chair.
 >
-> > "Skeemo's chair stays empty. He will not be coming back to it, and I would rather not say more than that in front of people who never knew him at his best."
+> > "Skeemo's chair stays empty. He sailed for Baldur's Gate, and I let him go, and I don't expect him back at this table."
+
+If **Skeemo Handed to the Watch** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Davil rests a hand on the back of the pushed-in chair.
+>
+> > "Skeemo's chair stays empty. The Watch has him, and I am the one who put him there."
+
+If **Skeemo Executed** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Davil rests a hand on the back of the pushed-in chair.
+>
+> > "Skeemo's chair stays empty. Tashlyn saw to him at dawn, and I am the one who decided it."
 
 If **Skeemo at Kolat Towers** is marked and **Manshoon Named** is marked, read or paraphrase the following:
 
@@ -82,6 +98,8 @@ If **Ziraj Fell** is marked, read or paraphrase the following:
 > Beside the window a second chair has been pushed in square to the wood, and no glass has been set in front of it. Tashlyn looks at it instead of at Davil.
 >
 > > "That one's Ziraj's. Nobody sits in it, and if anybody so much as puts a coat on it I'll break their fucking arm."
+
+If the member's name is on **Ziraj's Favour Used**, Tashlyn adds one line after her remark about Ziraj, naming the target and who acted. If Ziraj acted, she says "Ziraj took [target] for you, cleanly. Adequate." If Yagra acted, she says "Yagra fetched [target] for you, breathing. Adequate."
 
 > [!social]**The Host at the Well**
 >
@@ -147,7 +165,7 @@ If **Ziraj Fell** is marked, read or paraphrase the following:
 >
 > Yagra pushes herself off the door frame and cracks her knuckles one hand at a time. She walks around the table until she is standing behind your chair, and she talks in the same flat voice she uses to tell people about her own past.
 >
-> > "Seven wards, seven houses. I've slept in most of them, and they're decent. You knock, say the goods and say whose account it's on, and they let you in. You don't need three hours' notice like you do with Wenna, and nobody asks you a fucking thing."
+> > "Seven wards, seven houses. I've slept in most of them, and they're decent. You knock, say the goods and say whose account it's on, and they let you in. You don't need three hours' notice at any of them now, Wenna's included, and nobody asks you a fucking thing."
 
 > [!qna]**Who do they belong to?**
 >
@@ -175,11 +193,17 @@ If **Ziraj Fell** is marked, read or paraphrase the following:
 >
 > > "The Zhentarim Council is reforming, and it is choosing who sits at it. The effort to win back Zhentil Keep needs people who have held a city and run a cell that survived the real world. You have done both, inside a cell that I am very fond of. I would like to put your name forward, for a full seat, with a vote and a hand in what the Black Network becomes. That isn't a small thing, and I want you to understand what I'm offering before you answer."
 
-If **Manshoon Named** is marked, which it nearly always is by now, Davil answers as follows. If it is not, he says "the pieces the other cell left behind" in place of "the pieces Manshoon left behind", and "It's not theirs" in place of "It's not his Council".
+If **Manshoon Named** is marked, which it nearly always is by now, Davil answers as follows:
 
 > [!qna]**What is the Council?**
 >
 > > "It's the Black Network trying to build a spine out of the pieces Manshoon left behind. It's not his Council. It's the legitimate Network, and it needs members who can be held to account. A seat carries a vote in continental decisions and access to resources no regional cell controls."
+
+If **Manshoon Named** is not marked, he answers this instead:
+
+> [!qna]**What is the Council?**
+>
+> > "It's the Black Network trying to build a spine out of the pieces Floxin's cell left behind. It's not their Council. It's the legitimate Network, and it needs members who can be held to account. A seat carries a vote in continental decisions and access to resources no regional cell controls."
 
 > [!social]**The Keeper of the Ledger**
 >

@@ -12,9 +12,11 @@
 
 ### Hook
 
-At noon on the day after the member reaches Renown 25, a flying snake finds them with a note in Davil's looping hand asking them to come to the Yawning Portal at 20:00. Hold this Event until **Davil's Return** has played. A member who is away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Doom Raiders members wait in the taproom.
+At noon on the day after the member reaches Renown 25, a flying snake finds them with a note in Davil's looping hand asking them to come to the Yawning Portal at 20:00. Hold this Event until **Davil Released** is marked. A member who is away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Doom Raiders members wait in the taproom.
 
-The six missions bring a member to Renown 19 on their base awards, so this rank usually arrives shortly after **Ziraj's Last Hunt** and often after **Kolat Towers**. It can arrive earlier, and every procedure below works in either order.
+The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more Renown from other sources, such as mission bonuses and the Earning Renown list, before this rank arrives. It usually follows **Ziraj's Last Hunt** and often follows **Kolat Towers**. It can arrive earlier, and every procedure below works in either order.
+
+If Davil's release terms were 0 or 1 and ten days have not yet passed since **Davil Released**, his suite is still sealed. He receives the member in the back booth behind the Yawning Portal's kitchens instead, with Tashlyn standing beside it, and he has neither the lute nor the bracelet with him. In that case read the booth version below, and skip every lute and bracelet beat in this Event.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -31,6 +33,14 @@ Davil is quieter than he was before his arrest, and the warmth reaches the surfa
 > The curtained room on the second floor of the Yawning Portal is lit by its two hanging lamps, and this evening the lute is in Davil's hands instead of leaning against the wall. He is working through a slow run of notes that never settles into a tune, and when you come through the curtain he lays the instrument across his knees and stays in his chair. Tashlyn stands against the wall beside the door with her arms folded, and a decanter and a row of glasses wait on the round table.
 >
 > > "Ardragon. It's the name we give to people we would trust with the hard things, and I'm very glad to say it to you. Sit, please, and pour yourself a glass. There are three matters to go through, and Tashlyn will tell me afterwards that I explained them badly, yes?"
+
+If Davil receives the member in the booth, read or paraphrase the following:
+
+> [!readaloud]
+>
+> The back booth behind the kitchens of the Yawning Portal is lit by one lamp, and the air is warm and smells of onions and roasting meat. Davil sits with his hands folded on the table and a decanter and a row of glasses in front of him, and he gets up only far enough to nod as you slide onto the bench. Tashlyn stands at the end of the booth with her arms folded, where she can watch the kitchen door.
+>
+> > "Ardragon. It's the name we give to people we would trust with the hard things, and I'm very glad to say it to you. Forgive the booth, because my rooms upstairs are still sealed. Pour yourself a glass, and I'll explain three matters badly, yes?"
 
 > [!social]**The Quiet Host**
 >
@@ -57,11 +67,23 @@ If **Skeemo Silenced** is marked, read or paraphrase the following:
 >
 > > "He was clever and careful, and I was fond of him, which I would rather I hadn't been. He sold us for years, and you were the ones who ended it. I don't know what to feel about that, so I've decided to feel nothing for the moment."
 
-If **Skeemo Captured** is marked, read or paraphrase the following:
+If **Skeemo Captured** is marked, use the reading that matches his fate. If **Skeemo Exiled** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > "He isn't at liberty, and what became of him is a matter between Tashlyn and me. I would rather not talk about it, if you don't mind, and I'm grateful that you asked gently."
+> > "He sailed for Baldur's Gate on a cog, and last I heard he is rebuilding a spellbook there. I let him go, yes, and Tashlyn has not let me forget it."
+
+If **Skeemo Handed to the Watch** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > "The Watch has him, and what they do with a gnome like Skeemo is their affair now. I chose that, and I would choose it again, though it gave me no pleasure."
+
+If **Skeemo Executed** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > "I decided it, and Tashlyn saw to it at dawn, and his body was never found. I would rather not talk about it, if you don't mind, and I'm grateful that you asked gently."
 
 If **Skeemo at Kolat Towers** is marked, read or paraphrase the following:
 
@@ -209,9 +231,9 @@ If the Intelligence check fails, Davil gives the member the consequence:
 
 ### Ziraj's Favour
 
-> [!gamemaster]**Ziraj and the Debt**
+> [!gamemaster]**Ziraj and the Favour**
 >
-> Ziraj the Hunter kills only when someone he cares about asks, and Davil asked him long ago. Davil now passes that debt to the member: once in the whole campaign, Ziraj will take one named person, alive or dead, without being told why. This is the member's own favour, tracked by name, and a second Ardragon member has a favour of their own.
+> Ziraj the Hunter kills only when a friend asks. He owes nobody anything, and the favour is his gift to a friend: Davil is his friend, and he extends the same courtesy to anyone Davil vouches for. Once in the whole campaign, Ziraj will take one named person for the member, alive or dead, without being told why. This is the member's own favour, tracked by name, and a second Ardragon member has a favour of their own.
 >
 > If **Ziraj Survived** is marked, use the first reading. If **Ziraj's Last Hunt** has not played, use the second, and tell the table that Ziraj is alive and on the roofs. If **Ziraj Fell** is marked, use the third.
 
@@ -221,7 +243,7 @@ If **Ziraj Survived** is marked, read or paraphrase the following:
 >
 > Davil turns a charm on his bracelet and looks at the lute on his knees for a while before he lifts his eyes to you and begins to speak.
 >
-> > "Ziraj came to me himself after the night on the roofs. He said he owed you, and I pointed out that he already owed me, and we agreed that a single piece of work could settle both debts. So the work is yours to name. He will deal with one person for you, once, taken alive or killed where no one will find the reason. He decides for himself whether the job is sensible, and if he refuses, he won't tell you why."
+> > "Ziraj came to me himself after the night on the roofs. He has never owed anyone anything in all the years I've known him, but he counts you a friend now, and he told me a friend may ask him for one thing. So the asking is yours. He will deal with one person for you, once, taken alive or killed where no one will find the reason. He decides for himself whether the job is sensible, and if he refuses, he won't tell you why."
 
 If **Ziraj's Last Hunt** has not played, read or paraphrase the following:
 
@@ -229,7 +251,7 @@ If **Ziraj's Last Hunt** has not played, read or paraphrase the following:
 >
 > Davil turns a charm on his bracelet and looks at the lute on his knees for a while before he lifts his eyes to you and begins to speak.
 >
-> > "Ziraj has owed me for longer than I like to remember, and I'm passing that debt to you. He will deal with one person for you, once, taken alive or killed where no one will find the reason. He decides for himself whether the job is sensible, and if he refuses, he won't tell you why."
+> > "Ziraj counts me a friend, and he has agreed that a friend of mine may ask him for one thing, once. So the asking is yours. He will deal with one person for you, once, taken alive or killed where no one will find the reason. He decides for himself whether the job is sensible, and if he refuses, he won't tell you why."
 
 If **Ziraj Fell** is marked, read or paraphrase the following:
 
@@ -252,7 +274,7 @@ If **Ziraj Fell** is marked, read or paraphrase the following:
 > The member gives Davil, or Yagra at the Yawning Portal bar, a sealed note naming one person, the place that person will be within the next ten days, and whether they are to be taken alive or killed. Ziraj hunts places, so a note without a place is returned unread. The note goes through Davil, who reads it, and he puts the name in his book.
 >
 > - **Answer:** Within three days, Ziraj scratches his mark on the windowsill of the member's lodging. Three short strokes mean he accepts, and one stroke means he refuses. A refusal does not spend the favour.
-> - **What he refuses:** Ziraj refuses the four villain factions' leaders (the Xanathar, Manshoon, Jarlaxle, and Victoro or Ammalia Cassalanter), anyone inside a warded stronghold, force field or vault, any child, any Masked Lord or the Open Lord, any sitting Watch officer, and anyone who will not be inside Waterdeep's wards or harbour. A member who names a refused target can send a new note.
+> - **What he refuses:** Ziraj refuses the four villain factions' leaders (the Xanathar, the Splinter's master, Jarlaxle, and Victoro or Ammalia Cassalanter), anyone inside a warded stronghold, force field or vault, any child, any Masked Lord or the Open Lord, any sitting Watch officer, and anyone who will not be inside Waterdeep's wards or harbour. A member who names a refused target can send a new note.
 > - **If he accepts:** Within ten days of the note, at the place named, Ziraj does the work. Yagra brings word to the member at the Yawning Portal bar the same evening.
 > - **Killed:** The target is dead, and nothing in the death points to the member or to the Doom Raiders.
 > - **Alive:** The target waits in the cellar of Istrid Horn's Dock Ward warehouse, unharmed beyond what the taking needed. The member can question them there for up to a tenday, and afterwards Istrid's people carry them to any place in the city the member names. Use the target's Notable Figures page for what they know.
@@ -288,7 +310,7 @@ The Event concludes when the member knows how to call a crew and send an informa
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Ardragon Reached** — mark with the recipient's name when Davil names the rank; read by **Dread Lord** and by **Kolat Towers** Scene 1 if the rank arrives before the raid, where the crew and Ziraj's favour are available resources.
+> - **Ardragon Reached** — mark with the recipient's name when Davil names the rank; read by **Dread Lord**, which marks it for a member who lacks it, and by **Kolat Towers** Scene 1 if the rank arrives before the raid, where the crew and Ziraj's favour are available resources.
 > - **Ziraj's Favour Used** — mark with the member's name, the target, and whether Ziraj or Yagra acted, when the favour is accepted; read by **Dread Lord**, where Tashlyn mentions it.
 
 > [!gamemaster]**Next Steps**
