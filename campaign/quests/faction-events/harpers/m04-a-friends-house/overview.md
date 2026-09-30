@@ -2,59 +2,59 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Available to Harper members at Renown 8 and 5th level after **The Doppelganger Auditions**, with companions welcome as invited salon guests.
+> Available to Harper members at Renown 8 and 5th level after **The Doppelganger Auditions**. Their companions are welcome as invited salon guests.
 >
 > #### Difficulty
 > *An adventure for 5th-level characters.*
 >
-> The salon and optional pursuit resolve through observation and negotiation, with no combat triggered by identifying the guest.
+> The salon and the optional pursuit play out through observation and conversation, and naming the guest doesn't start a fight.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
 
 ## Hook
 
-Remallia Haventree's invitation reaches the members' lodging at noon, three days before her salon at House Ulbrinter in the Sea Ward. Mirt's separate note asks the Harper members to identify an impostor, while the invitation includes their assisting companions by name.
+Remallia Haventree's invitation reaches the members' lodging at noon, three days before her salon at House Ulbrinter in the Sea Ward. It names their assisting companions as guests. Mirt sends a separate note asking the Harper members to find an impostor among the guests.
 
 ## Background
 
-Jarlaxle Baenre has attended Remallia's parties for three months as Erystian Demarne, a Luskan poet, observing Mirt's contacts without revealing himself. Remallia's own Harper identity has remained private before this mission; her invitation opens a relationship the members can maintain afterward. The salon's other guests bring commercial concerns and incomplete rumors that the party can pursue without discovering a single answer connecting them all.
+Jarlaxle Baenre has attended Remallia's parties for three months as Erystian Demarne, a Luskan poet, watching Mirt's contacts without revealing who he is. Nobody has known Remallia's own place in the Harpers before this mission, and her invitation starts a relationship the members can keep up afterward. The other guests each bring a business worry or a half-heard rumor the party can follow up, and no single answer ties them all together.
 
 ## The Salon
 
-The fitting appointment and paid clothing hire give every invited guest a workable route to suitable attire before the evening. At 19:00 Remallia greets them, and Mirt speaks privately to the Harper members at 19:20. They can talk with the ten named principals, compare clues about Erystian or take time over the other guests' concerns until the salon closes at 22:00.
+Mirt has paid for a fitting and clothing hire, so every invited guest has a way to arrive suitably dressed. At 19:00 Remallia greets the party, and at 19:20 the Harper members meet Mirt privately. Until the salon closes at 22:00 they can talk with the ten named principals, compare clues about Erystian or spend time on the other guests' concerns.
 
 ## Following Erystian
 
-If the party follows Jarlaxle when he leaves, a ten-minute walk offers three further observations before he stops in a named courtyard. Following his companion instead reveals a signal location, with both routes leaving the confrontation available. Directly approaching him at the salon skips this pursuit event.
+If the party follows Jarlaxle when he leaves, a ten-minute walk gives them three more observations before he stops in a courtyard. If they follow his companion instead, they find a signal location, and either route still leads to the confrontation. A party that approaches him directly at the salon skips this pursuit event.
 
 ## Naming Him and Negotiating
 
-Jarlaxle acknowledges a correct identification and hears questions or proposals without fighting. The members decide what to report to Mirt, while a Bregan D'aerthe helper can weigh a separate request for discretion. Every branch receives a calling card forty-eight hours after the salon, leaving further contact possible even if the party accused the wrong guest or let him leave.
+Jarlaxle admits who he is when the party identifies him correctly, and he listens to any question or proposal without fighting. The members decide what to report to Mirt, and a Bregan D'aerthe member among the helpers can weigh a separate request for discretion. Forty-eight hours after the salon every branch receives a calling card, so the party can reach him again even if they accused the wrong guest or let him leave.
 
 ## Renown Opportunities
 
-Each participating Harper member gains 3 base Renown for attending and reporting a considered assessment. Remallia pays every actual attendee 200 GP the following morning as a shared source reward, including companions.
+Each participating Harper member gains 3 base Renown for attending and reporting a considered assessment. Remallia pays every character who attended, companions included, 200 GP the following morning as a shared source reward.
 
 - **+1 Harper Renown:** correctly identify Jarlaxle and report to Mirt before he leaves the estate, or immediately after the street confrontation.
 - **+1 Harper Renown:** provide the alias and at least two concrete cover observations so Mirt can build an operational profile.
-- **+1 Bregan D'aerthe Renown:** an actual BD member accepts Jarlaxle's discretion request and helps Mara Coppersail leave the Faire before the Harpers' independent recovery at the stated deadline. The negotiated three-way arrangement can meet this condition while preserving Harper awards for actual Harper members.
+- **+1 Bregan D'aerthe Renown:** a BD member accepts Jarlaxle's discretion request and helps Mara Coppersail leave the Faire before the Harpers recover her on their own at the stated deadline. The three-way arrangement negotiated at the salon can meet this condition, and the Harper awards still go only to Harper members.
 
 ## Aftermath
 
-Remallia becomes a known Harper contact, and the identification outcome gives **Sea Maidens Faire** its intended prior-knowledge reader. Other guest conversations seed **Cassalanter Villa**, **Kolat Towers**, **Vault of Dragons** and **The Sleeping Asset**, preserving suspicions without granting knowledge of noble infernalism. **The Cell Is Compromised** can trigger after this mission once the party has met Davil, and **The Sleeping Asset** becomes available at Renown 10 and 6th level.
+Remallia becomes a known Harper contact, and **Sea Maidens Faire** reads the identification outcome as prior knowledge of Jarlaxle. The other guest conversations seed **Cassalanter Villa**, **Kolat Towers**, **Vault of Dragons** and **The Sleeping Asset**. They leave the party with suspicions about the nobles and no knowledge of infernalism, because nobody at the salon has any. **The Cell Is Compromised** can trigger after this mission once the party has met Davil, and **The Sleeping Asset** becomes available at Renown 10 and 6th level.
 
 ## Involved Characters
 
 - **Remallia Haventree** and **Mirt** (Harpers): hostess and private mission contact.
 - **Jarlaxle Baenre** (Bregan D'aerthe): attends as Erystian Demarne with a disguised guard companion.
-- **Saeth Cromley**, **Tessabrant Elamondra**, **Lord Aldric Talmost**, **Zalara Moonwhisper**, **Farrak Iltimer**, **Serithka Ondal** and **Jelenn Urmbrusk**: the seven other named guests whose concerns support later inquiries.
-- **Mara Coppersail** (Harpers): a compromised Faire ticket clerk who can be warned and recovered afterward.
+- **Saeth Cromley**, **Tessabrant Elamondra**, **Lord Aldric Talmost**, **Zalara Moonwhisper**, **Farrak Iltimer**, **Serithka Ondal** and **Jelenn Urmbrusk**: the seven other named guests, whose concerns feed later inquiries.
+- **Mara Coppersail** (Harpers): a Faire ticket clerk whose cover is compromised and who can be warned and recovered afterward.
 
 ## Dangers & Enemies
 
-Jarlaxle is gathering information rather than inviting a fight. Public accusations cost access to a guest's goodwill, while discretion and reliable evidence allow the party to learn more without treating the whole room as hostile.
+Jarlaxle is here to gather information and has no interest in a fight. A public accusation costs the party the goodwill of the guest they accuse, and discretion and solid evidence let them learn more without treating the whole room as hostile.
 
 ## Overview
 
-A formal salon gives the party time to meet Remallia and her guests, identify a disguised observer and choose what to do with the information they gather.
+A formal salon gives the party time to meet Remallia and her guests, identify a disguised observer and decide what to do with the information they gather.
