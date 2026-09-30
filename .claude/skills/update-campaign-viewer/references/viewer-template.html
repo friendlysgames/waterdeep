@@ -1596,17 +1596,25 @@ function openJournal(journalNode, opts) {
 
   const isMobile = window.matchMedia('(max-width: 768px)').matches;
   const hasTarget = opts.selectPath && journalNode.children.some(function (c) { return c.path === opts.selectPath; });
+  // Opening a journal always loads a page: the requested one for a deep link,
+  // otherwise the journal's first page.
+  const targetPath = hasTarget ? opts.selectPath : (journalNode.children[0] ? journalNode.children[0].path : null);
 
   if (isMobile) {
     // Close the journal drawer and show the page list as an overlay.
-    // Only auto-navigate when a specific page was requested (e.g. deep-link).
     document.body.classList.remove('sidebar-open');
     document.body.classList.remove('page-sidebar-collapsed');
-    if (hasTarget) selectPage(opts.selectPath, { skipHash: !!opts.skipHash });
-  } else {
-    const targetPath = hasTarget ? opts.selectPath : (journalNode.children[0] ? journalNode.children[0].path : null);
-    if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
   }
+  if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
+}
+
+function resetPaneScroll(paneId) {
+  // Every newly loaded page starts at the top, whichever element scrolls
+  // at the current breakpoint.
+  [paneContainerEls[paneId], paneEls[paneId], document.getElementById('content')].forEach(function (el) {
+    if (el) el.scrollTop = 0;
+  });
+  if (paneId === 'primary') window.scrollTo(0, 0);
 }
 
 function openHashPage(path) {
@@ -1634,6 +1642,7 @@ function selectPage(path, opts) {
   renderBreadcrumb(node, paneBreadcrumbEls[paneId]);
   syncMainBreadcrumb();
   renderPageContent(node, paneEls[paneId]);
+  resetPaneScroll(paneId);
   if (paneId === 'primary') {
     highlightSelected(path);
     if (!opts.skipHash) {
