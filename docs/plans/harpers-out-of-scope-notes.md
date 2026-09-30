@@ -191,3 +191,48 @@ Method: every guide page, organization page and villain page was read in full. T
 - The Harpers guide places the double-agent warning after Mission 4 (:11) but has the agent exposed in Mission 5 (:22).
 - Istrid's loan is 200 gp in `factions/07-doom-raiders.md:14` but 400 gp in `trollskull-manor/02-operating-costs.md:84`.
 - `organizations/09-manshoons-zhentarim.md:13` says the splinter broke from the Doom Raiders' network. `history.md:39` says the reverse.
+
+## Main Quests, Locations and Unconverted Lair Docs
+
+The exact reveal beat is `arc-e-faction-outposts.md:207`, Scene 5A (the Interrogation House, Brindul Alley). A *Directive to Zorbog* "signed **Manshoon**" arrives there. The outposts are "the recommended on-ramp, not a hard gate" (arc-e:395), so **no lair heist can assume the reveal has happened**. Gralhund Villa ev-09:42 already records the intent ("Manshoon's name | Not revealed; Floxin never gave it").
+
+### Act I–II quests
+- **`act-i/finding-floon/overview.md:51, :53`** — R1 V. The player-facing Overview of the first quest says "Manshoon's Splinter" and "Manshoon's cell". **:49** says "two nights before", which breaks the standing "last night" rule. So does `locations/zhentarim-warehouse/z02-storage-closet.md:14`.
+- **`act-i/finding-floon/design-notes.md:21`** — R1 M. Renaer "knows what Manshoon's cell wanted".
+- **`act-i/trollskull-alley/ev-04-the-factions-come-calling.md:83–87`** — R1 V. At L2, Davil explains the Doom Raiders / "Manshoon's Splinter" split. Fix: "a rival cell under Floxin". :83 and :63 are R3 M. **:97–98** still emits a retired `Harpers Joined: True / False` flag, while the Harper First Meeting's **Harpers Joined** records each joining character by name.
+- **`act-i/trollskull-alley/ev-03-the-neighbors.md:63`** — R1 M.
+- **`act-ii/fireball/ev-01-the-fireball.md:204`** — R1 V. Davil calls Floxin "Manshoon's blade". **:194** — R2 T. Mirt: "The Cassalanters funded the Howling Hatred cult…", which contradicts arc-e:81 and :473. **:192, :196, :200, :88** — R3 M. Contacts reach the whole party.
+- **`act-ii/fireball/ev-06-the-death-mark.md:68`** — R1 V. Mirt: "Manshoon has placed double agents in the network." **:53** — Yellowspire is placed in the North Ward here but in Castle Ward in arc-e.
+- **`act-ii/gralhund-villa/ev-01-what-the-factions-say.md:9, :17, :62, :85–98, :107`** — R3 V. The six faction briefs fire with no members-only gate. Only Jarlaxle's is legitimately open to everyone.
+- **`act-ii/gralhund-villa/ev-09-aftermath.md:59`** — R1 M. **:77, :79, :107** — R3 M. **:115** — R2 V/T. Savra has already linked the Cassalanters to the villa and to "infernal corruption".
+- **Act II R2 seeding conflict:** `locations/gralhund-villa/g16-master-bedroom.md:12–14`, `gralhund-villa ev-05:11, :49` and `ev-09:39, :144` give the party "the first physical evidence" of a Gralhund–Cassalanter Asmodean cult in Act II. Discovery by the party is legitimate, but arc-e:259 and :473 make Faction Outposts the first evidence. `ev-06:66` and `ev-07:76` also have BD's Fel'rekt offer "Yalah's Asmodean contact". **Decide which act owns the first Cassalanter cult evidence.**
+- **Timeline:** Gralhund ev-05:51, ev-03b:92 and ev-03:67 say Renaer was abducted "two tendays ago".
+
+### Structure docs (arc-e to arc-j)
+- **arc-e:83, :87, :91** — R1 V. In the pre-reveal Scene 2 consultations, Jalester mentions "the Manshoon thread", Savra has "intelligence on Manshoon", and Tashlyn says "every Manshoon agent carries a pass-amulet to Kolat Towers". Tashlyn's line also contradicts the Floxin belief. **:351, :371, :377, :379** — T. Response teams and debriefs name Manshoon and Kolat Towers even if the Interrogation House was never hit. Gate them on the Directive. **:495** — R3 M, and "Renown 30+" matches no Harper rank (3/10/25/50). `guides/factions/02-harpers.md:30` repeats it.
+- **arc-f:147** — R1 V/T. Prisoner Samara: "Manshoon's organization is based in a tower". **:175, :344, :410** — T (Nihiloor's Manshoon file and map of Kolat Towers). **:9, :13, :286** — T (Xanathar at war with Manshoon by name; this depends on the villain decision). **:27, :214** — R3 M.
+- **arc-g:531, :537** — **R2 V.** The Harpers "hold documentation of the Cassalanters' infernal contract", and Vajra holds "provenance, specific terms". **:535** — R2 V. The Enclave attributes the infernal ritual to the Cassalanters. **:47** — R2 T. Jarlaxle knows about the ninety-nine cups. **:133, :43** — R2 T. **:197, :203, :397, :437, :499** — R1 T. Victoro's *Report on the Grand Game* names Manshoon and Kolat Towers, and it can be found before the Interrogation House. The same applies to `locations/cassalanter-villa/04-victoros-office.md:27, :29` and `07-ammalias-study.md:22`. **:31, :365–388** — R3 M.
+- **arc-h:206, :216, :217, :342, :293** — R1 V/T. Jarlaxle, the Zhentarim strike team and the Doom Raiders' debrief all name Manshoon and Kolat Towers. **:160** — T. **:160, :302, :341, :422** — R2 V. Jarlaxle's *Report on the Cultists of Asmodeus* (see also `factions/11-cassalanters.md:81`). **:29** — R3 M.
+- **arc-i:33, :43, :357, :275** — R1 V. Mirt's "Manshoon's couriers", and the Doom Raiders "building toward Kolat Towers… since Trollskull Alley". **:25, :39, :45, :57, :63, :65** — T. Scene 1 assumes the name is known. The identity reveal at :213–223 is correct. **:43, :93** — R3 M.
+- **arc-j:49, :51** — R3 V. The Order's recognition and Force Grey's Commander rank go to "the party". **:43–55** — R3 M. **:75, :322** call the Converted Windmill a "Manshoon outpost", but it's a Cassalanter outpost (arc-e 6B).
+
+### Harper outcomes versus their named readers
+None of the five unconverted docs uses a Harper Event Outcome by name. These Harper outcomes name a reader that doesn't read them:
+- **Faction Outposts:** Shesstra Street Reported (M1), Nethpranter Safehouse Reported (M3), BD Signal Site Observed and Erystian Profile Reported (M4). Arc-e has no Shesstra, Nethpranter or Shield Street lead.
+- **Xanathar's Lair:** Corene Rescued / Lost / Left in Place (M5). Arc-f has no Corene, and its Harper hook (:426) says "three Harper assets" were compromised.
+- **Sea Maidens Faire:** Jarlaxle Identity Exposed at Harper Salon, and Erystian Profile Reported (M4).
+- **Kolat Towers:** Edric Report Delivered (M3), Harper Leak Closed (M5), Splinter Raid Observations Delivered (M6), and S01's leak.
+- **Vault of Dragons:** High Harper Reached and Masked Lord Request Invoked (R50), and Jalester Compromise Identified (M6). Arc-j:43 matches M6 only loosely and adds a "Renaer" branch that M6 rules out. **Level conflict:** Harper M6 needs L7, but 3-heist parties enter the Vault at L6.
+
+These get wired in when each lair doc is converted to a quest journal.
+
+---
+
+## Decisions Needed Before Fixing
+
+1. **Do villain factions count under R1 and R2?** This covers Xanathar's kill orders on Manshoon, the Jarlaxle–Manshoon pact, and Jarlaxle and Manshoon knowing the Cassalanter bargain.
+2. **Should the Manshoon reveal become a hard gate?** One option is a named outcome such as **Manshoon Named**, set at the Interrogation House, that every later reader checks, with "the Splinter" as the fallback wording. Otherwise, every lair heist's briefings need rewriting for a party that skipped the outposts.
+3. **Which act owns the first Cassalanter cult evidence?** Act II (Gralhund g16) or Faction Outposts (arc-e:259, :473)?
+4. **OotG M5/M6 pact terms.** Trim the ledger, or let Cassalanter Villa expect a party that already knows the terms?
+5. **BD Contact Severed.** Should it be per reporting PC, or remain a party-wide lockout? Per PC would match individual membership.
+6. **Level gates that contradict readers.** Harper M6 at L7 versus the L6 Vault; Doom Raiders M6 (L7) versus its Kolat Towers Scene 1 reader; Force Grey M6; Emerald Enclave M5 (L6) versus its Faction Outposts readers.
