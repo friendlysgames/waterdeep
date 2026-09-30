@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Draft horse with permanent Speak with Animals, unaligned*. Stat block: **Beast (Intelligence 7)**.
+> - *Draft horse with a permanent enchantment that lets her understand and speak Common, unaligned*. Stat block: **Beast (Intelligence 10)**.
 > - **Affiliation:** Harpers
 > - **Featured in:** **Trollskull Alley**, **The Talking Mare**
 
@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Maxeene is a large draft horse of unremarkable coloring that stands outside the Yawning Portal some evenings. To those with Speak with Animals, she is a detailed gossip who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year — because she is pleasant-looking and no one assumes a horse is paying attention. Deep down, she enjoys the conversations because they are more interesting than the hay.
+**Persona.** To the world, Maxeene is a large draft horse of unremarkable coloring that stands outside the Yawning Portal some evenings. To anyone who thinks to talk to her, she is a detailed gossip who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year, because she speaks Common perfectly well and almost nobody assumes a horse is paying attention. Deep down, she enjoys the conversations because they are more interesting than the hay.
 
 **Morale.** Maxeene bolts from violence and is difficult to retrieve. She will, however, provide detailed information about whoever threatened her.
 
-**Relationships.** Maxeene is a Harper intelligence asset with permanent Speak with Animals (courtesy of a Harper-sympathetic druid), the target of Harper mission two, and the best passive surveillance available to anyone who remembers to ask her what she heard at the hitching post outside the Cassalanter Villa last tenday.
+**Relationships.** Maxeene is a Harper intelligence asset who understands and speaks Common thanks to a permanent enchantment from a Harper-sympathetic druid, the target of Harper mission one, and the best passive surveillance available to anyone who remembers to ask her what she heard at the hitching post outside the Cassalanter Villa last tenday.
 
 ## Overview
 
