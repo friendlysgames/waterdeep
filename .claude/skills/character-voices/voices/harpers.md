@@ -137,7 +137,7 @@ The Harpers mostly sound like people pretending to be someone else: a moneylende
 ### Maxeene
 *A large, frank draft horse with firm opinions on hay, hitching posts and the people who stand near them.*
 
-- **Sound:** Heard only through Speak with Animals. A warm, placid, matronly voice, unhurried and quite sure of itself.
+- **Sound:** She speaks Common aloud through a permanent enchantment from a Harper-friendly druid, so anyone can talk with her, though almost nobody thinks to. A warm, placid, matronly voice, unhurried and quite sure of itself.
 - **Sentence shape:** Chatty, gossipy sentences that wander from the useful to the trivial and back ("…and then the tall one said the shipment was late, and the oats outside that house are dreadful, by the way").
 - **Word choice:** Horse-level vocabulary: people described by smell, footsteps, height and how they treat horses. She has no names for things she can't see or eat. She calls humans "your sort" and important people "the ones with the good carriages".
 - **Swearing:** *Casual · Plain · Phrase.* A horse's plainness: dung is "shit", and she says so, without malice.
