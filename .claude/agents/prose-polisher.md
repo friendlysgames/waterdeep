@@ -1,7 +1,7 @@
 ---
 name: prose-polisher
 description: Use this agent to run the full prose quality pipeline on any campaign text. Reads the deslop-text and humanize-prose skills, flags all violations, applies rewrites, and delivers a clean version. Use after generating any read-aloud text, GM notes, NPC descriptions, or lore prose.
-model: claude-sonnet-4-6
+model: claude-sonnet-5-5
 tools:
   - Read
   - Edit
