@@ -77,7 +77,7 @@ The party leaves Trollskull Manor at 02:15, and the kill team's sweep reaches th
 > - **Read the sweep.** Any character who watches the searchers from a rooftop for two minutes and makes a successful DC 12 Wisdom (Perception) check sees that they keep circling the alley's lower half and never search the inn's rear face. Ziraj has to be there. The same character also sees the rooftop crossbowman crouched 40 feet from the inn. A success reaches Ziraj in 10 minutes.
 > - **Ask Fala.** No check is needed. Fala answers the door at Corellon's Crown, and the trip there takes 15 minutes, after which Fala points to the inn's roof. The party reaches Ziraj 5 minutes after leaving the shop.
 >
-> The worst case is two failed attempts and a visit to Fala, which reaches Ziraj at 02:50, five minutes before the sweep. If the party reaches him after 02:40, there is no time to carry him out, and the party has to hold the roof or lay a false trail.
+> The worst case is two failed attempts and a visit to Fala, which reaches Ziraj at 02:55, just as the sweep arrives. If the party reaches him after 02:40, there is no time to carry him out, and the party has to hold the roof or lay a false trail.
 
 If the party goes to Fala first, read or paraphrase the following:
 
@@ -252,11 +252,9 @@ If Ziraj lives, Fala finishes treating him and he speaks once he has been given 
 >
 > He turns his head slowly toward the window.
 >
-> > I owe you.
+> > Thank you.
 >
-> > You shut the shop for me, Fala. You didn't have to. I'll be gone by the morning after next.
->
-> Fala puts a hand flat on his chest and pushes him back down.
+> He turns his head toward Fala and murmurs a few words meant only for them, and Fala answers that they would have shut the shop for him a hundred times. Ziraj tries to sit up, and Fala puts a hand flat on his chest and pushes him back down.
 >
 > > You will stay exactly where you are, and you will drink this before you say another word.
 
@@ -276,7 +274,7 @@ If Ziraj lives, read or paraphrase the following:
 >
 > Davil sets the lute across his knees and pours a cup for each of you before he speaks. His thumb rests on one of the charms on his bracelet, and he turns it once.
 >
-> > Yagra told me what you did, and what it cost you. Ziraj has never owed anyone in all the years I've known him, and he has told me he owes you. Sit, please, and tell me what you learned about the people who sent them.
+> > Yagra told me what you did, and what it cost you. Ziraj has never thanked anyone in all the years I've known him, and he has thanked you. Sit, please, and tell me what you learned about the people who sent them.
 
 If Ziraj has died, read or paraphrase the following:
 
@@ -313,15 +311,15 @@ The Event concludes when the participating members have reported to Davil. Recor
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Ziraj Survived** — mark when Ziraj is alive at the end of the Event, including by *Revivify*. Read by **Made Ardragon**, where Davil offers Ziraj's favor and mentions the rescue, and by **Vault of Dragons** Scene 1, where Davil's Doom Raiders contact reports that Ziraj is watching the approach to the City of the Dead from the rooftops.
-> - **Ziraj Fell** — mark when Ziraj dies and is not restored. Read by **Made Ardragon**, where Davil offers only the crew and the informants and says nothing of Ziraj's favor; by **Dread Lord**, where Tashlyn's remark about the empty chair changes; and by **Vault of Dragons** Scene 1, where Yagra stands in for Ziraj and Davil does not mention him.
+> - **Ziraj Survived** — mark when Ziraj is alive at the end of the Event, including by *Revivify*. Read by **Ardragon**, where Davil offers Ziraj's favor and mentions the rescue, and by **Vault of Dragons** Scene 1, where Davil's Doom Raiders contact reports that Ziraj is watching the approach to the City of the Dead from the rooftops.
+> - **Ziraj Fell** — mark when Ziraj dies and is not restored. Read by **Ardragon**, where Davil announces that the favor is gone and offers **Yagra's Grab**, a capture-only substitute of Yagra and two Toughs; by **Dread Lord**, where Tashlyn's remark about the empty chair changes; and by **Vault of Dragons** Scene 1, where Yagra stands in for Ziraj and Davil does not mention him.
 > - **Splinter Kill Team Broken** — mark when every agent on the kill team is dead or captured and none has escaped. Read by **Vault of Dragons** Scene 5, where, if Manshoon is Alive or Simulacrum Only, the Splinter force at the vault has no survivors of this team and Manshoon learns nothing of the Doom Raiders' arrangements.
 > - **Splinter Survivor Escaped** — mark when any agent flees the scene alive or the party releases Ondra. Read by **Vault of Dragons** Scene 5, where, if Manshoon is Alive or Simulacrum Only, he opens the confrontation knowing which Doom Raiders will be at the vault.
 > - **Splinter Remnant Plan Learned** — mark when Ondra is taken alive and tells the party what the Splinter intends. Read by **Vault of Dragons** Scene 6, where, if Manshoon is Alive or Simulacrum Only, the party knows the Splinter will attack the gold wagons on the road.
 
 > [!gamemaster]**Next Steps**
 >
-> This is the last Doom Raiders mission. **Made Ardragon** fires when an individual Doom Raiders member reaches Renown 25, and **Dread Lord** fires at Renown 50. Both rank events read the outcomes above. The party continues to **Vault of Dragons** when its three Eyes are restored. This mission awards no Milestone Points.
+> This is the last Doom Raiders mission. **Ardragon** fires when an individual Doom Raiders member reaches Renown 25, and **Dread Lord** fires at Renown 50. Both rank events read the outcomes above. The party continues to **Vault of Dragons** when its three Eyes are restored. This mission awards no Milestone Points.
 
 ## Overview
 

@@ -53,7 +53,7 @@ Companions who aren't Doom Raiders gain no Renown, and each bonus can be earned 
 
 ## Aftermath
 
-The outcomes feed **Made Ardragon**, where Ziraj's favor exists only if he survived, and **Vault of Dragons**, where the Splinter's survivors and Davil's contact briefing read the result. If Ziraj dies, Davil offers the crew and the informants and says nothing more about the favor. This is the last Doom Raiders mission, and it doesn't set **Force Field Gap Intel**, which **The Yellowspire Job** already delivered.
+The outcomes feed **Ardragon**, where Ziraj's favor exists only if he survived, and **Vault of Dragons**, where the Splinter's survivors and Davil's contact briefing read the result. If Ziraj dies, Davil announces that the favor is gone and offers Yagra's Grab, a capture-only substitute, instead. This is the last Doom Raiders mission, and it doesn't set **Force Field Gap Intel**, which **The Yellowspire Job** already delivered.
 
 ## Involved Characters
 
