@@ -8,7 +8,7 @@ Yagra is the route to Tashlyn because *Dragon Heist* says she can arrange a meet
 
 ## Tashlyn's Information and the Manshoon Gate
 
-Everything Tashlyn says comes from *Dragon Heist*: Floxin is the rumoured leader of the renegade cell, a warrant is out, scrying has failed, and the Renaer Neverember kidnapping may draw him back. The tip from inside the Network comes from the Alexandrian Remix sidebar for Doom Raiders characters asking about Floxin.
+Tashlyn's information comes from *Dragon Heist*: Floxin is the rumoured leader of the renegade cell, a warrant is out, scrying has failed, and the Renaer Neverember kidnapping may draw him back. That holds only if **Floxin Status** from **Gralhund Villa** is Alive. If he is Dead or Captured, the Doom Raiders' rumour is wrong: the cell still moves and still filed a tip two days after the villa, so Tashlyn concludes that someone above Floxin gives the orders, and she does not know who. The warrant and scrying facts drop out, and the gate constable remembers a lean hooded man without a bandage. The Renaer line becomes "whoever runs the other cell". The GM block says the tip then came from another cell member on Manshoon's orders. The tip from inside the Network comes from the Alexandrian Remix sidebar for Doom Raiders characters asking about Floxin.
 
 That sidebar has Tashlyn call Floxin "Manshoon's blade". This Event drops the name from speech and gates it on **Manshoon Named**, which is set at the Faction Outposts Interrogation House. Until then the Doom Raiders believe Floxin leads the renegade cell. The truth about Floxin and the tip is in a GM-only block. Tashlyn gives her reason for trusting the tip's source (the Network title in the note), and the gate constable and the register give the party two more independent routes to the same fact.
 
@@ -16,7 +16,7 @@ That sidebar has Tashlyn call Floxin "Manshoon's blade". This Event drops the na
 
 The old draft counted any one of three approaches as enough and released Davil "within a tenday", which contradicted his release at the end of **Silencing Skeemo**. Release is now fixed at that point. The effort decides the terms: a bond and a trailing constable at zero successes, and a clean record plus a one-time warning from Dunfell at three.
 
-Each approach is a real errand with its own check, its own failure consequence and its own reward. A Lords' Alliance member's shortcut through Jalester Silvermane is kept from the draft. Renown is 1 per member, once, for completing an approach, matching the guide's "substantive effort" wording, and it goes only to the member who did the work. The outcome text carries no award.
+Tashlyn now states the three approaches in speech (the gate, an advocate at fifty gold, and Sergeant Dunfell with Jalester's help), so the players are told the option exists and do not have to guess it from the GM text. Each approach is a real errand with its own check, its own failure consequence and its own reward. A Lords' Alliance member's shortcut through Jalester Silvermane is kept from the draft. Renown is 1 per member, once, for completing an approach, matching the guide's "substantive effort" wording, and it goes only to the member who did the work. The outcome text carries no award.
 
 ## Invented Names and Pointers
 
