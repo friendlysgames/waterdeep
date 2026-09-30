@@ -23,15 +23,15 @@
 
 ### The Brief
 
-At breakfast, a flying snake finds each Doom Raiders member, wherever they are lodging, with the same note in Davil's hand. Only members who meet the mission's requirements receive it, and companions who are not Doom Raiders receive nothing.
+In the early evening, a flying snake finds each Doom Raiders member, wherever they are lodging, with the same note in Davil's hand. Only members who meet the mission's requirements receive it, and companions who are not Doom Raiders receive nothing.
 
 > [!readaloud]
 >
 > A small flying snake drops from the rafters and coils on the table beside your plate, holding a rolled slip of paper in its jaws. It lets go of the paper as soon as you reach for it and waits with its head raised while you smooth the note flat. The handwriting is light and looping, and it reads:
 >
-> > My friends, I have a small errand for you that should be pleasant work. There is a shop in the Trades Ward called Weirdbottle's Concoctions, and the gnome who keeps it is a friend of ours named Skeemo. He has made some potions of mind reading for a client, and they are ready to collect. Please carry them to the God Catcher in the Castle Ward by sunset and give them to the lady in the purple cloak who will be waiting in a hire-coach. Keep whatever she gives you for your trouble, and come and see me at the Yawning Portal when it is done, yes?
+> > "My friends, I have a small errand for you that should be pleasant work. There is a shop in the Trades Ward called Weirdbottle's Concoctions, and the gnome who keeps it is a friend of ours named Skeemo. He has made some potions of mind reading for a client, and they are ready to collect. Please carry them to the God Catcher in the Castle Ward by sunset tomorrow and give them to the lady in the purple cloak who will be waiting in a hire-coach. Keep whatever she gives you for your trouble, and come and see me at the Yawning Portal when it is done, yes?"
 
-The members can go straight to the shop, or they can visit Davil first. Davil is in his curtained room on the second floor of the Yawning Portal until noon.
+The members can go straight to the shop, or they can visit Davil first. Davil holds court in his curtained room on the second floor of the Yawning Portal from 20:00 until midnight, so the members can see him that evening, and the errand itself is due at sunset on the following day.
 
 > [!social]**The Master of Opportunities**
 >
@@ -51,21 +51,21 @@ The members can go straight to the shop, or they can visit Davil first. Davil is
 >
 > Davil tilts the pitcher over your cup and takes his time before he answers.
 >
-> > I couldn't tell you her name, my friends. Skeemo handles his own customers, and he keeps that part of his ledger to himself, as a good alchemist should. She's expecting the coffer at sunset, and you'll know her by the purple cloak.
+> > "I couldn't tell you her name, my friends. Skeemo handles his own customers, and he keeps that part of his ledger to himself, as a good alchemist should. She's expecting the coffer at sunset, and you'll know her by the purple cloak."
 
 > [!qna]**What's in the coffer?**
 >
-> > Four potions of mind reading, if Skeemo says so, and I've never had a reason to doubt him. He has been a friend of mine for many years, and his work has always been sound. I haven't opened it, and I don't mean to.
+> > "Four potions of mind reading, if Skeemo says so, and I've never had a reason to doubt him. He has been a friend of mine for many years, and his work has always been sound. I haven't opened it, and I don't mean to."
 
 > [!qna]**What do we get out of it?**
 >
-> > Whatever the lady gives you is yours, and the Network takes no share. I'm told she pays generously, and I'd like the people we work with to see that our couriers are worth paying.
+> > "Whatever the lady gives you is yours, and the Network takes no share. I'm told she pays generously, and I'd like the people we work with to see that our couriers are worth paying."
 
 > [!qna]**Why us?**
 >
 > Davil smiles and turns the trophy on his bracelet once before he answers.
 >
-> > Skeemo asked for reliable people, and I thought of you straight away. It's an easy errand, and easy errands are a good way for a client and a courier to get used to each other. You'll do it, yes?
+> > "Skeemo asked for reliable people, and I thought of you straight away. It's an easy errand, and easy errands are a good way for a client and a courier to get used to each other. You'll do it, yes?"
 
 ### Weirdbottle's Concoctions
 
@@ -75,7 +75,7 @@ The shop stands on a side street in the Trades Ward, and Skeemo has the coffer w
 >
 > A signboard with a bubbling bottle hangs above a narrow shopfront, and the smell of mint and warm glass drifts into the street when the door opens. Every shelf inside is labeled and sorted by function with the labels turned outward, and a wooden step stool stands at the end of the back shelf in a spot that looks measured. A gnome in a leather apron with a great many pockets waits behind the counter, and a small silk-lined coffer with a wax seal sits in front of him. A faint scent of mint rises from the seam of its lid.
 >
-> > Welcome to Weirdbottle's, madam, sir. Please don't touch the blue flasks. Strictly speaking, please don't touch any of them. You'll be Mr. Starsong's couriers, I take it, and I'm glad you're punctual, because the customer is not a patient woman.
+> > "Welcome to Weirdbottle's, madam, sir. Please don't touch the blue flasks. Strictly speaking, please don't touch any of them. You'll be Mr. Starsong's couriers, I take it, and I'm glad you're punctual, because the customer is not a patient woman."
 
 > [!social]**The Precise Alchemist**
 >
@@ -95,19 +95,19 @@ The shop stands on a side street in the Trades Ward, and Skeemo has the coffer w
 >
 > Skeemo sets his fingertips on the lid and slides it an inch toward you.
 >
-> > Four potions of mind reading, sealed and paid for. They're stable, though I wouldn't call them rugged, so I'd ask you to carry the coffer in your hands and not in a pack. The lady expects it at sunset, and she dislikes waiting.
+> > "Four potions of mind reading, sealed and paid for. They're stable, though I wouldn't call them rugged, so I'd ask you to carry the coffer in your hands and not in a pack. The lady expects it at sunset, and she dislikes waiting."
 
 > [!qna]**Can we open it?**
 >
-> > You may, of course, sir, but the wax is part of what the customer paid for, and a broken seal makes her ask questions I'd rather not answer. Strictly speaking, I'd prefer that you didn't. If you do, I'll reseal it for two silver, and I'll ask you why.
+> > "You may, of course, sir, but the wax is part of what the customer paid for, and a broken seal makes her ask questions I'd rather not answer. Strictly speaking, I'd prefer that you didn't. If you do, I'll reseal it for two silver, and I'll ask you why."
 
 > [!qna]**Who is the customer?**
 >
-> > A client, madam, and clients are entitled to their privacy. I keep an exact ledger of everything I sell, down to the copper, and I have never once shown it to a courier. She'll find you at the statue, and I'm sure you'll manage very well.
+> > "A client, madam, and clients are entitled to their privacy. I keep an exact ledger of everything I sell, down to the copper, and I have never once shown it to a courier. She'll find you at the statue, and I'm sure you'll manage very well."
 
 > [!qna]**Why did he pick us?**
 >
-> > Mr. Starsong said he wanted reliable people, and I said I'd be glad to meet them. He is a hard man to refuse, isn't he? Always so pleasant about it.
+> > "Mr. Starsong said he wanted reliable people, and I said I'd be glad to meet them. He is a hard man to refuse, isn't he? Always so pleasant about it."
 
 > [!exploration]**Looking Over the Coffer**
 >
@@ -125,7 +125,7 @@ The shop stands on a side street in the Trades Ward, and Skeemo has the coffer w
 >
 > If a character says so to his face, Skeemo looks at the open vial for a moment before he looks up.
 >
-> > Poison, sir? That would be a serious matter, and I'd want to be certain of it before anyone said the word to Mr. Starsong. I buy from three suppliers, and a mislabeled vial is not unheard of, though it has never happened in this shop. How dreadful. Leave the coffer with me and I'll trace the batch tonight, and I'll send a corrected set to the customer myself in the morning.
+> > "Poison, sir? That would be a serious matter, and I'd want to be certain of it before anyone said the word to Mr. Starsong. I buy from three suppliers, and a mislabeled vial is not unheard of, though it has never happened in this shop. How dreadful. Leave the coffer with me and I'll trace the batch tonight, and I'll send a corrected set to the customer myself in the morning."
 
 If the party accuses Skeemo and then keeps the coffer, he says only that it is theirs to carry and that he would not stand between a courier and her instructions. He does not change his story, he does not follow them, and he does not fight. Mark **Skeemo Alerted** whenever a member tells him to his face that the vials are poison.
 
@@ -157,7 +157,7 @@ When a member hands her a vial, read or paraphrase the following:
 >
 > The herbalist pulls the stopper from the vial you hand her, sniffs once, and wrinkles her nose before she holds it out at arm's length.
 >
-> > That's mint laid over something bitter, and it isn't a cough remedy. Whoever made this wanted it to go down easily and to stop a heart by morning. Where did you get it?
+> > "That's mint laid over something bitter, and it isn't a cough remedy. Whoever made this wanted it to go down easily and to stop a heart by morning. Where did you get it?"
 
 > [!exploration]**Making a Copy**
 >
@@ -196,15 +196,15 @@ The hire-coach is in place by 17:45 and waits until 19:00. Esvele Rosznar rides 
 >
 > A gloved hand holds out a black velvet pouch through the coach door before you have fully stopped, and a low, amused voice comes from the shadow of the hood.
 >
-> > Right on time. I do like a courier who can read a clock. That's a lovely lock on the coffer, though I wouldn't trust a gnome's wax against anyone patient. Hand it over, and I'll hand you this, and then we'll both forget which statue we stood under.
+> > "Right on time. I do like a courier who can read a clock. That's a lovely lock on the coffer, though I wouldn't trust a gnome's wax against anyone patient. Hand it over, and I'll hand you this, and then we'll both forget which statue we stood under."
 
 > [!qna]**Who are you?**
 >
-> > A customer, and a busy one. If the gnome had wanted you to know my name, he'd have written it on the coffer. There's fifteen platinum in the pouch, which is a great deal more than a courier's fee, so I'd take it and be glad.
+> > "A customer, and a busy one. If the gnome had wanted you to know my name, he'd have written it on the coffer. There's fifteen platinum in the pouch, which is a great deal more than a courier's fee, so I'd take it and be glad."
 
 > [!qna]**What is it for?**
 >
-> > There's a merchant in the Sea Ward who has been ruining people I like, and I mean to have a conversation with him about his ledgers. Beyond that it's no concern of a courier's, and I'd rather it stayed that way.
+> > "There's a merchant in the Sea Ward who has been ruining people I like, and I mean to have a conversation with him about his ledgers. Beyond that it's no concern of a courier's, and I'd rather it stayed that way."
 
 The exchange resolves in one of three ways, depending on what the party has learned and decided. A fourth way, refusal, happens before the party reaches the statue.
 
@@ -221,7 +221,7 @@ If the party warns her, read or paraphrase the following:
 >
 > The gloved hand closes on the pouch and draws it back into the coach. When the voice comes again it is flat and level, and the teasing has gone out of it.
 >
-> > Say that again, slowly, and show me what you're basing it on. If you're telling me the truth, I'll want to sit with it for a moment. If you're lying, I'd like to know why you'd bother.
+> > "Say that again, slowly, and show me what you're basing it on. If you're telling me the truth, I'll want to sit with it for a moment. If you're lying, I'd like to know why you'd bother."
 
 If Esvele accepts the warning, read or paraphrase the following:
 
@@ -229,7 +229,7 @@ If Esvele accepts the warning, read or paraphrase the following:
 >
 > A gloved finger presses the stopper back into the vial, and Esvele takes a long breath through her nose before she speaks.
 >
-> > That fucking gnome sold me poison. Four vials, and every one of them meant for a man's brandy. You could have taken my money and gone, and you didn't, so I'll remember your faces. Keep the coffer and the evidence, and tell your people what that gnome has been selling.
+> > "That fucking gnome sold me poison. Four vials, and every one of them meant for a man's brandy. You could have taken my money and gone, and you didn't, so I'll remember your faces. Keep the coffer and the evidence, and tell your people what that gnome has been selling."
 >
 > The coach door closes before you can answer, and the driver turns the horses toward the Sea Ward.
 
@@ -239,7 +239,7 @@ If the party delivers the coffer without warning her, read or paraphrase the fol
 >
 > Esvele turns the coffer over once in her gloved hands and checks the seal, and then she drops the pouch into the nearest palm and closes your fingers around it.
 >
-> > Splendid. Tell the gnome I'm well pleased, and that I'll have news for him in a few days.
+> > "Splendid. Tell the gnome I'm well pleased, and that I'll have news for him in a few days."
 >
 > The coach door shuts, the driver flicks the reins, and the wheels rattle away across the paving toward the Sea Ward.
 
@@ -249,7 +249,7 @@ If the members swapped the vials but the seal cracked, Esvele notices it before 
 >
 > Esvele runs a gloved thumb along the cracked wax and then tilts her hood toward you.
 >
-> > This seal has been opened. I'd like to hear why before I hand you anything.
+> > "This seal has been opened. I'd like to hear why before I hand you anything."
 
 The only explanation that works is the truth. A member who tells her turns the exchange into the warning above, and the party already holds the real vials as proof, so she accepts the warning at once.
 
@@ -269,13 +269,13 @@ The only explanation that works is the truth. A member who tells her turns the e
 
 ### The Wazoo Notice
 
-If the poison reached Rallygar, a crier at the corner of the Market waves a fresh sheet of the *Waterdeep Wazoo* on the morning of the fourth day. If **Esvele Warned**, **Poison Swapped** or **Delivery Refused** was marked, Rallygar lives, and the Wazoo carries only a short item about a strongbox forced in the Sea Ward. In that case, skip to **Davil's Answer**.
+If **Poison Delivered** was marked, Rallygar dies, and a crier at the corner of the Market waves a fresh sheet of the *Waterdeep Wazoo* on the morning of the fourth day. That holds even if **Esvele Warned** was also marked, because a warning she did not believe leaves the vials in her hands. If **Poison Delivered** was not marked, Rallygar lives, and the Wazoo carries only a short item about a strongbox forced in the Sea Ward. In that case, skip to **Davil's Answer**.
 
 > [!readaloud]
 >
 > A crier at the corner of the Market shouts a headline over the noise of the stalls and waves a fresh sheet of the Waterdeep Wazoo in the air. The notice underneath is short, and you read it over a stranger's shoulder:
 >
-> > Cevin Rallygar, merchant of the Sea Ward, was found dead in his study this morning with his strongbox forced open and a brandy decanter at his elbow. His servants report a smell of mint on his lips. The Watch names no suspect and calls the death a poisoning. Mr. Rallygar had long been at law with a Sea Ward trading house, and leaves no heir.
+> > "Cevin Rallygar, merchant of the Sea Ward, was found dead in his study this morning with his strongbox forced open and a brandy decanter at his elbow. His servants report a smell of mint on his lips. The Watch names no suspect and calls the death a poisoning. Mr. Rallygar had long been at law with a Sea Ward trading house, and leaves no heir."
 
 > [!exploration]**Tracing Rallygar**
 >
@@ -299,7 +299,7 @@ If the party knows nothing beyond the delivery, read or paraphrase the following
 >
 > Davil looks up from a hand of cards he was dealing himself and gestures toward the empty chairs around his table before he pours a cup at each place.
 >
-> > Ah, there you are. Sit, please, and tell me how it went. Was the lady satisfied? I hope the tip was worth the walk.
+> > "Ah, there you are. Sit, please, and tell me how it went. Was the lady satisfied? I hope the tip was worth the walk."
 
 If the party tells Davil about the poison, read or paraphrase the following:
 
@@ -307,27 +307,29 @@ If the party tells Davil about the poison, read or paraphrase the following:
 >
 > Davil sets down his cards while you talk, and the small trophy on his bracelet stops turning. When you have finished he pours himself a cup he doesn't drink.
 >
-> > That's a serious thing you're telling me, my friends, and I'm sorry you were put in the middle of it. Skeemo operates semi-independently, you understand, and I don't see every transaction that passes through his shop. I regret that you were involved in something without full information. I'll speak with him myself this evening, and I'd ask you to leave the matter with me.
+> > "That's a serious thing you're telling me, my friends, and I'm sorry you were put in the middle of it. Skeemo operates semi-independently, you understand, and I don't see every transaction that passes through his shop. I regret that you were involved in something without full information. I'll speak with him myself this evening, and I'd ask you to leave the matter with me."
 
 > [!qna]**Did you know?**
 >
 > Davil turns the trophy on his bracelet once, slowly, before he answers.
 >
-> > Would it change what you did if I said I had? I've been in this business a long time, my friends, and I've learned not to answer that sort of question in a room with the door open.
+> > "Would it change what you did if I said I had? I've been in this business a long time, my friends, and I've learned not to answer that sort of question in a room with the door open."
 
 > [!qna]**Why would Skeemo do this?**
 >
-> > I honestly can't say. He's a careful man, and careful men make mistakes about suppliers. Let me ask him before we decide it was anything else.
+> > "I honestly can't say. He's a careful man, and careful men make mistakes about suppliers. Let me ask him before we decide it was anything else."
 
 > [!qna]**What do we do about the client?**
 >
-> > Nothing, for now. If she was warned, she'll keep her own counsel, and if she wasn't, the Watch will find its own way to whatever it finds. I'd like you to stay out of the Sea Ward for a tenday. Yes?
+> > "Nothing, for now. If she was warned, she'll keep her own counsel, and if she wasn't, the Watch will find its own way to whatever it finds. I'd like you to stay out of the Sea Ward for a tenday. Yes?"
 
 > [!exploration]**Reading Davil**
 >
 > Any character who makes a successful DC 15 Wisdom (Insight) check while Davil answers determines that he is not hiding any knowledge of the poison. What he is hiding is his discomfort that Skeemo's shop runs largely out of his sight and that a job under his name has cost someone's life. Davil does not suspect Skeemo of treachery at this point, and he does not learn the truth until **Silencing Skeemo**.
 >
 > If nobody makes the check, Davil simply sounds like a man who has been caught out and dislikes it.
+
+If a member hands Davil the coffer or at least one intact vial, he thanks them, locks it in his desk drawer and says no more about it. Mark **Coffer Returned**. The members still qualify for the evidence bonus below.
 
 That evening, Davil speaks to Skeemo. Skeemo blames an unnamed supplier, offers to replace the batch, and Davil accepts the explanation because he wants to. Nothing changes on the surface, and no member is present.
 
@@ -337,7 +339,7 @@ That evening, Davil speaks to Skeemo. Skeemo blames an unnamed supplier, offers 
 >
 > Each participating Doom Raiders member who takes part in the delivery and reports to Davil gains 2 base Renown. Each eligible member also gains the following bonuses when the party meets their conditions:
 >
-> - **+1 Renown:** Rallygar lives. The party warned Esvele, swapped the vials, or refused before the poison reached her.
+> - **+1 Renown:** Rallygar lives, which means **Poison Delivered** is not marked. The party warned Esvele and she believed them, swapped the vials, or refused before the poison reached her.
 > - **+1 Renown:** the party gives Davil real evidence of the poisoning. That means an intact vial, or, if the poison reached Rallygar, both Wazoo leads (the DC 14 and DC 18 findings) together with the notice.
 >
 > Companions who are not Doom Raiders gain no membership or Renown from this assignment, and each bonus can be earned only once. A member who delivered the poison knowingly and said nothing to Davil earns only the base award.
@@ -358,7 +360,7 @@ The report to Davil concludes the mission. Each outcome below is recorded separa
 > - **Esvele Warned** — mark when a member tells Esvele the vials are poison, whether she believes them or not. Read by **Silencing Skeemo**, where Tashlyn says she heard of the warning through the Network, and by **Cassalanter Villa**, where Esvele's first meeting with the party starts warmer.
 > - **Poison Swapped** — mark when the party gives Esvele a harmless copy without her learning of it; Rallygar lives. Read by **Silencing Skeemo**, where Skeemo has already noticed that the death he expected never came.
 > - **Delivery Refused** — mark when the party never hands the coffer to Esvele. Read by **Silencing Skeemo**, where Tashlyn knows the party refused and asks what they did with the vials.
-> - **Coffer Returned** — mark when the party gives Davil the coffer or at least one intact vial. Read by **Silencing Skeemo**, where Tashlyn already holds a vial from Davil's desk and has Skeemo's batch tested before she briefs the party.
+> - **Coffer Returned** — mark when the party gives Davil the coffer or at least one intact vial. Read by **Silencing Skeemo**, where Tashlyn already holds a vial from Davil's desk.
 > - **Skeemo Alerted** — mark when a member tells Skeemo to his face that the vials are poison, or attacks him in the shop. Read by **Silencing Skeemo**, where Skeemo has packed his satchel and left the back door unlatched.
 
 > [!gamemaster]**Next Steps**

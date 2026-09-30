@@ -14,7 +14,7 @@
 
 ## Hook
 
-A small flying snake finds each eligible Doom Raiders member at breakfast, carrying a note in Davil's hand. Skeemo Weirdbottle has made some potions of mind reading for a client, and the members are to collect them from his Trades Ward shop and deliver them to a lady in a purple cloak beside the God Catcher by sunset. Whatever she gives them is theirs.
+A small flying snake finds each eligible Doom Raiders member in the early evening, carrying a note in Davil's hand. Skeemo Weirdbottle has made some potions of mind reading for a client, and the members are to collect them from his Trades Ward shop and deliver them to a lady in a purple cloak beside the God Catcher by sunset the next day. Whatever she gives them is theirs.
 
 ## Background
 
