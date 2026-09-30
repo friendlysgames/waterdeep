@@ -247,6 +247,10 @@ Once everyone has a glass and a chair, Davil begins.
 
 If a candidate describes such a man, Davil listens closely, asks where and when, and writes it in his book. He does not say why he wants to know. Renown for intelligence begins once the candidate is a member.
 
+> [!gamemaster]**The Large Man**
+>
+> The man Davil asks about is Urstul Floxin, the Black Network assassin he believes leads the other cell. Floxin is a large, heavyset man in his forties who carries himself as though every room belongs to him, and he makes no effort to hide that he is Zhentarim. Davil keeps the name back at this point in the conversation because he wants the candidates' own descriptions, without a name to lead them. The party has not met Floxin yet, because he stays out of sight during **Finding Floon**, but a candidate who saw a man like this around the Dock Ward or the Yawning Portal can answer from memory. Davil wants to know where and when they saw him, who was with him, and whether he carried a black flying snake, because Floxin sends his messages by those snakes. Anything the party reports goes into Davil's book as another sighting of the man he thinks is running the other cell. In truth Floxin is Manshoon's field agent, and nothing in this Event reveals it.
+
 > [!qna]**What's the catch?**
 >
 > > "Discretion, mostly. If the Watch takes an interest in you because of something you did for us, we'll help where we can, but we won't march an army to Castle Waterdeep. And the Network remembers who repays what they owe. Istrid especially. You can refuse any job that frightens you, and nobody has been harmed for saying no."
