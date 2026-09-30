@@ -313,6 +313,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
 - **`fireball/ev-01:204`:** Davil calls Floxin "Manshoon's blade", which is ungated.
 - **`gralhund-villa/ev-01`:** **Davil Brief Received** isn't read by s01. It is also a True/False flag.
 - **`gralhund-villa/ev-09`:** "Keep a low profile. I'll be in touch." is presented as a snake message (s01 makes it Tashlyn's closing line). The Istrid Renown changes "if reported to Tashlyn" now happen at the s01 meeting. **Istrid Horn Helped / Turned In** are True/False flags with no DR reader.
+- **Soluun after The Dockside Killer (user note, Session 38):** if Soluun survives M1 (**Soluun Captured** or **Soluun Escaped**), Jarlaxle has to decide what to do about him, most likely throwing him out of Bregan D'aerthe for good. The cover-story disownment becomes real once an agent has killed openly in Waterdeep and been seen doing it. Sea Maidens Faire (arc-h) and the Bregan D'aerthe missions (M4 especially) need a scene or GM note that settles it.
 - **`bregan-daerthe/m04-the-compromised-eye` ev l.37:** Krebbyg calls Soluun "disowned" (it's a cover story) and mentions DR M1 without reading an outcome.
 - **`emerald-enclave` M3:** it names Kelso as a Splinter buyer. DR M3 doesn't use it.
 
