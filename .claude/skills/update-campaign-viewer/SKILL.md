@@ -49,6 +49,8 @@ The result is a single JSON object shaped `{ "pages": { "<relative path>": { "ti
 
 Nothing under `campaign/` is touched by any of this — the output is the artifact alone.
 
+> **Ember styling note:** The template links `ember.css`, which loads fonts and callout frame images from `assets/` by relative URL. The GitHub Pages build (`scripts/build-viewer.py`) relies on `docs/ember.css` and `docs/assets/` sitting beside `docs/index.html`. A single-file Artifact publish will not resolve those relative URLs, so it would need `ember.css` and `assets/` published alongside it (via the Artifact `files` map) or it falls back to the plain inline styling.
+
 ## Reference files
 
 - `references/viewer-template.html` — the HTML/CSS/JS viewer shell; contains a data placeholder that Step 2 replaces with campaign content. Rarely needs modification.
