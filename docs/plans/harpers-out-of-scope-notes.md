@@ -236,3 +236,111 @@ These get wired in when each lair doc is converted to a quest journal.
 4. **OotG M5/M6 pact terms.** Trim the ledger, or let Cassalanter Villa expect a party that already knows the terms?
 5. **BD Contact Severed.** Should it be per reporting PC, or remain a party-wide lockout? Per PC would match individual membership.
 6. **Level gates that contradict readers.** Harper M6 at L7 versus the L6 Vault; Doom Raiders M6 (L7) versus its Kolat Towers Scene 1 reader; Force Grey M6; Emerald Enclave M5 (L6) versus its Faction Outposts readers.
+
+---
+
+## Doom Raiders event rewrite (Session 38)
+
+Session 38 restored the 26 Doom Raiders faction-event files to their first commits. It then rewrote them into finished adventure text and added design notes to the seven folders that lacked them. The user's decisions for that run:
+
+- **Manshoon Named.** Doom Raider speech names Manshoon, and calls Kolat Towers his home, only when this outcome is marked. Until then they say "Floxin's cell", "the other cell" or "the Splinter".
+- **Force Field Gap Intel** moved from M6 to M5.
+- **Yellowspire in M5** is a return visit.
+- **Scope.** Only the event files were rewritten. Everything below was logged and **not fixed**.
+
+This section supersedes the Doom Raiders line numbers in the section above, which refer to the old drafts.
+
+### New outcomes other quests must write or read
+
+- **Faction Outposts (arc-e):**
+  - It must **write Manshoon Named** at the Interrogation House.
+  - It must write **Yellowspire Raided** when 5B is entered, because M5 branches on it.
+  - It should read **Seven Masks Lead** (M1), **Shard Shunners Goodwill** and **Dasher Location Given Up** (M3).
+  - arc-e ~l.121 and ~l.325 say the Seven Masks lead needs no check.
+- **Xanathar's Lair (arc-f:41):** read **Tashlyn Contact** (s01) and **Davil Released** (s02). Today it reads "Mission 4 complete".
+- **Cassalanter Villa (arc-g):** read **Poison Delivered** and **Esvele Warned** (M2) for Esvele's parallel heist. The Black Viper NF page still calls her "Lady Esvele".
+- **Sea Maidens Faire (arc-h):** read **Soluun Captured / Escaped / Killed** (M1). Today only an "if the party killed Soluun" clause exists.
+- **Kolat Towers (arc-i):**
+  - Read **Force Field Gap Intel** (now from M5, not M6; l.43, l.75).
+  - Read **Relay Ledger Recovered**, **Vevette Letters Recovered**, **Yellowspire Alarm Sounded** and **Yellowspire Circle Destroyed**. Scene 2's K22 circle and the Lockdown row assume the circle survives.
+  - Read **Skeemo at Kolat Towers** in place of "survived Gralhund Villa or Faction Outposts" (l.104, l.168), and **Davil Released**.
+  - The ledger's Advantage on the Alert-tier recalibration check and the gap-cycle dusk anchor are M5 inventions to adopt or cut.
+- **Vault of Dragons (arc-j:53, :262):**
+  - Replace "if Mission 6 succeeded" with **Ziraj Survived / Ziraj Fell**, **Splinter Kill Team Broken**, **Splinter Survivor Escaped** and **Splinter Remnant Plan Learned**. The Scene 1/5/6 effects are M6 inventions to match on conversion.
+  - Skeemo appears only if **Skeemo at Kolat Towers**. **Skeemo Exiled / Handed to the Watch / Executed** (s02) keep him away.
+  - **Vault Partnership Agreed** (r50) ties to Scenes 2, 5 and 6.
+  - arc-j's "Tashlyn commits a four-person team at renown 10+" isn't reproduced in the events.
+- **No later reader yet:** **Dasher Silence Bought**, **Snobeedle Walked Away**, **Snobeedle Meeting Brokered**, **Emmek Funding Reported** (M3) and **Council Nomination Accepted / Declined** (r50).
+- **Name collision fixed:** M5's outcome is now **Relay Ledger Recovered**. Order of the Gauntlet M5 keeps **Ledger Recovered**.
+
+### Guides and setting pages
+
+- **`guides/factions/07-doom-raiders.md`:**
+  - It names Manshoon in DR-facing text (l.7, 11, 19, 31, 45–46) and in Earning Renown and Grand Game.
+  - l.11: Davil "suspected Skeemo for months" and Tashlyn "confirmed it during his arrest". In the events, Davil learns at M4 and release.
+  - l.32 and l.71: Ziraj gives the force-field diagram (now M5), and "three" agents remain.
+  - l.33: Skeemo is at the Vault whenever alive.
+  - **Retired format:** **Yagra Courteous** is written as a True/False flag (l.37).
+  - **Mission table:** it lacks an availability column (now Renown 0/3/5/8/10/13).
+  - **Arrest timing:** Tashlyn's first message and the snake are separate deliveries (l.30).
+  - **Davil-assist award:** "any substantive effort" (l.49); s01 gives it once per member per completed approach.
+  - **Rank benefits:** Viper "veteran" muscle, and Ardragon benefits "per quest" versus Appendix B's "per arc".
+  - **Outposts hook:** "two months" of watching Yellowspire.
+- **`setting/organizations/06-doom-raiders.md`:** the arrest comes "after Mission 2" (l.15, l.29); Davil is "always in the taproom" with a lute; and it names Manshoon (l.25, 38, 53).
+- **Notable Figures:**
+  - **Manshoon lines:** Davil, Yagra and Skeemo.
+  - **Featured-in lists:** old "Doom Raiders Mission N — …" names on the Davil, Tashlyn, Skeemo and Kelso pages. Tashlyn's also omits M6, s01 and s02. Yagra's omits the First Meeting and M1.
+  - **Kelso:** Dock Ward and "Spy (wererat)", versus Field Ward and Wererat in Order of the Gauntlet M3 and DR M3.
+  - **Tashlyn:** "uses flying snakes exclusively", but she briefs in person.
+  - **Yagra:** stat block "Thug (with modifications)"; Thug isn't a 2024 name, and r10 uses Warrior Veteran.
+  - **Amath:** "Seccent" on the NF page, "Sercent" in WDH.
+  - **Floxin:** his page omits the Kolat Towers punishment.
+- **GM Guide:** `structural-rules.md:9` has "Manshoon regards the Doom Raiders as deserters". `player-factions-overview.md:186` names Manshoon. `design-notes-running-the-campaign.md:127` calls Heldar a single-scene NPC, but he now appears over two nights.
+- **Other guides:** `guides/factions/09-xanathars-guild.md` gives Korgstrod's crew as three duergar in one place and four in another. `guides/factions/03-lords-alliance.md:68` says *The Archer Above* locates Ziraj, but the LA M4 archer is Vhaspar Holmbridge.
+- **`setting/waterdeep-lore.md`:** Istrid's lending is in the South Ward; the events use her Dock Ward warehouse.
+
+### Act I–II quest journals
+
+- **`finding-floon/ev-01-yawning-portal.md:115`:**
+  - **Yagra Courteous** is still a True/False flag, with "Award Yagra's Courtesy attunement".
+  - There is no failed-peace branch; the DR First Meeting infers one.
+  - Krentz's crew kills the Doom Raider operative, but the page's own visibility note blames the Splinter.
+- **`trollskull-alley/ev-04`:**
+  - The Istrid loan is 400 gp; guide and events say 200 gp.
+  - The Filthy Meg referral isn't carried by the events.
+  - True/False flags remain, including a party-wide **Doom Raiders Joined**.
+  - "When the party joins" is written party-wide.
+- **`fireball/ev-01:204`:** Davil calls Floxin "Manshoon's blade", which is ungated.
+- **`gralhund-villa/ev-01`:** **Davil Brief Received** isn't read by s01. It is also a True/False flag.
+- **`gralhund-villa/ev-09`:** "Keep a low profile. I'll be in touch." is presented as a snake message (s01 makes it Tashlyn's closing line). The Istrid Renown changes "if reported to Tashlyn" now happen at the s01 meeting. **Istrid Horn Helped / Turned In** are True/False flags with no DR reader.
+- **`bregan-daerthe/m04-the-compromised-eye` ev l.37:** Krebbyg calls Soluun "disowned" (it's a cover story) and mentions DR M1 without reading an outcome.
+- **`emerald-enclave` M3:** it names Kelso as a Splinter buyer. DR M3 doesn't use it.
+
+### Source discrepancies resolved in the events
+
+These were resolved one way in the events; check them if the sources are revisited.
+
+| Item | Sources | Events use |
+|---|---|---|
+| Waymoot | Appendix C "small square in the Dock Ward"; WDH southern crossroads | WDH |
+| Dasher's absence | Appendix C 8 months; WDH 6 months | WDH, 6 months |
+| God Catcher height | Appendix C "hundred-foot"; WDH 90 feet | No height given |
+| Kolat Towers ward | WDH Southern Ward; arc-i Trades Ward | arc-i, Trades Ward |
+| Interrogation House ward | arc-i North Ward; arc-e Trade Ward, Brindul Alley | Brindul Alley only |
+| M2 base Renown | Appendix B/C +1 | Guide and brief, +2 |
+
+**Renown 25 and 50 are out of reach on mission base awards.** Base awards total 19 including the join. Guide 07 lists few other sources, and Renown 50 depends on Mad Mage content that doesn't exist yet.
+
+### Invented names and details to accept or replace
+
+- **s01 and s02:** Sergeant Ilmra Dunfell; advocate Corvin Hallowell; the Poplar Walk bench; the kitchen back booth; the salt cog to Baldur's Gate.
+- **M1:** Luskan hirelings; Ship Street watchhouse; Rongquan's surety release.
+- **M2:** Rallygar's lawsuit; Esvele believing the vials loosen tongues.
+- **M3:** Pippa Underbough; Tolliver Greenbottle; Marda Goodbarrel; Tashlyn's 10% cut.
+- **M4:** the new third event *The Reckoning*; the accident score.
+- **M6:** kill-team commander Ondra Kell; Ziraj's modified Assassin numbers.
+- **r03:** Wenna Tarrow and Tarrow's Tallow and Wick, 22 Sail Street.
+- **r10:** the Dusty Ladle; Halric Sennet; Brenna Dolgar; Loria Finch; Odalys Quenn; Brannoc Hale.
+- **r25:** Drell Hask's and Nessa Thorne's crews; informants Wren Tolliver, Bastian Quill and Hesper Lund.
+- **r50:** Toben Ash; the Network Seal; the Council dues.
+- **Minor NPCs** without voice profiles are listed in each folder's design notes.

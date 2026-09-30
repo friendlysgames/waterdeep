@@ -1,37 +1,74 @@
-# Doom Raiders Mission 5 — The Yellowspire Job
+# The Yellowspire Job: Overview
 
-> [!gamemaster]
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> *Doom Raiders Mission 5. Available at Renown 9 and character level 6.*
->
-> Davil Starsong delivers this mission in person — his first in-person briefing since returning from Watch custody. He has pared something away. The warmth is still there; it is just quieter now.
+> This mission is available to an individual Doom Raiders member who has reached Renown 10 and 6th level after **Davil's Return**. Davil Starsong gives the brief in person at the Yawning Portal, with Tashlyn Yafeera standing beside him, and only Doom Raiders members receive it. It reads **Yellowspire Raided** from **Faction Outposts**, **Skeemo at Kolat Towers**, **Skeemo Captured**, **Skeemo Silenced**, **Skeemo Letters Recovered** and **Watch File Opened** from **Silencing Skeemo**, and **Manshoon Named** from the Interrogation House to decide which version of the tower the party meets.
 >
 > #### Difficulty
-> *A mission for 6th-level characters.*
+> *An adventure for 6th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
-
-> [!gamemaster]**Yellowspire and Mission 4**
+> The **Doom Raiders Mechanics Reference** audits the first-visit and reinforced return-visit rosters, the reinforcement wave that arrives ten minutes after the alarm, and the guards posted for each party size. It counts only the combatants who take part, so the number of party members sets the roster and not the baseline.
 >
-> Whether or not Skeemo is currently resident at Kolat Towers, Yellowspire still functions as the Splinter's Trades Ward relay point. The pass-amulet distribution ledger is in the tower regardless of Mission 4's outcome. If **Skeemo at Kolat Towers** is marked, Davil acknowledges it at the briefing: "Skeemo may have flagged us to them when he arrived. Assume they know something is coming." The surveillance phase in the first act should surface whether security has been elevated.
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-Yellowspire is a four-story wizard's tower on Copper Pot Lane in the Trades Ward, currently operating as a private residence for Manshoon's Splinter cell. The teleportation circle on the ground floor connects directly to Kolat Towers. The tower stores the pass-amulet distribution ledger — every Splinter lieutenant who carries a force-field amulet, their rotation schedule, and when each amulet is refreshed. With that ledger, the Doom Raiders will know exactly who to take the amulets from and when. Without a pass-amulet, Kolat Towers' force field stops everything cold.
+## Hook
 
-Davil has been watching the tower for months. He has a diagram of the exterior, the coded knock for the front door, and a cover referral name that Tashlyn cleared. He has not been inside. He needs the ledger, and he needs the agents in the tower to not know it was taken.
+Davil has been out of Castle Waterdeep for some time, and he asks the member to a private room at the Yawning Portal. He wants the ledger that shows who carries a pass-amulet into the other cell's fortress, and Tashlyn wants a set of coded letters that name its strike-team coordinator. Both are kept in a Banite tower in the Castle Ward that the Doom Raiders have watched for two months.
+
+## Background
+
+Yellowspire is a narrow tower of yellowish brick that a Banite priestess named Amath Seccent calls the House of Tyranny. She and her acolytes hold a prayer hour there each dusk, and the tower doubles as a relay for Manshoon's Splinter, with a permanent teleportation circle in a chamber beyond the cellar that connects to Kolat Towers. The circle's runes are keyed to a pressure plate in the northeast corner, and a courier who steps onto the ring without pressing it sends a silent signal to the towers. Amath keeps a ledger of pass-amulet carriers in an iron-bound box beside the circle, and she keeps coded letters from Kolat Towers in a locked drawer upstairs.
+
+If the party ran Yellowspire during **Faction Outposts**, the relay has been rebuilt and reinforced. If Skeemo Weirdbottle escaped through the circle, Amath has been warned. The Doom Raiders believe that Urstul Floxin leads the Splinter, but Manshoon directs Floxin from behind him, and no Doom Raider says the name unless **Manshoon Named** is marked.
+
+## Watching the Tower
+
+The party watches Yellowspire for a day and learns the door protocol, the prayer hour, the hoist door on the outer wall and the night routine. Each finding has two routes to it, so a failed check never leaves a gap.
+
+## Getting In
+
+The party can go in by the coded knock, up the outer wall, or with a false referral to a mercenary named Rorik Halvars. Every approach has several steps, and a failed step costs time and attention without ending the mission.
+
+## The Relay Box and the Desk
+
+The ledger is in a box in the circle chamber, guarded by a pressure plate that sets off a ten-minute clock. The three coded letters are in Amath's desk on the upper level, and she is at the desk except during the prayer hour and deep night. The party chooses which to take and when.
+
+## The Ten-Minute Clock
+
+The circle pulses when the plate is unpressed, or Amath drops a coin in the call bowl, and reinforcements step out of the circle ten minutes later. The party can leave, fight, or wreck the circle and force the Splinter to walk.
+
+## Ziraj's Notes
+
+Davil asks Ziraj to hand his surveillance notes on the Kolat Towers force field to whoever went into Yellowspire. Ziraj and Fala Lefaliir give them to Doom Raiders members at Corellon's Crown.
+
+## Renown Opportunities
+
+Each participating Doom Raiders member gains 4 base Renown for entering Yellowspire and reporting to Davil.
+
+- **+1 Renown:** recover the relay ledger and hand it to Davil.
+- **+1 Renown:** recover the three coded letters and hand them to Tashlyn.
+- **+1 Renown:** leave with no alarm sounded and Agorn Fuoco not escaped.
+
+Each bonus is earned once. Helping companions gain no Doom Raiders Renown.
+
+## Aftermath
+
+Davil holds the ledger, Tashlyn holds the letters, and Ziraj's notes are in the party's hands. **Kolat Towers** reads **Relay Ledger Recovered**, **Vevette Letters Recovered**, **Force Field Gap Intel**, **Yellowspire Alarm Sounded** and **Yellowspire Circle Destroyed**. **Ziraj's Last Hunt** becomes available at Renown 13 and 7th level, and it runs after **Kolat Towers**.
 
 ## Involved Characters
 
-- **Davil Starsong** (Doom Raiders) — delivers the brief in person; has a diagram of the exterior from months of his own surveillance; frames this as "not officially authorized" with precisely the tone of someone who has authorized it
-- **Tashlyn Yafeera** (Doom Raiders) — aware of the operation; supplied the name Rorik Halvars for the referral cover
-- **Two Splinter Spies** (Manshoon Splinter) — on the ground floor; managing communication traffic; they use the coded knock and will ask for a passphrase the party does not have
-- **One Splinter Mage** (Manshoon Splinter) — on the second floor; has *Counterspell* prepared; the locked desk with the ledger is in this room
+- **Davil Starsong** (Doom Raiders): gives the brief in person, receives the ledger and asks Ziraj to share his notes.
+- **Tashlyn Yafeera** (Doom Raiders): supplies the schematics and the cover name Rorik Halvars, and receives the letters.
+- **Ziraj the Hunter** (Doom Raiders) and **Fala Lefaliir** (independent; Fala is Ziraj's friend in the Trollskull Alley community, not a member): hand over the force-field notes at Corellon's Crown.
+- **Amath Seccent** (Manshoon's Zhentarim): a Banite priestess who keeps Yellowspire.
+- **Agorn Fuoco** (Manshoon's Zhentarim): a bard who visits some evenings on a first visit and trades his pass-amulet for his life.
+- **Vevette Blackwater** (Manshoon's Zhentarim): stays at Kolat Towers, and the letters name her as the strike-team coordinator.
 
 ## Dangers & Enemies
 
-Two **Spies** (2024 *Monster Manual*) on the ground floor. One **Mage** (2024 *Monster Manual*) on the second floor with *Counterspell* prepared — she uses it against the first visible spell of 1st level or higher. One sleeping agent in the second-floor cot, combat-capable if woken. Four additional Splinter agents arrive from Kolat Towers ten minutes after the teleportation circle triggers without the floor plate being pressed. If the party is still in the tower at that mark, the exit becomes a fight.
+Amath fights with the 2024 Priest statistics, and her four acolytes use the 2024 Priest Acolyte statistics. Zhentarim guards use the Tough and Warrior Veteran statistics in numbers set by party size and by whether the party has visited before. Reinforcements use the Spy statistics and arrive through the circle ten minutes after the alarm. The pressure plate deals no damage, and the party can avoid every fight by leaving before the clock runs out.
 
 ## Overview
 
-A Manshoon Splinter relay tower in the Trades Ward holds the pass-amulet ledger Davil needs for Kolat Towers. The job is to take it and leave before anyone there realises it is gone.
+The party robs a Banite relay tower for a ledger of pass-amulet carriers, then collects Ziraj's notes on the gaps in the Kolat Towers force field.

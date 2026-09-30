@@ -1,21 +1,21 @@
 # Design Notes: Silencing Skeemo
 
-## The Retrospective Weight of Mission 2
+## The Shape of the Mission
 
-***Mission 4 is Mission 2's reckoning.*** When the party learns that Skeemo has been a traitor since before they were recruited, every interaction they have had with him acquires new meaning. The party that delivered the poison coffer without question now understands that Skeemo logged that delivery and used it to model their compliance. The party that warned Esvele or refused the job did something Skeemo did not predict, which he also logged and flagged as a variable.
+The source mission is a chase followed by a moral test, and the rewrite keeps both. Tashlyn briefs in person, the chase has four distinct states, and every entry route in **The Approach** leads to one of them, so the party's first decision shapes the rest. The Reckoning is a separate Event because it plays as a conversation and a judgment, while the chase is a sequence of checks, and a table has to be able to reach it from three directions: a cornered Skeemo, a delivered Skeemo and an escaped one.
 
-Neither party gets to feel clean about it. The design acknowledges the Mission 2 history without rewarding or punishing based on it alone — it simply puts that history in the room. Tashlyn's briefing in ev-01 explicitly addresses parties who warned Esvele, and just as explicitly does not excuse parties who didn't. The mission is not about blame. It is about what happens when you learn that the person you were couriering for was selling you the whole time.
+The accident is now a mechanic. Tashlyn's three questions (what killed him, who was there, what is missing) each score a point, and the score decides whether the Watch opens a file. This gives "make it look like an accident" something to attempt, and it makes the paper-bird letters and the coin purse into a real trade-off.
 
-The GM should play Davil's return accordingly. He was fond of Skeemo. He does not say this. What he says — "whatever Skeemo knew about your operation is already in Kolat Towers" — is both an honest warning and the closest he comes to admitting that he trusted the wrong person for too long.
+## Departures from the Source
 
-## The Two Chase Paths
+Skeemo's double-agent claim is restored as a test of Insight (DC 18 for partial truth, DC 14 for his fear), and a capture-alive branch now exists, which the source had only as a single closing paragraph. The capture gives Tashlyn a prisoner and, through **Davil's Return**, gives Davil a decision.
 
-***Street chase and rooftop chase are built for different parties.*** The street dray chase asks the party to navigate civilian bystanders and Watch visibility — it rewards restraint and precision, and punishes area effects. The rooftop Fly + Greater Invisibility chase asks the party to solve an information problem: how do you target something you cannot see that is faster than you are.
+The source has Skeemo cast *greater invisibility*, and the Mage does not have that spell. He uses *Invisibility*, and it cannot run alongside *Fly*, which lasts an hour, so the chase makes him land before he vanishes. Yellowspire now sits in the Castle Ward, following the Session 38 decision and WDH, and the old draft's Copper Pot Lane location is dropped. The shop and dray sit on an unnamed Trades Ward side street.
 
-Both paths are winnable. The dray chase is harder to clean up if the party escalates; the rooftop chase becomes nearly unwinnable if the party lacks magical revelation options. The split between them is not random — it tracks the party's entry approach in ev-01. A party that blocked the skylight does not get the dray path. A party that entered through the front door does not get the clean rooftop interception.
+Until **Manshoon Named** is marked, every Doom Raider says "the other cell", "Floxin's cell" or "the Splinter". The truth stays in GM-only blocks.
 
-## Skeemo's Escape as a Kolat Towers Setup
+## Minor Characters and Open Questions
 
-***Skeemo escaping is a designed outcome, not a failure state.*** The mission source explicitly states that if he reaches the circle, he is out of reach until the party can go to Kolat Towers. This is preserved rather than foreclosed. A party that lets Skeemo reach Yellowspire does not simply lose renown — they acquire a **Kolat Towers** complication that changes the tenor of that heist. Skeemo will recognize them on sight and alert his new patron. The party that stopped him is walking into Kolat Towers without that liability.
+The hire-dray's driver, the five commuters, the cooper, the pie seller and the hired Tough have no voice profile or Notable Figures page. They are given a line or none, and the commuters are named by trade only. The Trades Ward constable is referred to but never appears.
 
-The design does not punish the losing party unfairly. **Kolat Towers** is already the hardest heist in the quest sequence. Adding a live hostile who knows the party's faces sharpens that difficulty without making it impossible. The Chase ev file makes this explicit in the Next Steps block so the GM is not managing a surprise at **Kolat Towers**.
+**Skeemo at Kolat Towers**, **Skeemo Captured** and **Skeemo Letters Recovered** are not yet read by the unconverted arc docs, which key Skeemo's presence to earlier quests. The out-of-scope log lists these, along with the knock and plate warning that **The Yellowspire Job** must pick up, the release timing in **Davil's Return**, and the Yellowspire location change in the old M5 draft.

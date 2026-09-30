@@ -1,38 +1,75 @@
-# Doom Raiders Mission 3 — The Missing Snobeedle
+# The Missing Snobeedle: Overview
 
-> [!gamemaster]
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> *Doom Raiders Mission 3. Available at Renown 3 and character level 4.*
->
-> **Note:** Davil is in Watch custody by the time this mission fires. Tashlyn Yafeera delivers the brief by flying snake and handles all contact during this mission.
+> Available to a Doom Raiders member at Renown 5 and 4th level after **The Poisoned Delivery** and **Davil's Arrest**. Companions can join the investigation and the meeting without belonging to the faction.
 >
 > #### Difficulty
-> *A mission for 4th-level characters.*
+> *An adventure for 4th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> The optional fight at the Waymoot uses three ordinary 2024 **Wererats**. The **Doom Raiders Mechanics Reference** audits it for three, four and five participating combatants.
 >
-> #### Prior Acquaintance with Kelso Fiddlewick
-> **Kelso Fiddlewick** leads the Shard Shunners halfling wererat gang. He also appears in OG-M3 (The Shard Shunners) and EE-M3 (The Doppelganger Problem). If the party has run either of those missions before this one, Kelso knows them by face and by how they dealt with his people. His first contact in this mission should reflect that — he may be more open or more guarded depending on what came before.
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-**Dasher Snobeedle** was not lost. He left the Snobeedle family orchard eight months ago, walked into the Dock Ward, found the Shard Shunners, and chose to join them. He was infected with lycanthropy willingly, after two tendays of deliberation. He had not contacted his family and did not plan to.
+## Hook
 
-His mother, **Blossom Snobeedle**, was an experienced druid who had spent eight months believing her son was in danger. She was wrong about the nature of his situation. She was right that she had lost him. She received the party at her orchard in the Undercliff, offered them tea she had been preparing since she saw them coming up the road, and gave them Dasher's belongings and an unsent letter she had read several times already.
+At 17:00 Tashlyn Yafeera meets the eligible members in the wagon yard beside the South Gate, where a flying snake told them to come that morning. Davil is in Castle Waterdeep, the cell needs coin, and the Snobeedle family of the Undercliff has posted a reward of 500 gp for word of a missing son.
 
-The letter did not name a gang or a crime. It described hating the meadery and feeling like the orchard was a sentence rather than a home, and it mentioned an unnamed possibility that nobody there would understand. It also mentioned, without connecting it to anything, that Dasher had always hated silver. Blossom did not understand what that meant. She said it anyway because she wanted them to find him.
+## Background
 
-The resolution was up to the party. Dasher was alive, safe, where he wanted to be, and not going back. Tashlyn would accept a false report. Kelso would remember if the party had dealt with his people fairly. Blossom would come to the Dock Ward herself if the party told her the truth.
+Dasher Snobeedle is the youngest son of Blossom Snobeedle, an old halfling druid who runs the Snobeedle Orchard and Meadery east of the city walls. About six months ago he left home for the Southern Ward, made friends among the halflings there, and met Kelso Fiddlewick, who leads a wererat gang called the Shard Shunners. After two weeks of thinking it over, Dasher asked to be bitten. He is a full member of the gang now and has no wish to go home.
+
+Kelso's people know Waterdeep's back streets better than the Watch does, and the Shunners have taken other work while Dasher has been with them. Emmek Frewn borrowed 150 gp from Istrid Horn and spent 50 gp of it on Kelso's gang, who spent that time making trouble for the party's tavern on Trollskull Alley. Dasher was one of the four Shunners on that job, and he remembers that Istrid's collectors sat in on the hiring.
+
+Blossom has posted notices at the market by the Waymoot and at the Yondalla shrine on Larkhaven Street. The halflings of the Southern Ward know where Dasher is, and they will not tell strangers who might drag him home. Tashlyn knows none of this. She sees five hundred gold that the Doom Raiders could use while Davil is away.
+
+## The Brief
+
+Tashlyn gives the members the job in the wagon yard, standing, in as few words as she can manage. She wants the reward, she wants the Watch kept out of it, and she does not say please. Companions wait at the yard gate.
+
+## The Orchard
+
+An optional visit to the Snobeedle Orchard lets the party hear Blossom's account, see a portrait of Dasher and learn that he grew ill at the sight of silver. Blossom half suspects what became of her son. She asks for a letter in his own hand and will pay 500 gp for it or for seeing him.
+
+## Three Days in the Southern Ward
+
+The party spends three days among the Southern Ward's halflings, at the market by the Waymoot, the Yondalla shrine on Larkhaven Street and the rooms above a cooperage. Each place offers a way to earn the ward's trust and a way to force the issue, and all three end at the same conclusion: Dasher is with the Shard Shunners, and the ward will pass the party's request to Kelso Fiddlewick. On the evening of the third day a check arranges the meeting, and a fallback keeps it from failing outright.
+
+## The Waymoot at Highsun
+
+Dasher arrives at the Waymoot with Kelso and a second Shunner keeping their distance. He is calm and cheerful, and he offers the party 200 gp from the gang's communal fund to report that they could not find him. He also volunteers, without conditions, that Emmek Frewn's money came from Istrid Horn.
+
+## What the Party Decides
+
+The party can claim the reward by telling Blossom where Dasher is, and can make that easier by persuading Dasher to meet her. It can take his 200 gp and report that he was not found. It can also refuse every offer and walk away. Each choice changes how Blossom, Kelso and Tashlyn treat the party afterwards.
+
+## Istrid's Ledger
+
+The party can take Dasher's claim to Istrid Horn at her Dock Ward warehouse. She confirms the loan, admits her collector told her about the hiring, and sees no reason to apologise for it.
+
+## Renown Opportunities
+
+Each participating Doom Raiders member gains 3 base Renown for arranging the meeting and reporting to Tashlyn. Bonuses of +1 each go to members who keep the Watch out of it, who broker a meeting between Dasher and Blossom, and who report Dasher's news about Emmek Frewn's money.
+
+## Aftermath
+
+Blossom Snobeedle ends the mission either with news of her son or without it, and the Doom Raiders either hold her 500 gp or do not. Kelso Fiddlewick remembers how the party dealt with Dasher and holds it against them or in their favour. The Network learns whose money paid for the trouble on Trollskull Alley. **Silencing Skeemo** becomes available at Renown 8 and 5th level.
 
 ## Involved Characters
-- **Tashlyn Yafeera** (Doom Raiders) — delivers the brief by flying snake; the note uses "recovered" as if Dasher is an object; she does not explain the word choice
-- **Blossom Snobeedle** (independent) — Dasher's mother; an experienced druid who has spent eight months believing her son is in danger; she is right that she has lost him and wrong about the nature of his situation
-- **Dasher Snobeedle** (Shard Shunners) — the missing son; nineteen years old; chose the gang and the lycanthropy willingly; is not going home
-- **Kelso Fiddlewick** (Shard Shunners) — the gang's leader; scarred jaw; has already spoken to Dasher about this possibility; will arrange a meeting but not force one
+
+- **Tashlyn Yafeera** (Doom Raiders): briefs the members and takes their report, and wants the reward without trouble from the Watch.
+- **Blossom Snobeedle**: Dasher's mother, an old druid who runs the family orchard and pays the reward.
+- **Dasher Snobeedle** (Shard Shunners): the missing son, a wererat by choice, who will not go home.
+- **Kelso Fiddlewick** (Shard Shunners): the gang's leader, based in the Field Ward, who keeps every bargain and remembers every slight.
+- **Brynn Hilltopple** (Shard Shunners): Kelso's second at the Waymoot, who watches the party's hands.
+- **Pippa Underbough**, **Tolliver Greenbottle** and **Marda Goodbarrel**: the Southern Ward halflings who decide whether the party gets to Kelso.
+- **Istrid Horn** (Doom Raiders): the lender whose money paid the Shunners.
 
 ## Dangers & Enemies
-No combat unless the party provokes Kelso's gang directly. The Shard Shunners are eight halfling wererats and they do not want a fight — they want the party to deal with this fairly and leave. Kelso's patience is substantial. The mission's difficulty is moral, not martial.
+
+No combat unless the party attacks Dasher or tries to carry him off. In that case three 2024 **Wererats** in halfling form fight until a Shunner falls, the party offers terms or a Watch patrol arrives, and then they leave across the rooftops. The mission's difficulty lies in the decision, and the Watch is the real danger.
 
 ## Overview
 
-A flying snake from Tashlyn arrived at Trollskull Manor with three tight lines: investigate a missing halfling named Dasher Snobeedle, a Undercliff family offering 500 gp for information, money goes to the Network. Find him, and decide what to tell his family.
+A wealthy halfling family is offering 500 gp for news of their missing son. The party searches the Southern Ward for him and decides what to tell his mother.

@@ -1,17 +1,17 @@
 # Design Notes: The Yellowspire Job
 
-## Yellowspire as a Practice Heist
+## A Return Visit and Two Rosters
 
-***Mission 5 is structural preparation for Kolat Towers.*** The three-entry-approach format, the time clock, the concealed floor plate, the combat option if the clock expires — all of it is a scaled-down version of what **Kolat Towers** asks for at a higher threat level. A party that ran Yellowspire cleanly arrives at Kolat Towers with one operational rehearsal behind them. A party that triggered the circle and fought their way out still succeeded, but they know the cost of a failed stealth approach in that format.
+The draft put Yellowspire in the Trades Ward on an invented Copper Pot Lane and gave it four stories. The tower is a Castle Ward building in the original adventure and in **Faction Outposts**, with a ground level, an upper level, a cellar and a circle chamber beyond it. A party that ran the Faction Outposts raid meets a rebuilt relay with a second plate, a second lock and more defenders, and a party that did not meets the arc-e layout. Both rosters come from the **Doom Raiders Mechanics Reference**, which sets acolyte and Spy counts by party size so the mission stays a heist and the fight is a cost, not a requirement. Amath is the Priest, so no first-turn knockout risk applies, and guards scale the fight by party size.
 
-The decision to treat the ten-minute clock as its own section rather than a conditional note inside the entry scene is intentional. The clock is the mission's primary dramatic engine, and it should be handled accordingly — announced clearly when the trigger fires, tracked openly at the table, and resolved at the table rather than forgotten.
+## The Plate, the Coin and the Clock
 
-## Vevette Blackwater and the Dual Intelligence Thread
+The old ten-minute clock started when someone stepped into the circle, and nothing gave a party a reason to do that. The plate now guards the ledger box, so a party that wants the ledger has to deal with it, and Amath's call bowl gives the defenders a way to start the clock on purpose. The clock can be stopped only by wrecking the circle, which costs the party the Yellowspire entry to **Kolat Towers**, and the plate is a small rehearsal of the pressure plate that guards the sanctum foyer there. The plate check is Wisdom (Perception), and every hint has a fallback, because the trap is meant to be found and not to punish.
 
-***The correspondence letters do two things.*** They confirm what Tashlyn already suspected from Skeemo's paper birds, adding corroboration from a second independent source. And they name Vevette Blackwater's operational function — coordinating strike team deployments — which means Tashlyn now knows who to target in **Kolat Towers** to disable its response capability. This is the intelligence pipeline the Doom Raiders have been building across four missions: Skeemo's paper birds in Mission 4 point at a name, and the correspondence letters in Mission 5 confirm what that name does. By the time **Kolat Towers** begins, the Doom Raiders have a clearer picture of that building's command structure than any other faction.
+## Force Field Gap Intel Moves Here
 
-## The Floor Plate
+**Ziraj's Last Hunt** now runs after **Kolat Towers**, so the gap diagram cannot wait for it. Ziraj hands over the notes at Corellon's Crown after the job, and Davil's order to him covers a party that comes back with nothing, so the intel never depends on success. The dusk anchor for the gap cycle is an addition of this mission. The **Kolat Towers** quest gives the cycle, the 60-second windows and the 30-minute Alert shift, and it should keep the dusk anchor or replace it.
 
-***The trap exists to be found, not to punish.*** The concealed floor plate is detectable at DC 13 — a reasonable check for 6th-level characters with Investigation proficiency. The design does not assume the party misses it; it assumes the party may miss it, and provides the ten-minute clock as the consequence rather than an instant failure state. A party that does miss the plate has ten minutes to complete the objective and exit, which is tight but not impossible. The agents who arrive are a fight, not a wipe.
+## Departures and Pointers
 
-The plate also serves a secondary purpose: it models the kind of security Kolat Towers uses. A party that encounters a concealed trigger mechanism at Yellowspire and recognizes the pattern arrives at Kolat Towers already thinking about what pressure plates might mean in that context.
+Agorn Fuoco's one-in-three chance is replaced by a fixed rule, and he never fights and is not statted. The amulet hook now names Avareen Windrivver, Agorn and the Kolat Towers field crews as carriers, matching the three captured-amulet sources in the **Kolat Towers** quest. **Ledger Recovered** is renamed **Relay Ledger Recovered** because the Order of the Gauntlet already uses the old name. Contradictions in other files, including the Trades Ward wording in the **Silencing Skeemo** draft, belong in the Doom Raiders section of the out-of-scope notes and are not fixed here.
