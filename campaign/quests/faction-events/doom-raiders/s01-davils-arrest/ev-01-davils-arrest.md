@@ -81,7 +81,7 @@ Any character who looks around the taproom and makes a successful DC 12 Wisdom (
 
 ### The Bench on the Poplar Walk
 
-Tashlyn Yafeera has kept the Doom Raiders' arms and mercenaries running for years from a post at the South Gate, and she has run the cell for one day. Any member who reaches the bench on Ches 28 finds her already there, standing.
+Tashlyn Yafeera has kept the Doom Raiders' arms and mercenaries running for years from a post at the South Gate, and she has run the cell for two days. Any member who reaches the bench on Ches 28 finds her already there, standing.
 
 > [!readaloud]
 >

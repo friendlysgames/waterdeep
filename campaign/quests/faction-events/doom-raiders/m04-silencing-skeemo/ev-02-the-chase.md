@@ -9,7 +9,7 @@
 > - Trap him in an alley or on a roof and force the double-agent offer in **The Reckoning**.
 > - Lose him at the door of Yellowspire, which sends him to Kolat Towers.
 >
-> The chase has four states, and the previous Event's table decides which one the party starts in. Each state ends in another state, in **The Reckoning**, or in Skeemo's escape.
+> The chase has five states, and the previous Event's table decides which one the party starts in. Each state ends in another state, in **The Reckoning**, or in Skeemo's escape.
 
 > [!gamemaster]**Where the Chase Can Go**
 >

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs when an individual Doom Raiders member reaches Renown 50, which usually happens during **Dungeon of the Mad Mage**. Davil Starsong waits for the member at the Yawning Portal and takes them up to his third-floor suite, where the inner circle has gathered. In this Event, the member can:
+> This Social Event occurs when an individual Doom Raiders member reaches Renown 50, which usually happens during **Dungeon of the Mad Mage**. Davil Starsong waits for the member at the Yawning Portal and takes them up to his curtained room on the second floor, where the inner circle has gathered. In this Event, the member can:
 >
 > - Learn how to send the Network's pool of eight operatives on one major operation.
 > - Claim a safe house in any ward of Waterdeep.
@@ -33,7 +33,7 @@ Davil does not send a flying snake. On every evening after the member reaches Re
 
 > [!readaloud]
 >
-> Davil's suite on the third floor is a long room under the eaves, with a table down the middle that would seat six and lamps hanging from the rafters. Istrid Horn sits at the near end with a small ledger shut in front of her and both hands flat on top of it. Tashlyn stands beside the window with her arms crossed, and Yagra Stonefist leans against the door frame with her red jade pendant hanging outside her armour. One chair along the side of the table has been pushed in square to the wood, and Davil goes to the head of the table and waits until you have all found a place.
+> Davil's curtained room on the second floor is a long room, with a table down the middle that would seat six and lamps hanging from the rafters. Istrid Horn sits at the near end with a small ledger shut in front of her and both hands flat on top of it. Tashlyn stands beside the window with her arms crossed, and Yagra Stonefist leans against the door frame with her red jade pendant hanging outside her armour. One chair along the side of the table has been pushed in square to the wood, and Davil goes to the head of the table and waits until you have all found a place.
 >
 > > "Five of us started this, back when we were walking into dungeons for coin. Istrid, Tashlyn, Skeemo, Ziraj and me. Yagra came along later, and she made us better. I want to say something about the five before I say the rest."
 
