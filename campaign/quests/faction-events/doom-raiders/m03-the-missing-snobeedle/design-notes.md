@@ -1,21 +1,23 @@
 # Design Notes: The Missing Snobeedle
 
-## Kelso Fiddlewick Cross-Faction Note
+## Three Answers and No Rescue
 
-***Three missions, one gang leader.*** Kelso Fiddlewick leads the Shard Shunners in three separate faction missions: OG-M3 (The Shard Shunners), EE-M3 (The Doppelganger Problem), and this mission. Each mission approaches him from a different angle. In OG-M3, the Order of the Gauntlet asks the party to investigate the gang. In EE-M3, the Emerald Enclave's mission creates a different kind of intersection. In DR-M3, the Doom Raiders send the party to find someone Kelso is already sheltering.
+Missing-person jobs usually cast the party as rescuers. Dasher is not lost and is not in danger, so the mission asks what the members do with knowledge that two parties want to use in opposite ways. The source gives three choices, and each is written out in full: claim the reward against his wishes, take his 200 gp and say nothing, or refuse both. The restored draft added a false report that Dasher was dead, a cure by *Remove Curse* and a fourth "honest report" path. Those were dropped because they answered the dilemma for the party instead of leaving it open.
 
-A party that has run OG-M3 or EE-M3 before this mission has already met Kelso. The DR-M3 source text is explicit about this: the Aftermath notes that "if the party has also worked with the Order of the Gauntlet, they have met him twice, in different capacities, and he has noticed." The Background block for this mission preserves that expectation. The GM should bring the prior encounter into Kelso's first exchange — not with an explanation or recap, but with the recognition that someone shows when they already know how someone operates.
+The one addition is the brokered meeting. It rewards a party that finds a way to serve Blossom's wish for a letter and Dasher's wish to stay, and it costs a real check and a visit to the orchard. It is the only route that pays the Network and leaves nobody hostile, which is why Tashlyn, who cares about neither the family nor Dasher, still gives it a bonus.
 
-The convergence is designed rather than accidental. Kelso is the party's clearest window into the Dock Ward's informal economy. Across three different faction missions, he accumulates a picture of the party that no single mission could build. By the time **Faction Outposts** involves the Dock Ward outposts, a party that dealt fairly with the Shard Shunners has an asset they earned through repeated behavior, not a single diplomatic check.
+## Tashlyn's Brief and the Southern Ward
 
-## Dasher's Choice as a Design Problem
+This mission runs after **Davil's Arrest**, so Tashlyn briefs it, and she briefs the way her profile does: standing, short and never asking. The Notable Figures page says she communicates by flying snake, but her sample lines and the arrest event have her meeting members in person. This mission does both: a snake sets the hour, and she gives the brief at the South Gate.
 
-***Missing persons missions are usually rescue missions.*** The source design intentionally subverts this. Dasher is not missing and is not in danger, and the mission does not reward the party for treating him as though he is. The four resolution paths are ordered from most honest to least, and the renown reflects this: the false report qualifies for the base 500 gp payment and nothing more, while honest resolution awards supplementary renown. Tashlyn's silence on the brokered meeting is the closest she comes to approval.
+The three days in the Southern Ward restore the source's community investigation, which the earlier draft had replaced with three Dock Ward leads to a tavern. Each lead ends at the same fact, so a party that cannot win over one of them still reaches Kelso. The DC 18 check with a DC 14 fallback for rapport is preserved, and the fallback for a failed check keeps the meeting from being lost. The source places the Waymoot in the Dock Ward, but the Waymoot is the crossroads in the south of the city, so the meeting is set there.
 
-The lycanthropy cure option is preserved and genuinely available — Dasher will consent if the argument is made correctly — but the skill check is high and the framing requirement is strict. A party that approaches the cure as Blossom's wish rather than Dasher's option fails the check because Dasher can read the framing. This is intentional. The mission is about whether the party acts in Dasher's interest or the family's.
+## Dasher's Payoff and the Money
 
-## Blossom's Silver Detail
+The source ends on Dasher's remark that Emmek Frewn is bankrolled by Istrid Horn. The restored draft dropped it entirely. Here it becomes a real revelation: Istrid lent Emmek 150 gp, Emmek spent 50 gp of it on the Shunners, and Istrid's collectors sat in the room. The Doom Raiders' own money paid for the trouble on Trollskull Alley, and Istrid let it happen because a borrower who spends keeps borrowing. She did not order it. Members can raise it with Istrid or Tashlyn, and it earns a bonus if they do.
 
-***One detail the party can know that Blossom cannot.*** Blossom's mention of Dasher's silver sensitivity is the single piece of information in the mission that she does not understand and the party can. Any character who knows basic information about wererats understands immediately what it means. This creates a brief moment of asymmetry — the party knows something the grieving mother does not, before she finishes the sentence.
+Kelso Fiddlewick appears in two other faction missions and in **Trollskull Alley**. He is voiced to his profile and placed in the Field Ward as **The Shard Shunners** has him. That mission's outcomes change how he greets the party, but this mission does not spend his one-use favour from it.
 
-This asymmetry is not dramatized in the text. It does not need to be. The moment is available to the players to sit with and to act on or not act on. The mission trusts the table to handle it.
+## Out-of-Scope Notes
+
+Minor NPCs without voice profiles, voiced from the event text: Blossom Snobeedle, Dasher Snobeedle, Brynn Hilltopple, Pippa Underbough, Tolliver Greenbottle and Marda Goodbarrel. Contradictions with files outside this folder are left unedited and listed for the Doom Raiders section of the out-of-scope notes: the Notable Figures pages place Kelso in the Dock Ward and give him a Spy stat block; **Trollskull Alley** carries a different loan amount for Emmek; the source and the Emerald Enclave text disagree on how long Dasher has been gone; and **Faction Outposts**, which is unconverted, is named as the reader of **Shard Shunners Goodwill** and **Dasher Location Given Up**.
