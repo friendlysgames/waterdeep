@@ -119,46 +119,46 @@ Thresholds:
 
 ## 4. M5 The Yellowspire Job (level 6, Tier 2)
 
-Mage CR 6 = 65; Priest Acolyte CR 1/4 = 6 (unverified; see below); Spy CR 1 = 17; Warrior Veteran CR 3 = 30. Party Power 105 / 140 / 175. Bruising budget 63 / 84 / 105; Bloody 78.75 / 105 / 131.25.
+Amath Seccent is the **Priest** (her NF page), so there is no Mage at Yellowspire and no invented caster. Power (Tier 2): Priest CR 2 = 23; Priest Acolyte CR 1/4 = 6; Tough CR 1/2 = 12; Spy CR 1 = 17; Warrior Veteran CR 3 = 30. Party Power 105 / 140 / 175. Bruising budget 63 / 84 / 105; Bloody 78.75 / 105 / 131.25.
 
-**Draft roster as written** (Mage + 3 Spies on the two floors = 116 Power; reinforcement wave of 4 Spies = 68):
+Stat blocks (XMM):
+- **Priest** (Amath): CR 2, AC 13, 38 HP, Multiattack two attacks (Mace +5, 6 bludgeoning + 5 radiant; Radiant Flame +5, 11 radiant, range 60). *Spirit Guardians* 1/day; Divine Aid 3/day (*Bless*, *Dispel Magic*, *Healing Word*, *Lesser Restoration*). Two attacks deal about 22, so no first-turn KO and no CR adjustment. *Spirit Guardians* and *Dispel Magic* are her tricks; she has no *Counterspell*.
+- **Priest Acolyte:** CR 1/4, AC 13, 11 HP, Mace +4 (5 + 2 radiant), Radiant Flame +4 (7, range 60), Divine Aid 1/day (*Bless*, *Healing Word* or *Sanctuary*).
+- **Spy:** CR 1, AC 12, 27 HP, one attack (Shortsword or Hand Crossbow, 5 piercing + 7 poison), Cunning Action.
+- **Tough:** CR 1/2, AC 12, 32 HP, Pack Tactics. **Warrior Veteran:** CR 3, AC 17, 65 HP, two attacks, Parry.
+- **Agorn Fuoco:** see below.
 
-| PCs | Wave 1 % lost | Wave 2 % lost | Costs |
-|---|---|---|---|
-| 3 | 122% Overwhelming | 41.9% Bloody | 13 + 6 |
-| 4 | 68.7% Brutal | 23.6% Bruising | 8 + 4 |
-| 5 | 43.9% Bloody | 15.1% Mild | 6 + 2 |
+Method: Wave 1 is everyone in the tower fighting together (worst case; a stealth approach splits them). Wave 2 is the ten-minute Spy wave. Whole-mission % is the sum of the two wave percentages (my heuristic, not a skill rule). Padding is Splinter guards, not casters.
 
-Verdict: overwhelming at 3 PCs if the floors ever fight together, and the wave is a fixed size regardless of party. The mission is a stealth heist, so the floors should fight separately; the sizing below assumes the worst case.
+**Draft roster is obsolete.** Amath + four acolytes alone is Power 47: 20.0% / 11.3% / 7.2% for 3 / 4 / 5 PCs, which is Mild at 4-5 PCs, so guards are needed.
 
-**Recommended (standard visit, acolytes replace the sleeping agent):**
+**Standard first visit (Bruising overall):**
 
 | PCs | Wave 1 | Power | % lost (cost) | Wave 2 (10-minute clock) | Power | % lost (cost) | Whole mission |
 |---|---|---|---|---|---|---|---|
-| 3 | Mage + 1 Priest Acolyte | 71 | 45.7% Bloody (6) | 2 Spies | 34 | 10.5% Mild (2) | about 56%, cost 8 |
-| 4 | Mage + 2 Priest Acolytes | 77 | 30.3% Bruising (4) | 3 Spies | 51 | 13.3% Mild (2) | about 44%, cost 6 |
-| 5 | Mage + 4 Priest Acolytes | 89 | 25.9% Bruising (4) | 4 Spies | 68 | 15.1% Mild (2) | about 41%, cost 6 |
+| 3 | Amath + 4 Acolytes | 47 | 20.0% Bruising (4) | 2 Spies | 34 | 10.5% Mild (2) | about 30.5%, cost 6 |
+| 4 | Amath + 4 Acolytes + Tough | 59 | 17.8% Mild (2) | 3 Spies | 51 | 13.3% Mild (2) | about 31.1%, cost 4 |
+| 5 | Amath + 4 Acolytes + Tough + Warrior Veteran | 89 | 25.9% Bruising (4) | 3 Spies | 51 | 8.5% Mild (2) | about 34.4%, cost 6 |
 
-**Reinforced return visit (Faction Outposts 5B ran):**
+**Reinforced return visit (Faction Outposts 5B ran; Standard to Hard overall):**
 
-| PCs | Wave 1 | Power | % lost (cost) | Wave 2 | Power | % lost (cost) | Whole mission |
+| PCs | Wave 1 | Power | % lost (cost) | Wave 2 (10-minute clock) | Power | % lost (cost) | Whole mission |
 |---|---|---|---|---|---|---|---|
-| 3 | Mage + 2 Priest Acolytes | 77 | 53.8% Bloody (6) | 3 Spies | 51 | 23.6% Bruising (4) | about 77%, cost 10 |
-| 4 | Mage + 4 Priest Acolytes | 89 | 40.4% Bloody (6) | 4 Spies | 68 | 23.6% Bruising (4) | about 64%, cost 10 |
-| 5 | Mage + 4 Priest Acolytes + Warrior Veteran | 119 | 46.2% Bloody (6) | 5 Spies | 85 | 23.6% Bruising (4) | about 70%, cost 10 |
+| 3 | Amath + 4 Acolytes + Tough | 59 | 31.6% Bruising (4) | 3 Spies | 51 | 23.6% Bruising (4) | about 55.2% Bloody, cost 8 |
+| 4 | Amath + 4 Acolytes + Tough + Warrior Veteran | 89 | 40.4% Bloody (6) | 3 Spies | 51 | 13.3% Mild (2) | about 53.7% Bloody, cost 8 |
+| 5 | Amath + 4 Acolytes + 2 Tough + Warrior Veteran | 101 | 33.3% Bruising (4) | 4 Spies | 68 | 15.1% Mild (2) | about 48.4% Bloody, cost 6 |
 
-Cost 10 sits between Draining (9) and Debilitating (12) on the fatigue table. Agorn Fuoco (one-in-three per arc-e) is a named NPC; his stats are not set here. If he appears, remove the Veteran and one Spy per Power swapped, and stat him through boss-design or as a Mage.
+Cost 8 sits between Taxing (6) and Draining (9) on the fatigue table. The 3-PC reinforced version is the harshest; run the two floors separately and it plays as Standard.
 
-Stat blocks (XMM): Priest Acolyte CR 1/4, AC 13, 11 HP, Mace 5 + 2 radiant, Radiant Flame 7 (range 60), Divine Aid 1/day (*Bless*, *Healing Word* or *Sanctuary*). Spy CR 1, AC 12, 27 HP, one attack (Shortsword or Hand Crossbow, 5 piercing + 7 poison), Cunning Action; no Multiattack. Mage per section 3.
-
-First-turn KO: a Mage that opens with three Arcane Bursts can KO a squishy 6th-level PC (CR 10, Power 95). Wave 1 under that assumption is 101 / 107 / 119 for 3 / 4 / 5 PCs (after swapping 65 for 95 and keeping the recommended acolytes), or 92.5% / 58.4% / 46.2%. The rosters above assume the draft's behaviour (Counterspell on the first spell, then fall back to the circle and raise the alarm). If she fights, drop one acolyte per size.
+**Agorn Fuoco.** His NF page gives the stat block as "Bard", but no Bard record exists in the XMM extract I was given and I cannot confirm one in the 2024 *Monster Manual*, so the stat block is **unverified**. Treat it as a named swap: use **Mage Apprentice** (XMM, CR 2, AC 15, 49 HP, Power 23; *Disguise Self*, *Ice Knife*, *Thunderwave*, *Mage Armor*) re-flavoured with musical cantrips, or the Spy block if you want him slippery. Whether he fights: no. His NF page says he flees immediately and trades information when caught, so he is an objective, not a combatant. He appears on first visits only, working hours after dusk. If you add him as a combatant anyway, remove one Tough or Acolyte per 12-23 Power he adds so the totals above hold. His pass-amulet is what a capture yields.
 
 Thresholds:
 - Acolytes flee or yield when the first ally falls or at half HP.
-- The Mage uses Protective Magic (*Counterspell*, 3/day shared with *Shield*) on the first visible spell, then falls back toward the circle; she yields at 1/4 HP (about 20) and will not use the circle while the party is adjacent.
+- Amath uses *Dispel Magic* on the first lingering party spell and *Spirit Guardians* when two or more party members are within 15 feet, calls her acolytes to position, and yields at 1/4 HP (about 10). She will not leave the tower; the circle is in it, so she holds the ground floor rather than fleeing through it.
+- Guards (Tough, Warrior Veteran) fight until Amath yields, then surrender.
 - Wave 2 Spies disengage once two of them are down or the ledger holder has left the building.
-- Clock trigger: the wave arrives ten minutes after anyone steps into the circle without pressing the northeast plate, or after the Mage raises an alarm.
-- Non-combat routes: coded knock, rooftop, referral cover (draft).
+- Clock trigger: the wave arrives ten minutes after anyone steps into the circle without pressing the northeast plate, or after Amath or an acolyte raises an alarm.
+- Non-combat routes: coded knock, rooftop, referral cover (draft); a Banite bluff also works on Amath.
 
 ## 5. M6 Ziraj's Last Hunt (level 7, after Kolat Towers, Tier 2)
 
@@ -259,4 +259,5 @@ Checked against the 2024 *Monster Manual* (XMM) and *Player's Handbook* (XPHB) r
 | *Greater invisibility* | Verified | 1 minute, Concentration; a named swap for the Mage's *Invisibility*. |
 | Scout weapon | Verified | Longbow, not shortbow; the hand crossbow is a swap. |
 | Assassin attacks | Verified | Three attacks per Multiattack; no Assassinate. First-turn KO applies. |
-| Agorn Fuoco | Not statted | Named NPC, out of scope here. |
+| Priest (Amath) | Verified (XMM) | CR 2, AC 13, 38 HP, *Spirit Guardians* 1/day, Divine Aid 3/day. No *Counterspell*. |
+| Agorn Fuoco "Bard" | **Unverified** | No Bard record found in XMM; Mage Apprentice (CR 2) offered as a named swap. He does not fight. |
