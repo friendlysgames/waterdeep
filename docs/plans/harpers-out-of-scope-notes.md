@@ -82,3 +82,36 @@ Base: `campaign/quests/faction-events/bregan-daerthe/`. **R1:** clean, with no M
   - r03:15 and r10 call **Three Nights** "Mission 4". It is Mission 3.
   - The coin-pouch timing disagrees between m02 ev-01:187, s01/m03 ev-01:196 and 00-first-meeting:194.
   - r03, r10, r25, r50 and s01–s04 still use retired blocks (`> **[GM]**`, `[!design]`, `[!profile]`, `[!dialogue]`, …) and `True / False` flags.
+
+## Force Grey
+
+Base: `campaign/quests/faction-events/force-grey/`.
+
+- **m01-consulting-hlam** — R1 V (the worst Force Grey leak). The mission is available from Renown 0 and L2. Hlam tells the party "An archmage thought dead has returned. He is rebuilding…" and the GM note says "He means Manshoon" (ev-01:80–82). Vajra "hears the Manshoon warning first" (:101) and afterwards "knows… Manshoon's Splinter is actively rebuilding" (:118, :122). The Overview and Summary name it too (:128, :132; overview:18, :32). The mission also contradicts itself: :10 says the DC 15 answer names Manshoon, :82 says he won't confirm the name, and design-notes:13 says failure gives "only the Manshoon-shape answer". Fix: Hlam senses a wrongness shaped like the city's old Zhentarim, without naming Manshoon or anything about his return.
+- **s01-the-full-picture ev-01:19, :62** — R1 T. Vajra has "known an archmage operated [at Kolat Towers] since Hlam's first report". That contradicts M1 and gives her the base before **Kolat Towers**. The event fires after the first lair heist. :33 is fine.
+- **s01 ev-01:63, :69, :72** — R2 M. Vajra's scrying finds "binding circles of significant scale" under the villa. The Cassalanter Rule block limits it, but check that it can't be read as summoning knowledge.
+- **s01 ev-01:13, :101, :107** — R3 M. "The party earns +2 renown", which contradicts :45.
+- **m06 (Renown 14, L7)** — R1 T, plus an internal contradiction. L7 implies Kolat Towers is done, yet the text treats the captured agent's "Kolat Towers. Manshoon personally directed the operation." as new (ev-01:63; overview:33) and Kolat Towers as still ahead (:85). Vajra's readaloud at :102 says "a Manshoon Splinter asset". GM tags are at :9, :18, :22, :54 and overview :16, :21. Fix: settle the gate and write to it.
+- **m06 ev-01:14, :79, :82; overview:35** — R3 M. Commander commissions go to "the party".
+- **m04 ev-02:86, :102** — R3 M. "A written commission for each member of the party… full status".
+- **00-first-meeting ev-01:14, :90–95, :110–111, :121, :125** — R3 M. The decline and **Force Grey Offer Closed** logic is party-wide. :104 is correctly per character.
+- **r03:67, r10:77, r50:10–11, :87, :138** — R3 M. Personal rank benefits are written as the party's. r50:120 names Manshoon, which is fine in the Mad Mage era.
+- **Not rule issues:** Vajra's alignment and origin disagree between files (Lawful Neutral and Calishite in the First Meeting and M2, Neutral and Tethyrian in M3 and M4). The rank events, s01/s02, m05 and m06 still use retired blocks and True/False flags.
+
+## Order of the Gauntlet
+
+Base: `campaign/quests/faction-events/order-of-the-gauntlet/`.
+
+- **m01 ev-01:55, :115 (speech), :23, :106 (GM)** — R1 V. At Renown 0 and L2, Savra keeps "the Manshoon file". Fix: "the Splinter file". The GM tags at overview :20 and :23 are fine.
+- **m02 ev-02:8–11, :62–64, :117** — R2 T (minor). At L3, the Order formally files that "an infernal creature was deployed to watch Trollskull Manor", and **Imp Captured** is read by **Cassalanter Villa**. The text keeps this at suspicion ("They do not say who bound it"), but it is an official record.
+- **m04 ev-01:135–158** — R2 is legitimate here: it is the discovery beat at L5, and it matches arc-e l.475. **:193** (Summary: "We have the grounds now") contradicts Savra's ruling at :158.
+- **m05 ev-01:129, :17–21; overview:9** — R2 T. The ledger reveals the Asmodean soul-bargain, its twelve acts, the Founders' Day deadline and the Reckoning *before* **Cassalanter Villa**. Arc-e l.475 reserves the pact's terms and the deadline for the villa. **:154–156**: Savra's petition makes the Lords and the Halls of Justice holders of the contract's documentation before the villa. Fix: trim the ledger reveal, or update arc-e and Cassalanter Villa to expect it.
+- **m05 :171 vs m06 overview:6** — M6 "follows Cassalanter Villa", but M5 lets it run "concurrently if the party delays the heist".
+- **m06 overview:14, :20, :29; ev-01:17, :28** — R2 T. This is the Session 32 lead about "Victoro's infernal patron" and its "contractual counterpart". Savra's readaloud reports a petition from "Lord Victoro's contractual counterpart". That's fine after the villa, but it leaks if M6 runs concurrently. The rider mechanics have no discovery beat. Fix: hard-gate M6 after Cassalanter Villa, and keep the rider in GM text. **ev-01:152–173**: **Order Recognized** is "read by Cassalanter Villa", which can't happen if M6 follows the villa.
+- **m06 ev-01:135–150, :184** — R3 M. Recognition goes to "each member" of the party.
+- **r10:12, :17, :57–61, :77, :101** — R2 is safe on its own, but it clashes with M5. Both fire at Renown 10, and Savra still wants "something admissible" after M5 gave her the ledger. :97 is R3 M.
+- **r25:45, :97** — R2 T. The r10 "suspicion file" becomes "sufficient predicate" for a diabolism inquiry, which contradicts :37 and r10.
+- **s01-the-tithe:8–12, :52–56, :68–74, :84** — R3 M. The tithe's consequences, **Tithe Paid** and **Quietly Reassigned**, land party-wide.
+- **s02:9** — R3 M. "The party holds OotG Renown 3".
+- **R3 M, systemic:** Renown awards never say "members only".
+- **Clean:** m03, r03, r50, 00-first-meeting and s02's Cassalanter handling.
