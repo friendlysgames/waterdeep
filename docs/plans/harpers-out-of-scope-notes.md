@@ -255,6 +255,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
 - **Faction Outposts (arc-e):**
   - It must **write Manshoon Named** at the Interrogation House.
   - It must write **Yellowspire Raided** when 5B is entered, because M5 branches on it.
+  - **Yellowspire scope change (user, Session 38):** if **Yellowspire Raided** is marked, M5 no longer sends the party back. It runs only its new page, **The Debrief** (`m05-the-yellowspire-job/ev-02-the-debrief.md`), where the members report to Davil's inner circle. For that page to pay out, arc-e 5B must add a relay ledger and three coded letters to Yellowspire, and must write **Yellowspire Ledger Taken**, **Yellowspire Letters Taken** and **Yellowspire Clean Exit**.
   - It should read **Seven Masks Lead** (M1), **Shard Shunners Goodwill** and **Dasher Location Given Up** (M3).
   - arc-e ~l.121 and ~l.325 say the Seven Masks lead needs no check.
 - **Xanathar's Lair (arc-f:41):** read **Tashlyn Contact** (s01) and **Davil Released** (s02). Today it reads "Mission 4 complete".
@@ -265,6 +266,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
   - Read **Relay Ledger Recovered**, **Vevette Letters Recovered**, **Yellowspire Alarm Sounded** and **Yellowspire Circle Destroyed**. Scene 2's K22 circle and the Lockdown row assume the circle survives.
   - Read **Skeemo at Kolat Towers** in place of "survived Gralhund Villa or Faction Outposts" (l.104, l.168), and **Davil Released**.
   - The ledger's Advantage on the Alert-tier recalibration check and the gap-cycle dusk anchor are M5 inventions to adopt or cut.
+- **Kolat Towers outcomes read by M6 Ziraj's Last Hunt:** M6 keys the kill team's motive, Ondra's answers and Davil's debrief to arc-i's **Manshoon operational?** (Destroyed / Simulacrum Only / Alive), Vevette Blackwater's fate (captured / killed / escaped), whether the K18 rune fell and the force field went down, and the result of the Doom Raiders' parallel operation. arc-i has formal names only for the first, so the conversion must name the rest to match.
 - **Vault of Dragons (arc-j:53, :262):**
   - Replace "if Mission 6 succeeded" with **Ziraj Survived / Ziraj Fell**, **Splinter Kill Team Broken**, **Splinter Survivor Escaped** and **Splinter Remnant Plan Learned**. The Scene 1/5/6 effects are M6 inventions to match on conversion.
   - Skeemo appears only if **Skeemo at Kolat Towers**. **Skeemo Exiled / Handed to the Watch / Executed** (s02) keep him away.

@@ -2,9 +2,9 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Exploration Event occurs after **Davil's Return**, when Davil Starsong asks an individual Doom Raiders member who has reached Renown 10 and 6th level to rob a Zhentarim relay tower in the Castle Ward. Only Doom Raiders members receive the brief and the debrief, and helping companions can join the fieldwork. In this Event, the party can:
+> This Exploration Event occurs after **Davil's Return**, when Davil Starsong asks an individual Doom Raiders member who has reached Renown 10 and 6th level to rob a Zhentarim relay tower in the Castle Ward. It runs only when **Yellowspire Raided** is not marked. A party that already went inside Yellowspire during **Faction Outposts** plays **The Debrief** instead. Only Doom Raiders members receive the brief and the debrief, and helping companions can join the fieldwork. In this Event, the party can:
 >
-> - Hear Davil and Tashlyn Yafeera explain the job, and learn whether Yellowspire has been rebuilt since the party last visited.
+> - Hear Davil and Tashlyn Yafeera explain the job and what they know about the tower.
 > - Watch the tower for a day and choose between the coded knock, the outer wall and a false referral to get inside.
 > - Recover the relay ledger from the circle chamber in the cellar, past a pressure plate that alerts Kolat Towers.
 > - Take three coded letters from Amath Seccent's desk, which name Vevette Blackwater as the coordinator of the Splinter's strike teams.
@@ -15,18 +15,17 @@
 
 At dusk on the day the member qualifies, a flying snake with silvery scales brings a note to the member's lodgings that says only "The Portal. Tonight." The note is in Davil's looping hand, which the member has not seen since before the arrest. This Event reads **Davil Released** from **Davil's Return**, which puts Davil back in charge. If the release terms left his suite sealed (release count 0 or 1, for the first ten days), he receives the members in the back booth behind the Yawning Portal's kitchens, and Tashlyn Yafeera stands at the booth's entrance because she never sits during a briefing. Otherwise he receives them in his curtained room on the second floor, with Tashlyn beside the curtain.
 
-> [!gamemaster]**Which Yellowspire Is This?**
+> [!gamemaster]**Before You Run This**
 >
-> Yellowspire is the tower from **Faction Outposts** (5B), and the Doom Raiders have been watching it for two months. This mission is a return visit for any party that has already been inside, so choose the state before the brief.
+> Yellowspire is the tower from **Faction Outposts** (5B), and the Doom Raiders have been watching it for two months. If the party already went inside during that quest, **Yellowspire Raided** is marked, and everything this job would give them is already theirs, so skip this Event and run **The Debrief**. Otherwise run the job below. The following states change it.
 >
-> - **First visit.** If **Yellowspire Raided** is not marked, use the layout, scaffolding and single floor plate described below, and use the first-visit column of the roster table.
-> - **Return visit.** If **Yellowspire Raided** is marked, Amath's cell rebuilt the relay after the party's raid. The scaffolding has been taken down, the circle chamber has a second lock and a second floor plate, a pull-cord bell hangs inside the hoist door, more guards stay on site, and a larger group waits at Kolat Towers. Use the return-visit column of the roster table.
-> - **Skeemo escaped.** If **Skeemo at Kolat Towers** is marked, Skeemo reached Kolat Towers through this very circle and told the Splinter what he knew about the Doom Raiders. Amath has been warned. The knock and the week's word have changed (they also change on a return visit), every DC in **Getting In** is 2 higher, the acolytes sleep in their robes, and the referral cover in **Approach Three** is a trap.
-> - **Skeemo Captured.** If **Skeemo Captured** is marked, Skeemo gave Tashlyn the current coded knock and a warning about the northeast plate during questioning. The leads survive whatever **Davil's Return** decided for him (**Skeemo Exiled**, **Skeemo Handed to the Watch** or **Skeemo Executed**). On a first visit, the knock beat in **Approach One** succeeds automatically and the northeast plate is known without a check. On a return visit, Skeemo's knowledge predates the rebuild, so the lead covers only the old northeast plate, and the new knock and second plate must be found. Tashlyn passes the leads on in the brief.
+> - **Skeemo escaped.** If **Skeemo at Kolat Towers** is marked, Skeemo reached Kolat Towers through this very circle and told the Splinter what he knew about the Doom Raiders. Amath has been warned. The knock and the week's word have changed, every DC in **Getting In** is 2 higher, the acolytes sleep in their robes, and the referral cover in **Approach Three** is a trap.
+> - **Skeemo Captured.** If **Skeemo Captured** is marked, Skeemo gave Tashlyn the current coded knock and a warning about the northeast plate during questioning. The leads survive whatever **Davil's Return** decided for him (**Skeemo Exiled**, **Skeemo Handed to the Watch** or **Skeemo Executed**). The knock beat in **Approach One** succeeds automatically, even if **Skeemo at Kolat Towers** changed the knock, and the northeast plate is known without a check. Tashlyn passes the leads on in the brief.
 > - **Skeemo Silenced.** If **Skeemo Silenced** is marked, he is dead and nothing changes.
 > - **Skeemo Letters Recovered.** If **Skeemo Letters Recovered** is marked, Tashlyn has already decoded three paper-bird letters that name Vevette Blackwater. Davil mentions this in the brief, and Tashlyn wants the letters in the desk to show what Vevette has ordered since. The recovered letters corroborate the paper-bird letters, and the **Vevette Letters Recovered** bonus is unchanged.
 > - **Watch File Opened.** If **Watch File Opened** or **Skeemo Handed to the Watch** is marked, the Watch is tracking Doom Raiders movements. Castle Ward patrols are heavier, and a Watch pair now walks the lane from midnight to dawn, so deep night is no longer quiet. The pair passes the tower's door every half hour, and a character on the outer wall or at the door must make a DC 13 Dexterity (Stealth) check in each such pass or be seen. A seen party must be gone or explain itself to the pair, who arrest no one without a complaint from Amath, and she will not complain because the Watch would find the handprints. The pair records the names of anyone it sees.
 > - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers the other cell's stronghold. The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name.
+> - **Floxin Status.** If the **Gralhund Villa** outcome **Floxin Status** is Dead or Captured, no Doom Raider says "Floxin's cell". They say "the other cell" instead, and Davil uses the Dead or Captured answer in **Who runs the other cell?**
 
 If the suite is unsealed, read or paraphrase the following:
 
@@ -48,7 +47,7 @@ The speech follows in either place:
 >
 > > "Sit, my friends, please. I said I'd have work for you when I was out, and this is it, though I should tell you that nobody above me has asked for it and nobody above me will hear about it from us. There is an old tower in the Castle Ward with pale yellow brick, and a priestess of Bane lives in it who keeps a teleportation circle in her cellar, yes?"
 
-If **Manshoon Named** is not marked, read or paraphrase the following:
+If **Manshoon Named** is not marked, read or paraphrase the following, and say "the other cell" for "Floxin's cell" if **Floxin Status** is Dead or Captured:
 
 > [!readaloud]
 >
@@ -86,7 +85,7 @@ If **Skeemo Letters Recovered** is marked, Davil adds that Tashlyn has decoded S
 >
 > > "Tashlyn's watchers have heard the knock at the door a hundred times, two slow taps and three quick ones, and she has cleared a name for a story as well. Rorik Halvars is a mercenary who runs honest contracts through their people, and you may say you're his referral if you must. There's scaffolding on the outer wall too, though I'd want to see it before I trusted it."
 
-If the knock has changed, Davil still gives the old knock, because nobody in the Doom Raiders knows about the change until the door rejects it. If **Skeemo Captured** is marked, Tashlyn steps in and gives the current knock and the northeast plate, which Skeemo gave up.
+If **Skeemo at Kolat Towers** is marked, the knock has changed, and Davil still gives the old knock because nobody in the Doom Raiders knows about the change until the door rejects it. If **Skeemo Captured** is marked, Tashlyn steps in and gives the current knock and the northeast plate, which Skeemo gave up.
 
 > [!qna]**What do you know about the trap?**
 >
@@ -96,14 +95,6 @@ If the knock has changed, Davil still gives the old knock, because nobody in the
 >
 > > "Then the circle will send their friends to find you, and you'll want to be gone before they arrive. Tashlyn believes you'll have ten minutes at most, and she is usually right about numbers of that sort."
 
-If **Yellowspire Raided** is marked, add the following:
-
-> [!readaloud]
->
-> Davil sits back and lets the trophy on his bracelet swing loose.
->
-> > "You know this tower better than I do, so I won't insult you by describing it. What I can tell you is that Tashlyn's watchers say the scaffolding came down within a tenday of your visit, and the priestess has more helpers than she had before. Whatever you learned there, assume they've learned from it too."
-
 If **Skeemo at Kolat Towers** is marked, add the following:
 
 > [!readaloud]
@@ -112,11 +103,17 @@ If **Skeemo at Kolat Towers** is marked, add the following:
 >
 > > "Skeemo went through that circle, so assume the other cell knows something is coming. They may have changed the knock, and they will certainly have changed whatever they do at the door. Take your time watching them before you go in."
 
-If **Manshoon Named** is not marked and the party asks whether the towers hold anything else, Davil answers:
+If **Manshoon Named** is not marked and **Floxin Status** is Alive, Davil answers:
 
 > [!qna]**Who runs the other cell?**
 >
 > > "Everything I have points at Floxin, and I've paid a great many people to tell me otherwise. I would very much like to be wrong about that, but I haven't been given a reason yet."
+
+If **Manshoon Named** is not marked and **Floxin Status** is Dead or Captured, Davil answers:
+
+> [!qna]**Who runs the other cell?**
+>
+> > "I believed Floxin led it, and the cell carried on after he was taken off the board, so I was wrong about something. I don't know who stands behind him yet, and I'd like to find out before they find us."
 
 If **Manshoon Named** is marked, add the following:
 
@@ -132,22 +129,22 @@ The party can spend a day watching Yellowspire from the lane, from a rented uppe
 >
 > The party learns each of the following through two routes, so missing one check never leaves a gap.
 >
-> - **The door.** A stone-faced acolyte opens a peephole shutter on the outer door and speaks to each visitor before letting anyone in. Any character who watches the door for four hours and makes a successful DC 12 Intelligence (Investigation) check hears the knock and the word exchanged. The party already has the old knock from Davil, so this check matters only when **Skeemo at Kolat Towers** or **Yellowspire Raided** is marked, because both changed the knock and the word, and the DC is then 14.
+> - **The door.** A stone-faced acolyte opens a peephole shutter on the outer door and speaks to each visitor before letting anyone in. Any character who watches the door for four hours and makes a successful DC 12 Intelligence (Investigation) check hears the knock and the word exchanged. The party already has the old knock from Davil, so this check matters only when **Skeemo at Kolat Towers** is marked, because it changed the knock and the word, and the DC is then 14.
 > - **The prayer hour.** At dusk, candlelight fills the arrow slits of the upper level and low chanting carries into the lane for about an hour. Any character who watches from the lane and makes a successful DC 12 Wisdom (Perception) check learns that every acolyte on duty is upstairs during that hour. The chandler across the street tells the same story to anyone who buys a candle for 5 sp.
-> - **The outer wall.** On a first visit, wooden scaffolding covered in frost and pigeon droppings runs up the outside, and a plank hoist door on the upper level is visible from the roof of the building next door. Any character who studies the tower and makes a successful DC 10 Wisdom (Perception) check spots the door. On a return visit, the scaffolding is gone, and the same check reveals the hoist door and a bell cord hanging beside it.
+> - **The outer wall.** Wooden scaffolding covered in frost and pigeon droppings runs up the outside, and a plank hoist door on the upper level is visible from the roof of the building next door. Any character who studies the tower and makes a successful DC 10 Wisdom (Perception) check spots the door.
 > - **The night.** Every night the door is locked at midnight, and the acolytes on duty sleep on cots on the upper level except one, who stays awake at the ground level. Any character who watches until dawn and makes a successful DC 13 Wisdom (Perception) check confirms this. The chandler adds that the priestess has never once left the tower after dark.
 
 > [!gamemaster]**Who Is in the Tower**
 >
-> Amath Seccent and her four acolytes live and work here, and the Splinter posts guards according to the size of the party. Use the table for the party's state.
+> Amath Seccent and her four acolytes live and work here, and the Splinter posts guards according to the size of the party. Use the table for the party's size.
 >
-> | Party size | First visit | Return visit | Spies through the circle (first / return) |
-> |---|---|---|---|
-> | 3 | Amath, 4 acolytes | Amath, 4 acolytes, 1 Tough | 2 / 3 |
-> | 4 | Amath, 4 acolytes, 1 Tough | Amath, 4 acolytes, 1 Tough, 1 Warrior Veteran | 3 / 3 |
-> | 5 | Amath, 4 acolytes, 1 Tough, 1 Warrior Veteran | Amath, 4 acolytes, 2 Tough, 1 Warrior Veteran | 3 / 4 |
+> | Party size | In the tower | Spies through the circle |
+> |---|---|---|
+> | 3 | Amath, 4 acolytes | 2 |
+> | 4 | Amath, 4 acolytes, 1 Tough | 3 |
+> | 5 | Amath, 4 acolytes, 1 Tough, 1 Warrior Veteran | 3 |
 >
-> Amath uses the 2024 **Priest** statistics, her acolytes use the 2024 **Priest Acolyte** statistics, and the guards use the 2024 **Tough** and **Warrior Veteran** statistics. The reinforcements that come through the circle are 2024 **Spies**. The **Doom Raiders Mechanics Reference** audits both rosters.
+> Amath uses the 2024 **Priest** statistics, her acolytes use the 2024 **Priest Acolyte** statistics, and the guards use the 2024 **Tough** and **Warrior Veteran** statistics. The reinforcements that come through the circle are 2024 **Spies**. The **Doom Raiders Mechanics Reference** audits the roster.
 >
 > Where they stand depends on the hour.
 >
@@ -159,7 +156,7 @@ The party can spend a day watching Yellowspire from the lane, from a rented uppe
 
 > [!gamemaster]**Agorn Fuoco**
 >
-> On a first visit, Agorn Fuoco (Neutral Evil, Human, he/him) is in the tower only if the party enters during working hours after dusk, when he sits by the ground-level fire and tunes a lute. He visits on those evenings to see Amath. He is not in the tower on a return visit, because the party's earlier raid frightened him into hiding. He never fights and has no stat block, and he flees the moment a fight starts. If the party catches him, or he is present when they enter peacefully, he offers his pass-amulet and Amath's schedule for his life before anyone asks. If he escapes, he does not use the circle, but the Splinter learns of the raid within a day.
+> Agorn Fuoco (Neutral Evil, Human, he/him) is in the tower only if the party enters during working hours after dusk, when he sits by the ground-level fire and tunes a lute. He visits on those evenings to see Amath. He never fights and has no stat block, and he flees the moment a fight starts. If the party catches him, or he is present when they enter peacefully, he offers his pass-amulet and Amath's schedule for his life before anyone asks. If he escapes, he does not use the circle, but the Splinter learns of the raid within a day.
 
 ### The Tower
 
@@ -171,7 +168,7 @@ The tower is narrow and old, and its bricks have a yellowish tinge that gives Ye
 - **The cellar.** A card table with four barrel stools stands in the middle of the room, and three crates of rations are stacked against the south wall. A sturdy oak door with a built-in lock stands in the north wall.
 - **The circle chamber.** Behind the oak door, permanent arcane runes are inscribed in a circle on the floor. A brass call bowl is set into the ring's edge. An iron-bound relay box is bolted to the east wall. In the northeast corner is a flagstone that is slightly paler than the others.
 
-The tower has two floors above ground and a cellar with the circle chamber beyond it. The scaffolding on a first visit runs up the outside as far as the upper level.
+The tower has two floors above ground and a cellar with the circle chamber beyond it. The scaffolding runs up the outside as far as the upper level.
 
 ### Getting In
 
@@ -199,9 +196,9 @@ The party can use any approach or combine them. Each approach has several steps,
 >
 > The way in is a plank hoist door on the upper level, barred on the inside, and reaching it takes three steps.
 >
-> - **Getting to the boards.** On a first visit, the party reaches the scaffolding from the roof next door or from the lane, unseen if each character makes a DC 12 Dexterity (Stealth) check. On a return visit, the scaffolding is gone, and each character must make a DC 15 Strength (Athletics) check to climb the pale brick, or the party can rig a rope from the neighboring roof and climb with Advantage.
-> - **The noise.** The boards rattle and creak. Each character on the scaffolding must make a DC 16 Dexterity (Stealth) check or be heard by the occupants of the upper level. On a return visit, the rope is quieter, and the check is DC 14.
-> - **The bar.** The hoist door is barred from the inside, and a character can lift the bar with a wire through the gap by making a successful DC 15 Dexterity (Thieves' Tools) check. Breaking the door takes a successful DC 18 Strength (Athletics) check, and the noise rouses everyone on the upper level. On a return visit, a bell cord runs from the door to the ground level, and a character who makes a successful DC 14 Wisdom (Perception) check sees it before it is disturbed. Cutting it takes a successful DC 13 Dexterity (Sleight of Hand) check. If it is not cut, the bell rings, and the acolytes on the ground level rush up the stairs.
+> - **Getting to the boards.** The party reaches the scaffolding from the roof next door or from the lane, unseen if each character makes a DC 12 Dexterity (Stealth) check. A character who fails is seen by a neighbor, and the fallback is to try again after dark.
+> - **The noise.** The boards rattle and creak. Each character on the scaffolding must make a DC 16 Dexterity (Stealth) check or be heard by the occupants of the upper level.
+> - **The bar.** The hoist door is barred from the inside, and a character can lift the bar with a wire through the gap by making a successful DC 15 Dexterity (Thieves' Tools) check. Breaking the door takes a successful DC 18 Strength (Athletics) check, and the noise rouses everyone on the upper level.
 >
 > The hoist door opens onto the upper level, so during the prayer hour it opens into the middle of the ritual. The party should use it during working hours, when only Amath and the acolytes with her are upstairs, or in deep night.
 
@@ -247,7 +244,7 @@ The party can use any approach or combine them. Each approach has several steps,
 
 ### The Relay Box
 
-The ledger is in the circle chamber, and the chamber is where the trap is. Reaching the chamber takes a successful DC 20 Dexterity (Thieves' Tools) check on the oak door, or a successful DC 25 Strength (Athletics) check to force it, which is heard on the ground level. On a return visit, the door has a second lock, and the party needs both checks or Amath's key ring. Amath keeps her key ring on her belt, and a character who lifts it with a successful DC 15 Dexterity (Sleight of Hand) check while she is speaking can open the door without a roll.
+The ledger is in the circle chamber, and the chamber is where the trap is. Reaching the chamber takes a successful DC 20 Dexterity (Thieves' Tools) check on the oak door, or a successful DC 25 Strength (Athletics) check to force it, which is heard on the ground level. Amath keeps her key ring on her belt, and a character who lifts it with a successful DC 15 Dexterity (Sleight of Hand) check while she is speaking can open the door without a roll.
 
 > [!readaloud]
 >
@@ -257,18 +254,15 @@ The ledger is in the circle chamber, and the chamber is where the trap is. Reach
 >
 > The circle is permanent, and it is always active. Its runes are keyed to a pressure plate in the northeast corner, a flagstone stamped with a Zhentarim coin. While a creature weighing at least 50 pounds presses the plate, the runes stay dormant, and the circle can be crossed or the relay box opened. If anyone opens the box or crosses the ring while the plate is unpressed, the runes flash a dim gray for a heartbeat and send a silent signal to Kolat Towers. That starts the ten-minute clock. A coin dropped in the call bowl sends the same signal whether or not the plates are pressed, because the bowl is how the garrison calls for help on purpose.
 >
-> On a return visit, the chamber has a second plate in the southwest corner, and both plates must be pressed at once. The pulse also fires if only one is pressed.
+> A character can find the plate in one of three ways: Tashlyn's tip about the northeast corner, a successful DC 13 Wisdom (Perception) check in good light, or *detect magic*, which shows the rune lines running to the flagstone.
 >
-> A character can find the first plate in one of three ways: Tashlyn's tip about the northeast corner, a successful DC 13 Wisdom (Perception) check in good light, or *detect magic*, which shows the rune lines running to the flagstone. The second plate is not in Tashlyn's tip. A character who traces the rune lines and makes a successful DC 13 Intelligence (Investigation) check notices that they split toward a second corner, and a character who searches the southwest corner and makes a successful DC 15 Wisdom (Perception) check finds the plate. *Detect magic* shows both.
->
-> A pack or a stone weighing 50 pounds keeps a plate down as well as a person does, but a plate lifted for even a moment lets the runes flash.
+> A pack or a stone weighing 50 pounds keeps the plate down as well as a person does, but a plate lifted for even a moment lets the runes flash.
 
 > [!exploration]**The Relay Box**
 >
 > The box is bolted to the wall and locked. A character who makes a successful DC 15 Dexterity (Thieves' Tools) check opens it cleanly. A character who forces the lid with a successful DC 18 Strength (Athletics) check opens it too, but the noise carries to the ground level. Inside are a thin leather-bound ledger and a tin of clay tokens.
 >
-> The ledger lists every carrier of a pass-amulet by name, the day each amulet was last refreshed and where each carrier hands it on. It names three carriers: Avareen Windrivver, who works from a house in Brindul Alley; Agorn Fuoco, who visits Yellowspire on some evenings; and the field crews that Vevette Blackwater sends out from Kolat Towers. On a return visit, each of those entries has been crossed out and replaced, which means the amulets in circulation are freshly issued.
->
+> The ledger lists every carrier of a pass-amulet by name, the day each amulet was last refreshed and where each carrier hands it on. It names three carriers: Avareen Windrivver, who works from a house in Brindul Alley; Agorn Fuoco, who visits Yellowspire on some evenings; and the field crews that Vevette Blackwater sends out from Kolat Towers.>
 > A character who reads the ledger for ten minutes and makes a successful DC 14 Intelligence (Investigation) check understands the refresh marks. That reveals which carrier holds the freshest amulet and the mark that Kolat Towers uses to recalibrate a stale one.
 
 ### The Desk Upstairs
@@ -340,7 +334,7 @@ A clean exit means that neither the circle pulse nor Amath's coin fired, no acol
 
 ### Ziraj's Notes
 
-Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force field to whoever went into Yellowspire, whether they came out with the ledger or not. Ziraj shows them to Doom Raiders members the next morning at the back table of Corellon's Crown in Trollskull Alley. Companions may sit at the next table and get nothing.
+Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force field to whoever went into Yellowspire, whether they came out with the ledger or not. **The Debrief** plays the same scene for a party that went in during **Faction Outposts**, so run only one of the two. Ziraj shows them to Doom Raiders members the next morning at the back table of Corellon's Crown in Trollskull Alley. Companions may sit at the next table and get nothing.
 
 > [!readaloud]
 >
@@ -386,7 +380,7 @@ Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force 
 >
 > > "They move."
 
-If the party returns with nothing from Yellowspire, Tashlyn sends the notes anyway. She hands them over without ceremony and says: "You came back with nothing. Take these, and don't fail there."
+If the party returns with nothing from Yellowspire, Tashlyn sends the notes anyway. She hands them over without ceremony and says: "You came back with nothing, so take these, and don't fail there."
 
 ### Renown Opportunities
 
