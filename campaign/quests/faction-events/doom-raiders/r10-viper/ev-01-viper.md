@@ -12,8 +12,8 @@
 
 At noon on the day after the member reaches Renown 10, a flying snake finds them and carries an invitation for that evening. Who sends it depends on where Davil is:
 
-- **While Davil Arrested is marked and Davil's Return has not played:** Tashlyn writes the note. The meeting is at 20:00 at the Dusty Ladle, a South Ward taproom, at the table in the back corner.
-- **After Davil's Return has played, or if the rank is reached before Davil Arrested is marked:** Davil writes the note and receives the member in his curtained room at the Yawning Portal at 20:00. Tashlyn attends, standing by the curtain, because the specialist bench is hers.
+- **While Davil Arrested is marked and Davil Released is not:** Tashlyn writes the note. The meeting is at 20:00 at the Dusty Ladle, a South Ward taproom, at the table in the back corner.
+- **After Davil Released is marked, or if the rank is reached before Davil Arrested is marked:** Davil writes the note and receives the member at the Yawning Portal at 20:00. Tashlyn attends, standing by the door, because the specialist bench is hers. If **Davil Released** is marked and his suite is still sealed (release terms 0 or 1, which seal it for ten days), he has no lute or bracelet and meets the member in the back booth behind the kitchens, which Durnan lets him use. Otherwise he receives the member in his curtained room on the second floor.
 
 Every qualifying member is invited on their own account and is recorded one by one. Companions who are not Doom Raiders members are not invited. A member away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the next evening at the same hour.
 
@@ -38,6 +38,8 @@ If Davil is receiving the member, read or paraphrase the following:
 > Davil is already in his chair when you come through the green curtain, and the decanter is on the table beside five glasses. Tashlyn stands against the wall by the door with her arms folded, and a long shadow across the floor marks where Yagra has taken the landing outside.
 >
 > > Sit, please, my friends. You've been a great credit to us, and it gives me real pleasure to call you Viper. Tashlyn will tell you the particulars, since she keeps the ledgers and I only keep the book, yes?
+
+If Davil is receiving the member in the back booth, use the same scene with these changes: the green curtain becomes the kitchen door, the decanter becomes a plain jug, and the room smells of onions and lamp oil. Davil sits without his lute or bracelet and rubs his bare wrist where he would turn a trophy, and Yagra stands at the kitchen door in place of the landing.
 
 > [!social]**The Master of Arms**
 >
@@ -206,7 +208,7 @@ The Event concludes when the member has decided about this quest's document and 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Viper Reached** — mark with the recipient's name when Tashlyn or Davil names the rank; read by **Ardragon** and by the Doom Raiders page of the Factions Guide. Track separately for each member the quest each benefit was last used in.
+> - **Viper Reached** — mark with the recipient's name when Tashlyn or Davil names the rank; it records the rank, and no later event reads it by name. Track separately for each member the quest each benefit was last used in.
 
 > [!gamemaster]**Next Steps**
 >

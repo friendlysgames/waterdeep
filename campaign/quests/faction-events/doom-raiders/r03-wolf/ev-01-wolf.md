@@ -12,8 +12,8 @@
 
 At noon on the day after the member reaches Renown 3, a flying snake finds them wherever they are lodging and carries an invitation for that evening. Who sends it depends on where Davil is:
 
-- **Before Davil Arrested is marked, or after Davil's Return has played:** Davil writes the note and receives the member in his curtained room on the second floor of the Yawning Portal at 20:00.
-- **While Davil Arrested is marked and Davil's Return has not played:** Tashlyn writes the note. The meeting is at the stone bench at the foot of the Poplar Walk in the City of the Dead, one hour before dusk on the same day. Yagra Stonefist walks the member to the gate and waits under the last poplar.
+- **Before Davil Arrested is marked, or after Davil Released is marked:** Davil writes the note and receives the member at 20:00 at the Yawning Portal. If **Davil Released** is marked and his suite is still sealed (release terms 0 or 1, which seal it for ten days), he has no lute or bracelet and meets the member in the back booth behind the kitchens, which Durnan lets him use. Otherwise he receives the member in his curtained room on the second floor.
+- **While Davil Arrested is marked and Davil Released is not:** Tashlyn writes the note. The meeting is at the stone bench at the foot of the Poplar Walk in the City of the Dead, one hour before dusk on the same day. Yagra Stonefist walks the member to the gate and waits under the last poplar.
 
 Every qualifying member is invited on their own account, so several members who cross the threshold together attend together and are recorded one by one. Companions who are not Doom Raiders members are not invited, and a companion who tags along is turned back at the curtain or the gate. A member who is away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the following evening at the same hour.
 
@@ -34,6 +34,18 @@ If Davil is receiving the member, read or paraphrase the following:
 > > Sit, please. I've had good reports of your work, and Istrid's clerks tell me your name comes up more often than most. The rank we give people in your position is Wolf, and it's yours now, yes?
 >
 > He slides the folded paper across the table and waits for you to open it.
+
+If Davil is receiving the member in the back booth, read or paraphrase the following instead:
+
+> [!readaloud]
+>
+> The back booth behind the Yawning Portal's kitchens smells of onions and lamp oil, and Davil sits in it with his sleeves turned back and no lute or bracelet in sight. He pours from a plain jug into cups that Durnan's cook has lent him, and a folded square of paper lies beside his own cup.
+>
+> > Sit, please, though I'm afraid the accommodations are poorer than they were. I've had good reports of your work, and the rank we give people in your position is Wolf, and it's yours now, yes?
+>
+> He slides the folded paper across the table and waits for you to open it.
+
+In the booth, Davil has no bracelet to turn, so he rubs his bare wrist instead. The "A Glance at the Curtain" check below then notes that he glances at the kitchen door.
 
 If Tashlyn is receiving the member, read or paraphrase the following:
 
@@ -229,8 +241,8 @@ The Event concludes when the member has the paper, has heard the first piece of 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Wolf Reached** — mark with the recipient's name when Davil or Tashlyn names the rank at the meeting; read by **Viper**, by **Ardragon**, and by Istrid's ledger desk. Track separately for each member the date of the last news request, the nights used at the loft this tenday and any open goods order.
-> - **Tashlyn Contact** — mark for the member if Tashlyn delivered the rank and the outcome was not already marked; read by **The Missing Snobeedle**, **Silencing Skeemo** and **Xanathar's Lair** Scene 1.
+> - **Wolf Reached** — mark with the recipient's name when Davil or Tashlyn names the rank at the meeting; it records the rank, and no later event reads it by name. Istrid's ledger desk in this Event uses it. Track separately for each member the date of the last news request, the nights used at the loft this tenday and any open goods order.
+> - **Tashlyn Contact** — mark for the member if Tashlyn delivered the rank and the outcome was not already marked. It is defined in **Davil's Arrest**, and this Event only sets it.
 
 > [!gamemaster]**Next Steps**
 >

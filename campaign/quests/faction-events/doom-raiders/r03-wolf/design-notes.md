@@ -14,4 +14,4 @@ The draft had Tashlyn manage the web whichever of them delivered. Guide 07 gives
 
 ## Invented Names and Open Items
 
-Invented: Wenna Tarrow, Tarrow's Tallow and Wick at 22 Sail Street, the door phrase, and the Hall of Justice clerks in the web. Wenna is voiced from the event text. The return outcome of **Davil's Return** is referred to by event name because its outcome name is still being rewritten. Guide 07 says "Manshoon's cell" in its Renown and Grand Game text, which conflicts with the **Manshoon Named** gate and belongs in the out-of-scope notes.
+Invented: Wenna Tarrow, Tarrow's Tallow and Wick at 22 Sail Street, the door phrase, and the Hall of Justice clerks in the web. Wenna is voiced from the event text. The return is read as **Davil Released**, and a sealed suite moves the meeting to the back booth. Guide 07 says "Manshoon's cell" in its Renown and Grand Game text, which conflicts with the **Manshoon Named** gate and belongs in the out-of-scope notes.
