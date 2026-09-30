@@ -152,7 +152,7 @@ If the chase ends here, Skeemo reaches an old stone tower at the Castle Ward bor
 >
 > The party cannot enter this tower in this Event. Breaking the door takes ten minutes and a DC 25 Strength (Athletics) check, and within one minute of the first blow a Castle Ward Watch patrol rounds the corner, which marks **Watch File Opened**. The tower's layout and defenders are described in **The Yellowspire Job**, and this is not the time to test them.
 >
-> Until **Manshoon Named** is marked, the Doom Raiders believe Skeemo has gone to Floxin's cell. They do not know what lies behind the door, and neither does the party.
+> Until **Manshoon Named** is marked, the Doom Raiders believe Skeemo has gone to the other cell, which they think Floxin leads. If **Floxin Status** is Dead or Captured, they believe he has gone to whoever now gives the cell its orders. They do not know what lies behind the door, and neither does the party.
 
 ### Concluding the Event
 

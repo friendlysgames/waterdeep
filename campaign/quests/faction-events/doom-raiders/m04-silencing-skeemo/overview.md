@@ -22,7 +22,7 @@ Skeemo has reported to the Splinter for two months, and to House Gralhund before
 
 > [!gamemaster]**What Is Actually True**
 >
-> Skeemo's masters in the Splinter want him to keep reporting until he is no longer useful, and the failed poisoning has told him that day is near. He has hired a dray for 10:00 and means to reach the Banite tower called Yellowspire in the Castle Ward, where a teleportation circle takes him to Kolat Towers. The Doom Raiders believe Urstul Floxin leads the Splinter. Manshoon directs Floxin from behind him, and until **Manshoon Named** is marked every Doom Raider says "the other cell", "Floxin's cell" or "the Splinter".
+> Skeemo's masters in the Splinter want him to keep reporting until he is no longer useful, and the failed poisoning has told him that day is near. He has hired a dray for 10:00 and means to reach the Banite tower called Yellowspire in the Castle Ward, where a teleportation circle takes him to Kolat Towers. The Doom Raiders believe Urstul Floxin leads the Splinter. Manshoon directs Floxin from behind him, and until **Manshoon Named** is marked every Doom Raider says "the other cell" or "the Splinter", and adds "Floxin's cell" only if **Floxin Status** is Alive. If **Floxin Status** is Dead or Captured, the Doom Raiders know Floxin is out of play and believe someone above him gives the orders, and they do not know who.
 
 ## The Approach
 

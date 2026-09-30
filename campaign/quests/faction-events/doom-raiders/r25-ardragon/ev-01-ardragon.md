@@ -22,7 +22,7 @@ If Davil's release terms were 0 or 1 and ten days have not yet passed since **Da
 >
 > The Network's informants are three small people inside the rival cell, which is Manshoon's Splinter. Manshoon leads it, and Urstul Floxin is his field agent. Tashlyn recruited all three after Davil's arrest, and Skeemo Weirdbottle never learned their names, which is why they are still alive.
 >
-> In speech, the Doom Raiders say "Manshoon's cell" only if **Manshoon Named** is marked, and by this rank it nearly always is. Until then they say "Floxin's cell", "the other cell" or "the Splinter", and the lines below give both versions where the name matters.
+> In speech, the Doom Raiders say "Manshoon's cell" only if **Manshoon Named** is marked, and by this rank it nearly always is. Until then they say "the other cell" or "the Splinter", and they add "Floxin's cell" only if **Floxin Status** is Alive. If **Floxin Status** is Dead or Captured, Davil and Tashlyn know the man they took for the leader is gone while the cell still moves, so someone above him gives the orders and they do not know who. The lines below give both versions where the name matters.
 
 ### Naming the Rank
 
@@ -167,11 +167,11 @@ Davil introduces the informants after Tashlyn has finished with the crews. If **
 >
 > > "Tashlyn has three people inside Manshoon's cell. They're small people in dangerous places, and I won't spend them carelessly. Each of you may send one question down the line in every quest, and I'll carry the answer back myself."
 
-If **Manshoon Named** is not marked, he says "Floxin's cell" in place of "Manshoon's cell", so his first sentence reads:
+If **Manshoon Named** is not marked, he says "the other cell" in place of "Manshoon's cell", whatever **Floxin Status** is, so his first sentence reads:
 
 > [!readaloud]
 >
-> > "Tashlyn has three people inside Floxin's cell."
+> > "Tashlyn has three people inside the other cell."
 
 > [!qna]**Who are they?**
 >

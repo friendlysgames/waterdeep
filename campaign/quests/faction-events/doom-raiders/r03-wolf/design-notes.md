@@ -4,7 +4,7 @@
 
 Each Wolf benefit is written as a per-member procedure with a counter, a named contact and a limit. The news channel is one piece per tenday counted from the member's own last request, relayed through Yagra at the Yawning Portal bar and answered by snake in Davil's hand, or Tashlyn's while he is held. The loft is run by Wenna Tarrow with a door phrase, three hours' notice and a night limit, and the goods go through Istrid's ledger desk with a 500 gp cap, one open order and a ten-day delay. Nothing pools across the party, and companions get nothing.
 
-The intelligence content is drawn from a fixed ladder: the faction's current escalation tier and the next response team the party has not beaten, taken from the Response Teams sections of the Xanathar's Guild and Manshoon's Zhentarim pages of the Factions Guide. This keeps the answer prepared, avoids spoiling outposts that belong to Act III, and names the Splinter only as "Floxin's cell".
+The intelligence content is drawn from a fixed ladder: the faction's current escalation tier and the next response team the party has not beaten, taken from the Response Teams sections of the Xanathar's Guild and Manshoon's Zhentarim pages of the Factions Guide. This keeps the answer prepared, avoids spoiling outposts that belong to Act III, and names the Splinter only as "the other cell", and adds "Floxin's cell" only if **Floxin Status** is Alive.
 
 ## Source Departures
 
