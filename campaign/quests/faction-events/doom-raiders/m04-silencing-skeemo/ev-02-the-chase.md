@@ -23,7 +23,7 @@
 
 ### The Street Chase
 
-If the party starts here, Skeemo is either aboard the hire-dray or, if the dray is gone, walking briskly through the crowd with the satchel held against his chest.
+If the party starts here, Skeemo is either aboard the hire-dray or, if **Dray Diverted** is marked, walking briskly through the crowd with the satchel held against his chest.
 
 If Skeemo is aboard the dray, read or paraphrase the following:
 
@@ -31,7 +31,7 @@ If Skeemo is aboard the dray, read or paraphrase the following:
 >
 > The hire-dray is already rolling out of the alley, its two horses at a steady trot and its canvas tilt flapping behind the driver's bench. Through the open back you can see five commuters sitting on the plank benches with their bundles and baskets, and among them a small gnome in a leather apron sits very still with a satchel on his knees. He turns his head as you come out of the lane, and he watches you the whole way to the corner.
 
-If the dray is gone and Skeemo is on foot, read or paraphrase the following:
+If **Dray Diverted** is marked and Skeemo is on foot, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -50,8 +50,10 @@ If the dray is gone and Skeemo is on foot, read or paraphrase the following:
 > - **Character knows the ward's back arcades:** A character who makes a successful DC 14 Intelligence (History) check names a shortcut through the Cloth Market arcade, and the party earns one success at once. This works only once.
 > - **Character has a flying speed or a teleport:** The character earns a success without a check the first time they use it.
 > - **Skeemo Warned is marked:** The party begins the chase with one failure already.
+> - **The party arrived after 09:55:** The party begins the chase with one failure already, and Skeemo is aboard the rolling dray.
+> - **Dray Diverted is marked:** There is no dray and there are no commuters, so **The Commuters** below does not apply. The chase is the same, with Skeemo on foot in the crowd.
 >
-> On the fourth success, a beer wagon is jammed across the road ahead, and the dray is boxed in at a corner. Skeemo stands on the tailboard, and the party acts first. If nobody stops him this round, he uses *Misty Step* to reach a second-floor balcony and casts *Fly* on the same turn, and the Rooftop Chase begins.
+> On the fourth success, a beer wagon is jammed across the road ahead, and the dray is boxed in at a corner. If Skeemo is on foot, the same wagon pins him against a shop front instead. Skeemo stands on the tailboard or the shop step, and the party acts first. If nobody stops him this round, he uses *Misty Step* to reach a second-floor balcony and casts *Fly* on the same turn, and the Rooftop Chase begins.
 >
 > On the third failure, Skeemo reaches the Castle Ward border with a lead, and the chase ends at **The Old Tower** below.
 

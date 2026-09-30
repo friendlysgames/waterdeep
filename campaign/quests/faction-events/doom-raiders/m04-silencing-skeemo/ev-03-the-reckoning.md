@@ -201,6 +201,7 @@ The report to Tashlyn ends the mission. Davil is released on the first hearing d
 
 > [!gamemaster]**Event Outcomes**
 >
+> - **Skeemo at Kolat Towers** — marked in **The Chase** when Skeemo reaches Yellowspire, and marked here as well when the party lets him go or he slips away during the walk to the wagon yard. Readers are listed in **The Chase**.
 > - **Skeemo Silenced** — mark when Skeemo is dead, however the Watch reads it. Read by **Davil's Return**, where Davil grieves a man he was fond of; by **Kolat Towers**, where no one briefs the garrison on the party; and by **Vault of Dragons**, where Skeemo is not present.
 > - **Skeemo Captured** — mark when Tashlyn holds Skeemo alive in the tack room. Read by **Davil's Return**, where Davil decides what to do with him; by **The Yellowspire Job**, where Tashlyn gives the members the knock and the plate warning; and by **Kolat Towers**, where the garrison is not briefed.
 > - **Skeemo Letters Recovered** — mark when the paper birds reach Tashlyn. Read by **The Yellowspire Job**, where Tashlyn's file names Vevette Blackwater, and by **Kolat Towers**, where she tells the party who receives the Splinter's reports.

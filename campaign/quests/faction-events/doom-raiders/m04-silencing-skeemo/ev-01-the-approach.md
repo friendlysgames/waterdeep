@@ -21,6 +21,10 @@
 
 At 06:00 a flying snake finds each Doom Raiders member and tells them to come to the wagon yard beside the South Gate, the same yard where Tashlyn briefed **The Missing Snobeedle**. She has come off the night watch and is still wearing the grey coat of a City Guard captain. Companions wait outside the yard gate, where the carters can see them.
 
+> [!gamemaster]**Why Tashlyn Briefs**
+>
+> Tashlyn briefs because **Davil Arrested** is marked and Davil is held at Castle Waterdeep. Every member who marked **Tashlyn Contact** in **Davil's Arrest** has met her at the Poplar Walk bench. A member who has not marked it meets her for the first time here, and she gives that member the same brief without introduction, adding only her name and her rank. Nobody without **Tashlyn Contact** is turned away from the brief.
+
 > [!readaloud]
 >
 > The wagon yard beside the South Gate is already busy in the grey light, with carters backing their teams between the loading docks and a farrier hammering somewhere behind the stables. Tashlyn Yafeera stands beside a stack of empty barrels with her hands clasped behind her back, and she watches you cross the cobbles without any change in her face. When you are close enough to hear her over the hammering, she speaks.
@@ -133,7 +137,7 @@ The shop stands on a side street in the Trades Ward, and every member has been i
 > - **The roof.** The cooper's yard has a ladder to a flat roof that stands one storey higher than the shop. Reaching the roof takes no check, and the skylight is a short jump from the cooper's roof. Anyone standing there can see into the upstairs workroom and can drop through the skylight.
 > - **The alley.** A narrow lane behind the shop runs to a wider street thirty feet away, where the hire-dray waits from 09:30.
 >
-> Skeemo begins packing at 09:00. At 09:55 he leaves through the back door and boards the dray. If the party arrives after 10:00, the dray has gone, and **The Chase** begins with the party one failure behind.
+> Skeemo begins packing at 09:00. The dray arrives at 09:30, the commuters board between 09:40 and 09:50, and at 09:55 Skeemo leaves through the back door and boards. The dray rolls at 10:00. If the party arrives after 09:55, Skeemo is aboard, and **The Chase** begins with the party one failure behind.
 
 Any character who spends an hour watching the shop from the cooper's yard and makes a successful DC 12 Wisdom (Perception) check confirms that the back room is lit, that the skylight is propped open on a stick, and that nobody has opened the front door since dawn. A member who watches from the alley instead notices the hire-dray arrive at 09:30 with its driver and settle at the mouth of the lane.
 
@@ -153,10 +157,10 @@ Any character who spends an hour watching the shop from the cooper's yard and ma
 >
 > Skeemo paid the driver 20 gp yesterday to wait until he boards. A member who offers the driver more can send him away, and any of the following works:
 >
-> - Paying the driver 25 gp or more, with a successful DC 12 Charisma (Persuasion) check, sends the dray off with the commuters at 09:30, and Skeemo has no dray.
+> - Paying the driver 25 gp or more, with a successful DC 12 Charisma (Persuasion) check, sends the dray off empty when it arrives at 09:30, before any commuter boards, and Skeemo has no dray.
 > - A successful DC 14 Charisma (Intimidation) check does the same without coin, though the driver tells the constable at the gate about the threat.
 >
-> If the dray is sent away, **The Chase** uses no Street Chase, and there are no commuters to protect.
+> If the dray is sent away, mark **Dray Diverted**. **The Chase** still runs a Street Chase with Skeemo on foot, and there are no commuters to protect. The party must arrive before 09:55 for this to apply, because after that Skeemo has already left.
 
 ### Getting In
 
@@ -181,7 +185,7 @@ The party can enter in three ways, alone or in combination. What matters is who 
 | Back door, and the check failed | Alerted by the noise | Same as the row above. |
 | Front door, in any state | On the stairs | Same as the row above. |
 | Alley only, roof unwatched | Upstairs, heading for the skylight | Same as the row above. |
-| Roof only, alley unwatched | At the skylight, blocked | He takes the back stairs and the alley door instead. **The Chase** begins with a Street Chase, or with a Street Chase on foot if the dray is gone. |
+| Roof only, alley unwatched | At the skylight, blocked | He takes the back stairs and the alley door instead. **The Chase** begins with a Street Chase, or with a Street Chase on foot if **Dray Diverted** is marked. |
 
 The Rooftop Chase, the Street Chase and Cornered in the Shop are each described in the next two Events, and every row above leads to one of them.
 
@@ -212,7 +216,7 @@ The Event ends when Skeemo runs or yields. If he is Cornered in the Shop, contin
 > [!gamemaster]**Event Outcomes**
 >
 > - **Skeemo Warned** — mark when the paper bird reaches Skeemo, or when **Skeemo Alerted** applies; read by **The Chase**, which starts the party a round behind.
-> - **Dray Diverted** — mark when the party sends the hire-dray away; read by **The Chase**, which then runs no Street Chase with commuters.
+> - **Dray Diverted** — mark when the party sends the hire-dray away; read by **The Chase**, which then runs its Street Chase on foot with no commuters.
 
 > [!gamemaster]**Next Steps**
 >
