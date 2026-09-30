@@ -1,40 +1,68 @@
-# Doom Raiders Mission 4 — Silencing Skeemo
+# Silencing Skeemo: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> *Doom Raiders Mission 4. Available at Renown 6 and character level 5.*
->
-> **Note:** Tashlyn Yafeera delivers this brief in person — the only time in the mission chain that she leaves her cover position. This departure from pattern signals the severity of what she is about to say.
+> Available to Doom Raiders members at Renown 8 and 5th level after **The Missing Snobeedle**. Their companions can help with everything except Tashlyn's brief and debrief.
 >
 > #### Difficulty
-> *A mission for 5th-level characters.*
+> *An adventure for 5th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> Skeemo uses the Mage stat block and flees from the first round. The **Doom Raiders Mechanics Reference** sets his hit points and his escort for three, four and five characters, and the chase is built so that he never has to fight.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points. Renown goes to the individual Doom Raiders members who report to Tashlyn.
 
-> [!warning]+ **This Is When the Party Learns Skeemo Was a Traitor All Along**
+## Hook
+
+At 06:00 a flying snake finds each eligible member and tells them to come to the wagon yard beside the South Gate. Tashlyn Yafeera is waiting beside the barrels in her Guard coat, and she tells them that Skeemo Weirdbottle has been selling the cell to the other Zhentarim, that he must die, and that it must look like an accident.
+
+## Background
+
+Skeemo has reported to the Splinter for two months, and to House Gralhund before that. Three safe houses and two informants were lost through his paper birds. **The Poisoned Delivery** shaped what Tashlyn knows, and she reads the outcomes of that mission when she briefs: **Poison Delivered**, **Esvele Warned**, **Poison Swapped**, **Delivery Refused**, **Coffer Returned** and **Skeemo Alerted**. Davil is in custody and does not know, and he learns it from Tashlyn when the Lords release him.
+
+> [!gamemaster]**What Is Actually True**
 >
-> The revelation that Skeemo Weirdbottle has been feeding intelligence to Manshoon's cell should land hard. If the party inspected the coffer in Mission 2, they have been sitting on a suspicion for the entire arc. If they delivered the coffer without question, this is the moment the implications of that delivery arrive.
->
-> Play the Mission 2 history honestly. If the party warned Esvele or refused the delivery, Tashlyn acknowledges it at the briefing — she heard from Esvele's network. If the party delivered blind, she does not rub their nose in it, but she also does not pretend the coffer did not happen.
+> Skeemo's masters in the Splinter want him to keep reporting until he is no longer useful, and the failed poisoning has told him that day is near. He has hired a dray for 10:00 and means to reach the Banite tower called Yellowspire in the Castle Ward, where a teleportation circle takes him to Kolat Towers. The Doom Raiders believe Urstul Floxin leads the Splinter. Manshoon directs Floxin from behind him, and until **Manshoon Named** is marked every Doom Raider says "the other cell", "Floxin's cell" or "the Splinter".
+
+## The Approach
+
+Tashlyn gives the members four hours and three rules: nobody traces the death to the Network, the Watch must find an accident, and the order stands even if Skeemo offers a deal. The members study Weirdbottle's Concoctions, the hire-dray in the alley and the paper bird that watches the gutter. They enter by the back door, the front door or the roof, and the route decides whether Skeemo is cornered in his shop or runs.
+
+## The Chase
+
+If Skeemo runs, the party either follows a hire-dray full of commuters through the Trades Ward crowd or pursues him across the rooftops while he flies. A hit that breaks his concentration or a *Counterspell* brings him down. If he lands unhindered, he turns invisible and walks to the door of Yellowspire, and the party can lose him there.
+
+## The Reckoning
+
+Cornered, Skeemo claims to be a double agent. The members decide whether to kill him and stage an accident the Watch will accept, bring him alive to Tashlyn, or let him go. They take what his satchel holds to the wagon yard and hear her verdict.
+
+## Renown Opportunities
+
+Each participating Doom Raiders member gains 3 base Renown for reporting to Tashlyn. Each eligible member also gains the following bonuses when the party meets their conditions:
+
+- **+1 Renown:** Skeemo is dead or held alive by Tashlyn, and **Watch File Opened** is not marked.
+- **+1 Renown:** the paper birds reach Tashlyn, and **Skeemo Letters Recovered** is marked.
+- **+1 Renown:** no commuter was harmed, or the party sent the dray away before the chase.
+
+Companions who are not Doom Raiders gain no membership or Renown from this assignment, and each bonus can be earned only once.
+
+## Aftermath
+
+Davil is released when the Lords' clerks hear him on the first hearing day after the debrief, and **Davil's Return** reads Skeemo's fate. **The Yellowspire Job** becomes available to an individual Doom Raiders member at Renown 10 and 6th level, and it reads whether Skeemo was captured, killed or lost. **Kolat Towers** reads **Skeemo at Kolat Towers** and **Skeemo Letters Recovered**, and **Vault of Dragons** reads whether Skeemo is alive.
 
 ## Involved Characters
-- **Tashlyn Yafeera** (Doom Raiders) — delivers the brief in person at Dead End Alley; confirms Skeemo's betrayal with specific evidence; sets the constraint: no Watch investigation tracing to the Network
-- **Skeemo Weirdbottle** (Doom Raiders / Manshoon Splinter double agent) — has prepared an escape route; knows the party is coming; does not know when; has a dray arranged and access to Yellowspire's teleportation circle
-- **Davil Starsong** (Doom Raiders) — released from Watch custody by the end of this mission; returns to the Yawning Portal changed but present; buys the party a drink and does not say what it is for
+
+- **Tashlyn Yafeera** (Doom Raiders): briefs the members in person, signs the Guard reports and judges the result.
+- **Skeemo Weirdbottle** (Doom Raiders, secretly of the Splinter): the Master of Magic, who tries to reach Kolat Towers.
+- **Davil Starsong** (Doom Raiders): held at Castle Waterdeep and absent until **Davil's Return**.
+- **Vevette Blackwater** (Manshoon's Zhentarim): the hand that receives Skeemo's letters, named only when Tashlyn decodes them.
+- **Amath Seccent** (Manshoon's Zhentarim): keeper of Yellowspire, whose acolytes bar the door behind Skeemo.
+- **The hire-dray's driver and five commuters:** a baker's apprentice, a laundress, an old cobbler, a young clerk and a woman who sells ribbons, who stand to be hurt if the party is careless.
 
 ## Dangers & Enemies
-**Skeemo Weirdbottle** — use the **Mage** stat block (2024 *Monster Manual*). He casts *Fly* as soon as he reaches a skylight and *Greater Invisibility* on himself three rounds after that. His AC is not the problem; finding him is. If he reaches the street, a dray chase begins. If he reaches the teleportation circle at Yellowspire, he arrives at Kolat Towers and the mission is a partial failure.
+
+Skeemo uses the **Mage** from the 2024 *Monster Manual* and avoids a fight. He can fly, turn invisible, step through space three times and counter or ward off three of the party's spells, and he flees at 40 hit points or fewer. A hired **Tough** joins him if the party has five characters. The commuters are **Commoners** with 4 hit points each. Harming them or breaking into Yellowspire opens a Watch file, and Tashlyn withholds her bonuses.
 
 ## Overview
 
-Tashlyn Yafeera called the meeting in person at Dead End Alley in the Dock Ward, before dawn. She confirmed in four sentences what Davil had been trying not to know for months: **Skeemo Weirdbottle** had been selling the Doom Raiders to Manshoon's cell. Three confirmed courier exchanges with a known Splinter contact. Intelligence feeding back to House Gralhund before that. The Splinter had the Network's operational schedule, which meant it had it when Gralhund fell.
-
-Everything the party had done for the faction had been visible to the Splinter. Tashlyn said she was sorry about that.
-
-Skeemo had prepared for this moment. A dray was hired for tomorrow. A route ran through the Castle Ward. He had access to the teleportation circle at Yellowspire, Manshoon's Trades Ward relay point, and the circle would deliver him directly to Kolat Towers. If he reached it, he was out of reach until **Kolat Towers**.
-
-He knew the party was coming. He did not know when.
-
-The mission split at the moment Skeemo ran: either the party caught him before he cleared the building, or the chase took them into the streets and rooftops of the Trades Ward, with Skeemo buying seconds of distance and then buying invisibility.
+Tashlyn Yafeera sends the party after the Doom Raiders' own alchemist, who has been selling them out. They must catch him in the Trades Ward, decide his fate and answer for how they did it.
