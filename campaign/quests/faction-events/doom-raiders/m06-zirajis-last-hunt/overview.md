@@ -18,13 +18,13 @@ Yagra Stonefist reaches Trollskull Manor at 02:10, armor on and breathing evenly
 
 ## Background
 
-After **Kolat Towers**, the Splinter's survivors swept the tower's outbuildings and found a rooftop hide overlooking the pass-amulet handoffs. They also held Skeemo Weirdbottle's old files, which place Ziraj in Trollskull Alley. Ondra Kell, a field officer who survived the raid, took five agents to kill the man she thinks helped the party through the force field.
+After **Kolat Towers**, the Splinter's survivors swept the tower's outbuildings and found a rooftop hide overlooking the pass-amulet handoffs. Skeemo Weirdbottle's files, or Skeemo himself if **Skeemo at Kolat Towers** was marked, place Ziraj in Trollskull Alley. Ondra Kell, a field officer who survived the raid, took five agents to kill the man she thinks helped the party through the force field. Who sent her depends on the **Manshoon operational?** result from **Kolat Towers**: Destroyed (Vevette Blackwater, if free, or no one), Simulacrum Only, or Alive. Urstul Floxin plays no part, and nothing in the event assumes he lives.
 
 Ziraj killed three or four of them on a warehouse roof off Sail Street before two crossbow bolts brought him down. He has been working toward Corellon's Crown ever since, marking the eaves with a code he taught Yagra years ago.
 
 ## Finding Ziraj
 
-The party has 40 minutes before the kill team's sweep reaches the inn at the far end of the alley. It can follow the trail marks, watch the sweep and find the gap in its coverage, or go to Fala Lefaliir and ask. Every way works, and a failed attempt costs ten minutes.
+The party has 20 minutes before the kill team's sweep reaches the inn near the alley's mouth, and Corellon's Crown is only a minute or two from Trollskull Manor. It can follow the trail marks, watch the sweep and find the gap in its coverage, or go to Fala Lefaliir and ask. Every way works, a failed attempt costs five minutes, and getting Ziraj down off the roof and to the shop takes six.
 
 ## Carrying Him Out, Holding the Roof or Laying a False Trail
 

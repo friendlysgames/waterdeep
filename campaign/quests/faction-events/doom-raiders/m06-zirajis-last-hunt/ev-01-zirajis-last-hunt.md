@@ -4,7 +4,7 @@
 >
 > This Exploration and Combat Event occurs after **Kolat Towers**, when Yagra Stonefist reaches Trollskull Manor at 02:10 to say that a Splinter kill team is hunting Ziraj the Hunter across the rooftops. It ends when the participating members report to Davil Starsong at the Yawning Portal. In this Event, the party can:
 >
-> - Find Ziraj by following his trail marks, by reading the kill team's search pattern or by asking Fala Lefaliir, all before the sweep reaches him at 02:55.
+> - Find Ziraj by following his trail marks, by reading the kill team's search pattern or by asking Fala Lefaliir, all before the sweep reaches him at 02:35.
 > - Carry Ziraj to Corellon's Crown, hold the roof beside him, or lay a false trail and draw the kill team away.
 > - Fight a Splinter kill team led by Ondra Kell, or take her alive and learn what the Splinter's survivors intend to do at the vault.
 > - Bring Ziraj to Fala's table, or lose him if the fight goes badly.
@@ -13,13 +13,17 @@
 
 > [!gamemaster]**What the Splinter Wants**
 >
-> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the pass-amulet handoffs, with a half-orc's boot prints and black-fletched arrows in it. Skeemo Weirdbottle's old files, passed to the Splinter over the years, already put Ziraj somewhere in Trollskull Alley without saying where. Ondra decided that whoever mapped the amulet routes had helped the party through the force field, and she took five others to kill him.
+> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the pass-amulet handoffs, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever mapped the amulet routes had helped the party through the force field, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for years, put Ziraj somewhere in Trollskull Alley without saying where.
 >
-> Why the remnants act depends on what became of Manshoon in **Kolat Towers** Scene 6:
+> Who sent the team depends on the **Manshoon operational?** result that **Kolat Towers** Scene 6 records:
 >
-> - **Destroyed.** Nobody sent Ondra. She is acting alone with the agents who still follow her, for revenge, and the Splinter has no plan for the vault.
+> - **Destroyed.** The Splinter cell collapsed within a tenday of the raid. If Vevette Blackwater is alive and free, she is holding the survivors together and approved the hunt to keep them loyal. If she was captured or killed, nobody sent Ondra, and she acts for revenge with the agents who still follow her. Either way the Splinter has no plan for the vault.
 > - **Simulacrum Only.** The simulacrum sent her, following a standing order Manshoon left behind to remove anyone who watched the tower. The Splinter means to let others open the vault and take the gold from them on the road.
 > - **Alive.** Manshoon ordered the hunt himself from wherever he is hiding, and the vault plan is the same as the simulacrum's.
+>
+> The team's size is set by the party's size in the roster below, and **Kolat Towers** decides only who sent it and what Ondra says. If the K18 rune was destroyed and the force field fell, the survivors are hunting in an open city with no fortress to return to, and Ondra says so. If the Doom Raiders' parallel operation cleared the towers, she blames the Doom Raiders as much as the party. If **Yellowspire Circle Destroyed** was marked in **The Yellowspire Job**, the team reached the city on foot. Otherwise it came through the Yellowspire circle.
+>
+> Urstul Floxin plays no part in this Event, and no line in it assumes he is alive. **Floxin Status** from **Gralhund Villa** may be Alive, Dead or Captured, and a Doom Raider who believed he led the Splinter learns here that the team answers to someone else.
 >
 > The team began with six. Ziraj killed three or four of them on a warehouse roof off Sail Street, which leaves the number in the roster below. He took a crossbow bolt through the left shoulder and another across the ribs, and he has been working along the rooftops toward Corellon's Crown ever since. Where he stops to rest he scratches a cluster of three strokes into the eaves, a mark he taught Yagra years ago, and it can only be read from roof height. The bolts have grooved heads, machined so they stay put once they are in.
 
@@ -45,7 +49,7 @@ Yagra Stonefist comes to Trollskull Manor herself, because a flying snake is too
 
 > [!qna]**Who are they?**
 >
-> > It's the Splinter, the other fucking cell, Floxin's lot. After what you did to their tower they want somebody to bleed for it, and they've picked the wrong man to do it to.
+> > It's the Splinter, the other fucking cell, whoever is left of them. After what you did to their tower they want somebody to bleed for it, and they've picked the wrong man to do it to.
 
 If **Manshoon Named** is marked, Yagra says this instead:
 
@@ -67,17 +71,17 @@ If **Manshoon Named** is marked, Yagra says this instead:
 
 ### Finding Ziraj
 
-The party leaves Trollskull Manor at 02:15, and the kill team's sweep reaches the rear of the inn at the far end of the alley at 02:55. Yagra takes the party up to the roofs and shows the first mark, a cluster of three strokes low on an eave. There are three ways to reach Ziraj, and the party can try them in any order.
+The party leaves Trollskull Manor at 02:15, and the kill team's sweep reaches the rear of the inn near the alley's mouth at 02:35. Corellon's Crown stands in the same alley as the manor, a minute or two away on foot. The clock runs short because Ziraj is bleeding on an open roof, the team is closing on him, and getting a wounded half-orc down from the roof takes time. Yagra takes the party up to the roofs and shows the first mark, a cluster of three strokes low on an eave. There are three ways to reach Ziraj, and the party can try them in any order.
 
 > [!exploration]**Three Ways to Ziraj**
 >
-> Each way reaches Ziraj after the time stated, and every failed attempt costs the party 10 minutes before it tries another way.
+> Each way reaches Ziraj after the time stated, and every failed attempt costs the party 5 minutes before it tries another way.
 >
-> - **Follow the marks.** Any character who searches the eaves along the roofline and makes a successful DC 14 Wisdom (Perception) check follows the scratches to the chimneys of the inn at the far end of the alley. A character who lets Yagra show the system first makes the check at DC 12. A success reaches Ziraj in 10 minutes.
-> - **Read the sweep.** Any character who watches the searchers from a rooftop for two minutes and makes a successful DC 12 Wisdom (Perception) check sees that they keep circling the alley's lower half and never search the inn's rear face. Ziraj has to be there. The same character also sees the rooftop crossbowman crouched 40 feet from the inn. A success reaches Ziraj in 10 minutes.
-> - **Ask Fala.** No check is needed. Fala answers the door at Corellon's Crown, and the trip there takes 15 minutes, after which Fala points to the inn's roof. The party reaches Ziraj 5 minutes after leaving the shop.
+> - **Follow the marks.** Any character who searches the eaves along the roofline and makes a successful DC 14 Wisdom (Perception) check follows the scratches to the chimneys of the inn near the alley's mouth. A character who lets Yagra show the system first makes the check at DC 12. A success reaches Ziraj in 5 minutes.
+> - **Read the sweep.** Any character who watches the searchers from a rooftop for two minutes and makes a successful DC 12 Wisdom (Perception) check sees that they keep circling the streets around the alley's mouth and never search the inn's rear face. Ziraj has to be there. The same character also sees the rooftop crossbowman crouched 40 feet from the inn. A success reaches Ziraj in 5 minutes.
+> - **Ask Fala.** No check is needed. Corellon's Crown is a two-minute walk along the alley, and Fala answers the door, points to the inn's roof and sends the party off. The climb takes another 3 minutes, so this way reaches Ziraj in 5 minutes.
 >
-> The worst case is two failed attempts and a visit to Fala, which reaches Ziraj at 02:55, just as the sweep arrives. If the party reaches him after 02:40, there is no time to carry him out, and the party has to hold the roof or lay a false trail.
+> The worst case is two failed attempts and a visit to Fala, which reaches Ziraj at 02:30, five minutes before the sweep. Getting Ziraj down and across to the shop takes 6 minutes, so if the party reaches him after 02:28 there is no time to carry him out, and the party has to hold the roof or lay a false trail.
 
 If the party goes to Fala first, read or paraphrase the following:
 
@@ -85,7 +89,7 @@ If the party goes to Fala first, read or paraphrase the following:
 >
 > A lantern burns in the upstairs window of Corellon's Crown, and the glass walls below are dark and beaded with damp. The door opens before Yagra can knock, and Fala Lefaliir stands in it with a kettle in one hand and their sleeves rolled to the elbow.
 >
-> > He always uses the inn roof when he has to wait for me. It's the far end of the alley, between the two chimneys, so go and bring him here. I'll close the shop and lay out the table.
+> > He always uses the inn roof when he has to wait for me. It's the inn by the mouth of the alley, between the two chimneys, so go and bring him here. I'll close the shop and lay out the table.
 
 When the party reaches Ziraj, read the following aloud. If the roster below has two agents, he says "Two left." instead.
 
@@ -107,20 +111,20 @@ Once the party stands on the roof with Ziraj, it makes a plan before anyone move
 
 #### Carry Him Out
 
-Yagra picks Ziraj up without a word, and he lets her. The route along the rooftops to Corellon's Crown takes 12 minutes, and it crosses the line the kill team is sweeping.
+Yagra picks Ziraj up without a word, and he lets her. Getting a wounded half-orc down off the roof takes 2 minutes, and the walk along the alley to Corellon's Crown takes 4 more, across the line the kill team is sweeping.
 
 > [!exploration]**Crossing the Sweep**
 >
 > The party makes a DC 13 Dexterity (Stealth) Group Check as it crosses the sweep, with Yagra and Ziraj carried unseen between them.
 >
-> - **The check succeeds:** The team doesn't notice the crossing. It picks up the trail at Fala's street and arrives at the shop door 15 minutes after the party does, and the party has time to position at the door.
-> - **The check fails:** The street agents hear the scrape of a boot, and the team catches the party 30 feet from the shop door 4 minutes later, before Yagra has got Ziraj inside. Ziraj is in the open until the end of the first round, when Fala pulls him through the door.
+> - **The check succeeds:** The team doesn't notice the crossing. It picks up the trail at Fala's street and arrives at the shop door 10 minutes after the party does, and the party has time to position at the door.
+> - **The check fails:** The street agents hear the scrape of a boot, and the team catches the party 30 feet from the shop door 2 minutes later, before Yagra has got Ziraj inside. Ziraj is in the open until the end of the first round, when Fala pulls him through the door.
 >
 > The rooftop crossbowman follows over the roofs and joins the fight at the start of round 2 in either case.
 
 #### Hold the Roof
 
-Ziraj can cover the party from the inn's roof while they fight in the alley below, and the fight happens at 02:55 when the team arrives. The party takes positions along the alley's rear face, where the team has not searched, and the rooftop crossbowman crouches 40 feet south of Ziraj with her back to him.
+Ziraj can cover the party from the inn's roof while they fight in the alley below, and the fight happens at 02:35 when the team arrives. The party takes positions along the alley's rear face, where the team has not searched, and the rooftop crossbowman crouches 40 feet south of Ziraj with her back to him.
 
 > [!gamemaster]**Hold the Roof: Ziraj's Shots**
 >
@@ -193,6 +197,44 @@ If **Manshoon Named** is marked, she says this first:
 > [!readaloud]
 >
 > > You took Manshoon's tower apart, and I wanted something back for it, and Ziraj was the only name I had to go on.
+
+> [!qna]**How did you find him?**
+>
+> Ondra glances at her bound wrist before she answers, and the answer depends on what happened in **Silencing Skeemo**.
+
+If **Skeemo at Kolat Towers** was marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > The alchemist told us. He said the half-orc keeps a room above an herbalist's shop in Trollskull Alley, and that he'd been sending the Doom Raiders' secrets to us for years before he ever came to the tower for shelter.
+
+Otherwise, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > There was an old file on the Doom Raiders that the alchemist kept for us for years, and it said the hunter lived somewhere in Trollskull Alley. We spent three nights on the roofs before we found his trail, and I'm not going to pretend that wasn't luck.
+
+> [!qna]**What happened at the tower?**
+>
+> Ondra says only what a survivor would know, and the answer depends on the result of **Kolat Towers**. She never says what became of Manshoon.
+
+If the K18 rune was destroyed and the force field fell, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > The field went out with the rune that night, and we've been sleeping in cellars ever since. There's no tower left to report to, so you can stop asking me where we go.
+
+If the force field still stands, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > The tower is still there, and so are the people inside it. I'm not telling you anything more than that, so you can stop asking.
+
+If the Doom Raiders' parallel operation cleared the towers, she adds:
+
+> [!readaloud]
+>
+> > Your friends took the rest of the garrison before I could get my people out, and I haven't forgotten that.
 
 > [!qna]**What do you plan to do at the vault?**
 >
@@ -283,6 +325,8 @@ If Ziraj has died, read or paraphrase the following:
 > Davil doesn't look up when you come in. He plays a slow passage on the lute that goes nowhere in particular, and when he stops, the room is quiet for a long while.
 >
 > > Sit, please. Yagra has told me how it went, and I would like to hear the rest of it from you, yes?
+
+What Davil says first depends on the **Manshoon operational?** result from **Kolat Towers**. If it is Destroyed, he says the Splinter looks finished and that he would like to believe it. If it is Simulacrum Only, he says that what remains is a copy acting on orders and that copies make mistakes. If it is Alive, he says that nobody is safe until that man is found, and he asks the party to keep the Doom Raiders informed of anything they hear. If Vevette Blackwater was captured, he adds that Tashlyn will want to question her about this hunt.
 
 If the party learned the Splinter's intentions from Ondra, Davil listens to all of it, nods slowly, and says he will pass it to Tashlyn. If it was the wagon plan, he says he will tell the locksmith and the wagon teams when the time comes. If Ondra said there is no plan, he asks whether the party believed her.
 
