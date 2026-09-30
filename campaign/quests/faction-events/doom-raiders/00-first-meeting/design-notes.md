@@ -24,4 +24,10 @@ The five Yagra greetings are the draft's, tightened to the two outcomes **Findin
 
 Several conflicts outside this folder are logged and were not fixed here. **Finding Floon** and the Factions Guide still write **Yagra Courteous** as a True or False flag. **The Factions Come Calling** lists a 400 gp Istrid loan for the renovation, where the guide says 200 gp. **Finding Floon** blames Krentz's crew for the Dock Ward killing while its own faction note credits the Splinter, so Yagra says only what she was told. **The Factions Come Calling** still says Yagra refers the party to Filthy Meg, and this event does not carry that referral. The event names the Interrogation House as the writer of **Manshoon Named**, which the **Faction Outposts** conversion must supply.
 
+## Durnan and the Doom Raiders
+
+A player will ask why Durnan hosts a Zhentarim cell, so the event answers it in a GM sidebar and in two qna answers. The sources ground only part of the answer. Davil's permanent rooms come from his Notable Figures page, the standard prices for all guests from WDH, and Durnan's "Out", his "Not in my taproom" and his cold fury toward anyone who endangers the taproom from his page and voice profile. The Red Sashes are from his page and are kept GM-only.
+
+These details are invented: Davil pays rent early; Istrid's collectors never call at the Portal; Yagra's presence keeps other trouble out; Davil and Durnan share an unspoken adventurer's respect; the escalating penalties (barred for good, eviction of the whole cell, a death handed to the Watch); and Yagra's memory of Durnan ejecting four men at once. Cut or change any of these without affecting the rest of the event.
+
 No NPC in this event lacks a voice profile. Durnan appears only as background and does not speak.

@@ -143,6 +143,12 @@ If the party also marked **Durnan Acknowledged**, add the following before she t
 >
 > > "How the fuck should I know? It pays. It's not clean. They keep their word, and nobody's ever thrown me out for being loud."
 
+> [!qna]**Why does Durnan put up with you?**
+>
+> Yagra snorts into her tankard and wipes her mouth with the back of her hand.
+>
+> > "Durnan doesn't give a shit who you are if you pay and behave. I drink here every night, and I've never once broken his rules. Break them and he says one word, and then you're on the street. I once watched him throw out four men without putting his mug down. Nobody in this city is stupid enough to find out what comes after that."
+
 > [!exploration]**Arm First, Talk After**
 >
 > Before she takes anyone upstairs, Yagra plants an elbow on the nearest table and offers her hand to the first candidate she looks at, then to each of the others in turn. Any character who takes her hand and makes a successful **DC 16 Strength (Athletics)** check holds her to a standstill until she calls it, and she buys that character a drink. On a result of 21 or higher the character pins her hand to the table, and the near end of the taproom goes quiet before Yagra bursts out laughing and demands another go.
@@ -156,6 +162,20 @@ If the party also marked **Durnan Acknowledged**, add the following before she t
 > [!gamemaster]**The Curtained Room**
 >
 > Davil's business room is at the far end of the second-floor landing behind a heavy green curtain. It holds a round table, two hanging lamps, a decanter and enough chairs for everyone in the party, because Yagra brings more from the landing. His lute leans against the wall. The trophies on his charm bracelet come from monsters the Doom Raiders have killed, and it rattles softly when he pours. Davil pours for guests before he says anything else.
+
+> [!gamemaster]**Durnan and the Doom Raiders**
+>
+> Players will ask why the owner of the most famous tavern in the city lets a Zhentarim cell work out of his upper floors. Durnan has several reasons, and all of them are practical.
+>
+> - **Davil pays.** Davil is a permanent resident who rents this room and the suite above it, and Durnan charges every paying guest the standard prices, whatever the guest does for a living. Durnan has no quarrel with the Doom Raiders, so he has no reason to turn away their money.
+> - **The Portal serves everyone.** The Xanathar Guild's thugs drink at Durnan's tables too, and he ejects them only when they start a fight. What a patron does elsewhere is the patron's business.
+> - **The business stays behind the curtain.** The Doom Raiders lend money, hire out sword arms and trade information, and none of it is settled in the taproom. Istrid's collectors never call at the Portal.
+> - **Yagra keeps the door.** Her presence at the bar keeps out trouble that would otherwise follow Davil inside.
+> - **Two old adventurers understand each other.** Davil is a retired adventurer like Durnan, and neither asks the other about the past.
+>
+> Durnan will not tolerate drawn steel or spilled blood in the building, any threat to his staff or patrons, and any business forced on someone in the taproom. The first offense, even a shove, earns one word from Durnan: "Out." The offender is barred from the Portal for good, and if that offender is a Doom Raider, Davil must answer for it or lose his rooms. A serious offense, such as a drawn weapon or an injured patron, brings Durnan over the bar with his greatsword, and he evicts Davil's whole cell. A death is handed to the Watch.
+>
+> Durnan is also the secret founder of the Red Sashes, and several regulars are sworn to his service. Nothing in this Event reveals that, and Durnan confirms it to no one.
 
 > [!readaloud]
 >
@@ -218,6 +238,12 @@ Once everyone has a glass and a chair, Davil begins.
 > [!qna]**Are you good people?**
 >
 > > "No, I wouldn't tell you that. I'd tell you we're useful and that we pay what we promise, which in my experience is rarer than being good. We don't hurt people for pleasure, and we don't leave our own to the Watch. Would you like to hear what we do instead?"
+
+> [!qna]**Why does Durnan put up with you?**
+>
+> Davil glances at the ceiling and smiles.
+>
+> > "Durnan rents me this room and the suite above it, and I pay early. We do our business behind this curtain, and nothing is ever settled in his taproom. Nobody draws steel under his roof, and I've never given him a reason to ask. He has never asked what we do, and I've never offered to tell him. The day I give him a reason to ask, I lose these rooms."
 
 > [!qna]**Who are the others?**
 >
