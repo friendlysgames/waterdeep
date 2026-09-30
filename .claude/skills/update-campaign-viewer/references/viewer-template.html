@@ -602,6 +602,47 @@ body.split-view #split-toggle {
   width: 100%;
 }
 
+/* Previous / Next buttons at the foot of every page */
+.page-nav {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-top: 3rem;
+  padding-top: 1.25rem;
+  border-top: 1px solid var(--content-border);
+}
+
+.page-nav-btn {
+  flex: 0 1 48%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  min-height: 44px;
+  padding: 0.6rem 0.9rem;
+  background: var(--toolbar-bg);
+  border: 1px solid var(--toolbar-border);
+  border-radius: 6px;
+  color: var(--content-link);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.page-nav-btn:hover,
+.page-nav-btn:focus-visible { border-color: var(--content-link); }
+
+.page-nav-btn.next { margin-left: auto; text-align: right; }
+
+.page-nav-btn .page-nav-dir {
+  font-size: 0.75rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--content-text);
+  opacity: 0.65;
+}
+
+.page-nav-btn .page-nav-title { overflow-wrap: anywhere; }
+
 .page-content .empty-state {
   color: var(--content-text);
   opacity: 0.6;
@@ -1608,6 +1649,41 @@ function openJournal(journalNode, opts) {
   if (targetPath) selectPage(targetPath, { skipHash: !!opts.skipHash });
 }
 
+function renderPageNav(node, targetEl, paneId) {
+  // Previous / Next move through the pages of the journal that holds this
+  // page, in the same order as the page list.
+  const journalId = node.ancestorIds && node.ancestorIds[node.ancestorIds.length - 1];
+  const journalEntry = journalId && branchIndex.get(journalId);
+  if (!journalEntry) return;
+  const siblings = journalEntry.node.children.filter(function (c) { return c.path; });
+  const i = siblings.findIndex(function (c) { return c.path === node.path; });
+  if (i < 0 || siblings.length < 2) return;
+
+  const nav = document.createElement('nav');
+  nav.className = 'page-nav';
+  nav.setAttribute('aria-label', 'Page navigation');
+
+  function addButton(target, dir) {
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'page-nav-btn ' + dir;
+    const label = document.createElement('span');
+    label.className = 'page-nav-dir';
+    label.textContent = dir === 'prev' ? '‹ Previous' : 'Next ›';
+    const title = document.createElement('span');
+    title.className = 'page-nav-title';
+    title.textContent = target.name;
+    btn.appendChild(label);
+    btn.appendChild(title);
+    btn.addEventListener('click', function () { selectPage(target.path, { paneId: paneId }); });
+    nav.appendChild(btn);
+  }
+
+  if (i > 0) addButton(siblings[i - 1], 'prev');
+  if (i < siblings.length - 1) addButton(siblings[i + 1], 'next');
+  targetEl.appendChild(nav);
+}
+
 function resetPaneScroll(paneId) {
   // Every newly loaded page starts at the top, whichever element scrolls
   // at the current breakpoint.
@@ -1642,6 +1718,7 @@ function selectPage(path, opts) {
   renderBreadcrumb(node, paneBreadcrumbEls[paneId]);
   syncMainBreadcrumb();
   renderPageContent(node, paneEls[paneId]);
+  renderPageNav(node, paneEls[paneId], paneId);
   resetPaneScroll(paneId);
   if (paneId === 'primary') {
     highlightSelected(path);
