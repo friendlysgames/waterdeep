@@ -19,17 +19,25 @@
 
 ### The Brief
 
-Tashlyn meets the invited members in the wagon yard beside the South Gate at 17:00, after a flying snake brought the summons that morning. She briefs members only and does not sit. Companions wait by the yard gate until the members come out.
+Tashlyn briefs the members because **Davil Arrested** is marked in **Davil's Arrest**, and she meets them in the wagon yard beside the South Gate at 17:00, after a flying snake brought the summons that morning. Members who marked **Tashlyn Contact** in that Event already know her. Members who did not meet her for the first time here, and she introduces herself with the second readaloud below. She briefs members only and does not sit. Companions wait by the yard gate until the members come out.
 
 > [!readaloud]
 >
 > A line of freight wagons waits along the wall of the wagon yard while the drivers eat from tin plates and a mule stamps in its traces. A tall Calishite woman in a City Guard cloak stands beside the last wagon with her arms folded, and she watches you cross the yard without stepping forward to meet you.
 >
-> > You're on time, which is adequate. Davil is at Castle Waterdeep, so you answer to me now, and I don't repeat myself.
+> > "You're on time, which is adequate. Davil is at Castle Waterdeep, so you answer to me now, and I don't repeat myself."
 >
 > She holds out a torn notice, still creased where it was nailed to a post, and waits until one of you has taken it.
 >
-> > The Snobeedles are the richest halflings in Waterdeep, and their youngest son, Dasher, has been gone six months. They're offering five hundred gold for word of him, and we could use five hundred gold. Find out where he is, and do it without giving the Watch a reason to look at you, since they already have a file on every one of us.
+> > "The Snobeedles are the richest halflings in Waterdeep, and their youngest son, Dasher, has been gone six months. They're offering five hundred gold for word of him, and we could use five hundred gold. Find out where he is, and do it without giving the Watch a reason to look at you, since they already have a file on every one of us."
+
+If any member did not mark **Tashlyn Contact**, read or paraphrase the following before her first speech:
+
+> [!readaloud]
+>
+> The woman glances at the newcomer among you and does not offer a hand.
+>
+> > "I'm Tashlyn Yafeera, and I run the Raiders' arms and mercenaries. Davil's people are mine until he walks out of the castle, and that includes you."
 
 > [!social]**The Captain in the Yard**
 >
@@ -46,27 +54,27 @@ Tashlyn meets the invited members in the wagon yard beside the South Gate at 17:
 
 > [!qna]**Who are the Snobeedles?**
 >
-> > Halflings with an orchard and a meadery in Undercliff, east of the walls. The mother is Blossom, and she's the one who posted the notice. Look at the market by the Waymoot and the Yondalla shrine on Larkhaven Street, because that's where she nailed the rest.
+> > "Halflings with an orchard and a meadery in Undercliff, east of the walls. The mother is Blossom, and she's the one who posted the notice. Look at the market by the Waymoot and the Yondalla shrine on Larkhaven Street, because that's where she nailed the rest."
 
 > [!qna]**Where do we start?**
 >
 > Tashlyn taps the torn edge of the notice.
 >
-> > Go to the orchard if you want the mother's account, or to the Southern Ward if you want the son. He worked and lodged down there before he vanished, and halflings talk to halflings, so I'm giving you three days.
+> > "Go to the orchard if you want the mother's account, or to the Southern Ward if you want the son. He worked and lodged down there before he vanished, and halflings talk to halflings, so I'm giving you three days."
 
 > [!qna]**What do we get?**
 >
-> > The Network takes the five hundred when the family pays, and you get a tenth of it, fifty gold, for the party to divide as you like. The rest of your pay is Renown, and I decide how much.
+> > "The Network takes the five hundred when the family pays, and you get a tenth of it, fifty gold, for the party to divide as you like. The rest of your pay is Renown, and I decide how much."
 
 > [!qna]**What about the Watch?**
 >
-> > If I hear the Watch picked you up over some fucking halfling brawl, you'll answer to me before you answer to them, and I want this finished without anybody dead or arrested.
+> > "If I hear the Watch picked you up over some fucking halfling brawl, you'll answer to me before you answer to them, and I want this finished without anybody dead or arrested."
 
 > [!qna]**What about Davil?**
 >
 > Her jaw tightens for a moment and then she looks toward the gate.
 >
-> > That's not your business. He's held at the castle until the Lords stop being stupid, and until then you report to me, so is there anything else?
+> > "That's not your business. He's held at the castle until the Lords stop being stupid, and until then you report to me, so is there anything else?"
 
 ### The Orchard
 
@@ -76,7 +84,7 @@ The Snobeedle Orchard and Meadery lies in Undercliff, a morning's walk east of t
 >
 > Rows of apple trees run down a gentle slope east of the city, with pickers on ladders in the lower rows and a long, low drinking hall at the bottom of the hill. The shop beside it is built for larger customers, and its door stands open on the smell of cider and warm honey. An old halfling woman with a walking stick waits on the porch with a tray of cups, and she begins pouring as you reach the steps.
 >
-> > You'll be here about Dasher. Come in and sit down, because the tea has been warm since I saw you on the road, and I'd sooner talk about him inside than in front of the pickers.
+> > "You'll be here about Dasher. Come in and sit down, because the tea has been warm since I saw you on the road, and I'd sooner talk about him inside than in front of the pickers."
 
 > [!social]**The Woman on the Porch**
 >
@@ -95,21 +103,21 @@ The Snobeedle Orchard and Meadery lies in Undercliff, a morning's walk east of t
 
 > [!qna]**About Dasher?**
 >
-> > He was always the restless one. He hated the meadery, though he never said so until the last year, and he took work in the city to get away from the orchard. He lodged with friends in the Southern Ward and came home for the harvest suppers. Then one day the suppers stopped, and so did the letters.
+> > "He was always the restless one. He hated the meadery, though he never said so until the last year, and he took work in the city to get away from the orchard. He lodged with friends in the Southern Ward and came home for the harvest suppers. Then one day the suppers stopped, and so did the letters."
 
 > [!qna]**About his health?**
 >
 > Blossom looks at her cup for a moment before she answers.
 >
-> > Last year he stopped touching the silver at table. He said it gave him a rash, and I've never seen a halfling boy so careful about a spoon. He'd also go down to the cellar for three nights around the full moon and say he had a headache. I'm old, dear, but I'm not blind.
+> > "Last year he stopped touching the silver at table. He said it gave him a rash, and I've never seen a halfling boy so careful about a spoon. He'd also go down to the cellar for three nights around the full moon and say he had a headache. I'm old, dear, but I'm not blind."
 
 > [!qna]**About the reward?**
 >
-> > Five hundred gold, paid when I've seen him or held a letter in his own hand saying he's alive. I don't need him carried home, but I do need to know he's eating and that he knows the door is open.
+> > "Five hundred gold, paid when I've seen him or held a letter in his own hand saying he's alive. I don't need him carried home, but I do need to know he's eating and that he knows the door is open."
 
 > [!qna]**And if he won't come home?**
 >
-> > Then I'd sooner hear it from him than from a stranger. If you find him, tell him I'd take a letter over a lecture, and that his mother isn't the Watch.
+> > "Then I'd sooner hear it from him than from a stranger. If you find him, tell him I'd take a letter over a lecture, and that his mother isn't the Watch."
 
 > [!exploration]**Dasher's Portrait**
 >
@@ -133,7 +141,7 @@ Each lead can be worked in two ways. A party that spends the day being ordinary 
 >
 > The market beside the Waymoot fills a wide stretch of paved road south of the signpost, with halfling stalls selling pies, pins and pots of jam under bright awnings. Hawkers in scarves shout offers to guide travelers for a copper. A round-cheeked woman behind a pie stall counts change into a jar, and when you set Dasher's portrait beside her cash box she goes completely still.
 >
-> > I don't know where he is.
+> > "I don't know where he is."
 
 > [!social]**The Woman at the Pie Stall**
 >
@@ -147,11 +155,11 @@ Each lead can be worked in two ways. A party that spends the day being ordinary 
 
 > [!qna]**About Dasher?**
 >
-> > He helped me on market days for a whole summer, and he never once short-changed a customer. He's well and he's with people who look after him, and that's all I'll say to strangers, but if someone asks properly, I know the boy who'd carry a message to the man who'd know.
+> > "He helped me on market days for a whole summer, and he never once short-changed a customer. He's well and he's with people who look after him, and that's all I'll say to strangers, but if someone asks properly, I know the boy who'd carry a message to the man who'd know."
 
 > [!qna]**Can you pass on a message?**
 >
-> > I can pass it on, but I won't promise what comes back. You've been decent to me all day, and I'll say so when I speak for you, so come to my stall on the evening of the third day and I'll tell you what he says.
+> > "I can pass it on, but I won't promise what comes back. You've been decent to me all day, and I'll say so when I speak for you, so come to my stall on the evening of the third day and I'll tell you what he says."
 
 > [!readaloud]
 >
@@ -165,11 +173,11 @@ Each lead can be worked in two ways. A party that spends the day being ordinary 
 
 > [!qna]**Has Dasher been here?**
 >
-> > He came every rest-day evening to light a candle for his mother, up to about three moons ago, and he doesn't come now. But on the first night of every tenday there's a coin in the box that wasn't there the night before, and I know whose hand puts it there.
+> > "He came every rest-day evening to light a candle for his mother, up to about three moons ago, and he doesn't come now. But on the first night of every tenday there's a coin in the box that wasn't there the night before, and I know whose hand puts it there."
 
 > [!qna]**Can you get word to him?**
 >
-> > I can leave a note in the box, and the person who empties it will read it, though I can't promise he'll answer. If he does, I won't be able to make him do anything.
+> > "I can leave a note in the box, and the person who empties it will read it, though I can't promise he'll answer. If he does, I won't be able to make him do anything."
 
 > [!readaloud]
 >
@@ -183,11 +191,11 @@ Each lead can be worked in two ways. A party that spends the day being ordinary 
 
 > [!qna]**Who paid the rent?**
 >
-> > A compact little fellow with a scar along his jaw, and the manners of a cheerful undertaker. He paid six months in advance, in silver, and took the room's contents away in a handcart. He said Dasher had gone into business with friends, and that he came down from the Field Ward every tenday to look in on things.
+> > "A compact little fellow with a scar along his jaw, and the manners of a cheerful undertaker. He paid six months in advance, in silver, and took the room's contents away in a handcart. He said Dasher had gone into business with friends, and that he came down from the Field Ward every tenday to look in on things."
 
 > [!qna]**What did he call himself?**
 >
-> > Nothing at first, but one day he left a note under the door about the rats in the cellar and signed it "the lads." I've never seen a man so pleased about a rat.
+> > "Nothing at first, but one day he left a note under the door about the rats in the cellar and signed it 'the lads.' I've never seen a man so pleased about a rat."
 
 > [!gamemaster]**What the Ward Adds**
 >
@@ -211,7 +219,7 @@ The Waymoot is the crossroads at the south of the city where the High Road meets
 >
 > A halfling walks into the square without looking around him, a compact young man in a good wool coat with the easy stride of someone who has nowhere he would rather be. Two more halflings follow at a distance, one with a scar along his jaw and one a woman with a hand crossbow on her belt, and they stop beside a fruit cart close enough to help if it comes to that. The first halfling sits on the rim of the fountain and pats the stone beside him.
 >
-> > You're the people who've been asking about me. Sit down if you like, and let's have the conversation.
+> > "You're the people who've been asking about me. Sit down if you like, and let's have the conversation."
 
 > [!social]**The Halfling Who Isn't Lost**
 >
@@ -228,21 +236,21 @@ The Waymoot is the crossroads at the south of the city where the High Road meets
 
 > [!qna]**Where have you been?**
 >
-> > I've been here and there, mostly in the Field Ward these days, with people who look after each other. I haven't been hiding exactly, but I didn't know how to write to the orchard without sounding like I was asking to come back.
+> > "I've been here and there, mostly in the Field Ward these days, with people who look after each other. I haven't been hiding exactly, but I didn't know how to write to the orchard without sounding like I was asking to come back."
 
 > [!qna]**Why the Shard Shunners?**
 >
-> > Because they wanted me for what I could do, and not for what my family could pay. Kelso doesn't care about the meadery or the money. He cares whether I turn up when I said I would, and I've never had anyone ask that little of me and expect so much.
+> > "Because they wanted me for what I could do, and not for what my family could pay. Kelso doesn't care about the meadery or the money. He cares whether I turn up when I said I would, and I've never had anyone ask that little of me and expect so much."
 
 > [!qna]**Why choose the curse?**
 >
 > Dasher glances at the halfling with the scarred jaw, who shrugs.
 >
-> > I took two weeks to decide, and it isn't a punishment if you go in wanting it. I sleep well, I eat well, and I've never felt so much like myself. I know what my mother's going to think it is, but it isn't that.
+> > "I took two weeks to decide, and it isn't a punishment if you go in wanting it. I sleep well, I eat well, and I've never felt so much like myself. I know what my mother's going to think it is, but it isn't that."
 
 > [!qna]**What about your mother?**
 >
-> > She's looking, and she should be. If she asks, I'd tell her I'm alive and not sick, and that I love her, and that I can't be what she wanted, but I haven't worked out how to say it so it doesn't sound like goodbye.
+> > "She's looking, and she should be. If she asks, I'd tell her I'm alive and not sick, and that I love her, and that I can't be what she wanted, but I haven't worked out how to say it so it doesn't sound like goodbye."
 
 Kelso Fiddlewick stands by the fruit cart with Brynn Hilltopple. How he greets the party depends on what it has already done with him.
 
@@ -252,7 +260,7 @@ If the party marked **Mediation Path Taken** in **The Shard Shunners**, read or 
 >
 > The halfling with the scarred jaw lifts two fingers from the fruit cart in greeting.
 >
-> > Well, if it isn't the mediators. The good news is that I'm in a generous mood, partner, but the shit news is that you're here about Dasher, and I can't be generous about him.
+> > "Well, if it isn't the mediators. The good news is that I'm in a generous mood, partner, but the shit news is that you're here about Dasher, and I can't be generous about him."
 
 If the party ran **The Shard Shunners** but did not mark **Mediation Path Taken**, read or paraphrase the following:
 
@@ -260,7 +268,7 @@ If the party ran **The Shard Shunners** but did not mark **Mediation Path Taken*
 >
 > The halfling with the scarred jaw folds his arms and tilts his head as you come nearer.
 >
-> > You lot again. The lads remember the Endshift, partner, and so do I. I'll be civil, because it's daylight and there are Watchmen walking the crossroads, but the lads won't like this one bit.
+> > "You lot again. The lads remember the Endshift, partner, and so do I. I'll be civil, because it's daylight and there are Watchmen walking the crossroads, but the lads won't like this one bit."
 
 If the party has not run that mission, read or paraphrase the following:
 
@@ -268,7 +276,7 @@ If the party has not run that mission, read or paraphrase the following:
 >
 > The halfling with the scarred jaw steps away from the cart and offers a small, neat bow.
 >
-> > I'm Kelso, of the Shard Shunners. Dasher says you've been asking about him all over the Southern Ward, partner, and I'd sooner hear the rest of it from you than from the lads on the rooftops.
+> > "I'm Kelso, of the Shard Shunners. Dasher says you've been asking about him all over the Southern Ward, partner, and I'd sooner hear the rest of it from you than from the lads on the rooftops."
 
 > [!social]**The Smallest Gang Leader**
 >
@@ -284,11 +292,11 @@ If the party has not run that mission, read or paraphrase the following:
 
 > [!qna]**About Emmek Frewn?**
 >
-> > Frewn? Yes, the lads did the Trollskull job, partner, and the cask on the parade day was the wrong building, and I did send a note. No hard feelings, I hope. Contract's a contract, and we were paid to make a nuisance of ourselves, not to hurt anyone.
+> > "Frewn? Yes, the lads did the Trollskull job, partner, and the cask on the parade day was the wrong building, and I did send a note. No hard feelings, I hope. Contract's a contract, and we were paid to make a nuisance of ourselves, not to hurt anyone."
 
 > [!qna]**What if we tell his family?**
 >
-> > Then you tell them, and I remember it. Dasher's choice is his own, partner, and I'd sooner you didn't take it from him. But the lads will be watching to see what you do, and so will I.
+> > "Then you tell them, and I remember it. Dasher's choice is his own, partner, and I'd sooner you didn't take it from him. But the lads will be watching to see what you do, and so will I."
 
 At this point Dasher makes his offer.
 
@@ -296,17 +304,17 @@ At this point Dasher makes his offer.
 >
 > Dasher leans back on the fountain's rim and looks at each of you in turn, still friendly.
 >
-> > I know what the notice says. It says "safe return," and I am safe, because I've returned to myself, if you like. I'm not going home, and that's settled, so the only question is whether you tell them where I am.
+> > "I know what the notice says. It says 'safe return,' and I am safe, because I've returned to myself, if you like. I'm not going home, and that's settled, so the only question is whether you tell them where I am."
 >
 > He takes a leather purse from inside his coat and sets it on the stone beside him.
 >
-> > There's two hundred gold here from the Shard Shunners' fund. I'm not calling it a bribe, because I'd rather call it what it is, which is the price of silence, so say you couldn't find me and it's yours.
+> > "There's two hundred gold here from the Shard Shunners' fund. I'm not calling it a bribe, because I'd rather call it what it is, which is the price of silence, so say you couldn't find me and it's yours."
 
 > [!readaloud]
 >
 > Dasher waits a moment for an answer, and when none comes he lowers his voice and adds another thing, this one with no price on it.
 >
-> > Separate from all that, and you can have it whichever way you decide. The pub man on Trollskull Alley, Frewn. The money he paid us with came in a purse sealed with Istrid Horn's mark, and two of her collectors sat in a corner while he hired us. I thought you might like to know how your own people keep an eye on you.
+> > "Separate from all that, and you can have it whichever way you decide. The pub man on Trollskull Alley, Frewn. The money he paid us with came in a purse sealed with Istrid Horn's mark, and two of her collectors sat in a corner while he hired us. I thought you might like to know how your own people keep an eye on you."
 
 > [!gamemaster]**What Dasher Knows**
 >
@@ -334,7 +342,7 @@ If the party brokered the meeting and brings Blossom to the Waymoot on the next 
 >
 > Blossom crosses the little square with her walking stick and a cloth-wrapped bundle under one arm. Dasher stands from the fountain's rim and does not move toward her, and she stops an arm's length from him and looks him up and down.
 >
-> > You're thinner. Have you been eating properly? I've brought apple cake, and you're going to have some, and then you're going to tell me where you're sleeping and whether it's warm.
+> > "You're thinner. Have you been eating properly? I've brought apple cake, and you're going to have some, and then you're going to tell me where you're sleeping and whether it's warm."
 >
 > Dasher takes the cake and breaks off a piece. They sit on the fountain's rim together, and Kelso and Brynn turn away toward the cart to give them room.
 
@@ -346,7 +354,7 @@ If the party gives Blossom Dasher's location against his wishes, read or paraphr
 >
 > Blossom listens to the name of the gang and the ward it works in, and she thanks you in a level voice. She sets her cup down and folds her hands on her lap for some time before she speaks.
 >
-> > I'll go at once. I won't scold him and I won't bring the Watch, but I'll tell you plainly that he's going to know who sent me.
+> > "I'll go at once. I won't scold him and I won't bring the Watch, but I'll tell you plainly that he's going to know who sent me."
 
 Blossom goes to the Field Ward the next morning. The Shunners have moved out overnight, and Kelso meets her at the door of an empty cellar with a note in Dasher's hand that says only that he is alive and does not want to be found. She sends the reward to Trollskull Manor by courier two days later, with a short card of thanks. Kelso closes the Shunners' doors to the party from that day forward.
 
@@ -358,7 +366,7 @@ If the party walks away, read or paraphrase the following:
 >
 > Dasher watches you stand, nods once and picks up his purse from the stone.
 >
-> > That's fair, and I'd have liked a better answer from myself, honestly. If you see my mother, tell her I'll write when I know what to say, because I mean that.
+> > "That's fair, and I'd have liked a better answer from myself, honestly. If you see my mother, tell her I'll write when I know what to say, because I mean that."
 
 > [!hazard]**If the Meeting Turns Violent**
 >
@@ -378,13 +386,23 @@ If the party walks away, read or paraphrase the following:
 
 ### Istrid's Ledger
 
-Members can take Dasher's claim to Istrid Horn at any time before the debrief. She receives them in her guarded Dock Ward warehouse as she would any Fang.
+Members can take Dasher's claim to Istrid Horn at any time before the debrief. She receives them in her guarded Dock Ward warehouse as she would any Fang. Mark **Emmek Funding Reported** as soon as a member tells her what Dasher said, if the party has not already told Tashlyn.
+
+If **Emmek Funding Reported** is not yet marked, read or paraphrase the following:
 
 > [!readaloud]
 >
 > The warehouse is dry and warm, stacked with locked chests, and a broad-shouldered dwarf woman sits behind a long table with a ledger open in front of her and a tray of tea at her elbow. She taps one line with a finger, closes the book on it, and waves you to the chairs.
 >
-> > Come in out of the damp, dear. Sit. I hear you have a question about one of my accounts, and I'd like to answer it before it turns into a rumor.
+> > "Come in out of the damp, dear. Sit. I hear you have a question about one of my accounts, and I'd like to answer it before it turns into a rumor."
+
+If the party already marked **Emmek Funding Reported** by telling Tashlyn, read or paraphrase the following:
+
+> [!readaloud]
+>
+> The warehouse is dry and warm, stacked with locked chests, and a broad-shouldered dwarf woman sits behind a long table with a ledger open in front of her and a tray of tea at her elbow. She closes the book on a marked line and waves you to the chairs with the air of someone who has already had one difficult visitor.
+>
+> > "Come in out of the damp, dear. Sit. Captain Yafeera sent word about Mr. Frewn's account an hour ago, and I would rather hear your version than hers."
 
 > [!social]**The Lender in the Warehouse**
 >
@@ -400,17 +418,17 @@ Members can take Dasher's claim to Istrid Horn at any time before the debrief. S
 
 > [!qna]**About Emmek's loan?**
 >
-> > Mr. Frewn borrowed a hundred and fifty gold, dear, at ten percent each tenday. He told me it was for his cellar and his stock, which is the sort of thing a publican says. What a borrower buys with my gold is his affair, and I try not to ask.
+> > "Mr. Frewn borrowed a hundred and fifty gold, dear, at ten percent each tenday. He told me it was for his cellar and his stock, which is the sort of thing a publican says. What a borrower buys with my gold is his affair, and I try not to ask."
 
 > [!qna]**Did you know about the Shunners?**
 >
 > Istrid taps the ledger once with one finger.
 >
-> > One of my collectors mentioned that Mr. Frewn had hired some halflings to make trouble for your tavern, and I saw no reason to stop him. He was spending, which meant he'd keep borrowing, and it is a pity, dear, but I never told him to do it.
+> > "One of my collectors mentioned that Mr. Frewn had hired some halflings to make trouble for your tavern, and I saw no reason to stop him. He was spending, which meant he'd keep borrowing, and it is a pity, dear, but I never told him to do it."
 
 > [!qna]**What will you do now?**
 >
-> > If you tell me it troubles you, I'll have my people stay away from any hiring aimed at a member's property. Vergadain smile on it. I won't call in his loan on your account, though, because that isn't how I run this book.
+> > "If you tell me it troubles you, I'll have my people stay away from any hiring aimed at a member's property. Vergadain smile on it. I won't call in his loan on your account, though, because that isn't how I run this book."
 
 ### Renown Opportunities
 
@@ -420,39 +438,55 @@ Tashlyn expects the members at the wagon yard at 17:00 the day after the party s
 >
 > Tashlyn is standing exactly where she stood before, and the wagon beside her is the same one, though the mule has been changed. She looks at each of you in turn and then at the ground, and she does not ask you to sit.
 >
-> > Report. Did you find the halfling, and what did the family say?
+> > "Report. Did you find the halfling, and what did the family say?"
 
-If the party claimed the reward, read or paraphrase the following:
+Read the branch that matches the outcome the party marked. If the party marked **Snobeedle Meeting Brokered** or **Dasher Location Given Up**, or delivered Dasher's letter to Blossom, read or paraphrase the following:
 
 > [!readaloud]
 >
 > You put the purse into her hand. She weighs it, counts it with her thumb, and slides a small pouch back across the wagon bed without looking at it.
 >
-> > That's five hundred, and fifty of it is yours, as agreed. The family is satisfied, the Watch never noticed us, and nobody died, which is adequate.
+> > "That's five hundred, and fifty of it is yours, as agreed. The family is satisfied, the Watch never noticed us, and nobody died, which is adequate."
 
-If the party bought Dasher's silence, read or paraphrase the following:
+If the party marked **Dasher Location Given Up**, Tashlyn adds nothing about Dasher, and Kelso's hostility is the party's to discover later. If the party marked **Snobeedle Meeting Brokered**, she asks one question before she dismisses them:
+
+> [!readaloud]
+>
+> Tashlyn tucks the purse inside her cloak and looks at you for a moment longer than she needs to.
+>
+> > "The mother and the boy talked, and nobody drew a blade. I expected it to go harder than that, and I'm not going to say so twice."
+
+If the party marked **Dasher Silence Bought**, read or paraphrase the following:
 
 > [!readaloud]
 >
 > You tell her that Dasher couldn't be found, and she looks at you a moment longer than the words require. Her voice, when it comes, is very level.
 >
-> > Three days for nothing, and five hundred gold I'll never see because you couldn't manage a simple fucking search. That's shit work, but it stands because I can't prove otherwise, and you will not waste my time like that again.
+> > "Three days for nothing, and five hundred gold I'll never see because you couldn't manage a simple fucking search. That's shit work, but it stands because I can't prove otherwise, and you will not waste my time like that again."
 
-If the party walked away, read or paraphrase the following:
+If the party marked **Snobeedle Walked Away**, read or paraphrase the following:
 
 > [!readaloud]
 >
 > You tell her you found Dasher, that he refuses to go home, and that you will not say where he is. Tashlyn folds her arms and considers you for a long moment.
 >
-> > So the Network loses five hundred gold for a halfling's feelings, and you had better be right about that. You found him and kept it out of the Watch's hands, though, and I'll allow it once.
+> > "So the Network loses five hundred gold for a halfling's feelings, and you had better be right about that. You found him and kept it out of the Watch's hands, though, and I'll allow it once."
 
-Members who tell Tashlyn what Dasher said about Emmek Frewn get the following:
+If a member tells Tashlyn what Dasher said about Emmek Frewn and **Emmek Funding Reported** is not yet marked, mark it and read or paraphrase the following:
 
 > [!readaloud]
 >
 > Tashlyn's jaw tightens as you repeat it, and she is silent for the space of a breath.
 >
-> > That's Istrid's coin and Istrid's business, but nobody told me a member's tavern was paid against with her collectors in the room. I'll ask her myself, so leave it with me.
+> > "That's Istrid's coin and Istrid's business, but nobody told me a member's tavern was paid against with her collectors in the room. I'll ask her myself, so leave it with me."
+
+If **Emmek Funding Reported** was already marked at Istrid's warehouse, read or paraphrase the following instead:
+
+> [!readaloud]
+>
+> Tashlyn folds her arms and watches you a moment before she speaks.
+>
+> > "Istrid already told me what you asked her, and what she said doesn't improve my opinion of her collectors. You brought it to her before you brought it to me, and I'll remember that too."
 
 If the party did not tell Tashlyn how it learned about the loan, she does not ask.
 
