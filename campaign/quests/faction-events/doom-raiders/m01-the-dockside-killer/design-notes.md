@@ -1,13 +1,29 @@
 # Design Notes: The Dockside Killer
 
-## Soluun as a Cross-Faction Thread
+## What the Rewrite Restores
 
-***Soluun Xibrindas's long reach.*** Soluun appears here as a low-level investigation target, but he carries more weight than the mission brief suggests. He is the brother of Nar'l Xibrindas — Jarlaxle's deepest asset inside Xanathar's Guild — and Nar'l has been covering for Soluun's unauthorized presence in Waterdeep for weeks. The party does not learn this here. They learn it in Bregan D'aerthe Mission 4, where Nar'l's exposure begins precisely because of what Soluun has been doing in the Dock Ward. DR-M1 plants the seed; BD-M4 pays it off.
+***The stakeout shape.*** The restored draft compressed the source's three nights into a single evening and left out the Harbor Watch entirely. This version restores the shape in *Dragon Heist* and the Alexandrian Remix: three consecutive nights at the Muleskull between second and fourth bell, Gorra on Night 1, Heldar on Nights 2 and 3, and Soluun's ambush on the last. Each night has a job. Night 1 teaches the rhythm, Night 2 shows the target and the watcher, and Night 3 puts the party in the alley. Three independent sources (the door, Gorra's tip and the barkeep, and the still figure on the roof) tell the party that Heldar is the target, so no failed check ends the search.
 
-The forged D'aerthe token is designed to raise a specific question without answering it. Davil's unusual silence when shown it is the only tell. A party that asks Davil why it interests him gets nothing. A party that encounters Soluun again in **Sea Maidens Faire**, or that follows the BD mission chain, eventually understands what the token meant and what it cost Nar'l.
+***The playbill.*** The draft replaced the source's bloodstained Seven Masks playbill with a forged token. The playbill is back, with its DC 12 link to Bregan D'aerthe and its DC 14 note on "Rongquan Mystere" and Luskan money. It is the lead that **Faction Outposts** and the Bregan D'aerthe missions rely on. The token stays as a second item, because Soluun's Notable Figures page and **The Compromised Eye** both mention a forged Bregan D'aerthe token. Gorra's report of a Seven Masks ticket stub in a victim's boot and Heldar's account of *Blood Wedding* add two more routes to the theater, so the lead doesn't depend on one loot drop.
 
-## Soluun's Escape Mechanics
+## Soluun, His Weapons and His Story
 
-***Why Soluun is allowed to escape.*** The three-check pursuit over the rooftops is genuinely winnable — three DC 14 Athletics checks before three failures is a reasonable challenge for a 2nd-level party with a fast character in front. But the escape path is preserved because Soluun's reappearance in **Sea Maidens Faire** is dramatically valuable and should not be foreclosed by a guaranteed capture mechanic. A party that catches him neutralizes his **Sea Maidens Faire** presence; a party that doesn't encounters a drow on the waterfront who recognizes them and has months of grievance to draw on.
+***Blade and bolt.*** The source says the victims were decapitated by a blade, and Soluun is a gunslinger with a hand crossbow. The killings use both: the bolt drops the victim from behind, the curved shortsword takes the head, and Soluun collects the bolt afterward. That explains the small hole in each victim's back that Gorra reports and the missing bolt. Scouts carry a longbow and a shortsword, so his stat block swaps the longbow for a hand crossbow (+4 to hit, 5 piercing damage, range 30/120).
 
-The Watch file created when Soluun is delivered alive is the cleaner payoff: it establishes the Watch's knowledge of an unauthorized drow operating in the city before **Sea Maidens Faire** asks questions about Bregan D'aerthe exposure.
+***The disownment.*** The restored draft treated Soluun's disownment as real. His Notable Figures page says it is a cover story and that Jarlaxle knows about the murders and hasn't decided what to do. This version keeps that in GM text only, and Soluun never mentions being disowned. He also never speaks of Lolth with devotion, because Bregan D'aerthe rejects her: when asked about his goddess he answers with contempt.
+
+***Hired hands.*** A lone Scout is no threat to a party of three, four or five, and the mechanics reference recommends dock hirelings for the flanks. Two Luskan sailors, a **Bandit** and a **Tough** depending on party size, hold the Ship Street corner and close the alley mouth. They never learn Soluun's name, so Bregan D'aerthe muscle stays out of a mission where Soluun acts on his own.
+
+***Heldar's fate.*** The party can save Heldar or chase Soluun, and it can't always do both. A character who spends an action stabilizes him, and if nobody does he dies. A **Heldar Survived** outcome would have no reader in **The Poisoned Delivery**, so it is not marked. Heldar's survival is tracked only through the bonus Renown and the 50 gp.
+
+## Campaign Connections
+
+***Three Soluun outcomes.*** **Soluun Captured**, **Soluun Escaped** and **Soluun Killed** are read by **Sea Maidens Faire**, where the Notable Figures page places Soluun aboard the Scarlet Marpenoth and Savra Belabranta asks about the elf-killer. A captured Soluun is released within a tenday on surety from "Rongquan Mystere", which gives a second lead to the theater's owner. An escaped Soluun returns weeks later and before Tarsakh 20, the Faire's departure deadline. The restored draft's "several months" didn't fit that calendar.
+
+***Nar'l Xibrindas.*** Nar'l is Soluun's brother and Jarlaxle's asset inside Xanathar's Guild. The party doesn't learn this here. **The Compromised Eye** pays it off, and Krebbyg refers to this encounter for parties that ran both chains.
+
+***Davil's silence.*** Davil says "That's interesting" and nothing more. His profile says he never explains why he wants to know something, and the players' curiosity becomes a seed for later Bregan D'aerthe encounters.
+
+## Pointers to the Out-of-Scope Notes
+
+Gorra, Heldar and the hired hands are voiced from the Event text, since no voice profiles exist. Gorra's alignment and species, Heldar's alignment, the Ship Street watchhouse, the hired hands' Luskan origin and the surety release are invented for this Event. The **Faction Outposts** reader for **Seven Masks Lead**, the **Sea Maidens Faire** readers for the three Soluun outcomes and the Bregan D'aerthe overview's claim that Soluun was "disowned" belong in the Doom Raiders section of `docs/plans/harpers-out-of-scope-notes.md`.
