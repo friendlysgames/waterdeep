@@ -31,7 +31,7 @@ In Waterdeep, the Harpers maintain strong ties to the city's intellectual and ar
 - **Corene Wyldath** — Halfling Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation; compromised by an intellect devourer as of three tendays before Mission 5. See the **Corene Wyldath** page in Notable Figures.
 - **Variel Duskwhisper** — Wood elf bard; Harper courier operating under touring musician cover; passes one piece of network intelligence per tenday. See the **Variel Duskwhisper** page in Notable Figures.
 - **Corvin & Nessa Vayle** — Human twins; Corvin runs a minor Harper waypoint through a courier role; Nessa knows not to ask. See the **Corvin & Nessa Vayle** page in Notable Figures.
-- **Maxeene** — Draft horse with permanent Speak with Animals; Harper intelligence asset who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year. See the **Maxeene** page in Notable Figures.
+- **Maxeene** — Draft horse with a permanent enchantment that lets her understand and speak Common; Harper intelligence asset who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year. See the **Maxeene** page in Notable Figures.
 
 ## Grand Game Agenda
 
