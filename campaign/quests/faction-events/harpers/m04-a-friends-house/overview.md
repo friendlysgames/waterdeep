@@ -14,7 +14,7 @@
 
 ## Hook
 
-Remallia Haventree's invitation reaches the members' lodging at noon, three days before her salon at House Ulbrinter in the Sea Ward. It names their assisting companions as guests. Mirt sends a separate note asking the Harper members to find an impostor among the guests.
+Remallia Haventree's invitation reaches the members' lodging at noon, three days before her salon at House Ulbrinter, her villa on Delzorin Street in the North Ward, between Vhezoar Street and Brondar's Way. It names their assisting companions as guests. Mirt sends a separate note asking the Harper members to find an impostor among the guests.
 
 ## Background
 

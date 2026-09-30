@@ -10,7 +10,7 @@ The three events each ask for a different decision: whom to talk to, which route
 
 Remallia's place in the Harpers is disclosed privately here for the first time, while the public introductions protect everyone's covers and membership boundaries. Earlier rank support still goes through Mirt, and companions can attend the salon without hearing the private Harper briefing.
 
-This draft keeps House Ulbrinter in the Sea Ward, as the restored mission has it. Appendix C, The Spy at Haventree's Party, Scene 1 puts the villa on Delzorin Street in the North Ward, between Vhezoar and Brondar's Way. That discrepancy is recorded here for later reconciliation, and no external campaign page has been edited.
+The mission follows WDH and Appendix C in placing House Ulbrinter on Delzorin Street in the North Ward, between Vhezoar Street and Brondar's Way.
 
 The Cassalanter purchases are unusual commercial evidence and nothing more, because no guest knows of a pact, a ritual or an infernal patron. Farrak's guesses are about a ceremonial display, not a rite he has identified. Zalara's old administrative entry gives the party a reference to the vault, and it doesn't show that the present hoard has stayed there since 1244 DR.
 

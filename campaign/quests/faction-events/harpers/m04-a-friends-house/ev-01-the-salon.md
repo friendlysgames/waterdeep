@@ -49,7 +49,7 @@ If the guests arrive without formal wear, the steward opens the cloakroom before
 
 ### House Ulbrinter
 
-The three-story Sea Ward villa opens its doors at 19:00. Twenty-four guests gather in the salon and the garden courtyard, dinner is served at 20:00 and the evening ends at 22:00. Remallia greets each invited character by name and gives them ordinary social access, without introducing them publicly as agents.
+The three-story villa stands on Delzorin Street in the North Ward, between Vhezoar Street and Brondar's Way, a short walk from Trollskull Alley, and it opens its doors at 19:00. Twenty-four guests gather in the salon and the garden courtyard, dinner is served at 20:00 and the evening ends at 22:00. Remallia greets each invited character by name and gives them ordinary social access, without introducing them publicly as agents.
 
 > [!readaloud]
 >
