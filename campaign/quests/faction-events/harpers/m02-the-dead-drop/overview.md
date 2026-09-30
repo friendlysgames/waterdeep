@@ -45,7 +45,7 @@ Uza gives the spellbook to the assisting party as a shared gift whatever happens
 
 ## Aftermath
 
-Uza becomes a Trades Ward book contact, and Mirt relocates the dead drop and handles the exposed contacts according to the party's report. **Harper Contacts Relocated** records that the contacts were moved in time, and **Cassalanter Villa** reads it. It doesn't take back any intelligence already delivered, and it tells nobody anything about a noble family's secrets. **The Doppelganger Auditions** becomes available at Renown 5 and 4th level.
+Uza becomes a Trades Ward book contact, and Mirt relocates the dead drop and handles the exposed contacts according to the party's report. **Harper Contacts Relocated** records that the contacts were moved in time, and **The Tail** reads it. It doesn't take back any intelligence already delivered, and it tells nobody anything about a noble family's secrets. **The Doppelganger Auditions** becomes available at Renown 5 and 4th level.
 
 ## Involved Characters
 

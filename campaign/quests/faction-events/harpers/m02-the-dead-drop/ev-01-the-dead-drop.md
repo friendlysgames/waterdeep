@@ -327,7 +327,7 @@ The members' report concludes the mission. Past exposure, future reporting and t
 > [!gamemaster]**Event Outcomes**
 >
 > - **Harper Cipher Copied** — mark when the party finds the copying evidence; Mirt's later briefings read that exposure, whatever happens to Tessalar.
-> - **Harper Contacts Relocated** — mark when Lysa Fenwick and Teren Moss reach 12 Delzorin Street within forty-eight hours of the warning to Mirt; **Cassalanter Villa** reads the preserved contact chain.
+> - **Harper Contacts Relocated** — mark when Lysa Fenwick and Teren Moss reach 12 Delzorin Street within forty-eight hours of the warning to Mirt; **The Tail** reads it.
 > - **Tessalar Turned** — mark when he agrees to cooperate and files the false report; **The Cell Is Compromised** and **The Sleeping Asset** treat him as a living double agent.
 > - **Tessalar Arrested** — mark when the Watch takes him into custody; later Harper missions read his arrest and the ledger's twenty-four-hour burn deadline.
 > - **Tessalar Warned Off** — mark when he stops reporting and has been neither recruited nor arrested; later Harper missions know he is alive and don't treat him as a double agent.

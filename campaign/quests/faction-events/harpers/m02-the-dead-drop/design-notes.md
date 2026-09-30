@@ -22,6 +22,6 @@
 
 ## Later Harper Operations
 
-***The contact chain.*** **Harper Contacts Relocated** gives **Cassalanter Villa** a precise record of what was saved, since the household contacts were moved and know nothing of any noble family's private secrets. The reader on the Cassalanter side lives outside this folder and needs its own integration, so the outcome records the intended connection and leaves that page alone.
+***The contact chain.*** **Harper Contacts Relocated** protects Lysa Fenwick and Teren Moss, who work for House Amcathra and House Rosznar and know nothing of any noble family's private secrets. Its only reader is **The Tail** in **The Doppelganger Auditions**, where the Splinter's household files then show just the contacts' old routines and no second relocation is needed.
 
 ***A surviving informant.*** Tessalar's fate carries into **The Cell Is Compromised** and **The Sleeping Asset**, which lets those investigations tell his reporting apart from Orren Vale's separate leak. The relocation of the drop and the fate of the ledger also decide which physical collection point stays available, so the party's evidence choices keep their consequences.

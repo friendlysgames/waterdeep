@@ -167,7 +167,7 @@ The members' report ends the pursuit, and Bonnie's exclusion settles the crew wh
 > - **Edric Report Delivered** — mark at 09:00 if not intercepted; **Kolat Towers** and later Splinter opposition read only the recorded observations.
 > - **Edric Captured** — mark when the party or Watch keeps him in custody; later Harper reports preserve that status instead of assuming an escape.
 > - **Nethpranter Safehouse Reported** — mark when the members give Mirt its address or files; **Faction Outposts** reads the secondary location, and the single mission bonus is recorded here.
-> - **Harper Contacts Relocated** — mark when both known noble-house contacts reach 12 Delzorin Street within forty-eight hours of warning Mirt; **Cassalanter Villa** reads the preserved contact chain.
+> - **Harper Contacts Relocated** — mark when both known noble-house contacts reach 12 Delzorin Street within forty-eight hours of warning Mirt.
 > - **Harper M3 Complete** — mark once the assessment is reported and Bonnie excludes Edric; **The Doppelganger Problem** reads his absence even if he escaped.
 
 > [!gamemaster]**Next Steps**
