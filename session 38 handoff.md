@@ -31,7 +31,12 @@ Git range: `git log ba31828..HEAD` (the base is the Session 37 handoff commit). 
 | File | What changed |
 |------|-------------|
 | `campaign/quests/faction-events/doom-raiders/**` (26 original files) | Each file was restored to its creation commit, then rewritten on the Harper page model. That means descriptive scenes, member-only briefs and renown, named Event Outcomes, 2024 stat blocks, the **Manshoon Named** gate, source beats restored from Appendix C/WDH, and the Mechanics Reference rosters. |
-| `doom-raiders/00-first-meeting/ev-01-first-meeting.md` | Late addition at the user's request: a "The Large Man" GM sidebar says Davil's "large man who behaves as if every room belongs to him" is Urstul Floxin. |
+| `doom-raiders/00-first-meeting/ev-01-first-meeting.md` | Late additions at the user's request: a "The Large Man" GM sidebar says Davil's "large man who behaves as if every room belongs to him" is Urstul Floxin. A "Durnan and the Doom Raiders" GM sidebar, plus Davil and Yagra qna answers, explains why Durnan tolerates the cell at the Portal. |
+| `doom-raiders/m01-the-dockside-killer/*` | Late addition: Heldar is canon as a paid companion along the waterfront, bad enough at it that clients ask for their money back. |
+| `doom-raiders/s01-davils-arrest/*` | Late additions: Tashlyn tells members aloud about the three legal routes to free Davil. The event reads Gralhund's **Floxin Status**; if Floxin is Dead or Captured, someone above him gives the orders. |
+| `doom-raiders/{m04,s02,r03,r25,r50}/*` | Late sweep: in-fiction "Floxin's cell" became "the other cell" / "the Splinter", with a GM **Floxin Status** rule in each event. |
+| `doom-raiders/m05-the-yellowspire-job/*` | Late scope change: if **Yellowspire Raided** is marked, the mission runs only the new debrief page. The reinforced return visit is cut. |
+| `doom-raiders/m06-zirajis-last-hunt/*` | Late fixes: Corellon's Crown is a two-minute walk (same alley as the manor), and the timeline was rebuilt. The mission reads the Kolat Towers results (Manshoon operational?, Vevette, the K18 rune, the Doom Raiders' parallel operation). |
 | `.claude/skills/update-campaign-viewer/references/viewer-template.html` | `openJournal` always loads a page. New `resetPaneScroll` and `renderPageNav` (Previous/Next), plus `.page-nav` CSS. |
 | `docs/index.html` | Rebuilt from the template. |
 | `docs/plans/harpers-out-of-scope-notes.md` | Adds a "Doom Raiders event rewrite (Session 38)" section: missing readers and writers, guide/setting contradictions, source discrepancies, invented names. |
@@ -42,6 +47,7 @@ Git range: `git log ba31828..HEAD` (the base is the Session 37 handoff commit). 
 | `doom-raiders/{00-first-meeting,s01,s02,r03,r10,r25,r50}/design-notes.md` | Design notes for the 7 folders that had none |
 | `doom-raiders/m04-silencing-skeemo/ev-03-the-reckoning.md` | New third M4 event (cornered Skeemo, double-agent gambit, capture, accident staging, debrief) |
 | `docs/plans/doom-raiders-conversion-brief.md` | Approved plan and conversion spec, plus per-folder source facts |
+| `doom-raiders/m05-the-yellowspire-job/ev-02-the-debrief.md` | Debrief-only page for parties who already raided Yellowspire in Faction Outposts; still sets Force Field Gap Intel |
 | `docs/plans/doom-raiders-mechanics-reference.md` | CR 2.0 rosters and thresholds for 3/4/5 combatants, checked against the 5etools-mirror-3 2024 Monster Manual and 2024 spell data |
 
 ---
@@ -65,8 +71,21 @@ Git range: `git log ba31828..HEAD` (the base is the Session 37 handoff commit). 
 **Decision:** Ziraj hands over his notes at Corellon's Crown after The Yellowspire Job. M6 becomes a post–Kolat Towers revenge hunt.
 **Reasoning:** M6 is 7th level, which requires Kolat Towers to be done, yet its intel was read by Kolat Towers Scene 1. This answers Session 37's decision 6 for the Doom Raiders.
 
-### Yellowspire in M5 is a return visit
-**Decision:** If Faction Outposts 5B ran (**Yellowspire Raided**), the relay is rebuilt and reinforced. If it didn't, M5 uses the arc-e layout. Both versions are in the Castle Ward, with Amath and her acolytes.
+### Yellowspire in M5: debrief if already raided (supersedes "return visit")
+**Decision:** If Faction Outposts 5B ran (**Yellowspire Raided**), M5 does not send the party back. It runs only **The Debrief**, where the members report to Davil's inner circle and Ziraj hands over his notes. Otherwise ev-01 runs the heist, set in the Castle Ward with Amath and her acolytes. This replaces the earlier "rebuilt and reinforced return visit" decision.
+> "all the information from the yellowspire faction event will already be there if the party goes there as part of the outpost events first. In that case, the event gets a new page which is just a briefing with Davil and the rest" — User, this session
+
+### Floxin is usually dead after Gralhund Villa
+**Decision:** Doom Raiders events read Gralhund's **Floxin Status** (Alive / Dead / Captured). If he's Dead or Captured, Tashlyn tells members that the man they thought led the other cell is gone, yet the cell still moves under someone they can't name. Speech says "the other cell" rather than "Floxin's cell".
+> "Floxin is likely dead by Davil's Arrest, as he likely got killed by the party in Gralhund Villa. That needs to be accounted for" — User, this session
+
+### Late content rulings
+- **Heldar:** canon as a bad paid companion. *("honestly hilarious and I think should be canonised" — User)*
+- **Davil's Arrest:** players are told the legal routes in play. *("Davil's Arrest needs to tell the players that they can try to help Davil through legal means, otherwise they'd need to realise it themselves" — User)*
+- **Durnan:** the First Meeting explains why he tolerates the Doom Raiders. *("why is Durnan allowing the Doom Raiders to operate from his very well established and very famous tavern?" — User)*
+- **Fala:** her shop is in the same alley as Trollskull Manor, so M6 travel is minutes, not a quarter hour.
+- **Kolat Towers:** M6 must read the Kolat Towers results. *(User)*
+- **Soluun:** if he survives M1, Jarlaxle must decide his fate, most likely expelling him. This is logged as out of scope.
 
 ### Events only; log the rest
 **Decision:** Only the Doom Raiders event files were edited. Contradictions in guides, setting pages, other quests and arc docs went into the out-of-scope notes.
@@ -143,6 +162,10 @@ All earlier rules stay in force (CLAUDE.md and Sessions 35–37). Reinforced or 
 ## Outstanding Work
 
 ### New this session
+- [ ] **Faction Outposts must write Yellowspire Ledger Taken, Yellowspire Letters Taken and Yellowspire Clean Exit,** and 5B must add a relay ledger and coded letters to Yellowspire, for M5's debrief to pay out.
+- [ ] **Kolat Towers must name** Vevette's fate, the K18 rune and the Doom Raiders' parallel-operation result as outcomes, since M6 reads them. M6's design notes have the list.
+- [ ] **Gralhund Villa's Floxin Status flag** should become named Event Outcomes. The Doom Raiders events read it.
+- [ ] **Settle Soluun's fate with Jarlaxle** if Soluun survives M1, in Sea Maidens Faire and the Bregan D'aerthe missions.
 - [ ] **Faction Outposts must write Manshoon Named and Yellowspire Raided** when arc-e is converted. Doom Raider events already read both. See the out-of-scope notes, "Doom Raiders event rewrite".
 - [ ] **Wire the Doom Raiders outcomes into their readers** when each arc doc is converted:
   - arc-e: Seven Masks Lead, Shard Shunners Goodwill, Dasher Location Given Up.

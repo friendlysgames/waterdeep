@@ -12,7 +12,7 @@ Skeemo's double-agent claim is restored as a test of Insight (DC 18 for partial 
 
 The source has Skeemo cast *greater invisibility*, and the Mage does not have that spell. He uses *Invisibility*, and it cannot run alongside *Fly*, which lasts an hour, so the chase makes him land before he vanishes. Yellowspire now sits in the Castle Ward, following the Session 38 decision and WDH, and the old draft's Copper Pot Lane location is dropped. The shop and dray sit on an unnamed Trades Ward side street.
 
-Until **Manshoon Named** is marked, every Doom Raider says "the other cell", "Floxin's cell" or "the Splinter". The truth stays in GM-only blocks.
+Until **Manshoon Named** is marked, every Doom Raider says "the other cell" or "the Splinter", and "Floxin's cell" only if **Floxin Status** is Alive. The truth stays in GM-only blocks.
 
 ## Minor Characters and Open Questions
 

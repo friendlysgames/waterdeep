@@ -255,6 +255,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
 - **Faction Outposts (arc-e):**
   - It must **write Manshoon Named** at the Interrogation House.
   - It must write **Yellowspire Raided** when 5B is entered, because M5 branches on it.
+  - **Yellowspire scope change (user, Session 38):** if **Yellowspire Raided** is marked, M5 no longer sends the party back. It runs only its new page, **The Debrief** (`m05-the-yellowspire-job/ev-02-the-debrief.md`), where the members report to Davil's inner circle. For that page to pay out, arc-e 5B must add a relay ledger and three coded letters to Yellowspire, and must write **Yellowspire Ledger Taken**, **Yellowspire Letters Taken** and **Yellowspire Clean Exit**.
   - It should read **Seven Masks Lead** (M1), **Shard Shunners Goodwill** and **Dasher Location Given Up** (M3).
   - arc-e ~l.121 and ~l.325 say the Seven Masks lead needs no check.
 - **Xanathar's Lair (arc-f:41):** read **Tashlyn Contact** (s01) and **Davil Released** (s02). Today it reads "Mission 4 complete".
@@ -265,6 +266,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
   - Read **Relay Ledger Recovered**, **Vevette Letters Recovered**, **Yellowspire Alarm Sounded** and **Yellowspire Circle Destroyed**. Scene 2's K22 circle and the Lockdown row assume the circle survives.
   - Read **Skeemo at Kolat Towers** in place of "survived Gralhund Villa or Faction Outposts" (l.104, l.168), and **Davil Released**.
   - The ledger's Advantage on the Alert-tier recalibration check and the gap-cycle dusk anchor are M5 inventions to adopt or cut.
+- **Kolat Towers outcomes read by M6 Ziraj's Last Hunt:** M6 keys the kill team's motive, Ondra's answers and Davil's debrief to arc-i's **Manshoon operational?** (Destroyed / Simulacrum Only / Alive), Vevette Blackwater's fate (captured / killed / escaped), whether the K18 rune fell and the force field went down, and the result of the Doom Raiders' parallel operation. arc-i has formal names only for the first, so the conversion must name the rest to match.
 - **Vault of Dragons (arc-j:53, :262):**
   - Replace "if Mission 6 succeeded" with **Ziraj Survived / Ziraj Fell**, **Splinter Kill Team Broken**, **Splinter Survivor Escaped** and **Splinter Remnant Plan Learned**. The Scene 1/5/6 effects are M6 inventions to match on conversion.
   - Skeemo appears only if **Skeemo at Kolat Towers**. **Skeemo Exiled / Handed to the Watch / Executed** (s02) keep him away.
@@ -312,7 +314,9 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
   - "When the party joins" is written party-wide.
 - **`fireball/ev-01:204`:** Davil calls Floxin "Manshoon's blade", which is ungated.
 - **`gralhund-villa/ev-01`:** **Davil Brief Received** isn't read by s01. It is also a True/False flag.
+- **`gralhund-villa/flowchart.md:101` (Floxin Status: Alive / Dead / Captured):** lists only **Kolat Towers** as a reader. The Doom Raiders events now read it too (Davil's Arrest, and the later events' "Floxin's cell" lines), and it should be turned into named Event Outcomes when Gralhund's flags are converted.
 - **`gralhund-villa/ev-09`:** "Keep a low profile. I'll be in touch." is presented as a snake message (s01 makes it Tashlyn's closing line). The Istrid Renown changes "if reported to Tashlyn" now happen at the s01 meeting. **Istrid Horn Helped / Turned In** are True/False flags with no DR reader.
+- **Soluun after The Dockside Killer (user note, Session 38):** if Soluun survives M1 (**Soluun Captured** or **Soluun Escaped**), Jarlaxle has to decide what to do about him, most likely throwing him out of Bregan D'aerthe for good. The cover-story disownment becomes real once an agent has killed openly in Waterdeep and been seen doing it. Sea Maidens Faire (arc-h) and the Bregan D'aerthe missions (M4 especially) need a scene or GM note that settles it.
 - **`bregan-daerthe/m04-the-compromised-eye` ev l.37:** Krebbyg calls Soluun "disowned" (it's a cover story) and mentions DR M1 without reading an outcome.
 - **`emerald-enclave` M3:** it names Kelso as a Splinter buyer. DR M3 doesn't use it.
 

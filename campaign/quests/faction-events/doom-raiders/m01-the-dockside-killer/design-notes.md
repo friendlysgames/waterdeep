@@ -14,6 +14,8 @@
 
 ***Hired hands.*** A lone Scout is no threat to a party of three, four or five, and the mechanics reference recommends dock hirelings for the flanks. Two Luskan sailors, a **Bandit** and a **Tough** depending on party size, hold the Ship Street corner and close the alley mouth. They never learn Soluun's name, so Bregan D'aerthe muscle stays out of a mission where Soluun acts on his own.
 
+***Heldar's side trade.*** Heldar is a paid companion whenever his ship is in, and he is bad enough at it that clients ask for refunds. The detail makes a single-scene victim someone the table likes, so the choice between the chase and the wounded man carries weight. The comedy is at his expense and never the clients'.
+
 ***Heldar's fate.*** The party can save Heldar or chase Soluun, and it can't always do both. A character who spends an action stabilizes him, and if nobody does he dies. A **Heldar Survived** outcome would have no reader in **The Poisoned Delivery**, so it is not marked. Heldar's survival is tracked only through the bonus Renown and the 50 gp.
 
 ## Campaign Connections

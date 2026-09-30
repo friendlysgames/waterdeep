@@ -26,7 +26,7 @@ At sunset a flying snake finds each Doom Raiders member who marked **Tashlyn Con
 >
 > Davil was fond of Skeemo and will never say so. He learned of the betrayal and of Skeemo's fate from Tashlyn on the walk from the Castle Ward gate, and he has had perhaps an hour to take it in.
 >
-> The Doom Raiders believe Urstul Floxin leads the Splinter. The truth is that Floxin serves Manshoon, and every report Skeemo sent went to Manshoon's fortress at Kolat Towers in the Trades Ward. Until **Manshoon Named** is marked, Davil says "Floxin's cell", "the other cell" or "the Splinter", and he places the cell's people in "the towers in the Trades Ward where Floxin's cell keeps its people". If **Manshoon Named** is marked, he may say Manshoon's name and may call Kolat Towers Manshoon's home.
+> The Doom Raiders believe Urstul Floxin leads the Splinter. The truth is that Floxin serves Manshoon, and every report Skeemo sent went to Manshoon's fortress at Kolat Towers in the Trades Ward. Until **Manshoon Named** is marked, Davil says "the other cell" or "the Splinter", and he places the cell's people in "the towers in the Trades Ward where they keep their people". If **Floxin Status** is Alive, he may also say "Floxin's cell". If **Floxin Status** is Dead or Captured, Tashlyn has already told him that the man they took for the leader is gone and the cell still moves, so Davil never says "Floxin's cell" and believes someone above Floxin gives the orders. If **Manshoon Named** is marked, he may say Manshoon's name and may call Kolat Towers Manshoon's home.
 >
 > Skeemo kept a notebook on every person the cell hired or recruited, recording what each could do and how each fought, and he sent copies by paper bird once a tenday. Whatever he sent before the party caught him is with the Splinter and cannot be recalled. What the Splinter learns from here on depends on what became of Skeemo.
 
@@ -83,7 +83,7 @@ If the terms are 0, add the following:
 >
 > - The Watch, the custody wing and what he learned there.
 > - The work the members did for his release, which he thanks them for once.
-> - Floxin's cell and the tip that put him in a cell.
+> - The other cell and the tip that put him in a cell.
 > - Skeemo, in the way each branch below describes.
 > - The work he has in mind for the members next.
 >
@@ -97,7 +97,11 @@ If the terms are 0, add the following:
 
 > [!qna]**Who put you there?**
 >
-> > An unsigned note went to the Castle at dawn on the twenty-sixth, and it called me by a title that nobody outside the Network uses. I believe Floxin's cell wanted the Watch looking at us and not at them, and for a time it worked. I'd like to know which of their people wrote it, and I don't expect to find out tonight.
+> > An unsigned note went to the Castle at dawn on the twenty-sixth, and it called me by a title that nobody outside the Network uses. I believe the other cell wanted the Watch looking at us and not at them, and for a time it worked. I'd like to know which of their people wrote it, and I don't expect to find out tonight.
+
+If **Floxin Status** is Dead or Captured, Davil adds the following after his answer:
+
+> > Tashlyn tells me the man we took for their leader is gone, and yet the cell goes on as before. Somebody above him is giving the orders, and neither of us knows who. I'd like to change that, yes?
 
 > [!qna]**What happens now?**
 >
@@ -129,7 +133,7 @@ Read this branch if **Skeemo Silenced** is marked. Davil and Tashlyn have alread
 >
 > One chair at the round table stands a little apart from the others, near the window and with its back to the lamp, and nobody has sat in it. Davil looks at it while he pours, and then he sets the lute case on its seat and takes his own chair, facing the other way.
 >
-> > Tashlyn told me on the walk from the gate, so you needn't say it again. Whatever Skeemo sent to Floxin's cell is with them, and I'd be a fool to think we can get it back. What he would have learned from here on goes nowhere, and I'll take that, yes? Was it quick?
+> > Tashlyn told me on the walk from the gate, so you needn't say it again. Whatever Skeemo sent to the other cell is with them, and I'd be a fool to think we can get it back. What he would have learned from here on goes nowhere, and I'll take that, yes? Was it quick?
 
 A member answers in their own words. Davil listens to the whole answer without interrupting, asks nothing more about it, and thanks the member for telling him. If the terms let him have the lute (2 or 3), he takes it out and plays a slow air through once, stopping partway through the second verse to put it back. If he has no lute, he hums the same tune and his fingers move on the table where the strings would be. After that he turns to the business of the evening.
 
@@ -145,7 +149,7 @@ If **Manshoon Named** is not marked, read or paraphrase the following:
 >
 > Davil sets down the jug and does not sit. He turns the silver trophy on his bracelet, or his cup if the bracelet is still in the property room, and looks at the wall above the table for a while before he speaks.
 >
-> > He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is with Floxin's cell by now, in the towers where they keep their people, and they'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?
+> > He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is with the other cell by now, in the towers where they keep their people, and they'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?
 
 If **Manshoon Named** is marked, read or paraphrase the following instead:
 
@@ -165,7 +169,7 @@ Read this branch if **Skeemo Captured** is marked. Tashlyn has kept Skeemo in th
 >
 > Davil sets down his cup and waits until the booth, or the room, has gone quiet. Tashlyn is watching him, and Yagra has stopped leaning and stands straight.
 >
-> > Tashlyn tells me she's kept him three days and he's given her what he has, which is less than he pretends. What he wrote about you is in her strongbox with the notebooks from his shop. What he sent before you caught him is with Floxin's cell, and nobody can call it back. She also tells me the order she gave you stands, and I'd like to hear from you before I decide whether it does.
+> > Tashlyn tells me she's kept him three days and he's given her what he has, which is less than he pretends. What he wrote about you is in her strongbox with the notebooks from his shop. What he sent before you caught him is with the other cell, and nobody can call it back. She also tells me the order she gave you stands, and I'd like to hear from you before I decide whether it does.
 
 Tashlyn leaves to fetch Skeemo. If the terms are 0, she deals with the constable at the kitchen door the way she dealt with one in the City of the Dead, by opening her coat to show the badge of a City Guard captain and saying a few words, and he takes a seat in the taproom for the evening. She returns through the kitchen yard with Skeemo in a carter's coat, his wrists bound and his spectacles crooked.
 
@@ -241,7 +245,7 @@ If the decision is Handed to the Watch, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Davil takes a clean sheet from inside his coat and sets it in front of Skeemo with a pen laid across it, and the gnome reads the first lines and adjusts his spectacles. The statement names Floxin's cell as his client and the hand that collects his letters, and it gives the three addresses he passed on as false.
+> Davil takes a clean sheet from inside his coat and sets it in front of Skeemo with a pen laid across it, and the gnome reads the first lines and adjusts his spectacles. The statement names the other cell as his client and the hand that collects his letters, and it gives the three addresses he passed on as false.
 >
 > > Sergeant Dunfell likes paper more than she likes anything, so you'll give her yours. Tashlyn will walk you through the Castle gate in the morning, and you'll answer every question the clerks put to you as truthfully as you've answered mine.
 >

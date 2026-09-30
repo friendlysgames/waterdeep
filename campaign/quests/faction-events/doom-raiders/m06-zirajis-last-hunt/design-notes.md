@@ -12,7 +12,11 @@
 
 ***What was cut.*** The forty-three names Davil hands over are gone, because **Kolat Towers** already delivers the list. The "We take care of our own" line is gone as a slogan. The draft's split approach is replaced by the false trail, because the reference rosters assume the whole party fights. The wound rule was rewritten so Fala's healing ends it: magical healing, including her tinctures, removes the Disadvantage, and her two-day rest is advice only.
 
-***Invented and unverified.*** Ondra Kell is invented, along with her status as a survivor of the Kolat Towers raid. The unprofiled minor characters are Ondra and the unnamed Spies. The inn at the far end of the alley has no name in any source. Sail Street is used as in the draft and isn't verified against a setting page. The rooftop hide and black-fletched arrows are invented to explain why the Splinter hunts Ziraj.
+***Invented and unverified.*** Ondra Kell is invented, along with her status as a survivor of the Kolat Towers raid. The unprofiled minor characters are Ondra and the unnamed Spies. The inn near the alley's mouth has no name in any source. Corellon's Crown and Trollskull Manor share the alley, so all timings were recomputed around a two-minute walk, and the pressure now comes from the sweep's approach, Ziraj's bleeding on an open roof and the six minutes it takes to get him down and to the shop. Sail Street is used as in the draft and isn't verified against a setting page. The rooftop hide and black-fletched arrows are invented to explain why the Splinter hunts Ziraj.
+
+## Kolat Towers Readers
+
+This event reads the **Kolat Towers** results by the names `arc-i-kolat-towers.md` uses, and the Kolat Towers conversion must write each one as an Event Outcome: **Manshoon operational?** (Destroyed, Simulacrum Only or Alive, from Scene 6); whether Vevette Blackwater was captured, killed or escaped; whether the K18 rune was destroyed so the force field fell; and the result of the Doom Raiders' parallel operation (whether they cleared the towers). The event also reads **Skeemo at Kolat Towers** from **Silencing Skeemo**, **Yellowspire Circle Destroyed** from **The Yellowspire Job** and **Floxin Status** (Alive, Dead or Captured) from **Gralhund Villa**. The kill team's size never changes with these results; only who sent it, what Ondra says and what Davil says do.
 
 ## Out-of-Scope Notes
 

@@ -165,7 +165,7 @@ The party has three independent ways to conclude that Heldar is the target, and 
 >
 > Any character who watches the Muleskull's door on Night 2 sees that Heldar is the only elf or half-elf who leaves alone after third bell, and that he takes the same alley toward the south quay that he took the night before. No check is needed. A party that has spoken to Gorra also has her description of a late half-elf regular, and a party that didn't can get his name from the barkeep for a silver.
 >
-> > "Heldar. He's off one of the coasters, and he comes in every night his ship is in. Sails at dawn the day after tomorrow, if I remember right. He's a good lad, and a poor drinker."
+> > "Heldar. He's off one of the coasters, and he comes in every night his ship is in. Sails at dawn the day after tomorrow, if I remember right. He's a good lad, and a poor drinker. He also hires himself out as company along the quays, and he's so bad at it that half his customers want their coin back."
 
 > [!exploration]**The Still Figure**
 >
@@ -176,9 +176,9 @@ The party has three independent ways to conclude that Heldar is the target, and 
 
 > [!social]**The Drunk with the Tune**
 >
-> Heldar (Neutral, Half-Elf, he/him) :: a good-natured deckhand in his twenties, three drinks past careful and unbothered by it.
+> Heldar (Neutral, Half-Elf, he/him) :: a good-natured deckhand in his twenties who earns extra coin as a paid companion whenever his ship is in, three drinks past careful and unbothered by it.
 >
-> Heldar is Friendly toward anyone who buys him a drink and finds the idea that he is in danger funny. If a character warns him, he laughs it off, tells them he has been hit harder by the ship's cook, and insists on keeping to his usual road. His ship sails on the morning tide after Night 3, so tonight and tomorrow are his last nights ashore, and he means to enjoy them. He swears casually and cheerfully and doesn't take offense.
+> Whenever his ship is in port, Heldar supplements a deckhand's pay by keeping lonely ladies and gents company along the waterfront. By all reports he is bad enough at it that clients have asked for their money back, and he is cheerfully unashamed. Play it as warm comedy at Heldar's expense and never at the clients', who are simply people who wanted an evening's company. Heldar is Friendly toward anyone who buys him a drink and finds the idea that he is in danger funny. If a character warns him, he laughs it off, tells them he has been hit harder by the ship's cook, and insists on keeping to his usual road. His ship sails on the morning tide after Night 3, so tonight and tomorrow are his last nights ashore, and he means to enjoy them. He swears casually and cheerfully and doesn't take offense.
 >
 > Heldar is happy to discuss the following topics:
 >
@@ -192,11 +192,11 @@ The party has three independent ways to conclude that Heldar is the target, and 
 >
 > Heldar squints up the street and back at you.
 >
-> > "Watched? By what, a lass who wants her money back? Nobody's watching me, friend, and if they are, they've got a dull evening ahead of them. I drink, I walk home, and I go to bed."
+> > "Watched? By what, a lass who wants her money back? It has happened, I'll admit, since I'm a better dancer than a companion. Nobody's watching me otherwise, friend, and if they are, they've got a dull evening ahead of them."
 
 > [!qna]**Where did you go this week?**
 >
-> > "The Seven Masks, three nights back, to see *Blood Wedding*. A cracking play, with a great deal of shouting. I'd have liked the second half, but the girl I brought decided she wasn't staying, and I drank her share of the wine."
+> > "The Seven Masks, three nights back, to see *Blood Wedding*. A cracking play, with a great deal of shouting. I'd have liked the second half, but the girl I brought decided she wasn't staying. She was paying me for the evening, you understand, so I'd say that was a shit review, but I drank her share of the wine."
 
 > [!qna]**Do you walk alone every night?**
 >

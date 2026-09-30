@@ -5,7 +5,7 @@
 > This Social Event occurs after the party leaves **Gralhund Villa** on the night of Ches 24, and it plays out only for Doom Raiders members. Davil Starsong is taken to Castle Waterdeep on Ches 26, and in this Event the party can:
 >
 > - Receive the first message from Tashlyn Yafeera and go to Yagra Stonefist for a meeting.
-> - Hear what Tashlyn has learned about Urstul Floxin, the warrant for him and the anonymous tip that put Davil in a cell.
+> - Hear what Tashlyn has learned about Urstul Floxin, the anonymous tip that put Davil in a cell and, if Floxin is alive, the warrant for him.
 > - Work for Davil's release through three approaches, each with its own result.
 > - Learn that Tashlyn now sends every mission briefing, until **Davil's Return** at the end of **Silencing Skeemo**.
 
@@ -21,9 +21,14 @@ Helping companions receive nothing in this Event. The first message goes to each
 
 > [!gamemaster]**What Is Actually True**
 >
-> Urstul Floxin is Manshoon's field agent, and the cell he serves is the Zhentarim splinter that Davil calls "the other cell". Floxin filed the Watch tip himself. On the dawn of Ches 26, hooded and with his left hand wrapped in a bandage from the burns he took in the fireball, he pushed a folded note through the gatehouse window at Castle Waterdeep. The note named Davil as a person of interest in the fireball and the killing at Gralhund Villa, and it called him "Master of Opportunities and Negotiations", a title nobody outside the Black Network uses. Floxin wants the Watch looking at the Doom Raiders and away from his own cell.
+> Urstul Floxin is Manshoon's field agent, and the cell he serves is the Zhentarim splinter that Davil calls "the other cell". Read the **Floxin Status** recorded by **Gralhund Villa** (Alive, Dead or Captured), because it decides who filed the Watch tip and what Tashlyn can tell the party.
 >
-> Tashlyn suspects all of this except the name of the man behind Floxin. Nobody among the Doom Raiders names Manshoon in this Event, and Tashlyn says "Floxin's cell", "the other cell" or "the renegades". If a member says the name Manshoon, Tashlyn tells them it isn't a name she has any use for and asks what they can prove about Floxin instead. If **Manshoon Named** was somehow marked before this Event, she may say "Manshoon's blade" when she talks about Floxin, and her words on the tip stay the same.
+> - **Alive:** Floxin filed the tip himself. On the dawn of Ches 26, hooded and with his left hand wrapped in a bandage from the burns he took in the fireball, he pushed a folded note through the gatehouse window at Castle Waterdeep. The warrant and the failed scrying are real, because Floxin is hiding.
+> - **Dead or Captured:** another member of the cell filed the tip, a lean hooded human who pushed the note through the same window at the same hour, on orders from Manshoon. Floxin never sent it, and there is no bandaged man to find. The warrant in Tashlyn's information is moot, and she has nothing to scry.
+>
+> In every case the note named Davil as a person of interest in the fireball and the killing at Gralhund Villa, and it called him "Master of Opportunities and Negotiations", a title nobody outside the Black Network uses. The cell wants the Watch looking at the Doom Raiders and away from itself.
+>
+> Tashlyn suspects most of this but not the name of the man who gives the orders. Nobody among the Doom Raiders names Manshoon in this Event, and Tashlyn says "Floxin's cell", "the other cell" or "the renegades". If a member says the name Manshoon, Tashlyn tells them it isn't a name she has any use for and asks what they can prove about the cell instead. If **Manshoon Named** was somehow marked before this Event, she may say "Manshoon's blade" when she talks about Floxin, and her words on the tip stay the same.
 
 ### Davil Is Gone
 
@@ -106,30 +111,59 @@ If the constable followed the party in, read or paraphrase the following:
 > She tells the party what she has learned, in the order below, and doesn't offer opinions about Davil. She never says she misses him.
 >
 > - **Where Davil is.** Castle Waterdeep, custody wing, held on association.
-> - **Floxin.** The rumoured leader of the renegade cell is Urstul Floxin, a known Black Network assassin.
-> - **The warrant.** The Watch has issued a warrant for Floxin. His whereabouts are unknown, and scrying has failed to find him.
+> - **Floxin.** The rumoured leader of the renegade cell is Urstul Floxin, a known Black Network assassin. If **Floxin Status** is Dead or Captured, Tashlyn says he cannot be the one giving orders, and that someone above him is.
+> - **The warrant.** Only if Floxin is Alive: the Watch has issued a warrant for him, his whereabouts are unknown, and scrying has failed to find him.
 > - **The tip.** An anonymous note sent to the Watch named Davil, and the note came from inside the Network.
+> - **The way out.** Tashlyn tells the party outright that they can work for Davil's release, and names the three approaches.
 > - **The chain of command.** Every mission briefing now comes from Tashlyn, by flying snake, until Davil is out.
 
 > [!qna]**Where is Davil?**
 >
 > > "He's in the custody wing at Castle Waterdeep, held on association, which means the Watch has no evidence and nothing that will last. The Lords will still take their time about it, and I can't hurry them."
 
+Before she answers anything about Floxin, Tashlyn asks the members what became of him at Gralhund Villa. Use the **Floxin Status** that **Gralhund Villa** recorded, and read the matching answers below.
+
 > [!qna]**Who is Floxin?**
 >
+> If **Floxin Status** is Alive, read or paraphrase the following:
+>
 > > "Urstul Floxin is a big, heavy man in his forties who has killed for the Black Network for years. Rumour says he leads the renegade cell, the other Zhentarim in this city, but I can't prove it and I don't like guessing."
+>
+> If **Floxin Status** is Dead or Captured, read or paraphrase the following:
+>
+> > "Urstul Floxin was a big, heavy man who killed for the Black Network, and rumour made him the leader of the renegade cell. If he's dead or in a cell, then he never led it, because the cell is still moving and a tip went to the Watch after the villa, so someone above him gives the orders and I don't know who."
 
 > [!qna]**Can the Watch find him?**
 >
+> If **Floxin Status** is Alive, read or paraphrase the following:
+>
 > > "There's a warrant out for him, but the Watch hasn't found him, and I paid a diviner for two castings that both came back empty. Someone is shielding him, and I don't believe he's dead."
+>
+> If **Floxin Status** is Dead or Captured, read or paraphrase the following:
+>
+> > "There's no use in a warrant for a man who's already dead or locked away, and I have nothing for a diviner to look for. What worries me is that the cell didn't stop when he did."
 
 > [!qna]**Who told the Watch about Davil?**
 >
+> If **Floxin Status** is Alive, read or paraphrase the following:
+>
 > > "It was an unsigned note delivered to Castle Waterdeep that named Davil in the fireball and the villa, and it called him Master of Opportunities and Negotiations. Nobody outside the Network uses that title, so it came from inside."
+>
+> If **Floxin Status** is Dead or Captured, read or paraphrase the following:
+>
+> > "It was an unsigned note that named Davil in the fireball and the villa, and it called him Master of Opportunities and Negotiations. Nobody outside the Network uses that title, and Floxin couldn't have sent it, so someone else in his cell did."
+
+> [!qna]**Can we get Davil out?**
+>
+> Tashlyn takes one hand from behind her back and counts on her fingers as she talks.
+>
+> > "You can, and I want you to try, because the Lords won't hear him for weeks and the terms he walks out on depend on what you do now. The Watch holds him on that tip, so you can start at the Castle Ward gate, where a constable saw who brought it and the gatehouse register recorded it, and that costs you a morning and no coin."
+>
+> > "You can also hire an advocate at the Hall of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends holds rank in the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
 
 > [!qna]**What about Renaer Neverember?**
 >
-> > "The kidnapping was botched, and Floxin doesn't like to fail, so he may try again for Renaer, though I don't believe it. Renaer has friends among the Harpers, and Harpers talk, so listen if you meet them."
+> > "The kidnapping was botched, and whoever runs the other cell doesn't like to fail, so they may try again for Renaer, though I don't believe it. Renaer has friends among the Harpers, and Harpers talk, so listen if you meet them."
 
 > [!qna]**What do you think of the villa?**
 >
@@ -185,9 +219,9 @@ The three approaches can be tried in any order. Each member may attempt each app
 
 > [!exploration]**Approach One: The Tip at the Gate**
 >
-> The note reached Castle Waterdeep at dawn on Ches 26, and a gate constable saw who brought it. A member who spends a morning at the Castle Ward gatehouse asking about that dawn and makes a successful DC 13 Charisma (Persuasion) check learns that the man was heavyset, hooded and had his left hand wrapped in a bandage that smelled of singed wool. A member who instead goes through the gatehouse register and makes a successful DC 14 Intelligence (Investigation) check finds the entry for the note, which records the time and the words on the outside.
+> The note reached Castle Waterdeep at dawn on Ches 26, and a gate constable saw who brought it. A member who spends a morning at the Castle Ward gatehouse asking about that dawn and makes a successful DC 13 Charisma (Persuasion) check learns that the man was hooded and human, and, if **Floxin Status** is Alive, that he was heavyset and had his left hand wrapped in a bandage that smelled of singed wool. If **Floxin Status** is Dead or Captured, the constable remembers a lean man instead, with no bandage. A member who instead goes through the gatehouse register and makes a successful DC 14 Intelligence (Investigation) check finds the entry for the note, which records the time and the words on the outside.
 >
-> - **Character learned of Floxin's burns in Fireball!:** The character has Advantage on the Persuasion check.
+> - **Floxin Status is Alive and the character learned of his burns in Fireball!:** The character has Advantage on the Persuasion check.
 > - **Both checks succeed:** Dunfell reads the constable's account beside the register entry, and she adds that the note gave Davil his Network title. She compares it with what Tashlyn said and says the title looks like the tipster's own habit, not the Watch's.
 >
 > On a success, Dunfell files a memo saying the tip has an unidentified author, and the approach adds 1 to the release count. On a failure, the constable closes up or the register is missing the page, and the approach adds nothing. Each member who completes this approach, pass or fail, gains 1 Renown once, however many approaches they complete.
@@ -200,7 +234,7 @@ The three approaches can be tried in any order. Each member may attempt each app
 
 > [!exploration]**Approach Three: Pressure from Above**
 >
-> A member who goes back to Dunfell with something concrete to offer, such as the gate constable's description, Orond's account or where Floxin was last seen, can ask her to send the case for review. A successful DC 15 Charisma (Persuasion) check does this, and a successful DC 15 Charisma (Intimidation) check does it too, though Dunfell writes that member's name in her ledger.
+> A member who goes back to Dunfell with something concrete to offer, such as the gate constable's description, Orond's account or, if Floxin is Alive, where he was last seen, can ask her to send the case for review. A successful DC 15 Charisma (Persuasion) check does this, and a successful DC 15 Charisma (Intimidation) check does it too, though Dunfell writes that member's name in her ledger.
 >
 > - **A Lords' Alliance member of Renown 3 or higher asks Jalester Silvermane to put a word through official channels:** The approach succeeds without a check. Jalester sends Dunfell a courtesy note the same day.
 > - **Approach One succeeded:** The character has Advantage on the check.
@@ -252,4 +286,4 @@ Two days after Gralhund Villa, the Watch's sweep takes Davil Starsong to Castle 
 
 ## Summary
 
-The Watch took Davil to Castle Waterdeep on association, and a note in Tashlyn Yafeera's hand told us to carry on. Yagra brought us to her in the City of the Dead, where she named Urstul Floxin as the rumoured leader of the renegade cell and told us the tip against Davil came from inside the Network. We tried to get Davil released, and Tashlyn will send our next mission.
+The Watch took Davil to Castle Waterdeep on association, and a note in Tashlyn Yafeera's hand told us to carry on. Yagra brought us to her in the City of the Dead, where she told us what she knew of Urstul Floxin and the renegade cell and that the tip against Davil came from inside the Network. She also laid out how we could work for Davil's release. We tried to get Davil released, and Tashlyn will send our next mission.

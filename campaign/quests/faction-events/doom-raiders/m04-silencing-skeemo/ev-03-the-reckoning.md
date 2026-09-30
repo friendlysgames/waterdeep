@@ -173,7 +173,7 @@ If Skeemo escaped or was let go, read or paraphrase the following:
 >
 > > "Then he's with the other cell by now, and everything he knows goes to them tonight. Your names, your faces and the way you fight. Assume they've read all of it, and don't go anywhere alone."
 
-If **Manshoon Named** is marked, Tashlyn says "Manshoon's cell" where she says "the other cell", and she names Kolat Towers as the place he will have gone if a member asks her where Manshoon keeps his home.
+If **Manshoon Named** is marked, Tashlyn says "Manshoon's cell" where she says "the other cell", and she names Kolat Towers as the place he will have gone if a member asks her where Manshoon keeps his home. Tashlyn says "the other cell" whatever **Floxin Status** is, and she never names Floxin in this Event, so the same lines serve Alive, Dead and Captured.
 
 If the party delivered the paper birds to Tashlyn, mark **Skeemo Letters Recovered**. A party that killed Skeemo and took no birds, or lost them, gives her nothing to decode, and she says only that she will look elsewhere.
 

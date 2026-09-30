@@ -19,7 +19,7 @@ Davil does not send a flying snake. On every evening after the member reaches Re
 >
 > Five people founded the Doom Raiders: Davil, Istrid Horn, Skeemo Weirdbottle, Tashlyn Yafeera and Ziraj the Hunter. Yagra Stonefist joined later. Nobody at this table says "we started as six".
 >
-> The Zhentarim Council is reforming, and the effort to reclaim Zhentil Keep needs members who can show they hold a city and run a cell that survives the real world. Davil wants the Doom Raiders to have a voice at that table. The seat costs dues and obligations, and the event states them in full. In speech, the Doom Raiders say "Manshoon's people" only if **Manshoon Named** is marked. Until then they say "Floxin's people" or "the other cell", and the lines below give both where it matters.
+> The Zhentarim Council is reforming, and the effort to reclaim Zhentil Keep needs members who can show they hold a city and run a cell that survives the real world. Davil wants the Doom Raiders to have a voice at that table. The seat costs dues and obligations, and the event states them in full. In speech, the Doom Raiders say "Manshoon's people" only if **Manshoon Named** is marked. Until then they say "the other cell" or "the Splinter", and the lines below give both where it matters. They say "Floxin's people" only if **Floxin Status** is Alive. If it is Dead or Captured, the Doom Raiders know the man they took for the leader is gone while the cell still moves, so someone above him gives the orders and they do not know who.
 
 ### The Well
 
@@ -79,7 +79,7 @@ If **Skeemo at Kolat Towers** is marked and **Manshoon Named** is marked, read o
 >
 > > "Skeemo's chair stays empty, because he took his seat across the city with Manshoon's people. As far as any of us can tell, he is sitting in it still."
 
-If **Skeemo at Kolat Towers** is marked and **Manshoon Named** is not marked, Davil says "with Floxin's people" in place of "with Manshoon's people".
+If **Skeemo at Kolat Towers** is marked and **Manshoon Named** is not marked, Davil says "with the other cell's people" in place of "with Manshoon's people", whatever **Floxin Status** is.
 
 Tashlyn speaks about Ziraj next, and what she says depends on whether he lived.
 
@@ -203,7 +203,7 @@ If **Manshoon Named** is not marked, he answers this instead:
 
 > [!qna]**What is the Council?**
 >
-> > "It's the Black Network trying to build a spine out of the pieces Floxin's cell left behind. It's not their Council. It's the legitimate Network, and it needs members who can be held to account. A seat carries a vote in continental decisions and access to resources no regional cell controls."
+> > "It's the Black Network trying to build a spine out of the pieces the other cell left behind. It's not their Council. It's the legitimate Network, and it needs members who can be held to account. A seat carries a vote in continental decisions and access to resources no regional cell controls."
 
 > [!social]**The Keeper of the Ledger**
 >

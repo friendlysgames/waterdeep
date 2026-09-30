@@ -21,7 +21,7 @@ If **Tashlyn Contact** is not yet marked for the member, mark it at this meeting
 
 > [!gamemaster]**What Is Actually True**
 >
-> The informant web is real. It is made up of dockhands, fences, two clerks at the Hall of Justice, and Tashlyn's reports from her post at the South Gate, and its information on Xanathar's Guild is good. Its information on the other cell is good about the cell's teams and poor about the cell's master. The Doom Raiders believe Floxin leads it, when Floxin is Manshoon's field agent and takes his orders from him. Nobody in this Event can say Manshoon's name unless **Manshoon Named** has been marked, and the web reports every cell fact as "Floxin's cell", "the other cell" or "the Splinter".
+> The informant web is real. It is made up of dockhands, fences, two clerks at the Hall of Justice, and Tashlyn's reports from her post at the South Gate, and its information on Xanathar's Guild is good. Its information on the other cell is good about the cell's teams and poor about the cell's master. The Doom Raiders believe Floxin leads it, when Floxin is Manshoon's field agent and takes his orders from him. Nobody in this Event can say Manshoon's name unless **Manshoon Named** has been marked, and the web reports every cell fact as "the other cell" or "the Splinter", and adds "Floxin's cell" only if **Floxin Status** is Alive. If **Floxin Status** is Dead or Captured, Davil or Tashlyn tells the member that the man they took for the leader is gone and the cell still moves, so someone above him is giving the orders and they do not know who.
 
 ### Naming the Rank
 
@@ -118,12 +118,12 @@ The paper Davil or Tashlyn hands over carries the safe-house address and the doo
 > The web watches two rivals closely, and it can answer only for those two. If a member names anyone else, Yagra says the web has nothing on them and the request is not spent.
 >
 > - **Xanathar's Guild.**
-> - **The other cell**, which the Doom Raiders call Floxin's cell.
+> - **The other cell**, which the Doom Raiders also call the Splinter.
 >
 > Every answer has two parts. The first is how alarmed the faction is about the party, taken from the faction's current escalation tier in **Running the Villains**. The second is the first response team the party has not yet beaten, named by its leader and its crew. The faction's teams run in this order:
 >
 > - **Xanathar's Guild:** Gorath with four duergar, then Korgstrod Uxgulm with a half-ogre and a gazer, then Noska Ur'gray with six bugbears and a gazer. When all three have been beaten, the answer says the guild has no crew left to send on the street and that the next move will be Xanathar's own.
-> - **Floxin's cell:** Vevette Blackwater with three or four hired thugs, then Agorn Fuoco with three or four hired thugs, then Urstul Floxin with three or four hired thugs. The third team exists only if Floxin survived **Gralhund Villa**, and if he did not, the answer after Agorn says the cell has no crew left on the street.
+> - **The other cell:** Vevette Blackwater with three or four hired thugs, then Agorn Fuoco with three or four hired thugs, then Urstul Floxin with three or four hired thugs. The third team exists only if Floxin survived **Gralhund Villa**, and if he did not, the answer after Agorn says the cell has no crew left on the street.
 
 Davil gives the first part in these words, matching the faction's current tier:
 
@@ -145,9 +145,9 @@ Both then give the second part in a single sentence built from the ladder above.
 >
 > Davil turns the trophy on his bracelet once before he answers.
 >
-> > Ask about whichever worries you, my friends, though I'll confess I'd be pleased if it were the other cell. The Xanathar's people are dangerous, but they do at least behave like a guild. Floxin's people behave like a rumor, and I would like a great deal more news of them.
+> > Ask about whichever worries you, my friends, though I'll confess I'd be pleased if it were the other cell. The Xanathar's people are dangerous, but they do at least behave like a guild. The other cell's people behave like a rumor, and I would like a great deal more news of them.
 
-If the member chooses Floxin's cell, Davil or Tashlyn is visibly pleased, and adds one sentence in their own voice asking the member to bring back anything confirmed about that cell. Renown for such reports is earned as the Factions Guide describes and is not awarded here. If the member chooses Xanathar's Guild, Davil says that is a sensible worry and Tashlyn says nothing.
+If the member chooses the other cell, Davil or Tashlyn is visibly pleased, and adds one sentence in their own voice asking the member to bring back anything confirmed about that cell. Renown for such reports is earned as the Factions Guide describes and is not awarded here. If the member chooses Xanathar's Guild, Davil says that is a sensible worry and Tashlyn says nothing.
 
 > [!exploration]**A Glance at the Curtain**
 >
