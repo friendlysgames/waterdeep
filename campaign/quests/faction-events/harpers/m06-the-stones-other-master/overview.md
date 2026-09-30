@@ -7,45 +7,45 @@
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> The raid has one Mage, two Toughs and a Spy leader. The **Harpers Mechanics Reference** audits the assault, optional leader interception, full squad, burst risk and Mirt's actual CR 9 ally contribution for three, four and five participating combatants.
+> The raid has one Mage, two Toughs and a Spy leader. The **Harpers Mechanics Reference** covers the assault, the optional leader interception, the full squad, burst risk and Mirt's CR 9 contribution as an ally, for three, four and five participating combatants.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
 
 ## Hook
 
-Mirt visits the members at 00:15, asking to study the Stone for three days before they open the vault. A seer felt its awakening resonate beneath the city, and he wants to understand the connection before anyone relies on it further.
+Mirt visits the members at 00:15 and asks to study the Stone for three days before they open the vault. A seer felt its awakening resonate beneath the city, and he wants to understand the connection before anyone relies on it further.
 
 ## Background
 
-When an Eye is restored, Harper seer Ivara Dunn detects a psychic response from Illuun on Undermountain Level 4 to Golorr inside the Stone. She believes the Stone can identify a contact whose thoughts have become accessible through that connection. The contact is Jalester Silvermane, unknowingly compromised through exposure near the Yawning Portal's well; the study reveals his name only after consent and a direct question about the findings.
+When an Eye is restored, the Harper seer Ivara Dunn detects a psychic response from Illuun on Undermountain Level 4 to Golorr inside the Stone. She believes the Stone can identify a contact whose thoughts have become reachable through that connection. The contact is Jalester Silvermane, who has been compromised without knowing it through long exposure near the Yawning Portal's well. The study gives his name only once the holder has consented and the party asks a direct question about the findings.
 
-A Splinter watcher already observed the Stone at the manor and Mirt's arrival, independently of Orren's register route. Four agents prepare to raid the building at 02:00 whether the party accepts or refuses the study. Their information is a location and observed holder, without automatic knowledge of the party's private decisions.
+A Splinter watcher has already seen the Stone at the manor and reported Mirt's arrival, independently of Orren's register route. Four agents raid the building at 02:00 whether the party accepts the study or refuses it. They know the location and who was seen holding the Stone, and they know nothing of the party's private decisions.
 
 ## Negotiating Custody
 
-Mirt briefs the Harper members privately, then hears the actual holder and companions who share custody when negotiating access. He offers written return terms and supervised study, accepting a refusal without hostility. An agreed transfer waits for his noncombatant-driven carriage at 02:00, leaving the Stone with its agreed holder until departure.
+Mirt briefs the Harper members privately, then talks with whoever actually holds the Stone and any companions who share custody. He offers written return terms and supervised study, and he takes a refusal without ill will. If the holder agrees, the Stone waits with them until his carriage arrives at 02:00, driven by a noncombatant, and it leaves only then.
 
 ## Defending the Stone
 
-The Mage and two Toughs attack while the Spy leader watches the exits, with Mirt protecting the holder and civilian staff. The Mage can collect an actually unattended Stone, then must keep it until her next turn before casting Dimension Door. Her fixed nearby destination leaves interception and recovery possible.
+The Mage and two Toughs attack while the Spy leader watches the exits, and Mirt protects the holder and the civilian staff. If the Stone is left unattended, the Mage can grab it, and she must hold it until her next turn before casting Dimension Door. Her destination is fixed and close by, so the party can intercept her or recover the Stone afterward.
 
 ## The Three-Day Study
 
-If the party grants access and retains or recovers the Stone, Mirt returns it exactly seventy-two hours after study begins. He provides the vault guardian information and the resonance finding, answering a direct question about compromised contacts with Jalester's name. Refusal preserves custody while leaving those study results unavailable.
+If the party grants access and still has the Stone or gets it back, Mirt returns it seventy-two hours after the study begins. He brings the vault guardian information and the resonance finding, and he gives Jalester's name if the party asks directly about compromised contacts. If the party refuses, they keep the Stone and get no study results.
 
 ## Renown Opportunities
 
-Each participating Harper member gains 4 base Renown for resolving the raid and reporting the Stone's actual disposition. The study is optional and doesn't gate the base award.
+Each participating Harper member gains 4 base Renown for resolving the raid and reporting what became of the Stone, and the base award doesn't depend on the optional study.
 
-- **+1 Renown:** grant the full three-day study and receive its results. Jalester's identity still requires asking directly.
+- **+1 Renown:** grant the full three-day study and receive its results, though Jalester's identity still requires asking directly.
 - **+1 Renown:** defeat or capture the assault squad and recover the Spy leader's sending stone.
 
-Helping companions receive no Harper Renown or membership through the defense.
+Companions who help with the defense earn no Harper Renown and don't join the Harpers.
 
 ## Aftermath
 
-**Jalester Compromise Identified** supplies the intended Lords' Alliance M6 and **Vault of Dragons** readers only after its consent-and-question gate. The recovered sending stone gives a limited paired communication channel, without passive eavesdropping. Splinter reports retain only what surviving observers actually witnessed, and the Undermountain threat remains a future objective rather than a new quest drafted here.
+**Jalester Compromise Identified** feeds the Lords' Alliance M6 and **Vault of Dragons** readers, and only once the party has consented and asked the direct question. The recovered sending stone gives the party a limited paired channel and doesn't let them listen in on anyone. Splinter reports contain only what surviving observers saw, and the Undermountain threat stays a future objective, not a new quest drafted here.
 
 ## Involved Characters
 
@@ -57,7 +57,7 @@ Helping companions receive no Harper Renown or membership through the defense.
 
 ## Dangers & Enemies
 
-The Mage uses the verified 2024 block with the reference's one-use Dimension Door addition, without Contingency. The enemy roster remains four creatures, and Mirt's protective attack trigger brings his real CR 9 contribution into the encounter when met.
+The Mage uses the verified 2024 block plus the reference's one-use Dimension Door, and has no Contingency. The enemy roster is four creatures, and Mirt brings his full CR 9 contribution into the fight once his protective trigger is met.
 
 ## Overview
 

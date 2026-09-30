@@ -11,265 +11,265 @@
 
 ### The Brief
 
-Mirt arrives at 00:15 through Trollskull Manor's front door, requesting a private conversation with the participating Harper members. His earlier appointment note asked the members to gather here, leaving the raid's location and local rendezvous fixed.
+Mirt arrives at 00:15 through Trollskull Manor's front door and asks for a private word with the participating Harper members. His earlier appointment note asked them to gather here, which fixes both the raid's location and the local rendezvous.
 
 > [!readaloud]
 >
-> Mirt waits at the taproom table with his coat beside the chair, leaving his drink untouched as he looks between you and the place where the Stone was last held. He sets a written request beside the glass, with the proposed return time facing you.
+> Mirt is waiting at a taproom table when you come in, his coat hung over the back of the chair and his drink untouched at his elbow. He looks from one of you to the next, then toward the place where the Stone was last kept, and pushes a folded note across the table with a return time written on it.
 >
-> > "Who has the Stone tonight? I want the holder to hear this before anyone agrees to anything."
+> > "Sit down, please. I know it's late, and I wouldn't ask if it could wait until morning. Who's holding the Stone tonight? I'd like them to hear this before anyone agrees to anything."
 >
-> > "One of our seers felt something answer when an Eye went back into the Stone. It came from below the city. I'd like three days to study the connection before you use it to open the vault, and I'll agree the terms with whoever is holding it."
+> > "One of our seers felt something answer when an Eye went back into the Stone. It came from somewhere below the city. I'd like three days to study the connection before you use it to open the vault, and I'll settle the terms with whoever holds it."
 
 ### Background
 
-The Stone holds Golorr, an aboleth transformed into a magic object. Restoring an Eye produces the psychic response Ivara detected from Illuun on Undermountain Level 4. Her assessment points to an unwitting contact near the Yawning Portal: Jalester Silvermane. He remains loyal to the Alliance, unaware that Illuun can access intelligence passing through the affected contact route. Renaer is never substituted for him in this mission.
+The Stone holds Golorr, an aboleth transformed into a magic object. Restoring an Eye produces the psychic response Ivara detected from Illuun on Undermountain Level 4. Her assessment points to an unwitting contact near the Yawning Portal, Jalester Silvermane, who remains loyal to the Alliance and doesn't know that Illuun can reach intelligence passing along the affected contact route. The contact is always Jalester, and Renaer never takes his place in this mission.
 
-The Splinter's watcher saw the Stone carried at the manor earlier and reported Mirt's arrival by courier. This surface observation remains possible after **Harper Leak Closed** and doesn't reopen Orren's access. Record only the holder, location and capabilities actually seen; the squad doesn't know the private study decision before attacking.
+The Splinter's watcher saw the Stone carried at the manor earlier and sent word of Mirt's arrival by courier. The watcher works from the street, so the raid can still happen after **Harper Leak Closed**, and Orren's register route stays shut. The squad knows only what the watcher saw: the holder, the location and whatever the party's members showed. It has no idea what the party decided about the study.
 
 ### The Request and Its Terms
 
-After the private brief, Mirt invites the actual Stone holder and any companions sharing custody to discuss the proposal. Individual faction membership doesn't entitle the members to surrender someone else's item, and helping the negotiation doesn't enroll the holder in the Harpers.
+After the private brief, Mirt asks the Stone's holder and any companions who share custody to hear the proposal. Membership in the Harpers gives no one the right to hand over another person's item, and helping with the negotiation doesn't enroll the holder in the Harpers.
 
 > [!social]**Mirt's Written Offer**
 >
 > Mirt (Chaotic Good, Illuskan Human, he/him) :: an old contact asking for access to an object he doesn't control.
 >
-> Mirt offers study at his residence with Ivara Dunn, beginning when the Stone is delivered and ending exactly seventy-two hours later. He sets out the return terms in his own words below. The holder can supervise during the three study days, and Ivara doesn't remove any Eye or change the holder's attunement. Mirt records the transfer and return times on a receipt. His carriage arrives at 02:00, driven by Harper courier Harl Keen, so he remains in the taproom until then whether the holder accepts, negotiates or refuses. Harl is a noncombatant driver with no added guard detail; if fighting begins, he leaves the seat and shelters behind the rear garden wall until it ends.
+> Mirt offers study at his residence with Ivara Dunn. It begins when the Stone is delivered and ends exactly seventy-two hours later. The holder can supervise throughout, and Ivara removes no Eye and changes no one's attunement. Mirt writes the transfer and return times on a receipt. His carriage arrives at 02:00, driven by Harper courier Harl Keen, and Mirt stays in the taproom until then whether the holder accepts, negotiates or refuses. Harl is a noncombatant with no guard detail, and if fighting starts he leaves the seat and shelters behind the rear garden wall until it ends. Mirt gives the terms in his own words below.
 
-If the holder asks for the terms, Mirt places the receipt within their reach:
+If the holder asks for the terms, Mirt slides the receipt within their reach and says:
 
 > [!readaloud]
 >
-> > "Ivara will study it at my residence. I'll write down the time you hand it over and return it exactly seventy-two hours later. Keep a copy of this receipt, and stay for the study if you want to supervise. No Eye comes out, and no attunement is changed."
+> > "Ivara will study it at my house, and I'll write down the time you hand it over so I can bring it back seventy-two hours later to the minute. Keep a copy of the receipt, and stay for the study if you'd like to watch, because no Eye comes out and nobody's attunement changes."
 
 > [!qna]**May we stay with the Stone?**
 >
-> > "Yes. You can watch Ivara throughout the study. The Stone stays in the room under the terms we write here."
+> > "Yes, you can watch Ivara the whole time if you like, and the Stone stays in the room on the terms we've just written."
 
 > [!qna]**What if the Stone is lost before you take it?**
 >
-> > "Then I study nothing until it is recovered and the holder agrees again. A signed receipt for an object we don't have won't produce an answer."
+> > "Then nothing happens until you've got it back and the holder agrees again, and I'm content to wait for that as long as it takes."
 
 > [!qna]**What else do you know?**
 >
-> A direct question about withheld information receives the full uncertainty without a check.
+> If a character asks Mirt what he is holding back, he shares everything he knows, and no check is needed.
 >
-> > "The seer thinks it may show us someone whose thoughts are being reached through that connection. I don't have the name yet, and I won't promise it belongs to a stranger. That's part of why I'd like the time."
+> > "The seer thinks it may point to someone whose thoughts are being reached through that connection. I don't have a name yet, and I can't promise it's a stranger, which is why I'd like the time."
 
 > [!qna]**What can you offer in return?**
 >
-> > "The study results, and the old account of the vault's guardian that we found while checking its safeguards. You're not agreeing to hand us the gold. You're letting us examine what you're trusting to show you the way."
+> > "The study results, for a start, and the old account of the vault's guardian that we found while checking its safeguards. You're not handing us the gold, only letting us look at the thing you're trusting to show you the way."
 
 > [!gamemaster]**Acceptance, Negotiation or Refusal**
 >
-> Acceptance produces the written seventy-two-hour terms. Negotiation can add the holder's supervision and a promise to share the guardian's oath context before the study begins; Mirt accepts both without a check. The context establishes that genuine Neverember authority can release an oath-bound guardian, rather than bypassing the vault's keys or door.
+> If the holder accepts, Mirt writes out the seventy-two-hour terms. If the holder negotiates, they can add their own supervision and a promise that Mirt shares the guardian's oath context before the study begins, and he agrees to both without a check. That context tells the party that genuine Neverember authority can release an oath-bound guardian, though it doesn't replace the vault's keys or door.
 >
-> Refusal leaves the Stone with the party. Mirt accepts it and stays until the carriage arrives, remaining present if the raid occurs. No study result or identity finding is invented on that branch, and no faction penalty is imposed for withholding custody.
+> If the holder refuses, the Stone stays with the party. Mirt accepts that and remains in the taproom until the carriage arrives, and he is still there if the raid comes. That branch produces no study result and no identity finding, and the party takes no faction penalty for keeping custody.
 
-If the holder requests the guardian's oath context before agreeing, use Mirt's answer:
+If the holder asks for the guardian's oath context before agreeing, Mirt says:
 
 > [!readaloud]
 >
-> > "Our archive says the guardian is bound to Neverember's authority. Genuine authority can release a sworn guardian from that duty. It won't open the vault door or supply its keys; I can put this context in writing before we begin."
+> > "Our archive says the guardian is bound to Neverember's authority, and genuine authority can release a sworn guardian from that duty. It won't open the vault door or hand over its keys, and I'll put all of it in writing before we begin if you like."
 
-If the holder accepts the study, Mirt fills in the agreed terms and gives them a signed copy:
+If the holder accepts the study, Mirt fills in the agreed terms and hands over a signed copy:
 
 > [!readaloud]
 >
-> > "We have the terms. Keep your copy, and check my written receipt when the Stone actually changes hands. The seventy-two hours begin then."
+> > "Those are the terms. Keep your copy, and check my receipt when the Stone changes hands, because that's when the seventy-two hours start."
 
 If the party refuses, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Mirt folds the unsigned receipt and puts it inside his coat. He remains at the table with his untouched glass until the carriage arrives, listening while you discuss where to keep the Stone.
+> Mirt folds the unsigned receipt into his coat and stays at the table with his glass still full, listening while you talk over where to keep the Stone.
 >
-> > "I understand. Keep it safe, and tell me if it gives you something you weren't expecting. I'll hear you out without asking for the same answer again."
+> > "I understand, and I think you're right to be careful. Keep it safe and tell me if it gives you anything you weren't expecting, and I won't come asking you the same question twice."
 
 ### The Raid at 02:00
 
-At 02:00, one 2024 **Mage** and two **Toughs** move on the manor, with one **Spy** leader watching thirty feet behind the Mage. The Mage begins thirty feet from the front entrance; the Toughs enter the taproom and engage separate defenders. If the carriage transfer is beginning, they break cover at the front door before the holder reaches the carriage.
+At 02:00 one 2024 **Mage** and two **Toughs** move on the manor, with one **Spy** leader watching from thirty feet behind the Mage. The Mage starts thirty feet from the front entrance, and the Toughs enter the taproom and each engage a different defender. If the carriage transfer is under way, they break cover at the front door before the holder reaches the carriage.
 
 > [!readaloud]
 >
-> The carriage wheels slow outside as two figures move past it toward the taproom door, with a woman stopping in the street behind them. One of the pair shoulders the door open and looks toward the table, while the other moves aside to give him room to enter. The woman watches the room through the open doorway and calls to them.
+> Outside, the carriage wheels slow on the cobbles as two figures walk past it toward the taproom door, and a woman stops in the street behind them. One of the pair shoulders the door open and looks across the room while the other steps aside to let him through. The woman watches through the doorway and calls out to them.
 >
-> > "Keep the Stone in sight. Take it whole, and leave the rest if you have to."
+> > "Keep your eyes on the Stone and take it in one piece, and leave everything else behind if you have to."
 
-If the squad searches an empty manor without finding the Stone, the Mage calls the search off after ten minutes:
+If the squad searches an empty manor and doesn't find the Stone, the Mage calls off the search after ten minutes:
 
 > [!readaloud]
 >
-> > "It isn't here. Leave the room as we found it and go. We have nothing to carry tonight."
+> > "It isn't here. Put the room back the way we found it and let's go, there's nothing to carry out tonight."
 
 > [!gamemaster]**Defenders and Changed Plans**
 >
-> The encounter baseline counts the characters actually present, including helping companions. A departure or earlier relocation of the Stone doesn't force them back into the building: the squad still raids the observed premises at 02:00 and finds only what is actually there. If the room is empty, it searches for ten minutes and leaves; no combat award is invented for an absent fight.
+> The encounter baseline counts every character present, helping companions included. If the Stone has left or moved earlier, the squad still raids the observed premises at 02:00 and finds whatever is there. If the room is empty, they search for ten minutes and leave, and no combat takes place.
 >
-> The leader can be spotted with a successful DC 15 Wisdom (Perception) check during the encounter, standing beside the carriage's far rear wheel with a stone in one hand. He isn't an automatic fifth enemy or an unseen participant attacking from nowhere.
+> Any character who looks past the carriage during the fight and makes a successful DC 15 Wisdom (Perception) check spots the leader, standing beside the carriage's far rear wheel with a stone in one hand. He joins the fight only when the squad tactics below say so.
 
 > [!hazard]**The Four-Creature Retrieval Squad**
 >
-> Use the complete Mage, Tough and Spy blocks from the 2024 *Monster Manual*, with only the Mage's documented Dimension Door addition. The **Harpers Mechanics Reference** provides the three-, four- and five-character CR 2.0 branches, separate leader-wave costs and first-turn knockout adjustment.
+> Use the full Mage, Tough and Spy blocks from the 2024 *Monster Manual*, adding only the Mage's Dimension Door described in this event. The **Harpers Mechanics Reference** gives the three-, four- and five-character CR 2.0 branches, the separate leader-wave costs and the first-turn knockout adjustment.
 >
 > #### Squad Tactics
-> The assault targets the Stone's actual holder and route, while the leader watches the exits instead of joining automatically.
+> The squad goes for the Stone's holder and the holder's route, while the leader watches the exits.
 >
 > During combat, the squad:
-> - Has the two Toughs engage different conscious defenders in the taproom, avoiding attacks on civilians and downed characters.
-> - Has the Mage direct each of her three Arcane Bursts at a different conscious opponent, including the holder when visible. She avoids Fireball and Cone of Cold while the Stone is inside their areas, but can use them against clustered blockers if the Stone is safely outside both areas.
-> - Has the Mage use Invisibility to approach an unattended Stone, taking it with her ordinary object interaction only when actually dropped or left within reach. She cannot take it from a conscious resisting holder.
-> - Has the leader retreat toward the Trades Ward when the assault is defeated, using Cunning Action to Disengage or Dash if intercepted. He surrenders when two conscious opponents block both directions within 5 feet, and the Toughs surrender after the Mage is defeated or flees while both remain blocked.
+> - Has the two Toughs each engage a different conscious defender in the taproom, leaving civilians and downed characters alone.
+> - Has the Mage aim each of her three Arcane Bursts at a different conscious opponent, the holder included when visible. She holds back Fireball and Cone of Cold while the Stone is inside their areas, and uses them on clustered blockers once the Stone is safely outside both.
+> - Has the Mage cast Invisibility to approach an unattended Stone and pick it up with her ordinary object interaction once it has been dropped or left within reach. She can't take it from a holder who is conscious and resisting.
+> - Has the leader retreat toward the Trades Ward once the assault is beaten, using Cunning Action to Disengage or Dash if intercepted. He surrenders when two conscious opponents block both directions within 5 feet, and the Toughs surrender once the Mage is defeated or has fled and both of them remain blocked.
 >
-> The encounter ends with squad defeat, surrender, withdrawal or successful escape, without a required last fight against the leader. If he joins the assault, use the full-squad row once; if caught afterward, use its separate wave while retaining spent resources. The Mage's concentrated-damage restriction doesn't erase first-turn knockout risk from her printed spells, so apply the reference's +4 effective-CR adjustment whenever the actual first turn can drop a participating PC.
+> The encounter ends when the squad is defeated, surrenders, withdraws or escapes, and the party never has to fight the leader. If he joins the assault, use the full-squad row once. If the party catches him afterward, use its separate wave and carry over any spent resources. The Mage's limit on concentrated damage doesn't remove the risk of a first-turn knockout from her printed spells, so apply the reference's +4 effective-CR adjustment whenever her first turn could drop a participating character.
 
 ### The Mage's Escape Window
 
 > [!gamemaster]**Dimension Door, Once Daily**
 >
-> The Mage has *Dimension Door* 1/Day, using Intelligence and its normal Verbal component as a Magic action. After obtaining the Stone, she announces withdrawal to the leader and must retain it until her next turn before attempting the spell. She ends Concentration on Invisibility at the start of that turn, becoming visible before the Magic action and exposing the ordinary Counterspell window.
+> The Mage has *Dimension Door* 1/Day, using Intelligence and its normal Verbal component as a Magic action. After she takes the Stone she tells the leader she is withdrawing and keeps hold of it until her next turn before casting. At the start of that turn she ends Concentration on Invisibility, so she is visible for the Magic action and the ordinary Counterspell window is open.
 >
-> The spell carries her and her equipment, including the held Stone, to the unoccupied rear cart bay of the abandoned cooper's shed on the south side of Trollskull Alley, exactly 300 feet east of the manor's front door. Its rear doors are closed but unlocked; she leaves on foot toward the Trades Ward one minute after arrival. There is no object-only teleportation or Contingency.
+> The spell carries her and her equipment, the held Stone included, to the unoccupied rear cart bay of the abandoned cooper's shed on the south side of Trollskull Alley, exactly 300 feet east of the manor's front door. Its rear doors are closed but unlocked, and she leaves on foot toward the Trades Ward one minute after arriving. She can't teleport the Stone alone, and she has no Contingency.
 >
-> Losing the Stone, Incapacitation, loss of the Verbal component or successful Counterspell prevents that escape. Grappled alone doesn't prevent teleportation, and the spell's normal occupied-destination failure applies. Counterspell shares the Mage's three Protective Magic uses with Shield, rather than giving her a second pool.
+> She can't escape if she loses the Stone, is Incapacitated, loses the Verbal component or has the spell countered. Being Grappled doesn't stop the teleport by itself, and the spell fails as usual if the destination is occupied. Counterspell draws on the same three Protective Magic uses as Shield, so she has no second pool.
 
-When she acquires the Stone, read or paraphrase the following:
+When she takes the Stone, read or paraphrase the following.
 
 If she is visible:
 
 > [!readaloud]
 >
-> The Mage closes her hand around the Stone and calls toward the carriage, drawing it against her coat while she looks for the leader's position. She remains where you can reach her for the moment, preparing to leave while the others try to keep your path blocked.
+> The Mage closes her hand around the Stone and pulls it in against her coat, glancing along the street for the leader as she calls toward the carriage. She stays within reach for the moment, getting ready to leave while the others try to keep your path blocked.
 >
-> > "I've got it. Keep them here until I can move."
+> > "I've got it! Keep them off me until I can get clear."
 
-If she acquired it while Invisible:
+If she took it while Invisible:
 
 > [!readaloud]
 >
-> The unattended Stone disappears from where it lay, and the Mage's voice calls toward the carriage from the space beside it. Her words give you a place to look, although you still cannot see her as the other attackers try to block your approach.
+> The Stone vanishes from where it lay, and the Mage's voice calls toward the carriage from the empty space beside it. Her words tell you where to look, though you can't see her while the other attackers work to block your approach.
 >
-> > "I've got it. Keep them here until I can move."
+> > "I've got it! Keep them off me until I can get clear."
 
 If she escapes, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The Mage finishes the spoken spell and disappears with the Stone still against her coat. The place where she stood is empty as the leader turns toward the street.
+> The Mage speaks the last word of the spell and vanishes with the Stone still tucked against her coat. Where she stood the air is empty, and the leader turns toward the street.
 
 > [!exploration]**Recovering at the Rendezvous**
 >
-> The party can reach the shed through the alley before her one-minute departure if they pursue immediately, with its unlocked doors permitting entry. *Locate Object* remains useful within its normal range unless lead blocks the path. A captured Tough or leader gives the shed address when asked where the Mage was going, without a check after surrender. Use the answer below.
+> If the party pursues immediately, they can reach the shed through the alley before her one-minute departure, and its unlocked doors let them in. *Locate Object* works within its normal range unless lead blocks the path. A captured Tough or leader tells the party the shed's address when asked where the Mage was going, with no check needed after surrender; use the answer below.
 >
-> If she has already left, a successful DC 13 Wisdom (Survival) check follows her route to the junction of Sorn Street and Salabar Street, where she arrives twenty minutes after teleporting. A ten-minute deliberate search finds the same route without a check but adds ten minutes to pursuit. She waits at that corner for two minutes, then continues to Kolat Towers' outer gate, arriving sixty minutes after teleporting and handing the Stone to the gate officer for Manshoon. Those fixed times apply only while she remains free and carrying it; a successful interception changes custody normally. The named later destination provides a further recovery lead without adding a forced Kolat encounter to this event.
+> If she has already left, any character who tracks her route and makes a successful DC 13 Wisdom (Survival) check follows it to the junction of Sorn Street and Salabar Street, where she arrives twenty minutes after teleporting. A deliberate ten-minute search finds the same route without a check but adds ten minutes to the pursuit. She waits at that corner for two minutes, then continues to Kolat Towers' outer gate, arriving sixty minutes after teleporting and handing the Stone to the gate officer for Manshoon. These times hold only while she remains free and carrying it, and a successful interception changes custody in the usual way. Kolat Towers gives the party a further lead to follow, but this event adds no Kolat encounter.
 
-If a captured attacker is asked for the Mage's rendezvous, use the same answer for the Tough or the leader:
+If a captured attacker is asked where the Mage went, the Tough or the leader gives the same answer:
 
 > [!readaloud]
 >
-> > "The abandoned cooper's shed, south side of Trollskull Alley. The rear cart bay is three hundred feet east of the manor. She'll leave on foot after a minute, so move if you mean to catch her."
+> > "Fine, she went to the abandoned cooper's shed on the south side of Trollskull Alley, the rear cart bay three hundred feet east of the manor. She leaves on foot after a minute, so you'll need to move if you want to catch her."
 
 ### Mirt's Protective Role
 
 > [!gamemaster]**Mirt as an Ally**
 >
-> Mirt uses his complete converted *Dragon Heist* statistics in the **Harpers Mechanics Reference**, rather than the generic Warrior Veteran: CR 9, AC 16, HP 153, Speed 30 feet and Initiative +4. His abilities are Str 18, Dex 18, Con 18, Int 15, Wis 12 and Cha 15; saves Dexterity +8 and Wisdom +5, with other saves equal to ability modifiers. His Passive Perception is 15 and his relevant Athletics/Acrobatics/Stealth are +8, Perception +5 and Persuasion +6.
+> Mirt uses his full converted *Dragon Heist* statistics from the **Harpers Mechanics Reference**, not the generic Warrior Veteran: CR 9, AC 16, HP 153, Speed 30 feet and Initiative +4. His abilities are Str 18, Dex 18, Con 18, Int 15, Wis 12 and Cha 15; saves Dexterity +8 and Wisdom +5, with other saves equal to ability modifiers. His Passive Perception is 15 and his relevant Athletics/Acrobatics/Stealth are +8, Perception +5 and Persuasion +6.
 >
-> His Multiattack is two +1 Longsword attacks (+9, reach 5 feet, 14 Slashing each, or 16 with two hands) and one +1 Dagger (+9, reach 5 feet, 10 Piercing; thrown 20/60 feet, 7 Piercing). Retain source Sneak Attack 14 once per turn when its Advantage or adjacent-ally requirement applies, Evasion and one Parry Reaction granting +2 AC against a visible melee hit while he holds a melee weapon. His Ring of Regeneration and Bracers of Defense remain equipment under their 2024 rules.
+> His Multiattack is two +1 Longsword attacks (+9, reach 5 feet, 14 Slashing each, or 16 with two hands) and one +1 Dagger (+9, reach 5 feet, 10 Piercing; thrown 20/60 feet, 7 Piercing). He keeps the source Sneak Attack 14 once per turn when its Advantage or adjacent-ally requirement is met, along with Evasion and one Parry Reaction that grants +2 AC against a visible melee hit while he holds a melee weapon. His Ring of Regeneration and Bracers of Defense work under their 2024 rules.
 >
-> Mirt stays within 5 feet of the holder when possible, using Dodge if no enemy threatens that person in melee and Help for a nearby defender's attack otherwise. If an enemy enters within 5 feet of the holder or attacks a civilian, he uses his real Multiattack against the nearest such attacker on his next turn, continuing until the threat withdraws or falls. If the Stone drops within reach, he picks it up and protects it; he doesn't take it from a resisting character.
+> Mirt stays within 5 feet of the holder when he can. He uses Dodge if no enemy threatens the holder in melee, and otherwise uses Help on a nearby defender's attack. If an enemy comes within 5 feet of the holder or attacks a civilian, he makes his full Multiattack against the nearest such attacker on his next turn and keeps at it until the threat withdraws or falls. If the Stone drops within his reach, he picks it up and guards it, and he won't take it from a character who is resisting.
 >
-> Before that trigger, use the uncredited-support enemy-only baseline as an upper bound. Once his attacks begin, add his real Tier 2 CR 9 ally Power 85 and use the active-combat rows in the reference. With five level 7 PCs, full-squad raw estimated loss changes from 26.74% to 13.36%; with the burst adjustment it changes from 44.01% to 21.99%. Smaller groups use their actual active-ally rows. His defense is useful, but Help or Dodge alone isn't credited as his full offensive contribution.
+> Until that trigger, use the enemy-only baseline, with no credit for Mirt, as an upper bound. Once his attacks begin, add his Tier 2 CR 9 ally Power 85 and use the active-combat rows in the reference. With five level 7 PCs, the full-squad raw estimated loss drops from 26.74% to 13.36%, and with the burst adjustment from 44.01% to 21.99%. Smaller groups use their own active-ally rows. Help or Dodge alone isn't credited as his full offensive contribution.
 
-When an enemy enters within 5 feet of the holder or attacks a civilian, use Mirt's warning. He makes his Multiattack on his next turn as specified above; his positioning or warning alone does not activate that attack or its ally Power.
+When an enemy comes within 5 feet of the holder or attacks a civilian, read Mirt's warning. His Multiattack comes on his next turn as described above, and the warning and his positioning alone don't trigger the attack or add the ally Power.
 
 > [!readaloud]
 >
-> Mirt turns his drawn sword toward the attacker, staying beside the holder when he can.
+> Mirt swings his drawn sword toward the attacker and steps in beside the holder.
 >
-> > "Stand behind me. If you want the Stone, you'll have to reach past me first."
+> > "Get behind me now, and if they want the Stone they'll have to come through me first."
 
 ### The Leader's Sending Stone
 
 > [!gamemaster]**An Unidentified Commander**
 >
-> Manshoon’s possession of the mate and the Mage’s destination are DM-only until established through observation or communication. Following her can reveal Kolat Towers as her destination; a reply naming its gate supplies that instruction without identifying the commander. Mirt learns a leader’s identity only from verified discovery actually shared with him.
+> Manshoon's possession of the mate and the Mage's destination stay GM-only until the party learns them by observation or communication. Following her can reveal Kolat Towers as her destination, and a reply naming its gate gives the same instruction without identifying the commander. Mirt learns who the leader answers to only from something the party has verified and shared with him.
 
-If the Spy leader is intercepted and the surrender condition is met, he keeps the paired stone visible in his hand:
+If the party intercepts the leader and he meets the surrender condition, he holds the paired stone out in his open hand:
 
 > [!readaloud]
 >
-> > "I'm done. Take the stone and let me put my hands where you can see them. Ask what you need before the Watch comes."
+> > "I'm done, so take the stone and let me put my hands where you can see them. Ask whatever you need to before the Watch turns up."
 
-The leader's **Sending Stone** is paired with the mate Manshoon currently bears. He keeps its use available until the Mage escapes or the assault collapses, then uses it on his next turn before fleeing if still able. Recovering it beforehand leaves today's charge available; recovering it afterward leaves it unusable until dawn.
+The leader's **Sending Stone** is paired with the mate Manshoon currently carries. He holds it ready until the Mage escapes or the assault collapses, then uses it on his next turn before fleeing if he still can. If the party takes it beforehand, today's charge is still available. If they take it afterward, it can't be used until dawn.
 
 > [!exploration]**A Real Paired Channel**
 >
-> Under the 2024 *Dungeon Master's Guide* entry, touching the stone allows *Sending* to the bearer of its mate. Either stone's use expends the pair until the next dawn, and destroying one makes the other nonmagical. It doesn't monitor passive traffic, identify a voice without contact or teleport an object.
+> Under the 2024 *Dungeon Master's Guide* entry, touching the stone lets its holder cast *Sending* to whoever bears its mate. Using either stone spends the pair until the next dawn, and destroying one makes the other nonmagical. The stones don't monitor traffic passively, identify a voice unaided or teleport objects.
 >
-> A character who previously heard Manshoon, already established whose voice it was and receives an actual reply can make a DC 12 Intelligence check to recognize it. Mirt requires the same prior knowledge and has no automatic identification from source records. A familiar but unidentified voice gives only a match to the earlier speaker; otherwise, the bearer of the mate remains anonymous. An unused or recharged stone can carry a chosen message, but a reply and belief in a false report aren't guaranteed; record the actual exchange rather than granting automatic deception.
+> Any character who has heard Manshoon before, already knows whose voice it was and gets an actual reply can make a DC 12 Intelligence check to recognize it. Mirt needs the same prior knowledge and doesn't identify anyone from source records alone. A familiar voice that hasn't been identified gives only a match to the earlier speaker, and otherwise the bearer of the mate stays anonymous. An unused or recharged stone can carry any message the character chooses, but a reply isn't guaranteed and neither is belief in a false report, so play out the exchange as it goes.
 >
-> *Sending* carries at most twenty-five words and identifies a sender the recipient already knows; changing a spoken voice doesn't impersonate that person. Manshoon remains in Waterdeep bearing the mate during this event. Resolve his immediate response by the message's purpose:
-> - A sender he recognizes as an opponent receives: "You are using a channel that belongs to my agents. Bring the Stone to Kolat's outer gate if you intend to discuss terms."
-> - An unfamiliar sender claiming successful retrieval receives: "The gate officer is expecting the Stone. Deliver it to Kolat's outer gate, and make your report there before you ask for further instructions." He verifies custody through that delivery, without accepting other unsupported claims.
-> - Another unfamiliar inquiry or offer receives: "I have no instruction for an unidentified bearer. State who gave you the stone, then explain what you expect in return."
-> - A message consisting only of abuse or threats receives no reply, and he blocks that sender's Sending for eight hours under the spell's rule.
+> *Sending* carries at most twenty-five words and names a sender the recipient already knows, so disguising a spoken voice doesn't let a character impersonate someone else. Manshoon stays in Waterdeep carrying the mate during this event, and he answers according to the purpose of the message:
+> - A sender he recognizes as an opponent receives: "You are using a channel that belongs to my agents. Bring the Stone to Kolat's outer gate if you would like to discuss terms."
+> - An unfamiliar sender claiming a successful retrieval receives: "The gate officer expects the Stone. Deliver it to Kolat's outer gate, and make your report there before you ask for further instructions." He confirms custody through that delivery and accepts no other unsupported claims.
+> - Another unfamiliar inquiry or offer receives: "I have no instruction for an unidentified bearer. Say who gave you the stone, then tell me what you expect in return."
+> - A message of nothing but abuse or threats receives no reply, and he blocks that sender's Sending for eight hours under the spell's rule.
 >
-> These responses use the actual chosen message and recognition state. No reply reveals private lair details or makes a false tactical report automatically believed. Each actual reply remains available for the prior-voice recognition check, and the pair's shared charge is spent by the original Sending.
+> His replies depend on the message the party actually sends and on whether they have recognized the voice. Nothing he says reveals private lair details or makes a false tactical report believed automatically. Each reply can feed the prior-voice recognition check, and the original Sending has already spent the pair's shared charge.
 
 ### The Study and the Return
 
-If the holder grants access and the Stone remains available, Ivara begins at the recorded delivery time at Mirt's residence. Mirt returns it exactly seventy-two hours afterward with a written account of the findings. If the Stone was lost in the raid, study begins only after actual recovery and renewed consent; no result appears while Manshoon's agents still hold it.
+If the holder grants access and the Stone is still available, Ivara begins at the recorded delivery time at Mirt's residence, and Mirt returns the Stone exactly seventy-two hours later with a written account of the findings. If the raid cost the party the Stone, the study starts only once they recover it and the holder agrees again, and no result appears while Manshoon's agents still hold it.
 
 > [!readaloud]
 >
-> Mirt returns the Stone beside the custody receipt, leaving every restored Eye in place for the holder to check. He sets Ivara’s account next to the guardian’s history and waits while you read.
+> Mirt returns the Stone with the custody receipt beside it, and every restored Eye is still in place for the holder to check. He lays Ivara's account next to the guardian's history and waits while you read.
 >
-> > "The guardian is Aurinax, a gold dragon bound to Neverember's authority. Bring genuine authority to discharge that duty before you try to threaten him. The Stone's connection is real as well, and we've found a person touched by it."
+> > "The guardian is Aurinax, a gold dragon bound to Neverember's authority. Bring someone with genuine authority to release him from that duty before you think about threatening him. And the Stone's connection is real, since we've found a person it touched."
 
 > [!qna]**What answered from below?**
 >
-> > "Golorr is an aboleth held inside the Stone. Ivara traced the answer to Illuun, another aboleth on Undermountain's fourth level. That tells us where the influence comes from, though it doesn't tell us everyone it has reached."
+> > "Golorr is an aboleth, held inside the Stone. Ivara traced the answer to Illuun, another aboleth, on Undermountain's fourth level. That tells us where the influence comes from, though it doesn't tell us everyone it's reached."
 
 > [!gamemaster]**The Fixed Results and Identity Gate**
 >
-> The study confirms Golorr's imprisoned consciousness and its resonance with Illuun below the city. Harper archival work identifies Aurinax's oath-bound guardianship, supplementing the ceremonial-lock clues without replacing the vault's keys or supplying its location before the relevant Eye awakening. The study neither installs an Eye nor assumes which lair ran first.
+> The study confirms Golorr's imprisoned consciousness and its resonance with Illuun below the city. Harper archival work identifies Aurinax's oath-bound guardianship, which supports the ceremonial-lock clues without replacing the vault's keys or revealing its location before the relevant Eye awakening. The study doesn't install an Eye and doesn't assume which lair ran first.
 >
-> If the party asks directly who was touched, whether a contact is compromised or what the second finding names, use Mirt’s answer below: **Jalester Silvermane**. Consent to the study and that direct question are both required before **Jalester Compromise Identified** is marked. Receiving the study bonus alone doesn't reveal the name.
+> If the party asks directly who was touched, whether a contact is compromised or what the second finding names, give Mirt's answer below: **Jalester Silvermane**. Both consent to the study and that direct question are required before **Jalester Compromise Identified** is marked. The study bonus by itself doesn't reveal the name.
 
 > [!qna]**Who is compromised?**
 >
-> > "Jalester Silvermane. He doesn't know, and I don't believe he's willingly serving it. Ivara traced the influence to his long exposure near the Portal's well. Keep sensitive plans out of that route until the connection is dealt with."
+> > "It's Jalester Silvermane, and he doesn't know, and I don't believe he's serving it willingly. Ivara traced the influence to his long exposure near the Portal's well, so keep sensitive plans off that route until this is dealt with."
 
 > [!gamemaster]**Bounded Follow-Up**
 >
-> Removing Jalester from sensitive reporting prevents new plans passing through him, but doesn't itself sever Illuun's psychic influence. The future objective is defeating Illuun; no immediate cure or completed Undermountain quest is supplied here. The Lords' Alliance M6 and Vault convergence readers receive the exact identified outcome and the specific reports actually exposed, without assuming every Alliance contact is hostile.
+> Taking Jalester off sensitive reporting stops new plans passing through him, but it doesn't end Illuun's psychic influence over him. The eventual answer is defeating Illuun, and this event supplies no cure and no completed Undermountain quest. The Lords' Alliance M6 and Vault convergence readers receive the identified outcome and the specific reports that were exposed, and they don't assume every Alliance contact is hostile.
 
 ### Renown Opportunities
 
-Each participating Harper member gains 4 base Renown for resolving the raid and reporting the Stone's actual disposition. Add +1 for consenting to the full study and receiving its completed results, and +1 for defeating or capturing the assault team and recovering the leader's sending stone. Each bonus applies once, and the study's identity remains separately gated by the direct question.
+Each participating Harper member gains 4 base Renown for resolving the raid and reporting the Stone's actual disposition. Add +1 for consenting to the full study and receiving its completed results, and +1 for defeating or capturing the assault team and recovering the leader's sending stone. Each bonus applies once, and the study's identity result stays gated by the direct question.
 
 ### Aftermath
 
-Mirt accepts a refusal after the raid as he did before it, keeping future Harper contact available. The captured stone remains useful within its real daily limit, while survivors can report only observed defenders, routes and the Stone's actual disposition to Manshoon. A cleared register route stays closed even if an independent street watcher witnessed this attack.
+Mirt accepts a refusal after the raid as he did before it, and Harper contact stays open. The captured stone works within its daily limit. Survivors can report to Manshoon only the defenders, routes and Stone custody they observed. A cleared register route stays closed even if an independent street watcher saw the attack.
 
 ### Concluding the Event
 
-Record the agreed study, the recovered or escaped Stone and the psychic finding as separate results.
+Record the agreed study, the recovered or escaped Stone and the psychic finding as three separate results.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Stone Study Completed** — mark when the consenting holder receives the Stone and findings after seventy-two hours; **Vault of Dragons** reads the guardian and resonance intelligence.
-> - **Jalester Compromise Identified** — mark only after study consent, completed findings and the direct question revealing Jalester; Lords' Alliance M6 and **Vault of Dragons** read the bounded compromised contact route.
-> - **Splinter Sending Stone Recovered** — mark when the leader's stone is secured, recording whether its daily charge remains; later Harper operations read its paired communication limit.
-> - **Splinter Stone Retrieval Prevented** — mark when the party retains or actually recovers the Stone after the raid; later Grand Game reports retain its real custody.
-> - **Stone Taken by Splinter** — mark while the Mage's escape leaves it outside the party's control; later recovery updates custody without inventing a study already completed.
-> - **Splinter Raid Observations Delivered** — mark if the leader uses the stone or a surviving agent reaches the cell, listing only observed facts; **Kolat Towers** reads those reports without adding unknown defenses or omitting required clues.
+> - **Stone Study Completed** — mark when the consenting holder gets the Stone and the findings back after seventy-two hours; **Vault of Dragons** reads the guardian and resonance intelligence.
+> - **Jalester Compromise Identified** — mark only after the holder consented, the findings are complete and the party asked the direct question that reveals Jalester; Lords' Alliance M6 and **Vault of Dragons** read the bounded compromised contact route.
+> - **Splinter Sending Stone Recovered** — mark when the party secures the leader's stone, recording whether its daily charge remains; later Harper operations read its paired communication limit.
+> - **Splinter Stone Retrieval Prevented** — mark when the party keeps the Stone or recovers it after the raid; later Grand Game reports track who actually holds it.
+> - **Stone Taken by Splinter** — mark while the Mage's escape leaves the Stone outside the party's control; a later recovery updates custody, and no study counts as completed.
+> - **Splinter Raid Observations Delivered** — mark if the leader uses the stone or a surviving agent reaches the cell, listing only what they observed; **Kolat Towers** reads those reports and adds no defenses they didn't see, though the required clues still appear.
 
 > [!gamemaster]**Next Steps**
 >
-> Continue **Vault of Dragons** preparation with the restored-Eye count and custody actually present. The Illuun finding supplies a reason to descend into Undermountain later, while this faction mission awards no Milestone Points.
+> Continue **Vault of Dragons** preparation with the restored-Eye count and custody as they actually stand. The Illuun finding gives the party a reason to descend into Undermountain later. This faction mission awards no Milestone Points.
 
 ## Overview
 
@@ -277,4 +277,4 @@ The party decides whether to let Mirt study the Stone and what arrangements to m
 
 ## Summary
 
-We resolved the raid and recorded who held the Stone afterward. Any study followed the terms we accepted, with Jalester's psychic compromise revealed only if we asked about the completed finding.
+We dealt with the raid and noted who held the Stone afterward. Any study followed the terms we accepted, and Jalester's psychic compromise came out only if we asked about the finished findings.
