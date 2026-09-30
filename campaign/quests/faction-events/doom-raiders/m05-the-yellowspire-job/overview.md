@@ -60,7 +60,7 @@ Davil holds the ledger, Tashlyn holds the letters, and Ziraj's notes are in the 
 
 - **Davil Starsong** (Doom Raiders): gives the brief in person, receives the ledger and asks Ziraj to share his notes.
 - **Tashlyn Yafeera** (Doom Raiders): supplies the schematics and the cover name Rorik Halvars, and receives the letters.
-- **Ziraj the Hunter** and **Fala Lefaliir** (Doom Raiders, Trollskull Alley community): hand over the force-field notes at Corellon's Crown.
+- **Ziraj the Hunter** (Doom Raiders) and **Fala Lefaliir** (independent; Fala is Ziraj's friend in the Trollskull Alley community, not a member): hand over the force-field notes at Corellon's Crown.
 - **Amath Seccent** (Manshoon's Zhentarim): a Banite priestess who keeps Yellowspire.
 - **Agorn Fuoco** (Manshoon's Zhentarim): a bard who visits some evenings on a first visit and trades his pass-amulet for his life.
 - **Vevette Blackwater** (Manshoon's Zhentarim): stays at Kolat Towers, and the letters name her as the strike-team coordinator.

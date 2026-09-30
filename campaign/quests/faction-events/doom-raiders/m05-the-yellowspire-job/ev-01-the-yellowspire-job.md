@@ -13,7 +13,7 @@
 
 ### The Brief
 
-At dusk on the day the member qualifies, a flying snake with silvery scales brings a note to the member's lodgings that says only "The Portal. Tonight." The note is in Davil's looping hand, which the member has not seen since before the arrest. Davil receives the members in his room on the second floor, and Tashlyn Yafeera stands by the curtain because she never sits during a briefing.
+At dusk on the day the member qualifies, a flying snake with silvery scales brings a note to the member's lodgings that says only "The Portal. Tonight." The note is in Davil's looping hand, which the member has not seen since before the arrest. This Event reads **Davil Released** from **Davil's Return**, which puts Davil back in charge. If the release terms left his suite sealed (release count 0 or 1, for the first ten days), he receives the members in the back booth behind the Yawning Portal's kitchens, and Tashlyn Yafeera stands at the booth's entrance because she never sits during a briefing. Otherwise he receives them in his curtained room on the second floor, with Tashlyn beside the curtain.
 
 > [!gamemaster]**Which Yellowspire Is This?**
 >
@@ -22,17 +22,31 @@ At dusk on the day the member qualifies, a flying snake with silvery scales brin
 > - **First visit.** If **Yellowspire Raided** is not marked, use the layout, scaffolding and single floor plate described below, and use the first-visit column of the roster table.
 > - **Return visit.** If **Yellowspire Raided** is marked, Amath's cell rebuilt the relay after the party's raid. The scaffolding has been taken down, the circle chamber has a second lock and a second floor plate, a pull-cord bell hangs inside the hoist door, more guards stay on site, and a larger group waits at Kolat Towers. Use the return-visit column of the roster table.
 > - **Skeemo escaped.** If **Skeemo at Kolat Towers** is marked, Skeemo reached Kolat Towers through this very circle and told the Splinter what he knew about the Doom Raiders. Amath has been warned. The knock and the week's word have changed (they also change on a return visit), every DC in **Getting In** is 2 higher, the acolytes sleep in their robes, and the referral cover in **Approach Three** is a trap.
-> - **Skeemo Captured.** If **Skeemo Captured** is marked, Tashlyn holds him and he gave her the current coded knock and a warning about the northeast plate. On a first visit, the knock beat in **Approach One** succeeds automatically and the northeast plate is known without a check. On a return visit, Skeemo's knowledge predates the rebuild, so the lead covers only the old northeast plate, and the new knock and second plate must be found. Tashlyn passes the leads on in the brief.
+> - **Skeemo Captured.** If **Skeemo Captured** is marked, Skeemo gave Tashlyn the current coded knock and a warning about the northeast plate during questioning. The leads survive whatever **Davil's Return** decided for him (**Skeemo Exiled**, **Skeemo Handed to the Watch** or **Skeemo Executed**). On a first visit, the knock beat in **Approach One** succeeds automatically and the northeast plate is known without a check. On a return visit, Skeemo's knowledge predates the rebuild, so the lead covers only the old northeast plate, and the new knock and second plate must be found. Tashlyn passes the leads on in the brief.
 > - **Skeemo Silenced.** If **Skeemo Silenced** is marked, he is dead and nothing changes.
 > - **Skeemo Letters Recovered.** If **Skeemo Letters Recovered** is marked, Tashlyn has already decoded three paper-bird letters that name Vevette Blackwater. Davil mentions this in the brief, and Tashlyn wants the letters in the desk to show what Vevette has ordered since. The recovered letters corroborate the paper-bird letters, and the **Vevette Letters Recovered** bonus is unchanged.
-> - **Watch File Opened.** If **Watch File Opened** is marked, the Watch is tracking Doom Raiders movements. Castle Ward patrols are heavier, and a Watch pair now walks the lane from midnight to dawn, so deep night is no longer quiet. The pair passes the tower's door every half hour, and a character on the outer wall or at the door must make a DC 13 Dexterity (Stealth) check in each such pass or be seen. A seen party must be gone or explain itself to the pair, who arrest no one without a complaint from Amath, and she will not complain because the Watch would find the handprints. The pair records the names of anyone it sees.
+> - **Watch File Opened.** If **Watch File Opened** or **Skeemo Handed to the Watch** is marked, the Watch is tracking Doom Raiders movements. Castle Ward patrols are heavier, and a Watch pair now walks the lane from midnight to dawn, so deep night is no longer quiet. The pair passes the tower's door every half hour, and a character on the outer wall or at the door must make a DC 13 Dexterity (Stealth) check in each such pass or be seen. A seen party must be gone or explain itself to the pair, who arrest no one without a complaint from Amath, and she will not complain because the Watch would find the handprints. The pair records the names of anyone it sees.
 > - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers the other cell's stronghold. The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name.
+
+If the suite is unsealed, read or paraphrase the following:
 
 > [!readaloud]
 >
 > Davil's room smells of cedar and warm wine, and a sheet of pale drawings lies open on the round table with a small silver trophy from his bracelet holding down each corner. He is thinner than he was before Castle Waterdeep, and he still pours for each of you before he says a word. Tashlyn stands beside the curtain with her hands behind her back.
+
+If the suite is still sealed, read the following opening instead and continue with Davil's speech:
+
+> [!readaloud]
 >
-> > Sit, my friends, please. I said I'd have work for you when I was out, and this is it, though I should tell you that nobody above me has asked for it and nobody above me will hear about it from us. There is an old tower in the Castle Ward with pale yellow brick, and a priestess of Bane lives in it who keeps a teleportation circle in her cellar, yes?
+> The back booth behind the Yawning Portal's kitchens smells of frying onions and spilled ale, and a sheet of pale drawings lies open on the narrow table with a small silver trophy from Davil's bracelet holding down each corner. He is thinner than he was before Castle Waterdeep, and he still pours for each of you before he says a word. Tashlyn stands at the mouth of the booth with her hands behind her back.
+
+The speech follows in either place:
+
+> [!readaloud]
+>
+> Davil sets down the decanter and looks around the table.
+>
+> > "Sit, my friends, please. I said I'd have work for you when I was out, and this is it, though I should tell you that nobody above me has asked for it and nobody above me will hear about it from us. There is an old tower in the Castle Ward with pale yellow brick, and a priestess of Bane lives in it who keeps a teleportation circle in her cellar, yes?"
 
 If **Manshoon Named** is not marked, read or paraphrase the following:
 
@@ -40,7 +54,7 @@ If **Manshoon Named** is not marked, read or paraphrase the following:
 >
 > Davil turns a small silver trophy on his bracelet and taps the drawing of the tower with one finger.
 >
-> > The circle connects to the towers in the Trades Ward where Floxin's cell keeps its people, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all.
+> > "The circle connects to the towers in the Trades Ward where Floxin's cell keeps its people, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
 
 If **Manshoon Named** is marked, read or paraphrase the following instead:
 
@@ -48,39 +62,39 @@ If **Manshoon Named** is marked, read or paraphrase the following instead:
 >
 > Davil turns a small silver trophy on his bracelet and taps the drawing of the tower with one finger.
 >
-> > The circle connects to the towers in the Trades Ward where Manshoon lives, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all.
+> > "The circle connects to the towers in the Trades Ward where Manshoon lives, and the towers sit inside a force field that turns away everyone who doesn't carry a pass-amulet. Somewhere in that yellow tower is a ledger showing who carries each amulet and when it changes hands. If we have that book, we'll know whom to follow and when, and we won't have to break the field at all."
 
 > [!readaloud]
 >
 > Tashlyn steps up to the table and lays a finger on two spots in the drawing, one in the cellar and one on the upper level.
 >
-> > The ledger is down here, in the room with the circle. The letters are up here, in the priest's desk. I want both.
+> > "The ledger is down here, in the room with the circle. The letters are up here, in the priest's desk. I want both."
 
 > [!qna]**Who lives in the tower?**
 >
-> > A woman named Amath Seccent and four followers of Bane, though I've never counted more than a few of them on the premises at once. They keep the place as a temple and a post office, and they go out looking like ordinary neighbors. Please don't underestimate her, because she was picked for that tower on purpose.
+> > "A woman named Amath Seccent and four followers of Bane, though I've never counted more than a few of them on the premises at once. They keep the place as a temple and a post office, and they go out looking like ordinary neighbors. Please don't underestimate her, because she was picked for that tower on purpose."
 
 > [!qna]**What are the letters?**
 >
 > Davil looks at Tashlyn, who answers without moving.
 >
-> > Coded correspondence. It names the officer who coordinates their strike teams and lists next month's priorities, and I've heard one name for that officer already. I want it in writing.
+> > "Coded correspondence. It names the officer who coordinates their strike teams and lists next month's priorities, and I've heard one name for that officer already. I want it in writing."
 
 If **Skeemo Letters Recovered** is marked, Davil adds that Tashlyn has decoded Skeemo's three paper-bird letters, which all name Vevette Blackwater, and that the letters in the desk should confirm what those three only hint at.
 
 > [!qna]**How do we get in?**
 >
-> > Tashlyn's watchers have heard the knock at the door a hundred times, two slow taps and three quick ones, and she has cleared a name for a story as well. Rorik Halvars is a mercenary who runs honest contracts through their people, and you may say you're his referral if you must. There's scaffolding on the outer wall too, though I'd want to see it before I trusted it.
+> > "Tashlyn's watchers have heard the knock at the door a hundred times, two slow taps and three quick ones, and she has cleared a name for a story as well. Rorik Halvars is a mercenary who runs honest contracts through their people, and you may say you're his referral if you must. There's scaffolding on the outer wall too, though I'd want to see it before I trusted it."
 
 If the knock has changed, Davil still gives the old knock, because nobody in the Doom Raiders knows about the change until the door rejects it. If **Skeemo Captured** is marked, Tashlyn steps in and gives the current knock and the northeast plate, which Skeemo gave up.
 
 > [!qna]**What do you know about the trap?**
 >
-> > Every courier who comes through the circle room stops in the doorway and steps to the northeast corner before they go near the ring. It's a habit, and I've seen it eleven times. I can't tell you what the habit is for, so treat it as a warning.
+> > "Every courier who comes through the circle room stops in the doorway and steps to the northeast corner before they go near the ring. It's a habit, and I've seen it eleven times. I can't tell you what the habit is for, so treat it as a warning."
 
 > [!qna]**What if it goes wrong?**
 >
-> > Then the circle will send their friends to find you, and you'll want to be gone before they arrive. Tashlyn believes you'll have ten minutes at most, and she is usually right about numbers of that sort.
+> > "Then the circle will send their friends to find you, and you'll want to be gone before they arrive. Tashlyn believes you'll have ten minutes at most, and she is usually right about numbers of that sort."
 
 If **Yellowspire Raided** is marked, add the following:
 
@@ -88,7 +102,7 @@ If **Yellowspire Raided** is marked, add the following:
 >
 > Davil sits back and lets the trophy on his bracelet swing loose.
 >
-> > You know this tower better than I do, so I won't insult you by describing it. What I can tell you is that Tashlyn's watchers say the scaffolding came down within a tenday of your visit, and the priestess has more helpers than she had before. Whatever you learned there, assume they've learned from it too.
+> > "You know this tower better than I do, so I won't insult you by describing it. What I can tell you is that Tashlyn's watchers say the scaffolding came down within a tenday of your visit, and the priestess has more helpers than she had before. Whatever you learned there, assume they've learned from it too."
 
 If **Skeemo at Kolat Towers** is marked, add the following:
 
@@ -96,19 +110,19 @@ If **Skeemo at Kolat Towers** is marked, add the following:
 >
 > Davil's smile is small and does not last.
 >
-> > Skeemo went through that circle, so assume the other cell knows something is coming. They may have changed the knock, and they will certainly have changed whatever they do at the door. Take your time watching them before you go in.
+> > "Skeemo went through that circle, so assume the other cell knows something is coming. They may have changed the knock, and they will certainly have changed whatever they do at the door. Take your time watching them before you go in."
 
 If **Manshoon Named** is not marked and the party asks whether the towers hold anything else, Davil answers:
 
 > [!qna]**Who runs the other cell?**
 >
-> > Everything I have points at Floxin, and I've paid a great many people to tell me otherwise. I would very much like to be wrong about that, but I haven't been given a reason yet.
+> > "Everything I have points at Floxin, and I've paid a great many people to tell me otherwise. I would very much like to be wrong about that, but I haven't been given a reason yet."
 
 If **Manshoon Named** is marked, add the following:
 
 > [!qna]**Who runs the other cell?**
 >
-> > Manshoon does, and Floxin is his hand in the streets. I should have seen it sooner, and I did not, so let's not argue about who was quicker to learn it.
+> > "Manshoon does, and Floxin is his hand in the streets. I should have seen it sooner, and I did not, so let's not argue about who was quicker to learn it."
 
 ### Watching the Tower
 
@@ -221,15 +235,15 @@ The party can use any approach or combine them. Each approach has several steps,
 >
 > Amath folds her hands in front of her.
 >
-> > Did he? Rorik is a dear man, and it's kind of him to send such well-dressed people. If you'll wait by the fire, I'll ask one of my acolytes to fetch the parcel he mentioned, and you can tell me how he's keeping.
+> > "Did he? Rorik is a dear man, and it's kind of him to send such well-dressed people. If you'll wait by the fire, I'll ask one of my acolytes to fetch the parcel he mentioned, and you can tell me how he's keeping."
 
 > [!qna]**What is this place?**
 >
-> > It is the House of Tyranny, though the neighbors think it's a private home, and I prefer that they do. We keep it as a house of worship, and I hope you will forgive the handprints. They are a devotion, and my acolytes are very particular about them.
+> > "It is the House of Tyranny, though the neighbors think it's a private home, and I prefer that they do. We keep it as a house of worship, and I hope you will forgive the handprints. They are a devotion, and my acolytes are very particular about them."
 
 > [!qna]**Who else comes here?**
 >
-> > Friends of the Lord of Tyranny, and friends of Rorik's, I'm sure. I find that people who ask who else comes here generally intend to visit them next, so I make a habit of not answering.
+> > "Friends of the Lord of Tyranny, and friends of Rorik's, I'm sure. I find that people who ask who else comes here generally intend to visit them next, so I make a habit of not answering."
 
 ### The Relay Box
 
@@ -332,7 +346,7 @@ Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force 
 >
 > Corellon's Crown smells of dried mint and horehound. A wood elf in an apron sets a pot of tea and four cups on the back table, and a huge half-orc sits against the wall with a stack of bark-paper sheets in front of him. Every sheet is covered in rows of tally marks and small drawings of tower walls.
 >
-> > Drink this first. It's mint and horehound, and you look as though you need it.
+> > "Drink this first. It's mint and horehound, and you look as though you need it."
 
 > [!social]**Ziraj and Fala**
 >
@@ -346,17 +360,17 @@ Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force 
 >
 > Ziraj slides the top sheet across the table.
 >
-> > Davil asked.
+> > "Davil asked."
 
 > [!qna]**How long did you watch?**
 >
-> > Twenty nights.
+> > "Twenty nights."
 
 > [!qna]**Can you read this for us?**
 >
 > Fala turns the sheet and traces a line with one finger.
 >
-> > He writes in his own marks, and I've learned them because he taught me. Each cluster is a night, each tally is a gap, and each drawing shows where on the wall it opened. I'd rather not explain it twice, so please listen. Drink this first.
+> > "He writes in his own marks, and I've learned them because he taught me. Each cluster is a night, each tally is a gap, and each drawing shows where on the wall it opened. I'd rather not explain it twice, so please listen. Drink this first."
 
 > [!exploration]**The Force Field Notes**
 >
@@ -370,7 +384,7 @@ Davil asked Ziraj to hand over his surveillance notes on the Kolat Towers force 
 >
 > Ziraj taps the underlined entries with one thick finger and looks at Fala, who nods.
 >
-> > They move.
+> > "They move."
 
 If the party returns with nothing from Yellowspire, Tashlyn sends the notes anyway. She hands them over without ceremony and says: "You came back with nothing. Take these, and don't fail there."
 
@@ -392,11 +406,11 @@ Davil receives the ledger at the Yawning Portal that evening or the next, and he
 >
 > Davil turns the ledger's pages one by one with his bracelet trophies rattling softly against the wood. Tashlyn stands behind his chair and reads over his shoulder. When he reaches the last page, he closes the book and looks up.
 >
-> > Three carriers, and every handoff in a public place. Somebody thought that made them harder to take, and I suppose they were right. We know now where the amulets are and how they move, and we'll decide together how we want to take them.
+> > "Three carriers, and every handoff in a public place. Somebody thought that made them harder to take, and I suppose they were right. We know now where the amulets are and how they move, and we'll decide together how we want to take them."
 
 If the party also brought the letters, Tashlyn reads them at the table without a word and files them. Then she says: "Blackwater. Confirmed."
 
-If the party made Amath's cell aware of the raid, Tashlyn warns them that the other cell will respond, and Manshoon's Zhentarim stand at Suspicious or higher from that day. If Amath is dead, Tashlyn adds that the Watch will find the bodies within a day or two.
+If the party made Amath's cell aware of the raid, Tashlyn warns them that the other cell will respond. (GM only: Manshoon's Zhentarim stand at Suspicious or higher from that day.) If Amath is dead, Tashlyn adds that the Watch will find the bodies within a day or two.
 
 ### Concluding the Event
 
