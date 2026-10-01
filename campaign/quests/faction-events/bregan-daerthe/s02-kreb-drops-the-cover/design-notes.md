@@ -1,0 +1,36 @@
+# Design Notes: Kreb Drops the Cover
+
+## What Drops and What Doesn't
+
+The restored draft had Krebbyg name Bregan D'aerthe "for the first time". Nevercott has named it at the First Meeting by then, so the draft revealed nothing the members lacked. The event now drops the one thing they have not seen, Krebbyg's own face. The members have dealt with a human booking manager named Kreb Sorrush since **The Handkerchief and the Girl**, and this is the scene where he takes the wig off.
+
+The restored draft also had Krebbyg pay 100 gp at the theater, which contradicted Nevercott's 80 gp at the Yawning Portal in **The Wazoo Affair**, and it carried an invented "sixteen months" backstory that the Notable Figures page does not support. Both are gone. The event pays nothing, the pouches stay in **Coin Pouches**, and Krebbyg's history is limited to what his page says.
+
+## Choices in the Scene
+
+The draft was a handed envelope and one optional check. The rewrite gives the member four decisions: how to react to a drow in the booking office, what to ask, whether to keep the faction's secret when a constable knocks, and whether to accept the channel's rules. Fel'rekt arrives because the profiles say Krebbyg defers to him on anything serious, and because the guide's discretion rule needs someone to say it aloud who is not Krebbyg.
+
+The test of discretion is Constable Pimm, a real and ordinary Dock Ward Watchman who has nothing to do with Bregan D'aerthe. Nobody in the company plans it, which suits Krebbyg, who never plans. The constable gives the member three ways to answer that matter. Stalling or helping with the paint costs nothing and earns a standing welcome, a poor result costs ten days at the booking office door, and pointing at the cover ends the relationship as the guide says it must. Pimm laughs the accusation off, so the Watch never acts on it and the consequence stays inside the faction.
+
+## The Cover and the Jarlaxle Gate
+
+The Notable Figures page says only that Krebbyg operates as "Kreb Sorrush". The greasepaint, brown wig and gloves are an invented method, chosen because it is a theater trade and because it explains why the cover costs him half an hour before every matinee. If another page gives Krebbyg a magical disguise, this event should follow it.
+
+Krebbyg and Fel'rekt say "the captain" and never Jarlaxle. Nevercott is the captain's disguise, both of them know it, and neither will confirm it before **Jarlaxle Unmasked**. The conditional answer to "Who is the captain?" lets Fel'rekt cough Krebbyg quiet if the member has already met Jarlaxle.
+
+## Why the Channel Is Specific
+
+The restored draft closed by saying a more interesting assignment was coming. A contact the members use for every later event needs a drop, a signal and hours, so the event fixes them. The cloakroom coat, the torn ticket and the circled price on the playbill are small enough that a GM can run them without prep, and the same channel carries word of rank events, which is why the rank events read **Kreb Unmasked**.
+
+## Outcomes
+
+**Kreb Unmasked** is set per member and read by **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive** and the four rank events. **BD Contact Severed** is a second writer of an outcome that the First Meeting also sets, and **Contact Severed** reads it. The Pitch, the 100 gp envelope and the "more interesting assignment" card are cut, and **Three Nights** has no briefing scene.
+
+## Out-of-Scope Notes
+
+- Invented names and places: Constable Harl Pimm, the grey coat on cloakroom peg seven, the torn-ticket signal and the playbill's circled price. *The Duke's Last Supper* is used from **Coin Pouches**.
+- `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:8` still lists **The Betrayal Pitch** under "Featured in", although the mission is cut.
+- `campaign/quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md` says Krebbyg "no longer hides what he is" after this event. This event limits that to a locked booking office, the stage door after dark and the dressing-room safe house, with the human cover kept in public.
+- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/ev-01-three-nights.md` (restored draft) still has Krebbyg brief **Three Nights** before dawn. The conversion brief gives it no brief.
+- `campaign/quests/faction-events/bregan-daerthe/m01-the-handkerchief-and-the-girl/overview.md:24` calls Kreb "a half-shade too still for a human", which does not match the chatty profile voice and should be revised in the **The Handkerchief and the Girl** rewrite.
+- The rank events (`r03`, `r10`, `r25`, `r50`) should say where they are held, since this event promises the playbill will say.

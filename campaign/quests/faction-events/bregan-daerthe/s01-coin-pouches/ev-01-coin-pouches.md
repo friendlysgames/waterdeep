@@ -119,7 +119,7 @@ The Seven Masks Theater is in the Dock Ward, and the booking office is a narrow 
 >
 > A member who shows the black card gets the whole story, and a member without it can try a DC 15 Charisma (Deception) check to pass as someone who already knows. On a failure, or if the member does nothing, Kreb deflects with theatre talk and gives away nothing. A member who puts the playbill from Dunstan's room on the counter sees his patter stop for a breath before it starts again, and that is enough to confirm the trail leads here.
 >
-> The scene is written for the days before **The Wazoo Affair** concludes. If the member reaches the theatre after **Kreb Drops the Cover** has fired, Krebbyg no longer hides what he is, and he gives the same answers in the same run-ons without needing the card or the check.
+> The scene is written for the days before **The Wazoo Affair** concludes. If the member reaches the theatre after **Kreb Drops the Cover** has fired, Krebbyg no longer hides what he is from the member behind the booking-office door, and he gives the same answers in the same run-ons without needing the card or the check.
 
 > [!qna]**Dunstan Rook?**
 >
