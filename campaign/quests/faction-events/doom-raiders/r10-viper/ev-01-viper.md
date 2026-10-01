@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs when an individual Doom Raiders member first reaches Renown 10, which usually happens around the end of **Silencing Skeemo**. Tashlyn Yafeera names the rank while Davil Starsong is in Watch custody, and Davil names it once he is back. In this Event, the member can:
+> This Social Event occurs when an individual Doom Raiders member first reaches Renown 10, which usually happens around the end of **Silencing Skeemo**. Bonus Renown from earlier missions can bring a member to 10 before **Silencing Skeemo** has played, and the Event runs the same way when it does. Tashlyn Yafeera names the rank while Davil Starsong is in Watch custody, and Davil names it once he is back. In this Event, the member can:
 >
 > - Decide whether to spend this quest's forged document now, and choose its type and cover identity.
 > - Learn how to call Yagra Stonefist, or a substitute, as muscle for one operation per quest.
@@ -12,14 +12,14 @@
 
 At noon on the day after the member reaches Renown 10, a flying snake finds them and carries an invitation for that evening. Who sends it depends on where Davil is:
 
-- **While Davil Arrested is marked and Davil Released is not:** Tashlyn writes the note. The meeting is at 20:00 at the Dusty Ladle, a South Ward taproom, at the table in the back corner.
+- **While Davil Arrested is marked and Davil Released is not:** Tashlyn writes the note. The meeting is at 20:00 at the Dusty Ladle, a Southern Ward taproom, at the table in the back corner.
 - **After Davil Released is marked, or if the rank is reached before Davil Arrested is marked:** Davil writes the note and receives the member at the Yawning Portal at 20:00. Tashlyn attends, standing by the door, because the specialist bench is hers. If **Davil Released** is marked and his suite is still sealed (release terms 0 or 1, which seal it for ten days), he has no lute or bracelet and meets the member in the back booth behind the kitchens, which Durnan lets him use. Otherwise he receives the member in his curtained room on the second floor.
 
 Every qualifying member is invited on their own account and is recorded one by one. Companions who are not Doom Raiders members are not invited. A member away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the next evening at the same hour.
 
 > [!gamemaster]**What Is Actually True**
 >
-> Every benefit here is real, and every one is the Network's own to give. The forger, the locksmith, the alchemist and the costumer are independent tradespeople who owe the Doom Raiders favors. If **Silencing Skeemo** has played, the Network has no alchemist of its own, because Skeemo's shop is closed and Loria Finch has taken the bench seat. If **Skeemo at Kolat Towers** is marked, his files are in enemy hands as well. Nobody in this Event can name Manshoon unless **Manshoon Named** has been marked. Tashlyn says "Skeemo's masters" or "the other cell".
+> Every benefit here is real, and every one is the Network's own to give. The forger, the locksmith, the alchemist and the costumer are independent tradespeople who owe the Doom Raiders favors. Before **Silencing Skeemo** has played, the alchemist's seat on the bench is Skeemo Weirdbottle's, and he does the work as the Network's own tradesman. If **Silencing Skeemo** has played, the Network has no alchemist of its own, because Skeemo's shop is closed and Loria Finch has taken the bench seat. If **Skeemo at Kolat Towers** is marked, his files are in enemy hands as well. Nobody in this Event can name Manshoon unless **Manshoon Named** has been marked. Tashlyn says "Skeemo's masters" or "the other cell".
 
 ### Naming the Rank
 
@@ -29,7 +29,7 @@ If Tashlyn is receiving the member, read or paraphrase the following:
 >
 > The Dusty Ladle is a low, smoky taproom with sawdust on the floor and a fire of sea-coal in the hearth, and most of the patrons hunch over their bowls without looking up. Tashlyn sits in the back corner with her back to the wall and a full cup in front of her, and she nods at the empty chairs as you cross the room.
 >
-> > Viper. You've earned the name, and I'll tell you what it opens, so sit. Davil is still in a cell, so the arrangements run through me, and I don't intend to explain them twice.
+> > "Viper. You've earned the name, and I'll tell you what it opens, so sit. Davil is still in a cell, so the arrangements run through me, and I don't intend to explain them twice."
 
 If Davil is receiving the member, read or paraphrase the following:
 
@@ -37,7 +37,7 @@ If Davil is receiving the member, read or paraphrase the following:
 >
 > Davil is already in his chair when you come through the green curtain, and the decanter is on the table beside five glasses. Tashlyn stands against the wall by the door with her arms folded, and a long shadow across the floor marks where Yagra has taken the landing outside.
 >
-> > Sit, please, my friends. You've been a great credit to us, and it gives me real pleasure to call you Viper. Tashlyn will tell you the particulars, since she keeps the ledgers and I only keep the book, yes?
+> > "Sit, please, my friends. You've been a great credit to us, and it gives me real pleasure to call you Viper. Tashlyn will tell you the particulars, since she keeps the ledgers and I only keep the book, yes?"
 
 If Davil is receiving the member in the back booth, use the same scene with these changes: the green curtain becomes the kitchen door, the decanter becomes a plain jug, and the room smells of onions and lamp oil. Davil sits without his lute or bracelet and rubs his bare wrist where he would turn a trophy, and Yagra stands at the kitchen door in place of the landing.
 
@@ -55,17 +55,17 @@ If Davil is receiving the member in the back booth, use the same scene with thes
 
 > [!qna]**What does Viper get me?**
 >
-> > Once each quest you can have one forged document made, and once each quest you can have Yagra beside you for a single operation. You also have a specialist on the bench for one job a quest, and after that job the price is fifty gold a day.
+> > "Once each quest you can have one forged document made, and once each quest you can have Yagra beside you for a single operation. You also have a specialist on the bench for one job a quest, and after that job the price is fifty gold a day."
 
 > [!qna]**Who stands behind the papers?**
 >
 > Tashlyn turns her untouched cup a quarter turn on the table.
 >
-> > A scrivener in the Trades Ward called Halric Sennet, who has never been caught and doesn't intend to be. You'll meet him when you order, and you won't need to ask me how he does it. The bench is four people I trust, and I'll name them before you leave.
+> > "A scrivener in the Trades Ward called Halric Sennet, who has never been caught and doesn't intend to be. You'll meet him when you order, and you won't need to ask me how he does it. The bench is four people I trust, and I'll name them before you leave."
 
 > [!qna]**What happened with Skeemo?**
 >
-> > He sold us to the other cell for years, and I should have seen it sooner than Davil did, which I'll remember. His shop is shut, so there's a halfling on the bench now, and I'll test her before I trust her with anything that matters.
+> > "He sold us to the other cell for two months, and I should have seen it sooner than Davil did, which I'll remember. His shop is shut, so there's a halfling on the bench now, and I'll test her before I trust her with anything that matters."
 
 If Davil is receiving the member, Tashlyn gives the same answers while he listens, and Davil adds this once she finishes:
 
@@ -73,7 +73,7 @@ If Davil is receiving the member, Tashlyn gives the same answers while he listen
 >
 > Davil turns a small trophy on his bracelet.
 >
-> > Only what I've always asked for, my friends, which is that you come back in one piece and tell me what you found out. The rest is Tashlyn's department, and she will tell you I'm too generous with it.
+> > "Only what I've always asked for, my friends, which is that you come back in one piece and tell me what you found out. The rest is Tashlyn's department, and she will tell you I'm too generous with it."
 
 ### The Papers
 
@@ -102,13 +102,13 @@ The Network arranges one forged document per quest for each Viper member, counte
 
 > [!qna]**What do you need from me?**
 >
-> > A name, a trade, a hometown and a reason for being wherever you're going, and I'd like them by tomorrow evening. I'll have the papers at your lodging by noon on the third day, and I'll ask you to bring them back when you're done.
+> > "A name, a trade, a hometown and a reason for being wherever you're going, and I'd like them by tomorrow evening. I'll have the papers at your lodging by noon on the third day, and I'll ask you to bring them back when you're done."
 
 > [!qna]**Will they hold up?**
 >
 > Halric lifts a blank sheet to the light and studies the grain.
 >
-> > Against a constable at a gate, or a clerk at a counter, they will hold beautifully. If someone writes to the guild to ask after you, I can't help you, because there is no guildsman to be found. Please don't forget that.
+> > "Against a constable at a gate, or a clerk at a counter, they will hold beautifully. If someone writes to the guild to ask after you, I can't help you, because there is no guildsman to be found. Please don't forget that."
 
 ### The Muscle
 
@@ -155,11 +155,11 @@ Yagra Stonefist is the Network's muscle for each Viper member, for one operation
 >
 > Yagra cracks her knuckles, one hand and then the other.
 >
-> > I hit whatever you point at, and I stay until you say we're done. I'm not your fucking bodyguard, though, so if you do something stupid I'll tell you it's stupid, and then I'll do it with you anyway.
+> > "I hit whatever you point at, and I stay until you say we're done. I'm not your fucking bodyguard, though, so if you do something stupid I'll tell you it's stupid, and then I'll do it with you anyway."
 
 > [!qna]**Will you stay after the operation?**
 >
-> > No, I've got a bar to sit at. You want me again, ask Tashlyn or ask me next quest. Shit, don't be a stranger, I like the work.
+> > "No, I've got a bar to sit at. You want me again, ask Tashlyn or ask me next quest. Shit, don't be a stranger, I like the work."
 
 > [!social]**The Understudy**
 >
@@ -171,7 +171,7 @@ Yagra Stonefist is the Network's muscle for each Viper member, for one operation
 
 > [!qna]**Why did she send you?**
 >
-> > Because Yagra's busy and I'm the man Tashlyn trusts to stand where he's put. Tell me where that is.
+> > "Because Yagra's busy and I'm the man Tashlyn trusts to stand where he's put. Tell me where that is."
 
 ### The Bench
 
@@ -183,16 +183,16 @@ The Network keeps four specialists, and each Viper member may call one for a sin
 >
 > - **Halric Sennet, forgery:** copies a handwriting or seal from a sample within an hour and forges or alters one written document on the spot.
 > - **Brenna Dolgar (Neutral, Shield Dwarf, she/her), lockpicking:** opens any non-magical lock of DC 20 or lower in one minute.
-> - **Loria Finch (Neutral, Lightfoot Halfling, she/her), alchemy:** identifies any non-magical potion, poison or reagent on sight and prepares one dose of antitoxin, Basic Poison or acid overnight.
+> - **Alchemy:** identifies any non-magical potion, poison or reagent on sight and prepares one dose of antitoxin, Basic Poison or acid overnight. Before **Silencing Skeemo** has played, the alchemist is Skeemo Weirdbottle. Once it has played, the alchemist is **Loria Finch** (Neutral, Lightfoot Halfling, she/her), who takes the seat only after that mission.
 > - **Odalys Quenn (Neutral, Waterdhavian Human, she/her), disguise:** disguises up to four people in an hour, and an observer needs a DC 15 Intelligence (Investigation) check to see through it.
 
 > [!qna]**Who are they?**
 >
-> > Four people I've used for years, all on the surface and all for hire at fifty gold a day after the first job. I don't name them in writing, and they don't name me. Ask them what they can do, and they'll tell you truthfully.
+> > "Four people I've used for years, all on the surface and all for hire at fifty gold a day after the first job. I don't name them in writing, and they don't name me. Ask them what they can do, and they'll tell you truthfully."
 
 > [!qna]**What if I want the forger as my specialist?**
 >
-> > Then he counts as your bench job and not as your paper, and you get both. The paper is one thing and a man in the room is another, so don't confuse them, and don't waste my forger on a door you could have opened.
+> > "Then he counts as your bench job and not as your paper, and you get both. The paper is one thing and a man in the room is another, so don't confuse them, and don't waste my forger on a door you could have opened."
 
 ### Renown Opportunities
 
@@ -208,7 +208,7 @@ The Event concludes when the member has decided about this quest's document and 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Viper Reached** — mark with the recipient's name when Tashlyn or Davil names the rank; it records the rank, and no later event reads it by name. Track separately for each member the quest each benefit was last used in.
+> - **Viper Reached** — mark with the recipient's name when Tashlyn or Davil names the rank; read by **Ardragon**, which checks it before naming the next rank. Track separately for each member the quest each benefit was last used in.
 
 > [!gamemaster]**Next Steps**
 >

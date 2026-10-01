@@ -197,7 +197,7 @@ If Skeemo is held alive, Tashlyn questions him for three days. What he gives her
 
 ### Concluding the Event
 
-The report to Tashlyn ends the mission. Davil is released on the first hearing day after the debrief, as **Davil's Arrest** sets out.
+The report to Tashlyn ends the mission. Davil is released on the fifth day after the members' debrief, as **Davil's Arrest** sets out. A captured Skeemo's three days in the tack room fall inside that window.
 
 > [!gamemaster]**Event Outcomes**
 >
@@ -209,7 +209,7 @@ The report to Tashlyn ends the mission. Davil is released on the first hearing d
 
 > [!gamemaster]**Next Steps**
 >
-> **Davil's Return** fires when the Lords' clerks release Davil on the first hearing day after the debrief, and it reads the outcomes above. **The Yellowspire Job** becomes available to an individual Doom Raiders member who reaches Renown 10 and 6th level. **Silencing Skeemo** awards no Milestone Points.
+> **Davil's Return** fires when the Lords' clerks release Davil on the fifth day after the members' debrief, and it reads the outcomes above. **The Yellowspire Job** becomes available to an individual Doom Raiders member who reaches Renown 10 and 6th level. **Silencing Skeemo** awards no Milestone Points.
 
 ## Overview
 

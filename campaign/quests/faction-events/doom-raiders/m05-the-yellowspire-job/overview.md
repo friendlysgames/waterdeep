@@ -85,4 +85,4 @@ In The Yellowspire Job, Amath fights with the 2024 Priest statistics, and her fo
 
 ## Overview
 
-The party either robs a Banite relay tower for a ledger of pass-amulet carriers or, if it already raided the tower, reports what it found to the Doom Raiders' inner circle. Either way, Ziraj hands over his notes on the gaps in the Kolat Towers force field.
+The party either robs a Banite relay tower for a ledger of pass-amulet carriers or, if it already raided the tower, reports what it found to the Doom Raiders' inner circle. Either way, Ziraj hands over his notes on the gaps in the force field around the towers in the Trades Ward.

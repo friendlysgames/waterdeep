@@ -130,7 +130,7 @@ Istrid pays for the information and Yagra makes an offer.
 >
 > Yagra cracks her knuckles one hand at a time.
 >
-> > "Fuck yes, I want to go back there. You said five of them and one fucking priest, so I'll kick the door in and we'll have the cellar cleared by supper."
+> > "Fuck yes, I want to go back there. You said four acolytes and one fucking priest, so I'll kick the door in and we'll have the cellar cleared by supper."
 
 Davil declines her offer, and the table agrees that the tower is a door the Doom Raiders would rather keep than burn.
 
@@ -140,7 +140,7 @@ Davil declines her offer, and the table agrees that the tower is a door the Doom
 >
 > > "Not yet, Yagra, please. That circle is the only door we have that doesn't need an amulet, and I'd like it to stay open until we need it. Let them go on thinking they're safe for another few weeks, yes?"
 
-If **Yellowspire Clean Exit** is marked, Tashlyn adds that the circle has not been sealed and the relay has not been rebuilt, which is exactly what the Doom Raiders need. If it is not marked, Tashlyn says the other cell rebuilt the tower after the raid, and the party should assume Kolat Towers knows the circle was used.
+If **Yellowspire Clean Exit** is marked, Tashlyn adds that the circle has not been sealed and the relay has not been rebuilt, which is exactly what the Doom Raiders need. If it is not marked, Tashlyn says the other cell rebuilt the tower after the raid, and the party should assume the towers in the Trades Ward know the circle was used.
 
 If **Skeemo Captured** is marked, Davil mentions that Skeemo gave up the tower's knock and the plate, and Tashlyn says the report matches what he told her.
 
@@ -222,8 +222,8 @@ The Event concludes when the members have reported to the inner circle and recei
 
 ## Overview
 
-The Doom Raiders ask what the party found when it went into Yellowspire during Faction Outposts, pay for the information and hand over Ziraj's notes on the Kolat Towers force field.
+The Doom Raiders ask what the party found when it went into Yellowspire during Faction Outposts, pay for the information and hand over Ziraj's notes on the force field around the towers in the Trades Ward.
 
 ## Summary
 
-We told Davil, Tashlyn, Istrid and Yagra what we found in Yellowspire, and they paid us for it. Ziraj gave us his notes on the gaps in the force field around Kolat Towers, and the circle in the cellar stays open for when we need it.
+We told Davil, Tashlyn, Istrid and Yagra what we found in Yellowspire, and they paid us for it. Ziraj gave us his notes on the gaps in the force field around the towers in the Trades Ward, and the circle in the cellar stays open for when we need it.

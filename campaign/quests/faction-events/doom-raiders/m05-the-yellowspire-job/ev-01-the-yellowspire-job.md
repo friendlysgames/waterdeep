@@ -20,11 +20,11 @@ At dusk on the day the member qualifies, a flying snake with silvery scales brin
 > Yellowspire is the tower from **Faction Outposts** (5B), and the Doom Raiders have been watching it for two months. If the party already went inside during that quest, **Yellowspire Raided** is marked, and everything this job would give them is already theirs, so skip this Event and run **The Debrief**. Otherwise run the job below. The following states change it.
 >
 > - **Skeemo escaped.** If **Skeemo at Kolat Towers** is marked, Skeemo reached Kolat Towers through this very circle and told the Splinter what he knew about the Doom Raiders. Amath has been warned. The knock and the week's word have changed, every DC in **Getting In** is 2 higher, the acolytes sleep in their robes, and the referral cover in **Approach Three** is a trap.
-> - **Skeemo Captured.** If **Skeemo Captured** is marked, Skeemo gave Tashlyn the current coded knock and a warning about the northeast plate during questioning. The leads survive whatever **Davil's Return** decided for him (**Skeemo Exiled**, **Skeemo Handed to the Watch** or **Skeemo Executed**). The knock beat in **Approach One** succeeds automatically, even if **Skeemo at Kolat Towers** changed the knock, and the northeast plate is known without a check. Tashlyn passes the leads on in the brief.
+> - **Skeemo Captured.** If **Skeemo Captured** is marked, Skeemo gave Tashlyn the current coded knock and a warning about the northeast plate during questioning. The leads survive whatever **Davil's Return** decided for him (**Skeemo Exiled**, **Skeemo Handed to the Watch** or **Skeemo Executed**). The knock beat in **Approach One** succeeds automatically, and the northeast plate is known without a check. Tashlyn passes the leads on in the brief.
 > - **Skeemo Silenced.** If **Skeemo Silenced** is marked, he is dead and nothing changes.
 > - **Skeemo Letters Recovered.** If **Skeemo Letters Recovered** is marked, Tashlyn has already decoded three paper-bird letters that name Vevette Blackwater. Davil mentions this in the brief, and Tashlyn wants the letters in the desk to show what Vevette has ordered since. The recovered letters corroborate the paper-bird letters, and the **Vevette Letters Recovered** bonus is unchanged.
 > - **Watch File Opened.** If **Watch File Opened** or **Skeemo Handed to the Watch** is marked, the Watch is tracking Doom Raiders movements. Castle Ward patrols are heavier, and a Watch pair now walks the lane from midnight to dawn, so deep night is no longer quiet. The pair passes the tower's door every half hour, and a character on the outer wall or at the door must make a DC 13 Dexterity (Stealth) check in each such pass or be seen. A seen party must be gone or explain itself to the pair, who arrest no one without a complaint from Amath, and she will not complain because the Watch would find the handprints. The pair records the names of anyone it sees.
-> - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers the other cell's stronghold. The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name.
+> - **Manshoon Named.** Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers "the towers in the Trades Ward". The truth is that Manshoon lives there and directs Urstul Floxin from behind him. If **Manshoon Named** is marked, Davil and Tashlyn may use the name and may say Kolat Towers.
 > - **Floxin Status.** If the **Gralhund Villa** outcome **Floxin Status** is Dead or Captured, no Doom Raider says "Floxin's cell". They say "the other cell" instead, and Davil uses the Dead or Captured answer in **Who runs the other cell?**
 
 If the suite is unsealed, read or paraphrase the following:
@@ -262,7 +262,8 @@ The ledger is in the circle chamber, and the chamber is where the trap is. Reach
 >
 > The box is bolted to the wall and locked. A character who makes a successful DC 15 Dexterity (Thieves' Tools) check opens it cleanly. A character who forces the lid with a successful DC 18 Strength (Athletics) check opens it too, but the noise carries to the ground level. Inside are a thin leather-bound ledger and a tin of clay tokens.
 >
-> The ledger lists every carrier of a pass-amulet by name, the day each amulet was last refreshed and where each carrier hands it on. It names three carriers: Avareen Windrivver, who works from a house in Brindul Alley; Agorn Fuoco, who visits Yellowspire on some evenings; and the field crews that Vevette Blackwater sends out from Kolat Towers.>
+> The ledger lists every carrier of a pass-amulet by name, the day each amulet was last refreshed and where each carrier hands it on. It names three carriers: Avareen Windrivver, who works from a house in Brindul Alley; Agorn Fuoco, who visits Yellowspire on some evenings; and the field crews that Vevette Blackwater sends out from Kolat Towers.
+>
 > A character who reads the ledger for ten minutes and makes a successful DC 14 Intelligence (Investigation) check understands the refresh marks. That reveals which carrier holds the freshest amulet and the mark that Kolat Towers uses to recalibrate a stale one.
 
 ### The Desk Upstairs
@@ -394,7 +395,7 @@ Each bonus is earned once, when its condition is complete. Helping companions ga
 
 ### Aftermath
 
-Davil receives the ledger at the Yawning Portal that evening or the next, and he reads it for a long time before he speaks.
+Davil receives the ledger at the Yawning Portal that evening or the next, and he reads it for a long time before he speaks. Istrid Horn sits in on the report and pays each participating member 100 gp for it, plus 50 gp more if the ledger is on the table, in coin on the spot and with a Vergadain blessing.
 
 > [!readaloud]
 >
@@ -416,7 +417,7 @@ The Event concludes when the party has reported to Davil and Tashlyn and has rec
 > - **Vevette Letters Recovered** — mark when a member hands the coded letters to Tashlyn; read by **Kolat Towers** Scene 1, where Tashlyn names Vevette Blackwater's strike-team schedule.
 > - **Force Field Gap Intel** — mark when the notes are in the party's hands, whether or not the ledger was recovered; read by **Kolat Towers** Scene 1 and Scene 2 (the Rooftop Force-Field Gaps entry method).
 > - **Yellowspire Alarm Sounded** — mark when the circle pulse fired, Amath dropped a coin, Agorn escaped, or Amath or an acolyte survived and reported; read by **Kolat Towers** Scene 3 (Manshoon's escalation tier is at least Suspicious) and by the **Manshoon's Zhentarim** Factions Guide page.
-> - **Yellowspire Circle Destroyed** — mark when the party ruins the circle; read by **Kolat Towers** Scene 2, where the Yellowspire Teleportation Circle entry method is unavailable.
+> - **Yellowspire Circle Destroyed** — mark when the party ruins the circle; read by **Kolat Towers** Scene 2, where the Yellowspire Teleportation Circle entry method is unavailable, and by **Ziraj's Last Hunt**, where the Splinter kill team reaches the city on foot.
 
 > [!gamemaster]**Next Steps**
 >
@@ -424,8 +425,8 @@ The Event concludes when the party has reported to Davil and Tashlyn and has rec
 
 ## Overview
 
-Davil sends the party into Yellowspire, a Banite tower in the Castle Ward, to steal a ledger of pass-amulet carriers from the Splinter's relay. Afterward Ziraj hands over his notes on the Kolat Towers force field.
+Davil sends the party into Yellowspire, a Banite tower in the Castle Ward, to steal a ledger of pass-amulet carriers from the Splinter's relay. Afterward Ziraj hands over his notes on the force field around the towers in the Trades Ward.
 
 ## Summary
 
-We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Seccent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around Kolat Towers, and Davil now has a list of who carries an amulet.
+We went into Yellowspire for Davil and took the relay ledger from the circle chamber in the cellar. Amath Seccent's acolytes, the pressure plate and the teleportation circle all cost us something on the way out. Ziraj gave us his notes on the gaps in the force field around the towers in the Trades Ward, and Davil now has a list of who carries an amulet.

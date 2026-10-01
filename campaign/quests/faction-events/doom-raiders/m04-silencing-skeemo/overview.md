@@ -48,7 +48,7 @@ Companions who are not Doom Raiders gain no membership or Renown from this assig
 
 ## Aftermath
 
-Davil is released when the Lords' clerks hear him on the first hearing day after the debrief, and **Davil's Return** reads Skeemo's fate. **The Yellowspire Job** becomes available to an individual Doom Raiders member at Renown 10 and 6th level, and it reads whether Skeemo was captured, killed or lost. **Kolat Towers** reads **Skeemo at Kolat Towers** and **Skeemo Letters Recovered**, and **Vault of Dragons** reads whether Skeemo is alive.
+Davil is released when the Lords' clerks hear him on the fifth day after the members' debrief, and **Davil's Return** reads Skeemo's fate. **The Yellowspire Job** becomes available to an individual Doom Raiders member at Renown 10 and 6th level, and it reads whether Skeemo was captured, killed or lost. **Kolat Towers** reads **Skeemo at Kolat Towers** and **Skeemo Letters Recovered**, and **Vault of Dragons** reads whether Skeemo is alive.
 
 ## Involved Characters
 
