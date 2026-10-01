@@ -348,3 +348,203 @@ These were resolved one way in the events; check them if the sources are revisit
 - **r25:** Drell Hask's and Nessa Thorne's crews; informants Wren Tolliver, Bastian Quill and Hesper Lund.
 - **r50:** Toben Ash; the Network Seal; the Council dues.
 - **Minor NPCs** without voice profiles are listed in each folder's design notes.
+
+---
+
+## Bregan D'aerthe event rewrite (Session 39)
+
+Session 39 restored the Bregan D'aerthe faction-event folder (`campaign/quests/faction-events/bregan-daerthe/`) to its first commits, rewrote it into finished adventure text, and added design notes to the folders that lacked them. A consistency pass then fixed 14 blocking findings inside the folder (rulings in `docs/plans/bregan-daerthe-research/08-qa-fix-rulings.md`). The user's decisions for that run:
+
+- **M2b is cut.** The Betrayal Pitch has no event in this folder.
+- **M6 is the limpet charge.** *The Dive* is a Guild limpet-charge job on the *Scarlet Marpenoth*, not an Eye #3 recovery. The Eye plot, Krenick Durr and the ketch wreck are gone.
+- **The Wazoo piece is a suspicion-only fishing expedition.** It names no infernalism as fact.
+- **Jarlaxle is gated on Jarlaxle Unmasked.** His name appears in speech or readaloud only when that outcome is marked.
+- **Soluun's fate lands in s05.** **Soluun Expelled** is marked per member.
+- **Contact Severed is per member.** The closure runs "for the rest of Acts I through III".
+- **Nevercott's descriptor.** GM-facing he is a drow in a hat of disguise. In-fiction he looks like a human haberdasher.
+- **Scope.** Only the folder was edited. Everything below was logged and **not fixed**.
+
+Sources for this section are the Session 39 research files in `docs/plans/bregan-daerthe-research/` (`05` §2.2, `06` out-of-scope log, `07` drafter reports), the Phase D list in `docs/plans/bregan-daerthe-conversion-brief.md`, and a spot check of the finished folder. Line numbers outside the folder are unchanged by the rewrite. Items taken from `05` §2.2 and not rechecked against the finished events are marked **(05)**.
+
+### 1. Outcomes that need a writer or reader outside the folder
+
+- **Jarlaxle Unmasked (no writer anywhere).**
+  - Fireball ev-04 :116–123 still uses True/False headings and sets only **Jarlaxle Informed**. It never marks Unmasked.
+  - Sea Maidens Faire (arc-h) is unconverted and names no such outcome.
+  - Readers inside the folder: the r25 Jarlaxle-open branch, and every BD line that says "Jarlaxle" aloud.
+  - Harper M4 writes **Jarlaxle Identity Exposed at Harper Salon** and **Jarlaxle Discretion Agreement**, and says "BD follow-up reads those commitments" (`harpers/m04.../ev-03:176–179`). No BD event reads either. Harper M4 (L5) also has Jarlaxle admit he "belongs to BD" (ev-03:32) before s02 teaches the BD name **(05)**.
+  - See Decisions 1 and 3 below.
+- **Nimblewright Noticed.**
+  - M1 and Trollskull ev-07:84 write it. Trollskull's version is True/False.
+  - No converted quest reads it. Grep finds nothing under `act-ii/fireball/`, though M1's old text claimed Fireball! reads it.
+  - Trollskull ev-07:57 puts Vessin "along the parade route". M1 keeps her at her crate at Net and Dock.
+  - r10 branches on Fireball's **Nimblewright Ledger Stolen**. Fireball ev-04 ~:85 and ~:110 still hand the ledger to BD members as old True/False text, with no outcome name **(05)**.
+- **Faction Outposts (arc-e) writers and readers.**
+  - **Windmill Raided**, **Windmill Map Taken**, **Windmill Clean Exit** and **Seven Masks Raided** have no writer. M5 (*The Theater's Back Room*) reads them. arc-e 7B's dressing-room raid sends escalation to Alert, while M5 drops it to Suspicious.
+  - **Manshoon Named** is already owed to arc-e from Session 38. BD GM text may name Manshoon (ruling), so BD needs no reader unless it starts gating speech on it.
+  - **Ott Kept / Ott Lost** (M3) have no reader. arc-e still has Ott as a gnome (~:209). Every other source has a dwarf.
+  - arc-e :93 and :327–331 read "BD renown 3+" in free text, not **BD Soldier Reached**.
+  - arc-e :485 and :337 treat "He's useful" as Jarlaxle's standing view of Soluun. s05 has expelled him.
+- **Sea Maidens Faire (arc-h) readers.**
+  - **Soluun Captured / Escaped / Killed** (DR M1), **Soluun Expelled** and **Soluun Sold the Mooring** (s05). Today arc-h only has an "if the party killed Soluun" clause.
+  - **BD Watchers Sold** has no reader.
+  - **BD Contact Severed** has no by-name reader. arc-h Paths 2 and 3 still gate on party-level BD membership.
+  - **Krebbyg's and Fel'rekt's fates.** No outcome records them. s05 and r50 treat the Faire as the place that sets them.
+  - **Zardoz Introduced.** s03 promises arc-h reads it. arc-h doesn't.
+  - **Eye 3 Recovered by BD** is dead, since M6 no longer writes it. arc-h :270–276 reads a five-state "BD operational?" instead.
+- **Cassalanter Villa (arc-g) readers.**
+  - **Florette Reported** and the Wazoo outcomes have no reader.
+  - Gralhund ev-06:66 and ev-07:76 have Fel'rekt offering "Yalah's Asmodean contact". That is a third owner of first Cassalanter cult evidence, beside Gralhund g16 and Faction Outposts (Decision 3 in "Decisions Needed Before Fixing").
+- **Order of the Gauntlet M2 (`m02-the-black-viper-investigation`).**
+  - BD M2 names **Black Viper Source Noted** as a reader and calls the mission "unconverted". It is converted, and it doesn't read the outcome.
+  - design-notes.md:7 calls BD M2 the "hidden-gold exposé". It is a devil-worship fishing piece.
+  - Gaxly is "unaligned" at ev-01:48. BD M2 has him Neutral.
+- **Vault of Dragons (arc-j) readers.**
+  - **Marpenoth Saved / Crippled / Lost** (the sub as 500,000 gp transport), **Guild Survivor Escaped**, **Brandath Lead from Brimel** (a second independent path under the Three Clue Rule) and r25's BD Commander proposal.
+  - arc-j :55 reads only "completed Mission 6" and "Dread Lord renown". :75 and :322 call the windmill a "Manshoon outpost".
+  - Level gate: BD M6 is L7 and fires after Kolat Towers.
+- **Xanathar's Lair (arc-f).**
+  - It reads none of **Nar'l Active / Extracted / Eliminated / Cleared**, **Nar'l Bypass Learned** or the smokepowder handoff. arc-f assumes Nar'l is alive in X35 (:99–111, :184).
+  - Force Grey M4 still has Nar'l alive in the lair (ev-01:103) and has Soluun as a prisoner in X24 "claiming BD affiliation" (ev-01:141, :145; ev-02:75; design-notes:15). That contradicts DR M1 and s05.
+  - M4 writes **Fence Settled / Gone / Untouched**. Only Settled has a reader.
+- **Doom Raiders M1 (`doom-raiders/m01-the-dockside-killer/ev-01:456–458`).** It tells Sea Maidens Faire that a Captured Soluun is "back aboard" and an Escaped Soluun "returns". s05 expels him, so both lines are wrong. DR M1 also calls his disc forged. s05 treats it as BD's own work **(Notable Figures: see section 4)**.
+
+### 2. Guide 08 and `player-factions-overview.md`
+
+`campaign/guides/factions/08-bregan-daerthe.md`:
+
+- **:9** — Jarlaxle competes "with Xanathar or Manshoon" (R1, pending the villain decision). Also says Jarlaxle holds Eye #3 aboard the *Marpenoth* from before the campaign. The events cut that plot.
+- **:11** — The Cassalanters hold a "deadline", which arc-g:47 repeats.
+- **:14** — Pouches arrive "at the party's door". The events give the first pouch to one named member.
+- **:16** — A Renown 5+ *Scarlet Marpenoth* extraction after M4. It was never implemented, and r03 excludes the *Eyecatcher*.
+- **:29** — M1 is delivered via theater tickets to Kreb Sorrush. Now Nevercott briefs at the manor on Ches 20.
+- **:33** — The Vault proposal at "Dread Lord renown". BD has no such rank. r25 delivers it at Commander.
+- **:36–37** — Joined and Severed are party-wide and permanent. The events make both per member, and Severed lasts through Act III.
+- **:56–60** — The three-favor list, Uncommon item, assessment and 20% fence discount aren't in Appendix B l.790–796 **(05)**.
+  - :57 says Jarlaxle shares the intelligence. In r03, Nevercott delivers it.
+  - :58 says Jarlaxle assigns the Spy. In r10, the contact does.
+  - :59 and the rank rows say "the party" where the events are individual.
+  - :60 gives the ship and network unconditionally. r50 now needs a favor and a price.
+- **:66–71** — Lists six missions including M2b, which is cut.
+  - :67 describes the Wazoo piece as "hidden gold and missing servants". The event is suspicion-only devil-worship.
+  - :69 says "Jarlaxle forbids killing him" and lists approaches. The event uses a tiered order.
+  - :70 says a "false name" for the windmill. arc-e:277 has tenants.
+  - :71 has the sub "moored under the *Eyecatcher*". M6 now matches the limpet charge, but the berth is the old Faire pier at Smugglers' Dock, not under the Eyecatcher.
+- **Rank benefits** (Initiate safe house aboard the *Heartbreaker*) have no event. Appendix B writes "Hellbreaker" **(05)**.
+
+`campaign/guides/gm-guide/player-factions-overview.md`:
+
+- **:169, :173, :176** — Joined, Severed and Acknowledged are party-wide. One Watch report closes BD "for the entire campaign". **BD Acknowledged** is never written by the BD first meeting.
+- **:182** — "Dread Lord renown".
+
+Appendix B (sources): l.715 says BD recruits "only drow", and l.761 has Nevercott name BD outright. The repo takes any PC and has him say it once, if pressed. Appendix B writes "ends contact for now", so Severed may be reversible. Nothing in the guide says so.
+
+### 3. Organization page and villain pages
+
+- **`organizations/07-bregan-daerthe.md`**:
+  - :8 M1 via theater tickets (now the manor on Ches 20).
+  - :11 and :13 use "the party". :11's "After Mission 4" retirement for Nevercott is right, but s03:16 retires him after M4 while r03 and r10 still use him.
+  - :38 a velvet pouch signed "J." The events use black linen, unsigned.
+- **`villains/jarlaxle.md`**:
+  - :3 membership as a party state.
+  - :6 and :8 (Notable Figures page): see section 4.
+  - **:13 and the Zord cover descriptor.** Three versions exist: "Illuskan" (s03:38, the org page), "Waterdavian carnival operator" (Fireball ev-04:30), "Calishite eccentric" (:13).
+  - :48 a Manshoon non-interference pact (R1, pending).
+  - **:51 Jarlaxle "knows about their infernal bargain through intelligence".** That breaks Cassalanter secrecy (R2, pending).
+- **`villains/manshoon.md:34–35`** — Mutual knowledge through the pact, and "infernal connections could have been leveraged".
+- **`villains/` and guides on Eye #3.** `running-the-villains.md:25` and arc-h :9, :11, :15 say Jarlaxle holds Eye #3 aboard the *Marpenoth*. The BD events no longer touch the Eye.
+- **`gm-guide/grand-game-in-play.md`** — :88 BD membership as a party state, :65 a Jarlaxle–Manshoon "peer arrangement".
+- **`gm-guide/design-notes-running-the-campaign.md`** — :122 says Vessin is "covered by Krebbyg's entry", but his page doesn't cover her. :126 calls Gaxly a "single-mission NPC", but he is also in OotG M2.
+- **`trollskull-manor/09-response-teams-at-the-tavern.md:96` and `08-notable-patrons.md:129–133`** — Jarlaxle appears in disguise at the tavern each time. s03 has Nevercott disappear.
+- **R2 and the Wazoo piece.** The older M2 text had Jarlaxle's exposé "match the Cassalanter villa's lower temple" **(05)**. The rewrite keeps it to suspicion. The org page, guide 08 and arc-g's Jarlaxle lines (:47, the ninety-nine cups) still assume more.
+
+### 4. Notable Figures pages
+
+- **Stat names.**
+  - **Soluun** (`02-soluun-xibrindas.md`) lists the Drow Gunslinger. Ruling: Soluun is the 2024 **Scout** everywhere, as in DR M1 and s05. **Krebbyg and Fel'rekt** keep the WDH **Drow Gunslinger**, since 2024 has no equivalent.
+  - **Ott** (`06`:6) lists "Cult Fanatic". The 2024 name is Cultist Fanatic.
+  - **Jarlaxle** (`01-jarlaxle-baenre.md:6`) lists "Swashbuckler".
+- **Featured-in lists that still name The Betrayal Pitch.** Jarlaxle (:8), **Krebbyg** (`04`:8) and **Nar'l** (`03-narl-xibrindas.md:8`). Nar'l also lists *The Wazoo Affair* as Featured-in.
+- **Nar'l's tenure.** His page (:8, :22) says "three years". The events use "a year" (WDH), and arc-f :17, :216 and arc-h :15 say eleven years. His page also needs the Wazoo entry checked.
+- **Ryvarra** (`09-ryvarra.md:14, :22`) — "weekly" reports. The First Meeting says every tenday. Her NF page says three months, while Finding Floon ev-01:29 says "two weeks" and "a drow woman".
+- **Soluun's cover story** (`02-soluun-xibrindas.md:22, :26`) — disownment as a cover story with a forged BD ID. s05 makes it real and treats the disc as BD's own work. DR M1 still calls it forged.
+- **Lif** — the NF page has a half-elf. His voice profile has him guarding the cellar hatch, while trollskull-manor tm03 has no manifest in the cellar.
+- **Ammalia** — Featured-in lacks Florette. **Victoro** `:9` lists "The Shrine on Aveen Street", unverified.
+- **Krebbyg's age and tenure (05).** NF:22 says young and rash. The older drafts had "twenty years", "sixteen months removed from the Underdark" and "worked with Vessin for three years". Not rechecked against the finished events.
+- **No pages exist** for Vessin, Ilphrin Quiss, Pelsha, Vorn, Sarev Oust, Brimel Crestfall, Florette Cressyn, Krenick Durr, Mirilin Ashford or Marek Dunmere. See section 8.
+
+### 5. Act I–II quest journals
+
+- **`act-i/finding-floon/ev-01`:29** — Ryvarra "two weeks" and "a drow woman", against three months on her page.
+- **`act-i/trollskull-alley/ev-03`:45, :47, :57** — a visibility gate and an alley placement for Ryvarra, and a retired flag. It writes **Ryvarra Identified**, which the First Meeting also treats as a second chance.
+- **`act-i/trollskull-alley/ev-04`:**
+  - :45 and :115–122 emit **Joined**, **Acknowledged** and **Severed** party-wide and permanent (Severed "permanently"). The First Meeting and s04 make them per character. Nevercott still calls on Ches 13.
+  - :115 is a second writer of Joined. :118 writes **BD Acknowledged**, which BD never reads.
+  - :60 renovation financing and Quilm are unused.
+- **`act-i/trollskull-alley/ev-07`:** :24 parade route against the Twin Parades addendum, :26 the Faire arriving Ches 21, :55–57 Vessin placement and a free-text "BD operative", :84 **Nimblewright Noticed** in True/False.
+- **`act-i/trollskull-alley` ev-01 and ev-06** — a retired **Lif Appeased** flag.
+- **`act-ii/fireball/ev-01`:108** — cites Trollskull ev-05/06 for the parade sighting. It is ev-07.
+- **`act-ii/fireball/ev-04`:**
+  - :28 Zord's office, and a Waterdavian descriptor at :30. s03:9 says Zardoz "meets the party in person for the first time", and Trollskull ev-05 already has Zord sponsoring.
+  - :85 and :110 the ledger given to BD members with no outcome name.
+  - :106 a party-level "BD operative" check, :112 Renown in True/False, :116–123 **Jarlaxle Informed**, with no **Jarlaxle Unmasked**.
+- **`act-ii/gralhund-villa/ev-01`:** :11, :65 and :97 party-level BD checks, and **Jarlaxle Brief Received** in True/False. **ev-02:94** is **BD Team Spotted**. Nothing in BD reads either.
+- **`act-ii/gralhund-villa/ev-09`:125** — Renown in True/False.
+
+### 6. Structure docs and SOURCE_GUIDE
+
+- **arc-e:** the Ott gnome entry (~:209); the windmill's ward and "Manshoon outpost" label (arc-e 6B is a Cassalanter outpost); :277 tenants against guide 08's "false name"; 7B's Alert against M5's Suspicious; :93 and :327–331 free-text BD renown; :337 and :485 "He's useful". The writers in section 1 are owed.
+- **arc-f:** Nar'l's eleven-year tenure (:17, :216); X35 assumes Nar'l alive (:99–111, :184); :43 and :105 free-text BD operative; no Nar'l branches, **Nar'l Bypass Learned** or smokepowder handoff; the App C route under the Dock Ward against WDH's Castle Ward stair; the 2024 Mage has no Sending (swapped in by M4).
+- **arc-h:**
+  - **The Betrayal Pitch.** :105–109 and :378 are now the sole owner, since M2b was cut. The Pitch has a 500 gp artifact job in Zord's quarters and a Nevercott reveal, and it assumes Zord in the quarters.
+  - **Pier.** :9 and :71 put the ships at a Mistshore pier. A drow mage is at the Eyecatcher's helm.
+  - **Ranks.** :45 and :103 use "Operative rank (Renown 10+)" and "Initiate or Soldier (Renown 1–9)". The ranks are Initiate 1–2, Soldier 3–9, Officer 10–24.
+  - **Nevercott.** :79 and :107 use him at the Shipwright's Ball and for the Pitch. s03:16 retires him after M4.
+  - **Eye 3.** :9, :11, :15 and :270–276 (see sections 1 and 3).
+  - :162 a BD identification token.
+  - :9 Jarlaxle arrives in the last tenday of Ches, which predates s02's and Krebbyg's "months".
+  - Party-level BD gating, and no reader for **BD Contact Severed**.
+  - The "Operative" rank label and the Eye 3 handling both need rewriting when arc-h is converted.
+- **arc-j:** :55 reads "completed Mission 6" and "Dread Lord renown"; :75 and :322 "Manshoon outpost"; nothing wired to the **Marpenoth** outcomes or **Guild Survivor Escaped**.
+- **SOURCE_GUIDE.md** (~:219) puts the windmill in the North Ward. Appendix C l.1507 says Southern Ward, and the BD M5 events use the North Ward. It also claims Sargauth as a BD seat, which WDMM doesn't support.
+
+### 7. Location pages
+
+- **J10 labelling.**
+  - `locations/sea-maidens-faire/02` calls J10 the *Heartbreaker*'s captain's cabin.
+  - arc-h :85 and :152 call it the Eyecatcher office with a drow mage.
+  - WDH's J10 is the Eyecatcher dining cabin.
+- **Smugglers' Dock against Mistshore.** The Faire area overview puts the *Heartbreaker* and *Hellraiser* at a private pier at Smugglers' Dock. arc-h :9 and :71 say Mistshore. M4 now says the Dock Ward pier, and M6 uses the old Faire pier at Smugglers' Dock. The M6 reserve berth is invented.
+- **The *Marpenoth* crew roster.**
+  - The area-overview roster has "three drow gunslingers (U3, U4, U5)", but U4 is Jarlaxle's stateroom.
+  - Marpenoth access is only via J30 or underwater. s05 adds a blindfolded passage.
+  - The costume room and rehearsal booth (r03) aren't in the Faire location files.
+- **Trollskull Manor area overview** (~:41) has Lif as a dwarf. His NF page says half-elf.
+
+### 8. Invented names to accept or replace
+
+None of these has a Notable Figures page or an Ember source. Each is voiced from its event text.
+
+- **Vessin** (about eleven; the older M1 had a tiefling of sixteen, Appendix C has "Mira, about 11"). She appears in about eleven places. `design-notes-running-the-campaign.md:122` says Krebbyg's page covers her. It doesn't. Replace or write a page.
+- **Nevercott's voice** has no profile. He is voiced from his persona in the First Meeting. A profile belongs in `character-voices`, written by the main session if the user asks.
+- **Marek Dunmere**, in the First Meeting and s04 (constable walking the alley two nights).
+- **s01:** Dunstan Rook, Orla Pennick, Hanna Voss, and the playbill *The Duke's Last Supper*. Squiddly is used from Trollskull Alley without a voice line.
+- **s02:** Constable Harl Pimm (also in M5, with Malcolm Brizzenbright as written on his page), the grey coat on peg seven, the torn-ticket signal, the playbill's circled price.
+- **s04:** the flower pot, Fel'rekt's note with the returned card, the ten-day window and Ches 20 cutoff, the 50 gp price, and the rule that a severed character may stand beside a member in public scenes.
+- **r03:** Odalys Vane, Ostrin Brindle, Brindle and Daughter on Dock Street, the cover names Pell Harrowgate, Tamsin Orr and Corwin Alder, and the 300 gp, three-visit and twenty-day numbers.
+- **r10 spy roster:** Ilphrin Quiss, Nyrae Zauvir, Dhaer Oussen, Velkyn Hune and Ghaena Tormyl. Ilphrin has no page and no mechanics line (**05**).
+- **r25 and r50 crews:** Ilmra Kelnozz and Brythe Mizzrym (r25 Crew Two, absent from r50), plus Pelsha, Vorn and Sarev Oust (**05**; Sarev Oust was to be dropped or justified in r50).
+- **M4:** Tarn Hobble and Dorrim Ketch, and Arannis Nur'zekk as spokesman for the four drow (WDH names them but not who speaks). The grell, the Guild's response and Ahmaergo's clerks have no profiles.
+- **M5:** Brimel Crestfall and Florette Cressyn (draft names, no pages), Marra Selby (the lease name, which Brimel says does not exist), Captain Ilsa Dalloway, the household wine merchant (on BD's books "a year"; design-notes:5 may still say "two years"), the Net Street sailmaker's doorway, the printed berth pass and the seat phrase.
+- **M6:** Orlo Stannick, Nell Corvane and Hesk Rooke. The ruling renames Tamsin Rooke to Hesk Rooke because Tamsin Orr (r03) shares the first name. The rename is applied across M6. The limpet charge figures, the Dawn Clock, the 150 gp bribe, the 250/100/0 gp purses and the 05:30 first light are invented.
+- **r50:** the Rizzeryl letter. Rizzeryl is a WDMM drow mage of House Auvryndar in the Base de Résistance, but the favor is invented: a safe road for an Auvryndar courier in exchange for the Xanathar Guild's mooring list. The Skullport water route is invented too. SOURCE_GUIDE's Sargauth claim is unsupported.
+- **Dropped with the Eye plot:** Krenick Durr (M6). **Unchecked:** Mirilin Ashford and Lady Ashford's reception (M1) appear only in the older reports (**05**). Check whether the finished M1 still uses them before replacing.
+- **Other details to accept or replace:** the spider-and-blade coin (r50) and the spider chalk mark (M4), which the user was asked to settle as a rejected symbol.
+
+### Decisions for the user
+
+1. **Does Jarlaxle know the Cassalanter pact?** `villains/jarlaxle.md:51`, `manshoon.md:35`, arc-g:47 and guide 08:11 and :67 say yes. Cassalanter secrecy says nobody knows. The M2 piece is already suspicion-only. This is Decision 1 in the section above, applied to BD.
+2. **Where does the Zord cover come from?** Illuskan, a Waterdavian carnival operator, or a Calishite eccentric. Fireball ev-04, s03, the org page and `jarlaxle.md` each pick one.
+3. **Does Fireball ev-04 set Jarlaxle Unmasked?** If yes, ev-04's ledger becomes the writer and the Faire isn't the only one. If no, arc-h must write it, and the Harper M4 exposure stays unrelated.
+4. **Does guide 08 adopt per-member wording?** The events are individual. The guide rows, `player-factions-overview.md` and `trollskull-manor/09` say "the party".
+5. **Where does Renown 25 and 50 come from, for every faction?** BD base awards total 19, and bonus lines supply roughly 37 at most, per the ruling "bonus lines and Earning Renown supply the rest". The Doom Raiders run reached the same gap. 50 may belong to the Mad Mage.
