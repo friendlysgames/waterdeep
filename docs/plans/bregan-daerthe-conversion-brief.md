@@ -37,6 +37,7 @@ Five Sonnet 5.5 `source-researcher` agents reported on the following, and their 
    - Jarlaxle wrote it to see who flinches; he suspects, he doesn't know.
    - It carries no temple or ritual-space detail.
    - The Cassalanters' reaction is the tell.
+   - **Superseded later in Session 39 (user):** "Jarlaxle knows about the Cassalanters, he has a spy there. He won't tell the members unless they figure it out themselves." The spy is Vessa. The exposé becomes a deliberate pressure play, and a member who works it out sets **Cassalanter Pact Shared with BD**.
 4. **M2b is cut.** Delete `m02b-the-betrayal-pitch/`. The Betrayal Pitch stays with Sea Maidens Faire (arc-h).
    - Strip every M2b reference from s02, s04 and M2's "boat" hook.
    - CLAUDE.md's count changes from "43 missions, 44 folders including BD-M2b optional" to "42 missions, 42 folders".

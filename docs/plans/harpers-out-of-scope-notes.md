@@ -543,7 +543,7 @@ None of these has a Notable Figures page or an Ember source. Each is voiced from
 
 ### Decisions for the user
 
-1. **Does Jarlaxle know the Cassalanter pact?** `villains/jarlaxle.md:51`, `manshoon.md:35`, arc-g:47 and guide 08:11 and :67 say yes. Cassalanter secrecy says nobody knows. The M2 piece is already suspicion-only. This is Decision 1 in the section above, applied to BD.
+1. **Does Jarlaxle know the Cassalanter pact?** **Answered (Session 39):** yes, through Vessa, his doppelganger spy, and he doesn't tell members unless they work it out ("Jarlaxle knows about the Cassalanters, he has a spy there. He won't tell the members unless they figure it out themselves"). `villains/jarlaxle.md:51` now matches. Still out of line: `manshoon.md:35`, arc-g:47 and guide 08:11 and :67 where they give the knowledge to anyone else.
 2. **Where does the Zord cover come from?** Illuskan, a Waterdavian carnival operator, or a Calishite eccentric. Fireball ev-04, s03, the org page and `jarlaxle.md` each pick one.
 3. **Does Fireball ev-04 set Jarlaxle Unmasked?** If yes, ev-04's ledger becomes the writer and the Faire isn't the only one. If no, arc-h must write it, and the Harper M4 exposure stays unrelated.
 4. **Does guide 08 adopt per-member wording?** The events are individual. The guide rows, `player-factions-overview.md` and `trollskull-manor/09` say "the party".

@@ -228,7 +228,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 - **Sentence shape:** Light, gossipy society talk. When she signals a Bregan D'aerthe ally, one short, precise sentence, then back to gossip.
 - **Word choice:** Fashionable Waterdeep gossip: names, houses, who's seen with whom. She calls everyone "darling". Her own name is used a little too carefully.
 - **Swearing:** *Stingy · Plain · Clipped.* Never in performance. In the rare flat moment, a detached "shit" about something inconvenient.
-- **Personality in speech:** Patient detachment and satisfaction in her cover. Her curiosity about the party's infiltration shows in precise questions. Her voice around the Cassalanters is pure society suspicion: she thinks they're "too perfect", and knows nothing more.
+- **Personality in speech:** Patient detachment and satisfaction in her cover. Her curiosity about the party's infiltration shows in precise questions. Around the Cassalanters she talks pure society suspicion and calls them "too perfect". In truth she has read their thoughts and knows about the pact, which she reports only to the captain and never says aloud to anyone else.
 - **Quirks:** She pauses a beat before answering to her own name. She knows every guest's name and never needs reminding.
 - **Signature phrases:** "Darling." / "Too perfect, aren't they?" / "I'm not going near the chapel."
 - **Never:** She never enters the temple, never breaks cover publicly, and never shows her true face to anyone outside Bregan D'aerthe.
