@@ -183,7 +183,7 @@ If the member shows Arannis the letter or the black card with the silver ship, h
 >
 > > That's his hand, and that's the later order. Stand down, all of you. I'll tell him you walked up that stair with the man still breathing and that you didn't blink while we aimed at you, and he can make of it what he likes.
 
-Fel'rekt waits in the street above with a covered cart, and he helps Nar'l under a tarpaulin and shakes everyone's hand in turn. He drives the cart to the Mistshore pier and puts Nar'l aboard the *Heartbreaker*, and Nar'l says only that he is grateful.
+Fel'rekt waits in the street above with a covered cart, and he helps Nar'l under a tarpaulin and shakes everyone's hand in turn. He drives the cart to the Faire's pier in the Dock Ward and puts Nar'l aboard the *Heartbreaker*, and Nar'l says only that he is grateful.
 
 ### Silence Him
 
@@ -403,7 +403,8 @@ The Event ends when each member has reported to Krebbyg and the courier has deli
 >
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Nar'l Cleared** — mark when the discredit route closed the file. The reports held and Tarn Hobble was outbid, and Nar'l remains in place. Read by **Dinner with Zardoz**, where Zardoz adds his remark over the duck, and by **Xanathar's Lair** (unconverted), where Nar'l is an inside ally whose suspicion has ended. Readers that ask only whether Nar'l is still in place treat **Nar'l Cleared** as **Nar'l Active**.
+> - **Fence Settled**, **Fence Gone** and **Fence Untouched** — mark the one that matches what the party did with Tarn Hobble. Read only by **What the File Does**, in this Event, which turns them into **Nar'l Cleared** or **Nar'l Active** three days later. No later event reads them.
+> - **Nar'l Cleared** — mark when the discredit route closed the file. The reports held and Tarn Hobble was outbid, and Nar'l remains in place. Read by **Dinner with Zardoz**, where Zardoz adds his remark over the duck, by **The Dive**, where a grieving Nar'l can leak the berth if **Soluun Killed** is marked, and by **Xanathar's Lair** (unconverted), where Nar'l is an inside ally whose suspicion has ended. Readers that ask only whether Nar'l is still in place treat **Nar'l Cleared** as **Nar'l Active**.
 > - **Nar'l Active** — mark when Nar'l remains in place with the case still open, whether because a half of the discredit route failed or because the party left him alone. Read by **Dinner with Zardoz**, **The Dive** (where a grieving Nar'l can leak the position of the *Scarlet Marpenoth* if **Soluun Killed** is marked) and the **Soldier** rank event (where Nar'l's intelligence channel is open but thin), and by **Xanathar's Lair** (unconverted), where the grell's order stays live.
 > - **Nar'l Extracted** — mark when Nar'l is aboard the *Heartbreaker* alive. Read by **Dinner with Zardoz**, **The Dive** and the **Soldier** rank event (where the channel is closed and Nar'l can be questioned in person), and by **Xanathar's Lair** (unconverted), where X35 is empty and the Guild is hunting him.
 > - **Nar'l Eliminated** — mark when Nar'l is dead, by the party's hand or by the grell's. Read by **Dinner with Zardoz**, the **Soldier** rank event (where the channel is closed for good) and **Xanathar's Lair** (unconverted), where X35 is empty and the desk holds only what the party left.

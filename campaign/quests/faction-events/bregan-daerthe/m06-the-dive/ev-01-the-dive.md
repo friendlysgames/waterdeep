@@ -38,13 +38,13 @@
 
 ### The Knock
 
-At 03:45 Fel'rekt Lafeen knocks on the door of Trollskull Manor. He breaks the company's usual routine of playbills and circled prices because there is no time for it, and he asks only for the member and anyone the member will vouch for.
+At 03:45 Fel'rekt Lafeen knocks on the door of Trollskull Manor. He breaks the company's usual routine of playbills and circled prices because there is no time for it, and he asks only for the member. A companion the member will vouch for can come along and waits at the stage door during the brief.
 
 > [!readaloud]
 >
 > Someone knocks on the door of Trollskull Manor hard enough to rattle the latch, and when you open it Fel'rekt Lafeen is standing on the step in a dark cloak with his hand crossbow tucked into his belt. He is out of breath, his white hair has come loose from its tie, and he glances up and down the alley before he looks at you.
 >
-> > Hi, sorry, I know what time it is. We've got a Guild dive team under the old Faire pier, and they've put something on the captain's boat. Get your boots on and come with me, please, because we have about an hour, and Kreb is already there and panicking.
+> > Hi, sorry, I know what time it is. We've got a Guild dive team under the old Faire pier, and they've put something on the captain's boat. Get your boots on and come with me, please, because we have about an hour, and Kreb is waiting at the theater and panicking.
 
 If a member is not in the room, Fel'rekt goes to that member next and the party follows when it can. A member without **Kreb Unmasked** hears the same speech from Fel'rekt, and Krebbyg stays in his Kreb Sorrush cover at the brief and says "Ask Fel" to anything operational.
 
@@ -224,7 +224,7 @@ If **Soluun Expelled** is marked, Soluun is in the launch's bow, with his hand c
 
 If **Soluun Marked a Threat** is marked for a member who is present, Soluun picks that member out and says, "I said I'd remember your face." If **Soluun Provoked** is marked for a member who is present, he looks first at that member and touches his jaw. If **Soluun Pleaded For** is marked for a member who is present, he looks at that member last and says nothing at all.
 
-Soluun does not fight in the launch. He wants the Guild to finish what it has started, and he wants the captain to see it, and he leaves the moment anyone draws a weapon on him. He steps onto the pier, goes along the quay and over the side, and the harbor carries him off. If a character blocks his way and corners him, he fights as the WDH **Drow Gunslinger** (CR 4) with his hand crossbow and shortsword until he is reduced to 20 Hit Points or fewer. He then dives into the harbor and is gone, and he is not killed in this Event. Mark **Guild Survivor Escaped** in either case.
+Soluun does not fight in the launch. He wants the Guild to finish what it has started, and he wants the captain to see it, and he leaves the moment anyone draws a weapon on him. He steps onto the pier, goes along the quay and over the side, and the harbor carries him off. If a character blocks his way and corners him, he fights as the 2024 **Scout** with the changes in **The Dockside Killer**, using his hand crossbow and shortsword, until he is reduced to 20 Hit Points or fewer. He then dives into the harbor and is gone, and he is not killed in this Event. Mark **Guild Survivor Escaped** in either case.
 
 ### Into the Water
 
@@ -244,7 +244,7 @@ The dive team is working at the clamp when the party arrives. The charge is a sq
 
 > [!gamemaster]**What the Team Is Doing**
 >
-> The team does not know that Bregan D'aerthe is coming, and the divers are not on high alert. Orlo is floating above the case with a hand on the lanyard, because the Guild's order was to stay until the fuse had run. Tamsin Rooke (if present) is at the stern seam, and the divers keep a line between the case and the pier. The merfolk hover at the edge of the light. Their usual task is to watch the water.
+> The team does not know that Bregan D'aerthe is coming, and the divers are not on high alert. Orlo is floating above the case with a hand on the lanyard, because the Guild's order was to stay until the fuse had run. Hesk Rooke (if present) is at the stern seam, and the divers keep a line between the case and the pier. The merfolk hover at the edge of the light. Their usual task is to watch the water.
 >
 > The charge itself is described in **Before Dawn**. The lanyard is Orlo's insurance, and if he sees the party reach the clamp he pulls it at the start of his next turn, which sets the fuse to a 10-round countdown. The lanyard is AC 12 with 1 Hit Point, and a slashing weapon cuts it with an action, or a character can make a **DC 13 Dexterity (Sleight of Hand)** check to unhook it from his wrist without his noticing.
 
@@ -301,11 +301,11 @@ When Orlo accepts terms he calls off the lanyard, drops his trident and signals 
 
 > [!hazard]**The Guild Dive Team**
 >
-> The team uses the **Warrior Veteran**, **Bandit Captain**, **Tough** and **Merfolk Skirmisher** stat blocks from the 2024 *Monster Manual*, with these changes for the water. Orlo's Greatsword becomes a trident (+5 to hit, 7 (1d8 + 3) piercing damage, or 8 (1d10 + 3) with two hands), and he keeps his Heavy Crossbow, which he does not use because ranged attacks are at Disadvantage underwater. Tamsin Rooke's Scimitar becomes a spear, and her Pistol is left in the launch because firearms don't fire underwater. The Toughs carry spears in place of maces, and the merfolk carry Ocean Spears and fight in melee at the edge of the light. The roster counts the combatants on the party's side, including companions and not including Krebbyg or Fel'rekt. With six or more, use the five-combatant roster.
+> The team uses the **Warrior Veteran**, **Bandit Captain**, **Tough** and **Merfolk Skirmisher** stat blocks from the 2024 *Monster Manual*, with these changes for the water. Orlo's Greatsword becomes a trident (+5 to hit, 7 (1d8 + 3) piercing damage, or 8 (1d10 + 3) with two hands), and he keeps his Heavy Crossbow, which he does not use because ranged attacks are at Disadvantage underwater. Hesk Rooke's Scimitar becomes a spear, and her Pistol is left in the launch because firearms don't fire underwater. The Toughs carry spears in place of maces, and the merfolk carry Ocean Spears and fight in melee at the edge of the light. The roster counts the combatants on the party's side, including companions and not including Krebbyg or Fel'rekt. With six or more, use the five-combatant roster.
 >
 > - **Three combatants:** Orlo Stannick, two Toughs and two Merfolk Skirmishers.
-> - **Four combatants:** Orlo Stannick, Tamsin Rooke, two Toughs and two Merfolk Skirmishers.
-> - **Five combatants:** Orlo Stannick, Tamsin Rooke, four Toughs and two Merfolk Skirmishers.
+> - **Four combatants:** Orlo Stannick, Hesk Rooke, two Toughs and two Merfolk Skirmishers.
+> - **Five combatants:** Orlo Stannick, Hesk Rooke, four Toughs and two Merfolk Skirmishers.
 >
 > The merfolk are hired locals paid in coin, and they join the fight only if a character has a Swim Speed or *Freedom of Movement*. Otherwise the party already fights at a disadvantage in the water, and the merfolk watch from the dark and leave.
 >
@@ -315,7 +315,7 @@ When Orlo accepts terms he calls off the lanyard, drops his trident and signals 
 > During combat, the team:
 > - Has Orlo pull the lanyard in his first turn if the party is within 5 feet of the clamp and has not parleyed.
 > - Has the Toughs fight in pairs, using Pack Tactics against the character closest to the charge.
-> - Has Tamsin hold the stern seam and cover the divers, retreating to the surface at half her Hit Points.
+> - Has Hesk hold the stern seam and cover the divers, retreating to the surface at half her Hit Points.
 > - Has the merfolk strike at characters who are carrying the charge or cutting the lanyard, using their swim speed to switch targets.
 >
 > If Orlo falls, the Toughs break for the surface. If Orlo is reduced to 16 Hit Points or fewer while surrounded, he surrenders on the terms above and orders the others to stop. The merfolk flee the moment Orlo falls or surrenders. Fel'rekt calls twice from the surface line for the team to stop, in plain words, and he does not fire. The fight ends when the team is dead, captured or fled.
@@ -330,7 +330,7 @@ If Orlo pulls the lanyard, the fuse is set to a 10-round countdown, and the char
 
 Any character who hears the ticking and makes a successful **DC 12 Intelligence (Investigation)** check understands that the fuse has jumped to a 10-round countdown and that the case must be carried clear of the hull.
 
-If a diver or Tamsin reaches the surface alive and flees, or if Nell sent the signal and was never caught, mark **Guild Survivor Escaped**.
+If a diver or Hesk reaches the surface alive and flees, or if Nell sent the signal and was never caught, mark **Guild Survivor Escaped**.
 
 If any diver has papers, read or paraphrase the following:
 
@@ -353,7 +353,7 @@ The Event concludes when the dive team is dead, captured, fled or sent ashore, a
 > Mark each outcome that occurs. Later events read them.
 >
 > - **Soluun Sold the Mooring** — mark when **Soluun Expelled** is marked and the party sees Soluun in the launch or Krebbyg reads his hand on Orlo's sketch. Read by **Before Dawn**, where a member marked **Soluun Pleaded For** loses 1 Renown, and by **Houseless Noble**, where the empty seat and the captain's account of Soluun change.
-> - **Guild Survivor Escaped** — mark when Nell, Tamsin, a diver or Soluun gets away alive after seeing the party, or when Nell's signal was sent and she was never caught. Read by **Vault of Dragons** (unconverted), Scene 5, where the Guild's faction roster opens knowing which Bregan D'aerthe members dived under the pier.
+> - **Guild Survivor Escaped** — mark when Nell, Hesk, a diver or Soluun gets away alive after seeing the party, or when Nell's signal was sent and she was never caught. Read by **Vault of Dragons** (unconverted), Scene 5, where the Guild's faction roster opens knowing which Bregan D'aerthe members dived under the pier.
 
 > [!gamemaster]**Next Steps**
 >

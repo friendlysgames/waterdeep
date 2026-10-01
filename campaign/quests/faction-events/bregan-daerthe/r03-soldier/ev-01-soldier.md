@@ -36,7 +36,7 @@ At dawn on the second day after the member reaches Renown 3, a playbill is pushe
 > - **The berth stays a bed.** The costume room below is a place to change and meet, and it has no hammocks.
 > - **The report is new.** No Initiate receives intelligence of any kind, and the berth and the stall give none.
 >
-> A member whose Renown later falls below 3 through a penalty keeps the Soldier rank and every benefit in it.
+> A member whose Renown later falls below 3 through a penalty keeps the Soldier rank, and the three Soldier benefits are suspended until Renown returns to 3. The Initiate benefits are unaffected.
 
 ### The Booking Office
 

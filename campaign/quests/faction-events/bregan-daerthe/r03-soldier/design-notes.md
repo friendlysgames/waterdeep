@@ -30,5 +30,6 @@ Invented: Odalys Vane, Ostrin Brindle and Brindle and Daughter on Dock Street, t
 
 For the out-of-scope log:
 - Guide 08 and `player-factions-overview.md` say "the party" where Soldier is individual.
-- The costume room and booth are not in the Sea Maidens Faire location files, and the Faire's sailing date of Tarsakh 20 conflicts with `m06` text about "another season".
+- The costume room and booth are not in the Sea Maidens Faire location files. The Faire's sailing date of Tarsakh 20 now agrees with **The Dive**.
+- A member whose Renown drops below 3 keeps the Soldier rank and the three benefits are suspended, the same rule as **Officer**, **Commander** and **Houseless Noble**.
 - **BD Soldier** is read by **Faction Outposts** (unconverted) for the Seven Masks door staff.

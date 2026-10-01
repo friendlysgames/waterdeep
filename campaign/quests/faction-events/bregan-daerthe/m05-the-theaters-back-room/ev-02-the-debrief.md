@@ -165,7 +165,7 @@ Zardoz pays out of a velvet purse at the end of the evening, and Krebbyg gives e
 > - **What it holds:** six cots, a washstand, a locked costume trunk for the member's gear and a stock of drow-made crossbows and bolts that Fel'rekt sells at cost to Bregan D'aerthe members.
 > - **Rest:** the member and up to five companions the member names to the guards can take a Long Rest there, for up to three nights in a row.
 > - **Messages:** a message left with the guards reaches Krebbyg by the next dusk, and the grey coat on peg seven still works.
-> - **Meetings:** **The Dive** briefs here, and the rank events **Officer**, **Commander** and **Houseless Noble** meet here when **Seven Masks Back Room** is marked.
+> - **Meetings:** **The Dive** briefs here, and the rank event **Houseless Noble** meets here when **Seven Masks Back Room** is marked.
 > - **Loss rule:** the member loses access by marking **BD Contact Severed**, by bringing a Watch officer into the corridor, or by telling anyone outside the company that the room exists.
 >
 > **What changes if the member already has access.** At Renown 3 and above, the door staff admit the member to the theater and the booking office, and this does not include the dressing room. If the member entered the dressing room during **Faction Outposts** (the **Seven Masks Raided** outcome, which the **Faction Outposts** conversion must write), the entry was unsanctioned. After this Event the guards stop treating the member's knock as an intrusion, and the Alert tier that the raid set toward Bregan D'aerthe drops to Suspicious for that member.
@@ -192,7 +192,7 @@ The Event concludes when the member has reported and received the key.
 > [!gamemaster]**Event Outcomes**
 >
 > - **Brandath Lead from Brimel** — mark for each member who sees the pencilled note on Brimel's plan; read by **Vault of Dragons** (unconverted), Scene 2, where Brimel's plan is a second clue to the Brandath Crypts alongside the windmill map from **Faction Outposts**.
-> - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive**, and by the rank events **Officer**, **Commander** and **Houseless Noble**, which meet in the dressing room when it is marked.
+> - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive** and by the rank event **Houseless Noble**, which meet in the dressing room when it is marked.
 
 > [!gamemaster]**Next Steps**
 >
