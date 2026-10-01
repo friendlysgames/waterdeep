@@ -32,7 +32,7 @@
 > - **No outcome marked, because no Doom Raider ran The Dockside Killer:** Treat Soluun as Escaped. The company learns of the killings from Krebbyg and Fel'rekt, who traced them to Soluun after the fifth body, and the Watch has doubled its patrols along Ship Street. The Event runs ten nights after the member's debrief for **The Handkerchief and the Girl**.
 > - **Soluun Killed:** The tenth night after the ambush. Run **If Soluun Was Killed** in place of the ruling.
 >
-> A member who joins Bregan D'aerthe after the Event has run doesn't attend. Mark **Soluun Expelled** anyway, and Fel'rekt tells the new member what happened the first time he is asked.
+> A member who joins Bregan D'aerthe after the Event has run doesn't attend. Mark **Soluun Expelled** for that member anyway, and Fel'rekt tells the new member what happened the first time he is asked.
 
 > [!gamemaster]**Who Is Aboard**
 >
@@ -140,6 +140,7 @@ The member answers in their own words, and the check below decides whether the a
 >
 > A member who gives a good explanation and makes a successful **DC 13 Charisma (Persuasion or Deception)** check convinces Nevercott. Mark **Soluun Witness Explained** for that member. A member who gives fewer than two of the three, or who gives a good explanation and fails the check, is penalized. Mark **Soluun Witness Penalized** and take 1 Renown from that member, to a minimum of Renown 1.
 >
+> - **Early warning:** A member who warned Nevercott or Fel'rekt before Night 3 of **The Dockside Killer** has a good explanation without needing two of the three, and still makes the **DC 13** check.
 > - **Advantage:** The member hands Nevercott the playbill from the alley.
 > - **Disadvantage:** The member struck the blow that killed Soluun, if Soluun is dead, and the DC is 15 instead of 13.
 > - **Failure, with a fellow member:** Another Bregan D'aerthe member who wasn't penalized can speak for the member and make a successful **DC 15 Charisma (Persuasion)** check, once. The penalty is cancelled and **Soluun Witness Explained** is marked instead.
@@ -228,7 +229,7 @@ Whichever version is read, the speaker then turns to the members and adds the fo
 >
 > The speaker turns his head and looks at each of you in turn.
 >
-> > "He has slept aboard this boat for a year, and he knows where she lies and how she moves. I'd like you to hear me say it aloud, so that nobody is surprised later. The captain judges that risk worth bearing, and he won't be moving her this month."
+> > "He has slept aboard this boat for a year, and he knows where she lies and how she moves. I'd like you to hear me say it aloud, so that nobody is surprised later. The captain judges that risk worth bearing."
 
 ### Soluun Answers
 
@@ -415,7 +416,7 @@ Soluun doesn't fight aboard, and Nevercott doesn't want a fight in the captain's
 
 > [!hazard]**A Fight Aboard the *Scarlet Marpenoth***
 >
-> A fight breaks out on the upper deck of the control room, or in the stateroom corridor if the member provoked Soluun while he packed. Nevercott doesn't fight, and he stays by the chair with his hands folded. Soluun uses the **Scout** from the 2024 *Monster Manual* with the changes described in **The Dockside Killer**. Fel'rekt also uses the **Scout**, with a hand crossbow in place of the longbow, and Krebbyg, if he is aboard, uses the same block. The two guards are **Warrior Veterans**. This fight is not built to be won. The crew outclasses a party of 2nd or 3rd level, so it lasts three rounds at most, and the crew strikes only characters who are attacking. Soluun's own numbers are the Scout figures in section 1 of the **Doom Raiders Mechanics Reference**.
+> A fight breaks out on the upper deck of the control room, or in the stateroom corridor if the member provoked Soluun while he packed. Nevercott doesn't fight, and he stays by the chair with his hands folded. Soluun uses the **Scout** from the 2024 *Monster Manual* with the changes described in **The Dockside Killer**. Fel'rekt uses the **WDH Drow Gunslinger** from his Notable Figures page, and Krebbyg, if he is aboard, uses the same block. The two guards are **Warrior Veterans**. This fight is not built to be won. The crew outclasses a party of 2nd or 3rd level, so it lasts three rounds at most, and the crew strikes only characters who are attacking. Soluun's own numbers are the Scout figures in section 1 of the **Doom Raiders Mechanics Reference**.
 >
 > #### Soluun's Tactics
 > Soluun fires at the member who provoked him, and otherwise at the nearest character.
@@ -513,7 +514,7 @@ The Event concludes when Soluun has been put ashore, or when the members have he
 >
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Soluun Expelled** — mark for the party when Fel'rekt takes the disc and Soluun goes ashore, whether he was Captured, Escaped or never marked. Don't mark it if **Soluun Killed** was marked. Read by **The Compromised Eye**, where Nar'l's exposure traces to covering for his brother and Krebbyg no longer calls the disownment a cover story; by **The Dive**, where the expelled Soluun sells the *Scarlet Marpenoth*'s mooring to Xanathar's divers; by **Houseless Noble**, where the empty seat branches on the outcome; and by **Sea Maidens Faire** (unconverted).
+> - **Soluun Expelled** — mark for each Bregan D'aerthe member present when Fel'rekt takes the disc and Soluun goes ashore, whether he was Captured, Escaped or never marked. Don't mark it if **Soluun Killed** was marked. Read by **The Compromised Eye**, where Nar'l's exposure traces to covering for his brother and Krebbyg no longer calls the disownment a cover story; by **The Dive**, where the expelled Soluun sells the *Scarlet Marpenoth*'s mooring to Xanathar's divers; by **Houseless Noble**, where the empty seat branches on the outcome; and by **Sea Maidens Faire** (unconverted).
 > - **Soluun Witness Explained** — mark for a member who was in the alley and convinced Nevercott. Read by **Sea Maidens Faire** (unconverted), where Jarlaxle's disposition toward that member is unchanged.
 > - **Soluun Witness Penalized** — mark for a member who was in the alley and didn't convince Nevercott. Read by **Sea Maidens Faire** (unconverted), where Jarlaxle's opening line to that member is cooler, and by **The Compromised Eye**, where Nevercott's first words to the member allude to the corridor.
 > - **Soluun Pleaded For** — mark for a member whose plea succeeded. Read by **The Dive**, where the member loses 1 Renown if Soluun's sale of the mooring comes to light, and Nevercott's first words to that member refer to the plea.

@@ -58,6 +58,6 @@ A captured Soluun is released a little over a tenday after the ambush, so the Ev
 
 - **The Dockside Killer** describes the silver disc as a forged token whose knotwork a Bregan D'aerthe member can spot. This Event treats the forgery as the company's own work, struck at Jarlaxle's order so that the company could deny Soluun, and doesn't name who made it.
 - The Fireball! cabin scene, which is where **Jarlaxle Unmasked** is expected to be marked, and **Sea Maidens Faire** (unconverted) must read the outcomes listed in the Event. **Sea Maidens Faire** in particular should read **Soluun Expelled**, **Soluun Killers Named** and the three per-member outcomes.
-- The **Bregan D'aerthe Mechanics Reference** doesn't yet carry an entry for a fight aboard the *Scarlet Marpenoth*, so the hazard block points to it and gives no numbers.
+- The **Bregan D'aerthe Mechanics Reference** doesn't carry an entry for a fight aboard the *Scarlet Marpenoth*, so the hazard block names its blocks and gives no new numbers. Soluun uses the 2024 **Scout** as in **The Dockside Killer**, and Fel'rekt and Krebbyg use the **WDH Drow Gunslinger** from their Notable Figures pages.
 - **The Compromised Eye**, **The Dive** and **Houseless Noble** are the named readers of the outcomes and should be drafted against this page. **The Dive** must apply the Renown loss for a successful plea and read **Soluun Pressed** for the Advantage on the lookout check.
 - Breena Bafflestone is named as the engineer on watch, taken from the *Scarlet Marpenoth* page, and no other new NPC is invented.

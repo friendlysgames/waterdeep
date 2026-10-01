@@ -14,7 +14,7 @@
 >
 > Nevercott named Bregan D'aerthe at the First Meeting, so the organization's name is not what drops here. What drops is Krebbyg's own cover. The Kreb Sorrush the members met in the booking office is a drow lieutenant who passes as a human stage manager with a brown wig, pale greasepaint and a pair of gloves he never takes off, which is an ordinary trade secret in a theater and fools almost everybody in the Dock Ward.
 >
-> The cover costs him half an hour before every matinee, and it forces him to hold the act through every conversation with a member. Fel'rekt has argued that a contact who must keep a mask on while he takes messages is a contact who eventually slips, so the members who have now delivered two jobs and the Wazoo case have earned the face. From this Event on, Krebbyg is the members' day-to-day contact at the theater for drops, messages and the channel that carries word of rank events. He does not brief **The Wazoo Affair**, **Three Nights** or anything after it, and Nevercott still briefs **The Compromised Eye**.
+> The cover costs him half an hour before every matinee, and it forces him to hold the act through every conversation with a member. Fel'rekt has argued that a contact who must keep a mask on while he takes messages is a contact who eventually slips, so the members who have now delivered two jobs have earned the face. From this Event on, Krebbyg is the members' day-to-day contact at the theater for drops, messages and the channel that carries word of rank events. He does not brief **The Wazoo Affair**, **Three Nights** or **The Compromised Eye**, and Nevercott still briefs the last of these. After **Dinner with Zardoz** he briefs **The Theater's Back Room** and **The Dive**.
 >
 > Krebbyg and Fel'rekt both say "the captain" and never Jarlaxle's name. Nevercott is the captain's haberdasher disguise, and both of them know it, but neither will confirm it. If **Jarlaxle Unmasked** is marked for a member, Fel'rekt may say the name once, in a low voice, and Krebbyg tells him to wait until they are out of the lobby.
 ### The Card
@@ -47,7 +47,7 @@ The matinee lets out at four bells. Kreb is waiting in the doorway of the bookin
 
 > [!exploration]**Thinking Back**
 >
-> Any character who recalls how Kreb Sorrush behaved in the booking office during **The Handkerchief and the Girl** and makes a successful DC 12 Intelligence (Investigation) check remembers that he kept his gloves on in a warm room and sat with the desk lamp behind him. The character also realizes that every time the lobby door opened, he turned his face away from it before he answered.
+> Any character who recalls how Kreb Sorrush behaved in **Coin Pouches** or in the Seven Masks lobby and makes a successful DC 12 Intelligence (Investigation) check remembers that he kept his gloves on in a warm room and sat with the desk lamp behind him. The character also realizes that every time the lobby door opened, he turned his face away from it before he answered.
 >
 > On a failure, the character remembers nothing unusual, and Kreb tells them all of it himself within the next minute, delighted to have somebody to tell.
 
@@ -94,7 +94,7 @@ Fel'rekt keeps the crossbow pointed at the floor until the weapon is lowered, an
 
 > [!qna]**Why show us now?**
 >
-> > Because you did the thing for Nevercott and nobody got caught, and Fel says that's two jobs and a newspaper, and you've earned a face. Also I got tired of holding the act through every single conversation, because sooner or later I'd have slipped and said something to you in front of the soprano. Ask Fel if there's a better reason, but I'd say that's most of it.
+> > Because you did the thing for Nevercott and nobody got caught, and Fel says that's two jobs, and you've earned a face. Also I got tired of holding the act through every single conversation, because sooner or later I'd have slipped and said something to you in front of the soprano. Ask Fel if there's a better reason, but I'd say that's most of it.
 
 > [!qna]**Who is the captain?**
 >
@@ -248,7 +248,7 @@ When Pimm has gone, Kreb locks the door again, takes the wig out of his waistcoa
 > - **Dead drop:** A grey wool coat hangs on peg seven in the cloakroom. A member leaves messages in its left pocket, and Krebbyg clears it at closing.
 > - **Urgent signal:** Half a torn ticket in the left pocket brings Krebbyg to the stage door at eleven bells that night.
 > - **Call from the company:** A playbill under the door of Trollskull Manor with a price circled summons the member to the stage door at that bell. Word that a rank event is waiting arrives the same way, and the rank event says where it is held.
-> - **Public behavior:** With any non-member in earshot, and anywhere outside the locked booking office, the stage door after dark or the safe house in the dressing room, Krebbyg is Kreb Sorrush in his cover. The member treats him as a human.
+> - **Public behavior:** With any non-member in earshot, and anywhere outside the locked booking office, or the stage door after dark, Krebbyg is Kreb Sorrush in his cover. The member treats him as a human.
 > - **Exposure:** A member who tells anyone outside the company about a Bregan D'aerthe drow, in any words, marks **BD Contact Severed**. A companion who repeats it counts against the member who told them.
 
 ### Leaving the Seven Masks
@@ -265,7 +265,7 @@ Kreb puts the wig back on in front of a small mirror above the desk, and he star
 
 ### After the Cover
 
-Krebbyg is the same person the members met in **The Handkerchief and the Girl**, and from this Event on he is the same person with the greasepaint off whenever the door is locked. He talks as much as he did and he defers to Fel'rekt as often as he did. Fel'rekt is out on the captain's business most days and is rarely at the theater, so the members deal with Krebbyg on their own, and his answer to anything serious remains "Ask Fel".
+Krebbyg is the same person the members met in **Coin Pouches** or in the Seven Masks lobby, and from this Event on he is the same person with the greasepaint off whenever the door is locked. He talks as much as he did and he defers to Fel'rekt as often as he did. Fel'rekt is out on the captain's business most days and is rarely at the theater, so the members deal with Krebbyg on their own, and his answer to anything serious remains "Ask Fel".
 
 ### Concluding the Event
 
@@ -279,7 +279,7 @@ The Event concludes when the members have heard the arrangements and left the bo
 >
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Kreb Unmasked** — mark for each member who hears Krebbyg's arrangements in the booking office. From then on Krebbyg appears to that member as himself, a drow, whenever they are alone with him behind a locked door, and not in his human guise. Read by **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive** and the rank events **Soldier**, **Officer**, **Commander** and **Houseless Noble**.
+> - **Kreb Unmasked** — mark for each member who hears Krebbyg's arrangements in the booking office. From then on Krebbyg appears to that member as himself, a drow, whenever they are alone with him behind a locked door, and not in his human guise. Read by **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive** and the rank events **Soldier**, **Officer** and **Commander**.
 > - **BD Contact Severed** — mark for a member who tells Constable Pimm or anyone else outside the company about Bregan D'aerthe's drow. Read by **Contact Severed** and by **Sea Maidens Faire** (unconverted).
 
 > [!gamemaster]**Next Steps**

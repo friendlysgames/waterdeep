@@ -15,7 +15,7 @@ The pouch arrives two days after Nevercott's debrief for **The Handkerchief and 
 
 > [!gamemaster]**Who Holds the Gold**
 >
-> The pouch belongs to the member who gave Nevercott's debrief for **The Handkerchief and the Girl**. If several members gave it together, it belongs to the one with the higher Renown, and if their Renown is equal, to the one who spoke first. That member owns the 50 gp outright, nobody from Bregan D'aerthe asks about it afterward, and they may share it or keep it. The second pouch follows the same rule for **Three Nights**, except that it goes to the Beat 1 recipient if that member also ran **Three Nights**.
+> The pouch belongs to the member who marked **Handkerchief Delivered** in **The Handkerchief and the Girl**. If several members marked it, it belongs to the one with the higher Renown, and if their Renown is equal, to the one who spoke first. That member owns the 50 gp outright, nobody from Bregan D'aerthe asks about it afterward, and they may share it or keep it. The second pouch follows the same rule for **Three Nights**, except that it goes to the Beat 1 recipient if that member also ran **Three Nights**.
 
 > [!readaloud]
 >

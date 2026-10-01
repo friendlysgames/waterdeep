@@ -45,7 +45,7 @@ The black card reaches Trollskull Manor in the morning, and Nevercott is at a co
 
 > [!social]**The Haberdasher by the Fire**
 >
-> J.B. Nevercott (Chaotic Neutral, Drow in the guise of a Human haberdasher, he/him) :: Jarlaxle Baenre's haberdasher persona, who briefs the party himself and has looked forward to this evening.
+> J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: Jarlaxle Baenre's haberdasher persona, who briefs the party himself and has looked forward to this evening.
 >
 > Nevercott is courteous, unhurried and delighted by almost everything the members say. He answers questions with a smile and a longer sentence than the question needed, and he never lets one go unanswered, though he rarely tells the whole truth in the answer. He does not swear. He does not explain who his employers are beyond calling them "the people I represent", and he treats the question as a pleasant one. If the members mention the black card or the silver ship, he says that he has always found a small token more memorable than a speech.
 >
@@ -80,7 +80,7 @@ The black card reaches Trollskull Manor in the morning, and Nevercott is at a co
 >
 > > "Then you found a case in the street and wanted to return it to its owner's desk, which isn't a crime, and you've never met me. I'd also advise you not to be caught, because Mr. Rudderbust is a generous man with a description."
 
-If the party declines the job, Nevercott thanks the members, finishes his drink and leaves the case on the table, and the mission ends without Renown. If the party takes the case and has not delivered it within six days, Nevercott collects it from Trollskull Manor himself, thanks them without a trace of sarcasm, and the mission ends without Renown or outcomes. In either case, **Three Nights** is still gated at Renown 5.
+If the party declines the job, Nevercott thanks the members, finishes his drink and leaves the case on the table, and the mission ends without Renown. If the party takes the case and has not delivered it within six days, Nevercott collects it from Trollskull Manor himself, thanks them without a trace of sarcasm, and the mission ends without Renown or outcomes. In either case, **Three Nights** is still gated at Renown 5, and the members make up the shortfall from the Earning Renown list on the Bregan D'aerthe Factions Guide page.
 
 ### The Document
 
