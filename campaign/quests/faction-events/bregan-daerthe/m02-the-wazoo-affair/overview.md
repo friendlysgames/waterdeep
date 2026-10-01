@@ -18,23 +18,23 @@ A black card with a silver ship and a single line of handwriting reaches Trollsk
 
 ## Background
 
-Jarlaxle Baenre wrote the exposé himself, in the voice of a gossip sheet. It describes devil worship and orgies among unnamed noble families of Waterdeep, with secret bargains struck over the wine and just enough rumor about shrines and windmills to make a reader wonder. The piece names no family and offers no proof. Jarlaxle knows the truth about the Cassalanters, because his doppelganger agent Vessa has lived among them for months and read it in their thoughts, but he will not tell the members, and the piece is written so that it cannot be traced to what he knows.
+Jarlaxle Baenre wrote the exposé himself, in the voice of a gossip sheet. It describes devil worship and orgies among unnamed noble families of Waterdeep, with secret bargains over the wine and enough rumor about shrines and windmills to make a reader wonder. It names no family and offers no proof. Jarlaxle knows the truth about the Cassalanters because his doppelganger agent Vessa has lived among them for months and read it in their thoughts. He won't tell the members, and the piece can't be traced to what he knows.
 
-He wants it printed to put pressure on the Cassalanters and to watch how they react and whom they send to lean on the publisher, while the other families laugh or shrug. No other faction in Waterdeep, and no one in the party, knows what the Cassalanters are. *The Waterdeep Wazoo* will print almost anything that sells, and its publisher, Gaxly Rudderbust, is honest enough to swear truthfully that he does not know who wrote it.
+He wants it printed to put pressure on the Cassalanters and to see how they react and whom they send to lean on the publisher, while the other families laugh or shrug. No other faction in Waterdeep, and no one in the party, knows what the Cassalanters are. *The Waterdeep Wazoo* prints almost anything that sells, and its publisher, Gaxly Rudderbust, can truthfully swear he doesn't know who wrote it.
 
-Jarlaxle sends the document under his haberdasher's name, J.B. Nevercott, and he does not forbid the party to read it. He expects them to, and he wants to hear what they make of it.
+Jarlaxle sends the document under his haberdasher's name, J.B. Nevercott. He tells the party not to read it, expects them to anyway, and wants to hear what they make of it.
 
 ## The Brief
 
-Nevercott gives the job to the participating members at the Yawning Portal, over a round he has already paid for. He wants a sealed leather case left on Gaxly Rudderbust's desk, he wants it left when Gaxly is out, and he wants nobody to be able to say who left it. He pays 80 gp when the paper has printed. Companions are not at the table.
+Nevercott gives the job to the participating members at the Yawning Portal, over a round he has already paid for. The sealed leather case must be left on Gaxly Rudderbust's desk while Gaxly is out, with nobody able to say who left it. He pays 80 gp once the paper has printed. Companions are not at the table.
 
 ## The Document
 
-The document takes about twenty minutes to read, and Nevercott's instruction not to open it is the one he most expects to be ignored. The piece names no family, quotes no witness, and gives each of its details as something said by servants and tradesmen, so it reads as scandal and not as evidence. A character who reads it carefully notices that nearly any great house could find itself in it.
+The document takes about twenty minutes to read, and Nevercott expects his instruction not to open it to be ignored. The piece names no family, quotes no witness, and gives each detail as something servants and tradesmen said, so it reads as scandal rather than evidence. A careful reader notices that nearly any great house could find itself in it.
 
 ## Getting Into the Wazoo
 
-The offices are a narrow room on the second floor at the corner of Immar Street and Stallion Street, and they are empty from noon until two bells and again after seven bells. Each window has its own way up, a locked door at the top, and a desk at the end. The party can climb unseen, talk its way upstairs as a courier, or do some of each, and every step has a price if it goes wrong.
+The offices are a narrow room on the second floor at the corner of Immar Street and Stallion Street. They are empty from noon until two bells and again after seven bells. Each window has its own way up, a locked door at the top, and a desk at the end. The party can climb unseen, talk its way up as a courier, or do some of each, and every step costs something if it goes wrong.
 
 ## The Desk
 
@@ -42,7 +42,7 @@ On the desk the party finds the front-page proofs, a heap of letters, and a note
 
 ## Publication and the Solicitors
 
-The Wazoo prints the piece two days after Gaxly finds it. The morning after that, two well-dressed men who call themselves solicitors visit Gaxly and ask for his source. A black card from Nevercott suggests a stroll down Stallion Street at the right hour, and the party can watch the men arrive, follow them away, and talk to Gaxly afterwards. Nothing about them proves who sent them, though the way they behave gives a careful observer a good deal to think about.
+The Wazoo prints the piece two days after Gaxly finds it. The morning after that, two well-dressed men who call themselves solicitors visit Gaxly and ask for his source. A black card from Nevercott suggests a stroll down Stallion Street at the right hour. The party can watch the men arrive, follow their carriage and talk to Gaxly afterwards. Nothing proves who sent them, but the false firm and the covered crest show that someone with money and a reason for care read the piece.
 
 ## The Payment
 
