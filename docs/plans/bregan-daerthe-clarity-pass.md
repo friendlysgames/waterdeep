@@ -54,3 +54,10 @@ This is a prose pass, not a design pass.
 2. Edit every `.md` file in your assigned folder, design notes included.
 3. Don't touch any other folder, and don't commit.
 4. Report back: the files edited, a rough before/after impression, and anything you couldn't simplify without changing content.
+
+## Addendum after the first folders
+
+The first passes split sentences but cut only 2–3% of the words, which is not enough. For every folder from here on:
+- **Cut length, not just sentences.** Target a 15–25% word reduction in GM text and readaloud, and remove whatever restates, elaborates or explains.
+- **Use plain words.** Use the common word over the literary one ("says" not "observes", "looks" not "regards"), and drop scene-setting adjectives that don't help the GM run the scene.
+- **Speech: say it once.** If a character makes the same point twice in one speech, keep the better line.
