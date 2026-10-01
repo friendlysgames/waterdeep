@@ -11,7 +11,7 @@ description: >
 
 # Character Voices
 
-`ember-voice` sets the narrator's voice: plain, friendly and flowing. Colour belongs to the characters, and this skill holds that colour. Every Notable Figure has a profile here that says how they sound, so that Mirt, Davil and Jarlaxle never sound like the same person reading different lines.
+`ember-voice` sets the narrator's voice: plain, friendly and easy to read. Colour belongs to the characters, and this skill holds that colour. Every Notable Figure has a profile here that says how they sound, so that Mirt, Davil and Jarlaxle never sound like the same person reading different lines.
 
 ## Where the profiles live
 

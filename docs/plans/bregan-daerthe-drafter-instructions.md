@@ -34,7 +34,7 @@ Every `prose-drafter` working on a Bregan D'aerthe folder follows this page, the
 - **Manshoon.** Don't name him. If the Splinter comes up, say "the other cell" or "the Splinter".
 - **Rules.** Use 2024 rules and names only. There is no Thug, Veteran, Cult Fanatic, Drow or Swashbuckler. Use the names in the mechanics reference. Checks read "**DC N Ability (Skill)**" with a stated fallback. No single check settles a mission.
 - **Zero-prep.** Name the NPCs, fix the times and dates, and decide the outcomes.
-- **Voice.** Speech averages 12+ words a sentence; narration averages 18+. Real profanity at each profile's level. No fragment stacks, tricolons, "not X but Y", punchline endings, or "quietly", "simply" or "just" as padding. You can't run `voicecheck.py`; I will. Write as if it will be run.
+- **Voice.** Follow `ember-voice` section 2a. Speech runs about 11–15 words a sentence, narration 17–21, and GM text 15–20 with procedures in bullets. These are ranges, not floors. Real profanity at each profile's level. No fragment stacks, tricolons, "not X but Y", punchline endings, or "quietly", "simply" or "just" as padding. You can't run `voicecheck.py`; I will. Write as if it will be run.
 - **Scope.** Edit only the files in your folder, plus a `design-notes.md` if the brief asks for one. Don't touch anything else, and don't commit.
 
 ## Report back
