@@ -22,6 +22,8 @@
 > If **Zardoz Introduced** is marked for the member, Zardoz is in the room and speaks in his normal voice. He keeps silent in **The Theater's Back Room** because a Cassalanter watcher sits in the house, and nobody listens in the dressing room tonight. If **Zardoz Introduced** is not marked, Krebbyg alone receives the member and uses the same lines, with "the captain" for Zardoz. If **Kreb Unmasked** is not marked, Krebbyg stays in his Kreb Sorrush cover with the door shut.
 >
 > No Bregan D'aerthe speaker says "Jarlaxle" in this Event. If **Jarlaxle Unmasked** is marked for the member, Krebbyg may say the name once, in a low voice, and Zardoz does not.
+>
+> Zardoz Zord is Jarlaxle, and Jarlaxle knows that the Cassalanters are bound to Asmodeus and have pledged their children in a contract. His doppelganger agent Vessa, who has moved in their social circle for months, reads thoughts, and that is how he learned it. Krebbyg and Fel'rekt may or may not know. The company wants the member's account of the windmill because Vessa's cover has never reached it. No speaker in this Event tells a member the truth unless the member has worked it out. See **Figuring It Out**.
 
 ### The Summons
 
@@ -105,7 +107,7 @@ If **Windmill Map Taken** is not marked, read or paraphrase the following instea
 >
 > Zardoz taps the pencilled note on the back of Brimel's sheet with one ring-heavy finger and lets the lamp catch it.
 >
-> > "A map on a desk with a ring in red ink and a family name beside it. You saw the same desk, did you? Then I have two witnesses who've never met, a steward and a bunch of heroes, and I like it when the world agrees with itself. I should so like to know who the family is, and I'm sure I'll find out."
+> > "A map on a desk with a ring in red ink and a family name beside it. You saw the same desk, did you? Then I have two witnesses who've never met, a steward and a bunch of heroes, and I like it when the world agrees with itself. I do enjoy being told a thing twice, my darlings, and by people who've never met."
 
 > [!social]**Three Questions in a Story**
 >
@@ -146,6 +148,28 @@ If **Windmill Clean Exit** is not marked, read or paraphrase the following inste
 > > "Then somebody in that house knows the windmill has been visited, my dear, and a house that knows it has been visited asks whether somebody inside talked. I shall move Brimel to my own ship tonight, and you will be very kind about it when you see him."
 
 Krebbyg moves Brimel to the *Eyecatcher* that night, and Brimel stays there until the Faire sails.
+
+> [!gamemaster]**Figuring It Out**
+>
+> If a member tells Zardoz, Krebbyg or Nevercott at any point in this Event, in the member's own words, that the Cassalanters are bound to a devil, or shows them proof such as the windmill map matched to a Cassalanter lease, a contract or a sworn witness, the speaker stops deflecting. A hunch about "something wrong with that family" does not count, and the speakers answer it with their usual lines. Neither speaker names Vessa or says how the company learned it.
+
+If the member says it and **Zardoz Introduced** is marked, read the following aloud:
+
+> [!readaloud]
+>
+> Zardoz lets the story about the goat trail off, and he sets his glass on the trunk with a small, careful click.
+>
+> > "Well, my dear, that is a most inconvenient thing to hear aloud, and I'm obliged to you for saying it plainly. Yes, the company has known for some time that the family is bound to a devil, and I'd rather you heard it from me than found it out in a tomb. I won't say how we came by it, and I'd ask you not to go looking, because someone is still working at it. What you've found, I'd like to see, and what we have, I'll share."
+
+If the member says it and **Zardoz Introduced** is not marked, Krebbyg says "Don't move, darling," goes out, and comes back with Nevercott, who has been in the theater since six bells. Read the following aloud:
+
+> [!readaloud]
+>
+> Nevercott takes off his hat and turns it once in his hands before he speaks, and Krebbyg shuts the door behind him.
+>
+> > "Then I won't pretend with you, and I'm sorry that I did for as long as I did. My friends have known for some time that the family is bound to a devil. I can't tell you how we learned it, and I'd be grateful if you didn't ask, but I can tell you that you're not working alone, and that someone near them will help you openly when the time comes."
+
+Mark **Cassalanter Pact Shared with BD** for that member. The admission gives no names and no contract terms beyond what the member brought. In **Cassalanter Villa** (unconverted), Vessa then helps that member openly, with a cover story and a distraction at the banquet.
 
 ### Payment and the Key
 
@@ -193,6 +217,7 @@ The Event concludes when the member has reported and received the key.
 >
 > - **Brandath Lead from Brimel** — mark for each member who sees the pencilled note on Brimel's plan; read by **Vault of Dragons** (unconverted), Scene 2, where Brimel's plan is a second clue to the Brandath Crypts alongside the windmill map from **Faction Outposts**.
 > - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive** and by the rank event **Houseless Noble**, which meet in the dressing room when it is marked.
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells Zardoz, Krebbyg or Nevercott in their own words that the Cassalanters are bound to a devil, or shows proof, as set out in **Figuring It Out**; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by the rank event **Officer**, where the assessment may state the truth to that member.
 
 > [!gamemaster]**Next Steps**
 >

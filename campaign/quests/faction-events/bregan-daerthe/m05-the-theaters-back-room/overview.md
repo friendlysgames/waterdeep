@@ -27,7 +27,7 @@ Brimel Crestfall is a household steward in the Cassalanter villa, a careful man 
 
 *The Waterdeep Wazoo* printed Jarlaxle's exposé in **The Wazoo Affair**, and the household has been frightened since. Two "solicitors" called on the publisher, and the family has since questioned its own staff about who they speak to. Brimel believes the family will dismiss whoever it can blame, and he sold a floor plan of the windmill to Bregan D'aerthe, through the household's wine merchant, for 300 gp. Half of it has been paid. The rest waits in an envelope in Krebbyg's desk.
 
-Jarlaxle wants the plan because the Wazoo piece was a fishing expedition, and the Cassalanters flinched. A house that sends solicitors to a gossip sheet and then watches its own steward has something it does not want seen. Nobody in Bregan D'aerthe knows what that something is, and the windmill is the first place the company can look.
+Jarlaxle wants the plan because he knows what the Cassalanters are. His doppelganger agent Vessa, who has moved in their social circle for months, read the Asmodean pact and the children's contract in their thoughts, and the Wazoo piece was meant to make the family flinch. The windmill is the one place the family keeps off its social calendar, so Vessa's cover has never reached it, and the plan is the first look the company will have at the place. Zardoz and Krebbyg never confirm any of this to a member. A member who works out the truth and says so is the exception, and the debrief handles it.
 
 ## The Brief
 
@@ -55,7 +55,7 @@ Brimel meets the member in a shuttered sailmaker's doorway two blocks from the t
 
 ## The Plan in Krebbyg's Hands
 
-Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment, the lease name and a pencilled note on a map in a back room that marks the Brandath Crypt in the City of the Dead.
+Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment, the lease name and a pencilled note on a map in a back room that marks the Brandath Crypt in the City of the Dead. A member who tells him in their own words that the Cassalanters are bound to a devil, or who shows proof, hears the company admit that it has known for some time, and **Cassalanter Pact Shared with BD** is marked.
 
 ## The Key
 

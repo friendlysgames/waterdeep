@@ -26,6 +26,8 @@ Companions who are not members may ride out in the skiff. A steward seats them a
 >
 > The three questions are not a loyalty test. Jarlaxle holds partial answers to each in the reports, and he is checking the file against the living person, so he cares more about how an answer comes than about what it contains.
 >
+> Jarlaxle knows that the Cassalanters are bound to Asmodeus and have pledged their children in a contract, because his doppelganger agent Vessa, who has moved in their social circle for months, reads thoughts. No speaker at this table tells a member who has not worked it out. If a member says in their own words that the Cassalanters are bound to a devil, or shows proof, Zardoz stops deflecting, the accent thins, and he says the company has known for some time and asks what the member has, in the words of the admission in **The Theater's Back Room**. He does not name Vessa. Mark **Cassalanter Pact Shared with BD** for that member.
+>
 > Zardoz never mentions drow, the Underdark or Luskan, and he does not discuss Nar'l, the Castle Ward sewers or Soluun. Every crew member looks like an attractive human to everyone aboard, and truesight, *see invisibility* or a successful DC 20 Wisdom (Perception) check shows the drow underneath. Krebbyg and Fel'rekt look human as well from the moment the skiff comes within 200 feet of the ship.
 
 > [!gamemaster]**Playing Zardoz at Dinner**
@@ -378,6 +380,8 @@ The Event concludes when the member has dined with Zardoz and is back on the har
 > [!gamemaster]**Event Outcomes**
 >
 > Mark each outcome that occurs. Later events read them.
+>
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells Zardoz in their own words that the Cassalanters are bound to a devil, or shows proof; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by **Officer**.
 >
 > - **Zardoz Introduced** — mark with the member's name when they dine with Zardoz and answer at least one of his questions. From this point, Zardoz Zord is that member's contact and J.B. Nevercott never appears to them again. Read by **The Theater's Back Room** and **The Dive** (Zardoz is present at the member's briefings, with Krebbyg delivering them), and by the **Officer** and **Commander** rank events (Zardoz, not Nevercott, names the rank, aboard the *Eyecatcher* or, after Tarsakh 20, on the hired lighter). A member without this outcome keeps Krebbyg as their only contact for **The Theater's Back Room**, **The Dive** and **Commander**, and is greeted at those events by him alone. At **Officer**, that member is received by J.B. Nevercott as a fallback.
 
