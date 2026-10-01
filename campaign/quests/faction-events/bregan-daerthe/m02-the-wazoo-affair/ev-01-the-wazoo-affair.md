@@ -4,9 +4,9 @@
 >
 > This Exploration and Social Event begins when J.B. Nevercott briefs the Bregan D'aerthe members at the Yawning Portal and ends when he pays them there, two days after the exposé is published. In this Event, the party can:
 >
-> - Take Nevercott's sealed case, hear how little he will explain, and read the document in spite of his instruction.
-> - Choose a window for the break-in, noon until two bells or after seven bells, and get past a stair, a locked door and a desk in steps that each carry a consequence.
-> - Climb unseen, or talk its way upstairs as a courier at the cost of being remembered.
+> - Take Nevercott's sealed case and read it despite his instruction.
+> - Choose a window for the break-in, noon until two bells or after seven bells, and get past the stair, the door and the desk, each with its own consequence.
+> - Climb unseen, or talk its way up as a courier and be remembered.
 > - Decide where to leave the case, and find Gaxly's note on the Black Viper.
 > - Read the front page, watch two "solicitors" lean on Gaxly, and talk to Gaxly himself.
 > - Collect 80 gp from Nevercott and answer his question about the exposé.
@@ -15,41 +15,44 @@
 
 > [!gamemaster]**Who Knows What**
 >
-> J.B. Nevercott is Jarlaxle Baenre in his haberdasher's disguise, and the exposé is Jarlaxle's own work. It describes devil worship and orgies among unnamed Waterdhavian noble families, and it is written in the voice of rumor, with no temple detail and no witness. Jarlaxle knows the Cassalanters are bound to Asmodeus and have pledged their children in a contract. His doppelganger agent Vessa, who has moved in Cassalanter society for months, read it in their thoughts and told him. No other faction or NPC in this Event knows. The piece is meant to put pressure on the Cassalanters while hiding what he knows, so that he can watch how they react and whom they send to deal with it. Krebbyg and the other lieutenants may or may not know the truth, and no Bregan D'aerthe speaker in this Event tells a member.
->
-> No Bregan D'aerthe speaker in this Event says "Jarlaxle". Nevercott refers to "my employers" and "a friend". Until **Jarlaxle Unmasked** is marked for a member, that member knows Nevercott only as a haberdasher who runs errands for an organization that is mostly drow.
->
-> Gaxly Rudderbust does not know who wrote the piece and can say so truthfully under any pressure. The two solicitors are household agents of the Cassalanters, sent by Victoro Cassalanter after he read the piece on the morning it printed. Gaxly does not know whom they work for. Nobody in the party learns for certain in this Event that the Cassalanters are hiding anything, and nobody needs to.
->
-> Gaxly's note on the Black Viper describes Seffia Naelryke, a Cassalanter household operative who planted a story with him. Nevercott does not know of Seffia or this story.
+> - J.B. Nevercott is Jarlaxle Baenre in his haberdasher's disguise, and the exposé is Jarlaxle's own work.
+> - The piece describes devil worship and orgies among unnamed Waterdhavian noble families. It is written as rumor, with no temple detail and no witness.
+> - Jarlaxle knows the Cassalanters are bound to Asmodeus and have pledged their children in a contract. His doppelganger agent Vessa, who has moved in Cassalanter society for months, read it in their thoughts. No other faction or NPC in this Event knows.
+> - The piece puts pressure on the Cassalanters without showing what he knows. He wants to watch how they react and whom they send.
+> - Krebbyg and the other lieutenants may or may not know the truth. No Bregan D'aerthe speaker in this Event tells a member.
+> - No Bregan D'aerthe speaker in this Event says "Jarlaxle". Nevercott refers to "my employers" and "a friend". Until **Jarlaxle Unmasked** is marked for a member, that member knows Nevercott only as a haberdasher who runs errands for an organization that is mostly drow.
+> - Gaxly Rudderbust doesn't know who wrote the piece and can say so truthfully under any pressure.
+> - The two solicitors are Cassalanter household agents, sent by Victoro Cassalanter after he read the piece on the morning it printed. Gaxly doesn't know whom they work for.
+> - Nobody in the party learns for certain in this Event that the Cassalanters are hiding anything, and nobody needs to.
+> - Gaxly's note on the Black Viper describes Seffia Naelryke, a Cassalanter household operative who planted a story with him. Nevercott doesn't know of Seffia or this story.
 
 ### The Brief
 
-The black card reaches Trollskull Manor in the morning, and Nevercott is at a corner table near the fire of the Yawning Portal from seven bells. He meets the members only. Companions who come along are shown to a table across the room, and he is polite enough about it that nobody takes offense. He wears the burgundy coat and the hat he wore at the First Meeting, and he touches the brim of the hat before the last thing he says.
+The black card reaches Trollskull Manor in the morning. Nevercott waits at a corner table near the fire in the Yawning Portal from seven bells and meets the members only. Companions are shown politely to a table across the room. He wears the burgundy coat and hat from the First Meeting.
 
 > [!readaloud]
 >
-> A serving girl sets a round of drinks in front of you before you have finished sitting down, and the man across the table nods as though he had arranged the timing himself. He is tall and well dressed in a burgundy coat the color of good Saerloon wine, and he keeps his hat on at the table, with a flat leather case sealed in red wax lying beside his elbow.
+> A serving girl sets a round of drinks in front of you as you sit down. The man across the table is tall and wears a burgundy coat the color of good Saerloon wine, and he keeps his hat on. A flat leather case sealed in red wax lies beside his elbow.
 >
-> > "Good evening, and thank you for coming, because I do dislike eating alone. I have a small publishing matter, and I'm told you're the kind of people who can be trusted with a small matter."
+> > "Good evening, and thank you for coming, because I do dislike eating alone. I have a small publishing matter, and I'm told you can be trusted with it."
 >
 > He slides the case across the table with one finger.
 >
-> > "This is so easy that a gang of street urchins could pull it off. There's a broadsheet called *The Waterdeep Wazoo*, and I want this exposé delivered to its publisher, a man named Gaxly Rudderbust, without his ever knowing who wrote it or where it came from. His office is on the second floor at the corner of Immar Street and Stallion Street, in the North Ward, and it stands empty from noon until two bells while he eats, and again after seven bells when he goes home. Leave it on his desk and go."
+> > "It's so easy that a gang of street urchins could do it. A broadsheet called *The Waterdeep Wazoo* needs this exposé on its publisher's desk, and Gaxly Rudderbust mustn't know who wrote it or where it came from. His office is on the second floor at the corner of Immar Street and Stallion Street, in the North Ward. It stands empty from noon until two bells while he eats, and again after seven bells when he goes home. Leave it on his desk and go."
 >
 > He stands, settles his coat on his shoulders, and touches the brim of his hat.
 >
 > > "Do not read it."
 >
-> He smiles at you pleasantly before he leaves through the common room, and the serving girl is already clearing his cup.
+> He smiles pleasantly and leaves through the common room.
 
 > [!social]**The Haberdasher by the Fire**
 >
 > J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: Jarlaxle Baenre's haberdasher persona, who briefs the party himself and has looked forward to this evening.
 >
-> Nevercott is courteous, unhurried and delighted by almost everything the members say. He answers questions with a smile and a longer sentence than the question needed, and he never lets one go unanswered, though he rarely tells the whole truth in the answer. He does not swear. He does not explain who his employers are beyond calling them "the people I represent", and he treats the question as a pleasant one. If the members mention the black card or the silver ship, he says that he has always found a small token more memorable than a speech.
+> Nevercott is courteous, unhurried and pleased by almost everything the members say. He answers every question with a smile and a longer sentence than it needed, but he rarely tells the whole truth. He doesn't swear. He calls his employers "the people I represent" and treats questions about them as pleasant ones. If the members mention the black card or the silver ship, he says he has always found a small token more memorable than a speech.
 >
-> Any character who watches him and makes a successful DC 15 Wisdom (Insight) check determines that "Do not read it" is the instruction he most wants disobeyed, and that he is pleased to be sending people who will.
+> Any character who watches him and makes a successful DC 15 Wisdom (Insight) check determines that he wants "Do not read it" disobeyed and is pleased to be sending people who will.
 >
 > Conversation topics Nevercott is willing to discuss include:
 >
@@ -60,73 +63,81 @@ The black card reaches Trollskull Manor in the morning, and Nevercott is at a co
 
 > [!qna]**Who do you work for?**
 >
-> > "I represent some people who enjoy being useful to Waterdeep, and who enjoy it more when nobody can say exactly how. If anyone asks you tonight, I'm a haberdasher, and I'm sure you'll agree it's a respectable trade."
+> > "I represent some people who enjoy being useful to Waterdeep, preferably where nobody can say how. If anyone asks, I'm a haberdasher, and I'm sure you'll agree it's a respectable trade."
 
 > [!qna]**What's in the case?**
 >
-> > "A piece of writing that I'd like Mr. Rudderbust to read, and that's all I intend to say about it. I've told you not to open it, and I trust you'll weigh that instruction exactly as seriously as it deserves."
+> > "A piece of writing I'd like Mr. Rudderbust to read, and that's all I'll say. I've told you not to open it, and I trust you'll weigh that instruction exactly as seriously as it deserves."
 
 > [!qna]**Why not post it?**
 >
-> > "If it arrives with a name on it, Mr. Rudderbust will begin by wondering about the name, and so will everyone the piece concerns. I'd much prefer they all begin with the piece itself."
+> > "If it arrives with a name on it, Mr. Rudderbust will wonder about the name first, and so will everyone the piece concerns. I'd prefer they begin with the piece."
 
 > [!qna]**What do we get?**
 >
-> > "Eighty gold, divided among you however you like, paid here at this table two days after the piece has printed. You'll also have my gratitude, which I'm told is worth rather more than it sounds."
+> > "Eighty gold, divided however you like, paid here at this table two days after the piece prints. You'll also have my gratitude, which is worth more than it sounds."
 
 > [!qna]**What if someone catches us?**
 >
 > Nevercott adjusts the brim of his hat before he answers.
 >
-> > "Then you found a case in the street and wanted to return it to its owner's desk, which isn't a crime, and you've never met me. I'd also advise you not to be caught, because Mr. Rudderbust is a generous man with a description."
+> > "Then you found a case in the street and were returning it to its owner's desk, which isn't a crime, and you've never met me. Better still, don't be caught, because Mr. Rudderbust is a generous man with a description."
 
-If the party declines the job, Nevercott thanks the members, finishes his drink and leaves the case on the table, and the mission ends without Renown. If the party takes the case and has not delivered it within six days, Nevercott collects it from Trollskull Manor himself, thanks them without a trace of sarcasm, and the mission ends without Renown or outcomes. In either case, **Three Nights** is still gated at Renown 5, and the members make up the shortfall from the Earning Renown list on the Bregan D'aerthe Factions Guide page.
+The mission can end here:
+
+- **If the party declines,** Nevercott thanks the members, finishes his drink and leaves the case on the table. The mission ends without Renown.
+- **If the party takes the case but hasn't delivered it within six days,** Nevercott collects it from Trollskull Manor himself and thanks them politely. The mission ends without Renown or outcomes.
+- In either case, **Three Nights** is still gated at Renown 5. The members make up the shortfall from the Earning Renown list on the Bregan D'aerthe Factions Guide page.
 
 ### The Document
 
-The case is a leather folder with red wax over a plain paper fold. Nothing about it is magical, and anyone can lift the wax and press it back with a candle so that Gaxly sees nothing odd. The party can read it at any point before delivery.
+The case is a leather folder sealed with red wax over a plain paper fold. Nothing about it is magical. Anyone can lift the wax and press it back with a candle, and Gaxly will see nothing odd. The party can read it at any point before delivery.
 
 > [!exploration]**Reading the Exposé**
 >
-> Reading the piece takes about twenty minutes. It is headed "Devils at the Dinner Table", it runs to eleven pages in a small, tidy hand, and the paper is better than a gossip sheet can afford. It reads in part:
+> Reading the piece takes about twenty minutes. It is headed "Devils at the Dinner Table" and runs to eleven pages in a small, tidy hand, on better paper than a gossip sheet can afford. It reads in part:
 >
 > > "Your correspondent has it on good authority, by which is meant the word of three footmen and a wine merchant, that certain families of the Sea Ward and elsewhere pay court to devils on nights when the rest of the city is abed. The suppers that follow are said to be of a kind never served at the Palace, with guests who arrive in their finest and leave long after the servants have been sent home. Secret bargains are struck over the wine. A cellar somewhere off Aveen Street is mentioned by the footmen, and so is a windmill in the Southern Ward where lanterns burn on moonless nights. Forty or more of the city's best are alleged to attend, and several great houses much admired for their charity are named in the gossip, though not here. At least one is said to be too pleasant to be so rich."
 >
-> Any character who reads it and makes a successful DC 12 Intelligence (Investigation) check notices that the piece names no family, quotes no witness and gives every detail as something other people have said. Nearly any great house in the city could read it and wonder whether it was meant, and that seems to be the intention.
+> Any character who reads it and makes a successful DC 12 Intelligence (Investigation) check notices that the piece names no family, quotes no witness and gives every detail as something other people have said. Nearly any great house could read it and wonder whether it was meant. That is the intention.
 >
-> Any character who reads it and makes a successful DC 14 Wisdom (Insight) check determines that the writer enjoyed the work. The sentences were polished by someone who wanted them read aloud in taverns, and not by someone who wanted anyone arrested.
+> Any character who reads it and makes a successful DC 14 Wisdom (Insight) check determines that the writer enjoyed the work. The sentences are polished for reading aloud in taverns.
 >
-> A character who knows or suspects something about the Cassalanters, from rumor or from earlier play, recognizes the family in "too pleasant to be so rich" without a check. Nobody in the party can know that the family is hiding anything.
+> A character who already suspects the Cassalanters, from rumor or earlier play, recognizes them in "too pleasant to be so rich" without a check. Nobody in the party can know that the family is hiding anything.
 
 Mark **Exposé Read** for every member who reads the piece, using the member's name.
 
 ### The Wazoo Building
 
-The corner building at Immar Street and Stallion Street has three floors and three tenants. A candlemaker's shop with a street door and a counter fills the ground floor. The Wazoo has a single long room on the second floor, and a scrivener named Hovan Dree rents the third. A shared stair rises inside the street door beside the shop, and an exterior stair of weathered wood climbs the Stallion Street side to the second-floor landing, where it ends at the Wazoo's door.
+The corner building at Immar Street and Stallion Street has three floors and three tenants. A candlemaker's shop fills the ground floor, the Wazoo has one long room on the second, and a scrivener named Hovan Dree rents the third. A shared stair rises inside the street door beside the shop. An exterior stair of weathered wood climbs the Stallion Street side to the second-floor landing and the Wazoo's door.
 
 > [!gamemaster]**The Building and the Clock**
 >
-> **Lunch, noon until two bells.** The street door stands open, and Pennet, the candlemaker's apprentice, minds the counter facing it. Hovan Dree eats at his desk on the third floor with his door ajar. Gaxly goes out for lunch at a tavern on Stallion Street and comes back at two bells.
+> - **Lunch, noon until two bells.** The street door stands open, and Pennet, the candlemaker's apprentice, minds the counter facing it. Hovan Dree eats at his desk on the third floor with his door ajar. Gaxly lunches at a tavern on Stallion Street and returns at two bells.
+> - **After hours, from seven bells.** The shop is shuttered, Pennet sleeps in the room behind it, and the street door is barred from inside. The exterior stair is the only way up. Hovan Dree works late by candlelight with his door closed. Gaxly leaves for supper at seven bells and returns at nine bells to check the next day's proofs.
 >
-> **After hours, from seven bells.** The shop is shuttered, Pennet sleeps in the room behind it, and the street door is barred from the inside. The exterior stair is the only way up. Hovan Dree works late by candlelight and his door is closed. Gaxly leaves for supper at seven bells and returns at nine bells to check the next day's proofs.
+> The party has two hours either way:
 >
-> The party has two hours either way. Each failed attempt on the lock costs ten minutes, searching the desk costs ten minutes, and reading the exposé inside the office costs twenty. If the party is still in the room ninety minutes after it arrived, Gaxly walks in on it.
+> - Each failed attempt on the lock costs ten minutes.
+> - Searching the desk costs ten minutes.
+> - Reading the exposé inside the office costs twenty minutes.
+> - If the party is still in the room ninety minutes after it arrived, Gaxly walks in.
 
 If the party arrives for the lunch window, read the following aloud:
 
 > [!readaloud]
 >
-> Immar Street is busy with the midday crowd, and the corner building has a candlemaker's shop on its ground floor with the door propped open on the smell of tallow and beeswax. A girl of about fourteen stands at the counter with a ledger and a stub of pencil, and she looks up at every customer and every passerby with the same alert, bored expression. Beside the shop door a narrow entrance stands open on a stair, and above the windows a sign painted in red letters reads THE WATERDEEP WAZOO.
+> Immar Street is busy with the midday crowd. The candlemaker's shop on the corner has its door propped open on the smell of tallow and beeswax, and a girl of about fourteen stands at the counter with a ledger and a stub of pencil, looking up at every passerby. A narrow entrance beside the shop door opens on a stair, and above the windows a sign in red letters reads THE WATERDEEP WAZOO.
 
 If the party arrives after hours, read the following aloud:
 
 > [!readaloud]
 >
-> The lamps have been lit along Stallion Street, and the candlemaker's shutters on the corner building are closed, with a bar visible through the gap of the street door. An outside stair of gray wood climbs the side of the building to a landing on the second floor, where a small window glows faintly with the light of a candle one floor above it. Somewhere inside the shop a girl is humming to herself while she banks a fire.
+> The lamps are lit along Stallion Street and the candlemaker's shutters are closed, with a bar showing through the gap of the street door. An outside stair of gray wood climbs the side of the building to a landing on the second floor, and a candle burns in a window on the floor above it. Inside the shop a girl hums to herself while she banks a fire.
 
 ### Getting In
 
-The break-in has three steps, the stair, the door and the way out, with the desk waiting in between, and a failure at any of them costs the party something without ending the mission. The party can also skip the first two steps with a social or courier approach, and those alternatives cost something too. Mark **Wazoo Delivery Witnessed** whenever anyone sees a character's face on the premises, whether or not the party talks its way out of it.
+The break-in has three steps: the stair, the door and the way out, with the desk in between. A failure at any step costs the party something and doesn't end the mission. The party can skip the first two steps with a social or courier approach, which also has a cost. Mark **Wazoo Delivery Witnessed** whenever anyone sees a character's face on the premises, even if the party talks its way out of it.
 
 > [!exploration]**Step One: The Stair**
 >
@@ -138,18 +149,22 @@ The break-in has three steps, the stair, the door and the way out, with the desk
 > - **On a failure at lunch,** Pennet sees the party on the stair and calls up that Mr. Rudderbust is out at lunch and will not be back for an hour.
 > - **On a failure after hours,** the Watch patrol of two Guards stops at the foot of the stair and calls up to ask who is there.
 >
-> A failure is not the end. At lunch, a character who makes a successful DC 12 Charisma (Deception or Persuasion) check, or who pays 5 gp to Pennet, persuades her to let the party go on up. After hours, the same check persuades the Guards to take the party's names and let it climb, since the party can say that it is a late delivery. If the check fails, the witness raises the alarm, as described in **If Someone Raises the Alarm**.
+> A failure can be talked past:
+>
+> - **At lunch,** a successful DC 12 Charisma (Deception or Persuasion) check, or 5 gp paid to Pennet, persuades her to let the party go on up.
+> - **After hours,** the same check persuades the Guards to take the party's names and let it climb, since it can claim a late delivery.
+> - **If the check fails,** the witness raises the alarm. See **If Someone Raises the Alarm**.
 
 > [!exploration]**Step Two: The Door**
 >
 > The Wazoo's door is locked. A character who makes a successful DC 10 Dexterity check using thieves' tools opens it, and the party can try again after each failure. The spell *knock* opens it automatically.
 >
 > - **On a failure,** the attempt costs ten minutes and leaves scratches on the lock that Gaxly will notice later.
-> - **On a second failure in a row,** Hovan Dree hears the scraping on the landing. At lunch he comes down the stair with a half-eaten roll, and after hours he opens his door and looks over the rail. The party must hide, which takes a successful DC 12 Dexterity (Stealth) check, or explain itself, which takes a DC 13 Charisma (Deception) check and marks **Wazoo Delivery Witnessed**.
-> - ***Knock*** is loud. Its knock can be heard within 300 feet, and Hovan Dree comes to the stairhead exactly as he would after a second failure.
+> - **On a second failure in a row,** Hovan Dree hears the scraping on the landing. At lunch he comes down the stair with a half-eaten roll, and after hours he looks over the rail. The party must hide (DC 12 Dexterity (Stealth) check) or explain itself (DC 13 Charisma (Deception) check, which marks **Wazoo Delivery Witnessed**).
+> - ***Knock*** is loud. It can be heard within 300 feet, and Hovan Dree comes to the stairhead exactly as after a second failure.
 > - **A courier's approach** skips the lock. See **The Easy Ways Up**.
 >
-> Gaxly never learns that the door was opened unless the lock was scratched or the party was seen. A party that opened it cleanly and left no witnesses leaves nothing for him to find except the case.
+> Gaxly learns the door was opened only if the lock was scratched or the party was seen. A clean entry with no witnesses leaves nothing for him to find except the case.
 
 > [!exploration]**The Easy Ways Up**
 >
@@ -157,27 +172,27 @@ The break-in has three steps, the stair, the door and the way out, with the desk
 >
 > - **A direct request.** Any character who tells Hovan Dree that the party has a document for Mr. Rudderbust's desk and makes a successful DC 13 Charisma (Persuasion) check persuades him to unlock the door and wait in the doorway while the document is left. He remembers every face.
 > - **The delivery disguise.** For 2 sp a stall on Stallion Street sells a courier's cap, a satchel and a plain parcel wrapped in brown paper. A member in the cap who carries the case in the satchel and makes a successful DC 12 Charisma (Deception) check passes for a courier, and Pennet or Hovan Dree lets the party up and watches it leave the parcel on the desk. After hours, the same check works on the Guards, who then escort the courier to the landing.
-> - **What the easy ways cost.** Both approaches mark **Wazoo Delivery Witnessed**, and neither gives the party time to search the desk, because Hovan Dree stays on the landing until the party leaves. The party gains nothing from the Black Viper note and cannot choose where to leave the case.
+> - **What the easy ways cost.** Both approaches mark **Wazoo Delivery Witnessed**. Hovan Dree stays on the landing until the party leaves, so the party can't search the desk, find the Black Viper note, or choose where to leave the case.
 
 > [!hazard]**If Someone Raises the Alarm**
 >
-> At lunch the witness shouts for the Watch, and a patrol of two **Guards** arrives about five minutes later from the direction of Immar Street. After hours the patrol is already at the foot of the stair, and it acts at once. The Guards want an explanation and are not looking for a fight.
+> At lunch the witness shouts for the Watch, and a patrol of two **Guards** arrives about five minutes later from Immar Street. After hours the patrol is at the foot of the stair and acts at once. The Guards want an explanation, not a fight.
 >
 > The party can still choose:
 >
-> - **Leave at once.** The party goes down the stair or out the street door and reaches the corner of the street before the Guards can stop it, which takes no check if the party leaves the moment the shout goes up. The party can try again at the other window the next day. Pennet and Hovan Dree describe the party to Gaxly, and he fits a second bolt to his door, so that Step Two is DC 13.
+> - **Leave at once.** The party reaches the corner before the Guards can stop it, with no check if it leaves the moment the shout goes up. It can try again at the other window the next day. Pennet and Hovan Dree describe the party to Gaxly, who fits a second bolt to his door, so Step Two becomes DC 13.
 > - **Talk to the Guards.** A character who makes a successful DC 14 Charisma (Persuasion) check, as a courier with a legitimate delivery, persuades them to take names and send the party home. The case stays with the party.
 > - **If the party is inside the Wazoo when the Guards arrive,** they find the door open and the lock scratched if it was picked. They take names and leave, since nothing has been stolen, and Gaxly finds the scratches the next morning.
 >
-> In every case mark **Wazoo Delivery Witnessed**. No combat is intended, and a party that strikes a Guard has made a worse day for itself than any check in this mission could.
+> In every case mark **Wazoo Delivery Witnessed**. No combat is intended, and a party that strikes a Guard is in far worse trouble than any check here could cause.
 
 ### The Desk
 
-The office is a single long room that smells of fresh ink and cold coffee. Printed broadsheet pages hang to dry from strings stretched across the ceiling, and the desk at the far end is buried in letters, proofs and cold cups. The party needs to put the case somewhere on it and get out.
+The party needs to put the case on the desk at the far end of the office and get out.
 
 > [!readaloud]
 >
-> A long narrow room runs the width of the building, lit only by the window over the street, with damp broadsheet pages hanging from strings across the ceiling like laundry. At the far end a battered desk lies buried under stacks of letters, proof sheets and a cup of coffee gone cold, and a half-finished front page is pinned to a board with a headline that reads BLACK VIPER RETURNS?
+> A long narrow room runs the width of the building, lit by the window over the street. Damp broadsheet pages hang from strings across the ceiling like laundry, and the room smells of fresh ink and cold coffee. At the far end a battered desk is buried under letters, proof sheets and a cold cup, and a half-finished front page pinned to a board reads BLACK VIPER RETURNS?
 
 > [!exploration]**The Desk**
 >
@@ -192,28 +207,36 @@ The office is a single long room that smells of fresh ink and cold coffee. Print
 >
 > Mark **Black Viper Source Noted** if a member finds it. A party that searches the desk also finds the unpaid bills Gaxly keeps there, which explain why he will print almost anything.
 >
-> If Gaxly walks in while the party is in the room, he is surprised and curious and not hostile. A successful DC 13 Charisma (Deception) check as couriers with a parcel convinces him, and he takes the case with a cheerful "Leave it with me, then", reads it in front of them, and sees the party's faces. Mark **Wazoo Delivery Witnessed**. A party that fails the check can run, and Gaxly lets them go, since he cannot imagine what they could have stolen.
+> If Gaxly walks in while the party is in the room, he is surprised and curious, not hostile.
+>
+> - **On a successful DC 13 Charisma (Deception) check** as couriers with a parcel, he takes the case with a cheerful "Leave it with me, then" and reads it in front of them. He sees the party's faces, so mark **Wazoo Delivery Witnessed**.
+> - **On a failure,** the party can run. Gaxly lets them go, since he can't imagine what they could have stolen.
 
 > [!exploration]**Step Three: The Way Out**
 >
-> The second DC 15 Dexterity (Stealth) check covers the way out, and it is the same stair in reverse. The leader makes it to descend past the same witness without being noticed.
+> The leader makes a second DC 15 Dexterity (Stealth) check to go back down the same stair past the same witness.
 >
 > - **On a success,** the party leaves unseen. Unless a witness saw the party earlier, **Wazoo Delivery Witnessed** is not marked.
-> - **On a failure,** the leader brushes a string of drying broadsheets and sends the whole line fluttering to the floor with a soft slap. At lunch Pennet comes to look at the landing, and after hours Hovan Dree opens his door. Either one sees the party, and the same social options and the same consequences as in Step One apply, including **If Someone Raises the Alarm**.
+> - **On a failure,** the leader brushes a string of drying broadsheets and sends the line fluttering to the floor. At lunch Pennet comes to look at the landing, and after hours Hovan Dree opens his door. Either one sees the party. The social options and consequences from Step One apply, including **If Someone Raises the Alarm**.
 
 ### After Publication
 
-The case is on the desk, and the party's part is done. What follows plays out whether or not the party is watching. Day F is the day Gaxly finds the case.
+The party's part is done once the case is on the desk. What follows happens whether or not the party watches. Day F is the day Gaxly finds the case.
 
 On the second morning after day F, *The Waterdeep Wazoo* prints the piece as its front page. Anyone who buys a copy at a stall for 1 cp or hears one read aloud in a tavern learns what it says.
 
 > [!readaloud]
 >
-> A boy at the corner of Stallion Street waves a fresh sheet over his head and shouts the headline to everyone who passes. The front page is crowded with large black type over three columns, and beneath the heading *Devils at the Dinner Table*, a smaller line announces that the Waterdeep Wazoo has the story other papers were afraid to print. The boy sells out of copies faster than he can make change.
+> A boy at the corner of Stallion Street waves a fresh sheet over his head and shouts the headline at everyone who passes. The front page is three columns of large black type, and beneath the heading *Devils at the Dinner Table* a smaller line announces that the Waterdeep Wazoo has the story other papers were afraid to print. The boy sells out of copies before he can make change.
 
 > [!gamemaster]**What the City Says**
 >
-> For the next tenday the city argues about which family the piece meant. In the Yawning Portal and in Trollskull Manor the regulars offer five or six houses between them, laugh at most of them and settle on none. A mason says it must be the family that gives so much to the poor, and a baker answers that three hospices have been built by that family, so it can't be. Someone suggests the family that is too pleasant to be so rich, and nobody can agree on who that is. The Cassalanters come up twice and are dismissed both times, and a party that knows them from play may notice that the dismissals are a little too eager.
+> For the next tenday the city argues about which family the piece meant.
+>
+> - In the Yawning Portal and Trollskull Manor the regulars offer five or six houses between them and settle on none.
+> - A mason says it must be the family that gives so much to the poor. A baker answers that the family built three hospices, so it can't be.
+> - Someone suggests the family that is "too pleasant to be so rich", and nobody agrees who that is.
+> - The Cassalanters come up twice and are dismissed both times. A party that knows them from play may notice the dismissals are a little too eager.
 >
 > A card is waiting at Trollskull Manor that morning for each Bregan D'aerthe member, with the black ship on it and one line of handwriting:
 >
@@ -223,7 +246,7 @@ The next morning at ten bells, two men arrive at the corner building.
 
 > [!readaloud]
 >
-> Two men in dark, well-cut coats walk up Stallion Street together, the taller of them carrying a leather satchel under his arm as though it held something important. Neither looks at the candlemaker's shop or at the apprentice in its doorway, and they climb the exterior stair to the Wazoo's door without hesitation. Through the open window above you hear the publisher's voice rise, then the taller man's, level and polite, and for about twenty minutes the conversation continues without any shouting.
+> Two men in dark, well-cut coats walk up Stallion Street together, the taller carrying a leather satchel. Neither looks at the candlemaker's shop or the apprentice in its doorway, and they climb the exterior stair to the Wazoo's door. Through the open window above you hear the publisher's voice rise, then the taller man's, level and polite, and for about twenty minutes the talk continues without shouting.
 >
 > When they come down, the shorter man is pocketing something, and the two walk to a plain black carriage waiting on the corner. The coachman wears a gray coat and no badge, and the door of the carriage bears a pale patch where something has been painted over.
 
@@ -239,7 +262,7 @@ The next morning at ten bells, two men arrive at the corner building.
 >
 > - **The carriage.** Any character who makes a successful DC 13 Wisdom (Perception) check notices that the coachman wears no livery, that a painted crest on the door has been covered, and that the horses are better than those a firm of solicitors would own.
 > - **The card.** Any character who asks around among Castle Ward clerks and makes a successful DC 12 Intelligence (Investigation) check learns that no firm named Harrow & Pell is registered in the Sea Ward or anywhere else in the city.
-> - **The tail.** A character who follows the carriage and makes a successful DC 14 Dexterity (Stealth) check stays on it as far as the Sea Ward before the carriage disappears into traffic between the great houses. On a failure, the coachman turns twice and the carriage is gone. Nothing the party sees proves which house sent the men. The most it proves is that someone with money and a reason to be careful read the piece.
+> - **The tail.** A character who follows the carriage and makes a successful DC 14 Dexterity (Stealth) check stays on it as far as the Sea Ward before the carriage disappears into traffic between the great houses. On a failure, the coachman turns twice and the carriage is gone. Nothing here proves which house sent the men, only that someone with money and a reason for care read the piece.
 
 Gaxly is in a mood to talk after the visit. Any member who climbs to the Wazoo that day or the next finds him in the office with the card in his hand.
 
@@ -247,7 +270,7 @@ Gaxly is in a mood to talk after the visit. Any member who climbs to the Wazoo t
 >
 > Gaxly Rudderbust (Neutral, Illuskan Human, he/him) :: the publisher of *The Waterdeep Wazoo*, a professionally untidy man of forty who has just discovered that being right can be expensive.
 >
-> Gaxly is ink-stained to the elbows, rumpled and clearly pleased with the success of his front page and unhappy about the visitors. He likes an audience and talks with relish about anything he has published. He has no idea who left the case, and he says so every way he can. A DC 12 Charisma (Intimidation or Persuasion) check, or 50 gp, loosens his tongue on anything he withholds. Any character who watches him and makes a successful DC 10 Wisdom (Insight) check determines that he is telling the truth about the sender.
+> Gaxly is ink-stained to the elbows and rumpled, pleased with his front page and unhappy about the visitors. He likes an audience and talks with relish about anything he has published. He has no idea who left the case and says so at every turn. A DC 12 Charisma (Intimidation or Persuasion) check, or 50 gp, loosens his tongue on anything he withholds. Any character who watches him and makes a successful DC 10 Wisdom (Insight) check determines that he is telling the truth about the sender.
 >
 > If **Wazoo Delivery Witnessed** is marked, he has a description from Pennet or Hovan Dree and recognizes the party, and he tells the solicitors so if they ask again.
 >
@@ -260,39 +283,39 @@ Gaxly is in a mood to talk after the visit. Any member who climbs to the Wazoo t
 
 > [!qna]**Who left it?**
 >
-> > "I wish I knew, because I'd hire whoever it was, and I couldn't afford them. There was a sealed case on my desk with no name, no mark and not even a smell of cologne, and I printed what was in it. I don't protect that source, because I don't have one."
+> > "I wish I knew, because I'd hire them if I could afford it. There was a sealed case on my desk with no name and no mark, and I printed what was in it. I'm not protecting a source, because I don't have one."
 
 > [!qna]**Did you check it?**
 >
-> > "I checked everything that could be checked, which wasn't much, so I printed it as rumor and let the readers decide. Nobody can sue a man for saying what footmen say, though I'm told that hasn't stopped anyone from trying."
+> > "I checked what could be checked, which wasn't much, so I printed it as rumor and let the readers decide. Nobody can sue a man for repeating what footmen say, though I'm told that hasn't stopped anyone trying."
 
 > [!qna]**Who were the two men?**
 >
 > Gaxly holds up the card between two fingers.
 >
-> > "Solicitors, they said, for a client who prefers not to be named, which in my experience means a client with something to hide. They wanted my source, and I told them the same thing I've told you. They didn't believe me, and I'm sure they'll be back."
+> > "Solicitors, they said, for a client who prefers not to be named, which in my experience means a client with something to hide. They wanted my source, and I told them what I've told you. They didn't believe me, and they'll be back."
 
 > [!qna]**Any trouble since?**
 >
-> > "A little, which is why I'm talking to you. My paper supplier says my standing order has been mislaid, my landlord has discovered a clause about noise, and half the proofs I left on the desk got wet from a window I know I closed. It's all small and none of it adds up, so I can't complain about it to anyone."
+> > "A little, which is why I'm talking to you. My paper supplier says my standing order has been mislaid, my landlord has found a clause about noise, and half the proofs on my desk got wet from a window I know I closed. It's all small and none of it adds up, so I can't complain to anyone."
 
 > [!gamemaster]**The Wazoo's Small Troubles**
 >
-> For the next tenday, small mishaps follow Gaxly with no apparent cause: a paper order lost, a rent notice, a wet stack of proofs, a printer who suddenly has no free days. They do not stop the Wazoo and they do not prove anything. They show that someone is pressing, and a member who mentions them to Nevercott at the Portal sees him write nothing down.
+> For the next tenday, small mishaps follow Gaxly with no apparent cause: a lost paper order, a rent notice, a wet stack of proofs, a printer with no free days. They don't stop the Wazoo and they prove nothing, but they show that someone is pressing. A member who mentions them to Nevercott at the Portal sees him write nothing down.
 
 ### The Payment at the Portal
 
-Two days after the piece prints, Nevercott is at the same corner table at seven bells. He is in no hurry, he has ordered for everyone, and the first thing on the table is a stack of eighty gold pieces.
+Two days after the piece prints, Nevercott is at the same corner table at seven bells. He has ordered for everyone, and a stack of eighty gold pieces sits beside his plate.
 
 > [!readaloud]
 >
-> The same corner table near the fire is laid for a meal when you arrive, with Nevercott already seated and a heap of gold coins stacked neatly beside his plate. He rises to greet each of you in turn and touches the brim of his hat to every one.
+> The corner table near the fire is laid for a meal, and Nevercott sits there with a stack of gold coins beside his plate. He rises to greet each of you in turn and touches the brim of his hat.
 >
-> > "My friends, sit down, and I hope the stew is as good as I was promised. Mr. Rudderbust's front page was a delight, and I'm told he sold out twice. Before we turn to anything else, I'd like to ask you something, and I hope you'll be honest. Did you find it informative?"
+> > "My friends, sit down, and I hope the stew is as good as I was promised. Mr. Rudderbust's front page was a delight, and I'm told he sold out twice. Before anything else, I'd like to ask you something, and I hope you'll be honest. Did you find it informative?"
 
 > [!social]**The Haberdasher and the Reading**
 >
-> Nevercott pays the 80 gp at once and stays for about twenty minutes. He asks how the members are finding Waterdeep, whom they have met and what they have seen, and he wants the real answers. He tips the serving girl well on the way out. He asks one question about the exposé and never asks what the party means to do with what it learned. The branches below depend on what the members did.
+> Nevercott pays the 80 gp at once and stays about twenty minutes. He asks how the members are finding Waterdeep, whom they've met and what they've seen, and wants the real answers. He asks one question about the exposé and never asks what the party means to do with what it learned. He tips the serving girl well on his way out. The branches below depend on what the members did.
 >
 > Conversation topics Nevercott is willing to discuss include:
 >
@@ -304,13 +327,13 @@ Two days after the piece prints, Nevercott is at the same corner table at seven 
 >
 > A smile spreads slowly across his face.
 >
-> > "I assumed you would, and I'm very glad of it. So you can tell me what I most want to know, which is whether it brought anyone to mind."
+> > "I assumed you would, and I'm glad of it. Then you can tell me what I most want to know, which is whether it brought anyone to mind."
 
 If a member who marked **Exposé Read** tells Nevercott which family or families they think the piece describes, award the bonus, and have him respond:
 
 > [!qna]**It brought a family to mind.**
 >
-> > "Did it? That's interesting, and thank you for saying so plainly. The piece names nobody, so I'd rather not say whether you're right, but I find that people's guesses are rather more useful than their answers."
+> > "Did it? That's interesting, and thank you for saying so plainly. The piece names nobody, so I won't say whether you're right, but I find people's guesses more useful than their answers."
 
 If no member read the exposé, Nevercott says only "Then you have more self-control than I do" and does not press.
 
@@ -348,7 +371,7 @@ The payment ends the mission. Nevercott pays the members and leaves by the stree
 
 ### Aftermath
 
-*The Waterdeep Wazoo* sells out, and the city argues for a tenday about which house was meant. Gaxly Rudderbust deals with small, unexplained troubles for the same tenday and does not stop publishing. Nevercott keeps whatever he learned from the Cassalanters' reaction, and what he already knew, to himself, and a few days after the payment Krebbyg asks the members to the Seven Masks.
+*The Waterdeep Wazoo* sells out, and the city argues for a tenday about which house was meant. Gaxly Rudderbust deals with small, unexplained troubles for the same tenday and does not stop publishing. Nevercott keeps what he learned from the Cassalanters' reaction, and what he already knew, to himself. A few days after the payment, Krebbyg asks the members to the Seven Masks.
 
 ### Concluding the Event
 
