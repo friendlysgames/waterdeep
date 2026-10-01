@@ -18,33 +18,33 @@ On the evening of Ches 20, J.B. Nevercott calls at Trollskull Manor with a hat b
 
 ## Background
 
-Bregan D'aerthe uses couriers whom nobody would think to follow, and one of them is Vessin, a tiefling girl of about eleven who lives in a crate at the corner of Net Street and Dock Street and keeps a book of everything she sees. This morning a Faire performer pinned a perfumed silk handkerchief into the breast pocket of Maester Roderick Bartlethorpe at the Fleetswake flower stalls, and the cloth carries a message in a scent language that only the company's couriers can read. The message arranges a meeting between two of the company's agents.
+Bregan D'aerthe uses couriers nobody would think to follow. One of them is Vessin, a tiefling girl of about eleven who lives in a crate at the corner of Net Street and Dock Street and keeps a book of everything she sees. This morning a Faire performer pinned a perfumed silk handkerchief into the breast pocket of Maester Roderick Bartlethorpe at the Fleetswake flower stalls. The cloth carries a message in a scent language that only the company's couriers can read, and the message arranges a meeting between two of the company's agents.
 
-Bartlethorpe is a Castle Ward clerk who has stood in the same place for every public event for twenty years, which makes him a dependable dead drop. The performer who left the cloth cannot be seen anywhere near Vessin, so Nevercott, who is Jarlaxle Baenre in a *hat of disguise*, sends new members to collect it. He also wants to see whether they can do a small, odd job without making a scene, and whether they open a thing they were told to leave alone.
+Bartlethorpe is a Castle Ward clerk who has stood in the same place for every public event for twenty years, which makes him a dependable dead drop. The performer cannot be seen near Vessin, so Nevercott, who is Jarlaxle Baenre in a *hat of disguise*, sends new members to collect the cloth. He also wants to see whether they can do a small, odd job without making a scene, and whether they open a thing they were told to leave alone.
 
 ## The Brief
 
-Nevercott gives the members the job at dusk on Ches 20, standing, with his hat on and the hat box under his arm. He tells them who to find, where the man will be, where to take the cloth and when, and his only instruction is that the handkerchief is not to be opened. He sends the companions out of the room before he says any of it.
+Nevercott gives the members the job at dusk on Ches 20, standing, with his hat on and the hat box under his arm. He sends the companions out of the room first. He then tells the members who to find, where the man will be, where to take the cloth and when, and his only instruction is that the handkerchief is not to be opened.
 
 ## The Great Drunkard
 
-Bartlethorpe stands at the foot of the stair that climbs the Great Drunkard, a giant stone figure on Bazaar Street with a tavern in its lap. The parade crowd packs the street three deep, and the party chooses between pushing through it, watching from a window in the tavern, or coming at him from behind the statue.
+Bartlethorpe stands at the foot of the stair that climbs the Great Drunkard, a giant stone figure on Bazaar Street with a tavern in its lap. The parade crowd packs the street three deep. The party can push through the crowd, watch from a window in the tavern, or come at him from behind the statue.
 
 ## Taking the Handkerchief
 
-The party can lift the handkerchief by sleight of hand or talk Bartlethorpe out of it, and each way has its own failure. A failed attempt leaves him offended, a second failure raises an alarm, and an alarm brings a Watch constable through the crowd. The party can slip away, talk its way free or accept being held at the Watch post for an hour and a half.
+The party can lift the handkerchief by sleight of hand or talk Bartlethorpe out of it, and each way has its own failure. A failed attempt leaves him offended, and a second failure raises an alarm that brings a Watch constable through the crowd. The party can slip away, talk its way free or accept being held at the Watch post for an hour and a half.
 
 ## The Nimblewright on High Road
 
-The party crosses the city against the flow of the procession and passes the Sea Maidens Faire's section on the High Road. A nimblewright performs on a raised platform there, and its small hat falls off during a somersault and is not retrieved. Fireball! reads what the party noticed.
+The party crosses the city against the flow of the procession and passes the Sea Maidens Faire's section on the High Road. A nimblewright performs there on a raised platform, and its small hat falls off during a somersault and is not retrieved. Fireball! reads what the party noticed.
 
 ## Net Street and Dock Street
 
-Vessin takes the cloth without unfolding it, says "He said you'd come today", and tucks it into her book. The party has held the handkerchief for an hour on the walk to the wharves, and one character with a keen nose or *detect magic* can learn that it carries a scent-coded message.
+Vessin takes the cloth without unfolding it, says "He said you'd come today", and tucks it into her book. The party holds the handkerchief for an hour on the walk to the wharves, and one character with a keen nose or *detect magic* can learn that it carries a scent-coded message.
 
 ## Renown Opportunities
 
-Each participating Bregan D'aerthe member gains 2 base Renown for delivering the handkerchief to Vessin. Bonuses of +1 each go to members who take it without raising an alarm, who put it in Vessin's hands by 14:00, and who read the scent code and say so to Nevercott.
+Each participating Bregan D'aerthe member gains 2 base Renown for delivering the handkerchief to Vessin. Members earn +1 each for taking it without raising an alarm, for putting it in Vessin's hands by 14:00, and for reading the scent code and saying so to Nevercott.
 
 ## Aftermath
 

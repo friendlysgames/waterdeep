@@ -13,46 +13,55 @@
 >
 > Only Bregan D'aerthe members attend Nevercott's brief and debrief. Companions can help with every other part of the mission and gain no Renown. Nobody in this Event says the name Jarlaxle in speech or readaloud unless **Jarlaxle Unmasked** is marked for that member, and Nevercott speaks of "the people I work for".
 >
-> The Event is fixed to Ches 21, the first day of Fleetswake, and it runs alongside **The Twin Parades** in **Trollskull Alley**. If a member joins Bregan D'aerthe too late to take the brief on Ches 20, Nevercott sets the job for the next market morning at the same spot instead. Bartlethorpe stands by the Great Drunkard for every public event, but there is no nimblewright and no parade crowd, and **Nimblewright Noticed** cannot be marked from this Event.
+> The Event is fixed to Ches 21, the first day of Fleetswake, and it runs alongside **The Twin Parades** in **Trollskull Alley**.
+>
+> - If a member joins Bregan D'aerthe too late to take the brief on Ches 20, Nevercott sets the job for the next market morning at the same spot.
+> - Bartlethorpe stands by the Great Drunkard for every public event, but on that day there is no nimblewright and no parade crowd, and **Nimblewright Noticed** cannot be marked from this Event.
 
 > [!gamemaster]**What Is Actually True**
 >
 > J.B. Nevercott is Jarlaxle Baenre in a *hat of disguise*, and the people he works for are Bregan D'aerthe. The handkerchief carries a message in a scent language that only Bregan D'aerthe's couriers can read, and the message arranges a meeting between two agents of the company. Neither agent appears in this mission, and the party never learns who they are.
 >
-> A Faire performer pinned the handkerchief into Bartlethorpe's pocket at the Fleetswake flower stalls this morning, and told him it was for luck at the parade. Bartlethorpe is a perfect dead drop because nobody searches a clerk who has stood on the same spot at every parade for twenty years. The agent who placed it cannot be seen anywhere near Vessin, so Nevercott hires strangers to do the carrying.
+> A Faire performer pinned the handkerchief into Bartlethorpe's pocket at the Fleetswake flower stalls this morning and told him it was for luck at the parade. Nobody searches a clerk who has stood on the same spot at every parade for twenty years, so he makes a good dead drop. The agent who placed it cannot be seen near Vessin, so Nevercott hires strangers to carry it.
 >
-> The mission is also a test. Nevercott wants to learn whether new members can do a small, odd job without making a scene, whether they follow an instruction that has no reason attached, and whether they tell him the truth about breaking it. Vessin keeps a book in which she writes down everything she sees, and she tells Nevercott whatever the party says or does in front of her.
+> The mission is also a test. Nevercott wants to learn three things about new members:
+>
+> - Whether they can do a small, odd job without making a scene.
+> - Whether they follow an instruction that has no reason attached.
+> - Whether they tell him the truth if they break it.
+>
+> Vessin keeps a book in which she writes down everything she sees, and she tells Nevercott whatever the party says or does in front of her.
 
 > [!gamemaster]**The Day at a Glance**
 >
-> The times below are the times at which the world moves, so the GM can run the day without a clock.
+> Use these times to run the day without a clock.
 >
 > - **10:30:** Bartlethorpe takes his place by the Great Drunkard and stays there until the procession reaches the Market.
 > - **11:30:** The head of the land procession reaches Bazaar Street. The floats pass the Great Drunkard for the next hour.
 > - **12:30:** The Sea Maidens Faire's section, with its nimblewright, climbs the High Road toward Bazaar Street.
 > - **13:30:** The procession enters the Market and Bartlethorpe walks home to the Castle Ward.
-> - **14:00:** Vessin needs the handkerchief by now. The walk from Bazaar Street to Net Street and Dock Street takes about an hour and a quarter through the crowd, so the lift has to happen by 12:45 to arrive on time.
+> - **14:00:** Vessin needs the handkerchief by now. The walk from Bazaar Street to Net Street and Dock Street takes about an hour and a quarter, so the lift has to happen by 12:45.
 > - **Dusk:** Vessin stays at her crate until sunset, and Nevercott waits for the party at Trollskull Manor.
 
 ### The Brief
 
-Nevercott calls at Trollskull Manor at dusk on Ches 20, and he asks the members to stay while any companions leave the room. He briefs the members only, and he does not say a word about the job until the door has closed behind the last companion.
+Nevercott calls at Trollskull Manor at dusk on Ches 20 and asks any companions to leave the room. He briefs the members only, and he says nothing about the job until the door has closed behind the last companion.
 
 > [!readaloud]
 >
-> The knock comes at dusk, three light raps on the manor's front door, and when you open it J.B. Nevercott is standing on the step in his burgundy coat with his hat box under one arm. He looks along the alley in both directions, steps inside as soon as you make room, and sets a small white card on the nearest table before he takes a chair.
+> Three light raps sound on the manor's front door at dusk. When you open it, J.B. Nevercott is standing on the step in his burgundy coat with a hat box under one arm, and he glances along the alley before he steps inside. He sets a small white card on the nearest table and takes a chair.
 >
-> > "Good evening. Tomorrow is the first day of Fleetswake, and half the city will be standing in the streets from first light to watch the parades go by, which is the best cover anyone in my line of work is ever offered. There's a gentleman I'd like you to relieve of a handkerchief."
+> > "Good evening. Tomorrow is the first day of Fleetswake, and half the city will be in the streets watching the parades, which is the best cover a man in my line of work ever gets. There's a gentleman I'd like you to relieve of a handkerchief."
 >
 > He taps the card with one gloved finger and reads it out to you.
 >
-> > "Maester Roderick Bartlethorpe, a minor clerk in the Castle Ward's offices. He attends every public event and stands in the same place for every parade, which tomorrow means the south side of Bazaar Street, in the shadow of the Great Drunkard. The handkerchief is silk and smells of bergamot, and you'll find it in his left breast pocket."
+> > "Maester Roderick Bartlethorpe, a minor clerk in the Castle Ward's offices. He stands in the same place for every parade, which tomorrow is the south side of Bazaar Street, in the shadow of the Great Drunkard. The handkerchief is silk and smells of bergamot, and it's in his left breast pocket."
 >
-> He produces a second card from his coat and lays it beside the first.
+> He lays a second card beside the first.
 >
 > > "Take it to a girl named Vessin, who lives in a crate at the corner of Net Street and Dock Street. You'll know the crate by the little sun carved into its left panel, and she needs the cloth in her hands by two in the afternoon."
 >
-> Nevercott stands, settles his hat on his head, and picks up the hat box before he speaks again.
+> Nevercott stands, settles his hat on his head, and picks up the hat box.
 >
 > > "Do not open the handkerchief."
 
@@ -60,7 +69,7 @@ Nevercott calls at Trollskull Manor at dusk on Ches 20, and he asks the members 
 >
 > J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: Bregan D'aerthe's contact with the party, whose real face belongs to the company's master.
 >
-> Nevercott is courteous, unhurried and precisely informed, and he hands over a slightly improper job as if it were an ordinary business favour. He has already decided what the party is for, and he spends the briefing watching how its members ask questions. He is pleased by anyone who starts talking about how to get close to Bartlethorpe, and he answers a question about the reason for the job with less than the whole truth and a polite smile.
+> Nevercott is courteous, unhurried and precisely informed, and he hands over a slightly improper job as if it were an ordinary business favour. He spends the briefing watching how the members ask questions, and he is pleased by anyone who starts planning how to get close to Bartlethorpe. If asked the reason for the job, he gives less than the whole truth and a polite smile.
 >
 > Conversation topics Nevercott is willing to discuss include:
 >
@@ -69,53 +78,64 @@ Nevercott calls at Trollskull Manor at dusk on Ches 20, and he asks the members 
 > - Why he cannot do the job himself.
 > - What the party gets for doing it.
 >
-> Any character who watches him while the party plans and makes a successful DC 14 Wisdom (Insight) check notices that he is far more interested in how the members decide things than in what they decide. On a result of 17 or higher, the character also concludes that the job matters less to him than the way it is done.
+> Any character who watches him while the party plans and makes a successful DC 14 Wisdom (Insight) check notices that he cares more about how the members decide things than about what they decide. On a result of 17 or higher, the character also concludes that the job matters less to him than the way it is done.
 
 > [!qna]**Why not do it yourself?**
 >
-> > "Because a haberdasher loitering beside a Castle Ward clerk would be remembered, and two strangers in a crowd will not be. I'd also like to know what sort of people you are when the plan stops being tidy, and tomorrow will tell me that."
+> > "Because a haberdasher loitering beside a Castle Ward clerk would be remembered, and two strangers in a crowd won't be. I'd also like to see what sort of people you are when the plan stops being tidy."
 
 > [!qna]**What's in the handkerchief?**
 >
-> > "It's a piece of silk that somebody needs to have in her hands by two o'clock. I'd be grateful if you didn't unfold it to find out what else it is."
+> > "It's a piece of silk that somebody needs to have in her hands by two o'clock. I'd be grateful if you didn't unfold it to find out more."
 
 > [!qna]**Who is the girl?**
 >
-> > "Her name is Vessin, and she's about eleven years old. She lives in that crate because she likes it, as far as I know, and I haven't asked her to explain. Be kind to her, and please don't question her about her work."
+> > "Her name is Vessin, and she's about eleven. She lives in that crate because she likes it, as far as I know. Be kind to her, and please don't question her about her work."
 
 > [!qna]**What if he catches us?**
 >
-> > "Then you'll be two strangers who jostled a clerk on a festival day, which the Watch will forget by supper. Please don't fight him, though. A Castle Ward man who's struck in front of that many people brings the whole parade down on you, and I won't be there to talk the constables round."
+> > "Then you're two strangers who jostled a clerk on a festival day, and the Watch will forget it by supper. Please don't fight him, though. If you strike a Castle Ward man in front of that crowd, the whole parade comes down on you, and I won't be there to talk the constables round."
 
 > [!qna]**What do we get?**
 >
-> > "Standing with the people I work for, to begin with, and they notice who has been useful. I can't tell you how much, since they decide that for themselves, but they're usually quick about it."
+> > "Standing with the people I work for, to begin with, and they notice who has been useful. I can't say how much, since they decide that themselves, but they're usually quick about it."
 
 Once the members have finished, Nevercott leaves by the front door and does not look back. Proceed to **The Great Drunkard**.
 
 ### The Great Drunkard
 
-Bazaar Street lies along the route of the land procession, and on Ches 21 the parade crowd stands three deep on both sides. The Great Drunkard is a stone giant that stopped walking when it reached the Market, fell backward onto a building and sat there, and a two-story tavern called Gralkyn's Tankard now fills its lap. A broad stair with railings and a ramp climbs from the cobbles to the tavern door, and the giant's enormous battleaxe stands upright in the paving beside it. Bartlethorpe is at the foot of the stair, as he is every year.
+Bazaar Street lies along the route of the land procession, and on Ches 21 the parade crowd stands three deep on both sides. The Great Drunkard is a stone giant that stopped walking when it reached the Market, fell backward onto a building and sat there. A two-story tavern called Gralkyn's Tankard now fills its lap, a broad stair with railings and a ramp climbs from the cobbles to the tavern door, and the giant's enormous battleaxe stands upright in the paving beside it. Bartlethorpe is at the foot of the stair, as he is every year.
 
 > [!readaloud]
 >
-> The Great Drunkard sprawls across the head of Bazaar Street with its chin on its chest, and the crowd packs the south side of the road so tightly that children have climbed onto the railings of the broad stair to see over the heads in front of them. Paper streamers hang from the haft of the huge stone battleaxe that stands in the cobbles, and drums are thumping somewhere down the High Road. Near the foot of the stair, a compact man of about fifty in a good wool coat stands with his hands clasped behind his back, watching the empty street with the grave attention of someone who considers it his duty. Each time the crowd shifts, you catch a faint smell of bergamot.
+> The Great Drunkard sprawls across the head of Bazaar Street with its chin on its chest. The crowd packs the south side of the road, and children have climbed the railings of the broad stair to see over the heads in front of them. Paper streamers hang from the haft of the huge stone battleaxe, and drums thump somewhere down the High Road.
+>
+> Near the foot of the stair, a compact man of about fifty in a good wool coat stands with his hands clasped behind his back, watching the empty street. Each time the crowd shifts, you catch a faint smell of bergamot.
 
-Bartlethorpe is the only man near the statue who smells of bergamot, so any character within ten feet identifies him without a check. Characters who want to reach him have three routes, and each one has a cost if it goes wrong.
+Bartlethorpe is the only man near the statue who smells of bergamot, so any character within ten feet identifies him without a check. There are three routes to him, and each has a cost if it goes wrong.
 
 > [!exploration]**Reaching Bartlethorpe**
 >
-> **Through the crowd.** Any character who leads the party along the south side of the road and makes a successful DC 11 Strength (Athletics) or Dexterity (Acrobatics) check gets everyone to the foot of the stair without a fuss. On a failure, the character knocks a pie seller's tray into the street, the crowd turns to look, and Bartlethorpe glances over his shoulder before he goes back to the parade. Every attempt to take the handkerchief from him in the next ten minutes has Disadvantage.
+> **Through the crowd.** Any character who leads the party along the south side of the road and makes a successful DC 11 Strength (Athletics) or Dexterity (Acrobatics) check gets everyone to the foot of the stair without a fuss.
 >
-> **From Gralkyn's Tankard.** A window table in the tavern costs 1 gp in tips to the server, and it looks straight down on Bartlethorpe's spot. Any character who watches him for a quarter of an hour learns without a check that he pats his left breast pocket each time a float passes, and that the people around him look up at the float when it does. The stair and its ramp lead straight down to his side, so the party reaches him without a check, and a lift attempted while a float is passing has Advantage.
+> - **Failure:** the character knocks a pie seller's tray into the street, the crowd turns to look, and Bartlethorpe glances over his shoulder before he goes back to the parade. Every attempt to take the handkerchief in the next ten minutes has Disadvantage.
 >
-> **Behind the statue.** The courtyard behind the Great Drunkard is quieter, and the party can come at Bartlethorpe's left side from there. Any character who leads the way and makes a successful DC 12 Dexterity (Stealth) check arrives at his elbow without his noticing, and a lift attempted from that side has Advantage. On a failure, he turns and looks the character over, and the party must try the crowd or the tavern instead.
+> **From Gralkyn's Tankard.** A window table in the tavern costs 1 gp in tips to the server, and it looks straight down on Bartlethorpe's spot.
+>
+> - Any character who watches him for a quarter of an hour learns without a check that he pats his left breast pocket each time a float passes, and that the people around him look up at the float when it does.
+> - The stair and its ramp lead straight down to his side, so the party reaches him without a check.
+> - A lift attempted while a float is passing has Advantage.
+>
+> **Behind the statue.** The courtyard behind the Great Drunkard is quieter, and the party can come at Bartlethorpe's left side from there. Any character who leads the way and makes a successful DC 12 Dexterity (Stealth) check arrives at his elbow without his noticing.
+>
+> - **Success:** a lift attempted from that side has Advantage.
+> - **Failure:** he turns and looks the character over, and the party must try the crowd or the tavern instead.
 
 > [!social]**The Dutiful Clerk**
 >
 > Maester Roderick Bartlethorpe (Lawful Neutral, Human, he/him) :: a self-satisfied Castle Ward clerk who treats attendance at public events as a civic obligation.
 >
-> Bartlethorpe is fond of explaining things and fonder of being asked. He talks to strangers readily when they ask about the parade, and he becomes warmer if anyone praises the Castle Ward's offices. He is used to polite deference and he reacts badly to rudeness, and since he is a **Noble** with the Watch standing a few yards away, he is the most dangerous person in the crowd to offend.
+> Bartlethorpe likes explaining things and likes being asked even more. He talks readily about the parade and warms to anyone who praises the Castle Ward's offices. He reacts badly to rudeness, and since he is a **Noble** with the Watch standing a few yards away, he is the most dangerous person in the crowd to offend.
 >
 > Conversation topics Bartlethorpe is willing to discuss include:
 >
@@ -128,25 +148,27 @@ Bartlethorpe is the only man near the statue who smells of bergamot, so any char
 
 > [!qna]**About the parade?**
 >
-> > "A splendid turnout, though I told the clerk twice that the barriers were set three yards too far north, and nobody listened. Do stand where you like, but I'd advise against the stair, since the children will be underfoot all afternoon."
+> > "A splendid turnout, though I told the clerk twice that the barriers were set three yards too far north, and nobody listened. Stand where you like, but I'd avoid the stair, since the children will be underfoot all afternoon."
 
 > [!qna]**About the Great Drunkard?**
 >
-> > "It stopped walking here, you know, and sat down on a building, and the rubble became that stair, and then somebody opened a tavern in its lap. I've watched the parade from this spot for twenty years, and I've yet to see anyone roll down the ramp sober."
+> > "It stopped walking here and sat down on a building, and the rubble became that stair, and then somebody opened a tavern in its lap. I've watched the parade from this spot for twenty years, and I've yet to see anyone roll down the ramp sober."
 
 > [!qna]**About the smell?**
 >
 > Bartlethorpe touches his breast pocket and wrinkles his nose.
 >
-> > "That's the handkerchief, I'm afraid. A young woman at the flower stalls this morning pinned it in for luck at the parade and wouldn't hear no. I find the scent rather strong, but I couldn't be rude to her."
+> > "That's the handkerchief, I'm afraid. A young woman at the flower stalls pinned it in this morning for luck at the parade and wouldn't hear no. The scent is rather strong, but I couldn't be rude to her."
 
 ### Taking the Handkerchief
 
-The lift is the heart of the mission, and the party can try it in several ways. Bartlethorpe leaves the Great Drunkard when the procession enters the Market at 13:30, and until then every attempt is made at the foot of the stair with the crowd pressing on all sides.
+The lift is the heart of the mission. Bartlethorpe leaves the Great Drunkard when the procession enters the Market at 13:30, and until then every attempt is made at the foot of the stair with the crowd pressing on all sides.
 
 > [!exploration]**The Lift**
 >
-> **Sleight of hand.** Any character who stands close to Bartlethorpe and makes a successful DC 12 Dexterity (Sleight of Hand) check takes the handkerchief from his left breast pocket without his noticing. On a failure, Bartlethorpe looks around with an expression of offended dignity and buttons the pocket. He has no description of anyone, but the next attempt is at DC 15, and the people around him watch their own pockets.
+> **Sleight of hand.** Any character who stands close to Bartlethorpe and makes a successful DC 12 Dexterity (Sleight of Hand) check takes the handkerchief from his left breast pocket without his noticing.
+>
+> - **Failure:** Bartlethorpe looks around with offended dignity and buttons the pocket. He has no description of anyone, but the next attempt is at DC 15, and the people around him watch their own pockets.
 >
 > **Talking him out of it.** Any character who gives Bartlethorpe a reason to hand over the cloth and makes a successful DC 12 Charisma check with one of the following skills persuades him to surrender it:
 >
@@ -165,19 +187,19 @@ If a character takes the handkerchief cleanly, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The silk is cool and light in your hand, and the smell of bergamot rises from it so strongly that you catch it even over the crowd. Bartlethorpe has turned back to the street and is nodding at a float of dancers as it rolls past, and nobody near him has so much as looked your way.
+> The silk is cool and light in your hand, and the smell of bergamot rises from it even over the crowd. Bartlethorpe has turned back to the street and nods at a float of dancers rolling past, and nobody near him looks your way.
 
 If Bartlethorpe notices, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Maester Bartlethorpe's hand goes to his breast pocket, finds it empty, and stops, and he turns slowly with a look of outrage on his face. His voice rises over the drums.
+> Maester Bartlethorpe's hand goes to his breast pocket and finds it empty. He turns with a look of outrage, and his voice rises over the drums.
 >
 > > "There are thieves in this crowd! I want the Watch, and I want them now!"
 
 ### Getting Away
 
-If Bartlethorpe raised the alarm, a Guard in a City Watch tabard begins working through the crowd toward the party within one minute. Bartlethorpe has no description of the thief, but he points at whoever was nearest to him, and the constable follows his finger. The party has several ways out, and none of them needs a weapon.
+If Bartlethorpe raised the alarm, a Guard in a City Watch tabard works through the crowd toward the party within one minute. Bartlethorpe has no description of the thief, but he points at whoever was nearest, and the constable follows his finger. None of the ways out needs a weapon.
 
 > [!exploration]**Slipping the Constable**
 >
@@ -185,11 +207,11 @@ If Bartlethorpe raised the alarm, a Guard in a City Watch tabard begins working 
 >
 > - **Lose him in the crowd.** The party makes a Group Check using Dexterity (Stealth) or Strength (Athletics), at DC 12, and the party succeeds if at least half of it passes. The crowd closes behind them, and the constable gives up at the next corner.
 > - **Talk to him.** Any character who stops and makes a successful DC 13 Charisma (Deception or Persuasion) check convinces the constable that Bartlethorpe is mistaken, and that a clerk who lost his handkerchief to the wind is hardly a crime.
-> - **Wait it out.** A character who stays put and submits to questioning is held at the Watch post on the edge of the Market for an hour and a half, until Bartlethorpe, with a festival to watch and no description to give, declines to press the matter. The held character misses the nimblewright, and the party cannot reach Vessin before 14:00 unless the handkerchief is already on its way with a companion.
+> - **Wait it out.** A character who stays put and submits to questioning is held at the Watch post on the edge of the Market for an hour and a half, until Bartlethorpe declines to press the matter. The held character misses the nimblewright. The party cannot reach Vessin before 14:00 unless a companion has already taken the handkerchief on.
 
 > [!hazard]**If the Party Turns It Into a Fight**
 >
-> Combat begins only if a party member strikes Bartlethorpe or the constable. Bartlethorpe uses the ordinary 2024 **Noble**, and he does not fight back. At the start of combat he shrieks for the Watch, and he surrenders and begs for his life as soon as he takes damage. Four **Guards** of the City Watch arrive at the start of the third round, and they do not stop to ask who started it. Do not add other combatants.
+> Combat begins only if a party member strikes Bartlethorpe or the constable. Bartlethorpe uses the ordinary 2024 **Noble**, and he does not fight back. At the start of combat he shrieks for the Watch, and he surrenders and begs for his life as soon as he takes damage. Four **Guards** of the City Watch arrive at the start of the third round and do not stop to ask who started it. Do not add other combatants.
 >
 > #### The Watch's Tactics
 > At the start of combat, the Guards shout for the crowd to clear, then advance on whoever is holding a weapon.
@@ -199,15 +221,17 @@ If Bartlethorpe raised the alarm, a Guard in a City Watch tabard begins working 
 > - Call on the party to drop its weapons and offer one chance to do so before they attack.
 > - Chase fleeing characters for two streets and no further, because the parade crowd is too thick to follow through.
 >
-> The fight ends when the party surrenders, when every party member has fled the street, or when the Guards are all down. A party that surrenders is held at the Market guard post until dusk and released with a warning, and any character who struck Bartlethorpe is fined 5 gp. Nevercott's debrief is cold, and no member of the party gains a bonus Renown from this mission.
+> The fight ends when the party surrenders, when every party member has fled the street, or when the Guards are all down. A party that surrenders is held at the Market guard post until dusk and released with a warning, and any character who struck Bartlethorpe is fined 5 gp. Nevercott's debrief is cold, and no member of the party gains bonus Renown from this mission.
 
 ### The Nimblewright on High Road
 
-The route to the wharves runs south along the High Road, against the flow of the procession. Whatever the party has done at the Great Drunkard, it passes the Sea Maidens Faire's section at about 12:30, and the platform with the nimblewright is the part of the parade that most people remember.
+The route to the wharves runs south along the High Road, against the flow of the procession. Whatever the party has done at the Great Drunkard, it passes the Sea Maidens Faire's section at about 12:30, and the nimblewright performs on a platform in that section.
 
 > [!readaloud]
 >
-> A cheerful din comes up the High Road, and the Sea Maidens Faire's section of the parade follows it, led by a broad man in a captain's coat who waves a plumed hat at the crowd and bellows about the Faire's opening. A huge mechanical beholder hangs twenty feet above the crowd on guy-lines, rolling its glass eye over the spectators, and a little way behind it a figure of jointed metal tumbles across a raised platform, flipping from hand to hand with a precision that makes the nearest spectators gasp, and it wears a tiny hat. On its next flip, the hat flies off, and the crowd laughs as the figure lands, stops for the space of half a beat, and carries on without it.
+> A cheerful din comes up the High Road, and the Sea Maidens Faire's section of the parade follows it. A broad man in a captain's coat waves a plumed hat at the crowd and bellows about the Faire's opening, and a huge mechanical beholder hangs twenty feet above the spectators on guy-lines, rolling its glass eye over them.
+>
+> A little way behind it, a figure of jointed metal in a tiny hat tumbles across a raised platform, flipping from hand to hand while the nearest spectators gasp. On its next flip the hat flies off, and the crowd laughs as the figure lands, stops for half a beat, and carries on without it.
 
 > [!exploration]**The Little Hat**
 >
@@ -217,27 +241,30 @@ The route to the wharves runs south along the High Road, against the flow of the
 
 ### Net Street and Dock Street
 
-Net Street and Dock Street meet at the edge of the wharves in the Dock Ward, and the parade's noise is only a murmur there. The party can reach the corner by the shortest route, and any of the ways the party chooses to go takes the same hour and a quarter. The handkerchief is in the party's hands for that whole time, which is when the temptation to examine it is strongest.
+Net Street and Dock Street meet at the edge of the wharves in the Dock Ward, and the parade's noise is only a murmur there. Every route the party takes to the corner takes the same hour and a quarter. The handkerchief stays in the party's hands for that whole time, which is when the temptation to examine it is strongest.
 
 > [!exploration]**The Scent Under the Bergamot**
 >
-> Any character who holds the handkerchief close for a minute without unfolding it and makes a successful DC 18 Wisdom (Perception) check, or who casts *detect magic* on it, finds that a second scent lies beneath the bergamot and that it changes along the length of the cloth. Detect magic shows a faint transmutation aura that follows the same pattern. Neither method reveals what the message says, because the scent language is known only to Bregan D'aerthe's couriers.
+> Any character who holds the handkerchief close for a minute without unfolding it and makes a successful DC 18 Wisdom (Perception) check, or who casts *detect magic* on it, finds that a second scent lies beneath the bergamot and changes along the length of the cloth.
 >
-> Mark **Scent Code Read** as soon as any character succeeds. On a result of 23 or higher, the character also notices that the scent turns from flowers to salt and tar near the hem and then to lamp oil, which suggests a place on the waterfront in the evening.
+> - *Detect magic* also shows a faint transmutation aura that follows the same pattern.
+> - Neither method reveals what the message says, because only Bregan D'aerthe's couriers know the scent language.
+> - Mark **Scent Code Read** as soon as any character succeeds.
+> - On a result of 23 or higher, the character also notices that the scent turns from flowers to salt and tar near the hem and then to lamp oil, which suggests a place on the waterfront in the evening.
 >
-> A character who skips the check can still learn that the cloth carries a message by watching Vessin when she receives it. That path is described in the block about Vessin below, and it does not mark **Scent Code Read**.
+> A character who skips the check can still learn that the cloth carries a message by watching Vessin receive it, as described in the block about Vessin below. That path does not mark **Scent Code Read**.
 
 > [!readaloud]
 >
-> Net Street and Dock Street meet at a tar-stained corner where a chandler has stacked his empty crates against the wall of a warehouse, and the noise of the parade is no more than a murmur from here. Out on the water the ships of the Fleetswake flotilla loop back toward the harbor under full canvas. One crate, raised on a frame of two planks, has a small sun carved neatly into its left panel.
+> Net Street and Dock Street meet at a tar-stained corner where a chandler has stacked his empty crates against a warehouse wall, and the noise of the parade is no more than a murmur from here. Out on the water, the ships of the Fleetswake flotilla loop back toward the harbor under full canvas. One crate, raised on a frame of two planks, has a small sun carved neatly into its left panel.
 >
-> A gap between the planks shows a folded blanket, a small lantern and a book. A girl of about eleven sits among them with her knees drawn up, a tiefling with bright orange skin and small horns just visible beneath her hair, and she looks up as you stop in front of the crate.
+> A gap between the planks shows a folded blanket, a small lantern and a book. A girl of about eleven sits among them with her knees drawn up. She is a tiefling with bright orange skin and small horns just visible beneath her hair, and she looks up as you stop in front of the crate.
 
 > [!social]**The Girl in the Crate**
 >
 > Vessin (Neutral, Tiefling, she/her) :: a Bregan D'aerthe courier of about eleven who keeps a book of everything she sees.
 >
-> Vessin is calm and polite, and she takes the handkerchief as though children in crates were handed silk every day. She does not invite anyone in, and she does not ask where the cloth came from. She writes in her book after every visitor, and she tells Nevercott whatever she writes. She is proud of her work and would like her visitors to know it, but she will not discuss its details with strangers.
+> Vessin is calm and polite, and she takes the handkerchief as though children in crates were handed silk every day. She does not invite anyone in, and she does not ask where the cloth came from. She writes in her book after every visitor and tells Nevercott whatever she writes. She is proud of her work and wants her visitors to know it, but she will not discuss the details with strangers.
 >
 > Conversation topics Vessin is willing to discuss include:
 >
@@ -253,11 +280,11 @@ Net Street and Dock Street meet at the edge of the wharves in the Dock Ward, and
 >
 > > "He said you'd come today."
 >
-> She tucks the silk between the pages of her book, thanks you in the voice of someone finishing a sale, and opens the book again.
+> She tucks the silk between the pages of her book, thanks you politely, and opens the book again.
 
 > [!qna]**Who is he?**
 >
-> > "I'm not supposed to say who sends me, and I couldn't give you a name anyway, because nobody's ever told me one. I carry what I'm given and I write down who gave it, and that's all I need to know."
+> > "I'm not supposed to say who sends me, and I couldn't give you a name anyway, because nobody's ever told me one. I carry what I'm given and I write down who gave it."
 
 > [!qna]**What's in the handkerchief?**
 >
@@ -277,13 +304,13 @@ Vessin answers the next question only for a character who has offered her food.
 
 ### The Debrief
 
-Nevercott is waiting at the front door of Trollskull Manor at dusk on Ches 21, with his hat box under one arm and a faint smile. He debriefs the members only, and he asks the same question of each of them.
+Nevercott is waiting at the front door of Trollskull Manor at dusk on Ches 21 with his hat box under one arm and a faint smile. He debriefs the members only and asks each of them the same question.
 
 > [!readaloud]
 >
 > The light is going orange along Trollskull Alley when you reach the manor, and J.B. Nevercott is standing at the front door in his burgundy coat with the hat box under his arm. He tips his hat to each of you as you come up the step.
 >
-> > "Good evening. I understand it was a fine parade. Before you tell me about the cloth, I'd like to ask one thing, and I'd like an honest answer. Did any of you open the handkerchief?"
+> > "Good evening. I hear it was a fine parade. Before you tell me about the cloth, I'd like an honest answer to one question. Did any of you open the handkerchief?"
 
 Nevercott asks the question whether or not anyone read the scent, and he reacts to the answer.
 
@@ -291,7 +318,7 @@ If no member read the scent, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Nevercott hears your answer with a nod and glances at the hat box in his arm, as though to check it was still there.
+> Nevercott nods at your answer and shifts the hat box under his arm.
 >
 > > "Then I'm obliged to you, and I'll tell the people I work for that you did as you were asked. Vessin says the cloth reached her, and I can't think of anything more to want from a first job."
 
@@ -299,9 +326,9 @@ If a member read the scent and says so, read or paraphrase the following, and th
 
 > [!readaloud]
 >
-> Nevercott's smile widens, and he looks at the member who answered with obvious interest.
+> Nevercott's smile widens as he turns to the member who answered.
 >
-> > "I told you not to, and you did, and you've admitted it to my face, which is rarer than you'd think. I'd rather work with people who tell me what they did than people who always do as they're told. Did the scent say anything you could read?"
+> > "I told you not to, and you did, and you've admitted it to my face, which is rarer than you'd think. I'd rather work with people who tell me the truth than people who always do as they're told. Could you read anything in the scent?"
 
 If a member read the scent and denies it, and Vessin has been told, read or paraphrase the following:
 
@@ -309,9 +336,13 @@ If a member read the scent and denies it, and Vessin has been told, read or para
 >
 > Nevercott keeps smiling, but he sets down his hat box before he answers.
 >
-> > "That's curious, because Vessin's book says that one of you spent a good while with your nose in my silk, and she writes everything down. I'm not angry, and I'd have forgiven it, but I do prefer to hear it from you."
+> > "That's curious, because Vessin's book says one of you spent a good while with your nose in my silk. She writes everything down. I'm not angry, and I'd have forgiven it, but I'd rather hear it from you."
 
-Vessin has been told if the member asked her about the message or mentioned the scent in front of her. If the member read the scent and kept silent in front of her, Nevercott accepts a denial that beats a DC 16 Charisma (Deception) check, and the member gains no bonus. A member whose denial fails, or whom Vessin reported, loses every bonus Renown from this mission.
+Whether a denial holds depends on Vessin:
+
+- Vessin has been told if the member asked her about the message or mentioned the scent in front of her.
+- If the member read the scent and kept silent in front of her, Nevercott accepts a denial that beats a DC 16 Charisma (Deception) check, and the member gains no bonus.
+- A member whose denial fails, or whom Vessin reported, loses every bonus Renown from this mission.
 
 If the party delivered the handkerchief after 14:00, Nevercott adds the following:
 
@@ -319,7 +350,7 @@ If the party delivered the handkerchief after 14:00, Nevercott adds the followin
 >
 > Nevercott looks toward the end of the alley, where the last of the festival crowd is drifting home.
 >
-> > "She told me she had it by sunset, and I'm obliged to you for that. It was meant to be earlier, and the other party couldn't wait, so I shall need to apologise to them tonight on your behalf."
+> > "She told me she had it by sunset, and I'm obliged to you for that. It was meant to be earlier, and the other party couldn't wait, so I'll need to apologise to them tonight on your behalf."
 
 If the party raised an alarm at the Great Drunkard, Nevercott adds the following:
 
@@ -339,13 +370,13 @@ If Bartlethorpe walks home at 13:30 with the handkerchief still in his pocket, t
 >
 > Nevercott listens to the whole account in silence and nods slowly when you have finished.
 >
-> > "I did say it was a small job, and I'm sorry it turned out harder than it sounded. The message will reach her another way, though that will cost me a day, and I'd like you to think of the day as the price of finding out how you work under pressure."
+> > "I did say it was a small job, and I'm sorry it turned out harder than it sounded. The message will reach her another way, which will cost me a day. Think of it as the price of learning how you work under pressure."
 
 Each participating member gains 1 base Renown instead of 2, and no bonuses. **Handkerchief Delivered** is not marked, and **The Wazoo Affair** is reached by earning the additional Renown the Bregan D'aerthe faction page lists.
 
 ### Concluding the Event
 
-Nevercott leaves the manor as the last of the daylight goes, and the next thing the party sees of Bregan D'aerthe is what arrives at the door two days later. The handkerchief itself disappears into Vessin's book and out of the party's story, and the party carries the nimblewright's little hat into **Fireball!**.
+Nevercott leaves the manor as the last daylight goes, and the next sign of Bregan D'aerthe is what arrives at the door two days later. The handkerchief disappears into Vessin's book, and the party carries the nimblewright's little hat into **Fireball!**.
 
 > [!gamemaster]**Mission Renown**
 >
