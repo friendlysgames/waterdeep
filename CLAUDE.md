@@ -369,6 +369,8 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Handoff delivery:** After committing the handoff, always push it, open a PR to master, and merge it in the same turn, so the next session's handoff glob finds it on master. A handoff left on a side branch gets missed (Session 30's did).
 
+**PR and merge per document:** Each time a document is written or edited and has passed review, push it, open a PR to master and merge it in the same step. Don't batch documents into one end-of-session PR. After a merge, fast-forward the working branch to master before the next document. (User: "new rule, PR and merge as each document is written/edited".)
+
 **Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits that pollute the git log. The handoff must be the last commit of every session.
 
 **Agents do the work; resume them after rate limits:** The main session (Opus) is the orchestrator, not the worker; the agents (Sonnet 5.5) are the workers. Conversion, drafting, research, and polishing go to the project agents in `.claude/agents/`. Drafting goes to `prose-drafter`, which is pinned to Sonnet 5.5. Never draft with a `general-purpose` agent on the `sonnet` alias, because that alias floats to whatever Sonnet is newest instead of the pinned `claude-sonnet-5-5`. The main session plans, reviews, applies small review fixes, and commits. Writing content in the main session wastes Opus tokens. If an agent stops on a rate limit, the limit is account-wide: after it resets, continue that same agent with SendMessage. Never take its work over inline.
