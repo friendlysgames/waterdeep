@@ -17,7 +17,7 @@
 
 ### Nevercott (Pre-Mission 4 Path)
 
-The same back office. The same smell of candle wax. Nevercott stands when the character arrives. He has done this every time.
+The same back office. The same smell of candle wax. Nevercott is standing when the character arrives, which by now has stopped being unexpected.
 
 > "Officer. The organization recognizes sustained contribution. This is what that looks like."
 
@@ -37,12 +37,9 @@ He sets a card on the salon table. The card has a name: *Ilphrin Quiss*.
 
 ### Ilphrin Quiss
 
-A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She has operated in Waterdeep for eight months under the cover of a Trades Ward calligraphy shop. She is available between missions. During missions, she reports back to Jarlaxle by Sending regardless of the character's wishes.
+A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She has operated in Waterdeep for eight months under the cover of a Trades Ward calligraphy shop. She is available between missions — not during, when she reports back to Jarlaxle by Sending regardless of the character's wishes.
 
 > "Her loyalty is to D'aerthe. To me, specifically. She will follow your direction on any assignment that does not place her in a position to acquire intelligence on D'aerthe's own operations. You'll find she is very good at her work and very clear about that limit."
-
-> [!npc-narrative]**Ilphrin Quiss**
-> A drow spy, trained in surveillance, forgery, and the kind of patience that makes a talent for both useful. She nods once when introduced. She does not shake hands.
 
 Ilphrin Quiss is present at the end of this meeting, at the door or near the window, depending on the location. She nods once when introduced. She does not shake hands.
 
@@ -62,11 +59,11 @@ The records are the only reliable means of tracing any construct sold in the cit
 
 ### The Gift
 
-The contact produces a box. The contact chose the box with the same deliberate precision he applies to everything.
+The contact produces a box. The box has been chosen with the same deliberate precision he applies to everything.
 
 > "I selected this one myself. I have found, in my experience, that the right item reveals something about the person who receives it — specifically, that whoever selected it has been paying more attention than they were given credit for."
 
-The item is an Uncommon magic item chosen to reflect something specific about the character: their preferred tactics, a weakness they have been concealing, an ambition they have not named aloud. The GM should select from the options below or choose one that fits, then write the contact's remark to match.
+The item is an Uncommon magic item chosen to reflect something specific about the character — their preferred tactics, a weakness they have been concealing, an ambition they have not named aloud. The GM should select from the options below or choose one that fits, then write the contact's remark to match.
 
 **Suggested items by character type:**
 - *Cloak of elvenkind* — for a character who favors stealth and has been noticed doing it once too often
@@ -88,7 +85,7 @@ He pauses.
 
 > "Thorough within D'aerthe's reach. If you ask about the Vault of Dragons, you will receive a great deal of useful information and one significant gap. I mention this so you are not surprised by the gap."
 
-The service is available beginning the next quest. Requests go through Krebbyg or Ilphrin Quiss. The turnaround is always 48 hours, regardless of urgency.
+The service is available beginning the next quest. Requests go through Krebbyg or Ilphrin Quiss. The turnaround is always 48 hours — not faster, regardless of urgency.
 
 > [!profile]**Profile: The Officer Meeting**
 >
@@ -104,7 +101,7 @@ The character holds the Officer rank in Bregan D'aerthe, with a personal operati
 >
 > #### Next Steps
 >
-> Ilphrin Quiss becomes available at the character's direction between missions. The nimblewright shipping records can be cross-referenced against the House of Inspired Hands findings from **Fireball!**; flag this connection when the character reviews them. The once-per-quest intelligence assessment is available beginning with the next quest.
+> Ilphrin Quiss becomes available at the character's direction between missions. The nimblewright shipping records can be cross-referenced against the House of Inspired Hands findings from **Fireball!** — the GM should flag this connection when the character reviews them. The once-per-quest intelligence assessment is available beginning with the next quest.
 >
 > Return to whatever quest or event the party was pursuing when this event fired.
 

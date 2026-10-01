@@ -1,28 +1,65 @@
 # The Handkerchief and the Girl: Overview
 
-> [!gamemaster]
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> Available at Renown 0. Level 2 recommended. This is the opening mission of the Bregan D'aerthe chain. No prior missions required.
+> Available to an individual Bregan D'aerthe member at 2nd level, as soon as the member has joined at Renown 1. The mission is fixed to Ches 21, the day of the Twin Parades. Companions can help with the job and gain no Renown.
 >
 > #### Difficulty
-> *An adventure for 2nd level characters.*
+> *An adventure for 2nd-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> There is no planned combat. If the party attacks Maester Bartlethorpe, he is an ordinary 2024 **Noble** and four **Guards** of the City Watch arrive in the third round.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
 
-The handkerchief contains a coded message hidden in the anchor embroidery — eleven specific knots that only Bregan D'aerthe field operatives can read. Vessin is Jarlaxle's best-positioned observation asset in the Dock Ward, and he values her considerably more than he has indicated to Krebbyg. Six tendays ago, a delivery from the shared embroidery house went to Lady Ashford's household instead of Vessin's, because Ashford collects embroidered silks and intercepted it by chance. Krebbyg knows only that Jarlaxle wants the handkerchief delivered; he does not fully understand the situation.
+## Hook
 
-The party's role is to recover the handkerchief from Lady Ashford's reception and deliver it to Vessin near the waterfront. Krebbyg presents this as a favor with minimal context, and the party is not expected to understand what the handkerchief contains or who Vessin is.
+On the evening of Ches 20, J.B. Nevercott calls at Trollskull Manor with a hat box under his arm and gives the members two small white cards. One names a clerk who will stand in the shadow of the Great Drunkard during tomorrow's parade, and the other names a girl who lives in a crate near the wharves.
+
+## Background
+
+Bregan D'aerthe uses couriers whom nobody would think to follow, and one of them is Vessin, a tiefling girl of about eleven who lives in a crate at the corner of Net Street and Dock Street and keeps a book of everything she sees. This morning a Faire performer pinned a perfumed silk handkerchief into the breast pocket of Maester Roderick Bartlethorpe at the Fleetswake flower stalls, and the cloth carries a message in a scent language that only the company's couriers can read. The message arranges a meeting between two of the company's agents.
+
+Bartlethorpe is a Castle Ward clerk who has stood in the same place for every public event for twenty years, which makes him a dependable dead drop. The performer who left the cloth cannot be seen anywhere near Vessin, so Nevercott, who is Jarlaxle Baenre in a *hat of disguise*, sends new members to collect it. He also wants to see whether they can do a small, odd job without making a scene, and whether they open a thing they were told to leave alone.
+
+## The Brief
+
+Nevercott gives the members the job at dusk on Ches 20, standing, with his hat on and the hat box under his arm. He tells them who to find, where the man will be, where to take the cloth and when, and his only instruction is that the handkerchief is not to be opened. He sends the companions out of the room before he says any of it.
+
+## The Great Drunkard
+
+Bartlethorpe stands at the foot of the stair that climbs the Great Drunkard, a giant stone figure on Bazaar Street with a tavern in its lap. The parade crowd packs the street three deep, and the party chooses between pushing through it, watching from a window in the tavern, or coming at him from behind the statue.
+
+## Taking the Handkerchief
+
+The party can lift the handkerchief by sleight of hand or talk Bartlethorpe out of it, and each way has its own failure. A failed attempt leaves him offended, a second failure raises an alarm, and an alarm brings a Watch constable through the crowd. The party can slip away, talk its way free or accept being held at the Watch post for an hour and a half.
+
+## The Nimblewright on High Road
+
+The party crosses the city against the flow of the procession and passes the Sea Maidens Faire's section on the High Road. A nimblewright performs on a raised platform there, and its small hat falls off during a somersault and is not retrieved. Fireball! reads what the party noticed.
+
+## Net Street and Dock Street
+
+Vessin takes the cloth without unfolding it, says "He said you'd come today", and tucks it into her book. The party has held the handkerchief for an hour on the walk to the wharves, and one character with a keen nose or *detect magic* can learn that it carries a scent-coded message.
+
+## Renown Opportunities
+
+Each participating Bregan D'aerthe member gains 2 base Renown for delivering the handkerchief to Vessin. Bonuses of +1 each go to members who take it without raising an alarm, who put it in Vessin's hands by 14:00, and who read the scent code and say so to Nevercott.
+
+## Aftermath
+
+Nevercott debriefs the members at the manor at dusk and asks whether anyone opened the handkerchief. Vessin has already told him what the party said in front of her. The pouch of coins described in **Coin Pouches** reaches the manor two days later. **The Wazoo Affair** becomes available when an individual member reaches Renown 3 and 3rd level.
 
 ## Involved Characters
-- **Kreb Sorrush** (Bregan D'aerthe) — booking manager at Seven Masks Theater in the Dock Ward; provides the mission brief and receives the debrief; poses as a human and never corrects the impression
-- **Lady Mirilin Ashford** (Castle Ward noble) — hosts the evening reception; the handkerchief is in her left coat pocket; she does not know what the embroidery means
-- **Vessin** (Bregan D'aerthe informant) — tiefling girl, sixteen, Jarlaxle's best-positioned observation asset in the Dock Ward; has been cut off from contact for six tendays through bad luck, not exposure
+
+- **J.B. Nevercott** (Bregan D'aerthe): briefs and debriefs the members, and posts the job from behind a haberdasher's manner.
+- **Maester Roderick Bartlethorpe** (Castle Ward clerk): the unwitting carrier of the handkerchief, who stands by the Great Drunkard for every public event.
+- **Vessin** (Bregan D'aerthe): a tiefling courier of about eleven who receives the cloth and records the party in her book.
 
 ## Dangers & Enemies
-No combat. The reception is a closed social environment, and Krebbyg's brief explicitly asks for no scenes. The risk is exposure — being noticed lifting the handkerchief, or failing to gain entry to the reception.
+
+No combat is planned. The danger is a scene at the Great Drunkard, because Bartlethorpe is a **Noble** with the Watch within shouting distance. If the party attacks him, four **Guards** arrive at the start of the third round, and the party can surrender or flee.
 
 ## Overview
 
-A theater booking manager with a relaxed manner and a single job: find a silk handkerchief at a Castle Ward reception and deliver it to a tiefling girl near the waterfront.
+A haberdasher with a hat box asks the party to lift a perfumed handkerchief from a Castle Ward clerk at the Twin Parades and carry it to a girl who lives in a crate near the wharves.
