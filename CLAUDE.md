@@ -351,7 +351,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Members-only for briefs and debriefs:** Faction briefs and debriefs fire only for party members of that faction. Jarlaxle is the lone exception — his debrief fires for any party that dealt with him during the quest, regardless of BD membership.
 
-**Cassalanter secrecy:** Everybody is suspicious of the Cassalanters because they're too nice to be this rich and this purebred. Nobody knows they're infernalists. No faction or NPC knows about the Asmodean pact, the soul contract or the family's infernalism before the party discovers it; use suspicion, never knowledge.
+**Cassalanter secrecy:** Everybody is suspicious of the Cassalanters because they're too nice to be this rich and this purebred. Nobody knows they're infernalists. No faction or NPC knows about the Asmodean pact, the soul contract or the family's infernalism before the party discovers it; use suspicion, never knowledge. The one exception is Jarlaxle: he knows, through Vessa, his doppelganger spy in the Cassalanter social circle. He never tells Bregan D'aerthe members unless they work it out themselves. (User: "Jarlaxle knows about the Cassalanters, he has a spy there. He won't tell the members unless they figure it out themselves".)
 
 **Bregan D'aerthe rejects Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her, or invokes the Spider Queen with devotion. Members speak of her with contempt, as the goddess they walked away from; the zeal a house drow gives Lolth, Soluun gives to Jarlaxle. (User: "Bregan D'aerthe *rejects* Lolth as their goddess.")
 
