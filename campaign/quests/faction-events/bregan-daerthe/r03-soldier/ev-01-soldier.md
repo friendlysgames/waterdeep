@@ -26,6 +26,8 @@ At dawn on the second day after the member reaches Renown 3, a playbill is pushe
 >
 > J.B. Nevercott is Jarlaxle Baenre in a *hat of disguise*, and nobody in this Event says the name Jarlaxle in speech or readaloud. Bregan D'aerthe speakers say "the captain" or "J." A member who has marked **Jarlaxle Unmasked** sees through the hat and may say so at the table. Nevercott answers with a remark about brims, and the Event runs exactly as written.
 >
+> Jarlaxle knows that the Cassalanters are bound to Asmodeus and have pledged their children in a contract, because his doppelganger agent Vessa, who has moved in their social circle for months, reads thoughts. The report channel never carries it, and no speaker in this Event tells a member who has not worked it out. If a member says in their own words that the Cassalanters are bound to a devil, or shows proof, Nevercott (or Krebbyg) stops deflecting and admits that the company has known for some time, in the words of the admission in **The Theater's Back Room**, without naming Vessa, and **Cassalanter Pact Shared with BD** is marked for that member.
+>
 > Krebbyg Masq'il'yr writes the reports from the source's *Sendings*, and the pencil dot on the playbill is his. Fel'rekt Lafeen's watchers on the waterfront supply the second part of every report once the source is lost, as described in **When the Source Is Lost** below.
 
 > [!gamemaster]**Initiate and Soldier Benefits, Kept Apart**
@@ -315,6 +317,8 @@ The member may tell companions what they have learned and where the shop and the
 The Event concludes when the member has read the first report and left the booking office. The Faire scene and the pawnbroker scene can run at any later time inside the benefit's window, and a member who never visits either still holds the rank.
 
 > [!gamemaster]**Event Outcomes**
+>
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells the contact in their own words that the Cassalanters are bound to a devil, or shows proof; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by **Officer**.
 >
 > - **BD Soldier** — mark with the recipient's name when Nevercott, or Krebbyg if **Zardoz Introduced** is marked, names the rank at the meeting. Record for that member the day of their last report request (today, for the first report), the cover name they chose and how many Faire visits they have used in the current block of ten days, and the gp of published price they have ordered from Ostrin in the same block. Read by the **Officer** rank event as its prerequisite, and by **Faction Outposts** (unconverted), where the Seven Masks door staff admit a Soldier without questions.
 >

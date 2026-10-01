@@ -15,13 +15,13 @@
 
 > [!gamemaster]**Who Knows What**
 >
-> J.B. Nevercott is Jarlaxle Baenre in his haberdasher's disguise, and the exposé is Jarlaxle's own work. It describes devil worship and orgies among unnamed Waterdhavian noble families, and it is built from rumor. Jarlaxle suspects a few great houses, the Cassalanters foremost, because they are too pleasant to be so rich. He does not know what, if anything, they are hiding, and nobody in Bregan D'aerthe knows more than he does. The piece is a fishing expedition. He wants to see who flinches.
+> J.B. Nevercott is Jarlaxle Baenre in his haberdasher's disguise, and the exposé is Jarlaxle's own work. It describes devil worship and orgies among unnamed Waterdhavian noble families, and it is written in the voice of rumor, with no temple detail and no witness. Jarlaxle knows the Cassalanters are bound to Asmodeus and have pledged their children in a contract. His doppelganger agent Vessa, who has moved in Cassalanter society for months, read it in their thoughts and told him. No other faction or NPC in this Event knows. The piece is meant to put pressure on the Cassalanters while hiding what he knows, so that he can watch how they react and whom they send to deal with it. Krebbyg and the other lieutenants may or may not know the truth, and no Bregan D'aerthe speaker in this Event tells a member.
 >
 > No Bregan D'aerthe speaker in this Event says "Jarlaxle". Nevercott refers to "my employers" and "a friend". Until **Jarlaxle Unmasked** is marked for a member, that member knows Nevercott only as a haberdasher who runs errands for an organization that is mostly drow.
 >
-> Gaxly Rudderbust does not know who wrote the piece and can say so truthfully under any pressure. The two solicitors are household agents of the Cassalanters, sent by Victoro Cassalanter after he read the piece on the morning it printed. Gaxly does not know whom they work for. Nobody in this Event learns for certain that the Cassalanters are hiding anything, and nobody needs to.
+> Gaxly Rudderbust does not know who wrote the piece and can say so truthfully under any pressure. The two solicitors are household agents of the Cassalanters, sent by Victoro Cassalanter after he read the piece on the morning it printed. Gaxly does not know whom they work for. Nobody in the party learns for certain in this Event that the Cassalanters are hiding anything, and nobody needs to.
 >
-> Gaxly's note on the Black Viper describes Seffia Naelryke, a Cassalanter household operative who planted a story with him. Neither Nevercott nor Bregan D'aerthe knows this.
+> Gaxly's note on the Black Viper describes Seffia Naelryke, a Cassalanter household operative who planted a story with him. Nevercott does not know of Seffia or this story.
 
 ### The Brief
 
@@ -310,7 +310,7 @@ If a member who marked **Exposé Read** tells Nevercott which family or families
 
 > [!qna]**It brought a family to mind.**
 >
-> > "Did it? That's interesting, and thank you for saying so plainly. The piece names nobody, so I couldn't tell you whether you're right, but I find that people's guesses are rather more useful than their answers."
+> > "Did it? That's interesting, and thank you for saying so plainly. The piece names nobody, so I'd rather not say whether you're right, but I find that people's guesses are rather more useful than their answers."
 
 If no member read the exposé, Nevercott says only "Then you have more self-control than I do" and does not press.
 
@@ -348,7 +348,7 @@ The payment ends the mission. Nevercott pays the members and leaves by the stree
 
 ### Aftermath
 
-*The Waterdeep Wazoo* sells out, and the city argues for a tenday about which house was meant. Gaxly Rudderbust deals with small, unexplained troubles for the same tenday and does not stop publishing. Nevercott keeps whatever he learned from the Cassalanters' reaction to himself, and a few days after the payment Krebbyg asks the members to the Seven Masks.
+*The Waterdeep Wazoo* sells out, and the city argues for a tenday about which house was meant. Gaxly Rudderbust deals with small, unexplained troubles for the same tenday and does not stop publishing. Nevercott keeps whatever he learned from the Cassalanters' reaction, and what he already knew, to himself, and a few days after the payment Krebbyg asks the members to the Seven Masks.
 
 ### Concluding the Event
 

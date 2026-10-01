@@ -18,9 +18,9 @@ A black card with a silver ship and a single line of handwriting reaches Trollsk
 
 ## Background
 
-Jarlaxle Baenre wrote the exposé himself, in the voice of a gossip sheet. It describes devil worship and orgies among unnamed noble families of Waterdeep, with secret bargains struck over the wine and just enough rumor about shrines and windmills to make a reader wonder. He does not have proof of any of it. He suspects a few great houses, and the Cassalanters most of all, because they are too pleasant to be so rich, but nobody in Bregan D'aerthe knows what the Cassalanters are hiding, and Jarlaxle does not know either.
+Jarlaxle Baenre wrote the exposé himself, in the voice of a gossip sheet. It describes devil worship and orgies among unnamed noble families of Waterdeep, with secret bargains struck over the wine and just enough rumor about shrines and windmills to make a reader wonder. The piece names no family and offers no proof. Jarlaxle knows the truth about the Cassalanters, because his doppelganger agent Vessa has lived among them for months and read it in their thoughts, but he will not tell the members, and the piece is written so that it cannot be traced to what he knows.
 
-The piece is a fishing expedition. Jarlaxle wants it printed so that he can watch which families laugh, which ones shrug, and which ones send someone to lean on the publisher. *The Waterdeep Wazoo* will print almost anything that sells, and its publisher, Gaxly Rudderbust, is honest enough to swear truthfully that he does not know who wrote it.
+He wants it printed to put pressure on the Cassalanters and to watch how they react and whom they send to lean on the publisher, while the other families laugh or shrug. No other faction in Waterdeep, and no one in the party, knows what the Cassalanters are. *The Waterdeep Wazoo* will print almost anything that sells, and its publisher, Gaxly Rudderbust, is honest enough to swear truthfully that he does not know who wrote it.
 
 Jarlaxle sends the document under his haberdasher's name, J.B. Nevercott, and he does not forbid the party to read it. He expects them to, and he wants to hear what they make of it.
 

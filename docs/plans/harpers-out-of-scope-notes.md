@@ -541,6 +541,8 @@ None of these has a Notable Figures page or an Ember source. Each is voiced from
 - **Dropped with the Eye plot:** Krenick Durr (M6). **Unchecked:** Mirilin Ashford and Lady Ashford's reception (M1) appear only in the older reports (**05**). Check whether the finished M1 still uses them before replacing.
 - **Other details to accept or replace:** the spider-and-blade coin (r50) and the spider chalk mark (M4), which the user was asked to settle as a rejected symbol.
 
+- **Cassalanter ruling follow-ups (Session 39):** `villains/jarlaxle.md:51` should name Vessa as Jarlaxle's source. **Cassalanter Villa** (unconverted) must read **Cassalanter Pact Shared with BD**, which BD M5, s03, r03, r10, r25 and r50 set, and in which Vessa helps that member openly. Guide 08:67 still describes the exposé as "hidden gold and missing servants".
+
 ### Decisions for the user
 
 1. **Does Jarlaxle know the Cassalanter pact?** **Answered (Session 39):** yes, through Vessa, his doppelganger spy, and he doesn't tell members unless they work it out ("Jarlaxle knows about the Cassalanters, he has a spy there. He won't tell the members unless they figure it out themselves"). `villains/jarlaxle.md:51` now matches. Still out of line: `manshoon.md:35`, arc-g:47 and guide 08:11 and :67 where they give the knowledge to anyone else.

@@ -1,10 +1,10 @@
 # Design Notes: The Wazoo Affair
 
-## A Fishing Expedition
+## Pressure From a Man Who Already Knows
 
-The exposé is the source's own: a lurid piece on devil worship and orgies among unnamed Waterdhavian noble families, written by Jarlaxle and delivered by break-in. The restored draft made it accurate. It described a ritual space that matched the Cassalanter villa's lower temple and credited a witness account to Nar'l Xibrindas, which meant that Jarlaxle, Nar'l and Xanathar's Guild all knew the Cassalanters were infernalists before the party did. That contradicts the standing rule that nobody knows before the party finds out.
+The exposé is the source's own: a lurid piece on devil worship and orgies among unnamed Waterdhavian noble families, written by Jarlaxle and delivered by break-in. The restored draft made it accurate. It described a ritual space that matched the Cassalanter villa's lower temple and credited a witness account to Nar'l Xibrindas, which meant that Xanathar's Guild also knew the Cassalanters were infernalists before the party did. That contradicts the standing rule that no other faction knows.
 
-Here Jarlaxle suspects and does not know. The piece names no family and no witness, and its only particulars are the ones the source gives as rumor, an Aveen Street cellar and a Southern Ward windmill, offered the way footmen offer them. It also scatters hooks that fit several great houses: charity, a pleasant manner, a large fortune. Anyone could flinch, and Jarlaxle wants to watch who does.
+The user ruled that Jarlaxle knows about the Cassalanters through a spy, and that he will not tell members who have not worked it out. The spy is Vessa, the Bregan D'aerthe doppelganger embedded in Cassalanter society, who reads thoughts and learned of the Asmodean pact and the children's contract that way. Here the piece is still rumor-shaped. It names no family and no witness, and its only particulars are the ones the source gives as rumor, an Aveen Street cellar and a Southern Ward windmill, offered the way footmen offer them. It also scatters hooks that fit several great houses: charity, a pleasant manner, a large fortune. Its purpose is pressure. Jarlaxle wants the Cassalanters to feel watched, and he wants to see how they react and whom they send, without anyone tracing the piece to what he knows.
 
 The tell is the reaction. Two "solicitors" from a firm that does not exist lean on Gaxly the morning after publication, and the Wazoo suffers a tenday of small troubles it cannot explain. Nothing the party sees proves who sent the men, and the carriage with a covered crest is as far as the evidence goes. The Cassalanters come out as the family that overreacted, which is how suspicion works and why no one has to know anything.
 
@@ -16,11 +16,11 @@ The two windows from the source, lunch and after hours, change who is watching a
 
 ## The Desk and the Black Viper Note
 
-The source's desk note puts Gaxly's Black Viper source at "anonymous, Tethyrian, well-dressed". That matches Seffia Naelryke, the Cassalanter household operative who planted the story that **The Black Viper Investigation** later has the Order of the Gauntlet unpick. Bregan D'aerthe has no reason to know this, so the note is a loose thread here and a clue elsewhere. **Black Viper Source Noted** is set so that the Gauntlet mission, once converted, can read it.
+The source's desk note puts Gaxly's Black Viper source at "anonymous, Tethyrian, well-dressed". That matches Seffia Naelryke, the Cassalanter household operative who planted the story that **The Black Viper Investigation** later has the Order of the Gauntlet unpick. Nevercott has no reason to know this, and the note is a loose thread here and a clue elsewhere. **Black Viper Source Noted** is set so that the Gauntlet mission, once converted, can read it.
 
 ## Nevercott
 
-J.B. Nevercott is Jarlaxle in a haberdasher's coat. He briefs at the Yawning Portal because the source and the organization page both place him there, and he says "Do not read it" because the source says he knows they will. The closing question, "Did you find it informative?", is the source's too, and it is where a member's honest guess about the piece earns a bonus. He never confirms a guess, because he does not know the answer.
+J.B. Nevercott is Jarlaxle in a haberdasher's coat. He briefs at the Yawning Portal because the source and the organization page both place him there, and he says "Do not read it" because the source says he knows they will. The closing question, "Did you find it informative?", is the source's too, and it is where a member's honest guess about the piece earns a bonus. He never confirms a guess, because confirming one would show what he knows.
 
 There is no voice profile for Nevercott in `character-voices`, so his speech follows the source lines and the haberdasher persona in the First Meeting. He is courteous and unhurried, he answers with longer sentences than the question needs, and he does not swear. No BD speaker says "Jarlaxle" here, in line with the **Jarlaxle Unmasked** gate.
 
@@ -33,7 +33,7 @@ Gaxly appears in two faction chains, this one and **The Black Viper Investigatio
 Invented names, all for minor NPCs: Pennet (the candlemaker's apprentice), Hovan Dree (the third-floor scrivener) and the false firm Harrow & Pell. Pennet's and Hovan's ages and trades are invented to fill the source's "building's other tenants". Contradictions outside this folder, listed for the Bregan D'aerthe section of the out-of-scope notes:
 
 - `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md` line 8 lists **The Wazoo Affair** under Nar'l's "Featured in". Nar'l no longer appears here.
-- `campaign/setting/villains/jarlaxle.md` line 51 says Jarlaxle "knows about their infernal bargain through intelligence", which contradicts the Cassalanter secrecy rule and this mission's premise.
+- `campaign/setting/villains/jarlaxle.md` line 51 says Jarlaxle "knows about their infernal bargain through intelligence". Under the user's ruling this is now correct, and the page could name Vessa as the source.
 - `campaign/guides/factions/08-bregan-daerthe.md` line 67 describes the exposé as being about "an unnamed Sea Ward family's hidden gold and missing servants", not devil worship.
 - **The Theater's Back Room** now puts the windmill on Coachlamp Lane, as the source and Seffia's Notable Figures page do.
 - **Kreb Drops the Cover** and **Contact Severed** no longer read the cut Betrayal Pitch, and **Kreb Drops the Cover** reads **Wazoo Exposé Published**.

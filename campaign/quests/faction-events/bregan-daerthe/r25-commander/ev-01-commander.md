@@ -30,6 +30,8 @@ Who receives the member, and where, depends on three things.
 >
 > This is not the member's first look at the man at the top of the company. Several earlier events put the member in front of one of his personas, and nothing here treats the rank as an introduction. What the rank changes is how much of the company's strength the member may borrow. Jarlaxle gives it because a Commander who can call a crew, a favour or the captain himself is a Commander who will come back with something worth having. The company's real interest is the political picture in Waterdeep, and he asks the member one question about it tonight.
 >
+> Jarlaxle knows that the Cassalanters are bound to Asmodeus and have pledged their children in a contract, because his doppelganger agent Vessa, who has moved in their social circle for months, reads thoughts. No speaker in this Event tells a member who has not worked it out, and a favour never buys the answer. If **Cassalanter Pact Shared with BD** is not marked and a member says in their own words that the Cassalanters are bound to a devil, or shows proof, the speaker stops deflecting and admits that the company has known for some time, in the words of the admission in **The Theater's Back Room**, without naming Vessa, and the outcome is marked. If it is already marked, the speaker discusses it plainly.
+>
 > **Kreb Unmasked** is marked for nearly every member who reaches Renown 25, because **Kreb Drops the Cover** runs after the second mission. Krebbyg and Fel'rekt drop their human cover in front of such a member. If it is not marked, Krebbyg stays in his Kreb Sorrush cover and keeps out of the scene.
 >
 > The favours, the crews and the captain's company are each limited by quest, and the **Commander Ledger** later in this Event records the limits per member and across the party. A **quest** means one of the campaign's ten named quests, from **Finding Floon** through **Vault of Dragons**. Events, faction missions and rank events are not quests, and a use is counted against the quest the party is in when the member asks.
@@ -334,6 +336,8 @@ Zardoz walks the member to the rail, presses a free ticket into their hand, and 
 The Event concludes when the member has heard all three benefits, met the first pair and answered the question about the Seat. Record each member's ledger separately.
 
 > [!gamemaster]**Event Outcomes**
+>
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells the speaker in their own words that the Cassalanters are bound to a devil, or shows proof; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by **Officer**.
 >
 > - **BD Commander** — mark with the recipient's name when the contact names the rank. Record for that member the quest of their last favour, which crew they hold, the quest of their last crew use, the quest of their last use of the captain's company, and the Seat they named, if any. Read by **Houseless Noble**, which requires it, and by **Vault of Dragons** (unconverted), where a member who holds it receives Jarlaxle's Lords' Alliance proposal before the vault confrontation and the Seat is the Lord he asks to carry the letter.
 

@@ -24,7 +24,7 @@ The renown figure needs a plain statement. The base awards total 19 (1 for joini
 >
 > The rank is real. The coin, the packet, the muster and the ship are all the company's own to give, and none of it is a trick. The blank favor is a real hold on the member, and Jarlaxle knows exactly what he will use it for. He does not say so because the member would carry it differently if they knew, and the event states it in full in **The Favor** so that you do.
 >
-> Bregan D'aerthe rejects Lolth. The spider on the coin is the goddess the company walked away from, caught in her own web with a blade through her, and every speaker mentions her with contempt. Nobody in this Event knows anything about the Cassalanters except suspicion, and Manshoon is not named. If the Splinter comes up, the speakers say "the other cell."
+> Bregan D'aerthe rejects Lolth. The spider on the coin is the goddess the company walked away from, caught in her own web with a blade through her, and every speaker mentions her with contempt. The company knows the truth about the Cassalanters, because Jarlaxle's doppelganger agent Vessa reads their thoughts, but no speaker in this Event tells a member who has not worked it out. If **Cassalanter Pact Shared with BD** is marked for the member, speakers may discuss it plainly, without naming Vessa. A member who says in their own words that the Cassalanters are bound to a devil, or shows proof, hears the company admit it has known for some time, and the outcome is marked. Manshoon is not named. If the Splinter comes up, the speakers say "the other cell."
 >
 > Pelsha and Vorn, the two Drow Gunslingers assigned at **Commander**, stand at the door and speak only where the text gives them lines. Breena Bafflestone, the gnome engineer, is at her post in the engine room and is not at the table.
 
@@ -286,7 +286,7 @@ The packet holds four leaves, and each leaf is one drop. A member who opens it f
 A drop does four things for a member who shows the coin and says the phrase. These are the same in every city.
 
 - **Shelter:** the drop's keeper takes the member and up to four guests vouched for at the door into a back room for up to three nights. Nobody asks a question and the room is not searched.
-- **A written page:** once per tenday at each drop, the member asks for what the company knows about that city, its factions and one named person or place in it, and receives a written page the next dusk. It never names an infernal pact as fact, because the company knows only suspicion. It never names Manshoon and calls him "the other cell."
+- **A written page:** once per tenday at each drop, the member asks for what the company knows about that city, its factions and one named person or place in it, and receives a written page the next dusk. It never states the Asmodean pact to a member who has not worked it out, though the company knows it, and it states the pact plainly once **Cassalanter Pact Shared with BD** is marked for the member. It never names Manshoon and calls him "the other cell."
 - **A surety:** once per tenday in each city, if the member is held by a watch or a guard, the drop pays up to 500 gp to have the member released the same day. It will not pay if the member was seized for harming the company.
 - **A guide:** the drop lends a local guide for one day. The guide uses the **Scout** stat block from the 2024 *Monster Manual* and will leave the member if the day's work turns against the company.
 
@@ -471,6 +471,8 @@ The member can tell their companions what they were offered, but the packet, the
 The Event concludes when the member has taken the coin and the packet, heard how the muster and the ship work, and answered the favor or asked for the tenday. Record each member's answer, the speaker, the state of the *Scarlet Marpenoth*, and the empty-seat branch separately.
 
 > [!gamemaster]**Event Outcomes**
+>
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells Jarlaxle or Zardoz in their own words that the Cassalanters are bound to a devil, or shows proof; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by the written page in this Event.
 >
 > - **BD Houseless Noble** — mark with the recipient's name when the host puts the coin in their hand. Record the speaker (Zardoz or Jarlaxle), the state of the *Scarlet Marpenoth* (**Marpenoth Saved**, **Marpenoth Crippled** or **Marpenoth Lost**), the Soluun branch (**Soluun Expelled** with **Soluun Sold the Mooring**, **Soluun Expelled** alone, or **Soluun Killed**), the Nar'l branch, and whether either lieutenant was missing. Read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's standing with Bregan D'aerthe, and by any later event that checks for the inner circle.
 > - **Zardoz Introduced** — mark with the member's name if it was not marked and Krebbyg introduces Zardoz at the foot of the ladder. Read by **Dungeon of the Mad Mage** (unconverted) content in which Zardoz Zord deals with the member.

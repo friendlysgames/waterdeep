@@ -11,10 +11,11 @@
 > - Lose Florette in the lobby crush or on Net Street if she saw the pass.
 > - Meet Brimel in a doorway, pay him, and hear what he knows about the windmill.
 > - Read the plan with Krebbyg, and receive 200 gp and the key to the dressing room the next morning.
+> - If the member has worked out that the Cassalanters are bound to a devil and says so, hear the company admit it has known for some time.
 
 > [!gamemaster]**Who Knows What**
 >
-> Brimel Crestfall is a household steward in the Cassalanter villa. For years he has carried baskets of candles, salt, black wax and wine to a converted windmill on Coachlamp Lane in the Southern Ward, as far as the second landing of its stair, and the door at the top opens only to the two people who keep the rooms. The family pays the rent on that floor in the name of a Marra Selby and leaves the windmill out of the house books. Lord Victoro once told him it would be needed "for the resolution of the family's obligation," and Madam Ammalia goes out there alone, twice a month, in a hired cab with the curtains drawn. Brimel does not know what the family does there. He does not know that the family is anything but rich, pious and generous, and he takes the "obligation" for a debt. Nobody in this Event can learn more than suspicion.
+> Brimel Crestfall is a household steward in the Cassalanter villa. For years he has carried baskets of candles, salt, black wax and wine to a converted windmill on Coachlamp Lane in the Southern Ward, as far as the second landing of its stair, and the door at the top opens only to the two people who keep the rooms. The family pays the rent on that floor in the name of a Marra Selby and leaves the windmill out of the house books. Lord Victoro once told him it would be needed "for the resolution of the family's obligation," and Madam Ammalia goes out there alone, twice a month, in a hired cab with the curtains drawn. Brimel does not know what the family does there. He does not know that the family is anything but rich, pious and generous, and he takes the "obligation" for a debt. Nothing Brimel says gives the party more than suspicion.
 >
 > Brimel is not a man of conscience. After *The Waterdeep Wazoo* printed its piece and two "solicitors" called on the publisher, Lord Victoro's butler, Mr. Crowelle, began asking every servant who they speak to. Brimel believes the family will dismiss whoever it can blame, and he took 300 gp from Bregan D'aerthe, through the household's wine merchant, to draw a floor plan of the windmill from memory. He has been paid 150 gp. The other 150 gp is in the envelope Krebbyg gives the member, and Brimel wants the money to leave Waterdeep.
 >
@@ -22,7 +23,9 @@
 >
 > The plan is a single folded sheet in Brimel's neat hand. It shows the ground-floor sail room, the shared stair, the middle floors let to ordinary tenants, the apartment at the top of the stair and a back room off that apartment marked with a small cross and the word "locked." On the back he has pencilled that he once saw a map of the City of the Dead on the desk in that room with one mausoleum ringed in red ink and "Brandath" written beside it. That is the Brandath Crypt, and it is the approach to the vault. Brimel does not know what it means.
 >
-> The windmill is occupied by Seffia Naelryke and Arn Xalrondar, who are cult operatives. The party does not meet them in this Event, and nobody here knows what they are.
+> The windmill is occupied by Seffia Naelryke and Arn Xalrondar, who are cult operatives. The party does not meet them in this Event, and no speaker here tells the member what they are.
+
+Jarlaxle knows what the Cassalanters are. His doppelganger agent Vessa, who has moved in their social circle for months, reads thoughts, and that is how he learned of the Asmodean pact and the children's contract. He wants Brimel's plan because the windmill is the place the family keeps off its calendar, and Vessa's cover has never reached it. The Wazoo piece was meant to pressure the family, and the plan lets him look at where they go when they are afraid. Krebbyg and Fel'rekt may or may not know the truth, and neither they nor Zardoz ever tells a member who has not worked it out. See **Figuring It Out**.
 >
 > No Bregan D'aerthe speaker says "Jarlaxle" in this Event. Krebbyg says "the captain" or "J." If **Jarlaxle Unmasked** is marked for a member, Krebbyg may say the name once, in a low voice, when he reads the plan, and Fel'rekt would tell him to wait until they are out of the lobby. Zardoz Zord is Jarlaxle Baenre, and he does not speak in this Event. He is in the box because this is the first mission that runs under his name, and he keeps silent because a Cassalanter watcher in the house could hear him greet the party and learn that the Faire's captain is involved.
 
@@ -412,6 +415,34 @@ If **Jarlaxle Unmasked** is marked for the member, Krebbyg adds in a low voice:
 
 Krebbyg keeps the plan in the dressing room and gives the member a copy in his own hand. The party now knows where the Brandath Crypt is and has an independent source for it. The windmill itself is a Cassalanter outpost that **Faction Outposts** treats as a mini-heist.
 
+### Figuring It Out
+
+> [!gamemaster]**Figuring It Out**
+>
+> This rule applies from the brief to the key. If a member tells Nevercott, Zardoz or Krebbyg, in the member's own words, that the Cassalanters are bound to a devil, or shows them proof such as the exposé's windmill matched to a Cassalanter lease, a contract, a temple sketch or a sworn witness, the speaker stops deflecting. A hunch about "something wrong with that family" does not count, and the speakers answer it with their usual lines.
+>
+> If a member says it to Krebbyg, he stops talking, says "Not here, darling, the soprano repeats everything. Say it again tomorrow at four bells in the dressing room, and I'll make sure the right person is there," and takes the member's answer no further. At four bells, when Krebbyg brings the member to the dressing room, the admission is made by Zardoz if **Zardoz Introduced** is marked, and by Nevercott in his burgundy coat if it is not. If the member raises it in the dressing room itself, the admission is made at once. Neither speaker names Vessa or says how the company learned it.
+
+If **Zardoz Introduced** is marked for the member, read the following aloud:
+
+> [!readaloud]
+>
+> The noise goes out of Zardoz as he sets down his glass, and the sailor's accent thins to something much older and more careful.
+>
+> > "Well, my dear, that is a most inconvenient thing to hear in a dressing room, and I'm obliged to you for saying it plainly. Yes, the company has known for some time that the family is bound to a devil, and I'd rather you heard it from me than found it out in a tomb. I won't say how we came by it, and I'd ask you not to go looking, because someone is still working at it. What you've found, I'd like to see, and what we have, I'll share."
+
+If **Zardoz Introduced** is not marked, read the following aloud:
+
+> [!readaloud]
+>
+> Nevercott comes down the corridor in his burgundy coat and stops in the doorway, and he takes off his hat and turns it once in his hands before he speaks.
+>
+> > "Then I won't pretend with you, and I'm sorry that I did for as long as I did. My friends have known for some time that the family is bound to a devil. I can't tell you how we learned it, and I'd be grateful if you didn't ask, but I can tell you that you're not working alone, and that someone near them will help you openly when the time comes."
+
+> [!gamemaster]**Cassalanter Pact Shared with BD**
+>
+> Mark **Cassalanter Pact Shared with BD** for that member. The admission gives no names, no temple detail and no contract terms beyond what the member brought. In **Cassalanter Villa** (unconverted), Vessa then helps that member openly, with a cover story and a distraction at the banquet, and the member can speak with her about the family's plans. A member who has not figured it out never hears the pact from any Bregan D'aerthe speaker.
+
 ### The Key
 
 The next morning a boy from the Faire brings an envelope to Trollskull Manor. It holds 200 gp for the party, a brass key stamped with a seven, and a note on a gilt ticket in a looping hand.
@@ -472,6 +503,7 @@ The Event concludes when the member has the plan, the key and the dressing room.
 > - **Florette Reported** — mark with the name of the member Florette describes, when she follows Brimel and the party fails both **The Interval Crush** and **The Street Intercept**, or when she wakes after **The Service Corridor**; read by **Cassalanter Villa** (unconverted), where the household has a description of that member and has dismissed Brimel.
 > - **Brandath Lead from Brimel** — mark for each member who reads the plan or hears Brimel's account of the back room; read by **Vault of Dragons** (unconverted), Scene 2, where Brimel's plan is an independent clue to the Brandath Crypts, and the windmill map from **Faction Outposts** is another.
 > - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive** and by the rank event **Houseless Noble**, which meet in the dressing room when it is marked.
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells Nevercott, Zardoz or Krebbyg in their own words that the Cassalanters are bound to a devil, or shows proof, as set out in **Figuring It Out**; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by the rank event **Officer**, where the assessment may state the truth to that member.
 
 > [!gamemaster]**Next Steps**
 >

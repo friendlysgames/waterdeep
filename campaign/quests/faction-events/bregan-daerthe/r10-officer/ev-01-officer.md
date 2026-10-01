@@ -280,7 +280,7 @@ If the party knows of the Vault of Dragons, add the contact's line to whichever 
 > - **A faction:** the leader and lieutenants by name, the faction's outposts and lair by address, how alert it is toward the party, and what it wants from the party this tenday.
 > - **A person:** where they live and sleep, whom they meet in an ordinary tenday, whom they answer to, and one fear or debt the company knows.
 > - **A place:** its entrances, its hours, who stands guard by day and by night, and one hazard.
-> - **What it never says:** the company knows nothing of the Cassalanters but suspicion, so it never states an infernal pact as fact. Manshoon is never named, and the assessment calls the Splinter "the other cell."
+> - **What it never says:** the company knows the truth about the Cassalanters through Vessa, but an assessment never states the Asmodean pact or the children's contract to a member who has not worked it out. For such a member, a page on the Cassalanters covers the house, the staff, the holdings and the social calendar, and leaves the pact out. If **Cassalanter Pact Shared with BD** is marked for the member, the page states the pact and the contract plainly, without naming Vessa. The same rule applies to a member who tells the contact, in their own words or with proof, that the Cassalanters are bound to a devil, and the contact then answers as Zardoz or Nevercott does in **The Theater's Back Room** and marks the outcome. Manshoon is never named, and the assessment calls the Splinter "the other cell."
 > - **The gap:** every assessment on a subject that touches the company's own operations, its ships, its crew or the captain returns with one entry marked "withheld." An assessment on the Vault of Dragons returns complete except for how the vault is to be reached, which Jarlaxle means to use himself.
 > - **If the subject is the company:** the contact declines and no use is spent.
 
@@ -299,6 +299,8 @@ The member may tell their companions what they chose and whom they met. The item
 The Event concludes when the member has chosen an item, named the Spy's first task and heard how to request an assessment.
 
 > [!gamemaster]**Event Outcomes**
+>
+> - **Cassalanter Pact Shared with BD** — mark for a member who tells the contact in their own words that the Cassalanters are bound to a devil, or shows proof; read by **Cassalanter Villa** (unconverted), where Vessa helps that member openly, and by the assessment in this Event.
 >
 > - **BD Officer** — mark with the recipient's name when the contact names the rank. Record for that member the name of their Spy, the item they chose, which folio they received (full or annotations), the quest of their last assessment, the tenday of their last trace and the quest in which they last took the Spy along. Read by **Commander**, which requires it.
 
