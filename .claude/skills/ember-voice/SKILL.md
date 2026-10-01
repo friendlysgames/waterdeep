@@ -14,7 +14,9 @@ description: >
 
 The user reads our boxed text and says it is "obviously written by AI, so obvious it hurts." This skill exists to fix that. Structure lives in `adventure-reloaded` and `foundry-journal`. This skill is about **how the sentences sound**.
 
-Ember's voice in one line: **a friendly, well-read narrator who says plainly what is there, in full and flowing sentences, and lets the characters in the story be the colourful ones.**
+Ember's voice in one line: **a friendly, well-read narrator who says plainly what is there, in full sentences that read easily, and lets the characters in the story be the colourful ones.**
+
+> **Clarity first (user, Session 39).** BD drafts written to this skill's old "flowing" and "generous" rules came out "very flowy and elaborate to the point of being complicated and hard to understand." The user ruled that the voice now splits by text type (section 2a). Readaloud keeps a natural, trimmed flow. GM text is plain and procedural. Speech follows the character but makes its point once. Where any rule below seems to call for more words, clarity wins.
 
 AI prose tries to be striking in every sentence. Ember almost never tries to be striking. It describes, it explains, it lets NPCs chatter, and the drama comes from what happens, not from the sentence rhythm.
 
@@ -44,22 +46,40 @@ Our AI-flavoured drafts measured 13–14 words per sentence in narration, 7–10
 python3 .claude/skills/ember-voice/scripts/voicecheck.py path/to/file.md
 ```
 
-It prints each text type against the baseline and lists every tell by line. A draft is not done while it prints a `TELL` line, or while narration averages under 18 words, speech under 12, or em-dashes run over 4 per 1k words.
+It prints each text type against the baseline and lists every tell by line. A draft is not done while it prints a `TELL` line, while em-dashes run over 4 per 1k words, or while it misses these ranges:
+- **Narration:** an average of 17–21 words, with no more than 20% of sentences at 30 words or more.
+- **Speech:** an average of 11–15 words.
+- **GM text:** an average of 15–20 words, with no more than 15% at 30 words or more.
+
+These are ranges, not floors. Going long is as much a failure as going choppy.
 
 ---
 
 ## 2. Ten Rules
 
 1. **Say what is there.** Name the people, objects, sounds and smells in front of the characters, and what they are doing. Concrete nouns, ordinary verbs. Don't hint at what the scene *means*.
-2. **Write whole sentences that flow.** Join clauses with *and, as, while, before, though*, participles and relative clauses. A short sentence is a pause between long ones, not the default. Never stack fragments.
+2. **Write whole sentences that read easily.** In readaloud, join clauses with *and, as, while, before*. Never chain more than two clauses or stack participles and relative clauses into one sentence. Mix lengths: no fragment stacks, and no run of long sentences either.
 3. **Let paragraphs zoom.** Wide shot first (the place, the crowd, the activity), then the person or thing that matters, then the speech or the detail that invites the party to act.
 4. **Don't end on a punchline.** The last sentence of a paragraph is ordinary. It tells the next thing that happens or what someone does, and never delivers a verdict, a twist or an epigram.
 5. **The characters are colourful; the narrator is not.** Wit, bluster, menace and charm belong to NPCs in their own speech. The narrator stays friendly and plain. Wry humour is fine in setting prose and GM asides, and it is gentle.
 6. **NPCs talk like people.** Full sentences, contractions, hesitations ("Honestly,", "Well,", "I do hope…"), small talk, explanations, questions back. Nobody speaks in aphorisms or sound bites.
 7. **Tag speech with an action before it.** "Agraband gestures toward the strange slab of rock and says:", "She gestures to the sky above." Tags are physical and observable. Never adverb summaries ("thoughtfully"), and never an explanation of how to read the line.
-8. **State GM facts flatly and completely.** Name the secret, the person, the plan and the threshold. "The onlooker mentioned above is Serethus, leader of the Mutagists…" No teasing, no "it could be interesting if".
+8. **State GM facts flatly, completely and plainly.** Give one fact or one instruction per sentence. Name the secret, the person, the plan and the threshold. Put checks, clocks and branches in bullets (trigger, roll, success, failure). "The onlooker mentioned above is Serethus, leader of the Mutagists…" No teasing, no "it could be interesting if".
 9. **Hedge only real uncertainty.** "Seems", "appears to", "as if" and "it is said" mark what the characters cannot know, such as another person's thoughts or disputed history. They are never there for atmosphere.
-10. **Be generous with words.** Ember explains. A readaloud runs as long as the moment needs; a social block is a small script of 300–500 words; a history paragraph is 3–6 sentences. Compression is an AI habit, not a virtue.
+10. **Say it once.** Ember explains what the GM needs, then stops. Don't restate context, explain why the design works (that belongs in the design notes), or let a character make the same point twice. A readaloud runs as long as the moment needs and no longer. Clipped fragments are an AI habit. So is elaborate over-explanation.
+
+---
+
+## 2a. By Text Type (user ruling, Session 39)
+
+| Text | Target | How |
+|---|---|---|
+| **Readaloud** | 17–21 words, a natural flow | Concrete detail in order: place, people, motion. No stacked adjectives, simile chains or "as if" flourishes. End in motion. |
+| **GM text** (gamemaster, exploration, hazard, Summary, outcomes, design notes) | 15–20 words, plain and procedural | One instruction or fact per sentence. Lead with the action. Use bullets for procedures and for any sentence with two "if"s. No throat-clearing. |
+| **Speech** | 11–15 words | Keep the character's profile: showy characters (Zardoz, Krebbyg) stay showy in their own lines. Make each point once. Cut a speech past four sentences to what the players need. |
+| **Social block descriptions** | Same as GM text | Describe the person in two to four sentences. The voice lives in the quoted lines. |
+
+**Theatrics belong to characters, not to the text.** A theatrical NPC never makes the narration or the GM text around them elaborate.
 
 ---
 

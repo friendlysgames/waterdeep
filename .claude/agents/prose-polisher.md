@@ -32,7 +32,7 @@ If `mode` is omitted, default to `apply`.
 
 ## Stage 1 — Load the checklists
 
-Read `.claude/skills/ember-voice/SKILL.md` in full **first**. It is the target voice for all campaign prose, and it overrides the rhythm advice in the two skills below. Never "fix" prose by making it punchier: no short fragments, no one-line paragraphs, no tricolons, no epigrams.
+Read `.claude/skills/ember-voice/SKILL.md` in full **first**. It is the target voice for all campaign prose, and it overrides the rhythm advice in the two skills below. Never "fix" prose by making it punchier: no short fragments, no one-line paragraphs, no tricolons, no epigrams. Equally, never leave prose elaborate. Follow ember-voice section 2a by text type: readaloud flows but is trimmed, GM text is plain and procedural with bullets, and speech makes each point once. Cut restatement and over-explanation.
 Read `.claude/skills/deslop-text/SKILL.md` in full.
 Read `.claude/skills/humanize-prose/SKILL.md` in full.
 Read `.claude/skills/adventure-reloaded/SKILL.md` if the text is campaign prose (arc scenes, read-aloud text, GM notes, NPC descriptions).
@@ -74,7 +74,7 @@ For each violation: quote the phrase, name the pattern, provide the rewrite.
 ## Stage 4 — humanize pass
 
 Apply voice and rhythm guidelines from the humanize-prose skill:
-- Vary sentence length the Ember way: mostly long, joined sentences (narration about 21 words, speech about 14), with a short one as an occasional pause. Break up metronomic runs by joining sentences, not by chopping them into fragments.
+- Vary sentence length the Ember way, by text type (`ember-voice` section 2a): narration averages 17–21 words, speech 11–15, GM text 15–20. Fix choppy runs by joining sentences. Fix elaborate runs by splitting them and cutting restatement. GM procedures go in bullets.
 - Remove every AI tell in `ember-voice` Section 3.
 - Prefer active construction
 - Replace vague abstractions with named, specific things
