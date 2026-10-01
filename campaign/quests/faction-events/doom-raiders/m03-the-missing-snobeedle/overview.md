@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 4th-level characters.*
 >
-> The optional fight at the Waymoot uses three ordinary 2024 **Wererats**. The **Doom Raiders Mechanics Reference** audits it for three, four and five participating combatants.
+> The optional fight at the Waymoot always includes Kelso as an ordinary 2024 **Wererat**, with Giant Rats, Brynn Hilltopple or a Tough added by party size. The **Doom Raiders Mechanics Reference** audits it for three, four and five participating combatants.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
@@ -68,7 +68,7 @@ Blossom Snobeedle ends the mission either with news of her son or without it, an
 
 ## Dangers & Enemies
 
-No combat unless the party attacks Dasher or tries to carry him off. In that case three 2024 **Wererats** in halfling form fight until a Shunner falls, the party offers terms or a Watch patrol arrives, and then they leave across the rooftops. The mission's difficulty lies in the decision, and the Watch is the real danger.
+No combat unless the party attacks Dasher or tries to carry him off. In that case Kelso, a 2024 **Wererat** in halfling form, fights with one or two allies until a Shunner falls, the party offers terms or a Watch patrol arrives, and then they leave across the rooftops. The mission's difficulty lies in the decision, and the Watch is the real danger.
 
 ## Overview
 

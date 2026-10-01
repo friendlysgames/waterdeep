@@ -19,7 +19,7 @@
 
 ### The Brief
 
-Tashlyn briefs the members because **Davil Arrested** is marked in **Davil's Arrest**, and she meets them in the wagon yard beside the South Gate at 17:00, after a flying snake brought the summons that morning. Members who marked **Tashlyn Contact** in that Event already know her. Members who did not meet her for the first time here, and she introduces herself with the second readaloud below. She briefs members only and does not sit. Companions wait by the yard gate until the members come out.
+Tashlyn briefs the members because **Davil Arrested** is marked in **Davil's Arrest**, and she meets them in the wagon yard beside the South Gate at 17:00, after a flying snake brought the summons that morning. Members who marked **Tashlyn Contact** in that Event already know her. Members who did not meet her for the first time here, and she introduces herself with the second readaloud below. Mark **Tashlyn Contact** for any member who meets her here. She briefs members only and does not sit. Companions wait by the yard gate until the members come out.
 
 > [!readaloud]
 >
@@ -370,15 +370,21 @@ If the party walks away, read or paraphrase the following:
 
 > [!hazard]**If the Meeting Turns Violent**
 >
-> Combat begins only if a party member attacks Dasher or tries to grab him and carry him away. Dasher, Kelso and Brynn Hilltopple each use the ordinary 2024 **Wererat**, in halfling form, with no added phases or extra Hit Points. The **Doom Raiders Mechanics Reference** audits the fight for three, four and five participating combatants. Do not add Wererats beyond these three.
+> Combat begins only if a party member attacks Dasher or tries to grab him and carry him away. Kelso always uses the ordinary 2024 **Wererat** stat block, in halfling form, with no added phases or extra Hit Points. Dasher stays out of the fight. The **Doom Raiders Mechanics Reference** audits the roster for three, four and five participating combatants:
+>
+> - **Three combatants:** Kelso and two **Giant Rats** from the fruit cart.
+> - **Four combatants:** Kelso and Brynn Hilltopple, who also uses the **Wererat** stat block.
+> - **Five combatants:** Kelso, Brynn and one **Tough**, a Shunner lookout from the rooftops.
+>
+> Do not add Wererats beyond these two.
 >
 > #### The Shard Shunners' Tactics
 > Kelso raises a hand at the first drawn weapon and lets the party act first. Brynn takes cover behind the fruit cart, and Dasher steps back to the fountain's far side.
 >
 > During combat, the Shunners:
-> - Stay in halfling form and fight with the Scimitar and the Hand Crossbow. They shift to rat or hybrid form, the only forms with the Bite, only after a Shunner is reduced to 0 Hit Points. The Bite carries the Curse of Lycanthropy (DC 11 Constitution saving throw), and the Wererat has no damage resistances.
+> - Stay in halfling form and fight with Scratch and the Hand Crossbow. They shift to rat or hybrid form, the only forms with the Bite, only after a Shunner is reduced to 0 Hit Points. The Bite carries the Curse of Lycanthropy (DC 11 Constitution saving throw), and the Wererat has no damage resistances.
 > - Focus on whichever character is trying to seize Dasher, and use the fountain and the fruit cart for cover.
-> - Withdraw to the rooftop ledges from the third round, where Brynn and Kelso shoot with the Hand Crossbow and Dasher keeps out of reach.
+> - Withdraw to the rooftop ledges from the third round, where Brynn and Kelso shoot with the Hand Crossbow, and the Giant Rats scatter. Dasher stays out of reach.
 >
 > The fight ends when a Shunner is reduced to 0 Hit Points, when a party member lowers their weapon and offers terms, or at the end of the fourth round, when a Watch patrol turns into the square. On any of those, Kelso whistles and the Shunners break for the rooftops with Dasher between them. They do not pursue.
 >
@@ -432,7 +438,7 @@ If the party already marked **Emmek Funding Reported** by telling Tashlyn, read 
 
 ### Renown Opportunities
 
-Tashlyn expects the members at the wagon yard at 17:00 the day after the party settles the matter, which is the day after the Waymoot meeting or the day after a brokered reunion. Companions wait at the gate.
+Tashlyn expects the members at the wagon yard at 17:00 the day after the party settles the matter, or, if the party gave up Dasher's location, the day after Blossom's courier arrives. Companions wait at the gate.
 
 > [!readaloud]
 >

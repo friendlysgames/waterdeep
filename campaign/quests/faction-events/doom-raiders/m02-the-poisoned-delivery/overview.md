@@ -14,7 +14,7 @@
 
 ## Hook
 
-A small flying snake finds each eligible Doom Raiders member in the early evening, carrying a note in Davil's hand. Skeemo Weirdbottle has made some potions of mind reading for a client, and the members are to collect them from his Trades Ward shop and deliver them to a lady in a purple cloak beside the God Catcher by sunset the next day. Whatever she gives them is theirs.
+A small flying snake finds each eligible Doom Raiders member in the early evening, carrying a note in Davil's hand. Skeemo Weirdbottle has made some potions of mind reading for a client, and the members are to collect them from his Trades Ward shop and deliver them to a lady in a purple cloak beside the God Catcher by sunset the next day. Whatever she gives them is theirs. If Davil has been arrested on Ches 26 and the mission is still unplayed, Tashlyn Yafeera sends the note instead.
 
 ## Background
 
@@ -54,7 +54,7 @@ Each participating Doom Raiders member gains 2 base Renown for delivering or dea
 
 ## Aftermath
 
-The party keeps any pouch Esvele paid. Their choices are recorded as outcomes that **Silencing Skeemo** and **Cassalanter Villa** read. Davil's arrest follows **Gralhund Villa** and does not fall inside this mission. **The Missing Snobeedle** becomes available at Renown 5 and 4th level.
+The party keeps any pouch Esvele paid. Their choices are recorded as outcomes that **Silencing Skeemo** and **Cassalanter Villa** read, including **Esvele Hostile** when the party grabs her coach. Davil's arrest follows **Gralhund Villa** and does not fall inside this mission. **The Missing Snobeedle** becomes available at Renown 5 and 4th level.
 
 ## Involved Characters
 

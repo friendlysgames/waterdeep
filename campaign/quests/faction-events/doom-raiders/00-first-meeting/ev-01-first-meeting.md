@@ -369,7 +369,7 @@ If the candidate declined, read or paraphrase the following:
 
 > [!readaloud]
 >
-> A flying snake with silver scales taps at your window before the sun is fully up, and the scroll tied around its body holds a few hurried lines in a sharp, upright hand.
+> A flying snake with silver scales taps at your window before the sun is fully up, and the scroll tied around its body holds a few hurried lines in a small, square hand.
 >
 > > "You're in. Don't embarrass Davil."
 

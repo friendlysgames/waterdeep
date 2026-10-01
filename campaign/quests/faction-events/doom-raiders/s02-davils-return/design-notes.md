@@ -8,13 +8,13 @@ Davil's grief over Skeemo stays unspoken, as his voice profile requires. It show
 
 ## Release Terms and the Watch
 
-**Davil's Arrest** fixed Davil's release at the first hearing day after **Silencing Skeemo** and recorded a count of successful approaches from 0 to 3. This Event turns that count into where and how the evening plays: a booth behind the kitchens with a constable and no lute at 0, the curtained room and a returned bracelet at 2 or 3. **Watch File Opened** lowers the count by one, because a clerk reading Davil's file would see the fresh Trades Ward murder file beside it, and it also makes Davil ask the members to stay out of the Trades Ward, which is what **Silencing Skeemo** says he does.
+**Davil's Arrest** fixed Davil's release on the fifth day after the members' debrief for **Silencing Skeemo** and recorded a count of successful approaches from 0 to 3. This Event turns that count into where and how the evening plays: a booth behind the kitchens with a constable and no lute at 0, the curtained room and a returned bracelet at 2 or 3. **Watch File Opened** lowers the count by one, because a clerk reading Davil's file would see the fresh Trades Ward murder file beside it, and it also makes Davil ask the members to stay out of the Trades Ward, which is what **Silencing Skeemo** says he does.
 
 The old draft had the Lords release Davil "at the end of the same tenday" and had Tashlyn brief **The Yellowspire Job** at Renown 9. Both are changed. The release date matches **Davil's Arrest** and **Silencing Skeemo**, and Davil briefs **The Yellowspire Job** at Renown 10, which is how that Event is already written.
 
 ## The Manshoon Gate and the Captured Skeemo
 
-Davil says "the other cell" and "the towers in the Trades Ward where they keep their people" until **Manshoon Named** is marked, and he adds "Floxin's cell" only if **Floxin Status** is Alive. Behind the gate he may say Manshoon and Kolat Towers. The truth is in a GM-only block at the top.
+Davil says "the other cell" until **Manshoon Named** is marked, and he adds "Floxin's cell" only if **Floxin Status** is Alive. He suspects the cell keeps its people in "the towers in the Trades Ward", which are Kolat Towers, and Tashlyn's watcher has logged a tower in the Castle Ward where the letters go. Behind the gate he may say Manshoon and Kolat Towers. The truth is in a GM-only block at the top.
 
 The captured branch is the only place the members have a vote, so it is written as a procedure. Each member gets one voice, the majority wins, and a tie goes to the less final option. A dissenter can make one DC 16 Persuasion check to turn Davil, and a failure leaves the count standing. Tashlyn and Yagra argue for execution but do not vote. Davil leans toward exile, and the order of ties makes that his default. The three outcomes are **Skeemo Exiled**, **Skeemo Handed to the Watch** and **Skeemo Executed**, and each is written to be read by a later event.
 

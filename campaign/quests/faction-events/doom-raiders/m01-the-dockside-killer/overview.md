@@ -14,7 +14,7 @@
 
 ## Hook
 
-A Doom Raiders member who reaches 2nd level receives a flying snake at Trollskull Manor carrying a line in Davil's looping hand. He receives the members in his curtained room on the second floor of the Yawning Portal, pours for each of them, and asks them to find whoever is killing elf and half-elf sailors in the Dock Ward. Companions can join the operation after the private brief.
+A Doom Raiders member who reaches 2nd level receives a flying snake at Trollskull Manor carrying a line in Davil's looping hand. He receives the members in his curtained room on the second floor of the Yawning Portal, pours for each of them, and asks them to find whoever is killing elf and half-elf sailors in the Dock Ward. Companions can join the operation after the private brief. If Davil has been arrested on Ches 26 and the mission is still unplayed, Tashlyn Yafeera gives the brief instead.
 
 ## Background
 
