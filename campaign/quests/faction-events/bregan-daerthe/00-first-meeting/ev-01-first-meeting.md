@@ -227,7 +227,7 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 
 > [!social]**The Haberdasher**
 >
-> J.B. Nevercott (Chaotic Neutral, Human in appearance, he/him) :: a courteous and amused Sea Ward haberdasher who enjoys the visit more than he shows.
+> J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: a courteous and amused Sea Ward haberdasher who enjoys the visit more than he shows.
 >
 > Nevercott is Friendly and in no hurry. He speaks in long, well-turned sentences, compliments the party's taste and shares his opinions about hat brims for as long as anyone will listen. He asks one precise question for every three he answers, never confirms anything about himself beyond what is printed on the card, and does not swear, raise his voice or ask the price of anything. Whenever a character presses him about Bregan D'aerthe before a candidate has stepped aside, he answers with something about hats.
 >
@@ -336,7 +336,7 @@ Then:
 
 > [!social]**The Man Without a Hat**
 >
-> J.B. Nevercott (Chaotic Neutral, Human in appearance, he/him) :: the same courteous haberdasher with the patter put away, who is exactly as amused as before and a good deal more precise.
+> J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: the same courteous haberdasher with the patter put away, who is exactly as amused as before and a good deal more precise.
 >
 > With the fiction set aside, Nevercott is Friendly and unhurried. His sentences are longer and better balanced than they were on the doorstep, and he answers questions with a straight account of what he is willing to say and a plain refusal for the rest. He never lies about the offer, and he never says who leads Bregan D'aerthe. If a character presses him, he says the captain will be glad to meet anyone who stays.
 >
@@ -455,8 +455,8 @@ When the interview ends, read or paraphrase the following:
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Bregan D'aerthe Joined** — mark for each character who accepts Nevercott's offer, that morning, when Nevercott calls on Ches 20 or later through the box office, and record the character's name. The member is at Renown 1 with the Initiate rank. Read by the **Bregan D'aerthe** Factions Guide page, by **The Handkerchief and the Girl** and every later Bregan D'aerthe mission, standalone and rank event to confirm each member's individual eligibility, and by **Faction Outposts** (unconverted). Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no candidate is eligible.
-> - **BD Contact Severed** — mark for each character who gives Sergeant Dunmere their name in a report to the Watch, and for any character who attacks Nevercott, and record the character's name. The character is closed out of Bregan D'aerthe for the campaign. Read by the **Contact Severed** event, by **Sea Maidens Faire** (unconverted), where Jarlaxle treats the character as a civilian variable, and by the response-team page of the Trollskull Manor guide, since a severed character never receives Fel'rekt's dinner invitation.
+> - **Bregan D'aerthe Joined** — mark for each character who accepts Nevercott's offer, that morning, when Nevercott calls on Ches 20 or later through the box office, and record the character's name. The member is at Renown 1 with the Initiate rank. Read by the **Bregan D'aerthe** Factions Guide page and by **Faction Outposts** (unconverted). Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no candidate is eligible.
+> - **BD Contact Severed** — mark for each character who gives Sergeant Dunmere their name in a report to the Watch, and for any character who attacks Nevercott, and record the character's name. The character is closed out of Bregan D'aerthe for the rest of Acts I through III. Read by the **Contact Severed** event, by **Sea Maidens Faire** (unconverted), where Jarlaxle treats the character as a civilian variable, and by the response-team page of the Trollskull Manor guide, since a severed character never receives Fel'rekt's dinner invitation.
 >
 > This Event also reads **Ryvarra Identified**, which **The Neighbors** marks and which changes how Nevercott opens his private word. It reads **BD Acknowledged**, which **The Factions Come Calling** marks when Nevercott's visit goes ahead and which **Fireball!** reads. If at least one candidate has heard his offer and **BD Acknowledged** is not yet marked when he leaves, mark it then. Leave it unmarked if every candidate reported to the Watch.
 

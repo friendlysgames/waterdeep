@@ -361,7 +361,7 @@ Nevercott leaves the manor as the last of the daylight goes, and the next thing 
 >
 > - **Handkerchief Delivered** — mark when the handkerchief reaches Vessin on Ches 21; read by Nevercott's debrief in this Event, and by **Coin Pouches**, whose first pouch goes only to a member who marked it.
 > - **Scent Code Read** — mark when any character learns that the handkerchief carries a scent-coded message, by Perception or by *detect magic*; read by Nevercott's debrief in this Event.
-> - **Nimblewright Noticed** — mark when any character passes the Perception check on the Faire's nimblewright or recognizes it by its hat; the same outcome is marked by **The Twin Parades**, and it is read by **Fireball!**, where the party recognizes the construct without a check.
+> - **Nimblewright Noticed** — mark when any character passes the Perception check on the Faire's nimblewright or recognizes it by its hat; the same outcome is marked by **The Twin Parades**, and no converted quest reads it yet.
 
 > [!gamemaster]**Next Steps**
 >

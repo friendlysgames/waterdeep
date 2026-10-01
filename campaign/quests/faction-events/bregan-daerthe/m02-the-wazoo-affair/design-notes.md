@@ -35,6 +35,6 @@ Invented names, all for minor NPCs: Pennet (the candlemaker's apprentice), Hovan
 - `campaign/setting/notable-figures/xanathars-guild/03-narl-xibrindas.md` line 8 lists **The Wazoo Affair** under Nar'l's "Featured in". Nar'l no longer appears here.
 - `campaign/setting/villains/jarlaxle.md` line 51 says Jarlaxle "knows about their infernal bargain through intelligence", which contradicts the Cassalanter secrecy rule and this mission's premise.
 - `campaign/guides/factions/08-bregan-daerthe.md` line 67 describes the exposé as being about "an unnamed Sea Ward family's hidden gold and missing servants", not devil worship.
-- `campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md` line 64 puts the windmill in the North Ward. The source and Seffia's Notable Figures page put it in the Southern Ward, on Coachlamp Lane.
-- `campaign/quests/faction-events/bregan-daerthe/s02-kreb-drops-the-cover/ev-01-kreb-drops-the-cover.md` and `s04-contact-severed/ev-01-contact-severed.md` still read the cut Betrayal Pitch, and s02 reads "The Wazoo Affair is complete" in prose and should read **Wazoo Exposé Published**.
+- **The Theater's Back Room** now puts the windmill on Coachlamp Lane, as the source and Seffia's Notable Figures page do.
+- **Kreb Drops the Cover** and **Contact Severed** no longer read the cut Betrayal Pitch, and **Kreb Drops the Cover** reads **Wazoo Exposé Published**.
 - `campaign/guides/gm-guide/design-notes-running-the-campaign.md` line 126 calls Gaxly a "single-mission NPC", but he also appears in **The Black Viper Investigation**.

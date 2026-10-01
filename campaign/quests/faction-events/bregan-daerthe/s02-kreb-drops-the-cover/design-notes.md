@@ -2,7 +2,7 @@
 
 ## What Drops and What Doesn't
 
-The restored draft had Krebbyg name Bregan D'aerthe "for the first time". Nevercott has named it at the First Meeting by then, so the draft revealed nothing the members lacked. The event now drops the one thing they have not seen, Krebbyg's own face. The members have dealt with a human booking manager named Kreb Sorrush since **The Handkerchief and the Girl**, and this is the scene where he takes the wig off.
+The restored draft had Krebbyg name Bregan D'aerthe "for the first time". Nevercott has named it at the First Meeting by then, so the draft revealed nothing the members lacked. The event now drops the one thing they have not seen, Krebbyg's own face. The members have dealt with a human booking manager named Kreb Sorrush since **Coin Pouches** or a visit to the Seven Masks lobby, and this is the scene where he takes the wig off.
 
 The restored draft also had Krebbyg pay 100 gp at the theater, which contradicted Nevercott's 80 gp at the Yawning Portal in **The Wazoo Affair**, and it carried an invented "sixteen months" backstory that the Notable Figures page does not support. Both are gone. The event pays nothing, the pouches stay in **Coin Pouches**, and Krebbyg's history is limited to what his page says.
 
@@ -24,13 +24,13 @@ The restored draft closed by saying a more interesting assignment was coming. A 
 
 ## Outcomes
 
-**Kreb Unmasked** is set per member and read by **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive** and the four rank events. **BD Contact Severed** is a second writer of an outcome that the First Meeting also sets, and **Contact Severed** reads it. The Pitch, the 100 gp envelope and the "more interesting assignment" card are cut, and **Three Nights** has no briefing scene.
+**Kreb Unmasked** is set per member and read by **Three Nights**, **The Compromised Eye**, **The Theater's Back Room**, **The Dive** and the rank events **Soldier**, **Officer** and **Commander**. **Houseless Noble** shows Krebbyg as himself unconditionally and does not read it. **BD Contact Severed** is a second writer of an outcome that the First Meeting also sets, and **Contact Severed** reads it. The Pitch, the 100 gp envelope and the "more interesting assignment" card are cut, and **Three Nights** has no briefing scene.
 
 ## Out-of-Scope Notes
 
 - Invented names and places: Constable Harl Pimm, the grey coat on cloakroom peg seven, the torn-ticket signal and the playbill's circled price. *The Duke's Last Supper* is used from **Coin Pouches**.
 - `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:8` still lists **The Betrayal Pitch** under "Featured in", although the mission is cut.
-- `campaign/quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md` says Krebbyg "no longer hides what he is" after this event. This event limits that to a locked booking office, the stage door after dark and the dressing-room safe house, with the human cover kept in public.
-- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/ev-01-three-nights.md` (restored draft) still has Krebbyg brief **Three Nights** before dawn. The conversion brief gives it no brief.
-- `campaign/quests/faction-events/bregan-daerthe/m01-the-handkerchief-and-the-girl/overview.md:24` calls Kreb "a half-shade too still for a human", which does not match the chatty profile voice and should be revised in the **The Handkerchief and the Girl** rewrite.
+- `campaign/quests/faction-events/bregan-daerthe/s01-coin-pouches/ev-01-coin-pouches.md` says Krebbyg "no longer hides what he is" for a member who arrives after this event. This event limits that to a locked booking office and the stage door after dark, with the human cover kept in public, and the two pages agree.
+- **Three Nights** has no briefing scene, so Krebbyg briefs nothing before **Dinner with Zardoz**. After it he briefs **The Theater's Back Room** and **The Dive**.
+- **The Handkerchief and the Girl** has no Kreb Sorrush scene. Members first meet him in **Coin Pouches** or in the Seven Masks lobby.
 - The rank events (`r03`, `r10`, `r25`, `r50`) should say where they are held, since this event promises the playbill will say.

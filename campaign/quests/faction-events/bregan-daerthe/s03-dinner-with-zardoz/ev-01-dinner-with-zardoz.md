@@ -379,7 +379,7 @@ The Event concludes when the member has dined with Zardoz and is back on the har
 >
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Zardoz Introduced** — mark with the member's name when they dine with Zardoz and answer at least one of his questions. From this point, Zardoz Zord is that member's contact and J.B. Nevercott never appears to them again. Read by **The Theater's Back Room** and **The Dive** (Zardoz is present at the member's briefings, with Krebbyg delivering them), and by the **Officer** and **Commander** rank events (Zardoz, not Nevercott, names the rank, aboard the *Eyecatcher*). A member without this outcome keeps Krebbyg as their only contact and is greeted at those events by him alone.
+> - **Zardoz Introduced** — mark with the member's name when they dine with Zardoz and answer at least one of his questions. From this point, Zardoz Zord is that member's contact and J.B. Nevercott never appears to them again. Read by **The Theater's Back Room** and **The Dive** (Zardoz is present at the member's briefings, with Krebbyg delivering them), and by the **Officer** and **Commander** rank events (Zardoz, not Nevercott, names the rank, aboard the *Eyecatcher* or, after Tarsakh 20, on the hired lighter). A member without this outcome keeps Krebbyg as their only contact for **The Theater's Back Room**, **The Dive** and **Commander**, and is greeted at those events by him alone. At **Officer**, that member is received by J.B. Nevercott as a fallback.
 
 > [!gamemaster]**Next Steps**
 >

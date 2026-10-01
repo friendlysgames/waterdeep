@@ -14,11 +14,11 @@ Krebbyg appears only as "Kreb Sorrush", and Fel'rekt only by name in Kreb's spee
 
 ## Outcomes
 
-The old **Coin Pouches** outcome had no reader and is cut. Nothing in this event is read later, so it sets none.
+The old **Coin Pouches** outcome had no reader and is cut. This event sets no outcomes. It reads **Handkerchief Delivered** to decide who receives the first pouch.
 
 ## Out-of-Scope Notes
 
 - Invented names: Dunstan Rook, Orla Pennick, Hanna Voss, and the playbill *The Duke's Last Supper*. Squiddly is used from **Trollskull Alley** without a voice line.
 - `campaign/setting/organizations/07-bregan-daerthe.md:38` has Krebbyg carrying a 100 gp velvet pouch signed "J.". This event uses black linen and an unsigned slip.
 - `campaign/guides/factions/08-bregan-daerthe.md:14` agrees with the amounts and timing, and says "at the party's door", which this event narrows to the named member. It could say "a member's door".
-- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/ev-01-three-nights.md` (restored draft) still has Ott as a halfling, Krebbyg collecting him and the 100 gp note text. The rewrite should follow the brief and leave the pouch to this event.
+- `campaign/quests/faction-events/bregan-daerthe/m03-three-nights/ev-01-three-nights.md` now has Ott as a dwarf and leaves the 100 gp pouch and note to this event.
