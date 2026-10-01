@@ -2,12 +2,12 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs during **The Factions Come Calling**, beginning on Ches 3 when Bregan D'aerthe's watchers start following the party around Trollskull Manor and ending when J.B. Nevercott leaves the manor after his visit. In this Event, the characters can:
+> This Social Event occurs during **The Factions Come Calling**. It begins on Ches 3, when Bregan D'aerthe's watchers start following the party around Trollskull Manor, and ends when J.B. Nevercott leaves the manor after his visit. In this Event, the characters can:
 >
 > - Glimpse the drow who watch Trollskull Manor by night and by day, and work out whom they are watching.
 > - Notice Ryvarra at her reserved table in the Yawning Portal and catch the slip in her accent.
 > - Watch the watchers and wait, confront them and find a black eye patch, or report them to Sergeant Marek Dunmere at the North Ward Watch station.
-> - Receive J.B. Nevercott, a haberdasher who keeps up his trade until a candidate steps aside, and then hear him name Bregan D'aerthe and offer a first assignment.
+> - Receive J.B. Nevercott, a haberdasher, and hear him name Bregan D'aerthe and offer a first assignment once a candidate steps aside.
 > - Decide individually whether to join, and walk away freely if they refuse.
 > - Visit Fel'rekt Lafeen's stall and the Faire's ships to use the Initiate Benefits after joining.
 >
@@ -19,13 +19,13 @@
 >
 > #### What Is Actually True
 >
-> J.B. Nevercott is Jarlaxle Baenre, wearing a *hat of disguise* that explains why nobody in the room can describe his face afterward. He will not admit to being anyone else, even to a player who guesses, and nobody in this Event says Jarlaxle's name aloud. **Jarlaxle Unmasked** is marked later, for each member separately. Until it is, Bregan D'aerthe speakers refer to "the captain" or to "J."
+> J.B. Nevercott is Jarlaxle Baenre, in a *hat of disguise*, which is why nobody in the room can describe his face afterward. He will not admit to being anyone else, even to a player who guesses, and nobody in this Event says Jarlaxle's name aloud. **Jarlaxle Unmasked** is marked later, for each member separately. Until then, Bregan D'aerthe speakers refer to "the captain" or to "J."
 >
-> Jarlaxle is testing the party. He wants to know who notices the watchers and what they do about it, and he treats a report to the Watch as an answer and not as a betrayal.
+> Jarlaxle is testing the party. He wants to know who notices the watchers and what they do about it. He treats a report to the Watch as an answer, not as a betrayal.
 >
 > The watchers are his three lieutenants. Fel'rekt Lafeen and Krebbyg Masq'il'yr shadow the party from dusk until dawn, and Soluun Xibrindas takes the day, keeping to shade and doorways. After dark Soluun also hunts elf and half-elf sailors in the Dock Ward on his own account, which is the subject of the Doom Raiders mission **The Dockside Killer**. Jarlaxle knows about it and has not decided what to do. Nothing in this Event lets the party connect the two, and Soluun never speaks to anyone.
 >
-> Ryvarra has watched the well from the Yawning Portal's balcony for three months and sends Jarlaxle a report every tenday. The latest one names the party. She tells the lieutenants where the party goes, which is why the watchers are never far behind.
+> Ryvarra has watched the well from the Yawning Portal's balcony for three months and sends Jarlaxle a report every tenday. The latest one names the party. She also tells the lieutenants where the party goes, which is why the watchers are never far behind.
 >
 > #### When Things Happen
 >
@@ -43,7 +43,7 @@
 
 > [!exploration]**A Glimpse of the Watchers**
 >
-> Any character with a passive Wisdom (Perception) score of 18 or higher glimpses a watcher once each night and once each day for as long as the watch lasts. A character with a lower score can look for them, and once per day a character who spends an hour watching the street and makes a successful **DC 18 Wisdom (Perception)** check sees the same figure.
+> Any character with a passive Wisdom (Perception) score of 18 or higher glimpses a watcher once each night and once each day for as long as the watch lasts. A character with a lower score can spend an hour watching the street, once per day. On a successful **DC 18 Wisdom (Perception)** check, that character sees the same figure.
 
 If a character glimpses the night watchers, read or paraphrase the following:
 
@@ -55,11 +55,14 @@ If a character glimpses the day watcher, read or paraphrase the following:
 
 > [!readaloud]
 >
-> A delivery cart is blocking half of Trollskull Alley when you notice a hooded figure standing in a shuttered doorway across the street, keeping carefully to the shade as the sun moves along the roofs. A narrow face with dark grey skin turns toward the manor and then away, and the figure stays wrapped in its cloak, motionless, until the cart rolls on and the doorway is empty.
+> A delivery cart blocks half of Trollskull Alley when you notice a hooded figure standing in a shuttered doorway across the street, keeping to the shade. A narrow face with dark grey skin turns toward the manor and then away. The figure stays motionless in its cloak until the cart rolls on, and then the doorway is empty.
 
 > [!exploration]**Whom They Follow**
 >
-> Any character who has glimpsed a watcher and spends a day or an evening tracking where the watchers stand and makes a successful **DC 15 Wisdom (Insight)** check determines that the watchers are paying particular attention to the drow members of the party. If there are no drow characters, the character determines that they follow the characters who belong to no faction. On a failure the character is certain the manor is being watched but cannot say who the watchers care about.
+> Any character who has glimpsed a watcher can spend a day or an evening tracking where the watchers stand and make a **DC 15 Wisdom (Insight)** check.
+
+- **Success:** The character determines that the watchers pay particular attention to the drow members of the party. If there are no drow characters, the character determines that they follow the characters who belong to no faction.
+- **Failure:** The character is certain the manor is being watched but cannot say who the watchers care about.
 >
 > - **Result of 20 or higher:** The character also works out that the watchers keep two shifts, a pair at night and a single figure by day.
 
@@ -67,11 +70,11 @@ If a character glimpses the day watcher, read or paraphrase the following:
 
 > [!gamemaster]**The Observer at the Portal**
 >
-> Ryvarra (Neutral, Drow, she/her) sits at the reserved table nearest the rail of the Yawning Portal's observation balcony every evening from sundown until closing. Any character who visits the Portal during the renovation, whether to drink, to meet Davil Starsong or for any other reason, can see her. If the party marked **Ryvarra Identified** in **The Neighbors**, where she walks through Trollskull Alley on a morning errand to look at the manor by daylight, the characters recognize her the moment they see her. Otherwise she is a stranger who happens to be there.
+> Ryvarra (Neutral, Drow, she/her) sits at the reserved table nearest the rail of the Yawning Portal's observation balcony every evening from sundown until closing. Any character who visits the Portal during the renovation, for any reason, can see her. If the party marked **Ryvarra Identified** in **The Neighbors**, where she walks through Trollskull Alley on a morning errand to look at the manor by daylight, the characters recognize her the moment they see her. Otherwise she is a stranger who happens to be there.
 
 > [!readaloud]
 >
-> The balcony above the taproom of the Yawning Portal holds a handful of tables looking down on the well, and at the one nearest the rail sits a woman in layered Calishite silks the color of dark honey, with a patterned scarf drawn low over her hair. A full glass of red wine stands at her elbow beside a plate of cheese she hasn't touched, and she watches the crowd around the well with the mild interest of a traveler waiting out a long negotiation. When she notices you looking, she inclines her head with perfect politeness.
+> The balcony above the taproom of the Yawning Portal holds a handful of tables looking down on the well, and at the one nearest the rail sits a woman in layered Calishite silks the color of dark honey, with a patterned scarf drawn low over her hair. A full glass of red wine stands at her elbow beside an untouched plate of cheese, and she watches the crowd around the well with mild interest. When she notices you looking, she inclines her head politely.
 >
 > > "Good evening, honoured friends. Forgive me for staring. I've been in Waterdeep three months now, and the well still hasn't stopped surprising me."
 
@@ -79,7 +82,7 @@ If a character glimpses the day watcher, read or paraphrase the following:
 >
 > Ryvarra (Neutral, Drow, she/her) :: Jarlaxle's field observer at the Yawning Portal, who plays a Calimshan cloth merchant in the middle of a very long negotiation.
 >
-> Ryvarra is Friendly in manner and Indifferent in fact. She speaks in polished, economical merchant's small talk, calls the party "honoured friends" and asks ordinary questions that each add a line to her next report. She never drinks from her glass and never writes anything down in public. When a question turns toward her, she answers with a detail about cloth and asks something back.
+> Ryvarra is Friendly in manner and Indifferent in fact. She speaks in polished merchant's small talk and calls the party "honoured friends". Her ordinary questions each add a line to her next report. She never drinks from her glass and never writes anything down in public. When a question turns toward her, she answers with a detail about cloth and asks something back.
 >
 > Ryvarra is happy to discuss the following topics:
 >
@@ -111,7 +114,7 @@ If a character glimpses the day watcher, read or paraphrase the following:
 
 > [!exploration]**A Slip in the Accent**
 >
-> Any character who talks with Ryvarra for a few minutes and makes a successful **DC 14 Wisdom (Insight)** check notices that her Calimshan accent slips on certain words into a flatter and more precise cadence, and that the wine in her glass is exactly as full as when she sat down.
+> Any character who talks with Ryvarra for a few minutes and makes a successful **DC 14 Wisdom (Insight)** check notices two things. Her Calimshan accent slips on certain words into a flatter, more precise cadence, and the wine in her glass is exactly as full as when she sat down.
 >
 > - **Result of 19 or higher:** The character also notices that her questions about the brawl and the troll are about who struck first and how long each fight lasted, which is more than a merchant would care to know.
 
@@ -141,7 +144,7 @@ If the confrontation happens at night, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The two figures in the alley mouth turn away from you the moment you start across the street, without any hurry and without any sign of alarm. One of them whispers to the other in a bright, young voice that is clearly meant to be too low for you to hear.
+> The two figures in the alley mouth turn away from you the moment you start across the street, without any hurry and without any sign of alarm. One of them whispers to the other in a bright, young voice, too low for you to hear clearly.
 >
 > > "Stay behind me, and slowly, please. I really don't want anybody getting hurt."
 >
@@ -153,7 +156,7 @@ If the confrontation happens by day, read or paraphrase the following:
 >
 > The hooded figure in the doorway turns from you as you cross the street and steps back into the dark of the shuttered shop without a word. When you reach the doorstep the back door of the shop is swinging on its hinges, and a black leather eye patch lies on the threshold where the figure was standing.
 
-The eye patch is plain, soft with wear and unmarked. Any character who picks it up learns nothing else from it. If the party includes an elf or half-elf and the confrontation is by day, the hood turns toward that character and stays a moment longer than it does for the others. This has no effect in this Event, and it is Soluun's habit that **The Dockside Killer** builds on. J.B. Nevercott knocks at the front door of Trollskull Manor at 10 a.m. the next morning. Proceed to **The Haberdasher at the Door**.
+The eye patch is plain, soft with wear and unmarked, and a character who picks it up learns nothing else from it. If the party includes an elf or half-elf and the confrontation is by day, the hood turns toward that character and stays a moment longer than it does for the others. This has no effect in this Event. It is Soluun's habit, and **The Dockside Killer** builds on it. J.B. Nevercott knocks at the front door of Trollskull Manor at 10 a.m. the next morning. Proceed to **The Haberdasher at the Door**.
 
 #### The Party Reports to the Watch
 
@@ -189,9 +192,9 @@ Sergeant Marek Dunmere takes reports at the North Ward Watch station on the day 
 
 > [!gamemaster]**Marking the Report**
 >
-> Mark **BD Contact Severed** for each character who gives Dunmere their name. A character who stands beside the reporter and gives no name is not marked, and neither is any companion. The watchers are gone from Trollskull Alley by dusk, for the whole party, because Jarlaxle has the report from his own Watch contacts before the ink is dry.
+> Mark **BD Contact Severed** for each character who gives Dunmere their name. A character who stands beside the reporter and gives no name is not marked, and neither is any companion. The watchers are gone from Trollskull Alley by dusk, for the whole party. Jarlaxle has the report from his Watch contacts before the ink is dry.
 >
-> Jarlaxle closes the file on each reporting character. He treats them as a civilian variable in **Sea Maidens Faire** and not as a possible asset, and nobody from Bregan D'aerthe raises membership with them again. Ryvarra stays at the Portal and continues to file her reports, because nothing she does is against the law.
+> Jarlaxle closes the file on each reporting character. He treats them as a civilian variable in **Sea Maidens Faire**, not as a possible asset, and nobody from Bregan D'aerthe raises membership with them again. Ryvarra stays at the Portal and keeps filing her reports, because nothing she does is against the law.
 
 The next morning, read or paraphrase the following to the reporting characters:
 
@@ -215,13 +218,13 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 
 > [!gamemaster]**The Visit**
 >
-> Nevercott knocks at 10 a.m. on the day the branch above sets. He wears a deep burgundy coat with brass buttons, a cravat tied with great care and a broad hat a little too large for him, tilted at an angle that looks chosen. A round hat box hangs from his hand by a ribbon, and he keeps it closed. He stays on the step until invited in, talks about hats with whoever is present, and takes candidates aside one at a time.
+> Nevercott knocks at 10 a.m. on the day the branch above sets. He wears a deep burgundy coat with brass buttons, a carefully tied cravat and a broad hat a little too large for him. A round hat box hangs from his hand by a ribbon, and he keeps it closed. He stays on the step until invited in, talks about hats with whoever is present, and takes candidates aside one at a time.
 >
 > The address on his card is in the Sea Ward. A character who checks it finds nobody there has heard of him.
 
 > [!readaloud]
 >
-> The man on the doorstep wears a deep burgundy coat with brass buttons and a cravat tied with a great deal of care, and a broad hat that sits a little too large on his head at a jaunty angle. A round hat box hangs from one hand by a ribbon. He has a pleasant, open face, and he holds out a small card with the practiced ease of someone who has been welcomed at a great many doors.
+> The man on the doorstep wears a deep burgundy coat with brass buttons, a neatly tied cravat and a broad hat that sits a little too large on his head. A round hat box hangs from one hand by a ribbon. He has a pleasant, open face, and he holds out a small card.
 >
 > > "Good morning to you all. J.B. Nevercott, of the Sea Ward, hats and accessories of quality. I heard that the new proprietors of Trollskull Manor were people of taste, and I hoped to introduce myself before you went elsewhere."
 
@@ -229,7 +232,7 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 >
 > J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: a courteous and amused Sea Ward haberdasher who enjoys the visit more than he shows.
 >
-> Nevercott is Friendly and in no hurry. He speaks in long, well-turned sentences, compliments the party's taste and shares his opinions about hat brims for as long as anyone will listen. He asks one precise question for every three he answers, never confirms anything about himself beyond what is printed on the card, and does not swear, raise his voice or ask the price of anything. Whenever a character presses him about Bregan D'aerthe before a candidate has stepped aside, he answers with something about hats.
+> Nevercott is Friendly and in no hurry. He speaks in long, well-turned sentences, compliments the party's taste and shares his opinions about hat brims for as long as anyone will listen. He asks one precise question for every three he answers. He never confirms anything about himself beyond what is printed on the card, and he does not swear, raise his voice or ask the price of anything. If a character presses him about Bregan D'aerthe before a candidate has stepped aside, he answers with something about hats.
 >
 > Nevercott is happy to discuss the following topics:
 >
@@ -244,7 +247,7 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 >
 > Nevercott lifts his own hat by the crown and turns it in the light from the doorway.
 >
-> > "Straw for summer, felt for winter, and a very good beaver for the gentleman who has an opinion about beavers. A brim ought to balance the shoulders and flatter the jaw, and you'd be astonished how few customers understand that a wide brim is no use at all on the harbor. They find it out on the first windy day. The samples are at the shop, naturally, and today I came only to introduce myself."
+> > "Straw for summer, felt for winter, and a very good beaver for the gentleman who has an opinion about beavers. A brim ought to balance the shoulders and flatter the jaw, and a wide one is no use at all on the harbor. The samples are at the shop, naturally, and today I came only to introduce myself."
 
 > [!qna]**Who told you about us?**
 >
@@ -256,7 +259,7 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 
 > [!exploration]**The Haberdasher's Eyes**
 >
-> Any character who talks with Nevercott for a few minutes and makes a successful **DC 18 Wisdom (Insight)** check notices that he looks at the characters' hands and weapons more often than at their heads, and that he has not once glanced at the hats he says he sells.
+> Any character who talks with Nevercott for a few minutes and makes a successful **DC 18 Wisdom (Insight)** check notices two things. He looks at the characters' hands and weapons more often than at their heads, and he has not once glanced at the hats he says he sells.
 >
 > Any character who casts *Detect Magic* on him sees a faint aura of illusion around the hat. He answers cheerfully that of course it is enchanted, since a man in his trade needs every advantage, and that no, it is not for sale.
 
@@ -268,7 +271,7 @@ Proceed to **The Haberdasher at the Door** for the candidates who did not report
 
 > [!gamemaster]**Taking a Candidate Aside**
 >
-> Nevercott keeps up the hat patter until a candidate steps aside from the group, and then he follows. If the party includes a drow candidate, he waits up to a quarter of an hour for that candidate to step away on their own. If none does, or if no drow candidate is present, he asks the first candidate in the room for a favor:
+> Nevercott keeps up the hat patter until a candidate steps aside from the group, and then he follows. If the party includes a drow candidate, he waits up to a quarter of an hour for that candidate to step aside. If none does, or if no drow candidate is present, he asks the first candidate in the room for a favor:
 >
 > > "Would you be kind enough to show me your courtyard? A hat should be judged in good light."
 >
@@ -312,7 +315,7 @@ In every case, continue:
 >
 > Nevercott meets your eyes directly for the first time, still smiling, and he speaks a little more slowly than he did on the doorstep.
 >
-> > "My name isn't J.B. Nevercott, and I don't sell hats, though I do have strong opinions about them. I represent an organization called Bregan D'aerthe, a mercenary company with operations across Faerûn and, for some months now, here in Waterdeep. We're very good at what we do, and we have resources most of the factions in this city would pay a great deal to borrow. We take a particular interest in capable people who are making themselves noticed."
+> > "My name isn't J.B. Nevercott, and I don't sell hats, though I do have strong opinions about them. I represent an organization called Bregan D'aerthe, a mercenary company with operations across Faerûn and, for some months now, here in Waterdeep. We have resources most of the factions in this city would pay a great deal to borrow, and we take a particular interest in capable people who are making themselves noticed."
 
 If the candidate is a drow, read or paraphrase the following:
 
@@ -332,7 +335,7 @@ Then:
 >
 > He reaches into his waistcoat and takes out a plain black card with a small ship embossed in silver on one face, and he holds it out between two fingers.
 >
-> > "I'd like to offer you a first assignment, and I want you to understand that it's small. Small enough that declining costs you nothing, and simple enough that accepting costs you very little. I won't brief it today. I'll call at the manor again at dusk on the twentieth, the evening before the Twin Parades, and if you have decided to come, you can hear the details then. Keep the card whatever you decide. I'll be in touch shortly regardless, since I find you interesting enough to keep an eye on either way."
+> > "I'd like to offer you a first assignment, and it's a small one. Declining costs you nothing, and accepting costs you very little. I won't brief it today. I'll call at the manor again at dusk on the twentieth, the evening before the Twin Parades, and if you have decided to come, you can hear the details then. Keep the card whatever you decide. I'll be in touch shortly regardless, since I find you interesting."
 
 > [!social]**The Man Without a Hat**
 >
@@ -363,7 +366,7 @@ Then:
 
 > [!qna]**What's the assignment?**
 >
-> > "I'll tell you when I call again on the evening before the Twin Parades, when you've had time to think it over, and I won't tell you before. It's small, it's legal enough to survive a bad day, and it asks for a steady hand and a little discretion. I wouldn't call it dangerous, and I would call it interesting."
+> > "I'll tell you when I call again on the evening before the Twin Parades, once you've had time to think it over. It's small, it's legal enough to survive a bad day, and it asks for a steady hand and a little discretion. I wouldn't call it dangerous, but I would call it interesting."
 
 > [!qna]**What does it pay?**
 >
@@ -395,7 +398,7 @@ If a candidate accepts, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Nevercott puts his hat back on, tips the brim to a precise angle and takes a small ledger from inside his coat, and he writes your name in a tiny, neat hand before closing it with a snap.
+> Nevercott puts his hat back on, takes a small ledger from inside his coat and writes your name in a tiny, neat hand before closing it with a snap.
 >
 > > "Splendid. You're one of us as of this moment, and I'll call on you again at dusk on the twentieth. There is a young man named Fel'rekt Lafeen who will keep a stall on the pier once the carnival ships tie up on the morning of the twenty-first, and he'll see you properly equipped. Until then, leave any order at the box office of the Seven Masks Theater, in the Dock Ward. When the ships are in and you need a bed, show the card to the mate on the *Heartbreaker* or the *Hellraiser*, and nobody will ask you why."
 
@@ -403,17 +406,17 @@ If a candidate declines or asks for more time, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Nevercott inclines his head to you as though you had paid him a compliment, and he lifts his hat from the barrel and settles it back on his head.
+> Nevercott inclines his head to you, lifts his hat from the barrel and settles it back on his head.
 >
 > > "Then you've lost nothing, as I told you, and I'm glad of the conversation. I'll call again on the evening before the parades all the same. If you change your mind afterward, take the card to the box office of the Seven Masks Theater, in the Dock Ward, and ask for the booking manager. Someone will see that I hear of it."
 
 > [!gamemaster]**Deferring and Changing One's Mind**
 >
-> A candidate who defers can accept when Nevercott calls at Trollskull Manor at dusk on Ches 20, where he repeats the offer once and briefs **The Handkerchief and the Girl** in the same visit. A candidate who declines then is not asked again by him. A candidate who changes their mind afterward and takes the black card to the Seven Masks Theater box office is recorded under the same outcome when Nevercott repeats the offer at Trollskull Manor within three days.
+> A candidate who defers can accept when Nevercott calls at Trollskull Manor at dusk on Ches 20. He repeats the offer once and briefs **The Handkerchief and the Girl** in the same visit. A candidate who declines then is not asked again by him. A candidate who changes their mind afterward and takes the black card to the Seven Masks Theater box office is recorded under the same outcome when Nevercott repeats the offer at Trollskull Manor within three days.
 
 > [!gamemaster]**Initiate Benefits**
 >
-> Each member who accepts gains the following, and nothing goes to a decliner or a companion. The safe house and the stall open on Ches 21, when the Faire fleet arrives at the Dock Ward pier in the morning. Before then a member can leave a written order for Fel'rekt at the box office of the Seven Masks Theater, and he fills it from the pier stall on Ches 21, with payment due on collection. A member cannot use the safe house until the ships are in.
+> Each member who accepts gains the following. Nothing goes to a decliner or a companion. The safe house and the stall open on Ches 21, when the Faire fleet arrives at the Dock Ward pier in the morning. Before then a member can leave a written order for Fel'rekt at the box office of the Seven Masks Theater, and he fills it from the pier stall on Ches 21, with payment due on collection. A member cannot use the safe house until the ships are in.
 >
 > - **The safe house:** A member shows the black card to the mate on watch at the gangway of the *Heartbreaker* or the *Hellraiser*, by day or night, and is given a hammock berth below decks, a locking sea chest and two meals. A member can sleep aboard for no more than three nights running and then must spend one night ashore. The berth is a place to rest and hide, and a member cannot use it to hold prisoners or to meet outsiders.
 > - **The stall:** Fel'rekt Lafeen sells drow-made equipment from a stall on the pier whenever the ships' ramps are open, at the cost he paid and not at the market's rate. A member shows the card on the first visit, and Fel'rekt writes the name in a notebook and keeps a tally of what each member buys.
@@ -431,7 +434,7 @@ When a member first visits the stall, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Among the stalls crowding the pier below the crimson-and-gold ships, one stands a little apart with a few hand crossbows and leather cases laid out on a cloth, and a young drow with white hair and a bright, eager face waves you over before you have shown him the card.
+> Among the stalls crowding the pier below the crimson-and-gold ships, one stands a little apart with a few hand crossbows and leather cases laid out on a cloth. A young drow with white hair and a bright, eager face waves you over before you have shown him the card.
 >
 > > "You're the new one! I'm Fel'rekt Lafeen, and I'm told you have a card, which means I get to sell you things at cost, and I really like that part of the job. Crossbows, bolts, lenses for the dark, take your time and ask me anything. Oh, shit, careful with the lenses, they scratch."
 
@@ -449,20 +452,20 @@ When the interview ends, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Nevercott settles his hat at its chosen angle, takes up the round box by its ribbon and walks back through the manor, touching the brim to anyone he passes. He steps out into Trollskull Alley with the box swinging at his side and turns toward the Dock Ward, and a delivery cart rolls across the mouth of the alley behind him.
+> Nevercott settles his hat, takes up the round box by its ribbon and walks back through the manor, touching the brim to anyone he passes. He steps out into Trollskull Alley with the box swinging at his side and turns toward the Dock Ward. A delivery cart rolls across the mouth of the alley behind him.
 
 ### Concluding the Event
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Bregan D'aerthe Joined** — mark for each character who accepts Nevercott's offer, that morning, when Nevercott calls on Ches 20 or later through the box office, and record the character's name. The member is at Renown 1 with the Initiate rank. Read by the **Bregan D'aerthe** Factions Guide page and by **Faction Outposts** (unconverted). Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no candidate is eligible.
-> - **BD Contact Severed** — mark for each character who gives Sergeant Dunmere their name in a report to the Watch, and for any character who attacks Nevercott, and record the character's name. The character is closed out of Bregan D'aerthe for the rest of Acts I through III. Read by the **Contact Severed** event, by **Sea Maidens Faire** (unconverted), where Jarlaxle treats the character as a civilian variable, and by the response-team page of the Trollskull Manor guide, since a severed character never receives Fel'rekt's dinner invitation.
+> - **Bregan D'aerthe Joined** — mark for each character who accepts Nevercott's offer, that morning, when Nevercott calls on Ches 20 or later through the box office. Record the character's name. The member is at Renown 1 with the Initiate rank. Read by the **Bregan D'aerthe** Factions Guide page and by **Faction Outposts** (unconverted). Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no candidate is eligible.
+> - **BD Contact Severed** — mark for each character who gives Sergeant Dunmere their name in a report to the Watch, and for any character who attacks Nevercott. Record the character's name. The character is closed out of Bregan D'aerthe for the rest of Acts I through III. Read by the **Contact Severed** event, by **Sea Maidens Faire** (unconverted), where Jarlaxle treats the character as a civilian variable, and by the response-team page of the Trollskull Manor guide, since a severed character never receives Fel'rekt's dinner invitation.
 >
 > This Event also reads **Ryvarra Identified**, which **The Neighbors** marks and which changes how Nevercott opens his private word. It reads **BD Acknowledged**, which **The Factions Come Calling** marks when Nevercott's visit goes ahead and which **Fireball!** reads. If at least one candidate has heard his offer and **BD Acknowledged** is not yet marked when he leaves, mark it then. Leave it unmarked if every candidate reported to the Watch.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Handkerchief and the Girl** becomes available to each Bregan D'aerthe member who is 2nd level, and Nevercott briefs it to that member in person at Trollskull Manor at dusk on Ches 20, the eve of the Twin Parades. His promise to be in touch regardless is kept by **Fireball!**, where Krebbyg sends theater tickets to the drow characters, or to the group investigating the explosion if there are none, whether anyone joined or not. A severed character is not approached again about membership. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period.
+> **The Handkerchief and the Girl** becomes available to each Bregan D'aerthe member who is 2nd level. Nevercott briefs it to that member in person at Trollskull Manor at dusk on Ches 20, the eve of the Twin Parades. His promise to be in touch regardless is kept by **Fireball!**, where Krebbyg sends theater tickets to the drow characters, or to the group investigating the explosion if there are none, whether anyone joined or not. A severed character is not approached again about membership. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period.
 >
 > This Event awards no Milestone Points.
 

@@ -2,11 +2,11 @@
 
 ## An Individual Offer and an Individual Severance
 
-The restored draft marked **Bregan D'aerthe Joined** and **BD Contact Severed** as party-wide flags, and a single report to the Watch closed Bregan D'aerthe to everyone for the whole campaign. The event now follows the Harpers and Doom Raiders models. Every character who belongs to no other faction is a candidate, each answers for themselves, and both outcomes are marked with the character's name.
+The restored draft marked **Bregan D'aerthe Joined** and **BD Contact Severed** as party-wide flags, and a single report to the Watch closed Bregan D'aerthe to everyone for the whole campaign. The event now follows the Harpers and Doom Raiders models. Every character who belongs to no other faction is a candidate and answers for themselves. Both outcomes are marked with the character's name.
 
 The Watch branch is the hard case. A character who gives the sergeant their name is severed for good, which is the rule the Factions guide and **Trollskull Alley** both state. Surveillance still ends for the whole party, because the watchers vanish at dusk, but Nevercott keeps his word to "be in touch regardless" and calls on Ches 13 for any candidate who did not give a name. The source says contact ends "for the time being", and the guide says "permanently". The event follows the guide for the severed character and keeps the source's softness for everyone else. This avoids letting one player's report remove another player's story.
 
-An attack on Nevercott also marks **BD Contact Severed**. The source gives him no combat or escape behavior, and the restored draft invented a glass bead and an obscuring cloud that kept him away for three tendays. Both were cut. He now walks out through the crowd, and the attacker is closed out like a reporter.
+An attack on Nevercott also marks **BD Contact Severed**. The source gives him no combat or escape behavior. The restored draft invented a glass bead and an obscuring cloud that kept him away for three tendays, and both were cut. He now walks out through the crowd, and the attacker is closed out like a reporter.
 
 ## The Surveillance Cast
 
@@ -30,4 +30,6 @@ The guide gave Initiates a safe house aboard the *Heartbreaker* or *Hellraiser* 
 
 The renovation financing that **The Factions Come Calling** attaches to Bregan D'aerthe (up to 1,250 gp, repayable in "operational access") is not carried here, since no source text decides how Nevercott would offer it. Quilm, the drow bouncer candidate, has no role in the event.
 
-Marek Dunmere, the Watch sergeant, is invented for this event, and no Notable Figures page exists for him. He is voiced from the event text. The Notable Figures pages for Soluun, Fel'rekt and Krebbyg list the **Drow Gunslinger** stat block. The events use it for Krebbyg and Fel'rekt, and use the 2024 **Scout** for Soluun, as **The Dockside Killer** does. The Factions guide and **The Factions Come Calling** still describe both outcomes as party-wide and describe the Watch report as an unconditional, permanent closure. **Finding Floon** and **The Neighbors** disagree with each other and with the Ryvarra page about her tenure and where she is seen.
+Marek Dunmere, the Watch sergeant, is invented for this event, and no Notable Figures page exists for him. He is voiced from the event text. The Notable Figures pages for Soluun, Fel'rekt and Krebbyg list the **Drow Gunslinger** stat block. The events use it for Krebbyg and Fel'rekt, and use the 2024 **Scout** for Soluun, as **The Dockside Killer** does.
+
+Two inconsistencies remain outside this event. The Factions guide and **The Factions Come Calling** still describe both outcomes as party-wide and describe the Watch report as an unconditional, permanent closure. **Finding Floon** and **The Neighbors** disagree with each other and with the Ryvarra page about her tenure and where she is seen.
