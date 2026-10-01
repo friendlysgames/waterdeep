@@ -274,6 +274,16 @@ If nobody spots him, read or paraphrase the following:
 >
 > The party doesn't have to fight. If a character spots Soluun and the party walks Heldar back out of the alley the way they came, the hired hands at the corner have no reason to stop them, and Soluun won't fire on a group of armed watchers. He slips away over the roofs without a fight and without losing the playbill, and the party learns nothing more about him tonight.
 
+> [!gamemaster]**Bregan D'aerthe Members**
+>
+> Membership is individual, and a character belongs to one faction at a time, so a Bregan D'aerthe member can be in this alley only as the companion of a Doom Raiders member. Companions gain no Doom Raiders Renown.
+>
+> The member knows Soluun as the day watcher from the First Meeting, and the spider-and-blade disc at his neck is the company's mark. Nothing the member sees tells them he is acting without orders. Soluun knows the member's face too, and he doesn't spare them. He fires on them like anyone else, calls them traitor in the same breath as surface-blood, and says that he hunts for the captain. A captured Soluun demands to know why a brother of the company is holding the blade.
+>
+> The company learns who stood in the alley within a tenday. **The Killer's Fate** runs the consequences: Nevercott's "You were there.", a loss of 1 Renown unless the member explains themselves well, and nothing worse. If Soluun survives, **Soluun Expelled** follows.
+>
+> The member may warn Nevercott or Fel'rekt before Night 3, and Fel'rekt is the easier of the two to reach because he shadows the party after dark. The company takes the warning and doesn't act on it, so the ambush runs as written. The warning counts as a good explanation in the witness beat, and the member still makes the **DC 13** check.
+
 Regardless of how the fight opens, Heldar's life depends on the party.
 
 > [!gamemaster]**Heldar at 0 Hit Points**
