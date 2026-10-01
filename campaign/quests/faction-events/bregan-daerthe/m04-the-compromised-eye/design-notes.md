@@ -1,21 +1,29 @@
 # Design Notes: The Compromised Eye
 
-## The Three-Flag Architecture
+## The Shape of the Mission
 
-***Why three binary flags instead of one multi-state.*** The three resolution options produce outcomes that matter differently in different downstream arcs. Nar'l Active and Nar'l Extracted both represent success, but they create different capabilities: Active means the party has an embedded source they can query before Arc F; Extracted means they have a living guide who can walk them through the lair physically. Nar'l Eliminated produces a different kind of result — Arc F loses specific entry intelligence, and Jarlaxle's Arc H posture shifts. Three flags let each downstream arc query exactly the relevant condition rather than unpacking a single "what happened to Nar'l" variable.
+The source mission is one long conversation in an office with a clock on it, and the rewrite keeps that. **The Compromised Eye** takes the party from the letter to the desk, and **Twelve Minutes** spends the clock on three routes. The split exists because the first Event plays as a walk and a reading of one man's face, and the second plays as a series of costs, so a table can always see how many minutes it has left.
 
-The Eliminated flag exists because removing it would require the document to pretend the party cannot make that choice. It is presented without mechanical penalty (the mission still technically completes) but with clear narrative cost. Jarlaxle is not vindictive; he is evaluative. A party that killed Nar'l against the mission brief has told him something about how they operate under pressure.
+The three-tier order is the mission's tension. Nevercott asks for the gentlest outcome first and the cruelest last, which is what the sources imply and what the earlier draft's "he stays alive and in place" order removed. The four drow at the stair carry the cruel order in a second pair of hands, because a spymaster who writes "swiftly and without pain" and then arms four people against the answer is a more interesting patron than one who writes a single clean instruction.
 
-## Nar'l's Hostility as a Real Obstacle
+## Departures from the Source
 
-***The DC 14 check is not a formality.*** Nar'l has operational reasons to treat strangers at his contact point as a threat. A party that rolls poorly on the initial persuasion is not locked out of the mission — the additional approaches (different party member, different angle, specific intel disclosure) are listed to give the table tools rather than a single-attempt gate. But the hostility is not performative; it is the natural response of a three-year deep-cover operative who has just learned that his cover may already be blown.
+The restored draft had an invented investigator, an arrival by *Dimension Door* and three single-check options. The source gives Nar'l a grell, a twelve-minute window and an opening trade, and all three are restored. The Eye in Sylgar's bowl and the bypass through X18 come from Appendix C. The bypass is built on the calibration order that **Xanathar's Lair** gives Nar'l, who can log a sensor as under calibration for ten minutes.
 
-The decision to give Nar'l a DC 14 rather than a lower threshold is about the mission's dramatic register. He is afraid. He is also professional. Winning his cooperation should cost the party something — time, good rolls, a reveal of what they know — rather than being a given.
+Appendix C has Jarlaxle say "for Lolth's sake," and the line is cut, because Bregan D'aerthe has rejected her. WDH puts four drow with secret orders to kill Nar'l at the head of the Castle Ward staircase for a member with Renown 4 or more, and they carry those orders here. They give the Extraction route its sharpest beat, a loaded crossbow at the top of a stair where the party has just won.
 
-## Soluun's Cross-Faction Thread
+The old draft's "case" is kept, but it now has a body. Ahmaergo's clerks hold three unsent reports and a fence's word, and the discredit route attacks both. The investigator is gone, because the sources say Xanathar himself is suspicious and Ahmaergo only does his paperwork.
 
-***The brother who costs him everything.*** Soluun Xibrindas appears in Doom Raiders M1 as the Dock Ward drow operating under a forged token — a low-level encounter whose significance is withheld. DR-M1's design notes name the connection explicitly: Soluun's unauthorized presence is the root cause of Nar'l's exposure here. A party running both faction chains will eventually connect these events. A party running only the BD chain learns the backstory in Krebbyg's brief and understands it as the story of a professional who chose family over operational security. Neither judgment is offered. The facts are sufficient.
+Nar'l's tenure is a year, as WDH says, and not the three years in the Notable Figures page or the eleven in **Xanathar's Lair**. The disownment of Soluun follows **The Killer's Fate**. If Soluun was expelled, the cover story is real and nobody calls it one. If he was killed, Nar'l grieves. If neither applies, Krebbyg calls it a story at the debrief.
 
-## Jarlaxle's Private Dinner
+## Four Outcomes, Not Three
 
-***The relationship change.*** The in-person appearance by Zardoz Zord at Seven Masks is the mission's emotional payoff. The party has now been working for an organization that has never explained itself, been paid anonymously, and protected a hostage they were not told the significance of. The private dinner does not explain any of that — but it acknowledges that Jarlaxle has been watching the whole time and has decided the party is worth meeting as people, not just as operatives. This is the moment the BD mission chain shifts from professional arrangement to something more complex. Arc H builds on it directly.
+The restored draft had **Nar'l Active**, **Nar'l Extracted** and **Nar'l Eliminated**, and **Dinner with Zardoz** needed a fourth state for the discredit route. **Nar'l Cleared** is that state. It requires both halves of the discredit route to go well, so **Nar'l Active** is what remains when one half fails and is no longer a catch-all. The Event Outcomes block tells readers that ask only whether Nar'l is still in place to treat **Nar'l Cleared** as **Nar'l Active**.
+
+**Nar'l Bypass Learned** is new. It records that the party holds the X19 and X18 intelligence, which **Xanathar's Lair** (unconverted) should read as a source for its casing scene. If the lair has already run, the trade changes and the outcome means little.
+
+## Minor Characters and Open Questions
+
+Tarn Hobble and Dorrim Ketch are invented, as is Arannis Nur'zekk's role as spokesman for the four drow. The four drow's names come from WDH, and nothing there says which of them speaks. Nevercott has no voice profile, and his letter is written from his persona in the First Meeting. The grell, the Guild's response and Ahmaergo's clerks have no profiles and are given lines only where needed.
+
+**Xanathar's Lair** (unconverted) has to read **Nar'l Cleared**, **Nar'l Active**, **Nar'l Extracted**, **Nar'l Eliminated** and **Nar'l Bypass Learned**, and it contradicts the restored draft on Nar'l's tenure. The guide's Renown 5 extraction benefit on the *Scarlet Marpenoth* is not implemented here. The guide's M4 summary says "Jarlaxle forbids killing him," which the tiered order contradicts, and the guide still lists the three approaches under the old wording.
