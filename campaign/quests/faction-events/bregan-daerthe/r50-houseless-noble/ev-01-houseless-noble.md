@@ -14,9 +14,9 @@
 
 ### Hook
 
-The Event waits for the first evening on which the member is back in Waterdeep after reaching Renown 50. It does not interrupt a descent, and the card is found on the doormat of Trollskull Manor when the party next comes up from below. A member who has marked **Seven Masks Back Room** receives the card at the dressing room instead, as described in the next scene. If several members qualify together, they are called to the same evening, and each takes the coin and gives an answer alone.
+Hold this Event until **BD Commander** is marked for the member. It then waits for the first evening on which the member is back in Waterdeep after reaching Renown 50. It does not interrupt a descent, and the card is found on the doormat of Trollskull Manor when the party next comes up from below. A member who has marked **Seven Masks Back Room** receives the card at the dressing room instead, as described in the next scene. If several members qualify together, they are called to the same evening, and each takes the coin and gives an answer alone.
 
-The renown figure needs a plain statement. The six missions award 19 Renown at most (1 for joining and 18 in base awards, with no bonuses), so no member reaches 50 on the missions alone. The other 31 points come from the Earning Renown list in the Bregan D'aerthe page of the Factions Guide and from play in **Dungeon of the Mad Mage**. This Event awards none of them, and it fires whenever the member crosses the line, whether that is before or after **Vault of Dragons** has resolved.
+The renown figure needs a plain statement. The base awards total 19 (1 for joining and 18 across the six missions), and the bonus lines in each mission and the Earning Renown list in the Bregan D'aerthe page of the Factions Guide supply the rest, along with play in **Dungeon of the Mad Mage**. This Event awards none of them, and it fires whenever the member crosses the line, whether that is before or after **Vault of Dragons** has resolved.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -26,7 +26,7 @@ The renown figure needs a plain statement. The six missions award 19 Renown at m
 >
 > Bregan D'aerthe rejects Lolth. The spider on the coin is the goddess the company walked away from, caught in her own web with a blade through her, and every speaker mentions her with contempt. Nobody in this Event knows anything about the Cassalanters except suspicion, and Manshoon is not named. If the Splinter comes up, the speakers say "the other cell."
 >
-> Pelsha and Vorn, the two Drow Gunslingers assigned at **Commander**, stand at the door and do not speak. Breena Bafflestone, the gnome engineer, is at her post in the engine room and is not at the table.
+> Pelsha and Vorn, the two Drow Gunslingers assigned at **Commander**, stand at the door and speak only where the text gives them lines. Breena Bafflestone, the gnome engineer, is at her post in the engine room and is not at the table.
 
 ### The Card
 
@@ -56,7 +56,7 @@ The *Scarlet Marpenoth* has had a hard season, and where she lies and what she l
 
 > [!readaloud]
 >
-> The skiff slides in beneath the rusting hulk of an old barge that has been moored in Deepwater Harbor for as long as anyone can remember, and a brass hatch opens in the water at the foot of a ladder. The hull below it is clean and tightly plated, with fresh paint on the rivets and a gnome in a leather apron wiping a porthole with her sleeve. The air in the passage smells of lamp oil and warm metal.
+> The skiff slides in beneath the outer end of the old Faire pier at Smugglers' Dock, between black pilings furred with weed, and a brass hatch opens in the water at the foot of a ladder. The hull below it is clean and tightly plated, with fresh paint on the rivets and a gnome in a leather apron wiping a porthole with her sleeve. The air in the passage smells of lamp oil and warm metal.
 >
 > Fel'rekt climbs down after you and nods toward the lounge door at the end of the passage.
 >
@@ -130,7 +130,15 @@ If **Jarlaxle Unmasked** is marked, read or paraphrase the following instead:
 
 The lounge has places for six at the bench and the chart table. Pelsha and Vorn stand at the door with their hands loose, as they do at every meeting. Four of the other places belong to people who may or may not be there, and the member sees which before the host speaks again. Fel'rekt narrates the empty places in his own words, because nobody else aboard will say them, and he does it with his hands, counting them off. Soluun's seat comes first.
 
-If **Soluun Expelled** is marked, read or paraphrase the following:
+If **Soluun Expelled** is marked and **Soluun Sold the Mooring** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Fel'rekt takes the end of the bench and counts something off on his fingers before he realizes you are watching him. A fourth place at the table has been cleared of its cushion and its glass, and the back of the chair has been turned to face the wall.
+>
+> > "That's Soluun's, or it was. He sold the berth to the Xanathar's divers, and the captain hasn't said his name since that night. I broke the disc in the harbor like I was told to, and I don't know where he went. I'm not sure the captain wants to."
+
+If **Soluun Expelled** is marked and **Soluun Sold the Mooring** is not marked, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -286,7 +294,7 @@ A drop does four things for a member who shows the coin and says the phrase. The
 >
 > The packet belongs to the member who received it and has no effect for anyone else. A companion who walks into a drop with the member's phrase and no coin is told the shop is closed.
 >
-> - **Renown below 50:** if the member's Renown falls below 50, the drops go dark, the coin stays with the member, and the benefits return when Renown reaches 50 again.
+> - **Renown below 50:** if the member's Renown falls below 50, the member keeps the rank and the coin, the drops go dark, and the benefits return when Renown reaches 50 again.
 > - **Leaving the company:** a member who leaves Bregan D'aerthe or marks **BD Contact Severed** has the coin recalled by Fel'rekt or Krebbyg within the day, and the packet burns in the member's own hands as they say the phrase.
 > - **Acting against the company:** a member who is ordered by a drop's keeper to stand down because they are working against the company and refuses loses all four drops and the coin. This is a loss of the rank, and Renown is set to 49.
 > - **A lost packet:** a stolen packet is reported to the company by the keeper at the next drop the thief tries, and the thief is not helped. The member is not given another.
@@ -301,13 +309,13 @@ A drop does four things for a member who shows the coin and says the phrase. The
 
 ### The Muster
 
-Pelsha walks to the table and sets a folded sheet on it without sitting down, and the host nods once. The sheet lists the inner circle's muster, which is a pool of ten people on call for one major operation. Soluun is not on it, because he has been expelled or killed.
+Pelsha walks to the table and sets a folded sheet on it without sitting down, and the host nods once. The sheet lists the inner circle's muster, which is the pool of people on call for one major operation: the two lieutenants, the company's two crews, each Officer's own Spy and the captain. Soluun is not on it, because he has been expelled or killed.
 
 > [!qna]**Who is in the muster?**
 >
 > Pelsha nods toward the door, where Vorn stands.
 >
-> > "Krebbyg and Fel'rekt, and Vorn and I, and four of our people who've run work for the captain for years. Ilphrin Quiss is in it too, since she answers to the company before she answers to anyone else. And the captain himself, if the operation's big enough to need him."
+> > "Krebbyg and Fel'rekt, and Vorn and I with our four, and Ilmra and Brythe with theirs, though the two crews never go out together. Every Officer's own Spy is in it too, since they answer to the company before they answer to anyone else. And the captain himself, if the operation's big enough to need him."
 
 > [!qna]**What can we ask them to do?**
 >
@@ -318,17 +326,17 @@ Pelsha walks to the table and sets a folded sheet on it without sitting down, an
 > Each Houseless Noble can call the muster on one major operation at a time. The member gives the host or a lieutenant five days' notice, names the objective, the place and the hour, and picks one package:
 >
 > - **Lieutenants:** Krebbyg and Fel'rekt, for a quiet job that needs two people who know the city.
-> - **Roster:** Pelsha, Vorn and four drow, for an assault or a guard.
+> - **Roster:** one crew of two gunslingers and four drow, for an assault or a guard. Crew One is Pelsha, Vorn and four drow, and Crew Two is Ilmra Kelnozz, Brythe Mizzrym and four drow. The member gets whichever crew is free.
 > - **Strike:** the Lieutenants and the Roster together, for a major assault.
-> - **Full muster:** the Strike package plus Ilphrin Quiss and Jarlaxle himself, approved only if the member accepted the blank favor and the target is a villain faction's holding, force or leader.
+> - **Full muster:** the Strike package plus the member's own Spy from **Officer** and Jarlaxle himself, approved only if the member accepted the blank favor and the target is a villain faction's holding, force or leader.
 >
-> The package meets the member where the member names, and the lead operative takes the member's plan. The operation runs until the objective is finished, abandoned or made impossible. A package that is out cannot go out again until it is back, and fallen operatives are replaced a tenday later. Only one muster exists, so two Houseless Nobles who ask for overlapping dates share it in the order they asked. The Roster of **Commander** is the same pool as the Roster here, so a member cannot call it once under each rank.
+> The package meets the member where the member names, and the lead operative takes the member's plan. The operation runs until the objective is finished, abandoned or made impossible. A package that is out cannot go out again until it is back, and fallen operatives are replaced a tenday later. Only one muster exists, so two Houseless Nobles who ask for overlapping dates share it in the order they asked. The Roster draws on the same two crews as **Commander**, so a member cannot call a crew once under each rank.
 >
 > A member who declined the blank favor may call only the Lieutenants package, once per tenday.
 
 > [!gamemaster]**The Muster as Allies**
 >
-> Krebbyg, Fel'rekt, Pelsha and Vorn use the **Drow Gunslinger** stat block from *Waterdeep: Dragon Heist*, because the 2024 *Monster Manual* has no drow gunslinger. The four drow use the **Scout** stat block with Darkvision 120 feet and Sunlight Sensitivity added and a hand crossbow in place of the longbow. Ilphrin Quiss uses the **Spy**, and Jarlaxle uses the **Pirate Captain**. Soluun is not in the pool, so he adds nothing. If you ever bring him back, he adds 38 for a party of levels 8 to 10.
+> Krebbyg, Fel'rekt and the four gunslingers of the two crews (Pelsha, Vorn, Ilmra and Brythe) use the **Drow Gunslinger** stat block from *Waterdeep: Dragon Heist*, because the 2024 *Monster Manual* has no drow gunslinger. The drow of each crew use the **Scout** stat block with Darkvision 120 feet and Sunlight Sensitivity added and a hand crossbow in place of the longbow. The member's Spy uses the **Spy** stat block, and Jarlaxle uses the **Pirate Captain**. Soluun is not in the pool, so he adds nothing. If you ever bring him back, he adds 38 for a party of levels 8 to 10.
 >
 > Ally Power counts in full for operatives who take part in a combat. For a party of levels 8 to 10, the Lieutenants add 76, the Roster 124, the Strike package 200, and the full muster 282. From level 11, they add 64, 92, 156 and 221. Add the total to the participating characters' Party Power before recalculating the difficulty and the day cost. The full muster roughly triples a party of three and more than doubles a party of five, so build the fight around the larger total or send the Lieutenants or the Roster unless the operation is a set piece.
 >
@@ -450,9 +458,9 @@ If the member declines, read or paraphrase the following:
 
 ### Renown Opportunities
 
-This Event awards no Renown, gold or Milestone Points. The six missions award at most 19 Renown, counting the point for joining, so the 31 points that bring a member to 50 come from Earning Renown and from play in **Dungeon of the Mad Mage**. The coin and the packet do not earn Renown of their own, and the company has no higher rank to reach.
+This Event awards no Renown, gold or Milestone Points. The base awards of the six missions total 19, counting the point for joining, and the bonus lines and the Earning Renown list supply the rest, along with play in **Dungeon of the Mad Mage**. The coin and the packet do not earn Renown of their own, and the company has no higher rank to reach.
 
-If a member's Renown falls below 50, the packet, the muster and the ship are suspended and the coin stays with them. They return when Renown reaches 50 again.
+If a member's Renown falls below 50, the member keeps the rank and the coin, and the packet, the muster and the ship are suspended. They return when Renown reaches 50 again.
 
 ### Aftermath
 
@@ -464,7 +472,8 @@ The Event concludes when the member has taken the coin and the packet, heard how
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **BD Houseless Noble** — mark with the recipient's name when the host puts the coin in their hand. Record the speaker (Zardoz or Jarlaxle), the state of the *Scarlet Marpenoth* (**Marpenoth Saved**, **Marpenoth Crippled** or **Marpenoth Lost**), the Soluun branch, the Nar'l branch, and whether either lieutenant was missing. Read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's standing with Bregan D'aerthe, and by any later event that checks for the inner circle.
+> - **BD Houseless Noble** — mark with the recipient's name when the host puts the coin in their hand. Record the speaker (Zardoz or Jarlaxle), the state of the *Scarlet Marpenoth* (**Marpenoth Saved**, **Marpenoth Crippled** or **Marpenoth Lost**), the Soluun branch (**Soluun Expelled** with **Soluun Sold the Mooring**, **Soluun Expelled** alone, or **Soluun Killed**), the Nar'l branch, and whether either lieutenant was missing. Read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's standing with Bregan D'aerthe, and by any later event that checks for the inner circle.
+> - **Zardoz Introduced** — mark with the member's name if it was not marked and Krebbyg introduces Zardoz at the foot of the ladder. Read by **Dungeon of the Mad Mage** (unconverted) content in which Zardoz Zord deals with the member.
 > - **BD Blank Favor Accepted** — mark with the member's name when they accept, and record the date. Read by **Dungeon of the Mad Mage** (unconverted), where the favor is called and the full muster and the guaranteed ship are open to the member.
 > - **BD Blank Favor Declined** — mark with the member's name when they decline or the tenday lapses, and record the date. Read by **Dungeon of the Mad Mage** (unconverted), where the Underdark leaves and the full muster stay closed and the ship takes the member only on the host's approval.
 

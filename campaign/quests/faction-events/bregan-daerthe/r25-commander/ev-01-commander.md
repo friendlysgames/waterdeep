@@ -323,7 +323,7 @@ In the Jarlaxle version he says the same thing in his own voice, with less noise
 
 This rank awards no Renown, gold or Milestone Points. The favours, the crews and the captain's company are the rank's own benefits and do not count as a member's report to the company. Each member earns further Renown from the missions and from the Earning Renown list in the Bregan D'aerthe page of the Factions Guide.
 
-If a member's Renown falls below 25, their Commander benefits are suspended, and Pelsha and Vorn go back to the company. The benefits return when the member's Renown reaches 25 again.
+If a member's Renown falls below 25, the member keeps the rank and their Commander benefits are suspended, and Pelsha and Vorn go back to the company. The benefits return when the member's Renown reaches 25 again.
 
 ### Aftermath
 

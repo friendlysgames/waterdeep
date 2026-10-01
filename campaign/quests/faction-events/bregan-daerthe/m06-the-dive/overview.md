@@ -63,13 +63,13 @@ The *Scarlet Marpenoth* ends the night saved, crippled or lost, and the outcome 
 - **Zardoz Zord** (Bregan D'aerthe): present at the brief if **Zardoz Introduced** is marked.
 - **Breena Bafflestone** (Bregan D'aerthe): the gnome engineer aboard the *Scarlet Marpenoth*, who has put her crew ashore and waits in the control room.
 - **Orlo Stannick** (Xanathar's Guild): the Guild's dive leader.
-- **Tamsin Rooke** (Xanathar's Guild): his deputy, present when the party has four or more combatants.
+- **Hesk Rooke** (Xanathar's Guild): his deputy, present when the party has four or more combatants.
 - **Nell Corvane** (Xanathar's Guild): the surface lookout.
 - **Soluun Xibrindas** (independent, formerly Bregan D'aerthe): in the Guild's launch if **Soluun Expelled** is marked. He doesn't fight.
 
 ## Dangers & Enemies
 
-Nell Corvane uses the **Spy** block. Orlo Stannick uses the **Warrior Veteran**, Tamsin Rooke the **Bandit Captain**, the divers the **Tough**, and two hired merfolk the **Merfolk Skirmisher**. The reinforcement boat carries a **Bandit Captain**, **Tough** and **Bugbear Warrior** crew. The charge deals 8d10 force within 30 feet and 4d10 from 31 to 60 feet, and the *Scarlet Marpenoth* has AC 20, 300 Hit Points and a damage threshold of 15.
+Nell Corvane uses the **Spy** block. Orlo Stannick uses the **Warrior Veteran**, Hesk Rooke the **Bandit Captain**, the divers the **Tough**, and two hired merfolk the **Merfolk Skirmisher**. The reinforcement boat carries a **Bandit Captain**, **Tough** and **Bugbear Warrior** crew. The charge deals 8d10 force within 30 feet and 4d10 from 31 to 60 feet, and the *Scarlet Marpenoth* has AC 20, 300 Hit Points and a damage threshold of 15.
 
 ## Overview
 

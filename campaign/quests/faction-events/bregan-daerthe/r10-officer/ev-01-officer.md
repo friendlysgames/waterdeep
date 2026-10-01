@@ -11,10 +11,10 @@
 
 ### The Summons
 
-On the morning after the member reaches Renown 10, a playbill is pushed under the door of Trollskull Manor with a price circled in red. This is the company's usual summons from **Kreb Drops the Cover**, and the circled number is the bell at which the member goes to the stage door of the Seven Masks Theater. Who receives the member there depends on one outcome.
+Hold this Event until **BD Soldier** is marked for the member. On the morning after the member reaches Renown 10, a playbill is pushed under the door of Trollskull Manor with a price circled in red. This is the company's usual summons from **Kreb Drops the Cover**, and the circled number is the bell at which the member goes to the stage door of the Seven Masks Theater. Who receives the member there depends on one outcome.
 
 - **If Zardoz Introduced is not marked for the member:** J.B. Nevercott receives them. This covers the usual case, where the rank is reached as **The Compromised Eye** resolves and the dinner in **Dinner with Zardoz** has not yet been held, and it also covers a member for whom that dinner never fires, because they never resolved the mission or refused both of Krebbyg's invitations. The circled number is 9, and Krebbyg walks the member up to the stage manager's office (area P6) behind the stage. If the dinner is still to come, it goes ahead two evenings after the member reports on **The Compromised Eye**, and Zardoz's remark that the haberdasher "has gone back to hats" lands a little later than it would have.
-- **If Zardoz Introduced is marked for the member:** Zardoz Zord receives them aboard the *Eyecatcher*, in the captain's dining cabin (area J10). The circled number is 8, the skiff leaves the harbor steps at half past eight with Fel'rekt rowing, and the crossing is the one described in **Dinner with Zardoz**. If the Faire has sailed on Tarsakh 20, the *Eyecatcher* is gone and Zardoz receives the member in the stage manager's office instead, because he has stayed behind in Waterdeep with a handful of the company.
+- **If Zardoz Introduced is marked for the member:** Zardoz Zord receives them aboard the *Eyecatcher*, in the captain's dining cabin (area J10). The circled number is 8, the skiff leaves the harbor steps at half past eight with Fel'rekt rowing, and the crossing is the one described in **Dinner with Zardoz**. If the Faire has sailed on Tarsakh 20, the *Eyecatcher* is gone and Zardoz receives the member in the cabin of the hired lighter moored at the end of the Dock Ward piers, the same one used in **Commander**, because he has stayed behind in Waterdeep with a handful of the company. The circled number and the skiff are the same.
 - **If the member never marked Kreb Unmasked:** the playbill still arrives, but Kreb Sorrush hands it over across the box office counter, in his human cover, and the member is taken up to the office through the stage door without another word.
 
 Every qualifying member is invited on their own account and meets their contact alone. A companion who is not a Bregan D'aerthe member may ride in the skiff or wait in the lobby, and gains nothing from the evening. A member who is away from Waterdeep finds the playbill waiting at their first lodging on return, and the meeting moves to the next evening at the bell the card names.
@@ -59,7 +59,7 @@ If **Jarlaxle Unmasked** is marked for the member and Nevercott is receiving the
 
 > [!social]**The Man Behind the Rank**
 >
-> J.B. Nevercott (Chaotic Neutral, Human in appearance, he/him) :: the courteous haberdasher who stands in for the captain until the captain takes the member over himself.
+> J.B. Nevercott (Chaotic Neutral, Drow in a hat of disguise, he/him) :: the courteous haberdasher who stands in for the captain until the captain takes the member over himself.
 >
 > Nevercott is Friendly and unhurried. He speaks in long, balanced sentences, answers questions with a clear account of what he is willing to say, and never swears. He explains the rank the way a tailor explains a fitting, point by point and in order.
 >
@@ -99,7 +99,7 @@ If **Jarlaxle Unmasked** is marked for the member and Nevercott is receiving the
 
 ### The Spy
 
-Ilphrin Quiss, a drow Spy, waits at the window in the stage manager's office, or by the clockwork valet in the dining cabin. Aboard the *Eyecatcher* she looks like an ordinary human woman to everyone, like every other drow on the ship. In the office she has the grey skin and white hair she has when no one else is watching. Whichever the case, she steps forward when the member's contact introduces her and nods once. She does not shake hands.
+Ilphrin Quiss, a drow Spy, waits at the window in the stage manager's office, by the clockwork valet in the dining cabin, or by the porthole in the cabin of the lighter. Aboard the *Eyecatcher* she looks like an ordinary human woman to everyone, like every other drow on the ship. In the office or on the lighter, where there is no figurehead, she has the grey skin and white hair she has when no one else is watching. Whichever the case, she steps forward when the member's contact introduces her and nods once. She does not shake hands.
 
 > [!social]**The Spy Who Keeps Shop**
 >
@@ -288,7 +288,7 @@ If the party knows of the Vault of Dragons, add the contact's line to whichever 
 
 The rank event awards no Renown. Each Officer earns further Renown from the missions and from the Earning Renown list in the Bregan D'aerthe page of the Factions Guide.
 
-If a member's Renown falls below 10, their Officer benefits are suspended. The Spy goes back to the company, the item stays with the member, and the folio, the assessment and the trace return when the member's Renown reaches 10 again.
+If a member's Renown falls below 10, the member keeps the rank and their Officer benefits are suspended. The Spy goes back to the company, the item stays with the member, and the folio, the assessment and the trace return when the member's Renown reaches 10 again.
 
 ### Aftermath
 

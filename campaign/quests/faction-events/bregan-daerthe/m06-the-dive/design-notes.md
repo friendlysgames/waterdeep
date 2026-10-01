@@ -30,7 +30,7 @@
 
 ## Voices
 
-***Krebbyg and Fel'rekt follow their profiles.*** The draft made Krebbyg a calm handler who "does not dive" for twenty years of reasons nobody explained. He is now rash, frightened and talkative, he says "darling" and "Ask Fel", and he does not dive because he would drown loudly. Fel'rekt arrives, counts options on his fingers and says there is another way. Zardoz is loud and generous, and he never mentions drow, the Underdark or Luskan. A member who has **Jarlaxle Unmasked** hears one private line in the captain's own voice, and no other speaker says the name.
+***Krebbyg and Fel'rekt follow their profiles.*** Soluun fights, if he must, as the 2024 **Scout** with the changes from **The Dockside Killer**, which matches **The Killer's Fate** and the Doom Raiders mission. Krebbyg and Fel'rekt do not fight here. Where they do fight, in **Commander** and **Houseless Noble**, they use the *Waterdeep: Dragon Heist* Drow Gunslinger. The draft made Krebbyg a calm handler who "does not dive" for twenty years of reasons nobody explained. He is now rash, frightened and talkative, he says "darling" and "Ask Fel", and he does not dive because he would drown loudly. Fel'rekt arrives, counts options on his fingers and says there is another way. Zardoz is loud and generous, and he never mentions drow, the Underdark or Luskan. A member who has **Jarlaxle Unmasked** hears one private line in the captain's own voice, and no other speaker says the name.
 
 ***Orlo and Nell are plain people.*** Orlo is a salvage diver who has no love for the Guild's clerks, and Nell is a professional lookout who will sell her price. Neither is a villain, and both can be bought, talked down or fooled, which is how a faction mission about a bomb on a boat avoids a slaughter.
 
@@ -38,13 +38,13 @@
 
 ***Marpenoth Saved, Crippled and Lost.*** The brief wanted **Marpenoth Saved** read by **Vault of Dragons** and **Houseless Noble**. Both are unconverted or unrevised, and the readers describe what each should read. **Vault of Dragons** reads the submarine as a transport for part of the vault gold, and 2 tons of cargo space holds about 200,000 gp in coin. **Houseless Noble** reads the ceremony's location and the submarine benefit.
 
-***Soluun Sold the Mooring and Guild Survivor Escaped.*** The first gives **Houseless Noble** the empty seat's account and triggers the plea penalty. The second tells **Vault of Dragons** Scene 5 that the Guild knows which members dived.
+***Soluun Sold the Mooring and Guild Survivor Escaped.*** The first gives **Houseless Noble** the empty seat's account, in a paired readaloud for **Soluun Expelled** with **Soluun Sold the Mooring**, and triggers the plea penalty. The second tells **Vault of Dragons** Scene 5 that the Guild knows which members dived.
 
 ## Source Departures
 
 ***Cut from the draft.*** Krenick Durr and the ketch wreck, Eye #3 as the prize, the Pier 17 off Sail Street setting, the paper-bird lookout, the rope-ladder pickup from the *Eyecatcher*, the "committed to Waterdeep for another season" line, the 15-Renown drow disguise resources and the merfolk-as-texture block are gone. The wreck and Krenick's name go with the Eye plot. The Renown 5+ extraction in the Factions Guide was never implemented in the Bregan D'aerthe folder and is not implemented here.
 
-***Invented and unverified.*** Orlo Stannick, Tamsin Rooke and Nell Corvane are invented. The limpet charge, the Dawn Clock, the detonation figures and the repair time are invented in the Mechanics Reference. The reserve berth at the old Faire pier is invented, and the pier's location comes from the Sea Maidens Faire area overview, which puts the *Heartbreaker* and *Hellraiser* at a private pier at Smugglers' Dock. The 150 gp bribe, the 250, 100 and 0 gp purses, and the 05:30 first light are my own figures.
+***Invented and unverified.*** Orlo Stannick, Hesk Rooke and Nell Corvane are invented. The limpet charge, the Dawn Clock, the detonation figures and the repair time are invented in the Mechanics Reference. The reserve berth at the old Faire pier is invented, and the pier's location comes from the Sea Maidens Faire area overview, which puts the *Heartbreaker* and *Hellraiser* at a private pier at Smugglers' Dock. The 150 gp bribe, the 250, 100 and 0 gp purses, and the 05:30 first light are my own figures.
 
 ## Out-of-Scope Notes
 

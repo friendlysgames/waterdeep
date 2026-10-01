@@ -113,7 +113,7 @@ If neither is marked, read or paraphrase the following as a postscript below the
 
 ### The Head of the Stair
 
-The party reaches the grate at 11:30. Four drow stand on the ledge above the channel, waiting for the party with their hoods back and a shuttered lantern at their feet.
+The party reaches the grate at 11:15. Four drow stand on the ledge above the channel, waiting for the party with their hoods back and a shuttered lantern at their feet.
 
 > [!readaloud]
 >
@@ -160,7 +160,7 @@ The party reaches the grate at 11:30. Four drow stand on the ledge above the cha
 
 ### The Guildsign Trail
 
-The party reaches the foot of the stair at about 11:45. The trail is ninety minutes of old smugglers' tunnel, and a party that follows it without losing time reaches the secret door at X1 at 13:00, in time for the change of the watch.
+The party reaches the foot of the stair at about 11:30. The trail is ninety minutes of old smugglers' tunnel, and a party that follows it without losing time reaches the secret door at X1 at 13:00, in time for the change of the watch.
 
 > [!readaloud]
 >

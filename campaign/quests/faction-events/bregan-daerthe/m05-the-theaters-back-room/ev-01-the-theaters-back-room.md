@@ -440,7 +440,7 @@ Krebbyg meets the member at the stage door at four bells the same afternoon and 
 > - **What it holds:** six cots, a washstand, a locked costume trunk that the member can use to store gear, and a stock of drow-made crossbows and bolts that Fel'rekt sells at cost to Bregan D'aerthe members.
 > - **Rest:** the member and up to five companions the member names to the guards can take a Long Rest there, for up to three nights in a row. The guards do not ask questions.
 > - **Messages:** a message left with the guards at any hour reaches Krebbyg by the next dusk. This does not replace the grey coat on peg seven, which Krebbyg still clears at closing.
-> - **Meetings:** **The Dive** briefs here, and the rank events **Officer**, **Commander** and **Houseless Noble** meet here when **Seven Masks Back Room** is marked. If it is not marked, they meet at the stage door.
+> - **Meetings:** **The Dive** briefs here, and the rank event **Houseless Noble** meets here when **Seven Masks Back Room** is marked. If it is not marked, they meet at the stage door.
 > - **Loss rule:** the member loses access by marking **BD Contact Severed**, by bringing a Watch officer into the corridor, or by telling anyone outside the company that the room exists.
 >
 > **What changes if the member already has access.** At Renown 3 and above, the door staff admit the member to the theater and the booking office, and this does not include the dressing room. If the member entered the dressing room during **Faction Outposts** (the **Seven Masks Raided** outcome, which the **Faction Outposts** conversion must write), the entry was unsanctioned and Bregan D'aerthe's guards treated it as an intrusion. After this Event, the note forgives the raid by name, the guards stop treating the member's knock as an intrusion, and the Alert tier that the raid set toward Bregan D'aerthe drops to Suspicious for that member.
@@ -471,7 +471,7 @@ The Event concludes when the member has the plan, the key and the dressing room.
 >
 > - **Florette Reported** — mark with the name of the member Florette describes, when she follows Brimel and the party fails both **The Interval Crush** and **The Street Intercept**, or when she wakes after **The Service Corridor**; read by **Cassalanter Villa** (unconverted), where the household has a description of that member and has dismissed Brimel.
 > - **Brandath Lead from Brimel** — mark for each member who reads the plan or hears Brimel's account of the back room; read by **Vault of Dragons** (unconverted), Scene 2, where Brimel's plan is an independent clue to the Brandath Crypts, and the windmill map from **Faction Outposts** is another.
-> - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive**, and by the rank events **Officer**, **Commander** and **Houseless Noble**, which meet in the dressing room when it is marked.
+> - **Seven Masks Back Room** — mark for each member who receives the key and the knock; read by **The Dive** and by the rank event **Houseless Noble**, which meet in the dressing room when it is marked.
 
 > [!gamemaster]**Next Steps**
 >
