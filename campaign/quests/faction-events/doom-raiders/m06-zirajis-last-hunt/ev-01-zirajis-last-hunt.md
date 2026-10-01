@@ -13,7 +13,7 @@
 
 > [!gamemaster]**What the Splinter Wants**
 >
-> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the pass-amulet handoffs, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever mapped the amulet routes had helped the party through the force field, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for years, put Ziraj somewhere in Trollskull Alley without saying where.
+> The kill team is what remains of Manshoon's Splinter field force after **Kolat Towers**, and it answers to Ondra Kell (Lawful Evil, Human, she/her), a Splinter field officer who commanded one of the tower's outer patrols and survived the night the party raided it. While the Splinter swept the tower's outbuildings afterward, its agents found a rooftop hide overlooking the upper walls of the force field, with a half-orc's boot prints and black-fletched arrows in it. Ondra decided that whoever watched the gaps in the field had helped the party through it, and she took five others to kill him. She found Trollskull Alley through Skeemo Weirdbottle. If **Skeemo at Kolat Towers** was marked in **Silencing Skeemo**, Skeemo told her himself that Ziraj keeps a room near Corellon's Crown. Otherwise the Splinter's old files on the Doom Raiders, which Skeemo fed it for two months, put Ziraj somewhere in Trollskull Alley without saying where.
 >
 > Who sent the team depends on the **Manshoon operational?** result that **Kolat Towers** Scene 6 records:
 >
@@ -35,39 +35,39 @@ Yagra Stonefist comes to Trollskull Manor herself, because a flying snake is too
 >
 > Someone hammers on the taproom door hard enough to rattle the bolts, and when you open it Yagra Stonefist is on the step in full armor with her breath perfectly even. Her boots are wet to the ankle from running through the gutters of Sail Street. She looks past you at the others in the room, then back at you, and her hand is already turning toward the alley.
 >
-> > Ziraj is hurt, and he's up on the fucking roofs somewhere, and there's a kill team on his trail that I can't fight and search for at the same time. Get your fucking boots on and come with me right now, because I'm not leaving this step without you.
+> > "Ziraj is hurt, and he's up on the fucking roofs somewhere, and there's a kill team on his trail that I can't fight and search for at the same time. Get your fucking boots on and come with me right now, because I'm not leaving this step without you."
 
 > [!social]**Yagra Stonefist**
 >
 > Yagra Stonefist (Neutral, Half-orc, she/her) :: Davil's bodyguard, frightened for Ziraj and hiding it behind orders.
 >
-> Yagra talks while she walks and won't stand still for questions. She tells the plain facts in short, flat sentences and swears in nearly every one, and she wants the party on the roofs in two minutes. She carries Ziraj if they find him and does not fight in this Event, because her hands will be full. If only two characters join her, she fights beside them as a **Warrior Veteran** and counts as a third combatant. She says what she knows in the answers below.
+> Yagra talks while she walks and won't stand still for questions. She tells the plain facts in short, flat sentences and swears in nearly every one, and she wants the party on the roofs in two minutes. She carries Ziraj if they find him and does not fight in this Event, because her hands will be full. If only two characters join her, she fights beside them and counts as a third combatant, using the **Warrior Veteran** stat block with the changes from **Viper**: iron-studded gauntlets in place of the Greatsword, with the same attack bonus and damage but bludgeoning, and Relentless Endurance once per day. She says what she knows in the answers below.
 
 > [!qna]**What happened?**
 >
-> > Ziraj put three of them down on a warehouse roof off Sail Street, and there's a lot of his own blood up there as well. I followed the marks he scratches on the eaves when he's hurt, and they run east toward the alley. The ones who are left are following the same marks I am, only slower, because they don't know how to read them.
+> > "Ziraj put three of them down on a warehouse roof off Sail Street, and there's a lot of his own blood up there as well. I followed the marks he scratches on the eaves when he's hurt, and they run east toward the alley. The ones who are left are following the same marks I am, only slower, because they don't know how to read them."
 
 > [!qna]**Who are they?**
 >
-> > It's the Splinter, the other fucking cell, whoever is left of them. After what you did to their tower they want somebody to bleed for it, and they've picked the wrong man to do it to.
+> > "It's the Splinter, the other fucking cell, whoever is left of them. After what you did to their tower they want somebody to bleed for it, and they've picked the wrong man to do it to."
 
 If **Manshoon Named** is marked, Yagra says this instead:
 
 > [!readaloud]
 >
-> > It's Manshoon's people, what's left of them after the tower, and they want somebody to bleed for it. They've picked the wrong fucking man to do it to.
+> > "It's Manshoon's people, what's left of them after the tower, and they want somebody to bleed for it. They've picked the wrong fucking man to do it to."
 
 > [!qna]**Why Ziraj?**
 >
-> > He spent weeks lying on a roof above the tower watching their amulet men come and go, and he wrote every bit of it down. If those bastards found his nest, they know who gave you the numbers.
+> > "He spent twenty nights lying on a roof above the tower watching their force field open and close, and he wrote every bit of it down. If those bastards found his nest, they know who gave you the gaps."
 
 > [!qna]**Is he alive?**
 >
-> > He was alive when I lost the marks, and he's a big bastard who doesn't die easy. There's blood on every third roof, though, and I don't like the fucking pattern it makes.
+> > "He was alive when I lost the marks, and he's a big bastard who doesn't die easy. There's blood on every third roof, though, and I don't like the fucking pattern it makes."
 
 > [!qna]**Where would he go?**
 >
-> > Fala's, if he can get there, and Fala would rather die than tell anyone he's in the building. He has a room on the second floor, and I'd bet my arm he's heading for it.
+> > "Fala's, if he can get there, and Fala would rather die than tell anyone he's in the building. He has a room on the second floor, and I'd bet my arm he's heading for it."
 
 ### Finding Ziraj
 
@@ -89,7 +89,7 @@ If the party goes to Fala first, read or paraphrase the following:
 >
 > A lantern burns in the upstairs window of Corellon's Crown, and the glass walls below are dark and beaded with damp. The door opens before Yagra can knock, and Fala Lefaliir stands in it with a kettle in one hand and their sleeves rolled to the elbow.
 >
-> > He always uses the inn roof when he has to wait for me. It's the inn by the mouth of the alley, between the two chimneys, so go and bring him here. I'll close the shop and lay out the table.
+> > "He always uses the inn roof when he has to wait for me. It's the inn by the mouth of the alley, between the two chimneys, so go and bring him here. I'll close the shop and lay out the table."
 
 When the party reaches Ziraj, read the following aloud. If the roster below has two agents, he says "Two left." instead.
 
@@ -97,7 +97,7 @@ When the party reaches Ziraj, read the following aloud. If the roster below has 
 >
 > Between two chimneys on the inn's roof, a huge shape sits with his back against the brick and a longbow across his knees. A dark stain has spread down the left side of his coat, and his good hand stays on the bow until he has counted each of you. Forty feet away on a lower roof, a second figure crouches beside a chimney with a crossbow, looking the other way.
 >
-> > Three left.
+> > "Three left."
 
 > [!gamemaster]**Ziraj's Wounds**
 >
@@ -130,7 +130,7 @@ Ziraj can cover the party from the inn's roof while they fight in the alley belo
 >
 > Ziraj acts on initiative count 10 in rounds 1 and 2 and then drops behind the chimney for the rest of the fight. His shots are fixed and require no roll.
 >
-> - **Round 1:** His shot hits the rooftop crossbowman for 32 damage, and she spends her next turn shooting at Ziraj instead of the party.
+> - **Round 1:** His shot hits the rooftop crossbowman for 14 damage, and she spends her next turn shooting at Ziraj instead of the party.
 > - **Round 2, if the party has healed him:** The second shot hits, and the crossbowman falls off the roof edge, Unconscious in the alley below.
 > - **Round 2, if he is still wounded:** He shoots with Disadvantage and misses, and the crossbowman ducks behind a chimney.
 
@@ -176,7 +176,7 @@ If Ziraj dies, read or paraphrase the following:
 >
 > Ziraj's hand slips off the bow, and the breath goes out of him in a long, slow rush. The glass of the nearest window catches a little of the lantern light, and Yagra stands over him with both fists shut and her jaw working.
 >
-> > Fuck, get him up off the stones and keep moving, because we're taking him to Fala right now.
+> > "Fuck, get him up off the stones and keep moving, because we're taking him to Fala right now."
 
 ### Ondra Kell
 
@@ -190,13 +190,13 @@ If the party takes Ondra alive, she is wounded, furious and completely professio
 
 > [!qna]**Why Ziraj?**
 >
-> > We found his nest above the tower's gate with a week of notes in it. Somebody had been watching our amulets, and I wanted the man who wrote that down. The rest of you I'd have gone after next.
+> > "We found his nest above the tower's gate with twenty nights of notes in it. Somebody had been watching our force field, and I wanted the man who wrote that down. The rest of you I'd have gone after next."
 
 If **Manshoon Named** is marked, she says this first:
 
 > [!readaloud]
 >
-> > You took Manshoon's tower apart, and I wanted something back for it, and Ziraj was the only name I had to go on.
+> > "You took Manshoon's tower apart, and I wanted something back for it, and Ziraj was the only name I had to go on."
 
 > [!qna]**How did you find him?**
 >
@@ -206,13 +206,13 @@ If **Skeemo at Kolat Towers** was marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > The alchemist told us. He said the half-orc keeps a room above an herbalist's shop in Trollskull Alley, and that he'd been sending the Doom Raiders' secrets to us for years before he ever came to the tower for shelter.
+> > "The alchemist told us. He said the half-orc keeps a room above an herbalist's shop in Trollskull Alley, and that he'd been sending the Doom Raiders' secrets to us for two months before he ever came to the tower for shelter."
 
 Otherwise, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > There was an old file on the Doom Raiders that the alchemist kept for us for years, and it said the hunter lived somewhere in Trollskull Alley. We spent three nights on the roofs before we found his trail, and I'm not going to pretend that wasn't luck.
+> > "There was an old file on the Doom Raiders that the alchemist kept for us for two months, and it said the hunter lived somewhere in Trollskull Alley. We spent three nights on the roofs before we found his trail, and I'm not going to pretend that wasn't luck."
 
 > [!qna]**What happened at the tower?**
 >
@@ -222,19 +222,19 @@ If the K18 rune was destroyed and the force field fell, read or paraphrase the f
 
 > [!readaloud]
 >
-> > The field went out with the rune that night, and we've been sleeping in cellars ever since. There's no tower left to report to, so you can stop asking me where we go.
+> > "The field went out with the rune that night, and we've been sleeping in cellars ever since. There's no tower left to report to, so you can stop asking me where we go."
 
 If the force field still stands, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > The tower is still there, and so are the people inside it. I'm not telling you anything more than that, so you can stop asking.
+> > "The tower is still there, and so are the people inside it. I'm not telling you anything more than that, so you can stop asking."
 
 If the Doom Raiders' parallel operation cleared the towers, she adds:
 
 > [!readaloud]
 >
-> > Your friends took the rest of the garrison before I could get my people out, and I haven't forgotten that.
+> > "Your friends took the rest of the garrison before I could get my people out, and I haven't forgotten that."
 
 > [!qna]**What do you plan to do at the vault?**
 >
@@ -244,13 +244,13 @@ If Manshoon is Destroyed, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > There isn't any plan, since nobody is left who could make one. The ones who lived have scattered across the city, and most of them will be gone by the end of the tenday.
+> > "There isn't any plan, since nobody is left who could make one. The ones who lived have scattered across the city, and most of them will be gone by the end of the tenday."
 
 If Manshoon is Simulacrum Only or Alive, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > We don't go into the crypts at all. Somebody else opens that vault, and when the gold comes out onto the road we take the wagons off whoever is holding the reins, which was always the plan.
+> > "We don't go into the crypts at all. Somebody else opens that vault, and when the gold comes out onto the road we take the wagons off whoever is holding the reins, which was always the plan."
 
 ### Corellon's Crown
 
@@ -260,7 +260,7 @@ Fala closes the shop at once, without being asked. The blinds come down over the
 >
 > Corellon's Crown smells of crushed mint and damp earth, and the only light is one lantern hung over the long worktable at the back. Fala Lefaliir clears a bundle of dried foxglove off the table with one sweep of their arm and points at the boards. Kettles and small clay pots are already lined up along the bench.
 >
-> > Lay him down there on his good side, and leave both bolts exactly where they are, because I want to cut them out myself.
+> > "Lay him down there on his good side, and leave both bolts exactly where they are, because I want to cut them out myself."
 
 > [!social]**Fala Lefaliir**
 >
@@ -270,17 +270,17 @@ Fala closes the shop at once, without being asked. The blinds come down over the
 
 > [!qna]**How bad is it?**
 >
-> > The shoulder is the worry. The bolt went deep and it's grooved, so someone meant it to stay put, and I'll have to cut it out. The rib one only scraped him. Shit, he's lost a lot of blood, but he's a big man, and I've seen worse on the table.
+> > "The shoulder is the worry. The bolt went deep and it's grooved, so someone meant it to stay put, and I'll have to cut it out. The rib one only scraped him. Shit, he's lost a lot of blood, but he's a big man, and I've seen worse on the table."
 
 > [!qna]**Will he be all right?**
 >
 > Fala doesn't look up from the shoulder.
 >
-> > He needs two days of rest before that shoulder carries any weight. He won't take two days, and I'll be asking you to stop him. Until then I can give him willow bark for the pain and something to help the wound close.
+> > "He needs two days of rest before that shoulder carries any weight. He won't take two days, and I'll be asking you to stop him. Until then I can give him willow bark for the pain and something to help the wound close."
 
 > [!qna]**Who made the bolts?**
 >
-> > Someone with a workshop and a good reason to hate him. You don't groove a bolt like this for an ordinary hunt. They wanted it to stay in.
+> > "Someone with a workshop and a good reason to hate him. You don't groove a bolt like this for an ordinary hunt. They wanted it to stay in."
 
 Fala gives each participating character who fought a tincture pressed into the hand, with a short instruction to drink it if they are bleeding. Each tincture works as a *potion of healing*, and Fala asks nothing for it.
 
@@ -290,15 +290,15 @@ If Ziraj lives, Fala finishes treating him and he speaks once he has been given 
 >
 > Ziraj lies propped against the wall with the bandages pulled tight across his chest. The fever has gone out of his face, and he looks at Fala for a long moment before he looks at you.
 >
-> > You came.
+> > "You came."
 >
 > He turns his head slowly toward the window.
 >
-> > Thank you.
+> > "Thank you."
 >
 > He turns his head toward Fala and murmurs a few words meant only for them, and Fala answers that they would have shut the shop for him a hundred times. Ziraj tries to sit up, and Fala puts a hand flat on his chest and pushes him back down.
 >
-> > You will stay exactly where you are, and you will drink this before you say another word.
+> > "You will stay exactly where you are, and you will drink this before you say another word."
 
 If Ziraj has died, read or paraphrase the following:
 
@@ -316,7 +316,7 @@ If Ziraj lives, read or paraphrase the following:
 >
 > Davil sets the lute across his knees and pours a cup for each of you before he speaks. His thumb rests on one of the charms on his bracelet, and he turns it once.
 >
-> > Yagra told me what you did, and what it cost you. Ziraj has never thanked anyone in all the years I've known him, and he has thanked you. Sit, please, and tell me what you learned about the people who sent them.
+> > "Yagra told me what you did, and what it cost you. Ziraj has never thanked anyone in all the years I've known him, and he has thanked you. Sit, please, and tell me what you learned about the people who sent them."
 
 If Ziraj has died, read or paraphrase the following:
 
@@ -324,7 +324,7 @@ If Ziraj has died, read or paraphrase the following:
 >
 > Davil doesn't look up when you come in. He plays a slow passage on the lute that goes nowhere in particular, and when he stops, the room is quiet for a long while.
 >
-> > Sit, please. Yagra has told me how it went, and I would like to hear the rest of it from you, yes?
+> > "Sit, please. Yagra has told me how it went, and I would like to hear the rest of it from you, yes?"
 
 What Davil says first depends on the **Manshoon operational?** result from **Kolat Towers**. If it is Destroyed, he says the Splinter looks finished and that he would like to believe it. If it is Simulacrum Only, he says that what remains is a copy acting on orders and that copies make mistakes. If it is Alive, he says that nobody is safe until that man is found, and he asks the party to keep the Doom Raiders informed of anything they hear. If Vevette Blackwater was captured, he adds that Tashlyn will want to question her about this hunt.
 

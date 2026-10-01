@@ -7,13 +7,13 @@
 > - Receive the first message from Tashlyn Yafeera and go to Yagra Stonefist for a meeting.
 > - Hear what Tashlyn has learned about Urstul Floxin, the anonymous tip that put Davil in a cell and, if Floxin is alive, the warrant for him.
 > - Work for Davil's release through three approaches, each with its own result.
-> - Learn that Tashlyn now sends every mission briefing, until **Davil's Return** at the end of **Silencing Skeemo**.
+> - Learn that Tashlyn now sends every mission briefing, until **Davil's Return**, which falls on the fifth day after the members' debrief for **Silencing Skeemo**.
 
 ### The Sweep
 
 The Watch seals Gralhund Villa on the morning of Ches 25 and begins processing twenty-three bodies. On Ches 26 the broadsheet *Gralhund Villa Bloodbath* goes on sale, and the Watch's sweep of the Black Network reaches the Yawning Portal at second bell. Six constables and a prison wagon come for Davil Starsong. He walks out with them willingly, because a fight in Durnan's taproom would hand the Watch exactly what it wants. Yagra is in the yard when it happens, and she reaches the front door as the wagon turns the corner.
 
-The case against Davil is association and nothing else. "Held pending questioning by the Lords" is the official wording, and in practice it means the Lords' clerks will reach him when the sweep has been filed, which is well after the party has finished **Silencing Skeemo**. He can't be freed sooner than that, so what the party can change is the terms on which he walks out, which is the work in **Working for Davil's Release**.
+The case against Davil is association and nothing else. "Held pending questioning by the Lords" is the official wording, and in practice it means the Lords' clerks will reach him when the sweep has been filed, which is the fifth day after the members' debrief for **Silencing Skeemo**. He can't be freed sooner than that, so what the party can change is the terms on which he walks out, which is the work in **Working for Davil's Release**.
 
 Doom Raiders members are not arrested. The Watch has no evidence against them, only the knowledge that they are friends of a man it holds. Any member who shows a Zhentarim pendant in public for the next tenday is stopped and questioned once by a constable, and then let go.
 
@@ -193,7 +193,7 @@ She closes the meeting the way she opened it.
 
 ### Working for Davil's Release
 
-Davil is held in a cell in the custody wing at Castle Waterdeep, and the Lords' clerks will hear him on the first hearing day after **Silencing Skeemo** concludes, and the party can't move that date. Each approach below changes the terms on which he walks out, and a member who completes any approach earns Renown, whether the check succeeds or fails.
+Davil is held in a cell in the custody wing at Castle Waterdeep, and the Lords' clerks will hear him on the fifth day after the members' debrief for **Silencing Skeemo**, and the party can't move that date. Each approach below changes the terms on which he walks out, and a member who completes any approach earns Renown, whether the check succeeds or fails.
 
 Sergeant Ilmra Dunfell is the Watch contact who decides what reaches the Lords' clerks. Members reach her at the custody wing of Castle Waterdeep between second bell and sixth bell, and Yagra's name gets them through the door.
 
@@ -243,7 +243,7 @@ The three approaches can be tried in any order. Each member may attempt each app
 
 > [!gamemaster]**Release Terms**
 >
-> Davil walks out at the end of **Silencing Skeemo**, whatever the party does. Count the approaches that succeeded (0 to 3) and record the count. **Davil's Return** reads it.
+> Davil walks out on the fifth day after the members' debrief for **Silencing Skeemo**, whatever the party does. Count the approaches that succeeded (0 to 3) and record the count. **Davil's Return** reads it.
 >
 > - **0:** the Lords release Davil on a bond. He reports to Castle Waterdeep every tenday, his suite at the Yawning Portal stays sealed for ten days, and a constable trails him.
 > - **1:** no bond and no constable. The suite stays sealed for ten days.
@@ -268,7 +268,7 @@ If no approach was attempted, Tashlyn sends no message. She sends the next brief
 
 ### Concluding the Event
 
-The Event concludes when the members have met Tashlyn and, if they choose, tried the release approaches. Davil stays in custody until **Silencing Skeemo** concludes.
+The Event concludes when the members have met Tashlyn and, if they choose, tried the release approaches. Davil stays in custody until the fifth day after the members' debrief for **Silencing Skeemo**.
 
 > [!gamemaster]**Event Outcomes**
 >
@@ -278,7 +278,9 @@ The Event concludes when the members have met Tashlyn and, if they choose, tried
 
 > [!gamemaster]**Next Steps**
 >
-> Doom Raiders members now get their briefings from Tashlyn. **The Missing Snobeedle** is available to an individual Doom Raiders member who reaches Renown 5 and 4th level. **Davil's Return** fires at the end of **Silencing Skeemo**. This Event awards no Milestone Points.
+> Doom Raiders members now get their briefings from Tashlyn. **The Missing Snobeedle** is available to an individual Doom Raiders member who reaches Renown 5 and 4th level. **Davil's Return** fires on the fifth day after the members' debrief for **Silencing Skeemo**. If a Doom Raiders member hasn't played **The Dockside Killer** or **The Poisoned Delivery** by Ches 26, Tashlyn briefs it.
+>
+> This Event awards no Milestone Points.
 
 ## Overview
 

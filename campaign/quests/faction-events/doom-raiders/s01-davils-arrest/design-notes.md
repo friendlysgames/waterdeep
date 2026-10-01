@@ -14,7 +14,7 @@ That sidebar has Tashlyn call Floxin "Manshoon's blade". This Event drops the na
 
 ## The Release Effort and What It Changes
 
-The old draft counted any one of three approaches as enough and released Davil "within a tenday", which contradicted his release at the end of **Silencing Skeemo**. Release is now fixed at that point. The effort decides the terms: a bond and a trailing constable at zero successes, and a clean record plus a one-time warning from Dunfell at three.
+The old draft counted any one of three approaches as enough and released Davil "within a tenday", which contradicted his release after **Silencing Skeemo**. Release is now fixed on the fifth day after the members' debrief for that mission, which leaves room for a captured Skeemo's three days in the tack room. The effort decides the terms: a bond and a trailing constable at zero successes, and a clean record plus a one-time warning from Dunfell at three.
 
 Tashlyn now states the three approaches in speech (the gate, an advocate at fifty gold, and Sergeant Dunfell with Jalester's help), so the players are told the option exists and do not have to guess it from the GM text. Each approach is a real errand with its own check, its own failure consequence and its own reward. A Lords' Alliance member's shortcut through Jalester Silvermane is kept from the draft. Renown is 1 per member, once, for completing an approach, matching the guide's "substantive effort" wording, and it goes only to the member who did the work. The outcome text carries no award.
 

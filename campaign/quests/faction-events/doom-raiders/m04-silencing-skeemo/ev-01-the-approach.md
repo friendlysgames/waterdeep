@@ -23,7 +23,7 @@ At 06:00 a flying snake finds each Doom Raiders member and tells them to come to
 
 > [!gamemaster]**Why Tashlyn Briefs**
 >
-> Tashlyn briefs because **Davil Arrested** is marked and Davil is held at Castle Waterdeep. Every member who marked **Tashlyn Contact** in **Davil's Arrest** has met her at the Poplar Walk bench. A member who has not marked it meets her for the first time here, and she gives that member the same brief without introduction, adding only her name and her rank. Nobody without **Tashlyn Contact** is turned away from the brief.
+> Tashlyn briefs because **Davil Arrested** is marked and Davil is held at Castle Waterdeep. Every member who marked **Tashlyn Contact** in **Davil's Arrest** has met her at the Poplar Walk bench. A member who has not marked it meets her for the first time here, and she gives that member the same brief without introduction, adding only her name and her rank. Nobody without **Tashlyn Contact** is turned away from the brief. Mark **Tashlyn Contact** for any member who meets her here.
 
 > [!readaloud]
 >
@@ -50,7 +50,7 @@ At 06:00 a flying snake finds each Doom Raiders member and tells them to come to
 >
 > Tashlyn takes a folded sheet from her coat and hands it to whichever member reaches for it first.
 >
-> > "I've had a man watching his shop since the night Davil was taken, and his paper birds fly off toward the Castle Ward every second evening. I had three of those exchanges written down before I said a word to anyone, and I won't say more about who watches."
+> > "I've had a man watching his shop, and his paper birds fly off every second evening. My watcher has followed his birds to a tower in the Castle Ward for two months and never seen who answers the door. I had three of those exchanges written down before I said a word to anyone, and I won't say more about who watches."
 
 > [!qna]**What do you want done?**
 >

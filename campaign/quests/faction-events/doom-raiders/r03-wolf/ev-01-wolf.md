@@ -17,7 +17,7 @@ At noon on the day after the member reaches Renown 3, a flying snake finds them 
 
 Every qualifying member is invited on their own account, so several members who cross the threshold together attend together and are recorded one by one. Companions who are not Doom Raiders members are not invited, and a companion who tags along is turned back at the curtain or the gate. A member who is away from Waterdeep finds the snake waiting at their first surface lodging on return, and the meeting moves to the following evening at the same hour.
 
-If **Tashlyn Contact** is not yet marked for the member, mark it at this meeting.
+If Tashlyn is the one receiving the member and **Tashlyn Contact** is not yet marked, mark it.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -31,7 +31,7 @@ If Davil is receiving the member, read or paraphrase the following:
 >
 > Davil is pouring when you push through the green curtain, and the charm bracelet rattles against the decanter as he fills a glass for each of you. The two lamps are lit, the lute leans against the wall where it always does, and a folded square of paper lies beside his own glass.
 >
-> > Sit, please. I've had good reports of your work, and Istrid's clerks tell me your name comes up more often than most. The rank we give people in your position is Wolf, and it's yours now, yes?
+> > "Sit, please. I've had good reports of your work, and Istrid's clerks tell me your name comes up more often than most. The rank we give people in your position is Wolf, and it's yours now, yes?"
 >
 > He slides the folded paper across the table and waits for you to open it.
 
@@ -41,7 +41,7 @@ If Davil is receiving the member in the back booth, read or paraphrase the follo
 >
 > The back booth behind the Yawning Portal's kitchens smells of onions and lamp oil, and Davil sits in it with his sleeves turned back and no lute or bracelet in sight. He pours from a plain jug into cups that Durnan's cook has lent him, and a folded square of paper lies beside his own cup.
 >
-> > Sit, please, though I'm afraid the accommodations are poorer than they were. I've had good reports of your work, and the rank we give people in your position is Wolf, and it's yours now, yes?
+> > "Sit, please, though I'm afraid the accommodations are poorer than they were. I've had good reports of your work, and the rank we give people in your position is Wolf, and it's yours now, yes?"
 >
 > He slides the folded paper across the table and waits for you to open it.
 
@@ -53,7 +53,7 @@ If Tashlyn is receiving the member, read or paraphrase the following:
 >
 > The City of the Dead is green and still in the late light, and gardeners are raking the gravel between the mausoleums as you come down the Poplar Walk. Tashlyn stands beside the stone bench with her hands behind her back, and she holds out a small folded paper before you reach her.
 >
-> > Davil would have poured you a drink and made a speech, and I'm not going to. You've earned the rank of Wolf, the arrangements run through me while he's held, and I'll explain them once. Take this.
+> > "Davil would have poured you a drink and made a speech, and I'm not going to. You've earned the rank of Wolf, the arrangements run through me while he's held, and I'll explain them once. Take this."
 
 > [!social]**The Master of Opportunities**
 >
@@ -71,15 +71,15 @@ If Tashlyn is receiving the member, read or paraphrase the following:
 >
 > Davil counts on his fingers, unhurried, and stops at three.
 >
-> > Three things, my friends. Once every tenday I'll tell you what the street has heard about a rival of ours, there's a loft on the Dock Ward waterfront where you can sleep without anyone asking why, and there's a better price on the goods that a licensed shop won't sell you. I'll tell you how each one works, and you'll find they cost you nothing but a little patience.
+> > "Three things, my friends. Once every tenday I'll tell you what the street has heard about a rival of ours, there's a loft on the Dock Ward waterfront where you can sleep without anyone asking why, and there's a better price on the goods that a licensed shop won't sell you. I'll tell you how each one works, and you'll find they cost you nothing but a little patience."
 
 > [!qna]**Where does the news come from?**
 >
-> > From people who watch for us, mostly dockhands, fences and a few clerks who owe Istrid a kindness. Tashlyn sees the Watch's reports from her post at the South Gate, and I'd be a fool not to listen to her. I won't give you names, since they'd rather I didn't, and you'll understand that soon enough.
+> > "From people who watch for us, mostly dockhands, fences and a few clerks who owe Istrid a kindness. Tashlyn sees the Watch's reports from her post at the South Gate, and I'd be a fool not to listen to her. I won't give you names, since they'd rather I didn't, and you'll understand that soon enough."
 
 > [!qna]**Why is it mine and not the whole party's?**
 >
-> > Because I write ranks in my book by name, and each of you has earned a line of your own. Your companions are welcome at my table and the wine is good, but the book has no line for them, and Istrid's clerks read the book.
+> > "Because I write ranks in my book by name, and each of you has earned a line of your own. Your companions are welcome at my table and the wine is good, but the book has no line for them, and Istrid's clerks read the book."
 
 If Tashlyn is receiving the member, she answers the same questions in fewer words:
 
@@ -97,15 +97,15 @@ If Tashlyn is receiving the member, she answers the same questions in fewer word
 
 > [!qna]**What does Wolf get me?**
 >
-> > Every tenday I give you one piece of news about a rival, and there's a loft in the Dock Ward for you to sleep in. You also get a fifth off the goods a licensed shop won't sell. Ask for each one the way I tell you, and don't invent your own way.
+> > "Every tenday I give you one piece of news about a rival, and there's a loft in the Dock Ward for you to sleep in. You also get a fifth off the goods a licensed shop won't sell. Ask for each one the way I tell you, and don't invent your own way."
 
 > [!qna]**Where does the news come from?**
 >
-> > From our informants, and from my post at the South Gate, where the Watch's reports cross my desk. That's all you need to know about it, and it's more than most people get.
+> > "From our informants, and from my post at the South Gate, where the Watch's reports cross my desk. That's all you need to know about it, and it's more than most people get."
 
 > [!qna]**Why is it mine and not the whole party's?**
 >
-> > Because the rank is yours, and it doesn't extend to anyone who hasn't earned it. Bring your friends to a mission if you like, but they get none of this, and they don't get told about it either.
+> > "Because the rank is yours, and it doesn't extend to anyone who hasn't earned it. Bring your friends to a mission if you like, but they get none of this, and they don't get told about it either."
 
 ### The First Piece of News
 
@@ -120,10 +120,10 @@ The paper Davil or Tashlyn hands over carries the safe-house address and the doo
 > - **Xanathar's Guild.**
 > - **The other cell**, which the Doom Raiders also call the Splinter.
 >
-> Every answer has two parts. The first is how alarmed the faction is about the party, taken from the faction's current escalation tier in **Running the Villains**. The second is the first response team the party has not yet beaten, named by its leader and its crew. The faction's teams run in this order:
+> Every answer has two parts. The first is how alarmed the faction is about the party, taken from the faction's current escalation tier in **Running the Villains**. The second is the first response team the party has not yet beaten, named by its leader and its crew where the web knows the names. The faction's teams run in this order:
 >
 > - **Xanathar's Guild:** Gorath with four duergar, then Korgstrod Uxgulm with a half-ogre and a gazer, then Noska Ur'gray with six bugbears and a gazer. When all three have been beaten, the answer says the guild has no crew left to send on the street and that the next move will be Xanathar's own.
-> - **The other cell:** Vevette Blackwater with three or four hired thugs, then Agorn Fuoco with three or four hired thugs, then Urstul Floxin with three or four hired thugs. The third team exists only if Floxin survived **Gralhund Villa**, and if he did not, the answer after Agorn says the cell has no crew left on the street.
+> - **The other cell:** a swashbuckler with three or four hired thugs, then a bard with three or four hired thugs, then an assassin with three or four hired thugs. The web has no names for any of them until **Skeemo Letters Recovered** or **Vevette Letters Recovered** is marked, and until then the answer describes the next team by its leader's trade and the size of the crew. Once either outcome is marked, the swashbuckler is Vevette Blackwater, the bard is Agorn Fuoco and the assassin is Urstul Floxin, and the answer names them. The third team exists only if **Floxin Status** is Alive. If it is Dead or Captured, the answer after the bard says the cell has no crew left on the street.
 
 Davil gives the first part in these words, matching the faction's current tier:
 
@@ -139,13 +139,13 @@ Tashlyn gives the first part in these words:
 - **Alert:** "They know your faces and they're hunting for you, which is your own doing, so plan around it."
 - **Lockdown:** "They've dropped everything else to come after you, and if you go out, go out armed and in company."
 
-Both then give the second part in a single sentence built from the ladder above. Davil says, "If they turn on you, the crew to watch for is Gorath's, and he brings four duergar who enjoy their work." Tashlyn says, "The next crew is Gorath's with four duergar, and they will hit you hard." Each names the leader and crew of whichever team comes next.
+Both then give the second part in a single sentence built from the ladder above. Davil says, "If they turn on you, the crew to watch for is Gorath's, and he brings four duergar who enjoy their work." Tashlyn says, "The next crew is Gorath's with four duergar, and they will hit you hard." Each names the leader and crew of whichever Xanathar team comes next. For the other cell, before the letters outcomes are marked, Davil says, "If they turn on you, watch for a swordsman with three or four hired thugs behind him, and I'm afraid I can't give you a name yet." Tashlyn says, "The next crew is a swordsman and three or four thugs. No name yet."
 
 > [!qna]**Which one should I ask about first?**
 >
 > Davil turns the trophy on his bracelet once before he answers.
 >
-> > Ask about whichever worries you, my friends, though I'll confess I'd be pleased if it were the other cell. The Xanathar's people are dangerous, but they do at least behave like a guild. The other cell's people behave like a rumor, and I would like a great deal more news of them.
+> > "Ask about whichever worries you, my friends, though I'll confess I'd be pleased if it were the other cell. The Xanathar's people are dangerous, but they do at least behave like a guild. The other cell's people behave like a rumor, and I would like a great deal more news of them."
 
 If the member chooses the other cell, Davil or Tashlyn is visibly pleased, and adds one sentence in their own voice asking the member to bring back anything confirmed about that cell. Renown for such reports is earned as the Factions Guide describes and is not awarded here. If the member chooses Xanathar's Guild, Davil says that is a sensible worry and Tashlyn says nothing.
 
@@ -173,7 +173,7 @@ The paper's second line gives the safe-house address, and it is the member's to 
 >
 > Tarrow's Tallow and Wick stands between a net-maker and a salt merchant, and the smell of hot fat and wick cotton drifts into Sail Street through the open door. Candles hang in bunches from the beams, and a broad woman in a leather apron is trimming a mould of wicks on the counter with a small pair of shears.
 >
-> > Oh, you'll be one of Davil's. Lovely. Mind the third stair from the top, it's been loose since my husband died and I've never had the heart to nail it down.
+> > "Oh, you'll be one of Davil's. Lovely. Mind the third stair from the top, it's been loose since my husband died and I've never had the heart to nail it down."
 
 > [!social]**The Chandler**
 >
@@ -189,13 +189,13 @@ The paper's second line gives the safe-house address, and it is the member's to 
 
 > [!qna]**Who else uses the loft?**
 >
-> > Oh, I couldn't say, dear. Davil's people come and go, and I've learned not to count them. You can have a cot whenever you need one, as long as you give me my three hours and don't bring the Watch in on your heels.
+> > "Oh, I couldn't say, dear. Davil's people come and go, and I've learned not to count them. You can have a cot whenever you need one, as long as you give me my three hours and don't bring the Watch in on your heels."
 
 > [!qna]**What if I need it tonight?**
 >
 > Wenna sets down her shears and shakes her head.
 >
-> > Not without notice, I'm afraid. I need the three hours to turn the beds and get my lodger out, and I won't have a guest walk in on a man in his nightshirt. Come back at dusk and I'll have it ready.
+> > "Not without notice, I'm afraid. I need the three hours to turn the beds and get my lodger out, and I won't have a guest walk in on a man in his nightshirt. Come back at dusk and I'll have it ready."
 
 ### The Ledger Desk
 
@@ -205,7 +205,7 @@ Any Wolf member can visit Istrid Horn's warehouse in the Dock Ward once the meet
 >
 > Istrid's office glows with lamplight at the end of a corridor of stacked crates, and the shield dwarf behind the wide desk turns a page of her ledger with one finger and finds your name before you have finished sitting down.
 >
-> > Wolf, is it? Vergadain smile on it, dear. Now, I hear you'd like to buy a few things the shops on Sea Ward Way won't sell you, and I do enjoy being useful.
+> > "Wolf, is it? Vergadain smile on it, dear. Now, I hear you'd like to buy a few things the shops on Sea Ward Way won't sell you, and I do enjoy being useful."
 
 > [!exploration]**Ordering Restricted Goods**
 >
@@ -221,11 +221,11 @@ Any Wolf member can visit Istrid Horn's warehouse in the Dock Ward once the meet
 >
 > Istrid taps the ledger once with a finger.
 >
-> > Because the Network prefers its own people to be well equipped, dear, and it doesn't do the same for everyone. I'd be delighted to say it again if you'd like. A fifth off, ten days' notice, and payment when the goods arrive.
+> > "Because the Network prefers its own people to be well equipped, dear, and it doesn't do the same for everyone. I'd be delighted to say it again if you'd like. A fifth off, ten days' notice, and payment when the goods arrive."
 
 > [!qna]**Can I get it faster?**
 >
-> > Oh, I'm afraid not. The goods come from three different suppliers and I don't hurry any of them, and I'd rather you were patient than disappointed. Come and see me the moment you want to order and it will be with you in ten days.
+> > "Oh, I'm afraid not. The goods come from three different suppliers and I don't hurry any of them, and I'd rather you were patient than disappointed. Come and see me the moment you want to order and it will be with you in ten days."
 
 ### Renown Opportunities
 
@@ -241,8 +241,8 @@ The Event concludes when the member has the paper, has heard the first piece of 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Wolf Reached** — mark with the recipient's name when Davil or Tashlyn names the rank at the meeting; it records the rank, and no later event reads it by name. Istrid's ledger desk in this Event uses it. Track separately for each member the date of the last news request, the nights used at the loft this tenday and any open goods order.
-> - **Tashlyn Contact** — mark for the member if Tashlyn delivered the rank and the outcome was not already marked. It is defined in **Davil's Arrest**, and this Event only sets it.
+> - **Wolf Reached** — mark with the recipient's name when Davil or Tashlyn names the rank at the meeting; read by **Viper**, which checks it before naming the next rank. Istrid's ledger desk in this Event uses it. Track separately for each member the date of the last news request, the nights used at the loft this tenday and any open goods order.
+> - **Tashlyn Contact** — mark for the member if Tashlyn is the one receiving the member and the outcome was not already marked. It is defined in **Davil's Arrest**, and this Event only sets it.
 
 > [!gamemaster]**Next Steps**
 >

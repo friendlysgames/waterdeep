@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs on the first hearing day after **Silencing Skeemo** concludes, when the Lords' clerks hear Davil Starsong at Castle Waterdeep and release him, and it plays out only for Doom Raiders members. In this Event, the party can:
+> This Social Event occurs on the fifth day after the members' debrief for **Silencing Skeemo**, when the Lords' clerks hear Davil Starsong at Castle Waterdeep and release him, and it plays out only for Doom Raiders members. In this Event, the party can:
 >
 > - Greet Davil at the Yawning Portal on the terms their work in **Davil's Arrest** earned him.
 > - Watch Davil take the news about Skeemo, which plays differently for a dead, an escaped and a captured Skeemo.
@@ -12,7 +12,7 @@
 
 ### The Hearing Day
 
-The Lords' clerks hear Davil on the first hearing day after the debrief for **Silencing Skeemo**, and nothing the party does can move that date. The hearing takes the morning, and the clerks release him at the evening bell. Tashlyn Yafeera meets him at the gate of Castle Waterdeep and walks him back to the Yawning Portal, telling him on the way what became of Skeemo Weirdbottle. Davil had no idea that Skeemo was a traitor until she told him, and nobody else gets to him first.
+The Lords' clerks hear Davil on the fifth day after the members' debrief for **Silencing Skeemo**, and nothing the party does can move that date. The hearing takes the morning, and the clerks release him at the evening bell. Tashlyn Yafeera meets him at the gate of Castle Waterdeep and walks him back to the Yawning Portal, telling him on the way what became of Skeemo Weirdbottle. Davil had no idea that Skeemo was a traitor until she told him, and nobody else gets to him first.
 
 At sunset a flying snake finds each Doom Raiders member who marked **Tashlyn Contact**. Helping companions receive no message, and Yagra Stonefist keeps them at the long tables in the taproom while the members go through to Davil.
 
@@ -26,7 +26,7 @@ At sunset a flying snake finds each Doom Raiders member who marked **Tashlyn Con
 >
 > Davil was fond of Skeemo and will never say so. He learned of the betrayal and of Skeemo's fate from Tashlyn on the walk from the Castle Ward gate, and he has had perhaps an hour to take it in.
 >
-> The Doom Raiders believe Urstul Floxin leads the Splinter. The truth is that Floxin serves Manshoon, and every report Skeemo sent went to Manshoon's fortress at Kolat Towers in the Trades Ward. Until **Manshoon Named** is marked, Davil says "the other cell" or "the Splinter", and he places the cell's people in "the towers in the Trades Ward where they keep their people". If **Floxin Status** is Alive, he may also say "Floxin's cell". If **Floxin Status** is Dead or Captured, Tashlyn has already told him that the man they took for the leader is gone and the cell still moves, so Davil never says "Floxin's cell" and believes someone above Floxin gives the orders. If **Manshoon Named** is marked, he may say Manshoon's name and may call Kolat Towers Manshoon's home.
+> The Doom Raiders believe Urstul Floxin leads the Splinter. The truth is that Floxin serves Manshoon, and every report Skeemo sent went to Manshoon's fortress at Kolat Towers in the Trades Ward. Until **Manshoon Named** is marked, Davil says "the other cell" or "the Splinter". He suspects, without proof, that the cell keeps its people in "the towers in the Trades Ward", which are Kolat Towers. What he knows is Tashlyn's: her watcher has logged a tower in the Castle Ward where the cell's letters are collected. If **Floxin Status** is Alive, he may also say "Floxin's cell". If **Floxin Status** is Dead or Captured, Tashlyn has already told him that the man they took for the leader is gone and the cell still moves, so Davil never says "Floxin's cell" and believes someone above Floxin gives the orders. If **Manshoon Named** is marked, he may say Manshoon's name and may call Kolat Towers Manshoon's home.
 >
 > Skeemo kept a notebook on every person the cell hired or recruited, recording what each could do and how each fought, and he sent copies by paper bird once a tenday. Whatever he sent before the party caught him is with the Splinter and cannot be recalled. What the Splinter learns from here on depends on what became of Skeemo.
 
@@ -54,8 +54,8 @@ If the terms are 2 or 3, read or paraphrase the following:
 > [!readaloud]
 >
 > The curtained room on the second floor of the Yawning Portal smells of cedar and warm wine, and a lamp has been lit on the round table, where five chairs stand around the wood. Davil Starsong sits in his usual chair with his lute across his knees and his charm bracelet back on his wrist, noticeably thinner in the face than before Castle Waterdeep. He sets the lute aside as you come through the curtain and pours a cup for each of you before he says a word, while Yagra props herself in the doorway and Tashlyn takes her place beside the curtain with her hands behind her back.
-> 
-> > Sit, please. They kept me a while, and it was instructive, and I'd like to hear what I missed.
+>
+> > "Sit, please. They kept me a while, and it was instructive, and I'd like to hear what I missed."
 
 If the terms are 0 or 1, read or paraphrase the following:
 
@@ -63,7 +63,7 @@ If the terms are 0 or 1, read or paraphrase the following:
 >
 > The taproom of the Yawning Portal is loud tonight, and a wax seal hangs from a ribbon across the stair door that leads up to Davil's rooms. At the back, behind the kitchens, a curtained booth holds a table with five chairs, and Davil Starsong sits at it with his bare wrists resting on the wood, thinner in the face than he was before Castle Waterdeep. He pours a cup for each of you from a jug that came out of the kitchen, and Yagra props herself against the curtain rail while Tashlyn stands at the end of the table with her hands behind her back.
 >
-> > Sit, please. You'll forgive the booth. They kept me a while, and it was instructive, and I'd like to hear what I missed.
+> > "Sit, please. You'll forgive the booth. They kept me a while, and it was instructive, and I'd like to hear what I missed."
 
 If the terms are 0, add the following:
 
@@ -93,19 +93,19 @@ If the terms are 0, add the following:
 >
 > Davil smiles for the first time since you arrived.
 >
-> > It was instructive, and I can't recommend the bread. I learned that the sergeant who keeps the custody wing writes everything down, which is a comfort when you're the one being written about, and that sixty-one people can share a room built for thirty if they are very polite. Tell me what happened while I was away, yes?
+> > "It was instructive, and I can't recommend the bread. I learned that the sergeant who keeps the custody wing writes everything down, which is a comfort when you're the one being written about, and that sixty-one people can share a room built for thirty if they are very polite. Tell me what happened while I was away, yes?"
 
 > [!qna]**Who put you there?**
 >
-> > An unsigned note went to the Castle at dawn on the twenty-sixth, and it called me by a title that nobody outside the Network uses. I believe the other cell wanted the Watch looking at us and not at them, and for a time it worked. I'd like to know which of their people wrote it, and I don't expect to find out tonight.
+> > "An unsigned note went to the Castle at dawn on the twenty-sixth, and it called me by a title that nobody outside the Network uses. I believe the other cell wanted the Watch looking at us and not at them, and for a time it worked. I'd like to know which of their people wrote it, and I don't expect to find out tonight."
 
 If **Floxin Status** is Dead or Captured, Davil adds the following after his answer:
 
-> > Tashlyn tells me the man we took for their leader is gone, and yet the cell goes on as before. Somebody above him is giving the orders, and neither of us knows who. I'd like to change that, yes?
+> > "Tashlyn tells me the man we took for their leader is gone, and yet the cell goes on as before. Somebody above him is giving the orders, and neither of us knows who. I'd like to change that, yes?"
 
 > [!qna]**What happens now?**
 >
-> > Tashlyn keeps her post and her snakes, and I'll take my chair back, so you'll have two of us to answer to, which I'm told is unfair. There's a job I've been turning over in my head for some time, and I'd like to send it to you myself when the work has made you a little more seasoned. I'll write in my own hand, so you'll know it's me.
+> > "Tashlyn keeps her post and her snakes, and I'll take my chair back, so you'll have two of us to answer to, which I'm told is unfair. There's a job I've been turning over in my head for some time, and I'd like to send it to you myself when the work has made you a little more seasoned. I'll write in my own hand, so you'll know it's me."
 
 Every member marked **Worked for Davil's Release** receives Davil's thanks. He gives them once, to that member, and he doesn't repeat them. Read or paraphrase the following:
 
@@ -113,7 +113,7 @@ Every member marked **Worked for Davil's Release** receives Davil's thanks. He g
 >
 > Davil turns his cup a quarter turn on the table and looks at you directly.
 >
-> > Sergeant Dunfell reads me the names in her ledger as I walk out, every person who came to her desk on my account, and yours is one of them. I'm grateful, and I won't say more about it than that, because I don't think you'd want me to.
+> > "Sergeant Dunfell reads me the names in her ledger as I walk out, every person who came to her desk on my account, and yours is one of them. I'm grateful, and I won't say more about it than that, because I don't think you'd want me to."
 
 If the member pressed Dunfell with Intimidation in **Approach Three**, Davil adds that the sergeant has written that member's name twice and called it a rare honour. Any member who did not work for his release receives a cup and a greeting like the others, and Davil doesn't ask what they did with the time.
 
@@ -133,7 +133,7 @@ Read this branch if **Skeemo Silenced** is marked. Davil and Tashlyn have alread
 >
 > One chair at the round table stands a little apart from the others, near the window and with its back to the lamp, and nobody has sat in it. Davil looks at it while he pours, and then he sets the lute case on its seat and takes his own chair, facing the other way.
 >
-> > Tashlyn told me on the walk from the gate, so you needn't say it again. Whatever Skeemo sent to the other cell is with them, and I'd be a fool to think we can get it back. What he would have learned from here on goes nowhere, and I'll take that, yes? Was it quick?
+> > "Tashlyn told me on the walk from the gate, so you needn't say it again. Whatever Skeemo sent to the other cell is with them, and I'd be a fool to think we can get it back. What he would have learned from here on goes nowhere, and I'll take that, yes? Was it quick?"
 
 A member answers in their own words. Davil listens to the whole answer without interrupting, asks nothing more about it, and thanks the member for telling him. If the terms let him have the lute (2 or 3), he takes it out and plays a slow air through once, stopping partway through the second verse to put it back. If he has no lute, he hums the same tune and his fingers move on the table where the strings would be. After that he turns to the business of the evening.
 
@@ -149,7 +149,7 @@ If **Manshoon Named** is not marked, read or paraphrase the following:
 >
 > Davil sets down the jug and does not sit. He turns the silver trophy on his bracelet, or his cup if the bracelet is still in the property room, and looks at the wall above the table for a while before he speaks.
 >
-> > He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is with the other cell by now, in the towers where they keep their people, and they'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?
+> > "He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is with the other cell by now, wherever they keep their people, and they'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?"
 
 If **Manshoon Named** is marked, read or paraphrase the following instead:
 
@@ -157,7 +157,7 @@ If **Manshoon Named** is marked, read or paraphrase the following instead:
 >
 > Davil sets down the jug and does not sit. He turns the silver trophy on his bracelet, or his cup if the bracelet is still in the property room, and looks at the wall above the table for a while before he speaks.
 >
-> > He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is at Kolat Towers by now, on Manshoon's table, and he'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?
+> > "He went through that door knowing your names, your faces and the way each of you fights, and he wrote most of it down. All of it is at Kolat Towers by now, on Manshoon's table, and he'll have read it before we finish this cup. I'd ask you to sleep somewhere different each night this tenday. Would that be very inconvenient?"
 
 Davil asks no questions about Skeemo himself. He asks what Skeemo knew that could hurt the members, and he writes down what they tell him for Tashlyn. The garrison at Kolat Towers will recognize the party on sight, as **Silencing Skeemo** states.
 
@@ -169,7 +169,7 @@ Read this branch if **Skeemo Captured** is marked. Tashlyn has kept Skeemo in th
 >
 > Davil sets down his cup and waits until the booth, or the room, has gone quiet. Tashlyn is watching him, and Yagra has stopped leaning and stands straight.
 >
-> > Tashlyn tells me she's kept him three days and he's given her what he has, which is less than he pretends. What he wrote about you is in her strongbox with the notebooks from his shop. What he sent before you caught him is with the other cell, and nobody can call it back. She also tells me the order she gave you stands, and I'd like to hear from you before I decide whether it does.
+> > "Tashlyn tells me she's kept him three days and he's given her what he has, which is less than he pretends. What he wrote about you is in her strongbox with the notebooks from his shop. What he sent before you caught him is with the other cell, and nobody can call it back. She also tells me the order she gave you stands, and I'd like to hear from you before I decide whether it does."
 
 Tashlyn leaves to fetch Skeemo. If the terms are 0, she deals with the constable at the kitchen door the way she dealt with one in the City of the Dead, by opening her coat to show the badge of a City Guard captain and saying a few words, and he takes a seat in the taproom for the evening. She returns through the kitchen yard with Skeemo in a carter's coat, his wrists bound and his spectacles crooked.
 
@@ -183,11 +183,11 @@ Tashlyn leaves to fetch Skeemo. If the terms are 0, she deals with the constable
 >
 > Skeemo adjusts his spectacles before he answers.
 >
-> > Rare components, sir. The Doom Raiders could not supply what I needed and my other clients could, and I would have told you so if anyone had asked. Strictly speaking, it was never personal.
+> > "Rare components, sir. The Doom Raiders could not supply what I needed and my other clients could, and I would have told you so if anyone had asked. Strictly speaking, it was never personal."
 
 > [!qna]**What would you give for your life?**
 >
-> > Whatever is worth more to you than I am. To the Watch I can give a signed statement naming my clients and the hand that collects my letters. To you alone I can give my spellbook, my absence and my word, though I am aware of what my word is worth.
+> > "Whatever is worth more to you than I am. To the Watch I can give a signed statement naming my clients and the hand that collects my letters. To you alone I can give my spellbook, my absence and my word, though I am aware of what my word is worth."
 
 Davil asks Skeemo one question of his own before he lets the room speak, and the question is about time.
 
@@ -195,11 +195,11 @@ Davil asks Skeemo one question of his own before he lets the room speak, and the
 >
 > Davil turns toward the gnome and looks at him for a moment before he speaks, and his hands stay flat on the table.
 >
-> > How long have you been writing to them, Skeemo?
+> > "How long have you been writing to them, Skeemo?"
 >
 > Skeemo answers without any change in his voice.
 >
-> > Two months and eleven days, sir. Before that I wrote to House Gralhund.
+> > "Two months and eleven days, sir. Before that I wrote to House Gralhund."
 
 Davil nods once and turns back to the table.
 
@@ -217,13 +217,13 @@ Davil nods once and turns back to the table.
 
 > [!qna]**What should happen to him?**
 >
-> > The order stands. A man who sold our houses and our people will sell the rest of us to whoever offers him better reagents, and he'll do it politely.
+> > "The order stands. A man who sold our houses and our people will sell the rest of us to whoever offers him better reagents, and he'll do it politely."
 
 > [!qna]**What does Yagra say?**
 >
 > Yagra cracks her knuckles before she answers.
 >
-> > He gave them our safe houses and two of our people for a shelf of fucking bottles. I'd kill him myself and I'd sleep fine, and that's all I've got to say.
+> > "He gave them our safe houses and two of our people for a shelf of fucking bottles. I'd kill him myself and I'd sleep fine, and that's all I've got to say."
 
 When the count is settled, Davil gives his decision and the room plays it out. Read the outcome that applies.
 
@@ -233,7 +233,7 @@ If the decision is Exiled, read or paraphrase the following:
 >
 > Davil unfolds a sheet of paper that has been lying beside his cup and turns it to face Skeemo, who reads it with his lips pressed together. The letter names his clients and the hand that collects his letters, and it has a blank place at the bottom where a signature goes.
 >
-> > You'll sign that, please, and it stays in my strongbox. If you ever come back to Waterdeep, it goes to Sergeant Dunfell the same morning, and she is a woman who reads what she's given. Yagra will see you onto the tide tomorrow, and your spellbook stays with Tashlyn.
+> > "You'll sign that, please, and it stays in my strongbox. If you ever come back to Waterdeep, it goes to Sergeant Dunfell the same morning, and she is a woman who reads what she's given. Yagra will see you onto the tide tomorrow, and your spellbook stays with Tashlyn."
 >
 > Skeemo takes the pen Davil holds out and signs without a word, blotting the last stroke with his sleeve.
 
@@ -247,7 +247,7 @@ If the decision is Handed to the Watch, read or paraphrase the following:
 >
 > Davil takes a clean sheet from inside his coat and sets it in front of Skeemo with a pen laid across it, and the gnome reads the first lines and adjusts his spectacles. The statement names the other cell as his client and the hand that collects his letters, and it gives the three addresses he passed on as false.
 >
-> > Sergeant Dunfell likes paper more than she likes anything, so you'll give her yours. Tashlyn will walk you through the Castle gate in the morning, and you'll answer every question the clerks put to you as truthfully as you've answered mine.
+> > "Sergeant Dunfell likes paper more than she likes anything, so you'll give her yours. Tashlyn will walk you through the Castle gate in the morning, and you'll answer every question the clerks put to you as truthfully as you've answered mine."
 >
 > Skeemo reads the page to the end and signs it in a small neat hand.
 
@@ -263,7 +263,7 @@ If the decision is Executed, read or paraphrase the following:
 >
 > Davil looks at Skeemo for a while, and Skeemo looks back at him and adjusts his spectacles. When Davil speaks, his voice has no change in it.
 >
-> > Thank you for your counsel, all of you. Go and eat something, please. Tashlyn will see to the rest, and there's no need for you to be in the yard at dawn.
+> > "Thank you for your counsel, all of you. Go and eat something, please. Tashlyn will see to the rest, and there's no need for you to be in the yard at dawn."
 >
 > Tashlyn takes Skeemo by the collar of the carter's coat and steers him back toward the kitchen yard, and Skeemo goes without a word.
 
@@ -279,7 +279,7 @@ Whatever became of Skeemo, the evening ends with Davil's promise of a job.
 >
 > Davil finishes his cup and sets it down upside down on the table, and then he looks at each of you in turn. Behind him, Yagra has gone to the bar, and Tashlyn has moved to the door.
 >
-> > I've had a good deal of time to think, and there's a matter I'd like your help with when you're ready for it. I'll send a snake in my own hand when the time comes, and you'll know the writing. Drink what's left, my friends, and go home.
+> > "I've had a good deal of time to think, and there's a matter I'd like your help with when you're ready for it. I'll send a snake in my own hand when the time comes, and you'll know the writing. Drink what's left, my friends, and go home."
 
 ### Renown Opportunities
 
@@ -292,14 +292,15 @@ Davil takes back his chair at the Yawning Portal. Tashlyn does not step down, an
 ### Concluding the Event
 
 The Event concludes when the members have greeted Davil, learned what became of Skeemo and heard his promise.
+
 > [!gamemaster]**Event Outcomes**
 >
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Davil Released** — mark once, when the Lords' clerks release Davil and the members greet him at the Yawning Portal. Read by **Xanathar's Lair** Scene 1 (the Doom Raiders briefing contact is Davil), **Kolat Towers** (Davil's contributions to the approach), **Vault of Dragons** (Davil's presence at the confrontation and the Zhentarim Council bid), **The Yellowspire Job** (Davil briefs it) and the rank-up events **Wolf** and **Viper** (Davil writes the note and receives the member).
-> - **Skeemo Exiled** — mark when a captured Skeemo signs Davil's letter and boards the cog at dawn. Read by **Vault of Dragons**, where Skeemo is not present.
-> - **Skeemo Handed to the Watch** — mark when Tashlyn walks Skeemo through the Castle gate to Sergeant Dunfell. Read by **The Yellowspire Job**, which treats it as **Watch File Opened** for Castle Ward patrols, and by **Vault of Dragons**, where Skeemo is not present.
-> - **Skeemo Executed** — mark when Davil orders a captured Skeemo killed. Read by **Vault of Dragons**, where Skeemo is not present.
+> - **Davil Released** — mark once, when the Lords' clerks release Davil and the members greet him at the Yawning Portal. Read by **Xanathar's Lair** Scene 1 (the Doom Raiders briefing contact is Davil), **Kolat Towers** (Davil's contributions to the approach), **Vault of Dragons** (Davil's presence at the confrontation and the Zhentarim Council bid), **The Yellowspire Job** (Davil briefs it) and the rank-up events **Wolf**, **Viper** and **Ardragon** (Davil writes the note and receives the member).
+> - **Skeemo Exiled** — mark when a captured Skeemo signs Davil's letter and boards the cog at dawn. Read by **Ardragon**, **Dread Lord** and **Vault of Dragons**, where Skeemo is not present.
+> - **Skeemo Handed to the Watch** — mark when Tashlyn walks Skeemo through the Castle gate to Sergeant Dunfell. Read by **The Yellowspire Job**, which treats it as **Watch File Opened** for Castle Ward patrols, and by **Ardragon**, **Dread Lord** and **Vault of Dragons**, where Skeemo is not present.
+> - **Skeemo Executed** — mark when Davil orders a captured Skeemo killed. Read by **Ardragon**, **Dread Lord** and **Vault of Dragons**, where Skeemo is not present.
 
 > [!gamemaster]**Next Steps**
 >

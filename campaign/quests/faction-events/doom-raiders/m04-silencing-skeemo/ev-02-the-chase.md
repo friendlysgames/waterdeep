@@ -152,7 +152,7 @@ If the chase ends here, Skeemo reaches an old stone tower at the Castle Ward bor
 >
 > The party cannot enter this tower in this Event. Breaking the door takes ten minutes and a DC 25 Strength (Athletics) check, and within one minute of the first blow a Castle Ward Watch patrol rounds the corner, which marks **Watch File Opened**. The tower's layout and defenders are described in **The Yellowspire Job**, and this is not the time to test them.
 >
-> Until **Manshoon Named** is marked, the Doom Raiders believe Skeemo has gone to the other cell, which they think Floxin leads. If **Floxin Status** is Dead or Captured, they believe he has gone to whoever now gives the cell its orders. They do not know what lies behind the door, and neither does the party.
+> Until **Manshoon Named** is marked, the Doom Raiders believe Skeemo has gone to the other cell, which they think Floxin leads. If **Floxin Status** is Dead or Captured, they believe he has gone to whoever now gives the cell its orders. They know the tower, because Tashlyn has logged it, but not what lies behind its door, and neither does the party.
 
 ### Concluding the Event
 
@@ -160,7 +160,7 @@ The chase ends when Skeemo yields, dies or steps through the door of Yellowspire
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Skeemo at Kolat Towers** — mark when Skeemo steps through the door of Yellowspire, or when the party lets him leave. Read by **Davil's Return**, where Davil warns the party what Skeemo knows; by **The Yellowspire Job**, where the Splinter's security is already raised; and by **Kolat Towers**, where Skeemo waits in the sanctum and recognizes the party on sight.
+> - **Skeemo at Kolat Towers** — mark when Skeemo steps through the door of Yellowspire, or when the party lets him leave. Read by **Davil's Return**, where Davil warns the party what Skeemo knows; by **The Yellowspire Job**, where the Splinter's security is already raised; by **Kolat Towers**, where Skeemo waits in the sanctum and recognizes the party on sight; by **Ziraj's Last Hunt**, where Ondra Kell learned where Ziraj keeps a room from Skeemo; and by **Ardragon** and **Dread Lord**, where Davil speaks of Skeemo as living with the other cell.
 > - **Watch File Opened** — mark it here when a commuter is harmed or when the party breaks in at Yellowspire. **The Reckoning** lists this outcome with its readers, and marks it as well when the Watch's questions score one or zero.
 
 > [!gamemaster]**Next Steps**

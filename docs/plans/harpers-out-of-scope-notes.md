@@ -285,7 +285,7 @@ This section supersedes the Doom Raiders line numbers in the section above, whic
   - **Retired format:** **Yagra Courteous** is written as a True/False flag (l.37).
   - **Mission table:** it lacks an availability column (now Renown 0/3/5/8/10/13).
   - **Arrest timing:** Tashlyn's first message and the snake are separate deliveries (l.30).
-  - **Davil-assist award:** "any substantive effort" (l.49); s01 gives it once per member per completed approach.
+  - **Davil-assist award:** "any substantive effort" (l.49); s01 gives 1 Renown once per member in total (s01:233, :255), not once per approach (corrected in Session 39).
   - **Rank benefits:** Viper "veteran" muscle, and Ardragon benefits "per quest" versus Appendix B's "per arc".
   - **Outposts hook:** "two months" of watching Yellowspire.
 - **`setting/organizations/06-doom-raiders.md`:** the arrest comes "after Mission 2" (l.15, l.29); Davil is "always in the taproom" with a lute; and it names Manshoon (l.25, 38, 53).
@@ -550,3 +550,17 @@ None of these has a Notable Figures page or an Ember source. Each is voiced from
 3. **Does Fireball ev-04 set Jarlaxle Unmasked?** If yes, ev-04's ledger becomes the writer and the Faire isn't the only one. If no, arc-h must write it, and the Harper M4 exposure stays unrelated.
 4. **Does guide 08 adopt per-member wording?** The events are individual. The guide rows, `player-factions-overview.md` and `trollskull-manor/09` say "the party".
 5. **Where does Renown 25 and 50 come from, for every faction?** BD base awards total 19, and bonus lines supply roughly 37 at most, per the ruling "bonus lines and Earning Renown supply the rest". The Doom Raiders run reached the same gap. 50 may belong to the Mad Mage.
+
+## Doom Raiders consistency pass (Session 39)
+
+The Session 39 DR QA (`docs/plans/doom-raiders-consistency-pass-s39.md`) fixed everything inside the DR folder (`docs/plans/doom-raiders-qa-fix-rulings-s39.md`). These are the findings outside the folder:
+- **Istrid in Gralhund ev-09.** `campaign/quests/act-ii/gralhund-villa/ev-09-aftermath.md:71-79` has Istrid flee to Baldur's Gate or be taken by the Watch. DR M3, the M5 Debrief, r03 and r50 still use her at her Dock Ward warehouse. Gralhund needs an outcome that DR reads, or Istrid must stay in the city.
+- **First-name collisions with BD.** These pairs share a first name:
+  - Ilmra Dunfell (DR s01) and Ilmra Kelnozz (BD r25/r50);
+  - Odalys Quenn (DR r10) and Odalys Vane (BD r03);
+  - Ilsa Carrow (DR r25) and Captain Ilsa Dalloway (BD M5).
+  Rename one of each pair when the invented names are reviewed.
+- **Wererats in OotG M3.** `order-of-the-gauntlet/m03-the-shard-shunners/overview.md:22` and `ev-01:16, :149` say "Silver or magic weapons required". The 2024 Wererat has no such rule. Its DC 17 Intimidation dispersal also differs from DR's DC 15 Persuasion.
+- **Senna Vael.** `setting/notable-figures/doom-raiders/07-senna-vael.md`, org page 06 and `guides/trollskull-manor/03-staff-and-hiring.md` use her, but no DR event does.
+- **Seven Masks Lead.** No BD event reads it. Its readers are Faction Outposts and Sea Maidens Faire (both unconverted).
+

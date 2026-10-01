@@ -65,7 +65,7 @@ If **Skeemo Silenced** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > "He was clever and careful, and I was fond of him, which I would rather I hadn't been. He sold us for years, and you were the ones who ended it. I don't know what to feel about that, so I've decided to feel nothing for the moment."
+> > "He was clever and careful, and I was fond of him, which I would rather I hadn't been. He sold us for months, and you were the ones who ended it. I don't know what to feel about that, so I've decided to feel nothing for the moment."
 
 If **Skeemo Captured** is marked, use the reading that matches his fate. If **Skeemo Exiled** is marked, read or paraphrase the following:
 
@@ -181,13 +181,13 @@ If **Manshoon Named** is not marked, he says "the other cell" in place of "Mansh
 
 > [!qna]**Why do you need them?**
 >
-> > "Because Skeemo told the other cell everything for years, and I would like to hear what they say about us now. It's a small thing to want. It has cost me a great deal of sleep."
+> > "Because Skeemo told the other cell everything for two months, and I would like to hear what they say about us now. It's a small thing to want. It has cost me a great deal of sleep."
 
 > [!gamemaster]**Three Protected Postings**
 >
 > Requests go through Davil or Tashlyn, who know the informants' real names and will not give them to the member:
 >
-> - **Linen**, Wren Tolliver: launders bedding and clothes for the cell's safe houses in the Dock and Trades Wards. She can report who sleeps where, who arrives hurt, and which houses are emptied or restocked. She hears nothing said in a room.
+> - **Linen**, Wren Haskett: launders bedding and clothes for the cell's safe houses in the Dock and Trades Wards. She can report who sleeps where, who arrives hurt, and which houses are emptied or restocked. She hears nothing said in a room.
 > - **Tally**, Bastian Quill: a junior clerk in a Trades Ward counting-house that keeps the cell's accounts. He can report payments, wages and shipments that cross his desk. He never sees the strongroom or the private ledgers.
 > - **Buckle**, Hesper Lund: a hired sword on one of the cell's street crews. She can report the day's muster, patrol routes, the crew house's posted assignments and what the crews are saying. She knows no lieutenant's plans.
 >

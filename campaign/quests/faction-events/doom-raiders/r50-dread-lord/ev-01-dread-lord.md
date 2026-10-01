@@ -29,7 +29,7 @@ Davil does not send a flying snake. On every evening after the member reaches Re
 >
 > > "Ah, there you are. I have something to say to you, and I'd like to say it upstairs, where the others are waiting. Your friends are welcome to a drink down here on me, yes?"
 
-### The Third Floor
+### The Second Floor
 
 > [!readaloud]
 >
@@ -45,7 +45,7 @@ If **Skeemo Silenced** is marked, read or paraphrase the following:
 >
 > Davil rests a hand on the back of the pushed-in chair.
 >
-> > "Skeemo's chair stays empty. He sold us for years, and he is dead because of it, and I find I still set a place for him in my head. I would ask you to forgive me that."
+> > "Skeemo's chair stays empty. He sold us for months, and he is dead because of it, and I find I still set a place for him in my head. I would ask you to forgive me that."
 
 If **Skeemo Captured** is marked, use the reading that matches his fate. If **Skeemo Exiled** is marked, read or paraphrase the following:
 
@@ -180,7 +180,7 @@ If the member's name is on **Ziraj's Favour Used**, Tashlyn adds one line after 
 > - **Sea Ward:** a dressmaker's on Sea Ward Way (a yard of grey silk).
 > - **North Ward:** a saddler's three streets from Trollskull Alley (a pair of stirrup leathers).
 > - **Trades Ward:** a cooper's yard behind the guild halls (a hoop for a half-barrel).
-> - **South Ward:** a boarding house near the ward's market (a room for the night, paid in advance).
+> - **Southern Ward:** a boarding house near the ward's market (a room for the night, paid in advance).
 > - **Field Ward:** a hay and feed yard at the edge of the ward (a bale of clean straw).
 >
 > The member can bring up to five guests who are vouched for at the door. A stay lasts up to five consecutive nights with no limit per tenday, and the house counts as a safe place for a long rest. A keeper will take in someone the Watch is chasing for one night, once per tenday per house, and the Watch does not know the addresses. The City of the Dead has no house, because nobody lives there to run one.

@@ -278,7 +278,7 @@ If nobody spots him, read or paraphrase the following:
 >
 > Membership is individual, and a character belongs to one faction at a time, so a Bregan D'aerthe member can be in this alley only as the companion of a Doom Raiders member. Companions gain no Doom Raiders Renown.
 >
-> The member knows Soluun as the day watcher from the First Meeting, and the spider-and-blade disc at his neck is the company's mark. Nothing the member sees tells them he is acting without orders. Soluun knows the member's face too, and he doesn't spare them. He fires on them like anyone else, calls them traitor in the same breath as surface-blood, and says that he hunts for the captain. A captured Soluun demands to know why a brother of the company is holding the blade.
+> The member knows Soluun as the day watcher from the First Meeting, and the spider-and-blade disc at his neck passes for the company's mark. Nothing the member sees tells them he is acting without orders. Soluun knows the member's face too, and he doesn't spare them. He fires on them like anyone else, calls them traitor in the same breath as surface-blood, and says that he hunts for the captain. A captured Soluun demands to know why a brother of the company is holding the blade.
 >
 > The company learns who stood in the alley within a tenday. **The Killer's Fate** runs the consequences: Nevercott's "You were there.", a loss of 1 Renown unless the member explains themselves well, and nothing worse. If Soluun survives, **Soluun Expelled** follows.
 >
@@ -368,7 +368,7 @@ A captured Soluun gives up nothing else in this Event. A character who searches 
 >
 > A silver disc hangs on a cord at Soluun's neck, stamped with a spider caught in its web and crossed by a blade, which is the mark of Bregan D'aerthe. His belt pouch holds loose bolts wrapped in oiled cloth and three spent ones from the last kill. The playbill is stiff with dried blood and advertises *Blood Wedding* at the Seven Masks Theater, with the name "Rongquan Mystere" in small print as the proprietor. If Soluun escaped, the party has the playbill and nothing else, since the disc stays with him.
 >
-> Any character who handles the disc and is a member of Bregan D'aerthe sees at once that the knotwork is wrong and the finish too polished. The disc is forged, and someone made it for him or he made it himself. Other characters see a spider on a disc and learn nothing more.
+> Any character who handles the disc and is a member of Bregan D'aerthe sees at once that the knotwork is wrong and the finish too polished. The disc is a forgery, though a good one, and a Bregan D'aerthe member can tell it was struck outside the company's usual shop. Other characters see a spider on a disc and learn nothing more.
 >
 > Any character who studies the playbill and makes a successful **DC 12 Intelligence (History)** check recalls that the Seven Masks Theater has connections to Bregan D'aerthe. Waterdhavian gossip has long held that the drow mercenary band uses the theater as a meeting place.
 >
@@ -453,14 +453,16 @@ The Event concludes when the members report to Davil, whatever became of Soluun.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Soluun Captured** — mark when Soluun is taken alive and delivered to Gorra or to Davil; read by **Sea Maidens Faire**, where he is back aboard the Scarlet Marpenoth after his release, and Savra Belabranta asks whether the party found the elf-killer.
-> - **Soluun Escaped** — mark when Soluun flees over the roofs, or when the party walks Heldar out and never confronts him; read by **Sea Maidens Faire**, where he returns weeks later and before Tarsakh 20, recognizes the party on sight, and Savra asks the party to prioritize his capture.
-> - **Soluun Killed** — mark when Soluun dies in the alley or on the roofs; read by **Sea Maidens Faire**, where he isn't aboard and Jarlaxle's response to the party turns personal.
+> - **Soluun Captured** — mark when Soluun is taken alive and delivered to Gorra or to Davil; read by **The Killer's Fate** (Bregan D'aerthe), which holds the ruling the night he is released and marks **Soluun Expelled**, and by **Sea Maidens Faire**, where he is not aboard, having been expelled, and Savra Belabranta asks whether the party found the elf-killer.
+> - **Soluun Escaped** — mark when Soluun flees over the roofs, or when the party walks Heldar out and never confronts him; read by **The Killer's Fate**, which holds the ruling the night he walks back aboard (the twenty-fourth night, or Tarsakh 18 if that comes first), and by **Sea Maidens Faire**, where he is not aboard, and Savra asks the party to prioritize his capture.
+> - **Soluun Killed** — mark when Soluun dies in the alley or on the roofs; read by **The Killer's Fate**, **The Compromised Eye**, **The Dive** and **Houseless Noble** (Bregan D'aerthe), and by **Sea Maidens Faire**, where he isn't aboard and Jarlaxle's response to the party turns personal.
 > - **Seven Masks Lead** — mark when the party holds the bloodstained playbill, and record whether they learned the Bregan D'aerthe link (DC 12) and the name "Rongquan Mystere" with its Luskan money (DC 14); read by **Faction Outposts**, which opens the Bregan D'aerthe section with the lead already in hand, and by **Sea Maidens Faire**.
 
 > [!gamemaster]**Next Steps**
 >
 > **The Poisoned Delivery** becomes available to an individual Doom Raiders member when that member reaches Renown 3 and 3rd level. A member who begins at Renown 1 and earns the base Renown reaches Renown 3 with this mission. Companions who aren't members earn nothing toward the gate.
+>
+> If the party hasn't played this mission when Davil is arrested on Ches 26, Tashlyn Yafeera briefs it instead, with the same brief and the same reward.
 >
 > This Event awards no Milestone Points.
 

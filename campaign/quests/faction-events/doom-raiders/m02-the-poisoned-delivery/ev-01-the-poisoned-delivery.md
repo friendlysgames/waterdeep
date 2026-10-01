@@ -265,7 +265,7 @@ The only explanation that works is the truth. A member who tells her turns the e
 > - Runs for the nearest alley and climbs out of reach.
 > - Never attacks, and never returns to the coach.
 >
-> The scene ends when Esvele slips out of sight or the coach pulls away. The driver takes the pouch with him. The party keeps the coffer and forfeits the tip. Mark **Delivery Refused**. Esvele treats the party as hostile in **Cassalanter Villa**, where she is a cold obstacle and not a possible ally. The party can avoid all of this by handing over, warning or refusing.
+> The scene ends when Esvele slips out of sight or the coach pulls away. The driver takes the pouch with him. The party keeps the coffer and forfeits the tip. Mark **Delivery Refused** and **Esvele Hostile**. The party can avoid all of this by handing over, warning or refusing.
 
 ### The Wazoo Notice
 
@@ -360,12 +360,15 @@ The report to Davil concludes the mission. Each outcome below is recorded separa
 > - **Esvele Warned** — mark when a member tells Esvele the vials are poison, whether she believes them or not. Read by **Silencing Skeemo**, where Tashlyn says she heard of the warning through the Network, and by **Cassalanter Villa**, where Esvele's first meeting with the party starts warmer.
 > - **Poison Swapped** — mark when the party gives Esvele a harmless copy without her learning of it; Rallygar lives. Read by **Silencing Skeemo**, where Skeemo has already noticed that the death he expected never came.
 > - **Delivery Refused** — mark when the party never hands the coffer to Esvele. Read by **Silencing Skeemo**, where Tashlyn knows the party refused and asks what they did with the vials.
+> - **Esvele Hostile** — mark when the party grabs the coach and Esvele flees; a plain refusal does not mark it. Read by **Cassalanter Villa**, where Esvele treats the party as hostile and is a cold obstacle and not a possible ally.
 > - **Coffer Returned** — mark when the party gives Davil the coffer or at least one intact vial. Read by **Silencing Skeemo**, where Tashlyn already holds a vial from Davil's desk.
 > - **Skeemo Alerted** — mark when a member tells Skeemo to his face that the vials are poison, or attacks him in the shop. Read by **Silencing Skeemo**, where Skeemo has packed his satchel and left the back door unlatched.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Missing Snobeedle** becomes available when an individual Doom Raiders member reaches Renown 5 and 4th level. Davil's arrest follows **Gralhund Villa** and is not part of this mission; see **Davil's Arrest** for that. This mission awards no Milestone Points.
+> **The Missing Snobeedle** becomes available when an individual Doom Raiders member reaches Renown 5 and 4th level. Davil's arrest follows **Gralhund Villa** and is not part of this mission; see **Davil's Arrest** for that. If the party hasn't played this mission when Davil is arrested on Ches 26, Tashlyn Yafeera briefs it instead.
+>
+> This mission awards no Milestone Points.
 
 ## Overview
 
