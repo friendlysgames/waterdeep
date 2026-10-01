@@ -20,11 +20,11 @@ On the morning after the last eligible member qualifies, a voice calls up the ce
 
 Ott Steeltoes is Xanathar's fishkeeper, a dwarf who worships Zuggtmoy and wears a skullcap stitched with the dried eyestalks of a beholder. Someone bound him in the iron bands of Bilarro and left him in the cellar of Trollskull Manor, and nobody knows who. Ott does not know, and neither does Bregan D'aerthe.
 
-Jarlaxle Baenre learned of the guest at dawn from his watchers on the alley, wrote the note himself and decided to make use of the three nights. Xanathar cannot do without the one man who knows how to keep Sylgar alive, and Jarlaxle wants to see what the Guild spends to get him back. Fel'rekt Lafeen watches from the roof of the Bent Nail each night, counts what comes through the doors and does not interfere.
+Jarlaxle Baenre learned of the guest at dawn from his watchers on the alley and wrote the note himself. Xanathar cannot do without the one man who knows how to keep Sylgar alive, and Jarlaxle wants to see what the Guild spends to get him back. Fel'rekt Lafeen watches from the roof of the Bent Nail each night and counts what comes through the doors. He does not interfere.
 
 ## The Discovery
 
-There is no briefing. The party finds Ott bound against a wine barrel in the cellar, hears his account, which is short and does not explain anything, and receives the note an hour later. Members may visit Kreb at the Seven Masks Theater afterward. What he tells them depends on whether he has already shown them his own face.
+There is no briefing. The party finds Ott bound against a wine barrel in the cellar and hears his short account, which explains nothing. The note arrives an hour later. Members may then visit Kreb at the Seven Masks Theater, and what he tells them depends on whether he has already shown them his own face.
 
 ## Night One
 
@@ -32,11 +32,11 @@ At midnight the Guild's bugbears come for Ott through the front door and the cou
 
 ## Night Two
 
-Four Dungsweepers' Guild workers sit down at the back table in the evening and drink without talking. Some of them carry intellect devourers, which sense minds through walls and know exactly where Ott is. The party can spot them, move Ott out of their reach, clear the taproom or wait for them to make their move at 23:00.
+Four Dungsweepers' Guild workers sit down at the back table in the evening and say nothing. Some of them carry intellect devourers, which sense minds through walls and know exactly where Ott is. The party can spot them, move Ott out of their reach, clear the taproom or wait for them to make their move at 23:00.
 
 ## Night Three
 
-At midnight something eats through the cellar grate and rises into the room. A Beholder Zombie wants Ott, and the party needs to keep him away from it for six rounds, until the iron bands take him somewhere nobody can follow.
+At midnight a Beholder Zombie eats through the cellar grate and rises into the room. It wants Ott, and the party must keep him away from it for six rounds, until the iron bands take him somewhere nobody can follow.
 
 ## Renown Opportunities
 
@@ -48,7 +48,7 @@ Ott vanishes with the bands, and Krebbyg does not collect him. The second black 
 
 ## Involved Characters
 
-- **Ott Steeltoes** (Xanathar's Guild): the bound dwarf, a chatty and frightened fishkeeper who cannot explain how he came to be here.
+- **Ott Steeltoes** (Xanathar's Guild): the bound dwarf, a frightened fishkeeper who cannot explain how he came to be here.
 - **Lif** (Trollskull Alley community): the poltergeist of the manor, who helps on every floor above the cellar if the party has treated the building well.
 - **Krebbyg Masq'il'yr** (Bregan D'aerthe): the booking manager of the Seven Masks Theater, who knows less than the party would like and says "the captain" for his employer.
 - **Fel'rekt Lafeen** (Bregan D'aerthe): the lieutenant who watches the manor from the roof of the Bent Nail and does not take part.
@@ -56,7 +56,13 @@ Ott vanishes with the bands, and Krebbyg does not collect him. The second black 
 
 ## Dangers & Enemies
 
-Three separate fights at Trollskull Manor, one on each night: Guild bugbears with a Tough or a Bandit as the party's size requires, a table of four Dungsweepers of whom one or two carry intellect devourers, and a damaged Beholder Zombie. Every fight has a retreat or surrender condition and a way for the party to avoid it. Fel'rekt is nearby and never fights.
+Three fights take place at Trollskull Manor, one each night.
+
+- **Night One:** Guild bugbears, with a Tough or a Bandit as party size requires.
+- **Night Two:** four Dungsweepers, one or two of whom carry intellect devourers.
+- **Night Three:** a damaged Beholder Zombie.
+
+Every fight has a retreat or surrender condition and a way for the party to avoid it. Fel'rekt is nearby and never fights.
 
 ## Overview
 
