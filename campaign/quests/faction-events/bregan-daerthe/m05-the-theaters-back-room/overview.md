@@ -2,10 +2,10 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Available to an individual Bregan D'aerthe member at Renown 10 and 6th level after **The Compromised Eye** and **Dinner with Zardoz**, while the Faire is still in Deepwater Harbor. Only Bregan D'aerthe members receive the brief. Companions can sit in the house, help with the watcher and meet nobody afterward. The mission has two versions, chosen by **Windmill Raided** from **Faction Outposts**.
+> Available to an individual Bregan D'aerthe member at Renown 10 and 6th level after **The Compromised Eye** and **Dinner with Zardoz**, while the Faire is still in Deepwater Harbor. Only Bregan D'aerthe members receive the brief. Companions can sit in the house and help with the watcher, and meet nobody afterward. **Windmill Raided** from **Faction Outposts** chooses the version.
 >
 > - **Windmill Raided** not marked: run **The Theater's Back Room**, a handoff at the Seven Masks Theater. Krebbyg gives the brief in the booking office.
-> - **Windmill Raided** marked: run **The Debrief**. The party has already been inside the windmill on Coachlamp Lane, so Bregan D'aerthe has run the handoff itself and asks the member for a report instead.
+> - **Windmill Raided** marked: run **The Debrief**. The party has already been inside the windmill on Coachlamp Lane, so Bregan D'aerthe has run the handoff itself and asks the member for a report.
 >
 > Both versions read **Zardoz Introduced** from **Dinner with Zardoz**, **Kreb Unmasked** from **Kreb Drops the Cover**, and **Wazoo Exposé Published** and **Cassalanter Reaction Observed** from **The Wazoo Affair**. The Debrief also reads **Windmill Map Taken** and **Windmill Clean Exit**, which the **Faction Outposts** conversion must write along with **Windmill Raided**.
 >
@@ -19,43 +19,43 @@
 
 ## Hook
 
-On the day the member qualifies, a playbill with a red 6 circled on it is pushed under the door of Trollskull Manor, and the member is expected at the stage door of the Seven Masks Theater at six bells. Krebbyg Masq'il'yr has a job that has to be done tonight, during the Faire's showcase, and the captain wants it done without a Cassalanter learning who did it.
+On the day the member qualifies, a playbill with a red 6 circled on it is pushed under the door of Trollskull Manor. The member is expected at the stage door of the Seven Masks Theater at six bells. Krebbyg Masq'il'yr has a job for tonight, during the Faire's showcase, and the captain wants it done without a Cassalanter learning who did it.
 
 ## Background
 
-Brimel Crestfall is a household steward in the Cassalanter villa, a careful man in his forties who has spent years carrying baskets of candles, salt, black wax and wine to a converted windmill on Coachlamp Lane in the Southern Ward. The family keeps the place off its social calendar and its house books, pays the rent on its upper floor in the name of a Marra Selby, and sends nobody there but Brimel and, twice a month, Madam Ammalia in a hired cab with the curtains drawn. Brimel does not know what the family does there. He knows only that they hold private gatherings after dark, and that Lord Victoro once said the property would be needed "for the resolution of the family's obligation," which Brimel took to mean a debt.
+Brimel Crestfall is a household steward in the Cassalanter villa, a careful man in his forties. For years he has carried baskets of candles, salt, black wax and wine to a converted windmill on Coachlamp Lane in the Southern Ward. The family keeps the place off its social calendar and its house books and pays the rent on its upper floor in the name of a Marra Selby. Nobody goes there but Brimel and, twice a month, Madam Ammalia in a hired cab with the curtains drawn. Brimel does not know what the family does there. He knows that they hold private gatherings after dark, and that Lord Victoro once said the property would be needed "for the resolution of the family's obligation," which Brimel took to mean a debt.
 
-*The Waterdeep Wazoo* printed Jarlaxle's exposé in **The Wazoo Affair**, and the household has been frightened since. Two "solicitors" called on the publisher, and the family has since questioned its own staff about who they speak to. Brimel believes the family will dismiss whoever it can blame, and he sold a floor plan of the windmill to Bregan D'aerthe, through the household's wine merchant, for 300 gp. Half of it has been paid. The rest waits in an envelope in Krebbyg's desk.
+*The Waterdeep Wazoo* printed Jarlaxle's exposé in **The Wazoo Affair**, and the household has been frightened since. Two "solicitors" called on the publisher, and the family has questioned its own staff about who they speak to. Brimel believes the family will dismiss whoever it can blame. He sold a floor plan of the windmill to Bregan D'aerthe, through the household's wine merchant, for 300 gp. Half has been paid. The rest waits in an envelope in Krebbyg's desk.
 
-Jarlaxle wants the plan because he knows what the Cassalanters are. His doppelganger agent Vessa, who has moved in their social circle for months, read the Asmodean pact and the children's contract in their thoughts, and the Wazoo piece was meant to make the family flinch. The windmill is the one place the family keeps off its social calendar, so Vessa's cover has never reached it, and the plan is the first look the company will have at the place. Zardoz and Krebbyg never confirm any of this to a member. A member who works out the truth and says so is the exception, and the debrief handles it.
+Jarlaxle wants the plan because he knows what the Cassalanters are. His doppelganger agent Vessa has moved in their social circle for months and read the Asmodean pact and the children's contract in their thoughts, and the Wazoo piece was meant to make the family flinch. Vessa's cover has never reached the windmill, so the plan is the company's first look at it. Zardoz and Krebbyg never confirm any of this to a member. The exception is a member who works out the truth and says so.
 
 ## The Brief
 
-Krebbyg gives the brief in the locked booking office at six bells, with a ticket for every member of the party, a rack of usher's coats and a sealed envelope that holds Brimel's second payment. He explains the handoff in section C, the seat phrase, the grey coat on peg seven that serves as a fallback, and the watcher the family has put on Brimel. He does not know her face. He warns the member that Zardoz Zord will be in the owner's box tonight and will not say a word to anybody.
+Krebbyg gives the brief in the locked booking office at six bells, with a ticket for every member of the party, a rack of usher's coats and a sealed envelope holding Brimel's second payment. He explains the handoff in section C, the seat phrase, the grey coat on peg seven as a fallback, and the watcher the family has put on Brimel. He does not know her face. He warns the member that Zardoz Zord will be in the owner's box tonight and will not say a word to anybody.
 
 ## The Lobby
 
-The Faire's showcase opens its doors at eight bells, and the lobby fills with Faire fans and tumblers in costume. Florette Cressyn waits among them for Brimel. The party has until half past eight to find her, and a second chance at a quarter to nine if it does not. Malcolm Brizzenbright, the theater's ghost, helps anyone who speaks to him politely.
+The Faire's showcase opens its doors at eight bells, and the lobby fills with Faire fans and tumblers in costume. Florette Cressyn waits among them for Brimel. The party has until half past eight to find her, and a second chance until five to nine if it does not. Malcolm Brizzenbright, the theater's ghost, helps anyone who speaks to him politely.
 
 ## Four Ways to Keep Her Off Brimel
 
-Florette is a professional who has watched Brimel for ten days and has no evidence yet. The party can pull her away with a double-booked seat, lift her ticket stub, have the Watch move her out of a fire aisle, or take her into the service corridor by force. Each approach has its own steps and its own failure, and only the first three can leave her with nothing to report.
+Florette is a professional who has watched Brimel for ten days and has no evidence yet. The party can pull her away with a double-booked seat, lift her ticket stub, have the Watch move her out of a fire aisle, or take her into the service corridor by force. Each approach has its own steps and failure, and only the first three can leave her with nothing to report.
 
 ## The First Number
 
-During the Faire's opening shanty, the member who sits in the seat beside Brimel says the phrase, takes the folded plan and passes the envelope later. Zardoz Zord watches from the box above stage right and does not speak. If the pass goes wrong, Brimel leaves the plan in the grey coat on peg seven at the interval.
+During the Faire's opening shanty, the member in the seat beside Brimel says the phrase and takes the folded plan. Zardoz Zord watches from the box above stage right and does not speak. If the pass goes wrong, Brimel leaves the plan in the grey coat on peg seven at the interval.
 
 ## The Interval and the Street
 
-If Florette saw the pass, or has seen a member's face, she follows Brimel when he leaves at the interval. The party can lose her in the lobby crush or on Net Street, and a party that fails both marks **Florette Reported**.
+If Florette saw the pass, or has seen a member's face, she follows Brimel when he leaves at the interval. The party can lose her in the lobby crush or on Net Street. A party that fails both marks **Florette Reported**.
 
 ## The Doorway on Net Street
 
-Brimel meets the member in a shuttered sailmaker's doorway two blocks from the theater, takes his second payment and tells what he knows about the windmill. He is afraid of what the household will do next, and he asks for a way out of the city.
+Brimel meets the member in a shuttered sailmaker's doorway two blocks from the theater, takes his second payment and tells what he knows about the windmill. He is afraid of what the household will do next and asks for a way out of the city.
 
 ## The Plan in Krebbyg's Hands
 
-Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment, the lease name and a pencilled note on a map in a back room that marks the Brandath Crypt in the City of the Dead. A member who tells him in their own words that the Cassalanters are bound to a devil, or who shows proof, hears the company admit that it has known for some time, and **Cassalanter Pact Shared with BD** is marked.
+Krebbyg reads the plan in the booking office after the show. The sketch shows the windmill's stair and top-floor apartment and the lease name. A pencilled note on the back describes a map in the back room that marks the Brandath Crypt in the City of the Dead. A member who tells him in their own words that the Cassalanters are bound to a devil, or who shows proof, hears the company admit that it has known for some time, and **Cassalanter Pact Shared with BD** is marked.
 
 ## The Key
 
@@ -67,7 +67,7 @@ When **Windmill Raided** is marked, Zardoz and Krebbyg receive the member in the
 
 ## Renown Opportunities
 
-Each participating Bregan D'aerthe member gains 4 base Renown for delivering Brimel's plan to Krebbyg in the first version, or for reporting on the windmill in The Debrief. Each version lists its own +1 conditions.
+Each participating Bregan D'aerthe member gains 4 base Renown for delivering Brimel's plan to Krebbyg, or for reporting on the windmill in The Debrief. Each version lists its own +1 conditions.
 
 ## Aftermath
 
@@ -76,7 +76,7 @@ Brimel boards the *Heartbreaker* or stays in the villa, depending on what he was
 ## Involved Characters
 
 - **Krebbyg Masq'il'yr** (Bregan D'aerthe): briefs the member, reads the plan and hands over the key.
-- **Zardoz Zord** (Bregan D'aerthe): the member's contact now, who watches from the box in The Theater's Back Room and talks in The Debrief.
+- **Zardoz Zord** (Bregan D'aerthe): the member's contact, who watches from the box in The Theater's Back Room and talks in The Debrief.
 - **Brimel Crestfall** (Cassalanter household): a frightened steward who sold a floor plan for coin.
 - **Florette Cressyn** (Cassalanter retainer): a household investigator watching Brimel for Ammalia Cassalanter.
 - **Captain Ilsa Dalloway** and **Constable Harl Pimm** (Dock Ward Watch): the officers on crowd duty at the showcase.
@@ -85,7 +85,7 @@ Brimel boards the *Heartbreaker* or stays in the villa, depending on what he was
 
 ## Dangers & Enemies
 
-No fight is planned. Florette is the obstacle, and the danger is exposure to the Cassalanters, not violence. A fight in the theater brings Captain Dalloway and Constable Pimm, who arrest anyone holding a weapon.
+No fight is planned. Florette is the obstacle, and the danger is exposure to the Cassalanters. A fight in the theater brings Captain Dalloway and Constable Pimm, who arrest anyone holding a weapon.
 
 ## Overview
 
