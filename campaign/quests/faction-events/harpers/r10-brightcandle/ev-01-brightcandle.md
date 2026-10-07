@@ -1,179 +1,77 @@
 # Brightcandle
 
-> [!gamemaster]**Gamemaster's Summary**
+> **[GM]**
 >
-> This Social Event occurs when an individual Harper member reaches Renown 10. Mirt explains stores and field backup, then arranges that character's first persona. In this Event, the member can:
+> #### Gamemaster's Summary
 >
-> - Learn the supply address, notice period and current phrase.
-> - Request a field operative for one operation in a named quest.
-> - Answer the persona questions and receive fixed documents and vouching contacts.
+> This Social Event fires at the first natural pause — next visit to Mirt, or Mirt seeks the character out within a tenday — after one party member's Harper renown reaches 10. In this Event:
 >
-> Remallia attends openly only after **Remallia Harper Contact Known**. Before that outcome, Mirt handles the meeting and relays her work without disclosing her identity.
+> - Mirt and Remi Haventree meet the character together; Mirt explains the rank and its resources, Remi handles the persona work
+> - Mirt provides access to Harper stores: one *potion of healing* or spell scroll (cantrip or 1st-level spell) per mission, requisitioned through a Trades Ward supply contact with a verbal code phrase
+> - He explains the field agent callout: one Harper **Spy** as backup, once per quest, arriving within a day of the request
+> - Remi builds the character's first *persona*: cover name, documentation, appropriate clothing, and two Harper contacts who will vouch for the story in person
+> - One beat of faction color: the Brightcandle rank marks the shift from informant to operative
 
-### Hook
+**Background (DM only)**
 
-Mirt sends the qualifying member a paper bird at noon the following day, inviting them to his manor at 20:00. A member outside Waterdeep receives the appointment for the evening after returning to a safe surface lodging. Other qualifying Harper members can attend together, and each promotion and benefit is recorded separately. Companions don't attend the private faction brief.
+Brightcandle is the point where Mirt considers a Harper member trusted with resources that could compromise the organization if misused. The promotion is a decision, not a threshold. He has asked Remi to be present for the persona work because she built and maintains that infrastructure.
 
-### Background
+The supply contact operates out of a licensed apothecary in the Trades Ward. He keeps a small stock and requires twenty-four hours' notice and the verbal code phrase. Mirt changes the phrase quarterly; the current phrase is on the folded note he provides.
 
-Brightcandle opens resources meant for operational work, and the supply access and backup belong to the individual member. Remallia maintains the persona infrastructure, but Mirt keeps that role private before the salon. A persona is a civilian identity with supporting relationships. It doesn't change the character's appearance, and it doesn't compel witnesses to believe it.
+The field agent drawn for backup is pulled from the Harper network's roster. Operatives do not share real names on active deployments — they arrive, do the work, and leave. They will not accept orders that violate Harper principles and will not remain on site after the operation concludes.
 
-### The Stores Note
+Remi builds the persona around the character's existing skills and appearance. Her three questions — where the character grew up, what they did before Waterdeep, and what trade they could pass for — take ten minutes and produce a cover identity that can sustain questioning from city Watch and minor guild representatives. The documentation takes three days to prepare.
 
-> [!readaloud]
+### Mirt on the Resources
+
+Mirt explains the supply access briefly. One requisition per mission: a *potion of healing* or a spell scroll (cantrip or 1st level). Twenty-four hours' notice, verbal code phrase, Trades Ward apothecary. He provides the address and the phrase on a folded note.
+
+> *"Don't let the stores tempt you into missions you haven't thought through. They're for missions you have."*
+
+The field agent callout follows.
+
+> *"One operative, once per quest. They arrive within a day. They don't give their name, they don't take orders that would embarrass the network, and they leave when it's done. Don't get them killed — I don't have unlimited supply."*
+
+He names the **Spy** stat block in passing — not as a boast, as information the character will want when planning.
+
+> [!profile]**Running Mirt at Brightcandle**
 >
-> The candles on Mirt's dining table have burned low by the time he sets a supply note down beside the contact paper you already carry. He writes the new date under your name, turns the note toward you, and taps the apothecary's address, which sits beneath the current phrase.
+> Mirt is slightly more at ease at this rank than at Harpshadow — the assessment is behind them. He has made his decision. The Brightcandle briefing is businesslike and moves at pace. The moment of genuine warmth, if there is one, is when he defers to Remi for the persona work. He respects her judgment on identities; it shows.
+
+### Remi on the Persona
+
+**Remi Haventree** (Sun elf, Chaotic Good, she/her) asks three questions. She is unhurried and attentive; every answer gets the kind of attention that suggests she is building something in the back of her mind as the character speaks.
+
+Where did you grow up. What did you do before Waterdeep. What trade could you pass for — in a casual conversation, without preparation.
+
+She explains the persona's scope: it works in Waterdeep, where both vouching contacts are physically present and can appear in person if asked. Outside the city, the documentation holds up to casual scrutiny, but the social infrastructure does not follow.
+
+> *"A persona is only as good as the habits that carry it. Practice it before you need it — not in front of a Masked Lord, but in front of a market stall vendor who has no reason to care."*
+
+The completed persona arrives at Trollskull Manor within three days: cover name, documented backstory, appropriate clothing for the cover trade, and instructions for reaching both vouching contacts.
+
+> [!profile]**Running Remi**
 >
-> > "Brightcandle, and about bloody time. You've earned the stores and someone to help in the field. Tell us what the operation needs before you ask for anything, so the supplies and the person turn up where you can use them."
-
-> [!qna]**Where are the stores?**
->
-> > "Blue Bottle Apothecary, twenty-four Sorn Street. Evin Talver opens from nine until six. Give him a day's notice for one healing potion or a scroll with a cantrip or first-level spell. Tell him which spell you need, because he won't pick one for you."
-
-> [!qna]**Does another member's request use mine?**
->
-> > "No. Put your name and the mission on the note. Your allowance is yours, and a companion without the rank doesn't get one by walking through the door with you."
-
-> [!exploration]**One Requisition per Mission**
->
-> Harper supplier Evin Talver works at Blue Bottle Apothecary, 24 Sorn Street, 09:00–18:00. Each Brightcandle member can requisition one Potion of Healing or one Spell Scroll bearing a cantrip or level 1 spell per mission, with twenty-four hours' notice. The member names the spell and Evin prepares that scroll, with no roll for availability. Ordinary 2024 item-use and spellcasting requirements still apply.
->
-> The phrase is "The blue ledger is ready for copying" in Hammer, Alturiak and Ches; "green ledger" in Tarsakh, Mirtul and Kythorn; "white ledger" in Flamerule, Eleasis and Eleint; and "red ledger" in Marpenoth, Uktar and Nightal. Mirt's note prints the current full sentence. Evin accepts the previous phrase for three days after a quarter changes and gives the new wording privately.
->
-> Record the requesting member, the named mission and the collection time. Several eligible members can each use their own allowance, and companions who are only helping gain no requisition of their own. Use Evin's counter answers below when the member arrives.
-
-At Blue Bottle Apothecary, Evin checks the member's phrase against the current quarter before he writes a collection time:
-
-> [!readaloud]
->
-> Blue Bottle Apothecary is crowded with stoppered jars and bunches of dried herbs hanging from the rafters, and the air smells of camphor and mint. Evin slides your requisition note to the dry side of his counter and keeps a finger under your name while he reads.
->
-> > "Which mission is this for, and when can you collect it? I need a full day to prepare everything. If it's a scroll, tell me the spell, and if it's a healing potion there's nothing more to choose."
-
-> [!qna]**Will yesterday's phrase still work?**
->
-> > "The old wording still works for three days after the quarter turns. Today's is the colour on Mirt's note, and I'll give you the new sentence privately before you leave."
-
-> [!qna]**What if the phrase is wrong?**
->
-> > "Use the sentence on Mirt's note, because I can't take a requisition under the wrong phrase. Bring me the right one with your name and the mission, and the day's notice starts then."
-
-### Field Backup
-
-Mirt explains the request before he assigns the operative. The member names the quest and the intended operation, since the operative comes for that work and doesn't stay as permanent company.
-
-> [!readaloud]
->
-> Mirt adds a second address to the note and leaves room beneath it for your meeting place and the operative's arrival time. He traces the street route with one thick finger while you write.
->
-> > "One operative for one quest, and they arrive exactly a day after your request. Tell them the plan when they get there, and listen if they spot a risk. They can do the work, but they haven't been living inside your heads."
-
-> [!qna]**Who comes, and when?**
->
-> > "Reed takes the first available assignment. Give me the quest and the operation and name a surface meeting place, and an operative will meet you there exactly a day after I get the request. If the work is below the city, meet at the Yawning Portal before you descend."
-
-> [!qna]**Can two of us call help at once?**
->
-> > "Each qualified member can make a request. I assign different people from one ledger, so nobody is sent to two places at once. Your help stays for the named operation and leaves when you finish or withdraw."
-
-> [!gamemaster]**The Operative Called Reed**
->
-> A request delivered to Mirt in person or by appointment bird summons an available Harper operative, using the standard 2024 **Spy** block. Perrin Valt, field name Reed, takes the first unassigned request and arrives at the member's named surface meeting place exactly twenty-four hours after the request. If the operation is below the city, he meets the party at the Yawning Portal entrance before they descend, so he never turns up inside an unknown room.
->
-> Each member can call one operative once per quest. The operative serves for the named operation and leaves after extraction or completion. Mirt keeps one availability ledger covering Brightcandle requests, High Harper teams and city extractions, and he hands out unused field names in the order Reed, Ash, Elm, Briar, Willow and Alder. Once all six are assigned, further operatives take the requesting member's surname followed by First, Second and Third, and successive sets are numbered Two, Three and onward. An operative is unavailable from accepting an assignment until returning from it, so no alias or person appears in two operations at once. Several eligible callers each keep their own allowance and receive different operatives. The operatives follow agreed tactical directions, refuse to attack innocents and withdraw with the party from a lost operation.
->
-> Count only the agents who join combat. Each Spy adds CR 2.0 ally Power 22/17/15/8 at party tiers 1/2/3/4, respectively, and the encounter is recalculated for the number actually present. An agent who is still traveling doesn't lower the difficulty, and no agent becomes a party member or makes anyone a Harper by helping.
-
-When Perrin Valt, field name Reed, arrives for the first assigned operation, he checks the member's name and the agreed objective:
-
-> [!readaloud]
->
-> Perrin is waiting at the named meeting place with a plain travel bag over one shoulder, watching the street on both sides while you make your way across to him.
->
-> > "Reed. Mirt gave me the operation and the meeting place, so tell me how you're getting in, where you want me and when we leave. I'll stop you if the plan puts an innocent in our line of fire."
-
-If a member asks him to remain after the operation, use his answer:
-
-> [!qna]**Will you stay with us?**
->
-> > "For this operation, yes. Once you're out or the work is done, I report back. Ask Mirt again for another quest, because I can't be your standing guard."
-
-### The First Persona
-
-If Remallia is known, she asks the questions herself at Mirt's meeting. Otherwise Mirt asks them and passes the answers privately to the unnamed mentor, and her identity stays out of the member's documents.
-
-> [!social]**Questions for a Civilian Cover**
->
-> The mentor asks where the member grew up, what work they did before Waterdeep and which trade they could discuss without preparation. The member chooses how much true background to keep. The prepared default is a traveling order clerk for Vale & Reed Imports, using the member's chosen given name with the cover surname Varn, ordinary travel clothes and an employer's letter dated three months earlier.
->
-> The documentation names the chosen hometown, shows current employment and lists two completed deliveries: a candle order received by Nella Fen last month and a map order received by Orin Dask two weeks ago. Both contacts know the cover surname and confirm those deliveries if approached in person. The member receives an order ledger and the two receipts, which give ordinary questioning concrete answers without a new history being invented at the table.
->
-> If the member asks for a different suitable trade, the two deliveries stay as the reason for their local contacts and the employer's role changes to that trade. The player can supply another cover name if they prefer, and Varn is the fixed default.
-
-If Remallia asks the questions:
-
-> [!readaloud]
->
-> Remallia pours the tea herself and lays a blank employment letter beside two receipts, then waits while you look over the space left for a hometown and earlier work.
->
-> > "Where did you grow up, and what work could you describe to a stranger tomorrow? Do tell me which parts are yours to keep. I'd much rather give you a history you can use without rehearsing every word. We can change the name and the employer, but your own experience will help when someone asks how the work is done."
-
-If Mirt relays the work:
-
-> [!readaloud]
->
-> Mirt puts the blank employment letter beside the two receipts and leaves room for your hometown and earlier work. He takes down your answers, then folds the page to pass to the unnamed mentor.
->
-> > "Where did you grow up? What work could you explain without a script? I'll send your answers to our identity worker, and you won't have another name to protect. The papers come back through me in three days. Read the receipts and practice with the contacts before you rely on any of it, because papers won't stop anyone asking questions."
-
-Mirt answers the packet questions below even when Remallia conducted the intake.
-
-> [!qna]**What name will be on the papers?**
->
-> > "Your chosen given name with Varn as the surname, unless you give us another cover name. Vale and Reed Imports will call you a traveling order clerk by default. The letter is dated three months back, and two real contacts can confirm ordinary deliveries."
-
-> [!qna]**What do the receipts show?**
->
-> > "Nella Fen received a candle order last month. Orin Dask received a map order two weeks ago. Your ledger carries both deliveries, and those two will vouch for them in person. Read the dates before you use the papers."
-
-Once the packet has arrived, Nella and Orin confirm only the deliveries recorded on their own receipts if someone approaches them in person. If the member chose another cover surname, speak that name in place of Varn in their answers. Nella answers at her chandler's counter:
-
-> [!readaloud]
->
-> > "Varn's candle order came through here last month, and I've got the receipt with the delivery date if you'd like to check it."
-
-Orin checks his map ledger before answering at his shop:
-
-> [!readaloud]
->
-> > "Varn's map order went out two weeks ago, and I can confirm that sale. Where the clerk went afterward, I couldn't tell you."
-
-The finished packet reaches the member's lodging exactly three days after the meeting. The two vouching contacts stay in Waterdeep, so their in-person support doesn't travel with the member, though the documents hold up to ordinary scrutiny abroad. A persona grants no automatic success on Deception checks, no guild office and no legal immunity.
-
-### Renown Opportunities
-
-This promotion grants no extra Renown, gold or Milestone Points. Stores, backup and the persona are benefits of this member's achieved rank, with the separate use limits recorded above.
-
-### Aftermath
-
-Supply access begins immediately with the notice period, and the persona arrives on its three-day schedule. If **Harper Leak Known** is marked without closure, sensitive plans stay with Mirt in person, and requesting resources doesn't require entering them into Orren's register.
+> Remi is Mirt's operational counterweight — precise where he is blunt, measured where he is warm. She does not make small talk during the persona session. Her questions are professional. The way she listens, catching and holding each detail without writing anything down, carries its own quiet intensity. Characters who take the persona seriously earn a nod that reads as genuine approval.
 
 ### Concluding the Event
 
-The promotion concludes when the member has the supply note and the persona's delivery appointment.
+#### Brightcandle Reached: True / False
 
-> [!gamemaster]**Event Outcomes**
->
-> - **Brightcandle Reached** — mark with the recipient's name when Mirt gives the supply protocols; **Wise Owl** and later Harper missions read that individual's resources, with persona and field-agent uses tracked separately.
+True when the character receives the supply code phrase and note from Mirt. This flag is read by **Wise Owl** (r25) to confirm prior rank, and by Harper mission events that check rank prerequisites for specific resources.
 
-> [!gamemaster]**Next Steps**
+> **[GM]**
 >
-> Collect the persona three days after the meeting and use the ordinary item rules for requisitioned supplies. **Wise Owl** occurs when this member reaches Renown 25. No Milestone Points are awarded.
+> #### Next Steps
+>
+> The persona documentation arrives three days after this meeting. Harper stores are accessible immediately with the code phrase. **Wise Owl** (r25) fires when the character's Harper renown reaches 25.
+>
+> If **A Friend's House** (m04) has not yet run, Remi having met the character formally here adds context to their interaction at the party. She already trusts them; she is not starting from zero.
 
 ## Overview
 
-Mirt explains the stores and field-operative request, then arranges a documented civilian identity that the member can practice with its local contacts.
+Mirt and Remi Haventree meet the character together. Mirt explains access to Harper field stores and how to call in a trained operative as backup. Remi asks three careful questions and begins building a false identity: cover name, documentation, appropriate clothes, and two people who will confirm the story in person. The documentation takes three days.
 
 ## Summary
 
-The qualifying character became a Brightcandle and received the supply and backup protocols. Their first persona arrived three days later, and Remallia was named as its mentor only if the salon had already revealed her.
+Mirt named the character a Brightcandle and explained the rank's resources: one supply requisition per mission from a Trades Ward apothecary, one Harper field agent available as backup once per quest, and a first *persona* to be built by Remi Haventree. Remi asked three questions about the character's background and began the work. The cover documentation arrived three days later.

@@ -1,19 +1,25 @@
 # Design Notes: The Cell Is Compromised
 
-## A Warning before the Investigation
+## What the Source Gave
 
-Mirt has enough timing evidence to justify a safer procedure, but not enough to accuse anyone. The review asks the members what they really shared, which gives them a practical choice about future reports and keeps the warning from solving the mystery for them.
+Appendix B warns that Harper compromise "is a feature of the campaign, not a problem to be resolved". The restored draft turned that into a briefing in a rented North Ward room, with a sealed bottle of wine as the signal and fourteen people who touched the leaked material. This version keeps all three. Mirt's two checks (DC 15 Persuasion for "I know it's not you", DC 13 Insight for the length of his search) and the protocol of intelligence in person, birds for meeting times only, also come from the draft.
 
-Orren's relay work explains how an infiltrator can see material from contacts he has never met. His clerical voice stays ordinary and specific, and his identity stays hidden until the later investigation turns up evidence. The private brief belongs to the Harper members, who can explain the protocol to their companions afterward.
+## What Changed
 
-## Mission History Remains Intact
+The old draft rolled a d4 for every non-Mirt channel and sent the result to Kolat Towers. It is replaced by a fixed rule: every operational entry in the relay register reaches Beldan Rusk 48 hours later, and nothing is rolled. The GM tracks only what a member passed on and the date. Mirt says "a couple of days" aloud, so the players can work out the delay without being given the number.
 
-The priority list picks the most relevant incident from the party's own record, and a routine register test covers parties who reported no earlier site. Tessalar keeps whatever fate the party gave him, and the customs-house branch backs up the inquiry without changing the collection routine the party established. An arrested clerk, a double agent and a warned-off survivor can all coexist with Orren's separate leak.
+The evidence is now a list where each line reads a named outcome from an earlier mission: **Salon Guest Leads Recorded**, **Handler Ledger Read**, the three **Tessalar** outcomes and **Shesstra Street Reported**. The previous version chose one incident per party. This version tells every matching incident so that no mission's work vanishes. A fallback incident at the Watcher lodging covers a party that triggers none of them.
 
-The register copies are delivered exactly forty-eight hours after entry, so the consequence can be inspected and prevented before its deadline. The old random leak chance is gone, and private conversations with Mirt stay outside the register. The forty-eight-hour delay is a GM-only fact, and Mirt tells the members only that the observations came "a couple of days" after the entries. **Harper Leak Known** records awareness, while **Harper Leak Closed** requires removing Orren's access and securing the queued copies in **The Sleeping Asset**.
+The Davil line reads **Davil Arrested** and **Davil Released**. Released wins when both are marked. If only Arrested is marked, Tashlyn Yafeera passed the observation instead. A member who never met Davil gets a line about Mirt's own watcher.
 
-## Separate Villain Channels
+## Departures from the Source
 
-Rusk passes Orren's reports to Manshoon's Splinter, and later opposition uses only the information that was copied. That channel never becomes Nihiloor's information just because Corene is compromised elsewhere, which keeps the methods and agendas of the two factions distinct.
+The mole is Tobin Harrask, named in the Who Knows What block and in no player-facing line. The restored draft gave the leak to "Manshoon's people", and this version says "the Splinter" throughout. The meeting address moved from Saerdoun Street, which is the Gralhund Villa street, to Brondar's Way.
 
-The scene awards no separate Renown or Milestone Points and leaves the named investigation to the next mission. Some outside pages still confuse awareness with closure. Those pages are outside this writing pass, and the event's outcomes state the intended distinction for later integration.
+## Invented Names and Open Items
+
+- **Tobin Harrask** (renamed from Orren Vale, who collided with Orvyn Dall and Vale & Reed Imports). **Beldan Rusk** is inherited from **The Dead Drop**.
+- **6 Brondar's Way** is an invented address. The street boy has no name.
+- Open: **Tessalar Warned Off** has no stated meaning beyond "he left"; the incident line assumes his room was cleared. Confirm against **The Dead Drop**.
+- Open: **Kolat Towers** (unconverted) should read the copies of any report that passed through a non-Mirt channel. The audit logs this under the Kolat entry.
+- Open: Doom Raiders s02 writes **Davil Released** as an Event Outcome, but Xanathar's Lair Scene 1, Kolat Towers and Vault of Dragons still read the old True/False form.

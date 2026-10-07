@@ -2,385 +2,213 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs during **The Factions Come Calling**, after Renaer recommends the party to Mirt and the party includes at least one Good-aligned character. In this Event, the characters can:
+> This Social Event occurs during **The Factions Come Calling**, after Renaer recommends the party's unaffiliated characters to Mirt and a paper bird delivers their theater tickets. In this Event, the characters can:
 >
-> - Follow a paper bird's invitation to an evening at Lightsinger Theater, with free formal attire arranged at a Delzorin Street tailor.
-> - Meet Mirt in Private Box C and talk about the play before he explains that he wants to recruit them.
-> - Ask about the Harpers and decide individually whether to join, with no assignment handed out tonight.
-> - Receive a silver pin and anonymous safe-house access if they join, while their companions stay free to choose other affiliations.
+> - Follow the bird's invitation to *The Fall of Tiamat* at the Lightsinger Theater and take their seats in Private Box C.
+> - Watch Mirt play the jovial moneylender through the first act while he measures them.
+> - Hear him explain the Harpers plainly at intermission and ask him about the faction, its rules and its price.
+> - Decide individually whether to join, with no assignment handed out tonight, and walk away freely if they refuse.
+> - Take a silver pin and a key to a Harper lodging in the North Ward if they accept.
 >
 > #### Candidates and Companions
 >
-> The invitation names the unaffiliated characters Renaer recommended and encloses one ticket for each of them, and Private Box C has a seat for every one. The Good-aligned trigger only decides when the invitation arrives, so nobody is tested for alignment at the theater door. Characters who have already joined another faction get no second membership offer.
+> The paper bird carries one ticket for each unaffiliated character whom Renaer recommended. The Good-aligned trigger in **The Factions Come Calling** only decides when the bird arrives, and nobody is tested for alignment at the door. Mirt makes no offer to a character who already belongs to another faction.
 >
-> Companions can watch the public performance with ordinary admission, but only invited candidates enter the box for the private conversation. If no eligible candidate is still interested, end the Event with no private meeting and no membership outcome.
+> Companions can watch the public performance from the pit, and only the invited candidates enter Box C. Each candidate answers for themselves. If no candidate is interested, end the Event with no membership outcome.
 >
-> #### Background
+> #### What Is Actually True
 >
-> Mirt has followed the party's activities since Renaer named them, and Renaer's recommendation convinced him to spend an evening with them before offering any work. He reserved Private Box C at Lightsinger Theater in the Castle Ward and sent instructions to the Delzorin Street tailor that morning.
->
-> *The Fall of Tiamat* is an opera sung in Giant that presents the dragon goddess's defeat as a failure of political will rather than a triumph of divine power. A printed Common libretto rests on every box seat, so anyone can follow the performance without knowing the language or making a check. Mirt chose the play because it gives him something to talk about with the candidates before he gets to the Harpers' purpose and methods.
+> - Mirt is also a Masked Lord of Waterdeep and Laeral Silverhand's closest advisor. He mentions neither office tonight.
+> - The Black Network has split, and Mirt suspects that Harper information is reaching the other cell. He says neither tonight.
+> - Remallia Haventree pays for the lodging on the address card through an intermediary. Nobody in this Event names her as a Harper.
 
 ### The Paper Bird
 
-> [!gamemaster]**A Noon Invitation**
+> [!gamemaster]**A Bird at the Window**
 >
-> The bird arrives at noon at a Trollskull Manor window and waits there until someone opens it. The invitation carries no signature and no seal. Read or paraphrase the following when a character goes to the window, then give the players the invitation text.
+> The bird arrives at noon on the day of the performance and taps at a window of Trollskull Manor until someone opens it. The note carries no signature and no seal. A tailor on Delzorin Street has been told to expect the candidates and outfits them free of charge in under an hour, so a candidate without formal attire still reaches the theater in time. Read or paraphrase the following when a character opens the window.
 
 > [!readaloud]
 >
-> Something taps at the window of Trollskull Manor, and on the sill you find a small bird folded from paper, its beak against the glass and its wings tucked in. When you open the window, it hops toward your hand and spreads its wings, showing lines of writing along the inside of every fold.
+> A small bird folded from paper sits on the sill with its beak against the glass. When you open the window, it hops onto your hand and spreads its wings. Lines of writing run along the inside of every fold.
 
 > [!exploration]**The Invitation**
 >
-> Unfolding the bird reveals the candidates' names, their theater tickets and the following directions, all in the same hand:
+> The unfolded bird holds a theater ticket for each candidate and a note in a flowing, unhurried hand:
 >
-> > "Renaer has recommended you to Mirt. Your tickets are enclosed for tonight's performance of The Fall of Tiamat at Lightsinger Theater in the Castle Ward. Meet Mirt in Private Box C at intermission, at 7:15 p.m. The foyer opens at 5 p.m., and the curtain rises at 6:30 p.m. You are welcome to take your seats in the box before the performance.
-> >
-> > Formal attire is required. Present this note to the Delzorin Street tailor if you need clothes fitted, and there will be no charge. Allow 45 minutes for the fitting and half an hour to walk from the tailor to the theater."
+> > "Renaer tells us you are a good bet. He bought you tickets to the opera tonight at the Lightsinger Theater in the Castle Ward. If you are interested, meet Mirt at intermission. Private Box C. Formal attire is required for admittance. A tailor on Delzorin Street has been told to expect you."
 >
-> Any character who examines the invitation closely and makes a successful **DC 12 Intelligence (Investigation)** check concludes that the sender expects the directions to be followed without a signature to vouch for them. The note carries no name and no hidden Harper message.
-
-### The Delzorin Street Tailor
-
-> [!gamemaster]**Clothes for the Evening**
->
-> The tailor recognizes the note and outfits every named candidate free of charge, with no check required. The fitting takes 45 minutes for everyone attending together. The walk between the tailor and Lightsinger Theater takes 30 minutes each way, and the theater is also a half-hour walk from Trollskull Alley. Candidates who already own suitable formal attire can go straight to the theater.
-
-> [!readaloud]
->
-> Bolts of wool hang along the wall of the tailor's shop beside a tall mirror, and a measuring tape lies coiled across the open pages of a ledger. The tailor reads your note, nods, and comes back from the racks with an armful of coats and gowns for you to try, clearing a space by the mirror as you go.
-
-> [!gamemaster]**Arriving Without Formal Attire**
->
-> The foyer admits guests from 5 p.m., and the attendants check attire before they direct candidates to Private Box C. Anyone without formal attire is turned away and pointed to the tailor's directions on the invitation.
->
-> - Candidates who leave the theater by **5:30 p.m.** reach the tailor at 6 p.m., finish at 6:45 p.m. and get back for the **7:15 p.m.** intermission. They miss Act 1 but keep their meeting.
-> - Candidates who are already at the tailor can start their fitting by **6 p.m.** and still reach the theater for intermission.
-> - Candidates who miss either cutoff receive a paper bird at noon the next day, with a replacement ticket for each rescheduled candidate. It appoints them to meet Mirt in **Private Box C at 7:15 p.m. that evening**, with foyer admission from 5 p.m. and formal attire required. Their free fitting is still available, and the note repeats the 45-minute fitting and the 30-minute walk, with a 6 p.m. fitting cutoff.
->
-> Run the remaining scenes for the following evening's meeting. Mirt judges intermission arrivals by how they talk, and he never claims to have watched them during Act 1. Candidates who arrive between 7:15 p.m. and the 7:35 p.m. bell join the conversation already under way, and anyone arriving at or after the bell gets the same next-evening appointment.
-
-If the attendants refuse admission, read or paraphrase the following:
-
-> [!readaloud]
->
-> In the foyer, an attendant steps out from beside the entrance and looks from your clothes to the ticket you're holding for the evening's performance. They hand the ticket back, tap the tailor's directions on your note, and motion you aside so the arriving crowd can pass.
->
-> > "I'm sorry, but we do ask for formal attire tonight. The tailor named on your note can help you, and your ticket will still be good when you come back."
+> The opera is *The Fall of Tiamat*, sung in Giant, with a libretto printed in Common for anyone who needs it. A character who examines the note and makes a successful **DC 12 Intelligence (Investigation)** check sees that the sender wrote it ahead of time in a clerk's hand and did not need a signature to be obeyed. On a failure the note reads as an ordinary invitation from a stranger with money.
 
 ### Private Box C
 
-> [!gamemaster]**Before the Curtain**
+> [!gamemaster]**The Old Wolf in Public**
 >
-> **Mirt** (Chaotic Good, Illuskan human, he/him), the Old Wolf, waits in the box with wine for the invited candidates. He welcomes arrivals before the 6:30 p.m. curtain, keeps the conversation short, and watches the first act from the shadowed half of the box. Skip this scene for candidates who arrive at intermission.
+> Mirt has the box to himself and keeps to his public gear until intermission. He is loud, bawdy and generous, he swears freely, and he refills every glass within reach without asking. He sits back from the rail, where the curtain leaves him half in shadow, and watches the stage and the candidates in about equal measure. He is noting who speaks first, who listens and who checks the exits. Nothing he notices is scored, and a candidate who stays quiet is not turned away.
 
 > [!readaloud]
 >
-> Music from the orchestra pit drifts up the gallery as an attendant leads you past rows of gilded boxes to a curtain marked with the letter C. Inside, a large, gray-haired man in a wool coat sits back from the rail beside a decanter and a row of glasses, and he heaves himself halfway out of his chair as you come in.
->
-> He lifts the decanter from its tray and waves it toward the empty seats along the rail, each with a printed program on its cushion.
->
-> > "Come in, come in! There's wine if you want it, and those seats have a better view than mine. Have you eaten? It's a fucking long evening on an empty stomach."
->
-> He picks a program off the nearest seat, opens it to the first page of the libretto and sets it down beside your glass.
->
-> > "They're singing in Giant, but the words are printed in Common in there. Keep it open if you want to follow along. There's one for each of you."
-
-> [!social]**Company Before the Curtain**
->
-> Mirt refills glasses and pushes the bread and cheese from the side tray toward whoever looks hungry while the candidates settle into their seats. Until intermission he keeps his purpose to himself, so the talk covers hospitality, the performance and Renaer's recommendation. In this public mood the Old Wolf is expansive and vulgar, and a pointed question about business gets a short brush-off that never confirms who he works for.
-
-> [!qna]**The wine?**
->
-> Mirt turns the decanter toward the speaker and leaves their glass within easy reach.
->
-> > "Help yourself, and don't be shy about it! I wanted something worth drinking tonight, and it'd be a bloody crime to leave it sitting on the tray while everyone politely pretends they don't want another glass. There's water too, if you'd rather, and I promise I won't take it personally."
-
-> [!qna]**Have you arranged supper?**
->
-> Mirt drags the side tray closer, with sliced bread beside a wedge of cheese and a clean knife.
->
-> > "Eat some of that before the curtain goes up, because bread and cheese will carry you through to afterward. And you can tell me whether you've found anywhere in this city that serves a decent fucking supper, since I'm always hunting for a new place."
-
-> [!qna]**Why can't we understand the singers?**
->
-> Mirt lays a thick finger beside the Common verses in the open program.
->
-> > "It's in Giant, which is a bit much, I know. But the Common libretto follows every scene, so you can read along instead of guessing from the costumes, and I wouldn't make anyone sit through the whole bloody thing with nothing to hold on to."
-
-> [!qna]**Why the theater?**
->
-> Mirt points along the gallery toward the neighboring boxes before sitting back with his glass.
->
-> > "You can get from box to box without crossing in front of the audience, and the curtains keep most of the talk inside, which is handy. Whoever built this place really thought about the people using it, and I love that. Now tell me whether you end up enjoying the performance."
-
-> [!qna]**What is the play about?**
->
-> Mirt turns the program back to its opening scene and leaves it facing the questioner.
->
-> > "It's Tiamat's defeat, but watch what her supporters do when somebody asks them to keep their promises. This production puts most of the trouble there, and we can argue about whether that works when the actors stop for breath."
-
-> [!qna]**What did Renaer say?**
->
-> Mirt tilts his head toward the speaker and sets the decanter back on its tray.
->
-> > "He spoke well of you and thought we ought to meet, and I trust him. Still, I'd sooner hear it from you than spend the evening repeating his version. How have you found the city since then?"
-
-> [!qna]**Why invite us?**
->
-> > "Renaer recommended your company, and I had a box to fill. I'd like to meet you properly before we get into anything else, and we'll have time for that at intermission. For now you've got a seat and a drink, and there's a show coming."
-
-> [!qna]**Are you offering faction work?**
->
-> Mirt sets his glass down and gives the questioner his full attention.
->
-> > "I'll tell you why you're here at intermission. There's no job on the table tonight, and you don't have to promise me anything before we've talked."
-
-> [!qna]**What are you assessing?**
->
-> > "I'm getting to know the people Renaer recommended, that's all. Sit wherever you like, ask me whatever you want, and let's listen to the show while we've got the seats."
-
-> [!qna]**The Stone, the vault or a villain's plans?**
->
-> Mirt puts a finger against the program and turns back toward the stage.
->
-> > "Not tonight. I'll tell you why I asked you here when the interval comes, but this isn't going to be a briefing about other people's business."
-
-> [!exploration]**Watching the Old Wolf**
->
-> Mirt looks toward each candidate who speaks and sometimes tilts his head before turning back to the actors on the stage. Any character who watches him for an extended time and makes a successful **DC 14 Wisdom (Insight)** check senses that he is measuring the candidates against particular criteria. The check doesn't reveal what those criteria are, and Mirt won't name them if asked.
-
-> [!gamemaster]**Mirt's Assessment**
->
-> Mirt notes who speaks first, who listens and who checks the exits, looking for composure and competence rather than running a formal interview. What he notices shapes the conversation and adds no check or membership requirement, since Renaer's recommendation has already brought the candidates this far. Intermission arrivals get the same offer, and Mirt judges them on their questions and answers rather than on how they behaved during the performance.
->
-> Mirt is a Masked Lord and Laeral Silverhand's advisor as well as a senior Harper, and he mentions neither office tonight. He names no other member of the Waterdeep cell and gives no Grand Game briefing or mission assignment at this meeting.
-
-### The First Half of the Performance
-
-> [!gamemaster]**Stage Cues and Conversation**
->
-> Run each timed beat only for the candidates who are present at that time. The quoted actor lines are the Common program's translation of the sung Giant libretto, so every candidate can follow them without a check, and the staging is visible whatever language you speak. These scenes are original to this production and contain no campaign clue, historical revelation or mechanical reward. Between beats, use the early Q&A if someone speaks to Mirt, and keep those exchanges short while the singers continue.
->
-> Mirt's optional openers come at the pauses marked below. He listens to whatever a candidate answers, and agreeing with him is not a condition of recruitment. Candidates arriving at intermission skip these beats and get the same offer.
-
-At 6:30 p.m., the curtain rises:
+> Lightsinger Theater stands on a lamplit street in the Castle Ward, where carriages queue at the doors and liveried attendants check each ticket. Inside, driftglobes turn above the orchestra pit, and merchants and minor nobles fill the galleries in good silk. An attendant presses a program into your hand and leads you up the stairs to the curtain of Box C.
 
 > [!readaloud]
 >
-> The orchestra draws out a low chord as the curtain rises on a painted fortress, where actors in embroidered coats sit around a council table. Above the battlements a five-headed dragon puppet unfolds its cloth wings, its bearers moving in step behind the wall while the council turns to watch.
+> Inside, a gray-bearded man of great girth sits back from the rail with a glass of red wine at his elbow. A decanter and a row of clean glasses stand on the sideboard behind him. He heaves himself halfway out of his chair as you come in.
 >
-> An actor at the head of the table lifts a sealed document, and the Common libretto gives his sung words:
->
-> > "Each house has promised its soldiers and wagons. Sign beside the others, and the Queen will see that we have kept the agreement."
-
-At 6:42 p.m., the council's promises are tested:
-
-> [!readaloud]
->
-> A quartermaster rolls an empty wagon onto the stage and lifts its lid beneath the council's outstretched papers while two soldiers wait beside the fortress gate. One councillor folds his banner across his lap and turns away from the document being passed his way.
->
-> The quartermaster's verse appears in the program:
->
-> > "Your names are on the order, but the stores have not arrived. Which company am I to feed when every house has kept its grain behind its own gate?"
-
-During the brief change of scenery afterward, Mirt leans toward the candidates:
-
-> [!readaloud]
->
-> As the stagehands draw the empty wagon behind a screen, Mirt lowers his glass and points after it, keeping his voice inside the box.
->
-> > "Would you have signed that order, do you think? I'd like to hear what you'd have wanted to see before you put your name beside theirs."
-
-At 6:55 p.m., a messenger reaches the fortress:
-
-> [!readaloud]
->
-> A messenger comes in through the painted gate with a torn road map and lays it across the council's orders while the soldiers turn their empty bowls upside down. Behind them the dragon's heads swing toward different banners as the bearers draw its wings across the battlements.
->
-> The messenger sings, with the translation printed beneath the scene title:
->
-> > "The road is open, but no escort came to meet us. I can bring the wagons through if your soldiers leave these gates together, rather than waiting for each house to move first."
-
-If a candidate turns toward Mirt during the next orchestral pause, he offers another opening:
-
-> [!readaloud]
->
-> Mirt leaves his glass on the tray and turns toward you while the messenger holds the map up before the council.
->
-> > "Would that offer get them moving? I'd like to know what you'd ask the messenger before you sent anyone out with him."
-
-At 7:10 p.m., the council refuses a common order:
-
-> [!readaloud]
->
-> The councillors take their banners from the table one by one and leave the messenger's map under an unsigned order as the soldiers turn toward separate doors. The dragon puppet bends over the empty chairs and its central head opens, while a singer steps into the light below it.
->
-> The Queen's line is printed at the end of the scene:
->
-> > "You pledged the road and the fortress to me. Who will carry the order now, when each of you has sent your people home?"
-
-The orchestra closes that scene at 7:15 p.m. and the curtain falls for intermission. Mirt's recruitment conversation begins only then.
-
-### The Intermission
-
-> [!gamemaster]**A Private Conversation**
->
-> At 7:15 p.m., Mirt sets down his glass and begins the conversation below. Intermission arrivals are shown straight to the box, where he welcomes them and makes the same introduction. An intermission arrival who watches him through the conversation can make the **DC 14 Wisdom (Insight)** check from **Watching the Old Wolf**, with the same limited result.
->
-> The earlier answers about wine, food, the libretto, the architecture and Renaer are open to intermission arrivals too. Skip the performance beats they missed, and don't treat missing them as a failure.
-
-> [!readaloud]
->
-> The stage curtain hangs closed, and talk from the rows below carries up the gallery as people drift between their seats and the foyer. Mirt sets his glass beside the decanter, turns his chair to face you and rests one hand on its wooden arm, his voice dropped low and level.
->
-> > "Sit. Renaer spoke to me about you, and I wanted to meet you myself. I'm a Harper. We oppose tyranny, and we help people who have little protection of their own. Most of our work starts with finding out what's happening before someone gets hurt."
->
-> He draws his chair nearer to the others and leaves the stage behind him.
->
-> > "We need people who can investigate and judge what they find. I'd like to offer each of you a place with us, if you want one. What would you like to know?"
+> > "Come in, come in, and fuck standing on ceremony. There's wine on the sideboard and more food coming than a man my size can decently finish. Sit. The first act is short."
 
 > [!social]**The Old Wolf**
 >
-> Mirt (Chaotic Good, Illuskan human, he/him) :: A moneylender and senior Harper who wants to get to know Renaer's recommended candidates.
+> Mirt (Chaotic Good, Illuskan human, he/him) :: A moneylender of great girth and a senior Harper, who wants to see how Renaer's recommended candidates carry themselves.
 >
-> Mirt is Friendly toward the candidates because he trusts Renaer's judgment, and he makes room for their questions without pushing anyone for an answer. He refills glasses during small talk and goes on at length about food or the theater. When the talk turns to membership his voice drops and the swearing stops. Use his slight head-tilt when a question makes him reconsider how much explanation someone needs.
->
-> Hospitality is how hesitant candidates find their footing with him, and a question about the architecture pulls him into a longer, visibly delighted conversation. He asks what they thought of the play and listens to their reasoning without correcting their conclusions. A candidate who missed Act 1 can say so, and Mirt moves on to whatever questions they brought.
+> Mirt is Friendly toward the candidates and in no hurry. Until intermission he talks in long, rolling sentences about food, wine and old stories, and he laughs at his own jokes. He tilts his head slightly when an answer makes him recalculate. Once the curtain falls his voice drops, his sentences get short and the swearing stops. He calls younger people "lad" and "lass".
 >
 > Mirt is happy to discuss the following topics:
 >
-> - The wine and whether the candidates have eaten, which keeps the early conversation comfortable while they settle into the box.
-> - The theater's architecture, and what the candidates make of the play's treatment of political power.
-> - Renaer, whom he trusts and speaks of with affection, though he doesn't explain their private dealings.
-> - The Harpers' opposition to tyranny and their reliance on investigation, and the fact that the network answers to neither a guild nor a government.
-> - An individual choice for each unaffiliated candidate, with recognition as a Watcher and safe-house access for those who join.
+> - Renaer, whom he praises briefly and warmly.
+> - What the candidates did in the Dock Ward, which he has heard about and likes for its directness.
+> - Food and wine, and the architecture of the Lightsinger, on which he will go on for as long as anyone lets him.
+> - The Harpers, but only at intermission.
 >
-> If a candidate asks about the Stone of Golorr, the Cassalanters or the vault, or names a suspected leader they have already learned about, Mirt steers back to membership and gives them no intelligence. He won't share his assessment criteria, name other Harper operatives or describe a first assignment tonight. Specific dialogue for his permitted topics follows.
+> He will not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault or his own offices. He is assessing, not briefing.
 
-> [!qna]**The play?**
+> [!qna]**What did Renaer say about us?**
 >
-> Mirt gestures toward the closed curtain with the hand resting on his chair.
+> Mirt tilts his head toward the speaker and tops up their glass.
 >
-> > "They've turned the defeat into a question of political judgment. That gives us something to argue about afterward. What did you make of it? Did the people in charge understand what they were risking?"
+> > "That you're good at finding things out and bad at waiting for permission. I like that in a person, lad. He thinks I should buy you a drink and find out if he's right. I've done the first, and the second takes the evening."
 
-> [!qna]**The Harpers?**
+> [!qna]**Who are you?**
 >
-> Mirt puts his glass aside and rests both hands on the arms of his chair.
+> Mirt laughs, and the box seems to shake with it.
 >
-> > "We work against people who use power to leave everyone else at their mercy. Finding out what they're doing is usually the first useful thing we can do. Then we tell the people who can help, and we protect whoever suffers for talking to us."
+> > "A moneylender, and a fat one. Half of Waterdeep owes me coin and the other half owes me a favor. Come back at intermission and I'll tell you the rest. Eat something first."
 
-> [!qna]**Who gives orders?**
+> [!exploration]**Measuring the Candidates**
 >
-> Mirt turns his chair toward the person asking and gives them his attention.
->
-> > "No guild and no government. You'll have people you work with, and I'm your contact here. We expect you to think about what you're asked to do. If something troubles you, say so, and I'll hear it."
+> A character who watches Mirt through the first act and makes a successful **DC 14 Wisdom (Insight)** check sees that he is measuring the candidates against something he does not name. The check does not reveal what it is, and Mirt will not say if asked. On a failure the character sees a cheerful drunk and learns nothing more.
 
-> [!qna]**Must we all join?**
->
-> Mirt looks from the speaker to the other candidates in the box.
->
-> > "Each of you answers for yourself. Your companions make their own choices, and helping you doesn't make them Harpers. If you've committed to another faction, I won't offer you a second membership."
+### The Intermission
 
-> [!qna]**What does joining provide?**
+> [!gamemaster]**The Curtain Falls**
 >
-> Mirt reaches into his coat and brings out a pin, a key and a small card.
->
-> > "You'd be recognized as a Watcher. This is the pin, so other Harpers know you. There's a lodging in the North Ward where you can rest when you need it, and here's your key and the directions. You can go in without finding me first."
-
-> [!qna]**What work comes next?**
->
-> Mirt settles back in his chair with the pin resting in his palm.
->
-> > "Tonight I want to know whether you'll join. When there's work, I'll send word. You don't have to agree to an assignment before you've heard what it involves."
-
-### A Pin and a Key
-
-> [!gamemaster]**Each Candidate's Answer**
->
-> Ask each invited candidate for their answer and record each one separately. An accepting character who is still unaffiliated becomes a Harper, and everyone else keeps their current status. Joining takes no persuasion check, and mixed answers don't start an argument with Mirt. Read or paraphrase the following for each accepting candidate, using their name when Mirt hands over the items.
+> When the first act ends, Mirt sets down his glass and changes gears. Switch to the business voice: short declarative sentences and no swearing. A candidate who has noticed the change can read it as a sign that he is serious. A candidate who arrives at intermission is shown straight into the box and gets the same offer, because he judges them by their questions. Read the following aloud.
 
 > [!readaloud]
 >
-> Mirt takes your hand, closes your fingers around a silver pin shaped like a harp within a crescent moon, and lays a key beside it. He gives you a small card with an address and directions to a side entrance, turning it so you can read the writing.
+> The curtain falls on the first act, and the noise of the house swells in the galleries below. Mirt puts down his glass, turns his chair to face you and stops smiling.
 >
-> > "Welcome. Keep the pin somewhere safe and easy to reach, for when you need to show it. Take the key with you. The address is on the card."
+> > "The Harpers. You've heard the stories, and half of them are wrong. We aren't a guild and we aren't a government. We're people who decided to act instead of waiting for someone better qualified to show up."
+>
+> He refills his own glass and looks at you over the rim.
+>
+> > "We protect the vulnerable, and we resist anyone who seizes enough power to stop answering to anyone. Waterdeep has people like that at work now, outside the law. Renaer thinks you can reach them. I'd like to know if he's right. What do you want to ask me?"
 
-> [!gamemaster]**Watcher Benefits**
+> [!qna]**What do the Harpers do?**
 >
-> Each accepting candidate starts at **Renown 1** with the **Watcher** rank and receives a silver harp-and-crescent pin, a mundane key and an address card of their own. Other Harpers are Friendly toward the new member by default. These benefits belong to the characters who accept, and declining candidates and companions get neither membership nor Renown for attending.
+> Mirt rests both hands on the arms of his chair.
 >
-> The card gives the side entrance at **12 Delzorin Street, North Ward**, a rented Harper lodging with five bunks, drinking water and a hearth. The key opens that entrance so a new member can walk in and rest without contacting anyone. Remallia "Remi" Haventree maintains the lodging through intermediaries, but her name is not on the card and Mirt doesn't mention her. The safe house is separate from her villa, and she doesn't appear or sign a message until **A Friend's House**, Harper Mission 4.
+> > "We find out what's happening before someone gets hurt. Then we tell the people who can act, or we act ourselves. We use information far more than force, and our Waterdeep cell is small but well connected."
+
+> [!qna]**Who gives the orders?**
+>
+> > "I'm your contact, and there are others you'll meet as the work needs them. Nobody orders you to do harm. If a job troubles you, say so, and I'll hear it. Rank here is earned, lass, and nobody can declare it for himself."
+
+> [!qna]**Why us?**
+>
+> Mirt tilts his head.
+>
+> > "Because Renaer vouched for you, and because I watched you tonight. You came dressed for it and you asked good questions, which is more than most people manage in a box at the opera."
+
+> [!qna]**What does joining give us?**
+>
+> Mirt reaches into his coat and sets a pin on the arm of his chair.
+>
+> > "A place to be known. Other Harpers will treat you as a friend until you give them cause not to. You get this pin, a key and an address, and you'll hear from me when there's work. I won't ask you to promise anything before you've heard the job."
+
+> [!qna]**Can we keep our other loyalties?**
+>
+> > "Each of you answers for yourself. If you've sworn to another faction, I'll make no offer and take no offense. Your companions can help you with anything, and helping you doesn't make them Harpers."
+
+> [!qna]**What happens if we say no?**
+>
+> > "You finish the wine and enjoy the second act. I think better of you for being honest, and nobody will hunt you for it. If you change your mind, ask Renaer to find me."
+
+> [!qna]**What is the first job?**
+>
+> > "Tonight I'm finding out whether you'll join. I won't hand out a job at the theater. When there's work, word will reach you."
+
+> [!gamemaster]**If a Player Raises the Stone or Manshoon**
+>
+> Mirt does not discuss the Stone of Golorr, Manshoon, the Cassalanters or the vault, and he says so in the business voice. If a player names Manshoon, Mirt does not confirm or deny it. He answers:
+>
+> > "That isn't tonight's business. The Black Network has split, and that much I'll tell you. Tonight I'm learning who you are."
+
+### Each Candidate's Answer
+
+> [!gamemaster]**Recording the Answers**
+>
+> Ask each candidate for their answer and record each one separately. Joining takes no check, and mixed answers cause no argument with Mirt. Mirt has the pin out before the first candidate finishes speaking. A candidate who accepts becomes a Harper at **Renown 1** with the **Watcher** rank. Candidates who decline keep their status, and characters who already belong to another faction get no offer.
+
+If a candidate accepts, read or paraphrase the following, using their name:
+
+> [!readaloud]
+>
+> Mirt reaches into his coat and presses a silver pin, a harp inside a crescent moon, into your open hand. He sets a plain iron key and a small card beside it and closes your fingers over all three.
+>
+> > "Welcome. The card gives an address in the North Ward, number twelve on Delzorin Street. There are five bunks, clean water and a hearth. Use it when you need to. Nobody will ask who you are."
 
 If a candidate declines, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Mirt listens to your answer, tucks the pin back into his coat and reaches for the decanter to refill his own glass.
+> Mirt listens to your answer and slips the pin back into his coat. He reaches for the decanter and refills his own glass.
 >
-> > "Of course. Thank you for coming to hear it. You're welcome to stay for the rest of the performance if you'd like."
+> > "Thank you for coming to hear it. You're welcome to stay for the second act, and the wine is yours to finish."
 
-> [!gamemaster]**Before the Second Act**
+> [!gamemaster]**Watcher Benefits**
 >
-> At the 7:35 p.m. second-act bell, Mirt takes his leave whether the candidates accepted, declined or gave mixed answers. Read or paraphrase the following once the conversation ends.
-
-> [!readaloud]
+> Each accepting candidate gains the following, and nothing goes to a decliner or a companion:
 >
-> A bell sounds in the gallery, and the audience below begins drifting back to its seats as Mirt rises from his chair. He straightens his coat and pauses beside the curtain, looking back at you before he steps out into the passage.
+> - **Renown 1:** the member starts as a Watcher, and other Harpers are Friendly toward them by default.
+> - **The pin:** a silver harp within a crescent moon. Showing it proves membership to any Harper.
+> - **The lodging:** a mundane key and an address card for 12 Delzorin Street, North Ward. It is a rented house with five bunks, drinking water and a hearth, kept by an intermediary and separate from Ulbrinter Villa. A member can enter and rest without contacting anyone.
+
+### Leaving the Box
+
+> [!gamemaster]**The Second-Act Bell**
 >
-> > "I am almost never home."
-
-### The Rest of the Evening
-
-> [!gamemaster]**Staying for the Second Half**
->
-> The candidates and any companions with public admission can stay for the performance after Mirt leaves at 7:35 p.m. If they do, use the optional beats below, with the final curtain and bows ending at 8:30 p.m. Leaving early changes no membership, Renown or outcome, and Mirt doesn't come back for another conversation tonight.
-
-At 7:50 p.m., the soldiers make another agreement:
+> When the bell rings for the second act, Mirt takes his leave whether the candidates accepted, declined or gave mixed answers. He says the same words to everyone. The candidates and any companions can stay for the rest of the performance, and nothing in it changes a membership. Mirt does not return tonight. Read or paraphrase the following.
 
 > [!readaloud]
 >
-> The fortress set turns to show the road behind it, where actors from the separate companies stand beside the quartermaster's wagon and unfold their banners together. Their captain lays the council's abandoned order on the ground and holds it down with a stone while the companies take their places along the road.
+> A bell sounds in the gallery, and the audience below begins to drift back to its seats. Mirt rises, straightens his coat and stops beside the curtain.
 >
-> The Common libretto gives the captain's verse:
+> > "My manor is in the Sea Ward if you ever need to find me. I should warn you that I am almost never home. You'll hear from us soon."
 >
-> > "We can wait for their signatures until the road is lost, or bring the stores through while there are still people here to use them. I'll march with whoever keeps the agreement beside me."
-
-At 8:20 p.m., the Dragon Queen loses the fortress:
-
-> [!readaloud]
->
-> The companies wheel the wagon through the gate together, and the councillors return to an empty table with their folded banners still under their arms. The dragon puppet reaches toward the road, but its bearers pull it back behind the fortress as the gate closes across its wings.
->
-> The Queen's final verse appears on the program's last page:
->
-> > "I called for the houses that promised me this place, and none has brought an order the others will obey. You have shut the gate together while my council still argues over whose name should lead."
->
-> The curtain rises again for the bows, and the puppet bearers join the singers along the front edge of the stage until the final curtain falls at 8:30 p.m.
+> He steps out into the passage, and the lights go down for the second act.
 
 ### Concluding the Event
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Harpers Joined** — mark when at least one eligible candidate accepts membership, and record the name of every character who joined. Read by the **Harpers** Factions Guide and the **Harpers Faction Events**, beginning with **The Talking Mare**, to confirm individual eligibility for mission dispatch. Companions are not enrolled by this outcome. Leave it unmarked if everyone declines or no private meeting takes place.
+> - **Harpers Joined** — mark for each character who accepts Mirt's offer, whether that night or on a later invitation, and record the character's name. Read by the **Harpers** Factions Guide page and by every Harper faction mission beginning with **The Talking Mare**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no private meeting takes place.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Talking Mare** becomes available to the new Harper members at level 2, and its briefing arrives later through that mission's Event. Return to **The Factions Come Calling** for other contacts during the continuing renovation period. A candidate waiting on the following evening's appointment stays unaffiliated until they attend and accept, and any later acceptance is recorded under the same **Harpers Joined** outcome with their name.
+> **The Talking Mare** becomes available to each Harper member who is 2nd level, and Mirt briefs it to them by his own channel. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate who deferred stays unaffiliated until they ask Renaer to find Mirt and accept, and any later acceptance is recorded under the same **Harpers Joined** outcome with their name.
 >
 > This Event awards no Milestone Points.
 
 ## Overview
 
-A paper bird invites specific characters to an evening at Lightsinger Theater, where Mirt waits in Private Box C to talk with them at intermission.
+A paper bird invites specific characters to the Lightsinger Theater, where Mirt receives them in Private Box C and explains the Harpers at intermission.
 
 ## Summary
 
 ### After the Meeting
 
-A paper bird brought us an invitation to Lightsinger Theater, where we met Mirt in Private Box C. He told us about the Harpers, answered our questions and offered each of us an individual choice about joining, then left us to the evening's performance when the second-act bell rang.
+A paper bird brought us tickets to *The Fall of Tiamat*, and we met Mirt in Private Box C at the Lightsinger Theater. He watched us through the first act and explained the Harpers plainly at intermission. Each of us gave our own answer, and he told us we would hear from the Harpers soon.
 
 ### Without a Private Meeting
 
-We carried on with the renovation at Trollskull Manor without meeting Mirt in private or changing any of our faction affiliations.
+We carried on with the renovation at Trollskull Manor without answering the paper bird or changing any of our faction affiliations.

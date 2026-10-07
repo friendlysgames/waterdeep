@@ -2,233 +2,291 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs when an individual Harper member reaches Renown 25. Mirt explains operational cover, informant requests and an urgent audience channel, and a second persona follows two days later. In this Event, the member can:
+> This Social Event occurs when an individual Harper member first reaches Renown 25. Mirt names the rank at his manor in the Sea Ward, and Remallia Haventree joins him for the persona if her Harper role is known. In this Event, the member can:
 >
-> - Choose the cover service for a named sensitive operation.
-> - Frame a specific request for one embedded informant.
-> - Learn the priority-target warning procedure and the audience request route.
+> - Learn how to ask for one cover service per quest, in the form of papers, a distraction or witnesses.
+> - Learn how to send one request per quest to each of three informants inside the Guild, the Faire and the Splinter.
+> - Learn that a warning reaches them within 24 hours when a villain faction marks them as a priority target.
+> - Receive Laeral Silverhand's reply, which opens a channel for an urgent audience.
+> - Order a second persona, which arrives two days later.
 >
-> All of these benefits belong to the qualifying member. Remallia's identity stays private until **Remallia Harper Contact Known**, and until then Mirt relays any request meant for her.
+> All of these benefits belong to the qualifying member. Companions gain no rank and no benefit of their own.
 
-### Hook
+### The Bird at Noon
 
-At noon on the day after this member reaches the threshold, Mirt sends a paper bird asking them to come to his manor at 20:00. A member who is away from Waterdeep receives the same appointment for the evening after they return to the surface. Several qualifying members can attend together, and their companions wait outside while the faction business is discussed in private.
+At noon on the day after the member reaches Renown 25, a paper bird finds them with a note in Mirt's hand asking them to come to his manor at 20:00. Hold this Event until **Brightcandle Reached** is marked for the member. A member who is away from Waterdeep gets the bird at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Harper members wait in the manor kitchen.
 
-### Background
+The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more Renown from mission bonuses and the Earning Renown list in the Factions Guide. Every procedure below works whenever the rank arrives.
 
-The Wise Owl's support combines local access with relationships the Harpers have built up over years. Mirt can ask an embedded operative for specific observations, though he can't promise everything the faction knows, and he can ask Laeral for an urgent appointment, though he can't give the member any power to command the Open Lord's time.
+> [!gamemaster]**What Is Actually True**
+>
+> - Mirt placed the three informants himself and keeps them off paper. Every request goes to him in person, so none reaches the records-relay register that the Splinter's mole copies (see **The Cell Is Compromised**).
+> - Darron Quill clerks for the Splinter's cargo office. The Splinter is Manshoon's cell, and Darron has no access to Manshoon's sanctum in Kolat Towers. Mirt says "the Splinter" throughout this Event.
+> - Dena Holt works for Xanathar's Guild. Joss Marrin sells tickets at the Faire, which Jarlaxle owns. Neither knows who else Mirt has placed.
+> - Canvas is never Mara Coppersail, whether or not the party recovered her at **A Friend's House**.
+> - None of the three is inside the Cassalanter household, and Mirt has no contact there. Nothing in this Event tells the member what the Cassalanters are.
+> - Mirt is a Masked Lord, and Laeral knows it. He calls her by her first name and never gives her a title. The member learns this in **High Harper**.
 
-Remallia prepares the second persona through her established registry infrastructure. Until the salon reveal, Mirt handles its questions and its delivery himself, so the same paperwork reaches the member and nobody learns she is a Harper contact ahead of time.
+### Naming the Rank
+
+Mirt is at home for once, and he receives the member in his business gear.
+
+> [!readaloud]
+>
+> The receiving room of Mirt's manor has its shutters open to the harbour, and a half-eaten roast duck sits at the middle of the long table. Maps lie unstacked at the far end, and two servants carry plates in and out without a word. Mirt pushes a chair out with his foot and refills the cup in front of it before you sit.
+>
+> > "Sit. Eat something first. Wise Owl is the name for it, and it means we trust your judgment. There are five things to go through tonight. Hear all of them before you ask me anything."
+
+> [!social]**The Old Wolf at Home**
+>
+> Mirt (Chaotic Good, Illuskan Human, he/him) :: the Old Wolf, moneylender and senior Harper, who is home for once and speaking plainly.
+>
+> Mirt is Friendly toward the member. He refills their cup without being asked, tilts his head while he works out how much to say, and does not swear. He calls the member "lad" or "lass" as it fits, and he gives each benefit its terms the way he would give a loan.
+>
+> Mirt is happy to discuss the following topics:
+>
+> - The cover service, the informants, the warning and the second persona, one at a time.
+> - Laeral's reply, and how to ask for an audience.
+> - What he expects from a Wise Owl in return.
+>
+> Mirt will not give the informants' names, and he will say no more about Laeral than that he advises her.
+
+> [!qna]**What is a Wise Owl?**
+>
+> > "It's a rank, and it comes with terms like any loan. We trust your judgment now, and in return I'll ask more of you. I'll ask for better work, too."
+
+> [!qna]**Do my companions share it?**
+>
+> > "No. The rank is yours, and so is everything that comes with it. Your friends can stand beside you on a job. They can't send for papers or an informant in your name, and I'll turn them away if they try."
+
+> [!qna]**How do you know Laeral?**
+>
+> > "I've advised her on a few matters for a good many years. That's all I'll say about it. Eat something."
+
+> [!exploration]**Mirt and the Open Lord**
+>
+> Any character who listens to Mirt talk about Laeral and makes a successful **DC 14 Wisdom (Insight)** check notices that he calls her by her first name and never by a title. He talks about her the way a colleague would, and he is less careful with every other name at the table. Nothing here confirms who he is, and a character who misses the check loses nothing.
 
 ### Cover for an Operation
 
+Mirt takes the cover service first, because it is the benefit a member is most likely to use.
+
 > [!readaloud]
 >
-> Supper has been cleared from the long table in Mirt's study, and he has spread a map of the city across it and set a printed request sheet on top, with blanks left for a date and a meeting point. He refills your cup without asking and waits while you read down the three kinds of help written there.
+> Mirt slides a plain sheet out from under the duck platter and sets it between you. It has three short paragraphs on it in his square hand, each headed with the name of a service. He taps the first paragraph and waits until you have read down to the third.
 >
-> > "Wise Owl. Good. Now that you can ask us to cover a sensitive job, I'd like to hear what would help before we put people on the street. Where's the risk, and when does the work start?"
+> > "One job in each quest, and three days' warning. Papers, a distraction or witnesses. Give me the place and the hour, and I'll tell you what can be done."
 
-> [!qna]**What kind of cover can you arrange?**
+> [!qna]**What do the papers do?**
 >
-> > "One service for one sensitive job in each quest. Give us three days' notice. We can make up ordinary delivery papers, or block a public entrance with a broken cart for ten minutes, or put two real witnesses on a cover appointment. Tell me the place and the hour. Mind you, none of it opens a guarded door for you."
+> > "Vale and Reed Imports will put your premises and your hour on an employer's letter, an order and a set of receipts. Carry them as business papers. They're no warrant, and a doorkeeper will still want a word."
 
-> [!qna]**Do we all receive a service?**
+> [!qna]**What if we need it sooner?**
 >
-> > "Each Wise Owl asks for their own. If I help you, it doesn't use up anybody else's, and it doesn't come out of yours until it's actually been done for the job you named."
+> > "Then you don't get it. Three days is the least anyone can arrange without being noticed. Plan ahead and ask early."
 
 > [!exploration]**One Cover Service per Quest**
 >
-> Each member can arrange one of the following for one sensitive operation per quest, with three days' notice. Requests go to Remallia if her identity is known and to Mirt in person if it isn't. The player chooses the site and the time, and the service takes one of these fixed forms:
+> Each Wise Owl can arrange one of these services for one operation per quest. A quest here means a named campaign quest, such as **Fireball!** or **Kolat Towers**.
 >
-> - **Documents:** Vale & Reed Imports supplies an employer's letter, a delivery order and matching receipts for the member's persona, naming the chosen premises and delivery hour. They support a courier or buyer approach. They are not a Watch warrant and can't compel anyone to let the member in.
-> - **Distraction:** Harper courier Harl Keen stages a broken-cart blockage outside the requested public entrance at the appointed time, while two hired porters move spilled crates for ten minutes. It ties up traffic outside the entrance and anyone sent to clear it. Guards inside stay at their posts and follow their own site's response rules.
-> - **Witnesses:** Nella Fen and Orin Dask accept a real counter appointment with the member before the operation, and afterward each gives a consistent account of the cover business. They confirm the civilian role and the appointment and will not speculate about what happened at any other address.
->
-> The service counts as used once it has been delivered for the named operation. Several eligible members can each request a different service and record their own use for the quest, and one member's unused request doesn't pass to the rest of the party. Play the matching exchange below when the chosen service begins.
+> - **Contact:** Mirt, at his corner table in the Yawning Portal any evening from 18:00 to 22:00. If **Remallia Harper Contact Known** is marked, the member can take the request to Remallia at House Ulbrinter on Delzorin Street instead.
+> - **Notice:** The member names the service, the place and the hour at least three days ahead. Mirt refuses a request with less notice, and nothing is spent.
+> - **Documents:** Wil Keen brings a sealed packet on the day. It holds an employer's letter from Vale & Reed Imports, a delivery order and matching receipts for the member's persona, naming the premises and the hour. The member has Advantage on the first Charisma (Deception) check to pass as that persona's trade. The papers are not a warrant, and they do not open a guarded door.
+> - **Distraction:** Wil Keen puts a loaded cart with a broken wheel across the public entrance the member names, at the hour named, and two hired porters take 10 minutes to clear it. Anyone outside the entrance is busy with the cart for that time. A street guard leaves the entrance to help, and the party can pass it unseen from the street. Creatures inside stay at their posts.
+> - **Witnesses:** Nella Fen, chandler, 16 Fillet Lane, and Orin Dask, map-seller, 9 Street of Silks, each take a real counter appointment with the member before the operation. For that hour, anyone asking about the member, whether Watch or faction, hears a counter appointment and nothing else. The alibi fails against a witness who saw the member at the site.
+> - **Limit:** The use is spent when the service is delivered. A request called off a full day ahead is not spent. A use nobody called before the quest ends is lost.
+> - **Several members:** Each Wise Owl has their own use. Two members who ask for the same operation at the same hour share one service, and only the first to ask spends a use.
 
-If the member chooses documents, Mirt goes over the premises and the hour with them:
-
-> [!readaloud]
->
-> > "Vale and Reed will put your premises and hour on an employer's letter, an order and receipts. Carry them as business papers, and don't count on them to carry you. They're no Watch warrant, and a doorkeeper will still want a word with you."
-
-If the member chooses the distraction, Harl Keen looks over the public entrance before he brings the cart into place:
+If the member chose documents, read or paraphrase the following when Wil delivers them:
 
 > [!readaloud]
 >
-> Harl leans on the side of his loaded cart in the street outside the entrance you named, watching two hired porters stack crates behind him and chewing on a piece of straw.
+> Wil Keen leans against the door frame of your lodging with a sealed packet in one hand and a stalk of straw between his teeth. The seal is Vale & Reed Imports, and the packet is thick enough to hold a letter, an order and a stack of receipts.
 >
-> > "This is the one, then? Right. I'll stick the cart across it when you say, and the lads will have it cleared after ten minutes. If somebody comes out from inside to lend a hand, that's up to them. I can't make anyone leave a post in there."
+> > "Papers for the job. Carry them like any dull business papers. They'll get you a polite hearing and not much more."
 
-If the member chooses witnesses, Nella and Orin meet them for the real counter appointment:
-
-> [!readaloud]
->
-> Nella has the member's order open on the counter of her chandler's shop, between a tray of tapers and her sales ledger, and she checks the appointment time twice before she signs it.
->
-> > "Well, I can tell anyone you came in about this order at the hour we wrote down. Ask me about the candle trade beforehand if you want to practice. What you got up to at another address is your business, though, and I won't guess."
->
-> Orin, at his map counter on the Street of Silks, writes the same appointment on his own order slip and leaves the line describing the other site empty.
->
-> > "I'll swear to the visit and to what we talked about. I didn't follow you out of here, so I'm not going to pretend I saw anything more."
-
-### The Informants and Warnings
+If the member chose the distraction, read or paraphrase the following at the entrance:
 
 > [!readaloud]
 >
-> Mirt sets three sealed request sleeves on the table beside the cover sheet, with their field names turned toward him, and slides a clean sheet across for the member's question. He tilts his head while he waits for you to think it through.
+> Wil Keen leans on a loaded cart outside the entrance you named, chewing a straw while two porters stack crates behind him. The cart has one wheel off, and its bed is piled high enough to block the doorway.
 >
-> > "One question they can act on. A shift, a delivery, a person expected somewhere. They can't tell you every conversation in the building, and I won't ask them to risk a cover for something they can't answer."
+> > "This is the door, then. I'll put the cart across it when you say, and the lads will have it cleared in ten minutes. I can't make anyone inside leave a post."
 
-> [!qna]**Which posting should I use?**
->
-> > "Lantern can check Guild warehouse deliveries and shifts on a Dock Ward route. Canvas works near the Faire and can check public staff movements there. Slate sees surface cargo instructions from the other Black Network branch. Pick whichever one your question touches. I'll not give you the person behind the name."
+If the member chose witnesses, read or paraphrase the following at the counter:
 
-> [!qna]**When do I hear back?**
+> [!readaloud]
 >
-> > "Ask one specific question. If the posting can reach it, you'll have your answer at noon tomorrow. If the request fails, that channel is closed to you for twenty days, but the other two stay open."
+> Nella Fen has your order open on the counter of her chandler's shop, between a tray of tapers and her ledger, and she checks the appointment time twice before she signs it.
+>
+> > "I can tell anyone you came in about this order at the hour we wrote down. Ask me about the candle trade first, if you want to practise. What you got up to at another address is your business."
+
+### The Informants
+
+> [!readaloud]
+>
+> Mirt takes three small slips of paper from his coat and lays them in a row beside the duck. Each has one word on it in pencil, and he turns them to face you as he speaks.
+>
+> > "Three people, in the Guild, the Faire and the Splinter. They're small people in dangerous places, and I won't spend them carelessly. Each of you may send each of them one request in every quest."
+
+> [!qna]**Who are they?**
+>
+> > "Lantern, Canvas and Slate. I'll not give you the people behind the names. Lantern carries for a Guild warehouse. Canvas sells tickets at the Faire. Slate clerks for the Splinter's cargo office, and he sees none of its private rooms."
+
+> [!qna]**What if the request fails?**
+>
+> > "Then that line stays silent to you for twenty days. Nobody is hurt and nobody is found out. The other two still answer."
 
 > [!gamemaster]**Three Protected Postings**
 >
-> Requests route through Mirt, who knows the operatives' identities and doesn't give them to the recipient:
-> - **Lantern**, Dena Voss: Guild warehouse courier who can check Dock Ward deliveries and guard changes on the route she works.
-> - **Canvas**, Joss Bell: Faire ticket clerk who can check public staff shifts, crew movements visible from the pier and scheduled appearances. If the party recovered Mara earlier, Canvas is a different person in a separate posting, and Mara stays out of a compromised job.
-> - **Slate**, Darron Quill: Splinter cargo clerk who can check shipments and instructions reaching the surface counting-house channel. He has no access to Manshoon's sanctum.
+> Mirt knows the real names and does not give them to the member. Each informant answers only from what they can see.
 >
-> For each activation, the member frames one specific request and makes a DC 13 Charisma check. On a success, the answer comes back at noon the following day if it falls within the posting's stated access. If the request goes beyond that access, the answer says so and reveals no secret. On a failure, that informant is unavailable to this member for twenty days (the two-tenday source consequence), and the operative is neither dead nor exposed. After an answered request the member can try another specific one through the same procedure, since each activation returns one answer and never a bulk dossier.
+> - **Lantern**, Dena Holt: a courier for a Guild warehouse on the Dock Ward waterfront. She can report which crates go where, who carries them and when the guards change on her round. She never enters the lair and hears nothing said in a back room.
+> - **Canvas**, Joss Marrin: a ticket clerk at the Faire. Joss can report staff shifts, who boards the ships at the gangway and what is carried aboard in daylight. Nothing below deck is visible from the booth.
+> - **Slate**, Darron Quill: a cargo clerk in the Splinter's surface counting-house. Darron can report shipments and written instructions that cross his desk. He has no access to the strongroom or the private ledgers.
 >
-> If a faction has collapsed or the named premises have closed, Mirt says so through the same channel, and the operative reports on the surviving surface members. This doesn't bring back a defeated organization or supply a new hidden headquarters, so use the closed-premises reply below.
+> If a faction's known premises have fallen, the informant reports on the surviving people there and cannot supply a new headquarters.
 
-When a request within the posting's access succeeds, Mirt passes on what the operative actually saw at noon the following day. Write the observed facts from the campaign record beneath the matching introduction and keep them to what that operative could see:
+> [!exploration]**One Request per Informant per Quest**
+>
+> Each Wise Owl can send one request to each informant per quest.
+>
+> - **Contact:** The member brings the request to Mirt in person, at his corner table in the Yawning Portal. Mirt refuses a request that does not name a place, a window of hours and one thing to look for. A refusal costs nothing.
+> - **Check:** The member makes a **DC 13 Charisma (Deception or Persuasion)** check to word the request so the informant can act without being noticed. A member with neither skill rolls Charisma alone. A request that stays inside the posting's listed access is made with Advantage.
+> - **Success:** Mirt gives the answer in person at noon the next day, at the same table. If **Harper Leak Closed** is marked, a sealed paper bird brings it to the member's lodging instead. Write what the informant saw from the campaign record, within the posting's access.
+> - **Beyond access:** If the question goes past the posting's access, the answer says so and reveals no secret. The request is still spent.
+> - **Failure:** The informant is unavailable to this member for 20 days. They are neither dead nor exposed. The request is spent, and the other two informants stay open.
 
-> [!readaloud]
->
-> **Lantern:** "I checked the Dock Ward route you asked about. The deliveries and guard changes I saw myself are listed below, and anything somebody else told me is marked separately."
->
-> **Canvas:** "I watched the public shifts and the pier at the time you named, and what I could see is written down below. I didn't go below deck."
->
-> **Slate:** "I went through the surface counting-house entries that cross my desk. I've copied out the shipments and instructions I could read, but I can't speak for papers kept in private rooms."
-
-When a successful request goes beyond the posting's access, Mirt delivers that informant's own limits at noon the following day. Use the signature of the posting the member addressed:
-
-> [!readaloud]
->
-> **Lantern:** "I can check the Dock Ward deliveries and guards on my route. I can't see into a room I never enter, and I won't put a name to anyone I haven't watched."
->
-> **Canvas:** "I can check the public shifts and the crew movements you can see from the pier. Private orders below deck are out of my reach."
->
-> **Slate:** "I can check the shipments and instructions that arrive at the surface counting house. I've no way into the commander's private rooms or papers."
-
-If the Charisma check fails, Mirt gives the member the consequence:
+When a request within access succeeds, read or paraphrase the informant's line and then give the facts:
 
 > [!readaloud]
 >
-> > "That route won't answer you now. Count twenty days from today before you try that posting again. The other two are still there if your question suits one of them."
+> Mirt reads from a folded slip, turning it so the light falls on the pencil.
+>
+> > **Lantern:** "I walked my round on the day you named. The crates and the guard changes I saw are written below. Anything I only heard is marked."
+> >
+> > **Canvas:** "I watched the booth and the gangway at the hours you gave. What I saw is listed below. I never went below deck."
+> >
+> > **Slate:** "I copied the entries that crossed my desk. The shipments and instructions are below. The private rooms are locked to me."
 
-If a faction's known premises have closed, Mirt says so when the answer returns:
+If the check fails, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > "That site's closed. I can ask what its remaining surface people have been seen doing, but I can't hand you a new address just because the old one is gone."
+> Mirt sets one slip face down on the table and puts his cup on top of it before he speaks.
+>
+> > "That line has gone quiet. Count twenty days from tonight before you try it again. The other two are still open to you."
+
+### The Warning
 
 > [!exploration]**Priority-Target Warning**
 >
-> When any of the four villain factions designates this member a priority target, Mirt's network detects the designation and delivers a warning within twenty-four hours of it. A paper bird gives the faction, the threat as observed and the last confirmed location, and whatever the faction is planning that the network hasn't seen stays unknown. The twenty-four hours cover both detection and delivery together.
+> A villain faction marks a member as a priority target when its escalation tier rises to Alert or Lockdown. For the Cassalanters, that is the moment they switch to hostile mode. Every Wise Owl in the party is warned.
 >
-> The warning belongs to the targeted Wise Owl, who can share it with companions. It can't stop an attack that is already under way, and it says nothing about preparations nobody observed or about a faction's full roster.
-
-At the rank meeting, the member can ask what a future priority-target warning will do for them:
+> - **Delivery:** Mirt, or a Harper he trusts, finds the member in person within 24 hours of the tier change. If **Harper Leak Closed** is marked, a sealed paper bird brings it instead. The 24 hours cover detection and delivery together.
+> - **Content:** The warning names the faction, the trade of the team's leader and the size of its crew, and the last place the Harpers saw it. It gives the leader's name only if the member has already met or beaten a team from that faction.
+> - **Limits:** The warning cannot stop an attack already under way. It says nothing about preparations the Harpers have not seen.
+> - **Sharing:** The member can tell companions what the warning said.
 
 > [!qna]**Does the warning stop an attack?**
 >
-> > "No. It reaches you within a day of their decision, along with the last place we confirmed a threat. Move or get ready on that. I can't promise every attacker is still where we saw them."
+> > "No. It reaches you within a day of their decision, with the last place we saw their people. Use the day to move or to get ready. I can't promise they're still where we saw them."
 
-### Laeral's Reply and the Second Persona
-
-At 20:15, Mirt sends a silver raven to the Palace asking Laeral to confirm the urgent-audience channel. The reply returns at 21:00 with the receipt code **Silver Raven Twenty-Five** and the procedure below. Receiving the note doesn't spend an audience.
+### Laeral's Reply
 
 > [!readaloud]
 >
-> Mirt opens the study window and lets the silver raven out into the dark, and then he refills your cup and talks about the duck until it flies back over the rooftops toward the Palace. When it returns, he checks the seal, breaks it and hands you Laeral's reply with the request procedure written beneath your name.
->
-> > "She'll hear an urgent matter through this channel. When you ask, tell me the danger and the deadline, so her office knows why it should find room in the day."
-
-Laeral's sealed note confirms the channel and grants no audience on its own. The member can read its instructions:
+> Mirt gets up, which takes a moment, and opens the window latch. A silver raven no bigger than a hand sits on the sill, and he says a few words to it that you can't hear before it lifts off toward the Palace. He sits back down, refills the cups and talks about the roof beams until the raven returns within the hour with a folded note in silver wax.
 
 > [!readaloud]
 >
-> > "Silver Raven Twenty-Five. When you need an urgent private audience, bring Mirt the particular danger or decision and its deadline. My office will receive a complete request through him. This confirmation reserves no hour and promises no agreement. — Laeral Silverhand"
-
-> [!qna]**When would I meet her if the matter is urgent?**
+> Mirt breaks the seal, reads the note and slides it across the table to you. The handwriting is narrow and upright, and the note is short.
 >
-> > "Once you bring me a specific danger or decision with a deadline, I can arrange ten in the morning, two days later, in the east reception room at the Palace. Name a companion only if the request explains why you need them. The appointment gets you heard, but it doesn't make the Open Lord agree."
+> > "Mirt tells me you have earned your name. Bring me a danger with a date on it, and my office will hear you at the Palace. This note reserves no hour and promises no agreement. Mirt speaks well."
 
-> [!gamemaster]**An Urgent Private Audience**
+> [!qna]**How do I use it?**
 >
-> The member sends Mirt a specific, time-bound threat or decision that needs city authority. He arranges a private appointment at 10:00 two days after he receives the request, in the Palace's east reception room. Laeral's staff put the member's name on the guest list and admit companions only if the request explains why they are needed. A matter with no particular danger or required decision can wait, and the member keeps the channel until an urgent request is made. The audience gets the member heard and doesn't win Laeral's agreement to the proposal.
+> Mirt takes the note back and folds it into his coat.
 >
-> Remallia's second persona packet reaches the member's lodging two days after the rank meeting. By default it uses the member's chosen given name with the cover surname Dale, and the role is purchasing agent for Vale & Reed Imports. A three-year trading history backs it up, with quarterly supply receipts, a registry extract and current orders matching the first persona's contacts. Guild associate Ilen Castor, a licensed cartwright at 6 Shield Street, confirms three years of dealings in person when shown the packet's receipt number.
->
-> The member can choose a different cover name, and the default keeps the paperwork complete when they don't. The documents stand up to ordinary commercial scrutiny and give no disguise, no legal immunity and no automatic success on a social check. If Remallia isn't yet known, the packet comes through Mirt and doesn't say who prepared it.
+> > "She's the Open Lord. Don't bring her a problem you could solve on your own. Bring me a danger and a deadline, and I'll send it up."
 
-At the rank meeting, if her Harper role is known, Remallia asks the member for their chosen cover name:
-
-> [!qna]**Do you want Dale on the papers?**
+> [!exploration]**An Urgent Audience**
 >
-> > "Dale is ready as the default surname, but would another name sit more comfortably with the work you expect to do? Tell me now, and the same three years of records will be made out under whichever name you choose."
+> Each Wise Owl can ask for one audience per quest. The note itself spends nothing.
+>
+> - **Request:** The member brings Mirt a specific danger and its deadline, in person at the Yawning Portal. Mirt turns back a request with no danger or no deadline before it is sent, and nothing is spent.
+> - **Audience:** The meeting is at 10:00, two days after the request, in the east reception room of the Palace. It lasts ten minutes. The member may bring one companion, named in the request.
+> - **If the danger is to people in Waterdeep,** such as an attack, a fire or a kidnapping with a deadline inside ten days: Laeral has the Watch commander informed that night, and the Watch doubles its patrols on the named street for three nights.
+> - **If the danger is to one named person:** Watch escorts guard that person for ten days.
+> - **Limits:** Laeral commits no Lords and no Watch officers beyond this. She does not hear the Stone, the vault, gold or a faction's plans as a danger.
 
-If Remallia's role isn't yet known, Mirt asks the same question and sends the answer through his private relay:
+### The Second Persona
+
+If **Remallia Harper Contact Known** is marked, Remallia is at the table for this part. Otherwise Mirt asks for the member's choice himself, and the packet does not say who prepared it.
+
+If Remallia is present, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > "The next papers will say Dale unless you'd like another surname. Tell me before the packet's made up. The trade history and Ilen's receipts will follow whatever you pick. I'll not tell you who's doing the writing."
+> A sun elf woman in a grey gown sits at the far end of the long table, pouring tea from a plain white pot. She hands you a cup before she speaks, and a silver raven figurine stands beside the sugar bowl.
+>
+> > "Mirt tells me you're ready for a second name. Dale is ready as a surname, but would another sit more comfortably with the work you expect? Tell me now, and the history will be written to match."
 
-When the second persona is ready, Mirt delivers the packet, or Remallia presents it if her Harper role is already known. If the member chose a different cover surname, use it in place of Dale in the following speech:
+If Remallia is not present, read or paraphrase the following:
 
 > [!readaloud]
 >
-> A fresh registry extract lies on the table in front of you, spread over three years of quarterly supply receipts, with a current order and Ilen Castor's cartwright address clipped beside the employer's letter.
+> Mirt turns his cup in its saucer and looks at you over the rim.
 >
-> > "Your papers use Dale as the surname and make you a purchasing agent for Vale and Reed Imports. The trading history goes back three years. If you show Ilen Castor at six Shield Street this receipt number, he'll confirm those dealings for you."
+> > "The next papers will say Dale unless you want another surname. Tell me now, before they're made up. I won't tell you who does the writing."
 
-If Remallia presents the packet, she answers questions about its limits:
+> [!exploration]**The Second Persona**
+>
+> Each Wise Owl has one second persona, separate from the first.
+>
+> - **Order:** The member names a surname at the table. If they name none, the surname is Dale.
+> - **Delivery:** Two days after the rank meeting, at dusk, Wil Keen brings a packet to the member's lodging. It holds a registry extract, three years of quarterly supply receipts and a current order. It names the member as a purchasing agent for Vale & Reed Imports.
+> - **Confirmation:** Ilen Castor, a licensed cartwright at 6 Shield Street in the Sea Ward, confirms three years of dealings when shown the packet's receipt number. He knows nothing of the first persona's contacts.
+> - **Effect:** The papers stand up to ordinary commercial scrutiny. The member has Advantage on a Charisma check to be believed as a purchasing agent when the other party can check the papers. They give no disguise, no legal immunity and no automatic success.
+
+If Remallia is present, she answers questions about the papers:
 
 > [!qna]**Will the papers convince anyone?**
 >
-> > "They give a person ordinary work to check, and that's all they do. Could you tell me which of these orders you could explain without looking at the page? A real receipt does help, but I can't promise what another person will believe."
+> > "They give a person ordinary work to check, and that is all they do. Could you explain each of these orders without looking at the page? A real receipt helps. It can't promise what another person will believe."
 
-If the member goes to see Ilen in person with the receipt number, he looks it up in his cartwright ledger and uses the member's chosen cover surname in place of Dale if needed:
+If the member visits Ilen with the receipt number, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Ilen wipes his hands on his apron in the yard behind his shop, then runs a thumb down the page of his ledger until he finds the number.
+> Ilen Castor wipes his hands on his apron in the yard behind his shop, where a half-built cart stands on blocks. He runs a thumb down his ledger until he finds the number.
 >
-> > "Yes, that matches the orders I've handled for Dale these three years. I can vouch for the cartwright work, because it's all in my books. I wasn't there for anything you did elsewhere."
+> > "Yes, that matches the orders I've handled for the name on your papers these three years. I can vouch for the cartwright work, because it's all in my books. I wasn't there for anything you did elsewhere."
 
 ### Renown Opportunities
 
-This rank grants no extra Renown, gold or Milestone Points. The benefits recognize this individual member's existing threshold, and each recipient keeps track of their own cover services and informant failures.
+The rank event awards no Renown, gold or Milestone Points. Each Wise Owl earns further Renown from the missions and from the Earning Renown list in the Factions Guide.
 
 ### Aftermath
 
-The second identity joins the first, and the member can use both. Audience access and priority warnings stay with the Wise Owl. Sensitive reports still go through Mirt privately until **Harper Leak Closed**, and a field request never goes into Orren's register.
+The member can tell their companions what the cover service, the informants and the warning can do. A companion who asks in the member's name is turned away, and Mirt will not repeat himself. A member whose Renown later falls below 25 keeps the rank, and the benefits are suspended until their Renown returns to 25. Mirt's next message comes when the member reaches Renown 50.
 
 ### Concluding the Event
 
-The promotion concludes when Mirt hands over Laeral's reply and the member has the cover and informant procedures.
+The Event concludes when Mirt hands over Laeral's note and the member knows how to ask for each benefit. Record separately for each member the quest each cover service, informant request and audience was last used in, the date any informant became unavailable, and the surname on the second persona.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Wise Owl Reached** — mark with the member's name on receiving Laeral's reply; **High Harper** and later quests read that individual's support, informant availability and urgent-audience channel.
+> - **Wise Owl Reached** — mark with the recipient's name when Mirt hands the member Laeral's reply note; read by **High Harper**, which checks it before naming the next rank, and by the benefit procedures in this Event.
 
 > [!gamemaster]**Next Steps**
 >
-> The second persona arrives in two days, and cover requests need three days' notice. **High Harper** occurs when this member reaches Renown 50, usually during later Undermountain play. This promotion awards no Milestone Points.
+> Cover requests need three days' notice, informant requests are once per informant per quest, and the second persona arrives two days after the meeting. **High Harper** occurs when this member reaches Renown 50, expected during **Dungeon of the Mad Mage**. This Event awards no Renown and no Milestone Points.
 
 ## Overview
 
-Mirt opens the operational cover and informant channels for a newly promoted Wise Owl, explains the warning procedure and shows the member how to ask for Laeral's attention when a matter is urgent.
+Mirt names a Harper a Wise Owl and explains cover for risky jobs, three informants, a warning when a villain faction marks them, and a channel to Laeral Silverhand.
 
 ## Summary
 
-We became Wise Owls and learned how to ask the Harpers for cover, informants and an urgent audience with Laeral. Our second persona arrived two days later, and we now get a warning within a day if a villain faction marks us as a target.
+We were named Wise Owls, and Mirt showed us how to ask the Harpers for papers, a distraction or witnesses. He gave each of us three informants inside the Guild, the Faire and the Splinter, and a warning if a villain faction marks us. Laeral Silverhand answered Mirt's raven with a note that ends "Mirt speaks well", and a second persona was made for each of us.

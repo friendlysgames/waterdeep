@@ -1,27 +1,19 @@
 # Design Notes: The Dead Drop
 
-## Uza and Fillipa
+## On Uza Solizeph
 
-***A precise account.*** Uza describes the monster in careful detail, which keeps it recognizable without turning her distress into a joke. Her request gives the party a person and an animal to help before the intelligence investigation begins. The shared spellbook is a gift to the assisting party whatever happens to Tessalar, so the party gets something tangible and companions gain no Harper membership.
+***Precision as character voice.*** Uza describes a beholder-kin creature with complete technical accuracy — sphere, central eye, eyestalks — in a tone of thorough personal record-keeping rather than panic. This is her character. She is not unaffected; she is just very precise about things. The DM should lean into this throughout the mission: she does not dramatize the manuscripts being destroyed, she catalogs it. It makes her funnier and more real than a straightforwardly distressed shopkeeper would be.
 
-***The rescue objective.*** Fillipa's rafters give one character something useful to do while the others handle the creature or the threatened stock. A failed retrieval check costs the character's action and adds no arbitrary falling damage. The attic's central ridge is raised to twelve feet, which settles the old conflict between an eight-foot ceiling and a cat ten feet above the floor, and disabling the gazer lets the party rescue Fillipa without killing it.
+***Her one requirement.*** "Fillipa comes out alive" is the mission's emotional hook. The cat is in the rafters providing commentary on a fight with a gazer. This is inherently comedic, but Uza's request is genuine — Fillipa has been her cat for eleven years. If the party delivers Fillipa safely and uninjured, Uza gives the spellbook without condition and becomes a genuine Trades Ward ally. If Fillipa is hurt, Uza gives the spellbook anyway, but her affect toward the party carries a note of careful reserve going forward.
 
-## The Inventory Timer
+## On the Gazer's Eye Ray Damage
 
-***Saving throws and stock.*** The earlier inventory rule depended on an eye ray missing an attack roll, and saving-throw rays never do that. Three fixed end-of-round deadlines now threaten the books, a shelf on the stairs and the manuscripts, and a concrete Utilize action protects each one. The party can see the secondary objective before the loss happens, and it gets ways to divide its effort beyond attacking a low-HP enemy.
+***Resource attrition as stakes.*** The gazer fight is not dangerous to a 3rd-level party in terms of HP. The stakes are Uza's inventory. Eye rays that miss characters should feel like they matter — 15 gp of books, a collapsed stairwell shelf, a bundle of rare manuscripts gone to arcane fire. Uza notices all three categories of damage and does not place blame, which is worse than if she did. The party learns that Harper operations have costs that fall on innocent people who never asked to be involved.
 
-***The converted creature.*** The Gazer has no 2024 *Monster Manual* entry, so its legacy source is converted in the **Harpers Mechanics Reference** and isn't passed off as a current published block. The shop uses the ordinary creature with no familiar bond, no fire ray and no remote observer. It keeps its four rays and loses the information transfer that nothing in the rules supports.
+## On Tessalar
 
-## What Tessalar Has Already Done
+***Three paths, not two.*** The mission deliberately offers a middle path — warn Mirt, relocate the drop, warn off Tessalar — that earns no secondary benefit but also produces no liability. This is the "clean" option. The double-agent path is the most rewarding but requires trusting a frightened 23-year-old with an ongoing operational role. The Watch path is responsible but eliminates the Splinter intelligence thread. The DM should play Tessalar as someone who made a mistake he did not understand the scale of, not a villain. His handler is the problem. He is the consequence.
 
-***The physical copy.*** Tessalar delivered the cipher before the gazer entered the shop, which gives the breach a clear sequence and leaves evidence that needs no scrying effect. Turning him stops future reports but can't take back what was delivered, and a warning to Mirt starts the separate forty-eight-hour relocation of Lysa Fenwick and Teren Moss.
+## Downstream Connection
 
-***The three resolutions.*** Recruitment, arrest and warning him off are different choices. They leave the Harpers with a cooperating double agent, a fixed burn deadline for the ledger or the end of his reporting. None of them kills Tessalar, and later missions must read his recorded fate and not assume the party recruited him.
-
-***The ledger's contents.*** Recovering, copying and destroying the ledger each give a useful and different result, and the two additional identities come only from reading the marked pages. Public account-review hours keep the evidence within reach without another combat encounter. The deadline follows the party's own resolution and isn't a random loss decided afterward.
-
-## Later Harper Operations
-
-***The contact chain.*** **Harper Contacts Relocated** protects Lysa Fenwick and Teren Moss, who work for House Amcathra and House Rosznar and know nothing of any noble family's private secrets. Its only reader is **The Tail** in **The Doppelganger Auditions**, where the Splinter's household files then show just the contacts' old routines and no second relocation is needed.
-
-***A surviving informant.*** Tessalar's fate carries into **The Cell Is Compromised** and **The Sleeping Asset**, which lets those investigations tell his reporting apart from Orren Vale's separate leak. The relocation of the drop and the fate of the ledger also decide which physical collection point stays available, so the party's evidence choices keep their consequences.
+***Arc G Cassalanter access.*** If the cipher note's contents reach the Splinter and Tessalar is not turned, Mirt loses access to a Cassalanter social contact. This is never announced directly — it manifests as thinner Harper intelligence about Cassalanter villa operations when the party is preparing for Arc G. The party can trigger this consequence without knowing they did, which makes the mission's resolution carry more weight than a simple pass/fail.

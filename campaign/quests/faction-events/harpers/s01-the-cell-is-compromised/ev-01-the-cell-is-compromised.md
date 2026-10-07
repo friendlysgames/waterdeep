@@ -2,183 +2,220 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs after **A Friend's House**, once the party has met Davil Starsong. Mirt tells the Harper members that someone inside the cell is passing their reports to the enemy, and in this Event they can:
+> This Social Event begins on the day after an individual Harper member's debrief for **A Friend's House** and ends when Mirt has given that member the private protocol. In this Event, the member can:
 >
-> - Compare Mirt's evidence of a leak with the information they actually reported.
-> - Ask what he knows, without anyone being accused on thin evidence.
-> - Adopt a private reporting protocol that bypasses the compromised register.
-> - Learn the difference between knowing about the leak and finding and removing its source.
-
-### Hook
-
-At 16:00 on the first day after both trigger conditions and the applicable evidence deadline below are met, Mirt's courier delivers a plain note to each participating Harper member. It asks them to meet at 19:00 in the third-floor front room of 6 Saerdoun Street, a North Ward tenement rented for the evening. Helping companions receive no summons, because the briefing is for Harper members only.
-
-### Background
-
-Orren Vale is a Harper records-relay clerk who secretly supplies Manshoon's Splinter through Beldan Rusk. His job is to collect the operational summaries that cell contacts enter in the register, so he can copy names, addresses and timings without ever meeting the field agents. Mirt has traced the leak for a tenday, but fourteen people handled the material and he hasn't been able to single out Orren.
-
-Orren is polite and methodical, and he asks agents to repeat a date or spell a name while he finishes a register entry, and he treats every request as routine clerical work. He speculates about nothing and talks in complete, ordinary sentences with no hint of a threat. This event keeps his identity from the players. **The Sleeping Asset** gives them three ways to expose him.
-
-> [!gamemaster]**What the Contacts Know**
+> - Receive a plain note from Mirt and meet him in a rented room at 6 Brondar's Way in the North Ward.
+> - Hear that the Splinter has acted on information that only moved through Harper channels.
+> - See which of the member's own reports Mirt can trace to a leak, and learn what Davil's people saw.
+> - Press Mirt on who he suspects and how long he has been tracing the leak.
+> - Agree to the private protocol: operational intelligence goes to Mirt in person, and paper birds carry meeting times only.
 >
-> Manshoon's leadership and Rusk's part in the timelines below are secrets you keep. The Harpers know only that the Black Network has split, and they don't know who leads the hostile branch. Davil currently believes Floxin leads it, though nothing he has seen shows that belief to be true. Mirt names Rusk if the members identified him through Tessalar's testimony or recovered correspondence and shared that evidence with him. Otherwise he says "the recipient" wherever Rusk would appear, and nothing in this event identifies Manshoon. If the party has worked out his identity and leadership on their own and told Mirt, he can use the name in later conversation.
+> Only Harper members receive the note. Helping companions get no summons and gain nothing from this Event.
 
-> [!gamemaster]**Choose the Established Incident**
+> [!gamemaster]**What Is Actually True**
 >
-> Mirt's evidence rests on one incident from the party's own history. Use the first entry below that applies, and keep the outcomes the party recorded.
+> - Tobin Harrask is a clerk in the Harper records relay. He copies every operational entry in his register and passes it to Beldan Rusk exactly 48 hours later. Rusk delivers the copies to the Splinter.
+> - Fourteen people have handled the material that leaked, and Tobin is one of them. Mirt does not know which, and he does not guess.
+> - Mirt says "the handler" where Rusk's name would go. If **Handler Ledger Read** is marked, he may say "Rusk".
+> - The Harpers know only that the Black Network has split. Mirt says "the Splinter" and never names its leader.
+> - The party cannot identify Tobin in this Event. **The Sleeping Asset** gives them three ways to do it.
+
+### The Note
+
+The note reaches each participating member at 16:00, carried by a street boy who has been paid to say nothing. A member who is away from Waterdeep finds it waiting at the first lodging they reach on return, and the meeting is at 19:00 on the evening after.
+
+> [!readaloud]
 >
-> 1. **Salon inquiry:** if the members reported Jelenn Urmbrusk's strained response to Zhentarim discussion, Mirt entered a background query in the relay register the following morning. Forty-eight hours later Rusk received its wording. That evening Davil's contacts saw a Splinter intermediary coach Jelenn on those same questions. Mirt's intended second operative hadn't received the query yet.
-> 2. **Customs-house inquiry:** if **Handler Ledger Read** is marked, a Harper contact entered Mirt's request to check Beldan Rusk's collection routine. Forty-eight hours later Rusk received it and sent a courier to ask a customs clerk who had filed those same questions. Davil's observers heard the wording before Mirt's intended operative had approached the clerk. The drawer or east-entrance brick stays in use on its usual schedule, Tessalar's fate is whatever the party left it as, and the ledger stays wherever the party left it.
-> 3. **Shesstra Street inquiry:** if **Shesstra Street Reported** is marked and the resident Spies were still free and living in the site after M1, Mirt's watcher assignment entered the register the next morning. Forty-eight hours later Rusk warned the cell, which evacuated and burned its remaining papers that evening. Davil's observers saw the departure before the assigned watcher arrived. If the party defeated or captured those residents, skip this entry and move to the next one.
-> 4. **No recorded site inquiry:** Mirt entered a routine inspection at a Harper meeting room, 14 Saerdoun Street, for 18:00 three days later. Rusk received it forty-eight hours after entry and posted a Splinter observer at 17:30. Davil's contacts saw the observer waiting before any Harper arrived, and Mirt confirmed that the inspection wording never left his internal register.
+> A boy of about ten hands you a folded square of plain parchment, waits just long enough to be sure you have taken it, and runs off down the street. The paper has no seal and no scent. Inside, in Mirt's cramped hand, it gives an address in the North Ward and a time, followed by four words.
 >
-> Davil mentioned the movement he had seen in an ordinary conversation after the party met him, and he had no idea which Harper inquiry it matched, so Mirt made the connection himself. Davil's information doesn't mean the Doom Raiders and Manshoon's Splinter are one organization.
+> > "Come alone. Be careful."
+
+The address is 6 Brondar's Way, third-floor front room, at 19:00. Any character who makes a successful DC 12 Intelligence (Investigation) check on the note sees that it is on cheap paper Mirt would never use at his manor. On a failure, the note still gives the address and the time.
 
 ### The Rented Room
 
-The room has a low ceiling, a single window over the street and a plain table with enough chairs for the summoned members. Mirt paid the rent in cash and gave no agent's name, and nothing about this meeting goes into Orren's register.
+Mirt has rented the room for a week, in cash, under no name. The tenement stairs are narrow, and the front room has a low ceiling, one window over the street and a plain table with chairs for each member summoned.
 
 > [!readaloud]
 >
-> The tenement stairs creak under every step, and on the third floor a lamp burns in the front room, where Mirt sits at a plain table beneath the window. A folded account lies at his elbow beside a bottle with its seal still unbroken, and he waves you toward the chairs before opening the paper and setting a finger beside a date.
+> The tenement at 6 Brondar's Way smells of damp plaster and boiled cabbage, and the stairs creak under every step. On the third floor a lamp burns in the front room, where Mirt sits at a plain table beside the window. A bottle of wine stands in front of him with its seal unbroken, and he points you to the chairs without getting up.
 >
-> > "Close the door and sit. Somebody inside the cell has been passing our reports to people working against us, and I can show you what left and when they moved on it. I've no name for them yet."
+> > "Close the door and sit. Somebody in the cell is passing our reports to the Splinter, and I can show you what they did with them."
 
-> [!social]**Mirt's Evidence**
+> [!social]**Mirt, the Old Wolf at Work**
 >
-> Mirt (Chaotic Good, Illuskan Human, he/him) is a careful contact narrowing down a leak without accusing every agent who handled a report.
+> Mirt (Chaotic Good, Illuskan Human, he/him) :: a big man in plain brown wool, tired, and in his business gear.
 >
-> Mirt keeps the account for the matching incident within reach of the members, with the dates and recipients marked beside each entry. Read the matching account below, then let the members ask about timing and procedure. He leaves the wine sealed while he works through the evidence, and he accuses none of the fourteen handlers.
-
-If the salon inquiry is the established incident, Mirt gives this account:
-
-> [!readaloud]
+> He uses short, complete sentences and does not swear or laugh. His hands rest flat on the table, and he tilts his head when he decides how much to say. Anyone who knows him notices the sealed bottle: he always refills a glass, and tonight he has not touched it.
 >
-> Mirt lays the salon inquiry beside the later observation and draws a finger slowly from one marked date to the next, so that each of you can follow the line of it. His voice stays low and level while he reads out the times.
+> Mirt will discuss the following topics:
 >
-> > "I entered a query about Jelenn's response the morning after your report. A couple of days later, that evening, Davil's contacts heard an intermediary coach her on those same questions, and my second operative hadn't even received them yet."
-
-If the customs-house inquiry is the established incident, use this account:
-
-> [!readaloud]
+> - The leak, the Splinter and what the members reported.
+> - The new protocol.
+> - What Davil's people saw, if the member has met Davil.
 >
-> Mirt unfolds the customs-house account and sets its questions beside the courier's recorded inquiry, turning both sheets so that you can read them from where you sit. He taps the second sheet once and looks around the table.
+> Mirt will not accuse any of the fourteen, name a suspect he cannot prove, or say how he plans to find the source.
+
+> [!qna]**Who is it?**
 >
-> > "Our contact entered my questions about the collection routine. A couple of days later, Davil's observers heard a courier put those same questions to a customs clerk, before my own operative got near him. The collection point and schedule you found are still in use, and that changes nothing for Tessalar, who is where you left him, or for the ledger, which hasn't come back."
+> > "I don't know. Fourteen people handled what leaked. That's too many to accuse and too many to trust. I won't name one of them to make this easier."
 
-If the occupied Shesstra Street safehouse supplies the incident, use this account:
-
-> [!readaloud]
+> [!qna]**How do you know there's a leak?**
 >
-> Mirt opens the watcher assignment and lays the record of the departing residents beside it, leaving the Shesstra Street address uncovered between the two sheets. Outside, a cart rattles past on the cobbles, and he waits for it to fade before he speaks.
+> > "Because the Splinter moved too fast. They acted on things only Harpers knew, and each time they were ahead of me. I'll show you the times."
+
+> [!qna]**How long did the leak take?**
 >
-> > "The watcher assignment went into our register the next morning. A couple of days later, that evening, the people still living on Shesstra Street left and burned their remaining papers, before my watcher arrived. Davil's people saw them go, and I don't know who warned them, only that they were gone before we ever got there."
+> > "A couple of days from report to enemy, every time. That's too regular to be luck."
 
-If the routine meeting-room inspection supplies the incident, use this account:
-
-> [!readaloud]
+> [!qna]**Can we trust the other Harpers?**
 >
-> Mirt turns the inspection entry toward you and taps the observer's arrival time under the address, with the appointment he had planned written out beside it. The lamp gutters a little as he leans over the sheet.
+> > "Trust them with a meeting time. Nothing more until I say otherwise. That isn't an accusation, lad. It's how we shut the door."
+
+> [!qna]**You're not pouring?**
 >
-> > "I entered an inspection at fourteen Saerdoun Street for six in the evening, three days on. Davil's contacts saw an observer waiting there at half past five, before any Harper turned up, and those instructions were in our register, where nobody authorized to see them passed them on."
+> > "Not tonight. I want your heads clear, and mine."
 
-> [!qna]**Who do you suspect?**
->
-> > "Fourteen people handled the material that leaked, and I won't hand you fourteen names to accuse. I won't pick one just because I'd like the answer to be simple, so I'm narrowing down the route it took."
+### The Evidence
 
-> [!qna]**What did Davil tell you?**
->
-> > "He mentioned the movement his people saw. He didn't know which of our instructions it matched, but I did, and I'm grateful for it. The Doom Raiders watch the other Black Network branch for their own reasons, and this time it helped us."
+Mirt lays out each incident that matches an outcome marked for the party, most recent first. Each incident has the same shape: he entered a request through the relay, and two days later the Splinter had acted on it. If none of the outcomes below are marked, use the last incident.
 
-### Checking What Was Shared
-
-Mirt reviews the sensitive information each member passed to another Harper contact, including who received it and when. Nobody rolls to remember their own reports, and an entry a member can't recall stays uncertain instead of counting as an extra disclosure.
-
-> [!exploration]**Pressing Mirt for Details**
->
-> Any character who asks whether the members themselves are suspected and makes a successful DC 15 Charisma (Persuasion) check earns Mirt's assurance that this copy didn't come from them, using the response below. On a failure, Mirt carries on with the review and doesn't hint that anyone is under suspicion.
->
-> Any character who compares Mirt's dates and makes a successful DC 13 Wisdom (Insight) check notices that he has been checking records from well before the last tenday. He began tracing the pattern earlier and only became confident once these incidents lined up. Neither check identifies Orren or closes the leak.
-
-If the Persuasion check succeeds, Mirt gives his assurance directly:
+If **Salon Guest Leads Recorded** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Mirt leaves the account on the table and turns his chair toward whoever asked, with both hands resting beside the marked dates.
+> Mirt sets a sheet beside the lamp and puts a finger on a date near the top.
 >
-> > "I know this copy didn't come from you, and that's the one thing I can promise you tonight, because it's the only thing I can prove."
+> > "After the salon you told me how Jelenn Urmbrusk reacted when the Zhentarim came up. I sent a query about her through the relay the next morning. Two days later someone coached her on those same questions, and my own man hadn't seen them yet."
 
-On failure, he keeps the review open:
-
-> [!readaloud]
->
-> Mirt draws the first account back beside the blank review sheet and keeps both pages open on the table while he waits for you to answer.
->
-> > "I'm following the route the material took. Tell me which reports you sent, and we'll set them against these dates before I name anyone."
+If **Handler Ledger Read** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Mirt slides another sheet across and leaves its first column empty while you explain who received each report. He writes down the times you can give him, marks the uncertain ones with a small cross, and turns the sheet around so you can correct it.
+> Mirt turns a second sheet toward you and taps a line near the bottom.
 >
-> > "Tell me what you sent and who received it, and if you don't know what happened after that, say so. I need the route we can prove."
+> > "From the ledger you read, I asked the relay to watch how the handler collects. Two days later a courier was asking a customs clerk the same questions, before my man had gone near him."
+
+If **Tessalar Turned** is marked, read or paraphrase the following:
+
+> [!readaloud]
 >
-> > "Check what I've written here. If a recipient or a time is wrong, fix it now, before we carry the mistake into the next inquiry."
+> Mirt slides a third sheet across the table, with a pickup time written at the top and crossed out.
+>
+> > "Tessalar agreed to work for us, and I asked the relay to put a watcher on his next pickup. Two days later the handler had moved it, and my watcher reached an empty doorway."
+
+If **Tessalar Arrested** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Mirt slides a third sheet across the table, with a Watch cell number written at the top.
+>
+> > "Tessalar sits in a Watch cell. I asked the relay to send someone to question him. Two days later a man paid by the other side had seen him first, and Tessalar wouldn't say a word to us."
+
+If **Tessalar Warned Off** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Mirt slides a third sheet across the table, with a street name written at the top.
+>
+> > "I asked the relay to put a watcher on Tessalar. Two days later his room was empty and the handler's people had cleared it. They knew before my watcher was even assigned."
+
+If **Shesstra Street Reported** is marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Mirt unfolds a fourth sheet with a street map drawn on it, and one building is circled in ink.
+>
+> > "You told me about the building on Shesstra Street. I put a watcher on it through the relay. Two days later everyone inside had gone, and the grate was full of burned paper."
+
+If none of those outcomes are marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Mirt turns a single sheet toward you, with an address on Delzorin Street written at the top.
+>
+> > "I entered a routine check on the lodging at twelve Delzorin Street. Two days later a stranger spent an evening watching its door. Nobody should have known that check was coming."
+
+**What Davil saw.** If the member has met Davil Starsong, Mirt adds one line, read from the first case that applies:
+
+- **Davil Released is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing, and he didn't know it was a gap. I did."
+- **Davil Arrested is marked and Davil Released is not:** "Tashlyn Yafeera runs the Doom Raiders while Davil is held. Her people saw the Splinter move, and she passed it to me. She didn't have to."
+- **Neither is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing, and he didn't know it was a gap. I did."
+
+If the member has not met Davil, Mirt says "A watcher of mine saw the Splinter move before the relay's orders could have reached it" and says no more.
+
+### Pressing Mirt
+
+> [!exploration]**What Mirt Will Say**
+>
+> Any character who asks Mirt whether the members themselves are suspected and makes a successful DC 15 Charisma (Persuasion) check gets one more sentence from him. Mirt looks at the character, then says: "I know it's not you. That's the only name I can give you tonight." On a failure, he says: "Tell me what you've reported, and to whom. We'll go through it together."
+>
+> Any character who asks how long he has been tracing the leak and makes a successful DC 13 Wisdom (Insight) check notices that Mirt's dates reach back further than a tenday. On a failure, the character sees only that he is tired.
+>
+> Neither check names Tobin or ends the leak, and a failure costs the character nothing.
+
+Mirt then asks each member what sensitive material they passed to a Harper contact other than himself, and to whom. He writes down what they tell him and does not ask for proof. A member who cannot remember a detail says so, and Mirt marks it as uncertain.
 
 ### The Private Protocol
 
-From now on, operational intelligence goes face-to-face to Mirt, and paper birds carry only meeting times and locations. The next appointment is at 09:00 two days later in the rear room of Seven Scales Counting House, 18 Sorn Street, which Mirt rented separately from Tessalar's workroom. Later appointments go to each member individually, with the location written out before delivery.
+Mirt takes a second sheet from his coat and slides it across the table. It has three lines in the same cramped hand.
 
 > [!readaloud]
 >
-> Mirt writes the next appointment on separate slips and passes one to each of you, then tucks the review sheets inside his coat. The sealed bottle stays where it is on the table.
+> Mirt reads the three lines aloud, tapping the table once after each. The lamp flickers when someone moves in the corridor outside, and he waits until the boards stop creaking before he goes on.
 >
-> > "Keep the names and plans to yourselves until we meet. The birds can carry an appointment, but the work itself stays with you. If you've already sent something through another contact, bring me the account of it."
->
-> > "Nine in the morning, two days from now. The rear room of Seven Scales Counting House, eighteen Sorn Street. I've rented it separately from Tessalar's workroom, and you'll bring your reports to me there."
+> > "From tonight, operational intelligence goes to me, in person. Names, addresses, plans. Paper birds carry meeting times and nothing else. And anything you've already told another contact, you bring to me."
 
-> [!qna]**When does a registered report leak?**
+> [!qna]**Where do we meet you?**
 >
-> Mirt points to the register entry and the later observation times before he folds the evidence sheet.
->
-> > "The observations match instructions in our register, but I haven't proved how they got out. Bring your reports straight to me while we trace it. Another Harper standing nearby doesn't mean your conversation was overheard."
+> > "Send a bird asking for a time. I'll answer within a day with a place. This room stays rented for a tenday."
 
-> [!qna]**Does this stop the leak?**
+> [!qna]**Does this end the leak?**
 >
-> > "It keeps your next report out of that route. We still have to find the sender and the route itself, and stop any more getting out. What's already been shared stays with whoever has it, because I can't make them forget it."
+> > "No. It keeps your next reports out of the route. I still have to find the source, and what's already out stays out."
+
+> [!qna]**Are we restricted?**
+>
+> > "You're careful. That's different. Go on as you were, and keep what you learn until we meet."
 
 > [!gamemaster]**The Fixed Leak Rule**
 >
-> Until **Harper Leak Closed**, every operational entry put into Orren's cell register is copied to Rusk exactly forty-eight hours after its entry. Safehouse, relay-contact and old dead-drop reports all pass through that register. A private conversation with Mirt doesn't, and a report doesn't leak just because another Harper is nearby, and nothing about the leak is rolled.
+> Until **Harper Leak Closed**, every operational entry that a member passes to a Harper contact other than Mirt is entered in the records-relay register that day. Tobin copies it to Beldan Rusk exactly 48 hours later, and the Splinter acts on what it contains.
 >
-> When the forty-eight hours pass, record the copied names, locations and timings as a delivered report. Rusk hands those entries to Manshoon's cell in the same delivery, so the cell can anticipate specific moves in **Kolat Towers**. It knows only what was copied, and it never learns complete plans or anything only the party knows. Closing the leak stops any copies still queued in Orren's hands, and information already delivered stays delivered.
->
-> Orren's Manshoon channel is separate from Corene's parasite and Nihiloor's intelligence, and this leak never sends copied information to Xanathar's Guild.
+> - Mirt in person and paper birds that carry only meeting times are not entered in the register.
+> - A report does not leak because another Harper is standing nearby.
+> - Copies already delivered stay delivered. Closing the leak stops any copies still waiting in Tobin's hands.
+> - Nothing is rolled. Note each operational detail a member passes through a non-Mirt channel with the date, because **The Sleeping Asset** reads it.
 
 ### Renown Opportunities
 
-This standalone warning grants no Renown, gold or Milestone Points. Mirt's assurance and a safer reporting route are the immediate benefits, and **The Sleeping Asset** carries the operational investigation and its mission awards.
+This Event awards no Renown, gold or Milestone Points. Mirt's assurance and the new protocol are the benefit. **The Sleeping Asset** carries the investigation and its awards.
 
 ### Aftermath
 
-After the private meeting, the members can share the new protocol with their helping companions, who don't become Harper recruits by hearing it. The protocol changes where the members send intelligence, and finding the clerk and cutting off his access is separate work for later.
+Mirt does not follow up unless a member sends a bird. Members who share the protocol with companions do not recruit them, and Mirt tells a member who asks that companions may carry meeting times but nothing else. The leak stays open, and the mole stays in place, until **The Sleeping Asset**.
+
+If a member passes operational detail through a non-Mirt channel after this meeting, apply **The Fixed Leak Rule**. Mirt learns of it only if the member tells him.
 
 ### Concluding the Event
 
-The warning concludes when the members have reviewed what they disclosed and received the private reporting procedure.
+The Event concludes when Mirt has briefed the member on the leak and given the protocol.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Harper Leak Known** — mark when Mirt briefs the members on the compromised register; **The Sleeping Asset** reads it as awareness only, so the source is still unidentified and still in place.
-> - **Harper Private Protocol Adopted** — mark when the members agree to use Mirt's direct route, and note any later deviations; **The Sleeping Asset** reads the channels the members actually used, and copies already queued keep their deadlines.
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Harper Leak Known** — mark for each member Mirt briefs in the rented room; read by **The Sleeping Asset** and by the rank events **Harpshadow**, **Brightcandle**, **Wise Owl** and **High Harper**.
+> - **Harper Private Protocol Adopted** — mark for each member who agrees to bring operational intelligence only to Mirt, and note any later report that goes through another channel; read by **The Sleeping Asset**, which checks which channels the member used.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Sleeping Asset** becomes available to Harper members at Renown 10 and 6th level after **A Friend's House**. Its investigation can mark **Harper Mole Identified** and **Harper Leak Closed**, which this warning never supplies, and this event awards no Milestone Points.
+> **The Sleeping Asset** becomes available when an individual Harper member reaches Renown 10 and 6th level. Mirt arrives at dawn by the back door for that briefing. This Event awards no Milestone Points.
 
 ## Overview
 
-Mirt calls the Harper members to a rented room and shows them evidence that someone is passing their operational reports to hostile recipients.
+Mirt calls the Harper members to a rented room in the North Ward and tells them someone in the cell is passing reports to the Splinter. He gives them a protocol that keeps their next reports private.
 
 ## Summary
 
-We compared the information we had shared with Mirt's evidence and learned which reporting route remained private. We knew the cell had a leak, but the sender's identity and the closure of that route still required investigation.
+Mirt called us to a rented room on Brondar's Way, and he left the wine sealed. He showed us how the Splinter had acted on things only Harpers knew, and he told us he had fourteen suspects and no name. We agreed to bring our reports to him in person and to send nothing but meeting times by bird.

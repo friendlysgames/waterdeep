@@ -1,23 +1,26 @@
 # Design Notes: The Stone's Other Master
 
-## A Request with Separate Pressure
+## On the Undermountain Seed
 
-Mirt asks for consent because Harper membership doesn't give him ownership of the Stone. The holder can supervise, negotiate written terms or refuse, and the Splinter raid comes at 02:00 whichever they choose. If the party has moved the Stone, the attackers find only what is there, and nobody has to return to the tavern to make the scene work.
+***Illuun as the campaign's structural through-line.*** The Stone's activation resonating with an abolethic dreamer below the city is the Waterdeep-to-Undermountain bridge thread that the campaign's cross-arc design requires. Mirt detecting this resonance and asking for three days to study it is the vehicle that delivers this information to the party in a way that has weight — they have to decide how much they trust Mirt, and the stakes of the decision are clear. Burying the information in a Harper briefing note would not produce that decision point.
 
-The three-day study runs from the recorded transfer time and the restored-Eye count, and it doesn't depend on which lair the party hit first. If the Stone is lost, the study waits until the party recovers it and the holder agrees again, so no result ever appears while it sits in enemy hands.
+The Illuun connection is named in the Background block but kept out of the player-facing content. The party learns what the resonance is only if they comply and ask directly. If they refuse, Mirt's comment before leaving — "It knows it's going to be used. It has been patient. I don't know for what." — is the only hook they carry into Arc J.
 
-## A Fight with Recoverable Custody
+## On Jalester Silvermane
 
-The roster is four creatures. The Spy leader stays apart from the three-person assault unless he joins it. The Mage can take the Stone only when it is unattended, and she has to hold it until her next turn before she escapes. Ending Invisibility before Dimension Door gives the party a visible Counterspell window, and the fixed rendezvous, three hundred feet away, makes recovery on foot realistic.
+***The compromise revelation is optional, not mandatory.*** The party learns the compromised contact's name only if they gave Mirt the Stone AND asked directly whether the study found anything. The revelation is not a trap — Jalester is not villainous, and the compromise is not a betrayal; it is an accident of geography. But its impact on the party's relationship with the Lords' Alliance is significant enough that the DM should reserve it for parties who actively pursued the information.
 
-Mirt uses his modified CR 9 block instead of the generic Warrior Veteran. His protective trigger commits real attacks when the holder or civilians are threatened, and the reference counts that ally Power in place of treating defensive Help as full offense. Party size and first-turn knockout risk each have their own branch.
+***Renaer as the alternate.*** If the party has had minimal contact with Jalester, Renaer Neverember is the alternate — use whichever name the party has a stronger relationship with. The reveal should be a person, not a mechanics flag. Using a name the party barely remembers produces no dramatic effect. The design note in the source material says "use whichever the party knows better, as the revelation lands harder with a familiar face" — this is the correct principle. When adapting for a specific party, the DM should confirm which Jalester or Renaer thread is more active and choose accordingly.
 
-## The Stone and the Paired Channel
+## On the Splinter Raid
 
-The 2024 Sending Stones entry is XDMG p.303 in the verified [item source record](https://raw.githubusercontent.com/5etools-mirror-3/5etools-src/main/data/items.json). Its pair shares one use until dawn and reaches the bearer of the mate. It has no passive listening and no object teleport. Recognizing a voice from a previous meeting needs an actual reply, and a false message may or may not be believed.
+***The raid fires regardless.*** This is the most important structural note: the Splinter moves on Trollskull Manor whether the party agreed to Mirt's request or refused. The raid is not a consequence of the negotiation's outcome. It is a consequence of Mirt arriving at the tavern. A Splinter watcher was tracking the Stone's magical signature; Mirt's presence was reported before the party made any decision. The party cannot prevent the raid by refusing Mirt. This keeps the event from feeling like a punishment for compliance and clarifies that Manshoon's intelligence operation is operating independently of the party's choices.
 
-Jalester is the fixed psychic contact. His name comes out only after consent, the completed study and a direct question, so the study reward doesn't reveal him by itself. Renaer is never swapped in for a more emotional payoff. Jalester is unwitting and not disloyal, which keeps a monitored route distinct from a hostile faction.
+***The squad leader's sending stone.*** Keyed to Manshoon's voice directly, this is the most significant trophy from the raid. A party that heard Manshoon in Arc I can recognize the voice immediately. A party that has not can still use the stone operationally — Mirt describes several options. The stone's value as campaign intelligence (confirmation that Manshoon is directly monitoring the Stone's location) is separate from whatever the party does with it tactically.
 
-## Intended External Readers
+## Cross-Arc Consequences
 
-Jalester Compromise Identified feeds the Lords' Alliance M6 and Vault of Dragons readers, and raid observations carry to Manshoon only the facts that were actually delivered. Some external pages still hold older claims about an alternate contact and a passive channel. Those claims are outside this scope, and this event records the intended state for later integration.
+This mission generates no attunement flags of its own, but it feeds three downstream threads directly:
+- **Arc F:** The compromised contact chain and the Nihiloor thread both originate here.
+- **Arc I:** The Splinter raid confirms Manshoon's operational awareness, which shapes the Kolat Towers infiltration's difficulty.
+- **Arc J:** The Jalester/Renaer compromise flag changes how the party can trust their intelligence network during the vault convergence.
