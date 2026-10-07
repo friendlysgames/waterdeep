@@ -103,6 +103,15 @@ The *Scarlet Marpenoth* — whose brass model stands in the House of Inspired Ha
 >
 > Do not call attention to NW-03 unless the party reads the full ledger. If they do, Victoro's name appears without explanation. A DC 14 Intelligence (History) check identifies Victoro Cassalanter as a Sea Ward patrician and prominent Waterdavian noble. The VOID notation is cryptic — the entry was canceled before delivery. The reason ("unspecified concerns re: detection") implies Victoro ran his own intelligence assessment. He was more cautious than the Gralhunds.
 
+### Who Zord Is
+
+The party can learn that Captain Zord is Jarlaxle Baenre in two ways during this event:
+
+- **The ledger.** Both folios open with the seller's line, "Sold through the Eyecatcher, J. Baenre, for the Company." A character who reads either ledger and makes a successful DC 14 Intelligence (History) check knows the name: Jarlaxle Baenre, a drow mercenary captain of some legend. On a failure the name means nothing yet, and the character can ask about it later.
+- **The cabin.** A Bregan D'Aerthe member taken to his private cabin (below) sees the persona drop. He names himself.
+
+Asking Zord directly (Path 1) or watching the crystal ball (Path 3) does not give the name on its own.
+
 ### For Bregan D'Aerthe Characters
 
 Any party member who is a Bregan D'Aerthe operative is escorted from the main deck directly to Jarlaxle's private cabin rather than the public meeting room.
@@ -121,6 +130,9 @@ The party stole seller records from the Heartbreaker or Eyecatcher. True = Jarla
 
 #### Ledger Complete: True / False
 Record only when *Nimblewright Ledger Stolen* is True. True = records from the Eyecatcher (complete chain of sale). False = Heartbreaker only (partial). Read by Gralhund Villa (intelligence depth).
+
+#### Jarlaxle Unmasked (per character)
+Mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member is looking for the man they met as Zord), and by **Sea Maidens Faire**.
 
 #### Crystal Ball Accessed: True / False
 The party accessed the Scarlet Marpenoth's crystal ball footage. True = maximum intelligence; Jarlaxle discovers the access and does not deploy; is curious about who found the sub. Read by Gralhund Villa.
