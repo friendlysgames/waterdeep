@@ -1,19 +1,17 @@
 # Design Notes: The Sleeping Asset
 
-## Two Independent Compromises
+## On the Diagnostic Structure
 
-Orren serves Manshoon's Splinter through registered copies, while Corene's parasite feeds Nihiloor through its fixed daily link. Each compromise has its own outcome, so a rescue can't quietly close the clerk's access and a captured clerk can't release the occupied agent. Intelligence that has already been delivered survives either closure, and later opposition is limited to what was actually sent.
+***Three H4 beats under one detection phase.*** The source material describes Corene's wrongness in a block of undifferentiated prose. The revision structures the detection across three diagnostic approaches — Insight on surface behavior, Arcana/Medicine on physical signs, and Detect Thoughts on the psychic layer — because each approach reveals something different and at a different tier of engagement. A party that only looks at Corene casually fails the Insight check and finds nothing odd. A party that engages in sustained conversation surfaces the flat affect. A party that casts Detect Thoughts discovers the devourer is aware. These are three distinct discoveries, not three ways to reach the same one.
 
-Orren's records, the collection surveillance and the uniquely assigned bait destination each identify his route on their own. The collection point follows the state of the M2 ledger, and the false report's rendezvous on the fourth morning leaves room for the forty-eight-hour delivery rule. Orren avoids violence, so you can remove him through evidence and administrative authority and no named-adversary fight is required.
+***The devourer knows about the spell.*** This is the mission's most important tactical note and is placed in the GM zone rather than the scene description because it determines the devourer's behavior for the rest of the encounter. If the party does not use Detect Thoughts, the devourer does not tip its hand. If they do, it knows they know. What the devourer does next — in a brain, in a social situation, while Corene is pretending to be fine — is genuinely unsettling to run.
 
-## A Living Rescue under 2024 Rules
+## On the Resolution Paths
 
-The published Intellect Devourer consumes its host's brain, so an ordinary ejection couldn't support the approved Long Rest recovery. This mission uses the brain-preserving occupation curse documented in the mechanics reference. *Remove Curse* on a visible host ends that specific curse, while Total Cover and visibility still stop *Telekinesis* and *Banishment* from targeting the hidden creature.
+***No obviously correct answer.*** The extraction is the best outcome for Corene as a person and yields the most intelligence. The double-agent option plants a false piece of information inside the lair before Arc F, which is mechanically valuable but carries real risk. Killing her is grim and yields nothing but removes an active surveillance problem. The mission does not punish the kill option with extra consequences — it simply forfeits the intelligence the other paths recover. Mirt accepts the outcome without comment. That acceptance is intentionally uncomfortable.
 
-Remallia's event-specific service gives parties without the spell a live-capture route. It has a prepared nearest-free ejection space, a solid hatch and readied movement that carries Corene away. Those preparations remove the reoccupation risk from a promised rescue, and the creature stays as dangerous as ever in an unprepared street extraction.
+***The double agent's planted intelligence.*** If the double-agent path is chosen, the false information Mirt plants should be specific and consequential — guard patrol timing that creates a window in Arc F, a dummy meeting location that reveals a surveillance gap, or a name that draws attention away from the correct one. The DM should decide what was planted before Arc F begins, because the party will encounter the effect of it in the lair without knowing whether their plant succeeded.
 
-## Diagnosis and Consequences
+## On Nihiloor
 
-The timeline fits four months undercover, a missed check-in three weeks ago and an implantation twelve days ago, with nine days of legitimate isolation in between. Sustained checks, thought probing and a fixed personal-memory comparison give the party several ways to diagnose her. *Detect Thoughts* keeps its printed surface and deeper-probe awareness rules, so casting it doesn't alert every target.
-
-A rescue returns specific intelligence after one Long Rest. A lethal resolution produces the fixed fourteen-day surface response, and deception draws two existing warehouse guards away for a limited time. None of these gives the party secret knowledge of the full lair roster, and none awards the general Renown 30 benefit at Renown 10. The external profiles and lair readers stay as they are, and the approved mechanics and scoped outcomes govern this draft.
+***The Nihiloor connection is DM-only.*** The fact that Corene's devourer is one of Nihiloor's is in the Background block, not the player-facing scene. The party learns this in the Arc F briefing hooks when Mirt offers tactical support in exchange for committing to eliminating Nihiloor. "Three devourers. Three of ours." The Sleeping Asset is the evidence behind that bargain. When the party hears it in the Arc F briefing, it has emotional weight because they saw what it looked like.
