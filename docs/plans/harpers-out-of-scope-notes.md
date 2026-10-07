@@ -418,7 +418,7 @@ Sources for this section are the Session 39 research files in `docs/plans/bregan
 - **:14** — Pouches arrive "at the party's door". The events give the first pouch to one named member.
 - **:16** — A Renown 5+ *Scarlet Marpenoth* extraction after M4. It was never implemented, and r03 excludes the *Eyecatcher*.
 - **:29** — M1 is delivered via theater tickets to Kreb Sorrush. Now Nevercott briefs at the manor on Ches 20.
-- **:33** — The Vault proposal at "Dread Lord renown". BD has no such rank. r25 delivers it at Commander.
+- **:33** — The Vault proposal at "Dread Lord renown". BD has no such rank. r25 delivers it at Commander. The same row names Laeral Silverhand as the gold's recipient, while r25 and `player-factions-overview.md:182` say only "return the gold publicly in the party's name".
 - **:36–37** — Joined and Severed are party-wide and permanent. The events make both per member, and Severed lasts through Act III.
 - **:56–60** — The three-favor list, Uncommon item, assessment and 20% fence discount aren't in Appendix B l.790–796 **(05)**.
   - :57 says Jarlaxle shares the intelligence. In r03, Nevercott delivers it.
@@ -435,7 +435,7 @@ Sources for this section are the Session 39 research files in `docs/plans/bregan
 `campaign/guides/gm-guide/player-factions-overview.md`:
 
 - **:169, :173, :176** — Joined, Severed and Acknowledged are party-wide. One Watch report closes BD "for the entire campaign". **BD Acknowledged** is never written by the BD first meeting.
-- **:182** — "Dread Lord renown".
+- **:182** — ~~"Dread Lord renown".~~ Resolved: the line now says only that the obligation comes due in **Vault of Dragons** (checked in the Session 39 clarity pass).
 
 Appendix B (sources): l.715 says BD recruits "only drow", and l.761 has Nevercott name BD outright. The repo takes any PC and has him say it once, if pressed. Appendix B writes "ends contact for now", so Severed may be reversible. Nothing in the guide says so.
 
@@ -506,7 +506,7 @@ Appendix B (sources): l.715 says BD recruits "only drow", and l.761 has Nevercot
   - Party-level BD gating, and no reader for **BD Contact Severed**.
   - The "Operative" rank label and the Eye 3 handling both need rewriting when arc-h is converted.
 - **arc-j:** :55 reads "completed Mission 6" and "Dread Lord renown"; :75 and :322 "Manshoon outpost"; nothing wired to the **Marpenoth** outcomes or **Guild Survivor Escaped**.
-- **SOURCE_GUIDE.md** (~:219) puts the windmill in the North Ward. Appendix C l.1507 says Southern Ward, and the BD M5 events use the North Ward. It also claims Sargauth as a BD seat, which WDMM doesn't support.
+- **SOURCE_GUIDE.md** (~:219) puts the windmill in the North Ward. Appendix C l.1507 says Southern Ward, and the BD M5 events now use Coachlamp Lane in the Southern Ward. It also claims Sargauth as a BD seat, which WDMM doesn't support.
 
 ### 7. Location pages
 
@@ -564,3 +564,16 @@ The Session 39 DR QA (`docs/plans/doom-raiders-consistency-pass-s39.md`) fixed e
 - **Senna Vael.** `setting/notable-figures/doom-raiders/07-senna-vael.md`, org page 06 and `guides/trollskull-manor/03-staff-and-hiring.md` use her, but no DR event does.
 - **Seven Masks Lead.** No BD event reads it. Its readers are Faction Outposts and Sea Maidens Faire (both unconverted).
 
+## Bregan D'aerthe clarity pass (Session 39)
+
+The clarity re-polish fixed these in-folder issues, so they need no outside writer:
+- s03: the design notes described a **Nar'l Eliminated** dinner the event never runs. They now match the event.
+- s05: Soluun's disc answer contradicted the GM text about who struck the forgery.
+- M5: the Lifted Stub Advantage window, the ungated "captain's in the box" line and the overview's lobby time.
+- M6: "three ways" listed four, and Nell still had the cut paper bird.
+- r25: Pelsha's hair colour, and a stale design-notes claim about `player-factions-overview.md:182`.
+- r50: a "prayer" line against the Lolth-contempt rule, and a first-page/second-page mismatch.
+
+Still open outside BD:
+- **M6 vs Deepwater Harbor naming.** The M6 overview now says "the harbor", and ev-01's Underwater Rules say "Deepwater Harbor". Settle a single name when the Faire location pages are revised.
+- **r25 Kreb branch.** If **Kreb Unmasked** is unmarked, Krebbyg "keeps out of the scene", but his booking-office version receives the member. s02 marks Kreb Unmasked for every member before r25 can fire, so this branch is effectively dead. Cut it in a later pass.
