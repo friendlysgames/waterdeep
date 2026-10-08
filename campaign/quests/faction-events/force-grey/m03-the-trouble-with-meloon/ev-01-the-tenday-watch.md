@@ -42,7 +42,7 @@ The *Sending* is exactly 25 words, and a member can answer in up to 25 words, th
 >
 > The street door of Blackstaff Tower swings open before anyone knocks, and the stair beyond climbs past more floors than the outside of the building has. Vajra Safahr stands at a tall desk at the top with a notebook open, and the room has no chair for visitors. She finishes a line, caps her ink and looks at each of you in turn.
 >
-> > "Meloon Wardragon is one of mine, and he hasn't filed a report in three weeks. Half the Portal says he's drunk and the other half says he's cursed."
+> > "Meloon Wardragon is one of mine, and he hasn't filed a report in three tendays. Half the Portal says he's drunk and the other half says he's cursed."
 >
 > She sets the pen down on the notebook.
 >
@@ -125,19 +125,19 @@ Meloon's table has two empty chairs that regulars used to fill without being ask
 >
 > Durnan turns the mug a quarter turn in the rag.
 >
-> > "Meloon hasn't sworn once in a month. That's wrong."
+> > "Hasn't sworn in a month."
 
 > [!qna]**What's wrong with him?**
 >
-> > "Fuck if I know. He orders drinks and never touches them."
+> > "Fuck if I know."
 
 > [!qna]**Where does he sleep?**
 >
-> > "Upstairs, end of the hall. The gallery rail looks straight at his door."
+> > "Upstairs, end of the hall."
 
 > [!qna]**Can we use your back room?**
 >
-> > "Not in my taproom. Back room's free."
+> > "Not here. Back room's free."
 
 ### The Morning Ritual
 

@@ -56,7 +56,7 @@ A restored Orvyn returns to his desk after a tenday, and Vajra audits the other 
 ## Involved Characters
 
 - **Vajra Safahr** (Force Grey): briefs and debriefs the members and casts the ward and three *Dispel Magic* spells if she holds the ledger.
-- **Orvyn Dall** (Waterdeep Watch): the appeals clerk the devourer rides.
+- **Orvyn Dall** (Trades Ward magistracy appeals clerk): the host the devourer rides.
 - **Dobb Ketterly** (Xanathar's Guild): the dockhand who carries the devourer's reports.
 - **Ketha Rudd** and **Alder Yost** (Xanathar's Guild): the two Guild representatives who reached the precinct by channels they should not have had.
 - **Brenna Tull** (independent): the widow in the flat below Orvyn's, who calls the Watch if she hears a fight.

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event begins when a Force Grey member who marked **M3 Complete** prepares for **Xanathar's Lair** (unconverted), and it ends when the party leaves Blackstaff Tower for the lair. Play it in place of Vajra's lair consultation in Scene 1 of that quest. In this Event, the party can:
+> This Social Event begins when a Force Grey member who marked **M3 Complete** prepares for **Xanathar's Lair** (unconverted), and it ends when the party leaves Blackstaff Tower for the lair. Vajra's brief comes in addition to her lair consultation in Scene 1 of that quest. In this Event, the party can:
 >
 > - Receive Vajra's *Sending* and take her brief at the standing desk.
 > - Learn what she knows about the pool in Nihiloor's wing, and what she will not say.
@@ -89,7 +89,7 @@ Vajra hands out the supplies herself, and Merris signs out the holy water becaus
 > [!exploration]**The Supplies**
 >
 > - **Potions of resistance:** one *potion of resistance* (psychic) for each character who goes below, member or companion, lasting 1 hour, so each character drinks it at the wing door.
-> - **Holy water:** four vials, signed out to the member who holds the brief and worth 25 gp each.
+> - **Holy water:** four vials worth 25 gp each, signed out to the member who holds the brief. Merris supplies his standing two, and Vajra adds two from her own study for the Pool.
 > - **Water breathing:** one spare *potion of water breathing*, which lasts 24 hours, for a stretch of the sewer approach that has flooded.
 > - ***Raise dead*:** Vajra covers the cost of any *raise dead* the lair makes necessary for a character who dies below.
 >
@@ -180,7 +180,7 @@ If **M3 Complete** is marked after the party has finished the lair, this Event i
 
 > [!readaloud]
 >
-> You are in the middle of something ordinary when a dry, flat voice arrives behind your eyes. It gives no greeting, it moves fast, and nobody near you hears a word of it.
+> Vajra's dry voice arrives as before.
 >
 > > "Xanathar's Lair is done. Report to Blackstaff Tower. Members only. Tell me what Nihiloor kept in his wing, and what you carried out of it."
 >
@@ -191,8 +191,8 @@ The *Sending* is exactly 25 words. At the Tower, ask what the party did in X23 t
 > [!gamemaster]**Reading the Wing**
 >
 > - **The party never entered the wing:** Mark nothing, and Vajra says "Force Grey will handle it." No Renown is awarded, and the pool stands as far as the campaign is concerned, so **The Legate's Eyes** finds new hosts arriving.
-> - **The party brought the lair down with the smokepowder:** Mark **Nihiloor Fled** only, because the wing is rubble and Nihiloor escaped with his projects intact. Vajra says the factory has moved below the city, and no Renown is awarded.
-> - **The party entered the wing:** Mark the outcomes from what happened there, using the conditions in **Nihiloor's Wing**, and mark **Nihiloor Fled** whenever Nihiloor left the wing. Award the Mission Renown from that Event, and play **Vajra's Debrief** from it.
+> - **The party brought the lair down with the smokepowder:** Mark nothing here, because the wing is rubble and Nihiloor escaped with his projects intact. The outcome block of **Nihiloor's Wing** is the only place that marks **Nihiloor Fled**. Vajra says the factory has moved below the city, and no Renown is awarded.
+> - **The party entered the wing:** Mark the outcomes from what happened there, using the conditions in **Nihiloor's Wing**. Its outcome block is the only place that marks **Nihiloor Fled**. Award the Mission Renown from that Event, and play **Vajra's Debrief** from it.
 
 ### Concluding the Event
 

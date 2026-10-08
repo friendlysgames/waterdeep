@@ -211,7 +211,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 >
 > During combat, Zelifarn:
 > - Swims away from anyone who follows him, and takes the Dash action if he is hit.
-> - Uses his Bite or Lightning Breath only if a character blocks his route.
+> - Uses his Rend (+8 to hit, 16 Slashing damage) or Lightning Breath only if a character blocks his route.
 > - Calls out in a high, hurt voice that he is leaving.
 >
 > The fight ends when Zelifarn is out of sight, which happens at the end of his first turn at the latest. He does not surface near the party again in this mission. Mark **Zelifarn Contacted** only if the party spoke with him before the attack.
@@ -224,7 +224,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 
 > [!social]**The Bronze Dragon in the Wreck**
 >
-> Zelifarn (Neutral, Bronze Dragon, he/him) :: a bright, bouncy young dragon who trades facts the way sailors trade rumors, and who never lies.
+> Zelifarn (Lawful Good, Bronze Dragon, he/him) :: a bright, bouncy young dragon who trades facts the way sailors trade rumors, and who never lies.
 >
 > Zelifarn is delighted by visitors and wants to know what everything is, and he calls ships by their names and people by what they are wearing. He does not understand secrets and answers anyone who asks him a question, and he picks up rude sailor words and uses them wrong.
 >

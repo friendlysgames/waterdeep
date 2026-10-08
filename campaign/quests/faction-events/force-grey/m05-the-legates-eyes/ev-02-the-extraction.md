@@ -298,10 +298,10 @@ Vajra's debrief ends the mission. Record what happened to Orvyn and what happene
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Orvyn Restored** — mark when Orvyn is alive and free of the devourer; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
-> - **Orvyn Lost** — mark when Orvyn dies; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
-> - **Orvyn Left in Place** — mark while the party deliberately keeps the occupation; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
-> - **Orvyn Ledger Delivered** — mark when the ledger is in Vajra's hands; read by **Smoke in the Tower** (unconverted) and **Vault of Dragons** (unconverted).
+> - **Orvyn Restored** — mark when Orvyn is alive and free of the devourer; read by **Smoke in the Tower** and **Force Grey** (the r25 rank event).
+> - **Orvyn Lost** — mark when Orvyn dies; read by **Smoke in the Tower** and **Force Grey** (the r25 rank event).
+> - **Orvyn Left in Place** — mark while the party deliberately keeps the occupation; read by **Smoke in the Tower** and **Vault of Dragons** (unconverted) where relevant.
+> - **Orvyn Ledger Delivered** — mark when the ledger is in Vajra's hands; read by **Smoke in the Tower** and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**
 >

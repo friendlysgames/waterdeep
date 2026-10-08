@@ -52,7 +52,7 @@ The member climbs on their own. The door opens as they reach the steps, the same
 >
 > Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who is lending out people she has to account for.
 >
-> Vajra is Indifferent toward the member, though she is more open than at the last meeting. She stands at the desk and gives her conclusion first, then one or two sentences of reasons. She swears rarely in front of a member and mildly when she does. She changes the subject when anyone remarks on her youth.
+> Vajra is Indifferent toward the member, though she is more open than at the last meeting. She stands at the desk and gives her conclusion first, then one or two sentences of reasons. She swears casually in her own study and keeps it clean in public. She changes the subject when anyone remarks on her youth.
 >
 > Vajra is happy to discuss the following topics:
 >
@@ -96,6 +96,8 @@ If **Meloon Restored** is marked and the party holds the *wand of secrets* from 
 >
 > > "You have the wand, so I will skip that part. Meloon asks after you at the Portal, and he says you have a drink coming. He phrased it more rudely than I will."
 
+If **Meloon Restored** is marked and the party holds no wand because it was lost or sold, Vajra takes one from the cabinet. She holds it out and says, "Meloon would want you to have this, so don't lose this one."
+
 If **Meloon Lost** is marked and the party holds no wand, read or paraphrase the following:
 
 > [!readaloud]
@@ -104,7 +106,7 @@ If **Meloon Lost** is marked and the party holds no wand, read or paraphrase the
 >
 > > "I kept this back after the Portal, and I should not have. I still have Azuredge downstairs, and I will not discuss it today."
 
-If neither outcome applies (the party never played **The Trouble with Meloon**, or the wand was lost or sold) and the party holds no wand, read or paraphrase the following:
+If neither outcome applies (the party never played **The Trouble with Meloon**) and the party holds no wand, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -117,7 +119,7 @@ If the party holds a wand and neither Meloon outcome is marked, Vajra says "Then
 > [!exploration]**The Wand**
 >
 > - **Who gets it:** the party, once. The member carries it and shares it with companions. Use the item's entry in the 2024 *Dungeon Master's Guide* for charges and what it detects.
-> - **When it is not given:** if the party already holds a *wand of secrets*, whatever its source, Vajra gives none. A wand that was destroyed, sold or lost is not replaced.
+> - **When it is not given:** if the party already holds a *wand of secrets*, whatever its source, Vajra gives none. If the party lost or sold the wand it got from **The Trouble with Meloon**, Vajra hands over one more.
 > - **Paperwork:** Merris writes it against the member's name.
 
 ### Ysmay Halvane
@@ -179,7 +181,7 @@ Vajra turns her head toward the window, and the woman in the grey coat steps for
 
 > [!gamemaster]**Ysmay as an Ally**
 >
-> Ysmay uses the 2024 **Mage** stat block as printed (CR 6, AC 15, 81 Hit Points). She has three Arcane Burst attacks, *Fireball* twice a day, *Invisibility* twice a day, *Cone of Cold*, *Fly* and *Misty Step* three times a day, and Protective Magic three times a day for *Counterspell* or *Shield*, but she has no *Contingency*.
+> Ysmay uses the 2024 **Mage** stat block as printed (CR 6, AC 15, 81 Hit Points). She has three Arcane Burst attacks, *Cone of Cold* and *Fly* once a day each, *Misty Step* three times a day, *Fireball* and *Invisibility* twice a day each, and Protective Magic three times a day for *Counterspell* or *Shield*, but she has no *Contingency*.
 >
 > In CR 2.0 terms, her Power is 80 for a party of levels 1 to 4, 65 for levels 5 to 10 and 50 for levels 11 and above, following the party's level. Add that to the party's Power when she fights and recalculate the encounter. The first-turn knockout bonus does not apply to allies. An ally who is on the way does not lower the difficulty.
 >

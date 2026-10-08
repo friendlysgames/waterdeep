@@ -55,7 +55,7 @@ The member climbs on their own. The door opens as they reach the steps, as it di
 >
 > Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who treats a rank as a decision to rely on someone.
 >
-> Vajra is Friendly toward the member and still brisk. She stands throughout, gives her conclusion first and explains it in a sentence or two. She swears rarely and mildly in front of a member, and she answers any remark about her youth with a cold look and the next topic.
+> Vajra is Friendly toward the member and still brisk. She stands throughout, gives her conclusion first and explains it in a sentence or two. She swears casually in her own study and keeps it clean in public, and she answers any remark about her youth with a cold look and the next topic.
 >
 > Vajra is happy to discuss the following topics:
 >
@@ -83,7 +83,7 @@ If **Orvyn Restored** is marked, Vajra adds one line before the badge. Read or p
 >
 > Vajra squares the ledger against the edge of the desk and looks at the member before she says anything else.
 >
-> > "Orvyn Dall is back at his desk in the Hall of Records, and the Watch has asked me nothing about him."
+> > "Orvyn Dall is back at his desk in the appeals office, and the Watch has asked me nothing about him."
 
 If **Orvyn Lost** is marked, read or paraphrase the following instead:
 

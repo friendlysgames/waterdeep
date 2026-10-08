@@ -1,4 +1,4 @@
-# The Wrong Shelf: Overview
+# Smoke in the Tower: Overview
 
 > [!gamemaster]**Quest Requirements**
 >
@@ -76,7 +76,7 @@ The outcomes feed **Vault of Dragons** (unconverted) and **Force Grey Commander*
 
 - **Vajra Safahr** (Force Grey): briefs the members, holds the wards from her study and reads the Open Lord's letter.
 - **Orla Venn** (Force Grey): the Tower attendant who fetches the members and writes the statements.
-- **Ysmay Halvane** (Force Grey): a Tower mage who keeps the library and compares certificate seals.
+- **Ysmay Halvane** (Force Grey): a Tower staff mage who compares certificate seals.
 - **Merris** (Force Grey): the quartermaster, who keeps the door-ward log.
 - **Vira Solkan** (the Splinter): the junior arcanist who placed the disruptor.
 - **Tavor Aldeth** (the Splinter): the Mage who leads the raid.

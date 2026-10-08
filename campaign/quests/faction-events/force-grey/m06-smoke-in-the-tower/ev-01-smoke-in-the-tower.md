@@ -46,7 +46,7 @@ The door of Blackstaff Tower opens as the party reaches the steps, as it always 
 
 > [!social]**The Blackstaff Without an Audience**
 >
-> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, speaking in private to people she trusts and swearing freely for the first time in any of their meetings.
+> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep, speaking in private to people she trusts and swearing harder than the members have heard from her.
 >
 > Vajra stands at the window for the whole brief and gives her orders in plain, full sentences. She is tired and angry at the Tower and not at the members, and she swears the way she does at the end of a bad week, in rants and without apology. A member who asks if she is alright gets one word.
 >
@@ -156,7 +156,7 @@ Vajra's staff will talk, but they will not volunteer a name they are not sure of
 >
 > Orla Venn (Neutral, Human, she/her) :: the Tower attendant, who runs errands to every floor and sees everyone twice a day.
 >
-> Orla chats and does not guess. Ysmay Halvane, a Tower mage who keeps the second-floor library, speaks in careful sentences, and Merris, the quartermaster, licks his thumb and says as little as he can. None of the three swears, and each answers plainly.
+> Orla chats and does not guess. Ysmay Halvane, a Tower staff mage, speaks in careful sentences, and Merris, the quartermaster, licks his thumb and says as little as he can. None of the three swears, and each answers plainly.
 >
 > The three are willing to discuss the following topics:
 >

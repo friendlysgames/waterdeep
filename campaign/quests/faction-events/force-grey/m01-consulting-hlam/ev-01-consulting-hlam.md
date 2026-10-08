@@ -4,7 +4,7 @@
 >
 > This Social and Exploration Event begins when Vajra's *Sending* reaches a Force Grey member and ends when the members report to her at Blackstaff Tower. In this Event, the party can:
 >
-> - Take Vajra's 25-word brief and send up to three replies, each answered by a fresh *Sending*.
+> - Take Vajra's 25-word brief and send up to four replies, each answered by a fresh *Sending*.
 > - Climb Mount Waterdeep's western slope, where a failed saving throw on the scramble costs a level of Exhaustion.
 > - Answer Hlam's question about who sent them, honestly, evasively or with a lie.
 > - Win his first answer, and then his second answer, which is a riddle he will not explain.
@@ -34,7 +34,7 @@ The *Sending* reaches the Force Grey member with the highest Wisdom score, or th
 >
 > You know the voice is Vajra's and that you can answer it, in no more than twenty-five words.
 
-The member can reply once or several times. Vajra answers the first three replies, each with a new *Sending* of exactly 25 words, and ignores a fourth. A reply that asks about her staff or about Undermountain gets no answer.
+The member can reply once or several times. Vajra answers the first four replies, each with a new *Sending* of exactly 25 words, and ignores a fifth. A reply that asks about her staff or about Undermountain gets no answer.
 
 > [!social]**The Voice Behind the Eyes**
 >
@@ -122,7 +122,7 @@ Once everyone has found a place on the ledge, read the following aloud:
 >
 > Hlam sets the empty cup on the stone and waits until each of you is settled on the ledge. He looks at the party for a long moment before he speaks.
 >
-> > Sit, student, because the tea is gone but the view is free, and nobody here is in a hurry. Who sent you?
+> > Sit, student, because my cup is empty but the view is free, and nobody here is in a hurry. Who sent you?
 
 > [!exploration]**Who Sent You?**
 >
@@ -233,7 +233,7 @@ When the members reach the last message, the report turns on one decision. They 
 >
 > > You left out the beginning, and he said something about me in it, so say it as he said it.
 
-If the member gives it in full at any point before she dismisses them, the +1 Renown below is earned. If every member refuses, Vajra says, "Then I have the rest. Leave it," writes what she has, and does not press. You should mark **Buried Thing Reported** all the same.
+If the member gives it in full at any point before she dismisses them, the +1 Renown below is earned. If every member refuses, Vajra says, "Then I have the rest. Leave it," writes what she has, and does not press. Leave **Buried Thing Reported** unmarked, because she has not received the message.
 
 When a member gives the message word for word, read the following aloud:
 

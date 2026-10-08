@@ -57,7 +57,7 @@ The party defends the ground floor, which holds the door hall, the north service
 > - **Rounds 1 to 10.** No raider can cross the landing to the second floor, and a raider on the stair stops at the landing against an invisible wall of force. No save applies.
 > - **Round 11 on.** The second floor opens, and in each round that at least one raider is above the ground floor one member of the Tower's staff is lost. Lose them in this order: Dessa Quillon (copyist), Harl Merrow (archivist), Ilsabet Crane (junior arcanist), Jory Pellin (porter) and Sabel Orrin (ward-keeper's assistant).
 > - **Round 16 on.** The third floor opens. If a raider reaches Vajra's study, she ends the raid herself and seals the Tower for a tenday, and the party did not stop the attack.
-> - **Won.** The attack is stopped when every raider is down, driven out or captured, or the Mage has left, before round 11 ends.
+> - **Won.** The attack is stopped when every raider is down, driven out or captured, or the Mage has left, before round 11 begins.
 >
 > **If the disruptor fired.** There is no ward clock, and raiders can climb from round 1. Every creature in the Tower has its Concentration ended and cannot cast a spell of 3rd level or higher until the end of its next turn, and Vajra's study seal fails. The Tower's staff and Vajra take the second rank of raiders, which is why the roster steps down one row, and the Mage opens with Arcane Burst.
 
@@ -194,8 +194,8 @@ The Event concludes when Vajra has read the Open Lord's letter and taken the mem
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Vira Caught** — mark when Vira is in the party's hands at the end of the Event, alive or dead, whether she was taken in **The Wrong Shelf** or here. Read by **Vault of Dragons** (unconverted), where the Splinter's force has no inside knowledge of the Tower, and by **Force Grey Commander**.
-> - **Vira Escaped** — mark when Vira is free at the end of the Event. Read by **Vault of Dragons** (unconverted), where she may be present at the vault as the Splinter's guide, and by **Force Grey Commander**.
+> - **Vira Caught** — mark when Vira is in the party's hands at the end of the Event, alive or dead, whether she was taken in **The Wrong Shelf** or here. Read by **Vault of Dragons** (unconverted), where the Splinter's force has no inside knowledge of the Tower.
+> - **Vira Escaped** — mark when Vira is free at the end of the Event. Read by **Vault of Dragons** (unconverted), where she may be present at the vault as the Splinter's guide.
 > - **Tower Attack Stopped** — mark when the attack is stopped under the ward rules, including the quiet-night branch. Read by **Vault of Dragons** (unconverted) and by **Force Grey Commander**, where Vajra can attend the vault opening.
 > - **Splinter Testimony Recorded** — mark when a prisoner's statement is recorded freely in front of Vajra. Read by **Vault of Dragons** (unconverted), where the Open Lord has heard what the Splinter intends.
 

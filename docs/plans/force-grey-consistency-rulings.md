@@ -35,7 +35,7 @@ FG = `campaign/quests/faction-events/force-grey/`.
 |---|---|---|
 | 1.1 | m04 ev-01 ~194-195 | The "already ran" variant does not mark **Nihiloor Fled** itself. It points to ev-02's debrief outcome block, which is the only writer. |
 | 4.3 | m04 ev-02 ~68 | Orvyn's folder: the host reports to the courier **every fifth day**, matching M5. Don't say "end of each tenday". |
-| 4.4 | m04 ev-01 ~92 | Merris signs out his **two** vials of holy water. Don't say four. |
+| 4.4 | m04 ev-01 ~92 | The Pool needs four vials: Merris supplies his standing two and Vajra adds two from her study. |
 | 4.5 | m04 ev-01 ~183 | The second *Sending* (the variant) does not repeat the canonical arrival description. Write one short line: "Vajra's dry voice arrives as before." |
 | 4.6 | m04 ev-01 ~5 vs ~13 | Vajra's Tower brief comes **in addition to** her lair consultation in the Xanathar's Lair quest. Remove "in place of". |
 | 6.2 | m04 file names | The main session renames the files with git to `ev-01-the-brief.md` and `ev-02-nihiloors-wing.md`. Update every reference inside the folder to the new names. |
