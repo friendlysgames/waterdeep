@@ -41,9 +41,9 @@ Vajra ignores any answer, because she expects the member at dusk whatever it say
 
 > [!readaloud]
 >
-> Blackstaff Tower stands beside the street with no lamp at its door, and the door swings open before anyone reaches the steps. The narrow stair climbs past shelves of books and maps pinned to boards. At the top, Vajra stands at her tall desk with a pen in one hand, and there is still no chair for visitors. She looks up as you reach the landing.
+> Blackstaff Tower stands beside the street with no lamp at its door, and the door swings open before anyone reaches the steps. The narrow stair climbs past shelves of books and maps pinned to boards, and at the top Vajra stands at her tall desk with a pen in one hand. There is still no chair for visitors, and she looks up as you reach the landing.
 >
-> > "Come in. Start with the factions, then the Stone, then the vault, and I'll stop you if I need to."
+> > "Come in, and start with the factions, then the Stone, then the vault. I'll stop you if I need to."
 
 ### What Counts as the Full Picture
 
@@ -78,7 +78,7 @@ If an element is missing, read the following aloud, then speak the matching ques
 
 > [!readaloud]
 >
-> Vajra lets you finish, then caps her pen and sets it across her notes. She looks at the member who spoke first and asks one question.
+> Vajra lets you finish, then caps her pen and sets it across her notes while she looks at the member who spoke first. She asks one question and waits for the answer.
 
 ### The Briefing
 
