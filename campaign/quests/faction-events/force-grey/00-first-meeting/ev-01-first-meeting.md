@@ -1,131 +1,281 @@
 # A Message from the Blackstaff
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social Event occurs during **The Factions Come Calling**, after Renaer vouches for the party and Vajra Safahr's *Sending* reaches one of the characters Force Grey wants. It begins when the *Sending* arrives and ends when the last candidate who answered it leaves Blackstaff Tower. In this Event, the characters can:
 >
-> This Social Event fires when **The Factions Come Calling** (Trollskull Alley ev-04) reaches the Force Grey delivery row. If the party declined twice and has since advanced a level, check **Force Grey Offer Closed** before re-firing — if the flag is True and no level-up has occurred since it was set, the event does not fire again yet.
+> - Receive Vajra's *Sending* and decide whether to answer it, knowing that a second *Sending* reaches another candidate the next morning if nobody goes.
+> - Climb the steps of Blackstaff Tower, where the door opens before anyone knocks.
+> - Hear Vajra describe Force Grey and the Gray Hands at her standing desk, and ask her about the offer.
+> - Decide individually whether to join, with no assignment handed out today, and walk away freely if they refuse.
+> - Take a letter of authorization from Vajra and, if they join, share the Tower's help with the renovation of Trollskull Manor.
 >
-> In this Event:
+> #### Candidates and Companions
 >
-> - Vajra sends a *Sending* to one party member: exactly 25 words, the text given below
-> - A first decline redirects the *Sending* to a different party member the following day
-> - Two declines close the offer until the party advances a level; Vajra files both refusals without hostility
-> - Blackstaff Tower's door opens before anyone knocks — they were already expected
-> - Vajra is at her standing desk; she doesn't invite them to sit and doesn't move to a sitting room
-> - She offers Gray Hand status — Force Grey's entry tier, pending a track record — and names Renaer's endorsement and the **Finding Floon** warehouse as her reasons
-> - On acceptance, she writes a brief note, the door opens by itself, and she closes with one line
-
-**Background (DM only)**
-
-Vajra has been watching since the Xanathar sewer hideout. Renaer contacted her the day after the party brought him home: twenty words about people who found him before he needed finding, and an assessment she trusts. She has been tracking the investigation through Watch reports since. The *Sending* is a formality — she's already decided.
-
-The Gray Hand offer is deliberate. She doesn't extend full Force Grey status to people she hasn't worked with. The entry tier lets her use them, evaluate them, and revoke access cleanly if her judgment proves wrong. It also means she trusts them enough to make the offer at all.
-
-Blackstaff Tower responds to her mood. The door opening before they knock isn't a security gap. It's a message.
+> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. Vajra makes no offer to a character who already belongs to another faction. Those characters and any companions can climb to the study and listen, and they gain nothing from the visit.
+>
+> If no character qualifies, the *Sending* is never sent and the Event does not occur. If every candidate declines, end the Event with no membership outcome.
+>
+> #### What Is Actually True
+>
+> - Vajra decided before the *Sending* went out. Renaer vouched for the party, and she trusts his word because he, Laraelra Harsard and Meloon Wardragon pulled her out of Khondar Naomal's cells. She never tells the party, and no speaker mentions it.
+> - The Gray Hand tier lets her use the party, test them and cut them loose cleanly if her judgment proves wrong.
+> - Vajra knows that magical coercion is spreading among Waterdhavians in positions of influence. She suspects a link to the gang war and has not confirmed it.
+> - She knows nothing of the Stone of Golorr, the vault or the four factions competing for it.
+> - The other Black Network cell is led by Manshoon. Vajra does not know that, and no Force Grey speaker names him until **Manshoon Named** is marked for the listener.
 
 ### The Sending
 
-The spell arrives mid-morning, interrupting whatever the party member is doing. No greeting. Exactly 25 words:
+> [!gamemaster]**A Voice Behind the Eyes**
+>
+> The *Sending* arrives at mid-morning on the day the Force Grey row of **The Factions Come Calling** fires. It goes to one candidate, the candidate who spoke to Renaer last in the Zhentarim warehouse during **Finding Floon**. If play does not settle who that was, it goes to the candidate with the highest Wisdom score. A tie goes to the higher Charisma score, and a second tie goes to the name that comes first alphabetically.
+>
+> Every *Sending* from Vajra is exactly 25 words. The voice is dry and flat, it arrives behind the eyes with no greeting, and it speaks fast. It lands while the recipient is busy with something else, and nobody nearby hears it. The recipient can answer in up to 25 words. Vajra counts the words on her fingers and ignores a bare acknowledgment. A refusal gets silence.
+>
+> Read the following aloud, changing the first sentence to match what the recipient is doing.
 
-> *"I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."*
+> [!readaloud]
+>
+> You are carrying a broken chair out of the taproom of Trollskull Manor when a dry, flat voice speaks inside your head. It is fast and clipped and offers no greeting, and nobody else in the room hears it.
+>
+> > "I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends. Renaer has told me about you."
+>
+> The voice stops the moment it finishes, and you have room to answer in twenty-five words or fewer.
 
-The receiver can reply with up to 25 words. Vajra doesn't ask for a reply. A simple acknowledgment gets no response. A refusal gets silence.
+> [!gamemaster]**If Nobody Goes**
+>
+> Follow this procedure until a candidate climbs the Tower steps or the offer closes.
+>
+> - **The second *Sending*:** If no candidate has reached the Tower by the next morning, the same 25 words reach a different candidate, chosen by the same rule from those who have not received it, and you read the same passage above. If only one candidate exists, it reaches that candidate again.
+> - **Closing the offer:** If no candidate has reached the Tower by the end of that day, mark **Force Grey Offer Closed** with the name of every candidate who has not answered. Vajra files the refusals and sends nothing more.
+> - **Re-firing:** When the party advances a level, the Event fires again for the candidates named in **Force Grey Offer Closed**. The first *Sending* uses the same 25 words and goes to the first of them by the rule above. Vajra makes no reference to the earlier refusals, and the two-day procedure runs as before.
+> - **Walking in anyway:** A candidate named in **Force Grey Offer Closed** who climbs to the Tower is received at the desk like anyone else. Remove that name from the outcome once the candidate answers.
 
-**If the party ignores or declines:** The following morning, a different party member receives the same *Sending*, word for word. If that member also declines, Vajra files both refusals and contacts the party again only after they advance a level. Set **Force Grey Offer Closed: True**.
-
-**If the first party member goes alone:** Vajra expected the whole party. She says so once. She doesn't repeat it.
+> [!gamemaster]**Who Arrives**
+>
+> Any candidate can climb the Tower steps, whether or not they received the *Sending*, and the door treats them all alike. Vajra makes the same offer to every candidate in the study. A candidate who stays away is not chased. The door opens for them later, and Vajra repeats the offer in a few sentences.
 
 ### Blackstaff Tower
 
-The tower stands at the base of Mount Waterdeep in the Castle Ward. No signage. No invitation posted. The approach feels like trespassing.
+> [!gamemaster]**The Tower Door**
+>
+> The Tower stands near Swords Street in the Castle Ward and is taller than its footprint allows. The stone at the top is a slightly different shade from the stone below. The door opens as the party reaches the steps, and it opens for every visitor in the same way. It reads each person as they climb, and it is set to refuse nobody. Read the following aloud.
 
-The door swings open as they reach the steps. Nobody inside could have seen them coming. The entry hall is functional: narrow stair, closed door, a smell of old parchment and something faintly metallic. No portraits. No trophy cases. Vajra's voice carries from above:
-
+> [!readaloud]
+>
+> Blackstaff Tower rises beside the street with no sign or lamp at its door, and its upper floors look a little different each time you glance up. The door swings open as you reach the steps, before anyone has knocked. A narrow stair climbs past shelves crowded with books and maps pinned to boards, and the air smells of old parchment and sharp, clean ozone. A woman's voice carries down from above.
+>
 > > "Up here."
 
-She's at a standing desk in the main study, annotating a map. She doesn't look up immediately. The Blackstaff — the physical staff — leans against the desk within reach.
-
-> [!profile]+**Profile: Vajra Safahr**
+> [!exploration]**The Door on the Steps**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she doesn't feel, and sympathy when the party realizes she has aged a decade in three years on the job.
+> Any character who climbs the steps and makes a successful **DC 13 Intelligence (Arcana)** check notices a faint pulse of abjuration pass over each visitor from the doorframe. The door is reading the party as they climb. It was open before they arrived, so Vajra expected them. A character who casts *Detect Magic* on the steps learns the same thing without a check. A character who fails sees only a door that opened early.
+
+### The Standing Desk
+
+> [!gamemaster]**The Study**
 >
-> ***Emotions.*** Vajra most often feels burdened determination, impatient competence, defensive pride, controlled anger at threats to Waterdeep, dry humor that surfaces at unexpected moments, and private exhaustion she will not show.
+> The study is at the top of the stair, and it is long, narrow and cluttered. Vajra works at a standing desk and does not move to a sitting room. There is no chair for visitors, so the party stands for the whole conversation. The Blackstaff stays within her reach. Vajra never offers refreshment, and she says nothing about the party's clothes, their injuries or the climb.
+
+> [!readaloud]
 >
-> ***Motivations.*** Vajra wants to defend Waterdeep using Force Grey, prove that she earned the Blackstaff rather than inherited it, and outlast the senior wizards who consider her an upstart.
+> The study at the top of the stair is long and narrow, with maps pinned to every wall and a single window over the street. Letters lie in drifts across a standing desk, and there is no chair for visitors anywhere in the room. A young woman with dark, unruly hair stands behind the desk in a long blackish-purple coat, drumming her fingers on a staff of dark wood. The inked designs on her coat shift slightly when you look away. She sets down her pen and studies each of you with sharp green eyes.
 >
-> ***Inspirations.*** When playing Vajra, channel Ahsoka Tano (*Star Wars*), Jessica Pearson (*Suits*), and Satsuki Kiryuin (*Kill la Kill*).
+> > "Thank you for coming. I'll keep this short, because I have a whole city to watch and very little time to do it."
+
+If the *Sending* recipient climbed the stair alone, read or paraphrase the following:
+
+> [!readaloud]
 >
-> **Character Information**
-> ***Persona.*** To the world, Vajra is the Blackstaff, commander of Force Grey, who communicates by *Sending* (often exactly 25 words) and doesn't perform warmth. To those she trusts, she cares about Waterdeep and the people in it, but she has been Blackstaff for three years and has aged ten. Deep down, she wields a staff containing Khelben Arunsun's soul, and Laeral Silverhand views her as an insecure child holding her dead husband's weapon. She doesn't find observations about her youth interesting.
+> Vajra looks past you at the empty stairwell and then back at you.
 >
-> ***Morale.*** In a fight, Vajra would open with something large enough to end the conversation. She explains herself afterward to exactly no one.
+> > "I asked you to bring your friends, and I'll say it only once. I'll tell you what I would have told them, and the door will open for the rest later."
+
+> [!social]**The Blackstaff**
 >
-> ***Relationships.*** Vajra is the Blackstaff of Waterdeep, commander of Force Grey, wielder of a staff containing Khelben Arunsun's soul, and a strained subordinate of Laeral Silverhand. She has rare, dry humor: *"Manshoon tried to kill me through a junior arcanist. That's either an insult or a compliment. I haven't decided."*
+> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who made her decision about the party before they climbed the stairs.
+>
+> Vajra is Indifferent toward the party and spends no words on warmth. She stands at the desk throughout and answers every question plainly. She speaks in short, complete sentences, states her conclusion first and keeps explanations to a minimum. In front of strangers her swearing is rare and barely clean. She finds remarks about her youth uninteresting and changes the subject. If a character asks about the length of the *Sending*, she says "Twenty-five. I counted."
+>
+> Vajra is happy to discuss the following topics:
+>
+> - What Force Grey is and what the Gray Hands are for.
+> - Why she chose this party, which she credits to Renaer and the warehouse.
+> - What she wants from the Gray Hands and what they receive.
+> - Whether a character who belongs to another faction can join.
+>
+> She will not discuss the Stone of Golorr, the vault, the master of the other Black Network cell, the Cassalanters, what is in the Blackstaff, Undermountain or her youth. She turns each aside with "Irrelevant." or "Next."
 
-### Vajra's Offer
+> [!readaloud]
+>
+> Vajra lays one hand flat on the desk and looks at each of you in turn.
+>
+> > "Renaer told me about the warehouse. He says you handled it with skill and caused no diplomatic incident. That puts you ahead of people I've worked with for years."
 
-She sets her pen down when she turns to face them. No pleasantries.
+> [!readaloud]
+>
+> She turns her pen end over end between her fingers while she talks.
+>
+> > "I lead Force Grey. We aren't the City Watch or the Lords' Alliance. We deal with magical threats that neither of them can be seen dealing with. I'm not recruiting you for Force Grey, because that takes a longer record than one rescue. I'm offering the Gray Hands, our entry tier. You prove yourselves and you get more access. You don't, and we part cleanly."
 
-> > "Renaer tells me you pulled him out of Xanathar's sewer. He also tells me the warehouse had a Zhentarim operation running in it that the Watch missed for three months. I'm choosing to believe his assessment of you is accurate."
+> [!readaloud]
+>
+> Her fingers stop on the staff, and she speaks more slowly than before.
+>
+> > "Waterdeep has a problem with magical coercion. People in positions of influence are acting against their own interests, and the Watch has no way to see it. I need people I can trust to go where I can't, and I'm damned short of them. Are you interested?"
 
-She offers Gray Hands status — Force Grey's entry tier. Not full membership. That comes with a track record.
+> [!exploration]**She Has Already Decided**
+>
+> Any character who watches Vajra while she makes the offer and succeeds on a **DC 14 Wisdom (Insight)** check sees that she settled this before the party climbed the stairs. She is giving them the chance to reach the same conclusion. A character who fails reads her as still weighing them.
 
-> > "My current priority is magic being used against people's will. Waterdhavians acting against themselves, against their households, against their offices. The City Watch can't touch it because they can't see it. I need people who can move in places I cannot."
+> [!qna]**What is Force Grey?**
+>
+> She taps the desk once with a finger.
+>
+> > "A small unit of operatives under my authority. You'd start as Gray Hands, which is probationary. Full membership comes after a record, and I decide when you have one."
 
-She isn't recruiting for a cause. She wants operatives who understand the mandate and can be trusted with limited information. The framing is operational.
+> [!qna]**Why us?**
+>
+> > "Renaer vouches for you, and he doesn't do that lightly. You went into that warehouse after him and came out with him. I find that persuasive."
 
-If the party asks questions, Vajra answers directly and without elaboration. She doesn't answer questions whose value doesn't justify the answer.
+> [!qna]**What do you want from us?**
+>
+> > "Word of magical threats before they turn into crises. Discretion. And your honest account of what you find, including what you only suspect. I have people who tell me what I want to hear, and I don't need more."
 
-> [!dialogue]**"What is Force Grey?"**
-> "A small unit of operatives under my authority. You'd be Gray Hands — probationary status. Full membership follows a track record."
+> [!qna]**What do we get?**
+>
+> She does not look up from the map.
+>
+> > "Gray Hand rank. You can enter this tower at any hour, and I'll supply a potion for any mission that needs one. The Watch will treat you as authorized, and you'll carry my letter to prove it."
 
-> [!dialogue]**"Why us?"**
-> "Renaer's judgment. The warehouse. The fact that you're still here and the Xanathar operatives you encountered are not."
+> [!qna]**What is the first job?**
+>
+> > "There isn't one yet. When I have work that suits you, I'll send word by *Sending*, the way I did today. Don't wait for me in the street."
 
-> [!dialogue]**"What do you want from us?"**
-> "Intelligence about magical threats before they become crises. Discretion. Your honest account of what you find — not what you think I want to hear. I have people for the latter and don't need more."
+> [!qna]**Can we keep our other loyalties?**
+>
+> > "I make this offer only to people who answer to no one else. If you do, you're welcome to stay and listen, and that's all. Everyone else here decides for themselves."
 
-> [!dialogue]**"What do we get?"**
-> "Gray Hands rank and everything that comes with it." She names the benefits. No negotiation. These are the terms. See the **Force Grey** Factions guide page for the rank benefits table.
+> [!qna]**What happens if we say no?**
+>
+> > "Nothing happens. You go back to your work, and I think no worse of you. The door will open again if you change your mind."
 
-**On acceptance:** Vajra writes a brief note on paper, folds it twice, and sets it on the desk's edge. The door at the stair opens by itself. She's already back at her map.
+> [!qna]**Are you alright?**
+>
+> Vajra looks up from the map for the first time.
+>
+> > "Irrelevant."
 
+> [!gamemaster]**If a Player Raises the Stone, the Vault or the Other Cell's Master**
+>
+> Vajra does not discuss the Stone of Golorr, the vault or the Cassalanters, and she never repeats a name a player gives her. If a player names Manshoon, she does not confirm or deny it. She answers:
+>
+> > "That isn't today's business. The Black Network has split, and I know that much. Next."
+
+### Each Candidate's Answer
+
+> [!gamemaster]**Recording the Answers**
+>
+> Ask each candidate for their answer and record each one separately. A candidate who accepts becomes a Gray Hand at **Renown 1**. Joining takes no check, and mixed answers cause no argument with Vajra. A candidate who declines or defers keeps their current status. Characters who already belong to another faction get no offer.
+>
+> Mark **Force Grey Joined** with the name of each candidate who accepts. Vajra writes one letter for each of them, and the letters are not shared.
+
+If a candidate accepts, read or paraphrase the following, using their name:
+
+> [!readaloud]
+>
+> Vajra takes a sheet of heavy paper from a stack, writes one line across it and signs it with a small mark. She folds it twice and sets it on the edge of the desk.
+>
+> > "That's your authorization. The door will know you now, so you won't need to knock."
+
+> [!exploration]**The Letter**
+>
+> The letter is a single sheet of Tower letterhead folded twice, with Vajra's mark at the foot. The line reads:
+>
+> > "The bearer acts under my authority as a Gray Hand of Force Grey. Give them every reasonable help. Vajra Safahr, the Blackstaff."
+
+If a candidate declines or asks for more time, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Vajra listens to your answer, nods once and picks up her pen.
+>
+> > "Understood. The door will open for you if you change your mind."
+
+A candidate who returns later is recorded the same way. The door opens before they reach the top of the steps, and Vajra writes the letter without repeating the whole offer.
+
+> [!gamemaster]**Gray Hand Benefits**
+>
+> Each accepting candidate gains the following, and nothing goes to a decliner or a companion. The benefits belong to the member and are tracked for each member separately.
+>
+> - **Renown 1:** the member starts as a Gray Hand, and the Tower and the City Watch know them as an authorized operative.
+> - **The Tower at any hour:** The door opens for the member by day or night without an appointment, and companions can climb with them. Vajra works at the desk through most of the day. If she is out, the member leaves a written message on the desk, and she answers by *Sending* within a day.
+> - **One consumable before a mission:** When a mission needs one, Vajra hands the member a single potion at the desk before they leave. She gives a *potion of climbing* for a climb, a *potion of water breathing* for a dive or a flooded passage, and a *potion of healing* for a mission with a known fight. A mission with none of these gets no potion. The limit is one potion per member per mission, and a mission brief that hands out its own potions replaces this one.
+> - **The Watch:** A City Watch officer who sees the letter is Friendly toward the member. Friendly means ordinary help and a fair hearing. It does not excuse a crime, and an officer who has watched the member commit one is no longer Friendly.
+> - **The letter:** It is personal. A member who lends it to someone else loses it, and Vajra does not issue a replacement.
+> - **Loss of Renown:** A member whose Renown later falls below 1 keeps the rank, and these benefits are suspended until it is restored.
+
+### Leaving the Tower
+
+> [!gamemaster]**The Renovation Help**
+>
+> This benefit belongs to the party, not to the members, because Trollskull Manor is a shared holding. It is given once, when the first candidate accepts, and later acceptances do not repeat it.
+>
+> - **The Tiny Hut:** Within a tenday of the meeting, a mage from the Tower arrives at Trollskull Manor on a morning the party names. The mage casts *Leomund's Tiny Hut* to give the workmen a dry workspace, then leaves without staying for a meal.
+> - **The vault item:** The party chooses one *spell scroll of glyph of warding* or two *spell scrolls of alarm* from the Tower's confiscated vault. Vajra sets the scroll tube on the desk beside the letters.
+> - **The books:** Vajra logs both under Gray Hands disbursements. The party owes the Tower for them, and nothing is collected.
+>
+> Read the following aloud when at least one candidate has accepted.
+
+> [!readaloud]
+>
+> Vajra glances at the map and then back at the party.
+>
+> > "Renaer says the manor is still half a ruin. I'll send a mage to cast a *Tiny Hut* so your workmen stay dry. You can also take a glyph scroll or two alarm scrolls. It goes in the Tower's books, and you owe the Tower for it. I'll remember that."
+
+> [!gamemaster]**The Door Opens**
+>
+> Vajra does not see anyone out. The door at the head of the stair opens by itself once the business is done, and she has returned to the map before the party reaches the landing.
+
+If at least one candidate accepted, read or paraphrase the following to the accepting candidates:
+
+> [!readaloud]
+>
+> The door at the top of the stair swings open, and Vajra has already turned back to her map. She speaks without looking up.
+>
 > > "Try to get some sleep. The work does not wait for people to be rested."
 
-The note is a one-line authorization on Blackstaff Tower letterhead, signed with her mark. It reads as proof of Gray Hand status to any Watch officer the party encounters.
+If every candidate declined, read or paraphrase the following:
+
+> [!readaloud]
+>
+> The door at the top of the stair swings open on its own, and Vajra picks up her pen. The steps below are empty, and the street beyond is as busy as you left it.
 
 ### Concluding the Event
 
-#### Force Grey Joined: True / False
-Set True when at least one party member accepts Gray Hand status from Vajra Safahr. Read in Force Grey Faction Missions (mission unlock gate), and in the **The Full Picture** event (`faction-events/force-grey/s01-the-full-picture`).
+The meeting ends when the last candidate leaves the Tower. No assignment is handed over today.
 
-#### Force Grey Offer Closed: True / False
-Set True when the party declines Vajra's *Sending* twice without accepting in between. The offer reopens when the party advances a level. Read as an entry condition for this event on re-fire: if True and the party has not advanced a level since the flag was set, the event does not fire again.
+> [!gamemaster]**Event Outcomes**
+>
+> - **Force Grey Joined** — mark for each character who accepts Vajra's offer, whether at the first meeting or on a later visit, and record the character's name. The member is at Renown 1 with the Gray Hand rank. Read by the **Force Grey** Factions Guide page, by **The Factions Come Calling**, and by every Force Grey faction event beginning with **Consulting Hlam**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
+> - **Force Grey Offer Closed** — mark with the names of the candidates who have not answered when the second *Sending* goes unanswered. Read by this Event on re-fire, which happens when the party advances a level. Remove each name as the candidate answers at the Tower.
 
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> #### Next Steps
+> **Consulting Hlam** becomes available when an individual Force Grey member reaches Renown 1 and 2nd level, and Vajra briefs it to that member by her own *Sending*. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate who deferred stays unaffiliated until they climb the Tower steps and accept, and any later acceptance is recorded under the same **Force Grey Joined** outcome with their name.
 >
-> If **Force Grey Joined** is True: **Force Grey Mission 1 — Consulting Hlam** is available as soon as the party is ready to take it. The Watch authorization note is active from this point forward.
->
-> If **Force Grey Offer Closed** is True: Vajra is aware of the party through Renaer and through Grand Game developments as they unfold. She re-contacts when the party hits their next level threshold. Treat the re-fired *Sending* as the first — the same 25-word message, no reference to the prior refusals in her words (though she hasn't forgotten them).
->
-> #### Milestone: None
->
-> This event does not award a Milestone Point.
+> This Event awards no Milestone Points.
 
 ## Overview
 
-The Blackstaff of Waterdeep contacted one party member by *Sending* and invited the party to Blackstaff Tower. Vajra Safahr offered Gray Hand status — Force Grey's entry tier — citing Renaer's endorsement and the Finding Floon warehouse. She wants operatives who can move in places Force Grey cannot, starting with magic the City Watch can't see.
-
-## Read Aloud
-
-> The spell arrives mid-morning: twenty-five words, no prelude.
->
-> > *"I am Vajra Safahr, the Blackstaff. Come to Blackstaff Tower in the Castle Ward at once. Bring your friends."*
+Vajra Safahr's *Sending* summons specific characters to Blackstaff Tower, where she offers them a place among the Gray Hands at her standing desk.
 
 ## Summary
 
-Vajra Safahr contacted the party by *Sending* and invited them to Blackstaff Tower. At her standing desk — door already open, no move toward a sitting room — she offered Gray Hand status, citing Renaer's endorsement and the Finding Floon warehouse. Her priority: magic used against Waterdhavians' will, invisible to the Watch. Her closing words, with the door already open behind them: *"Try to get some sleep. The work does not wait for people to be rested."*
+### After the Meeting
+
+A voice behind our eyes told us to come to Blackstaff Tower, and the door opened before we reached the steps. Vajra Safahr received us at her standing desk and offered us a place among the Gray Hands, Force Grey's entry tier. Each of us gave our own answer, and she told us she would send word when she had work.
+
+### Without a Private Meeting
+
+We carried on with the renovation at Trollskull Manor without answering the *Sending* or changing any of our faction affiliations.
