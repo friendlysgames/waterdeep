@@ -24,32 +24,32 @@
 
 ### Vajra Acts
 
-If Vajra accepted the report and the devourer was not alerted, she orders Meloon to the Tower for dawn on Force Grey business. The party may attend. The devourer comes because refusing the Blackstaff would expose it.
+If Vajra accepted the report and the devourer was not alerted, she orders Meloon to the Tower for dawn on Force Grey business. The party may attend, and the devourer comes because refusing the Blackstaff would expose it.
 
 > [!readaloud]
 >
 > At dawn the room at the top of Blackstaff Tower is bare except for a heavy oak chair bolted to the stone floor, with iron bands along its arms. Meloon comes in alone and nods politely to Vajra, who stands by the window. When she asks him to sit, he does, and the bands close over his wrists and ankles with a sound like a dropped chain.
 >
-> > "Meloon does not understand. What does the Blackstaff require?"
+> > "Meloon does not understand why the bands are needed. What does the Blackstaff require of him this morning?"
 
-The devourer lets the bands close because a Force Grey veteran has no reason to refuse them. Vajra's door shuts and no one leaves until she opens it.
+The devourer lets the bands close because a Force Grey veteran has no reason to refuse them, and Vajra's door shuts so that no one leaves until she opens it.
 
 > [!exploration]**Vajra's Three Breaks**
 >
 > - Vajra casts *Dispel Magic* with a 4th-level slot at the start of each of the next three rounds. Each casting is an automatic Break, and Hold falls from 3 to 0.
-> - There is no ward, no roll and no Strain. Meloon has 65 hit points, so the expelled devourer cannot occupy him again.
-> - If the devourer uses Slip Out after the second Break, it appears within 5 feet of the chair and runs for the door. The door is shut, and Vajra kills it with her next action.
+> - There is no ward, no roll and no Strain, and Meloon has 65 hit points, so the expelled devourer cannot occupy him again.
+> - If the devourer uses Slip Out after the second Break, it appears within 5 feet of the chair and runs for the door, which is shut, and Vajra kills it with her next action.
 > - When the devourer is out, Meloon is Incapacitated until the end of his next turn. He takes 1 level of Exhaustion and speaks in fragments until a Long Rest.
 
 > [!readaloud]
 >
-> A small pale thing the size of a cat's head drops from behind Meloon's ear onto the stone, with long thin legs folded under a wet lump of grey flesh. It scrabbles toward the door. Vajra says one word without raising her voice, and the creature stops moving.
+> A small pale thing the size of a cat's head drops from behind Meloon's ear onto the stone, with long thin legs folded under a wet lump of grey flesh, and scrabbles toward the door. Vajra says one word without raising her voice, and the creature stops moving.
 >
-> Meloon slumps against the bands and breathes in long gulps. His eyes find Vajra, then the axe she holds out of his reach.
+> Meloon slumps against the bands and breathes in long gulps, and his eyes find Vajra and then the axe she has set out of his reach.
 >
-> > "Long. Too long. Axe. Where's... Where's my axe?"
+> > "Long. Too long. Where's... where's my axe?"
 
-Mark **Meloon Restored**. Continue with **What the Party Decides**.
+Mark **Meloon Restored** and continue with **What the Party Decides**.
 
 ### Getting Him Alone
 
@@ -58,10 +58,10 @@ If the party acts without Vajra, or the devourer was alerted, it must hold Meloo
 > [!exploration]**Three Quiet Places**
 >
 > - **The dawn ritual.** This route is always open. Meloon sits on his bed with Azuredge across his knees and his whole attention on the axe. The party reaches his door from the upper hall before dawn, and in round 1 the party acts first and Meloon is Incapacitated until the end of that round. A character who forces a barred door needs a successful DC 14 Strength (Athletics) check. On a failure, the noise ends the surprise and the fight starts at full strength.
-> - **Durnan's back room.** Any member who tells Durnan the truth at the end of the bar gets the room without a check. Durnan tells Meloon "Back room. Now." and the devourer goes, because a refusal draws attention. Durnan bars the door from outside and stands in front of it. The room has no window.
+> - **Durnan's back room.** Any member who tells Durnan the truth at the end of the bar gets the room without a check. Durnan tells Meloon "Back room. Now." and the devourer goes, because a refusal draws attention, and then Durnan bars the door from outside and stands in front of it. The room has no window.
 > - **Trollskull Manor.** If the party invited Meloon on Day 5 or later, he comes to the Manor on the evening named. The cellar is the quiet place, and a companion bars the cellar door after he descends.
 >
-> If a fight starts in the taproom, Durnan says "Out." in round 1 and clears every patron into the street. Nobody left in the room is a combatant. Durnan stays behind the bar and does not fight.
+> If a fight starts in the taproom, Durnan says "Out." in round 1 and clears every patron into the street. Nobody left in the room is a combatant, and Durnan stays behind the bar and does not fight.
 
 ### Forcing It Out
 
@@ -96,9 +96,8 @@ Once the party moves on him, the devourer drops its cover and fights with the bo
 > Meloon uses the **Warrior Veteran** stat block and fights with a Greatsword. He never draws Azuredge, and the axe lies still wherever it is. The devourer inside keeps Total Cover, so spells and attacks that target it fail and damage goes to the host.
 >
 > - **Three characters:** Meloon starts at 32 hit points, because the dawn ritual, Durnan's back room or the Manor cellar gives the party the first round.
-> - **Four characters:** Meloon at full hit points.
-> - **Five characters:** Meloon at full hit points.
-> - **Optional courier:** if the extraction begins at dusk on Day 10, add one **Tough** at four or five characters. Do not add it at three.
+> - **Four or five characters:** Meloon at full hit points.
+> - **Optional courier:** if the extraction begins at dusk on Day 10, add one **Tough** at four or five characters and none at three.
 >
 > #### The Devourer's Tactics
 > The devourer wants to reach the door and the stairs, and it wants Meloon alive and useful.
@@ -111,7 +110,7 @@ Once the party moves on him, the devourer drops its cover and fights with the bo
 >
 > The fight ends when Meloon is held, when the devourer is expelled, or when Meloon dies. A melee attack that reduces him to 0 hit points can leave him Unconscious at 1 hit point under the nonlethal rule. Any other hit that reduces him to 0 puts him on death saving throws, and the devourer stays inside.
 >
-> Vajra's route is the non-combat way to end this fight. A party that cannot use it can end the fight with the anchor route alone, with Azuredge in view.
+> Vajra's route is the non-combat way to end this fight, and a party that cannot use it can end the fight with the anchor route alone, with Azuredge in view.
 
 ### The Expelled Devourer
 
@@ -129,7 +128,7 @@ Once the party moves on him, the devourer drops its cover and fights with the bo
 >
 > In a barred room the devourer cannot leave. In Meloon's room it runs for the window onto the alley and drops to the street. In the Manor cellar it runs for the stair.
 >
-> If it flees outdoors, use the pursuit rule. It needs three consecutive rounds of Dash. Each round, a character who can see it makes a DC 13 Wisdom (Perception) check, and on a success keeps it in sight and can attack if they reach it. After three rounds with no character in sight, the devourer is gone and **Devourer Escaped** applies.
+> If it flees outdoors, use the pursuit rule: it needs three consecutive rounds of Dash, and each round, a character who can see it makes a DC 13 Wisdom (Perception) check, and on a success keeps it in sight and can attack if they reach it. After three rounds with no character in sight, the devourer is gone and **Devourer Escaped** applies.
 >
 > A caught devourer fights to the death. The encounter ends when it dies, is trapped under a barrel or bottle, or escapes.
 
@@ -139,7 +138,7 @@ After the diagnosis, the party can end the matter in three ways, and it can chan
 
 **Restore Meloon.** The devourer is dead, trapped or gone, and Meloon is alive. He has 1 level of Exhaustion and answers in fragments until a Long Rest. Mark **Meloon Restored**, and mark **Devourer Escaped** as well if the devourer fled.
 
-**Lose Meloon.** If Meloon dies, the devourer is forced out within 5 feet at full hit points and acts on its next turn. Mark **Meloon Lost**. Vajra keeps Azuredge in the Tower and does not hand out the wand.
+**Lose Meloon.** If Meloon dies, the devourer is forced out within 5 feet at full hit points and acts on its next turn. Mark **Meloon Lost**, and Vajra keeps Azuredge in the Tower and does not hand out the wand.
 
 **Let it run.** A party that fails every attempt and cannot hold him leaves the matter open. Vajra takes Meloon at the Tower once the party reports again, if the devourer was not alerted.
 
@@ -153,7 +152,7 @@ After one Long Rest at the Tower, Meloon sits with the party and goes through th
 >
 > Meloon sits at the edge of the bed in the Tower's guest room with his boots on and his elbows on his knees, and Azuredge leans against the wall in reach. He looks up when you come in, and his voice is the big one, rough with disuse.
 >
-> > "Fuck me, there you are. Sit down, sit down. I owe you more than I can say, and I'll start by saying it badly."
+> > "Fuck me, there you are, so sit down, sit down. I owe you more than I can say, and I'm going to start by saying it badly."
 
 If the party marked **Meloon Met**, he adds that he remembers the sand and the sound of the crowd, and he is sorry he cannot remember the last month as well.
 
@@ -172,21 +171,21 @@ If the party marked **Meloon Met**, he adds that he remembers the sand and the s
 
 > [!qna]**How long was it?**
 >
-> > "Three fucking tendays, and I heard every word I said. I couldn't change one of them. I watched my own mouth ask you about your streets."
+> > "Three fucking tendays, and I heard every word I said without being able to change one of them. I watched my own mouth ask you about your streets."
 
 > [!qna]**The lair?**
 >
-> > "It took me down there twice, before you started watching. I remember every turn. Give me a pen and I'll draw you the route."
+> > "It took me down there twice, before you started watching, and I remember every turn. Give me a pen and some paper and I'll draw you the route."
 
 > [!qna]**The courier?**
 >
-> > "Dobb Ketterly, a dock rat who lodges above a net-maker's in the Dock Ward. He came every tenth night and I told him whatever it wanted told. I'd know his ugly face anywhere."
+> > "Dobb Ketterly, a dock rat who lodges above a net-maker's in the Dock Ward. He came every tenth night and I told him whatever it wanted told, so I'd know his ugly face anywhere."
 
 > [!qna]**Azuredge?**
 >
 > He reaches for the axe, and it slides into his hand without a sound.
 >
-> > "Every dawn that axe screamed at me, and I couldn't answer. She never once let that thing hold her. I'll never be rid of that."
+> > "Every dawn that axe screamed at me and I couldn't answer, but she never once let that thing hold her. I'll owe her for that for the rest of my life."
 
 If Meloon names Dobb Ketterly and **Courier Identified** is not yet marked, mark it.
 
@@ -200,7 +199,7 @@ If **Meloon Restored** is marked and **Devourer Escaped** is not, read or paraph
 >
 > Vajra reads your report standing, her pen still, then opens the cabinet behind the desk and takes out a wand. She holds it out without ceremony.
 >
-> > "He's back, and the thing that wore him is dead. You earned this."
+> > "He's back, and the thing that wore him is dead, so take this. You earned this."
 
 She gives the party a *wand of secrets*.
 
@@ -208,9 +207,9 @@ If **Meloon Restored** and **Devourer Escaped** are both marked, read or paraphr
 
 > [!readaloud]
 >
-> Vajra reads your report and her pen stops on the word *escaped*. She takes the wand from the cabinet and sets it down on the desk.
+> Vajra reads your report and her pen stops on the word *escaped*. She takes the wand from the cabinet and sets it on the desk between you.
 >
-> > "He's alive, and I'm grateful. That thing will carry your faces to Nihiloor, and he will be waiting for you. You earned this anyway."
+> > "He's alive, and I'm grateful for it. That thing will carry your faces to Nihiloor and he will be waiting for you, but you earned this anyway."
 
 She gives the party a *wand of secrets*.
 
@@ -220,7 +219,7 @@ If **Meloon Lost** is marked, read or paraphrase the following:
 >
 > Vajra says nothing for a moment, and her hand rests flat on the notebook. She does not look up when she speaks.
 >
-> > "I have Azuredge. I'll keep it in the Tower until I know what he would have wanted. Leave me the report. We'll speak again."
+> > "I have Azuredge, and I'll keep it in the Tower until I know what he would have wanted. Leave me the report, and we will speak again when I'm ready."
 
 She gives no wand.
 

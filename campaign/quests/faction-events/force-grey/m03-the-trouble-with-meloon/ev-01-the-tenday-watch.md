@@ -36,7 +36,7 @@ The *Sending* reaches every eligible member at the start of the day. Vajra recei
 >
 > The voice stops as quickly as it began, and you have room to answer in a few words if you want to.
 
-The *Sending* is exactly 25 words. A member can answer in up to 25 words, and Vajra does not reply.
+The *Sending* is exactly 25 words, and a member can answer in up to 25 words, though Vajra does not reply.
 
 > [!readaloud]
 >
@@ -97,7 +97,7 @@ Day 1 is the first evening after the brief. The taproom is crowded, Durnan works
 >
 > The Yawning Portal is loud and warm tonight, and patrons crowd around the well in the middle of the taproom. A bard tests a lute by the stairs while Durnan works the bar with a rag over his shoulder, and Bonnie carries four stews through the crowd without spilling any. Near the fire a huge man sits alone at a table meant for six, and the cup in front of him is full. He watches the door each time it opens, and then he watches whoever comes through it.
 
-Meloon's table has two empty chairs that regulars used to fill without being asked. He answers anyone who speaks to him politely and briefly, and he leaves the table only to climb the stairs at closing. No axe hangs at his back.
+Meloon's table has two empty chairs that regulars used to fill without being asked. He answers anyone who speaks to him politely and briefly, and he leaves the table only to climb the stairs at closing, with no axe hanging at his back.
 
 > [!exploration]**The Missing Axe**
 >
@@ -151,9 +151,7 @@ From Day 2 on, Meloon sits on the edge of his bed at dawn with Azuredge across h
 >
 > Any character who watches the ritual and makes a successful DC 15 Wisdom (Insight) check determines that the axe and the man are in a contest. The axe is pressing him, and his refusal does not look like his own will.
 >
-> Every dawn the devourer must succeed on a DC 15 Charisma saving throw to touch Azuredge. It succeeds on every dawn the party watches, which lets it rest its hands on the haft and no more. It cannot draw the axe, and it leaves the axe in the room each day. Do not roll.
->
-> *Detect Magic* shows no spell on Meloon, only the axe, which glows as a magic item.
+> Every dawn the devourer must succeed on a DC 15 Charisma saving throw to touch Azuredge. It succeeds on every dawn the party watches, which lets it rest its hands on the haft but never draw the axe, so do not roll and leave the axe in the room each day. *Detect Magic* shows no spell on Meloon, only the axe, which glows as a magic item.
 
 Azuredge answers a character who speaks to it by name during the ritual, in a low voice from the gallery rail.
 
@@ -167,11 +165,11 @@ If the check succeeds, read or paraphrase the following:
 
 > [!readaloud]
 >
-> No voice speaks, but three thoughts settle over you one after the other, each with complete certainty. The first is *something is wrong with him*, and it carries the weight of someone who has watched it happen for a long time. The second is *I cannot reach him*, and it comes tired and angry. The third is *you can*, and it is aimed at you alone.
+> No voice speaks, but three thoughts arrive in your head one after the other, and you know each of them is true. The first is *something is wrong with him*, and it feels like a warning from someone who has been shouting it for weeks. The second is *I cannot reach him*, and it comes tired and angry before the third turns toward you and says *you can*.
 
 > [!gamemaster]**Playing the Beat**
 >
-> The axe has no voice. Leave a pause after each impression so the player can take it in before the next one arrives. A character who tells Vajra what the axe said, and that it resists the devourer, earns a Renown bonus at the end of the mission.
+> The axe has no voice, so leave a pause after each impression so the player can take it in before the next one arrives. A character who tells Vajra what the axe said, and that it resists the devourer, earns a Renown bonus at the end of the mission.
 
 ### The Conversation
 
@@ -183,7 +181,7 @@ If the party marked **Meloon Met**, read or paraphrase the following:
 >
 > Meloon looks up before you reach the table and rises with his hand out, and the grip is as hard as you remember from the sand. He says each of your names correctly, one after another, and then praises a throw that none of you made in the final bout. His grin arrives a moment after his words.
 >
-> > "Meloon remembers the sand. Sit, please, and Meloon will order for the table."
+> > "Meloon remembers the sand very well. Sit down, please, and Meloon will order for the whole table."
 
 If the party did not mark **Meloon Met**, read or paraphrase the following:
 
@@ -191,7 +189,7 @@ If the party did not mark **Meloon Met**, read or paraphrase the following:
 >
 > A huge man looks up as you reach the table and stands with his hand out. His grip is hard and brief, and his smile arrives a moment after his words.
 >
-> > "Meloon Wardragon, Force Grey. Sit, please, and Meloon will order for the table."
+> > "Meloon Wardragon, of Force Grey. Sit down, please, and Meloon will order for the whole table."
 
 > [!social]**The Observation Post**
 >
@@ -211,17 +209,17 @@ If the party did not mark **Meloon Met**, read or paraphrase the following:
 
 > [!qna]**Your recent work?**
 >
-> > "What have you been doing lately? Meloon has heard the Guild is busy in the Dock Ward. Which streets, exactly, and who was with you?"
+> > "What have you been doing lately? Meloon has heard that the Guild is busy in the Dock Ward, so tell me which streets you worked and who was with you."
 
 > [!qna]**About Azuredge?**
 >
 > He pats his shoulder where the strap should be.
 >
-> > "Azuredge is lent to a friend who needed her. Meloon will have her back soon. Where do your people sleep at night?"
+> > "Azuredge is lent to a friend who needed her, and Meloon will have her back soon. Where do your people sleep at night, and does anyone keep watch?"
 
 > [!qna]**About Undermountain?**
 >
-> > "Going down? Meloon knows a way. Take the sewer junction three tunnels in off the Dock Ward, because the Watch never walks it. Which entrance will you use?"
+> > "Going down? Meloon knows a way, so take the sewer junction three tunnels in off the Dock Ward, because the Watch never walks it. Which entrance will you use?"
 
 > [!exploration]**The Tell**
 >
@@ -242,7 +240,7 @@ On the evening of Day 6, Bonnie takes one character aside. She chooses the first
 >
 > Late in the evening Bonnie sets a fresh plate in front of you and wipes the same patch of bar twice. She tilts her head toward the empty end of the counter and waits until you follow.
 >
-> > "Something ain't right with him, love."
+> > "Something ain't right with him, love, and I've been wanting to tell somebody for a week."
 
 If **Bonnie Harper Operative** is marked, or the party otherwise knows what she is, read or paraphrase the following:
 
@@ -250,7 +248,7 @@ If **Bonnie Harper Operative** is marked, or the party otherwise knows what she 
 >
 > Bonnie keeps her eyes on the stairs while she talks, and her voice is flat and dry.
 >
-> > "I read him once, from across the room, and I won't do it twice. There are two minds in his head. The loud one reads lines, and the quiet one is trying to get out. It felt the probe and couldn't tell who it came from."
+> > "I read him once, from across the room, and I won't do it twice. There are two minds in his head, and the loud one reads lines while the quiet one is trying to get out. It felt the probe but couldn't tell who it came from."
 
 Otherwise, read or paraphrase the following:
 
@@ -258,7 +256,7 @@ Otherwise, read or paraphrase the following:
 >
 > Bonnie smooths her apron and gives you her usual warm look.
 >
-> > "Don't ask me how I know. He stopped laughing a month ago and he counts everyone who walks in. If you're watching him, do it from somewhere he can't see."
+> > "Don't ask me how I know, because I couldn't tell you. He stopped laughing a month ago and he counts everyone who walks in, so if you're watching him, do it from somewhere he can't see."
 
 > [!social]**The Barmaid Who Reads the Room**
 >
@@ -276,13 +274,13 @@ Otherwise, read or paraphrase the following:
 >
 > If the party knows what she is, she answers in her flat private voice. Otherwise she laughs and points at the crowd.
 >
-> > "Not twice. The first time he went still, and I'm not that stupid."
+> > "Not twice. The first time he went still all the way down, and I'm not stupid enough to try it again."
 >
-> > "Read him? I'm a barmaid, love. I watch people for a living."
+> > "Read him? I'm a barmaid, love, and I watch people for a living, which is all the reading I do."
 
 > [!qna]**Is anyone else watching him?**
 >
-> > "A dockhand drops in near the end of every tenday for a quiet word with the big man. I'll nod when he walks in, so you'll know him."
+> > "A dockhand drops in near the end of every tenday for a quiet word with the big man, and I'll nod when he walks in so you'll know him."
 
 ### The Courier
 
@@ -330,7 +328,7 @@ Several routes show that something rides in Meloon's skull. They are independent
 >
 > *Detect Thoughts* on Meloon, or an open accusation in the taproom, alerts the devourer. It does not fight in public, because a fight brings Durnan down on it. It says Meloon is tired, climbs the stair, bars his door and waits for the courier.
 >
-> From that moment it refuses every invitation, will not go to the Tower and answers no questions. Vajra's route closes. The dawn ritual is the one time it can be found alone, so the party must act on that morning.
+> From that moment it refuses every invitation, will not go to the Tower and answers no questions, so Vajra's route closes. The dawn ritual is the one time it can be found alone, and the party must act on that morning.
 
 ### The Report
 
@@ -338,9 +336,9 @@ The party can report whenever it has what Vajra needs. She acts at dawn on the d
 
 > [!readaloud]
 >
-> At the top of the Tower Vajra stands at her desk with a fresh page open and a pen already wet. She does not ask how the watch went.
+> At the top of the Tower Vajra stands at her desk with a fresh page open and a wet pen in her hand, and she does not ask how the watch went before she speaks.
 >
-> > "Tell me what you saw, in order. I want specific things, not that he seemed off. Then I want the days. Then I want what confirms it."
+> > "Tell me what you saw, in order, and give me specific things instead of saying he seemed off. Then I want the days, and then I want whatever confirms it."
 
 > [!exploration]**What Vajra Needs**
 >
@@ -354,11 +352,11 @@ The party can report whenever it has what Vajra needs. She acts at dawn on the d
 
 > [!qna]**Can we do it ourselves?**
 >
-> > "You can. If it goes wrong, no one is standing there to dispel it. I would sooner take him at the Tower."
+> > "You can try it yourselves, but if it goes wrong there is no one standing there who can dispel it. I would sooner take him at the Tower."
 
 > [!qna]**What will you do?**
 >
-> > "I'll order him to the Tower at dawn on Force Grey business. He'll come, because a refusal would tell me everything. Stay away from the Portal tonight."
+> > "I'll order him to the Tower at dawn on Force Grey business, and he'll come, because a refusal would tell me everything. Stay away from the Portal tonight and let him think nothing has changed."
 
 If Vajra accepts the report, continue with **The Extraction** at **Vajra Acts**. If the party alerted the devourer, or chooses to act without Vajra, continue at **Getting Him Alone**.
 
