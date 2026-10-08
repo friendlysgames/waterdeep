@@ -19,7 +19,7 @@
 > - The records room holds three things: two weeks of notes on Mattrim, a list naming Lysa Fenwick of House Amcathra and Teren Moss of House Rosznar, and letters naming Beldan Rusk as the handler.
 > - Rusk collects these papers from the house. The members learn his name here for the first time unless **Handler Ledger Read** is marked.
 > - If the members followed him, Edric reaches the house at 09:00. If he is not stopped first, mark **Edric Report Delivered**.
-> - If the members did not identify him, he delivered the report at 09:00 and now follows the first interviewer to leave their lodging.
+> - If the members did not identify him, he delivered the report at 09:00 (mark **Edric Report Delivered**) and now follows the first interviewer to leave their lodging.
 
 ### A Face in the Crowd
 
@@ -158,7 +158,7 @@ If the members approach the door, read the following aloud:
 > - **The noble-house list:** The list names Lysa Fenwick at House Amcathra and Teren Moss at House Rosznar, with their routines. They are the two contacts named in the cipher from **The Dead Drop**, and not new people.
 > - **The letters:** The letters name Beldan Rusk as the contact who collects reports at the customs house, which ties this house to the channel Tessalar Maeridge served.
 >
-> If **Harper Contacts Relocated** is marked, the two contacts are already safe, and the files only describe the routines they have left behind. Otherwise Mirt moves them within two days of the report. None of the papers shows any knowledge of the Cassalanters.
+> If **Harper Contacts Relocated** is marked, the two contacts are already safe, and the files only describe the routines they have left behind, though the move may still be inside its two days. None of the papers shows any knowledge of the Cassalanters.
 
 Read the following aloud when the members leave with the files:
 
@@ -213,7 +213,7 @@ Bonnie's exclusion of Edric settles the crew, whether or not he is in custody.
 > [!gamemaster]**Event Outcomes**
 >
 > - **Edric Captured** — mark when the members or the Watch hold Edric after the chase, including when he surrenders; read by Bonnie's reply in this Event.
-> - **Edric Report Delivered** — mark when Edric reaches the house with his report at 09:00, including when he escapes or takes the bargain; read by Bonnie's reply in this Event and by **Kolat Towers** (unconverted).
+> - **Edric Report Delivered** — mark when Edric reaches the house with his report at 09:00, including when he escapes or takes the bargain; read by the Aftermath in this Event and by **Kolat Towers** (unconverted).
 > - **Nethpranter Safehouse Reported** — mark when the members give Mirt the address or the files; read by **Faction Outposts** (unconverted).
 > - **Harper M3 Complete** — mark after the report to Mirt and Bonnie's exclusion of Edric, whether he is held or free; read by **The Doppelganger Problem** (Emerald Enclave Mission 3).
 

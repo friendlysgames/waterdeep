@@ -24,7 +24,7 @@ Corene has worked inside the Xanathar Guild's Dock Ward operation for four month
 >
 > The devourer is a custom variant that keeps Corene's brain alive. She is aware and cannot act, and she can be saved by forcing the devourer out. Nihiloor has put devourers into three Harpers, and Mirt says so at the end. Corene's cover is sound, and her reports are accurate, but her questions are about the Harpers instead of the Guild.
 >
-> The mole is Tobin Harrask, a records-relay clerk. He copies each entry to Beldan Rusk 48 hours after it is entered, hoping the Splinter will pay him for it. Mirt says "the handler" unless **Handler Ledger Read** is marked. Nobody in this mission names the Splinter's leader.
+> The mole is Tobin Harrask, a records-relay clerk. He copies each entry to Beldan Rusk 48 hours after it is entered, hoping the Splinter will pay him for it. Mirt says "the handler" unless **Handler Ledger Read** or **Nethpranter Safehouse Reported** is marked. Tobin's confession also names Rusk. Nobody in this mission names the Splinter's leader.
 
 ## Finding Corene
 

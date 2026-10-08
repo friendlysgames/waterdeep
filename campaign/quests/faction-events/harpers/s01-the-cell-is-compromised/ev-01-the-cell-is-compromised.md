@@ -16,7 +16,7 @@
 >
 > - Tobin Harrask is a clerk in the Harper records relay. He copies every operational entry in his register and passes it to Beldan Rusk exactly 48 hours later. Rusk delivers the copies to the Splinter.
 > - Fourteen people have handled the material that leaked, and Tobin is one of them. Mirt does not know which, and he does not guess.
-> - Mirt says "the handler" where Rusk's name would go. If **Handler Ledger Read** is marked, he may say "Rusk".
+> - Mirt says "the handler" where Rusk's name would go. If **Handler Ledger Read** or **Nethpranter Safehouse Reported** is marked, he may say "Rusk".
 > - The Harpers know only that the Black Network has split. Mirt says "the Splinter" and never names its leader.
 > - The party cannot identify Tobin in this Event. **The Sleeping Asset** gives them three ways to do it.
 
@@ -34,7 +34,7 @@ The address is 6 Brondar's Way, third-floor front room, at 19:00. Any character 
 
 ### The Rented Room
 
-Mirt has rented the room for a week, in cash, under no name. The tenement stairs are narrow, and the front room has a low ceiling, one window over the street and a plain table with chairs for each member summoned.
+Mirt has rented the room for a tenday, in cash, under no name. The tenement stairs are narrow, and the front room has a low ceiling, one window over the street and a plain table with chairs for each member summoned.
 
 > [!readaloud]
 >

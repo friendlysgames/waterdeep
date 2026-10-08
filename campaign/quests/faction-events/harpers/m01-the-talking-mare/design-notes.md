@@ -18,4 +18,4 @@ Maxeene sits at a Dock Ward stand off Fillet Lane, not in the Trades Ward at Sal
 
 ## Invented Names and Open Items
 
-Invented: Vell, Orvel, Hessa Dorn, the Wagonworks Stable, the pale man with the carved wand, Brondar's Way as the stable's street. Minor NPCs are voiced from the event text, since none has a Notable Figures page. Maxeene's Notable Figures page says "unremarkable coloring" and places her outside the Yawning Portal, which disagrees with the white blaze and the Dock Ward stand. The Harpers Mechanics Reference carries the audits. The Splinter's source for the talking horse is a stablehand's gossip, and the draft does not link it to the relay leak that **The Cell Is Compromised** describes.
+Invented: Vell, Orvel, Hessa Dorn, the Wagonworks Stable, the pale man with the carved wand, Brondar's Way as the stable's street. Minor NPCs are voiced from the event text, since none has a Notable Figures page. The Harpers Mechanics Reference carries the audits. The Splinter's source for the talking horse is a stablehand's gossip, and the draft does not link it to the relay leak that **The Cell Is Compromised** describes.

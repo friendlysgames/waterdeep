@@ -208,7 +208,7 @@ Whatever the case, Remallia now says what she is.
 >
 > She slides a card across the desk.
 >
-> > "You've slept at twelve Delzorin Street, and the woman who gave you the key works for me. When you need something from the Harpers, you may come to me directly. Now tell me about yourselves again, because I like to know whom I'm feeding."
+> > "The keeper of twelve Delzorin Street answers to me. When you need something from the Harpers, you may come to me directly. Now tell me about yourselves again, because I like to know whom I'm feeding."
 
 Mark **Remallia Harper Contact Known**, since each member who was present now has a direct line to her.
 

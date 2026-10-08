@@ -309,7 +309,7 @@ If it is not marked, read or paraphrase the following instead:
 
 > [!qna]**Who vouches for Talar?**
 >
-> > "A chandler on Fillet Lane, a map-seller on the Street of Silks and a cartwright in the Sea Ward. Each knows you by this name and by no other. Go and buy something from them before you rely on it."
+> > "A rope-maker in the South Ward and a glazier in the Castle Ward. Each knows you by this name and by no other. Go and buy something from them before you rely on it."
 
 > [!exploration]**The Third Persona**
 >
@@ -317,7 +317,7 @@ If it is not marked, read or paraphrase the following instead:
 >
 > - **Name:** The member names a surname at the table. If they name none, the surname is Talar.
 > - **Cover:** A senior purchasing agent for Vale & Reed Imports, with a registry extract, a guild letter and three years of quarterly receipts for coastal orders.
-> - **Vouching:** Nella Fen, 16 Fillet Lane, and Orin Dask, 9 Street of Silks, confirm the dealings on their own receipts. Ilen Castor, a cartwright at 6 Shield Street in the Sea Ward, confirms the transport orders when shown a receipt number. None of them knows the other two personas.
+> - **Vouching:** Maera Brandt, rope-maker, 14 Wickerwork Row in the South Ward, and Tomas Ardel, glazier, 3 Mender's Court in the Castle Ward, confirm the dealings on their own receipts. Each knows the member by this name and no other. Neither knows the other two personas.
 > - **Effect:** The papers stand up to ordinary commercial scrutiny. The member has Advantage on a Charisma check to be believed as a purchasing agent when the other party can check the papers.
 > - **Limits:** The papers give no disguise, no legal office and no automatic success. They fail a magical check, and outside Waterdeep nobody can confirm them.
 > - **Delivery:** The packet is handed over tonight. The member keeps the first two personas.

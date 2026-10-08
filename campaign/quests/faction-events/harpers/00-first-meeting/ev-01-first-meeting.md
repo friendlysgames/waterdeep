@@ -191,7 +191,7 @@ If a candidate declines, read or paraphrase the following:
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Harpers Joined** — mark for each character who accepts Mirt's offer, whether that night or on a later invitation, and record the character's name. Read by the **Harpers** Factions Guide page and by every Harper faction mission beginning with **The Talking Mare**, to confirm each member's individual eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no private meeting takes place.
+> - **Harpers Joined** — mark for each character who accepts Mirt's offer, whether that night or on a later invitation, and record the character's name. Read by **The Talking Mare** and every later Harper event, to confirm each member's eligibility. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines or no private meeting takes place.
 
 > [!gamemaster]**Next Steps**
 >
