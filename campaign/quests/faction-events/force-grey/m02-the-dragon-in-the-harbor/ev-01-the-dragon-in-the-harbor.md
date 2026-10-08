@@ -26,7 +26,7 @@
 
 ### The Brief
 
-The mission opens one of two ways, depending on the date. Use the Queenspire opening on Ches 21–30, during Fleetswake. On any other date, use the *Sending* and run Meritide's complaint at the quay in **The Descent**.
+The mission opens one of two ways, depending on the date, and you use the Queenspire opening on Ches 21–30, during Fleetswake. On any other date, use the *Sending* and run Meritide's complaint at the quay in **The Descent**.
 
 If the date falls on Ches 21–30, read or paraphrase the following:
 
@@ -80,7 +80,7 @@ On any other date, the *Sending* goes to the Force Grey member with the highest 
 >
 > > Blackstaff here. Bronze dragon, Deepwater Harbor, outside the Dragonward. Intentions unknown. Come to the Tower now. Bring your people. Assess it, do not provoke it.
 
-The recipient can answer in up to 25 words, and Vajra does not wait for a reply. Whichever opening ran, the members go to Blackstaff Tower, where Gray Hands may enter at any hour. Companions and any non-members wait in the entry hall.
+The recipient can answer in up to 25 words, and Vajra does not wait for a reply. Whichever opening ran, the members go to Blackstaff Tower, where Gray Hands may enter at any hour, and companions and non-members wait in the entry hall.
 
 > [!readaloud]
 >
@@ -143,7 +143,7 @@ Continue with **The Vials**.
 
 ### The Vials
 
-Vajra hands out the potions at the end of the brief. Every member and every companion receives one, and she has no spares.
+Vajra hands out the potions at the end of the brief, and every member and every companion receives one because she has no spares.
 
 > [!readaloud]
 >
@@ -153,15 +153,15 @@ Vajra hands out the potions at the end of the brief. Every member and every comp
 
 > [!exploration]**The Vials**
 >
-> Each *potion of water breathing* lets its drinker breathe underwater for 24 hours. It gives no Swim Speed, so the characters swim at the usual cost in movement.
+> Each *potion of water breathing* lets its drinker breathe underwater for 24 hours but gives no Swim Speed, so the characters swim at the usual cost in movement.
 >
 > - A vial ends 24 hours after it is drunk, whether the character is above the water or below it.
-> - A character who loses or breaks a vial can ask Vajra for a replacement. She gives one replacement per character, without comment.
+> - A character who loses or breaks a vial can ask Vajra for one replacement, which she gives without comment.
 > - A character without a vial cannot dive and waits at the quay with the party's belongings.
 
 ### The Descent
 
-The party reaches the quay with its vials. During Fleetswake it already knows Meritide's terms, and his 48 hours started when he finished speaking. On any other date, he meets the party here.
+The party reaches the quay with its vials, and during Fleetswake it already knows Meritide's terms because his 48 hours started when he finished speaking. On any other date, he meets the party here.
 
 If the party has not yet met Meritide, read or paraphrase the following:
 
@@ -175,9 +175,9 @@ Use Meritide's social block and answers from **The Brief**. Here he suspects the
 
 > [!gamemaster]**Meritide's Deadline**
 >
-> The only clock in this Event is Meritide's 48 hours. A vial lasts 24 hours, which covers the whole dive, so the potions never run out underwater.
+> The only clock in this Event is Meritide's 48 hours, and a vial lasts 24 hours, which covers the whole dive, so the potions never run out underwater.
 >
-> - Track the deadline in days, not hours. A party that dives, takes a Long Rest and then carries the offerings to the Queenspire still finishes in time.
+> - Track the deadline in days, not hours, because a party that dives, takes a Long Rest and then carries the offerings to the Queenspire still finishes in time.
 > - At the 48th hour, a swell strikes the pilings once and subsides, and nobody is hurt.
 > - A party that delivers the offerings after that still marks **Offerings Returned**, but it earns no Renown for them.
 
@@ -204,7 +204,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 
 > [!hazard]**If the Party Attacks**
 >
-> Zelifarn uses the **Young Bronze Dragon** stat block (CR 8), and the **Force Grey Mechanics Reference** covers him. He does not want a fight and has no allies nearby. The party gains nothing from attacking him and loses its way to the offerings and the keel.
+> Zelifarn uses the **Young Bronze Dragon** stat block (CR 8), and the **Force Grey Mechanics Reference** covers him. He does not want a fight and has no allies nearby, and the party gains nothing from attacking him while it risks losing its way to the offerings and the keel.
 >
 > #### Zelifarn's Tactics
 > At the start of combat, Zelifarn uses his Repulsion Breath, a 30-foot cone. Each creature in it makes a DC 15 Strength saving throw or is pushed 40 feet and knocked Prone. Then he swims for deeper water.
@@ -214,7 +214,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 > - Uses his Bite or Lightning Breath only if a character blocks his route.
 > - Calls out in a high, hurt voice that he is leaving.
 >
-> The fight ends when Zelifarn is out of sight, which happens at the end of his first turn at the latest. He does not surface near the party again in this mission. If the party spoke with him before the attack, mark **Zelifarn Contacted**. Otherwise leave it unmarked.
+> The fight ends when Zelifarn is out of sight, which happens at the end of his first turn at the latest. He does not surface near the party again in this mission. Mark **Zelifarn Contacted** only if the party spoke with him before the attack.
 >
 > Any character who lowers their weapon and apologises within the same round can call him back with a successful DC 13 Charisma (Persuasion) check, and he returns wary and ready to trade. The check fails automatically if that character has hurt him.
 >
@@ -226,7 +226,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 >
 > Zelifarn (Neutral, Bronze Dragon, he/him) :: a bright, bouncy young dragon who trades facts the way sailors trade rumors, and who never lies.
 >
-> Zelifarn is delighted by visitors and wants to know what everything is. He calls ships by their names and people by what they are wearing. He does not understand secrets and answers anyone who asks him a question. He picks up rude sailor words and uses them wrong.
+> Zelifarn is delighted by visitors and wants to know what everything is, and he calls ships by their names and people by what they are wearing. He does not understand secrets and answers anyone who asks him a question, and he picks up rude sailor words and uses them wrong.
 >
 > Conversation topics Zelifarn is willing to discuss include:
 >
@@ -239,7 +239,7 @@ Zelifarn is friendly and wants something, and he covers the distance before anyo
 
 > [!exploration]**The Trade**
 >
-> Zelifarn answers one question for each true fact the party gives him that he does not already know. Once a question is paid for, he answers it fully and truthfully.
+> Zelifarn answers one question for each true fact the party gives him that he does not already know, and once a question is paid for he answers it fully and truthfully.
 >
 > - **A fact:** A character states one true thing about the surface world in a sentence or two, such as how a lock works or why a temple rings a bell. A fact he already knows, such as "ships float", earns nothing.
 > - **A gift:** A character hands over something they carry and use, such as a holy symbol, a tool kit, a favored weapon or a worn ring. Zelifarn answers every question for the rest of the dive, and the party marks **Zelifarn Befriended**. The character does not get the item back.
@@ -265,7 +265,7 @@ Continue with **The Offerings** or **The *Eyecatcher***. The party can run them 
 
 ### The Offerings
 
-During Fleetswake the party is looking for the thief and can ask Zelifarn outright. On any other date, Meritide has named the dragon as his suspect. Either way, Zelifarn confesses as soon as anyone asks about the deep moorings.
+During Fleetswake the party is looking for the thief and can ask Zelifarn outright, and on any other date Meritide has named the dragon as his suspect. Either way, Zelifarn confesses as soon as anyone asks about the deep moorings.
 
 > [!readaloud]
 >
@@ -277,7 +277,7 @@ During Fleetswake the party is looking for the thief and can ask Zelifarn outrig
 >
 > The cave opens beneath the wreck's bow, a low gap in the rock that only a dragon could squeeze through. Inside, silver cups are stacked like bowls, and split casks spill coin across the floor. A row of candle jars sealed in wax stands beside a ship's bell gone green with age.
 
-The cave holds fourteen silver cups, three split casks of boat-race coin, six jars of sealed candles and a ship's bell. The coin and silver together are worth about 400 gp. The party now chooses between returning the offerings and keeping them.
+The cave holds fourteen silver cups, three split casks of boat-race coin, six jars of sealed candles and a ship's bell. The coin and silver together are worth about 400 gp, and the party now chooses between returning the offerings and keeping them.
 
 > [!exploration]**Getting Them Back**
 >
@@ -288,7 +288,7 @@ The cave holds fourteen silver cups, three split casks of boat-race coin, six ja
 > - **A true fact about Umberlee:** Any character who tells him something he does not know about the goddess, such as what she does to ships that anger her, and makes a successful DC 10 Intelligence (Religion) check persuades him.
 > - **Fallback:** If all three routes fail, Zelifarn agrees once the party tells him about Meritide's 48 hours, because he does not want a wave in his harbor.
 >
-> Once he agrees, Zelifarn helps carry the offerings to the quay. The party carries them to the Queenspire in two trips.
+> Once he agrees, Zelifarn helps carry the offerings to the quay, and the party carries them from there to the Queenspire in two trips.
 
 > [!readaloud]
 >
@@ -308,7 +308,7 @@ A party that delivers the offerings after the 48th hour finds Meritide colder an
 
 > [!exploration]**Keeping the Offerings**
 >
-> A party that wants the matter closed without returning anything has two people to deal with. Zelifarn cannot keep a secret and will not lie. Meritide will ask what the party found.
+> A party that wants the matter closed without returning anything has two people to deal with, because Zelifarn cannot keep a secret or lie and Meritide will ask what the party found.
 >
 > - **Zelifarn:** A character who asks him to say nothing gets a puzzled answer: "I don't know how to do that. I'll just not say it unless someone asks." Nobody from the Queenspire asks him in this mission.
 > - **The offerings:** The party can take the coin and the cups, about 400 gp, or leave everything in the cave. The candles and the bell are too heavy and too strange to sell quickly.
@@ -334,7 +334,7 @@ If the check fails, read or paraphrase the following:
 
 ### The *Eyecatcher*
 
-Zelifarn raises the vessel unprompted once the party has made three trades or marked **Zelifarn Befriended**. Otherwise a character who asks about the ships raises it.
+Zelifarn raises the vessel unprompted once the party has made three trades or marked **Zelifarn Befriended**, and otherwise a character who asks about the ships raises it.
 
 > [!readaloud]
 >
@@ -360,20 +360,20 @@ Zelifarn raises the vessel unprompted once the party has made three trades or ma
 
 > [!exploration]**Looking at the Keel**
 >
-> The party can swim to the *Eyecatcher* and look at the vessel itself. Every character who goes needs a vial still in effect.
+> The party can swim to the *Eyecatcher* and look at the vessel itself, provided every character who goes has a vial still in effect.
 >
 > Any character who swims under the hull and makes a successful DC 13 Dexterity (Stealth) check passes the deck watch unseen. A character who then makes a successful DC 14 Strength (Athletics) check pulls themselves to the keel collar and sees the whole vessel. It is about 80 feet long and 20 feet across, a round collar clamps it to the keel, and a hatch seam runs along its top.
 >
 > - **Failed Stealth check:** A lantern swings over the rail, and a crossbow bolt strikes the water above the party. The party withdraws unharmed and learns nothing beyond what Zelifarn told it.
 > - **Failed Athletics check:** The character sees the vessel's outline from below but cannot reach the collar. Zelifarn's account supplies the rest.
 >
-> The hatch is locked and belongs to **Sea Maidens Faire**, where it matters. The Faire records divers near the keel as unexplained and takes no further action.
+> The hatch is locked and belongs to **Sea Maidens Faire**, where it matters, and the Faire records divers near the keel as unexplained and takes no further action.
 
 Continue with **The Report**.
 
 ### The Report
 
-Vajra receives the members at any hour, and companions wait below. She hears the dragon first, then the offerings if the party raises them, and the vessel last.
+Vajra receives the members at any hour while companions wait below, and she hears the dragon first, then the offerings if the party raises them, and the vessel last.
 
 > [!readaloud]
 >
@@ -443,15 +443,15 @@ Then the members describe the vessel. Read or paraphrase the following:
 > - **+1 Renown:** report the vessel under the *Eyecatcher* in usable detail, and mark **Submarine Reported**.
 > - **+1 Renown:** return the offerings to Meritide before the 48 hours end, and mark **Offerings Returned**.
 >
-> Each bonus is earned once. Nothing in this mission costs a member Renown.
+> Each bonus is earned once, and nothing in this mission costs a member Renown.
 
 ### Aftermath
 
-Zelifarn stays at the wreck and keeps watching the *Eyecatcher*. If the party gave him a gift, he greets it by name when it returns. If it attacked him, he does not surface near it again in this mission.
+Zelifarn stays at the wreck and keeps watching the *Eyecatcher*, and if the party gave him a gift he greets it by name when it returns. If the party attacked him, he does not surface near it again in this mission.
 
-Meritide ends the mission satisfied or suspicious. If the offerings came back, the Queenspire's priests tell sailors the thief has gone and the Queen has been paid. If they did not, Meritide keeps a quiet watch on the moorings and on the party.
+Meritide ends the mission satisfied or suspicious. If the offerings came back, the Queenspire's priests tell sailors the thief has gone and the Queen has been paid, and if they did not, Meritide keeps a watch on the moorings and on the party.
 
-Vajra files the report. She changes nothing at the Faire and sends no one to the *Eyecatcher*. **Sea Maidens Faire** reads Zelifarn's standing, the offerings and the vessel report.
+Vajra files the report, changes nothing at the Faire and sends no one to the *Eyecatcher*. **Sea Maidens Faire** reads Zelifarn's standing, the offerings and the vessel report.
 
 ### Concluding the Event
 

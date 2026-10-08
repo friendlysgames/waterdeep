@@ -18,7 +18,7 @@ On Ches 21–30, during Fleetswake, a locathah messenger brings the party to the
 
 ## Background
 
-Zelifarn is a young bronze dragon who has lived in Deepwater Harbor for about three tendays. He scours the wrecks on the harbor floor and keeps what he finds in a cave beneath an elvish wreck forty feet down. Captains and churches leave offerings for Umberlee at the deep moorings, and Zelifarn took them because nobody was guarding them and he believed they were abandoned.
+Zelifarn is a young bronze dragon who has lived in Deepwater Harbor for about three tendays, scouring the wrecks on the harbor floor and keeping what he finds in a cave beneath an elvish wreck forty feet down. Captains and churches leave offerings for Umberlee at the deep moorings, and Zelifarn took them because nobody was guarding them and he believed they were abandoned.
 
 Meritide Blackfin, the Dread High Priest of the Queenspire, believes a thief is robbing the goddess and has set a deadline. Vajra knows only that sailors have reported a dragon. She does not know that something is fixed to the keel of the *Eyecatcher*, which Zelifarn has watched since the ship arrived.
 
@@ -26,16 +26,15 @@ Meritide Blackfin, the Dread High Priest of the Queenspire, believes a thief is 
 >
 > - Zelifarn never lies, does not understand secrets and submerges if he is attacked.
 > - The offerings are in his cave, worth about 400 gp in coin and silver, and he returns them if the party gives him a reason.
-> - The vessel under the *Eyecatcher* is the *Scarlet Marpenoth*, a Bregan D'aerthe submersible. Zelifarn does not know whose it is.
-> - No speaker in this mission names Jarlaxle or Bregan D'aerthe.
+> - The vessel under the *Eyecatcher* is the *Scarlet Marpenoth*, a Bregan D'aerthe submersible whose owner Zelifarn does not know, and no speaker in this mission names Jarlaxle or Bregan D'aerthe.
 
 ## The Brief
 
-Vajra briefs the members at her standing desk in Blackstaff Tower, where the door opens before anyone knocks. She wants the dragon's intentions assessed and gives no orders beyond that. During Fleetswake the party arrives from the Queenspire with Meritide's complaint already in hand.
+Vajra briefs the members at her standing desk in Blackstaff Tower, where the door opens before anyone knocks, and she wants the dragon's intentions assessed and gives no orders beyond that. During Fleetswake the party arrives from the Queenspire with Meritide's complaint already in hand.
 
 ## The Vials
 
-Vajra hands out one *potion of water breathing* for every member and every companion. Each potion lasts 24 hours from the moment it is drunk, and she has no spares.
+Vajra hands out one *potion of water breathing* for every member and every companion, and each potion lasts 24 hours from the moment it is drunk. She has no spares beyond one replacement for each character.
 
 ## The Descent
 
@@ -43,7 +42,7 @@ The party drinks its vials at the harbor quay and swims forty feet down to the w
 
 ## The Wreck
 
-Zelifarn reaches the party before it reaches him. A character can read his intentions with a check, or ask him outright, and he answers truthfully. If the party attacks, he breathes once, swims away and does not return to it.
+Zelifarn reaches the party before it reaches him, and a character can read his intentions with a check or ask him outright and get a truthful answer. If the party attacks, he breathes once, swims away and does not return to it.
 
 ## Zelifarn's Trade
 
@@ -51,7 +50,7 @@ Zelifarn answers one question for every true fact the party gives him that he do
 
 ## The Offerings
 
-Zelifarn admits to taking the offerings and shows the party his cave. The party can persuade him to return them or let him keep them. Meritide receives the party either way, and what he says depends on what the party chooses.
+Zelifarn admits to taking the offerings and shows the party his cave, where the party can persuade him to return them or let him keep them. Meritide receives the party either way, and what he says depends on what the party chooses.
 
 ## The *Eyecatcher*
 
@@ -59,7 +58,7 @@ Zelifarn describes a second hull fixed to the keel of the *Eyecatcher*, which co
 
 ## The Report
 
-Vajra hears the dragon first and the vessel last. The members decide how much of the vessel to describe, and she asks four questions that decide how well they report it.
+Vajra hears the dragon first and the vessel last, and the members decide how much of the vessel to describe. She asks four questions that decide how well they report it.
 
 ## Renown Opportunities
 
@@ -78,7 +77,7 @@ Zelifarn stays at the wreck and keeps watching the *Eyecatcher*, and he remember
 
 ## Dangers & Enemies
 
-No combat unless the party attacks Zelifarn. He uses the **Young Bronze Dragon** stat block, breathes once to push attackers away and swims off. The Faire's deck watch fires crossbows at divers who are seen near the *Eyecatcher*. The real pressure is Meritide's 48 hours.
+There is no combat unless the party attacks Zelifarn, who uses the **Young Bronze Dragon** stat block, breathes once to push attackers away and swims off. The Faire's deck watch fires crossbows at divers who are seen near the *Eyecatcher*, and the real pressure is Meritide's 48 hours.
 
 ## Overview
 
