@@ -1,23 +1,21 @@
 # Design Notes: The Doppelganger Auditions
 
-## On Mission Structure
+## The Source and the Warning
 
-***The trust test is two-directional.*** The source material presents this as a one-directional evaluation: the PCs assess the doppelgangers. The revision introduces Bonnie as a parallel evaluator — she is deciding whether these particular clients are worth trusting at the same time the PCs are deciding whether the crew is worth recruiting. This makes the mission a negotiation rather than an investigation. Passing the DM's intelligence test (catching Edric) is necessary but not sufficient; treating Bonnie as a peer and acknowledging what she tried to do is what earns the full payoff.
+Appendix C gives a one-day assessment of five doppelgangers, with a DC 16 Insight tell, a reveal from Mattrim after the interviews and a closing line from Mirt. The rewrite keeps all three, plus Mirt's opening warning that one of the five has already sold the party's affiliation, which earlier drafts dropped. The crew is Bonnie, Edric, Kael, Syla and the Scholar, which matches WDH and Appendix C. The invented Merchant is cut, and only Bonnie is recruitable, as the source and the Factions Guide say.
 
-***Mattrim's revelation as a structural beat.*** The revelation that Bonnie already knew is placed after the interviews conclude, not before, because the party should reach their own conclusion about Edric first. If Mattrim tells them before the interviews end, the party uses his information as confirmation rather than working independently. Having them arrive at Edric through the interviews, then learn that Bonnie (and Mattrim) got there too, makes the confirmation feel earned rather than provided.
+## What Changed
 
-## On Edric Tanner
+Edric's single DC 16 tell becomes four independent weaknesses, two of which need no check, so no roll settles the mission. Two tells are enough for Bonnie to act. If the members catch Edric, they choose between having Bonnie hold him at breakfast and following him to the safehouse. That choice decides whether **The Tail** runs. The hand-offs are stated once: **Harper M3 Complete** is written by whichever event runs last, and it keeps the meaning the Emerald Enclave reads, that Edric is out of the crew.
 
-***The Splinter asset as the friendliest one.*** Edric is designed to be the most disarming interviewee — open-faced, quick laugh, full of warm anecdotes. This is a deliberate inversion of the "obvious villain" failure mode. The party should want him to be trustworthy. Finding the tells (the too-precise knowledge, the blink rate, the missing calluses) requires paying close attention to the most appealing person in the room. This is a more honest representation of how counterintelligence actually works.
+Bonnie wears her Tethyrian barmaid form, as in WDH, and not the violet tiefling of Appendix C. The base Renown is 3, with three listed bonuses, and the 50 gp fee goes to every contributing character. The Edric Report Prevented and Bonnie Neutrality Pact outcomes are cut, and so is the earlier line about a Kolat Towers raid tuned to the party. **Edric Report Delivered** now only names the faces and affiliations in his report, and **Kolat Towers** decides its own use of them.
 
-***Named as "Edric Tanner."*** Edric Tanner is the Splinter asset named here. He is the Kelso equivalent for this mission's traitor reveal — distinct from Kelso Fiddlewick, who appears in the Emerald Enclave's version of the same doppelganger thread as the Splinter contact who bought the intelligence. They are different nodes in the same operation.
+## Departures from the Source
 
-## Cross-Faction Connection
+Appendix C spreads the interviews over a week, and this version uses two evenings. Mattrim speaks after the interviews as the source has it, and he says Bonnie has known for three weeks while he learned only a week ago. The Notable Figures page for Mattrim says two years of groundwork, and the source says three months, so the page's two years is used. Mission Renown sits in the first event because the second is conditional, and the second awards only the safehouse bonus.
 
-***Harper M3 Complete flag and EE-M3.*** Bonnie appears in Emerald Enclave Mission 3 (The Doppelganger Problem). If Harper M3 ran first and Bonnie's situation was resolved, she has already dealt with the traitor internally before the Enclave finds her. The EE mission opens on a different footing — the traitor is gone, Bonnie is not managing an active crisis, and the negotiation is cleaner and faster. The `Harper M3 Complete: True` flag is what transmits this state across faction mission systems.
+## Invented Names and Open Items
 
-This flag represents the campaign's most developed cross-faction mission connection. It rewards parties who are running multiple faction threads simultaneously, since Harper and Enclave missions proceeding in parallel changes what the other faction encounters.
+Edric Tanner, Kael, Syla, the Nethpranter Street safehouse, Lysa Fenwick and Teren Moss (shared with **The Dead Drop**), and Beldan Rusk (shared with **The Dead Drop**) are invented. The Scholar has no name.
 
-## On the ev-02 Split
-
-***The Tail as consequence, not punishment.*** ev-02 fires only when Edric is not identified. It is not a failure state that ends the mission — it is a consequence state that extends it. Parties who catch Edric never see this event. Parties who miss him do, and they have a chance to partially recover by finding the safehouse. The mission's floor (Edric files his report but the safehouse is found) is disappointing but not catastrophic. The ceiling (Edric caught, Bonnie recruited as full operative) is the best Harper asset expansion in the campaign.
+Edric, Kael, Syla and the Scholar have no voice profiles, so each has one tic: Edric's "Right,", Kael's "Not my watch.", Syla's questions, and the Scholar's prices. The Emerald Enclave page **The Doppelganger Problem** still has Bonnie leave Waterdeep in two tendays and treats the crew as five, which conflicts with Bonnie as a Harper operative at the Portal. The Bonnie and Mattrim Notable Figures pages call this "mission three" and "mission four" in different places, and Appendix B calls Mattrim not a formal agent. **Bonnie Harper Operative** has no reader beyond **The Tail**.

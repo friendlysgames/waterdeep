@@ -1,33 +1,77 @@
 # The Doppelganger Auditions: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> Available at Renown 5 and 4th level. The Dead Drop must be complete.
+> Available to Harper members at Renown 5 and 4th level after **The Dead Drop**. Their companions can help with the interviews and the pursuit, and only members attend Mirt's brief and report.
 >
 > #### Difficulty
-> *An adventure for 4th level characters.*
+> *An adventure for 4th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> Edric Tanner uses the ordinary 2024 **Doppelganger**. The two safehouse residents are scaled to the party: a **Spy** with one or two **Bandits** for three or four characters, and two **Spies** for five. The **Harpers Mechanics Reference** sets every roster.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points. Renown goes to the individual Harper members who report to Mirt.
+
+## Hook
+
+Mirt finds the eligible members in the common room of the Yawning Portal and takes them upstairs. Mattrim Mereg has befriended five doppelgangers and wants the Harpers to recruit them, and Mirt wants the members to interview each one and tell him which they would trust. He adds that, in his considered opinion, one of the five has already sold the party's Harper affiliation.
+
+## Background
+
+Bonnie, the Portal's best barmaid, leads a crew of five doppelgangers who came to Waterdeep over a year ago and live on honest wages. Edric Tanner joined two months ago and sells what he hears to the Splinter. Bonnie traced a payment to him three weeks ago and has told nobody, and Mattrim learned only a week ago that she had found trouble.
+
+> [!gamemaster]**What Is Actually True**
+>
+> Bonnie is waiting to see whether the Harpers can catch Edric themselves, and whether they will protect her crew's names. Edric will deliver a report on the interviewers at 09:00 the morning after the second evening, to a safehouse on Nethpranter Street. Kael, Syla and the Scholar are not traitors, and none of the three will be recruited.
+
+## The Brief
+
+Mirt gives the warning and the assignment in the upstairs room of the Yawning Portal, in his business voice. The members then meet Mattrim, who has arranged both evenings.
+
+## The Interviews
+
+On the first evening Kael and Syla sit at the back table by the cellar stair, and on the second Edric and the Scholar follow. Each has one tell. Edric's cover has four weaknesses, and Bonnie speaks to the members last, after closing.
+
+## What You Noticed
+
+Mattrim tells the members what he knows, and Bonnie asks what they saw. If they caught Edric, she offers to hold him at breakfast or to let them follow him. If they did not, she says nothing and waits.
+
+## The Report to Mirt
+
+Mirt hears the account and asks whom the members would trust. Bonnie is the only one who passes, and Mirt offers her a Harper operative role. She accepts if her three terms are met and may refuse. Mirt pays 50 gp to every contributing character.
+
+## The Tail
+
+If Edric was not held, **The Tail** begins the next morning. The members follow Edric or find him following them, chase him through the Trades Ward and learn the address of his Nethpranter Street safehouse. Its files name two Harper contacts in noble houses and the handler who collects Edric's reports.
+
+## Renown Opportunities
+
+Each participating Harper member gains 3 base Renown for the interviews and the report to Mirt. Each eligible member also gains the following bonuses when the party meets their conditions:
+
+- **+1 Renown:** Edric is identified before his report is due at 09:00.
+- **+1 Renown:** Bonnie accepts the operative role.
+- **+1 Renown:** the safehouse is found and reported.
+
+Companions gain no Renown, and each bonus can be earned only once.
+
+## Aftermath
+
+Bonnie bars Edric from her crew, whether he is held or free. Kael, Syla and the Scholar keep their jobs and are not recruited. If Bonnie accepts Mirt's offer, she becomes a Harper contact at the Portal who reports through the members. If Edric delivered his report, the Splinter keeps the faces and affiliations in it. **A Friend's House** becomes available at Renown 8 and 5th level.
 
 ## Involved Characters
-- **Mirt** (Harpers) — mission contact; finds the party personally at the Yawning Portal, uncomfortable about the whole arrangement
-- **Mattrim "Threestrings" Mereg** (Harpers, Harper agent) — present at every interview, playing songs that are more perceptive than they sound; makes his private revelation after the last interview concludes
-- **Bonnie** — doppelganger crew boss; has known for three weeks which crew member is compromised; is running her own assessment of the PCs
-- **Edric Tanner** — presents as a Dock Ward teamster; the Manshoon Splinter asset embedded in Bonnie's crew for two months; will begin following party members if not identified
-- **Kael** — presents as a retired sailor; uninterested in Harper membership; leaves after twenty minutes; not the mole
-- **Syla** — presents as a Tethyrian merchant's widow; genuinely undecided about who she wants to be; not the mole
-- **The Scholar** — presents as a young academic; considers how Harper membership could be monetized; loyalty negotiable but not dangerous
-- **The Merchant** — presents as a Dock Ward import dealer; effectively trustworthy in a limited way; no hidden agenda
+
+- **Mirt** (Harpers): gives the warning, receives the report and offers Bonnie a place.
+- **Mattrim "Threestrings" Mereg** (Harpers): the Harper agent at the Portal who arranges the interviews.
+- **Bonnie** (Independent): the crew's leader, who judges whether the Harpers can be trusted with her people.
+- **Edric Tanner** (the Splinter): a doppelganger posing as a teamster, who reports on Harper contacts.
+- **Kael**, **Syla** and **the Scholar** (Independent): Bonnie's three other colleagues, none of them a traitor.
+- **Beldan Rusk** (the Splinter): the handler named in the safehouse letters.
+- **Lysa Fenwick** and **Teren Moss** (Harpers): the two noble-house contacts named in the safehouse files.
 
 ## Dangers & Enemies
-- Edric Tanner — not combat-threatening unless cornered; will drop his guise and adopt a new face if caught following a party member; leads back to a Splinter safehouse in the Trades Ward if followed
+
+Edric bargains and runs before he fights. If he joins the two residents at the safehouse, the party can still resolve the scene by watching the house and reporting its address. The residents yield when hurt and surrender if cornered.
 
 ## Overview
 
-Mirt approached the party without a paper bird — in person, at the Yawning Portal — which meant the mission mattered to him. Mattrim Mereg had been pushing for the Harpers to recruit Bonnie's crew of five doppelgangers, and Mirt needed a second opinion he could trust. He did not tell the party which one he suspected.
-
-The interviews ran over two evenings. Bonnie had already identified Edric Tanner as the Splinter asset through her own checks after a Guild operation was tipped off. She had said nothing — she wanted to see whether the Harpers were competent enough to catch him themselves. Mattrim, after the interviews concluded, took the party aside to tell them what he had worked out: one of the five had filed a report on the party's Harper affiliation, and Bonnie had known for about a week and had been trying to handle it herself.
-
-The party's report to Mirt — who they named, whether they disclosed Bonnie's prior knowledge, and what they recommended for the crew — shaped the Harper network's relationship with the Yawning Portal for the rest of the campaign.
+Mirt asks the party to interview five doppelgangers who work with Mattrim's friend Bonnie and to tell him which ones they would trust. One of them has already sold the Harpers out.
