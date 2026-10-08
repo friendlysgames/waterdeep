@@ -28,7 +28,7 @@ The note reaches each participating member at 16:00, carried by a street boy who
 >
 > A boy of about ten hands you a folded square of plain parchment, waits just long enough to be sure you have taken it, and runs off down the street. The paper has no seal and no scent. Inside, in Mirt's cramped hand, it gives an address in the North Ward and a time, followed by four words.
 >
-> > "Come alone. Be careful."
+> > "Come alone and be careful."
 
 The address is 6 Brondar's Way, third-floor front room, at 19:00. Any character who makes a successful DC 12 Intelligence (Investigation) check on the note sees that it is on cheap paper Mirt would never use at his manor. On a failure, the note still gives the address and the time.
 
@@ -58,23 +58,23 @@ Mirt has rented the room for a week, in cash, under no name. The tenement stairs
 
 > [!qna]**Who is it?**
 >
-> > "I don't know. Fourteen people handled what leaked. That's too many to accuse and too many to trust. I won't name one of them to make this easier."
+> > "I don't know. Fourteen people handled what leaked, which is too many to accuse and too many to trust, and I won't name one of them to make this easier."
 
 > [!qna]**How do you know there's a leak?**
 >
-> > "Because the Splinter moved too fast. They acted on things only Harpers knew, and each time they were ahead of me. I'll show you the times."
+> > "Because the Splinter moved too fast, on things only Harpers knew, and each time they were ahead of me. I'll show you the times."
 
 > [!qna]**How long did the leak take?**
 >
-> > "A couple of days from report to enemy, every time. That's too regular to be luck."
+> > "A couple of days from report to enemy every time, which is too regular to be luck."
 
 > [!qna]**Can we trust the other Harpers?**
 >
-> > "Trust them with a meeting time. Nothing more until I say otherwise. That isn't an accusation, lad. It's how we shut the door."
+> > "Trust them with a meeting time and nothing more until I say otherwise. That isn't an accusation, lad, it's how we shut the door."
 
 > [!qna]**You're not pouring?**
 >
-> > "Not tonight. I want your heads clear, and mine."
+> > "Not tonight, because I want your heads clear, and mine."
 
 ### The Evidence
 
@@ -138,9 +138,9 @@ If none of those outcomes are marked, read or paraphrase the following:
 
 **What Davil saw.** If the member has met Davil Starsong, Mirt adds one line, read from the first case that applies:
 
-- **Davil Released is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing, and he didn't know it was a gap. I did."
-- **Davil Arrested is marked and Davil Released is not:** "Tashlyn Yafeera runs the Doom Raiders while Davil is held. Her people saw the Splinter move, and she passed it to me. She didn't have to."
-- **Neither is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing, and he didn't know it was a gap. I did."
+- **Davil Released is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing and didn't know it was a gap, but I did."
+- **Davil Arrested is marked and Davil Released is not:** "Tashlyn Yafeera runs the Doom Raiders while Davil is held. Her people saw the Splinter move, and she passed it to me, though she didn't have to."
+- **Neither is marked:** "Davil Starsong's people saw the Splinter move before I did. He mentioned it to you in passing and didn't know it was a gap, but I did."
 
 If the member has not met Davil, Mirt says "A watcher of mine saw the Splinter move before the relay's orders could have reached it" and says no more.
 
@@ -148,7 +148,7 @@ If the member has not met Davil, Mirt says "A watcher of mine saw the Splinter m
 
 > [!exploration]**What Mirt Will Say**
 >
-> Any character who asks Mirt whether the members themselves are suspected and makes a successful DC 15 Charisma (Persuasion) check gets one more sentence from him. Mirt looks at the character, then says: "I know it's not you. That's the only name I can give you tonight." On a failure, he says: "Tell me what you've reported, and to whom. We'll go through it together."
+> Any character who asks Mirt whether the members themselves are suspected and makes a successful DC 15 Charisma (Persuasion) check gets one more sentence from him. Mirt looks at the character, then says: "I know it's not you, and that's the only name I can give you tonight." On a failure, he says: "Tell me what you've reported, and to whom, and we'll go through it together."
 >
 > Any character who asks how long he has been tracing the leak and makes a successful DC 13 Wisdom (Insight) check notices that Mirt's dates reach back further than a tenday. On a failure, the character sees only that he is tired.
 >
@@ -164,19 +164,19 @@ Mirt takes a second sheet from his coat and slides it across the table. It has t
 >
 > Mirt reads the three lines aloud, tapping the table once after each. The lamp flickers when someone moves in the corridor outside, and he waits until the boards stop creaking before he goes on.
 >
-> > "From tonight, operational intelligence goes to me, in person. Names, addresses, plans. Paper birds carry meeting times and nothing else. And anything you've already told another contact, you bring to me."
+> > "From tonight, operational intelligence such as names, addresses and plans goes to me in person. Paper birds carry meeting times and nothing else, and anything you've already told another contact, you bring to me."
 
 > [!qna]**Where do we meet you?**
 >
-> > "Send a bird asking for a time. I'll answer within a day with a place. This room stays rented for a tenday."
+> > "Send a bird asking for a time, and I'll answer within a day with a place. This room stays rented for a tenday."
 
 > [!qna]**Does this end the leak?**
 >
-> > "No. It keeps your next reports out of the route. I still have to find the source, and what's already out stays out."
+> > "No. It keeps your next reports out of the route, but I still have to find the source, and what's already out stays out."
 
 > [!qna]**Are we restricted?**
 >
-> > "You're careful. That's different. Go on as you were, and keep what you learn until we meet."
+> > "You're careful, which is different. Go on as you were, and keep what you learn until we meet."
 
 > [!gamemaster]**The Fixed Leak Rule**
 >

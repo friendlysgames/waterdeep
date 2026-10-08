@@ -64,7 +64,7 @@ When the members reach the upstairs room, read the following aloud:
 
 > [!qna]**Why would the Harpers want doppelgangers?**
 >
-> > "They can change faces, lad, and that is worth a great deal to us. It is also the reason I don't trust them yet."
+> > "They can change faces, lad, and that is worth a great deal to us, and it is also the reason I don't trust them yet."
 
 > [!qna]**Who sold us out?**
 >
@@ -72,7 +72,7 @@ When the members reach the upstairs room, read the following aloud:
 
 > [!qna]**What do we get?**
 >
-> > "Fifty gold for everyone who helps, companions included. The Harpers remember who does good work."
+> > "Fifty gold for everyone who helps, companions included, because the Harpers remember who does good work."
 
 ### Threestrings at the Hearth
 
@@ -110,7 +110,7 @@ Mattrim arranges both evenings. Each interview takes place at the back table by 
 
 > [!qna]**Is Bonnie in charge?**
 >
-> > "She is, and she'll interview you as hard as you interview her. Don't be rude to any of them. I mean it."
+> > "She is, and she'll interview you as hard as you interview her, so don't be rude to any of them. I mean it."
 
 ### The First Evening
 
@@ -138,7 +138,7 @@ Kael arrives first and Syla follows. Each interview runs about twenty minutes. R
 
 > [!qna]**Why did you come?**
 >
-> > "Bonnie asked. I've got my work and no wish for another master. Not my watch."
+> > "Bonnie asked, and I've got my work and no wish for another master. Not my watch."
 
 > [!qna]**Would you take Harper work?**
 >
@@ -204,7 +204,7 @@ Edric comes first, then the Scholar. Bonnie speaks to the members last, after cl
 
 > [!qna]**What do you carry?**
 >
-> > "Right, so mostly salt fish and rope out of the harbor yards. Twelve years of it. You'd know the route if you drove it."
+> > "Right, so mostly salt fish and rope out of the harbor yards, twelve years of it, and you'd know the route if you drove it."
 
 > [!qna]**Tell us about the Dock Ward.**
 >
@@ -303,11 +303,11 @@ After Bonnie lets the members go, Mattrim waits on the stairs with his lute in i
 >
 > Mattrim sits on the third stair with the lute case across his knees and waits for the stockroom door to close. When he speaks, his voice is as easy as ever, but he takes longer over each word.
 >
-> > "I think one of them told someone about you. About what you are. I don't know which one, and I've been over every conversation and keep coming up wrong."
+> > "I think one of them told someone about you, about what you are. I don't know which one, and I've been over every conversation and keep coming up wrong."
 >
 > He plucks a string and silences it with his palm.
 >
-> > "Bonnie told me a week ago she'd found some trouble. She wouldn't say who. I think she's known for about three weeks, and she thinks she can fix it herself. She can't. Shit, I should have pushed her harder."
+> > "Bonnie told me a week ago she'd found some trouble, but she wouldn't say who. I think she's known for about three weeks, and she thinks she can fix it herself, which she can't. Shit, I should have pushed her harder."
 
 ### What You Noticed
 
@@ -323,7 +323,7 @@ If Edric is identified, read the following aloud:
 >
 > Bonnie listens to the end without moving and then turns the lantern a little so her face is in shadow. When she speaks, her voice has gone flat.
 >
-> > "Edric. I traced a payment from a tipped-off job to him three weeks ago. I wanted to see if you could do what I did. Well, shit. You did, and in two evenings."
+> > "Edric. I traced a payment from a tipped-off job to him three weeks ago, and I wanted to see if you could do what I did. Well, shit. You did, and in two evenings."
 
 Bonnie offers the members a choice. Edric eats breakfast at the Portal every morning before work, and she can sit him down at 08:00 and keep him there until Mirt takes him. She says that she can also let him walk, and the members can follow him to wherever he delivers his report.
 
@@ -336,7 +336,7 @@ If the members have not named Edric, read the following aloud:
 >
 > Bonnie lets the lantern burn for a moment and then reaches for her keys. She does not look disappointed, and she does not look surprised either.
 >
-> > "Maybe I'll find out tomorrow how good you are. I won't make it easier for you. Faces are just work clothes, and the one you want hasn't taken his off yet."
+> > "Maybe I'll find out tomorrow how good you are, because I won't make it easier for you. Faces are just work clothes, and the one you want hasn't taken his off yet."
 
 Bonnie names nobody. **The Tail** begins at 09:30 the next morning, after Edric has delivered his report.
 
@@ -350,7 +350,7 @@ Read the following aloud when a member names Bonnie:
 >
 > Mirt sets down his cup and looks at the table for a moment, and the corner of his mouth lifts.
 >
-> > "Bonnie. Yes. I thought it might be Bonnie."
+> > "Bonnie. Yes, I thought it might be Bonnie."
 >
 > He turns toward the door and calls down the stairs for her. When she arrives he rises, which he does for very few people, and pulls out a chair.
 >
@@ -390,7 +390,7 @@ Mirt pays the fee before the members leave. Read the following aloud:
 >
 > Mirt sets a row of purses on the table, counts one out for each person who helped with the interviews and pushes them across with two fingers.
 >
-> > "Fifty gold each. That includes the people who helped without joining us. Make sure they get theirs."
+> > "Fifty gold each, which includes the people who helped without joining us. Make sure they get theirs."
 
 > [!gamemaster]**Mission Renown**
 >

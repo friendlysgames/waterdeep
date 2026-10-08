@@ -30,7 +30,7 @@ A paper bird reaches Trollskull Manor at breakfast. It carries a ticket for Priv
 >
 > The matinee crowd is still settling into the galleries when you reach Private Box C. Mirt sits at the back with a jug of wine and a folded note on his knee, and he waves you toward the empty chairs without getting up.
 >
-> > "Sit. There's a draft mare called Maxeene who works the hire stands in the Dock Ward. She listens to her passengers, and she forgets nothing."
+> > "Sit. There's a draft mare called Maxeene who works the hire stands in the Dock Ward. She listens to her passengers and forgets nothing."
 >
 > He pours a glass for each of you and holds out the note, with two apples wrapped in a cloth beneath it.
 >
@@ -52,25 +52,25 @@ A paper bird reaches Trollskull Manor at breakfast. It carries a ticket for Priv
 
 > [!qna]**Who is Maxeene?**
 >
-> > "A grey roan mare with a white blaze. A friendly druid gave her a permanent enchantment years ago, so she speaks Common. She's been listening to passengers ever since."
+> > "A grey roan mare with a white blaze. A friendly druid gave her a permanent enchantment years ago so she speaks Common, and she's been listening to passengers ever since."
 
 > [!qna]**How do we find her?**
 >
-> > "Ask in the Dock Ward. She works the hire stands, and the dray men know their horses better than their wives. She plays a horse in public, so don't shout at her."
+> > "Ask in the Dock Ward, where she works the hire stands and the dray men know their horses better than their wives. She plays a horse in public, so don't shout at her."
 
 > [!qna]**What do we ask her?**
 >
-> > "Anything she's heard about the Black Network. Names, places, who hired her. Let her finish. She wanders, but the useful part is in there somewhere."
+> > "Anything she's heard about the Black Network, such as names, places and who hired her. Let her finish, because she wanders, but the useful part is in there somewhere."
 
 > [!qna]**Why now?**
 >
-> > "A woman asked a stablehand if any dray horse acts oddly. The Black Network has split, and I don't know which half she works for. Neither half is a friend."
+> > "A woman asked a stablehand if any dray horse acts oddly. The Black Network has split and I don't know which half she works for, but neither half is a friend."
 
 > [!qna]**Can we move her?**
 >
 > Mirt hands over a second paper, folded around a signature.
 >
-> > "Hessa Dorn keeps a stable on Brondar's Way, in the North Ward. This order releases Maxeene from her dray and admits her to Hessa's. I've paid both. Let her choose."
+> > "Hessa Dorn keeps a stable on Brondar's Way, in the North Ward. This order releases Maxeene from her dray and admits her to Hessa's, and I've paid both. Let her choose."
 
 > [!gamemaster]**The Note, the Apples and the Order**
 >
@@ -98,11 +98,11 @@ The Dock Ward has dozens of working dray horses, but every inquiry below ends at
 >
 > Orvel eyes the cloth around the apples before he points along the street.
 >
-> > "The stand off Fillet Lane, most afternoons. A silver and an apple, and I'll walk you to the corner. The other apple's for her. She'll want it."
+> > "The stand off Fillet Lane, most afternoons. A silver and an apple, and I'll walk you to the corner. The other apple's for her, since she'll want it."
 
 > [!qna]**Will she talk to us?**
 >
-> > "She talks to me. I just ask where she's been and let her go on. Don't pat her mane or call her girl, though. She hates that shit."
+> > "She talks to me, because I just ask where she's been and let her go on. Don't pat her mane or call her girl, though, since she hates that shit."
 
 > [!exploration]**The Stablehands**
 >
@@ -179,13 +179,13 @@ Maxeene takes the apple before she answers anything. She talks in a quiet place,
 >
 > She flicks an ear toward the lane.
 >
-> > "Two days ago a sun elf and a half-orc woman hired me from Salabar Street to the Yawning Portal. The elf did the talking. The half-orc had a tattoo of a winged snake on her neck, and she watched the street all the way."
+> > "Two days ago a sun elf and a half-orc woman hired me from Salabar Street to the Yawning Portal. The elf did the talking, and the half-orc, who had a tattoo of a winged snake on her neck, watched the street all the way."
 > >
 > > "They wanted to hire spies to find the Xanathar Guild's hideouts, and he wanted three names by the end of the tenday. He also said there was no use starting a war until they knew who was running it."
 
 > [!qna]**Does anything seem strange?**
 >
-> > "That coach has stood across the lane for two afternoons. Nobody gets in or out, and it smells of lamp oil and nerves. The Dock Ward has felt wrong all tenday, and the hay isn't even good."
+> > "That coach has stood across the lane for two afternoons and nobody gets in or out, and it smells of lamp oil and nerves. The Dock Ward has felt wrong all tenday, and the hay isn't even good."
 
 > [!qna]**Would you like to move?**
 >
@@ -262,7 +262,7 @@ If Vell is held, read or paraphrase the following:
 >
 > Vell sits against the coach wheel with her hands in plain sight, watching the lane while a cart rolls slowly past. When it has gone, she turns to whoever stands nearest.
 >
-> > "Shesstra Street, the house with the red lantern. Two people keep the ground floor. You can reach the roof from the cooperage next door. I'm done talking, so decide what you're doing with me."
+> > "Shesstra Street, the house with the red lantern, where two people keep the ground floor. You can reach the roof from the cooperage next door. I'm done talking, so decide what you're doing with me."
 
 Mirt takes custody of a held Vell. He sends a carter to the Wagonworks yard at dusk, and the Splinter stops expecting her report.
 
@@ -330,7 +330,7 @@ Hessa Dorn keeps a stable on Brondar's Way, between two bakeries in the North Wa
 >
 > > "Mirt knows where to find her, and so do you. Come by in the morning, and she'll tell you more about the hay than you want to hear."
 
-If Vell has followed the party and nobody has noticed her, Hessa does. She keeps the gate shut and says, "Woman across the street, on foot. She stopped when you stopped." The party can deal with Vell here by any of the handlings above, or lose her through the Wagonworks yard first and come back. If the party opens the gate in front of her, Vell learns the stable and Maxeene's cover is gone.
+If Vell has followed the party and nobody has noticed her, Hessa does. She keeps the gate shut and says, "Woman across the street, on foot, and she stopped when you stopped." The party can deal with Vell here by any of the handlings above, or lose her through the Wagonworks yard first and come back. If the party opens the gate in front of her, Vell learns the stable and Maxeene's cover is gone.
 
 If Maxeene reaches the stable unseen, read or paraphrase the following:
 
@@ -358,7 +358,7 @@ If the members give Mirt the Shesstra Street address, mark **Shesstra Street Rep
 >
 > Mirt writes Shesstra Street on a fresh sheet, and runs a finger under the words *red lantern*. He looks up at whoever made the report.
 >
-> > "Did you watch the door, or did you go inside? Tell me what you saw. I'll put someone on that house."
+> > "Did you watch the door, or did you go inside? Tell me what you saw and I'll put someone on that house."
 
 If the party marked **Maxeene Cover Preserved**, read or paraphrase the following:
 

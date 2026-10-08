@@ -19,12 +19,12 @@
 
 ## Character Information
 
-**Persona.** To the world, Maxeene is a large draft horse of unremarkable coloring that stands outside the Yawning Portal some evenings. To anyone who thinks to talk to her, she is a detailed gossip who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year, because she speaks Common perfectly well and almost nobody assumes a horse is paying attention. Deep down, she enjoys the conversations because they are more interesting than the hay.
+**Persona.** To the world, Maxeene is a grey roan draft mare with a white blaze, hired out by the day from a Dock Ward stand off Fillet Lane. To anyone who thinks to talk to her, she is a detailed gossip who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year, because she speaks Common perfectly well and almost nobody assumes a horse is paying attention. Deep down, she enjoys the conversations because they are more interesting than the hay.
 
 **Morale.** Maxeene bolts from violence and is difficult to retrieve. She will, however, provide detailed information about whoever threatened her.
 
-**Relationships.** Maxeene is a Harper intelligence asset who understands and speaks Common thanks to a permanent enchantment from a Harper-sympathetic druid, the target of Harper mission one, and the best passive surveillance available to anyone who remembers to ask her what she heard at the hitching post outside the Cassalanter Villa last tenday.
+**Relationships.** Maxeene is a Harper intelligence asset who understands and speaks Common thanks to a permanent enchantment from a Harper-sympathetic druid, the subject of Harper mission one (**The Talking Mare**, which usually ends with her moved to Hessa Dorn's stable on Brondar's Way), and the best passive surveillance available to anyone who remembers to ask her what she heard at the hitching post outside the Cassalanter Villa last tenday.
 
 ## Overview
 
-A large draft horse of unremarkable coloring that stands outside the Yawning Portal some evenings, watching the street with a placid, attentive expression and a great deal to say to anyone who thinks to ask.
+A grey roan draft mare with a white blaze who works a hire stand off Fillet Lane in the Dock Ward, watching the street with a placid, attentive expression and a great deal to say to anyone who thinks to ask.

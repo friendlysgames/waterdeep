@@ -19,11 +19,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Corene Wyldath is a reliable Harper informant embedded in Xanathar's Dock Ward operation for four months and sending good intelligence. To those who pay attention, something shifted three weeks ago; her reports are still accurate, but she is asking different questions. Deep down, Corene is still in there. The intellect devourer is careful not to leave gaps large enough to trigger an alert.
+**Persona.** To the world, Corene Wyldath is a reliable Harper informant embedded in Xanathar's Dock Ward operation for four months under the cover name Halla Ironstave, sending good intelligence. To those who pay attention, something shifted three weeks ago; her reports are still accurate, but she is asking different questions. She carries Nihiloor's Occupying Devourer, a custom variant that keeps her mind intact, so she can be freed if the devourer is forced out. Deep down, Corene is still in there, aware and unable to act. The devourer is careful not to leave gaps large enough to trigger an alert.
 
 **Morale.** In a fight, Corene fights competently and tactically — the intellect devourer does not want to draw attention through reckless behavior.
 
-**Relationships.** Corene is a Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation, the target of Harper mission five (confirmation of the compromise and safe extraction), and the most dangerous kind of asset: one who cannot confirm her own loyalty.
+**Relationships.** Corene is a Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation, the subject of Harper mission five (**The Sleeping Asset**), and the most dangerous kind of asset: one who cannot confirm her own loyalty.
 
 ## Overview
 

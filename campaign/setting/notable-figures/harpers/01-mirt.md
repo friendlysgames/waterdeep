@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Illuskan human moneylender, chaotic good*. Stat block: **Veteran (with modifications)**.
+> - *Illuskan human moneylender, chaotic good*. Stat block: **Mirt (WDH custom block, CR 9; see the Harpers mechanics reference)**.
 > - **Affiliation:** Harpers; Masked Lord of Waterdeep
 > - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Talking Mare**, **The Dead Drop**, **The Doppelganger Auditions**, **A Friend's House**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **The Dreamer's Reach**
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Mirt would move with surprising speed, drawing hidden weapons. Despite his girth, he has not let his adventuring skills wither, and anyone who mistakes him for soft discovers the error exactly once.
 
-**Relationships.** Mirt is a Masked Lord of Waterdeep, a Harper senior operative, Laeral Silverhand's closest advisor, a widower (Asper died years ago), and a moneylender whose personal loans to the party carry the weight of a favor owed rather than coin spent.
+**Relationships.** Mirt is a Masked Lord of Waterdeep, a Harper senior operative, Laeral Silverhand's closest advisor, a widower (Asper died years ago), and a moneylender whose personal loans to Harper members carry the weight of a favor owed rather than coin spent.
 
 ## Overview
 
