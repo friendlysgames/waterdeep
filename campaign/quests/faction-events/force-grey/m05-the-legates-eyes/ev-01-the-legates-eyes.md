@@ -34,7 +34,7 @@ Three independent observations, any of which confirms the possession. The party 
 
 Getting the devourer out without opening a Watch file is the mission's actual challenge.
 
-**Private arrangement at the apartment:** Contact Orvyn at his apartment after hours. A **DC 13 Charisma (Deception or Persuasion) check** gets the party through the door under a plausible pretext. Inside, the party uses the ward route of the Extraction Procedure for the **Occupying Devourer** (see `docs/plans/harpers-mechanics-reference.md` §5).
+**Private arrangement at the apartment:** Contact Orvyn at his apartment after hours. A **DC 13 Charisma (Deception or Persuasion) check** gets the party through the door under a plausible pretext. Inside, the party uses the ward route of the Extraction Procedure for the **Occupying Devourer** (see the Occupying Devourer in the **Harpers Mechanics Reference**).
 
 - **Holding Orvyn:** Use the Commoner stat block for his body. He is easy to Grapple or Restrain, and the devourer fights with his club and tries to Slip Out when Hold reaches 1.
 - **Ward:** A character casts *protection from evil and good* on Orvyn. At the start of each of his turns he makes a **DC 12 Intelligence saving throw with Advantage**. A success is 1 Break and a failure deals Strain. A warded Orvyn cannot be re-occupied.

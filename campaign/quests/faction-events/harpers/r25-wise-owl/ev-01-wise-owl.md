@@ -23,6 +23,7 @@ The six missions bring a member to Renown 19 on their base awards, so a member n
 > - Mirt placed the three informants himself and keeps them off paper. Every request goes to him in person, so none reaches the records-relay register that the Splinter's mole copies (see **The Cell Is Compromised**).
 > - Darron Quill clerks for the Splinter's cargo office. The Splinter is Manshoon's cell, and Darron has no access to Manshoon's sanctum in Kolat Towers. Mirt says "the Splinter" throughout this Event.
 > - Dena Holt works for Xanathar's Guild. Joss Marrin sells tickets at the Faire, which Jarlaxle owns. Neither knows who else Mirt has placed.
+> - If **Harper Leak Known** is marked and **Harper Leak Closed** is not, informant answers and priority warnings come in person only, and no paper bird carries them.
 > - Canvas is never Mara Coppersail, whether or not the party recovered her at **A Friend's House**.
 > - None of the three is inside the Cassalanter household, and Mirt has no contact there. Nothing in this Event tells the member what the Cassalanters are.
 > - Mirt is a Masked Lord, and Laeral knows it. He calls her by her first name and never gives her a title. The member learns this in **High Harper**.

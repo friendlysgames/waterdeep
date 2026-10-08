@@ -15,10 +15,10 @@
 > **Path 1** fires when the party delivers a specific report: behavioral tells observed, when each occurred, and at least one magical confirmation. Vajra asks three questions and acts on a full answer to all three. A vague report or a partial one sends her back to observation.
 >
 > **Path 2** fires when the party attempts direct extraction rather than reporting. The party holds Meloon and earns three Breaks against the devourer's Hold, using the Extraction Procedure. Failed attempts cost Meloon Strain. Success expels the devourer as a combat encounter.
-
-The **Occupying Devourer** stat block and the full procedure are in `docs/plans/harpers-mechanics-reference.md` §5. Meloon's body uses the Warrior Veteran stat block while he is hosted.
 >
-> **Path 3** fires when the party lacks specificity — no behavioral documentation, no Azuredge contact, no magical confirmation. Vajra cannot act on impressions. She tells them to continue. The devourer files its weekly report.
+> The stat block and the full Extraction Procedure are under the Occupying Devourer in the **Harpers Mechanics Reference**. Meloon's body uses the Warrior Veteran stat block while he is hosted.
+>
+> **Path 3** fires when the party lacks specificity — no behavioral documentation, no Azuredge contact, no magical confirmation. Vajra cannot act on impressions. She tells them to continue. The devourer's telepathy reaches only 60 feet, so it reports through a Xanathar's Guild courier, a dockhand in the Guild's pay who meets Meloon each tenday at the Yawning Portal.
 >
 > Decide Nihiloor's location in the lair before this event resolves, because Path 3's downstream consequence (Mission 4 expecting the party) affects ev-01 of Mission 4.
 
@@ -118,7 +118,7 @@ The party forces the devourer out of Meloon without Vajra. The player describes 
 
 > [!hazard]**The Expelled Devourer**
 >
-> When Hold reaches 0, the **Occupying Devourer** appears within 5 feet of Meloon at full Hit Points: a small, wet, brain-shaped creature, exposed and hostile. Use its stat block from `docs/plans/harpers-mechanics-reference.md` §5.
+> When Hold reaches 0, the **Occupying Devourer** appears within 5 feet of Meloon at full Hit Points: a small, wet, brain-shaped creature, exposed and hostile. Use the Occupying Devourer in the **Harpers Mechanics Reference**.
 >
 > On its first turn, it uses Occupy Body on the nearest eligible creature (Incapacitated, Small or Medium Humanoid or Beast, 10 Hit Points or fewer, **DC 12 Intelligence saving throw**). A warded Meloon is immune. If nobody is eligible, it uses Devour Intellect on the nearest creature, Dashes, and flees toward cover such as furniture, a crack or a drain. The battle ends when the devourer is destroyed or escapes the immediate area.
 >
@@ -144,7 +144,7 @@ Without specificity — no behavioral documentation, no Azuredge contact, no mag
 
 > [!gamemaster]**Mission 4 Consequence**
 >
-> If the party marked **Mission 4 Alert** in ev-01, the consequence fires here: the devourer files its weekly report. Nihiloor now has descriptions of Force Grey's new Gray Hands — their faces, names if the party introduced themselves, capabilities if they used magic near Meloon. Mission 4's Spawning Pool has been notified. Increase Mission 4's difficulty: the lair's alert state is one step higher, and one additional encounter in the navigation route is aware a party is en route. The Spawning Pool encounter's first round is not a surprise.
+> If the party marked **Mission 4 Alert** in ev-01, the consequence fires here: the dockhand courier carries the devourer's weekly report from Meloon to the Guild. Nihiloor now has descriptions of Force Grey's new Gray Hands — their faces, names if the party introduced themselves, capabilities if they used magic near Meloon. Mission 4's Spawning Pool has been notified. Increase Mission 4's difficulty: the lair's alert state is one step higher, and one additional encounter in the navigation route is aware a party is en route. The Spawning Pool encounter's first round is not a surprise.
 
 ### Concluding the Event
 
@@ -160,14 +160,14 @@ Vajra provides a *wand of secrets* to the party after any successful resolution.
 > [!gamemaster]**Event Outcomes**
 > Mark each outcome that occurs. Later events read them.
 >
-> - **Meloon Restored** — mark when the intellect devourer is removed by any means and Meloon is himself again; read by Mission 4 ev-01 (Meloon can brief the party) and Mission 5.
+> - **Meloon Restored** — mark when the devourer is removed by any means and Meloon is himself again; read by Mission 4 ev-01 (Meloon can brief the party) and Mission 5.
 > - **Vajra Full Report** — mark when the party delivers specific behavioral documentation and magical confirmation; read by Mission 5 (Vajra's trust baseline is higher).
 > - **Azuredge Intel Filed** — mark when the party reports Azuredge's communication as active resistance evidence; read by Mission 5 (Vajra notes it in the Nihiloor dossier).
 > - **Nihiloor Identified Party** — mark when Path 3 resolves; read by Mission 4 ev-01 (higher alert state, Spawning Pool is not surprised on round one).
 
 > [!gamemaster]**Next Steps**
 >
-> **+2 Renown** if the intellect devourer is removed by any means and Meloon is restored.
+> **+2 Renown** if the devourer is removed by any means and Meloon is restored.
 > **+1 Renown** if Azuredge's communication is interpreted correctly and reported to Vajra as evidence of the axe's active resistance. She notes it in the Nihiloor dossier without comment.
 >
 > If Meloon was restored, he is present when Vajra hands over the wand. He says nothing in particular. He buys them a drink the next evening.

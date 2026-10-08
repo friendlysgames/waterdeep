@@ -14,4 +14,4 @@ The previous draft had the member choose among three meeting places. The dinner 
 
 ## Invented Names and Open Items
 
-Invented: Nella Fen (16 Fillet Lane), Orin Dask (9 Street of Silks), Bram Pell (7 Swords Street, Castle Ward, moved from Shield Street, which is Sea Ward), the opening phrase, the contacts' shop details and the street behind the Naval Harbor. **Fillipa Rescued** has no reader here; it needs one in Fireball! or a later Harper event. No other event reads **Harper Leak Known** at Renown 3, so the Aftermath line is a courtesy to late-arriving members. Wil Keen, Tobin Harrask and Beldan Rusk do not appear in this Event.
+Invented: Nella Fen (16 Fillet Lane), Orin Dask (9 Street of Silks), Bram Pell (7 Swords Street, Castle Ward, moved from Shield Street, which is Sea Ward), the opening phrase, the contacts' shop details and the street behind the Naval Harbor. No other event reads **Harper Leak Known** at Renown 3, so the Aftermath line is a courtesy to late-arriving members. Wil Keen, Tobin Harrask and Beldan Rusk do not appear in this Event.

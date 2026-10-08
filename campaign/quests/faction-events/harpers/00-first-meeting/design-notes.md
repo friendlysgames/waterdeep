@@ -20,4 +20,3 @@ WDH and Appendix B give the first mission at the pin. The remix holds it back, a
 
 - No new NPC names. The lodging address (12 Delzorin Street, five bunks) is carried over from the previous version. Mirt's lines about the Dock Ward and about "asking Renaer to find me" are original.
 - **The Factions Come Calling** (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`) still writes **Harpers Joined** as a True or False heading and names Remallia Haventree as a Harper referral for Filthy Meg, which breaks the hidden-Remi rule.
-- The Factions Guide (`02-harpers.md`) still says two tickets and says Remi maintains the lodging.

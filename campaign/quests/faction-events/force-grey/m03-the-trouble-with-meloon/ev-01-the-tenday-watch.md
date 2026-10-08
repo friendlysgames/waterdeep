@@ -91,7 +91,7 @@ If the party approaches Meloon in conversation, he warms slightly toward adventu
 
 > [!social]**The Observation Post**
 >
-> Meloon Wardragon (Neutral Evil [possessed], Human, he/him) :: Force Grey veteran; warm and familiar on the surface, with an intellect devourer watching from behind his eyes.
+> Meloon Wardragon (Neutral Evil [possessed], Human, he/him) :: Force Grey veteran; warm and familiar on the surface, with an Occupying Devourer watching from behind his eyes.
 >
 > The devourer has been doing this for three tendays. It has Meloon's surface warmth and his easy manner with strangers. What it lacks is the sense of what conversation is *for*. Meloon used to ask questions because he was interested in people. Now he asks questions because he needs information, and the questions are cataloguing ones: who else is working this area, what are their names, have they had any trouble with the Watch, which wards have they been spending time in.
 >

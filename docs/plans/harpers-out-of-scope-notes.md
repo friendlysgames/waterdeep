@@ -577,3 +577,57 @@ The clarity re-polish fixed these in-folder issues, so they need no outside writ
 Still open outside BD:
 - **M6 vs Deepwater Harbor naming.** The M6 overview now says "the harbor", and ev-01's Underwater Rules say "Deepwater Harbor". Settle a single name when the Faire location pages are revised.
 - **r25 Kreb branch.** If **Kreb Unmasked** is unmarked, Krebbyg "keeps out of the scene", but his booking-office version receives the member. s02 marks Kreb Unmasked for every member before r25 can fire, so this branch is effectively dead. Cut it in a later pass.
+
+## Harper event rewrite (Session 41)
+
+The Harper events were rewritten from their first commits on the BD/DR model (brief: `docs/plans/harpers-conversion-brief.md`; mechanics: `docs/plans/harpers-mechanics-reference.md`). Fixed in this session outside the folder:
+- Fireball ev-04 now writes **Jarlaxle Unmasked** (BD decision 3 answered "yes").
+- Fireball ev-01 and ev-06: Mirt's Cassalanter line is suspicion, and his ev-06 warning no longer names Manshoon.
+- Force Grey M3–M5 use Nihiloor's Occupying Devourer and its extraction procedure; no Wish.
+- The Harper Factions Guide, organization page and Notable Figures (Mirt, Mattrim, Bonnie, Maxeene, Corene) match the events.
+
+### 1. Outcomes that need a reader outside the folder
+
+None of these is read by name anywhere yet. Wire them when each quest is converted.
+- **Faction Outposts:** **Shesstra Street Reported**, **Nethpranter Safehouse Reported**, **Erystian Profile Reported**. M2's ledger also gives the Harpers a Brindul Alley lead (the Interrogation House) before Faction Outposts; keep it as a lead for arc-e to read.
+- **Xanathar's Lair:** **Corene Rescued**, **Corene Lost**, **Corene Left in Place**, **Nihiloor False Report Confirmed**.
+- **Sea Maidens Faire:** **Jarlaxle Identity Exposed at Harper Salon**, **Erystian Profile Reported**, **Jarlaxle Discretion Agreement**, **Jarlaxle Unmasked**.
+- **Kolat Towers:** **Edric Report Delivered**, **Harper Leak Closed** (moot if Kolat already ran).
+- **Vault of Dragons:** **Stone Study Completed**, **Jalester Compromise Identified**, **Splinter Sending Stone Recovered**, **Stone Taken by Splinter**, **High Harper Reached**, **Masked Lord Request Invoked**.
+- **No reader at all:** **Bonnie Harper Operative** (only The Tail reads it). Candidates: the Factions Guide or Faction Outposts.
+- **Lords' Alliance M6** (`lords-alliance/m06-an-audience-with-the-open-lord/overview.md:28`, `ev-01:13, :94-98`) cites "Harper Mission 6" in free text; wire it to **Jalester Compromise Identified**.
+- **Trollskull Alley ev-04** (`act-i/trollskull-alley/ev-04-the-factions-come-calling.md:97-98`) still writes **Harpers Joined: True / False** at party level. The First Meeting is now the per-character writer; cut the ev-04 heading.
+
+### 2. Act I–II contradictions
+
+- Trollskull ev-04:91 names Remallia as a Harper referral (her Harper role is hidden until A Friend's House). Same for Fireball ev-02:96 and `guides/trollskull-manor/03-staff-and-hiring.md:84`.
+- Trollskull ev-04:55 (Mirt's 500 gp loan), ev-04:71 (Maxeene "overheard Zhent operatives") and `guides/trollskull-manor/02-operating-costs.md:26, :80, :94` (Harper Renown 3 −1 gp, the loan): no Harper event grants these perks. Either add them to the First Meeting/Harpshadow or cut them.
+- Trollskull ev-07:51: "a Harper contact" hands over a spare opera ticket; the First Meeting sends one ticket per candidate by paper bird.
+- Fireball ev-06:68: Mirt warns a Renown 1 Harper that their intelligence may be tainted, before **The Cell Is Compromised** discloses the leak. Soften to a hunch or cut.
+- Fireball ev-01:37 has Saeth Cromley as an active Watch sergeant; his Notable Figures page and Harper M4/M5 have him retired.
+- Fireball ev-04:134-135 writes **Jarlaxle Unmasked** under an H4 heading; convert to an Event Outcomes block when Fireball is converted.
+
+### 3. Guides, setting and structure docs
+
+- Factions Guide `02-harpers.md:73` says the M6 squad attacks "during the handover" (M6: before it); `:11` says the s01 warning needs the party to have met Davil (s01 fires for every member after M4); `:59` calls the Harpshadow contacts "safe house contacts" (r03: shops).
+- Org page `setting/organizations/01-harpers.md:21, :27` states Mirt is a Masked Lord in plain text (fine as GM lore, but r25/r50 reserve the reveal for members). `:29`, `notable-figures/harpers/03-mattrim-mereg.md:26` and `04-bonnie.md:26` say Mattrim is "the only person" who knows Bonnie's nature; Mirt and the members learn it in M3.
+- `guides/gm-guide/player-factions-overview.md:3, :22-23`: Renown starts at 0 and PCs can join several factions; the First Meeting gives Renown 1 and no offer to members of another faction.
+- `notable-figures/xanathars-guild/04-nihiloor.md:26` says the devourer "consumed Meloon's brain"; the Occupying Devourer keeps it alive. `02-ahmaergo.md:6` uses "Thug". `harpers/02-remallia-haventree.md:6` uses "Mage (with modifications)" rather than the WDH CR 9 record. `harpers/06-variel-duskwhisper.md:8` says "no scripted appearance"; r50 uses him.
+- Structure docs: `arc-e:495` "Renown 30+" (Wise Owl is 25); `arc-f:31` a Renown 10+ Harper distraction (Wise Owl's is Renown 25); `arc-i:19, :247, :265` Mirt says "I volunteered" about being a Masked Lord before the High Harper reveal; `arc-i:75-77` and `arc-j:43` "Mirt arranges a field agent at Renown 10+" (Brightcandle makes it the member's call); `arc-j:43` Mirt's three days "before the third Eye was seated" and a Renaer branch (M6 runs after Kolat Towers, Jalester only).
+- `players-guide/faction-affiliations.md:49` matches the new informant rule; no change needed.
+
+### 4. Other factions
+
+- **Emerald Enclave M3** (`emerald-enclave/m03-the-doppelganger-problem/ev-01-the-doppelganger-problem.md:44`, overview :16-23): Bonnie "here eight months", the crew leaves Waterdeep within two tendays. Harper M3: the crew arrived over a year ago, Edric is expelled, and Bonnie can become a Harper operative at the Portal. Needs a user decision on which ending wins if both missions run.
+- **Force Grey M5** (`force-grey/m05-the-legates-eyes/ev-01-the-legates-eyes.md`) still uses retired formats (`[GM]`, `#### Milestone: None`, `[!narrative]`) and has no Event Outcomes block; fix in the Force Grey rewrite. Its line that Nihiloor "may not even know" Orvyn's devourer is active sits beside Harper M5, where Nihiloor learns a link has died; both can be true.
+
+### 5. Decisions for the user
+
+1. Harper M6 needs 7th level (all four heists). Do 3-heist parties skip it, or can it run after the Vault? DR and BD M6 have the same gate.
+2. Mirt's secrecy outside the Harper events (org page, arc-i "I volunteered", Fireball ev-06): which wins over the r25/r50 reveals?
+3. Emerald Enclave M3 versus Harper M3 (above).
+4. The Trollskull Harper perks (loan, laundry discount, "Good-aligned" eligibility): add to the Harper events or cut.
+
+### 6. Invented names (Session 41)
+
+Accept or replace. Renamed this session to avoid collisions: Tobin Harrask (was Orren Vale), Dena Holt, Joss Marrin, Wil Keen, Corin Bell. New: Ysolde Marne (M6 Splinter Mage), Evin Talver's passphrase, the r50 third-persona vouchers, the Silver Stage company (Erystian's cover), Three Lanterns House at 7 Windborne Way (M5), and the M2 shop details. Kept from the previous version: Beldan Rusk, Tessalar Maeridge, Vell, Orvel, Hessa Dorn, Edric Tanner, Kael, Syla, Nella Fen, Orin Dask, Bram Pell, Perrin Valt, Mara Coppersail, Darron Quill, Della Morn, Ilen Castor, Ivara Dunn, Lysa Fenwick, Teren Moss, Dalen Voss, Seldo Wynd, Lethan.

@@ -18,6 +18,6 @@ Corene's intelligence is written for two states of **Xanathar's Lair**. Before t
 
 ## Invented Names and Open Items
 
-Invented: Tobin Harrask (renamed from Orren Vale), Beldan Rusk, Wil Keen (renamed from Harl Keen), Pell Tormar, Sella Brant, Dalen Voss, and the places Three Lanterns House at 7 Windborne Way, the records room at 19 Brondar's Way and Mirt's cellar off Sorn Street. The relay's 17:00 close and the 17:30 drop are mine, and they are how "exactly 48 hours" from **The Cell Is Compromised** is kept at the table.
+Invented: Tobin Harrask (renamed from Orren Vale), Beldan Rusk, Wil Keen (renamed from Harl Keen), Pell Tormar, Sella Brant, Dalen Voss, and the places Three Lanterns House at 7 Windborne Way, the records room at 19 Brondar's Way and Mirt's cellar off Sorn Street. The relay's 09:00 to 18:00 opening hours, Tobin carrying the copies out at 17:00 and the 17:30 drop are mine, and they are how "exactly 48 hours" from **The Cell Is Compromised** is kept at the table.
 
 Open: Dalen Voss's fate is unwritten, and **Harper Mole Identified** has only an in-event reader. **Xanathar's Lair** and **Kolat Towers**, both unconverted, are named as readers.

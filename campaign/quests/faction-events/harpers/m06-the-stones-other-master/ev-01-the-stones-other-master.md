@@ -23,7 +23,7 @@
 
 ### The Brief
 
-Mirt reaches Trollskull Manor at 00:15 and has the night staff wake the Harper members. He puts his request to everyone who holds a claim on the Stone, because Harper membership gives him no say over another person's property.
+Mirt reaches Trollskull Manor at 00:15 and has the night staff wake the Harper members. He puts his request to the Harper members, and whoever holds the Stone decides, because Harper membership gives him no say over another person's property.
 
 > [!readaloud]
 >

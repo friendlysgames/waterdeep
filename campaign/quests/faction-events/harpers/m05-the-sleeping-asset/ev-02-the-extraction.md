@@ -18,7 +18,7 @@
 > - The devourer wants to meet Mirt and follows the members to the cellar if they promise that meeting. It does not suspect a trap until the door is barred.
 > - Tobin Harrask copies each register entry to Beldan Rusk exactly 48 hours later. The relay stamps every entry at 17:00, and Tobin carries the copies due that day out of the relay at 17:00.
 > - He leaves them at the customs house at 17:30 in the second drawer of the rejected-cargo desk, and Rusk collects at 18:00.
-> - Corene saw Tobin hand a packet to a Splinter courier outside the customs house two months ago. She thought it was Dock Ward business and told no one. The devourer knows it and will not say.
+> - Corene saw Tobin leave a packet at the customs-house desk two months ago. She thought it was Dock Ward business and told no one. The devourer knows it and will not say.
 > - Until **Harper Leak Closed** is marked, every operational detail a member passes to a Harper contact other than Mirt reaches Rusk 48 hours later, as **The Cell Is Compromised** sets out.
 
 ### Moving Her
@@ -179,11 +179,11 @@ The records relay is a back room above a stationer's at 19 Brondar's Way, where 
 >
 > A character who watches the cargo yard from cover on one of those days and makes a successful DC 13 Dexterity (Stealth) check sees Tobin leave a packet. On a failure, Tobin sees the watcher, turns around and returns to the relay without leaving it. The character has seen his face either way.
 >
-> If **Handler Ledger Lost** is marked and **Tessalar Turned** is not, this path is closed.
+> If **Handler Ledger Lost** is marked and **Tessalar Turned** is not, this path is closed. If **Tessalar Arrested** or **Tessalar Warned Off** is marked, Tessalar cannot name the drawer, so this path is closed even when **Tessalar Turned** is marked.
 
 > [!exploration]**Path Three: What Corene Remembers**
 >
-> This path is open once Corene has finished a Long Rest. She describes a thin man with ink on his cuffs and a blue scarf who handed a packet to a Splinter courier outside the customs house two months ago. Mirt names him as soon as she finishes the description.
+> This path is open once Corene has finished a Long Rest. She describes a thin man with ink on his cuffs and a blue scarf who left a packet at the customs-house desk two months ago. Mirt names him as soon as she finishes the description.
 
 > [!readaloud]
 >
