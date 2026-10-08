@@ -1,158 +1,347 @@
 # The Salon
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social Event begins when Mirt briefs the Harper members at the Yawning Portal and ends when Erystian Demarne leaves House Ulbrinter at 21:30, or when the party takes him aside. In this Event, the party can:
 >
-> This Social Event runs for most of a 3-hour session at Haventree Villa in the Sea Ward. In this Event:
+> - Hear Mirt's brief and hire formal clothes at Seldo's Fine Stitches.
+> - Meet Remallia Haventree as a gracious hostess among twelve guests.
+> - Question Erystian Demarne and gather evidence that his face is false.
+> - Talk to seven guests whose small worries Mirt will want written down.
+> - Take Erystian aside, follow him into the night, or let him go.
 >
-> - This mission is built to fill most or all of a session. There is no time pressure and no combat trigger — the party moves through the evening at their own pace.
-> - Jarlaxle finds the party before they find him. The task (identify the impostor) is only one thread.
-> - A well-run session has the party stumble into two or three unrelated conversations that matter. Not every NPC connects with every party — let instincts guide who they gravitate toward.
-> - Remallia's Harper identity surfaces through implication, not announcement.
-> - Ten fully playable NPCs are present; the others are generic color.
-> - This event ends when the party has gathered enough to identify Jarlaxle or is ready to act. The Tail (ev-02) begins when they follow him out.
+> Only Harper members attend the brief. Companions can attend the salon as Remallia's guests and gain no Renown.
 
-**Background (DM only)**
-
-Remallia Haventree is a senior Harper operative whose faction identity has been hidden from the PCs until now. This dinner is the natural moment for that to surface. Mirt will be there. He will let the implication land without announcing it.
-
-Jarlaxle has accepted Remallia's invitation through a mutual acquaintance she doesn't know is Bregan D'aerthe-adjacent. He has already marked Mirt across the room within minutes of arriving. He is curious about the new faces Mirt brought. He will find the party before they find him.
-
-### Arriving at Haventree Villa
-
-Haventree Villa is in the Sea Ward, three stories, with a garden courtyard open to the evening air. Remallia greets the party personally when they arrive. She introduces herself. If a PC asks how she knows Mirt: "Oh, we've worked together for years." She does not elaborate. Mirt, if asked the same question later: "Remi and I go back." He also does not elaborate. Let the implication settle.
-
-Mirt is stationed near the wine. He gives the PCs the task privately when the moment allows — usually within the first thirty minutes.
-
-> > "Someone in this room is wearing a face they didn't earn. I don't know who."
-
-### Jarlaxle (as "Erystian Demarne")
-
-> [!profile]+ **Profile: Jarlaxle Baenre (as Erystian Demarne)**
+> [!gamemaster]**What Is Actually True**
 >
-> **Roleplaying Information**
-> ***Resonance.*** Jarlaxle should inspire genuine delight with his wit and apparent transparency, quiet unease with how deliberate every word feels, and retrospective wariness — once identified, the party realizes he was always one step ahead.
+> - Erystian Demarne is Jarlaxle Baenre, wearing a hat of disguise. His companion Lethan is a Bregan D'aerthe guard who plays his valet.
+> - Jarlaxle has attended Remallia's salons for three months to learn who sits beside whom in the Harper network. He lets himself be caught by anyone who earns it and gives nothing to anyone who does not.
+> - Remallia knows why the party has come. She plays the hostess until the morning, as Mirt asked.
+> - A character marked **Jarlaxle Unmasked** knows that Jarlaxle Baenre is Captain Zardoz Zord of the Sea Maidens Faire and that he wears personas. This mission awards no Bregan D'aerthe Renown.
+> - The guests' worries are commercial or personal. None of them knows anything about the Cassalanters beyond what they have bought and sold.
+
+### The Brief
+
+At noon each eligible member receives a paper bird. Mirt is at his corner table in the Yawning Portal at 17:00, and he does not swear. He refills each member's cup before he speaks.
+
+> [!readaloud]
 >
-> ***Emotions.*** Jarlaxle most often feels amused by people who are trying, genuinely curious about the party, satisfied with a room he has already read completely, mildly competitive with Mirt, and privately interested in whether these particular agents are worth watching.
+> The Yawning Portal is loud with the evening crowd, but the corner table is clear. Mirt waits there with a pitcher of wine and a stack of cups, and he fills one for each of you without asking and slides it across the wood.
 >
-> ***Motivations.*** Jarlaxle wants to understand how the Harpers are positioning for the Grand Game, map what assets they have in the field, and keep the party's measure — for later.
+> > "Sit. Remallia Haventree is giving a dinner for twelve guests at House Ulbrinter tomorrow evening, on Delzorin Street. One of them is a spy for someone remarkable."
 >
-> ***Inspirations.*** When playing Jarlaxle as Erystian Demarne, channel Loki (*Thor: Ragnarok*), Littlefinger (*Game of Thrones*), and Hannibal Lecter (*Hannibal*) — the pleasure of being the smartest person in the room while letting others think they caught up.
+> He turns the pitcher a quarter turn on the table and looks at each of you in turn.
 >
-> **Character Information**
-> ***Persona.*** To the salon, Erystian Demarne is a minor Luskan poet of some reputation — charming, improbably knowledgeable, socially at ease. To the party, as they get closer, he is a performance executed by someone accustomed to being watched. Deep down, Jarlaxle finds humans amusing and the Grand Game genuinely interesting. He respects competence. He is here to learn.
+> > "Find out who the spy is and whom he serves. Remi knows you're coming, as a favor to me, so be good guests and dress sharply. Seldo Wynd, eight Delzorin Street, and I've paid him."
+
+> [!social]**The Old Wolf on Business**
 >
-> ***Morale.*** If identified and confronted, Jarlaxle does not fight. He acknowledges it with a small bow and makes his excuses to Remallia within the hour. He is not embarrassed — he is pleased. He let the party get close enough to matter.
+> Mirt (Chaotic Good, Illuskan Human, he/him) :: the Old Wolf in his business gear, short and exact, with a full pitcher he keeps refilling.
 >
-> ***Relationships.*** Jarlaxle has been monitoring Mirt Rundlestone's network for three months. He regards the party as interesting new data points in a picture he is still assembling.
-
-**Identifying Erystian Demarne:**
-
-Clues available without a roll:
-- His clothes are of extraordinary quality for a working poet
-- His companion, introduced as a fellow traveler from Luskan, defers to him with a precision that reads more like a bodyguard than a friend
-- His Luskan accent is plausible but slightly formal; he learned it from a tutor
-
-With rolls:
-- **DC 20 Wisdom (Insight):** Catches the deliberate quality of his performance — not just confident, but controlled; every word is a considered choice
-- **DC 14 Intelligence (History or Arcana)** after noticing the boots: identifies them as drow-made (designed for silence on stone; their sole pattern is distinctive to anyone with Underdark exposure)
-
-Jarlaxle will not be caught unless the party combines two lines of evidence or makes the Insight check. If one of them is getting close, he redirects smoothly — asks Remallia something, draws a nearby nobleman into the conversation, suggests a walk in the garden.
-
-> [!abstract]+ If a BD Operative Is Present
-> A Bregan D'aerthe party member has seen Jarlaxle perform before — or has been briefed at minimum on what he looks like when he does not want to be recognized. They have Advantage on the DC 20 Insight check, and the DC 14 History/Arcana check to identify the boots drops to DC 10. A party member who has met Jarlaxle in person before this mission — at the Sea Maidens Faire or elsewhere — recognizes him without a roll.
+> Mirt gives the brief and answers what he is asked. He does not joke and does not swear. If a member pushes on a point he has already settled, he repeats the answer once and refills the cup.
 >
-> More importantly: Jarlaxle clocks them first. Within thirty minutes of the party's arrival, he arranges a quiet moment — a refill at the wine table, a shared pause near the garden door — and says, without looking at them directly:
+> Mirt is willing to discuss the following topics:
 >
-> > > "You and I are going to need a word before the evening gets complicated."
+> - The spy, about whom he knows only that the reports are good.
+> - Why he cannot go himself.
+> - Remallia, whom he calls a friend and a fine hostess.
+> - The morning report at House Ulbrinter at 09:00 and the 200 gp Remallia sends every guest.
 >
-> He suggests the garden.
+> He will not discuss how he learned of the spy or what Remallia does besides give dinners. "Ask me after," he says.
+
+> [!qna]**Who is the spy?**
 >
-> **In the garden:** Jarlaxle drops the Luskan affectation. Not the disguise — he does not need to — just the performance. He is direct: he knows they are here with the Harpers, he knows what they have been asked to do, and he is not going to make it difficult for them.
+> Mirt shakes his head once.
 >
-> > > "You can report to your Harper friends that you couldn't confirm anything. Or you can tell them what you know, and I'll be curious to see what Mirt does with it. Either way, I'll know."
+> > "I don't know. Someone writes down who sits beside whom at her dinners, and the pages reach a person who pays well. I've seen the paper, but I haven't seen the hand."
+
+> [!qna]**Why not go yourself?**
 >
-> Then: "Or we could talk about what I'm actually doing here, which is more interesting than whether you name me."
+> > "He'd know my face, because he knows the face of everyone who comes to her house. He doesn't know yours."
+
+> [!qna]**Is Remallia one of us?**
 >
-> What he is actually doing: watching Mirt. He wants to understand how the Harpers are positioning for the Grand Game and what assets they are putting in the field. The party is part of that picture now.
+> Mirt refills his own cup and drinks before he answers.
 >
-> **What he offers:** If the BD operative agrees to stay quiet about his identity tonight — not lie to Mirt, simply decline to confirm — he offers one piece of genuine intelligence: Remallia has a Harper contact embedded in the Sea Maidens Faire who does not know they have been compromised. He will give a description. If the party acts on it before the Harpers do, they will find the asset already nervous and looking for an exit.
+> > "She's a friend of mine and a fine hostess, so go and be her guest, lad. Eat what she puts in front of you."
+
+> [!qna]**What do we get?**
 >
-> **The faction tension:** The BD operative is being asked to choose between Harper mission success and a direct request from Jarlaxle. Neither option costs faction standing automatically.
-> - Staying quiet and taking the intelligence: BD renown +1 if the party acts on the Sea Maidens Faire intelligence before the Harpers discover it independently.
-> - Naming Jarlaxle to Mirt anyway: The calling card still arrives. He is interested rather than offended — the BD operative chose the Harper faction when tested. He will note it.
-> - Brokering a three-way arrangement — telling Mirt that "Erystian Demarne" is Bregan D'aerthe but not Jarlaxle specifically, and passing the intelligence to the Harpers as an anonymous tip — requires a **DC 16 Charisma (Deception)** check. Success earns the full Harper renown AND the BD renown. Failure: Jarlaxle sees what they did immediately, and so does Mirt.
+> > "Remi sends two hundred gold to every guest the morning after, and you should take it. Come to House Ulbrinter at nine and tell me what you saw. I am almost never home, so I'll meet you there."
 
-### The Guest Gallery
+### Seldo's Fine Stitches
 
-The following guests are fully playable. Others at the salon are generic color.
+Seldo Wynd, a human tailor, has been told to expect the party. He fits every character who comes, companions included, in about an hour. The clothes are lent until noon the day after the salon.
 
-**Remallia Haventree** — *Host. Senior Harper operative (identity hidden).*
-Moves through the room with the ease of someone who has run these events for thirty years. She greets everyone personally, remembers details about their lives, and asks better questions than she answers. She is watching the PCs more carefully than she appears to be. If a PC mentions any of the villain factions: she listens without reacting, then changes the subject — and finds them again later in the evening.
+> [!exploration]**The Fitting**
+>
+> Mirt has paid, so no fee is due and no check is needed. A character who skips the fitting is lent a coat or wrap by Remallia's steward at the door, and nobody is turned away for plain clothes.
+>
+> Any character who chats with Seldo while he pins a hem and makes a successful DC 12 Wisdom (Insight) check notices that he asks nothing about why the party needs the clothes. He has dressed Harpers before.
 
-**Mirt** — *Harper primary contact. Three glasses in, watching from near the wine.*
-He deflects most personal questions with a short story about someone else. Unexpectedly knowledgeable about architecture and will engage genuinely on that. Ask about his past and he says something that sounds like a joke but isn't.
+> [!readaloud]
+>
+> Seldo Wynd takes Mirt's note at the counter and wheels a rack of coats beside the tall mirror. An assistant lays chalk and pins on the fitting table.
+>
+> > "Mirt's paid for all of it, so we'll start with whatever fits best and adjust from there. Keep everything until noon the day after the dinner, and bring it back to me then."
 
-**Saeth Cromley** — *Retired Watch Sergeant, North Ward. Uncomfortable at parties.*
-Here because Remallia maintains careful relations with the Watch. Blunt, a little disheveled, relieved when anyone wants to talk about actual problems. Dealing with warehouse break-ins in the Dock Ward — organized, professional, nothing taken that wasn't supposed to move. A Watch officer who went missing two months ago; the body was never found.
+### House Ulbrinter
 
-*What he knows:* The missing officer was Corene Wyldath's Watch contact (Mission 5). He does not know that. The file is cold.
+The villa stands behind a low garden wall on Delzorin Street between Vhezoar Street and Brondar's Way, a short walk from Trollskull Alley. Doors open at 19:00, dinner is at 20:00, and Erystian leaves at 21:30. Remallia ends the evening at 22:00.
 
-**Tessabrant Elamondra** — *Half-elf shipping merchant. Losing money and looking for quiet help.*
-Three shipments in four months redirected — the goods arrive, but to wrong buyers whose paperwork is pristine. She has been asking if anyone at the dinner knows anyone discreet. She mentions the Cassalanters have been buying unusual quantities of a specific imported dye. (True. It is used in a ritual in Arc G.)
+> [!readaloud]
+>
+> Driftglobes light the villa's front above the low garden wall, and a steward in silver-grey livery checks your names against the invitation. Inside, a dozen guests stand in groups across the salon. A fire burns in the grate beside tall windows that overlook the garden.
+>
+> A sun elf woman in grey and silver leaves her place by the window and crosses the room to meet you, with a tray of drinks waiting beside the door.
+>
+> > "You must be the friends Mirt mentioned. Do come in and let the steward take your coats. How have you been finding the city?"
 
-**Lord Aldric Talmost** — *Minor noble. Desperate to matter.*
-He has heard fragments about "the vault situation" from someone at his club and has been working it into every conversation for a week. A Cassalanter cousin told him the family had a significant windfall coming — "not from trade." He can be pumped with flattery (**DC 10 Charisma/Persuasion**). He does not know what it means. It is useful.
+> [!social]**The Hostess Who Remembers**
+>
+> Remallia Haventree (Chaotic Good, Sun Elf, she/her) :: a gracious noblewoman who remembers every detail of her guests' lives and gives away nothing of her own.
+>
+> Remallia pours the tea herself and turns every answer into another question. She introduces the party to guests she thinks will suit them. She never swears, never raises her voice, and does not mention the Harpers.
+>
+> Remallia is happy to discuss the following topics:
+>
+> - Mirt, whom she has known for years.
+> - The guests, each of whom she introduces by name with one pleasant fact.
+> - The party's lives in the city, which she asks about at length.
+>
+> She will not discuss Erystian beyond calling him a delightful addition, and she will not discuss her work.
 
-**Zalara Moonwhisper** — *Elven archivist. Attached to the Font of Knowledge.*
-She recently found records suggesting a significant sum was placed in trust under the Lords' authority over a century ago and never formally disbursed. She thinks it is a clerical error. She has found a reference to the Vault of Dragons in an administrative record dated 1244 DR, filed under "extraordinary reserve, Lords' disposition." She does not know what it means. If the PCs explain or hint, she offers to pull the full document — which names the vault's ceremonial lock.
+> [!qna]**How do you know Mirt?**
+>
+> Remallia sets the pot back on its tray before she answers.
+>
+> > "We've known each other for a great many years, and he has never once arrived early for dinner. Has he been looking after you properly? He tends to feed people and forget the rest."
 
-**Farrak Iltimer** — *Dwarf gemcutter, Trades Ward. No secrets. Genuinely enjoyable.*
-Best stories in the room, none of them relevant. Tells one about every family the PCs mention, usually unflattering and usually funny. He mentions the Cassalanters ordered a set of blood-red rubies last month — unusual cut, specific weight, twelve stones, all identical. "Not for jewelry. Too heavy, wrong shape. Ritual pieces, if I had to guess." It is the PCs' business.
+> [!qna]**Who else is here tonight?**
+>
+> > "Lord Talmost is by the fire, and he loves a story, while Sergeant Cromley is the one in the loose collar. The tiefling by the garden door is Serithka, who composes. Do go and talk to them, and I'll bring you Erystian in a moment."
 
-**Serithka Ondal** — *Tiefling composer. Zariel Fiendish Legacy. Nervous and perceptive.*
-Spent most of the evening near the garden door, watching. She will mention, if the PCs befriend her, that "Erystian Demarne" clocked her Fiendish Legacy on sight when they were introduced and recovered instantly with something charming about Luskan's cosmopolitan character. She found it unsettling. Whatever he is, he recognized an infernal origin on sight.
+> [!gamemaster]**Recovering a Social Mistake**
+>
+> A character who makes an awkward remark to a guest can repair it with a successful DC 12 Charisma (Persuasion) check. On a failure, Remallia is at the character's elbow within thirty seconds with a fresh cup and a new topic, and the evening goes on. A mistake never costs the party anything. An accusation against a named guest follows the wrong-accusation branch in **The Confrontation**.
 
-**Jelenn Urmbrusk** — *Masked Lord of Waterdeep (identity hidden). Being blackmailed by Manshoon.*
-A Tethyrian human woman in her fifties. Precise in dress, deliberate in speech. She borrowed from the Zhentarim when her money-lending business failed. Three years later, Manshoon's people own her. She files favorable reports as a Masked Lord when asked, covers up Watch infractions, dismisses two arrests she had no grounds to dismiss. A **DC 18 Wisdom (Insight)** check catches the full weight of her composure — she is performing stability and it is costing her.
+### Erystian Demarne
 
-If a PC mentions the Zhentarim: she excuses herself within three minutes.
+Remallia brings Erystian to the party once the first round of introductions is done. He is a sandy-haired Illuskan man of about thirty, open-faced, with a quick laugh. His companion Lethan, introduced as his valet, takes a place by the garden door where he can see every other door.
 
-*What she knows:* She knows the names of two other Masked Lords Manshoon is blackmailing. She will not say this tonight. Her name appears on the blackmail list the party finds at Kolat Towers in Arc I. A PC who met her here and makes a **DC 12 Intelligence** check recognizes the name immediately.
+> [!readaloud]
+>
+> Remallia leads a sandy-haired young man across the salon, and a quiet companion in a plain dark coat follows a few steps behind. The young man bows to you with a flourish that suits a stage better than a drawing room.
+>
+> > "Erystian Demarne, an actor from Luskan, and very happy to meet friends of Mirt's. Lady Haventree says you're new in the city, so what brings you to Waterdeep?"
+
+> [!social]**The Actor from Luskan**
+>
+> Jarlaxle Baenre, as Erystian Demarne (Chaotic Neutral, Drow in a hat of disguise, he/him) :: a charming young actor who remembers what everyone said three sentences ago and enjoys the evening enormously.
+>
+> Erystian talks about Luskan companies and Waterdeep stages, and every anecdote he tells turns out to be true. He asks the party good questions and listens to the answers. He deflects any direct question about the Stone, the vault or Mirt with a story about a Luskan prompter, and he is never rude.
+>
+> Erystian is willing to discuss the following topics:
+>
+> - His career on the Luskan stage, in a detailed and perfectly consistent history.
+> - The theaters of Waterdeep, which he knows well.
+> - The guests, whom he has watched for three months.
+> - The Sea Maidens Faire, which he recommends, and its ticket clerk.
+>
+> He will not discuss his real name, his employers or the Stone, and he never volunteers "Bregan D'aerthe" during the evening.
+
+> [!qna]**Where are you from?**
+>
+> Erystian settles back with his cup, pleased to be asked.
+>
+> > "Luskan, on the waterfront, in rooms above a rope-maker. My mother mended sails for every company that came through, so I grew up on the wrong side of the curtain, which is a very good place to learn what an audience wants."
+
+> [!qna]**How did you train?**
+>
+> > "Three seasons as a prompter with the Silver Stage company, then small parts, then larger ones. I can't hold a note, so they let me talk instead. Have you ever seen a prompter lose the page in the middle of a death scene? The audience cried harder."
+
+> [!qna]**Do you know the Seven Masks?**
+>
+> > "I know it, and I know who owns it, and I've heard the draught on the stage is dreadful. A friend of mine auditioned there years ago and still complains about it. Have you been inside?"
+
+> [!qna]**Who is your companion?**
+>
+> > "Lethan keeps my coat, my purse and my appointments, and since he hates parties he stands by doors."
+
+> [!qna]**The Sea Maidens Faire?**
+>
+> Erystian lowers his voice to share a favorite secret.
+>
+> > "Go on a tenday morning, when the crowds are thin. The clerk at the public ticket booth, the one in the yellow scarf, writes down every name that buys a seat. She keeps the ledger open on the counter where anyone can read it. Someone ought to tell her."
+
+> [!exploration]**Four Lines of Evidence**
+>
+> Erystian is the only guest wearing a false face, and four things can show it. A character who has any two of them, or a marked character who has any one, can take him aside.
+>
+> - **His manner.** Any character who watches him talk and makes a successful DC 24 Wisdom (Insight) check sees that he is comfortable in a way a young actor from Luskan should not be. He has been at ease in rooms much stranger than this one for much longer than his years allow. Every three probing questions a character asks about his past, training or acquaintances lower the DC by 2, to DC 22 after three and DC 20 after six.
+> - **His hands.** Any character who sits beside him, shakes his hand or watches him adjust his cuffs and makes a successful DC 14 Wisdom (Perception) check sees calluses along the thumb and first finger of his right hand. They belong to a hand crossbow, not a stagehand.
+> - **His hat.** Any character who casts *Detect Magic* near him senses an Illusion aura around his hat. Casting it in the open draws a look from Remallia, who lets it pass.
+> - **Serithka's account.** Serithka Ondal can tell the party that Erystian named her Fiendish Legacy before she mentioned it, and then changed the subject.
+>
+> A character who cannot reach the Insight DC can still earn the other three lines. A marked character who met Zord face to face has Advantage on the Insight check, because the manner is the same. A marked character who learned the name from a ledger has no Advantage.
+>
+> With only one line, Erystian parries with a laugh about a poet's hands and stays until 21:30, so the party can look for another.
+
+### The Guests
+
+Four other guests have nothing for the party: a retired naval officer, an ambassador's aide from Neverwinter, a House Ulbrinter cousin from Silverymoon and a playwright. They talk about the harbor, the weather and each other. The seven guests below carry small leads, and the party can speak to them in any order before Erystian leaves.
+
+> [!social]**The Retired Sergeant**
+>
+> Saeth Cromley (Lawful Good, Illuskan Human, he/him) :: a retired Watch sergeant who is bad at parties and good at making strangers talk.
+>
+> Saeth drifts toward anyone who mentions the Dock Ward. He is easygoing and sarcastic, and he swears casually. His missing officer is Dalen Voss, who was Corene Wyldath's contact in the Watch. Saeth does not know that, and the party cannot learn it here.
+>
+> Saeth is willing to discuss the following topics:
+>
+> - The warehouse break-ins in the Dock Ward.
+> - Dalen Voss, who vanished two months ago.
+>
+> He will not discuss the magistrate's cases.
+
+> [!qna]**The warehouse break-ins?**
+>
+> Saeth scratches his chin and looks toward the garden door.
+>
+> > "Somebody's doing professional work in those Dock Ward warehouses, friend. They take what they came for and leave the boys sorting out the shit. If you've seen anything on the level, I'd like to hear it."
+
+> [!qna]**The missing officer?**
+>
+> > "One more thing, sunshine. Dalen Voss walked out of a Dock Ward post two months ago, and nobody's found a body. If his name comes up while you're digging, tell me. Come to the North Ward post at noon tomorrow, and I'll show you his file."
+
+> [!social]**The Merchant with the Account Book**
+>
+> Tessabrant Elamondra (Neutral, Half-Elf, she/her) :: a shipping merchant who keeps a pocket account book close and worries about her margins.
+>
+> Tessabrant answers questions about trade freely. She suspects the Cassalanters of nothing worse than extravagance and does not know what they use their purchases for.
+>
+> Tessabrant is willing to discuss the following topic:
+>
+> - The Cassalanters' purchase of more imported dye in one season than her last three clients combined.
+
+> [!qna]**Anything odd in the trade?**
+>
+> Tessabrant opens her account book and keeps a finger under one entry.
+>
+> > "The Cassalanters bought an enormous amount of imported dye this winter, more than any house I know. The total is here if you'd like to compare it. I can't imagine what they plan to color."
+
+> [!social]**The Club Gossip**
+>
+> Lord Aldric Talmost (Neutral, Human, he/him) :: a minor noble who repeats fragments about the vault because they win him attention.
+>
+> Aldric loves a story and is flattered by interest. He does not understand what his fragments mean.
+>
+> Aldric is willing to discuss the following topic:
+>
+> - A Cassalanter cousin's boast of a windfall "not from trade."
+>
+> Any character who flatters him and makes a successful DC 10 Charisma (Persuasion) check gets the family named. On a failure he promises to check his memory, and a note naming them reaches the party at noon the next day.
+
+> [!qna]**The vault situation?**
+>
+> Aldric leans closer and sets his cup on the arm of his chair.
+>
+> > "A Cassalanter cousin told me over dinner there'd be a considerable windfall soon, and he was quite definite that it was not from trade. I did hope someone here could tell me what he meant."
+
+> [!social]**The Archivist**
+>
+> Zalara Moonwhisper (Lawful Neutral, Elf, she/her) :: an archivist at the Font of Knowledge who carries a copied entry she cannot explain.
+>
+> Zalara is precise and cautious, and she dislikes drawing conclusions from one record.
+>
+> Zalara is willing to discuss the following topic:
+>
+> - An entry from 1244 DR that calls the Vault of Dragons an "extraordinary reserve, Lords' disposition."
+
+> [!qna]**What does the record say?**
+>
+> Zalara opens a folded copy on the dry corner of a table.
+>
+> > "The entry is from 1244 DR, and it names the vault as an extraordinary reserve under the Lords' disposition. A ceremonial lock is described, but I can't find where the reserve was ever discharged. Come to the Font of Knowledge archive at ten tomorrow and read the whole entry."
+
+> [!social]**The Gemcutter**
+>
+> Farrak Iltimer (Neutral, Dwarf, he/him) :: a gemcutter who likes to swap stories about difficult commissions.
+>
+> Farrak knows stones and nothing about the people who order them.
+>
+> Farrak is willing to discuss the following topic:
+>
+> - A Cassalanter order for twelve blood-red rubies.
+
+> [!qna]**An unusual commission?**
+>
+> Farrak spreads his fingers on the table, measuring a setting in the air.
+>
+> > "The Cassalanters ordered twelve blood-red rubies last month, all the same weight, and they checked each stone before they paid. They're heavier than anything I'd put in jewelry, so I wondered about a ceremonial display. I'd love to see it when someone finds out."
+
+> [!social]**The Composer**
+>
+> Serithka Ondal (Neutral Good, Tiefling, she/her) :: a composer with an Infernal Fiendish Legacy who stays near the garden door, where the room is quieter.
+>
+> Serithka warms to anyone who asks about her music. She is used to questions about her horns and was rattled by the one Erystian asked.
+>
+> Serithka is willing to discuss the following topic:
+>
+> - What Erystian said to her.
+
+> [!qna]**What did Erystian say?**
+>
+> Serithka turns her cup toward the garden and glances across the room.
+>
+> > "He named my legacy before I'd said a word about it, and then he changed the subject so neatly that I almost thought I'd imagined it. People ask about the horns. Nobody has ever known where they came from."
+
+> [!social]**The Guarded Noblewoman**
+>
+> Jelenn Urmbrusk (Neutral, Tethyrian Human, she/her) :: a proud noblewoman in her fifties whose sixteen guards wait outside.
+>
+> Jelenn is clipped and dismissive and checks who stands within earshot before she answers anything. She is a Masked Lord who borrowed from the Zhentarim to avoid borrowing from other nobles, and the Splinter now holds the debt. Any character who studies her and makes a successful DC 18 Wisdom (Insight) check sees real strain behind the composure, though not its cause or her office.
+>
+> If anyone mentions the Zhentarim, she excuses herself within three minutes. She names no other Lord and no creditor.
+>
+> Jelenn is willing to discuss the following topic:
+>
+> - Remallia's hospitality, which she praises briefly.
+
+> [!qna]**The Zhentarim?**
+>
+> Jelenn glances at the people within earshot and sets her cup on the nearest tray.
+>
+> > "I think not. I came for Remallia's table, and I won't discuss other people's affairs over it. Who sent you? No, never mind, and excuse me."
+
+### Choosing How to Approach
+
+Erystian leaves at 21:30, or as soon as he has finished a private conversation. The party can take him aside, follow him, or let him go and keep talking to the guests until 22:00. Taking him aside goes to **The Confrontation**. Following goes to **The Tail**.
+
+### Renown Opportunities
+
+Nothing is awarded here. **The Confrontation** holds the Mission Renown and the 200 gp.
+
+### Aftermath
+
+The guests keep their leads whatever the party decides about Erystian. A conversation the party misses does not lock it out of the later quests that use it, because those quests supply their own clues.
 
 ### Concluding the Event
 
-This event concludes when the party has gathered enough to identify Jarlaxle and is ready to move — either to confront him directly at the salon, or to follow him when he leaves. Proceed to **The Tail** Event (ev-02).
+The Event ends when Erystian leaves, or when the party takes him aside.
 
-If the party confronts him directly at the salon rather than following: see ev-03 (The Confrontation) directly. The Tail (ev-02) is skipped.
+> [!gamemaster]**Event Outcomes**
+>
+> - **Salon Guest Leads Recorded** — mark with the names of the guests each member actually spoke to, and record what Jelenn did when the Zhentarim came up; read by **The Cell Is Compromised** (the Jelenn query) and by **The Sleeping Asset** (Saeth and Dalen Voss).
 
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> #### Next Steps
->
-> When Jarlaxle is ready to leave — whether the party tips its hand, correctly names him, or simply runs out of ways to circle without committing — he makes his excuses to Remallia (gracious, no alarm) and steps toward the door.
->
-> The party's choice: follow him, confront him now, or let him go.
->
-> If they follow: proceed to the **The Tail** Event (ev-02).
-> If they confront at the salon: proceed directly to the **The Confrontation** Event (ev-03).
-> If they let him go: the calling card arrives at Trollskull Manor two days later. *Better luck next time.* He was still interested — the attempt itself was the interesting part.
->
-> #### Milestone: None
->
-> This milestone does not award a Milestone Point.
+> If the party takes Erystian aside, continue with **The Confrontation**. If it follows him, continue with **The Tail**. If it lets him go, play only the morning debrief in **The Confrontation**. This faction mission awards no Milestone Points.
 
 ## Overview
 
-A Sea Ward salon at Haventree Villa. Someone in the room is not who they appear to be. Mirt has a theory; Jarlaxle Baenre has already found the party.
-
-## Read Aloud
-
-> A formal invitation arrives at Trollskull Manor — heavy paper, Sea Ward seal, Haventree crest. Lady Remallia Haventree requests the pleasure of your company at a salon dinner at her estate.
->
-> A shorter note arrives the same afternoon, in Mirt's cramped handwriting: *"Go. Dress well. Someone in that room is not who they appear to be."*
+The party attends Remallia Haventree's dinner at House Ulbrinter and speaks with twelve guests, among them a charming actor from Luskan whose answers are too perfect.
 
 ## Summary
 
-The party attended a salon at Haventree Villa, where Remallia Haventree's Harper identity surfaced through implication and Jarlaxle Baenre arrived disguised as "Erystian Demarne, Luskan poet." Ten fully playable guests carried threads relevant to ongoing Grand Game investigations. The party gathered enough to act on Jarlaxle's identity before the evening ended.
+We dressed sharply and went to Remallia's dinner, where we talked to her guests and listened for the spy Mirt had warned us about. Erystian Demarne answered everything and gave nothing away, so we had to decide what we could prove.
