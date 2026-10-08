@@ -93,11 +93,11 @@ If **Meloon Restored** is marked, Vajra tells the members that Meloon has asked 
 >
 > Meloon waves you over before you reach the table, and he clears a bench with one sweep of his arm. His tankard is half empty, and Azuredge leans against the wall beside him. He lowers his voice to something close to a whisper, which is still louder than most men's talk.
 >
-> > "Fuck me, another one. Vajra told me what you're hunting, so listen. Every answer comes a beat late, like a man reading off a card, and the eyes never follow the room. Watch for that, and don't let it see you watching."
+> > "Fuck me, another one of those bastards. Vajra told me what you're hunting, so listen up. Every answer comes a beat late, like a man reading off a card, and the eyes never follow the room. Watch for that, and don't let it see you watching."
 
 > [!exploration]**What Meloon Knows**
 >
-> Meloon knows the tells from inside, and he knows nothing about Orvyn Dall or the Trades Ward appeals office. He cannot say what the devourer passed on.
+> Meloon knows the tells from inside, but he knows nothing about Orvyn Dall or the Trades Ward appeals office and cannot say what the devourer passed on.
 >
 > - **Coached:** each member who listens to Meloon has Advantage on the first Wisdom (Insight) check they make against the hosted Orvyn in **What Is Wrong with Orvyn**.
 
@@ -107,7 +107,7 @@ The Hall of Records keeps the public appeals registry, open from 09:00 to 17:00.
 
 > [!readaloud]
 >
-> The Hall of Records is a long room of shelves and writing desks, with petitioners queued at a counter and clerks passing between them with armfuls of bound dockets. The air smells of ink and damp wool. A clerk at the front desk slides a ledger across without looking up and points to the shelf for the Trades Ward appeals.
+> The Hall of Records is a long room of shelves and writing desks, with petitioners queued at a counter and clerks passing between them with armfuls of bound dockets. The air smells of ink and damp wool, and a clerk at the front desk slides a ledger across without looking up and points you to the shelf for the Trades Ward appeals.
 
 The three rulings are Magistrate Hesper Aldon's voiding of a Shrimp Street warehouse lease held by a Guild rival, Magistrate Dorrin Estrel's dismissal of a debt claim against Tidewrack Cargo, and Magistrate Maud Tavish's striking of a fine on a Guild barge. A fourth entry is Estrel's reversal of a harbour chandler's lien, corrected two days later.
 
@@ -115,7 +115,7 @@ The three rulings are Magistrate Hesper Aldon's voiding of a Shrimp Street wareh
 >
 > Any character who sets the three rulings side by side with the registry's entries and makes a successful DC 14 Intelligence (Investigation) check finds the fourth reversal. The correction is in a clerk's hand and signed *O. Dall*, while the original reversal is in the magistrate's hand. Someone corrected a ruling they should not have been able to touch.
 >
-> On a failure, the comparison takes until the next morning and gives the same answer. This lead is always open.
+> On a failure, the comparison takes until the next morning and gives the same answer, so this lead is always open.
 >
 
 The signature leads the party to the appeals office, where a porter says Orvyn takes his lunch at the Bricklayer's Cup on Copper Pot Lane at noon.
@@ -132,7 +132,7 @@ The four clerks of the appeals office take their lunch at the Bricklayer's Cup, 
 >
 > Any character who watches the clerks through a meal and makes a successful DC 14 Wisdom (Insight or Perception) check picks out Orvyn Dall. He eats at a flat, even pace and does not look at his food. His eyes follow the street door instead of the room, and when a colleague greets him, his smile arrives half a second late.
 >
-> On a failure, the character sees nothing worth noting. A second attempt at the next lunch costs nothing.
+> On a failure, the character sees nothing worth noting, and a second attempt at the next lunch costs nothing.
 >
 > - **Character was coached by Meloon:** the character has Advantage on the check.
 > - **Day 2, 7 or 12:** Dobb Ketterly takes the next table at noon and stays about ten minutes. A character within 30 feet of him who does not make a successful DC 12 Dexterity (Stealth) check is seen, and the devourer is alerted.
@@ -149,7 +149,7 @@ The third lead depends on what the party holds. Read the first case that fits.
 >
 > Vajra lays a stained sheet beside the dossier and puts a finger on the third line. It lists four offices by name in the same flat hand, and two have been left unsigned.
 >
-> > "The Trades Ward appeals office, Orvyn Dall, placed seven tendays ago. I'll take the other three names myself. Orvyn Dall is yours."
+> > "It's the Trades Ward appeals office, and the clerk is Orvyn Dall, placed seven tendays ago. I'll take the other three names myself, so Orvyn Dall is yours."
 
 **Corene's debrief.** If **Placement Records Taken** is unmarked, **Corene Rescued** is marked and **Xanathar's Lair** has been played, a Harper in the party has heard her debrief in **The Sleeping Asset**. Read or paraphrase the following:
 
@@ -157,7 +157,7 @@ The third lead depends on what the party holds. Read the first case that fits.
 >
 > The Harper in your group says it while the three of you study the dossier, and no one at the table interrupts.
 >
-> > "Corene said Nihiloor kept a clerk in the Watch office and two runners on the docks. It might not be your man, but the Watch office is where your rulings were made."
+> > "Corene said Nihiloor kept a clerk in the Watch office and two runners on the docks. It might not be your man, but your rulings were made in a Watch office."
 
 Corene's words give the party no name, so this lead still sends them to the Hall of Records or the Cup to confirm which clerk it is.
 
@@ -183,15 +183,15 @@ When a member sits down across from Orvyn, he is polite and keeps his hands flat
 
 > [!qna]**About the rulings?**
 >
-> > "I file what the magistrates sign. Which of the three did you want to ask about, and who else is looking at them?"
+> > "I only file what the magistrates sign, sir. Which of the three did you want to ask about, and who else is looking at them?"
 
 > [!qna]**Are you well?**
 >
-> > "Quite well, thank you. Do you work for the Watch, or for someone above it?"
+> > "I'm quite well, thank you very much. Do you work for the Watch, or for someone above it?"
 
 > [!qna]**Where do you go after work?**
 >
-> > "Home to Tallow Court, by six. Where do your people sleep, in case I need to send word?"
+> > "I go home to Tallow Court by six every evening. Where do your people sleep, in case I need to send word?"
 
 ### What Is Wrong with Orvyn
 
@@ -202,7 +202,7 @@ Several methods show that something rides in Orvyn. Each is enough alone, and a 
 > - **Eye contact and speech.** A character who talks with him for a minute and makes a successful DC 15 Wisdom (Insight) check sees that his answers arrive late and his eyes do not follow the room. Something is wrong with the mind, not the story.
 > - **His questions.** A character who listens to what he asks and makes a successful DC 14 Wisdom (Insight) check sees that he is gathering names, wards and sleeping places.
 > - **Close study.** A character who spends five minutes beside him and makes a successful DC 12 Intelligence (Arcana) or Wisdom (Medicine) check finds no spell and no disease. The pupils lag, and something is riding in the skull.
-> - **His desk.** A character who inspects the appeals office after hours finds the real Orvyn's older petitions signed with a looping hand. The recent entries, including the fourth correction, are flat and exact.
+> - **His desk.** A character who inspects the appeals office after hours and makes a successful DC 12 Intelligence (Investigation) check finds the real Orvyn's older petitions signed with a looping hand. The recent entries, including the fourth correction, are flat and exact.
 > - ***Detect Evil and Good*** senses an Aberration within 30 feet and does not alert it. ***Detect Thoughts*** shows two minds in one head, one of them muffled, and alerts the devourer.
 >
 > *Detect Magic* shows no spell on Orvyn. An alerted devourer stops pretending, and the Guild minders close in. Use the alerted roster in **The Extraction**.

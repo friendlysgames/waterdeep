@@ -11,13 +11,13 @@
 > - Keep the neighbour quiet so that no Watch review opens.
 > - Pass the Guild names to Jalester Silvermane, and report to Vajra.
 >
-> Only Force Grey members attend Vajra's debrief. Companions can help with everything before it.
+> Only Force Grey members attend Vajra's debrief, and their companions can help with everything before it.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - The **Occupying Devourer** and its Extraction Procedure are in section 5 of the **Harpers Mechanics Reference**. Hold starts at 3, each Break lowers it by 1, and the devourer is expelled at 0. This page gives the numbers the table needs.
 > - Orvyn uses the **Commoner** stat block: AC 10, 4 hit points, Intelligence +0. The devourer inside him has Total Cover and does not fight. It controls the body, and the body shouts, flees or stands still.
-> - An unwarded Orvyn is always eligible for Occupy Body when the devourer is expelled, because he is Incapacitated and has 10 hit points or fewer. The ward comes first.
+> - An unwarded Orvyn is always eligible for Occupy Body when the devourer is expelled, because he is Incapacitated and has 10 hit points or fewer, so the ward must come first.
 > - The devourer reports to Nihiloor only through Dobb Ketterly. If the link dies, Nihiloor learns it within a day. If **Pool Destroyed** is marked, no replacement host arrives.
 > - Orvyn's ledger is a small coded book in the locked drawer of his writing desk. The devourer maintains it without Orvyn's help, and it lists the cases being steered and the Guild representatives' initials, **K.R.** and **A.Y.**
 > - If **Meloon Restored** is marked, Meloon asks after Orvyn at the end of the Event and nothing else changes.
@@ -46,7 +46,7 @@ Orvyn cannot be taken in a crowd, and he cannot be taken while the devourer can 
 
 > [!exploration]**Three Quiet Places**
 >
-> - **Through Vajra.** This route needs the ledger. Vajra reads it and says a Blackstaff holding a clerk's own book can act without a review. She sends a handwritten request for Orvyn to attend the Tower at 09:00 on a private matter of an old docket. The devourer comes, because refusing the Blackstaff would mark it. The party may attend.
+> - **Through Vajra.** This route needs the ledger. Vajra reads it and says a Blackstaff holding a clerk's own book can act without a review. She sends a handwritten request for Orvyn to attend the Tower at 09:00 on a private matter of an old docket. The devourer comes, because refusing the Blackstaff would mark it, and the party may attend.
 > - **The apartment.** The party waits for Orvyn at 18:30. A character who gets through the door under a pretext and makes a successful DC 13 Charisma (Deception or Persuasion) check is let in. A character who works the lock instead and makes a successful DC 13 Dexterity (Thieves' Tools) check finds him at the desk. On a failure, the devourer shouts through the door and **The Neighbour** begins.
 > - **Trollskull Manor.** A member who invites Orvyn to the Manor as a petitioner's sponsor gets him there on any evening before Day 12. A companion bars the cellar door after he descends. The cellar has no window.
 >
