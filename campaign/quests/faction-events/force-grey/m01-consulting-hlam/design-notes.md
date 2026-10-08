@@ -1,17 +1,32 @@
-# Design Notes: Force Grey Mission 1 — Consulting Hlam
+# Design Notes: Consulting Hlam
 
-## The Unprompted Message
+## What the Source Gave
 
-***Structural role.*** The original appendix content gives Hlam two answers and a third unprompted message. The third message is the load-bearing element of this mission. A mission that sends the party up a mountain to ask questions and receive answers is thin; a mission where the party returns with something they were not sent to get, that the faction's own contact has been missing, is a different shape entirely. The unprompted message about the buried thing waking is the party's first independent contribution to Force Grey's picture of the Grand Game — not a task completed, but an observation surfaced.
+Appendix C and the Dragon Heist table give a short errand: climb Mount Waterdeep, win two answers from a hermit monk with two Persuasion checks, and carry home a third message he offers unasked. The source also gives the Constitution save on the climb, Hlam's dislike of authority, urgency and flattery, and Vajra's instruction not to mention her name "unless he asks". Every beat resolved with one roll, and the party never had to choose anything.
 
-***Forward connection.*** Vajra's reaction — still, exact, "this doesn't leave the Tower" — is her first moment of genuine surprise in the party's presence. It plants the information that the buried thing exists and that Vajra, who knows a great deal, does not know what it is. This pays off in Arc C (Stone of Golorr surfacing), Arc F (Spawning Pool in Xanathar's Lair), and Arc J (the vault opening, where the abolished resonance resolves). A DM who knows these downstream arcs will recognize that Hlam has described the Stone's psychic signature. The party does not know this yet. Neither does Vajra.
+## What Changed
 
-## Hlam's Social Design
+The mission now turns on two decisions. Hlam asks who sent the party, so the source's "unless he asks" becomes a test of honesty with a stated cost for evasion and for lies. At the Tower, the party chooses whether to give Vajra the buried-thing message word for word, including the sentences about her. A member who wants to spare her the opening lines can do so, and Vajra notices.
 
-***The patience mechanic.*** Hlam's first answer is behind DC 12. His second is behind DC 15 — or no check at all, if the party waits. This is intentional: the party that stops pushing and just sits with the first answer earns the same result as the party that passes the second check. The silence option costs nothing and rewards a playing style that most social encounters actively penalize. It also characterizes Hlam precisely: he is not withholding the second answer, he is deciding whether to offer it, and what he is deciding is whether the party can hold information without immediately acting on it.
+No single check settles anything. A failed Persuasion check always has a way back, and the silent way gives either answer to a party that waits ten minutes. The last message still fires whatever the party does, so the mission's key content cannot be missed. Vajra's three Sending replies replace a silent brief, and each is exactly 25 words.
 
-***The failure cases are complete, not punitive.*** A party that fails the DC 15 check and does not wait gets only the Manshoon shape answer, not the name. This is still useful intelligence. The unprompted message fires regardless of success — Hlam delivers it because he has decided to, not because the party earned it. This means the mission's most important content cannot be missed, only under-contextualized.
+Renown follows the guide: 2 base, with +1 for the verbatim message and +1 for winning the second answer without invoking Vajra's authority. The verbatim bonus keeps the source's rule that Vajra has the message repeated and written down, and the second bonus rewards the approach Hlam favors. The outcomes **Hlam Consulted** and **Buried Thing Reported** give the Trollskull Alley events, **The Full Picture** and **Vault of Dragons** something to read.
 
-## Vajra's Sending Voice
+## Departures from the Source
 
-The briefing uses twenty-five words exactly. This is Vajra's characteristic format — she uses the Sending spell because it imposes a word limit she finds clarifying. Reproducing the word count in the Read Aloud is a small characterization beat with no mechanical weight. DMs should feel free to count: "Hlam is a monk on Mount Waterdeep's slope. Seek him out. Ask what threats he has perceived. Don't mention my name. Don't overstay." Twenty-five words. She has thought about each one.
+The source says the second answer names an archmage thought dead. Hlam now gives a riddle about a black net drawn again over the city, and he never says Manshoon, even when **Manshoon Named** is marked. Vajra translates it only as the Black Network and the half that broke away. The first answer is kept word for word, because **The Factions Come Calling** and **The Grand Opening** quote it.
+
+The climb costs one level of Exhaustion, as Appendix C says, not the 1d4 levels of the Dragon Heist text. The source's "complicated relationship" line did not fit in 25 words, so it became Vajra's answer to "Why not go yourself?". The third message is split into seven short sentences so a table can repeat it exactly.
+
+## Invented Names and Open Items
+
+Invented: the kettle on the stone and the cup Hlam offers and drinks himself, Hlam's riddle and his three qna answers, Vajra's four Sending replies, and the ten-minute silence. No NPC is new.
+
+Outside this folder, for the out-of-scope log:
+- `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:79` and `campaign/structure/arc-b-trollskull-alley.md:145` call the first answer "an oblique reference to Manshoon" and quote it with different punctuation.
+- `campaign/quests/act-i/trollskull-alley/ev-06-the-grand-opening.md:73` says Hlam's warning concerns "deep-harbor movement", which this mission does not mention.
+- `campaign/guides/factions/06-force-grey.md:7` says Hlam gave Vajra "Manshoon's shape" at campaign start. After this mission he gives only the shape of the old Black Network.
+- `campaign/quests/faction-events/force-grey/s01-the-full-picture/ev-01-the-full-picture.md:19` and `:62` have Vajra confirm an archmage at Kolat Towers "since Hlam's first report".
+- `campaign/quests/faction-events/force-grey/00-first-meeting/ev-01-first-meeting.md:111` says this mission is available as soon as the party is ready. It arrives by its own *Sending*.
+- The Notable Figures pages for Hlam and Vajra (`:8` in each) still list this mission under its old "Force Grey Mission 1" label.
+- Hlam's "before winter's end" is kept as written for the Trollskull quote. The campaign opens on Ches 1, so the line can mean a few weeks or the following winter, and no page says which.
