@@ -1,4 +1,4 @@
-# Design Notes: The Wrong Shelf
+# Design Notes: Smoke in the Tower
 
 ## What the Source Gave
 

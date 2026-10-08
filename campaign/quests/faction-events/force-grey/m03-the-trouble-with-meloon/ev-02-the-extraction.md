@@ -17,10 +17,10 @@
 > - The **Occupying Devourer** and its Extraction Procedure are in section 5 of the **Harpers Mechanics Reference**. Hold starts at 3, each Break lowers it by 1, and the devourer is expelled at 0. This page gives the numbers the table needs.
 > - Meloon uses the **Warrior Veteran** stat block while hosted: AC 17, 65 hit points, Greatsword twice and Parry. The devourer inside has Total Cover and does not fight until it is expelled. Meloon never draws Azuredge.
 > - The party is 4th level and has no 3rd-level spell slots, so it cannot cast *Dispel Magic* or *Remove Curse*. Only Vajra can, and she casts it at 4th level, which is an automatic Break.
-> - Strain cannot exceed 32 for Meloon on one attempt, and it cannot reduce him below 1 hit point.
+> - Strain cannot exceed 33 for Meloon on one attempt, and it cannot reduce him below 1 hit point.
 > - Meloon's Intelligence modifier is +0. Azuredge is his anchor.
-> - Vajra's route needs an accepted report by the evening of Day 9 and a devourer that has not been alerted. Otherwise Meloon will not come to the Tower.
-> - Dobb Ketterly meets Meloon at dusk on Day 10. If the devourer is still in place then, and the party held the Day 5 conversation, the devourer reports the party to Nihiloor.
+> - Vajra's route works whenever the party reports, as long as the devourer has not been alerted. Otherwise Meloon will not come to the Tower.
+> - Dobb Ketterly meets Meloon at dusk on Day 10. If the devourer is still in place then, and the party held the Day 5 conversation, the devourer reports the party to Nihiloor. **Nihiloor Identified Party** depends on those two facts alone.
 
 ### Vajra Acts
 
@@ -75,7 +75,7 @@ The party can use the ward, the anchor, or both at once. Breaks from every sourc
 > - **An anchor.** A helper within 5 feet uses an action to make a Charisma (Persuasion) check. The DC is 14 if the helper holds Azuredge in view of Meloon and 18 if not. A success is 1 Break and a failure is Strain. Lying does not work, and a stranger shouting has Disadvantage.
 > - **Renaer.** If the party sends for Renaer Neverember, he arrives within the hour. As Meloon's closest friend he is an anchor who knows him, so his checks have Advantage.
 > - **Magic.** *Dispel Magic* and *Remove Curse* are out of the party's reach at 4th level. Only Vajra supplies them, and only in her own room.
-> - **Strain.** Each failed attempt deals 2d6 psychic damage to Meloon, never more than 32 on one attempt and never below 1 hit point. At 1 hit point, the next failure resets Hold to 3 for an hour.
+> - **Strain.** Each failed attempt deals 2d6 psychic damage to Meloon, never more than 33 on one attempt and never below 1 hit point. At 1 hit point, the next failure resets Hold to 3 for an hour.
 >
 > With one route running, expect four or five rounds. With the ward and the anchor together, expect two or three.
 
@@ -142,6 +142,8 @@ After the diagnosis, the party can end the matter in three ways, and it can chan
 
 **Let it run.** A party that fails every attempt and cannot hold him leaves the matter open. Vajra takes Meloon at the Tower once the party reports again, if the devourer was not alerted.
 
+Mark **M3 Complete** as usual when the party lets it run. **Destroy the Intellect Factory** then treats Meloon as still occupied, so neither Meloon outcome applies, and Vajra's brief for it says he is "still not himself".
+
 Mark **Nihiloor Identified Party** only if the party held the Day 5 conversation and the devourer was still in Meloon at dusk on Day 10. Mark **Courier Identified** if the party learned Dobb Ketterly's name and lodging by following him, by watching the Day 10 meeting or from Meloon.
 
 ### What Meloon Remembers
@@ -203,7 +205,7 @@ If **Meloon Restored** is marked and **Devourer Escaped** is not, read or paraph
 
 She gives the party a *wand of secrets*.
 
-If **Meloon Restored** and **Devourer Escaped** are both marked, read or paraphrase the following:
+If **Meloon Restored**, **Devourer Escaped** and **Nihiloor Identified Party** are all marked, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -211,7 +213,15 @@ If **Meloon Restored** and **Devourer Escaped** are both marked, read or paraphr
 >
 > > "He's alive, and I'm grateful for it. That thing will carry your faces to Nihiloor and he will be waiting for you, but you earned this anyway."
 
-She gives the party a *wand of secrets*.
+If **Meloon Restored** and **Devourer Escaped** are marked and **Nihiloor Identified Party** is not, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Vajra reads your report and her pen stops on the word *escaped*. She takes the wand from the cabinet and sets it on the desk between you.
+>
+> > "He's alive, and I'm grateful for it. That thing may have seen your faces, but I can't say what it passed on, and you earned this anyway."
+
+She gives the party a *wand of secrets* in both cases.
 
 If **Meloon Lost** is marked, read or paraphrase the following:
 
@@ -233,7 +243,7 @@ She gives no wand.
 
 ### Aftermath
 
-Dobb Ketterly waits at the corner table until the bell on Day 10 if Meloon has not come, and he tells the Guild the link has gone dead. Nihiloor learns the same within a day. If the devourer escaped, it reaches the Guild with the party's descriptions.
+Dobb Ketterly waits at the corner table until the bell on Day 10 if Meloon has not come, and he tells the Guild the link has gone dead. Nihiloor learns the same within a day. If the devourer escaped and **Nihiloor Identified Party** is marked, it carries the party's descriptions to the Guild. Otherwise it may have seen the party, and nothing changes.
 
 Meloon stays at the Tower for a tenday and then returns to the Portal. Durnan pours him a drink and says nothing. Azuredge stays at his side and will not be left behind again.
 
@@ -248,7 +258,7 @@ Vajra's debrief ends the assignment. Record what happened to Meloon and the devo
 > - **Devourer Escaped** — mark when the expelled devourer gets away; read by **Destroy the Intellect Factory**.
 > - **Courier Identified** — mark when the party learns Dobb Ketterly's name and lodging; read by **Destroy the Intellect Factory** and **The Legate's Eyes**.
 > - **Nihiloor Identified Party** — mark when the Day 5 conversation took place and the devourer was still in Meloon at dusk on Day 10; read by **Destroy the Intellect Factory** and **Xanathar's Lair** (unconverted).
-> - **M3 Complete** — mark for each Force Grey member who took part, whatever the result; read by **Destroy the Intellect Factory**, which uses it as its brief trigger.
+> - **M3 Complete** — mark for each Force Grey member who took part, whatever the result, including when the party lets the matter run; read by **Destroy the Intellect Factory**, which uses it as its brief trigger.
 
 > [!gamemaster]**Next Steps**
 >

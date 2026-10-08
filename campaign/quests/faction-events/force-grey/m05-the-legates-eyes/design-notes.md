@@ -20,4 +20,4 @@ The third lead reads **Placement Records Taken**. If it is unmarked, Corene's de
 
 Invented: Magistrates Hesper Aldon, Dorrin Estrel and Maud Tavish, Ketha Rudd, Alder Yost, Brenna Tull, Orvyn's sister Imra in Daggerford, Tidewrack Cargo, and the Bricklayer's Cup on Copper Pot Lane, Tallow Court and the Hall of Records, none of which any setting page confirms. Orvyn has no Notable Figures page, so his alignment and the seven-tenday placement are mine, and so is the courier's fifth-day schedule.
 
-Open: the Nihiloor and Meloon Notable Figures pages still say the devourer ate a brain. **Smoke in the Tower**, **Force Grey** (the r25 rank event) and **Vault of Dragons** are unconverted readers, and the Lords' Alliance does not yet read the Guild names.
+Open: the Nihiloor and Meloon Notable Figures pages still say the devourer ate a brain. **Force Grey** (the r25 rank event) and **Vault of Dragons** are unconverted readers, and the Lords' Alliance does not yet read the Guild names.

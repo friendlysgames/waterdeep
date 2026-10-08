@@ -96,7 +96,7 @@ Jarlaxle's people are all performers of one kind or another: a sea captain who i
 ---
 
 ### Zelifarn
-*A bright, bouncy young sea dragon who chirps, waves and trades facts like a delighted child.*
+*A bright, bouncy young bronze dragon who chirps, waves and trades facts like a delighted child.*
 
 - **Sound:** A high, chirping, echoing voice with the sound of water in it. It warbles when he's excited.
 - **Sentence shape:** Excited, rapid questions about the surface world, and short, precise bargains ("You tell me three things, I tell you one big thing!").

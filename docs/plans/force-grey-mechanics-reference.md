@@ -89,7 +89,7 @@ HMR's combined row is conservative. The two never fight together: Meloon's body 
 ### Tactics, thresholds, end conditions
 
 - Hosted Meloon fights like a Warrior Veteran: Greatsword twice, Parry when hit. He never speaks, never swears, never draws Azuredge. He goes for whoever is working on him (a caster holding Concentration on the ward is the first target).
-- Each failed attempt costs Strain, capped at half his max HP (32) per attempt and never below 1 HP (HMR 5.3). The party does not need to bring him down. If Meloon dies, the devourer is forced out at full HP and **Meloon Lost** applies (HMR 5.3(c)). Killing the host is a loss, not a method.
+- Each failed attempt costs Strain, capped at half his max HP, rounded up (33), per attempt and never below 1 HP (HMR 5.3). The party does not need to bring him down. If Meloon dies, the devourer is forced out at full HP and **Meloon Lost** applies (HMR 5.3(c)). Killing the host is a loss, not a method.
 - At Hold 1 the devourer uses Slip Out and runs (Speed 40). A warded Meloon cannot be re-occupied.
 - **Expelled devourer.** It appears at full HP, uses Occupy Body only on an eligible creature (Incapacitated, Small or Medium, 10 HP or fewer; HMR 5.3), else Devour Intellect on the nearest creature and runs. It flees when reduced to 14 HP or fewer.
 - **Pursuit rule (not in HMR).** It needs 3 consecutive rounds of Dash. Each round a PC who can see it makes a DC 13 Wisdom (Perception) check; on a success they keep it in sight and a PC who reaches it can attack. After 3 rounds with no PC in sight it is out of the Portal's reach: **Devourer Escaped**. A caught devourer fights to the death.
@@ -344,11 +344,11 @@ Vajra casts it on the member and their companions before a mission. Fixed list o
 
 ### Gray Hand consumable (one per mission that needs it)
 
-Two items: *potion of climbing* (Common), *potion of water breathing* (Uncommon, 24 hours). Use is "before a mission that needs it", one per member per mission.
+Three items: *potion of climbing* (Common), *potion of healing* (Common, for a mission with a known fight), *potion of water breathing* (Uncommon, 24 hours). Use is "before a mission that needs it", one per member per mission.
 
 ### r03 Merris: Common potions
 
-Merris stocks the 2024 Common potions: *potion of healing* and *potion of climbing*. Cap: two Common potions per member per tenday, plus mundane gear up to 50 gp. Two vials of holy water (25 gp each) are kept by the junior quartermaster for the M3 ward. (The Common potion list is short; confirm Healing and Climbing against the DMG.)
+Merris stocks the 2024 Common potions: *potion of healing* and *potion of climbing*. Cap: two Common potions per member per tenday, plus mundane gear up to 50 gp. Merris keeps two vials of holy water (25 gp each) for the ward route. (2024 XDMG Common potions, verified: Climbing, Comprehension, Healing.)
 
 ### r25 7th-level spell (cast by Vajra on the surface, once per quest)
 

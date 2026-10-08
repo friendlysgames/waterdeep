@@ -66,7 +66,7 @@ Companions who are not Force Grey members gain no Renown, and each bonus can be 
 
 ## Aftermath
 
-A restored Meloon returns to the Portal after a tenday, and Vajra hands over a *wand of secrets*. A lost Meloon leaves Azuredge in the Tower. If the courier met a devourer still in place on Day 10, Nihiloor knows the party's faces, and **Destroy the Intellect Factory** reads that. Mirt's "three of ours" in **The Sleeping Asset** counts Harpers, and Meloon is a separate case.
+A restored Meloon returns to the Portal after a tenday, and Vajra hands over a *wand of secrets*. A lost Meloon leaves Azuredge in the Tower. If the party held the Day 5 conversation and the devourer was still in Meloon at dusk on Day 10, **Nihiloor Identified Party** is marked, and Nihiloor knows the party's faces. An escaped devourer carries the faces to him only in that case, and **Destroy the Intellect Factory** reads the outcome. Mirt's "three of ours" in **The Sleeping Asset** counts Harpers, and Meloon is a separate case.
 
 ## Involved Characters
 

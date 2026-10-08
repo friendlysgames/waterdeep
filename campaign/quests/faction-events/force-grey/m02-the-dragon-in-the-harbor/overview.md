@@ -66,7 +66,7 @@ Each participating Force Grey member gains 2 base Renown for reporting the drago
 
 ## Aftermath
 
-Zelifarn stays at the wreck and keeps watching the *Eyecatcher*, and he remembers how the party treated him. Meritide ends the mission satisfied or suspicious, and the Queenspire does not forget which. **Sea Maidens Faire** reads Zelifarn's standing, the vessel report and the offerings. **The Trouble with Meloon** becomes available at Renown 5 and 4th level.
+Zelifarn stays at the wreck and keeps watching the *Eyecatcher*, and he remembers how the party treated him. Meritide ends the mission satisfied or suspicious, and the Queenspire does not forget which. **Sea Maidens Faire** reads Zelifarn's standing, the vessel report and the offerings. **The Trouble with Meloon** becomes available when an individual Force Grey member reaches Renown 5 and 4th level.
 
 ## Involved Characters
 

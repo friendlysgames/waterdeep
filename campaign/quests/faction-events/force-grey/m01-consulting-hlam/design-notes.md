@@ -8,7 +8,7 @@ Appendix C and the Dragon Heist table give a short errand: climb Mount Waterdeep
 
 The mission now turns on two decisions. Hlam asks who sent the party, so the source's "unless he asks" becomes a test of honesty with a stated cost for evasion and for lies. At the Tower, the party chooses whether to give Vajra the buried-thing message word for word, including the sentences about her. A member who wants to spare her the opening lines can do so, and Vajra notices.
 
-No single check settles anything, because a failed Persuasion check always has a way back and the silent way gives either answer to a party that waits ten minutes. The last message still fires whatever the party does, so the mission's key content cannot be missed. Vajra's three Sending replies replace a silent brief, and each is exactly 25 words.
+No single check settles anything, because a failed Persuasion check always has a way back and the silent way gives either answer to a party that waits ten minutes. The last message still fires whatever the party does, so the mission's key content cannot be missed. Vajra's four Sending replies replace a silent brief, and each is exactly 25 words.
 
 Renown follows the guide: 2 base, with +1 for the verbatim message and +1 for winning the second answer without invoking Vajra's authority. The verbatim bonus keeps the source's rule that Vajra has the message repeated and written down, and the second bonus rewards the approach Hlam favors. The outcomes **Hlam Consulted** and **Buried Thing Reported** give the Trollskull Alley events, **The Full Picture** and **Vault of Dragons** something to read.
 

@@ -65,7 +65,7 @@ A character who opens the top folder and reads it finds the following.
 >
 > The page is written in a small, neat hand, and a character who reads it aloud finds that it says:
 >
-> > Dall, Orvyn, appeals clerk at the Trades Ward district magistracy, placed and fully integrated. The host reports by courier at the end of each tenday, and it is cooperative and unremarkable, and nobody will miss him.
+> > Dall, Orvyn, appeals clerk at the Trades Ward district magistracy, placed and fully integrated. The host reports to the courier every fifth day, and it is cooperative and unremarkable, and nobody will miss him.
 
 > [!gamemaster]**The Other Folders**
 >

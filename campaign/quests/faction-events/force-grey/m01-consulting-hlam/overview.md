@@ -26,7 +26,7 @@ Vajra knows the Black Network has split. She does not know about the buried thin
 
 ## The Brief
 
-The *Sending* reaches the Force Grey member with the highest Wisdom score. It is exactly 25 words, and the member can send up to three replies, which Vajra answers in kind.
+The *Sending* reaches the Force Grey member with the highest Wisdom score. It is exactly 25 words, and the member can send up to four replies, which Vajra answers in kind.
 
 ## The Climb
 
@@ -50,7 +50,7 @@ Each participating Force Grey member gains 2 base Renown for climbing to Hlam an
 
 ## Aftermath
 
-Vajra files the riddle and the buried-thing message separately and does not link them. Hlam goes back to watching the harbor. **The Dragon in the Harbor** becomes available at Renown 3 and 3rd level.
+Vajra files the riddle and the buried-thing message separately and does not link them. Hlam goes back to watching the harbor. **The Dragon in the Harbor** becomes available when an individual Force Grey member reaches Renown 3 and 3rd level.
 
 ## Involved Characters
 

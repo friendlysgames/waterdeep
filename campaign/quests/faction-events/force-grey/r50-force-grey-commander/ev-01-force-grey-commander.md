@@ -53,7 +53,7 @@ The member climbs on their own. The door opens as they reach the steps, as it di
 >
 > Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who has arranged this morning down to the hour.
 >
-> Vajra is Friendly toward the member, in her way, and she stands throughout the meeting. She gives her conclusion first, with a sentence or two of reasons, and in front of the party she swears rarely and mildly. She changes the subject when anyone remarks on her youth.
+> Vajra is Friendly toward the member, in her way, and she stands throughout the meeting. She gives her conclusion first, with a sentence or two of reasons, and she swears casually in her own study and keeps it clean in public. She changes the subject when anyone remarks on her youth.
 >
 > Vajra is happy to discuss the following topics:
 >
@@ -95,7 +95,7 @@ Vajra turns her head toward the wall, and the three strangers step forward in th
 
 > [!readaloud]
 >
-> A grey-haired dwarf in a battered breastplate stands at the wall with his hands behind him, and a broad man in an old Watch cloak, with the badge cut from the chest, has taken the doorway without being asked. A lean half-elf woman with a short bow across her back stays near the stair and watches the street through the window.
+> A grey-haired dwarf in scarred splint armor stands at the wall with his hands behind him, and a broad man in an old Watch cloak, with the badge cut from the chest, has taken the doorway without being asked. A lean half-elf woman with a short bow across her back stays near the stair and watches the street through the window.
 >
 > > "Rhendar Orsk, Garrick Stoll and Sera Vantry. You know Ysmay. Rhendar has eleven years with Force Grey, Garrick came to me from the Watch, and Sera knows the first level under the Portal better than I do."
 >
@@ -139,7 +139,7 @@ Vajra turns her head toward the wall, and the three strangers step forward in th
 > - **Duration:** the team goes as far down as the member takes it, and a mission runs up to a tenday below ground. After that it returns to the surface by the stairs and rests two days before it can be called again.
 > - **One at a time:** the team serves one mission at a time. If two Commanders ask for overlapping dates, it serves them in the order they asked.
 > - **Orders:** the team takes orders from the member who called it and from nobody else, and a companion who is not a Force Grey member cannot call it.
-> - **Casualties:** Vajra replaces a fallen team member once, a tenday later, with a Tower mage or a Warrior Veteran of the same block. If Ysmay has already been replaced by Dovrin Tesk, he leads.
+> - **Casualties:** Vajra replaces a fallen team member once, a tenday later, with a Tower mage or a Warrior Veteran of the same block. If Ysmay has already been replaced by Dovrin Tesk, he leads. If Rhendar has died, the team replaces him once with a Warrior Veteran, and the r25 benefit stays ended.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the team is withdrawn until the Renown is restored.
 
 > [!gamemaster]**The Team as Allies**
@@ -250,7 +250,7 @@ If **Tower Attack Stopped** is marked for the member, Vajra says the following a
 >
 > Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, who has made time for this and intends to keep it brief.
 >
-> Laeral is Friendly and precise, and she speaks in measured, complete sentences. She lets a silence run until someone fills it, and she does not swear in office. She calls Vajra "Vajra" in front of the party, deliberately, and she will not discuss Khelben, her own magic or the Masked Lords.
+> Laeral is Friendly and precise, and she speaks in measured, complete sentences. She lets a silence run until someone fills it, and she does not swear in office. She calls Vajra "Vajra" in front of the party, deliberately, and she will not discuss her own magic or the Masked Lords.
 >
 > Laeral is happy to discuss the following topics:
 >
