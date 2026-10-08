@@ -14,7 +14,15 @@
 
 ### The Bird at Noon
 
-At noon on the day after the member reaches Renown 25, a paper bird finds them with a note in Mirt's hand asking them to come to his manor at 20:00. Hold this Event until **Brightcandle Reached** is marked for the member. A member who is away from Waterdeep gets the bird at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Harper members wait in the manor kitchen.
+At noon on the day after the member reaches Renown 25, a paper bird finds them. Read the following aloud.
+
+> [!readaloud]
+>
+> The common room of your lodging is full of the midday meal when a folded bird of cream paper rustles in through the doorway. It circles over the tables, drops beside your bowl and waits there with its beak pointed at you. The harp-in-crescent watermark shows faintly as it unfolds itself, and the note in Mirt's heavy hand asks one thing of you.
+>
+> > "My house, 20:00 tonight. M."
+
+Hold this Event until **Brightcandle Reached** is marked for the member. A member who is away from Waterdeep gets the bird at their first surface lodging on return, and the meeting moves to the next evening at the same hour. Every qualifying member is invited and recorded separately, and companions who are not Harper members wait in the manor kitchen.
 
 The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more Renown from mission bonuses and the Earning Renown list in the Factions Guide. Every procedure below works whenever the rank arrives.
 

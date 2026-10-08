@@ -26,7 +26,7 @@ The note reaches each participating member at 16:00, carried by a street boy who
 
 > [!readaloud]
 >
-> A boy of about ten hands you a folded square of plain parchment, waits just long enough to be sure you have taken it, and runs off down the street. The paper has no seal and no scent. Inside, in Mirt's cramped hand, it gives an address in the North Ward and a time, followed by four words.
+> A barefoot boy of about ten, with a scraped knee and a canvas satchel, steps out of the crowd and holds out a folded square of paper. You were not watching for a boy, and no bird has come. The paper is thin and grey, the kind sold by the quire to market clerks, and it shows no watermark against the light. The boy waits until you take it and runs off down the street. Inside, in Mirt's heavy hand pressed hard into the page, it gives an address in the North Ward and a time, followed by four words.
 >
 > > "Come alone and be careful."
 

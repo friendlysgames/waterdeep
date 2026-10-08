@@ -27,7 +27,7 @@ Mirt finds each eligible member in the common room of the Yawning Portal on the 
 
 > [!readaloud]
 >
-> The common room of the Yawning Portal is loud tonight, with adventurers shouting over dice and Durnan's barmaids pushing trays through the crowd. Mattrim Mereg sits on a stool by the hearth, picking at a lute with three strings. At a back table near the stairs, Mirt lifts a hand and pushes a chair out with his foot.
+> The common room of the Yawning Portal is loud tonight, with adventurers shouting over dice and Durnan's barmaids pushing trays through the crowd. Mattrim Mereg sits on a stool by the hearth, picking at a lute with three strings. At a back table near the stairs, the bench creaks as a huge gray-bearded man shifts his weight. Mirt lifts a hand and pushes a chair out with his foot.
 >
 > > "There you are, lads and lasses, and about time, because this jug won't empty itself. Bring your cups upstairs. I can't talk business over that lute."
 

@@ -27,7 +27,7 @@ Mirt reaches Trollskull Manor at 00:15 and has the night staff wake the Harper m
 
 > [!readaloud]
 >
-> The taproom is dark except for one lamp on the long table, and the fire has burned down to a few red coals. Mirt sits with his coat still on and an untouched cup at his elbow. He pours a drink for each of you as you sit down.
+> The night staff knock on your door after midnight and tell you Mirt is waiting downstairs. The taproom is dark except for one lamp on the long table, and the fire has burned down to a few red coals. Mirt sits with his coat still on, and the bench creaks under him as he pushes an untouched cup aside. He pours a drink for each of you as you sit down.
 >
 > > "Sit. I'm sorry about the hour, and I wouldn't have come if it could wait. One of our seers, Ivara Dunn, felt something answer when the Stone woke. It was old and patient, and it was a long way under the city."
 >

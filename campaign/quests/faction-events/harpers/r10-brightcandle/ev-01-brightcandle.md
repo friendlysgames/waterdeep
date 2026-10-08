@@ -16,7 +16,7 @@ At noon on the day after the member reaches Renown 10, a paper bird finds them w
 
 > [!readaloud]
 >
-> The paper bird drops onto the table in front of you and unfolds itself. The note inside is in the same heavy, even hand as before.
+> You are carrying your bags up the lodging stairs when a paper bird flutters down and lands on the rail beside you. The cream paper rustles like a turning page, and the harp-in-crescent watermark shows when you tilt it toward the window. It unfolds itself flat in your hand, and the note is in the same heavy, even hand as before.
 >
 > > "Dinner at my house, eight tonight. Come hungry. M."
 
