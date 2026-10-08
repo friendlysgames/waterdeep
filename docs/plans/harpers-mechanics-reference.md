@@ -381,7 +381,7 @@ Does not work:
 - The freed host takes 1 level of Exhaustion and is shaken. She remembers the occupation as a long dream in which she saw and heard everything and could do nothing.
 - Until a Long Rest she speaks in fragments. The DM gives one clear fact per hour on request. A Long Rest ends the Exhaustion level and returns her memory in full, including the occupation weeks and the four months before them.
 - Strain damage heals as normal.
-- A host who was left occupied for weeks (Corene) has no memory of what the devourer reported to Nihiloor by telepathy outside 60 feet.
+- A host who was left occupied for weeks (Corene) remembers what she saw and heard, but not what the devourer passed to Nihiloor by telepathy. Its telepathy reaches only 60 feet, so a hosted devourer reports through a Guild minder or courier who meets the host.
 
 **If a PC is the host.** The player keeps awareness and plays the Contest of Wills rolls. The DM plays the body. The same procedure applies.
 
@@ -415,7 +415,7 @@ Day Cost: 4 Standard, 6 Hard. Extraction itself adds nothing (it is a scene, not
 | Expelled devourer alone | 28 | 16.5% Mild (2) | 9.3% below Mild (2) | 5.9% below Mild (2) |
 | Meloon hosted (Warrior Veteran 37) + devourer (28) | 65 | 88.7% Oppressive (10) | 49.9% Bloody (6) | 31.9% Bruising (4) |
 
-Verdict: the hosted Veteran is right for 4 PCs (Hard) and 5 PCs (Standard). At 3 PCs run it as a non-combat extraction (Vajra's *wish* is already the Force Grey Path 1) or start Meloon at half HP, which brings him to about 54 and 61.2% Brutal. Meloon's axe Azuredge is not in the numbers. If the host uses it as a combat weapon, treat the Veteran as CR 4 (Tier 1 Power 48), for a total of 76.
+Verdict: the hosted Veteran is right for 4 PCs (Hard) and 5 PCs (Standard). At 3 PCs run it as a non-combat extraction (Vajra's ward and three 4th-level *dispel magic* casts are Force Grey Path 1) or start Meloon at half HP, which brings him to about 54 and 61.2% Brutal. Meloon's axe Azuredge is not in the numbers. If the host uses it as a combat weapon, treat the Veteran as CR 4 (Tier 1 Power 48), for a total of 76.
 
 **Level 6 hosts for Force Grey M5.** Orvyn Dall's block is not in the data. If he is a Commoner (CR 0, 4 HP, Power 1), hosted plus devourer is 24: 5.2% / 2.9% / 1.9% (all below Mild). Strain then caps at 2 per attempt (half of 4), so the ward route is gentle on him.
 
