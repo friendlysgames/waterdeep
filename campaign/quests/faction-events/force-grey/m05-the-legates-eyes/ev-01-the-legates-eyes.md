@@ -14,11 +14,11 @@
 
 **Background (DM only)**
 
-**Nihiloor** placed an intellect devourer inside **Orvyn Dall** — a mild, conscientious appeals clerk in the Watch's Trades Ward district magistracy — seven tendays ago. The devourer has been working quietly: small adjustments to which appeals reach which desks, which documents are filed late, which hearings are rescheduled. The three reversed rulings are the visible tip of twelve months of planned manipulation. The devourer is running without further direction since the Spawning Pool was destroyed. Nihiloor may not even know it is still active.
+**Nihiloor** placed an intellect devourer inside **Orvyn Dall** — a mild, conscientious appeals clerk in the Watch's Trades Ward district magistracy — seven weeks ago. The devourer has been working quietly: small adjustments to which appeals reach which desks, which documents are filed late, which hearings are rescheduled. The three reversed rulings are the visible tip of twelve months of planned manipulation. The devourer is running without further direction since the Spawning Pool was destroyed. Nihiloor may not even know it is still active.
 
 Orvyn's daily schedule: the Trades Ward precinct at eight bells; lunch at the Bricklayer's Cup on Copper Pot Lane; return to precinct; home by six bells. He lives in a modest apartment on Tallow Court in the Trades Ward.
 
-Orvyn has been fighting this for seven tendays. He watches his own hands file decisions he would never make and cannot stop them. He cannot do anything about it alone. The devourer keeps his mind alive but locked, so he is aware of everything and cannot act. If the party reaches his buried mind through the anchor route, he will ask for help.
+Orvyn has been fighting this for seven weeks. He knows something is wrong with him — there are hours he cannot account for, decisions in his files that are in his handwriting and that he does not remember making. He cannot do anything about it alone. If the party creates a window for his own consciousness to surface — through magical stress, emotional shock, or a spell that disrupts the devourer's suppression — he will ask for help.
 
 ### The Three Investigation Paths
 
@@ -34,30 +34,15 @@ Three independent observations, any of which confirms the possession. The party 
 
 Getting the devourer out without opening a Watch file is the mission's actual challenge.
 
-**Private arrangement at the apartment:** Contact Orvyn at his apartment after hours. A **DC 13 Charisma (Deception or Persuasion) check** gets the party through the door under a plausible pretext. Inside, the party uses the ward route of the Extraction Procedure for the **Occupying Devourer** (see the Occupying Devourer in the **Harpers Mechanics Reference**).
-
-- **Holding Orvyn:** Use the Commoner stat block for his body. He is easy to Grapple or Restrain, and the devourer fights with his club and tries to Slip Out when Hold reaches 1.
-- **Ward:** A character casts *protection from evil and good* on Orvyn. At the start of each of his turns he makes a **DC 12 Intelligence saving throw with Advantage**. A success is 1 Break and a failure deals Strain. A warded Orvyn cannot be re-occupied.
-- **Faster Breaks:** A character with a 3rd-level slot can cast *dispel magic* for 1 Break (spellcasting ability check, DC 14). The party can also add anchor checks from the controlled surrender method below.
-- **Strain:** Orvyn has 4 Hit Points, so Strain is capped at 2 per failed attempt and cannot reduce him below 1.
-- **Warn the party:** Cast the ward before the last Break. An unwarded Orvyn is Incapacitated and under 10 Hit Points when the devourer is expelled, so it uses Occupy Body on him again.
-- **Noise:** The fight produces one neighbor's noise complaint, which opens a Watch file if not managed quickly. A **DC 12 Charisma (Deception)** check with the neighbor before they call anyone prevents it.
+**Private arrangement at the apartment:** Contact Orvyn at his apartment after hours — a **DC 13 Charisma (Deception or Persuasion) check** to get through the door under a plausible pretext. Inside, the devourer driving Orvyn resists; *Charm Person* (DC 13 Wisdom) or equivalent creates the window for extraction. *Telekinesis* to remove the devourer: the creature makes a **DC 16 Strength saving throw** to resist; on failure, it is expelled and immediately hostile. The apartment fight is contained but produces one neighbor's noise complaint — a Watch file if not managed quickly. Managing it: a **DC 12 Charisma (Deception)** check with the neighbor before they call anyone.
 
 **Through Vajra:** Reporting the coded ledger to Vajra changes her calculus. Solid documentary evidence is enough for her to use Blackstaff authority without triggering the full review she was trying to avoid. She handles the extraction herself and tells the party what she found afterward. This is the clean path.
 
-- She casts *protection from evil and good* on Orvyn, then *dispel magic* from a 4th-level slot once per round for three rounds. Each casting is an automatic Break, so there is no roll and no Strain.
-- She destroys the expelled devourer with her next action and keeps the extraction inside the Tower, so no Watch file opens.
-
-**The controlled surrender:** This path uses the anchor route of the Extraction Procedure. Orvyn has been fighting the devourer for seven tendays and cannot do more alone, so he helps once his own voice surfaces.
-
-- **Anchors:** Orvyn's family and the specific rulings he is meant to uphold. A helper within 5 feet speaks of them to his buried mind.
-- **Check:** Each round, the helper uses an action and makes a **DC 14 Charisma (Persuasion) check** while naming an anchor, or DC 18 without one. A success is 1 Break and a failure deals Strain. Deception does not work.
-- **Surfacing:** When Hold reaches 1, Orvyn speaks one sentence in his own voice, then goes under: "I didn't write those rulings. Please, get it out of me before it files another one." Further anchor checks have Advantage.
-- **Holding Orvyn:** The party must still Restrain him, and the devourer still fights through his body. Cast *protection from evil and good* before the last Break, as in the apartment method.
+**The controlled surrender:** If the party can arrange a situation where Orvyn's own consciousness has a moment of clarity — magical stress, an emotional shock, a targeted spell that disrupts the devourer's suppression — Orvyn will ask for help. He has been fighting this for seven weeks and knows something is wrong. He just cannot do anything about it alone. A spell like *Calm Emotions* (forcing the devourer's emotional suppression to compete with an external source), a **DC 16 Charisma (Persuasion) check** on a topic the real Orvyn cares about (the specific rulings; his family), or anything that creates a genuine two-second window of real consciousness can trigger this path.
 
 ### Orvyn, Restored
 
-Whatever the method, the devourer is expelled and destroyed. Orvyn takes 1 level of Exhaustion and speaks in fragments until a Long Rest. After it, he remembers the whole occupation as a long dream in which he saw and heard everything and could not act. He confirms the four rulings and names two Guild representatives who contacted the precinct through channels that should not have been available to them.
+Whatever the method, the devourer is expelled and destroyed. Orvyn needs a Long Rest before he is coherent. When he wakes: seven weeks of enforced partial awareness come back in fragments. He remembers enough to confirm the four rulings and to name two Guild representatives who contacted the precinct through channels that should not have been available to them.
 
 He will file an amended report. He asks the party not to put their names in it. Vajra tells him they won't be in it.
 
@@ -77,7 +62,7 @@ The Guild representatives he names become Watch targets. It is not immediate —
 >
 > Vajra now knows Nihiloor's network has self-sustaining assets placed before the Spawning Pool was destroyed. She begins auditing the Watch's other district clerkships — quietly, on her own authority.
 >
-> The party has bought Waterdeep approximately four months of clean Watch legal proceedings. This matters in **Vault of Dragons**, where Watch cooperation around the vault district is influenced by whether the legal apparatus has been compromised.
+> The party has bought Waterdeep approximately four months of clean Watch legal proceedings. This matters in Arc J, where Watch cooperation around the vault district is influenced by whether the legal apparatus has been compromised.
 >
 > **Force Grey Mission 6 — Smoke in the Tower** becomes available when the party reaches Renown 14 and 7th level.
 >
@@ -91,7 +76,6 @@ Three Watch magistrates have reversed significant rulings. All three benefit the
 
 ## Read Aloud
 
-> [!narrative]
 > Vajra's Sending arrives mid-afternoon:
 >
 > > "Three Watch magistrates. Reversed significant rulings. Past month. All benefiting Guild interests. I need you at the Tower tonight."
