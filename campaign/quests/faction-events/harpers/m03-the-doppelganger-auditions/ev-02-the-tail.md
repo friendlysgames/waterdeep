@@ -104,11 +104,11 @@ If Edric surrenders, read the following aloud:
 
 > [!qna]**Who are you working for?**
 >
-> > "Right, you'll want a name, and I haven't got one. A house takes my reports and a man collects them. That's all I know."
+> > "Right, you'll want a name, and I haven't got one. A house takes my reports and a man collects them, and that's all I know."
 
 > [!qna]**What did you tell them?**
 >
-> > "Faces and what you said. Who was a Harper and who only poured. I never saw a plan, because you never showed me one."
+> > "Faces and what you said, and who was a Harper and who only poured. I never saw a plan, because you never showed me one."
 
 If the members hold Edric, mark **Edric Captured**. Mirt takes him from the members, and the members do not learn what becomes of him.
 
@@ -174,7 +174,7 @@ Mirt waits in the upstairs room at the Portal in the evening, or the next mornin
 >
 > Mirt sits with a fresh jug at his elbow and the members' account laid out beside it. Bonnie stands behind the chair across from him, and Mattrim sits near the window with his lute across his knees.
 >
-> > "Edric is out of the crew as of now, caught or not. Say it to the others before they meet a face they know."
+> > "Edric is out of the crew as of now, caught or not, so say it to the others before they meet a face they know."
 
 If **Edric Captured** is marked, Bonnie speaks first. Read the following aloud:
 
@@ -182,7 +182,7 @@ If **Edric Captured** is marked, Bonnie speaks first. Read the following aloud:
 >
 > Bonnie listens to the end, folds her arms and lets out a breath.
 >
-> > "Well, shit. He's in a cell and I'm glad of it. I'll tell the others tonight. Thank you for bringing him in alive."
+> > "Well, shit. He's in a cell and I'm glad of it, and I'll tell the others tonight. Thank you for bringing him in alive."
 
 If Edric escaped, read the following aloud:
 
