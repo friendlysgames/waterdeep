@@ -10,7 +10,7 @@
 > - Hear from Meloon what the tells look like from inside, if **Meloon Restored** is marked.
 > - Find out, by several separate methods, that something rides in Orvyn's skull.
 >
-> Only Force Grey members attend the brief. Companions can help with everything after it.
+> Only Force Grey members attend the brief, and their companions can help with everything after it.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -18,7 +18,7 @@
 > - The devourer routes appeals to the magistrates it wants. Three have reversed rulings this month for the same Guild interests, and a fourth reversal was corrected two days later in Orvyn's hand, which is the devourer's mistake.
 > - Its telepathy reaches 60 feet, so it reports through Dobb Ketterly, a Guild dockhand. He sits at the next table at the Bricklayer's Cup at noon on Days 2, 7 and 12, counting Day 1 as the morning after the brief.
 > - Orvyn eats lunch at the Cup every working day. He works at the district magistracy from 08:00 to 18:00 and goes home to Tallow Court.
-> - Vajra suspects a devourer and has no proof. She cannot send the Watch or use her authority without opening a review of herself.
+> - Vajra suspects a devourer and has no proof, and she cannot send the Watch or use her authority without opening a review of herself.
 > - Mirt's "three of ours" in **The Sleeping Asset** counts Harpers. Orvyn and Meloon are Force Grey's hosts and are separate from that count.
 > - If **Pool Destroyed** is marked, no new hosts arrive to replace Orvyn. Nobody in this Event mentions the Splinter, the Cassalanters or Manshoon.
 
@@ -42,7 +42,7 @@ The *Sending* is exactly 25 words, and a member can answer in up to 25 words, th
 >
 > > "Three magistrates in the Watch's appeals system reversed rulings this month, and every reversal went to the same Guild interests. I can see the pattern on paper, but I can't see what causes it."
 >
-> She turns the sheets so the names face you.
+> She turns the sheets so the names face you and taps the top one with the end of her pen.
 >
 > > "All three cases passed through the Trades Ward appeals office, where four clerks work. I want to know which of them it is, and I want it settled before the next ruling is heard."
 
@@ -63,7 +63,7 @@ The *Sending* is exactly 25 words, and a member can answer in up to 25 words, th
 
 > [!qna]**Why not use your authority?**
 >
-> > "If the Blackstaff moves against the Watch, the Lords open a formal review of me and the magistracy. A review can't be buried. You are not the Blackstaff, so nobody will ask you to explain yourselves."
+> > "If the Blackstaff moves against the Watch, the Lords open a formal review of me and the magistracy. A review can't be buried, and I'm not ready to answer one. You are not the Blackstaff, so nobody will ask you to explain yourselves."
 
 > [!qna]**What do you suspect?**
 >
@@ -83,7 +83,7 @@ The *Sending* is exactly 25 words, and a member can answer in up to 25 words, th
 >
 > > "Irrelevant."
 
-If **Placement Records Taken** is marked, Vajra has already read the list the party brought out of the lair, and she hands over the clerk's name at the end of the brief. The lead is described in **The Third Lead**.
+If **Placement Records Taken** is marked, Vajra has already read the list the party brought out of the lair, and she hands over the clerk's name at the end of the brief, as described in **The Third Lead**.
 
 ### Meloon's Hour
 

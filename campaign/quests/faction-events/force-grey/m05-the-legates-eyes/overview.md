@@ -51,7 +51,7 @@ Companions who are not Force Grey members gain no Renown, and each bonus can be 
 
 ## Aftermath
 
-A restored Orvyn returns to his desk after a tenday, and Vajra audits the other district clerkships. A lost Orvyn opens a Watch review that runs for 14 days. An Orvyn left in place keeps filing appeals under watch. **Smoke in the Tower** and the **Force Grey** rank event read which of the three happened, and **Smoke in the Tower** and **Vault of Dragons** (unconverted) read the ledger.
+A restored Orvyn returns to his desk after a tenday, and Vajra audits the other district clerkships. A lost Orvyn opens a Watch review that runs for 14 days. An Orvyn left in place keeps filing appeals under watch. **Smoke in the Tower** and **Force Grey** (the r25 rank event) read which of the three happened, and **Smoke in the Tower** and **Vault of Dragons** (unconverted) read the ledger.
 
 ## Involved Characters
 
