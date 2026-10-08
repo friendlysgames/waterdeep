@@ -202,7 +202,7 @@ Several methods show that something rides in Orvyn. Each is enough alone, and a 
 > - **Eye contact and speech.** A character who talks with him for a minute and makes a successful DC 15 Wisdom (Insight) check sees that his answers arrive late and his eyes do not follow the room. Something is wrong with the mind, not the story.
 > - **His questions.** A character who listens to what he asks and makes a successful DC 14 Wisdom (Insight) check sees that he is gathering names, wards and sleeping places.
 > - **Close study.** A character who spends five minutes beside him and makes a successful DC 12 Intelligence (Arcana) or Wisdom (Medicine) check finds no spell and no disease. The pupils lag, and something is riding in the skull.
-> - **His hand.** A character who asks him to sign for the petition and compares it with *O. Dall* on the fourth reversal sees that the registry hand is flat and exact, while the hand in front of them is hesitant.
+> - **His desk.** A character who inspects the appeals office after hours finds the real Orvyn's older petitions signed with a looping hand. The recent entries, including the fourth correction, are flat and exact.
 > - ***Detect Evil and Good*** senses an Aberration within 30 feet and does not alert it. ***Detect Thoughts*** shows two minds in one head, one of them muffled, and alerts the devourer.
 >
 > *Detect Magic* shows no spell on Orvyn. An alerted devourer stops pretending, and the Guild minders close in. Use the alerted roster in **The Extraction**.
