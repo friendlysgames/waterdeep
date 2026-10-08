@@ -17,13 +17,12 @@
 >
 > - Zelifarn is a Young Bronze Dragon who has lived in Deepwater Harbor for about three tendays. He scours the wrecks on the harbor floor and keeps what he finds in a cave beneath the elvish wreck.
 > - Captains and churches leave offerings for Umberlee at the deep moorings. Zelifarn found them unguarded, carried them to his cave and believes they were abandoned.
-> - Zelifarn never lies, and he tells the truth to anyone who asks. He does not understand secrets, and he submerges if he is attacked.
-> - Meritide Blackfin believes a thief is robbing Umberlee. Umberlee does nothing on screen in this Event. The risk is Meritide's grudge.
+> - Zelifarn never lies and tells the truth to anyone who asks, because he does not understand secrets, and he submerges if he is attacked.
+> - Meritide Blackfin believes a thief is robbing Umberlee, but Umberlee does nothing on screen in this Event, and the only risk is Meritide's grudge.
 > - The vessel under the *Eyecatcher* is the *Scarlet Marpenoth*, a Bregan D'aerthe submersible about 80 feet long and 20 feet across. Zelifarn does not know whose it is. The Faire's deck watch has fired crossbows near him to drive him off.
 > - Vajra has heard that a bronze dragon sits just outside the Dragonward. She knows nothing about the vessel or the offerings until the party tells her.
 > - The *Eyecatcher* lies in the deep harbor from the day the Faire's fleet docks until it leaves on Tarsakh 20.
-> - The Black Viper had no part in the theft. The dockhands' rumor is wrong.
-> - No speaker in this Event names Jarlaxle or Bregan D'aerthe.
+> - The Black Viper had no part in the theft, so the dockhands' rumor is wrong, and no speaker in this Event names Jarlaxle or Bregan D'aerthe.
 
 ### The Brief
 

@@ -42,11 +42,11 @@ The *Sending* is exactly 25 words. A member can answer in up to 25 words, and Va
 >
 > The street door of Blackstaff Tower swings open before anyone knocks, and the stair beyond climbs past more floors than the outside of the building has. Vajra Safahr stands at a tall desk at the top with a notebook open, and the room has no chair for visitors. She finishes a line, caps her ink and looks at each of you in turn.
 >
-> > "Meloon Wardragon is one of mine, and he hasn't filed a report in three weeks. Half the Portal says he's drunk. The other half says he's cursed."
+> > "Meloon Wardragon is one of mine, and he hasn't filed a report in three weeks. Half the Portal says he's drunk and the other half says he's cursed."
 >
 > She sets the pen down on the notebook.
 >
-> > "I think something is wrong with his mind, and I can't prove it. I can't go there myself, because he would see the Blackstaff coming. Watch him for a tenday and tell me what you saw."
+> > "I think something is wrong with his mind, and I can't prove it. I can't go there myself, because he would see the Blackstaff coming, so I need you to watch him for a tenday and tell me what you saw."
 
 > [!social]**The Blackstaff at Her Desk**
 >
@@ -65,23 +65,23 @@ The *Sending* is exactly 25 words. A member can answer in up to 25 words, and Va
 
 > [!qna]**Why not watch him yourself?**
 >
-> > "If I walk into the Portal, he sees me within a minute, and so does anything that is riding him. I won't move against one of my own on a hunch. I won't sit on my hands if I'm right, either."
+> > "If I walk into the Portal, he sees me within a minute, and so does anything that is riding him. I won't move against one of my own on a hunch, but I won't sit on my hands if I'm right either."
 
 > [!qna]**What do you suspect?**
 >
-> > "Nihiloor breeds creatures that ride a person's skull, and I've seen what they leave behind. I would give a lot to be wrong. If I'm right, some Guild fuck has been sitting inside my friend for weeks."
+> > "Nihiloor breeds creatures that ride a person's skull, and I've seen what they leave behind. I would give a lot to be wrong, but if I'm right then some Guild fuck has been sitting inside my friend for weeks."
 
 > [!qna]**What if he turns on us?**
 >
-> > "Then don't be in Durnan's taproom when it happens. He will end the fight, and he won't care who started it. Do not approach Meloon unless you must."
+> > "Then don't be in Durnan's taproom when it happens, because he will end the fight and he won't care who started it. Do not approach Meloon unless you have to."
 
 > [!qna]**What do we carry?**
 >
-> > "Merris keeps two vials of holy water on the third floor. Sign for them and don't ask him where they came from. He won't know."
+> > "Merris keeps two vials of holy water on the third floor, so sign for them on your way out. Don't ask him where they came from, because he won't know."
 
 > [!qna]**What do we get?**
 >
-> > "My gratitude, and Renown if it goes well. If you do this properly, you'll leave with more than my thanks."
+> > "You get my gratitude, and Renown if it goes well. If you do this properly, you'll leave with a good deal more than my thanks."
 
 > [!qna]**Are you all right?**
 >
@@ -125,15 +125,15 @@ Meloon's table has two empty chairs that regulars used to fill without being ask
 >
 > Durnan turns the mug a quarter turn in the rag.
 >
-> > "Hasn't sworn in a month."
+> > "Meloon hasn't sworn once in a month. That's wrong."
 
 > [!qna]**What's wrong with him?**
 >
-> > "Fuck if I know."
+> > "Fuck if I know. He orders drinks and never touches them."
 
 > [!qna]**Where does he sleep?**
 >
-> > "Upstairs, end of the hall. Gallery sees his door."
+> > "Upstairs, end of the hall. The gallery rail looks straight at his door."
 
 > [!qna]**Can we use your back room?**
 >
@@ -145,7 +145,7 @@ From Day 2 on, Meloon sits on the edge of his bed at dawn with Azuredge across h
 
 > [!readaloud]
 >
-> In the grey light before dawn, Meloon sits on the edge of his bed with a silver-and-electrum battleaxe laid across his knees. His lips move without sound, and his hands hover over the haft and never close on it. The axe lies perfectly still. After several minutes he lays his hands flat on his thighs, gets up and goes down the stairs without it.
+> In the grey light before dawn, Meloon sits on the edge of his bed with a silver-and-electrum battleaxe laid across his knees. His lips move without sound, and his hands hover over the haft and never close on it while the axe lies still. After several minutes he lays his hands flat on his thighs, gets up and goes down the stairs without it.
 
 > [!exploration]**Reading the Ritual**
 >
