@@ -6,9 +6,9 @@ Appendix B and the Force Grey guide give Vajra one big reward: when the party br
 
 ## What Changed
 
-The test was a paragraph that Vajra judged by feel, and it let a party fail on a technicality. It is now a table with three routes per element, so every element has independent ways to be met, in line with the Three Clue Rule. The GM judges each element by the facts it must give, with no check. A missing element earns one question and a return visit, and nothing is lost.
+The test was a paragraph that Vajra judged by feel, and it let a party fail on a technicality. It is now a table with three routes per element, so every element has independent ways to be met, in line with the Three Clue Rule. The GM judges each element by the facts it must give, with no check, and a missing element earns one question and a return visit.
 
-The three confirmations now read earlier outcomes. Nihiloor's programme changes with **Pool Destroyed** and **Nihiloor Fled**. The larger cell is paired on **Manshoon Named**. The third finding is the Cassalanter residue only if the **Cassalanter Villa** hook has run, and otherwise Hlam's buried thing from **Consulting Hlam**, with a fallback for a member who heard Hlam but never reported. The staff stirring is narration only. Vajra never looks at it, and nobody explains it.
+The three confirmations now read earlier outcomes. Nihiloor's programme changes with **Pool Destroyed** and **Nihiloor Fled**, and the larger cell is paired on **Manshoon Named**. The third finding is the Cassalanter residue only if the **Cassalanter Villa** hook has run, and otherwise Hlam's buried thing from **Consulting Hlam**, with a fallback for a member who heard Hlam but never reported. The staff stirring is narration only, and Vajra never looks at it or explains it.
 
 ## Departures from the Source
 
