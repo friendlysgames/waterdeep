@@ -22,7 +22,7 @@ The Factions Guide lists Gray Hand benefits without procedures. The event writes
 
 ## Invented Names and Open Items
 
-- No new named NPCs. The Tower mage who casts *Tiny Hut* is unnamed, and the letter's wording, the potion list (climbing, water breathing, healing), the tie-break order for the first *Sending* and Vajra's lone-arrival line are invented. Any can change without affecting the rest.
+- No new named NPCs. The Tower mage who casts *Tiny Hut* is unnamed, and the letter's wording, the potion list (climbing, water breathing, healing), the tie-break order for the first *Sending* Vajra's lone-arrival line and her unscored test question (a friend acting against their interests, which plants checking for enchantment before accusing) are invented. Any can change without affecting the rest.
 - **The Factions Come Calling** (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`) still writes **Force Grey Joined** as a True or False heading and names no recipient rule for the *Sending*. The row at line 61 expects the Tiny Hut and vault scrolls, which only this event delivers. The manor guide (`02-operating-costs.md:86`) matches.
 - `campaign/guides/trollskull-manor/08-notable-patrons.md:55` gives Vajra as a Calishite and :57 has her mention Kolat Towers, both against the Notable Figures page and the Manshoon gate. Her Notable Figures page (:26) carries the Manshoon quote.
 - `campaign/guides/factions/06-force-grey.md` and the organization page do not list the benefit procedures written here, and G06:30 says "binding circles" for the Cassalanter residue.
