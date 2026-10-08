@@ -6,7 +6,7 @@ The restored draft treated the invitation as a party-wide event and marked **Har
 
 ## One Evening, Two Gears
 
-The event stays at the theater. Mirt plays the loud Old Wolf through the first act and drops to his business voice at intermission, which is the switch the voice profile uses to show he is serious. The opera is kept as the source gives it, sung in Giant, with a Common libretto printed for the table's sake. The earlier drafts scripted the opera scene by scene with clock times, and a tailor schedule with a recovery appointment. Those are cut, and the tailor takes one sentence. The qna answers cover the Harpers, the chain of command, the offer, other loyalties, refusal and the first job, and nothing else.
+The event stays at the theater. Mirt plays the loud Old Wolf through the first act and drops to his business voice at intermission, which is the switch the voice profile uses to show he is serious. The opera is kept as the source gives it, sung in Giant, with a Common libretto printed for the table's sake. The earlier drafts scripted the opera scene by scene with clock times, and a tailor schedule with a recovery appointment. Those are cut. At the user's request the event now has a tailor scene (**Seldo's Fine Stitches**, with no clock or deadline) and background color for the opera, both explicitly irrelevant to the meeting; the opera carries no clue. Mirt's public gear was also widened with gossip and sailor's swearing, so the switch at intermission reads sharply. The qna answers cover the Harpers, the chain of command, the offer, other loyalties, refusal and the first job, and nothing else.
 
 ## What Mirt Withholds
 
@@ -18,5 +18,6 @@ WDH and Appendix B give the first mission at the pin. The remix holds it back, a
 
 ## Invented Names and Open Items
 
-- No new NPC names. The lodging address (12 Delzorin Street, five bunks) is carried over from the previous version. Mirt's lines about the Dock Ward and about "asking Renaer to find me" are original.
+- Invented names: Seldo Wynd (tailor, name and shop fixed by **A Friend's House**; alignment, age and speech habit invented here) and the opera's company: Idris Marn (conductor), Orsolya Venn (contralto, Tiamat), Joran Falk (baritone, the Warden of the Well) and Maeve Tolliver (soprano, the Priestess). The gossip, the Chandlers' Guild wig, the Merry Widow boats and the Lightsinger ghost are invented color with no later use.
+- The lodging address (12 Delzorin Street, five bunks) is carried over from the previous version. Mirt's lines about the Dock Ward and about "asking Renaer to find me" are original.
 - **The Factions Come Calling** (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md`) still writes **Harpers Joined** as a True or False heading and names Remallia Haventree as a Harper referral for Filthy Meg, which breaks the hidden-Remi rule.
