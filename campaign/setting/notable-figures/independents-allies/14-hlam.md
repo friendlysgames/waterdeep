@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Calishite human hermit monk, lawful good*. Stat block: **Monk (with modifications)**.
 > - **Affiliation:** Order of the Even-Handed; Order of the Gauntlet (ally)
-> - **Featured in:** **Trollskull Alley**, **Vault of Dragons**, **Force Grey Mission 1 — Consulting Hlam**
+> - **Featured in:** **Trollskull Alley**, **Vault of Dragons**, **Consulting Hlam**
 
 ## Roleplaying Information
 
