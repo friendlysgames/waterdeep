@@ -266,7 +266,7 @@ Each participating Force Grey member gains 2 base Renown for delivering the full
 
 Vajra sends the letter by hand that night and does not report the Open Lord's reply. **Vault of Dragons** reads **Vajra Briefed** to decide whether the Open Lord arrives prepared or late.
 
-A Force Grey member who missed the sitting can climb to the Tower later and give Vajra the account they heard at the table. She does not write again, but she hears them out, adds the member to **Vajra Briefed**, and the member gains the 2 Renown.
+A Force Grey member who missed the sitting can climb to the Tower later and give Vajra the account they heard at the table. She hears them out without writing a second letter, adds the member to **Vajra Briefed**, and the member gains the 2 Renown.
 
 The Lords' Alliance inquiry has no result in this Event. Nothing Vajra learns here changes the other factions, and none of them learns that she has written.
 
