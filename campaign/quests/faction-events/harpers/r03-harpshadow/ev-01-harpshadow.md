@@ -17,7 +17,7 @@ At noon on the day after the member reaches Renown 3, a paper bird finds them wh
 
 > [!readaloud]
 >
-> The paper bird lands on the sill and folds itself flat in your hand. The note inside is short and written in a heavy, even script.
+> A paper bird comes down onto the back of your chair with a dry rustle while a companion makes a grab for it. It hops out of reach and waits for your hand. A harp inside a crescent moon shows in the cream paper as it unfolds itself flat, and the note is short and written in a heavy, even script.
 >
 > > "Dinner at my house, eight tonight, Sea Ward, the street behind the Naval Harbor. Come hungry. M."
 

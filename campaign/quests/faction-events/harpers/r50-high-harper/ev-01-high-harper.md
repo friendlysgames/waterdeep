@@ -19,7 +19,7 @@ Hold this Event until **Wise Owl Reached** is marked for the member. At noon on 
 
 > [!readaloud]
 >
-> A silver raven no bigger than a man's hand lands on the sill and holds out one leg. A slip of paper is tied there, sealed with a harp pressed into red wax.
+> A silver raven no bigger than a man's hand, a figurine come to life, lands on the sill with a click of metal feet and holds out one leg. A slip of paper is tied there under a harp pressed into red wax.
 >
 > > "My garden gate at eight tonight. Your friends are welcome to supper in the kitchen. M."
 

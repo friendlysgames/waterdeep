@@ -4,6 +4,7 @@
 >
 > This Social Event occurs during **The Factions Come Calling**, after Renaer recommends the party's unaffiliated characters to Mirt and a paper bird delivers their theater tickets. In this Event, the characters can:
 >
+> - Be fitted for formal dress by a Delzorin Street tailor, free of charge, before the performance.
 > - Follow the bird's invitation to *The Fall of Tiamat* at the Lightsinger Theater and take their seats in Private Box C.
 > - Watch Mirt play the jovial moneylender through the first act while he measures them.
 > - Hear him explain the Harpers plainly at intermission and ask him about the faction, its rules and its price.
@@ -26,25 +27,106 @@
 
 > [!gamemaster]**A Bird at the Window**
 >
-> The bird arrives at noon on the day of the performance and taps at a window of Trollskull Manor until someone opens it. The note carries no signature and no seal. A tailor on Delzorin Street has been told to expect the candidates and outfits them free of charge in under an hour, so a candidate without formal attire still reaches the theater in time. Read or paraphrase the following when a character opens the window.
+> The bird arrives at noon on the day of the performance, finds the candidates at Trollskull Manor and lands only for them. If a window is shut, it taps the glass with its beak until someone opens it. It unfolds into a single sheet the moment a candidate touches it. Mirt buys these birds by the dozen from a Harper charm-maker, and the ink fades to nothing an hour after the bird unfolds. A candidate can reply by folding the note along its old creases, and the bird flies back to him. A tailor on Delzorin Street has been told to expect the candidates, and **Seldo's Fine Stitches** below covers the visit. Read or paraphrase the following when a character opens the window.
 
 > [!readaloud]
 >
-> A small bird folded from paper sits on the sill with its beak against the glass. When you open the window, it hops onto your hand and spreads its wings. Lines of writing run along the inside of every fold.
+> A bird about a hand long sits on the sill, folded from heavy cream paper with sharp creases. It taps its beak against the glass, and when you open the window it hops onto your hand with a dry rustle like a turning page. Held up to the light, the paper shows a faint watermark of a harp inside a crescent moon. At your touch the bird unfolds itself into a single flat sheet, and a ticket for each of you falls into your palm.
 
 > [!exploration]**The Invitation**
 >
-> The unfolded bird holds a theater ticket for each candidate and a note in a flowing, unhurried hand:
+> The unfolded bird holds a theater ticket for each candidate and a note in a heavy, even hand, signed "M.":
 >
 > > "Renaer tells us you are a good bet. He bought you tickets to the opera tonight at the Lightsinger Theater in the Castle Ward. If you are interested, meet Mirt at intermission. Private Box C. Formal attire is required for admittance. A tailor on Delzorin Street has been told to expect you."
 >
-> The opera is *The Fall of Tiamat*, sung in Giant, with a libretto printed in Common for anyone who needs it. A character who examines the note and makes a successful **DC 12 Intelligence (Investigation)** check sees that the sender wrote it ahead of time in a clerk's hand and did not need a signature to be obeyed. On a failure the note reads as an ordinary invitation from a stranger with money.
+> The opera is *The Fall of Tiamat*, sung in Giant, with a libretto printed in Common for anyone who needs it. A character who examines the note and makes a successful **DC 12 Intelligence (Investigation)** check finds no stationer's mark on the paper beyond the watermark. The same steady hand wrote the signature and the body, so the sender wrote the note himself instead of handing it to a clerk. On a failure the note reads as an ordinary invitation from a stranger with money.
+
+### Seldo's Fine Stitches
+
+> [!gamemaster]**The Tailor on Delzorin Street**
+>
+> The shop stands at 8 Delzorin Street in the North Ward, a short walk from Trollskull Alley. Play this scene when the candidates go for their fitting between the bird's arrival and the performance. Seldo Wynd is a tailor and nothing else. He has no secret and no tie to the Harpers, and he knows Mirt only as a generous customer who sends clients and pays for them in advance. Nothing said here bears on the meeting.
+
+> [!readaloud]
+>
+> A brass bell rings as you open the door of Seldo's Fine Stitches, and the smell of hot iron and beeswax meets you. Bolts of wool and silk line both walls, and a tall mirror leans against the back wall beside a curtained alcove. A gray-whiskered man in shirtsleeves stands behind the counter with a measuring tape around his neck and pins in his mouth. He sets the pins into a cushion on his wrist while a young woman and a boy wheel a rack of dark coats toward the mirror.
+>
+> > "You're the opera party, yes? Master Mirt sent word ahead and paid for everything. Come in, come in, and mind the chalk on the floor."
+
+> [!social]**The Fussy Tailor**
+>
+> Seldo Wynd (Neutral Good, Human, he/him) :: a kindly tailor in his sixties who judges people by how they stand and talks the whole time he works.
+>
+> Seldo hums while he measures and counts half-inches under his breath. He asks questions with his hands busy, so he answers about the opera the way he answers about hems, at length and with pins in his mouth. He ends many remarks with "yes?" and tells people to hold still. He never swears, and his strongest oath is "Oh, buttons."
+>
+> Seldo is happy to discuss the following topics:
+>
+> - Mirt, a generous customer who sends him clients and pays before they arrive.
+> - The clothes, including colors, cut, cost and fit.
+> - The Lightsinger, what its patrons wear and what its attendants allow.
+> - *The Fall of Tiamat*, which he has seen twice.
+>
+> He will not discuss other customers' orders. He has nothing to hide and simply thinks it is poor manners.
+
+> [!qna]**Who paid for this?**
+>
+> Seldo pulls the tape across your shoulders and reads the number to his assistant.
+>
+> > "Master Mirt, the moneylender from the Sea Ward. He's sent me three customers this year and paid for each one before they came through the door. He's a generous man, and a loud one. I don't ask why he's generous, yes? It's bad for business."
+
+> [!qna]**How long will this take?**
+>
+> > "About an hour for all of you, if you hold still. My two work the hems while I do the coats. Everything you walk out in is yours, and nobody will ask for it back."
+
+> [!qna]**What does the Lightsinger expect?**
+>
+> > "Dark colors in the pit and brighter silks in the boxes. The attendants take long blades at the gallery stairs and leave short knives alone. I'll cut your coat to hide whatever you carry, yes?"
+
+> [!qna]**What is the opera about?**
+>
+> Seldo takes a pin from the cushion and points it at the ceiling.
+>
+> > "*The Fall of Tiamat*. The dragon queen is beaten at the Well of Dragons, and every word is sung in Giant. Take the printed libretto, because the Common sits beside the Giant on each page. I've seen it twice and I only follow the second act."
+
+> [!qna]**What do you think of Mirt?**
+>
+> > "He eats like three men and pays on time, which makes him my favorite customer. Every year he orders a coat a size larger and says it's for a nephew. He's good company, and I've never had to chase his coin."
+
+> [!gamemaster]**What Each Candidate Is Fitted With**
+>
+> The fitting takes about forty-five minutes, with Seldo and both assistants working on all the candidates at once. No check is needed and no one is charged.
+>
+> - **The outfit.** Each candidate receives one set of Fine Clothes cut to their usual style, such as a coat or gown, trousers or a long skirt, a cloak and shoes if they need them. The colors are slate, midnight blue and dark green with silver thread.
+> - **Ownership.** The clothes are Mirt's gift, and the characters keep them. A candidate who already owns fine clothes can have them pressed and altered at no cost instead.
+> - **Companions.** Companions are fitted in the same hour for 15 gp each, paid at the counter.
+> - **A skipped fitting.** A candidate who goes straight to the theater in plain clothes is lent a plain coat or wrap by the doorman, and the Lightsinger admits every ticket holder.
+
+> [!exploration]**Small Courtesies**
+>
+> Seldo notices what each candidate carries or wears, and he deals with it politely and without comment.
+>
+> - **Weapons.** A candidate with a weapon larger than a short sword is asked to leave it in his back room for the evening. Heavy armor goes there too. Seldo locks the items in a chest, gives the character a claim tag and returns them on request, tonight or the next morning, since he sleeps above the shop.
+> - **Small blades and wands.** Seldo leaves these alone and sews a flat pocket or sheath into the coat lining at no cost, sized to the item.
+> - **Wounds and odd traits.** A visible wound, scar, tattoo, tail, horns or wings gets a cut that suits it. A high collar covers a neck wound, a slit hem frees a tail, and a long sleeve covers a tattoo if the character wants it covered. Seldo asks nothing, and a character who volunteers an explanation gets a nod and "Mm, yes, of course."
+
+> [!exploration]**A Good Word**
+>
+> A character who admires Seldo's work and makes a successful **DC 12 Charisma (Persuasion)** check wins an extra. Seldo adds a pair of gloves, a silk scarf or a plain brooch worth up to 5 gp, and mentions it only after the character has stepped off the stool. On a failure he is just as courteous and adds nothing.
+
+> [!readaloud]
+>
+> When the last pin is out, the boy draws the curtain aside, and you step in front of the tall mirror one at a time. Each coat hangs cleanly from the shoulders, and the cloaks fall to exactly the right length. Seldo brushes a thread from your sleeve, claps his hands once and opens the door onto Delzorin Street.
 
 ### Private Box C
 
 > [!gamemaster]**The Old Wolf in Public**
 >
-> Mirt has the box to himself and keeps to his public gear until intermission. He is loud, bawdy and generous, he swears freely, and he refills every glass within reach without asking. He sits back from the rail, where the curtain leaves him half in shadow, and watches the stage and the candidates in about equal measure. He is noting who speaks first, who listens and who checks the exits. Nothing he notices is scored, and a candidate who stays quiet is not turned away.
+> Mirt has the box to himself and keeps to his public gear until intermission. Play him loud, jovial and funny. He swears like a sailor, laughs at his own jokes, talks over the singers and refills every glass within reach without asking.
+>
+> - When the table goes quiet, he leans in and tells one piece of gossip from **Mirt's Gossip** below. Use them in any order.
+> - Between stories he asks the candidates about themselves, and he teases whoever speaks first.
+> - He watches the stage and the candidates in about equal measure. He is noting who speaks first, who listens and who checks the exits.
+> - Nothing he notices is scored, and a candidate who stays quiet is not turned away.
 
 > [!readaloud]
 >
@@ -56,17 +138,32 @@
 >
 > > "Come in, come in, and fuck standing on ceremony. There's wine on the sideboard and more food coming than a man my size can decently finish. Sit. The first act is short."
 
+> [!gamemaster]**The Production**
+>
+> This is color for the evening. *The Fall of Tiamat* carries no clue, and nothing in it bears on the meeting. Use as much or as little as the table enjoys.
+>
+> - **The house.** The Lightsinger seats about six hundred across the pit and three galleries. The audience is merchants, minor nobles and guild families in formal dress.
+> - **The company.** The Lightsinger's resident company stages the opera under the conductor Idris Marn. Orsolya Venn, a contralto, sings Tiamat. Joran Falk, a baritone, sings the Warden of the Well, who leads the five heroes. Maeve Tolliver, a soprano, sings the Priestess.
+> - **The language.** Every word is sung in Giant. Six goliaths in the chorus carry the diction, and the principals learned their parts by ear. A printed Common libretto runs beside the Giant on each page. A character who speaks Giant hears that the principals are careful and the goliaths are fluent.
+> - **The dragon.** Tiamat's five heads are painted wood and silk on poles, worked by ten stagehands behind a black screen. Colored driftglobes light each head, and bellows blow silk streamers for breath. The heads are the most talked-about effect in the city this season.
+> - **The shape.** Two acts with an interval. The first act brings the dragon queen to her throne, and the second ends with her fall at the Well of Dragons.
+
+> [!readaloud]
+>
+> The driftglobes dim and the house falls quiet as the curtain rises on a black stage lit by a single red glow. A chorus in long gray robes stands in rows on a tiered platform and begins to sing in low, rolling Giant. Below the box, the audience bends over printed librettos, and the pages rustle all the way up the galleries. Mirt reaches for the decanter without looking at his own copy and taps one thick finger on the rail in time with the drums.
+
 > [!social]**The Old Wolf**
 >
 > Mirt (Chaotic Good, Illuskan human, he/him) :: A moneylender of great girth and a senior Harper, who wants to see how Renaer's recommended candidates carry themselves.
 >
-> Mirt is Friendly toward the candidates and in no hurry. Until intermission he talks in long, rolling sentences about food, wine and old stories, and he laughs at his own jokes. He tilts his head slightly when an answer makes him recalculate. Once the curtain falls his voice drops, his sentences get short and the swearing stops. He calls younger people "lad" and "lass".
+> Mirt is Friendly toward the candidates and in no hurry. Until intermission he roars: his sentences are long and rolling, full of food, wine and old stories, and he laughs at his own jokes. He swears like a sailor and invents his insults as he goes. He gossips about the house, talks over the singers and calls younger people "lad" and "lass". He tilts his head slightly when an answer makes him recalculate. Once the curtain falls his voice drops, his sentences get short and the swearing stops.
 >
 > Mirt is happy to discuss the following topics:
 >
 > - Renaer, whom he praises briefly and warmly.
 > - What the candidates did in the Dock Ward, which he has heard about and likes for its directness.
 > - Food and wine, and the architecture of the Lightsinger, on which he will go on for as long as anyone lets him.
+> - Gossip about the singers, the guilds and the people in the boxes below.
 > - The Harpers, but only at intermission.
 >
 > He will not discuss the Stone of Golorr, Manshoon, the Cassalanters, the vault or his own offices. He is assessing, not briefing.
@@ -83,6 +180,37 @@
 >
 > > "A moneylender, and a fat one. Half of Waterdeep owes me coin and the other half owes me a favor. Come back at intermission and I'll tell you the rest. Eat something first."
 
+> [!qna]**What do you do, exactly?**
+>
+> Mirt tears a roll in half and dips it in the sauce.
+>
+> > "I lend money to idiots at rates that would make a pirate blush, lass. Then I sit in boxes like this one and eat the interest. It's a shit job, but someone has to do it, and the wine is good."
+
+> [!qna]**Do you know everyone here?**
+>
+> Mirt waves his glass at the pit below.
+>
+> > "Half the house owes me money, and the other half is hiding from the half that does. See the fat one asleep in the front row? I've lent that sleepy bastard coin for three seasons, and he's slept through every cent of it."
+
+> [!qna]**Is the opera any good?**
+>
+> > "The dragon is fucking magnificent, lad. Ten poor sods under a black cloth, and not one of them is paid enough. I can't follow a word of the Giant, so I watch the dragon and listen to the cellos."
+
+> [!gamemaster]**Mirt's Gossip**
+>
+> Mirt volunteers these when the table goes quiet. None of it bears on the campaign, and he drops each one as soon as the candidates stop laughing.
+>
+> - **The wig.** "The Master of the Chandlers' Guild lost his wig in the turtle soup at the spring dinner. The cunt fished it out with a ladle and wore it home wet."
+> - **The baritone.** "That's Joran Falk down there, the Warden. He's bedding the wife of the ship-chandler who paid for the dragon's heads, and the poor fucker sits three rows back and applauds every time Joran strikes a pose."
+> - **The boats.** "Two fish-sellers in the Dock Ward market named their boats the Merry Widow within a week of each other. They haven't spoken since, and one of them pelted the other's stall with eel guts at dawn."
+> - **The ghost.** "They say the Lightsinger has a ghost, a stage manager who dropped dead in the middle of a cue. He walks the third gallery mouthing the lines, and if he forgets one, the whole fucking balcony goes cold."
+> - **The soprano.** "The Priestess wants white lilies in her room, no cats within fifty feet and green grapes peeled by hand. A stage boy gets a copper for every ten grapes, and he's bought himself a hat."
+> - **The pearls.** "See the woman in the green silk, third box on the right? Those pearls were her cook's, won at dice, and she still nods to the cook at the market."
+
+> [!readaloud]
+>
+> A deep drum rolls, and the red glow swells until a great five-headed dragon rises at the back of the stage. Each head is a different color, with painted scales and glass eyes, and the stagehands sway them over the singers on hidden poles. A tall woman in a crown of black horn steps forward at the dragon's feet and sings a long line in Giant. The chorus answers her, and the galleries below lean forward over their librettos.
+
 > [!exploration]**Measuring the Candidates**
 >
 > A character who watches Mirt through the first act and makes a successful **DC 14 Wisdom (Insight)** check sees that he is measuring the candidates against something he does not name. The check does not reveal what it is, and Mirt will not say if asked. On a failure the character sees a cheerful drunk and learns nothing more.
@@ -91,11 +219,15 @@
 
 > [!gamemaster]**The Curtain Falls**
 >
-> When the first act ends, Mirt sets down his glass and changes gears. Switch to the business voice: short declarative sentences and no swearing. A candidate who has noticed the change can read it as a sign that he is serious. A candidate who arrives at intermission is shown straight into the box and gets the same offer, because he judges them by their questions. Read the following aloud.
+> When the first act ends, Mirt changes gears in the middle of a story. Drop your voice and slow down. Use short declarative sentences, stop swearing and stop laughing, and leave a beat of silence before the first line. A candidate who has noticed the change can read it as a sign that he is serious. A candidate who arrives at intermission is shown straight into the box and gets the same offer, because he judges them by their questions. Read the following aloud.
 
 > [!readaloud]
 >
-> The curtain falls on the first act, and the noise of the house swells in the galleries below. Mirt puts down his glass, turns his chair to face you and stops smiling.
+> Mirt is halfway through a story about a goat and a magistrate when the curtain falls on the first act, and the noise of the house swells in the galleries below. He stops laughing in the middle of a word and sets down his glass. He turns his chair to face you, and his hands lie flat and still on the arms.
+>
+> > "That's the act. Sit properly now, and listen."
+>
+> He waits until the box is quiet.
 >
 > > "The Harpers. You've heard the stories, and half of them are wrong, because we aren't a guild or a government. We're people who decided to act instead of waiting for someone better qualified to show up."
 >
@@ -187,6 +319,14 @@ If a candidate declines, read or paraphrase the following:
 >
 > He steps out into the passage, and the lights go down for the second act.
 
+> [!gamemaster]**The Second Act**
+>
+> This is color for candidates and companions who stay. The second act carries no clue, and nothing in it bears on the meeting. Read the following aloud as the performance resumes.
+
+> [!readaloud]
+>
+> The second act opens on a rocky pit ringed with painted torches, and a round hole of orange cloth glows at the center of the stage. Five heroes in bright mail climb down the steps toward the dragon queen, with the Warden at their head. His baritone fills the house as he raises a sword that flashes under the lamps. The five heads bow one by one as a cymbal crashes, and Tiamat sinks below the stage on a creaking lift while the chorus sings the final verse and the audience rises to applaud.
+
 ### Concluding the Event
 
 > [!gamemaster]**Event Outcomes**
@@ -207,7 +347,7 @@ A paper bird invites specific characters to the Lightsinger Theater, where Mirt 
 
 ### After the Meeting
 
-A paper bird brought us tickets to *The Fall of Tiamat*, and we met Mirt in Private Box C at the Lightsinger Theater. He watched us through the first act and explained the Harpers plainly at intermission. Each of us gave our own answer, and he told us we would hear from the Harpers soon.
+A paper bird brought us tickets to *The Fall of Tiamat*, and a tailor on Delzorin Street dressed us for the evening. We met Mirt in Private Box C at the Lightsinger Theater. He watched us through the first act and explained the Harpers plainly at intermission. Each of us gave our own answer, and he told us we would hear from the Harpers soon.
 
 ### Without a Private Meeting
 

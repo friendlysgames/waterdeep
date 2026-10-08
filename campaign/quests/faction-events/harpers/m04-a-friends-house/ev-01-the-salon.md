@@ -22,7 +22,15 @@
 
 ### The Brief
 
-At noon each eligible member receives a paper bird. Mirt is at his corner table in the Yawning Portal at 17:00, and he does not swear. He refills each member's cup before he speaks.
+At noon each eligible member receives a paper bird. Read the following aloud.
+
+> [!readaloud]
+>
+> You are crossing a market square at noon when a dry rustle sounds above the stalls. A folded cream-colored bird glides over the crowd, ignores the shoulders of everyone else and lands on yours. It unfolds itself flat when you lift it, and a harp inside a crescent moon shows faintly against the daylight.
+>
+> > "Yawning Portal, 17:00, corner table. Bring a clean shirt. M."
+
+Mirt is at his corner table in the Yawning Portal at 17:00, and he does not swear. He refills each member's cup before he speaks.
 
 > [!readaloud]
 >

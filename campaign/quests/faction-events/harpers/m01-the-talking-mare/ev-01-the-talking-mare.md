@@ -24,7 +24,19 @@
 
 ### The Brief
 
-A paper bird reaches Trollskull Manor at breakfast. It carries a ticket for Private Box C and a note that says "13:00, bring an appetite." Mirt receives the Harper members there during the matinee and leaves at 13:30, before the second act. Companions can wait in the street outside. Mirt is in business gear throughout, so he is short, plain and does not swear.
+A paper bird reaches each Harper member at breakfast, with a ticket for Private Box C folded into the note. Read the following aloud.
+
+> [!readaloud]
+>
+> Breakfast is half eaten when something rustles in the rafters of the taproom, with a dry sound like a page turning. A bird about a hand long, folded from heavy cream paper with sharp creases, glides down past the other diners and settles in front of you and ignores the hands that reach for it. Held up to the window, the paper shows a faint harp inside a crescent moon. The moment you touch it, the bird unfolds itself flat, and a theater ticket lies in the middle of the sheet. The note is written in a heavy, even hand.
+>
+> > "13:00, bring an appetite. M."
+
+> [!gamemaster]**The Paper Bird**
+>
+> Mirt buys the birds by the dozen as a small Harper charm, and the members cannot learn it. The ink fades to nothing an hour after the bird unfolds. A member replies by folding a note along the old creases, and the bird flies back to Mirt. Later Harper events describe the bird in a sentence or two.
+
+Mirt receives the Harper members there during the matinee and leaves at 13:30, before the second act. Companions can wait in the street outside. Mirt is in business gear throughout, so he is short, plain and does not swear.
 
 > [!readaloud]
 >

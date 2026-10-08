@@ -28,7 +28,7 @@ At noon a paper bird finds each Harper member wherever they are lodging. Read th
 
 > [!readaloud]
 >
-> A paper bird flutters down onto your table and spreads its wings flat, and the note folded inside is written in Mirt's heavy, even hand.
+> A paper bird of heavy cream paper taps its beak against your window with a dry rustle, and it keeps tapping until you open the shutter. It hops onto your palm, and a harp inside a crescent moon shows faintly in the paper as it unfolds itself flat. The note is written in Mirt's heavy, even hand.
 >
 > > "Uza Solizeph keeps a bookshop on Sorn Street in the Trades Ward. We have used it as a drop for ten years, and she does not know. Something has got into the shop and her cat is still inside. She waits at Felzoun's Folly, on the corner of Sorn and Salabar. Take her keys and bring out the cat first. Tell her nothing. If you find a sheet of ours in the shop, send a bird. M."
 

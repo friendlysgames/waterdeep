@@ -26,7 +26,7 @@ Mirt comes in at 05:00 through the back door of the taproom and sits at a table 
 
 > [!readaloud]
 >
-> The taproom is dim and smells of last night's ale when you come downstairs. Mirt sits at the corner table in his plain brown coat with a key on the wood in front of him. He pours nothing, and he waits until the door to the private room is shut before he speaks.
+> A key scrapes in the lock of the back door while it is still dark, and you come downstairs to find the taproom dim and smelling of last night's ale. Mirt sits at the corner table in his plain brown coat, and the chair creaks under him. The copied key lies on the wood in front of him, and he pours nothing while he waits for the door to the private room to be shut.
 >
 > > "Sit down, all of you. Corene Wyldath has missed three check-ins, and I want to know what happened to her before I ask her for anything."
 

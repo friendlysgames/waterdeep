@@ -447,3 +447,20 @@ Each drafter reports back:
 - outcomes set and read;
 - invented names;
 - every outside-folder contradiction with file:line, for the Session 41 out-of-scope log.
+
+## Session 41 addendum: contact objects and the First Meeting
+
+The user asked for a description of whatever contacts the members in every mission, and for a detailed tailor scene and opera background in the First Meeting ("the missions overall could do with a description of the paper bird or whatever is being used to contact them. Also, the first meeting could do with a tailor scene, detailed, and some background descriptions of the play without it being integrated as relevant to the meeting").
+
+**The Harper paper bird (canonical; every event describes this same object):**
+- A bird about a hand long, folded from heavy cream letter paper with sharp creases. Held to the light, the paper shows a faint watermark of a harp inside a crescent moon.
+- It flies on its own, with a dry rustle like a page turning. It finds the addressee wherever they are lodging, and it lands only for them. If a window is shut, it taps the glass with its beak until the addressee opens it.
+- When the addressee touches it, it unfolds itself flat into a single sheet. The note is in Mirt's heavy, even hand and is signed "M." Anything enclosed (a ticket, a key) is folded into the body.
+- GM-only: the birds are a small Harper charm Mirt buys by the dozen, not a spell the members can learn. The ink fades to nothing an hour after the bird unfolds, so a dropped note gives little away. A member replies by folding a note along the old creases; the bird flies back to Mirt.
+- Vary the scene, not the object: where it finds the member (a table at breakfast, a windowsill at noon, a shoulder in the street), who else sees it, and how the note reads.
+
+**Other contacts:**
+- **Mirt in person:** his bulk, the creak of whatever he sits on, his first words in the voice the scene needs.
+- **Remallia's silver raven** (r25, r50): a silver raven no bigger than a hand, a figurine come to life, with a slip tied to one leg under a harp seal.
+- **s01's plain note:** deliberately not a bird. A street boy brings cheap paper with no watermark, and the change is itself the signal.
+- **Fixed names for the First Meeting tailor:** Seldo Wynd, Seldo's Fine Stitches, 8 Delzorin Street, North Ward (the same tailor as **A Friend's House**).
