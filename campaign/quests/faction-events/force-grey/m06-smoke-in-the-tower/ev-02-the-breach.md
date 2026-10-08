@@ -5,7 +5,7 @@
 > This Combat and Social Event follows **The Wrong Shelf**. It begins when Vira Solkan sends her signal, or when 22:00 on the second night passes with no signal at all, and it ends when Vajra Safahr reads the Open Lord's answer to the party. In this Event, the party can:
 >
 > - Use the fifteen minutes after the signal to choose where to hold the north service door and the stair foot.
-> - Fight or turn back a Splinter raid led by the Mage Corin Aldeth while Vajra holds the Tower's wards from her study.
+> - Fight or turn back a Splinter raid led by the Mage Tavor Aldeth while Vajra holds the Tower's wards from her study.
 > - Take a prisoner, and decide whether the statement is recorded in front of Vajra.
 > - Take Vira Solkan alive, or watch her reach the raiders and run.
 > - Hear a letter from the Open Lord, read aloud by Vajra.
@@ -14,10 +14,10 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Corin Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders. He acts on the second bell and does not move without Vira's message.
+> - Tavor Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders. He acts on the second bell and does not move without Vira's message.
 > - The raiders are survivors of the Splinter's Waterdeep cell after **Kolat Towers**. Their objective is Vajra, in her study on the top floor.
-> - **Kolat Towers** decides who sent them, and the branch below sets what Corin and Vira say.
->   - **Destroyed:** nobody sent Corin. The cell has collapsed, and Corin means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
+> - **Kolat Towers** decides who sent them, and the branch below sets what Tavor and Vira say.
+>   - **Destroyed:** nobody sent Tavor. The cell has collapsed, and Tavor means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
 >   - **Simulacrum Only:** the simulacrum sent him, on a standing order to kill the Blackstaff before the vault opens.
 >   - **Alive:** Manshoon ordered the raid himself from wherever he hides.
 > - Nobody says Manshoon's name, or calls Kolat Towers his home, unless **Manshoon Named** is marked for the member being addressed. Until then the raiders say "the Splinter" and "the other cell".
@@ -29,9 +29,9 @@ How this Event opens depends on what happened in **The Wrong Shelf**.
 
 > [!exploration]**What Happened to the Signal**
 >
-> - **The signal went out.** Corin's raiders reach the north service door fifteen minutes after Vira's message. The party uses the fifteen minutes to choose positions.
-> - **The stone was taken before she used it.** No signal goes out. At 22:00 Corin waits, and at 22:30 he sends nothing. At dawn he and his raiders leave the Castle Ward, and **Tower Attack Stopped** applies. Skip to **The Prisoner**, with Vira as the only prisoner.
-> - **The party baits the raid.** A captured Vira who tells the party the word she and Corin agreed (a member's **DC 15 Charisma (Persuasion)** check succeeds if the party promises her the clerks' hearing) lets a member send the signal. The party then chooses the hour, and Corin's first turn is spent in an ambush: he opens with Arcane Burst.
+> - **The signal went out.** Tavor's raiders reach the north service door fifteen minutes after Vira's message. The party uses the fifteen minutes to choose positions.
+> - **The stone was taken before she used it.** No signal goes out. At 22:00 Tavor waits, and at 22:30 he sends nothing. At dawn he and his raiders leave the Castle Ward, and **Tower Attack Stopped** applies. Skip to **The Prisoner**, with Vira as the only prisoner.
+> - **The party baits the raid.** A captured Vira who tells the party the word she and Tavor agreed (a member's **DC 15 Charisma (Persuasion)** check succeeds if the party promises her the clerks' hearing) lets a member send the signal. The party then chooses the hour, and Tavor's first turn is spent in an ambush: he opens with Arcane Burst.
 > - **The party found nothing.** At 22:00 Vira fires the disruptor and sends her signal. The raiders arrive at 22:15, and the disruptor rules below apply.
 
 If the signal went out, read or paraphrase the following to the members on the ground floor:
@@ -65,33 +65,33 @@ The party defends the ground floor: the door hall, the north service door and th
 >
 > Use the **Mage**, **Tough Boss**, **Spy** and **Tough** stat blocks from the 2024 *Monster Manual*, unchanged. The 2024 Mage casts no *Contingency*. Count every combatant on the party's side, companions included, and do not count Vajra or the Tower's staff. The **Force Grey Mechanics Reference** audits the rosters as Hard.
 >
-> - **Three combatants:** Corin Aldeth (Mage) and one Spy.
-> - **Four combatants:** Corin, one Tough Boss and one Spy.
-> - **Five or more combatants:** Corin, one Tough Boss, two Spies and one Tough.
+> - **Three combatants:** Tavor Aldeth (Mage) and one Spy.
+> - **Four combatants:** Tavor, one Tough Boss and one Spy.
+> - **Five or more combatants:** Tavor, one Tough Boss, two Spies and one Tough.
 >
-> If the party arrives hurt, drop one Spy or the Tough. If the disruptor fired, step down one row: three combatants face Corin alone, four face Corin and a Spy, and five face Corin, the Tough Boss and a Spy.
+> If the party arrives hurt, drop one Spy or the Tough. If the disruptor fired, step down one row: three combatants face Tavor alone, four face Tavor and a Spy, and five face Tavor, the Tough Boss and a Spy.
 >
 > **If Vira is free.** Vira joins the raiders at the north service door and replaces one Spy. She runs, as described under **Vira Runs**.
 >
-> #### Corin Aldeth's Tactics
-> Corin spends round 1 on the objective and starts his Arcane Bursts in round 2.
+> #### Tavor Aldeth's Tactics
+> Tavor spends round 1 on the objective and starts his Arcane Bursts in round 2.
 >
 > During combat, the raiders:
-> - Have Corin cast *Invisibility* on himself in round 1, then use *Fly* or *Misty Step* to reach the foot of the stair.
-> - Have Corin make his three Arcane Bursts at three different conscious characters each round, and cast *Fireball* only on three or more clustered characters.
+> - Have Tavor cast *Invisibility* on himself in round 1, then use *Fly* or *Misty Step* to reach the foot of the stair.
+> - Have Tavor make his three Arcane Bursts at three different conscious characters each round, and cast *Fireball* only on three or more clustered characters.
 > - Have the Spies slip past a held door and go for the stair, using Cunning Action to Hide and Disengage.
 > - Have the Tough Boss hold the north service door and push the nearest character 10 feet with his Warhammer. Toughs use Pack Tactics against anyone within 5 feet of a raider.
-> - Have Corin use Protective Magic for *Counterspell* on any spell that would block the stair, and for *Shield* otherwise.
+> - Have Tavor use Protective Magic for *Counterspell* on any spell that would block the stair, and for *Shield* otherwise.
 >
-> If the party ambushes him, holds the north service door from round 1 or the disruptor fired, Corin opens with Arcane Burst instead, and the encounter is Oppressive at three or four combatants and Brutal at five.
+> If the party ambushes him, holds the north service door from round 1 or the disruptor fired, Tavor opens with Arcane Burst instead, and the encounter is Oppressive at three or four combatants and Brutal at five.
 >
-> Corin retreats at 40 Hit Points, using *Misty Step* and *Fly*. He surrenders if cornered at 20 Hit Points or fewer, and he trades the cell's last cellar for his life. The Spies disengage when two raiders are down. The Toughs fight until Corin leaves, and then they surrender.
+> Tavor retreats at 40 Hit Points, using *Misty Step* and *Fly*. He surrenders if cornered at 20 Hit Points or fewer, and he trades the cell's last cellar for his life. The Spies disengage when two raiders are down. The Toughs fight until Tavor leaves, and then they surrender.
 >
-> **Non-combat route:** once the raid has stalled, a character who offers Corin safe passage out of the city and makes a successful **DC 16 Charisma (Persuasion or Intimidation)** check ends the raid. A character who first makes a successful **DC 15 Wisdom (Insight)** check sees that he does not want to die for this.
+> **Non-combat route:** once the raid has stalled, a character who offers Tavor safe passage out of the city and makes a successful **DC 16 Charisma (Persuasion or Intimidation)** check ends the raid. A character who first makes a successful **DC 15 Wisdom (Insight)** check sees that he does not want to die for this.
 
 > [!hazard]**Vira Runs**
 >
-> Vira uses the **Mage Apprentice** stat block and does not start a fight. If she is free, she runs from the Tower toward the Castle Ward and meets Corin at the door. She Disengages, uses *Misty Step* and flees at half her Hit Points. She surrenders if she is Grappled or cornered, and she can send her signal while Grappled if her stone is still unused.
+> Vira uses the **Mage Apprentice** stat block and does not start a fight. If she is free, she runs from the Tower toward the Castle Ward and meets Tavor at the door. She Disengages, uses *Misty Step* and flees at half her Hit Points. She surrenders if she is Grappled or cornered, and she can send her signal while Grappled if her stone is still unused.
 >
 > The signal clock is fifteen minutes. A character who takes her stone, or who Grapples her before she touches it, prevents the message. Taking the stone costs a Utilize action and wins a contested Strength (Athletics) check against hers.
 
@@ -109,29 +109,29 @@ If the raiders reached Vajra's study, read or paraphrase the following instead:
 
 ### The Prisoner
 
-The party can take Corin, a Spy, the Tough Boss, a Tough or Vira. The statement is recorded in the bare room at the top of the Tower, with the oak chair bolted to the floor, and Vajra listens at the door while Orla writes. A statement taken from a charmed prisoner cannot be recorded, because Vajra will not enter compelled testimony.
+The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement is recorded in the bare room at the top of the Tower, with the oak chair bolted to the floor, and Vajra listens at the door while Orla writes. A statement taken from a charmed prisoner cannot be recorded, because Vajra will not enter compelled testimony.
 
 > [!social]**The Prisoner in the Chair**
 >
-> Corin Aldeth (Neutral Evil, Human, he/him) :: a Splinter Mage who has run out of orders and is bargaining for a way out.
+> Tavor Aldeth (Neutral Evil, Human, he/him) :: a Splinter Mage who has run out of orders and is bargaining for a way out.
 >
-> Corin talks in complete, careful sentences and does not plead. He swears once and without heat, at nobody in particular. He trades what he knows for his life. A Spy or Tough in the chair says less and swears more. Vira says nothing without a promise of the clerks' hearing.
+> Tavor talks in complete, careful sentences and does not plead. He swears once and without heat, at nobody in particular. He trades what he knows for his life. A Spy or Tough in the chair says less and swears more. Vira says nothing without a promise of the clerks' hearing.
 >
-> Corin is willing to discuss the following topics:
+> Tavor is willing to discuss the following topics:
 >
 > - Who sent the raid.
 > - How the Splinter got Vira into the Tower.
 > - What the raid was meant to take.
 >
-> Corin will not say where the rest of the cell sleeps or how many remain.
+> Tavor will not say where the rest of the cell sleeps or how many remain.
 
 > [!qna]**Who sent you?**
 >
-> If the **Kolat Towers** result was Destroyed, Corin answers:
+> If the **Kolat Towers** result was Destroyed, Tavor answers:
 >
 > > "Nobody. The cell is a few people in cellars, and we paid for this plan before the tower fell. I decided to finish it."
 >
-> If the result was Simulacrum Only or Alive, Corin answers:
+> If the result was Simulacrum Only or Alive, Tavor answers:
 >
 > > "The one who pays. The orders came by a stone, in a voice I've never put a face to. I was to kill the Blackstaff and leave the Tower standing."
 
@@ -186,7 +186,7 @@ If the wards sealed the Tower, Vajra tells the party that the Tower is closed fo
 
 If Vira is held, Vajra keeps her in the Tower until the clerks' hearing, and she stays silent. If Vira ran, the Tower's door-wards will not admit her again, and Vajra circulates her description to the Watch. If staff were lost, Vajra attends each funeral and does not speak of it afterward.
 
-If Corin escaped, the cell's cellar goes with him. If he surrendered, he is held until the Lords hear the testimony.
+If Tavor escaped, the cell's cellar goes with him. If he surrendered, he is held until the Lords hear the testimony.
 
 ### Concluding the Event
 

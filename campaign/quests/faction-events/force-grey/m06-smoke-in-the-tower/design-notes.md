@@ -18,8 +18,8 @@ Vajra's two months of suspicion and Vira's six weeks no longer conflict. The fau
 
 ## Invented Names and Open Items
 
-- Invented: Orla Venn, Corin Aldeth, and the staff track of Dessa Quillon, Harl Merrow, Ilsabet Crane, Jory Pellin and Sabel Orrin. None has a page, and each is voiced from the event text.
-- The mechanics reference has the Mage send a stone message to his team in round 1. Vira's signal spends the pair until dawn, so Corin signals his raiders by hand and the stone message was cut.
+- Invented: Orla Venn, Tavor Aldeth, and the staff track of Dessa Quillon, Harl Merrow, Ilsabet Crane, Jory Pellin and Sabel Orrin. None has a page, and each is voiced from the event text.
+- The mechanics reference has the Mage send a stone message to his team in round 1. Vira's signal spends the pair until dawn, so Tavor signals his raiders by hand and the stone message was cut.
 - The bait route, the door-ward log, the coffer in Vajra's study and Ysmay's certificate are new. The oak-chair room is reused from **The Extraction**.
 - **Vira Caught** counts a dead Vira, because readers only care that she is out of play.
 - Outside this folder, `arc-j-vault-of-dragons.md` line 51 still reads "Mission 6 succeeded and named the party Force Grey Commanders", and the Notable Figures page for Vira still says Mage and quotes a Manshoon line for Vajra.

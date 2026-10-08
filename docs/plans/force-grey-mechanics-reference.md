@@ -255,7 +255,7 @@ Day Cost 6. A party that arrives hurt steps down one row (drop a Spy or a Tough)
 
 ### 6.2 The Mage first-turn rule
 
-- The Mage spends round 1 on the objective, not on bursts: *Invisibility* on himself, then *Fly* or *Misty Step* to the stair foot, and a stone message to his team ("Door clear. Stair is next."). Bursts start round 2. Rosters above assume this.
+- The Mage spends round 1 on the objective, not on bursts: *Invisibility* on himself, then *Fly* or *Misty Step* to the stair foot, and a hand signal to his team (the sending stones are spent once Vira signals, until the next dawn). Bursts start round 2. Rosters above assume this.
 - If the party ambushes him, holds the north service door from round 1, or the disruptor fired (section 6.5), he opens with Arcane Burst and the +4 column applies.
 - He retreats at 40 HP (half) using *Misty Step* and *Fly*. He surrenders if cornered at 20 HP or fewer, trading the cell's location. Spies disengage when two raiders are down. Toughs fight until the leader leaves, then surrender.
 - Non-combat route: DC 16 Charisma (Persuasion or Intimidation) offers the leader safe passage once the raid has stalled. DC 15 Wisdom (Insight) shows he does not want to die for this.

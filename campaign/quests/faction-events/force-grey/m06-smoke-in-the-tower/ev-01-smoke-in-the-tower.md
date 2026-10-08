@@ -16,11 +16,11 @@
 >
 > - Vira Solkan is a junior arcanist on the second floor. She has worked at the Tower for six weeks on forged Neverwinter Academy credentials. The Splinter placed her before the party reached **Kolat Towers**.
 > - Her disruptor is a hollowed research text on the east workroom shelf, with a tuned resonance crystal in the spine. It fires on her word from anywhere inside the Tower. If it fires, the Tower's upper wards drop for four hours.
-> - She carries one of a matched pair of sending stones in her left sleeve. A Splinter Mage named Corin Aldeth carries the other and waits in the Castle Ward with his raiders.
+> - She carries one of a matched pair of sending stones in her left sleeve. A Splinter Mage named Tavor Aldeth carries the other and waits in the Castle Ward with his raiders.
 > - Vira signals at 22:00 on the second night, the second bell, whatever the party has done. A raiding party reaches the north service door fifteen minutes after her message.
 > - Vajra has suspected a leak for two months. The resonance fault began six weeks ago, when Vira arrived. She has not connected the two, and she will not use a *Sending* while the fault lasts.
 > - Nobody in this Event says Manshoon's name, or calls Kolat Towers his home, unless **Manshoon Named** is marked for the member being addressed. Until then Vajra says "the Splinter" and "the other cell".
-> - **Kolat Towers** decides who stands behind Corin. **The Breach** reads that result, and nothing in this Event depends on it.
+> - **Kolat Towers** decides who stands behind Tavor. **The Breach** reads that result, and nothing in this Event depends on it.
 
 ### The Brief
 
@@ -243,13 +243,13 @@ Read the following when the party confronts her with two or more findings:
 
 > [!gamemaster]**What the Stone Says**
 >
-> Vira sends the first message below if the disruptor is on its shelf, and the second if it is gone. Corin Aldeth answers her at once with the third message. Only Vira hears the answer, and she repeats it if pressed.
+> Vira sends the first message below if the disruptor is on its shelf, and the second if it is gone. Tavor Aldeth answers her at once with the third message. Only Vira hears the answer, and she repeats it if pressed.
 >
 > - **Disruptor on the shelf (25 words):** "Disruptor is set. Wards drop at the second bell, and the Blackstaff sits alone upstairs. Come now, by the north service door, and bring everyone."
 > - **Disruptor gone (25 words):** "Disruptor is lost and the wards still hold. Come now by the north service door and bring everyone. The Blackstaff sits alone upstairs, I think."
-> - **Corin's answer (25 words):** "Understood. We move in fifteen minutes exactly. Leave the north service door unbarred, stay clear of the stair, and run if the Blackstaff comes down."
+> - **Tavor's answer (25 words):** "Understood. We move in fifteen minutes exactly. Leave the north service door unbarred, stay clear of the stair, and run if the Blackstaff comes down."
 >
-> After the message, neither stone works until the next dawn. If a member takes an unused stone and touches it, the member can send up to 25 words, and Corin answers: "Who is this? Vira does not answer this way. Say the word we agreed now, or put the stone down and leave this city tonight." (25 words.) The voice that answers is dry and level, and no member can place it. If the **Kolat Towers** result was Destroyed, it belongs to a Splinter officer nobody has met. If **Manshoon Named** is marked and the result was Alive or Simulacrum Only, Vajra says it sounds like "Manshoon, or something that talks for him", and she says it only then.
+> After the message, neither stone works until the next dawn. If a member takes an unused stone and touches it, the member can send up to 25 words, and Tavor answers: "Who is this? Vira does not answer this way. Say the word we agreed now, or put the stone down and leave this city tonight." (25 words.) The voice that answers is dry and level, and no member can place it. If the **Kolat Towers** result was Destroyed, it belongs to a Splinter officer nobody has met. If **Manshoon Named** is marked and the result was Alive or Simulacrum Only, Vajra says it sounds like "Manshoon, or something that talks for him", and she says it only then.
 
 > [!exploration]**Where the Stone Is**
 >
@@ -270,7 +270,7 @@ Read the following when the party confronts her with two or more findings:
 > - Uses Arcane Burst only on a character who blocks her way out.
 > - Does not use her stone to call help if it is already spent.
 >
-> She flees at half her Hit Points. She surrenders if she is Grappled with the stone taken, or if she is cornered with the disruptor in the coffer. If she gets through the window, she runs for the Castle Ward and joins Corin's raiders in **The Breach**.
+> She flees at half her Hit Points. She surrenders if she is Grappled with the stone taken, or if she is cornered with the disruptor in the coffer. If she gets through the window, she runs for the Castle Ward and joins Tavor's raiders in **The Breach**.
 >
 > **Non-combat route:** a character who offers Vira the clerks' hearing, not the Watch's, and makes a successful **DC 15 Charisma (Persuasion)** check persuades her to put her hands on the desk. If the check fails, she tries the window.
 

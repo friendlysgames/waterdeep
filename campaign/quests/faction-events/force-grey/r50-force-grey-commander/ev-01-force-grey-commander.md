@@ -1,166 +1,416 @@
 # Force Grey Commander
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social Event occurs when an individual Force Grey member first reaches Renown 50, which usually happens during **Dungeon of the Mad Mage**. Vajra Safahr names the rank at her standing desk in Blackstaff Tower, and the Open Lord arrives before the morning ends. In this Event, the member can:
 >
-> This Social Event fires at the first natural pause after one party member's Force Grey renown reaches 50. In this Event:
+> - Take command of a standing Tower team of four, led by Ysmay Halvane, for missions the member chooses.
+> - Choose one 4th- or 5th-level spell scroll from the Tower's scroll vault.
+> - Hold Vajra's final reserve, one casting of a wizard spell she will cast on the surface or at the Yawning Portal.
+> - Receive the Open Lord's recognition in a personal letter, and decide whether it is published or sealed.
 >
-> - Vajra sends a *Sending* to the promoted character — different from the others in tone
-> - They convene at Blackstaff Tower with the full party; Vajra has made arrangements they don't know about yet
-> - The Force Grey commission is formally issued: four **veterans** and one **mage** under the party's operational command
-> - The scroll vault opens: the promoted character selects one Rare Spell Scroll from the collection
-> - Vajra commits her final reserve — one spell of any level, once, on the party's behalf
-> - Laeral Silverhand arrives and extends the Open Lord's formal recognition
-> - The party chooses how that recognition is recorded: publicly or sealed
+> All of these benefits belong to the qualifying member. Companions gain no rank, no team, no scroll and no letter of their own.
+
+### The Sending Before Dawn
+
+Hold this Event until **Force Grey Rank Reached** is marked for the member. Vajra's *Sending* finds the member before dawn on the day after they reach Renown 50, wherever they are, and that includes Undermountain. Hold the Tower scenes until the member is on the surface. Vajra receives them on the first morning they are above ground in Waterdeep, and the meeting stays open until then. Every qualifying member hears the *Sending* on their own account, so members who cross 50 together attend together and are recorded one by one.
+
+Read the following aloud, changing the first sentence to match what the member is doing.
+
+> [!readaloud]
 >
-> > > [!design]**Expected in Dungeon of the Mad Mage**
-> > > Reaching Renown 50 with Force Grey requires extended operations well beyond Dragon Heist's timeframe. This event is designed to fire during **Dungeon of the Mad Mage**, not during Dragon Heist. Build it into Undermountain session planning rather than Dragon Heist.
-> > >
-> > > **If Vault of Dragons has already resolved when this event fires:** Laeral's briefing draws directly on that resolution — she names the vault, what the party did, and the political capital it generated. Use dialogue lines marked *[Post-Vault]* below. If Vault of Dragons has not yet resolved, use the unmarked lines. Either way, this event does not alter **Vault of Dragons** — it adds no Dragon Heist plot facts and does not merge with any mission or quest scene.
-
-**Background (DM only)**
-
-Force Grey Commander is not a rank Vajra creates often. The count of people who have held it in three years of her tenure is single digits. This is the point where she gives the party operational command of Force Grey assets — real command, not loan arrangements — and it requires a different kind of conversation than anything that preceded it.
-
-She contacted Laeral separately. That process was not comfortable. Laeral Silverhand is the Open Lord and Vajra's nominal superior, and Vajra has spent three years maintaining as much independence from that relationship as the institution allows. Calling Laeral in for this — for a recognition she could have handled herself — is an acknowledgment that the party has done something belonging to the Open Lord's authority to acknowledge, not just the Blackstaff's. Vajra has done this once before in her tenure. It went fine. She is aware that is not a guarantee.
-
-The choice about how the recognition is recorded is genuine. Public recognition means the city knows who they are and what they've done; enemies know too. Private recognition means the capability without the profile — the city's formal thanks exists in a sealed record, not in the broadsheets. Vajra has no preference. She says this plainly because it is true.
-
-### The Sending
-
-The *Sending* arrives early — before the city is fully awake, not at mid-morning like the others:
-
-> *"Force Grey Commander. Blackstaff Tower before noon. I have made arrangements. Bring your party."*
-
-### Blackstaff Tower
-
-The door opens. Vajra is not at the desk. She's at the narrow window at the back of the study, the one that faces Mount Waterdeep's slope. She doesn't turn immediately.
-
-When she does, she crosses to the desk. The Blackstaff is where it always is. She doesn't touch it.
-
-> > "Force Grey Commander. I've been Blackstaff for three years. This is the third time I've given this rank."
-
-She says it without pride and without apology. Then:
-
-> > "Sit. This one takes longer."
-
-### The Commission
-
-She opens the bottom drawer and produces a folded document — heavier stock than the usual Tower paper, sealed with wax and the Tower's mark. A formal commission, signed in her hand, assigning the party operational command of a Force Grey detachment: four **veterans** and one **mage**, constituted as a standing unit for any mission the party chooses.
-
-> > "They're not your soldiers. They're Tower staff on extended assignment. The distinction matters to the people on the team, and it should matter to you. They follow your operational lead. They debrief to me. This has not changed."
-
-Aldris Maeven — the mage who has worked with the party since Senior Griffon rank — leads the arcane element. The four veterans are named in the commission document. Vajra does not introduce them individually today; they'll be available to the party within a tenday.
-
-She sets the commission on the desk and crosses to a door at the back of the study. It has always been there. She has never opened it in their presence. A word and a gesture unlocks it.
-
-Inside: tall shelves, meticulous order, cedar cases each labeled in a precise hand. Decades of Blackstaff accumulation.
-
-> > "The scroll vault. One Rare Spell Scroll. Take what the work requires."
-
-She steps back into the study and waits. She does not look in while they choose.
-
-When the promoted character emerges with their selection:
-
-> > "The last thing I can give you: one spell of any level, when you need it. You'll know when that is. Don't spend it before you do."
-
-> [!item]**One Rare Spell Scroll**
-> The party may choose any one Rare Spell Scroll from the scroll vault collection. Work with the player to identify a spell suited to their current situation in Undermountain. The scroll vault holds the full range of Rare-rarity spells from the 2024 *Player's Handbook*. The selection is permanent — the chosen scroll leaves the vault.
-
-### An Audience with the Open Lord
-
-A knock at the Tower door. Unhurried. Vajra looks up.
-
-Laeral Silverhand enters without announcement. Silver-haired, dressed practically, no regalia. She has the particular quality of someone who has made very large decisions in very small rooms for a very long time — not theatrical, just present in a way that fills whatever space she occupies.
-
-She doesn't look at the Blackstaff when she enters. She never does.
-
-> > [*Standard:*] "Vajra tells me you've done something the city will take a long time to understand it owes you for. I'm here to acknowledge that before history can do it more slowly — and on the city's behalf, not just the Tower's."
-
-> > [*Post-Vault:*] "The Vault of Dragons resolution is in the treasury records. The funds arrived. I know what it cost and I know who carried the weight of it. I'm here because the record should name them."
-
-She is not warm in the way of performances. She is precise in the way of someone who has watched many good things go unremarked.
-
-> > "Force Grey Commander is Vajra's recognition. What I'm offering is the Open Lord's. They are not the same thing, and I don't want you to confuse them."
-
-She produces a letter — formal stock, sealed under the Open Lord's mark, bearing the names of every party member who has participated in Force Grey operations during the campaign. The letter is complete. It may be published or it may be sealed.
-
-> > "How you use this is your decision. I have preferences, but they're not instructions. Read it first."
-
-She gives the party a moment. Then:
-
-> > "You've earned the choice of how you carry this forward."
-
-> [!profile]**Profile: Laeral Silverhand**
+> You are lying on a bedroll in a cold passage of Undermountain, with the watch fire burned down to embers, when a dry, flat voice speaks inside your head. It is fast and clipped and has no greeting, and nobody else in the camp stirs.
 >
-> ***Resonance.*** Laeral should inspire awe with her centuries of power and history, sympathy with the burden of leadership she accepted reluctantly, and unease when the party glimpses how diminished she truly is.
+> > "Force Grey Commander. Climb to the surface when you can, then come to the Tower before noon. Bring your whole party. The arrangements are made."
 >
-> ***Persona.*** To the world, Laeral Silverhand is the Open Lord of Waterdeep, fifth of the Seven Sisters, a formidable archmage. To those she trusts, she's a woman who took the job because the Masked Lords asked and no one else could hold the city together. She avoids direct expenditures of power when possible — every use reveals how much she has lost since the Spellplague, and the extent of that decline is a state secret.
+> The voice stops as soon as it finishes, and you have room to answer in twenty-five words or fewer.
+
+The *Sending* is exactly 25 words and opens with the rank's name. It reaches a member below ground, because a *Sending* fails in Undermountain only when it is aimed at Halaster. Vajra files a bare acknowledgment without replying. A member who does not answer is still received at the Tower.
+
+> [!gamemaster]**What Is Actually True**
 >
-> ***Relationships.*** Laeral is the widow of Khelben Arunsun, the original Blackstaff. She is Vajra's nominal superior — and she views Vajra, privately, as an insecure young woman wielding her dead husband's staff. Neither of them comments on this in the other's presence.
+> - Vajra has given this rank twice before. She does not give it for a good record. She gives it when she wants the member to command Tower staff without asking her first.
+> - The team is Tower staff on loan. They report to Vajra after every mission and take the member's orders in the field, and Vajra answers to the Open Lord for them.
+> - The final reserve is real, and Vajra intends to cast it. She keeps the limits because a spell cast badly in the wrong place helps nobody.
+> - Vajra asked the Open Lord to attend. Recognition of this size is the Open Lord's to give, and Vajra dislikes asking and has done it anyway.
+> - **Tower Attack Stopped** and **Splinter Testimony Recorded** each add a line to the letter if they were marked for the member. **Vajra Briefed** decides what Laeral says about the vault.
+> - No speaker names Manshoon unless **Manshoon Named** is marked for the member. Vajra and Laeral otherwise say "the Splinter". Nobody names the Cassalanters or Bregan D'aerthe.
+> - Laeral asks the party for nothing tonight. Her private request about missing agents belongs to the Lords' Alliance rank **Lioncrown**, and a Commander who is also a Lioncrown hears it there.
 
-### The Choice
+### Naming the Rank
 
-Vajra explains the options. Laeral watches.
+The member climbs on their own. The door opens as they reach the steps, the same as it did for the first meeting, and it opens for every companion who climbs with them. The team waits on the stair, and Ysmay waits by the window.
 
-> > "Public recognition: your names and service record become city knowledge through official channels. The political currency is assumed rather than negotiated. Enemies who track Force Grey Commander activity will know who you are, if they don't already."
-
-> > "Private recognition: the letter goes into a sealed record with the Open Lord's office. It exists. It is official. It is not published. You keep the operational flexibility of anonymity."
-
-> > "I have no preference. I don't know what you'll face next. You do, better than I do."
-
-Laeral, if the party addresses her directly:
-
-> > "Both carry the city's gratitude. One carries its attention. Consider which serves the work still ahead of you."
-
-The party discusses. Vajra and Laeral wait without impatience.
-
-> [!warning]**Consequences of the Choice**
-> **Public (Recognition Public: True):** The party's names and Force Grey service record are published through official city channels. Advantage on Charisma checks with city officials and military officers is assumed rather than badge-dependent. Waterdeep's enemies who track Force Grey Commander activity — Manshoon's Zhentarim, Xanathar's Guild, and possibly Bregan D'aerthe — will know who they are, if they do not already. Undercover operations in Undermountain may be complicated.
+> [!readaloud]
 >
-> **Private (Recognition Public: False):** The letter is filed sealed with the Open Lord's office. The party's Commander status is known to Vajra, Laeral, and senior city officials who require the information. It is not published. They retain operational anonymity. The political capital exists but requires direct invocation rather than being assumed.
+> The door of Blackstaff Tower swings open before anyone knocks, and the stair beyond is cool and smells of old parchment. You climb past shelves and pinned maps to the study at the top. Vajra stands at her desk with a folder under one hand, and the Blackstaff leans against the wall at her elbow.
+>
+> Ysmay Halvane waits by the window in her grey academy coat, and three strangers stand along the wall behind her. There is still no chair in the room, and Vajra waits until the last of you has come through the door.
+>
+> > "Force Grey Commander. I have given this rank twice before, and I did not hand it out lightly either time. Four arrangements come with it, and I'll explain each one once."
+
+> [!social]**The Blackstaff at Her Desk**
+>
+> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who has arranged this morning down to the hour.
+>
+> Vajra is Friendly toward the member, in her way. She stands throughout and gives her conclusion first, with a sentence or two of reasons. In front of the party she swears rarely and mildly. She changes the subject when anyone remarks on her youth.
+>
+> Vajra is happy to discuss the following topics:
+>
+> - What each of the four arrangements gives the member, and what it costs.
+> - Who is on the team and how the member calls them.
+> - Which spells are in the vault and what the final reserve can and cannot do.
+>
+> She will not discuss the Stone of Golorr, what is in the Blackstaff, the master of the other Black Network cell, the Cassalanters or her youth. She turns each aside with "Irrelevant." or "Next."
+
+> [!qna]**What does Commander give me?**
+>
+> She counts on her fingers as she answers.
+>
+> > "You get a team of four, a scroll from the vault and one spell from me when you need it. The Open Lord will also give you a letter, and the letter is the city's, not mine."
+
+> [!qna]**Are the team mine?**
+>
+> > "They take your orders in the field and answer to me when they come back. If you order them against the Watch or a Lord, they'll refuse and I'll hear about it by evening."
+
+> [!qna]**Will you come below with us?**
+>
+> > "No. I don't go down. Send for me from anywhere, and come up to where I can cast. Halaster can't be reached by *Sending*, so don't waste the words."
+
+> [!qna]**What if my Renown falls?**
+>
+> > "The rank stays with you, and the arrangements wait until you've earned your way back to fifty. A scroll you've taken stays taken, and a spell I've cast stays cast."
+
+> [!qna]**Are you alright?**
+>
+> > "Irrelevant. Next."
+
+> [!exploration]**The Folder**
+>
+> Any character who watches Vajra while she talks and makes a successful DC 14 Wisdom (Insight) check sees that she glances at the stair twice and squares the folder on her desk before each arrangement. She is waiting for someone, and she cannot hurry that person. A character who fails sees a woman who has not slept. If anyone asks whether she is all right, she says "Irrelevant."
+
+### The Team
+
+Vajra turns her head toward the wall, and the three strangers step forward in the order she names them.
+
+> [!readaloud]
+>
+> A grey-haired dwarf in a battered breastplate stands at the wall with his hands behind him. A broad man in an old Watch cloak, with the badge cut from the chest, has taken the doorway without being asked. A lean half-elf woman with a short bow across her back stays near the stair and watches the street through the window.
+>
+> > "Rhendar Orsk, Garrick Stoll and Sera Vantry. You know Ysmay. Rhendar has eleven years with Force Grey, Garrick came to me from the Watch, and Sera knows the first level under the Portal better than I do."
+>
+> The dwarf nods once, and Ysmay steps forward from the window.
+>
+> > "Halvane. We're ready when you are."
+>
+> > "Orsk. Ready."
+
+> [!social]**The Man Who Holds Doors**
+>
+> Garrick Stoll (Lawful Neutral, Waterdhavian Human, he/him) :: a former Watch sergeant on the Tower's rolls, who counts exits before he counts anything else.
+>
+> Garrick is Friendly and slow to speak. He talks in the short, procedural sentences of a man who wrote reports for years, and he never raises his voice. He swears dryly and seldom. He will not raise a hand against the Watch, and he says so before anyone asks.
+>
+> Garrick is happy to discuss the following topics:
+>
+> - Doors, corridors and where a team should stand in them.
+> - What the Watch teaches its sergeants about holding a line.
+> - What Sera has found on the first level, if the member asks her.
+>
+> He will not discuss why he left the Watch or what the rest of the Tower's staff are doing.
+
+> [!qna]**How do you want to work?**
+>
+> > "Give me the doors and who's behind them. I'll tell you where I stand, and I'll tell you where I won't."
+
+> [!qna]**Who leads the team?**
+>
+> > "You do. Ysmay handles the arcane side, Rhendar holds the line with me, and Sera finds the way. If you give an order that gets us killed for nothing, we'll say so first."
+
+> [!exploration]**Calling the Team**
+>
+> Each Force Grey Commander can send for the team and lead it on missions of their choice.
+>
+> - **Contact:** Vajra at the standing desk, or a *Sending* to her from anywhere. She answers within a day.
+> - **The request:** the member names the mission, the meeting place and the hour. A request with no named mission is refused, and nothing is spent.
+> - **Notice:** three days. A request with less notice is refused, and nothing is spent.
+> - **The place:** a surface point in Waterdeep, or the Yawning Portal if the mission begins by going below. The whole team arrives together.
+> - **Fighting allies:** the team fights as one fewer than the member's party, so three PCs get Ysmay and Rhendar, four get Ysmay, Rhendar and Garrick, and five get all four. The rest hold the Portal camp or the rear guard and do not fight.
+> - **Duration:** the team goes as far down as the member takes it, and a mission runs up to a tenday below ground. After that it returns to the surface by the stairs and rests two days before it can be called again.
+> - **One at a time:** the team serves one mission at a time. If two Commanders ask for overlapping dates, it serves them in the order they asked.
+> - **Orders:** the team takes orders from the member who called it and from nobody else. A companion who is not a Force Grey member cannot call it.
+> - **Casualties:** Vajra replaces a fallen team member once, a tenday later, with a Tower mage or a Warrior Veteran of the same block. If Ysmay has already been replaced by Dovrin Tesk, he leads.
+> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the team is withdrawn until the Renown is restored.
+
+> [!gamemaster]**The Team as Allies**
+>
+> Ysmay Halvane uses the 2024 **Mage** stat block (CR 6) as printed in **Senior Griffon**. Rhendar Orsk and Garrick Stoll use the **Warrior Veteran** block (CR 3, AC 17, 65 Hit Points), and Sera Vantry uses the **Scout** block (CR 1/2).
+>
+> Ally Power counts in full for the allies who fight, and the first-turn knockout bonus does not apply to them. For a party at 8th level, add the totals below to Party Power before recalculating the difficulty and the day cost:
+>
+> - Three PCs: Ysmay and Rhendar add 95, for a Party Power of 227. The Bruising budget is 136.2 and the Bloody budget is 170.25.
+> - Four PCs: Ysmay, Rhendar and Garrick add 125, for a Party Power of 301. The Bruising budget is 180.6 and the Bloody budget is 225.75.
+> - Five PCs: all four add 137, for a Party Power of 357. The Bruising budget is 214.2 and the Bloody budget is 267.75.
+> - From level 11, Ysmay is worth 50, each Warrior Veteran 25 and Sera 7, so the three rows add 75, 100 and 107.
+>
+> The team more than doubles a party of three. Either rebuild the fight around the larger total, or keep the base budget and treat the team as a safety net.
+>
+> #### The Team's Tactics
+>
+> The team stays close to the member and works to the member's plan. During combat, the team:
+>
+> - Has Ysmay cast *Shield* or *Counterspell* before she attacks, never cast *Fireball* near the party or in a closed room, and withdraw at 40 Hit Points.
+> - Has Rhendar and Garrick hold the line and the nearest doorway, never leave a downed PC, and withdraw at 32 Hit Points.
+> - Has Sera scout ahead, shoot from cover, and lead the team out by the shortest safe route. She withdraws at 8 Hit Points.
+> - Has Ysmay avoid *Misty Step* below ground, because transport magic fails in Undermountain and the adventure does not say whether it works within one level.
+>
+> The team withdraws to the nearest safe exit if two of its members are down, and it does not leave the member behind. Rhendar will not kill a captive, and Garrick will not strike the Watch or anyone who has dropped a weapon.
+
+### The Scroll Vault
+
+> [!readaloud]
+>
+> Vajra says a single word and moves two fingers, and a door in the back wall of the study swings open. You have passed it on every visit, and it has never opened before. Cedar cases stand on tall shelves behind it, each labelled in a small precise hand.
+>
+> > "One scroll of the fourth or fifth level. Read the labels, choose, and bring it out. I won't watch you do it."
+
+Vajra returns to her desk and does not look into the vault while the member chooses. The member takes one scroll, and the scroll leaves the vault with them.
+
+> [!exploration]**The Scroll Vault**
+>
+> Each Force Grey Commander can choose one *spell scroll* of the 4th or 5th level (Rare) from the vault. The cases hold these twelve spells and no others:
+>
+> - **4th level:** *Arcane Eye*, *Greater Invisibility*, *Stoneskin*, *Locate Creature*, *Wall of Fire*.
+> - **5th level:** *Wall of Force*, *Telekinesis*, *Scrying*, *Legend Lore*, *Cone of Cold*, *Hold Monster*, *Passwall*.
+>
+> - **Who can use it:** a scroll can be read only by a character whose class has the spell on its spell list. Vajra says so before the member chooses. Use the *spell scroll* entry in the 2024 *Dungeon Master's Guide* for the save DC and the attack bonus.
+> - **Limit:** one scroll per Commander, taken once. The member keeps it, and a companion may carry it but cannot choose one of their own.
+> - **No transport spells:** the vault holds no scroll of *Dimension Door*, *Teleportation Circle*, *Banishment*, *Contact Other Plane* or *Plane Shift*. Vajra gives the reason if asked.
+> - **Renown loss:** a member whose Renown falls below 50 keeps a scroll already taken.
+
+> [!qna]**Why is there no Dimension Door?**
+>
+> > "Magic that carries you between levels fails below, and so does anything that banishes you. I won't hand you a scroll that does nothing when you need it."
+
+> [!qna]**Can I take a scroll for the party?**
+>
+> > "You can take one for yourself, and the party can use it if someone in it can read the spell. Choose the one that is useful to your class."
+
+### The Final Reserve
+
+> [!readaloud]
+>
+> Vajra picks up her pen, puts it down again and looks at the member rather than the group. She speaks a little more slowly than before.
+>
+> > "The last arrangement is mine. Once, I will cast one wizard spell for you, and I'll pay for the components. Decide what it is before you ask, because I won't cast a second one. I cast on the surface or at the Yawning Portal, and nowhere else."
+
+> [!exploration]**Vajra's Final Reserve**
+>
+> Each Force Grey Commander holds one casting by Vajra of any spell on the wizard list, once.
+>
+> - **Contact:** a *Sending* to Vajra from anywhere, including Undermountain. The member names the spell and the target in 25 words or fewer. Vajra answers by *Sending* within an hour.
+> - **The place:** the surface of Waterdeep or the Yawning Portal. Vajra does not go below. The target, whether a creature or an object, must be brought to the place, so a party underground calls by *Sending* and returns by the stairs.
+> - **Arrival:** Vajra reaches the place by dusk on the day she is called. If the *Sending* reaches her after noon, she arrives by dusk on the next day.
+> - **The spell:** any wizard spell of any level except *wish*. She also refuses every transport spell, which fails below ground and is not worth casting above it: *teleport*, *teleportation circle*, *plane shift*, *gate*, *astral projection* and *etherealness*. She supplies every component, including costly ones.
+> - **Concentration:** if the spell needs it, Vajra holds it at that place for up to an hour and then leaves.
+> - **No raising the dead:** the wizard list holds nothing that does it, so Vajra offers no such casting. A body can be brought up to the Tower, and she will tell the member what the Tower can do.
+> - **Limit:** one casting per Commander. The use is spent when she casts. A request withdrawn before she casts is not spent.
+> - **Companions:** anyone within the spell's range at the place is affected normally. Only the Commander can call it.
+> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the reserve is suspended until the Renown is restored. A spell already cast stays cast.
+
+> [!qna]**Can I save it?**
+>
+> > "You can keep it as long as you like. I'd keep it for something the scroll and the team can't handle. Don't spend it on convenience."
+
+> [!qna]**What if I'm too deep to come up?**
+>
+> > "Then the spell can't reach you, and I'm sorry for it. Send for me when you're on the stairs, and I'll be waiting at the Portal."
+
+> [!gamemaster]**Below the Surface**
+>
+> Teleportation, *plane shift*, *astral projection* and *word of recall* fail in Undermountain, and so do effects that banish a creature. *Etherealness* is the exception in the adventure, but the reserve still refuses it. *Sending* works anywhere below, except to Halaster. Vajra casts the reserve above ground because she will not go below, and no Force Grey rank changes that.
+
+### The Open Lord
+
+Laeral Silverhand arrives while the member is still holding the scroll. Vajra asked her to come, and the Open Lord's visit counts as the fourth arrangement. If **Tower Attack Stopped** is marked for the member, Vajra adds one line before Laeral enters.
+
+> [!readaloud]
+>
+> Vajra squares the folder once more and looks at the stair. The Tower door opens below you without a knock, and a tall woman in a plain grey travelling cloak climbs the stair at an even pace. She has silver hair pinned at the back of her neck and wears no regalia of any kind.
+>
+> She does not look at the Blackstaff on her way to the desk. The team straightens along the wall, and Ysmay steps back from the window to give her room.
+
+If **Tower Attack Stopped** is marked for the member, Vajra says the following as Laeral reaches the desk:
+
+> [!readaloud]
+>
+> > "The Tower is standing because this one held the north door, and I put that in the letter."
+
+> [!social]**The Open Lord at the Tower**
+>
+> Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, who has made time for this and intends to keep it brief.
+>
+> Laeral is Friendly and precise. She speaks in measured, complete sentences and lets a silence run until someone fills it. She does not swear in office. She calls Vajra "Vajra" in front of the party, deliberately, and she will not discuss Khelben, her own magic or the Masked Lords.
+>
+> Laeral is happy to discuss the following topics:
+>
+> - What the member did for the city, in the terms of the letter.
+> - What Public and Sealed recognition mean, and which she would choose in the member's place.
+> - How the city's gratitude is kept, if the member asks.
+>
+> She will not discuss the Stone of Golorr, what is in the Blackstaff, her own power or any other Masked Lord.
+
+Read the branch that matches the state of **Vault of Dragons** (unconverted).
+
+If **Vault of Dragons** has resolved, which is usual at this rank, read the line that matches the party's gold. If the party returned the hoard to Laeral for her finder's fee, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral stops beside the desk and looks at each of you in turn before she speaks.
+>
+> > "You brought the hoard back to the city and took the finder's fee, and nothing more. I know what that cost you. I'm here so that the record names you."
+
+If the party kept the gold, including through the Cassalanters' carts, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral stops beside the desk and looks at each of you in turn before she speaks.
+>
+> > "You kept the hoard, and I asked you once to return it. I haven't forgotten that. I'm here anyway, because the rest of what you did deserves a record."
+
+If the party left the gold in place, or traded only the knowledge of where it lay, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral stops beside the desk and looks at each of you in turn before she speaks.
+>
+> > "The gold lies where you found it, and you've told no one. I've noted both facts. I'm here because what you did deserves a name on a page."
+
+If **Vault of Dragons** has not resolved and **Vajra Briefed** is marked for the member, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral stops beside the desk and looks at each of you in turn before she speaks.
+>
+> > "Vajra has told me what the Stone opens and where the gold lies. I've kept my hand still since, as she asked. When the vault is opened, I won't be late."
+
+If **Vault of Dragons** has not resolved and **Vajra Briefed** is not marked, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral stops beside the desk and looks at each of you in turn before she speaks.
+>
+> > "Vajra tells me you've done work the city will take years to understand it owes you for. I'd like to say so before the city gets round to it."
+
+She puts a letter on the desk. In a party with several qualifying members, she lays one in front of each and names the member it belongs to.
+
+> [!readaloud]
+>
+> The letter is on heavy cream stock, sealed in dark wax with the Open Lord's mark, and your name is written across the front in a clerk's hand. Laeral rests two fingers on the seal and slides it toward you.
+>
+> > "This is a record of what you did, and every operation you carried out with Force Grey is named in it. Read it before you answer."
+
+> [!gamemaster]**The Letter**
+>
+> The letter names the member and the operations they carried out with Force Grey, and no companion is named. Each of these lines is added only if the outcome was marked for the member:
+>
+> - **Tower Attack Stopped:** the letter names the member as one of those who held the north service door of Blackstaff Tower.
+> - **Splinter Testimony Recorded:** the letter notes that the Open Lord's office holds testimony taken from the Splinter, and that the member took it. If **Manshoon Named** is marked, the letter says "Manshoon's cell" in place of "the Splinter".
+> - **Vajra Briefed:** the letter notes that the member brought the full picture of the Grand Game to the Blackstaff.
+>
+> A member can ask Vajra to add up to four companions as witnesses. They are named as present and not as recipients, and they gain nothing.
+
+> [!qna]**Which would you choose?**
+>
+> > "I'd choose Sealed, because you're the one going back down and a name nobody knows is harder to hunt. But the choice is yours, and I'll accept either answer."
+
+> [!qna]**Does the city owe me anything?**
+>
+> > "The city owes you its thanks. A letter on a shelf is not a debt, and I don't pretend it is. Use it if you need it."
+
+### Public or Sealed
+
+Vajra explains the consequences once, in order, while Laeral listens.
+
+> [!readaloud]
+>
+> Vajra lays the letter flat on the desk and taps it with the end of her pen. Laeral stands with her hands folded, and the team waits along the wall.
+>
+> > "Public means your name goes to the Lords' clerks and onto the notice board at the Palace. Sealed means the Open Lord's office keeps the letter and nobody reads it. Decide now, or take a tenday."
+
+> [!exploration]**Public or Sealed**
+>
+> Each Force Grey Commander decides for themselves, and the choice is recorded by name. The member can answer at the table or ask Vajra for a tenday. A member who says nothing is treated as choosing Sealed on the tenth day.
+>
+> - **Public:** the member's name and service record are posted through the Palace and the Lords' clerks. City officials and military officers treat the member as known, so the member has Advantage on Charisma checks with them and needs no badge. This does not stack with the Underclock badge. Anyone who follows Waterdeep's news also knows the member's name, which gives the member Disadvantage on Charisma (Deception) checks to pass under another identity. In Undermountain the Xanathar Guild in Skullport and the Zhentarim learn the name within a tenday.
+> - **Sealed:** the letter is filed with the Open Lord's office and nothing is posted. No Advantage applies, and no one outside the Tower and the Palace learns the rank. Once, the member can ask Vajra to carry the letter to one named officer, such as a Watch captain, a magistrate or a ward clerk. The officer reads it in private and is Friendly toward the member for that one meeting. The seal breaks when it is read, so the member's recognition becomes public from that day, and **Recognition Public** replaces **Recognition Sealed**.
+> - **Companions:** recognition belongs to the member. A companion who stands beside a Public member is not named and is treated as a stranger.
+> - **Renown loss:** a member whose Renown falls below 50 keeps the recognition, and the Advantage is suspended until the Renown is restored.
+
+If the member chooses Public, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral nods once and signs the foot of the letter in front of you. A clerk's seal is pressed beside it, and the wax is still warm when she hands it to Vajra.
+>
+> > "Then the city will read your name by tomorrow. I'd keep your friends close."
+
+If the member chooses Sealed, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Laeral takes the letter back, sets it in a plain leather case and fastens the strap. She hands the case to Vajra, who sets it on the shelf behind her desk.
+>
+> > "It will be kept, and I'll know where it is. If you need it opened, ask Vajra."
+
+Laeral leaves as she came, with no ceremony. Ysmay walks her to the door, and the team begins to move toward the stair. Vajra takes the pen up again and speaks without looking at anyone.
+
+> [!readaloud]
+>
+> > "Go and eat something. The team will be at the Portal on the day you name, and I'll answer a *Sending* at any hour. Next."
+
+### Mad Mage Seeds
+
+> [!gamemaster]**Seeds for Dungeon of the Mad Mage**
+>
+> These are one-line facts. *Dungeon of the Mad Mage* has no Force Grey content, so use these and no others.
+>
+> - Laeral's magic has begun to wane, and only her closest confidants know it. No line in this Event says so.
+> - Jalester Silvermane hires adventurers of 12th level or higher for a fragment of the Runestone, which lies on level 20 of Undermountain.
+> - A *Sending* aimed at Halaster is redirected to his nothic secretary on level 9 (area 31), who answers in Undercommon expletives.
+> - Teleportation, *plane shift*, *astral projection* and *word of recall* fail below ground, so the team walks and Vajra casts the reserve above it.
+> - The Lords' Alliance rank **Lioncrown** carries a private request from Laeral about missing agents in Undermountain. Force Grey carries no such request.
+
+### Renown Opportunities
+
+The rank event awards no Renown, gold or Milestone Points. The Commander has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Force Grey page of the Factions Guide.
+
+### Aftermath
+
+The member can tell companions what they were given. The team, the scroll, the reserve and the recognition stay with the member, and Vajra and Ysmay turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the benefits are suspended until the Renown returns.
+
+Record separately for each member the date the team was last called, the scroll taken, whether the reserve is spent and when, and whether recognition is Public or Sealed.
 
 ### Concluding the Event
 
-#### Force Grey Commander Reached: True / False
+The Event concludes when the member has met the team, taken a scroll, heard how the reserve works and answered the Open Lord's letter or asked for the tenday.
 
-Set True when the promoted character receives Force Grey Commander rank, including the signed commission, the scroll vault selection, and Vajra's final commitment. Read in Dungeon of the Mad Mage content that checks for Force Grey Commander status when determining available Force Grey resources.
+> [!gamemaster]**Event Outcomes**
+>
+> - **Force Grey Commander Reached** — mark with the recipient's name when Vajra names the rank at the desk; read by **Vault of Dragons** (unconverted) and by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Force Grey standing.
+> - **Recognition Public** — mark with the member's name when they choose Public, or when a Sealed member has the letter read to an officer; read by **Dungeon of the Mad Mage** (unconverted) scenes where the member's public profile affects how NPCs and factions treat them.
+> - **Recognition Sealed** — mark with the member's name when they choose Sealed, or when a tenday passes with no answer; read by **Dungeon of the Mad Mage** (unconverted) scenes that check for anonymity.
+>
+> This Event also reads **Force Grey Rank Reached** (the hold), **Vajra Briefed** (what Laeral says before the vault opens), **Tower Attack Stopped** and **Splinter Testimony Recorded** (one line each in the letter) and **Manshoon Named** (the speaker's wording).
 
-#### Recognition Public: True / False
-
-Set True if the party chooses public recognition — Laeral's letter is published through official city channels and the party's names and service record become city knowledge. Set False if the party chooses private recognition — the letter is filed sealed and the party retains operational anonymity. Read in Dungeon of the Mad Mage scenes where the party's public profile affects NPC reactions and faction behavior.
-
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> #### Next Steps
->
-> The party has Force Grey Commander status. The full team — four **veterans** and one **mage** (Aldris Maeven) — is available within a tenday. The Rare Spell Scroll is in party possession. Vajra's final commitment — one spell of any level, once — is banked until needed.
->
-> Laeral's recognition is either published (**Recognition Public** True) or filed sealed (False). In either case, the party's relationship with the Open Lord's office is now direct rather than mediated through Force Grey.
->
-> If **Vault of Dragons** has not yet resolved: the commission and recognition do not alter its events. The party proceeds normally. Vajra and Laeral are already aware of the vault situation through their existing relationship with the party.
->
-> If **Vault of Dragons** has already resolved: the Force Grey team's deployment extends into Undermountain. The commission specifies "any mission they choose," which Vajra interprets as broadly as written.
+> The team, the scroll and the reserve are active for this member from the next morning. This is the final Force Grey rank, and its benefits stay available for later quests. This Event does not change **Vault of Dragons** and awards no Milestone Points.
 
 ## Overview
 
-Vajra Safahr convened the party at Blackstaff Tower and formally issued a Force Grey Commander commission — operational command of a team of four veterans and one mage for any mission the party chooses. She opened the Tower's scroll vault for the first time in their presence, allowing one party member to select any one Rare Spell Scroll, and committed her final reserve: one spell of any level, once. Then Laeral Silverhand arrived — the Open Lord of Waterdeep — and extended formal recognition of the party's service on the city's behalf. The party chose how that recognition would be recorded.
-
-## Read Aloud
-
-> Blackstaff Tower opens before you knock, as it always has. Vajra is at the window when you enter — the narrow one that faces the mountain — and she doesn't turn right away. When she does:
->
-> > "Force Grey Commander. I've been Blackstaff for three years. This is the third time I've given this rank."
->
-> The commission is on heavy parchment, sealed in Tower wax. The scroll vault is behind a door you've walked past a dozen times and never seen open. She waits in the study while you choose.
->
-> The knock at the Tower door, when it comes, is unhurried. Laeral Silverhand doesn't announce herself. She doesn't need to. Silver-haired, dressed practically, carrying the weight of centuries without letting it show — except in the way the room shifts when she enters.
->
-> > "Force Grey Commander is Vajra's recognition. What I'm offering is the Open Lord's. They are not the same thing."
->
-> She sets a letter on the desk. It has your names on it.
+Vajra Safahr names a Force Grey member a Commander and gives them a standing Tower team, a spell scroll and her last-resort spell, while the Open Lord offers a letter of recognition that the member can publish or seal.
 
 ## Summary
 
-Vajra called us to the Tower before noon — third time she's given Force Grey Commander in three years. She issued the commission: four veterans, one mage, Aldris Maeven leading the arcane element. She opened the scroll vault. She banked one spell of any level, to be used when we know it's time. Then Laeral Silverhand arrived — no announcement, no ceremony — and extended the Open Lord's formal recognition on the city's behalf. She put a letter on the desk with our names on it and asked us how we wanted it recorded. She said she had preferences but they weren't instructions. We decided.
+We were named Force Grey Commanders at Vajra's standing desk after a *Sending* found us underground. She gave us a team of four led by Ysmay, a scroll from the Tower's vault and one spell she will cast above ground when we call. Laeral Silverhand came to the Tower with a letter naming each of us, and each of us chose whether it would be published or kept sealed.

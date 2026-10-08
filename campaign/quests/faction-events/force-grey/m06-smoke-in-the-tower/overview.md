@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> The raid is a Hard fight against the Mage Corin Aldeth with a Spy, a Tough Boss and Toughs by party size. Vira Solkan uses the **Mage Apprentice** block and runs. The **Force Grey Mechanics Reference** (section 6) audits the rosters for three, four and five combatants, the ward rules and the disruptor.
+> The raid is a Hard fight against the Mage Tavor Aldeth with a Spy, a Tough Boss and Toughs by party size. Vira Solkan uses the **Mage Apprentice** block and runs. The **Force Grey Mechanics Reference** (section 6) audits the rosters for three, four and five combatants, the ward rules and the disruptor.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points. Renown goes to the individual Force Grey members who complete the assignment.
@@ -18,7 +18,7 @@ At 07:30 a Tower attendant named Orla Venn reaches Trollskull Manor on foot with
 
 ## Background
 
-Six weeks ago the Splinter placed Vira Solkan in Blackstaff Tower as a junior arcanist, on forged Neverwinter Academy credentials. She hid a resonance disruptor in a hollowed book on the east workroom shelf. It will drop the Tower's upper wards for four hours when she speaks its word. She carries one of a pair of sending stones, and a Splinter Mage named Corin Aldeth carries the other.
+Six weeks ago the Splinter placed Vira Solkan in Blackstaff Tower as a junior arcanist, on forged Neverwinter Academy credentials. She hid a resonance disruptor in a hollowed book on the east workroom shelf. It will drop the Tower's upper wards for four hours when she speaks its word. She carries one of a pair of sending stones, and a Splinter Mage named Tavor Aldeth carries the other.
 
 After **Kolat Towers**, the Splinter's survivors decide to finish what Vira began. Who sent them depends on the **Manshoon operational?** result: nobody (Destroyed), a standing order from the simulacrum (Simulacrum Only) or Manshoon himself (Alive). Nobody in the mission says Manshoon's name unless **Manshoon Named** is marked for the member.
 
@@ -58,7 +58,7 @@ The raiders arrive at the north service door fifteen minutes after the signal. V
 
 ## The Prisoner
 
-The party can take Corin, a raider or Vira. A statement recorded without compulsion in front of Vajra counts as testimony.
+The party can take Tavor, a raider or Vira. A statement recorded without compulsion in front of Vajra counts as testimony.
 
 ## Vajra and the Open Lord
 
@@ -79,12 +79,12 @@ The outcomes feed **Vault of Dragons** (unconverted) and **Force Grey Commander*
 - **Ysmay Halvane** (Force Grey): a Tower mage who keeps the library and compares certificate seals.
 - **Merris** (Force Grey): the quartermaster, who keeps the door-ward log.
 - **Vira Solkan** (the Splinter): the junior arcanist who placed the disruptor.
-- **Corin Aldeth** (the Splinter): the Mage who leads the raid.
+- **Tavor Aldeth** (the Splinter): the Mage who leads the raid.
 - **Laeral Silverhand** (City of Waterdeep): the Open Lord, who answers by letter and never appears.
 
 ## Dangers & Enemies
 
-Corin Aldeth uses the **Mage** block, with a **Spy**, a **Tough Boss** and **Toughs** by party size. Vira uses the **Mage Apprentice** block. The wards hold the second floor for ten rounds, and the disruptor, if it fires, removes them for four hours.
+Tavor Aldeth uses the **Mage** block, with a **Spy**, a **Tough Boss** and **Toughs** by party size. Vira uses the **Mage Apprentice** block. The wards hold the second floor for ten rounds, and the disruptor, if it fires, removes them for four hours.
 
 ## Overview
 
