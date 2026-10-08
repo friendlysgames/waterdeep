@@ -65,7 +65,7 @@ The *Scarlet Marpenoth* ends the night saved, crippled or lost. **Vault of Drago
 - **Orlo Stannick** (Xanathar's Guild): the Guild's dive leader.
 - **Hesk Rooke** (Xanathar's Guild): his deputy, present when the party has four or more combatants.
 - **Nell Corvane** (Xanathar's Guild): the surface lookout.
-- **Soluun Xibrindas** (independent, formerly Bregan D'aerthe): in the Guild's launch if **Soluun Expelled** is marked. He doesn't fight.
+- **Soluun Xibrindas** (independent, formerly Bregan D'aerthe): in the Guild's launch as a seized prisoner if **Soluun Expelled** is marked, unless Force Grey freed him. He doesn't fight.
 
 ## Dangers & Enemies
 

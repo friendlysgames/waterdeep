@@ -24,7 +24,7 @@
 >
 > The Guild learned the berth in one of three ways. The GM text of **Before Dawn** and the debrief follows whichever applies:
 >
-> - If **Soluun Expelled** is marked, Soluun sold it. He slept aboard for a year and knew where she goes when she is off the keel. Before the Faire sailed he sold the Guild the berth and the hours the hatch stands open, and he rides in the Guild's launch tonight as a guide. If **Soluun Killed** is marked instead, he is dead and takes no part.
+> - If **Soluun Expelled** is marked, Soluun sold it. He slept aboard for a year and knew where she goes when she is off the keel. Before the Faire sailed he sold the Guild the berth and the hours the hatch stands open, and the Guild seized him once the deal was done. He rides in the Guild's launch tonight as a prisoner made to guide it. If Force Grey's **Destroy the Intellect Factory** marked **Captive Freed** with Soluun as the captive, he is free and stays out of it, and the Guild works from what he sold them. If **Soluun Killed** is marked instead, he is dead and takes no part.
 > - Otherwise, if **Nar'l Active** or **Nar'l Cleared** is marked and **Soluun Killed** is marked, Nar'l Xibrindas leaked it. He has not forgiven the captain for being slow to avenge his brother, and he left the berth on Ahmaergo's desk when the grell was out of the room. If **Nar'l Active** is marked, he also hoped it would buy him the case closed.
 > - Otherwise the Guild found her by its own harbor search. Two of Ahmaergo's clerks and a paid ferryman logged the gnome engineers' ballast runs along the pier for three nights.
 >

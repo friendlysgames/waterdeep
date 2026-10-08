@@ -28,7 +28,7 @@ The Splinter's infiltration of the Waterdeep cell creates complications organica
 | **Fireball!** | Mirt quietly tells a Harper character that he suspects Cassalanter money stood behind the Howling Hatred cult three years ago, and that he wants proof. Their sudden interest in the Grand Game worries him. |
 | **Gralhund Villa** | A Harper agent was in the crowd near Gralhund Villa. If the party doesn't report in, Mirt asks directly what they were doing there. |
 | **Faction Outposts** | Harper informants can be activated against Xanathar and Splinter outposts (Wise Owl, Renown 25). One informant inside the Sea Maidens Faire reports Jarlaxle has been asking about the party. |
-| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. |
+| **Xanathar's Lair** | Mirt wants Nihiloor dead — the mind flayer's intellect devourers have touched three Harper assets. He offers tactical support for the Xanathar lair heist if the party commits to eliminating Nihiloor. Nihiloor always escapes, so the support rests on a real attempt, not a kill. |
 | **Cassalanter Villa** | Mirt has assembled years of anomalies: charity whose recipients cannot be verified, Watch inquiries that closed without findings, finances that do not add up. He shares the dossier if the party agrees to bring him whatever physical evidence they find below the villa — original documents, anything that answers his question. The question he cannot let go. |
 | **Vault of Dragons** | Mission 6 triggers here. The Stone has woken something, and Mirt wants three days with it before it opens the vault. |
 

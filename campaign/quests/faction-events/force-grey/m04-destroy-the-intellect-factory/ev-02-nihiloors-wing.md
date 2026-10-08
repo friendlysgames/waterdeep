@@ -121,7 +121,7 @@ X25 is the center of the wing, and it holds the Spawning Pool, twelve specimens 
 
 > [!gamemaster]**If Soluun Expelled Is Marked**
 >
-> Soluun Xibrindas sits in the chair instead of Zaibon. The Guild's watchers took him off the Dock Ward quay after the captain put him ashore, and Nihiloor wants a host who knows how the company works. Soluun wears a silver disc on a cord and carries no weapons, and he speaks in short, hard sentences without naming Jarlaxle or Bregan D'aerthe. If any character is an elf or half-elf, he spits and says "Surface-blood" before anything else.
+> Soluun Xibrindas sits in the chair instead of Zaibon. He sold the Guild's divers the *Scarlet Marpenoth*'s berth, and once the deal was done the Guild seized him, because Nihiloor wants a host who knows how the company works. Soluun wears a silver disc on a cord and carries no weapons, and he speaks in short, hard sentences without naming Jarlaxle or Bregan D'aerthe. If any character is an elf or half-elf, he spits and says "Surface-blood" before anything else.
 >
 > A party that knows him from **The Dockside Killer** may leave him in the chair. If the party frees him, he wants nothing from Force Grey and stays out of sight at the Tower until he can walk, and **Captive Freed** is marked only if he leaves the lair alive.
 
@@ -312,7 +312,7 @@ Vajra's debrief ends the mission. Record the four outcomes separately, because l
 >
 > - **Pool Destroyed** — mark when a method finished and the Pool is inert; read by **The Legate's Eyes**, where no new hosts arrive, and by **Xanathar's Lair** (unconverted).
 > - **Placement Records Taken** — mark when the folders are delivered to Vajra; read by **The Legate's Eyes**, where they are one of the leads to Orvyn Dall.
-> - **Captive Freed** — mark when the captive leaves the lair alive; read by **Vajra's Debrief** in this Event, and by the Bregan D'aerthe missions if the captive was Soluun (unwired).
+> - **Captive Freed** — mark when the captive leaves the lair alive; read by **Vajra's Debrief** in this Event, and by **The Dive** (Bregan D'aerthe) if the captive was Soluun.
 > - **Nihiloor Fled** — mark whenever Nihiloor leaves the wing, which is always; read by **Xanathar's Lair** (unconverted) and **The Full Picture**.
 
 > [!gamemaster]**Next Steps**

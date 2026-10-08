@@ -669,7 +669,7 @@ The items below are outside contradictions left unedited.
 - **arc-e** :377 has Vajra tracking "Manshoon's arcane signature". This breaks the gate: she learns the name only through **Manshoon Named**.
 - **arc-f**
   - :39 places Vajra's preparatory spell at Renown 10+ with a different list and a "junior Blackstaff mage". The r03 and r10 events differ.
-  - The Harper, Order of the Gauntlet and Emerald Enclave hooks (:426-430) ask the party to kill Nihiloor. **User decision (Session 42): Nihiloor always escapes**, so those hooks need a new condition.
+  - The Harper and Order of the Gauntlet hooks (:426, :430) now ask for an attempt on Nihiloor, who always escapes (fixed, Session 42).
   - Xanathar's Lair should read **Pool Destroyed**, **Placement Records Taken**, **Captive Freed** and **Nihiloor Fled**.
 - **arc-g** :43 and :537 give Vajra "devil-binding circles" and infernal-contract documents. This breaks Cassalanter secrecy; she should be at suspicion only.
 - **arc-i** :41 has the same Renown 10+ mage/*nondetection* mismatch as arc-f :39.
@@ -681,10 +681,7 @@ The items below are outside contradictions left unedited.
 
 ### 3. Other faction events
 - **BD `m03-three-nights/ev-01-three-nights.md`** :287 says devourers consume the host's brain. This contradicts the Occupying Devourer rule (Harper reference §5).
-- **BD `m06-the-dive`** (overview :25, :68) has an expelled Soluun selling the Faire's berth to the Guild. Force Grey M4 has him held in Nihiloor's wing if **Soluun Expelled** is marked. **Needs a user decision:**
-  - (a) the Guild seizes him after the sale;
-  - (b) Zaibon is always the captive;
-  - (c) BD M6 changes.
+- **BD `m06-the-dive`**: fixed (Session 42). The Guild seizes Soluun after the sale, and **The Dive** reads **Captive Freed**.
 - **Harper `m05-the-sleeping-asset/ev-02`** does not read **Pool Destroyed**. Add a line, or drop Harper M5 from the readers.
 - **Lords' Alliance**: no event reads M5's Guild names for Jalester. Optional.
 
@@ -693,10 +690,10 @@ The items below are outside contradictions left unedited.
 - Durnan `independents-allies/03-durnan.md` :12 and :26 say he "rarely says two words". The voice doc and M3 use 2–6.
 - Orvyn Dall has no Notable Figures page or voice profile.
 
-### 5. Decisions for the user
-1. Soluun's capture vs BD M6 (above).
-2. How the Harper, Order of the Gauntlet and Emerald Enclave "kill Nihiloor" hooks should read now that he always escapes.
-3. Vajra's tenure: about 13 years per the Vajra guide, three per the old pages. The pages now state none.
+### 5. Decisions for the user (answered, Session 42)
+1. **Soluun.** "The Guild seizes him after the sale." M4 and **The Dive** now say so. **The Dive** reads **Captive Freed**: if Force Grey freed him, he stays out of it.
+2. **Nihiloor hooks.** "Asks, doesn't mean they succeed." The Harper and Order of the Gauntlet hooks (arc-f and Factions Guide pages 02 and 05) now ask for a real attempt. The support stands when he gets away.
+3. **Vajra's tenure.** "She's the youngest Blackstaff ever and still very young. 3 years." The Notable Figures page, the organization page, the brief and the r50 design notes now say three years.
 
 ### 6. Invented names (Session 42)
 Accept or replace.

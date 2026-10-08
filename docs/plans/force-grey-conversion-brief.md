@@ -99,7 +99,7 @@ Where a report lists options, this brief has already chosen. Where a report and 
 - Rank benefits are tracked per member. Where a benefit helps "the party" (a spell, an ally), the holder brings their companions along for that operation.
 
 **Vajra Safahr**
-- **Stat line:** Neutral, Tethyrian Human, she/her (from the Notable Figures page). Never state her tenure.
+- **Stat line:** Neutral, Tethyrian Human, she/her (from the Notable Figures page). She is the youngest Blackstaff ever and still very young, three years in the post (user ruling, Session 42).
 - **Voice** (`voices/force-grey.md`):
   - short orders and conclusions;
   - "Irrelevant.", "Force Grey will handle it.", "Next.";

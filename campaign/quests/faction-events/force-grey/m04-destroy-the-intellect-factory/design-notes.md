@@ -22,7 +22,7 @@ Invented: the three other hosts' posts (a Dock Ward Watch quartermaster's runner
 
 Open items for other files:
 
-- Bregan D'aerthe's **The Dive** has Soluun selling the Faire's berth to the Guild after he is expelled, which sits badly with a Soluun held in Nihiloor's wing.
+- User ruling (Session 42): Soluun sells the berth, and the Guild seizes him after the sale. **The Dive** now reads **Captive Freed**.
 - **The Trouble with Meloon** writes no outcome for a case that ends with neither **Meloon Restored** nor **Meloon Lost**, and this mission reads that case as restored.
 - **The Sleeping Asset** does not yet read **Pool Destroyed**.
 - The Raelyn Auvryndar thread from Dragon Heist is dropped, because the lair's cell block has no room for her.
