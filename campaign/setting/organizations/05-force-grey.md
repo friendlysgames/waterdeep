@@ -1,16 +1,15 @@
 # Force Grey
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
-> - **Campaign role:** Player faction — Waterdeep's deniable cadre of elite adventuring agents, commanded by the Blackstaff.
+> - **Campaign role:** Player faction. Waterdeep's deniable cadre of elite adventuring agents, commanded by the Blackstaff.
 > - **Contacts:** **Vajra Safahr, the Blackstaff**
 > - **Mission delivery:** *Sending* spell.
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Xanathar's Lair**, **Cassalanter Villa**, **Vault of Dragons**
 >
-> *Contact: Vajra Safahr, the Blackstaff — communicates by Sending spell, in person at Blackstaff Tower when the situation requires it. Direct. Professional. She cares about Waterdeep and the people in it, but doesn't perform warmth she doesn't feel. She has been Blackstaff for three years and has aged approximately ten years in that time. She is younger than the title suggests and does not find this observation interesting.*
+> Vajra Safahr communicates by *Sending* spell, and in person at Blackstaff Tower when the situation requires it. She is direct and professional. She cares about Waterdeep and the people in it, but she doesn't perform warmth she doesn't feel. She is younger than the title suggests and does not find this observation interesting.
 >
-> *She delivers mission briefings through the Sending spell, which gives her twenty-five words. She uses them carefully. When a situation requires more than twenty-five words, she summons the party to Blackstaff Tower and tells them at the standing desk, which is her preferred place to have all conversations she has not yet decided the tone of.*
+> A *Sending* gives her twenty-five words, and she uses all of them. When a situation needs more, she summons the party to Blackstaff Tower and tells them at her standing desk, where there is no chair for visitors.
 
 ## Operations
 
