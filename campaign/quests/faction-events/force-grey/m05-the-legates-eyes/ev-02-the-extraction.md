@@ -48,9 +48,9 @@ Orvyn cannot be taken in a crowd, and he cannot be taken while the devourer can 
 >
 > - **Through Vajra.** This route needs the ledger. Vajra reads it and says a Blackstaff holding a clerk's own book can act without a review. She sends a handwritten request for Orvyn to attend the Tower at 09:00 on a private matter of an old docket. The devourer comes, because refusing the Blackstaff would mark it, and the party may attend.
 > - **The apartment.** The party waits for Orvyn at 18:30. A character who gets through the door under a pretext and makes a successful DC 13 Charisma (Deception or Persuasion) check is let in. A character who works the lock instead and makes a successful DC 13 Dexterity (Thieves' Tools) check finds him at the desk. On a failure, the devourer shouts through the door and **The Neighbour** begins.
-> - **Trollskull Manor.** A member who invites Orvyn to the Manor as a petitioner's sponsor gets him there on any evening before Day 12. A companion bars the cellar door after he descends. The cellar has no window.
+> - **Trollskull Manor.** A member who invites Orvyn to the Manor as a petitioner's sponsor gets him there on any evening before Day 12. A companion bars the cellar door after he descends, and the cellar has no window for the devourer to shout from.
 >
-> If Vajra declines because the party has no ledger, she says "Bring me paper first" and sends the members back to the desk.
+> If Vajra declines because the party has no ledger, she tells the members to bring her the paper first and sends them back to the desk on Tallow Court.
 
 > [!hazard]**The Guild Minders**
 >
@@ -78,7 +78,7 @@ Once the party moves on him, the devourer drops its cover. Orvyn is a mild man i
 >
 > Orvyn's polite smile goes slack, and his hands flatten on the desk. His eyes sweep the room once, from the door to the window to the hands of whoever stands nearest, and then his chair scrapes back. A flat voice that does not sound like his own fills the little room.
 >
-> > "You are Watch spies. Stand away from the door."
+> > "You are Watch spies, and I will answer nothing more that you ask. Stand away from the door at once."
 
 > [!hazard]**The Hosted Clerk**
 >
@@ -92,7 +92,7 @@ Once the party moves on him, the devourer drops its cover. Orvyn is a mild man i
 > During combat, the devourer:
 > - Shouts "Watch!" from the second round. In the apartment, the shout begins **The Neighbour** at the end of round 3.
 > - Dashes for the door, then the window, and uses the Club only on a character who blocks the way.
-> - Leaves any downed character alive.
+> - Leaves any downed character alive and turns to whoever blocks the way.
 > - Uses Slip Out when Hold is 1, unless Orvyn is warded, and runs at speed 40.
 >
 > The encounter ends when Orvyn is held, extracted, killed or escapes into the street. An Orvyn who escapes brings the alerted roster in two rounds.
@@ -126,18 +126,18 @@ Vajra's route is the non-combat way to do the same work.
 
 > [!exploration]**Vajra's Route**
 >
-> - Vajra casts *Protection from Evil and Good* on Orvyn as he sits in the bolted chair at the top of the Tower, using holy water. The room's door shuts behind him.
+> - Vajra casts *Protection from Evil and Good* on Orvyn as he sits in the bolted chair at the top of the Tower, using holy water, and the room's door shuts behind him.
 > - She then casts *Dispel Magic* with a 4th-level slot at the start of each of the next three rounds. Each casting is an automatic Break.
 > - Orvyn still makes his own contest saves under the ward. A failure deals Strain, capped at 2 and never below 1 hit point. If three failures in a row reset Hold, Vajra waits one hour and begins again.
 > - When the devourer is out, a warded Orvyn cannot be occupied, and Vajra kills the creature with her next action.
 
 > [!readaloud]
 >
-> A pale thing the size of a cat's head slides out from behind Orvyn's ear onto the stone, with long thin legs folded under a lump of grey flesh. It scrabbles toward the shut door. Vajra says one word without raising her voice, and it stops moving.
+> A pale thing the size of a cat's head slides out from behind Orvyn's ear onto the stone, with long thin legs folded under a lump of grey flesh. It scrabbles toward the shut door until Vajra says one word without raising her voice, and then it stops moving.
 >
 > Orvyn sags against the iron bands and gulps at the air, and his eyes find the page in front of him.
 >
-> > "Is it... is it out? I can see my handwriting. I can see it."
+> > "Is it out of me? I can see my own handwriting on that page, and it looks like mine again."
 
 ### The Expelled Devourer
 
@@ -155,7 +155,7 @@ Vajra's route is the non-combat way to do the same work.
 >
 > In a barred room it cannot leave. In the apartment it runs for the window onto Tallow Court, and in the Manor cellar it runs for the stair. If it flees outdoors, it needs three consecutive rounds of Dash. Each round, a character who can see it makes a DC 13 Wisdom (Perception) check and, on a success, keeps it in sight. After three rounds with nobody in sight, it is gone and reaches the Guild with the party's descriptions within a day.
 >
-> A caught devourer fights to the death. The encounter ends when it dies, is trapped under a barrel or bottle, or escapes.
+> A caught devourer fights to the death, and the encounter ends when it dies, is trapped under a barrel or bottle, or escapes.
 
 ### What the Party Decides
 
@@ -171,7 +171,7 @@ After the diagnosis the members choose among three endings. They can change thei
 >
 > Vajra writes a short docket on Tower paper and seals it with a dull wax that carries no mark. She slides it across the desk and does not look up.
 >
-> > "File this through his office. It says a Force Grey clerk sits in the Hall of Records and will report in three days. The Guild will send someone to look, and I want to know who."
+> > "File this through his office, and let it say that a Force Grey clerk sits in the Hall of Records and will report in three days. The Guild will send someone to look, and I want to know who."
 
 The devourer passes the docket to Dobb at the next noon meeting. At 10:00 on the third day after, a member watching the Hall of Records steps from the public hall sees Ketha Rudd, a Guild accountant in a clerk's grey, and Alder Yost, a solicitor with a leather case, walk the shelves for an hour. Orvyn remains occupied and at risk, though a later extraction can still rescue him.
 
@@ -189,7 +189,7 @@ If the fight happens in the apartment and lasts past round 2, or the devourer sh
 
 ### What Orvyn Remembers
 
-After one Long Rest in the Tower's guest room, Orvyn sits up with his coat on and his hands folded in his lap, and a restored Orvyn gives the party what he knows. An Orvyn who was killed or left in place gives nothing here.
+After one Long Rest in the Tower's guest room, a restored Orvyn sits up with his coat on and his hands folded in his lap and gives the party what he knows, while an Orvyn who was killed or left in place gives nothing here.
 
 > [!readaloud]
 >
