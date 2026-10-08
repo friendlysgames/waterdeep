@@ -20,7 +20,7 @@ At mid-morning a Force Grey member receives a *Sending* from Vajra Safahr. It na
 
 Hlam is a Calishite monk of indeterminate age who has lived in a cave on Mount Waterdeep for longer than anyone has thought to check. He dislikes visitors who come for validation, and he judges every one of them by whether they answer him honestly. Two years ago he told Vajra she was not listening, and she has neither climbed the slope nor sent anyone up it since.
 
-Hlam has felt the Splinter, the Black Network cell that broke away under Manshoon, drawing its net over the city again. He reads it as an old wrongness in a familiar shape and cannot give it a name. For tendays he has also felt a patient resonance beneath the city, which comes from the Stone of Golorr and the Vault of Dragons. He does not know what it is.
+Hlam has felt the Splinter, the Black Network cell that broke away under Manshoon, drawing its net over the city again. He reads it as an old wrongness in a familiar shape and cannot give it a name. For tendays he has also felt a patient resonance beneath the city, which comes from the Stone of Golorr and the Vault of Dragons, though he does not know what it is.
 
 Vajra knows the Black Network has split. She does not know about the buried thing, and she does not link it to the Splinter. Nobody in this mission says "Manshoon", "Stone" or "vault".
 
@@ -59,7 +59,7 @@ Vajra files the riddle and the buried-thing message separately and does not link
 
 ## Dangers & Enemies
 
-No combat. A failed Constitution saving throw on the climb costs one level of Exhaustion, which ends after a Long Rest. A character who raises a weapon against Hlam is warned with a single bow, and a second move against him ends the visit with no answers and no Renown.
+There is no combat, and a failed Constitution saving throw on the climb costs one level of Exhaustion, which ends after a Long Rest. A character who raises a weapon against Hlam is warned with a single bow, and a second move against him ends the visit with no answers and no Renown.
 
 ## Overview
 

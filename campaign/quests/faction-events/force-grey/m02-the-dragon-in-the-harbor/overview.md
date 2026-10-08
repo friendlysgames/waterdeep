@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 3rd-level characters.*
 >
-> Zelifarn uses the 2024 **Young Bronze Dragon** stat block and does not fight. The **Force Grey Mechanics Reference** covers the block. Combat happens only if the party attacks him, and he leaves the fight after one turn.
+> Zelifarn uses the 2024 **Young Bronze Dragon** stat block (CR 8) and does not fight. The **Force Grey Mechanics Reference** covers the block. Combat happens only if the party attacks him, and he leaves the fight after one turn.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
@@ -39,7 +39,7 @@ Vajra hands out one *potion of water breathing* for every member and every compa
 
 ## The Descent
 
-The party drinks its vials at the harbor quay and swims forty feet down to the wreck. On any date outside Fleetswake, Meritide Blackfin waits on the pier first and gives the party his 48 hours there. A short ledger counts the hours against his deadline.
+The party drinks its vials at the harbor quay and swims forty feet down to the wreck. On any date outside Fleetswake, Meritide Blackfin waits on the pier first and gives the party his 48 hours there. His deadline is the only clock in the mission.
 
 ## The Wreck
 

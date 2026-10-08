@@ -28,7 +28,7 @@ The *Sending* reaches the Force Grey member with the highest Wisdom score, or th
 
 > [!readaloud]
 >
-> While you are busy with something else, a dry, flat voice arrives behind your eyes. It is fast and clipped, and nobody standing near you hears a word of it.
+> While you are busy with something else, a dry, flat voice arrives behind your eyes with no greeting, fast and clipped, and nobody standing near you hears it.
 >
 > > Hlam is a monk on Mount Waterdeep's western slope. Ask him what threats he has perceived. Don't mention my name unless he asks. Don't overstay.
 >
@@ -67,7 +67,7 @@ The member can reply once or several times. Vajra answers the first three replie
 >
 > > Nothing. Hlam has no use for gifts or urgency, and he marks both against you. Ask plainly, and wait if he does not answer you.
 
-When the replies are done, the members can climb. Companions are free to join them.
+When the replies are done, the members can start the climb, and their companions are free to join them.
 
 ### The Climb
 
@@ -86,7 +86,7 @@ The path up Mount Waterdeep's western slope begins in a maintained city park and
 > - **Advantage:** The party spends an extra hour pacing the climb, and every character has Advantage on the saving throw.
 > - **Auto:** A character with a climbing speed, or with Expertise in Athletics, who helps the others across the slab succeeds automatically. The characters helped have Advantage.
 >
-> The way down needs no saving throw. Hlam makes no comment on anyone who arrives Exhausted.
+> The way down needs no saving throw, and Hlam makes no comment on anyone who arrives Exhausted.
 
 ### The Cave
 
@@ -100,7 +100,7 @@ Hlam sits at the mouth of the cave and has watched the party climb for most of a
 >
 > > You want to know what I know. Everyone does.
 >
-> He fills a clay cup from the kettle and holds it out. When nobody takes it, he drinks it himself.
+> He fills a clay cup from the kettle and holds it out to you, and when nobody takes it, he drinks it himself.
 
 > [!social]**The Hermit on the Ledge**
 >
@@ -120,9 +120,9 @@ Once everyone has found a place on the ledge, read the following aloud:
 
 > [!readaloud]
 >
-> Hlam sets the empty cup on the stone and waits until each of you is settled. He looks at the party for a long moment before he speaks.
+> Hlam sets the empty cup on the stone and waits until each of you is settled on the ledge. He looks at the party for a long moment before he speaks.
 >
-> > Sit, student. The tea is gone, but the view is free, and nobody here is in a hurry. Who sent you?
+> > Sit, student, because the tea is gone but the view is free, and nobody here is in a hurry. Who sent you?
 
 > [!exploration]**Who Sent You?**
 >
@@ -141,7 +141,7 @@ Once everyone has found a place on the ledge, read the following aloud:
 > - **The second answer:** A character who presses for more and makes a successful **DC 15 Charisma (Persuasion)** check gets it, with Disadvantage if Disadvantage applies. On a failure, Hlam says, "The mountain does not hurry, student," and nothing else.
 > - **The silent way:** If the whole party sits without speaking for ten minutes, Hlam gives whichever answer is next, with no check. A failed check is never the end of the conversation.
 >
-> The second answer is won without invoking Vajra's authority unless a character used her title or the weight of the Tower as a reason for Hlam to speak.
+> The second answer counts as won without invoking Vajra's authority unless a character used her title, or the Tower's name, as a reason for Hlam to speak.
 
 > [!qna]**What threats have you perceived?**
 >
@@ -159,9 +159,9 @@ If the party wins the second answer, read the following aloud:
 >
 > He pours a second cup from the kettle and holds it a moment before he goes on.
 >
-> > Someone is drawing the net again, student. The weave is different, but I know the knots.
+> > Someone is drawing the net again, student, and the weave is different, but I know the knots.
 >
-> > I do not explain riddles. Carry it down the mountain, and see what it fits.
+> > I do not explain riddles, student, so carry it down the mountain and see what it fits.
 
 > [!qna]**Whose hands are they?**
 >
@@ -169,7 +169,7 @@ If the party wins the second answer, read the following aloud:
 
 > [!qna]**How do you know?**
 >
-> > I sit here every day and look at the city. Some parts of it have gone quiet, and I notice quiet.
+> > I sit here every day and look at the city, and some parts of it have gone quiet, and I notice quiet.
 
 > [!qna]**What is Vajra to you?**
 >
@@ -187,15 +187,15 @@ Hlam ends the meeting by turning back to face the harbor. He does this when the 
 >
 > > The Blackstaff carries more than she knows.
 >
-> He waits before the next words, and the wind stirs the hem of his sleeve.
+> He waits before the next words, and the wind stirs the hem of his sleeve while a gull wheels out over the water.
 >
 > > Not the staff. She knows what the staff is. The city.
 >
-> Another pause follows, longer than the first.
+> Another pause follows, longer than the first, and the gull drifts out of sight beneath the ledge.
 >
 > > She does not know what is buried beneath it, and the buried thing is waking.
 >
-> He turns his head a little, though not far enough to look at you.
+> He turns his head a little, though not far enough to look at you, and then he is still again.
 >
 > > Tell her that from me. She will understand the half of it that matters.
 
@@ -213,7 +213,7 @@ Vajra receives the members at Blackstaff Tower on the evening they come down, or
 >
 > The door of Blackstaff Tower swings open before anyone reaches for it. Upstairs, Vajra stands at a tall desk in her study with a pen in her hand, and there is no chair for visitors.
 >
-> > Report. Everything he said, in order, and nothing you think he meant.
+> > Report to me everything he said, in order, and leave out whatever you think he meant.
 
 Let the members report in their own words. Vajra interrupts only to ask for Hlam's exact words. She writes down the first answer and says, "Go on."
 
@@ -221,19 +221,19 @@ If the members give her the second answer, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra's pen stops over the page, and then she writes the riddle down as it was spoken.
+> Vajra's pen stops over the page, and then she writes the riddle down word by word as it was spoken.
 >
-> > Of course it's a fucking riddle. He means the Black Network, the half that broke away. I knew that much already, but Hlam has never once given me a name.
+> > Of course it's a fucking riddle, and he means the Black Network, the half that broke away. I knew that much already, but Hlam has never once given me a name.
 
 When the members reach the last message, the report turns on one decision. They can give it to her word for word, or give her a summary. If a member drops the opening sentences about her, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra watches the member who spoke and does not pick up her pen.
+> Vajra watches the member who spoke, with her pen still resting beside the page, and does not write a word.
 >
-> > You left out the beginning. He said something about me. Say it as he said it.
+> > You left out the beginning, and he said something about me in it, so say it as he said it.
 
-If the member gives it in full at any point before she dismisses them, the +1 Renown below is earned. If every member refuses, Vajra says, "Then I have the rest. Leave it," writes what she has, and does not press. Mark **Buried Thing Reported** all the same.
+If the member gives it in full at any point before she dismisses them, the +1 Renown below is earned. If every member refuses, Vajra says, "Then I have the rest. Leave it," writes what she has, and does not press. You should mark **Buried Thing Reported** all the same.
 
 When a member gives the message word for word, read the following aloud:
 
@@ -243,33 +243,33 @@ When a member gives the message word for word, read the following aloud:
 >
 > > Repeat it.
 >
-> When the member does, she writes every word down in order. She reads the page over to herself, and her lips move.
+> When the member does, she writes every word down in order and reads the page over to herself, with her lips moving.
 >
-> > Thank you. This doesn't leave the Tower.
+> > Thank you for carrying it exactly, and understand that this doesn't leave the Tower.
 
 If the members give only a summary, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra writes three lines, lays the pen across the page and goes still.
+> Vajra writes three lines, lays the pen across the page and goes still, and the room is silent until she speaks.
 >
-> > I have the gist. This doesn't leave the Tower.
+> > I have the gist, and I'll make do with it, but this doesn't leave the Tower.
 
 > [!exploration]**Vajra's Stillness**
 >
-> Any character who watches Vajra and makes a successful **DC 14 Wisdom (Insight)** check determines that the message troubles her less than the fact that Hlam knew it before she did. She will not say so.
+> Any character who watches Vajra and makes a successful **DC 14 Wisdom (Insight)** check determines that the message troubles her less than the fact that Hlam knew it before she did, though she will not say so.
 
 > [!qna]**Are the two warnings connected?**
 >
-> > I can't tell. They could be the same problem or two different ones. I'll keep them in separate files until something joins them.
+> > I can't tell whether they are the same problem or two different ones, so I'll keep them in separate files until something joins them.
 
 > [!qna]**What is buried?**
 >
-> > I don't know. He said I'd understand half of it, and so far I understand none. Nothing the Watch has sent me fits.
+> > I don't know what it is. He said I'd understand half of it, and so far I understand none, and nothing the Watch has sent me fits.
 
 > [!qna]**Are you alright?**
 >
-> > Irrelevant. You're the ones who climbed a mountain today, so go and sleep.
+> > Irrelevant. You're the ones who climbed a mountain today, so go home and get some sleep.
 
 ### Renown Opportunities
 
@@ -279,13 +279,13 @@ Vajra ends the report as soon as she has what she needs. Read the following alou
 >
 > Vajra caps her pen, lays the page on a short stack and squares the stack against the edge of the desk.
 >
-> > That was the job. You went, you listened, and you brought it back. Next.
+> > That was the job, and you did it properly, because you brought back everything he gave you without arguing with it. Next.
 
 If a member gave the last message word for word, read the following aloud:
 
 > [!readaloud]
 >
-> She stops a member on the way to the door with a nod at the page.
+> As you turn toward the door, she stops one of you with a nod at the page she has just written.
 >
 > > You brought me his words and not your own. I'll remember that the next time I need something carried exactly.
 
@@ -293,7 +293,7 @@ If the party won Hlam's second answer without invoking her authority, read the f
 
 > [!readaloud]
 >
-> Vajra looks down at the riddle on the page and then at the door.
+> Vajra looks down at the riddle on the page and then at the door, and her pen taps the desk once.
 >
 > > He has never given me a second answer. I'll be asking you before I send anyone else up there.
 
