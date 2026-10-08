@@ -14,14 +14,14 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Tavor Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders. He acts on the second bell and does not move without Vira's message.
-> - The raiders are survivors of the Splinter's Waterdeep cell after **Kolat Towers**. Their objective is Vajra, in her study on the top floor.
+> - Tavor Aldeth (Neutral Evil, Human, he/him) is a Splinter Mage who waits in the Castle Ward with his raiders, and he does not move without Vira's message.
+> - The raiders are survivors of the Splinter's Waterdeep cell after **Kolat Towers**, and their objective is Vajra in her study on the top floor.
 > - **Kolat Towers** decides who sent them, and the branch below sets what Tavor and Vira say.
->   - **Destroyed:** nobody sent Tavor. The cell has collapsed, and Tavor means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
+>   - **Destroyed:** nobody sent Tavor. The cell has collapsed, and he means to finish a plan that was already paid for. If Vevette Blackwater is alive and free, she approved it.
 >   - **Simulacrum Only:** the simulacrum sent him, on a standing order to kill the Blackstaff before the vault opens.
 >   - **Alive:** Manshoon ordered the raid himself from wherever he hides.
 > - Nobody says Manshoon's name, or calls Kolat Towers his home, unless **Manshoon Named** is marked for the member being addressed. Until then the raiders say "the Splinter" and "the other cell".
-> - The Tower's ward rules, the raid rosters and the staff track are all in this Event, and the wards hold or fail by the rules below, not by Vajra's choice.
+> - The ward rules, the raid rosters and the staff track are all in this Event, and the wards hold or fail by the rules below, not by Vajra's choice.
 
 ### The Signal
 
@@ -29,37 +29,37 @@ How this Event opens depends on what happened in **The Wrong Shelf**.
 
 > [!exploration]**What Happened to the Signal**
 >
-> - **The signal went out.** Tavor's raiders reach the north service door fifteen minutes after Vira's message. The party uses the fifteen minutes to choose positions.
-> - **The stone was taken before she used it.** No signal goes out. At 22:00 Tavor waits, and at 22:30 he sends nothing. At dawn he and his raiders leave the Castle Ward, and **Tower Attack Stopped** applies. Skip to **The Prisoner**, with Vira as the only prisoner.
-> - **The party baits the raid.** A captured Vira who tells the party the word she and Tavor agreed (a member's **DC 15 Charisma (Persuasion)** check succeeds if the party promises her the clerks' hearing) lets a member send the signal. The party then chooses the hour, and Tavor's first turn is spent in an ambush: he opens with Arcane Burst.
-> - **The party found nothing.** At 22:00 Vira fires the disruptor and sends her signal. The raiders arrive at 22:15, and the disruptor rules below apply.
+> - **The signal went out.** Tavor's raiders reach the north service door fifteen minutes after Vira's message, and the party uses the time to choose positions.
+> - **The stone was taken before she used it.** No signal goes out, Tavor waits past 22:30 without a word, and at dawn he and his raiders leave the Castle Ward. **Tower Attack Stopped** applies. Skip to **The Prisoner**, with Vira as the only prisoner.
+> - **The party baits the raid.** A captured Vira can give the party the word she and Tavor agreed if a member makes a successful **DC 15 Charisma (Persuasion)** check and promises her the clerks' hearing. A member then sends the signal, the party chooses the hour, and Tavor opens his first turn with Arcane Burst because he walks into an ambush.
+> - **The party found nothing.** At 22:00 Vira fires the disruptor and sends her signal, and the raiders arrive at 22:15 under the disruptor rules below.
 
 If the signal went out, read or paraphrase the following to the members on the ground floor:
 
 > [!readaloud]
 >
-> The door hall of Blackstaff Tower is lit by a single lamp, and the north service door at the back stands shut under a plain iron bar. A faint smell of burnt dust drifts down the stair. In the yard beyond the door, a latch clicks softly.
+> The door hall of Blackstaff Tower is lit by a single lamp, and the north service door at the back stands shut under a plain iron bar. A faint smell of burnt dust drifts down the stair, and in the yard beyond the door a latch clicks softly.
 >
-> Overhead, Vajra's voice carries down the stair, flat and rapid and sharp with swearing.
+> Vajra's voice carries down the stair from above, flat and rapid and sharp with swearing.
 >
-> > "Fuck's sake, the wall's up. Hold the door and the foot of the stair, and nobody goes past the landing, because I can't keep it for ever."
+> > "Fuck's sake, the wall is up on the landing. Hold the door and the foot of the stair, because I can't keep the rest of it for ever."
 
 ### The North Service Door
 
-The party defends the ground floor: the door hall, the north service door and the foot of the stair. It does not defend the floors above, because Vajra holds those with the wards. The party can stand at the door, at the stair foot, or split between them.
+The party defends the ground floor, which holds the door hall, the north service door and the foot of the stair. Vajra holds the floors above with the wards, and the party can stand at the door, at the stair foot or split between them.
 
 > [!gamemaster]**The Tower Wards**
 >
-> Wards are a hard rule, not a roll. Vajra holds them from her study and takes no part in the party's fight. Forty-three people have Tower access, and about twenty are inside at 22:15.
+> Wards are a hard rule and not a roll. Vajra holds them from her study and takes no part in the party's fight, and about twenty of the forty-three people with Tower access are inside at 22:15.
 >
-> - **Floors.** The ground floor (door hall, north service door and stair foot) is never warded. The second floor (the library behind its iron-latched door and the east workroom) is warded. The third floor (Merris and the upper stair) is warded. The top floor and Vajra's study are warded and sealed.
+> - **Floors.** The ground floor (door hall, north service door and stair foot) is never warded. The second floor (the library behind its iron-latched door and the east workroom) and the third floor (Merris and the upper stair) are warded. The top floor and Vajra's study are warded and sealed.
 > - **The clock.** It starts in the round the first raider crosses the north service door.
-> - **Rounds 1 to 10.** No raider can cross the landing to the second floor. A raider on the stair stops at the landing against an invisible wall of force. No save applies.
-> - **Round 11 on.** The second floor opens. In each round that at least one raider is above the ground floor, one member of the Tower's staff is lost. Lose them in this order: Dessa Quillon (copyist), Harl Merrow (archivist), Ilsabet Crane (junior arcanist), Jory Pellin (porter) and Sabel Orrin (ward-keeper's assistant).
-> - **Round 16 on.** The third floor opens. If a raider reaches Vajra's study, she ends the raid herself and seals the Tower for a tenday. The party did not stop the attack.
+> - **Rounds 1 to 10.** No raider can cross the landing to the second floor, and a raider on the stair stops at the landing against an invisible wall of force. No save applies.
+> - **Round 11 on.** The second floor opens, and in each round that at least one raider is above the ground floor one member of the Tower's staff is lost. Lose them in this order: Dessa Quillon (copyist), Harl Merrow (archivist), Ilsabet Crane (junior arcanist), Jory Pellin (porter) and Sabel Orrin (ward-keeper's assistant).
+> - **Round 16 on.** The third floor opens. If a raider reaches Vajra's study, she ends the raid herself and seals the Tower for a tenday, and the party did not stop the attack.
 > - **Won.** The attack is stopped when every raider is down, driven out or captured, or the Mage has left, before round 11 ends.
 >
-> **If the disruptor fired.** There is no ward clock, and raiders can climb from round 1. Every creature in the Tower has its Concentration ended and cannot cast a spell of 3rd level or higher until the end of its next turn. Vajra's study seal fails. The Tower's staff and Vajra take the second rank of raiders, which is why the roster steps down one row. The Mage opens with Arcane Burst.
+> **If the disruptor fired.** There is no ward clock, and raiders can climb from round 1. Every creature in the Tower has its Concentration ended and cannot cast a spell of 3rd level or higher until the end of its next turn, and Vajra's study seal fails. The Tower's staff and Vajra take the second rank of raiders, which is why the roster steps down one row, and the Mage opens with Arcane Burst.
 
 > [!hazard]**The Splinter Raid**
 >
@@ -71,7 +71,7 @@ The party defends the ground floor: the door hall, the north service door and th
 >
 > If the party arrives hurt, drop one Spy or the Tough. If the disruptor fired, step down one row: three combatants face Tavor alone, four face Tavor and a Spy, and five face Tavor, the Tough Boss and a Spy.
 >
-> **If Vira is free.** Vira joins the raiders at the north service door and replaces one Spy. She runs, as described under **Vira Runs**.
+> **If Vira is free.** She joins the raiders at the north service door and replaces one Spy, and she runs as described under **Vira Runs**.
 >
 > #### Tavor Aldeth's Tactics
 > Tavor spends round 1 on the objective and starts his Arcane Bursts in round 2.
@@ -80,42 +80,42 @@ The party defends the ground floor: the door hall, the north service door and th
 > - Have Tavor cast *Invisibility* on himself in round 1, then use *Fly* or *Misty Step* to reach the foot of the stair.
 > - Have Tavor make his three Arcane Bursts at three different conscious characters each round, and cast *Fireball* only on three or more clustered characters.
 > - Have the Spies slip past a held door and go for the stair, using Cunning Action to Hide and Disengage.
-> - Have the Tough Boss hold the north service door and push the nearest character 10 feet with his Warhammer. Toughs use Pack Tactics against anyone within 5 feet of a raider.
+> - Have the Tough Boss hold the north service door and push the nearest character 10 feet with his Warhammer, and have Toughs use Pack Tactics against anyone within 5 feet of a raider.
 > - Have Tavor use Protective Magic for *Counterspell* on any spell that would block the stair, and for *Shield* otherwise.
 >
-> If the party ambushes him, holds the north service door from round 1 or the disruptor fired, Tavor opens with Arcane Burst instead, and the encounter is Oppressive at three or four combatants and Brutal at five.
+> If the party ambushes him, holds the north service door from round 1 or the disruptor fired, Tavor opens with Arcane Burst instead, and the encounter is Oppressive at three or four combatants and Brutal at five. Stone messages are spent, so he signals his raiders by hand.
 >
-> Tavor retreats at 40 Hit Points, using *Misty Step* and *Fly*. He surrenders if cornered at 20 Hit Points or fewer, and he trades the cell's last cellar for his life. The Spies disengage when two raiders are down. The Toughs fight until Tavor leaves, and then they surrender.
+> Tavor retreats at 40 Hit Points, using *Misty Step* and *Fly*, and he surrenders if cornered at 20 Hit Points or fewer, trading the cell's last cellar for his life. The Spies disengage when two raiders are down, and the Toughs fight until Tavor leaves and then surrender.
 >
 > **Non-combat route:** once the raid has stalled, a character who offers Tavor safe passage out of the city and makes a successful **DC 16 Charisma (Persuasion or Intimidation)** check ends the raid. A character who first makes a successful **DC 15 Wisdom (Insight)** check sees that he does not want to die for this.
 
 > [!hazard]**Vira Runs**
 >
-> Vira uses the **Mage Apprentice** stat block and does not start a fight. If she is free, she runs from the Tower toward the Castle Ward and meets Tavor at the door. She Disengages, uses *Misty Step* and flees at half her Hit Points. She surrenders if she is Grappled or cornered, and she can send her signal while Grappled if her stone is still unused.
+> Vira uses the **Mage Apprentice** stat block and does not start a fight. If she is free, she runs from the Tower toward the Castle Ward and meets Tavor at the door, using Disengage and *Misty Step*, and she flees at half her Hit Points. She surrenders if she is Grappled or cornered, and she can still send her signal while Grappled if her stone is unused.
 >
-> The signal clock is fifteen minutes. A character who takes her stone, or who Grapples her before she touches it, prevents the message. Taking the stone costs a Utilize action and wins a contested Strength (Athletics) check against hers.
+> The signal clock is fifteen minutes. A character who takes her stone, or who Grapples her before she touches it, prevents the message, and taking the stone costs a Utilize action and a contested Strength (Athletics) check against hers.
 
 If the raid is stopped, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The door hall is quiet except for the creak of the iron bar and a groan from a wounded raider. Lamplight shows broken crossbow bolts and spilled lantern oil on the flagstones. Orla Venn comes down the stair with a blanket in her arms and starts for the nearest body.
+> The door hall is quiet except for the creak of the iron bar and the groan of a wounded raider. Lamplight shows broken crossbow bolts and spilled lantern oil on the flagstones, and Orla Venn comes down the stair with a blanket in her arms and starts for the nearest body.
 
 If the raiders reached Vajra's study, read or paraphrase the following instead:
 
 > [!readaloud]
 >
-> A deep note rolls down the stair, and every door in the Tower slams at once. The air in the hall goes thick and still, and the raiders are lifted bodily and set down in the street. The wards have closed, and nobody inside can leave.
+> A deep note rolls down the stair, and every door in the Tower slams at once. The air in the hall goes thick and still, and the raiders are lifted bodily and set down in the street outside as the great door swings shut behind them.
 
 ### The Prisoner
 
-The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement is recorded in the bare room at the top of the Tower, with the oak chair bolted to the floor, and Vajra listens at the door while Orla writes. A statement taken from a charmed prisoner cannot be recorded, because Vajra will not enter compelled testimony.
+The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement is recorded in the bare room at the top of the Tower, with the oak chair bolted to the floor, while Vajra listens at the door and Orla writes. Vajra will not record a statement taken from a charmed prisoner.
 
 > [!social]**The Prisoner in the Chair**
 >
 > Tavor Aldeth (Neutral Evil, Human, he/him) :: a Splinter Mage who has run out of orders and is bargaining for a way out.
 >
-> Tavor talks in complete, careful sentences and does not plead. He swears once and without heat, at nobody in particular. He trades what he knows for his life. A Spy or Tough in the chair says less and swears more. Vira says nothing without a promise of the clerks' hearing.
+> Tavor talks in complete, careful sentences and does not plead. He swears once and without heat, at nobody in particular, and he trades what he knows for his life. A Spy or Tough in the chair says less and swears more, and Vira says nothing without a promise of the clerks' hearing.
 >
 > Tavor is willing to discuss the following topics:
 >
@@ -129,49 +129,49 @@ The party can take Tavor, a Spy, the Tough Boss, a Tough or Vira. The statement 
 >
 > If the **Kolat Towers** result was Destroyed, Tavor answers:
 >
-> > "Nobody. The cell is a few people in cellars, and we paid for this plan before the tower fell. I decided to finish it."
+> > "Nobody sent me. The cell is a few people in cellars, we paid for this plan before the tower fell, and I decided to finish it."
 >
 > If the result was Simulacrum Only or Alive, Tavor answers:
 >
-> > "The one who pays. The orders came by a stone, in a voice I've never put a face to. I was to kill the Blackstaff and leave the Tower standing."
+> > "The one who pays me. His orders came by a stone, in a voice I never put a face to, and I was to kill the Blackstaff."
 
 If the result was Simulacrum Only or Alive and **Manshoon Named** is marked, read this instead:
 
 > [!readaloud]
 >
-> > "Manshoon, or whatever speaks for him now. His orders came by the stone, and I never saw him. I was to kill the Blackstaff before the vault opens."
+> > "Manshoon, or whatever speaks for him now. His orders came by the stone and I never saw him, and I was to kill the Blackstaff before the vault opens."
 
 > [!qna]**How did Vira get in?**
 >
-> > "Credentials made in Neverwinter, and six weeks of watching which door the Tower never warded. The north service door was her find. She's good at being forgotten."
+> > "She had credentials made in Neverwinter and six weeks to watch which door your Tower never wards. The north service door was her find, and she's good at being forgotten."
 
 > [!qna]**What were you meant to take?**
 >
-> > "Nothing. The Blackstaff's life was the whole job. After that, the wards were somebody else's problem."
+> > "Nothing at all. The Blackstaff's life was the whole job, and after that the wards were somebody else's problem to solve."
 
-The statement is recorded when the prisoner speaks freely in the bare room, Vajra hears it and Orla signs it. If the prisoner is Vira, the party must first promise her the clerks' hearing, and she names the stone and the six weeks but not who sent her. She says in a cold voice that she was told nothing, which is true.
+The statement is recorded when the prisoner speaks freely in the bare room, Vajra hears it and Orla signs it. If the prisoner is Vira, the party must first promise her the clerks' hearing, and she names the stone and her six weeks but not who sent her. She tells them in a cold voice that she was told nothing, which is true.
 
 ### Vajra and the Open Lord
 
-Vajra sends word to the Open Lord by hand at midnight, because she still trusts no *Sending* from inside the Tower. The answer reaches the Tower at 07:00, in a sealed letter with the Open Lord's mark. The party is not received. Vajra reads the letter aloud in the study, standing at the window with the desk still against the wall.
+Vajra sends word to the Open Lord by hand at midnight, because she still trusts no *Sending* from inside the Tower. The answer reaches the Tower at 07:00 in a sealed letter with the Open Lord's mark, and the party is not received. Vajra reads the letter aloud in the study, standing at the window with the desk still against the wall.
 
 > [!readaloud]
 >
-> Morning light fills the study, and the broken letters have been swept into a pile in the corner. Vajra breaks a pale seal with her thumb and unfolds one sheet of heavy paper. She does not sit, and she reads in a steady voice.
+> Morning light fills the study, and the broken letters have been swept into a pile in the corner. Vajra breaks a pale seal with her thumb, unfolds one sheet of heavy paper and reads in a steady voice without sitting down.
 >
 > > "Vajra. I have read your account of last night. The Tower stands because of the people who held its door, and I wish them told so. The Lords will hear what the prisoner said."
 >
-> She turns the page over and reads the last lines slowly.
+> She turns the page over and reads the last lines more slowly.
 >
 > > "I do not forget those who protect this city. Thank them for me, and give them my name if they need it. That will be all."
 
-Vajra folds the letter into her coat and does not comment on it. If **Splinter Testimony Recorded** is marked, she says the Lords will hear the deposition on the next sitting. If a member was Charmed, Grappled or otherwise badly hurt, she asks whether they need a healer and then says "Irrelevant."
+Vajra folds the letter into her coat without comment. If **Splinter Testimony Recorded** is marked, she says the Lords will hear the deposition at their next sitting, and if a member is badly hurt she asks whether they need a healer and then says "Irrelevant."
 
 > [!gamemaster]**Recognition**
 >
-> The Open Lord's thanks is a story reward. It confers no rank, no benefit and no title. Ranks come only from **Junior Griffon**, **Senior Griffon**, **Force Grey** and **Force Grey Commander**, and public recognition is settled in **Force Grey Commander**. Laeral Silverhand does not ask the party about Manshoon, because **The Full Picture** has already told her what the Tower knows.
+> The Open Lord's thanks is a story reward that confers no rank, no benefit and no title. Ranks come only from **Junior Griffon**, **Senior Griffon**, **Force Grey** and **Force Grey Commander**, and public recognition is settled in **Force Grey Commander**. Laeral Silverhand does not ask the party about Manshoon, because **The Full Picture** has already told her what the Tower knows.
 
-If the wards sealed the Tower, Vajra tells the party that the Tower is closed for a tenday and that the Open Lord's letter will arrive by courier instead. She swears at the sealed door, at length, in her private voice.
+If the wards sealed the Tower, Vajra tells the party that the Tower is closed for a tenday and that the Open Lord's letter will arrive by courier instead. She swears at the sealed door at length, in her private voice.
 
 ### Renown Opportunities
 
@@ -184,9 +184,9 @@ If the wards sealed the Tower, Vajra tells the party that the Tower is closed fo
 
 ### Aftermath
 
-If Vira is held, Vajra keeps her in the Tower until the clerks' hearing, and she stays silent. If Vira ran, the Tower's door-wards will not admit her again, and Vajra circulates her description to the Watch. If staff were lost, Vajra attends each funeral and does not speak of it afterward.
+If Vira is held, Vajra keeps her in the Tower until the clerks' hearing and she stays silent. If Vira ran, the Tower's door-wards will not admit her again, and Vajra circulates her description to the Watch. If staff were lost, Vajra attends each funeral and does not speak of it afterward.
 
-If Tavor escaped, the cell's cellar goes with him. If he surrendered, he is held until the Lords hear the testimony.
+If Tavor escaped, the cell's last cellar goes with him, and if he surrendered he is held until the Lords hear the testimony.
 
 ### Concluding the Event
 

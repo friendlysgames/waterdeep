@@ -2,12 +2,12 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Force Grey member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists. A party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then, and the Vault does not treat it as a prerequisite. Companions can help with everything except Vajra's brief and debrief.
+> Becomes available when an individual Force Grey member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not treat it as a prerequisite, and companions can help with everything except Vajra's brief and debrief.
 >
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> The raid is a Hard fight against the Mage Tavor Aldeth with a Spy, a Tough Boss and Toughs by party size. Vira Solkan uses the **Mage Apprentice** block and runs. The **Force Grey Mechanics Reference** (section 6) audits the rosters for three, four and five combatants, the ward rules and the disruptor.
+> The raid is a Hard fight against the Mage Tavor Aldeth with a Spy, a Tough Boss and Toughs by party size. Vira Solkan uses the **Mage Apprentice** block and runs, and section 6 of the **Force Grey Mechanics Reference** audits the rosters for three, four and five combatants, the ward rules and the disruptor.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points. Renown goes to the individual Force Grey members who complete the assignment.
@@ -18,15 +18,15 @@ At 07:30 a Tower attendant named Orla Venn reaches Trollskull Manor on foot with
 
 ## Background
 
-Six weeks ago the Splinter placed Vira Solkan in Blackstaff Tower as a junior arcanist, on forged Neverwinter Academy credentials. She hid a resonance disruptor in a hollowed book on the east workroom shelf. It will drop the Tower's upper wards for four hours when she speaks its word. She carries one of a pair of sending stones, and a Splinter Mage named Tavor Aldeth carries the other.
+Six weeks ago the Splinter placed Vira Solkan in Blackstaff Tower as a junior arcanist on forged Neverwinter Academy credentials. She hid a resonance disruptor in a hollowed book on the east workroom shelf, and it will drop the Tower's upper wards for four hours when she speaks its word. She carries one of a pair of sending stones, and a Splinter Mage named Tavor Aldeth carries the other.
 
 After **Kolat Towers**, the Splinter's survivors decide to finish what Vira began. Who sent them depends on the **Manshoon operational?** result: nobody (Destroyed), a standing order from the simulacrum (Simulacrum Only) or Manshoon himself (Alive). Nobody in the mission says Manshoon's name unless **Manshoon Named** is marked for the member.
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Vajra has suspected a leak for two months. The resonance fault began six weeks ago, and she has not yet linked the two.
-> - Vira signals at 22:00 on the second night whatever the party does. The raiders reach the north service door fifteen minutes later.
-> - The Open Lord's answer is a letter that Vajra reads aloud. The party is never received.
+> - Vajra has suspected a leak for two months, and the resonance fault began six weeks ago, but she has not yet linked the two.
+> - Vira signals at 22:00 on the second night whatever the party does, and the raiders reach the north service door fifteen minutes later.
+> - The Open Lord's answer is a letter that Vajra reads aloud, and the party is never received.
 
 ## The Brief
 
@@ -34,7 +34,7 @@ Orla Venn brings the members to the Tower in person, and Vajra, who swears freel
 
 ## Forty-Three Names
 
-The roster narrows to nine names with a key to the east workroom. Only one of the nine joined the Tower in the last year.
+The roster narrows to nine names with a key to the east workroom, and only one of the nine joined the Tower in the last year.
 
 ## The Resonance
 
@@ -50,7 +50,7 @@ A forged Neverwinter certificate carries a seal that was not cut until three yea
 
 ## Vira
 
-Vira acts on three options in order: fire the disruptor, send her signal, or surrender. She runs from a fight and carries a sending stone in her sleeve.
+Vira acts on three options in order, which are to fire the disruptor, send her signal or surrender. She runs from a fight and carries a sending stone in her sleeve.
 
 ## The Breach
 
@@ -84,7 +84,7 @@ The outcomes feed **Vault of Dragons** (unconverted) and **Force Grey Commander*
 
 ## Dangers & Enemies
 
-Tavor Aldeth uses the **Mage** block, with a **Spy**, a **Tough Boss** and **Toughs** by party size. Vira uses the **Mage Apprentice** block. The wards hold the second floor for ten rounds, and the disruptor, if it fires, removes them for four hours.
+Tavor Aldeth uses the **Mage** block, with a **Spy**, a **Tough Boss** and **Toughs** by party size, and Vira uses the **Mage Apprentice** block. The wards hold the second floor for ten rounds, and the disruptor, if it fires, removes them for four hours.
 
 ## Overview
 

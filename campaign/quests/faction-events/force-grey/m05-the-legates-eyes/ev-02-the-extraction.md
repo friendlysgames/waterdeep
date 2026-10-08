@@ -193,7 +193,7 @@ After one Long Rest in the Tower's guest room, a restored Orvyn sits up with his
 
 > [!readaloud]
 >
-> Orvyn sits on the edge of the narrow bed with a blanket across his knees and a cup of tea he has not touched. He looks up when you come in and tries to stand, and Vajra's apprentice waves him back down. His voice is thin and careful.
+> Orvyn sits on the edge of the narrow bed with a blanket across his knees and a cup of tea he has not touched. He looks up when you come in and tries to stand, before Vajra's apprentice waves him back down with a gentle hand, and his voice comes out thin and careful.
 >
 > > "Thank you, all of you. I'm sorry for the trouble I've caused, and I'd like to tell you everything before I forget it."
 
@@ -217,7 +217,7 @@ After one Long Rest in the Tower's guest room, a restored Orvyn sits up with his
 
 > [!qna]**Who reached the precinct?**
 >
-> > "Ketha Rudd, a Guild accountant with a magistrate's seal she shouldn't have had, and Alder Yost, a solicitor who collected the dockets. I'd know them anywhere."
+> > "Ketha Rudd, a Guild accountant with a magistrate's seal she shouldn't have had, and Alder Yost, a solicitor who collected the dockets, and I would know both of them anywhere."
 
 > [!qna]**The amended report?**
 >
@@ -233,25 +233,25 @@ Vajra tells the members that Jalester Silvermane will want the two Guild names, 
 >
 > Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean, thinning-haired field agent in a dark doublet who asks one question more specific than the conversation needs.
 >
-> Jalester thanks the members for the names and writes both down. He will have two Alliance watchers follow the pair. He will not discuss the Open Lord's business.
+> Jalester thanks the members for the names and writes both down, and he will have two Alliance watchers follow the pair. He will not discuss the Open Lord's business.
 
 > [!qna]**Why do you want them?**
 >
-> > "Understood. The Open Lord wants the Watch's appeals kept clean, and I can follow people the Tower can't. One more detail, if you don't mind: which of them signs the dockets?"
+> > "Understood, and thank you for asking. The Open Lord wants the Watch's appeals kept clean, and I can follow people the Tower can't. One more detail, if you don't mind: which of them signs the dockets?"
 
 Nothing is marked and no Renown is awarded for sharing the names. If the party shares them with the Lords' Alliance, Vajra notes it in the positive column and says nothing more.
 
 ### Vajra's Debrief
 
-Vajra takes the members' report the evening the case ends, or at 09:00 the next morning, at the standing desk. Companions wait at the street door. Read the case that fits.
+Vajra takes the members' report at the standing desk the evening the case ends, or at 09:00 the next morning, while companions wait at the street door, and you read the case that fits.
 
 If **Orvyn Restored** is marked and no Watch review opened, read the following:
 
 > [!readaloud]
 >
-> Vajra reads the report standing, with her pen still. When she turns the last page, she sets it down beside the ledger.
+> Vajra reads the report standing with her pen still, and when she turns the last page she sets it down beside the ledger on the desk.
 >
-> > "He's awake, he's himself, and nobody in the Watch has written a word about it. The ledger names every case the thing touched, so the magistrates can undo them one at a time. I'll audit the other district clerkships myself."
+> > "He's awake, he's himself, and nobody in the Watch has written a word about it. The ledger names every case the thing touched, so the magistrates can undo them one at a time. I'll audit the other district clerkships myself, starting tomorrow."
 
 If **Orvyn Restored** is marked and a Watch review opened, read the following:
 
@@ -259,15 +259,15 @@ If **Orvyn Restored** is marked and a Watch review opened, read the following:
 >
 > Vajra reads the report and her mouth tightens at the second page. She puts the pen down and breathes out through her nose.
 >
-> > "Shit. The clerk is whole and the review is open, so for fourteen days every request I send the Watch is logged. It could have been worse, but it'll be tedious. Leave me the ledger, and I'll start the audit anyway."
+> > "Shit, the clerk is whole and the review is open. For fourteen days every request I send the Watch is logged, which is tedious but survivable. Leave me the ledger, and I'll start the audit anyway."
 
 If **Orvyn Lost** is marked, read the following:
 
 > [!readaloud]
 >
-> Vajra says nothing for a moment, and her hand rests flat on the notebook. She does not look up when she speaks.
+> Vajra says nothing for a moment, and her hand rests flat on the notebook while she stares at the window behind you. She does not look up when she finally speaks.
 >
-> > "A clerk died in the Trades Ward, and the Watch will ask why. I'll be asked too, and I'll answer. Leave me the report. We'll speak again when I'm ready."
+> > "A clerk died in the Trades Ward, and the Watch will ask why, so I'll be asked as well. Leave me the report, and we will speak again when I'm ready."
 
 If **Orvyn Left in Place** is marked, read the following:
 
@@ -275,18 +275,16 @@ If **Orvyn Left in Place** is marked, read the following:
 >
 > Vajra turns the report over and reads the back of the last page with her jaw set.
 >
-> > "He's still in there, and I don't like it. I'll have a Tower clerk watch him every day. When the Guild stops looking at him, we do this properly."
+> > "He's still in there, and I don't like it at all. I'll have a Tower clerk watch him every day until the Guild stops looking, and then we do this properly."
 
 If **Orvyn Ledger Delivered** is marked, Vajra adds that the ledger is in a locked drawer of her own desk and that she has read it twice.
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Force Grey member gains 4 base Renown for settling the matter with Vajra, however Orvyn ended. Companions gain none.
+> Each participating Force Grey member gains 4 base Renown for settling the matter with Vajra, however Orvyn ended. Companions gain none, and each bonus can be earned only once.
 >
 > - **+1 Renown:** Orvyn is extracted alive, **Orvyn Restored** is marked and no Watch review opened.
 > - **+1 Renown:** the ledger reaches Vajra, and **Orvyn Ledger Delivered** is marked.
->
-> Each bonus can be earned only once.
 
 ### Aftermath
 
@@ -300,9 +298,9 @@ Vajra's debrief ends the mission. Record what happened to Orvyn and what happene
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Orvyn Restored** — mark when Orvyn is alive and free of the devourer; read by **Smoke in the Tower** (unconverted) and the **Force Grey** rank event (unconverted).
-> - **Orvyn Lost** — mark when Orvyn dies; read by **Smoke in the Tower** (unconverted) and the **Force Grey** rank event (unconverted).
-> - **Orvyn Left in Place** — mark while the party deliberately keeps the occupation; read by **Smoke in the Tower** (unconverted) and the **Force Grey** rank event (unconverted).
+> - **Orvyn Restored** — mark when Orvyn is alive and free of the devourer; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
+> - **Orvyn Lost** — mark when Orvyn dies; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
+> - **Orvyn Left in Place** — mark while the party deliberately keeps the occupation; read by **Smoke in the Tower** (unconverted) and **Force Grey** (the r25 rank event).
 > - **Orvyn Ledger Delivered** — mark when the ledger is in Vajra's hands; read by **Smoke in the Tower** (unconverted) and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**
