@@ -32,7 +32,7 @@ Vajra's *Sending* calls the members to the Tower, where she gives them the pool'
 
 ## The Wing
 
-At X23 the party meets the first of four enthralled guards, who wake only when Nihiloor, his pet or an alarm does. X24 holds the placement records, with Orvyn Dall's folio among four, and X25 holds the pool, the twelve specimens, the pet and the captive. A party that takes one of these quietly has about two rounds before Nihiloor arrives.
+At X23 the party meets the first of four enthralled guards, who wake only when Nihiloor, his pet or an alarm does. X24 holds the placement records, with Orvyn Dall's folio among four, and X25 holds the pool, the twelve specimens, the pet and the captive. A party that takes any one of these without a sound has about two rounds before Nihiloor arrives, because he feels the loss through his programme.
 
 ## The Pool
 
