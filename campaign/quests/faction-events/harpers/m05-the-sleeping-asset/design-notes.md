@@ -1,17 +1,23 @@
 # Design Notes: The Sleeping Asset
 
-## On the Diagnostic Structure
+## What the Source Gave
 
-***Three H4 beats under one detection phase.*** The source material describes Corene's wrongness in a block of undifferentiated prose. The revision structures the detection across three diagnostic approaches — Insight on surface behavior, Arcana/Medicine on physical signs, and Detect Thoughts on the psychic layer — because each approach reveals something different and at a different tier of engagement. A party that only looks at Corene casually fails the Insight check and finds nothing odd. A party that engages in sustained conversation surfaces the flat affect. A party that casts Detect Thoughts discovers the devourer is aware. These are three distinct discoveries, not three ways to reach the same one.
+Neither Waterdeep: Dragon Heist nor the Appendices contain this mission. The guide gives one line for it and one line promising a double agent, and Corene Wyldath's Notable Figures page gives the rest: four months in the Dock Ward, a shift three weeks ago, and a woman who is still in there. The mission is built from those lines. The devourer is Nihiloor's, as the setting page says.
 
-***The devourer knows about the spell.*** This is the mission's most important tactical note and is placed in the GM zone rather than the scene description because it determines the devourer's behavior for the rest of the encounter. If the party does not use Detect Thoughts, the devourer does not tip its hand. If they do, it knows they know. What the devourer does next — in a brain, in a social situation, while Corene is pretending to be fine — is genuinely unsettling to run.
+## What Changed
 
-## On the Resolution Paths
+The previous version cured Corene with a curse-lifting spell the 2024 rules do not give a devourer, and it gave Remallia a spell she does not have. The 2024 intellect devourer eats the host's brain and only *Wish* restores it. Both facts were wrong for a rescue, so the mission uses the custom **Occupying Devourer** from the **Harpers Mechanics Reference**. It keeps the brain alive, and the party forces it out through Hold, Breaks and Strain, by ward, by magic or by an anchor.
 
-***No obviously correct answer.*** The extraction is the best outcome for Corene as a person and yields the most intelligence. The double-agent option plants a false piece of information inside the lair before Arc F, which is mechanically valuable but carries real risk. Killing her is grim and yields nothing but removes an active surveillance problem. The mission does not punish the kill option with extra consequences — it simply forfeits the intelligence the other paths recover. Mirt accepts the outcome without comment. That acceptance is intentionally uncomfortable.
+The mission is two events. **The Sleeping Asset** finds and diagnoses Corene, and **The Extraction** holds the procedure, the three endings and the register. The mole sits in the second event because two of its three paths depend on the first event's results, and because the party can start any of them early. The mole is Tobin Harrask, and the three paths are the dates of the incidents, the customs-house pickup and Corene's memory.
 
-***The double agent's planted intelligence.*** If the double-agent path is chosen, the false information Mirt plants should be specific and consequential — guard patrol timing that creates a window in Arc F, a dummy meeting location that reveals a surveillance gap, or a name that draws attention away from the correct one. The DM should decide what was planted before Arc F begins, because the party will encounter the effect of it in the lair without knowing whether their plant succeeded.
+## Departures from the Source
 
-## On Nihiloor
+Corene is a Spy under cover as Halla Ironstave for four months, not six. The twelve-day implant is dropped, since the Notable Figures page says three weeks. The Nihiloor link is now carried by Guild minders, and the previous daily 18:00 report is gone. The false-report ending uses a warehouse response of forty-five minutes and nothing larger. Remallia supplies one casting of *Dispel Magic* and no more.
 
-***The Nihiloor connection is DM-only.*** The fact that Corene's devourer is one of Nihiloor's is in the Background block, not the player-facing scene. The party learns this in the Arc F briefing hooks when Mirt offers tactical support in exchange for committing to eliminating Nihiloor. "Three devourers. Three of ours." The Sleeping Asset is the evidence behind that bargain. When the party hears it in the Arc F briefing, it has emotional weight because they saw what it looked like.
+Corene's intelligence is written for two states of **Xanathar's Lair**. Before the heist it labels the deliveries to Nihiloor's rooms. After the heist it names the remaining Guild sites and puppets.
+
+## Invented Names and Open Items
+
+Invented: Tobin Harrask (renamed from Orren Vale), Beldan Rusk, Wil Keen (renamed from Harl Keen), Pell Tormar, Sella Brant, Dalen Voss, and the places Three Lanterns House at 7 Windborne Way, the records room at 19 Brondar's Way and Mirt's cellar off Sorn Street. The relay's 17:00 close and the 17:30 drop are mine, and they are how "exactly 48 hours" from **The Cell Is Compromised** is kept at the table.
+
+Open: Dalen Voss's fate is unwritten, and **Harper Mole Identified** has only an in-event reader. **Xanathar's Lair** and **Kolat Towers**, both unconverted, are named as readers.

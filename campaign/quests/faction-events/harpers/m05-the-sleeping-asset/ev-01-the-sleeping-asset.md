@@ -1,114 +1,187 @@
 # The Sleeping Asset
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social and Exploration Event begins when Mirt arrives at Trollskull Manor before dawn after **A Friend's House**. It ends when the party has met Corene Wyldath at the plaza bench and knows what is wrong with her. In this Event, the party can:
 >
-> This Exploration/Social Event begins when Mirt arrives at Trollskull Manor before dawn and ends when Corene's situation is resolved. In this Event:
+> - Hear Mirt's brief about Corene, who has missed her check-ins for three weeks.
+> - Follow three independent leads to the Trades Ward plaza bench where she meets her contacts.
+> - Add a fourth lead through Saeth Cromley if **Salon Guest Leads Recorded** is marked.
+> - Talk to Corene and find out, by several separate methods, that something rides in her skull.
 >
-> - Three independent investigation beats locate Corene in the Dock Ward.
-> - She is found at her regular meeting point in the Trades Ward plaza — looking fine, saying all the right things.
-> - Detection requires sustained interaction, not a single roll; Detect Thoughts reveals the devourer is aware of the spell.
-> - Three resolution paths: extract the devourer, kill her, or use her as a double agent.
-> - The resolution determines what tactical intelligence reaches the Harpers for Arc F.
+> Only Harper members attend the brief and the debrief. Companions can help with everything in between.
 
-**Background (DM only)**
-
-Nihiloor implanted the intellect devourer twelve days ago. The devourer is using Corene as a surveillance asset: she has been attending Harper contact meetings and reporting everything back. She is not in distress. She is not a prisoner. She genuinely appears functional. Nothing about her surface behavior is wrong except for things that require close observation or specific diagnostics to notice.
-
-Nihiloor's devourers have touched three Harper assets total — this fact is in the Arc F briefing hooks, where Mirt offers tactical support for the lair heist if the party commits to eliminating Nihiloor. Corene's situation is the evidence behind that request.
-
-The connection between Corene's devourer and Nihiloor is psychic. Detect Thoughts that penetrates below the surface layer reaches the devourer's monitoring function — and the devourer knows the spell is active the moment it is cast.
-
-### Phase 1 — The Search
-
-Mirt's briefing: a halfling Harper informant named Corene Wyldath, embedded in Xanathar's Dock Ward operation for six months, stopped checking in three weeks ago. She used the assumed name "Halla Ironstave" in the Dock Ward. She is not dead — Mirt would know if she were dead. He does not know what is wrong.
-
-Three independent investigation beats to locate her:
-
-**Harper Dock Ward Contacts (Renown 3+):** They describe seeing a halfling woman matching Corene's description at a Guild warehouse on Shrimp Street three weeks ago, during a Watch sweep. She was unusually calm. No one with six months in this work stays that calm during a sweep.
-
-**The Harbormaster's Assistant:** A minor Harper sympathizer. He saw her twice recently at Guild meetings she had no reason to attend as cover — a Guild cargo review that handles routing decisions, not street-level work.
-
-**The Boarding House:** Asking in the Field Ward under the name "Halla Ironstave" finds her landlord: she paid three months in advance last week. Not like her.
-
-All three leads converge on her regular meeting point: a specific bench in the Trades Ward plaza she uses for dead drops.
-
-### Phase 2 — The Encounter
-
-Corene is at the bench at the expected time. She looks fine. She is alert, well-rested, and says all the right things about her absence: a Guild operation she had to stay close to, no opportunity to check in safely.
-
-> **[GM]**
+> [!gamemaster]**What Is Actually True**
 >
-> #### What Is Wrong with Her
-> The tells are subtle and require engagement to surface — not visible on first glance.
+> - Corene Wyldath is a halfling Spy who has worked in the Dock Ward for four months as Halla Ironstave, a warehouse accounts runner.
+> - Three weeks ago one of Nihiloor's devourers took her. It keeps her brain alive, so Corene is aware but cannot act or speak.
+> - Guild minders watch the plaza and carry the devourer's reports to Nihiloor.
+> - Her reports are still accurate because the devourer knows everything she knew. Her questions have changed to who, where and how many Harpers.
+> - Mirt does not know any of this and does not guess at it. He says only that he has a bad feeling.
+> - Mirt briefs the leak as well. If **Harper Leak Known** is not marked for a member, he says in one sentence that the Splinter has acted on Harper-only information.
+
+### The Brief
+
+Mirt comes in at 05:00 through the back door of the taproom and sits at a table with the key he had copied. If the party lives elsewhere, he waits at the rear door of their lodging. Only Harper members sit with him.
+
+> [!readaloud]
 >
-> - Her eye contact is too steady. People who have been doing tense fieldwork for three weeks have involuntary breaks; hers do not.
-> - Her speech is too considered. Every sentence has a half-second of preparation before it arrives — not hesitation, processing.
-> - **DC 15 Wisdom (Insight)** during conversation catches both patterns together and identifies them as wrong.
-> - **DC 12 Intelligence (Arcana) or Wisdom (Medicine)**, made after sustained interaction (at least five minutes of conversation): identifies signs of intellect devourer occupation — flat affect, absence of involuntary reactions, a faint smell of psychic residue that is hard to place.
+> The taproom is dim and smells of last night's ale when you come downstairs. Mirt sits at the corner table in his plain brown coat with a key on the wood in front of him. He pours nothing, and he waits until the door to the private room is shut before he speaks.
+>
+> > "Sit down, all of you. Corene Wyldath has missed three check-ins, and I want to know what happened to her before I ask her for anything."
 
-If she realizes they are getting close, she tries to extract more information before tipping off her handler. She asks specific questions about the party's current plans and location. A PC who notices this (**DC 14 Wisdom/Insight**) recognizes it as intelligence-gathering.
+> [!social]**Mirt at Dawn**
+>
+> Mirt (Chaotic Good, Illuskan Human, he/him) :: a big man in plain brown wool who has not slept and does not hide it.
+>
+> He is in business mode, which means short, complete sentences, no jokes, no swearing and his hands flat on the table. He refills no glasses. He is worried about Corene without saying so.
+>
+> Mirt will discuss the following topics:
+>
+> - Corene's cover, her four months in the Dock Ward and the three leads he can give.
+> - The records relay and the leak, in the terms the members already know.
+> - What he has for the party, which is holy water and a cellar.
+>
+> Mirt will not guess at what has happened to her, and he will not name anyone in the relay as a suspect.
 
-Detect Thoughts: surface thoughts are flat and controlled, stripped of Corene's fear and improvisation. Below that, she is monitoring the PCs and reporting back. The thing thinking through her is aware of the spell the moment it is cast. It does not react visibly — but it knows.
+> [!qna]**Where do we start?**
+>
+> > "Wil Keen is my courier, and he'll meet you outside the Shrimp Street warehouse at ten. Pell Tormar is at the Harbormaster's cargo office until five, and Sella Brant keeps a boarding house at seven Windborne Way."
 
-### Phase 3 — Resolution
+> [!qna]**What do we ask her?**
+>
+> > "Ask her about her first warehouse tally, when rain ruined it and she recopied the whole thing. She complained about wet paper for a week, and she'll tell it the way she told me."
 
-**Extract the Devourer**
+> [!qna]**Could she be dead?**
+>
+> > "I'd have heard something from the Guild if she were. She's alive and somebody is keeping her quiet, and that's all I have."
 
-Requires locating the devourer inside the skull (a **DC 15 Arcana** check, assisted by Detect Thoughts or similar), then magically expelling it.
+> [!qna]**What about the leak?**
+>
+> > "That's a different job in the same week. Here's a note signed by me for the records room at nineteen Brondar's Way, so look at the register once you've found her and tell no one in that room why."
 
-- **Telekinesis** is the most direct approach. The devourer makes a **DC 16 Strength saving throw** to resist; on failure, it is expelled and immediately hostile (Intellect Devourer stat block).
-- **Banishment** works if the caster succeeds on a **DC 14 Arcana** check to target the devourer rather than the host.
-- Any spell that forcibly moves or displaces a Tiny creature within a confined space achieves the same result.
+> [!qna]**What help can you give us?**
+>
+> > "I have a cellar off Sorn Street where you can hold someone behind a door that locks, and two vials of holy water. I won't sit across from her myself, because if something has her I know too much to be in the room."
 
-If successfully expelled: the devourer is hostile and attacks. It is Tiny and has limited combat options outside a host. The real Corene needs a Long Rest before she can be debriefed.
+### Three Leads
 
-After the Long Rest, Corene's intelligence: six months of Xanathar Guild Dock Ward operations, two guard captain names, and the layout of one Dock Ward distribution warehouse. The devourer's psychic link to Nihiloor is severed — Nihiloor knows nothing of the extraction until his link goes dead.
+All three leads end at the same place, the west bench by the public well in the Trades Ward plaza. Corene sits there every day from 16:00 to 16:30 to meet contacts. Each lead gives the place and the time without a check once the members ask about a halfling woman named Halla.
 
-**Kill Her**
+> [!social]**The Courier**
+>
+> Wil Keen (Neutral Good, Waterdhavian Human, he/him) :: a Harper courier in his thirties who works the Dock Ward and wears the grey of a dock carter.
+>
+> Wil meets the members outside the Shrimp Street warehouse at 10:00. He saw Corene three weeks ago during a Watch sweep, standing in the loading room with her hands folded while everyone else shouted. He has not liked it since.
+>
+> > "Halla was calm in the middle of that sweep, and nobody is calm at a sweep. I saw her again yesterday and she asked me who you people were, which she never has."
 
-Grim. Mirt accepts it without comment when informed. The devourer-Corene reports a breach before dying — Nihiloor knows the Harpers are onto the deception. The Xanathar Guild goes to increased alert in the Dock Ward for two weeks.
+> [!qna]**Where do we find her?**
+>
+> > "Every day at four she's on the west bench by the plaza well, and she stays for half an hour. I'd go in daylight and I wouldn't bring a crowd."
 
-**Leave Her in Place — Double Agent**
+> [!social]**The Harbormaster's Assistant**
+>
+> Pell Tormar (Lawful Good, Waterdhavian Human, he/him) :: a clerk at the Dock Ward cargo office and a quiet Harper sympathizer.
+>
+> Pell is at the cargo office from 09:00 to 17:00. He saw Corene at a Guild cargo review that handles routing, which she has no reason to attend.
+>
+> > "She sat through two routing meetings this week, and she used to drop the papers and leave. This time she asked where everything was going, and then she said she'd be at the well at four."
 
-The Harpers feed false information through her dead drop for the next tenday. Mirt plants one false piece of intelligence into Nihiloor's awareness: guard patrol timing, a dummy meeting location, or a name that does not exist. This intelligence is now inside Xanathar's lair before the party enters it in Arc F.
+> [!social]**The Landlady**
+>
+> Sella Brant (Lawful Neutral, Waterdhavian Human, she/her) :: the keeper of Three Lanterns House, 7 Windborne Way in the Field Ward, who is home all day.
+>
+> Sella is practical and dislikes surprises. Halla paid three months' rent in advance last week and has slept at the house most nights since. That is new, and Sella says so.
+>
+> > "She told me to look for her at the well if I needed her signature, at four o'clock on the west bench. I'd have thought she'd be away more, to be honest."
 
-High risk: Nihiloor is intelligent and may detect the manipulation. If the planted information contradicts something he can verify independently, the deception collapses.
+> [!exploration]**Saeth's File**
+>
+> If **Salon Guest Leads Recorded** is marked, Saeth Cromley meets the members at the North Ward Watch post at 09:00. He has pulled the file on Dalen Voss, a Watch officer who vanished two months ago. Dalen met a halfling informant at the plaza well every tenday, though the file does not say who.
+>
+> Anyone who reads it and makes a successful DC 12 Intelligence (Investigation) check sees that Dalen's weekly meeting was at the west bench at 16:00. On a failure, Saeth points it out. Dalen's name is an anchor for the Extraction in **The Extraction**, and the members hold it whether or not the check succeeds.
+
+### The Bench
+
+Corene arrives at 16:00 and is at the bench when the members come. The plaza around the well is busy with water-carriers and stall-keepers. Two Guild minders in dock-carter coats stand at a pie stall forty feet away, and a third watches from a doorway. They do not approach unless the members move on Corene.
+
+> [!readaloud]
+>
+> The plaza is busy with people filling buckets at the well and crossing between the stalls. On the west bench a halfling woman sits with a wrapped account book on her knees, watching the crowd. She turns her head when you come near and moves along the bench to make room.
+>
+> > "You're the contact. Good. We have about ten minutes, so tell me who's reading the reports now and who else is on this."
+
+> [!social]**The Woman at the Well**
+>
+> Corene Wyldath (Neutral Good, Halfling, she/her) :: a Spy whose cover is perfect and whose attention is not hers.
+>
+> Corene answers in short report sentences, and every answer arrives half a second after the question. She holds eye contact a beat too long. She asks for names and locations whenever she can, and she does not swear or joke.
+>
+> Corene will discuss the following topics:
+>
+> - Her Guild work, which she reports in detail and correctly.
+> - Why she missed her check-ins, which she says was a Guild operation she could not leave.
+> - Who the members are, whom they report to and who else is helping.
+>
+> Corene will not discuss anything personal, and she deflects any question about herself with "I'm fine. Next question."
+
+> [!qna]**Why didn't you check in?**
+>
+> > "The Guild watched every route out of the warehouse, so I stayed where the papers were moving. Confirmed. Who else is on this?"
+
+> [!qna]**What happened with your first tally?**
+>
+> Corene holds the book against her knees and recites the account without looking at it.
+>
+> > "Rain spoiled the tally, so I recopied the figures and delivered before the next collection. The totals were correct."
+
+> [!qna]**Why did that matter to you?**
+>
+> She pauses, then turns the book toward the crowd.
+>
+> > "The totals were correct. Who receives your reports now? I need the current names."
+
+> [!qna]**You keep asking about us.**
+>
+> > "I'm fine. Next question. I have to know where the account is going before I hand it over."
+
+> [!exploration]**What Is Wrong with Her**
+>
+> The members can find out what is wrong with Corene in five ways, and each is enough on its own. A failed attempt teaches the devourer nothing.
+>
+> - **Eye contact and speech.** A character who talks with her for a minute and makes a successful DC 15 Wisdom (Insight) check sees that her answers arrive late. Her eyes do not follow the crowd, so something is wrong with her mind.
+> - **Her questions.** A character who listens to what she asks and makes a successful DC 14 Wisdom (Insight) check sees that she is gathering the names of Harpers. She asks nothing about the Guild.
+> - **Close study.** A character who spends five minutes beside her and makes a successful DC 12 Intelligence (Arcana) or Wisdom (Medicine) check finds no spell and no disease. The pupils lag, and something rides in her skull.
+> - **Her tally.** A character who compares her account with Mirt's version finds her recitation exact and her reaction to it missing. The real Corene complained about wet paper for a week.
+> - *Detect Evil and Good* senses an Aberration within 30 feet and does not alert it. *Detect Thoughts* shows two minds in one head, one of them muffled, and alerts the devourer.
+>
+> An alerted devourer stops pretending and the Guild minders close in. Use the Hard roster in **The Extraction**.
+
+If the party goes back to Mirt with a diagnosis, he is silent for a moment. He asks what the devourer knows and whether it saw their faces, and then he tells the members how he wants it done:
+
+> [!readaloud]
+>
+> Mirt writes nothing down and sits with his hands flat on the table, then turns one over and looks at the palm.
+>
+> > "Get her out of that plaza without a fight in front of people, and tell her I'll meet her in the cellar off Sorn Street. It will want that. Bring her alive if you can, and keep it away from anyone who's been hurt."
 
 ### Concluding the Event
 
-> **[GM]**
->
-> **+1 Renown if** Corene is extracted alive with the devourer removed. Her six months of Dock Ward intelligence goes to the Harpers intact; she can continue field work after recovery.
-> **+1 Renown if** the double-agent option is chosen and Mirt confirms the planted intelligence reached Nihiloor. One false piece of tactical information is now inside Xanathar's lair before the party enters.
+The Event ends when the members know what rides in Corene and have decided to move her. Nothing is awarded here, so continue with **The Extraction**.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> This Event marks no outcomes, and **The Extraction** marks all of them.
+
+> [!gamemaster]**Next Steps**
 >
-> Resolving this mission activates the Renown 30+ Harper benefit: informants in Xanathar's Guild. If Corene is saved or used as a double agent, the Harpers provide one tactical intelligence package for **Arc F — Xanathar's Lair**: patrol schedule for one section of the lair, or the location of Nihiloor's lab. If she is killed, that intelligence is lost but the Splinter operation is revealed to Mirt, who passes it to Vajra Safahr. Force Grey takes a greater interest in Xanathar's lair and may be active there when the party enters.
->
-> Mirt, after the resolution: "Three devourers. Three of ours. Nihiloor's been running an asset collection operation inside this city for months." He closes his notes. "When you go in — finish it."
->
-> **Harper Mission 6 — The Stone's Other Master** becomes available when the party reaches Renown 13 and 7th level, and the Stone of Golorr has been partially awakened.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
+> Continue with **The Extraction**. **The Sleeping Asset** awards no Milestone Points.
 
 ## Overview
 
-A Harper informant embedded in Xanathar's Dock Ward operation stopped checking in three weeks ago. Mirt needs to know if she is dead, captured, or something worse. She is something worse.
-
-## Read Aloud
-
-> Mirt comes in through the back door of Trollskull Manor — which means he had a key copied at some point — and sits down in the taproom with an untouched drink until someone comes downstairs.
->
-> > > "I need to know if she's dead, captured, or something worse. And if it's something worse: I need you to handle it."
->
-> He looks like he has not slept.
+Mirt asks the Harper members to find a Spy who has stopped reporting, and three leads take them to a bench in the Trades Ward plaza where she looks fine and answers wrongly.
 
 ## Summary
 
-The party located Corene Wyldath, a Harper informant embedded in Xanathar's Dock Ward operation, at her regular dead drop bench in the Trades Ward. She had been hosting an intellect devourer for twelve days. The devourer was aware of the investigation. The party's resolution — extraction, elimination, or controlled deception — determined what tactical intelligence the Harpers could bring to the Xanathar lair heist.
+Mirt came to the taproom before dawn and told us Corene Wyldath had missed three weeks of check-ins. We followed three leads to a plaza bench in the Trades Ward and found a woman who answered every question a beat too late, with something riding in her head.
