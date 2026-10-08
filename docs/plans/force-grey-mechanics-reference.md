@@ -340,7 +340,7 @@ Every spell name and level below is checked against the 2024 *Player's Handbook*
 
 ### r03 preparatory spell (level 3 or lower, once per tenday, 2 days' notice)
 
-Vajra casts it on the member and their companions before a mission. Fixed list of six: *Nondetection* (3rd), *Water Breathing* (3rd), *See Invisibility* (2nd), *Tongues* (3rd), *Darkvision* (2nd), *Protection from Energy* (3rd). *Speak with Dead* from R is dropped (needs a corpse and Vajra does not cast blind). Durations are the PHB's and are stated in the event.
+Vajra casts it on the member and their companions before a mission. Fixed list of six: *Nondetection* (3rd), *Water Breathing* (3rd), *Longstrider* (1st; Touch, 1 hour; replaces *See Invisibility*, which is Self range in 2024 and cannot be cast on others), *Tongues* (3rd), *Darkvision* (2nd), *Protection from Energy* (3rd; Concentration, 1 hour, held by Vajra from the Tower). *Speak with Dead* from R is dropped (needs a corpse and Vajra does not cast blind). Durations are the PHB's and are stated in the event: Nondetection 8 h (Touch), Water Breathing 24 h (30 ft), Tongues 1 h (Touch), Darkvision 8 h (Touch).
 
 ### Gray Hand consumable (one per mission that needs it)
 
