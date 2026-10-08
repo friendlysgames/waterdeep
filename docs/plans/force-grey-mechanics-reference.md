@@ -17,7 +17,7 @@ CR 2.0 audits for every Force Grey fight, Nihiloor as a boss, the Splinter raid 
 - Heuristic of mine (as HMR): Power is the square root of HP x DPR, so a creature with half the HP pool has about 0.71 of the Power. A creature that spends half its actions running contributes about half.
 - Combatant counts include non-member companions. Bystanders, captives, victims, spawn and Vajra are never counted.
 - **First-turn KO check.** The skill adds 4 to CR when a monster can kill or KO a PC on turn one. It applies to the 2024 Mage (HMR section 1 note) and to Nihiloor's full kit (section 4). It does not apply to the Warrior Veteran, the Occupying Devourer (HMR section 5), the Tough, or the Mage Apprentice.
-- **Source status.** Blocks verified in HMR against 2024 *Monster Manual* records: Spy, Doppelganger, Mage, Tough, Tough Boss, Warrior Veteran, Scout, Guard, Commoner (CRs only), Intellect Devourer base, Mage Apprentice (CR 2, listed in HMR line 13). Everything else here is written from memory of the 2024 books because no data file was available this session. Each such item is marked **(unverified)** where it appears and collected in the Verification table at the end.
+- **Source status.** Blocks verified in HMR against 2024 *Monster Manual* records: Spy, Doppelganger, Mage, Tough, Tough Boss, Warrior Veteran, Scout, Guard, Commoner (CRs only), Intellect Devourer base, Mage Apprentice (CR 2, listed in HMR line 13). The main session then checked every block, spell, potion and item here against the 2024 5etools data (XMM, XPHB, XDMG) and corrected the values. The Verification table at the end records the result.
 
 ## 1. Party Power and ally rules
 
@@ -47,7 +47,7 @@ Party Power from the level table (L2 14, L3 18, L4 23, L5 32, L6 35, L7 41, L8 4
 
 **Zelifarn is a Young Bronze Dragon** (WDH and the Zelifarn guide). He is a non-combat contact in M2 and the party never needs to fight him.
 
-**Block summary (unverified, from memory of the 2024 *Monster Manual*):** Large Dragon (Metallic), Lawful Good. CR 8 (XP 3,900), PB +3. AC 17, HP 142. Speed 40 ft., Fly 80 ft., Swim 40 ft. Multiattack: Rend three times (about 15 piercing each at +7). Breath Weapons (Recharge 5-6): Lightning Breath (60-ft Line, Dexterity save DC 15, about 55 lightning) or Repulsion Breath (30-ft Cone, Strength save, pushed 40 ft). Amphibious. Damage immunity: lightning. Use the printed XMM block if the table fights him; the number that matters here is Power.
+**Block summary (verified against the 2024 XMM data):** Large Dragon (Metallic), Lawful Good. CR 8 (XP 3,900), PB +3. AC 17, HP 142. Speed 40 ft., Fly 80 ft., Swim 40 ft. Multiattack: three Rend attacks (+8, 16 Slashing each); one can be replaced by Repulsion Breath. Lightning Breath (Recharge 5-6): 60-ft by 5-ft Line, DC 15 Dexterity save, 49 Lightning, half on a success. Repulsion Breath: 30-ft Cone, DC 15 Strength save, pushed 40 ft and Prone. Amphibious. Damage immunity: lightning. Use the printed XMM block if the table fights him; the number that matters here is Power.
 
 | Roster | Power (Tier 1, CR 8) | 3 PCs (54) | 4 PCs (72) | 5 PCs (90) |
 |---|---|---|---|---|
@@ -55,14 +55,14 @@ Party Power from the level table (L2 14, L3 18, L4 23, L5 32, L6 35, L7 41, L8 4
 
 - **Why the party should not fight him (one line):** a single breath can drop a level-3 PC (Power 105 is more than 5 times a PC's 18), and he simply submerges and does not come back, so the party gets nothing and loses the contact.
 - **If attacked:** he uses Repulsion Breath once if he is cornered, then dives, swims out of the harbor and does not resurface. Mark nothing as **Zelifarn Contacted** if no real conversation happened.
-- **Water breathing.** The M2 vials are *potion of water breathing*. 2024 duration is 1 hour per potion (unverified; the research reports and R say 30 minutes). The Descent clock is whatever the page states, so the page must state the duration it uses.
+- **Water breathing.** The M2 vials are *potion of water breathing* (Uncommon). The 2024 potion lasts **24 hours** (verified, XDMG), so it is not a clock. Pressure in M2 comes from Meritide's 48 hours or from Zelifarn's patience.
 
 ## 3. M3 The Trouble with Meloon (level 4, Tier 1)
 
 Party Power 69 / 92 / 115. Bruising budgets 41.4 / 55.2 / 69. Bloody 51.75 / 69 / 86.25.
 Tier 1 Power: Warrior Veteran (CR 3) 37, Occupying Devourer (CR 2) 28.
 
-**Hosted Meloon** uses the Warrior Veteran block (AC 17, 58 HP, Greatsword twice and Parry per HMR 5.3; numbers unverified). The devourer inside keeps Total Cover and does not fight while hosted. **The expelled devourer** is the HMR 5.1 block. **Azuredge stays outside the numbers.** Hosted Meloon never draws it. HMR line 418: if a host ever used it, treat the Veteran as CR 4 (Tier 1 Power 48; combined 76).
+**Hosted Meloon** uses the Warrior Veteran block (AC 17, 65 HP, Greatsword twice and Parry; verified against the 2024 XMM data). The devourer inside keeps Total Cover and does not fight while hosted. **The expelled devourer** is the HMR 5.1 block. **Azuredge stays outside the numbers.** Hosted Meloon never draws it. HMR line 418: if a host ever used it, treat the Veteran as CR 4 (Tier 1 Power 48; combined 76).
 
 ### HMR audit as cited (level 4 line, HMR section 5.4)
 
@@ -78,7 +78,7 @@ HMR's combined row is conservative. The two never fight together: Meloon's body 
 | PCs | Wave 1: hosted Meloon (37) | Wave 2: expelled devourer (28) | Total (heuristic) | Day Cost |
 |---|---|---|---|---|
 | 3 | 28.8% Bruising (4) | 16.5% Mild (2) | 45.3% Bloody | 6 |
-| 3, lever: Meloon starts at 29 HP (Power about 26) | 14.2% Mild (2) | 16.5% Mild (2) | 30.7% Bruising | 4 |
+| 3, lever: Meloon starts at 32 HP (Power about 26) | 14.2% Mild (2) | 16.5% Mild (2) | 30.7% Bruising | 4 |
 | 4 | 16.2% Mild (2) | 9.3% Mild (2) | 25.5% Bruising | 4 |
 | 5 | 10.4% Mild (2) | 5.9% Mild (2) | 16.3% Mild | 4 |
 
@@ -89,7 +89,7 @@ HMR's combined row is conservative. The two never fight together: Meloon's body 
 ### Tactics, thresholds, end conditions
 
 - Hosted Meloon fights like a Warrior Veteran: Greatsword twice, Parry when hit. He never speaks, never swears, never draws Azuredge. He goes for whoever is working on him (a caster holding Concentration on the ward is the first target).
-- Each failed attempt costs Strain, capped at half his max HP (29) per attempt and never below 1 HP (HMR 5.3). The party does not need to bring him down. If Meloon dies, the devourer is forced out at full HP and **Meloon Lost** applies (HMR 5.3(c)). Killing the host is a loss, not a method.
+- Each failed attempt costs Strain, capped at half his max HP (32) per attempt and never below 1 HP (HMR 5.3). The party does not need to bring him down. If Meloon dies, the devourer is forced out at full HP and **Meloon Lost** applies (HMR 5.3(c)). Killing the host is a loss, not a method.
 - At Hold 1 the devourer uses Slip Out and runs (Speed 40). A warded Meloon cannot be re-occupied.
 - **Expelled devourer.** It appears at full HP, uses Occupy Body only on an eligible creature (Incapacitated, Small or Medium, 10 HP or fewer; HMR 5.3), else Devour Intellect on the nearest creature and runs. It flees when reduced to 14 HP or fewer.
 - **Pursuit rule (not in HMR).** It needs 3 consecutive rounds of Dash. Each round a PC who can see it makes a DC 13 Wisdom (Perception) check; on a success they keep it in sight and a PC who reaches it can attack. After 3 rounds with no PC in sight it is out of the Portal's reach: **Devourer Escaped**. A caught devourer fights to the death.
@@ -115,15 +115,15 @@ M4 is an objective layer inside Xanathar's Lair (brief, decision 1). It plays wh
 
 **Shared statistics (Phase 1 and 2).** Medium Aberration, Lawful Evil. AC 15, Initiative +1 (11). Speed 30 ft. Str 11 (+0), Dex 12 (+1), Con 12 (+1), Int 19 (+4, save +7), Wis 17 (+3, save +6), Cha 17 (+3, save +6). Skills Arcana +7, Deception +6, Insight +6, Perception +6, Persuasion +6, Stealth +4. Senses Darkvision 120 ft., Passive Perception 16. Languages Deep Speech, Undercommon; telepathy 120 ft. **CR 7 (XP 2,900; PB +3).** Legendary Resistances: none in either phase. Reactions per round: 2 (max 1 per turn).
 Shared traits: **Magic Resistance** (Advantage on saves against spells and magical effects). **Innate Spellcasting** (Intelligence, DC 15): at will *Detect Thoughts*, *Levitate*; 1/day each *Dominate Monster*, *Plane Shift* (self only).
-**Source:** the numbers above are my recollection of the 2024 Mind Flayer (XMM p.214, AC 15, 99 HP, CR 7); they are unverified. **Variant changes:** Extract Brain is removed (the campaign rule is occupation, not brain-eating; HMR 5). His hit points are split across two phases (50 + 49 = 99).
+**Source:** the 2024 Mind Flayer (XMM), verified: AC 15, 99 HP, CR 7, Speed 30 ft. and Fly 15 ft. (hover). Tentacles +7, 22 (4d8+4) Psychic, Grappled (escape 14) and Stunned while grappled. Extract Brain DC 15 Con, 55 (10d10). Mind Blast (Recharge 5-6) 60-ft Cone, DC 15 Int, 31 (6d8+4) Psychic and Stunned until the end of its next turn, half on a success. **Variant changes:** Extract Brain is removed (the campaign rule is occupation, not brain-eating; HMR 5). His hit points are split across two phases (50 + 49 = 99).
 
 #### Phase 1: The Warden of the Wing (HP 50)
 
 **Traits.** *Held Ground.* While at least two nodes stand, Nihiloor does not leave the room he is in. *Enthralled Servants.* Up to four creatures bound to him (section 4.3) obey without an action. They are not concentration effects.
 
 **Actions.**
-- *Tentacles.* Melee Attack Roll: +7, reach 5 ft. *Hit:* 15 (2d10 + 4) Psychic damage, and the target has the Grappled condition (escape DC 15) and is Stunned while Grappled this way (unverified).
-- *Mind Blast (Recharge 5-6).* 60-ft Cone. Intelligence Saving Throw: DC 15. *Failure:* 22 (4d8 + 4) Psychic damage and Stunned until the end of Nihiloor's next turn. *Success:* half damage.
+- *Tentacles.* Melee Attack Roll: +7, reach 5 ft. *Hit:* 22 (4d8 + 4) Psychic damage. A Medium or smaller target has the Grappled condition (escape DC 14) and the Stunned condition until the grapple ends.
+- *Mind Blast (Recharge 5-6).* 60-ft Cone. Intelligence Saving Throw: DC 15. *Failure:* 31 (6d8 + 4) Psychic damage and Stunned until the end of Nihiloor's next turn. *Success:* half damage.
 - *Dominate Monster (1/day).* Per Innate Spellcasting. Used only on the PC who stands between him and the pet or a node, never on round 1 unless that applies.
 
 **Reactions (2).**
@@ -262,10 +262,10 @@ Day Cost 6. A party that arrives hurt steps down one row (drop a Spy or a Tough)
 
 ### 6.3 Vira Solkan: Mage Apprentice who runs
 
-- **Block.** Mage Apprentice (CR 2, Tier 2 Power 23; listed HMR line 13). AC and HP per the XMM record (unverified); she is a junior arcanist in cover, not a combatant. NF says Mage; this reference overrides it (brief).
+- **Block.** Mage Apprentice (CR 2, Tier 2 Power 23; listed HMR line 13). AC 15, 49 HP, Arcane Burst (XMM, verified); she is a junior arcanist in cover, not a combatant. NF says Mage; this reference overrides it (brief).
 - **Tactics.** She never starts a fight. When exposed she Disengages and uses *Misty Step*, runs for the nearest window or the north service door, and flees at half HP. She surrenders if Grappled or cornered, and says a single cold "fuck" (voice doc).
 - **Counting.** She is not counted in the rosters above. If she is free and joins the breach, she replaces a Spy (3 PCs: Mage + Vira = 88, 51.2% Bloody; 4 PCs: Mage + Tough Boss + Vira = 126, 59.0%; 5 PCs: Mage + Tough Boss + Spy + Vira + Tough = 155, 57.2%). All Bloody (6).
-- **The signal: sending stone, never *Message*.** She carries one stone of a matched pair; the Mage carries the other. The holder touches the stone and speaks up to 25 words; an answer returns within a minute; one message each way per day. 2024 item text for the *sending stone* is unverified (HMR line 614), so this plain description stands. Sending the message is an action and needs Vira's hand on the stone, so she can send while Grappled.
+- **The signal: sending stone, never *Message*.** She carries one stone of a matched pair; the Mage carries the other. The holder touches the stone and speaks up to 25 words; an answer returns within a minute; then neither stone works until the next dawn (2024 XDMG, verified). Sending the message is an action and needs Vira's hand on the stone, so she can send while Grappled.
 - **Clock.** The strike team arrives 15 minutes after the stone message. Taking the stone first (Utilize with a contested Athletics check, or Grapple her first) prevents it. A stone taken intact carries the reply; the voice is not one a member can place unless **Manshoon Named** is marked.
 
 ### 6.4 The Tower wards (hard rule)
@@ -307,9 +307,9 @@ Vajra Safahr (WDH record, CR 13; Tier 2 Power 150; HMR line 587) is **not a comb
 
 ### Rhendar Orsk (r25; Warrior Veteran)
 
-- **Block.** 2024 Warrior Veteran (CR 3). Dwarf, eleven years with Force Grey, two words at a time. Greatsword twice and Parry (HMR; numbers unverified).
+- **Block.** 2024 Warrior Veteran (CR 3). Dwarf, eleven years with Force Grey, two words at a time. AC 17, 65 HP, Greatsword twice and Parry (XMM, verified).
 - **Power.** Tier 1: 37. **Tier 2: 30.** Tier 3: 25. Party Power with Rhendar at Tier 2: L6 135 / 170 / 205; L7 153 / 194 / 235; L8 162 / 206 / 250.
-- **Behaviour.** Holds the line and does not leave a PC. Withdraws at 29 HP. He will not kill a captive. The event keeps his line about his own death and gives a non-combat alternative.
+- **Behaviour.** Holds the line and does not leave a PC. Withdraws at 32 HP. He will not kill a captive. The event keeps his line about his own death and gives a non-combat alternative.
 
 ### The r50 team
 
@@ -336,7 +336,7 @@ Four allies, the roster held for a party at 8th level (Tier 2). Base Party Power
 
 ## 8. Spell and item lists to fix
 
-All names are written from memory of the 2024 *Player's Handbook* and *Dungeon Master's Guide*. No data file was available; every entry is **(unverified)**.
+Every spell name and level below is checked against the 2024 *Player's Handbook* data; the potions are checked against the 2024 *Dungeon Master's Guide*.
 
 ### r03 preparatory spell (level 3 or lower, once per tenday, 2 days' notice)
 
@@ -344,7 +344,7 @@ Vajra casts it on the member and their companions before a mission. Fixed list o
 
 ### Gray Hand consumable (one per mission that needs it)
 
-Two items: *potion of climbing* (Common), *potion of water breathing* (Uncommon, 1 hour). Use is "before a mission that needs it", one per member per mission.
+Two items: *potion of climbing* (Common), *potion of water breathing* (Uncommon, 24 hours). Use is "before a mission that needs it", one per member per mission.
 
 ### r03 Merris: Common potions
 
@@ -352,7 +352,7 @@ Merris stocks the 2024 Common potions: *potion of healing* and *potion of climbi
 
 ### r25 7th-level spell (cast by Vajra on the surface, once per quest)
 
-Fixed list of five: *Teleport*, *Forcecage*, *Magnificent Mansion* (2024 name may be shortened; unverified), *Project Image*, *Sequester*. All are 7th-level wizard spells. *Plane Shift* is excluded (fails in Undermountain; r25 is surface only, but the list is kept compatible with r50). Vajra is a wizard: *Resurrection* is not on the list and no raise-dead is offered.
+Fixed list of five: *Teleport*, *Forcecage*, *Mordenkainen's Magnificent Mansion*, *Project Image*, *Sequester*. All are 7th-level wizard spells. *Plane Shift* is excluded (fails in Undermountain; r25 is surface only, but the list is kept compatible with r50). Vajra is a wizard: *Resurrection* is not on the list and no raise-dead is offered.
 
 ### r50 scroll vault: one 4th- or 5th-level spell scroll (2024 rarity: Rare)
 
@@ -372,15 +372,15 @@ Excluded: *Dimension Door*, *Teleportation Circle*, *Banishment*, *Contact Other
 | Item | Status | Note |
 |---|---|---|
 | Party Power, Monster Power tables, Day Costs | Verified | `cr2-encounter-builder` skill. |
-| Spy, Tough, Tough Boss, Warrior Veteran, Scout, Mage, Commoner CRs and the Mage blocks | Verified (HMR) | Block numbers for Warrior Veteran (AC 17, 58 HP) and Scout are from memory. |
-| Mage Apprentice (CR 2) | Per HMR line 13 | Block numbers unverified. |
+| Spy, Tough, Tough Boss, Warrior Veteran, Scout, Mage, Commoner | Verified (XMM data) | Warrior Veteran AC 17, 65 HP; Scout AC 13, 16 HP; Mage AC 15, 81 HP. |
+| Mage Apprentice (CR 2) | Verified (XMM data) | AC 15, 49 HP, Arcane Burst. |
 | Occupying Devourer, Hold/Break/Strain, Extraction Procedure | Binding (HMR 5) | Cited, not redefined. |
-| Mind Flayer (AC 15, 99 HP, CR 7, DC 15, Tentacles +7 for 15, Mind Blast 22) | **Unverified** | From memory of XMM p.214. Stun-while-grappled and the cone shape are also unverified. |
-| Young Bronze Dragon (CR 8, AC 17, 142 HP, breaths) | **Unverified** | From memory. Power uses CR 8 only. |
-| Potion of water breathing duration (1 hour) | **Unverified** | Research reports said 30 minutes. |
-| 2024 spell names and levels in section 8 | **Unverified** | Includes whether 2024 shortened *Magnificent Mansion*. |
-| 2024 Common potions (Healing, Climbing) and scroll rarity (4th-5th Rare) | **Unverified** | |
-| *Sending stone* 2024 text | **Unverified** | Plain description used (25 words, one message each way a day). |
+| Mind Flayer (AC 15, 99 HP, CR 7, DC 15, Tentacles +7 for 22, Mind Blast 31, 60-ft cone, stun while grappled) | Verified (XMM data, Session 42) | The DPR line in the CR math predates the check; the printed CR 7 stands. |
+| Young Bronze Dragon (CR 8, AC 17, 142 HP, breaths) | Verified (XMM data) | |
+| Potion of water breathing duration | Verified (XDMG): 24 hours | Not a clock. |
+| 2024 spell names and levels in section 8 | Verified (XPHB data) | *Mordenkainen's Magnificent Mansion* keeps its full name. |
+| 2024 Common potions | Verified (XDMG): Climbing, Comprehension, Healing | Scroll rarity not rechecked. |
+| *Sending stones* 2024 text | Verified (XDMG) | Touching one stone casts *Sending* to the bearer of the other, who can answer at once; then neither stone works until the next dawn. |
 | *Misty Step* works within one Undermountain level | **Ruling, unverified** | WDMM:536 prohibits transport between levels. |
 | Heuristics (0.71 for half pool, half-Power chase, two-wave sum) | **Mine** | Not skill rules. |
 | Escape route length (300 ft to X4) | **Mine** | Adjust to the lair conversion. |
