@@ -34,7 +34,7 @@ The *Sending* is exactly 25 words and opens with the rank's name. Vajra files a 
 > - The *wand of secrets* belongs to the party, not to the member. **The Trouble with Meloon** already gave the party one if Meloon was restored, so this Event hands one over only when the party has none.
 > - Vajra will not name a Masked Lord to anyone. The courtesy applies only to a Masked Lord whose identity the member has already learned.
 > - The authorization is Vajra's own judgment and not a rule of the city. She signs only what she can explain to the Watch afterward.
-> - Nobody in this Event names the Splinter's master unless **Manshoon Named** is marked for the member. Vajra otherwise says "the Splinter" or "the other cell". Nobody names the Cassalanters at all.
+> - Nobody in this Event names the Splinter's master unless **Manshoon Named** is marked for the member. Vajra otherwise says "the Splinter" or "the other cell", and nobody names the Cassalanters at all.
 
 ### Naming the Rank
 
@@ -46,7 +46,7 @@ The member climbs on their own. The door opens as they reach the steps, the same
 >
 > A woman in a grey academy coat waits by the window with a leather satchel on her shoulder. Vajra finishes the line she is writing before she looks up, and there is still no chair in the room.
 >
-> > "Senior Griffon. I have read every report you filed, and they were accurate. Four arrangements come with the rank, and I will explain each one once."
+> > "Senior Griffon, and you have earned it. I have read every report you filed, and they were accurate. Four arrangements come with the rank, and I will explain each one once."
 
 > [!social]**The Blackstaff Planning**
 >
@@ -66,23 +66,23 @@ The member climbs on their own. The door opens as they reach the steps, the same
 >
 > She counts on her fingers as she answers.
 >
-> > "A wand if you lack one, a mage once each quest, the goodwill of the city's officials, and my signature on request. Ysmay is the one that matters."
+> > "I can give you a wand if you lack one, a mage once each quest, and the goodwill of the city's officials. I will also sign a written authorization when you ask, and Ysmay is the one that matters most."
 
 > [!qna]**Why only once a quest?**
 >
-> > "Because she is the only mage I can spare, and I have a city to watch. One operation each quest, and three days' notice. I won't make it faster."
+> > "She is the only mage I can spare, and I have a city to watch. You get one operation each quest with three days' notice, and I won't make it faster."
 
 > [!qna]**Can we ask for a different mage?**
 >
-> > "You work with the one I assign. Ysmay suits how you operate. If it goes wrong in practice, come back with specifics and I'll adjust."
+> > "You work with the one I assign, and Ysmay suits the way you operate. If it goes wrong in practice, come back to me with specifics and I will adjust."
 
 > [!qna]**What if my Renown falls?**
 >
-> > "The rank stays, and the arrangements wait. When you've earned your way back to ten, they wake again."
+> > "The rank stays with you, and the arrangements wait until you have earned your way back to ten. When you do, they start again."
 
 > [!exploration]**The Folder**
 >
-> Any character who watches Vajra while she talks and makes a successful DC 13 Wisdom (Insight) check sees that the folder under her hand carries the member's name and is thick with dated pages. She has read all of it since the Gray Hand letter. A character who fails sees only a folder. If anyone asks whether she is all right, she answers "Irrelevant." and moves to the next arrangement.
+> Any character who watches Vajra while she talks and makes a successful DC 13 Wisdom (Insight) check sees that the folder under her hand carries the member's name and is thick with dated pages. She has read all of it since the Gray Hand letter. A character who fails sees only a folder on the desk, and if anyone asks whether she is all right, she answers "Irrelevant." and moves to the next arrangement.
 
 ### The Wand of Secrets
 
@@ -92,9 +92,9 @@ If **Meloon Restored** is marked and the party holds the *wand of secrets* from 
 
 > [!readaloud]
 >
-> Vajra glances at the satchel on your hip where the wand sits, then closes the cabinet again without taking anything out.
+> Vajra glances at the satchel on your hip where the wand sits, then closes the cabinet again without taking anything out of it.
 >
-> > "You have the wand, so I'll skip that. Meloon asks after you at the Portal. He says you've a drink coming, and he phrased it more rudely than I will."
+> > "You have the wand, so I will skip that part. Meloon asks after you at the Portal, and he says you have a drink coming. He phrased it more rudely than I will."
 
 If **Meloon Lost** is marked and the party holds no wand, read or paraphrase the following:
 
@@ -102,15 +102,15 @@ If **Meloon Lost** is marked and the party holds no wand, read or paraphrase the
 >
 > Vajra takes a wand from the cabinet and holds it out. Tower marks are carved into the grip, and her hand rests on the cabinet door a moment longer than it needs to.
 >
-> > "I kept this back after the Portal, and I shouldn't have. I still have Azuredge downstairs. I won't discuss it today."
+> > "I kept this back after the Portal, and I should not have. I still have Azuredge downstairs, and I will not discuss it today."
 
 If neither outcome applies (the party never played **The Trouble with Meloon**, or the wand was lost or sold) and the party holds no wand, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra takes a wand from the cabinet and sets it on the edge of the desk. Tower marks are carved into the grip.
+> Vajra takes a wand from the cabinet and sets it on the edge of the desk, with Tower marks carved into the grip, and then she turns the cabinet key in its lock.
 >
-> > "Standard issue for people who work behind sealed doors. Sign for it with Merris on your way out."
+> > "This is standard issue for people who work behind sealed doors. Sign for it with Merris on your way out, and keep it with the party."
 
 If the party holds a wand and neither Meloon outcome is marked, Vajra says "Then you know what it does" and moves on.
 
@@ -146,19 +146,19 @@ Vajra turns her head toward the window, and the woman in the grey coat steps for
 
 > [!qna]**What can you do?**
 >
-> > "I cast what a Tower mage casts. I'll cover you with a shield or a counterspell before I attack. I won't throw a fireball into a crowded street, or into a room you're standing in."
+> > "I cast what a Tower mage casts, and I will cover you with a shield or a counterspell before I attack. I won't throw a fireball into a crowded street or a room you're standing in."
 
 > [!qna]**Will you fight the Watch?**
 >
-> > "No. I won't raise a hand against the Watch or a Lord, and if you order it I'll tell Vajra the same evening."
+> > "No, I won't raise a hand against the Watch or a Lord. If you order it, I will tell Vajra the same evening."
 
 > [!qna]**Who do you report to?**
 >
-> > "Vajra, when it's over. I tell her what I saw and what I did. I don't repeat what you say to each other when you think I'm not listening."
+> > "I report to Vajra when it's over, and I tell her what I saw and what I did. I don't repeat what you say to each other when you think I'm not listening."
 
 > [!qna]**Can you go below the city?**
 >
-> > "Yes, if we start from the Yawning Portal. Tell me before we go, and I'll bring rope and a spare lantern."
+> > "Yes, as long as we start from the Yawning Portal and you tell me before we go. I will bring rope and a spare lantern."
 
 > [!exploration]**Calling Ysmay**
 >
@@ -179,9 +179,9 @@ Vajra turns her head toward the window, and the woman in the grey coat steps for
 
 > [!gamemaster]**Ysmay as an Ally**
 >
-> Ysmay uses the 2024 **Mage** stat block as printed (CR 6, AC 15, 81 Hit Points). She has three Arcane Burst attacks, *Fireball* twice a day, *Invisibility* twice a day, *Cone of Cold*, *Fly* and *Misty Step* three times a day, and Protective Magic three times a day for *Counterspell* or *Shield*. She has no *Contingency*.
+> Ysmay uses the 2024 **Mage** stat block as printed (CR 6, AC 15, 81 Hit Points). She has three Arcane Burst attacks, *Fireball* twice a day, *Invisibility* twice a day, *Cone of Cold*, *Fly* and *Misty Step* three times a day, and Protective Magic three times a day for *Counterspell* or *Shield*, but she has no *Contingency*.
 >
-> In CR 2.0 terms, her Power is 80 for a party of levels 1 to 4, 65 for levels 5 to 10 and 50 for levels 11 and above. Tier follows the party's level. Add that to the party's Power when she fights and recalculate the encounter. The first-turn knockout bonus does not apply to allies. An ally who is on the way does not lower the difficulty.
+> In CR 2.0 terms, her Power is 80 for a party of levels 1 to 4, 65 for levels 5 to 10 and 50 for levels 11 and above, following the party's level. Add that to the party's Power when she fights and recalculate the encounter. The first-turn knockout bonus does not apply to allies. An ally who is on the way does not lower the difficulty.
 >
 > With Ysmay at Tier 2, a party of three, four or five has Power 161, 193 or 225 at 5th level, 170, 205 or 240 at 6th, 188, 229 or 270 at 7th, and 197, 241 or 285 at 8th. Count her in full when you build the encounter.
 >
@@ -202,17 +202,17 @@ If Ysmay meets the member for the first operation, read or paraphrase the follow
 >
 > Ysmay is waiting at the place you named with her satchel on her shoulder, and she is writing in a small book as you approach. She closes it when she sees you and tucks it into her coat.
 >
-> > "Halvane. Vajra gave me the job and the place. Tell me how you're going in and where you want me, and I'll tell you whether I see a problem."
+> > "Halvane. Vajra gave me the job and the place, so tell me how you're going in and where you want me. I will tell you whether I see a problem."
 
 ### The City's Courtesy
 
-Vajra moves on to the third arrangement.
+Vajra moves on to the third arrangement while the member is still looking at the wand or the mage.
 
 > [!readaloud]
 >
-> Vajra taps the folder once with her pen and then sets the pen down.
+> Vajra taps the folder once with her pen and then sets the pen down on the desk beside the slip she has been writing.
 >
-> > "City officials will be Friendly to you while your standing with me is current. They extend the courtesy they would give a Watch captain with clean hands. Don't treat it as a license."
+> > "City officials will be Friendly to you while your standing with me is current, the way they would be to a Watch captain with clean hands. Don't treat it as a license."
 
 > [!exploration]**Friendly by Default**
 >
@@ -231,7 +231,7 @@ Vajra pulls a blank slip from the folder and holds it up so the member can see i
 >
 > Vajra lays a narrow slip on the desk and writes a single line along the top, then stops with the pen above the paper.
 >
-> > "For three kinds of place, I'll write permission: the City of the Dead at night, a sealed Watch evidence vault, or a private armory. Come when it isn't a crisis. Tell me what you want, and why."
+> > "For three kinds of place, I'll write permission: the City of the Dead at night, a sealed Watch evidence vault, or a private armory. Come when it isn't a crisis, and tell me what you want and why you want it."
 
 > [!exploration]**What Vajra Needs to Hear**
 >
@@ -248,11 +248,11 @@ Vajra pulls a blank slip from the folder and holds it up so the member can see i
 
 > [!qna]**What are the conditions for the authorization?**
 >
-> > "There are none. There's what I'll sign and what I won't. Come with a clear need, and I'll tell you where it lands."
+> > "There are none. There is what I will sign and what I will not, so come with a clear need and I will tell you where it lands."
 
 > [!qna]**Can you authorize a private house?**
 >
-> > "No. A private house is a magistrate's affair. I give you the three places I can stand behind in front of the Watch."
+> > "No, a private house is a magistrate's affair. I give you the three places I can stand behind in front of the Watch."
 
 ### Renown Opportunities
 
@@ -260,7 +260,7 @@ The rank event awards no Renown. Each Senior Griffon earns further Renown from t
 
 ### Aftermath
 
-The member can tell companions what Vajra said and how to reach Ysmay. The mage, the courtesy and the authorization stay individual benefits, and Vajra and Ysmay turn away a companion who asks in the member's name. The wand is the one party item.
+The member can tell companions what Vajra said and how to reach Ysmay. The mage, the courtesy and the authorization stay individual benefits, and Vajra and Ysmay turn away a companion who asks in the member's name, though the wand is the one item the whole party shares.
 
 ### Concluding the Event
 
