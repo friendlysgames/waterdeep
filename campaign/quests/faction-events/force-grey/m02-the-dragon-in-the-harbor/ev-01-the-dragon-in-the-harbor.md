@@ -37,7 +37,7 @@ If the date falls on Ches 21–30, read or paraphrase the following:
 >
 > Inside, a tall Darfellan with blue-grey skin and a crest of fins along his skull waits beside a salt-crusted altar. He folds his webbed hands and looks at each of you before he speaks.
 >
-> > Someone is robbing the Queen of the Depths. Offerings left for her at the deep moorings are vanishing, and I have found no thief. You have forty-eight hours to find one and bring back what was taken.
+> > Someone is robbing the Queen of the Depths, and the offerings left for her at the deep moorings are vanishing without a trace. I have found no thief among the dockhands or the captains. You have forty-eight hours to find one and bring back everything that was taken.
 
 > [!social]**The Priest at the Salt Altar**
 >
@@ -55,11 +55,11 @@ If the date falls on Ches 21–30, read or paraphrase the following:
 
 > [!qna]**What was taken?**
 >
-> > Silver cups, casks of coin from the boat races, and candles sealed in wax. Captains have left them at the deep moorings for generations, and nobody has ever touched them. Every mooring I have checked is empty.
+> > Silver cups, casks of coin from the boat races, and candles sealed in wax. Captains have left them at the deep moorings for generations and nobody has ever touched them, yet every mooring I have checked is empty.
 
 > [!qna]**Who took them?**
 >
-> > I don't know. The dockhands whisper that the Black Viper did it, but I have no proof of that. I would sooner learn the truth than burn a man for a rumor.
+> > I don't know who took them, though the dockhands whisper that the Black Viper did it. I have no proof of that, and I would sooner learn the truth than burn a man for a rumor.
 
 > [!qna]**What happens in forty-eight hours?**
 >
@@ -71,13 +71,13 @@ Renaer calls at Trollskull Manor that evening, having heard about the summons fr
 >
 > Renaer knocks on the door of Trollskull Manor with a ledger of harbor customs tucked under one arm. He listens to the whole story and then shakes his head slowly.
 >
-> > Vajra has had sailors reporting a bronze dragon outside the Dragonward for a tenday now. I'd say it's worth asking whether that dragon is your thief. Go and see her, and tell her I sent you.
+> > Vajra has had sailors reporting a bronze dragon outside the Dragonward for a tenday now, and I'd say it's worth asking whether that dragon is your thief. Go and see her at the Tower, and tell her that Renaer sent you.
 
 On any other date, the *Sending* goes to the Force Grey member with the highest Renown, or with the highest Wisdom if Renown is tied. Read or paraphrase the following to that player:
 
 > [!readaloud]
 >
-> You are in the middle of something else when a dry, flat voice arrives behind your eyes with no greeting. It speaks fast and clipped, and nobody near you hears it.
+> You are in the middle of something else when a dry, flat voice arrives behind your eyes with no greeting. It speaks fast and clipped, and nobody near you hears a word of it.
 >
 > > Blackstaff here. Bronze dragon, Deepwater Harbor, outside the Dragonward. Intentions unknown. Come to the Tower now. Bring your people. Assess it, do not provoke it.
 
@@ -91,17 +91,17 @@ If the party came from the Queenspire, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra sets down her pen and looks up.
+> Vajra sets down her pen and looks up at each of you in turn before she speaks.
 >
-> > Renaer sent word ahead. The Queenspire has lost its offerings, and a bronze dragon has sat outside the Dragonward for a tenday. I think those are one problem. Find out whether the dragon is your thief, and what else it has seen.
+> > Renaer sent word ahead that the Queenspire has lost its offerings. A bronze dragon has sat outside the Dragonward for a tenday, and I think those are one problem. Find out whether the dragon is your thief and what else it has seen.
 
 On any other date, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra sets down her pen and looks up.
+> Vajra sets down her pen and looks up at each of you in turn before she speaks.
 >
-> > Good, you came quickly. Sailors report a bronze dragon in Deepwater Harbor, just outside the Dragonward. It hasn't hurt anyone, and I want to know why it's there. Assess it and report to me.
+> > Good, you came quickly. Sailors report a bronze dragon in Deepwater Harbor, just outside the Dragonward, and it hasn't hurt anyone. I want to know why it's there, so assess it and report to me.
 
 > [!social]**The Blackstaff at Her Desk**
 >
@@ -120,15 +120,15 @@ On any other date, read or paraphrase the following:
 
 > [!qna]**Why does a dragon matter?**
 >
-> > The Dragonward keeps dragons out of the city unless the Open Lord allows one in. This one sits just beyond it, close enough to watch the docks. I dislike what I can't explain.
+> > The Dragonward keeps dragons out of the city unless the Open Lord allows one in. This one sits just beyond it, close enough to watch the docks, and I dislike anything I can't explain.
 
 > [!qna]**Is it dangerous?**
 >
-> > It frightened a fishing crew, and a sailor fainted. Nobody was hurt. Treat it as dangerous until it proves otherwise, and don't provoke it.
+> > It frightened a fishing crew and a sailor fainted, but nobody was hurt. Treat it as dangerous until it proves otherwise, and don't provoke it.
 
 > [!qna]**What do you want from us?**
 >
-> > I want to know why it's here, whether it will stay, and whether anything else is wrong in that harbor. If it talks, let it talk. Then report to me.
+> > I want to know why it's here, whether it will stay and whether anything else is wrong in that harbor. If it talks, let it talk, and then report to me.
 
 > [!qna]**Why us?**
 >
@@ -138,7 +138,7 @@ On any other date, read or paraphrase the following:
 >
 > This answer is available only during Fleetswake.
 >
-> > If your dragon took the offerings, settle it before the temple does. If it didn't, I want the real thief too. Either way, I want the dragon assessed first.
+> > If your dragon took the offerings, settle it before the temple does. If it didn't, I want the real thief too, but I want the dragon assessed first either way.
 
 Continue with **The Vials**.
 
@@ -170,7 +170,7 @@ If the party has not yet met Meritide, read or paraphrase the following:
 >
 > The pier at the end of the quay is crowded with fishermen mending nets, and a gull screams over a barrel of fish heads. A shape rises from the water beside the last piling. It becomes a tall Darfellan, who climbs the ladder with webbed hands and stands dripping on the planks.
 >
-> > The dockhands say you are going down to look at the bronze dragon. I think it took the silver, coin and candles missing from the deep moorings. They were meant for the Queen of the Depths. You have forty-eight hours to bring them back to the Queenspire.
+> > The dockhands say you are going down to look at the bronze dragon, and I think it took the silver, coin and candles missing from the deep moorings. They were meant for the Queen of the Depths. You have forty-eight hours to bring them back to the Queenspire.
 
 Use Meritide's social block and answers from **The Brief**. Here he suspects the dragon, so he names it as his suspect instead of the Black Viper, and his 48 hours start when he finishes speaking.
 
@@ -188,13 +188,13 @@ Use Meritide's social block and answers from **The Brief**. Here he suspects the
 
 ### The Wreck
 
-Zelifarn is friendly and wants something. He covers the distance before anyone has formed a plan.
+Zelifarn is friendly and wants something, and he covers the distance before anyone has formed a plan.
 
 > [!readaloud]
 >
-> The dragon crosses the gap before you notice it has moved, and then it stops an arm's length away with its head tilted. Its bronze scales flash in the slanted light, and it grins widely, showing rows of teeth. It waves one claw at you.
+> The dragon crosses the gap before you notice it has moved, and then it stops an arm's length away with its head tilted. Its bronze scales flash in the slanted light, and it grins widely, showing rows of teeth, and then it waves one claw at you.
 >
-> > Hello! Hello, boat people! You're new! Tell me something I don't know!
+> > Hello, hello, boat people, you're new here! Tell me something I don't know, and I will tell you something back in trade!
 
 > [!exploration]**Reading Zelifarn**
 >
@@ -248,19 +248,19 @@ Zelifarn is friendly and wants something. He covers the distance before anyone h
 
 > [!qna]**What have you seen?**
 >
-> > So many ships! I've watched twelve sizes of boat and seven kinds of cargo since I came. Four sailors fell off their ships, and the other sailors fished them out. That's good, but it's also worrying, because humans fall off things a lot.
+> > There are so many ships that I've watched twelve sizes of boat and seven kinds of cargo since I came. Four sailors fell off their ships, and the other sailors fished them out, which is good but worrying, because humans fall off things a lot.
 
 > [!qna]**Why are you here?**
 >
-> > The harbor has more wrecks than anywhere I've ever swum, and they're full of shiny things. I keep the best ones in my cave. Nobody has chased me away yet, except the funny ship, and they only used crossbows.
+> > The harbor has more wrecks than anywhere I've ever swum, and they're full of shiny things that I keep in my cave. Nobody has chased me away yet, except the funny ship, and they only used crossbows.
 
 > [!qna]**Will you hurt anyone?**
 >
-> > Hurt them? No! I frightened a sailor once, and he fell over, and I felt terrible. I tried to say sorry, but he fainted before I'd finished.
+> > I would never hurt anyone, but I did frighten a sailor once, and he fell over and I felt terrible. I tried to say sorry, but he fainted before I'd finished.
 
 > [!qna]**What about the city?**
 >
-> > There's a wall in the air around it, and it makes my scales itch when I get close. So I stay on this side. The harbor is big enough for me, and it's my harbor now.
+> > There's a wall in the air around the city, and it makes my scales itch when I get close, so I stay on this side. The harbor is big enough for me, and it's my harbor now.
 
 Continue with **The Offerings** or **The *Eyecatcher***. The party can run them in either order.
 
@@ -272,7 +272,7 @@ During Fleetswake the party is looking for the thief and can ask Zelifarn outrig
 >
 > Zelifarn's whole body wiggles when you mention the deep moorings, and he claps his claws together before he answers.
 >
-> > Oh, the shiny things from the posts! Those were mine. They were lying on the bottom with nobody guarding them, so I took them all to my cave. Do you want to see?
+> > Oh, you mean the shiny things from the posts, and those were mine! They were lying on the bottom with nobody guarding them, so I took them all to my cave. Do you want to see?
 
 > [!readaloud]
 >
@@ -293,17 +293,17 @@ The cave holds fourteen silver cups, three split casks of boat-race coin, six ja
 
 > [!readaloud]
 >
-> Zelifarn lowers his head and looks at the pile of cups for a long moment.
+> Zelifarn lowers his head and looks at the pile of cups for a long moment, and then he speaks in a smaller voice.
 >
-> > A goddess lives down here, and I took her presents? That's a very big person to take things from. I'm sorry. I'll help you carry them.
+> > A goddess lives down here, and I took her presents? That's a very big person to take things from, and I'm sorry. I'll help you carry them back to her priest.
 
 If the party returns the offerings, read or paraphrase the following at the Queenspire's water gate:
 
 > [!readaloud]
 >
-> Meritide counts the cups into a stone basin one at a time. Then he lifts the ship's bell and rubs the green from its rim with his thumb.
+> Meritide counts the cups into a stone basin one at a time, and then he lifts the ship's bell and rubs the green from its rim with his thumb.
 >
-> > It is all here. The Queen of the Depths will have her due, and she will hold her wave. The Queenspire will remember who brought it back.
+> > It is all here, and the Queen of the Depths will have her due and hold her wave. The Queenspire will remember who brought it back.
 
 A party that delivers the offerings after the 48th hour finds Meritide colder and just as satisfied. Mark **Offerings Returned** when he takes them.
 
@@ -323,7 +323,7 @@ If the Deception check succeeds, read or paraphrase the following:
 >
 > Meritide listens to the whole account without moving, and when you finish he nods once, slowly.
 >
-> > Smugglers who sank their haul and left the harbor. It is thin, but I have nothing better. I will keep watching the moorings, and I will remember that you came to me with this.
+> > Smugglers who sank their haul and left the harbor is a thin story, but I have nothing better. I will keep watching the moorings, and I will remember that you came to me with this.
 
 If the check fails, read or paraphrase the following:
 
@@ -331,7 +331,7 @@ If the check fails, read or paraphrase the following:
 >
 > Meritide's crest of fins rises as you speak, and he lets the silence run for a while after you finish.
 >
-> > That is a lie, and you tell it poorly. I will not strike you in my own house. Remember that I let you leave.
+> > That is a lie, and you tell it poorly. I will not strike you in my own house, but you should remember that I let you leave.
 
 ### The *Eyecatcher*
 
@@ -341,23 +341,23 @@ Zelifarn raises the vessel unprompted once the party has made three trades or ma
 >
 > Zelifarn tilts his head one way and then the other, and the light slides along his scales as he thinks about it.
 >
-> > The big ship with the funny name, the one with all the flags. Something is attached to its bottom, and it isn't an anchor or a keel. It's a shape I don't know, like a second hull that faces down. It comes out sometimes at night and goes back. I thought about offering to help them with their security, and then I decided they would say no.
+> > The big ship with the funny name, the one with all the flags, has something attached to its bottom that isn't an anchor or a keel. It's a shape I don't know, like a second hull that faces down, and it comes out sometimes at night and goes back. I thought about offering to help them with their security, and then I decided they would say no.
 
 > [!qna]**How big is it?**
 >
-> > Longer than eight rowboats end to end, and about two rowboats wide. It's under the middle of the ship, and it's fixed to the keel with a round collar.
+> > It's longer than eight rowboats end to end and about two rowboats wide. It sits under the middle of the ship, and it's fixed to the keel with a round collar.
 
 > [!qna]**Who is on the ship?**
 >
-> > People who didn't want me looking. They stood at the rail and shot crossbows into the water near me, and they shouted "fuck off". Is that a place? I looked, and it isn't on any chart.
+> > They were people who didn't want me looking, and they stood at the rail and shot crossbows into the water near me. They shouted "fuck off" at me, and I looked for it, but that place isn't on any chart.
 
 > [!qna]**When does it come out?**
 >
-> > Only at night, and only sometimes. It goes out past the harbor mouth and comes back before the sky is pale. It has done that since the ship first came in.
+> > It only comes out at night, and only sometimes. It goes out past the harbor mouth and comes back before the sky is pale, and it has done that since the ship first came in.
 
 > [!qna]**Will you keep watching it?**
 >
-> > Yes! I watch everything. If the second hull does anything new, I'll remember it, and you can trade me for it.
+> > Yes, I watch everything in this harbor! If the second hull does anything new, I'll remember it, and you can trade me for it.
 
 > [!exploration]**Looking at the Keel**
 >
@@ -380,35 +380,35 @@ Vajra receives the members at any hour, and companions wait below. She hears the
 >
 > Vajra is standing at her desk when you reach the study, with a clean sheet in front of her and a pen in her hand. She looks at each of you in turn and gestures with the pen.
 >
-> > Report. The dragon first, and then anything else you found.
+> > Report on the dragon first, and then tell me anything else that you found.
 
 If the party confirmed that Zelifarn is not hostile, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra writes a short line on her sheet and underlines it once.
+> Vajra writes a short line on her sheet and underlines it once before she looks up.
 >
-> > Then he's a nuisance, and I can live with a nuisance outside the Dragonward. Anything else?
+> > Then he's a nuisance, and I can live with a nuisance outside the Dragonward. Is there anything else that you found?
 
 If the party did not confirm his intentions, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra sets down her pen and lets the silence run until it becomes uncomfortable.
+> Vajra sets down her pen and lets the silence run until one of you shifts your feet.
 >
-> > That tells me what a sailor could have told me. Go back if he surfaces again, and ask him properly.
+> > That tells me only what a sailor could have told me. Go back if he surfaces again, and ask him properly.
 
 If the party mentions the offerings and marked **Offerings Returned**, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > So the Queenspire has its silver back. Good. Temples hold grudges longer than I do, and I don't need that one.
+> > So the Queenspire has its silver back, which is good. Temples hold grudges longer than I do, and I don't need that one.
 
 If the party mentions the offerings and marked **Offerings Kept**, read or paraphrase the following:
 
 > [!readaloud]
 >
-> > That is between you and the temple. Don't bring it to the Tower.
+> > That is between you and the temple, so don't bring it to the Tower.
 
 Then the members describe the vessel. Read or paraphrase the following:
 
@@ -420,7 +420,7 @@ Then the members describe the vessel. Read or paraphrase the following:
 
 > [!exploration]**Vajra's Questions**
 >
-> Vajra asks four questions. A member who answers at least three of them in usable detail marks **Submarine Reported**, using that member's name.>
+> Vajra asks four questions. A member who answers at least three of them in usable detail marks **Submarine Reported**, using that member's name.
 > - **Where is it?** Under the middle of the *Eyecatcher*, fixed to the keel. Zelifarn gives this.
 > - **How big is it?** About 80 feet long and 20 feet across. Zelifarn's rowboats are enough, and Vajra converts them herself.
 > - **How is it fixed?** A round collar clamps it to the keel, with a hatch seam along the top. Only a character who reached the keel knows this.
@@ -430,9 +430,9 @@ Then the members describe the vessel. Read or paraphrase the following:
 
 > [!readaloud]
 >
-> Vajra closes her notebook and straightens the pen against its edge.
+> Vajra closes her notebook, straightens the pen against its edge, and then nods toward the door.
 >
-> > I'll need to verify this. Thank you, this is useful. You can go.
+> > I'll need to verify this myself. Thank you, this is useful, and you can go now.
 
 ### Renown Opportunities
 
