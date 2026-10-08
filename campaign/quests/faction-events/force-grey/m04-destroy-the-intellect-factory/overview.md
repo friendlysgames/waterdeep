@@ -24,7 +24,7 @@ Nihiloor breeds Occupying Devourers in a stone basin in his wing of the lair, an
 >
 > The wing is area X23 to X26 of **Xanathar's Lair**, and this mission adds three things to the rooms that quest already describes. The pool and the captive sit in X25 beside the twelve specimens, and the placement records lie in X24. Four things hold Nihiloor in the wing: the pool, the records, the captive and his pet. When the second one is lost he runs, and he always escapes. This mission never kills him.
 >
-> The default captive is Zaibon Kyszalt, a drow of House Auvryndar. If **Soluun Expelled** is marked, Soluun Xibrindas sits in the chair instead. Soluun's disownment is real in that case, and the Guild's watchers took him off the quay after the captain put him ashore. Vajra does not say how she knows about the pool, and the true answer is a Force Grey agent inside the Guild who sent one report and has not answered since. Until **Manshoon Named** is marked, no Force Grey speaker names Manshoon, and nobody names Jarlaxle or Bregan D'aerthe to the players.
+> The default captive is Zaibon Kyszalt, a drow of House Auvryndar. If **Soluun Expelled** is marked, Soluun Xibrindas sits in the chair instead. Soluun's disownment is real in that case. He sold the Guild's divers the *Scarlet Marpenoth*'s berth, and once the deal was done the Guild seized him. Vajra does not say how she knows about the pool, and the true answer is a Force Grey agent inside the Guild who sent one report and has not answered since. Until **Manshoon Named** is marked, no Force Grey speaker names Manshoon, and nobody names Jarlaxle or Bregan D'aerthe to the players.
 
 ## The Brief
 

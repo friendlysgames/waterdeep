@@ -19,7 +19,7 @@ Force Grey is Waterdeep's official cadre of elite adventuring agents, organized 
 
 Characters who join the Gray Hands — the entry tier of Force Grey — are not yet full Force Grey operatives. Vajra is testing them. What they earn in the meantime is something more immediately valuable: the personal patronage of the Blackstaff. Her backing is not something that can be purchased or networked into. It is earned — and it comes with extraordinary expectations in return.
 
-**Primary Contact:** Vajra Safahr, the Blackstaff — the youngest person to hold the title and among the most formidable wizards in Waterdeep. Communicates primarily via *sending* spells and is not given to small talk. A genuine ally to characters who prove themselves; a genuinely intimidating authority figure to those who cross her.
+**Primary Contact:** Vajra Safahr, the Blackstaff — the youngest person ever to hold the title, three years into it, and among the most formidable wizards in Waterdeep. Communicates primarily via *sending* spells and is not given to small talk. A genuine ally to characters who prove themselves; a genuinely intimidating authority figure to those who cross her.
 
 ## Key Members
 

@@ -26,7 +26,7 @@ The Order steps outside the Grand Game entirely: no positioning for the vault, n
 |-----|---------------------------|
 | **Fireball!** | The fireball killed people near a delivery route Savra has been watching. She wants to know what the party saw — specifically whether anyone was collecting from the bodies before the Watch arrived. |
 | **Gralhund Villa** | The Cassalanters sent agents to Gralhund Villa during the confrontation. Savra wants a full debrief on everything the party saw inside. |
-| **Xanathar's Lair** | The Xanathar Guild's use of intellect devourers is an abomination in Savra's specific theological framework. She offers to accompany the party into Xanathar's lair (her Renown 3 benefit, once per quest) if they commit to putting Nihiloor down permanently. |
+| **Xanathar's Lair** | The Xanathar Guild's use of intellect devourers is an abomination in Savra's specific theological framework. She offers to accompany the party into Xanathar's lair (her Renown 3 benefit, once per quest) if they commit to putting Nihiloor down permanently. Nihiloor always escapes, so she asks for the attempt, not the kill. |
 | **Cassalanter Villa** | Savra has been preparing for this since Mission 5. She accompanies the party into the Cassalanter Villa as a combat ally. Her knowledge of the villa's interior is limited; her capability inside it is not. |
 | **Vault of Dragons** | If the Halls of Justice formally recognized the party as Order agents (Mission 6 Aftermath), Watch cooperation at the Vault district is marginally better. More practically: Savra will testify on the party's behalf if any **Vault of Dragons** complication goes legal. |
 

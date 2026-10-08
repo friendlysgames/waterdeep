@@ -16,7 +16,7 @@ Laeral's primary text is post-Vault, with three readings that quote the party's 
 
 The Sending is exactly 25 words and opens with the rank's name. It reaches a party underground and tells them to come up, and the Tower scenes wait until the member is on the surface. Vajra stands at her desk as she does in every other meeting, so the back-window scene and "Sit." are gone.
 
-She says she has given the rank twice before and states no tenure. The Mad Mage seeds are one-line GM facts. The Event does not duplicate Laeral's private request in the Lords' Alliance rank **Lioncrown**.
+She says she has given the rank twice before in her three years as Blackstaff. The Mad Mage seeds are one-line GM facts. The Event does not duplicate Laeral's private request in the Lords' Alliance rank **Lioncrown**.
 
 ## Invented Names and Open Items
 

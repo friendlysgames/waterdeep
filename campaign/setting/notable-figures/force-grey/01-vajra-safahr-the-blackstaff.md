@@ -9,7 +9,7 @@
 
 ## Roleplaying Information
 
-**Resonance.** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she does not feel, and sympathy when the party realizes how tired she is.
+**Resonance.** Vajra should inspire respect for the weight she carries, discomfort with her refusal to perform warmth she does not feel, and sympathy when the party realizes how young she is and how tired three years in the post have made her.
 
 **Emotions.** Vajra most often feels burdened determination, impatient competence, defensive pride, controlled anger at threats to Waterdeep, dry humor that surfaces at unexpected moments, and private exhaustion she will not show.
 
@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Vajra is the Blackstaff, commander of Force Grey, who communicates by Sending (often exactly 25 words) and does not perform warmth. To those she trusts, she cares about Waterdeep and the people in it, and the work has worn her down. Deep down, she wields a staff containing Khelben Arunsun's soul, and Laeral Silverhand views her as an insecure child holding her dead husband's weapon. She does not find observations about her youth interesting.
+**Persona.** To the world, Vajra is the Blackstaff, commander of Force Grey, who communicates by Sending (often exactly 25 words) and does not perform warmth. To those she trusts, she cares about Waterdeep and the people in it, and three years as the youngest Blackstaff ever has worn her down. Deep down, she wields a staff containing Khelben Arunsun's soul, and Laeral Silverhand views her as an insecure child holding her dead husband's weapon. She does not find observations about her youth interesting.
 
 **Morale.** In a fight, Vajra would open with something large enough to end the conversation. She explains herself afterward to exactly no one.
 
