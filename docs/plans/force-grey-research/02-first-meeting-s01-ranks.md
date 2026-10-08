@@ -301,6 +301,7 @@ Scope: `00-first-meeting`, `s01-the-full-picture`, `r03-junior-griffon`, `r10-se
 5. Names: accept Aldris Maeven, Rhendar Solne, Merris, or rename (see 7). Name the three extra r50 veterans or leave them unnamed.
 6. Final reserve mechanism (5d): choose (a) cast on the surface or at the Yawning Portal only; (b) Vajra travels down once by the stairs (takes a day per level); (c) a sealed casting she makes at the commission and the party carries (a *spell scroll* in all but name). Recommend (a), with the party's *Sending* as the call; for resurrection-type needs the body comes up.
 7. Public/Sealed: per member or per party (recommend per member).
+9. Tenure: three years (NF, org page, R r50) vs Blackstaff since 1479 DR (docx, section 10). Recommend three years.
 8. Spell lists: the Junior (3rd-level), Gray Hand consumable, Force Grey (7th-level) and Commander scroll lists are not in any source; the 2024 Archmage block and the Common potion list need checking.
 
 ---
@@ -332,6 +333,44 @@ What the event must give a party that is expected to be in Undermountain:
 - **Limits that matter below ground:** transport magic fails (WDMM:536); *Sending* works except to Halaster (WDMM:546); the team goes in through the Yawning Portal.
 - **Seeds:** Laeral's decline and the Runestone (WDMM:457-461); LA r50's missing Alliance agents; Halaster.
 - **Rules:** Public/Sealed per member; no Renown or Milestone; no *wish*; Manshoon only if **Manshoon Named**.
+
+---
+
+## 10. Docx guide (`Vajra Safahr, Zelifarn, and Deepwater Harbor quests.txt`, plus `Meloon Wardragon NPC Guide.txt`)
+
+Paths: `/tmp/claude-0/-home-user-waterdeep/a2f34fba-baef-54d3-97ed-3a637e207a74/scratchpad/docx-text/`. The Vajra guide is 41 lines; the Meloon guide was searched for Vajra/Force Grey/griffon and read at :96-143.
+
+**Facts.**
+- Vajra "the youngest Blackstaff in Waterdeep's history, ascended... in 1479 DR". Predecessor and mentor Samark Dhanzscul was assassinated by Khondar "Ten-Rings" Naomal, a Watchful Order guildmaster; Vajra was captured and tortured in a Neverember family property (Vajra guide :2-3).
+- Renaer, Laraelra Harsard and Meloon Wardragon freed her and she completed the rite at the Tower (:3). Meloon guide :125-128 and :153-165: Meloon charged in with Azuredge; Vajra "owes Meloon her life" (:143); she then "welcomed him into our Force Grey special forces as a Protector of the Peace" (:128); she is "the seventh Blackstaff" (:165).
+- 1492 DR is the Dragon Heist year, so she has held the staff about 13 years (:4).
+- Renaer "personally vouches for the adventurers and brings them to Blackstaff Tower" (:7); "she assesses their skills and offers them a trial mission" (:8). The first trial missions are Zelifarn and the Deepwater Harbor (:10-25), then Meloon (:37).
+- Rewards: "Access to Blackstaff Tower and its resources (1 renown)"; "Entrance to Tower as a Mage of the Academy or a member of Force Grey (minor magical boons)" (:35-36). Vajra later activates the Walking Statues (:38); the statues need the Blackstaff (WDH:32723).
+- Meloon guide :132: the author offered "a promotion from a Gray Hand to a Force Gray rank" for carrying out the Meloon orders. Vajra's voice at that scene: "always cool, collected... always in control" and "torn between duty and friendship" (:142-143). Her dialogue there is long and emotional, which breaks VOICE:9 and :15.
+
+**What it does not contain (so these stay unverified):** Vajra's species, origin or alignment; the Underclock badge; a scroll vault; Aldris Maeven, Rhendar Solne, Merris; any griffon or Griffon Cavalry link; Sending word counts; the Gray Hand/Junior/Senior rank ladder.
+
+**Open questions it settles.**
+- Why Vajra trusts Renaer: confirmed and expanded. NF:26 and Renaer NF:26 are consistent with it. Use as the GM-block reason and as one lore line for Vajra, not as speech: she never asks for sympathy.
+- Whether "Renaer's rescue" in ev-04:31 means the warehouse: no new information; Appendix B:883 stays the source.
+- "Academy" support: "Mage of the Academy" (:36) agrees with WDH:32680 (Blackstaff Academy), so a Tower research division, an Academy mage like Aldris and a library are plausible. This raises Aldris from invention to supported-in-kind. Names still invented.
+- Meloon as Vajra's protege/Force Grey veteran: supports the r25 "Veteran Force Grey member" as a Force Grey fighter type (Meloon himself is the canonical example, Meloon NF).
+
+**Open questions it does not settle.** Origin and alignment (NF Tethyrian/neutral vs Calishite elsewhere), Underclock, scroll vault, griffons, names. The griffon item stays "no Force Grey link".
+
+**New contradictions.**
+1. **Tenure.** Docx: Blackstaff since 1479 DR (about 13 years in 1492). NF:22, org page :11 and R r50:42 say "three years", "aged ten". The Meloon guide says "over a decade ago" (:125). Rank r50 ("third time in three years") and the NF "aged ten years in three" depend on the three-year version. Needs a decision; recommend keeping the NF/guide three-year version (the campaign pages agree with each other and with WDH:32679 "youngest ever... mid-thirties") and treating the docx dates as homebrew.
+2. **Who introduces the party.** Docx: Renaer brings the party to the Tower in person. WDH and Appendix B: Vajra sends a *Sending*. The remix follows WDH. Option: Renaer vouches offstage only; do not add him as a guide at the door.
+3. **Mission order.** Docx puts Meloon after Zelifarn (consistent with R M2 then M3) and offers a Gray Hand to Force Grey rank promotion for Meloon; this is a fourth source for the M-event rank-title clash (4a-6).
+4. **Rank benefit.** Docx has "1 renown" for Tower access; the remix gives Renown 1 for joining. No conflict, but do not add a second renown award.
+5. **Meloon cure.** Meloon guide :56 says only *wish* can fix his brain. The standing rule replaces this with the Occupying Devourer extraction (OOS:586); not in scope here.
+6. **Vajra dialogue in the Meloon scene** (:121-131) lists "Fleetswake" distraction and "a decade ago"; Fleetswake is Ches 21-30 (structural-rules.md:44), after the first-meeting window. M3 timing is out of scope.
+
+**Changes to earlier recommendations.**
+- 4a-3 and 7 (origin): docx adds nothing; keep NF values.
+- 5a: add one GM sentence in "What Is Actually True": Renaer's rescue of Vajra and Meloon's part in it (docx :3, NF:26) is why she acts on his word. Do not put the 1479 date or Khondar in player-facing text until the tenure contradiction is settled.
+- 6e: add decision 9, tenure (three years vs 1479 DR).
+- 7: Aldris is Academy-consistent (docx :36); Meloon is the canonical Force Grey veteran.
 
 ---
 
