@@ -1,112 +1,480 @@
 # The Dragon in the Harbor
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Social and Exploration Event begins when a Force Grey member receives Vajra's *Sending* about a dragon in Deepwater Harbor, or when Meritide Blackfin gives the party 48 hours to find a thief. It ends when each participating member has reported to Vajra at Blackstaff Tower. In this Event, the party can:
 >
-> This Social/Exploration Event begins when Vajra's Sending arrives and the party descends into Deepwater Harbor. In this Event:
+> - Hear Meritide's complaint about Umberlee's missing offerings, at the Queenspire during Fleetswake or at the harbor quay on any other date.
+> - Take Vajra's brief and collect one *potion of water breathing* for each member and each companion.
+> - Dive to the elvish wreck, read Zelifarn's intentions and trade facts and gifts with him.
+> - Persuade Zelifarn to return the offerings, or cover up the theft and keep them.
+> - Learn about the vessel under the *Eyecatcher* and swim down to look at its keel.
+> - Report to Vajra and decide how much of the vessel to describe.
 >
-> - Vajra provides four potions of water breathing (thirty minutes each) and instructs the party to move with purpose.
-> - The harbor floor at depth is cold, dark at the edges, and lit in the center by diffracted light from above.
-> - Zelifarn (Young Bronze Dragon) notices the party before they are within speaking range and approaches immediately.
-> - A DC 13 Wisdom (Insight) check assesses his intentions as genuinely non-hostile; failure leaves his motives uncertain, which Vajra finds unsatisfying.
-> - After establishing rapport — best purchased through giving him something genuinely valued — Zelifarn mentions the submarine attached to the *Eyecatcher*'s hull.
-> - Vajra's response to the submarine intelligence makes clear its significance without explaining it.
-> - The Zelifarn Contacted attunement flag is set at the end of this Event.
+> Only Force Grey members receive the *Sending* and report to Vajra. Their companions can help with every other part of the mission.
 
-> **[GM]**
+> [!gamemaster]**What Is Actually True**
 >
-> #### Hook Variant: Fleetswake
-> If the campaign is running during the Fleetswake festival (Ches 21–30) and the party has had at least one scene in the Dock Ward or harbor, use this variant in place of Vajra's Sending:
->
-> Umberlee's tithes are disappearing from the deepest harbor moorings. **Meritide Blackfin**, the Dread High Priest of the Queenspire — a Darfellan priest of distinctive presence — contacts the party through a dockside priest, a message in a sailor's tankard, or a locathah messenger. The priest gives them 48 hours to find the thief before the goddess calls a wave. Meritide provides gillweed or potions of water breathing. The party brings the problem to Vajra (through Renaer or through Renown 1+ with Force Grey), and she folds it into Mission 2 as the same underwater assignment.
->
-> During the Fleetswake variant: the harbor is rougher, Zelifarn is in choppier conditions, and the **DC 13 Wisdom (Insight) check** to read his intentions is **DC 15**.
->
-> Use the standard Sending hook at all other times.
+> - Zelifarn is a Young Bronze Dragon who has lived in Deepwater Harbor for about three tendays. He scours the wrecks on the harbor floor and keeps what he finds in a cave beneath the elvish wreck.
+> - Captains and churches leave offerings for Umberlee at the deep moorings. Zelifarn found them unguarded, carried them to his cave and believes they were abandoned.
+> - Zelifarn never lies and tells the truth to anyone who asks, because he does not understand secrets, and he submerges if he is attacked.
+> - Meritide Blackfin believes a thief is robbing Umberlee, but Umberlee does nothing on screen in this Event, and the only risk is Meritide's grudge.
+> - The vessel under the *Eyecatcher* is the *Scarlet Marpenoth*, a Bregan D'aerthe submersible about 80 feet long and 20 feet across. Zelifarn does not know whose it is. The Faire's deck watch has fired crossbows near him to drive him off.
+> - Vajra has heard that a bronze dragon sits just outside the Dragonward. She knows nothing about the vessel or the offerings until the party tells her.
+> - The *Eyecatcher* lies in the deep harbor from the day the Faire's fleet docks until it leaves on Tarsakh 20.
+> - The Black Viper had no part in the theft, so the dockhands' rumor is wrong, and no speaker in this Event names Jarlaxle or Bregan D'aerthe.
 
-**Background (DM only)**
+### The Brief
 
-**Zelifarn** is a young bronze dragon who has taken up residence near an old elvish wreck forty feet below the harbor surface. He has been there eleven days. He has surfaced twice — once to examine a fishing boat, once to speak briefly with a sailor, who fainted. He has not harmed anyone.
+The mission opens one of two ways, depending on the date, and you use the Queenspire opening on Ches 21–30, during Fleetswake. On any other date, use the *Sending* and run Meritide's complaint at the quay in **The Descent**.
 
-He has also noticed something attached to the hull of the *Eyecatcher*, the Sea Maidens Faire's largest vessel, anchored in the deep harbor: a secondary structure below the waterline that does not match any conventional hull architecture. He would examine it himself but the ship's crew discouraged his approach. He is correct that they would have. The structure is a Bregan D'aerthe operational submarine.
+If the date falls on Ches 21–30, read or paraphrase the following:
+
+> [!readaloud]
+>
+> A locathah messenger in a wet leather harness finds you in the festival crowd and presses a wax tablet into your hand. It carries the mark of the Queenspire, and the messenger leads you along the waterfront as soon as you have read it. Fleetswake flags snap along the harbor wall, and sailors toss copper into a stone basin at the foot of the temple as you pass.
+>
+> Inside, a tall Darfellan with blue-grey skin and a crest of fins along his skull waits beside a salt-crusted altar. He folds his webbed hands and looks at each of you before he speaks.
+>
+> > Someone is robbing the Queen of the Depths, and the offerings left for her at the deep moorings are vanishing without a trace. I have found no thief among the dockhands or the captains. You have forty-eight hours to find one and bring back everything that was taken.
+
+> [!social]**The Priest at the Salt Altar**
+>
+> Meritide Blackfin (Chaotic Evil, Darfellan, he/him) :: the Dread High Priest of the Queenspire, who serves Umberlee and has two days to quiet her.
+>
+> Meritide is formal, cold and tired, and he speaks slowly because he dislikes repeating himself. He does not threaten the party, because he does not need to. He wants the offerings back and the thief named, in that order.
+>
+> Conversation topics Meritide is willing to discuss include:
+>
+> - What was taken and from which moorings.
+> - Who he suspects.
+> - The 48 hours and what he expects at the end of them.
+>
+> He will not discuss the goddess's moods, the Queenspire's rites or the temple's wealth.
+
+> [!qna]**What was taken?**
+>
+> > Silver cups, casks of coin from the boat races, and candles sealed in wax. Captains have left them at the deep moorings for generations and nobody has ever touched them, yet every mooring I have checked is empty.
+
+> [!qna]**Who took them?**
+>
+> > I don't know who took them, though the dockhands whisper that the Black Viper did it. I have no proof of that, and I would sooner learn the truth than burn a man for a rumor.
+
+> [!qna]**What happens in forty-eight hours?**
+>
+> > The Queen of the Depths calls a wave into the harbor, and I will not stand between her and the docks. Find the thief before then, and I may not have to.
+
+Renaer calls at Trollskull Manor that evening, having heard about the summons from the temple's boatmen. Read or paraphrase the following:
+
+> [!readaloud]
+>
+> Renaer knocks on the door of Trollskull Manor with a ledger of harbor customs tucked under one arm. He listens to the whole story and then shakes his head slowly.
+>
+> > Vajra has had sailors reporting a bronze dragon outside the Dragonward for a tenday now, and I'd say it's worth asking whether that dragon is your thief. Go and see her at the Tower, and tell her that Renaer sent you.
+
+On any other date, the *Sending* goes to the Force Grey member with the highest Renown, or with the highest Wisdom if Renown is tied. Read or paraphrase the following to that player:
+
+> [!readaloud]
+>
+> You are in the middle of something else when a dry, flat voice arrives behind your eyes with no greeting. It speaks fast and clipped, and nobody near you hears a word of it.
+>
+> > Blackstaff here. Bronze dragon, Deepwater Harbor, outside the Dragonward. Intentions unknown. Come to the Tower now. Bring your people. Assess it, do not provoke it.
+
+The recipient can answer in up to 25 words, and Vajra does not wait for a reply. Whichever opening ran, the members go to Blackstaff Tower, where Gray Hands may enter at any hour, and companions and non-members wait in the entry hall.
+
+> [!readaloud]
+>
+> The door of Blackstaff Tower swings open as you reach the step, and nobody stands behind it. Upstairs, Vajra Safahr marks a map on a standing desk and does not look up when you enter. The study holds shelves and a pen stand, and there is no chair for visitors.
+
+If the party came from the Queenspire, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Vajra sets down her pen and looks up at each of you in turn before she speaks.
+>
+> > Renaer sent word ahead that the Queenspire has lost its offerings. A bronze dragon has sat outside the Dragonward for a tenday, and I think those are one problem. Find out whether the dragon is your thief and what else it has seen.
+
+On any other date, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Vajra sets down her pen and looks up at each of you in turn before she speaks.
+>
+> > Good, you came quickly. Sailors report a bronze dragon in Deepwater Harbor, just outside the Dragonward, and it hasn't hurt anyone. I want to know why it's there, so assess it and report to me.
+
+> [!social]**The Blackstaff at Her Desk**
+>
+> Vajra Safahr (Neutral, Tethyrian Human, she/her) :: the Blackstaff of Waterdeep and commander of Force Grey, who briefs on her feet and wants an assessment, not a fight.
+>
+> Vajra does not sit, does not offer tea and does not repeat herself. She wants to know what the dragon intends and whether it will stay, and she asks for nothing else. In company she stays barely clean when she swears.
+>
+> Conversation topics Vajra is willing to discuss include:
+>
+> - Where the dragon has been seen and what it has done.
+> - The Dragonward and why a dragon at its edge concerns her.
+> - The potions and what she wants reported.
+> - During Fleetswake, the Queenspire's missing offerings.
+>
+> She will not discuss the Blackstaff, her own years in the Tower or what the Open Lord thinks of the matter.
+
+> [!qna]**Why does a dragon matter?**
+>
+> > The Dragonward keeps dragons out of the city unless the Open Lord allows one in. This one sits just beyond it, close enough to watch the docks, and I dislike anything I can't explain.
+
+> [!qna]**Is it dangerous?**
+>
+> > It frightened a fishing crew and a sailor fainted, but nobody was hurt. Treat it as dangerous until it proves otherwise, and don't provoke it.
+
+> [!qna]**What do you want from us?**
+>
+> > I want to know why it's here, whether it will stay and whether anything else is wrong in that harbor. If it talks, let it talk, and then report to me.
+
+> [!qna]**Why us?**
+>
+> > You report cleanly, and everyone else I trust is busy. Force Grey pays no wage, but the Tower covers the potions and keeps a record of what you do.
+
+> [!qna]**What about the Queenspire?**
+>
+> This answer is available only during Fleetswake.
+>
+> > If your dragon took the offerings, settle it before the temple does. If it didn't, I want the real thief too, but I want the dragon assessed first either way.
+
+Continue with **The Vials**.
+
+### The Vials
+
+Vajra hands out the potions at the end of the brief, and every member and every companion receives one because she has no spares.
+
+> [!readaloud]
+>
+> Vajra opens a drawer and sets a row of glass vials on the desk, each filled with a pale green liquid. She counts them with one finger and slides them across the wood.
+>
+> > One for each of you, and one for each companion waiting downstairs. Each lasts a full day once it's drunk, and I have no spares, so don't drink yours on the stairs.
+
+> [!exploration]**The Vials**
+>
+> Each *potion of water breathing* lets its drinker breathe underwater for 24 hours but gives no Swim Speed, so the characters swim at the usual cost in movement.
+>
+> - A vial ends 24 hours after it is drunk, whether the character is above the water or below it.
+> - A character who loses or breaks a vial can ask Vajra for one replacement, which she gives without comment.
+> - A character without a vial cannot dive and waits at the quay with the party's belongings.
 
 ### The Descent
 
-Vajra has four vials of *potion of water breathing* on the desk when the party arrives. Thirty minutes each. "Move with purpose," she says. She adds one spare *potion of water breathing* for the entry if the route requires it.
+The party reaches the quay with its vials, and during Fleetswake it already knows Meritide's terms because his 48 hours started when he finished speaking. On any other date, he meets the party here.
 
-The harbor bottom at depth is cold, dark at the edges, and lit in the center by diffracted light from above. The elvish wreck rises from the sediment — two hundred years of growth on its frame, its masts reduced to bare poles. Circling it, trailing cold bioluminescence, is a creature approximately forty feet long.
+If the party has not yet met Meritide, read or paraphrase the following:
 
-### Zelifarn
+> [!readaloud]
+>
+> The pier at the end of the quay is crowded with fishermen mending nets, and a gull screams over a barrel of fish heads. A shape rises from the water beside the last piling. It becomes a tall Darfellan, who climbs the ladder with webbed hands and stands dripping on the planks.
+>
+> > The dockhands say you are going down to look at the bronze dragon, and I think it took the silver, coin and candles missing from the deep moorings. They were meant for the Queen of the Depths. You have forty-eight hours to bring them back to the Queenspire.
 
-**Zelifarn** — use the **Young Bronze Dragon** stat block (2024 *Monster Manual*). He is not here to fight. He is here because a harbor is endlessly interesting and he has been paying close attention to this one.
+Use Meritide's social block and answers from **The Brief**. Here he suspects the dragon, so he names it as his suspect instead of the Black Viper, and his 48 hours start when he finishes speaking.
 
-He notices the party before they are within speaking range. He turns and approaches at a speed that covers the distance before anyone has quite formulated an approach. He is young and intensely curious.
+> [!gamemaster]**Meritide's Deadline**
+>
+> The only clock in this Event is Meritide's 48 hours, and a vial lasts 24 hours, which covers the whole dive, so the potions never run out underwater.
+>
+> - Track the deadline in days, not hours, because a party that dives, takes a Long Rest and then carries the offerings to the Queenspire still finishes in time.
+> - At the 48th hour, a swell strikes the pilings once and subsides, and nobody is hurt.
+> - A party that delivers the offerings after that still marks **Offerings Returned**, but it earns no Renown for them.
 
-He wants things, and he pursues them through the relentless application of enthusiasm and logic rather than threats. The belt buckle on a character's belt is interesting. The ring on another character's finger has a story. A character who gives Zelifarn something they genuinely value — not a spare coin, something they actually use — earns his warmest regard for the rest of the conversation and, implicitly, beyond. A character who gives him something worthless receives polite attention and nothing more.
+> [!readaloud]
+>
+> The harbor floor lies forty feet down, cold and green, with slanted columns of light drifting across the silt. An old elvish wreck rises ahead, its masts reduced to bare poles hung with weed and its hull breached near the bow. Something large and bronze circles the wreck, trailing a faint glow, and it turns toward you well before you swim within speaking range.
 
-**Assessing his intentions:** A **DC 13 Wisdom (Insight)** check confirms he is harmless and genuinely curious about the harbor. On a failure, his motives remain uncertain — the party can report that he did not attack anyone but cannot confirm he will not. Vajra, when given this ambiguous report, does not love it. She asks them to return if he surfaces again. A partial report is a real consequence.
+### The Wreck
 
-### The Eyecatcher
+Zelifarn is friendly and wants something, and he covers the distance before anyone has formed a plan.
 
-After several minutes of negotiation over interesting objects, Zelifarn mentions something conversationally:
+> [!readaloud]
+>
+> The dragon crosses the gap before you notice it has moved, and then it stops an arm's length away with its head tilted. Its bronze scales flash in the slanted light, and it grins widely, showing rows of teeth, and then it waves one claw at you.
+>
+> > Hello, hello, boat people, you're new here! Tell me something I don't know, and I will tell you something back in trade!
 
-> > "The big ship with the funny name, the one with the flags — something is attached to its bottom. Not the usual shapes. Not an anchor, not a keel extension. A shape I don't know. Like a second hull that faces down." A tilt of the head. "I've been watching it for a week. It comes out sometimes, at night, and goes back." A pause. "I considered offering to help them with their security and decided they would say no."
+> [!exploration]**Reading Zelifarn**
+>
+> Any character who watches Zelifarn for a few minutes and makes a successful DC 13 Wisdom (Insight) check determines that he is curious, has no wish to hurt anyone and does not understand why people are afraid of him.
+>
+> - **Fallback:** A character who asks him outright, "Will you hurt anyone in the city?", spends one trade and gets his plain answer, which is no. Either route confirms that he is not hostile.
+> - **Unconfirmed:** A party that reports to Vajra without either route has not confirmed his intentions and earns no Renown for them.
 
-He is correct on both counts. The structure is a Bregan D'aerthe submarine — a covert operational vessel attached to the flagship's hull below the waterline. Zelifarn's observation is accurate, and Vajra's reaction to it is the best intelligence-processing the party will witness this arc.
+> [!hazard]**If the Party Attacks**
+>
+> Zelifarn uses the **Young Bronze Dragon** stat block (CR 8), and the **Force Grey Mechanics Reference** covers him. He does not want a fight and has no allies nearby, and the party gains nothing from attacking him while it risks losing its way to the offerings and the keel.
+>
+> #### Zelifarn's Tactics
+> At the start of combat, Zelifarn uses his Repulsion Breath, a 30-foot cone. Each creature in it makes a DC 15 Strength saving throw or is pushed 40 feet and knocked Prone. Then he swims for deeper water.
+>
+> During combat, Zelifarn:
+> - Swims away from anyone who follows him, and takes the Dash action if he is hit.
+> - Uses his Bite or Lightning Breath only if a character blocks his route.
+> - Calls out in a high, hurt voice that he is leaving.
+>
+> The fight ends when Zelifarn is out of sight, which happens at the end of his first turn at the latest. He does not surface near the party again in this mission. Mark **Zelifarn Contacted** only if the party spoke with him before the attack.
+>
+> Any character who lowers their weapon and apologises within the same round can call him back with a successful DC 13 Charisma (Persuasion) check, and he returns wary and ready to trade. The check fails automatically if that character has hurt him.
+>
+> If Zelifarn does not return, a party that searches the wreck's hold for an hour and makes a successful DC 15 Intelligence (Investigation) check finds the cave and the offerings. The party can return them to Meritide on its own, and the keel can still be reached from below.
+
+### Zelifarn's Trade
+
+> [!social]**The Bronze Dragon in the Wreck**
+>
+> Zelifarn (Neutral, Bronze Dragon, he/him) :: a bright, bouncy young dragon who trades facts the way sailors trade rumors, and who never lies.
+>
+> Zelifarn is delighted by visitors and wants to know what everything is, and he calls ships by their names and people by what they are wearing. He does not understand secrets and answers anyone who asks him a question, and he picks up rude sailor words and uses them wrong.
+>
+> Conversation topics Zelifarn is willing to discuss include:
+>
+> - What the party carries and what it is for.
+> - What he has seen in the harbor.
+> - The ships, especially the big ship with the funny name.
+> - The offerings he took from the deep moorings, which he calls "the shiny things".
+>
+> He will not leave the harbor, will not enter the city and will not discuss anything he has not seen himself.
+
+> [!exploration]**The Trade**
+>
+> Zelifarn answers one question for each true fact the party gives him that he does not already know, and once a question is paid for he answers it fully and truthfully.
+>
+> - **A fact:** A character states one true thing about the surface world in a sentence or two, such as how a lock works or why a temple rings a bell. A fact he already knows, such as "ships float", earns nothing.
+> - **A gift:** A character hands over something they carry and use, such as a holy symbol, a tool kit, a favored weapon or a worn ring. Zelifarn answers every question for the rest of the dive, and the party marks **Zelifarn Befriended**. The character does not get the item back.
+> - **A spare coin:** A coin or an item the character never uses earns polite attention and one answer, and marks nothing.
+
+> [!qna]**What have you seen?**
+>
+> > There are so many ships that I've watched twelve sizes of boat and seven kinds of cargo since I came. Four sailors fell off their ships, and the other sailors fished them out, which is good but worrying, because humans fall off things a lot.
+
+> [!qna]**Why are you here?**
+>
+> > The harbor has more wrecks than anywhere I've ever swum, and they're full of shiny things that I keep in my cave. Nobody has chased me away yet, except the funny ship, and they only used crossbows.
+
+> [!qna]**Will you hurt anyone?**
+>
+> > I would never hurt anyone, but I did frighten a sailor once, and he fell over and I felt terrible. I tried to say sorry, but he fainted before I'd finished.
+
+> [!qna]**What about the city?**
+>
+> > There's a wall in the air around the city, and it makes my scales itch when I get close, so I stay on this side. The harbor is big enough for me, and it's my harbor now.
+
+Continue with **The Offerings** or **The *Eyecatcher***. The party can run them in either order.
+
+### The Offerings
+
+During Fleetswake the party is looking for the thief and can ask Zelifarn outright, and on any other date Meritide has named the dragon as his suspect. Either way, Zelifarn confesses as soon as anyone asks about the deep moorings.
+
+> [!readaloud]
+>
+> Zelifarn's whole body wiggles when you mention the deep moorings, and he claps his claws together before he answers.
+>
+> > Oh, you mean the shiny things from the posts, and those were mine! They were lying on the bottom with nobody guarding them, so I took them all to my cave. Do you want to see?
+
+> [!readaloud]
+>
+> The cave opens beneath the wreck's bow, a low gap in the rock that only a dragon could squeeze through. Inside, silver cups are stacked like bowls, and split casks spill coin across the floor. A row of candle jars sealed in wax stands beside a ship's bell gone green with age.
+
+The cave holds fourteen silver cups, three split casks of boat-race coin, six jars of sealed candles and a ship's bell. The coin and silver together are worth about 400 gp, and the party now chooses between returning the offerings and keeping them.
+
+> [!exploration]**Getting Them Back**
+>
+> Zelifarn thinks the offerings were abandoned, and he does not want to give up shiny things. The party has three ways to change his mind, and a party that fails at one can try another.
+>
+> - **Explain:** Any character who tells him the offerings were gifts to a goddess who lives below, and makes a successful DC 12 Charisma (Persuasion) check, convinces him they were never abandoned. The character has Advantage if the party marked **Zelifarn Befriended**.
+> - **Trade:** A character who offers goods worth 100 gp or more in exchange persuades him without a check. He takes the goods as a fair swap.
+> - **A true fact about Umberlee:** Any character who tells him something he does not know about the goddess, such as what she does to ships that anger her, and makes a successful DC 10 Intelligence (Religion) check persuades him.
+> - **Fallback:** If all three routes fail, Zelifarn agrees once the party tells him about Meritide's 48 hours, because he does not want a wave in his harbor.
+>
+> Once he agrees, Zelifarn helps carry the offerings to the quay, and the party carries them from there to the Queenspire in two trips.
+
+> [!readaloud]
+>
+> Zelifarn lowers his head and looks at the pile of cups for a long moment, and then he speaks in a smaller voice.
+>
+> > A goddess lives down here, and I took her presents? That's a very big person to take things from, and I'm sorry. I'll help you carry them back to her priest.
+
+If the party returns the offerings, read or paraphrase the following at the Queenspire's water gate:
+
+> [!readaloud]
+>
+> Meritide counts the cups into a stone basin one at a time, and then he lifts the ship's bell and rubs the green from its rim with his thumb.
+>
+> > It is all here, and the Queen of the Depths will have her due and hold her wave. The Queenspire will remember who brought it back.
+
+A party that delivers the offerings after the 48th hour finds Meritide colder and just as satisfied. Mark **Offerings Returned** when he takes them.
+
+> [!exploration]**Keeping the Offerings**
+>
+> A party that wants the matter closed without returning anything has two people to deal with, because Zelifarn cannot keep a secret or lie and Meritide will ask what the party found.
+>
+> - **Zelifarn:** A character who asks him to say nothing gets a puzzled answer: "I don't know how to do that. I'll just not say it unless someone asks." Nobody from the Queenspire asks him in this mission.
+> - **The offerings:** The party can take the coin and the cups, about 400 gp, or leave everything in the cave. The candles and the bell are too heavy and too strange to sell quickly.
+> - **Meritide:** Any character who gives him a false account, such as smugglers who sank their haul and left the harbor, and makes a successful DC 14 Charisma (Deception) check convinces him. On a failure, he knows the account is false.
+>
+> Mark **Offerings Kept** whichever way the check goes.
+
+If the Deception check succeeds, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Meritide listens to the whole account without moving, and when you finish he nods once, slowly.
+>
+> > Smugglers who sank their haul and left the harbor is a thin story, but I have nothing better. I will keep watching the moorings, and I will remember that you came to me with this.
+
+If the check fails, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Meritide's crest of fins rises as you speak, and he lets the silence run for a while after you finish.
+>
+> > That is a lie, and you tell it poorly. I will not strike you in my own house, but you should remember that I let you leave.
+
+### The *Eyecatcher*
+
+Zelifarn raises the vessel unprompted once the party has made three trades or marked **Zelifarn Befriended**, and otherwise a character who asks about the ships raises it.
+
+> [!readaloud]
+>
+> Zelifarn tilts his head one way and then the other, and the light slides along his scales as he thinks about it.
+>
+> > The big ship with the funny name, the one with all the flags, has something attached to its bottom that isn't an anchor or a keel. It's a shape I don't know, like a second hull that faces down, and it comes out sometimes at night and goes back. I thought about offering to help them with their security, and then I decided they would say no.
+
+> [!qna]**How big is it?**
+>
+> > It's longer than eight rowboats end to end and about two rowboats wide. It sits under the middle of the ship, and it's fixed to the keel with a round collar.
+
+> [!qna]**Who is on the ship?**
+>
+> > They were people who didn't want me looking, and they stood at the rail and shot crossbows into the water near me. They shouted "fuck off" at me, and I looked for it, but that place isn't on any chart.
+
+> [!qna]**When does it come out?**
+>
+> > It only comes out at night, and only sometimes. It goes out past the harbor mouth and comes back before the sky is pale, and it has done that since the ship first came in.
+
+> [!qna]**Will you keep watching it?**
+>
+> > Yes, I watch everything in this harbor! If the second hull does anything new, I'll remember it, and you can trade me for it.
+
+> [!exploration]**Looking at the Keel**
+>
+> The party can swim to the *Eyecatcher* and look at the vessel itself, provided every character who goes has a vial still in effect.
+>
+> Any character who swims under the hull and makes a successful DC 13 Dexterity (Stealth) check passes the deck watch unseen. A character who then makes a successful DC 14 Strength (Athletics) check pulls themselves to the keel collar and sees the whole vessel. It is about 80 feet long and 20 feet across, a round collar clamps it to the keel, and a hatch seam runs along its top.
+>
+> - **Failed Stealth check:** A lantern swings over the rail, and a crossbow bolt strikes the water above the party. The party withdraws unharmed and learns nothing beyond what Zelifarn told it.
+> - **Failed Athletics check:** The character sees the vessel's outline from below but cannot reach the collar. Zelifarn's account supplies the rest.
+>
+> The hatch is locked and belongs to **Sea Maidens Faire**, where it matters, and the Faire records divers near the keel as unexplained and takes no further action.
+
+Continue with **The Report**.
 
 ### The Report
 
-Vajra hears the Zelifarn assessment first — straightforward, she takes it. Then the submarine: she goes quiet for a long moment.
+Vajra receives the members at any hour while companions wait below, and she hears the dragon first, then the offerings if the party raises them, and the vessel last.
 
-> > "A carnival fleet with an underwater attachment. In Waterdeep's harbor." A pause. "For how long?"
+> [!readaloud]
+>
+> Vajra is standing at her desk when you reach the study, with a clean sheet in front of her and a pen in her hand. She looks at each of you in turn and gestures with the pen.
+>
+> > Report on the dragon first, and then tell me anything else that you found.
 
-The question is rhetorical; she is already writing. She asks follow-up questions about the submarine's dimensions and attachment method if the party can answer them. Each additional detail earns her focused attention for another minute. When they have given everything they have, she closes the notebook.
+If the party confirmed that Zelifarn is not hostile, read or paraphrase the following:
 
-> > "Thank you. This is useful."
+> [!readaloud]
+>
+> Vajra writes a short line on her sheet and underlines it once before she looks up.
+>
+> > Then he's a nuisance, and I can live with a nuisance outside the Dragonward. Is there anything else that you found?
 
-She does not tell them what she is going to do with it. The answer is: file it under the Bregan D'aerthe section of her ongoing city threat assessment and significantly revise her understanding of how far Jarlaxle's reach actually extends in Waterdeep.
+If the party did not confirm his intentions, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Vajra sets down her pen and lets the silence run until one of you shifts your feet.
+>
+> > That tells me only what a sailor could have told me. Go back if he surfaces again, and ask him properly.
+
+If the party mentions the offerings and marked **Offerings Returned**, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > So the Queenspire has its silver back, which is good. Temples hold grudges longer than I do, and I don't need that one.
+
+If the party mentions the offerings and marked **Offerings Kept**, read or paraphrase the following:
+
+> [!readaloud]
+>
+> > That is between you and the temple, so don't bring it to the Tower.
+
+Then the members describe the vessel. Read or paraphrase the following:
+
+> [!readaloud]
+>
+> When you describe the second hull, Vajra puts down her pen and looks at you without speaking. Then she picks it up again before you have finished, and she begins to write.
+>
+> > A carnival fleet with an underwater attachment. In Waterdeep's harbor. For how long?
+
+> [!exploration]**Vajra's Questions**
+>
+> Vajra asks four questions. A member who answers at least three of them in usable detail marks **Submarine Reported**, using that member's name.
+> - **Where is it?** Under the middle of the *Eyecatcher*, fixed to the keel. Zelifarn gives this.
+> - **How big is it?** About 80 feet long and 20 feet across. Zelifarn's rowboats are enough, and Vajra converts them herself.
+> - **How is it fixed?** A round collar clamps it to the keel, with a hatch seam along the top. Only a character who reached the keel knows this.
+> - **How long has it been there?** Since the ship arrived, and it leaves at night and returns before dawn. Zelifarn gives this.
+>
+> A member who answers fewer than three gets a nod and no mark. A member who gives all four hears one more line from Vajra: "That's enough to plan around."
+
+> [!readaloud]
+>
+> Vajra closes her notebook, straightens the pen against its edge, and then nods toward the door.
+>
+> > I'll need to verify this myself. Thank you, this is useful, and you can go now.
+
+### Renown Opportunities
+
+> [!gamemaster]**Mission Renown**
+>
+> Each participating Force Grey member gains 2 base Renown for reporting the dragon to Vajra. Companions gain none.
+>
+> - **+1 Renown:** confirm that Zelifarn is not hostile, by the Insight check or by asking him outright, and report it to Vajra.
+> - **+1 Renown:** report the vessel under the *Eyecatcher* in usable detail, and mark **Submarine Reported**.
+> - **+1 Renown:** return the offerings to Meritide before the 48 hours end, and mark **Offerings Returned**.
+>
+> Each bonus is earned once, and nothing in this mission costs a member Renown.
+
+### Aftermath
+
+Zelifarn stays at the wreck and keeps watching the *Eyecatcher*, and if the party gave him a gift he greets it by name when it returns. If the party attacked him, he does not surface near it again in this mission.
+
+Meritide ends the mission satisfied or suspicious. If the offerings came back, the Queenspire's priests tell sailors the thief has gone and the Queen has been paid, and if they did not, Meritide keeps a watch on the moorings and on the party.
+
+Vajra files the report, changes nothing at the Faire and sends no one to the *Eyecatcher*. **Sea Maidens Faire** reads Zelifarn's standing, the offerings and the vessel report.
 
 ### Concluding the Event
 
-#### Zelifarn Contacted: True / False
-Record whether the party made contact with Zelifarn and established a relationship. This flag is read by **Arc H — Sea Maidens Faire**, where Zelifarn is an approach vector and a moral thread. Parties who met him here have prior standing with a young bronze dragon who has been watching the harbor — he recognizes them, has been following their activities with interest, and will cooperate more readily because of what was exchanged here.
+The members' report to Vajra ends the mission. Record Zelifarn's standing, the offerings and the vessel, because **Sea Maidens Faire** reads all three.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> **+1 Renown if** Zelifarn's intentions are confirmed as non-hostile and reported accurately to Vajra.
-> **+1 Renown if** the submarine observation is delivered in enough detail that Vajra can brief Laeral Silverhand's naval intelligence contact. The *Eyecatcher*'s harbor position is now under discreet Watch observation.
+> Mark each outcome that occurs. Later events read them.
+>
+> - **Zelifarn Contacted** — mark when the party has spoken with Zelifarn before he submerges; read by **Sea Maidens Faire** (unconverted).
+> - **Zelifarn Befriended** — mark when a character gives Zelifarn something they carry and use; read by **Sea Maidens Faire** (unconverted), where he is the party's ally.
+> - **Submarine Reported** — mark with each member's name when that member answers at least three of Vajra's questions; read by **Sea Maidens Faire** (unconverted).
+> - **Offerings Returned** — mark when Meritide takes the offerings back; read by **Sea Maidens Faire** (unconverted).
+> - **Offerings Kept** — mark when the party does not return the offerings; read by **Sea Maidens Faire** (unconverted) and the **Junior Griffon** rank event, where Meritide's grudge appears in one line.
 
-> **[GM]**
+> [!gamemaster]**Next Steps**
 >
-> #### Next Steps
->
-> Zelifarn is now a contact — loose, unconventional, and interested in a good exchange. He notices everything that moves below the harbor surface. He will share observations in exchange for something interesting to add to his collection.
->
-> He resurfaces in **Arc H — Sea Maidens Faire**. Parties who gave him something genuine here have established prior standing. Parties who gave him nothing worth keeping will need to earn it fresh.
->
-> **Force Grey Mission 3 — The Trouble with Meloon** becomes available when the party reaches Renown 4 and 4th level.
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
+> **The Trouble with Meloon** becomes available when an individual Force Grey member reaches Renown 5 and 4th level. This faction mission awards no Milestone Points.
 
 ## Overview
 
-Vajra sends the party into Deepwater Harbor to assess a young bronze dragon who has taken up residence below the surface — and to find out what he has noticed.
-
-## Read Aloud
-
-> Four words arrive in one character's head:
->
-> > "Bronze dragon. Deepwater Harbor. Intentions unknown. Come to the Tower."
->
-> Four potions of water breathing are on Vajra's desk when you arrive. Thirty minutes each. She picks up her pen without looking up.
->
-> > "Move with purpose."
->
-> The harbor bottom at depth is cold and dark at the edges, lit in the center by diffracted light from above. The elvish wreck has been down here for two centuries; its masts are bare poles now. Circling it, trailing cold bioluminescence, is a creature approximately forty feet long. It turns toward you before you are within speaking range.
+The party dives into Deepwater Harbor to learn why a young bronze dragon has settled beside an old wreck, and what he has seen.
 
 ## Summary
 
-Vajra sent the party to assess a young bronze dragon named Zelifarn living near an elvish wreck below Deepwater Harbor. He proved non-hostile and intensely curious. He also volunteered that a second hull structure was attached to the bottom of the *Eyecatcher* — one of the Sea Maidens Faire vessels — that he had been watching for a week. Vajra received both reports and immediately began writing.
+We dived to an old elvish wreck in Deepwater Harbor and found Zelifarn, a talkative young bronze dragon who trades one fact for another. He had taken the offerings meant for Umberlee, and we decided what to do about them. He also told us about a second hull under the *Eyecatcher*, and Vajra began writing as soon as we described it.

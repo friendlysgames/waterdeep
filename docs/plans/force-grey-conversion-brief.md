@@ -155,6 +155,8 @@ Where a report lists options, this brief has already chosen. Where a report and 
 |---|---|---|
 | Aldris Maeven (r10 Tower mage) | **Ysmay Halvane** | Aldric Talmost, Aldric (staff guide) |
 | Rhendar Solne (r25 ally) | **Rhendar Orsk** | Vira Solkan |
+| Tolliver Brack (r50, mechanics reference) | **Garrick Stoll** | Tolliver (DR M3) |
+| Isolde Fenn (r50, mechanics reference) | **Sera Vantry** | Isolde (Harper First Meeting) |
 
 Merris (quartermaster) stays. Invented minor NPCs are voiced from the event text and listed in each folder's design notes under "Invented Names and Open Items".
 
