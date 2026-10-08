@@ -1,26 +1,24 @@
 # Design Notes: The Stone's Other Master
 
-## On the Undermountain Seed
+## What the Source Gave
 
-***Illuun as the campaign's structural through-line.*** The Stone's activation resonating with an abolethic dreamer below the city is the Waterdeep-to-Undermountain bridge thread that the campaign's cross-arc design requires. Mirt detecting this resonance and asking for three days to study it is the vehicle that delivers this information to the party in a way that has weight — they have to decide how much they trust Mirt, and the stakes of the decision are clear. Burying the information in a Harper briefing note would not produce that decision point.
+No source describes this mission. Appendix C stops at the fifth mission, and the only text for the sixth is the Harpers guide's table row: Mirt asks for three days with the Stone, a seer detected a resonance, and a Splinter squad attacks. The structure for Vault of Dragons adds that Mirt's payoff names Jalester or Renaer. The rest is remix invention, which this page keeps small by adding only the raid, the cellar and the study.
 
-The Illuun connection is named in the Background block but kept out of the player-facing content. The party learns what the resonance is only if they comply and ask directly. If they refuse, Mirt's comment before leaving — "It knows it's going to be used. It has been patient. I don't know for what." — is the only hook they carry into Arc J.
+## Timing and the Raid
 
-## On Jalester Silvermane
+The mission now runs after **Kolat Towers**, at Renown 13 and 7th level, because 7th level requires all four heists. That removes any dependence on Eye counts. The raiders are survivors of the Splinter's Waterdeep cell, and the Mage has no *Contingency* because the 2024 Mage has none. Nobody escapes to Kolat Towers, and the Mage flies to a cellar and waits for a courier, which gives the party a clock and a place to fight her.
 
-***The compromise revelation is optional, not mandatory.*** The party learns the compromised contact's name only if they gave Mirt the Stone AND asked directly whether the study found anything. The revelation is not a trap — Jalester is not villainous, and the compromise is not a betrayal; it is an accident of geography. But its impact on the party's relationship with the Lords' Alliance is significant enough that the DM should reserve it for parties who actively pursued the information.
+The prior version had Mirt fight beside the party. Here he leaves at 01:00 to fetch his coach, and the raiders move once he has gone. That keeps his statistics out of the audit and explains why the raid fires whatever the party decides. The sending stone replies in a voice no member can place until **Manshoon Named** is marked, and the **Manshoon operational?** result from **Kolat Towers** changes only who is on the other end.
 
-***Renaer as the alternate.*** If the party has had minimal contact with Jalester, Renaer Neverember is the alternate — use whichever name the party has a stronger relationship with. The reveal should be a person, not a mechanics flag. Using a name the party barely remembers produces no dramatic effect. The design note in the source material says "use whichever the party knows better, as the revelation lands harder with a familiar face" — this is the correct principle. When adapting for a specific party, the DM should confirm which Jalester or Renaer thread is more active and choose accordingly.
+## Jalester and the Study
 
-## On the Splinter Raid
+Jalester is the only compromised contact, and Renaer never takes his place. The study gives the guardian's oath freely and Jalester's name only when a member asks. Mirt asks whether they want it, because once they know they have to act on it. The name is never lost, since a member can ask at any later meeting. **An Audience with the Open Lord** reads it as free text, and its wording is compatible.
 
-***The raid fires regardless.*** This is the most important structural note: the Splinter moves on Trollskull Manor whether the party agreed to Mirt's request or refused. The raid is not a consequence of the negotiation's outcome. It is a consequence of Mirt arriving at the tavern. A Splinter watcher was tracking the Stone's magical signature; Mirt's presence was reported before the party made any decision. The party cannot prevent the raid by refusing Mirt. This keeps the event from feeling like a punishment for compliance and clarifies that Manshoon's intelligence operation is operating independently of the party's choices.
+## Invented Names and Open Items
 
-***The squad leader's sending stone.*** Keyed to Manshoon's voice directly, this is the most significant trophy from the raid. A party that heard Manshoon in Arc I can recognize the voice immediately. A party that has not can still use the stone operationally — Mirt describes several options. The stone's value as campaign intelligence (confirmation that Manshoon is directly monitoring the Stone's location) is separate from whatever the party does with it tactically.
-
-## Cross-Arc Consequences
-
-This mission generates no attunement flags of its own, but it feeds three downstream threads directly:
-- **Arc F:** The compromised contact chain and the Nihiloor thread both originate here.
-- **Arc I:** The Splinter raid confirms Manshoon's operational awareness, which shapes the Kolat Towers infiltration's difficulty.
-- **Arc J:** The Jalester/Renaer compromise flag changes how the party can trust their intelligence network during the vault convergence.
+- Invented names: Ysolde Marne (the Splinter Mage) and Ivara Dunn (Harper seer, kept from the prior version). Neither has a Notable Figures page or a voice profile, so both are voiced from the event text.
+- The cellar off Salabar Street is invented. Its ward is not stated because I could not verify it.
+- Derived rows, not audited in the mechanics reference: the three-combatant step-down roster (Ysolde alone) and the cellar fight (Ysolde alone, no daily spells).
+- The sending stone follows the reference's plain description, and its 2024 item text is unverified.
+- **Splinter Sending Stone Recovered** has no reader in the brief. **Vault of Dragons** is named as the reader and is unconverted.
+- Outside this folder, the structure for Vault of Dragons says Mirt had his three days before the third Eye was seated and offers a Renaer branch. Both disagree with this page, and the Harpers guide says the squad attacks during the handover, and here it attacks before.
