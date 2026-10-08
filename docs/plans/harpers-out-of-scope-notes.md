@@ -631,3 +631,89 @@ None of these is read by name anywhere yet. Wire them when each quest is convert
 ### 6. Invented names (Session 41)
 
 Accept or replace. Renamed this session to avoid collisions: Tobin Harrask (was Orren Vale), Dena Holt, Joss Marrin, Wil Keen, Corin Bell. New: Ysolde Marne (M6 Splinter Mage), Evin Talver's passphrase, the r50 third-persona vouchers, the Silver Stage company (Erystian's cover), Three Lanterns House at 7 Windborne Way (M5), and the M2 shop details. Kept from the previous version: Beldan Rusk, Tessalar Maeridge, Vell, Orvel, Hessa Dorn, Edric Tanner, Kael, Syla, Nella Fen, Orin Dask, Bram Pell, Perrin Valt, Mara Coppersail, Darron Quill, Della Morn, Ilen Castor, Ivara Dunn, Lysa Fenwick, Teren Moss, Dalen Voss, Seldo Wynd, Lethan.
+
+## Force Grey event rewrite (Session 42)
+
+All 13 Force Grey folders were rewritten from their first commits on the DR/BD/Harper model. Merged in PRs #100–#102. The binding documents are:
+- `docs/plans/force-grey-plan.md`;
+- `docs/plans/force-grey-conversion-brief.md`;
+- `docs/plans/force-grey-mechanics-reference.md`;
+- `docs/plans/force-grey-consistency-rulings.md`.
+
+The companion pages were fixed in this session:
+- the Factions Guide `06`;
+- the organization page `05`;
+- the Players' and GM Guide rank rows;
+- the Notable Figures pages for Vajra, Meloon, Nihiloor, Zelifarn, Vira and Hlam;
+- `arc-f:432`.
+
+The items below are outside contradictions left unedited.
+
+### 1. Act I–II quest files
+- **Trollskull `ev-04-the-factions-come-calling.md`**
+  - :79 calls Hlam's first answer "an oblique reference to Manshoon". **Consulting Hlam** keeps it as a general warning.
+  - :109-110 still writes `Force Grey Joined: True / False`. Cut it; **A Message from the Blackstaff** is the writer, per character.
+  - :31 has no recipient rule for the *Sending*.
+  - :61 expects the *Tiny Hut* and vault-scroll help that only the First Meeting delivers.
+- **Trollskull `ev-05-the-field-of-triumph.md`** :55 and :83 write **Meloon Met** as an attunement and a True/False flag. M3 reads it as a named outcome, so convert it to an Event Outcome.
+- **Trollskull `ev-06-the-grand-opening.md`** :73: Hlam's warning about "deep-harbor movement" isn't in M1.
+- **Trollskull `design-notes.md`** :49 and **arc-b** :367 give Zelifarn a "barnacle-covered shipwreck lair… Skullport". M2 has the offerings cave and no Skullport link.
+- **`trollskull-manor/08-notable-patrons.md`**
+  - :55 has Vajra as "NG Calishite"; she is Neutral, Tethyrian.
+  - :57 mentions Kolat Towers without the gate.
+  - :61 gives Meloon "Champion Fighter"; he is a Warrior Veteran.
+- **Gralhund `ev-01-what-the-factions-say.md`** :94 writes `Vajra Brief Received: True / False` in the retired format.
+
+### 2. Structure docs (for when each quest is converted)
+- **arc-b** :145 has the same "oblique reference to Manshoon" as Trollskull ev-04.
+- **arc-e** :377 has Vajra tracking "Manshoon's arcane signature". This breaks the gate: she learns the name only through **Manshoon Named**.
+- **arc-f**
+  - :39 places Vajra's preparatory spell at Renown 10+ with a different list and a "junior Blackstaff mage". The r03 and r10 events differ.
+  - The Harper, Order of the Gauntlet and Emerald Enclave hooks (:426-430) ask the party to kill Nihiloor. **User decision (Session 42): Nihiloor always escapes**, so those hooks need a new condition.
+  - Xanathar's Lair should read **Pool Destroyed**, **Placement Records Taken**, **Captive Freed** and **Nihiloor Fled**.
+- **arc-g** :43 and :537 give Vajra "devil-binding circles" and infernal-contract documents. This breaks Cassalanter secrecy; she should be at suspicion only.
+- **arc-i** :41 has the same Renown 10+ mage/*nondetection* mismatch as arc-f :39.
+- **arc-j**
+  - :41 and :51 read "Mission 6 … named the party Force Grey Commanders" and treat Commander standing as pre-Vault. No mission grants rank.
+  - The Vault should read **Vajra Briefed**, **Tower Attack Stopped**, **Splinter Testimony Recorded**, **Orvyn Ledger Delivered**, **Vira Caught** / **Vira Escaped**, and **Buried Thing Reported**.
+  - It needs gold-path outcome names for r50's Laeral readings.
+- **arc-h** should read **Zelifarn Contacted**, **Zelifarn Befriended**, **Submarine Reported** and **Offerings Returned** / **Offerings Kept**.
+
+### 3. Other faction events
+- **BD `m03-three-nights/ev-01-three-nights.md`** :287 says devourers consume the host's brain. This contradicts the Occupying Devourer rule (Harper reference §5).
+- **BD `m06-the-dive`** (overview :25, :68) has an expelled Soluun selling the Faire's berth to the Guild. Force Grey M4 has him held in Nihiloor's wing if **Soluun Expelled** is marked. **Needs a user decision:**
+  - (a) the Guild seizes him after the sale;
+  - (b) Zaibon is always the captive;
+  - (c) BD M6 changes.
+- **Harper `m05-the-sleeping-asset/ev-02`** does not read **Pool Destroyed**. Add a line, or drop Harper M5 from the readers.
+- **Lords' Alliance**: no event reads M5's Guild names for Jalester. Optional.
+
+### 4. Notable Figures (not fixed this session)
+- Laeral `city-officials/01-laeral-silverhand.md`:8 lists Force Grey Mission 2, which doesn't feature her.
+- Durnan `independents-allies/03-durnan.md` :12 and :26 say he "rarely says two words". The voice doc and M3 use 2–6.
+- Orvyn Dall has no Notable Figures page or voice profile.
+
+### 5. Decisions for the user
+1. Soluun's capture vs BD M6 (above).
+2. How the Harper, Order of the Gauntlet and Emerald Enclave "kill Nihiloor" hooks should read now that he always escapes.
+3. Vajra's tenure: about 13 years per the Vajra guide, three per the old pages. The pages now state none.
+
+### 6. Invented names (Session 42)
+Accept or replace.
+
+**Renamed to avoid collisions**
+
+| Old name | New name |
+|---|---|
+| Aldris Maeven | Ysmay Halvane |
+| Rhendar Solne | Rhendar Orsk |
+| Tolliver Brack | Garrick Stoll |
+| Isolde Fenn | Sera Vantry |
+| Corin Aldeth | Tavor Aldeth |
+
+**New**
+- **M3:** Dobb Ketterly (the Guild courier).
+- **M5:** Ketha Rudd, Alder Yost, Brenna Tull, Imra, Tidewrack Cargo, and the magistrates Hesper Aldon, Dorrin Estrel and Maud Tavish.
+- **M6:** Orla Venn and the Tower staff Dessa Quillon, Harl Merrow, Ilsabet Crane, Jory Pellin and Sabel Orrin.
+- **r10:** Dovrin Tesk.
+- **Sourced but unprofiled:** Meritide Blackfin (Zelifarn guide) and Zaibon Kyszalt (WDH).
