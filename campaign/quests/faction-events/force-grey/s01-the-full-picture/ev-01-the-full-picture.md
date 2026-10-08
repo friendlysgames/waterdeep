@@ -10,7 +10,7 @@
 > - Watch the Blackstaff stir when the vault's sum is named, and watch Vajra go still before she writes.
 > - Leave with a sealed message on its way to the Open Lord, and earn 2 Renown once in the campaign.
 >
-> Only Force Grey members are briefed. Companions can climb the stairs and speak, and they gain nothing.
+> Only Force Grey members are briefed, while companions can climb the stairs and speak but gain nothing.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -110,9 +110,9 @@ If a character succeeds, read the following aloud:
 
 > [!readaloud]
 >
-> When the sum is named, the Blackstaff slides a finger's width along the edge of the desk and settles again. Nobody has touched it. Vajra keeps her eyes on her page.
+> When the sum is named, the Blackstaff slides a finger's width along the edge of the desk and settles again, though nobody has touched it. Vajra keeps her eyes on her page and goes on writing.
 
-Vajra does not look at the staff and does not answer questions about it. A member who asks gets "Next."
+Vajra does not look at the staff or answer questions about it, and a member who asks gets "Next."
 
 ### What Vajra Already Had
 
@@ -122,15 +122,15 @@ When the account ends, Vajra turns back through her own notes and confirms three
 
 > [!readaloud]
 >
-> Vajra turns to the first page of her notes and taps a line near the top with her pen.
+> Vajra turns back to the first page of her notes and taps a line near the top with her pen, then looks up at the member nearest the desk.
 >
-> > "Nihiloor's pool is gone, and you're the reason. He got out on his own feet, though, so he'll start another somewhere. I want to know where."
+> > "Nihiloor's pool is gone, and you're the reason. He got out on his own feet, though, so he'll start another somewhere, and I want to know where."
 
 If only **Nihiloor Fled** is marked, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra turns to the first page of her notes and taps a line near the top with her pen.
+> Vajra turns back to the first page of her notes and taps a line near the top with her pen, then looks up at the member nearest the desk.
 >
 > > "You went into his wing and he walked out of it. The pool still stands, so the programme goes on, and I need it ended."
 
@@ -138,7 +138,7 @@ If neither is marked, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra turns to the first page of her notes and taps a line near the top with her pen.
+> Vajra turns back to the first page of her notes and taps a line near the top with her pen, then looks up at the member nearest the desk.
 >
 > > "Nihiloor runs the Guild's programme of implants. I've known that for a long time, and I've never been able to reach him or his pool."
 
@@ -146,15 +146,15 @@ If neither is marked, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra draws out a second sheet covered in incident dates and lays it flat on the desk.
+> Vajra draws a second sheet covered in incident dates from under her notes and lays it flat on the desk where everyone can see it.
 >
-> > "The same casting signature is in Watch reports from three wards, with a different crew each time. That fits what you've told me about Manshoon. His cell is far bigger than the one you've met."
+> > "The same casting signature is in Watch reports from three wards, with a different crew each time. That fits what you've told me about Manshoon, and his cell is far bigger than the one you've met."
 
 Otherwise, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra draws out a second sheet covered in incident dates and lays it flat on the desk.
+> Vajra draws a second sheet covered in incident dates from under her notes and lays it flat on the desk where everyone can see it.
 >
 > > "The same casting signature is in Watch reports from three wards, with a different crew each time. The Black Network has split, and the other cell is far bigger than the one you've met."
 
@@ -162,23 +162,23 @@ Otherwise, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra touches a third line and lifts her head.
+> Vajra touches a third line near the bottom of the page and lifts her head to look at each of you in turn.
 >
-> > "The Tower's scrying still finds conjuration and abjuration residue under the Cassalanter villa, and it hasn't faded. I can see the outline of something. I still can't see what's inside it."
+> > "The Tower's scrying still finds conjuration and abjuration residue under the Cassalanter villa, and it hasn't faded. I can see the outline of something, but I still can't see what's inside it."
 
 If the hook has not run and **Buried Thing Reported** is marked for a member present, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra touches a third line and lifts her head.
+> Vajra touches a third line near the bottom of the page and lifts her head to look at each of you in turn.
 >
-> > "Hlam told me the buried thing is waking, and I filed it without understanding it. Your account puts a vault under this city. I think that is what he felt."
+> > "Hlam told me the buried thing is waking, and I filed it without understanding it. Your account puts a vault under this city, and I think that is what he felt."
 
 If the hook has not run and **Hlam Consulted** is marked for a member present but **Buried Thing Reported** is not, read the following aloud, then let the member give Hlam's last message in their own words and finish with the reading above:
 
 > [!readaloud]
 >
-> Vajra touches a third line and looks at the member who climbed Mount Waterdeep.
+> Vajra touches a third line near the bottom of the page and turns to look at the member who climbed Mount Waterdeep.
 >
 > > "Hlam spoke to you. Tell me what he said at the end, in order, and then I'll tell you why I'm asking."
 
@@ -186,7 +186,7 @@ If none of these applies, read the following aloud:
 
 > [!readaloud]
 >
-> Vajra touches a third line and lifts her head.
+> Vajra touches a third line near the bottom of the page and lifts her head to look at each of you in turn.
 >
 > > "My third item is a question, and I can't confirm it yet. If you learn anything about what lies beneath this city, bring it to me."
 
@@ -198,7 +198,7 @@ Vajra then corrects one assumption. If a member named a ward, street or building
 
 > [!readaloud]
 >
-> Vajra picks up her pen again and points it at the member who spoke about the vault.
+> Vajra picks up her pen again and points it at the member who spoke about the vault, while the lamp steadies on the desk between you.
 >
 > > "Leave whatever place you've guessed at alone. The Stone shows you where to go when you are ready, and you follow it."
 
@@ -208,7 +208,7 @@ When the correction is made, Vajra stops talking, and the study goes still.
 
 > [!readaloud]
 >
-> Vajra sets the pen down and goes still, with both hands flat on the desk. The study is silent except for the faint hum of the Blackstaff, and the pause runs on for longer than is comfortable. She does not look at the staff.
+> Vajra sets the pen down and goes still, with both hands flat on the desk. The study is silent except for the faint hum of the Blackstaff, and the pause runs on for longer than is comfortable while she keeps her eyes off the staff.
 
 > [!exploration]**The Pause**
 >
@@ -218,19 +218,19 @@ Vajra then takes a clean sheet and writes. Read the following aloud:
 
 > [!readaloud]
 >
-> Vajra pulls a clean sheet toward her and mutters at it before she begins to write.
+> Vajra pulls a clean sheet toward her across the desk and mutters at it before she picks up the pen again.
 >
 > > "Half a million dragons under my city, and not one of those shitheads told me."
 >
-> She writes for a long minute without looking up, folds the sheet twice and melts a stick of grey wax over the lamp. Her mark goes into the wax.
+> She writes for a long minute without looking up, folds the sheet twice and melts a stick of grey wax over the lamp before she presses her mark into it.
 >
 > > "This goes to the Open Lord tonight. She needs the whole picture before she moves, and now she has it. Keep your own work quiet until she answers, because you don't want to be standing between her and four factions."
 >
-> She turns the sealed letter over once in her hand.
+> She turns the sealed letter over once in her hand and speaks to it more than to you.
 >
 > > "This is the most important thing anyone has brought me, and I'll say so in the letter."
 
-The door at the head of the stair opens by itself. Vajra goes on holding the letter.
+The door at the head of the stair opens by itself while Vajra goes on holding the letter.
 
 ### What Vajra Will Say
 
@@ -250,23 +250,23 @@ Vajra answers questions until the members stop asking. She keeps standing, and s
 
 > [!qna]**What do you want from us now?**
 >
-> > "Carry on as you were. Bring me your honest account whenever you learn something new, including what you only suspect."
+> > "Carry on as you were, and bring me your honest account whenever you learn something new, including what you only suspect."
 
 > [!qna]**Are you alright?**
 >
-> Vajra looks up from the letter for the first time since she sealed it.
+> Vajra looks up from the letter for the first time since she sealed it, and her gaze rests on the member who asked.
 >
 > > "Irrelevant."
 
 ### Renown Opportunities
 
-Each participating Force Grey member gains 2 base Renown for delivering the full picture, once in the campaign. Award it when Vajra seals the letter. Companions gain none.
+Each participating Force Grey member gains 2 base Renown for delivering the full picture, once in the campaign. Award it when Vajra seals the letter, and give companions nothing.
 
 ### Aftermath
 
 Vajra sends the letter by hand that night and does not report the Open Lord's reply. **Vault of Dragons** reads **Vajra Briefed** to decide whether the Open Lord arrives prepared or late.
 
-A Force Grey member who missed the sitting can climb to the Tower later and give Vajra the account they heard at the table. She does not write again. She hears them out, adds the member to **Vajra Briefed**, and the member gains the 2 Renown.
+A Force Grey member who missed the sitting can climb to the Tower later and give Vajra the account they heard at the table. She does not write again, but she hears them out, adds the member to **Vajra Briefed**, and the member gains the 2 Renown.
 
 The Lords' Alliance inquiry has no result in this Event. Nothing Vajra learns here changes the other factions, and none of them learns that she has written.
 
@@ -280,7 +280,7 @@ The Event concludes when Vajra has sealed the letter and answered the members' q
 
 > [!gamemaster]**Next Steps**
 >
-> **The Full Picture** becomes available once the party has completed a lair heist and an individual Force Grey member brings Vajra the full account. Nothing else waits on it. Each member's next work is whichever mission or rank event their Renown has opened. This Event awards no Milestone Points.
+> **The Full Picture** becomes available once the party has completed a lair heist and an individual Force Grey member brings Vajra the full account, and nothing else waits on it. Each member's next work is whichever mission or rank event their Renown has opened. This Event awards no Milestone Points.
 
 ## Overview
 
