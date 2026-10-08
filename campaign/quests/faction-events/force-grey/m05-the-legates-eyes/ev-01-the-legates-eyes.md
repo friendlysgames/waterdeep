@@ -117,7 +117,6 @@ The three rulings are Magistrate Hesper Aldon's voiding of a Shrimp Street wareh
 >
 > On a failure, the comparison takes until the next morning and gives the same answer. This lead is always open.
 >
-> - **Character holds the dossier:** the character has Advantage on the check.
 
 The signature leads the party to the appeals office, where a porter says Orvyn takes his lunch at the Bricklayer's Cup on Copper Pot Lane at noon.
 
@@ -127,7 +126,7 @@ The four clerks of the appeals office take their lunch at the Bricklayer's Cup, 
 
 > [!readaloud]
 >
-> The Bricklayer's Cup is crowded at noon, with clerks and masons sharing long tables and a cook shouting orders through a hatch. Four men and women in grey clerk's coats sit near the window, talking over their plates. One of them eats alone at the corner table with his eyes on the door, chewing at an even pace as if he were counting.
+> The Bricklayer's Cup is crowded at noon, with clerks and masons sharing long tables and a cook shouting orders through a hatch. Four men and women in grey clerk's coats sit near the window, talking over their plates. One of them eats alone at the corner table with his eyes on the door, chewing at the same slow pace with every mouthful.
 
 > [!exploration]**The Clerk Who Does Not Taste**
 >
@@ -160,7 +159,7 @@ The third lead depends on what the party holds. Read the first case that fits.
 >
 > > "Corene said Nihiloor kept a clerk in the Watch office and two runners on the docks. It might not be your man, but the Watch office is where your rulings were made."
 
-Any appeals clerk the party picks out from the four will lead to Orvyn within a day, and the Cup and the Hall of Records confirm him.
+Corene's words give the party no name, so this lead still sends them to the Hall of Records or the Cup to confirm which clerk it is.
 
 **The Test Appeal.** If neither case applies, Vajra gives the members a dull petition about a fence line between two cooperages. She asks them to file it at the appeals counter at 10:00. The clerk who takes it is Orvyn Dall, and he asks who else sponsors it and in which wards the petitioners sleep. A petitioner's clerk has no reason to ask either question.
 
@@ -203,10 +202,10 @@ Several methods show that something rides in Orvyn. Each is enough alone, and a 
 > - **Eye contact and speech.** A character who talks with him for a minute and makes a successful DC 15 Wisdom (Insight) check sees that his answers arrive late and his eyes do not follow the room. Something is wrong with the mind, not the story.
 > - **His questions.** A character who listens to what he asks and makes a successful DC 14 Wisdom (Insight) check sees that he is gathering names, wards and sleeping places.
 > - **Close study.** A character who spends five minutes beside him and makes a successful DC 12 Intelligence (Arcana) or Wisdom (Medicine) check finds no spell and no disease. The pupils lag, and something is riding in the skull.
-> - **His hand.** A character who compares his signature on the fourth reversal with the one on his lunch receipt finds the same name in two different writing speeds. The registry hand is flat and exact.
+> - **His hand.** A character who asks him to sign for the petition and compares it with *O. Dall* on the fourth reversal sees that the registry hand is flat and exact, while the hand in front of them is hesitant.
 > - ***Detect Evil and Good*** senses an Aberration within 30 feet and does not alert it. ***Detect Thoughts*** shows two minds in one head, one of them muffled, and alerts the devourer.
 >
-> *Detect Magic* shows no spell on Orvyn, only his brass clerk's seal. An alerted devourer stops pretending, and the Guild minders close in. Use the alerted roster in **The Extraction**.
+> *Detect Magic* shows no spell on Orvyn. An alerted devourer stops pretending, and the Guild minders close in. Use the alerted roster in **The Extraction**.
 
 ### Concluding the Event
 
