@@ -17,7 +17,7 @@
 - **Jalester Silvermane** (Lords' Alliance, optional) — a secondary intelligence-share target if the party chooses to cross-report the Guild representatives Orvyn names
 
 ## Dangers & Enemies
-No combat unless direct extraction is attempted at Orvyn's apartment, where the expelled **Occupying Devourer** (`docs/plans/harpers-mechanics-reference.md` §5) is immediately hostile. The threat here is procedural: an extraction that triggers a Watch investigation exposes Vajra's use of off-books assets and creates a legal complication she was specifically trying to avoid.
+No combat unless direct extraction is attempted at Orvyn's apartment, where the expelled **Occupying Devourer** (the Occupying Devourer in the **Harpers Mechanics Reference**) is immediately hostile. The threat here is procedural: an extraction that triggers a Watch investigation exposes Vajra's use of off-books assets and creates a legal complication she was specifically trying to avoid.
 
 ## Overview
 

@@ -11,7 +11,7 @@
 > #### Milestone Overview
 > This mission awards no Milestone Points.
 
-Meloon Wardragon has been a Force Grey veteran since before Vajra took the Blackstaff. He is trusted, well-connected, and constitutionally incapable of believing that a friend's body could be used against him. An intellect devourer from Nihiloor's network has been occupying his skull for three tendays. Vajra cannot observe him herself without alerting him; official Force Grey surveillance changes his behavior immediately. The party is her only option for unmarked observation.
+Meloon Wardragon has been a Force Grey veteran since before Vajra took the Blackstaff. He is trusted, well-connected, and constitutionally incapable of believing that a friend's body could be used against him. An Occupying Devourer from Nihiloor's network has been occupying his skull for three tendays. Vajra cannot observe him herself without alerting him; official Force Grey surveillance changes his behavior immediately. The party is her only option for unmarked observation.
 
 Azuredge, the sentient greataxe Meloon has carried for two decades, has been fighting the devourer's control since it arrived. It has prevented worse things from happening. It cannot reach Meloon through the devourer's interference, but it can reach the party, if they pay attention to it.
 
@@ -20,13 +20,13 @@ The mission's three outcomes depend entirely on how specifically the party can d
 ## Involved Characters
 
 - **Vajra Safahr** (Force Grey) — the Blackstaff; assigns the surveillance mission by *Sending*; acts immediately on confirmed intelligence
-- **Meloon Wardragon** (Force Grey) — a Force Grey veteran, large and formerly cheerful; currently occupied by an intellect devourer from Nihiloor's network
+- **Meloon Wardragon** (Force Grey) — a Force Grey veteran, large and formerly cheerful; currently occupied by the devourer from Nihiloor's network
 - **Azuredge** (independent) — Meloon's sentient greataxe; actively fighting the devourer's control and waiting for someone to notice; the mission's moral center
 - **Durnan** (Yawning Portal) — knows what the party is there for; says nothing; watches
 
 ## Dangers & Enemies
 
-The primary threat is an **Occupying Devourer** (`docs/plans/harpers-mechanics-reference.md` §5), currently occupying Meloon's skull and not visible or targetable until extracted. If the party forces it out, it appears hostile and tries to occupy the nearest eligible creature. All combat risk in this mission is confined to a direct extraction. Every other beat is observation and social.
+The primary threat is an **Occupying Devourer** (the Occupying Devourer in the **Harpers Mechanics Reference**), currently occupying Meloon's skull and not visible or targetable until extracted. If the party forces it out, it appears hostile and tries to occupy the nearest eligible creature. All combat risk in this mission is confined to a direct extraction. Every other beat is observation and social.
 
 ## Overview
 
