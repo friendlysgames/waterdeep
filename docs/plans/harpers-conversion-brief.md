@@ -116,10 +116,10 @@ Where a report lists options, this brief has already chosen. Where a report and 
 |---|---|---|
 | Orren Vale (the mole) | **Tobin Harrask** | Orvyn Dall, Vale & Reed Imports |
 | Dena Voss (r25 informant) | **Dena Holt** | Dalen Voss, Hanna Voss |
-| Joss Bell (r25) | **Joss Marrin** | Oswin Bell |
+| Joss Bell (r25) | **Joss Marrin** | Corin Bell |
 | Harl Keen (courier) | **Wil Keen** | Harl Pimm |
 
-All other prev invented names stay, and each folder's design notes list them under "Invented Names and Open Items". That includes Beldan Rusk, Tessalar Maeridge, Vell, Orvel, Edric Tanner, Kael, Syla, Nella Fen, Orin Dask, Bram Pell, Evin Talver, Perrin Valt, Mara Coppersail, Darron Quill, Della Morn, Oswin Bell, Ilen Castor, Ivara Dunn, Lysa Fenwick, Teren Moss and Dalen Voss. Hessa Dorn gets a new stable (see M1).
+All other prev invented names stay, and each folder's design notes list them under "Invented Names and Open Items". That includes Beldan Rusk, Tessalar Maeridge, Vell, Orvel, Edric Tanner, Kael, Syla, Nella Fen, Orin Dask, Bram Pell, Evin Talver, Perrin Valt, Mara Coppersail, Darron Quill, Della Morn, Corin Bell, Ilen Castor, Ivara Dunn, Lysa Fenwick, Teren Moss and Dalen Voss. Hessa Dorn gets a new stable (see M1).
 
 ## Per-folder briefs
 
@@ -430,7 +430,7 @@ Split into two events if the stages need their own state, following DR m04 and B
   - **Archives:** a named topic, copies brought at 10:00 the next day, current embedded identities removed.
   - **Team:** three Spies on 2 days' notice.
   - **Mirt accompanies once:** meets at 09:00, stats from the mechanics reference.
-  - **Extraction:** a wagon and three Spies, 2 hours after the request. Courier order Wil Keen, Della Morn, Oswin Bell.
+  - **Extraction:** a wagon and three Spies, 2 hours after the request. Courier order Wil Keen, Della Morn, Corin Bell.
   - **Exposure dossier:** Cassalanter suspicion never becomes knowledge.
   - **Third persona:** surname Talar.
 - **The reveal:** "I'm a Masked Lord of Waterdeep." "Laeral knows." He names no other Lords. "Keep my seat out of public accounts."

@@ -1,83 +1,120 @@
 # The Tail
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Exploration Event begins when the party follows Erystian Demarne from House Ulbrinter at 21:30 and ends when he faces them at the canal bridge or on Swords Street. In this Event, the party can:
 >
-> This Exploration Event begins when the party follows Jarlaxle out of Haventree Villa after the salon. In this Event:
+> - Follow Erystian and Lethan through the night streets without being seen.
+> - Watch Lethan chalk a signal on a boarded building at 4 Swords Street.
+> - See Erystian lift his hat and show what is under it.
+> - Be spotted at the bridge and talked to instead.
 >
-> - Jarlaxle knows he is being followed. He is not trying to lose the party; he is watching how they follow.
-> - Three observation opportunities along the route reveal additional information about his operation before the confrontation.
-> - Jarlaxle stops at a canal bridge or a quiet courtyard and turns around. Proceed to the Confrontation Event (ev-03).
+> Companions can follow with the Harper members, and nothing is awarded in this Event.
 
-**Background (DM only)**
+> [!gamemaster]**What Is Actually True**
+>
+> - Erystian does not expect a tail on an ordinary evening, but Lethan expects one every evening and watches the canal bridge from the far side.
+> - The building at 4 Swords Street is a boarded glover's shop in the Castle Ward, and its side door is a Bregan D'aerthe signal site. The cellar passes through to the next street, and nothing in it is for the party to find.
+> - The chalk mark is a spider with a blade through it, and it tells Jarlaxle's people that the contact is complete.
 
-Jarlaxle made his excuses to Remallia gracefully — warm, brief, nothing that raised any alarm. He did not look at the party when he left. He did not need to. He has been aware of their interest for the last forty minutes.
+### Leaving the Villa
 
-He is not leading them anywhere operational. He has no intention of walking into a Bregan D'aerthe safehouse with Harper agents following him. He is going to let them follow for ten minutes, observe how they do it, and then stop and introduce himself properly.
+At 21:30 Erystian thanks Remallia at the door and sets off with Lethan two steps behind him. A character who watches the pair leave sees that Lethan walks on the street side and checks every doorway they pass.
 
-The route he takes is circuitous on purpose — not evasive, not rushed, just long enough for three observation beats and the street to thin out before he turns. He is giving the party a chance to get good information before the conversation begins.
+> [!readaloud]
+>
+> Guests are leaving House Ulbrinter in twos and threes, and Erystian stops beside Remallia at the door while Lethan waits for the last carriage to clatter past.
+>
+> > "Thank you for a lovely evening. I do hope you'll let me come back when the next invitation is ready."
+>
+> He walks off toward the south and east, with Lethan a few paces behind him. The lamps along Delzorin Street throw their shadows long across the cobbles as the pair moves on.
 
-### The Route
+### The Canal Bridge
 
-Jarlaxle leaves the Sea Ward and takes a route through the Castle Ward toward the Trades Ward — ten minutes of walking, unhurried, his companion two steps behind him.
+The route runs for ten minutes through the North Ward and across a canal bridge into the Castle Ward. Lethan stops at the far end of the bridge and looks back along the street while Erystian goes ahead.
 
-**Observation Beat One — The Gates**
+> [!exploration]**Crossing the Bridge**
+>
+> The party makes one Group Check with DC 15 Dexterity (Stealth) as it crosses the bridge after the pair. Half or more of the followers must succeed. A character in heavy armor or carrying a light has Disadvantage.
+>
+> - **Success:** Lethan turns away without seeing them, and the party continues with **Swords Street**.
+> - **Failure:** Lethan sees them and touches Erystian's elbow, and the party continues with **Spotted on the Bridge**.
+> - **A character who drew steel or cast a spell on the way:** The check fails automatically.
 
-As Jarlaxle moves through the Sea Ward gate onto the Castle Ward avenue, the streetlights catch his boots for a moment. A **DC 12 Wisdom (Perception)** check confirms what was visible at the salon: the sole pattern is drow-made, designed for silence on stone. His companion's posture shifts the moment they are out of the gate — from social guest to personal guard, eyes moving.
+### Swords Street
 
-**Observation Beat Two — The Corner Conversation**
+Erystian stops at a boarded shop front at 4 Swords Street. Lethan joins him, takes a stub of chalk from his coat and marks the doorframe.
 
-Halfway through the Castle Ward, Jarlaxle pauses at a corner and says something brief to his companion. The companion nods, adjusts course, and takes a parallel street. They are splitting for the rest of the route.
+> [!readaloud]
+>
+> Swords Street is quiet at this hour and the shops along it are shuttered, but a boarded shop front near the corner still smells faintly of tanned leather. Lethan crouches beside the side door and draws a short mark on the frame. Erystian waits under a lamp with his hands in his pockets.
+>
+> Erystian takes off his hat to scratch his head and holds it for a moment under the light. The face under it belongs to a drow, and the sandy hair and the open smile are gone. He sets the hat back on his head, and the young actor returns.
 
-A **DC 13 Intelligence (Investigation)** check — watching the companion's direction — identifies which street he takes. Following the companion instead of Jarlaxle: he leads to a building in the Castle Ward with no public entry. He checks a chalk mark on the doorframe, makes one of his own, and moves on. The chalk marks are Bregan D'aerthe dead drop notation; a DC 15 Arcana check or a character with thieves' cant recognizes them as signal marks.
+> [!exploration]**The Mark and the Hat**
+>
+> Any character who watches from the street sees the hat come off and the face change. That counts as a line of evidence, and it does not need a check.
+>
+> Any character who studies the mark and makes a successful DC 15 Intelligence (Investigation) check, or who knows Thieves' Cant, recognizes it as a signal that a contact is complete. The mark is a spider with a blade through it. Nothing on the street says who made it.
+>
+> A character who forces the side door finds a cellar with a second door to the next street. Erystian and Lethan have gone through it, and the cellar holds only crates of old leather.
 
-**Observation Beat Three — The Bridge**
+When Lethan has finished, Erystian waits a full minute under the lamp, which is his habit after any contact. The party can step out and take him aside, which goes to **The Confrontation**, or go home and report what it saw.
 
-Near a canal bridge at the Castle Ward's edge, Jarlaxle stops at a street vendor and purchases something, unhurried. A **DC 14 Wisdom (Perception)** check: he does not pay with coins from a pouch — he pays from a folded paper note already separated and ready. He had the denomination exact before he reached the stall. He was prepared for this stop. He knew where he was going when he left the salon.
+### Spotted on the Bridge
 
-### Jarlaxle Turns Around
+Erystian turns on the crown of the bridge with his hat in his hand and a delighted look on his face, keeping his Luskan accent and his persona. He gives away nothing the party has not earned.
 
-On the far side of the bridge, at a quiet stretch of cobblestones with the canal on one side and a closed tailor's shop on the other, Jarlaxle stops. He does not look back first. He simply stops walking.
+> [!readaloud]
+>
+> Erystian stops on the crown of the bridge and turns back with his hat held against his chest. Lethan waits at the far end with his hands loose at his sides.
+>
+> > "You walk like people who have been told not to be seen. Come and walk with me, because the lamps are better on this side. Lady Haventree will be so pleased that you're getting to know the city."
 
-When the party is within speaking distance, he turns.
+> [!social]**The Host of the Bridge**
+>
+> Jarlaxle Baenre, as Erystian Demarne (Chaotic Neutral, Drow in a hat of disguise, he/him) :: an actor who turns a tail into a pleasant walk and gives away nothing.
+>
+> Erystian walks the party along the canal and talks about the theaters of Waterdeep. He answers any question about his past in the same perfect detail as before. If the party holds two lines of evidence, or one line and a marked character, he stops walking and agrees to speak privately.
+>
+> He will not discuss Swords Street, the chalk, his hat or his employers.
 
-He is still in the Luskan poet persona — the clothes, the posture — but his expression has shifted slightly. Less performance, more attention.
+> [!qna]**Why are you out so late?**
+>
+> > "I walk home after a dinner, because the food needs working off. Lethan walks behind me because he thinks the city is dangerous. Is yours?"
 
-> > "You follow well. Better than the last set of people Mirt sent."
+> [!qna]**Where are you going?**
+>
+> Erystian gestures along the canal with his hat.
+>
+> > "Home, which is a rented room with a bad window. I would invite you in, but I'd have to explain the window."
 
-He says it without hostility. He is stating a fact and allowing a conversation to open.
+When the party has no evidence to put to him, Erystian says goodnight at the next corner and goes on alone. The party gains no signal mark and no glimpse under the hat, and **The Confrontation** begins with the morning debrief.
 
-Proceed to the **The Confrontation** Event (ev-03).
+### Renown Opportunities
+
+Nothing is awarded here, but what the party saw counts toward the cover profile in **The Confrontation**.
+
+### Aftermath
+
+A party that reached Swords Street has the address of a signal site and a second look at Jarlaxle's face, while a party that was spotted has a pleasant conversation and its suspicions.
 
 ### Concluding the Event
 
-This event has no standalone attunements or renown awards. It is a bridge between the salon and the confrontation. Proceed directly to ev-03.
+Erystian either waits a minute under the lamp on Swords Street or says goodnight at the bridge.
 
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> This Event sets no outcomes, and what the party saw at the bridge and on Swords Street feeds **Erystian Profile Reported** in **The Confrontation**.
+
+> [!gamemaster]**Next Steps**
 >
-> Proceed to the **The Confrontation** Event (ev-03).
->
-> #### Milestone: None
->
-> This mission does not award a Milestone Point.
+> If the party takes Erystian aside, continue with **The Confrontation** and play the private conversation first, and if not, play only the morning debrief. This faction mission awards no Milestone Points.
 
 ## Overview
 
-Jarlaxle left the salon gracefully and the party followed him into the Castle Ward. He let them observe him for ten minutes. Then he stopped.
-
-## Read Aloud
-
-> He leaves Haventree Villa without looking at you. His companion falls two steps behind the moment the gate closes — not casual, coordinated.
->
-> You follow them through the Sea Ward gate and into the Castle Ward. They move like people with nowhere particular to be, which means they know exactly where they are going.
->
-> At a canal bridge at the Castle Ward's edge, he stops. He does not look back first. He simply stops walking. When you close the distance, he turns.
->
-> > > "You follow well."
+The party follows a charming guest from Remallia's house through the night streets and tries not to be seen.
 
 ## Summary
 
-The party followed Jarlaxle from the salon through the Castle Ward. Three observation beats provided information about his drow-made boots, his companion's role as a personal guard, and Bregan D'aerthe dead drop marks along the route. Jarlaxle stopped at the canal bridge and turned around.
+We followed Erystian from House Ulbrinter across the canal bridge toward Swords Street. What we saw, or failed to see, decided how much we could say about him in the morning.
