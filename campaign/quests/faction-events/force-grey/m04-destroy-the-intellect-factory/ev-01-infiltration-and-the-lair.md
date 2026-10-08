@@ -5,7 +5,7 @@
 > This Exploration/Combat Event begins when the party receives Vajra's *Sending* and then reports to Blackstaff Tower before entering Xanathar's Lair. In this Event, the party can:
 >
 > - Receive Vajra's twenty-five-word *Sending* and meet her at Blackstaff Tower for the operation brief and potions.
-> - Learn the lair's layout from Meloon Wardragon, if he was restored in Mission 3, using the devourer's residual memories.
+> - Learn the lair's layout from Meloon Wardragon, if he was restored in Mission 3, using what he saw while occupied.
 > - Choose one of three entry routes into the lair, depending on prior mission work.
 > - Navigate five named areas to reach the Spawning Pool, with a random encounter chance at each.
 > - Encounter or avoid Nihiloor in X24, and decide whether to stabilize the unconscious **Soluun Xibrindas** there.
@@ -72,9 +72,9 @@ The party goes to Blackstaff Tower. Vajra has been waiting.
 
 > [!gamemaster]**Meloon's Intelligence (if Meloon Restored is marked)**
 >
-> If the party marked **Meloon Restored** in Mission 3, Meloon is available to brief the party before they leave. The devourer that occupied him had access to two prior visits to Xanathar's Lair in Meloon's memory. His recall is fragmentary — the devourer suppressed his own conscious memory of what it used him for — but the layout of X1 through X24 is familiar enough that he can sketch a rough map and identify the beholder zombie in X2. He does this at a table in the common room with a drink he actually touches and profanity at its natural frequency.
+> If the party marked **Meloon Restored** in Mission 3, Meloon is available to brief the party before they leave. The devourer took his body into Xanathar's Lair twice, and Meloon saw and heard everything from inside, unable to act. He remembers it as a long dream. He can sketch a rough map of X1 through X24 and identify the beholder zombie in X2. He does this at a table in the common room with a drink he actually touches and profanity at its natural frequency.
 >
-> > "Fuck, it's weird. I know the layout but I don't remember going. There's a beholder zombie in the second room. It reacts to movement. And Ahmaergo — duergar, thick as a wall — does random inspections in the connecting corridor. Don't let him run into you without a good story."
+> > "Fuck, it's weird. I watched the whole thing from the back of my own head and couldn't lift a finger. There's a beholder zombie in the second room. It reacts to movement. And Ahmaergo — duergar, thick as a wall — does random inspections in the connecting corridor. Don't let him run into you without a good story."
 >
 > The party has Advantage on the first Wisdom (Perception) check they make inside the lair if Meloon briefed them.
 

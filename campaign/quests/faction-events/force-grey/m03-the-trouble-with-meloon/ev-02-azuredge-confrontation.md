@@ -5,7 +5,7 @@
 > This Social/Combat Event follows the tenday observation. In this Event, the party can:
 >
 > - Report their surveillance findings to Vajra and trigger her immediate action (Path 1).
-> - Attempt a direct magical extraction of the devourer themselves, with the devourer surfacing on success and becoming immediately hostile (Path 2).
+> - Force the devourer out of Meloon themselves with the Extraction Procedure, with the devourer expelled and hostile on success (Path 2).
 > - Report inconclusively, receiving Vajra's instruction to continue observing, with the consequence that Nihiloor's network has now identified them (Path 3).
 > - Receive a *wand of secrets* from Vajra on any successful resolution.
 > - Witness Meloon restored, if Path 1 or Path 2 succeeds.
@@ -14,7 +14,9 @@
 >
 > **Path 1** fires when the party delivers a specific report: behavioral tells observed, when each occurred, and at least one magical confirmation. Vajra asks three questions and acts on a full answer to all three. A vague report or a partial one sends her back to observation.
 >
-> **Path 2** fires when the party attempts direct extraction rather than reporting. A 4th-level spellcaster can try it. The approach is improvised; the player describes it and the DM determines which roll applies, with DC 18 Intelligence (Arcana) as the default. Failure costs Meloon 4d6 psychic damage. Success surfaces the devourer as a combat encounter.
+> **Path 2** fires when the party attempts direct extraction rather than reporting. The party holds Meloon and earns three Breaks against the devourer's Hold, using the Extraction Procedure. Failed attempts cost Meloon Strain. Success expels the devourer as a combat encounter.
+
+The **Occupying Devourer** stat block and the full procedure are in `docs/plans/harpers-mechanics-reference.md` §5. Meloon's body uses the Warrior Veteran stat block while he is hosted.
 >
 > **Path 3** fires when the party lacks specificity — no behavioral documentation, no Azuredge contact, no magical confirmation. Vajra cannot act on impressions. She tells them to continue. The devourer files its weekly report.
 >
@@ -44,7 +46,7 @@ Vajra receives the party at her standing desk, which is where she holds all conv
 > - Whether the party addressed Azuredge directly and what the axe communicated.
 > - The magical confirmation: which spell, what it revealed.
 >
-> She will not discuss why she could not observe Meloon herself, how long she suspected the possession, or what *wish* costs her. She does not explain her decisions.
+> She will not discuss why she could not observe Meloon herself or how long she suspected the possession. She does not explain her decisions.
 
 > [!qna]**What were the behavioral tells?**
 >
@@ -70,7 +72,13 @@ On a full, specific report answering all three questions, Vajra acts immediately
 
 > [!gamemaster]**Vajra Acts**
 >
-> She casts *wish* the following morning at Blackstaff Tower. This is the only method available that removes a devourer from a living host without killing the host. *Wish* costs something even for the Blackstaff. She does it without announcing this. The party can observe the extraction if they ask to be present.
+> Vajra extracts the devourer the following morning at Blackstaff Tower, using the Extraction Procedure for the **Occupying Devourer**. The party can observe if they ask to be present.
+>
+> - Meloon is restrained in a chair in the Tower's warded room. He submits willingly, but the devourer controls his body, so Vajra has him bound first.
+> - She casts *protection from evil and good* on him. This is the ward, and it stops the devourer from re-occupying him.
+> - She then casts *dispel magic* from a 4th-level slot, once per round for three rounds. Each casting is an automatic Break, so Hold reaches 0 on the third round.
+> - She needs no roll and Meloon takes no Strain.
+> - When the devourer is expelled, Vajra destroys it with her next action. Apply the recovery rules from the procedure to Meloon: 1 level of Exhaustion, and fragmentary speech until a Long Rest.
 
 If the party asks to observe, or states they want to be there, read or paraphrase the following:
 
@@ -89,24 +97,32 @@ If the party asks to observe, or states they want to be there, read or paraphras
 
 > [!gamemaster]**After the Extraction**
 >
-> Meloon buys the party a drink later that day. He does not say what it is for. He does not ask what the devourer said or did while it had him. He swears constantly, casually, the way he always has, and anyone who was watching him during the tenday will notice immediately that this is the real one.
+> Meloon sleeps through the rest of the day at the Tower. He remembers the whole occupation as a long dream in which he saw and heard everything and could not act, and he does not talk about it. The next evening he buys the party a drink and does not say what it is for. He swears constantly, casually, the way he always has, and anyone who watched him during the tenday will see at once that this is the real one.
 
 ### Path 2 — Direct Extraction
 
-A 4th-level spellcaster can attempt to force the devourer to manifest by disrupting Meloon's cognition through targeted magical stress. There is no manual for this. The character describes their approach and the DM determines the applicable check, with **DC 18 Intelligence (Arcana)** as the default.
+The party forces the devourer out of Meloon without Vajra. The player describes the approach, and the routes below say which rolls apply.
 
 > [!gamemaster]**Resolving the Attempt**
 >
-> - **Success:** The devourer surfaces. It is a small brain-shaped creature, suddenly manifest and immediately hostile, attempting to implant in the nearest living creature. The target makes a **DC 12 Dexterity or Intelligence saving throw** or is at risk of possession for one round before the devourer can be targeted. Use the **Intellect Devourer** stat block (2024 *Monster Manual*). It fights until destroyed or until it escapes.
-> - **Failure:** The disruption reaches Meloon rather than the devourer and deals **4d6 psychic damage** to him. He can be approached again if he survives, but each failed attempt requires the party to convince him to submit to another one.
+> The devourer starts with Hold 3. Each Break reduces Hold by 1, and Breaks from different people add together. At Hold 0 the devourer is expelled. Hold returns to 3 one hour after the last Break.
+>
+> - **Holding Meloon:** Meloon will not submit, because the devourer controls his body. The party must Grapple, Restrain or knock him out without killing him. The devourer fights with Meloon's attacks (Warrior Veteran: Greatsword twice, and Parry) and uses Slip Out when Hold reaches 1.
+> - **Ward route:** A character casts *protection from evil and good* on Meloon (touch, concentration, 25 gp of holy water). At the start of each of Meloon's turns while the ward lasts, he makes a **DC 12 Intelligence saving throw with Advantage**. A success is 1 Break. A failure deals Strain. A warded Meloon cannot be re-occupied.
+> - **Anchor route:** A helper within 5 feet speaks to Meloon's buried mind and makes a **DC 14 Charisma (Persuasion) check** as an action each round. Azuredge is Meloon's anchor, so the helper must hold the axe in view. Without it the DC is 18. A success is 1 Break and a failure deals Strain.
+> - **Magic route:** Unavailable to the party. *Dispel magic* needs a 3rd-level slot, and the party has none. Vajra is the only source.
+> - **Strain:** Each failed attempt deals **2d6 psychic damage** to Meloon. Strain cannot exceed half his maximum Hit Points per attempt and cannot reduce him below 1 Hit Point. At 1 Hit Point, the next failure resets Hold to 3 and the party must wait an hour.
+> - **Surfacing:** When Hold reaches 1 by the anchor route, Meloon speaks one sentence in his own voice, then goes under. Use: "Get it the fuck out of my head, and don't you dare let go of that axe." Further anchor checks have Advantage.
+> - **Meloon dies:** If Meloon is reduced to 0 Hit Points and dies, the devourer is forced out at full health and Meloon is lost. Do not mark **Meloon Restored**. Vajra does not give the party the *wand of secrets*, and no Renown is awarded for this Event.
+> - **Roster:** For 4 or 5 PCs, run hosted Meloon as written. For 3 PCs, start him at half his Hit Points.
 
-> [!hazard]**The Surfaced Devourer**
+> [!hazard]**The Expelled Devourer**
 >
-> At the start of combat, the intellect devourer is visible for the first time: a small, wet, brain-shaped creature, exposed and hostile, moving at full speed.
+> When Hold reaches 0, the **Occupying Devourer** appears within 5 feet of Meloon at full Hit Points: a small, wet, brain-shaped creature, exposed and hostile. Use its stat block from `docs/plans/harpers-mechanics-reference.md` §5.
 >
-> Over the course of combat, it will prioritize implanting in the nearest living creature over any other action, and it will attempt to flee into a tight space (under furniture, through a crack, into a drain) if implantation is blocked. The battle ends when the devourer is destroyed or when it successfully escapes the immediate area.
+> On its first turn, it uses Occupy Body on the nearest eligible creature (Incapacitated, Small or Medium Humanoid or Beast, 10 Hit Points or fewer, **DC 12 Intelligence saving throw**). A warded Meloon is immune. If nobody is eligible, it uses Devour Intellect on the nearest creature, Dashes, and flees toward cover such as furniture, a crack or a drain. The battle ends when the devourer is destroyed or escapes the immediate area.
 >
-> **Meloon** is disoriented and non-combatant during this encounter. He cannot act for one round after the devourer exits. After that, he can assist if the devourer is still visible and targetable — he reaches for Azuredge and finds, with some surprise, that the axe comes to his hand cleanly.
+> **Meloon** has the Incapacitated condition until the end of his next turn. After that, he can assist if the devourer is still visible and targetable. He reaches for Azuredge and finds, with some surprise, that the axe comes to his hand cleanly. Apply the procedure's recovery rules to him afterward: 1 level of Exhaustion, and fragmentary speech until a Long Rest.
 
 If the devourer is destroyed and Meloon restored, read or paraphrase the following:
 
@@ -154,7 +170,7 @@ Vajra provides a *wand of secrets* to the party after any successful resolution.
 > **+2 Renown** if the intellect devourer is removed by any means and Meloon is restored.
 > **+1 Renown** if Azuredge's communication is interpreted correctly and reported to Vajra as evidence of the axe's active resistance. She notes it in the Nihiloor dossier without comment.
 >
-> If Meloon was restored, he is present when Vajra hands over the wand. He says nothing in particular. He buys them a drink later.
+> If Meloon was restored, he is present when Vajra hands over the wand. He says nothing in particular. He buys them a drink the next evening.
 >
 > Nihiloor's network has lost an observation asset in Force Grey. If Meloon was restored through Vajra's action, the devourer is gone. If through direct extraction, the same. Either way, Nihiloor's picture of Force Grey's operations has a blank where it had a window.
 >
@@ -166,4 +182,4 @@ The tenday ends. The party must decide what to do with what they found, and how 
 
 ## Summary
 
-We brought our surveillance report to Vajra at Blackstaff Tower. On a full, specific report — behavioral tells, Azuredge's communication, magical confirmation — she acted the following morning, removing the devourer by *wish*. Meloon was restored. He sat with the three tendays for a long moment, then bought us a drink and didn't say why. Vajra gave us a *wand of secrets* and noted Azuredge's active resistance in her Nihiloor dossier.
+We brought our surveillance report to Vajra at Blackstaff Tower. On a full, specific report — behavioral tells, Azuredge's communication, magical confirmation — she acted the following morning, casting a ward and three *dispel magic* spells to force the devourer out. Meloon was restored. He sat with the three tendays for a long moment, then bought us a drink the next evening and didn't say why. Vajra gave us a *wand of secrets* and noted Azuredge's active resistance in her Nihiloor dossier.

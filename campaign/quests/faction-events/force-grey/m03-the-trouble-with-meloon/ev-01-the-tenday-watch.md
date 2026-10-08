@@ -147,9 +147,11 @@ By Day 7, the behavioral record is complete and magical confirmation is availabl
 >
 > Three methods are available:
 >
-> - *Detect evil and good* reveals an aberrant presence in Meloon.
-> - *Detect magic* reveals Meloon himself as a magical source — the devourer's presence registers as a faint, persistent aura of transmutation.
-> - A character who has been tracking the behavioral tells since Day 1 and Day 3 gains Advantage on any subsequent **DC 14 Intelligence (Arcana or Medicine) check** to identify the specific signature of intellect devourer occupation.
+> - *Detect evil and good* senses an Aberration inside Meloon. It does not alert the devourer.
+> - *Detect thoughts* reveals two minds in one head, one of them muffled. It alerts the devourer, which acts at once: it attacks, uses Slip Out, or flees, and stops pretending to be Meloon.
+> - Five minutes of close study with a **DC 12 Intelligence (Arcana) or Wisdom (Medicine) check** finds no spell and no disease, only pupils that lag and something riding in the skull. A character who has been tracking the behavioral tells since Day 1 and Day 3 has Advantage on this check.
+>
+> *Detect magic* shows nothing, because the occupation is not a spell.
 >
 > Any one of these, combined with the behavioral documentation from earlier days, gives Vajra what she needs to act.
 
