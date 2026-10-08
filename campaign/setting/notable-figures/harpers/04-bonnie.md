@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Bonnie uses her Read Thoughts ability before she draws a weapon, targets the most dangerous opponent first, and fights with the tactical intelligence of someone who has survived by understanding people. She does not fight unless flight is impossible.
 
-**Relationships.** Bonnie is the leader of a doppelganger gang operating at the Yawning Portal, Durnan's most reliable barmaid (he knows nothing), a person whose nature Threestrings knows and has not reported, one of the three keys required to open the Vault of Dragons, and a potential Harper operative after mission three.
+**Relationships.** Bonnie is the leader of a doppelganger gang operating at the Yawning Portal, Durnan's most reliable barmaid (he knows nothing), a person whose nature Threestrings knows and has not reported, and a potential Harper operative after mission three.
 
 ## Overview
 

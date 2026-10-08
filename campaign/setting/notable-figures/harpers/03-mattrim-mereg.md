@@ -5,7 +5,7 @@
 > #### Gamemaster's Summary
 > - *Human bard (Harper spy), lawful good*. Stat block: **Bard**.
 > - **Affiliation:** Harpers
-> - **Featured in:** **Finding Floon**, **Trollskull Alley**, **The Dead Drop**, **The Doppelganger Auditions**
+> - **Featured in:** **Finding Floon**, **Trollskull Alley**, **The Doppelganger Auditions**
 
 ## Roleplaying Information
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Threestrings supports allies with Bardic Inspiration and stays out of melee range. He does not break cover for a fight he can avoid.
 
-**Relationships.** Threestrings is a Harper agent embedded at the Yawning Portal, the only person in Waterdeep who knows Bonnie's true nature, the subject of Harper mission four (an assessment of the doppelgangers), and a Trollskull Manor house bard candidate whose daytime audition is both genuine and convenient.
+**Relationships.** Threestrings is a Harper agent embedded at the Yawning Portal, the only person in Waterdeep who knows Bonnie's true nature, the subject of Harper mission three (an assessment of the doppelgangers), and a Trollskull Manor house bard candidate whose daytime audition is both genuine and convenient.
 
 ## Overview
 

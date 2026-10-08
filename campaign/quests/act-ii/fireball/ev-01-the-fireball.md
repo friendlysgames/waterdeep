@@ -191,7 +191,7 @@ When the party mentions Fala's (or Tally's) account of the burned man fleeing no
 
 Each active faction contact responds to the explosion in their own register. Deliver as flying snake messages, chance encounters, or requested meetings.
 
-**Harpers — Mirt (Renown 1+):** Takes a Harper member aside privately at some point before the party reaches the Sea Maidens Faire. The Cassalanters funded the Howling Hatred cult three years ago; he extracted their agents from Watch custody as a political courtesy. He is sharing it now because he is worried, which is different from being certain.
+**Harpers — Mirt (Renown 1+):** Takes a Harper member aside privately at some point before the party reaches the Sea Maidens Faire. He suspects Cassalanter money was behind the Howling Hatred cult three years ago, because the Watch released two of its members after a quiet word from someone at Cassalanter Villa. He has no proof and wants some. He is sharing it now because he is worried, which is different from being certain.
 
 **Lords' Alliance — Jalester Silvermane (Renown 1+):** When the party's investigation reaches the Faire or the harbor district, Jalester mentions without pressure that the Sea Maidens Faire uses private docking arrangements that circumvent standard Watch inspection protocols. He is noting it as an irregularity someone should eventually care about.
 

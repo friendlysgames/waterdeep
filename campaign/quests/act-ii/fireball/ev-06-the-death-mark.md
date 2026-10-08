@@ -65,7 +65,7 @@ The team consists of two Guild members in civilian clothes. They probe what the 
 
 Show the mark to faction contacts. Four distinct reactions, each yielding different intelligence:
 
-**Mirt (Harpers, Renown 1+):** Identifies the mark without hesitation — he has seen them before. Shares a rough map of observed Guild patrol patterns in the Trades Ward. Notes that Harper intelligence in this district may be tainted: Manshoon has placed double agents in the network. He says this quietly and does not elaborate.
+**Mirt (Harpers, Renown 1+):** Identifies the mark without hesitation — he has seen them before. Shares a rough map of observed Guild patrol patterns in the Trades Ward. Notes that Harper intelligence in this district may be tainted, because the other half of the Black Network seems to hear what the Harpers learn. He says this in a low voice and does not elaborate.
 
 **Vajra Safahr (Force Grey, Renown 1+):** Interested in what the mark implies about the Guild's operational sophistication — they were tracking Dalakhar in his lodgings. She has a partial dossier on Dalakhar: confirmed his role as Neverember's agent, notes he infiltrated Xanathar's organization before going dark. **DC 13 Charisma (Persuasion)** to receive the dossier. It confirms Dalakhar was already a known quantity to Force Grey; they were not acting on the information.
 
