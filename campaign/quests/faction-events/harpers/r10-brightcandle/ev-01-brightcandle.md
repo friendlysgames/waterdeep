@@ -40,7 +40,7 @@ If **Remallia Harper Contact Known** is not marked for the member, read or parap
 >
 > The dining room of Mirt's manor is lit by a single branch of candles, and the table is set for each of you with a cold pie in the middle. Mirt sits at the head with a jug at his elbow and refills your glass without asking. A folded note lies beside his plate.
 >
-> > "Sit. Eat something first. You've done good work for us, and the rank for that is Brightcandle. It's yours now. There are three things that come with it."
+> > "Sit. Eat something first. You've done good work for us, and the rank for that is Brightcandle. It's yours now, and there are three things that come with it."
 
 If **Remallia Harper Contact Known** is marked, read or paraphrase the following instead:
 
@@ -70,11 +70,11 @@ If **Remallia Harper Contact Known** is marked, read or paraphrase the following
 
 > [!qna]**Do my companions share it?**
 >
-> > "No. The rank is yours. They can stand beside you on any job, but they can't send for a scroll or a Spy in your name. I'll turn them away."
+> > "No. The rank is yours, and they can stand beside you on any job, but they can't send for a scroll or a Spy in your name. I'll turn them away."
 
 > [!qna]**What happens if my Renown drops?**
 >
-> > "You keep the rank and the benefits sleep. When you earn the Renown back, they wake."
+> > "You keep the rank and the benefits sleep, and when you earn the Renown back, they wake."
 
 > [!qna]**What does it cost?**
 >
@@ -124,7 +124,7 @@ When the member first goes to the shop, read or paraphrase the following:
 
 > [!qna]**Can I change the spell after I order?**
 >
-> > "Not once I've started. A scroll is written for one spell, and I can't unwrite it. Come back with a new request and a day's notice, and the first one is wasted."
+> > "Not once I've started, because a scroll is written for one spell and I can't unwrite it. Come back with a new request and a day's notice, and the first one is wasted."
 
 > [!qna]**What if someone follows me here?**
 >
@@ -138,7 +138,7 @@ Mirt explains the second benefit while the pie is cut.
 >
 > Mirt takes a stub of pencil from his coat and writes a second line under the apothecary's address. He turns the note toward you and taps the line twice.
 >
-> > "One agent, once in each quest, for one job. Tell me the place and the hour. Bring me the request here at the Portal, never by bird. He's a good Spy, but he has not been living inside your head."
+> > "One agent, once in each quest, for one job. Tell me the place and the hour, and bring me the request here at the Portal, never by bird. He's a good Spy, but he has not been living inside your head."
 
 > [!exploration]**Calling Perrin Valt**
 >
@@ -171,7 +171,7 @@ When Perrin meets the member for the first operation, read or paraphrase the fol
 >
 > Perrin Valt is waiting at the place you named, a plain travel bag over one shoulder, and he watches the street on both sides while you cross to him. He is a lean man in a brown coat that has seen many winters. He nods once when he recognises you.
 >
-> > "Reed. Mirt gave me the job and the place. Tell me how you're going in and where you want me. I'll tell you if I see a problem."
+> > "Reed. Mirt gave me the job and the place, so tell me how you're going in and where you want me, and I'll tell you if I see a problem."
 
 > [!social]**The Field Agent**
 >
@@ -212,7 +212,7 @@ If it is not marked, read or paraphrase the following instead:
 >
 > Mirt lays a blank employment letter on the cloth beside two small receipts and leaves room for a hometown and an earlier trade. He takes up his pencil to write down what you say.
 >
-> > "Where did you grow up? What did you do before Waterdeep? What trade could you talk about with a stranger tomorrow? I'll pass your answers to a friend who writes the papers. They come back through me in three days."
+> > "Where did you grow up, and what did you do before Waterdeep? What trade could you talk about with a stranger tomorrow? I'll pass your answers to a friend who writes the papers, and they come back through me in three days."
 
 > [!exploration]**The Default Cover**
 >
@@ -229,11 +229,11 @@ If it is not marked, read or paraphrase the following instead:
 
 > [!qna]**What name will be on the papers?**
 >
-> > "The first name you choose and Varn after it, unless you'd like another. Vale and Reed Imports will call you a traveling order clerk. The letter is three months old, and the two deliveries are real."
+> > "The first name you choose and Varn after it, unless you'd like another, and Vale and Reed Imports will call you a traveling order clerk. The letter is three months old, and the two deliveries are real."
 
 > [!qna]**Who vouches for me?**
 >
-> > "A chandler on Fillet Lane and a map-seller on the Street of Silks. Both know you only as Varn. Go and buy a candle from one of them before you rely on it."
+> > "A chandler on Fillet Lane and a map-seller on the Street of Silks, and both know you only as Varn. Go and buy a candle from one of them before you rely on it."
 
 If the member visits Nella Fen after the packet arrives, read or paraphrase the following:
 

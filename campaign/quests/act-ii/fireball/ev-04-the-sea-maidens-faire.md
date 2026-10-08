@@ -132,7 +132,7 @@ The party stole seller records from the Heartbreaker or Eyecatcher. True = Jarla
 Record only when *Nimblewright Ledger Stolen* is True. True = records from the Eyecatcher (complete chain of sale). False = Heartbreaker only (partial). Read by Gralhund Villa (intelligence depth).
 
 #### Jarlaxle Unmasked (per character)
-Mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member is looking for the man they met as Zord), and by **Sea Maidens Faire**.
+Mark for each character who learns Zord's true name through **Who Zord Is**, and record the character's name. Read by every Bregan D'aerthe event (no Bregan D'aerthe speaker says "Jarlaxle" to a member until it is marked), by the Harper mission **A Friend's House** (a marked member knows the name behind Zord and that he wears personas), and by **Sea Maidens Faire**.
 
 #### Crystal Ball Accessed: True / False
 The party accessed the Scarlet Marpenoth's crystal ball footage. True = maximum intelligence; Jarlaxle discovers the access and does not deploy; is curious about who found the sub. Read by Gralhund Villa.

@@ -21,7 +21,7 @@ A secondary objective appears in Area X24: a drow prisoner, Soluun Xibrindas, wh
 
 - **Vajra Safahr** (Force Grey) — provides potions and covers *raise dead* costs; receives the completed mission report
 - **Nihiloor** (Xanathar's Guild) — the mind flayer managing the Spawning Pool; present in the lair 50% of the time; prioritizes escape over confrontation
-- **Meloon Wardragon** (Force Grey, optional) — if restored in Mission 3, he can provide tactical intelligence from the devourer's residual memories before the party departs
+- **Meloon Wardragon** (Force Grey, optional) — if restored in Mission 3, he can describe the lair from what he saw and heard while occupied before the party departs
 - **Soluun Xibrindas** (independent) — a drow prisoner in Area X24; a secondary rescue objective with cross-faction implications
 
 ## Dangers & Enemies
@@ -34,6 +34,6 @@ Vajra's *Sending* tells the party where the Spawning Pool is and tells them to c
 
 At Blackstaff Tower, potions are on the desk — one *potion of psychic resistance* per character, and a spare *potion of water breathing* for one entry route. Vajra covers any *raise dead* costs that become necessary. She says it without inflection.
 
-The operation runs in two phases: navigating through the active lair to the pool, and destroying the pool before the lair responds. Nihiloor is somewhere in the lair and may be encountered on the route. The escape, once the pool is destroyed, is the final challenge. If Meloon was restored in Mission 3, he can brief the party on the lair's layout from the devourer's residual memories before they go in.
+The operation runs in two phases: navigating through the active lair to the pool, and destroying the pool before the lair responds. Nihiloor is somewhere in the lair and may be encountered on the route. The escape, once the pool is destroyed, is the final challenge. If Meloon was restored in Mission 3, he can brief the party on the lair's layout from what he saw while occupied before they go in.
 
 **Nihiloor appears again in Xanathar's Lair** if it escaped this mission; parties who drove it out here will recognize it. If it was destroyed or cornered here, it is gone — which affects whether Xanathar's mind-control network has remaining operational intelligence in the city.

@@ -97,21 +97,21 @@
 >
 > The curtain falls on the first act, and the noise of the house swells in the galleries below. Mirt puts down his glass, turns his chair to face you and stops smiling.
 >
-> > "The Harpers. You've heard the stories, and half of them are wrong. We aren't a guild and we aren't a government. We're people who decided to act instead of waiting for someone better qualified to show up."
+> > "The Harpers. You've heard the stories, and half of them are wrong, because we aren't a guild or a government. We're people who decided to act instead of waiting for someone better qualified to show up."
 >
 > He refills his own glass and looks at you over the rim.
 >
-> > "We protect the vulnerable, and we resist anyone who seizes enough power to stop answering to anyone. Waterdeep has people like that at work now, outside the law. Renaer thinks you can reach them. I'd like to know if he's right. What do you want to ask me?"
+> > "We protect the vulnerable, and we resist anyone who seizes enough power to stop answering to anyone. Waterdeep has people like that at work now, outside the law, and Renaer thinks you can reach them. I'd like to know if he's right, so what do you want to ask me?"
 
 > [!qna]**What do the Harpers do?**
 >
 > Mirt rests both hands on the arms of his chair.
 >
-> > "We find out what's happening before someone gets hurt. Then we tell the people who can act, or we act ourselves. We use information far more than force, and our Waterdeep cell is small but well connected."
+> > "We find out what's happening before someone gets hurt, then we tell the people who can act or we act ourselves. We use information far more than force, and our Waterdeep cell is small but well connected."
 
 > [!qna]**Who gives the orders?**
 >
-> > "I'm your contact, and there are others you'll meet as the work needs them. Nobody orders you to do harm. If a job troubles you, say so, and I'll hear it. Rank here is earned, lass, and nobody can declare it for himself."
+> > "I'm your contact, and there are others you'll meet as the work needs them. Nobody orders you to do harm, and if a job troubles you, you can say so and I'll hear it. Rank here is earned, lass, and nobody can declare it for himself."
 
 > [!qna]**Why us?**
 >
@@ -123,25 +123,25 @@
 >
 > Mirt reaches into his coat and sets a pin on the arm of his chair.
 >
-> > "A place to be known. Other Harpers will treat you as a friend until you give them cause not to. You get this pin, a key and an address, and you'll hear from me when there's work. I won't ask you to promise anything before you've heard the job."
+> > "A place to be known, since other Harpers will treat you as a friend until you give them cause not to. You get this pin, a key and an address, and you'll hear from me when there's work. I won't ask you to promise anything before you've heard the job."
 
 > [!qna]**Can we keep our other loyalties?**
 >
-> > "Each of you answers for yourself. If you've sworn to another faction, I'll make no offer and take no offense. Your companions can help you with anything, and helping you doesn't make them Harpers."
+> > "Each of you answers for yourself, and if you've sworn to another faction, I'll make no offer and take no offense. Your companions can help you with anything, and helping you doesn't make them Harpers."
 
 > [!qna]**What happens if we say no?**
 >
-> > "You finish the wine and enjoy the second act. I think better of you for being honest, and nobody will hunt you for it. If you change your mind, ask Renaer to find me."
+> > "You finish the wine and enjoy the second act. I think better of you for being honest, and nobody will hunt you for it, but if you change your mind, ask Renaer to find me."
 
 > [!qna]**What is the first job?**
 >
-> > "Tonight I'm finding out whether you'll join. I won't hand out a job at the theater. When there's work, word will reach you."
+> > "Tonight I'm finding out whether you'll join, so I won't hand out a job at the theater. When there's work, word will reach you."
 
 > [!gamemaster]**If a Player Raises the Stone or Manshoon**
 >
 > Mirt does not discuss the Stone of Golorr, Manshoon, the Cassalanters or the vault, and he says so in the business voice. If a player names Manshoon, Mirt does not confirm or deny it. He answers:
 >
-> > "That isn't tonight's business. The Black Network has split, and that much I'll tell you. Tonight I'm learning who you are."
+> > "That isn't tonight's business, but the Black Network has split, and that much I'll tell you. Tonight I'm learning who you are."
 
 ### Each Candidate's Answer
 
@@ -155,7 +155,7 @@ If a candidate accepts, read or paraphrase the following, using their name:
 >
 > Mirt reaches into his coat and presses a silver pin, a harp inside a crescent moon, into your open hand. He sets a plain iron key and a small card beside it and closes your fingers over all three.
 >
-> > "Welcome. The card gives an address in the North Ward, number twelve on Delzorin Street. There are five bunks, clean water and a hearth. Use it when you need to. Nobody will ask who you are."
+> > "Welcome. The card gives an address in the North Ward, number twelve on Delzorin Street, with five bunks, clean water and a hearth. Use it when you need to, and nobody will ask who you are."
 
 If a candidate declines, read or paraphrase the following:
 

@@ -15,7 +15,7 @@ Meloon Wardragon has been a Force Grey veteran since before Vajra took the Black
 
 Azuredge, the sentient greataxe Meloon has carried for two decades, has been fighting the devourer's control since it arrived. It has prevented worse things from happening. It cannot reach Meloon through the devourer's interference, but it can reach the party, if they pay attention to it.
 
-The mission's three outcomes depend entirely on how specifically the party can document the possession. A full report triggers Vajra's immediate action. A direct extraction attempt surfaces the devourer as a combat threat. An inconclusive report leaves Nihiloor's network with the party's identities before Mission 4 begins.
+The mission's three outcomes depend entirely on how specifically the party can document the possession. A full report triggers Vajra's immediate action. A direct extraction forces the devourer out as a combat threat. An inconclusive report leaves Nihiloor's network with the party's identities before Mission 4 begins.
 
 ## Involved Characters
 
@@ -26,7 +26,7 @@ The mission's three outcomes depend entirely on how specifically the party can d
 
 ## Dangers & Enemies
 
-The primary threat is an **Intellect Devourer** (2024 *Monster Manual*), currently occupying Meloon's skull and not visible or targetable until extracted. If direct extraction is attempted and fails, the devourer surfaces and tries to implant in the nearest living creature. All combat risk in this mission is confined to a failed extraction. Every other beat is observation and social.
+The primary threat is an **Occupying Devourer** (`docs/plans/harpers-mechanics-reference.md` §5), currently occupying Meloon's skull and not visible or targetable until extracted. If the party forces it out, it appears hostile and tries to occupy the nearest eligible creature. All combat risk in this mission is confined to a direct extraction. Every other beat is observation and social.
 
 ## Overview
 

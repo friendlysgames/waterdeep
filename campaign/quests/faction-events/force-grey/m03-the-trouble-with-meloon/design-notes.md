@@ -12,6 +12,10 @@ The DC 14 plus a direct question (versus DC 18 without) rewards players who thin
 
 ***Playing Azuredge.*** Azuredge communicates entirely through emotional impression. It has no voice. DMs playing this beat should think of the way a dog communicates urgency — by fixing on whoever is addressing it and refusing to let go, not through words. The three impressions are ordered carefully: concern first, frustration second, hope last. This sequence contains an argument. Let there be a pause between each impression, long enough for the player to sit with one before the next arrives.
 
+## Extraction Without Wish
+
+***Why Vajra uses the procedure.*** Nihiloor's devourers are the custom Occupying Devourer, which keeps the host's brain alive, so no spell has to restore anything. Vajra supplies the Breaks that the level 4 party cannot: she casts a ward and three *dispel magic* spells from 4th-level slots. The casting has no hidden cost to her. The party's own route uses the ward and anchor routes, since *dispel magic* is out of reach at this level. Azuredge is the anchor, which gives the sentient axe a mechanical job in the rescue. The rules and stat block live in `docs/plans/harpers-mechanics-reference.md` §5.
+
 ## The Consequence of Failure
 
 ***The inconclusive path is fully designed, not punitive.*** A party that reports without specifics does not fail the mission — they fail to end the devourer's operation. The consequence is calibrated: Mission 4 is harder, not impossible. The devourer having identified the party increases an existing threat rather than creating a new one. Some parties will genuinely be unable to confirm the possession clearly in ten days, and the mission should remain completable at increased cost rather than closed off.

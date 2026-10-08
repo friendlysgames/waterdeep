@@ -62,15 +62,15 @@ He lets the member eat before he says anything else. When the plates are cleared
 >
 > Mirt counts three fingers on the tablecloth.
 >
-> > "You can put one question to me every ten days. You can put questions to three people in three wards. And at those three shops you pay a tenth less. I'll go through each one."
+> > "You can put one question to me every ten days and questions to three people in three wards, and at those three shops you pay a tenth less. I'll go through each one."
 
 > [!qna]**Why is it mine and not the whole party's?**
 >
-> > "I write ranks by name. Your companions can help you, and they should. But the contacts answer to the paper in your hand, and a companion can't spend it."
+> > "I write ranks by name, so your companions can help you, and they should, but the contacts answer to the paper in your hand and a companion can't spend it."
 
 > [!qna]**Who are the contacts?**
 >
-> > "Read the paper. Three shops, three wards. They don't know each other, and I'd like to keep it that way. Don't carry the paper where anyone can read it."
+> > "Read the paper, three shops in three wards. They don't know each other, and I'd like to keep it that way, so don't carry the paper where anyone can read it."
 
 > [!qna]**What if I lose my Renown?**
 >
@@ -101,7 +101,7 @@ Ask what the member wants to know, then use the matching answer below. Mirt answ
 >
 > If **Shesstra Street Reported** is marked for the member, use this answer. Otherwise use the answer to the unestablished question.
 >
-> > "You told me about a three-floor house on Shesstra Street with a red lantern upstairs. That gave me a place to watch. What I still can't prove is who gives the orders inside."
+> > "You told me about a three-floor house on Shesstra Street with a red lantern upstairs, and that gave me a place to watch. What I still can't prove is who gives the orders inside."
 
 > [!qna]**What did the handler's ledger show?**
 >
@@ -111,13 +111,13 @@ Ask what the member wants to know, then use the matching answer below. Mirt answ
 
 > [!qna]**Who leads the other branch of the Black Network?**
 >
-> > "The Black Network has split, that much I know. I've no proof of who runs the other branch. If you find a name attached to orders, bring me the evidence. I won't send you chasing a guess."
+> > "The Black Network has split, that much I know, but I've no proof of who runs the other branch. If you find a name attached to orders, bring me the evidence, because I won't send you chasing a guess."
 
 > [!qna]**Something you haven't established**
 >
 > Use this for any question Mirt cannot answer from confirmed facts.
 >
-> > "I haven't established that. I'll keep the question with my reports and tell you if anyone brings me proof. This one isn't spent, and you can ask another."
+> > "I haven't established that, so I'll keep the question with my reports and tell you if anyone brings me proof. This one isn't spent, and you can ask another."
 
 If the member asks a second question at the table, Mirt answers once with the unestablished answer and says the channel opens again in ten days.
 
@@ -178,11 +178,11 @@ The folded paper lists three contacts and the opening phrase. Mirt reads the phr
 
 > [!qna]**What do you want in return?**
 >
-> > "Nothing. A receipt is a receipt, and the paper you carry has already paid for it. Ask me about a building or a route and I'll tell you what I know."
+> > "Nothing, since a receipt is a receipt and the paper you carry has already paid for it. Ask me about a building or a route and I'll tell you what I know."
 
 > [!qna]**Can you tell me what the neighbors think?**
 >
-> > "I can tell you what changed on the street. Who is hiring, who stopped, who has new locks. The neighbors are your business."
+> > "I can tell you what changed on the street, such as who is hiring, who stopped and who has new locks. The neighbors are your business."
 
 > [!social]**Bram Pell, Barber**
 >
