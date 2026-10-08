@@ -35,7 +35,7 @@ Mirt is at home for once, and he receives the member in his business gear.
 >
 > The receiving room of Mirt's manor has its shutters open to the harbour, and a half-eaten roast duck sits at the middle of the long table. Maps lie unstacked at the far end, and two servants carry plates in and out without a word. Mirt pushes a chair out with his foot and refills the cup in front of it before you sit.
 >
-> > "Sit. Eat something first. Wise Owl is the name for it, and it means we trust your judgment. There are five things to go through tonight. Hear all of them before you ask me anything."
+> > "Sit. Eat something first. Wise Owl is the name for it, and it means we trust your judgment. There are five things to go through tonight, so hear all of them before you ask me anything."
 
 > [!social]**The Old Wolf at Home**
 >
@@ -53,11 +53,11 @@ Mirt is at home for once, and he receives the member in his business gear.
 
 > [!qna]**What is a Wise Owl?**
 >
-> > "It's a rank, and it comes with terms like any loan. We trust your judgment now, and in return I'll ask more of you. I'll ask for better work, too."
+> > "It's a rank, and it comes with terms like any loan. We trust your judgment now, and in return I'll ask more of you, including better work."
 
 > [!qna]**Do my companions share it?**
 >
-> > "No. The rank is yours, and so is everything that comes with it. Your friends can stand beside you on a job. They can't send for papers or an informant in your name, and I'll turn them away if they try."
+> > "No. The rank is yours, and so is everything that comes with it. Your friends can stand beside you on a job, but they can't send for papers or an informant in your name, and I'll turn them away if they try."
 
 > [!qna]**How do you know Laeral?**
 >
@@ -75,15 +75,15 @@ Mirt takes the cover service first, because it is the benefit a member is most l
 >
 > Mirt slides a plain sheet out from under the duck platter and sets it between you. It has three short paragraphs on it in his square hand, each headed with the name of a service. He taps the first paragraph and waits until you have read down to the third.
 >
-> > "One job in each quest, and three days' warning. Papers, a distraction or witnesses. Give me the place and the hour, and I'll tell you what can be done."
+> > "One job in each quest, with three days' warning, and it can be papers, a distraction or witnesses. Give me the place and the hour, and I'll tell you what can be done."
 
 > [!qna]**What do the papers do?**
 >
-> > "Vale and Reed Imports will put your premises and your hour on an employer's letter, an order and a set of receipts. Carry them as business papers. They're no warrant, and a doorkeeper will still want a word."
+> > "Vale and Reed Imports will put your premises and your hour on an employer's letter, an order and a set of receipts, so carry them as business papers. They're no warrant, and a doorkeeper will still want a word."
 
 > [!qna]**What if we need it sooner?**
 >
-> > "Then you don't get it. Three days is the least anyone can arrange without being noticed. Plan ahead and ask early."
+> > "Then you don't get it, because three days is the least anyone can arrange without being noticed. Plan ahead and ask early."
 
 > [!exploration]**One Cover Service per Quest**
 >
@@ -103,7 +103,7 @@ If the member chose documents, read or paraphrase the following when Wil deliver
 >
 > Wil Keen leans against the door frame of your lodging with a sealed packet in one hand and a stalk of straw between his teeth. The seal is Vale & Reed Imports, and the packet is thick enough to hold a letter, an order and a stack of receipts.
 >
-> > "Papers for the job. Carry them like any dull business papers. They'll get you a polite hearing and not much more."
+> > "Papers for the job, so carry them like any dull business papers. They'll get you a polite hearing and not much more."
 
 If the member chose the distraction, read or paraphrase the following at the entrance:
 
@@ -127,15 +127,15 @@ If the member chose witnesses, read or paraphrase the following at the counter:
 >
 > Mirt takes three small slips of paper from his coat and lays them in a row beside the duck. Each has one word on it in pencil, and he turns them to face you as he speaks.
 >
-> > "Three people, in the Guild, the Faire and the Splinter. They're small people in dangerous places, and I won't spend them carelessly. Each of you may send each of them one request in every quest."
+> > "Three people in the Guild, the Faire and the Splinter, small people in dangerous places, and I won't spend them carelessly. Each of you may send each of them one request in every quest."
 
 > [!qna]**Who are they?**
 >
-> > "Lantern, Canvas and Slate. I'll not give you the people behind the names. Lantern carries for a Guild warehouse. Canvas sells tickets at the Faire. Slate clerks for the Splinter's cargo office, and he sees none of its private rooms."
+> > "Lantern, Canvas and Slate, and I'll not give you the people behind the names. Lantern carries for a Guild warehouse, Canvas sells tickets at the Faire, and Slate clerks for the Splinter's cargo office and sees none of its private rooms."
 
 > [!qna]**What if the request fails?**
 >
-> > "Then that line stays silent to you for twenty days. Nobody is hurt and nobody is found out. The other two still answer."
+> > "Then that line stays silent to you for twenty days, but nobody is hurt or found out, and the other two still answer."
 
 > [!gamemaster]**Three Protected Postings**
 >
@@ -163,11 +163,11 @@ When a request within access succeeds, read or paraphrase the informant's line a
 >
 > Mirt reads from a folded slip, turning it so the light falls on the pencil.
 >
-> > **Lantern:** "I walked my round on the day you named. The crates and the guard changes I saw are written below. Anything I only heard is marked."
+> > **Lantern:** "I walked my round on the day you named, and the crates and guard changes I saw are written below. Anything I only heard is marked."
 > >
-> > **Canvas:** "I watched the booth and the gangway at the hours you gave. What I saw is listed below. I never went below deck."
+> > **Canvas:** "I watched the booth and the gangway at the hours you gave, and what I saw is listed below. I never went below deck."
 > >
-> > **Slate:** "I copied the entries that crossed my desk. The shipments and instructions are below. The private rooms are locked to me."
+> > **Slate:** "I copied the entries that crossed my desk, and the shipments and instructions are below. The private rooms are locked to me."
 
 If the check fails, read or paraphrase the following:
 
@@ -175,7 +175,7 @@ If the check fails, read or paraphrase the following:
 >
 > Mirt sets one slip face down on the table and puts his cup on top of it before he speaks.
 >
-> > "That line has gone quiet. Count twenty days from tonight before you try it again. The other two are still open to you."
+> > "That line has gone quiet, so count twenty days from tonight before you try it again. The other two are still open to you."
 
 ### The Warning
 
@@ -190,7 +190,7 @@ If the check fails, read or paraphrase the following:
 
 > [!qna]**Does the warning stop an attack?**
 >
-> > "No. It reaches you within a day of their decision, with the last place we saw their people. Use the day to move or to get ready. I can't promise they're still where we saw them."
+> > "No. It reaches you within a day of their decision, with the last place we saw their people. Use the day to move or get ready, but I can't promise they're still where we saw them."
 
 ### Laeral's Reply
 
@@ -208,7 +208,7 @@ If the check fails, read or paraphrase the following:
 >
 > Mirt takes the note back and folds it into his coat.
 >
-> > "She's the Open Lord. Don't bring her a problem you could solve on your own. Bring me a danger and a deadline, and I'll send it up."
+> > "She's the Open Lord, so don't bring her a problem you could solve on your own. Bring me a danger and a deadline, and I'll send it up."
 
 > [!exploration]**An Urgent Audience**
 >
@@ -238,7 +238,7 @@ If Remallia is not present, read or paraphrase the following:
 >
 > Mirt turns his cup in its saucer and looks at you over the rim.
 >
-> > "The next papers will say Dale unless you want another surname. Tell me now, before they're made up. I won't tell you who does the writing."
+> > "The next papers will say Dale unless you want another surname, so tell me now, before they're made up. I won't tell you who does the writing."
 
 > [!exploration]**The Second Persona**
 >
@@ -253,7 +253,7 @@ If Remallia is present, she answers questions about the papers:
 
 > [!qna]**Will the papers convince anyone?**
 >
-> > "They give a person ordinary work to check, and that is all they do. Could you explain each of these orders without looking at the page? A real receipt helps. It can't promise what another person will believe."
+> > "They give a person ordinary work to check, and that is all they do. Could you explain each of these orders without looking at the page? A real receipt helps, but it can't promise what another person will believe."
 
 If the member visits Ilen with the receipt number, read or paraphrase the following:
 
