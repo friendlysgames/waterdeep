@@ -1,23 +1,28 @@
-# Design Notes: Force Grey Mission 4 — Destroy the Intellect Factory
+# Design Notes: Destroy the Intellect Factory
 
-## Nihiloor's Arc-Spanning Role
+## What the Source Gave
 
-***The same enemy, twice.*** Nihiloor is the same mind flayer who appears in Xanathar's personal retinue in Arc F. This mission intentionally precedes Arc F in the expected encounter sequence — the Force Grey arc is building toward Arc F throughout, and Mission 4 is the moment where the two tracks merge. A party that ran this mission and drove Nihiloor out encounters a weakened version of it in Arc F: still dangerous, but with fewer hosts and without the production infrastructure that made it a threat at scale.
+Appendix C gives a raid on Xanathar's Lair with a route through X1, X2, X22, X24, X25 and X26, a brine pool eight feet across and four deep with three developing devourers, three ways to destroy it, and a mind flayer who flees. It also gives Soluun as a prisoner and a graduation to full Force Grey status. The earlier draft followed that route and used room codes that clash with the lair's own.
 
-***If Arc F runs first.*** It is possible for the party to reach Arc F before completing Mission 4, particularly if their Force Grey renown path is slower than their main-quest advancement. In this case, the mission encounter with Nihiloor carries a different weight: the party recognizes it, knows what it can do, and has prior evidence of its capabilities. Nihiloor, in turn, has encountered the party in the lair and adjusted — its escape route from X24 is now a prepared path rather than an improvised one, and it moves toward it faster. The DM should note the sequence when planning this mission.
+## What Changed
 
-***Destruction vs. escape.*** Whether Nihiloor is destroyed here matters for Arc F. This is documented in the Next Steps block. The DM should track which outcome occurred and carry it forward — it is one of the few places in the faction mission arc where a specific binary outcome (alive vs. dead) has named downstream effects.
+The mission is now an objective inside **Xanathar's Lair**. **The Brief** is the Tower scene before the lair, and **Nihiloor's Wing** is a block the GM opens at X23. The wing uses only the lair's codes: X23 files, X24 placement records, X25 experiments, X26 the Puppet. The pool, the records and the captive are added to those rooms, and the Puppet device stays with the lair quest.
 
-## Soluun Xibrindas
+Nihiloor is a boss who holds four things and runs when the second is lost. He always escapes, so the mission rewards what the party takes from him and never asks for his death. The Harper and Gauntlet lair hooks that ask for his death are logged as out of scope.
 
-***Why include a rescue here.*** Soluun appears in Doom Raiders Mission 1 (The Dockside Killer) as the antagonist and reappears here as a prisoner. A party that dealt with him in Mission 1 will recognize him in X24 and face an interesting decision: the man they may have arrested, fought, or let escape is now in need of rescue from the same organization they are currently infiltrating. Whether they help him says something about the party's moral accounting.
+## Departures from the Source
 
-For parties who never encountered Soluun before: he is a drow claiming BD affiliation to stay alive, which has been working for six weeks, and the debt he owes if rescued can be presented as a future asset without requiring prior acquaintance.
+Soluun is no longer the default prisoner. Zaibon Kyszalt is, from the original Dragon Heist text, and Soluun appears only if **Soluun Expelled** is marked. The graduation to full Force Grey status is cut, because titles come only from the rank events, and Vajra writes a commendation that gives no rank. The random encounter table is gone, and the enforcers arrive on a clock instead. Meloon's round at the Portal returns from Appendix C as an aftermath scene.
 
-***The escape cost.*** The decision to rescue Soluun is made in Event 01; the cost is paid in Event 02. Carrying an unconscious person through an alerted dungeon is a concrete mechanical burden. This is intentional — the design ensures that the rescue has weight at the point when it matters, not just at the point of decision. Players who chose to help him and then feel the cost of that choice have engaged with the mission more meaningfully than players who never had to pay for their intentions.
+If the lair has already run, this mission is a debrief. Vajra's *Sending* calls the members, and the GM marks the outcomes from what the party did in X23 to X26.
 
-## The Pool as the Real Objective
+## Invented Names and Open Items
 
-***Nihiloor is secondary.*** The briefing makes this explicit, and the design reinforces it: the pool can be destroyed without ever engaging Nihiloor, and the +2 renown goes to destroying the pool, not defeating the mind flayer. This is structurally unusual in a dungeon-crawl mission — the combat encounter (Nihiloor) is secondary to the objective (the pool). This reflects how Force Grey missions are designed: Vajra cares about outcomes, not confrontations. The party that slips past Nihiloor and destroys the pool with holy water and exits clean has completed this mission better than the party that spent six rounds fighting and destroyed the pool with three exhausted characters.
+Invented: the three other hosts' posts (a Dock Ward Watch quartermaster's runner, a customs-house tally clerk, a harbormaster's messenger), the two pending posts, the leaden copy of Dobb Ketterly's disk, and the lost Force Grey agent who reported the pool. Zaibon's alignment is assumed. The seven-tenday placement of Orvyn Dall is left out so that **The Legate's Eyes** can fix it.
 
-***The three destruction methods.*** Each method has a different profile: holy water is fast but loud, physical destruction is loud, elemental damage is quiet but slow. In a potentially occupied room with a three-to-five minute enforcer clock, these are meaningful tactical choices. The DM should present all three as viable and let the party's prior preparation (did they bring holy water? do they have sustained fire damage available?) shape which path they take.
+Open items for other files:
+
+- Bregan D'aerthe's **The Dive** has Soluun selling the Faire's berth to the Guild after he is expelled, which sits badly with a Soluun held in Nihiloor's wing.
+- **The Trouble with Meloon** writes no outcome for a case that ends with neither **Meloon Restored** nor **Meloon Lost**, and this mission reads that case as restored.
+- **The Sleeping Asset** does not yet read **Pool Destroyed**.
+- The Raelyn Auvryndar thread from Dragon Heist is dropped, because the lair's cell block has no room for her.

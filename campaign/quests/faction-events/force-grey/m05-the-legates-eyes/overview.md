@@ -1,30 +1,73 @@
-# Force Grey Mission 5 — The Legate's Eyes
+# The Legate's Eyes: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> Requires Force Grey Renown 10 and 6th level. Available after Mission 4 is complete.
+> Becomes available when an individual Force Grey member reaches Renown 10 and 6th level, after **Destroy the Intellect Factory**. Companions can help with everything except Vajra's brief and debrief.
 >
 > #### Difficulty
 > *An adventure for 6th-level characters.*
 >
-> #### Milestone Overview
-> This mission awards no Milestone Points.
+> Orvyn Dall uses the **Commoner** stat block while the custom **Occupying Devourer** rides him. Guild minders use **Tough** and, on a Hard day, a **Warrior Veteran**. Section 5 of the **Harpers Mechanics Reference** holds the devourer and the Extraction Procedure, and the **Force Grey Mechanics Reference** sets the rosters for three, four and five characters.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points. Renown goes to the individual Force Grey members who report to Vajra.
+
+## Hook
+
+Vajra's *Sending* finds each eligible member in the middle of an ordinary day and calls them to Blackstaff Tower by nightfall. Three Watch magistrates have reversed rulings in the Guild's favour this month, and she wants to know who stands behind them.
+
+## Background
+
+Seven tendays ago a devourer from Nihiloor's brood took Orvyn Dall, an appeals clerk in the Trades Ward district magistracy. It steers which appeals reach which magistrate, and the three reversed rulings are the result. Vajra can see the pattern in the paper and cannot prove the cause. She also cannot act on the magistracy herself, because any move by the Blackstaff against the Watch opens a formal review that she is not ready to explain.
+
+> [!gamemaster]**What Is Actually True**
+>
+> - The devourer is the custom variant that keeps Orvyn's brain alive. He is aware and cannot act or speak, and he can be saved by forcing the devourer out.
+> - Its telepathy reaches 60 feet, so it reports through Dobb Ketterly, the Guild dockhand who carried Meloon's reports in **The Trouble with Meloon**. He meets Orvyn at the Bricklayer's Cup at noon on every fifth day.
+> - Orvyn is one of four Watch and civic hosts that Nihiloor placed, and two more were pending. If **Pool Destroyed** is marked, no new hosts arrive.
+> - Mirt's "three of ours" in **The Sleeping Asset** counts Harpers. Orvyn and Meloon are Force Grey's hosts and are separate from that count.
+> - Nobody in this mission mentions the Splinter, the Cassalanters or Manshoon.
+
+## The Reversed Rulings
+
+Vajra gives the members a dossier of three rulings and the district office that handled them. Three leads reach Orvyn: the rulings in the Hall of Records, the appeals clerks at lunch, and a third that depends on what the party carries out of **Destroy the Intellect Factory**. The members then work out what is wrong with him, by several separate methods.
+
+## The Extraction
+
+The party moves Orvyn to a place where the devourer cannot call for help. Vajra will do it herself if she holds his ledger, or the party can work in his apartment or at Trollskull Manor. The members hold him, force the devourer out by ward, by magic or by a voice he trusts, and decide whether to extract him, kill him or leave him in place.
+
+## The Report
+
+A restored Orvyn names two Guild representatives and asks that the party's names stay out of his amended report. The members may pass those names to Jalester Silvermane, and they report to Vajra either way.
+
+## Renown Opportunities
+
+Each participating Force Grey member gains 4 base Renown for settling the matter with Vajra. Each eligible member also gains the following bonuses when the party meets their conditions:
+
+- **+1 Renown:** Orvyn is extracted alive and no Watch review opens.
+- **+1 Renown:** Orvyn's ledger reaches Vajra, and **Orvyn Ledger Delivered** is marked.
+
+Companions who are not Force Grey members gain no Renown, and each bonus can be earned only once.
+
+## Aftermath
+
+A restored Orvyn returns to his desk after a tenday, and Vajra audits the other district clerkships. A lost Orvyn opens a Watch review that runs for 14 days. An Orvyn left in place keeps filing appeals under watch. **Smoke in the Tower** and **Force Grey** (the r25 rank event) read which of the three happened, and **Smoke in the Tower** and **Vault of Dragons** (unconverted) read the ledger.
 
 ## Involved Characters
-- **Vajra Safahr** (Force Grey) — identifies the pattern in the reversed rulings and assigns the mission; receives Orvyn's coded ledger
-- **Orvyn Dall** (Waterdeep Watch) — an appeals clerk in the Watch's Trades Ward district magistracy, occupied by an intellect devourer for seven weeks; the subject of extraction
-- **Jalester Silvermane** (Lords' Alliance, optional) — a secondary intelligence-share target if the party chooses to cross-report the Guild representatives Orvyn names
+
+- **Vajra Safahr** (Force Grey): briefs and debriefs the members and casts the ward and three *Dispel Magic* spells if she holds the ledger.
+- **Orvyn Dall** (Waterdeep Watch): the appeals clerk the devourer rides.
+- **Dobb Ketterly** (Xanathar's Guild): the dockhand who carries the devourer's reports.
+- **Ketha Rudd** and **Alder Yost** (Xanathar's Guild): the two Guild representatives who reached the precinct by channels they should not have had.
+- **Brenna Tull** (independent): the widow in the flat below Orvyn's, who calls the Watch if she hears a fight.
+- **Meloon Wardragon** (Force Grey): coaches the party on the tells if **Meloon Restored** is marked.
+- **Jalester Silvermane** (Lords' Alliance): can receive the Guild names.
+- **Nihiloor** (Xanathar's Guild): receives the reports and never appears.
 
 ## Dangers & Enemies
-No combat unless direct extraction is attempted at Orvyn's apartment, where a dislodged intellect devourer becomes immediately hostile. The threat here is procedural: an extraction that triggers a Watch investigation exposes Vajra's use of off-books assets and creates a legal complication she was specifically trying to avoid.
+
+The hosted Orvyn is a Commoner with 4 hit points, and the devourer inside him flees, shouts or stands still instead of fighting. An alerted devourer brings Guild minders, who use **Tough** and a **Warrior Veteran**. The expelled devourer is Tiny, has 28 hit points and tries to take a new host.
 
 ## Overview
 
-Three Watch magistrates have reversed significant rulings in the past month. All three decisions benefited the same Guild interests. Vajra wants to know why, and she has a suspect: **Orvyn Dall**, an appeals clerk whose office processes all three magistrates' documentation.
-
-Nihiloor's Spawning Pool was destroyed in Mission 4. It was not the only piece of the network. Orvyn has had a devourer behind his eyes for seven weeks, quietly adjusting which cases reach which desks. The three reversed rulings are the visible tip of twelve months of planned manipulation. The devourer is running without further direction from Nihiloor — a self-sustaining legacy asset.
-
-Three independent investigation paths confirm the possession. The extraction must be arranged privately or through legal channels; dragging Orvyn into a back alley is not an option. Orvyn himself has been fighting this for seven weeks and knows something is wrong with him. He cannot do anything about it alone.
-
-Restored, he names two Guild representatives who contacted the precinct through channels they should not have had. He asks that the party's names not appear in his amended report. Vajra tells him they won't.
+Vajra asks the Force Grey members to find out why three Watch rulings went the Guild's way. The trail leads to a clerk who is not behaving like himself.
