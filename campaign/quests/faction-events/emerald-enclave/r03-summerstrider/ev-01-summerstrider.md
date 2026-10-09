@@ -24,7 +24,7 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 
 > [!gamemaster]
 >
-> The message is 23 words. Anyone nearby hears it, so a companion at the table knows where the member is going. The pigeon carries no reply, and Melannor expects the member at dusk.
+> The message is 23 words, and anyone nearby hears it, so a companion at the table knows where the member is going. The pigeon carries no reply, and Melannor expects the member at dusk.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -44,7 +44,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 >
 > The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and noisy with evening traffic. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. The oldest oak stands in the middle of the garden with its roots across the path, and Melannor waits beside it with his hands clasped in front of him.
 >
-> > Summerstrider. Good evening. Please walk with me, and your companions may wait by the gate, where the benches are.
+> > Good evening, Summerstrider. The rank is yours, and I will explain it as we walk. Your companions may wait on the benches by the gate.
 
 If companions come along, they wait on the benches by the gate, and Melannor speaks to them no further. Jeryth does not speak until the healing scene below.
 
@@ -66,19 +66,19 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 >
 > Melannor holds up one finger for each benefit as he names it.
 >
-> > You may send one message each tenday, and Jeryth will heal injuries you take in our work. I will also give you one report each tenday from every ward. I will explain each in turn.
+> > You may send one message every tenday, and Jeryth will heal the injuries you take in our work. I will also give you one report from each ward every tenday, and I will explain each benefit in turn.
 
 > [!qna]**Why is it mine and not the party's?**
 >
-> > I write ranks by name. Your companions may help you, and they are welcome in the garden, but the rank has no line for them. Jeryth heals the person she has named.
+> > I write each rank beside a name, and the rank has no line for your companions. They may help you and rest in the garden, but Jeryth heals only the person she has named.
 
 > [!qna]**Who are the watchers?**
 >
-> > Gardeners, wardens and fisherfolk. They notice what the soil and the water do, and they do not know the Enclave by name. I would like them to stay unknown.
+> > They are gardeners, wardens and fisherfolk who notice what the soil and the water do. They do not know the Enclave by name, and I would like them to stay unknown to you.
 
 > [!qna]**What happens if my Renown falls?**
 >
-> > The rank stays with you, because it was earned. The three benefits wait until your Renown is restored. I will tell you when that happens.
+> > The rank stays with you, because you earned it, and the three benefits wait until your Renown is restored. I will tell you at the gate when that happens.
 
 ### The Relay
 
@@ -86,28 +86,28 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 >
 > Melannor leads you along a gravel path to a wooden box mounted on a post beside the gate, with a slot in the lid and a leaf carved on the front. A row of pigeons and crows sits along the wall above it and watches without moving.
 >
-> > This is the gate box. Write your message and leave it here, or give it to me when I am at the gate. It may be twenty-five words long, and no longer.
+> > This is the gate box. Write your message and leave it here, or give it to me when I am at the gate. It may be twenty-five words long.
 
 > [!exploration]**Sending a Message**
 >
 > - **Contact:** Melannor at Phaulkonmere, or a written note left in the gate box at any hour. He collects the box at dawn and at noon.
 > - **The request:** the member names a recipient by description and a place Melannor has visited, and writes the message in 25 words or fewer. Melannor has visited every ward of the city, the Undercliff and the farms outside the walls. A request for a place he has not visited is refused, and nothing is spent.
 > - **The animal:** Melannor casts *Animal Messenger* on a Tiny Beast of CR 0. He uses a pigeon or a crow for most wards and a falcon (the Hawk block) for the Field Ward and Undercliff. The animal speaks the message once in Melannor's baritone and leaves. Anyone nearby hears it.
-> - **The reply:** none is carried unless the message asks for one. Then the animal waits for up to 25 words and brings them back to the member's lodging.
-> - **Delay:** within Waterdeep and its farmland, the message arrives in a few hours, and Melannor sends it within the hour when the member asks in person.
+> - **The reply:** none is carried unless the message asks for one, and then the animal waits for up to 25 words and brings them back to the member's lodging.
+> - **Delay:** within Waterdeep and its farmland the message arrives in a few hours, and Melannor sends it within the hour when the member asks in person.
 > - **Limit:** one message per member each tenday, counted from the day of the member's own last request. Sending through the gate box counts from the day Melannor collects it. A refused request is not spent.
-> - **Range:** not Undermountain. A Tiny Beast crosses no level on its own, and the relay reaches nowhere below the surface.
+> - **Range:** the relay never reaches Undermountain, because a Tiny Beast crosses no level on its own and the relay reaches nowhere below the surface.
 > - **Companions:** a companion who is not an Enclave member cannot send, and Melannor refuses a request made in the member's name by anyone else.
 > - **Loss rule:** a member who uses the relay to lure a response team to Phaulkonmere loses it for a tenday when Melannor hears of it.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the relay is suspended until the Renown is restored.
 
 > [!qna]**Can I send it to someone who has not met you?**
 >
-> > Yes. The animal finds a recipient by description, so tell me what the person looks like and where they will be. I do not need their name.
+> > Yes, because the animal finds a recipient by description. Tell me what the person looks like and where they will be, and I do not need the name.
 
 > [!qna]**Can the animal answer questions on the way back?**
 >
-> > It cannot. It carries the words you give it and brings back what the recipient says within twenty-five words. I would keep the question short.
+> > It carries the words you give it, and it brings back what the recipient says in twenty-five words or fewer. I would keep your question short, so the answer has room.
 
 ### Jeryth's Healing
 
@@ -129,9 +129,8 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 >
 > Jeryth is happy to discuss the following topics:
 >
-> - Healing the member's injuries from Enclave business.
-> - Rest in the garden.
-> - What dreams below, in one sentence.
+> - Healing the member's injuries from Enclave business, and the rest that follows in the garden.
+> - What dreams below, which she answers in one sentence.
 >
 > She will not discuss the gold, the Stone, the vault or any faction. She says "That question is for the Lords to settle." to any question about the gold.
 
@@ -149,13 +148,13 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 
 > [!exploration]**Healing at Phaulkonmere**
 >
-> - **Contact:** Jeryth, in the garden. The member walks in and names one spell from the list. No request is needed in writing.
-> - **Place:** Phaulkonmere only, and the casting comes from the garden. The garden is open by the main gate by day, and at any hour for a member who holds the east gate key.
+> - **Contact:** Jeryth, in the garden, where the member walks in and names one spell from the list without any written request.
+> - **Place:** Phaulkonmere only, with the casting coming from the garden, which is open by the main gate by day and at any hour for a member who holds the east gate key.
 > - **Which injuries:** only those taken in Enclave business since the member's last visit, which means any Enclave mission, any report the member followed from the network or any fight the member took to protect an animal, a plant or an Enclave contact. Other injuries get "That was not our work." and nothing is spent.
 > - **The list:** *Cure Wounds* (level 1), *Healing Word* (level 1), *Lesser Restoration* (level 2) and *Protection from Poison* (level 2). Jeryth casts each at its lowest level, with a spellcasting modifier of +4 and no costly components. She casts nothing above 2nd level here.
-> - **Limit:** one casting per member for each Long Rest the member finishes. A member who rests in the garden can ask once on waking.
-> - **Who else:** the member only. A hurt companion receives nothing, but may rest in the garden under the haven rules of the First Meeting.
-> - **Notice:** none. Jeryth knows when a member is hurt before they reach the gate.
+> - **Limit:** one casting per member for each Long Rest the member finishes, so a member who rests in the garden can ask once on waking.
+> - **Who else:** the member only, so a hurt companion receives no casting but may rest in the garden under the haven rules of the First Meeting.
+> - **Notice:** the member gives none, because Jeryth knows when a member is hurt before they reach the gate.
 > - **Loss rule:** a member who brings a pursuer into the garden or fights inside the walls loses the healing for a tenday. The response teams never enter, but they may watch the street.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the healing is suspended until the Renown is restored.
 
@@ -167,18 +166,18 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 >
 > The paper is a ward map of Waterdeep with a different mark in each district, a leaf, a feather, a fish or a small cross. Melannor lays a finger on the Southern Ward, where the gardens stand, and turns his head to look at you.
 >
-> > Every tenday I will give you one report from each ward. Ask me for the ward you want, and I will tell you what my watchers noticed. I will not tell you what it means.
+> > Every tenday I will give you one report from each ward you ask about. I will tell you what my watchers noticed, and I will not guess at what it means.
 
 > [!gamemaster]
 >
-> Each report below is fixed, so read it as written. Melannor gives them in his own voice and does not explain them. If the member asks what a report means, he answers, "I do not know. I would like to."
+> Each report below is fixed, so read it as written in Melannor's own voice, and do not explain it. If the member asks what a report means, Melannor answers, "I do not know, and I would like to."
 
 > [!exploration]**Asking for a Report**
 >
 > - **Contact:** Melannor, at the gate or in the garden by day. He gives the report in person. A written request left in the gate box is answered by a note in the box by noon the next day. No animal carries a report, because the longest is longer than 25 words.
-> - **The request:** the member names one ward. Melannor gives that ward's report from the table below.
-> - **Limit:** one report per ward per member each tenday, counted from the day of that member's last request for that ward. The seven wards are counted separately, and one report does not spend another.
-> - **Who else:** the member only. The member can tell companions what Melannor said, but Melannor gives a companion who asks nothing.
+> - **The request:** the member names one ward, and Melannor gives that ward's report from the fixed table below.
+> - **Limit:** one report per ward per member each tenday, counted from the day of that member's last request, and the seven wards are counted separately.
+> - **Who else:** the member only, so the member can tell companions what Melannor said, but Melannor gives a companion who asks nothing.
 > - **Loss rule:** a member who gives the reports to a response team or sells them loses the network for a tenday when Melannor hears of it.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the network is suspended until the Renown is restored.
 >
@@ -195,19 +194,19 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 
 > [!qna]**Who are the watchers?**
 >
-> > Gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They send me what they notice, and I pass it to you.
+> > They are gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They send me what they notice, and I pass it to you.
 
 > [!qna]**Why do some wards say nothing?**
 >
-> > The watchers see nothing there that they can carry to me. It does not mean nothing is happening. It means they have not seen it.
+> > In those wards the watchers have seen nothing that they can carry to me. That does not mean that nothing is happening, only that they have not seen it.
 
 > [!qna]**What is the Splinter?**
 >
-> > It is the other cell of an old network, and it is working in this city. I do not know who leads it. I would tell you if I did.
+> > It is the other cell of an old network, and it is working in this city. I do not know who leads it, and I would tell you if I did.
 
 ### Leaving the Garden
 
-Melannor walks the member back to the gate, and the gravel is quiet under their boots. He stops at the threshold and says, "The soil is uneasy. Please use these as they are meant to be used." Then he goes back to the oak, and the pigeons on the wall follow him with their heads.
+Melannor walks the member back to the gate, and the gravel is quiet under their boots. He stops at the threshold and says, "The soil is uneasy, so please use these benefits for the work they are meant to serve." Then he goes back to the oak, and the pigeons on the wall follow him with their heads.
 
 ### Renown Opportunities
 
