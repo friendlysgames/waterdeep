@@ -123,7 +123,7 @@ The goal is an Enclave set on the DR/BD/Harper/FG page model, voiced in Ember an
   - *charm of heroism* and *charm of vitality*: one-use potion effects.
 - **Jeryth's casting** uses fixed lists, to satisfy zero-prep. Each list is set in the mechanics reference.
   - r03 healing at Phaulkonmere only, once per Long Rest.
-  - r10 and r25 casting away from the estate, once per quest. She does this through a living sprig that carries one casting, and *Reincarnate* is excluded.
+  - r10 and r25 casting away from the estate, once per quest. She does this through a living sprig that carries one casting; *Revivify* and *Reincarnate* are excluded.
 - **Animal Handling** advantage at r25 applies to Beasts only. The Giant Eagle is treated as a Celestial ally.
 - **r50** outcome is **Illuun Watch Accepted**, because R's name collides with Lords' Alliance r50.
 - **r50 seeds from WDMM:**

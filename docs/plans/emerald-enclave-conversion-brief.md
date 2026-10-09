@@ -444,7 +444,7 @@ Each drafter reads its report sections first. These instructions win over the re
   - **Healing at Phaulkonmere only:** the fixed list from the mechanics reference, once per Long Rest, member only, for Enclave-business injuries.
   - **Network:** one report per ward per tenday, from a fixed table in the mechanics reference. The Kolat block is gated on **Manshoon Named**. It reads **Splinter Site Reported**.
 - **r10 Autumnreaver** (Melannor at the door; if the member is on a mission, he waits for their return)
-  - **Jeryth's living sprig:** one casting per quest from the fixed 5th-level list, on 3 days' notice. *Reincarnate* is excluded.
+  - **Jeryth's living sprig:** one casting per quest from the fixed 5th-level list (mechanics reference §10), on 3 days' notice. *Revivify* and *Reincarnate* are excluded, and *Greater Restoration* lives here with Jeryth covering the diamond dust.
   - **The paddock beast:** Brown Bear, Dire Wolf, or the Giant Eagle (a Celestial ally). One operation per quest, and the beast is replaced once if it falls.
   - **Three sewer routes:**
     - the Sea Ward dyer's-district channel;
