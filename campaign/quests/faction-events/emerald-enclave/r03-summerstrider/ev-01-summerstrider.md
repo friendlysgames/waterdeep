@@ -8,7 +8,7 @@
 > - Hear which healing spells Jeryth Phaulkon casts in the garden, and when.
 > - Ask Melannor for one report per ward every tenday from the Enclave's network of watchers.
 >
-> Only the member is addressed. Companions who are not Emerald Enclave members wait at the gate or in the outer garden and gain nothing.
+> Only the member is addressed, and companions who are not Emerald Enclave members wait at the gate or in the outer garden and gain nothing.
 
 ### The Grey Pigeon at Noon
 
@@ -32,8 +32,8 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 > - The healing is a favor she grants to people who are hurt doing the Enclave's work. She does not offer it to anyone else, and she does not offer it for free to a stranger.
 > - The network is made of ordinary people: gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They do not know they report to a druid, and they tell Melannor what they notice.
 > - Nobody in this Event can say Manshoon's name, or call Kolat Towers his home, unless **Manshoon Named** is marked for the member. Melannor says "the Splinter" or "the other cell", and the Trades Ward report stays closed until the outcome is marked.
-> - Phaulkonmere is one block south of Kolat Towers. Before the gate, nobody points at the towers or says what they are.
-> - Nobody in the Enclave knows what the Sea Ward villa is hiding, and nobody names its owners. Melannor reports only what the butterflies do.
+> - Phaulkonmere is one block south of Kolat Towers, and before the gate nobody points at the towers or says what they are.
+> - Nobody in the Enclave knows what the Sea Ward villa is hiding or names its owners, and Melannor reports only what the butterflies do.
 > - Jeryth has felt a dreaming presence below the city for months. She does not know its name, and she says only "Something dreams below."
 
 ### Naming the Rank
