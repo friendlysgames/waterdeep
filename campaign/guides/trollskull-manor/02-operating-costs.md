@@ -25,10 +25,9 @@ Non-negotiable in ordinary business. Missing a payment escalates: formal notice 
 **Faction reductions (active standing required — missions running, not just enrolled):**
 - **Harpers (Renown 3+):** Mirt arranges −1 gp/tenday on the Launderers' line. Binds linen supply into Harper-adjacent networks.
 - **Lords' Alliance:** Jalester's civic designation reduces Fellowship line from 3 gp to 1 gp (−2 gp/tenday). Any Watch citation resets this.
-- **Emerald Enclave:** Enclave druids replace the Watchful Order ward, eliminating that 2 gp/tenday fee. Monthly visits from a druid who will have opinions about the oak tree in the courtyard.
 - **Doom Raiders:** Istrid Horn's bulk agreements reduce supply costs (Category 3), not fees directly.
 
-Maximum reduction through faction leverage: **5 gp/tenday** (floor of 5 gp/tenday). Stacking all three requires simultaneous standing with Harpers, Lords' Alliance, and Emerald Enclave.
+Maximum reduction through faction leverage: **3 gp/tenday** (floor of 7 gp/tenday). Stacking both requires simultaneous standing with the Harpers and the Lords' Alliance.
 
 ---
 
@@ -64,7 +63,7 @@ Raw materials the tavern sells. Scale with volume, quality, and Fame tier. Paid 
 
 | Category | Cost/Tenday | Variable? |
 |---|---|---|
-| Guild Fees | 10 gp (floor 5 gp with faction help) | No |
+| Guild Fees | 10 gp (floor 7 gp with faction help) | No |
 | Staff Wages | 40–58 gp | Yes (lower with Lif; higher with upgrades) |
 | *(Base 60 gp/tenday covers the above two)* | | |
 | Supply Costs | 8–110 gp | Yes (Fame-scaled) |
@@ -79,7 +78,7 @@ The 1,250 gp renovation cost is not small for a 2nd-level party. What each facti
 
 - **Harpers (Mirt):** Personal loan up to 500 gp, no stated interest — repayable as a favor when useful. Alternatively, supplier discounts of 15–20% via Harper-adjacent guild networks (binds supply chain, no personal debt to Mirt).
 - **Lords' Alliance (Jalester):** Civic grant up to 200 gp from Laeral's discretionary fund. Ongoing compliance oversight — Jalester checks in.
-- **Emerald Enclave (Jeryth Phaulkon + Melannor Fellbranch):** *Fabricate* on salvaged materials reduces renovation cost by 250 gp. Two craftsmen free for one tenday. Ask: leave the oak tree undisturbed; allow silverbark growth on it.
+- **Emerald Enclave (Jeryth Phaulkon + Melannor Fellbranch):** Two Enclave druids use *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape* to dig out the cellar, drain the courtyard and reseat the foundation stones in a single day. The Enclave donates seasoned timber, and Tally Fellbranch lays it at no charge. Renovation cost drops by 250 gp, once. Ask: leave the oak tree undisturbed; allow silverbark growth on it.
 - **Order of the Gauntlet (Savra Belabranta):** No money. Accompanies party to guild meetings in Order insignia → favorable rates and prompt scheduling. Informal Watch watch-list placement → faster Watch response to any disturbance here.
 - **Doom Raiders (Davil + Istrid Horn):** Istrid: loan up to 400 gp, no interest, party-set repayment schedule. Davil: Black Network bulk agreements reduce opening stock cost ~100 gp through Vintners' Guild bypass.
 - **Bregan D'aerthe (Jarlaxle):** Bregan D'aerthe PCs only — bankrolls full renovation up to 1,250 gp. Wants occasional use of the private upstairs dining room for discreet meetings (de facto courier dead drop). Introduces Watchful Order contact for *Glyphs of Warding* at 20% discount. No coin repayment; repayment is operational.

@@ -54,7 +54,7 @@ Once contact is established, each faction's financing offer becomes available. F
 |---|---|---|
 | Harpers | Mirt's personal loan — 500 gp | Repayable as a favor |
 | Lords' Alliance | Jalester's civic grant — 200 gp | No repayment; civic goodwill expected |
-| Emerald Enclave | *Fabricate* casting — −250 gp off renovation cost | No monetary cost; Melannor visits twice to cast |
+| Emerald Enclave | Two druids and donated timber — −250 gp off renovation cost, once | No monetary cost; the druids ask the party to leave the courtyard oak alone and let silverbark grow on it |
 | Order of the Gauntlet | Guild connections — faster scheduling, favorable rates | Net 100 gp savings; Savra is visible at the site |
 | Doom Raiders | Istrid Horn's Black Network loan — 400 gp | Party-set repayment; Istrid wants no Watch attention |
 | Bregan D'aerthe | Full bankrolling — up to 1,250 gp | Repayable in "operational access"; Jarlaxle's terms |
@@ -100,8 +100,8 @@ At least one party member enrolled with the Harpers. Cross-referenced by the **H
 #### Lords' Alliance Joined: True / False
 At least one party member enrolled with the Lords' Alliance.
 
-#### Emerald Enclave Joined: True / False
-At least one party member enrolled with the Emerald Enclave.
+#### Emerald Enclave Joined
+The **Emerald Enclave First Meeting** marks this for each character who accepts, so this Event does not. The renovation help is given once, when the first candidate accepts.
 
 #### Order of the Gauntlet Joined: True / False
 At least one party member enrolled with the Order of the Gauntlet.
