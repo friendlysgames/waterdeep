@@ -234,6 +234,8 @@ If the party did not mark **Meloon Met**, read or paraphrase the following:
 
 ### Bonnie
 
+If **Bonnie Departed** is marked (Emerald Enclave Mission 3), Bonnie is gone and the Day 6 warning does not happen. Another server carries the stews, and Durnan still notices Meloon as written.
+
 On the evening of Day 6, Bonnie takes one character aside. She chooses the first character who spoke to her this tenday, or the character with the highest Wisdom if nobody has.
 
 > [!readaloud]
