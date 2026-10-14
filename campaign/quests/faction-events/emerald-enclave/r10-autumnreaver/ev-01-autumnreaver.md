@@ -26,7 +26,7 @@ If the member is out on a mission or an operation, or away from Waterdeep, Melan
 >
 > > "Please walk with me to Phaulkonmere. I will explain the three benefits at the gate, and I will take your questions after each one."
 
-Melannor walks the member to the gate of Phaulkonmere, an hour on foot. A line of pigeons keeps up with him along the rooftops, and he says nothing until the crowns of tall oaks show above the walls of the Southern Ward.
+Melannor walks the member to the gate of Phaulkonmere, an hour on foot. A line of pigeons keeps up with him along the rooftops. He says nothing until the crowns of tall oaks show above the walls of the Southern Ward.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -50,7 +50,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 
 > [!social]**The Groundskeeper in Person**
 >
-> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the groundskeeper of Phaulkonmere and a druid, who is walking the city himself because this rank asks for more than an animal can carry.
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the groundskeeper of Phaulkonmere and a druid. He walks the city himself for this rank, because it asks for more than an animal can carry.
 >
 > Melannor is Friendly and plain. He walks at an even pace, stops to straighten a plant while he talks and answers a joke with a literal reply. He uses no contractions, never swears and calls the member by name. He explains all three benefits before he takes a question.
 >
@@ -129,13 +129,12 @@ Melannor stops beside the oldest oak, and Jeryth speaks. Read or paraphrase the 
 >
 > - **Contact:** Melannor at the gate by day, or at any hour for a member who holds the east gate key (**East Gate Key Held**). A written request left in the gate box is answered by a note in the box by noon the next day.
 > - **The request:** the member names the quest, one spell from the list below and the day. A request with no named quest or spell is refused, and nothing is spent.
-> - **Notice:** three days. A request with less notice is refused, and nothing is spent.
+> - **Notice:** three days. A request with less notice is refused and spends nothing, and a request withdrawn a full day ahead is not spent either.
 > - **The casting:** on the day named, from dawn to dusk, the member holds the sprig and says the spell's name aloud. Jeryth casts it at that moment as though she stood where the sprig is. A touch spell reaches a creature the member touches with the sprig hand. A day that passes without the member asking is not spent.
 > - **Place:** the surface of Waterdeep, including its cellars and sewers. The sprig does not work in Undermountain, because Jeryth casts from the garden.
 > - **Numbers:** each spell is cast at its listed level. Jeryth has a spellcasting modifier of +4, a spell save DC of 15 and a spell attack bonus of +7. She holds Concentration from the garden for the spell's full duration, and nothing that happens to the member breaks it.
 > - **Limit:** one casting per member per quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**. Events, faction missions and rank events are not quests. The casting counts against the quest the party is in when the member asks, and a casting not asked for before the quest ends is lost.
-> - **Withdrawing:** a request withdrawn a full day ahead is not spent.
-> - **Who else:** only the member can ask. A companion benefits when the spell's targets include them.
+> - **Who else:** only the member can ask, though a companion benefits when the spell's targets include them.
 > - **The list, level 1:** *Cure Wounds*, *Healing Word*, *Entangle*, *Thunderwave*, *Longstrider* and *Speak with Animals*.
 > - **The list, level 2:** *Lesser Restoration*, *Protection from Poison*, *Moonbeam* and *Animal Messenger*. Jeryth can send a message only to a place she has visited, which is the gate of Phaulkonmere.
 > - **The list, level 4:** *Stone Shape*.

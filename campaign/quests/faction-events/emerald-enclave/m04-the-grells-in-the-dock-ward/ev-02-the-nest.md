@@ -10,7 +10,7 @@
 > - Carry Mirsa to Phaulkonmere, where Jeryth Phaulkon gives a *charm of heroism* to each character who fought.
 > - Hear Mirsa's account of Pier 17 and decide whom to tell.
 >
-> Only Emerald Enclave members attend Melannor's debrief. The *charm of heroism* is a deliberate party-wide gift: it goes to each character who fought the grells, member or not, and companions receive it at the oak before they wait in the outer garden.
+> Only Emerald Enclave members attend Melannor's debrief. The *charm of heroism* is a deliberate party-wide gift. It goes to each character who fought the grells, member or not. Companions receive it at the oak and then wait in the outer garden.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -18,7 +18,7 @@
 > - Grell 1 hangs in the beams above the street end of the hall. Grell 2 clings to the platform beside Mirsa.
 > - Two long bundles of webbing at the foot of the stack hold the night porter and the net-mender, who are dead.
 > - The two Tough lookouts at five characters are Guild watchers from Pier 17. They are paid to keep the quay hands away and know nothing of the grells' origin.
-> - A grell never kills a creature it has Paralyzed. It carries its prey home alive, which is why the fight gives the party a full round to answer each Paralysis.
+> - A grell does not finish a creature it has Paralyzed. It carries its prey home alive, so the party always has a round to answer each Paralysis.
 
 ### The Salt-Store
 
@@ -26,7 +26,7 @@ The party can enter by the street door at the west end or by the open loading le
 
 > [!readaloud]
 >
-> The hall smells of lightning about to strike, and the dry charge of it lifts the hair on your arms. Dim light falls through the gaps in the boarded windows onto crate stacks along the north wall, and one leaf of the harbor doors stands open at the far end. Two long grey bundles of webbing hang against the stack. An old woman lies bound on a platform ten feet up, and she lifts her head when the door opens. Something large uncurls from the beams above you and drops toward the nearest of you.
+> The hall smells of lightning about to strike, and the dry charge of it lifts the hair on your arms. Dim light falls through the boarded windows onto crate stacks along the north wall. One leaf of the harbor doors stands open at the far end, and two long grey bundles of webbing hang against the stack. An old woman lies bound on a platform ten feet up, and she lifts her head when the door opens. Something large uncurls from the beams above you and drops toward the nearest of you.
 
 > [!gamemaster]**The Layout**
 >
@@ -35,7 +35,7 @@ The party can enter by the street door at the west end or by the open loading le
 > - **The stack:** Crates stand 10 feet high along the north wall. The cargo-hoist platform on top is the nest, and it is 40 feet from the open leaf.
 > - **Climbing:** Climbing the stack costs double movement, and a DC 10 Strength (Athletics) check hoists a character up it. A chain-hoist rope hangs from the gantry beam to the floor and gives melee characters a second way up.
 > - **The catwalk:** A narrow catwalk runs above the loading doors at 12 feet.
-> - **Altitude:** A grell hovers 10 to 20 feet up. Its Tentacles reach 10 feet and its Beak reaches 5, so a grell hovering 10 feet over a character grapples from beyond any melee weapon but loses its Beak. Ranged weapons and spells reach it at any height.
+> - **Altitude:** A grell hovers 10 to 20 feet up. Its Tentacles reach 10 feet and its Beak reaches 5. A grell hovering 10 feet over a character can grapple it from beyond any melee weapon, but then it cannot use its Beak. Ranged weapons and spells reach it at any height.
 > - **Senses and immunities:** Blindsight 60 feet means darkness and invisibility do not help. A grell is immune to lightning, Blinded and Prone.
 > - **Falling:** A grappled character who escapes, or is dropped, falls at most 15 feet and takes 1d6 bludgeoning damage per 10 feet fallen.
 
@@ -80,13 +80,13 @@ The party can enter by the street door at the west end or by the open loading le
 > #### Fleeing and Barring the Door
 > A grell at 27 hit points or fewer drops anything it holds, flies and dashes for the open leaf, and goes out over the harbor. It does not return to this fight, and **Grell Escaped** is marked.
 >
-> A character who closes the open leaf (Utilize, DC 12 Strength (Athletics)) before the fight, or in any round before a grell reaches 27 hit points, removes the exit. A cornered grell fights to 0 hit points, and this is the only way to destroy both. Grells do not surrender.
+> A character who closes the open leaf (Utilize, DC 12 Strength (Athletics)) removes the exit. The leaf must be closed before the fight, or before any grell reaches 27 hit points. A cornered grell fights to 0 hit points, and this is the only way to destroy both. Grells do not surrender.
 >
-> The fight ends when both grells are destroyed or have fled. Paralysis ends when the target succeeds on its Constitution saving throw (DC 11) at the end of a turn, and a *charm of restoration* ends it with *Lesser Restoration* at a cost of 1 charge. A grappled character escapes with a successful DC 12 check.
+> The fight ends when both grells are destroyed or have fled. Paralysis ends when the target succeeds on a DC 11 Constitution saving throw at the end of its turn. A member's *charm of restoration* also ends it, with *Lesser Restoration* for 1 charge. A grappled character escapes with a successful DC 12 check.
 
 > [!gamemaster]**Drawing Them Off**
 >
-> The fight can be shorter than the roster suggests, because no route kills a grell without a fight but two routes avoid some of it.
+> No route destroys a grell without a fight, but two routes spare the party part of it.
 >
 > - **The lure:** A character who makes a loud noise at the street end of the hall, with a thrown crate, a shout or a cantrip such as *Thaumaturgy*, draws grell 2's attention for one round. Mirsa can be freed that round at DC 12 even if a grell stands within 5 feet.
 > - **The withdrawal:** A party that frees Mirsa and carries her out of the street door can end the fight there. The grells do not follow into the street, and both go under the south quay within the tenday. Mark **Grell Escaped**.
@@ -168,7 +168,7 @@ The cart reaches Phaulkonmere in the Southern Ward in about two hours, with Mela
 
 > [!exploration]**The Charm of Heroism**
 >
-> Jeryth gives a *charm of heroism* to each character who fought the grells, member or not. A character fought if they were inside the salt-store while a grell was in the fight and attacked, defended, freed Mirsa or carried her. The character feels a warmth gather in the palm that settles into nothing, and no object appears.
+> Jeryth gives a *charm of heroism* to each character who fought the grells, member or not. A character fought if they were inside the salt-store while a grell was in the fight and attacked, defended, freed Mirsa or carried her. The character feels a warmth gather in the palm and fade, and no object appears.
 >
 > - **Using it:** The holder takes a Magic action and gains the benefit of a *potion of heroism*, which is 10 Temporary Hit Points and the effect of *Bless* for 1 hour with no Concentration. The charm then vanishes.
 > - **Who:** Only the holder can use it. It cannot be lent, traded or given away, and a second charm is never given.
