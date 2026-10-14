@@ -20,5 +20,5 @@ The *charm of restoration* now has the 2024 DMG text, with 3 charges and a charg
 - Melannor's exit line is "I will be in touch." because the brief's "I'll be in touch." contradicts his no-contractions profile, and the coordinator confirmed the longer form.
 - The brief counts its suggested message as 21 words, but the message as written is 20 words.
 - The 2024 DMG text of the charm gives no material components, so the event states that the charm needs none and *Greater Restoration* needs no diamond dust.
-- The manor guide's old line that Enclave druids replace the Watchful Order ward with monthly visits is removed, because nothing in the Enclave events delivers it. The guild-fee floor in `02-operating-costs.md` rises from 5 gp to 7 gp a tenday as a result.
+- The manor guide's ward-fee cut (`02-operating-costs.md`), where Enclave druids replace the Watchful Order ward, is a passive benefit of standing with the Enclave. It needs no event, so this one does not deliver it.
 - The Factions Guide (`04-emerald-enclave.md:37`) still names a retired "Jeryth's Manner" sidebar.
