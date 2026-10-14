@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Exploration Event occurs after **Kolat Towers**. It begins when an individual Emerald Enclave member reaches Renown 13 and 7th level and the party sees the sign in the Trollskull Manor courtyard. It ends when the last character has crossed into the deepest chamber and made the entry save. In this Event, the party can:
+> This Exploration Event occurs after **Kolat Towers** and after **The Fouled Channel**. It begins when an individual Emerald Enclave member reaches Renown 13 and 7th level and the party sees the sign in the Trollskull Manor courtyard. It ends when the last character has crossed into the deepest chamber and made the entry save. In this Event, the party can:
 >
 > - Hear Melannor Fellbranch explain that Jeryth Phaulkon has been silent for three days and has 48 hours left.
 > - Take a *spell scroll* of *water breathing* and a strip of glowing bark.
@@ -85,7 +85,7 @@ Then read the following aloud:
 >
 > Melannor's hand stays on the oak, and his voice slows.
 >
-> > "Jeryth says that something dreams below the Castle Ward. When she put her cutting into the cistern, she gave the channel a door. I think that whatever dreams there has used it, and I..."
+> > "Jeryth says that something dreams below the Castle Ward. When she worked in the cistern, she opened the water to herself. I think that whatever dreams there has found the door, and I..."
 >
 > He stops, and then he continues in the same level voice.
 >
@@ -101,7 +101,7 @@ Then read the following aloud:
 
 > [!qna]**Which way is down?**
 >
-> > "The cistern doors in the Castle Ward have flooded to the roof in three days. Gerrick Thatchley's drain runs higher, and it is still dry enough to walk. It leads west from the Undercliff to the cistern, and below the channel that was fouled there is a passage closed with fitted stones."
+> > "The cistern doors in the Castle Ward have flooded to the roof in three days. Gerrick Thatchley's drain runs higher, and it is still dry enough to walk. It leads west from the Undercliff to the chamber where the fouled channel begins, and behind the dais there is a passage closed with fitted stones."
 
 > [!qna]**Why can't you come?**
 >
@@ -115,7 +115,7 @@ Then read the following aloud:
 >
 > The clock starts when Melannor finishes the brief and stops when the anchor is destroyed, and the times below are the only ones that count:
 >
-> - **Walking:** the walk from Phaulkonmere to the outlet in the Undercliff takes four hours, and the walk home takes five.
+> - **Walking:** the walk between Phaulkonmere and the outlet in the Undercliff takes two hours each way.
 > - **Underground:** the tunnel and the cistern take one hour, and the way from the cistern to the deepest chamber takes three.
 > - **Mistakes:** each failed routing check below costs one hour.
 > - **Rest:** a Long Rest costs eight hours.
@@ -125,7 +125,19 @@ Then read the following aloud:
 
 The farm road runs through the Undercliff terraces to the milestone. The outlet of the drain lies below the southern terrace, where the cliff path meets the city wall. If **Drainage Tunnel Learned** is marked, the party already knows the place. Otherwise Melannor's answer and the farm road lead the party to it, and the outlet is in plain sight without a check.
 
-Gerrick refits the grate after every visit to keep the stock out, so it is shut when the party arrives. He is at the outlet because the stream below the drain has run cold for three days. His ewes will not drink from it. Read the following aloud:
+Gerrick is at the outlet because the stream below the drain has run cold for three days. His ewes will not drink from it. The seal has one of two states, and the soot and the shell are in the first ten feet of brick in both.
+
+If the party opened the seal in **The Fouled Channel**, the grate hangs on new hinges under a padlock. Gerrick opens it with his key, and Melannor holds the spare. Read the following aloud:
+
+> [!readaloud]
+>
+> The brick arch below the southern terrace is closed by an iron grate on bright new hinges, with a padlock through the hasp. Cold water seeps from the foot of the grate and trails down to the stream, where a line of ewes stands on the far bank and refuses to drink. Gerrick Thatchley sits on the milestone with a key in his fist. He gets up when he sees you coming down the road.
+>
+> > "The stream's been cold for three days, and my ewes won't touch it. Melannor's lot always turn up when something's wrong, so I take it you're going in."
+>
+> He turns the key in the padlock and swings the grate wide.
+
+If the party never opened the seal, because it used the dead edge or the Trades Ward well, read the following aloud instead:
 
 > [!readaloud]
 >
@@ -177,35 +189,37 @@ The first ten feet of the tunnel carry the marks of that night.
 
 ### The Cistern
 
-The tunnel runs west for 200 feet, and it opens into the vaulted cistern of the Castle Ward from **The Fouled Channel**. The water in the lower cisterns has risen since the party last came, which is why the city doors are flooded. The channel in the east is where the film lay, and the cutting that Jeryth rooted there still trails from the wall.
+The tunnel runs west for about half a mile and arrives at the chamber at the head of the western channel from **The Fouled Channel**. The chamber is about ten feet across, with a raised dais around its edge and a grated sluice in the floor. The water in the lower cisterns has risen since the party last came, which is why the city doors are flooded. The film comes from the western channel, and the cutting that Jeryth rooted in the sluice is the only thing in the water that is green.
 
-If **Cache Destroyed** is marked, read the following aloud:
-
-> [!readaloud]
->
-> The vaulted cistern is as large as a chapel, and its three channels run away into the dark. The water in the eastern channel is clear and black, and a green cutting trails long white roots from the wall where Jeryth's work began. A faint smell of rain hangs under the vault.
-
-If **Cache Destroyed** is not marked, read the following aloud instead:
+If **Cache Destroyed** is marked, a cutting was planted in **The Fouled Channel**. Read the following aloud:
 
 > [!readaloud]
 >
-> The vaulted cistern is as large as a chapel, and its three channels run away into the dark. The eastern channel still carries an oily rainbow film, and a green cutting at the wall droops with its leaves curled. A sour chemical smell hangs under the vault.
+> Your light finds a round chamber of old stone about ten feet across, with a raised dais around its edge. The water that slides out of the western channel is clear and black over the grated sluice, and a green cutting trails long white roots from the sluice bars. A faint smell of rain hangs in the air.
 
-Three stones in the west wall are fitted without mortar. They lift out by hand, one at a time, and no check is needed. Behind them a stair of about thirty steps drops into the cold, and the bark in the party's hands brightens a little with every step. Read the following aloud:
+If **Cache Destroyed** is not marked, no cutting was planted. Read the following aloud instead:
 
 > [!readaloud]
 >
-> The stair ends in a flooded hall with six arched channels, and the water around your knees is moving. It drifts slowly past your legs toward the arches, and the cold of it climbs through your boots. The bark glows brighter in your hand, and white roots creep along the wall beside the steps and vanish into the water.
+> Your light finds a round chamber of old stone about ten feet across, with a raised dais around its edge. The water that slides out of the western channel gathers over the grated sluice under a skin of oily green and violet. A sweet, flat smell hangs in the air.
+
+Three stones in the wall behind the dais are fitted without mortar, and the party did not look for them in **The Fouled Channel**. They lift out by hand, one at a time, and no check is needed. Behind them a stair of about thirty steps drops into the cold, and the bark in the party's hands brightens a little with every step. Read the following aloud:
+
+> [!readaloud]
+>
+> The stair ends in a flooded hall with six arched channels, and the water around your knees is moving. It drifts slowly past your legs toward the arches, and the cold of it climbs through your boots. The bark glows brighter in your hand.
+
+If a cutting was planted, white roots also creep along the wall beside the steps and vanish into the water.
 
 ### Three Ways to the Chamber
 
-Only one of the six channels leads to the anchor. The party needs one of the three routes, and a failed check never ends the search.
+Only one of the six channels leads to the anchor. The party needs one of the routes open to it, and a failed check never ends the search.
 
 > [!exploration]**Finding the Right Channel**
 >
 > - **The bark.** The bark brightens when a character carries it toward the right channel and dims in the others. This route needs no check. A party that loses the bark in the water still has the other two routes.
 > - **The current.** Any character who studies the water and makes a successful **DC 13 Wisdom (Survival)** check sees that every channel drifts, very slowly, toward one arch. On a failure the party tries two wrong channels and loses 1 hour before the dead ends show the right one.
-> - **The conduit.** The roots of Jeryth's cutting have crept down the stair and into one channel, because that was the path the thing below followed. If **Cache Destroyed** is marked, the roots lie plain on the clean stone and lead the party to the right channel without a check. If it is not marked, the film coats the stone, and a character who makes a successful **DC 13 Intelligence (Nature)** check sees white roots under the sheen. On a failure the party loses 1 hour.
+> - **The conduit.** The roots of Jeryth's cutting have crept down the stair and into one channel, because that was the path the thing below followed. If **Cache Destroyed** is marked, the cutting was planted and the roots lie plain on the stone. They lead the party to the right channel without a check. If it is not marked, no cutting was planted and this route is unavailable, so the bark and the current remain.
 
 ### The Flooded Passage
 
