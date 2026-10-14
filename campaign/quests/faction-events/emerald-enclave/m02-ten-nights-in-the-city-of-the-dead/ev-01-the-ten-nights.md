@@ -15,7 +15,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Bones went missing from the Halleth, Corlan and Tessenden mausoleums in the northern section over the past tenday, and all three stand on a line between the northeast wall and the Brandath grove.
+> - Bones went missing from the Halleth, Corlan and Tessenden mausoleums in the northern section over the past tenday. All three stand on a line between the northeast wall and the Brandath grove.
 > - The Vault of Dragons lies under the Brandath grove, and the skeletons walk toward it, pause at the edge of the treant's ground and turn back. Nobody in this Event knows what is below.
 > - Ambrose has felt the north go wrong for months, but he offers nothing about the Brandath crypt unless he is asked and given a reason.
 > - Ambrose takes the south and the party takes the north, which reverses Dragon Heist, and the design notes record the change.
@@ -34,7 +34,7 @@ The crow reaches each member in the middle of the morning, wherever they are in 
 >
 > The crow waits a moment, then shakes out its wings and flies off over the rooftops.
 
-The message is 24 words and asks for no reply. Any guard at a cemetery gate sends the party to the south gate, where Ambrose waits, and a member who walks to Phaulkonmere in the Southern Ward before sunset finds Melannor under the oak while companions wait at the gate.
+The message is 24 words and asks for no reply. Any guard at a cemetery gate sends the party to the south gate, where Ambrose waits. A member who walks to Phaulkonmere in the Southern Ward before sunset finds Melannor under the oak while companions wait at the gate.
 
 > [!readaloud]
 >
@@ -83,11 +83,11 @@ The arrival text is read once, and you use it again as written if the members re
 
 ### Sir Ambrose Everdawn
 
-Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy man of about sixty who has walked the cemetery for fifteen years. The gauntlet pin on his collar is silver and marks him as a knight of Kelemvor, and he waits at the south gate at sunset on the first night.
+Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy man of about sixty who has walked the cemetery for fifteen years. The gauntlet pin on his collar is silver and marks him as a knight of Kelemvor. He waits at the south gate at sunset on the first night.
 
 > [!readaloud]
 >
-> The south gate of the City of the Dead stands open in the last of the light, and driftglobes drift in from the city to hang among the headstones. A broad man in plain travelling clothes waits beside the gate with a worn sword at his hip. When you come near, he removes one gauntlet, touches the nearest headstone and puts the glove back on.
+> The south gate of the City of the Dead stands open in the last of the light. Driftglobes drift in from the city to hang among the headstones. A broad man in plain travelling clothes waits beside the gate with a worn sword at his hip. When you come near, he removes one gauntlet, touches the nearest headstone and puts the glove back on.
 >
 > > "Good evening. You are on the grounds of the dead, so I ask that you walk softly here."
 
@@ -95,7 +95,7 @@ Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy
 >
 > Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) :: the Kelemvorite knight of the City of the Dead, who expects the living to explain themselves before he helps them.
 >
-> Ambrose speaks in formal, complete sentences and never uses a contraction. He calls Kelemvor "the Judge", names the family of every plot he passes and does not swear on the grounds of the dead. His dry humour appears once or twice over ten nights, and only if the party has earned his respect. A successful DC 13 Charisma (Persuasion) check on the first night, or a clean first skeleton night, turns him from reserved to friendly, and without either he gives instructions and expects results.
+> Ambrose speaks in formal, complete sentences and never uses a contraction. He calls Kelemvor "the Judge", names the family of every plot he passes and does not swear on the grounds of the dead. His dry humour appears once or twice over ten nights, and only if the party has earned his respect. A successful DC 13 Charisma (Persuasion) check on the first night, or a clean first skeleton night, turns him from reserved to friendly. Without either, he gives instructions and expects results.
 >
 > Ambrose is willing to discuss the following topics:
 >
@@ -104,7 +104,7 @@ Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy
 > - The rest of the cemetery and its families.
 > - The Brandath ground, only if a character asks and says why.
 >
-> Any character who watches him and makes a successful DC 12 Wisdom (Insight) check senses that he knows more about the north than he has said, and that he is waiting to hear that the party is paying attention.
+> Any character who watches him and makes a successful DC 12 Wisdom (Insight) check senses that he knows more about the north than he has said. He is waiting to hear that the party is paying attention.
 
 > [!qna]**What has been happening?**
 >
@@ -124,7 +124,7 @@ Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy
 >
 > > "Why do you ask? The Brandath family is old and their ground is sealed, and a Watch station stands at the grove because I do not open the doors."
 
-Ambrose answers the Brandath question with these public facts and asks for a reason before he says more. If the character gives one, he tells what he knows in **The Final Dawn**, and a character who asks and gives a reason at any dawn meeting counts as having asked for the third Renown bonus.
+Ambrose answers the Brandath question with these public facts and asks for a reason before he says more. If the character gives one, he tells what he knows in **The Final Dawn**. A character who asks and gives a reason at any dawn meeting counts as having asked for the third Renown bonus.
 
 ### The Northern Section at Night
 
@@ -132,7 +132,7 @@ The northern half is older than the south, with weathered monuments and inscript
 
 > [!readaloud]
 >
-> The northern section lies quiet under the driftglobes, which move in slow paths between the headstones. The older monuments here have lost most of their lettering, and a thin frost lies on the grass along the main path. At the centre of the section a grove of elm and birch stands around a mausoleum, and two Watch officers sit at a lantern beside the path with a ledger open between them.
+> The northern section lies quiet under the driftglobes, which move in slow paths between the headstones. The older monuments here have lost most of their lettering, and a thin frost lies on the grass along the main path. At the centre of the section a grove of elm and birch stands around a mausoleum. Two Watch officers sit at a lantern beside the path with a ledger open between them.
 
 Each night every character chooses a post and holds it from sunset to sunrise, and the party can change posts between nights. A character who stands all ten nights earns the gold.
 

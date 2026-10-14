@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 4th-level characters.*
 >
-> No fight is expected. If a character lays hands on Edric Tanner, he fights alone as an ordinary 2024 **Doppelganger** and flees or surrenders as the event describes. The **Emerald Enclave Mechanics Reference** audits the fight for three, four and five characters.
+> No fight is expected, but if a character lays hands on Edric Tanner, he fights alone as an ordinary 2024 **Doppelganger** and flees or surrenders as the event describes. The **Emerald Enclave Mechanics Reference** audits the fight for three, four and five characters.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
@@ -28,7 +28,7 @@ Edric joined the crew two months ago and sells the names he reads from patrons' 
 
 ## The Brief
 
-Melannor's falcon speaks twenty-one words in his voice, and he gives the rest in the Phaulkonmere garden. The crew must leave Waterdeep, peacefully if possible, and he allows two tendays. Companions wait at the gate.
+Melannor's falcon speaks twenty-one words in his voice, and he gives the rest in the Phaulkonmere garden. The crew must leave Waterdeep, peacefully if possible, and he allows two tendays while companions wait at the gate.
 
 ## The Portal
 

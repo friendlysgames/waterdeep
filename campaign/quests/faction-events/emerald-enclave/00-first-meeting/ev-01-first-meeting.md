@@ -12,7 +12,7 @@
 >
 > #### Candidates and Companions
 >
-> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. The cat delivers its message to one candidate: the first who is a druid, a ranger or a cleric with a nature domain, or the one with the highest Wisdom score if none is. A tie goes to the name that comes first alphabetically. The nature-aligned note in **The Factions Come Calling** only decides whom the cat finds first, and nobody is tested at the gate.
+> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. The cat delivers its message to one candidate: the first who is a druid, a ranger or a cleric with a nature domain, or the one with the highest Wisdom score if none is. A tie goes to the name that comes first alphabetically. The nature-aligned note in **The Factions Come Calling** only decides whom the cat finds first. Nobody is tested for alignment or class at the gate.
 >
 > Every candidate in the room hears the message, and any candidate can walk to Phaulkonmere whether or not the cat chose them. Melannor makes no offer to a character who already belongs to another faction. Those characters and any companions can walk the garden and listen, and they gain nothing from the visit. If no character qualifies, the cat never comes and the Event does not occur. If every candidate declines, end the Event with no membership outcome.
 >

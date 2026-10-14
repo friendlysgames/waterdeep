@@ -10,7 +10,7 @@
 > - Settle the crew's departure within two tendays, or argue to Melannor that Bonnie is no threat if she serves the Harpers.
 > - Learn that Kelso Fiddlewick bought the names, and report to Melannor.
 >
-> Only Emerald Enclave members attend Melannor's brief and debrief. Their companions can come to every other scene. The dove in **The Receipt** arrives after the debrief and changes nothing.
+> Only Emerald Enclave members attend Melannor's brief and debrief, and their companions can come to every other scene. The dove in **The Receipt** arrives after the debrief and changes nothing.
 
 > [!gamemaster]**Who Knows What**
 >
@@ -18,9 +18,9 @@
 > - Edric joined two months ago. He reads names from patrons' thoughts and sells them to Kelso Fiddlewick, the names of Enclave members and their companions among them. Kelso buys stolen information and sells it to whoever pays, and he never names a customer. In truth the Splinter is his customer, and a Shard Shunners runner carries Edric's paper to Beldan Rusk's house on Nethpranter Street.
 > - Bonnie traced a payment to Edric three weeks ago and has told nobody. She reads surface thoughts at will, so she knows why the party has come before anyone speaks.
 > - Melannor learned what Bonnie is from his animals, cats in the Portal's cellar and gulls over the quay. Mattrim Mereg is not the only person outside the crew who knows.
-> - Durnan knows nothing of what Bonnie is and will not hear it from the party.
+> - Durnan knows nothing of what Bonnie is and must not hear it from the party, because she has paid for his ignorance with a year of honest work.
 > - **Harper M3 Complete** is world state. If any Harper member has marked it, Edric is already out of the crew, his red-wheeled cart is gone from the yard, and he does not enter the back room.
-> - Nobody in this Event mentions Manshoon.
+> - Nobody in this Event mentions Manshoon, and Kelso never names his customers to anyone.
 
 ### The Brief
 
@@ -242,7 +242,7 @@ Bonnie then gives the buyer. Read the following aloud:
 >
 > Bonnie waits until the kitchen door has closed and then turns the lantern up a little.
 >
-> > "You'll want the buyer too. Kelso Fiddlewick, Field Ward, a halfling with a scar along his jaw. He buys what people steal and sells it to whoever pays, and he never says who."
+> > "You'll want the buyer too. Kelso Fiddlewick, in the Field Ward, a halfling with a scar along his jaw. He buys what people steal and sells it to whoever pays, and he never says who."
 
 Mark **Traitor Identified**, and have Edric leave Waterdeep within the tenday with one of Melannor's animals following him to the gate.
 
@@ -256,11 +256,11 @@ If nobody names Edric by any route, Bonnie lets him finish his cup and sends him
 
 > [!gamemaster]**If Steel Is Drawn on Bonnie**
 >
-> If a character draws a weapon on Bonnie, she shifts into a stranger's face, says "Well, shit," and is out through the kitchen before anyone can move. Roll no initiative for her. The crew leaves the city that night. The mission fails and awards no Renown. Mark **Doppelgangers Departed** and **Bonnie Departed** at once, and do not mark **Traitor Identified**. No dove arrives in **The Receipt**. The Emerald Enclave Mechanics Reference shows why the party cannot win this fight: the crew together is Impossible at every party size.
+> If a character draws a weapon on Bonnie, she shifts into a stranger's face, says "Well, shit," and is out through the kitchen before anyone can move, and no initiative is rolled for her. The crew leaves the city that night, and the mission fails and awards no Renown. Mark **Doppelgangers Departed** and **Bonnie Departed** at once, do not mark **Traitor Identified**, and send no dove in **The Receipt**. The Emerald Enclave Mechanics Reference shows why the party cannot win this fight, since the crew together is Impossible at every party size.
 
 > [!hazard]**If the Party Lays Hands on Edric**
 >
-> Combat begins only if a character attacks Edric, grabs him or draws steel on him. Durnan opens the door at once and says "Not in my taproom," and the fight moves to the kitchen and the stable yard. Edric fights alone at every party size as an ordinary 2024 **Doppelganger**. Bonnie stays out of it.
+> Combat begins only if a character attacks Edric, grabs him or draws steel on him. Durnan opens the door at once and says "Not in my taproom," and the fight moves to the kitchen and the stable yard. Edric fights alone at every party size as an ordinary 2024 **Doppelganger**, and Bonnie stays out of it.
 >
 > #### Edric's Tactics
 > Edric changes face with Shape-Shift as a bonus action and makes for the kitchen door, using Slam only on whoever blocks it.
@@ -271,25 +271,25 @@ If nobody names Edric by any route, Bonnie lets him finish his cup and sends him
 > - Loses a tracker only by changing clothes or breaking line of sight, and he needs a corner and an action for either.
 > - Surrenders at once if a character strips his hat or coat, and also if he is cornered at 26 hit points or fewer or Grappled below half.
 >
-> A character who cuts him off in a street and makes a successful DC 13 Strength (Athletics) check Grapples him, with an escape DC of 11. Searching him takes a successful DC 14 Intelligence (Investigation) check and is automatic if he is Grappled. It finds the runner's drop and Kelso's name.
+> A character who cuts him off in a street and makes a successful DC 13 Strength (Athletics) check Grapples him, with an escape DC of 11. Searching him takes a successful DC 14 Intelligence (Investigation) check, which is automatic if he is Grappled, and it finds the runner's drop and Kelso's name.
 >
-> The fight ends when Edric surrenders, escapes out of sight or is dropped. A surrendered Edric tells Bonnie everything, and she bars him from the crew. A character who lays hands on Edric forfeits the third Renown bonus, and the non-combat route is to let Bonnie send him out.
+> The fight ends when Edric surrenders, escapes out of sight or is dropped, and a surrendered Edric tells Bonnie everything before she bars him from the crew. A character who lays hands on Edric forfeits the third Renown bonus, and the non-combat route is to let Bonnie send him out.
 
 ### The Departure
 
-Bonnie asks for two tendays. Melannor will not allow longer, and she knows it. If **Bonnie Harper Operative** is marked, read the following aloud before the check:
+Bonnie asks for two tendays, which is the most Melannor will allow and exactly what she expects. If **Bonnie Harper Operative** is marked, read the following aloud before the check:
 
 > [!readaloud]
 >
 > Bonnie takes a folded paper from her apron and lays it on the table without opening it.
 >
-> > "I signed with Mirt, so I'm not a stranger to the Harpers. The others will go. I'll see to that. Ask your druid whether a Harper who reports to Mirt still counts as a threat."
+> > "I signed with Mirt, so I'm not a stranger to the Harpers. The others will go, and I'll see to that myself. Ask your druid whether a Harper who reports to Mirt still counts as a threat."
 
 > [!exploration]**Asking Bonnie to Go**
 >
 > Any character who tells Bonnie plainly what the crew gives up and still asks her to go convinces her without a check. Any character who makes the demand and makes a successful DC 15 Charisma (Persuasion or Intimidation) check convinces her too. The DC is 12 if the character names the cost first, and 18 if the party sided with Edric.
 >
-> - **On a failure:** Bonnie says she will answer when someone has said what it costs. A character who then names the cost convinces her without another check.
+> - **On a failure:** Bonnie says she will answer when someone has said what it costs, and a character who then names the cost convinces her without another check.
 > - **If the party sided with Edric and fails:** Bonnie goes to the Phaulkonmere gate the next morning and agrees to Melannor herself, and the party hears of it from him.
 
 When Bonnie agrees, read the following aloud:
@@ -298,9 +298,9 @@ When Bonnie agrees, read the following aloud:
 >
 > Bonnie lets out a long breath and stretches her back, and for a moment she looks like a barmaid at the end of a double shift.
 >
-> > "Two tendays. Kael will say it isn't his watch, Syla will ask what happens if she stays, and the Scholar will want paying. They'll go. Keep your cats out of Durnan's cellar, and don't tell him what I am."
+> > "Two tendays, then. Kael will say it isn't his watch, Syla will ask what happens if she stays, and the Scholar will want paying, but they'll go. Keep your cats out of Durnan's cellar, and don't tell him what I am."
 
-Mark **Doppelgangers Departed**. The grace period is two tendays from this night. Bonnie keeps her terms: she closes her affairs, the crew leaves one by one, and the Enclave's animals stay away from the Portal. Edric leaves ahead of the others unless he is already gone.
+Mark **Doppelgangers Departed**. The grace period is two tendays from this night, and Bonnie keeps her terms by closing her affairs and sending the crew off one by one while the Enclave's animals stay away from the Portal. Edric leaves ahead of the others unless he is already gone.
 
 > [!gamemaster]**The Grace Period**
 >
@@ -308,10 +308,10 @@ Mark **Doppelgangers Departed**. The grace period is two tendays from this night
 
 > [!exploration]**Bonnie's Case**
 >
-> This applies only if **Bonnie Harper Operative** is marked. At Phaulkonmere, at the debrief or on any visit before the grace period ends, any character who argues to Melannor that Bonnie is no threat and makes a successful DC 15 Charisma (Persuasion) check convinces him to let her stay. The character has Advantage if an individual Harper member of the party vouches for Bonnie's Harper terms: her crew's names kept private, her reports routed through the members, and her right to refuse any job.
+> This applies only if **Bonnie Harper Operative** is marked, and it can happen at the debrief or on any visit to Phaulkonmere before the grace period ends. Any character who argues to Melannor that Bonnie is no threat and makes a successful DC 15 Charisma (Persuasion) check convinces him to let her stay. The character has Advantage if an individual Harper member of the party vouches for Bonnie's Harper terms: her crew's names kept private, her reports routed through the members, and her right to refuse any job.
 >
-> - **On a success:** Edric, Kael, Syla and the Scholar still go. Bonnie stays at the Portal. Do not mark **Bonnie Departed**.
-> - **On a failure:** Melannor's demand stands. Bonnie leaves with the others when the grace period ends, and the party gets one attempt.
+> - **On a success:** Edric, Kael, Syla and the Scholar still go, Bonnie stays at the Portal, and **Bonnie Departed** is never marked.
+> - **On a failure:** Melannor's demand stands and the party gets no second attempt, so Bonnie leaves with the others when the grace period ends.
 
 ### The Receipt
 
@@ -321,13 +321,13 @@ Three days after the grace period ends, a dove lands on the windowsill at Trolls
 >
 > A grey dove lands on the sill of your window and waits until you take the folded note from its beak. Inside is a single sheet with three dots in a triangle in the middle and nothing else.
 
-The next time a member shows the note to Melannor, he reads it. If **Bonnie Departed** is marked, read the following aloud:
+The next time a member shows the note to Melannor, he reads it, and if **Bonnie Departed** is marked you read the following aloud:
 
 > [!readaloud]
 >
 > Melannor turns the sheet over once and hands it back.
 >
-> > "That is a doppelganger notation mark. It is her name, essentially. She is confirming that she has gone. It is, in its way, a receipt."
+> > "That is a doppelganger notation mark. It is her name, essentially, and she is confirming that she has gone. It is, in its way, a receipt."
 
 If the party won her reprieve, read the following aloud instead:
 
@@ -335,9 +335,9 @@ If the party won her reprieve, read the following aloud instead:
 >
 > Melannor turns the sheet over once and hands it back.
 >
-> > "That is a doppelganger notation mark. It is her name, essentially. She is confirming that the others have gone and that she has stayed. It is, in its way, a receipt."
+> > "That is a doppelganger notation mark. It is her name, essentially, and she is confirming that the others have gone and that she has stayed. It is, in its way, a receipt."
 
-If the crew left after steel was drawn, no dove arrives.
+If the crew left after steel was drawn, no dove arrives and this scene does not run.
 
 ### Renown Opportunities
 
@@ -347,7 +347,7 @@ A member reports to Melannor in the garden the morning after the back room, or a
 >
 > Melannor is on his knees in the vegetable bed with a basket of weeds beside him, and he sits back on his heels as you cross the lawn. The oak above him moves in a wind you cannot feel.
 >
-> > "Report. Have they agreed to leave?"
+> > "Report. I would like to know whether they have agreed to leave, and what Bonnie said when you asked."
 
 If Bonnie agreed to the departure, read the following aloud:
 
@@ -355,13 +355,13 @@ If Bonnie agreed to the departure, read the following aloud:
 >
 > Melannor listens to the end without moving, then nods once.
 >
-> > "Two tendays is within what I allowed. The soil in the Portal's cellar will be easier when they have gone. I thank you for doing it peacefully."
+> > "Two tendays is within what I allowed, and the soil in the Portal's cellar will be easier when they have gone. I thank you for doing it peacefully."
 
 If **Traitor Identified** is marked, he adds the following:
 
 > [!readaloud]
 >
-> > "Kelso Fiddlewick. I will remember the name. I do not know who buys from him, and I will not guess."
+> > "Kelso Fiddlewick. I will remember the name, but I do not know who buys from him, and I will not guess."
 
 If the party won Bonnie's reprieve, read the following aloud instead of the first branch:
 
@@ -377,13 +377,13 @@ If the crew fled after steel was drawn, read the following aloud:
 >
 > Melannor listens to the end and looks at the bed in front of him.
 >
-> > "Then they are gone. That was the request. It was not the manner I asked for."
+> > "Then they are gone. That was the request, but it was not the manner in which I asked for it."
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie and reporting to Melannor. Companions gain none. If steel was drawn on Bonnie, nobody gains Renown or any bonus.
+> Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie and reporting to Melannor. Companions gain none, and if steel was drawn on Bonnie nobody gains Renown or any bonus.
 >
-> - **+1 Renown:** **Traitor Identified** is marked. Edric is named and Bonnie gives Kelso's name.
+> - **+1 Renown:** **Traitor Identified** is marked, meaning Edric is named and Bonnie gives Kelso's name.
 > - **+1 Renown:** the departure is settled without violence, with Bonnie leaving or staying as the outcome falls. Nobody draws steel on Bonnie or her crew, and she agrees to the demand or the party wins her reprieve.
 > - **+1 Renown:** Bonnie deals with Edric herself. No character grapples, searches, strikes or follows him. If **Harper M3 Complete** is marked, this is earned when the party leaves Edric alone.
 >
@@ -393,9 +393,8 @@ If the crew fled after steel was drawn, read the following aloud:
 
 Bonnie closes her affairs in two tendays, and the crew leaves one by one. If the party won her reprieve, she keeps her place at the Portal and Durnan never learns what she is. Edric is out of the crew either way, and Melannor's animals follow him to the gate.
 
-Kelso Fiddlewick keeps selling to whoever pays. He does not know who gave his name, and he will not volunteer it. The Splinter keeps buying from him.
+Kelso Fiddlewick keeps selling to whoever pays, and he does not know who gave his name or volunteer it. The Splinter keeps buying from him, and Melannor tells the animals to leave the Portal alone once the crew is gone.
 
-Melannor tells the animals to leave the Portal alone once the crew is gone.
 ### Concluding the Event
 
 The report to Melannor ends the assignment. Record who sold the names, who bought them and whether Bonnie stays, because later events read it.
