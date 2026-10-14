@@ -4,68 +4,80 @@ For who the Emerald Enclave are, see the **Emerald Enclave** organization page.
 
 ## Grand Game Stance
 
-The Emerald Enclave has no interest in the vault gold. Jeryth is explicit about this when it comes up: the gold belonged to Waterdeep before Lord Neverember took it, and will belong to Waterdeep again — that question is for the Lords to settle. What the Enclave cares about is what is moving underneath all of it.
+The Emerald Enclave has no interest in the vault gold. Jeryth's answer is the same every time it comes up: "That question is for the Lords to settle." The Enclave takes no side, and asking her needs no check. What it cares about is what is moving underneath all of it.
 
-Jeryth has been aware of a psychic disturbance in the earth beneath Waterdeep's Castle Ward since before the campaign begins. She calls it a dreaming presence — old, patient, and hungry. When the Stone of Golorr is activated, the resonance she has been tracking strengthens. She knows this is connected. She doesn't know what it is or where it's anchored, but the Brandath crypts feel specifically wrong to her: old wrongness, patient rather than sharp.
+Jeryth has felt a dreaming presence in the earth beneath the Castle Ward since before the campaign begins. She calls it old, patient and hungry, and she does not know its name. When the Stone of Golorr is attuned and each Eye is restored, the pressure grows. The Brandath crypts feel specifically wrong to her, with an old, slow and patient wrongness.
 
-The Enclave's Grand Game goal is containment: whatever the Vault of Dragons wakes up, Jeryth wants it handled.
+The Enclave's Grand Game goal is containment. Whatever the Vault of Dragons wakes up, Jeryth wants it handled before it reaches the surface.
+
+Enclave speakers say "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener. Kolat Towers stands one block north of Phaulkonmere, and nobody in the Enclave points at it before that gate. They never name the Cassalanters as anything worse than a rich house, and they never say "Jarlaxle" or "Bregan D'aerthe" to players.
 
 **What the Enclave shares proactively:**
-- Phaulkonmere as a safe haven from day 1, neutral ground no faction will openly violate, no questions asked
-- Animal messenger communications anywhere in Waterdeep at Renown 3+
-- Jeryth's sense of the dreamer's activity; she can tell the party when the underground disturbance intensifies (corresponding to Illuun's influence reaching upward), relevant from **Fireball!** onward
+- Phaulkonmere as a haven from the day a character joins: neutral ground that no response team enters, with the gate open from dawn to dusk.
+- Melannor's *animal messenger* relay, once per tenday, for a member at Renown 3 or higher.
+- Jeryth's warnings when the pressure below the city grows. They come as five surges in **The Water Table Stirs**, starting with **Fireball!**.
 
 **What the Enclave asks for:**
-- Reports on aberrant creature activity: where intellect devourers are operating, what new creatures Xanathar has released, whether any mind-touched citizens have been encountered
-- That the Stone of Golorr not remain in Waterdeep longer than necessary — its activation is pulling at something below the city
-- One thing from **Vault of Dragons**: Jeryth asks to be present when the vault is opened. Mission 6 prepares her wards in advance; she needs no notice beyond the party's call.
+- Accounts of aberrant creatures: where the party met one, how it moved and what it did to the animals nearby.
+- That the Stone of Golorr not stay in one place longer than it must, because Jeryth believes the pressure below follows it.
+- One favour at **Vault of Dragons**: Jeryth wants to be ready when the vault opens. She is ready without notice if **Anchor Destroyed** is marked, and she needs notice from the party if it is not.
 
 ## Quest Hooks
 
 | Quest | Emerald Enclave Hook |
 |-----|----------------------|
-| **Fireball!** | Jeryth perceived a sharp psychic disturbance the night of the fireball — something was activated in the Castle Ward. Melannor asks what the party knows. |
-| **Gralhund Villa** | Gralhund Villa sits over a minor ley line the Enclave monitors. Xanathar Guild activity around it has destabilized the line. Melannor would like to know what happened inside. |
-| **Xanathar's Lair** | Jeryth provides an enchanted herb sprig that functions as a mild psychic shield: advantage on the first saving throw against an implanted intellect devourer, usable once. She asks the party to carry it into Xanathar's lair. |
-| **Cassalanter Villa** | A persistent infernal disturbance in the Sea Ward is disrupting a ley line Jeryth monitors. She cannot trace it to a specific address. Herbs are dying overnight at Phaulkonmere; the estate oaks have lost their birds. She can feel the disturbance's rhythm as regular surges — enough to give the party a calendar indicator if they can find the source. |
-| **Vault of Dragons** | Mission 6 triggers here. Jeryth needs no advance notice — M6 already prepared her wards. She's ready when the party calls. |
+| **Fireball!** | Jeryth felt a sharp disturbance in the Castle Ward on the night of the fireball. Melannor asks the party what it knows, and the account he wants feeds the first surge of **The Water Table Stirs**. |
+| **Gralhund Villa** | Gralhund Villa sits over a minor ley line that the Enclave monitors, and Guild activity around it has unsettled the line. Melannor would like to hear what the party saw inside. |
+| **Xanathar's Lair** | Melannor wants an account of every aberrant creature the party meets in the Guild's tunnels. If the lair has not yet run, a member who finished **The Grells in the Dock Ward** can give the party a casing aid for Pier 17. |
+| **Cassalanter Villa** | Enclave druids feel that something is wrong in the Sea Ward. Birds have left the old oaks there, and garden herbs wither overnight along one stretch of villas. The disturbance comes in regular surges, and the dates give the party a calendar clue if it finds the source. Nobody in the Enclave can name a house, an address or a cause. This is suspicion only. |
+| **Vault of Dragons** | If **The Dreamer's Reach** has run and **Anchor Destroyed** is marked, Jeryth is awake and needs no notice. If it has not run, she needs notice from the party before the opening, and the Vault sets how much. |
 
 ## First Meeting
 
-A white cat delivers Melannor's verbal invitation to Trollskull Manor; the party follows it to Phaulkonmere, where Melannor walks them through the gardens and introduces the Enclave around disruption and balance. Jeryth Phaulkon's voice carries through the estate; she introduces herself, explains she cannot appear physically, and offers Phaulkonmere as neutral ground. Characters who accept membership receive a *charm of restoration* without ceremony. Melannor walks them to the gate: "I'll be in touch."
+Every character who belongs to no other faction is a candidate and answers for themself. A white cat carries Melannor's message to the first nature-minded candidate: "Interested in joining the Emerald Enclave? Come meet us at Phaulkonmere in the Southern Ward. The gate will be open." Any candidate can walk to the estate, whoever the cat chose. At the gate Melannor asks after his brother Talisolvanar, who is Tally Fellbranch, and then walks the garden with the party. Jeryth Phaulkon speaks from the oldest oak and explains that she cannot appear.
 
-Full scene text, the **Jeryth's Manner** sidebar, read-aloud, and the **Emerald Enclave Joined** flag are in [**First Meeting** (Emerald Enclave)](../../quests/faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md).
+Each candidate who accepts becomes a Springwarden at Renown 1 and receives a *charm of restoration* with 3 charges. A candidate who declines can return later, and the gate stays open. No first mission is handed over. **The Undercliff Scarecrows** reaches each member by grey pigeon at 2nd level.
+
+The Enclave also helps with Trollskull Manor, once, when the first candidate accepts. Two druids arrive within a tenday and dig out the cellar, drain the courtyard and reseat the foundation with *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape*. The Enclave donates timber, and the renovation total drops by 250 gp. The druids ask the party to leave the courtyard oak undisturbed and to allow silverbark to grow on it, which is a request and not a condition.
+
+Full scene text is in [**Emerald Enclave First Meeting**](../../quests/faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md). Acceptance marks the **Emerald Enclave Joined** outcome for each member by name.
 
 ## Renown & Ranks
 
 ### Earning Renown
 
-- **Neutralize an aberrant creature threatening the city or its environs (+1).** Intellect devourers implanted in citizens, Xanathar's unleashed monsters, undead infestations: any aberrant or unnatural threat to Waterdeep's living fabric. Once per significant creature or infestation cleared.
-- **Prevent pollution or deliberate environmental harm in the harbor, sewers, or surrounding countryside (+1).** Grand Game factions sometimes use the city's natural systems as weapons or dumping grounds. Stopping this earns Enclave renown even when the Enclave did not ask.
-- **Return a dangerous or corrupted animal to safety rather than killing it (+1).** One award per incident where the party makes a genuine effort to resolve a creature problem non-lethally. Melannor must be informed for the renown to be awarded.
-- **Protect Phaulkonmere or its gardens from hostile incursion (+1).** The estate is a sacred space under Jeryth's protection. Characters who defend it from faction violence or deliberate desecration earn Jeryth's personal gratitude.
-- **Assist Jeryth Phaulkon with a magical or druidic task at her request (+2).** Jeryth occasionally manifests urgent needs — a corruption spreading through her gardens, a ley line disrupted by construction, something wrong in the earth beneath the Southern Ward.
+- **Neutralize an aberrant creature that threatens the city or its environs (+1).** Grells in the harbor, chuul in the cisterns, undead walking in a cemetery, or any unnatural threat to Waterdeep's living fabric. Once per significant creature or infestation cleared.
+- **Prevent pollution or deliberate environmental harm in the harbor, sewers or surrounding countryside (+1).** Factions sometimes use the city's natural systems as dumping grounds. Stopping this earns Enclave renown even when the Enclave did not ask.
+- **Return a dangerous or corrupted animal to safety rather than killing it (+1).** One award per incident in which the party makes a real effort to resolve a creature problem without killing. Melannor must be told for the renown to count.
+- **Protect Phaulkonmere or its gardens from hostile incursion (+1).** The estate is a sacred space under Jeryth's protection, and defending it earns her personal gratitude.
+- **Assist Jeryth with a magical or druidic task at her request (+2).** She occasionally asks for help with a corruption spreading through her gardens or a ley line disrupted by construction.
 
 ### Emerald Enclave Ranks & Benefits
 
+Ranks belong to individual members, and only the four rank events (**Summerstrider**, **Autumnreaver**, **Winterstalker**, **Master of the Wild**) hand out titles. No mission changes rank. A companion who is not an Enclave member gains no rank and no benefit, though a member brings companions along on an operation. A member whose Renown later falls keeps the rank, and the benefits wait until the Renown is restored.
+
 | Renown | Rank | Benefits |
 |--------|------|----------|
-| 1 | **Springwarden** | Recognized member. Jeryth bestows a *charm of restoration* (supernatural gift) upon joining. Phaulkonmere is available as a safe haven for the character and their companions — neutral ground no faction will openly violate. |
-| 3 | **Summerstrider** | Melannor relays communications anywhere in Waterdeep or its immediate environs via *animal messenger* once per tenday. Access to Jeryth's healing spells for injuries sustained on Enclave business, cast at no cost. Melannor's network — gardeners, park wardens, harbor fisherfolk — passes environmental observations: unusual animal behavior, contaminated soil, magical disturbances. One report per ward per tenday. |
-| 10 | **Autumnreaver** | Jeryth will cast any druid spell of 5th level or lower on the character's behalf once per quest, no components required. One trained beast — **Brown Bear**, **Giant Eagle**, or **Dire Wolf** — assists in one operation per quest. The Enclave provides three hidden sewer routes connecting the city to Undermountain's upper levels without passing through Watch or faction territory. |
-| 25 | **Winterstalker** | Jeryth casts spells up to 8th level on the character's behalf, once per quest. Melannor accompanies the party personally on one mission per quest as a capable combat and wilderness ally. If the party knows a Beast, Plant creature, or Elemental inhabits a target location, the Enclave provides an advance intelligence report on its behavior and position; the character has Advantage on Wisdom (Animal Handling) checks and on their first Initiative roll against that creature in that location, once per use. The harbor network shares ship manifests and significant cargo movements — including Sea Maidens Faire departure schedules — automatically. |
-| 50 | **Master of the Wild** | Jeryth bestows a *charm of vitality* (supernatural gift) on every party member present at Phaulkonmere — once per campaign. The Enclave mobilizes up to six rangers and druids to support one major operation. Beasts of CR 2 or lower that can understand simple instructions will perform one clearly communicated task for the character if it does not endanger them, once per quest. |
+| 1 | **Springwarden** | Awarded at the First Meeting. The member receives a *charm of restoration* with 3 charges: *Lesser Restoration* costs 1 and *Greater Restoration* costs 2. The charm vanishes when the charges are spent. Phaulkonmere is a haven for the member and up to eight companions, with the gate open from dawn to dusk. It is not a hiding place from a lawful arrest. |
+| 3 | **Summerstrider** | Once per tenday, Melannor sends a message of 25 words or fewer by *animal messenger* to a place he has visited. The reply comes back the same way. Jeryth casts one healing spell at Phaulkonmere only, once per Long Rest, from a fixed list of four, for injuries taken on Enclave business. Melannor gives one report per ward per tenday from the network of watchers. |
+| 10 | **Autumnreaver** | Once per quest, with three days' notice, Jeryth casts one spell of 5th level or lower through a living sprig, chosen from a fixed list. *Revivify* and *Reincarnate* are not on it, and the sprig fails in Undermountain. Once per quest, one paddock beast works beside the member for one operation. It is a Brown Bear, a Dire Wolf or a Giant Eagle, and the Giant Eagle is a Celestial ally and not a Beast. The Enclave also keeps three hidden sewer routes that end on Level 1 of Undermountain. |
+| 25 | **Winterstalker** | Once per quest, with three days' notice, Melannor joins the member in the field for one mission. Jeryth can instead cast one spell of 8th level from a fixed list of six, with seven days' notice. That casting shares the single use per quest with the sprig of Autumnreaver. Once per tenday, the member can ask for an advance report on the Beasts, Plants and Elementals at a surface place. It gives Advantage on Wisdom (Animal Handling) checks for Beasts only and on Intelligence (Nature) checks for Plants and Elementals. It also gives Advantage on the first Initiative roll there. Sarna Dath, a south quay fisher, sends a harbor note every tenday. |
+| 50 | **Master of the Wild** | Jeryth gives a *charm of vitality* to every character present at the naming, member or not. The member can send for the six once: three rangers and three druids under Sorrel Hartwick, who fight as one fewer than the party. Once per quest, and once on each level of Undermountain, a Beast of CR 2 or lower will carry out one clear task. Melannor also offers the Illuun Watch, an optional commission that gives three marks for couriers on Levels 1 to 3. |
 
 ## Missions
 
-| Level | Mission | Summary | Renown |
-|-------|---------|---------|--------|
-| 2nd | **The Undercliff Scarecrows** | Three animated scarecrows are terrorizing farms outside the city walls. Track them down and destroy all three before any farmers are killed. | +2 |
-| 3rd | **Ten Nights in the City of the Dead** | Assist Sir Ambrose Everdawn in a ten-night patrol of the City of the Dead. Someone is stealing bones and raising skeletons — the necromancer stays hidden, but their work must stop. | +2 |
-| 4th | **The Doppelganger Problem** | A gang of doppelgangers hiding in the Yawning Portal is destabilizing the city's social fabric. Convince their leader Bonnie to take her people and leave Waterdeep — peacefully, if possible. | +3 |
-| 5th | **The Grells in the Dock Ward** | The Xanathar Guild is releasing monsters as Watch distractions. Two grells are snatching citizens in the Dock Ward. Hunt them down before more people disappear. | +3 |
-| 6th | **The Fouled Channel** | Investigate dying plants at Phaulkonmere traced to Manshoon Splinter contamination of the Castle Ward cisterns — alchemical waste from intellect devourer experiments spreading through the Trades Ward water supply. | +4 |
-| 7th | **The Dreamer's Reach** | Jeryth Phaulkon has fallen silent, locked in psychic combat with Illuun's reach through the underground water table. Descend into the Castle Ward cisterns to destroy Illuun's surface anchor point and free her. | +4 |
+Each mission becomes available when an individual Emerald Enclave member meets its gate. Missions award no rank. The base Renown below can rise by 1 for each of three bonuses listed in the mission, up to 3 more.
+
+| Gate | Mission | Summary | Renown |
+|------|---------|---------|--------|
+| Joined, 2nd level | **The Undercliff Scarecrows** | Three scarecrows have come alive on the farms east of the walls. Hunt them down one territory at a time, find the chalk circle that woke them and learn where an old drain leads. | +2 |
+| Renown 3, 3rd level | **Ten Nights in the City of the Dead** | Help Sir Ambrose Everdawn patrol the north of the cemetery for ten nights. Bones are going missing, and the skeletons that walk keep heading for the Brandath crypts. | +2 |
+| Renown 5, 4th level | **The Doppelganger Problem** | Persuade the doppelganger crew at the Yawning Portal to leave Waterdeep within two tendays, and find out which of them has been selling names. If **Bonnie Harper Operative** is marked, the party can argue that Bonnie stays. | +3 |
+| Renown 8, 5th level | **The Grells in the Dock Ward** | Guild excavation under the south quay has disturbed two grells, and three people have vanished from Pier 17. Find the nest and bring out the third victim alive. | +3 |
+| Renown 10, 6th level | **The Fouled Channel** | Dead beds and a film on the water at Phaulkonmere lead down to the Castle Ward cisterns. The Splinter is dumping waste from its thrall-conditioning there. | +4 |
+| Renown 13, 7th level, after **Kolat Towers** and after **The Fouled Channel** | **The Dreamer's Reach** | Jeryth has fallen silent. Descend by an old drain to the chamber below the cisterns, break the anchor that presses on her and wake her. | +4 |
+
+Parties that ran three lair heists reach 7th level only after **Vault of Dragons**, and they play The Dreamer's Reach then. The Vault does not require it.
 
 Full mission write-ups are in the **Faction Events** quest journals.
 
@@ -74,7 +86,7 @@ Full mission write-ups are in the **Faction Events** quest journals.
 - **Emerald Enclave** organization page
 - [Emerald Enclave Faction Events](../../quests/faction-events/emerald-enclave/) — six missions, first meeting, standalone events, rank-up events
 - **Factions** guide overview
-- Notable Figures for the contacts
+- Notable Figures: **Melannor Fellbranch**, **Jeryth Phaulkon**
 - First Meeting: [Emerald Enclave First Meeting](../../quests/faction-events/emerald-enclave/00-first-meeting/ev-01-first-meeting.md)
 - Standalone events: [A Seat at Phaulkonmere](../../quests/faction-events/emerald-enclave/s01-a-seat-at-phaulkonmere/ev-01-a-seat-at-phaulkonmere.md) · [The Water Table Stirs](../../quests/faction-events/emerald-enclave/s02-the-water-table-stirs/ev-01-the-water-table-stirs.md)
 - Rank events: [Summerstrider (r03)](../../quests/faction-events/emerald-enclave/r03-summerstrider/ev-01-summerstrider.md) · [Autumnreaver (r10)](../../quests/faction-events/emerald-enclave/r10-autumnreaver/ev-01-autumnreaver.md) · [Winterstalker (r25)](../../quests/faction-events/emerald-enclave/r25-winterstalker/ev-01-winterstalker.md) · [Master of the Wild (r50)](../../quests/faction-events/emerald-enclave/r50-master-of-the-wild/ev-01-master-of-the-wild.md)
