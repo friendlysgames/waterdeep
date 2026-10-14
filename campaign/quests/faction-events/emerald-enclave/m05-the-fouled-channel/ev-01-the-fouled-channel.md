@@ -75,7 +75,7 @@ If **Mirsa Rescued** is marked, read or paraphrase the following:
 >
 > Melannor glances toward the gate with his hands folded.
 >
-> > "Mirsa the seamstress came to the gate yesterday to thank Jeryth for her help. She sat among the roses for an hour, and Jeryth warmed the air around her."
+> > "Mirsa the seamstress came to the gate recently to thank Jeryth for her help. She sat among the roses for an hour, and Jeryth warmed the air around her."
 
 > [!qna]**What is killing the beds?**
 >
@@ -137,9 +137,11 @@ If **Farm Damaged by Fire** is marked, read or paraphrase the following instead:
 
 > [!readaloud]
 >
-> The halfling stops two paces off with the sledge hanging from one hand. He looks at each of you for some time, and the new thatch on his barn roof shows behind him.
+> The halfling stops two paces off with the sledge hanging from one hand. He looks at each of you for some time, and a burned outbuilding stands behind him with new timber against its walls.
 >
-> > "You want the drain open. Fine. I told the Enclave it was theirs, and I keep my word, whatever I think of you."
+> > "You want the drain open. Fine. I told the Enclave it was theirs, and I keep my word, whatever I think of you. I'm still rebuilding my barn or Tuckerman's shed, so don't expect me to be cheerful about it."
+
+Gerrick says "my barn" if the Sackcloth One's field burned and "Tuckerman's shed" if the Blanket's pasture burned. If both burned, he says "my barn and Tuckerman's shed".
 
 > [!social]**The Farmer at the Drain**
 >
