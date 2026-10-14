@@ -1,27 +1,80 @@
-# The Doppelganger Problem
+# The Doppelganger Problem: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> *Emerald Enclave Mission 3. Available at Renown 3 and character level 4.*
+> Available when an individual Emerald Enclave member reaches Renown 5 and 4th level, after **Ten Nights in the City of the Dead**. Companions can help with everything except Melannor's brief and debrief, which only members attend.
 >
 > #### Difficulty
-> *A mission for 4th-level characters.*
+> *An adventure for 4th-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> No fight is expected. If a character lays hands on Edric Tanner, he fights alone as an ordinary 2024 **Doppelganger** and flees or surrenders as the event describes. The **Emerald Enclave Mechanics Reference** audits the fight for three, four and five characters.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
+
+## Hook
+
+A falcon finds each eligible Emerald Enclave member with a message from Melannor Fellbranch. A crew of doppelgangers works out of the Yawning Portal, the Enclave wants it gone from Waterdeep, and Melannor asks the members to come to Phaulkonmere before they act.
+
+## Background
+
+Bonnie has poured drinks at the Yawning Portal for over a year. She leads five doppelgangers who live on honest wages: herself, Edric Tanner, Kael, Syla and the Scholar. Melannor's animals learned what she is, and the Enclave will not leave a crew that reads minds in the one room where every faction in the city talks.
+
+Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick. Kelso buys stolen information and sells it to whoever pays. Bonnie traced the payments three weeks ago and has told nobody.
+
+> [!gamemaster]**What Is Actually True**
+>
+> Bonnie has already decided that the Enclave's request is reasonable, and she wants someone to say what it costs her before she agrees. The Splinter is Kelso's customer, and Edric's paper reaches the Splinter's handler through a Shard Shunners runner. If any Harper member has marked **Harper M3 Complete**, Edric is already out of the crew. If **Bonnie Harper Operative** is marked, the party can persuade Melannor to let her stay.
+
+## The Brief
+
+Melannor's falcon speaks twenty-one words in his voice, and he gives the rest in the Phaulkonmere garden. The crew must leave Waterdeep, peacefully if possible, and he allows two tendays. Companions wait at the gate.
+
+## The Portal
+
+The party reaches Bonnie in one of three ways: by asking her openly at the bar, by asking Durnan for the back room, or by finding Kael, Syla or the Scholar at work. Every route ends in the same arrangement, a talk in the back room after Durnan bars the door at 01:00. While they wait, the party can watch Edric hand folded paper to a halfling runner in the stable yard.
+
+## The Back Room
+
+Bonnie drops her tavern voice and answers plainly. She reads surface thoughts, so a character who names what leaving would cost her gets further than one who pushes.
+
+## The Traitor
+
+Edric comes in through the kitchen and argues that nobody asked the crew. Three independent routes lead the party to him: his objections, Bonnie's payment trail and what Melannor's falcon saw. Once he is named, Bonnie sends him out and gives the party the buyer's name, Kelso Fiddlewick.
+
+## The Departure
+
+Bonnie agrees to take the crew out of Waterdeep within two tendays. If she serves the Harpers, the party can argue to Melannor that she is no threat, and she stays while the other four go. A character who draws steel on Bonnie ends the mission, because she shifts and the crew leaves the city that night.
+
+## The Receipt
+
+Three days after the grace period ends, a dove brings a folded note to Trollskull Manor with three dots in a triangle. Melannor calls it a receipt.
+
+## Renown Opportunities
+
+Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie and reporting to Melannor. Companions gain none, and each bonus can be earned only once.
+
+- **+1 Renown:** Edric is named and Bonnie gives the buyer's name.
+- **+1 Renown:** the departure is settled without violence, with Bonnie leaving or staying as the outcome falls.
+- **+1 Renown:** Bonnie deals with Edric herself.
+
+## Aftermath
+
+Bonnie leaves with the crew at the end of the second tenday, unless the party won her a reprieve, in which case she stays at the Portal. Edric is out of the crew either way. Kelso Fiddlewick sold the names to someone, and he will not say whom. **The Grells in the Dock Ward** becomes available when an individual Emerald Enclave member reaches Renown 8 and 5th level.
 
 ## Involved Characters
-- **Melannor Fellbranch** (Emerald Enclave) — delivers the mission via falcon; adds a dry postscript about Jeryth's emphasis
-- **Bonnie** (doppelganger, crew leader) — present at her usual station at the Yawning Portal; has already anticipated this conversation; has been sitting on the traitor's identity for some time and is waiting for the right moment to use it
-- **The Traitor** (doppelganger, Manshoon Splinter informant) — one of Bonnie's five crew members; sold party names to a Splinter operative; actively undermines the negotiation when the party arrives
+
+- **Melannor Fellbranch** (Emerald Enclave): sends the falcon, states the demand and hears the report.
+- **Bonnie** (Independent): the crew's leader, who reads minds and weighs what leaving costs.
+- **Edric Tanner** (Independent): a doppelganger teamster who sells the names he reads to Kelso Fiddlewick.
+- **Kael**, **Syla** and **the Scholar** (Independent): Bonnie's three other colleagues, none of them a traitor.
+- **Durnan** (Independent): the owner of the Yawning Portal, who lends the back room and knows nothing of what Bonnie is.
+- **Kelso Fiddlewick** (Shard Shunners): the Field Ward gang leader who bought the names. He appears only as a name.
 
 ## Dangers & Enemies
-Five **Doppelgangers** (2024 *Monster Manual*). Violence is not expected and Jeryth's instruction — "peacefully if possible," repeated three times — is not decorative. The traitor may provoke a fight if the party handles the reveal clumsily, but Bonnie will intervene cleanly if she has the standing to do so.
+
+No combat unless a character lays hands on Edric. He fights alone, flees at half his hit points and surrenders when cornered. Bonnie never fights. If steel is drawn on her, she shifts and leaves, and the crew goes with her.
 
 ## Overview
-Doppelgangers are operating freely out of the Yawning Portal while four factions compete for the same city, the same information, and the same room. The Enclave cannot permit unaligned shapeshifters reading everyone's loyalties where intelligence is the most dangerous thing on the table. Bonnie and her crew must leave Waterdeep.
 
-The mission is a negotiation. Bonnie already knows why the party is there. She has already decided what she will accept and at what cost. One of her crew has been selling intelligence to the Manshoon Splinter and she has been holding the knowledge in reserve, waiting for a moment when it would be most useful.
-
-If the party lets her handle the traitor in her own way, she honors the departure agreement and gives them a parting gift: the name of the Splinter operative who bought the intelligence from her crew. That name is Kelso Fiddlewick. Melannor passes it to both the Harpers and the Lords' Alliance independently, and it becomes an active investigation thread in Arc E.
+Melannor asks the party to persuade a crew of doppelgangers at the Yawning Portal to leave Waterdeep. Their leader, Bonnie, already knows why the party has come.

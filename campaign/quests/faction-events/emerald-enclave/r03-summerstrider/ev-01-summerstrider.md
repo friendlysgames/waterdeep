@@ -18,7 +18,7 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 >
 > A grey pigeon drops onto the sill with a clatter of wings and walks along it, turning its head to look at each of you in turn. It stops in front of you, and a deep, even voice speaks from somewhere behind its eyes.
 >
-> > Summerstrider. The rank is yours. Come to Phaulkonmere this evening, by the east gate if you hold the key. Three matters need explaining.
+> > "Summerstrider. The rank is yours. Come to Phaulkonmere this evening, by the east gate if you hold the key. Three matters need explaining."
 >
 > The pigeon waits a moment, then opens its wings and flies off over the roofs.
 
@@ -44,7 +44,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 >
 > The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and noisy with evening traffic. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. The oldest oak stands in the middle of the garden with its roots across the path, and Melannor waits beside it with his hands clasped in front of him.
 >
-> > Good evening, Summerstrider. The rank is yours, and I will explain it as we walk. Your companions may wait on the benches by the gate.
+> > "Good evening, Summerstrider. The rank is yours, and I will explain it as we walk. Your companions may wait on the benches by the gate."
 
 If companions come along, they wait on the benches by the gate, and Melannor speaks to them no further. Jeryth does not speak until the healing scene below.
 
@@ -66,19 +66,19 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 >
 > Melannor holds up one finger for each benefit as he names it.
 >
-> > You may send one message every tenday, and Jeryth will heal the injuries you take in our work. I will also give you one report from each ward every tenday, and I will explain each benefit in turn.
+> > "You may send one message every tenday, and Jeryth will heal the injuries you take in our work. I will also give you one report from each ward every tenday, and I will explain each benefit in turn."
 
 > [!qna]**Why is it mine and not the party's?**
 >
-> > I write each rank beside a name, and the rank has no line for your companions. They may help you and rest in the garden, but Jeryth heals only the person she has named.
+> > "I write each rank beside a name, and the rank has no line for your companions. They may help you and rest in the garden, but Jeryth heals only the person she has named."
 
 > [!qna]**Who are the watchers?**
 >
-> > They are gardeners, wardens and fisherfolk who notice what the soil and the water do. They do not know the Enclave by name, and I would like them to stay unknown to you.
+> > "They are gardeners, wardens and fisherfolk who notice what the soil and the water do. They do not know the Enclave by name, and I would like them to stay unknown to you."
 
 > [!qna]**What happens if my Renown falls?**
 >
-> > The rank stays with you, because you earned it, and the three benefits wait until your Renown is restored. I will tell you at the gate when that happens.
+> > "The rank stays with you, because you earned it, and the three benefits wait until your Renown is restored. I will tell you at the gate when that happens."
 
 ### The Relay
 
@@ -86,7 +86,7 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 >
 > Melannor leads you along a gravel path to a wooden box mounted on a post beside the gate, with a slot in the lid and a leaf carved on the front. A row of pigeons and crows sits along the wall above it and watches without moving.
 >
-> > This is the gate box. Write your message and leave it here, or give it to me when I am at the gate. It may be twenty-five words long.
+> > "This is the gate box. Write your message and leave it here, or give it to me when I am at the gate. It may be twenty-five words long."
 
 > [!exploration]**Sending a Message**
 >
@@ -103,11 +103,11 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 
 > [!qna]**Can I send it to someone who has not met you?**
 >
-> > Yes, because the animal finds a recipient by description. Tell me what the person looks like and where they will be, and I do not need the name.
+> > "Yes, because the animal finds a recipient by description. Tell me what the person looks like and where they will be, and I do not need the name."
 
 > [!qna]**Can the animal answer questions on the way back?**
 >
-> > It carries the words you give it, and it brings back what the recipient says in twenty-five words or fewer. I would keep your question short, so the answer has room.
+> > "It carries the words you give it, and it brings back what the recipient says in twenty-five words or fewer. I would keep your question short, so the answer has room."
 
 ### Jeryth's Healing
 
@@ -117,7 +117,7 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 >
 > The leaves of the oak stir although the evening air is still, and a clear woman's voice speaks from the garden around you. You cannot tell where it comes from.
 >
-> > You carry old hurts from this work. Rest here.
+> > "You carry old hurts from this work. Rest here."
 >
 > The vines along the wall loosen, and a warm breeze crosses the path.
 
@@ -136,15 +136,15 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 
 > [!qna]**What do you want in return?**
 >
-> > Nothing. Come back when you are hurt.
+> > "Nothing. Come back when you are hurt."
 
 > [!qna]**What dreams below?**
 >
-> > Something old. It dreams below. Watch the water.
+> > "Something old. It dreams below. Watch the water."
 
 > [!qna]**Who gets the dragon's gold?**
 >
-> > That question is for the Lords to settle.
+> > "That question is for the Lords to settle."
 
 > [!exploration]**Healing at Phaulkonmere**
 >
@@ -166,7 +166,7 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 >
 > The paper is a ward map of Waterdeep with a different mark in each district, a leaf, a feather, a fish or a small cross. Melannor lays a finger on the Southern Ward, where the gardens stand, and turns his head to look at you.
 >
-> > Every tenday I will give you one report from each ward you ask about. I will tell you what my watchers noticed, and I will not guess at what it means.
+> > "Every tenday I will give you one report from each ward you ask about. I will tell you what my watchers noticed, and I will not guess at what it means."
 
 > [!gamemaster]
 >
@@ -194,15 +194,15 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 
 > [!qna]**Who are the watchers?**
 >
-> > They are gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They send me what they notice, and I pass it to you.
+> > "They are gardeners in the City of the Dead, park wardens near the Field of Triumph and two fisherfolk on the south quay. They send me what they notice, and I pass it to you."
 
 > [!qna]**Why do some wards say nothing?**
 >
-> > In those wards the watchers have seen nothing that they can carry to me. That does not mean that nothing is happening, only that they have not seen it.
+> > "In those wards the watchers have seen nothing that they can carry to me. That does not mean that nothing is happening, only that they have not seen it."
 
 > [!qna]**What is the Splinter?**
 >
-> > It is the other cell of an old network, and it is working in this city. I do not know who leads it, and I would tell you if I did.
+> > "It is the other cell of an old network, and it is working in this city. I do not know who leads it, and I would tell you if I did."
 
 ### Leaving the Garden
 
