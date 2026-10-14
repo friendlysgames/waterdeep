@@ -262,7 +262,7 @@ If **The Grells in the Dock Ward** has played and **Grell Escaped** is not marke
 > - **The Southern Ward route:** the entrance is a sealed iron door at the end of a service ledge in the deep cisterns. The walk takes three hours and ends in area 22, the Empty Room, which holds burned torch stubs and discarded potion bottles. Nothing lives there, so the room makes a safe place to rest.
 > - **The Dock Ward route:** the entrance is a sealed hatch in the floor of an abandoned fishmeal warehouse, where a few sacks of old meal still stand by the wall. The walk takes ninety minutes. It ends at a narrow door in the south wall of area 5, the Grell Hideout, and what waits there follows **Grell Escaped**.
 >
-> The Dock Ward route reads **Grell Escaped**. If it is marked, area 5 holds the one grell that fled the warehouse, hungry and at full Hit Points. The roster for all three states is in the scene below.
+> The Dock Ward route reads **Grell Escaped**. If it is marked, area 5 holds the grell or grells that fled the warehouse in **The Grells in the Dock Ward**, hungry and at full Hit Points. The roster for all three states is in the scene below.
 
 > [!exploration]**Using the Routes**
 >
@@ -287,7 +287,7 @@ This scene happens when a party first reaches area 5, never during this Event. R
 >
 > The route's narrow door opens in the south wall of a 50-foot-square room with five pillars of black bone. The alcoves to the north and east hold the grells, which float among the pillars and chase anyone who runs. The roster follows the state of the route:
 >
-> - **Grell Escaped is marked:** one **Grell** at full Hit Points. At 5th level its Power is 30 against party Power of 96, 128 or 160, which costs 9.8%, 5.5% and 3.5% of the party's resources. That is Mild at every size, with a Day Cost of 2.
+> - **Grell Escaped is marked:** one **Grell** at full Hit Points, or both if the party withdrew from the warehouse and left them alive, which uses the two-grell row. At 5th level its Power is 30 against party Power of 96, 128 or 160, which costs 9.8%, 5.5% and 3.5% of the party's resources. That is Mild at every size, with a Day Cost of 2.
 > - **The party has not played The Grells in the Dock Ward:** two **Grells**, Power 60. That costs 39.1% at three characters (Bruising, Day Cost 4), 22.0% at four (Bruising, 4) and 14.1% at five (Mild, 2). At three characters the second grell joins in round 3.
 > - **The grells were destroyed:** the room is empty and nothing happens.
 >
