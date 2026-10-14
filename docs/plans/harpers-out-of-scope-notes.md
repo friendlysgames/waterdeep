@@ -734,11 +734,11 @@ The companion pages were fixed in this session (PRs #124–#129):
 The items below are outside contradictions left unedited.
 
 ### 1. Structure docs (for when each quest is converted)
-- **arc-e** :85 carries the Southern Ward line with "infernal" in it, which the Enclave cannot know (Cassalanter secrecy).
+- **arc-e** :85 places Jeryth's infernal disturbance in the Southern Ward near Coachlamp Lane. The Enclave senses it in the Sea Ward. Sensing that it is infernal is allowed; knowing whose it is is not.
 - **arc-f**
   - :59 (X1) and :61 (X4) call the dock a "cargo dock". Keep it consistent with the boats and hatch under Pier 17 from **The Grells in the Dock Ward**.
   - Xanathar's Lair should read **Pier 17 Investigated** as a casing aid at X4.
-- **arc-g** :535 puts the Enclave's druids in the Sea Ward with knowledge of the Cassalanters beyond suspicion.
+- **arc-g** :535 puts the ley line "in the Sea Ward beneath Phaulkonmere", which is in the Southern Ward. Its "Cassalanter infernal ritual" is GM text and can stay, as long as no Enclave speaker ties the infernal presence to the family.
 - **arc-j**
   - :47 quotes Jeryth in wording the events no longer use.
   - :47 also needs a notice length that agrees with the r10/r25 rules (three and seven days), or it should say Jeryth needs no notice once **Anchor Destroyed** is marked. **The Dreamer's Reach** has her say "I don't need notice anymore".
@@ -775,7 +775,6 @@ The items below are outside contradictions left unedited.
 - M4: the mechanics reference says both that a fleeing grell drops its prey and that a grell does not flee while holding a Paralyzed creature. The text follows the first rule.
 - r25: the components and ranges of *Antipathy/Sympathy*, *Control Weather*, *Earthquake*, *Sunburst* and *Tsunami*, and the 2024 class lists, were not re-read against the spell data.
 - M6: who can read a *spell scroll* of *water breathing*, and the 2024 Frightened and Incapacitated texts, are unverified.
-- The Trollskull operating-costs floor rose from 5 gp to 7 gp a tenday when the undelivered Enclave ward fee cut was removed.
 
 ### 6. Invented names (Session 43)
 Accept or replace.
