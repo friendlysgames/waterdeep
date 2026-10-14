@@ -714,3 +714,85 @@ Accept or replace.
 - **M6:** Orla Venn and the Tower staff Dessa Quillon, Harl Merrow, Ilsabet Crane, Jory Pellin and Sabel Orrin.
 - **r10:** Dovrin Tesk.
 - **Sourced but unprofiled:** Meritide Blackfin (Zelifarn guide) and Zaibon Kyszalt (WDH).
+
+## Emerald Enclave event rewrite (Session 43)
+
+All 13 Emerald Enclave folders were rewritten from their first commits on the DR/BD/Harper/Force Grey model. Merged in PRs #106–#123. The binding documents are:
+- `docs/plans/emerald-enclave-plan.md`;
+- `docs/plans/emerald-enclave-conversion-brief.md`;
+- `docs/plans/emerald-enclave-mechanics-reference.md`;
+- `docs/plans/emerald-enclave-consistency-rulings.md`.
+
+The companion pages were fixed in this session (PRs #124–#129):
+- the Factions Guide `04`;
+- the organization page `03`;
+- the Notable Figures pages for Melannor, Jeryth, Sir Ambrose and Kelso, plus the Ambrose voice profile;
+- the Players' and GM Guide rank rows;
+- Trollskull `ev-04` and `trollskull-manor/02-operating-costs.md`;
+- the **Bonnie Departed** branches in Harper M3 and Force Grey M3/M4.
+
+The items below are outside contradictions left unedited.
+
+### 1. Structure docs (for when each quest is converted)
+- **arc-e** :85 carries the Southern Ward line with "infernal" in it, which the Enclave cannot know (Cassalanter secrecy).
+- **arc-f**
+  - :59 (X1) and :61 (X4) call the dock a "cargo dock". Keep it consistent with the boats and hatch under Pier 17 from **The Grells in the Dock Ward**.
+  - Xanathar's Lair should read **Pier 17 Investigated** as a casing aid at X4.
+- **arc-g** :535 puts the Enclave's druids in the Sea Ward with knowledge of the Cassalanters beyond suspicion.
+- **arc-j**
+  - :47 quotes Jeryth in wording the events no longer use.
+  - :47 also needs a notice length that agrees with the r10/r25 rules (three and seven days), or it should say Jeryth needs no notice once **Anchor Destroyed** is marked. **The Dreamer's Reach** has her say "I don't need notice anymore".
+  - :47 needs an "if not run" default for **The Dreamer's Reach**, and it should read **Jeryth's Message Received** and the silence warning from M6.
+  - :83 should read **Brandath Crypts Visited**, which also lets Sir Ambrose wave the party through.
+  - :274 reads a fully paid-off thread that no outcome writes.
+  - The Vault should read **Cultists Escaped**, **Anchor Destroyed**, **Illuun Contact** and **Brandath Crypts Visited**.
+- **arc-c**, **arc-e** and **arc-h** describe Illuun in ways that differ from s02 and M6 (an aboleth on Undermountain Level 4, unnamed until **Anchor Destroyed** or the Stone).
+- **arc-h** :128 moves the carnival departure to Tarsakh 15 at Lockdown, which shifts the dates in Sarna Dath's r25 notes.
+- **Faction Outposts** should read **Manshoon Named**, **Splinter Site Reported**, **Traitor Identified** and **Imre Identified**.
+- **Kolat Towers** should read **Imre Identified**.
+- No outcome exists for the Stone naming Illuun at Full Awakening. The Vault conversion needs one, because the Enclave pages gate the name on it.
+
+### 2. Act I–II quest files
+- **Trollskull `ev-03-the-neighbors.md`** :20 says the party links Tally to Melannor when Enclave recruitment arrives in ev-04. The link now comes at the **Emerald Enclave First Meeting**, through Melannor's Talisolvanar line.
+- **Fireball!** and **Gralhund Villa** each have a Melannor hook that overlaps **The Water Table Stirs** Surge One. Keep one sign per surge when those quests are next edited.
+- **Trollskull `ev-04`** :73 and **arc-b** :139 describe M1 with no gate or Renown. They need no change.
+
+### 3. Other faction events
+- **Lords' Alliance `r50-lioncrown/ev-01-lioncrown.md`** :156 still uses **Undermountain Commission Accepted**, a name the Enclave r50 no longer writes, and the page still uses retired blocks.
+- **Order of the Gauntlet `m03`** design notes claim Splinter intelligence from Kelso that its event does not contain.
+
+### 4. Setting, guides and sources
+- The Harpers organization page and Bonnie's Notable Figures page say only Mattrim knows her nature. The Enclave's animals know too.
+- Tally's Notable Figures page (`trollskull-community/01-talisolvanar-fellbranch.md`:8) lists **The Undercliff Scarecrows**, but he does not appear in it.
+- Durnan's Notable Figures page uses a "Veteran" block, which is not the 2024 name.
+- Gerrick Thatchley has no Notable Figures page.
+- `appendix-a-npc-roster.md` is referenced but does not exist.
+- `sources/Appendix_B_-_Player_Factions.md`:377 gives a *charm of heroism* at Master of the Wild. The campaign uses a *charm of vitality*. Source text, so it is left alone.
+- The Factions Guide `04` Xanathar's Lair hook now asks for accounts of aberrant creatures plus the Pier 17 casing aid, replacing the old herb sprig. Confirm the wording when Xanathar's Lair is converted.
+
+### 5. Readings to confirm (Session 43)
+- r10: the beast is replaced "once" in the campaign, not once per quest.
+- M4: the mechanics reference says both that a fleeing grell drops its prey and that a grell does not flee while holding a Paralyzed creature. The text follows the first rule.
+- r25: the components and ranges of *Antipathy/Sympathy*, *Control Weather*, *Earthquake*, *Sunburst* and *Tsunami*, and the 2024 class lists, were not re-read against the spell data.
+- M6: who can read a *spell scroll* of *water breathing*, and the 2024 Frightened and Incapacitated texts, are unverified.
+- The Trollskull operating-costs floor rose from 5 gp to 7 gp a tenday when the undelivered Enclave ward fee cut was removed.
+
+### 6. Invented names (Session 43)
+Accept or replace.
+
+**Renamed to avoid collisions**
+
+| Old name | New name |
+|---|---|
+| Gerrick Goodbarrel | Gerrick Thatchley |
+| Raeve Solnath | Imre Daskov |
+| Wenna Droit | Hesta Droit |
+| Tobiah Fenn | Tobiah Ashby |
+
+**New**
+- **M1:** Tuckerman and his shearing shed.
+- **M2:** Officers Jonn Bannock and Ysa Terrow; the Halleth, Corlan and Tessenden mausoleums.
+- **M4:** Hesta Droit, Garrit Moll, Tobiah Ashby.
+- **M5:** Sevrin Garrow, Piet Lorn, Odda Fenn.
+- **r25:** Sarna Dath.
+- **r50:** Sorrel Hartwick.
