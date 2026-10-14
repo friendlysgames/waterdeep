@@ -255,7 +255,7 @@ Read the following aloud as the crew arrives:
 >
 > A bolt scrapes back at the top of the stair, and a square of lantern light comes down the steps one at a time. A broad man in a dark coat leads the way with a short blade already drawn, and a file of armed men and women follows him. Behind them two carriers walk bent under buckets and a pole lamp, and nobody speaks until the leader sees you.
 >
-> > "That's the Enclave's work, and you're standing in my cistern. Piet, back. Everyone else, with me."
+> > "That's the Enclave's work, and you're standing in my cistern. Piet, get back behind the lamp. Everyone else, with me, and quickly."
 
 > [!hazard]**The Dusk Delivery**
 >
@@ -276,13 +276,14 @@ Read the following aloud as the crew arrives:
 > - Focus the character Sevrin has Commanded or held.
 > - Never follow the party onto the dais of the first chamber.
 >
-> Piet and Odda drop their burdens and run for the stair as soon as the first blow lands. The fight ends when Sevrin reaches 0 hit points. The Toughs then drop their weapons or run, and they surrender if Grappled. Sevrin never stands down.
+> Piet and Odda drop their burdens and run for the stair as soon as the first blow lands. The fight ends when Sevrin reaches 0 hit points. The Toughs then drop their weapons or run, and they surrender if Grappled, and Sevrin never stands down.
 >
 > **Capture.** A character within reach of a runner makes a **DC 14 Dexterity (Acrobatics)** check to take it alive. Any holding spell, such as *Hold Person* or *Entangle*, does the same without a check. Piet is the easiest to catch, because he runs with a lamp pole.
 >
-> **Non-combat route.** Once the party holds the stair foot, a character who calls on the Toughs to put down their weapons and go home makes a **DC 15 Charisma (Intimidation or Persuasion)** check. On a success the Toughs withdraw up the stair, and Sevrin fights on alone, outnumbered. On a failure the fight starts as written, with the party acting first.
+> **Non-combat route.** Once the party holds the stair foot, a character who calls on the Toughs to put down their weapons and go home makes a **DC 15 Charisma (Intimidation or Persuasion)** check.
+> On a success the Toughs withdraw up the stair, and Sevrin fights on alone, outnumbered. On a failure the fight starts as written, with the party acting first.
 >
-> **Escape.** Mark **Cultists Escaped** when anyone of Sevrin's company, including a carrier, climbs the stair and gets away. A runner who is dead or held does not count.
+> **Escape.** Mark **Cultists Escaped** when anyone of Sevrin's company, including a carrier, climbs the stair and gets away, and a runner who is dead or held does not count.
 
 The captive talks freely if nobody threatens him again.
 
@@ -302,23 +303,23 @@ The captive talks freely if nobody threatens him again.
 
 > [!qna]**Who hired you?**
 >
-> > "A man at a tavern on the Trades Ward side. He said it was disposal work, four silver a night and no questions. I carry, I pour, and I go home. That's all of it."
+> > "A man at a tavern on the Trades Ward side. He said it was disposal work that paid four silver a night, and that I shouldn't ask questions. I carry and I pour, and then I go home."
 
 > [!qna]**Where do the jars come from?**
 >
-> > "A cart leaves them in the shed at noon every third day. The driver wears a hood, and I've never seen his face. Mister Garrow checks the seals before we go down."
+> > "A cart leaves them in the shed at noon every third day, and the driver wears a hood, so I've never seen his face. Mister Garrow checks every seal before we go down."
 
 > [!qna]**What is in them?**
 >
-> > "I don't know, and I don't want to. It smells like a sickroom, and my hands go numb if I spill any. Shit, I should've quit when the rat-catcher came."
+> > "I don't know, and I don't want to know. It smells like a sickroom, and my hands go numb if I spill any. Shit, I should've quit when the rat-catcher came."
 
 > [!qna]**Who is Sevrin Garrow?**
 >
-> > "He's the man who stands over us. He never says who he works for. He told us a second man would know if we talked, and I believed him."
+> > "He's the man who stands over us on every delivery, and he never says who he works for. He told us a second man would know if we talked, and I believed him."
 
 ### The Cutting
 
-When the cache is destroyed and the cultists are dealt with, the party can plant Melannor's cutting. It goes in the sluice in the middle of the first chamber, where the water is deepest and the current runs down to the water table beneath the Southern Ward. Read the following aloud when a character sets it in the water:
+When the cache is destroyed and the cultists are dealt with, the party can plant Melannor's cutting. It goes in the sluice in the middle of the first chamber, where the water is deepest. The current there runs down to the water table beneath the Southern Ward. Read the following aloud when a character sets it in the water:
 
 > [!readaloud]
 >
@@ -332,10 +333,8 @@ Jeryth works through the cutting for 10 minutes. The cutting must be held uprigh
 >
 > - **Failure:** the character takes 7 (2d6) psychic damage and is Frightened until the end of its next turn. While Frightened, the character cannot willingly move closer to the cutting.
 > - **Success:** nothing.
-> - **Sharing the hold:** a character on the dais takes the cutting from the holder with a Utilize action at the end of an interval, so the party can take turns.
-> - **Cost:** a character who holds the cutting for all ten minutes takes about 17 psychic damage on average and 35 at worst. There is no Day Cost.
->
-> The cutting holds as long as someone grips it, and the saves are the only cost.
+> - **Sharing the hold:** a character on the dais takes the cutting from the holder with a Utilize action at the end of an interval. The party can take turns this way.
+> - **Cost:** a character who holds the cutting for all ten minutes takes about 17 psychic damage on average and 35 at worst, and there is no Day Cost. The cutting holds as long as someone grips it, and the saves are the only cost.
 
 At the end of the tenth minute, read the following aloud:
 
@@ -345,7 +344,7 @@ At the end of the tenth minute, read the following aloud:
 
 > [!gamemaster]**What Notices**
 >
-> Something below the cistern noticed the conduit while it formed. The thread of light now runs from the sluice into the deep pipe, and the party follows it in **The Dreamer's Reach**. Nobody in this Event can learn this. Jeryth feels it, says nothing, and Melannor feels nothing at all. Do not name Illuun, and do not let a character who asks about the cold water learn more than that it was cold.
+> Something below the cistern noticed the conduit while it formed. The thread of light now runs from the sluice into the deep pipe, and the party follows it in **The Dreamer's Reach**. Nobody in this Event can learn this, because Jeryth feels it and says nothing and Melannor feels nothing at all. Do not name Illuun, and do not let a character who asks about the cold water learn more than that it was cold.
 
 ### Renown Opportunities
 
@@ -363,7 +362,7 @@ Melannor gives each member the same acknowledgement in turn. Read the following 
 >
 > Melannor looks at each of you and inclines his head.
 >
-> > "The rill runs clear, and the dead patch has stopped. Jeryth does not thank anyone, so I will say it for her. The garden counts its debt to you as repaid."
+> > "The rill runs clear, and the dead patch has stopped growing. Jeryth does not thank anyone, so I will say it for her. The garden counts its debt to you as repaid."
 
 If a member names Imre Daskov from the decoded logbook, read or paraphrase the following:
 
@@ -379,15 +378,15 @@ If the party has no Undercliff page to compare, read or paraphrase the following
 >
 > Melannor turns the book over and looks at the split circle on its cover.
 >
-> > "The mark is the Splinter's, and now it has a name. I will give it to Jeryth."
+> > "The mark is the Splinter's, and now it has a name beside it. I will give the book to Jeryth tonight."
 
 If **Manshoon Named** is marked for a member, Melannor adds the following for that member:
 
 > [!readaloud]
 >
-> Melannor's voice does not change, but he takes a moment before he speaks.
+> Melannor pauses for a moment with his hands folded.
 >
-> > "You have told me whose cell the Splinter is. Then this man answers to Manshoon, and I will tell Jeryth so."
+> > "You have told me whose cell the Splinter is. Then this man answers to Manshoon, and I will tell Jeryth so tonight."
 
 If **Cultists Escaped** is marked, read or paraphrase the following:
 
@@ -395,9 +394,9 @@ If **Cultists Escaped** is marked, read or paraphrase the following:
 >
 > Melannor's gaze goes to the west wall.
 >
-> > "Some of them reached the street. The Splinter will know by morning that its channel is found."
+> > "Some of them reached the street before you could stop them. The Splinter will know by morning that its channel has been found."
 
-If a member hands over the spare padlock key from Gerrick, Melannor takes it and hangs it on a hook inside the villa door. No further scene is needed.
+If a member hands over the spare padlock key from Gerrick, Melannor takes it and hangs it on a hook inside the villa door, and no further scene is needed.
 
 > [!gamemaster]**Mission Renown**
 >
@@ -407,13 +406,11 @@ If a member hands over the spare padlock key from Gerrick, Melannor takes it and
 > - **+1 Renown:** the party decoded the logbook itself, and the member named Imre Daskov to Melannor.
 > - **+1 Renown:** the party took a cultist alive and questioned him before the debrief.
 >
-> Each bonus can be earned only once.
->
-> No healing is given at the debrief. Melannor's debt line is story only, and **Summerstrider** already covers Jeryth's healing at Phaulkonmere.
+> Each bonus can be earned only once. No healing is given at the debrief, because Melannor's debt line is story only and **Summerstrider** already covers Jeryth's healing at Phaulkonmere.
 
 ### Aftermath
 
-The dead patch stops at the line it reached that morning, and new shoots come up at its edge over the next tenday. The rill runs clear, and the Trades Ward wells stop clouding within three days. Gerrick has a padlocked grate beside his barn and a key that the Enclave holds.
+The dead patch stops at the line it reached that morning, and new shoots come up at its edge over the next tenday. The rill runs clear, and the Trades Ward wells stop clouding within three days, while Gerrick has a padlocked grate beside his barn and a key that the Enclave holds.
 
 If **Cultists Escaped** is marked, the Splinter learns within a day that its channel is found. It moves its Trades Ward watchers and pays sergeants of the Watch to ignore reports about the cisterns. **Vault of Dragons** reads this as reduced Watch cooperation in the Trades Ward. If the party took a cultist alive, Piet Lorn goes free after the debrief and leaves Waterdeep.
 
@@ -421,7 +418,7 @@ Imre Daskov stays at Kolat Towers, and he is angry about the loss of the cache. 
 
 ### Concluding the Event
 
-Melannor's thanks end the assignment. Record the three outcomes below, because later quests read them.
+Melannor's thanks end the assignment, and the three outcomes below should be recorded because later quests read them.
 
 > [!gamemaster]**Event Outcomes**
 >

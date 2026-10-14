@@ -18,7 +18,7 @@ At dawn a crow lands on the oak in the courtyard of Trollskull Manor and speaks 
 
 ## Background
 
-For five tendays the Splinter has poured the waste of its thrall-conditioning into a Castle Ward cistern. The alchemy keeps the Splinter's mind-controlled servants docile, and its dregs are easier to dump in a sealed channel than to carry through the streets of the Trades Ward. A crew of cultists brings the jars down a stair every third day at dusk, and a Fanatic has guarded them since a rat-catcher found the stair.
+For five tendays the Splinter has poured the waste of its thrall-conditioning into a Castle Ward cistern. The alchemy keeps the Splinter's mind-controlled servants docile. Its dregs are easier to dump in a sealed channel than to carry through the streets of the Trades Ward. A crew of cultists brings the jars down a stair every third day at dusk, and a Fanatic has guarded them since a rat-catcher found the stair.
 
 Nobody meant the damage. The film dulls anyone who drinks it, and it has crept along a buried watercourse into the Trades Ward wells and the groundwater under Phaulkonmere. Melannor and Jeryth know only that the beds are dead along the west wall and the water is wrong. Gerrick Thatchley's sealed drain in the Undercliff leads to the same cisterns.
 
@@ -35,7 +35,7 @@ A crow brings Melannor's message at dawn, and the members walk to Phaulkonmere t
 
 ## Three Ways Down
 
-The film lives in the Castle Ward cisterns, and the party can reach them three ways: Gerrick's tunnel, the direction of the dead edge, or the Summerstrider report from the Trades Ward. Gerrick helps the party open his drain, and he is short with them if a farm burned in the Undercliff.
+The film lives in the Castle Ward cisterns, and the party can reach them three ways. These are Gerrick's tunnel, the direction of the dead edge, and the Summerstrider report from the Trades Ward. Gerrick helps the party open his drain, and he is short with them if a farm burned in the Undercliff.
 
 ## The Channel
 
@@ -55,7 +55,7 @@ The party plants Melannor's cutting in the sluice, and Jeryth works through it f
 
 ## Renown Opportunities
 
-Each participating Emerald Enclave member gains 4 base Renown for ending the dumping and reporting to Melannor. Bonuses of +1 each go to members whose party destroys the cache with no cultist escaping, who name Imre Daskov by decoding the logbook, and who take a cultist alive and question him.
+Each participating Emerald Enclave member gains 4 base Renown for ending the dumping and reporting to Melannor. Bonuses of +1 each go to members whose party destroys the cache with no cultist escaping and to members who name Imre Daskov by decoding the logbook. A third bonus goes to members who take a cultist alive and question him.
 
 ## Aftermath
 

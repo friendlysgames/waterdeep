@@ -6,7 +6,7 @@ Appendix C stops at the grells, so this mission is a repo invention. Its seeds a
 
 ## What Changed
 
-The mission now has three ways down: Gerrick's tunnel, the direction of the dead edge and the Summerstrider report. The cultists arrive at dusk on a fixed three-day schedule, so a party that learns it can ambush them at the stair, and bars the stair to earn the first bonus. The fight is a Cultist Fanatic with one Tough per character, whose Hold Person is held back to round 2 so it cannot start a Paralyzed-plus-Pack-Tactics kill.
+The mission now has three ways down: Gerrick's tunnel, the direction of the dead edge and the Summerstrider report. The cultists arrive at dusk on a fixed three-day schedule, so a party that learns it can ambush them at the stair. Barring the stair earns the first bonus. The fight is a Cultist Fanatic with one Tough per character, whose Hold Person waits until round 2. That keeps it from starting a Paralyzed-plus-Pack-Tactics kill.
 
 The film poisons through a DC 12 Constitution save every ten minutes, and the cutting costs a DC 13 Wisdom save every two minutes. The party can lower the cost by staying out of the water and sharing the hold. The healing gift is gone, because **Summerstrider** already gives Jeryth's healing at Phaulkonmere, and Melannor's "debt repaid" line is story only. The waste is thrall-conditioning residue, not a second intellect-devourer programme.
 
