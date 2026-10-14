@@ -25,7 +25,5 @@ Invented:
 
 Outside this folder, for the out-of-scope log:
 - `campaign/guides/factions/04-emerald-enclave.md:67` still says "Manshoon Splinter contamination".
-- `s02` Surge Four says Mission 5 made an excavation and awards +2 renown. M5 has neither, and the brief gives Surge Four no more than a named +1.
 - The Trades Ward row in the **Summerstrider** table is gated on **Manshoon Named**. The M5 report here is separate and names nothing.
-- **The Dreamer's Reach** must use Gerrick's padlock, the spare key and the sluice thread. The restored M6 still says "Gerrick Goodbarrel".
-- Melannor's and Jeryth's Notable Figures pages still carry `[GM]` zones.
+- **The Dreamer's Reach** must use Gerrick's padlock, the spare key and the sluice thread.- Melannor's and Jeryth's Notable Figures pages still carry `[GM]` zones.
