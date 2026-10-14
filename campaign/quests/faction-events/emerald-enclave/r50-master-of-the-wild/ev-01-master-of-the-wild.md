@@ -87,7 +87,7 @@ Phaulkonmere stands in the Southern Ward. Companions walk in with the member and
 
 ### Jeryth Names the Rank
 
-Jeryth speaks to the member from the oak. The six and Melannor bow their heads, and the leaves overhead turn together. Read the following aloud:
+Jeryth speaks to the member from the oak. The six and Melannor bow their heads, and the leaves overhead turn together. Read the following aloud as Jeryth speaks:
 
 > [!readaloud]
 >
@@ -130,7 +130,7 @@ What Jeryth says next depends on **The Dreamer's Reach**. Read the first branch 
 >
 > > "Something dreams below. Find where it is rooted."
 
-If **Anchor Destroyed** is marked, read the following to each member of that party, one at a time. Nobody else in the clearing hears it.
+If **Anchor Destroyed** is marked, read the following to each member of that party, one at a time, because nobody else in the clearing hears it.
 
 > [!readaloud]
 >
@@ -150,7 +150,7 @@ A companion who holds **Illuun Contact** is not told the name here. Melannor and
 
 ### The Charm of Vitality
 
-Read the following aloud:
+Read the following aloud as Jeryth gives the charm:
 
 > [!readaloud]
 >
@@ -176,7 +176,7 @@ A character who asks what happened gets a short answer from Melannor.
 
 ### The Six
 
-Read the following aloud:
+Read the following aloud as the six step forward:
 
 > [!readaloud]
 >
@@ -255,7 +255,7 @@ Read the following aloud:
 
 ### The Beast Compact
 
-Read the following aloud:
+Read the following aloud as Melannor reaches the garden wall:
 
 > [!readaloud]
 >
@@ -285,11 +285,11 @@ Read the following aloud:
 > - **Loss rule:** an order to attack the Watch, a Lord or a creature that has surrendered is refused, and the task is spent.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the compact waits until the Renown is restored.
 >
-> A beast that fights adds its Power only while it fights. A CR 2 beast adds 23 at levels 5 to 10, and a CR 1 beast adds 17. A CR 1/2 beast adds 12, and a CR 0 beast adds 1. From level 11, the figures are 19, 15, 7 and 0. A task that avoids combat adds nothing.
+> A beast that fights adds its Power only while it fights. A CR 2 beast adds 23 at levels 5 to 10, and a CR 1 beast adds 17. A CR 1/2 beast adds 12, and a CR 0 beast adds 1. From level 11, the figures are 19, 15, 7 and 0, and a task that avoids combat adds nothing.
 
 ### The Illuun Watch
 
-Melannor asks to speak with the member alone. Companions wait by the oak, and the six go back to the clearing. Read the following aloud:
+Melannor asks to speak with the member alone. Companions wait by the oak, and the six go back to the clearing. Read the following aloud as he leads the member away:
 
 > [!readaloud]
 >
@@ -355,7 +355,7 @@ If the member declines, read the following:
 
 ### Leaving Phaulkonmere
 
-Melannor opens the east gate for the member and the companions. Read the following aloud:
+Melannor opens the east gate for the member and the companions. Read the following aloud as the party leaves:
 
 > [!readaloud]
 >
