@@ -138,9 +138,9 @@ Each night every character chooses a post and holds it from sunset to sunrise, a
 
 > [!exploration]**The Three Posts**
 >
-> - **The northeast wall.** The iron railing is bent outward at one gap, and a character here sees the skeletons come in on nights 4, 6 and 8 and can step into their way.
-> - **The mausoleum row.** The Halleth, Corlan and Tessenden stand in a line between the wall and the grove, and a character here sees the open doors and the emptied shelves and meets the skeletons as they pass.
-> - **The Brandath grove.** The Watch station is here, and a character at this post sees the skeletons stop and turn on nights 4, 6 and 8 and can speak with the officers.
+> - **The northeast wall.** The iron railing is bent outward at one gap. A character here sees the skeletons come in on nights 4, 6 and 8 and can step into their way.
+> - **The mausoleum row.** The Halleth, Corlan and Tessenden stand in a line between the wall and the grove. A character here sees the open doors and the emptied shelves and meets the skeletons as they pass.
+> - **The Brandath grove.** The Watch station is here. A character at this post sees the skeletons stop and turn on nights 4, 6 and 8 and can speak with the officers.
 >
 > On skeleton nights, characters at the wall and the grove join the characters on the row when the skeletons arrive, and the whole party fights together. A character who leaves a post empty on a skeleton night sees nothing of that night's path.
 
@@ -148,7 +148,7 @@ Each night every character chooses a post and holds it from sunset to sunrise, a
 >
 > Officer Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) :: two City Watch officers on the late shift, who are bored, cold and glad of company.
 >
-> Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check, and they have no idea why the north is wrong and say so.
+> Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check. They have no idea why the north is wrong and say so.
 >
 > The officers are willing to discuss the following topics:
 >
@@ -160,7 +160,7 @@ Each night every character chooses a post and holds it from sunset to sunrise, a
 >
 > Terrow turns the ledger toward you on her knee.
 >
-> > "There are seven entries since the thaw, and each one is frost on the grove side of the path with no cause, footprints in it, and a cold patch by the doors. Every entry is the same stretch of ground."
+> > "There are seven entries since the thaw. Each one is frost on the grove side of the path with no cause, footprints in it, and a cold patch by the doors. Every entry is the same stretch of ground."
 
 > [!qna]**Have you seen anything walk?**
 >
@@ -191,11 +191,11 @@ Skeletons walk in on nights 4, 6 and 8, and on the other nights nothing moves. O
 > - Stop at the edge of the grove for one round, then turn and walk back the way they came.
 > - Take double damage from bludgeoning, so a mace or a club kills one in a single good hit.
 >
-> The patrol ends when every skeleton is destroyed, or when the survivors reach the northeast wall and climb out, going inert on the road outside, and a skeleton that leaves takes its bones with it.
+> The patrol ends when every skeleton is destroyed, or when the survivors reach the northeast wall and climb out, going inert on the road outside. A skeleton that leaves takes its bones with it.
 >
-> A party that stands clear takes no damage, since the skeletons do not leave the path, and the only cost is that **Bones Kept Safe** is lost. Skeletons do not surrender and do not flee.
+> A party that stands clear takes no damage, since the skeletons do not leave the path. The only cost is that **Bones Kept Safe** is lost. Skeletons do not surrender and do not flee.
 
-On night 4 the party sees the path for the first time. On night 6, a character who watched on night 4 can match the entry point, the route and the pause, and on night 8 the sequence is the same and the party can see that nothing varies.
+On night 4 the party sees the path for the first time. On night 6, a character who watched on night 4 can match the entry point, the route and the pause. On night 8 the sequence is the same, and the party can see that nothing varies.
 
 ### The Pattern
 
@@ -204,12 +204,12 @@ Three independent routes show that the skeletons are going to the Brandath crypt
 > [!exploration]**Three Routes to the Pattern**
 >
 > - **The skeletons' path.** Any character who has seen two skeleton nights and makes a successful DC 12 Intelligence (Investigation) check writes down the entry point at the wall, the route along the row, the one-round pause at the grove's edge and the turn. A character who writes the notes after each skeleton night needs no check after the third.
-> - **Ambrose's account.** From night 5 on, Ambrose reports at dawn that the south is quiet and that the wrongness lies north and a little east of the middle. A character who asks him to mark the three emptied mausoleums on the cemetery plan sees that all three stand on a line toward the Brandath grove, and no check is needed.
+> - **Ambrose's account.** From night 5 on, Ambrose reports at dawn that the south is quiet and that the wrongness lies north and a little east of the middle. A character who asks him to mark the three emptied mausoleums on the cemetery plan sees that all three stand on a line toward the Brandath grove. No check is needed.
 > - **The Watch ledger.** The seven entries in the officers' ledger all describe frost, footprints and cold on the grove side of the path. A character who reads the ledger and makes a successful DC 11 Intelligence (Investigation) check sees that each entry points at the doors.
 >
-> **Result of 16 or higher on the first route:** The character also notes that the skeletons stop at a line on the ground and not at the doors, and the line lies beneath the roots of the largest elm.
+> **Result of 16 or higher on the first route:** The character also notes that the skeletons stop at a line on the ground and not at the doors. The line lies beneath the roots of the largest elm.
 
-The pattern is documented when the party has put any one of these routes before both Ambrose and Melannor before the tenth night begins, and Ambrose hears it at any dawn meeting.
+The pattern is documented when the party has put any one of these routes before both Ambrose and Melannor before the tenth night begins. Ambrose hears it at any dawn meeting.
 
 ### Reporting to Melannor
 
@@ -237,8 +237,8 @@ The tenth night closes at dawn with the party at the central gate path. Nothing 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins; read by **The Final Dawn**, where Ambrose names the Brandath crypt unasked.
-> - **Bones Kept Safe** — mark when every skeleton that walked in on nights 4, 6 and 8 was destroyed inside the grounds, so that none left with its bones; read by **The Final Dawn**, which reads it for Melannor's debrief and the Renown bonus.
+> - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins. Read by **The Final Dawn**, where Ambrose names the Brandath crypt unasked.
+> - **Bones Kept Safe** — mark when every skeleton that walked in on nights 4, 6 and 8 was destroyed inside the grounds, so that none left with its bones. Read by **The Final Dawn**, which reads it for Melannor's debrief and the Renown bonus.
 > - **Jeryth's Message Received** — mark for each member who hears Melannor relay her reply; read by **The Dreamer's Reach** and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**

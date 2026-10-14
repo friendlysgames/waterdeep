@@ -46,7 +46,7 @@
 
 > [!exploration]**A Druid's Messenger**
 >
-> Any character who watches the cat leave and makes a successful **DC 12 Intelligence (Arcana)** check recognizes *Animal Messenger*, a druid's spell, and knows that the caster must have visited Trollskull Alley and named it. A character who fails still has everything needed to find the gate, because the message gives the estate and the ward. Anyone at the Yawning Portal can point the way to Phaulkonmere.
+> Any character who watches the cat leave and makes a successful **DC 12 Intelligence (Arcana)** check recognizes *Animal Messenger*, a druid's spell. That character also knows that the caster must have visited Trollskull Alley and named it. A character who fails still has everything needed to find the gate. The message gives the estate and the ward, and anyone at the Yawning Portal can point the way to Phaulkonmere.
 
 ### The Open Gate
 
@@ -69,17 +69,17 @@
 
 > [!gamemaster]**Talisolvanar**
 >
-> This line pays off the introduction of Tally Fellbranch in **The Neighbors**, where the party does not yet know he has a brother, and Melannor calls him Talisolvanar every time. Any character can answer him, and if someone says Tally is mending the door frames at the manor, Melannor nods and says:
+> This line pays off the introduction of Tally Fellbranch in **The Neighbors**, where the party does not yet know he has a brother. Melannor calls him Talisolvanar every time. Any character can answer him, and if someone says Tally is mending the door frames at the manor, Melannor nods and says:
 >
 > > "Good, I am glad to hear it. Talisolvanar should visit when his work in the alley allows it."
 >
-> If a character jokes about the name or the visit, Melannor answers the joke literally, with "That is not humorous." and a plain account of why Tally has not come, since he has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
+> If a character jokes about the name or the visit, Melannor answers the joke literally, with "That is not humorous." and a plain account of why Tally has not come. Tally has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
 
 ### The Walk with Melannor
 
 > [!gamemaster]**The Groundskeeper**
 >
-> Melannor leads the party along the paths toward the oak at an even pace, and he stops at a bed of roses or a wall of ivy whenever a question needs an answer. He is friendly and humorless, speaks in full sentences without contractions, and never laughs or swears. Companions and characters who belong to other factions can walk with the candidates and ask their own questions.
+> Melannor leads the party along the paths toward the oak at an even pace. He stops at a bed of roses or a wall of ivy whenever a question needs an answer. He is friendly and humorless, speaks in full sentences without contractions, and never laughs or swears. Companions and characters who belong to other factions can walk with the candidates and ask their own questions.
 
 > [!readaloud]
 >
@@ -148,7 +148,7 @@
 >
 > > "I do not know that name from anything the animals have told me in all this time. Shall we walk on together?"
 >
-> If a player asks about the house one block north, Melannor answers "I do not discuss my neighbours." and walks on without looking in that direction, and nobody in this Event says what the building is.
+> If a player asks about the house one block north, Melannor answers "I do not discuss my neighbours." and walks on without looking in that direction. Nobody in this Event says what the building is.
 
 > [!exploration]**His Sentences Trail Off**
 >
@@ -205,7 +205,7 @@
 
 > [!exploration]**The Leaves Go Still**
 >
-> Any character who listens while Jeryth speaks of what lies below and makes a successful **DC 13 Wisdom (Perception)** check sees every leaf on the oak stop moving for a breath on the word "below". The pause happens whether or not the character notices it. A character who fails learns nothing extra, and the garden is calm again by the next sentence.
+> Any character who listens while Jeryth speaks of what lies below and makes a successful **DC 13 Wisdom (Perception)** check sees every leaf on the oak stop moving for a breath on the word "below". The pause happens whether or not the character notices it. A character who fails learns nothing extra. The garden is calm again by the next sentence.
 
 ### Each Candidate's Answer
 
@@ -233,7 +233,7 @@ If a candidate declines or asks for more time, read or paraphrase the following:
 >
 > > "I understand your answer. The gate will stay open, and you are welcome to walk in the garden whenever you wish. If you change your mind, come and tell me so."
 
-A candidate who returns later is recorded the same way. The gate is open when they arrive, Melannor repeats the offer in a few sentences, and Jeryth speaks once, so the charm and the haven are given as above.
+A candidate who returns later is recorded the same way. The gate is open when they arrive, and Melannor repeats the offer in a few sentences. Jeryth speaks once, and the charm and the haven are given as above.
 
 > [!gamemaster]**Springwarden Benefits**
 >
@@ -270,7 +270,7 @@ A candidate who returns later is recorded the same way. The gate is open when th
 >
 > This benefit belongs to the party, not to the members, because Trollskull Manor is a shared holding. It is given once, when the first candidate accepts, and later acceptances do not repeat it. Melannor mentions it on the walk back to the gate, and it costs the party nothing.
 >
-> - **The druids:** Within a tenday of the meeting, two Enclave druids arrive at Trollskull Manor on a morning the party names. Using *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape*, they dig out the flooded cellar, drain the courtyard, reseat the loose foundation stones and clear the overgrowth in a single day.
+> - **The druids:** Within a tenday of the meeting, two Enclave druids arrive at Trollskull Manor on a morning the party names. Using *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape*, they dig out the flooded cellar, drain the courtyard and reseat the loose foundation stones. They also clear the overgrowth, and the whole work takes a single day.
 > - **The timber:** The Enclave donates seasoned timber for the frames and floors, and Tally Fellbranch lays it at no charge to the party.
 > - **The saving:** The renovation total of Trollskull Manor drops by **250 gp**, and the saving is applied once.
 > - **The oak:** The druids ask the party to leave the oak in the courtyard undisturbed and to allow silverbark to grow on it. The ask is a request and not a condition, and the help is given whatever the party answers.
@@ -299,7 +299,13 @@ The meeting ends when the last candidate leaves Phaulkonmere, and no assignment 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Emerald Enclave Joined** — mark for each character who accepts the Enclave's offer, whether at the first meeting or on a later visit to the gate, and record the character's name. The member is at Renown 1 with the Springwarden rank. Read by the **Emerald Enclave** Factions Guide page, by every Emerald Enclave faction event beginning with **The Undercliff Scarecrows**, by **A Seat at Phaulkonmere**, by **The Factions Come Calling** (unconverted, and its row still writes a True or False heading) and by **Contact Severed** in the Bregan D'aerthe set, which lists this Event as a way for a severed character to join another faction. Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
+> - **Emerald Enclave Joined** — mark for each character who accepts the Enclave's offer, whether at the first meeting or on a later visit to the gate, and record the character's name. The member is at Renown 1 with the Springwarden rank. Readers are:
+>   - the **Emerald Enclave** Factions Guide page;
+>   - every Emerald Enclave faction event beginning with **The Undercliff Scarecrows**, and **A Seat at Phaulkonmere**;
+>   - **The Factions Come Calling** (unconverted, and its row still writes a True or False heading);
+>   - **Contact Severed** in the Bregan D'aerthe set, which lists this Event as a way for a severed character to join another faction.
+>
+>   Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
 
 > [!gamemaster]**Next Steps**
 >

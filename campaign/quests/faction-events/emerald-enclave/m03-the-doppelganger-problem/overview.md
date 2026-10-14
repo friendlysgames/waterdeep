@@ -20,7 +20,7 @@ A falcon finds each eligible Emerald Enclave member with a message from Melannor
 
 Bonnie has poured drinks at the Yawning Portal for over a year. She leads five doppelgangers who live on honest wages: herself, Edric Tanner, Kael, Syla and the Scholar. Melannor's animals learned what she is, and the Enclave will not leave a crew that reads minds in the one room where every faction in the city talks.
 
-Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick. Kelso buys stolen information and sells it to whoever pays. Bonnie traced the payments three weeks ago and has told nobody.
+Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick, who buys stolen information and sells it to whoever pays. Bonnie traced the payments three weeks ago and has told nobody.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -36,7 +36,7 @@ The party reaches Bonnie in one of three ways: by asking her openly at the bar, 
 
 ## The Back Room
 
-Bonnie drops her tavern voice and answers plainly. She reads surface thoughts, so a character who names what leaving would cost her gets further than one who pushes.
+Bonnie drops her tavern voice and answers plainly, and because she reads surface thoughts, a character who names what leaving would cost her gets further than one who pushes.
 
 ## The Traitor
 
@@ -48,11 +48,11 @@ Bonnie agrees to take the crew out of Waterdeep within two tendays. If she serve
 
 ## The Receipt
 
-Three days after the grace period ends, a dove brings a folded note to Trollskull Manor with three dots in a triangle. Melannor calls it a receipt.
+Three days after the grace period ends, a dove brings a folded note with three dots in a triangle to Trollskull Manor, and Melannor calls it a receipt when a member shows it to him.
 
 ## Renown Opportunities
 
-Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie and reporting to Melannor. Companions gain none, and each bonus can be earned only once.
+Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie and reporting to Melannor. Companions gain none, and each of the three bonuses below can be earned only once.
 
 - **+1 Renown:** Edric is named and Bonnie gives the buyer's name.
 - **+1 Renown:** the departure is settled without violence, with Bonnie leaving or staying as the outcome falls.
@@ -60,7 +60,7 @@ Each participating Emerald Enclave member gains 3 base Renown for meeting Bonnie
 
 ## Aftermath
 
-Bonnie leaves with the crew at the end of the second tenday, unless the party won her a reprieve, in which case she stays at the Portal. Edric is out of the crew either way. Kelso Fiddlewick sold the names to someone, and he will not say whom. **The Grells in the Dock Ward** becomes available when an individual Emerald Enclave member reaches Renown 8 and 5th level.
+Bonnie leaves with the crew at the end of the second tenday, unless the party won her a reprieve, in which case she stays at the Portal. Edric is out of the crew either way, and Kelso Fiddlewick sold the names to someone he will not name. **The Grells in the Dock Ward** becomes available when an individual Emerald Enclave member reaches Renown 8 and 5th level.
 
 ## Involved Characters
 
@@ -73,7 +73,7 @@ Bonnie leaves with the crew at the end of the second tenday, unless the party wo
 
 ## Dangers & Enemies
 
-No combat unless a character lays hands on Edric. He fights alone, flees at half his hit points and surrenders when cornered. Bonnie never fights. If steel is drawn on her, she shifts and leaves, and the crew goes with her.
+There is no combat unless a character lays hands on Edric, who fights alone, flees at half his hit points and surrenders when cornered. Bonnie never fights, and if steel is drawn on her she shifts and leaves while the crew goes with her.
 
 ## Overview
 
