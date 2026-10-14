@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social and Exploration Event begins when Melannor Fellbranch reaches Trollskull Manor in person and ends when the party stands at the door of the warehouse on the south quay. In this Event, the party can:
+> This Social and Exploration Event begins when Melannor Fellbranch reaches Trollskull Manor in person and ends at the door of the south-quay warehouse. In this Event, the party can:
 >
 > - Hear Melannor's brief in the taproom and learn who has been taken and why he did not send an animal.
 > - Question the harbor master's aide and the pier hands about the three disappearances.
@@ -34,7 +34,7 @@ Melannor reaches Trollskull Manor at 08:00, while the taproom is still being swe
 >
 > Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humorless groundskeeper of Phaulkonmere, who has come to the party himself because no animal can carry what he needs to say.
 >
-> Melannor speaks in full sentences with no contractions, and his voice does not change when the news is bad. He is afraid for the woman in the nest, and the only sign is that he answers each question the moment it is asked. He calls each member by name and answers a joke by explaining why it is untrue. He walks to the warehouse and no farther.
+> Melannor speaks in full sentences with no contractions, and his voice does not change when the news is bad. He is afraid for the woman in the nest and answers each question the moment it is asked. He calls each member by name and answers a joke by explaining why it is untrue. He walks to the warehouse and no farther.
 >
 > Melannor is willing to discuss the following topics:
 >
@@ -72,14 +72,14 @@ The south quay is a half-hour walk from Trollskull Manor. Three leads each name 
 
 > [!exploration]**The Pier and the Aide**
 >
-> Any character who questions Wenna Droit, the harbor master's aide, and the hands on Pier 17, and makes a successful DC 14 Intelligence (Investigation) check, learns that all three people vanished within sight of the south quay. Wenna has logged a smell of lightning from a closed salt-store at the end of it for three days. She adds that the building has a cargo-hoist platform above its stacks.
+> Any character who questions the hands on Pier 17 and makes a successful DC 14 Intelligence (Investigation) check learns that all three people vanished near the south quay. Wenna Droit, the harbor master's aide, has logged a smell of lightning from a closed salt-store at the quay's end for three days. She adds that the building has a cargo-hoist platform above its stacks.
 >
-> - **Character says the Watch has ignored her log:** The character has Advantage on this check, because Wenna has wanted someone to say so.
+> - **Character tells Wenna the Watch has ignored her log:** The character has Advantage on this check, because Wenna has wanted someone to say so.
 > - **On a failure:** Wenna is busy with a ship's clearance, and the pier hands will not talk to strangers about it. The character can try again after an hour at the pier, or leave the building to the other two leads.
 
 > [!exploration]**The Smell and the Cats**
 >
-> Any character who walks the south quay and makes a successful DC 14 Wisdom (Survival) check ties the smell of ozone, the missing cats and a pair of overturned crates to the salt-store at the end of the quay. The cats that normally prowl the warehouses are gone, and the crates lie at the harbor-side doors, where one loading leaf hangs open.
+> Any character who walks the quay and makes a successful DC 14 Wisdom (Survival) check traces the smell of ozone and the missing cats to the salt-store. The cats that normally prowl the warehouses are gone. Overturned crates lie at the harbor-side doors, where one loading leaf hangs open.
 >
 > - **Character casts *Speak with Animals* on a gull:** The character succeeds automatically. The gull says the birds will not land on that roof because the air there bites.
 > - **On a failure:** The wind off the harbor carries the smell everywhere, and the character cannot say which building it comes from.

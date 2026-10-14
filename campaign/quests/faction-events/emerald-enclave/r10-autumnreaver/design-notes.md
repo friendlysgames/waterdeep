@@ -14,11 +14,19 @@ The restored draft sent the routes into Undermountain's upper levels with no des
 
 ## Departures from the Source
 
-Melannor still arrives at the door in person, and he now waits for a member who is away. "Once per arc" in Appendix B becomes once per quest, as the restored draft already had it. The twelve years of maintenance and the three-lines-over-a-leaf mark are kept. The restored draft's remark that the routes avoid the Watch and every faction becomes a loss rule, so a member who leads a pursuer down loses the route for a tenday.
+Melannor still arrives at the door in person, and he now waits for a member who is away. "Once per arc" in Appendix B becomes once per quest, as the restored draft already had it. The twelve years of maintenance and the three-lines-over-a-leaf mark are kept. The restored draft said the routes avoid the Watch and every faction. That becomes a loss rule, and a member who leads a pursuer down loses the route for a tenday.
 
 ## Invented Names and Open Items
 
-Invented: the seedlings, the nine o'clock visit, the oiled cloth and three leaves of the sprig, Jeryth's spell save DC of 15 and spell attack bonus of +7, the one-day notice for the beast, the travel times of two, three and one and a half hours, the arch and door where the Sea Ward and Dock Ward routes meet areas 3 and 5, the dyers' vats, the fishmeal sacks used as bait and the tenday for a sealed entrance. The ruling that the city's cellars and sewers count as the surface for the sprig is a ruling made in this draft, because the mechanics reference says only "surface".
+Invented in this draft:
+- The seedlings, the nine o'clock visit, and the oiled cloth and three leaves of the sprig.
+- Jeryth's spell save DC of 15 and spell attack bonus of +7.
+- The one-day notice for the beast.
+- Travel times of two, three and one and a half hours.
+- The arch and door where the Sea Ward and Dock Ward routes meet areas 3 and 5.
+- The dyers' vats, the fishmeal sacks used as bait and the tenday for a sealed entrance.
+
+The city's cellars and sewers count as the surface for the sprig, because the mechanics reference says only "surface".
 
 For the out-of-scope log:
 - `campaign/guides/factions/04-emerald-enclave.md:55` still says "any druid spell of 5th level or lower" and does not say the Giant Eagle is a Celestial.

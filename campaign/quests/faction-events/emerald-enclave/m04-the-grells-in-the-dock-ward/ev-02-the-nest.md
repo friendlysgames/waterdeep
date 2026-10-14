@@ -225,13 +225,13 @@ Mirsa wakes at dusk and asks for the people who brought her out. Companions may 
 
 ### Whom to Tell
 
-Mirsa asks what the party will do with her account. The party chooses one of three answers, and Melannor does not press for either.
+Mirsa asks what the party will do with her account. The party chooses among three answers, and Melannor leaves the choice to it.
 
 > [!exploration]**Who Hears It**
 >
 > - **Nobody:** Mirsa goes home. The Guild agent never learns what she overheard, and nothing is marked.
 > - **Melannor alone:** He thanks the party, writes it down, and sends the Enclave's animals to watch Pier 17 for two nights. Mark **Pier 17 Investigated**.
-> - **Melannor and the Watch:** Melannor says the Watch will listen if Mirsa reports for herself. A member who takes her to the Dock Ward post the next morning hears her tell it to the duty sergeant, with no check. Mark **Pier 17 Investigated**, and the Watch posts two constables on Pier 17 for a tenday.
+> - **Melannor and the Watch:** Melannor says the Watch will listen if Mirsa reports for herself. A character who takes her to the Dock Ward post the next morning hears her tell it to the duty sergeant, with no check. Mark **Pier 17 Investigated**, and the Watch posts two constables on Pier 17 for a tenday.
 
 Read the following aloud at the post:
 
@@ -296,7 +296,7 @@ If both grells were destroyed, he adds the following instead:
 Two days after the nest, Melannor walks to Trollskull Manor at 08:00 and gives the members what the animals have learned.
 
 - **Grell Escaped:** The grell went under the south quay and into the Guild's tunnel. The crew has stopped work on that stretch. The grell, or both if the party withdrew, goes back down to the Grell Hideout, and **Autumnreaver** reads it.
-- **Pier 17 Investigated:** The animals saw two flat-bottomed boats come under the pier after midnight, take crates down a hatch by rope and leave toward the harbor mouth, with two Guild soldiers waiting on the lowest stair. These are the boats of the cargo dock at X4 in **Xanathar's Lair**. If the Watch was told, the boats did not come while the constables stood on the pier.
+- **Pier 17 Investigated:** The animals saw two flat-bottomed boats come under the pier after midnight, take crates down a hatch by rope and leave toward the harbor mouth, with two Guild soldiers waiting on the lowest stair. These are the boats of the cargo dock at X4 in **Xanathar's Lair**. If the Watch was told, the boats stayed away on the second night.
 - **Mirsa Rescued:** Mirsa goes home to her shop in the Dock Ward. **The Fouled Channel** mentions her in a line.
 
 ### Concluding the Event

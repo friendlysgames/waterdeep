@@ -46,7 +46,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 >
 > The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and busy with morning carts. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. Melannor leads you along the gravel to the oldest oak, whose roots cross the path in front of its trunk.
 >
-> > "Welcome back, Autumnreaver. We will begin here, because the sprig is Jeryth's to give. Please wait until she has finished before you ask me anything."
+> > "Welcome back, Autumnreaver. We will begin here at the oldest oak, because the sprig is Jeryth's to give. Please wait until she has finished before you ask me anything."
 
 > [!social]**The Groundskeeper in Person**
 >
@@ -66,7 +66,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 >
 > Melannor holds up one finger for each benefit as he names it.
 >
-> > "Jeryth will cast one spell for you in each quest, through a sprig you will carry. One animal will work beside you in each quest. I will also give you a map of three routes under the city."
+> > "Jeryth will cast one spell for you in each quest, through a sprig you will carry. One animal from our paddock will work beside you in each quest. I will also give you a map of three routes under the city."
 
 > [!qna]**Why did you come yourself?**
 >
@@ -78,7 +78,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 
 > [!qna]**What happens if my Renown falls?**
 >
-> > "The rank stays with you, because you earned it. I will ask you to leave the sprig and the map at the gate. The animal will wait, and everything returns when your Renown does."
+> > "The rank stays with you, because you earned it. I will ask you to leave the sprig and the map with me at the gate. The animal will wait in the paddock, and everything returns when your Renown does."
 
 ### Jeryth's Sprig
 
@@ -140,12 +140,12 @@ Melannor stops beside the oldest oak, and Jeryth speaks. Read or paraphrase the 
 > - **The list, level 4:** *Stone Shape*.
 > - **The list, level 5:** *Greater Restoration*, *Mass Cure Wounds*, *Wall of Stone*, *Conjure Elemental* and *Contagion*. Jeryth supplies the diamond dust for *Greater Restoration*, which is worth 100 gp, and no other casting costs gold.
 > - **Not on the list:** *Revivify*, *Reincarnate* and every other spell that returns the dead. Jeryth answers a request for one with "No." and nothing is spent.
-> - **Loss rule:** a member who asks Jeryth to harm the Watch, a Lord or a creature that has surrendered loses the sprig for a tenday when Melannor hears of it.
+> - **Loss rule:** a member who asks Jeryth to harm the Watch, a Lord or a creature that has surrendered loses the sprig for a tenday. The loss begins when Melannor hears of it.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the sprig is suspended until the Renown is restored.
 
 > [!qna]**Can Jeryth bring someone back from the dead?**
 >
-> > "No. Jeryth casts nothing that returns the dead, and I did not ask her to."
+> > "No. Jeryth casts nothing that returns the dead, and I did not ask her to when we agreed on this list."
 
 ### The Paddock
 
@@ -165,7 +165,7 @@ Melannor leads the member north across the estate to the working paddock. Read o
 
 > [!qna]**Why can I not talk to the eagle?**
 >
-> > "The eagle is no animal of this world. It understands Common and cannot speak, and my spells for animals do not reach it."
+> > "The eagle is no animal of this world. It understands Common but cannot speak, and my spells for talking to animals do not reach it."
 
 > [!qna]**Can the bear eat the Watch?**
 >
@@ -184,14 +184,14 @@ Melannor leads the member north across the estate to the working paddock. Read o
 > - **Undermountain:** the beast crosses between levels only on foot, so the Giant Eagle walks down a stair or a ramp and never flies down a shaft.
 > - **Who else:** the beast takes orders from the member who called it and from nobody else. A companion cannot call it, and two members in one party each call their own.
 > - **If it falls:** Melannor suspends the benefit for a tenday and then replaces the beast once. The member chooses again from the paddock, and Melannor does not replace it a second time.
-> - **Loss rule:** a member who orders the beast to attack the Watch, a Lord or a surrendered creature loses the benefit for a tenday when Melannor hears of it. The beast refuses the order.
+> - **Loss rule:** a member who orders the beast to attack the Watch, a Lord or a surrendered creature loses the benefit for a tenday. The beast refuses the order, and the loss begins when Melannor hears of it.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the beast is withdrawn to the paddock until the Renown is restored.
 
 > [!gamemaster]**The Beast as an Ally**
 >
 > The member's beast uses the **Brown Bear**, **Dire Wolf** or **Giant Eagle** stat block. The Giant Eagle is a Large Celestial and not a Beast, so *Speak with Animals*, *Animal Messenger* and Wisdom (Animal Handling) checks do not work on it. It understands Common and Primordial and cannot speak.
 >
-> In CR 2.0 terms, each is a CR 1 ally with Power 22 for a party of levels 1 to 4, 17 for levels 5 to 10 and 15 for levels 11 and above, following the party's level. Add that to the party's Power when it fights and recalculate the encounter. The first-turn knockout bonus does not apply to allies. An ally who is on the way does not lower the difficulty.
+> In CR 2.0 terms, each is a CR 1 ally. Its Power follows the party's level: 22 for levels 1 to 4, 17 for levels 5 to 10 and 15 for levels 11 and above. Add that to the party's Power when it fights and recalculate the encounter. The first-turn knockout bonus does not apply to allies, and an ally who is on the way does not lower the difficulty.
 >
 > Count the beast in full when you build the encounter. With a beast at Tier 2, the party's Power for three, four or five characters is:
 >
@@ -222,7 +222,7 @@ Melannor leads the member back to the water trough at the edge of the paddock. R
 >
 > He draws a second copy from his coat, identical to the first, and holds it out.
 >
-> > "This copy is yours, and I would like you to keep it dry."
+> > "This copy is yours, and I would like you to keep it dry and out of sight."
 
 > [!readaloud]
 >
@@ -258,9 +258,9 @@ If **The Grells in the Dock Ward** has played and **Grell Escaped** is not marke
 >
 > Every route runs to **Level 1** of Undermountain and no deeper. Each entrance is a heavy grate or door, unlocked, with its hinges oiled and the three-lines-over-a-leaf mark cut into the lintel. The passages are wide enough for a Large beast to walk.
 >
-> - **The Sea Ward route:** the entrance is a drainage channel behind the dyers' district, where the water runs blue and red from the vats. The walk takes two hours and ends at a low arch in the east wall of area 3, the Slanted Room, a few steps from the mouth of its sloping tunnel. The floor there is wet and the water is shallow. A psychic gray ooze lies under the water north of the statue, and Melannor has already named it.
-> - **The Southern Ward route:** the entrance is a sealed iron door at the end of a service ledge in the deep cisterns. The walk takes three hours and ends in area 22, the Empty Room, which holds burned torch stubs and discarded potion bottles. Nothing lives there, and it is a place to rest.
-> - **The Dock Ward route:** the entrance is a sealed hatch in the floor of an abandoned fishmeal warehouse, where a few sacks of old meal still stand by the wall. The walk takes ninety minutes and ends at a narrow door in the south wall of area 5, the Grell Hideout. What the member finds there follows **Grell Escaped**, below.
+> - **The Sea Ward route:** the entrance is a drainage channel behind the dyers' district, where the water runs blue and red from the vats. The walk takes two hours. It ends at a low arch in the east wall of area 3, the Slanted Room, a few steps from the mouth of its sloping tunnel. The floor there is wet and the water is shallow, and a psychic gray ooze lies under it north of the statue.
+> - **The Southern Ward route:** the entrance is a sealed iron door at the end of a service ledge in the deep cisterns. The walk takes three hours and ends in area 22, the Empty Room, which holds burned torch stubs and discarded potion bottles. Nothing lives there, so the room makes a safe place to rest.
+> - **The Dock Ward route:** the entrance is a sealed hatch in the floor of an abandoned fishmeal warehouse, where a few sacks of old meal still stand by the wall. The walk takes ninety minutes. It ends at a narrow door in the south wall of area 5, the Grell Hideout, and what waits there follows **Grell Escaped**.
 >
 > The Dock Ward route reads **Grell Escaped**. If it is marked, area 5 holds the one grell that fled the warehouse, hungry and at full Hit Points. The roster for all three states is in the scene below.
 
@@ -272,7 +272,7 @@ If **The Grells in the Dock Ward** has played and **Grell Escaped** is not marke
 > - **Limit:** none per quest. A party that reaches Level 1 by a route cannot be pulled out by spell, because teleportation fails in Undermountain, so the party walks back.
 > - **Who else:** the member, any companions the member leads, and the member's beast. No faction's Response Team uses the routes or knows them.
 > - **Breach:** a member who finds an entrance broken, a route flooded or a creature in the way reports it at the gate. Melannor seals that entrance from below within a day, and it opens again after he has walked it, a tenday later.
-> - **Loss rule:** a member who leads the Watch, a Response Team or an enemy to an entrance, or lets one follow them down, loses that route for a tenday. Melannor seals it, and the other two stay open.
+> - **Loss rule:** a member who leads the Watch, a Response Team or an enemy to an entrance, or lets one follow them down, loses that route for a tenday. Melannor seals that entrance, and the other two stay open.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank. Melannor takes back the map and seals all three entrances until the Renown is restored.
 
 > [!qna]**Where do the routes end?**
@@ -304,7 +304,7 @@ This scene happens when a party first reaches area 5, never during this Event. R
 >
 > A grell flees at 27 Hit Points or fewer, unless it is holding a Paralyzed creature. It Dashes down the long hall away from the room, drops any creature it is grappling and does not return.
 >
-> **Non-combat route.** A character who throws a sack of the old fishmeal from the warehouse into an alcove (a Utilize action) draws that grell to feed for 1 minute. The party can cross along the south wall to the long hall during that minute, as long as nobody attacks the grell or comes within 10 feet of it. Each sack draws one grell.
+> **Non-combat route.** A character who throws a sack of the old fishmeal into an alcove (a Utilize action) draws that grell to feed for 1 minute. During that minute the party can cross along the south wall to the long hall. This works only if nobody attacks the grell or comes within 10 feet of it, and each sack draws one grell.
 
 ### Leaving Phaulkonmere
 
@@ -314,7 +314,7 @@ Melannor walks the member back along the gravel to the gate. Read or paraphrase 
 >
 > The gravel is loud under your boots, and the pigeons on the wall turn their heads as you pass. Melannor stops at the threshold and faces you with his hands clasped in front of him.
 >
-> > "The soil is uneasy. I would be glad if you kept to the routes I marked."
+> > "The soil is uneasy. I would be glad if you kept to the routes I marked, and came back up the same way."
 >
 > He goes back along the path toward the oak, and the pigeons on the wall follow him with their heads.
 
@@ -332,7 +332,7 @@ The Event concludes when the member has heard all three arrangements, has chosen
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Autumnreaver Reached** — mark with the recipient's name when Melannor names the rank at Phaulkonmere; read by **Winterstalker**, which checks it before naming the next rank. Track separately for each member the beast chosen and whether it has been replaced, the quest of the last sprig casting, the quest of the last beast operation and any route that is sealed.
+> - **Autumnreaver Reached** — mark with the recipient's name when Melannor names the rank at Phaulkonmere; read by **Winterstalker**, which checks it before naming the next rank. Track separately for each member the beast chosen and whether it has been replaced. Also track the quest of the last sprig casting, the quest of the last beast operation and any route that is sealed.
 >
 > This Event also reads **Summerstrider Reached** (the hold), **Grell Escaped** (the Dock Ward route), **East Gate Key Held** (the gate hours) and **Manshoon Named** (the speaker's wording).
 
@@ -346,4 +346,4 @@ Melannor Fellbranch comes to an Emerald Enclave member's door, names them an Aut
 
 ## Summary
 
-We were named Autumnreavers when Melannor came to the door himself and walked us to Phaulkonmere. Jeryth will cast one spell for each of us in every quest through a sprig of the oldest oak, and a bear, a wolf or an eagle will work beside us once in every quest. Melannor gave each of us a charcoal map of three routes under the city that end on the first level of the dungeon below the Yawning Portal.
+We were named Autumnreavers when Melannor came to the door himself and walked us to Phaulkonmere. Jeryth will cast one spell for each of us in every quest through a sprig of the oldest oak. A bear, a wolf or an eagle will work beside us once in every quest. Melannor gave each of us a charcoal map of three routes under the city, and they end on the first level of the dungeon below the Yawning Portal.
