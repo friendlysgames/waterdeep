@@ -25,7 +25,7 @@ A member who is away from Waterdeep or below the surface finds the owl at their 
 >
 > The owl turns its head once toward the street, then lifts off the sill and glides away over the roofs.
 
-> [!gamemaster]
+> [!gamemaster]**The Owl's Message**
 >
 > The message is 22 words, and anyone nearby hears it, so a companion at the table knows where the member is going. The owl carries no reply, and Melannor expects the member in the morning.
 
@@ -156,7 +156,7 @@ Jeryth speaks while the member and Melannor are still seated in the pavilion. Re
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who casts through a sprig because she cannot leave them.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who casts through a sprig because she cannot leave them.
 >
 > She speaks one or two short sentences at a time and never repeats them. Jeryth is Friendly and distant. The leaves move when she speaks, and the garden answers with a warm breeze. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
 >
@@ -211,7 +211,7 @@ Jeryth speaks while the member and Melannor are still seated in the pavilion. Re
 > - *Sunburst* (8th level): a blast of sunlight burns and blinds the creatures in a sphere at the place named.
 > - *Tsunami* (8th level): a wall of water rises at the place named.
 >
-> Spells of the 6th and 7th level are on neither list, so *Heal* and *Heroes' Feast* are not available. No spell that returns the dead is on either list, and neither is *Wish*. Jeryth answers a request for any of them with "No." and nothing is spent.
+> Spells of the 6th and 7th level are on neither list, so *Heal* and *Heroes' Feast* are not available. No spell that returns the dead is on either list. Jeryth answers a request for any of them with "No." and nothing is spent.
 
 > [!gamemaster]**Below the Surface**
 >
