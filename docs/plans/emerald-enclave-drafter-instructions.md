@@ -125,7 +125,8 @@ Every `prose-drafter` working on a Emerald Enclave folder follows this page firs
   - Readaloud: 18–20 words per sentence on average, place then people then motion, ending in motion.
   - GM text: 17–19 words on average, one instruction per sentence, bullets for procedures, under 5% of sentences at 7 words or fewer.
   - Speech: 11–14 words on average, each point made once, cut after four sentences. Every Force Grey drafter wrote speech at 7–10 words even when told the range; aim for the middle of the range.
-  - No readaloud or GM sentence past 28 words.
+  - No readaloud or GM sentence past 28 words. In wave 1, every rhythm pass that lengthened speech also pushed 10–25% of GM sentences past 30 words. Hit both ends: GM sentences sit at 15–24 words, not 30+.
+  - Every spoken line in a readaloud or qna is wrapped in "double quotes" (`> > "…"`), as on the DR/FG models. A quoted document, such as a journal page, stays unquoted.
   - Theatrics belong to the characters, never to the narration.
   - Real profanity at each profile's level:
     - Melannor and Jeryth never swear.
