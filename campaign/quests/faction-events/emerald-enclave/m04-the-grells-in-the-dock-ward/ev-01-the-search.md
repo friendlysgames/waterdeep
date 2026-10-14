@@ -32,7 +32,7 @@ Melannor reaches Trollskull Manor at 08:00, while the taproom is still being swe
 
 > [!social]**The Groundskeeper at the Door**
 >
-> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humorless groundskeeper of Phaulkonmere, who has come to the party himself because no animal can carry what he needs to say.
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humorless groundskeeper of Phaulkonmere, who has come to the party himself. No animal could carry everything he needs to say to the party.
 >
 > Melannor speaks in full sentences with no contractions, and his voice does not change when the news is bad. He is afraid for the woman in the nest and answers each question the moment it is asked. He calls each member by name and answers a joke by explaining why it is untrue. He walks to the warehouse and no farther.
 >
@@ -88,7 +88,9 @@ The south quay is a half-hour walk from Trollskull Manor. Three leads each name 
 >
 > Melannor drew the roofline of the south quay from a hired skiff the night before last, and he stayed on the water. The sketch shows four closed buildings, and only one has a gantry with a chain-hoist hanging from it. A character who walks the quay with the sketch matches it to the salt-store in about an hour and needs no check.
 >
-> A member can instead ask the Summerstrider network for the Dock Ward. The runner returns within the hour with the fixed entry from **Summerstrider** and one added line: "The salt-store at the end of the south quay has had no cart at its door in a tenday." If Tarsakh 20 has passed, the fixed entry also speaks of digging beneath the harbor, and Melannor says that matches what his animals reported. Before then the entry concerns another matter, and he says so.
+> A member can instead ask the Summerstrider network for the Dock Ward. The runner returns within the hour with the fixed entry from **Summerstrider** and one added line, which says the salt-store at the end of the south quay has had no cart at its door in a tenday.
+
+If Tarsakh 20 has passed, the fixed entry also speaks of digging beneath the harbor, and Melannor says that matches what his animals reported. Before then the entry concerns another matter, and he says so.
 
 Once the party has the building, read the following aloud as it comes into view:
 
@@ -114,7 +116,7 @@ The Event ends when the party opens the street door or enters by the open loadin
 
 ## Overview
 
-Melannor Fellbranch brings the party news of three disappearances at Pier 17, and the clues along the south quay lead to the warehouse where he believes the creatures nest.
+Melannor Fellbranch brings news of three disappearances at Pier 17, and clues along the south quay lead to the warehouse where he believes the creatures nest.
 
 ## Summary
 

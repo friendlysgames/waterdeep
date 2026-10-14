@@ -133,7 +133,7 @@ If Mirsa died, read the following aloud instead of the first branch:
 >
 > Melannor looks at what you carry, and his voice does not change.
 >
-> > "Then we will see that she is buried well. Lay her on the cart, and tell me what you saw."
+> > "Then we will see that she is buried well. Lay her gently on the cart, and tell me everything you saw inside."
 
 ### The Open Gate
 
@@ -170,11 +170,11 @@ The cart reaches Phaulkonmere in the Southern Ward in about two hours, with Mela
 >
 > Jeryth gives a *charm of heroism* to each character who fought the grells, member or not. A character fought if they were inside the salt-store while a grell was in the fight and attacked, defended, freed Mirsa or carried her. The character feels a warmth gather in the palm and fade, and no object appears.
 >
-> - **Using it:** The holder takes a Magic action and gains the benefit of a *potion of heroism*, which is 10 Temporary Hit Points and the effect of *Bless* for 1 hour with no Concentration. The charm then vanishes.
+> - **Using it:** The holder takes a Magic action and gains the benefit of a *potion of heroism*. That is 10 Temporary Hit Points and the effect of *Bless* for 1 hour with no Concentration, and then the charm vanishes.
 > - **Who:** Only the holder can use it. It cannot be lent, traded or given away, and a second charm is never given.
-> - **Loss rule:** The charm has no Renown condition. A companion who leaves the party keeps it.
+> - **Loss rule:** The charm has no Renown condition, and a companion who leaves the party keeps it.
 
-Members take a Long Rest in the garden under the haven rules, and companions rest with them. Mirsa is put to bed in the villa. Melannor tells the members that he will hear their report at noon tomorrow, after Mirsa has spoken.
+Members take a Long Rest in the garden under the haven rules, and companions rest with them while Mirsa is put to bed in the villa. Melannor tells the members that he will hear their report at noon tomorrow, after Mirsa has spoken.
 
 ### Mirsa's Account
 
@@ -202,11 +202,11 @@ Mirsa wakes at dusk and asks for the people who brought her out. Companions may 
 
 > [!qna]**What happened at Pier 17?**
 >
-> > "I was waiting for my coin when a man paid two dockhands to clear off the pier for the night. It was five gold each. He said it was all handled."
+> > "I was waiting for my coin when a man paid two dockhands to clear off the pier for the night. It was five gold each, which is a lot to be paid for doing nothing, and he told them it was all handled."
 
 > [!qna]**Who were the dockhands?**
 >
-> > "Garrit Moll and Tobiah Fenn. They drink at the tavern on the quay most nights. They took the money and went, and neither one looked back at me."
+> > "I know them both by sight, Garrit Moll and Tobiah Fenn. They drink at the tavern on the quay most nights. They took the money and went, and neither one looked back at me."
 
 > [!qna]**What did the other man look like?**
 >
@@ -218,7 +218,7 @@ Mirsa wakes at dusk and asks for the people who brought her out. Companions may 
 
 > [!exploration]**If Mirsa Died**
 >
-> Her account is lost, but Garrit Moll and Tobiah Fenn can give the same facts. Any character who finds them at the quay tavern and makes a successful DC 13 Charisma (Persuasion or Intimidation) check hears about the payment, the grey-coated man and the boats under the pier. Putting 10 gp on the table gives Advantage.
+> Her account is lost, but Garrit Moll and Tobiah Fenn can give the same facts. Any character who finds them at the quay tavern and makes a successful DC 13 Charisma (Persuasion or Intimidation) check hears their story. It covers the payment, the grey-coated man and the boats under the pier, and putting 10 gp on the table gives Advantage on the check.
 >
 > - **On a failure:** The dockhands say only that they were paid to take the night off. The character can try again the next evening.
 > - **The Watch:** Neither man will repeat his story to the Watch, so the third Renown bonus is out of reach.
@@ -229,7 +229,7 @@ Mirsa asks what the party will do with her account. The party chooses among thre
 
 > [!exploration]**Who Hears It**
 >
-> - **Nobody:** Mirsa goes home. The Guild agent never learns what she overheard, and nothing is marked.
+> - **Nobody:** Mirsa goes home, the Guild agent never learns what she overheard, and nothing is marked.
 > - **Melannor alone:** He thanks the party, writes it down, and sends the Enclave's animals to watch Pier 17 for two nights. Mark **Pier 17 Investigated**.
 > - **Melannor and the Watch:** Melannor says the Watch will listen if Mirsa reports for herself. A character who takes her to the Dock Ward post the next morning hears her tell it to the duty sergeant, with no check. Mark **Pier 17 Investigated**, and the Watch posts two constables on Pier 17 for a tenday.
 
@@ -237,7 +237,7 @@ Read the following aloud at the post:
 
 > [!readaloud]
 >
-> The Dock Ward Watch post smells of wet wool and lamp oil, and a duty sergeant looks up from his ledger as Mirsa comes through the door on a stranger's arm. She puts both palms flat on his desk.
+> The Dock Ward Watch post smells of wet wool and lamp oil, and a duty sergeant sits at a ledger behind a long desk. He looks up as Mirsa comes through the door on a stranger's arm, and she puts both palms flat on the wood.
 >
 > > "I was on Pier 17 three nights ago, and I heard a man pay two dockhands to leave it. Write that down, love, every word, and then tell me the Watch isn't interested."
 >
@@ -249,9 +249,9 @@ The members report to Melannor in the garden at noon the next day, and companion
 
 > [!readaloud]
 >
-> Melannor kneels in the herb bed at the foot of the oak, and he sits back on his heels with a handful of cut mint when you cross the lawn. Behind him the leaves move in a wind you cannot feel.
+> Melannor kneels in the herb bed at the foot of the oak with a handful of cut mint. He sits back on his heels when you cross the lawn, and behind him the leaves move in a wind you cannot feel.
 >
-> > "Report. I wish to hear what you found in the warehouse, and what Mirsa said."
+> > "Please report to me. I wish to hear what you found in the warehouse, and what Mirsa said."
 
 If **Mirsa Rescued** is marked, read the following aloud:
 
@@ -259,7 +259,7 @@ If **Mirsa Rescued** is marked, read the following aloud:
 >
 > Melannor listens to the end without moving, then nods once.
 >
-> > "Mirsa is awake and has asked for her needle case. That is all I wished to hear, and I thank you."
+> > "Mirsa is awake this morning and has asked for her needle case. That is all I wished to hear, and I thank you for it."
 
 If Mirsa died, read the following aloud instead:
 
@@ -279,25 +279,23 @@ If both grells were destroyed, he adds the following instead:
 
 > [!readaloud]
 >
-> > "Then the quay is clear, and the cats may return to it. I will tell the animals."
+> > "Then the quay is clear, and the cats may return to it when they are ready. I will tell the animals so."
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Emerald Enclave member gains 3 base Renown for reporting to Melannor, whether Mirsa lived or not. Companions gain none. Each eligible member also gains the following bonuses when the party meets their conditions:
+> Each participating Emerald Enclave member gains 3 base Renown for reporting to Melannor, whether Mirsa lived or not. Companions gain none, and each bonus can be earned only once. Each eligible member also gains the following bonuses when the party meets their conditions:
 >
 > - **+1 Renown:** Mirsa was freed before either grell fled.
 > - **+1 Renown:** both grells were destroyed.
 > - **+1 Renown:** Mirsa's account of Pier 17 was reported to Melannor and to the Watch.
->
-> Each bonus can be earned only once.
 
 ### Aftermath
 
 Two days after the nest, Melannor walks to Trollskull Manor at 08:00 and gives the members what the animals have learned.
 
-- **Grell Escaped:** The grell went under the south quay and into the Guild's tunnel. The crew has stopped work on that stretch. The grell, or both if the party withdrew, goes back down to the Grell Hideout, and **Autumnreaver** reads it.
-- **Pier 17 Investigated:** The animals saw two flat-bottomed boats come under the pier after midnight, take crates down a hatch by rope and leave toward the harbor mouth, with two Guild soldiers waiting on the lowest stair. These are the boats of the cargo dock at X4 in **Xanathar's Lair**. If the Watch was told, the boats stayed away on the second night.
-- **Mirsa Rescued:** Mirsa goes home to her shop in the Dock Ward. **The Fouled Channel** mentions her in a line.
+- **Grell Escaped:** The grell went under the south quay and into the Guild's tunnel, and the crew has stopped work on that stretch. The grell, or both if the party withdrew, goes back down to the Grell Hideout, and **Autumnreaver** reads it.
+- **Pier 17 Investigated:** The animals saw two flat-bottomed boats come under the pier after midnight and take crates down a hatch by rope. Two Guild soldiers waited on the lowest stair while the boats loaded, and then the boats left toward the harbor mouth. These are the boats of the cargo dock at X4 in **Xanathar's Lair**, and if the Watch was told, the boats stayed away on the second night.
+- **Mirsa Rescued:** Mirsa goes home to her shop in the Dock Ward, and **The Fouled Channel** mentions her in a line.
 
 ### Concluding the Event
 
@@ -306,12 +304,12 @@ The members' report to Melannor ends the mission, and the three outcomes below a
 > [!gamemaster]**Event Outcomes**
 >
 > - **Mirsa Rescued** — mark when Mirsa leaves the salt-store alive; read by **The Fouled Channel**, where Melannor mentions her in one line.
-> - **Grell Escaped** — mark when a grell flees through the open leaf, or when the party withdraws with a grell alive; read by the Aftermath of this Event, and by **Autumnreaver**, where the Dock Ward route leads to a grell in the Grell Hideout.
-> - **Pier 17 Investigated** — mark when the party gives Mirsa's account, or the dockhands', to Melannor; read by **Xanathar's Lair** (unconverted), as a casing aid at X4 if the lair has not run.
+> - **Grell Escaped** — mark when a grell flees through the open leaf, or when the party withdraws with a grell alive. It is read by the Aftermath of this Event and by **Autumnreaver**, where the Dock Ward route leads to a grell in the Grell Hideout.
+> - **Pier 17 Investigated** — mark when the party gives Mirsa's account, or the dockhands', to Melannor. It is read by **Xanathar's Lair** (unconverted), as a casing aid at X4 if the lair has not run.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Fouled Channel** becomes available when an individual Emerald Enclave member reaches Renown 10 and 6th level. A member who first reaches Renown 10 here also qualifies for **Autumnreaver**. This faction mission awards no Milestone Points.
+> **The Fouled Channel** becomes available when an individual Emerald Enclave member reaches Renown 10 and 6th level. A member who first reaches Renown 10 here also qualifies for **Autumnreaver**, and this faction mission awards no Milestone Points.
 
 ## Overview
 

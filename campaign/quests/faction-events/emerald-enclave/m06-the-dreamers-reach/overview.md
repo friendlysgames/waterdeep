@@ -58,15 +58,15 @@ A character who examines the anchor makes a DC 15 Wisdom saving throw and marks 
 
 ## Jeryth Wakes
 
-When the anchor breaks, Jeryth wakes. At the oak she speaks twice, Melannor gives the party the Phaulkonmere Ward, and he takes the members' report.
+When the anchor breaks, Jeryth wakes and speaks twice at the oak. Melannor gives the party the Phaulkonmere Ward, and he takes the members' report.
 
 ## Renown Opportunities
 
-Each participating Emerald Enclave member gains 4 base Renown for descending to the anchor and reporting to Melannor. Companions gain none. Bonuses of +1 go to members whose party destroys the anchor and breaks the brood, who report the contact in full, and whose party finishes inside Jeryth's 48 hours.
+Each participating Emerald Enclave member gains 4 base Renown for descending to the anchor and reporting to Melannor, and companions gain none. Bonuses of +1 go to members whose party destroys the anchor and breaks the brood. Further bonuses of +1 go to members who report the contact in full and to members whose party finishes inside Jeryth's 48 hours.
 
 ## Aftermath
 
-**Anchor Destroyed** and **Illuun Contact** feed **Master of the Wild** and **Vault of Dragons** (unconverted), and **Illuun Contact** also feeds Dungeon of the Mad Mage. This is the last Emerald Enclave mission. **Winterstalker** follows at Renown 25 and **Master of the Wild** at Renown 50.
+**Anchor Destroyed** and **Illuun Contact** feed **Master of the Wild** and **Vault of Dragons** (unconverted), and **Illuun Contact** also feeds Dungeon of the Mad Mage. This is the last Emerald Enclave mission, and **Winterstalker** follows at Renown 25 and **Master of the Wild** at Renown 50.
 
 ## Involved Characters
 

@@ -36,13 +36,13 @@ If five characters are present, add this:
 
 > [!hazard]**Illuun's Brood**
 >
-> Use the **Chuul** stat block from the 2024 *Monster Manual*, unchanged. Count every combatant on the party's side, companions included. Melannor and Jeryth are not counted. The **Emerald Enclave Mechanics Reference** audits the rosters at a Day Cost of 4 at every party size, and a party that plays after **Vault of Dragons** uses the same rosters at 8th level. It applies no +4 for first-turn paralysis, because the prey rule and the entry delay stop the chain.
+> Use the **Chuul** stat block from the 2024 *Monster Manual*, unchanged. Count every combatant on the party's side, companions included. Melannor and Jeryth are not counted. The **Emerald Enclave Mechanics Reference** audits the rosters at a Day Cost of 4 at every party size. A party that plays after **Vault of Dragons** uses the same rosters at 8th level. The audit applies no +4 for first-turn paralysis, because the prey rule and the entry delay stop the chain.
 >
 > - **Three combatants:** one Chuul in round 1. A second arrives from the side passage at the start of round 3, or at once if a character enters the side passage.
 > - **Four combatants:** two Chuul in round 1.
 > - **Five or more combatants:** three Chuul in round 1.
 >
-> The chuul move through the flood freely, and a chuul that ends its turn fully submerged has total cover until its next turn. It surfaces to attack.
+> The chuul move through the flood freely, and a chuul that ends its turn fully submerged has total cover until its next turn and surfaces to attack.
 >
 > #### The Chuul's Tactics
 > At the start of combat, the chuul lie submerged beside the plinth. They take no actions until the end of the round after the one in which the last character crosses the threshold. They sense magic within 120 feet, so the party cannot surprise them.
@@ -90,7 +90,7 @@ A character who holds **Illuun Contact** knows that the thing below is alive, an
 
 > [!exploration]**What the Anchor Is**
 >
-> Any character who studies the anchor and makes a successful **DC 13 Intelligence (Arcana)** check works out that it is a tether of living flesh and that fire or radiance would burn it away where a blade would not. On a failure, Melannor's answer at the oak and the anchor's own reaction still serve: lesser fire or radiant damage makes the nodule hiss and the bark flare.
+> Any character who studies the anchor and makes a successful **DC 13 Intelligence (Arcana)** check works out that it is a tether of living flesh and that fire or radiance would burn it away where a blade would not. On a failure, Melannor's answer at the oak and the anchor's own reaction still serve. Lesser fire or radiant damage makes the nodule hiss and the bark flare.
 
 > [!hazard]**The Anchor**
 >
@@ -107,7 +107,7 @@ A character who holds **Illuun Contact** knows that the thing below is alive, an
 >
 > The dark lump splits along its veins and shrivels like a leaf in a fire, and the glow of the bark flares and steadies. The chuul stop where they are, turn their feelers toward the east wall and sink into the side passage. The water around the plinth begins to move again, and the cold goes out of it.
 
-A character who holds **Illuun Contact** feels the attention that settled on that character lift and turn away. Mark **Anchor Destroyed**.
+A character who holds **Illuun Contact** feels the attention that settled on that character lift and turn away, and the GM marks **Anchor Destroyed**.
 
 ### Jeryth Wakes
 
@@ -125,11 +125,11 @@ Jeryth wakes when the anchor breaks, and the party finds the garden changed when
 >
 > > "This was not here this morning. I believe she made it for you."
 >
-> He holds it out to the nearest of you, and the leaves settle overhead. The voice speaks once more.
+> He holds it out to the nearest of you, and the leaves settle overhead as the voice speaks once more.
 >
 > > "I don't need notice anymore."
 
-If a player asks what either line means, the oak is silent and Melannor says that he does not know. If **Vault of Dragons** has already resolved, Melannor adds that Jeryth speaks of Undermountain now, and that the next water the party descends to is the water she means.
+If a player asks what either line means, the oak is silent and Melannor says that he does not know. If **Vault of Dragons** has already resolved, Melannor adds that Jeryth speaks of Undermountain now. The next water the party descends to is the water she means.
 
 If the 48 hours ended before the anchor fell, read the following aloud when the party reaches the gate:
 
@@ -143,7 +143,7 @@ If the 48 hours ended before the anchor fell, read the following aloud when the 
 >
 > The ring belongs to the whole party, not to a member. It is a woven ring of living stems, worn or held by one creature at a time, and passing it takes a Utilize action.
 >
-> - **Effect:** a creature that wears it on a finger or wrist, or holds it in a hand, has Advantage on saving throws against being Charmed or Frightened by Aberrations.
+> - **Effect:** a creature that wears it on a finger or wrist, or holds it in a hand, has Advantage on saves against being Charmed or Frightened by Aberrations.
 > - **Statistics:** the ring has AC 10 and 10 hit points. It can be targeted, and an area effect hits it only if it is worn and the wearer is inside the area.
 > - **Fraying:** at 0 hit points it frays and gives no benefit, and a frayed ring that takes any damage is destroyed. A frayed or damaged ring heals fully overnight when laid on a plant growing on the Phaulkonmere estate.
 > - **Limits:** it does not stop Paralyzing Tentacles, which Poison and Paralyze and do not Charm or Frighten.
@@ -200,12 +200,12 @@ The Event ends when Melannor has taken the report. Record the anchor and the con
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Anchor Destroyed** — mark when the anchor is destroyed by any means. Read by **Master of the Wild**, where the commission depends on it, and by **Vault of Dragons** (unconverted, arc-j line 47), where Jeryth needs no notice and the ward stays active. If this mission has not run, the Vault keeps its own notice rule.
-> - **Illuun Contact** — mark with the character's name for each character who fails the examine save, member or not. Read by **Master of the Wild**, by **Vault of Dragons** (unconverted), where Melannor notes that the character is registered, and by Dungeon of the Mad Mage, where the character is sensed on approach to Level 4.
+> - **Anchor Destroyed** — mark when the anchor is destroyed by any means; read by **Master of the Wild**, where the commission depends on it. It is also read by **Vault of Dragons** (unconverted, arc-j line 47), where Jeryth needs no notice and the ward stays active. If this mission has not run, the Vault keeps its own notice rule.
+> - **Illuun Contact** — mark with the character's name for each character who fails the examine save, member or not; read by **Master of the Wild**. It is also read by **Vault of Dragons** (unconverted), where Melannor notes that the character is registered. Dungeon of the Mad Mage reads it too, and the character is sensed on approach to Level 4.
 
 > [!gamemaster]**Next Steps**
 >
-> This is the last Emerald Enclave mission. **Winterstalker** becomes available when an individual Emerald Enclave member reaches Renown 25, and **Master of the Wild** at Renown 50, which is expected during Dungeon of the Mad Mage. A party that ran three heists plays this mission after **Vault of Dragons**, and the readers above then apply only to later events. This faction mission awards no Milestone Points.
+> This is the last Emerald Enclave mission. **Winterstalker** becomes available when an individual Emerald Enclave member reaches Renown 25. **Master of the Wild** follows at Renown 50, which is expected during Dungeon of the Mad Mage. A party that ran three heists plays this mission after **Vault of Dragons**, and the readers above then apply only to later events. This faction mission awards no Milestone Points.
 
 ## Overview
 

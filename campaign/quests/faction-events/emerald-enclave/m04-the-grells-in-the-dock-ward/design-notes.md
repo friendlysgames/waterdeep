@@ -2,11 +2,11 @@
 
 ## What the Source Gave
 
-Appendix C's EE-4 supplied the whole skeleton. Two grells nest in a Dock Ward warehouse, one has noticed the party and the other is on the victim, and a victim is freed with an action and a DC 12 Strength (Athletics) check, or DC 14 with a grell within 5 feet. A grell that flees will not return. The aftermath gave each helper a *charm of heroism* and a small clue, which is that a Guild operative paid two dockhands to leave Pier 17.
+Appendix C's EE-4 supplied the whole skeleton. Two grells nest in a Dock Ward warehouse, one has noticed the party and the other is on the victim. A victim is freed with an action and a DC 12 Strength (Athletics) check, or DC 14 with a grell within 5 feet, and a grell that flees will not return. The aftermath gave each helper a *charm of heroism* and a small clue, which is that a Guild operative paid two dockhands to leave Pier 17.
 
 ## What Changed
 
-The mission is two Events because the search and the nest have different clocks. **The Search** is the morning and ends at a door, and **The Nest** holds the fight, the gift and the choice. The three leads follow the Three Clue Rule, and each one names the warehouse alone. Melannor comes to Trollskull Manor in person because his Dock Ward animals have gone and twenty-five words cannot carry the plan. That is the deliberate break from the animals.
+The mission is two Events because the search and the nest have different clocks. **The Search** is the morning and ends at a door, and **The Nest** holds the fight, the gift and the choice. The three leads follow the Three Clue Rule, and each one names the warehouse alone. Melannor comes to Trollskull Manor in person because his Dock Ward animals have gone and twenty-five words cannot carry the plan, which is the deliberate break from the animals.
 
 The source clue is now a decision. Mirsa describes the payment, the boats and the man in the grey coat, and the party tells nobody, Melannor alone or Melannor and the Watch. **Pier 17 Investigated** is written when Melannor hears it, and the bonus needs the Watch as well. The premise is Guild excavation disturbing the grells, as in `arc-f:35`, and the Guild uses the disruption as cover.
 
@@ -16,7 +16,13 @@ The Appendix C DCs of 18 and 18 are now 14 and 14, and the source's "old woman" 
 
 ## Invented Names and Open Items
 
-Wenna Droit (harbor master's aide), Garrit Moll and Tobiah Fenn (the dockhands), the night porter and the net-mender, the closed salt-store, the quay tavern, the hired cart and the grey-coated agent are new and have no Notable Figures pages. The boats and the hatch under Pier 17 are the minimum that **Xanathar's Lair** needs for a casing aid at X4.
+The following are new and have no Notable Figures pages:
+
+- Wenna Droit, the harbor master's aide.
+- Garrit Moll and Tobiah Fenn, the two dockhands.
+- The night porter and the net-mender, the first two victims.
+- The closed salt-store, the quay tavern and the hired cart.
+- The grey-coated Guild agent, and the boats and hatch under Pier 17 that **Xanathar's Lair** needs for a casing aid at X4.
 
 Items for the out-of-scope log:
 

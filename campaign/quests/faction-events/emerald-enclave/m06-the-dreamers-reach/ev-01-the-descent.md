@@ -18,8 +18,8 @@
 > - Jeryth cannot speak and resist at once, so she has been silent for three days. In 48 hours she withdraws into the roots, and the clock starts when Melannor finishes the brief.
 > - Melannor reads the clock from the oldest oak. Its lowest bough holds a fixed number of living leaves, and they fall at an even rate.
 > - Nobody in this Event names Illuun. Melannor and Jeryth say only that something dreams below, and Melannor does not know what it is called.
-> - The chuul in the deepest chamber are Illuun's brood. A chuul scout of the same brood came up Gerrick's drain six years ago, and his neighbours drove it back with fire before they sealed the arch. Gerrick never learned what it was.
-> - The anchor is one of two routes that Illuun uses. The other runs through Jalester Silvermane at the Yawning Portal's well (**The Stone's Other Master**, **An Audience with the Open Lord**), and nobody in this Event knows about it.
+> - The chuul in the deepest chamber are Illuun's brood. A chuul scout of the same brood came up Gerrick's drain six years ago, and his neighbours drove it back with fire before they sealed the arch, so Gerrick never learned what it was.
+> - The anchor is one of two routes that Illuun uses. The other runs through Jalester Silvermane at the Yawning Portal's well (**The Stone's Other Master**, **An Audience with the Open Lord**). Nobody in this Event knows about it.
 > - Nobody in this Event says Manshoon's name, or calls Kolat Towers his home, unless **Manshoon Named** is marked for the member being addressed. Melannor says "the Splinter" and does not mention the towers.
 
 ### The Brief
@@ -113,7 +113,7 @@ Then read the following aloud:
 
 > [!gamemaster]**The Forty-Eight Hours**
 >
-> The clock starts when Melannor finishes the brief and stops when the anchor is destroyed. Use these times and no others:
+> The clock starts when Melannor finishes the brief and stops when the anchor is destroyed, and the times below are the only ones that count:
 >
 > - **Walking:** the walk from Phaulkonmere to the outlet in the Undercliff takes four hours, and the walk home takes five.
 > - **Underground:** the tunnel and the cistern take one hour, and the way from the cistern to the deepest chamber takes three.
@@ -123,13 +123,13 @@ Then read the following aloud:
 
 ### Gerrick's Drain
 
-The farm road runs through the Undercliff terraces to the milestone, and the outlet of the drain lies below the southern terrace where the cliff path meets the city wall. If **Drainage Tunnel Learned** is marked, the party already knows the place. Otherwise Melannor's answer and the farm road lead the party to it, and the outlet is in plain sight without a check.
+The farm road runs through the Undercliff terraces to the milestone. The outlet of the drain lies below the southern terrace, where the cliff path meets the city wall. If **Drainage Tunnel Learned** is marked, the party already knows the place. Otherwise Melannor's answer and the farm road lead the party to it, and the outlet is in plain sight without a check.
 
-Gerrick refits the grate after every visit to keep the stock out, so it is shut when the party arrives. He is at the outlet because the stream below the drain has run cold for three days and his ewes will not drink from it. Read the following aloud:
+Gerrick refits the grate after every visit to keep the stock out, so it is shut when the party arrives. He is at the outlet because the stream below the drain has run cold for three days. His ewes will not drink from it. Read the following aloud:
 
 > [!readaloud]
 >
-> The brick arch below the southern terrace is filled with mortar and an iron grate gone brown with rust. Cold water seeps from the foot of the grate and trails down to the stream, where a line of ewes stands on the far bank and refuses to drink. Gerrick Thatchley sits on the milestone with a crowbar across his knees, and he gets up when he sees you coming down the road.
+> The brick arch below the southern terrace is filled with mortar and an iron grate gone brown with rust. Cold water seeps from the foot of the grate and trails down to the stream, where a line of ewes stands on the far bank and refuses to drink. Gerrick Thatchley sits on the milestone with a crowbar across his knees. He gets up when he sees you coming down the road.
 >
 > > "The stream's been cold for three days, and my ewes won't touch it. Melannor's lot always turn up when something's wrong, so I take it you're going in."
 >
@@ -137,7 +137,7 @@ Gerrick refits the grate after every visit to keep the stock out, so it is shut 
 
 > [!social]**The Farmer at the Milestone**
 >
-> Gerrick Thatchley (Neutral, Lightfoot Halfling, he/him) :: a halfling farmer of about fifty who has watched his land go strange for three days and trusts the Enclave more than the Guard.
+> Gerrick Thatchley (Neutral, Lightfoot Halfling, he/him) :: a halfling farmer of about fifty who trusts the Enclave more than the Guard. He has watched his land go strange for three days.
 >
 > Gerrick swears freely at the Guard and at the cold stream, and he is gruff but kind to anyone who has come to help. He will not go into the tunnel himself, because his knees and his farm are staying where they are.
 >
@@ -173,7 +173,7 @@ The first ten feet of the tunnel carry the marks of that night.
 > - Any character who examines the shell and makes a successful **DC 13 Intelligence (Nature)** check recognises the tip of a chuul's pincer. A chuul is an aberration that grapples its prey and paralyzes it.
 > - **On a failure:** Melannor names the shell at the debrief, and nothing in this Event depends on the result.
 >
-> The shell is the tip of the scout's pincer, broken off six years ago. Nothing in the tunnel is hostile.
+> The shell is the tip of the scout's pincer, broken off six years ago, and nothing in the tunnel is hostile.
 
 ### The Cistern
 
@@ -217,7 +217,7 @@ The right channel runs level for a hundred feet, and then the roof comes down to
 
 > [!exploration]**Crossing the Flooded Passage**
 >
-> - **With the scroll:** a character who can cast *water breathing* (a druid, ranger, sorcerer or wizard) reads the scroll as a Magic action while the party stands within 30 feet. Up to ten willing creatures breathe water for 24 hours, and everyone crosses at normal speed with no check. The effect ends before a party that rests twice returns, so that party swims home.
+> - **With the scroll:** a character who can cast *water breathing* (a druid, ranger, sorcerer or wizard) reads the scroll as a Magic action while the party stands within 30 feet. Up to ten willing creatures breathe water for 24 hours, and everyone crosses at normal speed with no check. The effect ends before a party that rests twice returns. That party swims home.
 > - **Swimming:** a character without the effect makes a **DC 12 Strength (Athletics)** check to swim the thirty feet. On a failure the current carries the character back to the near end, the attempt costs 10 minutes, and the character can try again.
 >
 > If no character can read the scroll, the swim is the only way across, and Melannor's gift stays in the pack.
@@ -240,7 +240,7 @@ If a character fails the save below, read the following aloud to that character:
 >
 > Each character makes a **DC 13 Wisdom saving throw** on crossing the threshold of the deepest chamber, once per crossing. On a failure the character has the Incapacitated condition until the end of that character's next turn. A character who steps back out of the chamber and crosses again makes the save again.
 >
-> Roll initiative when the first character crosses. The chuul lie submerged and take no actions until the end of the round after the one in which the last character crosses, so the save never lands on top of an attack. The effect deals no damage and has no source the party can fight.
+> Roll initiative when the first character crosses. The chuul lie submerged and take no actions until the end of the round after the one in which the last character crosses. The save therefore never lands on top of an attack, and the effect deals no damage.
 
 ### Renown Opportunities
 
@@ -252,7 +252,7 @@ The party can turn back at any point, and the anchor stays where it is. The cloc
 
 ### Concluding the Event
 
-The Event ends when the last character has crossed the threshold and made the entry save. Carry forward who is Incapacitated and who holds the bark.
+The Event ends when the last character has crossed the threshold and made the entry save, and the GM carries forward who is Incapacitated and who holds the bark.
 
 > [!gamemaster]**Event Outcomes**
 >

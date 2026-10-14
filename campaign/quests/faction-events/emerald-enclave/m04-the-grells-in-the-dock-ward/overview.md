@@ -18,9 +18,9 @@ At 08:00 Melannor Fellbranch comes to Trollskull Manor himself, with mud on his 
 
 ## Background
 
-A crew from Xanathar's Guild has been cutting a cargo tunnel under the south quay for a season. A tenday ago it broke into a passage from Undermountain, and two grells flew up through the breach and nested in a closed warehouse at the end of the quay. The Guild did not drive them out, because the grells keep the Watch and the quay hands away from Pier 17.
+A crew from Xanathar's Guild has been cutting a cargo tunnel under the south quay for a season. A tenday ago it broke into a passage from Undermountain, and two grells flew up through the breach. They nested in a closed warehouse at the end of the quay, and the Guild did not drive them out, because they keep the Watch and the quay hands away from Pier 17.
 
-A well-dressed Guild agent paid two dockhands to leave the pier on the night Mirsa was taken, so that the boats under it could load without witnesses. Mirsa overheard the payment before a grell found her.
+A well-dressed Guild agent paid two dockhands to leave the pier on the night Mirsa was taken, so that the boats under it could load without witnesses, and Mirsa overheard the payment before a grell found her.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -35,7 +35,7 @@ Melannor tells the members about the three victims in the taproom, and he explai
 
 ## The Search
 
-Three leads each name the warehouse. The party can question the harbor master's aide and the pier hands, read the smell and the missing cats on the south quay, or match Melannor's sketch to a roofline. Any one of them is enough.
+Three leads each name the warehouse, and any one of them is enough. The party can question the harbor master's aide and the pier hands, read the smell and the missing cats on the south quay, or match Melannor's sketch to a roofline.
 
 ## The Nest
 
