@@ -1,163 +1,254 @@
-# Ten Nights — The Patrol
+# The Ten Nights
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Exploration/Combat Event spans ten nights in the northern City of the Dead. In this Event, the party can:
+> This Social and Exploration Event begins when Melannor's crow reaches the Emerald Enclave members at Trollskull Manor, and it ends when the tenth night closes at dawn. In this Event, the party can:
 >
-> - Receive the mission briefing via crow and travel to the City of the Dead
-> - Meet Sir Ambrose Everdawn at the southern gate, where he explains the situation and their assignment
-> - Cover the northern section for ten nights while Ambrose patrols the south; compare notes at each dawn
-> - Encounter six Skeletons from night five onward, always moving toward the Brandath family crypt
-> - Document and report the pattern of skeleton movement before the tenth night
-> - Observe the Brandath crypt from outside, and potentially enter early
-> - Hear Jeryth's response to the pattern intelligence arrive by songbird
+> - Take the crow's message and, if a member goes to Phaulkonmere before sunset, question Melannor about the work.
+> - Meet Sir Ambrose Everdawn at the south gate and take the northern half of the City of the Dead.
+> - Choose a post each night: the northeast wall, the mausoleum row or the Brandath grove.
+> - Face the skeletons on nights 4, 6 and 8, and watch where they walk.
+> - Document the pattern by three independent routes and report it to Ambrose and Melannor.
+> - Hear Jeryth's reply through Melannor.
 >
-> #### Background
+> The patrol runs from sunset to sunrise and the party rests by day, so each skeleton night is a separate fight and their Day Costs do not add. Only Emerald Enclave members receive the crow and see Melannor, while companions can patrol and fight with everything else.
+
+> [!gamemaster]**What Is Actually True**
 >
-> The skeletons are animated by a rogue necromancer whose identity is never discovered and never matters. What matters is their destination: the Brandath family crypt, again and again. The Vault of Dragons lies beneath those crypts. Sir Ambrose has felt a psychic wrongness in the northern section for months — something old, contained, and restless. Jeryth has been tracking the same disturbance through Waterdeep's underground water table and ley lines. Neither has named it. The skeletons are its first upward reach — the disturbance probing the wall above it, testing what holds.
+> - Bones went missing from the Halleth, Corlan and Tessenden mausoleums in the northern section over the past tenday. All three stand on a line between the northeast wall and the Brandath grove.
+> - The Vault of Dragons lies under the Brandath grove, and the skeletons walk toward it, pause at the edge of the treant's ground and turn back. Nobody in this Event knows what is below.
+> - Ambrose has felt the north go wrong for months, but he offers nothing about the Brandath crypt unless he is asked and given a reason.
+> - Ambrose takes the south and the party takes the north, which reverses Dragon Heist, and the design notes record the change.
+> - Jeryth does not know what the pressure is, so her reply is a request to hear if anything answers it.
+> - Nobody in this Event names the Splinter, the Cassalanters or Illuun.
 
 ### The Brief
 
-A crow arrives at Trollskull Manor. Melannor later explains that Jeryth chooses the crow when she considers something urgent.
+The crow reaches each member in the middle of the morning, wherever they are in Trollskull Manor, and others nearby hear it too.
 
 > [!readaloud]
-> A crow lands on the windowsill at Trollskull Manor and speaks in a calm baritone, delivering the briefing in Melannor's own voice.
 >
-> > "Bones are going missing from the City of the Dead. Someone is raising skeletons. Sir Ambrose Everdawn, a champion of Kelemvor, has been asked to patrol the southern half for ten nights. He needs someone to cover the northern section. Jeryth says go."
+> A black crow drops onto the sill of the nearest window and looks straight at you with one bright eye. When it opens its beak, a low and level baritone comes out from somewhere behind its eyes.
 >
-> A pause in the crow's delivery.
+> > "Bones are missing from the City of the Dead. Sir Ambrose needs the north patrolled for ten nights, starting at sunset. Jeryth says go."
 >
-> > "She said it three times. I mention this because she does not usually repeat herself."
+> The crow waits a moment, then shakes out its wings and flies off over the rooftops.
+
+The message is 24 words and asks for no reply. Any guard at a cemetery gate sends the party to the south gate, where Ambrose waits. A member who walks to Phaulkonmere in the Southern Ward before sunset finds Melannor under the oak while companions wait at the gate.
+
+> [!readaloud]
 >
-> The crow departs.
+> The gate of Phaulkonmere stands open before you reach it, and the garden beyond is older than the street that grew up around it. Moss covers the paving, and the oldest oak in the middle is thicker than any tree in the neighbourhood. A woman's voice seems to come from nowhere and everywhere when the leaves stir.
+>
+> > "Rest here."
+>
+> Melannor Fellbranch looks up from the roots of the oak, brushes the soil from his hands and walks over to meet you.
+
+The arrival text is read once, and you use it again as written if the members return to report the pattern.
+
+> [!social]**The Groundskeeper at the Oak**
+>
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the Enclave's groundskeeper, who delivers bad news in the voice of a man describing the weather.
+>
+> Melannor answers each question in complete, even sentences and waits for the next one before he goes on. He does not use contractions, does not joke and does not swear, and if a member makes a joke he answers it literally. He calls each member by name.
+>
+> Melannor is willing to discuss the following topics:
+>
+> - What he knows of the missing bones, which is only what Ambrose told the Enclave.
+> - Why the Enclave helps with the dead, because the ground does not forget them.
+> - Who Ambrose is and what he expects of the party.
+> - What the Enclave pays for ten nights.
+>
+> He will not discuss what lies under the Brandath ground, because he does not know.
+
+> [!qna]**Why does Jeryth want this?**
+>
+> > "Jeryth said go three times, and I mention it because she does not usually repeat herself. I did not ask her why she wanted it done."
+
+> [!qna]**Who is Sir Ambrose?**
+>
+> > "He is a knight of Kelemvor, about sixty years old, who has walked the cemetery for fifteen of them. He is formal, and he asks the living to explain themselves before he helps."
+
+> [!qna]**What do we do if something comes?**
+>
+> > "You deal with it, and you note where it came from and where it went afterward. Ambrose says the note matters more than the fight."
+
+> [!qna]**What does the Enclave pay?**
+>
+> > "The Enclave pays one hundred gold pieces to each of you who stands all ten nights. It also counts the work toward your standing with us."
+
+> [!qna]**Why the City of the Dead?**
+>
+> > "The soil there has been uneasy for some months now, and that is all I know of it. I would like to know more than I do."
 
 ### Sir Ambrose Everdawn
 
-Sir Ambrose waits at the southern gate of the City of the Dead at sunset on the first night. A Tethyrian man of about sixty, broad and heavy, in plain traveling clothes with a sword that carries the look of long use. His only sign of office is a small silver gauntlet pin, Kelemvor's rather than Tyr's. He is unhurried.
+Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy man of about sixty who has walked the cemetery for fifteen years. The gauntlet pin on his collar is silver and marks him as a knight of Kelemvor. He waits at the south gate at sunset on the first night.
 
 > [!readaloud]
-> A broad, heavy man of about sixty stands at the southern gate of the City of the Dead as the evening light goes flat and the driftglobes in the cemetery begin their slow drift among the headstones. He is in plain traveling clothes, the sword at his hip worn and used, and his only sign of office is a small silver gauntlet pin he does not bother to call attention to.
 >
-> He watches the party approach and, when they are close enough, says:
+> The south gate of the City of the Dead stands open in the last of the light. Driftglobes drift in from the city to hang among the headstones. A broad man in plain travelling clothes waits beside the gate with a worn sword at his hip. When you come near, he removes one gauntlet, touches the nearest headstone and puts the glove back on.
 >
-> > "Good evening. You are on the grounds of the dead. Walk softly here."
->
-> He waits for them to reach him before he continues.
->
-> > "Bones have been going missing from three mausoleums in the northern section, over the past fifteen days. I patrol the southern half after dark. I need someone to cover the north. At dawn, we meet at the central gate path and compare what we observed. That is the arrangement."
+> > "Good evening. You are on the grounds of the dead, so I ask that you walk softly here."
 
 > [!social]**The Warden of the Dead**
 >
-> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian human, he/him) :: a dignified paladin of Kelemvor who has held the City of the Dead for fifteen years and expects the living to earn his cooperation.
+> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) :: the Kelemvorite knight of the City of the Dead.
 >
-> Ambrose speaks in formal, complete sentences, with no contractions. He addresses the party courteously and with a degree of initial reserve. He knows the northern section is wrong — he has felt it for months — but he shares that knowledge carefully, in the order he decides to share it, and only to people who have demonstrated they are paying attention. His rare dry humour surfaces once or twice over ten nights if the party earns his respect.
+> Ambrose expects the living to explain themselves before he helps them. He speaks in formal, complete sentences and never uses a contraction. He calls Kelemvor "the Judge", names the family of every plot he passes and does not swear on the grounds of the dead. His dry humour appears once or twice over ten nights, and only if the party has earned his respect. A successful DC 13 Charisma (Persuasion) check on the first night, or a clean first skeleton night, turns him from reserved to friendly. Without either, he gives instructions and expects results.
 >
-> A successful DC 13 Charisma (Persuasion) check, or demonstrated competence through the early nights, converts his initial reserve to collegial cooperation. Without it, he assigns the patrol with specific instructions and expects results only.
+> Ambrose is willing to discuss the following topics:
 >
-> Conversation topics Ambrose is willing to discuss include:
-> - The missing bones and the pattern of incidents over fifteen days
-> - The northern section's condition, including what he has felt there
-> - The Brandath family crypt, once someone explains why they need to know about it
-> - Kelemvor's teaching on the obligations of the living toward the dead
+> - The missing bones, the three mausoleums and the dates.
+> - The patrol, its posts and the two Watch officers.
+> - The rest of the cemetery and its families.
+> - The Brandath ground, only if a character asks and says why.
 >
-> Any character who succeeds on a DC 12 Wisdom (Insight) check can sense that Ambrose knows more about the wrongness in the northern section than he has offered, and that he is deciding how much to share.
+> Any character who watches him and makes a successful DC 12 Wisdom (Insight) check senses that he knows more about the north than he has said. He is waiting to hear that the party is paying attention.
 
-> [!qna]**What has been happening here?**
+> [!qna]**What has been happening?**
 >
-> He turns to look north across the headstones.
+> He looks north across the headstones before he answers.
 >
-> > "Fifteen days ago, the first bones went missing from the Halleth mausoleum in the northern section. Two more incidents followed, from separate mausoleums and on separate nights. Someone is raising the dead here, and they have not been stopped." He pauses. "The northern section has felt wrong for several months. Not recently wrong. Old wrong. Patient, as though it is waiting for something."
+> > "Bones have gone from three mausoleums in the northern section over the past tenday, and the Halleth, the Corlan and the Tessenden were all opened and emptied. The north has felt wrong for several months, and I cannot say why."
 
-> [!qna]**What do you want us to do?**
+> [!qna]**What do you want from us?**
 >
-> > "Cover the northern section each night from sunset to sunrise. I will cover the south. At the central gate path at dawn each morning, we share what we found. Do not enter any mausoleum without authorization from the Watch officer on rotation. If you encounter risen dead, deal with them. Document where they appear, which direction they move, and where they go. That documentation may be more important than the fight."
+> > "I want you to cover the northern section from sunset to sunrise while I cover the south. Record where the risen dead appear and where they go, and we will meet at the central gate path at dawn."
 
 > [!qna]**Why do you need help?**
 >
-> A slight pause.
+> > "I am one man, and the grounds are wider than one man can watch in a night. The Enclave was willing to send someone, and I accepted the offer."
+
+> [!qna]**The Brandath grove?**
 >
-> > "I am one man. The southern section requires my attention. I cannot cover both. And the Enclave asked. That is sufficient reason."
+> > "Why do you ask? The Brandath family is old and their ground is sealed, and a Watch station stands at the grove because I do not open the doors."
+
+Ambrose answers the Brandath question with these public facts and asks for a reason before he says more. If the character gives one, he tells what he knows in **The Final Dawn**. A character who asks and gives a reason at any dawn meeting counts as having asked for the third Renown bonus.
 
 ### The Northern Section at Night
 
-The City of the Dead after dark fills with driftglobes drifting in slow paths among the headstones, placed by the Mortuary to ease late mourning visits. The northern section is older, the monuments more weathered, the inscriptions harder to read. The Brandath family crypt stands at the section's center: carved marble, sealed iron doors, with a two-officer Watch rotation visible from the main path.
+The northern half is older than the south, with weathered monuments and inscriptions worn to partial letters. Two Watch officers, Officer Jonn Bannock and Officer Ysa Terrow, keep a station on the Brandath path with a lantern and a ledger.
 
 > [!readaloud]
-> The northern section after dark is older and quieter than the rest of the cemetery. Driftglobes move in slow, purposeless paths between the headstones — placed for mourners who come late. The inscriptions on the monuments here are worn, family names reduced to partial letters on some of the older stone. The Brandath crypt stands at the center of the section, a carved marble building with sealed iron doors and two Watch officers posted at their station on the main path.
 >
-> The northern section has the quality of a place that is aware of being watched.
+> The northern section lies quiet under the driftglobes, which move in slow paths between the headstones. The older monuments here have lost most of their lettering, and a thin frost lies on the grass along the main path. At the centre of the section a grove of elm and birch stands around a mausoleum. Two Watch officers sit at a lantern beside the path with a ledger open between them.
 
-> [!gamemaster]**Skeleton Encounters**
+Each night every character chooses a post and holds it from sunset to sunrise, and the party can change posts between nights. A character who stands all ten nights earns the gold.
+
+> [!exploration]**The Three Posts**
 >
-> Beginning on night five, roll 1d10 at the start of each night's patrol and add +1 for each previous night that passed without an encounter. On a result of 10 or higher, six **Skeletons** appear in the northern section. They are already mid-motion when encountered, moving in one direction — toward the Brandath family crypt. If not immediately engaged, they reach the crypt's exterior, pause near the sealed doors for one round, then reverse and leave the cemetery.
+> - **The northeast wall.** The iron railing is bent outward at one gap. A character here sees the skeletons come in on nights 4, 6 and 8 and can step into their way.
+> - **The mausoleum row.** The Halleth, Corlan and Tessenden stand in a line between the wall and the grove. A character here sees the open doors and the emptied shelves and meets the skeletons as they pass.
+> - **The Brandath grove.** The Watch station is here. A character at this post sees the skeletons stop and turn on nights 4, 6 and 8 and can speak with the officers.
 >
-> A character who watches rather than attacking on the first occurrence notices the directional movement. A character who tracks it across multiple nights — noting entry point, path, crypt-side pause, and reversal — can document the pattern with precision.
+> On skeleton nights, characters at the wall and the grove join the characters on the row when the skeletons arrive, and the whole party fights together. A character who leaves a post empty on a skeleton night sees nothing of that night's path.
+
+> [!social]**The Watch at the Grove**
+>
+> Officer Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) :: two City Watch officers on the late shift.
+>
+> Both officers are bored, cold and glad of company. Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check. They have no idea why the north is wrong and say so.
+>
+> The officers are willing to discuss the following topics:
+>
+> - The ledger, which records every disturbance near the grove for the past two months.
+> - What they saw on earlier nights.
+> - Sir Ambrose, whom they respect.
+
+> [!qna]**What does the ledger say?**
+>
+> Terrow turns the ledger toward you on her knee.
+>
+> > "There are seven entries since the thaw. Each one is frost on the grove side of the path with no cause, footprints in it, and a cold patch by the doors. Every entry is the same stretch of ground."
+
+> [!qna]**Have you seen anything walk?**
+>
+> > "Not before you came, because Terrow and I have only seen the frost and the prints. They all lead toward the doors and stop at the elm."
+
+### Skeleton Nights
+
+Skeletons walk in on nights 4, 6 and 8, and on the other nights nothing moves. On each skeleton night, read the opening below at about the third hour after midnight.
+
+> [!readaloud]
+>
+> A scraping sound comes from the northeast wall, and a line of skeletons climbs through the gap in the railing. They walk single file along the main path in the light of the driftglobes, and none of them looks at you as they head for the grove.
 
 > [!hazard]**Skeleton Patrol**
 >
-> Six **Skeletons** appear in the northern section, moving toward the Brandath crypt.
+> The skeleton count equals the number of characters, and a party of five faces a sixth skeleton on night 8 only. Companions count as characters.
+>
+> - **Three characters:** 3 skeletons each night.
+> - **Four characters:** 4 skeletons each night.
+> - **Five characters:** 5 skeletons on nights 4 and 6, and 6 on night 8.
 >
 > #### Skeleton Tactics
+> To begin, the skeletons walk the path from the wall toward the grove and ignore every character who is not in the way.
 >
-> At the start of combat, the skeletons continue moving toward the Brandath crypt unless directly blocked or engaged. If the party interposes, they engage the nearest characters.
+> During combat, the skeletons:
+> - Attack a character who blocks the path or strikes them, using the Shortsword against an adjacent target and the Shortbow if blocked with nothing adjacent.
+> - Do not focus fire and do not pursue a character who leaves the path.
+> - Stop at the edge of the grove for one round, then turn and walk back the way they came.
+> - Take double damage from bludgeoning, so a mace or a club kills one in a single good hit.
 >
-> Over the course of combat, the skeletons will prioritize:
-> - Moving toward the Brandath crypt if an unobstructed path exists
-> - Attacking characters who block their path
+> The patrol ends when every skeleton is destroyed, or when the survivors reach the northeast wall and climb out, going inert on the road outside. A skeleton that leaves takes its bones with it.
 >
-> The battle ends when all six skeletons are destroyed, or when they have reached the crypt exterior and begun their reversal.
+> A party that stands clear takes no damage, since the skeletons do not leave the path. The only cost is that **Bones Kept Safe** is lost. Skeletons do not surrender and do not flee.
 
-> [!exploration]**The Movement Pattern**
->
-> Any character who observes the skeletons' movement across two or more appearances and makes a successful DC 12 Intelligence (Investigation) check can document their pattern precisely: same entry point in the northeast corner, same path to the Brandath crypt, same crypt-side pause, same reversal and withdrawal.
->
-> This documentation is one renown condition. Bringing it to both Melannor and Ambrose before the tenth night is the other.
+On night 4 the party sees the path for the first time. On night 6, a character who watched on night 4 can match the entry point, the route and the pause. On night 8 the sequence is the same, and the party can see that nothing varies.
 
-> [!exploration]**The Brandath Crypt — Exterior**
->
-> Any character who examines the Brandath crypt from the main path and makes a successful DC 13 Intelligence (Arcana) check reads the magical residue on the sealed iron doors: containment warding of the type used when something was sealed inside rather than kept out. The warding is old, not recent, and layered over decades. It is not failing. It is holding.
->
-> Entering without authorization requires picking the sealed iron doors (DC 15 Dexterity with thieves' tools) or forcing them (DC 18 Strength). The Watch officers are present and will report a break-in.
+### The Pattern
 
-> [!gamemaster]**If the Party Enters Early**
+Three independent routes show that the skeletons are going to the Brandath crypt, and any one of them is enough to document the pattern.
+
+> [!exploration]**Three Routes to the Pattern**
 >
-> Melannor learns of the breach within a day through the Enclave's city contacts. His response, delivered the next morning through a pigeon: "Jeryth asked me to say — patience. It has been there a long time. It will be there when you are ready to go back with proper authority." He does not know what is inside. He is conveying the instruction faithfully. Jeryth knows.
+> - **The skeletons' path.** Any character who has seen two skeleton nights and makes a successful DC 12 Intelligence (Investigation) check writes down the entry point at the wall and the route along the row. The notes also record the one-round pause at the grove's edge and the turn. A character who writes the notes after each skeleton night needs no check after the third.
+> - **Ambrose's account.** From night 5 on, Ambrose reports at dawn that the south is quiet and that the wrongness lies north and a little east of the middle. A character who asks him to mark the three emptied mausoleums on the cemetery plan sees that all three stand on a line toward the Brandath grove. No check is needed.
+> - **The Watch ledger.** The seven entries in the officers' ledger all describe frost, footprints and cold on the grove side of the path. A character who reads the ledger and makes a successful DC 11 Intelligence (Investigation) check sees that each entry points at the doors.
+>
+> **Result of 16 or higher on the first route:** The character also notes that the skeletons stop at a line on the ground and not at the doors. The line lies beneath the roots of the largest elm.
 
-### Reporting the Pattern
+The pattern is documented when the party has put any one of these routes before both Ambrose and Melannor before the tenth night begins. Ambrose hears it at any dawn meeting.
 
-When the party brings Melannor evidence of the directional movement — notes, testimony, a map of the paths — he passes it to Jeryth immediately. Three hours later, a songbird arrives at Trollskull Manor's window.
+### Reporting to Melannor
+
+A member walks to Phaulkonmere by day to report the pattern while companions wait at the gate. Melannor takes the report in the garden, then goes to the oak and stands there, and the leaves do not move for three hours.
 
 > [!readaloud]
-> A songbird arrives at the window of Trollskull Manor and delivers a single line in a woman's clear, calm voice.
 >
-> > "Tell me the moment they open it."
->
-> The bird departs.
+> Melannor listens to the whole report with his hands folded in front of him, then walks to the oak and stands with one palm against its bark. The members wait on the stone bench beside the path while the garden stays silent and the shadow of the oak crosses the paving.
 
-> [!gamemaster]**Melannor on the Message**
+After three hours, read the following aloud:
+
+> [!readaloud]
 >
-> When the party shares the bird's message with Melannor, his response: "She did not say what 'it' is. She did not need to, apparently." He is not being evasive. He genuinely does not know. But he knows Jeryth does not repeat herself for nothing.
+> Melannor comes back along the path at the same unhurried pace, and the leaves of the oak stir once as he passes. He stops in front of you with a face that does not change and waits until you are looking at him.
+>
+> > "Jeryth has heard the report, and she says this. Tell me if anything below answers."
+>
+> > "I asked her once what below means, and she did not reply to me."
+
+Mark **Jeryth's Message Received** for each member who hears it. Melannor does not know what Jeryth means, and he says so if asked.
 
 ### Concluding the Event
 
-The tenth night is still ahead. Proceed to the **Ten Nights — The Final Dawn** Event.
+The tenth night closes at dawn with the party at the central gate path. Nothing is awarded here, so continue with **The Final Dawn**.
 
 > [!gamemaster]**Event Outcomes**
 >
-> Mark each outcome that occurs. Later events read them.
->
-> - **Pattern Documented** — mark when the skeleton movement pattern is documented and reported to both Melannor and Sir Ambrose before the tenth night; award +1 Renown. Read by **Ten Nights — The Final Dawn** (Ambrose's knowledge of the crypt; shapes the final dawn conversation).
-> - **Bones Kept Safe** — mark when all ten nights are completed without bones being stolen from the northern section while the party was on watch; award +1 Renown. Read by **Ten Nights — The Final Dawn** (confirms the patrol was held).
-> - **Jeryth's Message Received** — mark when the party receives the songbird's message. Read by **Ten Nights — The Final Dawn** and **Vault of Dragons** (Jeryth's prior knowledge of the vault opening).
+> - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins. Read by **The Final Dawn**, where Ambrose names the Brandath crypt unasked.
+> - **Bones Kept Safe** — mark when every skeleton that walked in was destroyed inside the grounds, so that none left with its bones. This covers nights 4, 6 and 8, and **The Final Dawn** reads it for Melannor's debrief and the Renown bonus.
+> - **Jeryth's Message Received** — mark for each member who hears Melannor relay her reply; read by **The Dreamer's Reach** and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**
 >
-> Proceed to the **Ten Nights — The Final Dawn** Event.
+> Continue with **The Final Dawn**. **Ten Nights in the City of the Dead** awards no Milestone Points.
 
 ## Overview
 
-For ten nights, the party patrols the northern City of the Dead while skeletons move through it with a single-minded directional purpose that takes several nights to map.
+For ten nights the party patrols the northern City of the Dead beside a Kelemvorite knight, and skeletons walk through it on three of them.
 
 ## Summary
 
-The party began a ten-night patrol of the northern City of the Dead alongside Sir Ambrose Everdawn. Skeletons appeared on multiple nights, each time moving with clear directional purpose toward the Brandath family crypt before retreating. When the pattern was reported to Melannor, Jeryth's response arrived by songbird: "Tell me the moment they open it."
+Melannor's crow sent us to the City of the Dead to patrol the north beside Sir Ambrose Everdawn. Skeletons walked in on three nights, and each time they went to the same grove and turned back. We took our notes to Melannor and heard Jeryth's reply.

@@ -2,164 +2,442 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Combat/Exploration Event begins when the pigeon briefing arrives at Trollskull Manor. In this Event, the party can:
+> This Exploration and Combat Event begins when Melannor's pigeon reaches an Emerald Enclave member at Trollskull Manor and ends when the members report to him at Phaulkonmere. In this Event, the party can:
 >
-> - Receive Melannor's pigeon briefing and travel to the Undercliff terraces east of the city walls
-> - Locate the territories of all three scarecrows by observation or by following Gerrick's guidance
-> - Engage the Sackcloth One, the Pumpkin Head, and the Blanket in the order they choose
-> - Find the Manshoon Splinter arcanist's testing site in the northern draw and report it to Melannor
-> - Receive the location of the sealed drainage tunnel from Gerrick after the work is done
+> - Take Melannor's 24-word message, or walk to Phaulkonmere and question him in person.
+> - Find the three scarecrows' territories by three routes: Gerrick, the tracks, or the animals.
+> - Fight the Sackcloth One, the Pumpkin Head and the Blanket one at a time, using a decoy, a runner or a lantern.
+> - Keep fire out of the dry fields, or accept the risk of burning a farm.
+> - Find the Splinter's testing site and its journal page by three routes.
+> - Learn where Gerrick's sealed drain comes out, by three routes.
 >
-> #### Fire and the Farms
+> Only Emerald Enclave members receive the pigeon and attend the debrief, and their companions can help with everything in between.
+
+> [!gamemaster]**What Is Actually True**
 >
-> All three scarecrows are combustible. A contained fire in clear terrain is a valid tactic. An uncontrolled fire spreading into open dry fields during combat reaches at least one nearby farm before it can be stopped. Gerrick notices. He says nothing at the time. He accounts for it in his tally of what is owed.
+> - A Splinter arcanist animated all three scarecrows from a chalk circle about a tenday ago. He wrote that all three woke at once and left before he could reorient them, so nothing controls the scarecrows now.
+> - The journal page is in the hand of Imre Daskov, the arcanist in **The Fouled Channel**, and nobody in this Event can learn his name.
+> - Melannor calls the arcanist's cell "the Splinter" and never names its master, and nobody in this Event says Manshoon.
+> - Gerrick's drain was sealed six years ago after a chuul scout from Illuun's brood came up through it, and his neighbours drove it back with fire. Gerrick never learned what it was, and nobody in this Event can tell him.
+> - Each scarecrow stays in its own territory, so a party cannot drag a second one into a fight.
+> - Run one territory per day and give the party a Long Rest between fights, so the Day Costs do not add together. Fighting all three in one day is not offered.
+> - The farms have penned their stock and shut their doors since the third night, so for three days after the party arrives the scarecrows hurt nothing. On the fourth night each scarecrow still standing breaks into a pen and kills stock.
 
 ### The Brief
 
-A pigeon arrives at Trollskull Manor one morning and delivers Melannor's briefing in his own voice.
+The pigeon reaches the member with the highest Wisdom score, or the higher Constitution score on a tie. It arrives at breakfast on the first morning that member has marked **Emerald Enclave Joined** and reached 2nd level. Read the following aloud:
 
 > [!readaloud]
-> A pigeon lands on the windowsill of Trollskull Manor, clears its throat with the deliberate clarity of a trained bird, and speaks in a calm baritone.
 >
-> > "Animated scarecrows are active in the Undercliff terraces east of the city walls. Three of them. Livestock have been attacked and a farmer was struck unconscious. The City Guard is occupied with the gang war and considers animated agricultural fixtures beneath their threshold. Something must be done."
+> You are at breakfast in the common room of Trollskull Manor when a grey pigeon lands on the windowsill. It walks along the sill, tilting its head at each of you in turn, and stops in front of one of you. The pigeon speaks in a low, even baritone that seems to come from somewhere behind its eyes.
 >
-> The pigeon departs.
+> > "Three animated scarecrows are killing livestock on the Undercliff farms east of the walls, and the Guard will not come, so find Gerrick Thatchley."
+>
+> The bird waits a moment for an answer that does not come, then flaps out over the alley and is gone.
+
+The message is 24 words, which fits the 25 words the 2024 *Animal Messenger* spell allows. The pigeon uses the Raven block, carries no reply and does not wait for one, and others nearby hear the message.
+
+A member who wants more can walk to Phaulkonmere in the Southern Ward, where Melannor answers questions at the gate. Companions wait outside the gate. If a member goes, read the following aloud:
+
+> [!readaloud]
+>
+> The gate of Phaulkonmere stands open, and Melannor Fellbranch waits just inside it with a watering can at his feet. Behind him a path of old flagstones leads between flower beds toward a garden whose far end you cannot see. He nods to each of you in turn and says your names correctly before you can introduce yourselves.
+
+> [!social]**The Groundskeeper at the Gate**
+>
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humourless groundskeeper of Phaulkonmere, who sends the Enclave's missions by animal and reports grim news as if describing the weather.
+>
+> Melannor speaks in plain, complete sentences at an even pace, and he does not use contractions, recognise a joke or swear. He answers each question once and then waits for the next one. He is worried about the farmers and does not show it.
+>
+> Conversation topics Melannor is willing to discuss include:
+>
+> - The scarecrows, and what the Enclave knows of them.
+> - The Guard's refusal to act.
+> - The old drains of the Undercliff.
+> - What the Enclave offers for the work.
+>
+> He will not discuss what troubles the soil under the Castle Ward, because he cannot name it, and he does not guess aloud.
+
+> [!qna]**Why us?**
+>
+> > "You have joined the Enclave, and the Undercliff is our ground, so the work falls to us. I have no one else free this tenday. The farmers cannot wait any longer for the Guard to find the time."
+
+> [!qna]**A joke?**
+>
+> > "That is not humorous, because three scarecrows are loose in the Undercliff and livestock are already dead. A farmer named Gerrick Thatchley has watched them from his barn for three days."
+
+> [!qna]**Who did this?**
+>
+> > "Scarecrows do not wake on their own, so someone made them. I would like to know who, and I suggest you look for the place where it was done."
+
+> [!qna]**The Guard?**
+>
+> > "The Guard is occupied with the gangs and considers animated scarecrows beneath its notice, but I do not agree. If nothing is done, a farmer will be hurt before the tenday ends."
+
+> [!qna]**Drains?**
+>
+> > "The Enclave's gardeners keep a map of the Undercliff drains. One brick tunnel runs west beneath the southern terraces toward the Castle Ward cisterns, and it was sealed six years ago."
+
+If a member asks this, mark the party as having learned the drain from Melannor, which is one of the three routes in **The Sealed Tunnel**.
+
+> [!qna]**What do we get?**
+>
+> > "The Enclave does not pay in coin, but your standing with us will grow with the work. The farmers will remember what you did for them."
 
 ### The Undercliff
 
-The farming terraces east of the walls are accessible through Trollgate in the South Ward. In spring the fields are green and actively worked. The signs of trouble here are visible before the party reaches the first farmhouse.
+The farm terraces of the Undercliff lie a morning's walk east of the city, past the walls, and the party reaches them in the afternoon of the first day. Three territories lie inside the terraces. The northern fields hold the Sackcloth One, the central orchards hold the Pumpkin Head, and the southern terraces hold the Blanket. Read the following aloud:
 
 > [!readaloud]
-> The farm tracks below the walls are quiet in a way that is not peaceful. A set of tools leans against a stone wall near the road, left where someone put them down and did not come back. At the far end of a long field of spring greens, a horse stands facing north, perfectly still, not grazing. Somewhere in the middle terraces, a scarecrow is in a position it was not in when anyone last walked this way.
-
-> [!exploration]**Locating the Territories**
 >
-> Any character who walks the terraces for half an hour, or who makes a successful DC 12 Wisdom (Perception) or Wisdom (Survival) check, establishes the general territories of all three scarecrows: the Sackcloth One in the northern fields, the Pumpkin Head in the central orchards, and the Blanket near Trollgate road to the south.
+> The farm tracks of the Undercliff wind between low stone walls and green terraces, and nobody is working in any of them. A set of tools leans against a wall where someone put them down and did not come back. At the far end of a long field a cart horse stands rigid with its head turned north. A few sheep huddle against a wall below it without grazing, and a farmer's garden gate swings open in the wind as you pass.
 
-### Gerrick Goodbarrel
+The party can find the territories three ways, and each gives the same result: where each scarecrow holds its ground and where it will appear next.
 
-Gerrick Goodbarrel is in his north field with a pitchfork and an expression of pure, settled impatience. He has been waiting three days for the city to send someone.
+> [!exploration]**Finding the Territories**
+>
+> - **Gerrick.** Gerrick has watched all three for three days and tells the party everything he knows. See **Gerrick**.
+> - **The tracks.** Any character who walks the fields and makes a successful **DC 14 Wisdom (Survival)** check reads the straw trails and flattened furrows. That is enough to name each scarecrow's territory and predict its next appearance.
+> - **The animals.** The cart horse faces north because the Sackcloth One walks the fields there, and the huddled sheep are watching the southern road. A character who casts *Speak with Animals* on either learns this at once. Any character who studies the animals and makes a successful **DC 11 Wisdom (Animal Handling)** check works it out.
+>
+> A party that tries none of these walks the terraces for half an hour, which finds all three territories but not the next appearance points. The party then cannot prepare the ground.
+
+> [!gamemaster]**Prepared Ground**
+>
+> A party that knows each scarecrow's next appearance can set up before the fight, and Gerrick lends the decoy and the lantern for it. A party without that knowledge still fights, but the scarecrow opens the fight at 30 feet from the nearest character.
+
+### Gerrick
+
+Gerrick Thatchley waits in the middle of his north field. He has been waiting three days for the Guard, and the party is the first help to arrive. Read the following aloud:
 
 > [!readaloud]
-> A halfling of about fifty stands in the north field holding a pitchfork, watching the party's approach with the expression of someone who has been waiting a specific number of days for exactly this. He is sun-weathered and practical, and he does not wait for introductions.
 >
-> > "About time. I've got the one in the north field pegged — it moves at dusk and goes straight for the livestock first. The one in the orchards runs at night and it'll chase anything moving fast enough to be worth chasing, so don't run. The one near Trollgate road has been holding position, can't be crept up on, but it walks toward light — a torch or a spell ought to bring it out. Three problems. You want the full account or do you want to start?"
+> Gerrick Thatchley stands alone in the middle of a stubble field with a pitchfork in one hand and a lantern in the other. He is a stout halfling of about fifty with a weathered face, and he does not turn around when your boots crunch on the stubble.
+>
+> > "If you're the Guard, you can turn around and fuck off. They told me a fortnight, and that was five days ago."
+>
+> He looks over his shoulder at you and lowers the pitchfork a little.
+>
+> > "You're not the Guard, are you? Then good, because the fucking Guard hasn't done a useful thing in forty years, and I've stopped expecting it."
 
-> [!social]**The Waiting Farmer**
+> [!social]**The Farmer in the Stubble**
 >
-> Gerrick Goodbarrel (Neutral, Lightfoot Halfling, he/him) :: a halfling farmer who has spent three days preparing for this conversation and has no interest in pleasantries.
+> Gerrick Thatchley (Neutral, Lightfoot Halfling, he/him) :: a halfling farmer of about fifty who has worked this land for thirty years and has run out of patience.
 >
-> Gerrick shares tactical assessments efficiently, answers specific questions about the terrain, and reports everything he observed — including the chalk marks in the eastern draw — without editorializing. He has farmed this land for thirty years. He has a running count of what the scarecrows have damaged and he will settle that account at the end.
+> Gerrick swears freely at the Guard and at the scarecrows, and he is gruff but not unkind to anyone who has come to help. He has watched the three scarecrows from his barn for three days and learned their habits. He would sooner do the work himself than ask for help, and he is relieved that he does not have to.
+>
+> Any character who watches him and makes a successful **DC 11 Wisdom (Insight)** check sees that he is more frightened for his cart horse than angry at anyone.
 >
 > Conversation topics Gerrick is willing to discuss include:
-> - The behavior of each scarecrow, which he describes with precision
-> - The streambed running east-west through the middle terraces, a natural funnel for anything moving north to south
-> - The chalk marks in the eastern draw near the northern farms, which he noticed and did not touch
-> - The drainage tunnel in the southern terraces, which he mentions after the work is done
 >
-> Any character who makes a successful DC 12 Wisdom (Insight) check confirms that Gerrick's assessment of each scarecrow's pattern is accurate.
+> - Where the scarecrows are and what they have done.
+> - How to use the stream and the orchards against them.
+> - Anything strange he has noticed in the north.
+> - Where the party can rest.
+>
+> He lends the party two buckets, two shovels, a wool blanket, two lanterns and a ewe, but he will not lend his laying goose.
 
-> [!qna]**How do we find them?**
+> [!qna]**Where are they?**
 >
-> > "North field has the Sackcloth One. It comes out at dusk and goes for the animals first, so if you've got horses, leave them back at Trollgate. The orchards east of center have the Pumpkin Head, and that one only works after full dark. The one near the road I call the Blanket, because of how it covers the ground — can't sneak up on it, but it goes toward light."
+> > "One walks my north fields from dusk, going after anything with wool on it. One is in the orchards at night, chasing whatever runs. The third stands by the milestone on the farm road, and I call them Sackcloth, Pumpkin Head and the Blanket."
 
-> [!qna]**About the streambed?**
+> [!qna]**What have they done?**
 >
-> > "Runs east-west through the middle section. About eight feet wide at the narrowest, stone-bottomed. Anything moving from the north terraces to the south has to cross it. Good place to hold a position if you're expecting something to come through."
+> > "They took three of my chickens and my best laying goose. The Pumpkin Head ran Marigold, my cart horse, halfway to the river, and she hasn't been right since. Old Tuckerman lost two ewes, and one of his lads got knocked flat."
 
-> [!qna]**About the chalk marks?**
+> [!qna]**Any advice?**
 >
-> He leans on his pitchfork.
+> > "There's a stream cut through the middle terraces, and anything crossing it has to climb in and out. Fire works on straw, but this stubble's dry as tinder. If you use it, do it down by the water."
+
+> [!qna]**The Blanket?**
 >
-> > "Eastern draw, north side, near where the Sackcloth One ranges. Flat stone in the draw, chalk marks on it — a circle, about eight feet across. Looked like arcanist work to me. I didn't touch it."
+> Gerrick spits into the stubble before he answers.
+>
+> > "It stands by the milestone, right over my old drain. That drain comes out below the southern terraces, where the cliff path meets the city wall. We bricked it up six years ago after something came up out of it, and the neighbours ran it off before I got there. Nobody has ever told me what it was, and I've stopped asking."
+
+If a character asks about the drain, mark the party as having learned it from Gerrick, which is one of the three routes in **The Sealed Tunnel**.
+
+> [!qna]**Anything odd up here?**
+>
+> > "There are chalk marks on a flat stone in the eastern draw, past my north field. I'd say it's an arcanist's work, though I didn't touch it, because I'm not stupid."
+
+> [!qna]**Where can we rest?**
+>
+> > "The hayloft's dry and clean, and you're welcome to it. Keep your lanterns out of it, or I'll have your hides."
 
 ### The Three Scarecrows
 
-Each encounter takes place in the terrain suited to its habits. All three use the **Scarecrow** stat block (2024 *Monster Manual*).
+The party fights the scarecrows one at a time. Each stays in its own territory, so the party chooses the order and the day. A scarecrow keeps any damage it has taken and does not follow anyone out of its ground.
 
-> [!hazard]**The Three Scarecrows**
+> [!hazard]**Why Never Two Together**
 >
-> The three scarecrows are independent; the party can engage them in any order. Each is combustible.
+> A Scarecrow's Terrifying Glare can Paralyze a character, and every hit against a Paralyzed character within 5 feet is a critical hit. One scarecrow needs two turns to do both, but two scarecrows can do it in a single round. A 2nd-level character does not survive the second critical hit. The territories keep the scarecrows apart for that reason, so do not let one leave its ground and do not run two fights at once.
 >
-> #### The Sackcloth One (Northern Fields)
->
-> At the start of combat, the Sackcloth One moves toward the nearest livestock or animal. If no animals are present, it moves toward the nearest character.
->
-> Over the course of combat, the Sackcloth One will prioritize:
-> - Attacking any character who stands between it and an animal
-> - Moving to flanking positions in the uneven field terrain
->
-> The Sackcloth One will not pursue characters who withdraw south across the streambed.
->
-> The battle ends when the Sackcloth One is destroyed.
->
-> #### The Pumpkin Head (Central Orchards)
->
-> At the start of combat, the Pumpkin Head moves toward whichever character is moving fastest, prioritizing anyone who moved more than half their speed on the previous round.
->
-> Over the course of combat, the Pumpkin Head will prioritize:
-> - Pursuing any character who uses the Disengage action to move away
-> - Chasing fleeing characters over engaging those who stand and fight
->
-> The battle ends when the Pumpkin Head is destroyed.
->
-> #### The Blanket (Southern Terraces)
->
-> The Blanket cannot be surprised. If the party used a sustained light source to draw it out, it moves toward the light source and attacks whoever carries it.
->
-> Over the course of combat, the Blanket will prioritize:
-> - Attacking whoever used the light source
-> - Moving toward any new light source introduced during the fight
->
-> The battle ends when the Blanket is destroyed.
+> The Day Costs are Bruising at three characters and Mild at four or five. Three fights on three separate days leave the party rested for each one.
 
-### The Arcanist's Testing Site
-
-> [!gamemaster]**Locating the Site**
+> [!hazard]**Fire in the Dry Fields**
 >
-> The site is in a sheltered draw near the northern farms, not far from the Sackcloth One's territory, and is findable with a successful DC 13 Intelligence (Investigation) check while searching the northern fields, or automatically if Gerrick is asked about the chalk marks and his directions are followed. A chalk animation circle, roughly eight feet across, is drawn on a flat stone outcrop. At the center: a discarded journal page.
-
-> [!exploration]**The Animation Circle**
+> The Scarecrow takes double damage from fire. The north stubble field and the southern terrace pasture are dry, and the other ground is green. Track the **Burn** from 0 to 6 in a dry field only:
 >
-> Any character who examines the chalk circle and makes a successful DC 13 Intelligence (Arcana) check can read the animation formula marked out in the chalk. It is competent ritual work, modified in ways that suggest experimentation rather than standard practice.
+> - A dry-field space is first set alight by a fire spell, a thrown oil flask, alchemist's fire or a burning scarecrow stepping into stubble: Burn +2 at once.
+> - At the end of each round in which any patch is still burning: Burn +1.
+> - A character spends an action beating out flames with the blanket or a shovel (Utilize, **DC 10 Strength or Dexterity** check): Burn -1.
+> - A character within 30 feet of the stream spends an action throwing a bucket (no check): Burn -2.
 >
-> > The circle is laid out in a careful hand, with a discarded journal page at its center. The page reads: "All three activated simultaneously, unexpected — departed before they could reorient." The handwriting is neat and pleased with itself.
->
-> Reporting the journal page to Melannor confirms that these were intentional Splinter field experiments, not natural manifestations.
+> A scarecrow that takes fire damage is alight. At the end of each of its turns it sets its own space alight, which counts as a new ignition in a dry field. At Burn 6 the nearest farm's outbuildings catch, and the fire is out at 0. Mark **Farm Damaged by Fire** when the scene ends. A party that uses no fire risks nothing, because the quick route is what costs the clock.
 
-### The Drainage Tunnel
+#### The Sackcloth One
 
-At the end of the mission, Gerrick walks the party south across the terraces to settle accounts. He counts what was damaged and what was not, and ends at the southern edge of the property near an old stone outlet choked over with grass and creeping vines.
+The Sackcloth One walks the northern stubble fields from dusk, goes for livestock first and ignores people while an animal is near. A stone sheepfold stands in the middle of the field, and Gerrick's barn lies 60 feet beyond the field's edge. Read the following aloud as dusk falls:
 
 > [!readaloud]
-> Gerrick walks you south to the edge of his property, naming as he goes what the scarecrows damaged and what they did not. At the southern terrace he stops at an old stone outlet, half-buried in grass and vines, and gives it a look that carries no particular urgency.
 >
-> > "That's the old drainage tunnel. Brick-lined, runs east to the Castle Ward cisterns. I've farmed this land for thirty years and it's been sealed for six of them. Something came up through it. I never found out what." He gives it one more look. "Thought you should know it's there."
+> The stubble fields run flat and grey under an orange sky, and a stone sheepfold stands in the middle of them with one ewe shut inside. You wait behind the barn wall as something tall walks out of the hedge along the eastern edge. It is a figure of sackcloth stuffed with straw and tied to a pole, and it turns its head toward the ewe and starts across the field.
+
+> [!hazard]**The Sackcloth One**
+>
+> One **Scarecrow**. The field is dry, so the Burn rules apply, and the only remedy here is beating out flames, with Gerrick's barn as the nearest outbuilding.
+>
+> If the party set the ewe in the fold before dusk, the Sackcloth One ignores the party completely until the ewe is dead or gone.
+>
+> #### The Sackcloth One's Tactics
+> At the start of combat, with the ewe in the fold, the Sackcloth One walks to the fold. Without a decoy, it uses Terrifying Glare on the first character who attacks it or crosses the eastern hedge.
+>
+> During combat, the Sackcloth One:
+> - Spends its first turn reaching the fold and its second tearing the gate open. It ignores the party even when attacked, so the party gets two rounds of free attacks.
+> - Kills the ewe on its third turn if it is still standing, and the party loses both the ewe and the +1 for three days.
+> - Turns on the character who last attacked it once the ewe is dead and uses Terrifying Glare on that character. On its next turn it moves to the Paralyzed character to Claw.
+> - Does not attack a creature at 0 hit points and turns to the next nearest instead.
+>
+> The fight ends when the Sackcloth One is destroyed. It does not flee, and the party can withdraw past the hedge, where it stays in the field.
+>
+> **Non-combat route.** A character who leads the ewe on a rope across the field crosses it unharmed, because the Sackcloth One ignores people near an animal. Crossing the field does not destroy the scarecrow.
+
+#### The Pumpkin Head
+
+The Pumpkin Head walks the central orchards at night and chases anything that runs. The orchard grass is green and wet and does not carry fire. A stream cut runs along the south end of the rows, with steep banks and water at the bottom. Read the following aloud:
+
+> [!readaloud]
+>
+> Pale blossom hangs over the apple rows in the dark, and the wet grass muffles your steps. At the far end of the lane stands a thin body of sticks and old clothes topped with a carved gourd, its hollow face turned toward you. When the first of you breaks into a run, it twists on its pole and starts down the row after that character.
+
+> [!hazard]**The Pumpkin Head**
+>
+> One **Scarecrow**. The orchard is green, so the Burn rules do not apply and fire is safe here, since a scorched trunk is the worst a burning scarecrow can do.
+>
+> The stream cut is the funnel. It is six feet deep and cannot be crossed without climbing down and up, and crossing takes the Pumpkin Head its whole turn.
+>
+> #### The Pumpkin Head's Tactics
+> At the start of combat, the Pumpkin Head uses Terrifying Glare on the character who runs, meaning any character who takes the Dash action in its sight.
+>
+> During combat, the Pumpkin Head:
+> - Chases the runner, moving toward the Paralyzed character on its next turn to Claw.
+> - Spends its whole turn climbing into and out of the stream cut when it crosses, so a runner on the south bank is out of its reach.
+> - Does not attack a creature at 0 hit points and turns to the next nearest instead.
+>
+> A party that sends a runner dashing across the cut gets a full round of ranged attacks while the Pumpkin Head climbs. The rest of the party waits on the south bank, 10 feet back from the lip.
+>
+> The fight ends when the Pumpkin Head is destroyed. It does not flee, and the party can withdraw out of the orchard, where it stays.
+>
+> **Non-combat route.** Walking at a normal pace draws no pursuit, so the party can cross the orchard without running.
+
+#### The Blanket
+
+The Blanket stands by the milestone on the farm road at the foot of the southern terraces, facing the road with its back to the hill. It cannot be crept up on, and it walks toward any steady light. The pasture beside it is dry grass, with Tuckerman's shearing shed 60 feet from its edge. The stream runs along the pasture's north side. If the party hung the lantern, read the following aloud as the light fails:
+
+> [!readaloud]
+>
+> At the foot of the terrace a stone milestone stands beside the farm road. A tall figure wrapped in a grey horse blanket stands next to it, facing down the road. The lantern you hung on a fence post near the stream steadies as the wind drops. The figure turns its head toward the flame and starts to walk across the pasture.
+
+> [!hazard]**The Blanket**
+>
+> One **Scarecrow**. The pasture is dry, so the Burn rules apply, and a bucket can be thrown from the stream at any patch within 30 feet of it. Tuckerman's shearing shed is the nearest outbuilding.
+>
+> If the party hangs a lit lantern on the fence post nearest the stream at dusk or after, the Blanket leaves its post and walks to the lantern. By day it holds its post, and no lantern draws it.
+>
+> #### The Blanket's Tactics
+> At the start of combat, the Blanket uses Terrifying Glare on the character carrying a light. If the light hangs on a post, it walks to the post and stands under it. It does not use Glare until a character attacks it or the flame goes out.
+>
+> During combat, the Blanket:
+> - Stares at the lantern for its first round, giving all attacks against it Advantage that round.
+> - Moves to a Paralyzed character on its next turn and Claws.
+> - Does not attack a creature at 0 hit points and turns to the next nearest instead.
+> - By day, uses Terrifying Glare on the first character to come within 30 feet of the milestone.
+>
+> The fight ends when the Blanket is destroyed. It does not flee, and the party can withdraw down the road, where it stays at its post.
+>
+> **Non-combat route.** A character who stays more than 30 feet from the milestone is not noticed, and the outlet of Gerrick's drain can be seen from that distance.
+
+### The Testing Site
+
+The chalk circle lies in a sheltered draw east of Gerrick's north field, close to the Sackcloth One's ground, and the party can find it three ways.
+
+> [!exploration]**Finding the Draw**
+>
+> - **Gerrick.** If the party asked about anything odd, Gerrick points out the flat stone in the eastern draw. See **Gerrick**.
+> - **The fields.** Any character who spends an hour searching the north fields and makes a successful **DC 13 Intelligence (Investigation)** check notices a path of broken chalk dust. The path leads east to the draw.
+> - **The Sackcloth One.** The scarecrow's patrol never passes the eastern hedge, because the circle holds it close. Any character who has watched or fought it sees that it turns back at the same place every time. The draw lies just beyond.
+>
+> A party that tries none of these finds the draw on the second day, when Gerrick passes it on his rounds and mentions the stone again.
+
+When the party reaches the draw, read the following aloud:
+
+> [!readaloud]
+>
+> In a hollow shielded by two hawthorn hedges, a flat slab of rock lies bare among the grass. A ring of white chalk about eight feet across is drawn on it, with marks around the rim that are smudged by rain but still plain. Three straw-and-rope bundles sit at the points of a triangle in the middle, and a sheet of paper is pinned under a stone at the center.
+
+> [!exploration]**Reading the Circle**
+>
+> Any character who studies the marks and makes a successful **DC 13 Intelligence (Arcana)** check recognises an animation ritual built to wake three objects at once. The circle has no binding line to hold or control what it woke. If nobody makes the check, Melannor reads the circle at the debrief.
+
+> [!exploration]**The Journal Page**
+>
+> The page is a single sheet torn from a notebook and covered in a cramped hand. Any character who reads it learns what it says:
+>
+> > Undercliff field test, third night. Chalk circle, eight feet. Three vessels, straw and cloth. All three activated simultaneously, unexpected — departed before they could reorient.
+>
+> At the foot of the page a small circle is drawn and split by a jagged line, which Melannor knows as the Splinter's mark. The party can take the page.
+
+### The Sealed Tunnel
+
+Gerrick's drain runs west under the wall from the southern terraces to a cistern access in the Castle Ward. Its outlet lies below the southern terraces, where the cliff path meets the city wall. The party learns where it is by three routes, and each marks **Drainage Tunnel Learned**.
+
+> [!exploration]**Learning the Outlet**
+>
+> - **Gerrick.** He mentions it when asked about the Blanket. If the party has not learned it by the time the last scarecrow falls, he tells them as they leave and says the Enclave may want it.
+> - **Melannor.** He knows the Undercliff drains and tells the party if a member asks. See **The Brief** and **Debrief at Phaulkonmere**.
+> - **The outlet.** It is in plain sight from the farm road, just beyond the Blanket's milestone. Any character who stands at the terrace edge and looks down sees it without a check.
+
+When a character looks at the outlet, read the following aloud:
+
+> [!readaloud]
+>
+> Below the southern terrace, where the cliff path runs into the city wall, a low brick arch sits in the hillside. It has been filled with mortared stone and an iron grate rusted into place, and water seeps from the foot of the grate down into the stream.
+
+> [!gamemaster]**The Seal**
+>
+> The seal is two feet of mortared stone behind an iron grate. Nothing behind it can be reached or is awake in this Event. If the party digs at it, Gerrick asks them to stop and says the Enclave will ask for it when it is needed. **The Fouled Channel** gives the party a reason to open it later.
+
+When the last scarecrow is down, read the following aloud:
+
+> [!readaloud]
+>
+> Gerrick leans on his pitchfork at the edge of the field and looks over the still stubble before he turns to you and nods once.
+>
+> > "Thank you, all of you, because I didn't think anyone was coming. If the Enclave ever needs that drain, you tell them where it is."
+
+If **Farm Damaged by Fire** is marked, read or paraphrase the following instead:
+
+> [!readaloud]
+>
+> Gerrick stands at the edge of the burned ground with his pitchfork hanging from one hand. He looks at the barn for a long moment before he turns to you.
+>
+> > "The straw's gone and so is the roof, but that's fine. You still got them, and I won't forget it. If the Enclave ever needs that drain, you tell them where it is."
+
+### Debrief at Phaulkonmere
+
+The members report to Melannor on the evening they finish, or after breakfast the next day if they are late, and companions wait at the gate. Read the following aloud:
+
+> [!readaloud]
+>
+> The gate of Phaulkonmere stands open before you reach it, and no one is near to have opened it. The garden inside is older than the street around it, with moss on the walls and roots lifting the paving stones. A calm woman's voice says "Rest here," and it comes from no direction in particular while the leaves stir along the path. Melannor waits beside the oldest oak in the garden with a trowel in his hand, and he sets it down when he sees you.
+
+Jeryth speaks nothing else in this Event, and Melannor is as described in **The Brief**. Let the members report in their own words, then continue with the questions below.
+
+> [!qna]**The page?**
+>
+> Melannor takes the sheet and reads it twice without changing his expression.
+>
+> > "This is the mark of the Splinter, the cell of the Zhentarim that broke away from the rest. They tested a ritual on your farmers' fields and left it running. I will give this page to Jeryth."
+
+Mark **Splinter Site Reported** when a member hands Melannor the page.
+
+> [!qna]**What is the Splinter?**
+>
+> > "The Splinter is the Zhentarim cell that does not answer to the others, and the Enclave has watched it for some time. I do not know why it came to the Undercliff."
+
+> [!qna]**The drain?**
+>
+> Melannor looks toward the oak for a moment before he answers.
+>
+> > "I will ask nothing of you about the drain yet. The soil is uneasy there, and I would like to know why."
+
+Use this answer only if **Drainage Tunnel Learned** is marked.
+
+### Renown Opportunities
+
+Melannor ends the debrief once he has what he needs. Read the following aloud:
+
+> [!readaloud]
+>
+> Melannor looks at each of you in turn and folds his hands in front of him.
+>
+> > "You did what was asked of you, and the Undercliff is safe again, for which the Enclave thanks you. I will send word when there is more work to be done."
+
+If the party destroyed all three scarecrows within three days, read the following aloud:
+
+> [!readaloud]
+>
+> Melannor tilts his head, which is the closest he comes to surprise.
+>
+> > "Gerrick tells me that no animal and no person was hurt after you arrived. That is better than I hoped, and the Enclave will remember it."
+
+If **Splinter Site Reported** is marked, read the following aloud:
+
+> [!readaloud]
+>
+> Melannor lays the page on a flat stone by the oak and sets his trowel on it to hold it down.
+>
+> > "You found the place where this began, and that is more than the Guard would have done."
+
+If **Farm Damaged by Fire** is marked, read the following aloud:
+
+> [!readaloud]
+>
+> Melannor keeps his hands folded and does not change his tone as he speaks.
+>
+> > "I am told a barn burned. Fire was a permitted tool, but I would have preferred the stream, and I hope Gerrick forgives it."
+
+If **Farm Damaged by Fire** is unmarked, read the following aloud:
+
+> [!readaloud]
+>
+> Melannor nods slowly and speaks without changing his tone.
+>
+> > "Gerrick tells me his barn still stands, and I am glad of it."
+
+> [!gamemaster]**Mission Renown**
+>
+> Each participating Emerald Enclave member gains 2 base Renown for ending the scarecrows' attacks and reporting to Melannor. Companions gain none.
+>
+> - **+1 Renown:** the party destroyed all three scarecrows within three days of arriving, before more livestock or people were hurt.
+> - **+1 Renown:** the member showed Melannor the testing-site journal page, and **Splinter Site Reported** is marked.
+> - **+1 Renown:** the party left no farm burned, meaning **Farm Damaged by Fire** is unmarked.
+
+### Aftermath
+
+Gerrick tells his neighbours who came, and the farms open their doors again. Melannor gives the page to Jeryth, who does not answer. A member whose Renown reaches 3 here is called to Phaulkonmere by **A Seat at Phaulkonmere**, and **Summerstrider** follows at noon the next day. The Splinter's arcanist is long gone and does not return in this Event.
 
 ### Concluding the Event
 
-The scarecrows are dealt with and Gerrick has settled his accounts.
+Melannor's thanks end the assignment. Record what the party found and whether a farm burned, because later events read each of these.
 
 > [!gamemaster]**Event Outcomes**
 >
-> Mark each outcome that occurs. Later events read them.
->
-> - **Scarecrows Cleared** — mark when all three scarecrows are destroyed. Read by **Ten Nights in the City of the Dead** (renown confirmed; mission unlock).
-> - **Splinter Site Reported** — mark when the journal page from the animation circle is reported to Melannor. Read by **Faction Outposts** (first direct evidence of Splinter field testing in the Undercliff).
-> - **Farm Damaged by Fire** — mark when an uncontrolled fire spread to a neighboring farm during combat. Read by **The Fouled Channel** (Gerrick's accounting; affects his attitude toward the party).
+> - **Splinter Site Reported** — mark when a member hands Melannor the journal page. Read by **Summerstrider** (the network's Undercliff line) and by **Faction Outposts** (unconverted).
+> - **Farm Damaged by Fire** — mark when the Burn reaches 6 and the fire reaches an outbuilding. Read by **The Fouled Channel**, where Gerrick is short with the party.
+> - **Drainage Tunnel Learned** — mark when the party learns where the drain's outlet lies, by any route. Read by **The Fouled Channel** and **The Dreamer's Reach**.
 
 > [!gamemaster]**Next Steps**
 >
-> Renown rewards: **+1 Renown** if all three scarecrows were destroyed before additional livestock or people were hurt; **+1 Renown** if the arcanist's testing site was found and the journal page reported to Melannor.
+> **Ten Nights in the City of the Dead** becomes available when an individual Emerald Enclave member reaches Renown 3 and 3rd level.
 >
-> The drainage tunnel Gerrick named is the access point for **Emerald Enclave Mission 5 — The Fouled Channel** and **Mission 6 — The Dreamer's Reach**.
->
-> **Emerald Enclave Mission 2 — Ten Nights in the City of the Dead** becomes available when the party reaches Renown 1 and 3rd level.
+> This faction mission awards no Milestone Points.
 
 ## Overview
 
-Three animated scarecrows are terrorizing the Undercliff farms east of Waterdeep's walls. Find them, destroy them, and don't let the fire get out of hand.
+The party hunts three animated scarecrows across the farms of the Undercliff and finds the place where they were made.
 
 ## Summary
 
-The party traveled to the Undercliff terraces and destroyed three animated scarecrows left loose by a Manshoon Splinter arcanist's field experiment. A halfling farmer named Gerrick Goodbarrel provided tactical support and, after the work was done, gave the party the location of a sealed drainage tunnel in the southern terraces that something came up through six years ago.
+We walked out to the Undercliff and met a halfling farmer named Gerrick Thatchley, who told us where the three scarecrows hold their ground. We destroyed them one at a time and found a chalk circle with a journal page marked by a split circle. Melannor says the mark belongs to the Splinter, and Gerrick says there is an old drain below the terraces.
