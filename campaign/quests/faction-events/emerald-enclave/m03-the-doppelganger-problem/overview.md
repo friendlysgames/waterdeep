@@ -7,18 +7,18 @@
 > #### Difficulty
 > *An adventure for 4th-level characters.*
 >
-> No fight is expected, but if a character lays hands on Edric Tanner, he fights alone as an ordinary 2024 **Doppelganger** and flees or surrenders as the event describes. The **Emerald Enclave Mechanics Reference** audits the fight for three, four and five characters.
+> No fight is expected. If a character lays hands on Edric Tanner, he fights alone as an ordinary 2024 **Doppelganger** and flees or surrenders as the event describes. The **Emerald Enclave Mechanics Reference** audits the fight for three, four and five characters.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points.
 
 ## Hook
 
-A falcon finds each eligible Emerald Enclave member with a message from Melannor Fellbranch. A crew of doppelgangers works out of the Yawning Portal, the Enclave wants it gone from Waterdeep, and Melannor asks the members to come to Phaulkonmere before they act.
+A falcon finds each eligible Emerald Enclave member with a message from Melannor Fellbranch. A crew of doppelgangers works out of the Yawning Portal, and the Enclave wants it gone from Waterdeep. Melannor asks the members to come to Phaulkonmere before they act.
 
 ## Background
 
-Bonnie has poured drinks at the Yawning Portal for over a year. She leads five doppelgangers who live on honest wages: herself, Edric Tanner, Kael, Syla and the Scholar. Melannor's animals learned what she is, and the Enclave will not leave a crew that reads minds in the one room where every faction in the city talks.
+Bonnie has poured drinks at the Yawning Portal for over a year. She leads five doppelgangers who live on honest wages: herself, Edric Tanner, Kael, Syla and the Scholar. Melannor's animals learned what she is. The Enclave will not leave a crew that reads minds in the one room where every faction in the city talks.
 
 Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick, who buys stolen information and sells it to whoever pays. Bonnie traced the payments three weeks ago and has told nobody.
 
@@ -32,11 +32,11 @@ Melannor's falcon speaks twenty-one words in his voice, and he gives the rest in
 
 ## The Portal
 
-The party reaches Bonnie in one of three ways: by asking her openly at the bar, by asking Durnan for the back room, or by finding Kael, Syla or the Scholar at work. Every route ends in the same arrangement, a talk in the back room after Durnan bars the door at 01:00. While they wait, the party can watch Edric hand folded paper to a halfling runner in the stable yard.
+The party reaches Bonnie in one of three ways. It can ask her openly at the bar, ask Durnan for the back room, or find Kael, Syla or the Scholar at work. Every route ends in the same arrangement, a talk in the back room after Durnan bars the door at 01:00. While they wait, the party can watch Edric hand folded paper to a halfling runner in the stable yard.
 
 ## The Back Room
 
-Bonnie drops her tavern voice and answers plainly, and because she reads surface thoughts, a character who names what leaving would cost her gets further than one who pushes.
+Bonnie drops her tavern voice and answers plainly. She reads surface thoughts, so a character who names what leaving would cost her gets further than one who pushes.
 
 ## The Traitor
 
@@ -48,7 +48,7 @@ Bonnie agrees to take the crew out of Waterdeep within two tendays. If she serve
 
 ## The Receipt
 
-Three days after the grace period ends, a dove brings a folded note with three dots in a triangle to Trollskull Manor, and Melannor calls it a receipt when a member shows it to him.
+Three days after the grace period ends, a dove brings a folded note with three dots in a triangle to Trollskull Manor. Melannor calls it a receipt when a member shows it to him at Phaulkonmere.
 
 ## Renown Opportunities
 

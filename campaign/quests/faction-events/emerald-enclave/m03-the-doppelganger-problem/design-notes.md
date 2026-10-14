@@ -6,7 +6,7 @@ WDH has one line for this mission: convince Bonnie with a DC 15 Charisma (Intimi
 
 ## What Changed
 
-The mission is no longer one check, because the party reaches Bonnie by three routes, finds Edric by three routes and can settle her future in several ways. Bonnie talks in the back room after closing, since her profile never lets her discuss what she is in the taproom and the Harper and Force Grey pages already use Durnan's back room.
+The mission is no longer one check, because the party reaches Bonnie by three routes, finds Edric by three routes and can settle her future in several ways. Bonnie talks in the back room after closing. Her profile never lets her discuss what she is in the taproom, and the Harper and Force Grey pages already use Durnan's back room.
 
 The user ruled that the Enclave makes the crew leave, Bonnie included, with one exception: if **Bonnie Harper Operative** is marked, the party can persuade Melannor that she is no threat. That reprieve is DC 15 Charisma (Persuasion), with Advantage if a Harper member vouches. **Doppelgangers Departed** and **Bonnie Departed** are separate outcomes because the other four go either way, and the two-tenday grace period lets **The Doppelganger Auditions** run and mark **Bonnie Harper Operative** before she leaves.
 

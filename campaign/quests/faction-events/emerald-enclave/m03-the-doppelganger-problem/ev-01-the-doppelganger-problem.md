@@ -256,7 +256,7 @@ If nobody names Edric by any route, Bonnie lets him finish his cup and sends him
 
 > [!gamemaster]**If Steel Is Drawn on Bonnie**
 >
-> If a character draws a weapon on Bonnie, she shifts into a stranger's face, says "Well, shit," and is out through the kitchen before anyone can move, and no initiative is rolled for her. The crew leaves the city that night, and the mission fails and awards no Renown. Mark **Doppelgangers Departed** and **Bonnie Departed** at once, do not mark **Traitor Identified**, and send no dove in **The Receipt**. The Emerald Enclave Mechanics Reference shows why the party cannot win this fight, since the crew together is Impossible at every party size.
+> If a character draws a weapon on Bonnie, she shifts into a stranger's face, says "Well, shit," and is out through the kitchen before anyone can move, and no initiative is rolled for her. The crew leaves the city that night, and the mission fails and awards no Renown. Mark **Doppelgangers Departed** and **Bonnie Departed** at once, and do not mark **Traitor Identified**. No dove arrives in **The Receipt**. The Emerald Enclave Mechanics Reference shows why the party cannot win this fight. The crew together is Impossible at every party size.
 
 > [!hazard]**If the Party Lays Hands on Edric**
 >
@@ -267,7 +267,7 @@ If nobody names Edric by any route, Bonnie lets him finish his cup and sends him
 >
 > During combat, Edric:
 > - Uses Unsettling Visage whenever two or more characters stand within 15 feet, then Slams the character in his way.
-> - Dashes and changes face when he drops to 26 hit points or fewer. His clothes, hat and bag do not change, so a tracker picks him out of a crowd with a successful DC 12 Wisdom (Perception) or Intelligence (Investigation) check each round.
+> - Dashes and changes face when he drops to 26 hit points or fewer. His clothes, hat and bag do not change. A tracker picks him out of a crowd with a successful DC 12 Wisdom (Perception) or Intelligence (Investigation) check each round.
 > - Loses a tracker only by changing clothes or breaking line of sight, and he needs a corner and an action for either.
 > - Surrenders at once if a character strips his hat or coat, and also if he is cornered at 26 hit points or fewer or Grappled below half.
 >
@@ -290,7 +290,7 @@ Bonnie asks for two tendays, which is the most Melannor will allow and exactly w
 > Any character who tells Bonnie plainly what the crew gives up and still asks her to go convinces her without a check. Any character who makes the demand and makes a successful DC 15 Charisma (Persuasion or Intimidation) check convinces her too. The DC is 12 if the character names the cost first, and 18 if the party sided with Edric.
 >
 > - **On a failure:** Bonnie says she will answer when someone has said what it costs, and a character who then names the cost convinces her without another check.
-> - **If the party sided with Edric and fails:** Bonnie goes to the Phaulkonmere gate the next morning and agrees to Melannor herself, and the party hears of it from him.
+> - **If the party sided with Edric and fails:** Bonnie goes to the Phaulkonmere gate the next morning and agrees to Melannor herself. The party hears of it from him when they next visit.
 
 When Bonnie agrees, read the following aloud:
 
@@ -300,15 +300,17 @@ When Bonnie agrees, read the following aloud:
 >
 > > "Two tendays, then. Kael will say it isn't his watch, Syla will ask what happens if she stays, and the Scholar will want paying, but they'll go. Keep your cats out of Durnan's cellar, and don't tell him what I am."
 
-Mark **Doppelgangers Departed**. The grace period is two tendays from this night, and Bonnie keeps her terms by closing her affairs and sending the crew off one by one while the Enclave's animals stay away from the Portal. Edric leaves ahead of the others unless he is already gone.
+Mark **Doppelgangers Departed**. The grace period is two tendays from this night. Bonnie keeps her terms by closing her affairs and sending the crew off one by one while the Enclave's animals stay away from the Portal. Edric leaves ahead of the others unless he is already gone.
 
 > [!gamemaster]**The Grace Period**
 >
-> At the end of the second tenday, mark **Bonnie Departed** unless the party has won her reprieve. If **The Doppelganger Auditions** (Harpers Mission 3) runs inside the grace period, it can still mark **Bonnie Harper Operative**, and the party can go back to Melannor and argue her case. Once **Bonnie Departed** is marked, **The Doppelganger Auditions** is unavailable because the crew is gone, and Force Grey's scenes at the Portal play without her.
+> At the end of the second tenday, mark **Bonnie Departed** unless the party has won her reprieve. If **The Doppelganger Auditions** (Harpers Mission 3) runs inside the grace period, it can still mark **Bonnie Harper Operative**, and the party can go back to Melannor and argue her case. Once **Bonnie Departed** is marked, **The Doppelganger Auditions** is unavailable because the crew is gone. Force Grey's scenes at the Portal then play without her.
 
 > [!exploration]**Bonnie's Case**
 >
-> This applies only if **Bonnie Harper Operative** is marked, and it can happen at the debrief or on any visit to Phaulkonmere before the grace period ends. Any character who argues to Melannor that Bonnie is no threat and makes a successful DC 15 Charisma (Persuasion) check convinces him to let her stay. The character has Advantage if an individual Harper member of the party vouches for Bonnie's Harper terms: her crew's names kept private, her reports routed through the members, and her right to refuse any job.
+> This applies only if **Bonnie Harper Operative** is marked, and it can happen at the debrief or on any visit to Phaulkonmere before the grace period ends.
+>
+> Any character who argues to Melannor that Bonnie is no threat and makes a successful DC 15 Charisma (Persuasion) check convinces him to let her stay. The character has Advantage if an individual Harper member of the party vouches for Bonnie's Harper terms. Those terms keep her crew's names private, route her reports through the members and let her refuse any job.
 >
 > - **On a success:** Edric, Kael, Syla and the Scholar still go, Bonnie stays at the Portal, and **Bonnie Departed** is never marked.
 > - **On a failure:** Melannor's demand stands and the party gets no second attempt, so Bonnie leaves with the others when the grace period ends.
@@ -401,9 +403,9 @@ The report to Melannor ends the assignment. Record who sold the names, who bough
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Traitor Identified** — mark when Bonnie names Edric as the one who sold the names and Kelso Fiddlewick as the buyer; read by **The Missing Snobeedle** (Doom Raiders Mission 3), where Kelso answers questions about it, and by **Faction Outposts** (unconverted).
-> - **Doppelgangers Departed** — mark when Bonnie agrees to the departure, or at once if steel is drawn; read by **The Doppelganger Auditions** (Harpers Mission 3), **The Trouble with Meloon** (Force Grey Mission 3) and **Destroy the Intellect Factory** (Force Grey Mission 4).
-> - **Bonnie Departed** — mark at the end of the second tenday unless the party won her reprieve, or at once if steel is drawn; read by **The Doppelganger Auditions**, **The Trouble with Meloon** and **Destroy the Intellect Factory**.
+> - **Traitor Identified** — mark when Bonnie names Edric as the one who sold the names and Kelso Fiddlewick as the buyer. It is read by **The Missing Snobeedle** (Doom Raiders Mission 3), where Kelso answers questions about it, and by **Faction Outposts** (unconverted).
+> - **Doppelgangers Departed** — mark when Bonnie agrees to the departure, or at once if steel is drawn. It is read by **The Doppelganger Auditions** (Harpers Mission 3), **The Trouble with Meloon** (Force Grey Mission 3) and **Destroy the Intellect Factory** (Force Grey Mission 4).
+> - **Bonnie Departed** — mark at the end of the second tenday unless the party won her reprieve, or at once if steel is drawn. It is read by **The Doppelganger Auditions**, **The Trouble with Meloon** and **Destroy the Intellect Factory**.
 
 > [!gamemaster]**Next Steps**
 >
