@@ -44,15 +44,13 @@ Melannor delivers every surge by grey pigeon with his *Animal Messenger* spell. 
 
 ### The Garden Gate
 
-Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, about two hours' walk from Trollskull Alley. Read the following aloud at a member's first arrival, and give later arrivals a single sentence in its place. Companions stop at the gate and wait in the outer garden.
+Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, about two hours' walk from Trollskull Alley. Read the following aloud at a member's first arrival, with the member's name and the right hour in the greeting, and give later arrivals a single sentence in its place. Companions stop at the gate and wait in the outer garden.
 
 > [!readaloud]
 >
 > The gate of Phaulkonmere stands open before you reach it, and nobody is near to have opened it. The garden inside is older than the street around it, with moss on the walls and roots lifting the paving stones. Every path bends toward the oldest oak, where Melannor Fellbranch waits with his hands folded. The leaves above him turn toward you as you come up the path.
 >
 > > "Good morning, Name, and thank you for coming so promptly. I will tell you why Jeryth and I sent for you."
-
-Use the member's name, and change "morning" to match the hour.
 
 > [!social]**The Groundskeeper at the Oak**
 >
@@ -87,10 +85,6 @@ The member can give the account on any visit to the oak, and the visit needs no 
 > [!qna]**What is the disturbance?**
 >
 > > "It is a pressure in the groundwater below the Castle Ward, and Jeryth has held it back for months. After the fireball she felt it turn toward the city."
-
-> [!qna]**Why do the starlings circle?**
->
-> > "Birds gather over water that is troubled. The fisherfolk call it an ill sign, and in this case I believe they are correct."
 
 > [!qna]**What do you need from us?**
 >
@@ -136,10 +130,6 @@ Melannor is in the eastern garden and not at the oak. Read **The Garden Gate** f
 > [!qna]**Why must the Stone move?**
 >
 > > "Jeryth says that what dreams below finds the Stone more easily when it rests. A Stone that travels is harder to find. She did not say more."
-
-> [!qna]**What happens if it stays?**
->
-> > "The roots will keep moving. I cannot say what else will, because Jeryth has not told me."
 
 > [!exploration]**Keeping the Stone Moving**
 >
@@ -237,10 +227,6 @@ If **Xanathar's Lair** has not yet run, Jeryth offers a second path after the re
 > - **What the rat gives:** the route and nothing else. It cannot fight, it stops at the top of the stair, and it returns to Phaulkonmere by itself.
 > - **If the party is not ready:** the rat remembers the way, and a member can ask Jeryth for it again after the party has planned its approach.
 
-> [!qna]**Where does the stair go?**
->
-> > "Down, past the first landing. I did not go farther, because the smell frightened me."
-
 ### Surge Four: The Path Found
 
 This surge fires at dawn after the second Eye is restored. Fish in three wards have been schooling in tight patterns and beaching themselves on the south quay in waves. They survive, turn and slide back into the water. The two constables who took the report are the two who handled the cistern workers' dreams, and the Watch is not investigating.
@@ -287,7 +273,7 @@ Otherwise mark **Fouled Channel Requested** for each member who hears the reques
 
 > [!readaloud]
 >
-> Melannor holds out the bark disc on his open palm. It is resin-hardened and warm to the touch, and the grain runs in rings like the heart of a tree.
+> Melannor holds out the bark disc on his open palm. It is resin-hardened and warm to the touch.
 >
 > > "Press this into the bare stone of the cellar on Selduth Street, in the Trades Ward. The merchant is Bertio Caskwall, and he does not need to know what it is."
 
@@ -303,8 +289,7 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 >
 > Bertio is happy to discuss the following topics:
 >
-> - The crew he hired and the cold in the east corner.
-> - His stock, which is stored two streets away until the cellar is finished.
+> - The crew he hired, the cold in the east corner and his stock.
 >
 > He will not discuss what the crew was paid, which he considers his own business.
 
@@ -382,10 +367,6 @@ Mark **Silence Warning Given** for each member who hears her. Then read the foll
 >
 > > "When her voice stops, no animal will leave this garden, so I cannot send for you. On the morning after, the oak in your courtyard will put out shoots in every direction. Come to me then."
 
-> [!qna]**How long does she have?**
->
-> > "I do not know. Her voice was clear a tenday ago, and it is thin now. I will not guess a day."
-
 > [!qna]**What can we do until then?**
 >
 > > "Do what Jeryth asked in the channel, if it is not done. Keep the Stone moving, and watch the oak in your courtyard."
@@ -410,11 +391,11 @@ This Event awards no base Renown. Each participating Emerald Enclave member can 
 
 The surges leave no trace in the city beyond the signs themselves. The Watch does not connect the starlings, the dreams, the fish and the wellwater, and no faction learns what Jeryth said.
 
-A Harper in the party who heard Jeryth in Surge Three recognises her words in **The Stone's Other Master**, where Mirt's seer feels an answer from below. **The Fouled Channel** reads **Fouled Channel Requested** to let Melannor say Jeryth asked, and **The Dreamer's Reach** reads **Silence Warning Given** for the oak and for Melannor's apology.
+A Harper in the party who heard Jeryth in Surge Three recognises her words in **The Stone's Other Master**, where Mirt's seer feels an answer from below.
 
 ### Concluding the Event
 
-The Event concludes when the fifth surge has fired and each member has heard Jeryth's warning. It reads no outcome, and it writes two.
+The Event concludes when the fifth surge has fired and each member has heard Jeryth's warning. It writes two outcomes.
 
 > [!gamemaster]**Event Outcomes**
 >
