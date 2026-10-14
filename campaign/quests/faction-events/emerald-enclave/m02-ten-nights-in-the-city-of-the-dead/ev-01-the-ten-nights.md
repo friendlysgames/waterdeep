@@ -146,9 +146,9 @@ Each night every character chooses a post and holds it from sunset to sunrise, a
 
 > [!social]**The Watch at the Grove**
 >
-> Officer Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) :: two City Watch officers on the late shift, who are bored, cold and glad of company.
+> Officer Jonn Bannock (Lawful Neutral, Waterdhavian Human, he/him) and Officer Ysa Terrow (Lawful Neutral, Waterdhavian Human, she/her) :: two City Watch officers on the late shift.
 >
-> Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check. They have no idea why the north is wrong and say so.
+> Both officers are bored, cold and glad of company. Bannock does the talking and Terrow keeps the ledger, and together they keep the party off the Brandath ground. They show the ledger to a member who asks politely, with no check. They have no idea why the north is wrong and say so.
 >
 > The officers are willing to discuss the following topics:
 >
@@ -203,7 +203,7 @@ Three independent routes show that the skeletons are going to the Brandath crypt
 
 > [!exploration]**Three Routes to the Pattern**
 >
-> - **The skeletons' path.** Any character who has seen two skeleton nights and makes a successful DC 12 Intelligence (Investigation) check writes down the entry point at the wall, the route along the row, the one-round pause at the grove's edge and the turn. A character who writes the notes after each skeleton night needs no check after the third.
+> - **The skeletons' path.** Any character who has seen two skeleton nights and makes a successful DC 12 Intelligence (Investigation) check writes down the entry point at the wall and the route along the row. The notes also record the one-round pause at the grove's edge and the turn. A character who writes the notes after each skeleton night needs no check after the third.
 > - **Ambrose's account.** From night 5 on, Ambrose reports at dawn that the south is quiet and that the wrongness lies north and a little east of the middle. A character who asks him to mark the three emptied mausoleums on the cemetery plan sees that all three stand on a line toward the Brandath grove. No check is needed.
 > - **The Watch ledger.** The seven entries in the officers' ledger all describe frost, footprints and cold on the grove side of the path. A character who reads the ledger and makes a successful DC 11 Intelligence (Investigation) check sees that each entry points at the doors.
 >
@@ -238,7 +238,7 @@ The tenth night closes at dawn with the party at the central gate path. Nothing 
 > [!gamemaster]**Event Outcomes**
 >
 > - **Pattern Documented** — mark when the party has put the skeletons' path, Ambrose's account or the Watch ledger before both Ambrose and Melannor before the tenth night begins. Read by **The Final Dawn**, where Ambrose names the Brandath crypt unasked.
-> - **Bones Kept Safe** — mark when every skeleton that walked in on nights 4, 6 and 8 was destroyed inside the grounds, so that none left with its bones. Read by **The Final Dawn**, which reads it for Melannor's debrief and the Renown bonus.
+> - **Bones Kept Safe** — mark when every skeleton that walked in was destroyed inside the grounds, so that none left with its bones. This covers nights 4, 6 and 8, and **The Final Dawn** reads it for Melannor's debrief and the Renown bonus.
 > - **Jeryth's Message Received** — mark for each member who hears Melannor relay her reply; read by **The Dreamer's Reach** and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**

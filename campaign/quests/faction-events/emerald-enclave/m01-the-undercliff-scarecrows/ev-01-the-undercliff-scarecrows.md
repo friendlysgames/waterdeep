@@ -304,9 +304,9 @@ Gerrick's drain runs west under the wall from the southern terraces to a cistern
 
 > [!exploration]**Learning the Outlet**
 >
-> - **Gerrick.** He mentions it when asked about the Blanket, and if the party has not learned it by the time the last scarecrow falls, he tells them as they leave and says the Enclave may want it.
+> - **Gerrick.** He mentions it when asked about the Blanket. If the party has not learned it by the time the last scarecrow falls, he tells them as they leave and says the Enclave may want it.
 > - **Melannor.** He knows the Undercliff drains and tells the party if a member asks. See **The Brief** and **Debrief at Phaulkonmere**.
-> - **The outlet.** It is in plain sight from the farm road, just beyond the Blanket's milestone, and any character who stands at the terrace edge and looks down sees it without a check.
+> - **The outlet.** It is in plain sight from the farm road, just beyond the Blanket's milestone. Any character who stands at the terrace edge and looks down sees it without a check.
 
 When a character looks at the outlet, read the following aloud:
 
@@ -316,7 +316,7 @@ When a character looks at the outlet, read the following aloud:
 
 > [!gamemaster]**The Seal**
 >
-> The seal is two feet of mortared stone behind an iron grate, and nothing behind it can be reached or is awake in this Event. If the party digs at it, Gerrick asks them to stop and says the Enclave will ask for it when it is needed. **The Fouled Channel** gives the party a reason to open it later.
+> The seal is two feet of mortared stone behind an iron grate. Nothing behind it can be reached or is awake in this Event. If the party digs at it, Gerrick asks them to stop and says the Enclave will ask for it when it is needed. **The Fouled Channel** gives the party a reason to open it later.
 
 When the last scarecrow is down, read the following aloud:
 
@@ -420,13 +420,13 @@ Gerrick tells his neighbours who came, and the farms open their doors again. Mel
 
 ### Concluding the Event
 
-Melannor's thanks end the assignment, and the GM records what the party found and whether a farm burned, because later events read each of these.
+Melannor's thanks end the assignment. Record what the party found and whether a farm burned, because later events read each of these.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Splinter Site Reported** — mark when a member hands Melannor the journal page; read by **Summerstrider** (the network's Undercliff line) and by **Faction Outposts** (unconverted).
-> - **Farm Damaged by Fire** — mark when the Burn reaches 6 and the fire reaches an outbuilding; read by **The Fouled Channel**, where Gerrick is short with the party.
-> - **Drainage Tunnel Learned** — mark when the party learns where the drain's outlet lies, by any route; read by **The Fouled Channel** and **The Dreamer's Reach**.
+> - **Splinter Site Reported** — mark when a member hands Melannor the journal page. Read by **Summerstrider** (the network's Undercliff line) and by **Faction Outposts** (unconverted).
+> - **Farm Damaged by Fire** — mark when the Burn reaches 6 and the fire reaches an outbuilding. Read by **The Fouled Channel**, where Gerrick is short with the party.
+> - **Drainage Tunnel Learned** — mark when the party learns where the drain's outlet lies, by any route. Read by **The Fouled Channel** and **The Dreamer's Reach**.
 
 > [!gamemaster]**Next Steps**
 >

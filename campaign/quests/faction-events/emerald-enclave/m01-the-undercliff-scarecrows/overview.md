@@ -18,7 +18,7 @@ On the first morning after a member qualifies, a grey pigeon finds that member a
 
 ## Background
 
-About a tenday ago a Splinter arcanist drew a chalk circle in a sheltered draw north of the Undercliff farms and animated three scarecrows at once. He had not expected all three to wake, and he left before he could bring them under control. They now hold three territories of their own: the Sackcloth One in the northern fields, the Pumpkin Head in the central orchards and the Blanket on the southern terraces.
+About a tenday ago a Splinter arcanist drew a chalk circle in a sheltered draw north of the Undercliff farms and animated three scarecrows at once. He had not expected all three to wake, and he left before he could bring them under control. They now hold three territories of their own. The Sackcloth One walks the northern fields, the Pumpkin Head haunts the central orchards, and the Blanket stands on the southern terraces.
 
 Gerrick Thatchley, a halfling farmer of about fifty, has watched them for three days from his barn in the north, and he is angry that nobody has come. He also knows a sealed brick drain that runs west from the southern terraces to the cisterns under the Castle Ward.
 
@@ -26,7 +26,7 @@ Gerrick Thatchley, a halfling farmer of about fifty, has watched them for three 
 >
 > - The Splinter is the Zhentarim cell that broke away from the rest, and nobody in this mission names its master.
 > - The journal page in the draw is in the same hand as the logbook in **The Fouled Channel**, and its writer is Imre Daskov, whom nobody here can name.
-> - The drain was sealed six years ago after a chuul scout from Illuun's brood came up through it, and Gerrick's neighbours drove it back with fire. Gerrick never learned what it was, and **The Dreamer's Reach** pays this off.
+> - The drain was sealed six years ago after a chuul scout from Illuun's brood came up through it. Gerrick's neighbours drove it back with fire, and Gerrick never learned what it was, so **The Dreamer's Reach** pays this off.
 > - The scarecrows have no master, so nothing controls them now and they stay inside their territories.
 
 ## The Brief
@@ -43,7 +43,7 @@ Gerrick Thatchley waits in his north field with a pitchfork and swears at the Gu
 
 ## The Three Scarecrows
 
-Each scarecrow is fought alone, on its own ground, with one Long Rest between fights. Each has a habit the party can use, whether a decoy, a runner or a lantern, and fire works well, but a dry field can carry it to a barn.
+Each scarecrow is fought alone, on its own ground, with one Long Rest between fights. Each has a habit the party can use, whether a decoy, a runner or a lantern. Fire works well against them, but a dry field can carry it to a barn.
 
 ## The Testing Site
 

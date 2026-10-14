@@ -13,12 +13,12 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - The skeletons stopped at the third hour after midnight on the tenth night, when the pressure below the grove drew back. Nothing in this Event explains why.
-> - Ambrose has felt the north go wrong for months, and the Brandath crypts are the centre of it. He does not know about the Vault of Dragons.
+> - The skeletons stopped at the third hour after midnight on the tenth night, when the pressure below the grove drew back, and nothing in this Event explains why.
+> - Ambrose has felt the north go wrong for months, and the Brandath crypts are the centre of it, although he does not know about the Vault of Dragons.
 > - Ambrose names the crypt unasked only if **Pattern Documented** is marked, because the report counts as asking. Otherwise he names it when a character asks and gives a reason, and a reason is anything the party saw on the patrol.
 > - The largest elm at the grove is a treant. It watches people on the path and does not move for them.
-> - The stair, the glyph of warding and everything behind the Brandath doors belong to **Vault of Dragons**. Nothing here opens or reveals them.
-> - Jeryth knows only that the Brandath ground feels wrong to her. Melannor knows less than she does.
+> - The stair, the glyph of warding and everything behind the Brandath doors belong to **Vault of Dragons**, and nothing here opens or reveals them.
+> - Jeryth knows only that the Brandath ground feels wrong to her, and Melannor knows less than she does.
 
 ### The Tenth Dawn
 
@@ -42,7 +42,7 @@ Ambrose is waiting at the central gate path when the party arrives. He asks how 
 > - The Brandath crypts, once the party has asked and given a reason, or reported the pattern.
 > - His fifteen years in the cemetery.
 
-If **Pattern Documented** is marked and no character has asked about the crypt, Ambrose names it after the report. Read the following aloud:
+If **Pattern Documented** is marked and no character has asked about the crypt, Ambrose names it after the report, and you read the following aloud:
 
 > [!readaloud]
 >
@@ -74,7 +74,7 @@ If **Pattern Documented** is not marked and a character asks about the crypt, Am
 
 ### The Brandath Grounds
 
-The party can walk the main path to the edge of the grove. Officers Bannock and Terrow are on shift. They let the party pass as far as the stones that mark the edge of the ground.
+The party can walk the main path to the edge of the grove. Officers Bannock and Terrow are on shift and let the party pass as far as the stones that mark the edge of the ground.
 
 > [!readaloud]
 >
@@ -82,21 +82,21 @@ The party can walk the main path to the edge of the grove. Officers Bannock and 
 
 > [!exploration]**The Sealed Doors**
 >
-> Any character who studies the doors from the stones and makes a successful DC 13 Intelligence (Arcana) check reads layers of old warding on them, laid over decades. It is containment of the kind used to keep something in, and it is holding. *Detect Magic* shows the same abjuration with no check. Ambrose says the Watch has always called the doors "warded" and that he has never looked closer.
+> Any character who studies the doors from the stones and makes a successful DC 13 Intelligence (Arcana) check reads old warding laid over decades. It is containment of the kind used to keep something in, and it is holding. *Detect Magic* shows the same abjuration with no check. Ambrose says the Watch has always called the doors "warded" and that he has never looked closer.
 >
-> - **Result of 18 or higher:** The character also sees that the warding has been pressed on from the inside, and that the pressure eased at the third hour on the tenth night.
+> - **Result of 18 or higher:** The character also sees that the warding has been pressed on from the inside. The pressure on it eased at the third hour on the tenth night, when the skeletons stopped.
 
 > [!exploration]**The Elm**
 >
-> Any character who studies the largest elm and makes a successful DC 12 Intelligence (Nature) check recognizes a treant, awake, that has been watching the path since the party arrived. Officer Bannock says the Watch calls it "the old elm" and that it has never moved for anyone on the path. Ambrose says the same if asked.
+> Any character who studies the largest elm and makes a successful DC 12 Intelligence (Nature) check recognizes a treant. The treant is awake and has been watching the path since the party arrived. Officer Bannock says the Watch calls it "the old elm" and that it has never moved for anyone on the path, and Ambrose confirms this if asked.
 >
 > The treant watches the party on the path and does nothing. A character who steps past the stones toward the doors hears it growl once in a voice like splitting wood:
 >
 > > "Only those of Brandath blood are welcome here! Begone!"
 >
-> A character who goes on toward the doors finds the treant stepping across the way. It lifts the character off the ground in its branches and sets them down outside the stones. Ambrose arrives and escorts the party off the grounds, and the Enclave hears of it by noon. The 100 gp is still paid, but **Brandath Crypts Visited** is not marked for that character. The member loses nothing else.
+> A character who goes on toward the doors finds the treant stepping across the way. It lifts the character off the ground in its branches and sets them down outside the stones. Ambrose arrives and escorts the party off the grounds, and the Enclave hears of it by noon. The 100 gp is still paid, but **Brandath Crypts Visited** is not marked for that character, though the member loses nothing else.
 
-Nothing in this Event opens the Brandath doors. Mark **Brandath Crypts Visited** for each member who walks the path to the stones and reads the doors.
+Nothing in this Event opens the Brandath doors, and you mark **Brandath Crypts Visited** for each member who walks the path to the stones and reads the doors.
 
 ### Renown Opportunities
 
@@ -130,7 +130,7 @@ If **Pattern Documented** is marked, Melannor adds that Jeryth wished him to say
 
 ### Aftermath
 
-Ambrose remains a minor contact in the City of the Dead who can be asked about the cemetery, the Watch stations and the northern families. In **Vault of Dragons** he recognizes a party that carries **Brandath Crypts Visited** and waves it through the gate with a warning to be quick. The skeletons do not return. The Watch ledger stops filling, and the frost leaves the path within a tenday.
+Ambrose remains a minor contact in the City of the Dead who can be asked about the cemetery, the Watch stations and the northern families. In **Vault of Dragons** he recognizes a party that carries **Brandath Crypts Visited** and waves it through the gate with a warning to be quick. The skeletons do not return, the Watch ledger stops filling, and the frost leaves the path within a tenday.
 
 ### Concluding the Event
 
