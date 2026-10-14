@@ -18,4 +18,3 @@ Invented: the gate box, the benches by the gate, the dusk meeting, the falcon fo
 
 For the out-of-scope log:
 - `campaign/structure/arc-e-faction-outposts.md:85` carries the Southern Ward line with "infernal" in it, which the Enclave cannot know.
-- `campaign/quests/faction-events/emerald-enclave/s01-a-seat-at-phaulkonmere/ev-01-a-seat-at-phaulkonmere.md` still uses the retired format and does not yet mark **East Gate Key Held**.
