@@ -270,7 +270,7 @@ Read the following aloud as the crew arrives:
 > At the start of combat, Sevrin casts *Spiritual Weapon* as a bonus action and uses *Command* (Drop or Grovel) on the nearest character who reaches for the jars. The Toughs take the chamber mouth and use Pack Tactics.
 >
 > During combat, Sevrin and the Toughs:
-> - Fight with Pact Blade and Mace against any character who stands next to a Tough.
+> - Fight with Pact Blade (Sevrin) and Mace (the Toughs) against any character who stands next to a Tough.
 > - Use *Hold Person* from round 2 onward, and only on a character with no ally within 5 feet.
 > - Focus the character Sevrin has Commanded or held.
 > - Never follow the party onto the dais of the first chamber.
@@ -424,7 +424,7 @@ Melannor's thanks end the assignment. Record the three outcomes below, because l
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Cache Destroyed** — mark when the last of the six jars is burned to ash; read by **The Dreamer's Reach** (Background: the conduit carries clean water only, and Jeryth's cutting is the first thing the brood tastes)
+> - **Cache Destroyed** — mark when the last of the six jars is burned to ash; read by **The Dreamer's Reach** (Background: the waste no longer feeds the channel)
 > - **Imre Identified** — mark when the name Imre Daskov reaches the party, by decoding the logbook or by Melannor's two-day reading; read by **Kolat Towers** (unconverted)
 > - **Cultists Escaped** — mark when anyone of Sevrin's company climbs the stair and gets away; read by **Vault of Dragons** (unconverted; Watch cooperation in the Trades Ward)
 

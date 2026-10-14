@@ -18,9 +18,9 @@ At dawn a crow lands on the oak in the courtyard of Trollskull Manor and speaks 
 
 ## Background
 
-For five tendays the Splinter has poured the waste of its thrall-conditioning into a Castle Ward cistern. The alchemy keeps the Splinter's mind-controlled servants docile, and its dregs are easier to dump in a sealed channel than to carry through the streets of the Trades Ward. A crew of cultists brings the jars down a stair every third day at dusk, and a Fanatic guards them since a rat-catcher found the stair.
+For five tendays the Splinter has poured the waste of its thrall-conditioning into a Castle Ward cistern. The alchemy keeps the Splinter's mind-controlled servants docile, and its dregs are easier to dump in a sealed channel than to carry through the streets of the Trades Ward. A crew of cultists brings the jars down a stair every third day at dusk, and a Fanatic has guarded them since a rat-catcher found the stair.
 
-Nobody meant the damage. The film dulls anyone who drinks it, and it has crept along a buried watercourse into the Trades Ward wells and the groundwater under Phaulkonmere. Melannor and Jeryth know only that the beds are dying and the water is wrong. Gerrick Thatchley's sealed drain in the Undercliff leads to the same cisterns.
+Nobody meant the damage. The film dulls anyone who drinks it, and it has crept along a buried watercourse into the Trades Ward wells and the groundwater under Phaulkonmere. Melannor and Jeryth know only that the beds are dead along the west wall and the water is wrong. Gerrick Thatchley's sealed drain in the Undercliff leads to the same cisterns.
 
 > [!gamemaster]**What Is Actually True**
 >
