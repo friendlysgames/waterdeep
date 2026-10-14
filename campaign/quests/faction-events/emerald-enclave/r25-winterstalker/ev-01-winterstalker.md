@@ -15,7 +15,7 @@
 
 Hold this Event until **Autumnreaver Reached** is marked for the member. At dusk on the day after the member reaches Renown 25, an owl finds them wherever they are lodging. Use the Owl stat block, which is a Tiny Beast of CR 0. Every qualifying member is invited on their own account, so members who cross the threshold together attend together and are recorded one by one.
 
-A member who is away from Waterdeep or below the surface finds the owl at their first surface lodging on return, at the next dusk, and the meeting moves to the following morning. If someone kills the owl before it speaks, a second one arrives at the next dusk. The six missions bring a member to Renown 19 on their base awards, so a member needs about 6 more from mission bonuses and the Earning Renown list in the Factions Guide before this rank arrives. Every procedure below works whenever it comes.
+A member who is away from Waterdeep or below the surface finds the owl at their first surface lodging on return. The owl comes at the next dusk, and the meeting moves to the following morning. If someone kills the owl before it speaks, a second one arrives at the next dusk. The six missions bring a member to Renown 19 on their base awards, which leaves about 6 more to find. Mission bonuses and the Earning Renown list in the Factions Guide supply the rest, and every procedure below works whenever the rank comes.
 
 > [!readaloud]
 >
@@ -62,13 +62,13 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 > - Why the rank belongs to one member and not to the party.
 > - Sarna Dath and what she writes.
 >
-> He will not discuss the Stone of Golorr, the vault, the dreaming thing's name, the Splinter's master, the house one block north or who owns the ships Sarna watches. He answers each by saying that he does not know, or that it is not his to say.
+> He will not discuss the Stone of Golorr, the vault, the dreaming thing's name or the Splinter's master. Nor will he discuss the house one block north or who owns the ships Sarna watches. He answers each by saying that he does not know, or that it is not his to say.
 
 > [!qna]**What does Winterstalker give me?**
 >
 > Melannor holds up one finger for each benefit as he names it.
 >
-> > "I will walk beside you on one mission in each quest. Jeryth will cast a spell of the eighth level for you. I will give you a report on the animals, plants and elementals at a place before you go there. Sarna Dath will write to you about the harbor."
+> > "I will walk beside you on one mission in each quest. Jeryth will cast a spell of the eighth level for you through the sprig. I will give you a report on the animals, plants and elementals at a place before you go there. Sarna Dath will write to you about the ships in the harbor."
 
 > [!qna]**Why is it mine and not the party's?**
 >
@@ -84,7 +84,7 @@ Melannor leads the member east along the gravel to the pavilion, a roof of livin
 
 > [!readaloud]
 >
-> The willow roof of the pavilion throws a moving shade across the bench, and the oldest oak stands close enough that its roots lift the corner of the floor. Melannor sits at one end with his hands on his knees and waits until you are seated before he speaks.
+> The willow roof of the pavilion throws a moving shade across the bench. The oldest oak stands close enough that its roots lift the corner of the floor. Melannor sits at one end with his hands on his knees and waits until you are seated before he speaks.
 >
 > > "The garden needs me, and I do not leave it often. I will leave it for you, once in each quest, and I will stay until the work is done."
 
@@ -107,13 +107,13 @@ Melannor leads the member east along the gravel to the pavilion, a roof of livin
 > - **Contact:** Melannor at the gate by day, or at any hour for a member who holds the east gate key. A written request left in the gate box is answered by a note in the box by noon the next day.
 > - **The request:** the member names the quest, the mission, the surface place where it starts and the hour. A request with no named mission is refused, and nothing is spent.
 > - **Notice:** three days. A request with less notice is refused and spends nothing, and a request withdrawn a full day ahead is not spent either.
-> - **Service:** Melannor meets the member at the place at the hour named. He stays until the mission is finished or abandoned, or until three days have passed. Then he returns to the garden.
+> - **Service:** Melannor meets the member at the place at the hour named. He stays until the mission is finished or abandoned, or until three days have passed, and then he returns to the garden.
 > - **Limit:** one mission per member per quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and events, faction missions and rank events are not quests. The use counts against the quest the party is in when Melannor joins, and a call not made before the quest ends is lost.
 > - **Underground:** Melannor walks into Undermountain on foot with the party. The limits in **Below the Surface** apply to everything he casts there.
 > - **Several members:** each Winterstalker has a use of their own. Two members who ask for the same mission share one Melannor, and only the first to ask spends a use.
 > - **Who else:** Melannor follows the plan of the member who called him, and his companions come along with the party. He takes no order from a companion who is not an Enclave member.
 > - **Loss rule:** a member who orders Melannor to attack the Watch, a Lord or a surrendered creature loses his service for a tenday. He refuses the order, and the loss begins when he returns to the garden.
-> - **If he falls:** Melannor withdraws before that happens. If the party keeps him in a fight until he falls to 0 Hit Points, he is Unconscious and stable, Jeryth's roots carry him back to the garden by morning, and his service is closed to every member for the rest of the quest.
+> - **If he falls:** Melannor withdraws before that happens, so this applies only if the party keeps him in a fight until he falls to 0 Hit Points. He is then Unconscious and stable, and Jeryth's roots carry him back to the garden by morning. His service is closed to every member for the rest of the quest.
 > - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and Melannor's service is suspended until the Renown is restored.
 
 > [!gamemaster]**Melannor as an Ally**
@@ -136,10 +136,11 @@ Melannor leads the member east along the gravel to the pavilion, a roof of livin
 >
 > - Casts *Thunderwave* when two or more enemies stand within reach of him.
 > - Casts *Moonbeam* (Concentration) on a group once *Entangle* and *Thunderwave* are spent.
-> - Uses Verdant Wisp from range on the enemy that is hurting the most injured character, and Vine Staff only against an enemy within 5 feet of someone who cannot run.
+> - Uses Verdant Wisp from range on the enemy that is hurting the most injured character.
+> - Uses Vine Staff only against an enemy within 5 feet of someone who cannot run.
 > - Saves his daily spells for a fight that is going badly, and uses none on something the party could handle with a sword.
 >
-> Melannor withdraws toward the exit the member named when he is reduced to 22 Hit Points, and he takes a fallen character with him if he can reach one. He stops fighting when the member calls it off or the mission ends. He does not fight the Watch or a Lord, and he never kills a captive.
+> Melannor withdraws toward the exit the member named when he is reduced to 22 Hit Points. He takes a fallen character with him if he can reach one. He stops fighting when the member calls it off or the mission ends. He does not fight the Watch or a Lord, and he never kills a captive.
 
 ### Jeryth's Eighth Level
 
@@ -193,7 +194,7 @@ Jeryth speaks while the member and Melannor are still seated in the pavilion. Re
 > - **Contact:** Melannor at the gate by day, or at any hour for a member who holds the east gate key. A written request left in the gate box is answered by a note in the box by noon the next day.
 > - **The request:** the member names the quest, one spell from the list below, the place on the surface and the day. A request with no named quest, spell or place is refused, and nothing is spent.
 > - **Notice:** seven days for a spell of the eighth level. A request with less notice is refused and spends nothing, and a request withdrawn two full days ahead is not spent either. The first list keeps its notice of three days.
-> - **The casting:** on the day named, the member holds the sprig and says the spell's name aloud. Jeryth casts it as though she stood where the sprig is, with a spellcasting modifier of +4, a spell save DC of 15 and a spell attack bonus of +7. She holds Concentration from the garden for the spell's full duration, and nothing that happens to the member breaks it.
+> - **The casting:** on the day named, the member holds the sprig and says the spell's name aloud. Jeryth casts it at that moment as though she stood where the sprig is. She has a spellcasting modifier of +4, a spell save DC of 15 and a spell attack bonus of +7. She holds Concentration from the garden for the spell's full duration, and nothing that happens to the member breaks it.
 > - **Place:** the surface of Waterdeep, including its cellars and sewers. The sprig does not work in Undermountain, because Jeryth casts from the garden. *Control Weather* also needs open sky, so it fails in a cellar or a sewer.
 > - **Limit:** one casting per member per quest, from either list. The use counts against the quest the party is in when the member asks, and a casting not asked for before the quest ends is lost.
 > - **Who else:** only the member can ask, though a companion benefits when the spell's targets include them.
@@ -228,31 +229,31 @@ Melannor stays on the bench and takes a folded sheet from inside his coat. Read 
 
 > [!readaloud]
 >
-> Melannor smooths a folded sheet on the bench with the flat of his hand. The paper holds a pencil sketch of a flooded cellar, with a long dark shape drawn at the deep end and rows of small neat figures down the margin.
+> Melannor smooths a folded sheet on the bench with the flat of his hand. The paper holds a pencil sketch of a flooded cellar, with a long dark shape drawn at the deep end. Rows of small neat figures run down the margin beside it, in the same careful pencil.
 >
-> > "A watcher in the Field Ward drew this last month. It shows a giant crocodile in the cellar of a shuttered tannery, and I do not know how it came there. It rests at the deep end in the cold hours before dawn, and it feeds at dusk."
+> > "A watcher in the Field Ward drew this sketch for me last month. It shows a giant crocodile in the cellar of a shuttered tannery, and I do not know how it came there. It rests at the deep end in the cold hours before dawn, and it feeds at dusk."
 
 > [!qna]**What does the report do for me?**
 >
-> > "Tell me the place you mean to go. My watchers will tell me which animals, plants and elementals live there. The report will be ready the next morning, and it will help you with each of them."
+> > "Please tell me the place that you mean to go. My watchers will tell me which animals, plants and elementals live there. The report will be ready the next morning, and it will help you with each of them."
 
 > [!qna]**Does it tell me what else is hiding there?**
 >
-> > "It does not. My watchers know the animals, the plants and the elementals, and the rest is for you to find."
+> > "It does not tell you that. My watchers know the animals, the plants and the elementals, and the rest is for you to find."
 
 > [!exploration]**Asking for an Advance Report**
 >
 > - **Contact:** Melannor at the gate by day, or at any hour for a member who holds the east gate key. A written request left in the gate box is answered by a report in the box at the next dawn.
 > - **The request:** the member names one place on the surface of Waterdeep, including its cellars and sewers, by street or landmark. A request for a place in Undermountain is refused, and nothing is spent.
 > - **Notice:** one day. The report is ready at dawn the next morning.
-> - **The report:** it lists every Beast, Plant and Elemental that the place's entry names, with the number, where each rests, when it is awake and what it eats or fears. A Celestial, a Fey, a Construct or any other type is not in it. If nothing of those three types lives at the place, Melannor says so and nothing is spent.
+> - **The report:** it lists every Beast, Plant and Elemental that the place's entry names. For each it gives the number, where it rests, when it is awake and what it eats or fears. A Celestial, a Fey, a Construct or any other type is not in it. If nothing of those three types lives at the place, Melannor says so and nothing is spent.
 > - **Beasts:** the member has Advantage on Wisdom (Animal Handling) checks to calm or direct a Beast the report names. The check does not work on a Plant or an Elemental.
 > - **Plants and Elementals:** the member has Advantage on Intelligence (Nature) checks to read the creature's pattern, avoid its attention or find its weakness.
 > - **The first Initiative roll:** the member has Advantage on the first Initiative roll they make at the place against a creature the report names.
 > - **Duration:** the Advantage lasts for one visit, from the member's arrival at the place until they leave it.
 > - **Limit:** one report per member each tenday, counted from the day of the member's last request. A report that lists nothing is not counted.
 > - **Who else:** the Advantage belongs to the member alone. A companion can read the report and gains none.
-> - **Loss rule:** a member who uses a report to hunt or capture a creature that has hurt nobody loses the service for a tenday when Melannor hears of it.
+> - **Loss rule:** a member who uses a report to hunt or capture a creature that has hurt nobody loses the service for a tenday. The tenday begins on the day Melannor hears of it, and he tells the member at the gate.
 > - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the reports are suspended until the Renown is restored.
 
 ### The Harbor Notes
@@ -265,7 +266,7 @@ Melannor leads the member along the gravel to the gate box, which stands on a po
 >
 > > "This came to the box at dawn. Please read it here, and I will answer what I can."
 >
-> The letter inside reads:
+> You unfold the paper, and the letter inside reads as follows:
 >
 > > Sarna Dath, south quay, blue-and-white boat. I run fish for a living, and I watch the harbor because I can't help it. Melannor says you can be trusted with what I see. Every tenday I'll write down which ships came or went at the wrong hours and what they carried. I'll write what I saw and not a word I didn't. Find me on the quay at dawn if you've got questions.
 >
@@ -279,22 +280,22 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 
 > [!qna]**Whose ships does she watch?**
 >
-> > "I do not know. She writes what she sees at the quay and does not guess, and neither do I. What it means is for you to find out."
+> > "I do not know whose ships they are. She writes what she sees at the quay and does not guess, and neither do I. What it means is for you to find out."
 
 > [!qna]**Can I trust her?**
 >
-> > "She is reliable. She has sent us reports for four years, and I have found none of them false."
+> > "She is a reliable woman. She has sent us reports for four years, and I have found none of them false."
 
 > [!exploration]**Sarna's Harbor Notes**
 >
-> - **Contact:** a note from Sarna in the Phaulkonmere gate box every tenday. The morning after a note arrives, Melannor sends a pigeon to the member's lodging with the line "Sarna has left a note for you in the gate box." That line is 11 words. It is his own *Animal Messenger*, and it does not count against the member's Summerstrider relay. Sarna's boat lies at the south quay, and she is aboard at dawn.
+> - **Contact:** a note from Sarna in the Phaulkonmere gate box every tenday. The morning after a note arrives, Melannor sends a pigeon to the member's lodging. The pigeon says "Sarna has left a note for you in the gate box," and that line is 11 words. It is his own *Animal Messenger*, and it does not count against the member's Summerstrider relay. Sarna's boat lies at the south quay, and she is aboard at dawn.
 > - **Place:** the quays of the Dock Ward and the private piers of the Sea Ward that can be seen from the water.
-> - **Notice:** none. The first note is the slip inside Sarna's letter, and the member's tenday count starts from the day of the meeting.
+> - **Notice:** none, because the first note is the slip inside Sarna's letter, and the member's tenday count starts from the day of the meeting.
 > - **The notes:** each is fixed, and the lists below give them in order. The member reads the next unread note from the list that applies on the day it arrives. A member who starts after the fleet has sailed begins with the Pier 17 note.
 > - **A question:** the member can go to the boat at dawn and ask Sarna one question about the latest note. She answers only what she saw.
 > - **Limit:** one note per member every tenday, counted from the day of the member's last note, and one question for each note.
 > - **Who else:** the notes and the question belong to the member. A companion who asks is given a fish and told to ask the member.
-> - **Loss rule:** a member who brings a Response Team, a ship's crew or anyone else who watches ships to Sarna's boat, or who names her to a faction, loses her notes for a tenday. Sarna moors elsewhere for that tenday, and Melannor tells the member where when it ends.
+> - **Loss rule:** a member who brings a Response Team, a ship's crew or anyone else who watches ships to Sarna's boat loses her notes for a tenday. The same loss follows if the member names her to a faction. Sarna moors elsewhere for that tenday, and Melannor tells the member where when it ends.
 > - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and Melannor asks Sarna to hold her notes until the Renown is restored.
 >
 > **Before Tarsakh 20**, while the carnival fleet is in port:

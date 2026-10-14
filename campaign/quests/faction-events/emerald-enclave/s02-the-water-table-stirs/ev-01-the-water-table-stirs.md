@@ -6,7 +6,7 @@
 >
 > - **Surge One:** watch the starlings circle the harbor after **Fireball!** and give Melannor an account of aberrant creatures.
 > - **Surge Two:** see the oak roots move once the Stone is attuned, and hear the request to keep it moving.
-> - **Surge Three:** hear Jeryth describe the dreaming thing after the first Eye is restored, report what the first heist met, or follow her awakened rat to a hidden staircase.
+> - **Surge Three:** hear Jeryth describe the dreaming thing after the first Eye is restored, and report what the first heist met. A second path follows her awakened rat to a hidden staircase.
 > - **Surge Four:** press a ward-seal into a cellar wall after the second Eye is restored, and hear Jeryth ask for **The Fouled Channel**.
 > - **Surge Five:** hear Jeryth's voice begin to fail after the third Eye is restored, and learn what the oak in the Trollskull Manor courtyard will show.
 >
@@ -30,21 +30,21 @@ Each surge answers one trigger, and the triggers arrive in whatever order the ca
 >
 > | Surge | Fires | The sign in the city | The request | Renown |
 > |---|---|---|---|---|
-> | One | Dawn on Ches 25, the morning after the third evening of starlings that followed **Fireball!** | Starlings circle the harbor | An account of aberrant creatures | +1 |
+> | One | Dawn on Ches 25, after three evenings of starlings | Starlings circle the harbor | An account of aberrant creatures | +1 |
 > | Two | Dawn after one character attunes to the Stone | Oak roots move two inches | Keep the Stone moving | None |
-> | Three | Dawn after the first Eye is restored | Seven cistern workers share one dream | Report the first heist's encounter, or follow the rat | +1 |
-> | Four | Dawn after the second Eye is restored | Fish beach themselves on the south quay | Close a crack, then take **The Fouled Channel** | +1 |
+> | Three | Dawn after the first Eye is restored | Seven cistern workers share one dream | Report the first heist, or follow the rat | +1 |
+> | Four | Dawn after the second Eye is restored | Fish beach on the south quay | Close a crack, then take **The Fouled Channel** | +1 |
 > | Five | Dawn after the third Eye is restored | Wellwater runs black in the Castle Ward | Watch the courtyard oak | None |
 
 Melannor delivers every surge by grey pigeon with his *Animal Messenger* spell. The pigeon is a Tiny Beast of CR 0 and uses the Raven stat block. It finds a member by description, speaks once in his low baritone from somewhere behind its eyes, and flies off. It carries no reply, and anyone nearby hears the message. Every message in this Event is 25 words or fewer, and the count sits under each one. Change the first sentence of each pigeon readaloud to match where the member is.
 
 - If two triggers fall on the same day, play the earlier surge at dawn and the later surge at the next dawn.
 - If several members are together, one pigeon speaks for all of them.
-- If a member is away or joins late, Melannor tells them each missed surge in order at their first visit, with one sentence for each sign. Their Renown lines stay open.
+- If a member is away or joins late, Melannor tells them each missed surge in order at their first visit, with one sentence for each sign, and their Renown lines stay open.
 
 ### The Garden Gate
 
-Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, about two hours' walk from Trollskull Alley. Read the following aloud at a member's first arrival, with the member's name and the right hour in the greeting, and give later arrivals a single sentence in its place. Companions stop at the gate and wait in the outer garden.
+Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, about two hours' walk from Trollskull Alley. Read the following aloud at a member's first arrival, with the member's name and the right hour in the greeting. Give later arrivals a single sentence in its place, and have companions wait at the gate in the outer garden.
 
 > [!readaloud]
 >
@@ -78,7 +78,7 @@ This surge fires for every Emerald Enclave member at dawn on Ches 25, wherever t
 >
 > The pigeon waits for an answer that does not come, then flaps over the wall and away toward the south.
 
-Message count: 21 words.
+The message is 21 words, which fits inside the 25 words that *Animal Messenger* allows.
 
 The member can give the account on any visit to the oak, and the visit needs no other errand. Read **The Garden Gate** on the first arrival, then run the report.
 
@@ -94,8 +94,8 @@ The member can give the account on any visit to the oak, and the visit needs no 
 >
 > Melannor accepts any account that names a place, a creature and a time. No check is needed, and the member tells it in their own words. Each route below is enough alone, and it can be told by a member who was there or one who heard it from someone who was.
 >
-> - **Finding Floon:** the gazer at the tunnel junction in the Xanathar sewer hideout, or the mind flayer who set an intellect devourer down in the room where Floon was held.
-> - **Gralhund Villa:** the Guild's gazers near the villa, or anything the party saw of the mind flayer's movements, which Melannor also asked about in his debrief after the villa.
+> - **Finding Floon:** the gazer at the tunnel junction in the Xanathar sewer hideout. The mind flayer who set an intellect devourer down in the room where Floon was held also counts.
+> - **Gralhund Villa:** the Guild's gazers near the villa, or anything the party saw of the mind flayer's movements. Melannor also asked about these in his debrief after the villa.
 > - **The sewers:** any aberrant creature met below the Dock Ward during the investigations.
 > - **+1 Renown:** the member gives Melannor an account by any route above. Award it once per member.
 >
@@ -103,17 +103,17 @@ The member can give the account on any visit to the oak, and the visit needs no 
 
 ### Surge Two: The Stone Speaks
 
-This surge fires at dawn on the day after one character attunes to the Stone, which **Faction Outposts** begins around Ches 25. The roots of the oldest oaks in the eastern garden have moved two inches toward the Castle Ward overnight, and Melannor has stakes in the ground to show it. Jeryth does not speak in this surge.
+This surge fires at dawn on the day after one character attunes to the Stone, which **Faction Outposts** begins around Ches 25. The roots of the oldest oaks in the eastern garden have moved two inches toward the Castle Ward overnight. Melannor has stakes in the ground to show it, and Jeryth does not speak in this surge.
 
 > [!readaloud]
 >
-> A grey pigeon is waiting on the sill of the manor window when you open the shutters, and it looks you over from head to tail before it speaks. The voice that comes from somewhere behind its eyes is the low baritone you heard before.
+> A grey pigeon is waiting on the sill of the manor window when you open the shutters. It looks you over from head to tail before it speaks. The voice that comes from somewhere behind its eyes is the low baritone you heard before.
 >
 > > "Come to the garden when you can. The oaks have moved, and Jeryth has a request."
 >
 > It flaps off the sill and over the roofs without waiting.
 
-Message count: 16 words.
+The message is 16 words, which fits inside the 25 words that *Animal Messenger* allows.
 
 Melannor is in the eastern garden and not at the oak. Read **The Garden Gate** first if this is the member's first arrival, then read the following aloud:
 
@@ -133,13 +133,13 @@ Melannor is in the eastern garden and not at the oak. Read **The Garden Gate** f
 
 > [!exploration]**Keeping the Stone Moving**
 >
-> The request is met when the Stone sleeps under a different roof at least once in every tenday, from the night it was attuned until the third Eye is restored. A night at the Yawning Portal, at Trollskull Manor or in a rented room each counts. No check is needed.
+> The request is met when the Stone sleeps under a different roof at least once in every tenday. The count runs from the night it was attuned until the third Eye is restored. A night at the Yawning Portal, at Trollskull Manor or in a rented room each counts, and no check is needed.
 >
 > This surge awards no Renown. Record only whether any tenday passed with the Stone under one roof every night, because Surge Five reads it.
 
 ### Surge Three: Eyes Opening
 
-This surge fires at dawn after the first Eye is restored, whichever lair heist restored it. In the tenday before, seven cistern workers across the Castle Ward told the Watch the same dream, of drowning upward through wet stone while a vast eye looked down. None of them knows the others. The Watch filed the reports as fever and moved on, and Melannor's harbor network flagged them. A character who asks at a Castle Ward cistern house hears the dream from the workers, with no check.
+This surge fires at dawn after the first Eye is restored, whichever lair heist restored it. In the tenday before, seven cistern workers across the Castle Ward told the Watch the same dream, of drowning upward through wet stone while a vast eye looked down. None of them knows the others, and the Watch filed the reports as fever and moved on. Melannor's harbor network flagged them. A character who asks at a Castle Ward cistern house hears the dream from the workers, with no check.
 
 > [!readaloud]
 >
@@ -149,7 +149,7 @@ This surge fires at dawn after the first Eye is restored, whichever lair heist r
 >
 > The pigeon hops to the windowsill and flies out over the alley.
 
-Message count: 18 words.
+The message is 18 words, which fits inside the 25 words that *Animal Messenger* allows.
 
 Read **The Garden Gate** first if this is the member's first arrival, then read the following aloud:
 
@@ -165,7 +165,7 @@ Read **The Garden Gate** first if this is the member's first arrival, then read 
 
 > [!social]**The Voice in the Oak**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: the patron of Phaulkonmere, who speaks only to those she has reason to address and answers in one or two sentences.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: the patron of Phaulkonmere. She speaks only to those she has reason to address, and she answers in one or two sentences.
 >
 > Jeryth leaves long silences between her answers, and the garden answers with her. Leaves turn, and a cool wind crosses the path when she is troubled. She calls Mielikki "the Lady of the Forest", never swears and never repeats herself.
 >
@@ -239,13 +239,13 @@ This surge fires at dawn after the second Eye is restored. Fish in three wards h
 >
 > The pigeon takes off through the open door without a backward look.
 
-Message count: 19 words.
+The message is 19 words, which fits inside the 25 words that *Animal Messenger* allows.
 
 The road to Phaulkonmere can run along the south quay. If the party passes it, read the following aloud:
 
 > [!readaloud]
 >
-> Fisherfolk stand along the edge of the south quay with nets in their hands and no work to put in them. Silver fish flop across the stones in waves of a hundred at a time, and every wave slides back into the harbor by itself. A harbor worker with a tally slate calls odds on the next wave to a ring of dockhands, and two constables at the far end of the quay watch the water.
+> Fisherfolk stand along the edge of the south quay with nets in their hands and no work to put in them. Silver fish flop across the stones in waves of a hundred at a time, and every wave slides back into the harbor by itself. A harbor worker with a tally slate calls odds on the next wave to a ring of dockhands. Two constables at the far end of the quay watch the water.
 
 Read **The Garden Gate** first if this is the member's first arrival, then read the following aloud:
 
@@ -259,7 +259,7 @@ Read **The Garden Gate** first if this is the member's first arrival, then read 
 >
 > > "There is a crack in a cellar on Selduth Street. Close it with the seal Melannor holds."
 >
-> The pause runs longer again.
+> The silence stretches longer again, and not a leaf moves in it.
 >
 > > "The channel under the Castle Ward is fouled by something made. Clear it before the third Eye opens. I am asking."
 
@@ -325,7 +325,7 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 >
 > > "Good."
 >
-> The voice does not return. You lay a hand against the corner, and the cold there is gone.
+> The voice does not return, and when you lay a hand against the corner the cold there is gone.
 
 The workers return to that corner the next morning.
 
@@ -341,7 +341,7 @@ This surge fires at dawn after the third Eye is restored. Three households in th
 >
 > The pigeon beats its wings once and drops over the rail into the alley.
 
-Message count: 14 words.
+The message is 14 words, which fits inside the 25 words that *Animal Messenger* allows.
 
 Read **The Garden Gate** first if this is the member's first arrival, then read the following aloud:
 
@@ -359,7 +359,7 @@ Read **The Garden Gate** first if this is the member's first arrival, then read 
 >
 > > "Rest here."
 
-Mark **Silence Warning Given** for each member who hears her. Then read the following aloud:
+Mark **Silence Warning Given** for each member who hears her, and then read the following aloud:
 
 > [!readaloud]
 >
@@ -380,8 +380,9 @@ Mark **Silence Warning Given** for each member who hears her. Then read the foll
 > - **When it begins:** Jeryth's full silence is the opening of **The Dreamer's Reach**. It begins three days before the oak puts out its shoots, and the shoots appear on the morning after an individual Emerald Enclave member meets that mission's gate. The gate is Renown 13 and 7th level, after **Kolat Towers**. Until then she speaks in short bursts, and the haven and her healing at Phaulkonmere work as written.
 > - **At the Vault:** if no member has met the gate when the party reaches **Vault of Dragons**, Jeryth is already silent there. She cannot ward the opening, and **The Dreamer's Reach** runs after the Vault.
 > - **Promise:** nobody in this Event says the mission will come within a tenday, or on any named day. Melannor knows only that the oak will tell him.
-> - **Fouled Channel unfinished:** if **Fouled Channel Requested** is marked and **The Fouled Channel** has not been played, Melannor adds one line. "The channel is still fouled, and Jeryth asked for that first." **The Dreamer's Reach** presupposes the cutting planted in that mission, so a member who reaches Renown 13 without it plays **The Fouled Channel** first.
-> - **Stone left in one place:** if any tenday passed with the Stone under one roof every night, Melannor adds: "Jeryth says the Stone lay too long in one place, and the dreamer found its weight." This changes nothing else.
+> - **Fouled Channel unfinished:** if **Fouled Channel Requested** is marked and **The Fouled Channel** has not been played, Melannor adds one line. "The channel is still fouled, and Jeryth asked for that first."
+>   **The Dreamer's Reach** presupposes the cutting planted in that mission. A member who reaches Renown 13 without it plays **The Fouled Channel** first.
+> - **Stone left in one place:** if any tenday passed with the Stone under one roof every night, Melannor adds the following line, and it changes nothing else. "Jeryth says the Stone lay too long in one place, and the dreamer found its weight."
 
 ### Renown Opportunities
 
@@ -399,8 +400,8 @@ The Event concludes when the fifth surge has fired and each member has heard Jer
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Fouled Channel Requested** — mark with the member's name when Jeryth asks for the channel in Surge Four, unless **The Fouled Channel** is already complete; read by **The Fouled Channel**, where Melannor says Jeryth asked.
-> - **Silence Warning Given** — mark with the member's name when they hear Jeryth's warning and Melannor's instruction about the oak in Surge Five; read by **The Dreamer's Reach**, where Melannor speaks of the failing voice and the member knows why the oak matters.
+> - **Fouled Channel Requested** — mark with the member's name when Jeryth asks for the channel in Surge Four, unless **The Fouled Channel** is already complete. It is read by **The Fouled Channel**, where Melannor says Jeryth asked.
+> - **Silence Warning Given** — mark with the member's name when they hear Jeryth's warning and Melannor's instruction about the oak in Surge Five. It is read by **The Dreamer's Reach**, where Melannor speaks of the failing voice.
 
 > [!gamemaster]**Next Steps**
 >
@@ -412,4 +413,4 @@ Something dreaming below the Castle Ward stirs each time the Stone of Golorr gro
 
 ## Summary
 
-A grey pigeon brought us Melannor's word each time the water beneath the Castle Ward stirred. Starlings circled the harbor, the oak roots moved, and cistern workers dreamed of drowning. Jeryth told us something old, patient and hungry dreams below, and she asked us to keep the Stone moving, close a crack on Selduth Street and clear the fouled channel. By the last warning her voice was failing, and Melannor said the oak in our courtyard would tell us when she fell silent.
+A grey pigeon brought us Melannor's word each time the water beneath the Castle Ward stirred. Starlings circled the harbor, the oak roots moved, and cistern workers dreamed of drowning. Jeryth told us something old, patient and hungry dreams below. She asked us to keep the Stone moving, close a crack on Selduth Street and clear the fouled channel. By the last warning her voice was failing, and Melannor said the oak in our courtyard would tell us when she fell silent.
