@@ -36,9 +36,9 @@ Melannor's falcon reaches each eligible member at breakfast on the day the missi
 
 > [!gamemaster]**Message Count**
 >
-> The message is 21 words, spoken once. The falcon carries no reply and uses the Hawk block if anyone attacks it.
+> The message is 21 words and is spoken once, and the falcon carries no reply. If anyone attacks the falcon, it uses the Hawk block.
 
-Members reach Phaulkonmere in the Southern Ward by midmorning. Companions wait at the gate or in the outer garden. Read the following aloud:
+Members reach Phaulkonmere in the Southern Ward by midmorning, while companions wait at the gate or in the outer garden. Read the following aloud:
 
 > [!readaloud]
 >
@@ -52,7 +52,7 @@ Members reach Phaulkonmere in the Southern Ward by midmorning. Companions wait a
 >
 > Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humourless groundskeeper of Phaulkonmere, who delivers grim news in a calm baritone.
 >
-> Melannor stands with his hands folded and states every fact in the same even voice. He does not recognise a joke and answers one literally. He wants the crew gone without a fight, and he repeats the demand as often as anyone asks. He allows the crew two tendays and no longer.
+> Melannor stands with his hands folded and states every fact in the same even voice, and he answers a joke literally because he does not recognise one. He wants the crew gone without a fight, and he repeats the demand as often as anyone asks. He allows the crew two tendays and no longer.
 >
 > Conversation topics Melannor is willing to discuss include:
 >
@@ -65,27 +65,27 @@ Members reach Phaulkonmere in the Southern Ward by midmorning. Companions wait a
 
 > [!qna]**Why must they leave?**
 >
-> > "Five people who can read thoughts and wear any face sit in the one room where every faction in the city talks. The Enclave has no quarrel with them. We cannot leave that room open to whoever pays them."
+> > "Five people who can read thoughts and wear any face sit in the one room where every faction in the city talks. The Enclave has no quarrel with them, but we cannot leave that room open to whoever pays them."
 
 > [!qna]**What have the animals seen?**
 >
-> > "Bonnie leads them and pours drinks at the Portal. A sailor works the docks, a bookkeeper works for a widow, and a copyist works for a bookseller. A teamster drives a cart with one red wheel. Two mornings ago my falcon watched him give folded paper to a halfling runner on the quay."
+> > "Bonnie leads them and pours drinks at the Portal, while a sailor works the docks, a bookkeeper works for a widow and a copyist works for a bookseller. A teamster drives a cart with one red wheel. Two mornings ago my falcon watched him give folded paper to a halfling runner on the quay."
 
 > [!qna]**How did you learn what Bonnie is?**
 >
-> > "Cats hear a great deal in cellars, and gulls watch the quay. Over a season they told me the same thing many times. I did not need to ask them twice."
+> > "Cats hear a great deal in cellars, and gulls watch everything that happens on the quay. Over a season they told me the same thing many times, so I did not need to ask twice."
 
 > [!qna]**What if she refuses?**
 >
-> > "Then I will ask again. Jeryth said peacefully three times. She does not usually say anything three times."
+> > "Then I will ask again, and I will keep asking until they have gone. Jeryth said peacefully three times, and she does not usually say anything three times."
 
 > [!qna]**How long can we give her?**
 >
-> > "She may have two tendays to settle her affairs. I will not allow longer. Report to me here when you have spoken with her."
+> > "She may have two tendays to settle her affairs, and I will not allow longer than that. Report to me here when you have spoken with her."
 
 ### The Portal
 
-The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie works the floor until then and will not talk about what she is in the taproom. The party has three ways to reach her, and each ends with the same arrangement: the back room, after closing. Companions come with the party. Read the following aloud when the party enters:
+The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie works the floor until then and will not talk about what she is in the taproom. The party has three ways to reach her, and each ends with the same arrangement, the back room after closing, with companions welcome to come along. Read the following aloud when the party enters:
 
 > [!readaloud]
 >
@@ -105,7 +105,7 @@ The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie wor
 >
 > Durnan (Neutral, Human, he/him) :: the Yawning Portal's owner, who polishes the same mug through every conversation and knows nothing of what Bonnie is.
 >
-> Durnan answers in as few words as he can and points instead of giving directions. He lends the back room after closing to anyone who asks and stays out of what is said there. He will not discuss Undermountain.
+> Durnan answers in as few words as he can and points instead of giving directions, and he lends the back room after closing to anyone who asks. He stays out of what is said there, and he will not discuss Undermountain.
 
 > [!qna]**About Bonnie?**
 >
@@ -125,9 +125,9 @@ The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie wor
 
 **Through the crew.** Melannor's animals have seen where each of the other four works. A character who finds one of them and says Bonnie's name and the word Enclave gets the same answer from each: after closing, in the back room. A character who threatens any of them gets the same answer in a colder voice, and Bonnie hears of it before the party arrives.
 
-- **Kael** unloads cargo on the Dock Ward quay at dusk, and he says only "Not my watch. Ask Bonnie. Back room, after close."
-- **Syla** keeps accounts for a widow in the Trades Ward, and she answers with a question: "And if I said no? Back room, after close, and you can ask her."
-- **The Scholar** copies at a bookseller's stall, and he names a price: "Call it forty a job. Back room, after close. Tell her I sent you."
+- **Kael** unloads cargo on the Dock Ward quay at dusk, and he says only: "Not my watch, so ask Bonnie yourself. She uses the back room at the Portal after close, and I'd go there."
+- **Syla** keeps accounts for a widow in the Trades Ward, and she answers with a question: "And if I said no, what would you do about it? Go to the back room after close and ask her."
+- **The Scholar** copies at a bookseller's stall, and he names a price: "Call it forty a job. Seriously, though, Bonnie's in the back room after close, so tell her I sent you."
 
 Any character who watches the stable yard between 22:00 and 23:00 sees the following without a check, unless **Harper M3 Complete** is marked, in which case the yard is empty. Read the following aloud:
 
@@ -137,11 +137,11 @@ Any character who watches the stable yard between 22:00 and 23:00 sees the follo
 
 > [!exploration]**The Red Wheel**
 >
-> The stocky man is Edric Tanner, and the halfling is a Shard Shunners runner. The runner will not talk and runs for the Field Ward if followed. A character who reports what Melannor's falcon saw and now sees it too needs no check to connect the two.
+> The stocky man is Edric Tanner, and the halfling is a Shard Shunners runner who will not talk and runs for the Field Ward if followed. A character who heard Melannor's report and now sees the same exchange needs no check to connect the two.
 
 ### The Back Room
 
-Durnan leaves the back room unlocked at 01:00 and goes upstairs. Bonnie arrives a few minutes later. The talk runs about an hour, and companions may sit in. Read the following aloud:
+Durnan leaves the back room unlocked at 01:00 and goes upstairs, and Bonnie arrives a few minutes later. The talk runs about an hour, and companions may sit in. Read the following aloud:
 
 > [!readaloud]
 >
@@ -153,7 +153,7 @@ Durnan leaves the back room unlocked at 01:00 and goes upstairs. Bonnie arrives 
 >
 > Bonnie (Neutral, Doppelganger, she/her) :: the crew's leader, who reads surface thoughts at will and has already decided the Enclave's request is reasonable.
 >
-> In the back room Bonnie is economical and practical, with a dry humour about her own nature. She swears mildly and asks as many questions as she answers. She wants someone to say what leaving costs her before she agrees, and she trusts a plain statement over a threat. She will not discuss her crew's real faces or where they came from.
+> In the back room Bonnie is economical and practical, with a dry humour about her own nature, and she swears mildly and asks as many questions as she answers. She wants someone to say what leaving costs her before she agrees, and she trusts a plain statement over a threat. She will not discuss her crew's real faces or where they came from.
 >
 > Conversation topics Bonnie is willing to discuss include:
 >
@@ -164,39 +164,39 @@ Durnan leaves the back room unlocked at 01:00 and goes upstairs. Bonnie arrives 
 
 > [!qna]**What are you?**
 >
-> > "A doppelganger, as you've been told. Faces are just work clothes. That's all you need and more than most people get."
+> > "A doppelganger, as you've been told, and faces are just work clothes. That's all you need to know, and it's more than most people in this city get."
 
 > [!qna]**What does leaving cost you?**
 >
-> > "Five wages, a room with a good stove, and a year of people not asking questions. I like it here, which surprised me. I didn't plan on that."
+> > "Five wages, a room with a good stove, and a year of people not asking questions. I like it here, which surprised the shit out of me, because I never planned on that."
 
 > [!qna]**Why does the Enclave care?**
 >
-> > "Because I read minds in a room where every faction talks. I'd worry about me too. I'd just rather you asked than sent a falcon."
+> > "Because I read minds in a room where every faction talks, and I'd worry about me too. I'd just rather you had asked me than sent a bloody falcon."
 
 > [!qna]**Does Durnan know?**
 >
-> > "He thinks I'm a girl from Tethyr with a bad knee. He pays me fairly and he's never asked. Keep it that way."
+> > "He thinks I'm a girl from Tethyr with a bad knee. He pays me fairly and he's never asked a single question, so keep it that way."
 
 > [!qna]**Who else knows what you are?**
 >
-> > "Apparently every cat in the cellar. That's how you found out, isn't it?"
+> > "Apparently every cat in the cellar, since that's how you found out. I'd say it was a pleasure to meet you all, but I'm still deciding."
 
 ### The Traitor
 
-Edric Tanner joins the talk, having read the party's thoughts at the bar and followed them to the back room. If **Harper M3 Complete** is marked, he is not there, and the rules for that case follow the buyer's name below. Read the following aloud when the party has spoken with Bonnie for a few minutes:
+Edric Tanner joins the talk, having read the party's thoughts at the bar and followed them to the back room. If **Harper M3 Complete** is marked he is not there, and the rules for that case follow the buyer's name below. Read the following aloud when the party has spoken with Bonnie for a few minutes:
 
 > [!readaloud]
 >
 > The kitchen door opens, and a stocky man in a leather jerkin comes in with a jug in one hand and three cups hooked on his fingers. He sets the cups on the table and grins around at you as though you were old friends.
 >
-> > "Right, so this is the Enclave. Edric Tanner, Dock Ward carts. Nobody asked the crew what we think, and that doesn't seem fair."
+> > "Right, so this is the Enclave. Edric Tanner, Dock Ward carts, twelve years. Nobody asked the crew what we think about any of this, and that doesn't seem fair to me."
 
 > [!social]**The Cheerful Teamster**
 >
 > Edric Tanner (Neutral Evil, Doppelganger, he/him) :: a warm, talkative doppelganger who joined Bonnie's crew two months ago and sells what he learns.
 >
-> Edric begins nearly every answer with "Right," and argues in the language of fairness. He says the Enclave has no say over neutral ground, that Bonnie has agreed to nothing and that the crew was left out. Every argument is for himself. He reads surface thoughts at will and uses them to choose his next question. He stays pleasant if accused, finishes his cup and leaves by the kitchen door.
+> Edric begins nearly every answer with "Right," and argues in the language of fairness. He says the Enclave has no say over neutral ground, that Bonnie has agreed to nothing and that the crew was left out, though every argument is really for himself. He reads surface thoughts at will and uses them to choose his next question, and if he is accused he stays pleasant, finishes his cup and leaves by the kitchen door.
 >
 > Conversation topics Edric is willing to discuss include:
 >
@@ -208,19 +208,19 @@ Edric Tanner joins the talk, having read the party's thoughts at the bar and fol
 
 > [!qna]**What do you want?**
 >
-> > "Right, a say. Five of us live here, and one druid with a falcon doesn't get to decide it for the lot."
+> > "Right, a say in it. Five of us live here and pay rent, and one druid with a falcon doesn't get to decide it for the lot of us."
 
 > [!qna]**Who gave the Enclave authority?**
 >
-> > "Right, nobody did. So why is the crew packing, and why is Bonnie the only one being asked?"
+> > "Right, nobody did, so why is the crew packing its bags? And why is Bonnie the only one anybody has bothered to ask?"
 
 > [!exploration]**Three Ways to Edric**
 >
-> Three independent routes show that Edric sold the names. Any one is enough for a character to tell Bonnie.
+> Three independent routes show that Edric sold the names, and any one of them is enough for a character to tell Bonnie.
 >
 > - **His objections:** Any character who listens to him and makes a successful DC 14 Wisdom (Insight) check determines that he argues for himself and not for the crew. His eyes stay on Bonnie and never on the others, and he never mentions what Kael, Syla or the Scholar want.
-> - **Bonnie's trail:** If a character has said what leaving costs her, Bonnie slides a folded slip onto the table once Edric has spoken. It lists three payments of 5 gp over three weeks, each traced from a Field Ward fence's till to Edric's boot. This needs no check.
-> - **The animals:** A character who heard Melannor's report of the teamster with the red wheel, or watched the yard, knows what Edric did two mornings ago. Saying so aloud needs no check.
+> - **Bonnie's trail:** If a character has said what leaving costs her, Bonnie slides a folded slip onto the table once Edric has spoken, and no check is needed. It lists three payments of 5 gp over three weeks, each traced from a Field Ward fence's till to Edric's boot.
+> - **The animals:** A character who heard Melannor's report of the teamster with the red wheel, or watched the yard, knows what Edric did two mornings ago and can say so aloud without a check.
 >
 > If Edric learns that the party suspects him, he stays pleasant and keeps pouring.
 
@@ -230,11 +230,11 @@ When a character tells Bonnie that Edric sold the names, by any route, read the 
 >
 > Bonnie sets her cup down and looks at Edric for some time before she looks back at you.
 >
-> > "He's the one who sold your names. I traced the coin three weeks ago and wanted to see whether anyone else would. Edric, you're done with the crew. Out."
+> > "He's the one who sold your names. I traced the coin three weeks ago, and I wanted to see whether anyone else would work it out. Edric, you're done with the crew. Out."
 >
 > Edric drains his cup, shrugs and walks to the kitchen door.
 >
-> > "Right. I know when I'm not wanted."
+> > "Right, fair enough. I know when I'm not wanted, and there are other towns that pay as well as this one."
 
 Bonnie then gives the buyer. Read the following aloud:
 
@@ -244,9 +244,9 @@ Bonnie then gives the buyer. Read the following aloud:
 >
 > > "You'll want the buyer too. Kelso Fiddlewick, Field Ward, a halfling with a scar along his jaw. He buys what people steal and sells it to whoever pays, and he never says who."
 
-Mark **Traitor Identified**. Edric leaves Waterdeep within the tenday, with one of Melannor's animals following him to the gate.
+Mark **Traitor Identified**, and have Edric leave Waterdeep within the tenday with one of Melannor's animals following him to the gate.
 
-If **Harper M3 Complete** is marked, Edric is already gone. Bonnie says the same words about him in the past tense as soon as a character asks who sold the names or says what leaving costs her, and she gives Kelso's name in the same way. Mark **Traitor Identified**.
+If **Harper M3 Complete** is marked, Edric is already gone. Bonnie says the same words about him in the past tense as soon as a character asks who sold the names or says what leaving costs her, and she gives Kelso's name in the same way, so mark **Traitor Identified**.
 
 If nobody names Edric by any route, Bonnie lets him finish his cup and sends him out to the kitchen herself. She does not give Kelso's name, and **Traitor Identified** is not marked.
 

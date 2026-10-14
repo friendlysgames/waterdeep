@@ -26,7 +26,7 @@ Bones have gone missing from three mausoleums in the northern section over the p
 
 ## The Brief
 
-The crow's message is 24 words long. A member who visits Phaulkonmere before sunset finds Melannor at the oak and can ask him why Jeryth wants this done.
+The crow's message is 24 words long, and a member who visits Phaulkonmere before sunset finds Melannor at the oak and can ask him why Jeryth wants this done.
 
 ## The Ten Nights
 
@@ -42,11 +42,11 @@ At the tenth dawn Ambrose names the Brandath crypts. He does it unasked if the p
 
 ## The Brandath Grounds
 
-The party can walk the main path to the edge of the Brandath grove. It sees the sealed doors, the containment warding on them and an elm that watches. Nothing is opened.
+The party can walk the main path to the edge of the Brandath grove. It sees the sealed doors, the containment warding on them and an elm that watches, and nothing is opened.
 
 ## The Debrief
 
-Melannor pays 100 gp to every character who stood all ten nights, member or not. Only members hear his debrief, and only members gain Renown.
+Melannor pays 100 gp to every character who stood all ten nights, member or not, though only members hear his debrief and gain Renown.
 
 ## Renown Opportunities
 
@@ -71,7 +71,7 @@ Companions who are not Emerald Enclave members gain no Renown, and each bonus ca
 
 ## Dangers & Enemies
 
-The skeletons use the **Skeleton** stat block from the 2024 *Monster Manual*. They do not seek a fight, and they attack only characters who block them or strike them. The Brandath treant is never fought, and it drives off anyone who tries the doors without hurting them.
+The skeletons use the **Skeleton** stat block from the 2024 *Monster Manual*, and they attack only characters who block them or strike them. The Brandath treant is never fought, and it drives off anyone who tries the doors without hurting them.
 
 ## Overview
 
