@@ -22,5 +22,3 @@ The restored Next Steps said no faction would openly violate the estate, and tha
   - the benches inside the gate and the cat on the courtyard wall under the oak;
   - the 24-hour fallback, which follows the spell's duration.
 - The eight-friend limit and the two-tenday loss rule are copied from the First Meeting.
-- Open: `m04-the-grells-in-the-dock-ward/overview.md` lines 15 and 17 and `ev-01-the-grells-in-the-dock-ward.md` line 97 say Jeryth speaks directly for the first time in that mission, although she already speaks here and in the First Meeting.
-- Open: `r03-summerstrider/design-notes.md` line 21 says this event does not yet mark **East Gate Key Held**, and it now does.
