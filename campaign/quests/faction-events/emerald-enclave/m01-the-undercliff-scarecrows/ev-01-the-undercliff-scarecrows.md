@@ -97,10 +97,10 @@ The party can find the territories three ways, and each gives the same result: w
 > [!exploration]**Finding the Territories**
 >
 > - **Gerrick.** Gerrick has watched all three for three days and tells the party everything he knows. See **Gerrick**.
-> - **The tracks.** Any character who walks the fields and makes a successful **DC 14 Wisdom (Survival)** check reads the straw trails and flattened furrows well enough to name each scarecrow's territory and predict its next appearance.
-> - **The animals.** The cart horse faces north because the Sackcloth One walks the fields there, and the huddled sheep are watching the southern road. A character who casts *Speak with Animals* on either learns this at once, and any character who studies the animals and makes a successful **DC 11 Wisdom (Animal Handling)** check works it out.
+> - **The tracks.** Any character who walks the fields and makes a successful **DC 14 Wisdom (Survival)** check reads the straw trails and flattened furrows. That is enough to name each scarecrow's territory and predict its next appearance.
+> - **The animals.** The cart horse faces north because the Sackcloth One walks the fields there, and the huddled sheep are watching the southern road. A character who casts *Speak with Animals* on either learns this at once. Any character who studies the animals and makes a successful **DC 11 Wisdom (Animal Handling)** check works it out.
 >
-> A party that tries none of these walks the terraces for half an hour, which finds all three territories but not the next appearance points, so the party cannot prepare the ground.
+> A party that tries none of these walks the terraces for half an hour, which finds all three territories but not the next appearance points. The party then cannot prepare the ground.
 
 > [!gamemaster]**Prepared Ground**
 >
@@ -167,11 +167,11 @@ If a character asks about the drain, mark the party as having learned it from Ge
 
 ### The Three Scarecrows
 
-The party fights the scarecrows one at a time. Each stays in its own territory, so the party chooses the order and the day, and a scarecrow keeps any damage it has taken and does not follow anyone out of its ground.
+The party fights the scarecrows one at a time. Each stays in its own territory, so the party chooses the order and the day. A scarecrow keeps any damage it has taken and does not follow anyone out of its ground.
 
 > [!hazard]**Why Never Two Together**
 >
-> A Scarecrow's Terrifying Glare can Paralyze a character, and every hit against a Paralyzed character within 5 feet is a critical hit. One scarecrow needs two turns to do both, but two scarecrows can do it in a single round, and a 2nd-level character does not survive the second critical hit. The territories keep the scarecrows apart for that reason, so do not let one leave its ground and do not run two fights at once.
+> A Scarecrow's Terrifying Glare can Paralyze a character, and every hit against a Paralyzed character within 5 feet is a critical hit. One scarecrow needs two turns to do both, but two scarecrows can do it in a single round. A 2nd-level character does not survive the second critical hit. The territories keep the scarecrows apart for that reason, so do not let one leave its ground and do not run two fights at once.
 >
 > The Day Costs are Bruising at three characters and Mild at four or five. Three fights on three separate days leave the party rested for each one.
 
@@ -184,7 +184,7 @@ The party fights the scarecrows one at a time. Each stays in its own territory, 
 > - A character spends an action beating out flames with the blanket or a shovel (Utilize, **DC 10 Strength or Dexterity** check): Burn -1.
 > - A character within 30 feet of the stream spends an action throwing a bucket (no check): Burn -2.
 >
-> A scarecrow that takes fire damage is alight, and at the end of each of its turns it sets its own space alight, which counts as a new ignition in a dry field. At Burn 6 the nearest farm's outbuildings catch, and the fire is out at 0. Mark **Farm Damaged by Fire** when the scene ends. A party that uses no fire risks nothing, because the quick route is what costs the clock.
+> A scarecrow that takes fire damage is alight. At the end of each of its turns it sets its own space alight, which counts as a new ignition in a dry field. At Burn 6 the nearest farm's outbuildings catch, and the fire is out at 0. Mark **Farm Damaged by Fire** when the scene ends. A party that uses no fire risks nothing, because the quick route is what costs the clock.
 
 #### The Sackcloth One
 
@@ -204,18 +204,18 @@ The Sackcloth One walks the northern stubble fields from dusk, goes for livestoc
 > At the start of combat, with the ewe in the fold, the Sackcloth One walks to the fold. Without a decoy, it uses Terrifying Glare on the first character who attacks it or crosses the eastern hedge.
 >
 > During combat, the Sackcloth One:
-> - Spends its first turn reaching the fold and its second tearing the gate open, ignoring the party even when attacked, so the party gets two rounds of free attacks.
+> - Spends its first turn reaching the fold and its second tearing the gate open. It ignores the party even when attacked, so the party gets two rounds of free attacks.
 > - Kills the ewe on its third turn if it is still standing, and the party loses both the ewe and the +1 for three days.
-> - Turns on the character who last attacked it once the ewe is dead, using Terrifying Glare on that character and then moving to the Paralyzed character to Claw on its next turn.
+> - Turns on the character who last attacked it once the ewe is dead and uses Terrifying Glare on that character. On its next turn it moves to the Paralyzed character to Claw.
 > - Does not attack a creature at 0 hit points and turns to the next nearest instead.
 >
 > The fight ends when the Sackcloth One is destroyed. It does not flee, and the party can withdraw past the hedge, where it stays in the field.
 >
-> **Non-combat route.** A character who leads the ewe on a rope across the field crosses it unharmed, because the Sackcloth One ignores people near an animal, but crossing does not destroy it.
+> **Non-combat route.** A character who leads the ewe on a rope across the field crosses it unharmed, because the Sackcloth One ignores people near an animal. Crossing the field does not destroy the scarecrow.
 
 #### The Pumpkin Head
 
-The Pumpkin Head walks the central orchards at night and chases anything that runs. The orchard grass is green and wet and does not carry fire, and a stream cut runs along the south end of the rows, with steep banks and water at the bottom. Read the following aloud:
+The Pumpkin Head walks the central orchards at night and chases anything that runs. The orchard grass is green and wet and does not carry fire. A stream cut runs along the south end of the rows, with steep banks and water at the bottom. Read the following aloud:
 
 > [!readaloud]
 >
@@ -235,7 +235,7 @@ The Pumpkin Head walks the central orchards at night and chases anything that ru
 > - Spends its whole turn climbing into and out of the stream cut when it crosses, so a runner on the south bank is out of its reach.
 > - Does not attack a creature at 0 hit points and turns to the next nearest instead.
 >
-> A party that sends a runner dashing across the cut and waits on the south bank 10 feet back gets a full round of ranged attacks while the Pumpkin Head climbs.
+> A party that sends a runner dashing across the cut gets a full round of ranged attacks while the Pumpkin Head climbs. The rest of the party waits on the south bank, 10 feet back from the lip.
 >
 > The fight ends when the Pumpkin Head is destroyed. It does not flee, and the party can withdraw out of the orchard, where it stays.
 >
@@ -243,7 +243,7 @@ The Pumpkin Head walks the central orchards at night and chases anything that ru
 
 #### The Blanket
 
-The Blanket stands by the milestone on the farm road at the foot of the southern terraces, facing the road with its back to the hill. It cannot be crept up on, and it walks toward any steady light. The pasture beside it is dry grass with Tuckerman's shearing shed 60 feet from its edge, and the stream runs along the pasture's north side. If the party hung the lantern, read the following aloud as the light fails:
+The Blanket stands by the milestone on the farm road at the foot of the southern terraces, facing the road with its back to the hill. It cannot be crept up on, and it walks toward any steady light. The pasture beside it is dry grass, with Tuckerman's shearing shed 60 feet from its edge. The stream runs along the pasture's north side. If the party hung the lantern, read the following aloud as the light fails:
 
 > [!readaloud]
 >
@@ -256,7 +256,7 @@ The Blanket stands by the milestone on the farm road at the foot of the southern
 > If the party hangs a lit lantern on the fence post nearest the stream at dusk or after, the Blanket leaves its post and walks to the lantern. By day it holds its post, and no lantern draws it.
 >
 > #### The Blanket's Tactics
-> At the start of combat, the Blanket uses Terrifying Glare on the character carrying a light. If the light hangs on a post, it walks to the post and stands under it, and does not use Glare until a character attacks it or the flame goes out.
+> At the start of combat, the Blanket uses Terrifying Glare on the character carrying a light. If the light hangs on a post, it walks to the post and stands under it. It does not use Glare until a character attacks it or the flame goes out.
 >
 > During combat, the Blanket:
 > - Stares at the lantern for its first round, giving all attacks against it Advantage that round.
@@ -275,8 +275,8 @@ The chalk circle lies in a sheltered draw east of Gerrick's north field, close t
 > [!exploration]**Finding the Draw**
 >
 > - **Gerrick.** If the party asked about anything odd, Gerrick points out the flat stone in the eastern draw. See **Gerrick**.
-> - **The fields.** Any character who spends an hour searching the north fields and makes a successful **DC 13 Intelligence (Investigation)** check notices a path of broken chalk dust that leads east to the draw.
-> - **The Sackcloth One.** The scarecrow's patrol never passes the eastern hedge, because the circle holds it close. Any character who has watched or fought it sees that it turns back at the same place every time, and the draw lies just beyond.
+> - **The fields.** Any character who spends an hour searching the north fields and makes a successful **DC 13 Intelligence (Investigation)** check notices a path of broken chalk dust. The path leads east to the draw.
+> - **The Sackcloth One.** The scarecrow's patrol never passes the eastern hedge, because the circle holds it close. Any character who has watched or fought it sees that it turns back at the same place every time. The draw lies just beyond.
 >
 > A party that tries none of these finds the draw on the second day, when Gerrick passes it on his rounds and mentions the stone again.
 
@@ -288,7 +288,7 @@ When the party reaches the draw, read the following aloud:
 
 > [!exploration]**Reading the Circle**
 >
-> Any character who studies the marks and makes a successful **DC 13 Intelligence (Arcana)** check recognises an animation ritual built to wake three objects at once, with no binding line to hold or control what it woke. If nobody makes the check, Melannor reads the circle at the debrief.
+> Any character who studies the marks and makes a successful **DC 13 Intelligence (Arcana)** check recognises an animation ritual built to wake three objects at once. The circle has no binding line to hold or control what it woke. If nobody makes the check, Melannor reads the circle at the debrief.
 
 > [!exploration]**The Journal Page**
 >
@@ -300,7 +300,7 @@ When the party reaches the draw, read the following aloud:
 
 ### The Sealed Tunnel
 
-Gerrick's drain runs west under the wall from the southern terraces to a cistern access in the Castle Ward, and its outlet lies below the southern terraces, where the cliff path meets the city wall. The party learns where it is by three routes, and each marks **Drainage Tunnel Learned**.
+Gerrick's drain runs west under the wall from the southern terraces to a cistern access in the Castle Ward. Its outlet lies below the southern terraces, where the cliff path meets the city wall. The party learns where it is by three routes, and each marks **Drainage Tunnel Learned**.
 
 > [!exploration]**Learning the Outlet**
 >

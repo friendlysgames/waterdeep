@@ -2,13 +2,13 @@
 
 ## What the Source Gave
 
-Dragon Heist has no such mission. Appendix C gives a ten-night patrol of the City of the Dead with Sir Ambrose, a 10% nightly chance of six skeletons, a pattern toward the Brandath mausoleum, 100 gp for each character who patrolled all ten nights, and Ambrose's closing line about the bones being a symptom.
+Dragon Heist has no such mission. Appendix C gives a ten-night patrol of the City of the Dead with Sir Ambrose, a 10% nightly chance of six skeletons, and a pattern toward the Brandath mausoleum. It pays 100 gp to each character who patrolled all ten nights, and it ends on Ambrose's line about the bones being a symptom.
 
 The restored draft added a d10 roll with a growing bonus and a crypt interior with a sealed floor. It also gave Jeryth the line "Tell me the moment they open it".
 
 ## What Changed
 
-The mission is two events because it has two clocks. **The Ten Nights** holds the patrol and the report, and **The Final Dawn** always runs, so Mission Renown and the gold live there. The d10 roll is gone. Skeletons come on nights 4, 6 and 8, one per character, with a sixth on night 8 for a party of five, so the pattern always has three data points.
+The mission is two events because it has two clocks. **The Ten Nights** holds the patrol and the report, and **The Final Dawn** always runs, so Mission Renown and the gold live there. The d10 roll is gone. Skeletons come on nights 4, 6 and 8, one per character, so the pattern always has three data points. A party of five faces a sixth skeleton on night 8 only.
 
 Three routes lead to the Brandath grove: the skeletons' path, Ambrose's account of the robbed mausoleums and the Watch ledger. Each night the party picks a post, which gives the patrol decisions instead of a single roll.
 

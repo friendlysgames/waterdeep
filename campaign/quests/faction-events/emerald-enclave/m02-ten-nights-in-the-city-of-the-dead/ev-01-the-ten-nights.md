@@ -93,9 +93,9 @@ Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) is a broad, heavy
 
 > [!social]**The Warden of the Dead**
 >
-> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) :: the Kelemvorite knight of the City of the Dead, who expects the living to explain themselves before he helps them.
+> Sir Ambrose Everdawn (Lawful Neutral, Tethyrian Human, he/him) :: the Kelemvorite knight of the City of the Dead.
 >
-> Ambrose speaks in formal, complete sentences and never uses a contraction. He calls Kelemvor "the Judge", names the family of every plot he passes and does not swear on the grounds of the dead. His dry humour appears once or twice over ten nights, and only if the party has earned his respect. A successful DC 13 Charisma (Persuasion) check on the first night, or a clean first skeleton night, turns him from reserved to friendly. Without either, he gives instructions and expects results.
+> Ambrose expects the living to explain themselves before he helps them. He speaks in formal, complete sentences and never uses a contraction. He calls Kelemvor "the Judge", names the family of every plot he passes and does not swear on the grounds of the dead. His dry humour appears once or twice over ten nights, and only if the party has earned his respect. A successful DC 13 Charisma (Persuasion) check on the first night, or a clean first skeleton night, turns him from reserved to friendly. Without either, he gives instructions and expects results.
 >
 > Ambrose is willing to discuss the following topics:
 >
