@@ -14,31 +14,31 @@
 
 ## Hook
 
-No animal brings this mission. On the morning after a member qualifies, the oak in the Trollskull Manor courtyard has put out shoots in every direction. Melannor's druids asked the party to leave that oak alone, so every Enclave member knows it is his business. The members walk to Phaulkonmere, where the gate stands open and Melannor waits in a garden that grows without direction.
+No animal brings this mission, and the sign is the oak in the Trollskull Manor courtyard, which has put out shoots in every direction on the morning after a member qualifies. Melannor's druids asked the party to leave that oak alone, so every Enclave member knows it is his business. The members walk to Phaulkonmere, where the gate stands open and Melannor waits in a garden that grows without direction.
 
 ## Background
 
 Jeryth Phaulkon has held something back from the Castle Ward water table for months. It is Illuun, an aboleth dreaming on Undermountain Level 4, and the Stone of Golorr woke it. Each Eye that the party restored made it press harder toward the surface, and Jeryth reported each pressure through Melannor in **The Water Table Stirs**.
 
-In **The Fouled Channel**, Jeryth rooted a cutting in the cistern to clear the waste, and the cutting gave her a way into the Castle Ward water. Illuun followed that way back to her. Over the last tenday it pushed a fragment of itself into a chamber below the cisterns and let it grow into an anchor. Three days ago the pressure became too great for her to speak and resist at once.
+In **The Fouled Channel**, Jeryth rooted a cutting in the cistern to clear the waste, and the cutting gave her a way into the Castle Ward water. Illuun followed that way back to her, and over the last tenday it pushed a fragment of itself into a chamber below the cisterns and let it grow into an anchor. Three days ago the pressure became too great for her to speak and resist at once.
 
 Six years ago a chuul scout from Illuun's brood came up Gerrick Thatchley's drain. His neighbours drove it back with fire and sealed the arch, and Gerrick never learned what it was. The chuul in the deepest chamber belong to the same brood, and this mission answers the question that **The Undercliff Scarecrows** left open.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - Jeryth wakes the moment the anchor breaks, and she speaks only at the oak. If 48 hours pass first, she withdraws into the roots and wakes a tenday after the anchor falls.
-> - The anchor and Jalester Silvermane are two separate routes of Illuun's reach. Destroying the anchor does not end the link through Jalester at the Yawning Portal's well, so **The Stone's Other Master** and **An Audience with the Open Lord** still run as written.
+> - The anchor and Jalester Silvermane are two separate routes of Illuun's reach. Destroying the anchor does not end the link through Jalester at the Yawning Portal's well. **The Stone's Other Master** and **An Audience with the Open Lord** therefore still run as written.
 > - Nobody in this mission names Illuun. Melannor and Jeryth say that something dreams below, and a character learns the name only if the Stone named it at Full Awakening.
-> - Illuun cannot be fought here. The anchor is a fragment, and breaking it does the aboleth no harm.
+> - Illuun cannot be fought here, because the anchor is a fragment and breaking it does the aboleth no harm.
 > - If **Cache Destroyed** is marked, the cistern is clean when the party passes through it. If it is not marked, the Splinter's film still lies on the eastern channel.
 
 ## The Brief
 
-Melannor waits beneath the oldest oak. He explains that Jeryth has been silent for three days and has 48 hours left, and he gives the party a *spell scroll* of *water breathing* and a strip of bark that glows near the anchor.
+Melannor waits beneath the oldest oak. He explains that Jeryth has been silent for three days and has 48 hours left. He then gives the party a *spell scroll* of *water breathing* and a strip of bark that glows near the anchor.
 
 ## Gerrick's Drain
 
-Gerrick Thatchley opens the old seal below the southern terraces. The first ten feet of the tunnel are scorched from the fire that drove the chuul scout back, and a piece of its shell is still caught in the seal.
+Gerrick Thatchley opens the old seal below the southern terraces. The first ten feet of the tunnel are scorched from the fire that drove the chuul scout back. A piece of its shell is still caught in the seal.
 
 ## The Cisterns
 
@@ -50,7 +50,7 @@ A flooded passage leads to the deepest chamber, and the party crosses it with th
 
 ## The Brood
 
-Chuul guard the anchor, one to three by party size. They sense magic, they Paralyze what they grapple, and they stop attacking when the anchor falls.
+One to three chuul guard the anchor, depending on party size. They sense magic, they Paralyze what they grapple, and they stop attacking when the anchor falls.
 
 ## The Anchor
 

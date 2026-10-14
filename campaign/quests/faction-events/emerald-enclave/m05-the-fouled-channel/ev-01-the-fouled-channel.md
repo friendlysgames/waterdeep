@@ -91,11 +91,11 @@ If **Mirsa Rescued** is marked, read or paraphrase the following:
 
 > [!qna]**Who did this?**
 >
-> > "I do not know. If you find a mark or a name, bring it to me, and I will give it to Jeryth."
+> > "I do not know who made it, and I would like to. If you find a mark or a name, bring it to me, and I will give it to Jeryth."
 
 > [!qna]**What should we know?**
 >
-> > "Do not drink the water, and do not stay in it longer than you must. The smell is sweet and flat, and it clings to the skin."
+> > "Do not drink the water, and do not stay in it longer than you must. The smell is sweet and flat, and I am told that it clings to the skin."
 
 ### Three Ways Down
 
@@ -105,21 +105,21 @@ The film comes from the Castle Ward cisterns, and the party can reach them three
 
 > [!exploration]**The Dead Edge**
 >
-> Any character who studies the dead edge of the beds with Melannor and makes a successful **DC 13 Intelligence (Nature)** check works out that the poison runs along a buried watercourse from the northwest. The garden's rill draws its water from a public cistern house in the Castle Ward, and the watercourse passes under the Trades Ward on the way. Melannor has a key to the cistern house door and gives it to that character.
+> Any character who studies the dead edge of the beds with Melannor and makes a successful **DC 13 Intelligence (Nature)** check works out that the poison runs along a buried watercourse from the northwest. The garden's rill draws its water from a public cistern house in the Castle Ward. The watercourse passes under the Trades Ward on the way, and Melannor has a key to the cistern house door, which he gives to that character.
 >
-> On a failure, Melannor reads the edge himself after an hour and gives the same answer. The party loses the hour and nothing else.
->
-> The cistern house has a stair of forty feet that opens on the north side of the chamber at the head of the western channel.
+> On a failure, Melannor reads the edge himself after an hour and gives the same answer, and the party loses the hour and nothing else. The cistern house has a stair of forty feet that opens on the north side of the chamber at the head of the western channel.
 
 #### The Network's Report
 
 > [!exploration]**The Network's Report**
 >
-> A member who asks the Summerstrider network about the wells of the Trades Ward hears the report of its water-carriers. The film lies on the water in the plaza well each morning, and horses refuse it. Customers who drink it grow slow and agreeable. A carter who keeps his cart in a shed behind the plaza says men with a key open a trapdoor under the shed at dusk every third day and carry sealed jars down. He has not asked why.
+> A member who asks the Summerstrider network about the wells of the Trades Ward hears the report of its water-carriers. The film lies on the water in the plaza well each morning, and horses refuse it. Customers who drink it grow slow and agreeable.
+>
+> A carter who keeps his cart in a shed behind the plaza says men with a key open a trapdoor under the shed at dusk every third day. They carry sealed jars down, and he has not asked why.
 >
 > This report is separate from the fixed Trades Ward report in **Summerstrider** and does not use up the member's request for that ward. Only members can ask the network, and a member passes the report to the party.
 >
-> The trapdoor is padlocked. The lock opens to a **DC 15 Dexterity** check with thieves' tools. A character without the tools forces it with a **DC 15 Strength (Athletics)** check, which draws the carter, and he asks no questions for 5 gp. A failed attempt costs a minute and nothing else.
+> The trapdoor is padlocked. The lock opens to a **DC 15 Dexterity** check with thieves' tools. A character without the tools forces it with a **DC 15 Strength (Athletics)** check, which draws the carter, and he asks no questions for 5 gp. A failed attempt costs the party a minute and nothing more.
 >
 > Forty feet of steps lead down to a narrow landing, the foot of the cultists' stair. The cache chamber lies 60 feet east of it along the channel.
 
@@ -184,14 +184,15 @@ The chamber at the head of the western channel is the heart of the cistern compl
 
 > [!readaloud]
 >
-> Your light finds a round chamber of old stone about ten feet across, with a raised dais around its edge and a grated sluice in the middle of the floor. Water slides out of the western channel and gathers over the sluice in a slow swirl. A skin of oily colour rides on top of it in patches of green and violet, and the smell that comes off it is sweet and flat, like a sickroom with the window shut.
+> Your light finds a round chamber of old stone about ten feet across, with a raised dais around its edge. A grated sluice sits in the middle of the floor. Water slides out of the western channel and gathers over the sluice in a slow swirl. A skin of oily colour rides on top of it in patches of green and violet. The smell that comes off it is sweet and flat, like a sickroom with the window shut.
 
 > [!exploration]**Reading the Film**
 >
-> - Any character who examines the water and makes a successful **DC 12 Wisdom (Survival) or Intelligence (Investigation)** check identifies the film as alchemical waste and sees that it comes from upstream, to the west.
-> - Any character who smells the water and makes a successful **DC 12 Intelligence (Arcana)** check recognises a tincture that keeps a person calm and obedient, boiled down and thrown away.
+> - Any character who examines the water and makes a successful **DC 12 Wisdom (Survival) or Intelligence (Investigation)** check identifies the film as alchemical waste.
+>   That character also sees that it comes from upstream, to the west.
+> - Any character who smells the water and makes a successful **DC 12 Intelligence (Arcana)** check recognises a tincture that keeps a person calm and obedient. Someone has boiled it down and thrown it away.
 >
-> A party that makes neither check can still follow the film upstream. The checks add information and do not gate the way.
+> A party that makes neither check can still follow the film upstream, because the checks add information and do not gate the way.
 
 The cache chamber is a side room off the western channel. The party can find it three ways, and each is enough.
 
@@ -211,7 +212,7 @@ The cache chamber is a side room off the western channel. The party can find it 
 > - **Success:** nothing, and the count starts again.
 > - **Remedies:** a Short Rest outside the exposure. A member can also spend 1 charge of a *charm of restoration* to cast *lesser restoration* on the character. Cloths over the nose and mouth do nothing, because the film acts through the skin.
 >
-> About half of a party is Poisoned after the first ten minutes. There is no Day Cost.
+> About half of a party is Poisoned after the first ten minutes, and the hazard carries no Day Cost.
 
 ### The Cache
 
@@ -234,9 +235,9 @@ Any character who saw the page in **The Undercliff Scarecrows** knows the mark. 
 
 > [!exploration]**Burning the Cache**
 >
-> Each jar holds about a gallon of grey sludge under its seal. A character who breaks a seal with a Utilize action and sets a torch, a flask of oil or any fire spell to the sludge burns it to white ash in a minute. The six jars take six actions in all, from any characters. The smoke is thin and drifts up the stair, and it harms no one.
+> Each jar holds about a gallon of grey sludge under its seal. A character who breaks a seal with a Utilize action and sets a torch, a flask of oil or any fire spell to the sludge burns it to white ash in a minute.
 >
-> Melannor will not let Jeryth work while the jars stand, because the water would foul again within a tenday. Mark **Cache Destroyed** when the last jar is ash.
+> The six jars take six actions in all, from any characters, and the thin smoke drifts up the stair and harms no one. Melannor will not let Jeryth work while the jars stand, because the water would foul again within a tenday, so mark **Cache Destroyed** when the last jar is ash.
 
 ### The Cultists
 

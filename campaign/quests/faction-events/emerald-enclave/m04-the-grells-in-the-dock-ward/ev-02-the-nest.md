@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Combat and Social Event begins when the party enters the salt-store on the south quay and ends when the members report to Melannor Fellbranch at Phaulkonmere. In this Event, the party can:
+> This Combat and Social Event begins when the party enters the salt-store and ends when the members report to Melannor at Phaulkonmere, and in it the party can:
 >
 > - Cross the hall under the eyes of two grells and fight them, or draw them off.
 > - Climb to the nest and free Mirsa with an action and a Strength (Athletics) check.
@@ -10,7 +10,7 @@
 > - Carry Mirsa to Phaulkonmere, where Jeryth Phaulkon gives a *charm of heroism* to each character who fought.
 > - Hear Mirsa's account of Pier 17 and decide whom to tell.
 >
-> Only Emerald Enclave members attend Melannor's debrief. The *charm of heroism* is a deliberate party-wide gift. It goes to each character who fought the grells, member or not. Companions receive it at the oak and then wait in the outer garden.
+> Only Emerald Enclave members attend Melannor's debrief, but the *charm of heroism* is a deliberate party-wide gift. It goes to each character who fought the grells, member or not, and companions receive it at the oak before they wait in the outer garden.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -41,13 +41,13 @@ The party can enter by the street door at the west end or by the open loading le
 
 > [!hazard]**Two Grells in the Salt-Store**
 >
-> Both grells use the **Grell** stat block from the 2024 *Monster Manual*. Use the row for the party's size, counting companions.
+> Both grells use the **Grell** stat block from the 2024 *Monster Manual*, and you use the row for the party's size, counting companions.
 >
-> - **Three characters:** Grell 1 fights from round 1. Grell 2 leaves Mirsa at the start of round 3.
+> - **Three characters:** Grell 1 fights from round 1, and grell 2 leaves Mirsa at the start of round 3.
 > - **Four characters:** Both grells fight. Grell 1 starts in round 1, and grell 2 leaves Mirsa at the start of round 2.
 > - **Five characters:** Both grells fight as for four characters, and two **Tough** lookouts arrive in round 3.
 >
-> In every row, grell 2 leaves Mirsa at once if a character attacks it or frees her. If any character began the fight at half hit points or fewer, use the step-down. At three characters grell 2 stays on Mirsa until she is freed. At four it stays until she is freed or round 3. At five the lookouts do not come.
+> In every row, grell 2 leaves Mirsa at once if a character attacks it or frees her. If any character began the fight at half hit points or fewer, use the step-down. At three characters grell 2 stays on Mirsa until she is freed, at four it stays until she is freed or round 3, and at five the lookouts do not come.
 >
 > #### Grell 1's Tactics
 > To begin, grell 1 drops from the beams toward the nearest character and uses Paralyzing Tentacles on that character.
@@ -80,7 +80,7 @@ The party can enter by the street door at the west end or by the open loading le
 > #### Fleeing and Barring the Door
 > A grell at 27 hit points or fewer drops anything it holds, flies and dashes for the open leaf, and goes out over the harbor. It does not return to this fight, and **Grell Escaped** is marked.
 >
-> A character who closes the open leaf (Utilize, DC 12 Strength (Athletics)) removes the exit. The leaf must be closed before the fight, or before any grell reaches 27 hit points. A cornered grell fights to 0 hit points, and this is the only way to destroy both. Grells do not surrender.
+> A character who closes the open leaf (Utilize, DC 12 Strength (Athletics)) removes the exit. The leaf must be closed before the fight, or before any grell reaches 27 hit points. A cornered grell fights to 0 hit points, and this is the only way to destroy both, since grells do not surrender.
 >
 > The fight ends when both grells are destroyed or have fled. Paralysis ends when the target succeeds on a DC 11 Constitution saving throw at the end of its turn. A member's *charm of restoration* also ends it, with *Lesser Restoration* for 1 charge. A grappled character escapes with a successful DC 12 check.
 
@@ -88,17 +88,17 @@ The party can enter by the street door at the west end or by the open loading le
 >
 > No route destroys a grell without a fight, but two routes spare the party part of it.
 >
-> - **The lure:** A character who makes a loud noise at the street end of the hall, with a thrown crate, a shout or a cantrip such as *Thaumaturgy*, draws grell 2's attention for one round. Mirsa can be freed that round at DC 12 even if a grell stands within 5 feet.
-> - **The withdrawal:** A party that frees Mirsa and carries her out of the street door can end the fight there. The grells do not follow into the street, and both go under the south quay within the tenday. Mark **Grell Escaped**.
+> - **The lure:** A character can make a loud noise at the street end of the hall, with a thrown crate, a shout or a cantrip such as *Thaumaturgy*. The noise draws grell 2's attention for one round, and Mirsa can be freed in that round at DC 12 even if a grell stands within 5 feet.
+> - **The withdrawal:** A party that frees Mirsa and carries her out of the street door can end the fight there. The grells do not follow into the street, and both go under the south quay within the tenday, so mark **Grell Escaped**.
 
 ### Freeing Mirsa
 
 > [!exploration]**The Bound Seamstress**
 >
-> Mirsa lies bound in grey webbing on the platform, 10 feet up. A character who reaches her and spends an action to free her makes a DC 12 Strength (Athletics) check, or DC 14 if a grell is within 5 feet of her. A failure can be retried with another action.
+> Mirsa lies bound in grey webbing on the platform, 10 feet up. A character who reaches her can spend an action to free her with a DC 12 Strength (Athletics) check. The DC is 14 if a grell is within 5 feet of her, and a failure can be retried with another action.
 >
 > - **While she is bound:** Grell 2 keeps its attention on her, and freeing her ends that.
-> - **Once she is free:** Mirsa is a bystander. She cannot walk, she does not fight, and a character who carries her has Speed halved.
+> - **Once she is free:** Mirsa is a bystander who cannot walk or fight, and a character who carries her has Speed halved.
 > - **The cost:** Each action spent on her is an action not spent on the grells, and grell 2 joins the fight sooner.
 
 When a character frees her, read the following aloud:
@@ -107,7 +107,7 @@ When a character frees her, read the following aloud:
 >
 > The webbing parts, and Mirsa's thin hands close on your sleeve with surprising strength. She smells of brine and sailcloth, and she keeps her eyes off the beams.
 >
-> > "Get me down from here, love, and don't let that fucking thing near me again."
+> > "Get me down from here, love, and don't let that fucking thing near me again. I've looked at those beams for two days, and I'll be happy never to see them again."
 
 ### Out of the Salt-Store
 
@@ -117,7 +117,7 @@ Melannor waits at the street door with the cart. If the party carries Mirsa out 
 >
 > Melannor is standing where you left him, with the cart behind him and a blanket folded over the seat. When you carry Mirsa out he goes still for a long moment, then nods once and spreads the blanket across the cart bed.
 >
-> > "Lay her here. We will take her to Phaulkonmere."
+> > "Lay her here on the blanket, please. We will take her to Phaulkonmere, where she can rest and be seen to."
 
 If a grell escaped, add the following:
 
@@ -125,7 +125,7 @@ If a grell escaped, add the following:
 >
 > Melannor has been watching the harbor, and he turns his head toward you before he speaks.
 >
-> > "One crossed the water and went under. I will ask the gulls where it surfaced, if any gull will speak to me."
+> > "One of them crossed the water and went under the surface. I will ask the gulls where it surfaced, if any gull will speak to me."
 
 If Mirsa died, read the following aloud instead of the first branch:
 
