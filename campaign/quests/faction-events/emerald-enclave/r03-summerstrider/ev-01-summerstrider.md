@@ -22,7 +22,7 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 >
 > The pigeon waits a moment, then opens its wings and flies off over the roofs.
 
-> [!gamemaster]
+> [!gamemaster]**The Message**
 >
 > The message is 23 words, and anyone nearby hears it, so a companion at the table knows where the member is going. The pigeon carries no reply, and Melannor expects the member at dusk.
 
@@ -123,7 +123,7 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: the voice that speaks from the gardens of Phaulkonmere.
 >
 > She speaks one or two short sentences at a time and never repeats them. Jeryth is Friendly and distant. The leaves move when she speaks, and the garden answers her with flowers and breezes. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
 >
@@ -140,7 +140,7 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 
 > [!qna]**What dreams below?**
 >
-> > "Something old. It dreams below. Watch the water."
+> > "Something old dreams below. Watch the water."
 
 > [!qna]**Who gets the dragon's gold?**
 >
@@ -155,7 +155,7 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 > - **Limit:** one casting per member for each Long Rest the member finishes, so a member who rests in the garden can ask once on waking.
 > - **Who else:** the member only, so a hurt companion receives no casting but may rest in the garden under the haven rules of the First Meeting.
 > - **Notice:** the member gives none, because Jeryth knows when a member is hurt before they reach the gate.
-> - **Loss rule:** a member who brings a pursuer into the garden or fights inside the walls loses the healing for a tenday. The response teams never enter, but they may watch the street.
+> - **Loss rule:** a member who brings a pursuer into the garden or fights inside the walls loses the healing for two tendays. The response teams never enter, but they may watch the street.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the healing is suspended until the Renown is restored.
 
 ### The Network
@@ -168,7 +168,7 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 >
 > > "Every tenday I will give you one report from each ward you ask about. I will tell you what my watchers noticed, and I will not guess at what it means."
 
-> [!gamemaster]
+> [!gamemaster]**Reading the Reports**
 >
 > Each report below is fixed, so read it as written in Melannor's own voice, and do not explain it. If the member asks what a report means, Melannor answers, "I do not know, and I would like to."
 

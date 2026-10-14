@@ -14,7 +14,7 @@ The Dock Ward has two rows, one for each side of Tarsakh 20, when the carnival f
 
 ## Invented Names and Open Items
 
-Invented: the gate box, the benches by the gate, the dusk meeting, the falcon for the Field Ward relay, and the Castle Ward and North Ward lines. Jeryth's species is not given in her Notable Figures page, so her social block lists only her alignment, her title and her pronouns.
+Invented: the gate box, the benches by the gate, the dusk meeting, the falcon for the Field Ward relay, and the Castle Ward and North Ward lines. Jeryth's social block uses the shared parenthetical: alignment, title, disembodied presence and pronouns.
 
 For the out-of-scope log:
 - `campaign/structure/arc-e-faction-outposts.md:85` carries the Southern Ward line with "infernal" in it, which the Enclave cannot know.
