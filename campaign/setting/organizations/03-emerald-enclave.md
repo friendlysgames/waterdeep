@@ -38,7 +38,7 @@ The Emerald Enclave has no interest in the gold, and its aid carries no hidden p
 > - The name reaches an Enclave member through **Anchor Destroyed**, because Jeryth learns it when the anchor breaks, or from the Stone at Full Awakening. **Illuun Contact** alone gives the presence, not the name. Jeryth says "old, patient and hungry" in **The Water Table Stirs** and nowhere else.
 > - The foul water in **The Fouled Channel** is residue from the Splinter's thrall-conditioning, the alchemy that keeps its mind-controlled servants docile. Imre Daskov brews it. When Jeryth's cutting opens a conduit through that water, Illuun uses it to push a fragment of itself toward her, and **The Dreamer's Reach** follows.
 > - Phaulkonmere stands one block south of Kolat Towers. Until **Manshoon Named** is marked for a member, Enclave speakers say "the Splinter" and never point toward the towers.
-> - Nobody in the Enclave knows of the Cassalanters' pact. The Enclave shares the city's general suspicion of the family, and no more.
+> - Jeryth senses an infernal influence in the Sea Ward, and the Enclave knows it is there. Nobody in the Enclave knows whose it is or that the Cassalanters have a pact. Toward the family the Enclave shares only the city's general suspicion.
 > - No Enclave speaker names Jarlaxle, Zardoz Zord, or Bregan D'aerthe to players. Its harbor watcher, Sarna Dath, speaks of the carnival fleet and the *Eyecatcher*'s crew.
 
 ## Cross-References

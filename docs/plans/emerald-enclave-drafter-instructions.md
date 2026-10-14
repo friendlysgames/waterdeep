@@ -111,7 +111,7 @@ Every `prose-drafter` working on a Emerald Enclave folder follows this page firs
   - Overview and Involved Characters labels say "the Splinter".
   - Phaulkonmere is one block south of Kolat Towers. Nobody points at the towers or says what they are before the gate.
 - **Jarlaxle.** No Enclave speaker names Jarlaxle, Zardoz Zord or Bregan D'aerthe to players. GM text may.
-- **Cassalanters.** Suspicion only. Nobody knows they are infernalists. Don't use "herbs dying overnight and birds leaving"; that is the Cassalanter hook's sign.
+- **Cassalanters.** Suspicion only. Nobody knows they are infernalists. The Enclave can sense infernal influence in the Sea Ward, but it does not know whose it is. Don't use "herbs dying overnight and birds leaving"; that is the Cassalanter hook's sign.
 - **Illuun.** Nobody names it before **Illuun Contact** or **Anchor Destroyed** (see the brief). Jeryth says "Something dreams below."
 - **Animal messages.** Every *Animal Messenger* message is 25 words or fewer. Count them, and put the count in a GM line under the readaloud. Use the brief's animal for your event and Phaulkonmere's constants.
 - **No intellect devourers, no Wish.** M5's waste is Splinter thrall-conditioning residue.
