@@ -38,8 +38,10 @@ Jeryth sent the animals herself, so no *Animal Messenger* is cast and no bariton
 > - The *charm of vitality* is Jeryth's third gift after the *charm of restoration* and the *charm of heroism*. She goes on to say nothing about it afterward.
 > - The commission is a real request. Melannor accepts a refusal, and declining costs the member nothing.
 > - The Enclave has no reach below the first level. Everything it knows of the thing below comes up through the water, and Melannor cannot say where it lies beyond "below the Castle Ward".
-> - The thing below is Illuun, an aboleth in the Grotto of Madness on Level 4. Jeryth learned the name when the anchor broke in **The Dreamer's Reach**. She gives it only to a member for whom **Anchor Destroyed** or **Illuun Contact** is marked.
-> - If **The Dreamer's Reach** has run and **Anchor Destroyed** is not marked, Jeryth is still in the roots. She wakes a tenday after the anchor falls, so hold this Event until she does.
+> - The thing below is Illuun, an aboleth in the Grotto of Madness on Level 4. Jeryth learned the name when the anchor broke in **The Dreamer's Reach**. She tells it only to a member for whom **Anchor Destroyed** is marked. **Illuun Contact** alone gives a member the presence and not the name, unless the Stone named it at Full Awakening (unconverted).
+> - If **Anchor Destroyed** is marked and the anchor fell less than a tenday ago, Jeryth has not yet woken, so hold this Event until a tenday has passed.
+> - If **The Dreamer's Reach** has run and the anchor still stands, Jeryth cannot name the rank, so the Event waits for **Anchor Destroyed**.
+> - If **The Dreamer's Reach** has not run and the party has entered the Vault, Jeryth is silent, so the Event waits for the mission.
 
 ### The Clearing
 
@@ -69,7 +71,7 @@ Phaulkonmere stands in the Southern Ward. Companions walk in with the member and
 > - The six, the beasts and the commission.
 > - The garden and its animals.
 >
-> He will not discuss the Stone of Golorr, the vault, the Splinter's master or the house one block north. He answers each by saying that it is not his to say. To a member for whom neither **Anchor Destroyed** nor **Illuun Contact** is marked, he calls the thing below "whatever is sleeping below" and has no name for it.
+> He will not discuss the Stone of Golorr, the vault, the Splinter's master or the house one block north. He answers each by saying that it is not his to say. To a member for whom **Anchor Destroyed** is not marked, he calls the thing below "whatever is sleeping below" and has no name for it.
 
 > [!qna]**What does Master of the Wild give me?**
 >
@@ -97,7 +99,7 @@ Jeryth speaks to the member from the oak. The six and Melannor bow their heads, 
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who has chosen to name the member before the whole Enclave.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who has chosen to name the member before the whole Enclave.
 >
 > She speaks one or two short sentences at a time and never repeats herself. Jeryth is Friendly and distant, and the garden answers with her through turning leaves, opening flowers and a warm breeze. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
 >
@@ -122,7 +124,7 @@ Jeryth speaks to the member from the oak. The six and Melannor bow their heads, 
 >
 > > "No. I do not follow you down."
 
-What Jeryth says next depends on **The Dreamer's Reach**. Read the first branch to a member for whom neither **Anchor Destroyed** nor **Illuun Contact** is marked:
+What Jeryth says next depends on **The Dreamer's Reach**. Read the first branch to a member for whom **Anchor Destroyed** is not marked:
 
 > [!readaloud]
 >
@@ -144,7 +146,7 @@ If **Illuun Contact** is marked for the member, read this after the previous bra
 >
 > The leaves above you turn together, and the murmur stays low.
 >
-> > "Illuun has seen you. It will know you when you come near."
+> > "Something has seen you. It will know you when you come near."
 
 A companion who holds **Illuun Contact** is not told the name here. Melannor and the six hear only the naming.
 
@@ -208,7 +210,7 @@ Read the following aloud as the six step forward:
 
 > [!qna]**How long will you stay?**
 >
-> > "Until the job's done or you've been ten days below. Then we walk back up the stairs, and that's the end of it. We don't come twice, so don't waste us on shit a rope would fix."
+> > "Until the job's done or you've been a tenday below. Then we walk back up the stairs, and that's the end of it. We don't come twice, so don't waste us on shit a rope would fix."
 
 > [!qna]**Will you go to the fourth level?**
 >
@@ -223,7 +225,7 @@ Read the following aloud as the six step forward:
 > - **Notice:** three days, and a request with less notice is refused and spends nothing.
 > - **The place:** the Yawning Portal courtyard or a surface point in Waterdeep. The whole company arrives together, and it goes as far down as the member takes it.
 > - **Fighting allies:** the six fight as one fewer than the member's party. Three PCs get Sorrel and Rolan, four add Ealdra, and five add Naerith. The rest keep the camp and the rear and do not fight.
-> - **Duration:** the operation ends when the objective is met or abandoned, or after ten days below ground. The six then walk back up the stairs.
+> - **Duration:** the operation ends when the objective is met or abandoned, or after a tenday below ground. The six then walk back up the stairs.
 > - **Limit:** one operation for the member, spent when the six begin it. A request withdrawn before then is not spent, and a fallen member of the six is not replaced.
 > - **Orders:** the six take orders from the member who called them and from nobody else, so a companion cannot call them.
 > - **Loss rule:** a member who orders the six to harm the Watch, a Lord or a creature that has surrendered ends the operation. The six leave at once, and the use is spent.
@@ -295,7 +297,7 @@ Melannor asks to speak with the member alone. Companions wait by the oak, and th
 >
 > Melannor walks with you along the gravel toward the east gate and stops before you reach it. The garden is quiet, and the animals on the wall have turned to watch him. He faces you directly, which he rarely does, and speaks in the same even voice as before.
 
-Read the branch that matches the member. If neither **Anchor Destroyed** nor **Illuun Contact** is marked, read the following:
+Read the branch that matches the member. If **Anchor Destroyed** is not marked, read the following:
 
 > [!readaloud]
 >
@@ -395,7 +397,7 @@ The Event concludes when the member has been named, has heard how the six and th
 > - **Master of the Wild Reached** — mark with the recipient's name when Jeryth names the rank in the clearing. Read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Emerald Enclave standing.
 > - **Illuun Watch Accepted** — mark with the member's name when they accept Melannor's request. Read by **Dungeon of the Mad Mage** (unconverted), where the three marks and the Enclave's interest in Level 4 apply.
 >
-> This Event also reads **Winterstalker Reached** (the hold) and **East Gate Key Held** (the gate hours). It reads **Anchor Destroyed** and **Illuun Contact** for what Jeryth says and whether Melannor names the thing below.
+> This Event also reads **Winterstalker Reached** (the hold) and **East Gate Key Held** (the gate hours). It reads **Anchor Destroyed** for the hold and whether Jeryth and Melannor name the thing below, and **Illuun Contact** for Jeryth's second line.
 
 > [!gamemaster]**Next Steps**
 >
