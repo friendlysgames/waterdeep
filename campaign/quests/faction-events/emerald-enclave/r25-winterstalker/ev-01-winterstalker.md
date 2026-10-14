@@ -315,7 +315,7 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 > Sarna names no owner, and Melannor knows no more than the notes say. If the Faire's departure has been moved up to Tarsakh 15, use that date in place of Tarsakh 20 throughout this Event. The fleet sails on that date whatever the party did. The notes map to the villain factions as follows:
 >
 > - **The carnival fleet:** Jarlaxle's Bregan D'aerthe sails it, and its crew are drow in human form, whom Sarna takes for odd sailors.
-> - **Pier 17:** the barges belong to Xanathar's Guild and carry spoil out of its cargo tunnel under the south quay. The two hands who left are Garrit Moll and Tobiah Fenn, from **The Grells in the Dock Ward**.
+> - **Pier 17:** the barges belong to Xanathar's Guild and carry spoil out of its cargo tunnel under the south quay. The two hands who left are Garrit Moll and Tobiah Ashby, from **The Grells in the Dock Ward**.
 > - **The trader:** it belongs to Manshoon's Zhentarim and carries reagents for the Splinter's thrall-conditioning. The wagon goes to Kolat Towers in the Trades Ward.
 > - **The Sea Ward barge:** it carries the Cassalanter household's private supplies to the villa's jetty. Sarna suspects only that a rich house is hiding something, and nobody in this Event knows more.
 > - **The black skiff:** its passengers are Bregan D'aerthe couriers, who land to meet the company's agents in the city after the fleet has gone.
