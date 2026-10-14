@@ -27,5 +27,4 @@ The following are new and have no Notable Figures pages:
 Items for the out-of-scope log:
 
 - The Mechanics Reference says both that a fleeing grell drops its prey and that a grell does not flee while holding a Paralyzed creature. The text follows the first rule.
-- The Factions Guide row for this mission still says the Guild is "releasing monsters as Watch distractions".
 - **Xanathar's Lair** (unconverted) must read **Pier 17 Investigated** as a casing aid at X4 and keep the boats' hatch under the pier consistent with it.

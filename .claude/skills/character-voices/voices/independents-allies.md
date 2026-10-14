@@ -293,7 +293,7 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
 ---
 
 ### Sir Ambrose Everdawn
-*A dignified, grave paladin of the dead who speaks with courtesy and expects the living to earn his help.*
+*A dignified, grave knight of Kelemvor who speaks with courtesy and expects the living to earn his help.*
 
 - **Sound:** A deep, measured, formal voice, calm as a funeral, with a rare dry humour.
 - **Sentence shape:** Formal, complete sentences, with no contractions (a deliberate break from `ember-voice` speech). He asks the living to justify themselves.

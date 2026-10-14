@@ -24,9 +24,6 @@ The invented details are the red-wheeled cart, the yellow-scarfed Shard Shunners
 
 Contradictions outside this folder are left unedited:
 
-- The **Doppelganger Auditions** design notes and overview still say the Enclave has Bonnie leave, and they need an unavailable-after-**Bonnie Departed** branch.
-- **The Trouble with Meloon** (Day 6) and **Destroy the Intellect Factory** (ev-02 near line 277) show Bonnie at the Portal and need absence branches.
 - The Harpers organization page and Bonnie's Notable Figures page say only Mattrim knows her nature, though the Enclave's animals know too.
-- Kelso's Notable Figures page puts him in the Dock Ward with a Spy block, where this set uses the Field Ward and the Wererat.
 - The Order of the Gauntlet **The Shard Shunners** design notes claim Splinter intelligence from Kelso that its event does not contain.
-- **Faction Outposts** (unconverted) should read **Traitor Identified**, and the Factions Guide still lists M3 as "convince Bonnie to leave".
+- **Faction Outposts** (unconverted) should read **Traitor Identified**.

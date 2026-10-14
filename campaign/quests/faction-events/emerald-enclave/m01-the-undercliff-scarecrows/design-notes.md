@@ -26,8 +26,6 @@ Invented:
 - The split circle on the journal page, which Melannor names as the Splinter's mark.
 
 Outside this folder, for the out-of-scope log:
-- `campaign/guides/factions/04-emerald-enclave.md:63` says "before any farmers are killed" and lists +2 as the reward, while this mission now awards 2 base Renown plus three +1 conditions.
 - `campaign/setting/notable-figures/trollskull-community/01-talisolvanar-fellbranch.md:8` lists this mission under Tally's appearances, but he does not appear in it.
 - `campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:73` and `campaign/structure/arc-b-trollskull-alley.md:139` describe the mission with no Renown or gate, and need no change.
 - Gerrick has no Notable Figures page.
-- **Summerstrider** and **A Seat at Phaulkonmere** are named here from the brief, before their pages exist.
