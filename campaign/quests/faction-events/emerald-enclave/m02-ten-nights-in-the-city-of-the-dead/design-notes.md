@@ -20,6 +20,8 @@ The party patrols the north and Ambrose takes the south, as Appendix C has it, w
 
 Here the party reaches the stones at the edge of the grove, reads the doors and the warding, and leaves. The glyph, the stair and the interior stay with **Vault of Dragons**.
 
+The event also departs from the Emerald Enclave mechanics reference §3 on purpose. **Bones Kept Safe** needs every skeleton destroyed inside the grounds, and a skeleton that merely turns back does not count. That stricter test is the point of the bonus.
+
 Jeryth's line is now "Tell me if anything below answers", because the old line assumed she knew a vault was waiting to be opened. The new one points at the dreamer and leaves "make sure no one is watching from the water" for **The Dreamer's Reach**. The source's necromancer is dropped. The skeletons answer a pressure from the Vault, which is a new GM-only fact that needs confirming against the Vault conversion.
 
 ## Invented Names and Open Items
@@ -28,7 +30,6 @@ Invented names are Officer Jonn Bannock and Officer Ysa Terrow of the City Watch
 
 For the out-of-scope log:
 
-- `campaign/quests/faction-events/emerald-enclave/m01-the-undercliff-scarecrows/ev-01-the-undercliff-scarecrows.md:74` gives this mission's gate as Renown 1, when it is Renown 3 and 3rd level.
 - `campaign/guides/factions/04-emerald-enclave.md:64` says the mission is worth +2 and treats the necromancer as real.
 - `campaign/setting/notable-figures/independents-allies/17-sir-ambrose-everdawn.md:6` lists a Paladin stat block, and `voices/independents-allies.md:296` calls him a paladin, although he is a Knight.
 - `campaign/structure/arc-j-vault-of-dragons.md:83` should read **Brandath Crypts Visited**, and :47 needs an "if not run" default for **Jeryth's Message Received**.
