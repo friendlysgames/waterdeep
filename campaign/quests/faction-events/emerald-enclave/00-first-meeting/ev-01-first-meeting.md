@@ -65,15 +65,15 @@
 >
 > The street outside Phaulkonmere is narrow and busy with carts, and an iron gate stands open between two weathered stone posts. Beyond it the garden is thick with old trees and clipped hedges, and it looks much older than the houses on either side. Gravel paths wind inward toward a great oak whose branches reach over the villa roof. A half-elf in plain brown clothes waits just inside the gate with his hands folded in front of him, and he watches you come up the street.
 >
-> > "Good morning. I am Melannor Fellbranch. Is Talisolvanar well? He is my brother, and he works as a carpenter in your alley."
+> > "Good morning, and welcome to Phaulkonmere. I am Melannor Fellbranch, and I would like to know whether Talisolvanar is well. He is my brother, and he works as a carpenter in your alley."
 
 > [!gamemaster]**Talisolvanar**
 >
-> This line pays off the introduction of Tally Fellbranch in **The Neighbors**, where the party does not yet know he has a brother. Melannor calls him Talisolvanar every time and never says "Tally". Any character can answer. If someone says Tally is mending the door frames at the manor, Melannor nods and says:
+> This line pays off the introduction of Tally Fellbranch in **The Neighbors**, where the party does not yet know he has a brother, and Melannor calls him Talisolvanar every time. Any character can answer him, and if someone says Tally is mending the door frames at the manor, Melannor nods and says:
 >
-> > "Good. Talisolvanar should visit."
+> > "Good, I am glad to hear it. Talisolvanar should visit when his work in the alley allows it."
 >
-> If a character jokes about the name or the visit, Melannor answers the joke literally, with "That is not humorous." and a plain account of why Tally has not come. He has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
+> If a character jokes about the name or the visit, Melannor answers the joke literally, with "That is not humorous." and a plain account of why Tally has not come, since he has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
 
 ### The Walk with Melannor
 
@@ -85,7 +85,7 @@
 >
 > The gravel path curves farther than the walls of the estate should allow, and the air smells of wet earth and something older than the city. Melannor walks without hurrying and without looking back, and the garden seems to open ahead of him. He stops beside a bed of roses and turns to face you.
 >
-> > "Ask what you wish. I will answer what I can."
+> > "You may ask me whatever you wish about the Enclave, and I will answer everything that I am able to answer."
 
 > [!social]**The Groundskeeper**
 >
@@ -122,7 +122,7 @@
 >
 > He stops, and then continues in the same level voice.
 >
-> > "I would like to know."
+> > "I would like to know what it is, and so would Jeryth, because it troubles her more than it troubles me."
 
 > [!qna]**Why us?**
 >
@@ -132,11 +132,11 @@
 >
 > Melannor tilts his head toward the oak at the center of the garden.
 >
-> > "Jeryth has answered that before. She says, 'That question is for the Lords to settle.' The Enclave takes no side in it."
+> > "Jeryth has answered that question before, and I will repeat her words to you. She says, 'That question is for the Lords to settle.' The Enclave takes no side in it."
 
 > [!qna]**What do members get?**
 >
-> > "Jeryth gives each member a charm of restoration, and Phaulkonmere is open to you and your friends as a haven. When the Enclave has work, I will send word. You may refuse any task I send."
+> > "Jeryth gives each member a charm of restoration, and Phaulkonmere is open to you and your friends as a haven. When the Enclave has work, I will send word by animal, and you may refuse any task I send."
 
 > [!qna]**Can we keep our other loyalties?**
 >
