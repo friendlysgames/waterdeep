@@ -18,7 +18,7 @@ On the first morning after a member qualifies, a grey pigeon finds that member a
 
 ## Background
 
-About a tenday ago a Splinter arcanist drew a chalk circle in a sheltered draw north of the Undercliff farms and animated three scarecrows at once. He had not expected all three to wake, and he left before he could bring them under control. They now hold three territories of their own. The Sackcloth One walks the northern fields, the Pumpkin Head haunts the central orchards, and the Blanket stands on the southern terraces.
+About a tenday ago a Splinter arcanist drew a chalk circle in a sheltered draw east of Gerrick's north field and animated three scarecrows at once. He had not expected all three to wake, and he left before he could bring them under control. They now hold three territories of their own. The Sackcloth One walks the northern fields, the Pumpkin Head haunts the central orchards, and the Blanket stands on the southern terraces.
 
 Gerrick Thatchley, a halfling farmer of about fifty, has watched them for three days from his barn in the north, and he is angry that nobody has come. He also knows a sealed brick drain that runs west from the southern terraces to the cisterns under the Castle Ward.
 

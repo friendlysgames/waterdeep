@@ -326,13 +326,13 @@ When the last scarecrow is down, read the following aloud:
 >
 > > "Thank you, all of you, because I didn't think anyone was coming. If the Enclave ever needs that drain, you tell them where it is."
 
-If **Farm Damaged by Fire** is marked, read or paraphrase the following instead:
+If **Farm Damaged by Fire** is marked, read or paraphrase the following instead. Gerrick names the building that burned: he says "my barn" if the fire in the north stubble field reached it, and "Tuckerman's shed" if the fire in the southern pasture did.
 
 > [!readaloud]
 >
-> Gerrick stands at the edge of the burned ground with his pitchfork hanging from one hand. He looks at the barn for a long moment before he turns to you.
+> Gerrick stands at the edge of the burned ground with his pitchfork hanging from one hand. He looks at the burned roof for a long moment before he turns to you.
 >
-> > "The straw's gone and so is the roof, but that's fine. You still got them, and I won't forget it. If the Enclave ever needs that drain, you tell them where it is."
+> > "The roof's gone off my barn and the straw with it, but that's fine. You still got them, and I won't forget it. If the Enclave ever needs that drain, you tell them where it is."
 
 ### Debrief at Phaulkonmere
 
@@ -396,7 +396,7 @@ If **Farm Damaged by Fire** is marked, read the following aloud:
 >
 > Melannor keeps his hands folded and does not change his tone as he speaks.
 >
-> > "I am told a barn burned. Fire was a permitted tool, but I would have preferred the stream, and I hope Gerrick forgives it."
+> > "I am told an outbuilding burned. Fire was a permitted tool, but I would have preferred the stream, and I hope Gerrick forgives it."
 
 If **Farm Damaged by Fire** is unmarked, read the following aloud:
 
@@ -404,7 +404,7 @@ If **Farm Damaged by Fire** is unmarked, read the following aloud:
 >
 > Melannor nods slowly and speaks without changing his tone.
 >
-> > "Gerrick tells me his barn still stands, and I am glad of it."
+> > "Gerrick tells me that no farm building burned, and I am glad of it."
 
 > [!gamemaster]**Mission Renown**
 >
