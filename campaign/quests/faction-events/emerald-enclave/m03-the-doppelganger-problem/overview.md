@@ -20,7 +20,7 @@ A falcon finds each eligible Emerald Enclave member with a message from Melannor
 
 Bonnie has poured drinks at the Yawning Portal for over a year. She leads five doppelgangers who live on honest wages: herself, Edric Tanner, Kael, Syla and the Scholar. Melannor's animals learned what she is. The Enclave will not leave a crew that reads minds in the one room where every faction in the city talks.
 
-Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick, who buys stolen information and sells it to whoever pays. Bonnie traced the payments three weeks ago and has told nobody.
+Edric joined the crew two months ago and sells the names he reads from patrons' thoughts to Kelso Fiddlewick, who buys stolen information and sells it to whoever pays. Bonnie traced the payments two tendays ago and has told nobody.
 
 > [!gamemaster]**What Is Actually True**
 >
