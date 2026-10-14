@@ -19,7 +19,7 @@ Melannor still arrives at the door in person, and he now waits for a member who 
 ## Invented Names and Open Items
 
 Invented in this draft:
-- The seedlings, the nine o'clock visit, and the oiled cloth and three leaves of the sprig.
+- The seedlings, the two o'clock visit, which keeps clear of the aftermath visit in **The Grells in the Dock Ward**, and the oiled cloth and three leaves of the sprig.
 - Jeryth's spell save DC of 15 and spell attack bonus of +7.
 - The one-day notice for the beast.
 - Travel times of two, three and one and a half hours.
