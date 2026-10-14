@@ -16,7 +16,7 @@
 >
 > - Bonnie leads five doppelgangers: herself, Edric Tanner, Kael, Syla and the Scholar. They came to Waterdeep over a year ago and live on honest wages. Bonnie wears a Tethyrian barmaid form at the Portal and never talks about what she is in the taproom.
 > - Edric joined two months ago. He reads names from patrons' thoughts and sells them to Kelso Fiddlewick, the names of Enclave members and their companions among them. Kelso buys stolen information and sells it to whoever pays, and he never names a customer. In truth the Splinter is his customer, and a Shard Shunners runner carries Edric's paper to Beldan Rusk's house on Nethpranter Street.
-> - Bonnie traced a payment to Edric three weeks ago and has told nobody. She reads surface thoughts at will, so she knows why the party has come before anyone speaks.
+> - Bonnie traced a payment to Edric two tendays ago and has told nobody. She reads surface thoughts at will, so she knows why the party has come before anyone speaks.
 > - Melannor learned what Bonnie is from his animals, cats in the Portal's cellar and gulls over the quay. Mattrim Mereg is not the only person outside the crew who knows.
 > - Durnan knows nothing of what Bonnie is and must not hear it from the party, because she has paid for his ignorance with a year of honest work.
 > - **Harper M3 Complete** is world state. If any Harper member has marked it, Edric is already out of the crew and his red-wheeled cart is gone from the yard. He does not enter the back room in that case, and Bonnie speaks of him in the past tense.
@@ -219,7 +219,7 @@ Edric Tanner joins the talk, having read the party's thoughts at the bar and fol
 > Three independent routes show that Edric sold the names, and any one of them is enough for a character to tell Bonnie.
 >
 > - **His objections:** Any character who listens to him and makes a successful DC 14 Wisdom (Insight) check determines that he argues for himself and not for the crew. His eyes stay on Bonnie and never on the others, and he never mentions what Kael, Syla or the Scholar want.
-> - **Bonnie's trail:** If a character has said what leaving costs her, Bonnie slides a folded slip onto the table once Edric has spoken, and no check is needed. It lists three payments of 5 gp over three weeks, each traced from a Field Ward fence's till to Edric's boot.
+> - **Bonnie's trail:** If a character has said what leaving costs her, Bonnie slides a folded slip onto the table once Edric has spoken, and no check is needed. It lists three payments of 5 gp over two tendays, each traced from a Field Ward fence's till to Edric's boot.
 > - **The animals:** A character who heard Melannor's report of the teamster with the red wheel, or watched the yard, knows what Edric did two mornings ago. That character can say so aloud to Bonnie without a check.
 >
 > If Edric learns that the party suspects him, he stays pleasant and keeps pouring.
@@ -230,7 +230,7 @@ When a character tells Bonnie that Edric sold the names, by any route, read the 
 >
 > Bonnie sets her cup down and looks at Edric for some time before she looks back at you.
 >
-> > "He's the one who sold your names. I traced the coin three weeks ago, and I wanted to see whether anyone else would work it out. Edric, you're done with the crew. Out."
+> > "He's the one who sold your names. I traced the coin two tendays ago, and I wanted to see whether anyone else would work it out. Edric, you're done with the crew. Out."
 >
 > Edric drains his cup, shrugs and walks to the kitchen door.
 >
@@ -290,7 +290,7 @@ Bonnie asks for two tendays, which is the most Melannor will allow and exactly w
 > Any character who tells Bonnie plainly what the crew gives up and still asks her to go convinces her without a check. Any character who makes the demand and makes a successful DC 15 Charisma (Persuasion or Intimidation) check convinces her too. The DC is 12 if the character names the cost first, and 18 if the party sided with Edric.
 >
 > - **On a failure:** Bonnie says she will answer when someone has said what it costs, and a character who then names the cost convinces her without another check.
-> - **If the party sided with Edric and fails:** Bonnie goes to the Phaulkonmere gate the next morning and agrees to Melannor herself. The party hears of it from him when they next visit.
+> - **If the party sided with Edric and fails:** Bonnie goes to the Phaulkonmere gate the next morning and agrees to Melannor herself. Mark **Doppelgangers Departed** once Bonnie agrees to Melannor, and the party hears of it from him when they next visit.
 
 When Bonnie agrees, read the following aloud:
 
