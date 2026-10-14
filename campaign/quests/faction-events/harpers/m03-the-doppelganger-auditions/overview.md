@@ -4,6 +4,8 @@
 >
 > Available to Harper members at Renown 5 and 4th level after **The Dead Drop**. Their companions can help with the interviews and the pursuit, and only members attend Mirt's brief and report.
 >
+> If **Bonnie Departed** is marked (Emerald Enclave Mission 3), this mission is unavailable because the crew has left Waterdeep. While the Enclave's grace period is still running, the mission can run, and marking **Bonnie Harper Operative** lets the party argue her reprieve to Melannor.
+>
 > #### Difficulty
 > *An adventure for 4th-level characters.*
 >

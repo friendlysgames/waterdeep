@@ -270,7 +270,7 @@ The commendation is a sheet of Tower letterhead signed in Vajra's hand, naming t
 
 ### The Round at the Portal
 
-If **Meloon Restored** is marked, Meloon buys the party a round at the Yawning Portal that night.
+If **Meloon Restored** is marked, Meloon buys the party a round at the Yawning Portal that night. If **Bonnie Departed** is marked, replace "while Bonnie carries stews" with "while a new server carries stews".
 
 > [!readaloud]
 >
