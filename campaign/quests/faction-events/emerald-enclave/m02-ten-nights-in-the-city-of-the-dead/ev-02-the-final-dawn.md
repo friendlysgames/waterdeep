@@ -2,27 +2,27 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social and Exploration Event begins at the tenth dawn, when the party meets Sir Ambrose Everdawn at the central gate path, and it ends when Melannor pays the Enclave at Phaulkonmere. In this Event, the party can:
+> This Social and Exploration Event begins at the tenth dawn, when the party meets Sir Ambrose Everdawn at the central gate path. It ends when Melannor pays the Enclave at Phaulkonmere. In this Event, the party can:
 >
 > - Report the tenth night to Ambrose and hear him name the Brandath crypts.
 > - Walk the main path to the edge of the Brandath grove with the Watch officers present.
 > - Read the sealed doors and the warding on them, and watch the elm that watches back.
 > - Report to Melannor at Phaulkonmere and collect 100 gp for the ten nights stood.
 >
-> Only Emerald Enclave members attend the debrief, while companions wait at the gate of Phaulkonmere and Melannor pays them there.
+> Only Emerald Enclave members attend the debrief. Companions wait at the gate of Phaulkonmere, and Melannor pays them there.
 
 > [!gamemaster]**What Is Actually True**
 >
-> - The skeletons stopped at the third hour after midnight on the tenth night, when the pressure below the grove drew back, and nothing in this Event explains why.
-> - Ambrose has felt the north go wrong for months, and the Brandath crypts are the centre of it, but he does not know about the Vault of Dragons.
-> - Ambrose names the crypt unasked only if **Pattern Documented** is marked, because the report counts as asking, and otherwise he names it when a character asks and gives a reason. A reason is anything the party saw on the patrol.
-> - The largest elm at the grove is a treant, and it watches people on the path and does not move for them.
-> - The stair, the glyph of warding and everything behind the Brandath doors belong to **Vault of Dragons**, and nothing here opens or reveals them.
-> - Jeryth knows only that the Brandath ground feels wrong to her, and Melannor knows less than she does.
+> - The skeletons stopped at the third hour after midnight on the tenth night, when the pressure below the grove drew back. Nothing in this Event explains why.
+> - Ambrose has felt the north go wrong for months, and the Brandath crypts are the centre of it. He does not know about the Vault of Dragons.
+> - Ambrose names the crypt unasked only if **Pattern Documented** is marked, because the report counts as asking. Otherwise he names it when a character asks and gives a reason, and a reason is anything the party saw on the patrol.
+> - The largest elm at the grove is a treant. It watches people on the path and does not move for them.
+> - The stair, the glyph of warding and everything behind the Brandath doors belong to **Vault of Dragons**. Nothing here opens or reveals them.
+> - Jeryth knows only that the Brandath ground feels wrong to her. Melannor knows less than she does.
 
 ### The Tenth Dawn
 
-Ambrose is waiting at the central gate path when the party arrives. He asks how the night went and listens without interrupting, and he does not mention the Brandath crypt until it comes up.
+Ambrose is waiting at the central gate path when the party arrives. He asks how the night went and listens without interrupting. He does not mention the Brandath crypt until it comes up.
 
 > [!readaloud]
 >
@@ -48,9 +48,9 @@ If **Pattern Documented** is marked and no character has asked about the crypt, 
 >
 > Ambrose hears the report to the end and looks north across the headstones for a long moment. He puts a hand on the nearest stone before he speaks.
 >
-> > "The Brandath crypts. The bones were never the point of this, and the skeletons only showed us where the trouble lies. Something at that ground has been wrong for months, and the dead nearest it felt it first. Walk softly there."
+> > "The Brandath crypts. The bones were never the point of this, and the skeletons only showed us where the trouble lies. Something at that ground has been wrong for months. The dead nearest it felt it first, so walk softly there."
 
-If **Pattern Documented** is not marked and a character asks about the crypt, Ambrose first asks why, and any reason the party saw on the patrol is enough. Then he answers as above.
+If **Pattern Documented** is not marked and a character asks about the crypt, Ambrose first asks why. Any reason the party saw on the patrol is enough, and then he answers as above.
 
 > [!qna]**What do you know of the Brandath crypt?**
 >
@@ -74,7 +74,7 @@ If **Pattern Documented** is not marked and a character asks about the crypt, Am
 
 ### The Brandath Grounds
 
-The party can walk the main path to the edge of the grove. Officers Bannock and Terrow are on shift, and they let the party pass as far as the stones that mark the edge of the ground.
+The party can walk the main path to the edge of the grove. Officers Bannock and Terrow are on shift. They let the party pass as far as the stones that mark the edge of the ground.
 
 > [!readaloud]
 >
@@ -82,25 +82,25 @@ The party can walk the main path to the edge of the grove. Officers Bannock and 
 
 > [!exploration]**The Sealed Doors**
 >
-> Any character who studies the doors from the stones and makes a successful DC 13 Intelligence (Arcana) check reads layers of old warding on them, laid over decades. It is containment of the kind used to keep something in, and it is holding. *Detect Magic* shows the same abjuration with no check, and Ambrose says the Watch has always called the doors "warded" and that he has never looked closer.
+> Any character who studies the doors from the stones and makes a successful DC 13 Intelligence (Arcana) check reads layers of old warding on them, laid over decades. It is containment of the kind used to keep something in, and it is holding. *Detect Magic* shows the same abjuration with no check. Ambrose says the Watch has always called the doors "warded" and that he has never looked closer.
 >
 > - **Result of 18 or higher:** The character also sees that the warding has been pressed on from the inside, and that the pressure eased at the third hour on the tenth night.
 
 > [!exploration]**The Elm**
 >
-> Any character who studies the largest elm and makes a successful DC 12 Intelligence (Nature) check recognizes a treant, awake, that has been watching the path since the party arrived. Officer Bannock says the Watch calls it "the old elm" and that it has never moved for anyone on the path, and Ambrose says the same if asked.
+> Any character who studies the largest elm and makes a successful DC 12 Intelligence (Nature) check recognizes a treant, awake, that has been watching the path since the party arrived. Officer Bannock says the Watch calls it "the old elm" and that it has never moved for anyone on the path. Ambrose says the same if asked.
 >
 > The treant watches the party on the path and does nothing. A character who steps past the stones toward the doors hears it growl once in a voice like splitting wood:
 >
 > > "Only those of Brandath blood are welcome here! Begone!"
 >
-> A character who goes on toward the doors finds the treant stepping across the way, and it lifts the character off the ground in its branches and sets them down outside the stones. Ambrose arrives and escorts the party off the grounds, and the Enclave hears of it by noon. The 100 gp is still paid, but **Brandath Crypts Visited** is not marked for that character, and the member loses nothing else.
+> A character who goes on toward the doors finds the treant stepping across the way. It lifts the character off the ground in its branches and sets them down outside the stones. Ambrose arrives and escorts the party off the grounds, and the Enclave hears of it by noon. The 100 gp is still paid, but **Brandath Crypts Visited** is not marked for that character. The member loses nothing else.
 
 Nothing in this Event opens the Brandath doors. Mark **Brandath Crypts Visited** for each member who walks the path to the stones and reads the doors.
 
 ### Renown Opportunities
 
-Melannor receives the members in the garden of Phaulkonmere at noon, using the same arrival as in **The Ten Nights**, and companions wait at the gate where he brings their share. He pays each character who stood all ten nights 100 gp, whatever the result.
+Melannor receives the members in the garden of Phaulkonmere at noon, using the same arrival as in **The Ten Nights**. Companions wait at the gate, where he brings their share. He pays each character who stood all ten nights 100 gp, whatever the result.
 
 If **Bones Kept Safe** is marked, read or paraphrase the following:
 
@@ -118,7 +118,7 @@ If **Bones Kept Safe** is not marked, read or paraphrase the following:
 >
 > > "Some of the bones left the grounds, and Ambrose has buried what remained of them. The Enclave pays for the ten nights you stood, and Jeryth knows that you stood them."
 
-If **Pattern Documented** is marked, Melannor adds that Jeryth wished him to say the pattern was well observed, and if **Jeryth's Message Received** is not marked he has no word from her to add.
+If **Pattern Documented** is marked, Melannor adds that Jeryth wished him to say the pattern was well observed. If **Jeryth's Message Received** is not marked, he has no word from her to add.
 
 > [!gamemaster]**Mission Renown**
 >
@@ -130,7 +130,7 @@ If **Pattern Documented** is marked, Melannor adds that Jeryth wished him to say
 
 ### Aftermath
 
-Ambrose remains a minor contact in the City of the Dead who can be asked about the cemetery, the Watch stations and the northern families. In **Vault of Dragons** he recognizes a party that carries **Brandath Crypts Visited** and waves it through the gate with a warning to be quick. The skeletons do not return, the Watch ledger stops filling, and the frost leaves the path within a tenday.
+Ambrose remains a minor contact in the City of the Dead who can be asked about the cemetery, the Watch stations and the northern families. In **Vault of Dragons** he recognizes a party that carries **Brandath Crypts Visited** and waves it through the gate with a warning to be quick. The skeletons do not return. The Watch ledger stops filling, and the frost leaves the path within a tenday.
 
 ### Concluding the Event
 
@@ -138,7 +138,7 @@ The debrief ends the mission, and the party leaves Phaulkonmere with the gold in
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Brandath Crypts Visited** — mark for each member who walked the path to the Brandath stones and read the doors; read by **Vault of Dragons** (unconverted), Scene 2, where Ambrose waves the party through.
+> - **Brandath Crypts Visited** — mark for each member who walked the path to the Brandath stones and read the doors. Read by **Vault of Dragons** (unconverted), Scene 2, where Ambrose waves the party through.
 
 > [!gamemaster]**Next Steps**
 >

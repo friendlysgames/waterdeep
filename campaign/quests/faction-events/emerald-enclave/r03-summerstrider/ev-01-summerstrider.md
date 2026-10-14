@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs when an individual Emerald Enclave member first reaches Renown 3, which happens at the debrief of **The Undercliff Scarecrows** together with **A Seat at Phaulkonmere**. Melannor Fellbranch names the rank at the gate of Phaulkonmere and gives that member the three Summerstrider benefits. In this Event, the member can:
+> This Social Event occurs when an individual Emerald Enclave member first reaches Renown 3. That happens at the debrief of **The Undercliff Scarecrows**, together with **A Seat at Phaulkonmere**. Melannor Fellbranch names the rank at the gate of Phaulkonmere and gives that member the three Summerstrider benefits. In this Event, the member can:
 >
 > - Learn how to send one message through Melannor's *animal messenger* relay every tenday.
 > - Hear which healing spells Jeryth Phaulkon casts in the garden, and when.
@@ -38,11 +38,11 @@ At noon on the day after the member reaches Renown 3, a grey pigeon finds them w
 
 ### Naming the Rank
 
-Phaulkonmere stands in the Southern Ward, and the gate is open before the member arrives. If the member holds the east gate key (**East Gate Key Held** is marked for them), they can arrive at any hour and Melannor meets them at the east gate. Otherwise they come at dusk by the main gate. Read or paraphrase the following:
+Phaulkonmere stands in the Southern Ward, and the gate is open before the member arrives. If the member holds the east gate key (**East Gate Key Held** is marked for them), they can arrive at any hour. Melannor meets them at the east gate, and he is waiting there whenever they come. Otherwise they come at dusk by the main gate. Read or paraphrase the following:
 
 > [!readaloud]
 >
-> The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and noisy with evening traffic. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. The oldest oak stands in the middle of the garden with its roots across the path, and Melannor waits beside it with his hands clasped in front of him.
+> The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and noisy with evening traffic. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. The oldest oak stands in the middle of the garden with its roots across the path. Melannor waits beside it with his hands clasped in front of him.
 >
 > > "Good evening, Summerstrider. The rank is yours, and I will explain it as we walk. Your companions may wait on the benches by the gate."
 
@@ -50,9 +50,9 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 
 > [!social]**The Groundskeeper**
 >
-> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the groundskeeper of Phaulkonmere and a druid, who sends the Enclave's messages by animal and delivers his reports in a calm baritone.
+> Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the groundskeeper of Phaulkonmere and a druid.
 >
-> Melannor is Friendly and plain. He walks slowly and stops to straighten a plant while he talks. He uses no contractions, never swears and does not recognise a joke, and he answers one with a literal reply. He calls the member by name every time.
+> He sends the Enclave's messages by animal and delivers his reports in a calm baritone. Melannor is Friendly and plain. He walks slowly and stops to straighten a plant while he talks. He uses no contractions, never swears and does not recognise a joke, and he answers one with a literal reply. He calls the member by name every time.
 >
 > Melannor is happy to discuss the following topics:
 >
@@ -84,7 +84,7 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 
 > [!readaloud]
 >
-> Melannor leads you along a gravel path to a wooden box mounted on a post beside the gate, with a slot in the lid and a leaf carved on the front. A row of pigeons and crows sits along the wall above it and watches without moving.
+> Melannor leads you along a gravel path to a wooden box mounted on a post beside the gate. It has a slot in the lid and a leaf carved on the front. A row of pigeons and crows sits along the wall above it and watches without moving.
 >
 > > "This is the gate box. Write your message and leave it here, or give it to me when I am at the gate. It may be twenty-five words long."
 
@@ -93,7 +93,7 @@ If companions come along, they wait on the benches by the gate, and Melannor spe
 > - **Contact:** Melannor at Phaulkonmere, or a written note left in the gate box at any hour. He collects the box at dawn and at noon.
 > - **The request:** the member names a recipient by description and a place Melannor has visited, and writes the message in 25 words or fewer. Melannor has visited every ward of the city, the Undercliff and the farms outside the walls. A request for a place he has not visited is refused, and nothing is spent.
 > - **The animal:** Melannor casts *Animal Messenger* on a Tiny Beast of CR 0. He uses a pigeon or a crow for most wards and a falcon (the Hawk block) for the Field Ward and Undercliff. The animal speaks the message once in Melannor's baritone and leaves. Anyone nearby hears it.
-> - **The reply:** none is carried unless the message asks for one, and then the animal waits for up to 25 words and brings them back to the member's lodging.
+> - **The reply:** none is carried unless the message asks for one in so many words. Then the animal waits for up to 25 words and brings them back to the member's lodging.
 > - **Delay:** within Waterdeep and its farmland the message arrives in a few hours, and Melannor sends it within the hour when the member asks in person.
 > - **Limit:** one message per member each tenday, counted from the day of the member's own last request. Sending through the gate box counts from the day Melannor collects it. A refused request is not spent.
 > - **Range:** the relay never reaches Undermountain, because a Tiny Beast crosses no level on its own and the relay reaches nowhere below the surface.
@@ -123,9 +123,9 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who speaks one or two short sentences at a time and never repeats them.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere.
 >
-> Jeryth is Friendly and distant. The leaves move when she speaks, and the garden answers her with flowers and breezes. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
+> She speaks one or two short sentences at a time and never repeats them. Jeryth is Friendly and distant. The leaves move when she speaks, and the garden answers her with flowers and breezes. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
 >
 > Jeryth is happy to discuss the following topics:
 >
@@ -149,8 +149,8 @@ Melannor leads the member to the oldest oak and stops beside its roots. Read or 
 > [!exploration]**Healing at Phaulkonmere**
 >
 > - **Contact:** Jeryth, in the garden, where the member walks in and names one spell from the list without any written request.
-> - **Place:** Phaulkonmere only, with the casting coming from the garden, which is open by the main gate by day and at any hour for a member who holds the east gate key.
-> - **Which injuries:** only those taken in Enclave business since the member's last visit, which means any Enclave mission, any report the member followed from the network or any fight the member took to protect an animal, a plant or an Enclave contact. Other injuries get "That was not our work." and nothing is spent.
+> - **Place:** Phaulkonmere only, and Jeryth casts from the garden itself, never from anywhere else. The garden is open by the main gate by day, and at any hour for a member who holds the east gate key.
+> - **Which injuries:** only those taken in Enclave business since the member's last visit. That means any Enclave mission, or any report the member followed from the network. It also means any fight the member took to protect an animal, a plant or an Enclave contact. Other injuries get "That was not our work." and nothing is spent.
 > - **The list:** *Cure Wounds* (level 1), *Healing Word* (level 1), *Lesser Restoration* (level 2) and *Protection from Poison* (level 2). Jeryth casts each at its lowest level, with a spellcasting modifier of +4 and no costly components. She casts nothing above 2nd level here.
 > - **Limit:** one casting per member for each Long Rest the member finishes, so a member who rests in the garden can ask once on waking.
 > - **Who else:** the member only, so a hurt companion receives no casting but may rest in the garden under the haven rules of the First Meeting.
@@ -206,7 +206,7 @@ Melannor takes a folded paper from his coat and unfolds it on the lid of a rain 
 
 ### Leaving the Garden
 
-Melannor walks the member back to the gate, and the gravel is quiet under their boots. He stops at the threshold and says, "The soil is uneasy, so please use these benefits for the work they are meant to serve." Then he goes back to the oak, and the pigeons on the wall follow him with their heads.
+Melannor walks the member back to the gate, and the gravel is quiet under their boots. He stops at the threshold, turns to face the member and says, "The soil is uneasy." Then he adds, "Please use these benefits for the work they are meant to serve." He goes back to the oak, and the pigeons on the wall follow him with their heads.
 
 ### Renown Opportunities
 
@@ -218,11 +218,11 @@ The member can tell companions what Melannor said and what the reports hold. The
 
 ### Concluding the Event
 
-The Event concludes when the member has heard all three benefits and left Phaulkonmere, and the relay, the healing and the first report can be used at any later visit.
+The Event concludes when the member has heard all three benefits and left Phaulkonmere. The relay, the healing and the first report can be used at any later visit.
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Summerstrider Reached** — mark with the recipient's name when Melannor names the rank at the gate; read by **Autumnreaver**, which checks it before naming the next rank. Track separately for each member the day of the last message sent, the day each ward was last asked about and the Long Rest after which the last healing was cast.
+> - **Summerstrider Reached** — mark with the recipient's name when Melannor names the rank at the gate. It is read by **Autumnreaver**, which checks it before naming the next rank. Track separately for each member the day of the last message sent. Also track the day each ward was last asked about and the Long Rest after which the last healing was cast.
 >
 > This Event also reads **East Gate Key Held** (the garden's hours for the healing), **Splinter Site Reported** (the Field Ward report) and **Manshoon Named** (the Trades Ward report).
 
@@ -236,4 +236,4 @@ Melannor Fellbranch names an Emerald Enclave member a Summerstrider and explains
 
 ## Summary
 
-We were named Summerstriders at Phaulkonmere after a grey pigeon told us to come. Melannor will send one message for each of us every tenday, Jeryth heals injuries we take in Enclave work, and he gives each of us a report from each ward every tenday. Each of us has our own rank, and our companions can only wait at the gate.
+We were named Summerstriders at Phaulkonmere after a grey pigeon told us to come. Melannor will send one message for each of us every tenday, and Jeryth heals injuries we take in Enclave work. He also gives each of us a report from each ward every tenday. Each of us has our own rank, and our companions can only wait at the gate.

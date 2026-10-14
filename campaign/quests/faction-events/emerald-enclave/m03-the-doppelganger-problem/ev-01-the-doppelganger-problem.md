@@ -19,7 +19,7 @@
 > - Bonnie traced a payment to Edric three weeks ago and has told nobody. She reads surface thoughts at will, so she knows why the party has come before anyone speaks.
 > - Melannor learned what Bonnie is from his animals, cats in the Portal's cellar and gulls over the quay. Mattrim Mereg is not the only person outside the crew who knows.
 > - Durnan knows nothing of what Bonnie is and must not hear it from the party, because she has paid for his ignorance with a year of honest work.
-> - **Harper M3 Complete** is world state. If any Harper member has marked it, Edric is already out of the crew, his red-wheeled cart is gone from the yard, and he does not enter the back room.
+> - **Harper M3 Complete** is world state. If any Harper member has marked it, Edric is already out of the crew and his red-wheeled cart is gone from the yard. He does not enter the back room in that case, and Bonnie speaks of him in the past tense.
 > - Nobody in this Event mentions Manshoon, and Kelso never names his customers to anyone.
 
 ### The Brief
@@ -129,7 +129,7 @@ The Yawning Portal stays open until 01:00, when Durnan bars the door. Bonnie wor
 - **Syla** keeps accounts for a widow in the Trades Ward, and she answers with a question: "And if I said no, what would you do about it? Go to the back room after close and ask her."
 - **The Scholar** copies at a bookseller's stall, and he names a price: "Call it forty a job. Seriously, though, Bonnie's in the back room after close, so tell her I sent you."
 
-Any character who watches the stable yard between 22:00 and 23:00 sees the following without a check, unless **Harper M3 Complete** is marked, in which case the yard is empty. Read the following aloud:
+Any character who watches the stable yard between 22:00 and 23:00 sees the following without a check. If **Harper M3 Complete** is marked, the yard is empty, and otherwise you read the following aloud:
 
 > [!readaloud]
 >
@@ -153,7 +153,7 @@ Durnan leaves the back room unlocked at 01:00 and goes upstairs, and Bonnie arri
 >
 > Bonnie (Neutral, Doppelganger, she/her) :: the crew's leader, who reads surface thoughts at will and has already decided the Enclave's request is reasonable.
 >
-> In the back room Bonnie is economical and practical, with a dry humour about her own nature, and she swears mildly and asks as many questions as she answers. She wants someone to say what leaving costs her before she agrees, and she trusts a plain statement over a threat. She will not discuss her crew's real faces or where they came from.
+> In the back room Bonnie is economical and practical, with a dry humour about her own nature, and she swears mildly and asks as many questions as she answers. She wants someone to say what leaving costs her before she agrees, and she trusts a plain statement over a threat. She will not discuss her crew's real faces, or where the crew came from before Waterdeep.
 >
 > Conversation topics Bonnie is willing to discuss include:
 >
@@ -196,7 +196,7 @@ Edric Tanner joins the talk, having read the party's thoughts at the bar and fol
 >
 > Edric Tanner (Neutral Evil, Doppelganger, he/him) :: a warm, talkative doppelganger who joined Bonnie's crew two months ago and sells what he learns.
 >
-> Edric begins nearly every answer with "Right," and argues in the language of fairness. He says the Enclave has no say over neutral ground, that Bonnie has agreed to nothing and that the crew was left out, though every argument is really for himself. He reads surface thoughts at will and uses them to choose his next question, and if he is accused he stays pleasant, finishes his cup and leaves by the kitchen door.
+> Edric begins nearly every answer with "Right," and argues in the language of fairness. He says the Enclave has no say over neutral ground, that Bonnie has agreed to nothing and that the crew was left out. Every one of these arguments is really for himself. He reads surface thoughts at will and uses them to choose his next question. If he is accused, he stays pleasant, finishes his cup and leaves by the kitchen door.
 >
 > Conversation topics Edric is willing to discuss include:
 >
@@ -220,7 +220,7 @@ Edric Tanner joins the talk, having read the party's thoughts at the bar and fol
 >
 > - **His objections:** Any character who listens to him and makes a successful DC 14 Wisdom (Insight) check determines that he argues for himself and not for the crew. His eyes stay on Bonnie and never on the others, and he never mentions what Kael, Syla or the Scholar want.
 > - **Bonnie's trail:** If a character has said what leaving costs her, Bonnie slides a folded slip onto the table once Edric has spoken, and no check is needed. It lists three payments of 5 gp over three weeks, each traced from a Field Ward fence's till to Edric's boot.
-> - **The animals:** A character who heard Melannor's report of the teamster with the red wheel, or watched the yard, knows what Edric did two mornings ago and can say so aloud without a check.
+> - **The animals:** A character who heard Melannor's report of the teamster with the red wheel, or watched the yard, knows what Edric did two mornings ago. That character can say so aloud to Bonnie without a check.
 >
 > If Edric learns that the party suspects him, he stays pleasant and keeps pouring.
 
@@ -246,7 +246,7 @@ Bonnie then gives the buyer. Read the following aloud:
 
 Mark **Traitor Identified**, and have Edric leave Waterdeep within the tenday with one of Melannor's animals following him to the gate.
 
-If **Harper M3 Complete** is marked, Edric is already gone. Bonnie says the same words about him in the past tense as soon as a character asks who sold the names or says what leaving costs her, and she gives Kelso's name in the same way, so mark **Traitor Identified**.
+If **Harper M3 Complete** is marked, Edric is already gone. Bonnie says the same words about him in the past tense as soon as a character asks who sold the names or says what leaving costs her. She gives Kelso's name in the same way, so mark **Traitor Identified**.
 
 If nobody names Edric by any route, Bonnie lets him finish his cup and sends him out to the kitchen herself. She does not give Kelso's name, and **Traitor Identified** is not marked.
 

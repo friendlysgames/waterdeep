@@ -26,7 +26,7 @@ Bones have gone missing from three mausoleums in the northern section over the p
 
 ## The Brief
 
-The crow's message is 24 words long, and a member who visits Phaulkonmere before sunset finds Melannor at the oak and can ask him why Jeryth wants this done.
+The crow's message is 24 words long. A member who visits Phaulkonmere before sunset finds Melannor at the oak and can ask him why Jeryth wants this done.
 
 ## The Ten Nights
 
@@ -60,7 +60,7 @@ Companions who are not Emerald Enclave members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-**The Doppelganger Problem** becomes available when an individual member reaches Renown 5 and 4th level. **Jeryth's Message Received** is read by **The Dreamer's Reach**, and **Brandath Crypts Visited** is read by **Vault of Dragons** (unconverted), where Ambrose recognizes the party and waves it through.
+**The Doppelganger Problem** becomes available when an individual member reaches Renown 5 and 4th level. **Jeryth's Message Received** is read by **The Dreamer's Reach**. **Brandath Crypts Visited** is read by **Vault of Dragons** (unconverted), where Ambrose recognizes the party and waves it through.
 
 ## Involved Characters
 

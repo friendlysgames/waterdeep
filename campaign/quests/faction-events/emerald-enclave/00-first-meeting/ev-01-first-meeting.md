@@ -12,7 +12,7 @@
 >
 > #### Candidates and Companions
 >
-> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. The cat delivers its message to one candidate: the first who is a druid, a ranger or a cleric with a nature domain, or the one with the highest Wisdom score if none is. A tie goes to the name that comes first alphabetically. The nature-aligned note in **The Factions Come Calling** only decides whom the cat finds first. Nobody is tested for alignment or class at the gate.
+> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. The cat delivers its message to the first candidate who is a druid, a ranger or a cleric with a nature domain. If no candidate is, it goes to the one with the highest Wisdom score. A tie goes to the name that comes first alphabetically. The nature-aligned note in **The Factions Come Calling** only decides whom the cat finds first. Nobody is tested for alignment or class at the gate.
 >
 > Every candidate in the room hears the message, and any candidate can walk to Phaulkonmere whether or not the cat chose them. Melannor makes no offer to a character who already belongs to another faction. Those characters and any companions can walk the garden and listen, and they gain nothing from the visit. If no character qualifies, the cat never comes and the Event does not occur. If every candidate declines, end the Event with no membership outcome.
 >
@@ -73,7 +73,7 @@
 >
 > > "Good, I am glad to hear it. Talisolvanar should visit when his work in the alley allows it."
 >
-> If a character jokes about the name or the visit, Melannor answers the joke literally, with "That is not humorous." and a plain account of why Tally has not come. Tally has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
+> If a character jokes about the name or the visit, Melannor answers the joke literally and says, "That is not humorous." Then he gives a plain account of why Tally has not come, since Tally has been busy with other people's doors. Melannor then turns up the path and the party follows him in.
 
 ### The Walk with Melannor
 
@@ -205,7 +205,7 @@
 
 > [!exploration]**The Leaves Go Still**
 >
-> Any character who listens while Jeryth speaks of what lies below and makes a successful **DC 13 Wisdom (Perception)** check sees every leaf on the oak stop moving for a breath on the word "below". The pause happens whether or not the character notices it. A character who fails learns nothing extra. The garden is calm again by the next sentence.
+> Any character who listens while Jeryth speaks of what lies below and makes a successful **DC 13 Wisdom (Perception)** check notices something. Every leaf on the oak stops moving for a breath on the word "below". The pause happens whether or not the character notices it. A character who fails learns nothing extra. The garden is calm again by the next sentence.
 
 ### Each Candidate's Answer
 
@@ -299,7 +299,7 @@ The meeting ends when the last candidate leaves Phaulkonmere, and no assignment 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Emerald Enclave Joined** — mark for each character who accepts the Enclave's offer, whether at the first meeting or on a later visit to the gate, and record the character's name. The member is at Renown 1 with the Springwarden rank. Readers are:
+> - **Emerald Enclave Joined** — mark for each character who accepts the Enclave's offer, and record the character's name. A later acceptance at the gate is marked the same way. The member is at Renown 1 with the Springwarden rank. Readers are:
 >   - the **Emerald Enclave** Factions Guide page;
 >   - every Emerald Enclave faction event beginning with **The Undercliff Scarecrows**, and **A Seat at Phaulkonmere**;
 >   - **The Factions Come Calling** (unconverted, and its row still writes a True or False heading);
@@ -309,7 +309,7 @@ The meeting ends when the last candidate leaves Phaulkonmere, and no assignment 
 
 > [!gamemaster]**Next Steps**
 >
-> **The Undercliff Scarecrows** becomes available when an individual Emerald Enclave member reaches Renown 1 and 2nd level, and Melannor briefs it to that member by grey pigeon. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate who deferred stays unaffiliated until they walk through the gate and accept, and any later acceptance is recorded under the same **Emerald Enclave Joined** outcome with their name.
+> **The Undercliff Scarecrows** becomes available when an individual Emerald Enclave member reaches Renown 1 and 2nd level. Melannor briefs it to that member by grey pigeon. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate who deferred stays unaffiliated until they walk through the gate and accept. Any later acceptance is recorded under the same **Emerald Enclave Joined** outcome with their name.
 >
 > This Event awards no Milestone Points.
 
