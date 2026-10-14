@@ -258,7 +258,7 @@ A candidate who returns later is recorded the same way. The gate is open when th
 > Phaulkonmere is neutral ground for Enclave members and their friends. The following rules apply to each member separately.
 >
 > - **Who may enter:** The member and up to eight companions or friends who arrive with the member. A companion who arrives alone is turned away politely at the gate.
-> - **Hours:** The main gate is open from dawn to dusk, and Melannor greets visitors there. After dusk the gate is shut and nobody answers it. A member who holds the east gate key from **A Seat at Phaulkonmere** can enter at any hour.
+> - **Hours:** The main gate is open from dawn to dusk, and Melannor greets visitors there. After dusk the gate is shut and nobody answers it. A member who holds the east gate key from **A Seat at Phaulkonmere** (**East Gate Key Held**) can enter at any hour. On the evening an Enclave mission ends, Melannor keeps the main gate open until the members return.
 > - **What it gives:** A Long Rest in the garden or the villa's outbuildings, with no fee. Melannor also provides free food and care for any animals the party brings.
 > - **What it does not give:** It is not a hiding place from the law. If a Watch officer with a warrant asks at the gate, Melannor answers truthfully, and he does not shelter a member from a lawful arrest.
 > - **Response teams:** The response team of any faction never enters Phaulkonmere and never fights inside its walls. The team may watch the street outside and follow a member who leaves.
@@ -305,7 +305,7 @@ The meeting ends when the last candidate leaves Phaulkonmere, and no assignment 
 >   - **The Factions Come Calling** (unconverted, and its row still writes a True or False heading);
 >   - **Contact Severed** in the Bregan D'aerthe set, which lists this Event as a way for a severed character to join another faction.
 >
->   Companions and characters who joined another faction are not enrolled by this outcome. Leave it unmarked if every candidate declines.
+>   Companions and characters who joined another faction are not enrolled by this outcome. This Event also reads **East Gate Key Held**, which **A Seat at Phaulkonmere** marks for a member, to decide who can enter the haven at any hour. Leave it unmarked if every candidate declines.
 
 > [!gamemaster]**Next Steps**
 >
