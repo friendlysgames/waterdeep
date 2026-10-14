@@ -2,12 +2,12 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Emerald Enclave member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not treat it as a prerequisite, and companions can help with everything except Melannor's brief and debrief.
+> Becomes available when an individual Emerald Enclave member reaches Renown 13 and 7th level, after **Kolat Towers** and after **The Fouled Channel**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not treat it as a prerequisite, and companions can help with everything except Melannor's brief and debrief.
 >
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> The fight is a Day Cost 4 encounter against the 2024 **Chuul**, with one to three chuul by party size. The **Emerald Enclave Mechanics Reference** audits the rosters, the prey rule, the anchor and the Ward ring. A party that plays after the Vault is 8th level and uses the same rosters.
+> The fight is a Day Cost 4 encounter against the 2024 **Chuul**, with one to three chuul by party size. The **Emerald Enclave Mechanics Reference** audits the rosters, the prey rule, the anchor and the Ward ring. The rosters are the same at 7th level (8th for a four-heist party that waited until after the Vault).
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points. Renown goes to the individual Emerald Enclave members who complete the assignment.
@@ -30,7 +30,7 @@ Six years ago a chuul scout from Illuun's brood came up Gerrick Thatchley's drai
 > - The anchor and Jalester Silvermane are two separate routes of Illuun's reach. Destroying the anchor does not end the link through Jalester at the Yawning Portal's well. **The Stone's Other Master** and **An Audience with the Open Lord** therefore still run as written.
 > - Nobody in this mission names Illuun. Melannor and Jeryth say that something dreams below, and a character learns the name only if the Stone named it at Full Awakening.
 > - Illuun cannot be fought here, because the anchor is a fragment and breaking it does the aboleth no harm.
-> - If **Cache Destroyed** is marked, the cistern is clean when the party passes through it. If it is not marked, the Splinter's film still lies on the eastern channel.
+> - If **Cache Destroyed** is marked, a cutting was planted and the roots route is open. If it is not marked, no cutting was planted, the Splinter's film still lies on the western channel, and the bark and the current remain.
 
 ## The Brief
 
@@ -42,7 +42,7 @@ Gerrick Thatchley opens the old seal below the southern terraces. The first ten 
 
 ## The Cisterns
 
-The tunnel runs west into the Castle Ward cistern from **The Fouled Channel**, and a passage closed with fitted stones leads down from it. The party finds the anchor's chamber by three routes, which are the bark, the current in the lower cisterns and the roots of Jeryth's cutting.
+The tunnel runs west for about half a mile into the chamber from **The Fouled Channel**, and a passage closed with fitted stones leads down from behind the dais. The party finds the anchor's chamber by three routes, which are the bark, the current in the lower cisterns and the roots of Jeryth's cutting.
 
 ## The Threshold
 

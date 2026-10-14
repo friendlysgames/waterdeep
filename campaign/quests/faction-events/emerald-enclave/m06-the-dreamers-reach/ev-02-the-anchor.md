@@ -36,7 +36,7 @@ If five characters are present, add this:
 
 > [!hazard]**Illuun's Brood**
 >
-> Use the **Chuul** stat block from the 2024 *Monster Manual*, unchanged. Count every combatant on the party's side, companions included. Melannor and Jeryth are not counted. The **Emerald Enclave Mechanics Reference** audits the rosters at a Day Cost of 4 at every party size. A party that plays after **Vault of Dragons** uses the same rosters at 8th level. The audit applies no +4 for first-turn paralysis, because the prey rule and the entry delay stop the chain.
+> Use the **Chuul** stat block from the 2024 *Monster Manual*, unchanged. Count every combatant on the party's side, companions included. Melannor and Jeryth are not counted. The **Emerald Enclave Mechanics Reference** audits the rosters at a Day Cost of 4 at every party size. The same rosters serve at 7th level and at 8th, for a four-heist party that waited until after the Vault. The audit applies no +4 for first-turn paralysis, because the prey rule and the entry delay stop the chain.
 >
 > - **Three combatants:** one Chuul in round 1. A second arrives from the side passage at the start of round 3, or at once if a character enters the side passage.
 > - **Four combatants:** two Chuul in round 1.
@@ -90,7 +90,7 @@ A character who holds **Illuun Contact** knows that the thing below is alive, an
 
 > [!exploration]**What the Anchor Is**
 >
-> Any character who studies the anchor and makes a successful **DC 13 Intelligence (Arcana)** check works out that it is a tether of living flesh and that fire or radiance would burn it away where a blade would not. On a failure, Melannor's answer at the oak and the anchor's own reaction still serve. Lesser fire or radiant damage makes the nodule hiss and the bark flare.
+> Any character who studies the anchor and makes a successful **DC 13 Intelligence (Arcana)** check works out that it is a tether of living flesh. Fire or radiance would burn it away where a blade would not. On a failure, Melannor's answer at the oak and the anchor's own reaction still serve. Lesser fire or radiant damage makes the nodule hiss and the bark flare.
 
 > [!hazard]**The Anchor**
 >
@@ -111,7 +111,7 @@ A character who holds **Illuun Contact** feels the attention that settled on tha
 
 ### Jeryth Wakes
 
-Jeryth wakes when the anchor breaks, and the party finds the garden changed when it returns. The walk home takes five hours. If the 48 hours have ended and the anchor still stood at that moment, skip to the last readaloud of this scene. Otherwise read the following aloud when the party reaches the gate:
+Jeryth wakes when the anchor breaks, and the party finds the garden changed when it returns. The way back takes about three hours, with one hour in the tunnel and two on the road between the Undercliff and Phaulkonmere. If the 48 hours have ended and the anchor still stood at that moment, skip to the last readaloud of this scene. Otherwise read the following aloud when the party reaches the gate:
 
 > [!readaloud]
 >
