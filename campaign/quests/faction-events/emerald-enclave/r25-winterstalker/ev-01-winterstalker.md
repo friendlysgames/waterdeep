@@ -301,7 +301,7 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 > **Before Tarsakh 20**, while the carnival fleet is in port:
 >
 > - **The first note:** The carnival fleet keeps the *Heartbreaker* and the *Hellraiser* at a private pier in Smugglers' Dock, and the *Eyecatcher* lies at anchor a quarter-mile out. The *Eyecatcher*'s crew never comes ashore to drink, and a skiff takes their supplies out at dusk. On parade days the pier is nearly empty. The fleet sails at dawn on Tarsakh 20.
-> - **Later notes:** Nothing new at the pier. The stores are still going aboard, and the sailing day stands.
+> - **Later notes:** Nothing is new at the pier, the stores are still going aboard, and the sailing day stands.
 >
 > **From Tarsakh 20**, once the fleet has sailed, one note in each tenday, in this order. After the fourth, the notes begin again from the first:
 >
@@ -314,7 +314,7 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 >
 > Sarna names no owner, and Melannor knows no more than the notes say. If the Faire's departure has been moved up to Tarsakh 15, use that date in place of Tarsakh 20 throughout this Event. The fleet sails on that date whatever the party did. The notes map to the villain factions as follows:
 >
-> - **The carnival fleet:** Jarlaxle's Bregan D'aerthe sails it, and its crew are drow in human form. Sarna takes them for odd sailors.
+> - **The carnival fleet:** Jarlaxle's Bregan D'aerthe sails it, and its crew are drow in human form, whom Sarna takes for odd sailors.
 > - **Pier 17:** the barges belong to Xanathar's Guild and carry spoil out of its cargo tunnel under the south quay. The two hands who left are Garrit Moll and Tobiah Fenn, from **The Grells in the Dock Ward**.
 > - **The trader:** it belongs to Manshoon's Zhentarim and carries reagents for the Splinter's thrall-conditioning. The wagon goes to Kolat Towers in the Trades Ward.
 > - **The Sea Ward barge:** it carries the Cassalanter household's private supplies to the villa's jetty. Sarna suspects only that a rich house is hiding something, and nobody in this Event knows more.
@@ -324,7 +324,7 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 
 > [!social]**The Fisher on the South Quay**
 >
-> Sarna Dath (Neutral, Waterdhavian Human, she/her) :: a south quay fisher in her fifties, who keeps a blue-and-white boat and a sharp eye on every hull that passes it.
+> Sarna Dath (Neutral, Waterdhavian Human, she/her) :: a south quay fisher in her fifties, who keeps a blue-and-white boat and watches every hull that passes.
 >
 > Sarna is Friendly once the member has said who sent them, and busy either way. She guts fish while she talks and does not stop for a question. She swears mildly and often. She answers what she saw and refuses to guess at the rest.
 >
@@ -337,11 +337,11 @@ The slip carries the first note from the lists under **Sarna's Harbor Notes** th
 
 > [!qna]**Whose ships are they?**
 >
-> > "Damned if I know. I see hulls, crates and crews, and I never see the lease. Find that out yourselves, and be careful doing it."
+> > "Damned if I know who owns them. I see hulls, crates and crews, and I never see the lease. Find that out yourselves, and be careful doing it."
 
 > [!qna]**Is there anything you left out of the note?**
 >
-> > "Not a thing. If I'd seen more, I'd have written it down. Come back when there's a new note, and I'll tell you what I can."
+> > "Not a thing that I saw. If I'd seen more, I'd have written it down. Come back when there's a new note, and I'll tell you what I can."
 
 ### Leaving Phaulkonmere
 
@@ -351,7 +351,7 @@ Melannor walks the member the last few steps to the threshold. Read or paraphras
 >
 > The gravel is loud under your boots, and the pigeons on the wall turn their heads as you pass. Melannor stops at the threshold and faces you with his hands clasped in front of him.
 >
-> > "The soil is uneasy. I will be glad to walk beside you when you call me."
+> > "The soil is uneasy, and I would ask you to take care. I will be glad to walk beside you when you call me."
 >
 > He turns back toward the oak, and the pigeons on the wall settle.
 
@@ -361,7 +361,7 @@ The rank event awards no Renown. Each Winterstalker earns further Renown from th
 
 ### Aftermath
 
-The member can tell companions what Melannor and Jeryth said and what Sarna wrote. Melannor's service, the 8th-level casting, the advance report and the harbor notes stay individual benefits, and Melannor, Jeryth and Sarna turn away a companion who asks in the member's name.
+The member can tell companions what Melannor and Jeryth said and what Sarna wrote. Melannor's service, the 8th-level casting, the advance report and the harbor notes stay individual benefits. Melannor, Jeryth and Sarna turn away a companion who asks in the member's name.
 
 ### Concluding the Event
 
@@ -369,7 +369,7 @@ The Event concludes when the member has heard all four arrangements, has read Sa
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Winterstalker Reached** — mark with the recipient's name when Melannor names the rank at Phaulkonmere; read by **Master of the Wild**, which checks it before naming the next rank. Track separately for each member the quest of the last Melannor mission and the quest of the last sprig casting, which is shared with **Autumnreaver**. Also track the day of the last advance report and the day and place in the order of Sarna's last note.
+> - **Winterstalker Reached** — mark with the recipient's name when Melannor names the rank at Phaulkonmere. It is read by **Master of the Wild**, which checks it before naming the next rank. Track separately for each member the quest of the last Melannor mission and the quest of the last sprig casting, which is shared with **Autumnreaver**. Also track the day of the last advance report and the day and place in the order of Sarna's last note.
 >
 > This Event also reads **Autumnreaver Reached** (the hold) and **East Gate Key Held** (the gate hours).
 
@@ -379,7 +379,7 @@ The Event concludes when the member has heard all four arrangements, has read Sa
 
 ## Overview
 
-Melannor Fellbranch names an Emerald Enclave member a Winterstalker and explains the rank's four benefits: his own company in the field, a spell of the eighth level from Jeryth Phaulkon, advance reports on animals and plants, and harbor notes from a south quay fisher.
+Melannor Fellbranch names an Emerald Enclave member a Winterstalker and explains the rank's four benefits. They are Melannor's company in the field, an eighth-level spell from Jeryth, reports on animals and plants, and harbor notes from a south quay fisher.
 
 ## Summary
 
