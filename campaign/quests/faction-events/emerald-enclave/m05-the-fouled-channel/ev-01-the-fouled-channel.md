@@ -59,7 +59,7 @@ The walk to Phaulkonmere takes about two hours. Companions wait in the outer gar
 > - The three ways down to the cisterns.
 > - The cutting he carries, and when to plant it.
 >
-> He will not discuss the Stone of Golorr, the vault, or the house one block north of the garden, and he turns each aside with "That is not mine to speak of."
+> He will not discuss the Stone of Golorr, the vault, or the house one block north of the garden. He turns each of these aside with "That is not mine to speak of."
 
 If **Fouled Channel Requested** is marked for a member, read or paraphrase the following:
 
@@ -67,27 +67,27 @@ If **Fouled Channel Requested** is marked for a member, read or paraphrase the f
 >
 > Melannor folds his hands in front of him and looks toward the oak.
 >
-> > "Jeryth asked for this on the day the fish came ashore on the south quay. She asks for very little, so I sent for you first."
+> > "Jeryth asked for this on the day the fish came ashore on the south quay. She asks for very little, so I sent for you before anyone else."
 
 If **Mirsa Rescued** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Melannor's expression does not change, but he glances toward the gate.
+> Melannor glances toward the gate with his hands folded.
 >
-> > "Mirsa the seamstress came to the gate yesterday to thank Jeryth. She sat among the roses for an hour, and Jeryth warmed the air for her."
+> > "Mirsa the seamstress came to the gate yesterday to thank Jeryth for her help. She sat among the roses for an hour, and Jeryth warmed the air around her."
 
 > [!qna]**What is killing the beds?**
 >
-> > "Poison in the water, carried through the ground from west to east. Jeryth feels it in the roots, and I can see it in the soil. It is a made thing and not a natural one."
+> > "There is poison in the water, and it is carried through the ground from west to east. Jeryth feels it in the roots, and I can see it in the soil. Someone made it, because nothing in nature smells like that."
 
 > [!qna]**Where do we begin?**
 >
-> > "There are three ways down to the cisterns under the Castle Ward. Gerrick Thatchley's drain is one. The direction of the dead edge is another, and the Summerstrider network may know a third."
+> > "There are three ways down to the cisterns under the Castle Ward. Gerrick Thatchley's old drain is one of them. The direction of the dead edge is another, and the Summerstrider network may know a third."
 
 > [!qna]**What is in the bundle?**
 >
-> > "A cutting of the sage beside the oak. Jeryth can work through it, but only once the source is gone. Carry it dry, and do not set it in the water before then."
+> > "It is a cutting of the sage beside the oak. Jeryth can work through it, but only once the source of the poison is gone. Carry it dry, and do not set it in the water before then."
 
 > [!qna]**Who did this?**
 >
