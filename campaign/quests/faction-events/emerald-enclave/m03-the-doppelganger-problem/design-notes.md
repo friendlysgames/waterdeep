@@ -8,15 +8,15 @@ WDH has one line for this mission: convince Bonnie with a DC 15 Charisma (Intimi
 
 The mission is no longer one check, because the party reaches Bonnie by three routes, finds Edric by three routes and can settle her future in several ways. Bonnie talks in the back room after closing. Her profile never lets her discuss what she is in the taproom, and the Harper and Force Grey pages already use Durnan's back room.
 
-The user ruled that the Enclave makes the crew leave, Bonnie included, with one exception: if **Bonnie Harper Operative** is marked, the party can persuade Melannor that she is no threat. That reprieve is DC 15 Charisma (Persuasion), with Advantage if a Harper member vouches. **Doppelgangers Departed** and **Bonnie Departed** are separate outcomes because the other four go either way, and the two-tenday grace period lets **The Doppelganger Auditions** run and mark **Bonnie Harper Operative** before she leaves.
+The user ruled that the Enclave makes the crew leave, Bonnie included, with one exception: if **Bonnie Harper Operative** is marked, the party can persuade Melannor that she is no threat. That reprieve is DC 15 Charisma (Persuasion), with Advantage if a Harper member vouches. **Doppelgangers Departed** and **Bonnie Departed** are separate outcomes because the other four go either way. The two-tenday grace period lets **The Doppelganger Auditions** run and mark **Bonnie Harper Operative** before she leaves.
 
 Kelso Fiddlewick is a middleman who buys from Edric and sells to whoever pays, and he never names a customer, which matches **The Missing Snobeedle**. The Splinter is his customer in GM text only, and **Traitor Identified** keeps its name because that mission reads it.
 
 ## Departures from the Source
 
-Bonnie wears her Tethyrian barmaid form and has been in Waterdeep over a year, as WDH has it, where Appendix C gives a tiefling and eight months. The falcon's message is 21 words, under the 25-word *Animal Messenger* limit. The restored draft's line about Melannor finding the dove "touching" is cut, since he does not remark on feeling, and Jeryth's "peacefully" appears only as his report that she said it three times. The dove is tied to the end of the grace period, so it confirms either a departure or a reprieve.
+Bonnie wears her Tethyrian barmaid form and has been in Waterdeep over a year, as WDH has it, where Appendix C gives a tiefling and eight months. The falcon's message is 21 words, under the 25-word *Animal Messenger* limit. The restored draft's line about Melannor finding the dove "touching" is cut, since he does not remark on feeling. Jeryth's "peacefully" appears only as his report that she said it three times. The dove is tied to the end of the grace period, so it confirms either a departure or a reprieve.
 
-Steel drawn on Bonnie ends the mission, because the whole crew together is Impossible at every party size and the text gives her a flight instead of a fight.
+Steel drawn on Bonnie ends the mission, because the whole crew together is Impossible at every party size. The text gives her a flight instead of a fight.
 
 ## Invented Names and Open Items
 

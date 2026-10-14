@@ -15,7 +15,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - A Splinter arcanist animated all three scarecrows from a chalk circle about a tenday ago, wrote that all three woke at once, and left before he could reorient them. Nothing controls the scarecrows now.
+> - A Splinter arcanist animated all three scarecrows from a chalk circle about a tenday ago. He wrote that all three woke at once and left before he could reorient them, so nothing controls the scarecrows now.
 > - The journal page is in the hand of Imre Daskov, the arcanist in **The Fouled Channel**, and nobody in this Event can learn his name.
 > - Melannor calls the arcanist's cell "the Splinter" and never names its master, and nobody in this Event says Manshoon.
 > - Gerrick's drain was sealed six years ago after a chuul scout from Illuun's brood came up through it, and his neighbours drove it back with fire. Gerrick never learned what it was, and nobody in this Event can tell him.
@@ -86,7 +86,7 @@ If a member asks this, mark the party as having learned the drain from Melannor,
 
 ### The Undercliff
 
-The farm terraces of the Undercliff lie a morning's walk east of the city, past the walls, and the party reaches them in the afternoon of the first day. Three territories lie inside them: the northern fields hold the Sackcloth One, the central orchards hold the Pumpkin Head, and the southern terraces hold the Blanket. Read the following aloud:
+The farm terraces of the Undercliff lie a morning's walk east of the city, past the walls, and the party reaches them in the afternoon of the first day. Three territories lie inside the terraces. The northern fields hold the Sackcloth One, the central orchards hold the Pumpkin Head, and the southern terraces hold the Blanket. Read the following aloud:
 
 > [!readaloud]
 >
