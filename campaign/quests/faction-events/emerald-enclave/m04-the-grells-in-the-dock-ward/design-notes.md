@@ -18,15 +18,14 @@ The Appendix C DCs of 18 and 18 are now 14 and 14, and the source's "old woman" 
 
 The following are new and have no Notable Figures pages:
 
-- Wenna Droit, the harbor master's aide.
-- Garrit Moll and Tobiah Fenn, the two dockhands.
+- Hesta Droit, the harbor master's aide.
+- Garrit Moll and Tobiah Ashby, the two dockhands.
 - The night porter and the net-mender, the first two victims.
 - The closed salt-store, the quay tavern and the hired cart.
 - The grey-coated Guild agent, and the boats and hatch under Pier 17 that **Xanathar's Lair** needs for a casing aid at X4.
 
 Items for the out-of-scope log:
 
-- **Autumnreaver** describes **Grell Escaped** as one grell in area 5 of Level 1. A withdrawal here can leave two alive, and the Aftermath says "both if the party withdrew".
 - The Mechanics Reference says both that a fleeing grell drops its prey and that a grell does not flee while holding a Paralyzed creature. The text follows the first rule.
 - The Factions Guide row for this mission still says the Guild is "releasing monsters as Watch distractions".
 - **Xanathar's Lair** (unconverted) must read **Pier 17 Investigated** as a casing aid at X4 and keep the boats' hatch under the pier consistent with it.
