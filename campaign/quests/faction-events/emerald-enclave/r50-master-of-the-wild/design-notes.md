@@ -23,6 +23,5 @@ Invented: the six names and species, Sorrel's age and her twenty years in the pa
 A member whose Renown falls below 50 keeps the rank and the charm, and the six, the compact and the marks pause. The Level 11 Power figures (Druid 19, Scout 7) come from the Tier 3 column of the mechanics reference. The charm texts are unverified in the downloaded data and follow the reference.
 
 For the out-of-scope log:
-- `campaign/guides/factions/04-emerald-enclave.md:57` gives the compact "once per quest" and has no rule for Undermountain.
 - `sources/Appendix_B_-_Player_Factions.md:377` gives a *charm of heroism* at Master of the Wild, where the Factions Guide and this Event give a *charm of vitality*.
 - `campaign/quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md:156` still uses **Undermountain Commission Accepted**, a name this Event no longer writes.

@@ -30,6 +30,4 @@ Invented names are Officer Jonn Bannock and Officer Ysa Terrow of the City Watch
 
 For the out-of-scope log:
 
-- `campaign/guides/factions/04-emerald-enclave.md:64` says the mission is worth +2 and treats the necromancer as real.
-- `campaign/setting/notable-figures/independents-allies/17-sir-ambrose-everdawn.md:6` lists a Paladin stat block, and `voices/independents-allies.md:296` calls him a paladin, although he is a Knight.
 - `campaign/structure/arc-j-vault-of-dragons.md:83` should read **Brandath Crypts Visited**, and :47 needs an "if not run" default for **Jeryth's Message Received**.

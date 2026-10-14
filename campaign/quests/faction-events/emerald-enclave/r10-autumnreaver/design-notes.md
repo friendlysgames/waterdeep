@@ -29,6 +29,4 @@ Invented in this draft:
 The city's cellars and sewers count as the surface for the sprig, because the mechanics reference says only "surface".
 
 For the out-of-scope log:
-- `campaign/guides/factions/04-emerald-enclave.md:55` still says "any druid spell of 5th level or lower" and does not say the Giant Eagle is a Celestial.
-- `campaign/guides/factions/04-emerald-enclave.md:29` describes an herb sprig for **Xanathar's Lair**, which is a different item from this sprig and has no delivering event.
 - Replacement "once" is read as once in the campaign, not once per quest. The brief could be read either way.

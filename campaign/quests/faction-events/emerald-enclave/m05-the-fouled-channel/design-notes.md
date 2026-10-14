@@ -24,6 +24,5 @@ Invented:
 - The dais and the sluice in the cistern chamber.
 
 Outside this folder, for the out-of-scope log:
-- `campaign/guides/factions/04-emerald-enclave.md:67` still says "Manshoon Splinter contamination".
 - The Trades Ward row in the **Summerstrider** table is gated on **Manshoon Named**. The M5 report here is separate and names nothing.
-- **The Dreamer's Reach** must use Gerrick's padlock, the spare key and the sluice thread.- Melannor's and Jeryth's Notable Figures pages still carry `[GM]` zones.
+- **The Dreamer's Reach** must use Gerrick's padlock, the spare key and the sluice thread.

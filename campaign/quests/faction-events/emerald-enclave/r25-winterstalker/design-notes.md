@@ -25,7 +25,6 @@ Invented in this draft:
 - The four ship notes, with their west quay, six grey coats, Sea Ward barge and black skiff.
 
 For the out-of-scope log:
-- `campaign/guides/factions/04-emerald-enclave.md:56`, `players-guide/faction-affiliations.md:80` and `gm-guide/player-factions-overview.md:85` apply Animal Handling to Plants and Elementals and promise harbor notes "automatically".
 - Summerstrider's watchers are unnamed fisherfolk who do not know the Enclave. This event makes Sarna the exception.
 - The Dreamer's Reach has Jeryth say "I don't need notice anymore." The notices here stand until the Vault conversion says otherwise.
 - The pier note repeats Pier 17 from The Grells in the Dock Ward. **Xanathar's Lair**, **Cassalanter Villa**, **Kolat Towers** and **Sea Maidens Faire** (all unconverted) can absorb the four ship leads.
