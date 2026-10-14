@@ -68,8 +68,8 @@ Companions who are not Emerald Enclave members gain no Renown, and each bonus ca
 - **Melannor Fellbranch** (Emerald Enclave): briefs the members in person, holds the warehouse door and hears the report.
 - **Jeryth Phaulkon** (Emerald Enclave): speaks from the oldest oak and gives the *charm of heroism*.
 - **Mirsa** (Independent): an elderly Dock Ward seamstress held in the nest, who overheard the payment at Pier 17.
-- **Wenna Droit** (City of Waterdeep): the harbor master's aide, who keeps a log of complaints about the smell.
-- **Garrit Moll** and **Tobiah Fenn** (Independent): the two dockhands paid to leave Pier 17.
+- **Hesta Droit** (City of Waterdeep): the harbor master's aide, who keeps a log of complaints about the smell.
+- **Garrit Moll** and **Tobiah Ashby** (Independent): the two dockhands paid to leave Pier 17.
 - **The well-dressed man** (Xanathar's Guild): the agent who paid them, never named.
 - **The Guild lookouts** (Xanathar's Guild): two watchers from Pier 17 who join the fight at five characters.
 

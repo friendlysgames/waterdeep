@@ -78,7 +78,7 @@ The party can enter by the street door at the west end or by the open loading le
 > A captured lookout says only that he was paid to watch the doors and send word.
 >
 > #### Fleeing and Barring the Door
-> A grell at 27 hit points or fewer drops anything it holds, flies and dashes for the open leaf, and goes out over the harbor. It does not return to this fight, and **Grell Escaped** is marked.
+> A grell at 27 hit points or fewer drops anything it holds, flies and dashes for the open leaf, and goes out over the harbor. It does not return to this fight, and **Grell Escaped** is marked. Both grells can flee, either one at 27 hit points or fewer or together when the party withdraws, and **Grell Escaped** covers one grell or both.
 >
 > A character who closes the open leaf (Utilize, DC 12 Strength (Athletics)) removes the exit. The leaf must be closed before the fight, or before any grell reaches 27 hit points. A cornered grell fights to 0 hit points, and this is the only way to destroy both, since grells do not surrender.
 >
@@ -206,7 +206,7 @@ Mirsa wakes at dusk and asks for the people who brought her out. Companions may 
 
 > [!qna]**Who were the dockhands?**
 >
-> > "I know them both by sight, Garrit Moll and Tobiah Fenn. They drink at the tavern on the quay most nights. They took the money and went, and neither one looked back at me."
+> > "I know them both by sight, Garrit Moll and Tobiah Ashby. They drink at the tavern on the quay most nights. They took the money and went, and neither one looked back at me."
 
 > [!qna]**What did the other man look like?**
 >
@@ -218,7 +218,7 @@ Mirsa wakes at dusk and asks for the people who brought her out. Companions may 
 
 > [!exploration]**If Mirsa Died**
 >
-> Her account is lost, but Garrit Moll and Tobiah Fenn can give the same facts. Any character who finds them at the quay tavern and makes a successful DC 13 Charisma (Persuasion or Intimidation) check hears their story. It covers the payment, the grey-coated man and the boats under the pier, and putting 10 gp on the table gives Advantage on the check.
+> Her account is lost, but Garrit Moll and Tobiah Ashby can give the same facts. Any character who finds them at the quay tavern and makes a successful DC 13 Charisma (Persuasion or Intimidation) check hears their story. It covers the payment, the grey-coated man and the boats under the pier, and putting 10 gp on the table gives Advantage on the check.
 >
 > - **On a failure:** The dockhands say only that they were paid to take the night off. The character can try again the next evening.
 > - **The Watch:** Neither man will repeat his story to the Watch, so the third Renown bonus is out of reach.

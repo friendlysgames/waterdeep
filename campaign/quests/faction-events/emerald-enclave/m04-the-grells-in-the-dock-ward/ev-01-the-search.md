@@ -72,10 +72,10 @@ The south quay is a half-hour walk from Trollskull Manor. Three leads each name 
 
 > [!exploration]**The Pier and the Aide**
 >
-> Any character who questions the hands on Pier 17 and makes a successful DC 14 Intelligence (Investigation) check learns that all three people vanished near the south quay. Wenna Droit, the harbor master's aide, has logged a smell of lightning from a closed salt-store at the quay's end for three days. She adds that the building has a cargo-hoist platform above its stacks.
+> Any character who questions the hands on Pier 17 and makes a successful DC 14 Intelligence (Investigation) check learns that all three people vanished near the south quay. Hesta Droit, the harbor master's aide, has logged a smell of lightning from a closed salt-store at the quay's end for three days. She adds that the building has a cargo-hoist platform above its stacks.
 >
-> - **Character tells Wenna the Watch has ignored her log:** The character has Advantage on this check, because Wenna has wanted someone to say so.
-> - **On a failure:** Wenna is busy with a ship's clearance, and the pier hands will not talk to strangers about it. The character can try again after an hour at the pier, or leave the building to the other two leads.
+> - **Character tells Hesta the Watch has ignored her log:** The character has Advantage on this check, because Hesta has wanted someone to say so.
+> - **On a failure:** Hesta is busy with a ship's clearance, and the pier hands will not talk to strangers about it. The character can try again after an hour at the pier, or leave the building to the other two leads.
 
 > [!exploration]**The Smell and the Cats**
 >
@@ -88,7 +88,7 @@ The south quay is a half-hour walk from Trollskull Manor. Three leads each name 
 >
 > Melannor drew the roofline of the south quay from a hired skiff the night before last, and he stayed on the water. The sketch shows four closed buildings, and only one has a gantry with a chain-hoist hanging from it. A character who walks the quay with the sketch matches it to the salt-store in about an hour and needs no check.
 >
-> A member can instead ask the Summerstrider network for the Dock Ward. The runner returns within the hour with the fixed entry from **Summerstrider** and one added line, which says the salt-store at the end of the south quay has had no cart at its door in a tenday.
+> A member can instead ask for the Dock Ward report, either by asking Melannor at the gate or by leaving a note in the gate box. The answer comes back by noon the next day, with the fixed entry from **Summerstrider** and one added line, which says the salt-store at the end of the south quay has had no cart at its door in a tenday.
 
 If Tarsakh 20 has passed, the fixed entry also speaks of digging beneath the harbor, and Melannor says that matches what his animals reported. Before then the entry concerns another matter, and he says so.
 
