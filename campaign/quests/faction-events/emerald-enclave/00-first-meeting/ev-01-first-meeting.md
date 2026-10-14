@@ -146,13 +146,13 @@
 >
 > Melannor does not discuss the Stone of Golorr or what the vault holds. If a player names Manshoon, Melannor neither confirms nor denies anything, because he has no knowledge to confirm. He answers:
 >
-> > "I do not know that name from anything the animals have told me. Shall we walk on?"
+> > "I do not know that name from anything the animals have told me in all this time. Shall we walk on together?"
 >
-> If a player asks about the house one block north, Melannor answers "I do not discuss my neighbours." and walks on without looking in that direction. Nobody in this Event says what the building is.
+> If a player asks about the house one block north, Melannor answers "I do not discuss my neighbours." and walks on without looking in that direction, and nobody in this Event says what the building is.
 
 > [!exploration]**His Sentences Trail Off**
 >
-> Any character who watches Melannor while he speaks of the soil and makes a successful **DC 14 Wisdom (Insight)** check notices that he is troubled. His sentences begin to trail off whenever the Castle Ward comes up, and he does not know why. A character who fails hears only a calm man describing a garden. Nothing else depends on the result.
+> Any character who watches Melannor while he speaks of the soil and makes a successful **DC 14 Wisdom (Insight)** check notices that he is troubled. His sentences begin to trail off whenever the Castle Ward comes up, and he does not know why. A character who fails hears only a calm man describing a garden, and nothing else depends on the result.
 
 ### Jeryth's Voice
 
@@ -223,7 +223,7 @@ If a candidate accepts, read or paraphrase the following, using their name:
 >
 > Melannor inclines his head and offers his hand.
 >
-> > "Welcome to the Emerald Enclave, Name. The gate is open to you from now on."
+> > "Welcome to the Emerald Enclave, Name, and thank you for your answer. The gate will be open to you from now on."
 
 If a candidate declines or asks for more time, read or paraphrase the following:
 
@@ -231,7 +231,7 @@ If a candidate declines or asks for more time, read or paraphrase the following:
 >
 > Melannor listens to your answer and nods once, and the leaves above you stay quiet.
 >
-> > "I understand. The gate will stay open, and you are welcome to walk in the garden whenever you wish. If you change your mind, come and tell me."
+> > "I understand your answer. The gate will stay open, and you are welcome to walk in the garden whenever you wish. If you change your mind, come and tell me so."
 
 A candidate who returns later is recorded the same way. The gate is open when they arrive, Melannor repeats the offer in a few sentences, and Jeryth speaks once, so the charm and the haven are given as above.
 
@@ -247,9 +247,9 @@ A candidate who returns later is recorded the same way. The gate is open when th
 >
 > Jeryth gives each accepting member one *charm of restoration*. The member feels it as the warmth and three pulses described above, and no object appears. The charm has 3 charges.
 >
-> - **Using it:** The member takes a Magic action and spends charges to cast a spell on a creature the member touches. *Lesser Restoration* costs 1 charge, and *Greater Restoration* costs 2 charges. The charm provides any material component, so Jeryth's gift covers the diamond dust.
-> - **Limit:** The charges never refresh. When the last charge is spent, the charm vanishes, and Jeryth does not give a second one.
-> - **Who:** Only the member can use the charm. It cannot be lent or taken, and a companion can receive the spell but cannot cast it.
+> - **Using it:** The member takes a Magic action and spends charges to cast a spell on a creature the member touches. *Lesser Restoration* costs 1 charge, and *Greater Restoration* costs 2 charges. The charm needs no material components, so *Greater Restoration* needs no diamond dust.
+> - **Limit:** The charges never refresh, and when the last charge is spent the charm vanishes and Jeryth does not give a second one.
+> - **Who:** Only the member can use the charm, which cannot be lent or taken, and a companion can receive the spell but cannot cast it.
 > - **Loss rule:** A member whose Renown later falls below 1 keeps the charm and any unspent charges.
 > - **Not a party item:** Each member holds a separate charm with its own 3 charges, and a member who joins later receives a new one.
 
