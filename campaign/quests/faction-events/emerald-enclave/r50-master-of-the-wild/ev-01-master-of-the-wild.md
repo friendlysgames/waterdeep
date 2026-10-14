@@ -38,7 +38,7 @@ Jeryth sent the animals herself, so no *Animal Messenger* is cast and no bariton
 > - The *charm of vitality* is Jeryth's third gift after the *charm of restoration* and the *charm of heroism*. She goes on to say nothing about it afterward.
 > - The commission is a real request. Melannor accepts a refusal, and declining costs the member nothing.
 > - The Enclave has no reach below the first level. Everything it knows of the thing below comes up through the water, and Melannor cannot say where it lies beyond "below the Castle Ward".
-> - The thing below is Illuun, an aboleth in the Grotto of Madness on Level 4. Jeryth learned the name when the anchor broke in **The Dreamer's Reach**, and she gives it only to a member for whom **Anchor Destroyed** or **Illuun Contact** is marked.
+> - The thing below is Illuun, an aboleth in the Grotto of Madness on Level 4. Jeryth learned the name when the anchor broke in **The Dreamer's Reach**. She gives it only to a member for whom **Anchor Destroyed** or **Illuun Contact** is marked.
 > - If **The Dreamer's Reach** has run and **Anchor Destroyed** is not marked, Jeryth is still in the roots. She wakes a tenday after the anchor falls, so hold this Event until she does.
 
 ### The Clearing
@@ -79,11 +79,11 @@ Phaulkonmere stands in the Southern Ward. Companions walk in with the member and
 
 > [!qna]**Why did the animals not speak?**
 >
-> > "Jeryth sent them, and she does not use words where a sign will serve. I believe she wanted you to come without being told why."
+> > "Jeryth sent them herself, and she does not use words where a sign will serve. I believe she wanted you to come to the garden without being told why."
 
 > [!qna]**What happens if my Renown falls?**
 >
-> > "The rank stays with you, because you earned it. The six, the compact and the marks wait until your Renown is restored. A charm already given stays with whoever holds it."
+> > "The rank stays with you, because you earned it and nobody can take that away. The six, the compact and the marks wait until your Renown is restored. A charm already given stays with whoever holds it."
 
 ### Jeryth Names the Rank
 
@@ -182,11 +182,11 @@ Read the following aloud:
 >
 > The six come forward in a loose line and stop an arm's length from you. A woman with grey in her braid leans on a staff of pale ash, and a tall wood elf beside her carries a longbow across her back. The rest are a half-elf woman in a tar-stained coat and a stout man with seed packets at his belt. A lean man with a quiver and a broad man in an oilskin coat stand at the end of the line.
 >
-> > "Sorrel Hartwick leads them. Beside her are Naerith Evenmoor, Ealdra Hollin, Tavish Merrow, Rolan Dace and Hob Lathen. Each of them has worked for the Enclave in this city for years."
+> > "Sorrel Hartwick leads them, and beside her are Naerith Evenmoor, Ealdra Hollin, Tavish Merrow, Rolan Dace and Hob Lathen. Each of them has worked for the Enclave in this city for many years."
 
 > [!social]**The Warden of the Parks**
 >
-> Sorrel Hartwick (Neutral Good, Human, she/her) :: a druid in her fifties who has tended Waterdeep's parks and the margins of the City of the Dead for twenty years and leads the six.
+> Sorrel Hartwick (Neutral Good, Human, she/her) :: a druid in her fifties who leads the six. She has tended Waterdeep's parks and the margins of the City of the Dead for twenty years.
 >
 > Sorrel is Friendly and practical. She speaks in plain sentences with contractions, and she swears once in a while when something annoys her. She treats the member as the one in command and says so before anyone asks.
 >
@@ -200,7 +200,7 @@ Read the following aloud:
 
 > [!qna]**What can the six do?**
 >
-> > "Ealdra, Tavish and I are druids, so we hold a corridor with roots and thunder. Rolan, Hob and Naerith are rangers, so they shoot, scout and find the road. Not all six go into every fight."
+> > "Ealdra, Tavish and I are druids, so we hold a corridor with roots and thunder. Rolan, Hob and Naerith are rangers, so they shoot, scout and find the road, though not all six go into every fight."
 
 > [!qna]**Who goes into the fight?**
 >
@@ -277,7 +277,7 @@ Read the following aloud:
 >
 > - **Who:** any Beast of CR 2 or lower that the member can instruct. A Celestial, an Aberration or a Monstrosity is not a Beast, so the compact does not reach the Giant Eagle.
 > - **The instruction:** the member speaks to the beast with *Speak with Animals*, or makes the task clear with a **DC 11 Wisdom (Animal Handling)** check. A failed check can be tried again after 1 minute.
-> - **The task:** one task the beast can finish within 8 hours, such as guiding the party along a route, scouting a corridor, guarding a door or carrying an item to a place on its own level.
+> - **The task:** one task the beast can finish within 8 hours of beginning it. Examples are guiding the party along a route, scouting a corridor, guarding a door or carrying an item to a place on its own level.
 > - **Danger:** the beast refuses a task that sends it against a creature of higher CR than its own. When the task is a fight, it fights until it falls to half its Hit Points and then flees.
 > - **Limit:** one task per member in each quest, counted as the sprig is counted, and one more on each level of Undermountain the member enters. The task is spent when the beast begins it.
 > - **Undermountain:** the beast never leaves its own level, so it cannot be asked to cross to another.
@@ -359,7 +359,7 @@ Melannor opens the east gate for the member and the companions. Read the followi
 
 > [!readaloud]
 >
-> The six are already walking back toward the clearing in twos, and the pigeon lifts from the wall and crosses the roofs. The owl follows it, and the cat goes up the street toward the north. Behind you the leaves of the oldest oak turn over together, and the voice speaks once more from the warm air at your back.
+> The six walk back toward the clearing in twos, and the pigeon lifts from the wall and crosses the roofs. The owl follows it, and the cat goes up the street toward the north. Behind you the leaves of the oldest oak turn over together, and the voice speaks once more from the warm air at your back.
 >
 > > "Rest here."
 
@@ -369,8 +369,8 @@ Melannor opens the east gate for the member and the companions. Read the followi
 >
 > These are one-line facts. *Dungeon of the Mad Mage* has no Emerald Enclave content, so use these and no others.
 >
-> - Illuun holds the Grotto of Madness on Level 4 (area 16) with three chuul, and an intangible projection of it meets intruders in area 15 and urges them to leave. A character who holds **Illuun Contact** is sensed on approach to Level 4.
-> - Halaster left his mark on the grotto, because he turned an otyugh to stone on the island in area 16a and lured the kuo-toa to worship it as Bulba-Slopp. The Enclave knows nothing of this, and Halaster causes none of the surges.
+> - Illuun holds the Grotto of Madness on Level 4 (area 16) with three chuul. An intangible projection of it meets intruders in area 15 and urges them to leave. A character who holds **Illuun Contact** is sensed on approach to Level 4.
+> - Halaster left his mark on the grotto, where he turned an otyugh to stone on the island in area 16a. He lured the kuo-toa to worship it as Bulba-Slopp, though the Enclave knows nothing of this. Halaster causes none of the surges the Enclave has felt.
 > - A svirfneblin druid left Zurkhwood Grove (Level 4, area 13) a few months ago, after casting *awaken* on seven zurkhwoods. He went down the River of the Depths, and the Enclave has never met him.
 > - Wyllow, a moon elf archdruid, rules Wyllowwood on Level 5 (tower in area 6), has forgotten the surface and turns violent when her forest is threatened. The Enclave has no contact with her.
 > - Spells cannot reshape Undermountain's walls, floors or ceilings, so *Stone Shape*, *Wall of Stone* and *Earthquake* leave the dungeon unchanged. *Control Weather* needs the outdoors, and Jeryth's sprig works on the surface only.
@@ -378,13 +378,13 @@ Melannor opens the east gate for the member and the companions. Read the followi
 
 ### Renown Opportunities
 
-The rank event awards no Renown, gold or Milestone Points. The Master of the Wild has no higher rank to reach, and further Renown comes from the ordinary rewards listed on the Emerald Enclave page of the Factions Guide.
+The rank event awards no Renown, gold or Milestone Points, and the Master of the Wild has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Emerald Enclave page of the Factions Guide.
 
 ### Aftermath
 
 The member can tell companions what they were offered. The six, the compact, the commission and the marks stay with the member, and Sorrel and Melannor turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the six, the compact and the marks are suspended until the Renown returns.
 
-Record separately for each member the date the six were called, the quest or level of each compact task, the date of the last courier and whether the commission was accepted. Record by name which characters received a charm.
+Record separately for each member the date the six were called and the quest or level of each compact task. Also record the date of the last courier and whether the commission was accepted, and note by name which characters received a charm.
 
 ### Concluding the Event
 
@@ -392,10 +392,10 @@ The Event concludes when the member has been named, has heard how the six and th
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Master of the Wild Reached** — mark with the recipient's name when Jeryth names the rank in the clearing; read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Emerald Enclave standing.
-> - **Illuun Watch Accepted** — mark with the member's name when they accept Melannor's request; read by **Dungeon of the Mad Mage** (unconverted), where the three marks and the Enclave's interest in Level 4 apply.
+> - **Master of the Wild Reached** — mark with the recipient's name when Jeryth names the rank in the clearing. Read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Emerald Enclave standing.
+> - **Illuun Watch Accepted** — mark with the member's name when they accept Melannor's request. Read by **Dungeon of the Mad Mage** (unconverted), where the three marks and the Enclave's interest in Level 4 apply.
 >
-> This Event also reads **Winterstalker Reached** (the hold), **Anchor Destroyed** and **Illuun Contact** (what Jeryth says and whether Melannor names the thing below) and **East Gate Key Held** (the gate hours).
+> This Event also reads **Winterstalker Reached** (the hold) and **East Gate Key Held** (the gate hours). It reads **Anchor Destroyed** and **Illuun Contact** for what Jeryth says and whether Melannor names the thing below.
 
 > [!gamemaster]**Next Steps**
 >
