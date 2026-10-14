@@ -12,21 +12,21 @@
 
 ### Melannor at the Door
 
-Hold this Event until **Summerstrider Reached** is marked for the member. At nine on the morning after the member reaches Renown 10, Melannor knocks at the door of their lodging, which is Trollskull Manor for most members. He breaks from the animals for this rank and comes himself. Every qualifying member is met on their own account, so members who cross the threshold together walk together and are recorded one by one.
+Hold this Event until **Summerstrider Reached** is marked for the member. At two in the afternoon on the day after the member reaches Renown 10, Melannor knocks at the door of their lodging, which is Trollskull Manor for most members. He breaks from the animals for this rank and comes himself. Every qualifying member is met on their own account, so members who cross the threshold together walk together and are recorded one by one.
 
-If the member is out on a mission or an operation, or away from Waterdeep, Melannor sends no animal after them. He returns to their door at nine each morning and waits until the member is back, and the meeting takes place on the morning after they return. Read or paraphrase the following:
+If the member is out on a mission or an operation, or away from Waterdeep, Melannor sends no animal after them. He returns to their door at two each afternoon and waits until the member is back, and the meeting takes place on the afternoon after they return. Read or paraphrase the following:
 
 > [!readaloud]
 >
 > Two slow knocks sound on the door, and the man on the step waits with his hands folded in front of him. Melannor wears a green coat with pruning shears at his belt and carries a shallow basket of seedlings.
 >
-> > "Good morning, Autumnreaver. These seedlings are for your window boxes, and they need water twice a day. This is the rank where I stop sending things and come myself."
+> > "Good afternoon, Autumnreaver. These seedlings are for your window boxes, and they need water twice a day. For a rank, I come myself."
 >
 > He waits while you take the basket, and then he turns his head toward the south.
 >
 > > "Please walk with me to Phaulkonmere. I will explain the three benefits at the gate, and I will take your questions after each one."
 
-Melannor walks the member to the gate of Phaulkonmere, an hour on foot. A line of pigeons keeps up with him along the rooftops. He says nothing until the crowns of tall oaks show above the walls of the Southern Ward.
+Melannor walks the member to the gate of Phaulkonmere, two hours on foot. A line of pigeons keeps up with him along the rooftops. He says nothing until the crowns of tall oaks show above the walls of the Southern Ward.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -44,7 +44,7 @@ Phaulkonmere stands in the Southern Ward, and the gate is open before the member
 
 > [!readaloud]
 >
-> The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and busy with morning carts. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. Melannor leads you along the gravel to the oldest oak, whose roots cross the path in front of its trunk.
+> The gate of Phaulkonmere stands open when you reach it, and the street outside is paved and busy with afternoon carts. Past the gate the paving gives way to grass, and the oaks overhead are older than the walls built around them. Melannor leads you along the gravel to the oldest oak, whose roots cross the path in front of its trunk.
 >
 > > "Welcome back, Autumnreaver. We will begin here at the oldest oak, because the sprig is Jeryth's to give. Please wait until she has finished before you ask me anything."
 
@@ -86,7 +86,7 @@ Melannor stops beside the oldest oak, and Jeryth speaks. Read or paraphrase the 
 
 > [!readaloud]
 >
-> The leaves of the oldest oak stir although the morning air is still, and a clear woman's voice speaks from the garden around you. A hand's length of green wood lies across the root beside Melannor's boot, with three leaves still on it.
+> The leaves of the oldest oak stir although the afternoon air is still, and a clear woman's voice speaks from the garden around you. A hand's length of green wood lies across the root beside Melannor's boot, with three leaves still on it.
 >
 > > "Take the sprig. I will cast through it."
 >
@@ -94,7 +94,7 @@ Melannor stops beside the oldest oak, and Jeryth speaks. Read or paraphrase the 
 
 > [!social]**The Voice in the Garden**
 >
-> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who casts through a sprig because she cannot leave them.
+> Jeryth Phaulkon (Neutral Good, Chosen of Mielikki, disembodied presence, she/her) :: a disembodied presence in the gardens of Phaulkonmere, who casts through a sprig because she cannot leave them.
 >
 > She speaks one or two short sentences at a time and never repeats them. Jeryth is Friendly and distant. The leaves move when she speaks, and the garden answers with a warm breeze. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest".
 >
@@ -238,13 +238,21 @@ The Dock Ward route depends on what the party has done. If the party has not pla
 >
 > > "The Dock Ward route ends in a large room with black pillars. Our cats will not go past the first pillar, and I do not know what waits there. Please go carefully, and bring light."
 
-If **The Grells in the Dock Ward** has played and **Grell Escaped** is marked, read or paraphrase the following:
+If **The Grells in the Dock Ward** has played and **Grell Escaped** is marked with one grell fled, read or paraphrase the following:
 
 > [!readaloud]
 >
 > Melannor's finger stops on the third route, and he turns his head to look at you.
 >
 > > "One grell left the warehouse by the loading doors and went under the south quay. This route runs beneath the quay, and I believe the creature went home. Please treat the end of this route as occupied."
+
+If **Grell Escaped** is marked with both grells fled, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Melannor's finger stops on the third route, and he looks at you for a long moment.
+>
+> > "Both grells left the warehouse by the loading doors and went under the south quay. This route runs beneath the quay, and I believe they went home together. Please treat the end of this route as occupied by two."
 
 If **The Grells in the Dock Ward** has played and **Grell Escaped** is not marked, read or paraphrase the following:
 
@@ -287,9 +295,9 @@ This scene happens when a party first reaches area 5, never during this Event. R
 >
 > The route's narrow door opens in the south wall of a 50-foot-square room with five pillars of black bone. The alcoves to the north and east hold the grells, which float among the pillars and chase anyone who runs. The roster follows the state of the route:
 >
-> - **Grell Escaped is marked:** one **Grell** at full Hit Points, or both if the party withdrew from the warehouse and left them alive, which uses the two-grell row. At 5th level its Power is 30 against party Power of 96, 128 or 160, which costs 9.8%, 5.5% and 3.5% of the party's resources. That is Mild at every size, with a Day Cost of 2.
-> - **The party has not played The Grells in the Dock Ward:** two **Grells**, Power 60. That costs 39.1% at three characters (Bruising, Day Cost 4), 22.0% at four (Bruising, 4) and 14.1% at five (Mild, 2). At three characters the second grell joins in round 3.
-> - **The grells were destroyed:** the room is empty and nothing happens.
+> - **Grell Escaped is marked with one grell fled:** one **Grell** at full Hit Points. At 5th level its Power is 30 against party Power of 96, 128 or 160, which costs 9.8%, 5.5% and 3.5% of the party's resources. That is Mild at every size, with a Day Cost of 2.
+> - **Grell Escaped is marked with both grells fled, or the party has not played The Grells in the Dock Ward:** two **Grells**, Power 60. That costs 39.1% at three characters (Bruising, Day Cost 4), 22.0% at four (Bruising, 4) and 14.1% at five (Mild, 2). At three characters the second grell joins in round 3.
+> - **The grells were destroyed and Grell Escaped is not marked:** the room is empty and nothing happens.
 >
 > Add the member's beast at Power 17 if it is present, and recalculate if the party is above 5th level.
 >
