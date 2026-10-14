@@ -16,7 +16,7 @@
 >
 > - Illuun, an aboleth dreaming on Undermountain Level 4, answers the Stone of Golorr, which holds an aboleth's memory. Each time the Stone grows stronger, Illuun presses harder toward the surface through the Castle Ward water table.
 > - Jeryth has held it back for months. She does not know its name and says only that something dreams below. In Surge Three she calls it old, patient and hungry, and only this Event has her say "hungry".
-> - Nobody in this Event names Illuun. A member learns the name through **Illuun Contact**, through **Anchor Destroyed**, or from the Stone if it named Illuun at Full Awakening.
+> - Nobody in this Event names Illuun. A member learns the name through **Anchor Destroyed**, when Jeryth tells them, or from the Stone if it named Illuun at Full Awakening. **Illuun Contact** alone gives the presence and not the name.
 > - The surges cause no harm. The dreams, the fish and the black water are the dreamer feeling for the Stone.
 > - Jeryth's request in Surge Four is sound. The channel she uses is fouled by the Splinter's thrall-conditioning waste, which **The Fouled Channel** traces. The cutting that mission plants opens the conduit that **The Dreamer's Reach** follows, and Jeryth cannot foresee that.
 > - Melannor and Jeryth say "the Splinter". Nobody names Manshoon, and nobody points at the house one block north of the garden.
@@ -261,9 +261,9 @@ Read **The Garden Gate** first if this is the member's first arrival, then read 
 >
 > The silence stretches longer again, and not a leaf moves in it.
 >
-> > "The channel under the Castle Ward is fouled by something made. Clear it before the third Eye opens. I am asking."
+> > "The channel under the Castle Ward is fouled by something made. I am asking you to clear it before the third Eye opens."
 
-If **The Fouled Channel** is already complete, replace her last turn with the following, and do not mark **Fouled Channel Requested**:
+If **The Fouled Channel** has been played, replace her last turn with the following, and do not mark **Fouled Channel Requested**:
 
 > [!readaloud]
 >
@@ -400,7 +400,7 @@ The Event concludes when the fifth surge has fired and each member has heard Jer
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Fouled Channel Requested** — mark with the member's name when Jeryth asks for the channel in Surge Four, unless **The Fouled Channel** is already complete. It is read by **The Fouled Channel**, where Melannor says Jeryth asked.
+> - **Fouled Channel Requested** — mark with the member's name when Jeryth asks for the channel in Surge Four, unless **The Fouled Channel** has been played. It is read by **The Fouled Channel**, where Melannor says Jeryth asked.
 > - **Silence Warning Given** — mark with the member's name when they hear Jeryth's warning and Melannor's instruction about the oak in Surge Five. It is read by **The Dreamer's Reach**, where Melannor speaks of the failing voice.
 
 > [!gamemaster]**Next Steps**
