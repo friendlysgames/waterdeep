@@ -27,7 +27,7 @@ Jeryth sent the animals herself, so no *Animal Messenger* is cast and no bariton
 >
 > The animals lead the member to Phaulkonmere on foot and wing, each by a different street. They meet again at the corner of the Southern Ward nearest the gate and stay there when the member goes in.
 >
-> - **Speak with Animals:** each animal gives the same answer, "The garden asked." It says nothing more.
+> - **Speak with Animals:** each animal gives the same answer, "The garden asked," and says nothing more.
 > - **If the member stays:** the three animals return to the same place at dawn each day until the member walks to Phaulkonmere.
 > - **Companions:** any companion may follow, and the animals pay them no attention.
 
@@ -204,7 +204,7 @@ Read the following aloud:
 
 > [!qna]**Who goes into the fight?**
 >
-> > "I go first, then Rolan, Ealdra and Naerith, one fewer than your party has fighters. Tavish and Hob keep the camp and the rear. I'll tell you if that changes."
+> > "I go first, then Rolan, Ealdra and Naerith, one fewer than your party has fighters. Tavish and Hob keep the camp and the rear, and I'll tell you if that changes."
 
 > [!qna]**How long will you stay?**
 >
@@ -220,14 +220,14 @@ Read the following aloud:
 >
 > - **Contact:** Sorrel or Melannor at the gate by day, or at any hour for a member who holds the east gate key (**East Gate Key Held**). A written request left in the gate box is answered by a note in the box by noon the next day. A member below ground cannot send for the six and must surface first.
 > - **The request:** the member names the objective, the place and the hour. A request with no named objective is refused, and nothing is spent.
-> - **Notice:** three days. A request with less notice is refused, and nothing is spent.
+> - **Notice:** three days, and a request with less notice is refused and spends nothing.
 > - **The place:** the Yawning Portal courtyard or a surface point in Waterdeep. The whole company arrives together, and it goes as far down as the member takes it.
 > - **Fighting allies:** the six fight as one fewer than the member's party. Three PCs get Sorrel and Rolan, four add Ealdra, and five add Naerith. The rest keep the camp and the rear and do not fight.
 > - **Duration:** the operation ends when the objective is met or abandoned, or after ten days below ground. The six then walk back up the stairs.
 > - **Limit:** one operation for the member, spent when the six begin it. A request withdrawn before then is not spent, and a fallen member of the six is not replaced.
-> - **Orders:** the six take orders from the member who called them and from nobody else. A companion cannot call them.
+> - **Orders:** the six take orders from the member who called them and from nobody else, so a companion cannot call them.
 > - **Loss rule:** a member who orders the six to harm the Watch, a Lord or a creature that has surrendered ends the operation. The six leave at once, and the use is spent.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the six wait until the Renown is restored. A spent operation stays spent.
+> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the six wait until the Renown is restored, and a spent operation stays spent.
 
 > [!gamemaster]**The Six as Allies**
 >
@@ -269,7 +269,7 @@ Read the following aloud:
 
 > [!qna]**Will the beast fight for me?**
 >
-> > "It will fight beside you until it is hurt badly. It will not die for you, and I would not ask it to."
+> > "It will fight beside you until it is hurt badly, but it will not die for you, and I would not ask it to."
 
 > [!exploration]**The Beast Compact**
 >
@@ -299,13 +299,13 @@ Read the branch that matches the member. If neither **Anchor Destroyed** nor **I
 
 > [!readaloud]
 >
-> > "I have one request, and it is not a condition of the rank. Whatever is sleeping below this city has not stopped. Our reach ends at the first level, and yours does not. Will you follow it down and tell us where it is rooted?"
+> > "I have one request, and it is not a condition of the rank. Whatever is sleeping below this city has not stopped, and the water still carries its dreams. Our reach ends at the first level, and yours does not. Will you follow it down and tell us where it is rooted?"
 
 If **Anchor Destroyed** is marked, read the following instead:
 
 > [!readaloud]
 >
-> > "I have one request, and it is not a condition of the rank. Illuun has not stopped, though the anchor is broken. Our reach ends at the first level, and yours does not. Will you follow it down and tell us where it is rooted?"
+> > "I have one request, and it is not a condition of the rank. Illuun has not stopped, though the anchor is broken and the cisterns are clearing. Our reach ends at the first level, and yours does not. Will you follow it down and tell us where it is rooted?"
 
 > [!qna]**What does the Enclave want?**
 >
@@ -313,15 +313,15 @@ If **Anchor Destroyed** is marked, read the following instead:
 
 > [!qna]**Where is it?**
 >
-> > "Below the Castle Ward, and deeper than any of us has gone. Neither Jeryth nor I can say more."
+> > "Below the Castle Ward, and deeper than any of us has gone, and neither Jeryth nor I can say more than that."
 
 > [!qna]**What do I get?**
 >
-> > "Three signs to mark on stone in the first three levels. A courier will answer each one. Below the third level, the Enclave cannot reach you."
+> > "Three signs to mark on stone in the first three levels, and a courier will answer each one. Below the third level the Enclave cannot reach you, because couriers walk."
 
 > [!qna]**What if I refuse?**
 >
-> > "Then you refuse, and nothing else changes. I will not raise it again."
+> > "Then you refuse, and nothing else changes between us. I will not raise it again, and the gate stays open."
 
 If the member accepts, mark **Illuun Watch Accepted** with the member's name and read the following:
 
@@ -329,7 +329,7 @@ If the member accepts, mark **Illuun Watch Accepted** with the member's name and
 >
 > Melannor takes a folded slip of oiled paper from inside his coat and places it in your hand. Three marks are drawn on it in charcoal, a circled leaf, a leaf over an arrow and a leaf over a drop of water.
 >
-> > "Thank you. Scratch these on stone and a courier will come to you. Please visit the gate when you are above ground, and tell me what you have seen."
+> > "Thank you for hearing me. Scratch these on stone and a courier will come to you. Please visit the gate when you are above ground, and tell me what you have seen."
 
 If the member declines, read the following:
 
@@ -337,7 +337,7 @@ If the member declines, read the following:
 >
 > Melannor nods once and puts his hands together again.
 >
-> > "I understand. The gate is open to you whenever you wish, and I will not raise this again."
+> > "I understand your answer. The gate is open to you whenever you wish, and I will not raise this again."
 
 > [!exploration]**The Three Marks**
 >
