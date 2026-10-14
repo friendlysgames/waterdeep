@@ -1,24 +1,81 @@
-# The Undercliff Scarecrows
+# The Undercliff Scarecrows: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> *Emerald Enclave Mission 1. Available at Renown 0 and character level 2.*
+> **The Undercliff Scarecrows** becomes available when an individual Emerald Enclave member who has marked **Emerald Enclave Joined** reaches 2nd level. Companions can walk the Undercliff and fight the scarecrows without belonging to the faction.
 >
 > #### Difficulty
-> *A mission for 2nd-level characters.*
+> *An adventure for 2nd-level characters.*
 >
-> #### Milestone Overview
-> This mission does not award a Milestone Point.
+> Each fight is a single 2024 **Scarecrow**, and the roster is the same at three, four and five characters. The scarecrows are fought one territory at a time on separate days. The **Emerald Enclave Mechanics Reference** audits the fights and the fire rule.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points.
+
+## Hook
+
+On the first morning after a member qualifies, a grey pigeon finds that member at Trollskull Manor and speaks a message in Melannor Fellbranch's voice. Three scarecrows have come alive on the farms of the Undercliff, east of the walls, and the City Guard will not come.
+
+## Background
+
+About a tenday ago a Splinter arcanist drew a chalk circle in a sheltered draw north of the Undercliff farms and animated three scarecrows at once. He had not expected all three to wake, and he left before he could bring them under control. They now hold three territories of their own: the Sackcloth One in the northern fields, the Pumpkin Head in the central orchards and the Blanket on the southern terraces.
+
+Gerrick Thatchley, a halfling farmer of about fifty, has watched them for three days from his barn. His farm sits in the north, and he is angry that nobody has come. He also knows a sealed brick drain that runs west from the southern terraces to the cisterns under the Castle Ward.
+
+> [!gamemaster]**What Is Actually True**
+>
+> - The Splinter is the Zhentarim cell that broke away from the rest. Nobody in this mission names its master.
+> - The journal page in the draw is in the same hand as the logbook in **The Fouled Channel**. Its writer is Imre Daskov, and nobody here can learn his name.
+> - The drain was sealed six years ago after a chuul scout from Illuun's brood came up through it. Gerrick's neighbours drove it back with fire, and Gerrick never learned what it was. **The Dreamer's Reach** pays this off.
+> - The scarecrows have no master. Nothing controls them now, and they stay inside their territories.
+
+## The Brief
+
+The pigeon speaks a message of 24 words. A member who walks to Phaulkonmere instead finds Melannor at the gate, and he answers questions in his flat, even way. Companions wait at the gate.
+
+## The Undercliff
+
+The farm terraces lie a morning's walk east of the city. The party can find all three territories by three independent routes: Gerrick, the tracks in the fields, or the behaviour of the animals.
+
+## Gerrick
+
+Gerrick Thatchley waits in his north field with a pitchfork and swears at the Guard. He shares what he has seen, mentions the old drain in passing and lends buckets, shovels and a ewe.
+
+## The Three Scarecrows
+
+Each scarecrow is fought alone, on its own ground, with one Long Rest between fights. Each has a habit the party can use: a decoy, a runner or a lantern. Fire works well, but a dry field can carry it to a barn.
+
+## The Testing Site
+
+The chalk circle and its journal page lie in a draw beside the northern fields. The party can find it three ways. The page proves the scarecrows were made on purpose.
+
+## The Sealed Tunnel
+
+The outlet of Gerrick's drain is plain to see in the Blanket's territory. The party learns where it is from Gerrick, from Melannor or from the outlet itself.
+
+## Debrief at Phaulkonmere
+
+The members report to Melannor at Phaulkonmere. He reads the page, names the Splinter and says what the Enclave will do with it.
+
+## Renown Opportunities
+
+Each participating Emerald Enclave member gains 2 base Renown for ending the scarecrows' attacks and reporting to Melannor. Bonuses of +1 each go to members whose party destroys all three within three days, who show Melannor the testing-site page, and whose party leaves no farm burned.
+
+## Aftermath
+
+Gerrick gets his farm back and tells his neighbours who came. Melannor passes the page to Jeryth. A member whose Renown reaches 3 here is called to the garden by **A Seat at Phaulkonmere**, and **Summerstrider** follows. **Ten Nights in the City of the Dead** becomes available at Renown 3 and 3rd level.
 
 ## Involved Characters
-- **Melannor Fellbranch** (Emerald Enclave) — the party's Enclave contact; delivers the mission via trained pigeon; does not accompany
-- **Gerrick Goodbarrel** (farmer) — a halfling farmer of fifty; has been watching the scarecrows' patterns for three days; provides tactical assessment and local geography, including the sealed drainage tunnel that becomes relevant in Missions 5 and 6
+
+- **Melannor Fellbranch** (Emerald Enclave): sends the pigeon, answers questions at Phaulkonmere and takes the report.
+- **Jeryth Phaulkon** (Emerald Enclave): the voice in Phaulkonmere's garden, who speaks one line at the debrief.
+- **Gerrick Thatchley** (independent): the farmer whose land the party fights across and who knows the drain.
+- **The Splinter's arcanist** (the Splinter): drew the circle and left. He never appears.
 
 ## Dangers & Enemies
-Three **Scarecrows** (2024 *Monster Manual*). Each occupies a distinct territory in the Undercliff terraces and operates by its own behavioral pattern. The Sackcloth One moves at dusk and targets livestock first. The Pumpkin Head pursues anything that runs at night and should not be fled from. The Blanket holds a road-adjacent position and cannot be approached unseen, but moves toward sustained light. All three are combustible; uncontrolled fire in dry fields damages at least one farm.
+
+Three 2024 **Scarecrows**, one per territory. A Scarecrow that Paralyzes a character can then strike with critical hits, so the party never fights two together. The Scarecrow takes double damage from fire, and fire in the dry fields can burn a farm. Nothing else in the Undercliff is hostile.
 
 ## Overview
-A Manshoon Splinter arcanist used the Undercliff's farming terraces as a testing ground for an animation ritual last tenday, succeeded beyond his intentions, and left before dealing with the results. All three scarecrows became fully animated and hostile. A farmer was struck unconscious. The City Guard considers animated agricultural fixtures beneath their threshold. Melannor assigns the party as the only available response.
 
-The scarecrows roam independently across three zones of the Undercliff. The party must find and destroy all three. Gerrick Goodbarrel, who has been watching from his north field for three days with a pitchfork and an expression of settled impatience, provides tactical intelligence and knowledge of the terrain. At the mission's end, he gives the party the location of an old sealed drainage tunnel below the southern terraces — matter-of-fact, one piece of local geography among many, which he mentions was sealed six years ago after "something came up through it." He never learned what.
+Three scarecrows have come alive on the farms east of the city. The party hunts them across the Undercliff and finds out who woke them.

@@ -16,9 +16,9 @@ The *charm of restoration* now has the 2024 DMG text, with 3 charges and a charg
 
 ## Invented Names and Open Items
 
-- No new named NPCs. Invented details: the two unnamed Enclave druids, the two-hour walk from Trollskull Alley, the eight-friend limit on the haven, the two-tenday loss penalty, the three pulses that mark the charm, the cat's tie-break order and Melannor's earlier visit to Trollskull Alley that lets the spell name it. Any can change without affecting the rest.
-- Melannor's exit line is "I will be in touch." The brief quotes "I'll be in touch.", which contradicts his no-contractions profile, so the profile won.
-- The brief counts its suggested message as 21 words. It is 20.
-- The charm is written to supply the *Greater Restoration* diamond dust. The 2024 DMG text was not checked.
+- The folder adds no new named NPCs, and its invented details are the two unnamed Enclave druids, the two-hour walk from Trollskull Alley, the eight-friend limit on the haven, the two-tenday loss penalty, the three pulses that mark the charm, the cat's tie-break order and Melannor's earlier visit to Trollskull Alley that lets the spell name it. Any of these can change without affecting the rest of the event.
+- Melannor's exit line is "I will be in touch." because the brief's "I'll be in touch." contradicts his no-contractions profile, and the coordinator confirmed the longer form.
+- The brief counts its suggested message as 21 words, but the message as written is 20 words.
+- The 2024 DMG text of the charm gives no material components, so the event states that the charm needs none and *Greater Restoration* needs no diamond dust.
 - The manor guide's line that Enclave druids replace the Watchful Order ward with monthly visits (`02-operating-costs.md:28`) is not delivered here. The brief does not address it.
 - **The Factions Come Calling** (`ev-04:57`, `:103-104`) still has *Fabricate* and the True or False heading. The Factions Guide (`04-emerald-enclave.md:37`) still names a retired "Jeryth's Manner" sidebar.

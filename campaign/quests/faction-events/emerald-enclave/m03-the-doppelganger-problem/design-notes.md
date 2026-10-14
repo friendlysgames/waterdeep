@@ -1,17 +1,32 @@
 # Design Notes: The Doppelganger Problem
 
-## Cross-Faction NPC — Bonnie
+## What the Source Gave
 
-***Bonnie appears in both EE-M3 (The Doppelganger Problem) and Harper Mission 3 (The Doppelganger Auditions).*** The source establishes these two missions may not both run — if Harper M3 completed first and resolved Bonnie's crew situation, EE-M3 becomes a follow-up rather than a discovery. The missions are not redundant. They approach the same five doppelgangers from different angles and with different stakes: the Harpers want intelligence and an asset; the Enclave wants the city's information environment protected. The party's relationship with Bonnie is shaped differently depending on which mission they experience first.
+WDH has one line for this mission: convince Bonnie with a DC 15 Charisma (Intimidation or Persuasion) check to leave Waterdeep and take her gang with her. Appendix C adds the saboteur's line "He's the one who sold your names" and a parting gift, the name of the buyer. Both survive. The crew is Bonnie, Edric Tanner, Kael, Syla and the Scholar, as in **The Doppelganger Auditions**, and Edric is the same traitor with the same tic.
 
-If both missions run in sequence, EE-M3 represents the Enclave acting on intelligence the Harpers uncovered. Bonnie acknowledges this if the party brings it up. The departure requirement remains; the Splinter contact name remains. The `Harper M3 Complete: True / False` flag governs how the Complication phase runs in ev-01. When True, the traitor has already been neutralized and the taproom meeting is cleaner. The flag is read at the start of the Background block in ev-01.
+## What Changed
 
-The three-renown ceiling of this mission is intentional. It rewards a party that lets Bonnie handle her own situation — a test of whether the party is willing to trust an NPC's judgment. The easiest resolution is not the most rewarding one.
+The mission is no longer one check. The party reaches Bonnie by three routes, finds Edric by three routes, and can settle her future in several ways. Bonnie talks in the back room after closing, because her profile never lets her discuss what she is in the taproom, and the Harper and Force Grey pages already use Durnan's back room.
 
-## Cross-Campaign NPC — Kelso Fiddlewick
+The user ruled that the Enclave makes the crew leave, Bonnie included. The exception is **Bonnie Harper Operative**: the party can persuade Melannor that she is no threat (DC 15 Charisma (Persuasion), Advantage if a Harper member vouches). **Doppelgangers Departed** and **Bonnie Departed** are separate outcomes, because the other four go either way. Bonnie has a two-tenday grace period, so **The Doppelganger Auditions** can still run inside it and mark **Bonnie Harper Operative**.
 
-***Kelso Fiddlewick is the Manshoon Splinter contact Bonnie names in this mission's climax.*** He also appears in Order of the Gauntlet Mission 3 (The Shard Shunners) as the leader of a Field Ward wererat gang who, after mediation, provides intelligence about which gang leaders have been paid by the Splinter. He appears again in Doom Raiders Mission 3 in a related capacity. His presence as the named operative in EE-M3 is intentional, not coincidental.
+Kelso Fiddlewick is a middleman. Edric sells to him, he sells to whoever pays, and he never names a customer, which matches **The Missing Snobeedle**. The Splinter is his customer, stated in GM text only. **Traitor Identified** keeps its name because that mission reads it.
 
-The design decision here serves two purposes. First, it rewards parties who ran OG-M3: the name Bonnie gives them is a name they already know, and knowing it in two contexts establishes Kelso as a figure with genuine operational depth in the Splinter's Field Ward network. Second, it gives the DM a character with established personal history with the party when Kelso's name surfaces in Arc E. That history shapes how the Arc E investigation plays out — a party that mediated the Endshift Tavern situation in good faith will find Arc E's Kelso thread lands differently than one that resolved it through force.
+## Departures from the Source
 
-The cross-faction utility of Field Ward gang leaders with Splinter connections is also a structural feature of the Splinter network's design: they use informal criminal infrastructure because it is deniable and harder for the Lords' Alliance to track. Kelso's role across three faction missions reflects that pattern.
+Bonnie wears her Tethyrian barmaid form and has been in Waterdeep over a year, as WDH has it. Appendix C gives a tiefling and eight months. The falcon's message is 21 words, under the 25-word *Animal Messenger* limit. The restored draft's lines about Melannor finding the dove "touching" are cut, since he does not remark on feeling. Jeryth's "peacefully" appears only as Melannor's report that she said it three times. The dove is tied to the end of the grace period, so it confirms a departure or a reprieve.
+
+Steel drawn on Bonnie ends the mission. The crew together is Impossible at every party size, so the text gives no fight and has her shift and leave.
+
+## Invented Names and Open Items
+
+Invented details: the red-wheeled cart, the yellow-scarfed Shard Shunners runner, and the three 5 gp payments on Bonnie's slip. Kael, Syla and the Scholar keep their Harper tics and workplaces. No other new names.
+
+Contradictions outside this folder, left unedited:
+
+- **The Doppelganger Auditions** design notes and overview still say the Enclave has Bonnie leave in two tendays and need an unavailable-after-**Bonnie Departed** branch.
+- **The Trouble with Meloon** (Day 6) and **Destroy the Intellect Factory** (ev-02 near line 277) show Bonnie at the Portal and need absence branches.
+- The Harpers organization page and Bonnie's Notable Figures page say only Mattrim knows her nature. The Enclave's animals know too.
+- Kelso's Notable Figures page puts him in the Dock Ward with a Spy block, while this set uses the Field Ward and the Wererat.
+- The Order of the Gauntlet **The Shard Shunners** design notes claim Splinter intelligence from Kelso that its event does not contain.
+- **Faction Outposts** (unconverted) should read **Traitor Identified**, and the Factions Guide still lists M3 as "convince Bonnie to leave".

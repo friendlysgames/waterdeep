@@ -79,7 +79,7 @@
 
 > [!gamemaster]**The Groundskeeper**
 >
-> Melannor leads the party along the paths toward the oak at an even pace, and he stops at a bed of roses or a wall of ivy whenever a question needs an answer. He is friendly and humorless. He speaks in full sentences without contractions, never laughs and never swears. Companions and characters who belong to other factions can walk with the candidates and ask their own questions.
+> Melannor leads the party along the paths toward the oak at an even pace, and he stops at a bed of roses or a wall of ivy whenever a question needs an answer. He is friendly and humorless, speaks in full sentences without contractions, and never laughs or swears. Companions and characters who belong to other factions can walk with the candidates and ask their own questions.
 
 > [!readaloud]
 >
@@ -272,12 +272,12 @@ A candidate who returns later is recorded the same way. The gate is open when th
 >
 > - **The druids:** Within a tenday of the meeting, two Enclave druids arrive at Trollskull Manor on a morning the party names. Using *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape*, they dig out the flooded cellar, drain the courtyard, reseat the loose foundation stones and clear the overgrowth in a single day.
 > - **The timber:** The Enclave donates seasoned timber for the frames and floors, and Tally Fellbranch lays it at no charge to the party.
-> - **The saving:** The renovation total of Trollskull Manor drops by **250 gp**. The saving is applied once.
+> - **The saving:** The renovation total of Trollskull Manor drops by **250 gp**, and the saving is applied once.
 > - **The oak:** The druids ask the party to leave the oak in the courtyard undisturbed and to allow silverbark to grow on it. The ask is a request and not a condition, and the help is given whatever the party answers.
 
 > [!gamemaster]**Walking Out**
 >
-> Melannor does not hand out an assignment. **The Undercliff Scarecrows** reaches each new member later, by its own grey pigeon, once the member is 2nd level. Read the following aloud when at least one candidate has accepted.
+> Melannor hands out no assignment, and **The Undercliff Scarecrows** reaches each new member later, by its own grey pigeon, once the member is 2nd level. Read the following aloud when at least one candidate has accepted.
 
 > [!readaloud]
 >
@@ -291,11 +291,11 @@ If every candidate declined, read the following instead:
 >
 > Melannor walks you back along the gravel path and stops just inside the gate. The street beyond it is as busy as when you arrived.
 >
-> > "Thank you for coming. The gate will stay open."
+> > "Thank you for coming this morning, and please remember that the gate will stay open for any of you."
 
 ### Concluding the Event
 
-The meeting ends when the last candidate leaves Phaulkonmere. No assignment is handed over today.
+The meeting ends when the last candidate leaves Phaulkonmere, and no assignment is handed over today.
 
 > [!gamemaster]**Event Outcomes**
 >
