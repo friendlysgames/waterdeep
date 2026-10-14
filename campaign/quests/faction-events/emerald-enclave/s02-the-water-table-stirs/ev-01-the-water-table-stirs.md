@@ -56,7 +56,7 @@ Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, ab
 >
 > Melannor Fellbranch (Neutral Good, Half-Elf, he/him) :: the humourless groundskeeper of Phaulkonmere, who reports bad news in the same level baritone as good.
 >
-> Melannor speaks in plain, complete sentences at an even pace. He uses no contractions, does not recognise a joke and never swears. He calls each member by name, correctly, every time. He is worried about Jeryth and does not say so.
+> Melannor speaks in plain, complete sentences at an even pace. He uses no contractions, does not recognise a joke and never swears. He calls each member by name, correctly, every time, and he is worried about Jeryth without ever saying so.
 >
 > Melannor is happy to discuss the following topics:
 >
@@ -92,12 +92,12 @@ The member can give the account on any visit to the oak, and the visit needs no 
 
 > [!exploration]**What Counts as a Report**
 >
-> Melannor accepts any account that names a place, a creature and a time. No check is needed, and the member tells it in their own words. Each route below is enough alone, and it can be told by a member who was there or one who heard it from someone who was.
+> Melannor accepts any account that names a place, a creature and a time, and the member tells it in their own words without a check. Each route below is enough alone, and it can be told by a member who was there or one who heard it from someone who was.
 >
 > - **Finding Floon:** the gazer at the tunnel junction in the Xanathar sewer hideout. The mind flayer who set an intellect devourer down in the room where Floon was held also counts.
 > - **Gralhund Villa:** the Guild's gazers near the villa, or anything the party saw of the mind flayer's movements. Melannor also asked about these in his debrief after the villa.
 > - **The sewers:** any aberrant creature met below the Dock Ward during the investigations.
-> - **+1 Renown:** the member gives Melannor an account by any route above. Award it once per member.
+> - **+1 Renown:** the member gives Melannor an account by any route above, and the award is made once per member.
 >
 > A member with no such account has nothing to report and earns nothing. Melannor writes the place on the map in his shed and says Jeryth will want to hear it.
 
@@ -125,11 +125,11 @@ Melannor is in the eastern garden and not at the oak. Read **The Garden Gate** f
 >
 > He presses the nearest stake back into the soil.
 >
-> > "Jeryth asks that you keep the Stone moving. It should not lie in one place for more than a tenday."
+> > "Jeryth asks that you keep the Stone moving from this day forward. It should not lie in one place for more than a tenday at a time."
 
 > [!qna]**Why must the Stone move?**
 >
-> > "Jeryth says that what dreams below finds the Stone more easily when it rests. A Stone that travels is harder to find. She did not say more."
+> > "Jeryth says that what dreams below finds the Stone more easily when it rests. A Stone that travels is much harder for it to find, and she did not say more than that."
 
 > [!exploration]**Keeping the Stone Moving**
 >
@@ -139,7 +139,7 @@ Melannor is in the eastern garden and not at the oak. Read **The Garden Gate** f
 
 ### Surge Three: Eyes Opening
 
-This surge fires at dawn after the first Eye is restored, whichever lair heist restored it. In the tenday before, seven cistern workers across the Castle Ward told the Watch the same dream, of drowning upward through wet stone while a vast eye looked down. None of them knows the others, and the Watch filed the reports as fever and moved on. Melannor's harbor network flagged them. A character who asks at a Castle Ward cistern house hears the dream from the workers, with no check.
+This surge fires at dawn after the first Eye is restored, whichever lair heist restored it. In the tenday before, seven cistern workers across the Castle Ward told the Watch the same dream, of drowning upward through wet stone while a vast eye looked down. None of them knows the others, and the Watch filed the reports as fever and moved on, though Melannor's harbor network flagged them. A character who asks at a Castle Ward cistern house hears the dream from the workers, with no check.
 
 > [!readaloud]
 >
@@ -189,7 +189,7 @@ Read **The Garden Gate** first if this is the member's first arrival, then read 
 >
 > > "I hold it back. That is all I can do now."
 
-Jeryth then makes her request in two turns.
+Jeryth then makes her request to the member in two separate turns.
 
 > [!readaloud]
 >
@@ -205,7 +205,7 @@ Jeryth then makes her request in two turns.
 >
 > Melannor listens to a member's account of the first lair heist and writes it on a slate. The account counts when it names one creature or person from that heist who obeyed another mind's orders, whether implanted, charmed or dominated. If the heist met no such creature, the member can instead report strange behaviour of animals, water or sleepers seen during it.
 >
-> - **+1 Renown:** the member gives Melannor the account. Award it once per member.
+> - **+1 Renown:** the member gives Melannor the account, and the award is made once per member.
 
 If **Xanathar's Lair** has not yet run, Jeryth offers a second path after the request. If it has run, she offers nothing more and the surge ends here.
 
@@ -229,7 +229,7 @@ If **Xanathar's Lair** has not yet run, Jeryth offers a second path after the re
 
 ### Surge Four: The Path Found
 
-This surge fires at dawn after the second Eye is restored. Fish in three wards have been schooling in tight patterns and beaching themselves on the south quay in waves. They survive, turn and slide back into the water. The two constables who took the report are the two who handled the cistern workers' dreams, and the Watch is not investigating.
+This surge fires at dawn after the second Eye is restored. Fish in three wards have been schooling in tight patterns and beaching themselves on the south quay in waves. The fish survive, turn and slide back into the water. The two constables who took the report are the two who handled the cistern workers' dreams, and the Watch is not investigating.
 
 > [!readaloud]
 >
@@ -299,7 +299,7 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 
 > [!qna]**Can we have a look?**
 >
-> > "If you know about foundations, then please do. I have lost a good deal of time already, and I would rather someone sensible looked."
+> > "If you know anything about old foundations, then please do have a look at it. I have lost a good deal of time already, and I would rather someone sensible looked."
 
 > [!exploration]**Getting Down the Cellar Stairs**
 >
@@ -315,9 +315,9 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 >
 > A hairline crack runs through the foundation stone of the east wall, and a thin cold draught breathes out of it. A character who searches the wall and makes a successful **DC 10 Wisdom (Perception)** check finds it at once. Without that, the draught leads a patient searcher to the crack after an hour.
 >
-> Pressing the bark disc into the crack closes it. No fight is expected, and nothing in the cellar threatens the party.
+> Pressing the bark disc into the crack closes it, and nothing in the cellar threatens the party or calls for a fight.
 >
-> - **+1 Renown:** a member presses the seal into the crack. Award it once per member who does so.
+> - **+1 Renown:** a member presses the seal into the crack, and the award is made once per member who does so.
 
 > [!readaloud]
 >
@@ -327,7 +327,7 @@ Bertio Caskwall hired a crew three tendays ago to dig out his cellar, and the cr
 >
 > The voice does not return, and when you lay a hand against the corner the cold there is gone.
 
-The workers return to that corner the next morning.
+Bertio's workers return to that corner the next morning and finish digging out the cellar without complaint.
 
 ### Surge Five: Before the Silence
 
@@ -365,15 +365,15 @@ Mark **Silence Warning Given** for each member who hears her, and then read the 
 >
 > Melannor sets the jar on a root of the oak and folds his hands.
 >
-> > "When her voice stops, no animal will leave this garden, so I cannot send for you. On the morning after, the oak in your courtyard will put out shoots in every direction. Come to me then."
+> > "When her voice stops, no animal will leave this garden, so I cannot send for you. On the morning after, the oak in your courtyard will put out shoots in every direction, and you should come to me as soon as you see it."
 
 > [!qna]**What can we do until then?**
 >
-> > "Do what Jeryth asked in the channel, if it is not done. Keep the Stone moving, and watch the oak in your courtyard."
+> > "Do what Jeryth asked in the channel, if that work is not yet done. Keep the Stone moving from house to house, and watch the oak in your courtyard each morning."
 
 > [!qna]**Will she be there at the vault?**
 >
-> > "If the silence comes first, she cannot ward the opening. She asked me to say so plainly."
+> > "If the silence comes before the vault is opened, she cannot ward the opening. She asked me to say so plainly, and I have done so."
 
 > [!gamemaster]**Jeryth's Silence**
 >
@@ -386,7 +386,7 @@ Mark **Silence Warning Given** for each member who hears her, and then read the 
 
 ### Renown Opportunities
 
-This Event awards no base Renown. Each participating Emerald Enclave member can gain 1 Renown, once, from each of Surge One, Surge Three and Surge Four, awarded in that scene. Surge Two and Surge Five award none. A member who plays a missed surge later can still earn its line. Companions gain none.
+This Event awards no base Renown. Each participating Emerald Enclave member can gain 1 Renown, once, from each of Surge One, Surge Three and Surge Four, awarded in that scene, while Surge Two and Surge Five award none. A member who plays a missed surge later can still earn its line, and companions gain none.
 
 ### Aftermath
 
@@ -396,7 +396,7 @@ A Harper in the party who heard Jeryth in Surge Three recognises her words in **
 
 ### Concluding the Event
 
-The Event concludes when the fifth surge has fired and each member has heard Jeryth's warning. It writes two outcomes.
+The Event concludes when the fifth surge has fired and each member has heard Jeryth's warning, and it writes the two outcomes below.
 
 > [!gamemaster]**Event Outcomes**
 >
