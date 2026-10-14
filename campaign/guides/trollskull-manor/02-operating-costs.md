@@ -25,9 +25,10 @@ Non-negotiable in ordinary business. Missing a payment escalates: formal notice 
 **Faction reductions (active standing required — missions running, not just enrolled):**
 - **Harpers (Renown 3+):** Mirt arranges −1 gp/tenday on the Launderers' line. Binds linen supply into Harper-adjacent networks.
 - **Lords' Alliance:** Jalester's civic designation reduces Fellowship line from 3 gp to 1 gp (−2 gp/tenday). Any Watch citation resets this.
+- **Emerald Enclave:** Enclave druids replace the Watchful Order ward, eliminating that 2 gp/tenday fee. Monthly visits from a druid who will have opinions about the oak tree in the courtyard.
 - **Doom Raiders:** Istrid Horn's bulk agreements reduce supply costs (Category 3), not fees directly.
 
-Maximum reduction through faction leverage: **3 gp/tenday** (floor of 7 gp/tenday). Stacking both requires simultaneous standing with the Harpers and the Lords' Alliance.
+Maximum reduction through faction leverage: **5 gp/tenday** (floor of 5 gp/tenday). Stacking all three requires simultaneous standing with Harpers, Lords' Alliance, and Emerald Enclave.
 
 ---
 
@@ -63,7 +64,7 @@ Raw materials the tavern sells. Scale with volume, quality, and Fame tier. Paid 
 
 | Category | Cost/Tenday | Variable? |
 |---|---|---|
-| Guild Fees | 10 gp (floor 7 gp with faction help) | No |
+| Guild Fees | 10 gp (floor 5 gp with faction help) | No |
 | Staff Wages | 40–58 gp | Yes (lower with Lif; higher with upgrades) |
 | *(Base 60 gp/tenday covers the above two)* | | |
 | Supply Costs | 8–110 gp | Yes (Fame-scaled) |
