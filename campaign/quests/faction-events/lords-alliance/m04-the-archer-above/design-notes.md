@@ -1,21 +1,30 @@
 # Design Notes: The Archer Above
 
-## The Cassalanter Thread
+## What the Source Gave
 
-***Why this mission exists.*** The Archer Above is fundamentally a setup mission for **Cassalanter Villa**. Its primary narrative job — finding a killer and stopping three additional murders — is real and satisfying on its own terms, but its secondary job is more structurally important: generating the Alliance's Cassalanter intelligence package before **Cassalanter Villa** begins.
+Appendix C's fourth Lords' Alliance mission, "The Rooftop Assassin", sends the party after Ziraj the Hunter, who has killed three people with a crossbow in the North Ward. The source asks for him alive and builds the mission on a Doom Raiders member's divided loyalty. The earlier drafts of this folder replaced Ziraj with a shooter of their own, a retired Watch sharpshooter hired through a Cassalanter intermediary. That shooter, the intermediary, the partial address and the dossier survive here.
 
-The partial address in Vhaspar's belongings is the mission's critical payload. It is not highlighted or dramatized. It sits among his effects alongside a sketch and 320 gp, waiting for someone to make a DC 15 check. The party that makes this check and reports it to Jalester gets advance knowledge of the Cassalanter Villa service entrance timing before **Cassalanter Villa** reconnaissance begins. The party that misses it or does not report it loses that advantage.
+## What Changed
 
-This design is deliberate. The Three Clue Rule applies to **Cassalanter Villa**'s entry points — the service entrance timing is one of three ways the party can learn about it. But it is the cleanest way, because it comes from direct investigation in a mission they were already running, rather than from dedicated reconnaissance. The reward for thoroughness should feel like competence pays off, not like you found the hidden lever.
+Vhaspar Coldwater keeps the role of the archer and takes a new surname, because Vhaspar Holmdreg is already a Dragon Heist name. The investigation is three independent leads to the feed store on Pell Street, in place of three checks in a row. They are a linen merchant's canvass, Saeth Cromley and the angles of the shots on Jalester's map. A member who has reached **Stingblade** gets the Watch's case file as a free fourth.
 
-## Vhaspar as a Moral Object
+The rooftop chase is a clock called the Escape Track, which is Vhaspar's pace against the pursuers' checks. His bolt hole is a salt-fish smokehouse on the quay, not the Skewered Dragon, because the Splinter would sell him to whoever paid. A fight is possible but optional, and Vhaspar surrenders for Watch protection. Jalester states the deadline in his brief, and the report happens at the handover and again ten days later with the dossier. Halek Farran is a hired agent on a household errand and is not villa staff.
 
-***Not a villain.*** Vhaspar Holmbridge is 57, retired, and taking contracts for money. He is not ideologically motivated and has no particular loyalty to the Cassalanter operation. The three victims were killed for economic reasons — they were witnesses who inconvenienced a wealthy family's errand work — and Vhaspar carried out the contract the way he carried out similar contracts: professionally.
+## Departures from the Source
 
-The mission asks the party to arrest him, not execute him, and there is a reason beyond practicality. Vhaspar alive is more valuable than Vhaspar dead — he names Halek, and Halek is the thread to the Cassalanters. But there is also a quieter design intention: the party is being asked to engage with someone who did terrible things for understandable reasons and is now trying to negotiate his way to safety. He is not pitiable in a manipulative sense. He is simply specific. The DM should resist any temptation to make him sympathetic through backstory; his willingness to cooperate is practical, not redemptive.
+Ziraj is untouched. Doom Raiders **Zirajis Last Hunt** needs him alive, and Ardragon's favor in that mission depends on it. The divided-loyalty theme is lost, and the Cassalanter thread takes its place. The mission also leaves out any claim about why the household wanted the witnesses silenced. Nobody in it knows, and the Cassalanters stay suspected and never convicted. The four-day deadline is invented to give the fourth target a clock. The Watch's protection is a promise to keep Vhaspar alive until trial, not a pardon.
 
-## The Quiet Approach vs. the Chase
+## Invented Names and Open Items
 
-***Both paths work.*** The rooftop chase is not a failure state. It produces a slightly more complicated resolution — the secondary location, the additional time, the Watch proximity risk — but Vhaspar ends up in the same position either way: caught, cooperative, and naming Halek in exchange for Watch protection.
+The following are new and have no Notable Figures pages. Vhaspar, Yander and Halek are voiced from the event text.
 
-The quiet approach is rewarded with narrative efficiency. The chase is its own kind of memorable. The mission is designed to let both feel like legitimate outcomes rather than one being clearly better. The only material difference is whether Jalester's name needs to be invoked to stabilize Vhaspar's cooperation after the cellar capture — which is a minor procedural beat, not a significant branching point.
+- Vhaspar Coldwater, Halek Farran and Yander Coirn, kept from the earlier drafts.
+- Dorrin Teague, the fourth target.
+- Pell Street, Chandler Street, the North Ward Watch house and the unnamed smokehouse on the quay.
+
+Items for the out-of-scope log:
+
+- The Lords' Alliance guide row for this mission still names Ziraj and should name Vhaspar. `arc-g-cassalanter-villa.md` and the Vault structure doc still call the dossier "Mission 4's Aftermath" and need the outcome names.
+- Saeth Cromley's Notable Figures page lists the old **Veteran** stat block, and the Mechanics Reference's Watch-files table says "hand crossbow" for the case file. Both should read **Warrior Veteran** and heavy crossbow.
+- **Laeral Told of Jalester** is written by a later mission, so Sevel Dastar never replaces Jalester here.
+- **Cassalanter Villa** is unconverted and is the named reader of both outcomes, so the dossier's guard rotation has no scene yet.

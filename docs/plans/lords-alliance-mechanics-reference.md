@@ -347,7 +347,7 @@ A standard file takes **1 hour**. A classified file takes **4 hours and a DC 12 
 | Ward incident logs (any one ward, the last tenday) | Standard | Reports, times and Watch patrol sightings |
 | Warrants outstanding | Standard | Names, charges and the requesting magistrate |
 | Missing persons ledger | Standard | Names, last known place, date reported |
-| **Archer case file (M4)** | Standard | Three killings by hand crossbow, the shot angles, and the north-facing window; a **free fourth lead** for the Pell Street room |
+| **Archer case file (M4)** | Standard | Three killings by heavy crossbow, the shot angles, and the north-facing window; a **free fourth lead** for the Pell Street room |
 | **Fentree death report (M5)** | Standard | "Natural causes", and the Watch clerk's note that the study had been searched; a free lead to the Green Dragon booking |
 | Patrol rotations (any one ward) | Standard | The three daily windows, by street |
 | Splinter inquiry file | Classified | An unsolved report of unusual cart and carriage traffic at a Trades Ward safe house; no names. Says "the Splinter" |
