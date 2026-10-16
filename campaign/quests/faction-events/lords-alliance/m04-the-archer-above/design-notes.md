@@ -12,14 +12,14 @@ The rooftop chase is a clock called the Escape Track, which is Vhaspar's pace ag
 
 ## Departures from the Source
 
-Ziraj is untouched. Doom Raiders **Zirajis Last Hunt** needs him alive, and Ardragon's favor in that mission depends on it. The divided-loyalty theme is lost, and the Cassalanter thread takes its place. The mission also leaves out any claim about why the household wanted the witnesses silenced. Nobody in it knows, and the Cassalanters stay suspected and never convicted. The four-day deadline is invented to give the fourth target a clock. The Watch's protection is a promise to keep Vhaspar alive until trial, not a pardon.
+Ziraj is untouched. Doom Raiders **Ziraj's Last Hunt** needs him alive, and Ardragon's favor in that mission depends on it. The divided-loyalty theme is lost, and the Cassalanter thread takes its place. The mission also leaves out any claim about why the household wanted the witnesses silenced. Nobody in it knows, and the Cassalanters stay suspected and never convicted. The four-day deadline is invented to give the fourth target a clock. The Watch's protection is a promise to keep Vhaspar alive until trial, not a pardon.
 
 ## Invented Names and Open Items
 
 The following are new and have no Notable Figures pages. Vhaspar, Yander and Halek are voiced from the event text.
 
 - Vhaspar Coldwater, Halek Farran and Yander Coirn, kept from the earlier drafts.
-- Dorrin Teague, the fourth target.
+- Hollen Brask, the fourth target. He replaces the first draft's Dorrin Teague, which collided with Halvard Teague in M2 and Dorrin Estrel in Force Grey.
 - Pell Street, Chandler Street, the North Ward Watch house and the unnamed smokehouse on the quay.
 
 Items for the out-of-scope log:
