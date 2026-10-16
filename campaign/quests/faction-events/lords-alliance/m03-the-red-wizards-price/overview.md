@@ -1,31 +1,85 @@
-# Lords' Alliance Mission 3 — The Red Wizard's Price
+# The Red Wizard's Price: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> Requires Lords' Alliance Renown 4 and 4th level. Available after Mission 2 is complete.
+> Becomes available when an individual Lords' Alliance member reaches Renown 5 and 4th level, after **The Exile's Return**. Companions can help with everything except Jalester's brief and debrief, which only members attend.
 >
 > #### Difficulty
 > *An adventure for 4th-level characters.*
 >
-> #### Milestone Overview
-> This mission awards no Milestone Points.
+> The only fight is Esloon Bezant, who uses the unmodified 2024 **Mage** block alone at every party size and withdraws once he is hurt. His crew of five **Tough** fighters is an optional second wave, and Sarvos Miln uses the **Spy** block and flees. The **Lords' Alliance Mechanics Reference** audits the rosters for three, four and five characters.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points. Renown goes to the individual Lords' Alliance members who report to Jalester.
+
+## Hook
+
+At noon Jalester Silvermane comes to Trollskull Manor himself and refuses a chair. The Splinter, the Black Network's other cell, is buying a Thayan wizard's crew tonight at the Skewered Dragon. Jalester wants the deal dead before the two sides shake hands.
+
+## Background
+
+Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Harko Taken Alive** in **The Exile's Return**, Jalester also holds the sealed Watch file that came out of Harko's custody. **Thayan File Obtained** is marked with it.
+
+> [!gamemaster]**What Is Actually True**
+>
+> - Sarvos Miln, the Splinter's broker, offers Esloon 1,000 gp and a standing arrangement. The Splinter means to use the crew once and drop it.
+> - The Skewered Dragon belongs to the Splinter, so the landlord helps nobody and a question about the Holvar booking warns Sarvos.
+> - Jalester sends no Guards and asks for no favors from the Watch. Nobody in the Event names the Splinter's master, whether or not **Manshoon Named** is marked.
+> - Esloon is Neutral and has no loyalty to the Splinter, and he will leave it for an offer that looks real.
+
+## The Brief
+
+Jalester gives the members the job in the taproom of Trollskull Manor at noon, standing. He has the tavern, the night and the name Holvar, and he wants the deal dead before the handshake tonight. It must leave no trace back to the Alliance. Companions wait in the kitchen.
+
+## Finding the Meet
+
+Three independent leads each give the room and the hour. Tam Ferrow, the pot-boy, sells what he saw for 5 sp, and the shuttered side window on Dock Lane shows a card with the booking on it. A cookshop on Net Street sends Esloon's supper to the back room at ten past seven, and asking at the bar warns the Splinter.
+
+## Seven Bells
+
+Esloon arrives at ten to seven, Sarvos at seven, and the handshake comes at half past. Steel or spells in the building bring a Watch patrol at the end of the fourth round, and each character found in the taproom pays a 25 gp fine.
+
+## The Back Room
+
+Esloon sits alone with his back to the wall until Sarvos joins him. He names his price before his service, touches the marks on his scalp when Thay is mentioned and will not say why he left.
+
+## Four Ways to End It
+
+The party can break up the meeting and fight Esloon, or hand him to a Watch sergeant with the sealed file. It can turn him with a forged letter, a warning or a 500 gp bribe, or take Sarvos on the street or at the Dock Lane door. Esloon withdraws with *Misty Step* and *Invisibility* once he has taken 31 damage or the third round has ended. Taking Sarvos alive also puts the Fillet Lane checkpoint in the party's hands.
+
+## What Esloon Wants
+
+Whenever a character faces Esloon, he asks whether there is another offer, from whoever decides these things. The question is the heart of the mission, and the party can carry it to Jalester.
+
+## Renown Opportunities
+
+Each participating Lords' Alliance member gains 3 base Renown for reporting to Jalester at the corner table beside the Yawning Portal's well. Each eligible member also gains the following bonuses when the party meets their conditions:
+
+- **+1 Renown:** the deal is scuttled before Esloon and Sarvos shake hands.
+- **+1 Renown:** Sarvos is taken alive and the checkpoint on Fillet Lane is named.
+- **+1 Renown:** Esloon's question is carried to Jalester.
+
+Companions who are not Lords' Alliance members gain no Renown, and each bonus can be earned only once.
+
+## Aftermath
+
+**Splinter Deal Scuttled**, **Sarvos Captured** and **Esloon Question Delivered** are read by **Faction Outposts** (unconverted). **Esloon Question Delivered** is also read by the Background of **An Audience with the Open Lord**. **The Archer Above** becomes available when an individual Lords' Alliance member reaches Renown 8 and 5th level.
 
 ## Involved Characters
-- **Jalester Silvermane** (Lords' Alliance) — field agent; arrives at Trollskull Manor moving faster than usual; the speed tells the party this is more urgent than his usual style
-- **Esloon Bezant** (independent) — exiled Red Wizard of Thay; operates a crew of eight in the Dock Ward; pragmatic and survival-oriented; will ask whether there is a real offer from whoever decides these things
-- **Sarvos Miln** (Manshoon Splinter) — Splinter fixer handling contractor recruitment in the Dock Ward; the other half of the deal the party must kill; captured, he confirms the Watch checkpoint strike
-- **Veralax** (Manshoon Splinter; off-screen if Mission 2 resolved it) — previously identified fixer; his absence from the Splinter's usual support structure is visible if the party looks
+
+- **Jalester Silvermane** (Lords' Alliance): briefs the members at noon and hears the report at the well table.
+- **Esloon Bezant** (Independent): a Thayan exile and Neutral Mage who weighs the Splinter's offer and asks for another.
+- **Sarvos Miln** (the Splinter): the Splinter's broker, a Spy who flees when a fight starts.
+- **Dunmar Crale** (Independent): the leader of Esloon's crew, who guards the passage to the back room.
+- **Rovan Skell** (the Splinter): the landlord of the Skewered Dragon, who refuses every question.
+- **Cutter** (the Splinter): a Bandit who watches the door and warns Sarvos.
+- **Tam Ferrow** and **Yarra Moss** (Independent): the pot-boy and the cookshop owner who sell what they know.
+- **Deneth Pike** (City of Waterdeep): the Dock Street patrol sergeant who can take Esloon in with the sealed file.
 
 ## Dangers & Enemies
-**Esloon Bezant** (modified Mage stat block: Arcane Recovery replaced by a once-per-day *Counterspell* as a Reaction without spending a spell slot) with six Thugs and two Veterans. **Sarvos Miln** (Spy stat block) has two Bandit watchers at the Skewered Dragon's taproom. Esloon fights if directly confronted; Sarvos flees through the private room's Dock Lane exit when violence starts.
+
+Esloon Bezant uses the **Mage** block from the 2024 *Monster Manual* and fights alone, with three Arcane Bursts, one area spell at most and *Protective Magic*. His five **Tough** fighters are a separate optional wave, and Sarvos uses the **Spy** block. The Watch patrol is the real clock, and Esloon leaves rather than lose the fight.
 
 ## Overview
 
-Jalester arrived at Trollskull Manor moving faster than usual and delivered the mission without sitting down. The Zhentarim — Manshoon's faction, not Davil's — were courting a Red Wizard named **Esloon Bezant**. The deal was muscle for an operation Jalester didn't fully understand yet, but the operation was tonight, and the faction running it was not the kind you could negotiate with after the fact. He needed the deal killed before it concluded. He didn't care how.
-
-**Esloon Bezant** was a Thayan exile who had built something in the Dock Ward — not legitimate, but real. He had a crew of eight and an outstanding Thayan warrant that carried no weight in Waterdeep. The Manshoon Splinter fixer meeting him was **Sarvos Miln**, recruiting Esloon's crew for a coordinated strike on a Dock Ward Watch checkpoint that would create a window for a Splinter cargo movement to Baldur's Gate. The meeting was already underway at the Skewered Dragon Tavern's private dining room when Jalester briefed the party.
-
-Four approaches were available: disrupt the meeting directly, expose Esloon to a Watch patrol, turn Esloon against the deal by offering something the Splinter couldn't, or neutralize Sarvos from the other direction. Any one of them would work. The party had roughly thirty minutes before the meeting concluded.
-
-The thing Jalester hadn't anticipated was Esloon asking a direct question mid-negotiation: was there an offer from the Alliance that was something more than being used and discarded at their convenience? He was not asking for reassurance. He was asking whether the math could be made to work differently.
+Jalester asks the party to end a Splinter deal with a Thayan wizard at a Dock Ward tavern before it is sealed tonight. The party has an evening to find the room and choose how.
