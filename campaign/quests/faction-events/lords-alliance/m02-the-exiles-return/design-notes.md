@@ -1,21 +1,26 @@
 # Design Notes: The Exile's Return
 
-## Lira and the Quiet Test
+## What the Source Gave
 
-***The mission's real evaluation.*** Jalester's instruction to handle this "quietly" is a test of operational maturity as much as a tactical preference. The party that kills Harko in an empty warehouse and walks away clean has satisfied the letter of the mission. The party that does the same thing but then threatens a witness into silence has demonstrated something Jalester notes in the negative column and does not forget.
+Appendix C's LA-2 and the WDH row supply the order, "Find him and quietly put him to the sword", and Jalester's "Quietly." Harko is a fifty-year-old Bandit Captain who was exiled for bribing a magistrate. He has two kenku, a cipher note naming K at the Terasse Estate, and a Muleskull server who sees what the party does. The source names three ways to find him: a fencewoman on Net Street, a retired pilot at the Muleskull and a night worker. Its dramatic question is what "quietly" means to a party that meets a witness.
 
-Lira is designed to be ordinary. She is not a faction asset, not a planted evaluation tool, and not a character with hidden significance. She is a person who works evenings and came out the wrong door at the wrong time. Her presence is a reminder that the party operates inside a city full of people, and that "quiet" is not just about volume — it is about whether civilians become complications or not.
+## What Changed
 
-The three resolution paths for Lira are calibrated to feel like real choices rather than a skill check with obvious correct answers. Honesty is correct. Lying works but has costs. Threats work and have worse costs. None of these requires the DM to adjudicate Lira's alignment or moral weight — she is making a practical overnight decision about whether filing a Watch report is worth the trouble, based on whether the people in that alley gave her reason to trust or distrust them.
+The three source leads replace the draft's chain of eight-hour Investigation checks with a three-failure counter. Each lead alone names the warehouse, and a failed check delays a lead by a day for a small payment, which satisfies the Three Clue Rule without stranding the party. Jalester briefs in person in a closed room, one of the four deliberate breaks from the well table. The debrief is at the well.
 
-## The Two-Sided Man
+The draft's "harder assignments" are replaced by a stated cost. A job that goes loud, from a patrol or from Lira's report, spends the Overlook and String-Pulling that **Redknife** and **Cloak** would otherwise give, for a tenday, or two if Lira was threatened. The Watch Escort is never available on this job. The surrender at 26 Hit Points is the turn of the mission, with kill, hand over and release each leaving a different outcome.
 
-***Harko as a structural device.*** Harko's dual-agency is the mission's mechanical payload and its secondary moral dimension. He is working two sides because it is the only leverage available to someone in his position — exiled, illegal, without institutional protection. His willingness to trade Veralax's identity for Watch custody is not a betrayal of principle; he never had principle as a stabilizing force. He is a pragmatist who correctly reads that Watch custody is better than whatever happens if the Splinter learns he tried to cut a side deal with them and then got caught by a rival faction's operatives.
+## Departures from the Source
 
-His surrender at half HP is not cowardice. It is the same pragmatism. He does not die for either faction paying him. This is true of most people who work at Harko's level of the city's underworld, and the mission is designed to make that legible rather than heroic or contemptible.
+Harko does not "refuse to surrender" as the source says. His surrender is what the roster design and the brief both depend on. The fight is in a rope warehouse in Mudwagon Court, behind the Muleskull, so that Lira's back door stays close, and the draft's backup location on Wharf Mast Lane is cut. The draft's "either" order is restored to the sword. The Veralax payoff, a missing Splinter liaison at **Faction Outposts**, is dropped because nothing reads it. The Thayan file now comes from Harko's account of the broker, and not from a sealed Watch bundle.
 
-## Veralax and the Faction Outposts Thread
+## Invented Names and Open Items
 
-***Planting the Splinter's Dock Ward presence.*** Veralax is a minor but structurally useful plant. If the party reports him to Jalester, Watch surveillance dismantles one Splinter communication channel before **Faction Outposts** begins — and when the party encounters the Splinter response team in **Faction Outposts**, one position is noticeably understaffed. This is a small but concrete reward for doing the investigative work correctly: the world is measurably different because they identified and reported an actionable address.
+Invented here: Marit Oake, Halvard Teague, Ibb Marsh, Rannick Lane and the glover's shop, Mudwagon Court (the draft had Mudwagon Row), the Tarred Rope on Dock Street, the Coin Alley crossing and the sail loft as targets in the cipher note, and the "every third day" meeting. Kylynne Silmerhelve, Veralax and Lira are draft names and have no Notable Figures pages, so they are voiced from the event text. Sarvos Miln appears here only through Harko's description.
 
-The Thayan intelligence file — received if Harko is taken to Watch custody — is the other downstream payload. It seeds Mission 3 by giving the party a two-point reduction on locating Esloon. Both rewards exist to demonstrate that thoroughness has compounding value: not just renown on completion, but tangible advantages several missions later.
+Items for the out-of-scope log:
+
+- The Esloon Bezant page lists him as featured in this mission, but he appears here only through a file, so the listing belongs to **The Red Wizard's Price**.
+- **Faction Outposts** (unconverted) must read **Terasse Cipher Taken** as a fourth path to the eastern staircase on Elsambul's Lane, and **Harko Taken Alive** for the Guild's Dock Ward crews.
+- Silmerhelve is also a Waterdhavian noble name, and the draft's use of it as a magistrate is kept.
+- The mechanics reference lists no Overlook or String-Pulling cost, so the "job went loud" rule is this event's own. The Redknife event and the First Meeting should read it as a use of the once-per-tenday limits.
