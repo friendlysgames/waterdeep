@@ -16,9 +16,9 @@
 > [!gamemaster]**What Is Actually True**
 >
 > - Vhaspar Coldwater is a retired Watch sharpshooter of fifty-seven who served twenty years in the Dock Ward. He now takes private contracts, and he owes no loyalty to the client who hired him.
-> - Halek Farran is a hired agent working a household errand for the Cassalanters, a neat man in his fifties who smells of cedar and turns his signet ring inward. He is not villa staff, and he pays Vhaspar through an agency, a written note and a drop box.
+> - Halek Farran is a hired agent working a household errand for the Cassalanters. He is a neat man in his fifties who smells of cedar and turns his signet ring inward, and he is not villa staff. He pays Vhaspar through an agency, a written note and a drop box.
 > - The three dead people saw a fence the household had hired buy goods from a broker. The household wanted no witnesses, and Halek gave Vhaspar 400 gp for the three killings.
-> - Vhaspar has killed every fifth night, and the last killing was last night. The fourth target is a Dock Ward longshoreman named Dorrin Teague, and the next killing falls on the fifth night after the brief.
+> - Vhaspar has killed every fifth night, and the last killing was last night. The fourth target is a Dock Ward longshoreman named Hollen Brask, and the next killing falls on the fifth night after the brief.
 > - If Vhaspar dies, or if the cleaners reach him before the party does, Halek leaves Waterdeep within 48 hours and nobody names him.
 > - Nobody in this Event knows why the household wanted the witnesses silenced. Jalester, Saeth and Vhaspar speak only of a family matter and a rich house that is too well liked to be clean.
 > - Jalester sends no Guards and asks for no string-pulling. He wants the Alliance's name kept out of every Watch report.
@@ -60,7 +60,7 @@ Jalester waits at the corner table beside the well at dusk on the first evening 
 
 > [!qna]**Who are the dead?**
 >
-> Jalester turns a page in the notebook.
+> Jalester turns a page in the notebook and reads the three names to himself before he answers.
 >
 > > "A candle-seller, a clerk from a Sea Ward counting-house and a woman who sold ribbons. Nothing joins them that I can find, and none of them had an enemy. I think they saw something they should not have, and someone paid to make sure they never spoke."
 
@@ -94,7 +94,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 
 > [!exploration]**The Linen Merchant**
 >
-> Any character who canvasses the shops along Tarnath Street and makes a successful **DC 13 Intelligence (Investigation)** check finds a linen merchant who saw a grey-haired man walk into Yander's Feed Store on Pell Street a week ago. The merchant says he walks like a soldier and carries a long roll of canvas. He has come and gone at odd hours since then.
+> Any character who canvasses the shops along Tarnath Street and makes a successful **DC 13 Intelligence (Investigation)** check finds a linen merchant. The merchant saw a grey-haired man walk into Yander's Feed Store on Pell Street a week ago. He says the man walks like a soldier and carries a long roll of canvas, and he has come and gone at odd hours since then.
 >
 > - **On a failure:** The shopkeepers shrug and send the character to the chandlers. The same character can try again after an hour and a 1 gp purchase, or the party can follow another lead.
 
@@ -118,7 +118,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 
 > [!qna]**A grey-haired man with a long canvas roll?**
 >
-> Saeth scratches his chin.
+> Saeth scratches his chin and looks at the ceiling for a moment before he answers.
 >
 > > "Well, shit, that's a Watch walk. Twenty years of marching teaches a man to carry his shoulders like that, and the canvas is a bow case. He'll want a high room with a north view and a roof door. Try the feed stores on Pell Street, because Yander's lets rooms over the loft and never asks a name."
 
@@ -132,7 +132,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 >
 > - **Across the street:** The feed store's top shutter stands open at a fixed angle that lets a man see the street without being seen. A window left that way on purpose confirms the building.
 
-A member who has already reached **Stingblade** can instead read the Watch's Archer case file in one hour, which gives the same three killings by heavy crossbow, the shot angles and the north window. That is a free fourth lead.
+A member who has already reached **Stingblade** can instead read the Watch's Archer case file in one hour. The file gives the same three killings by heavy crossbow, the shot angles and the north window, and it serves as a free fourth lead.
 
 ### Yander's Feed Store
 
@@ -144,7 +144,7 @@ A member who has already reached **Stingblade** can instead read the Watch's Arc
 
 > [!social]**The Man Behind the Counter**
 >
-> Yander Coirn (Neutral, Human, he/him) :: the nervy proprietor of Yander's Feed Store, who rents his top room to a man he knows as Belvor and wants no trouble.
+> Yander Coirn (Neutral, Human, he/him) :: the nervy proprietor of Yander's Feed Store, who rents his top room to a man called Belvor.
 >
 > Yander is Indifferent and sweats when pressed. He rented the room a week ago for a tenday in silver, and he has not asked what is in the canvas roll. He is not afraid of Belvor, but he is afraid of the Watch closing his shop. He answers quickly once someone tells him no one will be hurt in his building.
 >
@@ -162,7 +162,7 @@ A member who has already reached **Stingblade** can instead read the Watch's Arc
 
 > [!qna]**Can we go up?**
 >
-> Yander looks at the stair and then at the door.
+> Yander looks at the stair, then at the door, and lowers his voice before he answers.
 >
 > > "If you're the Watch, I'll let you up and pretend I never saw you. If you're not, I'd sooner you waited until he's out, because he keeps a rope on that window and I don't want anyone hurt in my building."
 
@@ -170,9 +170,9 @@ A member who has already reached **Stingblade** can instead read the Watch's Arc
 >
 > The party can combine these, and each leaves the others open.
 >
-> - **The stairs:** A character who leads up the inner stair and makes a successful **DC 13 Dexterity (Stealth)** check reaches the door unheard. On a failure a board cracks, and Vhaspar goes out of the window. The chase begins with the party on the roof behind him.
-> - **The supper tray:** A character who makes a successful **DC 12 Charisma (Persuasion)** check persuades Yander to carry up Belvor's evening tray, with the party waiting out of sight on the landing. Vhaspar opens the door with his hands full, and no check is needed to catch him. On a failure Yander refuses, and the party uses another way.
-> - **The door:** A character who kicks it in or opens it without warning finds Vhaspar already at the window. The chase begins at once.
+> - **The stairs:** A character who leads up the inner stair and makes a successful **DC 13 Dexterity (Stealth)** check reaches the door unheard. On a failure a board cracks, and Vhaspar goes out of the window with the party on the roof behind him.
+> - **The supper tray:** A character who makes a successful **DC 12 Charisma (Persuasion)** check persuades Yander to carry up Belvor's evening tray. The party waits out of sight on the landing, and Vhaspar opens the door with his hands full, so catching him needs no check. On a failure Yander refuses, and the party uses another way.
+> - **The door:** A character who kicks it in or opens it without warning finds Vhaspar already at the window, and the chase begins at once.
 
 ### The Room
 
@@ -188,7 +188,7 @@ Read the following aloud when the party reaches Vhaspar at his table, by the sta
 >
 > Vhaspar Coldwater (Neutral, Human, he/him) :: a retired Watch sharpshooter of fifty-seven, grey-haired and tired, who sells his skill and does not pretend to be sorry.
 >
-> Vhaspar is Indifferent and practical, and he talks in short plain sentences. He is not confessing. He is offering a trade, and he wants a guarantee that the Watch will keep him alive. He swears once at most, and only about the client. He wants nothing from the party except that guarantee.
+> Vhaspar is Indifferent and practical, and he talks in short plain sentences. He is not confessing but offering a trade, and he wants a guarantee that the Watch will keep him alive. He swears once at most, and only about the client.
 >
 > Vhaspar is willing to discuss the following topics:
 >
@@ -203,7 +203,7 @@ Read the following aloud when the party reaches Vhaspar at his table, by the sta
 >
 > > "A guarantee the Watch keeps me alive until I stand before a magistrate. The man who hired me will have me killed the moment he hears I've been taken. You have a name that can promise it, or you don't."
 
-Jalester's card is enough. A character who shows it and says the Watch will hold him on Jalester's word persuades Vhaspar without a check. A character who has no card, or who will not promise, can make a **DC 14 Charisma (Persuasion or Intimidation)** check instead. On a failure Vhaspar says nothing about Halek until a character fetches Jalester's name.
+Jalester's card is enough: a character who shows it and says the Watch will hold him on Jalester's word persuades Vhaspar without a check. A character who has no card, or who will not promise, can make a **DC 14 Charisma (Persuasion or Intimidation)** check instead. On a failure Vhaspar says nothing about Halek until a character fetches Jalester's name.
 
 ### The Chase
 
@@ -215,7 +215,7 @@ Read the following aloud when Vhaspar goes out of the window:
 
 > [!hazard]**The Chase Over the Roofs**
 >
-> The chase is a clock. Vhaspar knows these roofs, and the **Escape Track** runs from 0 to 6 and begins at 2.
+> The chase is a clock, because Vhaspar knows these roofs. The **Escape Track** runs from 0 to 6 and begins at 2.
 >
 > - **Each round:** The track rises by 1 as Vhaspar Dashes over roofs he has used for weeks. Then every pursuing character makes one chase check, **DC 13 Strength (Athletics) or Dexterity (Acrobatics)**.
 > - **Falling:** For every two successes the track falls by 1, to a maximum fall of 2 a round.
@@ -223,21 +223,21 @@ Read the following aloud when Vhaspar goes out of the window:
 > - **The route:** A pursuer who has Saeth's roofline or the Watch's Archer case file makes the check with Advantage.
 > - **Return fire:** When the track is 2 or lower, Vhaspar turns once a round and fires his Heavy Crossbow at a pursuer (+3, 12 piercing). He does not otherwise attack.
 >
-> The track decides how the chase ends.
+> The track decides how the chase ends:
 >
 > - **Track 0:** He is cornered on a roof edge or in a dead-end loft. He surrenders if a character offers Watch protection, and otherwise he fights as described in **When the Party Attacks Him**.
 > - **Track 6:** He drops to the lane and reaches his bolt hole, a salt-fish smokehouse on the Dock Ward quay that belongs to no faction. The party loses him for a night, as described in **The Smokehouse**.
-> - **A failure costs time and never the mission.** Two other leads still reach the smokehouse.
+> - **Failure:** A failed chase costs time and never the mission, because two other leads still reach the smokehouse.
 
 ### The Smokehouse
 
 If the track reaches 6, Vhaspar spends the night in a smokehouse on the quay, behind a stack of salt barrels. The Skewered Dragon is not his hiding place, because the Splinter would sell him to whoever paid. A lead the party has not used finds the smokehouse at dawn.
 
 - **The Linen Merchant's canvass:** The shopkeepers on the quay say a grey-haired man bought two loaves and a jug before closing. A character who asks along the quay and makes a successful **DC 12 Intelligence (Investigation)** check is sent to the smokehouse.
-- **Saeth Cromley:** He names the smokehouse from the Watch's old list of places where a man can hide a bow case. A character who asks him needs no check.
-- **The Archer case file:** The file lists the three shot lines and the quay rooftops in range, which gives the smokehouse in an hour. A member with **Stingblade** can read it.
+- **Saeth Cromley:** He names the smokehouse from the Watch's old list of places where a man can hide a bow case, and a character who asks him needs no check.
+- **The Archer case file:** The file lists the quay rooftops in range of the three shot lines and gives the smokehouse in an hour. A member with **Stingblade** can read it.
 
-Halek's cleaners reach Vhaspar within 48 hours of the chase. A party that arrives after that finds him dead and the room empty. In that case **Halek Farran Named** is never marked, and Halek leaves Waterdeep.
+Halek's cleaners reach Vhaspar within 48 hours of the chase. A party that arrives after that finds him dead and the room empty, so **Halek Farran Named** is never marked and Halek leaves Waterdeep.
 
 > [!readaloud]
 >
@@ -247,7 +247,7 @@ Halek's cleaners reach Vhaspar within 48 hours of the chase. A party that arrive
 
 ### When the Party Attacks Him
 
-If the party attacks Vhaspar in the room, or the chase ends at Track 0 and he refuses to surrender, he has the hired hands Halek left to watch the door. They climb to the roof or the loft in round 2.
+This fight happens if the party attacks Vhaspar in the room, or if the chase ends at Track 0 and he refuses to surrender. Halek left hired hands to watch the door, and they climb to the roof or the loft in round 2.
 
 > [!hazard]**Vhaspar Coldwater**
 >
@@ -263,14 +263,14 @@ If the party attacks Vhaspar in the room, or the chase ends at Track 0 and he re
 > During combat, Vhaspar:
 > - Fires Heavy Crossbow volleys at the nearest armed character, and uses Parry only against melee hits.
 > - Surrenders at 32 hit points or fewer if Watch protection is on the table. He calls out "Hold it, I'm done" and drops the crossbow.
-> - Dashes out through a skylight or the window if he has a clear way out and no one has offered protection, and the Escape Track restarts at 3.
+> - Dashes out through a skylight or the window if he has a clear way out and no one has offered protection. The Escape Track then restarts at 3.
 > - Leaves the hired hands to cover him, and they break when he surrenders or drops.
 >
 > The fight ends when Vhaspar surrenders, falls or reaches a roof that no pursuer can follow. He does not pursue the party into the street.
 >
-> The non-combat route is an offer made on the party's first turn. A character who shows Jalester's card and makes a successful **DC 13 Charisma (Persuasion)** check persuades Vhaspar to lower the crossbow, and the hired hands scatter. On a failure the fight goes ahead, but Vhaspar surrenders at the usual threshold.
+> The non-combat route is an offer made on the party's first turn. A character who shows Jalester's card and makes a successful **DC 13 Charisma (Persuasion)** check persuades Vhaspar to lower the crossbow, and the hired hands scatter. On a failure the fight goes ahead, and Vhaspar surrenders at the usual threshold.
 
-If Vhaspar dies, **Halek Farran Named** is not marked, Halek leaves Waterdeep within 48 hours and no dossier is compiled. Dorrin Teague is warned or not as described in **The Fourth Name**.
+If Vhaspar dies, **Halek Farran Named** is not marked and Halek leaves Waterdeep within 48 hours. No dossier is compiled, and Hollen Brask is warned or not as described in **The Fourth Name**.
 
 ### Vhaspar's Bargain
 
@@ -290,7 +290,7 @@ With Watch protection promised, Vhaspar talks freely. He answers each question o
 
 > [!qna]**Who is the fourth?**
 >
-> > "A longshoreman named Dorrin Teague. I haven't touched him. His sketch is in my coat with the name on the back. Warn him, if you like, because I don't want that one."
+> > "A longshoreman named Hollen Brask. I haven't touched him. His sketch is in my coat with the name on the back. Warn him, if you like, because I don't want that one."
 
 > [!qna]**Will you say this to a magistrate?**
 >
@@ -298,27 +298,27 @@ With Watch protection promised, Vhaspar talks freely. He answers each question o
 
 ### His Belongings
 
-Vhaspar's coat and bow case hold a sketch of a Dock Ward longshoreman with his name on the back, 320 gp in a leather purse, and a scrap of paper that reads "...ilanter Villa, Sea Ward, side entrance gate". Vhaspar did not read the scrap closely. It came with a second contract Halek offered and Vhaspar never took.
+Vhaspar's coat and bow case hold a sketch of a Dock Ward longshoreman with his name on the back and 320 gp in a leather purse. They also hold a scrap of paper that reads "...ilanter Villa, Sea Ward, side entrance gate". Vhaspar did not read the scrap closely, because it came with a second contract that Halek offered and Vhaspar never took.
 
 > [!exploration]**The Scrap**
 >
 > The party needs to connect the scrap to the Cassalanter family's villa in the Sea Ward. Three independent ways do it, and any one is enough.
 >
-> - **The check:** A character who studies the hand and the wording and makes a successful **DC 15 Intelligence (Arcana or Investigation)** check places "...ilanter" as the Cassalanter name and the Sea Ward villa. The phrase "side entrance gate" is operational. Someone wrote it for use.
-> - **Vhaspar:** A character who asks him about the second contract and makes a successful **DC 12 Charisma (Persuasion)** check hears that Halek called it "the family's side gate" and left it with him. Vhaspar adds that he took the ink for the Cassalanter name.
-> - **Saeth Cromley:** A character who shows him the scrap hears him say that the Watch posts a guard at the Cassalanter villa's service gate, and that every sergeant in the Sea Ward knows it. He adds that the household is generous and well liked, and he has never found the crack in it.
-> - **On a failure:** The scrap stays unplaced, and the other two ways stay open. A member with **Stingblade** can also read the Watch's household inquiries file, which holds three closed inquiries against one Sea Ward house and no suspicion.
+> - **The check:** A character who studies the hand and the wording and makes a successful **DC 15 Intelligence (Arcana or Investigation)** check places "...ilanter" as the Cassalanter name. The phrase "side entrance gate" is operational wording that someone wrote for use.
+> - **Vhaspar:** A character who asks about the second contract and makes a successful **DC 12 Charisma (Persuasion)** check hears that Halek called it "the family's side gate". Vhaspar adds that he took the ink for the Cassalanter name.
+> - **Saeth Cromley:** A character who shows him the scrap hears that the Watch posts a guard at the Cassalanter villa's service gate. Every sergeant in the Sea Ward knows it, and Saeth adds that the household is generous and well liked.
+> - **On a failure:** The scrap stays unplaced, and the other ways stay open. A member with **Stingblade** can also read the Watch's household inquiries file, which holds three closed inquiries against one Sea Ward house and no suspicion.
 
 > [!exploration]**The Fourth Name**
 >
-> The sketch shows a broad man in a tally clerk's hat on the Dock Ward quays, with "Dorrin Teague, Dock Ward hauler" on the back. Any character who asks at the haulers' shed on the quay finds him by mid-afternoon without a check. Teague believes the warning after he sees his own sketch.
+> The sketch shows a broad man in a tally clerk's hat on the Dock Ward quays, with "Hollen Brask, Dock Ward hauler" on the back. Any character who asks at the haulers' shed on the quay finds him by mid-afternoon without a check. Brask believes the warning once he sees his own sketch.
 >
 > - **Warned:** He spends a tenday with his sister in the Trades Ward and works under another name. A character who goes to the Watch house with him and tells the desk sergeant also gets him a patrol on his street.
-> - **Not warned by the fifth night:** A hired crossbow kills him. No one marks anything, and the loss counts against the third **+1 Renown** bonus.
+> - **Not warned by the fifth night:** A hired crossbow kills him, and the third **+1 Renown** bonus is lost.
 
 ### The Handover
 
-The party takes Vhaspar to the North Ward Watch house and shows the desk sergeant Jalester's card. Jalester arrives at the house within the hour whatever the time, and he must have Vhaspar by the evening of the fourth day. A party that arrives later has not abandoned the job if a chase or the smokehouse cost the time, and Jalester says so.
+The party takes Vhaspar to the North Ward Watch house and shows the desk sergeant Jalester's card. Jalester arrives within the hour whatever the time, and he wants Vhaspar by the evening of the fourth day. A party that arrives later has not abandoned the job if a chase or the smokehouse cost the time, and Jalester says so.
 
 > [!readaloud]
 >
@@ -334,7 +334,7 @@ If a member names the scrap as the Cassalanter villa's side gate and gives Jales
 >
 > > "A side gate on a Sea Ward house, written for someone who meant to use it. I will ask the Watch's Criminal Intelligence office to look at it discreetly, and I would like you to say nothing about this to anyone else. Come to my table in ten days, and I will have what they found."
 
-If the party has not placed the scrap by the time Jalester asks, he takes the inventory from the sergeant and reads it aloud. He says nothing about the address, and he repeats "Come to my table in ten days." A member can still name the scrap at the debrief.
+If the party has not placed the scrap by the time Jalester asks, he takes the inventory from the sergeant and reads it aloud without comment on the address. He repeats "Come to my table in ten days," and a member can still name the scrap at the debrief.
 
 ### Renown Opportunities
 
@@ -388,7 +388,7 @@ If Vhaspar died before the handover, read or paraphrase the following instead:
 >
 > - **+1 Renown:** Vhaspar is alive in Watch custody and has named Halek Farran, and **Halek Farran Named** is marked.
 > - **+1 Renown:** the address is identified as the Cassalanter villa and reported to Jalester, and **Villa Address Identified** is marked.
-> - **+1 Renown:** the fourth target, Dorrin Teague, is warned and alive at the debrief.
+> - **+1 Renown:** the fourth target, Hollen Brask, is warned and alive at the debrief.
 
 ### Aftermath
 
@@ -396,8 +396,8 @@ What happens next depends on whether Vhaspar lived and what the party told Jales
 
 - **Vhaspar alive:** He testifies before Magistrate Blastwind and goes to the cells for life, or to the rope. Halek Farran slips out of the Sea Ward within a day of the arrest, and the Watch never finds him.
 - **Vhaspar dead:** Halek leaves Waterdeep within 48 hours, and no one in the Alliance learns his name.
-- **The villa dossier:** If **Cassalanter Villa** has not run, the dossier gives the party a guard rotation at the service gate and rough dimensions of the outer wall. If it has run, the dossier adds nothing but the Renown bonus, and Jalester says he has nothing to add.
-- **Dorrin Teague:** If warned, he returns to the quay after a tenday and does not speak of it. If not, he is dead, and the Watch records another killing from above.
+- **The villa dossier:** If **Cassalanter Villa** has not run, the dossier gives the party a guard rotation at the service gate and rough dimensions of the outer wall. If it has run, the dossier adds only the Renown bonus.
+- **Hollen Brask:** If warned, he returns to the quay after a tenday and does not speak of it. If not, he is dead, and the Watch records another killing from above.
 - **The Cassalanters:** Nobody in the household learns that the party has the address. The family keeps its name and its charity, and the party has only a name and a gate.
 
 ### Concluding the Event

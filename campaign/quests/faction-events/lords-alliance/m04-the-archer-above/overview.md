@@ -18,32 +18,32 @@ At dusk Jalester Silvermane waits at the corner table beside the Yawning Portal'
 
 ## Background
 
-Vhaspar Coldwater is a retired City Watch sharpshooter of fifty-seven who served twenty years in the Dock Ward. He now takes private contracts, and he has killed three people with a heavy crossbow from high windows in twelve days. A hired agent named Halek Farran paid him 400 gp through a hiring agency, a written note and a drop box, and met him once in a coffeehouse on Chandler Street.
+Vhaspar Coldwater is a retired City Watch sharpshooter of fifty-seven who served twenty years in the Dock Ward. He now takes private contracts, and he has killed three people with a heavy crossbow from high windows in twelve days. A hired agent named Halek Farran paid him 400 gp through a hiring agency, a written note and a drop box. They met once, in a coffeehouse on Chandler Street.
 
-The three dead people saw a fence hired by the Cassalanter household buy goods from a broker. Halek is not villa staff, and Vhaspar does not know why the household wanted them silenced. Jalester has no suspect and no motive. He knows only that the dead had nothing in common except what they saw.
+The three dead people saw a fence hired by the Cassalanter household buy goods from a broker. Halek is not villa staff, and Vhaspar does not know why the household wanted them silenced. Jalester has no suspect and no motive, and he knows only that the dead had nothing in common.
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Vhaspar has a fourth name on his list, a Dock Ward longshoreman named Dorrin Teague, and he has not acted on it.
+> - Vhaspar has a fourth name on his list, a Dock Ward longshoreman named Hollen Brask, and he has not acted on it.
 > - Halek is a hired agent working a household errand for the Cassalanters. Nobody in this mission knows why the household wanted silence, and the party can only suspect.
 > - If Vhaspar dies, Halek leaves Waterdeep within 48 hours and the party learns no name.
 > - A scrap of paper in Vhaspar's coat reads "...ilanter Villa, Sea Ward, side entrance gate". It came with a second contract that Vhaspar never took.
 
 ## The Brief
 
-Jalester briefs the members at the well table in the evening. He gives the deadline, hands over a card that opens the Watch house cells and says that the shooter must be taken alive. Companions sit at the bar.
+Jalester briefs the members at the well table in the evening, while the companions sit at the bar. He gives the deadline, hands over a card that opens the Watch house cells and says that the shooter must be taken alive.
 
 ## Three Ways to Pell Street
 
-The party has a district and no door. Three independent leads each name Yander's Feed Store on Pell Street: a linen merchant on Tarnath Street, the retired sergeant Saeth Cromley, and the angles of the three shots on Jalester's map. A member who has reached **Stingblade** has a fourth lead in the Watch's case file.
+The party has a district and no door. Three independent leads each name Yander's Feed Store on Pell Street. They are a linen merchant on Tarnath Street, the retired sergeant Saeth Cromley and the angles of the three shots on Jalester's map. A member who has reached **Stingblade** has a fourth lead in the Watch's case file.
 
 ## Yander's Feed Store and the Room
 
-Yander Coirn rents the top room to a man he knows as Belvor. The party can climb the stairs quietly, persuade Yander to carry up the supper tray, or burst in. A quiet approach catches Vhaspar at his table with his hands raised.
+Yander Coirn rents the top room to a man he knows as Belvor. The party can climb the stairs quietly, persuade Yander to carry up the supper tray, or burst in, and a quiet approach catches Vhaspar at his table with his hands raised.
 
 ## The Chase
 
-A loud approach sends Vhaspar over the rooftops. The chase is a clock called the Escape Track, and each round he gains ground while the pursuers' checks pull him back. At Track 0 he is cornered and surrenders. At Track 6 he reaches a salt-fish smokehouse on the quay, and the party has until Halek's cleaners arrive to find him.
+A loud approach sends Vhaspar over the rooftops. The chase is a clock called the Escape Track, and each round he gains ground while the pursuers' checks pull him back. At Track 0 he is cornered and surrenders, and at Track 6 he reaches a salt-fish smokehouse on the quay. The party then has until Halek's cleaners arrive to find him.
 
 ## When the Party Attacks Him
 
@@ -55,7 +55,7 @@ Vhaspar names Halek Farran once Watch protection is promised. His coat holds a s
 
 ## The Fourth Name
 
-Dorrin Teague is working the Dock Ward quays. The party can warn him, and a warned Teague hides for a tenday.
+Hollen Brask is working the Dock Ward quays. The party can warn him, and a warned Brask hides with his sister for a tenday.
 
 ## The Handover and the Debrief
 
@@ -82,7 +82,7 @@ Vhaspar testifies before Magistrate Blastwind, and Halek Farran vanishes from th
 - **Halek Farran** (Cassalanter household): a hired agent who paid Vhaspar on a household errand and vanishes if Vhaspar dies.
 - **Yander Coirn** (Independent): the feed store's proprietor, who rents his top room to Belvor and wants no trouble.
 - **Saeth Cromley** (City of Waterdeep): a retired Watch sergeant who recognises the shooter's walk and knows the roofs.
-- **Dorrin Teague** (Independent): a Dock Ward hauler on Vhaspar's list who must be warned.
+- **Hollen Brask** (Independent): a Dock Ward hauler on Vhaspar's list who must be warned.
 
 ## Dangers & Enemies
 
