@@ -6,7 +6,7 @@ Each Redknife benefit is a per-member procedure with a contact, a notice rule, a
 
 ## What Changed From the Source
 
-The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap: the overlook is an officer's choice on the street before anything is written, and the string removes a charge or report after it is on paper. The Watch patrol schedules that the Factions Guide lists at Renown 3 are delivered by the First Meeting as the patrol note, so this Event does not repeat them.
+The draft gave every benefit as a speech with no limits, no contact and no counters. The old text sent notes "through the usual drop" without saying where the drop was, so the escort now runs through Durnan. The Cloak overlook and the string no longer overlap. The overlook is an officer's choice on the street before anything is written. The string removes a charge or report after it is on paper. The Factions Guide lists the Watch patrol schedules at Renown 3. The First Meeting already delivers them as the Cloak's patrol note, so this Event does not repeat them.
 
 ## Reading by Other Events
 
@@ -14,7 +14,14 @@ Bregan D'aerthe **Three Nights** puts two Guards at the manor door at the start 
 
 ## Invented Names and Open Items
 
-Invented: the Watch runner and his noon note, the tin whistle with a notch, Odette Brandle at 9 Quillmakers' Court, Garrick Tull at 14 Ironwick Lane, the phrase "Rain by morning", the twelve-hour limits on the errand and on Jalester's reply, and the 25 gp fine ceiling. Sevel Dastar is a human in a plain coat, because his Notable Figures page and voice profile do not exist yet, and he has no social block for the same reason. The Trades Ward address is not checked against Kolat Towers' exact street. The Event says only that neither house stands near it, and the main session should confirm.
+Invented:
+- The Watch runner and his noon note, and the tin whistle with a notch.
+- Odette Brandle at 9 Quillmakers' Court, and Garrick Tull at 14 Ironwick Lane.
+- The phrase "Rain by morning".
+- The twelve-hour limits on the errand and on Jalester's reply, and the 25 gp fine ceiling.
+- Sevel Dastar as a human in a plain coat. His Notable Figures page and voice profile do not exist yet, so he has no social block.
+
+Kolat Towers stands in the Southern Ward, so the Trades Ward house on Ironwick Lane is not near it.
 
 For the out-of-scope log:
 - Bregan D'aerthe `m03-three-nights/ev-01-three-nights.md:226` and Doom Raiders `s01-davils-arrest/ev-01-davils-arrest.md:162, :239` test "Renown 3 or higher", not **Redknife Reached**. They stay valid as written, and a suspended or dismissed member should fail both.

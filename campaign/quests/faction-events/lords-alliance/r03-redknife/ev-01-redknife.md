@@ -7,7 +7,7 @@
 > - Hear the rank named and ask Jalester how each benefit works.
 > - Learn how to request a Watch escort of two Guards for one dangerous errand every tenday. The member also learns how to call a patrol with a whistle once every tenday.
 > - Receive the addresses of two Alliance safe houses, one in the Castle Ward and one in the Trades Ward.
-> - Learn how to ask Jalester to make a minor charge or a Watch report disappear once every tenday, and how to ask him for a courtesy note to a Watch sergeant.
+> - Learn how to ask Jalester to make a minor charge or a Watch report disappear once every tenday. The member also learns how to ask him for a courtesy note to a Watch sergeant.
 >
 > Only the member is addressed, and companions who are not Lords' Alliance members sit at the bar and gain nothing.
 
@@ -59,7 +59,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
-> Sevel gives every rule below as written, in his own plain words, and he asks no question at the end. Notes at the drop are signed "S.D." The managers of the safe houses and the Guards accept his word exactly as they accept Jalester's.
+> Sevel gives every rule below as written, in his own plain words and signs notes at the drop "S.D.", and he asks no question at the end. The managers of the safe houses and the Guards accept his word exactly as they accept Jalester's.
 
 > [!social]**The Agent**
 >
@@ -108,12 +108,12 @@ Jalester starts with the escort, and the table is still the well table, so **Bes
 >
 > - **Contact:** the member leaves a written request with Durnan at the Portal's bar, addressed to "Silvermane's friends". It names the errand, the place and the hour.
 > - **Notice:** the request must be left at least 24 hours before the hour named. Jalester's reply is waiting at the bar within twelve hours, signed "J.S.", and it either confirms the meeting place or gives a reason for refusing.
-> - **The errand:** one dangerous errand inside the walls of Waterdeep, such as carrying coin or evidence through a rough ward, guarding a witness or standing watch at a meeting. It must be work the Watch could do officially, and it must finish within twelve hours of the hour named.
+> - **The errand:** one dangerous errand inside the walls of Waterdeep. Examples are carrying coin or evidence through a rough ward, guarding a witness or standing watch at a meeting. It must be work the Watch could do officially. It must also finish within twelve hours of the hour named.
 > - **The escort:** two **Guards** meet the member at the named place and stay until the errand ends or twelve hours pass. They defend themselves and the member, start no fights, chase no one and take any prisoner to the nearest Watch house. They are never counted as combatants in an encounter.
 > - **Refused errands:** Undermountain, anywhere outside the city walls, and anything that needs a crime. Jalester refuses these in his reply, and nothing is spent.
 > - **Limit:** one errand per member each tenday, counted from the day of that member's last escort.
 > - **Who else:** companions walk with the member and the Guards, but a companion cannot ask for an escort. Jalester ignores a request made in the member's name by anyone else.
-> - **Loss rule:** a member who orders the Guards to break the law or to leave the errand loses the escort for a tenday when Jalester hears of it. The Guards leave at once, and their sergeant files a report.
+> - **Loss rule:** a member who orders the Guards to break the law or to leave the errand loses the escort for a tenday. The Guards leave at once when the order is given. Their sergeant files a report.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the escort is suspended until the Renown is restored.
 
 > [!qna]**What counts as dangerous?**
@@ -162,7 +162,7 @@ Jalester hands over the whistle once he has finished with the escort.
 >
 > - **The Castle Ward house:** 9 Quillmakers' Court, two rooms above a stationer's shop. The manager is Odette Brandle, a retired Watch clerk in her sixties who sorts quills at the counter. The exits are the front stair, a kitchen door onto the courtyard and a window onto the neighbouring roof.
 > - **The Trades Ward house:** 14 Ironwick Lane, two rooms above a shut dyer's workshop. The manager is Garrick Tull, a lame former Watch quartermaster who sweeps the yard. The exits are the yard door, a loading hatch onto the lane and a roof hatch.
-> - **The rooms:** each house has four cots, a barrel of rainwater, three days of dry rations, bandaging and two changes of plain clothes, and no weapons are kept there. Neither house stands near Kolat Towers or Phaulkonmere.
+> - **The rooms:** each house has four cots, a barrel of rainwater, three days of dry rations, bandaging and two changes of plain clothes. No weapons are kept there. Neither house stands near Kolat Towers or Phaulkonmere.
 > - **Phrase:** the member says "Alliance weather" at the counter or the yard gate, and the manager answers "Rain by morning" and hands over the key.
 > - **Notice:** none. The manager holds the key from noon until midnight, and no one else arranges the rooms.
 > - **Who may enter:** the member and up to three guests, each named to the manager. The manager writes the names in a ledger, and nobody unnamed gets a key or a bed.
@@ -207,7 +207,7 @@ Jalester saves this for last, and the table is still the well table, so **Beside
 > - **What it never covers:** theft, a killing, damage to Watch property, anything done to an officer, or a matter already before a magistrate. Jalester gives his reason before the use is spent.
 > - **Limit:** one string per member each tenday, counted from the day of that member's last string, and a refusal spends nothing.
 > - **Who else:** the member only. A charge against a companion is not covered, and Jalester says so.
-> - **Loss rule:** a member who lies to Jalester about the facts, or uses a string to cover an offence off the list, loses the benefit for a tenday.
+> - **Loss rule:** a member who lies to Jalester about the facts loses the benefit for a tenday. A member who uses a string to cover an offence off the list loses it for a tenday as well.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and the string is suspended until the Renown is restored.
 
 > [!exploration]**A Word to a Sergeant**
@@ -244,9 +244,9 @@ The rank event awards no Renown. Each Redknife earns further Renown from mission
 
 ### Aftermath
 
-The member can tell companions everything Jalester said. The escort, the whistle, the houses, the string and the sergeant's note stay individual benefits, and Durnan, the managers and the Watch will not act on a request a companion makes in the member's name.
+The member can tell companions everything Jalester said. The escort, the whistle, the houses, the string and the sergeant's note stay individual benefits. Durnan, the managers and the Watch will not act on a request a companion makes in the member's name.
 
-A member whose Renown later falls, or who is marked **LA Suspended**, keeps the rank, and all three benefits are suspended until the Renown is restored or **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
+A member whose Renown later falls, or who is marked **LA Suspended**, keeps the rank. All three benefits are suspended until the Renown is restored or **LA Reinstated** is marked. A member marked **LA Dismissed** loses all three for good.
 
 ### Concluding the Event
 
