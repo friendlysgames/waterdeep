@@ -31,7 +31,8 @@
 | **Six Bells at the Muleskull** | At the Brief, at the well table. | No report at the well table by dusk on the tenth evening, and no note at the drop. |
 | **The Exile's Return** | At the Brief, in the glover's room on Rannick Lane. | No step toward finding Harko by dawn after the third night. The night of the Brief is not counted. |
 | **The Red Wizard's Price** | At the Brief, in the Trollskull taproom. | No attempt on the meeting before the handshake at half past seven tonight. |
-| **The Archer Above** and **Fentree's Ledger** | At the Brief. | The deadline Jalester states in that Brief's speech. |
+| **The Archer Above** | At the Brief. | No word left with Durnan and no attempt by the evening of the fourth day. |
+| **Fentree's Ledger** | In a written reply to the letter. | No report at the table and no attempt by the last bell on the evening after the letter arrives. |
 | **An Audience with the Open Lord** | Never. | Never. The summons is not an assignment and has no deadline. |
 
 > [!gamemaster]**What Counts as a Step**
