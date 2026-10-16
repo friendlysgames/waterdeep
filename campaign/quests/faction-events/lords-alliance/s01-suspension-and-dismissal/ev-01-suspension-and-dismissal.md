@@ -11,7 +11,7 @@
 >
 > #### Who Is Subject
 >
-> The Event runs for one member at a time, like membership itself. Companions, characters in other factions and characters who never joined are not subject to it, and a character who belongs to another faction can turn down a mission without consequence. A party can hold a member in good standing, a suspended member and a dismissed member at once, and each follows their own track.
+> The Event runs for one member at a time, like membership itself. Companions, characters in other factions and characters who never joined are not subject to it. A character who belongs to another faction can turn down a mission without consequence. A party can hold a member in good standing, a suspended member and a dismissed member at once, and each follows their own track.
 >
 > #### What Is Actually True
 >
@@ -36,12 +36,12 @@
 
 > [!gamemaster]**What Counts as a Step**
 >
-> A member has taken a step if they were present at any scene of the mission, paid for or sent word of an inquiry, or left a note at the drop that explains a delay. A member who sat at the bar while the others worked took no step, and a member who worked beside the party took one even if every check failed.
+> A member has taken a step if they were present at any scene of the mission or sent word of an inquiry. A note at the drop that explains a delay also counts as a step. A member who sat at the bar while the others worked took no step. A member who worked beside the party took one even if every check failed.
 >
 > - **Six Bells at the Muleskull:** a missed morning with a note at the drop costs nothing. Jalester told the member so at the Brief.
 > - **The Exile's Return:** a job that goes loud costs what that Event says and nothing here. A member who spares Harko has not refused, because Jalester asked to hear that decision.
 > - **The Red Wizard's Price:** a member who tries and fails has done what the Brief asked, and Jalester says so in the debrief.
-> - **Honest failure in any Brief:** the target escaped, the roll failed or the party was beaten. None of these fires this Event.
+> - **Honest failure in any Brief:** an escaped target, a failed roll or a beaten party does not fire this Event.
 
 ### Reasons That Cost Nothing
 
@@ -49,7 +49,7 @@
 >
 > A reason excuses a member only if it fits a row below and reaches Jalester in time. The member leaves a note at the Portal's drop before the deadline. A member who could not write, because they were held, unconscious or detained, has two days after the deadline to explain.
 >
-> A reason that fits a row costs nothing. Jalester marks nothing, says "Understood.", and the mission lapses with no Renown for that member. A reason that fits no row, or that arrives late, leads to the visit below.
+> A reason that fits a row costs nothing, so Jalester marks nothing, says "Understood." and lets the mission lapse with no Renown for that member. A reason that fits no row, or that arrives late, leads to the visit below.
 
 | The member's reason | Verdict |
 |---|---|
@@ -93,7 +93,7 @@ If the member let the deadline pass, read the following aloud instead:
 >
 > The Portal is loud tonight, with hearth smoke under the beams and cold air rising from the well past the windlass. Durnan sends your companions to the bar and points you to the corner table. Jalester sits beside the well with his notebook closed, and he does not offer his hand.
 >
-> > "The task you were given is past its day, and I have had no word from you. I would like to hear that I'm wrong about it. Am I?"
+> > "The task you were given is past its day, and I have had no word from you. I would like to hear that I'm wrong, so tell me, am I?"
 
 > [!social]**The Agent at the Well**
 >
@@ -106,7 +106,7 @@ If the member let the deadline pass, read the following aloud instead:
 > - Whether the member's reason fits the table, which he answers at once.
 > - What the suspension takes away and what it leaves.
 > - The three ways back, which he names in full.
-> - What he will write to Laeral.
+> - What he will write to Laeral, which is the facts and nothing more.
 >
 > He will not discuss the Stone of Golorr, the vault or any intelligence the Alliance is acting on now. He will not argue the Condition, because he gave it at the First Meeting.
 
@@ -124,7 +124,7 @@ If the member gives a reason, check it against the table in **Reasons That Cost 
 
 > [!qna]**Will you tell Laeral?**
 >
-> > "I tell her what I do and why, as I always do, and she reads it. I will write that you were reliable until now, because it's true. I won't write more than the facts."
+> > "I tell her what I do and why, as I always do, and she reads it. I will write that you were reliable until now, because it's true, and I won't write more than the facts."
 
 > [!qna]**Is there a way back?**
 >
@@ -136,25 +136,25 @@ If no reason fits, Jalester gives the verdict. Read the following aloud:
 >
 > Jalester sets the pencil across the notebook and looks at you for a moment before he speaks. The noise of the taproom rises around the table, and a mug is slapped down on the bar behind him.
 >
-> > "Then you are suspended from active operations. The Alliance will send you no work, no help and no rank benefits until you are reinstated. Your Renown stays where it is, and I will not touch it."
+> > "Then you are suspended from active operations, and the Alliance will send you no work, no help and no rank benefits until you are reinstated. Your Renown stays where it is, and I will not touch it."
 >
 > He turns a page in the notebook and names each of the three ways back, the way he would read a list of exits.
 >
-> > "I had you down as reliable. One more detail, if you don't mind. Are you still lodging at Trollskull Manor?"
+> > "I had you down as reliable, and I'm sorry to be wrong about it. One more detail, if you don't mind: are you still lodging at Trollskull Manor?"
 
-Mark **LA Suspended** with the member's name. Jalester writes down the answer and says "Understood." A character who pressed him for more and makes a successful **DC 13 Charisma (Persuasion)** check gets one more sentence, and a failed check gets nothing further.
+Mark **LA Suspended** with the member's name. Jalester writes down the answer to his question and says "Understood." before he stands to go. A character who pressed him for more and makes a successful **DC 13 Charisma (Persuasion)** check gets one more sentence, and a failed check gets nothing further.
 
 > [!readaloud]
 >
 > Jalester stops with the notebook half closed in his hand and speaks without looking up from it.
 >
-> > "I don't enjoy this. That is not the same as thinking it was wrong."
+> > "I don't enjoy this, but that is not the same as thinking it was wrong."
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
 > Sevel Dastar (Neutral, Human, he/him, **Spy**) is plain and dry, and he may swear lightly. He gives the verdict in the same order and signs everything "S.D."
 >
-> > "Silvermane's elsewhere, so this lands on me. You're suspended from Alliance work until you're cleared, and your Renown stays as it is. I'll tell you the three ways back."
+> > "Silvermane's elsewhere, so this lands on me, and you're suspended from Alliance work until you're cleared. Your Renown stays as it is, and I'll tell you the three ways back."
 
 ### What Suspension Takes
 
@@ -165,18 +165,18 @@ Mark **LA Suspended** with the member's name. Jalester writes down the answer an
 > - **Briefs and debriefs:** no new Brief is offered. The member cannot earn Renown from any Lords' Alliance event, including the +2 in **Escalation to the Open Lord**.
 > - **The Cloak:** the overlook and the patrol note. The Watch houses still know the member's face but no longer take Jalester's word for them.
 > - **Redknife:** the Watch escort, the whistle, both safe houses, string-pulling, the sergeant's courtesy note and the manor beat's Guards.
-> - **Stingblade:** introductions, legal coverage and Watch files.
+> - **Stingblade:** introductions, legal coverage and Watch files, all three of which Jalester arranges.
 > - **Warduke:** Laeral's private audience, the four Warrior Veterans, the response-team intelligence and the Masked Lord request.
 > - **Lioncrown:** the removal of the outstanding charge, the three honest answers and the attaché.
 > - **Rank events:** a rank event the member would have met while suspended waits, and its note arrives at noon on the day after **LA Reinstated** is marked.
 >
-> The member keeps these. The Renown score and rank title stay, and so do the Civic Grant, because it belongs to the party, and the goodwill of any Watch officer the member cultivated without Alliance help. Companions can still stand beside a suspended member, and they gain nothing from the Alliance.
+> The member keeps the Renown score and the rank title, and the Civic Grant stays because it belongs to the party. The member also keeps the goodwill of any Watch officer cultivated without Alliance help. Companions can still stand beside a suspended member and gain nothing from the Alliance.
 
 ### The Ways Back
 
 > [!gamemaster]**Three Routes**
 >
-> Jalester names all three routes at the visit, and the member can try them in any order. Reinstatement awards no Renown. The member can try the same route only once for the same facts, and a route that fails costs nothing.
+> Jalester names all three routes at the visit, and the member can try them in any order. Reinstatement awards no Renown, and a route that fails costs nothing. The member can try the same route only once for the same facts.
 
 #### Route One: Verified Intelligence
 
@@ -195,7 +195,7 @@ The member brings Jalester a firm account of a villain faction's operation. He r
 >
 > Jalester reads the page twice and holds it to the lamp before he copies two lines into the notebook. The well breathes cold air across the table while he writes, and a drunk at the next table begins to sing.
 >
-> > "Understood. The Watch will confirm this tomorrow, and if it holds, you are reinstated. Which hand did he keep on the table?"
+> > "Understood, and the Watch will confirm this tomorrow, so if it holds you are reinstated. Which hand did he keep on the table, if you remember?"
 
 The next evening Jalester says "It held" and marks the reinstatement.
 
@@ -205,11 +205,11 @@ Jalester names a short errand that tests nothing but reliability. It runs for th
 
 > [!exploration]**The Two Packets**
 >
-> - **The task:** carry a sealed packet to Odette Brandle at 9 Quillmakers' Court in the Castle Ward, and carry her reply to Garrick Tull at 14 Ironwick Lane in the Trades Ward. Bring his receipt to the well table by dusk on the third day.
+> - **The task:** carry a sealed packet to Odette Brandle at 9 Quillmakers' Court in the Castle Ward. Carry her reply to Garrick Tull at 14 Ironwick Lane in the Trades Ward, and bring his receipt back by dusk on the third day.
 > - **The seals:** Jalester presses each in grey wax. A broken seal ends the errand, and Jalester treats it as a refusal.
 > - **The managers:** Odette and Garrick give the member a receipt in the same hand. Neither will speak of what the packet holds, because they never open one.
 > - **Delay:** a robbery, a missing manager or an injury the member can show is an honest failure. Jalester sets one new day, once, and the errand runs again.
-> - **Failure to start:** a member who accepts the errand and then takes no step by dusk on the third day, or who refuses it, is dismissed. See **Dismissal**.
+> - **Failure to start:** a member who refuses the errand is dismissed. So is a member who accepts it and takes no step by dusk on the third day.
 
 When the member returns with the receipts, read the following aloud:
 
@@ -227,13 +227,13 @@ A suspended member who sat at the briefing in **Escalation to the Open Lord** ha
 >
 > Jalester unfolds a half sheet in a firm, unfamiliar hand and reads it through before he lays it flat beside the notebook.
 >
-> > "The Open Lord has read your name, and she does not want it struck. I won't contradict her. You are reinstated, and I thank you for sitting through that briefing."
+> > "The Open Lord has read your name, and she does not want it struck, so I won't contradict her. You are reinstated, and I thank you for sitting through that briefing."
 
 ### Reinstatement
 
-Mark **LA Reinstated** with the member's name on the evening Jalester says the words, and remove **LA Suspended** for that member. Every benefit returns the next morning. The member's Renown is unchanged and nothing is awarded. A rank event that waited for the member sends its note at noon the following day.
+Mark **LA Reinstated** with the member's name on the evening Jalester says the words, and remove **LA Suspended** for that member. Every benefit returns the next morning, and the member's Renown is unchanged. A rank event that waited for the member sends its note at noon the following day.
 
-A member who is reinstated and then triggers this Event again is dismissed at the visit, with no further suspension. Jalester says only "I gave you a way back once," and the dismissal follows.
+A member who is reinstated and then triggers this Event again is dismissed at the visit, with no further suspension. Jalester says only "I gave you a way back once, and I have no second one to give," and the dismissal follows.
 
 ### Dismissal
 
@@ -241,7 +241,7 @@ A member who is reinstated and then triggers this Event again is dismissed at th
 >
 > A member is dismissed in one of three cases, and no earlier suspension is needed for the second or third.
 >
-> - **The errand fails by the member's choice:** a suspended member refuses the errand in **Route Two**, or lets the third dusk pass with no step and no word.
+> - **The errand fails by the member's choice:** a suspended member refuses the errand in **Route Two**. The same applies if the third dusk passes with no step and no word.
 > - **A second trigger after reinstatement:** the member refuses a Brief or lets its deadline pass after **LA Reinstated** was marked.
 > - **A serious offense:** the member betrays a mission, harms an Alliance person, or works against the Alliance for another faction.
 >
@@ -249,7 +249,7 @@ A member who is reinstated and then triggers this Event again is dismissed at th
 
 Jalester learns of an offense by the second dawn after it happens, from the Watch or from the target. If he hears of nothing, he does not act, and the offense stays unmarked until he does.
 
-The note comes at noon, as before, and the visit is shorter. If **Laeral Told of Jalester** is marked, Sevel Dastar sends it and receives the member under the stairs. If the offense was done to Jalester or to a runner carrying his orders, Durnan hands the member a sealed note at the bar, and Jalester does not appear.
+The note comes at noon, as before, and the visit is shorter. If **Laeral Told of Jalester** is marked, Sevel Dastar sends it and receives the member under the stairs. If the offense was done to Jalester or to a runner carrying his orders, Durnan hands the member a sealed note at the bar. Jalester does not appear in that case.
 
 > [!readaloud]
 >
@@ -267,7 +267,7 @@ He slides the sheet across, and it holds the member's name, a date and his signa
 >
 > He walks out through the front door of the Portal, and Durnan watches him go before he goes back to polishing a mug.
 
-Mark **LA Dismissed** with the member's name. Dismissal is permanent and nothing in the campaign reverses it.
+Mark **LA Dismissed** with the member's name, and treat it as permanent, because nothing in the campaign reverses it.
 
 > [!gamemaster]**What a Dismissed Member Loses and Keeps**
 >
@@ -286,7 +286,7 @@ Mark **LA Dismissed** with the member's name. Dismissal is permanent and nothing
 >
 > - **Several members at once:** Jalester addresses the member who reached the deadline first, then asks the others for their reasons in turn.
 > - **A mixed result:** a member whose reason fits the table keeps their standing, and the member beside them who has none is suspended.
-> - **No private moment:** if the others cannot leave, play the visit in the taproom with the companions at the bar, and give the rest of the table the summary at the end.
+> - **No private moment:** if the others cannot leave, play the visit in the taproom with the companions at the bar. Give the rest of the table a summary at the end.
 
 ### Renown Opportunities
 
@@ -320,4 +320,4 @@ A Lords' Alliance member who refused a Brief or let its deadline pass is called 
 
 ## Summary
 
-Jalester Silvermane sent a runner to tell us we were wanted at the well table, and we had to explain why we had not done the work he gave us. He suspended us from active operations and told us that our Renown would stay as it was. He also described three ways back, and we set about choosing one.
+Jalester Silvermane sent a runner to tell us we were wanted at the well table. We had to explain why we had not done the work he gave us. He suspended us from active operations and told us that our Renown would stay as it was. He also described three ways back, and we set about choosing one.
