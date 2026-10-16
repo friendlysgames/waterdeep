@@ -10,7 +10,7 @@ The source put Laeral at the Portal as the member's first direct contact. **An A
 
 ## Departures from the Source
 
-The source named a Masked Lord whom the campaign decided in advance. The Lord is now never named, and the GM block says it is neither Mirt nor Jelenn Urmbrusk. The three request forms are Door, Seal and Pressure. The Harper forms are different. The sheet carries the Splinter and the carnival fleet under those labels, and mentions no imps or devils. Laeral never admits her decline here, and the Lioncrown event is the one place that does.
+The source named a Masked Lord whom the campaign decided in advance. The Lord is now never named, and the GM block says it is neither Mirt nor Jelenn Urmbrusk. The three request forms are Door, Seal and Pressure, which differ from the Harper forms, and the sheet carries the Splinter and the carnival fleet under those labels, and mentions no imps or devils. Laeral never admits her decline here, and the Lioncrown event is the one place that does.
 
 ## Invented Names and Open Items
 

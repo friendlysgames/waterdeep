@@ -1,474 +1,181 @@
 # Lioncrown
 
-> [!gamemaster]**Gamemaster's Summary**
+> **[GM]**
 >
-> This Social Event occurs when an individual Lords' Alliance member first reaches Renown 50, which usually happens during **Dungeon of the Mad Mage**. A Watch runner brings a vellum summons to the member on the surface, and Laeral names the rank that evening in a working annex at Piergeiron's Palace. In this Event, the member can:
+> #### Gamemaster's Summary
 >
-> - Have one outstanding charge struck from the books by the Open Lord's own signature.
-> - Put three questions to Laeral and hear three honest answers, one of which admits her decline.
-> - Accept or decline Sevel Dastar, an attaché who speaks with the Open Lord's seal.
-> - Accept or decline the Undermountain Commission, Laeral's request to look for Joroth Brighthelm's missing team.
+> This Social Event fires at the first natural pause — Jalester's next visit, or within a tenday — after one Lords' Alliance member's Renown reaches 50. In this Event:
 >
-> All of these benefits belong to the qualifying member, and companions gain none of them.
-
-### The Summons
-
-Hold this Event until **Warduke Reached** is marked for the member, and hold the summons until the member is on the surface. No spell carries a message to a member in Undermountain. The runner finds the member at their first surface lodging at noon on the first day they are above ground. Every qualifying member receives a summons on their own account, so members who surface together attend together and are recorded one by one.
-
-Who writes the summons depends on where Jalester is:
-
-- **If Jalester Concealed is marked, or if An Audience with the Open Lord never ran:** Jalester writes the summons and signs it "J.S.". He attends the ceremony and stands to one side of the annex.
-- **If Laeral Told of Jalester is marked:** Sevel Dastar writes the summons and signs it "S.D.". Jalester is at his palace desk and does not attend.
-
-Companions are not invited, and a companion who comes along waits in the palace antechamber with a clerk and a cup of tea. A member marked **LA Suspended** gets no summons until **LA Reinstated** is marked, and the summons then comes at the next noon. A member marked **LA Dismissed** never receives one.
-
-> [!readaloud]
+> - Laeral Silverhand chairs the ceremony at Piergeiron's Palace in a working annex room, not the formal audience chamber.
+> - The outstanding charge benefit fires first: Laeral removes it by name. If no charge exists, the benefit is held in reserve for the next accrual.
+> - The character asks three questions about the Grand Game, the vault, or Waterdeep's political situation; Laeral answers all three honestly.
+> - Laeral introduces **Sevel Dastar**, the dedicated attaché, and explains his terms. The character decides whether to accept him.
+> - At the close, alone with the character, Laeral makes a private request about missing Alliance agents in Undermountain. The character decides whether to accept the commission.
 >
-> A runner in a plain Watch tabard knocks at your door a little after noon. He holds out a roll of cream vellum tied with grey ribbon, and the seal is a silver hand pressed into white wax. He has gone down the stairs before you finish reading the three lines inside, written in a small, upright hand.
->
-> > Piergeiron's Palace, the Castle Ward gate, at seven this evening. The Open Lord will receive you in private. Please come alone.
+> > [!design]**Expected During Dungeon of the Mad Mage**
+> >
+> > Parties are not expected to reach Renown 50 during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after the vault has resolved and the campaign descends into Undermountain. It is written to function in both contexts.
+> >
+> > **If Vault of Dragons has not yet resolved:** The three questions and Laeral's answers concern the Grand Game's current state. The Undermountain Commission is framed as contingency — "if your path leads there." Sevel Dastar can be deployed for the vault approach if the character accepts him.
+> >
+> > **If Vault of Dragons has already resolved:** Laeral's honest answers address what the vault resolution changed — politically, institutionally, and for the characters personally. The Undermountain Commission is concrete rather than speculative. The attaché is assigned for the descent.
 
-> [!gamemaster]**What Is Actually True**
->
-> - Laeral's magic has waned since the Spellplague, and only her closest confidants know it. Tonight she tells the member, because a Lioncrown helps hold the city and should know what it has to work with.
-> - Neither Jalester nor Sevel knows, so Laeral sends whoever is present out of the room before the questions. The admission is the one time she speaks of her decline.
-> - Joroth Brighthelm is a dwarf spy in Laeral's service. In the adventure he waits at the Yawning Portal and asks adventurers to find Falkir's Fist, but here he went below himself six tendays ago, with Ilsa Marrow and three hired mapmakers.
-> - The Runestone is Laeral's own research. She hopes a fragment of Halaster's crystal will halt her decline, and she has told Jalester only that the errand protects the city.
-> - **Laeral Told of Jalester** means she moved Jalester to a palace desk and trusts the member for it. **Laeral Doubts the Party** means she set a watch on the member after the audience. Each changes a line or two below, and neither changes the benefits.
-> - Nobody in this Event says Manshoon's name or calls Kolat Towers his unless **Manshoon Named** is marked for the member addressed. Until then Laeral says "the Splinter". Nobody names Jarlaxle before **Jarlaxle Unmasked**, and nobody names Illuun.
-> - The Cassalanters are a matter of suspicion. Laeral has no proof of anything and says so.
+**Background (GM only)**
 
-### The Annex
+The Lioncrown is the highest rank in the Lords' Alliance. Characters who reach it have earned something Laeral does not give easily: the expectation of an honest answer. She does not answer honestly in most contexts. She is careful with what she says on behalf of the city. The three honest answers at this ceremony are an acknowledgment that the character has earned the right to know what she knows.
 
-The annex is a working room 20 feet long and 16 feet wide, with a 10-foot ceiling and a scarred table that seats six. The audience chamber in **An Audience with the Open Lord** is 40 feet by 24 feet, with an 18-foot ceiling and a table for twelve. The annex has about a third of its floor. Laeral chose it on purpose, because the formal chamber would turn the evening into a ceremony.
+**The outstanding charge:** Remove whatever charge the character currently carries that would benefit most from removal — an arrest warrant, a Watch citation, a civil damages claim. If no charge currently exists, the benefit holds in reserve.
 
-> [!readaloud]
->
-> The annex is a plain room with a scarred table, six chairs and a cabinet of document boxes. A fire has burned in the grate for hours, and the stone beside it is warm to the touch. Laeral Silverhand sits at the head of the table in a grey gown, with a cup of tea at her elbow. A folded document lies under one of her hands, and she looks at you once before nodding at the chair across from her.
+**Sevel Dastar** (human, uses the **Spy** stat block) is a competent, cautious Alliance field agent who reports to Jalester, not directly to Laeral. He will not deceive the character but he will report what he observes. The character's decision here determines whether he operates as an active field partner or a nominal assignment held at distance.
+
+**Laeral's honest answers — what she knows:**
+
+These questions are freeform; the character asks what matters. Common lines and what Laeral answers honestly:
+
+- *"Who are the Masked Lords?"* — "I know some of them. I will not tell you their names, but I will tell you three of the twelve are people you have spoken with in the last month." She narrows it no further.
+- *"How diminished are you really?"* — "Less than my enemies assume. More than my staff knows." She does not elaborate, but she does not deflect.
+- *"What do you know about Halaster Blackcloak?"* — "He was Waterdeep's greatest threat before the Spellplague made him seem manageable by comparison. I have agents in Undermountain who are no longer reporting. I do not know whether they are dead or Halaster has them." (This is also the context for her request in Act 5.)
+- *"What happened to Neverember's gold before the vault?"* — The gold was taxed lawfully from Waterdhavian merchants and sequestered under a Lord Neverember executive instrument. The Stone of Golorr was commissioned as a non-traditional lock specifically because it could be hidden from the Masked Lords. She did not know the vault existed until the intelligence that set Mission 5 in motion.
+- *Questions about Vault of Dragons (if already resolved):* She answers what the resolution changed — including what the Alliance gained politically and what Neverember's reappearance cost her.
+
+The rule for running this: Laeral answers directly. She says "I don't know" without apology when she doesn't know. She does not redirect inconvenient questions.
+
+**The Undermountain Commission:** Two Alliance handlers and a cartography team went dark six tendays before this event. Laeral knows their identifiers. She is not ordering the character to find them — she is asking. The distinction matters to her.
+
+### Act 1 — The Summons
+
+A formal note arrives two days before — wax-sealed vellum, in Jalester's handwriting, asking the character to attend a private Alliance business meeting at Piergeiron's Palace at the close of the evening bell on the named date. No further explanation.
+
+### Act 2 — Piergeiron's Palace, Annex Room
+
+The annex room is smaller than the audience chamber used in **Mission 6**. Scarred table, four chairs, a cabinet of Alliance documents, a fire that has been burning long enough to warm the stone walls. It is where Laeral actually works. **Laeral Silverhand** is at the head of the table. **Jalester Silvermane** stands to one side. A third figure, compact and watchful, stands near the cabinet.
+
+> [!narrative]
+> Laeral does not rise when you enter. She looks at you once, then at the chair across from her.
 >
 > > "Lioncrown. Sit down."
 
-Add the people who are present. If Jalester attends, read or paraphrase the following:
+She does not elaborate on the rank name.
 
-> [!readaloud]
->
-> Jalester stands to one side of the table with his notebook shut. A man in a plain brown coat waits beside the cabinet with his hands loose at his sides.
+### Act 3 — The Charge
 
-If **Laeral Told of Jalester** is marked, read or paraphrase the following instead, and then read the line from Laeral after it:
+She has a document on the table. She sets it in front of the character without preamble.
 
-> [!readaloud]
->
-> Sevel Dastar waits beside the cabinet in the plain brown coat you know from the Portal. Jalester is not in the room, and nobody mentions him.
+> > "You're carrying something. We're removing it."
 
-> [!readaloud]
->
-> Laeral waits until you are seated, and then she folds her hands on the table.
->
-> > "You told me about Jalester when you could have left it alone. I have not forgotten that, and I wanted it said first."
+She names the outstanding charge. The document on the table is a formal writ of dismissal, signed under her authority as Open Lord and countersigned by Alliance legal counsel. The signature is real.
 
-If **Laeral Doubts the Party** is marked, read or paraphrase the following after Laeral says "Sit down", and after the Jalester line if that was read:
+> > "Done. Don't thank me. Move on."
 
-> [!readaloud]
->
-> Laeral's eyes rest on you a moment longer than on the chair, and her voice stays level.
->
-> > "One of your answers at the audience did not hold, so I had you watched. That ends tonight, and I will not raise it again. If you want to tell me which answer it was, I will listen."
+*If no charge currently exists:* Laeral notes this without disappointment.
 
-The member may answer or say nothing, and Laeral accepts either. Nothing is rolled or marked, and the watch is over. Sevel and Jalester report nothing further about the member's movements unless the member asks them to.
+> > "Nothing on the books right now. The benefit holds. Next time something accrues, send it to Jalester within a tenday. I'll clear it."
 
-> [!social]**The Open Lord in Her Annex**
->
-> Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, a tall silver-haired elf in a plain grey gown who works at this table whenever the city allows.
->
-> Laeral is Friendly and economical, and she speaks in measured, complete sentences. She lets a silence run until the member fills it, and she does not swear in office. Tonight she answers directly, and she says "I do not know" without apology when she does not.
->
-> Laeral is happy to discuss the following topics:
->
-> - What each arrangement gives the member, and the limit on it.
-> - Her answers to the three questions, from the list below.
-> - Joroth Brighthelm's team and where it was last heard from.
->
-> She will not discuss Khelben Arunsun, the contents of the Blackstaff or the name of any Masked Lord. She answers each with "That is not mine to give."
+### Act 4 — The Three Questions
 
-> [!qna]**Why this room?**
->
-> > "The audience chamber is for petitioners, and this is where I work. I thought you would prefer the room where the work gets done."
+She sets her hands flat on the table.
 
-> [!qna]**Is this a reward?**
->
-> > "It is a responsibility, and it comes with costs. Hear all of it before you thank me for any of it."
+> > "Three questions. About the Grand Game, the vault, or Waterdeep's politics. I'll answer all three honestly — which means I'll tell you when I don't know. You have earned this. Ask."
 
-> [!qna]**What does Lioncrown give me?**
->
-> > "I clear one charge against your name and answer three questions honestly. You may take an attaché, and I will make one request of you in private."
+She waits.
 
-> [!qna]**What if my Renown falls?**
+> **[GM]**
 >
-> > "The rank stays with you, because you earned it. The seal, the attaché and any charge I have not yet cleared wait until your Renown is restored."
+> #### Running the Three Questions
+>
+> Let the character ask whatever matters to their player. This is a freeform roleplaying beat. Use the honest-answer notes in the Background section. Three things to hit:
+>
+> - She answers the question that was asked, not a version of it she finds easier.
+> - She says "I don't know" without apology when she doesn't.
+> - She does not redirect, qualify, or explain why she's answering honestly.
+>
+> After the third answer, she nods once.
 
-### The Charge
+After the third answer:
 
-Laeral turns to the charge first. If the member holds an outstanding charge, read the following aloud:
-
-> [!readaloud]
->
-> Laeral slides the folded document across the table and turns it so that you can read the heading. It is a writ of dismissal on heavy vellum, with your name written in and her signature at the foot.
->
-> > "You are carrying a charge against your name, and I am removing it today. The writ is signed, and you need not thank me."
-
-If the member holds no charge, read or paraphrase the following instead:
-
-> [!readaloud]
->
-> Laeral turns the document face down and rests one hand on top of it while she looks at you.
->
-> > "Nothing is entered against your name tonight, so this benefit waits. When something is, tell me through your handler within a tenday, and I will sign the writ."
-
-> [!exploration]**Clearing a Charge**
->
-> Each Lioncrown can have one charge struck from the books by Laeral's signature.
->
-> - **What it clears:** Laeral clears one charge entered against the member's name in the Watch's books or a magistrate's docket. That means an arrest warrant, a wanted notice, a Watch citation or a civil damages claim.
-> - **Which one:** if the member holds several, Laeral clears the most serious in the order of arrest warrant, wanted notice, damages claim and citation.
-> - **If there is none:** the benefit is held. The member tells their handler at the drop within a tenday of any charge being entered, and Laeral signs the writ within 3 days.
-> - **What it does:** the charge is struck from the books for good. A damages claim is withdrawn on the Open Lord's authority, and the claimant is paid from her discretionary fund.
-> - **What it never clears:** treason, the killing of a Watch officer or a Lord, a charge brought by the Alliance itself, and a debt to a guild or a lender.
-> - **Limit:** one charge per member, spent when Laeral signs the writ. A held benefit stays held until it is used.
-> - **Other benefits:** **String-Pulling** and **Legal Coverage** work as before. Lioncrown clears the charges that those two cannot reach.
-> - **Who else:** only the member's own charge. A companion's charge is not covered, and Laeral says so if asked.
-> - **Loss rule:** a member who commits a crime so that Laeral will clear it is refused and loses a held benefit for a tenday.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the rank. A charge already cleared stays cleared, and a held benefit waits until the Renown is restored.
-
-### The Attaché
-
-If Jalester attends, he introduces Sevel Dastar. If **Laeral Told of Jalester** is marked, Laeral names Sevel again herself, because the member knows him as a handler and not as an attaché. Read the branch that applies:
-
-> [!readaloud]
->
-> Jalester steps away from the wall and nods toward the man beside the cabinet. The man comes to the table and stays on his feet, with his thumbs hooked in his belt.
->
-> > "This is Sevel Dastar, of the Open Lord's office. If you accept him, he is yours to call, and I would ask you to hear his terms first."
-
-> [!readaloud]
->
-> Laeral turns toward the man beside the cabinet. He comes to the table and stays on his feet, with his thumbs hooked in his belt.
->
-> > "You know Sevel Dastar from the Portal. He has handled your affairs while Jalester sits at a desk, and tonight his duty changes. He is offered to you as an attaché, and he answers to my office."
-
-> [!readaloud]
->
-> Sevel gives a short nod and speaks without any ceremony, as a man does who has said it before.
->
-> > "I'm assigned to you full time, with the Open Lord's seal behind me. Watch officers listen when I show it, and I'll come down the stairs with you if you want me there. I report what I see to her office when I come back up. You should hear that before you say yes."
-
-> [!social]**The Open Lord's Man**
->
-> Sevel Dastar (Lawful Neutral, Human, he/him) :: a middle-aged Lords' Alliance field agent in a plain brown coat, who has carried the Open Lord's errands for years and looks like nobody in particular.
->
-> Sevel is Friendly and dry, and he speaks in short, practical sentences. He swears lightly when a plan annoys him, and he does not flatter anyone. He tells the member what he will report before he is asked.
->
-> Sevel is happy to discuss the following topics:
->
-> - What the seal opens in Waterdeep and what it does not.
-> - Where he will go and when he will leave.
-> - Whom he reports to, and what he reports.
->
-> He will not discuss the Open Lord's private business, the Runestone or why Jalester was moved. He answers each with "Not mine to say."
-
-> [!qna]**What can the seal do?**
->
-> > "Once a tenday I speak for the Open Lord to one officer or clerk. They'll open a cordon, show you a scene, or free a man held on a minor charge."
-
-> [!qna]**Who do you report to?**
->
-> > "The Open Lord's office, when I'm back up the stairs. I've no way to send word from below, so it waits for me."
-
-> [!qna]**Do I have to take you?**
->
-> > "No, you can turn me down. The backing is yours either way, and I stay on paper at the Portal, though I'd sooner be wanted."
-
-> [!qna]**Will you fight?**
->
-> > "To keep you alive, yes. I'm a spy, so I'll leave when I'm hurt and tell you where I've gone."
-
-If the member accepts, read or paraphrase the following:
-
-> [!readaloud]
->
-> Sevel takes a brass ring from his pocket and shows you the silver hand stamped into its face. He puts it on his thumb and nods to Laeral, who inclines her head in return.
-
-If the member declines, read or paraphrase the following:
-
-> [!readaloud]
->
-> Sevel nods once and goes back to the cabinet without a word, and Laeral watches him go before she turns to you.
-
-Laeral says the following in either case:
-
-> [!readaloud]
->
-> > "The political backing is unconditional. The attaché is a resource, not a condition."
-
-> [!exploration]**Calling Sevel**
->
-> Each Lioncrown who accepts Sevel can call on him as an attaché.
->
-> - **Contact:** the member leaves a note with Durnan at the Portal's bar, addressed to "Dastar". Sevel answers by the next evening, signed "S.D.", and meets the member at the table under the stairs, away from the well.
-> - **Notice:** one day. He meets the member at the Portal's courtyard or at a surface point in Waterdeep at the hour named.
-> - **Role:** by default Sevel coordinates. He carries messages up the stairs, arranges Watch access and keeps the party's camp. He goes down with the party whenever the member asks him to.
-> - **The seal:** once a tenday, while he is in Waterdeep, Sevel speaks for the Open Lord to one Watch captain or lower, ward clerk or magistrate's clerk. The officer opens a cordon, shows the party a scene or releases a person held for a day on a minor charge. The officer refuses any request that works against the Watch, a Lord or the Alliance.
-> - **Below ground:** Sevel walks as far down as the member takes him. He has no spell and no way to send word from below, so his reports wait until he comes up.
-> - **Reports:** he tells Laeral's office what he saw when he returns to the surface. He tells the member what he reported if the member asks.
-> - **One attaché:** Sevel serves one operation at a time. If two Lioncrowns ask for the same day, he serves them in the order they asked.
-> - **Orders:** he takes the member's orders in the field and nobody else's. He refuses to harm the Watch, a Lord or a creature that has surrendered.
-> - **Handler:** if **Laeral Told of Jalester** is marked, Sevel stays the member's handler for every other Alliance contact, whether or not the member accepts him as an attaché.
-> - **Who else:** companions travel with Sevel and cannot call him.
-> - **Loss rule:** a member who orders Sevel to harm the Watch, a Lord or a creature that has surrendered loses the attaché for a tenday, and Sevel reports the order.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the attaché waits until the Renown is restored.
-
-> [!gamemaster]**Sevel as an Ally**
->
-> Sevel uses the 2024 **Spy** stat block (CR 1, 27 Hit Points) as printed. He has no Multiattack, so he makes one attack a turn with the poisoned Shortsword or the Hand Crossbow, and each averages 12 damage on a hit. Ally Power counts only while he fights, and a Sevel who coordinates or holds the camp adds nothing. For a party at 8th level, add the totals below to Party Power before recalculating the difficulty and the day cost:
->
-> - Three PCs: Sevel adds 17, for a Party Power of 149. The Bruising budget is 89.4 and the Bloody budget is 111.75.
-> - Four PCs: Sevel adds 17, for a Party Power of 193. The Bruising budget is 115.8 and the Bloody budget is 144.75.
-> - Five PCs: Sevel adds 17, for a Party Power of 237. The Bruising budget is 142.2 and the Bloody budget is 177.75.
-> - From level 11, Sevel is worth 15.
->
-> One Spy is below twice the Power of an 8th-level character, so the High-Power Warning does not apply. Either rebuild the fight around the larger total or treat Sevel as a safety net.
->
-> #### Sevel's Tactics
->
-> Sevel stays behind the member's front line and works to the member's plan. During combat, Sevel:
->
-> - Fires the Hand Crossbow from cover at the creature that is hurting the weakest PC.
-> - Uses Cunning Action to Hide after a shot whenever a wall or a corner is within 30 feet.
-> - Withdraws at 13 Hit Points or fewer, using Cunning Action to Disengage or Hide, and reports to the member afterward.
->
-> Sevel never attacks the Watch, a Lord or a creature that has surrendered.
-
-### The Three Answers
-
-Laeral dismisses whoever else is in the room, and the questions are for the members alone. Read the following aloud:
-
-> [!readaloud]
->
-> Laeral lifts one hand from the table, and Sevel crosses the room to the door without being told. The others file out behind him, the door closes, and the fire settles in the grate. Laeral lays both hands flat on the table and looks at each of you in turn before she speaks.
->
-> > "Three questions, about the Grand Game, the vault or the city's politics. I will answer each honestly, and I will tell you when I do not know. Ask."
-
-> [!gamemaster]**Running the Three Answers**
->
-> Each member puts three questions to Laeral, one at a time, in the order they sit. Every member at the table hears every answer. Match each question to the nearest row below and read that answer.
->
-> - **No matching row:** Laeral says "I do not know. If I did, I would say so." The question still counts.
-> - **A refused topic:** Khelben Arunsun, the contents of the Blackstaff and the name of any Masked Lord get "That is not mine to give." The question does not count, and the member asks another.
-> - **A repeated question:** Laeral says "I have answered that." The question does not count.
-> - **Gates:** read the Splinter and carnival rows that match **Manshoon Named** and **Jarlaxle Unmasked**. Read the Jalester row only if **Laeral Told of Jalester** is marked.
-> - **The admission:** the first row is the one place Laeral speaks of her decline. She asks for no promise of silence, and nothing in the campaign changes if a member repeats it.
-> - **The last answer:** after the third answer, Laeral nods once and says the closing line below.
-
-> [!qna]**How diminished are you?**
->
-> > "Less than my enemies assume, and more than my own staff knows. Since the Spellplague I choose which spells I cast, and I choose fewer than I used to. I tell you so that you know what the city has to work with."
-
-> [!qna]**Who are the Masked Lords?**
->
-> > "I know them, and I will not name one. At least one has sat across a table from you without your knowing it."
-
-> [!qna]**What do you know of Halaster Blackcloak?**
->
-> > "I knew him when he was merely mad, a long time ago. He is the oldest danger under this city, and I have never taken his measure. Waterdeep stopped fearing him after the Spellplague, and I think that was a mistake."
-
-> [!qna]**Where did the vault's gold come from?**
->
-> > "Waterdeep's merchants paid it as taxes, and Dagult Neverember set it aside by decree. He had a lock made that no Masked Lord could open, and he hid the key. For years I was told it lay in Neverwinter, and I believed it."
-
-> [!qna]**Who is winning the Grand Game?**
->
-> > "Nobody is winning. Each house wants something the others cannot let it have, and the city is what they trade over. I would like the trading to stop before someone I know is hurt."
-
-If **Manshoon Named** is not marked for the member who asks, Laeral answers the next question as follows:
-
-> [!qna]**Who leads the Splinter?**
->
-> > "I know where its people meet and what they want, but not who gives the orders. I would pay a good deal to learn it."
-
-If **Manshoon Named** is marked for the member who asks, she answers this instead:
-
-> [!qna]**Who leads the Splinter?**
->
-> > "Manshoon. I have known that name for longer than you have been alive, and he has never worked alone."
-
-> [!qna]**What of the Cassalanters?**
->
-> > "I think they are too pleasant to be so rich, and that is all I think. I have no proof of anything, and I will not move against a family on a feeling. If you find proof, bring it to my office before anyone else."
-
-If **Jarlaxle Unmasked** is not marked, Laeral answers the next question as follows:
-
-> [!qna]**Who sails with the carnival fleet?**
->
-> > "I know that Luskan wants a seat in the Alliance, and that these ships have not left my harbor. I do not yet know who gains the most from either."
-
-If **Jarlaxle Unmasked** is marked, she answers this instead:
-
-> [!qna]**Who sails with the carnival fleet?**
->
-> > "Jarlaxle. I have known the name for some time, and I do not yet know what a seat in the Alliance is worth to him."
-
-If **Laeral Told of Jalester** is marked, this row is also open:
-
-> [!qna]**Why did you move Jalester?**
->
-> > "You told me the truth about him when you could have kept it. He sits at a desk in the palace now, and I will not have him treated as though he had done wrong."
-
-When the third answer has been given, read the following aloud:
-
-> [!readaloud]
->
-> Laeral nods once when the last answer is done, and her hands stay flat on the table.
->
 > > "Whatever you do with that is yours."
 
-### The Request
+### Act 5 — The Attaché
 
-Laeral waits for the room to settle, and then she makes the Undermountain request. Read the following aloud:
+Jalester steps forward. The watchful figure near the cabinet is now recognizably attentive.
 
-> [!readaloud]
->
-> Laeral opens a drawer in the table and takes out a card about the size of her palm. She sets it between you and rests two fingers on its edge.
->
-> > "Six tendays ago I sent a man named Joroth Brighthelm into Undermountain. He took a second agent and three mapmakers, and the last dispatch came up from the third level. Nothing has reached me since."
-> >
-> > "I am not ordering you to find them. If your road leads there, I ask that you look, and that you bring word up the stairs. Will you take the card?"
+> > "This is Sevel Dastar."
 
-> [!gamemaster]**Joroth's Team**
->
-> - **Joroth Brighthelm:** a dwarf Lords' Alliance spy in Laeral's service, with the **Spy** stat block.
-> - **Ilsa Marrow:** a human Alliance clerk-agent who kept the team's ledger.
-> - **Three mapmakers:** hired cartographers whose names Laeral does not have.
-> - **The last dispatch:** it came up from Level 3 six tendays ago and said the team was going down to Level 10, after Falkir's Fist and the emerald called the Eye of the Spider.
-> - **Their fate:** this Event does not decide it. **Dungeon of the Mad Mage** (unconverted) does, and it reads **Undermountain Commission Accepted**.
+Jalester does not introduce him further. Sevel speaks for himself.
 
-> [!qna]**Who is Joroth Brighthelm?**
->
-> > "He is a dwarf in my service, and the steadiest listener I have. He will not have gone quietly into any trap."
+> > "I'm assigned to you. Full access — Watch channels, safe houses, my contacts in the Trades Ward and the Harbor. I report to Jalester. You want me in the field, I'm in the field. You want me at distance, I coordinate from there. Your call."
 
-> [!qna]**Why did he go below?**
->
-> > "He went after Falkir's Fist, a dwarf band lost on the tenth level. They carried an emerald stolen from Mirabar's embassy, and I want it returned."
+He pauses.
 
-> [!qna]**What do I do if I find them?**
->
-> > "Say the phrase on the card before anything else. Bring them up if they live, and their papers if they do not."
+> > "But I report what I observe. To Jalester. I want to be clear about that before you decide."
 
-> [!qna]**What do I get for it?**
->
-> > "Nothing I can promise. If you bring home the emerald or Joroth, the Alliance will remember it."
+Laeral says nothing during this introduction. She watches the character.
 
-> [!qna]**What if I refuse?**
->
-> > "Then I take the card back, and nothing changes between us. I will not raise it again."
+**If the character accepts:** Sevel Dastar operates as an active field partner. He can accompany the party on operations, coordinate Watch access and safe house logistics, and carry communication to Jalester when field contact is difficult. His stat block is **Spy**.
 
-> [!exploration]**The Card**
->
-> The card holds two names, two code phrases and a symbol. The member who takes it can show it to companions and may teach them the phrases.
->
-> - **Joroth Brighthelm:** the member asks "Is the lamp lit?" and the genuine Joroth answers "Lit and trimmed."
-> - **Ilsa Marrow:** the member asks "Is the ledger closed?" and the genuine Ilsa answers "Closed and signed."
-> - **The symbol:** a closed hand inside a circle, which the team chalked on a wall at every camp where it was safe to approach.
-> - **Reporting:** the member brings word to their handler, whether it is a find, a body, a paper or a chalk mark. Jalester takes it at the well table, and Sevel takes it at the table under the stairs if **Laeral Told of Jalester** is marked.
-> - **Deadline:** none. Laeral does not ask for progress, and nothing is lost if the member never goes below Level 3.
-> - **Renown loss:** a member whose Renown falls below 50 keeps the card, and Laeral's interest in it does not change.
+**If the character declines:** Sevel maintains a nominal assignment on paper but is not deployed in the field. The character retains full political backing and all other Lioncrown benefits. Sevel does not press the issue.
 
-> [!gamemaster]**Reports and the Well**
->
-> If Jalester takes the member's report at the well table, anything said there may reach something below the Portal, and Jalester does not know. Sevel's table under the stairs is away from the well, and nothing said at it reaches the water.
+Laeral, regardless of which choice is made:
 
-If the member takes the card, mark **Undermountain Commission Accepted** and read the following:
+> > "The political backing is unconditional. The attaché is a resource, not a condition."
 
-> [!readaloud]
->
-> You slide the card off the table, and Laeral nods once and rises from her chair.
->
-> > "Thank you. Report through your handler, and keep your eyes open on the way down."
+### Act 6 — The Request
 
-If the member declines, read the following:
+After the character's decision, Laeral looks to Jalester and Sevel. They leave.
 
-> [!readaloud]
->
-> Laeral takes the card back and puts it in the drawer without comment, and then she rises.
->
-> > "Very well. That will be all."
+She is alone with the character.
 
-### A Second Matter
+> > "I have agents in Undermountain. Two handlers and a cartography team. Dark for six tendays. I don't know if Halaster has them or if they're dead."
 
-Jalester or Sevel meets the member in the corridor outside the annex. The errand is Jalester's and is separate from the card, and it is open to a member of the 12th level or higher. Read the branch that applies:
+She looks at the character steadily.
 
-> [!readaloud]
->
-> Jalester is waiting in the corridor with his notebook open, and he falls into step beside you toward the gate. He keeps his voice low until the guards at the next door have passed.
->
-> > "One more detail, if you don't mind. I have an errand of my own for anyone who reaches the twentieth level. Will you hear it now?"
-> >
-> > "A pebble-sized fragment of the Runestone lies on that level. Bring one to me, and I will not forget it."
+> > "I'm not asking you to go looking for them. I'm asking that if your path leads there — and I have reason to think it might — you keep your eyes open and report what you find through Jalester."
 
-> [!readaloud]
->
-> Sevel is waiting in the corridor with his thumbs in his belt, and he walks with you toward the gate. He speaks once the guards at the next door have passed.
->
-> > "Jalester left an errand behind when they moved him, and I'm to pass it on. There's a pebble of the Runestone on the twentieth level. Bring one to his desk at the palace, and he'll be grateful."
+She sets a small folded card on the table. Two names, two code phrases, a symbol.
 
-> [!gamemaster]**The Runestone Errand**
->
-> The Runestone is Halaster's crystal in the Runestone Caverns on Level 20. A fragment about the size of a pebble breaks off every 12 hours. A character who casts *Detect Magic* on the cavern floor finds 1d4 fragments, and a character without the spell finds one with a 1-hour search and a **DC 20 Wisdom (Perception)** check.
->
-> - **Who:** the errand is open to anyone of the 12th level or higher, and it is not tied to a rank, so nothing is marked for it.
-> - **Reward:** Jalester's lasting friendship, as in the adventure. He does not mention gold.
-> - **Delivery:** Jalester receives the fragment at the well table. If **Laeral Told of Jalester** is marked, he receives it at his palace desk, and Sevel names the desk and never the well.
-> - **The purpose:** neither Jalester nor Sevel knows it. A member who connects the fragment to what Laeral said has worked it out alone, and Laeral confirms it only if asked, with "It may help. I make no promises."
+> > "This is a request. Not a condition of the rank. Decline and nothing changes between us. But I would rather have a Lioncrown's eyes in Undermountain than nobody's."
 
-### Mad Mage Seeds
+She gives the character a moment, then:
 
-> [!gamemaster]**Seeds for Dungeon of the Mad Mage**
->
-> These are one-line facts. *Dungeon of the Mad Mage* has no Lords' Alliance content beyond the two hooks below, so use these and no others.
->
-> - Joroth Brighthelm and Falkir's Fist are both on Level 10. Falkir swallowed the Eye of the Spider before he died, and a Lords' Alliance member who returns it to Joroth gains 3 Renown, as the adventure says.
-> - If Joroth cannot be found, the member's handler accepts the Eye for the same award.
-> - The Runestone and its fragments lie on Level 20, and Jalester hires adventurers of the 12th level or higher to bring him one.
-> - Laeral's magic has begun to wane, and the adventure says only her closest confidants know it. This Event is the one place that tells a member.
-> - The transport and *Sending* limits are recorded in **Force Grey Commander** and are not repeated here. The Alliance has no *Sending*, so Sevel and every report travel up the stairs on foot.
+> > "What do you say?"
 
-### Renown Opportunities
+**If the character accepts:** They take the card. Laeral nods once and rises. In the Dungeon of the Mad Mage, the missing agents are a thread the character is expected to follow.
 
-The rank event awards no Renown, gold or Milestone Points, and the Lioncrown has no higher rank to reach. Further Renown comes from the ordinary rewards listed on the Lords' Alliance page of the Factions Guide.
+**If the character declines:** Laeral takes the card back. She does not argue.
 
-### Aftermath
+> > "Understood."
 
-The member can tell companions what they were given. The charge, the answers, the seal and the card stay with the member, and Durnan, Sevel and the palace clerks turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the charge, the seal and the attaché are suspended until the Renown returns.
-
-Record separately for each member whether a charge was cleared or held, the three questions asked, whether Sevel was accepted and whether the card was taken. Also record the date of Sevel's last seal use.
+She rises. The meeting is over.
 
 ### Concluding the Event
 
-The Event concludes when the member has had a charge dealt with, put three questions to Laeral and answered both the attaché and the request.
+#### Lioncrown Reached: True / False
 
-> [!gamemaster]**Event Outcomes**
->
-> - **Lioncrown Reached** — mark with the recipient's name when Laeral names the rank at the annex table; read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Lords' Alliance standing and the attaché's availability.
-> - **Undermountain Commission Accepted** — mark with the member's name when they take the card; read by **Dungeon of the Mad Mage** (unconverted), wherever Joroth Brighthelm's team or the Eye of the Spider appears.
->
-> This Event also reads **Warduke Reached** (the hold), **Laeral Told of Jalester** and **Jalester Concealed** (who writes the summons and who attends), and **Laeral Doubts the Party** (one scene). It reads **Manshoon Named** and **Jarlaxle Unmasked** for the speakers' wording, and **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks.
+Set **True** when Laeral names the rank and the ceremony completes. This is the final rank — no subsequent rank event reads this flag. Read in **Vault of Dragons** if it has not yet resolved (Laeral's preparation and cooperation are at their peak). Read in Dungeon of the Mad Mage content referencing the character's Alliance standing and the attaché's availability.
 
-> [!gamemaster]**Next Steps**
+#### Undermountain Commission Accepted: True / False
+
+Set **True** if the character accepts Laeral's request to watch for the missing Alliance agents. Set **False** if they decline. Read in Dungeon of the Mad Mage events where the missing handlers or the cartography team's fate is encountered. If **True**, the character holds the identifiers on the folded card and is expected to report findings through Jalester; if **False**, Laeral does not raise the matter again.
+
+> **[GM]**
 >
-> The seal and the attaché are active for this member from the next morning, and a held charge benefit is used when a charge appears. This is the final Lords' Alliance rank, and its benefits stay available for later quests. This Event awards no Milestone Points.
+> #### Next Steps
+>
+> The character leaves Piergeiron's Palace with: the outstanding charge removed (or held in reserve), three honest answers from the Open Lord, and their decisions on Sevel Dastar and the Undermountain Commission recorded.
+>
+> If **Vault of Dragons** has not yet resolved, Sevel Dastar, if accepted, can be deployed in the vault approach. If the campaign has moved into the Dungeon of the Mad Mage, confirm the Undermountain Commission flag in the session record: the missing agents are a thread, not a footnote.
 
 ## Overview
 
-Laeral Silverhand names a Lords' Alliance member a Lioncrown in a working annex at Piergeiron's Palace. She clears one charge, answers three questions honestly, offers an attaché and asks the member to look for a missing Alliance team in Undermountain.
+Laeral Silverhand promoted the character to Lioncrown, the highest rank of the Lords' Alliance, at a private meeting in Piergeiron's Palace. The ceremony included the removal of an outstanding charge, an offer of three honest answers to any questions about the Grand Game or Waterdeep's politics, and the introduction of a dedicated attaché. Laeral made a private request about Undermountain at the close.
+
+## Read Aloud
+
+> [!narrative]
+> The summons says "private Alliance business." The room at Piergeiron's Palace does not look like where the Open Lord receives petitioners. It looks like where she actually works — scarred table, cabinet of files, a fire that has been burning for hours. Laeral Silverhand is at the far end, and she looks at you once when you enter.
+>
+> > "Lioncrown. Sit down."
 
 ## Summary
 
-We were named Lioncrowns of the Lords' Alliance by Laeral Silverhand in a small annex at Piergeiron's Palace. She cleared a charge from our names and answered three questions honestly. Sevel Dastar was offered to us as an attaché, and Laeral asked us to look for Joroth Brighthelm's team if our road led into Undermountain. Each of us chose whether to take them.
+The character reached Renown 50 and received the Lioncrown rank from Laeral Silverhand in a working annex at Piergeiron's Palace. Laeral removed an outstanding charge, answered three direct questions honestly, and introduced Sevel Dastar as an available field attaché; the character decided whether to take him on. At the close of the meeting, alone with the character, Laeral asked them to watch for two missing Alliance handlers and a cartography team if their path led into Undermountain; the character decided whether to accept the commission.
