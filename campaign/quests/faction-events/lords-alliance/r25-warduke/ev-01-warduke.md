@@ -20,11 +20,11 @@ Hold this Event until **Stingblade Reached** is marked for the member. At noon o
 
 Every qualifying member is invited on their own account, so several members who cross the threshold together attend together and are recorded one by one. Companions who are not Lords' Alliance members are not invited, and a companion who tags along sits at the bar. A member who is away from Waterdeep finds the runner at their first surface lodging on return, and the meeting moves to the following evening.
 
-A member marked **LA Suspended** gets no note. When **LA Reinstated** is marked for that member, the note comes at the next noon. A member marked **LA Dismissed** never receives one.
+A member marked **LA Suspended** gets no note, and the note comes at the next noon once **LA Reinstated** is marked for that member. A member marked **LA Dismissed** never receives one.
 
 > [!readaloud]
 >
-> A boy in a plain Watch tabard knocks at your door a little after noon and holds out a square of paper folded in thirds. It is sealed with grey wax, and he runs off down the stairs before you break the seal. Inside are three lines in a small, upright hand.
+> A boy in a plain Watch tabard knocks at your door a little after noon and holds out a square of paper folded in thirds. It is sealed with grey wax, and he runs off down the stairs before you break the seal, and inside are three lines in a small, upright hand.
 >
 > > Corner table at dusk. Please come alone, and please bring this note. You will be wanted at the Palace tomorrow morning, so keep it free. J.S.
 
@@ -51,15 +51,15 @@ If Jalester is receiving the member, read the following aloud:
 >
 > The taproom of the Yawning Portal is loud tonight, with hearth smoke hanging under the beams and the great well breathing cold air past its windlass. Durnan polishes a mug at the bar and tips his head toward the corner. Jalester sits there with his back to the wall, and a small bundle of folded sheets lies beside his notebook and an untouched tankard. He rises to shake your hand before he offers a chair.
 >
-> > "Thank you for coming this evening, and please sit down. You're a Warduke, which is the senior field rank we give. Three benefits are mine to explain tonight, and the fourth is Laeral's to explain tomorrow. Please hear all of them before you ask me anything."
+> > "Thank you for coming this evening, and please sit down. You're a Warduke, which is the senior field rank we give, and three benefits are mine to explain tonight while the fourth is Laeral's to explain tomorrow. Please hear all of them before you ask me anything."
 
 If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a small bundle of folded sheets. He is a human in a plain coat, and he nods to the chair across from him without getting up.
+> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a small bundle of folded sheets, and he is a human in a plain coat who nods to the chair across from him without getting up.
 >
-> > "My name is Dastar. Silvermane is elsewhere for now, so I'm handling his people, and I'll handle you the way he would. You're a Warduke, and three things are mine to give tonight. She gives the fourth herself in the morning."
+> > "My name is Dastar, and Silvermane is elsewhere for now, so I'm handling his people the way he would. You're a Warduke, and three things are mine to give tonight, while she gives the fourth herself in the morning."
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
@@ -69,7 +69,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 >
 > Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean, courteous Lords' Alliance field agent in a dark doublet, who writes in a small notebook while he listens and goes through the Warduke benefits in the order the member will need them.
 >
-> Jalester is Friendly and a little tired. He asks short, specific questions, gives concise answers and thanks people formally for small favors. He says "Understood." when he accepts an answer, and before the member leaves he asks one question more specific than the talk needs. He swears rarely, and only at himself.
+> Jalester is Friendly and a little tired, and he asks short, specific questions, gives concise answers and thanks people formally for small favors. He says "Understood." when he accepts an answer, and before the member leaves he asks one question more specific than the talk needs. He swears rarely, and only at himself.
 >
 > Jalester is happy to discuss the following topics:
 >
@@ -84,7 +84,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 >
 > Jalester counts the benefits off on his fingers.
 >
-> > "Three things tonight, and Laeral explains the fourth herself. Four veterans from the Watch will fight beside you for one operation in each quest. A sheet on the villain crews arrives every third day. Once a quest, I carry a written request to a Lord I will not name."
+> > "Three things tonight, and Laeral explains the fourth herself. Four veterans from the Watch will fight beside you for one operation in each quest, and a sheet on the villain crews arrives every third day. Once a quest, I carry a written request to a Lord I will not name."
 
 > [!qna]**How do I reach you?**
 >
@@ -111,7 +111,7 @@ Jalester starts with the Veterans, and the table is still the well table, so **B
 > [!exploration]**Calling the Veterans**
 >
 > - **Contact:** the member leaves a written request with Durnan at the Portal's bar, addressed to "Silvermane's friends", or hands it to Jalester at the table. It names the quest, the operation, the surface place where it starts, the hour and the aim.
-> - **Notice:** three days. Jalester's reply is waiting at the bar by the next evening, signed "J.S.", and it either confirms the meeting place or gives a reason for refusing. A request with less notice is refused and spends nothing.
+> - **Notice:** three days are needed, and Jalester's reply is waiting at the bar by the next evening, signed "J.S.", with the meeting place or a reason for refusing. A request with less notice is refused and spends nothing.
 > - **The operation:** any task inside a named quest on the surface of Waterdeep, including its cellars and sewers. The Veterans do not go down the Portal's well or into Undermountain. The six Lords' Alliance missions are not eligible, because their scenes fix who stands where.
 > - **Service:** four Veterans meet the member at the place and hour named. They stay until the operation ends or is abandoned, or until three days have passed, and then they return to their captain.
 > - **Limit:** one operation per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and events and rank events are not quests. The use counts against the quest the party is in when the Veterans arrive, and a call withdrawn a full day ahead is not spent. An unused call is lost when the quest ends.
@@ -126,7 +126,7 @@ Jalester starts with the Veterans, and the table is still the well table, so **B
 >
 > Use the 2024 **Warrior Veteran** stat block for each of the four, unmodified. The senior of them is a grey-haired woman who speaks for the team, and none of the four has a name.
 >
-> In CR 2.0 terms, a Warrior Veteran is a CR 3 ally with Power 30 for levels 5 to 10 and 25 for level 11 and above. The number who fight is the number of player characters minus one, to a cap of four, and the rest hold the rear and add nothing. Party Power with the fighting Veterans added, and the Bruising budget in brackets:
+> In CR 2.0 terms, a Warrior Veteran is a CR 3 ally with Power 30 for levels 5 to 10 and 25 for level 11 and above. The number who fight is the number of player characters minus one, to a cap of four. The rest hold the rear and add nothing. Party Power with the fighting Veterans added, and the Bruising budget in brackets:
 >
 > | Level | 3 PCs | 4 PCs | 5 PCs |
 > |---|---|---|---|
@@ -135,7 +135,7 @@ Jalester starts with the Veterans, and the table is still the well table, so **B
 > | 7 | 183 (109.8) | 254 (152.4) | 325 (195) |
 > | 8 | 192 (115.2) | 266 (159.6) | 340 (204) |
 >
-> At levels 9 and 10, add 30 for each fighting Veteran, and from level 11 add 25 for each. The four are a major force, because they add 120 to a five-character party's 220 at level 8. Build the fight from the allied total, or keep it at the base budget and treat the Veterans as the reserve, and pick one for the scene.
+> At levels 9 and 10, add 30 for each fighting Veteran, and from level 11 add 25 for each. The four are a major force, because they add 120 to a five-character party's 220 at level 8. Build the fight from the allied total, or keep it at the base budget and treat the Veterans as the reserve. Pick one approach for the whole scene and keep to it.
 >
 > #### The Veterans' Tactics
 > To begin combat, the Veterans form a line in front of the member and anyone who cannot take a hit. During combat, they:
@@ -144,7 +144,7 @@ Jalester starts with the Veterans, and the table is still the well table, so **B
 > - Focus the enemy that is hurting the member or a companion the most.
 > - Keep the Veterans who do not fight at the rear and at the named exit.
 >
-> A Veteran withdraws toward the exit the member named when it is reduced to 32 Hit Points or fewer, and it takes a fallen character with it if it can reach one. The team stops when the member calls it off. It does not attack the Watch, a Lord, a captive or a surrendered creature.
+> A Veteran withdraws toward the exit the member named when it is reduced to 32 Hit Points or fewer. It takes a fallen character with it if it can reach one, and the team stops when the member calls it off. The team does not attack the Watch, a Lord, a captive or a surrendered creature.
 
 When the team arrives for its operation, read or paraphrase the following:
 
@@ -152,7 +152,7 @@ When the team arrives for its operation, read or paraphrase the following:
 >
 > Four people in Watch grey stand at the place you named, with breastplates under plain cloaks and no tabards. The oldest is a grey-haired woman with a greatsword across her back, and she steps forward while the other three check the street in opposite directions.
 >
-> > "We're the Open Lord's loan to you, and we'll follow your plan until it ends. We won't touch the Watch, a Lord or anyone who has laid down their arms. Tell us where we stand."
+> > "We're the Open Lord's loan to you, and we'll follow your plan until it ends. We won't touch the Watch, a Lord or anyone who has laid down their arms, so tell us where we stand."
 
 > [!qna]**Will they follow any plan?**
 >
@@ -162,7 +162,7 @@ When the team arrives for its operation, read or paraphrase the following:
 
 > [!qna]**Can they come below the city?**
 >
-> > "No. They are the city's soldiers, and they will not go down the well. Everything above it is open to them."
+> > "No, they are the city's soldiers, and they will not go down the well. Everything above it is open to them."
 
 ### The Sheets
 
@@ -176,11 +176,11 @@ When the team arrives for its operation, read or paraphrase the following:
 >
 > - **Contact:** a sheet, folded in thirds and signed "J.S.", waits at the Portal's bar every third day, and Durnan hands it to the member who says "Silvermane's friends". The first sheet comes on the third morning after the rank is named.
 > - **Cadence:** a sheet arrives every third day while the member holds the rank. If none has arrived by the fourth day, a team has moved or the courier is compromised, and Jalester says so at the table.
-> - **Position:** the sheet gives the ward where each team last met the party. If the party has not met a team, it gives the ward of that faction's most recent outpost the party hit, and if neither applies it says "not located".
+> - **Position:** the sheet gives the ward where each team last met the party. If the party has not met a team, it gives the ward of that faction's most recent outpost the party hit. If neither applies, it says "not located".
 > - **Names:** a sheet names a team only after the member has met it. Until then it says "the first crew", "the next crew" or "the third crew", and it never names a leader.
 > - **Wording:** the sheet says "the Splinter" until **Manshoon Named** is marked for the member, and "the carnival fleet" until **Jarlaxle Unmasked** is marked. After that it may say "Manshoon's cell" and "Bregan D'aerthe". It never mentions imps, devils or a pact.
 > - **Limit:** no limit applies, and the sheets are free. The sheet never reproduces a team's orders or its loot.
-> - **Who else:** the member only. Companions can read the sheet, and Durnan hands nothing to a companion who asks.
+> - **Who else:** companions can read the sheet, but only the member can collect it, and Durnan hands nothing to a companion who asks.
 > - **Loss rule:** a member who sells a sheet, shows one to a faction's agent or leaves one where it can be read loses the sheets for a tenday. Jalester hears of it within a day.
 > - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the sheets are suspended until the Renown is restored.
 
@@ -228,7 +228,7 @@ When the first sheet arrives, read or paraphrase the following:
 >
 > He holds your eye while the noise of the taproom carries on around the table.
 >
-> > "I'm telling you this accurately. I do not know who it is either."
+> > "I'm telling you this accurately, and I do not know who it is either."
 
 > [!exploration]**Writing the Request**
 >
@@ -237,7 +237,7 @@ When the first sheet arrives, read or paraphrase the following:
 > - **Delivery:** on the fourth morning after Jalester accepts, the Lord's answer is waiting at the drop, in a sealed packet with no signature.
 > - **Limit:** one request per member in each quest, counted against the quest the party is in when Jalester accepts. A discussion, a refusal or a withdrawn draft spends nothing, and an unused request is lost when the quest ends.
 > - **Refused:** any request that harms the city, hides an attack on non-combatants or needs authority beyond Waterdeep.
-> - **Who else:** the member only. The Lord does not give the member's name to anyone, and a request made in the member's name by a companion is ignored.
+> - **Who else:** only the member may ask, and a request made in the member's name by a companion is ignored. The Lord does not give the member's name to anyone.
 > - **Loss rule:** a member who gives false facts in a request, or who takes anything but copies from a sealed room, loses the benefit for a tenday. Jalester hears of it within a day.
 > - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and the requests are suspended until the Renown is restored.
 >
@@ -271,9 +271,9 @@ If Sevel Dastar is the handler, he closes without a question. He says the follow
 
 > [!readaloud]
 >
-> > "Nine tomorrow, at the Palace's south gate. Show this card. The clerk will ask how you take your tea, so have an answer."
+> > "Nine tomorrow, at the Palace's south gate, and show this card. The clerk will ask how you take your tea, so have an answer."
 
-Jalester writes down whatever the member answers and says "Understood.", and nothing in the Event depends on the answer. He gives no assignment tonight. Then he tucks the notebook inside his doublet, stands and walks out through the Portal's front door.
+Jalester writes down whatever the member answers and says "Understood.", and nothing in the Event depends on the answer. He gives no assignment tonight, and then he tucks the notebook inside his doublet, stands and walks out through the Portal's front door.
 
 ### The Long Room
 
@@ -283,7 +283,7 @@ Up to two companions may come, and they sit with the member at the near end of t
 
 > [!gamemaster]**Which Meeting This Is**
 >
-> Check the member's record before reading anything. This is the member's second meeting with Laeral if **Writ Issued** names the member, because **An Audience with the Open Lord** has run. In every other case this is the first meeting, and Laeral never calls the second meeting a first.
+> Check the member's record before reading anything, because this is the member's second meeting with Laeral if **Writ Issued** names the member, because **An Audience with the Open Lord** has run. In every other case this is the first meeting, and Laeral never calls the second meeting a first.
 >
 > - **Second meeting:** read the second-meeting passage, and add the doubt line if **Laeral Doubts the Party** is marked.
 > - **First meeting:** read the first-meeting passage, and add the account line if **LA Grand Game Escalated** is marked for the member.
@@ -301,15 +301,15 @@ If this is the second meeting, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The sergeant at the gate knows your face and leads you through the same three corridors to the long room. Morning light from the tall windows lies across the table laid for twelve. Laeral Silverhand sits at its head with a cup of tea at her elbow. She sets the cup down and looks at you for a moment before she speaks.
+> The sergeant at the gate knows your face and leads you through the same three corridors to the long room. Morning light from the tall windows lies across the table, where Laeral Silverhand sits at its head with a cup of tea at her elbow. She sets the cup down and looks at you for a moment before she speaks.
 >
-> > "We have sat in this room before. Please sit again, and I will be brief."
+> > "We have sat in this room before, so please sit again, and I will be brief."
 
 If **LA Grand Game Escalated** is marked for the member on a first meeting, add the following:
 
 > [!readaloud]
 >
-> Laeral touches the small book and then folds her hands on the table.
+> Laeral touches the small book, folds her hands on the table and waits a moment before she speaks.
 >
 > > "Jalester gave me your account of the Stone and the vault. I have read it three times, and I have no further question about it today."
 
@@ -317,7 +317,7 @@ If **Laeral Doubts the Party** is marked on a second meeting, add the following:
 
 > [!readaloud]
 >
-> Laeral waits a moment before she goes on, and her voice does not change.
+> Laeral waits a moment before she goes on, and her voice does not change while she looks steadily at you.
 >
 > > "I remember that someone in this room was not truthful with me. I have asked you here regardless, and I will tell you what I can."
 
@@ -327,7 +327,7 @@ Laeral speaks to the member alone and explains her benefit in three sentences, r
 >
 > > "Private audiences, one in each quest. You arrange them through Jalester, and I will make time."
 >
-> She looks at you, and the silence runs on until you shift in your chair.
+> She looks at you for a long moment, and the silence runs on until you shift in your chair.
 >
 > > "I'm not doing this to make you feel important."
 
@@ -335,7 +335,7 @@ Laeral speaks to the member alone and explains her benefit in three sentences, r
 >
 > Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, a tall silver-haired elf in a plain grey gown, who keeps a cup of tea at her elbow and a small book under her hand.
 >
-> Laeral is Friendly and brief. She speaks in complete, measured sentences, lets a silence run until someone fills it and never raises her voice or swears in office. She uses a character's full name when she is displeased, and she gives each member fifteen minutes and wastes none of them.
+> Laeral is Friendly and brief, and she speaks in complete, measured sentences, lets a silence run until someone fills it and never raises her voice or swears in office. She uses a character's full name when she is displeased, and she gives each member fifteen minutes and wastes none of them.
 >
 > Laeral will discuss the following topics:
 >
@@ -351,13 +351,13 @@ Laeral speaks to the member alone and explains her benefit in three sentences, r
 
 > [!qna]**Will you give us a task?**
 >
-> > "No. Assignments come from the Alliance's desk, and I am here to hear you. If I need something done, the Alliance will ask you in the usual way."
+> > "No, assignments come from the Alliance's desk, and I am here to hear you. If I need something done, the Alliance will ask you in the usual way."
 
 > [!qna]**How is Jalester?**
 >
 > If **Laeral Told of Jalester** is marked, Laeral answers with a small nod toward the door.
 >
-> > "He works at a desk in this building now, and he is well. He has not complained."
+> > "He works at a desk in this building now, and he is well, and he has not complained."
 >
 > In every other case, she answers in the same level voice.
 >
@@ -367,14 +367,14 @@ The introduction ends with her parting words, and it spends no audience.
 
 > [!readaloud]
 >
-> Laeral writes a line in her small book and closes it over her thumb. She stands, and the sergeant at the double doors steps forward to lead you out.
+> Laeral writes a line in her small book and closes it over her thumb as she stands up from the head of the table. The sergeant at the double doors steps forward to lead you out.
 >
-> > "Good work. That will be all."
+> > "Good work, and that will be all."
 
 > [!exploration]**A Private Audience**
 >
 > - **Contact:** the member asks Jalester at the table, or leaves a written request with Durnan at the bar. It names the result, either a Read with the faction or a Ruling with the act and the place.
-> - **Delay:** Jalester's reply is waiting at the bar by the next evening, signed "J.S.", and it gives the audience on the third morning after he accepts, at 09:00 in the long room. The audience lasts fifteen minutes.
+> - **Delay:** Jalester's reply is waiting at the bar by the next evening, signed "J.S.", and it gives the audience on the third morning after he accepts, at 09:00 in the long room, and it lasts fifteen minutes.
 > - **Who attends:** the member, and up to two companions who sit and listen. Laeral speaks to the member alone, and a companion cannot ask for a result of their own.
 > - **Limit:** one audience per member in each quest, counted against the quest the party is in when the audience is held. The introduction above spends nothing. A request withdrawn a full day ahead is not spent.
 > - **Refused:** a Read of a Lord or the Alliance, a Ruling on an act against the Watch, a Lord or the Alliance, and any request for a quest, the Stone or the vault. Jalester gives his reason before the use is spent.
@@ -397,7 +397,7 @@ The introduction ends with her parting words, and it spends no audience.
 >
 > The member names one act and one place in Waterdeep. The act must be one the member means to commit within ten days. Laeral names its class and writes it in the chancery book, and the member may name a second act at the same audience.
 >
-> - **Minor:** an act on the overlook list, which is brawling without grievous injury, carrying an unlicensed weapon openly, trespass without theft or a breach of the peace. Laeral writes a ruling number on a slip. A Watch officer shown the slip within ten days treats that act at that place as settled and writes no charge. The slip covers the member alone.
+> - **Minor:** an act on the overlook list, which is brawling without grievous injury, carrying an unlicensed weapon openly, trespass without theft or a breach of the peace. Laeral writes a ruling number on a slip. A Watch officer shown the slip within ten days treats that act at that place as settled and writes no charge, and the slip covers the member alone.
 > - **Serious:** theft, arson, forced entry into a home or damage to property. Laeral names the charge and the fine a magistrate would set, and she gives no cover.
 > - **Forbidden:** a killing, an attack on an officer or a Lord, or damage to Watch property. Laeral says "I will not rule on this, and I ask you not to do it", and nothing is written down.
 
@@ -409,7 +409,7 @@ If the member asked for a Read and the faction is Suspicious, read or paraphrase
 
 > [!readaloud]
 >
-> Laeral opens her small book to a marked page and reads one line without looking up.
+> Laeral opens her small book to a marked page and reads one line aloud without looking up from the paper.
 >
 > > "The Guild has begun to ask who you are. That holds for about a tenday, and I would not rely on it for longer."
 
@@ -417,7 +417,7 @@ If the member asked for a Ruling and the act is Minor, read or paraphrase the fo
 
 > [!readaloud]
 >
-> Laeral writes a number on a slip, signs it and slides it across the table to you.
+> Laeral writes a number on a small slip of cream paper, signs it and slides it across the table to you.
 >
 > > "That is a minor matter, and this number says I have weighed it. Show the slip to any officer within ten days."
 
@@ -445,7 +445,7 @@ The Event concludes when the member has heard all four arrangements, holds the P
 
 > [!gamemaster]**Next Steps**
 >
-> All four benefits are active for this member from the next morning. **Lioncrown** occurs when this member reaches Renown 50, expected during **Dungeon of the Mad Mage**, and Sevel Dastar delivers it if **Laeral Told of Jalester** is marked. **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**, and it arrives by its own contact if it has not run. This Event awards no Renown and no Milestone Points.
+> All four benefits are active for this member from the next morning. **Lioncrown** occurs when this member reaches Renown 50, expected during **Dungeon of the Mad Mage**, and Sevel Dastar delivers it if **Laeral Told of Jalester** is marked. **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. It arrives by its own contact if it has not yet run. This Event awards no Renown and no Milestone Points.
 
 ## Overview
 
