@@ -1,25 +1,37 @@
 # Design Notes: Fentree's Ledger
 
-## The Vault Intelligence Pivot
+## What the Source Gave
 
-***Why this mission is structurally critical.*** Mission 5 is the hinge between the Alliance's intelligence arc and **Vault of Dragons**. Laeral has been operating on wrong intelligence for three years — she believes the Vault of Dragons is in Neverwinter. The ledger corrects this. A party that delivers the ledger changes Laeral's entire preparation timeline and makes Mission 6 available. A party that lets the ledger fall to the Guild or the Cassalanters changes the **Xanathar's Lair** and **Cassalanter Villa** opposition states in concrete, visible ways.
+No source text exists for this mission. Appendix B and Appendix C stop at the fourth Lords' Alliance mission, and the Factions Guide gives only a one-line summary of the ledger and its payoff. The first draft supplied the shape that survives: a dead investigator, a stolen ledger, a broker running two buyers at an inn, three approaches and a debrief in which Jalester reads the pages twice.
 
-Both failure states are designed to create real consequences rather than narrative flavor. The Guild getting the ledger means their **Xanathar's Lair** response team has advance knowledge. The Cassalanters getting it means they arrive at **Cassalanter Villa** with a partial map advantage. These are not abstract "the world is different" statements — they translate directly into harder heist conditions in specific quests. The party that plays this mission cleanly has materially improved the odds for their heist-phase play.
+## What Changed
 
-## Three Approaches and the Bidding Clock
+The first draft opened with three checks in a row. The rewrite splits the mission at the change of place and clock. **The Missing Volume** is the investigation, with three independent leads to the Green Dragon and a free fourth for a Stingblade member. **The Green Dragon** is the evening at the inn, with a bell clock, three approaches and one fight.
 
-***Rezka's plan creates the structure.*** Rezka's simultaneous bidding scheme is not just a dramatic premise — it is what generates the three-approach structure. The clock is the second meeting: if the party does not act before third bell, the bidding concludes and they are in a street interception against Noska. The three approaches exist because Rezka's plan has three distinct vulnerabilities: she can be caught before the first meeting, the buyers can be turned against each other, or the winner can be intercepted after.
+Jalester writes the first task as a letter, which is the mission's deliberate break from his in-person contact. The reason is that Laeral's chancery wanted the instruction filed, and the courier carries written questions and answers so that the brief still has a social block and replies. His deadline is the last bell of the second evening, and **Suspension and Dismissal** reads it.
 
-The interception path is intentionally the hardest. Letting the bidding conclude is a valid choice — the party may not arrive in time to use the other options — but it means a fight in the street, a bodyguard escape risk, and a more complicated delivery to Jalester. The "correct" approach is the one the party can actually execute given how the investigation went.
+Noska Ur'gray no longer bids. His voice profile says he never negotiates, so Ossery Klenn, a Guild negotiator, takes the chair, and Garrow Tull leads the bodyguards. The old Thug and Bandit escort becomes a **Tough Boss** with **Tough** fighters at each party size, and Rezka's flight is a track and not a pursuit scene.
 
-## Emira Volstren
+## Departures from the Source
 
-***The Cassalanter connection.*** Emira Volstren is present primarily to confirm what Mission 4 planted: the Cassalanter household is taking active operational steps in the Grand Game. Her presence at the Green Dragon, identifiable by the household signet ring and the house guard waiting outside, is the second data point connecting the Cassalanters to vault intelligence gathering. Mission 4 gave the party an address. Mission 5 gives them a named household representative actively trying to acquire vault-locating evidence.
+The first draft dated the ledger to "1244 DR", placed Fentree's house on Copper Street in the Trades Ward and had him die on "Greengrass morning". The ledger now covers the last two years of Neverember's term, the house is on Brasswick Lane, and Fentree died ten days before the letter. The ledger names "a vault custodian in Waterdeep" and no district, so it does not pre-empt the Stone's reveal.
 
-Reporting her name to Jalester is worth a renown point because it advances the Alliance's pre-**Cassalanter Villa** dossier. It is not required — the mission's primary objective is the ledger — but it is the kind of secondary intelligence work that distinguishes thorough play from adequate play.
+Laeral is said to place the hoard in Neverwinter, which follows the guide. If **LA Grand Game Escalated** is already marked, the debrief reads the ledger as proof of who paid for the vault and not as news of where it is. The three readings of pages 47 to 52 are independent, so no single check settles the mission.
 
-## Rezka's Offer
+## Invented Names and Open Items
 
-***The exit deal.*** Rezka's offer — the ledger for safe exit — is designed to give the party a humane resolution option that costs nothing and rewards pragmatism. She is not a sympathetic character in the narrative sense; she stole from a dead man while his body was still being processed by the Watch. But she is also someone who correctly identified that she is in danger from both sides of the bidding war and is looking for a survivable path.
+The following are new and have no Notable Figures pages:
 
-Honoring the trade achieves all mission objectives without escalation, removes a Guild operative from Waterdeep, and requires nothing from the party except Jalester's name invoked with Watch contacts. The party that does this clean has done exactly what a well-run intelligence operation looks like. Jalester does not comment on the elegance. He notes it.
+- Brasswick Lane in the Trades Ward, which replaces Copper Street.
+- Tamsin Rook, the chancery courier, and Dessa Voll, the Caravan Court money-changer.
+- Garrow Tull, the Tough Boss, and the Reader, a Guild clerk who is named only by Rezka.
+- Ossery Klenn, Emira Volstren, Pravin Cloth, Orlass Hemmet and Rezka keep their first-draft names, and their alignments here are invented.
+- The Green Dragon's house bell, which rings the hour from six, and Cellar Walk, the lane behind its yard.
+
+Items for the out-of-scope log:
+
+- The Archer Above ends with the Renown 8 gate for this mission, and the gate is now Renown 10.
+- Noska Ur'gray's Notable Figures page lists this mission, and he no longer appears in it. Dagult Neverember's page lists it too, though he never appears.
+- **Escalation to the Open Lord** (lines 31 and 69) must read **Ledger Delivered**, and it says Jalester "has read Fentree's notes".
+- The guide hook and the Vault of Dragons structure document use "Vault district" and "Mission 5" and must read the new outcome names.
+- Laeral is a human in Dragon Heist and a moon elf on her Notable Figures page, and this mission does not resolve it.
