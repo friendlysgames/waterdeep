@@ -22,7 +22,7 @@
 
 ### The Brief
 
-Jalester writes this task and does not speak it, because Laeral's chancery asked that the instruction be filed with her office. Tamsin Rook, a courier in the plain grey coat of the palace chancery, knocks at Trollskull Manor at 08:00 on the morning after a member reaches Renown 10 and 6th level. She gives a sealed copy to each Lords' Alliance member and waits in the taproom to carry questions to Jalester. Companions may listen, though the letter names the members only.
+Jalester writes this task and does not speak it, because Laeral's chancery asked that the instruction be filed with her office. Tamsin Rook is a courier in the plain grey coat of the palace chancery. She knocks at Trollskull Manor at 08:00 on the morning after a member reaches Renown 10 and 6th level. She gives a sealed copy to each Lords' Alliance member and then waits in the taproom to carry questions to Jalester. Companions may listen, though the letter names the members only.
 
 > [!readaloud]
 >
@@ -69,7 +69,7 @@ Each reply below arrives on a half-sheet. Hand it to the table or read it aloud.
 
 > [!gamemaster]**The Deadline**
 >
-> The deadline is the last bell on the evening after the letter arrives. A member who refuses the task, or who sends no word and makes no report by the last bell, is a case for **Suspension and Dismissal**. A party that works honestly and does not find the ledger costs nothing, and Jalester says so at the table. A character who knows the Caravan Court counting houses, such as a Guild Artisan or a Merchant, or who answers the letter's question with a yes, has Advantage on the check in **Lead Three**.
+> The deadline is the last bell on the evening after the letter arrives. A member who refuses the task, or who sends no word and makes no report by the last bell, is a case for **Suspension and Dismissal**. A party that works honestly and does not find the ledger costs nothing, and Jalester says so at the table. A character who answers the letter's question with a yes has Advantage on the check in **Lead Three**. A Guild Artisan or a Merchant counts as a yes.
 
 ### Three Ways to the Green Dragon
 
@@ -83,7 +83,7 @@ Three leads each name the Green Dragon Inn, and any one of them is enough. A fai
 >
 > Any character who searches the study and makes a successful **DC 13 Intelligence (Investigation)** check finds three things. The dust on the shelf is disturbed in the pattern of someone who knew where to look. Three ledger volumes stand on the upper shelf and the fourth slot is empty and clean, so the missing volume left within the last ten days. A copper button lies under the window seat, stamped with a coiled dragon, and it matches no coat in Fentree's wardrobe.
 >
-> - **Reading the button:** A character who grew up in Waterdeep, or who asks the constable, knows the coiled dragon as the mark on a porter's coat at the Green Dragon Inn near the Caravan Court. Anyone else learns it from a stable-hand within the hour.
+> - **Reading the button:** A character who grew up in Waterdeep, or who asks the constable, knows the coiled dragon. It is the mark on a porter's coat at the Green Dragon Inn near the Caravan Court. Anyone else learns it from a stable-hand within the hour.
 > - **On a failure:** The constable has watched the search from the doorway, and he points out the button. The search costs the party an hour.
 
 > [!readaloud]
