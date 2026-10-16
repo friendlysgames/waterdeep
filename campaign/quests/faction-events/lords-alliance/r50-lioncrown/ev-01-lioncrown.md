@@ -32,7 +32,7 @@ Companions are not invited, and a companion who comes along waits in the palace 
 >
 > - Laeral's magic has waned since the Spellplague, and only her closest confidants know it. Tonight she tells the member, because a Lioncrown helps hold the city and should know what it has to work with.
 > - Neither Jalester nor Sevel knows, so Laeral sends whoever is present out of the room before the questions. The admission is the one time she speaks of her decline.
-> - Joroth Brighthelm is a dwarf spy in Laeral's service. In the adventure he waits at the Yawning Portal and asks adventurers to find Falkir's Fist. Here he went below himself six tendays ago, with Ilsa Marrow and three hired mapmakers.
+> - Joroth Brighthelm is a dwarf spy in Laeral's service. In the adventure he waits at the Yawning Portal and asks adventurers to find Falkir's Fist. Here he went below himself six tendays ago, with Telsa Corlis and three hired mapmakers.
 > - The Runestone is Laeral's own research, and she hopes a fragment of Halaster's crystal will halt her decline. She has told Jalester only that the errand protects the city.
 > - **Laeral Told of Jalester** means she moved Jalester to a palace desk and trusts the member for it. **Laeral Doubts the Party** means she set a watch on the member after the audience. Each changes a line or two below, and neither changes the benefits.
 > - Nobody in this Event says Manshoon's name or calls Kolat Towers his unless **Manshoon Named** is marked for the member addressed. Until then Laeral says "the Splinter", and nobody names Jarlaxle before **Jarlaxle Unmasked**. Nobody names Illuun or says the Cassalanters are more than suspect.
@@ -317,7 +317,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 > [!gamemaster]**Joroth's Team**
 >
 > - **Joroth Brighthelm:** a dwarf Lords' Alliance spy in Laeral's service, with the **Spy** stat block.
-> - **Ilsa Marrow and the mapmakers:** Ilsa is a human clerk-agent who kept the team's ledger. The three hired cartographers have names Laeral does not have.
+> - **Telsa Corlis and the mapmakers:** Telsa is a human clerk-agent who kept the team's ledger. The three hired cartographers have names Laeral does not have.
 > - **The last dispatch:** it came up from Level 3 six tendays ago. It said the team was going down to Level 10, after Falkir's Fist and the Eye of the Spider.
 > - **Their fate:** this Event does not decide it. **Dungeon of the Mad Mage** (unconverted) does, and it reads **Undermountain Commission Accepted**.
 
@@ -338,7 +338,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 > The card holds two names, two code phrases and a symbol. The member who takes it can show it to companions and may teach them the phrases.
 >
 > - **Joroth Brighthelm:** the member asks "Is the lamp lit?" and the genuine Joroth answers "Lit and trimmed."
-> - **Ilsa Marrow:** the member asks "Is the ledger closed?" and the genuine Ilsa answers "Closed and signed."
+> - **Telsa Corlis:** the member asks "Is the ledger closed?" and the genuine Telsa answers "Closed and signed."
 > - **The symbol:** a closed hand inside a circle, which the team chalked on a wall at every camp where it was safe to approach.
 > - **Reporting:** the member brings word to their handler, whether it is a find, a body, a paper or a chalk mark. Jalester takes it at the well table, where anything said may reach something below the Portal and Jalester does not know. Sevel takes it at the table under the stairs if **Laeral Told of Jalester** is marked, and nothing said there reaches the water.
 > - **Deadline:** none, since Laeral does not ask for progress and nothing is lost if the member never goes below Level 3.
