@@ -16,7 +16,7 @@ The surrender at 26 Hit Points is the turn of the mission. Killing, handing over
 
 ## Departures from the Source
 
-Appendix C says Harko will not surrender, but the roster design and the brief both depend on his surrender. The fight is in a rope warehouse in Mudwagon Court, behind the Muleskull, so that Lira's back door stays close. The draft's backup location on Wharf Mast Lane is cut.
+Appendix C says Harko will not surrender, but the roster design and the brief both depend on his surrender. The fight is in a rope warehouse in Mudwagon Court, behind the Muleskull. That keeps Lira's back door close. The draft's backup location on Wharf Mast Lane is cut.
 
 The draft's "either" order is restored to the sword. The Veralax payoff, a missing Splinter liaison at **Faction Outposts**, is dropped because nothing reads it. The Thayan file now comes from Harko's account of the broker and not from a sealed Watch bundle.
 

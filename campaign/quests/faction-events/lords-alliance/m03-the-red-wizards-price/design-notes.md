@@ -2,11 +2,11 @@
 
 ## What the Source Gave
 
-Appendix C's third Lords' Alliance mission and the matching Dragon Heist row supplied the skeleton. A Red Wizard of Thay named Esloon Bezant is being courted by the Splinter, and Jalester wants the deal scuttled fast and without a trace. The source offers three ways to do it, which are a forged letter at DC 16 and 25 gp, a warning at DC 15, and a bribe of at least 500 gp. It also supplies Esloon's question, "Is there another offer? Not from you personally. From whoever decides these things," and Jalester's reply about formalizing something. The source's spellbook reward survives as Esloon's surrender line.
+Appendix C's third Lords' Alliance mission and the matching Dragon Heist row supplied the skeleton. A Red Wizard of Thay named Esloon Bezant is being courted by the Splinter, and Jalester wants the deal scuttled fast and without a trace. The source offers three ways to do it. They are a forged letter at DC 16 and 25 gp, a warning at DC 15, and a bribe of at least 500 gp. It also supplies Esloon's question, "Is there another offer? Not from you personally. From whoever decides these things," and Jalester's reply about formalizing something. The source's spellbook reward survives as Esloon's surrender line.
 
 ## What Changed
 
-The meeting is now the Skewered Dragon, which **Finding Floon** makes a Splinter house, and the landlord helps nobody. The Rusted Anchor in the source is already used by the first Order of the Gauntlet mission. The deadline is the handshake tonight, and Jalester gives it in his brief. The search for the room is three independent leads that each give the room and the hour, and they are the pot-boy, the side door and Esloon's supper order. The source's three paths became the ways to turn Esloon. The Watch route and the broker route were kept from the restored draft, and each now has its own check or condition.
+The meeting is now the Skewered Dragon, which **Finding Floon** makes a Splinter house, and the landlord helps nobody. The Rusted Anchor in the source is already used by the first Order of the Gauntlet mission. The deadline is the handshake tonight, and Jalester gives it in his brief. The search for the room is three independent leads that each give the room and the hour. They are the pot-boy, the side door and Esloon's supper order. The source's three paths became the ways to turn Esloon. The Watch route and the broker route were kept from the restored draft, and each now has its own check or condition.
 
 Esloon uses the full 2024 **Mage** and fights alone at every size, with safeguards on the first round and a hard withdrawal by *Misty Step* and *Invisibility*. His crew is five **Tough** fighters, which is the Dragon Heist count, and it is an optional second wave. Jalester briefs in person at Trollskull Manor and does not sit, which is the deliberate break from the well table for this mission. The debrief returns to the well.
 
@@ -26,7 +26,7 @@ The following are new and have no Notable Figures pages. Sarvos, Rovan and Crale
 
 Items for the out-of-scope log:
 
-- The Esloon Notable Figures page lists **The Exile's Return** as a feature and says the Alliance wants him "detained, not recruited". This Event names him in **The Exile's Return** only through the sealed file, and it lets the party turn him as well as detain him.
+- The Esloon Notable Figures page lists **The Exile's Return** as a feature and says the Alliance wants him "detained, not recruited". This Event names him in **The Exile's Return** only through the sealed file. It also lets the party turn him as well as detain him.
 - The Faction Outposts structure doc carries a "checkpoint strike" line near the Trades Ward. This Event puts the checkpoint on Fillet Lane in the Dock Ward.
 - The mechanics reference words the withdrawal as "at the end of his turn in round 3". The text has him spend his next turn withdrawing, which gives the same three rounds of attacks. At three characters the plain table makes a lone Mage Crushing, and the reference's round-2 withdrawal is the only softening.
 - **Laeral Told of Jalester** is written by **An Audience with the Open Lord**, which cannot precede this mission, so Sevel Dastar never replaces Jalester here.

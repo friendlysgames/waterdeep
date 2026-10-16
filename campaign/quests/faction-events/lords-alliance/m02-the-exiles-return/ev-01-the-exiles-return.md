@@ -15,7 +15,7 @@
 > [!gamemaster]**Who Knows What**
 >
 > - Harko Swornhold is fifty and was exiled three years ago for trying to bribe Magister Kylynne Silmerhelve. He came back to Waterdeep about two months ago.
-> - Xanathar's Guild pays Harko to recruit kenku for its street crews. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing. The Guild does not know about Veralax.
+> - Xanathar's Guild pays Harko to recruit kenku for its street crews. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing, and the Guild does not know about Veralax.
 > - Jalester learned about the Guild work from a Watch informant. He does not know about Veralax, the Splinter's coin or the cipher note in Harko's coat.
 > - Jalester sends no Watch Escort and spends no String-Pulling on this job. Two Guards at the warehouse would be witnesses, and a favor cannot erase a body.
 > - The Muleskull's kitchen yard opens onto Mudwagon Court, and the rope warehouse stands on the other side of the court. Lira, an evening server, walks into the court when the noise stops.
@@ -95,7 +95,7 @@ Three leads each name the rope warehouse in Mudwagon Court, and any one of them 
 
 > [!readaloud]
 >
-> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock. Then she picks up a brass buckle and turns it in the light.
+> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock, then picks up a brass buckle and turns it in the light.
 >
 > > "That's two gold, and I'll take less if you've something to ask. You'll be wanting the kenku, I expect, since a lot of people have been wanting the kenku lately."
 
@@ -143,7 +143,7 @@ When a character wins his trust, read or paraphrase the following:
 >
 > Ibb Marsh knows every court and gate on his round, and he answers anyone who walks it with him. This lead needs no check and costs the party a whole night, which is one of its three. A character who walks the round sees black feathers and rope-dust at the gate to Mudwagon Court. A broad man in a scarred leather coat slips in from the row at two bells, and Ibb says he has seen the same man at the same hour for a tenday.
 >
-> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and learns Harko's face. That matters in **The Rope Warehouse**.
+> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and learns Harko's face, which matters in **The Rope Warehouse**.
 
 When the party finds the court, read the following aloud:
 
@@ -186,7 +186,7 @@ If the fight begins instead, read the following aloud as the first character ent
 
 > [!readaloud]
 >
-> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is standing among them with a Pistol raised. His armed hands step toward the doorway.
+> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is standing among them with a Pistol raised, while his armed hands step toward the doorway.
 >
 > > "Alliance. Jalester's still sending children, I see. Come in, then, and let's get this done."
 
@@ -199,7 +199,7 @@ If the fight begins instead, read the following aloud as the first character ent
 > - **Five characters:** Harko, two **Bandits** and one **Tough**.
 >
 > #### Harko's Tactics
-> To begin, Harko stands behind the crates with his Pistol and fires at the first character through the door. The Bandits hold the doorway.
+> To begin, Harko stands behind the crates with his Pistol and fires at the first character through the door, while the Bandits hold the doorway.
 >
 > During combat, Harko:
 > - Fires his Pistol at the nearest character, and uses Parry when a melee hit lands while he holds a weapon.
@@ -239,7 +239,7 @@ When Harko surrenders in the fight, read the following aloud:
 
 > [!readaloud]
 >
-> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth. The Bandits break for the service door.
+> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth, and the Bandits break for the service door.
 >
 > > "I'm not dying for this."
 
@@ -310,7 +310,7 @@ Jalester's order was to kill Harko, and Harko's surrender gives the party a choi
 
 > [!exploration]**Harko's Belongings**
 >
-> If Harko is dead or released before he names Veralax, the party can still reach the Tarred Rope in two ways. Any character who searches the loft and makes a successful DC 14 Intelligence (Investigation) check finds a scrap in Harko's hand that reads "Veralax, Tarred Rope, Highsun, middle booth", and a captured Bandit gives the same place when questioned.
+> If Harko is dead or released before he names Veralax, the party can still reach the Tarred Rope in two ways. Any character who searches the loft and makes a successful DC 14 Intelligence (Investigation) check finds a scrap in Harko's hand that reads "Veralax, Tarred Rope, Highsun, middle booth". A captured Bandit gives the same place when questioned.
 >
 > - **On a failure with no captured Bandit:** The party leaves without the Tarred Rope, and nothing else in this Event depends on it.
 
@@ -320,7 +320,7 @@ When the fight has ended and the warehouse has gone silent, read the following a
 
 > [!readaloud]
 >
-> Quick footsteps cross the court from the Muleskull's kitchen yard, and a young woman in a server's apron stops in the open service door with an empty tray in both hands. She looks at Harko, then at you, then at Harko again.
+> Quick footsteps cross the court from the Muleskull's kitchen yard. A young woman in a server's apron stops in the open service door with an empty tray in both hands. She looks at Harko, then at you, then at Harko again.
 >
 > > "I was only going to the back door."
 
@@ -351,8 +351,8 @@ When the fight has ended and the warehouse has gone silent, read the following a
 > Lira decides overnight, and what the party says in the next minute settles it. Judge the whole minute and use the first branch that applies.
 >
 > - **Threat:** A character threatens her, points a weapon at her or says what will happen if she talks, and she files a full report.
-> - **Lie or hedge:** A character gives a false account, such as a drunk brawl or Watch business, or refuses to answer her, and she files a report with a description.
-> - **Honest:** A character tells her plainly that Harko was a banned exile who came back and that the party acted for the city, and nobody lies or threatens. She does not report.
+> - **Lie or hedge:** A character gives a false account, such as a drunk brawl or Watch business, or refuses to answer her, and she files a report with a description of the party.
+> - **Honest:** A character tells her plainly that Harko was a banned exile who came back and that the party acted for the city. Nobody lies or threatens, and she does not report.
 
 If the party was honest and Harko is dead, read the following aloud:
 
@@ -392,7 +392,7 @@ If the party threatened her, read the following aloud:
 
 ### Renown Opportunities
 
-Jalester takes the report at the corner table beside the Yawning Portal's well on the evening after the warehouse, or the evening after that if the party is late, and only members sit at the table while companions wait at the bar.
+Jalester takes the report at the corner table beside the Yawning Portal's well on the evening after the warehouse, or the evening after that if the party is late. Only members sit at the table, and companions wait at the bar.
 
 > [!gamemaster]**Beside the Well**
 >
@@ -400,7 +400,7 @@ Jalester takes the report at the corner table beside the Yawning Portal's well o
 
 > [!readaloud]
 >
-> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester sits there with his notebook open and an untouched tankard at his elbow, and he shuts the book as you come over and waits until you are all seated.
+> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester sits there with his notebook open and an untouched tankard at his elbow. He shuts the book as you come over and waits until you are all seated.
 >
 > > "Report, please, and I would like it in the order it happened."
 
@@ -440,15 +440,15 @@ If a member names Veralax and the Tarred Rope, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester writes down the alehouse, the booth and the hour, and he asks what the man wears and which hand he keeps on the table.
+> Jalester writes down the alehouse, the booth and the hour. He asks what the man wears and which hand he keeps on the table.
 >
 > > "A gem merchant who drinks nothing. Understood, and I will have the booth watched, but I will not send anyone in."
 
-If Harko was alive and a member reports what he said about the thin man at the Skewered Dragon, mark **Thayan File Obtained**. If Harko was handed over, the Watch's questioners get the same account and the file is marked all the same. Read the following aloud:
+If Harko was alive and a member reports what he said about the thin man at the Skewered Dragon, mark **Thayan File Obtained**. If Harko was handed over, the Watch's questioners get the same account, and the file is marked all the same. Read the following aloud:
 
 > [!readaloud]
 >
-> Jalester takes a folded sheet from inside his doublet and slides it across the table, and you see a sketch of a thin man with ink-stained fingers.
+> Jalester takes a folded sheet from inside his doublet and slides it across the table. It holds a sketch of a thin man with ink-stained fingers.
 >
 > > "The Splinter's broker pays in coin at the back of the Skewered Dragon, and he asked about Thayans. Please keep this face in mind, since I may have a use for it soon."
 
@@ -508,7 +508,7 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether a sergeant or the Guards took him. Read by **The Red Wizard's Price**, where the Watch's questioners hold his statement. Also read by **Faction Outposts** (unconverted), where the Guild's Dock Ward crews have lost their kenku recruiter.
+> - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether a sergeant or the Guards took him. Read by **The Red Wizard's Price**, where the Watch's questioners hold his statement. Also read by **Faction Outposts** (unconverted), where the Guild's crews have lost their kenku recruiter.
 > - **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not. Read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane.
 > - **Thayan File Obtained** — mark when Harko, alive, tells the party or the Watch about the thin man at the back of the Skewered Dragon, and the account reaches Jalester. Read by **The Red Wizard's Price**, where a known face at the Skewered Dragon lowers the DC of one approach by 2.
 
@@ -518,7 +518,7 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 
 ## Overview
 
-The party hunts an exiled adventurer through the Dock Ward to a rope warehouse, then decides what to do when he surrenders and what to say to the server who walks in on them.
+The party hunts an exiled adventurer through the Dock Ward to a rope warehouse. It then decides what to do when he surrenders and what to say to the server who walks in on them.
 
 ## Summary
 

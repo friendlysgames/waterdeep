@@ -18,21 +18,21 @@ At 09:00 a Watch runner brings each Lords' Alliance member a card sealed in grey
 
 ## Background
 
-Harko Swornhold is fifty and was exiled three years ago after he tried to bribe Magister Kylynne Silmerhelve. He came back about two months ago, took work recruiting kenku for the street crews of Xanathar's Guild and set up in a rope warehouse in Mudwagon Court, behind the Muleskull on Ship Street. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing.
+Harko Swornhold is fifty and was exiled three years ago after he tried to bribe Magister Kylynne Silmerhelve. He came back about two months ago and took work recruiting kenku for the street crews of Xanathar's Guild. He set up in a rope warehouse in Mudwagon Court, behind the Muleskull on Ship Street. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing.
 
 Jalester knows about the Guild work from a Watch informant. The law gives him no better remedy than another exile, which would last only three months, so the Alliance has chosen the sword.
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Harko will surrender when he is hurt, because he has been offered exile twice, has nowhere left to go and would sooner be a prisoner than a corpse.
-> - The cipher note in his coat is a Guild courier's note that names "K", who is Keln Trigos of the Terasse Estate, and nobody in this mission can know that.
+> - Harko will surrender when he is hurt. He has been offered exile twice, has nowhere left to go and would sooner be a prisoner than a corpse.
+> - The cipher note in his coat is a Guild courier's note that names "K", who is Keln Trigos of the Terasse Estate. Nobody in this mission can know that.
 > - A thin Splinter broker named Sarvos Miln delivered Veralax's last purse at the back door of the Skewered Dragon. Harko does not know his name, only his face.
 > - Lira, the Muleskull server who sees the end of the fight, is no agent of any faction.
-> - Nobody in this mission names Manshoon, because Jalester says "the Splinter" and Harko says "the Zhentarim, the bad kind".
+> - Nobody in this mission names Manshoon. Jalester says "the Splinter", and Harko says "the Zhentarim, the bad kind".
 
 ## The Brief
 
-Jalester gives the order in person in a closed room on Rannick Lane, away from the well table, because he will not say it in a crowded taproom. He states the three-night deadline in his own words and closes with a question about the Muleskull, while companions stay at the Manor.
+Jalester gives the order in person in a closed room on Rannick Lane, away from the well table, because he will not say it in a crowded taproom. He states the three-night deadline in his own words and closes with a question about the Muleskull. Companions stay at the Manor.
 
 ## Three Ways to the Court
 
@@ -40,11 +40,11 @@ A fencewoman on Net Street, a retired pilot at the Muleskull and a Dungsweepers'
 
 ## The Rope Warehouse
 
-The party can reach the kenku unseen, talk Harko into a hearing or fight him, and if either kenku whistles, two Guards reach the door at the end of round 4. Harko surrenders at half his Hit Points.
+The party can reach the kenku unseen, talk Harko into a hearing or fight him. If either kenku whistles, two Guards reach the door at the end of round 4. Harko surrenders at half his Hit Points.
 
 ## The Turn
 
-Harko offers what he knows in place of his life. The party reads the cipher note in his coat, learns where Veralax meets him and chooses whether to kill him, hand him to the Watch or let him leave the city.
+Harko offers what he knows in place of his life. The party reads the cipher note in his coat and learns where Veralax meets him. Then it chooses whether to kill him, hand him to the Watch or let him leave the city.
 
 ## The Witness
 

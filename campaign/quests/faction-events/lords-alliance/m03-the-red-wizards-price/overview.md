@@ -14,11 +14,11 @@
 
 ## Hook
 
-At noon Jalester Silvermane comes to Trollskull Manor himself and refuses a chair. The Splinter, the Black Network's other cell, is buying a Thayan wizard's crew tonight at the Skewered Dragon, and Jalester wants the deal dead before the two sides shake hands.
+At noon Jalester Silvermane comes to Trollskull Manor himself and refuses a chair. The Splinter, the Black Network's other cell, is buying a Thayan wizard's crew tonight at the Skewered Dragon. Jalester wants the deal dead before the two sides shake hands.
 
 ## Background
 
-Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five, and he has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Harko Taken Alive** in **The Exile's Return**, Jalester also holds the sealed Watch file that came out of Harko's custody, and **Thayan File Obtained** is marked with it.
+Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Harko Taken Alive** in **The Exile's Return**, Jalester also holds the sealed Watch file that came out of Harko's custody. **Thayan File Obtained** is marked with it.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -29,7 +29,7 @@ Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five
 
 ## The Brief
 
-Jalester gives the members the job in the taproom of Trollskull Manor at noon, standing. He has the tavern, the night and the name Holvar, and he wants the deal dead before the handshake tonight with no trace back to the Alliance. Companions wait in the kitchen.
+Jalester gives the members the job in the taproom of Trollskull Manor at noon, standing. He has the tavern, the night and the name Holvar, and he wants the deal dead before the handshake tonight. It must leave no trace back to the Alliance. Companions wait in the kitchen.
 
 ## Finding the Meet
 
