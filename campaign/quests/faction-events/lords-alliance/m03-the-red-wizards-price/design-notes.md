@@ -1,25 +1,27 @@
 # Design Notes: The Red Wizard's Price
 
-## Four Approaches, One Clock
+## What the Source Gave
 
-***Structural design.*** The thirty-minute clock is what makes the four approaches feel like a genuine choice rather than a menu. Without the time pressure, the party has no reason to commit to an approach — they could attempt all four in sequence. With the clock, choosing Option A (direct disruption) means Option D (neutralize Sarvos) is no longer cleanly available, because Sarvos goes through the Dock Lane exit the moment fighting starts. The approaches interact with each other through shared time and shared space.
+Appendix C's third Lords' Alliance mission and the matching Dragon Heist row supplied the skeleton. A Red Wizard of Thay named Esloon Bezant is being courted by the Splinter, and Jalester wants the deal scuttled fast and without a trace. The source offers three ways to do it: a forged letter at DC 16 and 25 gp, a warning at DC 15, and a bribe of at least 500 gp. It also supplies Esloon's question, "Is there another offer? Not from you personally. From whoever decides these things," and Jalester's reply about formalizing something. The source's spellbook reward survives as Esloon's surrender line.
 
-Option B (Watch exposure) requires the Mission 2 intelligence file, which creates a reason for thorough play in earlier missions to have mechanical weight here. Option C (turning Esloon) requires the highest DC and the most preparation, but it is the only approach that opens Esloon's question in full — the other approaches may bring the party into conversation with him, but not at the same depth. Option D (neutralize Sarvos) is the approach most likely to succeed cleanly without generating noise, but it does not stop Esloon from eventually finding another buyer for his crew's services.
+## What Changed
 
-None of these approaches is marked as correct. Jalester does not have a preference.
+The meeting is now the Skewered Dragon, which **Finding Floon** makes a Splinter house, and the landlord helps nobody. The Rusted Anchor in the source is already used by the first Order of the Gauntlet mission. The deadline is the handshake tonight, and Jalester gives it in his brief. The search for the room is three independent leads that each give the room and the hour: the pot-boy, the side door and Esloon's supper order. The source's three paths became the ways to turn Esloon. The Watch route and the broker route were kept from the restored draft, and each now has its own check or condition.
 
-## Esloon's Question
+Esloon uses the full 2024 **Mage** and fights alone at every size, with safeguards on the first round and a hard withdrawal by *Misty Step* and *Invisibility*. His crew is five **Tough** fighters, which is the Dragon Heist count, and it is an optional second wave. Jalester briefs in person at Trollskull Manor and does not sit, which is the deliberate break from the well table for this mission. The debrief returns to the well.
 
-***The mission's secondary payload.*** Esloon's question — whether there is a real offer from whoever decides these things — is the most important beat in the mission, and it is easy to miss entirely if the party takes Options B or D and never speaks to him directly.
+## Departures from the Source
 
-The question is designed to destabilize the assumption that the Lords' Alliance is unambiguously the right side to be working for in Waterdeep. Esloon is not wrong. The Alliance asks for favors without offering much, and people who work at his level of the city know this. His willingness to consider the Splinter's offer is not villainy — it is risk assessment by someone who has no institutional protection and has learned to read which side will win.
+Esloon is Neutral, as his Notable Figures page has him, and not Lawful Evil. He never says why he left Thay, so the monologue in the source is cut and only the question remains. The restored draft's failed coup and four years in the city are gone, and the page's five years stand. The Thayan file from **The Exile's Return** now reduces the DC of one check by 2 and unlocks the Watch route, in place of the old locating bonus. The bribe is paid from the party's own purse, because the Alliance pays in support and not in coin.
 
-Bringing this back to Jalester and watching him acknowledge it is the payoff. He does not promise anything. But he does not dismiss it, either. A Jalester who has been told "one of your potential assets is working two sides because your side hasn't offered him anything real" is a Jalester who will think about what the Alliance's offer actually looks like. This thread does not fully resolve in the mission arc — it is a seed for a later session's conversation with Laeral about what the Alliance is actually for.
+## Invented Names and Open Items
 
-## The Faction Outposts Payoffs
+Invented: Sarvos Miln (kept from the restored draft), Rovan Skell, Dunmar Teague, Cutter, Tam Ferrow, Yarra Moss, Sergeant Deneth Pike, Dock Lane, the Fillet Lane checkpoint, the cookshop on Net Street, and the "Holvar" booking. Sarvos, Rovan and Teague are voiced from the event text, and Sarvos is given Neutral alignment from the Spy block.
 
-***Compounding consequences.*** Both renown conditions in this mission have direct mechanical payoffs in **Faction Outposts**, and they are designed to be visible rather than abstract. If Sarvos is captured and the checkpoint strike is exposed, the party can see the result in **Faction Outposts**: the Splinter response team in the Dock Ward is disrupted, the strike fails, and one Splinter operation is noticeably missing a step.
+Items for the out-of-scope log:
 
-This is the Alliance missions' central design principle: the work accumulates. Each completed mission with full intelligence handoff leaves a concrete mark on the world that the party can observe later. A party that consistently delivers partial outcomes — deal killed but no intelligence extracted, renown earned but no downstream thread — is doing the missions correctly in a narrow sense but missing the compounding value.
-
-Jalester does not explain this to the party. He expects them to understand it from the pattern.
+- The Esloon Notable Figures page lists **The Exile's Return** as a feature and says the Alliance wants him "detained, not recruited". This Event names him in **The Exile's Return** only through the sealed file, and it lets the party turn him as well as detain him.
+- The Faction Outposts structure doc carries a "checkpoint strike" line near the Trades Ward. This Event puts the checkpoint on Fillet Lane in the Dock Ward.
+- The mechanics reference words the withdrawal as "at the end of his turn in round 3". The text has him spend his next turn withdrawing, which gives the same three rounds of attacks. At three characters the plain table makes a lone Mage Crushing, and the reference's round-2 withdrawal is the only softening.
+- **Laeral Told of Jalester** is written by **An Audience with the Open Lord**, which cannot precede this mission, so Sevel Dastar never replaces Jalester here.
+- **Faction Outposts** is unconverted and is the named reader of all three outcomes, so the extra Splinter fighters and the failed checkpoint strike have no scene yet.

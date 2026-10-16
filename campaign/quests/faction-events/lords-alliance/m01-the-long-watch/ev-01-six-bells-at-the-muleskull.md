@@ -190,14 +190,14 @@ She means it as advice and not as a rebuke. The party earns a **Trust mark** if 
 
 > [!exploration]**The Watcher on Margaster Street**
 >
-> Any character who watches the upper windows along Margaster Street on the morning of Day 4 and makes a successful DC 13 Wisdom (Perception) check notices a lean young man in a brown jerkin at a second-floor window. He keeps appearing at different windows ahead of the crew and withdraws each time the route turns a corner.
+> Any character who watches the windows along Margaster Street and makes a successful DC 13 Wisdom (Perception) check notices a lean young man in a brown jerkin. He keeps appearing at different second-floor windows ahead of the crew and withdraws each time the route turns a corner.
 >
-> - **On a failure:** Berna points him out on Day 5 with a lift of her chin and says he has stood at a window ahead of the crew since the first day. She says nothing else about him.
+> - **On a failure:** Berna points him out on Day 5 with her chin and says he has stood at a window ahead of the crew since the first day. She says nothing else about him.
 > - **If a character approaches him openly:** He leaves by the back stair, and the window stays empty for the rest of the day. Pirn does not fight, and he uses the Spy's Cunning Action to run.
 
 ### Day 6: Berna Briefs
 
-At the midday break Berna eats at a corner stall with the crew and talks about the dangers of the work. Herath found a crumpled sheet in the gutter under the Margaster Street window on Day 5, and Berna hands it to the party at the end of her briefing.
+At the midday break Berna eats at a corner stall with the crew and talks about the dangers of the work. Herath found a crumpled sheet in the gutter under the Margaster Street window on Day 5. Berna hands it to the party at the end of her briefing.
 
 > [!readaloud]
 >
@@ -227,7 +227,7 @@ A member who sits with the crew, asks Berna what she wants and then keeps to her
 
 > [!exploration]**The Lane Ordinance**
 >
-> Any character who steps beside Berna and makes a successful DC 14 Intelligence (History) check recalls the city ordinance that governs shared lanes until a magistrate rules, and can say so in one sentence. Berna nods, the man leaves, and the party earns a **Trust mark**.
+> Any character who steps beside Berna and makes a successful DC 14 Intelligence (History) check recalls the city ordinance on shared lanes. The character can state it in one sentence, Berna nods, the man leaves, and the party earns a **Trust mark**.
 >
 > - **On a failure:** Berna finishes before the character can speak. The party earns no mark for Day 7 and suffers no penalty.
 
@@ -237,14 +237,14 @@ Delvon Harsk is the leak, and three independent leads name him. Any one is enoug
 
 > [!exploration]**Lead One: Following Pirn**
 >
-> Pirn leaves his window at the end of each shift and walks to the lane behind the cart yard. Any character who follows him from the window and makes a successful DC 13 Dexterity (Stealth) check watches him wait in a doorway until Delvon Harsk comes out of the yard office, looks up the lane and walks away. Pirn then crosses to the back wall, works a loose brick free and takes out a folded sheet.
+> Pirn leaves his window at the end of each shift and walks to the lane behind the cart yard. Any character who follows him from the window and makes a successful DC 13 Dexterity (Stealth) check sees him wait in a doorway. Delvon Harsk comes out of the yard office, looks up the lane and walks away, and Pirn crosses to the back wall, works a loose brick free and takes out a folded sheet.
 >
 > - **On a failure:** Pirn notices the tail and loses it in the Market crowd. He is back at the same window the next morning, and the character can try again on any later evening.
 > - **If a character closes with him in the lane:** A successful DC 13 Strength (Athletics) check holds him. Pirn does not fight, gives up Delvon's name at once and asks to be handed to the Watch and not to the Guild. He knows nothing of his handler, and on a failure he reaches the roofs and is gone.
 
 > [!exploration]**Lead Two: The Schedule Scrap**
 >
-> The scrap Berna hands over on Day 6 is half a page of rough timings, marked by ward and hour for the next two mornings. Any character who compares it with the rota posted on the yard office door and makes a successful DC 12 Intelligence (Investigation) check matches its crossed sevens and looped letter d's to the entries Delvon Harsk makes.
+> The scrap Berna hands over on Day 6 is half a page of rough timings, marked by ward and hour for the next two mornings. Any character who compares it with the rota on the yard office door and makes a successful DC 12 Intelligence (Investigation) check finds the same hand. The crossed sevens and looped d's match the entries Delvon Harsk makes.
 >
 > - **On a failure:** Berna looks over the character's shoulder, taps the sevens and says whose hand they are.
 
@@ -276,7 +276,7 @@ Delvon checks the sweepers in at the yard at the end of every shift, so the part
 >
 > He knows Pirn only by that name, and he does not know whom Pirn works for.
 >
-> Any character who asks him whether he has shared the timings outside the Guild and makes a successful DC 14 Wisdom (Insight) check sees that he cannot meet their eyes and that his answer runs too long. On a failure the character hears only a supervisor who is nervous about the Alliance.
+> Any character who asks him whether he has shared the timings outside the Guild and makes a successful DC 14 Wisdom (Insight) check sees that he cannot meet their eyes. His answer runs too long for an honest denial, and the character knows he is hiding a payment. On a failure the character hears only a supervisor who is nervous about the Alliance.
 
 > [!qna]**Have you passed the timings to someone?**
 >

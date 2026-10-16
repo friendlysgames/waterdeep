@@ -14,17 +14,17 @@
 
 > [!gamemaster]**Who Knows What**
 >
-> - Harko Swornhold is fifty and was exiled three years ago for trying to bribe Magister Kylynne Silmerhelve. He came back to Waterdeep about two months ago.
+> - Harko Swornhold is fifty and was exiled three years ago for trying to bribe Magister Kylynne Silmerhelve, and he came back to Waterdeep about two months ago.
 > - Xanathar's Guild pays Harko to recruit kenku for its street crews. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing, and the Guild does not know about Veralax.
 > - Jalester learned about the Guild work from a Watch informant. He does not know about Veralax, the Splinter's coin or the cipher note in Harko's coat.
-> - Jalester sends no Watch Escort and spends no String-Pulling on this job. Two Guards at the warehouse would be witnesses, and a favor cannot erase a body.
+> - Jalester sends no Watch Escort and spends no String-Pulling on this job, because two Guards at the warehouse would be witnesses and a favor cannot erase a body.
 > - The Muleskull's kitchen yard opens onto Mudwagon Court, and the rope warehouse stands on the other side of the court. Lira, an evening server, walks into the court when the noise stops.
 > - The cipher note names "K" and an eastern staircase on Elsambul's Lane. K is Keln Trigos of the Terasse Estate, and nobody in this Event can know that yet.
-> - Nobody in this Event names Manshoon. Jalester says "the Splinter", and Harko says "the Zhentarim, the bad kind".
+> - Nobody in this Event names Manshoon, because Jalester says "the Splinter" and Harko says "the Zhentarim, the bad kind".
 
 ### The Brief
 
-A Watch runner reaches Trollskull Manor at 09:00 on the morning after the member reaches Renown 3 and 3rd level. If the member has not yet held the **Redknife** meeting with Jalester, the card waits until the morning after it. The runner gives each Lords' Alliance member a card sealed with grey Watch wax and leaves without waiting for an answer. Jalester gives this order away from the well table, because he will not say it in a crowded taproom. Companions stay at the Manor, and the card names the members only.
+A Watch runner reaches Trollskull Manor at 09:00 on the morning after the member reaches Renown 3 and 3rd level. If the member has not yet held the **Redknife** meeting with Jalester, the card waits until the morning after it. The runner gives each Lords' Alliance member a card sealed with grey Watch wax and leaves without waiting for an answer. Jalester gives this order away from the well table, because he will not say it in a crowded taproom, and companions stay at the Manor because the card names the members only.
 
 > [!readaloud]
 >
@@ -36,11 +36,11 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!readaloud]
 >
-> The upper room has nailed shutters, a bare table and one lamp, and the smell of old leather hangs in the air. Jalester Silvermane stands beside the table in his dark doublet with a closed notebook under one hand. He waits until the door is shut and then speaks in a low, level voice.
+> The upper room has nailed shutters, a bare table and one lamp, and the smell of old leather hangs in the air. Jalester Silvermane stands beside the table in his dark doublet with a closed notebook under one hand, and he waits until the door is shut before he speaks in a low, level voice.
 >
 > > "Thank you for coming. Harko Swornhold is an adventurer who was exiled from Waterdeep three years ago for trying to bribe a magistrate. He has come back, and Xanathar's Guild is paying him to recruit kenku for its street crews."
 >
-> He opens the notebook to a blank page and looks up.
+> He opens the notebook to a blank page, looks up and waits for the last of you to find a place to stand.
 >
 > > "Find him and quietly put him to the sword. You have the next three nights, because after that his kenku are in the crews and he can't be reached. Quietly."
 
@@ -48,7 +48,7 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 >
 > Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: A lean Lords' Alliance field agent who has chosen a room with shutters for an order he does not enjoy giving.
 >
-> Jalester is courteous and tenser than usual, and he does not sit. He gives the order exactly as it was given to him, explains his reasons once and writes down each answer in the notebook. He thanks the members formally and says "Understood." when he accepts an answer. He swears at nobody tonight.
+> Jalester is courteous and tenser than usual, and he does not sit. He gives the order exactly as it was given to him, explains his reasons once and writes down each answer in the notebook. He thanks the members formally and says "Understood." when he accepts an answer, and he swears at nobody tonight.
 >
 > Jalester is happy to discuss the following topics:
 >
@@ -61,11 +61,11 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!qna]**Why not arrest him?**
 >
-> > "He has no warrant I could prove before a magistrate. The bribery ended in exile, and coming back is a minor crime with the same penalty. He would be back within three months. In that time he can do a great deal of harm."
+> > "He has no warrant I could prove before a magistrate. The bribery ended in exile, and coming back is a minor crime with the same penalty. He would be back within three months, and in that time he can do a great deal of harm."
 
 > [!qna]**What does quietly mean?**
 >
-> > "No report, no warrant and no body the Watch can trace to us. I am sending no Guards, because they would be witnesses, and I cannot ask a sergeant to lose a corpse. You are on your own for this."
+> > "It means no report, no warrant and no body the Watch can trace to us. I am sending no Guards, because they would be witnesses, and I cannot ask a sergeant to lose a corpse, so you are on your own for this."
 
 > [!qna]**Where do we start?**
 >
@@ -73,7 +73,7 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!qna]**What does he do for the Guild?**
 >
-> > "He recruits kenku to make trouble in the streets, and he keeps the gang war burning in the Dock Ward. A Watch informant told me that much and nothing more. If he carries anything written, please bring it to me."
+> > "He recruits kenku to make trouble in the streets, and he keeps the gang war burning in the Dock Ward. A Watch informant told me that much and nothing more, so if he carries anything written, please bring it to me."
 
 > [!qna]**What if he surrenders?**
 >
@@ -81,23 +81,23 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!readaloud]
 >
-> Jalester writes a line in the notebook, closes it and holds the door open for each of you in turn.
+> Jalester writes a line in the notebook, closes it and holds the door open for each of you in turn as you leave.
 >
-> > "Understood, then. One more detail, if you don't mind. Does any of you know the Muleskull, on Ship Street?"
+> > "Understood, then. One more detail, if you don't mind, and then I will let you go. Does any of you know the Muleskull, on Ship Street?"
 
 > [!gamemaster]**The Deadline**
 >
-> The deadline is dawn after the third night, and the night of the brief is not counted. A member who says at the brief that they will not take the job, or who does nothing as that dawn passes, is a case for **Suspension and Dismissal**. A party that works honestly and cannot find Harko in time costs nothing, and Jalester says so in the debrief. A member who spares Harko on their own judgment has not refused the order, because Jalester asked to hear any such decision.
+> The deadline is dawn after the third night, and the night of the brief is not counted. A member who refuses the job at the brief, or who does nothing as that dawn passes, is a case for **Suspension and Dismissal**. A party that works honestly and cannot find Harko in time costs nothing, and Jalester says so in the debrief. A member who spares Harko has not refused the order, because Jalester asked to hear any such decision.
 
 ### Three Ways to the Court
 
-Three leads each name the rope warehouse in Mudwagon Court, and any one of them is enough. The party can split up and work all three on the first day. A failed check closes that lead until the next evening, when the contact tells the same story for a small payment and needs no roll. A party that follows two or more leads also learns where both kenku sit, and has Advantage on the check in **The Sentries**.
+Three leads each name the rope warehouse in Mudwagon Court, and any one of them is enough, so the party can split up and work all three on the first day. A failed check closes that lead until the next evening, when the contact tells the same story for a small payment and needs no roll. A party that follows two or more leads also learns where both kenku sit and has Advantage on the check in **The Sentries**.
 
 > [!readaloud]
 >
-> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock, then picks up a brass buckle and turns it in the light.
+> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock while she picks up a brass buckle and turns it in the light.
 >
-> > "That's two gold, and I'll take less if you've something to ask. You'll be wanting the kenku, I expect. A lot of people have been wanting the kenku lately."
+> > "That's two gold, and I'll take less if you've something to ask. You'll be wanting the kenku, I expect, since a lot of people have been wanting the kenku lately."
 
 > [!exploration]**Marit Oake's Barrow**
 >
@@ -109,7 +109,7 @@ When a character learns it, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Marit drops the buckle into her apron and leans on the cart.
+> Marit drops the buckle into her apron, leans on the cart and lowers her voice so that only you can hear her.
 >
 > > "Four or five of them come out of Mudwagon Row after dark and hop about by the Muleskull's kitchen gate, chattering in other people's voices. There's an old rope warehouse in the court behind the tavern, and that's where they go to bed."
 
@@ -117,7 +117,7 @@ When a character learns it, read or paraphrase the following:
 >
 > The Muleskull is half empty at midday, with a barkeep stacking mugs and a fire smoking in the grate. An old man in a salt-stained coat sits at the window with a mug cupped in both hands, and he looks you over as you come to his table.
 >
-> > "If you're buying, I'm Halvard Teague. If you're asking, you'd best buy first."
+> > "If you're buying, I'm Halvard Teague, and if you're asking, you'd best buy first."
 
 > [!exploration]**The Pilot at the Window**
 >
@@ -129,21 +129,21 @@ When a character wins his trust, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Halvard glances at the barkeep, lowers his voice and nods toward the kitchen end of the room.
+> Halvard glances at the barkeep, lowers his voice and nods toward the kitchen end of the room, where a door stands open on the yard.
 >
-> > "A big human with a northern voice, shouting at somebody in the court behind the kitchen. Three nights this past tenday, and the shouting always stops when the chattering starts. I've looked at that rope warehouse roof out of this window for years."
+> > "A big human with a northern voice, shouting at somebody in the court behind the kitchen, three nights this past tenday. The shouting always stops when the chattering starts, and I've looked at that rope warehouse roof out of this window for years."
 
 > [!readaloud]
 >
-> A Dungsweepers' Guild cart stands at the end of Dock Street at dusk, and a lean man in a leather smock scrubs its wheels at a pump. He takes a long look at your boots before he speaks.
+> A Dungsweepers' Guild cart stands at the end of Dock Street at dusk, and a lean man in a leather smock scrubs its wheels at a pump. He takes a long look at your boots, wipes his hands on his smock and then speaks.
 >
 > > "I'm Ibb Marsh, and I walk the Dock Street round from midnight to dawn. If you want to know what moves in the dark, you can walk it with me."
 
 > [!exploration]**The Night Round**
 >
-> Ibb Marsh knows every court and gate on his round, and he answers anyone who walks it with him. This lead needs no check and costs the party a whole night, which is one of its three. A character who walks the round sees black feathers and rope-dust at the gate to Mudwagon Court. A broad man in a scarred leather coat slips in from the row at two bells. Ibb says that he has seen the same man at the same hour for a tenday.
+> Ibb Marsh knows every court and gate on his round, and he answers anyone who walks it with him. This lead needs no check and costs the party a whole night, which is one of its three. A character who walks the round sees black feathers and rope-dust at the gate to Mudwagon Court, and a broad man in a scarred leather coat slips in from the row at two bells. Ibb says he has seen the same man at the same hour for a tenday.
 >
-> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and has seen Harko's face, which matters in **The Rope Warehouse**.
+> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and learns Harko's face, which matters in **The Rope Warehouse**.
 
 When the party finds the court, read the following aloud:
 
@@ -159,20 +159,20 @@ When the party finds the court, read the following aloud:
 >
 > - **The street door:** It is barred from inside on Mudwagon Row. A DC 15 Strength (Athletics) check forces it, or a DC 13 Dexterity check with thieves' tools opens the side hatch.
 > - **The service door:** It faces the court and is unlocked, but it squeaks. A DC 12 Dexterity (Stealth) check opens it without a sound, and on a failure Harko hears it and the fight starts.
-> - **The kenku:** One kenku perches by each door and watches the court. They run for the court gate and the street the moment trouble starts.
+> - **The kenku:** One kenku perches by each door and watches the court, and both run for the court gate and the street the moment trouble starts.
 
 > [!exploration]**The Sentries**
 >
 > Any character who approaches a kenku from the shadows and makes a successful DC 12 Dexterity (Stealth) check reaches it unseen and can Grapple it before it acts. Both kenku must be stopped to keep the Watch away, and the party has Advantage on the check if it followed two or more leads.
 >
-> - **On a failure:** The kenku sees the party. Both kenku whistle on their first turn, and the clock in **Harko and His Hired Hands** starts.
-> - **A party that takes both kenku first:** The fight has no clock.
+> - **On a failure:** The kenku sees the party, both kenku whistle on their first turn, and the clock in **Harko and His Hired Hands** starts.
+> - **A party that takes both kenku first:** The fight runs with no clock at all.
 
 > [!exploration]**A Hearing**
 >
 > A character who has stopped both kenku and holds a door can call through it to Harko. Any character who makes a successful DC 15 Charisma (Persuasion) check persuades him to lay down his Pistol for a hearing, and the fight never begins.
 >
-> - **On a failure:** The talk does not end the fight, but it changes who starts it. Harko fires first, and the Bandits take the doorway.
+> - **On a failure:** The talk does not end the fight, but it changes who starts it, because Harko fires first and the Bandits take the doorway.
 
 If Harko agrees to a hearing, read the following aloud:
 
@@ -180,19 +180,19 @@ If Harko agrees to a hearing, read the following aloud:
 >
 > The bar behind the street door scrapes back, and Harko Swornhold steps out of the dark with his Pistol held low by the barrel. He is broad in the shoulder and gray at the temples, with a scarred leather coat and a face that does not look surprised.
 >
-> > "Alliance. Jalester's still sending children, I see. Go on, then. Say what you came to say, and I'll decide if it's worth a bullet."
+> > "Alliance. Jalester's still sending children, I see. Go on, then, and say what you came to say, and I'll decide if it's worth a bullet."
 
 If the fight begins instead, read the following aloud as the first character enters:
 
 > [!readaloud]
 >
-> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is already standing among them with a Pistol raised. Behind him two armed hands step toward the doorway.
+> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is standing among them with a Pistol raised while his armed hands step toward the doorway.
 >
 > > "Alliance. Jalester's still sending children, I see. Come in, then, and let's get this done."
 
 > [!hazard]**Harko and His Hired Hands**
 >
-> Harko uses the **Bandit Captain** stat block from the 2024 *Monster Manual*, with **Bandits** and, at five characters, a **Tough**. Use the row for the party's size, counting companions. The **Lords' Alliance Mechanics Reference** audits each row, and the two kenku are lookouts and never count.
+> Harko uses the **Bandit Captain** stat block from the 2024 *Monster Manual*, with **Bandits** and, at five characters, a **Tough**. Use the row for the party's size, counting companions. The **Lords' Alliance Mechanics Reference** audits each row, and the two kenku are lookouts who never count.
 >
 > - **Three characters:** Harko and one **Bandit**.
 > - **Four characters:** Harko and two **Bandits**.
@@ -203,8 +203,8 @@ If the fight begins instead, read the following aloud as the first character ent
 >
 > During combat, Harko:
 > - Fires his Pistol at the nearest character, and uses Parry when a melee hit lands while he holds a weapon.
-> - Stays among the crates and does not flee. He has been offered exile twice and has nowhere left to go.
-> - Surrenders at 26 Hit Points or fewer. He drops the Pistol and says "I'm not dying for this." If he is Grappled and under half, he surrenders at once.
+> - Stays among the crates and does not flee, because he has been offered exile twice and has nowhere left to go.
+> - Surrenders at 26 Hit Points or fewer by dropping the Pistol and saying "I'm not dying for this." If he is Grappled and under half, he surrenders at once.
 >
 > #### The Hired Hands' Tactics
 > To begin, the Bandits hold the street end of the room with scimitars and light crossbows, and the Tough takes the loft with a heavy crossbow.
@@ -212,26 +212,26 @@ If the fight begins instead, read the following aloud as the first character ent
 > During combat, the hired hands:
 > - Fight beside Harko, and the Tough uses Pack Tactics when it stands beside Harko or a Bandit.
 > - Break and flee through the service door when Harko surrenders or drops.
-> - Surrender if Grappled. A captured Bandit knows the Tarred Rope and the middle booth.
+> - Surrender if Grappled, and a captured Bandit knows the Tarred Rope and the middle booth.
 >
 > #### The Kenku Alarm
-> The kenku are paid lookouts and carry nothing of value. They do not fight.
+> The kenku are paid lookouts who carry nothing of value, and they do not fight.
 > - At the start of its first turn, each kenku whistles like a Watch whistle with Mimicry and runs for the court gate.
 > - A kenku that is Grappled, Restrained or at 0 Hit Points before its first turn does not whistle.
 > - If either kenku whistles, a Watch patrol of two **Guards** reaches the street door at the end of round 4.
 > - A kenku whose way to the gate is blocked drops its blade and surrenders.
 >
-> The fight ends when Harko surrenders or drops, when the hired hands flee, or when the Watch patrol reaches the door. A party that breaks off finds the warehouse unchanged the next night, with both kenku awake and whistling at once.
+> The fight ends when Harko surrenders or drops, when the hired hands flee, or when the Watch patrol reaches the door. A party that breaks off finds the warehouse unchanged the next night, except that both kenku are awake and whistle at once.
 
 > [!gamemaster]**When the Watch Arrives**
 >
-> At the end of round 4 the two Guards reach the street door and call for whoever is inside to come out. They wait for a sergeant, who arrives within the hour, before they enter. The party can leave by the service door or answer them.
+> At the end of round 4 the two Guards reach the street door and call for whoever is inside to come out. They wait for a sergeant, who arrives within the hour, before they enter, so the party can leave by the service door or answer them.
 >
 > - **A member names Jalester Silvermane:** The Guards believe it, take any prisoner who is alive and let the party go. They write the matter down as a disturbance in Mudwagon Court.
 > - **No member speaks for the party:** The Guards and the sergeant hold every character in the Dock Ward watchhouse until dawn and take any prisoner who is alive.
 > - **The party leaves by the service door:** The Guards find the aftermath and write it down, and the party is not caught.
 >
-> Either way the job went loud, as **The Witness** describes. A living Harko taken by the Guards counts as alive in Watch custody.
+> Either way the job went loud, as **The Witness** describes, and a living Harko taken by the Guards counts as alive in Watch custody.
 
 ### The Turn
 
@@ -239,17 +239,17 @@ When Harko surrenders in the fight, read the following aloud:
 
 > [!readaloud]
 >
-> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth.
+> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth while the Bandits break for the service door.
 >
 > > "I'm not dying for this."
 
-Harko stays where he is with his palms raised, and the Bandits break for the service door. The fight is over.
+Harko stays where he is with his palms raised, and the fight is over.
 
 > [!social]**The Man Who Won't Die for It**
 >
 > Harko Swornhold (Neutral Evil, Human, he/him) :: A fifty-year-old exiled adventurer, broad and scarred, who sells his sword to anyone and has chosen to live.
 >
-> Harko is blunt and swears freely, and he flatters nobody. He has worked for two employers who do not know about each other, and he keeps his palms where everyone can see them. He answers whoever is nearest and tells the truth, because the truth is all he has left to trade. He will not beg, and he will not name the kenku who work for him.
+> Harko is blunt and swears freely, and he flatters nobody. He has worked for two employers who do not know about each other, and he keeps his palms where everyone can see them. He answers whoever is nearest and tells the truth, because the truth is all he has left to trade, and he will not beg or name the kenku who work for him.
 >
 > Harko is willing to discuss the following topics:
 >
@@ -262,11 +262,11 @@ Harko stays where he is with his palms raised, and the Bandits break for the ser
 
 > [!qna]**Who pays you?**
 >
-> > "Two people, and neither knows about the other. A Guild man pays me to find kenku who'll make trouble in the streets. The other is Zhentarim, the bad kind and not the ones who do business, and he goes by Veralax."
+> > "Two people, and neither knows about the other. A Guild man pays me to find kenku who'll make trouble in the streets, and the other is Zhentarim, the bad kind and not the ones who do business. He goes by Veralax."
 
 > [!qna]**Where does Veralax meet you?**
 >
-> > "The Tarred Rope on Dock Street, middle booth, every third day at highsun. He dresses like a gem merchant and drinks nothing. He'll know you aren't me the moment you sit down."
+> > "The Tarred Rope on Dock Street, middle booth, every third day at highsun. He dresses like a gem merchant and drinks nothing, and he'll know you aren't me the moment you sit down."
 
 > [!qna]**What does Veralax want?**
 >
@@ -274,19 +274,19 @@ Harko stays where he is with his palms raised, and the Bandits break for the ser
 
 > [!qna]**Who brings the Splinter's coin?**
 >
-> > "Veralax pays in person. The last purse came from a thin man with ink on his fingers, at the back door of the Skewered Dragon. He asked if I knew any Thayans in the Dock Ward, and I said no."
+> > "Veralax pays in person, but the last purse came from a thin man with ink on his fingers, at the back door of the Skewered Dragon. He asked if I knew any Thayans in the Dock Ward, and I said no."
 
 > [!qna]**What is in your coat?**
 >
-> > "A Guild courier's note, in their cipher. I can't read all of it. It says K meets me at the eastern stair, and it names two places the crews are to hit. Take it, since it proves I was only a messenger."
+> > "A Guild courier's note, in their cipher, and I can't read all of it. It says K meets me at the eastern stair and names two places the crews are to hit, so take it, since it proves I was only a messenger."
 
 > [!exploration]**Harko's Coat**
 >
-> The note is folded in the inside left pocket of Harko's coat. A character who spends a minute searching Harko, living or dead, finds it with no check. A Harko who is released leaves with it unless a member took it first.
+> The note is folded in the inside left pocket of Harko's coat. A character who spends a minute searching Harko, living or dead, finds it with no check, and a Harko who is released leaves with it unless a member took it first.
 >
-> Any character who studies the note for an hour and makes a successful DC 12 Intelligence (Investigation) check decodes it. A Watch clerk can also read it overnight, and Jalester will arrange that.
+> Any character who studies the note for an hour and makes a successful DC 12 Intelligence (Investigation) check decodes it.
 >
-> - **On a failure:** The cipher stays unread until Jalester's clerk decodes it overnight.
+> - **On a failure:** The cipher stays unread until a Watch clerk decodes it overnight, which Jalester arranges at the debrief.
 
 When the note is decoded, read the following aloud:
 
@@ -298,19 +298,19 @@ When the note is decoded, read the following aloud:
 
 > [!gamemaster]**What the Note Gives**
 >
-> Elsambul's Lane lies in the Castle Ward, and the eastern staircase belongs to the Terasse Estate. **Faction Outposts** (unconverted) reads **Terasse Cipher Taken** as a fourth path into the estate. The Coin Alley crossing and the sail loft are Guild targets, and the party can pass them to Jalester at the debrief with no further consequence in this Event.
+> Elsambul's Lane lies in the Castle Ward, and the eastern staircase belongs to the Terasse Estate. **Faction Outposts** (unconverted) reads **Terasse Cipher Taken** as a fourth path into the estate. The Coin Alley crossing and the sail loft are Guild targets, which the party can pass to Jalester with no further consequence in this Event.
 
 Jalester's order was to kill Harko, and Harko's surrender gives the party a choice the order did not plan for. The party has three options, and each leaves a different trail.
 
 > [!exploration]**What to Do with Harko**
 >
 > - **Carry out the order:** Harko does not resist. His death marks no outcome, and the note and the scrap below are the only evidence of what he knew.
-> - **Hand him over:** A knock on the glover's lower door on Rannick Lane at any hour brings a Watch sergeant. He takes custody on Jalester's name and writes nothing. Mark **Harko Taken Alive**.
+> - **Hand him over:** A knock on the glover's lower door on Rannick Lane at any hour brings a Watch sergeant, who takes custody on Jalester's name and writes nothing down. Mark **Harko Taken Alive**.
 > - **Let him go:** Harko leaves Waterdeep by the Trade Way within the day and never comes back. The party keeps everything he told them, and Jalester hears it at the debrief.
 
 > [!exploration]**Harko's Belongings**
 >
-> If Harko is dead or released before he names Veralax, the party can still reach the Tarred Rope in two ways. Any character who searches the loft and makes a successful DC 14 Intelligence (Investigation) check finds a scrap in Harko's hand that reads "Veralax, Tarred Rope, Highsun, middle booth". A Bandit who was captured gives the same place when questioned.
+> If Harko is dead or released before he names Veralax, the party can still reach the Tarred Rope in two ways. Any character who searches the loft and makes a successful DC 14 Intelligence (Investigation) check finds a scrap in Harko's hand that reads "Veralax, Tarred Rope, Highsun, middle booth", and a captured Bandit gives the same place when questioned.
 >
 > - **On a failure with no captured Bandit:** The party leaves without the Tarred Rope, and nothing else in this Event depends on it.
 

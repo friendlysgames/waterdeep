@@ -17,7 +17,7 @@
 >
 > - Guild crews have been moving through the drains below the Trades Ward, and the carrion crawler came up a grate to get away from them. It has nothing to do with Delvon or Pirn, and nobody in the mission learns what drove it.
 > - Two Guards from the Market post followed the crawler through the culvert under the Market and ran up to the street to cut it off. Each Guard has 5 hit points, which is half of 11, and neither will last more than a round.
-> - At three characters the Guards' spears have already wounded the crawler, and it begins the fight with 38 hit points. At four or five characters it has only been chased and begins with its full 51.
+> - At three characters the Guards' spears have wounded the crawler, and it begins the fight with 38 hit points. At four or five characters it has only been chased and begins with its full 51.
 > - Berna and her four sweepers use the **Commoner** block. They are not combatants, and they run behind the party as soon as the crawler appears.
 > - Herath gives the note because the party treated him as a colleague, and he gives it whether or not Berna trusts the party.
 
@@ -70,7 +70,7 @@ The crew works the Market alleys on Day 9, and Berna stops the cart at the mouth
 > #### Breaking Off
 > If a character drops to 0 hit points or two characters are Paralyzed at once, the party can break off. The crawler does not follow past the alley mouth into the lit street, and it goes back down the grate within the hour.
 >
-> No route ends the crawler without a fight, and the objective is the people. The crew is already behind the party, and a party that clears the alley and keeps the Guards and sweepers in the street ends the fight with nobody lost.
+> No route ends the crawler without a fight, and the objective is the people. The crew stays behind the party throughout, and a party that clears the alley and keeps the Guards and sweepers in the street ends the fight with nobody lost.
 
 If the crawler retreats down the grate or the party withdraws, read or paraphrase the following:
 

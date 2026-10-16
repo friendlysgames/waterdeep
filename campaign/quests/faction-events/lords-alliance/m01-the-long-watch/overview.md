@@ -35,7 +35,7 @@ Jalester briefs the members at the well table in the evening, and the companions
 
 ## Six Bells at the Muleskull
 
-The party meets Mareva Coile and Berna at the Muleskull Tavern on Ship Street and walks the Trades Ward circuit with the crew for eight days. Short scenes on Days 2, 4, 6 and 7 show how the crew works and let the party earn Berna's regard. Three independent leads, the watcher on Margaster Street, a schedule scrap and Mareva's duty book, each name Delvon Harsk, and the party decides what to do about him on Day 8.
+The party meets Mareva Coile and Berna at the Muleskull Tavern on Ship Street and walks the Trades Ward circuit with the crew for eight days. Short scenes on Days 2, 4, 6 and 7 show how the crew works and let the party earn Berna's regard. Three independent leads each name Delvon Harsk. They are the watcher on Margaster Street, a schedule scrap and Mareva's duty book, and the party decides what to do about him on Day 8.
 
 ## Day Nine
 

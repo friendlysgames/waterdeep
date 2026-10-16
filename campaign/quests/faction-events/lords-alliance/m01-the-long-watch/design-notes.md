@@ -6,7 +6,7 @@ Appendix C and the Dragon Heist table gave a tenday of escort in the Trades Ward
 
 ## What Changed
 
-The first draft dropped the crawler and invented a Night Three ambush on the Dock Ward, with a leak, a street agent and a supervisor behind it. The ambush was set inside a tenday that never reached Night Three, and Herath's note arrived after an attack that had no place in the timeline. The rewrite restores the source's tenday and crawler and keeps the leak as the middle of the mission. Delvon Harsk is found through three independent leads, which are the watcher at the window, the schedule scrap and the duty book, so a failed check never ends the investigation. There is no ambush, and the crawler is the only fight.
+The first draft dropped the crawler and invented a Night Three ambush on the Dock Ward, with a leak, a street agent and a supervisor behind it. Its first event ran only to Day 7 and then jumped to Night Three, and Herath's note arrived on a final morning that no event reached. The rewrite restores the source's tenday and crawler and keeps the leak as the middle of the mission. Delvon Harsk is found through three independent leads, which are the watcher at the window, the schedule scrap and the duty book, so a failed check never ends the investigation. There is no ambush, and the crawler is the only fight.
 
 Jalester briefs at the well table and states the deadline, which **Suspension and Dismissal** reads. Berna's regard is a count of Trust marks on Days 2, 6 and 7, not a vague mood, and each of the three outcomes has a reader.
 
