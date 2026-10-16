@@ -369,7 +369,7 @@ Carry all unchecked items from the previous handoff's Outstanding Work forward. 
 
 **Handoff delivery:** After committing the handoff, always push it, open a PR to master, and merge it in the same turn, so the next session's handoff glob finds it on master. A handoff left on a side branch gets missed (Session 30's did).
 
-**PR and merge per document:** Each time a document is written or edited and has passed review, push it, open a PR to master and merge it in the same step. Don't batch documents into one end-of-session PR. After a merge, fast-forward the working branch to master before the next document. (User: "new rule, PR and merge as each document is written/edited".)
+**PR and merge per document:** Merge each document the moment its agent finishes, before review. Then review and edit it, and merge again after every edit pass. Push, open a PR to master and merge in the same step each time. Never hold a finished document back for review, for a voice pass, or because another folder is still being drafted. If other drafts are in progress on the branch, keep their unfinished files out of the commit and merge the finished ones anyway. After a merge, fast-forward the working branch to master. (User: "new rule, PR and merge as each document is written/edited"; "How many times do I gotta tell you? Merge after each agent is done, then edit, merge again, etc.")
 
 **Handoff timing:** Write the session handoff only after all deferred work is fully complete. Never write it mid-session and then continue working — this produces cleanup commits that pollute the git log. The handoff must be the last commit of every session.
 
