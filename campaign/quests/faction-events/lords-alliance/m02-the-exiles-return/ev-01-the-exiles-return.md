@@ -186,7 +186,7 @@ If the fight begins instead, read the following aloud as the first character ent
 
 > [!readaloud]
 >
-> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is standing among them with a Pistol raised while his armed hands step toward the doorway.
+> Lamplight shows crates and coiled rope, and a broad man in a scarred leather coat is standing among them with a Pistol raised. His armed hands step toward the doorway.
 >
 > > "Alliance. Jalester's still sending children, I see. Come in, then, and let's get this done."
 
@@ -207,7 +207,7 @@ If the fight begins instead, read the following aloud as the first character ent
 > - Surrenders at 26 Hit Points or fewer by dropping the Pistol and saying "I'm not dying for this." If he is Grappled and under half, he surrenders at once.
 >
 > #### The Hired Hands' Tactics
-> To begin, the Bandits hold the street end of the room with scimitars and light crossbows, and the Tough takes the loft with a heavy crossbow.
+> To begin, the Bandits hold the street end of the room with scimitars and light crossbows. The Tough takes the loft with a heavy crossbow.
 >
 > During combat, the hired hands:
 > - Fight beside Harko, and the Tough uses Pack Tactics when it stands beside Harko or a Bandit.
@@ -221,17 +221,17 @@ If the fight begins instead, read the following aloud as the first character ent
 > - If either kenku whistles, a Watch patrol of two **Guards** reaches the street door at the end of round 4.
 > - A kenku whose way to the gate is blocked drops its blade and surrenders.
 >
-> The fight ends when Harko surrenders or drops, when the hired hands flee, or when the Watch patrol reaches the door. A party that breaks off finds the warehouse unchanged the next night, except that both kenku are awake and whistle at once.
+> The fight ends when Harko surrenders or drops, when the hired hands flee, or when the Watch patrol reaches the door. A party that breaks off finds the warehouse unchanged the next night. Both kenku are awake, and they whistle at once.
 
 > [!gamemaster]**When the Watch Arrives**
 >
-> At the end of round 4 the two Guards reach the street door and call for whoever is inside to come out. They wait for a sergeant, who arrives within the hour, before they enter, so the party can leave by the service door or answer them.
+> At the end of round 4 the two Guards reach the street door and call for whoever is inside to come out. They wait for a sergeant, who arrives within the hour, before they enter. The party can leave by the service door or answer them.
 >
 > - **A member names Jalester Silvermane:** The Guards believe it, take any prisoner who is alive and let the party go. They write the matter down as a disturbance in Mudwagon Court.
 > - **No member speaks for the party:** The Guards and the sergeant hold every character in the Dock Ward watchhouse until dawn and take any prisoner who is alive.
 > - **The party leaves by the service door:** The Guards find the aftermath and write it down, and the party is not caught.
 >
-> Either way the job went loud, as **The Witness** describes, and a living Harko taken by the Guards counts as alive in Watch custody.
+> Either way the job went loud, as **The Witness** describes. A living Harko taken by the Guards counts as alive in Watch custody.
 
 ### The Turn
 
@@ -239,7 +239,7 @@ When Harko surrenders in the fight, read the following aloud:
 
 > [!readaloud]
 >
-> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth while the Bandits break for the service door.
+> Harko steps back from the crates, and the Pistol falls from his hand and clatters on the boards. He raises both palms to his shoulders and breathes hard through his teeth. The Bandits break for the service door.
 >
 > > "I'm not dying for this."
 
@@ -249,7 +249,7 @@ Harko stays where he is with his palms raised, and the fight is over.
 >
 > Harko Swornhold (Neutral Evil, Human, he/him) :: A fifty-year-old exiled adventurer, broad and scarred, who sells his sword to anyone and has chosen to live.
 >
-> Harko is blunt and swears freely, and he flatters nobody. He has worked for two employers who do not know about each other, and he keeps his palms where everyone can see them. He answers whoever is nearest and tells the truth, because the truth is all he has left to trade, and he will not beg or name the kenku who work for him.
+> Harko is blunt and swears freely, and he flatters nobody. He has worked for two employers who do not know about each other, and he keeps his palms where everyone can see them. He answers whoever is nearest and tells the truth, because the truth is all he has left to trade. He will not beg or name the kenku who work for him.
 >
 > Harko is willing to discuss the following topics:
 >
@@ -282,7 +282,7 @@ Harko stays where he is with his palms raised, and the fight is over.
 
 > [!exploration]**Harko's Coat**
 >
-> The note is folded in the inside left pocket of Harko's coat. A character who spends a minute searching Harko, living or dead, finds it with no check, and a Harko who is released leaves with it unless a member took it first.
+> The note is folded in the inside left pocket of Harko's coat. A character who spends a minute searching Harko, living or dead, finds it with no check. A Harko who is released leaves with it unless a member took it first.
 >
 > Any character who studies the note for an hour and makes a successful DC 12 Intelligence (Investigation) check decodes it.
 >
@@ -305,7 +305,7 @@ Jalester's order was to kill Harko, and Harko's surrender gives the party a choi
 > [!exploration]**What to Do with Harko**
 >
 > - **Carry out the order:** Harko does not resist. His death marks no outcome, and the note and the scrap below are the only evidence of what he knew.
-> - **Hand him over:** A knock on the glover's lower door on Rannick Lane at any hour brings a Watch sergeant, who takes custody on Jalester's name and writes nothing down. Mark **Harko Taken Alive**.
+> - **Hand him over:** A knock on the glover's lower door on Rannick Lane at any hour brings a Watch sergeant. He takes custody on Jalester's name and writes nothing down. Mark **Harko Taken Alive**.
 > - **Let him go:** Harko leaves Waterdeep by the Trade Way within the day and never comes back. The party keeps everything he told them, and Jalester hears it at the debrief.
 
 > [!exploration]**Harko's Belongings**

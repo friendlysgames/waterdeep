@@ -226,9 +226,9 @@ Entering the back room after Sarvos has sat down forces a confrontation. If the 
 > - Casts at most one area spell in the whole fight, *Fireball* or *Cone of Cold*. In round 2 he uses *Fireball* on the far side of the table. He does so only if neither Sarvos nor any of his own fighters stands within 20 feet of the center.
 > - Never attacks a creature that is at 0 hit points.
 > - Keeps *Protective Magic* for his reaction, using *Shield* against a hit and *Counterspell* against a spell.
-> - Withdraws on his turn once he has taken 31 or more damage (50 hit points or fewer), or once round 3 has ended (round 2 at three characters), whichever comes first. He uses *Misty Step* toward the Dock Lane door or the window, casts *Invisibility* on himself and leaves the building. He stays invisible until he attacks or casts a spell.
+> - Withdraws on his turn once he has taken 31 or more damage (50 hit points or fewer), or once round 3 has ended (round 2 at three characters), whichever comes first. To do so he uses *Misty Step* toward the Dock Lane door or the window, casts *Invisibility* on himself and leaves the building. He stays invisible until he attacks or casts a spell.
 >
-> Before he goes, he stops at the window and asks his question, as described in **What Esloon Wants**. If he cannot leave because his *Misty Step* uses are spent or no space is open to him, he surrenders at 20 hit points or fewer and says "Take the book." The fight ends when Esloon has withdrawn or surrendered.
+> Before he goes, he stops at the window and asks his question, as described in **What Esloon Wants**. If he cannot leave because his *Misty Step* uses are spent or no space is open to him, he surrenders at 20 hit points or fewer. He says "Take the book." The fight ends when Esloon has withdrawn or surrendered.
 >
 > #### Sarvos's Flight
 > On his first turn Sarvos uses Cunning Action to Dash, which gives him 60 feet of movement for the turn, and he runs through the Dock Lane door. If a character holds that door he surrenders instead. If he is cornered in the room and forced to fight, he uses the **Spy** stat block and surrenders at 13 hit points or fewer or when Grappled.
@@ -248,11 +248,11 @@ The spellbook holds the spells in the **Mage** stat block, and a wizard in the p
 
 ### Hand Esloon to the Watch
 
-Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters, and he passes the Skewered Dragon's corner at seven bells and again at half past. This approach needs **Thayan File Obtained**, because the sealed Watch file is the only paper that gives Pike a reason to hold Esloon. Without the file, Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
+Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. This approach needs **Thayan File Obtained**, because the sealed Watch file is the only paper that gives Pike a reason to hold Esloon. Without the file, Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
 
 > [!exploration]**The Sergeant and the File**
 >
-> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character who reaches him a little after seven bells, while he is still on the corner, makes a **DC 14 Charisma (Persuasion)** check to make him hurry.
+> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character who reaches him a little after seven bells, while he is still on the corner, must make him hurry. That takes a **DC 14 Charisma (Persuasion)** check.
 >
 > - **On a failure:** The patrol reaches the back room at half past seven, as the handshake happens. The deal concludes, and Esloon is detained anyway.
 > - **Esloon's choice:** He does not run from two Guards and a sergeant holding a file that names his associates. A man the Watch has to hunt cannot stay in Waterdeep, so he asks his question as he is led out.
@@ -263,7 +263,7 @@ The party can reach Esloon alone in the ten minutes before Sarvos arrives, or re
 
 > [!exploration]**Reaching the Back Room**
 >
-> - **The kitchen passage:** A character who goes through the kitchen between ten to seven and seven and makes a successful **DC 15 Dexterity (Stealth)** check reaches the back room unseen and finds Esloon alone. On a failure Crale stops the character at the passage mouth, and Esloon hears the party out only after Sarvos has arrived.
+> - **The kitchen passage:** A character who goes through the kitchen between ten to seven and seven and makes a successful **DC 15 Dexterity (Stealth)** check reaches the back room unseen. There the character finds Esloon alone. On a failure Crale stops the character at the passage mouth, and Esloon hears the party out only after Sarvos has arrived.
 > - **The supper tray:** A character who bought the tray from Yarra Moss carries the plates in at ten past seven, and Crale lets them pass without a check.
 > - **The front:** A character who asks Crale for Esloon is refused, and walking past him begins **Break Up the Meeting** at once.
 
@@ -277,7 +277,7 @@ The party can reach Esloon alone in the ten minutes before Sarvos arrives, or re
 >
 > Each way needs about five minutes of Esloon's attention and ends with him declining the Splinter's offer. A failed attempt closes that way and leaves the other two open.
 >
-> - **The forged letter:** The party spends 25 gp to make a letter look as though it traveled with a Splinter courier. It says the Splinter wants Esloon's spellbook and will settle his account once the strike is done. A character who presents it and makes a successful **DC 16 Charisma (Deception)** check convinces him, and he reads it twice and puts it in his coat. On a failure he recognizes the forgery, and the letter is useless.
+> - **The forged letter:** The party spends 25 gp to make a letter look as though it traveled with a Splinter courier. It says the Splinter wants Esloon's spellbook and will settle his account once the strike is done. A character who presents it and makes a successful **DC 16 Charisma (Deception)** check convinces him. He reads it twice and puts it in his coat. On a failure he recognizes the forgery, and the letter is useless.
 > - **The warning:** A character who tells Esloon that the Alliance knows of the recruitment and will make his life in Waterdeep difficult can make a **DC 15 Charisma (Intimidation)** check. On a success he decides the Splinter's money is not worth the attention. On a failure he invites the party to leave.
 > - **The bribe:** The party offers 500 gp from its own purse together with Jalester's promise of six months in which the Alliance leaves his business alone. No check is needed. Esloon counts the coin, says "That is less than the Splinter offered," and accepts, because the Splinter's price is one he cannot read.
 
@@ -327,11 +327,11 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!exploration]**What Sarvos Gives Up**
 >
-> The checkpoint can be named two ways. The signed arrangement in Sarvos's coat names the checkpoint on Fillet Lane, the night and the cart for Baldur's Gate, and anyone who searches him finds it. A character who questions him and makes a successful **DC 13 Charisma (Intimidation or Persuasion)** check gets the same answer from his own mouth, along with the window the strike is meant to open. Either way, **Sarvos Captured** is marked once the party holds him alive with the checkpoint in hand.
+> The checkpoint can be named two ways. The signed arrangement in Sarvos's coat names the checkpoint on Fillet Lane, the night and the cart for Baldur's Gate. Anyone who searches him finds it. A character who questions him and makes a successful **DC 13 Charisma (Intimidation or Persuasion)** check gets the same answer from his own mouth. Sarvos adds the window the strike is meant to open. Either way, **Sarvos Captured** is marked once the party holds him alive with the checkpoint in hand.
 
 ### What Esloon Wants
 
-Any approach that puts a character in front of Esloon opens his question. He asks it at the window when he withdraws, when he has declined the Splinter's offer, or as the Watch leads him out. A party that only takes Sarvos before the meeting can still walk into the back room and meet Esloon, who is waiting for a broker who does not come. Read or paraphrase the following to the character who last spoke to him:
+Any approach that puts a character in front of Esloon opens his question. He asks it at the window when he withdraws, when he has declined the Splinter's offer, or as the Watch leads him out. A party that only takes Sarvos before the meeting can still walk into the back room. There it meets Esloon, who is waiting for a broker who does not come. Read or paraphrase the following to the character who last spoke to him:
 
 > [!readaloud]
 >
