@@ -45,7 +45,7 @@ If Jalester is receiving the member, read the following aloud:
 
 > [!readaloud]
 >
-> The taproom of the Yawning Portal is loud tonight, with hearth smoke hanging under the beams and the great well breathing cold air past its windlass. Durnan polishes a mug at the bar and tips his head toward the corner. Jalester sits there with his back to the wall, a short list ruled in his small hand lying open beside the notebook, and he rises to shake your hand before he offers a chair.
+> The taproom of the Yawning Portal is loud tonight, with hearth smoke hanging under the beams and the great well breathing cold air past its windlass. Durnan polishes a mug at the bar and tips his head toward the corner. Jalester sits there with his back to the wall, and a short list ruled in his small hand lies open beside the notebook. He rises to shake your hand before he offers a chair.
 >
 > > "Thank you for coming this evening, and please sit. You're a Stingblade. The rank used to mean something more martial than it does now, and I'd like you to hear all three arrangements before you ask me anything."
 
@@ -53,7 +53,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, far from the well, with a tankard of small beer and a short list lying open beside it. He is a human in a plain coat, and he nods to the chair across from him without getting up.
+> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a short list lying open. He is a human in a plain coat, and he nods to the chair across from him without getting up.
 >
 > > "My name is Dastar. Silvermane is elsewhere for now, so I'm handling his people, and I'll handle you the way he would. You're a Stingblade, which opens three things, and I'll take them in order."
 
@@ -128,7 +128,7 @@ Jalester starts with the introductions, and the table is still the well table, s
 > - **Clerk Maelith Dray**, an under-clerk in the palace chancery, receives the member in the chancery. She gives one appointment slot with a named official within 3 days, or one stamped copy of a public document.
 > - **Lady Perrine Ostler**, a Sea Ward patron of the Seawatch Charitable Fund, receives the member at her townhouse. She gives an invitation to one Sea Ward gathering and makes one introduction at it.
 >
-> The former watchman Saeth names is Edric Moss in the Dock Ward and Tilda Frayne in every other ward. Each repeats what the ward's officers have grumbled about for a tenday, which is three items from that ward's incident log.
+> The former watchman Saeth names is Benn Hallow in the Dock Ward and Tilda Frayne in every other ward. Each repeats what the ward's officers have grumbled about for a tenday. That is three items from the ward's incident log.
 
 > [!qna]**Can I ask for someone who is not on the list?**
 >
@@ -237,7 +237,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 > The archer case file and the Fentree death report are free leads and never the answer. They sit beside the three leads that **The Archer Above** and **Fentree's Ledger** already give, and a member who skips them loses nothing.
 >
 > - **The archer case file:** it shows where the shots came from and that one window faced north. It gives a fourth lead toward the Pell Street room, and it names no street number, no landlord and no suspect. Once **The Archer Above** is complete, the file is marked closed and gives nothing new.
-> - **The Fentree death report:** it records a natural death, then the clerk's margin note that a money-changer in the Caravan Court reported fresh coin from a woman who gave the Green Dragon Inn as her lodging. It gives the inn and nothing else: not the room, the hour, the buyers or what she carries.
+> - **The Fentree death report:** it records a natural death, then the clerk's margin note. A money-changer in the Caravan Court reported fresh coin from a woman who gave the Green Dragon Inn as her lodging. The note gives the inn and nothing else, with no room, hour, buyer or description of what she carries.
 
 > [!qna]**Which file should I start with?**
 >
@@ -283,9 +283,9 @@ The Event concludes when the member has heard all three benefits, has seen the l
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Stingblade Reached** — mark with the recipient's name when Jalester, or Sevel Dastar, names the rank at the table; read by **Warduke**, which checks it before naming the next rank. Track separately for each member the quest of the last introduction, the quest of the last legal use and the date of the last classified file request, with any file flagged.
+> - **Stingblade Reached** — mark with the recipient's name when Jalester, or Sevel Dastar, names the rank at the table; read by **Warduke**, which checks it before naming the next rank. Track separately for each member the quest of the last introduction and the quest of the last legal use. Also track the date of the last classified file request, and any file that was flagged.
 >
-> This Event also reads **Redknife Reached** (the hold), **Laeral Told of Jalester**, which decides whether Sevel delivers it, and **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks. It also reads **Manshoon Named** and **Jarlaxle Unmasked** for the wording of the Splinter and carnival files.
+> This Event also reads **Redknife Reached** (the hold) and **Laeral Told of Jalester**, which decides whether Sevel delivers it. It reads **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks. It also reads **Manshoon Named** and **Jarlaxle Unmasked** for the wording of the Splinter and carnival files.
 
 > [!gamemaster]**Next Steps**
 >
