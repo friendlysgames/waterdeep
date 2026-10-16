@@ -18,7 +18,7 @@ At 08:00 on the morning after a member reaches Renown 10 and 6th level, a palace
 
 ## Background
 
-Orvane Fentree was seventy-one when his heart failed in his house on Brasswick Lane in the Trades Ward. The Watch recorded natural causes, and the Watch was right. For twenty years after he retired he kept a private ledger in four volumes, and the fourth follows a shell company named Dunberton Holdings as it paid a vault custodian in Waterdeep.
+Orvane Fentree was seventy-one when his heart failed in his house on Brasswick Lane in the Trades Ward. The Watch recorded natural causes, and the Watch was right. For twenty years after he retired he kept a private ledger in four volumes. The fourth follows a shell company named Dunberton Holdings as it paid a vault custodian in Waterdeep.
 
 A Xanathar's Guild clerk paid Rezka, a freelance information broker, to watch Fentree after he asked the Caravan Court counting houses about Dunberton. She searched the study while the Watch clerk was still in the front room, read the fourth volume and kept it. For ten days she has looked for the best price, and she has let three rooms at the Green Dragon Inn for tonight.
 
@@ -39,11 +39,11 @@ The party searches Fentree's study on Brasswick Lane and finds the empty fourth 
 
 ## The Green Dragon
 
-Rezka sits in Room 3 with the ledger. Ossery Klenn meets her in Room 4 at second bell, which is seven o'clock, and Emira Volstren meets her in Room 6 at third bell. The party can reach Rezka before the bidding, collapse the bidding with a lie, a threat or a better price, or let Ossery buy and stop him on the stair.
+Rezka sits in Room 3 with the ledger. Ossery Klenn meets her in Room 4 at second bell, which is seven o'clock, and Emira Volstren meets her in Room 6 at third bell. The party can reach Rezka before the bidding or collapse the bidding with a lie, a threat or a better price. It can also let Ossery buy and stop him on the stair.
 
 ## The Interception
 
-If Ossery buys the ledger, he leaves at half past seven with a Tough Boss named Garrow Tull and a number of hired fighters that depends on the party's size. The hall and the stair are five feet wide, so only three of them can reach one target at a time. Rezka runs for the yard wall as soon as the fight starts, unless the party has already taken the back stair.
+If Ossery buys the ledger, he leaves at half past seven with a Tough Boss named Hallan Roke. The number of hired fighters with him depends on the party's size. The hall and the stair are five feet wide, so only three of them can reach one target at a time. Rezka runs for the yard wall as soon as the fight starts, unless the party has already taken the back stair.
 
 ## The Ledger and the Debrief
 
@@ -61,7 +61,7 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-**Ledger Delivered** is read by **An Audience with the Open Lord**, **Escalation to the Open Lord** and **Vault of Dragons** (unconverted). **Ledger Sold to the Guild** and **Ledger Sold to the Cassalanters** are read by **Vault of Dragons** (unconverted) and by **Xanathar's Lair** or **Cassalanter Villa** (unconverted), whichever has not yet run. **Emira Identified** is read by **An Audience with the Open Lord** and by **Cassalanter Villa** (unconverted).
+**Ledger Delivered** is read by **An Audience with the Open Lord**, **Escalation to the Open Lord** and **Vault of Dragons** (unconverted). **Ledger Sold to the Guild** and **Ledger Sold to the Cassalanters** are read by **Vault of Dragons** (unconverted). The first is also read by **Xanathar's Lair** and the second by **Cassalanter Villa** (both unconverted), whichever has not yet run. **Emira Identified** is read by **An Audience with the Open Lord** and by **Cassalanter Villa** (unconverted).
 
 **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**.
 
@@ -72,14 +72,14 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 - **Orvane Fentree** (deceased, independent): a retired trade investigator whose ledger is the object of the mission.
 - **Rezka** (Xanathar's Guild): a freelance broker who stole the ledger and is selling it to two buyers.
 - **Ossery Klenn** (Xanathar's Guild): the Guild's negotiator, who bids 600 gp and avoids a fight.
-- **Garrow Tull** (Xanathar's Guild): the Tough Boss who leads Ossery's bodyguards.
+- **Hallan Roke** (Xanathar's Guild): the Tough Boss who leads Ossery's bodyguards.
 - **Emira Volstren** (independent): a hired agent who bids 400 gp and a favor for a family she will not name.
 - **Pravin Cloth** (independent): the Green Dragon's proprietor, who confirms rooms and asks no questions.
 - **Orlass Hemmet** and **Dessa Voll** (independent): a neighbour on Brasswick Lane and a Caravan Court money-changer.
 
 ## Dangers & Enemies
 
-Garrow Tull uses the **Tough Boss** block and his hired fighters use the **Tough** block. Garrow breaks at 27 hit points or fewer, and the fighters break when he does. Rezka uses the **Spy** block and surrenders when Grappled or at 13 hit points or fewer. Ossery and Emira use the **Noble** block and do not fight, and Emira's two escorts use the **Guard** block.
+Hallan Roke uses the **Tough Boss** block and his hired fighters use the **Tough** block. Hallan breaks at 27 hit points or fewer, and the fighters break when he does. Rezka uses the **Spy** block and surrenders when Grappled or at 13 hit points or fewer. Ossery and Emira use the **Noble** block and do not fight, and Emira's two escorts use the **Guard** block.
 
 ## Overview
 

@@ -14,7 +14,7 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Rezka keeps the fourth volume in a satchel in Room 3. She has read it twice, and she knows it concerns Neverember's money and a payee in Waterdeep. She does not understand the rest.
+> - Rezka keeps the fourth volume in a satchel in Room 3. She has read it twice, and she knows it concerns Neverember's money and a payee in Waterdeep, though she does not understand the rest.
 > - Ossery Klenn is a Guild negotiator with authority to pay 600 gp and no more. Emira Volstren is a hired agent who offers 400 gp and a favor, and she knows only that her principals want the ledger.
 > - Neither buyer knows the other is coming. Rezka arranged it herself to raise the price, and she means to leave Waterdeep before the Guild learns that she held the book back.
 > - Nobody in the inn knows anything about Emira's principals beyond the ring she wears turned inward. If the party read that ring as a family habit, Jalester can match it to Halek Farran.
@@ -38,8 +38,8 @@ The Green Dragon is a two-storey timbered inn with a taproom on the ground floor
 > [!gamemaster]**The Evening**
 >
 > - **Half past five:** The pot-boy carries Rezka's supper up to Room 3, and she opens the door to a porter.
-> - **Six, first bell:** Ossery arrives with Garrow Tull and the bodyguards and sits at a corner table in the taproom. Garrow and one Tough watch the stair.
-> - **Seven, second bell:** Ossery climbs to Room 4, and Rezka crosses the hall with her satchel, and the bidding takes half an hour.
+> - **Six, first bell:** Ossery arrives with Hallan Roke and the bodyguards and sits at a corner table in the taproom. Hallan and one Tough watch the stair.
+> - **Seven, second bell:** Ossery climbs to Room 4 and Rezka crosses the hall with her satchel. The bidding takes half an hour.
 > - **Half past seven:** If Rezka has sold, Ossery leaves with the ledger and his party, and the interception below begins.
 > - **Twenty-five past seven:** Emira arrives by the street door, and her two escorts wait in the lane. She waits in the taproom until third bell.
 > - **Eight, third bell:** Emira goes up to Room 6. Rezka comes only if she still holds the ledger, and Emira leaves by a quarter past eight if nobody does.
@@ -52,7 +52,7 @@ The party can reach Rezka's door by two routes before the bidding. Either route 
 
 > [!exploration]**Reaching Room 3**
 >
-> - **The supper tray:** Pravin lends a porter's coat and a covered tray for 5 gp, and a character who carries it up at half past five is let in without a check. Garrow's men take the stair head only at first bell.
+> - **The supper tray:** Pravin lends a porter's coat and a covered tray for 5 gp. A character who carries it up at half past five is let in without a check, because Hallan's men take the stair head only at first bell.
 > - **The back stair:** A character who climbs the yard wall and the back stair makes a **DC 14 Dexterity (Stealth)** check to reach Room 3 unseen. On a failure, a pot-boy shouts, Rezka runs for the yard, and the **Flight Track** in **The Interception** begins at 1.
 
 When a character opens her door, read or paraphrase the following:
@@ -105,19 +105,19 @@ A character who speaks to Ossery or Emira in the taproom before their meetings c
 > [!exploration]**Turning the Buyers**
 >
 > - **A lie:** A character who tells Ossery that Rezka is already in Watch hands makes a **DC 15 Charisma (Deception)** check. On a success he will not pay for a ledger whose seller is caught, and he leaves with his party.
-> - **A threat:** A character who holds the stair head with the party behind them makes a **DC 15 Charisma (Intimidation)** check. On a success Garrow stands his men down and Ossery takes his money home.
+> - **A threat:** A character who holds the stair head with the party behind them makes a **DC 15 Charisma (Intimidation)** check. On a success Hallan stands his men down and Ossery takes his money home.
 > - **A better price:** The party can pay Rezka more than 600 gp in coin or goods, or any smaller sum with Jalester's promise of safe passage. She sells to the party at once.
-> - **On a failure:** Ossery says "Garrow" and the Tough Boss starts the fight in **The Interception**, with the party as the aggressor and the Hard roster in play.
+> - **On a failure:** Ossery says "Hallan" and the Tough Boss starts the fight in **The Interception**. The party counts as the aggressor, so the Hard roster is in play.
 
 > [!readaloud]
 >
 > A plump, round-faced man in an ink-spotted waistcoat sits at the corner table with a mug of tea and a small purse at his elbow. A broad man in a leather coat stands behind his chair, and four more sit at nearby tables with their cloaks open. The plump man smiles as you approach.
 >
-> > "Friends, sit down, for fuck's sake, you're making Garrow nervous. I'm Ossery Klenn, and I'm here to buy some paper."
+> > "Friends, sit down, for fuck's sake, you're making Hallan nervous. I'm Ossery Klenn, and I'm here to buy some paper."
 
 > [!social]**The Guild's Negotiator**
 >
-> Ossery Klenn (Lawful Evil, Human, he/him) :: a plump, affable negotiator for Xanathar's Guild who buys information the way other men buy fish and keeps a rapier he would rather not draw.
+> Ossery Klenn (Lawful Evil, Human, he/him) :: a plump, affable negotiator for Xanathar's Guild who buys information the way other men buy fish. He keeps a rapier he would rather not draw.
 >
 > Ossery is Indifferent and genial. He haggles for pleasure, swears cheerfully to put people at ease and says his employer's name without lowering his voice. He will not pay for a ledger whose seller has been caught, and he surrenders at the first blood.
 >
@@ -139,40 +139,42 @@ A character who speaks to Ossery or Emira in the taproom before their meetings c
 
 > [!qna]**What if we pay more?**
 >
-> > "Then you'll have it, and I'll go home and tell my employer the price went up. Don't make me say that twice in front of Garrow, because the poor bastard gets nervous."
+> > "Then you'll have it, and I'll go home and tell my employer the price went up. Don't make me say that twice in front of Hallan, because the poor bastard gets nervous."
 
 ### Approach Three: Let Ossery Buy
 
-If the party lets the bidding run, Rezka sells to Ossery for 600 gp in Room 4 at second bell. Ossery takes the satchel, and Rezka collects her coin and heads for the back stair. At half past seven Ossery leaves Room 4 with Garrow and the bodyguards, and the party can stop them on the stair or in the taproom.
+If the party lets the bidding run, Rezka sells to Ossery for 600 gp in Room 4 at second bell. Ossery takes the satchel, and Rezka collects her coin and heads for the back stair. At half past seven Ossery leaves Room 4 with Hallan and the bodyguards. The party can stop them on the stair or in the taproom.
 
 ### The Interception
 
 > [!hazard]**Ossery's Party on the Stair**
 >
-> Garrow Tull uses the **Tough Boss** block, his hired fighters use the **Tough** block, and Ossery Klenn uses the **Noble** block but does not fight. Use the roster for the party's size, companions included.
+> Hallan Roke uses the **Tough Boss** block, his hired fighters use the **Tough** block, and Ossery Klenn uses the **Noble** block but does not fight. Use the roster for the party's size, companions included.
 >
-> - **Three characters, Standard:** Garrow, one Tough and Ossery. This is a Bruising fight with a Day Cost of 4.
-> - **Four characters, Standard:** Garrow, three Toughs and Ossery. This is a Bruising fight with a Day Cost of 4.
-> - **Five characters, Standard:** Garrow, five Toughs and Ossery. This is a Bruising fight with a Day Cost of 4.
+> - **Three characters, Standard:** Hallan, one Tough and Ossery. This is a Bruising fight with a Day Cost of 4.
+> - **Four characters, Standard:** Hallan, three Toughs and Ossery. This is a Bruising fight with a Day Cost of 4.
+> - **Five characters, Standard:** Hallan, five Toughs and Ossery. This is a Bruising fight with a Day Cost of 4.
 > - **Hard, at any size:** Add Rezka, who fights from the end of the hall instead of fleeing. This is a Bloody fight with a Day Cost of 6.
 >
-> Use the Hard roster when the party has taken the back stair first, when Xanathar's Guild is at Alert or Lockdown, or when the party attacked first. If the fight spills into the taproom, Emira's two Guards join in round 3. They move a Standard fight to between 32% and 37% of the party's strength and a Hard fight to about 50%, so the bands stay Bruising and Bloody. Rezka uses the **Spy** block. The **Lords' Alliance Mechanics Reference** audits the fight.
+> Use the Hard roster when the party has taken the back stair first, when Xanathar's Guild is at Alert or Lockdown, or when the party attacked first. If the fight spills into the taproom, Emira's two Guards join in round 3. They move a Standard fight to between 32% and 37% of the party's strength and a Hard fight to about 50%. The bands stay Bruising and Bloody. Rezka uses the **Spy** block. The **Lords' Alliance Mechanics Reference** audits the fight.
 >
-> #### Garrow's Tactics
-> To begin, Garrow leads in the hall with the Warhammer, and the Toughs follow him. One Tough holds the stair head with a Heavy Crossbow. Ossery stays behind Garrow with his rapier sheathed.
+> #### Hallan's Tactics
+> To begin, Hallan leads in the hall with the Warhammer, and the Toughs follow him. One Tough holds the stair head with a Heavy Crossbow. Ossery stays behind Hallan with his rapier sheathed.
 >
-> During combat, Garrow and his party:
+> During combat, Hallan and his party:
 > - Use the Warhammer to push a character down the stair or back through a doorway.
-> - Use Pack Tactics, because a Tough or Garrow standing beside the target counts as an ally.
+> - Use Pack Tactics, because a Tough or Hallan standing beside the target counts as an ally.
 > - Send no more than three attackers at one target on the first turn, because the hall and stair are 5 feet wide.
 > - Never attack a creature at 0 hit points.
 >
-> Ossery uses Parry only if struck, and he surrenders at the first damage he takes. He says "Take it. The Guild will find another price." and hands over the satchel. Garrow breaks at 27 hit points or fewer, the Toughs break when he does, and they surrender if Grappled. Ossery breaks when Garrow does, and if he escapes with the satchel the ledger is Sold to the Guild.
+> Ossery uses Parry only if struck, and he surrenders at the first damage he takes. He says "Take it. The Guild will find another price." and hands over the satchel. Hallan breaks at 27 hit points or fewer, and the Toughs break when he does. They surrender if Grappled. Ossery breaks when Hallan does, and if he escapes with the satchel, the ledger is Sold to the Guild.
 >
 > #### Rezka's Flight
-> In a Standard fight Rezka runs for the yard wall. The **Flight Track** runs from 0 to 3 and rises by 1 each round, starting when the fight begins or when an alarm sounds, because she uses Cunning Action to Dash. A character within 30 feet who spends an action on the chase and makes a **DC 13 Dexterity (Acrobatics)** or **Strength (Athletics)** check stops the rise that round, and two successes lower the track by 1. A character who blocks the back stair with an action and a **DC 13 Strength (Athletics)** check holds the track for that round and the next. At 3 she is over the yard wall and gone.
+> In a Standard fight Rezka runs for the yard wall. The **Flight Track** runs from 0 to 3 and rises by 1 each round, starting when the fight begins or when an alarm sounds. She uses Cunning Action to Dash.
 >
-> If Rezka is Grappled or at 13 hit points or fewer, she surrenders and gives her statement. The fight ends when Garrow breaks, when Ossery surrenders, or when the party breaks off. A party that clears the stair and lets Garrow take Ossery out loses the ledger.
+> A character within 30 feet who spends an action on the chase and makes a **DC 13 Dexterity (Acrobatics)** or **Strength (Athletics)** check stops the rise that round. Two successes lower the track by 1. A character who blocks the back stair with an action and a **DC 13 Strength (Athletics)** check holds the track for that round and the next. At 3 she is over the yard wall and gone.
+>
+> If Rezka is Grappled or at 13 hit points or fewer, she surrenders and gives her statement. The fight ends when Hallan breaks, when Ossery surrenders, or when the party breaks off. A party that clears the stair and lets Hallan take Ossery out loses the ledger.
 
 > [!hazard]**Emira's Escort**
 >
@@ -181,7 +183,7 @@ If the party lets the bidding run, Rezka sells to Ossery for 600 gp in Room 4 at
 > #### The Escort's Tactics
 > To begin, the Guards step in front of Emira with their spears raised. During combat, they hold the lane and do not pursue. They stand down when Emira tells them to, and she does so when a character names her employer or reaches for the satchel. She says "I'm paid to buy, not to die" and hands it over.
 
-If the ledger was sold to Emira and the party does not stop her, her escort walks her to a carriage in the lane that leaves for the Sea Ward. A character who follows on foot and makes a **DC 13 Dexterity (Stealth)** check sees it stop at the side gate of a villa.
+If the ledger was sold to Emira and the party does not stop her, her escort walks her to a carriage in the lane. The carriage leaves for the Sea Ward, and a character who follows on foot and makes a **DC 13 Dexterity (Stealth)** check sees it stop at the side gate of a villa.
 
 ### Emira Volstren
 
@@ -193,7 +195,7 @@ If the ledger was sold to Emira and the party does not stop her, her escort walk
 
 > [!social]**The Hired Agent**
 >
-> Emira Volstren (Neutral, Human, she/her) :: a composed woman of about forty in a plain grey cloak, hired by a family to buy paper and paid to give nothing away.
+> Emira Volstren (Neutral, Human, she/her) :: a composed woman of about forty in a plain grey cloak. A family hired her to buy paper, and she is paid to give nothing away.
 >
 > Emira is Indifferent and courteous. She speaks in complete sentences, never raises her voice and does not give her name unless it is asked of the register. She wears a signet ring turned inward on her left hand, and she will not discuss her principals.
 >
@@ -222,7 +224,7 @@ If the ledger was sold to Emira and the party does not stop her, her escort walk
 > Emira Identified needs two things reported to Jalester, her name and one tie to a household.
 >
 > - **The name:** Pravin's register shows "Mistress E. Volstren" for 5 gp, as it does in **The Missing Volume**.
-> - **The ring:** A character who studies her hand and makes a successful **DC 14 Wisdom (Insight)** check sees that the ring is worn by someone who serves a family and wants to hide it. If **Halek Farran Named** is marked, the character also recalls that Halek wore his signet the same way.
+> - **The ring:** A character who studies her hand and makes a successful **DC 14 Wisdom (Insight)** check sees that the ring is worn by someone who serves a family and wants to hide it. If **Halek Farran Named** is marked, the character also recalls that Halek wore his signet in the same way.
 > - **The carriage:** A character who follows her escort after the meeting sees the carriage stop at the side gate of a villa in the Sea Ward.
 > - **On a failure:** Emira turns the ring inward further and says nothing else. The party still has the carriage and the register.
 
@@ -230,7 +232,7 @@ If the ledger was sold to Emira and the party does not stop her, her escort walk
 
 > [!exploration]**Pages 47 to 52**
 >
-> Fentree's fourth volume is a slim book with a cracked spine and tight handwriting. Pages 47 to 52 record quarterly payments from Dunberton Holdings to "a vault custodian", from the last two years of Neverember's term as Open Lord. Three readings each show that the payments were made in Waterdeep, and any one is enough.
+> Fentree's fourth volume is a slim book with a cracked spine and tight handwriting. Pages 47 to 52 record quarterly payments from Dunberton Holdings to "a vault custodian". They date from the last two years of Neverember's term as Open Lord. Three readings each show that the payments were made in Waterdeep, and any one is enough.
 >
 > - **The shell:** A character who researches the name and makes a successful **DC 16 Intelligence (History or Investigation)** check learns that Dunberton Holdings is a shell company of Dagult Neverember. On a failure, Jalester knows the name from a chancery file and supplies it at the debrief.
 > - **The counter:** Fentree's receipts note that each payment was counted out by hand at a Caravan Court counting house, and none went north by caravan or courier. A character who compares the dates and makes a successful **DC 13 Intelligence (Investigation)** check sees it. On a failure, Dessa Voll recognizes the stamp on the receipts for the price of a drink.
@@ -282,15 +284,21 @@ If the ledger was sold to the Cassalanters, read or paraphrase the following ins
 >
 > > "Then a household has it that I can only suspect, and I would like to hear why you suspect it too. Thank you for the account. If anyone read the pages before the sale, please give me every detail you remember. Which way did the carriage turn at the end of the lane?"
 
-If a member reports Emira's name and a tie, mark **Emira Identified** and read or paraphrase the following. If **Halek Farran Named** is marked, add that the ring matches Halek's:
+If a member reports Emira's name and a tie, mark **Emira Identified** and read or paraphrase the following:
 
 > [!readaloud]
 >
 > Jalester writes the name and stops with the pencil above the page.
 >
-> > "Emira Volstren, and a ring worn turned inward. Halek Farran wore his the same way when the archer's employer was described to us, so the same household is hiring archers and buying paper. Thank you. I will give the name to the Watch's Criminal Intelligence office tonight."
+> > "Emira Volstren, and a ring worn turned inward. Thank you. I will give the name to the Watch's Criminal Intelligence office tonight, and I will ask them about the household."
 
-If **Halek Farran Named** is not marked, Jalester says only that a ring worn turned inward is a household habit he cannot place yet and that he will ask the Watch.
+If **Halek Farran Named** is marked, Jalester adds the following. If it is not marked, he says only that a ring worn turned inward is a household habit he cannot place yet:
+
+> [!readaloud]
+>
+> He turns back a page in the notebook and runs the pencil down a line.
+>
+> > "Halek Farran wore his ring the same way. So the same household is hiring archers and buying paper."
 
 If Rezka is alive and a member gives her statement, read or paraphrase the following:
 
@@ -316,7 +324,7 @@ If Rezka is alive and a member gives her statement, read or paraphrase the follo
 
 ### Aftermath
 
-Jalester carries the ledger to Laeral's office that night if the party delivered it, and Laeral's reading of it waits until **An Audience with the Open Lord**. A ledger sold to the Guild reaches Xanathar's Guild within the hour, and the Guild's crews carry advance word of any attempt on the vault. A ledger sold to the Cassalanters reaches the Sea Ward the same night, and the family arrives at the vault with a partial map of its lock.
+Jalester carries the ledger to Laeral's office that night if the party delivered it. Laeral's reading of it waits until **An Audience with the Open Lord**. A ledger sold to the Guild reaches Xanathar's Guild within the hour, and the Guild's crews carry advance word of any attempt on the vault. A ledger sold to the Cassalanters reaches the Sea Ward the same night. The family arrives at the vault with a partial map of its lock.
 
 Rezka leaves Waterdeep within a day if she is free, and she keeps her coin. If she is in the Hall's custody, she stays three days and is released without charge.
 
@@ -327,15 +335,15 @@ Jalester's report ends the mission, and the four outcomes below are read by late
 > [!gamemaster]**Event Outcomes**
 >
 > - **Ledger Delivered** — mark when a member puts Fentree's ledger in Jalester's hands. Read by **An Audience with the Open Lord**, **Escalation to the Open Lord** and **Vault of Dragons** (unconverted).
-> - **Ledger Sold to the Guild** — mark when Ossery leaves the Green Dragon with the ledger and the party does not recover it by the debrief. Read by **Xanathar's Lair** (unconverted), if it has not run, and by **Vault of Dragons** (unconverted).
-> - **Ledger Sold to the Cassalanters** — mark when Emira leaves with the ledger and the party does not recover it by the debrief. Read by **Cassalanter Villa** (unconverted), if it has not run, and by **Vault of Dragons** (unconverted).
-> - **Emira Identified** — mark when a member reports Emira's name and one tie to a household to Jalester. Read by **An Audience with the Open Lord**, where it counts toward Laeral's second question, and by **Cassalanter Villa** (unconverted), if it has not run.
+> - **Ledger Sold to the Guild** — mark when Ossery leaves the Green Dragon with the ledger and the party has not recovered it by the debrief. Read by **Xanathar's Lair** (unconverted), if it has not run, and by **Vault of Dragons** (unconverted).
+> - **Ledger Sold to the Cassalanters** — mark when Emira leaves with the ledger and the party has not recovered it by the debrief. Read by **Cassalanter Villa** (unconverted), if it has not run, and by **Vault of Dragons** (unconverted).
+> - **Emira Identified** — mark when a member reports Emira's name and one tie to a household to Jalester. Read by **An Audience with the Open Lord**, where it counts toward Laeral's second question. Also read by **Cassalanter Villa** (unconverted), if it has not run.
 >
 > This Event also reads **Halek Farran Named**, which **The Archer Above** marks, and **LA Grand Game Escalated**, which **Escalation to the Open Lord** marks.
 
 > [!gamemaster]**Next Steps**
 >
-> **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. If the ledger was sold, Laeral's summons follows **LA Grand Game Escalated** or Renown 13. **Fentree's Ledger** awards no Milestone Points.
+> **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. If the ledger was sold, Laeral's summons follows **LA Grand Game Escalated** or Renown 13, and this faction mission awards no Milestone Points.
 
 ## Overview
 
