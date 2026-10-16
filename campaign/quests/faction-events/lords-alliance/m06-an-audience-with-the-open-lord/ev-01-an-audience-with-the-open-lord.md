@@ -11,7 +11,7 @@
 > - Tell Laeral about Jalester, if anyone present learned the name from Mirt.
 > - Report to Jalester at the well, or to Sevel Dastar if Laeral takes Jalester off duty.
 >
-> Only Lords' Alliance members take that report and earn Renown. Companions attend the audience and appear on the Writ, and a dismissed member (**LA Dismissed**) receives no summons.
+> Only Lords' Alliance members take that report and earn Renown. Companions attend the audience and appear on the Writ. A dismissed member (**LA Dismissed**) receives no summons.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -29,7 +29,7 @@ Two Watch officers reach Trollskull Manor at 09:00. Sergeant Maelis Venning carr
 
 > [!readaloud]
 >
-> Two Watch officers in polished breastplates and blue dress cloaks wait in the taproom, where the stools are still upturned on the tables and the floor is damp from the morning scrub. The sergeant holds a roll of vellum tied with white ribbon, and she looks over the room before she looks at you.
+> Two Watch officers in polished breastplates and blue dress cloaks wait in the taproom. The stools are still upturned on the tables, and the floor is damp from the morning scrub. The sergeant holds a roll of vellum tied with white ribbon, and she looks over the room before she looks at you.
 >
 > > "Sergeant Maelis Venning, Castle Ward. I'm to give this to the Alliance members in this house and wait while it's read."
 >
@@ -81,7 +81,7 @@ The doors open at 17:00. Companions are allowed in, and they sit with the member
 
 > [!readaloud]
 >
-> The audience chamber is long and high, with tall windows down the left wall and a stone fireplace at the far end. A table laid for twelve runs down the middle of the floor, and late sun lies across it in broad stripes. One woman sits alone at the head of the table, a silver-haired elf in a plain grey gown, with a cup of tea at her elbow and a small stack of unopened letters beside it. She sets the cup down as you reach the door and gestures to the chairs nearest her.
+> The audience chamber is long and high, with tall windows down the left wall and a stone fireplace at the far end. A table laid for twelve runs down the middle of the floor, and late sun lies across it in broad stripes. One woman sits alone at the head of the table, a silver-haired elf in a plain grey gown. She has a cup of tea at her elbow and a small stack of unopened letters beside it, and she sets the cup down as you reach the door. She gestures to the chairs nearest her.
 >
 > > "Please sit. I have a good deal to ask you, and I would like to begin while the light holds."
 
@@ -113,7 +113,7 @@ If **Vajra Briefed** is marked for any character in the room, read or paraphrase
 
 > [!gamemaster]**What Laeral Already Holds**
 >
-> - **Ledger Delivered:** she knows the gold sits in a vault in Waterdeep and that Dunberton Holdings paid a custodian from it, though she has not learned who holds the Stone.
+> - **Ledger Delivered:** she knows the gold sits in a vault in Waterdeep and that Dunberton Holdings paid a custodian from it. She has not learned who holds the Stone.
 > - **LA Grand Game Escalated:** she knows the Stone has resurfaced in the city and that two villain factions are confirmed.
 > - **Vajra Briefed** for a character in the room: she holds the Guild line and the Splinter line of Question Two, and that question adjusts for it.
 > - None of these marked: this is her first full briefing, and she asks each question exactly as written.
@@ -160,7 +160,7 @@ If **Vajra Briefed** is marked for any character in the room, read or paraphrase
 
 > [!readaloud]
 >
-> Laeral opens the small book, writes a line at the top of a fresh page and looks up at the party with her pen still in her hand.
+> Laeral opens the small book and writes a line at the top of a fresh page. She looks up at the party with her pen still in her hand.
 >
 > > "Who holds the Stone of Golorr tonight, and where is it kept? I will not ask where you found it."
 
@@ -186,7 +186,7 @@ The first answer given for the party stands, and another character can correct i
 
 > [!readaloud]
 >
-> Laeral turns to the next page of her book and waits, with the pen resting against her thumb, until she is sure you are ready.
+> Laeral turns to the next page of her book and waits with the pen resting against her thumb. She watches until she is sure you are ready.
 >
 > > "Four houses are circling that vault. Tell me what each of them wants, and tell me how you know. I would like your own words and not your guesses."
 
@@ -199,7 +199,7 @@ Each of the following lines is true, and a character who states the substance of
 > - **The Cassalanters:** need the gold badly and pay hired agents to learn how to reach it. With **Emira Identified**, a character may name Emira Volstren as the household's agent, and Laeral logs the line as confirmed.
 > - **The carnival fleet:** wants a seat for Luskan in the Lords' Alliance and holds an Eye of the Stone. With **Jarlaxle Unmasked**, a character may name Jarlaxle Baenre and Zardoz Zord, and Laeral says only that she knows the first name.
 >
-> Question Two is answered when a character states any two lines. If **Vajra Briefed** is marked for any character in the room, Laeral already holds the first two lines and counts them, so one line from the third or fourth is enough.
+> Question Two is answered when a character states any two lines. If **Vajra Briefed** is marked for any character in the room, Laeral already holds the first two lines and counts them. One line from the third or fourth is then enough.
 
 > [!qna]**What if we only suspect?**
 >
@@ -253,7 +253,7 @@ After a pause, she adds:
 > - **Blackmail Ledger delivered to Laeral:** she already holds five names, and the argument below is easier by 2.
 > - **The Vault of Dragons has already run:** the offer is a fifth of the gold the treasury has yet to enter in its books, and everything else stands.
 
-The party argues in its own words. Laeral accepts a strategic reason and does not accept a moral appeal alone, since the offer already offends her and she has said so by asking.
+The party argues in its own words. Laeral accepts a strategic reason but not a moral appeal alone. The offer already offends her, and she has said so by asking.
 
 > [!exploration]**The Strategic Argument**
 >
@@ -287,7 +287,7 @@ If Laeral accepts the offer, read or paraphrase the following, and mark **Splint
 > [!gamemaster]**What the Offer Changes**
 >
 > - **Splinter Offer Declined:** the Splinter has no leverage at **Vault of Dragons**, and it cannot delay the Watch or threaten an exposure through Laeral.
-> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered and **Manshoon operational?** is Alive or Simulacrum Only, or **Kolat Towers** has not run.
+> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered. **Manshoon operational?** must also be Alive or Simulacrum Only, or **Kolat Towers** must not have run.
 > - **After the Vault:** a declined offer sends the whole gold to the treasury, and an accepted offer sends a fifth of what remains to the Splinter's agents instead.
 
 ### The Writ
@@ -302,7 +302,7 @@ She signs it, blows once on the ink and passes it down the table.
 
 > [!gamemaster]**The Masked Lord's Writ**
 >
-> The Writ names every character in the room, member or not. This is a deliberate gift to the whole party, as the statuette in **The Compromised Eye** is for Bregan D'aerthe, and a dismissed member is not in the room and is not named.
+> The Writ names every character in the room, member or not. This is a deliberate gift to the whole party, as the statuette in **The Compromised Eye** is for Bregan D'aerthe. A dismissed member is not in the room and is not named.
 >
 > - **The gate:** Watch officers at the Vault district gate defer to the Writ, and the gate opens within four rounds of presentation.
 > - **One legal action:** Laeral authorises one Watch action on the party's behalf during **Vault of Dragons**. The party can use it against a rival faction's complication, a legal challenge or an arrest.
@@ -315,11 +315,11 @@ If a lie was detected, mark **Laeral Doubts the Party** now. She says nothing ab
 
 ### The Jalester Question
 
-This scene runs only if **Jalester Compromise Identified** is marked and at least one character in the room learned the name from Mirt, or from a character who did. Otherwise Laeral rises and says "That will be all", and the audience ends.
+This scene runs only if **Jalester Compromise Identified** is marked. At least one character in the room must also have learned the name from Mirt, or from a character who did. Otherwise Laeral rises and says "That will be all", and the audience ends.
 
 > [!readaloud]
 >
-> Laeral has risen to her feet by the head of the table, and she lets the silence run until one of you shifts in your chair.
+> Laeral has risen to her feet by the head of the table. She lets the silence run until one of you shifts in your chair.
 >
 > > "Before you go, tell me what you are not telling me. I would rather hear it here than learn it later."
 
@@ -329,7 +329,7 @@ If a character tells Laeral about Jalester, read or paraphrase the following, an
 
 > [!readaloud]
 >
-> Laeral listens to the whole account without moving, and when it is finished she sits down again and puts both hands flat on the table.
+> Laeral listens to the whole account without moving. When it is finished she sits down again and puts both hands flat on the table.
 >
 > > "Something old and patient, listening through the water of a tavern well. I have not heard the like in this city, and I do not know what it is. Jalester has done nothing wrong, and I will not have him treated as though he had."
 
@@ -349,8 +349,8 @@ If no character tells her, read or paraphrase the following, and mark **Jalester
 
 > [!gamemaster]**What Telling Her Changes**
 >
-> - **Laeral Told of Jalester:** the party reports to Sevel Dastar that evening, away from the well. Whatever Jalester has already heard stays heard, he cannot escort the party at the Vault, and Sevel takes his place at every later Alliance contact.
-> - **Jalester Concealed:** the party reports to Jalester at the well table, and the feed stays open. What the members tell him that evening, including the Stone's holder and the Writ's terms, can reach what listens below.
+> - **Laeral Told of Jalester:** the party reports to Sevel Dastar that evening, away from the well. Whatever Jalester has already heard stays heard. He cannot escort the party at the Vault, and Sevel takes his place at every later Alliance contact.
+> - **Jalester Concealed:** the party reports to Jalester at the well table, and the feed stays open. Whatever the members tell him that evening can reach what listens below. That includes the Stone's holder and the Writ's terms.
 > - A character who lies to Laeral about Jalester makes the **DC 16 Charisma (Deception)** check, and a failure marks **Laeral Doubts the Party** and **Jalester Concealed**.
 > - If the scene does not run because nobody present knows the name, mark **Jalester Concealed** too, so that the Vault always finds one of the two outcomes.
 
@@ -362,7 +362,7 @@ If **Jalester Concealed** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester Silvermane sits there with his notebook open and an untouched tankard at his elbow, and he closes the book as you reach him and waits until every member is seated.
+> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester Silvermane sits there with his notebook open and an untouched tankard at his elbow. He closes the book as you reach him and waits until every member is seated.
 
 > [!gamemaster]**The Well Table**
 >
@@ -372,7 +372,7 @@ If **Laeral Told of Jalester** is marked, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, well away from the well, with a tankard of small beer and a folded paper in front of him. He is a human in a plain coat, and he nods to the chair across from him without getting up before he reads the Writ's terms in a flat voice.
+> The table Sevel Dastar has taken stands under the stairs, well away from the well, with a tankard of small beer and a folded paper in front of him. He is a human in a plain coat. He nods to the chair across from him without getting up, and then he reads the Writ's terms in a flat voice.
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
@@ -414,7 +414,7 @@ Jalester closes his report with a question. If the members told him of Laeral's 
 
 ### Aftermath
 
-Laeral has what she needs for the Vault whatever the answers were. If the offer was declined she sleeps easier, and if it was taken she has accepted a risk and will not say so aloud. If a lie was detected she remembers it and says nothing, and the Writ does not change.
+Laeral has what she needs for the Vault whatever the answers were. If the offer was declined she sleeps easier. If it was taken she has accepted a risk and will not say so aloud. If a lie was detected she remembers it and says nothing. The Writ does not change.
 
 If the party told her about Jalester, he sits at a palace desk with a pen and a ledger and learns why that same night. He takes it as an order and not a punishment, and Sevel Dastar is at the Portal from the next evening. If the party stayed silent, Jalester keeps his table by the well and the leak continues.
 

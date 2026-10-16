@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> The mission has no combat and no stat block, and Laeral Silverhand detects lies with a flat **DC 16 Charisma (Deception)** check, which the **Lords' Alliance Mechanics Reference** records.
+> The mission has no combat and no stat block. Laeral Silverhand detects lies with a flat **DC 16 Charisma (Deception)** check, which the **Lords' Alliance Mechanics Reference** records.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points. Renown goes to the individual Lords' Alliance members who attend the audience and report to their handler.
@@ -35,7 +35,7 @@ Sergeant Maelis Venning and Watchman Jorin Larkin bring the vellum at 09:00. Ven
 
 ## The Palace
 
-The party is searched at the gate and led through a waiting room to a long audience chamber, where Laeral sits alone at the head of a table for twelve. Her opening line shows what she already holds from **Ledger Delivered**, **LA Grand Game Escalated** or **Vajra Briefed**.
+The party is searched at the gate and led through a waiting room to a long audience chamber. Laeral sits alone at the head of a table for twelve, and her opening line shows what she already holds from **Ledger Delivered**, **LA Grand Game Escalated** or **Vajra Briefed**.
 
 ## Question One: The Stone
 
@@ -59,7 +59,7 @@ This scene runs only if a character present learned from Mirt that Jalester is c
 
 ## The Report
 
-The members report to Jalester at the well table at 20:00, or to Sevel Dastar away from the well if Laeral was told, and whatever the members say to Jalester at the well may reach what listens below.
+The members report to Jalester at the well table at 20:00, or to Sevel Dastar away from the well if Laeral was told. Whatever the members say to Jalester at the well may reach what listens below.
 
 ## Renown Opportunities
 
@@ -80,7 +80,7 @@ Each participating Lords' Alliance member gains 4 base Renown for attending the 
 
 ## Dangers & Enemies
 
-The mission has no combat, and its risks are political, since a detected lie marks **Laeral Doubts the Party** and an accepted offer gives the Splinter leverage at the Vault. If anyone attacks, the Watch officers at the door end the audience at once.
+The mission has no combat, and its risks are political. A detected lie marks **Laeral Doubts the Party**, and an accepted offer gives the Splinter leverage at the Vault. If anyone attacks, the Watch officers at the door end the audience at once.
 
 ## Overview
 
