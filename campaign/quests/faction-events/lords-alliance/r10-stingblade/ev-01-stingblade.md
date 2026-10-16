@@ -14,7 +14,7 @@
 
 Hold this Event until **Redknife Reached** is marked for the member. At noon on the day after the member reaches Renown 10, a Watch runner finds them wherever they are lodging and hands over a sealed note. The runner is an ordinary **Commoner** in a plain tabard and waits for no reply. Who sends the note depends on where Jalester is:
 
-- **Before Laeral Told of Jalester is marked:** Jalester writes the note, seals it with a thumbprint of grey wax, and receives the member at dusk at the corner table beside the well.
+- **Before Laeral Told of Jalester is marked:** Jalester writes the note and seals it with a thumbprint of grey wax. He receives the member at dusk at the corner table beside the well.
 - **After Laeral Told of Jalester is marked:** Sevel Dastar writes the note, signs it "S.D." and receives the member at a table in the taproom, well away from the well.
 
 Every qualifying member is invited on their own account, so several members who cross the threshold together attend together and are recorded one by one. Companions who are not Lords' Alliance members are not invited, and a companion who tags along sits at the bar. A member who is away from Waterdeep finds the runner at their first surface lodging on return, and the meeting moves to the following evening.
@@ -109,7 +109,7 @@ Jalester starts with the introductions, and the table is still the well table, s
 > - **Contact:** the member asks Jalester at the table in the evening, or leaves a written request with Durnan at the Portal's bar, addressed to "Silvermane's friends". The request names one person from the list and gives a reason.
 > - **Delay:** Jalester's reply is waiting at the bar by the next evening, signed "J.S.", and it names the hour and the place. The meeting takes place within 3 days of the request, at the person's office or home.
 > - **The meeting:** the person is Friendly toward the member for that one meeting only and gives what the list says they give. The member may bring companions, and the person talks to the member alone.
-> - **Limit:** one introduction per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and the request counts against the quest the party is in when the member asks. An introduction not asked for before the quest ends is lost.
+> - **Limit:** one introduction per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**. The request counts against the quest the party is in when the member asks, and an unused introduction is lost when the quest ends.
 > - **What it never buys:** a secret, a favor against the Alliance, or an act against the Watch. Jalester gives his reason for a refusal before the use is spent, and a refusal spends nothing.
 > - **Who else:** the member only. A request made in the member's name by a companion is ignored.
 > - **Loss rule:** a member who lies to the person met, or who uses the meeting to threaten them, loses the benefit for a tenday. Jalester hears of it within a day.
@@ -158,19 +158,19 @@ Jalester gives the second benefit without being asked, and the table is still th
 > - **Delay:** the solicitor reaches the Watch house or the court within 4 hours of the word reaching the Portal. She pays what is owed directly and takes no money from the member.
 > - **The ceiling:** 500 gp for one incident in each quest, covering bail, fines and damages together. The Alliance pays up to that sum, and the member pays any amount above it.
 > - **What counts:** an arrest, a charge or a damages claim that is genuine. The typical costs and what the Alliance covers are in the list below.
-> - **What it never covers:** a crime against the Alliance, a Lord or the Watch, a debt to a guild or a lender, and bail for murder or treason, which always runs above the ceiling.
-> - **What it does not do:** it pays the cost and does not remove the charge. A magistrate still hears the matter, though **String-Pulling** from the previous rank can remove a minor charge before it reaches one.
+> - **What it never covers:** a crime against the Alliance, a Lord or the Watch, and a debt to a guild or a lender. Bail for murder or treason always runs above the ceiling.
+> - **What it does not do:** it pays the cost and does not remove the charge. A magistrate still hears the matter. **String-Pulling** from the previous rank can remove a minor charge before it reaches one.
 > - **Limit:** one incident per member in each quest, counted against the quest the party is in when the solicitor is called. An incident the member does not use before the quest ends is lost.
 > - **Who else:** the member only. A companion's own trouble is not covered, and the solicitor says so at the Watch house.
-> - **Loss rule:** a member who gives the solicitor false facts, or who commits a crime so that the Alliance will pay for it, loses the benefit for a tenday.
+> - **Loss rule:** a member who gives the solicitor false facts loses the benefit for a tenday. So does a member who commits a crime so that the Alliance will pay for it.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the coverage is suspended until the Renown is restored.
 
 > [!exploration]**What the Alliance Pays**
 >
 > The solicitor works from this list, and the amounts are the usual ones in Waterdeep.
 >
-> - **Covered:** bail for a minor assault or a brawl, about 50 gp, and a fine for an unlicensed weapon or a breach of the peace, about 25 gp.
-> - **Covered to the ceiling:** damages for a brawl in a tavern or a shop, 100 to 300 gp, and damages for the arson of a shop, up to 500 gp.
+> - **Covered:** bail for a minor assault or a brawl costs about 50 gp. A fine for an unlicensed weapon or a breach of the peace costs about 25 gp.
+> - **Covered to the ceiling:** damages for a brawl in a tavern or a shop run from 100 to 300 gp. Damages for the arson of a shop run up to 500 gp.
 > - **Not covered:** bail for murder or treason, which is above the ceiling, and a debt to a guild or a lender of any size.
 
 > [!qna]**What if the damages are more than five hundred?**
@@ -224,7 +224,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 > - **Standard, warrants outstanding:** names, charges and the magistrate who requested each warrant.
 > - **Standard, missing persons ledger:** names, the last known place and the date reported.
 > - **Standard, patrol rotations:** one ward's three daily patrol windows, listed by street.
-> - **Standard, the archer case file:** three killings by hand crossbow, with the shot angles and a note on a north-facing window.
+> - **Standard, the archer case file:** three killings by heavy crossbow, with the shot angles and a note on a north-facing window.
 > - **Standard, the Fentree death report:** a finding of natural causes, and a clerk's note that the study had been searched.
 > - **Classified, the Splinter inquiry file:** an unsolved report of unusual cart and carriage traffic at a Trades Ward safe house. It names nobody, and it calls the people involved "the Splinter".
 > - **Classified, Xanathar's Guild informant file:** a Castle Ward rowhouse with stretchers carried in at night, two sworn complaints and no arrests.
