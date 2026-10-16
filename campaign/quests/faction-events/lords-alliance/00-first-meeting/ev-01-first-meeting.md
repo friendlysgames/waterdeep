@@ -12,7 +12,7 @@
 >
 > #### Candidates and Companions
 >
-> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. Jalester speaks first to a candidate with the Vassal, Guard, Noble or Soldier background. If several qualify, or none does, he speaks first to the candidate with the highest Charisma score, and a tie goes to the name that comes first alphabetically. The civic-minded note in **The Factions Come Calling** only decides whom he addresses first. Nobody is tested for residence or alignment at the table.
+> Every character who belongs to no other faction is a candidate, and each candidate answers for themselves. Jalester speaks first to a candidate with the Vassal, Guard, Noble or Soldier background. If several qualify, or none does, he speaks first to the candidate with the highest Charisma score. A tie goes to the name that comes first alphabetically. The civic-minded note in **The Factions Come Calling** only decides whom he addresses first. Nobody is tested for residence or alignment at the table.
 >
 > Jalester makes no offer to a character who already belongs to another faction, or who was dismissed from this one. Those characters and any companions can sit at the table and listen, and they gain nothing from it. If every candidate declines, end the Event with no membership outcome.
 >
@@ -28,9 +28,9 @@
 
 > [!gamemaster]**Where Jalester Waits**
 >
-> Jalester sits at the corner table beside the well from dusk until the last bell on the day the Lords' Alliance row of **The Factions Come Calling** fires. He wears a dark doublet fastened to the collar, keeps his back to the wall and writes in a small notebook. Durnan knows what Jalester does for Laeral and leaves him alone.
+> Jalester sits at the corner table beside the well from dusk until the last bell. He starts on the day the Lords' Alliance row of **The Factions Come Calling** fires. He wears a dark doublet fastened to the collar, keeps his back to the wall and writes in a small notebook. Durnan knows what he does for Laeral and leaves him alone.
 >
-> Candidates can come that evening or on any later evening. If no candidate has entered the Portal by dusk of the second day, Jalester walks to Trollskull Manor on the third morning and takes a table in the taproom until noon. The Event then runs there, and the readaloud below changes only in the room.
+> Candidates can come that evening or on any later evening. If no candidate has entered the Portal by dusk of the second day, Jalester walks to Trollskull Manor on the third morning. He takes a table in the taproom until noon, and the Event then runs there with only the room changed in the readaloud.
 
 > [!gamemaster]**Beside the Well**
 >
@@ -44,9 +44,9 @@
 
 > [!readaloud]
 >
-> A lean man with thinning dark hair sits at the table with his back to the wall, in a dark doublet fastened to the collar. A small notebook lies open under his hand, an untouched tankard stands at his elbow, and a City Watch badge hangs on his belt. He rises as you reach the table, shakes hands once, firmly, and waits until everyone has a chair.
+> A lean man with thinning dark hair sits at the table with his back to the wall, in a dark doublet fastened to the collar. A small notebook lies open under his hand, and an untouched tankard stands at his elbow beside a stub of pencil. He rises as you reach the table, shakes hands once, firmly, and waits until everyone has a chair.
 >
-> > "Jalester Silvermane. Thank you for coming. The Watch report from Candle Lane names you, and I have read it twice. Which door did you use to get into that warehouse?"
+> > "Jalester Silvermane, and thank you for coming. The Watch report from Candle Lane names you, and I have read it twice, so I would like to ask which door you used to get into that warehouse."
 
 Jalester writes down whatever answer he gets, says "Understood." and goes on, because nothing in the Event depends on which door the party used.
 
@@ -56,13 +56,13 @@ Jalester writes down whatever answer he gets, says "Understood." and goes on, be
 >
 > Jalester closes the notebook over his pen and rests both hands on the cover.
 >
-> > "I'll tell you plainly what this is. The Lords' Alliance is a body of rulers and agents who think Waterdeep is worth defending. We do the work that the Watch and the Guard can't be seen doing, off duty and off the record. I want to know whether you would do it."
+> > "I'll tell you plainly what this is, and then I would like your answer. The Lords' Alliance is a body of rulers and agents who think Waterdeep is worth defending. We do the work that the Watch and the Guard can't be seen doing, off duty and off the record."
 
 > [!readaloud]
 >
 > He turns the tankard a quarter turn on the table without lifting it.
 >
-> > "In return, our people get Watch access, safe houses and a line to the Open Lord's office when a door needs opening. You would answer to me. I will tell you whatever else you ask, as far as I'm able to."
+> > "In return, our people get Watch access, safe houses and a line to the Open Lord's office when a door needs opening. You would answer to me, and I will tell you whatever else you ask, as far as I'm able to."
 
 > [!social]**The Agent**
 >
@@ -92,7 +92,7 @@ Jalester writes down whatever answer he gets, says "Understood." and goes on, be
 
 > [!qna]**What does it pay?**
 >
-> > "Not coin, I'm afraid. We pay in support, and the support grows the longer you serve. Watch officers learn your name, doors open that stay shut to other people, and the Alliance helps with your manor. I'll describe that help if you accept."
+> > "Not coin, I'm afraid, because we pay in support, and the support grows the longer you serve. Watch officers learn your name, doors open that stay shut to other people, and the Alliance helps with your manor. I'll describe that help if you accept."
 
 > [!qna]**What about the other factions?**
 >
@@ -106,17 +106,17 @@ Jalester writes down whatever answer he gets, says "Understood." and goes on, be
 
 > [!qna]**Can we keep our other loyalties?**
 >
-> > "No. The Alliance doesn't share its members, and I don't make the offer to anyone who already wears another faction's colors. You are welcome to sit and listen all the same, and I thank you for it."
+> > "No, the Alliance doesn't share its members, and I don't make the offer to anyone who already wears another faction's colors. You are welcome to sit and listen all the same, and I thank you for it."
 
 > [!gamemaster]**The Stone, the Vault and Active Intelligence**
 >
-> Jalester does not discuss the Stone of Golorr, the vault or any intelligence the Alliance is acting on now. If a player asks, he answers:
+> Jalester does not discuss the Stone of Golorr, the vault or any intelligence the Alliance is acting on now. If a player asks about any of them, he gives this answer:
 >
 > > "That belongs to people with a higher rank than mine. I would rather say so than invent something. Is there anything else you want to know about the Alliance itself?"
 
 > [!gamemaster]**If a Player Raises Manshoon**
 >
-> Jalester neither confirms nor denies anything. His pen stops on the page, and he answers:
+> Jalester neither confirms nor denies anything he hears about it. His pen stops on the page, and he answers:
 >
 > > "I don't discuss a name I can't support with a source. Who gave it to you, and when?"
 >
@@ -146,7 +146,7 @@ Jalester explains this once, and a candidate who argues the point gets the same 
 
 > [!exploration]**What the Condition Costs Him**
 >
-> Any character who watches Jalester while he answers and makes a successful **DC 13 Wisdom (Insight)** check sees his hand tighten on the notebook when he speaks of the one who did not survive, because he knew that person. A character who fails sees a calm man stating a rule, and nothing else depends on the result.
+> Any character who watches Jalester while he answers and makes a successful **DC 13 Wisdom (Insight)** check sees his hand tighten on the notebook. It happens when he speaks of the one who did not survive, because he knew that person. A character who fails sees a calm man stating a rule, and nothing else depends on the result.
 
 ### Each Candidate's Answer
 
@@ -154,7 +154,9 @@ Jalester explains this once, and a candidate who argues the point gets the same 
 >
 > Jalester asks each candidate for an answer in the order he spoke to them, and you record each one separately. A candidate who accepts becomes a Lords' Alliance member at **Renown 1** with the **Cloak** rank. Joining takes no check, and mixed answers cause no argument with Jalester.
 >
-> A candidate who declines, or who asks for time, gets the decline below, because Jalester does not hold the table open and does not chase. Mark **Lords' Alliance Offer Closed** with that candidate's name. Characters who already belong to another faction get no offer.
+> A candidate who declines outright gets the decline below, and you mark **Lords' Alliance Offer Closed** with that candidate's name. Jalester does not chase a refusal, and characters who already belong to another faction get no offer.
+>
+> A candidate who asks for time gets the second reply below. That candidate may answer on any evening within ten days. Jalester takes the answer at the corner table, or at the Trollskull table if he came there. An acceptance is recorded as above, and the Civic Grant is given if it is the first. An explicit decline marks **Lords' Alliance Offer Closed**, and so does reaching the end of the tenth day with no answer.
 
 If a candidate accepts, read or paraphrase the following, using their name:
 
@@ -162,25 +164,32 @@ If a candidate accepts, read or paraphrase the following, using their name:
 >
 > Jalester opens the notebook, writes your name on a fresh line and turns the page so that you can read it. Then he offers his hand across the table.
 >
-> > "Understood. Welcome to the Alliance, Name, and thank you. You are a Cloak, which is the first rank we give. I will explain what it brings before you leave."
+> > "Understood, and welcome to the Alliance, Name. You are a Cloak, which is the first rank we give, and I will explain what it brings before you leave."
 
-If a candidate declines or asks for more time, read or paraphrase the following:
+If a candidate declines, read or paraphrase the following:
 
 > [!readaloud]
 >
 > Jalester listens to your answer without any change in his face, then caps his pen and closes the notebook on a blank page.
 >
-> > "Understood. Thank you for your time, and for hearing me out. I won't ask you again, and I hope the city treats you well."
+> > "Understood, and thank you for your time and for hearing me out. I won't ask you again, and I hope the city treats you well."
 
-A decliner who comes back to the table is greeted politely and answered like any stranger, but Jalester repeats no offer, and the character stays closed.
+If a candidate asks for more time, read or paraphrase the following:
+
+> [!readaloud]
+>
+> Jalester nods once and leaves the notebook open to the page with your name on it.
+>
+> > "Understood. I'm here most evenings, and I will wait ten days for your answer, so please take the time you need. After that I will close the page, and I won't raise it again."
+
+A decliner who comes back to the table is greeted politely and answered like any stranger. Jalester repeats no offer, and the character stays closed.
 
 > [!gamemaster]**Cloak Benefits**
 >
-> Each accepting candidate gains the following, and nothing goes to a decliner or a companion. No token is issued. The Watch knows a member by Jalester's word, and he sends the list of new names to the Watch houses of every ward the night they join. Sergeants read it to their officers at morning muster within three days.
+> Each accepting candidate gains the following, and nothing goes to a decliner or a companion. No token is issued, because the Watch knows a member by Jalester's word. He sends the list of new names to the Watch houses of every ward the night they join. Sergeants read it to their officers at morning muster within three days.
 >
 > - **Renown 1:** the member starts as a Cloak, and Jalester greets the member by name from then on.
-> - **The overlook:** see **The Overlook** below.
-> - **The patrol note:** see **The Patrol Note** below.
+> - **The overlook and the patrol note:** each has its own rules in **The Overlook** and **The Patrol Note** below, and each belongs to the member alone.
 > - **Loss rule:** a member whose Renown later falls below 1 keeps the rank, and the benefits are suspended until the Renown is restored. A suspended or dismissed member loses both benefits, as **Suspension and Dismissal** describes.
 > - **Companions:** a companion can stand beside a member when the overlook is used and can read the member's patrol note. A companion gains nothing else and cannot ask for either benefit.
 
@@ -210,33 +219,33 @@ A decliner who comes back to the table is greeted politely and answered like any
 > This help belongs to the party, because Trollskull Manor is a shared holding. It is given once, when the first candidate accepts, and later acceptances do not repeat it. Jalester mentions it as he stands, and it costs the party nothing.
 >
 > - **The sum:** the renovation total of Trollskull Manor drops by **200 gp**, and the saving is applied once. Jalester pays the builders from Laeral's discretionary fund within a tenday, and nothing is repaid.
-> - **The check:** within a tenday of the grant, Jalester sits at a Trollskull table for one evening, orders nothing and asks one specific question about the work, such as which wall the damp came through. He expects only a true answer, and nothing else follows.
+> - **The check:** within a tenday of the grant, Jalester sits at a Trollskull table for one evening and orders nothing. He asks one specific question about the work, such as which wall the damp came through, and he expects only a true answer. Nothing else follows from the visit, and he pays for nothing he did not order.
 > - **The licence cut:** the manor guide lowers the Fellowship of Innkeepers line from 3 gp to 1 gp a tenday while the party holds Alliance standing. This is passive and needs no scene, and any Watch citation against the manor resets it.
 > - **Later changes:** the grant stays with the party if a member is later suspended or dismissed.
 
 > [!gamemaster]**Walking Out**
 >
-> Jalester hands out no assignment tonight. **The Long Watch** reaches each new member at this table, in the evening, once the member is 2nd level. Read the following aloud when at least one candidate has accepted.
+> Jalester hands out no assignment tonight, and **The Long Watch** reaches each new member at this table, in the evening, once the member is 2nd level. Read the following aloud when at least one candidate has accepted.
 
 > [!readaloud]
 >
 > Jalester tucks the notebook inside his doublet and stands, and the patrons nearest the well make room for him as he turns toward you.
 >
-> > "I have nothing for you tonight. When there is a first task, I will tell you here, in the evening. One more detail, if you don't mind. Does the manor have a back door?"
+> > "I have nothing for you tonight, and when there is a first task I will tell you here, in the evening. One more detail, if you don't mind, and then I'll let you go. Does the manor have a back door?"
 
-If every candidate declined, read the following instead:
+If no candidate accepted, read the following instead:
 
 > [!readaloud]
 >
 > Jalester stands, nods to each of you and leaves a few coins beside the untouched tankard. Then he crosses the taproom and goes out into the street.
 >
-> > "Thank you again. Good evening."
+> > "Thank you again for your time, and good evening to you."
 
 ### Late Candidates
 
 > [!gamemaster]**A Character Who Is Free Later**
 >
-> A character who belonged to another faction when this Event ran, and has since left it, is a candidate. The usual case is a character marked **BD Contact Severed**, which **Contact Severed** in the Bregan D'aerthe set reads. Jalester meets that character within a tenday, and the scene runs again in a shorter form with the same Pitch, the same Condition and the same answer. The grant is not repeated.
+> A character who belonged to another faction when this Event ran, and has since left it, is a candidate. The usual case is a character marked **BD Contact Severed**, which **Contact Severed** in the Bregan D'aerthe set reads. Jalester meets that character at the well table within a tenday. The scene runs again in a shorter form with the same Pitch, Condition and answer, and the grant is not repeated.
 >
 > - **Where:** Jalester is at the corner table at dusk on the day after the character leaves their faction. If the character has not entered the Portal by the third dusk, he walks to Trollskull Manor on the following morning, as in **Where Jalester Waits**.
 > - **Who is excluded:** a character marked **Lords' Alliance Offer Closed** or **LA Dismissed** gets no second offer.
@@ -248,20 +257,20 @@ The meeting ends when the last candidate has answered and Jalester has left the 
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Lords' Alliance Joined** — mark for each character who accepts Jalester's offer, whether that evening or at a late meeting, and record the character's name. The member is at Renown 1 with the Cloak rank. Read by the **Lords' Alliance** Factions Guide page, by every Lords' Alliance faction event beginning with **The Long Watch**, by **The Factions Come Calling** (unconverted, and its row still writes a True or False heading), and by **Contact Severed** in the Bregan D'aerthe set. Companions and characters who joined another faction are not enrolled by this outcome.
-> - **Lords' Alliance Offer Closed** — mark for each character who declines or asks for time, and record the character's name. Read by this Event, which makes no second offer to a marked character, and by **Escalation to the Open Lord**, which treats a marked character as outside the Alliance. Leave both outcomes unmarked if no private meeting takes place.
+> - **Lords' Alliance Joined** — mark for each character who accepts Jalester's offer, whether that evening or at a late meeting, and record the character's name. The member is at Renown 1 with the Cloak rank. Read by the **Lords' Alliance** Factions Guide page and by every Lords' Alliance faction event beginning with **The Long Watch**. Also read by **The Factions Come Calling** (unconverted, and its row still writes a True or False heading) and by **Contact Severed** in the Bregan D'aerthe set. Companions and characters who joined another faction are not enrolled by this outcome.
+> - **Lords' Alliance Offer Closed** — mark for each character who declines outright, and record the character's name. Also mark it when a character who asked for time reaches the end of the tenth day with no answer. Read by this Event, which makes no second offer to a marked character. Also read by **Escalation to the Open Lord**, which treats a marked character as outside the Alliance. Leave both outcomes unmarked if no private meeting takes place.
 >
 > This Event also reads **LA Dismissed**, which **Suspension and Dismissal** marks, and **BD Contact Severed**, to decide who counts as a late candidate.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Long Watch** becomes available when an individual Lords' Alliance member reaches Renown 1 and 2nd level. Jalester briefs it to that member in person at the well table, in the evening. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate marked **Lords' Alliance Offer Closed** stays unaffiliated unless they join another faction.
+> **The Long Watch** becomes available when an individual Lords' Alliance member reaches Renown 1 and 2nd level. Jalester briefs it to that member in person at the well table, in the evening. Return to **The Factions Come Calling** for the other factions' contacts during the continuing renovation period. A candidate who asked for time can still accept at the table for ten days. A candidate marked **Lords' Alliance Offer Closed** stays unaffiliated unless they join another faction.
 >
 > This Event awards no Milestone Points.
 
 ## Overview
 
-Jalester Silvermane waits at the corner table beside the Yawning Portal's well, where he offers eligible characters a place in the Lords' Alliance and states the one condition that comes with it.
+Jalester Silvermane waits at the corner table beside the Yawning Portal's well. He offers eligible characters a place in the Lords' Alliance and states the one condition that comes with it.
 
 ## Summary
 
