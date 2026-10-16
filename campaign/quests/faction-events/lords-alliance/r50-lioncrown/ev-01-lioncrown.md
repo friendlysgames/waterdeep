@@ -32,10 +32,10 @@ Companions are not invited, and a companion who comes along waits in the palace 
 >
 > - Laeral's magic has waned since the Spellplague, and only her closest confidants know it. Tonight she tells the member, because a Lioncrown helps hold the city and should know what it has to work with.
 > - Neither Jalester nor Sevel knows, so Laeral sends whoever is present out of the room before the questions. The admission is the one time she speaks of her decline.
-> - Joroth Brighthelm is a dwarf spy in Laeral's service. In the adventure he waits at the Yawning Portal and asks adventurers to find Falkir's Fist, but here he went below himself six tendays ago, with Ilsa Marrow and three hired mapmakers.
-> - The Runestone is Laeral's own research. She hopes a fragment of Halaster's crystal will halt her decline, and she has told Jalester only that the errand protects the city.
+> - Joroth Brighthelm is a dwarf spy in Laeral's service. In the adventure he waits at the Yawning Portal and asks adventurers to find Falkir's Fist. Here he went below himself six tendays ago, with Ilsa Marrow and three hired mapmakers.
+> - The Runestone is Laeral's own research, and she hopes a fragment of Halaster's crystal will halt her decline. She has told Jalester only that the errand protects the city.
 > - **Laeral Told of Jalester** means she moved Jalester to a palace desk and trusts the member for it. **Laeral Doubts the Party** means she set a watch on the member after the audience. Each changes a line or two below, and neither changes the benefits.
-> - Nobody in this Event says Manshoon's name or calls Kolat Towers his unless **Manshoon Named** is marked for the member addressed. Until then Laeral says "the Splinter". Nobody names Jarlaxle before **Jarlaxle Unmasked**, and nobody names Illuun or says the Cassalanters are more than suspect.
+> - Nobody in this Event says Manshoon's name or calls Kolat Towers his unless **Manshoon Named** is marked for the member addressed. Until then Laeral says "the Splinter", and nobody names Jarlaxle before **Jarlaxle Unmasked**. Nobody names Illuun or says the Cassalanters are more than suspect.
 
 ### The Annex
 
@@ -51,7 +51,7 @@ If Jalester attends, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Jalester stands to one side of the table with his notebook shut. A man in a plain brown coat waits beside the cabinet with his hands loose at his sides.
+> Jalester stands to one side of the table with his notebook shut and his back to the fire. A man in a plain brown coat waits beside the cabinet with his hands loose at his sides.
 
 If **Laeral Told of Jalester** is marked, read or paraphrase the following instead:
 
@@ -65,7 +65,7 @@ If **Laeral Doubts the Party** is marked, read or paraphrase the following after
 
 > [!readaloud]
 >
-> Laeral's eyes rest on you a moment longer than on the chair, and her voice stays level.
+> Laeral's eyes rest on you a moment longer than they rested on the chair, and her voice stays level.
 >
 > > "One of your answers at the audience did not hold, so I had you watched. That ends tonight, and I will not raise it again. If you want to tell me which answer it was, I will listen."
 
@@ -73,7 +73,7 @@ The member may answer or say nothing, and Laeral accepts either. Nothing is roll
 
 > [!social]**The Open Lord in Her Annex**
 >
-> Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, a tall silver-haired elf in a plain grey gown who works at this table whenever the city allows.
+> Laeral Silverhand (Chaotic Good, Moon Elf, she/her) :: the Open Lord of Waterdeep, a silver-haired elf who works at this table whenever the city allows.
 >
 > Laeral is Friendly and economical, and she speaks in measured, complete sentences. She lets a silence run until the member fills it, and she does not swear in office. Tonight she answers directly, and she says "I do not know" without apology when she does not.
 >
@@ -95,7 +95,7 @@ The member may answer or say nothing, and Laeral accepts either. Nothing is roll
 
 ### The Charge
 
-Laeral turns to the charge first. If the member holds an outstanding charge, read the following aloud:
+Laeral turns to the charge first, and if the member holds an outstanding charge, read the following aloud:
 
 > [!readaloud]
 >
@@ -119,7 +119,7 @@ If the member holds no charge, read or paraphrase the following instead:
 > - **Which one:** if the member holds several, Laeral clears the most serious in the order of arrest warrant, wanted notice, damages claim and citation.
 > - **If there is none:** the benefit is held. The member tells their handler at the Portal's bar within a tenday of any charge being entered, and Laeral signs the writ within 3 days.
 > - **What it does:** the charge is struck from the books for good. A damages claim is withdrawn on the Open Lord's authority, and the claimant is paid from her discretionary fund.
-> - **What it never clears:** treason, the killing of a Watch officer or a Lord, a charge brought by the Alliance itself, and a debt to a guild or a lender.
+> - **What it never clears:** treason, the killing of a Watch officer or a Lord, and any charge the Alliance itself brought.
 > - **Limit:** one charge per member, spent when Laeral signs the writ. A held benefit stays held until it is used, and a companion's charge is never covered.
 > - **Loss rule:** a member who commits a crime so that Laeral will clear it is refused and loses a held benefit for a tenday.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the rank. A charge already cleared stays cleared, and a held benefit waits until the Renown is restored.
@@ -136,7 +136,7 @@ If Jalester attends, he introduces Sevel Dastar. If **Laeral Told of Jalester** 
 
 > [!readaloud]
 >
-> Laeral turns toward the man beside the cabinet. He comes to the table and stays on his feet, with his thumbs hooked in his belt.
+> Laeral turns toward the man beside the cabinet, who comes to the table and stays on his feet with his thumbs hooked in his belt.
 >
 > > "You know Sevel Dastar from the Portal. He has handled your affairs while Jalester sits at a desk, and tonight his duty changes. He is offered to you as an attaché, and he answers to my office."
 
@@ -148,7 +148,7 @@ If Jalester attends, he introduces Sevel Dastar. If **Laeral Told of Jalester** 
 
 > [!social]**The Open Lord's Man**
 >
-> Sevel Dastar (Lawful Neutral, Human, he/him) :: a middle-aged Lords' Alliance field agent in a plain brown coat, who has carried the Open Lord's errands for years and looks like nobody in particular.
+> Sevel Dastar (Lawful Neutral, Human, he/him) :: a middle-aged Lords' Alliance field agent in a plain brown coat, who has carried errands for years.
 >
 > Sevel is Friendly and dry, and he speaks in short, practical sentences. He swears lightly when a plan annoys him, and he does not flatter anyone. He tells the member what he will report before he is asked.
 >
@@ -189,14 +189,14 @@ Laeral says the following in either case:
 > Each Lioncrown who accepts Sevel can call on him as an attaché.
 >
 > - **Contact:** the member leaves a note with Durnan at the Portal's bar, addressed to "Dastar". Sevel answers by the next evening, signed "S.D.", and meets the member at the table under the stairs, away from the well.
-> - **Notice:** one day. He meets the member at the Portal's courtyard or at a surface point in Waterdeep at the hour named.
-> - **Role:** by default Sevel coordinates. He carries messages up the stairs, arranges Watch access and keeps the party's camp, and he goes down with the party whenever the member asks.
-> - **The seal:** once a tenday, while he is in Waterdeep, Sevel speaks for the Open Lord to one Watch captain or lower, ward clerk or magistrate's clerk. The officer opens a cordon, shows the party a scene or releases a person held for a day on a minor charge. The officer refuses any request that works against the Watch, a Lord or the Alliance.
-> - **Below ground:** Sevel walks as far down as the member takes him. He has no spell and no way to send word from below, so he tells Laeral's office what he saw when he returns to the surface, and he tells the member what he reported if asked.
+> - **Notice:** one day is enough, and he meets the member at the Portal's courtyard or at a surface point in Waterdeep at the hour named.
+> - **Role:** by default Sevel coordinates, which means he carries messages up the stairs, arranges Watch access and keeps the party's camp. He goes down with the party whenever the member asks.
+> - **The seal:** once a tenday in Waterdeep, Sevel speaks for the Open Lord to one Watch captain or lower, ward clerk or magistrate's clerk. The officer opens a cordon, shows the party a scene or releases a person held for a day on a minor charge. The officer refuses any request that works against the Watch, a Lord or the Alliance.
+> - **Below ground:** Sevel walks as far down as the member takes him. He has no spell and no way to send word from below, so he reports to Laeral's office when he returns to the surface. He tells the member what he reported if asked.
 > - **One attaché:** Sevel serves one operation at a time. If two Lioncrowns ask for the same day, he serves them in the order they asked, and only the member can call him.
 > - **Orders:** he takes the member's orders in the field and nobody else's. He refuses to harm the Watch, a Lord or a creature that has surrendered.
-> - **Handler:** if **Laeral Told of Jalester** is marked, Sevel stays the member's handler for every other Alliance contact, whether or not the member accepts him as an attaché.
-> - **Loss rule:** a member who orders Sevel to harm the Watch, a Lord or a creature that has surrendered loses the attaché for a tenday, and Sevel reports the order.
+> - **Handler:** if **Laeral Told of Jalester** is marked, Sevel stays the member's handler for every other Alliance contact, even if the member declines him as an attaché.
+> - **Loss rule:** a member who orders Sevel to harm the Watch, a Lord or a surrendered creature loses the attaché for a tenday.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the attaché waits until the Renown is restored.
 
 > [!gamemaster]**Sevel as an Ally**
@@ -206,7 +206,7 @@ Laeral says the following in either case:
 > - Three PCs: Sevel adds 17, for a Party Power of 149. The Bruising budget is 89.4 and the Bloody budget is 111.75.
 > - Four PCs: Sevel adds 17, for a Party Power of 193. The Bruising budget is 115.8 and the Bloody budget is 144.75.
 > - Five PCs: Sevel adds 17, for a Party Power of 237. The Bruising budget is 142.2 and the Bloody budget is 177.75.
-> - From level 11, Sevel is worth 15.
+> - From level 11, Sevel is worth 15 in the same calculation.
 >
 > One Spy is below twice the Power of an 8th-level character, so the High-Power Warning does not apply. Either rebuild the fight around the larger total or treat Sevel as a safety net.
 >
@@ -234,9 +234,9 @@ Laeral dismisses whoever else is in the room, and the questions are for the memb
 >
 > Each member puts three questions to Laeral, one at a time, in the order they sit. Every member at the table hears every answer. Match each question to the nearest row below and read that answer.
 >
-> - **No matching row:** Laeral says "I do not know. If I did, I would say so." The question still counts.
+> - **No matching row:** Laeral says "I do not know. If I did, I would say so." The question still counts against the member's three.
 > - **A refused topic:** Khelben Arunsun, the contents of the Blackstaff and the name of any Masked Lord get "That is not mine to give." The question does not count, and the member asks another.
-> - **A repeated question:** Laeral says "I have answered that." The question does not count.
+> - **A repeated question:** Laeral says "I have answered that," and the repeat does not count against the three.
 > - **Gates:** read the Splinter and carnival rows that match **Manshoon Named** and **Jarlaxle Unmasked**. Read the Jalester row only if **Laeral Told of Jalester** is marked.
 > - **The admission:** the first row is the one place Laeral speaks of her decline. She asks for no promise of silence, and nothing in the campaign changes if a member repeats it.
 
@@ -318,7 +318,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 >
 > - **Joroth Brighthelm:** a dwarf Lords' Alliance spy in Laeral's service, with the **Spy** stat block.
 > - **Ilsa Marrow and the mapmakers:** Ilsa is a human clerk-agent who kept the team's ledger. The three hired cartographers have names Laeral does not have.
-> - **The last dispatch:** it came up from Level 3 six tendays ago and said the team was going down to Level 10, after Falkir's Fist and the emerald called the Eye of the Spider.
+> - **The last dispatch:** it came up from Level 3 six tendays ago. It said the team was going down to Level 10, after Falkir's Fist and the Eye of the Spider.
 > - **Their fate:** this Event does not decide it. **Dungeon of the Mad Mage** (unconverted) does, and it reads **Undermountain Commission Accepted**.
 
 > [!qna]**Why did he go below?**
@@ -341,7 +341,7 @@ Laeral waits for the room to settle, and then she makes the Undermountain reques
 > - **Ilsa Marrow:** the member asks "Is the ledger closed?" and the genuine Ilsa answers "Closed and signed."
 > - **The symbol:** a closed hand inside a circle, which the team chalked on a wall at every camp where it was safe to approach.
 > - **Reporting:** the member brings word to their handler, whether it is a find, a body, a paper or a chalk mark. Jalester takes it at the well table, where anything said may reach something below the Portal and Jalester does not know. Sevel takes it at the table under the stairs if **Laeral Told of Jalester** is marked, and nothing said there reaches the water.
-> - **Deadline:** none. Laeral does not ask for progress, and nothing is lost if the member never goes below Level 3.
+> - **Deadline:** none, since Laeral does not ask for progress and nothing is lost if the member never goes below Level 3.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the card, and Laeral's interest in it does not change.
 
 If the member takes the card, mark **Undermountain Commission Accepted** and read the following:
@@ -362,7 +362,7 @@ If the member declines, read the following:
 
 ### A Second Matter
 
-Jalester walks the member to the gate. If **Laeral Told of Jalester** is marked, Sevel does it instead and says the same words in his own voice, naming Jalester's palace desk as the place to deliver. The errand is Jalester's and is separate from the card. Read the following aloud:
+Jalester walks the member to the gate. If **Laeral Told of Jalester** is marked, Sevel does it instead and says the same words in his own voice. He names Jalester's palace desk as the place to deliver. The errand is Jalester's and is separate from the card. Read the following aloud:
 
 > [!readaloud]
 >
@@ -372,19 +372,19 @@ Jalester walks the member to the gate. If **Laeral Told of Jalester** is marked,
 
 > [!gamemaster]**The Runestone Errand**
 >
-> The Runestone is Halaster's crystal in the Runestone Caverns on Level 20, and a pebble-sized fragment breaks off it every 12 hours. A character who casts *Detect Magic* on the cavern floor finds 1d4 fragments, and a character without the spell finds one with a 1-hour search and a **DC 20 Wisdom (Perception)** check.
+> The Runestone is Halaster's crystal in the Runestone Caverns on Level 20, and a pebble-sized fragment breaks off it every 12 hours. A character who casts *Detect Magic* on the cavern floor finds 1d4 fragments. A character without the spell finds one with a 1-hour search and a **DC 20 Wisdom (Perception)** check.
 >
 > - **Who:** the errand is open to anyone of the 12th level or higher and is not tied to a rank, so nothing is marked for it. The reward is Jalester's lasting friendship, as in the adventure.
-> - **Delivery:** Jalester receives the fragment at the well table. If **Laeral Told of Jalester** is marked, he receives it at his palace desk, and Sevel never names the well.
+> - **Delivery:** Jalester receives the fragment at the well table, where anything said may reach something below and Jalester does not know. If **Laeral Told of Jalester** is marked, he receives it at his palace desk, and Sevel never names the well.
 > - **The purpose:** neither Jalester nor Sevel knows it. A member who connects the fragment to what Laeral said has worked it out alone, and Laeral confirms it only if asked, with "It may help. I make no promises."
 
 ### Mad Mage Seeds
 
 > [!gamemaster]**Seeds for Dungeon of the Mad Mage**
 >
-> These are one-line facts. *Dungeon of the Mad Mage* has no Lords' Alliance content beyond the two hooks below, so use these and no others.
+> These are one-line facts from the two Lords' Alliance hooks that the adventure already holds, and this Event adds no others.
 >
-> - Falkir's Fist lies on Level 10 with the Eye of the Spider, which Falkir swallowed before he died. A Lords' Alliance member who returns it to Joroth gains 3 Renown, as the adventure says, and the member's handler accepts it for the same award if Joroth cannot be found.
+> - Falkir's Fist lies on Level 10 with the Eye of the Spider, which Falkir swallowed before he died. A Lords' Alliance member who returns it to Joroth gains 3 Renown, as the adventure says. If Joroth cannot be found, the member's handler accepts it for the same award.
 > - The Runestone and its fragments lie on Level 20, and Jalester hires adventurers of the 12th level or higher to bring him one.
 > - Laeral's magic has begun to wane, and the adventure says only her closest confidants know it. This Event is the one place that tells a member.
 > - The transport and *Sending* limits are recorded in **Force Grey Commander** and are not repeated here. The Alliance has no *Sending*, so Sevel and every report travel up the stairs on foot.
@@ -395,7 +395,7 @@ The rank event awards no Renown, gold or Milestone Points, and the Lioncrown has
 
 ### Aftermath
 
-The member can tell companions what they were given. The charge, the answers, the seal and the card stay with the member, and Durnan, Sevel and the palace clerks turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the charge, the seal and the attaché are suspended until the Renown returns.
+The member can tell companions what they were given. The charge, the answers, the seal and the card stay with the member. Durnan, Sevel and the palace clerks turn away a companion who asks in the member's name. A member whose Renown later falls below 50 keeps the rank, and the charge, the seal and the attaché are suspended until the Renown returns.
 
 Record separately for each member whether a charge was cleared or held, the three questions asked, whether Sevel was accepted and whether the card was taken. Also record the date of Sevel's last seal use.
 
@@ -405,10 +405,10 @@ The Event concludes when the member has had a charge dealt with, put three quest
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Lioncrown Reached** — mark with the recipient's name when Laeral names the rank at the annex table; read by **Dungeon of the Mad Mage** (unconverted) content that checks the member's Lords' Alliance standing and the attaché's availability.
-> - **Undermountain Commission Accepted** — mark with the member's name when they take the card; read by **Dungeon of the Mad Mage** (unconverted), wherever Joroth Brighthelm's team or the Eye of the Spider appears.
+> - **Lioncrown Reached** — mark with the recipient's name when Laeral names the rank; read by **Dungeon of the Mad Mage** (unconverted) content that checks Alliance standing.
+> - **Undermountain Commission Accepted** — mark with the member's name when they take the card; read by **Dungeon of the Mad Mage** (unconverted) for Joroth's team.
 >
-> This Event also reads **Warduke Reached** (the hold), **Laeral Told of Jalester** and **Jalester Concealed** (who writes the summons and who attends), and **Laeral Doubts the Party** (one scene). It reads **Manshoon Named** and **Jarlaxle Unmasked** for the speakers' wording, and **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks.
+> This Event also reads **Warduke Reached** (the hold), **Laeral Told of Jalester** and **Jalester Concealed** (who writes the summons and who attends), and **Laeral Doubts the Party** (one scene). It reads **Manshoon Named** and **Jarlaxle Unmasked** for the speakers' wording. It also reads **LA Suspended**, **LA Reinstated** and **LA Dismissed**, which **Suspension and Dismissal** marks.
 
 > [!gamemaster]**Next Steps**
 >
