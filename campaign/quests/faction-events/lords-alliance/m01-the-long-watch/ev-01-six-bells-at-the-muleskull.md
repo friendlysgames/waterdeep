@@ -6,7 +6,7 @@
 >
 > - Take Jalester's brief and meet Mareva Coile and Berna at the Muleskull Tavern at six bells.
 > - Walk the Trades Ward circuit with the crew, and see how it works through short scenes on Days 2, 4, 6 and 7.
-> - Follow the watcher on Margaster Street, read the schedule scrap that Herath finds, and open Mareva's duty book. Each of these three leads names Delvon Harsk.
+> - Follow the watcher on Tallowmere Street, read the schedule scrap that Herath finds, and open Mareva's duty book. Each of these three leads names Delvon Harsk.
 > - Confront Delvon, warn him off, or leave him for Jalester to deal with.
 > - Earn Berna's regard by how the party behaves on Days 2, 6 and 7.
 >
@@ -188,16 +188,16 @@ She means it as advice and not as a rebuke. The party earns a **Trust mark** if 
 
 ### Day 4: The Watcher
 
-> [!exploration]**The Watcher on Margaster Street**
+> [!exploration]**The Watcher on Tallowmere Street**
 >
-> Any character who watches the windows along Margaster Street and makes a successful DC 13 Wisdom (Perception) check notices a lean young man in a brown jerkin. He keeps appearing at different second-floor windows ahead of the crew and withdraws each time the route turns a corner.
+> Any character who watches the windows along Tallowmere Street and makes a successful DC 13 Wisdom (Perception) check notices a lean young man in a brown jerkin. He keeps appearing at different second-floor windows ahead of the crew and withdraws each time the route turns a corner.
 >
 > - **On a failure:** Berna points him out on Day 5 with her chin and says he has stood at a window ahead of the crew since the first day. She says nothing else about him.
 > - **If a character approaches him openly:** He leaves by the back stair, and the window stays empty for the rest of the day. Pirn does not fight, and he uses the Spy's Cunning Action to run.
 
 ### Day 6: Berna Briefs
 
-At the midday break Berna eats at a corner stall with the crew and talks about the dangers of the work. Herath found a crumpled sheet in the gutter under the Margaster Street window on Day 5. Berna hands it to the party at the end of her briefing.
+At the midday break Berna eats at a corner stall with the crew and talks about the dangers of the work. Herath found a crumpled sheet in the gutter under the Tallowmere Street window on Day 5. Berna hands it to the party at the end of her briefing.
 
 > [!readaloud]
 >
@@ -209,7 +209,7 @@ At the midday break Berna eats at a corner stall with the crew and talks about t
 >
 > She wipes her hands on her apron and holds out a creased square of paper.
 >
-> > "The lad found this in the gutter under that window on Margaster Street. It isn't ours, and I don't know whose it is."
+> > "The lad found this in the gutter under that window on Tallowmere Street. It isn't ours, and I don't know whose it is."
 
 > [!qna]**What do you want from us on the route?**
 >

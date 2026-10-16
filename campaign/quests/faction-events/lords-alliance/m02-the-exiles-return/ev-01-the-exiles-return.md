@@ -320,7 +320,7 @@ When the fight has ended and the warehouse has gone silent, read the following a
 
 > [!readaloud]
 >
-> Quick footsteps cross the court from the Muleskull's kitchen yard, and a young woman in a server's apron stops in the open service door. She holds an empty tray in both hands. She looks at Harko, then at you, then at Harko again.
+> Quick footsteps cross the court from the Muleskull's kitchen yard, and a young woman in a server's apron stops in the open service door with an empty tray in both hands. She looks at Harko, then at you, then at Harko again.
 >
 > > "I was only going to the back door."
 
@@ -328,7 +328,7 @@ When the fight has ended and the warehouse has gone silent, read the following a
 >
 > Lira (Neutral Good, Calishite Human, she/her) :: A Muleskull server in her early twenties who came out of the kitchen yard when the noise stopped.
 >
-> Lira is frightened and trying not to show it. She is not an agent of the Guild or the Splinter. She knew Harko as a man who drank at the Muleskull for two weeks with kenku at his table, who talked low and never made trouble inside. What she does next depends on how the next minute goes.
+> Lira is frightened and trying not to show it, and she is not an agent of the Guild or the Splinter. She knew Harko as a man who drank at the Muleskull for two weeks with kenku at his table, who talked low and never made trouble inside. What she does next depends on how the next minute goes.
 >
 > Lira is willing to discuss the following topics:
 >
@@ -340,33 +340,33 @@ When the fight has ended and the warehouse has gone silent, read the following a
 
 > [!qna]**Did you know him?**
 >
-> > "He drank here for two weeks, always with those kenku, and he never started anything inside. I didn't like him, but I didn't hate him either. Who are you people?"
+> > "He drank here for two weeks, always with those kenku, and he never started anything inside. I didn't like him, but I didn't hate him either, so who are you people?"
 
 > [!qna]**What did you hear?**
 >
-> > "Shouting, and a bang that sounded like a pistol. I thought it was a drunk with a firework. Then the noise stopped, and I came out to look."
+> > "Shouting, and a bang that sounded like a pistol, and I thought it was a drunk with a firework. Then the noise stopped, and I came out to look."
 
 > [!exploration]**How Lira Decides**
 >
 > Lira decides overnight, and what the party says in the next minute settles it. Judge the whole minute and use the first branch that applies.
 >
-> - **Threat:** A character threatens her, points a weapon at her or says what will happen if she talks. She files a full report.
-> - **Lie or hedge:** A character gives a false account, such as a drunk brawl or Watch business, or refuses to answer her. She files a report with a description.
-> - **Honest:** A character tells her plainly that Harko was a banned exile who came back and that the party acted for the city. No one in the party lies or threatens. She does not report.
+> - **Threat:** A character threatens her, points a weapon at her or says what will happen if she talks, and she files a full report.
+> - **Lie or hedge:** A character gives a false account, such as a drunk brawl or Watch business, or refuses to answer her, and she files a report with a description.
+> - **Honest:** A character tells her plainly that Harko was a banned exile who came back and that the party acted for the city, and nobody lies or threatens. She does not report.
 
 If the party was honest and Harko is dead, read the following aloud:
 
 > [!readaloud]
 >
-> Lira looks at the body for a long moment, then at the character who spoke.
+> Lira looks at the body for a long moment, then at the character who spoke, and she lowers the tray to her side.
 >
-> > "He wasn't a good person. But that's not the same as this being right. I'm going back inside, and I haven't seen anything."
+> > "He wasn't a good person, but that's not the same as this being right. I'm going back inside, and I haven't seen anything."
 
 If the party was honest and Harko is alive, read the following aloud:
 
 > [!readaloud]
 >
-> Lira looks at the bound man for a moment, then at the character who spoke.
+> Lira looks at the bound man for a moment, then at the character who spoke, and she lowers the tray to her side.
 >
 > > "He wasn't a good person, and I'd sooner not see what happens next. I'm going back inside, and I haven't seen anything."
 
@@ -380,15 +380,15 @@ If the party threatened her, read the following aloud:
 
 > [!readaloud]
 >
-> Lira's face goes white, and she steps back with the tray raised like a shield. She does not answer. She is running across the court before you finish speaking, and the kitchen door bangs behind her.
+> Lira's face goes white, and she steps back with the tray raised like a shield and does not answer. She is running across the court before you finish speaking, and the kitchen door bangs shut behind her.
 
 > [!gamemaster]**The Job Went Loud**
 >
 > The job goes loud if the Watch patrol reaches the warehouse door or Lira files a report. The costs are the same whichever happens, and they do not stack.
 >
-> - **No quiet bonus:** The first Mission Renown bonus is lost.
-> - **Jalester spends a favor:** He buries the report in the morning. Each participating member's Overlook and String-Pulling count as used for the next tenday.
-> - **If Lira was threatened:** Her report carries a full description and cannot be buried. A Watch sergeant questions each participating member for an hour within two days, nothing comes of it, and the report stays on file. Overlook and String-Pulling count as used for the next two tendays.
+> - **No quiet bonus:** The first Mission Renown bonus is lost, and the matter becomes a cost in favors for Jalester.
+> - **Jalester spends a favor:** He buries the report in the morning, and each participating member's Overlook and String-Pulling count as used for the next tenday.
+> - **If Lira was threatened:** Her report carries a full description and cannot be buried. A Watch sergeant questions each participating member for an hour within two days, and the report stays on file. Overlook and String-Pulling count as used for the next two tendays.
 
 ### Renown Opportunities
 
