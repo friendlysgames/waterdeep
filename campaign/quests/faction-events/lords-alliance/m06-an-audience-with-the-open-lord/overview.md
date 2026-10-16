@@ -1,42 +1,87 @@
-# Lords' Alliance Mission 6 — An Audience with the Open Lord
+# An Audience with the Open Lord: Overview
 
-> **[GM]**
+> [!gamemaster]**Quest Requirements**
 >
-> #### Quest Requirements
-> Requires Lords' Alliance Renown 10 and 7th level.
->
-> **Primary trigger:** Mission 5 succeeded and the ledger reached Laeral Silverhand.
->
-> **Alternate trigger:** Mission 5 failed (ledger did not reach Laeral). In this case, Jalester arrives at Trollskull Manor and tells the party that Laeral Silverhand wants to speak with them directly. She has heard about their work. She has questions only firsthand witnesses can answer. The audience scene (Act 1 onward) runs identically from that point — Laeral simply enters the meeting knowing less about the vault's location.
+> Becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not require it, and companions attend the audience with the members. Only the members take the report afterwards.
 >
 > #### Difficulty
 > *An adventure for 7th-level characters.*
 >
-> #### Milestone Overview
-> This mission awards no Milestone Points.
+> There is no combat and no stat block. Laeral Silverhand detects lies with a flat **DC 16 Charisma (Deception)** check, which the **Lords' Alliance Mechanics Reference** records.
+>
+> #### Milestone Progression
+> This faction mission awards no Milestone Points. Renown goes to the individual Lords' Alliance members who attend the audience and report to their handler.
 
-> [!warning]+ **Mission 6 Is Gated — Read Before Running**
+## Hook
+
+At 09:00 two Watch officers in dress uniform reach Trollskull Manor with a vellum summons signed by Laeral Silverhand. It invites the qualifying members and anyone they trust to Piergeiron's Palace at 17:00. If the party delivered the ledger in **Fentree's Ledger**, the summons arrives the morning after the members meet the gate. If the ledger was sold, it arrives the same morning, whether or not **LA Grand Game Escalated** is marked.
+
+## Background
+
+Laeral has held the seat of Open Lord since Neverember's ouster, and she has had to learn what the Grand Game costs the city. Jalester's reports and the party's work have given her most of the picture. She wants the rest from the people who were there, and she wants to see how they reason before she signs anything.
+
+The Splinter has sent her an offer through a go-between, a complete accounting of the Masked Lords it has confirmed. The price is a fifth of the vault's contents before the treasury sees it. She has not decided, and she discloses the offer to the party because she wants their judgment.
+
+> [!gamemaster]**What Is Actually True**
 >
-> **An Audience with the Open Lord** is not available at the start of the campaign. It activates only when Mission 5 succeeded (primary trigger) or when the Cassalanter thread has advanced sufficiently for Laeral to seek the party out directly (alternate trigger).
->
-> Do not offer this mission until one of these conditions is met. Running it too early removes its function as a political payoff: the Masked Lord's Writ is most meaningful when the party has earned it through the arc, and Laeral's three questions are most dramatic when the party has genuine intelligence to share rather than early-arc speculation.
->
-> If the party asks Jalester about meeting Laeral before Mission 5 resolves: he says she is aware of their work and may reach out when the time is right. He is not deflecting — she genuinely has not been ready to have this conversation yet.
+> - Laeral issues the Writ whatever the answers, and the Writ is never void. It names every character present, member or not, except a dismissed member.
+> - The audience chamber is 40 feet long and 24 feet wide, with an 18-foot ceiling. **Lioncrown** compares its working annex to this room.
+> - Jalester is not in the audience. What he learns, he learns when the members report to him afterwards.
+> - Nobody names Manshoon or Illuun. Laeral says "the Splinter" unless **Manshoon Named** is marked for the member addressed, and she hears of "something old and patient listening through the water" if a character tells her about Jalester.
+
+## The Summons
+
+Sergeant Ilsa Garrow and Watchman Perrin Dace bring the vellum at 09:00. Garrow knows nothing of the reason, answers a few questions and waits while the members read. The summons has no deadline, and a member who declines twice is not pressed.
+
+## The Palace
+
+The party is searched at the gate and led through a waiting room to a long audience chamber. Laeral sits alone at the head of a table for twelve. She opens in a way that shows what she already holds from **Ledger Delivered**, **LA Grand Game Escalated** or **Vajra Briefed**.
+
+## Question One: The Stone
+
+Laeral asks who holds the Stone and where it is kept. A table of the party's real states sets the true answer. A knowing falsehood needs a **DC 16 Charisma (Deception)** check, and a detected lie marks **Laeral Doubts the Party**.
+
+## Question Two: The Four Factions
+
+She asks what each rival wants. Four true lines cover Xanathar's Guild, the Splinter, the Cassalanters and the carnival fleet, and a character who states any two has answered. **Emira Identified**, **Vajra Briefed** and **Jarlaxle Unmasked** change how the lines are logged and counted.
+
+## Question Three: The Offer
+
+Laeral repeats the Splinter's offer and asks for the party's judgment. A strategic reason, backed by a check, makes her decline. A moral appeal alone does not, and she accepts if no one argues. The state of **Kolat Towers** sets what the Splinter can do at the Vault if she accepts.
+
+## The Writ
+
+Laeral signs the Masked Lord's Writ and passes it to the party. It opens the Vault district gate within four rounds and authorises one Watch action, and it names everyone who came.
+
+## The Jalester Question
+
+This scene runs only if a character present learned from Mirt that Jalester is compromised. Laeral asks what the party is not telling her, and the knowing character decides. Telling her puts Jalester on desk duty and sends Sevel Dastar to the Portal.
+
+## The Report
+
+The members report to Jalester at the well table at 20:00, or to Sevel Dastar away from the well if Laeral was told. Whatever the members say to Jalester at the well may reach what listens below.
+
+## Renown Opportunities
+
+Each participating Lords' Alliance member gains 4 base Renown for attending the audience and reporting to their handler. Companions gain none. Bonuses of +1 go to members whose party answers Question One truthfully, answers Question Two with two true lines and argues the offer down.
+
+## Aftermath
+
+**Writ Issued**, **Splinter Offer Declined** or **Splinter Offer Taken**, **Laeral Doubts the Party**, and the Jalester outcomes feed **Vault of Dragons** (unconverted). **Laeral Told of Jalester** and **Jalester Concealed** also decide who handles **Warduke** and **Lioncrown**. This is the last Lords' Alliance mission. If the party never takes the audience, the Vault uses the default in the design notes.
 
 ## Involved Characters
-- **Laeral Silverhand** (Lords' Alliance / Open Lord) — the Open Lord of Waterdeep; arrives at the audience having already thought about the meeting from the party's side; offers the Masked Lord's Writ in exchange for honest answers to three questions
-- **Jalester Silvermane** (Lords' Alliance) — field agent; may be identified as Illuun-compromised by this point (Harper Mission 6); the party faces a choice about whether to tell Laeral
-- **Two City Watch officers** (Lords' Alliance) — arrive in full dress uniform with the summons; their presence signals the formality of the request
+
+- **Laeral Silverhand** (City of Waterdeep): the Open Lord, who asks the three questions and signs the Writ.
+- **Jalester Silvermane** (Lords' Alliance): takes the members' report at the well table, and is not present at the audience.
+- **Sevel Dastar** (Lords' Alliance): takes the report and every later contact if Laeral learns about Jalester.
+- **Ilsa Garrow** (City of Waterdeep): the Castle Ward Watch sergeant who delivers the summons.
+- **Perrin Dace** (City of Waterdeep): the Watchman who stands beside her.
+- **The Splinter** (Splinter cell): sends the offer through a go-between and is never present.
 
 ## Dangers & Enemies
-No combat. The sole risk is political: if the party lies to Laeral during the audience and she detects it (DC 16 Wisdom (Insight)), the Writ is still issued but Jalester receives a private note from her that reads "Keep an eye on them." The Manshoon offer scene has downstream consequences in **Vault of Dragons** depending on whether the party argues against it successfully.
+
+No combat. The risks are political: a detected lie marks **Laeral Doubts the Party**, and an accepted offer gives the Splinter leverage at the Vault. If anyone attacks, the Watch officers at the door end the audience at once.
 
 ## Overview
 
-Two City Watch officers in full dress uniform arrived at Trollskull Manor in the morning with a formal summons on Waterdeep's official vellum. The Open Lord Laeral Silverhand requested the party's presence at Piergeiron's Palace at the close of the afternoon bell. Attendance was characterized as voluntary. The summons was signed.
-
-**Laeral** had been building toward this moment since the ledger arrived — or, in the alternate trigger, since Jalester's reports and her own intelligence had placed the party closer to the Grand Game than any officially sanctioned agent. She now knew the vault was in Waterdeep, that the Stone of Golorr had resurfaced, and that at least four factions were competing for access to it. She intended to offer the party a **Masked Lord's Writ** — a legal instrument authorizing the vault operation and giving them formal standing as city agents during **Vault of Dragons**. Without it, opening the vault was technically trespassing on a sealed Lords' estate.
-
-She would not give the writ freely. She wanted three things: the current holder of the Stone, confirmation that the gold would reach the city rather than a faction, and the party's judgment on a specific political question she was weighing. The question: the Manshoon Splinter had offered her a complete accounting of every sitting Masked Lord identity in exchange for permission to remove twenty percent of the vault's contents before it reached the treasury. She was genuinely considering it. She disclosed this to the party openly. It was a test, and she did not say so.
-
-The party that argued against the Manshoon offer successfully — with a specific, strategic argument, not a moral appeal — left the palace with a clean writ and no Splinter leverage in **Vault of Dragons**. The party that did not left the same way, with one additional complication waiting for them at the vault.
+Laeral Silverhand summons the Lords' Alliance members to Piergeiron's Palace and asks three questions about the Grand Game. She also wants the party's judgment on an offer from the Splinter.

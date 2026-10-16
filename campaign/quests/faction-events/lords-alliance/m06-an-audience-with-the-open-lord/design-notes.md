@@ -1,33 +1,31 @@
 # Design Notes: An Audience with the Open Lord
 
-## Why Mission 6 Is Gated
+## What the Source Gave
 
-***The payoff requires the arc.*** Mission 6 is the political culmination of everything the Lords' Alliance mission arc has been building toward. Laeral Silverhand does not summon adventurers to Piergeiron's Palace because she has heard they are capable — she summons them because they have spent six missions demonstrating that they are the kind of people who can be trusted with the Masked Lord's Writ.
+Appendix B and C stop at the fourth Lords' Alliance mission, so this mission has no source text beyond the Dragon Heist table row and the Vault's use of the Masked Lord's Writ. The earlier draft supplied the shape, which was kept: Laeral's three questions, the Splinter's offer of the Masked Lord accounting for a fifth of the vault, a strategic argument that makes her decline, the Writ, and a choice about Jalester. The Vault page reads all of it, so the Writ stays the mission's reason to exist.
 
-Running Mission 6 before the Cassalanter thread has developed — before Mission 5 at minimum, and ideally before **Cassalanter Villa** has been engaged — removes its function as a payoff and turns it into an early-access tool. The Writ is most meaningful when the party earned it. Laeral's three questions are most meaningful when the party has genuine intelligence to share based on direct engagement with the Grand Game, not early-quest speculation.
+## What Changed
 
-The alternate trigger (Mission 5 failed) exists to ensure Mission 6 is never permanently locked. If the ledger was lost, Laeral reaches out through a different path — Jalester's accumulated field reports and her own intelligence have placed the party in her range of awareness regardless. The audience is still valuable, even if she enters it with less corrected intelligence.
+The gate is Renown 13 and 7th level, after **Kolat Towers**, as in **The Dreamer's Reach** and **Smoke in the Tower**. A three-heist party plays the mission after the Vault. Laeral's lie rule is now a flat **DC 16 Charisma (Deception)** check, because the Archmage block has no Insight proficiency. Each question has a fixed answer table in the text, and the offer has a table by **Kolat Towers** state. The Writ is never void, because the Vault reads it at its gate. The Jalester Question fires only if a character present learned the name from Mirt, and the leak is what Jalester hears when the members report afterwards.
 
-## Laeral's Three Questions as Design Structure
+Laeral hears "something old and patient listening through the water", and nobody says Illuun. **Manshoon Named** gates her offer line even here, and the default says "the Splinter". **Laeral Told of Jalester** puts him on desk duty, and Sevel Dastar takes over every later contact.
 
-***Each question does structural work.*** The three questions are not flavor — they are mechanics.
+The audience chamber is 40 feet by 24 feet with an 18-foot ceiling and a table for twelve. **Lioncrown** compares its annex to that room.
 
-**Question 1 (Stone's location)** creates an honesty checkpoint. Laeral has DC 16 Insight and she is using it. A party that lies to the Open Lord of Waterdeep about the thing she most needs to know is a party that has decided the Alliance cannot be fully trusted. That is a legitimate choice, but it has consequences — Jalester's note after the meeting is not a slap on the wrist, it is the beginning of a different kind of Alliance relationship.
+## Departures from the Source
 
-**Question 2 (faction intentions)** tests what the party has actually learned about the Grand Game. A party that has been paying attention from **Fireball!** through **Sea Maidens Faire** can give Laeral a genuine intelligence briefing. A party that has been narrowly focused on objectives without attending to faction dynamics gives her less. Neither outcome prevents the writ. But the quality of the briefing shapes how prepared she is when she arrives at **Vault of Dragons**.
+The earlier draft let Jalester leak an audience he did not attend, called the Writ void if the gold left the city, and fused two of the Renown conditions. All three are gone. The earlier draft also named Manshoon in Laeral's speech and used "Illuun-compromised" in text a player could see.
 
-**Question 3 (Manshoon offer)** is the mission's moral and strategic test. It is the only question where the party's answer has a direct mechanical consequence in **Vault of Dragons**. Laeral discloses the offer openly because she is testing whether the party can reason about it correctly — not morally, but strategically. The DC 13 is calibrated to be achievable by a party that has been paying attention to what Manshoon actually wants from his various operations across the mission arc. A party that has processed that intelligence correctly can construct the argument. A party that has not, cannot.
+## If Not Run
 
-## The Manshoon Leverage Vault of Dragons Consequence
+If the party never takes the audience, **Writ Issued** is not marked. The Vault should use a lesser Watch letter from Laeral's office. The letter admits the party to the gate after up to an hour of questioning, grants no Watch action and cannot serve as Oath-Release. The Splinter has no leverage over the Watch, and Jalester delivers no terms. He keeps his table at the well, so the feed stays open as if **Jalester Concealed** were marked.
 
-***Why it is specific, not abstract.*** If Laeral accepts the Manshoon offer, the **Vault of Dragons** consequence is not "things are harder" — it is two concrete mechanisms: Watch cooperation delay and the Masked Lord exposure threat. These were chosen deliberately to create negotiation pressure rather than direct combat difficulty. Manshoon's strength is not violence; it is political leverage. The consequence should feel like Manshoon, not like an additional encounter.
+## Invented Names and Open Items
 
-The party that argued against the offer and succeeded has earned a cleaner path through **Vault of Dragons**. The party that did not has earned a complication that reflects exactly the kind of political manipulation Manshoon has been demonstrating across the entire campaign. Both are valid outcomes. Only one of them required the party to think like the Alliance.
-
-## Laeral's Relationship to the Party Going Forward
-
-***Vault of Dragons implications.*** An audience that went well — accurate intelligence on both questions, successful argument against the Manshoon offer — produces a Laeral who arrives at **Vault of Dragons** as an active ally. She does not fight alongside the party. But she has Watch positioning done in advance, she gives the legal intervention without hesitation when asked, and she is ready for Neverember's arrival because the party told her he was coming.
-
-An audience that went poorly — hedged on the Stone's location, no opinion on the Splinter — produces a Laeral who is present at **Vault of Dragons** as an uncertain variable: technically on the party's side, with the writ active, but not prepared and not invested in outcomes beyond the treasury receiving the gold.
-
-This distinction is designed to reward the party that treated the mission arc as an investment rather than a series of isolated tasks. The Alliance missions are not just about renown. They are about building a relationship with the most powerful institutional actor in Waterdeep. A party that did that work well has an ally at the vault. A party that did not has a neutral authority figure with a writ.
+- Sergeant Ilsa Garrow and Watchman Perrin Dace, the officers at the door.
+- Sevel Dastar has no Notable Figures page or voice profile, so he has no social block and is a human in a plain coat, as in **Redknife**.
+- Laeral's Notable Figures page says moon elf, and Waterdeep: Dragon Heist has her human. This mission follows the page and does not resolve the clash.
+- Laeral's detection rule leans on the Archmage block, which the mechanics reference did not re-verify.
+- The Vault page calls the cordon "the Vault district gate", which is not a Dragon Heist term.
+- The Blackmail Ledger in **Kolat Towers** names Mirt as a Masked Lord, and Laeral never says so aloud here.
+- **Kolat Towers**, **Vault of Dragons**, **Faction Outposts** and the Harper reader line for **Laeral Told of Jalester** are unconverted or outside this folder.
