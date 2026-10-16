@@ -44,7 +44,7 @@ Jalester sends no note for this task, because **Lords' Alliance First Meeting** 
 >
 > Jalester Silvermane (Lawful Good, Cormyrean Human, he/him) :: a lean Lords' Alliance field agent in a dark doublet, who writes down every answer and briefs members alone.
 >
-> Jalester is Friendly and a little tired, and he keeps the notebook open while he talks. He asks short questions, says "Understood." when he accepts an answer and thanks each member formally for coming. He swears rarely, and only at himself.
+> Jalester is Friendly and a little tired, and he keeps the notebook open while he talks. He asks short questions, says "Understood." when he accepts an answer and thanks each member formally for coming. He swears rarely and only at himself, so a curse from him is a sign that something has gone badly wrong.
 >
 > Jalester is happy to discuss the following topics:
 >
@@ -81,7 +81,7 @@ Jalester sends no note for this task, because **Lords' Alliance First Meeting** 
 >
 > > "Tell me by a note at the bar, and tell me why, and I will understand. If I haven't heard from you by the tenth evening, I will take the job as abandoned. Is that clear?"
 
-A member who refuses the task triggers **Suspension and Dismissal**, which reads the deadline above. Jalester says "Understood." and closes the notebook.
+A member who refuses the task triggers **Suspension and Dismissal**, which reads the deadline above, and Jalester says "Understood." and closes the notebook without argument.
 
 ### Six Bells at the Muleskull
 
@@ -120,7 +120,7 @@ The Muleskull Tavern stands on Ship Street in the Dock Ward and opens before daw
 
 > [!qna]**Who sets the hours?**
 >
-> > "Four supervisors set the day's timings and hand them to me. They are Delvon Harsk, Orryn Saltwick, Bremma Dunnet and Cass Fildura. I trust all four, and I'll thank you not to upset them."
+> > "Four supervisors set the day's timings and hand them to me. They are Delvon Harsk, Hadrin Wenlow, Bremma Dunnet and Cass Fildura. I trust all four, and I'll thank you not to upset them."
 
 > [!qna]**Why do you need us?**
 >
@@ -128,7 +128,7 @@ The Muleskull Tavern stands on Ship Street in the Dock Ward and opens before daw
 
 > [!social]**The Foreman by the Door**
 >
-> Berna (Lawful Neutral, Shield Dwarf, she/her) :: the crew's foreman, a stout dwarf of about sixty with a grey braid, twenty years in the Guild and seventeen on this circuit.
+> Berna (Lawful Neutral, Shield Dwarf, she/her) :: the crew's foreman, a stout dwarf of about sixty with a grey braid. She has worked twenty years for the Guild and seventeen on this circuit.
 >
 > Berna is economical and does not make small talk. She expects the escort to stay close, look capable and keep out from under the cart. She softens over the tenday as she decides the party is useful, and it shows as acknowledgment and never as warmth.
 >
@@ -150,7 +150,7 @@ The Muleskull Tavern stands on Ship Street in the Dock Ward and opens before daw
 
 ### Eight Days in the Trades Ward
 
-The crew walks the Trades Ward circuit from the Market through the cooperage lanes and out toward Coin Alley, and it finishes at the yard behind the Muleskull before dark. Days 1 and 3 pass without a scene of their own. The scenes below happen on the days given, and the party can attend all of them.
+The crew walks the Trades Ward circuit from the Market through the cooperage lanes and out toward Coin Alley. It finishes at the yard behind the Muleskull before dark. Days 1 and 3 pass without a scene of their own, and the scenes below happen on the days given, so the party can attend all of them.
 
 > [!readaloud]
 >
@@ -158,7 +158,7 @@ The crew walks the Trades Ward circuit from the Market through the cooperage lan
 
 > [!gamemaster]**Berna's Regard**
 >
-> Berna's regard is counted in Trust marks. The party can earn one on Day 2, one on Day 6 and one on Day 7 by the conditions given in each scene, and **Day Nine** reads the total when it decides whether to mark **Berna Trusts the Party**.
+> Berna's regard is counted in Trust marks, and the party can earn one on each of Days 2, 6 and 7 by the conditions given in each scene. **Day Nine** reads the total when it decides whether to mark **Berna Trusts the Party**.
 
 ### Day 2: The Watch Check
 
@@ -182,7 +182,7 @@ She means it as advice and not as a rebuke. The party earns a **Trust mark** if 
 
 > [!readaloud]
 >
-> The Market alley is narrow and wet from last night's rain. Herath, the youngest of the sweepers, stops at a doorstep and picks up a small leather purse that someone dropped in a hurry. He counts twelve gold pieces, walks the purse to the Watch post at the end of the lane without a word to anyone, and comes back to his broom. He sees you watching and shrugs.
+> The Market alley is narrow and wet from last night's rain. Herath, the youngest of the sweepers, stops at a doorstep and picks up a small leather purse that someone dropped in a hurry. He counts twelve gold pieces and walks the purse to the Watch post at the end of the lane without a word to anyone. When he comes back to his broom he sees you watching, and he shrugs.
 >
 > > "It's not mine."
 
@@ -192,7 +192,7 @@ She means it as advice and not as a rebuke. The party earns a **Trust mark** if 
 >
 > Any character who watches the windows along Tallowmere Street and makes a successful DC 13 Wisdom (Perception) check notices a lean young man in a brown jerkin. He keeps appearing at different second-floor windows ahead of the crew and withdraws each time the route turns a corner.
 >
-> - **On a failure:** Berna points him out on Day 5 with her chin and says he has stood at a window ahead of the crew since the first day. She says nothing else about him.
+> - **On a failure:** Berna points him out on Day 5. She says he has stood at a window ahead of the crew since the first day, but she offers no guess about him.
 > - **If a character approaches him openly:** He leaves by the back stair, and the window stays empty for the rest of the day. Pirn does not fight, and he uses the Spy's Cunning Action to run.
 
 ### Day 6: Berna Briefs
@@ -201,7 +201,7 @@ At the midday break Berna eats at a corner stall with the crew and talks about t
 
 > [!readaloud]
 >
-> The crew stops for midday at a corner stall that sells hot pies and weak ale, and the sweepers sit on upturned buckets with their brooms against the wall. Berna eats standing and watches the street. She does not look at you when she begins to speak, and she does not ask for reassurance.
+> The crew stops for midday at a corner stall that sells hot pies and weak ale, and the sweepers sit on upturned buckets with their brooms against the wall. Berna eats standing and watches the street, and she does not look at you or ask for reassurance when she begins to speak.
 >
 > > "We go into alleys nobody else goes into, and we move slow. We carry brooms and rakes, not weapons. If something happens to us, the Watch isn't quick about coming."
 
@@ -237,7 +237,7 @@ Delvon Harsk is the leak, and three independent leads name him. Any one is enoug
 
 > [!exploration]**Lead One: Following Pirn**
 >
-> Pirn leaves his window at the end of each shift and walks to the lane behind the cart yard. Any character who follows him from the window and makes a successful DC 13 Dexterity (Stealth) check sees him wait in a doorway. Delvon Harsk comes out of the yard office, looks up the lane and walks away, and Pirn crosses to the back wall, works a loose brick free and takes out a folded sheet.
+> Pirn leaves his window at the end of each shift and walks to the lane behind the cart yard. Any character who follows him from the window and makes a successful DC 13 Dexterity (Stealth) check sees him wait in a doorway. Delvon Harsk comes out of the yard office, looks up the lane and walks away. Pirn then crosses to the back wall, works a loose brick free and takes out a folded sheet.
 >
 > - **On a failure:** Pirn notices the tail and loses it in the Market crowd. He is back at the same window the next morning, and the character can try again on any later evening.
 > - **If a character closes with him in the lane:** A successful DC 13 Strength (Athletics) check holds him. Pirn does not fight, gives up Delvon's name at once and asks to be handed to the Watch and not to the Guild. He knows nothing of his handler, and on a failure he reaches the roofs and is gone.
@@ -264,7 +264,7 @@ Delvon checks the sweepers in at the yard at the end of every shift, so the part
 
 > [!social]**The Supervisor in the Yard**
 >
-> Delvon Harsk (Neutral, Waterdhavian Human, he/him) :: a heavyset route supervisor in a grey coat who sells the crew's hours to pay a debt and has waited for someone to catch him.
+> Delvon Harsk (Neutral, Waterdhavian Human, he/him) :: a heavyset route supervisor in a grey coat. He sells the crew's hours to pay a debt and has waited for someone to catch him.
 >
 > Delvon is Friendly out of habit and ashamed. He knows he is caught the moment the party presses him, and he explains himself where most guilty men would lie. He will go wherever the party tells him.
 >
@@ -276,7 +276,7 @@ Delvon checks the sweepers in at the yard at the end of every shift, so the part
 >
 > He knows Pirn only by that name, and he does not know whom Pirn works for.
 >
-> Any character who asks him whether he has shared the timings outside the Guild and makes a successful DC 14 Wisdom (Insight) check sees that he cannot meet their eyes. His answer runs too long for an honest denial, and the character knows he is hiding a payment. On a failure the character hears only a supervisor who is nervous about the Alliance.
+> Any character who asks him about the timings and makes a successful DC 14 Wisdom (Insight) check sees that he cannot meet their eyes. His answer runs too long for an honest denial, so the character knows he is hiding a payment. On a failure the character hears only a supervisor who is nervous about the Alliance.
 
 > [!qna]**Have you passed the timings to someone?**
 >
@@ -308,7 +308,7 @@ The Event ends on the evening of the eighth day, whatever the party has learned.
 
 > [!gamemaster]**Next Steps**
 >
-> Continue with **Day Nine**. Only Lords' Alliance members attend Jalester's debrief, and **The Long Watch** awards no Milestone Points.
+> Continue with **Day Nine**, where only Lords' Alliance members attend Jalester's debrief. **The Long Watch** awards no Milestone Points.
 
 ## Overview
 

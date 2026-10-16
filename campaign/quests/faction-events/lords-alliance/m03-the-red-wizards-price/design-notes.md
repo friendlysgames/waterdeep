@@ -2,11 +2,11 @@
 
 ## What the Source Gave
 
-Appendix C's third Lords' Alliance mission and the matching Dragon Heist row supplied the skeleton. A Red Wizard of Thay named Esloon Bezant is being courted by the Splinter, and Jalester wants the deal scuttled fast and without a trace. The source offers three ways to do it: a forged letter at DC 16 and 25 gp, a warning at DC 15, and a bribe of at least 500 gp. It also supplies Esloon's question, "Is there another offer? Not from you personally. From whoever decides these things," and Jalester's reply about formalizing something. The source's spellbook reward survives as Esloon's surrender line.
+Appendix C's third Lords' Alliance mission and the matching Dragon Heist row supplied the skeleton. A Red Wizard of Thay named Esloon Bezant is being courted by the Splinter, and Jalester wants the deal scuttled fast and without a trace. The source offers three ways to do it, which are a forged letter at DC 16 and 25 gp, a warning at DC 15, and a bribe of at least 500 gp. It also supplies Esloon's question, "Is there another offer? Not from you personally. From whoever decides these things," and Jalester's reply about formalizing something. The source's spellbook reward survives as Esloon's surrender line.
 
 ## What Changed
 
-The meeting is now the Skewered Dragon, which **Finding Floon** makes a Splinter house, and the landlord helps nobody. The Rusted Anchor in the source is already used by the first Order of the Gauntlet mission. The deadline is the handshake tonight, and Jalester gives it in his brief. The search for the room is three independent leads that each give the room and the hour: the pot-boy, the side door and Esloon's supper order. The source's three paths became the ways to turn Esloon. The Watch route and the broker route were kept from the restored draft, and each now has its own check or condition.
+The meeting is now the Skewered Dragon, which **Finding Floon** makes a Splinter house, and the landlord helps nobody. The Rusted Anchor in the source is already used by the first Order of the Gauntlet mission. The deadline is the handshake tonight, and Jalester gives it in his brief. The search for the room is three independent leads that each give the room and the hour, and they are the pot-boy, the side door and Esloon's supper order. The source's three paths became the ways to turn Esloon. The Watch route and the broker route were kept from the restored draft, and each now has its own check or condition.
 
 Esloon uses the full 2024 **Mage** and fights alone at every size, with safeguards on the first round and a hard withdrawal by *Misty Step* and *Invisibility*. His crew is five **Tough** fighters, which is the Dragon Heist count, and it is an optional second wave. Jalester briefs in person at Trollskull Manor and does not sit, which is the deliberate break from the well table for this mission. The debrief returns to the well.
 
@@ -16,7 +16,13 @@ Esloon is Neutral, as his Notable Figures page has him, and not Lawful Evil. He 
 
 ## Invented Names and Open Items
 
-Invented: Sarvos Miln (kept from the restored draft), Rovan Skell, Dunmar Teague, Cutter, Tam Ferrow, Yarra Moss, Sergeant Deneth Pike, Dock Lane, the Fillet Lane checkpoint, the cookshop on Net Street, and the "Holvar" booking. Sarvos, Rovan and Teague are voiced from the event text, and Sarvos is given Neutral alignment from the Spy block.
+The following are new and have no Notable Figures pages. Sarvos, Rovan and Crale are voiced from the event text, and Sarvos takes Neutral alignment from the Spy block.
+
+- Sarvos Miln, kept from the restored draft.
+- Rovan Skell, Dunmar Crale and Cutter.
+- Tam Ferrow and Yarra Moss.
+- Sergeant Deneth Pike.
+- Dock Lane, the Fillet Lane checkpoint, the cookshop on Net Street and the "Holvar" booking.
 
 Items for the out-of-scope log:
 

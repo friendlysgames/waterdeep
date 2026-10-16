@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Investigation and Combat Event begins when a Watch runner brings Jalester's card to Trollskull Manor and ends when the members report to him at the Yawning Portal. In this Event, the party can:
+> This Investigation and Combat Event begins when a Watch runner brings Jalester's card to Trollskull Manor. It ends when the members report to him at the Yawning Portal. In this Event, the party can:
 >
 > - Hear Jalester's order in a sealed room in the Castle Ward and accept a deadline of three nights.
 > - Follow three independent leads to a rope warehouse in the court behind the Muleskull, where any one lead is enough.
@@ -14,17 +14,17 @@
 
 > [!gamemaster]**Who Knows What**
 >
-> - Harko Swornhold is fifty and was exiled three years ago for trying to bribe Magister Kylynne Silmerhelve, and he came back to Waterdeep about two months ago.
-> - Xanathar's Guild pays Harko to recruit kenku for its street crews. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing, and the Guild does not know about Veralax.
+> - Harko Swornhold is fifty and was exiled three years ago for trying to bribe Magister Kylynne Silmerhelve. He came back to Waterdeep about two months ago.
+> - Xanathar's Guild pays Harko to recruit kenku for its street crews. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing. The Guild does not know about Veralax.
 > - Jalester learned about the Guild work from a Watch informant. He does not know about Veralax, the Splinter's coin or the cipher note in Harko's coat.
-> - Jalester sends no Watch Escort and spends no String-Pulling on this job, because two Guards at the warehouse would be witnesses and a favor cannot erase a body.
+> - Jalester sends no Watch Escort and spends no String-Pulling on this job. Two Guards at the warehouse would be witnesses, and a favor cannot erase a body.
 > - The Muleskull's kitchen yard opens onto Mudwagon Court, and the rope warehouse stands on the other side of the court. Lira, an evening server, walks into the court when the noise stops.
 > - The cipher note names "K" and an eastern staircase on Elsambul's Lane. K is Keln Trigos of the Terasse Estate, and nobody in this Event can know that yet.
-> - Nobody in this Event names Manshoon, because Jalester says "the Splinter" and Harko says "the Zhentarim, the bad kind".
+> - Nobody in this Event names Manshoon. Jalester says "the Splinter", and Harko says "the Zhentarim, the bad kind".
 
 ### The Brief
 
-A Watch runner reaches Trollskull Manor at 09:00 on the morning after the member reaches Renown 3 and 3rd level. If the member has not yet held the **Redknife** meeting with Jalester, the card waits until the morning after it. The runner gives each Lords' Alliance member a card sealed with grey Watch wax and leaves without waiting for an answer. Jalester gives this order away from the well table, because he will not say it in a crowded taproom, and companions stay at the Manor because the card names the members only.
+A Watch runner reaches Trollskull Manor at 09:00 on the morning after the member reaches Renown 3 and 3rd level. If the member has not yet held the **Redknife** meeting with Jalester, the card waits until the morning after it. The runner gives each Lords' Alliance member a card sealed with grey Watch wax and leaves without waiting for an answer. Jalester gives this order away from the well table, because he will not say it in a crowded taproom. Companions stay at the Manor, because the card names the members only.
 
 > [!readaloud]
 >
@@ -36,7 +36,7 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!readaloud]
 >
-> The upper room has nailed shutters, a bare table and one lamp, and the smell of old leather hangs in the air. Jalester Silvermane stands beside the table in his dark doublet with a closed notebook under one hand, and he waits until the door is shut before he speaks in a low, level voice.
+> The upper room has nailed shutters, a bare table and one lamp, and the smell of old leather hangs in the air. Jalester Silvermane stands beside the table in his dark doublet with a closed notebook under one hand. He waits until the door is shut before he speaks in a low, level voice.
 >
 > > "Thank you for coming. Harko Swornhold is an adventurer who was exiled from Waterdeep three years ago for trying to bribe a magistrate. He has come back, and Xanathar's Guild is paying him to recruit kenku for its street crews."
 >
@@ -87,15 +87,15 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 
 > [!gamemaster]**The Deadline**
 >
-> The deadline is dawn after the third night, and the night of the brief is not counted. A member who refuses the job at the brief, or who does nothing as that dawn passes, is a case for **Suspension and Dismissal**. A party that works honestly and cannot find Harko in time costs nothing, and Jalester says so in the debrief. A member who spares Harko has not refused the order, because Jalester asked to hear any such decision.
+> The deadline is dawn after the third night, and the night of the brief is not counted. A member who refuses the job at the brief, or who does nothing as that dawn passes, is a case for **Suspension and Dismissal**. A party that works honestly and cannot find Harko in time costs nothing, and Jalester says so in the debrief. A member who spares Harko has not refused the order. Jalester asked to hear any such decision.
 
 ### Three Ways to the Court
 
-Three leads each name the rope warehouse in Mudwagon Court, and any one of them is enough, so the party can split up and work all three on the first day. A failed check closes that lead until the next evening, when the contact tells the same story for a small payment and needs no roll. A party that follows two or more leads also learns where both kenku sit and has Advantage on the check in **The Sentries**.
+Three leads each name the rope warehouse in Mudwagon Court, and any one of them is enough. The party can split up and work all three on the first day. A failed check closes that lead until the next evening, when the contact tells the same story for a small payment and needs no roll. A party that follows two or more leads also learns where both kenku sit. That party has Advantage on the check in **The Sentries**.
 
 > [!readaloud]
 >
-> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock while she picks up a brass buckle and turns it in the light.
+> Net Street is crowded with barrows and rope-sellers, and a heavy woman in a patched shawl sells buckles and boot-nails from a cart at the corner. She watches you look over her stock. Then she picks up a brass buckle and turns it in the light.
 >
 > > "That's two gold, and I'll take less if you've something to ask. You'll be wanting the kenku, I expect, since a lot of people have been wanting the kenku lately."
 
@@ -115,13 +115,13 @@ When a character learns it, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The Muleskull is half empty at midday, with a barkeep stacking mugs and a fire smoking in the grate. An old man in a salt-stained coat sits at the window with a mug cupped in both hands, and he looks you over as you come to his table.
+> The Muleskull is half empty at midday, with a barkeep stacking mugs and a fire smoking in the grate. An old man in a salt-stained coat sits at the window with a mug cupped in both hands. He looks you over as you come to his table.
 >
 > > "If you're buying, I'm Halvard Teague, and if you're asking, you'd best buy first."
 
 > [!exploration]**The Pilot at the Window**
 >
-> Halvard Teague piloted ships into the harbor for thirty years and now spends his days at the Muleskull's window seat. Any character who buys him a drink and makes a successful DC 12 Wisdom (Insight) check sees that he is frightened and not confused, and that he will talk once he is sure the character is not Guild.
+> Halvard Teague piloted ships into the harbor for thirty years and now spends his days at the Muleskull's window seat. Any character who buys him a drink and makes a successful DC 12 Wisdom (Insight) check sees that he is frightened and not confused. He will talk once he is sure the character is not Guild.
 >
 > - **On a failure:** Halvard talks about ships until his mug is empty. A character who returns the next evening with 2 gp hears his story with no check.
 
@@ -141,15 +141,15 @@ When a character wins his trust, read or paraphrase the following:
 
 > [!exploration]**The Night Round**
 >
-> Ibb Marsh knows every court and gate on his round, and he answers anyone who walks it with him. This lead needs no check and costs the party a whole night, which is one of its three. A character who walks the round sees black feathers and rope-dust at the gate to Mudwagon Court, and a broad man in a scarred leather coat slips in from the row at two bells. Ibb says he has seen the same man at the same hour for a tenday.
+> Ibb Marsh knows every court and gate on his round, and he answers anyone who walks it with him. This lead needs no check and costs the party a whole night, which is one of its three. A character who walks the round sees black feathers and rope-dust at the gate to Mudwagon Court. A broad man in a scarred leather coat slips in from the row at two bells, and Ibb says he has seen the same man at the same hour for a tenday.
 >
-> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and learns Harko's face, which matters in **The Rope Warehouse**.
+> - **A character who watches the court from the round:** The character sees the kenku at the warehouse doors and learns Harko's face. That matters in **The Rope Warehouse**.
 
 When the party finds the court, read the following aloud:
 
 > [!readaloud]
 >
-> Mudwagon Row ends at a cobbled court behind the Muleskull's kitchen yard, and a low wall closes the south side. The rope warehouse fills the north side, with a barred street door on the row and a smaller service door facing the court. A small shape perches on a crate beside each door, and the nearest one turns its beaked head toward the sound of your boots.
+> Mudwagon Row ends at a cobbled court behind the Muleskull's kitchen yard, and a low wall closes the south side. The rope warehouse fills the north side, with a barred street door on the row and a smaller service door facing the court. A small shape perches on a crate beside each door. The nearest one turns its beaked head toward the sound of your boots.
 
 ### The Rope Warehouse
 
@@ -158,8 +158,8 @@ When the party finds the court, read the following aloud:
 > The warehouse is one long room with a loft, and coils of rope and crates fill the floor. Harko's table and bedroll sit among the crates in the middle, and the Bandits sleep near the street door.
 >
 > - **The street door:** It is barred from inside on Mudwagon Row. A DC 15 Strength (Athletics) check forces it, or a DC 13 Dexterity check with thieves' tools opens the side hatch.
-> - **The service door:** It faces the court and is unlocked, but it squeaks. A DC 12 Dexterity (Stealth) check opens it without a sound, and on a failure Harko hears it and the fight starts.
-> - **The kenku:** One kenku perches by each door and watches the court, and both run for the court gate and the street the moment trouble starts.
+> - **The service door:** It faces the court and is unlocked, but it squeaks. A DC 12 Dexterity (Stealth) check opens it without a sound. On a failure Harko hears it and the fight starts.
+> - **The kenku:** One kenku perches by each door and watches the court. Both run for the court gate and the street the moment trouble starts.
 
 > [!exploration]**The Sentries**
 >
@@ -178,7 +178,7 @@ If Harko agrees to a hearing, read the following aloud:
 
 > [!readaloud]
 >
-> The bar behind the street door scrapes back, and Harko Swornhold steps out of the dark with his Pistol held low by the barrel. He is broad in the shoulder and gray at the temples, with a scarred leather coat and a face that does not look surprised.
+> The bar behind the street door scrapes back, and Harko Swornhold steps out of the dark with his Pistol held low by the barrel. He is broad in the shoulder and gray at the temples. His scarred leather coat is buttoned to the chin, and his face does not look surprised.
 >
 > > "Alliance. Jalester's still sending children, I see. Go on, then, and say what you came to say, and I'll decide if it's worth a bullet."
 
@@ -392,7 +392,7 @@ If the party threatened her, read the following aloud:
 
 ### Renown Opportunities
 
-Jalester takes the report at the corner table beside the Yawning Portal's well on the evening after the warehouse, or the evening after that if the party is late. Only members sit at the table, and companions wait at the bar.
+Jalester takes the report at the corner table beside the Yawning Portal's well on the evening after the warehouse, or the evening after that if the party is late, and only members sit at the table while companions wait at the bar.
 
 > [!gamemaster]**Beside the Well**
 >
@@ -400,25 +400,25 @@ Jalester takes the report at the corner table beside the Yawning Portal's well o
 
 > [!readaloud]
 >
-> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester sits there with his notebook open and an untouched tankard at his elbow. He shuts the book as you come over and waits until you are all seated.
+> The taproom of the Yawning Portal is loud tonight, and Durnan jerks his chin toward the corner table beside the well. Jalester sits there with his notebook open and an untouched tankard at his elbow, and he shuts the book as you come over and waits until you are all seated.
 >
-> > "Report, please. I would like it in the order it happened."
+> > "Report, please, and I would like it in the order it happened."
 
 Read the branch that matches what the party did with Harko. If the party killed him, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester listens to the end and writes a single line.
+> Jalester listens to the end without interrupting and writes a single line in the notebook.
 >
-> > "Understood. Thank you for doing what I asked. I won't pretend I enjoyed asking it."
+> > "Understood, and thank you for doing what I asked. I won't pretend that I enjoyed asking it."
 
 If the party handed him over, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester stops writing and looks at the page for a moment.
+> Jalester stops writing and looks at the page for a moment before he raises his eyes to you.
 >
-> > "I asked for a sword and you brought me a witness. I would rather have the witness. Thank you."
+> > "I asked for a sword and you brought me a witness, and I would rather have the witness. Thank you."
 
 If the party let him go, read the following aloud:
 
@@ -432,61 +432,61 @@ If a member gives Jalester the cipher note, mark **Terasse Cipher Taken** and re
 
 > [!readaloud]
 >
-> Jalester holds the card to the lamp, reads it twice and copies the last line into the notebook.
+> Jalester holds the card to the lamp, reads it twice and copies the last line into the notebook with a steady hand.
 >
-> > "Elsambul's Lane is in the Castle Ward, and the Watch has no record of that stair. Thank you. I will have it looked at."
+> > "Elsambul's Lane is in the Castle Ward, and the Watch has no record of that stair. Thank you, and I will have it looked at."
 
 If a member names Veralax and the Tarred Rope, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester writes down the alehouse, the booth and the hour, and asks what the man wears.
+> Jalester writes down the alehouse, the booth and the hour, and he asks what the man wears and which hand he keeps on the table.
 >
-> > "A gem merchant who drinks nothing. Understood. I will have the booth watched, but I will not send anyone in."
+> > "A gem merchant who drinks nothing. Understood, and I will have the booth watched, but I will not send anyone in."
 
-If Harko was alive and a member reports what he said about the thin man at the Skewered Dragon, mark **Thayan File Obtained**. If Harko was handed over, the Watch's questioners get the same account, and the file is marked all the same. Read the following aloud:
+If Harko was alive and a member reports what he said about the thin man at the Skewered Dragon, mark **Thayan File Obtained**. If Harko was handed over, the Watch's questioners get the same account and the file is marked all the same. Read the following aloud:
 
 > [!readaloud]
 >
-> Jalester takes a folded sheet from inside his doublet and slides it across the table. It holds a sketch of a thin man with ink-stained fingers.
+> Jalester takes a folded sheet from inside his doublet and slides it across the table, and you see a sketch of a thin man with ink-stained fingers.
 >
-> > "The Splinter's broker pays in coin at the back of the Skewered Dragon, and he asked about Thayans. Please keep this face in mind. I may have a use for it soon."
+> > "The Splinter's broker pays in coin at the back of the Skewered Dragon, and he asked about Thayans. Please keep this face in mind, since I may have a use for it soon."
 
 If the job went loud because Lira reported, read the branch that matches. If the party lied or hedged, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester's pencil stops. He looks at each of you in turn, and his voice is very level.
+> Jalester's pencil stops, and he looks at each of you in turn before he speaks in a very level voice.
 >
-> > "A report was filed this morning at the Dock Ward post, with your descriptions. I said quietly. I buried it, and it cost me favors I would rather have kept."
+> > "A report was filed this morning at the Dock Ward post, with your descriptions. I said quietly. I buried it, but it cost me favors I would rather have kept."
 
 If the party threatened Lira, read the following aloud instead:
 
 > [!readaloud]
 >
-> Jalester sets his pencil down and does not look at the notebook.
+> Jalester sets his pencil down and does not look at the notebook, and the tankard at his elbow stays untouched.
 >
-> > "A server on Ship Street gave the Watch a description of each of you this morning, and she was frightened when she gave it. I could not bury it. A sergeant will want an hour with each of you."
+> > "A server on Ship Street gave the Watch a description of each of you this morning, and she was frightened when she gave it. I could not bury it, and a sergeant will want an hour with each of you."
 
 If the Watch patrol reached the warehouse, Jalester adds one line:
 
 > [!readaloud]
 >
-> > "The Guards at the door wrote down a disturbance. That is on me for sending you without help, and it is also on whoever whistled."
+> > "The Guards at the door wrote down a disturbance, and that is on me for sending you without help as well as on whoever whistled."
 
 When the report is finished, read the following aloud:
 
 > [!readaloud]
 >
-> Jalester caps his pencil and stands, and the patrons nearest the well make room for him.
+> Jalester caps his pencil and stands, and the patrons nearest the well make room for him as he tucks the notebook inside his doublet.
 >
 > > "One more detail, if you don't mind. Did Harko say my name?"
 
-If a member answers, Jalester writes down the answer and says "Understood." He asks nothing more tonight.
+If a member answers, Jalester writes down the answer and says "Understood.", and he asks nothing more tonight.
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Lords' Alliance member gains 2 base Renown for finding Harko and reporting to Jalester, whether Harko lived or died. Companions gain none, and each bonus can be earned only once. Each eligible member also gains the following bonuses when the party meets their conditions:
+> Each participating Lords' Alliance member gains 2 base Renown for finding Harko and reporting to Jalester, whether Harko lived or died. Companions gain none, and each bonus can be earned only once. Each eligible member also gains these bonuses when the party meets their conditions:
 >
 > - **+1 Renown:** the matter ends with no Watch patrol at the warehouse and no report from Lira.
 > - **+1 Renown:** Harko's cipher note is recovered and given to Jalester, and **Terasse Cipher Taken** is marked.
@@ -494,9 +494,9 @@ If a member answers, Jalester writes down the answer and says "Understood." He a
 
 ### Aftermath
 
-Harko is dead, in a cell, or on the Trade Way, and the Guild has lost its kenku recruiter in the Dock Ward. The kenku scatter into the Guild's street crews within the tenday, and their whistles are heard in the lanes for a while.
+Harko is dead, in a cell or on the Trade Way, and the Guild has lost its kenku recruiter in the Dock Ward. The kenku scatter into the Guild's street crews within the tenday, and their whistles are heard in the lanes for a while.
 
-Veralax stops using the middle booth at the Tarred Rope after Harko stops coming. If Jalester had the booth watched, he does not return, and the Splinter's cutout to the Guild's crews is closed. No later event reads this.
+Veralax stops using the middle booth at the Tarred Rope after Harko stops coming. If Jalester had the booth watched, Veralax never returns, and the Splinter's cutout to the Guild's crews is closed. No later event reads this.
 
 Lira goes back to her shifts at the Muleskull. If the party was honest with her, she serves the members a free drink the next time they are there and says nothing about it.
 
@@ -508,9 +508,9 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether the sergeant took him or the Guards did; read by **The Red Wizard's Price**, where the Watch's questioners hold his statement, and by **Faction Outposts** (unconverted), where the Guild's Dock Ward crews have lost their kenku recruiter.
-> - **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not; read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane.
-> - **Thayan File Obtained** — mark when Harko, alive, tells the party or the Watch about the thin man who pays at the back of the Skewered Dragon, and the account reaches Jalester; read by **The Red Wizard's Price**, where a known face at the Skewered Dragon lowers the DC of one approach by 2.
+> - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether a sergeant or the Guards took him. Read by **The Red Wizard's Price**, where the Watch's questioners hold his statement. Also read by **Faction Outposts** (unconverted), where the Guild's Dock Ward crews have lost their kenku recruiter.
+> - **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not. Read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane.
+> - **Thayan File Obtained** — mark when Harko, alive, tells the party or the Watch about the thin man at the back of the Skewered Dragon, and the account reaches Jalester. Read by **The Red Wizard's Price**, where a known face at the Skewered Dragon lowers the DC of one approach by 2.
 
 > [!gamemaster]**Next Steps**
 >
@@ -518,7 +518,7 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 
 ## Overview
 
-The party hunts an exiled adventurer through the Dock Ward to a rope warehouse. They decide what to do when he surrenders, and what to say to the server who walks in on them.
+The party hunts an exiled adventurer through the Dock Ward to a rope warehouse, then decides what to do when he surrenders and what to say to the server who walks in on them.
 
 ## Summary
 

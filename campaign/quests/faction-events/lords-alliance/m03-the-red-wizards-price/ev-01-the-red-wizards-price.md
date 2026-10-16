@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social and Combat Event begins when Jalester Silvermane arrives at Trollskull Manor at noon. It ends when the members report to him at the Yawning Portal on the evening after the meeting. In this Event, the party can:
+> This Social and Combat Event begins when Jalester Silvermane arrives at Trollskull Manor at noon. It ends when the members report to him at the Yawning Portal on the evening after the meeting, and in it the party can:
 >
 > - Take Jalester's brief in the taproom and learn that the Splinter is buying a Thayan wizard's crew tonight at the Skewered Dragon.
 > - Find the room and the hour through three independent leads, in a tavern that belongs to the Splinter.
@@ -14,13 +14,13 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Esloon Bezant has lived in the Dock Ward for five years, selling escorts and protection with a crew of five **Tough** fighters. He is weighing the Splinter's offer because it is the only serious one he has received, and he never says why he left Thay.
+> - Esloon Bezant has lived in the Dock Ward for five years, selling escorts and protection with a crew of five **Tough** fighters. He is weighing the Splinter's offer because it is the only serious one he has received. He never says why he left Thay.
 > - Sarvos Miln is the Splinter's broker. He offers Esloon 1,000 gp and a standing arrangement, and the Splinter means to spend the crew on one job and then drop it.
 > - The crew is wanted for a strike on the Watch checkpoint on Fillet Lane three nights from now. The strike opens a window for a Splinter package bound for Baldur's Gate.
 > - Jalester heard of the meeting from a Dock Ward informant. He knows the tavern, the night and the name Holvar, and he does not know the room, the hour or the checkpoint.
 > - The Skewered Dragon belongs to the Splinter, as the party may remember from **Finding Floon**. Its landlord, Rovan Skell, helps nobody, and any question about the Holvar booking in the taproom reaches Sarvos before he arrives.
 > - Jalester sends no Guards, asks for no string-pulling and wants the Alliance's name kept out of every Watch report. Nothing in this Event depends on a rank benefit.
-> - Nobody in this Event names the Splinter's master. Jalester, Sarvos and Esloon say "the Splinter", "the other cell" or "my principal", and Jalester holds that line even for a member who has **Manshoon Named** marked.
+> - Nobody in this Event names the Splinter's master. Jalester, Sarvos and Esloon say "the Splinter", "the other cell" or "my principal". Jalester holds that line even for a member who has **Manshoon Named** marked.
 
 ### The Brief
 
@@ -83,9 +83,9 @@ If **Thayan File Obtained** is marked, Jalester hands the members a sealed folde
 
 > [!gamemaster]**The Thayan File**
 >
-> The folder holds the sealed Watch file on Esloon from **The Exile's Return**: his arrival in Waterdeep, his associates and the Thayan embassy's old interest in him. It does two things in this Event. It is the proof that makes **Hand Esloon to the Watch** possible, and it lowers the DC of one check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
+> The folder holds the sealed Watch file on Esloon from **The Exile's Return**: his arrival in Waterdeep, his associates and the Thayan embassy's old interest in him. It makes **Hand Esloon to the Watch** possible, and it lowers the DC of one check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
 
-When the members agree, Jalester writes the hour in his notebook, says "Understood." and leaves for the alley. The afternoon belongs to the party. A member who refuses the brief, or abandons it past the handshake without trying anything, is what **Suspension and Dismissal** reads. A member who tries and fails has done what the brief asked.
+When the members agree, Jalester writes the hour in his notebook, says "Understood." and leaves for the alley, and the afternoon belongs to the party. A member who refuses the brief, or abandons it past the handshake without trying anything, is what **Suspension and Dismissal** reads. A member who tries and fails has done what the brief asked.
 
 ### Finding the Meet
 
@@ -98,26 +98,26 @@ Jalester has the tavern and the name Holvar and nothing else. The meeting starts
 > - **The taproom:** A long low room with the bar on the left, a dozen tables and the only stair to the rooms above. The street door opens onto Dock Street.
 > - **The Holvar room:** A private dining room at the back of the ground floor, reached by a narrow passage past the kitchen. It holds a table for four and a shuttered window, and a second door onto Dock Lane stays bolted from the inside.
 > - **The kitchen yard:** The kitchen's back door opens onto Dock Lane, where the pot-boy empties slops. A cooper's yard faces the shuttered window.
-> - **Who is there at seven bells:** Esloon's five **Tough** fighters sit openly at separate tables, and their leader, Dunmar Teague, takes the stool at the mouth of the passage. A **Bandit** called Cutter nurses a drink beside the street door and watches anyone who asks about the Holvar booking. Rovan Skell tends the bar, and a dozen Splinter regulars fill the rest and stay out of any fight.
+> - **Who is there at seven bells:** Esloon's five **Tough** fighters sit openly at separate tables. Their leader, Dunmar Crale, takes the stool at the mouth of the passage. A **Bandit** called Cutter nurses a drink beside the street door and watches anyone who asks about the Holvar booking. Rovan Skell tends the bar. A dozen Splinter regulars fill the rest and stay out of any fight.
 
 > [!exploration]**The Pot-Boy on Dock Lane**
 >
-> Tam Ferrow, a boy of about eleven, empties slops at the kitchen door through the afternoon, and he sells what he has seen for 5 sp. A character who pays him, or who carries buckets with him and makes a successful **DC 12 Charisma (Persuasion)** check, hears three things. The back room is laid for two at seven bells, Rovan told the cook to keep the passage clear, and a lean man with a signet ring walked the passage at midday and tried the Dock Lane bolt.
+> Tam Ferrow, a boy of about eleven, empties slops at the kitchen door through the afternoon, and he sells what he has seen for 5 sp. A character who pays him, or who carries buckets with him and makes a successful **DC 12 Charisma (Persuasion)** check, hears three things. The back room is laid for two at seven bells, and Rovan told the cook to keep the passage clear. A lean man with a signet ring also walked the passage at midday and tried the Dock Lane bolt.
 >
-> - **On a failure:** Tam shrugs and goes inside. The same character can pay the 5 sp instead and gets the same answer.
+> - **On a failure:** Tam shrugs and goes inside, and the same character can pay the 5 sp instead and gets the same answer.
 
 > [!exploration]**The Side Door**
 >
-> Any character who walks Dock Lane, studies the tavern's side wall and makes a successful **DC 13 Intelligence (Investigation)** check sees a bolted door with fresh grease on the bolt. Above it a shuttered window shows lamplight at the edges, and through the gap a card is pinned inside the shutter with HOLVAR and a seven on it. The window belongs to the back room, and the door is its way out.
+> Any character who walks Dock Lane, studies the tavern's side wall and makes a successful **DC 13 Intelligence (Investigation)** check sees a bolted door with fresh grease on the bolt. Above it a shuttered window shows lamplight at the edges. Through the gap a card is pinned inside the shutter with HOLVAR and a seven on it. The window belongs to the back room, and the door is its way out.
 >
 > - **On a failure:** The cooper in the neighboring yard watches the character sweep the same stretch of wall twice. Nothing else happens, and the other two leads stay open.
 
 > [!exploration]**Esloon's Supper**
 >
-> Yarra Moss runs a cookshop on Net Street where Esloon eats every evening at six. Any character who buys a meal, asks about the Thayan and makes a successful **DC 12 Charisma (Persuasion)** check hears that he cancelled tonight's supper. He ordered two covered plates sent to the Skewered Dragon's back room at ten past seven, to be carried down the kitchen passage by her girl. She adds that he sits with his back to the wall, tips well and touches the marks on his scalp when anyone says "Thay".
+> Yarra Moss runs a cookshop on Net Street where Esloon eats every evening at six. Any character who buys a meal, asks about the Thayan and makes a successful **DC 12 Charisma (Persuasion)** check learns that he cancelled tonight's supper. Instead he ordered two covered plates sent to the Skewered Dragon's back room at ten past seven, to be carried down the kitchen passage by her girl. She adds that he sits with his back to the wall and tips well. She also says he touches the marks on his scalp when anyone says "Thay".
 >
 > - **The tray:** A character who asks for it can carry the plates in her girl's place for 1 gp.
-> - **On a failure:** Yarra says she does not discuss customers. The character can try again after buying a second meal.
+> - **On a failure:** Yarra says she does not discuss customers, and the character can try again after buying a second meal.
 
 If a character asks Rovan Skell or any regular about Holvar, read or paraphrase the following when the party enters the taproom:
 
@@ -153,8 +153,8 @@ The clock starts at ten to seven. Esloon and Sarvos shake hands at half past sev
 
 > [!gamemaster]**The Evening**
 >
-> - **Ten to seven:** Esloon arrives by the street door with his crew, nods to Dunmar Teague and goes to the back room alone. His other four fighters take separate tables.
-> - **Seven:** Sarvos arrives alone on foot from the Fillet Lane end of Dock Street and goes to the back room. Cutter nods to him.
+> - **Ten to seven:** Esloon arrives by the street door with his crew, nods to Dunmar Crale and goes to the back room alone. His other four fighters take separate tables.
+> - **Seven:** Sarvos arrives alone on foot from the Fillet Lane end of Dock Street and goes to the back room. Cutter nods to him as he passes.
 > - **Ten past seven:** Yarra's girl carries two covered plates down the passage.
 > - **Half past seven:** Esloon and Sarvos shake hands. Sarvos leaves by the Dock Lane door, and Esloon leaves by the street.
 >
@@ -215,16 +215,15 @@ Entering the back room after Sarvos has sat down forces a confrontation. If the 
 >
 > Esloon uses the **Mage** stat block from the 2024 *Monster Manual* unmodified, and he fights alone at every party size. The crew in the taproom does not join him in the back room. The **Lords' Alliance Mechanics Reference** audits the fight for three, four and five characters.
 >
-> - **Three characters:** Esloon alone. He withdraws once round 2 has ended, whatever his hit points. The fight ends with the deal broken and Esloon not beaten.
-> - **Four characters:** Esloon alone, withdrawing as described below.
-> - **Five characters:** Esloon alone, withdrawing as described below.
+> - **Three characters:** Esloon fights alone and withdraws once round 2 has ended, whatever his hit points. The fight ends with the deal broken and Esloon not beaten.
+> - **Four and five characters:** Esloon fights alone and withdraws as described below.
 >
 > #### Esloon's Tactics
 > To begin, Esloon rises, moves behind the table and reads the room. He stays in the back room and does not follow the party into the passage.
 >
 > During combat, Esloon:
 > - Splits his three Arcane Bursts across at least two targets in round 1, and casts no area spell in that round.
-> - Casts at most one area spell in the whole fight, *Fireball* or *Cone of Cold*. In round 2 he uses *Fireball* on the far side of the table if neither Sarvos nor any of his own fighters stands within 20 feet of the center.
+> - Casts at most one area spell in the whole fight, *Fireball* or *Cone of Cold*. In round 2 he uses *Fireball* on the far side of the table. He does so only if neither Sarvos nor any of his own fighters stands within 20 feet of the center.
 > - Never attacks a creature that is at 0 hit points.
 > - Keeps *Protective Magic* for his reaction, using *Shield* against a hit and *Counterspell* against a spell.
 > - Withdraws on his turn once he has taken 31 or more damage (50 hit points or fewer), or once round 3 has ended (round 2 at three characters), whichever comes first. He uses *Misty Step* toward the Dock Lane door or the window, casts *Invisibility* on himself and leaves the building. He stays invisible until he attacks or casts a spell.
@@ -235,7 +234,7 @@ Entering the back room after Sarvos has sat down forces a confrontation. If the 
 > On his first turn Sarvos uses Cunning Action to Dash, which gives him 60 feet of movement for the turn, and he runs through the Dock Lane door. If a character holds that door he surrenders instead. If he is cornered in the room and forced to fight, he uses the **Spy** stat block and surrenders at 13 hit points or fewer or when Grappled.
 >
 > #### The Crew in the Taproom
-> Dunmar Teague and four others are drinking in the taproom, and they scatter the round after Esloon leaves. A party that goes out and fights them anyway has a separate encounter, with **Tough** fighters in these numbers: two at three characters, three at four, four at five. They fight with Pack Tactics, break when Teague falls and surrender if Grappled.
+> Dunmar Crale and four others are drinking in the taproom, and they scatter the round after Esloon leaves. A party that goes out and fights them anyway has a separate encounter against **Tough** fighters. There are two at three characters, three at four and four at five. They fight with Pack Tactics, break when Crale falls and surrender if Grappled.
 
 When Esloon surrenders, read or paraphrase the following:
 
@@ -249,28 +248,28 @@ The spellbook holds the spells in the **Mage** stat block, and a wizard in the p
 
 ### Hand Esloon to the Watch
 
-Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. This approach needs **Thayan File Obtained**, because the sealed Watch file is the only paper that gives Pike a reason to hold Esloon. Without the file, Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
+Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters, and he passes the Skewered Dragon's corner at seven bells and again at half past. This approach needs **Thayan File Obtained**, because the sealed Watch file is the only paper that gives Pike a reason to hold Esloon. Without the file, Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
 
 > [!exploration]**The Sergeant and the File**
 >
 > A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character who reaches him a little after seven bells, while he is still on the corner, makes a **DC 14 Charisma (Persuasion)** check to make him hurry.
 >
 > - **On a failure:** The patrol reaches the back room at half past seven, as the handshake happens. The deal concludes, and Esloon is detained anyway.
-> - **Esloon's choice:** He does not run from two Guards and a sergeant holding a file that names his associates, because a man the Watch has to hunt cannot stay in Waterdeep. He asks his question as he is led out.
+> - **Esloon's choice:** He does not run from two Guards and a sergeant holding a file that names his associates. A man the Watch has to hunt cannot stay in Waterdeep, so he asks his question as he is led out.
 
 ### Turn Esloon
 
-The party can reach Esloon alone in the ten minutes before Sarvos arrives, or reach him at his table. Esloon will not discuss terms in front of Sarvos. If Sarvos is in the room, Esloon steps into the kitchen passage with the character, and Dunmar Teague stays at his shoulder.
+The party can reach Esloon alone in the ten minutes before Sarvos arrives, or reach him at his table. Esloon will not discuss terms in front of Sarvos. If Sarvos is in the room, Esloon steps into the kitchen passage with the character, and Dunmar Crale stays at his shoulder.
 
 > [!exploration]**Reaching the Back Room**
 >
-> - **The kitchen passage:** A character who goes through the kitchen between ten to seven and seven and makes a successful **DC 15 Dexterity (Stealth)** check reaches the back room unseen and finds Esloon alone. On a failure Teague stops the character at the passage mouth, and Esloon hears the party out only after Sarvos has arrived.
-> - **The supper tray:** A character who bought the tray from Yarra Moss carries the plates in at ten past seven, and Teague lets them pass. No check is needed.
-> - **The front:** A character who asks Teague for Esloon is refused. Walking past him begins **Break Up the Meeting** at once.
+> - **The kitchen passage:** A character who goes through the kitchen between ten to seven and seven and makes a successful **DC 15 Dexterity (Stealth)** check reaches the back room unseen and finds Esloon alone. On a failure Crale stops the character at the passage mouth, and Esloon hears the party out only after Sarvos has arrived.
+> - **The supper tray:** A character who bought the tray from Yarra Moss carries the plates in at ten past seven, and Crale lets them pass without a check.
+> - **The front:** A character who asks Crale for Esloon is refused, and walking past him begins **Break Up the Meeting** at once.
 
 > [!readaloud]
 >
-> Dunmar Teague, a thick man with a broken nose, puts one boot across the mouth of the passage and does not look up from his cup.
+> Dunmar Crale, a thick man with a broken nose, puts one boot across the mouth of the passage and does not look up from his cup.
 >
 > > "Mr. Bezant is in a meeting, and he doesn't see visitors. Turn round and go back to the bar, or I'll show you out through the fucking window."
 
@@ -278,19 +277,19 @@ The party can reach Esloon alone in the ten minutes before Sarvos arrives, or re
 >
 > Each way needs about five minutes of Esloon's attention and ends with him declining the Splinter's offer. A failed attempt closes that way and leaves the other two open.
 >
-> - **The forged letter:** The party spends 25 gp to make a letter look as though it traveled with a Splinter courier. It says the Splinter wants Esloon's spellbook and will settle his account once the strike is done. A character who presents it and makes a successful **DC 16 Charisma (Deception)** check convinces him. He reads it twice and puts it in his coat. On a failure he recognizes the forgery, and the letter is useless.
-> - **The warning:** A character who tells Esloon that the Alliance knows of the recruitment and will make his life in Waterdeep difficult, and makes a successful **DC 15 Charisma (Intimidation)** check, convinces him that the Splinter's money is not worth the attention. On a failure he invites the party to leave.
+> - **The forged letter:** The party spends 25 gp to make a letter look as though it traveled with a Splinter courier. It says the Splinter wants Esloon's spellbook and will settle his account once the strike is done. A character who presents it and makes a successful **DC 16 Charisma (Deception)** check convinces him, and he reads it twice and puts it in his coat. On a failure he recognizes the forgery, and the letter is useless.
+> - **The warning:** A character who tells Esloon that the Alliance knows of the recruitment and will make his life in Waterdeep difficult can make a **DC 15 Charisma (Intimidation)** check. On a success he decides the Splinter's money is not worth the attention. On a failure he invites the party to leave.
 > - **The bribe:** The party offers 500 gp from its own purse together with Jalester's promise of six months in which the Alliance leaves his business alone. No check is needed. Esloon counts the coin, says "That is less than the Splinter offered," and accepts, because the Splinter's price is one he cannot read.
 
 When any way succeeds, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Esloon studies you for a long moment, then stands, buttons his coat and says a few words to Dunmar Teague, who gathers the crew from the taproom.
+> Esloon studies you for a long moment, then stands, buttons his coat and says a few words to Dunmar Crale, who gathers the crew from the taproom.
 >
 > > "That is inconvenient for me, and I will remember who caused it. I will tell Sarvos that the arrangement is declined, and I will tell him nothing else."
 
-Esloon asks his question before he goes, as described in **What Esloon Wants**. Sarvos finds an empty chair, waits until half past seven and leaves by the Dock Lane door. The deal is scuttled.
+Esloon asks his question before he goes, as described in **What Esloon Wants**. Sarvos finds an empty chair, waits until half past seven and leaves by the Dock Lane door, and the deal is scuttled.
 
 ### Take the Broker
 
@@ -298,8 +297,8 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!exploration]**Taking Sarvos Miln**
 >
-> - **On the street:** Sarvos walks west along Dock Street from the Fillet Lane end alone at seven bells. A character who waits at the mouth of Dock Lane and makes a successful **DC 14 Dexterity (Stealth)** check reaches him before he calls out. On a failure he sees them and runs for the street door, Cutter and Teague come out, and the Watch clock starts from that moment.
-> - **At the Dock Lane door:** A character in the lane when the bolt is drawn catches him as he comes out. This works before the handshake if the party has broken up the meeting, and at half past seven if the party has waited. Before the handshake the deal is scuttled. After it, the deal stands and Sarvos is still caught.
+> - **On the street:** Sarvos walks west along Dock Street from the Fillet Lane end alone at seven bells. A character who waits at the mouth of Dock Lane and makes a successful **DC 14 Dexterity (Stealth)** check reaches him before he calls out. On a failure he sees them and runs for the street door, Cutter and Crale come out, and the Watch clock starts from that moment.
+> - **At the Dock Lane door:** A character in the lane when the bolt is drawn catches him as he comes out. This works before the handshake if the party has broken up the meeting, and at half past seven if the party has waited. Before the handshake the deal is scuttled, and after it the deal stands and Sarvos is still caught.
 > - **Holding him:** The party keeps Sarvos alive and locked in a room at Trollskull Manor until the debrief. If he dies, the signed arrangement is still in his coat, but **Sarvos Captured** is not marked.
 
 > [!social]**The Broker**
@@ -328,7 +327,7 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!exploration]**What Sarvos Gives Up**
 >
-> The checkpoint can be named two ways. The signed arrangement in Sarvos's coat names the checkpoint on Fillet Lane, the night and the cart for Baldur's Gate, and anyone who searches him finds it. A character who questions him and makes a successful **DC 13 Charisma (Intimidation or Persuasion)** check gets the same answer from his own mouth, with the window the strike is meant to open. Either way, **Sarvos Captured** is marked once the party holds him alive with the checkpoint in hand.
+> The checkpoint can be named two ways. The signed arrangement in Sarvos's coat names the checkpoint on Fillet Lane, the night and the cart for Baldur's Gate, and anyone who searches him finds it. A character who questions him and makes a successful **DC 13 Charisma (Intimidation or Persuasion)** check gets the same answer from his own mouth, along with the window the strike is meant to open. Either way, **Sarvos Captured** is marked once the party holds him alive with the checkpoint in hand.
 
 ### What Esloon Wants
 
@@ -340,11 +339,11 @@ Any approach that puts a character in front of Esloon opens his question. He ask
 >
 > > "One question, and it is not about the deal. I have been in this city five years. The Splinter is the only party in that time that has offered me anything I could count. Is there another offer? Not from you personally, but from whoever decides these things."
 
-Esloon takes any answer without comment and says "I will hear it when it comes." He does not wait for a promise. A character who tells him they will carry the question to the right people has made no promise that binds the Alliance, and Esloon knows it.
+Esloon takes any answer without comment and says "I will hear it when it comes." He does not wait for a promise. A character who says they will carry the question to the right people has made no promise that binds the Alliance, and Esloon knows it.
 
 ### Renown Opportunities
 
-Jalester expects the members at the corner table beside the Yawning Portal's well at dusk on the evening after the meeting. The companions sit at the bar.
+Jalester expects the members at the corner table beside the Yawning Portal's well at dusk on the evening after the meeting, and the companions sit at the bar.
 
 > [!gamemaster]**Beside the Well**
 >
@@ -414,9 +413,9 @@ Jalester's report ends the mission, and the three outcomes below are read by lat
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Splinter Deal Scuttled** — mark when Esloon declines the Splinter's offer, is detained or withdraws, or Sarvos is taken or driven off, before the handshake at half past seven; read by Jalester's debrief in this Event and by **Faction Outposts** (unconverted), where the Splinter's Dock Ward crews carry five extra hired fighters if it is not marked.
-> - **Sarvos Captured** — mark when the party holds Sarvos alive and has the Fillet Lane checkpoint from his coat or his mouth; read by Jalester's debrief in this Event and by **Faction Outposts** (unconverted), where the checkpoint strike fails.
-> - **Esloon Question Delivered** — mark when a member repeats Esloon's question to Jalester at the debrief; read by Jalester's reply in this Event, by the Background of **An Audience with the Open Lord** and by **Faction Outposts** (unconverted).
+> - **Splinter Deal Scuttled** — mark when Esloon declines the Splinter's offer, is detained or withdraws, or Sarvos is taken or driven off, before the handshake at half past seven. Read by Jalester's debrief in this Event and by **Faction Outposts** (unconverted), where the Splinter's Dock Ward crews carry five extra hired fighters if it is not marked.
+> - **Sarvos Captured** — mark when the party holds Sarvos alive and has the Fillet Lane checkpoint from his coat or his mouth. Read by Jalester's debrief in this Event and by **Faction Outposts** (unconverted), where the checkpoint strike fails.
+> - **Esloon Question Delivered** — mark when a member repeats Esloon's question to Jalester at the debrief. Read by Jalester's reply in this Event, by the Background of **An Audience with the Open Lord** and by **Faction Outposts** (unconverted).
 >
 > This Event also reads **Thayan File Obtained** and **Harko Taken Alive**, which **The Exile's Return** marks. The file comes out of Harko's custody, so the two are marked together.
 
@@ -430,4 +429,4 @@ Jalester asks the party to end a Splinter deal with a Thayan wizard at a Dock Wa
 
 ## Summary
 
-Jalester Silvermane came to Trollskull Manor himself and told us the Splinter was buying a Thayan wizard's crew that night. We found the back room at the Skewered Dragon, tried to end the deal before the handshake, and heard Esloon Bezant ask whether anyone had a better offer for a man like him. What will Jalester say when we tell him?
+Jalester Silvermane came to Trollskull Manor himself and told us the Splinter was buying a Thayan wizard's crew that night. We found the back room at the Skewered Dragon and tried to end the deal before the handshake. Esloon Bezant asked us whether anyone had a better offer for a man like him, and what will Jalester say when we tell him?

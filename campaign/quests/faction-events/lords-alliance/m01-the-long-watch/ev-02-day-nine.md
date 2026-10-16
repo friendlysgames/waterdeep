@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Combat and Social Event begins on the morning of the ninth day and ends at the well table on the evening of the tenth day, when the members report to Jalester. In this Event, the party can:
+> This Combat and Social Event begins on the morning of the ninth day. It ends at the well table on the evening of the tenth day, when the members report to Jalester. In this Event, the party can:
 >
 > - Hear what became of Delvon Harsk, and learn whether the beatings have stopped.
 > - Defend Berna's crew and two wounded Watch Guards against a carrion crawler that climbs out of a sewer grate at highsun.
@@ -25,7 +25,7 @@
 
 The crew gathers at the yard at six bells on Day 9 whatever happened on Day 8. Mareva Coile is there before the sweepers, and what she says depends on what the party did with Delvon Harsk.
 
-- **The Watch took Delvon:** Mareva says nothing to the party, and Cass Fildura counts the crew out in his place. The beatings have stopped.
+- **The Watch took Delvon:** Mareva says nothing to the party, and Cass Fildura counts the crew out in his place because the beatings have stopped.
 - **The party warned him off:** Delvon's keys lie on Mareva's desk and Cass Fildura counts the crew out. Mareva says she will find out why and does not ask the party.
 - **The party told nobody:** Delvon counts the crew out as usual. Mareva reports that a sweeper from another crew was beaten near Ship Street last night, and she asks if the party has learned anything.
 
@@ -35,13 +35,13 @@ The crew works the Market alleys on Day 9, and Berna stops the cart at the mouth
 
 > [!readaloud]
 >
-> It is highsun on the ninth day, and the Trades Ward is filling with lunchtime foot traffic. The crew has stopped at the mouth of a twenty-foot alley between market stalls when the iron grate at the far end rattles and rises. A wet chittering scrape of too many legs comes up out of the drain. A carrion crawler the size of a cart horse hauls itself onto the cobbles and tastes the air. Two Watch guards run out of the Market lane behind you, and one of them is limping.
+> It is highsun on the ninth day, and the Trades Ward is filling with lunchtime foot traffic. The crew has stopped at the mouth of a twenty-foot alley between market stalls when the iron grate at the far end rattles and rises. A chittering scrape of many legs comes up out of the drain, and a carrion crawler the size of a cart horse hauls itself onto the cobbles. It tastes the air while two Watch guards run out of the Market lane behind you, and one of them is limping.
 
 > [!readaloud]
 >
 > Berna drops her broom and steps in front of her sweepers without taking her eyes off the grate.
 >
-> > "Well. There we are. Behind them, lads, all of you, and quickly."
+> > "Well, there we are. Get behind them, lads, all of you, and be quick about it."
 >
 > The four sweepers scramble behind you with the cart, and the crawler starts up the alley toward the nearest of you.
 
@@ -60,7 +60,7 @@ The crew works the Market alleys on Day 9, and Berna stops the cart at the mouth
 > During combat, the crawler:
 > - Uses Paralyzing Tentacles on the nearest creature that is not already Paralyzed, and its Bite on a different creature within 5 feet. In round 2 the nearest creature is a Guard if one still stands between it and the party.
 > - Never Bites a creature it Paralyzed earlier in the same turn, and skips the Bite if no other creature is within 5 feet.
-> - Never attacks a creature at 0 hit points.
+> - Never attacks a creature that is at 0 hit points, and picks the nearest other creature instead.
 > - Retreats down the grate with its Climb speed when it reaches the hit point total in the rows above, unless the party has blocked the grate.
 >
 > A target of Paralyzing Tentacles makes a DC 12 Constitution saving throw and is Poisoned and Paralyzed on a failure. It repeats the save at the end of each of its turns and succeeds automatically after 1 minute. An ally can drag a Paralyzed character up to 15 feet out of the crawler's reach with a Utilize action, which costs half the dragger's Speed.
@@ -70,15 +70,15 @@ The crew works the Market alleys on Day 9, and Berna stops the cart at the mouth
 > #### Breaking Off
 > If a character drops to 0 hit points or two characters are Paralyzed at once, the party can break off. The crawler does not follow past the alley mouth into the lit street, and it goes back down the grate within the hour.
 >
-> No route ends the crawler without a fight, and the objective is the people. The crew stays behind the party throughout, and a party that clears the alley and keeps the Guards and sweepers in the street ends the fight with nobody lost.
+> No route ends the crawler without a fight, and the objective is the people. The crew stays behind the party throughout. A party that clears the alley and keeps the Guards and sweepers in the street ends the fight with nobody lost.
 
 If the crawler retreats down the grate or the party withdraws, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The crawler drops back into the grate with a scrape of claws, and the chittering fades down the drain. Berna crosses the alley, picks up her broom and looks at the open hole. Then she looks at you.
+> The crawler drops back into the grate with a scrape of claws, and the chittering fades down the drain. Berna crosses the alley, picks up her broom and looks at the open hole before she looks at you.
 >
-> > "Same time tomorrow."
+> > "That's that, then. Same time tomorrow."
 >
 > She turns the cart toward the next street, and the sweepers come out from behind it one at a time.
 
@@ -86,11 +86,11 @@ If the crawler is killed, read or paraphrase the following:
 
 > [!readaloud]
 >
-> The crawler's legs fold under it, and it lies still across the cobbles. The Guards lean on the stall posts while the sweepers come out from behind the cart. Berna picks her broom out of the muck, wipes the handle on her apron and looks at you.
+> The crawler's legs fold under it, and it lies still across the cobbles while the Guards lean on the stall posts. The sweepers come out from behind the cart, and Berna picks her broom out of the muck, wipes the handle on her apron and looks at you.
 >
-> > "Same time tomorrow."
+> > "That's that, then. Same time tomorrow."
 >
-> She turns the cart toward the next street.
+> She turns the cart toward the next street, and the sweepers follow it out one by one.
 
 ### Herath's Note
 
@@ -100,7 +100,7 @@ At the end of the shift on Day 9, with the cart back in the yard behind the Mule
 >
 > The cart is rolled into its corner and the sweepers hang their brooms on the wall. Herath comes across the yard with a folded square of paper held out at arm's length, and he shrugs when you take it.
 >
-> > "It's where we go down when the street's closed. The Watch at Coin Alley can't see it. In case you ever need to move fast."
+> > "It's where we go down when the street's closed, and the Watch at Coin Alley can't see it. In case you ever need to move fast."
 
 > [!exploration]**Herath's Sewer Note**
 >
@@ -112,15 +112,15 @@ At the end of the shift on Day 9, with the cart back in the yard behind the Mule
 
 ### The Tenth Shift
 
-The tenth shift passes without trouble, and Berna dismisses the sweepers at the yard gate at dusk. Mark **Berna Trusts the Party** if the party earned at least two Trust marks on Days 2, 6 and 7 and was at the Muleskull at every six bells, and read the branch that matches.
+The tenth shift passes without trouble, and Berna dismisses the sweepers at the yard gate at dusk. Mark **Berna Trusts the Party** if the party earned at least two Trust marks on Days 2, 6 and 7 and was at every six bells. Then read the branch that matches.
 
 If the party earned Berna's regard, read or paraphrase the following:
 
 > [!readaloud]
 >
-> When the cart is back in the yard on the evening of the tenth day, Berna props her broom against the wall and walks over to you instead of toward the gate.
+> On the evening of the tenth day the cart is back in the yard. Berna props her broom against the wall and walks over to you instead of toward the gate.
 >
-> > "That's the tenday. You came every morning, and I don't say that of many escorts. If you want to know what I've seen on this circuit, ask me."
+> > "That's the tenday, and you came every morning, which I can't say of many escorts. If you want to know what I've seen on this circuit, ask me."
 
 > [!qna]**What have you seen on the circuit?**
 >
@@ -132,7 +132,7 @@ If the party did not earn her regard, read or paraphrase the following:
 >
 > Berna nods once to each of you and picks up her broom.
 >
-> > "That's the tenday. Mareva will see you're thanked."
+> > "That's the tenday, and Mareva will see that you're thanked for it."
 
 ### Renown Opportunities
 
@@ -140,7 +140,7 @@ If the party did not earn her regard, read or paraphrase the following:
 >
 > The corner table stands beside the Yawning Portal's well, so anything said at it may reach something below the Portal, and Jalester does not know.
 
-The members report to Jalester at dusk on the evening of the tenth day, which is the deadline he gave in **Six Bells at the Muleskull**, and the companions sit at the bar.
+The members report to Jalester at dusk on the evening of the tenth day, which is the deadline he gave in **Six Bells at the Muleskull**. The companions sit at the bar.
 
 > [!readaloud]
 >
@@ -154,9 +154,9 @@ Read the branch that matches what the party did about the leak. If a member name
 >
 > Jalester writes the name and reads it back to himself under his breath.
 >
-> > "Delvon Harsk. Thank you. A street agent of Xanathar's Guild answers to the description of the man at the window, and that explains how the beatings were timed. I will give the name to the Watch tonight. One more detail, if you don't mind. At what hour does Delvon leave the yard each evening?"
+> > "Delvon Harsk, thank you. A street agent of Xanathar's Guild answers to the description of the man at the window, and that explains how the beatings were timed. I will give the name to the Watch tonight. One more detail, if you don't mind: at what hour does Delvon leave the yard each evening?"
 
-If no member saw Pirn, Jalester replaces the sentence about the street agent with "Someone buys the hours from him, and I will ask the Watch who has been watching the Trades Ward." If the party handed Pirn to the Watch, he adds "The Watch has the man at the window, and I will ask what he knows."
+If no member saw Pirn, Jalester changes the sentence about the street agent to "Someone buys the hours from him, and I will ask the Watch who has been watching the Trades Ward." If the party handed Pirn to the Watch, he adds "The Watch has the man at the window, and I will ask what he knows."
 
 If the party never named Delvon, mark nothing and read or paraphrase the following:
 
@@ -172,7 +172,7 @@ If no worker or Guard dropped to 0 hit points on Day Nine, he adds the following
 >
 > He glances at the page before he adds a line.
 >
-> > "Mareva also says nobody was hurt when the creature came up the grate. The Market post is grateful, and so am I."
+> > "Mareva also says nobody was hurt when the creature came up the grate, so the Market post is grateful, and so am I."
 
 If a member shows him Herath's note, Jalester reads it twice and hands it back. He says it was given to them and not to the Alliance, so he will not ask for it.
 
@@ -184,7 +184,7 @@ If a member shows him Herath's note, Jalester reads it twice and hands it back. 
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Lords' Alliance member gains 2 base Renown for walking the route for the full tenday and reporting to Jalester. Companions gain none.
+> Each participating Lords' Alliance member gains 2 base Renown for walking the route for the full tenday and reporting to Jalester, and companions gain none.
 >
 > - **+1 Renown:** No worker or Guard drops to 0 hit points in the fight on Day Nine.
 > - **+1 Renown:** The party names Delvon Harsk to Jalester with at least one of the three leads, and **Leak Closed** is marked.
@@ -202,9 +202,9 @@ The members' report to Jalester ends the mission, and the three outcomes below a
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Leak Closed** — mark when a member names Delvon Harsk to Jalester at the debrief and gives at least one of the three leads; read by **The Exile's Return**, where Jalester's tone in the Brief depends on it, and by **Faction Outposts** (unconverted).
-> - **Berna Trusts the Party** — mark at the end of the tenth shift if the party earned at least two Trust marks and was at the Muleskull at every six bells; read by **Faction Outposts** (unconverted), where Berna's tips on Trades Ward drops depend on it.
-> - **Herath's Note Received** — mark when Herath hands over the note on Day 9; read by **Xanathar's Lair** (unconverted), which can use the hatch as a sewer approach.
+> - **Leak Closed** — mark when a member names Delvon Harsk to Jalester at the debrief and gives at least one of the three leads. Read by **The Exile's Return**, where Jalester's tone in the Brief depends on it, and by **Faction Outposts** (unconverted).
+> - **Berna Trusts the Party** — mark at the end of the tenth shift if the party earned two Trust marks and missed no six bells. Read by **Faction Outposts** (unconverted), where Berna's tips on Trades Ward drops depend on it.
+> - **Herath's Note Received** — mark when Herath hands over the note on Day 9. Read by **Xanathar's Lair** (unconverted), which can use the hatch as a sewer approach.
 
 > [!gamemaster]**Next Steps**
 >

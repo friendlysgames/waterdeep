@@ -14,25 +14,25 @@
 
 ## Hook
 
-At 09:00 a Watch runner brings each Lords' Alliance member a card sealed in grey wax. That evening Jalester gives the order in a shuttered room above a glover's shop in the Castle Ward: an exile named Harko Swornhold is back in the Dock Ward, and the Alliance wants him found within three nights and "quietly put to the sword".
+At 09:00 a Watch runner brings each Lords' Alliance member a card sealed in grey wax. That evening Jalester gives the order in a shuttered room above a glover's shop in the Castle Ward. An exile named Harko Swornhold is back in the Dock Ward, and the Alliance wants him found within three nights and "quietly put to the sword".
 
 ## Background
 
 Harko Swornhold is fifty and was exiled three years ago after he tried to bribe Magister Kylynne Silmerhelve. He came back about two months ago, took work recruiting kenku for the street crews of Xanathar's Guild and set up in a rope warehouse in Mudwagon Court, behind the Muleskull on Ship Street. Two weeks after he returned, a Splinter fixer named Veralax began paying him to carry messages between the Splinter and those crews. Harko took the coin and has carried nothing.
 
-Jalester knows about the Guild work from a Watch informant. The law gives him no better remedy than another exile, which would last three months, so the Alliance has chosen the sword.
+Jalester knows about the Guild work from a Watch informant. The law gives him no better remedy than another exile, which would last only three months, so the Alliance has chosen the sword.
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Harko will surrender when he is hurt. He has been offered exile twice, has nowhere left to go and would sooner be a prisoner than a corpse.
-> - The cipher note in his coat is a Guild courier's note. It names "K", who is Keln Trigos of the Terasse Estate, and nobody in this mission can know that.
+> - Harko will surrender when he is hurt, because he has been offered exile twice, has nowhere left to go and would sooner be a prisoner than a corpse.
+> - The cipher note in his coat is a Guild courier's note that names "K", who is Keln Trigos of the Terasse Estate, and nobody in this mission can know that.
 > - A thin Splinter broker named Sarvos Miln delivered Veralax's last purse at the back door of the Skewered Dragon. Harko does not know his name, only his face.
 > - Lira, the Muleskull server who sees the end of the fight, is no agent of any faction.
-> - Nobody in this mission names Manshoon. Jalester says "the Splinter", and Harko says "the Zhentarim, the bad kind".
+> - Nobody in this mission names Manshoon, because Jalester says "the Splinter" and Harko says "the Zhentarim, the bad kind".
 
 ## The Brief
 
-Jalester gives the order in person in a closed room on Rannick Lane, away from the well table, because he will not say it in a crowded taproom. He states the three-night deadline in his own words and closes with a question about the Muleskull. Companions stay at the Manor.
+Jalester gives the order in person in a closed room on Rannick Lane, away from the well table, because he will not say it in a crowded taproom. He states the three-night deadline in his own words and closes with a question about the Muleskull, while companions stay at the Manor.
 
 ## Three Ways to the Court
 
@@ -40,7 +40,7 @@ A fencewoman on Net Street, a retired pilot at the Muleskull and a Dungsweepers'
 
 ## The Rope Warehouse
 
-The party can reach the kenku unseen, talk Harko into a hearing or fight him. If either kenku whistles, two Guards reach the door at the end of round 4. Harko surrenders at half his Hit Points.
+The party can reach the kenku unseen, talk Harko into a hearing or fight him, and if either kenku whistles, two Guards reach the door at the end of round 4. Harko surrenders at half his Hit Points.
 
 ## The Turn
 
@@ -62,7 +62,9 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-**Harko Taken Alive** is read by **The Red Wizard's Price** and by **Faction Outposts** (unconverted). **Terasse Cipher Taken** is read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate. **Thayan File Obtained** is read by **The Red Wizard's Price**, where it lowers the DC of one approach by 2. A job that went loud costs each participating member the Overlook and String-Pulling for a tenday or two. **The Red Wizard's Price** becomes available at Renown 5 and 4th level.
+**Harko Taken Alive** is read by **The Red Wizard's Price** and by **Faction Outposts** (unconverted). **Terasse Cipher Taken** is read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate. **Thayan File Obtained** is read by **The Red Wizard's Price**, where it lowers the DC of one approach by 2.
+
+A job that went loud costs each participating member the Overlook and String-Pulling for a tenday or two. **The Red Wizard's Price** becomes available at Renown 5 and 4th level.
 
 ## Involved Characters
 

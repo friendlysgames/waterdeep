@@ -31,15 +31,15 @@ Pirn works for Xanathar's Guild at the edge of what his handler permits, and the
 
 ## The Brief
 
-Jalester briefs the members at the well table in the evening, and the companions sit at the bar. He asks the party to meet the crew at the Muleskull Tavern at six bells the next morning and to report to him on the evening of the tenth day. He has no name for whoever beat the workers, and he says so.
+Jalester briefs the members at the well table in the evening, and the companions sit at the bar. He asks the party to meet the crew at the Muleskull Tavern at six bells the next morning. They report to him on the evening of the tenth day. He has no name for whoever beat the workers, and he says so.
 
 ## Six Bells at the Muleskull
 
-The party meets Mareva Coile and Berna at the Muleskull Tavern on Ship Street and walks the Trades Ward circuit with the crew for eight days. Short scenes on Days 2, 4, 6 and 7 show how the crew works and let the party earn Berna's regard. Three independent leads each name Delvon Harsk. They are the watcher on Margaster Street, a schedule scrap and Mareva's duty book, and the party decides what to do about him on Day 8.
+The party meets Mareva Coile and Berna at the Muleskull Tavern on Ship Street and walks the Trades Ward circuit with the crew for eight days. Short scenes on Days 2, 4, 6 and 7 show how the crew works and let the party earn Berna's regard. Three independent leads each name Delvon Harsk. They are the watcher on Tallowmere Street, a schedule scrap and Mareva's duty book. The party decides what to do about him on Day 8.
 
 ## Day Nine
 
-At highsun on the ninth day a carrion crawler climbs out of a sewer grate in a Trades Ward alley, while two wounded Watch Guards arrive behind the party. The party keeps the crew and the Guards alive and drives the crawler back down the drain. That evening Herath gives the party a note about a sewer hatch, and on the tenth day Berna says what she has seen on the circuit if she trusts them.
+At highsun on the ninth day a carrion crawler climbs out of a sewer grate in a Trades Ward alley. Two wounded Watch Guards arrive behind the party. The party keeps the crew and the Guards alive and drives the crawler back down the drain. That evening Herath gives the party a note about a sewer hatch. On the tenth day Berna says what she has seen on the circuit if she trusts them.
 
 ## The Debrief
 
@@ -57,7 +57,9 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-**Leak Closed** is read by **The Exile's Return**, where Jalester's tone in the Brief depends on it, and by **Faction Outposts** (unconverted). **Berna Trusts the Party** is read by **Faction Outposts** (unconverted), where Berna's tips on Trades Ward drops depend on it. **Herath's Note Received** is read by **Xanathar's Lair** (unconverted), which can treat the hatch as a sewer approach. **The Exile's Return** becomes available when an individual Lords' Alliance member reaches Renown 3 and 3rd level, and a member who reaches Renown 3 here also qualifies for **Redknife**.
+**Leak Closed** is read by **The Exile's Return**, where Jalester's tone in the Brief depends on it, and by **Faction Outposts** (unconverted). **Berna Trusts the Party** is read by **Faction Outposts** (unconverted), where Berna's tips on Trades Ward drops depend on it. **Herath's Note Received** is read by **Xanathar's Lair** (unconverted), which can treat the hatch as a sewer approach.
+
+**The Exile's Return** becomes available when an individual Lords' Alliance member reaches Renown 3 and 3rd level. A member who reaches Renown 3 here also qualifies for **Redknife**.
 
 ## Involved Characters
 
@@ -66,13 +68,13 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 - **Berna** (Dungsweepers' Guild): the crew's foreman, a dwarf of about sixty whose regard the party can earn.
 - **Herath** (Dungsweepers' Guild): a young Calishite sweeper who gives the party a note about a sewer hatch.
 - **Delvon Harsk** (Dungsweepers' Guild): a route supervisor who sells the crew's timings to pay a debt.
-- **Pirn** (Xanathar's Guild): a street agent who watches the route from a window on Margaster Street.
+- **Pirn** (Xanathar's Guild): a street agent who watches the route from a window on Tallowmere Street.
 - **Durnan** (Independent): the Yawning Portal's owner, who keeps notes for Silvermane's friends behind the bar.
 - **Two Watch Guards** (City of Waterdeep): wounded Market-post guards who chase the crawler up from the drains.
 
 ## Dangers & Enemies
 
-The only fight is the carrion crawler on Day Nine, which uses the **Carrion Crawler** block from the 2024 *Monster Manual*. It cannot attack in the first round, a prey rule keeps it from biting a creature it has just Paralyzed, and it retreats down the grate at half its starting hit points. Pirn never fights and runs if a character approaches him openly.
+The only fight is the carrion crawler on Day Nine, which uses the **Carrion Crawler** block from the 2024 *Monster Manual*. It cannot attack in the first round, and a prey rule keeps it from biting a creature it has just Paralyzed. It retreats down the grate at half its starting hit points, and Pirn never fights and runs if a character approaches him openly.
 
 ## Overview
 
