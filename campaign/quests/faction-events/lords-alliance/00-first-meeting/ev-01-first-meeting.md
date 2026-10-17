@@ -2,9 +2,10 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event occurs during **The Factions Come Calling**, when the Lords' Alliance row fires. Jalester Silvermane waits for the party at the corner table beside the Yawning Portal's well. It begins when the first candidate reaches that table and ends when the last candidate has given an answer and Jalester closes his notebook. In this Event, the characters can:
+> This Social Event occurs during **The Factions Come Calling**, when the Lords' Alliance row fires. A Watch runner brings a card from Jalester Silvermane to Trollskull Manor, and he waits for the party at the corner table beside the Yawning Portal's well. It begins when the runner knocks and ends when the last candidate has given an answer and Jalester closes his notebook. In this Event, the characters can:
 >
-> - Find Jalester at the corner table beside the well, where Durnan points the way, and answer his question about the warehouse on Candle Lane.
+> - Receive a card in grey wax from a Watch runner at Trollskull Manor, naming the Portal and the corner table beside the well.
+> - Find Jalester at that table, where Durnan points the way, and answer his question about the warehouse on Candle Lane.
 > - Ask him who the Alliance answers to, what it wants, what it pays, how it sees the other factions and what happens when a member disagrees.
 > - Hear the Condition, which is that Alliance assignments are not optional, and ask why.
 > - Decide individually whether to join, with no assignment handed out tonight, and learn that a refusal is final.
@@ -24,13 +25,49 @@
 > - The Alliance pays in support and not in coin, and the support grows with rank. The first of it is the grant for Trollskull Manor.
 > - Nobody in this Event names the master of the Splinter. Until **Manshoon Named** is marked for the listener, Jalester says "the Splinter" or "the other cell".
 
+### The Summons
+
+> [!gamemaster]**A Card in Grey Wax**
+>
+> On the morning the Lords' Alliance row of **The Factions Come Calling** fires, a Watch runner knocks at the door of Trollskull Manor. He is an ordinary **Commoner** in a plain Watch tabard, and Jalester paid him to wait for no reply. Every later Lords' Alliance note comes the same way, by a runner with a folded card sealed in grey wax. Read the following aloud when someone answers the door.
+
+> [!readaloud]
+>
+> A young man in a plain Watch tabard stands on the step with a folded card in one hand, out of breath from the climb up the alley. A blob of grey wax seals the fold, pressed flat by a thumb. He holds the card out to the nearest of you and looks past you at the tavern floor.
+>
+> > "Card for the residents of Trollskull Manor. I'm to hand it over and go."
+
+The card is addressed to the whole manor, so any resident can open it. Read the following aloud when someone breaks the seal.
+
+> [!readaloud]
+>
+> The card is folded in thirds, and the writing on the inside is small, upright and careful. It reads:
+>
+> > To the residents of Trollskull Manor.
+> >
+> > The Watch report on the warehouse on Candle Lane gives your names, and I would like to speak with you about it. I will be at the corner table beside the well in the Yawning Portal, any evening from dusk, for the next ten days.
+> >
+> > Jalester Silvermane
+
+> [!qna]**Who sent this?**
+>
+> The runner shifts his weight and glances down the alley.
+>
+> > "A gentleman at the Portal gave me the card and a silver for the walk. That's all I was told, and I've said all I know. I'm paid to wait for no reply."
+
+> [!qna]**What is it about?**
+>
+> > "I couldn't tell you what's in it, because I can't read much. The gentleman at the Portal paid me to carry it here and not to ask. If you've got a reply, take it to him yourselves."
+
+The runner leaves as soon as the card is taken, and he cannot be followed to anything useful. Anyone at the Yawning Portal's bar can name the corner table beside the well.
+
 ### The Corner Table
 
 > [!gamemaster]**Where Jalester Waits**
 >
-> Jalester sits at the corner table beside the well from dusk until the last bell. He starts on the day the Lords' Alliance row of **The Factions Come Calling** fires. He wears a dark doublet fastened to the collar, keeps his back to the wall and writes in a small notebook. Durnan knows what he does for Laeral and leaves him alone.
+> The card is what brings the candidates to the Portal. Jalester sits at the corner table beside the well from dusk until the last bell, starting on the evening the card is delivered and lasting ten days. He wears a dark doublet fastened to the collar, keeps his back to the wall and writes in a small notebook. Durnan knows what he does for Laeral and leaves him alone.
 >
-> Candidates can come that evening or on any later evening. If no candidate has entered the Portal by dusk of the second day, Jalester walks to Trollskull Manor on the third morning. He takes a table in the taproom until noon, and the Event then runs there with only the room changed in the readaloud.
+> Candidates can come that evening or on any later evening within the ten days. If no candidate has entered the Portal by dusk of the second day, Jalester walks to Trollskull Manor on the third morning. He takes a table in the taproom until noon, and the Event then runs there with only the room changed in the readaloud.
 
 > [!gamemaster]**Beside the Well**
 >
@@ -247,7 +284,7 @@ If no candidate accepted, read the following instead:
 >
 > A character who belonged to another faction when this Event ran, and has since left it, is a candidate. The usual case is a character marked **BD Contact Severed**, which **Contact Severed** in the Bregan D'aerthe set reads. Jalester meets that character at the well table within a tenday. The scene runs again in a shorter form with the same Pitch, Condition and answer, and the grant is not repeated.
 >
-> - **Where:** Jalester is at the corner table at dusk on the day after the character leaves their faction. If the character has not entered the Portal by the third dusk, he walks to Trollskull Manor on the following morning, as in **Where Jalester Waits**.
+> - **Where:** the morning after the character leaves their faction, the runner brings the same card to the character's lodging, and Jalester is at the corner table from that dusk for ten days. If the character has not entered the Portal by the third dusk, he walks to Trollskull Manor on the following morning, as in **Where Jalester Waits**.
 > - **Who is excluded:** a character marked **Lords' Alliance Offer Closed** or **LA Dismissed** gets no second offer.
 > - **Dismissed members elsewhere:** a character dismissed from the Alliance counts as unaffiliated for the other factions' First Meetings, at Renown 0.
 
@@ -270,14 +307,14 @@ The meeting ends when the last candidate has answered and Jalester has left the 
 
 ## Overview
 
-Jalester Silvermane waits at the corner table beside the Yawning Portal's well. He offers eligible characters a place in the Lords' Alliance and states the one condition that comes with it.
+A Watch runner brings a card in grey wax from Jalester Silvermane, who waits at the corner table beside the Yawning Portal's well. He offers eligible characters a place in the Lords' Alliance and states the one condition that comes with it.
 
 ## Summary
 
 ### After the Meeting
 
-Jalester Silvermane met us at the corner table beside the well in the Yawning Portal and asked which door we had used at the Candle Lane warehouse. He told us what the Lords' Alliance does and what it gives, and he warned us that its assignments are not optional. Each of us gave our own answer, and those who accepted were told that the Watch would know their names.
+A Watch runner brought us a card in grey wax from Jalester Silvermane, so we went to the corner table beside the well in the Yawning Portal, and he asked which door we had used at the Candle Lane warehouse. He told us what the Lords' Alliance does and what it gives, and he warned us that its assignments are not optional. Each of us gave our own answer, and those who accepted were told that the Watch would know their names.
 
 ### Without a Private Meeting
 
-We carried on with the renovation at Trollskull Manor without meeting Jalester Silvermane or changing any of our faction affiliations.
+We carried on with the renovation at Trollskull Manor without answering the card from Jalester Silvermane or changing any of our faction affiliations.
