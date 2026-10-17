@@ -104,9 +104,9 @@ Permanent scowl (not the same as disapproval); silver hair braided precisely; he
 
 ## Faction-Adjacent
 
-**Jalester Silvermane** *(Lords' Alliance, N male Cormyrean human, Veteran; see **The Lords' Alliance** organization page)*
+**Jalester Silvermane** *(Lords' Alliance, LG male Cormyrean Human, Spy; see **The Lords' Alliance** organization page)*
 Thinning hair, lean frame, dark doublet; lonely (partner Faerrel Dunblade killed last year) but not sorry for himself; direct; asks questions more specific than casual conversation warrants.
-- Mission delivery (verbal, no scroll) to any Lords' Alliance PC; cover is ordering a drink between briefing sips
+- Delivers missions in person to Lords' Alliance members at the Yawning Portal's well table, with four deliberate exceptions: a Watch-sealed note, a noon visit to the manor, a courier letter and a vellum summons
 - Concerned about Davil Starsong's arrest timeline — wrong person filed the initial report; wants the party's read on whether the Doom Raiders are trustworthy partners
 - Has a name: someone asking about the party through a Dock Ward cutpurse. Professional courtesy.
 - Wants to discuss what happens after the Grand Game — specifically, what the party plans to do with the gold. Some of his thoughts are Laeral's.

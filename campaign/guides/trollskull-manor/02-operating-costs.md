@@ -78,7 +78,7 @@ Raw materials the tavern sells. Scale with volume, quality, and Fame tier. Paid 
 The 1,250 gp renovation cost is not small for a 2nd-level party. What each faction offers:
 
 - **Harpers (Mirt):** Personal loan up to 500 gp, no stated interest — repayable as a favor when useful. Alternatively, supplier discounts of 15–20% via Harper-adjacent guild networks (binds supply chain, no personal debt to Mirt).
-- **Lords' Alliance (Jalester):** Civic grant up to 200 gp from Laeral's discretionary fund. Ongoing compliance oversight — Jalester checks in.
+- **Lords' Alliance (Jalester):** Civic grant of exactly 200 gp, paid once from Laeral's discretionary fund. Jalester checks in for one evening within a tenday and asks one specific question about the work.
 - **Emerald Enclave (Jeryth Phaulkon + Melannor Fellbranch):** Two Enclave druids use *Mold Earth*, *Shape Water*, *Plant Growth* and *Stone Shape* to dig out the cellar, drain the courtyard and reseat the foundation stones in a single day. The Enclave donates seasoned timber, and Tally Fellbranch lays it at no charge. Renovation cost drops by 250 gp, once. Ask: leave the oak tree undisturbed; allow silverbark growth on it.
 - **Order of the Gauntlet (Savra Belabranta):** No money. Accompanies party to guild meetings in Order insignia → favorable rates and prompt scheduling. Informal Watch watch-list placement → faster Watch response to any disturbance here.
 - **Doom Raiders (Davil + Istrid Horn):** Istrid: loan up to 400 gp, no interest, party-set repayment schedule. Davil: Black Network bulk agreements reduce opening stock cost ~100 gp through Vintners' Guild bypass.

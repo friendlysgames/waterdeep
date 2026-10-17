@@ -23,7 +23,7 @@ Over the course of the renovation period, each faction sends invitations through
 | Faction | Delivery | Eligibility |
 |---|---|---|
 | **Harpers** | Paper bird taps on a Trollskull Manor window, waits | Good-aligned; Renaer vouches for the party |
-| **Lords' Alliance** | Jalester Silvermane visits Trollskull or finds them at the Yawning Portal | City residents; civic-minded track record |
+| **Lords' Alliance** | A Watch runner brings a card sealed in grey wax; Jalester Silvermane waits at the corner table beside the Yawning Portal's well | Any character in no other faction; a civic-minded record only decides whom Jalester addresses first |
 | **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Finding Floon |
 | **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Paladins, clerics, characters with strong moral conviction |
 | **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Finding Floon |
@@ -53,7 +53,7 @@ Once contact is established, each faction's financing offer becomes available. F
 | Faction | Offer | String |
 |---|---|---|
 | Harpers | Mirt's personal loan — 500 gp | Repayable as a favor |
-| Lords' Alliance | Jalester's civic grant — 200 gp | No repayment; civic goodwill expected |
+| Lords' Alliance | Jalester's civic grant — 200 gp, once | No repayment; one evening's check-in from Jalester |
 | Emerald Enclave | Two druids and donated timber — −250 gp off renovation cost, once | No monetary cost; the druids ask the party to leave the courtyard oak alone and let silverbark grow on it |
 | Order of the Gauntlet | Guild connections — faster scheduling, favorable rates | Net 100 gp savings; Savra is visible at the site |
 | Doom Raiders | Istrid Horn's Black Network loan — 400 gp | Party-set repayment; Istrid wants no Watch attention |
@@ -69,7 +69,7 @@ Once enrolled, characters receive their first faction assignments. Quick referen
 | Faction | Level 2 Mission | Key Beat |
 |---|---|---|
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
-| Lords' Alliance | The Long Watch | Ten-day guard duty; carrion crawler on day nine |
+| Lords' Alliance | The Long Watch | A tenday escorting a sweeping crew in the Trades Ward; a carrion crawler on day nine |
 | Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
 | Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
 | Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
@@ -97,8 +97,8 @@ Cross-ref the **Filthy Meg** page in Notable Figures.
 #### Harpers Joined: True / False
 At least one party member enrolled with the Harpers. Cross-referenced by the **Harpers** Factions guide page (mission unlock), the **Faction Events** quest journals (mission dispatch), and **Faction Outposts** (outpost access).
 
-#### Lords' Alliance Joined: True / False
-At least one party member enrolled with the Lords' Alliance.
+#### Lords' Alliance Joined
+The **Lords' Alliance First Meeting** marks this for each character who accepts, so this Event does not. The 200 gp renovation grant is given once, when the first candidate accepts.
 
 #### Emerald Enclave Joined
 The **Emerald Enclave First Meeting** marks this for each character who accepts, so this Event does not. The renovation help is given once, when the first candidate accepts.
