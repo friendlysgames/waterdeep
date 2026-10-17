@@ -6,7 +6,7 @@ Appendix C's fourth Lords' Alliance mission, "The Rooftop Assassin", sends the p
 
 ## What Changed
 
-Vhaspar Coldwater keeps the role of the archer and takes a new surname, because Vhaspar Holmdreg is already a Dragon Heist name. The investigation is three independent leads to the feed store on Pell Street, in place of three checks in a row. They are a linen merchant's canvass, Saeth Cromley and the angles of the shots on Jalester's map. A member who has reached **Stingblade** gets the Watch's case file as a free fourth.
+Vhaspar Coldwater keeps the role of the archer and takes a new surname, because Vhaspar Holmdreg is already a Dragon Heist name. The investigation is three independent leads to the feed store on Pell Street, in place of three checks in a row. They are a linen merchant's canvass, Saeth Cromley and the angles of the shots on Jalester's map. A member for whom **Stingblade Reached** is marked gets the Watch's case file as a free fourth.
 
 The rooftop chase is a clock called the Escape Track, which is Vhaspar's pace against the pursuers' checks. His bolt hole is a salt-fish smokehouse on the quay, not the Skewered Dragon, because the Splinter would sell him to whoever paid. A fight is possible but optional, and Vhaspar surrenders for Watch protection. Jalester states the deadline in his brief, and the report happens at the handover and again ten days later with the dossier. Halek Farran is a hired agent on a household errand and is not villa staff.
 
@@ -25,6 +25,6 @@ The following are new and have no Notable Figures pages. Vhaspar, Yander and Hal
 Items for the out-of-scope log:
 
 - The Lords' Alliance guide row for this mission still names Ziraj and should name Vhaspar. `arc-g-cassalanter-villa.md` and the Vault structure doc still call the dossier "Mission 4's Aftermath" and need the outcome names.
-- Saeth Cromley's Notable Figures page lists the old **Veteran** stat block, and the Mechanics Reference's Watch-files table says "hand crossbow" for the case file. Both should read **Warrior Veteran** and heavy crossbow.
+- Saeth Cromley's Notable Figures page lists the old **Veteran** stat block and should read **Warrior Veteran**. The Mechanics Reference's Watch-files table already reads heavy crossbow.
 - **Laeral Told of Jalester** is written by a later mission, so Sevel Dastar never replaces Jalester here.
 - **Cassalanter Villa** is unconverted and is the named reader of both outcomes, so the dossier's guard rotation has no scene yet.

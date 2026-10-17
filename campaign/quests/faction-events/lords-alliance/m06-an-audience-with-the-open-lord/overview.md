@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not require it, and companions attend the audience with the members. Only the members take the report afterwards.
+> Becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. Seventh level requires all four lair heists, so a party that ran three heists reaches it only after **Vault of Dragons** and plays this mission then. The Vault does not require it, and companions attend the audience with the members. Only the members take the report afterwards. A member marked **LA Suspended** is not summoned and receives no Brief until **LA Reinstated** is marked. A suspended member may attend as a companion and is named on the Writ like any character present. A dismissed member is still left off.
 >
 > #### Difficulty
 > *An adventure for 7th-level characters.*
@@ -18,7 +18,7 @@ At 09:00 two Watch officers in dress uniform reach Trollskull Manor with a vellu
 
 ## Background
 
-Laeral has held the seat of Open Lord since Neverember's ouster, and she has had to learn what the Grand Game costs the city. Jalester's reports and the party's work have given her most of the picture, and she wants the rest from the people who were there. She also wants to see how they reason before she signs anything.
+Laeral has held the seat of Open Lord since Neverember's ouster, and she has had to learn what the Grand Game costs the city. Jalester's reports and the party's work have given her most of the picture, and she wants the rest from the people who were there. She also wants to see how they reason before she signs anything. If **Esloon Question Delivered** is marked, Esloon Bezant's question is already on her desk, and she answers it in one line during the third question. A member she met at **Warduke** is greeted by name, and she skips her introduction.
 
 The Splinter has sent her an offer through a go-between, a complete accounting of the Masked Lords it has confirmed. The price is a fifth of the vault's contents before the treasury sees it. She has not decided, and she discloses the offer to the party because she wants their judgment.
 
@@ -73,7 +73,7 @@ Each participating Lords' Alliance member gains 4 base Renown for attending the 
 
 - **Laeral Silverhand** (City of Waterdeep): the Open Lord, who asks the three questions and signs the Writ.
 - **Jalester Silvermane** (Lords' Alliance): takes the members' report at the well table, and is not present at the audience.
-- **Sevel Dastar** (Lords' Alliance): takes the report and every later contact if Laeral learns about Jalester.
+- **Sevel Dastar** (Lords' Alliance): a middle-aged human spy in a plain brown coat, who takes the report and every later contact if Laeral learns about Jalester.
 - **Maelis Venning** (City of Waterdeep): the Castle Ward Watch sergeant who delivers the summons.
 - **Jorin Larkin** (City of Waterdeep): the Watchman who stands beside her.
 - **The Splinter** (Splinter cell): sends the offer through a go-between and is never present.

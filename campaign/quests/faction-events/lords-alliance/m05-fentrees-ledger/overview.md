@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 10 and 6th level, after **The Archer Above**. Companions can help with everything except Jalester's debrief, which only members attend.
+> Becomes available when an individual Lords' Alliance member reaches Renown 10 and 6th level, after **The Archer Above**. Companions can help with everything except Jalester's debrief, which only members attend. A member marked **LA Suspended** receives no Brief until **LA Reinstated** is marked.
 >
 > #### Difficulty
 > *An adventure for 6th-level characters.*
@@ -14,7 +14,7 @@
 
 ## Hook
 
-At 08:00 on the morning after a member reaches Renown 10 and 6th level, a palace courier brings each eligible member a formal letter on plain paper. Orvane Fentree, a retired trade investigator, died ten days ago, and his private ledger has vanished from his study. Jalester asks the party to find it before anyone else reads it.
+At 08:00 on the morning after a member reaches Renown 10 and 6th level, a palace courier brings each eligible member a formal letter on plain paper. Orvane Fentree, a retired trade investigator, died ten days ago, and his private ledger has vanished from his study. Jalester asks the party to find it before anyone else reads it. If the member has not yet held the **Stingblade** meeting with Jalester, the letter waits until the morning after it.
 
 ## Background
 
@@ -35,7 +35,7 @@ Jalester does not brief this task at the well table, because Laeral's chancery a
 
 ## The Study and the Leads
 
-The party searches Fentree's study on Brasswick Lane and finds the empty fourth slot and a copper button. Three leads each name the Green Dragon Inn, and they are the button, the neighbour Orlass Hemmet and a money-changer named Dessa Voll. A failed check costs an hour and never closes the other two. A member with the Stingblade rank can also read the Watch's death report for nothing. Pravin Cloth, the innkeeper, confirms the rooms and the hour of each meeting.
+The party searches Fentree's study on Brasswick Lane and finds the empty fourth slot and a copper button. Three leads each name the Green Dragon Inn, and they are the button, the neighbour Orlass Hemmet and a money-changer named Dessa Voll. A failed check costs an hour and never closes the other two. A member for whom **Stingblade Reached** is marked can also read the Watch's death report for nothing. Pravin Cloth, the innkeeper, confirms the rooms and the hour of each meeting.
 
 ## The Green Dragon
 

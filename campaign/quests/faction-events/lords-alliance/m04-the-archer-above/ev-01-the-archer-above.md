@@ -132,7 +132,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 >
 > - **Across the street:** The feed store's top shutter stands open at a fixed angle that lets a man see the street without being seen. A window left that way on purpose confirms the building.
 
-A member who has already reached **Stingblade** can instead read the Watch's Archer case file in one hour. The file gives the same three killings by heavy crossbow, the shot angles and the north window, and it serves as a free fourth lead.
+A member for whom **Stingblade Reached** is marked can instead read the Watch's Archer case file in one hour. The file gives the same three killings by heavy crossbow, the shot angles and the north window, and it serves as a free fourth lead.
 
 ### Yander's Feed Store
 
@@ -235,7 +235,6 @@ If the track reaches 6, Vhaspar spends the night in a smokehouse on the quay, be
 
 - **The Linen Merchant's canvass:** The shopkeepers on the quay say a grey-haired man bought two loaves and a jug before closing. A character who asks along the quay and makes a successful **DC 12 Intelligence (Investigation)** check is sent to the smokehouse.
 - **Saeth Cromley:** He names the smokehouse from the Watch's old list of places where a man can hide a bow case, and a character who asks him needs no check.
-- **The Archer case file:** The file lists the quay rooftops in range of the three shot lines and gives the smokehouse in an hour. A member with **Stingblade** can read it.
 
 Halek's cleaners reach Vhaspar within 48 hours of the chase. A party that arrives after that finds him dead and the room empty, so **Halek Farran Named** is never marked and Halek leaves Waterdeep.
 
@@ -307,7 +306,7 @@ Vhaspar's coat and bow case hold a sketch of a Dock Ward longshoreman with his n
 > - **The check:** A character who studies the hand and the wording and makes a successful **DC 15 Intelligence (Arcana or Investigation)** check places "...ilanter" as the Cassalanter name. The phrase "side entrance gate" is operational wording that someone wrote for use.
 > - **Vhaspar:** A character who asks about the second contract and makes a successful **DC 12 Charisma (Persuasion)** check hears that Halek called it "the family's side gate". Vhaspar adds that he took the ink for the Cassalanter name.
 > - **Saeth Cromley:** A character who shows him the scrap hears that the Watch posts a guard at the Cassalanter villa's service gate. Every sergeant in the Sea Ward knows it, and Saeth adds that the household is generous and well liked.
-> - **On a failure:** The scrap stays unplaced, and the other ways stay open. A member with **Stingblade** can also read the Watch's household inquiries file, which holds three closed inquiries against one Sea Ward house and no suspicion.
+> - **On a failure:** The scrap stays unplaced, and the other ways stay open. A member for whom **Stingblade Reached** is marked can also read the Watch's household inquiries file, which holds three closed inquiries against one Sea Ward house and no suspicion.
 
 > [!exploration]**The Fourth Name**
 >
@@ -364,7 +363,7 @@ If a member named the scrap here instead of at the handover, mark **Villa Addres
 >
 > Jalester takes the scrap from the evidence envelope and turns it over. He puts it down and writes the address in the notebook.
 >
-> > "I should have caught this myself, and I did not. I will ask the Watch's Criminal Intelligence office to look at it discreetly. A note signed J.S. will reach Trollskull Manor in ten days with what they find."
+> > "I should have caught this myself, and I did not. I will ask the Watch's Criminal Intelligence office to look at it discreetly. Come back to my table in ten days, and I will have what they found."
 
 If **Halek Farran Named** is marked, read or paraphrase the following:
 

@@ -6,7 +6,7 @@ No source text exists for this mission. Appendix B and Appendix C stop at the fo
 
 ## What Changed
 
-The first draft opened with three checks in a row. The rewrite splits the mission at the change of place and clock. **The Missing Volume** is the investigation, with three independent leads to the Green Dragon and a free fourth for a Stingblade member. **The Green Dragon** is the evening at the inn, with a bell clock, three approaches and one fight.
+The first draft opened with three checks in a row. The rewrite splits the mission at the change of place and clock. **The Missing Volume** is the investigation, with three independent leads to the Green Dragon and a free fourth for a member with **Stingblade Reached** marked. **The Green Dragon** is the evening at the inn, with a bell clock, three approaches and one fight.
 
 Jalester writes the first task as a letter, which is the mission's deliberate break from his in-person contact. Laeral's chancery wanted the instruction filed. The courier carries written questions and answers, so the brief still has a social block and replies. His deadline is the last bell of the second evening, and **Suspension and Dismissal** reads it.
 
@@ -30,8 +30,6 @@ The following are new and have no Notable Figures pages:
 
 Items for the out-of-scope log:
 
-- The Archer Above ends with the Renown 8 gate for this mission, and the gate is now Renown 10.
 - Noska Ur'gray's Notable Figures page lists this mission, and he no longer appears in it. Dagult Neverember's page lists it too, though he never appears.
-- **Escalation to the Open Lord** (lines 31 and 69) must read **Ledger Delivered**, and it says Jalester "has read Fentree's notes".
 - The guide hook and the Vault of Dragons structure document use "Vault district" and "Mission 5" and must read the new outcome names.
 - Laeral is a human in Dragon Heist and a moon elf on her Notable Figures page, and this mission does not resolve it.
