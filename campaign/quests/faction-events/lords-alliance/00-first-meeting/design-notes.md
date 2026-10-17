@@ -19,6 +19,7 @@ The earlier draft cited the Candle Lane warehouse as a Xanathar Guild scene. The
 ## Invented Names and Open Items
 
 - The folder adds no named NPC to the campaign roster.
+- The summons is an unnamed Watch runner (a Commoner in a plain tabard) with a card folded in thirds and sealed in grey wax. Jalester pays him a silver to wait for no reply, and later Lords' Alliance events reuse the runner and the wax.
 - Invented details: Durnan's notes behind the bar (the drop at the Portal, which r03, r10 and r25 should use) and the three-day muster.
 - Further invented details: the minor-infraction list, the "which door" and "back door" questions and the manor-damp check.
 - Jalester's mention of Luskan's bid for a seat uses the public fact in the Factions Guide.
