@@ -795,3 +795,67 @@ Accept or replace.
 - **M5:** Sevrin Garrow, Piet Lorn, Odda Fenn.
 - **r25:** Sarna Dath.
 - **r50:** Sorrel Hartwick.
+
+## Lords' Alliance event rewrite (Session 44)
+
+All 13 Lords' Alliance folders were rewritten on the DR/BD/Harper/FG/EE model, from the first-commit drafts (extracted to the scratchpad, not restored in place). Merged in PRs #134–#149, with fixes from the consistency rulings after. The binding documents are:
+- `docs/plans/lords-alliance-plan.md`;
+- `docs/plans/lords-alliance-conversion-brief.md`;
+- `docs/plans/lords-alliance-mechanics-reference.md`;
+- `docs/plans/lords-alliance-consistency-rulings.md`.
+
+The companion pages are fixed in this session's companion pass: the Factions Guide `03`, the organization page `02`, the Notable Figures pages for Jalester, Laeral, Esloon, Noska and Dagult, Laeral's voice entry, the Players' and GM Guide rank rows, Trollskull `ev-04`, `trollskull-manor/02-operating-costs.md` and `08-notable-patrons.md`, and the Harper M6 reader line for **Laeral Told of Jalester**. The items below are outside contradictions left unedited.
+
+### 1. Structure docs (for when each quest is converted)
+- **Faction Outposts (arc-e)**
+  - :371 has Jalester offer "retroactive legal cover" and read Manshoon intelligence before the gate.
+  - It should read **Leak Closed**, **Berna Trusts the Party**, **Harko Taken Alive**, **Terasse Cipher Taken** (a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane), **Splinter Deal Scuttled**, **Sarvos Captured** and **Esloon Question Delivered**.
+  - :87 places Savra's checkpoint strike near the Trades Ward; M3 puts the checkpoint on Fillet Lane in the Dock Ward.
+- **Xanathar's Lair (arc-f)**
+  - :55-63 has no sewer entry beside Ott's route to X15, so **Herath's Note Received** needs a landing.
+  - :295 should read **Ledger Sold to the Guild** if the lair has not run.
+- **Cassalanter Villa (arc-g)**
+  - :28 and :533 call the dossier "Mission 4's Aftermath" with an Arc label.
+  - It should read **Halek Farran Named**, **Villa Address Identified**, **Ledger Sold to the Cassalanters** and **Emira Identified**, each "if the villa has not run". Halek and Emira are hired agents, not household staff.
+- **Kolat Towers (arc-i)**: M6's Q3 table reads the **Manshoon operational?** result and the Blackmail Ledger. The conversion must publish both as named outcomes. :247 names Mirt as a Masked Lord in the ledger; no LA speaker says so.
+- **Vault of Dragons (arc-j)**
+  - :45, :83, :166 and :170 read the Writ in old terms ("if the Manshoon leverage offer was accepted", "Vault district").
+  - It must read **Writ Issued**, with M6 design notes' "If Not Run" default for three-heist parties: a lesser Watch letter, up to an hour of questioning at the gate, no Watch action, not valid for Oath-Release, no Splinter leverage, and Jalester keeps his table, so the feed stays open.
+  - It should also read **Splinter Offer Declined** / **Splinter Offer Taken**, **Laeral Doubts the Party**, **Laeral Told of Jalester** / **Jalester Concealed**, **Ledger Delivered**, **Ledger Sold to the Guild** / **to the Cassalanters** and **LA Dismissed**.
+  - :254 has Jalester ask for "an accounting"; it should branch on **Jalester Concealed**.
+  - The Vault must keep M6's Masked Lord's Writ and r25's Masked Lord request as separate benefits.
+- **Dungeon of the Mad Mage**: reads **Lioncrown Reached** and **Undermountain Commission Accepted**. The r25 Veterans never descend into Undermountain, and r50's attaché cannot send word from below.
+
+### 2. Other factions' finished events
+- **BD `m03-three-nights/ev-01-three-nights.md:226`** and **DR `s01-davils-arrest/ev-01-davils-arrest.md:162, :239`** test "Renown 3 or higher", not **Redknife Reached**. A member marked **LA Suspended** or **LA Dismissed** should fail both. BD :226's round-five patrol is r03's Manor Beat; DR :239 is r03's "A Word to a Sergeant" (a sergeant or lower).
+- **Emerald Enclave `r50-master-of-the-wild/design-notes.md:27`** says Lioncrown still uses the True/False form of **Undermountain Commission Accepted**; the rewrite removed it.
+- **DR M6 design notes** refer to Ziraj's freedom; LA M4 keeps Ziraj untouched (Vhaspar Coldwater is the archer).
+
+### 3. Act I–II and setting
+- **Gralhund Villa `ev-01-what-the-factions-say.md:91`** still writes **Jalester Brief Received: True / False**.
+- **Finding Floon**: the Skewered Dragon is Splinter ground; LA M3 now treats it so. The Watch report on Candle Lane that Jalester cites in the First Meeting is not written by any Finding Floon outcome.
+- **Laeral's species**: moon elf on her Notable Figures page, human in WDH. Not resolved.
+- **Jalester's age**: middle-aged in Appendix B, mid-twenties in WDH. The pages follow his Notable Figures page.
+- **Saeth Cromley's page** (`city-officials/03-saeth-cromley.md`) carries the 2014 "Veteran" block.
+- **Guide 10** (`10-manshoons-zhentarim.md:7-13`) uses lowercase "thugs"; a 2024 naming pass is due.
+- **Appendix C :455** cites a "Stagger Saving Throw" the 2024 Carrion Crawler does not have.
+
+### 4. Decisions and readings to confirm
+- **Esloon at three characters**: a lone full Mage is 134% (Crushing) on the plain table. As written he withdraws at the end of round 2. The alternative is a round-1 withdrawal.
+- **M2's "goes loud" cost** spends the member's Cloak overlook and Redknife String-Pulling for a tenday (two if Lira was threatened).
+- **r25's private audience** is a Read or a Ruling (invented, distinct from Harper Wise Owl).
+- **r03's Manor Beat** and **A Word to a Sergeant** (invented to keep BD and DR valid).
+- **M6's Strategic Argument DCs** and the **Vajra Briefed** easing of Q2.
+
+### 5. Invented names to accept or replace
+- 00: Durnan's drop "for Silvermane's friends", the grey-wax card and the runner.
+- M1: Mareva Coile, Delvon Harsk, Hadrin Wenlow, Bremma Dunnet, Cass Fildura, Pirn, Tallowmere Street.
+- M2: Marit Oake, Halvard Teague, Ibb Marsh, Rannick Lane, Mudwagon Court, the Tarred Rope.
+- M3: Rovan Skell, Dunmar Crale, Cutter, Tam Ferrow, Yarra Moss, Sergeant Deneth Pike, Fillet Lane.
+- M4: Vhaspar Coldwater, Hollen Brask, the quay smokehouse.
+- M5: Ossery Klenn, Tamsin Rook, Dessa Voll, Hallan Roke, Brasswick Lane, Cellar Walk.
+- M6: Sergeant Maelis Venning, Watchman Jorin Larkin.
+- r03: Odette Brandle (9 Quillmakers' Court), Garrick Tull (14 Ironwick Lane).
+- r10: Clerk-Sergeant Ottel Raske, Benn Hallow, Tilda Frayne, and introductions Brightwater, Hobb, Dray and Ostler.
+- r50: Telsa Corlis.
+- The "Ha-" cluster (Halek, Hallan, Halvard, Harko, Harsk, Hadrin, Hollen, Hemmet, Hallow) is easy to confuse at the table.

@@ -7,7 +7,7 @@
 > - Read Jalester's formal letter and send questions back to him by the courier, who returns with his written answers within the hour.
 > - Search Orvane Fentree's study on Brasswick Lane and find the empty fourth slot and a copper button.
 > - Follow three independent leads to the Green Dragon Inn, which are the button, the neighbour Orlass Hemmet and the money-changer Dessa Voll.
-> - Read the Watch's death report for nothing, if a member holds the Stingblade rank.
+> - Read the Watch's death report for nothing, if **Stingblade Reached** is marked for a member.
 > - Learn the rooms and the hours of the meetings from Pravin Cloth, the innkeeper.
 >
 > Only Lords' Alliance members receive Jalester's letter, and their companions can help with everything else.
@@ -22,7 +22,7 @@
 
 ### The Brief
 
-Jalester writes this task and does not speak it, because Laeral's chancery asked that the instruction be filed with her office. Tamsin Rook is a courier in the plain grey coat of the palace chancery. She knocks at Trollskull Manor at 08:00 on the morning after a member reaches Renown 10 and 6th level. She gives a sealed copy to each Lords' Alliance member and then waits in the taproom to carry questions to Jalester. Companions may listen, though the letter names the members only.
+Jalester writes this task and does not speak it, because Laeral's chancery asked that the instruction be filed with her office. Tamsin Rook is a courier in the plain grey coat of the palace chancery. She knocks at Trollskull Manor at 08:00 on the morning after a member reaches Renown 10 and 6th level. If the member has not yet held the **Stingblade** meeting with Jalester, the letter waits until the morning after it. She gives a sealed copy to each Lords' Alliance member and then waits in the taproom to carry questions to Jalester. Companions may listen, though the letter names the members only.
 
 > [!readaloud]
 >
@@ -69,7 +69,7 @@ Each reply below arrives on a half-sheet. Hand it to the table or read it aloud.
 
 > [!gamemaster]**The Deadline**
 >
-> The deadline is the last bell on the evening after the letter arrives. A member who refuses the task, or who sends no word and makes no report by the last bell, is a case for **Suspension and Dismissal**. A party that works honestly and does not find the ledger costs nothing, and Jalester says so at the table. A character who answers the letter's question with a yes has Advantage on the check in **Lead Three**. A Guild Artisan or a Merchant counts as a yes.
+> The deadline for the report is the last bell on the evening after the letter arrives, which is the evening after the bidding at the Green Dragon. A member who refuses the task, or who sends no word and makes no report by the last bell, is a case for **Suspension and Dismissal**. A party that works honestly and does not find the ledger costs nothing, and Jalester says so at the table. A character who answers the letter's question with a yes has Advantage on the check in **Lead Three**. A Guild Artisan or a Merchant counts as a yes.
 
 ### Three Ways to the Green Dragon
 
@@ -114,7 +114,7 @@ When a character wins her trust, read or paraphrase the following:
 
 > [!exploration]**Lead Four: The Watch Report**
 >
-> A member who holds the Stingblade rank can read the Watch's report on Fentree's death in one hour with no check. It says "natural causes" and carries a clerk's note that the study had been searched. It also lists a copper button stamped with a coiled dragon as unclaimed property, which points the reader to the Green Dragon.
+> A member for whom **Stingblade Reached** is marked can read the Watch's report on Fentree's death in one hour with no check. It says "natural causes" and carries a clerk's note that the study had been searched. It also lists a copper button stamped with a coiled dragon as unclaimed property, which points the reader to the Green Dragon.
 
 ### The Booking
 

@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 8 and 5th level, after **The Red Wizard's Price**. Companions can help with everything except Jalester's brief and debrief, which only members attend.
+> Becomes available when an individual Lords' Alliance member reaches Renown 8 and 5th level, after **The Red Wizard's Price**. Companions can help with everything except Jalester's brief and debrief, which only members attend. A member marked **LA Suspended** receives no Brief until **LA Reinstated** is marked.
 >
 > #### Difficulty
 > *An adventure for 5th-level characters.*
@@ -35,7 +35,7 @@ Jalester briefs the members at the well table in the evening, while the companio
 
 ## Three Ways to Pell Street
 
-The party has a district and no door. Three independent leads each name Yander's Feed Store on Pell Street. They are a linen merchant on Tarnath Street, the retired sergeant Saeth Cromley and the angles of the three shots on Jalester's map. A member who has reached **Stingblade** has a fourth lead in the Watch's case file.
+The party has a district and no door. Three independent leads each name Yander's Feed Store on Pell Street. They are a linen merchant on Tarnath Street, the retired sergeant Saeth Cromley and the angles of the three shots on Jalester's map. A member for whom **Stingblade Reached** is marked has a fourth lead in the Watch's case file.
 
 ## Yander's Feed Store and the Room
 

@@ -343,7 +343,7 @@ Jalester's report ends the mission, and the four outcomes below are read by late
 
 > [!gamemaster]**Next Steps**
 >
-> **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. If the ledger was sold, Laeral's summons follows **LA Grand Game Escalated** or Renown 13, and this faction mission awards no Milestone Points.
+> **An Audience with the Open Lord** becomes available when an individual Lords' Alliance member reaches Renown 13 and 7th level, after **Kolat Towers**. If the ledger was sold, Laeral's summons comes at Renown 13 and 7th level after **Kolat Towers**, whether or not **Escalation to the Open Lord** has run. This faction mission awards no Milestone Points.
 
 ## Overview
 

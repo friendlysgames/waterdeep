@@ -11,7 +11,7 @@
 > - Tell Laeral about Jalester, if anyone present learned the name from Mirt.
 > - Report to Jalester at the well, or to Sevel Dastar if Laeral takes Jalester off duty.
 >
-> Only Lords' Alliance members take that report and earn Renown. Companions attend the audience and appear on the Writ. A dismissed member (**LA Dismissed**) receives no summons.
+> Only Lords' Alliance members take that report and earn Renown. Companions attend the audience and appear on the Writ. A dismissed member (**LA Dismissed**) receives no summons and is left off the Writ. A suspended member (**LA Suspended**) is not summoned either, but may attend as a companion and is named on the Writ like any character present.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -116,6 +116,8 @@ If **Vajra Briefed** is marked for any character in the room, read or paraphrase
 > - **Ledger Delivered:** she knows the gold sits in a vault in Waterdeep and that Dunberton Holdings paid a custodian from it. She has not learned who holds the Stone.
 > - **LA Grand Game Escalated:** she knows the Stone has resurfaced in the city and that two villain factions are confirmed.
 > - **Vajra Briefed** for a character in the room: she holds the Guild line and the Splinter line of Question Two, and that question adjusts for it.
+> - **Esloon Question Delivered:** Jalester passed Esloon Bezant's question to her, and it lies on her desk with the letters. She answers it in one line during Question Three.
+> - **Warduke Reached** for a member: Laeral has already met that member. She greets them by name and skips her introduction.
 > - None of these marked: this is her first full briefing, and she asks each question exactly as written.
 > - Her opening line changes with the state, and nothing else about the audience does.
 
@@ -243,11 +245,16 @@ After a pause, she adds:
 >
 > > "Do not tell me what you think I want to hear. I have enough of that."
 
+If **Esloon Question Delivered** is marked, Laeral answers Esloon's question in one line before the party argues. Read or paraphrase the following:
+
+> [!readaloud]
+>
+> > "A man named Esloon Bezant asked whether anyone has a better offer for him than the Splinter's. The Alliance may make one, and I will not stand in its way."
+
 > [!gamemaster]**What the Offer Is Worth**
 >
 > The offer is the same in every case, and its value changes with the state of **Kolat Towers**. Laeral says what it is worth if the party asks.
 >
-> - **Kolat Towers has not run:** the offer is live, and the Splinter counts as Alive for every purpose below.
 > - **Manshoon operational? Alive or Simulacrum Only:** the offer is live, and the leverage is real.
 > - **Manshoon operational? Destroyed:** the offer comes from the Splinter's survivors, who can still delay the Watch but hold no list worth exposing.
 > - **Blackmail Ledger delivered to Laeral:** she already holds five names, and the argument below is easier by 2.
@@ -287,7 +294,7 @@ If Laeral accepts the offer, read or paraphrase the following, and mark **Splint
 > [!gamemaster]**What the Offer Changes**
 >
 > - **Splinter Offer Declined:** the Splinter has no leverage at **Vault of Dragons**, and it cannot delay the Watch or threaten an exposure through Laeral.
-> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered. **Manshoon operational?** must also be Alive or Simulacrum Only, or **Kolat Towers** must not have run.
+> - **Splinter Offer Taken:** at the Vault the Splinter can delay Watch cooperation by up to two hours. It can also threaten to expose one Masked Lord, but only if the Blackmail Ledger was not delivered. **Manshoon operational?** must also be Alive or Simulacrum Only.
 > - **After the Vault:** a declined offer sends the whole gold to the treasury, and an accepted offer sends a fifth of what remains to the Splinter's agents instead.
 
 ### The Writ
@@ -372,11 +379,11 @@ If **Laeral Told of Jalester** is marked, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, well away from the well, with a tankard of small beer and a folded paper in front of him. He is a human in a plain coat. He nods to the chair across from him without getting up, and then he reads the Writ's terms in a flat voice.
+> The table Sevel Dastar has taken stands under the stairs, well away from the well, with a tankard of small beer and a folded paper in front of him. He is a middle-aged human in a plain brown coat. He nods to the chair across from him without getting up, and then he reads the Writ's terms in a flat voice.
 
 > [!gamemaster]**If Sevel Is the Handler**
 >
-> Sevel gives every fact below in his own plain words and signs any note "S.D." He asks no closing question, and nothing said at his table reaches the well.
+> Sevel Dastar (Neutral, Human, he/him, **Spy**) is plain and dry, and he may swear lightly. Sevel gives every fact below in his own plain words and signs any note "S.D." He asks no closing question, and nothing said at his table reaches the well.
 
 If **Splinter Offer Declined** is marked, Jalester or Sevel says the following:
 
@@ -416,7 +423,7 @@ Jalester closes his report with a question. If the members told him of Laeral's 
 
 Laeral has what she needs for the Vault whatever the answers were. If the offer was declined she sleeps easier. If it was taken she has accepted a risk and will not say so aloud. If a lie was detected she remembers it and says nothing. The Writ does not change.
 
-If the party told her about Jalester, he sits at a palace desk with a pen and a ledger and learns why that same night. He takes it as an order and not a punishment, and Sevel Dastar is at the Portal from the next evening. If the party stayed silent, Jalester keeps his table by the well and the leak continues.
+If the party told her about Jalester, he sits at a palace desk with a pen and a ledger and learns why that same night. He takes it as an order and not a punishment, and Sevel Dastar is at the Portal from tonight. If the party stayed silent, Jalester keeps his table by the well and the leak continues.
 
 The Writ itself is a single sheet of vellum with a silver-hand seal, and Laeral keeps a copy in the palace chancery.
 

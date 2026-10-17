@@ -27,7 +27,7 @@ The Splinter has no leverage over the Watch, and Jalester delivers no terms. He 
 ## Invented Names and Open Items
 
 - Sergeant Maelis Venning and Watchman Jorin Larkin, the officers at the door.
-- Sevel Dastar has no Notable Figures page or voice profile, so he has no social block and is a human in a plain coat, as in **Redknife**.
+- Sevel Dastar has no Notable Figures page or voice profile, so he has no social block and is a middle-aged human in a plain brown coat, as in **Redknife**, and carries the "(Neutral, Human, he/him) … Spy" label used everywhere else.
 - Laeral's Notable Figures page says moon elf, while Waterdeep: Dragon Heist has her human. This mission follows the page and does not resolve the clash.
 - Laeral's detection rule leans on the Archmage block, which the mechanics reference did not re-verify.
 - The Vault page calls the cordon "the Vault district gate", which is not a Dragon Heist term.
