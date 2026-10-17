@@ -1,11 +1,10 @@
 # Esloon Bezant
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
-> - *Human mage (Red Wizard exile), neutral*. Stat block: **Mage**.
+> - *Thayan human Red Wizard exile, Neutral, he/him*. Stat block: **Mage** (CR 6), unmodified.
 > - **Affiliation:** Independent (ally)
-> - **Featured in:** **Lords' Alliance Mission 2 — The Exile's Return**, **Lords' Alliance Mission 3 — The Red Wizard's Price**
+> - **Featured in:** **The Red Wizard's Price**
 
 ## Roleplaying Information
 
@@ -19,11 +18,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Esloon is a tattooed Thayan expatriate who takes fee-for-service magical work and does not discuss his past. To those who work with him, he is direct and reliable: he delivers what was agreed and expects the same. Deep down, he left Thay because the Lich Lord's methods finally exceeded his tolerance, and he finds people who assume that makes him safe considerably more dangerous than the ones who assume it does not.
+**Persona.** To the world, Esloon is a tattooed Thayan expatriate who takes fee-for-service magical work and does not discuss his past. To those who work with him, he is direct and reliable: he delivers what was agreed and expects the same. Deep down, he is weighing the Splinter's offer because it is the only serious one he has had. He never says why he left Thay, and a careless mention of it turns him cold.
 
 **Morale.** In a fight, Esloon concentrates on the largest threat, fights without wasted movement, and withdraws if the situation becomes irrational. He does not take fights he calculates to be unwinnable.
 
-**Relationships.** Esloon is a freelance Red Wizard operating out of the Dock Ward, a Lords' Alliance mission three contact (they want him detained, not recruited, though he carries useful intelligence either way), and an independent operator whose fee is always stated before work begins.
+**Relationships.** Esloon is a freelance Red Wizard who has worked out of the Dock Ward for five years, selling escorts and protection with a crew of five **Tough** fighters. In **The Red Wizard's Price** the Alliance may hand him to the Watch, turn him, break up his meeting with the Splinter's broker, or take the broker instead. His fee is always stated before work begins.
 
 ## Overview
 

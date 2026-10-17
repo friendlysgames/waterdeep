@@ -1,11 +1,10 @@
 # Dagult Neverember
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Illuskan human noble, lawful neutral*. Stat block: **Noble**.
 > - **Affiliation:** Independent (adversary)
-> - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Vault of Dragons**, **The Stone's Other Master**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Gralhund Villa (location)**, **Zhentarim Warehouse**, **Cassalanter Villa (location)**
+> - **Featured in:** **Finding Floon**, **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Vault of Dragons**, **The Stone's Other Master**, **Gralhund Villa (location)**, **Zhentarim Warehouse**, **Cassalanter Villa (location)**
 
 ## Roleplaying Information
 

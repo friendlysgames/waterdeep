@@ -12,7 +12,7 @@ Esloon uses the full 2024 **Mage** and fights alone at every size, with safeguar
 
 ## Departures from the Source
 
-Esloon is Neutral, as his Notable Figures page has him, and not Lawful Evil. He never says why he left Thay, so the monologue in the source is cut and only the question remains. The restored draft's failed coup and four years in the city are gone, and the page's five years stand. The Thayan file from **The Exile's Return** now reduces the DC of one check by 2 and unlocks the Watch route, in place of the old locating bonus. The bribe is paid from the party's own purse, because the Alliance pays in support and not in coin.
+Esloon is Neutral, as his Notable Figures page has him, and not Lawful Evil. He never says why he left Thay, so the monologue in the source is cut and only the question remains. The restored draft's failed coup and four years in the city are gone, and the page's five years stand. The Thayan file from **The Exile's Return** now reduces the DC of one check by 2 and makes the Watch route automatic, in place of the old locating bonus. Without it, the route needs a DC 15 Charisma (Persuasion) check with the sergeant. The bribe is paid from the party's own purse, because the Alliance pays in support and not in coin.
 
 ## Invented Names and Open Items
 

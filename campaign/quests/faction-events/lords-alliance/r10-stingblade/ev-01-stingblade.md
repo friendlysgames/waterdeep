@@ -53,7 +53,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a short list lying open. He is a human in a plain coat, and he nods to the chair across from him without getting up.
+> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a short list lying open. He is the man in the plain brown coat from your last meeting, and he nods to the chair across from him without getting up.
 >
 > > "My name is Dastar. Silvermane is elsewhere for now, so I'm handling his people, and I'll handle you the way he would. You're a Stingblade, which opens three things, and I'll take them in order."
 
@@ -121,7 +121,7 @@ Jalester starts with the introductions, and the table is still the well table, s
 >
 > - **Magistrate Barnibus Blastwind**, a magistrate of the Watchful Order of Magists and Protectors, receives the member at the Hall of Justice. He gives a half-hour hearing, reads one document or one piece of physical evidence, and says in writing whether it would stand before a magistrate.
 > - **Lord Torlyn Wands**, a wizard of House Wands, receives the member at his rooms. He writes a letter of standing in the Wands name, and it opens one noble door: a dinner, a servants' entrance or a steward's ear.
-> - **Saeth Cromley**, a retired Watch sergeant with a network in the Dock Ward, receives the member at a table at the Yawning Portal. He names a former watchman in any one ward whom the member chooses, and that man talks about the ward's recent trouble for an hour.
+> - **Saeth Cromley**, a retired Watch sergeant with a network in the Dock Ward, sits in the Hall of Justice sergeants' room in the afternoons and receives the member there. He names a former watchman in any one ward whom the member chooses, and that man talks about the ward's recent trouble for an hour.
 > - **Valetta**, a priest of Gond at the House of Inspired Hands, receives the member at the House. She examines one device or mechanism, or repairs one, within 3 days, and she works on no magic items.
 > - **Factor Tessaly Brightwater**, a factor of the Caravan Court, receives the member at her counting-house. She opens one shipment manifest, which shows the cargo, the consignee and the route for the last tenday.
 > - **Guildmaster Piers Hobb**, who leads the Dock Ward haulers' guild, receives the member at the guildhouse on the quay. He gives one favor: he holds a cart, a wagon or a quay hand for one day, or he tells what moved at night.
@@ -225,7 +225,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 > - **Standard, missing persons ledger:** names, the last known place and the date reported.
 > - **Standard, patrol rotations:** one ward's three daily patrol windows, listed by street.
 > - **Standard, the archer case file:** three killings by heavy crossbow, with the shot angles and a note on a north-facing window.
-> - **Standard, the Fentree death report:** a finding of natural causes, and a clerk's note that the study had been searched.
+> - **Standard, the Fentree death report:** a finding of natural causes, a clerk's note that the study had been searched, and a copper button listed as unclaimed property.
 > - **Classified, the Splinter inquiry file:** an unsolved report of unusual cart and carriage traffic at a Trades Ward safe house. It names nobody, and it calls the people involved "the Splinter".
 > - **Classified, Xanathar's Guild informant file:** a Castle Ward rowhouse with stretchers carried in at night, two sworn complaints and no arrests.
 > - **Classified, the household inquiries file:** three closed inquiries against one Sea Ward house, which are a missing servant, a debt dispute and a noise complaint. All were dismissed.
@@ -237,7 +237,7 @@ Jalester takes a moment with the third benefit, and the table is still the well 
 > The archer case file and the Fentree death report are free leads and never the answer. They sit beside the three leads that **The Archer Above** and **Fentree's Ledger** already give, and a member who skips them loses nothing.
 >
 > - **The archer case file:** it shows where the shots came from and that one window faced north. It gives a fourth lead toward the Pell Street room, and it names no street number, no landlord and no suspect. Once **The Archer Above** is complete, the file is marked closed and gives nothing new.
-> - **The Fentree death report:** it records a natural death, then the clerk's margin note. A money-changer in the Caravan Court reported fresh coin from a woman who gave the Green Dragon Inn as her lodging. The note gives the inn and nothing else, with no room, hour, buyer or description of what she carries.
+> - **The Fentree death report:** it records a natural death and a clerk's note that the study had been searched. It also lists a copper button stamped with a coiled dragon as unclaimed property, which points the reader to the Green Dragon Inn. The report gives the inn and nothing else, with no room, hour, buyer or description of what the woman carries.
 
 > [!qna]**Which file should I start with?**
 >

@@ -22,4 +22,4 @@ Invented:
 The collision check for the four surnames from the mechanics reference was not run.
 
 For the out-of-scope log:
-- The Fentree report's margin note names the Green Dragon Inn as a lodging, and **Fentree's Ledger** should accept that as a free lead before its own three. Barnibus, Torlyn, Saeth and Valetta are not voiced here, since the Event ends at the table.
+- The Fentree report lists the copper button stamped with a coiled dragon as unclaimed property, as **Fentree's Ledger** does, and that points to the Green Dragon Inn as a free lead beside the mission's own three. Barnibus, Torlyn, Saeth and Valetta are not voiced here, since the Event ends at the table.

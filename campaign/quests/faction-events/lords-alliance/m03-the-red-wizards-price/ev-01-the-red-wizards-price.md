@@ -20,7 +20,7 @@
 > - Jalester heard of the meeting from a Dock Ward informant. He knows the tavern, the night and the name Holvar, and he does not know the room, the hour or the checkpoint.
 > - The Skewered Dragon belongs to the Splinter, as the party may remember from **Finding Floon**. Its landlord, Rovan Skell, helps nobody, and any question about the Holvar booking in the taproom reaches Sarvos before he arrives.
 > - Jalester sends no Guards, asks for no string-pulling and wants the Alliance's name kept out of every Watch report. Nothing in this Event depends on a rank benefit.
-> - Nobody in this Event names the Splinter's master. Jalester, Sarvos and Esloon say "the Splinter", "the other cell" or "my principal". Jalester holds that line even for a member who has **Manshoon Named** marked.
+> - Jalester says "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener, and "Manshoon's cell" after that. Sarvos and Esloon say "the Splinter" or "my principal" and never name him.
 
 ### The Brief
 
@@ -31,6 +31,8 @@ Jalester reaches Trollskull Manor at noon and speaks to the members in the tapro
 > The taproom of Trollskull Manor is empty at noon, with stools upturned on the tables while the floor dries. Jalester Silvermane steps in from the alley with his notebook open in one hand, and he waves away the chair you offer.
 >
 > > "Thank you, but I can't stay. The Splinter, the Black Network's other cell and not Davil's people, is courting a Red Wizard named Esloon Bezant. He meets their broker tonight at the Skewered Dragon, in a room booked under the name Holvar. I think they want his crew for something I can't yet see. I need that deal dead before the two of them shake hands tonight, and I need it done so that nothing traces back to us. Can you manage both?"
+
+For a member who has **Manshoon Named** marked, Jalester says "Manshoon's cell" in place of "the Splinter" in this speech and in every later line of this Event.
 
 > [!social]**The Man Who Will Not Sit**
 >
@@ -73,7 +75,7 @@ Jalester reaches Trollskull Manor at noon and speaks to the members in the tapro
 >
 > > "Tomorrow evening at my table by the well, whatever the result. If it fails, I would rather hear it plainly than hear it late."
 
-If **Thayan File Obtained** is marked, Jalester hands the members a sealed folder before he leaves. Read or paraphrase the following:
+If **Thayan File Obtained** is marked, Jalester hands the members a sealed folder before he leaves. Without it, he has no folder to give, and a released Harko gave the Watch nothing to compile. Read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -83,7 +85,7 @@ If **Thayan File Obtained** is marked, Jalester hands the members a sealed folde
 
 > [!gamemaster]**The Thayan File**
 >
-> The folder holds the sealed Watch file on Esloon from **The Exile's Return**: his arrival in Waterdeep, his associates and the Thayan embassy's old interest in him. It makes **Hand Esloon to the Watch** possible, and it lowers the DC of one check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
+> The folder holds the sealed Hall of Justice file on Esloon, compiled from the Watch's questioning of Harko: his associates and the Thayan embassy's interest in him. It makes **Hand Esloon to the Watch** automatic, and it lowers the DC of one other check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
 
 When the members agree, Jalester writes the hour in his notebook, says "Understood." and leaves for the alley, and the afternoon belongs to the party. A member who refuses the brief, or abandons it past the handshake without trying anything, is what **Suspension and Dismissal** reads. A member who tries and fails has done what the brief asked.
 
@@ -102,7 +104,7 @@ Jalester has the tavern and the name Holvar and nothing else. The meeting starts
 
 > [!exploration]**The Pot-Boy on Dock Lane**
 >
-> Tam Ferrow, a boy of about eleven, empties slops at the kitchen door through the afternoon, and he sells what he has seen for 5 sp. A character who pays him, or who carries buckets with him and makes a successful **DC 12 Charisma (Persuasion)** check, hears three things. The back room is laid for two at seven bells, and Rovan told the cook to keep the passage clear. A lean man with a signet ring also walked the passage at midday and tried the Dock Lane bolt.
+> Tam Ferrow, a boy of about eleven, empties slops at the kitchen door through the afternoon, and he sells what he has seen for 5 sp. A character who pays him, or who carries buckets with him and makes a successful **DC 12 Charisma (Persuasion)** check, hears three things. The back room is laid for two at seven bells, and Rovan told the cook to keep the passage clear. A thin man with ink-stained fingers also walked the passage at midday and tried the Dock Lane bolt.
 >
 > - **On a failure:** Tam shrugs and goes inside, and the same character can pay the 5 sp instead and gets the same answer.
 
@@ -168,7 +170,7 @@ Read the following aloud when the party first enters the back room:
 
 > [!readaloud]
 >
-> The back room holds a single table laid for two, with one lamp on a bracket above it. A compact man with a shaved head sits with his back to the wall, and faded tattoos run from his scalp down behind his ears. Across from him a lean man with a signet ring stops talking and lays one hand on a folded paper. The man with the shaved head looks at each of you in turn.
+> The back room holds a single table laid for two, with one lamp on a bracket above it. A compact man with a shaved head sits with his back to the wall, and faded tattoos run from his scalp down behind his ears. Across from him a thin man with ink-stained fingers stops talking and lays one hand on a folded paper. The man with the shaved head looks at each of you in turn.
 >
 > > "You have come to the wrong room, and you are interrupting a negotiation. State your business, and I will tell you what it will cost you."
 
@@ -248,13 +250,14 @@ The spellbook holds the spells in the **Mage** stat block, and a wizard in the p
 
 ### Hand Esloon to the Watch
 
-Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. This approach needs **Thayan File Obtained**, because the sealed Watch file is the only paper that gives Pike a reason to hold Esloon. Without the file, Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
+Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. With **Thayan File Obtained**, this approach is automatic, because the sealed Hall of Justice file gives Pike a reason to hold Esloon. Without the file, a character must win Pike over with a check.
 
 > [!exploration]**The Sergeant and the File**
 >
-> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character who reaches him a little after seven bells, while he is still on the corner, must make him hurry. That takes a **DC 14 Charisma (Persuasion)** check.
+> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character with no file makes a **DC 15 Charisma (Persuasion)** check to persuade him that a Thayan exile meeting a Splinter broker is worth holding, and on a success he acts in the same way.
 >
-> - **On a failure:** The patrol reaches the back room at half past seven, as the handshake happens. The deal concludes, and Esloon is detained anyway.
+> - **On a failure:** Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
+> - **A late approach:** A party that reaches Pike after a quarter past seven, with or without the file, finds the patrol reaching the back room at half past seven, as the handshake happens. The deal concludes, and Esloon is detained anyway.
 > - **Esloon's choice:** He does not run from two Guards and a sergeant holding a file that names his associates. A man the Watch has to hunt cannot stay in Waterdeep, so he asks his question as he is led out.
 
 ### Turn Esloon
@@ -303,7 +306,7 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!social]**The Broker**
 >
-> Sarvos Miln (Neutral, Human, he/him) :: the Splinter's broker, a lean man with a signet ring who prefers to be agreeable and never names his principal.
+> Sarvos Miln (Neutral, Human, he/him) :: the Splinter's broker, a thin man with ink-stained fingers who prefers to be agreeable and never names his principal.
 >
 > Sarvos is polite while he is useful and brisk when he is not. He bargains with whoever holds him, offers a small thing to avoid giving a large one, and swears once or twice when he is caught, but he will not name his principal.
 >
@@ -317,7 +320,7 @@ Sarvos is a broker who avoids a fight, and he surrenders when two armed people s
 
 > [!qna]**Where is the strike?**
 >
-> Sarvos looks at the ring on his hand and then at the door.
+> Sarvos looks at his ink-stained fingers and then at the door.
 >
 > > "I'm a broker, not a soldier, and I don't die for contracts. The strike is on the Watch checkpoint on Fillet Lane, three nights from now. It clears a window for one cart, and the cart goes to Baldur's Gate."
 
@@ -417,7 +420,7 @@ Jalester's report ends the mission, and the three outcomes below are read by lat
 > - **Sarvos Captured** — mark when the party holds Sarvos alive and has the Fillet Lane checkpoint from his coat or his mouth. Read by Jalester's debrief in this Event and by **Faction Outposts** (unconverted), where the checkpoint strike fails.
 > - **Esloon Question Delivered** — mark when a member repeats Esloon's question to Jalester at the debrief. Read by Jalester's reply in this Event, by the Background of **An Audience with the Open Lord** and by **Faction Outposts** (unconverted).
 >
-> This Event also reads **Thayan File Obtained** and **Harko Taken Alive**, which **The Exile's Return** marks. The file comes out of Harko's custody, so the two are marked together.
+> This Event also reads **Thayan File Obtained** and **Harko Taken Alive**, which **The Exile's Return** marks. The file is compiled from Harko's questioning, so **Thayan File Obtained** is marked only when Harko was alive in custody and told his account. A released Harko gives no file.
 
 > [!gamemaster]**Next Steps**
 >
