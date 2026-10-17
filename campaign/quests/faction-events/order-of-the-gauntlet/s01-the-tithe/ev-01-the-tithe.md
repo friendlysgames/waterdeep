@@ -21,15 +21,15 @@ She doesn't accept tea and she doesn't sit. She has one piece of Order business 
 
 She waits for the party's answer. She doesn't add to the speech and she doesn't repeat it.
 
-> [!info]**Worthy Causes**
->
-> Any of the following qualifies. The party may split the tithe across multiple recipients. Savra doesn't rank them.
->
-> - **Temple of Helm (Castle Ward).** Helm's priests run a hospice wing for Watch veterans and their families. Donations go directly to the healing work.
-> - **Halls of Justice, Legal Aid Fund.** Tyr's clergy provide representation for Field Ward residents who cannot afford a hearing before the Lords. The fund is chronically short.
-> - **Field Ward Soup Houses.** Three independent kitchens feed roughly four hundred people a day. All three are underfunded.
-> - **Griffon Cavalry Dependents Fund.** Families of Cavalry riders killed or maimed in service. Savra does not name this one. If the party chooses it, she nods and says nothing further.
-> - **Trollskull Alley Rebuilding.** Residents of the alley are still recovering from damage that happened in the course of the Grand Game. The party knows exactly where the money would go.
+> > [!info]+**Worthy Causes**
+> >
+> > Any of the following qualifies. The party may split the tithe across multiple recipients. Savra doesn't rank them.
+> >
+> > - **Temple of Helm (Castle Ward).** Helm's priests run a hospice wing for Watch veterans and their families. Donations go directly to the healing work.
+> > - **Halls of Justice, Legal Aid Fund.** Tyr's clergy provide representation for Field Ward residents who cannot afford a hearing before the Lords. The fund is chronically short.
+> > - **Field Ward Soup Houses.** Three independent kitchens feed roughly four hundred people a day. All three are underfunded.
+> > - **Griffon Cavalry Dependents Fund.** Families of Cavalry riders killed or maimed in service. Savra does not name this one. If the party chooses it, she nods and says nothing further.
+> > - **Trollskull Alley Rebuilding.** Residents of the alley are still recovering from damage that happened in the course of the Grand Game. The party knows exactly where the money would go.
 
 ### Paying the Tithe
 
@@ -47,9 +47,9 @@ If the party declines, disputes the amount, or proposes keeping the full haul, S
 
 > > "All right."
 
-She leaves, the door closing quietly behind her.
+She leaves. The door closes quietly.
 
-Two days later, a written instruction arrives from the Order's Waterdeep office — not from Savra, in a clerk's hand. It redirects the party to routine field assignments: a harassment complaint in the Field Ward, a patrol coordination request, a witness escort to the Halls of Justice. The work is legitimate. Savra's thread is not among the assignments.
+Two days later, a written instruction arrives from the Order's Waterdeep office — not from Savra, in a clerk's hand. It redirects the party to routine field assignments: a harassment complaint in the Field Ward, a patrol coordination request, a witness escort to the Halls of Justice. The work is legitimate. It is not the work Savra was running.
 
 **Sister Valdra** becomes their contact for day-to-day Order assignments from this point forward. She is professional and does not explain the change. Savra remains reachable — she is still their faction contact — but she doesn't come in person. Written notes only, and only for operational necessity.
 
@@ -59,17 +59,19 @@ The Cassalanter thread, the Order's surveillance resources, and Savra's personal
 >
 > #### Remedying the Reassignment
 >
-> The reassignment isn't permanent. If the party later donates an amount equal to the outstanding tithe (the 25% they declined), Savra appears in person once to acknowledge it. She doesn't make a ceremony of it. She says: *"Thank you"* — two words she almost never uses. Normal operations resume.
+> The reassignment isn't permanent. If the party later donates an amount equal to the outstanding tithe — the 25% they declined — Savra appears in person once to acknowledge it. She doesn't make a ceremony of it. She says: *"Thank you"* — two words she almost never uses. Normal operations resume.
 
 ### Concluding the Event
 
-#### Tithe Paid: True / False
+#### Tithe Paid: True
 
-**True:** The party contributed 25% or more of the recovered haul to a worthy cause. Savra registered the act. Read in **Vault of Dragons** — **The Final Approach**: Savra's willingness to vouch for the party before the Lords depends in part on this record. Her formal testimony, if needed, is unqualified.
+The party contributed 25% or more of the recovered haul to a worthy cause. Savra registered the act. Read in **Vault of Dragons** — **The Final Approach**: Savra's willingness to vouch for the party before the Lords depends in part on this record. Her formal testimony, if needed, is unqualified.
 
-**False:** The party declined or paid less than 25%. The shortfall is recorded. Read in **Vault of Dragons** — **The Final Approach**: Savra's cooperation at the Vault is conditional. She does not actively obstruct, but she does not go out of her way.
+#### Tithe Paid: False
 
-#### Quietly Reassigned: True / False
+The party declined or paid less than 25%. The shortfall is recorded. Read in **Vault of Dragons** — **The Final Approach**: Savra's cooperation at the Vault is conditional. She does not actively obstruct, but she does not go out of her way.
+
+#### Quietly Reassigned: True
 
 The party refused the tithe entirely. The Order has reassigned them to routine operations. Read in **Vault of Dragons** — **The Final Approach**: Savra does not appear as an ally. Sister Valdra fulfills any required Order liaison role. Savra's personal testimony is not available.
 
