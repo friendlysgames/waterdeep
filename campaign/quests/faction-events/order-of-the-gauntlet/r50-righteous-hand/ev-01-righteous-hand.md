@@ -13,9 +13,9 @@
 > - After the other witnesses leave, Savra presents the Undermountain Mandate — the senior council's decision to extend the Order's formal authority underground. The character chooses whether to accept it.
 > - One binary flag set: **Undermountain Mandate Accepted**.
 >
-> > [!design]**Expected in Dungeon of the Mad Mage**
-> >
-> > Parties are not expected to reach Renown 50 with the Order of the Gauntlet during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after sustained service in Undermountain. It can run before or after **Vault of Dragons**; if **Vault of Dragons** has already resolved, see the note in the Concluding section.
+> > > [!design]**Expected in Dungeon of the Mad Mage**
+> > >
+> > > Parties are not expected to reach Renown 50 with the Order of the Gauntlet during Dragon Heist. This event is expected to fire during Dungeon of the Mad Mage, after sustained service in Undermountain. It can run before or after **Vault of Dragons**; if **Vault of Dragons** has already resolved, see the note in the Concluding section.
 
 **Background (DM only)**
 
@@ -25,7 +25,7 @@ The Undermountain Mandate came from two tendays of debate. The question was whet
 
 ### The Summons
 
-The note arrives at Trollskull Manor three days before the ceremony. Savra's economical, slightly left-slanting hand on paper bearing the full Halls of Justice seal.
+The note arrives at Trollskull Manor three days before the ceremony. Savra's hand — the same economical, slightly left-slanting script the character has seen before — on paper bearing the full Halls of Justice seal.
 
 *Halls of Justice. Main hall. [Date]. First bell past midday. Dress accordingly.*
 
@@ -35,7 +35,7 @@ The note arrives at Trollskull Manor three days before the ceremony. Savra's eco
 
 The main hall holds sixty people at capacity. Today it holds the party, Savra, six senior Order members including Sister Valdra, and two priests of Tyr in full vestments standing to either side of the high altar.
 
-The Order members stand without speaking. They have operated alongside people who did what this character has done, and they know what the work costs. Something older than ceremony holds them still.
+The Order members stand without speaking. They have operated alongside people who did what this character has done, and they know what the work costs. There is no ceremony in how they stand. There is something older than ceremony in it.
 
 Savra stands before the altar.
 
@@ -77,13 +77,13 @@ He signs the record. Savra witnesses it.
 >
 > #### The Resurrection Record
 >
-> The pledge covers one Resurrection (5th-level spell, 2024 rules). It applies to the character who received the Righteous Hand investiture, or to one named ally of that character's designation; the designation can be made at any time after this event, before the need arises. The Order covers the 1,000 gp material component cost. The pledge fires once.
+> The pledge covers one Resurrection (5th-level spell, 2024 rules). It applies to the character who received the Righteous Hand investiture, or to one named ally of that character's designation — the designation can be made at any time after this event, before the need arises. The Order covers the 1,000 gp material component cost. The pledge fires once.
 
 **The weapon.** Nothing new — the *+1 weapon* from Vindicator is already in the character's hands. Savra names, now, where it came from.
 
 > > "It was recovered from a devil's effects. Not its original owner — the devil took it from someone. We took it from the devil." A pause. "You've carried it longer than anyone else who's had it. I thought you should know."
 
-She says this without inflection — a fact she judged worth sharing.
+She says this without inflection. It is a fact she judged worth sharing.
 
 ### The Mandate
 
@@ -153,7 +153,6 @@ The Order of the Gauntlet assembled its senior members at the Halls of Justice t
 
 ## Read Aloud
 
-> [!narrative]
 > The hall is stone-still, six Order members and two priests standing in silence on either side of the altar. Sister Valdra is at the end of the line.
 >
 > Savra draws her sword and holds it flat across both hands.
