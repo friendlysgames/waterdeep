@@ -39,6 +39,10 @@ A member marked **LA Suspended** gets no note. When **LA Reinstated** is marked 
 > - String-pulling works because Jalester's seal makes a sergeant pause. It removes the paper and leaves the deed, so a victim who complains again is heard in the ordinary way.
 > - Nobody in this Event can name the master of the Splinter. If a player raises him, Jalester gives the answer in **If a Player Raises Manshoon** in the **Lords' Alliance First Meeting**.
 
+> [!gamemaster]**Not on Alliance Missions**
+>
+> The Watch Escort and String-Pulling are never used on a Lords' Alliance mission that Jalester has assigned. Jalester refuses the request and gives that reason, and nothing is spent. The whistle and the Manor Beat still apply, because they answer danger to the member and not the errand.
+
 ### Naming the Rank
 
 If Jalester is receiving the member, read the following aloud:
@@ -53,7 +57,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a folded paper and a tin whistle on a cord. He is a human in a plain coat, and he nods to the chair across from him without getting up.
+> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a folded paper and a tin whistle on a cord. He is a middle-aged human in a plain brown coat, and he nods to the chair across from him without getting up.
 >
 > > "My name is Dastar. Silvermane is elsewhere for now, so I'm handling his people, and I'll handle you the way he would. You're a Redknife, which means three things change, and I'll go through them in order."
 
@@ -110,7 +114,7 @@ Jalester starts with the escort, and the table is still the well table, so **Bes
 > - **Notice:** the request must be left at least 24 hours before the hour named. Jalester's reply is waiting at the bar within twelve hours, signed "J.S.", and it either confirms the meeting place or gives a reason for refusing.
 > - **The errand:** one dangerous errand inside the walls of Waterdeep. Examples are carrying coin or evidence through a rough ward, guarding a witness or standing watch at a meeting. It must be work the Watch could do officially. It must also finish within twelve hours of the hour named.
 > - **The escort:** two **Guards** meet the member at the named place and stay until the errand ends or twelve hours pass. They defend themselves and the member, start no fights, chase no one and take any prisoner to the nearest Watch house. They are never counted as combatants in an encounter.
-> - **Refused errands:** Undermountain, anywhere outside the city walls, and anything that needs a crime. Jalester refuses these in his reply, and nothing is spent.
+> - **Refused errands:** Undermountain, anywhere outside the city walls, anything that needs a crime, and any errand that belongs to a mission Jalester has assigned. Jalester refuses these in his reply, and nothing is spent.
 > - **Limit:** one errand per member each tenday, counted from the day of that member's last escort.
 > - **Who else:** companions walk with the member and the Guards, but a companion cannot ask for an escort. Jalester ignores a request made in the member's name by anyone else.
 > - **Loss rule:** a member who orders the Guards to break the law or to leave the errand loses the escort for a tenday. The Guards leave at once when the order is given. Their sergeant files a report.
@@ -204,7 +208,7 @@ Jalester saves this for last, and the table is still the well table, so **Beside
 > - **Contact:** the member asks Jalester at the table in the evening, or leaves a note at the Portal's drop. The request names the ward, the date, the officer and what the charge or report says.
 > - **Delay:** Jalester's note is waiting at the bar by the next evening, and it reads "Done" or gives a reason for refusing. A charge he removes counts as never written by the next noon.
 > - **What it covers:** one charge or one report that names the member, of a kind the Cloak overlook lists. Those are brawling without grievous injury, an unlicensed weapon carried openly, trespass without theft and a breach of the peace. It also covers a fine of 25 gp or less.
-> - **What it never covers:** theft, a killing, damage to Watch property, anything done to an officer, or a matter already before a magistrate. Jalester gives his reason before the use is spent.
+> - **What it never covers:** theft, a killing, damage to Watch property, anything done to an officer, a matter already before a magistrate, or any trouble that comes from a mission Jalester has assigned. Jalester gives his reason before the use is spent.
 > - **Limit:** one string per member each tenday, counted from the day of that member's last string, and a refusal spends nothing.
 > - **Who else:** the member only. A charge against a companion is not covered, and Jalester says so.
 > - **Loss rule:** a member who lies to Jalester about the facts loses the benefit for a tenday. A member who uses a string to cover an offence off the list loses it for a tenday as well.
