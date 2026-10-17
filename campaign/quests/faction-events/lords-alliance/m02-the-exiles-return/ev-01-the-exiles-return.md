@@ -32,7 +32,7 @@ A Watch runner reaches Trollskull Manor at 09:00 on the morning after the member
 >
 > > Come to the upper room of the glover's shop on Rannick Lane in the Castle Ward at 20:00 tonight. Come on foot, bring no companions and burn this card. J.S.
 
-The glover's shop is closed, its lower door is unlocked and a narrow stair leads to the room above. If a member has **Leak Closed** marked, Jalester opens with a word of thanks for the Muleskull work before he gives the order. Read the following aloud when the last member has shut the door:
+The glover's shop is closed, its lower door is unlocked and a narrow stair leads to the room above. Read the following aloud when the last member has shut the door:
 
 > [!readaloud]
 >
@@ -42,7 +42,7 @@ The glover's shop is closed, its lower door is unlocked and a narrow stair leads
 >
 > He opens the notebook to a blank page, looks up and waits for the last of you to find a place to stand.
 >
-> > "Find him and quietly put him to the sword. You have until dawn after the third night, because after that his kenku are in the crews and he can't be reached. Quietly."
+> > "Find him and quietly put him to the sword. You have the next three nights, because after that his kenku are in the crews and he can't be reached. Quietly."
 
 > [!social]**The Agent in the Upper Room**
 >
@@ -444,7 +444,7 @@ If a member names Veralax and the Tarred Rope, read the following aloud:
 >
 > > "A gem merchant who drinks nothing. Understood, and I will have the booth watched, but I will not send anyone in."
 
-If Harko is alive in Watch or Alliance custody and tells his account of the thin man at the Skewered Dragon, mark **Thayan File Obtained**. The Watch's questioners compile that account into a sealed Hall of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read the following aloud:
+If Harko was alive and a member reports what he said about the thin man at the Skewered Dragon, mark **Thayan File Obtained**. If Harko was handed over, the Watch's questioners get the same account, and the file is marked all the same. Read the following aloud:
 
 > [!readaloud]
 >
@@ -510,7 +510,7 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 >
 > - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether a sergeant or the Guards took him. Read by **The Red Wizard's Price**, where the Watch's questioners hold his statement. Also read by **Faction Outposts** (unconverted), where the Guild's crews have lost their kenku recruiter.
 > - **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not. Read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane.
-> - **Thayan File Obtained** — mark when Harko is alive in Watch or Alliance custody and tells his account of the thin man at the back of the Skewered Dragon, so the Watch can compile a sealed Hall of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read by **The Red Wizard's Price**, where the file lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic.
+> - **Thayan File Obtained** — mark when Harko, alive, tells the party or the Watch about the thin man at the back of the Skewered Dragon, and the account reaches Jalester. Read by **The Red Wizard's Price**, where a known face at the Skewered Dragon lowers the DC of one approach by 2.
 
 > [!gamemaster]**Next Steps**
 >

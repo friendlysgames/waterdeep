@@ -16,7 +16,7 @@ Laeral admits her decline here, under user decision 3, and nowhere else. She doe
 
 ## Invented Names and Open Items
 
-Invented: Telsa Corlis, the three unnamed mapmakers, the code phrases "Is the lamp lit?" and "Is the ledger closed?", and the chalked hand-in-a-circle. Also invented are Sevel's brass ring, the once-a-tenday seal and the 3-day writ delay. So are the charge exclusions, the 20 by 16 foot annex with a six-seat table, the 19:00 summons and the Level 3 last dispatch. The handler's acceptance of the Eye of the Spider is invented, and the 3 Renown award is the adventure's own.
+Invented: Telsa Corlis, the three unnamed mapmakers, the code phrases "Is the lamp lit?" and "Is the ledger closed?", and the chalked hand-in-a-circle. Also invented are Sevel's alignment (Lawful Neutral), his brass ring, the once-a-tenday seal and the 3-day writ delay. So are the charge exclusions, the 20 by 16 foot annex with a six-seat table, the 19:00 summons and the Level 3 last dispatch. The handler's acceptance of the Eye of the Spider is invented, and the 3 Renown award is the adventure's own.
 
 Laeral's Notable Figures page says moon elf, while Waterdeep: Dragon Heist has her human. This Event follows the page. The luck blade offered with the Runestone errand is not carried over.
 

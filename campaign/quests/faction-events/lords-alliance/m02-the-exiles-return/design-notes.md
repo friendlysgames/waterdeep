@@ -18,7 +18,7 @@ The surrender at 26 Hit Points is the turn of the mission. Killing, handing over
 
 Appendix C says Harko will not surrender, but the roster design and the brief both depend on his surrender. The fight is in a rope warehouse in Mudwagon Court, behind the Muleskull. That keeps Lira's back door close. The draft's backup location on Wharf Mast Lane is cut.
 
-The draft's "either" order is restored to the sword. The Veralax payoff, a missing Splinter liaison at **Faction Outposts**, is dropped because nothing reads it. The Thayan file is a sealed Hall of Justice file compiled from Harko's questioning, so it is marked only when Harko is alive in Watch or Alliance custody and tells his account. A released Harko gives no file.
+The draft's "either" order is restored to the sword. The Veralax payoff, a missing Splinter liaison at **Faction Outposts**, is dropped because nothing reads it. The Thayan file now comes from Harko's account of the broker and not from a sealed Watch bundle.
 
 ## Invented Names and Open Items
 
@@ -34,7 +34,7 @@ Kylynne Silmerhelve, Veralax and Lira are draft names with no Notable Figures pa
 
 Items for the out-of-scope log:
 
-- The Esloon Bezant page lists him as featured in this mission, but this Event never names him. The file that Harko's questioning yields reaches him only in **The Red Wizard's Price**, and the listing belongs there.
+- The Esloon Bezant page lists him as featured in this mission, but he appears here only through a file. The listing belongs to **The Red Wizard's Price**.
 - **Faction Outposts** (unconverted) must read **Terasse Cipher Taken** as a fourth path to the eastern staircase on Elsambul's Lane. It must also read **Harko Taken Alive** for the Guild's Dock Ward crews.
 - Silmerhelve is also a Waterdhavian noble name, and the draft's use of it for a magistrate is kept.
 - The mechanics reference lists no Overlook or String-Pulling cost, so the "job went loud" rule is this event's own. The Redknife event and the First Meeting should read it as a use of the once-per-tenday limits.
