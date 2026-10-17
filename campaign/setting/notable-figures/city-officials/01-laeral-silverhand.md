@@ -1,11 +1,10 @@
 # Laeral Silverhand
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Moon elf archmage, chaotic good*. Stat block: **Archmage**.
 > - **Affiliation:** City of Waterdeep
-> - **Featured in:** **Fireball!**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Lords' Alliance Mission 3 — The Red Wizard's Price**, **Lords' Alliance Mission 5 — Fentree's Ledger**, **Lords' Alliance Mission 6 — An Audience with the Open Lord**, **Force Grey Mission 2 — The Dragon in the Harbor**, **Force Grey Mission 6 — Smoke in the Tower**
+> - **Featured in:** **Fireball!**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **The Red Wizard's Price**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Escalation to the Open Lord**, **Warduke**, **Lioncrown**, **Force Grey Mission 2 — The Dragon in the Harbor**, **Force Grey Mission 6 — Smoke in the Tower**
 
 ## Roleplaying Information
 
@@ -19,7 +18,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Laeral Silverhand is the Open Lord of Waterdeep, fifth of the Seven Sisters, a formidable archmage. To those she trusts, she is a woman who took the job because the Masked Lords asked and no one else could hold the city together. Deep down, only Elminster knows the extent of her decline since the Spellplague, and the Blackstaff on Vajra's hip holds the soul of the man she loved.
+**Persona.** To the world, Laeral Silverhand is the Open Lord of Waterdeep, fifth of the Seven Sisters, a formidable archmage. To those she trusts, she is a woman who took the job because the Masked Lords asked and no one else could hold the city together. Deep down, only Elminster knows the extent of her decline since the Spellplague. The one exception is a Lioncrown of the Lords' Alliance, to whom she admits it in private during **Lioncrown**. The Blackstaff on Vajra's hip holds the soul of the man she loved.
 
 **Morale.** In a fight, Laeral would deploy archmage-level magic with centuries of tactical experience. She avoids direct confrontation when possible because every expenditure of power reveals how much she has lost.
 

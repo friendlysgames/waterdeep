@@ -1,34 +1,42 @@
 # The Lords' Alliance
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
-> - **Campaign role:** Player faction — political operatives committed to recovering the 500,000 stolen dragons for Waterdeep's treasury.
-> - **Contacts:** **Jalester Silvermane** (primary); **Laeral Silverhand** (escalation contact — does not deliver missions; reachable through Jalester once PCs have Renown 25+ or the Grand Game reaches a tipping point)
-> - **Mission delivery:** Jalester delivers missions in person, usually at the Yawning Portal or at Trollskull Manor when the matter is sensitive enough for a house call. He is direct, professional, and quietly grieving; his boyfriend Faerrel Dunblade was killed in a street fight a year ago, and he fills the silence with work.
-> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Sea Maidens Faire**, **Vault of Dragons**
+> - **Campaign role:** Player faction. Political operatives committed to recovering the 500,000 stolen dragons for Waterdeep's treasury.
+> - **Contacts:** **Jalester Silvermane** (primary); **Laeral Silverhand** (does not deliver missions; members meet her at **An Audience with the Open Lord** at Renown 13, or at **Warduke** at Renown 25, whichever comes first)
+> - **Mission delivery:** The Alliance contacts members in person at the corner table beside the Yawning Portal's well. A Watch runner carries a card sealed in grey wax to the member's lodging, and Jalester briefs the mission at the table that evening. He is direct and professional. His partner Faerrel Dunblade was killed in a street fight a year ago, and he fills the silence with work.
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Cassalanter Villa**, **Sea Maidens Faire**, **Vault of Dragons**, **Lords' Alliance First Meeting**, **The Long Watch**, **The Exile's Return**, **The Red Wizard's Price**, **The Archer Above**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Suspension and Dismissal**, **Escalation to the Open Lord**, **Redknife**, **Stingblade**, **Warduke**, **Lioncrown**
 
 ## Operations
 
 *"Civilization is the most fragile thing we have built. We will not let it fall."*
 
-The Lords' Alliance is a coalition of rulers and political operatives from Waterdeep and the allied cities of the North — Neverwinter, Baldur's Gate, Silverymoon, and others — united by the conviction that civilization must be actively defended. In Waterdeep, the Alliance functions as a pro-city intelligence and security apparatus, funding field agents who monitor external and internal threats to the city's stability.
+The Lords' Alliance is a coalition of rulers and political operatives from Waterdeep and the allied cities of the North, among them Neverwinter, Baldur's Gate and Silverymoon. They are united by the conviction that civilization must be actively defended. In Waterdeep, the Alliance works as a pro-city intelligence and security apparatus and pays field agents to watch for threats to the city's stability, both outside the walls and within them.
 
-The Alliance's position on the Grand Game is unambiguous: the 500,000 stolen dragons belong to the city. They want the gold recovered and returned. They are also deeply alarmed by Manshoon's activities, which represent an attempt to seize control of Waterdeep's institutions from within. At campaign start, Laeral believes the vault is in Neverwinter and is unaware the Stone has resurfaced — she does not yet know all four villain factions are active. Jalester's Mission 5 (**Fentree's Ledger**) is the mechanism that corrects her intelligence.
+The Alliance's position on the Grand Game is plain: the 500,000 stolen dragons belong to the city, and it wants them recovered and returned. It is also alarmed by the Splinter, whose agents are trying to seize Waterdeep's institutions from within.
 
-The Lords' Alliance is the most demanding faction in terms of professional conduct. Members are expected to behave like agents, not adventurers. Refusing missions has formal consequences — suspension or dismissal.
+The Alliance is the most demanding of the factions in professional conduct. Members are expected to behave like agents and not like adventurers, and a member who refuses a mission or breaks the Alliance's rules can be suspended or dismissed.
 
-**Primary Contact:** Jalester Silvermane — a no-nonsense human field agent who reports directly to Open Lord Laeral Silverhand. Professional, precise, direct. Does not enjoy pleasantries and takes the work seriously.
+Its members are contacted in person. A runner in a plain Watch tabard brings a card sealed with grey wax to the member's lodging, and the card names the corner table beside the well at the Yawning Portal. Jalester takes that table most evenings, and anyone at the Portal's bar can point to it.
 
-**Secondary Contact:** Laeral Silverhand, Open Lord of Waterdeep — reachable only through Jalester, and only once the PCs have earned sufficient standing (Renown 25+) or the Grand Game has escalated to a level she cannot ignore.
+**Primary Contact:** Jalester Silvermane, a Cormyrean field agent who reports directly to Open Lord Laeral Silverhand. He is professional, precise and direct, and he has little patience for pleasantries.
+
+**Secondary Contact:** Laeral Silverhand, Open Lord of Waterdeep. She sends no missions of her own. A member meets her once they have earned the standing, at an audience at Renown 13 or when the member reaches the rank of Warduke at Renown 25, whichever comes first.
 
 ## Key Members
 
-- **Jalester Silvermane** — Cormyrean human field operative; reports directly to Laeral Silverhand; delivers all missions in person. See the **Jalester Silvermane** page in Notable Figures.
+- **Jalester Silvermane** — Cormyrean human field operative who reports to Laeral Silverhand and delivers every mission in person. See the **Jalester Silvermane** page in Notable Figures.
+- **Laeral Silverhand** — Open Lord of Waterdeep and the Alliance's ultimate authority in the city. See the **Laeral Silverhand** page in Notable Figures.
+- **Sevel Dastar** — A middle-aged human in a plain brown coat who serves as the Alliance's contact at the Portal when Jalester cannot be.
 
 ## Grand Game Agenda
 
-Lords' Alliance PCs who bring the Grand Game to Jalester's attention trigger Laeral's direct involvement. Once Laeral is fully aware, she makes recovering the 500,000 dragons a political priority and extends significant resources to PCs who have proven loyal. The Alliance will not let the party keep the gold — but offers extraordinary renown and political capital in exchange for returning it. Characters who pocket the gold and claim ignorance will find Laeral a thorough investigator.
+The Alliance wants the gold home. Members who bring the Grand Game to Jalester's attention draw Laeral's interest, and once she is fully informed she makes the recovery a political priority and gives the party real resources. The Alliance will not let the party keep the gold. In exchange for returning it, it offers renown and political standing that no other patron in the city can match. A character who pockets the gold and claims ignorance will find that Laeral is a thorough investigator.
+
+> [!gamemaster]**What Is Actually True**
+>
+> - At campaign start, Laeral believes the vault is in Neverwinter, and she does not know the Stone has resurfaced or that four villain factions are active. **Fentree's Ledger** corrects her intelligence.
+> - Say "the Splinter" in front of players. Use Manshoon's name only for a member for whom **Manshoon Named** is marked.
 
 ## Cross-References
 

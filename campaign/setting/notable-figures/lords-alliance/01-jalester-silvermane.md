@@ -1,11 +1,10 @@
 # Jalester Silvermane
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Cormyrean human spy, lawful good*. Stat block: **Spy**.
 > - **Affiliation:** Lords' Alliance
-> - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Lords' Alliance Mission 1 — The Long Watch**, **Lords' Alliance Mission 2 — The Exile's Return**, **Lords' Alliance Mission 3 — The Red Wizard's Price**, **Lords' Alliance Mission 4 — The Archer Above**, **Lords' Alliance Mission 5 — Fentree's Ledger**, **Lords' Alliance Mission 6 — An Audience with the Open Lord**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **Force Grey Mission 5 — The Legate's Eyes**
+> - **Featured in:** **Trollskull Alley**, **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, **Kolat Towers**, **Vault of Dragons**, **Lords' Alliance First Meeting**, **The Long Watch**, **The Exile's Return**, **The Red Wizard's Price**, **The Archer Above**, **Fentree's Ledger**, **An Audience with the Open Lord**, **Suspension and Dismissal**, **Escalation to the Open Lord**, **Redknife**, **Stingblade**, **Warduke**, **Lioncrown**, **The Sleeping Asset**, **The Stone's Other Master**, **The Doppelganger Problem**, **Force Grey Mission 5 — The Legate's Eyes**
 
 ## Roleplaying Information
 
@@ -21,7 +20,11 @@
 
 **Persona.** To the world, Jalester is a lean, thinning-haired field agent in a dark doublet who asks questions more specific than casual conversation warrants. To those he trusts, he is direct, disciplined, and quietly grieving a lover named Faerrel Dunblade who died exposing a plot against the government. Deep down, he is lonely and looking for love, but he does not know how to stop working long enough to find it.
 
-**Morale.** In a fight, Jalester would fight with spy's precision: controlled, efficient, no wasted movement. He notes competence gaps privately rather than formally disciplining and gives underperformers harder assignments going forward.
+**Morale.** In a fight, Jalester would fight with spy's precision: controlled, efficient, no wasted movement. He notes competence gaps privately and does not discipline anyone informally. A member who fails him is dealt with through **Suspension and Dismissal**.
+
+> [!gamemaster]**Desk Duty**
+>
+> If Laeral is told that Jalester has been compromised, she may put him on desk duty. Sevel Dastar then takes Jalester's place as the member's handler, as **Escalation to the Open Lord** sets out.
 
 **Relationships.** Jalester is a field operative for Laeral Silverhand, a former member of the Steel Shadows mercenary company (Cormyr), the surviving partner of Faerrel Dunblade, and the Lords' Alliance faction contact who delivers missions in person because he cannot bear to delegate.
 

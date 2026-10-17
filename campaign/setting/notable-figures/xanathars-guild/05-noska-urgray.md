@@ -1,11 +1,10 @@
 # Noska Ur'gray
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
 > - *Shield dwarf enforcer, neutral evil*. Stat block: **Thug (with modifications)**.
 > - **Affiliation:** Xanathar's Guild
-> - **Featured in:** **Xanathar's Lair**, **Lords' Alliance Mission 5 — Fentree's Ledger**
+> - **Featured in:** **Xanathar's Lair**
 
 ## Roleplaying Information
 
