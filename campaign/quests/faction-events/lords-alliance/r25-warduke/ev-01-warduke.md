@@ -57,7 +57,7 @@ If Sevel Dastar is receiving the member, read the following aloud instead:
 
 > [!readaloud]
 >
-> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a small bundle of folded sheets, and he is a human in a plain coat who nods to the chair across from him without getting up.
+> The table Sevel Dastar has taken stands under the stairs, far from the well. A tankard of small beer sits beside a small bundle of folded sheets, and he is the man in the plain brown coat who nods to the chair across from him without getting up.
 >
 > > "My name is Dastar, and Silvermane is elsewhere for now, so I'm handling his people the way he would. You're a Warduke, and three things are mine to give tonight, while she gives the fourth herself in the morning."
 

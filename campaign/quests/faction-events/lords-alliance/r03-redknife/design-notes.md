@@ -19,7 +19,7 @@ Invented:
 - Odette Brandle at 9 Quillmakers' Court, and Garrick Tull at 14 Ironwick Lane.
 - The phrase "Rain by morning".
 - The twelve-hour limits on the errand and on Jalester's reply, and the 25 gp fine ceiling.
-- Sevel Dastar as a human in a plain coat. His Notable Figures page and voice profile do not exist yet, so he has no social block.
+- Sevel Dastar as a middle-aged human in a plain brown coat (Neutral, he/him, **Spy**). His Notable Figures page and voice profile do not exist yet, so he has no social block.
 
 Kolat Towers stands in the Southern Ward, so the Trades Ward house on Ironwick Lane is not near it.
 
