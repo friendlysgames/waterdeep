@@ -22,11 +22,11 @@ Use this table to plan your character. Each faction's contact introduces themsel
 - **Starting Renown.** Your Renown with a faction starts at 0 the moment you join.
 - **Rank thresholds.** Named ranks unlock at Renown 1, 3, 10, 25, and 50. Benefits are cumulative. A character at Renown 10 keeps everything earned at 1 and 3.
 - **Earning Renown.** You earn Renown by completing faction missions and by taking the specific Grand Game actions each faction lists under its own Earning Renown section. No other source awards Renown; general good roleplay earns none on its own.
-- **Losing Renown.** Serious offenses cost 2 Renown each: betraying a mission, harming faction members, or working against the faction's interests. Renown never falls below 0.
-- **Lords' Alliance discipline.** The Lords' Alliance is the only faction that enforces consequences for refusing or failing an assigned mission without compelling reason: formal suspension until reinstated, or outright dismissal.
+- **Losing Renown.** Serious offenses cost 2 Renown each: betraying a mission, harming faction members, or working against the faction's interests. Renown never falls below 0. The Lords' Alliance is the exception: it never lowers Renown and suspends or dismisses a member instead.
+- **Lords' Alliance discipline.** The Lords' Alliance is the only faction that enforces consequences for refusing an assigned mission, or abandoning it past its stated deadline, without compelling reason. An honest attempt that fails costs nothing: formal suspension until reinstated, or outright dismissal.
 
 > [!info]**Renown at a Glance**
-> Starts at 0. Ranks unlock at 1, 3, 10, 25, and 50. Serious offenses cost 2 Renown each; Renown never drops below 0. Only the Lords' Alliance suspends or dismisses members over a refused or failed mission.
+> Starts at 0. Ranks unlock at 1, 3, 10, 25, and 50. Serious offenses cost 2 Renown each, except with the Lords' Alliance, which suspends or dismisses instead; Renown never drops below 0. Only the Lords' Alliance suspends or dismisses members over a refused or abandoned mission; an honest failure costs nothing.
 
 ## Ranks and Benefits
 
@@ -59,11 +59,11 @@ The Alliance rewards intelligence that reaches the right authorities and actions
 
 | Rank | Renown | Benefits |
 |------|--------|---------|
-| **Cloak** | 1 | Recognized operative. Watch officers treat you as a trusted civilian informant; minor legal infractions overlooked once per tenday. |
-| **Redknife** | 3 | Your contact requests a Watch escort of two guards for one dangerous errand per tenday. Access to Alliance safe houses in the Castle and Trades Wards. Minor charges dropped or a Watch report suppressed once per tenday. |
-| **Stingblade** | 10 | Your contact arranges an introduction to one named person in Waterdeep's political or merchant class once per quest. Alliance covers legal costs for one incident per quest: bail, fines, damages. Access to Watch crime reports, witness statements, and active investigation files for any case in the city (classified cases require 4 hours and a DC 12 Charisma check). |
-| **Warduke** | 25 | Private audience with the Open Lord once per quest. Alliance deploys four veterans to assist in one operation per quest. Alliance intelligence shares current estimated locations of major faction response teams, updated every 3 days. Once per quest, a request through your contact results in a Masked Lord using their authority to open a door, seal an investigation, or apply political pressure. |
-| **Lioncrown** | 50 | Full political backing of the Open Lord. One outstanding charge dropped or a wanted status cleared at the Open Lord's authority. A dedicated Alliance attaché with Open Lord authority operates alongside you in the field. The Open Lord answers three direct questions about the Grand Game or Waterdeep's political situation, honestly. |
+| **Cloak** | 1 | Recognized operative. Watch officers treat you as a trusted civilian informant and can overlook one minor infraction once per tenday, such as a brawl or an openly carried unlicensed weapon. Once per tenday you can also ask your contact for the patrol schedule of one ward. |
+| **Redknife** | 3 | Once per tenday, with 24 hours' notice, your contact lends you a Watch Escort of two Guards for one dangerous errand inside the city walls. Once per tenday, a whistle blown on a lit street brings a Watch patrol within a few minutes, with no notice. You hold two Alliance safe houses, one in the Castle Ward and one in the Trades Ward. Once per tenday, String-Pulling makes a minor charge or a Watch report disappear. The escort and String-Pulling never apply to missions the Alliance assigns you. |
+| **Stingblade** | 10 | Once per quest, your contact arranges an introduction to one of eight named people in Waterdeep's political or merchant class. The Alliance pays for one genuine legal incident per quest, covering bail, fines and damages up to 500 gp. You can read the City Watch's files. Standard files take one hour, and classified files take four hours and a DC 12 Charisma (Persuasion) check. |
+| **Warduke** | 25 | Once per quest, four Warrior Veterans from the Watch fight beside you in one operation on the surface. A sheet on the villain factions' response teams waits at the Portal's drop every third day. You can ask the Open Lord for one private audience per quest. Once per quest, a written request through your contact asks a Masked Lord, whom your contact will not name, to open a door, freeze an inquiry or apply political pressure. |
+| **Lioncrown** | 50 | Full political backing of the Open Lord. She clears one outstanding charge or wanted status against your name with her signature. She answers three direct questions about the Grand Game or Waterdeep's political situation, honestly. You may accept an attaché who carries her seal and works beside you in the field. The backing is yours whether or not you take him. |
 
 ### Emerald Enclave
 
