@@ -148,7 +148,7 @@ If Jalester attends, he introduces Sevel Dastar. If **Laeral Told of Jalester** 
 
 > [!social]**The Open Lord's Man**
 >
-> Sevel Dastar (Neutral, Human, he/him, **Spy**) :: a middle-aged human in a plain brown coat, who has carried errands for years.
+> Sevel Dastar (Lawful Neutral, Human, he/him) :: a middle-aged Lords' Alliance field agent in a plain brown coat, who has carried errands for years.
 >
 > Sevel is Friendly and dry, and he speaks in short, practical sentences. He swears lightly when a plan annoys him, and he does not flatter anyone. He tells the member what he will report before he is asked.
 >

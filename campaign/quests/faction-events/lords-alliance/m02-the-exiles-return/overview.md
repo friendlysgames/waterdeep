@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 3 and 3rd level, after **The Long Watch**. Companions can help with everything except Jalester's brief and debrief, which only members attend. A member marked **LA Suspended** receives no Brief until **LA Reinstated** is marked.
+> Becomes available when an individual Lords' Alliance member reaches Renown 3 and 3rd level, after **The Long Watch**. Companions can help with everything except Jalester's brief and debrief, which only members attend.
 >
 > #### Difficulty
 > *An adventure for 3rd-level characters.*
@@ -62,7 +62,7 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 ## Aftermath
 
-**Harko Taken Alive** is read by **The Red Wizard's Price** and by **Faction Outposts** (unconverted). **Terasse Cipher Taken** is read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate. **Thayan File Obtained** is read by **The Red Wizard's Price**, where the sealed Hall of Justice file lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic. It is marked only when Harko is alive in Watch or Alliance custody and tells his account.
+**Harko Taken Alive** is read by **The Red Wizard's Price** and by **Faction Outposts** (unconverted). **Terasse Cipher Taken** is read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate. **Thayan File Obtained** is read by **The Red Wizard's Price**, where it lowers the DC of one approach by 2.
 
 A job that went loud costs each participating member the Overlook and String-Pulling for a tenday or two. **The Red Wizard's Price** becomes available at Renown 5 and 4th level.
 

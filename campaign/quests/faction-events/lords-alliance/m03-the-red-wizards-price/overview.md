@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 5 and 4th level, after **The Exile's Return**. Companions can help with everything except Jalester's brief and debrief, which only members attend. A member marked **LA Suspended** receives no Brief until **LA Reinstated** is marked.
+> Becomes available when an individual Lords' Alliance member reaches Renown 5 and 4th level, after **The Exile's Return**. Companions can help with everything except Jalester's brief and debrief, which only members attend.
 >
 > #### Difficulty
 > *An adventure for 4th-level characters.*
@@ -18,13 +18,13 @@ At noon Jalester Silvermane comes to Trollskull Manor himself and refuses a chai
 
 ## Background
 
-Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Thayan File Obtained** in **The Exile's Return**, Jalester also holds the sealed Hall of Justice file compiled from Harko's questioning. It lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic. Without it, that route needs a **DC 15 Charisma (Persuasion)** check with the sergeant.
+Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Harko Taken Alive** in **The Exile's Return**, Jalester also holds the sealed Watch file that came out of Harko's custody. **Thayan File Obtained** is marked with it.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - Sarvos Miln, the Splinter's broker, offers Esloon 1,000 gp and a standing arrangement. The Splinter means to use the crew once and drop it.
 > - The Skewered Dragon belongs to the Splinter, so the landlord helps nobody and a question about the Holvar booking warns Sarvos.
-> - Jalester sends no Guards and asks for no favors from the Watch. Jalester says "the Splinter" until **Manshoon Named** is marked for the listener, and "Manshoon's cell" after. Sarvos and Esloon never name their principal.
+> - Jalester sends no Guards and asks for no favors from the Watch. Nobody in the Event names the Splinter's master, whether or not **Manshoon Named** is marked.
 > - Esloon is Neutral and has no loyalty to the Splinter, and he will leave it for an offer that looks real.
 
 ## The Brief
@@ -45,7 +45,7 @@ Esloon sits alone with his back to the wall until Sarvos joins him. He names his
 
 ## Four Ways to End It
 
-The party can break up the meeting and fight Esloon, or hand him to a Watch sergeant, which is automatic with the sealed file. It can turn him with a forged letter, a warning or a 500 gp bribe, or take Sarvos on the street or at the Dock Lane door. Esloon withdraws with *Misty Step* and *Invisibility* once he has taken 31 damage or the third round has ended. Taking Sarvos alive also puts the Fillet Lane checkpoint in the party's hands.
+The party can break up the meeting and fight Esloon, or hand him to a Watch sergeant with the sealed file. It can turn him with a forged letter, a warning or a 500 gp bribe, or take Sarvos on the street or at the Dock Lane door. Esloon withdraws with *Misty Step* and *Invisibility* once he has taken 31 damage or the third round has ended. Taking Sarvos alive also puts the Fillet Lane checkpoint in the party's hands.
 
 ## What Esloon Wants
 
@@ -69,7 +69,7 @@ Companions who are not Lords' Alliance members gain no Renown, and each bonus ca
 
 - **Jalester Silvermane** (Lords' Alliance): briefs the members at noon and hears the report at the well table.
 - **Esloon Bezant** (Independent): a Thayan exile and Neutral Mage who weighs the Splinter's offer and asks for another.
-- **Sarvos Miln** (the Splinter): the Splinter's broker, a thin man with ink-stained fingers and no signet ring, a Spy who flees when a fight starts.
+- **Sarvos Miln** (the Splinter): the Splinter's broker, a Spy who flees when a fight starts.
 - **Dunmar Crale** (Independent): the leader of Esloon's crew, who guards the passage to the back room.
 - **Rovan Skell** (the Splinter): the landlord of the Skewered Dragon, who refuses every question.
 - **Cutter** (the Splinter): a Bandit who watches the door and warns Sarvos.

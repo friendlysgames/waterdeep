@@ -389,7 +389,7 @@ The Event concludes when the participating members have reported to Mirt. Record
 > [!gamemaster]**Event Outcomes**
 >
 > - **Stone Study Completed** — mark when the Stone returns from the three-day study; read by **Vault of Dragons** (unconverted), which uses the guardian's oath and the link to Undermountain.
-> - **Jalester Compromise Identified** — mark when a member asks Mirt for the name and he gives it; read by **Vault of Dragons** (unconverted) and by **An Audience with the Open Lord**, whose Jalester Question treats it as a free-text reference.
+> - **Jalester Compromise Identified** — mark when a member asks Mirt for the name and he gives it; read by **Vault of Dragons** (unconverted) and by **An Audience with the Open Lord**, whose Jalester Question fires on it and writes **Laeral Told of Jalester** or **Jalester Concealed**.
 > - **Splinter Sending Stone Recovered** — mark when a member holds Ysolde's sending stone; read by **Vault of Dragons** (unconverted), which decides what the mate's holder knows.
 > - **Stone Taken by Splinter** — mark if the Stone is not in the party's hands when the Event ends; read by **Vault of Dragons** (unconverted).
 

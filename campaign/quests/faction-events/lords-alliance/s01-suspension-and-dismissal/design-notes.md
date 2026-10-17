@@ -31,7 +31,7 @@ Renown is never reduced by this Event, and a dismissed member counts as unaffili
 - **Invented here:** the two-packet errand with its receipts and three-day window, and the second-trigger rule.
 - **Also invented:** the second-dawn rule for hearing of an offense, the two-day grace for a member who could not write, and the line that Jalester has dismissed an agent before.
 - **Borrowed:** Odette Brandle and Garrick Tull come from **Redknife**.
-- **M4 and M5 deadlines:** the trigger table now carries the exact words of **The Archer Above** (the evening of the fourth day) and **Fentree's Ledger** (the last bell on the evening after the letter arrives). If either Brief is reworded, change the matching row.
-- **Escalation to the Open Lord:** route three is settled there, because a suspended member sits as a witness, earns no +2 and is named in Laeral's note.
+- **M4 and M5 deadlines:** **The Archer Above** and **Fentree's Ledger** were unconverted when this was written. Their rows say "the deadline Jalester states", so fill in the exact words when they are done.
+- **Escalation to the Open Lord:** route three needs that Event to let a suspended member sit as a witness, withhold the +2 and name them in Laeral's note.
 - **Renown wording:** `players-guide/faction-affiliations.md` line 25 and `gm-guide/player-factions-overview.md` line 25 say serious offenses cost 2 Renown, which this Event does not do.
-- **Writ:** settled in **An Audience with the Open Lord**, where a suspended member is not summoned but may attend as a companion and is named on the Writ.
+- **Writ:** whether a suspended member is summoned to **An Audience with the Open Lord** is left to that Event.

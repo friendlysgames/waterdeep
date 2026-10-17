@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Quest Requirements**
 >
-> Becomes available when an individual Lords' Alliance member reaches Renown 1 and 2nd level, after **Lords' Alliance First Meeting**. Companions can help with everything except Jalester's brief and debrief, which only members attend. A member marked **LA Suspended** receives no Brief until **LA Reinstated** is marked, and a member marked **LA Dismissed** is left off.
+> Becomes available when an individual Lords' Alliance member reaches Renown 1 and 2nd level, after **Lords' Alliance First Meeting**. Companions can help with everything except Jalester's brief and debrief, which only members attend.
 >
 > #### Difficulty
 > *An adventure for 2nd-level characters.*

@@ -14,7 +14,7 @@ The people who run, police and quietly finance Waterdeep. Each speaks for an ins
 - **Personality in speech:** Weary resolve and calculation. She answers questions with the question behind them. Her concealed decline shows as deflection whenever magic is discussed directly. Her grief for Khelben comes out as silence.
 - **Quirks:** She lets a silence run until the other person fills it. She uses a person's full name when she is displeased. In disguise she overdoes the common accent, badly.
 - **Signature phrases:** "The city comes first." / "Tell me what you're not telling me." / "That will be all."
-- **Never:** She never admits her power is diminished, never begs, and never discusses the Blackstaff's contents.
+- **Never:** She never admits her power is diminished, never begs, and never discusses the Blackstaff's contents. The one exception is **Lioncrown**: alone with the new Lioncrown, after Jalester and Sevel have left the room, she answers honestly that her power is less than her enemies assume and more than her staff knows. She says it once, plainly, and never again.
 - **Sample lines:**
   - *Greeting:* "You're the ones who found the Stone. Sit. I have perhaps ten minutes, and I'd like all of them to be useful."
   - *Business:* "Whoever holds that gold holds the city's future. I would prefer it be no one."
