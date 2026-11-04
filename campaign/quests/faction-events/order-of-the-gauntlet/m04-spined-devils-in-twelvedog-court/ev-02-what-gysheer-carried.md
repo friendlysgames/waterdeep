@@ -27,7 +27,7 @@ Savra takes Gysheer to the Halls of Justice in Castle Ward with her wrists bound
 
 > [!readaloud]
 >
-> The Halls of Justice rise above the Castle Ward streets west of the Market, a long pale building with the Maimed God's scales carved over the doors. A heavyset man in a plain grey surcoat stands beside a bench at the entrance, and a line of petitioners waits along the wall. Savra speaks to him in a low voice, and he rises and holds the inner door open.
+> The Halls of Justice rise above the Castle Ward streets west of the Market, a long pale building with the Maimed God's scales carved over the doors. A line of petitioners waits along the wall, and a heavyset man in a plain grey surcoat sits on a bench at the entrance. Savra speaks to him in a low voice, and he rises and holds the inner door open.
 >
 > > "I am Brother Haldric Wence, door-warden of the Halls, and Savra has the east annex ready for you. Brother Hallin is waiting at the property room with everything she carried."
 
@@ -47,7 +47,7 @@ Savra holds the hearing in a bare room off the east annex at the third bell past
 
 > [!readaloud]
 >
-> The hearing room has a plain table, three stools and a window barred against the street. Gysheer sits very straight with her bound hands in her lap, and she looks at Savra and at nobody else. Sister Ilvane unrolls a scroll, reads three lines in a flat voice and sets it down, and the air in the room feels still and close.
+> The hearing room has a plain table, three stools and a window barred against the street. Gysheer sits very straight with her bound hands in her lap, and she looks at Savra and at nobody else. Sister Ilvane unrolls a scroll and reads three lines in a flat voice. She sets the scroll down, and the air in the room feels still and close.
 >
 > > "The spell is on the room for ten minutes, and you may be silent but you may not lie. The bench will enter your silence in the record as contempt, and the magistrates read that record."
 >
@@ -99,7 +99,7 @@ The property room is a low whitewashed room off the east annex with shelves of l
 
 > [!readaloud]
 >
-> Brother Hallin sets a dark coat, a plain steel knife, a purse and a small iron pendant on the table in a neat row, and he dips his pen and writes without looking up. The back of the pendant is scratched with a tally of fourteen marks, and the knife has a plain black grip.
+> Brother Hallin sets a dark coat, a plain steel knife, a purse and a small iron pendant on the table in a neat row. He dips his pen and writes without looking up, and the back of the pendant is scratched with a tally of fourteen marks.
 >
 > > "Everything she carried, and I have written it down. If you want to look closer, please touch nothing until I have finished the line."
 
@@ -119,9 +119,9 @@ Savra speaks to the members in the east annex once Hallin has closed the ledger.
 
 > [!readaloud]
 >
-> Savra stands by the window with her hands behind her back and the light across her jaw, and she waits until the door is shut before she speaks.
+> Savra stands by the window with her hands behind her back and the light across her jaw. She waits until the door is shut before she speaks.
 >
-> > "I'll tell you plainly where I stand. Devil worship is not a crime in Waterdeep, and I can charge Gysheer only for the court. A name she gave under the spell binds her and nobody else, so I can't go into a man's cellar on it, and no magistrate will sign a warrant for it."
+> > "I'll tell you plainly where I stand. Devil worship is not a crime in Waterdeep, and I can charge Gysheer only for the court. A name she gave under the spell binds her and nobody else, so I can't go into a man's cellar on it."
 >
 > She turns from the window and looks at each of you in turn before she goes on.
 >
@@ -133,11 +133,11 @@ Savra speaks to the members in the east annex once Hallin has closed the ledger.
 
 > [!qna]**Who is V.C.?**
 >
-> > "Initials. I can think of a house those letters fit, and I won't say it on a guess. If a hearing gave you a name, I've heard it, and I have written it down beside the words 'under the spell'."
+> > "Initials. I can think of a house those letters fit, and I won't say it on a guess. If a hearing gave you a name, I've written it down beside the words 'under the spell'."
 
 > [!qna]**What do you want from us?**
 >
-> > "Everything she carried, and anything from her room, laid out in front of me. Don't go to Aveen Street before I've told you how, and if the Watch asks, you saw devils in a court and nothing else."
+> > "Everything she carried, and anything from her room. Don't go to Aveen Street before I've told you how, and if the Watch asks, you saw devils in a court and nothing else."
 
 > [!qna]**What happens to Gysheer?**
 >
@@ -149,7 +149,7 @@ If the party wants the room, it stands on Crispin Street, two blocks from Twelve
 
 > [!readaloud]
 >
-> Crispin Street smells of woad and wet wool, and the dyer's shop at the corner has blue-stained cloth hanging from poles across the front. A stair at the side climbs to a single door on the upper floor, and a broad woman with blue hands looks up from a vat in the yard and wipes them on her apron.
+> Crispin Street smells of woad and wet wool, and the dyer's shop at the corner has blue-stained cloth hanging from poles across the front. A stair at the side climbs to a single door on the upper floor. A broad woman with blue hands looks up from a vat in the yard and wipes them on her apron.
 >
 > > "That's my lodger's room, yes, and she pays a quarter ahead and keeps to herself. If she's in trouble, I'd like to know before the rent falls due."
 
@@ -178,7 +178,7 @@ If the party wants the room, it stands on Crispin Street, two blocks from Twelve
 
 > [!readaloud]
 >
-> The room is small and neat, with a narrow bed, a washstand, a locked chest and a table under the window. A day-book lies open on the table beside a candle stub, and the shelf above it holds a row of black tallow candles still in their paper, so that the air smells of wax and old salt.
+> The room is small and neat, with a narrow bed, a washstand, a locked chest and a table under the window. A day-book lies open on the table beside a candle stub, and the shelf above it holds a row of black tallow candles still in their paper. The air smells of wax and old salt.
 
 > [!exploration]**Searching the Room**
 >
@@ -195,7 +195,7 @@ The members report to Savra in the east annex at dusk on the day after the court
 
 > [!readaloud]
 >
-> The east annex is quiet at dusk, with the last petitioners gone and lamps lit along the wall. Savra sits behind a small table with a notebook open and her coat over the chair, and she looks up when you come in and waits until each of you has sat.
+> The east annex is quiet at dusk, with the last petitioners gone and lamps lit along the wall. Savra sits behind a small table with a notebook open and her coat over the chair. She looks up when you come in and waits until each of you has sat.
 >
 > > "Tell me what you found, in the order you found it. Leave nothing out because you think it makes the work look untidy."
 
@@ -205,7 +205,7 @@ If the members give Savra the sealed note and the receipt, along with any papers
 >
 > Savra reads the note twice and then lays the receipt flat beside it and runs one finger down the list of goods.
 >
-> > "Nine crates of candles, salt, iron and oil, carried to a cellar door on Aveen Street. I asked you what they were moving, and now we know. That is what a place looks like when someone is keeping a rite going. Thank you, because you told me everything and I didn't have to ask."
+> > "Nine crates of candles, salt, iron and oil, carried to a cellar door on Aveen Street. I asked you what they were moving, and now we know. That is what a place looks like when someone is keeping a rite going. Thank you for telling me everything unasked."
 
 If the members report the address but keep the papers, mark **Shrine Address Recovered** only and read or paraphrase the following:
 
@@ -213,7 +213,7 @@ If the members report the address but keep the papers, mark **Shrine Address Rec
 >
 > Savra writes the address in her notebook in her left-slanting hand and looks at you without lowering her pen.
 >
-> > "That's Aveen Street, and you didn't bring the paper. I'll tell you plainly that the address alone is worth less to me than what you're holding. Bring it when you're ready, and I won't ask again."
+> > "That's Aveen Street, and you didn't bring the paper. The address alone is worth less to me than what you're holding. Bring it when you're ready, and I won't ask again."
 
 If the members used the hearing, add the following:
 
@@ -235,9 +235,9 @@ If **Imp Captured** is marked, add the following:
 
 > [!readaloud]
 >
-> She closes the notebook on her thumb and leans back in her chair, and she looks at the lamp for a moment before she speaks.
+> She closes the notebook on her thumb and leans back in her chair. She looks at the lamp for a moment before she speaks.
 >
-> > "The raven you caught is still in the Halls' cells, and it still says nothing. Somebody who can pay for a devil's time watched your door, and somebody who can pay for a flight of devils emptied that court. I don't know if it's one hand or two."
+> > "The raven you caught is still in the Halls' cells, and it still says nothing. Somebody who can pay for a devil's time watched your door, and somebody paid for a flight of them. I don't know if it's one hand or two."
 
 If Gysheer escaped, say the following instead of the line about papers:
 
@@ -249,7 +249,7 @@ If Gysheer escaped, say the following instead of the line about papers:
 
 > [!readaloud]
 >
-> Savra closes the notebook and stands and gives you a single short nod, and when she speaks again her voice is lower.
+> Savra closes the notebook, stands and gives you a single short nod. When she speaks again her voice is lower.
 >
 > > "A note will come from the Halls when the file is ready, and until then you will stay away from Aveen Street. I mean that."
 
