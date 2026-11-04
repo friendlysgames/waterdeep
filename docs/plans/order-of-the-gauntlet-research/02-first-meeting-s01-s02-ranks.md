@@ -211,3 +211,152 @@ R is the original draft (`> **[GM]**`, `**Background (DM only)**`, `[!profile]`,
 
 ### 5d. Scene lists
 **r03 / r10 / r25.** `# Marcheon` etc. Summary (trigger, benefits, companions). `### The Note at Noon` (the contact object and the away-from-Waterdeep rule). `What Is Actually True`. `### Naming the Rank` (Savra social block, qna: what does the rank give me, why is it mine and not the party's). One `[!exploration]` box per benefit. `### Renown Opportunities` ("The rank event awards no Renown"). `### Aftermath`. Concluding with the outcome per name and the "reads" paragraph. Overview. Summary.
+
+---
+
+## 6. s01 The Tithe: standalone event, and suspension or dismissal
+
+### 6a. Facts
+- Sources of the tithe: `3. Player Character Factions.pdf` p.25 ("The Order of the Gauntlet will expect the PCs to tithe at least 25% of the horde": the horde is the vault gold); AB :464 and G05 :46 ("Tithe at least 25% of a major recovered hoard ... +1 ... without prompting"); ORG :17, :28; PG and GMO ("unprompted"). R's 1,000 gp threshold and "first haul" trigger are inventions (R s01 :7).
+- Known early hauls after joining: the Gralhund coach house trade bars, "2,000 gp total" (`locations/gralhund-villa/g03-coach-house.md:13`). The Zhentarim warehouse secret room, 1,050 gp (`locations/zhentarim-warehouse/z03-secret-room.md:17`), comes before any First Meeting. Lair treasure totals are in unconverted structure docs.
+- Only the Lords' Alliance suspends or dismisses: WDH `data/3/entries/4/entries/1` ("A character who belongs to a faction other than the Lords' Alliance can turn down a mission without consequence"); PG Renown section; G01 :11. Serious offenses cost 2 Renown for every faction (PG).
+
+### 6b. Holes in R
+1. Renown for a prompted tithe (C4).
+2. Party-level frame: "the party pays", `Quietly Reassigned` hits the whole party (OOS R3 M), though loot is shared and some players are not Order members.
+3. "Within two days of the windfall becoming known" is a judgment; "unprompted" has no clock.
+4. Reassignment via **Sister Valdra** (C5). "Not formally withdrawn. They stop being offered" (R :56) is the same thing as withdrawn; the list is not written.
+5. Reassignment collides with M4 and M6, where Savra fights beside the party (`m04/overview.md`, `m06/overview.md`), and with M5's Cassalanter ledger, which is the "Cassalanter thread" R says stops being offered.
+6. The Vault of Dragons "Final Approach" does not read these: `arc-j:49` has no tithe reference (grep returns none). The Next Steps claim that the dossier stays "accessible at Renown 10" (R :84) is not read by r10.
+7. The worthy-cause list, the Griffon Cavalry fund (Savra "does not name this one", R :31) and the Trollskull fund are good; the Trollskull option lets the party tithe to itself. Rule it out.
+8. 2024 rule check: none needed; no stat blocks or spells in the file.
+
+### 6c. Recommendations
+1. **Trigger (deterministic).** Fires per Order member when the party carries a haul of **1,000 gp or more** (coin, trade goods, gems at face value; magic items excluded) out of one operation for the first time after that member took the oath. Name the known first cases (Gralhund coach house, 2,000 gp). For a member who joins after a haul, the first haul after joining counts.
+2. **The ask is made of each member's own share.** The haul is divided evenly among the party; the member owes 25% of their own equal share. Example: 2,000 gp, five PCs: 400 gp each, 100 gp tithe per member. Non-members owe nothing and are never pressed. This removes the party-wide lockout (OOS R3 M) and fits the corrected members-only frame.
+3. **The clock.** Savra knocks at dusk on the second day after the haul reaches Waterdeep. A member who shows her a receipt, names a recipient and pays **before that knock** has tithed unprompted and earns **+1 Renown** once. A member who pays after she asks has "earned only the reminder" (ORG :17): no Renown, Savra says "Good." and nothing else. A member who refuses or pays under 25% is *Quietly Reassigned*. Renown is awarded once per member in the campaign ("once in the campaign", FG s01 :261-263); a late sitting for a member who was absent follows FG s01 :265-271.
+4. **Worthy causes.** Keep R :24-32 minus Trollskull Alley Rebuilding. Add that the Order's clerk, not Savra, takes the receipt, to keep her out of the transaction.
+5. **No suspension or dismissal for the Order (D6).** The rule is LA's alone (WDH; PG). The Order's analogue is *Quietly Reassigned*, written as a list, not a punishment:
+   - Savra stops volunteering the *optional* extras to that member: the Marcheon accompaniment (unless the member asks; she then answers in writing in a tenday), the temple briefings' "extra" requests, the r10 surveillance offer, and her Vault testimony.
+   - **Missions still arrive** from Savra, by a clerk's note instead of in person, because M4 to M6 are about devils loose in the Field Ward and she will not hold them back to make a point. In M4 and M6, where Savra fights beside the party, she does so coldly and says only "This isn't about you." (Report 04 must check this against its encounters.)
+   - The contact for the extras is the Order's Waterdeep clerk (invented name, no Valdra).
+   - **Remedy:** the member pays the declined 25% to a worthy cause; Savra appears once and says "Thank you." (R :62). Reassignment ends the next morning.
+   - Reassignment costs no Renown.
+6. **Outcomes (per member name).** `Tithe Paid` (paid unprompted; marks the +1), `Tithe Paid After Asking` (paid late; no Renown; replaces the "False" shortfall wording), `Quietly Reassigned` (refused or underpaid). Clear `Quietly Reassigned` on remedy. Readers: the Vault of Dragons Final Approach (unconverted; for the plan, record that `arc-j:49` must be updated), r03/r10 (the extras), and s01 itself. Drop the Next Steps sentence about the dossier (R :84) and write it in r10.
+7. **Scene list.** Summary (members-only; what happens per member); `What Is Actually True`; `### The Receipt` (the clock); `### The Ask` (R :14-22); `### Worthy Causes`; `### Paying Before She Asks`; `### Paying After`; `### Refusing`; `### Reassigned` (the list in 5); `### Remedy`; Renown Opportunities (+1 once; late sitting adds a name); Aftermath; Concluding; Overview; Summary.
+
+---
+
+## 7. s02 Savra's Past
+
+### 7a. Holes in R
+1. **Trigger A** reads "The party holds OotG Renown 3" (OOS R3 M) and "Savra has fought beside them at least once" (R :9). A member can reach Renown 3 with no Savra accompaniment on record. State both as per-member.
+2. **Trigger B** depends on a Harper (C19). Mirt's intel: "Cassalanter money was behind the Howling Hatred cult three years ago, because the Watch released two of its members after a quiet word from someone at Cassalanter Villa" (`fireball/ev-01:194`). That is a suspicion with a named family, delivered by a Harper to Harpers. When an OotG member says it to Savra, the Event passes the Cassalanter name to a faction that is otherwise not told it (R :37, :79-85 show Savra refusing to name them). Legitimate as suspicion; flag it for the audit.
+3. **The timeline** (C1, C2): the number of years, and "Close to taking the Windcaller's oath". The cult's ranks are invented (WDH only points to *Princes of the Apocalypse*, `data/3/entries/4/entries/9/entries/1/entries/1`; no PotA file is in the sources, so the Windwalker/Windcaller/Feather ranks are unverified).
+4. **Outcome readers are not wired.** `Savra's Past Known` and `Cult Funding Linked` are "read in Cassalanter Villa and Vault of Dragons" (R :103, :111). `arc-g:370-390` and `arc-j:49, :258` do not read them. Record for the unconverted quests.
+5. **The Ask has no table.** "She will know the difference" (R :93) is a judgment. Provide the answers she accepts (hold it, it changes nothing, I don't know) and the one she rejects (evasion) as a fixed list, with her reply to each.
+6. **Members-only.** Savra tells the members present, and companions are told to listen (it is a private confession). Each member present marks the outcome by name.
+7. **No Renown.** R awards none, and G05 :43-48 has no entry for it. Keep none.
+
+### 7b. Recommendations
+- **Trigger A, concrete:** fires for a member at Renown 3 or higher who has seen Savra fight alongside them at least once (M4, or a Marcheon operation). Savra says it at the Halls of Justice east annex after dark, not "wherever she is". She sends no note; she comes to the manor at dusk and asks the member to walk with her (so there is a place and a time).
+- **Trigger B, concrete:** fires at once, in the scene, the first time a member tells Savra that Cassalanter money lay behind the Howling Hatred. Run the abbreviated scene if the member is below Renown 3 (R :125), and the full scene the next time Savra meets that member after Renown 3.
+- **What Is Actually True:** Savra has never traced the funding; she suspects an old family but names none; she never learned if the survivor lived (R :69). The deed is hers to tell; she tells it flat.
+- **The Ask:** a table of answers and replies (R :97), plus the "nod" rule (single nod, given only to the honest ones).
+- **Outcomes:** `Savra's Past Known` per member; `Cult Funding Linked` per member (only Trigger B). Readers named: `Cassalanter Villa`, `Vault of Dragons` (unconverted; the audit must record the lines to add), and r50 (the investiture speech can echo it).
+- **Scene list:** Summary (members-only; triggers); `What Is Actually True`; `### Savra Chooses the Hour`; `### The Howling Hatred` (lore, not read aloud); `### What She Did`; `### The Cult's Money` (Trigger B); `### The Ask`; Renown Opportunities (none); Aftermath; Concluding; Overview; Summary.
+
+---
+
+## 8. r50 Righteous Hand and the Mad Mage set-up
+
+### 8a. Rules and hold
+- **Hold rule (copy LA r50 :19, FG r50 :14-28):** hold until `Vindicator Reached` is marked for the member and the member is on the surface. A written summons cannot reach a member in Undermountain (teleportation and *word of recall* fail below, §5b). The acolyte finds the member at their first surface lodging at noon on the first day above ground, and the investiture is on the third day after (R r50 :7 says "three days in advance"). Several members who surface together attend together.
+- **Chapter and council.** Define in the plan: the Waterdeep chapter keeps at least six Knights and two Priests available for a mobilization; the senior council is in another city (invented), and Savra reports to it by courier. Remove Valdra (C5). The high priest of Tyr is the same cleric who casts the Resurrection (non-combatant, 13th level or higher; invented name).
+- **Resurrection.** A 7th-level spell with a diamond worth 1,000+ gp (XPHB). The pledge funds the diamond and the casting once, for the member or one ally named in writing before the need arises (R r50 :80). Body must reach the Halls of Justice alive-to-be: carried up by stairs, not teleported. Loss rule: if the member's Renown falls below 50 the pledge stays recorded and the Order refuses to fund it until the Renown is restored.
+- **Mobilization (CR 2.0).** Six **Knights** and two **Priests**, one operation per quest, three days' notice (R says "one major operation" at :68 and "one mobilization per significant threat" at :148; pick the former). Fighting allies are one fewer than the PCs, Knights first; Priests do not fight and hold the rear. Knight Power 30 (Tier 2), 25 (Tier 3); Priest Power 23 and 19 (not counted):
+  - Level 9 (49 per PC): Party Power 147 / 196 / 245 -> 207 / 286 / 365 (3 / 4 / 5 PCs; allies 2 / 3 / 4 Knights = 60 / 90 / 120).
+  - Level 10 (53): 159 / 212 / 265 -> 219 / 302 / 385.
+  - Level 11 (62; Tier 3, Knight 25): 186 / 248 / 310 -> 236 / 323 / 410 (allies 50 / 75 / 100).
+  - No High-Power Warning: a Knight (30) is below twice a level-9 PC (98). A party of three fighting beside two Knights gains about 40% Power; rebuild the fight or treat it as a safety net, and say which.
+- **Knighthood.** "Allied temples and civic authorities across the Sword Coast will recognize it" (R :58, kept). Define the effect: a written credential the member can show; Friendly attitude from clergy of the Triad and a Watch captain's hearing; nothing legal in Waterdeep that Vindicator's inquiry does not already give.
+- **The Mandate** (R :88-130). Per member. Accepting is an outcome `Undermountain Mandate Accepted`, kept (no collision now: EE writes `Illuun Watch Accepted`, LA writes `Undermountain Commission Accepted`). Define its effect in one box: one aid call per Undermountain level the member enters, answered by the next Order courier up and down the stairs (no *Sending* from the Order), up to the mobilization already owed. R :148's "one mobilization per significant threat" becomes "one task per level".
+- **Branch on the Vault.** R :142-144 branches on Vault of Dragons resolving. Cut; the other r50s do not read the Vault. Replace with the two Mad Mage seeds below.
+
+### 8b. Mad Mage Seeds (one-line facts, from WDMM; add no others)
+- Level 15, Obstacle Course: the ghost of **Fidelio**, a paladin of Tyr, haunts the level; a follower of Tyr can persuade him to move on with a DC 20 Charisma (Persuasion) check, and a non-follower can pose as one (DC 10 Deception). (`data/15/entries/3/entries/9`.)
+- Level 21, Terminus Level: **Fazrian**, once a planetar of Torm, is corrupted; a character judged innocent can call it to judge itself (DC 26), and its death by its own hand earns Torm's *blessing of protection*. The slain cleric **Brythia Mulspeer** wears Torm's white gauntlet. (`data/21/entries/4/entries/2`, `data/21/entries/5/entries/8/entries/1`, `data/21/entries/5/entries/24/entries/2`.)
+- Level 22, Shadowdusk Hold: **Dezmyr** and **Zalthar Shadowdusk** are former paladins of Torm turned death knights; a Torm shrine with a white gauntlet fresco stands there. (`data/22/entries/2/entries/1/entries/2`, `data/22/entries/5/entries/8`.)
+- Level 23, vaults: a deva named **Aryx**, sent by Tyr to reach Fazrian, is trapped in a shield (`data/23/entries/3/entries/10/entries/2`); a fiend-bound shield hangs in a neighbouring vault.
+- The WDMM has no Order of the Gauntlet. Savra's symbol, the white gauntlet, is Torm's.
+- The transport and *Sending* limits are recorded in the Force Grey r50 and are not repeated.
+
+### 8c. Scene list
+Summary; `### The Note at Noon`; `What Is Actually True`; `### The Hall` (R :34-42); `### The Investiture` (R :44-62); `### The Charge` (Knighthood; Mobilization; Resurrection; the weapon's provenance fixed by C9); `### The Mandate` (accept / decline); Renown Opportunities (none); `### Mad Mage Seeds`; Aftermath; Concluding; Overview; Summary.
+
+---
+
+## 9. Outcomes: what each event reads and writes
+
+| Outcome (R) | Writer | Readers (R states) | Recommendation |
+|---|---|---|---|
+| `Order of the Gauntlet Joined: True / False` (party) | FM :90; also `ev-04:106` | all missions (R :92); s02 | Keep the name. Per candidate name. Delete `ev-04:106`'s heading as LA and EE already did. Late acceptance recorded the same way. Readers: G05 and every OotG event. |
+| `Tithe Paid`, `Quietly Reassigned` (True/False) | s01 :66-76 | Vault Final Approach (no such reader exists) | Per member. Rename as §6c-6: `Tithe Paid`, `Tithe Paid After Asking`, `Quietly Reassigned`. |
+| `Savra's Past Known`, `Cult Funding Linked` (True/False) | s02 :101-115 | Cassalanter Villa, Vault | Per member. Keep names. |
+| `Marcheon Reached` | r03 :55 | r10 | Per name. Track last armory date, last temple briefing date, Savra-accompanied operations per quest. |
+| `Whitehawk Reached` | r10 :89 | r25 | Per name. Track surveillance used per quest, potions used per quest, item chosen. |
+| `Vindicator Reached` | r25 :89 | r50 | Per name. Track inquiry open, Strike Team used per quest. |
+| `Righteous Hand Reached` | **missing** | Mad Mage | Add. Per name. |
+| `Undermountain Mandate Accepted: True / False` | r50 :134 | Mad Mage | Per member. Keep the name. |
+
+All Events should also read `Manshoon Named` and `Jarlaxle Unmasked` (wording gates only), and s01's `Quietly Reassigned` (r03 and r10 extras). One writer per outcome and a named reader, per the Session 44 rule.
+
+---
+
+## 10. Secrecy gates and standing-rule hits
+
+| Rule | Hit | Where | Fix |
+|---|---|---|---|
+| Two Zhentarims | "a Zhentarim-funded brawl" | R FM :86 | "a brawl someone is paying for"; the Splinter is named in M1 as "the other cell" until `Manshoon Named`. |
+| Manshoon gate | None in speech in the seven files; M1's "Manshoon file" is in report 03's scope (OOS m01 R1 V). `arc-e:87`, `arc-i`, `G05 :7` mention Manshoon in GM text. | | Keep all seven free of the name. |
+| Cassalanter secrecy | Savra's FM speech names no family, no pact, no devils (R :40, :48). Clean. | R FM | Keep. Add GM line: a Persuasion success gives only "their charity doesn't trace to any principle" (R :48). |
+| Cassalanter secrecy | The temple briefings ("known fiendish signs"), r10's temple divination and *Detect Evil and Good*, and r10 surveillance could reveal the villa's devils before the party discovers them | R r03 :39; R r10 :81-85, :35 | Fixed exclusions in §5c. Briefings may name general fiendish signs only after M4 (spined devils). |
+| Cassalanter secrecy | The Vindicator inquiry for "diabolism" and "Lord Victoro" | R r25 :35, :45 | Legitimate once M4/M5 evidence exists; the predicate is the ledger. Before then Savra files nothing. |
+| Cassalanter secrecy | s02 "old Waterdhavian ... smiling in temple every Godsday" | R s02 :79-85 | Suspicion only; she names no family. Keep. |
+| Cassalanter secrecy | AB :402, :464 state the family are Asmodeus cultists | AB | Source text; the rule wins. Do not echo. |
+| Members-only briefs | Rank events "rest of the party is present" (R r03 :7); tithe is party-wide (R s01) | | Per-member throughout (§4, §6). |
+| Renown calibration | s01's award is unspecified; s02 awards none | | +1 once, unprompted only; s02 none. No event awards base mission Renown. |
+| "The renown ladder wins" | Rank events grant no Renown and no mission grants rank. | | State "awards no Renown" in each rank event. |
+| Milestone Points | None awarded. | | Every `Next Steps` ends "This Event awards no Milestone Points". |
+| Retired formats | `> **[GM]**`, `[!profile]`, `[!info]`, `[!design]`, `[!lore]`, `#### X: True / False`, `## Read Aloud` | all seven R files | Rewrite into gamemaster/readaloud/social/qna/exploration blocks. |
+| *Wish* / devourer | No *wish*. The intellect devourer is named in FM :38 as a Guild tool. | R FM :38 | If a devourer appears in a scene it is the Occupying Devourer (Harper reference §5). FM only mentions them. |
+| 2024 rules | Resurrection level; Ring of Protection and Bracers of Defense rarity; "week" | §5b | Fixed. |
+| Quests, not arcs | AB "per arc"; R `m05/overview.md` "Arc G" | AB :476-482 | "per quest". |
+| Bregan D'aerthe rejects Lolth | Not engaged. | | n/a |
+| Jarlaxle hidden identity | Not engaged. "the carnival fleet" is the only wording if it comes up | | n/a |
+| Zero-prep | "The GM selects" the item (R r10 :51); "the designation" of the weapon type (R r25 :73); the Strike Team "gives their names" with no names | | Fixed tables; invented names listed in §12. |
+| Savra's nod and swearing | VOICE: stingy, plain, clipped; "Maimed God" | | Keep. Savra uses at most one oath, aimed at wrongdoing. |
+
+---
+
+## 11. Decisions needed (option, recommendation)
+
+- **D1. Who is a candidate.** (a) Every unaffiliated character, nobody tested (LA/EE). (b) Non-evil only (WDH). (c) Class and background only (R). Recommend (a), with WDH's line as `What Is Actually True` and the oath questions as the filter.
+- **D2. Where the oath happens.** (a) At the Halls of Justice, a separate scene; open door. (b) In the same visit (R). Recommend (a).
+- **D3. Refused offers.** (a) Open door, late acceptance recorded the same way (Order wants recruits). (b) Final refusal (LA). Recommend (a); drop R's second approach.
+- **D4. First mission.** (a) Savra briefs M1 at the manor the next morning. (b) She briefs it at the ceremony (WDH). Recommend (a) so the First Meeting hands out no assignment, as in LA/EE.
+- **D5. Renovation help.** (a) 100 gp saving via a guild hall visit (`ev-04`). (b) No money, a passive Watch line (manor guide). Recommend (a) with the passive line also kept.
+- **D6. Suspension and dismissal.** (a) None; Quietly Reassigned as a list (§6c-5). (b) Copy LA s01. Recommend (a): WDH and PG say only the LA suspends.
+- **D7. Tithe frame.** (a) Party-level (R). (b) 25% of each member's own share (recommended). Recommend (b).
+- **D8. Valdra.** (a) Out of all seven events (recommended). (b) Rewrite NF-V and the staff guide so she is an official Order cleric. Recommend (a).
+- **D9. Mad Mage hook.** (a) The Undermountain Mandate as an Order commitment plus WDMM seeds (recommended). (b) Add an invented Order team below. Recommend (a).
+- **D10. Waterdeep chapter.** Define it (Savra, a rotation of Knights, a clerk's office, the Triad clergy) rather than leaving "the only member" and "the chapter" in conflict. Recommend defining it in the plan.
+
+---
+
+## 12. Invented names and open items for the plan
+
+- **Invented in R and kept:** Tobrin (rename; collision with the Xanathar bartender), "Order's Waterdeep office", the Howling Hatred ranks and the tower rite (unverified against PotA), the worthy-cause list, the dossier contents, the "Temple District".
+- **To invent in the rewrite (flag all as invented):** the door-warden at the Halls of Justice; the Order's clerk; the acolyte messenger; the two Vindicator witnesses and three Strike Team Knights; the high priest of Tyr and the senior council's seat; the Torm temple's name; the lay brother who keeps the armory.
+- **Dependencies on files outside this scope (report 05 / other reports):** `ev-04-the-factions-come-calling.md:28, :58, :106` (eligibility, renovation row, True/False heading); `02-operating-costs.md:83`; `03-staff-and-hiring.md:77` (Valdra, "+1 OotG Renown/tenday"); `waterdeep-lore.md:36` (Tyr's temple ward); `arc-f:37`, `arc-g:41`, `arc-i:39`, `arc-j:49, :258` (Savra's support); `arc-j` has no tithe reader; `m01`-`m06` overview gates (C13) and `m02/overview.md` (paper bird); `G05 :7` (Manshoon), `G05 :56` ("years" of observation); `PG`/`GMO` Chevall row (add the Fireball *Speak with Dead* channel and the good word at trial).
+- **Verification still open:** generic +1 weapon and +1 armor rarity (not found in `items.json`); the Howling Hatred's ranks against *Princes of the Apocalypse* (no source file); Tally Fellbranch as the on-site receiver of Savra's note.
