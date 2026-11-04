@@ -2,7 +2,7 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Exploration and Social Event begins on the afternoon of the second day, when a hired coach rolls past Trollskull Manor, and ends at dusk on the third day, when Savra Belabranta takes the members' report. In this Event, the party can:
+> This Exploration and Social Event begins on the afternoon of the second day, when a hired coach rolls past Trollskull Manor. It ends at dusk on the third day, when Savra Belabranta takes the members' report. In this Event, the party can:
 >
 > - Notice the coach and a raven that watch Trollskull Manor.
 > - Work out that the raven is a devil by three independent leads.
@@ -11,14 +11,14 @@
 > - Finish any open lead from **The Black Viper Investigation** before dusk on the third day.
 > - Report to Savra and hear the question she keeps.
 >
-> Only Order of the Gauntlet members attend Savra's debrief. Their companions help with everything else.
+> Only Order of the Gauntlet members attend Savra's debrief, and their companions help with everything else in the Event.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - The raven is an imp in raven form. It is sent to count who comes and goes at Trollskull Manor, and a bond carries what it sees to whoever sent it.
 > - The sender is the same person who sent the secretary. The villa keeps six imps in raven form, and the GM can take this one for the seventh sent out. Nothing the party can learn here proves it, and the imp's body carries no mark.
 > - Nobody in this Event knows whose imp it is. The imp will not say, and Savra's file reads "a devil watched the party's house; the sender is unproven."
-> - The imp does not fight unless it is cornered. It flees when it is seen.
+> - The imp does not fight unless it is cornered, and it flees whenever it is seen.
 > - Nobody in this Event mentions Manshoon.
 
 ### Day Table
@@ -37,15 +37,15 @@
 >
 > Trollskull Alley is quiet this afternoon, with a baker's boy whistling at the far end and washing hung between the upper windows. A hired coach with its blinds drawn rolls up the lane at a walking pace and turns at the end. A few minutes later it comes back the other way, and the driver keeps his eyes on the horses the whole time.
 
-A character who watches the coach and makes a successful **DC 12 Wisdom (Perception)** check sees that the driver never looks at the manor and that the blinds do not move. In a **Calm** state the coach passes once, and in a **Wary** or **Hunting** state it passes twice. The driver was paid in advance by a gloved hand and knows nothing else.
+A character who watches the coach and makes a successful **DC 12 Wisdom (Perception)** check sees that the driver never looks at the manor and that the blinds do not move. In a **Calm** state the coach passes once, and in a **Wary** or **Hunting** state it passes twice. A gloved hand paid the driver in advance, and he knows nothing else.
 
 > [!gamemaster]**How Watchful the Watcher Is**
 >
 > What the party did with the secretary at the Steaming Anchor sets the state. A party that never met her counts as **Wary**.
 >
-> - **Calm** (played along): The raven comes on Night 2 only. A character takes it with a **DC 14** check.
-> - **Wary** (showed the leaf, walked away, or never met her): The raven roosts on both nights. The check is **DC 16**.
-> - **Hunting** (held her): The raven roosts on both nights and flies at the first sound on the roof. The check is **DC 18**.
+> - **Calm** (played along): The raven comes on Night 2 only, and a character takes it with a **DC 14** check.
+> - **Wary** (showed the leaf, walked away, or never met her): The raven roosts on both nights, and the check is **DC 16**.
+> - **Hunting** (held her): The raven roosts on both nights and flies at the first sound on the roof, and the check is **DC 18**.
 
 ### The Raven
 
@@ -53,13 +53,13 @@ A raven sits on the northernmost chimney, beside the turret, from dusk until daw
 
 > [!readaloud]
 >
-> A black bird sits on the northernmost chimney with its head turned toward the manor. When a lamp is lit in a window it follows the light with a slow roll of its neck. It does not preen or feed, and the pigeons on the neighbouring roof have moved to the far end of the ridge.
+> A black bird sits on the northernmost chimney with its head turned toward the manor, and it follows every lamp lit in a window with a slow roll of its neck. It does not preen or feed. The pigeons on the neighbouring roof have moved to the far end of the ridge and watch it from there.
 
 Three leads each show that the raven is not a raven, and any one is enough. A failed check costs the party an hour and never closes another lead.
 
 > [!exploration]**Lead One: The Watcher That Never Rests**
 >
-> A character who watches the chimney for two hours and makes a successful **DC 13 Wisdom (Perception or Survival)** check sees that the bird never feeds, never sleeps and never moves its feet. On a failure, a second attempt after the hour needs no check.
+> A character who watches the chimney for two hours and makes a successful **DC 13 Wisdom (Perception or Survival)** check sees that the bird never feeds, sleeps or shifts its feet. On a failure, a second attempt after an hour needs no check.
 
 > [!exploration]**Lead Two: The Wrong Animal**
 >
@@ -67,14 +67,14 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 
 > [!exploration]**Lead Three: Detect Evil and Good**
 >
-> A character who casts *Detect Evil and Good* while within 30 feet of the chimney senses a Fiend. No check is needed. A priest of Tyr from the Halls of Justice will cast it for a member who asks at the door-warden's desk by noon of the same day.
+> A character who casts *Detect Evil and Good* within 30 feet of the chimney senses a Fiend with no check. A priest of Tyr from the Halls of Justice will cast it for a member who asks at the door-warden's desk by noon of the same day.
 
 ### The Night Clock
 
 > [!gamemaster]**The Chimney Through the Night**
 >
 > - **19:00, dusk:** The raven lands on the northernmost chimney.
-> - **22:00:** The taproom closes and the lamps go out floor by floor. The raven's head follows each one.
+> - **22:00:** The taproom closes and the lamps go out floor by floor, and the raven's head follows each one.
 > - **Midnight:** Every lamp is dark. The raven turns to face the front door and stays there.
 > - **05:00:** In the first grey light it turns its head to the east.
 > - **05:30, dawn:** It opens its wings and drops from the chimney. This is the last moment to take it.
@@ -91,7 +91,7 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 
 > [!hazard]**The Imp Cornered**
 >
-> The raven is an **Imp** in raven form. It flees when it is seen, and it fights only when held. The roster is the same at every party size: one **Imp**. This is a Mild fight with a Day Cost of 2. The **Order of the Gauntlet Mechanics Reference** audits it.
+> The raven is an **Imp** in raven form. It flees when it is seen and fights only when held. The roster is one **Imp** at every party size, which makes a Mild fight with a Day Cost of 2. The **Order of the Gauntlet Mechanics Reference** audits it.
 >
 > #### The Imp's Tactics
 > To begin, the imp tries to slip the Grapple and Shape-Shifts into a spider or a rat if that helps.
@@ -101,7 +101,7 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 > - Casts *Invisibility* on itself only if it gets free. It does so as an action and loses it the moment it attacks.
 > - Flies at 60 feet in raven form if it breaks the Grapple, and does not return that night.
 >
-> The imp yields at 10 hit points or fewer, or when it is sealed in a barrel. It gives up its post rather than die. A party that does not wish to fight can let it go. It flies east, and nobody can follow it across the rooftops.
+> The imp yields at 10 hit points or fewer, or when it is sealed in a barrel, because it gives up its post rather than die. A party that does not wish to fight can let it go, and it flies east where nobody can follow it across the rooftops.
 
 > [!social]**The Raven in the Barrel**
 >
@@ -132,11 +132,11 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 
 ### Renown Opportunities
 
-Savra knocks at dusk on the third day. She meets the members in the taproom corner, and the companions go to the bar. She asks for the account in the order it happened.
+Savra knocks at dusk on the third day and meets the members in the taproom corner while the companions go to the bar. She asks for the account in the order it happened.
 
 > [!readaloud]
 >
-> Savra stands in the doorway with the evening light behind her and waits until each member has sat. She takes the chair across from you and lays her gloves on the table.
+> Savra stands in the doorway with the evening light behind her and waits until each member has sat. Then she takes the chair across from you, lays her gloves on the table and looks at each of you in turn.
 >
 > > "I'll hear it from the beginning, and in order. Start with the Wazoo, and leave nothing out because you think it makes you look careless."
 
