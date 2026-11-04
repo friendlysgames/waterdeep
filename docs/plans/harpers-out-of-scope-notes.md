@@ -759,7 +759,6 @@ The items below are outside contradictions left unedited.
 
 ### 3. Other faction events
 - **Lords' Alliance `r50-lioncrown/ev-01-lioncrown.md`** :156 still uses **Undermountain Commission Accepted**, a name the Enclave r50 no longer writes, and the page still uses retired blocks.
-- **Order of the Gauntlet `m03`** design notes claim Splinter intelligence from Kelso that its event does not contain.
 
 ### 4. Setting, guides and sources
 - The Harpers organization page and Bonnie's Notable Figures page say only Mattrim knows her nature. The Enclave's animals know too.
