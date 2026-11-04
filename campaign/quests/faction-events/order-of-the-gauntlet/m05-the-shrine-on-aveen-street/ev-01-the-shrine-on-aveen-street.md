@@ -37,7 +37,7 @@ A Priest Acolyte in a plain grey surcoat brings the note to each qualifying memb
 >
 > > I have an address in the Field Ward and a reason I cannot walk through the door myself. Come to the east annex of the Halls of Justice at the third bell past noon tomorrow, and ask Brother Haldric for me. S.B.
 
-A member marked **Quietly Reassigned** receives the same note from Brother Hallin Ostrel, signed "B.H.O." If **Shrine Address Recovered** is not marked, Savra says that she found the cellar herself in the Halls' lease rolls, and the Brief is otherwise the same. Read the following aloud when the members reach the annex:
+A member marked **Quietly Reassigned** receives the same note from Brother Hallin Ostrel, signed "B.H.O." If **Shrine Address Recovered** is not marked, Savra says that she found the cellar herself in the Halls' lease rolls, and the Brief is otherwise the same. If **Intelligence Shared** is marked, she lays Gysheer's sealed note and the cartage receipt beside the map and points out that the receipt shows crates delivered to the cellar door. Read the following aloud when the members reach the annex:
 
 > [!readaloud]
 >
@@ -89,7 +89,7 @@ When the members agree, Savra gives them three vials of holy water in a cloth ba
 
 ### Aveen Street
 
-Aveen Street is a short walk from the Halls and a long way from anywhere pleasant. Read the following aloud when the party enters the chandlery:
+Orros's chandlery stands on the Field Ward side of Aveen Street, and it is open from the second bell to dusk. Read the following aloud when the party enters:
 
 > [!readaloud]
 >
@@ -178,7 +178,7 @@ The caretaker is a Cultist Fanatic, and he reacts to how the party arrived.
 > During combat, each caretaker:
 > - Casts Spiritual Weapon as a bonus action on the first round, and uses Command to order "Halt" or "Drop" at a character who runs for the far door.
 > - Saves Hold Person for a character the others cannot reach in a turn. Casting it is the caretaker's action, so no Pact Blade attack follows that turn, and a held character is not attacked before the caretaker's next turn.
-> - Never attacks a creature at 0 hit points, and swears loudly at anyone who does.
+> - Never attacks a creature at 0 hit points.
 > - Yields at 22 hit points or fewer, or when a character grapples him, and drops the blade.
 >
 > The fight in the stair room ends when every caretaker has yielded or fallen. The caretakers know nothing about the ledger beyond "the master's book", and a yielded caretaker will say that much and nothing more.
@@ -203,14 +203,15 @@ The Bearded Devil is bound to the ring. It wakes when a creature lifts the ledge
 > During combat, the Bearded Devil:
 > - Never crosses the line of filings, and fights to 0 hit points. A character who stays more than 10 feet from the ring cannot be attacked, and the devil does not follow anyone who leaves the room.
 > - Leaves a creature at 0 hit points alone.
-> - Poisons with the Beard, so a poisoned character cannot regain hit points until the start of the devil's next turn. Its Glaive can leave an infernal wound, which a character stops with a **DC 12 Wisdom (Medicine)** check as an action.
+> - Poisons with its Beard attack, and a poisoned character cannot regain hit points until the start of the devil's next turn.
+> - Leaves an infernal wound with its Glaive attack on a failed **DC 12 Constitution** save, and a character stops the bleeding with a **DC 12 Wisdom (Medicine)** check as an action.
 >
 > #### The Imp's Tactics
 > To begin, the Imp casts Invisibility on itself and stings a character standing at the table. During combat it:
 > - Flies above the reach of the party's melee fighters and stings the character with the fewest hit points nearby.
 > - Flees up the passage to report when it is reduced to 10 hit points or fewer, or when the devil falls. If it escapes, mark **Cassalanters Alerted** at once.
 >
-> The Imp does not fight a party it cannot see coming, and a character who casts *Detect Evil and Good* or kills it before the devil wakes stops its report.
+> A character who kills the Imp or holds it before it leaves the room stops its report.
 
 > [!exploration]**Taking the Ledger**
 >
