@@ -297,5 +297,252 @@ Arithmetic: chance = (p)^2 with p = (DC - 9) / 20 (fail needs total below DC, so
 - **Banishment is on a PC's list only if the class has it** (class lists are not in the downloaded files; unverified).
 - **Reading:** the best realistic try, a level 5 scroll, lands one time in six. The Brief is right to call it a chance, not a plan. Do not build the fight around it.
 ## 8. Allies: Savra (Knight), r03 accompaniment, r25 Strike Team (three Knights), r50 mobilization (six Knights, two Priests), Priest Acolyte, Scout; withdrawal HP and ally Power by tier
+
+Ally Power rules are in section 1. Blocks: **Knight** (section 5), **Priest** (section 7), **Guard** (section 3).
+
+**Priest Acolyte (XMM p. 247, verified).** Small or Medium Humanoid (cleric), Neutral. CR 1/4, AC 13, HP 11 (2d8 + 2), Speed 30 ft., Wis 14, Medicine +4 Religion +2. *Spellcasting* (Wisdom): at will *Light*, *Thaumaturgy*; *Divine Aid* (1/day, bonus action): *Bless*, *Healing Word* or *Sanctuary*. *Mace:* +4, reach 5 ft., 5 (1d6 + 2) bludgeoning plus 2 (1d4) radiant. *Radiant Flame:* +4, range 60 ft., 7 (2d6) radiant. No Multiattack. **Role: the courier** in a plain grey surcoat. Not counted; Tier 1 Power 10, Tier 2 6.
+
+**Scout (XMM p. 270, verified).** Small or Medium Humanoid, Neutral. CR 1/2, AC 13, HP 16 (3d8 + 3), Speed 30 ft., Dex 14, Nature +4 Perception +5 Stealth +6 Survival +5. *Multiattack:* two attacks, using Shortsword and Longbow in any combination. *Shortsword:* +4, reach 5 ft., 5 (1d6 + 2) piercing. *Longbow:* +4, range 150/600 ft., 6 (1d8 + 2) piercing. **Role: r10 surveillance, two Scouts for three days.** Not counted (they watch). If they do fight: Tier 1 16, Tier 2 12, Tier 3 7 each; withdraw at 8 HP.
+
+### r03 Marcheon: Savra at your side
+
+One operation per quest, asked by the member; she answers in a day, and she refuses an operation she believes will get the party killed (Brief). She is a Knight ally with a withdrawal of 20 HP, takes the member's direction, and will not kill a surrendered creature. The allied Party Power table is in section 1. **Levels 2 and 3: a reserve** (37 against 28 and 36, High-Power Warning): keep the fight at the base budget. **From level 4: counted in full.** Effective Power at the withdrawal (20 HP) is 0.78 of listed: 29 at Tier 1, 23.5 at Tier 2. The r03 Watch escort or emergency patrol (Guards, Tier 1 4, Tier 2 3 each) is never counted.
+
+### r25 Vindicator: the Strike Team (three Knights)
+
+One operation per quest, three days' notice (invented names, the rank event owns them). **Fighting count = PCs minus 1, to a cap of three** (EE rule): 2 / 3 / 3 Knights at 3 / 4 / 5 PCs. Knight Tier 2 Power 30 each (Tier 3: 25); a Knight (30) is below twice a level-6 PC (35), so no warning. They refuse to attack the Watch, a Lord, a captive or a surrendered creature. Withdrawal: each at 26 HP or fewer.
+
+| Level | Base (3 / 4 / 5) | Knights fighting | Ally Power | Allied Party Power | Bruising budget | Bloody budget |
+|---|---|---|---|---|---|---|
+| 6 | 105 / 140 / 175 | 2 / 3 / 3 | 60 / 90 / 90 | 165 / 230 / 265 | 99 / 138 / 159 | 123.75 / 172.5 / 198.75 |
+| 7 | 123 / 164 / 205 | 2 / 3 / 3 | 60 / 90 / 90 | 183 / 254 / 295 | 109.8 / 152.4 / 177 | 137.25 / 190.5 / 221.25 |
+| 8 | 132 / 176 / 220 | 2 / 3 / 3 | 60 / 90 / 90 | 192 / 266 / 310 | 115.2 / 159.6 / 186 | 144 / 199.5 / 232.5 |
+
+At 3 PCs the two Knights add 60 to a base of 105 to 132, which is a 45 to 57 percent increase. Either rebuild the fight on the allied total or treat the team as a reserve, and say which per scene. Keep Hard rosters for allied scenes only (LA convention).
+
+### r50 Righteous Hand: the Mobilization (six Knights, two Priests)
+
+One major operation per quest, three days' notice (Brief). **Fighting Knights = PCs minus 1** (up to six); the two Priests hold the rear and are not counted. Knight Power 30 at Tier 2, 25 at Tier 3 (from level 11). Withdrawal 26 HP (Knights).
+
+| Level | Base (3 / 4 / 5) | Knights fighting | Ally Power | Allied Party Power | Bruising budget | Bloody budget |
+|---|---|---|---|---|---|---|
+| 8 | 132 / 176 / 220 | 2 / 3 / 4 | 60 / 90 / 120 | 192 / 266 / 340 | 115.2 / 159.6 / 204 | 144 / 199.5 / 255 |
+| 9 | 147 / 196 / 245 | 2 / 3 / 4 | 60 / 90 / 120 | 207 / 286 / 365 | 124.2 / 171.6 / 219 | 155.25 / 214.5 / 273.75 |
+| 10 | 159 / 212 / 265 | 2 / 3 / 4 | 60 / 90 / 120 | 219 / 302 / 385 | 131.4 / 181.2 / 231 | 164.25 / 226.5 / 288.75 |
+| 11 | 186 / 248 / 310 | 2 / 3 / 4 | 50 / 75 / 100 (Tier 3) | 236 / 323 / 410 | 141.6 / 193.8 / 246 | 177 / 242.25 / 307.5 |
+
+A Knight (30) is below twice a level-8 PC (44), so no warning. At 5 PCs the mobilization is a 55 percent increase at level 8 (120 on 220), a major force: rebuild the fight on the allied total, or use the mobilization as the reserve against Undermountain encounters sized for a base party.
+
+### Withdrawal and Power by tier
+
+| Ally | Block | Withdraws at | Tier 1 | Tier 2 | Tier 3 |
+|---|---|---|---|---|---|
+| Savra | Knight | 20 HP (0.78 of listed) | 37 | 30 | 25 |
+| Strike Team and mobilization Knights | Knight | 26 HP (0.71 of listed) | 37 | 30 | 25 |
+| Priests of Tyr (if they fight) | Priest | 19 HP (0.71) | 28 | 23 | 19 |
+| Courier, door-warden | Priest Acolyte | 5 HP | 10 | 6 | 5 |
+| r10 Scouts (if they fight) | Scout | 8 HP | 16 | 12 | 7 |
+| Watch patrol | Guard | 5 HP | 4 | 3 | 3 |
 ## 9. Fixed tables: r03 temple briefings and armory; r10 Uncommon item table (from items.json), potions, 2nd-level spell list, Savra-at-the-lairs table; r25 six-target findings table and +1 weapon table; s01 worthy causes; r50 Knighthood credential
+
+Names marked **invented** are mine and are logged for the event design notes. **A name-collision check was not run** (no content search tool this session); the rank-event drafter runs it.
+
+### 9a. r03 Marcheon: the armory and the temple briefings
+
+**The Armory.** East annex of the Halls of Justice. The keeper is an **invented** lay brother, **Brother Dunstan Wickersham** (replaces R's "Tobrin", which collides with Tobrin Ashvale). One mundane weapon or one suit of armor per tenday per member, returned serviceable; a ruined item is replaced at its listed price; no magic items. Companions cannot borrow; the loan ends if the member lends it on. No stat is quoted here (`items-base.json` was not read); the drafter takes the 2024 equipment entry.
+
+| Category | Notice | Fitting | Note |
+|---|---|---|---|
+| Simple or martial weapon, shield | none | same visit | One weapon or one shield counts as the tenday's item |
+| Light armor | none | same visit | One suit |
+| Medium armor | 1 day | one day | One suit |
+| Heavy armor | 3 days | three days (mine) | One suit; the Order does not stock plate for the member's first loan |
+
+**Temple briefings.** One briefing per **tenday** per member from one named temple, if there is anything worth briefing. Patterns, not names (Tyr's law); nothing that names the Cassalanters, a pact or a devil by name. The door contact is the temple's door-warden, who holds messages "for Savra Belabranta".
+
+| Temple | Where | The briefing covers | It never covers |
+|---|---|---|---|
+| Halls of Justice (Tyr) | the Halls (ward per the First Meeting drafter; WDH has Castle Ward) | Cases withdrawn after a complaint; wills read early; a witness who changed an account; a warrant requested and then withdrawn | A named defendant; a sealed record |
+| Temple of Helm | Castle Ward (R s01) | Posted watchers nobody posted; shuttered watch-houses; a doorway someone pays to have watched; guard hires by the night | The identity of whoever pays |
+| Chapel of the Faithful Hand (Torm), **invented** | Trades Ward (invented) | Sworn men who left a post without a word; vows that were paid for; a charity whose books do not close; "known fiendish signs" in general (animals that will not enter a house; a sleeper who talks in a language he does not know) | Any house, family or pact; anything that says whose devils they are |
+
+- The Torm temple's name and ward are invented and flagged for the audit.
+- **Renown loss:** the rank stays; accompaniment, armory and briefings wait until the Renown is restored.
+
+### 9b. r10 Whitehawk: the Uncommon item, potions, spells and Savra at the lairs
+
+**The Uncommon item (one, chosen at the meeting; no "GM chooses").** Rarity from XDMG, `items.json`. **Ring of Protection (Rare) and Bracers of Defense (Rare) are excluded** (both verified Rare).
+
+| Item | Rarity (XDMG) | Attunement | Effect (2024 text) |
+|---|---|---|---|
+| Sentinel Shield | Uncommon | none listed | While holding it, Advantage on Initiative rolls and Wisdom (Perception) checks; +2 AC as a Shield |
+| Cloak of Protection | Uncommon | yes | +1 bonus to Armor Class and saving throws while worn |
+| Brooch of Shielding | Uncommon | yes | Resistance to Force damage; Immunity to damage from the *Magic Missile* spell |
+| Periapt of Wound Closure | Uncommon | yes | Whenever you make a Death Saving Throw, you can change a roll of 9 or lower to a 10 (Life Preservation); Hit Dice rolled to regain HP restore double (Natural Healing Boost) |
+
+- **Generic +1 weapon, armor or shield entries do not exist in `items.json`.** The "+1" block (lines 9 to 345) holds only named items. R's "Armor, Ring, or Weapon" choice is dropped. The +1 weapon belongs to r25 (9c).
+- **Potions:** *Potion of Healing* (common, XDMG): a Bonus Action to drink or administer to a creature within 5 feet, regains 2d4 + 2 HP. *Potion of Greater Healing* (uncommon, XDMG): regains 4d4 + 4 HP. One of each before a quest's main operation, from the Halls infirmary, one day's notice.
+
+**Temple spellcasting, level 2 or lower (XPHB), components under 100 gp covered.** Fixed list. *Speak with Dead* (level 3) and *Resurrection* (level 7) are not on it.
+
+| Spell | Level | Casting time | Range | Components | Duration | Note |
+|---|---|---|---|---|---|---|
+| Aid | 2 | action | 30 ft. | V S M (a strip of white cloth) | 8 hours | up to three creatures, +5 HP max and current |
+| Augury | 2 | 1 minute | self | V S M (tokens worth 25+ GP) | instant, ritual | the 25 gp is covered |
+| Bless | 1 | action | 30 ft. | V S M (a Holy Symbol worth 5+ GP) | concentration, 1 minute | the temple lends the symbol |
+| Calm Emotions | 2 | action | 60 ft. | V S | concentration, 1 minute | Charisma save |
+| Cure Wounds | 1 | action | touch | V S | instant | 2d8 + modifier |
+| Detect Evil and Good | 1 | action | 30 ft. sphere | V S | concentration, 10 minutes | senses Aberration, Celestial, Elemental, Fey, Fiend or Undead within 30 ft.; whether *Hallow* is active |
+| Gentle Repose | 2 | action | touch | V S, M **unread** | **unread** | the header was read; components and duration were not |
+| Healing Word | 1 | bonus action | 60 ft. | V | instant | 2d4 + modifier |
+| Lesser Restoration | 2 | bonus action | touch | V S | instant | ends Blinded, Deafened, Paralyzed or Poisoned |
+| Locate Object | 2 | action | **unread** | **unread** | **unread** | only level and casting time were read |
+| Prayer of Healing | 2 | 10 minutes | 30 ft. | V | instant | up to five creatures, a Short Rest plus 2d8 HP |
+| Zone of Truth | 2 | action | 60 ft. | V S | 10 minutes | Charisma save; a failed save cannot speak a deliberate lie; may stay silent |
+
+- **Fixed exclusions (Rep 02):** no spell cast against a living named person. *Detect Evil and Good* is cast only at a place the member names that is not the Cassalanter Villa, or after M4 and M5 have made devils known (secrecy). Cost: the temple covers material components under 100 gp (Augury's 25 gp is the dearest row read).
+
+**Savra at the lairs, Renown 10 or higher** (from Rep 02 C16; the `arc-f:37`, `arc-g:41`, `arc-i:39`, `arc-j:49` lines were not re-read this session).
+
+| Lair (level) | What Savra does | Math |
+|---|---|---|
+| Xanathar's Lair (L5 to L6) | Three *Potion of Healing* before the operation; waits at the extraction point and fights if called | Knight 30; allied PP 126 / 158 / 190 at L5 only if she fights |
+| Cassalanter Villa (L5 to L6) | Gives the member a Siamorphe holy symbol if the party holds Faction Outposts evidence of Asmodean worship; attends the ball and makes one improvised intervention | No stat; the item is not in `items.json` (unverified) |
+| Kolat Towers (L7) | A Knight at the extraction point; restores 25 HP once to a creature of the member's choice (arc-i text; the Knight block has no such feature) | Knight 30 if it fights; allied PP 153 / 194 / 235 |
+| Vault of Dragons (L7) | Stands at the City of the Dead main gate for the approach | Not a combatant; no Power |
+
+### 9c. r25 Vindicator: the six-target findings table and the +1 weapon
+
+**The Investigation.** One target at a time; the predicate is a written exhibit a magistrate would read (the M5 ledger or a party-delivered document), never the r10 dossier. The written report arrives in **two tendays**. Savra files "diabolism" only after the party has found devil evidence. The rows below are mine.
+
+| Target | Predicate needed | The report finds | The report cannot say |
+|---|---|---|---|
+| Victoro Cassalanter | **Ledger Recovered** (the M5 ledger) | The ledger is in his hand (matched to three signed charity receipts); the Aveen Street cellar was leased through a civic association; devil worship is credibly shown; a petition to the Lords stands | No terms, no deadline, no children; the family is not charged |
+| Xanathar's Guild | A Watch complaint or a party-delivered document | A Castle Ward rowhouse with night-time stretcher traffic; two sworn complaints; the owner of record is a front | No named Guild officer; the beholder is not named |
+| The Splinter's Trade Ward safe house | The Splinter inquiry file or a party-delivered document | Cart and carriage traffic twice a tenday; three tenants named only by initial; rent paid a quarter ahead through a notary | No names; "Manshoon" appears only after **Manshoon Named** |
+| Gysheer Omfreys | Her belongings from M4 (the note sealed "V.C.", the cartage receipt for crates to Aveen Street) | Lodging above the dyer's shop on Crispin Street; courier payments; summoning devils in a residential court is a chargeable act | Her employer is known only by the initials |
+| The M2 household secretary | **Forged Record Secured** | The alias is in no register; the forged entry matches a hand in three other filings; the hire-coach is registered to a Sea Ward livery | Whose household she serves, unless the party supplied it |
+| A named independent (example: Emmek Frewn) | A written exhibit naming one act (for example the contract that hired Kelso's gang against Trollskull Alley) | He hired the gang; payment ran through a broker; Savra can refer it to the Watch | Nothing about the Grand Game |
+
+**The +1 weapon (permanent, chosen at the meeting; provenance: the seized cache, held three years, the same cache r50 names).**
+
+| Category | Choices | Notes |
+|---|---|---|
+| Sword | longsword, rapier, shortsword | Savra picks for the member's fighting style |
+| Axe | battleaxe, handaxe | |
+| Hammer | warhammer, maul | |
+| Bow | longbow, shortbow | |
+
+- **Rarity is unverified.** `items.json` has no generic "+1 Weapon" (see 9b). Named items with a +1 bonus in the data are Uncommon (`+1 Wraps of Unarmed Power` lines 315 to 331, `+1 Moon Sickle` lines 141 to 175, `+1 Rod of the Pact Keeper` lines 230 to 249, `+1 Wand of the War Mage` lines 288 on), so the table treats it as Uncommon. Weapon names are from the 2024 *Player's Handbook* and were not checked against `items-base.json`; no weapon stat is quoted.
+
+### 9d. s01 The Tithe: worthy causes
+
+The tithe is 25% of the member's own equal share. The **Order's clerk, not Savra, takes the receipt** (recipient, amount, date, the clerk's signature). Trollskull Alley Rebuilding is dropped from R (the party would tithe to itself).
+
+| Cause | What it does | Note |
+|---|---|---|
+| Temple of Helm (Castle Ward) | Runs a hospice wing for Watch veterans and their families | Donations go to the healing work |
+| Halls of Justice, Legal Aid Fund | Tyr's clergy represent Field Ward residents who cannot afford a hearing before the Lords | The fund is chronically short |
+| Field Ward Soup Houses | Three independent kitchens feed about four hundred people a day | All three are underfunded |
+| Griffon Cavalry Dependents Fund | Families of Cavalry riders killed or maimed in service | Savra does not name this one; if chosen she nods and says nothing further |
+
+### 9e. r50 Righteous Hand: the Knighthood credential
+
+**The Writ of Knighthood.** A vellum writ under the Order's central seal (not the chapter seal), signed by Savra and the high priest of Tyr (invented name, the rank event owns it). It is a credential, not a command. The investiture prior holder is a senior Knight of the Waterdeep chapter who has since died (Brief); Savra has never held the rank.
+
+| Effect | Rule |
+|---|---|
+| Standing | The holder may swear as a witness and file a written complaint before a magistrate or temple court in a city where the Order is recognized; the clerk reads it aloud into the record |
+| The open door | Advantage on one Charisma (Persuasion) check to obtain a hearing with a Watch captain, a temple head or a magistrate in such a city, once per official per tenday (mine) |
+| Lodging | Any temple of Tyr, Helm or Torm lodges the holder and up to four companions for three nights a visit, free (Chevall's bed, extended) |
+| Correspondence | Letters under the Order's seal are answered within a tenday by a temple or civic authority that respects the Order |
+
+- **Limits.** It grants no arrest power, no warrant and no immunity. It means nothing to an official or creature that does not respect the Order, and it does nothing in Undermountain (no officials to present it to).
+- **Loss rule.** If Renown falls below 50 the writ stays but its effects pause until the Renown is restored.
+- Source text kept from R: "Allied temples and civic authorities across the Sword Coast will recognize it as a legitimate credential of the Order... Which isn't all of them. Enough." The Appendix B phrase "quasi-official legal standing" is the intent behind the four effects (Rep 02 5a; not re-read).
 ## Verification (line ranges in the data files)
+
+Source key: **XMM** = `bestiary-xmm.json`, **XPHB** = `spells-xphb.json`, **ITEMS** = `items.json` (XDMG entries; the older DMG entry sits just above each), all in the scratchpad `5e/` folder, read directly this session by line range (no search tool; blocks were located by page number and read in windows). **Skill** = `cr2-encounter-builder`. **Rep 02/03/04** = the research reports. **Brief** = `order-of-the-gauntlet-conversion-brief.md`. "Name line inferred" means the block header sat just above the window read.
+
+### Creature blocks (XMM)
+
+| Item | Lines | Status | Value used |
+|---|---|---|---|
+| Tough | 55328-55424 | Verified | CR 1/2, AC 12, HP 32 (5d8+10), Pack Tactics, Mace +4 5, Heavy Crossbow +3 6 |
+| Tough Boss | 55425-55538 | Verified (not used in an Order roster) | CR 4, AC 16, HP 82, Multiattack two, Warhammer +5 12 push 10, Heavy Crossbow +4 13 |
+| Bandit | 7978-8072 | Verified | CR 1/8, AC 12, HP 11 (2d8+2), Scimitar +3 4, Light Crossbow +3 5 |
+| Bandit Captain | 8073-8188 | Verified (not used in an Order roster) | CR 2, AC 15, HP 52, Multiattack two, Scimitar +5 6, Pistol +5 8, Parry |
+| Guard | 30390-~30470 (read to 30462) | Verified | CR 1/8, AC 16, HP 11, Spear +3 4 |
+| Knight | 34553-~34670 | Verified | CR 3, AC 18, HP 52, Multiattack two, Greatsword +5 10 + 4 radiant, Heavy Crossbow +2 11 + 4 radiant, Parry |
+| Priest | 45220-45380 | Verified | CR 2, AC 13, HP 38, Mace +5, Radiant Flame +5, Spirit Guardians 1/day, Divine Aid 3/day; no Banishment |
+| Priest Acolyte | 45381-~45520 (read to 45499) | Verified | CR 1/4, AC 13, HP 11, Mace +4 5 + 2, Radiant Flame +4 7, Divine Aid 1/day |
+| Scout | 49263-~49345 (read to 49341) | Verified | CR 1/2, AC 13, HP 16, Multiattack two, Shortsword +4 5, Longbow +4 6 |
+| Spy | 52642-~52735 | Verified | CR 1, AC 12, HP 27, no Multiattack, Shortsword +4 5 + 7 poison, Hand Crossbow +4 5 + 7 poison, Cunning Action |
+| Cultist Fanatic | 15316-15453 | Verified | CR 2, AC 13, HP 44, Pact Blade +4 6 + 7 necrotic, Spellcasting DC 12 (Hold Person 1/day, Command 2/day), Spiritual Weapon 2/day |
+| Imp | ~33294-~33440 (page line 33300; read to 33429; name line inferred) | Verified | CR 1, AC 13, HP 21, Sting +5 6 + 7 poison, Invisibility (self, at will), Shape-Shift (rat, raven Fly 60, spider), Magic Resistance |
+| Spined Devil | 52228-52350 | Verified | CR 2, AC 13, HP 45, Flyby, Magic Resistance, Infernal Fork +4 5 + 3 fire, Tail Spine +4 4 + 3 fire range 20/80; no Hurl Spine |
+| Bearded Devil | 9108-~9232 (stats and actions read 9109-9200) | Verified | CR 3, AC 13, HP 58, Beard +5 7 (Poisoned, no HP regained), Infernal Glaive +5 reach 10 8 (Con DC 12 wound 5/turn), Magic Resistance; no Diabolical Restoration |
+| Horned Devil | 32553-~32700 (read 32554-32693) | Verified | CR 11, AC 18, HP 199, Cha save +8, Magic Resistance, Diabolical Restoration, three attacks, Searing Fork +10 15 + 9 fire, Hurl Flame +8 range 150 26 fire, Infernal Tail DC 17; no Battle Frenzy |
+| Wererat | 59570-~59690 (read to 59669) | Verified | CR 2, AC 13, HP 60, Multiattack two, Bite +5 8 (Con DC 11 curse), Scratch +5 6, Hand Crossbow +5 6; **no resistances, no Regeneration, no silver rule** |
+| Giant Rat | 25215-~25290 (read 25216-25279) | Verified | CR 1/8, AC 13, HP 7, Pack Tactics, Bite +5 5 |
+| Barbed Devil | 8613-8709 (partial) | Read, not used | CR 5, AC 15, HP 110 |
+
+All Rep 03 section 3.1 and Rep 04 section 7 stat values for the creatures above were re-checked and matched. Not read: Bone Devil, Chain Devil, Erinyes (Rep 04 values for them are **unverified here** and not used).
+
+### Spells (XPHB)
+
+| Item | Lines | Status | Value used |
+|---|---|---|---|
+| Banishment | 1448-~1510 | Verified | Level 4, action, 30 ft., V S M (pentacle), concentration 1 minute, Charisma save, Incapacitated in a demiplane; a Fiend does not return if it lasts 1 minute |
+| Aid | ~71-123 (name line not on screen; level at 76) | Verified | Level 2, action, 30 ft., V S M (cloth), 8 hours, +5 HP |
+| Augury | 1083-1157 | Verified | Level 2, 1 minute, self, V S M (25+ GP), ritual |
+| Bless | 1955-2016 | Verified | Level 1, action, 30 ft., V S M (Holy Symbol 5+ GP), concentration 1 minute |
+| Calm Emotions | 2395-2449 | Verified | Level 2, action, 60 ft., V S, concentration 1 minute, Cha save |
+| Cure Wounds | 4959-5009 | Verified | Level 1, action, touch, V S, 2d8 + mod |
+| Detect Evil and Good | ~5396-5443 (name line not on screen; text matches) | Verified | Level 1, action, 30 ft., V S, concentration 10 minutes |
+| Gentle Repose | 9007-~9060 | **Partial**: level 2, action, touch, V S read; M and duration unread | |
+| Healing Word | 10263-10314 | Verified | Level 1, bonus, 60 ft., V, 2d4 + mod |
+| Lesser Restoration | 11829-11868 | Verified | Level 2, bonus, touch, V S |
+| Locate Object | 12160-~12200 | **Partial**: level 2, action read; range, components, duration unread | |
+| Prayer of Healing | 15030-15080 | Verified | Level 2, 10 minutes, 30 ft., V, 2d8 + Short Rest, up to five |
+| Zone of Truth | 22033-22077 | Verified | Level 2, action, 60 ft., V S, 10 minutes, Cha save |
+| Speak with Dead | 17822-~17870 | Verified (level only) | Level 3 |
+| Resurrection | ~16246-16305 (header partly off screen; level at 16253) | Verified | Level 7, 1 hour, touch, V S M (diamond 1,000+ GP, consumed) |
+| Hold Person, Command, Spiritual Weapon, Invisibility, Stable/Medicine rules, 2024 Paralyzed, grapple and chase rules | none | **Unverified** | Named as the Cultist Fanatic and Imp blocks list them; no text relied on |
+| Dispel Evil and Good, Hallow, Raise Dead | none | **Unverified** | Not used |
+| Class spell lists (who has Banishment) | none | **Unverified** | Class lists are not in the downloaded files |
+
+### Items (ITEMS, XDMG entries)
+
+| Item | Lines (XDMG; DMG entry above) | Status | Rarity and value |
+|---|---|---|---|
+| Sentinel Shield | 57952-57972 (DMG 57927-57951) | Verified | **Uncommon**; no attunement listed; Advantage on Initiative and Perception |
+| Cloak of Protection | 12592-12614 (DMG 12553-12591) | Verified | **Uncommon**, attunement; +1 AC and saves |
+| Brooch of Shielding | 9749-9771 (DMG 9717-9748) | Verified | **Uncommon**, attunement; Resistance to Force, Immunity to *Magic Missile* |
+| Periapt of Wound Closure | 44980-~45017 (DMG 44951-44979) | Verified | **Uncommon**, attunement; Life Preservation, Natural Healing Boost (the 2024 text differs from the DMG's "stabilize" line) |
+| Ring of Protection | 52741-52765 (DMG ~52697-52740) | Verified | **Rare**, attunement: excluded |
+| Bracers of Defense | 9319-9339 (DMG ~9290-9318) | Verified | **Rare**, attunement: excluded |
+| Potion of Healing | 47505-47541 | Verified | Common; 2d4 + 2; Bonus Action |
+| Potion of Greater Healing | 47310-47335 | Verified | Uncommon; 4d4 + 4 |
+| Spell Scroll (Level 4) | 61515-61544 | Verified | **Rare**; spell save DC 15, attack +7 |
+| Spell Scroll (Level 5) | 61545-61574 | Verified | **Rare**; spell save DC 17, attack +9 |
+| Generic +1 Weapon, Armor, Shield | none (the "+1" block, lines 9-345, has named items only) | **Absent from the data** | Rarity unverified; treated as Uncommon from named +1 items (lines 141-175, 230-249, 288 on, 315-331) |
+| Siamorphe holy symbol | none | **Unverified** | Story item from `arc-g:41` (Rep 02), not in the data |
+| `items-base.json` | not read | **Unverified** | No base item stat is quoted |
+
+### Mine, flagged, and corrections
+
+| Item | Status |
+|---|---|
+| Heuristics: 0.71 for a half-pool leaver; sqrt(f) for other fractions; Savra 0.78; effective-Power notes | **Mine** (not skill rules) |
+| Squishy-PC hit points (L2 14 to L7 44); the "spread" definition; Horned Devil three-attack rule; Gysheer and Wererat safeguards | **Mine** |
+| M1 break rule, M2 hold-and-break and Watch round-four patrol, M3 yield at 30 HP, M5 two-room split, M6 setups B and C, Standard/Hard triggers (Planted Story Exposed, escalation tier, villa result) | **Mine** |
+| Armory table, temple briefing topics, findings table, weapon table, Knighthood effects, "Savra at the lairs" mechanics | **Mine** |
+| Invented names: Brother Dunstan Wickersham, the Chapel of the Faithful Hand (Torm, Trades Ward) | **Invented**; a file-name search of `notable-figures/` found no match, a content search was not run |
+| Roster check: Savra (`order-of-the-gauntlet/01-savra-belabranta.md`), Kelso (`independents-adversaries/03-kelso-fiddlewick.md`), Victoro (`cassalanters/01-victoro-cassalanter.md`) and Emmek Frewn (`trollskull-community/10-emmek-frewn.md`) have pages | Checked by file name |
+| No page found for Gysheer Omfreys, Orros, Brynn Hilltopple, Pell, Gaxly, Trevar | Event-only or invented names; `campaign/structure/appendix-a-npc-roster.md` does not exist, so the roster check cannot run |
+| Rep 04 M6: the first-turn +4 reading (Power 165) and the Bone Devil rosters | **Overruled** by the Session 45 ruling (Brief, user decision 3); the Horned Devil is Power 130 |
+| Rep 03 M2 rosters at 4 and 5 PCs (36 and 48) | **Changed** here to 40 and 52 to sit nearer the budget; the 3-PC roster and the Bruising band are unchanged |
+| Rep 04 M4, M5 rosters; Rep 03 M1, M3 rosters | **Reproduced** and recomputed; all numbers matched |
+| Rep 04 Banishment odds (9.0% at DC 15, 16.0% at DC 17) | **Matched**; multi-cast figures here are new |
+| Watch patrols and Guards (r03 escort, M2 round-four patrol) | Never counted; Guard Power is listed in section 1 for reference only |
