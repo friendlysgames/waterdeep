@@ -11,7 +11,7 @@
 > - Take the Order's Cassalanter dossier, a suspicion file that proves nothing and shows what is hidden.
 > - Learn what Savra does at the four lairs once the party reaches them.
 >
-> Only the member is addressed. Companions who are not Order of the Gauntlet members wait outside and gain nothing, though the dossier is a party document that they may read.
+> Only the member is addressed, and companions who are not Order of the Gauntlet members wait outside and gain nothing. The dossier is a party document, so those companions may still read it once the member has it.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -24,7 +24,7 @@
 
 ### The Note at Noon
 
-Hold this Event until **Marcheon Reached** is marked for the member. At noon on the day after the member reaches Renown 10, a Priest Acolyte in a plain grey surcoat finds the member at their lodging and hands over Savra's note. The acolyte waits for no reply. The meeting is in the east annex of the Halls of Justice at the third bell past noon on the same day.
+Hold this Event until **Marcheon Reached** is marked for the member. At noon on the day after the member reaches Renown 10, a Priest Acolyte in a plain grey surcoat finds the member at their lodging. The acolyte hands over Savra's note and waits for no reply. The meeting is in the east annex of the Halls of Justice at the third bell past noon on that day.
 
 Every qualifying member is invited on their own account, so several members who cross the threshold together attend together and are recorded one by one. A member who is away from Waterdeep finds the acolyte at their first surface lodging on return, and the meeting moves to the following day. A member marked **Quietly Reassigned** gets the same note in Brother Hallin's hand, signed "B.H.O.", and the meeting runs unchanged.
 
@@ -44,7 +44,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
+> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with a strong jaw and her dark hair worn back. She wears a dark riding coat and a silver gauntlet pin at her collar.
 >
 > Savra stands for the whole meeting and states the hard fact before the reason. She pauses before every serious answer and gives a single measured nod only to answers she believes are honest. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >
@@ -86,12 +86,12 @@ Every qualifying member is invited on their own account, so several members who 
 >
 > - **Contact:** the member gives Brother Haldric a target and a reason, or tells Savra at the east annex. Savra approves or refuses within a day, and she gives her reason for a refusal.
 > - **Delay:** Neris and Perrin, two Order **Scouts**, begin at dawn on the day after approval. They watch for three days, and an acolyte brings the written report to the member's lodging at noon on the fourth day.
-> - **Limit:** one target per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and the request counts against the quest the party is in when the member asks. An unused watch is lost when the quest ends.
+> - **Limit:** one target per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**. The request counts against the quest the party is in when the member asks. An unused watch is lost when the quest ends.
 > - **A target is** one named person, one building or one street. The target must be on the surface of Waterdeep and must not be an Order member.
 > - **Savra's offer:** a member who names no target is offered the gate and public ground floor of the family's house, which she has watched herself. A member marked **Quietly Reassigned** is not offered it and may still ask for any target in writing.
 > - **What the Scouts refuse:** to enter a private building, to follow a target below the ground or out of the city, or to fight unless they are attacked. They also refuse a named Cassalanter family member until **Cassalanter Villa** has been played, and the Aveen Street shop until the Order's petition exists. Savra gives the second reason as "a team on that street could spoil what I mean to file".
 > - **Who else:** the member only. A request made in the member's name by a companion is ignored.
-> - **Loss rule:** a member who names a target to settle a private quarrel loses the benefit for a tenday. Savra hears of it within a day.
+> - **Loss rule:** a member who names a target to settle a private quarrel loses the benefit for a tenday, and Savra hears of it within a day.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the Scouts wait until the Renown is restored.
 
 > [!exploration]**What the Report Holds**
@@ -99,7 +99,7 @@ Every qualifying member is invited on their own account, so several members who 
 > Every report has three parts, and the third is the oddity that fits the target. The Scouts write in plain lines and give descriptions, never names they have not seen written down.
 >
 > - **A person:** where the person slept on each of the three nights, the three places visited most, and the people met, each described by dress and manner. The oddity is that the person changed route on the second day, as if they suspected a follower.
-> - **A building:** the hours of arrival and departure on each of the three days, a count of the visitors with one description of each kind, and the deliveries. The oddity is one visitor or delivery that does not match the building's trade.
+> - **A building:** the hours of arrival and departure on each of the three days and a count of the visitors, with one description of each kind. The report also lists the deliveries. The oddity is one visitor or delivery that does not match the building's trade.
 > - **A street:** the carts, carriages and walkers at dawn, noon and dusk, with the commonest faces. The oddity is one cart that uses the street twice at the same hour on separate days.
 > - **The family's house:** visitors, deliveries and a carriage after dark, and nothing from inside. The oddity is that the carriage leaves by the garden gate and returns before dawn.
 
@@ -113,7 +113,7 @@ Every qualifying member is invited on their own account, so several members who 
 >
 > - **Contact:** the member sends word to Brother Haldric at least one day before the quest's main operation. Brother Hallin hands over the potions at the door-warden's bench, writes the receipt and asks for nothing in return.
 > - **What the member gets:** one *Potion of Healing* and one *Potion of Greater Healing* in each quest. The member may drink them or give them to a companion.
-> - **The main operation** is the night the party goes in. It is the Operation scene of **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire** and **Kolat Towers**, the first outpost entered in **Faction Outposts**, and the descent into the Brandath Crypts in **Vault of Dragons**.
+> - **The main operation** is the night the party goes in. It is the Operation scene of **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire** and **Kolat Towers**. In **Faction Outposts** it is the first outpost entered, and in **Vault of Dragons** it is the descent into the Brandath Crypts.
 > - **Limit:** one pair per member in each quest, counted against the quest the party is in when the member asks. A potion that is lost or stolen is not replaced.
 > - **Who else:** the member only. Brother Hallin refuses a request that a companion makes in the member's name.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and the infirmary withholds the potions until the Renown is restored.
@@ -128,7 +128,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!exploration]**The Four Items**
 >
-> The member chooses one item at the table and keeps it permanently. Brother Hallin writes the choice in the ledger, and no second item is given. A lost item is not replaced.
+> The member chooses one item at the table and keeps it permanently. Brother Hallin writes the choice in the ledger, and neither a second item nor a replacement for a lost one is given.
 >
 > - **Sentinel Shield (Uncommon):** while the member holds it, the member has Advantage on Initiative rolls and Wisdom (Perception) checks, and it gives +2 AC as a Shield. It suits a member who is trained with shields.
 > - **Cloak of Protection (Uncommon, requires attunement):** the member gains a +1 bonus to Armor Class and saving throws while wearing it.
@@ -147,7 +147,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!exploration]**The Triad's Spells**
 >
-> - **Contact:** the member gives their name at the front desk of the Halls of Justice, the Temple of Helm in the Castle Ward or the Chapel of the Steadfast Shield in the Dock Ward, and says that Savra Belabranta vouches for them. The door-warden, Brother Haldric, is the contact at the Halls.
+> - **Contact:** the member gives their name at the front desk of one temple and says that Savra Belabranta vouches for them. The temples are the Halls of Justice, the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield in the Dock Ward. The door-warden, Brother Haldric, is the contact at the Halls.
 > - **What is cast:** one spell from the list below, cast by the priest on duty, at the temple, between the second bell of morning and dusk. The temple covers every component worth less than 100 gp, and the priest lends a holy symbol for *Bless*.
 > - **Level 1:** *Bless*, *Cure Wounds*, *Detect Evil and Good* and *Healing Word*.
 > - **Level 2:** *Aid*, *Augury*, *Calm Emotions*, *Gentle Repose*, *Lesser Restoration*, *Locate Object*, *Prayer of Healing* and *Zone of Truth*.
@@ -166,7 +166,7 @@ Every qualifying member is invited on their own account, so several members who 
 
 > [!exploration]**The Cassalanter Dossier**
 >
-> The sheaf is a party document. The member keeps it, and companions may read it. It holds four items and, if the party gave the Order more, an addendum.
+> The sheaf is a party document that the member keeps and companions may read. It holds four items and, if the party gave the Order more, an addendum.
 >
 > - **The layout:** a partial plan of the family's house, copied from the public building registry. It shows the ground floor only, which is the entrance hall, the garden mudroom, the reading room, the dining room, the kitchen and the ballroom. The upper floors and the cellars appear on no record.
 > - **The donations:** twelve years of charitable gifts, back to 1480 DR. Every recipient is a registered body, and none of the people named as recipients can be found.
@@ -200,7 +200,7 @@ Every qualifying member is invited on their own account, so several members who 
 >
 > A member who studies the plan for an hour at the Halls learns where the six ground-floor rooms sit and how their doors connect. The upper floors and cellars are not on the plan, and the plan cannot help with them.
 >
-> - **At the villa:** when the party first enters the ground floor in **Cassalanter Villa**, the first Intelligence (Investigation) check anyone makes to place the rooms is made with Advantage if a member has studied the plan.
+> - **At the villa:** the party first enters the ground floor in **Cassalanter Villa**. The first Intelligence (Investigation) check anyone makes to place the rooms has Advantage if a member has studied the plan.
 > - **Fallback:** if that quest has no such check at that point, the party simply knows where the six rooms are.
 > - **If Cassalanter Villa has already been played,** the plan is a keepsake and gives nothing.
 
@@ -217,14 +217,14 @@ Every qualifying member is invited on their own account, so several members who 
 > - **Contact:** the member tells Savra, or leaves word with Brother Haldric, the day before the party goes in, and names the place and the hour. A member marked **Quietly Reassigned** must ask in writing, and Savra answers within a tenday.
 > - **Limit:** once for each lair quest, to the party, on the word of one Whitehawk member. If she fights, that counts as the member's Marcheon operation for the quest.
 > - **Xanathar's Lair:** Savra gives the member three *Potions of Healing* the day before, in addition to the member's own potions. She waits across from the guildsign entrance and draws off a pursuing patrol for ten minutes if the party signals retreat with two long whistle blasts. She fights if called, withdrawing at 20 Hit Points.
-> - **Cassalanter Villa:** Savra gives the member a Siamorphe holy symbol, consecrated by the Order's chaplain, if the party has not yet received one and holds evidence from **Faction Outposts** or has **Cassalanter Register Filed** marked. If the party enters by the charity ball, Savra attends in Gauntlet formal dress over armor, and her presence excuses one incident without immediate social consequence.
+> - **Cassalanter Villa:** Savra gives the member a Siamorphe holy symbol, consecrated by the Order's chaplain, if the party has not yet received one. The party must also hold evidence from **Faction Outposts** or have **Cassalanter Register Filed** marked. If the party enters by the charity ball, Savra attends in Gauntlet formal dress over armor. Her presence excuses one incident without immediate social consequence.
 > - **Kolat Towers:** Savra and Sir Ardin Vellacott, a Knight of the chapter, wait at the party's extraction point with two *Potions of Healing*. Ardin restores up to 25 Hit Points once to a creature the member chooses, by touch, as an action.
-> - **Vault of Dragons:** Savra stands at the main gate of the City of the Dead. If the Watch arrives before the party is ready, she meets it at the gate and holds it for ten minutes by talking, and she does not go in.
+> - **Vault of Dragons:** Savra stands at the main gate of the City of the Dead and does not go in. If the Watch arrives before the party is ready, she meets it at the gate and holds it for ten minutes by talking.
 > - **Renown loss:** a member whose Renown falls below 10 keeps the rank, and Savra's help waits until the Renown is restored.
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Whitehawk member earns further Renown from missions and from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide, at their own pace.
+The rank event awards no Renown, and each Whitehawk member earns further Renown from missions at their own pace. The ordinary rewards are listed on the Order of the Gauntlet page of the Factions Guide.
 
 ### Aftermath
 
@@ -244,7 +244,7 @@ The Event concludes when the member has heard all six benefits, has chosen an it
 
 > [!gamemaster]**Next Steps**
 >
-> All six benefits are active for this member from the next morning. **The Shrine on Aveen Street** becomes available when an individual Order of the Gauntlet member reaches Renown 10 and 6th level, and Savra summons the member to the Halls by note. **Vindicator** occurs when this member reaches Renown 25. This Event awards no Renown and no Milestone Points.
+> All six benefits are active for this member from the next morning. **The Shrine on Aveen Street** becomes available when an individual Order of the Gauntlet member reaches Renown 10 and 6th level. Savra summons the member to the Halls by note. **Vindicator** occurs when this member reaches Renown 25. This Event awards no Renown and no Milestone Points.
 
 ## Overview
 
