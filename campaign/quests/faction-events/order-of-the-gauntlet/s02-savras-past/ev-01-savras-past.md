@@ -2,14 +2,14 @@
 
 > [!gamemaster]**Gamemaster's Summary**
 >
-> This Social Event begins when Savra Belabranta walks an Order of the Gauntlet member to the east annex of the Halls of Justice, or when a member tells her who may have paid for the Howling Hatred. It ends when the member answers the question she asks at the close. In this Event, the party can:
+> This Social Event begins when Savra Belabranta walks an Order of the Gauntlet member to the east annex of the Halls of Justice. It can also begin when a member tells her who may have paid for the Howling Hatred, and it ends when the member answers the question she asks at the close. In this Event, the party can:
 >
 > - Walk with Savra at dusk to a small chapel of Tyr and hear what she did in the Howling Hatred.
 > - Bring her the suspicion that old Waterdhavian money paid for the cult, from Mirt or from Saeth Cromley.
 > - Hear how she takes that news and what she refuses to say about it.
 > - Answer her closing question and earn the single nod she gives only to honest answers.
 >
-> Only individual Order members are told. Companions are not invited, hear nothing and gain nothing.
+> Only individual Order members are told, and companions are not invited, hear nothing and gain nothing.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -26,11 +26,11 @@
 
 > [!gamemaster]**Who Hears This, and When**
 >
-> Each member hears this once. Two triggers fire it, and whichever comes first sets the scene.
+> Each member hears this once, and two triggers fire it, with whichever comes first setting the scene.
 >
 > - **Trigger A, the walk.** A member who has reached Renown 3 and 3rd level, and who has seen Savra fight beside them at least once, is eligible. The fight can be **Spined Devils in Twelvedog Court**, a Marcheon operation or any other. Savra knocks at dusk on the third day after the fight.
 > - **Trigger B, the suspicion.** The first time a member tells Savra that Cassalanter money lay behind the Howling Hatred, the Event fires wherever they stand. The member says it as a suspicion, and Savra never confirms it.
-> - If the member is eligible for Trigger A, Trigger B runs the full scene at dusk the same day, or the next dusk if the telling comes after dusk. If not, Savra gives the short reply in **The Short Version**, and the full scene waits for Trigger A.
+> - If the member is eligible for Trigger A, Trigger B runs the full scene at dusk the same day. If the telling comes after dusk, it runs at the next dusk. If the member is not eligible, Savra gives the short reply in **The Short Version**, and the full scene waits for Trigger A.
 > - If the member is away from Waterdeep, Savra comes at dusk on the day they return. If **Quietly Reassigned** is marked for the member, she waits until the next dusk.
 > - If the tithe visit in **The Tithe** falls on the same dusk, she holds this one back a day.
 
@@ -46,9 +46,9 @@ If Trigger B fires and the member is eligible, Savra stops what she is doing. Re
 
 > [!readaloud]
 >
-> Savra stops in the middle of a sentence and turns to face you, and her hands go still at her sides. She lets you finish without a word.
+> Savra stops in the middle of a sentence and turns to face you, with her hands gone still at her sides, and she lets you finish without a word.
 >
-> > "Tell me what you were told, and who told you. Exactly."
+> > "Tell me exactly what you were told, and who told you."
 >
 > She listens to the end and does not ask a second question.
 >
@@ -56,12 +56,12 @@ If Trigger B fires and the member is eligible, Savra stops what she is doing. Re
 
 ### Where the Suspicion Comes From
 
-The Cassalanter suspicion reaches an Order member by two routes, and either one is enough to fire Trigger B. Neither route proves anything.
+The Cassalanter suspicion reaches an Order member by two routes, and either one fires Trigger B without proving anything.
 
 > [!gamemaster]**Two Routes to Savra**
 >
 > - **Mirt, through a Harper.** In **Fireball!** Mirt tells a Harper member of Renown 1 or higher that Cassalanter money may have been behind the Howling Hatred three years ago. The Watch released two of its members after a quiet word from someone at Cassalanter Villa. He has no proof, and he shares it because he is worried. The Harper can pass the words on, and any Order member who hears them can carry them to Savra.
-> - **Saeth Cromley, in the sergeants' room.** Saeth sits in the Watch sergeants' room at the Halls of Justice most afternoons, and any member who buys him a drink and asks about the Howling Hatred gets the account below. No check is needed. A Harper member who already holds Mirt's account gets the same story from Saeth as a second source.
+> - **Saeth Cromley, in the sergeants' room.** Saeth sits in the Watch sergeants' room at the Halls of Justice most afternoons. Any member who buys him a drink and asks about the Howling Hatred gets the account below, with no check needed. A Harper who already holds Mirt's account gets the same story from him as a second source.
 
 > [!social]**The Retired Sergeant**
 >
@@ -99,7 +99,7 @@ The Cassalanter suspicion reaches an Order member by two routes, and either one 
 
 ### The Walk to the Annex
 
-The east annex stands behind the main hall of the Halls of Justice, and the side door is unlocked at dusk for Savra alone. Other Order members who qualify at the same time may walk with her. Anyone else stays outside.
+The east annex stands behind the main hall of the Halls of Justice, and the side door is unlocked at dusk for Savra alone. Other Order members who qualify at the same time may walk with her, and anyone else stays outside.
 
 > [!readaloud]
 >
@@ -113,7 +113,7 @@ The east annex stands behind the main hall of the Halls of Justice, and the side
 > - Its ranks ran from Initiate through Windwalker to Windcaller, and a few ordained leaders sat above them. The rank names are invented for this campaign.
 > - It met in a derelict Dock Ward tower for its last two years. Member offerings could not have paid for the tower, so money came from outside.
 > - It broke in a single tenday of arrests. The high priest was never found, and no Watch record names the source of the money.
-> - It is not active during the campaign. Its surviving members scattered or recanted.
+> - It is not active during the campaign, and its surviving members scattered or recanted.
 
 ### What She Did
 
@@ -121,27 +121,27 @@ Savra tells this standing, and she gives no nod while she tells it. Read the fol
 
 > [!readaloud]
 >
-> Savra keeps her eyes on yours while she speaks, and her voice stays level.
+> Savra keeps her eyes on yours while she speaks, and her voice stays level while she keeps looking at the member nearest her.
 >
-> > "I was in the Howling Hatred for three years. I've told you the name, and I haven't told you what I did. I was close to taking the Windcaller's oath."
+> > "I was in the Howling Hatred for three years, and I've told you the name without telling you what I did. I was close to taking the Windcaller's oath."
 >
-> She pauses, and the lamp on the ledge flickers in the draught from the passage.
+> She pauses while the lamp on the ledge flickers in the draught from the passage, and then she goes on.
 >
 > > "The cult kept a tower in the Dock Ward. The high priest held a rite there on a night of storm, and he called it a test of faith. Four initiates were brought up to the roof. They were all newer than me, and he bound each of them to a ring-bolt in the parapet and told them to trust the wind."
 >
-> Her hand closes once at her side, and she goes on.
+> Her hand closes once at her side, and she looks at the floor between you before she speaks again.
 >
 > > "My task was the stairwell door. I was to stand there and see that nobody went down. I knew what the bindings were and I knew what the storm would do. I held that door like a fucking post, and I let it start."
 >
-> She looks past you at the statue, then back.
+> She looks past you at the statue for a moment, and then she looks back at the member nearest her.
 >
 > > "Two of them went over before I moved. Then I broke the circle and dragged the other two in off the ledge. One of the two who fell caught a drainpipe on the way down, and I saw his hands on it. I didn't see what came after."
 >
-> > "I walked out of that tower into the storm. Two days later I went to the Halls of Justice and asked for a cleric of Tyr. I gave them every name I had. I expected a cell, and they took me in as a penitent. I'm still not sure they were right to."
+> > "I walked out of that tower into the storm. Two days later I went to the Halls of Justice and asked for a cleric of Tyr. I gave them every name I had, and I expected a cell, but they took me in as a penitent. I'm still not sure they were right to."
 
 > [!social]**The Woman at the Lamp**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight of the Order of the Gauntlet in her late twenties, with dark hair worn back and a strong jaw, standing in the chapel with her hands at her sides.
+> Savra Belabranta (Lawful Good, Human, she/her) :: a knight of the Order in her late twenties, with dark hair worn back and a strong jaw, standing in the chapel.
 >
 > Savra is Friendly toward the member she has brought, and she tells the account without ornament. She pauses before each serious answer and says "I'll tell you plainly" before the hard parts. She calls Tyr "the Maimed God" and the party by name. She swears rarely, and only at wrongdoing, her own included.
 >
@@ -208,7 +208,7 @@ This applies when a member raises the suspicion through Trigger B before they ar
 >
 > Savra stands for a moment with her jaw set, and then she looks at the member who spoke.
 >
-> > "Thank you. It fits what I saw, and I can't prove it. I was in that cult, and the money was old Waterdhavian money. You'll hear the rest from me later, once I've fought beside you. Not before."
+> > "Thank you, it fits what I saw, and I can't prove it. I was in that cult, and the money was old Waterdhavian money. You'll hear the rest from me later, once I've fought beside you. Not before."
 
 ### The Ask
 
@@ -216,11 +216,11 @@ When she has finished, Savra looks at each member in turn. Read the following al
 
 > [!readaloud]
 >
-> Savra looks at each of you in turn, and the second lamp throws her shadow across the statue. She waits until she has the attention of the member she brought.
+> Savra looks at each of you in turn, and the second lamp throws her shadow across the statue, and she waits until she has the attention of the member she brought.
 >
 > > "Now you know. I'll ask you plainly what you will do with it."
 
-An answer is honest when it says what the member will do. The table fixes Savra's reply to each kind of answer. Each member present answers for themselves.
+An answer is honest when it says what the member will do, and the table fixes Savra's reply to each kind of answer. Each member present answers for themselves.
 
 > [!gamemaster]**Savra's Replies**
 >
@@ -245,13 +245,13 @@ When every member present has answered, read the following aloud:
 
 ### Renown Opportunities
 
-This Event awards no Renown. The Earning Renown actions do not apply to it, and a member who answers well gains nothing for it. Companions are not present and gain none.
+This Event awards no Renown, and the Earning Renown actions do not apply to it. A member who answers well gains nothing for it, and companions are not present and gain none.
 
 ### Aftermath
 
-Savra does not refer to the evening again unless a member asks. She does not change how she briefs the next mission.
+Savra does not refer to the evening again unless a member asks, and she does not change how she briefs the next mission.
 
-**Righteous Hand** reads **Savra's Past Known** to decide whether her investiture words to that member name the night on the tower. **Cassalanter Villa** (unconverted) reads both outcomes: a member with **Savra's Past Known** marked sees her go quiet on the approach, and with **Cult Funding Linked** as well she says only "I want this done right." **Vault of Dragons** (unconverted) reads both outcomes when Savra speaks for the party before the Lords. If neither quest runs, nothing changes.
+**Righteous Hand** reads **Savra's Past Known** to decide whether her investiture words to that member name the night on the tower. **Cassalanter Villa** (unconverted) reads both outcomes. A member with **Savra's Past Known** marked sees her go quiet on the approach, and with **Cult Funding Linked** as well she says only "I want this done right." **Vault of Dragons** (unconverted) reads both outcomes when Savra speaks for the party before the Lords, and if neither quest runs, nothing changes.
 
 ### Concluding the Event
 
@@ -259,12 +259,12 @@ The Event concludes when every member present has answered, or been sent away to
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Savra's Past Known** — mark with the name of each member who hears **What She Did**; read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
-> - **Cult Funding Linked** — mark with the name of each member who tells Savra the funding suspicion, in the full scene or in **The Short Version**; read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
+> - **Savra's Past Known** — mark with the name of each member who hears **What She Did**. Read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
+> - **Cult Funding Linked** — mark with the name of each member who tells Savra the funding suspicion, in the full scene or in **The Short Version**. Read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**
 >
-> **Savra's Past** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level and has seen Savra fight beside them, or when any member tells her the funding suspicion. It fires once for each member, and no Order event waits on it. Each member's next work is whichever mission or rank event their Renown has opened. This Event awards no Milestone Points.
+> **Savra's Past** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level and has seen Savra fight beside them. It also becomes available when any member tells her the funding suspicion, and it fires once for each member, and no Order event waits on it. Each member's next work is whichever mission or rank event their Renown has opened. This Event awards no Milestone Points.
 
 ## Overview
 
