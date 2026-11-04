@@ -29,7 +29,7 @@ At noon on the first day the member is above ground, a **Priest Acolyte** in a p
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Savra has never held Righteous Hand, and the last holder was Sir Aldwin Dunhallow, a senior Knight of the Waterdeep chapter who died six years ago of a fever caught nursing fire victims.
+> - Savra has never held Righteous Hand. The last holder was Sir Aldwin Dunhallow, a senior Knight of the Waterdeep chapter who died six years ago of a fever.
 > - Savra joined the Order after he died, so she knows him only from the roll and from what Father Corwen Thale says.
 > - The Waterdeep chapter is Savra, the clerk's office and the rotation of about a dozen Knights and Priests who answer to her.
 > - Six Knights and two Priests of that rotation stand in the hall as witnesses, and they are the Mobilization.
@@ -52,7 +52,7 @@ The main hall of the Halls of Justice holds sixty people, and today it holds the
 
 > [!social]**The High Priest of Tyr**
 >
-> Isaldric Veyne (Lawful Good, Human, he/him) :: the high priest of Tyr in Waterdeep, a tall man in his seventies with white hair and a silver set of scales on his chest.
+> Isaldric Veyne (Lawful Good, Human, he/him) :: the high priest of Tyr in Waterdeep. He is a tall man in his seventies with white hair and silver scales on his chest.
 >
 > Veyne is Friendly and grave, and he speaks slowly in whole sentences that never need repeating. He calls Tyr "the Even-Handed", swears rarely and mildly, and answers every question the member asks without hurrying.
 >
@@ -179,7 +179,7 @@ If **Savra's Past Known** is marked for the member, read or paraphrase the follo
 > - **The operation:** one major operation in each quest, against a named enemy, and the force follows the member's plan until the objective is done.
 > - **One force:** the use is counted once for the whole party, because there is one force. If two members ask for the same day, the first to ask spends it.
 > - **Below ground:** the force marches on the surface unless the member holds **Undermountain Mandate Accepted**, which is described in The Mandate.
-> - **Refusals:** the force refuses an order to attack the Watch, a Lord or a creature that has surrendered, and it leaves at once if the member lied about the enemy.
+> - **Refusals:** the force refuses an order to attack the Watch, a Lord or a creature that has surrendered. It leaves at once if the member lied about the enemy.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the rank, and the Mobilization waits until the Renown is restored.
 
 > [!gamemaster]**The Mobilization as Allies**
@@ -195,7 +195,7 @@ If **Savra's Past Known** is marked for the member, read or paraphrase the follo
 > | 10 | 2 / 3 / 4 | 219 / 302 / 385 | 131.4 / 181.2 / 231 | 164.25 / 226.5 / 288.75 |
 > | 11 | 2 / 3 / 4 | 236 / 323 / 410 | 141.6 / 193.8 / 246 | 177 / 242.25 / 307.5 |
 >
-> A Knight is below twice the Power of an 8th-level character (44), so the High-Power Warning does not apply. At five PCs the force raises Party Power by 55 percent at level 8, which is a major addition. When the member calls the Mobilization for a fight you build in advance, build it on the allied total. When the force answers an aid call in Undermountain, where the level's encounters are already sized for the base party, treat the Knights as a reserve that joins at the start of round 3.
+> A Knight is below twice the Power of an 8th-level character (44), so the High-Power Warning does not apply. At five PCs the force raises Party Power by 55 percent at level 8, which is a major addition. When the member calls the Mobilization for a fight you build in advance, build it on the allied total. An aid call in Undermountain meets encounters already sized for the base party. In that case treat the Knights as a reserve that joins at the start of round 3.
 >
 > #### The Mobilization's Tactics
 >
@@ -239,7 +239,7 @@ When the other witnesses have gone, Savra sits on the altar steps with a folded 
 
 > [!social]**The Knight on the Steps**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin at her collar.
+> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin.
 >
 > Savra is grave and exact, and she states each limit before she names the benefit it belongs to. She pauses before every serious answer, gives her single nod only to an honest one and swears rarely, in short bursts aimed at wrongdoing. She does not push the document toward the member, and she does not pull it back.
 >
@@ -277,8 +277,8 @@ When the other witnesses have gone, Savra sits on the altar steps with a folded 
 >
 > - **Contact:** the member writes the level, the place and the request, signs it and presses their pin into the wax. A carrier takes it up the stairs to Brother Teodric Naal, a Priest Acolyte who sits at a back table of the Yawning Portal from dawn to dusk.
 > - **Delay:** Brother Teodric takes the note to Brother Haldric the same day. The answer reaches the named level's arrival stair after three days plus one day for every three levels of depth, rounded up.
-> - **The Mobilization:** the member may ask for the force, which spends the quest's one operation, so a member who used it on the surface cannot call it below in the same quest.
-> - **The Priests:** the member may ask instead for Mother Odessa and Father Nolan, who hold the arrival stair for one day and one night and carry any dead or wounded up to the Halls on request.
+> - **The Mobilization:** the member may ask for the force, which spends the quest's one operation. A member who used it on the surface cannot call it below in the same quest.
+> - **The Priests:** the member may ask instead for Mother Odessa and Father Nolan. They hold the arrival stair for one day and one night and carry any dead or wounded up to the Halls on request.
 > - **Limit:** one aid call for each level the member enters, spent when the answer arrives. A level the member leaves and enters again gives no second call.
 > - **No other word:** the Order casts no *Sending*, so every note and every answer travels on foot.
 > - **Renown loss:** a member whose Renown falls below 50 keeps the Mandate, and the aid call waits until the Renown is restored.
@@ -307,7 +307,7 @@ If the member leaves the paper, read the following:
 >
 > - **Level 15:** the ghost of Fidelio, a paladin of Tyr, haunts the Obstacle Course. A follower of Tyr can persuade him to rest with a **DC 20 Charisma (Persuasion)** check after someone else has killed Netherskull.
 > - **Level 21:** Fazrian, once a planetar of Torm, is corrupted. A character it judges innocent can ask it to judge itself with a **DC 26 Charisma (Persuasion)** check.
-> - **Level 22:** Dezmyr and Zalthar Shadowdusk, former paladins of Torm, are now death knights, and a shrine of Torm with a white gauntlet fresco stands in the hold.
+> - **Level 22:** Dezmyr and Zalthar Shadowdusk, former paladins of Torm, are now death knights. A shrine of Torm with a white gauntlet fresco stands in the hold.
 > - **Level 23:** Aryx, a deva sent by Tyr to reach Fazrian, is trapped in a shield in the vaults.
 > - The adventure has no Order of the Gauntlet. The white gauntlet is Torm's symbol, and Torm is one of the Triad the Order serves.
 > - The transport and *Sending* limits are recorded in **Force Grey Commander** and are not repeated here. The Order has no *Sending*, so every courier and every Priest walks the stairs.
@@ -332,10 +332,10 @@ The Event concludes when the member has been invested, has received the writ, th
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Righteous Hand Reached** — mark with the recipient's name when Veyne invests the member; read by **Dungeon of the Mad Mage** (unconverted) content that checks standing with the Order.
-> - **Undermountain Mandate Accepted** — mark with the member's name when they sign the document; read by **Dungeon of the Mad Mage** (unconverted) for the aid call and for the Mobilization below ground.
+> - **Righteous Hand Reached** — mark with the recipient's name when Veyne invests the member. It is read by **Dungeon of the Mad Mage** (unconverted) content that checks standing with the Order.
+> - **Undermountain Mandate Accepted** — mark with the member's name when they sign the document. It is read by **Dungeon of the Mad Mage** (unconverted) for the aid call and for the Mobilization below ground.
 >
-> This Event also reads **Vindicator Reached** (the hold), **Savra's Past Known** (one line from Savra), **Order Recognized** (one line from Savra) and **Devil Sent Back** (one line from Veyne). It reads **Quietly Reassigned** to decide who writes the note. It reads **Manshoon Named** and **Jarlaxle Unmasked** only for the speakers' wording.
+> This Event also reads **Vindicator Reached** for the hold. It reads **Savra's Past Known** and **Order Recognized** for one line each from Savra, and **Devil Sent Back** for one line from Veyne. It reads **Quietly Reassigned** to decide who writes the note. It reads **Manshoon Named** and **Jarlaxle Unmasked** only for the speakers' wording.
 
 > [!gamemaster]**Next Steps**
 >
@@ -343,7 +343,7 @@ The Event concludes when the member has been invested, has received the writ, th
 
 ## Overview
 
-Isaldric Veyne, the high priest of Tyr, invests an Order of the Gauntlet member as Righteous Hand in the Halls of Justice, and Savra offers the Undermountain Mandate once the witnesses have left.
+Isaldric Veyne, the high priest of Tyr, invests an Order of the Gauntlet member as Righteous Hand in the Halls of Justice. Savra offers the Undermountain Mandate once the witnesses have left.
 
 ## Summary
 
