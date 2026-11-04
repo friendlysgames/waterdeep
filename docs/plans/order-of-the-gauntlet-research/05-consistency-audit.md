@@ -259,3 +259,190 @@ This is the Order's central rule problem. **Inventory of every line that tells a
 - **Jarlaxle:** no Order event names him. `arc-h:39` has Savra tracking Soluun; the Faire is Jarlaxle's, and no speaker says "Jarlaxle" before **Jarlaxle Unmasked**. **Pass.**
 - **Two Zhentarims:** the only slip is "a Zhentarim-funded brawl" (R 00:86; PREV 00:156) and "Zhent-paid" (G05:66; ev-04:74). The Doom Raiders are also Zhentarim. Say "the other cell" or "the Splinter".
 - **Illuun:** no Order event names Illuun or the Stone's second master. **Pass.**
+
+## 5. Savra, Valdra and the other persons: every fact on every page
+
+### 5.1 Savra Belabranta
+
+| Fact | Source | Conflict |
+|---|---|---|
+| Tethyrian human knight, neutral good, **Knight** block (CR 3, 52 HP) | NF-Sav:6; WDH ("NG female Tethyrian human knight") | None. |
+| Belabranta family: WDH "a Waterdavian noble family that raises griffons for the Griffon Cavalry"; AppB the same; O04:19 "a noble family known for raising griffons" | | NF-Sav:26 repeats it. NF-Sav and G05 call her Tethyrian while the family is Waterdavian; harmless (a Tethyrian-born daughter), but state it once. |
+| Late twenties, looks older, dark hair worn back, strong jaw | NF-Sav:22; O04:8; AppB; R 00:108 | None. |
+| Howling Hatred tenure: **three years** | R 00:18, :58, :116 (First Meeting) | **R s02:33 and :49: "four years"**; R s02:51 and :25 date the cult's end "three years" ago. PREV keeps :33. |
+| She asked for a cleric of Tyr "two days later" and was taken in as a penitent | R s02:59-61 | O04:8 and AppB: "atoning". Consistent. |
+| Cult details: Windcaller rank, rite on a Dock Ward tower, two of four initiates fell | R s02:21-27, :49-57 | **Invented**; WDH says "Savra's sins are irrelevant ... see Princes of the Apocalypse", whose Howling Hatred lives in the Dessarin valley. The Waterdeep branch is the remix's own. |
+| **"The only Order member in Waterdeep"** | R 00:86 | Contradicts the Waterdeep chapter used everywhere else: "the Order's Waterdeep office" with clerks (R s01:52), "two Order knights" as witnesses (R r25:25), "six senior Order members" (R r50:36), "the senior council" (R r50:22). |
+| **Gave Righteous Hand "once before in Waterdeep ... four years ago"** | R r50:42 | Savra left the cult about three years ago and then entered the Order (R s02:59-61). She could not have invested anyone four years ago. |
+| "Three of the four people who've held Vindicator in Waterdeep in the last fifteen years are dead" | R r25:81 | Savra has been in the Order at most three years; the "last fifteen years" is chapter history, fine if the Order is older than she is in it. |
+| The nod, "I'll tell you plainly", no-managing | R 00:60; Voice:12-14 | R uses the nod; none of the Voice's signature phrases appears ("I'll tell you plainly", "That's not good enough", "Ask me. I'll answer."); the Voice calls Tyr "the Maimed God"; R never does. |
+| Swearing: stingy, aimed at wrongdoing | Voice:11 | R Savra never swears. Pass; the rewrite may use one line. |
+| Savra at the Halls of Justice, "the temple of Tyr west of the Market in the Castle Ward" | WDH; AppB ("the Castle Ward") | **R 00:78 "a short walk into the Temple District"**; the guide and structure docs just say the Halls. Fix to the Castle Ward. |
+| Mission delivery "in person; no paper birds ... unless urgent" | O04:7-8, :23; AppB | R m02 ev-01:7, :96 and PREV m02 deliver by paper bird (a Harper marker: ev-04 Harpers row); r25/r50 deliver by written summons (fine). |
+| Attends Trollskull "in person" as a renovation helper | ev-04:58; `02-operating-costs.md:83` | Not in the First Meeting. |
+
+### 5.2 Sister Valdra
+
+NF-Val (:6-8, :42-56) is the controlling page: half-orc cleric of Tyr, lawful good, **Priest**, **unofficial** ("unsanctioned by Savra"), "Featured in: Background figure; no scripted appearance". She has built a three-piece Cassalanter case on her own time and does not tell Savra. She can recognize Ivrala Sorn (DC 13 Perception, both on staff). The Trollskull staff entry (`03-staff-and-hiring.md:77`) confirms it and adds a "+1 OotG Renown per tenday, cap +3" staff effect.
+
+R and PREV use her in **s01** (:12, :54: "Sister Valdra becomes their contact for day-to-day Order assignments"), **r50** (:9, :36, :60: a senior Order member who presents the silver pin) and **s01 Next Steps** (:86: "redirect all future OotG mission deliveries through Sister Valdra"). Three scripted Order appearances contradict the page, the org page, the staff entry and the Voice ("never involves Savra officially", Voice:33). **Settled by the plan: Valdra stays unofficial, appears in none of the seven events, s01 uses a named Halls clerk, and r50 is invested by the high priest of Tyr.** The Voice note at the foot of the Order voice doc (about NF-Val saying "Asmodeus worship") is stale because NF-Val has been fixed.
+
+### 5.3 The other persons
+
+| Person | R location | Other pages | Notes |
+|---|---|---|---|
+| Pell (Xanathar dealer, **Bandit**) and two companions | R m01 ev-01:27 | WDH ("Pell"); no NF | AppC: Rusted Anchor in the Dock Ward. |
+| Gaxly Rudderbust, 40, Illuskan human | R m02 ev-01:28 | No NF page; BD m02 ev-01:358 "Neutral"; AppC "N Commoner"; R/PREV "unaligned" | Align to Neutral. He is in two chains (BD design-notes:29). |
+| Ilmeth Waevlur, retired Hall of Records clerk | R m02 ev-01:45 | none | Free name. |
+| Seffia Naelryke | R m02 ev-01:53 ("Tethyrian, mid-thirties, minor noblewoman"; guards = two **Thugs**) | NF `10-seffia-naelryke.md:22-26`: Cassalanter response-team leader, **Cultist Fanatic**, stationed at the Converted Windmill, Southern Ward, "does not receive visitors"; `arc-e:275-285`; `11-cassalanters.md:17` | **Two personas.** **Settled by the plan:** the tea-house contact is a household secretary under another name; windmill Seffia stays for Outposts. |
+| Imp watcher | R m02 ev-02:19-23 | `11-cassalanters.md:11` (imps summoned at the shrine) | **Settled by the plan:** a raven-form imp, sender unproven. 2024 Imp shape-shifts into a raven (Fly 60 ft). |
+| Kelso Fiddlewick (Wererat, Lightfoot Halfling) | R m03 ev-01:34 | NF-Kel; DR m03 ev-01:255-290 | NF: "eight wererats" in the gang, a middleman who never names a customer; Danika "works alongside him". R: Danika is a traumatized fourteen-year-old. Reconcile in the rewrite (Danika works in the gang's sewing/fence room, not in raids). |
+| Danika Fiddlewick, 14; Darrick Holstan (fired guard); Trevar (Endshift innkeeper) | R m03 overview:17-19 | AppC; DR m03 mentions "the Endshift" | Names clean. |
+| Gysheer Omfreys (Cult Fanatic -> Cultist Fanatic) | R m04 ev-01:39 | AppC (LE Tethyrian) | Clean name. |
+| Orros (chandler) | R m05 ev-01:21 | none | The `grep orros` hits in `arc-a`/`z03` are substrings ("Zorros"-like), not a person. |
+| Tobrin (armory cleric) | R r03:23 | **Tobrin Ashvale**, Xanathar bartender, **Spy** (`xanathars-guild/13-tobrin-ashvale.md`) | **Collision.** Rename. |
+| Victoro Cassalanter | M4-M6, r10, r25 | NF `01-victoro-cassalanter.md`; `arc-g:9-19` | Ledger in his hand conflicts with `arc-g:19` (the feast is Ammalia's plan). |
+| Lord Victoro's "Masked Lord contact" | R m05 ev-01:57 | none | Unsourced; drop. |
+| Horned Devil and "infernal patron" | R m06 | `arc-g:15` (Asmodeus answers via a pit fiend proxy) | If the patron is the pit fiend proxy, say so only in GM text. |
+| The Black Viper | M2 (story only) | NF `02-the-black-viper.md`: Lady Esvele Rosznar, an independent burglar who "does not kill", base above the Brandath Crypts | Esvele's age is 17 (`arc-g:289`) vs a "twin of Ammalia" story. |
+
+## 6. Name collisions
+
+Every Order name and place was checked against `campaign/`, the WDH and the other six factions (grep, case-insensitive).
+
+| Order name | Collides with | Verdict |
+|---|---|---|
+| **Tobrin** (armory cleric, R r03:23) | Tobrin Ashvale (Xanathar, `13-tobrin-ashvale.md`; also in `09-response-teams-at-the-tavern.md`, `03-staff-and-hiring.md`) | **Rename** (e.g. Brother Anselm). |
+| **The shrine on Aveen Street**, Field Ward chandler's cellar (M5) | Asmodean Shrine, North Ward, Aveen Street (`arc-e:247-285`; `11-cassalanters.md:23, :79`; BD m02 ev-01:100 "a cellar somewhere off Aveen Street") | **Settled by the plan: hybrid.** The chandler's cellar is a street entrance to the canonical North Ward shrine; M4/M5 count as a fifth path; one ward everywhere (North). Fix G05:70 ("Field Ward"). |
+| **Seffia Naelryke** (tea-house noblewoman, Trades Ward) | The windmill Seffia (NF; arc-e; BD m05) | **Settled by the plan: alias.** |
+| **Rusted Anchor** (Pell, Dock Ward) | LA m03 source uses it; LA moved off (`lords-alliance/m03.../design-notes.md:9`) | Keep with the Order. |
+| **Pell** (dealer) | "Pell Street" (LA M4, Yander Coirn's feed store); false firm "Harrow & Pell" (BD m02) | Low risk; consider renaming the dealer if the drafter sees confusion. |
+| **Kelso's debt** (one-use favour, M3) | **Shard Shunners Goodwill** (DR m03, read by Faction Outposts); DR m03 says it "does not spend" the Order's favour | Two Shunner states; keep both, name them apart (the plan gives Kelso's debt an outcome with one defined spend). |
+| **Mediation Path Taken** | DR m03 reads it | Same state; keep. |
+| **Ledger Recovered** | DR **Relay Ledger Recovered**; LA **Ledger Delivered**; DR **Handler Ledger Read/Lost** | No exact collision; avoid "Ledger" in a fourth bare name (use **Victoro Ledger Recovered**). |
+| **Order Recognized** | FG/others **Recognition Public / Recognition Sealed** | Distinct. |
+| **The Tenday Watch / The Long Watch** | FG m03 ev-01 "The Tenday Watch" | The Order has no "Watch" title. Pass. |
+| **Halls of Justice** (R: Temple District; R/other: Castle Ward) | WDH: west of the Market, Castle Ward. DR r03 mentions "Hall of Justice clerks" (`doom-raiders/r03-wolf/design-notes.md:17`) | **Settled by the plan:** one ward (Castle Ward, per WDH and AppB). |
+| **Immar / Stallion Streets, Wazoo** | BD m02 (same building, Pennet and Hovan Dree, candlemaker) | Shared place; the Order's M2 should name the candlemaker's ground floor and Hovan if it uses the stair. |
+| **Immar and Salabar** | Harper M1 Maxeene (`harpers/m01.../design-notes.md:17`) | Different street pair. |
+| **Chandler motif** (Orros's shop; Tarrow's Tallow and Wick, DR r03; the BD candlemaker) | | Three Dock/Sea/North chandlers; rename Orros's trade (e.g. a lamp-oil seller) if the shrine entrance should feel distinct. |
+| **Gaxly** | BD m02, OotG M2 | Same character. |
+| **Ivrala Sorn** | Trollskull staff; Valdra recognizes her | Valdra's recognition is Trollskull-only; keep out of the events. |
+| **Barrow's Wick, Lamp Street, Steaming Anchor, Crispin Street, Twelvedog Court, Endshift Tavern, Ilmeth Waevlur, Trevar, Darrick Holstan, Danika, Gysheer, Orros, Halek-type names** | none (grep clean) | Free. |
+| **Savra, Valdra** | NF pages | Same characters. |
+| **Hlam** | NF-Hlam:7, :26 ("ally of the Order") | Hlam is Force Grey's M1 contact; the Order has no Hlam beat. Leave. |
+| **Sir Ambrose's silver gauntlet pin** (Kelemvor, EE m02) | The Order's silver gauntlet (R 00:80, r50:60) | Cosmetic; do not reuse the pin as an Order badge. |
+
+## 7. Contradictions to resolve before drafting
+
+### 7.1 Valdra
+Section 5.2. **Settled:** unofficial, in none of the seven events.
+
+### 7.2 The Aveen Street shrine
+Section 2c, 6. The chandler's cellar entrance is added to the canonical shrine (North Ward). Cross-edit: G05:70, `11-cassalanters.md` (add the entrance as an Outposts path), `arc-e:249` (a fifth path). The ledger and bearded devil belong to the Order's version; the Outposts version has imps, a Styxian shrine and Arn's book. If the party has already hit Outposts 6A when M5 runs, say what is left (the shrine is quiet, the cellar still holds the ledger).
+
+### 7.3 M2 and the Black Viper
+- Order of play against BD M2: BD's note says "verify before print" (BD m02 ev-01:~210); R M2's Wazoo has already printed. **Fix:** the Order's M2 runs the story as printed *and* BD's note is the pre-print version; add the day table so either order reads (plan).
+- Seffia's "the Cassalanters know who the real Black Viper is" contradicts `arc-g:193` and NF Black Viper. Drop the line or reword to "the family wants the Watch looking at the North Ward".
+- Forged record "born 1470 DR" gives a 22-year-old twin to a mother of a fifteen-year-old and 9-year-old twins (`arc-g:9`). **Settled by the plan:** the forged year matches Ammalia's 1452 DR with no child count.
+- *Charm Person* extraction: replace (plan).
+- Second Wazoo story: R design-notes name "DR-M2"; PREV names "hidden-gold ... BD-M2". The BD exposé is "Devils at the Dinner Table" (BD m02 ev-01:100). Use that.
+
+### 7.4 M3
+- Wererat silver rule and DC 17 dispersal (R m03 overview:22; ev-01:40): remove the silver rule; keep DR's Curse of Lycanthropy note. Plan: Kelso-led rosters (Bruising).
+- Danika's age and role (section 5.3).
+- Kelso Splinter intel: phantom (section 2b); no change unless D12.
+
+### 7.5 M4
+- Stat and spell errors (Hurl Spine, Cult Fanatic, *Charm Person* extraction): see 4g.
+- Savra's constraint: "not officially" (R m04 ev-01:56) vs Gralhund ev-09:115 where she already "confirmed it from a separate source". Order them: Gralhund is Ches 24; M4 is at L5. State that the Gralhund line is her suspicion confirmed, not Gysheer's name.
+- Summary line "We have the grounds now" (PREV :193) contradicts Savra's ruling (Notes:107); remove.
+
+### 7.6 M5 and M6 (central design problem)
+- **Pact terms before the villa:** the M5 ledger as written reveals the soul-bargain, twelve acts, the Reckoning, a Founders' Day deadline. **Settled by the plan:** twelve dated entries in Victoro's hand with no terms and no explanation; Arcana recognizes "a bargain in writing" at most.
+- **Flamerule 1 never moves.** Four-day compression becomes one Cassalanter escalation tier toward the party (plan).
+- **Rider timing.** R has the devil arrive "six hours" before the party is summoned (R m06 ev-01:21) while M6 sits two levels and two heists after M5. **Settled by the plan:** re-time the rider to the night of the Lords' hearing.
+- **M6 enforcer: settled** as the Horned Devil with Savra fighting as a Knight ally, event at the Halls of Justice, two Priests stabilize her if she falls; the High-Power Warning and a Hard setting are stated; *Banishment* is not the solution (the 2024 Priest cannot cast it).
+- **M6 gate:** R14/L7 "follows Arc G" (R m06 overview:6) becomes R13/L7 after Kolat Towers. A three-heist party plays M6 after the Vault; the Vault reads **Order Recognized** with an "if not run" default (plan).
+- **M5 vs M6 sequencing line** (R m05 ev-01:74, "concurrently if the party delays the heist") goes.
+- **Recognition:** "each member" (R m06 ev-01:62) must be per named member; "Watch officers ... will not automatically intervene" (:65) needs a limit; "Savra will testify" needs a fixed result.
+
+### 7.7 Ranks
+- r03: "temple network ... if there's anything worth briefing" (R r03:39) is not zero-prep; fix with a fixed weekly briefing table by ward (EE r03 fixed reports as the model). The armory keeper is renamed.
+- r10: dossier "partial villa layout gives Advantage on initial orientation check" (R r10:91) needs a defined check; rare items; surveillance report content fixed by target type; "Savra still wants something admissible after M5" (Notes:112) is resolved by the ladder.
+- r25: use the M5 exhibit, not the r10 dossier, as predicate (Notes:113); findings table.
+- r50: Resurrection is a 7th-level spell; "each party member is knighted" becomes per character; "four years ago" removed; Valdra removed; no WDMM seed, so the Mad Mage hook is built from the Portal descent.
+- Rank 1 **Chevall** has no event; fold it into the First Meeting.
+
+### 7.8 First Meeting
+- Eligibility "paladins, clerics ... conviction" (R 00:7; ev-04:28) vs LA/EE any unaffiliated character: **settled by the plan** (any unaffiliated character; Paladin/Cleric/Acolyte/Guard/Soldier addressed first).
+- "The party accepts or declines" -> per name.
+- "She'll approach again after Fireball! / Gralhund" (R 00:72, :100) conflicts with a per-name closed or open offer; PREV says "seek her out at the Halls". Decide (D3).
+- "Renaer speaks well of you" (PREV only) vs R: acceptable.
+- Renovation help: ev-04:58 "100 gp" vs `02-operating-costs.md:83` "no money"; plan: 100 gp once plus the Watch watch-list note.
+- Nihiloor named in the pitch (4g).
+- Pitch states the targets as "Both become heist objectives in Act III" (R 00:22 GM text), fine.
+
+### 7.9 s01 and s02
+- s01: undefined "comparable windfall" (R s01:7); party-level consequences; Savra's testimony at the Vault "depends in part on this record" with no reader; reassignment contact (Valdra -> Halls clerk, settled); "Tithe Paid" and "Quietly Reassigned" per member; G05:46 gives +1 renown, s01 gives none.
+- s02: Trigger A "party holds Renown 3" -> per member (Notes:115); Trigger B is a Harper-only hook (4g, 1b); "four years" vs "three" (5.1); "Cassalanter Villa reads Savra's Past Known" needs the villa line that Savra does not speak.
+
+### 7.10 Structure docs vs events
+Siamorphe holy symbol (arc-g:41, :137, :493; villa pages), R10+ perks in five quests, the Gondafrey thread, Soluun murders, Faction Outposts Splinter trail: either deliver in an Order event (the symbol in M5 or r10) or edit the structure docs to match the rank events.
+
+### 7.11 Other
+- Watch response speeds: R m02 ev-01 none; the Order uses no Watch timers. Pass.
+- "Brandath"/"Vault district" in `arc-j:49` and G05:31: "Vault district" is not a Waterdeep district (the Vault is under the City of the Dead).
+- Gralhund ev-09:115 vs First Meeting "says nothing about diabolism": soften ev-09 or note.
+- G05:30 "Savra has been preparing for this since Mission 5" vs Marcheon's one operation per quest.
+
+## 8. Settled facts to keep (survive the rewrite)
+
+- **Names and roles:** Savra Belabranta; Sister Valdra (unofficial); Gaxly Rudderbust; Ilmeth Waevlur; Pell and two companions; Trevar; Kelso, Danika, Darrick Holstan; Gysheer Omfreys; Orros; Lord Victoro Cassalanter; the high priest of Tyr; the Waterdeep Wazoo at Immar and Stallion Streets; the Steaming Anchor (tea house, Trades Ward); Barrow's Wick on Lamp Street; Crispin Street room; Twelvedog Court; Endshift Tavern; Rusted Anchor.
+- **Places:** Halls of Justice (Castle Ward); Field Ward market square; Aveen Street (North Ward, hybrid).
+- **Outcome names other pages read:** **Order of the Gauntlet Joined**, **Mediation Path Taken**, the four rank "Reached" names, **Undermountain Mandate Accepted** (no name collision), **Order Recognized**, **Tithe Paid**, **Quietly Reassigned**, **Savra's Past Known**, **Cult Funding Linked**, **Shrine Destroyed**, **Ledger Recovered**, **Splinter Intel Reported**.
+- **Plot beats other files depend on:** M4 Gysheer names Victoro; M5 ledger in Victoro's hand; the Halls of Justice petition; Order Recognized as the M6 aftermath (`arc-j:49`); Savra at Marcheon as a once-per-quest ally (`arc-f:430`); the Nihiloor attempt; the Fireball! delivery-route thread; the Howling Hatred funding link from Mirt.
+- **Mechanics shared with other files:** rank thresholds 1/3/10/25/50; Chevall free temple healing; Marcheon armory and one operation per quest; Whitehawk surveillance, potions, item, spellcasting, dossier; Vindicator investigation, three Knights, +1 weapon; Righteous Hand six Knights, two Priests, Resurrection pledge, knighthood.
+- **Titles other files cite:** *Order of the Gauntlet First Meeting* (BD s04, ev-04, G05), *The Shard Shunners* (DR m03), *The Black Viper Investigation* (BD m02 and NFs), *Spined Devils in Twelvedog Court*, *The Shrine on Aveen Street*, *The Writ and the Weight* (arc-j:49). Do not retitle. Event names inside M2/M4 are free.
+- **Drop:** `[GM]` boxes, `[!design]`, `[!profile]`, `[!lore]`, `[!info]`, the ten `True / False` headings, `Milestone Overview/None`, "Arc X" labels, "Manshoon", "Zhent-paid", Thug, Cult Fanatic, Hurl Spine, Battle Frenzy, Priest *Banishment*, silver Wererats, Valdra scripted roles, "four years ago", "only Order member in Waterdeep", Temple District, the Masked Lord informer, the four-day compression, the 1470 forged year, Tobrin.
+
+## 9. Decisions
+
+**Settled by the approved plan (`docs/plans/order-of-the-gauntlet-plan.md`):**
+- **S1 Valdra stays unofficial** (no scripted appearance; s01 uses a named Halls clerk; r50 invested by the high priest of Tyr).
+- **S2 M2 uses an alias and a raven imp:** household secretary under another name at the tea house; windmill Seffia kept for Outposts; sender unproven; "What are they moving?" paid off in M4 or cut. Forged year matches Ammalia's 1452 DR.
+- **S3 M6 enforcer is the Horned Devil with Savra fighting as a Knight ally** at the Halls of Justice, rider re-timed to the Lords' hearing, Hard setting, High-Power Warning stated.
+- **S4 M5 hybrid shrine** (chandler's cellar = street entrance to the North Ward shrine; ledger of twelve dated entries, no terms; Founders' Day does not move; one escalation tier).
+- Shared gate ladder and base renown; three +1 bonuses; members-only briefs; "if not run" Villa readers; Halls of Justice in one ward; Splinter gate; M2 and M4 split; M3 keeps title and **Mediation Path Taken**.
+
+**Still open (recommendation first):**
+
+| ID | Question | Options | Recommendation |
+|---|---|---|---|
+| D1 | Armory cleric name | Tobrin (collides) / new name | New name (e.g. Brother Anselm). |
+| D2 | Siamorphe holy symbol that `arc-g` and two villa pages expect from Savra | give it in M5 or r10 / edit arc-g and villa pages | Give it at the end of M5 (Savra's chaplain), so the villa reads "if not run" cleanly. |
+| D3 | First Meeting offer after a decline | closed (LA) / open at the Halls (PREV) / returns after Fireball! (R) | Open at the Halls with no chase (PREV; Savra "does not push"). Add **Order of the Gauntlet Offer Closed** only if a reader needs it. |
+| D4 | Chevall and renovation help | in First Meeting / none | In the First Meeting: Chevall Benefits block; 100 gp once plus the Watch watch-list note; fix `02-operating-costs.md:83` and ev-04:58 to match. |
+| D5 | Order standing perks in five arc docs | add R10+ rows to Whitehawk / edit arc docs | Edit the arc docs to cite the Marcheon ally and Whitehawk surveillance only; no new perks. |
+| D6 | Soluun/elf-murder thread (arc-h:39, DR m01) | add an Order beat / drop from arc-h | Drop from arc-h or leave as a Faire-side Savra line with no Order event. |
+| D7 | Gondafrey thread (arc-i:39, :91, :271) | add an Order hook / edit arc-i | Edit arc-i; NF Gondafrey has no Order link. |
+| D8 | Savra's cult tenure | three / four years | Three years throughout; fix s02:33, :49; r50 "four years ago" removed. |
+| D9 | "Only Order member in Waterdeep" | cut / keep | Cut; replace with "the only one who could be spared for the Field Ward". |
+| D10 | s02 Trigger B | Harper-only hook / any source | Add a second route (Savra's own watch, Cromley path) so a non-Harper party can fire it. |
+| D11 | Earning Renown double counting | mission pays / standing action pays | Standing action pays once; mission bonus lists omit the +2 evidence and per-devil +1. |
+| D12 | Kelso Splinter intel | add one GM-only line (EE m03 already assumes it) / close the note | Add one GM-only line in M3 design notes and close both phantom notes. |
+| D13 | Pell's debt reader | write an arc-e line / drop the favour | Add one line to arc-e Scene 2 when converted; keep the Rusted Anchor. |
+| D14 | Gaxly alignment | Neutral / unaligned | Neutral (BD m02). |
+| D15 | Out-of-scope notes | | Delete Notes:762 and EE m03 design-notes:28 (phantoms). |
+
+## 10. What the model reading changed
+
+- **DR m03 and BD m02 show the event shape the Order must reach:** a Gamemaster's Summary that says "Only Order members attend the brief and the debrief" and a `Who Knows What` / `What Is Actually True` box before the first scene (DR m03 ev-01:14-18; BD m02 ev-01:14-27). Every R Order event opens with a `[GM]` summary and a `**Background (DM only)**` run-in instead. The truth boxes are where the Manshoon and Cassalanter gates belong; the Order has none.
+- **Debrief scenes:** DR m03 ends with Tashlyn's report and a `Mission Renown` block (ev-01:240-306); BD m02 with the payment scene. R's Order missions have no member-only debrief at all, only "Savra notes whether anyone was killed" lines. The rewrite needs one short debrief per mission at a fixed place.
+- **Per-member Renown** in a `Mission Renown` block ("Companions gain none", DR m03 ev-01:300-306; EE m04 ev-02:284-290) replaces R's "+1 Renown if" boxes.
+- **Rank events:** DR r03 and LA r03 give every benefit a contact, a place, a notice rule, a limit and a loss rule, plus a suspension line (DR r03 ev-01:112-236; LA r03 ev-01:101-215). R's four rank events deliver each benefit as a speech with no counters; r03 needs a fixed temple-briefing table (EE r03 ev-01:184-194), r10 a fixed item list, r25 a findings table.
+- **First Meeting:** LA 00 and EE 00 give the summons (card, cat), "Candidates and Companions", per-name outcomes, the first rank, and the renovation help. R's Order First Meeting has none of them and writes no rank.
+- **Two-event missions:** FG m03 and EE m04 split a mission into search/watch and the decisive scene, with outcomes marked in the second. The same cut fits M2 and M4.
+- **Cross-faction readers** are written "(unconverted)" (EE m04 ev-02:306-308; Harper M6 outcomes), which the Order should do for Faction Outposts, Cassalanter Villa and Vault of Dragons.
+- **Gate phrasing:** "Becomes available when an individual X member reaches Renown N and Nth level, after **Previous Mission**. Companions can help with everything except [contact]'s brief and debrief." (DR m03 overview:5; EE m04 overview:5.)
+- **The Cassalanter and Manshoon gates have clean precedents:** BD m02's "Nobody in the party learns for certain ... that the Cassalanters are hiding anything" (ev-01:26) and DR r03's "Nobody in this Event can say Manshoon's name unless **Manshoon Named**" (ev-01:22-24) are the lines to copy.
