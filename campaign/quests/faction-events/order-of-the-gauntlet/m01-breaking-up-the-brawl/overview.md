@@ -20,18 +20,18 @@ At the third bell Savra Belabranta knocks on the door of Trollskull Manor and te
 
 Two days ago a lean, limping man in a brown coat walked into the Field Ward and paid four idlers 5 gp each to corner a dealer named Pell. The man works for the Splinter, the Zhentarim's second cell, which is paying Field Ward gangs to look away when Guild men are hurt. The four hands know they were paid and do not know by whom.
 
-Savra learned of it from a cook at a Field Ward soup house, who overheard the plan. The Watch rarely enters the ward, and the Order wants the Field Ward to see that someone is paying attention. Nobody in this mission names Manshoon. Savra speaks of "the Splinter" and "the other cell" until **Manshoon Named** is marked for the listener.
+Savra learned of it from a cook at a Field Ward soup house, who overheard the plan. The Watch rarely enters the ward, and the Order wants the Field Ward to see that someone is paying attention. Nobody in this mission names Manshoon, and Savra speaks of "the Splinter" and "the other cell" until **Manshoon Named** is marked for the listener.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - The intermediary has grey at the temples, a limp in his left leg, ink on his right fingers and a mended brown coat. He has left the ward, and his trail ends at a Trade Ward stationer.
-> - Pell is no fighter. His two companions, Marn Ottery and Ketta Rowe, are there to stop him doing something expensive.
-> - Pell owes the party a favor only if he leaves the square unhurt and with his face. He will not say so.
+> - Pell is no fighter, and his two companions, Marn Ottery and Ketta Rowe, are there to stop him doing something expensive.
+> - Pell owes the party a favor only if he leaves the square unhurt and with his face, and he will not say so.
 > - The Shard Shunners have refused the Splinter's money, and Pell knows it.
 
 ## The Brief
 
-Savra briefs the members at the manor door and answers five questions. She asks for the square to be settled by one o'clock and for a report at dusk, and she says she will not come herself.
+Savra briefs the members at the manor door and answers five questions about the square. She asks for it to be settled by one o'clock and for a report at dusk, and she says she will not come herself.
 
 ## The Field Ward at Noon
 
@@ -72,7 +72,7 @@ Each participating Order of the Gauntlet member gains 2 base Renown for reportin
 
 ## Dangers & Enemies
 
-The four hired hands use the **Tough** and **Bandit** stat blocks. Crake leads them, and they fight only if the standoff collapses. Pell and his companions use the **Bandit** block and take no part. The crowd of fifteen is the real danger, because it hardens or softens the hands' nerve and decides what Pell keeps.
+The four hired hands use the **Tough** and **Bandit** stat blocks. Crake leads them, and they fight only if the standoff collapses, while Pell and his companions use the **Bandit** block and take no part. The crowd of fifteen is the real danger, because it hardens or softens the hands' nerve and decides what Pell keeps.
 
 ## Overview
 

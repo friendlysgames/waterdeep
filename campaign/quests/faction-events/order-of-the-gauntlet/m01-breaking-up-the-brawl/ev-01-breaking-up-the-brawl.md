@@ -15,22 +15,22 @@
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Two days ago a lean human man in his forties paid four idlers 5 gp each to corner Pell at noon on market day. He has grey at the temples, a limp in his left leg, ink on the fingers of his right hand and a brown coat mended at the elbow. He works for the Splinter, the Zhentarim's second cell, and he has left the ward.
+> - Two days ago a lean human man in his forties paid four idlers 5 gp each to corner Pell at noon on market day. He has grey at the temples, a limp in his left leg, ink on his right fingers and a brown coat mended at the elbow. He works for the Splinter, the Zhentarim's second cell, and he has left the ward.
 > - The Splinter wants the Field Ward to watch a Guild dealer humiliated. It has also paid three gang leaders to look away when Guild men are hurt, and Pell has noticed.
 > - The four hands are Harlan Crake, Dov Marl, Sef Bannon and Kirrel Stoat. They know they were paid and do not know by whom.
 > - Pell sells spirits and stolen goods for the Guild. He is no fighter, and his companions Marn Ottery and Ketta Rowe are there to stop him doing something expensive.
-> - Nobody in this Event names Manshoon. Savra says "the Splinter" and "the other cell". Pell says "the Zhents".
+> - Nobody in this Event names Manshoon, so Savra says "the Splinter" and "the other cell" while Pell says "the Zhents".
 > - The intermediary cannot be found today. The trail ends at a Trade Ward stationer, and nothing in this mission leads past it.
 
 ### The Brief
 
-Savra comes to Trollskull Manor at the third bell on the morning after a member reaches Renown 1 and 2nd level. She knocks once and waits to be asked in, as described in **Savra at the Door** in the **Order of the Gauntlet First Meeting**. She briefs members only, and companions wait in the common room.
+Savra comes to Trollskull Manor at the third bell on the morning after a member reaches Renown 1 and 2nd level. She knocks once and waits to be asked in, as **Savra at the Door** describes in the **Order of the Gauntlet First Meeting**. She briefs members only, and companions wait in the common room.
 
 > [!readaloud]
 >
-> Savra Belabranta stands on the step in her dark riding coat, with the silver gauntlet pin at her collar. She waits until the door is fully open and keeps both hands where you can see them.
+> Savra Belabranta stands on the step in her dark riding coat with the silver gauntlet pin at her collar, and she waits until the door is fully open before she lifts her head. She keeps both hands where you can see them as she speaks.
 >
-> > "Four men were hired to corner a Guild dealer named Pell in Mudlark Square, in the Field Ward, at noon today. The Watch won't go in there for that, and I won't watch it happen. Stop it before anyone dies. I'll be back at this door at dusk to hear what you did."
+> > "Four men were hired to corner a Guild dealer named Pell in Mudlark Square, in the Field Ward, at noon today. The Watch won't go in there for that, and I won't watch it happen. Stop it before anyone dies, and I'll be back at this door at dusk to hear what you did."
 
 > [!social]**The Knight on the Step**
 >
@@ -49,7 +49,7 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 
 > [!qna]**Who is paying them?**
 >
-> > "I'll tell you plainly: I don't have a name. The Zhentarim have a second cell in this city that isn't Davil's people, and I call it the Splinter. It has been paying Field Ward gangs to go after the Guild, which is a cheap fucking way to start a war."
+> > "I'll tell you plainly: I don't have a name. The Zhentarim have a second cell in this city that isn't Davil's people, and I call it the Splinter. It has been paying Field Ward gangs to go after the Guild, which is a cheap fucking way to start a war in the streets."
 
 > [!qna]**Why does the Order care about a Guild dealer?**
 >
@@ -59,15 +59,15 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 
 > [!qna]**Do we have to fight them?**
 >
-> > "No. I want it stopped, not won. Talk them off if you can. If you can't, put them down without killing them. Hurt, I can explain. Dead complicates things."
+> > "No. I want it stopped, and I don't care who wins. Talk them off if you can, and if you can't, put them down without killing them. Hurt, I can explain. Dead complicates things."
 
 > [!qna]**Will you come with us?**
 >
-> > "No. The Field Ward knows my coat, and a knight in that square turns a quarrel into a message. You aren't known there, so be firm and be seen."
+> > "No. The Field Ward knows my coat, and a knight in that square turns a quarrel into a message. You aren't known there, so be firm, be seen, and be gone by one."
 
 > [!qna]**What do you want back, and when?**
 >
-> > "The square settled by one o'clock, and every member back at this door by dusk. If you learn anything about whoever hired those men, bring it to me. A face, a coat, a name overheard. It goes into the Splinter file."
+> > "The square settled by one o'clock, and every member back at this door by dusk. If you learn anything about whoever hired those men, a face or a coat or a name overheard, bring it to me and it goes into the Splinter file."
 
 When the members agree, Savra goes down the step. A member who refuses the brief is not penalized, and Savra does not raise the matter again unless asked. Her deadline is dusk, and she knocks at that hour whether or not the party has done anything.
 
@@ -82,8 +82,8 @@ Mudlark Square lies behind a grain merchant's yard, a cobbled space with a water
 > [!gamemaster]**The Square**
 >
 > - **The hands:** Harlan Crake, Dov Marl, Sef Bannon and Kirrel Stoat stand in a half circle in front of the stall. Crake does the talking and keeps looking at the crowd.
-> - **Pell and his companions:** Pell has his back to the grain sacks, and Marn Ottery and Ketta Rowe stand at his shoulders with their hands on their belts. They will not start anything.
-> - **The crowd:** Fifteen locals watch from the edges, among them Brisa Hollin, a fruit seller who has pushed her cart to the ring's north side. The dog belongs to nobody.
+> - **Pell and his companions:** Pell has his back to the grain sacks, and Marn Ottery and Ketta Rowe stand at his shoulders with their hands on their belts and start nothing.
+> - **The crowd:** Fifteen locals watch from the edges, among them Brisa Hollin, a fruit seller who has pushed her cart to the ring's north side, and the dog belongs to nobody.
 
 > [!exploration]**Reading the Square**
 >
@@ -95,7 +95,7 @@ Mudlark Square lies behind a grain merchant's yard, a cobbled space with a water
 
 > [!exploration]**The Crowd**
 >
-> The crowd will not step in, but it cheers and jeers, and the hands take their nerve from it. How the party enters sets the starting point for the track in **The Standoff**.
+> The crowd stays out of the fight and cheers or jeers from the edges, and the hands take their nerve from it. How the party enters sets the starting point for the track in **The Standoff**.
 >
 > - **Together and first:** If the party walks into the ring together and a member speaks to the hands before anyone else does, the track starts with 1 success.
 > - **Hanging back:** If the party confers at the edge of the crowd or comes in one at a time, the hands play to the gallery and the track starts with 1 failure.
@@ -150,7 +150,7 @@ Three approaches end the standoff, and they can be combined. The party can make 
 >
 > Pell straightens his coat and does not look at his companions.
 >
-> > "The Rusted Anchor, down in the Dock Ward. I'm there most nights from dusk. Not that I'm inviting anyone, you understand. I'm telling you where the beer is."
+> > "The Rusted Anchor, down in the Dock Ward, and I'm there most nights from dusk. Not that I'm inviting anyone, you understand, because I'm only telling you where the beer is."
 
 **Keeping his face.** Pell leaves the square unhurt and with his face if all of the following hold:
 
@@ -166,11 +166,11 @@ The fight begins if the party scores three failures, attacks first or refuses th
 
 > [!readaloud]
 >
-> Crake lifts his mace and the other three spread out across the cobbles. The crowd falls back with a roar, and the dog bolts for the alley. Behind the hands, Marn Ottery grabs Pell by the collar and drags him toward the grain stall.
+> Crake lifts his mace and the other three spread out across the cobbles, and the crowd falls back with a roar while the dog bolts for the alley. Behind the hands, Marn Ottery grabs Pell by the collar and drags him toward the grain stall.
 
 > [!hazard]**The Hired Hands**
 >
-> Crake and Marl use the 2024 **Tough** stat block, and Bannon and Stoat use the **Bandit** stat block, as the party's size requires. The **Order of the Gauntlet Mechanics Reference** audits the roster for three, four and five characters. Pell and his companions use the **Bandit** block and take no part, and the crowd and the dog are never counted:
+> Crake and Marl use the 2024 **Tough** stat block, and Bannon and Stoat use the **Bandit** stat block, as the party's size requires. The **Order of the Gauntlet Mechanics Reference** audits the roster for three, four and five characters. Pell and his companions use the **Bandit** block and take no part. The crowd and the dog are never counted:
 >
 > - **Three characters:** Crake as a **Tough**, and Marl, Bannon and Stoat as **Bandits**.
 > - **Four characters:** Crake and Marl as **Toughs**, and Bannon and Stoat as **Bandits**.
@@ -195,11 +195,11 @@ The hands know they were paid and not by whom. The intermediary's description ha
 
 > [!gamemaster]**The Description**
 >
-> Each route gives the same man: lean, in his forties, grey at the temples, with a limp in his left leg, ink on his right fingers and a brown coat mended at the elbow. He spoke to the hands in the Trade Ward accent of a clerk. He gave no name and took none.
+> Each route gives the same man: lean, in his forties, grey at the temples, with a limp in his left leg, ink on his right fingers and a brown coat mended at the elbow. He spoke to the hands in the Trade Ward accent of a clerk, and he gave no name and took none.
 
 > [!exploration]**Harlan Crake**
 >
-> Crake sits on the trough's rim, if he has not been knocked out, or at a table in the Leaning Cask, if the party followed the hands. He talks to anyone who buys him a drink for 1 gp. A character who presses him instead and makes a successful DC 12 Charisma (Intimidation or Persuasion) check gets the full description without paying.
+> Crake sits on the trough's rim if he has not been knocked out. If the party followed the hands, he sits at a table in the Leaning Cask. He talks to anyone who buys him a drink for 1 gp, and a character who presses him instead and makes a successful DC 12 Charisma (Intimidation or Persuasion) check gets the full description without paying.
 >
 > - **On a failure:** Crake gives only the limp and the coat. The party can try again after buying him a drink, or follow another route.
 
@@ -224,13 +224,13 @@ The hands know they were paid and not by whom. The intermediary's description ha
 
 ### The Rusted Anchor
 
-Pell does not seek the party out. He is at the Rusted Anchor in the Dock Ward most nights from dusk, in a corner booth with his back to the wall. The visit is optional and can happen on any evening after the brawl.
+Pell does not seek the party out, but he is at the Rusted Anchor in the Dock Ward most nights from dusk, in a corner booth with his back to the wall. The visit is optional and can happen on any evening after the brawl.
 
 > [!readaloud]
 >
 > The Rusted Anchor is a low drinking house on the Dock Ward quay, with a ship's anchor bolted above the door and the smell of tar and spilled ale in the air. Pell sits in the corner booth with a cup in front of him, and Marn Ottery watches the door from the next table. He looks up as you come in and does not smile.
 >
-> > "You again. Sit, then, and don't make a show of it. I owe nobody anything, so don't take this as payment."
+> > "You again. Sit, then, and don't make a show of it, because I owe nobody anything and I don't want this taken for payment."
 
 If **Pell's Debt Held** is marked, Pell gives the list below to the first member who sits down and asks about the gangs. He hands it over as a favor he is not admitting to owing. If it is not marked, he sells the same list for 100 gp.
 
@@ -248,25 +248,25 @@ Savra knocks at dusk and waits to be asked in. Companions sit in the common room
 
 > [!readaloud]
 >
-> Savra stands on the step as the lamps are lit along Trollskull Alley, and her coat is damp from the dusk air. She looks at each member in turn and waits until the door is fully open.
+> Savra stands on the step as the lamps are lit along Trollskull Alley, and her coat is damp from the dusk air. She waits until the door is fully open and then looks at each member in turn.
 >
-> > "Dusk, as I said. Tell me what you did, and tell me plainly."
+> > "Dusk, as I said. Tell me what you did, and tell me plainly, because I'll be writing it down."
 
 Read the branch that matches what the party did. If anyone died in the square, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Savra listens to the end without moving. When you finish, she is silent for the space of a breath.
+> Savra listens to the end without moving, and when you finish she is silent for the space of a breath before she answers.
 >
-> > "Dead complicates things, as I said. I'll write it down as it happened, and I'll find the family if there is one. Don't think I'm blaming you for what the hands did, but I won't pretend I'm pleased."
+> > "Dead complicates things, as I said. I'll write it down as it happened, and I'll find the family if there is one. I'm not blaming you for what the hands did, and I won't pretend I'm pleased."
 
 If nobody died, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Savra listens to the end and gives a single nod.
+> Savra listens to the end with her hands folded behind her back, and when you finish she gives a single nod.
 >
-> > "Nobody dead, and the crowd saw the Order's people stop it. That is what I asked for."
+> > "Nobody dead, and the crowd saw the Order's people stop it before it started. That is what I asked for."
 
 If a member gives her the intermediary's description or the stationer's mark, mark **Splinter Intel Reported** and read or paraphrase the following:
 
@@ -280,15 +280,15 @@ If the members have nothing about the intermediary, read or paraphrase the follo
 
 > [!readaloud]
 >
-> Savra puts the notebook back in her coat without opening it.
+> Savra puts the small notebook back in her coat without opening it, and she looks past you into the common room for a moment.
 >
-> > "Then the file has nothing new, and I'll say so to the people who read it. The Splinter will pay another set of hands next tenday."
+> > "Then the file has nothing new, and I'll say so to the people who read it. The Splinter will pay another set of hands before the next tenday is out."
 
 If Pell left the square unhurt and with his face, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Savra tilts her head when you describe the alley behind the grain stall.
+> Savra tilts her head when you describe how Pell left the square by the alley behind the grain stall.
 >
 > > "He walked out on his own feet, and the Guild will notice that a dealer got away from the Order's people with his pride. I'd rather the ward remembered that than a pile of men on the cobbles."
 
@@ -296,9 +296,9 @@ Savra closes the debrief with one sentence about the next job.
 
 > [!readaloud]
 >
-> She buttons her coat and turns toward the lane.
+> She buttons her coat against the evening damp and turns toward the lane that leads out of Trollskull Alley.
 >
-> > "I'll knock again when I have something that needs you. Get some sleep."
+> > "I'll knock again when I have something that needs you. Get some sleep before then."
 
 > [!gamemaster]**Mission Renown**
 >
