@@ -9,7 +9,7 @@
 > - Choose a +1 weapon from the Order's cache and keep it for good.
 > - Hear the Book of the Fallen read aloud, and decide whether to sign it.
 >
-> Only the member is addressed. Companions who are not Order of the Gauntlet members wait in the nave of the Halls and gain nothing.
+> Only the member is addressed, and companions who are not Order of the Gauntlet members wait in the nave of the Halls and gain nothing.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -18,15 +18,15 @@
 > - The inquiry is a clerk's job done with care. Savra reads the exhibit as a magistrate would and writes down what it proves, and she adds no suspicion of her own.
 > - Savra does not know what the family worships. Where a report says devil worship, it says so because the exhibit and the member's sworn account show it.
 > - The +1 weapons came from a cache that the Order took from a diabolist's cellar in the Dock Ward three years ago. Brother Osric Wickersham keeps them in a locked rack in the armory.
-> - Nobody in this Event names the master of the Splinter or the carnival fleet's owner. Savra says "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener, and she says "the carnival fleet" until **Jarlaxle Unmasked** is marked.
+> - Nobody in this Event names the master of the Splinter or the carnival fleet's owner. Savra says "the Splinter" or "the other cell" until **Manshoon Named** is marked for the listener. She says "the carnival fleet" until **Jarlaxle Unmasked** is marked.
 
 ### The Note at Noon
 
-Hold this Event until **Whitehawk Reached** is marked for the member. At noon on the day after the member reaches Renown 25, a Priest Acolyte in a plain grey surcoat finds the member at their lodging and hands over Savra's note. The acolyte waits for no reply. The meeting is in the east annex of the Halls of Justice at the third bell past noon on the same day.
+Hold this Event until **Whitehawk Reached** is marked for the member. At noon on the day after the member reaches Renown 25, a Priest Acolyte in a plain grey surcoat finds the member at their lodging. The acolyte hands over Savra's note and waits for no reply, and the meeting is in the east annex of the Halls of Justice at the third bell past noon on the same day.
 
 - **Several members:** members who cross the threshold together attend together, and each receives a note and is recorded by name.
 - **Companions:** companions who are not Order members get no note, and one who walks to the Halls with a member waits in the nave.
-- **Away from Waterdeep:** a member who is away finds the acolyte at their first surface lodging on return, and the meeting moves to the third bell past noon on the following day.
+- **Away from Waterdeep:** a member who is away finds the acolyte at their first surface lodging on return. The meeting then moves to the third bell past noon on the following day.
 - **Quietly Reassigned:** a member marked **Quietly Reassigned** gets the same note in Brother Hallin Ostrel's hand, signed "B.H.O.", and the meeting runs unchanged.
 
 > [!readaloud]
@@ -45,9 +45,9 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
+> Savra Belabranta (Lawful Good, Human, she/her) :: a knight in her late twenties with her dark hair worn back and a strong jaw. She wears a dark riding coat with a silver gauntlet pin at the collar.
 >
-> Savra speaks more slowly than usual, because Brother Hallin writes down what she says in front of the witnesses. She states each limit before the benefit it belongs to, and she pauses before every serious answer. She gives a single measured nod only to answers she believes are honest, calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
+> Savra speaks more slowly than usual, because Brother Hallin writes down what she says in front of the witnesses. She states each limit before the benefit it belongs to, and she pauses before every serious answer. She gives a single measured nod only to answers she believes are honest. She calls Tyr "the Maimed God" and swears rarely, in short bursts aimed at wrongdoing.
 >
 > Savra is happy to discuss the following topics:
 >
@@ -66,7 +66,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 
 > [!qna]**Why is it mine and not my companions'?**
 >
-> > "The Order writes its ranks against names, and I've written yours. Your companions can read the report and fight beside the knights. They can't file an inquiry, and they can't call the knights."
+> > "The Order writes its ranks against names, and I've written yours. Your companions can read the report and fight beside the knights. They can't file an inquiry for you, and they can't call the knights to an operation."
 
 > [!qna]**How do I reach you?**
 >
@@ -74,7 +74,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 
 > [!qna]**What happens if my Renown falls?**
 >
-> > "You keep the rank, the weapon and any report already filed. New inquiries and the knights wait until your Renown is back at twenty-five."
+> > "You keep the rank, the weapon and any report that has already been filed. New inquiries and the knights wait until your Renown is back at twenty-five."
 
 ### The Investigation
 
@@ -82,7 +82,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 >
 > Savra unrolls a sheet ruled in two columns, headed "Exhibit" and "Finding", and sets a pen beside it. Brother Hallin Ostrel waits at the end of the table with the Order's seal and a lump of grey wax.
 >
-> > "I can open one inquiry at a time, into a person or a body. Bring me a paper that a magistrate would read, and say who it names. I'll write what it proves and nothing more."
+> > "I can open one inquiry at a time, into a person or a body. Bring me a paper that a magistrate would read, and say who it names. I'll write down what it proves and nothing beyond that."
 
 > [!exploration]**Filing an Inquiry**
 >
@@ -94,8 +94,8 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > - **Limit:** one inquiry may be open for each member at a time. The member may file the next once the report has been delivered, and a target already reported on is filed again only with a new exhibit.
 > - **Targets:** the six in the table below. For any other target Savra says "I can't reach that one from a Waterdeep court", and nothing is spent.
 > - **Who else:** the member only. A companion may read the report, and a filing made in the member's name by a companion is ignored.
-> - **Loss rule:** a member who alters an exhibit, or files one they know to be false, loses the benefit for a tenday. Savra hears of it within a day.
-> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and new inquiries wait until the Renown is restored. A report already accepted is still delivered.
+> - **Loss rule:** a member who alters an exhibit, or files one they know to be false, loses the benefit for a tenday, and Savra hears of it within a day.
+> - **Renown loss:** a member whose Renown falls below 25 keeps the rank, and new inquiries wait until the Renown is restored, though a report already accepted is still delivered.
 
 > [!exploration]**The Six Targets**
 >
@@ -116,8 +116,8 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > - **The family:** Savra says "the family" until a player names a Cassalanter at the table. She then uses the name and adds that the report proves only what the exhibit proves.
 > - **The Splinter:** speech and reports say "the Splinter" or "the other cell" until **Manshoon Named** is marked for the member.
 > - **No pact:** no report states a pact, its terms, a deadline or what the family worships, because Savra knows none of it.
-> - **The magistrates:** the report goes to a magistrate of the Halls, who passes it on in the ordinary way. Savra can promise no date.
-> - **The Lords:** if **Order Recognized** is marked, the Lords have already heard the Order's writ in **The Writ and the Weight**. Savra then adds that the report is admissible before them and that their clerk reads the Order's reports within a tenday. If it is not marked, she says nothing of the Lords.
+> - **The magistrates:** the report goes to a magistrate of the Halls, who passes it on in the ordinary way, and Savra can promise no date.
+> - **The Lords:** if **Order Recognized** is marked, the Lords have already heard the Order's writ in **The Writ and the Weight**. Savra then adds that the report is admissible before them. She also says that their clerk reads the Order's reports within a tenday. If it is not marked, she says nothing of the Lords.
 
 > [!qna]**Can you arrest the people it names?**
 >
@@ -133,13 +133,13 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 >
 > The two knights step away from the table and stand side by side in front of the book. One is a woman in her forties with grey in her braid, and the other is a broad man a few years younger. Savra nods toward them without turning her head, and the woman speaks first.
 >
-> > "I'm Dame Rhosyn Cullane, and this is Sir Anselm Greave. A third knight, Sir Merrick Tollwood, is at the Field Ward gate. We are the chapter's strike team, and inside an operation we follow your plan."
+> > "I'm Dame Rhosyn Cullane, and this is Sir Anselm Greave, who stands witness with me. A third knight, Sir Merrick Tollwood, is on duty at the Field Ward gate today. We are the chapter's strike team, and inside an operation we follow your plan."
 
 > [!social]**The Living Vindicator**
 >
-> Dame Rhosyn Cullane (Lawful Good, Human, she/her) :: a Knight of the chapter in her forties with grey in her braid, who has held Vindicator for almost two years and leads the Strike Team.
+> Dame Rhosyn Cullane (Lawful Good, Human, she/her) :: a Knight of the chapter in her forties with grey in her braid. She has held Vindicator for almost two years and leads the Strike Team.
 >
-> Rhosyn is dry and unhurried. She answers practical questions in full and personal ones in a few words, and she asks what an operation is for before she asks where it is. She does not swear.
+> Rhosyn is dry and unhurried, and she does not swear. She answers practical questions in full and personal ones in a few words, and she asks what an operation is for before she asks where it is.
 >
 > Rhosyn is happy to discuss the following topics:
 >
@@ -147,11 +147,11 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > - What the member should tell the team before an operation.
 > - How she has held Vindicator, and what the work has cost her.
 >
-> She will not discuss Savra's past or what the Order knows about the family. She says those belong to Savra.
+> She will not discuss Savra's past or what the Order knows about the family, and she says those belong to Savra.
 
 > [!qna]**Will you follow any plan?**
 >
-> > "Any plan that's lawful, and plenty that aren't wise. We'll say so once if we think a plan is foolish, and then we'll carry it out. We won't strike the Watch or anyone who has laid down a weapon."
+> > "Any plan that's lawful, and plenty of plans that nobody sensible would choose. We'll say so once if we think a plan is foolish, and then we'll carry it out. We won't strike the Watch or anyone who has laid down a weapon."
 
 > [!qna]**Can the team come below the city?**
 >
@@ -163,7 +163,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > - **Notice:** three days are needed. Savra's answer waits on the shelf by the next evening, signed "S.B.", and gives the meeting place or her reason for refusing. A request with less notice is refused and spends nothing.
 > - **The operation:** any task inside a named quest on the surface of Waterdeep, including its cellars and sewers. The knights do not go down the Portal's well or into Undermountain. The six Order of the Gauntlet missions are not eligible, because their scenes fix who stands where.
 > - **Service:** three Knights meet the member at the place and hour named. They stay until the operation ends or is abandoned, or until three days have passed, and then they return to the Halls.
-> - **Limit:** one operation per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and events and rank events are not quests. The use counts against the quest the party is in when the knights arrive, and a call withdrawn a full day ahead is not spent. An unused call is lost when the quest ends.
+> - **Limit:** one operation per member in each quest. A quest is one of the named quests, from **Finding Floon** through **Vault of Dragons**, and events and rank events are not quests. The use counts against the quest the party is in when the knights arrive. A call withdrawn a full day ahead is not spent, and an unused call is lost when the quest ends.
 > - **What they refuse:** the knights will not attack the Watch, a magistrate, a captive or a creature that has surrendered, and they will not leave the city. They also refuse an order they judge clearly unrighteous, saying so once before they stand down. Savra turns back a request that needs any of these, and nothing is spent.
 > - **Several members:** each Vindicator has a use of their own. Two members who ask for the same operation at the same hour share one team, and only the first to ask spends a use.
 > - **Who else:** the knights follow the plan of the member who called them, and they take no order from a companion who is not an Order member.
@@ -173,7 +173,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 
 > [!gamemaster]**The Strike Team as Allies**
 >
-> Use the 2024 **Knight** stat block for each of the three, unmodified. Each is a CR 3 ally with Power 30 for levels 5 to 10 and 25 for level 11 and above. The number who fight is the number of player characters minus one, to a cap of three, and the rest hold the rear and add nothing. Party Power with the fighting Knights added, and the Bruising budget in brackets:
+> Use the 2024 **Knight** stat block for each of the three, unmodified. Each is a CR 3 ally with Power 30 for levels 5 to 10 and 25 for level 11 and above. The number who fight is the number of player characters minus one, to a cap of three. The rest hold the rear and add nothing. Party Power with the fighting Knights added, and the Bruising budget in brackets:
 >
 > | Level | 3 PCs | 4 PCs | 5 PCs |
 > |---|---|---|---|
@@ -181,7 +181,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > | 7 | 183 (109.8) | 254 (152.4) | 295 (177) |
 > | 8 | 192 (115.2) | 266 (159.6) | 310 (186) |
 >
-> At levels 9 and 10, add 30 for each fighting Knight, and from level 11 add 25 for each. At three PCs the two Knights add 60 to a base of 105 to 132, a rise of 45 to 57 percent. Build the fight from the allied total, or keep it at the base budget and treat the knights as the reserve. Pick one approach for the whole scene and keep to it. Hard rosters belong to allied scenes only.
+> At levels 9 and 10, add 30 for each fighting Knight, and from level 11 add 25 for each. At three PCs the two Knights add 60 to a base of 105 to 132, a rise of 45 to 57 percent. Build the fight from the allied total, or keep it at the base budget and treat the knights as the reserve. Pick one approach for the whole scene and keep to it, and use Hard rosters only in allied scenes.
 >
 > #### The Strike Team's Tactics
 > To begin combat, the knights form a line in front of the member and anyone who cannot take a hit. During combat, they:
@@ -190,7 +190,7 @@ Hold this Event until **Whitehawk Reached** is marked for the member. At noon on
 > - Focus the enemy that is hurting the member or a companion the most.
 > - Keep the knights who do not fight at the rear and at the named exit.
 >
-> A Knight withdraws toward the exit the member named when it is reduced to 26 Hit Points or fewer, and it takes a fallen character with it if it can reach one. The team lowers its blades when a creature yields and hands the prisoner to the Watch. If the Watch arrives, Rhosyn speaks for the team and names the Order as her authority.
+> A Knight withdraws toward the exit the member named when it is reduced to 26 Hit Points or fewer. It takes a fallen character with it if it can reach one. The team lowers its blades when a creature yields and hands the prisoner to the Watch, and if the Watch arrives, Rhosyn speaks for the team and names the Order as her authority.
 
 When the team arrives for its operation, read or paraphrase the following:
 
@@ -198,7 +198,7 @@ When the team arrives for its operation, read or paraphrase the following:
 >
 > Three people in plain cloaks stand at the place you named, with mail showing at their collars and no tabards. Rhosyn Cullane steps forward while Sir Anselm and Sir Merrick check the street in opposite directions.
 >
-> > "We're the chapter's, and we'll follow your plan until it ends. Tell us where to stand, and tell us now if any of it is unrighteous."
+> > "We're the chapter's knights, and we'll follow your plan until it ends. Tell us where to stand, and tell us now if any of it is unrighteous."
 
 ### The Weapon
 
@@ -206,7 +206,7 @@ When the team arrives for its operation, read or paraphrase the following:
 >
 > Brother Osric Wickersham comes in from the armory passage with a long rack and sets it across the end of the table. A sword, an axe, a hammer and a bow lie on it, each tagged with a number.
 >
-> > "These came out of a cache we took from a diabolist's cellar three years ago. The Order kept them for someone who would use them. Choose one, and it is yours to keep, not borrowed."
+> > "These came out of a cache we took from a diabolist's cellar three years ago. The Order kept them for someone who would carry them into the field. Choose one now, and it is yours to keep and not borrowed."
 
 > [!exploration]**Choosing a Weapon**
 >
@@ -238,7 +238,7 @@ When the team arrives for its operation, read or paraphrase the following:
 >
 > Savra waits until you have read to the end of the page before she speaks.
 >
-> > "Three of the four who held Vindicator in Waterdeep are dead. I'd rather you heard that from me than from a clerk. Two died hunting devil-worshippers, and the third was killed keeping a witness alive."
+> > "Three of the four people who held Vindicator in Waterdeep are dead. I'd rather you heard that from me than from a clerk reading it out. Two died hunting devil-worshippers, and the third was killed keeping a witness alive."
 >
 > She sets a pen on the open page and steps back from the table.
 >
@@ -272,7 +272,7 @@ The Event concludes when the member has heard all three benefits, has chosen a w
 
 ## Overview
 
-Savra Belabranta names an Order of the Gauntlet member a Vindicator before two Knights of the chapter and explains the rank's written inquiry, its Strike Team of three Knights and its +1 weapon.
+Savra Belabranta names an Order of the Gauntlet member a Vindicator and explains the rank's written inquiry, Strike Team and +1 weapon.
 
 ## Summary
 
