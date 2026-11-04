@@ -63,7 +63,7 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 
 > [!qna]**Will you come with us?**
 >
-> > "No. The Field Ward knows my coat, and a knight in that square turns a quarrel into a message. You aren't known there, so be firm, be seen, and be gone by one."
+> > "No. The Field Ward knows my coat, and a knight in that square turns a quarrel into a message. You aren't known there, so stand firm where the crowd can see you and be gone by one."
 
 > [!qna]**What do you want back, and when?**
 >
