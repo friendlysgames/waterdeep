@@ -18,9 +18,9 @@ At noon a Priest Acolyte in a plain grey surcoat hands each qualifying member a 
 
 ## Background
 
-Savra filed her petition with the Lords after the Aveen Street shrine, and tonight is the hearing. The exhibit that carries it is the ledger, the Watch clerk's copy of the register or Savra's own file, depending on what the party delivered. Whoever holds the claim over the Cassalanter matter wants the exhibit burned before the Lords carry it out, and it has sent a Horned Devil to serve the writ.
+Savra filed her petition with the Lords after the Aveen Street shrine, and tonight is the hearing. The exhibit that carries it is the ledger, the Watch clerk's copy of the register or Savra's own file, depending on what the party delivered. Whoever holds the claim over the Cassalanter matter wants the exhibit burned before the Lords carry it out. It has sent a Horned Devil to serve the writ.
 
-The Cassalanter Villa result decides who sent the devil and whom the writ names. The Order of the Gauntlet is the last faction mission to read it.
+The Cassalanter Villa result decides who sent the devil and whom the writ names, and this is the last faction mission to read it.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -55,7 +55,9 @@ The party fights the devil in the nave with Savra and, at the smaller party size
 
 ## Renown Opportunities
 
-Each participating Order of the Gauntlet member gains 4 base Renown for reporting to Savra at the debrief. Bonuses of +1 each go to members when the bailiff is sent back before it reaches the exhibit, when every named character survives and when a party character lands the final blow. Companions gain no Renown, and each bonus can be earned only once.
+Each participating Order of the Gauntlet member gains 4 base Renown for reporting to Savra at the debrief. Bonuses of +1 each go to members when the bailiff is sent back before it reaches the exhibit, when every named character survives and when a party character lands the final blow.
+
+Companions gain no Renown, and each bonus can be earned only once.
 
 ## Aftermath
 
