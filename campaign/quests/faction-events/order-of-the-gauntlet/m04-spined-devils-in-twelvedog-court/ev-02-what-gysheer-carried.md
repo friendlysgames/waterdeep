@@ -149,9 +149,9 @@ If the party wants the room, it stands on Crispin Street, two blocks from Twelve
 
 > [!readaloud]
 >
-> Crispin Street smells of woad and wet wool, and the dyer's shop at the corner has blue-stained cloth hanging from poles across the front. A stair at the side climbs to a single door on the upper floor. A broad woman with blue hands looks up from a vat in the yard and wipes them on her apron.
+> Crispin Street smells of woad and wet wool, and the dyer's shop at the corner has blue-stained cloth hanging from poles across the front. A stair at the side climbs to a single door on the upper floor, and a broad woman with blue hands looks up from a vat in the yard and wipes them on her apron.
 >
-> > "That's my lodger's room, yes. She pays a quarter ahead and keeps to herself. If she's in trouble, I'd like to know before the rent falls due."
+> > "That's my lodger's room, yes, and she pays a quarter ahead and keeps to herself. If she's in trouble, I'd like to know before the rent falls due."
 
 > [!social]**The Dyer**
 >
