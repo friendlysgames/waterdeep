@@ -7,7 +7,7 @@
 > #### Difficulty
 > *An adventure for 3rd-level characters.*
 >
-> The only fights are optional. A hold at the tea house uses **Tough** and **Bandit** fighters, and a raven that is cornered uses the **Imp** block. The **Order of the Gauntlet Mechanics Reference** audits both rosters for three, four and five characters.
+> The only fights are optional. A hold at the tea house uses **Tough** and **Bandit** fighters, and a cornered raven uses the **Imp** block. The **Order of the Gauntlet Mechanics Reference** audits both rosters for three, four and five characters.
 >
 > #### Milestone Progression
 > This faction mission awards no Milestone Points. Renown goes to the individual Order members who report to Savra.
@@ -18,14 +18,14 @@ On the first dawn after a member reaches Renown 3 and 3rd level, Savra knocks at
 
 ## Background
 
-Four days ago the Wazoo printed a story that a Tethyrian woman brought to Gaxly Rudderbust. She came back two days ago to ask how it had been received, and she left him a signal. A forger had entered a birth for a twin sister in the Hall of Records some tendays before, using the seal of a registrar who died in 1450 DR.
+Four days ago the Wazoo printed a story that a Tethyrian woman brought to Gaxly Rudderbust. She came back two days ago to ask how it had been received, and she left him a signal. Some tendays before, a forger had entered a birth for a twin sister in the Hall of Records. The forger used the seal of a registrar who died in 1450 DR.
 
 > [!gamemaster]**What Is Actually True**
 >
 > - The woman is a household secretary hired for this work, and Brisenne is an alias. She is not household staff, and her goal is to learn who follows the story.
 > - The story is false. The Black Viper is not Lady Ammalia's twin, and nobody in this mission knows who she is.
-> - The raven on the chimney is an imp. The GM can take the secretary and the imp for the work of the family the story names. Nothing in the mission proves it, and nobody in it knows more than Savra's suspicion.
-> - Savra does not accompany the party. The Marcheon benefit covers quests, not faction missions.
+> - The raven on the chimney is an imp. The GM can take the secretary and the imp for the work of the family the story names, but nothing in the mission proves it. Nobody in it knows more than Savra's suspicion.
+> - Savra does not accompany the party, because the Marcheon benefit covers quests and not faction missions.
 > - Nobody in this mission mentions Manshoon.
 
 ## The Brief
@@ -46,7 +46,7 @@ A hired coach and a raven watch Trollskull Manor. The party works out what the r
 
 ## Renown Opportunities
 
-Each participating Order of the Gauntlet member gains 2 base Renown for reporting to Savra. Three bonuses of +1 each go to members who confirm and report that the story is false, who secure the forged record or name the secretary with her contact method, and who bring the imp to Savra alive. Companions gain none, and each bonus can be earned only once.
+Each participating Order of the Gauntlet member gains 2 base Renown for reporting to Savra. Each member can earn three bonuses of +1, once each. The first goes to a member who confirms the story is false and reports it. The second goes to a member who secures the forged record or names the secretary with her contact method. The third goes to a member who brings the imp to Savra alive. Companions gain none.
 
 ## Aftermath
 
@@ -63,7 +63,7 @@ Each participating Order of the Gauntlet member gains 2 base Renown for reportin
 
 ## Dangers & Enemies
 
-The secretary's two or four guards use the **Tough** and **Bandit** blocks and hold the door for three rounds. The raven uses the **Imp** block, flees when seen and fights only when held. Neither fight is needed.
+The secretary's two or four guards use the **Tough** and **Bandit** blocks and hold the door for three rounds. The raven uses the **Imp** block, flees when seen and fights only when held, and the party can finish the mission without either fight.
 
 ## Overview
 
