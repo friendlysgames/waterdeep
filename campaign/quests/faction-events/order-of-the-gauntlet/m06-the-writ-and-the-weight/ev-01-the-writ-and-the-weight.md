@@ -11,7 +11,7 @@
 > - Send the devil back to the Nine Hells, or try a scroll of *Banishment* at long odds.
 > - Receive the Recognition, which names every character who stood in the hall that night.
 >
-> Only Order of the Gauntlet members attend Savra's brief and debrief. Companions attend the hearing, fight in the hall and are named on the Recognition. Companions earn no Renown.
+> Only Order of the Gauntlet members attend Savra's brief and debrief. Companions attend the hearing, fight in the hall and are named on the Recognition, but they earn no Renown.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -26,27 +26,27 @@
 
 ### The Brief
 
-At noon a Priest Acolyte in a plain grey surcoat finds each qualifying member and hands over Savra's note. The meeting is in the east annex of the Halls of Justice at the third bell past noon. Savra briefs members only. Companions come to the nave at 19:30, and the members decide what to tell them before then.
+At noon a Priest Acolyte in a plain grey surcoat finds each qualifying member and hands over Savra's note. The meeting is in the east annex of the Halls of Justice at the third bell past noon, and Savra briefs members only. Companions come to the nave at 19:30, and the members decide what to tell them before then.
 
-If **Quietly Reassigned** is marked for a member, Brother Hallin Ostrel writes the note in Savra's place and signs it "B.H.O." The brief is unchanged.
-
-> [!readaloud]
->
-> A young man in a plain grey surcoat knocks at the door a little after noon and holds out a paper folded once. The seal is the Halls of Justice, and he walks off down the lane before you have broken it. The handwriting inside slants to the left.
->
-> A notice was nailed to the Halls door at dawn, and it carries your names. The Lords hear my petition tonight. Third bell past noon, east annex. Come to me first, and bring the rest of your company to the nave by half past seven. S.B.
-
-The east annex is quiet at this hour. Brother Haldric Wence, the door-warden, sends the members down the passage without a word.
+If **Quietly Reassigned** is marked for a member, Brother Hallin Ostrel writes the note in Savra's place and signs it "B.H.O.", and the brief itself is unchanged.
 
 > [!readaloud]
 >
-> The east annex smells of lamp oil and wet wool, and the line of petitioners has been sent home early. Savra waits at the long table at the end of the passage, with a sheet of black-edged vellum laid flat under her hand. She turns it toward you when you reach her.
+> A young man in a plain grey surcoat knocks at the door a little after noon and holds out a paper folded once. The seal is the Halls of Justice, and he walks off down the lane before you have broken it. The handwriting inside slants to the left, and it is signed with two letters at the bottom.
+>
+> A notice was nailed to the Halls door at dawn, and it carries your names. The Lords hear my petition tonight, so come to the east annex at the third bell past noon. Bring the rest of your company to the nave by half past seven. S.B.
+
+The east annex is quiet at this hour, and Brother Haldric Wence, the door-warden, sends the members down the passage without a word.
+
+> [!readaloud]
+>
+> The east annex smells of lamp oil and wet wool, and the line of petitioners has been sent home early. Savra waits at the long table at the end of the passage, with a sheet of black-edged vellum laid flat under her hand, and she turns it toward you when you reach her.
 >
 > > "This was nailed to the west door at dawn. It names you and it names me, and it says a writ will be served inside the Halls at midnight. Read it, then tell me what you make of it."
 
-The notice is a document, and the players read it as follows. Write each character's name in the list.
+The notice is a document that the players can read, and you write each character's name in its list.
 
-> NOTICE OF SERVICE. A writ will be served at midnight tonight, within the walls of the Halls of Justice, on the persons named below. They may choose the place of service. Savra Belabranta; then the name of every character in the party, member or not.
+> NOTICE OF SERVICE. A writ will be served at midnight tonight, within the walls of the Halls of Justice, on the persons named below, who may choose the place of service. Savra Belabranta; then the name of every character in the party, member or not.
 
 > [!social]**The Knight Before the Hearing**
 >
@@ -65,7 +65,7 @@ The notice is a document, and the players read it as follows. Write each charact
 
 > [!qna]**Who sent it?**
 >
-> Savra takes a moment before she answers.
+> Savra rests both hands on the table and takes a moment before she answers.
 >
 > > "I'll tell you plainly: I don't know, and I won't guess. A devil nailed that to my door, and devils serve paper for somebody. I only know the paper has your names on it."
 
