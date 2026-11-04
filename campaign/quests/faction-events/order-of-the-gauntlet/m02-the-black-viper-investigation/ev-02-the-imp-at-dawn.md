@@ -144,15 +144,15 @@ If the members report that the story is false and give any one of the three lead
 
 > [!readaloud]
 >
-> Savra listens without interrupting and writes two lines in a small book.
+> Savra listens without interrupting and writes two lines in a small book as the last member finishes speaking.
 >
 > > "Then the story was made to be believed for about two days, and someone took trouble over it. A forged page, a coin strap and a woman with grey gloves who knew my name before she should have. I'll tell you plainly, that is better work than I expected."
 
-If a member puts the forged leaf in her hands, or gives her the secretary's alias and the candle at Barrow's Wick, mark **Forged Record Secured** and read or paraphrase the following:
+If a member puts the forged leaf in her hands, mark **Forged Record Secured** and read or paraphrase the following. The same applies if a member gives her the secretary's alias and the candle at Barrow's Wick.
 
 > [!readaloud]
 >
-> She turns the leaf to the window and reads the signature twice. Her mouth tightens.
+> She turns the leaf to the window and reads the signature twice, and her mouth tightens as she does.
 >
 > > "That's a fucking good forgery, and a dead man's name on it. Brisenne is an alias, then, and a candle in Lamp Street is how she is reached. Good work."
 
@@ -168,9 +168,9 @@ If the imp got away, she says the following instead:
 
 > [!readaloud]
 >
-> Savra's face does not change.
+> Savra's face does not change, and she sits with her hands flat on the table for a moment before she answers.
 >
-> > "Then it went home with a description of you. That's a cost, and it can't be undone. Next time, bring a net."
+> > "Then it went home with a description of every one of you. That's a cost, and it can't be undone, so next time bring a net."
 
 If the party played along with the secretary and reports it, Savra gives her single nod. If it held her, she reads the Watch's copy of the statement and says the clerk's order was in good form.
 
@@ -198,13 +198,13 @@ Savra files her notes with the Halls of Justice as an observation of a devil, wi
 
 ### Concluding the Event
 
-Savra's report ends the mission. Record what the party found, because later events read it.
+Savra's report ends the mission, and the Event records what the party found because later events read it.
 
 > [!gamemaster]**Event Outcomes**
 >
 > - **Planted Story Exposed** — mark when the members report the story as false with at least one lead; read by **Spined Devils in Twelvedog Court**, where the handlers' lookouts are fewer.
-> - **Forged Record Secured** — mark when a member gives Savra the forged leaf or the secretary's alias with the candle drop; read by **Cassalanter Villa** (unconverted), if it has not run.
-> - **Imp Captured** — mark when a member hands the live imp to Savra; read by **Spined Devils in Twelvedog Court** (Savra's debrief), by the Whitehawk rank event and by **Cassalanter Villa** (unconverted), if it has not run.
+> - **Forged Record Secured** — mark when a member gives Savra the forged leaf, or the secretary's alias with the candle drop; read by **Cassalanter Villa** (unconverted, if it has not run).
+> - **Imp Captured** — mark when a member hands the live imp to Savra; read by **Spined Devils in Twelvedog Court** (Savra's debrief), the Whitehawk rank event and **Cassalanter Villa** (unconverted, if it has not run).
 
 > [!gamemaster]**Next Steps**
 >
