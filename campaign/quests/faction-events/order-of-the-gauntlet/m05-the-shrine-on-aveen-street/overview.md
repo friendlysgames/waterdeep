@@ -14,11 +14,11 @@
 
 ## Hook
 
-A Priest Acolyte brings a note from the Halls of Justice, and Savra meets the members at the east annex at the third bell past noon the next day. She has found a cellar under a chandler's shop on Aveen Street, and she wants the book she thinks it holds. The carter calls on the seventh day after the Brief, so the members have six days to get inside.
+A Priest Acolyte brings a note from the Halls of Justice, and Savra meets the members at the east annex at the third bell past noon the next day. She has found a cellar under a chandler's shop on Aveen Street, and she wants the book she thinks it holds. The Garrowby Cartage dray calls at the yard on the seventh day after the Brief, so the members have six days to get inside.
 
 ## Background
 
-Gysheer Omfreys's cartage receipt and sealed note pointed at Aveen Street, and Savra found the lease in the Halls' rolls. A charity called the Aveen Street Almsgivers' Society took the cellar of Orros's chandlery two years ago, and nobody has met a member of it. Savra cannot enter without a magistrate's warrant, because the Code Legal protects any place of worship, and a warrant needs a document the Order does not have.
+Gysheer Omfreys's Garrowby Cartage receipt for nine crates and her day-book pointed at a cellar door in a yard on Aveen Street, and Savra found the lease in the Halls' rolls. A charity called the Aveen Street Almsgivers' Society took the cellar of Orros's chandlery two years ago, and nobody has met a member of it. Savra cannot enter without a magistrate's warrant, because the Code Legal protects any place of worship, and a warrant needs a document the Order does not have.
 
 The cellar is a back way into the Asmodean shrine on Aveen Street, whose main house stands across the street in the North Ward. The party enters the stair room and the circle room, and the other areas of the shrine stay with the Cassalanters Factions Guide.
 
@@ -35,15 +35,15 @@ Savra briefs the members at the east annex of the Halls of Justice, while the co
 
 ## Aveen Street
 
-Orros, the nervous chandler, owns the building and has not been below for fourteen months. The party can ask him for the key, bring Father Corwen Thale for the Halls' fire inspection or break the alley door. A **Kelso's Debt** favour can empty the stair room or draw the Imp away.
+Orros, the nervous chandler, owns the building and has not been below for fourteen months. The party can ask him for the key, bring Father Corwen Thale for the Halls' fire inspection or go to the cellar door in the yard, where callers knock three times. A **Kelso's Debt** favour can empty the stair room or draw the Imp away.
 
 ## The Stair Room
 
-A Cultist Fanatic in a carter's coat keeps the stair room. A quiet descent catches him by surprise, an inspection makes him stand aside, and the alley door finds him waiting with a knife.
+A Cultist Fanatic in a carter's coat keeps the stair room. A quiet descent or the three knocks catches him by surprise, an inspection makes him stand aside, and a forced yard door finds him waiting with a knife.
 
 ## The Circle Room
 
-The Bearded Devil stands in the ring with an invisible Imp above the table. The ledger can be swapped for a stock book from Orros's shop without waking the devil, taken after a fight or copied from the strongbox, and the circle can be broken afterward.
+The Bearded Devil stands in the ring with an invisible Imp above the table, among the candles, salt, iron filings and lamp oil that the crates carried. The ledger can be swapped for a stock book from Orros's shop without waking the devil, taken after a fight or copied from the strongbox, and the circle can be broken afterward.
 
 ## The Ledger
 

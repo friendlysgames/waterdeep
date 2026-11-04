@@ -24,4 +24,4 @@ The Alert comes from the filing and from the Imp, not from a Masked Lord contact
 - The Notable Figures page for Sister Valdra links the villa to Asmodeus worship; she does not appear here.
 - The Cassalanters Factions Guide says the shrine is "From outside, an unremarkable residence" and lists no chandlery. The cellar entrance is a small addition that the guide needs.
 - The Code Legal rule that bars entry to a place of worship without a magistrate's warrant, the 3 gp rent, the Daggerford sister and the seventh-day carter are invented. The Halls of Justice stays in the Castle Ward, as the First Meeting fixes it.
-- The cartage receipt and the sealed note belong to **Spined Devils in Twelvedog Court**, which the restored draft of that mission did not yet carry; the Brief reads them only through **Intelligence Shared**.
+- The cartage receipt and the sealed note belong to **Spined Devils in Twelvedog Court**, which carries the nine-crate receipt and the "cellar door in the yard, three knocks" day-book entry that this mission's approach matches; the Brief reads them only through **Intelligence Shared**.
