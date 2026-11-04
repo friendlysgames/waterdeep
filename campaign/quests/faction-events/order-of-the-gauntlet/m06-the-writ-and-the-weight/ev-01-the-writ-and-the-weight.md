@@ -11,7 +11,7 @@
 > - Send the devil back to the Nine Hells, or try a scroll of *Banishment* at long odds.
 > - Receive the Recognition, which names every character who stood in the hall that night.
 >
-> Only Order of the Gauntlet members attend Savra's brief and debrief. Companions attend the hearing, fight in the hall and are named on the Recognition. Companions earn no Renown.
+> Only Order of the Gauntlet members attend Savra's brief and debrief. Companions attend the hearing, fight in the hall and are named on the Recognition, but they earn no Renown.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -26,27 +26,27 @@
 
 ### The Brief
 
-At noon a Priest Acolyte in a plain grey surcoat finds each qualifying member and hands over Savra's note. The meeting is in the east annex of the Halls of Justice at the third bell past noon. Savra briefs members only. Companions come to the nave at 19:30, and the members decide what to tell them before then.
+At noon a Priest Acolyte in a plain grey surcoat finds each qualifying member and hands over Savra's note. The meeting is in the east annex of the Halls of Justice at the third bell past noon, and Savra briefs members only. Companions come to the nave at 19:30, and the members decide what to tell them before then.
 
-If **Quietly Reassigned** is marked for a member, Brother Hallin Ostrel writes the note in Savra's place and signs it "B.H.O." The brief is unchanged.
-
-> [!readaloud]
->
-> A young man in a plain grey surcoat knocks at the door a little after noon and holds out a paper folded once. The seal is the Halls of Justice, and he walks off down the lane before you have broken it. The handwriting inside slants to the left.
->
-> A notice was nailed to the Halls door at dawn, and it carries your names. The Lords hear my petition tonight. Third bell past noon, east annex. Come to me first, and bring the rest of your company to the nave by half past seven. S.B.
-
-The east annex is quiet at this hour. Brother Haldric Wence, the door-warden, sends the members down the passage without a word.
+If **Quietly Reassigned** is marked for a member, Brother Hallin Ostrel writes the note in Savra's place and signs it "B.H.O.", and the brief itself is unchanged.
 
 > [!readaloud]
 >
-> The east annex smells of lamp oil and wet wool, and the line of petitioners has been sent home early. Savra waits at the long table at the end of the passage, with a sheet of black-edged vellum laid flat under her hand. She turns it toward you when you reach her.
+> A young man in a plain grey surcoat knocks at the door a little after noon and holds out a paper folded once. The seal is the Halls of Justice, and he walks off down the lane before you have broken it. The handwriting inside slants to the left, and it is signed with two letters at the bottom.
+>
+> A notice was nailed to the Halls door at dawn, and it carries your names. The Lords hear my petition tonight, so come to the east annex at the third bell past noon. Bring the rest of your company to the nave by half past seven. S.B.
+
+The east annex is quiet at this hour, and Brother Haldric Wence, the door-warden, sends the members down the passage without a word.
+
+> [!readaloud]
+>
+> The east annex smells of lamp oil and wet wool, and the line of petitioners has been sent home early. Savra waits at the long table at the end of the passage, with a sheet of black-edged vellum laid flat under her hand, and she turns it toward you when you reach her.
 >
 > > "This was nailed to the west door at dawn. It names you and it names me, and it says a writ will be served inside the Halls at midnight. Read it, then tell me what you make of it."
 
-The notice is a document, and the players read it as follows. Write each character's name in the list.
+The notice is a document that the players can read, and you write each character's name in its list.
 
-> NOTICE OF SERVICE. A writ will be served at midnight tonight, within the walls of the Halls of Justice, on the persons named below. They may choose the place of service. Savra Belabranta; then the name of every character in the party, member or not.
+> NOTICE OF SERVICE. A writ will be served at midnight tonight, within the walls of the Halls of Justice, on the persons named below, who may choose the place of service. Savra Belabranta; then the name of every character in the party, member or not.
 
 > [!social]**The Knight Before the Hearing**
 >
@@ -65,7 +65,7 @@ The notice is a document, and the players read it as follows. Write each charact
 
 > [!qna]**Who sent it?**
 >
-> Savra takes a moment before she answers.
+> Savra rests both hands on the table and takes a moment before she answers.
 >
 > > "I'll tell you plainly: I don't know, and I won't guess. A devil nailed that to my door, and devils serve paper for somebody. I only know the paper has your names on it."
 
@@ -116,14 +116,14 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > - **Size:** The nave is 60 feet long and 36 feet wide, with a ceiling 30 feet high. The west double doors open on a vestibule, and a window above them is the only opening large enough for the devil.
 > - **The cabinet:** Oak and iron, in the north aisle 30 feet from the altar steps. It holds the exhibit once the record closes.
-> - **The vestry:** A hallowed room 20 feet square in the northeast corner, behind an oak door with an iron lock. Father Corwen holds the key. A Fiend cannot willingly enter it, but *Hurl Flame* reaches through an open door.
-> - **The lamps:** Forty lamps hold the nave bright enough to see the whole room from any aisle.
+> - **The vestry:** A hallowed room 20 feet square in the northeast corner, behind an oak door with an iron lock that Father Corwen keys. A Fiend cannot willingly enter it, but *Hurl Flame* reaches through an open door.
+> - **The lamps:** Forty lamps keep the nave bright enough that any character can see the whole room from any aisle.
 
 > [!social]**The Two Priests of Tyr**
 >
 > Father Corwen Thale (Lawful Good, Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand, who calls the god "the Just God".
 >
-> Father Corwen is patient and curses mildly, if at all. Sister Merrin Oakhollow, a broad-shouldered priest in her forties, stands beside him and answers in as few words as she can. Both stand where the party puts them.
+> Father Corwen is patient and curses mildly, if at all. Sister Merrin Oakhollow, a broad-shouldered priest in her forties, stands beside him and answers in as few words as she can, and both priests stand where the party puts them.
 >
 > Conversation topics the priests are willing to discuss include:
 >
@@ -145,7 +145,7 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > The exhibit is a bound book or a stack of papers. The party chooses where it rests at 23:00, and the choice sets what the devil does first.
 >
-> - **The cabinet:** The oak is a flammable object that is neither worn nor carried, so one *Hurl Flame* from the devil ignites it. The cabinet burns for 3 rounds, and a character within 5 feet can pull the exhibit out as an action, with no check. A carried exhibit cannot be ignited.
+> - **The cabinet:** The oak is a flammable object that is neither worn nor carried, so one *Hurl Flame* from the devil ignites it. The cabinet burns for 3 rounds, and a character within 5 feet can pull the exhibit out as an action with no check, after which the carried exhibit cannot be ignited.
 > - **A carrier:** One character carries the exhibit in a satchel. The devil cannot burn it, so it goes for the carrier first, but its three attacks still go to at least two creatures each turn.
 > - **The vestry:** Father Corwen locks the exhibit in an iron strongbox inside, and the devil cannot enter. It turns on the named characters at once, and it uses *Hurl Flame* at anyone visible through the door.
 
@@ -153,7 +153,7 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > The Halls give the party two wards, and neither changes the roster.
 >
-> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) as her action on her first turn. The 15-foot emanation halves the speed of the devil inside it and deals 3d8 radiant damage, or half on a successful Wisdom save, when it enters or starts its turn there. A Priest who stands beside the exhibit holds the devil off it for as long as she keeps her concentration.
+> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) as her action on her first turn. The 15-foot emanation halves the speed of the devil inside it. The devil takes 3d8 radiant damage, or half on a successful Wisdom save, when it enters or starts its turn there. A Priest who stands beside the exhibit holds the devil off it while she keeps her concentration.
 > - **The vestry door:** A character who stands 10 feet or more inside the vestry is out of the devil's melee reach. *Hurl Flame* still reaches through the open door, and the devil keeps firing at any character it can see.
 > - **Effect:** With the wards in play the devil spends its early rounds crossing the aura and the door, which shortens the fight. The Day Cost and the band do not change.
 
@@ -161,9 +161,9 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > At 18:00 Brother Hallin Ostrel brings a *Spell Scroll* of *Banishment* from the Order's strongroom. It is a Level 4 scroll with spell save DC 15, and only a character whose class lists *Banishment* can read it.
 >
-> - **The devil's save:** Its Charisma saving throw is +8, and *Magic Resistance* gives it Advantage. The scroll lands about 9 times in 100.
+> - **The devil's save:** Its Charisma saving throw is +8, and *Magic Resistance* gives it Advantage, so the scroll lands about 9 times in 100.
 > - **A character's own cast:** A spell save DC of 14 lands about 6 times in 100, a DC of 15 about 9 and a DC of 16 about 12.
-> - **If it lands:** The devil is Incapacitated in a harmless demiplane, and the caster must hold concentration for the full 10 rounds. A Fiend still banished at the end of the minute does not return, and it counts as sent back.
+> - **If it lands:** The devil is Incapacitated in a harmless demiplane, and the caster must hold concentration for the full 10 rounds. A Fiend still banished at the end of the minute does not return, so it counts as sent back.
 > - **Reading:** The scroll is a chance and not a plan. Savra says so, and she asks the party not to build the night around it.
 
 ### The Hearing
@@ -180,7 +180,7 @@ The hearing opens at 20:00 and closes at 23:00. The Lords' court is a formality 
 >
 > Odrane Belcast (Lawful Neutral, Human, she/her) :: the Lords' magistrate, a heavy woman in grey robes who has heard petitions at the Halls for thirty years.
 >
-> Belcast is courteous and exact. She asks a witness each question once and writes the answer herself. She does not hint at her opinion of the family or the Order.
+> Belcast is courteous and exact, and she asks a witness each question once and writes the answer herself. She does not hint at her opinion of the family or the Order.
 >
 > Conversation topics Belcast is willing to discuss include:
 >
@@ -210,17 +210,17 @@ The hearing opens at 20:00 and closes at 23:00. The Lords' court is a formality 
 > - **A witness:** Any character who took part in the recovery or the filing gives an account and makes a successful **DC 12 Charisma (Persuasion)** check. On a failure, the magistrate asks for the account in writing, which costs an hour and no more.
 > - **The clerk's stamp:** If **Cassalanter Register Filed** is marked, the Watch clerk's stamp on the filing admits the exhibit with no check.
 >
-> If no route is available, the magistrate admits the exhibit as an Order file and gives it less weight. Nothing in the hall changes.
+> If no route is available, the magistrate admits the exhibit as an Order file and gives it less weight, and nothing in the hall changes.
 
 When the record closes at 23:00, the magistrate seals the exhibit and the clerks carry it to its place. The Lords' court rises, and Magistrate Belcast leaves with her clerks by the west door.
 
 ### The Notice at Midnight
 
-The hall empties, and only the party, Savra and the two Priests stay. Brother Haldric Wence bars the west door from outside and takes Brother Hallin Ostrel to the annex. The lamps stay lit.
+The hall empties, and only the party, Savra and the two Priests stay. Brother Haldric Wence bars the west door from outside and takes Brother Hallin Ostrel to the annex, and the lamps stay lit.
 
 > [!readaloud]
 >
-> The bell of the Halls tolls twelve, and the last stroke is still in the air when the window above the west doors bursts inward in a spray of glass. Something heavy lands on the flagstones of the vestibule with a sound like a dropped anvil, and the lamps gutter. A horned devil twice the height of a man unrolls a black-edged scroll in one clawed hand and steps into the nave.
+> The bell of the Halls tolls twelve, and the window above the west doors bursts inward in a spray of glass before the last stroke fades. Something heavy lands on the flagstones of the vestibule with the sound of a dropped anvil, and the lamps gutter. A horned devil twice the height of a man unrolls a black-edged scroll in one clawed hand and steps into the nave.
 
 Read the branch that matches the Cassalanter Villa result. If the villa has not run, read the last one.
 
@@ -256,15 +256,15 @@ The party has had hours to arrange the nave, and the exhibit lies wherever the p
 
 > [!hazard]**The Bailiff**
 >
-> **High-Power Warning.** The Horned Devil is Power 130 against 41 for each 7th-level character. That is 3.2 times a character and past the 2 times line in the CR 2.0 guide. It can remove a character in one exchange if its attacks pile up. The spread rules below are part of its stat block, and the bands only hold when the table follows them.
+> **High-Power Warning.** The Horned Devil is Power 130 against 41 for each 7th-level character. That is 3.2 times a character and past the 2 times line in the CR 2.0 guide, so it can remove a character in one exchange if its attacks pile up. The spread rules below are part of its stat block, and the bands only hold when the table follows them.
 >
-> Use the 2024 **Horned Devil** stat block: AC 18, 199 hit points, Fly 60 feet, Cha +8 and *Magic Resistance*. It has no *Battle Frenzy*. Savra uses the **Knight** block and withdraws at 20 hit points. The two Priests use the **Priest** block and withdraw at 19. The **Order of the Gauntlet Mechanics Reference** audits the roster.
+> Use the 2024 **Horned Devil** stat block, with AC 18, 199 hit points, Fly 60 feet, Cha +8 and *Magic Resistance* and no *Battle Frenzy*. Savra uses the **Knight** block and withdraws at 20 hit points. The two Priests use the **Priest** block and withdraw at 19, and the **Order of the Gauntlet Mechanics Reference** audits the roster.
 >
-> - **Three characters:** The devil alone. Savra and both Priests fight. This is Bloody (Day Cost 6), and no easier band is possible at this size.
-> - **Four characters, Standard:** The devil alone. Savra and both Priests fight. This is Bruising (Day Cost 4).
-> - **Four characters, Hard:** The devil alone. Savra fights, and the Priests stay at the exhibit and do not fight. This is Bloody (Day Cost 6).
-> - **Five characters, Standard:** The devil alone. Savra fights, and the Priests stay at the exhibit. This is Bruising (Day Cost 4).
-> - **Five characters, Hard:** The devil and two **Imps**, the writ's clerks, who arrive with it. Savra fights, and the Priests stay at the exhibit. This is Bloody (Day Cost 6).
+> - **Three characters:** The devil fights alone against the party, with Savra and both Priests fighting beside them, which is Bloody (Day Cost 6) and the easiest band possible at this size.
+> - **Four characters, Standard:** The devil fights alone against the party, with Savra and both Priests fighting beside them, which is Bruising (Day Cost 4).
+> - **Four characters, Hard:** The devil fights alone, Savra fights, and the Priests stay at the exhibit and do not fight, which is Bloody (Day Cost 6).
+> - **Five characters, Standard:** The devil fights alone, Savra fights, and the Priests stay at the exhibit, which is Bruising (Day Cost 4).
+> - **Five characters, Hard:** The devil arrives with two **Imps**, the writ's clerks, while Savra fights and the Priests stay at the exhibit, which is Bloody (Day Cost 6).
 >
 > Use Hard when the villa result is **Cassalanters Exposed** or the villa has not run, when the family stood at Lockdown, or when the party opens the fight. Hard has no separate roster at three characters.
 >
@@ -275,12 +275,13 @@ The party has had hours to arrange the nave, and the exhibit lies wherever the p
 > - Divides its three attacks among at least two creatures each turn and never puts all three on one.
 > - Uses *Infernal Tail* at most once a round, in place of one attack, on a creature within 10 feet.
 > - Never attacks a creature at 0 hit points, because the writ names the living.
-> - Flies 20 feet above the floor to use *Hurl Flame* on the cabinet or the carrier, and drops to *Searing Fork* when a character comes within 10 feet.
+> - Flies 20 feet above the floor to use *Hurl Flame* on the cabinet or the carrier.
+> - Drops to *Searing Fork* when a character comes within 10 feet.
 > - Turns on the named characters when the exhibit is out of reach, taking whichever is nearest and still dividing its attacks.
 >
 > The Imps, if present, turn invisible and sting the exhibit's carrier or the nearest Priest. They flee when the devil is sent back.
 >
-> The devil never surrenders. It leaves at first light, with the writ unserved, if the party shuts itself inside the vestry. The Priests stabilize Savra with no roll if she falls, and a Priest who does this does not attack that turn.
+> The devil never surrenders, but it leaves at first light with the writ unserved if the party shuts itself inside the vestry. The Priests stabilize Savra with no roll if she falls, and a Priest who does this does not attack that turn.
 
 > [!exploration]**Sent Back, Not Destroyed**
 >
@@ -294,11 +295,11 @@ After the devil is gone, the lamps steady and the smell of hot iron lingers in t
 
 ### Renown Opportunities
 
-The debrief is at the third bell the next morning in the east annex. Savra holds it with members only, and Brother Hallin Ostrel waits at the clerk's desk with the Recognition. Companions wait in the nave.
+The debrief is at the third bell the next morning in the east annex. Savra holds it with members only while companions wait in the nave, and Brother Hallin Ostrel waits at the clerk's desk with the Recognition.
 
 > [!readaloud]
 >
-> Morning light falls through the annex windows onto the long table, where a single sheet of white vellum lies with the Halls of Justice seal pressed into the corner. Savra stands beside it in her dark riding coat, and the silver gauntlet pin catches the light. She waits until all the members are in the room before she speaks.
+> Morning light falls through the annex windows onto the long table, where a sheet of white vellum lies with the seal of the Halls of Justice in the corner. Savra stands beside it in her dark riding coat with the silver gauntlet pin at her collar. She waits until all the members are in the room before she speaks.
 >
 > > "Sit if you want to. I'll tell you what I think, and then I'll tell you what the Lords did."
 
@@ -306,7 +307,7 @@ If **Devil Sent Back** is marked, read or paraphrase the following:
 
 > [!readaloud]
 >
-> Savra gives a single nod, and she lets it stand for a moment.
+> Savra gives a single nod and waits a moment before she speaks.
 >
 > > "It went back down with its writ unserved, and the exhibit went to the Lords at dawn. That is what I asked of you, and I'll write it down as it happened."
 
@@ -314,7 +315,7 @@ If the party shut itself in the vestry and the devil left at first light, read o
 
 > [!readaloud]
 >
-> Savra does not nod. She looks at the long table and then at you.
+> Savra does not nod, and she looks at the long table for a moment before she looks at you.
 >
 > > "You lived, and the exhibit lived, and the bailiff left with its paper. It will come again for the names on that notice. I'd have liked it gone, but I won't pretend you were wrong to hide."
 
@@ -354,7 +355,7 @@ Then Brother Hallin Ostrel hands over the Recognition, and Savra reads out the n
 
 > [!readaloud]
 >
-> Brother Hallin lays the white vellum on the table and dips his pen. Savra reads the names in the order they were nailed to the door, and he writes each one in a clerk's neat hand. When he has finished she picks up the sheet and holds it out.
+> Brother Hallin lays the white vellum on the table and dips his pen. Savra reads the names in the order they were nailed to the door, and he writes each one in a clerk's neat hand before she picks up the sheet and holds it out.
 >
 > > "This is the Order's Recognition, and it names every one of you who stood in that hall, member or not. You're not knights and you've sworn nothing. But the Halls of Justice knows your faces now."
 
@@ -369,13 +370,11 @@ Then Brother Hallin Ostrel hands over the Recognition, and Savra reads out the n
 
 > [!gamemaster]**Mission Renown**
 >
-> Each participating Order of the Gauntlet member gains 4 base Renown for reporting to Savra at the debrief. Companions gain none.
+> Each participating Order of the Gauntlet member gains 4 base Renown for reporting to Savra at the debrief, and each bonus can be earned only once. Companions gain none.
 >
 > - **+1 Renown:** the bailiff is sent back before it burns the exhibit or comes within 5 feet of it.
 > - **+1 Renown:** every character named on the notice survives the night.
 > - **+1 Renown:** a character other than Savra or a Priest lands the final blow, or a *Banishment* cast by a party character holds for the full minute.
->
-> Each bonus can be earned only once.
 
 ### Aftermath
 
@@ -383,7 +382,7 @@ The Lords' court carries the exhibit away at dawn and enters it in the record. T
 
 If **Devil Sent Back** is marked, Savra files the night in the Order's roll, and the Order's priests tell the other temples of the Triad. If the party hid in the vestry, she tells them the bailiff may come again.
 
-In the **Cassalanters Exposed** result, the family stays in the hands of the Lords' court or in flight. In the other three results the Order holds no further case against the family, and Savra closes her file. **Vault of Dragons** (unconverted) reads **Order Recognized**, and **Righteous Hand** reads both outcomes when Savra names the investiture.
+In the **Cassalanters Exposed** result, the family stays in the hands of the Lords' court or in flight. In the other three results the Order holds no further case against the family, and Savra closes her file. **Vault of Dragons** (unconverted) reads **Order Recognized**. **Righteous Hand** reads both outcomes when Savra names the investiture.
 
 ### Concluding the Event
 
@@ -391,8 +390,8 @@ Savra's debrief ends the last Order of the Gauntlet mission, and the two outcome
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Order Recognized** — mark when Savra hands over the Recognition at the debrief, naming every character present at the hearing and in the hall at midnight; read by **Vault of Dragons** (unconverted), where Watch cooperation at the gate improves and Savra offers to testify (if the mission was not run, the Vault uses the default in the design notes), and by **Righteous Hand**, where Savra names the night in the investiture.
-> - **Devil Sent Back** — mark when the Horned Devil reaches 0 hit points or a *Banishment* holds for the full minute; read by the debrief branch in this Event and by **Righteous Hand**, where the high priest of Tyr recalls it.
+> - **Order Recognized** — mark when Savra hands over the Recognition at the debrief, naming every character present at the hearing and in the hall at midnight. It is read by **Vault of Dragons** (unconverted), where Watch cooperation at the gate improves and Savra offers to testify. If the mission was not run, the Vault uses the default in the design notes. It is also read by **Righteous Hand**, where Savra names the night in the investiture.
+> - **Devil Sent Back** — mark when the Horned Devil reaches 0 hit points or a *Banishment* holds for the full minute. It is read by the debrief branch in this Event. It is also read by **Righteous Hand**, where the high priest of Tyr recalls it.
 
 > [!gamemaster]**Next Steps**
 >

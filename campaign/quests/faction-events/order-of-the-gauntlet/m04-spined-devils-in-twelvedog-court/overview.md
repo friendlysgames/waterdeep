@@ -14,11 +14,11 @@
 
 ## Hook
 
-An hour before noon Savra Belabranta knocks at Trollskull Manor and tells each member that spined devils are loose in a Field Ward court, with three residents pinned behind a market cart. She is already on her way, she will fight beside the party, and she wants the summoner alive. She asks every member to bring whatever the summoner carried to the east annex of the Halls of Justice by dusk tomorrow.
+An hour before noon Savra Belabranta knocks at Trollskull Manor and tells each member that spined devils are loose in a Field Ward court. Three residents are pinned behind a market cart. Savra is already on her way, she will fight beside the party, and she wants the summoner alive. She asks every member to bring whatever the summoner carried to the east annex of the Halls of Justice by dusk tomorrow.
 
 ## Background
 
-Gysheer Omfreys is a Tethyrian woman in her forties who works for Victoro Cassalanter of the Sea Ward. She is a hired agent and not household staff, and she knows her employer's name and nothing of his reasons. For a tenday she has been readying a cellar on Aveen Street for a larger working, and Victoro has told her to keep the Field Ward frightened and the Watch busy elsewhere.
+Gysheer Omfreys is a Tethyrian woman in her forties who works for Victoro Cassalanter of the Sea Ward. She is a hired agent and not household staff. She knows her employer's name and nothing of his reasons. For a tenday she has been readying a cellar on Aveen Street for a larger working, and Victoro has told her to keep the Field Ward frightened and the Watch busy elsewhere.
 
 This morning she chalked a sigil at the mouth of an alley off Twelvedog Court and called a flight of spined devils to clear the court of watchers. They slipped her hold at once and trapped three residents behind a cart. A Watch runner took word to the Halls of Justice, and Savra took the message herself. In **The Black Viper Investigation** she asked what the people watching Trollskull Alley were moving, and this mission answers her.
 
@@ -40,7 +40,7 @@ Savra takes Gysheer to the Halls of Justice if she is held. Three independent le
 
 ## Renown Opportunities
 
-Each participating Order of the Gauntlet member gains 3 base Renown for reporting to Savra. Bonuses of +1 each go to members when all three residents come through unharmed, when the address is found on paper and not from Gysheer's hearing, and when Gysheer's papers reach Savra in full. Companions gain no Renown, and each bonus can be earned only once.
+Each participating Order of the Gauntlet member gains 3 base Renown for reporting to Savra. Bonuses of +1 each go to members in three cases. All three residents come through unharmed, the address is found on paper and not from Gysheer's hearing, and Gysheer's papers reach Savra in full. Companions gain no Renown, and each bonus can be earned only once.
 
 ## Aftermath
 
