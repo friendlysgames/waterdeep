@@ -25,5 +25,4 @@ The invented details are the red-wheeled cart, the yellow-scarfed Shard Shunners
 Contradictions outside this folder are left unedited:
 
 - The Harpers organization page and Bonnie's Notable Figures page say only Mattrim knows her nature, though the Enclave's animals know too.
-- The Order of the Gauntlet **The Shard Shunners** design notes claim Splinter intelligence from Kelso that its event does not contain.
 - **Faction Outposts** (unconverted) should read **Traitor Identified**.

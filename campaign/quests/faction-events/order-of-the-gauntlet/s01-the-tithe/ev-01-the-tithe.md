@@ -1,94 +1,275 @@
 # The Tithe
 
-> **[GM]**
+> [!gamemaster]**Gamemaster's Summary**
 >
-> #### Gamemaster's Summary
+> This Standalone Event occurs for an individual Order of the Gauntlet member after the party first carries a haul of 1,000 gp or more out of one operation, counted from the member's oath. Savra Belabranta knocks at Trollskull Manor at dusk on the second day after the haul reaches Waterdeep. In this Event, the member can:
 >
-> This Social Event fires the first time the party recovers a haul of 1,000 gp or more in a single operation — loot cleared from an enemy cache, coin recovered in a heist, or any comparable single windfall — and at least one party member holds OotG Renown 1 (Chevall). Savra arrives in person at Trollskull Manor within two days of the windfall becoming known. In this Event:
+> - Pay 25% of their own equal share to a worthy cause before Savra knocks, and gain 1 Renown.
+> - Pay after Savra has asked, and hear "Good." with no Renown.
+> - Refuse, or pay less and not make up the rest, and be **Quietly Reassigned**, which ends only the extras Savra offers unasked.
+> - Pay the declined amount later, and end the reassignment the next morning.
 >
-> - Savra states the Order's tithe expectation: 25% of the haul to a worthy cause of the party's choosing.
-> - If the party pays — whether unprompted or when asked — they earn the renown and Savra's nod.
-> - If the party refuses, Savra does not argue. The Order reassigns them to routine work within a tenday. **Sister Valdra** becomes the day-to-day contact. Savra's personal investment in their operations ends.
-> - The **Tithe Paid** and **Quietly Reassigned** flags set here are read in **Vault of Dragons**.
+> Each participating Order of the Gauntlet member follows their own track. Companions and characters in other factions owe nothing and are never pressed.
+
+> [!gamemaster]**What Is Actually True**
+>
+> - The Order has no treasury rule beyond this one. Savra asks for a quarter of a member's own share because the Order expects its knights to live on less than they earn.
+> - Savra never touches the money or the receipt. Brother Hallin Ostrel, the Order's clerk at the Halls of Justice, takes both, so she judges members by what they do and not by what they hand her.
+> - A tithe paid before Savra asks is a gift. A tithe paid after she asks is a debt settled, and she says so by saying nothing more than "Good."
+> - Savra does not rank the four causes. Her family raises griffons for the Griffon Cavalry, and she names no cause so that nobody thinks she is steering them toward her own.
+> - Quietly Reassigned is a list and not a punishment. Savra needs every member she has for the work ahead, and she says as much when asked.
+
+### When This Event Fires
+
+> [!gamemaster]**The Trigger**
+>
+> Fire the Event for each Order of the Gauntlet member the first time the party carries a haul of 1,000 gp or more out of a single operation after that member took the oath. A member who joins later is tested by the first haul after their oath, and an earlier haul never counts.
+>
+> - **What counts:** coin, trade goods and gems at face value, taken or earned in one operation. Magic items are not counted.
+> - **What does not count:** pay from a faction mission and the takings of the Trollskull tavern.
+> - **The first likely case:** the two saddlebags of trade bars in the Gralhund coach house, 2,000 gp in all. Members who took the oath before the night of Ches 24 are asked on Ches 26.
+> - **Once only:** the Event fires once for each member in the campaign. Later hauls are never asked of that member again.
+
+> [!gamemaster]**The Sum**
+>
+> The party divides the haul evenly among its player characters, and the member owes 25% of that equal share. If the party splits the haul unevenly, the member still owes a quarter of the equal share. Round every figure up.
+
+| Party size | Equal share of 2,000 gp | Tithe owed |
+|---|---|---|
+| 3 characters | 667 gp | 167 gp |
+| 4 characters | 500 gp | 125 gp |
+| 5 characters | 400 gp | 100 gp |
+
+> [!gamemaster]**The Clock**
+>
+> Day one is the first dawn after the haul is in Waterdeep, and Savra asks at dusk on day two. Brother Hallin's desk closes at dusk, so a tithe must be paid and receipted before then to count as paid before she asks.
+
+| When the member pays | What Savra says | Outcome | Renown |
+|---|---|---|---|
+| In full before dusk on day two | "Hallin has you down." | **Tithe Paid** | +1 once |
+| In full by dusk on day three, after she asks | "Good." | **Tithe Paid After Asking** | None |
+| Less than a quarter before she asks, and the rest by dusk on day three | "Good." | **Tithe Paid After Asking** | None |
+| Refuses, or has paid nothing by dusk on day three | "All right." | **Quietly Reassigned** | None |
+
+### Paying Before She Asks
+
+A member who learns of the Order's expectation from another member, from the Factions Guide or from Savra at the First Meeting can pay at any time on days one and two. The desk is in the east annex of the Halls of Justice, open from dawn to dusk.
+
+> [!readaloud]
+>
+> The east annex of the Halls of Justice smells of lamp oil and damp wool, and a line of petitioners waits along the wall with their papers. A clerk's desk stands beside the door-warden's bench, and a thin man in a plain grey surcoat is writing in a ledger there. He looks up when you reach the front of the line and sets down his pen.
+>
+> > "Brother Hallin Ostrel, for the Order. Give me your name, the cause and the sum, and I'll write the receipt while you watch."
+
+> [!social]**Brother Hallin Ostrel**
+>
+> Brother Hallin Ostrel (Lawful Good, Human, he/him) :: the Order of the Gauntlet's clerk at the Halls of Justice, a thin, ink-stained man in his fifties who keeps the Order's accounts and the door-warden's message shelf.
+>
+> Hallin is patient with people who have never given money away in an organized fashion. He writes everything down twice, speaks in short practical sentences, and does not moralize. He gives each member a receipt that names the cause, the sum and the date, and sends the coin across the city by the Order's runner the same day.
+>
+> Hallin is happy to discuss the following topics:
+>
+> - The four causes, what each one does and where its money goes.
+> - Whether a payment in trade goods or gems counts, which it does at face value.
+> - What a member still owes if they pay in part.
+> - Whether a payment can be split, which it can, with a receipt for each part.
+>
+> He will not discuss other members' payments, and he will not say what Savra thinks of any member.
+
+> [!qna]**What counts as a worthy cause?**
+>
+> Hallin turns the ledger so you can read the short list on its first page.
+>
+> > "There are four, and any of them is enough. You can split the sum between them if you like. The Trollskull Alley fund doesn't count, and neither does your own party's purse."
+
+> [!qna]**Can I pay in goods?**
+>
+> > "Trade goods and gems, yes, at the face value I write down. A magic item doesn't count, and neither does a favour. I'll note what you give and what it was worth."
+
+> [!qna]**Does anyone else see this?**
+>
+> > "Savra reads my list each evening, and nobody else does. I don't tell the Order's other members who has paid, because it isn't their concern."
+
+> [!exploration]**Worthy Causes**
+>
+> Hallin takes the coin for any of the four causes below. A member can instead pay a cause directly and bring the receipt to Hallin to countersign before dusk. Savra ranks none of them.
+>
+> - **Temple of Helm, Castle Ward.** Helm's priests run a hospice wing for Watch veterans and their families, and the donation goes to the healing work.
+> - **Halls of Justice, Legal Aid Fund.** Tyr's clergy argue for Field Ward residents who cannot afford a hearing before the Lords, and the fund is always short.
+> - **Field Ward Soup Houses.** Three independent kitchens feed about four hundred people a day, and all three are underfunded.
+> - **Griffon Cavalry Dependents Fund.** The families of Cavalry riders who were killed or maimed in service receive the money. Savra does not name this cause, and if a member chooses it she says nothing further.
+>
+> A payment that follows these steps is receipted and counts: the member names the cause, hands over the sum, and Hallin writes the receipt with the date. The Trollskull Alley fund is not accepted.
+
+### The Knock
+
+At dusk on day two, Savra goes to the manor and knocks once. She speaks to each Order of the Gauntlet member in alphabetical order by character name, and she holds Hallin's evening list in one hand. Companions may stay in the room, but she addresses only members.
+
+> [!readaloud]
+>
+> Dusk settles on Trollskull Alley, and the lamplighter has reached the far end of the lane when a single knock sounds at the manor door. Savra Belabranta waits on the step in her dark riding coat with a folded slip in one hand. She comes in when you ask her and stays on her feet.
+
+> [!social]**Savra Belabranta**
+>
+> Savra Belabranta (Lawful Good, Human, she/her) :: a late-twenties knight of the Order with her dark hair worn back, a strong jaw, a dark riding coat and a silver gauntlet pin at her collar.
+>
+> Savra does not sit and does not accept tea. She has one piece of Order business and wants to be done with it. She speaks plainly, states the hard part first and gives the reason after, and she gives a single measured nod only to answers she believes are honest.
+>
+> Savra is happy to discuss the following topics:
+>
+> - What the Order expects, what it will do about a member who falls short, and how to put it right.
+> - Where the money goes, which she describes in a sentence and then sends the member to Hallin.
+> - Her own view of the haul, which she gives only when asked and only once.
+>
+> She will not discuss what she herself gave, which cause a member should choose, or the Cassalanters.
+
+If the member has already paid, run **When the Tithe Is Paid Before the Knock**. Otherwise run **The Ask**.
+
+> [!qna]**Why a quarter?**
+>
+> Savra considers the question before she answers.
+>
+> > "A quarter is enough that you feel it, and not so much that you can't live on the rest. I paid the same when I joined, and I'm not asking you for more."
+
+> [!qna]**What if I already spent my share?**
+>
+> > "Then you owe it from what you have. Coin, trade goods and gems all count at Hallin's valuation. I don't care how you find it, only that you do."
+
+> [!qna]**What if I refuse?**
+>
+> > "I'll tell you plainly. I stop offering you the extras, and the work still comes to you by Hallin's note. Your Renown stays where it is. Pay the quarter any time and it ends."
+
+> [!qna]**Do my companions owe anything?**
+>
+> > "No. They're not in the Order and it isn't asked of them. If they choose to give, Hallin will write it down, but I'll not press anyone."
+
+> [!qna]**Which cause would you pick?**
+>
+> > "I don't pick. If I named one, you'd choose it to please me, and that's not what the gift is for."
+
+### When the Tithe Is Paid Before the Knock
+
+Savra reads the member's name off Hallin's slip, checks that the sum is a full quarter of the equal share, and says nothing about the cause. Mark **Tithe Paid** for the member and award 1 Renown, once.
+
+> [!readaloud]
+>
+> Savra unfolds the slip and runs her thumb down a short column of names until she reaches yours. She stops there and looks up.
+>
+> > "Hallin has you down for the full quarter, with a receipt. I didn't have to ask, and I'll remember that."
+>
+> She gives a single short nod, folds the slip again and puts it inside her coat.
+
+A member who paid less than a quarter before she knocked gets a different reading. Savra tells the member the sum still owed and the day it is due, and she gives the same terms as **The Ask**. A member who completes the payment by dusk on day three is marked **Tithe Paid After Asking** and receives no Renown.
 
 ### The Ask
 
-Savra knocks. She waits.
+Read this aloud to a member whose name is not on Hallin's slip.
 
-She doesn't accept tea and she doesn't sit. She has one piece of Order business to deliver and she wants to be clear about what it is before she leaves.
-
-> > "The Order has an expectation of members who recover significant wealth in the course of their work. A quarter of it goes somewhere useful — temple restoration, field relief, the Watch orphan fund. Anything that does something real for someone who can't defend themselves. The choice is yours. The expectation isn't."
-
-She waits for the party's answer. She doesn't add to the speech and she doesn't repeat it.
-
-> > [!info]+**Worthy Causes**
-> >
-> > Any of the following qualifies. The party may split the tithe across multiple recipients. Savra doesn't rank them.
-> >
-> > - **Temple of Helm (Castle Ward).** Helm's priests run a hospice wing for Watch veterans and their families. Donations go directly to the healing work.
-> > - **Halls of Justice, Legal Aid Fund.** Tyr's clergy provide representation for Field Ward residents who cannot afford a hearing before the Lords. The fund is chronically short.
-> > - **Field Ward Soup Houses.** Three independent kitchens feed roughly four hundred people a day. All three are underfunded.
-> > - **Griffon Cavalry Dependents Fund.** Families of Cavalry riders killed or maimed in service. Savra does not name this one. If the party chooses it, she nods and says nothing further.
-> > - **Trollskull Alley Rebuilding.** Residents of the alley are still recovering from damage that happened in the course of the Grand Game. The party knows exactly where the money would go.
-
-### Paying the Tithe
-
-If the party commits 25% or more of the recovered haul — in coin, arranged donation, or trade goods of equivalent value — Savra nods.
-
-> > "Good."
-
-That's all. She stays another few minutes, drinks whatever's offered if something is, and goes. She doesn't thank them. The thing was expected of them and they did it; thanks would be strange.
-
-Characters who've learned to watch for her nod will know what it means.
-
-### Refusing the Tithe
-
-If the party declines, disputes the amount, or proposes keeping the full haul, Savra asks once whether she has heard correctly. When she has confirmed that she has, she says:
-
-> > "All right."
-
-She leaves. The door closes quietly.
-
-Two days later, a written instruction arrives from the Order's Waterdeep office — not from Savra, in a clerk's hand. It redirects the party to routine field assignments: a harassment complaint in the Field Ward, a patrol coordination request, a witness escort to the Halls of Justice. The work is legitimate. It is not the work Savra was running.
-
-**Sister Valdra** becomes their contact for day-to-day Order assignments from this point forward. She is professional and does not explain the change. Savra remains reachable — she is still their faction contact — but she doesn't come in person. Written notes only, and only for operational necessity.
-
-The Cassalanter thread, the Order's surveillance resources, and Savra's personal combat support are not formally withdrawn. They stop being offered.
-
-> **[GM]**
+> [!readaloud]
 >
-> #### Remedying the Reassignment
+> Savra stays by the door and folds her hands in front of her. She does not look at the table or at the room.
 >
-> The reassignment isn't permanent. If the party later donates an amount equal to the outstanding tithe — the 25% they declined — Savra appears in person once to acknowledge it. She doesn't make a ceremony of it. She says: *"Thank you"* — two words she almost never uses. Normal operations resume.
+> > "The Order asks one thing of its members after a haul like this one. A quarter of your own share goes to a cause that looks after people who can't look after themselves. Hallin's list has no name of yours on it. Will you pay?"
+
+Tell the member the exact sum from **The Sum** before they answer. A member can agree, refuse, or ask a question first.
+
+#### The Member Agrees
+
+> [!readaloud]
+>
+> Savra gives one short nod and takes a step back toward the door.
+>
+> > "Good. Take it to Hallin by dusk tomorrow. He writes the receipt, and I don't need to see it."
+
+Savra says nothing more about the money and never raises it again. If the member pays by dusk on day three, mark **Tithe Paid After Asking** and award no Renown. If dusk on day three passes with the quarter unpaid, mark **Quietly Reassigned** at the next dawn instead, and Hallin's note arrives at noon with the terms of the remedy.
+
+#### The Member Refuses
+
+Savra asks once more so that nobody can say they misunderstood. A member who haggles to a sum under a quarter is refusing.
+
+> [!readaloud]
+>
+> Savra waits a moment with her hands folded, then asks again in the same level voice.
+>
+> > "Did I hear you correctly? You won't pay a quarter of your share."
+>
+> You tell her that she did. She looks at you for a few seconds and her face does not change.
+>
+> > "All right. The tithe stays open until it's paid. Brother Hallin will tell you the rest."
+>
+> She turns, steps down into the lane and walks toward the corner of Trollskull Alley.
+
+Mark **Quietly Reassigned** for the member as soon as Savra has gone. At noon the next day, a Priest Acolyte in a plain grey surcoat brings Hallin's note to the member. The note is the first of the clerk's notes, and it names the remedy. Read the following aloud:
+
+> [!readaloud]
+>
+> The acolyte hands you a folded paper sealed with the Halls of Justice wax and leaves without waiting for a reply. The note holds one short paragraph in a neat, upright hand.
+>
+> > Haul recorded. A quarter of your equal share stands open. Pay it to any of the four causes through this desk and the matter is closed the next morning. B.H.O.
+
+### What Quietly Reassigned Takes
+
+> [!exploration]**Quietly Reassigned**
+>
+> Savra stops offering the member the optional extras. She does not stop the work, and she does not touch the member's Renown or rank. The list below is complete.
+>
+> - **Briefs:** the member still receives each Brief that their Renown allows. The Brief arrives as a note from Brother Hallin, carried by a Priest Acolyte, and it restates the deadline. Savra does not come to the manor door. The member gives the debrief to Savra at the Halls of Justice as usual.
+> - **Marcheon:** Savra does not offer to fight beside the member. If the member asks for her in writing, through the door-warden, she answers within a tenday.
+> - **Temple briefings:** the one briefing the member's rank gives each tenday stays. Savra adds no follow-up briefings.
+> - **Whitehawk:** the surveillance team that the rank gives stays. Savra does not offer a team for a place or person she has been watching herself.
+> - **Rank events:** a rank event still occurs, and Hallin's note summons the member to it in place of Savra's.
+> - **Fighting beside the party:** when Savra fights beside the party in **Spined Devils in Twelvedog Court** or **The Writ and the Weight**, she does it coldly. She says only "This isn't about you," and she protects the party as she would anyone.
+>
+> The reassignment lasts until the member pays the declined quarter. It costs no Renown.
+
+### The Remedy
+
+A reassigned member pays the declined quarter of their equal share, receipted by Hallin, to any of the four causes. They can pay at any time and need not go to Savra. Mark the payment as **Tithe Paid After Asking**, remove **Quietly Reassigned**, and award no Renown.
+
+At first light on the morning after the payment, Savra comes to the manor door.
+
+> [!readaloud]
+>
+> A single knock sounds at the manor door a little after dawn, and the lane outside is still wet from the night. Savra Belabranta stands on the step with Hallin's slip in one hand and her breath showing in the cold.
+>
+> > "Hallin says it's paid. Thank you."
+>
+> She hands you the slip and goes back down the lane.
+
+### Renown Opportunities
+
+This Event awards no base Renown. Each participating Order of the Gauntlet member can gain the following bonus once in the campaign. Companions gain none.
+
+- **+1 Renown:** the member pays at least 25% of their equal share, and Hallin's receipt is dated before Savra knocks.
+
+A member who pays after Savra has asked, or after being reassigned, gains no Renown.
+
+### Aftermath
+
+Savra says nothing more of the money, whatever the member chose. A member who paid before she knocked finds that she nods to them in the street. A member who paid late finds that she treats them as she did before.
+
+A reassigned member finds the manor door unvisited, a clerk's note in place of Savra's knock, and the work otherwise unchanged. Savra speaks to the member in the same way at the Halls of Justice, and she will not mention the reassignment unless asked. If the member asks why, she says "Because you chose it, and I'm not angry about that."
 
 ### Concluding the Event
 
-#### Tithe Paid: True
+The Event concludes for a member when Savra has left the manor, and it concludes again for a reassigned member when the remedy is paid.
 
-The party contributed 25% or more of the recovered haul to a worthy cause. Savra registered the act. Read in **Vault of Dragons** — **The Final Approach**: Savra's willingness to vouch for the party before the Lords depends in part on this record. Her formal testimony, if needed, is unqualified.
-
-#### Tithe Paid: False
-
-The party declined or paid less than 25%. The shortfall is recorded. Read in **Vault of Dragons** — **The Final Approach**: Savra's cooperation at the Vault is conditional. She does not actively obstruct, but she does not go out of her way.
-
-#### Quietly Reassigned: True
-
-The party refused the tithe entirely. The Order has reassigned them to routine operations. Read in **Vault of Dragons** — **The Final Approach**: Savra does not appear as an ally. Sister Valdra fulfills any required Order liaison role. Savra's personal testimony is not available.
-
-> **[GM]**
+> [!gamemaster]**Event Outcomes**
 >
-> #### Next Steps
+> - **Tithe Paid** — mark with the member's name when they pay a full quarter of their equal share and Hallin dates the receipt before Savra knocks; read by **Vault of Dragons** (unconverted).
+> - **Tithe Paid After Asking** — mark with the member's name when they pay a full quarter by dusk on day three, or pay the declined quarter later as the remedy; read by **Vault of Dragons** (unconverted).
+> - **Quietly Reassigned** — mark with the member's name when they refuse, pay under a quarter and do not make it up, or let dusk on day three pass unpaid; remove it when the remedy is paid. Read by every Order of the Gauntlet Brief, which arrives by Hallin's note, by **Marcheon**, **Whitehawk**, **Spined Devils in Twelvedog Court**, **The Writ and the Weight** and **Vault of Dragons** (unconverted).
 >
-> This Event fires once per campaign, regardless of subsequent large hauls. If the party later recovers the Stone of Golorr's vault, **Vault of Dragons** carries the relevant flag.
+> This Event also reads **Order of the Gauntlet Joined**, which names the members it is asked of.
+
+> [!gamemaster]**Next Steps**
 >
-> If **Tithe Paid: True**, the Order's Cassalanter dossier remains accessible when the party reaches Renown 10, and Savra's Renown 3 combat support is unaffected.
->
-> If **Quietly Reassigned: True**, redirect all future OotG mission deliveries through Sister Valdra. Savra's personal appearances at Trollskull Manor stop until the remediation condition above is met.
+> Order of the Gauntlet Briefs continue to become available when an individual Order of the Gauntlet member reaches the Renown and level each requires. A reassigned member receives them by Hallin's note until the remedy is paid. This Event awards no Milestone Points.
 
 ## Overview
 
-The Order of the Gauntlet expects members who recover significant wealth to put a quarter of it toward something useful. Savra delivers that expectation in person, without moralizing. What the party does with it determines how the Order works with them going forward.
+An Order of the Gauntlet member who helps carry out a haul of 1,000 gp or more is asked for a quarter of their own share. What the member does before and after Savra's knock decides how the Order treats them.
 
 ## Summary
 
-Savra arrived at Trollskull Manor with one piece of Order business: the tithe. A quarter of any major haul to a worthy cause — a temple fund, field relief, the orphan fund, the party's choice. Her delivery was brief. Her expectations were not negotiable.
+Savra Belabranta came to the manor at dusk with a slip from Brother Hallin and asked what each of us would give from the haul. Those of us who had paid already were named on the list, and the rest of us were asked once and given a day. She told us plainly that anyone who refused would lose the extras she offered and nothing else.
