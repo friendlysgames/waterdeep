@@ -52,7 +52,7 @@ The notice is a document, and the players read it as follows. Write each charact
 >
 > Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, in her late twenties, with dark hair worn back and a strong jaw.
 >
-> Savra has not slept, and she keeps her voice low and level to prove it does not matter. She pauses before every serious answer and gives her single nod only to an honest one. She swears rarely, in short bursts, and only at wrongdoing.
+> Savra has not slept, and she keeps her voice low and level. She pauses before every serious answer and gives her single nod only to an honest one. She swears rarely, in short bursts, and only at wrongdoing.
 >
 > Conversation topics Savra is willing to discuss include:
 >
@@ -75,7 +75,7 @@ The notice is a document, and the players read it as follows. Write each charact
 
 > [!qna]**Can we refuse to be named?**
 >
-> > "No, a notice like that finds its names wherever they stand. But it lets you choose the place of service, and I'd choose this hall. The Maimed God has had a roof over it for a long time."
+> > "No, a notice like that finds its names wherever they stand. But it lets you choose the place of service, and I'd choose this hall. The roof of the Maimed God's house has held a long time."
 
 > [!qna]**Will you fight beside us?**
 >
@@ -121,9 +121,9 @@ The members and their companions have from 19:30 until the hearing opens to prep
 
 > [!social]**The Two Priests of Tyr**
 >
-> Father Corwen Thale (Lawful Good, Human, he/him) :: a gray-haired priest of Tyr with a missing left hand, who calls the god "the Just God". Sister Merrin Oakhollow (Lawful Good, Human, she/her) :: a broad-shouldered priest in her forties, who answers in as few words as she can.
+> Father Corwen Thale (Lawful Good, Human, he/him) :: a gray-haired priest of Tyr with a calm, gravelly voice and a missing left hand, who calls the god "the Just God".
 >
-> Father Corwen is patient and curses mildly, if at all. Sister Merrin says what she will do and then does it. Both stand where the party puts them.
+> Father Corwen is patient and curses mildly, if at all. Sister Merrin Oakhollow, a broad-shouldered priest in her forties, stands beside him and answers in as few words as she can. Both stand where the party puts them.
 >
 > Conversation topics the priests are willing to discuss include:
 >
@@ -216,7 +216,7 @@ When the record closes at 23:00, the magistrate seals the exhibit and the clerks
 
 ### The Notice at Midnight
 
-The hall empties, and only the party, Savra, the Priests and Brother Haldric Wence stay. Brother Haldric bars the west door and goes to the strongroom with Brother Hallin Ostrel. The lamps stay lit.
+The hall empties, and only the party, Savra and the two Priests stay. Brother Haldric Wence bars the west door from outside and takes Brother Hallin Ostrel to the annex. The lamps stay lit.
 
 > [!readaloud]
 >
@@ -276,7 +276,7 @@ The party has had hours to arrange the nave, and the exhibit lies wherever the p
 > - Uses *Infernal Tail* at most once a round, in place of one attack, on a creature within 10 feet.
 > - Never attacks a creature at 0 hit points, because the writ names the living.
 > - Flies 20 feet above the floor to use *Hurl Flame* on the cabinet or the carrier, and drops to *Searing Fork* when a character comes within 10 feet.
-> - Turns on the named characters when the exhibit is out of reach, starting with the one closest to the vestry door.
+> - Turns on the named characters when the exhibit is out of reach, taking whichever is nearest and still dividing its attacks.
 >
 > The Imps, if present, turn invisible and sting the exhibit's carrier or the nearest Priest. They flee when the devil is sent back.
 >
