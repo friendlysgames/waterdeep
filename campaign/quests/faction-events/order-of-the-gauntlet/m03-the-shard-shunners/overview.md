@@ -14,7 +14,7 @@
 
 ## Hook
 
-At dusk Savra Belabranta knocks once at the door of Trollskull Manor and waits to be asked in. Someone is robbing the night guards of the Endshift Tavern in the Field Ward, and the Watch will put a dozen Guards in the taproom on the sixth night. Savra wants the reason found and the robberies ended before then, with nobody dead.
+At dusk Savra Belabranta knocks once at the door of Trollskull Manor and waits to be asked in. Someone is robbing the night guards of the Endshift Tavern in the Field Ward, and the Watch will put a dozen Guards in the taproom on the sixth night, so Savra wants the reason found and the robberies ended before then, with nobody dead.
 
 ## Background
 
@@ -24,18 +24,18 @@ Trevar, the Endshift's innkeeper, fired Darrick the next morning for frightening
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Kelso hurts nobody and takes a few coins at a time. He will not stop until something balances, and he wants three things: Trevar's apology to Danika, a payment toward her care and Darrick named to the Watch. He accepts any two.
-> - Trevar is not a villain. He fired Darrick, believed it was enough and is now ashamed of how little he asked.
+> - Kelso hurts nobody and takes a few coins at a time. He will not stop until something balances, and he accepts any two of three terms: Trevar's apology to Danika, a payment toward her care and Darrick named to the Watch.
+> - Trevar is not a villain, and he fired Darrick, believed it was enough and is now ashamed of how little he asked.
 > - The Field Ward watch house plans to fill the Endshift's taproom with Guards on the sixth night. Kelso will not walk into that, and a fight with the Watch would end with dead halflings.
 > - Kelso is not a Splinter agent. He sells what people pay for, and the Splinter is one of his customers. Nobody in this mission learns that or names Manshoon.
 
 ## The Brief
 
-Savra briefs the members at the common room table while the companions wait at the bar. She gives the deadline, hands over a drawn route and says she does not know why a gang would pick one tavern for three weeks. She will not come with the party.
+Savra briefs the members at the common room table while the companions wait at the bar. She gives the deadline, hands over a drawn route and says she does not know why a gang would pick one tavern for three weeks, and she will not come with the party.
 
 ## The Endshift Tavern
 
-Trevar explains the pattern, which is the same route at the same hour every night. The cook Wynne Cobb saw what Darrick did and tells the party the part Trevar never heard.
+Trevar explains the pattern, which is the same route at the same hour every night, and the cook Wynne Cobb tells the party what she saw Darrick do and Trevar never heard.
 
 ## Finding Kelso
 
@@ -43,7 +43,7 @@ Three independent leads reach the dye-worker's yard where Kelso receives visitor
 
 ## Kelso's Yard
 
-Kelso explains the cause without performance and says what balance would take. He names three terms and accepts any two. A threat makes him mildly clear about how many of the lads are in the walls.
+Kelso explains the cause without performance and names three terms, of which he accepts any two. A threat makes him mildly clear about how many of the lads are in the walls.
 
 ## Three Terms
 
@@ -69,7 +69,7 @@ Companions who are not Order of the Gauntlet members gain no Renown, and each bo
 
 ## Aftermath
 
-**Mediation Path Taken** is read by **The Missing Snobeedle** (Doom Raiders), where Kelso greets the party as mediators. **Kelso's Debt** is a one-use favour that **Spined Devils in Twelvedog Court** or **The Shrine on Aveen Street** may call. **Spined Devils in Twelvedog Court** becomes available when an individual Order of the Gauntlet member reaches Renown 8 and 5th level.
+**Mediation Path Taken** is read by **The Missing Snobeedle** (Doom Raiders), where Kelso greets the party as mediators, and **Kelso's Debt** is a one-use favour that **Spined Devils in Twelvedog Court** or **The Shrine on Aveen Street** may call. **Spined Devils in Twelvedog Court** becomes available when an individual Order of the Gauntlet member reaches Renown 8 and 5th level.
 
 ## Involved Characters
 

@@ -15,10 +15,10 @@
 
 At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a plain grey surcoat finds the member at their lodging. He hands a folded note to that member only and waits for no reply. The note is one short paragraph in Savra's left-slanting hand, on paper with the Halls of Justice seal, and it is signed "S.B." The meeting is that same afternoon at the third bell past noon.
 
-- **Several members:** members who cross the threshold together attend together, and each is recorded by name. Each gets their own note.
-- **Companions:** companions who are not Order members get no note. A companion who walks to the Halls with a member waits in the nave.
-- **Away from Waterdeep:** a member who is away finds the acolyte at their first surface lodging on return, and the meeting moves to the third bell past noon on the following day.
-- **Quietly Reassigned:** if the member is marked **Quietly Reassigned**, Brother Hallin Ostrel writes the note in place of Savra and signs it "B.H.O." The meeting and the benefits are the same.
+- **Several members:** members who cross the threshold together attend together, and each is recorded by name and receives their own note.
+- **Companions:** companions who are not Order members get no note, and a companion who walks to the Halls with a member waits in the nave.
+- **Away from Waterdeep:** a member who is away finds the acolyte at their first surface lodging on return. The meeting then moves to the third bell past noon on the following day.
+- **Quietly Reassigned:** if the member is marked **Quietly Reassigned**, Brother Hallin Ostrel writes the note in place of Savra and signs it "B.H.O." The meeting and the benefits stay the same.
 
 > [!readaloud]
 >
@@ -29,7 +29,7 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 > [!gamemaster]**What Is Actually True**
 >
 > - Savra files each rank with the Order's clerk, and Brother Hallin Ostrel enters it on the roll. Marcheon is the first rank that lets a member put the Order's strength to work, and Savra takes it seriously.
-> - Her accompaniment is real. She is a Knight, and the rotation of Knights and Priests who answer to her serve the Halls and the wards. Savra herself is the one who can be spared for the field.
+> - Her accompaniment is real, and she fights as a Knight. The rotation of Knights and Priests who answer to her serve the Halls and the wards, so Savra herself is the one who can be spared for the field.
 > - The armory is a locked room in the east annex, stocked from gifts and from gear the Order's dead no longer need. Brother Osric Wickersham keeps the book and the key.
 > - The priests of the three temples tell what their parishioners volunteer. Tyr's law forbids them to give a name, so every briefing is a pattern.
 > - Nobody in this Event names the Cassalanters, a pact, a devil or the master of the Splinter. The briefings hold no more than the lists below.
@@ -40,11 +40,11 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 >
 > The side door of the east annex opens onto a short stone passage lit by a single lamp, and the air smells of oil and cold iron. Savra waits at the far end beside a heavy locked door. She wears her dark riding coat with the silver pin at the collar, and she nods you in without a smile.
 >
-> > "You've reached Marcheon. I'll tell you plainly what that gives you, and what it asks of you. Ask me anything you like before we start."
+> > "You've reached Marcheon, and I'll tell you plainly what that gives you and what it asks of you. Ask me anything you like before we start."
 
 > [!social]**The Knight of the Gauntlet**
 >
-> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep, a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin at her collar.
+> Savra Belabranta (Lawful Good, Human, she/her) :: the Order's knight in Waterdeep. She is a woman in her late twenties with dark hair worn back, a strong jaw and a silver gauntlet pin at her collar.
 >
 > Savra treats the rank as a working arrangement and goes through it quickly. She states each limit before she describes the benefit it belongs to, and she pauses before every serious answer. She gives a single measured nod to an honest question and swears rarely, in short bursts aimed at wrongdoing.
 >
@@ -61,27 +61,27 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 >
 > Savra touches the locked door, then the window at the end of the passage, then her own coat as she names each one.
 >
-> > "Three things. I'll fight beside your party in one operation each quest, if you ask me. The armory lends you a weapon or armor every tenday. The temples will tell you what they've noticed."
+> > "There are three things, and I'll name them in the order you'll use them. I'll fight beside your party in one operation each quest, if you ask me. The armory lends you gear each tenday, and the temples share what they've noticed."
 
 > [!qna]**Why is it mine and not my companions'?**
 >
-> > "Because you swore the oath and they didn't. They can fight beside me, and they're welcome at the Halls. The armory, the temples and my word answer to you alone."
+> > "Because you swore the oath and they didn't, and the Order writes its ranks against names. They can fight beside me and they're welcome at the Halls. The armory, the temples and my word answer to you alone."
 
 > [!qna]**What if my Renown falls?**
 >
-> > "You keep the rank, because you earned it. The benefits wait until your Renown is back where it was, and I'll tell you when that happens."
+> > "You keep the rank, because you earned it and nobody takes that back. The benefits wait until your Renown is back where it was, and I'll tell you when."
 
 > [!qna]**What do you want in return?**
 >
-> > "Your judgment, and the truth about where we're going. If you lie to me about an operation, I leave it. I won't say that twice."
+> > "I want your judgment, and the truth about where we're going. If you lie to me about an operation, I leave it, and I won't say that twice."
 
 > [!qna]**Would you ever refuse to come?**
 >
-> > "Yes. I won't walk anyone into a fucking slaughter, and I'll say why to your face. If I turn you down, you can change the plan and ask again."
+> > "Yes, because I won't walk anyone into a fucking slaughter, and I'll say why to your face. If I turn you down, you can change the plan and ask again."
 
 > [!gamemaster]**If the Member Is Quietly Reassigned**
 >
-> Savra says one extra sentence before she goes through the benefits: "Ask me for a fight in writing through Brother Haldric, and I'll answer within a tenday." She says nothing about the reason. If the member asks why, she says "Because you chose it, and I'm not angry about that." The armory and the temple briefings are unchanged, and she offers the member no follow-up after a briefing.
+> Savra says one extra sentence before she goes through the benefits: "Ask me for a fight in writing through Brother Haldric, and I'll answer within a tenday." She says nothing about the reason unless the member asks why, and then she says "Because you chose it, and I'm not angry about that." The armory and the temple briefings are unchanged, and she offers the member no follow-up after a briefing.
 
 ### Savra at Your Side
 
@@ -93,19 +93,19 @@ At noon on the day after the member reaches Renown 3, a **Priest Acolyte** in a 
 
 > [!exploration]**Asking for Savra**
 >
-> - **Contact:** the member leaves word for "Savra Belabranta" with Brother Haldric Wence, the door-warden of the Halls of Justice, or tells her directly at the annex. The word names the place, the enemy and the hour of the operation.
-> - **Notice:** the hour named must fall at least 24 hours after the request. Savra knocks once at Trollskull Manor at dusk that day if the word reached Brother Haldric before noon, and at dusk the next day if it did not. She says yes or no at the door.
-> - **The operation:** a fight at a named place against a named enemy, on the surface within a day's travel of Waterdeep. Savra goes in her own coat and pin. She does not wear a disguise or lie to a magistrate, and she cannot reach Undermountain.
+> - **Contact:** the member leaves word for "Savra Belabranta" with Brother Haldric Wence, the door-warden of the Halls of Justice. The member can also tell her directly at the annex, and the word names the place, the enemy and the hour of the operation.
+> - **Notice:** the hour named must fall at least 24 hours after the request. Savra knocks once at Trollskull Manor at dusk that day if the word reached Brother Haldric before noon. Otherwise she knocks at dusk the next day, and she says yes or no at the door.
+> - **The operation:** a fight at a named place against a named enemy, on the surface within a day's travel of Waterdeep. Savra goes in her own coat and pin, so she does not wear a disguise or lie to a magistrate, and she cannot reach Undermountain.
 > - **Refused operations:** she refuses an operation when the member cannot name the place or the enemy, or when it needs a disguise, a lie or an attack on the Watch, a Lord or a prisoner. She also refuses when the opposition the member names outnumbers the party and Savra together by more than two to one. She gives the reason, and a refusal spends nothing.
 > - **Limit:** one operation in each quest, counted once for the whole party, because Savra is one knight. If two Marcheon members ask, the first to ask spends it. In **Spined Devils in Twelvedog Court** and **The Writ and the Weight** she is present by design, and those fights do not spend it.
 > - **Who else:** companions fight beside her but cannot ask for her. Savra takes her orders from the member who asked.
-> - **Loss rule:** a member who lies to Savra about the opposition, or orders her to strike a surrendered creature, finds that she leaves at once. She does not return in that quest.
-> - **Quietly Reassigned:** Savra does not offer. The member asks in writing through Brother Haldric, and she answers by a note signed "S.B." within a tenday. The operation takes place after the answer.
+> - **Loss rule:** a member who lies to Savra about the opposition, or orders her to strike a surrendered creature, finds that she leaves at once and does not return in that quest.
+> - **Quietly Reassigned:** Savra does not offer. The member asks in writing through Brother Haldric, and she answers by a note signed "S.B." within a tenday, after which the operation can take place.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and Savra's accompaniment is suspended until the Renown is restored.
 
 > [!hazard]**Savra as a Combat Ally**
 >
-> Savra uses the **Knight** stat block. She counts as an ally only while she fights, and she withdraws when she is reduced to 20 Hit Points. Nobody in the encounter treats her as a PC.
+> Savra uses the **Knight** stat block. She counts as an ally only while she fights, and she withdraws when she is reduced to 20 Hit Points. She is never counted as a fourth or fifth PC in the roster tables.
 >
 > #### Savra's Tactics
 >
@@ -130,11 +130,11 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!qna]**What counts as an operation?**
 >
-> > "A fight where the enemy is armed, the place is known and I can stand in the open. A patrol or a public inquiry isn't one. Tell me the shape of it before you ask."
+> > "It's a fight where the enemy is armed and the place is known. A patrol or a public inquiry isn't one, so tell me the shape of it first."
 
 > [!qna]**Will you take orders from me?**
 >
-> > "On the field, yes. You tell me where to stand and who to hit. I'll tell you if I think you're wrong, and then I'll do it anyway."
+> > "On the field, yes, so you tell me where to stand and who to hit. I'll tell you if I think you're wrong, and then I'll do it anyway."
 
 ### The Armory
 
@@ -142,7 +142,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 >
 > Savra knocks twice on the heavy door, and a bolt slides back from the inside. A stooped man in a lay brother's grey tunic looks out at you over the rim of a lantern. Behind him, racks of swords, spears and mail stand in rows along the walls, and each one carries a numbered tag.
 >
-> > "Brother Osric Wickersham," he says. "You'll want something to carry. Tell me what, and I'll write it in the book while you watch."
+> > "I'm Brother Osric Wickersham, and you'll want something to carry," he says. "Tell me what you need, and I'll write it in the book while you watch."
 
 > [!social]**The Keeper of the Armory**
 >
@@ -160,25 +160,25 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!qna]**What can I borrow?**
 >
-> > "One weapon, one shield or one suit of armor each tenday. I have swords, axes, spears, bows and mail. I keep nothing magical, and I don't stock plate for a first loan."
+> > "One weapon, one shield or one suit of armor each tenday. I have swords, axes, spears, bows and mail, but nothing magical, and no plate for a first loan."
 
 > [!qna]**What if I break it?**
 >
-> > "Bring it back dented and I'll mend it myself. Bring it back ruined and you pay its listed price, which I'll write down. I won't charge you for honest wear."
+> > "Bring it back dented and I'll mend it myself, and I won't charge you for honest wear. Bring it back ruined and you pay its listed price, which I'll write down."
 
 > [!qna]**Can my friend borrow too?**
 >
-> > "No, the loan is yours. If you hand it on, I take it back at your next visit, and I'll know. Your friends can ask Savra about the oath."
+> > "No, the loan is yours alone, and if you hand it on, I take it back at your next visit. I'll know, and your friends can ask Savra about the oath."
 
 > [!exploration]**Borrowing Gear**
 >
-> - **Contact:** the member gives their name to Brother Osric at the armory door in the east annex, which is open from dawn to dusk. The door-warden, Brother Haldric Wence, sends anyone who asks.
+> - **Contact:** the member gives their name to Brother Osric at the armory door in the east annex, which is open from dawn to dusk. Brother Haldric Wence, the door-warden, sends anyone who asks.
 > - **The loan:** one mundane weapon, one shield or one suit of armor each tenday, taken from the 2024 equipment list. The loan is free, and the item stays with the member until the next visit.
-> - **Notice and fitting:** see the table below. A fitting takes the time shown, and the member collects the item when it is done.
-> - **Returns:** the member brings the previous item back, serviceable, at the next visit. A ruined item is replaced at its listed price. No new loan is made while an old one is out.
+> - **Notice and fitting:** the table below gives the notice and the fitting time for each category, and the member collects the item when the fitting is done.
+> - **Returns:** the member brings the previous item back, serviceable, at the next visit, and a ruined item is replaced at its listed price. No new loan is made while an old one is out.
 > - **Limit:** one item each tenday, counted from the day of that member's last loan. A weapon, a shield and a suit of armor all count as the same one item.
 > - **Who else:** companions cannot borrow. A member who lends an item on to a non-member has it taken back at the next visit, and the loan for that tenday is spent.
-> - **Quietly Reassigned:** no change. The armory is not one of the extras Savra offers.
+> - **Quietly Reassigned:** nothing changes here, because the armory is not one of the extras Savra offers.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and new loans wait until the Renown is restored. An item already out stays with the member.
 
 | Category | Notice | Fitting | Note |
@@ -194,18 +194,18 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 >
 > Savra takes a slip of paper from inside her coat and holds it where you can read the three lines written on it. She uses the same left-slanting hand as the note, and the ink is still bright.
 >
-> > "Three temples will talk to you. Tell the door-warden that Savra Belabranta sent you, and a priest will come. They give patterns, not names, and they won't be pushed."
+> > "Three temples will talk to you, so tell the door-warden that Savra Belabranta sent you and a priest will come. They give patterns, not names, and they won't be pushed."
 
 > [!exploration]**Asking a Temple**
 >
 > - **Contact:** the member names Savra to the door-warden of one of the three temples. At the Halls of Justice the door-warden is Brother Haldric Wence. The others are the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward.
-> - **Notice:** none. A priest sees the member the same day in a side room and speaks for about a quarter of an hour.
+> - **Notice:** no notice is needed, and a priest sees the member the same day in a side room and speaks for about a quarter of an hour.
 > - **The briefing:** the priest gives the next pattern on that temple's list, from **The Three Lists** below. Each pattern is a handful of facts about a ward and a kind of event, with no names in it.
 > - **Limit:** one briefing each tenday, from one temple, counted from the day of that member's last briefing. After the fourth pattern, a temple repeats the list and says that it has nothing new.
 > - **Savra's follow-up:** a member who walks to the Halls within a day of a briefing can ask Savra for the next pattern on the same list. She gives it once each tenday, and it does not count as the tenday's briefing.
 > - **Names:** a priest never gives a name or opens a sealed record, because Tyr's law forbids it. A member who presses, bribes or threatens a priest loses briefings for a tenday.
 > - **Who else:** the member only. The member may repeat what they heard to companions, and the priests will not brief a companion who asks.
-> - **Quietly Reassigned:** the one briefing each tenday stays. Savra gives no follow-up.
+> - **Quietly Reassigned:** the one briefing each tenday stays, but Savra gives that member no follow-up.
 > - **Renown loss:** a member whose Renown falls below 3 keeps the rank, and briefings wait until the Renown is restored.
 
 > [!gamemaster]**The Three Lists**
@@ -235,7 +235,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 > [!qna]**Why won't they name anyone?**
 >
-> > "Because a priest who names a parishioner has broken the trust that brings the rest of them in. Tyr's law is plain about it. A pattern is enough to start with."
+> > "Because a priest who names a parishioner has broken the trust that brings the rest of them in. Tyr's law is plain about it, and a pattern is enough to start with."
 
 > [!qna]**Which temple should I ask first?**
 >
@@ -243,7 +243,7 @@ A Marcheon operation counts as Savra fighting beside the member for **Savra's Pa
 
 ### Renown Opportunities
 
-The rank event awards no Renown. Each Marcheon member earns further Renown from missions and from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide, at their own pace.
+The rank event awards no Renown. Each Marcheon member earns further Renown from missions, and from the ordinary rewards listed on the Order of the Gauntlet page of the Factions Guide.
 
 ### Aftermath
 
@@ -257,17 +257,19 @@ The Event concludes when the member has heard all three benefits and has left th
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Marcheon Reached** — mark with the recipient's name when Savra names the rank in the east annex; read by **Whitehawk**, which checks it first, and by **Savra's Past**, where a Marcheon operation counts as Savra fighting beside the member. Track separately for each member the date of the last armory loan and the item out, the date of the last temple briefing and the patterns heard on each list. Track once for the party whether Savra's operation has been spent in the current quest.
+> - **Marcheon Reached** — mark with the recipient's name when Savra names the rank in the east annex; read by **Whitehawk**, which checks it first. Also read by **Savra's Past**, where a Marcheon operation counts as Savra fighting beside the member.
 >
-> This Event also reads **Order of the Gauntlet Joined**, which names the members it is asked of, and **Quietly Reassigned**, which **The Tithe** marks.
+> Track separately for each member the date of the last armory loan and the item out. Also track the date of the last temple briefing and the patterns heard on each list. Track once for the party whether Savra's operation has been spent in the current quest.
+>
+> This Event also reads **Order of the Gauntlet Joined**, which names the members it is asked of. It reads **Quietly Reassigned** as well, which **The Tithe** marks.
 
 > [!gamemaster]**Next Steps**
 >
-> All three benefits are active for this member from the next morning. **The Black Viper Investigation** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level, and Savra briefs it at the manor door. **Whitehawk** occurs when this member reaches Renown 10. This Event awards no Milestone Points.
+> All three benefits are active for this member from the next morning. **The Black Viper Investigation** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level. Savra briefs it at the manor door. **Whitehawk** occurs when this member reaches Renown 10. This Event awards no Milestone Points.
 
 ## Overview
 
-Savra Belabranta names an Order of the Gauntlet member a Marcheon and explains the rank's three benefits: her company in a fight, the Order's armory and the temple briefings.
+Savra Belabranta names an Order of the Gauntlet member a Marcheon. She explains the rank's three benefits, which are her company in a fight, the Order's armory and the temple briefings.
 
 ## Summary
 
