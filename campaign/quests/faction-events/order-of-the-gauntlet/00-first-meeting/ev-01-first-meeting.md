@@ -21,7 +21,7 @@
 >
 > - Savra chose these candidates herself, from what Renaer Neverember and the rescue of Floon told her. The Order has no one else to send.
 > - The family she will not name is the Cassalanters. She suspects them, she cannot prove anything, and she does not know what they worship, and she never names them in this Event.
-> - The Howling Hatred was real, and Savra spent three years in it. She left about three years ago, when the Watch released two of its members, and the Order took her in afterward. What she did inside is hers, and she says so.
+> - The Howling Hatred was real, and Savra spent three years in it. She left around the time the Watch released two of its members, and the Order took her in afterward. What she did inside is hers, and she says so.
 > - The Waterdeep chapter is Savra and a clerk's office in the east annex of the Halls of Justice. A rotation of about a dozen Knights and Priests answers to her. The priests of the Triad help without being members. Savra is not the only Order member in the city, and she does not say she is.
 > - The Halls of Justice, the temple of Tyr, stands in the Castle Ward west of the Market. The Order's clerk's office keeps its seal there.
 > - The oath asks three questions. A candidate who says plainly that they do not mean to oppose evil is not sworn, and the Event decides nothing else about an honest answer.
@@ -189,7 +189,7 @@ If a candidate asks for time, read or paraphrase the following:
 
 > [!gamemaster]**Chevall Benefits**
 >
-> Each member who swears gains the following, and nothing goes to a decliner or a companion. The benefits belong to the member and are tracked for each member separately. The temples are the Halls of Justice, the temple of Tyr in the Castle Ward, the Temple of Helm in the Castle Ward, and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward. The door-warden at the Halls of Justice is Brother Haldric Wence, a lay brother who holds messages "for Savra Belabranta" and keeps the member's name on a list.
+> Each member who swears gains the following, and nothing goes to a decliner or a companion. The benefits belong to the member and are tracked for each member separately. The three temples are the Halls of Justice, which is the temple of Tyr, the Temple of Helm in the Castle Ward, and the Chapel of the Steadfast Shield, a Torm chapel in the Dock Ward. The door-warden at the Halls of Justice is Brother Haldric Wence, a lay brother who holds messages "for Savra Belabranta" and keeps the member's name on a list.
 >
 > - **Renown 1:** the member starts as a Chevall, and Savra greets the member by name from then on.
 > - **Healing and a bed:** see **The Temple Healing** below.
@@ -203,7 +203,7 @@ If a candidate asks for time, read or paraphrase the following:
 > Any temple of Tyr, Helm or Torm in Waterdeep treats a member as a friend of the Order. A priest casts *Cure Wounds* on the member and gives the member a bed for the night.
 >
 > - **Contact:** the member gives their name at the front desk of the temple and says that Savra Belabranta vouches for them. The door-warden is the contact at the Halls of Justice.
-> - **Limit:** one casting of *Cure Wounds* each day at each of the four temples. A member can have up to four castings in one day by walking between them. The bed is for one night at a time, in a shared dormitory, for up to three nights in a row.
+> - **Limit:** one casting of *Cure Wounds* each day at each of the three temples. A member can have up to three castings in one day by walking between them. The bed is for one night at a time, in a shared dormitory, for up to three nights in a row.
 > - **Cost:** the healing and the bed are free. A priest casts nothing stronger without payment, and other services cost the usual temple rate.
 > - **Loss rule:** a member who brings a fight into a temple, or shows contempt for the faith, is turned away there for a tenday.
 
@@ -333,7 +333,7 @@ The meeting ends when the last candidate has answered and Savra has left, and no
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Order of the Gauntlet Joined** — mark for each character who swears the oath at the Halls of Justice, whether the same day or later, and record the character's name. The member is at Renown 1 with the Chevall rank. Read by every Order of the Gauntlet faction event from **Breaking Up the Brawl** onward through its membership gate sentence. Also read by the **Order of the Gauntlet** Factions Guide page and by **Contact Severed** in the Bregan D'aerthe set. It is read as well by **The Factions Come Calling** and **Trollskull Alley**, both unconverted, and the first still writes a True or False heading. Companions and characters who joined another faction are not enrolled by this outcome.
+> - **Order of the Gauntlet Joined** — mark for each character who swears the oath at the Halls of Justice, whether the same day or later, and record the character's name. The member is at Renown 1 with the Chevall rank. Read by every Order of the Gauntlet faction event from **Breaking Up the Brawl** onward through its membership gate sentence. Also read by the **Order of the Gauntlet** Factions Guide page. It is read as well by **The Factions Come Calling** and **Trollskull Alley**, both unconverted, and the first still writes a True or False heading. Companions and characters who joined another faction are not enrolled by this outcome.
 
 > [!gamemaster]**Next Steps**
 >

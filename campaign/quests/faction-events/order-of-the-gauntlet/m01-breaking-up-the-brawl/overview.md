@@ -24,14 +24,14 @@ Savra learned of it from a cook at a Field Ward soup house, who overheard the pl
 
 > [!gamemaster]**What Is Actually True**
 >
-> - The intermediary has grey at the temples, a limp in his left leg, ink on his right fingers and a mended brown coat. He has left the ward, and his trail ends at a Trade Ward stationer.
+> - The intermediary has grey at the temples, a limp in his left leg, ink on his right fingers and a mended brown coat. He has left the ward, and his trail ends at a Trades Ward stationer.
 > - Pell is no fighter, and his two companions, Marn Ottery and Ketta Rowe, are there to stop him doing something expensive.
 > - Pell owes the party a favor only if he leaves the square unhurt and with his face, and he will not say so.
 > - The Shard Shunners have refused the Splinter's money, and Pell knows it.
 
 ## The Brief
 
-Savra briefs the members at the manor door and answers five questions about the square. She asks for it to be settled by one o'clock and for a report at dusk, and she says she will not come herself.
+Savra briefs the members at the manor door and answers five questions about the square. She asks for it to be settled by one o'clock and for a report at dusk, and she says she will not come herself. A member marked **Quietly Reassigned** gets the Brief by note from a Priest Acolyte instead, and the debrief moves to the east annex of the Halls of Justice.
 
 ## The Field Ward at Noon
 
@@ -59,7 +59,7 @@ Each participating Order of the Gauntlet member gains 2 base Renown for reportin
 
 ## Aftermath
 
-**Splinter Intel Reported** and **Pell's Debt Held** are read by **Faction Outposts** (unconverted), and **Pell's Debt Held** is also read by **The Shard Shunners**. **The Black Viper Investigation** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level.
+**Splinter Intel Reported** and **Pell's Debt Held** are read by **Faction Outposts** (unconverted), and **Pell's Debt Held** is also read by **The Shard Shunners**. **The Black Viper Investigation** becomes available when an individual Order of the Gauntlet member reaches Renown 3 and 3rd level. This mission also reads **Quietly Reassigned**, which **The Tithe** marks.
 
 ## Involved Characters
 

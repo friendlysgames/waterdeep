@@ -198,7 +198,7 @@ The Event ends when Gysheer is held or gone, and the members follow Savra to the
 
 > [!gamemaster]**Next Steps**
 >
-> Continue with **What Gysheer Carried**, where only Order of the Gauntlet members attend Savra's debrief. **Spined Devils in Twelvedog Court** awards no Milestone Points.
+> Continue with **What Gysheer Carried**, where only Order of the Gauntlet members attend Savra's debrief. This faction mission awards no Milestone Points.
 
 ## Overview
 

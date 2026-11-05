@@ -18,9 +18,9 @@ At dusk Savra Belabranta knocks once at the door of Trollskull Manor and waits t
 
 ## Background
 
-Seven weeks ago a night guard named Darrick Holstan found a halfling girl cutting through the back lane of the Endshift Tavern. He took her for a thief, put a knife to her throat and told her he would cut her if he saw her near the tavern again. The girl was Danika Fiddlewick, fourteen years old, and her brother Kelso leads the Shard Shunners, a gang of halfling wererats in the Field Ward.
+Fifty days ago a night guard named Darrick Holstan found a halfling girl cutting through the back lane of the Endshift Tavern. He took her for a thief, put a knife to her throat and told her he would cut her if he saw her near the tavern again. The girl was Danika Fiddlewick, fourteen years old, and her brother Kelso leads the Shard Shunners, a gang of halfling wererats in the Field Ward.
 
-Trevar, the Endshift's innkeeper, fired Darrick the next morning for frightening a halfling child. He never learned whose child she was, and nobody carried word to her family. Kelso waited four weeks for someone at the Endshift to say anything. Nobody did, so three weeks ago the Shunners began lifting purses from the tavern's night guards, and the robberies have been nightly for the last tenday.
+Trevar, the Endshift's innkeeper, fired Darrick the next morning for frightening a halfling child. He never learned whose child she was, and nobody carried word to her family. Kelso waited thirty days for someone at the Endshift to say anything. Nobody did, so twenty days ago the Shunners began lifting purses from the tavern's night guards, and the robberies have been nightly for the last tenday.
 
 > [!gamemaster]**What Is Actually True**
 >
@@ -31,7 +31,7 @@ Trevar, the Endshift's innkeeper, fired Darrick the next morning for frightening
 
 ## The Brief
 
-Savra briefs the members at the common room table while the companions wait at the bar. She gives the deadline, hands over a drawn route and says she does not know why a gang would pick one tavern for three weeks, and she will not come with the party.
+Savra briefs the members at the common room table while the companions wait at the bar. She gives the deadline, hands over a drawn route and says she does not know why a gang would pick one tavern for twenty days, and she will not come with the party. A member marked **Quietly Reassigned** gets the Brief by note from a Priest Acolyte instead, and the debrief moves to the east annex of the Halls of Justice.
 
 ## The Endshift Tavern
 
@@ -39,7 +39,7 @@ Trevar explains the pattern, which is the same route at the same hour every nigh
 
 ## Finding Kelso
 
-Three independent leads reach the dye-worker's yard where Kelso receives visitors: the night guards' account, a night watch on the route and the yard itself. A member whose Pell's Debt is held has a fourth lead from Pell at the Rusted Anchor.
+Three independent leads reach the dye-worker's yard where Kelso receives visitors: the night guards' account, a night watch on the route and the yard itself. Pell at the Rusted Anchor gives a fourth lead, free if **Pell's Debt Held** is marked and for 100 gp otherwise.
 
 ## Kelso's Yard
 
@@ -69,7 +69,7 @@ Companions who are not Order of the Gauntlet members gain no Renown, and each bo
 
 ## Aftermath
 
-**Mediation Path Taken** is read by **The Missing Snobeedle** (Doom Raiders), where Kelso greets the party as mediators, and **Kelso's Debt** is a one-use favour that **Spined Devils in Twelvedog Court** or **The Shrine on Aveen Street** may call. **Spined Devils in Twelvedog Court** becomes available when an individual Order of the Gauntlet member reaches Renown 8 and 5th level.
+**Mediation Path Taken** is read by **The Missing Snobeedle** (Doom Raiders), where Kelso greets the party as mediators, and **Kelso's Debt** is a one-use favour that **Spined Devils in Twelvedog Court** or **The Shrine on Aveen Street** may call. **Spined Devils in Twelvedog Court** becomes available when an individual Order of the Gauntlet member reaches Renown 8 and 5th level. This mission also reads **Quietly Reassigned**, which **The Tithe** marks.
 
 ## Involved Characters
 
@@ -80,7 +80,7 @@ Companions who are not Order of the Gauntlet members gain no Renown, and each bo
 - **Trevar** (Independent): the Endshift's innkeeper, who fired the guard and can make amends.
 - **Wynne Cobb** (Independent): the Endshift's cook, who saw what Darrick did.
 - **Darrick Holstan** (Independent): the dismissed guard, who is not present and is named to the Watch.
-- **Pell** (Xanathar's Guild): a dealer who can point the way to the yard if his debt is held.
+- **Pell** (Xanathar's Guild): a dealer who points the way to the yard, free if his debt is held and for 100 gp otherwise.
 
 ## Dangers & Enemies
 
