@@ -5,6 +5,7 @@
 > This Investigation and Social Event begins when Savra Belabranta knocks at Trollskull Manor at dawn. It ends at the Steaming Anchor tea house at highsun on the next day. In this Event, the party can:
 >
 > - Take Savra's brief and hear why she thinks the Wazoo's story about the Black Viper is a plant.
+> - Take the brief by note from a Priest Acolyte instead, if a member is marked **Quietly Reassigned**.
 > - Question Gaxly Rudderbust, the publisher, through two layers of reluctance.
 > - Search the Hall of Records with Ilmeth Waevlur and learn that a birth entry is forged.
 > - Follow three independent leads to the red candle at Barrow's Wick, the contact the planter left behind.
@@ -25,13 +26,13 @@
 
 ### The Brief
 
-Savra knocks once at dawn and waits on the step until a member asks her in. She asks the companions to give the members the taproom corner, and she stands for the whole brief with the broadsheet folded in one hand.
+Savra knocks once at dawn and waits on the step until a member asks her in. She asks the companions to give the members the taproom corner, and she stands for the whole brief with the broadsheet folded in one hand. If a member is marked **Quietly Reassigned**, run **When the Brief Comes by Note** instead.
 
 > [!readaloud]
 >
 > The knock comes once, early, while the taproom is still cold and the lane outside is grey with morning. Savra Belabranta waits on the step in her dark riding coat, with a silver gauntlet pin on her collar and a folded broadsheet in one hand. She comes in when one of you asks her, lays the broadsheet on the nearest table and turns to the members.
 >
-> > "I'll tell you plainly what this is, because you should know before you start. The Wazoo says the Black Viper is back, and that she is the secret twin of Lady Ammalia Cassalanter. I don't believe a word of it, and I want to know who does. I'm at the Halls of Justice all day, so go to the Wazoo and find out where Gaxly Rudderbust got his story. I'll come here at dusk, three days from now, and you'll tell me what you have."
+> > "I'll tell you plainly what this is, because you should know before you start. The Wazoo says the Black Viper is back, and that she is the secret twin of Lady Ammalia Cassalanter. I don't believe a word of it, and I want to know who does. I'm at the Halls of Justice all day, so go to the Wazoo and find out where Gaxly Rudderbust got his story. I'll come here at dusk on the third day, counting today as the first, and you'll tell me what you have."
 
 > [!social]**The Knight at the Door**
 >
@@ -82,7 +83,19 @@ If **Wazoo Exposé Published** is marked in **The Wazoo Affair**, Savra adds the
 
 > [!gamemaster]**The Deadline**
 >
-> Savra returns at dusk on the third day after she knocks, which is the evening after the Steaming Anchor. A member who has done nothing by then reports nothing, and she says so flatly and sends no one after them. The day table in **The Imp at Dawn** fixes the rest of the clock.
+> Savra returns at dusk on Day 3, counting the day she knocks as Day 1, which is the evening after the Steaming Anchor meeting. A member who has done nothing by then reports nothing, and she says so flatly and sends no one after them. The day table in **The Imp at Dawn** fixes the rest of the clock.
+
+### When the Brief Comes by Note
+
+A member marked **Quietly Reassigned** receives the Brief from a Priest Acolyte in a plain grey surcoat. The acolyte arrives at dawn and does not wait for a reply, and Savra does not come to the door.
+
+> [!readaloud]
+>
+> The acolyte hands you a folded paper sealed with the Halls of Justice wax and goes back down Trollskull Alley. A copy of the Wazoo is pressed inside it, and the note holds one short paragraph in a neat, upright hand.
+>
+> > The Wazoo says the Black Viper has returned and is the secret twin of Lady Ammalia Cassalanter. Savra does not believe it. Find out where Gaxly Rudderbust got his story, and report to the east annex of the Halls of Justice at dusk on the third day, counting today as the first. B.H.O.
+
+The note answers none of the questions above, and the rest of the Event runs as written. The member reports at the east annex, as **The Imp at Dawn** describes.
 
 ### The Waterdeep Wazoo
 
@@ -145,7 +158,7 @@ The Hall of Records is open from 09:00 to 17:00, and Ilmeth Waevlur sits the Sea
 >
 > The Hall of Records is a long room of shelves and writing desks, with petitioners queued at a counter and clerks passing between them with armfuls of dockets. The air smells of ink and damp wool, and a white-haired man in grey clerk's sleeves squints at a ledger through spectacles beside the Sea Ward shelves. He sets down his pen as you approach and looks up with polite interest.
 >
-> > "You look like people with a question. I do hope it's a good one, because I've had nothing but wills this week."
+> > "You look like people with a question. I do hope it's a good one, because I've had nothing but wills this tenday."
 
 > [!social]**The Retired Clerk**
 >
@@ -306,7 +319,7 @@ The Event ends when the party leaves the tea house, whatever it did there, and t
 
 > [!gamemaster]**Event Outcomes**
 >
-> This Event marks no outcomes, and nothing is awarded here. **The Imp at Dawn** marks **Planted Story Exposed**, **Forged Record Secured** and **Imp Captured**. This Event reads **Black Viper Source Noted**, **Wazoo Exposé Published** and **Wazoo Delivery Witnessed** from **The Wazoo Affair**.
+> This Event marks no outcomes, and nothing is awarded here. **The Imp at Dawn** marks **Planted Story Exposed**, **Forged Record Secured** and **Imp Captured**. This Event reads **Black Viper Source Noted**, **Wazoo Exposé Published** and **Wazoo Delivery Witnessed** from **The Wazoo Affair**. It also reads **Quietly Reassigned**, which **The Tithe** marks, to decide how the Brief arrives.
 
 > [!gamemaster]**Next Steps**
 >

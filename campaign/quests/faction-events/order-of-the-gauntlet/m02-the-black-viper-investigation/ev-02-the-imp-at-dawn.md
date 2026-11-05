@@ -10,6 +10,7 @@
 > - Catch the imp and question it, or let it fly.
 > - Finish any open lead from **The Black Viper Investigation** before dusk on the third day.
 > - Report to Savra and hear the question she keeps.
+> - Report at the east annex of the Halls of Justice instead of the manor, if a member is marked **Quietly Reassigned**.
 >
 > Only Order of the Gauntlet members attend Savra's debrief, and their companions help with everything else in the Event.
 
@@ -25,9 +26,9 @@
 
 > [!gamemaster]**The Three Days**
 >
-> - **Day 1, dawn:** Savra knocks. The party questions Gaxly, visits the Hall of Records and leaves a red candle at Barrow's Wick. Night 1: the raven roosts on the chimney if the watcher is **Wary** or **Hunting**.
+> - **Day 1, dawn:** Savra knocks. The party questions Gaxly, visits the Hall of Records and leaves a red candle at Barrow's Wick. Night 1: the raven roosts on the chimney in every case, because the watcher has not yet been set.
 > - **Day 2, morning:** The card from Barrow's Wick arrives. At highsun the party meets the secretary at the Steaming Anchor.
-> - **Day 2, afternoon:** A hired coach passes Trollskull Alley. Night 2: the raven roosts in every case.
+> - **Day 2, afternoon:** A hired coach passes Trollskull Alley. Night 2: the raven roosts in every case, and the watcher state sets how ready it is.
 > - **Day 3, dawn:** The raven leaves the chimney. This is the party's last chance to take it.
 > - **Day 3, dusk:** Savra knocks and takes the debrief, whatever the party has done. Anything not finished by then is not reported.
 
@@ -41,11 +42,11 @@ A character who watches the coach and makes a successful **DC 12 Wisdom (Percept
 
 > [!gamemaster]**How Watchful the Watcher Is**
 >
-> What the party did with the secretary at the Steaming Anchor sets the state. A party that never met her counts as **Wary**.
+> What the party did with the secretary at the Steaming Anchor sets the state. A party that never met her counts as **Wary**. The raven roosts on Night 1 in every state, and a character who tries then uses **DC 14**. The state sets Night 2 and the dawn of Day 3 only.
 >
-> - **Calm** (played along): The raven comes on Night 2 only, and a character takes it with a **DC 14** check.
-> - **Wary** (showed the leaf, walked away, or never met her): The raven roosts on both nights, and the check is **DC 16**.
-> - **Hunting** (held her): The raven roosts on both nights and flies at the first sound on the roof, and the check is **DC 18**.
+> - **Calm** (played along): On Night 2 and at Day 3 dawn the raven sits loose on the chimney, and the check is **DC 14**.
+> - **Wary** (showed the leaf, walked away, or never met her): On Night 2 and at Day 3 dawn the raven sits ready to fly, and the check is **DC 16**.
+> - **Hunting** (held her): On Night 2 and at Day 3 dawn the raven flies at the first sound on the roof, and the check is **DC 18**.
 
 ### The Raven
 
@@ -67,7 +68,7 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 
 > [!exploration]**Lead Three: Detect Evil and Good**
 >
-> A character who casts *Detect Evil and Good* within 30 feet of the chimney senses a Fiend with no check. A priest of Tyr from the Halls of Justice will cast it for a member who asks at the door-warden's desk by noon of the same day.
+> A party cleric's own casting of *Detect Evil and Good* within 30 feet of the chimney senses a Fiend with no check. A priest of Tyr at the Halls of Justice will cast it for a 25 gp donation, if a character asks at the door-warden's desk by noon of the same day.
 
 ### The Night Clock
 
@@ -133,6 +134,8 @@ Three leads each show that the raven is not a raven, and any one is enough. A fa
 ### Renown Opportunities
 
 Savra knocks at dusk on the third day and meets the members in the taproom corner while the companions go to the bar. She asks for the account in the order it happened.
+
+A member marked **Quietly Reassigned** reports to Savra at the east annex of the Halls of Justice at dusk instead. She does not come to the manor for that member, and she reads the same branches below.
 
 > [!readaloud]
 >
@@ -203,8 +206,10 @@ Savra's report ends the mission, and the Event records what the party found beca
 > [!gamemaster]**Event Outcomes**
 >
 > - **Planted Story Exposed** — mark when the members report the story as false with at least one lead; read by **Spined Devils in Twelvedog Court**, where the handlers' lookouts are fewer.
-> - **Forged Record Secured** — mark when a member gives Savra the forged leaf, or the secretary's alias with the candle drop; read by **Cassalanter Villa** (unconverted, if it has not run).
+> - **Forged Record Secured** — mark when a member gives Savra the forged leaf, or the secretary's alias with the candle drop; read by **Cassalanter Villa** (unconverted, if it has not run), and by **Vindicator**, where it serves as the exhibit for an inquiry into Brisenne.
 > - **Imp Captured** — mark when a member hands the live imp to Savra; read by **Spined Devils in Twelvedog Court** (Savra's debrief), the Whitehawk rank event and **Cassalanter Villa** (unconverted, if it has not run).
+>
+> This Event also reads **Quietly Reassigned**, which **The Tithe** marks, to decide where the debrief is held.
 
 > [!gamemaster]**Next Steps**
 >

@@ -5,6 +5,7 @@
 > This Social and Combat Event begins when Savra Belabranta briefs an Order of the Gauntlet member at Trollskull Manor. It ends when she hears the report at the same door that dusk. In this Event, the party can:
 >
 > - Take Savra's brief and learn that four hired men mean to corner a Xanathar's Guild dealer in Mudlark Square at noon.
+> - Take the brief by note from a Priest Acolyte instead, if a member is marked **Quietly Reassigned**.
 > - Read the crowd of fifteen locals and use its mood to settle the standoff.
 > - Send the hired men away with three Intimidation successes, give Pell a graceful exit, or shame the hands before the crowd.
 > - Fight the four hired men if the standoff fails, and knock them out instead of killing them.
@@ -20,11 +21,11 @@
 > - The four hands are Harlan Crake, Dov Marl, Sef Bannon and Kirrel Stoat. They know they were paid and do not know by whom.
 > - Pell sells spirits and stolen goods for the Guild. He is no fighter, and his companions Marn Ottery and Ketta Rowe are there to stop him doing something expensive.
 > - Nobody in this Event names Manshoon, so Savra says "the Splinter" and "the other cell" while Pell says "the Zhents".
-> - The intermediary cannot be found today. The trail ends at a Trade Ward stationer, and nothing in this mission leads past it.
+> - The intermediary cannot be found today. The trail ends at a Trades Ward stationer, and nothing in this mission leads past it.
 
 ### The Brief
 
-Savra comes to Trollskull Manor at the third bell on the morning after a member reaches Renown 1 and 2nd level. She knocks once and waits to be asked in, as **Savra at the Door** describes in the **Order of the Gauntlet First Meeting**. She briefs members only, and companions wait in the common room.
+Savra comes to Trollskull Manor at the third bell on the morning after a member reaches Renown 1 and 2nd level. She knocks once and waits to be asked in, as **Savra at the Door** describes in the **Order of the Gauntlet First Meeting**. She briefs members only, and companions wait in the common room. If a member is marked **Quietly Reassigned**, run **When the Brief Comes by Note** instead.
 
 > [!readaloud]
 >
@@ -70,6 +71,18 @@ Savra comes to Trollskull Manor at the third bell on the morning after a member 
 > > "The square settled by one o'clock, and every member back at this door by dusk. If you learn anything about whoever hired those men, a face or a coat or a name overheard, bring it to me and it goes into the Splinter file."
 
 When the members agree, Savra goes down the step. A member who refuses the brief is not penalized, and Savra does not raise the matter again unless asked. Her deadline is dusk, and she knocks at that hour whether or not the party has done anything.
+
+### When the Brief Comes by Note
+
+A member marked **Quietly Reassigned** receives the Brief from a Priest Acolyte in a plain grey surcoat. The acolyte arrives at the third bell and does not wait for a reply, and Savra does not come to the door.
+
+> [!readaloud]
+>
+> The acolyte hands you a folded paper sealed with the Halls of Justice wax and goes back down Trollskull Alley. The note holds one short paragraph in a neat, upright hand.
+>
+> > Four men have been hired to corner a Xanathar's Guild dealer named Pell in Mudlark Square, in the Field Ward, at noon today. Stop it before anyone dies, and report to the east annex of the Halls of Justice at dusk. If you learn anything about whoever hired the men, bring it with you. B.H.O.
+
+The note answers none of the five questions, and the rest of the Event runs as written. The member reports at the east annex at dusk, as **Renown Opportunities** describes.
 
 ### The Field Ward at Noon
 
@@ -195,7 +208,7 @@ The hands know they were paid and not by whom. The intermediary's description ha
 
 > [!gamemaster]**The Description**
 >
-> Each route gives the same man: lean, in his forties, grey at the temples, with a limp in his left leg, ink on his right fingers and a brown coat mended at the elbow. He spoke to the hands in the Trade Ward accent of a clerk, and he gave no name and took none.
+> Each route gives the same man: lean, in his forties, grey at the temples, with a limp in his left leg, ink on his right fingers and a brown coat mended at the elbow. He spoke to the hands in the Trades Ward accent of a clerk, and he gave no name and took none.
 
 > [!exploration]**Harlan Crake**
 >
@@ -213,13 +226,13 @@ The hands know they were paid and not by whom. The intermediary's description ha
 >
 > Brisa Hollin sells pears from a cart on the square's north side, and she watched a stranger buy one two days ago. She answers any character who buys a pear for 1 sp and asks politely, with no check. She does not talk to anyone who is rude to her or who is holding a weapon.
 >
-> - **What she saw:** A limping man in a brown coat paid for a pear with a silver piece and asked her where the four men drank. He wiped the pear on a sleeve that had ink on the cuff. He went north up the lane toward the Trade Ward.
+> - **What she saw:** A limping man in a brown coat paid for a pear with a silver piece and asked her where the four men drank. He wiped the pear on a sleeve that had ink on the cuff. He went north up the lane toward the Trades Ward.
 
 > [!exploration]**The Paper Twist**
 >
-> Every hand carries the pay he was given: five gold in a twist of grey paper tied with green thread. A character who searches a hand and makes a successful DC 12 Intelligence (Investigation) check finds a small stamp on the inside fold that reads "Halbrook and Daughters, Stationers, Trade Ward".
+> Every hand carries the pay he was given: five gold in a twist of grey paper tied with green thread. A character who searches a hand and makes a successful DC 12 Intelligence (Investigation) check finds a small stamp on the inside fold that reads "Halbrook and Daughters, Stationers, Trades Ward".
 >
-> - **At the stationer:** A clerk at Halbrook and Daughters in the Trade Ward remembers a limping customer with inky fingers who buys grey paper by the ream. She gives the same description as Crake and Brisa. The visit takes an hour and needs no check.
+> - **At the stationer:** A clerk at Halbrook and Daughters in the Trades Ward remembers a limping customer with inky fingers who buys grey paper by the ream. She gives the same description as Crake and Brisa. The visit takes an hour and needs no check.
 > - **On a failure:** The stamp is smudged. The party can search another hand's twist or follow another route.
 
 ### The Rusted Anchor
@@ -245,6 +258,8 @@ If **Pell's Debt Held** is marked, Pell gives the list below to the first member
 ### Renown Opportunities
 
 Savra knocks at dusk and waits to be asked in. Companions sit in the common room, and she asks the members to speak one at a time.
+
+A member marked **Quietly Reassigned** reports to Savra at the east annex of the Halls of Justice at dusk instead, and she hears the account there. She does not come to the manor door for that member, and she reads the same branches below.
 
 > [!readaloud]
 >
@@ -274,7 +289,7 @@ If a member gives her the intermediary's description or the stationer's mark, ma
 >
 > Savra takes a small notebook from her coat and writes in a hand that slants to the left. She reads the line back to herself before she looks up.
 >
-> > "A limp, ink on the right hand, a stationer in the Trade Ward. That goes into the Splinter file, and it gives me more to work with than I had this morning."
+> > "A limp, ink on the right hand, a stationer in the Trades Ward. That goes into the Splinter file, and it gives me more to work with than I had this morning."
 
 If the members have nothing about the intermediary, read or paraphrase the following:
 
@@ -322,8 +337,10 @@ Savra's debrief ends the mission, and the two outcomes below are read by later e
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Splinter Intel Reported** — mark when a member gives Savra the intermediary's description or the stationer's mark at the debrief; read by **Faction Outposts** (unconverted), where Savra's file on the Splinter's intermediaries opens.
+> - **Splinter Intel Reported** — mark when a member gives Savra the intermediary's description or the stationer's mark at the debrief; read by **Faction Outposts** (unconverted), where Savra's file on the Splinter's intermediaries opens, and by **Vindicator**, where it serves as the exhibit for an inquiry into the Splinter's safe house.
 > - **Pell's Debt Held** — mark when Pell leaves the square unhurt and with his face; read by **The Shard Shunners**, where Pell's list shows the Shunners unpaid, and by **Faction Outposts** (unconverted), where Pell names the paid gangs.
+>
+> This Event reads **Quietly Reassigned**, which **The Tithe** marks, to decide how the Brief arrives and where the debrief is held.
 
 > [!gamemaster]**Next Steps**
 >

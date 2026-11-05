@@ -30,7 +30,7 @@ Four days ago the Wazoo printed a story that a Tethyrian woman brought to Gaxly 
 
 ## The Brief
 
-Savra knocks once at dawn and waits to be asked in. She briefs the members alone, states her deadline and says why she cannot come. The companions give the members the taproom corner.
+Savra knocks once at dawn and waits to be asked in. She briefs the members alone, states her deadline and says why she cannot come. The companions give the members the taproom corner. A member marked **Quietly Reassigned** gets the Brief by note from a Priest Acolyte instead, and the debrief moves to the east annex of the Halls of Justice.
 
 ## The Wazoo and the Hall of Records
 
@@ -50,7 +50,7 @@ Each participating Order of the Gauntlet member gains 2 base Renown for reportin
 
 ## Aftermath
 
-**Planted Story Exposed** is read by **Spined Devils in Twelvedog Court**. **Imp Captured** is read by the same event, by the Whitehawk rank event and by **Cassalanter Villa** (unconverted). **Forged Record Secured** is read by **Cassalanter Villa** (unconverted). **The Shard Shunners** becomes available when an individual Order of the Gauntlet member reaches Renown 5 and 4th level.
+**Planted Story Exposed** is read by **Spined Devils in Twelvedog Court**. **Imp Captured** is read by the same event, by the Whitehawk rank event and by **Cassalanter Villa** (unconverted). **Forged Record Secured** is read by **Cassalanter Villa** (unconverted). **The Shard Shunners** becomes available when an individual Order of the Gauntlet member reaches Renown 5 and 4th level. This mission also reads **Quietly Reassigned**, which **The Tithe** marks.
 
 ## Involved Characters
 
