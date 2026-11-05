@@ -5,22 +5,22 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - This is the villain profile for Xanathar, the beholder crime lord of **Xanathar's Guild**. It sets out his three personality phases, his relationships, his goals and the one design note that makes him playable.
-> - Use it when you run any scene where Xanathar or the Guild acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Act III, and Phase 3 begins when the party enters his lair.
-> - Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for his sewer base.
+> - This is the villain profile for Xanathar, the beholder crime lord of **Xanathar's Guild**. It sets out its three personality phases, its relationships, its goals and the one design note that makes it playable.
+> - Use it when you run any scene where Xanathar or the Guild acts or reacts. Phase 1 covers Acts I and II, Phase 2 covers Act III, and Phase 3 begins when the party enters its lair.
+> - Xanathar appears in **Finding Floon**, **Faction Outposts**, **Xanathar's Lair** and **Vault of Dragons**. The **Xanathar Sewer Hideout** is the location journal for its sewer base.
 > - The Guild's response teams, outposts, escalation row and revelation list live in the **Xanathar's Guild** page of the Factions Guide. Who the Guild is lives in the **Xanathar's Guild** page of Organizations.
 
 **Purpose:** Lets the GM portray Xanathar as a specific, three-dimensional villain through three personality phases, a relationship table and three goals.
 
 *This page contains significant spoilers for the campaign. We recommend reading it so that you understand the primary villains and their motivations. Some Gamemasters, however, may prefer not to have this full knowledge, so proceed only if you wish to have all the available information up-front instead of learning things as you play.*
 
-Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid intelligence that has built a criminal empire around a terror of being vulnerable and wears the trappings of a monster because the trappings are convenient. His core motive is to prove his supremacy and remove every threat to it, which means taking the Vault of Dragons, destroying Manshoon and keeping Skullport's money flowing.
+Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid intelligence that has built a criminal empire around a terror of being vulnerable and wears the trappings of a monster because the trappings are convenient. Its core motive is to prove its supremacy and remove every threat to it, which means taking the Vault of Dragons, destroying Manshoon and keeping Skullport's money flowing.
 
 ## Background
 
 - "Xanathar" is a title that predates any individual beholder. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
 - The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After a century of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
-- The current Xanathar believes he is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source. [research]
+- The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source. [research]
 - Skullport is the Guild's undercity foundation: the shadow city three levels below Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
 - The Yawning Portal well drops to Undermountain Level 1, and Skullport lies three levels down.
 - The Dock Ward is the Guild's primary surface territory.
@@ -53,7 +53,7 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 
 ## Goals
 
-- **Acquire the Vault of Dragons.** He wants the gold as proof of supremacy, not primarily for wealth. Method: recover the Stone, use the three Eyes, open the vault. Contingency: pursue whoever has it. Connects to **Xanathar's Lair**.
+- **Acquire the Vault of Dragons.** It wants the gold as proof of supremacy, not primarily for wealth. Method: recover the Stone, use the three Eyes, open the vault. Contingency: pursue whoever has it. Connects to **Xanathar's Lair**.
 - **Eliminate Manshoon.** The splinter cell incursion is a personal insult. Method: Guild response teams targeting Zhentarim operations. There is no contingency, and this failure is part of what drives Phase 3.
 - **Maintain the Undercity.** Skullport supply lines fund the Guild. Method: Ahmaergo manages this operationally. Connects to Mad Mage integration.
 
@@ -63,7 +63,7 @@ Xanathar's goldfish Sylgar receives more consideration than any humanoid lieuten
 
 ## Overview
 
-The Xanathar Guild is the largest criminal organization in Waterdeep, and the only one run by a beholder. Most Waterdhavians know it by rumor, as a smuggling trade through Skullport and a web of informants in every ward, with the Dock Ward as its main territory above ground. Its master, Xanathar, is said to rule from a fortified lair deep beneath the streets and to trust nobody who works for him. He is also known for an obsessive fondness for a goldfish named Sylgar.
+Xanathar's Guild is the largest criminal organization in Waterdeep, and the only one run by a beholder. Most Waterdhavians know it by rumor, as a smuggling trade through Skullport and a web of informants in every ward, with the Dock Ward as its main territory above ground. Its master, Xanathar, is said to rule from a fortified lair deep beneath the streets and to trust nobody who works for it. It is also known for an obsessive fondness for a goldfish named Sylgar.
 
 **Tone:** Plain and procedural for the GM tables, and grave in the Overview, where the Guild is a frightening local fact. Treat Xanathar's paranoia as dangerous and the goldfish as funny without letting the narration make the joke.
 
@@ -82,7 +82,7 @@ The Xanathar Guild is the largest criminal organization in Waterdeep, and the on
 ## Cross-References
 
 - **Xanathar's Lair**: heist quest featuring Xanathar directly (Phase 3)
-- **Finding Floon**, **Faction Outposts**, **Vault of Dragons**: the other quests where Xanathar or his Guild appears
+- **Finding Floon**, **Faction Outposts**, **Vault of Dragons**: the other quests where Xanathar or its Guild appears
 - **Xanathar Sewer Hideout**: location journal for the Guild's sewer base
 - **Xanathar**, **Ahmaergo**, **Nar'l Xibrindas**, **Nihiloor** (Notable Figures): full profiles for the Relationships table
 - **Manshoon** and **Jarlaxle** (Villains): the rival and the unidentified player in the Relationships table
