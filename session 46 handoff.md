@@ -20,7 +20,7 @@ Git range: `1e72af1..HEAD` (the "Session 45 handoff" commit to this one; 11 file
 | `CLAUDE.md` | Cassalanter secrecy rule now reads "Nobody outside the household and the cult knows … No faction or NPC outside the household and the cult knows" (user-approved carve-out) |
 | `campaign/setting/notable-figures/cassalanters/10-seffia-naelryke.md` | Two-part Notable Figure pilot: Personality, Connections, player-safe Overview, then a GM block with Roleplaying and Character Information moved word for word and a Secret callout |
 | `campaign/setting/organizations/10-cassalanters.md` | Lore-page pilot: identity, tenets, Operations (kept), Key Members (kept), Overview, GM Notes and Secret. Stale statements in Operations corrected (three years ago, about half the gold, the ritual needs both) |
-| `campaign/setting/villains/xanathar.md` | Villain pilot in the draft register. Xanathar is "it", named Kirukesai; the guild is "Xanathar's Guild"; Goal 1 and the relationship notes follow the source check |
+| `campaign/setting/villains/xanathar.md` | Villain pilot in the draft register. Xanathar is "it", the current one named Zushaxx; the guild is "Xanathar's Guild"; Goal 1 and the relationship notes follow the source check |
 
 ### Files Created
 | File | Purpose |
@@ -40,11 +40,11 @@ None.
 
 ## Key Decisions
 
-### Xanathar is "it", and the current one is Kirukesai
-**Decision:** The villain page and all new text say "it/its". The current Xanathar is a beholder named Kirukesai.
+### Xanathar is "it", and the current one is Zushaxx
+**Decision:** The villain page and all new text say "it/its". The current Xanathar is a beholder named Zushaxx. Kirukesai was one of the previous Xanathars.
 **Reasoning:** The published adventure uses "it". The name is in no published source or earlier campaign file; the user supplied it.
 > "Kirusekai, the current Xanathar, is described as it everywhere, so..." — User, this session
-> "Kirukesai, I mispelled it." — User, this session (the correct spelling)
+> "I got it wrong, this was one of the previous Xanathars. Zushaxx is the current xanathar, still It as pronouns go" — User, this session (corrects the earlier "Kirusekai/Kirukesai" ruling; Kirukesai is a previous Xanathar)
 
 ### The guild name takes the possessive
 **Decision:** Always "Xanathar's Guild".

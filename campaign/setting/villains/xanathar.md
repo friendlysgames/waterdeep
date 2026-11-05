@@ -20,7 +20,7 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 
 - "Xanathar" is a title that predates any individual beholder. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
 - The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After a century of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
-- The current Xanathar is a beholder named Kirukesai (name supplied by the user; it appears in no published source or earlier campaign file).
+- The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. Both names were supplied by the user; neither appears in a published source or an earlier campaign file.
 - The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source. [research]
 - Skullport is the Guild's undercity foundation: the shadow city three levels below Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
 - The Yawning Portal well drops to Undermountain Level 1, and Skullport lies three levels down.
