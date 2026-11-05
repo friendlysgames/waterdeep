@@ -211,7 +211,7 @@ Mark **Quietly Reassigned** for the member as soon as Savra has gone. At noon th
 
 > [!exploration]**Quietly Reassigned**
 >
-> Savra stops offering the member the optional extras, but she does not stop the work or touch the member's Renown or rank. The list below is complete.
+> Savra stops offering the member the optional extras, but she does not stop the work or touch the member's Renown or rank. The list below is the baseline list, and other files add effects.
 >
 > - **Briefs:** the member still receives each Brief that their Renown allows. The Brief arrives as a note from Brother Hallin, carried by a Priest Acolyte, and it restates the deadline. Savra does not come to the manor door, and the member gives the debrief to her at the Halls of Justice as usual.
 > - **Marcheon:** Savra does not offer to fight beside the member. If the member asks for her in writing, through the door-warden, she answers within a tenday.

@@ -21,7 +21,7 @@
 > - A black-edged notice was nailed to the Halls' west door at dawn. It names Savra and every character in the party, and it promises a writ served inside the Halls at midnight.
 > - The server is a Horned Devil that calls itself the bailiff. Who sent it, and whom the writ names, depends on the Cassalanter Villa result in **Who Is Serving the Writ**.
 > - In three of the four results the family has no hand in the visit. When **Cassalanters Exposed** is the result, the family did not ask for it and would not mourn it.
-> - Savra speaks of the notice, the bailiff and the writ. She has only the party's account of the villa, so she does not say what the family worshipped or bargained, and she answers a character who does with "I have your word on that."
+> - Savra speaks of the notice, the bailiff and the writ. She says nothing of the family's worship or bargain unless the party told her, and she answers a character who raises it with "I have your word on that."
 > - Nobody in this Event says Manshoon's name unless **Manshoon Named** is marked for the member addressed. Until then Savra says "the Splinter", and she says "the carnival fleet" until **Jarlaxle Unmasked** is marked.
 
 ### The Brief
@@ -61,7 +61,7 @@ The notice is a document that the players can read, and you write each character
 > - Where the exhibit should sleep, and who should hold it.
 > - The scroll of *Banishment* in the strongroom, and how little she trusts it.
 >
-> She will not say what the family worshipped, and she will not guess who holds the claim.
+> She says nothing of the family's worship or bargain unless the party told her, and she will not guess who holds the claim.
 
 > [!qna]**Who sent it?**
 >
@@ -153,7 +153,7 @@ The members and their companions have from 19:30 until the hearing opens to prep
 >
 > The Halls give the party two wards, and neither changes the roster.
 >
-> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) as her action on her first turn. The 15-foot emanation halves the speed of the devil inside it. The devil takes 3d8 radiant damage, or half on a successful Wisdom save, when it enters or starts its turn there. A Priest who stands beside the exhibit holds the devil off it while she keeps her concentration.
+> - **Spirit Guardians:** Either Priest can cast *Spirit Guardians* (spell save DC 13) as an action on that Priest's first turn. The 15-foot emanation halves the speed of the devil inside it. The devil takes 3d8 radiant damage, or half on a successful Wisdom save, when it enters or starts its turn there. A Priest who stands beside the exhibit holds the devil off it while concentrating.
 > - **The vestry door:** A character who stands 10 feet or more inside the vestry is out of the devil's melee reach. *Hurl Flame* still reaches through the open door, and the devil keeps firing at any character it can see.
 > - **Effect:** With the wards in play the devil spends its early rounds crossing the aura and the door, which shortens the fight. The Day Cost and the band do not change.
 
@@ -319,7 +319,7 @@ If the party shut itself in the vestry and the devil left at first light, read o
 >
 > > "You lived, and the exhibit lived, and the bailiff left with its paper. It will come again for the names on that notice. I'd have liked it gone, but I won't pretend you were wrong to hide."
 
-Read the line that matches the Cassalanter Villa result. If the villa has not run, read the last one.
+Read the line that matches the Cassalanter Villa result. If the villa has not run, read the last one. Savra speaks of the payment or the dead only if the party told her of them or found them in the villa, and otherwise she says only that the Lords hold the book and the bailiff is gone.
 
 If **Contract Destroyed** is the result, read or paraphrase the following:
 
@@ -327,13 +327,13 @@ If **Contract Destroyed** is the result, read or paraphrase the following:
 >
 > > "Nobody in that family sent this. They are free of it because of you, and the bill has come to you instead. The Order will stand for you, and I'd like that written in the Recognition."
 
-If **Cooperative / Gold Payment** is the result, read or paraphrase the following:
+If **Cooperative / Gold Payment** is the result and the party told Savra of the payment, read or paraphrase the following:
 
 > [!readaloud]
 >
 > > "The debt was paid, and Hell wants the receipt kept private. We keep the Lords' copy where Hell can't reach it. I don't like bargaining with devils, even to save children, but I like it less when they send a bailiff."
 
-If **Sacrifice Happened** is the result, read or paraphrase the following:
+If **Sacrifice Happened** is the result and the party told Savra of the dead or showed her the register, read or paraphrase the following:
 
 > [!readaloud]
 >
@@ -390,7 +390,7 @@ Savra's debrief ends the last Order of the Gauntlet mission, and the two outcome
 
 > [!gamemaster]**Event Outcomes**
 >
-> - **Order Recognized** — mark when Savra hands over the Recognition at the debrief, naming every character present at the hearing and in the hall at midnight. It is read by **Vault of Dragons** (unconverted), where Watch cooperation at the gate improves and Savra offers to testify. If the mission was not run, the Vault uses the default in the design notes. It is also read by **Righteous Hand**, where Savra names the night in the investiture.
+> - **Order Recognized** — mark when Savra hands over the Recognition at the debrief, naming every character present at the hearing and in the hall at midnight. It is read by **Vault of Dragons** (unconverted), where Watch cooperation at the gate improves and Savra offers to testify. If the mission was not run, the Vault uses the default in the design notes. It is also read by **Vindicator**, where Savra mentions the Lords' hearing, and by **Righteous Hand**, where Savra names the night in the investiture.
 > - **Devil Sent Back** — mark when the Horned Devil reaches 0 hit points or a *Banishment* holds for the full minute. It is read by the debrief branch in this Event. It is also read by **Righteous Hand**, where the high priest of Tyr recalls it.
 
 > [!gamemaster]**Next Steps**

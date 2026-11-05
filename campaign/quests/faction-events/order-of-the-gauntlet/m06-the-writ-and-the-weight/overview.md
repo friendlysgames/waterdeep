@@ -26,7 +26,7 @@ The Cassalanter Villa result decides who sent the devil and whom the writ names,
 >
 > - The devil is a Horned Devil that calls itself the bailiff. It serves a writ, wants the exhibit and never says "Asmodeus".
 > - In the first three villa results, the family has no hand in the visit. In the fourth, the family did not ask for it.
-> - Savra has only the party's account of the villa, so she does not say what the family worshipped.
+> - Savra says nothing of the family's worship or bargain unless the party told her.
 > - Nobody names Manshoon before **Manshoon Named** or Jarlaxle before **Jarlaxle Unmasked**.
 
 ## The Brief
@@ -66,8 +66,8 @@ Companions gain no Renown, and each bonus can be earned only once.
 ## Involved Characters
 
 - **Savra Belabranta** (Order of the Gauntlet): briefs the members, fights beside the party as a Knight and gives the Recognition.
-- **Father Corwen Thale** (Order of the Gauntlet): a gray-haired priest of Tyr who holds the vestry key and fights as a Priest.
-- **Sister Merrin Oakhollow** (Order of the Gauntlet): a priest of Tyr who stands beside him and fights as a Priest.
+- **Father Corwen Thale** (Temple of Tyr): a gray-haired priest of Tyr who holds the vestry key and fights as a Priest.
+- **Sister Merrin Oakhollow** (Temple of Tyr): a priest of Tyr who stands beside him and fights as a Priest.
 - **Brother Hallin Ostrel** (Order of the Gauntlet): the Order's clerk, who brings the scroll and writes the Recognition.
 - **Brother Haldric Wence** (Order of the Gauntlet): the door-warden of the Halls of Justice.
 - **Odrane Belcast** (City of Waterdeep): the magistrate who presides at the hearing.

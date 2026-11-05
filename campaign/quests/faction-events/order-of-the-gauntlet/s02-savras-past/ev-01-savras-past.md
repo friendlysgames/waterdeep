@@ -260,7 +260,7 @@ The Event concludes when every member present has answered, or been sent away to
 > [!gamemaster]**Event Outcomes**
 >
 > - **Savra's Past Known** — mark with the name of each member who hears **What She Did**. Read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
-> - **Cult Funding Linked** — mark with the name of each member who tells Savra the funding suspicion, in the full scene or in **The Short Version**. Read by **Righteous Hand**, **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
+> - **Cult Funding Linked** — mark with the name of each member who tells Savra the funding suspicion, in the full scene or in **The Short Version**. Read by **Cassalanter Villa** (unconverted) and **Vault of Dragons** (unconverted).
 
 > [!gamemaster]**Next Steps**
 >
