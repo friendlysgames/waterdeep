@@ -21,6 +21,6 @@ No Renown is awarded, as before. The two outcomes keep their names but are marke
 - Invented: the chapel in the east annex, the storm-night timing of the arrests, Saeth's steward in the household coat, and the claim that Savra's statement caused the arrests.
 - Unverified: the Howling Hatred rank names (Initiate, Windwalker, Windcaller); no *Princes of the Apocalypse* file exists in `sources/`.
 - Open: no page decides who paid for the cult, so the Event leaves it a suspicion.
-- Open: Saeth's Notable Figures page says "Halls of Justice"; this folder says "Halls of Justice" as the Order pages do.
+- Resolved: Saeth's Notable Figures page now says "Halls of Justice" as the Order pages do, and lists this event.
 - Open: Savra's Notable Figures page says neutral good and Tethyrian; the brief fixes Lawful Good, Human.
 - Open: the Quietly Reassigned delay of one dusk and the holdover rule against the tithe visit are mine, not the brief's.
