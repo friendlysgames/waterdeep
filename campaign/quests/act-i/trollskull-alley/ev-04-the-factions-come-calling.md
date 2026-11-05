@@ -25,7 +25,7 @@ Over the course of the renovation period, each faction sends invitations through
 | **Harpers** | Paper bird taps on a Trollskull Manor window, waits | Good-aligned; Renaer vouches for the party |
 | **Lords' Alliance** | A Watch runner brings a card sealed in grey wax; Jalester Silvermane waits at the corner table beside the Yawning Portal's well | Any character in no other faction; a civic-minded record only decides whom Jalester addresses first |
 | **Emerald Enclave** | White cat delivers a verbal message from Melannor Fellbranch | Druids, rangers, nature clerics; nature-aligned behavior in Finding Floon |
-| **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Paladins, clerics, characters with strong moral conviction |
+| **Order of the Gauntlet** | Savra Belabranta visits Trollskull in person; no advance invitation | Any character in no other faction; a Cleric or Paladin class, an Acolyte, Guard or Soldier background, or worship of Helm, Torm or Tyr only decides whom Savra addresses first |
 | **Doom Raiders** | Flying snake delivers a note from Davil Starsong | Evil-aligned or morally pragmatic; decisive action in Finding Floon |
 | **Bregan D'aerthe** | Three drow lieutenants shadow the party for several days; see below | Any PC; drow PCs draw the closest watch |
 | **Force Grey** | Vajra Safahr sends a *Sending* spell to one party member | Renaer's rescue brought the party to Vajra's attention |
@@ -55,7 +55,7 @@ Once contact is established, each faction's financing offer becomes available. F
 | Harpers | Mirt's personal loan — 500 gp | Repayable as a favor |
 | Lords' Alliance | Jalester's civic grant — 200 gp, once | No repayment; one evening's check-in from Jalester |
 | Emerald Enclave | Two druids and donated timber — −250 gp off renovation cost, once | No monetary cost; the druids ask the party to leave the courtyard oak alone and let silverbark grow on it |
-| Order of the Gauntlet | Guild connections — faster scheduling, favorable rates | Net 100 gp savings; Savra is visible at the site |
+| Order of the Gauntlet | Savra walks the party to a Guild hall in Order insignia — 100 gp off the renovation total, once; a Watch patrol also answers any disturbance at the manor within the hour | No cost; given once, when the first member swears the oath |
 | Doom Raiders | Istrid Horn's Black Network loan — 400 gp | Party-set repayment; Istrid wants no Watch attention |
 | Bregan D'aerthe | Full bankrolling — up to 1,250 gp | Repayable in "operational access"; Jarlaxle's terms |
 | Force Grey | Tiny Hut and vault scrolls | No gold, but security value; Vajra notes the obligation |
@@ -71,7 +71,7 @@ Once enrolled, characters receive their first faction assignments. Quick referen
 | Harpers | The Talking Mare | Find Maxeene, a talking draft horse who overheard Zhent operatives |
 | Lords' Alliance | The Long Watch | A tenday escorting a sweeping crew in the Trades Ward; a carrion crawler on day nine |
 | Emerald Enclave | The Undercliff Scarecrows | Three animated scarecrows terrorizing Undercliff farms |
-| Order of the Gauntlet | Breaking Up the Brawl | Stop Zhent vs. Xanathar Guild fights in the Field Ward |
+| Order of the Gauntlet | Breaking Up the Brawl | Stop a mob hired by the Splinter from cornering a Xanathar's Guild dealer in a Field Ward market square |
 | Doom Raiders | The Dockside Killer | Identify who is killing elf and half-elf sailors in the Dock Ward |
 | Bregan D'aerthe | The Handkerchief and the Girl | Obtain a noble's silk handkerchief; deliver it to a tiefling girl named Vessin |
 | Force Grey | Consulting Hlam | Climb Mount Waterdeep; ask a monk what he has heard about threats to the city |
@@ -103,8 +103,8 @@ The **Lords' Alliance First Meeting** marks this for each character who accepts,
 #### Emerald Enclave Joined
 The **Emerald Enclave First Meeting** marks this for each character who accepts, so this Event does not. The renovation help is given once, when the first candidate accepts.
 
-#### Order of the Gauntlet Joined: True / False
-At least one party member enrolled with the Order of the Gauntlet.
+#### Order of the Gauntlet Joined
+The **Order of the Gauntlet First Meeting** marks this for each character who swears the oath, so this Event does not. The renovation help is given once, when the first member swears.
 
 #### Force Grey Joined: True / False
 At least one party member enrolled with Force Grey.
