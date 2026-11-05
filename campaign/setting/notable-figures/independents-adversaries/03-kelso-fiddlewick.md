@@ -4,7 +4,7 @@
 >
 > - *Lightfoot Halfling wererat, Neutral*. Stat block: **Wererat**, used in halfling form unless a Shunner falls.
 > - **Affiliation:** Independent (adversary). Leader of the Shard Shunners, based in the Field Ward.
-> - **Featured in:** **Trollskull Alley**, **The Missing Snobeedle**, **The Doppelganger Problem**, **The Shard Shunners**, **The Black Viper Investigation**, **The Doppelganger Auditions**
+> - **Featured in:** **Trollskull Alley**, **The Missing Snobeedle**, **The Doppelganger Problem**, **The Shard Shunners**
 >
 > Kelso is a compact halfling with a scar along his jaw and the manners of a cheerful undertaker. He is a middleman. He buys stolen information and goods and sells them to whoever pays, and he never names a customer to anyone.
 >
@@ -26,7 +26,7 @@
 
 **Morale.** In a fight, Kelso identifies the exit before he identifies the enemy, calls his people by name, and leaves through the gap in the wall he had scouted on arrival. He does not die for a contract.
 
-**Relationships.** Kelso is the leader of the Shard Shunners wererat gang (Field Ward), the man Emmek Frewn hired to sabotage Trollskull Manor, a recurring contact in Doom Raiders mission three and Order of the Gauntlet mission three, and a man whose sister Danika works alongside him in the gang's operations. Anyone who sells him a secret is paid for it, and anyone who asks where it went is told that he does not discuss his customers.
+**Relationships.** Kelso is the leader of the Shard Shunners wererat gang (Field Ward), the man Emmek Frewn hired to sabotage Trollskull Manor, a recurring contact in Doom Raiders mission three and Order of the Gauntlet mission three, and the brother of Danika, a fourteen-year-old girl who was threatened with a knife by a night guard and is no part of the gang. Anyone who sells him a secret is paid for it, and anyone who asks where it went is told that he does not discuss his customers.
 
 ## Overview
 

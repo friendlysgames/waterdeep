@@ -94,7 +94,7 @@ When a character opens her door, read or paraphrase the following:
 >
 > > "It's about Neverember's money, and it never went north. I couldn't follow the rest, and I didn't try very hard. You'll have to read it yourselves."
 
-The party has three choices, and Jalester accepts all of them. It can take the ledger and let Rezka go by the dawn gate. It can take her and the ledger to the Hall of Justice, where a clerk writes down her statement. It can take the ledger and leave her to the Guild, which costs nothing but leaves the bonus for Rezka unearned. Her statement names the Reader and says that the Guild never read the book.
+The party has three choices, and Jalester accepts all of them. It can take the ledger and let Rezka go by the dawn gate. It can take her and the ledger to the Halls of Justice, where a clerk writes down her statement. It can take the ledger and leave her to the Guild, which costs nothing but leaves the bonus for Rezka unearned. Her statement names the Reader and says that the Guild never read the book.
 
 If the party holds the ledger when second bell rings, Ossery waits in Room 4 until a quarter to eight and then leaves with his party. No fight starts unless the party starts one. Emira leaves in the same way at a quarter past eight, and the party can speak to either before they go.
 

@@ -444,7 +444,7 @@ If a member names Veralax and the Tarred Rope, read the following aloud:
 >
 > > "A gem merchant who drinks nothing. Understood, and I will have the booth watched, but I will not send anyone in."
 
-If Harko is alive in Watch or Alliance custody and tells his account of the thin man at the Skewered Dragon, mark **Thayan File Obtained**. The Watch's questioners compile that account into a sealed Hall of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read the following aloud:
+If Harko is alive in Watch or Alliance custody and tells his account of the thin man at the Skewered Dragon, mark **Thayan File Obtained**. The Watch's questioners compile that account into a sealed Halls of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read the following aloud:
 
 > [!readaloud]
 >
@@ -510,7 +510,7 @@ The Event ends when the members have reported to Jalester. Mark the three outcom
 >
 > - **Harko Taken Alive** — mark when Harko is alive in Watch or Alliance custody at the end of the Event, whether a sergeant or the Guards took him. Read by **The Red Wizard's Price**, where the Watch's questioners hold his statement. Also read by **Faction Outposts** (unconverted), where the Guild's crews have lost their kenku recruiter.
 > - **Terasse Cipher Taken** — mark when a member gives Jalester Harko's cipher note, decoded or not. Read by **Faction Outposts** (unconverted) as a fourth path into the Terasse Estate, by the eastern staircase on Elsambul's Lane.
-> - **Thayan File Obtained** — mark when Harko is alive in Watch or Alliance custody and tells his account of the thin man at the back of the Skewered Dragon, so the Watch can compile a sealed Hall of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read by **The Red Wizard's Price**, where the file lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic.
+> - **Thayan File Obtained** — mark when Harko is alive in Watch or Alliance custody and tells his account of the thin man at the back of the Skewered Dragon, so the Watch can compile a sealed Halls of Justice file on Esloon's associates and the embassy's interest. A released Harko gives no file. Read by **The Red Wizard's Price**, where the file lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic.
 
 > [!gamemaster]**Next Steps**
 >

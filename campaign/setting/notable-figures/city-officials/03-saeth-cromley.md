@@ -4,9 +4,9 @@
 >
 > - *Illuskan human retired sergeant, lawful good*. Stat block: **Warrior Veteran**.
 > - **Affiliation:** City of Waterdeep
-> - **Featured in:** **Fireball!**, **Gralhund Villa**, **A Friend's House**, **The Archer Above**, **Stingblade**
+> - **Featured in:** **Fireball!**, **Gralhund Villa**, **A Friend's House**, **The Archer Above**, **Stingblade**, **Savra's Past**
 >
-> Saeth sits in the sergeants' room at the Hall of Justice in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
+> Saeth sits in the sergeants' room at the Halls of Justice in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
 
 ## Roleplaying Information
 

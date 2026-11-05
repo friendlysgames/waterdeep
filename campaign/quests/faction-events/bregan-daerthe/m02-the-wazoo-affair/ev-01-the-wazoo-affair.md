@@ -24,7 +24,7 @@
 > - Gaxly Rudderbust doesn't know who wrote the piece and can say so truthfully under any pressure.
 > - The two solicitors are Cassalanter household agents, sent by Victoro Cassalanter after he read the piece on the morning it printed. Gaxly doesn't know whom they work for.
 > - Nobody in the party learns for certain in this Event that the Cassalanters are hiding anything, and nobody needs to.
-> - Gaxly's note on the Black Viper describes Seffia Naelryke, a Cassalanter household operative who planted a story with him. Nevercott doesn't know of Seffia or this story.
+> - Gaxly's note on the Black Viper describes the household secretary Corisande Brisenne, a Tethyrian woman who planted a story with him. Nevercott doesn't know of her or this story.
 
 ### The Brief
 
@@ -383,7 +383,7 @@ Nevercott's payment ends the assignment. Record who read the piece, who saw the 
 > - **Exposé Read** — mark with the member's name when that member reads the piece; read by Nevercott's question in this Event, and by **Cassalanter Villa** (unconverted), where a member who read the piece already has suspicions to act on.
 > - **Cassalanter Reaction Observed** — mark when a member sees the two solicitors or hears of them from Gaxly; read by Nevercott's payment scene in this Event, and by **Cassalanter Villa** (unconverted) and **The Theater's Back Room**, where the party knows the family reacted quickly to a rumor.
 > - **Wazoo Delivery Witnessed** — mark when anyone sees a character's face on the premises, or when the party takes the courier or direct-request approach; read by Gaxly and Nevercott in this Event, and by **Cassalanter Villa** (unconverted), where the solicitors have a description of the party.
-> - **Black Viper Source Noted** — mark when a member finds Gaxly's note on the desk; read by **The Black Viper Investigation** (Order of the Gauntlet, unconverted), where the party already holds the source's description.
+> - **Black Viper Source Noted** — mark when a member finds Gaxly's note on the desk; read by **The Black Viper Investigation** (Order of the Gauntlet), where it gives Advantage on the first layer of questioning.
 
 > [!gamemaster]**Next Steps**
 >

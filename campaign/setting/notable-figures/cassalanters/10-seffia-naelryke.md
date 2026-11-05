@@ -3,9 +3,9 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cult Fanatic**.
+> - *Human cult fanatic (Asmodeus), lawful evil*. Stat block: **Cultist Fanatic**.
 > - **Affiliation:** The Cassalanters (cult)
-> - **Featured in:** Faction Outposts, Cassalanter Villa, The Black Viper Investigation, Cassalanter Villa (location)
+> - **Featured in:** Faction Outposts, Cassalanter Villa, Cassalanter Villa (location)
 
 ## Roleplaying Information
 

@@ -14,17 +14,17 @@ If the party refused or turned Hostile, the campaign takes a harder shape. Imps 
 
 Two teams carry out Cassalanter field operations. Seffia's team is precision work; Willifort's is a blunt instrument the family draws only once discretion has failed.
 
-**Seffia's Team.** Seffia Naelryke (**Cult Fanatic**) + 2 **Spies** + 1 **Veteran** + 1 invisible **Imp**. Deployed for intelligence-gathering, surveillance, or combat support when the Cassalanters are allied with the party.
+**Seffia's Team.** Seffia Naelryke (**Cultist Fanatic**) + 2 **Spies** + 1 **Veteran** + 1 invisible **Imp**. Deployed for intelligence-gathering, surveillance, or combat support when the Cassalanters are allied with the party.
 
-**Willifort's Team.** "Willifort Crowelle" (**Doppelganger**) + 1 **Bearded Devil** (or 2 **Cult Fanatics**) + 3 **Cultists**. Deployed for operations requiring deception, assassination, or escalation.
+**Willifort's Team.** "Willifort Crowelle" (**Doppelganger**) + 1 **Bearded Devil** (or 2 **Cultist Fanatics**) + 3 **Cultists**. Deployed for operations requiring deception, assassination, or escalation.
 
 ## Outposts
 
 ### Asmodean Shrine — Encounter-Plus (North Ward, Aveen Street)
 
-From outside, an unremarkable residence. Inside, every room has been converted to Asmodean worship. The Cassalanters bought this property after discovering the Hell cyst in Area 8 below: a pinprick of Hell co-located onto the Material Plane, which powers the summoning circle above it.
+From the North Ward side of Aveen Street, an unremarkable residence. A second way in runs through a chandler's cellar on the Field Ward side of the street. Its cellar door stands in the yard, and callers knock on it three times. Inside, every room has been converted to Asmodean worship. The Cassalanters bought this property after discovering the Hell cyst in Area 8 below: a pinprick of Hell co-located onto the Material Plane, which powers the summoning circle above it.
 
-*Area 1 — Summoning Circle.* Demonic sigils on the floor connect to the Hell cyst below. The circle summons 2 **Imps** once every nine days.
+*Area 1 — Summoning Circle.* Demonic sigils on the floor connect to the Hell cyst below. The circle summons 2 **Imps** once every nine days, and it stays in this area. The chandler's cellar holds only rite goods: candles, salt, iron filings and lamp oil.
 
 *Area 2 — Styxian Shrine.* A stone font half-filled with grayish water enchanted to mimic the River Styx. Drinking from it requires a DC 14 Wisdom saving throw; failure costs the drinker all memories for 8 hours. The cultists call this a sacrament.
 
@@ -40,7 +40,7 @@ From outside, an unremarkable residence. Inside, every room has been converted t
 
 The apprentice wizard in Area 2 carries *Instructions from Lord Cassalanter*, directing that the next pair of summoned Imps be sent to surveil the Sea Maidens Faire.
 
-**Roster:** 1 **Cult Fanatic** + 2 **Imps** (Area 1) | 1 **Apprentice Wizard** + 2 **Imps** (Area 2) | 2 **Cult Fanatics** (Area 4).
+**Roster:** 1 **Cultist Fanatic** + 2 **Imps** (Area 1) | 1 **Apprentice Wizard** + 2 **Imps** (Area 2) | 2 **Cultist Fanatics** (Area 4).
 
 **Escalation:** Cassalanters move to Alert (Tier 3). Imp survivors report to the family within hours; Seffia's team deploys within 2 days. If Bregan D'aerthe outposts have also been hit, the Cassalanters flag the party as a threat to their Faire surveillance arrangement. **Founders' Day Clock (Flamerule 1): 1–2 days.**
 
@@ -57,7 +57,7 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 - Any character who examines the ritual markings and makes a successful DC 15 Intelligence (Arcana) check determines that the ritual was a demonic divination — a weakly powered version of *legend lore* — seeking something tied to "Neverember," "the wealth of Waterdeep," "Golorr," and "that which has been lost to the waters of Lethe."
 - The desk holds a map of Waterdeep. Strange lines of blood criss-cross it, but one location in the City of the Dead has been circled in charcoal with accompanying text identifying it as the "Brandath Crypt."
 
-**Roster:** Seffia Naelryke (**Cult Fanatic**) + Arn Xalrondar (**Cult Fanatic**) + 1 **Imp** (invisible, on watch).
+**Roster:** Seffia Naelryke (**Cultist Fanatic**) + Arn Xalrondar (**Cultist Fanatic**) + 1 **Imp** (invisible, on watch).
 
 **Escalation:** If the Asmodean Shrine has already been struck, the Cassalanters move to Lockdown (Tier 4); if this is the first Cassalanter outpost hit, they move to Alert (Tier 3). If the sentry Imp escapes, the Cassalanters know exactly what was taken. **Founders' Day Clock (Flamerule 1): 3–5 days.**
 
@@ -80,6 +80,7 @@ The Cassalanters' escalation is binary. In passive mode, the soul-pact arrangeme
 - *Arn's Meeting Notification* (Converted Windmill — note under the bed cross-references the shrine)
 - *Report on the Cultists of Asmodeus* (Sea Maidens Faire)
 - Proactive: Harpers hire the party to investigate the shrine
+- *Gysheer Omfreys's day-book and cartage receipt* (Order of the Gauntlet Missions 4 and 5: the day-book names the cellar door in the yard on Aveen Street, three knocks)
 
 **Converted Windmill** (Southern Ward, Coachlamp Lane)
 - *Seffia Naelryke's Visiting Card* (Response Team: Vevette Blackwater — gives the Windmill's address)

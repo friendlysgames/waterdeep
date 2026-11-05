@@ -61,7 +61,7 @@ Each reply below arrives on a half-sheet. Hand it to the table or read it aloud.
 
 > [!qna]**May we enter the house?**
 >
-> > A Hall of Justice entry slip is folded inside the letter. The constable at the door will honor it for today, and he will ask you to touch nothing that is sealed.
+> > A Halls of Justice entry slip is folded inside the letter. The constable at the door will honor it for today, and he will ask you to touch nothing that is sealed.
 
 > [!qna]**What if we cannot find it?**
 >

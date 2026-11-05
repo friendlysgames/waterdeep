@@ -159,7 +159,7 @@ Before she answers anything about Floxin, Tashlyn asks the members what became o
 >
 > > "You can, and I want you to try, because the Lords won't hear him for weeks and the terms he walks out on depend on what you do now. The Watch holds him on that tip, so you can start at the Castle Ward gate, where a constable saw who brought it and the gatehouse register recorded it, and that costs you a morning and no coin."
 >
-> > "You can also hire an advocate at the Hall of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends holds rank in the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
+> > "You can also hire an advocate at the Halls of Justice to file a petition, which will cost you fifty gold, or you can go back to Sergeant Dunfell with something concrete. If one of your friends holds rank in the Lords' Alliance, Jalester Silvermane can lean on her for you. Dunfell won't take coin, so bring her paper."
 
 > [!qna]**What about Renaer Neverember?**
 >
@@ -228,7 +228,7 @@ The three approaches can be tried in any order. Each member may attempt each app
 
 > [!exploration]**Approach Two: An Advocate**
 >
-> The Hall of Justice has advocates who take Watch petitions for association charges. A member who asks around the Hall's steps and makes a successful DC 14 Intelligence (Investigation) check finds Corvin Hallowell, a Trades Ward advocate with a good record on release petitions. Hallowell wants 50 gp up front and files the petition the next morning. If the members give him the Gralhund Villa account or Orond's confession, he uses it to show the villa violence was Gralhund business, and he takes 30 gp instead.
+> The Halls of Justice has advocates who take Watch petitions for association charges. A member who asks around the Hall's steps and makes a successful DC 14 Intelligence (Investigation) check finds Corvin Hallowell, a Trades Ward advocate with a good record on release petitions. Hallowell wants 50 gp up front and files the petition the next morning. If the members give him the Gralhund Villa account or Orond's confession, he uses it to show the villa violence was Gralhund business, and he takes 30 gp instead.
 >
 > On a success, the petition goes to the Lords' clerks, and the approach adds 1 to the release count. On a failure, the member can't find a competent advocate and loses a day, and the approach adds nothing. Each member who completes this approach, pass or fail, gains 1 Renown once, however many approaches they complete.
 

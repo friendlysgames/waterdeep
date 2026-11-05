@@ -119,9 +119,9 @@ Jalester starts with the introductions, and the table is still the well table, s
 >
 > Jalester reads the list aloud once, and the member may copy it. Each person gives the member exactly what is written here and nothing more.
 >
-> - **Magistrate Barnibus Blastwind**, a magistrate of the Watchful Order of Magists and Protectors, receives the member at the Hall of Justice. He gives a half-hour hearing, reads one document or one piece of physical evidence, and says in writing whether it would stand before a magistrate.
+> - **Magistrate Barnibus Blastwind**, a magistrate of the Watchful Order of Magists and Protectors, receives the member at the Halls of Justice. He gives a half-hour hearing, reads one document or one piece of physical evidence, and says in writing whether it would stand before a magistrate.
 > - **Lord Torlyn Wands**, a wizard of House Wands, receives the member at his rooms. He writes a letter of standing in the Wands name, and it opens one noble door: a dinner, a servants' entrance or a steward's ear.
-> - **Saeth Cromley**, a retired Watch sergeant with a network in the Dock Ward, sits in the Hall of Justice sergeants' room in the afternoons and receives the member there. He names a former watchman in any one ward whom the member chooses, and that man talks about the ward's recent trouble for an hour.
+> - **Saeth Cromley**, a retired Watch sergeant with a network in the Dock Ward, sits in the Halls of Justice sergeants' room in the afternoons and receives the member there. He names a former watchman in any one ward whom the member chooses, and that man talks about the ward's recent trouble for an hour.
 > - **Valetta**, a priest of Gond at the House of Inspired Hands, receives the member at the House. She examines one device or mechanism, or repairs one, within 3 days, and she works on no magic items.
 > - **Factor Tessaly Brightwater**, a factor of the Caravan Court, receives the member at her counting-house. She opens one shipment manifest, which shows the cargo, the consignee and the route for the last tenday.
 > - **Guildmaster Piers Hobb**, who leads the Dock Ward haulers' guild, receives the member at the guildhouse on the quay. He gives one favor: he holds a cart, a wagon or a quay hand for one day, or he tells what moved at night.

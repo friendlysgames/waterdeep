@@ -100,7 +100,7 @@ Jalester's informant gives a district and no door. The party needs the feed stor
 
 > [!exploration]**Saeth Cromley**
 >
-> Saeth Cromley, a retired Watch sergeant who still works cases with Magistrate Blastwind, spends his afternoons in the sergeants' room at the Hall of Justice. Any character who buys him a drink for 2 gp and describes the shooter gets the answers below, and no check is needed.
+> Saeth Cromley, a retired Watch sergeant who still works cases with Magistrate Blastwind, spends his afternoons in the sergeants' room at the Halls of Justice. Any character who buys him a drink for 2 gp and describes the shooter gets the answers below, and no check is needed.
 
 > [!social]**The Retired Sergeant**
 >
