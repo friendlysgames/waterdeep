@@ -858,3 +858,87 @@ The companion pages are fixed in this session's companion pass: the Factions Gui
 - r10: Clerk-Sergeant Ottel Raske, Benn Hallow, Tilda Frayne, and introductions Brightwater, Hobb, Dray and Ostler.
 - r50: Telsa Corlis.
 - The "Ha-" cluster (Halek, Hallan, Halvard, Harko, Harsk, Hadrin, Hollen, Hemmet, Hallow) is easy to confuse at the table.
+
+## Order of the Gauntlet event rewrite (Session 45)
+
+All 13 Order of the Gauntlet folders were rewritten on the DR/BD/Harper/FG/EE/LA model, from the first-commit drafts (restored in place first, PR #157). Merged in PRs #157–#179, with fixes from the consistency rulings. The reference docs are:
+- `docs/plans/order-of-the-gauntlet-plan.md`;
+- `docs/plans/order-of-the-gauntlet-conversion-brief.md`;
+- `docs/plans/order-of-the-gauntlet-mechanics-reference.md`;
+- `docs/plans/order-of-the-gauntlet-consistency-rulings.md`.
+
+The companion pages are fixed: the Factions Guide `05`, the organization page `04`, Savra's and Valdra's Notable Figures pages, the Players' and GM guides' Order rows, the Trollskull ev-04 Order row and manor guide pages, arc-e/g/i/j lines, the Cassalanters guide, the Bregan D'aerthe Wazoo Affair lines, the lore page, and the Seffia, Kelso and Saeth pages. The phantom Kelso Splinter-intel notes (the old line `:762` here and Enclave M3 design notes `:28`) were deleted.
+
+### 1. Structure docs and unconverted quests (readers still to wire)
+- **Faction Outposts (arc-e)**
+  - Reads **Splinter Intel Reported** and **Pell's Debt Held** (M1), and should add a Pell beat in Scene 2 (arc-e has none).
+  - Reads **Manshoon Named**, which it writes for the Order gate.
+  - :117, :201 and :301 still say "Trade Ward"; the Order folders say "Trades Ward".
+  - The chandler's cellar is a fifth independent path to the Aveen Street shrine (changed at :249 only).
+- **Xanathar's Lair (arc-f)**: Savra waits outside the entrance and fights if called (r10 "Savra at the lairs"). arc-f:37 still describes a Renown-10 perk with no event behind it. The lair should read **Imp Captured** only as a casing detail.
+- **Cassalanter Villa (arc-g)**
+  - Reads, each "if not run": **Imp Captured**, **Forged Record Secured**, **Shrine Destroyed**, **Cassalanters Alerted**, **Cassalanter Register Filed**, **Savra's Past Known**, **Cult Funding Linked**.
+  - The Siamorphe symbol now comes from the M5 chaplain, or r10 as a fallback (arc-g:41, :137 and the crypt page fixed).
+  - r10's dossier gives a casing aid: Advantage on the first Investigation check to place the ground-floor rooms. The villa conversion needs an orientation check or the stated fallback.
+  - The villa result is read by M6's four-row table (Contract Destroyed, Cooperative/Gold Payment, Sacrifice Happened, Cassalanters Exposed; default Exposed).
+- **Kolat Towers (arc-i)**: Sir Ardin Vellacott, a Knight of the Waterdeep chapter, has the 25 HP of lay on hands (arc-i:39 fixed). The Kolat Towers result gates M6.
+- **Vault of Dragons (arc-j)**
+  - :49 now reads **Order Recognized** with an "if not run" default (a plain Halls of Justice letter, no testimony), and a three-heist party plays M6 only after the Vault.
+  - It reads **Tithe Paid**, **Tithe Paid After Asking** and **Quietly Reassigned** at the Final Approach. The companion edit made these tone-only; confirm or replace them when the Vault is converted.
+  - :258 has a Savra aftermath line that still needs a pass.
+  - It should not expect a Vault branch from r50 (cut).
+- **Dungeon of the Mad Mage**: reads **Righteous Hand Reached** and **Undermountain Mandate Accepted** (one aid call per level; the Knights are a reserve from round 3). r50 seeds: level 15 Fidelio (Persuasion DC 20), level 21 Fazrian, level 22 the Shadowdusk former Torm paladins, level 23 Aryx.
+- **Unaddressed threads**: Soluun's elf murders (arc-h:39, DR m01) and the Gondafrey thread (arc-i:39, :91, :271) have no Order event; edit the arc docs or leave them with no Order link.
+
+### 2. Other factions' finished events
+- **BD m02 (Wazoo Affair)** now names the household secretary Corisande Brisenne and reads **Black Viper Source Noted** (fixed). BD m02's "verify before print" note must stay consistent with M2's already-printed story.
+- **Doom Raiders M3** reads **Mediation Path Taken** and cancels Kelso's debt (kept). DR M3 has Kelso paying Marda's rent in silver; Savra's source line says the Shunners detest silver. The silver line was dropped from M3; check at the DR pass.
+- **Doom Raiders and Lords' Alliance** files used "Hall of Justice"; changed to "Halls of Justice" in 11 files.
+
+### 3. Act I–II, guides and setting
+- **Fireball! ev-01:194** (Mirt: "a quiet word from someone at Cassalanter Villa") and `arc-c-fireball.md:98` ("quietly extracted their agents from Watch custody") do not match; s02 Trigger B reads Mirt's version.
+- **Gralhund Villa**: the Order hook states "the Cassalanters sent agents" as fact; unchecked against the Gralhund events.
+- **Notable Figures**: Savra is now Lawful Good Human (no "Tethyrian"), three years in the Howling Hatred. Valdra is unofficial and in no event. Seffia (the windmill recluse) is out of M2; her page uses "Cultist Fanatic". Other pages (Arn, arc-g and more) may still use "Cult Fanatic"; not grepped.
+- **Appendix B:402** states that the Cassalanters are Asmodeus cultists; the guides keep suspicion only.
+- **`waterdeep-lore.md:36`** now puts the Halls of Justice in the Castle Ward.
+- **Design notes** for M2, M3, s02 and M5 still say the "neutral good / Tethyrian" fix is open; it is done.
+- **s02 `design-notes.md`** still uses the singular "Hall of Justice".
+
+### 4. Decisions and readings to confirm
+- **M2**: a Night 1 raven catch uses DC 14 (the watcher state is not yet set); Calm/Wary/Hunting set DC 14/16/18 from Night 2.
+- **M3**: Kelso's Debt has three uses only (Location, Distraction, Silence); no free lycanthropy cure; Pell's list is free if **Pell's Debt Held**, otherwise 100 gp.
+- **M4**: the Location use walks the party into Jessa Marrick's yard during her vat hours with no key and no check; a chalk sigil ends the devils at round 8.
+- **M5**: the ledger's last line is "a bare date"; the Cassalanters are alerted by a leaking Watch clerk (DC 15 Perception to stop it), not a Masked Lord; the lease is six years old and the ledger entry dated 1488 DR only roughly lines up.
+- **M6**: the Horned Devil with Savra and both Priests fighting (3 PCs Bloody, 4 and 5 Standard Bruising); Hard variants for Exposed or villa not run, Lockdown, or the party opening the fight.
+- **r03**: Savra's one operation per quest is for the whole party; she refuses when the opposition outnumbers the party plus her by more than 2 to 1 (the guide says "a fight that would get everyone killed").
+- **r10**: the dossier dates start in 1480 DR; Savra stays outside Xanathar's Lair and fights if called.
+- **r25**: the +1 weapon table is unverified (see section 6).
+- **r50**: four cities honor the writ (Waterdeep, Neverwinter, Baldur's Gate, Daggerford), Luskan refuses; the Mobilization counts once per party per quest.
+
+### 5. Invented names to accept or replace
+- 00: Father Corwen Thale, Brother Haldric Wence (door-warden), Chapel of the Steadfast Shield (Dock Ward).
+- s01: Brother Hallin Ostrel (the clerk, "B.H.O.").
+- s02: the vigil chapel with Tyr's carved right hand.
+- M1: Mudlark Square, Marn Ottery, Ketta Rowe, Brisa Hollin, Dov Marl, Sef Bannon, Kirrel Stoat, the Leaning Cask, Halbrook and Daughters, Gresh Tarn's Ropewalk Crew, Old Veddic's Wet Nets, Harlan Crake, Maudry Quist.
+- M2: Corisande Brisenne (the secretary), Registrar Orlan Telk, the Immar Street cab stand, Ilmeth Waevlur, the Steaming Anchor, Barrow's Wick, Lamp Street, the forged "Petra Cassalanter" born 1452 DR.
+- M3: Wynne Cobb.
+- M4: Orna Fesk, Tamm Fesk, Harrow Dene, Jessa Marrick, Sister Ilvane Haste, Garrowby Cartage.
+- M5: Chaplain Ysolt Brannock, Ennick Vause, the Aveen Street Almsgivers' Society, Orros.
+- M6: Magistrate Odrane Belcast, Sister Merrin Oakhollow, "the bailiff".
+- r03: Brother Osric Wickersham.
+- r10: Neris Tavell, Perrin Shaldrake, Sir Ardin Vellacott.
+- r25: Dame Rhosyn Cullane, Sir Anselm Greave, Sir Merrick Tollwood, and the dead Vindicators Sir Aldous Fenmore, Dame Joslyn Wardle and Sir Hadrian Strake.
+- r50: Isaldric Veyne (high priest of Tyr), Sir Aldwin Dunhallow (the prior Righteous Hand holder), Dame Corra Whitlock, Sir Gavric Ferrel, Sir Alaric Pryor, Mother Odessa Leck, Father Nolan Bray, Brother Teodric Naal.
+- The "Brother" cluster (Haldric, Hallin, Osric, Teodric) is easy to confuse at the table.
+
+### 6. Unverified rules and sources
+- **No generic +1 weapon, armor or shield** in `items.json`; the r25 nine-weapon table is treated as Uncommon from named items.
+- **Howling Hatred ranks** (Initiate, Windwalker, Windcaller) have no source file (*Princes of the Apocalypse* is not in `sources/`).
+- **Spell text not read**: *Hold Person*, *Gentle Repose* and *Locate Object* (partly), the *Spirit Guardians* wording and the *Hallow* "can't willingly enter" text used in M6, the *Resurrection* revival-penalty rules, and the class-list rule for reading a scroll of *Banishment*.
+- **Zone of Truth** is not on the 2024 Priest block, so M4 uses a Halls scroll or a party cleric (a 2nd-level scroll save is DC 13).
+- The mechanics reference named the armory keeper "Dunstan Wickersham"; the events use Osric (Dunstan Rook exists in BD s01).
+
+### 7. Voice residue
+- Table-heavy pages (the Factions Guide `05`, organization page `04`) sit at 10–18% short sentences from table cells and list items.
+- M5 narration averages 21.9 words, and the M2/M3 GM averages sit at 16–17.
+- No voice profiles exist for the recurring Order minor NPCs (Brother Hallin, Brother Haldric, Father Corwen, Gysheer, Pell, Gaxly, Ilmeth, Kelso's crew, Rhosyn Cullane, Isaldric Veyne).
