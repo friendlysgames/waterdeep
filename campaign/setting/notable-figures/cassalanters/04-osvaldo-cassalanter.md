@@ -11,7 +11,7 @@
 
 **Resonance.** Osvaldo should inspire horror when the party realizes what the howling is; genuine sorrow for the boy in the portrait with the ceremonial rapier; and cold terror when the chain devil is encountered in the flesh.
 
-**Emotions.** Osvaldo most often feels the chain devil's rage against confinement, fragmented grief for a life that ended at fifteen, desperate pleading when Ammalia visits, a hatred of his own condition that sometimes expresses as hatred of everything, and the specific anguish of knowing his siblings are scheduled for the same fate.
+**Emotions.** Osvaldo most often feels the chain devil's rage against confinement, fragmented grief for a life that ended at nine, desperate pleading when Ammalia visits, a hatred of his own condition that sometimes expresses as hatred of everything, and the specific anguish of knowing his siblings are scheduled for the same fate.
 
 **Motivations.** The chain devil wants to escape, attack, and destroy anything that enters the attic. The fragmented self wants to understand what happened to him and make contact with the siblings he cannot see.
 

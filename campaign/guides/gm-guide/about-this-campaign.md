@@ -67,7 +67,7 @@ The [Players' Guide: About This Campaign](../players-guide/about-this-campaign.m
 
 The deaths in this campaign land because the players don't see them coming. A named NPC dies at the opening of **Fireball!**; the loss hits precisely because **Trollskull Alley** gave them time to care. Don't foreshadow it. Don't soften it. The Session Zero script names the content categories without naming the moments. That's all the warning the table needs.
 
-Play the Cassalanters as people who love their children. Victoro and Ammalia made a catastrophic bargain before their eldest son was old enough to understand what his parents were doing to him. Osvaldo was fifteen. He is a chain devil now, chained in a soundproofed attic, and his mother still comes to read to him. Their love is real; their plan is monstrous; the gap between those two things is the whole point. When players understand it, some will want to help, some will want to stop the poison and let the twins die, and some will be unable to choose. All of those responses are valid. Play them straight: sympathetic motives, genuine evil, no winking at the camera. Trust the players to sit with the discomfort.
+Play the Cassalanters as people who love their children. Victoro and Ammalia made a catastrophic bargain, and Asmodeus took their eldest son the day they signed. Osvaldo was nine. He is a chain devil now, chained in a soundproofed attic, and his mother still comes to read to him. Their love is real; their plan is monstrous; the gap between those two things is the whole point. When players understand it, some will want to help, some will want to stop the poison and let the twins die, and some will be unable to choose. All of those responses are valid. Play them straight: sympathetic motives, genuine evil, no winking at the camera. Trust the players to sit with the discomfort.
 
 The vault gold's resolution is deliberately left open. Half a million dragons embezzled from the city end up in your players' hands, and every path out of that vault has a credible moral case behind it. Let the session end with the characters standing among the gold, making a decision that says something about who they've become over a year of play. Don't nudge them toward any one answer.
 
@@ -75,7 +75,7 @@ The vault gold's resolution is deliberately left open. Half a million dragons em
 > None of these are disclosed at session zero. They work because players don't see them coming.
 > - A named NPC the party bonded with in **Trollskull Alley** dies at the opening of **Fireball!**
 > - The Cassalanters made an infernal bargain that is irreversible. Their motives are comprehensible. Both things are true, and that is intentional.
-> - Osvaldo Cassalanter was a person before he was a chain devil. He was fifteen. His mother still visits him.
+> - Osvaldo Cassalanter was a person before he was a chain devil. He was nine when he was taken. His mother still visits him.
 > - The vault gold's moral status is deliberately ambiguous. Don't telegraph a correct resolution.
 
 ## Cross-References

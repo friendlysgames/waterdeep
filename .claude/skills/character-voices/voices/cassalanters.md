@@ -67,7 +67,7 @@ The public voice is not a fake. Their charity is real, and their warmth toward t
 ### Osvaldo Cassalanter
 *A chain devil howling in the attic, with a boy's voice buried somewhere underneath.*
 
-- **Sound:** A metallic, grinding roar. Now and then a fifteen-year-old boy's cracked voice breaks through, and then it's gone.
+- **Sound:** A metallic, grinding roar. Now and then a twelve-year-old boy's cracked voice breaks through, and then it's gone.
 - **Sentence shape:** The devil: snarls and fragments. The boy: broken pleading, half-sentences, names.
 - **Word choice:** The devil: hunger and chains. The boy: "Mother", "please", his siblings' names, and questions about what happened to him.
 - **Swearing:** *Punctuation · Colourful · Tirade.* The devil is a torrent of filth at anyone who enters ("Come closer, you soft little cunt, let me wrap you in iron!"). The boy never swears. Tirade (the devil): "Come closer, you soft, bleating, chain-dodging, gutless, fucking meat, come closer so I can wrap you in iron and listen to you break!"
