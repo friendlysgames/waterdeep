@@ -20,11 +20,12 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 
 - "Xanathar" is a title that predates any individual beholder. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
 - The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After a century of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
+- The current Xanathar is a beholder named Kirusekai (name supplied by the user; it appears in no published source or earlier campaign file).
 - The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source. [research]
 - Skullport is the Guild's undercity foundation: the shadow city three levels below Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
 - The Yawning Portal well drops to Undermountain Level 1, and Skullport lies three levels down.
 - The Dock Ward is the Guild's primary surface territory.
-- Where the history leaves the Guild: an empire built on fear, run by a paranoid intelligence, served by people who survive precisely because they have no ambitions.
+- Where the history leaves the Guild: an empire built on fear, run by a paranoid intelligence, served by people who survive by hiding their ambitions behind obedience.
 
 ## Personality Phases
 
@@ -51,9 +52,14 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 | Jarlaxle | Unknown | Not yet identified as a player; the beholder is paranoid about anything operating in its territory without its knowledge |
 | The PCs | Threat | Irritants → active problem → something requiring Xanathar's personal attention (rarely good for anyone) |
 
+**Relationship notes**
+- Nihiloor has been psionically dominating Xanathar for four months, so some decisions attributed to Xanathar are Nihiloor's (**Xanathar's Lair** structure notes, and the **Xanathar's Guild** organization page).
+- Xanathar suspects Nar'l of disloyalty and has set a grell to kill him at the first proof. It does not know he reports to Bregan D'aerthe or to Jarlaxle.
+- The war with Manshoon is an active, low-level street war in the Dock Ward, grinding on with the kill order that has failed twice.
+
 ## Goals
 
-- **Acquire the Vault of Dragons.** It wants the gold as proof of supremacy, not primarily for wealth. Method: recover the Stone, use the three Eyes, open the vault. Contingency: pursue whoever has it. Connects to **Xanathar's Lair**.
+- **Acquire the Vault of Dragons.** It wants the gold as proof of supremacy and of its rule over the underworld, not primarily for wealth. It knows the Stone is the key to the vault, but not what the Eye in Sylgar's bowl does, that there are three Eyes, or where the vault is. Method: recover the Stone and whatever it unlocks. Contingency: pursue whoever has it. Connects to **Xanathar's Lair**.
 - **Eliminate Manshoon.** The splinter cell incursion is a personal insult. Method: Guild response teams targeting Zhentarim operations. There is no contingency, and this failure is part of what drives Phase 3.
 - **Maintain the Undercity.** Skullport supply lines fund the Guild. Method: Ahmaergo manages this operationally. Connects to Mad Mage integration.
 
