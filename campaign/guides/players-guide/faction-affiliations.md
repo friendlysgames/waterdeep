@@ -82,18 +82,19 @@ The Enclave rewards actions that protect Waterdeep's natural balance: stopping a
 
 ### Order of the Gauntlet
 
-The Order rewards active pursuit of evil, especially diabolism, and cooperation with Waterdeep's religious institutions.
+The Order rewards active pursuit of evil, especially diabolism, and cooperation with Waterdeep's religious institutions. It never suspends or dismisses a member. A member who ignores its request for a tithe is simply no longer offered its extras.
 
 - Produce solid physical evidence of diabolism and deliver it to your contact. Evidence that can be acted on officially matters more than any confession.
-- Destroy or banish a devil or demon (CR 3 or higher) during Grand Game operations; rescue a mind-controlled citizen; or tithe at least 25% of a major hoard to a worthy cause, unprompted.
+- Destroy or banish a devil or demon (CR 3 or higher) during Grand Game operations, or rescue a mind-controlled citizen.
+- Pay 25% of your own share of a haul of 1,000 gp or more to a worthy cause. You gain 1 Renown, once, if you pay before Savra comes to ask on the second day after the haul reaches Waterdeep.
 
 | Rank | Renown | Benefits |
 |------|--------|---------|
-| **Chevall** | 1 | Recognized member. Your contact vouches for your good faith to any temple of Tyr, Helm, or Torm in Waterdeep, granting access to healing services at cost. Temples of the Triad provide free healing (*Cure Wounds* at 1st level, once per day per temple) and a place to sleep. |
-| **Marcheon** | 3 | Your contact accompanies the party on one dangerous mission per quest as a combat ally. Borrow one mundane weapon or armor from the Order's armory per tenday at no cost. Temple priests share information about suspicious parishioners, unusual spiritual activity, and known fiendish signs in their parishes. |
-| **Whitehawk** | 10 | The Order conducts surveillance on one named suspect or location per quest, reporting findings within three days. A *potion of healing* and a *potion of greater healing* before each major operation. One Uncommon magic item from the Armor, Ring, or Weapon category, selected for effectiveness against fiends and undead. Temple spellcasters of the Triad cast spells of 2nd level or lower for you at no cost. Your contact shares the Order's dossier on their primary investigation target: years of compiled observation, a partial location layout, and documentation of suspected criminal activity. |
-| **Vindicator** | 25 | The Order formally investigates a named individual or organization for diabolism, with findings admissible to the Lords of Waterdeep. Three paladins or clerics available as a Strike Team for one operation per quest. Your contact presents you with a *+1 weapon* as a permanent gift. |
-| **Righteous Hand** | 50 | Six knights and two priests support one major operation. Savra convenes the Order's senior paladins and clerics for a formal investiture at the Halls of Justice; you are knighted, the title recognized by allied temples and civic authorities across the Sword Coast. If you or an ally dies in service against a fiend or undead, the Order funds one Resurrection at no cost, once. |
+| **Chevall** | 1 | Recognized member. Your contact vouches for your good faith to any temple of Tyr, Helm, or Torm in Waterdeep. Each temple casts *Cure Wounds* on you for free, once per day, and gives you a bed for the night. |
+| **Marcheon** | 3 | Your contact, Savra, fights beside the whole party in one operation per quest. Borrow one mundane weapon or armor from the Order's armory per tenday at no cost. Once per tenday, a priest at one of three temples briefs you on a pattern of trouble in the city. |
+| **Whitehawk** | 10 | Once per quest, two Order Scouts watch a suspect or location you name for three days and give you a written report. Before each quest's main operation you receive a *Potion of Healing* and a *Potion of Greater Healing*. You choose one Uncommon magic item from a table of four. Temple priests of the Triad cast spells of 2nd level or lower for you at no cost. Your contact also gives you the Order's dossier on the family it has watched longest. |
+| **Vindicator** | 25 | Bring a written exhibit that a magistrate would read, and the Order opens an inquiry into one named person or group and reports in two tendays. Three Knights of the Waterdeep chapter fight beside the party in one operation per quest. You choose a *+1 weapon* from the Order's cache and keep it. |
+| **Righteous Hand** | 50 | Six Knights and two Priests support one major operation per quest. The high priest of Tyr invests you at the Halls of Justice, and your knighthood is recognized by temples and civic authorities along the Sword Coast. The Order pays for one casting of *Resurrection* (7th level) on you or an ally, once. Your contact also offers you the Undermountain Mandate, which you may accept or decline. |
 
 ### Force Grey
 
