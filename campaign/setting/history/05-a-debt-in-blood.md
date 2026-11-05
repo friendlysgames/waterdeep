@@ -14,7 +14,7 @@
 
 **Keywords:** Cassalanters, Victoro Cassalanter, Ammalia Cassalanter, Osvaldo Cassalanter, Terenzio and Elzerina, Asmodeus, soul pact, Founders' Day
 
-**Span:** About 1489 DR to 1492 DR, three years. The pact was signed and Osvaldo taken three years before the campaign opens on Ches 1, 1492 DR. The start year is arithmetic from "three years", not a sourced year.
+**Span:** 1489 DR to 1492 DR, three years. The published adventure says only "three years ago"; the year 1489 DR comes from the Forgotten Realms Wiki and from the Alexandrian timeline, which dates Neverember's deposition to 1489 DR. The campaign opens on Ches 1, 1492 DR.
 
 **Other Names:** The Cassalanter Bargain; the Soul Pact. These are GM names taken from the old era block and the guides. No in-world name is sourced. `[research]`
 
@@ -124,13 +124,25 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 
 > **[GM]**
 >
+> #### GM Notes
+> - **Timeline.** 1489 DR: Neverember is deposed, the family is on the verge of bankruptcy, the pact is signed and Osvaldo is taken. The deposition year is sourced; the pact year is the same arithmetic as "three years ago", and the wiki states it as 1489 DR.
+> - 1483 DR: Terenzio and Elzerina are born on Flamerule 11. This is derived from their ninth birthday on Flamerule 11, 1492 DR and is stated by no source.
+> - Ches 1, 1492 DR: the campaign opens. Osvaldo is held in the attic, room C24.
+> - Flamerule 1, 1492 DR: Founders' Day, the feast and Ammalia's operational window. The day is in the published adventure and the year is in the Alexandrian timeline.
+> - Flamerule 11, 1492 DR: the twins' ninth birthday and the contract's due date, "ten days after Founders' Day" in the published adventure.
+
+> **[GM]**
+>
 > #### Draft Notes
 > - **Research:** Other Names (The Cassalanter Bargain, the Soul Pact) are GM names from the old era block and the guides. No in-world name is sourced.
 > - **Research:** Volo's aside (the optional `~Volo` quote in What the Cassalanters Built). Keep it or cut it at the prose pass. It is an anecdote of this page alone, with no secret and no error in it, and nothing else in the campaign depends on his dinners. Confirm that Volo may have dined at the villa.
-> - **Research:** Dated timeline, held back from the page body because every year is arithmetic from "three years" and no source gives one. If a source fixes the years, a dated Timeline can return. The derived dates are: Terenzio and Elzerina born Flamerule 11, 1483 DR (from their ninth birthday on Flamerule 11, 1492 DR); the pact signed and Osvaldo, fifteen, taken about 1489 DR; the campaign opens Ches 1, 1492 DR with Osvaldo eighteen and held in the attic, room C24; Founders' Day on Flamerule 1, 1492 DR is Ammalia's feast and operational window; the twins' ninth birthday on Flamerule 11, 1492 DR is the contract's due date.
-> - **Research:** The Alexandrian file `Cassalanters, their tragic backtstory, and Endgame setup.docx` was not readable in this session, and the Forgotten Realms Wiki was blocked. Either could add Era 5 facts.
+> - **Research:** The Timeline dates are partly derived. The pact year (1489 DR) is wiki-stated arithmetic from "three years"; the twins' birth year (1483 DR) is arithmetic from their ninth birthday. No source gives either independently. The cult's founding, the temple's conversion and when each member joined are unsourced.
+> - **Research:** The Alexandrian author's Cassalanter backstory and the Forgotten Realms Wiki were read in Session 47. They fix only 1492 DR and "one tenday after Founders' Day"; neither gives a pact year of its own or Osvaldo's age at the taking.
 > - **Conflicts:** Outpost purpose (inline `[review]` in What the Cassalanters Built). This page says the outposts gather gold and ritual components and the Vault covers the shortfall. The soul-coin design remains in `villains/cassalanters.md` lines 38 and 39, `grand-game-in-play.md` lines 53 and 67, `setting/grand-game.md` line 34 and the Cassalanter content of `arc-e`.
-> - **Conflicts:** The link from Neverember's embezzlement to the family's near bankruptcy is campaign-invented (`arc-g` line 11). The published adventure gives the near bankruptcy and the three-year-old disappearance, not the cause.
+> - **Conflicts:** The link from Neverember's embezzlement to the family's near bankruptcy is not in the published adventure, which gives the near bankruptcy and the disappearance but no cause. The Alexandrian author's backstory supports it ("bad investments combined with Dagult's embezzlements"), so it is a remix source and not only a campaign invention (`arc-g` line 11).
+> - **Conflicts:** Osvaldo's age (fifteen then, eighteen now) has no external source and sits against two. The published adventure lists a recently painted portrait of "twelve-year-old Osvaldo" (`adventure-wdh.json` line 20330), and the Alexandrian author writes that he was "already 9" when taken. The campaign pages (`gm-guide/about-this-campaign.md` line 78, `08-osvaldos-prison.md` line 21, `arc-g` line 205) and **Asmodeus** use fifteen and eighteen. This page keeps fifteen and eighteen until the user rules.
+> - **Conflicts:** The Alexandrian files put the poisoning feast on Tarsakh 9 or 10 and the forfeit on Tarsakh 11 (`10. Lair Cassalanter Villa.pdf` p.79, `29. Addendum` p.225). The published adventure and this campaign use Flamerule 1 and Flamerule 11, and these win.
+> - **Conflicts:** The published adventure says both that the pact was "three years ago" (lines 18294, 18403) and that Ammalia and Victoro signed "when they were young" (line 31715). This page follows "three years ago".
 > - **Conflicts:** Stale values in other files that this page overrides: `history.md` lines 43, 46 and 48 (timing, Osvaldo's age and room, price), and `04-osvaldo-cassalanter.md` line 26 ("or" for "and").
 > - **Conflicts:** Settled in this pass against the published adventure and the newest pages: timing, Osvaldo's age and room, motive, price, deadline, devotion and the age of the house. No numbered conflicts remain.
 > - **Routed facts:** The Founders' Day and Flamerule 11 dates belong on **Founders' Day** in Timekeeping and the Festival Calendar. Osvaldo's room and visiting pattern belong in the **Osvaldo Cassalanter** page and the villa location journal, where room C24 is keyed.
