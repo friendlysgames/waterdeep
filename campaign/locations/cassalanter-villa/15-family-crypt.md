@@ -12,7 +12,7 @@ A4a is a smaller antechamber at the far end of A4, separated by an open arch. On
 
 **Three Specters (A4).** Rise from the floor when a living creature enters the chamber. Attack without hesitation. Combat statistics: standard specters.
 
-**Pacifying the specters:** Present a Siamorphe holy symbol (available from Savra Belabranta in Scene 1). The specters halt, withdraw back into the floor, and become inert for the remainder of the encounter. They do not emerge again unless the symbol is removed from the chamber.
+**Pacifying the specters:** Present a Siamorphe holy symbol (from the Order's chaplain at the end of Order of the Gauntlet Mission 5, or from Savra Belabranta at Order of the Gauntlet r10). The specters halt, withdraw back into the floor, and become inert for the remainder of the encounter. They do not emerge again unless the symbol is removed from the chamber.
 
 Without the symbol: the three specters must be fought to proceed to A4a. They cannot follow into A4a — the arch functions as a threshold they will not cross.
 

@@ -16,7 +16,7 @@ The two windows from the source, lunch and after hours, change who is watching a
 
 ## The Desk and the Black Viper Note
 
-The source's desk note puts Gaxly's Black Viper source at "anonymous, Tethyrian, well-dressed". That matches Seffia Naelryke, the Cassalanter household operative who planted the story that **The Black Viper Investigation** later has the Order of the Gauntlet unpick. Nevercott has no reason to know this, and the note is a loose thread here and a clue elsewhere. **Black Viper Source Noted** is set so that the Gauntlet mission, once converted, can read it.
+The source's desk note puts Gaxly's Black Viper source at "anonymous, Tethyrian, well-dressed". That matches the household secretary Corisande Brisenne, who planted the story that **The Black Viper Investigation** has the Order of the Gauntlet unpick. Nevercott has no reason to know this, and the note is a loose thread here and a clue there. **Black Viper Source Noted** is read by that mission as Advantage on the first layer.
 
 ## Nevercott
 
