@@ -20,7 +20,7 @@ The chalk sigil at the alley mouth is new. It gives the fight the non-combat rou
 
 ## Invented Names and Open Items
 
-- **Orna Fesk**, **Tamm Fesk** and **Harrow Dene** (the three residents), **Jessa Marrick** (the dyer), **Pim** (her boy) and **Sister Ilvane Haste** (the bench priest) are invented, and a search of `campaign/` found no collision. **Garrowby Cartage** is invented and has no match either. Gysheer has no voice profile and is voiced from the event text, formal and without swearing in front of strangers.
+- **Orna Fesk**, **Tamm Fesk** and **Harrow Dene** (the three residents), **Jessa Marrick** (the dyer), **Pip** (her boy) and **Sister Ilvane Haste** (the bench priest) are invented, and a search of `campaign/` found no collision. **Garrowby Cartage** is invented and has no match either. Gysheer has no voice profile and is voiced from the event text, formal and without swearing in front of strangers.
 - **Brother Hallin Ostrel**, **Brother Haldric Wence** and the east annex come from **The Tithe** and the First Meeting. The Halls of Justice stands in the Castle Ward.
 - **The cellar door.** The receipt and day-book say "Aveen Street, cellar door", and the yard door is "three knocks". **The Shrine on Aveen Street** must match, including its chandler's cellar.
 - **Whitehawk** reads the note and the receipt as **Intelligence Shared**, and the rank event expects the debrief to be where a member reaches Renown 10.

@@ -24,7 +24,7 @@ This morning she chalked a sigil at the mouth of an alley off Twelvedog Court an
 
 > [!gamemaster]**What Is Actually True**
 >
-> - Gysheer carries a note sealed with the initials "V.C." and a carter's receipt for nine crates delivered to a cellar door on Aveen Street. The same two papers sit in her room on Crispin Street, so the address survives even if she escapes.
+> - Gysheer carries a note sealed with the initials "V.C." and a carter's receipt for nine crates delivered to a cellar door on Aveen Street. Her room on Crispin Street holds the day-book and the receipt copies, so the address survives even if she escapes. The sealed note is not duplicated.
 > - The crates hold black candles, rock salt, iron filings and lamp oil. The Order does not know what they are for, and Gysheer knows only that they feed a rite.
 > - Savra suspects the Cassalanters and cannot prove it. She names no family in this mission until a document or a sworn answer does.
 > - A chalk sigil at the alley mouth holds the devils to the court. Wiping it sends the survivors back, and the working lapses at the end of round 8 whatever the party does.

@@ -125,7 +125,7 @@ Savra speaks to the members in the east annex once Hallin has closed the ledger.
 >
 > She turns from the window and looks at each of you in turn before she goes on.
 >
-> > "You aren't the Order, so what you do with what you know is your own business, and I can't send you. Bring me paper, in a hand a magistrate can read, and I will know what to do with it."
+> > "You aren't knights of the Order, so what you do with what you know is your own business, and I can't send you. Bring me paper, in a hand a magistrate can read, and I will know what to do with it."
 
 > [!qna]**Why can't you go in yourself?**
 >
@@ -173,7 +173,7 @@ If the party wants the room, it stands on Crispin Street, two blocks from Twelve
 >
 > - **Persuasion:** A character who tells Jessa that her lodger is in the Halls' cells can make a **DC 13 Charisma (Persuasion)** check. On a success Jessa hands over the key at once, because she wants to protect her rent.
 > - **Coin:** Any character who offers 5 gp, or pays eleven days' rent in advance, gets the key with no check.
-> - **Kelso's Debt:** If **Kelso's Debt** is marked and **Kelso's Debt Spent** is not, the party can give a day's notice. Pim, the dyer's boy and a cousin of one of the Shunners, then brings the key at dawn the next day, and the party marks **Kelso's Debt Spent** as **The Shard Shunners** describes.
+> - **Kelso's Debt:** If **Kelso's Debt** is marked and **Kelso's Debt Spent** is not, the party can spend it on the Location use. Kelso names Gysheer as the lodger and gives the hours Jessa spends at her vats. The party walks into the room in those hours with no key and no check, and marks **Kelso's Debt Spent** as **The Shard Shunners** describes.
 > - **On a failure:** Jessa says the rent is the only thing she cares about. A second offer of coin works without a check.
 
 > [!readaloud]
@@ -274,13 +274,13 @@ Savra's report ends the mission, and later events read what the party found, so 
 > [!gamemaster]**Event Outcomes**
 >
 > - **Shrine Address Recovered** — mark when a member tells Savra the Aveen Street address by any lead. Read by **The Shrine on Aveen Street**, whose Brief reads it, and by the Whitehawk rank event.
-> - **Intelligence Shared** — mark when the members give Savra the sealed note, the cartage receipt and any papers from the Crispin Street room. Read by **The Shrine on Aveen Street** and by the Whitehawk rank event.
+> - **Intelligence Shared** — mark when the members give Savra the sealed note, the cartage receipt and any papers from the Crispin Street room. Read by **The Shrine on Aveen Street** and by the Whitehawk and Vindicator rank events, where the note and receipt serve as the exhibit for an inquiry into Gysheer Omfreys.
 >
 > This Event also reads **Imp Captured**, **Planted Story Exposed**, **Kelso's Debt**, **Kelso's Debt Spent**, **Quietly Reassigned** and **Order of the Gauntlet Joined**.
 
 > [!gamemaster]**Next Steps**
 >
-> **The Shrine on Aveen Street** becomes available when an individual Order of the Gauntlet member reaches Renown 10 and 6th level. Its Brief arrives as a note at the Halls of Justice. The Whitehawk rank event occurs when a member first reaches Renown 10, which usually happens at this debrief. This faction mission awards no Milestone Points.
+> **The Shrine on Aveen Street** becomes available when an individual Order of the Gauntlet member reaches Renown 10 and 6th level. Its Brief is given at the Halls of Justice, and a member marked **Quietly Reassigned** receives it as a note at the manor. The Whitehawk rank event occurs when a member first reaches Renown 10, which usually happens at this debrief. This faction mission awards no Milestone Points.
 
 ## Overview
 

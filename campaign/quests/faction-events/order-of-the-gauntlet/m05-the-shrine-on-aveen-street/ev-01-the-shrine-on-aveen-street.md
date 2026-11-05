@@ -18,7 +18,7 @@
 >
 > - Aveen Street runs along the line between the Field Ward and the North Ward. Orros's chandlery stands on the Field Ward side, and its cellar is a back way into the Asmodean shrine described in the Cassalanters Factions Guide.
 > - A service passage runs under the street from the cellar to the shrine house on the North Ward side. This Event keys the two rooms nearest the cellar and leaves the other six areas to the Guide.
-> - The Aveen Street Almsgivers' Society is a charity with a name and no members. It leased the cellar and the passage from Orros two years ago, and a courier brings the rent every quarter.
+> - The Aveen Street Almsgivers' Society is a charity with a name and no members. It leased the cellar and the passage from Orros six years ago, and a courier brings the rent every quarter.
 > - The cellar door stands in the yard behind the chandlery, and callers knock on it three times. Garrowby Cartage carried nine crates there nine days before the court, holding black tallow candles, rock salt, iron filings and lamp oil.
 > - The household posted the Bearded Devil after Gysheer Omfreys was taken in Twelvedog Court. The caretakers in the stair room are Cultist Fanatics in plain coats, and the circle summons two Imps every ninth day.
 > - The ledger on the stone table is in Victoro Cassalanter's hand. It holds twelve dated entries, each with a date, a name or initials and a place. It gives no terms and no reasons.
@@ -38,7 +38,7 @@ A Priest Acolyte in a plain grey surcoat brings the note to each qualifying memb
 >
 > > I have an address in the Field Ward and a reason I cannot walk through the door myself. Come to the east annex of the Halls of Justice at the third bell past noon tomorrow, and ask Brother Haldric for me. S.B.
 
-A member marked **Quietly Reassigned** receives the same note from Brother Hallin Ostrel, signed "B.H.O." If **Shrine Address Recovered** is not marked, Savra says that she found the cellar herself in the Halls' lease rolls. The Brief is otherwise the same. If **Intelligence Shared** is marked, she lays Gysheer's sealed note and the Garrowby Cartage receipt beside the map. She points out that the receipt shows crates carried to a cellar door in a yard on Aveen Street. Read the following aloud when the members reach the annex:
+A member marked **Quietly Reassigned** receives the same note from Brother Hallin Ostrel, signed "B.H.O." and carried by a Priest Acolyte. If **Shrine Address Recovered** is not marked, Savra says that she found the cellar herself in the Halls' lease rolls. The Brief is otherwise the same. If **Intelligence Shared** is marked, she lays Gysheer's sealed note and the Garrowby Cartage receipt beside the map. She points out that the receipt shows crates carried to a cellar door in a yard on Aveen Street. Read the following aloud when the members reach the annex:
 
 > [!readaloud]
 >
@@ -114,13 +114,13 @@ Orros's chandlery stands on the Field Ward side of Aveen Street, and it is open 
 
 > [!qna]**The cellar?**
 >
-> > "I let it two years ago to a charity, the Aveen Street Almsgivers' Society. They paid a year in advance, and a courier brings the rent every quarter. I haven't been down in fourteen months, and I never asked what they do there. I do hope that's all right."
+> > "I let it six years ago to a charity, the Aveen Street Almsgivers' Society. They paid a year in advance, and a courier brings the rent every quarter. I haven't been down in fourteen months, and I never asked what they do there. I do hope that's all right."
 
 > [!qna]**The Society?**
 >
 > Orros glances at the door before he answers.
 >
-> > "I've never met a soul from it. The courier wears a good coat, and the lease is signed with a name I can't read. Somebody knocks three times on the yard door at dusk, and a dray came with crates nine days ago. Is something wrong?"
+> > "I've never met a soul from it. The courier wears a good coat, and the lease is signed with a name I can't read. Somebody knocks three times on the yard door at dusk, and a dray came with crates a tenday ago. Is something wrong?"
 
 > [!exploration]**Three Ways to the Cellar**
 >
@@ -258,7 +258,7 @@ The ledger is a heavy book in good leather, ruled in three columns for a date, a
 > - **Eight:** 14 Flamerule, 1489 DR. H.S., the salt warehouse a third time.
 > - **Nine:** 3 Uktar, 1489 DR. M.A., the chapel yard again.
 > - **Ten:** Last winter. Gysheer Omfreys, a room above a dyer's shop on Crispin Street.
-> - **Eleven:** A few tendays ago. Gysheer Omfreys, Twelvedog Court.
+> - **Eleven:** Days ago. Gysheer Omfreys, Twelvedog Court.
 > - **Twelve:** 1 Flamerule of this year, with no name and no place.
 
 > [!exploration]**Three Ways to Read the Book**
@@ -279,7 +279,7 @@ Savra expects the members in the east annex within a day of the ledger leaving t
 >
 > Savra takes the ledger in both hands and turns to the last page before she says anything. She reads the final line twice and then closes the book and sets it flat on the table.
 >
-> > "Thank you. I compared the hand with his signature, and it's his. I don't know what these twelve lines add up to, and I won't guess in front of a magistrate. The last line is a bare date, and the date is Founders' Day. I noticed that, and I won't build on it yet."
+> > "Thank you. I compared the hand with his signature, and it's his. I don't know what these twelve lines add up to, and I won't guess in front of a magistrate. The last line is a bare date. I noticed that, and I won't build on it yet."
 
 If the members hand it over more than a day after taking it, mark **Ledger Recovered** and read or paraphrase the following instead:
 
@@ -287,7 +287,7 @@ If the members hand it over more than a day after taking it, mark **Ledger Recov
 >
 > Savra takes the ledger and checks the spine and the seal before she opens it, and she does not smile.
 >
-> > "You took your time, and a lawyer will make something of that. I'll file it anyway. The hand is his, and the last line is Founders' Day. I'll tell you plainly that I'd rather have had it yesterday."
+> > "You took your time, and a lawyer will make something of that. I'll file it anyway. The hand is his, and the last line is a bare date. I'll tell you plainly that I'd rather have had it yesterday."
 
 If the party recovered only the fair copy from the strongbox, mark **Ledger Recovered** and read or paraphrase the following instead:
 
@@ -379,7 +379,7 @@ Savra's debrief ends the mission, and the four outcomes below are read by later 
 >
 > - **Ledger Recovered** — mark when the ledger or its fair copy leaves the cellar in the party's hands, whether or not Savra receives it. Read by **The Writ and the Weight**, **Whitehawk**, **Vindicator** (as the inquiry's written exhibit) and **Vault of Dragons** (unconverted). It is a protected name.
 > - **Shrine Destroyed** — mark when the circle is broken and the rite goods are burned. Read by **Cassalanter Villa** (unconverted), if it has not run, as one fewer foothold.
-> - **Cassalanter Register Filed** — mark when the clerk stamps the page. Read by **Vindicator**, **The Writ and the Weight** and **Vault of Dragons** (unconverted).
+> - **Cassalanter Register Filed** — mark when the clerk stamps the page. Read by **Whitehawk**, **Vindicator**, **The Writ and the Weight** and **Vault of Dragons** (unconverted).
 > - **Cassalanters Alerted** — mark when the Imp escapes, or when the filing is entered without the party stopping the clerk. Read by **The Writ and the Weight** and **Cassalanter Villa** (unconverted), as one escalation tier toward the party.
 >
 > This Event also reads **Shrine Address Recovered** and **Intelligence Shared**, which **Spined Devils in Twelvedog Court** marks, for the Brief. It reads **Kelso's Debt** and **Kelso's Debt Spent**, which **The Shard Shunners** marks, for the Shunners' favour. It reads **Quietly Reassigned**, which **The Tithe** marks, for the note.
