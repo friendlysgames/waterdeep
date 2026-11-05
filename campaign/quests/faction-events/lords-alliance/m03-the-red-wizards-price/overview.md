@@ -18,7 +18,7 @@ At noon Jalester Silvermane comes to Trollskull Manor himself and refuses a chai
 
 ## Background
 
-Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Thayan File Obtained** in **The Exile's Return**, Jalester also holds the sealed Hall of Justice file compiled from Harko's questioning. It lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic. Without it, that route needs a **DC 15 Charisma (Persuasion)** check with the sergeant.
+Esloon Bezant is a tattooed Thayan exile who has lived in the Dock Ward for five years and sells escorts and protection with a crew of five. He has never said why he left Thay. The Splinter wants his crew for a strike on the Watch checkpoint on Fillet Lane, which will clear a window for a cart bound for Baldur's Gate. If the party marked **Thayan File Obtained** in **The Exile's Return**, Jalester also holds the sealed Halls of Justice file compiled from Harko's questioning. It lowers the DC of one approach by 2 and makes **Hand Esloon to the Watch** automatic. Without it, that route needs a **DC 15 Charisma (Persuasion)** check with the sergeant.
 
 > [!gamemaster]**What Is Actually True**
 >

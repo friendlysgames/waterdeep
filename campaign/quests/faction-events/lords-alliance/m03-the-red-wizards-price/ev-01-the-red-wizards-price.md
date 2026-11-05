@@ -81,11 +81,11 @@ If **Thayan File Obtained** is marked, Jalester hands the members a sealed folde
 >
 > Jalester takes a sealed folder from inside his doublet and sets it on the nearest table.
 >
-> > "This came out of the Watch's questioning of Harko. It names Esloon and some of the people around him, and it carries the Hall of Justice seal. Use it if it helps you, and please bring the folder back afterward."
+> > "This came out of the Watch's questioning of Harko. It names Esloon and some of the people around him, and it carries the Halls of Justice seal. Use it if it helps you, and please bring the folder back afterward."
 
 > [!gamemaster]**The Thayan File**
 >
-> The folder holds the sealed Hall of Justice file on Esloon, compiled from the Watch's questioning of Harko: his associates and the Thayan embassy's interest in him. It makes **Hand Esloon to the Watch** automatic, and it lowers the DC of one other check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
+> The folder holds the sealed Halls of Justice file on Esloon, compiled from the Watch's questioning of Harko: his associates and the Thayan embassy's interest in him. It makes **Hand Esloon to the Watch** automatic, and it lowers the DC of one other check in this Event by 2. A character names that check before rolling, and the reduction can be used once.
 
 When the members agree, Jalester writes the hour in his notebook, says "Understood." and leaves for the alley, and the afternoon belongs to the party. A member who refuses the brief, or abandons it past the handshake without trying anything, is what **Suspension and Dismissal** reads. A member who tries and fails has done what the brief asked.
 
@@ -250,11 +250,11 @@ The spellbook holds the spells in the **Mage** stat block, and a wizard in the p
 
 ### Hand Esloon to the Watch
 
-Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. With **Thayan File Obtained**, this approach is automatic, because the sealed Hall of Justice file gives Pike a reason to hold Esloon. Without the file, a character must win Pike over with a check.
+Sergeant Deneth Pike walks the Dock Street patrol with two **Guard** fighters. He passes the Skewered Dragon's corner at seven bells and again at half past. With **Thayan File Obtained**, this approach is automatic, because the sealed Halls of Justice file gives Pike a reason to hold Esloon. Without the file, a character must win Pike over with a check.
 
 > [!exploration]**The Sergeant and the File**
 >
-> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Hall of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character with no file makes a **DC 15 Charisma (Persuasion)** check to persuade him that a Thayan exile meeting a Splinter broker is worth holding, and on a success he acts in the same way.
+> A character who meets Pike at seven bells and gives him the file needs no check. Pike reads the Halls of Justice seal and the list of associates, enters the tavern and reaches the back room ten minutes later. A character with no file makes a **DC 15 Charisma (Persuasion)** check to persuade him that a Thayan exile meeting a Splinter broker is worth holding, and on a success he acts in the same way.
 >
 > - **On a failure:** Pike says the Watch cannot detain a man on a stranger's word, and the party uses another approach.
 > - **A late approach:** A party that reaches Pike after a quarter past seven, with or without the file, finds the patrol reaching the back room at half past seven, as the handshake happens. The deal concludes, and Esloon is detained anyway.

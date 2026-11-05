@@ -33,7 +33,8 @@
 - Most major guilds have at least one faction operative embedded in leadership
 
 *Religion*
-- Major temples in Sea Ward: Tyr (Justice; City Watch captain is a worshiper), Tymora (Luck; popular with adventurers and criminals alike), Selûne (Moon; widely attended)
+- Major temples in Sea Ward: Tymora (Luck; popular with adventurers and criminals alike), Selûne (Moon; widely attended)
+- Halls of Justice, the temple of Tyr, in the Castle Ward (Justice; City Watch captain is a worshiper)
 - House of Inspired Hands: a Gondar workshop-temple, not a standard place of worship; **Fireball!** connects here
 - Hidden: the Cassalanters maintain an illegal temple to Asmodeus beneath their villa; the Code Legal offense alone is capital
 
