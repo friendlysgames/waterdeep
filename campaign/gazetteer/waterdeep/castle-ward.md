@@ -26,7 +26,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - **Influences:** The city flag's blue and purple, a gold griffon mascot for the Griffon Cavalry, and champions drawn from the Guard, the Navy and the Cavalry.
 - **Primary Peoples:** [research]
 - **Languages:** [research]
-- **Religion:** Temple of the Seldarine (all elven gods), Spires of the Morning (Lathander), Font of Knowledge (Oghma), Halls of Justice (Tyr). Tymora's Tower of Luck is listed here by one Waterdeep Dragon Heist table and placed in the Sea Ward elsewhere. See the temples entry under Landmarks. No dominant faith is sourced. [research]
+- **Religion:** Temple of the Seldarine (all elven gods), Spires of the Morning (Lathander), Font of Knowledge (Oghma), Halls of Justice (Tyr). Tymora's Tower of Luck is listed here by one Waterdeep Dragon Heist table and placed in the Sea Ward elsewhere. See the temples bullets under Culture in Life in the Ward. No dominant faith is sourced. [research]
 - **Governance:** The Open Lord rules from the Palace, and the Masked Lords hear petitioners in its audience chamber. Magisters sit in the ward's courts. The City Guard garrisons the barracks, and a pair of Watch operatives patrols.
 - **Architecture:** Castle Waterdeep on its bluff, with towers hundreds of feet high. A Palace smaller than the castle and far more comfortable. Blackstaff Tower, a squat black blot. Stone and slate in the Yawning Portal, pale yellow brick in Yellowspire, and a marble-pillared hall (the Cynosure) at the edge of the Market.
 - **Economy:** The Market, solicitors, publishers and business offices, courts, and the Palace coin exchange. Guild law applies as everywhere in the city.
@@ -45,15 +45,11 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Durnan owns it and charges standard prices. Mattrim "Threestrings" Mereg plays here, Bonnie pours, Davil Starsong keeps a room, and a Bregan D'aerthe observer, Ryvarra, watches the well from the balcony.
 - Hook: the campaign opens here with a brawl, a troll out of the well and Volo's job offer. Patrons sing a bawdy song when someone goes down, and a faction contact is usually at a table.
 
-**Palace of Waterdeep** — Seat of government
+**Palace of Waterdeep** — Seat of government, with Ahghairon's Tower
 - Also called Piergeiron's Palace, and still called that by elderly and long-lived citizens. The Open Lord has ruled from here for well over a century.
 - Its halls host officials, guildmasters and nobles. The audience chamber holds Ahghairon's ancient and humble throne. Exchequers here exchange coin free, and the Code Legal is kept here.
-- Hook: Lords' Alliance audiences and the Open Lord's summons take place here.
-
-**Ahghairon's Tower** — Tomb
-- The tomb of the first Open Lord stands in the Palace courtyard behind an invisible force cage. The floating bones of a would-be thief hang outside it.
-- On Ahghairon's Day (Eleasis 1) commoners leave violets around it.
-- Hook: the dragonward originates beneath it.
+- Ahghairon's Tower, the tomb of the first Open Lord, stands in the Palace courtyard behind an invisible force cage. The floating bones of a would-be thief hang outside it, and on Ahghairon's Day (Eleasis 1) commoners leave violets around it.
+- Hook: Lords' Alliance audiences and the Open Lord's summons take place here, and the dragonward originates beneath Ahghairon's Tower.
 
 **Castle Waterdeep** — Fortress
 - A redoubt of last defense on a bluff above the city. It is not the seat of government. Scheduled executions happen behind its walls.
@@ -69,40 +65,34 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - The Order keeps a clerk's office in the east annex, and Brother Haldric Wence there arranges *Speak with Dead* on bodies the Watch holds. Saeth Cromley drinks in the sergeants' room most afternoons.
 - Hook: Savra Belabranta meets Order members in the east annex.
 
-**Mirt's Mansion** — Noble house
-- Once a fortress-like, glowering tower near the Naval Harbor, softened by new architecture since its owner returned. Ward placement is contested: the Dragon Heist ward chapter lists it here, and the campaign's Harper events put Mirt's dinner house in the Sea Ward behind the Naval Harbor. [research]
-- Hook: Mirt and Durnan went down the Well together in the old days, and Mirt names Harper ranks over dinner at his house.
-
-**The Market** — Public square
+**The Market** — Public square, with the God Catcher
 - The largest market square of any city in the North, with public privies around it. The Cynosure, a marble-pillared hall built as a temple to Ao and now rented for events, stands at its edge.
 - Two walking statues stand near it: the God Catcher, and the Great Drunkard, which stopped on its approach. The campaign puts the Great Drunkard on Bazaar Street and does not name its ward. [research]
-- Hook: festival processions converge here, and Ammalia Cassalanter runs a charity booth near the Castle Ward entrance to it.
-
-**The God Catcher** — Walking statue and tenement
-- A sunken statue of a muscular man with a floating stone sphere above its raised palm. A tenement of the same name climbs its chest and shoulders.
-- The landlord, Aundra Blackcloak, lives in the sphere. She is rarely seen and pays fair coin.
-- Hook: Skeemo's potion drop to the lady in the purple cloak happens beside it.
+- The God Catcher is a sunken statue of a muscular man with a floating stone sphere above its raised palm. A tenement of the same name climbs its chest and shoulders, and the landlord, Aundra Blackcloak, lives in the sphere. She is rarely seen and pays fair coin.
+- Hook: festival processions converge on the Market, and Ammalia Cassalanter runs a charity booth near the Castle Ward entrance to it. Skeemo's potion drop to the lady in the purple cloak happens beside the God Catcher.
 
 **Yellowspire** — Banite tower
-- A tower of pale yellow brick, locally called the House of Tyranny by those inside. Amath Seccent and four followers hold it. Black handprints cover every interior surface.
+- A tower of pale yellow brick, locally called the House of Tyranny by those inside. Black handprints cover every interior surface.
+- Amath Seccent (Lawful Evil, Human, she/her), a well-mannered woman in common clothes, keeps the tower with four followers, and visitors find them at ease with the handprints.
 - Hook: a teleportation circle in the basement links to Kolat Towers. **Faction Outposts** and the Doom Raiders heist both target it.
 
+> **[GM]**
+>
+> #### GM Notes
+> - Amath is a priest of Bane allied with Manshoon's Zhentarim, and she keeps the teleportation circle to Kolat Towers. She is the partner of Agorn Fuoco and holds the Stone of Golorr.
+
 **Terasse Estate** — Rowhouse and healing clinic
-- A rowhouse clinic on Elsambul's Lane that asks no questions about injuries. Keln Trigos runs it.
+- A rowhouse clinic on Elsambul's Lane that asks no questions about injuries. Keln Trigos (Neutral Evil, Tiefling, he/him) runs it and asks no questions about how his patients were hurt.
 - Hook: a trapdoor under the kitchen rug leads to an underground dock and on to Skullport. Gladiators pass through on their way to Xanathar's lair.
+
+> **[GM]**
+>
+> #### GM Notes
+> - Keln keeps the Terasse outpost for Xanathar's Guild. He holds two passphrases: one opens the clinic's gladiator transport route, and the other opens the route to the Lair.
 
 **Lightsinger Theater** — Opera house
 - A high-end opera house. Mirt receives Harper recruits in Private Box C at intermission.
 - Hook: a paper bird delivers the ticket, and a Delzorin Street tailor has been told to expect the party.
-
-**Asmagh's Alley** — Street
-- Children hop across it on one foot. Asmagh, an apothecary, poisoned patients and buried up to eighty of them upright beneath its wide flagstones, over a century ago.
-- Hook: a rhyme about hopping on their heads goes with the crossing. Dragon Heist points readers to Warrior's Way and the Street of Silver for the same sound, but no source places them in a ward. [research]
-
-**Temples of the Castle Ward** — Temples
-- The Temple of the Seldarine for all elven gods. The Spires of the Morning for Lathander, one of the city's most beautiful temples. The Font of Knowledge for Oghma, with the library. The Halls of Justice for Tyr (see above).
-- Tymora's Tower of Luck is placed in the Castle Ward by the Dragon Heist temple table and in the Sea Ward by its Sea Ward text and by the campaign's own Waterdeep outline, so it is not a Castle Ward temple here. Selûne's Tower of the Moon is Sea Ward in both. The Temple of Helm is placed in the Castle Ward by one campaign guide and in the Southern Ward by the Dragon Heist table. [research]
-- Hook: the Temple of the Seldarine and the Spires carry no campaign hook yet. [research]
 
 ## Characters of Interest
 
@@ -119,6 +109,8 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 **Mirt (Chaotic Good, Illuskan Human, he/him)**
 - A moneylender of great girth known as "the Old Wolf", who spends days on politics and nights on drink. He knows architecture well and will talk about it.
 - Laeral's closest advisor. His personal loans to Harper members leave them owing him a favor.
+- His mansion was once a fortress-like, glowering tower near the Naval Harbor, softened by new architecture since he returned. Its ward is contested: the Dragon Heist ward chapter lists it in the Castle Ward, and the campaign's Harper events put Mirt's dinner house in the Sea Ward behind the Naval Harbor. [research]
+- Hook: Mirt and Durnan went down the Well together in the old days, and Mirt names Harper ranks over dinner at his house.
 
 > **[GM]**
 >
@@ -147,10 +139,6 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - Retired City Watch sergeant. He sits in the Halls of Justice sergeants' room in the afternoons, and a visitor who buys him a drink finds him easy to talk to.
 - He helps Barnibus Blastwind with unusual crimes by translating between the magistrate and the common folk.
 
-**Barnibus Blastwind (Lawful Good, Illuskan Human, he/him)**
-- A prickly, secretive magistrate of the Watchful Order of Magists and Protectors who investigates crimes that involve magic. He confides in Saeth Cromley and almost no one else.
-- A lifelong bachelor, he spends his free days in his grandmother's library on his estate in the Sea Ward.
-
 **Savra Belabranta (Lawful Good, Human, she/her)**
 - Head of the Order of the Gauntlet's Waterdeep chapter, from a clerk's office in the Halls of Justice, with about a dozen Knights and Priests under her. She comes from the noble Belabranta family, who breed griffons for the Cavalry.
 - She is blunt, has a hunter's eye for infernal work, and holds no patience for people who manage her.
@@ -160,22 +148,6 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 > #### GM Notes
 > - She spent three years in the Howling Hatred cult and left about three years ago. She tells this to anyone who asks her sincerely, and what she did there only to a member she trusts.
 
-**Amath Seccent (Lawful Evil, Human, she/her)**
-- A well-mannered woman in common clothes who keeps Yellowspire, an old tower in the ward. Visitors find black handprints on every wall and her followers at ease with it.
-
-> **[GM]**
->
-> #### GM Notes
-> - Amath is a priest of Bane allied with Manshoon's Zhentarim, and she keeps the teleportation circle to Kolat Towers. She is the partner of Agorn Fuoco and holds the Stone of Golorr.
-
-**Keln Trigos (Neutral Evil, Tiefling, he/him)**
-- Runs a healing clinic at Terasse Estate on Elsambul's Lane. He asks no questions about how his patients were hurt.
-
-> **[GM]**
->
-> #### GM Notes
-> - Keln is the Xanathar Guild's keeper of the Terasse outpost. He keeps two passphrases: one opens the clinic's gladiator transport route, and the other opens the route to the Lair.
-
 ## Life in the Ward
 
 **Governing metaphor:** The Castle Ward is the city's front desk, where Waterdeep's business is received, stamped and passed along, and where the real offices sit out of sight behind it.
@@ -183,9 +155,12 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 ### Culture
 - Few people sleep here. The ward fills with clerks, soldiers and petitioners by day and empties after dark.
 - Ward pride is quiet. Its colors are blue and purple, its mascot is a gold griffon, and its race champions come from the Guard, the Navy and the Cavalry. Its cheering crowds are far smaller than those of other wards.
-- Asmagh's Alley is the ward's folk tradition: children hop across it on one foot to the rhyme.
+- Asmagh's Alley is the ward's folk tradition, and children hop across it on one foot to a rhyme. Asmagh, an apothecary, poisoned patients and buried up to eighty of them upright beneath its wide flagstones, over a century ago. The rhyme is about hopping on their heads. Dragon Heist points readers to Warrior's Way and the Street of Silver for the same sound, but no source places them in a ward. [research]
 - Oghma's priests at the Font of Knowledge teach reading free. The Dungsweepers' Guild keeps the streets clean at every hour, and the Market's public privies serve the crowds.
 - The Yawning Portal is the ward's social center for adventurers. Almost every faction First Meeting runs through its taproom.
+- Temples of the ward: the Temple of the Seldarine for all elven gods, the Spires of the Morning for Lathander, one of the city's most beautiful temples, the Font of Knowledge for Oghma, with the library, and the Halls of Justice for Tyr (see Landmarks).
+- Tymora's Tower of Luck is placed in the Castle Ward by the Dragon Heist temple table and in the Sea Ward by its Sea Ward text and by the campaign's own Waterdeep outline, so it is not a Castle Ward temple here. Selûne's Tower of the Moon is Sea Ward in both. The Temple of Helm is placed in the Castle Ward by one campaign guide and in the Southern Ward by the Dragon Heist table. [research]
+- The Temple of the Seldarine and the Spires carry no campaign hook yet. [research]
 
 ### Defense
 - The City Guard garrisons the barracks and guards the walls and civic buildings. The Watch patrols the streets, and only a pair of Watch operatives walks the Castle Ward at a time, against eight to twelve in the Dock Ward.
@@ -194,6 +169,7 @@ The Castle Ward is the part of Waterdeep that runs the rest of it, a ward of cou
 - The City Navy docks in the Great Harbor. Castle Waterdeep is the redoubt of last defense and the site of the custody wing.
 - The campaign outline names the Castle Ward as the City Watch's headquarters. The Dragon Heist text names no headquarters. The site is [research], and so is the garrison's size.
 - Arcane casters register with the city and are urged to join the Watchful Order, headed by the Blackstaff.
+- Barnibus Blastwind (Lawful Good, Illuskan Human, he/him) is a prickly, secretive magistrate of the Watchful Order of Magists and Protectors who investigates crimes that involve magic. He confides in Saeth Cromley and almost no one else. A lifelong bachelor, he spends his free days in his grandmother's library on his estate in the Sea Ward, and **Fireball!** puts him in charge of the fireball scene.
 
 ### Politics
 - The Open Lord sits on the throne that Ahghairon first used, in the Palace audience chamber. Masked Lords can overturn any magister's ruling, but one is rarely present when a petitioner needs it.
@@ -251,9 +227,46 @@ Sensory anchors for the GM to build the passage from (not written out):
 - **Waterdeep**: city overview and the other wards.
 - **Sea Ward**: the Tower of Luck, Mirt's dinner house and Barnibus Blastwind's estate may belong there.
 - **The Open Lord and the Masked Lords**: governance of the ward.
-- **Durnan**, **Mirt**, **Laeral Silverhand**, **Vajra Safahr**, **Saeth Cromley**, **Barnibus Blastwind**, **Savra Belabranta**, **Amath Seccent**, **Keln Trigos**: the characters of interest.
+- **Durnan**, **Mirt**, **Laeral Silverhand**, **Vajra Safahr**, **Saeth Cromley**, **Savra Belabranta**: the characters of interest.
+- **Barnibus Blastwind**: the Watchful Order magistrate who works with Saeth Cromley (see Defense under Life in the Ward).
+- **Amath Seccent**: keeper of Yellowspire (see the Yellowspire entry).
+- **Keln Trigos**: keeper of Terasse Estate (see the Terasse Estate entry).
 - **Xanathar Sewer Hideout**: the lair reached by the Castle Ward sewer stair.
-- **Xanathar**: the guild behind Terasse Estate and the stair.
-- **Manshoon**: Yellowspire and its circle to Kolat Towers.
+- **Xanathar's Guild**: the guild behind Terasse Estate and the stair.
+- **Xanathar**: the lair's occupant and the master of the guild.
+- **Manshoon's Zhentarim**: Yellowspire and its circle to Kolat Towers.
+- **Kolat Towers**: the quest entered through the Yellowspire circle.
 - **Emerald Enclave**: the water-table thread.
 - **The Dragonward and Walking Statues**: the dragonward and the statues in the ward.
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Research:** Population has no figure in any source (needs the Waterdeep gazetteer or wiki ward entry).
+> - **Research:** Lifestyle for the ward is unsourced (wiki or Waterdeep gazetteer).
+> - **Research:** Primary Peoples and Languages are unsourced (wiki or Waterdeep gazetteer).
+> - **Research:** The ward's dominant faith is unsourced (wiki or a Waterdeep gazetteer).
+> - **Research:** Ward of the Great Drunkard statue. The campaign puts it on Bazaar Street without naming a ward (Waterdeep gazetteer or wiki).
+> - **Research:** Ward of Warrior's Way and the Street of Silver, which Dragon Heist names for the Asmagh's Alley rhyme (Waterdeep gazetteer or wiki street list).
+> - **Research:** Campaign hooks for the Temple of the Seldarine and the Spires of the Morning (campaign decision; no source supplies one).
+> - **Research:** Site of the City Watch headquarters and the garrison's size (wiki or Waterdeep gazetteer).
+> - **Research:** Which Masked Lords keep homes in the ward and who runs the Palace day to day (wiki or Waterdeep gazetteer).
+> - **Research:** Rents and prices in the ward (wiki or Waterdeep gazetteer).
+> - **Research:** Which of the six walking statues stand in the ward. Only the Honorable Knight, the God Catcher and the Griffon are tied to it by the sources, and the other three are unplaced (Dragon Heist walking-statues text, then wiki).
+> - **Conflicts:** Mirt's Mansion. The Dragon Heist Castle Ward section places it near the Naval Harbor in the Castle Ward; another Dragon Heist passage and the campaign's Harper events place Mirt's dinner house in the Sea Ward.
+> - **Conflicts:** Tower of Luck. The Dragon Heist temple table lists it in the Castle Ward; the Dragon Heist Sea Ward text and `waterdeep-lore.md` place it in the Sea Ward. `waterdeep-lore.md` also puts the Selûne temple in the Sea Ward.
+> - **Conflicts:** Temple of Helm. `player-factions-overview.md` (line 99) places it in the Castle Ward; the Dragon Heist temple table places Helm's Hall in the Southern Ward.
+> - **Conflicts:** City Watch headquarters and the Masked Lords' seat. `waterdeep-lore.md` (line 14) puts both in the ward; Dragon Heist Ch.9 names neither.
+> - **Conflicts:** Dragonward. `waterdeep-lore.md` (line 50) says it bars dragons without the Open Lord's permission; Dragon Heist says dragons are physically unable to enter unless touched by the dragonstaff of Ahghairon. The page keeps the campaign wording.
+> - **Conflicts:** Walking-statue size. `waterdeep-lore.md` (line 51) calls all eight 90 feet tall and dormant; Dragon Heist gives 90 feet only for the original statue and nine stories for the Honorable Knight.
+> - **Conflicts:** Barnibus Blastwind. His Notable Figure page calls him a magistrate of the Watchful Order; `waterdeep-lore.md` (lines 27-28) and `grand-game.md` (line 26) differ from Dragon Heist, which describes a Watchful Order investigator with a Sea Ward estate.
+> - **Conflicts:** Yellowspire's ward. `SOURCE_GUIDE.md` (line 214) places it in the Trades Ward; Dragon Heist and the campaign place it in the Castle Ward, as this page does.
+> - **Conflicts:** Campaign-only rulings with no Dragon Heist support, kept as the user decided: Laeral as a moon elf, chaotic good, and Durnan as a Masked Lord (Dragon Heist names Mirt).
+> - **Routed facts:** Ahghairon's Tower (demoted landmark) moved into the Palace of Waterdeep entry.
+> - **Routed facts:** The God Catcher (demoted landmark) moved into the Market entry, with Skeemo's potion drop folded into the Market hook.
+> - **Routed facts:** Mirt's Mansion (demoted landmark) moved into Mirt's character entry, with its contested-ward [research] tag.
+> - **Routed facts:** Asmagh's Alley (demoted landmark) moved into Culture under Life in the Ward.
+> - **Routed facts:** Temples of the Castle Ward (demoted landmark), including the Tower of Luck, Selûne and Helm notes and the missing hooks, moved into Culture under Life in the Ward.
+> - **Routed facts:** Amath Seccent (demoted character) moved into the Yellowspire entry, with her GM Notes as a callout there.
+> - **Routed facts:** Keln Trigos (demoted character) moved into the Terasse Estate entry, with his GM Notes as a callout there.
+> - **Routed facts:** Barnibus Blastwind (demoted character) moved into Defense under Life in the Ward.
