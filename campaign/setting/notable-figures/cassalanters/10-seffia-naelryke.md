@@ -94,3 +94,13 @@ Seffia Naelryke is a Human woman who maintains a decrepit windmill in the Southe
 - **Faction Outposts**: the Converted Windmill outpost.
 - **Cassalanter Villa**: her report and her team's escalation role.
 - **Xanathar's Lair**: where her team competes if the Cassalanters turn hostile.
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Research:** Vaelle Lurval has no Notable Figures page and appears nowhere else in the campaign files (inline tag in Connections). The published adventure ("Left for Dead") is the only source, so a page or a decision to keep her unnamed elsewhere is needed.
+> - **Conflicts:** The Gamemaster's Summary lists Faction Outposts and Cassalanter Villa as her quests, and the Relationships paragraph also names **Sea Maidens Faire**. One of the two lists is incomplete.
+> - **Conflicts:** Who leads when Seffia and Willifort Crowelle work together is unsettled (the "Unresolved" line under Willifort in Connections). Zero-prep needs a named lead.
+> - **Conflicts:** The other "Unresolved" lines in Connections (Arn acting alone when she is out of the room, her plan to repair the failure without telling Victoro, and Vevette holding her visiting card) are open hooks, not settled outcomes. Decide at the prose pass which become fixed events.
+> - **Conflicts:** The Cross-References name the Factions Guide page for her response team. That text is moving to Faction Operations, so retarget the line when the guide pages are removed.
+> - **Routed facts:** Her letter from Lord Cassalanter and her role as field operative already sit on the Cassalanters organization page. Her report in the hidden compartment of Victoro's desk belongs in the villa location journal (Victoro's Office), where it is keyed.

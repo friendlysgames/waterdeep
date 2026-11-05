@@ -106,3 +106,13 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Seffia Naelryke**, **Caladorn Cassalanter** (Notable Figures): the principal household
 - **Vessa** (Notable Figures): Jarlaxle's spy in the family's social circle
 - **Cassalanter Villa**, **Fireball!**, **Faction Outposts** (Quests): where the family appears
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Research:** Doctrine and Rites (Tenets). The cult's hierarchy below the family, its sacraments and its recruiting are unsourced in the campaign files. The FRHoF-based **Asmodeus** page holds candidate material (the Fugue Plane pitch, recruiting through greed and impatience), but a lore source on the Cassalanter cult would settle it.
+> - **Research:** How many children the pact covers (inline tag in the Secret callout). The files disagreed at the time of writing. **A Debt in Blood** settles it as three: Osvaldo, already taken, and the twins. Confirm and drop the tag.
+> - **Conflicts:** The Operations section keeps the original text, which says the pact traded "their children's souls" and then names only the twins. This agrees with the Era page once Osvaldo is counted, but the Operations wording could read as two children.
+> - **Conflicts:** The GM Notes bullet "Who suspects" says the family is "too nice to be this rich and this well-favored". CLAUDE.md, the Era page and the Asmodeus page say "too nice to be this rich and this purebred". Pick one wording at the prose pass.
+> - **Conflicts:** The cross-reference line to the Faction Operations page assumes the guide pages move. Until `guides/factions/11-cassalanters.md` is removed, both copies exist.
+> - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list in Faction Operations. Check that each is stated there as well.

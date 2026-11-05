@@ -95,3 +95,16 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - **Running the Villains**: villain reference tables
 - **Xanathar's Guild** (Factions Guide): response teams, outposts, escalation, revelation list
 - **Xanathar's Guild** (Organizations): who the Guild is
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Research:** How the current Xanathar came to believe it is the original (Background). No source settles it.
+> - **Research:** Zushaxx and Kirukesai were supplied by the user and appear in no published source. Confirm them before they spread to other pages.
+> - **Conflicts:** The Relationships table (kept verbatim) calls Nihiloor a trusted gatherer with unusual autonomy, but the relationship notes say Nihiloor has dominated Xanathar for four months. `arc-f` line 408 says every decision attributed to the beholder was Nihiloor's, which is not yet reflected here. `04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar.
+> - **Conflicts:** The table calls Nar'l "Trusted" and the notes say Xanathar suspects him and has set a grell to kill him at the first proof. Nar'l's tenure also differs by source: one year in the published adventure, three years in `03-narl.md` line 22 and the Guild organization page, and eleven years or months in `arc-f` lines 17 and 169. Stale text remains in `grand-game-in-play.md` line 63, `running-the-villains.md` lines 71 and 73, and `01-xanathar.md` line 27.
+> - **Conflicts:** The Manshoon relationship is an active, low-level street war in the Dock Ward. `running-the-villains.md` line 71 still says "Cold war".
+> - **Conflicts:** The vault motive here is proof of supremacy, and the Guild knows the Stone is the key but not what the Eye does, that there are three, or where the vault is. The Guild organization page line 17 and `arc-j` line 19 ("kept hidden as leverage") disagree. The Alexandrian briefing says "one of Three", and the X12 briefing in **Xanathar's Lair** must omit that line.
+> - **Conflicts:** The Overview and the phase table call Sylgar a goldfish, and the published adventure never uses that word. Check the Alexandrian files before the prose pass.
+> - **Conflicts:** The Cross-References name the Factions Guide page for the Guild. The operations text is moving to Faction Operations, so retarget this line when the guide pages are removed.
+> - **Routed facts:** Zushaxx as the current Xanathar, Kirukesai as a previous one, and the "it" pronoun belong on the **Xanathar** Notable Figure page and the Guild organization page, which still use "he/his" in places.
