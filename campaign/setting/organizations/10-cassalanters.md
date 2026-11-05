@@ -13,7 +13,7 @@
 
 **Purpose:** Gives the GM the Cassalanters as a household and a cult: who they are in public, what they believe, who serves them, and what the family hides. The page keeps lore only. Everything above the Overview is for the GM.
 
-The Cassalanters are a Waterdhavian noble family of banking wealth, three centuries on the noble registry, whose public life is generous charity and whose private business is a contract with Asmodeus.
+The Cassalanters are a Waterdhavian noble family of banking wealth, several generations on the noble registry, whose public life is generous charity and whose private business is a contract with Asmodeus.
 
 ## Tenets
 
@@ -28,9 +28,9 @@ The Cassalanters are a Waterdhavian noble family of banking wealth, three centur
 
 ## Operations
 
-Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bargain. The details vary depending on who is speaking. Years ago, they forged a pact with Asmodeus, trading their children's souls for power and prosperity. Their twins, Terenzio and Elzerina, are eight years old. On their ninth birthday, Flamerule 11, the pact comes due. Founders' Day falls ten days before, on Flamerule 1; that is when the Cassalanters plan to collect the ninety-nine souls.
+Victoro and Ammalia Cassalanter are Waterdeep aristocrats who made a devil's bargain. The details vary depending on who is speaking. Three years ago, they forged a pact with Asmodeus, trading their children's souls for power and prosperity. Their twins, Terenzio and Elzerina, are eight years old. On their ninth birthday, Flamerule 11, the pact comes due. Founders' Day falls ten days before, on Flamerule 1; that is when the Cassalanters plan to collect the ninety-nine souls.
 
-The Cassalanters found a loophole. A ritual can substitute "one shy of a million gold coins" for the children's souls. They have most of the money. They need Neverember's vault to cover the remainder.
+The Cassalanters found a loophole. A ritual can buy out the children's souls for "one shy of a million gold coins" and ninety-nine souls. They hold about half the gold. They need Neverember's vault to cover the remainder.
 
 Everything the Cassalanters tell the PCs about their situation is technically true. The ritual requires the sacrifice. The twins are in danger. The Cassalanters love their children and would do anything to save them. They don't mention that the ritual also requires poisoning 99 people at the Founders' Day feast.
 
@@ -41,7 +41,7 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 - **Victoro Cassalanter** — Half-elf banker and secret priest of Asmodeus, lawful evil. See the **Victoro Cassalanter** page in Notable Figures.
 - **Ammalia Cassalanter** — Human wizard and secret Asmodeus worshipper, lawful evil. See the **Ammalia Cassalanter** page in Notable Figures.
 - **Willifort Crowelle** — Doppelganger butler, neutral. The Cassalanters' doppelganger valet. Presents as an elderly tiefling. Their most trusted operative and most dangerous weapon. Uses disguise to burn bridges, gather intelligence, and when necessary, solve problems permanently. See the **Willifort Crowelle** page in Notable Figures.
-- **Osvaldo Cassalanter** — Human (chain devil), neutral evil (formerly lawful good). The Cassalanters' eldest son, now a **chain devil**, chained in the basement of the Villa. The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
+- **Osvaldo Cassalanter** — Human (chain devil), neutral evil (formerly lawful good). The Cassalanters' eldest son, now a **chain devil**, chained in the soundproofed attic of the Villa (room C24). The pact's first cost. Victoro and Ammalia have told no one. See the **Osvaldo Cassalanter** page in Notable Figures.
 - **Terenzio Cassalanter** — Human child, lawful good. See the **Terenzio Cassalanter** page in Notable Figures.
 - **Elzerina Cassalanter** — Human child, lawful good. See the **Elzerina Cassalanter** page in Notable Figures.
 - **Tissina Khyret** — Tiefling cult fanatic (Asmodeus), lawful evil. See the **Tissina Khyret** page in Notable Figures.
@@ -55,12 +55,12 @@ How the family responds to a party that helps or hinders them is in the **Cassal
 
 ## Overview
 
-The Cassalanters are a noble family of Waterdeep and among the city's most prominent philanthropists. Victoro, a half-elf banker and worshipper of Lathander, and Ammalia, a wizard known for driving a hard bargain and for keeping the most beautiful butterfly garden in Waterdeep, fund temples, orphanages and civic improvements across the city. The family lives in a villa in the Sea Ward and hosts public galas during Waukeentide, and the younger twins, Terenzio and Elzerina, are often seen at play in the gardens. Their eldest son is said to be at school in a faraway city, and more than one Waterdhavian has wondered aloud how a family can be so gracious, so prosperous and so fortunate all at once.
+The Cassalanters are a noble family of Waterdeep and among the city's most prominent philanthropists. Victoro, a half-elf banker and worshipper of Lathander, and Ammalia, a wizard known for driving a hard bargain and for keeping the most beautiful butterfly garden in Waterdeep, fund temples, orphanages and civic improvements across the city. The family lives in a villa in the Sea Ward, is publicly known for its ancestral devotion to Siamorphe, and hosts public galas during Waukeentide, and the younger twins, Terenzio and Elzerina, are often seen at play in the gardens. Their eldest son is said to be at school in a faraway city, and more than one Waterdhavian has wondered aloud how a family can be so gracious, so prosperous and so fortunate all at once.
 
 > **[GM]**
 >
 > #### GM Notes
-> - **Origins:** The Cassalanter name has stood in Waterdeep's noble registry for three centuries. The family had comfortable wealth before any intervention, and the bargain was made from ambition, not desperation.
+> - **Origins:** The Cassalanter name has stood in Waterdeep's noble registry for several generations. Financial ruin was the trigger for the bargain, which was made three years ago, about 1489 DR. The deal also bought power, good health and long life.
 > - **The public face is true:** The family built its charitable reputation, political connections and public warmth in the years since the bargain, and none of it is faked. They became what they presented themselves as while also accumulating what Asmodeus requires.
 > - **Social cover:** Sea Ward dinner parties are intelligence operations, and the Cassalanters' charitable galas are recruitment screens. A charitable hospital serves as the family's front business.
 > - **Chain of command:** Ammalia makes the final calls and Victoro has stopped questioning this. Willifort Crowelle reports to Ammalia on everything that happens in the villa. Seffia Naelryke's response team answers to Lord Cassalanter, and Rella Asp and Ivrala Sorn report to Willifort.
@@ -75,11 +75,11 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 > **[GM]**
 >
 > #### Secret
-> - **The pact:** Victoro and Ammalia traded the souls of their children to Asmodeus for wealth compressed from three generations into one and for political access that normally takes a family centuries to build. They discussed it, understood what they were signing, and signed. [research] The files disagree on when (about twenty years ago in the history, three years ago on the Osvaldo page) and on how many children (three in the history, the twins in this page's Operations).
-> - **Osvaldo:** The eldest son's soul was claimed first, and he is now a chain devil held in a soundproofed attic of the villa. Ammalia visits weekly, sitting outside the shielding circle to read to him while he curses her and weeps. Victoro has not visited in months. Terenzio and Elzerina have been told Osvaldo is at school. [research] The Key Members line above places him in the basement and the history places him in the temple beneath the villa; the Osvaldo page and the villain page place him in the attic.
+> - **The pact:** Victoro and Ammalia traded the souls of their children to Asmodeus for wealth compressed from three generations into one and for political access that normally takes a family centuries to build. They discussed it, understood what they were signing, and signed, three years ago. [research] The files disagree on how many children (three in the history, the twins in this page's Operations).
+> - **Osvaldo:** The eldest son's soul was claimed first, when he was fifteen, and he is now eighteen and a chain devil held in the soundproofed attic of the villa, room C24, never the basement or the temple. Ammalia visits weekly, sitting in the room outside the pentagram to read to him while he curses her and weeps. Victoro has not visited in months. Willifort knows. Two imps are always present. Terenzio and Elzerina have been told Osvaldo is at school.
 > - **The feast:** On Founders' Day, Flamerule 1, the family plans to poison 99 guests at a feast to collect the ninety-nine souls. Ammalia is the architect of the feast and Jandar Chergoba, the villa's head chef, is the person who sees that the poison is distributed correctly.
-> - **The deadline:** The pact comes due on Flamerule 11, the twins' ninth birthday. Founders' Day on Flamerule 1 is Ammalia's own calculation, based on her reading of the children's soul erosion, and it does not appear in the contract. She believes she has until then.
-> - **The loophole:** A ritual can substitute gold for the children's souls, and the family needs Neverember's vault to pay it. [research] The files give the sum as "one shy of a million gold coins" (the Operations text and the Victoro page) and as 500,000 gp (the villain page and the Osvaldo page), and the soul count as 99 soul coins with about 40 collected over eight years (the history and the villain page).
+> - **The deadline:** The pact comes due on Flamerule 11, the twins' ninth birthday. Founders' Day on Flamerule 1 is the feast and Ammalia's real deadline. It is her operational window, chosen for the civic cover and for the time left to verify the terms, and it does not appear in the contract.
+> - **The loophole:** A ritual can buy out the children's souls. The contract requires 999,999 gp and ninety-nine souls, both, and the souls are the guests poisoned at the Founders' Day feast. The family holds about 500,000 gp of its own, and the Vault's 500,000 gp is the shortfall.
 
 **Tone:** Warm and civil in the public lines, grave and exact in the Secret. The narrator never gloats over the family and does not excuse them either.
 
@@ -89,7 +89,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 
 - `campaign/setting/organizations/10-cassalanters.md` (previous version): Gamemaster's Summary, Operations, Key Members and Overview, moved or kept
 - `campaign/setting/villains/cassalanters.md`: Personality Phases, Relationships, Goals, Harpers watching, Willifort and the temple
-- `campaign/setting/history.md`, Era 5: three centuries on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
+- `campaign/setting/history.md`, Era 5: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
 - `campaign/setting/notable-figures/cassalanters/`: all fourteen pages, for public personas, motivations and the service-as-worship tenet
 - `campaign/setting/waterdeep-lore.md`: Sea Ward, Waukeentide galas, the illegal temple and the Code Legal
 - `campaign/setting/grand-game.md`: front businesses, galas as recruitment screens, starting knowledge
