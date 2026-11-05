@@ -17,6 +17,8 @@ Research notes are in the session scratchpad only (`notes/ward-castle-research.m
 
 ## 2. Template decisions needed from the user
 
+**DECIDED (Session 47, user answers):** Items 1-3 adopted as recommended. Item 4 adopted **except Appearance** (add the "Using X as a Deity" box, the epithet-name rule, Plane and Typical Followers; no Appearance section). Items 5-8 adopted as recommended. Items 9-10 adopted as **move** (delete the guide pages after copying, retarget inbound links, rebuild the viewer). The Pass 0 pilot pages still need to be brought in line with these decisions, and the Deity pilot needs the Appearance-free slots added.
+
 Each item shows the problem the pilot found and the recommendation.
 
 1. **The Overview no longer ends the player-safe part of a page.** Notable Figure, Villain, Organization and Ward pages all carry GM material both above and below the player-safe `## Overview`. The Overview protects nothing unless the page is gated. Recommendation: treat everything except the Overview as the GM layer and wrap it in `gamemaster` blocks at the Foundry conversion, as Ember does with its own GM sections. The markdown order stays as is.
