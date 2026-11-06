@@ -6,17 +6,17 @@
 
 ## Quest Opener
 
-Jarlaxle Baenre arrived in Waterdeep during the last tenday of Ches, when the Fleetswake festival filled the harbor with color and noise and the city looked the other way at almost anything. Three ships: the Heartbreaker and Hellraiser, galleons painted crimson and gold that docked on the Mistshore pier, their hulls flanking a festive walkway strung with lanterns; and the Eyecatcher, the flagship, anchored a quarter-mile out in Deepwater Harbor where it glittered in the morning light and refused to be docked like ordinary ships. Between the Heartbreaker and the Hellraiser, the Sea Maidens Faire drew crowds — fire-eaters, acrobats, fortune-tellers, caged beasts, nimblewrights performing as carnival attractions. It was an excellent show. It was designed to be.
+Jarlaxle Baenre had been in Waterdeep since Marpenoth of 1491. His Sea Maidens Faire sailed into the harbor on Ches 21, at the start of the last tenday of Ches, when the Fleetswake festival filled the harbor with color and noise and the city looked the other way at almost anything. Three ships: the Heartbreaker and Hellraiser, galleons painted crimson and gold that docked on the Mistshore pier, their hulls flanking a festive walkway strung with lanterns; and the Eyecatcher, the flagship, anchored a quarter-mile out in Deepwater Harbor where it glittered in the morning light and refused to be docked like ordinary ships. Between the Heartbreaker and the Hellraiser, the Sea Maidens Faire drew crowds — fire-eaters, acrobats, fortune-tellers, caged beasts, nimblewrights performing as carnival attractions. It was an excellent show. It was designed to be.
 
-Attached to the Eyecatcher's keel, hidden beneath twenty feet of harbor water, the Scarlet Marpenoth had been running silent since they arrived. The submarine was gnome-engineered, cramped, and extraordinarily well-maintained — crewed by three gnome engineers who treated it with the devotion of master artificers and the paranoia of men who knew exactly what the vessel contained. Jarlaxle used it as his command center, his vault, and his escape plan. He slept in the submarine. The Eye of the Stone of Golorr sat in a velvet-lined compartment built into the base of the crystal ball pedestal that controlled his nimblewright surveillance network across Waterdeep. He had placed it there deliberately — close to the thing he used most, in a compartment invisible to anyone who didn't know to look. Jarlaxle was patient. The Eye would keep.
+The Scarlet Marpenoth had lain moored in the harbor all year, and the night the fleet arrived it took its place beneath the Eyecatcher. Attached to the Eyecatcher's keel, hidden beneath twenty feet of harbor water, it had been running silent since. The submarine was gnome-engineered, cramped, and extraordinarily well-maintained — crewed by three gnome engineers who treated it with the devotion of master artificers and the paranoia of men who knew exactly what the vessel contained. Jarlaxle used it as his command center, his vault, and his escape plan. He slept in the submarine. The Eye of the Stone of Golorr sat in a velvet-lined compartment built into the base of the crystal ball pedestal that controlled his nimblewright surveillance network across Waterdeep. He had placed it there deliberately — close to the thing he used most, in a compartment invisible to anyone who didn't know to look. Jarlaxle was patient. The Eye would keep.
 
 The nimblewright network was Jarlaxle's primary intelligence asset in Waterdeep. Nine nimblewrights sold to nine wealthy households at 25,000 gold pieces each — a steal, and deliberately so. Each nimblewright contained a paired clairvoyance crystal feeding recorded surveillance to the master crystal ball in U4. The network gave him eyes inside the homes of nobles, guild leaders, and civic officials. He knew about affairs and debts and crimes and alliances that their participants assumed were secret. He intended to use this knowledge to build the political case for Luskan's admission to the Lords' Alliance — the campaign that was, underneath every disguise, the reason he had come to Waterdeep at all. Five hundred thousand stolen dragons, recovered from the Vault of Dragons and deployed as a diplomatic investment, would help. The network would help. Having the Stone of Golorr in cooperative hands would help most of all.
 
-The Eye had arrived through Bregan D'aerthe intelligence work — the same network that had placed Nar'l Xibrindas inside Xanathar's Guild eleven years ago. Jarlaxle understood the Eye's significance better than any other faction in the Grand Game, which is why he was not rushing. He would watch. He would learn who else was moving on the Stone. If the party pursuing the Stone proved competent, he would engage them on his own terms. If they did not, he would take the Eye himself when the moment was right.
+The Eye had reached him the night before Ches 1, through Bregan D'aerthe intelligence work — the same network that had placed Nar'l Xibrindas inside Xanathar's Guild a year earlier, in 1491. Jarlaxle understood the Eye's significance better than any other faction in the Grand Game, which is why he was not rushing. He would watch. He would learn who else was moving on the Stone. If the party pursuing the Stone proved competent, he would engage them on his own terms. If they did not, he would take the Eye himself when the moment was right.
 
 What he had not accounted for was Zelifarn.
 
-The young bronze dragon had taken up residence near an old elvish wreck in Deepwater Harbor three weeks after the Sea Maidens Faire arrived. Zelifarn was twenty-two years old, enthusiastic about ships, curious about everything, and growing suspicious that the Eyecatcher had a second hull. His mother Asphosis had been killed four years earlier by agents whose employers Zelifarn had not yet identified. Her crystal ball — a family heirloom, a masterwork scrying device — had disappeared with her hoard. Zelifarn had no way to know that the crystal ball now sat in U4 controlling nine clairvoyance crystals across Waterdeep. He only knew that something about the Eyecatcher's underside was wrong, and that it scraped against the grief he had been carrying for four years without a name.
+The young bronze dragon had taken up residence near an old elvish wreck in Deepwater Harbor within days of the Sea Maidens Faire's arrival on Ches 21. Zelifarn was twenty-two years old, enthusiastic about ships, curious about everything, and growing suspicious that the Eyecatcher had a second hull. His mother Asphosis had been killed four years earlier by agents whose employers Zelifarn had not yet identified. Her crystal ball — a family heirloom, a masterwork scrying device — had disappeared with her hoard. Zelifarn had no way to know that the crystal ball now sat in U4 controlling nine clairvoyance crystals across Waterdeep. He only knew that something about the Eyecatcher's underside was wrong, and that it scraped against the grief he had been carrying for four years without a name.
 
 ---
 
@@ -54,7 +54,7 @@ Unlike **Xanathar's Lair** (where the briefing confirms a known dungeon) or **Ca
 
 **Content.**
 
-*Identifying the Score.* Eye #3 is aboard the Scarlet Marpenoth, in Jarlaxle's stateroom (U4), sitting in a velvet-lined compartment built into the base of the crystal ball pedestal. The Stone's impression (if 1+ Eyes restored) sharpens to: "a ship in the harbor, the Scarlet Marpenoth, a bald elf who has been patient for eleven years." **Faction Outposts** documents — Fenerus Stormcastle's decoded messages confirming intelligence flows to the Sea Maidens Faire, Malcolm Brizzenbright's ghost testimony that "Rongquan Mystere" met with drow who mentioned the Faire — converge on the fleet. **Xanathar's Lair** documents — the Report on Seven Masks Theater from X35 — provide a third confirmation path.
+*Identifying the Score.* Eye #3 is aboard the Scarlet Marpenoth, in Jarlaxle's stateroom (U4), sitting in a velvet-lined compartment built into the base of the crystal ball pedestal. The Stone's impression (if 1+ Eyes restored) sharpens to: "a ship in the harbor, the Scarlet Marpenoth, a bald elf with a year of patience." **Faction Outposts** documents — Fenerus Stormcastle's decoded messages confirming intelligence flows to the Sea Maidens Faire, Malcolm Brizzenbright's ghost testimony that "Rongquan Mystere" met with drow who mentioned the Faire — converge on the fleet. **Xanathar's Lair** documents — the Report on Seven Masks Theater from X35 — provide a third confirmation path.
 
 *Three Entry Methods.* Each is seeded by prior arcs. All three are simultaneously available. A party may use more than one.
 
@@ -74,7 +74,7 @@ Unlike **Xanathar's Lair** (where the briefing confirms a known dungeon) or **Ca
 
 *Festival and Event Windows.*
 
-**Carnival Parades (5 dates: Ches 10, 21, 25, Tarsakh 1, 5).** During parades, the Faire's performers march through Waterdeep's streets. The pier is nearly empty. The docked ships retain skeleton crews. The Eyecatcher's crew is reduced to watch personnel only. Best pure-heist window: fewest adversaries, maximum time before absence is noticed. Duration: 3–4 hours per parade.
+**Carnival Parades (4 dates: Ches 21, 25, Tarsakh 1, 5).** During parades, the Faire's performers march through Waterdeep's streets. The pier is nearly empty. The docked ships retain skeleton crews. The Eyecatcher's crew is reduced to watch personnel only. Best pure-heist window: fewest adversaries, maximum time before absence is noticed. Duration: 3–4 hours per parade.
 
 **Shipwright's Ball (Ches 25).** Jarlaxle attends the Ball in disguise — as J.B. Nevercott or Rongquan Mystere. The Eyecatcher is reduced to skeleton crew with no captain aboard. Social cover for surveillance: half the party can attend the Ball while the other half boards the Eyecatcher. Duration: full evening (6 hours). This is the best diplomatic window — Jarlaxle is accessible in a social setting where business is expected.
 
@@ -139,7 +139,7 @@ Zelifarn also introduces this quest's moral dimension. The crystal ball in U4 �
 
 *Running This Scene.* This quest's operation uses a three-beat improvisation structure rather than a staged alarm cascade. Something Goes Wrong → The Complication Escalates → Jarlaxle Confrontation or Clean Escape. This is deliberate: the caper genre does not use tightening pressure so much as rolling improvisation. When something goes wrong aboard the Eyecatcher, the party has seconds to respond — not minutes. The response creates the next complication.
 
-Jarlaxle's location by operation window: during carnival parades, he is marching in the parade (not aboard the Eyecatcher); during the Shipwright's Ball, he is ashore attending the Ball; during standard operating hours, he is in J32 (the sauna, his preferred location when aboard); during Zord's business errands in the city, he is away for 2–4 hours. The DM does not roll for Jarlaxle's position — the operation window determines it.
+Jarlaxle's location by operation window: during carnival parades, he is marching in the parade (not aboard the Eyecatcher); during the Shipwright's Ball, he is ashore attending the Ball; during standard operating hours, he is in J32 (the sauna, his preferred location when aboard); during Zord's business errands in the city, he is away for 2–4 hours. The GM does not roll for Jarlaxle's position — the operation window determines it.
 
 *Eyecatcher — Critical Path Areas.*
 
@@ -263,7 +263,7 @@ The Vault's existence is acknowledged: the Stone confirms it knows where the Vau
 
 The aboleth consciousness is fully present. Not a whisper, not an impression, but a mind. Illuun, dreaming on Undermountain Level 4, is closer to the surface of the Stone's personality than it has ever been. The Stone does not explain Illuun. It simply stops pretending to be only a stone.
 
-This is the campaign's pivotal revelation. The DM should give this moment the weight it deserves.
+This is the campaign's pivotal revelation. The GM should give this moment the weight it deserves.
 
 *Faction State Changes.*
 
@@ -275,9 +275,9 @@ This is the campaign's pivotal revelation. The DM should give this moment the we
 - *Hostile (combat, casualties among BD lieutenants):* If the party killed Soluun, Fel'rekt, or Krebbyg, Jarlaxle's response escalates from professional to personal. He reaches for leverage before force, but he reaches harder. BD response teams become more aggressive in future encounters.
 - *Patron (BD member received the Eye):* Jarlaxle's investment in the PC is confirmed. BD renown increases. The PC is now a trusted operative, which means more missions, more intelligence, and more expectations.
 
-**Manshoon's Zhentarim.** If the Zhentarim strike team was defeated, Manshoon knows — the pass-amulets went dark. He adjusts **Kolat Towers** preparations. If the strike team caused chaos but failed to get the Eye, Manshoon redirects to Kolat Towers defense. If the strike team recovered the Eye (party failure case), **Kolat Towers** becomes a recovery operation as well as an assault.
+**Manshoon's Zhentarim.** If the Zhentarim strike team was defeated, Manshoon knows — the pass-amulets went dark. He adjusts **Kolat Towers** preparations. If the strike team caused chaos but failed to get the Eye, Manshoon redirects to Kolat Towers defense. Manshoon's cell holds no Eye unless the party's failure puts one there: if the strike team recovered the Eye, **Kolat Towers** becomes a recovery operation as well as an assault.
 
-**Xanathar Guild.** If **Xanathar's Lair** already completed, no change. If not, Xanathar's awareness depends on whether Guild patrols in the Dock Ward observed harbor activity.
+**Xanathar's Guild.** If **Xanathar's Lair** already completed, no change. If not, Xanathar's awareness depends on whether Guild patrols in the Dock Ward observed harbor activity.
 
 **Cassalanters.** If **Cassalanter Villa** already completed, no change. If not, imp surveillance from the Asmodean Shrine may have observed harbor activity.
 
@@ -297,7 +297,7 @@ This is the campaign's pivotal revelation. The DM should give this moment the we
 
 All contacts shift to problem-solving mode. Where is the Eye now? Is Jarlaxle leaving Waterdeep? Can the alliance path be attempted retroactively? The tone is operational reassessment, not recrimination.
 
-*Calendar Update.* This quest consumes 1–2 tendays: several days of intelligence and casing (Scenes 1–3), 1–3 days for the operation and escape (Scenes 4–5), 2–4 days of recovery and debrief (Scene 6). Update the campaign calendar. If the departure deadline is approaching, the DM communicates urgency through environmental details: carnival stalls being packed, the Heartbreaker's sails being inspected, harbor supply deliveries ceased.
+*Calendar Update.* This quest consumes 1–2 tendays: several days of intelligence and casing (Scenes 1–3), 1–3 days for the operation and escape (Scenes 4–5), 2–4 days of recovery and debrief (Scene 6). Update the campaign calendar. If the departure deadline is approaching, the GM communicates urgency through environmental details: carnival stalls being packed, the Heartbreaker's sails being inspected, harbor supply deliveries ceased.
 
 *Transition.* The party holds the Stone with 1–3 Eyes. The remaining lair heists are available in any order. The Report on Cultists of Asmodeus (J30) points toward **Cassalanter Villa** if not yet completed. The Letter from Nar'l (U3) confirms the BD/Xanathar connection, providing context for **Xanathar's Lair**. Jarlaxle's Report on the Grand Game (J30) and the Zhentarim pass-amulets (if recovered from Scene 5) both point toward **Kolat Towers**. If this was Eye #3 — the Full Awakening — **Vault of Dragons** launches immediately.
 
@@ -353,11 +353,11 @@ This quest must feel like a caper, not a dungeon infiltration (**Xanathar's Lair
 
 **Xanathar's Lair** rewards careful routing and surveillance suborning. **Cassalanter Villa** rewards maintaining cover and reading social cues. This quest rewards improvisation — the plan will go wrong, and the party's ability to adapt in the moment determines success. The three-beat improvisation structure (Something Goes Wrong → Escalation → Confrontation or Clean Escape) replaces **Xanathar's Lair**'s four-stage alarm cascade and **Cassalanter Villa**'s four-stage social exposure system. The caper genre does not use staged escalation because the drama comes from the moment of improvisation, not from a slowly tightening noose.
 
-The DM should telegraph this genre from the briefing onward. When faction contacts describe Jarlaxle, they should convey that this is not a paranoid beholder in a sealed lair or desperate parents in a gilded villa. This is a man who enjoys being robbed if the thieves are interesting enough. That single characterization reframes the entire arc.
+The GM should telegraph this genre from the briefing onward. When faction contacts describe Jarlaxle, they should convey that this is not a paranoid beholder in a sealed lair or desperate parents in a gilded villa. This is a man who enjoys being robbed if the thieves are interesting enough. That single characterization reframes the entire arc.
 
 ## The Three Resolution Paths
 
-This quest is the only lair heist that offers three fundamentally different approaches to obtaining the Eye. This is because Jarlaxle is the only villain who would willingly trade it for something he values more. Xanathar does not negotiate — he eats envoys. The Cassalanters are too desperate — the children's deadline consumes their attention. Manshoon holds no Eye. Jarlaxle is the one Grand Game villain who treats every interaction as a transaction, and the Eye is currency he is willing to spend if the price is right.
+This quest is the only lair heist that offers three fundamentally different approaches to obtaining the Eye. This is because Jarlaxle is the only villain who would willingly trade it for something he values more. Xanathar does not negotiate — it eats envoys. The Cassalanters are too desperate — the children's deadline consumes their attention. Manshoon holds no Eye. Jarlaxle is the one Grand Game villain who treats every interaction as a transaction, and the Eye is currency he is willing to spend if the price is right.
 
 The heist path is the default and receives the most structural support. The alliance path exists because it reflects Jarlaxle's actual priorities — Luskan's Alliance bid matters more to him than one component of a treasure-hunting artifact. The patron path exists because the campaign supports BD membership from **Trollskull Alley** onward and must reward that investment with a meaningful payoff.
 
@@ -369,7 +369,7 @@ The Jarlaxle confrontation is the design principle that most distinguishes this 
 
 Xanathar confronted is a lethal puzzle — eye rays, lair actions, raw destructive power. The Cassalanters confronted are a moral crisis — desperate parents, infernal contracts, children between the party and the door. Jarlaxle confronted is a conversation. He is faster, better informed, better equipped, and more experienced than the party. He also does not want to fight them. He wants to understand them, evaluate them, and determine whether they are more useful as allies than as enemies.
 
-Writing Jarlaxle's confrontation correctly means the DM must play him as someone who is genuinely delighted to discover that the party is competent. His respect, his offers, and his real-time recalculation of whether alliance or opposition serves him — all of it is genuine. The party can influence that calculus through what they say and how they say it.
+Writing Jarlaxle's confrontation correctly means the GM must play him as someone who is genuinely delighted to discover that the party is competent. His respect, his offers, and his real-time recalculation of whether alliance or opposition serves him — all of it is genuine. The party can influence that calculus through what they say and how they say it.
 
 Combat with Jarlaxle is a narrative failure state: the caper's improvisational energy collapsed into violence, and both sides lost something. The text makes this clear without forbidding it. Some parties will fight Jarlaxle. The consequences should reflect that this was a missed opportunity, not a tactical error.
 
@@ -421,7 +421,7 @@ This quest provides Three Clue Rule paths to three other quests.
 
 **To Cassalanter Villa (if not yet completed).** The Report on the Cultists of Asmodeus (J30) identifies the Asmodean Shrine on Aveen Street and references an ancient worship site below the Sea Ward, converging on Cassalanter Villa. This is one of three independent paths to **Cassalanter Villa**.
 
-**To Xanathar's Lair (if not yet completed).** The Letter from Nar'l Xibrindas (U3) confirms the BD mole in Xanathar's organization and mentions the Seven Masks Theater purchase. This is one of three independent paths to **Xanathar's Lair** — connecting the BD intelligence network to the Xanathar Guild and providing operational context for the approach.
+**To Xanathar's Lair (if not yet completed).** The Letter from Nar'l Xibrindas (U3) confirms the BD mole in Xanathar's organization and mentions the Seven Masks Theater purchase. This is one of three independent paths to **Xanathar's Lair** — connecting the BD intelligence network to Xanathar's Guild and providing operational context for the approach.
 
 **To Kolat Towers.** Two independent paths from this quest: Jarlaxle's Report on the Grand Game (J30) references Manshoon's operations and Kolat Towers; and the Zhentarim pass-amulets recovered from the Manshoon strike team (Scene 5) provide physical access to Kolat Towers. These join the existing paths from **Xanathar's Lair** (Samara's testimony from X7, Nihiloor's files from X23) and **Cassalanter Villa** (Cassalanter Report on the Grand Game from C6 or C22). The Three Clue Rule is satisfied to **Kolat Towers** through any combination of prior quests.
 
