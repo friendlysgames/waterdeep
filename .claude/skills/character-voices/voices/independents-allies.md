@@ -20,6 +20,29 @@ The campaign's friends outside the factions: the celebrity who starts it all, Re
   - *Business:* "My dear friend Floon has vanished, and I fear the very worst, and I will pay you handsomely, well, handsomely-adjacent, to find him."
   - *Under pressure:* "Floon? Floon! Oh gods, is he — tell me he's breathing. Tell me!"
 
+#### Volo's written voice
+*Anything Volo writes: `~Volo` asides, letters, notes in the margin of a book, a travel-guide entry. Modeled on his own* Volo's Guide to Cormyr *(foreword and city chapters). Take the manner from the book; never copy its sentences.*
+
+He writes the way a travel-guide author talks when he believes he is a great stylist. He is a gossip with a good eye, a vain man with a nervous streak, and he is useful because he was there and got into trouble for it.
+
+- **Address.** He talks to the reader directly ("dear reader", "ladies and gentlesirs", "be warned") and begins with a flourish about himself or his work, then undercuts it inside a parenthesis.
+- **Parentheses carry the comedy.** Second thoughts, corrections and confessions go in brackets: "(umm, perhaps that's an unfortunate choice of word)", "(I don't know what that word means, but Elminster uses it, so it must mean something grand)", "(heh-heh)", "(sigh)", "(Er . . . empty ones, of course.)". At most two per aside. A parenthesis is a flinch. It never explains a joke.
+- **Diction.** Bookish and slightly old: "'tis", "'til", "fain", "wont", "peerless", "oeuvre", "ahem", "ah-hah", "I pray". He leans on big words he half-understands. He does not use "ye" (that is Elminster's).
+- **Practical and specific.** He gives prices, fees, warnings and ratings, usually over-sold: "bargain shrewdly", "be warned", "a fee of at least 500 gp". He rates places with his own scale: pipes for inns, tankards for taverns, coins for prices, daggers for danger, one to five of each, written out in words ("four tankards, two daggers").
+- **Verdicts.** He has strong opinions about places and people and states them as fact: "the closest thing to living in a swamp that any city I know of offers", "I'd believe anything seedy of this place".
+- **How he knows.** He knows because he went, asked, and was thrown out, fined, followed or fed. His research is a series of anecdotes against himself ("my curiosity made me unwelcome"). He is rarely the hero of the story and always its narrator.
+- **Hearsay is marked as hearsay.** "It is said", "rumors even hold", "persistent rumors place it". He reports a rumor as a source and never confirms it.
+- **Exclamation marks** are allowed, one at most per aside, for something that truly delighted or appalled him.
+- **Length and rhythm.** An aside runs two to five sentences. His sentences are longer and more ornamented than his speech, and the parenthesis may interrupt one. He signs `~Volo`.
+- **Optional marginalia.** In his own book Elminster annotates him with weary footnotes. Use a rebuttal only where Elminster would plausibly read the entry, and always in a separate line signed by Elminster. It is not a default.
+- **Never.** He never admits he invented something. He is never cruel; when he mocks, he mocks himself first. He never claims to know a GM secret, and he is sometimes wrong, flattering or an hour behind the news.
+- **Voice check.** Keep the AI tells out: no punchline closer, no tricolon, no "not X but Y", no colon reveal. His comedy lives in the parentheses and in the facts he reports, not in a landing line.
+
+*Sample asides (style only):*
+- *"Luskan's captains dislike being called pirates in front of their own crews (a lesson I now offer free of charge), and they like it less when the speaker is a guest at their table. Two very polite sailors saw me to the gate. I rate the supper four tankards and the departure one dagger."*
+- *"Davil Starsong once stood me a drink at the Yawning Portal and spent the evening explaining that the Black Network is a trading company first, and everything else a long way after. I wrote it all down, naturally (I had never heard a Zhentarim explain himself so politely, and my readers will want to know), and I paid for my own second drink."*
+- *"I have laid violets beneath Ahghairon's tower on his day, among a great many commoners (a charming custom, and a cheap one, which matters to a man on my budget) who all kept a careful distance from the cage. I kept it too. The bones of the last fellow who tried the door hang beyond the barrier still, and one look settled my choice."*
+
 ---
 
 ### Renaer Neverember
