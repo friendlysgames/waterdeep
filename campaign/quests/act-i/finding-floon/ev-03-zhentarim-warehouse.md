@@ -51,12 +51,12 @@ Kenku speak only in mimicked voices — fragments captured from conversations th
 **What Renaer shares without prompting:**
 - Five Zhentarim grabbed him and Floon outside Old Xoblob Shop last night and brought them here
 - They questioned him about his father's embezzled gold — money Renaer has refused to help his father hide
-- They took his mourning locket, which he believed held a keepsake from his mother; he didn't know there was a hidden compartment
-- The Xanathar Guild attacked before the interrogation went further
+- The Zhentarim took his mourning locket, which he believed held a keepsake from his mother; he didn't know there was a hidden compartment
+- The Xanathar Guild attacked before the interrogation went further, and he did not see what became of the locket in the fighting
 - He slipped his bonds in the confusion and hid in Z02
 - Through a gap in the door he watched Xanathar agents drag an unconscious Floon through the main room, out through the yard, and down the alley toward a sewer grate
 
-**What Renaer doesn't know:** what the locket contained; where the Vault is; the Stone of Golorr's role in any of this. His ignorance is genuine.
+**What Renaer doesn't know:** what the locket contained or where it went after the raid; where the Vault is; the Stone of Golorr's role in any of this. His ignorance is genuine.
 
 **If asked about his father's enemies:** The Cassalanters have been quietly acquiring properties near the Brandath family tombs — his mother's family plots. He cannot explain it. He raises it as an oddity, not an accusation.
 
@@ -80,7 +80,7 @@ A captured kenku repeats under DC 10 Charisma (Intimidation): "Follow the yellow
 
 #### Renaer Found: True / False
 
-Renaer is found in Z02 and survives the quest. He becomes a recurring contact in Trollskull Alley and beyond. His account of the locket seizure establishes Manshoon's cell's objective — the Eye of the Stone of Golorr.
+Renaer is found in Z02 and survives the quest. He becomes a recurring contact in Trollskull Alley and beyond. His account of the locket seizure tells the party the Zhentarim wanted the locket, but he cannot say why. The cell pried the locket open and found an Eye of the Stone of Golorr inside. The Guild's raid then carried the Eye out of the back office without knowing what it was, and the party can follow its trail in the **Xanathar Sewer Hideout** and **The Eyes of the Stone**.
 
 #### Warehouse Cleared: True / False
 

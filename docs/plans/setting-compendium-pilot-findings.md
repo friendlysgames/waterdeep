@@ -17,6 +17,8 @@ Research notes are in the session scratchpad only (`notes/ward-castle-research.m
 
 ## 2. Template decisions needed from the user
 
+**DECIDED (Session 47, user answers):** Items 1-3 adopted as recommended. Item 4 adopted **except Appearance** (add the "Using X as a Deity" box, the epithet-name rule, Plane and Typical Followers; no Appearance section). Items 5-8 adopted as recommended. Items 9-10 adopted as **move** (delete the guide pages after copying, retarget inbound links, rebuild the viewer). The Pass 0 pilot pages still need to be brought in line with these decisions, and the Deity pilot needs the Appearance-free slots added.
+
 Each item shows the problem the pilot found and the recommendation.
 
 1. **The Overview no longer ends the player-safe part of a page.** Notable Figure, Villain, Organization and Ward pages all carry GM material both above and below the player-safe `## Overview`. The Overview protects nothing unless the page is gated. Recommendation: treat everything except the Overview as the GM layer and wrap it in `gamemaster` blocks at the Foundry conversion, as Ember does with its own GM sections. The markdown order stays as is.
@@ -36,7 +38,7 @@ Source-checked against `adventure-wdh.json`, the Alexandrian files and the campa
 
 **Cassalanters**
 - The pact was signed and Osvaldo taken three years ago (about 1489 DR). Stale: `history.md:43`, `deities/asmodeus.md`, the era page's old values.
-- Osvaldo was fifteen when taken and is eighteen at campaign start. Stale: `history.md:46`.
+- Osvaldo was nine when taken and is twelve at campaign start, because the contract claims each child at nine (Session 47 ruling; about 1480 DR birth is arithmetic, no source states it). Stale: `history.md:46`.
 - Osvaldo is held in the soundproofed attic, room C24 (`adventure-wdh.json` 20649-20665). Ammalia visits weekly and sits in the room outside the pentagram. Victoro has not entered in months. Stale: org page `:44` (basement), `history.md:46` (temple), `SOURCE_GUIDE.md:325` ("basement cell").
 - The contract requires 999,999 gp **and** ninety-nine souls. The family holds about 500,000 gp; the Vault's 500,000 is the shortfall. Stale: `history.md:48`, `notable-figures/cassalanters/04-osvaldo-cassalanter.md:26` ("or").
 - **Soul coins are dropped (user).** The ninety-nine souls are the poisoned feast guests. Outposts gather gold and ritual components. Still to change: `villains/cassalanters.md:38-39`, `guides/gm-guide/grand-game-in-play.md:53,67`, `setting/grand-game.md:34`, and the outpost design in the Cassalanter content of `structure/arc-e`. The retired chapter files still mention coins; leave them.

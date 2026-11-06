@@ -37,7 +37,18 @@ The user wants the whole compendium rebuilt on the **Ember Setting Compendium mo
 Folder names carry no numeric prefix. The existing folders are unprefixed and CLAUDE.md, the skills and the viewer reference them. Wards live in a separate gazetteer because Ember keeps region pages light and puts district detail in its own journal. Faction operations get their own journal so Foundry can gate it at journal level instead of page by page.
 
 ## Page templates
-Every page: `# Title` → `> Structuring draft.` → `> **[GM]**` Gamemaster's Summary → `**Purpose:**` → body skeleton → `**Tone:**` → `---` → Source References → Cross-References (bold names).
+Every page: `# Title` → `> Structuring draft.` → `> **[GM]**` Gamemaster's Summary → `**Purpose:**` → body skeleton → `**Tone:**` → `---` → Source References → Cross-References (bold names) → Draft Notes (only where open items exist).
+
+**Page rules (decided Session 47):**
+- Everything except the player-safe `## Overview` is the GM layer; the Foundry conversion wraps it in `gamemaster` blocks. Markdown order is unchanged.
+- Open items live in a deletable `> **[GM]**` `#### Draft Notes` callout at the very bottom of the page, with Research, Conflicts and Routed facts bullets. Inline `[research]` tags stay in place.
+- `#### GM Notes` is the default GM callout. `#### Secret` is reserved for hidden facts that change play.
+- Ward pages: 8-10 landmarks and 5-6 characters, one Secret, hidden-affiliation notes only where they change play. Demoted items fold into other entries or Life in the Ward; nothing is deleted outright.
+- Deity pages: no Appearance section. A `Using X as a Deity` GM box follows Influence and Followers. The epithet line leads with the name most Waterdhavians use. Metadata includes Plane and Typical Followers.
+- Villain pages carry a `## Background` after the identity line.
+- Era pages: the `~Volo` aside is optional, the GM blocks are named Gamemaster's Summary and Lore Summary, and no dated Timeline appears when the span is unknown.
+- Faction operations pages are the single home for faction mechanics; the Factions Guide pages move there.
+- Until the prose pass, every page may carry its full GM information, including in the Overview. The prose pass writes the player-safe version of each Overview (the Zardoz Zord rule, the Cassalanter secrecy rule and the spoiler rule apply then).
 
 | Page type | Body skeleton |
 |---|---|

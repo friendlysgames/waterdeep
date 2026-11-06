@@ -123,7 +123,7 @@ The persona drops. Hat removed, quieter smile, plain speech. He offers the compl
 ### Concluding the Event
 
 #### Jarlaxle Informed: True / False
-The party spoke directly with Jarlaxle (as Zord or revealed). True = he deploys BD agents to Gralhund Villa before the party arrives. Read by Gralhund Villa (faction interaction matrix; *Jarlaxle Informed* trigger).
+The party spoke directly with Jarlaxle (as Zord or revealed). He already knows of the Stone, the Eyes and the vault, and has since he reached Waterdeep, so the conversation tells him nothing new; this records the party's contact. True = he deploys BD agents to Gralhund Villa before the party arrives. Read by Gralhund Villa (faction interaction matrix; *Jarlaxle Informed* trigger).
 
 #### Nimblewright Ledger Stolen: True / False
 The party stole seller records from the Heartbreaker or Eyecatcher. True = Jarlaxle discovers the theft within 24 hours and does not deploy. Read by Gralhund Villa.

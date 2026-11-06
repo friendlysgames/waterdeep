@@ -76,7 +76,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 >
 > #### Secret
 > - **The pact:** Victoro and Ammalia traded the souls of their children to Asmodeus for wealth compressed from three generations into one and for political access that normally takes a family centuries to build. They discussed it, understood what they were signing, and signed, three years ago. [research] The files disagree on how many children (three in the history, the twins in this page's Operations).
-> - **Osvaldo:** The eldest son's soul was claimed first, when he was fifteen, and he is now eighteen and a chain devil held in the soundproofed attic of the villa, room C24, never the basement or the temple. Ammalia visits weekly, sitting in the room outside the pentagram to read to him while he curses her and weeps. Victoro has not visited in months. Willifort knows. Two imps are always present. Terenzio and Elzerina have been told Osvaldo is at school.
+> - **Osvaldo:** The eldest son's soul was claimed first, when he was nine, the age at which the contract claims each child, and he is now twelve and a chain devil held in the soundproofed attic of the villa, room C24, never the basement or the temple. Ammalia visits weekly, sitting in the room outside the pentagram to read to him while he curses her and weeps. Victoro has not visited in months. Willifort knows. Two imps are always present. Terenzio and Elzerina have been told Osvaldo is at school.
 > - **The feast:** On Founders' Day, Flamerule 1, the family plans to poison 99 guests at a feast to collect the ninety-nine souls. Ammalia is the architect of the feast and Jandar Chergoba, the villa's head chef, is the person who sees that the poison is distributed correctly.
 > - **The deadline:** The pact comes due on Flamerule 11, the twins' ninth birthday. Founders' Day on Flamerule 1 is the feast and Ammalia's real deadline. It is her operational window, chosen for the civic cover and for the time left to verify the terms, and it does not appear in the contract.
 > - **The loophole:** A ritual can buy out the children's souls. The contract requires 999,999 gp and ninety-nine souls, both, and the souls are the guests poisoned at the Founders' Day feast. The family holds about 500,000 gp of its own, and the Vault's 500,000 gp is the shortfall.
@@ -89,7 +89,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 
 - `campaign/setting/organizations/10-cassalanters.md` (previous version): Gamemaster's Summary, Operations, Key Members and Overview, moved or kept
 - `campaign/setting/villains/cassalanters.md`: Personality Phases, Relationships, Goals, Harpers watching, Willifort and the temple
-- `campaign/setting/history.md`, Era 5: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
+- `campaign/setting/history/05-a-debt-in-blood.md`: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
 - `campaign/setting/notable-figures/cassalanters/`: all fourteen pages, for public personas, motivations and the service-as-worship tenet
 - `campaign/setting/waterdeep-lore.md`: Sea Ward, Waukeentide galas, the illegal temple and the Code Legal
 - `campaign/setting/grand-game.md`: front businesses, galas as recruitment screens, starting knowledge
@@ -106,3 +106,13 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Willifort Crowelle**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Seffia Naelryke**, **Caladorn Cassalanter** (Notable Figures): the principal household
 - **Vessa** (Notable Figures): Jarlaxle's spy in the family's social circle
 - **Cassalanter Villa**, **Fireball!**, **Faction Outposts** (Quests): where the family appears
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Research:** Doctrine and Rites (Tenets). The cult's hierarchy below the family, its sacraments and its recruiting are unsourced in the campaign files. The FRHoF-based **Asmodeus** page holds candidate material (the Fugue Plane pitch, recruiting through greed and impatience), but a lore source on the Cassalanter cult would settle it.
+> - **Research:** How many children the pact covers (inline tag in the Secret callout). The files disagreed at the time of writing. **A Debt in Blood** settles it as three: Osvaldo, already taken, and the twins. Confirm and drop the tag.
+> - **Conflicts:** The Operations section keeps the original text, which says the pact traded "their children's souls" and then names only the twins. This agrees with the Era page once Osvaldo is counted, but the Operations wording could read as two children.
+> - **Conflicts:** The GM Notes bullet "Who suspects" says the family is "too nice to be this rich and this well-favored". CLAUDE.md, the Era page and the Asmodeus page say "too nice to be this rich and this purebred". Pick one wording at the prose pass.
+> - **Conflicts:** The cross-reference line to the Faction Operations page assumes the guide pages move. Until `guides/factions/11-cassalanters.md` is removed, both copies exist.
+> - **Routed facts:** Sister Valdra's three pieces of Cassalanter intelligence belong on her Notable Figures page and the Order of the Gauntlet page. Vevette Blackwater's refusal of Seffia's approach belongs on the **Vevette Blackwater** page and in the Windmill revelation list in Faction Operations. Check that each is stated there as well.
