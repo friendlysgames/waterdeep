@@ -14,7 +14,7 @@
 
 **Keywords:** Cassalanters, Victoro Cassalanter, Ammalia Cassalanter, Osvaldo Cassalanter, Terenzio and Elzerina, Asmodeus, soul pact, Founders' Day
 
-**Span:** 1489 DR to 1492 DR, three years. The published adventure says only "three years ago"; the year 1489 DR comes from the Forgotten Realms Wiki and from the Alexandrian timeline, which dates Neverember's deposition to 1489 DR. The campaign opens on Ches 1, 1492 DR.
+**Span:** 1489 DR to 1492 DR, three years. The published adventure says only "three years ago" (lines 18294 and 18403). The year 1489 DR is that phrase counted back from 1492 DR. The Forgotten Realms Wiki states 1489 DR for the pact on its Cassalanter, Victoro, Ammalia and Osvaldo pages, and those figures derive from the same adventure line. The Alexandrian timeline dates Neverember's deposition to 1489 DR and gives no pact year. The campaign opens on Ches 1, 1492 DR.
 
 **Other Names:** The Cassalanter Bargain; the Soul Pact. These are GM names taken from the old era block and the guides. No in-world name is sourced. `[research]`
 
@@ -31,6 +31,7 @@
 ### The Bargain
 
 - The Cassalanter name has stood in Waterdeep's noble registry for several generations. The published adventure shows several generations of family portraits.
+- Caladorn Cassalanter was Victoro's father, a Masked Lord and a hero of the North (`adventure-wdh.json` lines 18404 and 22713). His ghost haunts the family crypt beneath the villa. The wiki also lists him as the fifth Open Lord, which the published adventure and the campaign do not (Forgotten Realms Wiki, Lords of Waterdeep and Caladorn Cassalanter; City of Splendors: Waterdeep, 2e). See **A City Watching Itself**.
 - Financial ruin was the trigger. The family's banking was near bankruptcy when the bargain was made.
 - The deal also bought power, good health and long life.
 - Victoro and Ammalia discussed the bargain, understood what they were signing and signed together.
@@ -58,7 +59,7 @@
 - Ammalia's charity in the Field Ward feeds hundreds, and Victoro's banking underwrites half the guilds in the city. Source: the **Cassalanter Villa** quest opener.
 - The family's generosity funds temples, orphanages and civic improvements. Ammalia keeps the most beautiful butterfly garden in Waterdeep and supervises the twins at play there.
 - The Harpers watch the family's charitable work. Their genuine goodness has kept that surveillance clean for years.
-- The outpost network gathers gold and ritual components for the payment, and the Vault covers the shortfall. The Cassalanters do not compete with the other factions for the Stone and intend to wait until someone reveals the vault. `[review: outpost purpose against Faction Outposts]`
+- The outpost network gathers gold and ritual components for the payment, and the Vault covers the shortfall. The Cassalanters do not compete with the other factions for the Stone and intend to wait until someone reveals the vault.
 
 > *I cannot claim to know the Cassalanters well, having dined at their villa only twice, but on both evenings Lady Ammalia led me through her butterfly garden before the soup, naming every specimen and the country it came from. Arrive prepared to be educated (and to be hungry). She corrected my pronunciation of three of the names so gently that I wrote them down afterward, meaning to use them at my next dinner.*
 > *~Volo*
@@ -106,12 +107,13 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 - `sources/adventure-wdh.json`: published account of Osvaldo's disappearance three years ago and the family's near bankruptcy.
 - `sources/1. The Villains.pdf` (the Cassalanters section) and `sources/10. Lair  Cassalanter Villa.pdf`: read for background. They supplied no Era 5 fact.
 - `CLAUDE.md` (Cassalanter secrecy): the Secret callout.
-- Not read: `sources/Other remix files/Cassalanters, their tragic backtstory, and Endgame setup.docx` (not readable in this session) and the Forgotten Realms Wiki (blocked). Anything they might settle is marked `[research]`.
+- Forgotten Realms Wiki, Cassalanter, Victoro Cassalanter, Ammalia Cassalanter and Osvaldo Cassalanter (edition cited: Waterdeep: Dragon Heist, 5e): each states 1489 DR for the pact, derived from the adventure's "three years ago". Cassalanter Villa gives no pact date, and Founders' Day gives only 1492 DR. Caladorn Cassalanter and Lords of Waterdeep (City of Splendors: Waterdeep, 2e): Caladorn's father, children and Open Lord listing.
+- Not read: `sources/Other remix files/Cassalanters, their tragic backtstory, and Endgame setup.docx` (not readable in this session). Anything it might settle is marked `[research]`.
 
 ## Cross-References
 
 - **The History**: the hub this page belongs to.
-- **The Founding of Chains** and **The Open Lord's Fall**: the eras on either side. Neverember's embezzlement, which the Cassalanters' near bankruptcy may trace to, belongs to the later one. `[open: Neverember link is campaign-invented]`
+- **The Founding of Chains** and **The Open Lord's Fall**: the eras on either side. Neverember's embezzlement, which the Cassalanters' near bankruptcy may trace to, belongs to the later one. The Alexandrian author's backstory supports the link (see Draft Notes).
 - **The Cassalanters** (Villains): personality phases, relationships and goals.
 - **The Cassalanters** (Organizations): the family's public lore and key members.
 - **The Cassalanters** (Faction Operations): response teams, outposts, escalation and revelation list.
@@ -125,7 +127,7 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 > **[GM]**
 >
 > #### GM Notes
-> - **Timeline.** 1489 DR: Neverember is deposed, the family is on the verge of bankruptcy, the pact is signed and Osvaldo is taken. The contract claims each child at nine, and Osvaldo was already nine. The deposition year is sourced; the pact year is the same arithmetic as "three years ago", and the wiki states it as 1489 DR.
+> - **Timeline.** 1489 DR: Neverember is deposed, the family is on the verge of bankruptcy, the pact is signed and Osvaldo is taken. The contract claims each child at nine, and Osvaldo was already nine. The deposition year is sourced. The pact year is the arithmetic of "three years ago" (`adventure-wdh.json` line 18294), and the wiki restates that arithmetic as 1489 DR.
 > - 1480 DR: Osvaldo is born. This is derived from his ninth year in 1489 DR and is stated by no source.
 > - 1483 DR: Terenzio and Elzerina are born on Flamerule 11. This is derived from their ninth birthday on Flamerule 11, 1492 DR and is stated by no source.
 > - Ches 1, 1492 DR: the campaign opens. Osvaldo is held in the attic, room C24.
@@ -137,13 +139,13 @@ The Cassalanters are one of Waterdeep's old noble houses, with several generatio
 > #### Draft Notes
 > - **Research:** Other Names (The Cassalanter Bargain, the Soul Pact) are GM names from the old era block and the guides. No in-world name is sourced.
 > - **Research:** Volo's aside (the optional `~Volo` quote in What the Cassalanters Built). Keep it or cut it at the prose pass. It is an anecdote of this page alone, with no secret and no error in it, and nothing else in the campaign depends on his dinners. Confirm that Volo may have dined at the villa.
-> - **Research:** The Timeline dates are partly derived. The pact year (1489 DR) is wiki-stated arithmetic from "three years"; the twins' birth year (1483 DR) is arithmetic from their ninth birthday, and Osvaldo's (1480 DR) is arithmetic from his ninth year in 1489 DR. No source gives any of them independently. The cult's founding, the temple's conversion and when each member joined are unsourced.
-> - **Research:** The Alexandrian author's Cassalanter backstory and the Forgotten Realms Wiki were read in Session 47. They fix only 1492 DR and "one tenday after Founders' Day"; neither gives a pact year of its own. The Alexandrian author gives Osvaldo's age at the taking as "already 9".
-> - **Conflicts:** Outpost purpose (inline `[review]` in What the Cassalanters Built). This page says the outposts gather gold and ritual components and the Vault covers the shortfall. The soul-coin design remains in `villains/cassalanters.md` lines 38 and 39, `grand-game-in-play.md` lines 53 and 67, `setting/grand-game.md` line 34 and the Cassalanter content of `arc-e`.
+> - **Research:** The Timeline dates are partly derived. The pact year (1489 DR) is arithmetic from "three years ago", which the wiki's Cassalanter pages restate; the twins' birth year (1483 DR) is arithmetic from their ninth birthday, and Osvaldo's (1480 DR) is arithmetic from his ninth year in 1489 DR. No source gives any of them independently. The cult's founding, the temple's conversion and when each member joined are unsourced.
+> - **Research:** The Alexandrian author's Cassalanter backstory fixes only 1492 DR and "one tenday after Founders' Day" and gives no pact year. It gives Osvaldo's age at the taking as "already 9". The wiki's Cassalanter, Victoro, Ammalia and Osvaldo pages state 1489 DR (`wiki-Cassalanter.txt` line 43 and the matching lines on the other three), each derived from the adventure's "three years ago". The wiki's Cassalanter Villa page gives no date, and its Founders' Day page gives only 1492.
+> - **Settled:** Outpost purpose. The outposts gather gold and ritual components, the Vault covers the shortfall, and there are no soul coins (standing ruling). The soul-coin design remains in `villains/cassalanters.md` lines 38 and 39, `grand-game-in-play.md` lines 53 and 67, `setting/grand-game.md` line 34 and the Cassalanter content of `arc-e`, and is stale there.
 > - **Conflicts:** The link from Neverember's embezzlement to the family's near bankruptcy is not in the published adventure, which gives the near bankruptcy and the disappearance but no cause. The Alexandrian author's backstory supports it ("bad investments combined with Dagult's embezzlements"), so it is a remix source and not only a campaign invention (`arc-g` line 11).
 > - **Conflicts:** The user ruled in Session 47 that every child is taken at nine. Osvaldo was nine when taken and is twelve now, matching the published adventure's portrait of "twelve-year-old Osvaldo" (`adventure-wdh.json` line 20330) and the Alexandrian author's "already 9".
 > - **Conflicts:** The Alexandrian files put the poisoning feast on Tarsakh 9 or 10 and the forfeit on Tarsakh 11 (`10. Lair Cassalanter Villa.pdf` p.79, `29. Addendum` p.225). The published adventure and this campaign use Flamerule 1 and Flamerule 11, and these win.
 > - **Conflicts:** The published adventure says both that the pact was "three years ago" (lines 18294, 18403) and that Ammalia and Victoro signed "when they were young" (line 31715). This page follows "three years ago".
 > - **Conflicts:** Stale values in other files that this page overrides: `history.md` lines 43, 46 and 48 (timing, Osvaldo's age and room, price), and `04-osvaldo-cassalanter.md` line 26 ("or" for "and").
-> - **Conflicts:** Settled in this pass against the published adventure and the newest pages: timing, Osvaldo's age and room, motive, price, deadline, devotion and the age of the house. No numbered conflicts remain.
+> - **Settled:** In this pass against the published adventure and the newest pages: timing, Osvaldo's age and room, motive, price, deadline, devotion and the age of the house.
 > - **Routed facts:** The Founders' Day and Flamerule 11 dates belong on **Founders' Day** in Timekeeping and the Festival Calendar. Osvaldo's room and visiting pattern belong in the **Osvaldo Cassalanter** page and the villa location journal, where room C24 is keyed.

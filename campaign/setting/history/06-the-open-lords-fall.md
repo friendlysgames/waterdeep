@@ -14,14 +14,14 @@
 
 **Keywords:** Dagult Neverember, Open Lord, Masked Lords, Laeral Silverhand, Neverwinter, Renaer Neverember, Alethea Brandath, the Stone of Golorr, the Vault of Dragons, Aurinax, Neverember's Enigma
 
-**Span:** About 1467 DR to 1489 DR, with the aftermath running to the campaign opening in 1492 DR. The start year is 1467 DR in the Alexandrian timeline and the wiki. The published adventure confirms Neverember as Open Lord in 1475 DR and dates the ouster only to "a few years ago". The year 1489 DR comes from the Alexandrian timeline and the wiki, and the Era 5 page uses it. The campaign opens on Ches 1, 1492 DR.
+**Span:** About 1467 DR to 1489 DR, which is about 21 to 22 years in office, with the aftermath running to the campaign opening in 1492 DR. The start year is 1467 DR in the Alexandrian timeline and the wiki. The published adventure confirms Neverember as Open Lord in 1475 DR and dates the ouster only to "a few years ago". The year 1489 DR comes from the Alexandrian timeline and the wiki, and the Era 5 page uses it. The campaign opens on Ches 1, 1492 DR.
 
 **Other Names:** Neverember's Enigma (the cryptic phrase the factions use for the missing gold and the secret behind it); the Ouster. "Neverember's Enigma" is in the Alexandrian timeline and in **Running the Villains**. "The Ouster" is a GM name. `[research]`
 
 > **[GM]**
 >
 > #### Lore Summary
-> - Dagult Neverember was Open Lord of Waterdeep from about 1467 DR to about 1489 DR. His money and political skill helped the city recover, and he levied a monthly tax that is still collected. He spent growing amounts of time rebuilding Neverwinter.
+> - Dagult Neverember was Open Lord of Waterdeep from about 1467 DR to about 1489 DR, some 21 to 22 years. His money and political skill helped the city recover, and he levied a monthly tax that is still collected. He spent growing amounts of time rebuilding Neverwinter.
 > - During his tenure he embezzled 500,000 gp from the city and hid it in a dwarf-built vault beneath the Brandath Mausoleum. The vault's location is locked inside the Stone of Golorr. He blinded the Stone by removing its three Eyes, and he bound the gold dragon Aurinax to guard the vault.
 > - In 1489 DR the Masked Lords voted him out while he was in Neverwinter, and Laeral Silverhand took the office at their request. His agents took the Stone from the palace and lost it on the way out of the city.
 > - Neverember remains Lord of Neverwinter. His son Renaer lives in Waterdeep, estranged from him, and carried one of the three Eyes in a mourning locket without knowing it.
@@ -65,11 +65,14 @@
 - Neverember stayed in Neverwinter, where he governs as its lord. The campaign pages call his removal an exile and call it public. The published adventure says only that he was ousted, and the wiki says the vote effectively exiled him.
 - After the vote he made plans to retrieve the Stone and smuggle the gold out of the city. His spies took the Stone from the palace and were killed while leaving, and the Stone passed from hand to hand until it reached Xanathar.
 - The wiki says Neverember grew bitter about the vote and blamed Waterdeep's nobles and guilds for it. Resentment of him stayed high in Waterdeep, and some Waterdhavians feared he would start a war to win the city back.
+- The wiki says Neverember led the Council of Waterdeep, the alliance against the Cult of the Dragon, until the vote cost him that place, and that he kept attending its meetings afterward (Forgotten Realms Wiki, Dagult Neverember; The Rise of Tiamat, 5e). `[research: wiki only]`
+- The wiki says that when Masked Lords were murdered in 1491 DR, Neverember was accused at once. Laeral spoke to him by spell, read his mind and found him innocent (Forgotten Realms Wiki, Dagult Neverember; Death Masks). `[research: wiki only]`
+- The wiki gives Neverember a quiet tie to the Zhentarim through his advisor Rian Nightshade. He did not advertise it and would not deny it if asked (Forgotten Realms Wiki, Dagult Neverember; The Rise of Tiamat, 5e). See **The Founding of Chains**. `[research: wiki only]`
 - The old outline says the Masked Lords investigated him and "managed the public story", leaving ongoing private damage. The published adventure says only that the Lords voted him out, and the Alexandrian author has Laeral's auditors find the embezzlement after she took office, so the investigation claim is unsupported. `[research]`
 
 ### Renaer
 
-- Renaer Neverember is Dagult's son by Lady Alethea Brandath. His mother died while Dagult was in office and left her property to Renaer and nothing to Dagult. Renaer now owns more property than anyone else in Waterdeep, all of it inherited from her.
+- Renaer Neverember is Dagult's son by Lady Alethea Brandath. His mother died when Renaer was still in his youth and left her property to Renaer and nothing to Dagult (Forgotten Realms Wiki, Dagult Neverember and Renaer Neverember; Blackstaff Tower). The published adventure gives only the inheritance (`adventure-wdh.json` lines 32546-32547), which is the minimum this page relies on. Renaer now owns more property than anyone else in Waterdeep, all of it inherited from her.
 - The published adventure says father and son detest one another and have not spoken in years. The campaign describes Renaer as estranged and as living by choice outside his father's shadow.
 - Renaer refused to help his father hide the gold. He knows nothing about the vault, the Stone's part in it or what his locket held, and his ignorance is genuine.
 - If the vault surfaces, it ties Renaer's name to his father's again, whatever he knew. This is the old outline's reading of the stakes, and the Renaer Notable Figure page supports it through his fear that estrangement will look like cowardice.
@@ -83,8 +86,8 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 >
 > #### Secret
 > - Neverember placed the three Eyes in three places before the vote. He kept one with him in Neverwinter, he gave one to Renaer inside an ivory mourning locket in honor of his mother, and he hid one in a crypt of the Brandath Mausoleum near Alethea's tomb. The Renaer and Mausoleum placements are in the Alexandrian account, and the crypt is in the Vault of Dragons quest opener.
-> - The Neverwinter Eye was later stolen from the Protector's Enclave by Manshoon's Zhentarim, who offered it to Xanathar. Xanathar killed the envoys and kept it, and it is Eye #1. The Cassalanters extracted the Brandath Eye through infernal divination, and it is Eye #2. Jarlaxle holds Eye #3, and Manshoon holds none.
-> - Manshoon's cell took Renaer's locket from him the night before the campaign opens, during **Finding Floon**, and pried it open at the Candle Lane warehouse. Xanathar's Guild raided the warehouse and carried off what it found in the back office, the Eye included, without knowing what the Eye was. Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night, and it reached Jarlaxle aboard the *Scarlet Marpenoth* before the party reached the hideout. Manshoon's cell never held it.
+> - The Neverwinter Eye was later stolen from the Protector's Enclave by Manshoon's Zhentarim, who offered it to Xanathar. Xanathar killed the envoys about three months before the fireball and kept it, and it is Eye #1. The Cassalanters extracted the Brandath Eye through infernal divination, and it is Eye #2. Jarlaxle holds Eye #3, and Manshoon holds none.
+> - Manshoon's cell took Renaer's locket from him the night before the campaign opens, during **Finding Floon**, and pried it open at the Candle Lane warehouse. Xanathar's Guild raided the warehouse and carried off what it found in the back office, the Eye included, without knowing what the Eye was. Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night, and it reached Jarlaxle aboard the *Scarlet Marpenoth* before the party reached the hideout. Manshoon himself never held it.
 > - Neverember's agents did not know the full picture. Dalakhar was told to watch Renaer and not told why, because Neverember's chief concern was keeping the hidden Eye safe until he could regain the Stone.
 > - Laeral believes the vault is in Neverwinter at campaign start. She knows of the embezzlement and not of the Stone's return or the four active factions.
 > - Neverember still wants the gold back or, failing that, vindication. The vault's location was erased from his mind, so he cannot find it himself, and Aurinax will release the gold only to Neverember or his appointed vassals.
@@ -110,6 +113,7 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 - `sources/1. The Villains.pdf` (Alexandrian Part 1, pp.15-18): the Zhentarim, Xanathar and Cassalanter Eye accounts.
 - Forgotten Realms Wiki, Dagult Neverember (edition cited: Neverwinter Campaign Setting 4e; Sword Coast Adventurer's Guide 5e; Death Masks; The Rise of Tiamat 5e): start year, titles, the tax, the ouster and its aftermath.
 - Forgotten Realms Wiki, Laeral Silverhand (edition cited: Death Masks; Sword Coast Adventurer's Guide 5e): her succession in about 1489 DR.
+- Forgotten Realms Wiki, Renaer Neverember (edition cited: Blackstaff Tower) and Lords of Waterdeep (edition cited: template references; City of Splendors boxed set, 2e): Alethea's death in Renaer's youth, and the c. 1468 DR start of the tenure.
 
 ## Cross-References
 
@@ -131,7 +135,8 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 > - Undated, between the start of the tenure and 1489 DR: the embezzlement begins, Neverember acquires the Stone, Alethea Brandath dies, he finds the vault and stores the gold, he blinds the Stone and he binds Aurinax. The order is the Alexandrian author's, and no source dates any step. `[research]`
 > - About 1488 DR: the unsigned letter in Kalain's lockbox says the last of the three Eyes has been secured. The Alexandrian files call it "written four years ago", which gives 1488 DR from the campaign's 1492 DR.
 > - 1489 DR: the Masked Lords vote Neverember out while he is in Neverwinter, and Laeral takes the seat. His agents take the Stone from the palace and lose it. The Doom Raiders arrive and the Cassalanters sign their pact in the same year.
-> - 1489 to 1492 DR, undated: the Stone reaches Xanathar, the Neverwinter Eye passes from the Zhentarim to Xanathar, and the Cassalanters take the Brandath Eye.
+> - 1489 to 1492 DR, undated: the Stone reaches Xanathar and the Cassalanters take the Brandath Eye.
+> - About Nightal 1491 DR (derived): the Neverwinter Eye passes from the Zhentarim to Xanathar when Xanathar kills Manshoon's envoys, three months before the fireball on Ches 22 (`arc-f-xanathars-lair.md` line 9; see **The Long Shadow**).
 > - Ches 1, 1492 DR: the campaign opens. Manshoon's cell took Renaer's locket the night before.
 
 > **[GM]**
@@ -141,9 +146,9 @@ Dagult Neverember, a wealthy noble who built his fortune in trade, was Open Lord
 > - **Research:** The old outline's harbor expansion, Dock Ward rebuilding and Watch funding increases are unsupported. The wiki says only that Waterdeep began to thrive, that he sold titles and that he hired Tarnian ships. The page uses the wiki version.
 > - **Research:** The old outline's embezzlement arc (small diversions that grew into a reserve and then became personal), the Masked Lords' investigation and public-story management, "trusted contacts" and "the trust did not outlast his position" are unsupported. The page replaces the Eye line with the Alexandrian account in the Secret.
 > - **Research:** The old outline's "Renaer has spent three years working to separate his name" is unsupported. The published adventure describes a longer estrangement.
-> - **Research:** The date of Alethea's death, the dates of each step between the embezzlement and the blinding of the Stone, and when the Stone reached Xanathar are all undated in every source.
+> - **Research:** The date of Alethea's death, the dates of each step between the embezzlement and the blinding of the Stone, and when the Stone reached Xanathar are all undated in every source. The wiki says only that she died in Renaer's youth. The Alexandrian order has Neverember find the vault while arranging her interment, which puts her death inside his tenure, and no source gives Renaer's age at the time.
 > - **Research:** "Four years ago" for the Kalain lockbox letter comes from the Alexandrian file, and no campaign page has adopted it yet.
-> - **Research:** The wiki cites "Death Masks" for several claims on Neverember's tenure and for Laeral's appointment, and the book could not be checked. The 1468 DR figure in the wiki's Lords of Waterdeep and History of Waterdeep pages is an unexpanded template, so its source is unknown.
+> - **Research:** The wiki cites "Death Masks" for several claims on Neverember's tenure and for Laeral's appointment, and the book could not be checked. The 1467 and 1468 DR split is real in the wiki: Lords of Waterdeep gives Neverember's tenure as circa 1468 DR to circa 1489 DR through a template reference, so its edition is not shown. Dagult Neverember gives circa 1467 DR for the office, also through a template, and 1468 DR for New Neverwinter (Neverwinter Campaign Setting, 4e). Both figures stand in the body.
 > - **Conflicts:** Neverwinter title and timing. `history.md` line 55 says he "retreated to Neverwinter and declared himself Lord Protector" after the ouster. `adventure-wdh.json` line 452 has him "off rebuilding" Neverwinter when voted out, and the wiki has him Lord Protector from 1467 or 1468 DR while still Open Lord. The Alexandrian timeline (p.98) has him proclaim himself ruler of Neverwinter in 1467 DR. The campaign says "Lord of Neverwinter" (`01-dagult-neverember.md` line 21, `02-renaer-neverember.md` line 26).
 > - **Conflicts:** Exile. `arc-j-vault-of-dragons.md` line 17 ("exile to Neverwinter made permanent and public"), `design-notes-running-the-campaign.md` line 105 ("publicly exiled") and `guides/factions/03-lords-alliance.md` line 7 ("Lord Neverember's exile") say exile. `adventure-wdh.json` line 452 says only voted out, and the wiki says effectively exiled. `arc-j` line 17 also calls the office "Lord Regent of Waterdeep", which no other source uses. This page says "removed" and "voted out" and keeps "exile" for the campaign's wording.
 > - **Conflicts:** Who found the embezzlement. `history.md` line 53 says the Masked Lords investigated. The Alexandrian timeline (p.99) says Laeral's auditors found it, and the published adventure says only that the Lords voted him out.
