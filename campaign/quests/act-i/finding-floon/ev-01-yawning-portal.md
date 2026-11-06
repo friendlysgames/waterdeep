@@ -7,7 +7,7 @@
 > This Social Event occurs when the party arrives at the Yawning Portal to meet their contact. In this Event:
 >
 > - Threestrings (Harper agent embedded at the Yawning Portal) introduces the party's situation and awaits Volo's arrival
-> - A bar brawl erupts between Yagra Stonefist (Doom Raiders) and Krentz's Xanathar Guild crew
+> - A bar brawl erupts between Yagra Stonefist (Doom Raiders) and Krentz's Xanathar's Guild crew
 > - Brandoch descends into Undermountain; the crowd performs the Going Down Song
 > - A troll hauls itself out of the well with six stirges attached; Durnan handles the troll while the party handles the stirges
 > - Volo Geddarm arrives and hires the party to find Floon Blagmaar, 10 gp upfront, 100 gp or a deed on delivery
@@ -30,7 +30,7 @@ Merchants, adventurers, off-duty Watch guards, dock workers. **Threestrings** (M
 
 ### The Bar Brawl
 
-Within fifteen minutes of the party's arrival, Yagra Stonefist crosses the room. She has been nursing a drink while watching a table of five Xanathar Guild thugs, led by **Krentz**, a man with eye-shaped tattoos on his shaved scalp. Two nights ago, Krentz's crew killed a Doom Raiders operative in the Dock Ward. When one of Krentz's companions says something audible about snake men getting what they deserved, Yagra moves.
+Within fifteen minutes of the party's arrival, Yagra Stonefist crosses the room. She has been nursing a drink while watching a table of five Xanathar's Guild thugs, led by **Krentz**, a man with eye-shaped tattoos on his shaved scalp. Two nights ago, Krentz's crew killed a Doom Raiders operative in the Dock Ward. When one of Krentz's companions says something audible about snake men getting what they deserved, Yagra moves.
 
 Before she throws the first punch: "You had no quarrel with us. Those weren't your turf. That was my friend." Krentz: "Your friend." Pause. "He's dead." First punch.
 
@@ -104,7 +104,7 @@ Volo pushes through the settling crowd, steered to the party's table by Threestr
 >
 > #### Faction Visibility in This Event
 >
-> Doom Raiders: Yagra, flying snake tattoo on her neck, Zhentarim pendant worn openly. Xanathar Guild: Krentz and four thugs with eye-shaped tattoos shaved into scalps. Bregan D'Aerthe: Ryvarra at the balcony table. Manshoon's Zhentarim: not present at the Yawning Portal. The Dock Ward killing Yagra referenced is their work.
+> Doom Raiders: Yagra, flying snake tattoo on her neck, Zhentarim pendant worn openly. Xanathar's Guild: Krentz and four thugs with eye-shaped tattoos shaved into scalps. Bregan D'Aerthe: Ryvarra at the balcony table. Manshoon's Zhentarim: not present at the Yawning Portal. The Dock Ward killing Yagra referenced is their work.
 
 ### Concluding the Event
 
@@ -132,4 +132,4 @@ The party's first night in Waterdeep drops them into a bar fight between two riv
 
 ## Summary
 
-The party met their contact at the Yawning Portal, witnessed a brawl between Doom Raiders and Xanathar Guild operatives, survived a troll emerging from the Undermountain well, and accepted a job from the writer Volo Geddarm to find his missing companion Floon Blagmaar, last seen in the Dock Ward last night.
+The party met their contact at the Yawning Portal, witnessed a brawl between Doom Raiders and Xanathar's Guild operatives, survived a troll emerging from the Undermountain well, and accepted a job from the writer Volo Geddarm to find his missing companion Floon Blagmaar, last seen in the Dock Ward last night.

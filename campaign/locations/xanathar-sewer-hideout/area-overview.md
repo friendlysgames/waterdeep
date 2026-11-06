@@ -66,3 +66,15 @@ Grum'shar and Nihiloor are present with Floon when the party arrives (unless the
 ### Q11 Status
 
 Inert after Nihiloor escapes (orb gone). Active for 1 minute after the orb is removed from the indentation. In normal play, Nihiloor always reaches Q11 before the party does. The room entry covers both states.
+
+> **[GM]**
+>
+> #### GM Notes: The Missing Eye
+>
+> - The night before Ches 1, the Guild's raiders carried the contents of the warehouse back office to this hideout. That haul included the locket's Eye of the Stone of Golorr, which nobody in the Guild recognizes. It was dumped with the other loot in a strongbox in Q03.
+> - Two Bregan D'aerthe agents are posing as Guild guards here and report through Nar'l's circle. They lifted the Eye from the strongbox before dawn, and it reached Jarlaxle before the party arrives. The party cannot recover it here.
+> - The Guild does not know the Eye is gone. Nobody has looked in the strongbox since the haul came in.
+> - The Q03 strongbox has been forced open and emptied. A thin brass chain with a snapped clasp lies in the bottom. Renaer Neverember recognizes it as his locket's chain if he is with the party or sees it later.
+> - One guard was pulled off the watch that night, reassigned to a Dock Ward street crew, and has not been seen since. A captured goblin or Zemk grumbles about it as an easy transfer someone else got.
+> - Nobody who handled the loot will say what was in the strongbox. Each of them assumes a colleague pocketed whatever is missing, and none wants the blame.
+> - The trail goes cold here. It resumes in **The Eyes of the Stone**, where Jarlaxle already holds the Eye.

@@ -10,11 +10,11 @@
 > - The party hears five versions of the same situation without any of them being straightforwardly wrong.
 > - If the party met Jarlaxle in **Fireball!** (*Jarlaxle Informed* set), he delivers a different brief depending on whether a BD operative is in the party: non-operatives receive the intelligence package with one deliberate omission; BD operatives receive the full picture plus direct operational orders.
 > - All contacts reference the Ches 24th deadline; the party understands the window is real.
-> - "If They Don't Go" contingency is noted at the end for DM reference.
+> - "If They Don't Go" contingency is noted at the end for GM reference.
 >
 > **Trigger:** The party has the address — Gralhund Villa, Saerdoun Street, North Ward — and has not yet committed to entry.
 
-The party has roughly forty-eight hours. The faction contacts know it. Each one reaches out in the forty-eight hours after the fireball's investigation delivers the address — notes, flying snakes, casual encounters that are not casual. The DM can deliver these in any order; they do not require the party to seek anyone out. The contacts find them.
+The party has roughly forty-eight hours. The faction contacts know it. Each one reaches out in the forty-eight hours after the fireball's investigation delivers the address — notes, flying snakes, casual encounters that are not casual. The GM can deliver these in any order; they do not require the party to seek anyone out. The contacts find them.
 
 ### Mirt (Harpers)
 

@@ -10,7 +10,7 @@
 > - Three entry approaches are available — peaceful, alarmed, or forced — each with distinct consequences.
 > - Alarm escalation unfolds in four beats if the estate's network is triggered.
 > - Lord Orond Gralhund is in G12 during the day and will speak under gentle pressure.
-> - The optional homebrew escalation elements are listed here for DMs who want a harder day encounter.
+> - The optional homebrew escalation elements are listed here for GMs who want a harder day encounter.
 > - If the raid arrives while the party is inside, the event chains directly into ev-04.
 >
 > **Trigger:** Party arrives at Gralhund Villa during the day (before nightfall on Ches 24th). Follows from the day path commitment in ev-02.

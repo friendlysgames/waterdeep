@@ -49,7 +49,7 @@ What changes the calculation entirely:
 
 The chaos downstairs is simultaneously the party's cover and their time limit. G13 melee may spill into the hallway before the confrontation resolves. Zhent survivors may push toward G16 if the stairhead fight collapses. The Watch will be outside within 1d6 + 4 minutes of any window-shattering or external shouting.
 
-If the DM wants to add pressure without adding combatants: have sounds escalate from below. The stairhead fight is audible; Floxin's voice, if he is still alive and has not been dealt with, carries clearly from the G15 corridor. Yalah knows what those sounds mean. So does Hrabbaz.
+If the GM wants to add pressure without adding combatants: have sounds escalate from below. The stairhead fight is audible; Floxin's voice, if he is still alive and has not been dealt with, carries clearly from the G15 corridor. Yalah knows what those sounds mean. So does Hrabbaz.
 
 ### Hrabbaz
 

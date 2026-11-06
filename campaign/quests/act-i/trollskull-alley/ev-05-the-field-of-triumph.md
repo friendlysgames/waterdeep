@@ -9,7 +9,7 @@
 > - Zardoz Zord (Jarlaxle) sponsors the party's gladiatorial entry; he watches from his box and evaluates precisely
 > - The tournament runs four rounds under nonlethal rules; prize purses close most of the remaining renovation gap
 > - Meloon Wardragon leads the opposing team in the final round; this is the party's only chance to meet him as himself
-> - Xanathar Guild makes unsolicited contact after the final bout; the party receives a token
+> - Xanathar's Guild makes unsolicited contact after the final bout; the party receives a token
 > - Emmek's Stages 2–3 can trigger if the renovation has opened staff hiring
 >
 > **Milestone: 1 Milestone Point** — the party completes the tournament; the renovation is nearly funded.
@@ -56,13 +56,13 @@ Award **Meloon Met (Field of Triumph)** attunement.
 
 Force Grey Mission 3 brings him back changed. This attunement is load-bearing for that mission's impact. Cross-ref the **Meloon Wardragon** page in Notable Figures, the **Force Grey** Faction Events (Mission 3).
 
-### Xanathar Guild Contact
+### Xanathar's Guild Contact
 
 After the final bout, a Guild scout makes contact: professional and direct, offering paid work in the Dock Ward and handing over a token for the Old Xoblob Shop. Not a viable faction path.
 
 #### Party Branch — Keeps the Token
 
-Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified. This notification becomes relevant in Xanathar's Lair.
+Award **Xanathar Token: Kept**. The token may function as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified. This notification becomes relevant in Xanathar's Lair.
 
 #### Party Branch — Discards the Token
 
@@ -86,7 +86,7 @@ The party encountered Meloon Wardragon as himself: competitive, warm, direct. Fo
 
 #### Xanathar Token Kept: True / False
 
-The party held the Guild scout's token. It functions as limited safe passage in Xanathar Guild territory. If the party won the final bout, Xanathar himself has been notified of them — this notification is read by Xanathar's Lair's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
+The party held the Guild scout's token. It functions as limited safe passage in Xanathar's Guild territory. If the party won the final bout, Xanathar itself has been notified of them — this notification is read by Xanathar's Lair's intelligence briefing and shapes how the lair's occupants respond when the party arrives.
 
 #### Xanathar Token Discarded: True / False
 
@@ -108,7 +108,7 @@ The party brought the token and the scout's approach to a faction. The faction g
 
 ## Overview
 
-Zardoz Zord invited the party to fight in his sponsored gladiatorial slots at the Field of Triumph. Four rounds of nonlethal combat. The final round put them across the sand from Meloon Wardragon, who shook their hands afterward and asked their names. The Xanathar Guild was watching.
+Zardoz Zord invited the party to fight in his sponsored gladiatorial slots at the Field of Triumph. Four rounds of nonlethal combat. The final round put them across the sand from Meloon Wardragon, who shook their hands afterward and asked their names. Xanathar's Guild was watching.
 
 ## Read Aloud
 
@@ -116,4 +116,4 @@ Zardoz Zord invited the party to fight in his sponsored gladiatorial slots at th
 
 ## Summary
 
-The party competed in Zardoz Zord's sponsored gladiatorial slots at the Field of Triumph, met Meloon Wardragon in the final round, and received an unsolicited contact from the Xanathar Guild. The prize purses helped close the renovation gap. The tournament is done; the Grand Opening is next.
+The party competed in Zardoz Zord's sponsored gladiatorial slots at the Field of Triumph, met Meloon Wardragon in the final round, and received an unsolicited contact from Xanathar's Guild. The prize purses helped close the renovation gap. The tournament is done; the Grand Opening is next.

@@ -18,7 +18,7 @@ At 05:00 Mirt lets himself into the Trollskull Manor taproom through the back do
 
 ## Background
 
-Corene has worked inside the Xanathar Guild's Dock Ward operation for four months. Three weeks ago one of Nihiloor's devourers took her, and it has used her since to learn who the Harpers are. The second problem is older. Someone in the Harper records relay has been copying every operational entry to a Splinter handler, and **The Cell Is Compromised** has already told the members that a leak exists.
+Corene has worked inside the Dock Ward operation of Xanathar's Guild for four months. Three weeks ago one of Nihiloor's devourers took her, and it has used her since to learn who the Harpers are. The second problem is older. Someone in the Harper records relay has been copying every operational entry to a Splinter handler, and **The Cell Is Compromised** has already told the members that a leak exists.
 
 > [!gamemaster]**What Is Actually True**
 >

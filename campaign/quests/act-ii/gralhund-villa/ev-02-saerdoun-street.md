@@ -75,13 +75,13 @@ The party must decide when to enter. This decision determines everything that fo
 
 **Night state** (arriving on the night of Ches 24th, raid in progress): Floxin's team has already entered through the Pantry (G6). The raid is underway. At least a dozen bodies when the party arrives. Three factions in collision. Proceed to **ev-04: The Zhentarim Raid**.
 
-The day/night choice should not feel like a coin flip. The DM should surface what the party knows — the Ches 24th deadline, the explicit faction warnings about the window — clearly enough that arriving early or late is a genuine choice with understood tradeoffs: a guarded household versus a building already mid-battle.
+The day/night choice should not feel like a coin flip. The GM should surface what the party knows — the Ches 24th deadline, the explicit faction warnings about the window — clearly enough that arriving early or late is a genuine choice with understood tradeoffs: a guarded household versus a building already mid-battle.
 
 > **[GM]**
 >
 > #### Day-to-Night Chain
 >
-> If the party enters during the day (ev-03) and is still inside when the night of Ches 24th arrives, the raid begins regardless. The DM should signal the approach of nightfall — growing dark outside the windows, Hurv Taldred beginning his yard rounds with a lamp — so the party can choose to withdraw, push for the confrontation, or brace for what comes through the Pantry. Once the raid begins, continue from ev-03 directly into ev-04 using the current adversary positions. Proceed to ev-05 (Floxin at G15) and then ev-07 (Night Confrontation).
+> If the party enters during the day (ev-03) and is still inside when the night of Ches 24th arrives, the raid begins regardless. The GM should signal the approach of nightfall — growing dark outside the windows, Hurv Taldred beginning his yard rounds with a lamp — so the party can choose to withdraw, push for the confrontation, or brace for what comes through the Pantry. Once the raid begins, continue from ev-03 directly into ev-04 using the current adversary positions. Proceed to ev-05 (Floxin at G15) and then ev-07 (Night Confrontation).
 
 ### Concluding the Event
 

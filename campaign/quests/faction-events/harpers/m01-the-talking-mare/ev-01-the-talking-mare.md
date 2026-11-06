@@ -193,7 +193,7 @@ Maxeene takes the apple before she answers anything. She talks in a quiet place,
 >
 > > "Two days ago a sun elf and a half-orc woman hired me from Salabar Street to the Yawning Portal. The elf did the talking, and the half-orc, who had a tattoo of a winged snake on her neck, watched the street all the way."
 > >
-> > "They wanted to hire spies to find the Xanathar Guild's hideouts, and he wanted three names by the end of the tenday. He also said there was no use starting a war until they knew who was running it."
+> > "They wanted to hire spies to find Xanathar's Guild hideouts, and he wanted three names by the end of the tenday. He also said there was no use starting a war until they knew who was running it."
 
 > [!qna]**Does anything seem strange?**
 >
@@ -438,4 +438,4 @@ The party searches the Dock Ward for a talking draft horse and learns what she h
 
 ## Summary
 
-We found Maxeene at a hire stand off Fillet Lane and learned that she had carried a man to a house on Shesstra Street. She had also carried two people who talked about hiring spies against the Xanathar Guild. A woman in a coach had been watching her, and we told Mirt what we did about it.
+We found Maxeene at a hire stand off Fillet Lane and learned that she had carried a man to a house on Shesstra Street. She had also carried two people who talked about hiring spies against Xanathar's Guild. A woman in a coach had been watching her, and we told Mirt what we did about it.

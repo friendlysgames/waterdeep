@@ -4,7 +4,7 @@
 >
 > #### Quest Requirements
 >
-> Trollskull Alley complete. The DM's observation task from Trollskull Alley Scene 3 is resolved — the Trollskull Alley victim has been designated by name before this quest begins. The party is established at Trollskull Manor and has at least one active faction contact.
+> Trollskull Alley complete. The GM's observation task from Trollskull Alley Scene 3 is resolved — the Trollskull Alley victim has been designated by name before this quest begins. The party is established at Trollskull Manor and has at least one active faction contact.
 >
 > #### Difficulty
 >

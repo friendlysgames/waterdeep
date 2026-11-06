@@ -12,7 +12,7 @@ The intermediary's description has three independent routes: Harlan Crake, Brisa
 
 ## Departures from the Source
 
-Thugs became Toughs and Bandits. The source's "Manshoon's Zhentarim" is the Splinter, and Savra and Pell never name Manshoon. The "no death" bonus is no longer an outcome, because only the renown total read it. The `+1 Renown` reward in the source is now a base of 2 and three `+1` lines, to fit the shared ladder. The source has Pell found "during Arc E"; the list is now available on any evening after the brawl, and it is sold for 100 gp if the debt was not held.
+Thugs became Toughs and Bandits. The source's "Manshoon's Zhentarim" is the Splinter, and Savra and Pell never name Manshoon. The "no death" bonus is no longer an outcome, because only the renown total read it. The `+1 Renown` reward in the source is now a base of 2 and three `+1` lines, to fit the shared ladder. The source has Pell found during **Faction Outposts**; the list is now available on any evening after the brawl, and it is sold for 100 gp if the debt was not held.
 
 ## Invented Names and Open Items
 

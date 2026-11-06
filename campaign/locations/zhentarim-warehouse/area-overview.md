@@ -32,7 +32,7 @@ Three locked entry points (DC 12 Dexterity with thieves' tools, or DC 10 Strengt
 
 ### Inhabitants
 
-During the **Zhentarim Warehouse** Event, the building is occupied by four kenku, left by the Xanathar Guild to kill any Zhentarim who return. The Zhentarim cell that used this warehouse is dead — killed in the raid that preceded the party's arrival.
+During the **Zhentarim Warehouse** Event, the building is occupied by four kenku, left by Xanathar's Guild to kill any Zhentarim who return. The Zhentarim cell that used this warehouse is dead — killed in the raid that preceded the party's arrival.
 
 **Renaer Neverember** is in Z02. He has slipped his bonds and is waiting. He won't reveal himself until the party deals with the kenku.
 
@@ -50,7 +50,7 @@ Each keyed room entry notes how the kenku behave in both states. Refer to the **
 
 ### The Previous Occupants
 
-The twelve corpses in Z01 are the remnants of two organizations that met violently. Five Zhentarim thugs (flying snake tattoos on neck or forearm) and seven Xanathar Guild thugs, one of whom has Xanathar's circle-and-spokes mark tattooed on their right palm. Rapiers and daggers lie nearby. The fight was no more than a day old.
+The twelve corpses in Z01 are the remnants of two organizations that met violently. Five Zhentarim thugs (flying snake tattoos on neck or forearm) and seven Xanathar's Guild thugs, one of whom has Xanathar's circle-and-spokes mark tattooed on their right palm. Rapiers and daggers lie nearby. The fight was no more than a day old.
 
 ### Loot
 
