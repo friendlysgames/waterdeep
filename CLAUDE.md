@@ -176,7 +176,7 @@ All setting files are structuring drafts.
 | File | Contents |
 |---|---|
 | `waterdeep-lore.md` | Wards, governance, guilds, religion, festival calendar, dragonward |
-| `history.md` | 8-era narrative history: Ahghairon through the players' arrival |
+| `history/` | The History hub, eight era pages (`01`-`08`) and Timekeeping and the Festival Calendar (`09`): Ahghairon through the players' arrival, with a dated Timeline where sources settle one |
 | `grand-game.md` | In-world Grand Game frame; faction starting knowledge table |
 | `villains/xanathar.md` | 3 personality phases, relationships, goals, Sylgar note |
 | `villains/manshoon.md` | 3 phases (incl. Simulacrum), relationships, goals, Two Zhentarims DM note |

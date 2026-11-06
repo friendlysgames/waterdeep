@@ -81,7 +81,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 - `sources/1. The Villains.pdf`: Alexandrian villain analysis, primary reference
 - `sources/11. Lair Xanathar's Lair.pdf`: full lair reference
 - Earlier outline of this page (retired), Section 2: Xanathar
-- `campaign/setting/history.md`, Era 2: the title, continuity method, ascension and Skullport bullets in Background
+- `campaign/setting/history/02-the-long-shadow.md`: the title, continuity method, ascension and Skullport bullets in Background
 - `campaign/setting/waterdeep-lore.md`, Wards: the Dock Ward and Undermountain bullets in Background
 - `campaign/setting/organizations/08-xanathars-guild.md` and `campaign/setting/notable-figures/xanathars-guild/`: public face used in the Overview, and name verification
 

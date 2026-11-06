@@ -89,7 +89,7 @@ The Cassalanters are a noble family of Waterdeep and among the city's most promi
 
 - `campaign/setting/organizations/10-cassalanters.md` (previous version): Gamemaster's Summary, Operations, Key Members and Overview, moved or kept
 - `campaign/setting/villains/cassalanters.md`: Personality Phases, Relationships, Goals, Harpers watching, Willifort and the temple
-- `campaign/setting/history.md`, Era 5: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
+- `campaign/setting/history/05-a-debt-in-blood.md`: several generations on the registry, the terms of the bargain, the recovery plan, Ammalia's Founders' Day calculation
 - `campaign/setting/notable-figures/cassalanters/`: all fourteen pages, for public personas, motivations and the service-as-worship tenet
 - `campaign/setting/waterdeep-lore.md`: Sea Ward, Waukeentide galas, the illegal temple and the Code Legal
 - `campaign/setting/grand-game.md`: front businesses, galas as recruitment screens, starting knowledge

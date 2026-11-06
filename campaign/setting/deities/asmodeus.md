@@ -81,7 +81,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - `/tmp/.../scratchpad/notes/deity-asmodeus-research.md`, FRHoF p.100 entry (current 2024-era canon): title God of Indulgence, other names, worshipers, plane (the Nine Hells, Nessus), messengers, omen, attitudes toward worship, Fugue Plane pitch, the Chosen.
 - Same note, SCAG p.21 entry (2014), used only as fallback: alignment, domains, symbol, the origin of open worship. Marked "fallback: SCAG (2014)" where used.
 - Not used by instruction: the DMG entry (Dawn War pantheon) and the EGW entry (Exandria pantheon), including the EGW "Commandments", depiction and the fortress of Nalsheem.
-- `campaign/setting/history.md`, Era 5: the pact, the three children, Osvaldo, the Founders' Day calculation.
+- `campaign/setting/history/05-a-debt-in-blood.md`: the pact, the three children, Osvaldo, the Founders' Day calculation.
 - `campaign/setting/organizations/10-cassalanters.md`: key members and cult roles, the twins' ninth birthday, the loophole ritual, the 99-person feast.
 - `campaign/setting/villains/cassalanters.md`: Asmodeus as creditor.
 - `campaign/setting/waterdeep-lore.md`: the illegal temple and the Code Legal offense.

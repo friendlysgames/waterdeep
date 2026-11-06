@@ -61,6 +61,6 @@
 
 ## Cross-References
 
-- [History of Waterdeep](history.md) — how the city's present came to be
+- **The History**: how the city's present came to be
 - [The Grand Game](grand-game.md) — in-world texture of power and information
 - [GM Guide: Structural Rules](../guides/gm-guide/structural-rules.md) — festival calendar as structural device
