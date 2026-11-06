@@ -20,7 +20,7 @@ Xanathar is a beholder and the crime lord of **Xanathar's Guild**, a paranoid in
 
 - "Xanathar" is a title that predates any individual beholder. The first holder established the criminal underworld's structure, and each later Xanathar inherited the apparatus and the paranoia together.
 - The Guild keeps continuity by systematically eliminating anyone who knows more than the current Xanathar. After a century of this, the Guild is a surveillance network with no institutional memory beyond what the current beholder chooses to believe.
-- The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. Both names were supplied by the user; neither appears in a published source or an earlier campaign file.
+- The current Xanathar is a beholder named Zushaxx, and its pronouns are "it". Kirukesai was one of the previous Xanathars. The user supplied both names. The Forgotten Realms Wiki also lists Zushaxx as a late 15th-century Xanathar and Kirukeskai as a 14th-century one (the wiki spells it Kirukeskai; the campaign spells it Kirukesai).
 - The current Xanathar believes it is the original. This belief is now structural to the Guild's identity rather than correctable. How the belief arose is not settled in any source. [research]
 - Skullport is the Guild's undercity foundation: the shadow city three levels below Waterdeep, outside city jurisdiction, processing everything the surface economy won't handle. The Guild's relationship to Skullport is the relationship between a city and its sewers.
 - The Yawning Portal well drops to Undermountain Level 1, and Skullport lies three levels down.
@@ -100,7 +100,7 @@ Xanathar's Guild is the largest criminal organization in Waterdeep, and the only
 >
 > #### Draft Notes
 > - **Research:** How the current Xanathar came to believe it is the original (Background). No source settles it.
-> - **Research:** Zushaxx and Kirukesai were supplied by the user and appear in no published source. Confirm them before they spread to other pages.
+> - **Research:** Zushaxx and Kirukesai were supplied by the user and the Forgotten Realms Wiki confirms both names (Xanathar's Thieves' Guild and Xanathar pages). Settled; the wiki's spelling of the second is Kirukeskai, which the campaign does not use.
 > - **Conflicts:** The Relationships table (kept verbatim) calls Nihiloor a trusted gatherer with unusual autonomy, but the relationship notes say Nihiloor has dominated Xanathar for four months. `arc-f` line 408 says every decision attributed to the beholder was Nihiloor's, which is not yet reflected here. `04-nihiloor.md` lines 22 and 26 say Nihiloor has no interest in supplanting Xanathar.
 > - **Conflicts:** The table calls Nar'l "Trusted" and the notes say Xanathar suspects him and has set a grell to kill him at the first proof. Nar'l's tenure also differs by source: one year in the published adventure, three years in `03-narl.md` line 22 and the Guild organization page, and eleven years or months in `arc-f` lines 17 and 169. Stale text remains in `grand-game-in-play.md` line 63, `running-the-villains.md` lines 71 and 73, and `01-xanathar.md` line 27.
 > - **Conflicts:** The Manshoon relationship is an active, low-level street war in the Dock Ward. `running-the-villains.md` line 71 still says "Cold war".
