@@ -11,7 +11,7 @@ Manshoon's splinter is a professional organization, and it sounds like one. His 
 
 - **Sound:** A cultured, cool, perfectly modulated voice, never raised, precise in every consonant. His artificial arm clicks faintly when he gestures.
 - **Sentence shape:** Long, calm, flawless sentences built like proofs. He states the other person's options for them, then the consequence of each.
-- **Word choice:** Scholarly and imperial: "inevitable", "an arrangement", "the Weave", "my city" (said as a correction). He calls the party by name once he's learned it, and simulacra of himself "the others".
+- **Word choice:** Scholarly and imperial: "inevitable", "an arrangement", "the Weave", "my city" (said as a correction). He calls the party by name once he's learned it, and the simulacra he has made "the others".
 - **Swearing:** *Never · Plain · n/a.* Profanity is for people who lack better words. His rare anger is precise and calm, and more frightening for it.
 - **Personality in speech:** Cold patience, contempt and certainty. He negotiates from strength and is calm about consequences in a way that should unsettle. His frustrated pride about the arm and Halaster surfaces as one clipped, bitter sentence, then composure again.
 - **Phases:**

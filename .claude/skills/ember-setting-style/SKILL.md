@@ -69,7 +69,7 @@ Never let the voices bleed. GM advice does not slip into lore narration, and lor
 > *Brevin is one of the first of a new type of settlement known as "seed settlements."*
 > *The Vile Dragon known as **Zerranyss** is the principal antagonist and central villain of our story.*
 
-Waterdeep form: *"The Xanathar Guild is the largest criminal organization in Waterdeep's sewers, and the only one run by a beholder."*
+Waterdeep form: *"Xanathar's Guild is the largest criminal organization in Waterdeep's sewers, and the only one run by a beholder."*
 
 After the first sentence, `ttrpg-sourcebook-style` governs participial and concessive openers and consequence-layering, and `ember-voice` governs rhythm: long, accumulative sentences of 25–35 words, and no short landing sentence.
 

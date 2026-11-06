@@ -9,16 +9,16 @@ A beholder's court: everyone in it speaks in the shadow of one paranoid voice. T
 
 - **Sound:** A booming, echoing voice that seems to come from the whole chamber, overlapping itself as the eyestalks mutter. It goes high and wobbling over Sylgar.
 - **Sentence shape:** Grand pronouncements, the royal "we", and lists of enemies and conspiracies. The voice shifts with its phase (see below).
-- **Word choice:** Megalomaniac and paranoid: "my city", "my Guild", "traitors", "they conspire". He calls minions "lackeys" or by the wrong name. Sylgar gets baby talk.
-- **Swearing:** *Triggered · Colourful · Tirade.* Volcanic and eye-themed when enraged ("Blind, maggot-brained, eyeless fucks! I'll disintegrate your whole bloodline!"). He never swears near Sylgar. Tirade (Cornered Monster): "Traitors! Worms! Eyeless, gutless, sewer-born, rat-fucking, lying, scheming, blinking, BLINKING maggots, every one of you, I see you, I SEE YOU ALL!"
-- **Personality in speech:** Paranoia and grandiosity. Everything implies conspiracy. His tenderness for Sylgar is total and absurd. His fear of death comes out as threats.
+- **Word choice:** Megalomaniac and paranoid: "my city", "my Guild", "traitors", "they conspire". It calls minions "lackeys" or by the wrong name. Sylgar gets baby talk.
+- **Swearing:** *Triggered · Colourful · Tirade.* Volcanic and eye-themed when enraged ("Blind, maggot-brained, eyeless fucks! I'll disintegrate your whole bloodline!"). It never swears near Sylgar. Tirade (Cornered Monster): "Traitors! Worms! Eyeless, gutless, sewer-born, rat-fucking, lying, scheming, blinking, BLINKING maggots, every one of you, I see you, I SEE YOU ALL!"
+- **Personality in speech:** Paranoia and grandiosity. Everything implies conspiracy. Its tenderness for Sylgar is total and absurd. Its fear of death comes out as threats.
 - **Phases:**
   - **The Paranoid Tyrant (Acts I–II):** calm, administrative, bored cruelty.
   - **The Wounded God (Act III):** shrill, suspicious and questioning, accusing everyone in the room.
-  - **The Cornered Monster (Xanathar's Lair):** volcanic rage in broken sentences, with sudden lucid moments of eerie calm, and Sylgar as his only anchor.
-- **Quirks:** He talks to Sylgar mid-threat. He refers to himself as "we" and "the Xanathar". His eyestalks argue with each other in mutters.
+  - **The Cornered Monster (Xanathar's Lair):** volcanic rage in broken sentences, with sudden lucid moments of eerie calm, and Sylgar as its only anchor.
+- **Quirks:** It talks to Sylgar mid-threat. It refers to itself as "we" and "the Xanathar". Its eyestalks argue with each other in mutters.
 - **Signature phrases:** "Who sent you? WHO?" / "Sylgar, darling, look away." / "The Xanathar sees everything."
-- **Never:** He never admits fear, never shares power, and never lets anyone touch the fish.
+- **Never:** It never admits fear, never shares power, and never lets anyone touch the fish.
 - **Sample lines:**
   - *Greeting:* "Ah. The little tavern people. We have heard of you. We hear of everything. Kneel, or become an interesting stain."
   - *Business:* "Bring us the Stone and the Zhentarim heads that come with it, and we might let you keep your eyes. Two of them, at least."
