@@ -117,7 +117,7 @@ Bregan D'aerthe is a drow mercenary company that began in the Underdark city of 
 - **Bregan D'aerthe** (Faction Operations): renown, missions, response teams, outposts, escalation and the revelation list.
 - **Jarlaxle Baenre**, **Soluun Xibrindas**, **Krebbyg Masq'il'yr**, **Fel'rekt Lafeen**, **Nar'l Xibrindas** and **Vessa** (Notable Figures): the people named here.
 - **Laeral Silverhand** and **Dagult Neverember** (Notable Figures): the two leaders on the other side of the Lords' Alliance scheme.
-- **Lords' Alliance** (Organizations): the body Luskan wants to join.
+- **The Lords' Alliance** (Organizations): the body Luskan wants to join.
 - **Xanathar's Guild** (Organizations): where Nar'l is placed.
 - **A Debt in Blood**: why Jarlaxle alone knows what the Cassalanters have done.
 - **Timekeeping and the Festival Calendar**: Fleetswake and the Faire's departure date.
