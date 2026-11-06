@@ -13,7 +13,7 @@
 
 **Emotions.** Grevik most often feels professional pride in clean work, patient attention to patron patterns, quiet contempt for sloppiness, calm deliberateness, and genuine satisfaction when a dish lands exactly right. Underneath all of it sits background guilt he does not examine.
 
-**Motivations.** Grevik wants to compile an accurate patron intelligence file for the Xanathar Guild (who dines here, with whom, and about what), make the food worth recommending so no one looks closely at the cook, and complete the assignment without drawing a replacement.
+**Motivations.** Grevik wants to compile an accurate patron intelligence file for Xanathar's Guild (who dines here, with whom, and about what), make the food worth recommending so no one looks closely at the cook, and complete the assignment without drawing a replacement.
 
 **Inspirations.** When playing Grevik, channel Gustavo Fring (*Breaking Bad*), Thomas Barrow (*Downton Abbey*), and The Operative (*Serenity*).
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Grevik yields position, retreats through the kitchen, and gets a runner to the Guild within the hour. He is an intelligence operative and fights nothing he can avoid.
 
-**Relationships.** Grevik is a Xanathar Guild operative embedded as the tavern's Master Cook candidate, a man whose two-tenday file will give Xanathar a usable picture of Trollskull's patronage, and one of two Guild plants in the tavern staff alongside Tobrin Ashvale, whose position behind the bar gives the Guild a second angle on the same room.
+**Relationships.** Grevik is an operative of Xanathar's Guild embedded as the tavern's Master Cook candidate, a man whose two-tenday file will give Xanathar a usable picture of Trollskull's patronage, and one of two Guild plants in the tavern staff alongside Tobrin Ashvale, whose position behind the bar gives the Guild a second angle on the same room.
 
 ## Overview
 

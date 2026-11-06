@@ -22,8 +22,8 @@
 
 **Morale.** In a fight, Noska fires his crossbow-arm from range and closes to melee without hesitation. He has disadvantage on climbing due to his missing hand but compensates by never needing to be anywhere subtle.
 
-**Relationships.** Noska is a Xanathar Guild enforcer, the third response team leader, and a shield dwarf whose crossbow-arm, rust monster pet, and bathtub bed constitute a complete portrait of his priorities.
+**Relationships.** Noska is an enforcer of Xanathar's Guild, the third response team leader, and a shield dwarf whose crossbow-arm, rust monster pet, and bathtub bed constitute a complete portrait of his priorities.
 
 ## Overview
 
-Noska Ur'gray is a Xanathar Guild enforcer, recognizable by the heavy crossbow that replaces his left forearm. He is direct, uncomplicated, and reliably present whenever the Guild needs a problem solved by violence.
+Noska Ur'gray is an enforcer of Xanathar's Guild, recognizable by the heavy crossbow that replaces his left forearm. He is direct, uncomplicated, and reliably present whenever the Guild needs a problem solved by violence.

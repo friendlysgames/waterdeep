@@ -13,7 +13,7 @@
 
 **Emotions.** Davil most often feels affable warmth, strategic patience, real fondness for capable people, private grief over Skeemo's betrayal, careful deliberation, and a sadness he expresses through music rather than words.
 
-**Motivations.** Davil wants to keep the Doom Raiders operational and independent from Manshoon's splinter, maintain peace with the Xanathar Guild through negotiation rather than violence, and protect the people who chose to follow him.
+**Motivations.** Davil wants to keep the Doom Raiders operational and independent from Manshoon's splinter, maintain peace with Xanathar's Guild through negotiation rather than violence, and protect the people who chose to follow him.
 
 **Inspirations.** When playing Davil, channel Havelock Vetinari (*Discworld*), Iroh (*Avatar: The Last Airbender*), and Michael Corleone (*The Godfather*).
 

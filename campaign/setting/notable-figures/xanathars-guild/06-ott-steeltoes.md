@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Ott stammers, closes his eyes, and attempts to communicate his distress to Xanathar. This does not work. He then runs.
 
-**Relationships.** Ott is Xanathar's fishkeeper (all Sylgar replacements have passed through him), a Zuggtmoy worshipper who cultivates mushrooms in his quarters, a Zhentarim prisoner at the Interrogation House, a Xanathar Guild field agent, and a detailed intelligence source for anyone who rescues him and asks the right questions about the Lair.
+**Relationships.** Ott is Xanathar's fishkeeper (all Sylgar replacements have passed through him), a Zuggtmoy worshipper who cultivates mushrooms in his quarters, a Zhentarim prisoner at the Interrogation House, a field agent of Xanathar's Guild, and a detailed intelligence source for anyone who rescues him and asks the right questions about the Lair.
 
 ## Overview
 

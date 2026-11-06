@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **Campaign role:** Player faction — the legitimate Black Network cell in Waterdeep, at active internal war with Manshoon's Zhentarim splinter.
+> - **Campaign role:** Player faction — the legitimate Black Network cell in Waterdeep, here since 1489 DR and at active war with Manshoon's Zhentarim splinter.
 > - **Contacts:** **Davil Starsong** (primary, Yawning Portal); **Tashlyn Yafeera** (takes over after Mission 2, communicates by flying snake); **Yagra Stonefist** (street contact, Yawning Portal bar)
 > - **Mission delivery:** Flying snake.
 > - **Featured in:** **Fireball!**, **Gralhund Villa**, **Faction Outposts**, **Kolat Towers**, **Vault of Dragons**
@@ -20,9 +20,9 @@
 
 *"The best thing about being part of the Black Network? The Network is always there when you need it."*
 
-The Doom Raiders are a cell of experienced Zhentarim operators who arrived in Waterdeep several years ago and built a network of commercial fronts they genuinely believe in. They are professional criminals who prefer contracts to confrontations and sincerely believe the Black Network works best when it operates like a legitimate enterprise. Their agreements hold. Their violence is purposeful, never gratuitous.
+The Doom Raiders are a cell of experienced Zhentarim operators who arrived in Waterdeep in 1489 DR, the first Zhentarim cell in the city, and built a network of commercial fronts they genuinely believe in. They are professional criminals who prefer contracts to confrontations and sincerely believe the Black Network works best when it operates like a legitimate enterprise. Their agreements hold. Their violence is purposeful, never gratuitous.
 
-The Doom Raiders and Manshoon's Zhentarim splinter cell are at active internal war. The two cells despise each other: information shared with the Doom Raiders will not reach Manshoon's agents. However, characters who join the Doom Raiders are joining one half of a fractured organization and will inevitably be caught in the crossfire as Manshoon moves to eliminate Davil's cell entirely. This is a structural feature of the campaign.
+The Doom Raiders and Manshoon's Zhentarim splinter cell are at active war. Manshoon's cell came later and peeled off the Doom Raiders' network, and the two cells despise each other: information shared with the Doom Raiders will not reach Manshoon's agents. However, characters who join the Doom Raiders are joining the older cell and will inevitably be caught in the crossfire as Manshoon moves to eliminate Davil's cell entirely. This is a structural feature of the campaign.
 
 **Primary Contact:** Davil Starsong — a sun elf retired adventurer who leads the Doom Raiders' Waterdeep operation. Charming, direct, and genuinely invested in ending the street violence Manshoon's cell has caused. Tashlyn Yafeera handles the cell's business whenever Davil is unavailable.
 
@@ -50,4 +50,4 @@ Davil's cell sees an enormous opportunity in the half-million dragons — effort
 
 ## Overview
 
-The Doom Raiders are a cell of experienced Zhentarim operators running commercial fronts in Waterdeep — professional criminals who prefer contracts to confrontations. They are at active internal war with a rival Zhentarim splinter cell, which makes every piece of intelligence the party brings them valuable and every mission a potential move in a larger fight.
+The Doom Raiders are a cell of experienced Zhentarim operators running commercial fronts in Waterdeep — professional criminals who prefer contracts to confrontations. They are at active war with a rival Zhentarim cell that peeled off their network, which makes every piece of intelligence the party brings them valuable and every mission a potential move in a larger fight.

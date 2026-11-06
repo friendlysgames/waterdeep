@@ -11,7 +11,7 @@
 
 **Resonance.** Dalakhar should inspire respect for his competence (he stole the Stone where many before him failed), sympathy for his doomed loyalty, and curiosity through the fragments the party pieces together after his death.
 
-**Emotions.** Dalakhar most often felt cautious determination, operative's pride, growing fear of pursuit, unshakable loyalty to Dagult Neverember, and exhaustion from weeks living in the sewers.
+**Emotions.** Dalakhar most often felt cautious determination, operative's pride, growing fear of pursuit, unshakable loyalty to Dagult Neverember, and exhaustion from days living in the sewers.
 
 **Motivations.** Dalakhar wanted to deliver the Stone of Golorr to the party (planning to reclaim it later for Neverember), avoid the Zhentarim and Xanathar agents closing in, and serve the man he believed was Waterdeep's rightful Open Lord.
 
@@ -19,7 +19,7 @@
 
 ## Character Information
 
-**Persona.** To the world, Dalakhar was a small gnome with dry waste on his boots and sewer-stink on his cloak. To those he trusted, he was Neverember's most reliable agent, the one who succeeded where many others had failed. Deep down, he was afraid that the Zhentarim and the Xanathar Guild were close to catching him, and he was right.
+**Persona.** To the world, Dalakhar was a small gnome with dry waste on his boots and sewer-stink on his cloak. To those he trusted, he was Neverember's most reliable agent, the one who succeeded where many others had failed. Deep down, he was afraid that the Zhentarim and Xanathar's Guild were close to catching him, and he was right.
 
 **Morale.** Dalakhar is dead when the party encounters him. Via Speak with Dead, he answers questions with the clipped precision of a trained spy who remains loyal to his employer even in death.
 

@@ -23,7 +23,7 @@
 
 **Morale.** Osvaldo attacks anything that enters the attic except Ammalia. Her presence calms him enough for her to read from outside the shielding circle, but she does not go into the room.
 
-**Relationships.** Osvaldo is the eldest child of Victoro and Ammalia (soul surrendered to Asmodeus three years ago during the family's financial crisis), the reason Terenzio and Elzerina are scheduled for sacrifice (the pact requires either a 500,000 gp redemption or 99 more souls), and the tragedy that both explains and indicts everything his parents are doing.
+**Relationships.** Osvaldo is the eldest child of Victoro and Ammalia (taken at nine, twelve now, his soul surrendered to Asmodeus three years ago during the family's financial crisis), the reason Terenzio and Elzerina are forfeit on their ninth birthday, Flamerule 11, 1492 DR (the pact requires both 999,999 gp and ninety-nine souls), and the tragedy that both explains and indicts everything his parents are doing.
 
 ## Overview
 

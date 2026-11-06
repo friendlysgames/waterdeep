@@ -23,7 +23,7 @@
 
 **Morale.** In combat, Jarlaxle would swiftly and brutally kill someone to make an example, then propose terms. He reaches for leverage before force. If reduced to danger, he uses his wealth of magic items to escape. Direct confrontation only comes when the PCs kill his lieutenants without first offering terms.
 
-**Relationships.** Jarlaxle is the leader of Bregan D'Aerthe, the secret lord of Luskan, the employer of Soluun, Fel'rekt, and Krebbyg, and a rival who may become an ally if the party offers him something worth more than the gold.
+**Relationships.** Jarlaxle is the leader of Bregan D'Aerthe, the secret lord of Luskan, the employer of Soluun, Fel'rekt, and Krebbyg, and a rival who may become an ally if the party offers him something worth more than the gold. He has known of the Stone, the Eyes, and the vault since reaching Waterdeep, no later than Marpenoth 3, 1491 DR. He alone outside the household and the cult knows of the Cassalanter pact, through his doppelganger spy Vessa. Eye #3 is aboard the *Scarlet Marpenoth*.
 
 ## Overview
 

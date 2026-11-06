@@ -22,7 +22,7 @@
 
 **Morale.** In a fight, Laeral would deploy archmage-level magic with centuries of tactical experience. She avoids direct confrontation when possible because every expenditure of power reveals how much she has lost.
 
-**Relationships.** Laeral is the widow of Khelben Arunsun (the original Blackstaff), a close advisor to Mirt, an uneasy superior to Vajra Safahr (whom she views as an insecure child wielding her husband's staff), and a sister of the Seven Sisters (daughters of Mystra).
+**Relationships.** Laeral is the widow of Khelben Arunsun (the original Blackstaff), the Open Lord who counts Mirt as her closest advisor, an uneasy superior to Vajra Safahr (whom she views as an insecure child wielding her husband's staff), and a sister of the Seven Sisters (daughters of Mystra).
 
 ## Overview
 

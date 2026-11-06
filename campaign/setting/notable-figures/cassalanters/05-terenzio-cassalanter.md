@@ -9,7 +9,7 @@
 
 ## Roleplaying Information
 
-**Resonance.** Terenzio should inspire immediate protectiveness; delight at his dragon-costume earnestness; and creeping dread as you understand his parents are planning to sacrifice him at the Founders' Day feast.
+**Resonance.** Terenzio should inspire immediate protectiveness; delight at his dragon-costume earnestness; and creeping dread as you understand his parents' bargain makes him forfeit on his ninth birthday, Flamerule 11. He is eight now.
 
 **Emotions.** Terenzio most often feels uncomplicated curiosity, physical joy in play, trust in the adults he knows, the particular bravery of a child who has never had reason to doubt that he is loved, and restless impatience to grow up enough to have adventures.
 
@@ -23,7 +23,7 @@
 
 **Morale.** Terenzio runs to Nana Rosse if frightened by anything he cannot interpret as a game.
 
-**Relationships.** Terenzio is one of the twins (alongside Elzerina), the intended sacrifice at the Founders' Day feast, a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons.
+**Relationships.** Terenzio is one of the twins (alongside Elzerina), forfeit to Asmodeus on his ninth birthday, Flamerule 11, 1492 DR (he is eight now), a child who trusts his parents completely, and a boy who is curious about the attic for entirely innocent reasons.
 
 ## Overview
 

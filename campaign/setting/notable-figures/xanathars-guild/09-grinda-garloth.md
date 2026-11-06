@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Grinda uses her arcane magic to support whoever she is currently working with and retreats into the harbor if things go against her. She will help the party if they defended her from Noska.
 
-**Relationships.** Grinda Garloth is a black market armorer and salvage wizard at Mistshore, an allied service provider to both Xanathar Guild and Bregan D'Aerthe, the owner of the Apparatus of Kwalish, and an emergency combat support option in the Stone of Golorr investigation if the party defended her home.
+**Relationships.** Grinda Garloth is a black market armorer and salvage wizard at Mistshore, an allied service provider to both Xanathar's Guild and Bregan D'Aerthe, the owner of the Apparatus of Kwalish, and an emergency combat support option in the Stone of Golorr investigation if the party defended her home.
 
 ## Overview
 

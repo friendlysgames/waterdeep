@@ -1,12 +1,12 @@
 # The Cassalanters
 
-> Structuring draft. Content migrated from ch2-city-of-splendors.md.
+> Structuring draft.
 
 ---
 
 ### The Cassalanters
 
-**Purpose:** Gives the DM the tools to portray the campaign's most emotionally complex villains — people whose motives are comprehensible, whose actions are inexcusable, and who are both things at the same time.
+**Purpose:** Gives the GM the tools to portray the campaign's most emotionally complex villains — people whose motives are comprehensible, whose actions are inexcusable, and who are both things at the same time.
 
 **Personality Phases**
 
@@ -35,17 +35,17 @@
 
 **Goals**
 
-1. **99 Soul Coins Before Founders' Day** — currently have approximately 40; need 59 more; method: criminal-adjacent acquisitions at arm's length; contingency: partial payment will not be accepted (they don't know this yet); connects to **Cassalanter Villa**
-2. **The 500,000 Dragons** — required to complete the Asmodean payment; have one Eye; not yet actively pursuing the Stone; method: political intelligence through Lords' Alliance contacts; connects to **Cassalanter Villa**
+1. **Ninety-Nine Souls at the Founders' Day Feast** — the contract demands ninety-nine souls as well as the gold; the souls are the guests they mean to poison at the Founders' Day feast (Flamerule 1); method: the feast itself; contingency: partial payment will not be accepted (they don't know this yet); connects to **Cassalanter Villa**
+2. **The 999,999 gp** — the contract needs the full sum alongside the souls; the family holds about 500,000 gp, and the Vault's 500,000 gp covers the shortfall; they hold Eye #2, found in the Brandath Crypts, and need the Stone plus Eyes #1 and #3 to open the Vault; method: political intelligence through Lords' Alliance contacts; connects to **Cassalanter Villa**
 3. **Keep the Temple Secret** — discovery is a capital Code Legal offense and destroys their plan before it can succeed; method: Willifort Crowelle (doppelganger butler) manages household security; connects to PCs' primary leverage point in any negotiation
 
-**Key design note:** Terenzio and Elzerina must appear before **Cassalanter Villa**. The DM should identify during **Trollskull Alley** when the children will first be visible — a festival, a neighborhood event, a Cassalanter charitable appearance. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract.
+**Key design note:** Terenzio and Elzerina must appear before **Cassalanter Villa**. The GM should identify during **Trollskull Alley** when the children will first be visible — a festival, a neighborhood event, a Cassalanter charitable appearance. Once the PCs have met the children, the Founders' Day deadline becomes personal rather than abstract.
 
 ---
 
 ## Source References
 
-- `ch2-city-of-splendors.md` Section 2: "The Cassalanters"
+- The retired Chapter 2 outline, Section 2: "The Cassalanters"
 - `adventure-wdh.json` Ch.6: Cassalanter Villa encounter area
 - `1. The Villains.pdf`: Alexandrian villain analysis — primary reference
 - `10. Lair Cassalanter Villa.pdf`: full lair reference

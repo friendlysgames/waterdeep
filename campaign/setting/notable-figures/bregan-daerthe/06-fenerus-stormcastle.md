@@ -13,7 +13,7 @@
 
 **Emotions.** Fenerus most often feels calculating watchfulness, practiced evasion, a criminal's patience honed over a decade of brigandage and a quiet retirement, contempt for anyone who thinks threats work faster than deals, and an exhaustion he has worn so long it looks like indifference.
 
-**Motivations.** Fenerus wants to trade the Stone's location for immunity and nothing less, survive the overlapping interest of the Zhentarim, Xanathar Guild, and Bregan D'Aerthe, and live long enough to see the arrangement concluded cleanly.
+**Motivations.** Fenerus wants to trade the Stone's location for immunity and nothing less, survive the overlapping interest of the Zhentarim, Xanathar's Guild, and Bregan D'Aerthe, and live long enough to see the arrangement concluded cleanly.
 
 **Inspirations.** When playing Fenerus, channel Walter White (*Breaking Bad*, early seasons), Jimmy McGill (*Better Call Saul*), and Red Reddington (*The Blacklist*).
 
