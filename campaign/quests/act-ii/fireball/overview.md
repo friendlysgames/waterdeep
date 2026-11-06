@@ -35,7 +35,7 @@
 - **Renaer Neverember** (Harper contact, Trollskull Alley patron) — arrives within two hours of the explosion; carries Dalakhar's paper bird; Harper contacts trace Floxin to Gralhund Villa within a day
 - **Valetta** (House of Inspired Hands) — senior cleric of Gond; bronze dragonborn; escorts party to Nim's attic; mediates communication
 - **Nim** (House of Inspired Hands) — the temple's resident nimblewright; built the runaway three months ago; communicates in Common Sign Language; has the detector
-- **Captain Zardoz Zord / Jarlaxle Baenre** (Sea Maidens Faire) — Bregan D'Aerthe master; knows about the fireball, the gnome, and the Stone before the party arrives; decides how much to share and at what price
+- **Captain Zardoz Zord / Jarlaxle Baenre** (Sea Maidens Faire) — Bregan D'Aerthe master; knows about the fireball, the gnome, the Stone, the Eyes and the vault before the party arrives (he has known of the last three since reaching Waterdeep); decides how much to share and at what price
 - **Myl Dunpier** (Inn of the Dripping Dagger) — pragmatic innkeeper; Dalakhar's last lodging; cooperates with honest explanations or modest coin
 - **Kalain** (Kalain's Tower, near harbor) — half-elf painter; former companion of Lord Dagult Neverember; paranoid, fragmented; has papers that constitute some of the most valuable intelligence in the campaign
 - **Ammalia Cassalanter** (Cassalanter Villa) — warm, attentive; sends the dinner invitation; is not performing; is forming an opinion

@@ -48,6 +48,7 @@ Every page: `# Title` → `> Structuring draft.` → `> **[GM]**` Gamemaster's S
 - Villain pages carry a `## Background` after the identity line.
 - Era pages: the `~Volo` aside is optional, the GM blocks are named Gamemaster's Summary and Lore Summary, and no dated Timeline appears when the span is unknown.
 - Faction operations pages are the single home for faction mechanics; the Factions Guide pages move there.
+- Until the prose pass, every page may carry its full GM information, including in the Overview. The prose pass writes the player-safe version of each Overview (the Zardoz Zord rule, the Cassalanter secrecy rule and the spoiler rule apply then).
 
 | Page type | Body skeleton |
 |---|---|

@@ -8,4 +8,4 @@ A suite of three connecting rooms: a reception area, a small meeting room, and a
 
 **Mourning locket:** Under the back office desk, requiring a DC 12 Wisdom (Perception) check to notice without deliberately looking beneath the furniture. An elaborate ivory case on a broken chain. Someone has pried open the secret compartment; the hinge is bent back, fine scratches surround the latch where tools worked it, and nothing remains inside. The exterior bears carved flowers and a stylized horse head, a holy symbol of Lurue, suggesting Renaer's mother was a devotee.
 
-This is the locket Renaer described. Whoever opened it took the Eye of the Stone of Golorr to Kolat Towers. The locket matters to Renaer and to the Stone's backstory.
+This is the locket Renaer described. Whoever opened it took the Eye of the Stone of Golorr. What became of the Eye is told in the **Xanathar Sewer Hideout** and **The Eyes of the Stone**. The locket matters to Renaer and to the Stone's backstory.

@@ -22,12 +22,12 @@ The campaign's central plot runs through a chain of objects, each one gatekeepin
 
 **Eye #2** — held by the Cassalanters. Their agents found it in the Brandath Crypts through infernal divination and extracted it from Neverember's magical wards. Locked in the vault beneath Cassalanter Villa.
 
-**Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. Jarlaxle acquired it before the campaign begins. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**.
+**Eye #3** — held by Jarlaxle Baenre, aboard the *Scarlet Marpenoth*. It began in Renaer Neverember's mourning locket. Manshoon's Zhentarim seized the locket the night before Ches 1 and pried it open at the Candle Lane warehouse, Xanathar's Guild raided the warehouse and carried off the Eye with the rest of the back office without knowing what it was, and Bregan D'aerthe agents already inside Xanathar's hideout lifted it the same night. It reached Jarlaxle before the party reached the hideout, and Manshoon's cell never held it. Jarlaxle has known of the Stone, the Eyes and the vault since he arrived in Waterdeep. He is active from Act I through his personas — J.B. Nevercott in Trollskull Alley and Zardoz Zord at the Field of Triumph — and his villain escalation keys off the **Jarlaxle Informed** flag set during **Fireball!**, which records only that the party made contact with him.
 
 > [!info]**Where the Eyes Are**
 > **Eye #1:** Xanathar — in Sylgar's bowl, Xanathar's Lair. Xanathar does not know what it is.
 > **Eye #2:** Cassalanters — vault beneath Cassalanter Villa (area A7). The family knows its function.
-> **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is.
+> **Eye #3:** Jarlaxle Baenre — aboard the *Scarlet Marpenoth*. Jarlaxle knows exactly what it is. It passed from Renaer's locket to the Zhentarim, then to Xanathar's Guild in the warehouse raid, and Bregan D'aerthe agents inside Xanathar's hideout lifted it that night. Manshoon holds no Eye.
 
 **The Vault of Dragons** — 500,000 gold dragons, guarded by the adult gold dragon Aurinax under a geas, beneath the Brandath Crypts in the City of the Dead. The vault opens only when someone presents the complete Stone of Golorr, with all three Eyes restored, and speaks the command phrase the Stone reveals.
 
