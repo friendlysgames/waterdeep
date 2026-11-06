@@ -40,17 +40,27 @@
 - **Devotees' view:** The faithful accept that the devils' path is not for everyone. They hope to be summoned out of the crowd on the Fugue Plane and given all of eternity to master their own fates.
 - **Hierarchy:** Priests obey his Chosen and feign humility toward them, as lesser devils do toward greater ones. A Chosen can read a person's soul at a glance and tell whether another deity has claimed it or whether its fate is still open.
 - **Chosen in the campaign:** None. No file names a Chosen of Asmodeus, and none appears in play.
-- **History of his rise:** [research]
-- **Relations with other archdevils and the planar court:** [research]
-- **Public worship in Waterdeep (any temple, any city attitude):** [research]
-
+- **History of his rise:** Wiki-sourced; the sources disagree on his origin.
+  - He is the oldest existing archdevil, and in some legends a once-celestial being who fell or was exiled (*Manual of the Planes* 3e). The "He Who Was" tale makes him the greatest general of a dead god, whom he slew in the Dawn War (*The Plane Above* 4e).
+  - After the Reckoning of Hell, a power struggle in which he outplayed every archdevil, he reinstated most of the lords and built the Blood War ministry of the Dark Eight (*Guide to Hell* 3e).
+  - He consumed the god Azuth after the Spellplague of 1385 DR and became a god (*Forgotten Realms Campaign Guide* 4e). The Toril Thirteen's ritual had already made all tieflings his "descendants" (*Sword Coast Adventurer's Guide* 5e).
+  - Azuth was separated from him on Hammer 10, 1487 DR (*The Devil You Know*, novel). By 1492 DR he had demoted Bel and re-elevated Zariel as archdevil of Avernus (*Dungeon Master's Guide* 2014; *Mordenkainen's Tome of Foes* 5e).
+- **Relations with other archdevils and the planar court:** Wiki-sourced (3e and 4e sources).
+  - He holds court at Nessus. His consort Bensozia is dead, and his daughter Glasya rules Malbolge.
+  - The Dark Eight, the pit fiend generals who turned on their lords in the Reckoning, are his ministers. His vassals on Nessus include Alastor, Baalberith and Martinet.
+  - Mephistopheles is his greatest ally and chief rival. Dispater is loyal, Mammon fawns, Baalzebul and Levistus resent him, and Belial and Fierna rule Phlegethos together by his ruling. Every archdevil would take his throne and none moves openly against him.
+  - He keeps pacts with evil gods, among them Bane, Set and Hecate, and a secret alliance with the demon lord Pazuzu.
+- **Public worship in Waterdeep (any temple, any city attitude):** The wiki has no Waterdeep-specific text, and the campaign applies the general rule below.
+  - Shrines are rare and temples "practically unheard of" (*Sword Coast Adventurer's Guide* 5e). Followers ask him to hide sins or ease the wait on the Fugue Plane.
+  - His priests are called mordai and prey on greed and impatience (*Forgotten Realms Campaign Guide* 4e).
+  - The cult works as a mutual-aid society for merchants and nobles who raise one another in rank. Where lawful evil is unwelcome, its temples hide in subterranean complexes (*Fiendish Codex II* and *Book of Vile Darkness*, 3e). This fits the Cassalanters: a noble family and a hidden temple beneath their villa.
 > **[GM]**
 >
 > #### Using Asmodeus as a Deity
 > - **The ordinary Waterdhavian's view:** Voice him as a seller of comforts. A sage, a priest or a regular at the bar says he is the god of indulgence and the ruler of the Nine Hells, that he offers pleasure, power and a place among the devils after death, and that his bargains cost more than the buyer expects. They distrust anyone who admits to following him, and the only shrines they know of are private ones in homes. Priests of other gods add that he will hide a sin from its god and collect the price after death. Nobody in this conversation mentions the Cassalanters.
-> - **A cleric PC:** The domains are Knowledge, Trickery and Order (fallback SCAG 2014). Open worship is not outlawed and earns distrust, and a follower who keeps a hidden shrine in the home is doing what many followers do. The campaign writes no scene in which he contacts a PC, because he never appears, speaks or intervenes in any quest. Waterdeep's attitude to a public shrine or temple is [research].
+> - **A cleric PC:** The domains are Knowledge, Trickery and Order (fallback SCAG 2014). Open worship is not outlawed and earns distrust, and a follower who keeps a hidden shrine in the home is doing what many followers do. The campaign writes no scene in which he contacts a PC, because he never appears, speaks or intervenes in any quest. The wiki has nothing specific to Waterdeep, so a public shrine or temple draws the general reaction: shrines are rare, temples are practically unheard of, and followers earn distrust.
 > - **A warlock or oath PC:** The files give no rules for a Fiend patron or an oath tied to him. [research] For flavor, the Fugue Plane pitch (comfort from a devil, or a rank in the infernal host) is the hook a devout character would have heard, and the city treats an admitted follower with the same distrust as any other.
-> - **What the pact makes true:** He holds a contract with the Cassalanters on fixed terms, 999,999 gp and ninety-nine souls, and he does not renegotiate with mortals who have signed. His reach in the story is that contract, the family cult, the imps that watch the Sea Maidens Faire and the Asmodean Shrine beneath the villa.
+> - **What the pact makes true:** He holds a contract with the Cassalanters on fixed terms, 999,999 gp and ninety-nine souls, and he does not renegotiate with mortals who have signed. His reach in the story is that contract, the family cult, the imps that watch the Sea Maidens Faire and the temple beneath the villa.
 > - **What the pact does not make true:** He has no Chosen in the campaign and takes no part in any scene. Worship alone is not a crime in Waterdeep, only the temple beneath the villa and what is done in it. No file describes an Asmodean cult wider than the Cassalanter household and its servants. [research]
 > - **Never reveal:** That the Cassalanters worship him, the pact and the soul contract, the ninety-nine poisoned guests, Osvaldo's fate, or that Jarlaxle knows through Vessa. A player who asks about Asmodeus gets the Overview, and the party's own evidence is the only thing that adds to it.
 
@@ -66,7 +76,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 > - **What was already paid:** Osvaldo, the eldest, was taken at nine, the age at which the contract claims each child. He is now twelve and a chain devil. The twins, Terenzio and Elzerina, are eight and unaware of the bargain.
 > - **The deadline:** The pact comes due on Flamerule 11, the twins' ninth birthday. Founders' Day, Flamerule 1, is the feast where the family plans to collect ninety-nine souls, and it is the party's real deadline. Ammalia chose that date as her operational window, for the civic cover and for the time left to verify the terms, and it does not appear in the contract.
 > - **The terms as the files state them:** The contract requires 999,999 gp, "one shy of a million gold coins", and ninety-nine souls, both, in a loophole ritual that buys out the twins' souls. The souls are the ninety-nine guests poisoned at the Founders' Day feast. The family holds about 500,000 gp of its own, and the Vault's 500,000 gp is the shortfall. Everything the family tells the party about their situation is technically true, and they never mention that the ritual poisons ninety-nine guests at the feast.
-> - **How Asmodeus behaves:** He is a creditor and never negotiates with mortals who have already signed. He does not appear, speak or intervene in any quest. His reach into the story is the contract, the cult, the imps that watch the Sea Maidens Faire, and the Asmodean Shrine beneath the villa.
+> - **How Asmodeus behaves:** He is a creditor and never negotiates with mortals who have already signed. He does not appear, speak or intervene in any quest. His reach into the story is the contract, the cult, the imps that watch the Sea Maidens Faire, and the temple beneath the villa.
 > - **The temple:** The family keeps an illegal temple to Asmodeus beneath Cassalanter Villa. Its discovery is a capital Code Legal offense. Worship alone is not outlawed (see Influence and Followers), so the capital charge rests on the temple and what is done in it.
 > - **Cover:** Victoro is publicly a worshipper of Lathander, and the family is publicly known for its ancestral devotion to Siamorphe. The family is known for charity, and none of that warmth is faked.
 > - **Who knows (secrecy rule):** Nobody, before the party finds out. Every faction is suspicious of the Cassalanters because they are too nice to be this rich and this purebred, and none knows about the pact, the soul contract or the infernalism. The one exception is Jarlaxle, who knows through Vessa, his doppelganger spy in the Cassalanter social circle. He tells Bregan D'aerthe members nothing unless they work it out. The Emerald Enclave senses infernal influence in the Sea Ward through Jeryth and does not know whose it is. Savra Belabranta of the Order of the Gauntlet hunts infernal cults in Waterdeep and wants to learn what the Cassalanters conceal, which is suspicion only.
@@ -78,7 +88,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 
 ## Source References
 
-- `/tmp/.../scratchpad/notes/deity-asmodeus-research.md`, FRHoF p.100 entry (current 2024-era canon): title God of Indulgence, other names, worshipers, plane (the Nine Hells, Nessus), messengers, omen, attitudes toward worship, Fugue Plane pitch, the Chosen.
+- Deity research note (FRHoF p.100 entry, current 2024-era canon): title God of Indulgence, other names, worshipers, plane (the Nine Hells, Nessus), messengers, omen, attitudes toward worship, Fugue Plane pitch.
 - Same note, SCAG p.21 entry (2014), used only as fallback: alignment, domains, symbol, the origin of open worship. Marked "fallback: SCAG (2014)" where used.
 - Not used by instruction: the DMG entry (Dawn War pantheon) and the EGW entry (Exandria pantheon), including the EGW "Commandments", depiction and the fortress of Nalsheem.
 - `campaign/setting/history/05-a-debt-in-blood.md`: the pact, the three children, Osvaldo, the Founders' Day calculation.
@@ -91,7 +101,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - `campaign/setting/notable-figures/bregan-daerthe/12-vessa.md` and `organizations/07-bregan-daerthe.md`: Vessa as Jarlaxle's source.
 - `campaign/setting/organizations/03-emerald-enclave.md`: Jeryth and the infernal influence.
 - `campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md`: suspicion only.
-- The Forgotten Realms Wiki: not reachable in this session. Every item marked [research] needs it.
+- Forgotten Realms Wiki, Asmodeus (sources of 3e, 4e and 5e, as tagged on the page): history of his rise, relations with the archdevils, public worship and doctrine (mordai, the mutual-aid cult, hidden temples). The wiki's 5e rank is "lesser deity, archdevil"; its 2014 sources conflict on rank. "God of Indulgence" is not a wiki title.
 
 ## Cross-References
 
@@ -100,17 +110,16 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - **The Cassalanters** (Factions Guide): operations, response teams, revelation list.
 - **Victoro Cassalanter**, **Ammalia Cassalanter**, **Osvaldo Cassalanter**, **Terenzio Cassalanter**, **Elzerina Cassalanter**, **Willifort Crowelle**, **Seffia Naelryke** (Notable Figures): the pact's signatories, victims and servants.
 - **Vessa** (Notable Figures): how Jarlaxle knows.
-- **Cassalanter Villa** (quest and location): the temple, the Asmodean Shrine and the four resolutions of the pact.
+- **Cassalanter Villa** (quest and location): the temple beneath the villa and the four resolutions of the pact. The Asmodean Shrine is the family's separate outpost on Aveen Street, in the North Ward.
 - **Kelemvor** (Deities, page planned): the judge of the Fugue Plane that the priests' pitch is aimed against.
 - **Lathander** (Deities, page planned): Victoro's public cover.
 
 > **[GM]**
 >
 > #### Draft Notes
-> - **Research:** History of his rise, left open in Influence and Followers. A deity wiki or lore source would settle it.
-> - **Research:** Relations with other archdevils and the planar court. The 5etools data has none; a deity wiki or lore source would settle it.
-> - **Research:** Public worship in Waterdeep, meaning any temple and the city's attitude. This also backs the cleric PC line in the Using box.
-> - **Research:** Areas of Concern are derived from the FRHoF and SCAG entries, which list none. Domains, symbol and alignment come from SCAG 2014 as a fallback; a 2024-era source would confirm them.
+> - **Answered from the wiki:** History of his rise, relations with the archdevils, and public worship and doctrine now sit in Influence and Followers. The wiki has no Waterdeep-specific worship text. Its listed Chosen (Farideh, Havilar, Bryseis Kakistos, Valraun) stay out, since the campaign has none.
+> - **Verified against the wiki:** Alignment lawful evil, domains Knowledge, Order and Trickery, the symbol of three inverted triangles in a long triangle, the Nine Hells (Nessus), portfolio indulgence, and the epithets Lord of the Ninth, The Cloven and Old Hoof and Horn. The page keeps the epithet line as it stands. "Roughly a century ago" for the Spellplague of 1385 DR is about 107 years in 1492 DR.
+> - **Research:** Areas of Concern are derived from the FRHoF and SCAG entries, which list none.
 > - **Research:** Rules for a warlock or oath PC tied to Asmodeus (Using box). No campaign file or 5etools entry supplies them.
 > - **Research:** Which of his names Waterdhavians actually use. The epithet line leads with the Lord of the Ninth because the Overview says the people of the North call him that, and the usage of The Cloven and Old Hoof and Horn is unsourced.
 > - **Conflicts:** The Cross-References still name the Cassalanters (Factions Guide). The operations text now lives on the Cassalanters page in Faction Operations, so retarget this line when the guide pages are removed.
