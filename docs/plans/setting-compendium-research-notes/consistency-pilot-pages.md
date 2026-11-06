@@ -1,0 +1,54 @@
+# Consistency check: seven pilot pages vs wiki, WDH and campaign (Session 47). Checker report, condensed.
+W = wiki extract (scratchpad research/wiki/<Page>.txt with line numbers); ops = setting/faction-operations/10-cassalanters.md; guide = guides/factions/11-cassalanters.md; org = organizations/10-cassalanters.md; era = history/05-a-debt-in-blood.md.
+
+## A. castle-ward.md
+1 ERROR: line 189 and Draft Notes 255 tie the Honorable Knight to the ward. W Walking_Statues:73 puts it in the Trades Ward (WDH p183); WDH 30693 four-ward junction. W Castle_Ward:113-119 lists the six Castle Ward statues: God Catcher, Great Drunkard, Griffon, Hawk Man, Lady Dreaming, Sahuagin Humbled (WDH 31007 "six"). Fix: use the six, drop the Honorable Knight; closes [research] at lines 70, 189, 255.
+2 ANSWER (line 70): Great Drunkard sits just south of the Market (W Walking_Statues:71; WDH 31238). Market between Trader's Way and Bazaar Street (W Castle_Ward:142, CoS Waterdeep p100, 2e). Lightsinger Theater on Bazaar Street at the Street of Bells, Castle Ward (W Lightsinger_Theater:45).
+3 ANSWERS (lines 23-24, 27-29): Population: no ward figure on the wiki (Castle_Ward:18); WDH 31010 smallest resident population; city 1,347,680 (FRCS 3e, 1372 DR); metropolitan 132,661; city proper maybe about 200,000 (Waterdeep:62-64). Peoples: no ward data; city humans 64%, dwarves 10%, elves 10% (mostly moon elves), halflings 5%, half-elves 5%, gnomes 3% (Waterdeep:25,155; CoS Waterdeep p13, 2e). Languages and Lifestyle blank on the wiki. Religion: city field Deneir, Mystra, Oghma, Tempus (Waterdeep:27); Castle_Ward:145-149 lists Font of Knowledge, Halls of Justice, House of Two Hands, Pantheon Temple of the Seldarine, Spires of the Morning; no Tower of Luck, no Helm (supports the page's exclusions); no dominant faith sourced.
+4 ANSWER (boundaries and founding, absent from page): north Julthoon Street (west of Shield Street) and Trader's Way; east the High Road and Snail Street; south along Shesstra Street, Gut Alley, Belnimbra's Street, Lackpurse Lane to Deepwater Harbor (W Castle_Ward:96; CoS Adventurer's Guide p18, 2e). Founded 1035 DR by Ahghairon as one of the original wards (Castle_Ward:102).
+5 ANSWERS (garrison, Watch HQ, lines 170, 252): Watch's main base is the Palace of Waterdeep (City_Watch:76; CoS Waterdeep pp35-37, 2e). Castle Waterdeep garrisoned by 1,400 City Guard, 70 warhorses, 30 guards on the battlements, gate guardroom of 20 crossbowmen and 2 wizards (Castle_Waterdeep:42; CoS Waterdeep p98, 2e, 1372 DR). Palace also holds Guard and Watch offices and barracks (Palace:42,53).
+6 DIVERGENCE (USER decision): line 57 custody wing built for 30 holds 61 vs W Castle_Waterdeep:39 540 prisoners in 90 cells (2e); line 55 castle "not the seat of government" vs W Castle_Waterdeep:27 it is (2e) (WDH 31008 supports the page); line 30 keeps Guard and Watch separate vs W City_Watch:89 folded by 1479 (FRCG 4e p197) (WDH and Volo's MM quote support the page).
+7 STALE: Draft Notes line 264 calls Durnan as a Masked Lord "campaign-only"; W Durnan:13,21,89,102 give "Lord of Waterdeep" and secret leader of the Red Sashes (Waterdeep and the North p16; CoS Waterdeep p54; 2e/3e). W Laeral_Silverhand:20 says Human, so the moon-elf ruling is a settled divergence.
+8 ANSWER (lines 112, 256): Mirt's mansion is a Castle Ward residence (W Castle_Ward:224, Waterdeep and the North p23; WDH 31013); the Sea Ward claim comes only from the campaign's Harper events.
+9 NIT: Vajra Neutral on the page; W Vajra_Safahr:60 lawful neutral. Savra Lawful Good; W Savra_Belabranta:59 neutral good (NF pages not read; check). Saeth, Durnan, Mirt match.
+10 NIT line 149: Savra "left about three years ago"; W Savra:64,73 puts her in the Howling Hatred during the 1491 DR crisis (PotA p46), about a year before the campaign. USER decision.
+11 NIT line 44: the Portal's "40-foot well" is 40 feet in diameter and 140 feet deep (W Yawning_Portal:114).
+12 NO ANSWER: Warrior's Way and Street of Silver ward, rents or prices, Palace day-to-day manager; Castle_Ward:213-228 lists residents including Mirt, Leone and Lady Naneatha Lhaurilstar; no Masked Lord home to tag.
+
+## B. asmodeus.md
+13 ERROR: "the Asmodean Shrine beneath the villa" at lines 53, 69, 103: the Asmodean Shrine is the Aveen Street outpost, North Ward (ops 35,91); the villa temple is "an illegal temple" (org 25; asmodeus.md:70). Fix: "the temple beneath the villa".
+14 STALE: line 94 says the wiki is unreachable; line 81 cites a scratchpad path; [research] tags at lines 43-45, 51-52, 110-115 now answerable.
+15 ANSWER (history of his rise, W Asmodeus:503-704): oldest existing archdevil, possibly fallen from Celestia (MotP 3e); the He Who Was / Dawn War pact (The Plane Above, 4e); the Reckoning, then the Blood War; he consumed Azuth after the 1385 DR Spellplague and became a god (FRCG 4e p73); the Toril Thirteen made all tieflings his "descendants" (SCAG 5e pp118-119); Azuth separated on Hammer 10, 1487 DR (The Devil You Know, novel); by 1492 DR he demoted Bel and re-elevated Zariel (DMG 2014 pp64-66; MToF).
+16 ANSWER (relations, W Asmodeus:327-450): consort Bensozia (dead); daughter Glasya rules Malbolge; the Dark Eight; Nessus vassals Alastor, Baalberith, Martinet; rivals and vassals Mephistopheles, Baalzebul (cult-swap), Dispater, Mammon, Belial/Fierna, Levistus; pacts with Bane, Set, Hecate, Pazuzu.
+17 ANSWER (public worship and doctrine): shrines rare, temples "practically unheard of" (SCAG pp24-25; Asmodeus:300,483); no Waterdeep-specific text; priests called mordai (FRCG 4e pp79,150), prey on greed and impatience; the cult works as a mutual-aid society for merchants and nobles with temples hidden in hostile cities (FC2/BoVD, 3e, Asmodeus:464-466), which fits the Cassalanter Tenets slot "Doctrine and Rites"; Chosen listed: Farideh, Havilar, Bryseis Kakistos, Valraun (Asmodeus:498-501); page says none exist in the campaign (fine).
+18 VERIFIED: alignment lawful evil; domains Knowledge, Order, Trickery; symbol three inverted triangles in a long triangle; home plane Nine Hells, Nessus; portfolio Indulgence; worshipers corrupt politicians and desperate folk; epithets Lord of the Ninth, The Cloven, Old Hoof and Horn (HoF p100, SCAG); rank 5eR "lesser deity, archdevil" (2014 sources conflict); "God of Indulgence" is not a wiki title (nit); Fugue Plane pitch matches SCAG; 1385 Spellplague makes "roughly a century ago" about 107 years (consistent).
+
+## C. xanathar.md
+19 DIVERGENCE (USER decision): line 21 "title predates any individual beholder" vs W Xanathar:4 (title derives from the founder's personal name) and Xanathar_Guild:12 ("Xanathar (original)", 1357 DR).
+20 DIVERGENCE: line 26 Skullport "three levels down" from the Level 1 well vs W Skullport:97 (within Undermountain Level 3, the Sargauth Level; CoS Waterdeep p108; FRCS 3e p179): two levels below Level 1.
+21 STALE (lines 23-24, 104): "[research]" beside "The user has settled it"; wiki confirms Zushaxx the 1492 Xanathar (Xanathar:9; Xanathar_Guild:12,69) and Kirukeskai Xanathar in 1372 ("Kirueskai" in Xanathar:6). Pronouns on the page are "it" throughout.
+
+## D. organizations/10-cassalanters.md
+22 STALE line 78: inline [research] about the number of children settled by the era page as three. Drop the tag.
+23 DIVERGENCE (USER decision): line 33 "hold about half the gold" (also era 27,44,70; asmodeus:68) vs WDH 18296 "The Cassalanters have most of the coin they need". Arithmetic sound (500,000 + 500,000 is at least 999,999).
+24 ERROR (cross-page): line 73 "not yet actively pursuing the Stone" (era 61; villains/cassalanters.md:39) vs ops 19 "the family needs the Stone", ops 23 Seffia's team joins the Xanathar's Lair Eye heist, seffia:34 Victoro sent her "to retrieve the Stone"; line 73 also says the family "hold one Eye" while Seffia's ritual found it "in the Brandath Crypt": clarify which Eye.
+25 STALE line 67 "too nice to be this rich and this well-favored" vs settled "purebred" (CLAUDE.md; era 87; asmodeus 72); Draft Notes 116 flags it.
+26 DIVERGENCE (nit, line 44): Osvaldo "neutral evil (formerly lawful good)"; WDH 32481 only "chain devil" (standard chain devil lawful evil). Confirm.
+27 ANSWERS: House Cassalanter ennobled 1248 DR, about 244 years (Cassalanter.txt:37, CoS Waterdeep p59); favored deities Waukeen, Siamorphe, Asmodeus (Cassalanter:10); Caladorn was Victoro's father (Victoro:29) and Open Lord by 1399 DR (Cassalanter:52; Caladorn:92); the twins were to become lemures (Victoro:70); public Lathander and Siamorphe cover matches WDH 18405 and 32692.
+28 OUTSIDE SCOPE: villains/cassalanters.md:38 "99 Soul Coins ... approximately 40"; grand-game-in-play.md:53,67; grand-game.md:34 stale.
+
+## E. ops vs guide drift
+29 DRIFT: Response Teams, Outposts, Escalation, Revelation List bodies identical line for line. Heading differs: ops 17 "Grand Game Stance" vs guide 5 "The Soul Pact: Active vs. Passive Mode" (contradicts ops 116 "moved verbatim"). Only ops has Summary, Purpose, intro, Tone, Source References. Cross-references differ (guide 100 "operations, key members, lore overview"; ops 121 "identity, tenets, key members").
+30 SHARED DEFECTS (both copies): Asmodean Shrine areas run 1,2,4,5,6,7,8 (no Area 3; roster lists none) (ops 39-55; guide 27-43); "Founders' Day Clock ... 1-2 days / 3-5 days" undefined (ops 57,74); ops line 85 calls escalation "binary" under a four-tier table (nit).
+
+## F. seffia (notable-figures/cassalanters/10-seffia-naelryke.md)
+31 ERROR: line 63 lists Sea Maidens Faire among her quests; summary line 10 omits it and no Sea Maidens Faire file names her. Drop it or add her to the Faire.
+32 ANSWER (line 35): Vaelle Lurval, LE female Tethyrian cultist and florist (WDH 8317-8319); the two dead are Holiver Tornrudder and Kaeth Warloon; she believes the fanatics acted on their own. Seffia and Arn are LE Tethyrian humans (WDH 13211). Line 68 "killed two of the three" matches.
+33 NIT: Lord Cassalanter's letter (line 24; org 50) not listed among the Windmill finds (ops 63-72) or the Revelation List.
+
+## G. era 05
+34 ERROR (internal): Draft Notes line 141 says the wiki gives no pact year of its own, but lines 17,128,140 say the wiki states 1489 DR (W Cassalanter:43, Victoro:70, Osvaldo:65, Ammalia:70). Fix line 141.
+35 STALE: line 109 says the wiki is "blocked"; line 61 [review] on the outposts' purpose unresolved (neither ops nor guide says the outposts gather gold or ritual components).
+36 ARITHMETIC VERIFIED across all seven pages: pact 1489, Osvaldo nine then, twelve now, born 1480; twins born 1483, eight turning nine Flamerule 11, 1492; Founders' Day ten days earlier (WDH 18294); 999,999 gp and 99 souls (WDH 18296). Secrecy rule honored.
+
+Counts: error 5 (1,13,24,31,34); stale 7; divergence 10; nit 3; research-answer 9. USER decisions: 6, 12, 19, 23, 24, 26, 10.
