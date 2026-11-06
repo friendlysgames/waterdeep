@@ -55,7 +55,7 @@ Patron pages replace "A cleric PC" and "A paladin PC" with the warlock subclass 
 
 - Gamemaster's Summary, `**Purpose:**`, an opening of 2 to 3 sentences on how Waterdhavians treat their gods.
 - **How to choose a deity** tables: by 5etools domain (SCAG), by alignment, and by the 2024 cleric subclass the page derives. One row per power. Link every row with a bold page name.
-- **Waterdeep's temples** table (name, power, ward, source). Only temples a source places in the city.
+- **Waterdeep's temples** table (name, power, ward, source). Only temples a source places in the city. Start from the "Major Temples of Waterdeep" table in `sources/adventure-wdh.json` (caption at about line 30910; columns Deity, Temple Name, Location) and add campaign-file temples. Where the campaign or the wiki gives a different ward (Tymora's Tower of Luck, Helm's Hall), put both in Draft Notes; the campaign file wins.
 - **The powers of other peoples** section: the eight pantheon heads, one row each.
 - **Patrons** section: the twelve patrons, grouped by 2024 warlock subclass, with one line on how they differ from a god.
 - Overview, GM Notes, Source References, Cross-References.
