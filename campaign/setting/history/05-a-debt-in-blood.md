@@ -60,7 +60,7 @@
 - The Harpers watch the family's charitable work. Their genuine goodness has kept that surveillance clean for years.
 - The outpost network gathers gold and ritual components for the payment, and the Vault covers the shortfall. The Cassalanters do not compete with the other factions for the Stone and intend to wait until someone reveals the vault. `[review: outpost purpose against Faction Outposts]`
 
-> *I have dined at Cassalanter Villa twice, and on both evenings Lady Ammalia walked me through her butterfly garden before the soup, naming every specimen and the country it came from. She corrected my pronunciation of three of them so gently that I wrote the names down afterward, meaning to use them at my next dinner.*
+> *I cannot claim to know the Cassalanters well, having dined at their villa only twice, but on both evenings Lady Ammalia led me through her butterfly garden before the soup, naming every specimen and the country it came from. Arrive prepared to be educated (and to be hungry). She corrected my pronunciation of three of the names so gently that I wrote them down afterward, meaning to use them at my next dinner.*
 > *~Volo*
 
 ### The Recovery Plan

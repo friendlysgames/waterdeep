@@ -76,7 +76,7 @@
 - The system failed once, after his death. The wiki records the Guildwars of 1256 DR to 1262 DR and the Lords Magister who followed, until Baeron and Shilarn restored the Lords in 1273 DR.
 - The campaign's closing idea for this era is that Ahghairon built Waterdeep to survive bad rulers, and the Grand Game is the test of whether he was right. `[research]`
 
-> *I have laid violets beneath Ahghairon's tower on his day, among a great many commoners who all kept a careful distance from the cage. I kept the same distance. The bones of the last fellow who tried it hang beyond the barrier still, and a single look at them settled my choice.*
+> *Dear reader, should you lay violets beneath Ahghairon's tower on his day, as I have, do it among the commoners and keep a long stride between yourself and the cage. Every one of them did, and so did I (a gentleman of letters ought to set an example, and mine was to stand at the back). The bones of the last fellow who tried it hang beyond the barrier still, and I looked at them rather longer than I intended before I made up my mind.*
 > *~Volo*
 
 ## Overview

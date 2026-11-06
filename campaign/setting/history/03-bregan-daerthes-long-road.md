@@ -64,7 +64,7 @@
 - Lords' Alliance membership is the latest of Jarlaxle's schemes in the published adventure, and Luskan's unsavory reputation has thwarted every earlier attempt. The Alliance's current leaders have voiced their opposition, and a few have declared that Luskan will never be welcome. He aims to persuade Laeral to champion the city, even if it costs the Alliance other members. The campaign makes this his main aim in Waterdeep (see **Jarlaxle Baenre** in Villains).
 - He also wants to oust Neverwinter and its lord, Dagult Neverember, from the Alliance. The published adventure calls Neverember his fiercest political opponent.
 
-> *Luskan's captains dislike being called pirates in front of their own crews, and they like it less when the speaker is a guest at their table. I learned this over a long supper on the south bank, and two very polite sailors saw me to the gate afterward.*
+> *I rate the long supper I took on the south bank three tankards, and the walk to the gate afterward four daggers, on account of the two very polite sailors who accompanied me. Luskan's captains dislike being called pirates in front of their own crews, and they dislike it a good deal more when the word comes from a guest at their table (I had taken it for a compliment, heaven help me). Say "captain," dear reader, and keep every other opinion for the road home.*
 > *~Volo*
 
 ### The Road to Waterdeep

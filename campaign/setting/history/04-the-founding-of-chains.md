@@ -62,7 +62,7 @@
 - The Doom Raiders operate openly, meet in taverns and recruit adventurers. They are the first Zhentarim contact the party meets, during **Trollskull Alley**.
 - The Doom Raiders believe they are the true Zhentarim of Waterdeep. The old outline says Davil's cell "separates from Manshoon on pragmatic grounds". The sources reverse that direction: the cell came first, and Manshoon's clone peeled off its network.
 
-> *Davil Starsong once stood me a drink at the Yawning Portal and spent the evening explaining that the Black Network is a trading company first and everything else a long way after. I wrote it all down, since I had never heard a Zhentarim explain himself so politely.*
+> *I confess I accepted a drink at the Yawning Portal from Davil Starsong, and that I stayed for the whole of the speech that came with it. His position, delivered with a patience I have rarely met in his trade, was that the Black Network is a trading company first and everything else a long way after (I wrote it down at once, having never heard a Zhentarim explain himself so politely).*
 > *~Volo*
 
 ### Manshoon's Waterdeep Operation
