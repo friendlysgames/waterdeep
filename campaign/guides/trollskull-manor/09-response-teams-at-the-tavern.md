@@ -6,13 +6,13 @@ Response Teams are detailed fully on the villain faction Factions guide pages. T
 
 **Ground rule:** Response Teams do not attack the tavern unprovoked while customers are present. A public massacre in a licensed North Ward establishment invites City Guard, the Watchful Order, and potentially Vajra Safahr personally within the hour. What they do instead is visit. The manner of the visit tells the party exactly where they stand.
 
-**Exception:** Noska Ur'gray's bugbear team. Noska is Xanathar's enforcer, not his diplomat. Bugbears do not read the social calendar.
+**Exception:** Noska Ur'gray's bugbear team. Noska is Xanathar's enforcer, not its diplomat. Bugbears do not read the social calendar.
 
 **Direct attack conditions:** Attacks come at night, after hours, when the tavern is empty or nearly so — and only if the party has taken an Eye and it's been tracked to this address, or they've publicly humiliated a faction leader in a way demanding visible response.
 
 ---
 
-## Xanathar Guild — Gorath's Duergar
+## Xanathar's Guild — Gorath's Duergar
 
 *The Guild does not negotiate. It sends lessons.*
 

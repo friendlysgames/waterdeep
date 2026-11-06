@@ -84,7 +84,7 @@ The campaign opens on Ches 1, 1492 DR, when the characters arrive at the Yawning
 
 ## Cross-References
 
-- [About This Campaign (GM)](about-this-campaign.md) — DM framing including private notes on tone and deaths
+- [About This Campaign (GM)](about-this-campaign.md) — GM framing including private notes on tone and deaths
 - [Debts of the City (GM)](debts-of-the-city.md) — Holder guidance, when each Debt's demands arrive
 - [Bonds and Flaws (GM)](bonds-and-flaws.md) — Bonds and Flaws tables, Where Each Flaw Lands sidebar
 - [Structural Rules](structural-rules.md) — fireball victim bond, faction response teams, Three Clue Rule

@@ -56,7 +56,7 @@ Raw materials the tavern sells. Scale with volume, quality, and Fame tier. Paid 
 | Renowned | 151–350 | 35–40 (+overflow) | 75–95 gp |
 | Institution | 351+ | Fully booked nightly | 90–110 gp |
 
-**DM guidance:** Don't track supply costs to the gold piece every session. Use them as a narrative lever — two tendays away adventuring, the cook ran supplies low, 40 gp owed to the Vintners' Guild. The number matters most when the room stops filling from faction pressure.
+**GM guidance:** Don't track supply costs to the gold piece every session. Use them as a narrative lever — two tendays away adventuring, the cook ran supplies low, 40 gp owed to the Vintners' Guild. The number matters most when the room stops filling from faction pressure.
 
 ---
 

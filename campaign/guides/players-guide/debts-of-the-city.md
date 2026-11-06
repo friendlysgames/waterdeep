@@ -58,7 +58,7 @@ Nothing has happened to him. Yet. But the information is still yours, and what y
 
 ## Redemption: Ahmaergo's Inventory
 
-The job was supposed to be clean. The Xanathar Guild was acquiring something from a rival organization, and you were hired to facilitate transit and paid well enough not to ask questions. What came out of there wasn't what you'd been told. What you left behind was considerably worse. The Guild got its item. The irregularities were absorbed into a larger accounting of that night, and your involvement went officially unnoted.
+The job was supposed to be clean. Xanathar's Guild was acquiring something from a rival organization, and you were hired to facilitate transit and paid well enough not to ask questions. What came out of there wasn't what you'd been told. What you left behind was considerably worse. The Guild got its item. The irregularities were absorbed into a larger accounting of that night, and your involvement went officially unnoted.
 
 Ahmaergo, Xanathar's dwarven majordomo and the man who actually runs the Guild's logistics, keeps a private ledger separate from the official records. Your name is in it, under a column that reads *Outstanding*.
 
@@ -82,7 +82,7 @@ A tenday later, an unsigned note arrived at your residence. It said: *We should 
 
 ## Knowledge: Skeemo's Index
 
-Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Trades Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
+Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Trades Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside Xanathar's Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
 
 What he didn't mention was that he'd already entered it into the index as he filed it. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
 
@@ -90,6 +90,6 @@ What he didn't mention was that he'd already entered it into the index as he fil
 
 ## Cross-References
 
-- [GM Guide: Debts of the City](../gm-guide/debts-of-the-city.md) — DM superset; includes Holder guidance and the Design Note
+- [GM Guide: Debts of the City](../gm-guide/debts-of-the-city.md) — GM superset; includes Holder guidance and the Design Note
 - [Character Creation](character-creation.md) — species, backgrounds, general guidance
 - [Bonds and Flaws](bonds-and-flaws.md) — character arc tables

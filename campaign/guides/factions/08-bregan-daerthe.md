@@ -65,10 +65,10 @@ Bregan D'aerthe recruits during **Trollskull Alley**. The offer extends to any p
 |-------|---------|---------|--------|
 | 2nd | **The Handkerchief and the Girl** | Steal a silk handkerchief from a Waterdhavian noble and deliver it to a tiefling girl living rough on the docks near Net and Dock Streets. A small test of skill and discretion. The reason matters more than it seems. | +2 |
 | 3rd | **The Wazoo Affair** | Deliver an anonymous exposé on an unnamed Sea Ward family's hidden gold and missing servants to the publisher of *The Waterdeep Wazoo* without being identified. Jarlaxle wrote it himself. He enjoys rattling the nobility. | +2 |
-| 4th | **Three Nights** | An Xanathar Guild prisoner appears — inexplicably — bound in the tavern's basement. Guard him for three nights while Jarlaxle makes arrangements. Xanathar sends escalating forces to retrieve him each night. | +3 |
+| 4th | **Three Nights** | A Xanathar's Guild prisoner appears — inexplicably — bound in the tavern's basement. Guard him for three nights while Jarlaxle makes arrangements. Xanathar sends escalating forces to retrieve him each night. | +3 |
 | 5th | **The Compromised Eye** | Extract or protect Nar'l Xibrindas, the BD mole embedded in Xanathar's Guild. Jarlaxle forbids killing him — Nar'l is more valuable alive and in position. Three approaches: feed him a false report, extract him from the city, or confront Ahmaergo's counterintelligence source. | +3 |
 | 6th | **The Theater's Back Room** | Facilitate a covert handoff at Seven Masks Theater — a frightened Cassalanter steward has a floor plan of the windmill the family maintains under a false name for private gatherings they keep entirely off their social calendar — while a Cassalanter watcher attempts to intercept the exchange. | +4 |
-| 7th | **The Dive** | Xanathar Guild divers have located the Scarlet Marpenoth submarine moored under the Eyecatcher and are staging to place a limpet charge on the hull. Dive into Deepwater Harbor to stop the dive team and remove the charge before dawn detonation. | +4 |
+| 7th | **The Dive** | Xanathar's Guild divers have located the Scarlet Marpenoth submarine moored under the Eyecatcher and are staging to place a limpet charge on the hull. Dive into Deepwater Harbor to stop the dive team and remove the charge before dawn detonation. | +4 |
 
 Full mission write-ups are in the **Faction Events** quest journals.
 
@@ -80,7 +80,7 @@ A standard team consists of one or two **Drow Gunslingers** (stat block in *Wate
 
 ## Outposts
 
-### Fenerus Stormcastle's House — Encounter-Plus (Trade Ward, Quill Alley)
+### Fenerus Stormcastle's House — Encounter-Plus (Trades Ward, Quill Alley)
 
 Use the description from DH p. 63. Fenerus collects messages from dead drops throughout the Trades Ward and stores them at the house; Krebbyg picks them up every two days. Fenerus isn't supposed to know where the messages go, but he followed Krebbyg once and does.
 
@@ -125,7 +125,7 @@ Jarlaxle reaches for leverage before force against the party. Direct confrontati
 
 ## Revelation List
 
-**Fenerus Stormcastle's House** (Trade Ward, Quill Alley)
+**Fenerus Stormcastle's House** (Trades Ward, Quill Alley)
 - *Letter Regarding Fenerus Stormcastle's House* (Seven Masks Theater — Krebbyg warns Jarlaxle)
 - *A Directive to Zorbog* (Zhentarim Interrogation House — mentions Fenerus by name as a D'aerthe contact)
 - *Sealed Letter to Fenerus Stormcastle* (Response Team: Krebbyg Masq'il'yr)

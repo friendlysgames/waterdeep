@@ -14,15 +14,15 @@ Any Zhentarim team sent to attack the characters carries orders to take them as 
 
 ## Outposts
 
-### Interrogation House — Encounter-Plus (Trade Ward, Brindul Alley)
+### Interrogation House — Encounter-Plus (North Ward, Brindul Alley)
 
-*Independent discovery path: parties that searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the safe house through Trade Ward canvassing — the traffic is unusual enough to notice (DC 14 Investigation over a day, no faction membership required). This is the Manshoon chain's street-level entry point.*
+*Independent discovery path: parties that searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the safe house through North Ward canvassing — the traffic is unusual enough to notice (DC 14 Investigation over a day, no faction membership required). This is the Manshoon chain's street-level entry point.*
 
 Use the map for house L1 (DH p. 62). Avareen Windrivver and Zorbog Jyarkoth maintain this building as a combination safe house and covert interrogation center. Three black **flying snakes** nest near the ceiling — the Zhentarim's message couriers.
 
 *Front Room.* Avareen and Zorbog's quarters. Avareen carries a pass-amulet to Kolat Towers. While the party explores, a flying snake arrives with *A Directive to Zorbog* signed by "Manshoon," ordering Zorbog to kidnap Fenerus Stormcastle of Quill Alley, a "known associate of these new meddlers in the Grand Game."
 
-*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanatharian agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself.
+*Backroom.* A rack and other instruments of torture. An arcane circle on the floor. Strapped into the rack is **Ott Steeltoes**, a Xanathar's Guild agent captured while the Zhentarim were trying to locate the Eye. He knows nothing of the Eye itself.
 
 If the party frees him, Ott immediately tries to recruit his rescuers into Xanathar's organization. With patience and the right questions, the party can persuade him to lead them toward the Lair instead.
 
@@ -59,7 +59,7 @@ Manshoon underestimates threats that aren't magical. A party that stays clear of
 
 *Each entry names the document or discovery and, in parentheses, where it is found. These lists adhere to the Three Clue Rule: at minimum, three independent paths lead to each location. Create additional clues through tracking, interrogation, and research as the campaign develops.*
 
-**Zhentarim Interrogation House** (Trade Ward, Brindul Alley)
+**Zhentarim Interrogation House** (North Ward, Brindul Alley)
 - *Directive to Urstul Floxin* (Response Team: Urstul Floxin — names Avareen in Brindul Alley)
 - *Crumpled Note* (Yellowspire — Avareen's return address is the Interrogation House)
 - Questioning Zhentarim response teams / being captured by them

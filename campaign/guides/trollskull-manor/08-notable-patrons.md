@@ -2,9 +2,9 @@
 
 > Structuring draft.
 
-Full narrative profiles (appearance, roleplaying keys, detailed topic scenes) in source file. Structure summary below for DM reference.
+Full narrative profiles (appearance, roleplaying keys, detailed topic scenes) in source file. Structure summary below for GM reference.
 
-**DM guidance:** The Patron Table is an improv prompt, not a script. Look for collisions between patrons — that's where interesting moments come from. Pay attention to which NPCs the players light up around; find ways to bring those characters back and reincorporate them into the wider campaign.
+**GM guidance:** The Patron Table is an improv prompt, not a script. Look for collisions between patrons — that's where interesting moments come from. Pay attention to which NPCs the players light up around; find ways to bring those characters back and reincorporate them into the wider campaign.
 
 ---
 
@@ -61,7 +61,7 @@ Direct; does not perform warmth; knows more about the party than she should.
 **Meloon Wardragon** *(Champion Fighter, NG Illuskan human)*
 Endlessly optimistic; buys rounds; tells stories about dead people he loved with complete emotional openness; sees himself in young adventurers and says so.
 
-**Act II–III note:** By Act II, Meloon has been compromised by an Xanathar Guild intellect devourer. The Meloon who visits during Act I is genuine. The one who arrives in Acts II–III may not be. The DM should track when this shift occurs and let the party notice gradually — the tavern is where early warning signs should emerge. The Force Grey mission "The Trouble with Meloon" formalizes this.
+**Act II–III note:** By Act II, Meloon has been compromised by a Xanathar's Guild intellect devourer. The Meloon who visits during Act I is genuine. The one who arrives in Acts II–III may not be. The GM should track when this shift occurs and let the party notice gradually — the tavern is where early warning signs should emerge. The Force Grey mission "The Trouble with Meloon" formalizes this.
 
 - Buys a round; asks sincerely how the party is finding Waterdeep; actually listens
 - Tells a story about a Force Grey operation that went wrong; names people who died; is fond of them

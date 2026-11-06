@@ -17,7 +17,7 @@ Events marked **★** have expanded notes below. Events marked **†** should be
 | d20 | Event | Resolution |
 |:---:|---|---|
 | 1 | Spontaneous arm-wrestling competition. Crowd bets heavily. | Bouncer: Auto. No bouncer: Roleplay. |
-| 2 ★† | Kenku street gang enters; attempts to sell traveler's dust (Xanathar Guild narcotic) to patrons. | Roleplay or Bouncer. Reroll on second occurrence — that flock avoids the Trollskull after. |
+| 2 ★† | Kenku street gang enters; attempts to sell traveler's dust (Xanathar's Guild narcotic) to patrons. | Roleplay or Bouncer. Reroll on second occurrence — that flock avoids the Trollskull after. |
 | 3 | A horse is standing in the common room. No one knows how it got there. | Roleplay. |
 | 4 | A patron slips something into another patron's drink, then returns to their own table. | Roleplay (or ignore). |
 | 5 ★† | Stannis (12-year-old pickpocket) is working the crowd. His half-orc handler Sabeen waits outside. | Roleplay. Reroll on second occurrence — Stannis doesn't return after being noticed. |
@@ -39,7 +39,7 @@ Events marked **★** have expanded notes below. Events marked **†** should be
 
 ## Expanded Event Notes
 
-**Event 2 — Traveler's Dust:** Xanathar Guild narcotic sold through kenku. If the party allows the sale: regular patron visibly affected, anonymous Watch tip within the tenday, −1 Fame. If they drive the kenku out without violence: +1 Fame, kenku flock's enmity. Bouncer handles the expulsion but flock enmity still follows.
+**Event 2 — Traveler's Dust:** Xanathar's Guild narcotic sold through kenku. If the party allows the sale: regular patron visibly affected, anonymous Watch tip within the tenday, −1 Fame. If they drive the kenku out without violence: +1 Fame, kenku flock's enmity. Bouncer handles the expulsion but flock enmity still follows.
 
 **Event 5 — Stannis the Pickpocket:** Stannis (CG male Illuskan human, 12, skilled). Handler Sabeen (N female half-orc, Tough) runs child pickpockets from the Field Ward — not cruel, not kind. Turn Stannis over to Watch: Sabeen targets tavern patrons for next tenday (−1 Fame). Speak to Sabeen directly: she can become a low-level street contact. Employ Stannis legitimately: he becomes a fixture — fiercely loyal and useful.
 

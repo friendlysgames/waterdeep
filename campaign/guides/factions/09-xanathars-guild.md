@@ -18,7 +18,7 @@ Xanathar deploys response teams in escalating tiers. The first or second team th
 
 *Full 5-step planning framework in **Faction Outposts**, Scene 4A. This entry provides keyed area reference for the operation.*
 
-A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two levels — both under the same roof, both accessible by passphrase, and neither officially connected. Keln Trigos runs a healing operation for Xanatharian agents on the upper floors. Below it, the estate serves as one of Waterdeep's gladiatorial gathering points: those who want to attend the fights in Xanathar's Lair report here; staff ply them with exotic food, then blindfold them and escort them through an underground dock to caverns near Skullport.
+A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two levels — both under the same roof, both accessible by passphrase, and neither officially connected. Keln Trigos runs a healing operation for Guild agents on the upper floors. Below it, the estate serves as one of Waterdeep's gladiatorial gathering points: those who want to attend the fights in Xanathar's Lair report here; staff ply them with exotic food, then blindfold them and escort them through an underground dock to caverns near Skullport.
 
 **Area 1 — Front Door.** Two passphrases control entry. For healing services: "I heard the red hand was hot." For gladiatorial gatherings: "the bawdy star shines bright tonight."
 
@@ -28,17 +28,17 @@ A modest rowhouse secretly owned by Xanathar, the Terasse Estate operates on two
 
 **Area 6–7 — Master Suite.** Keln's desk holds *Instructions for Gladiatorial Weaponry* from Ahmaergo: a shipment of exotic weapons is being sent by Grinda Garloth for the next gladiatorial audience.
 
-**Areas 8–10 — Sick Rooms.** A bedridden Xanatharian agent has an *Ill Man's Note* on his bedside table: the Orb Confectioners passphrase, written in verse.
+**Areas 8–10 — Sick Rooms.** A bedridden Guild agent has an *Ill Man's Note* on his bedside table: the Orb Confectioners passphrase, written in verse.
 
-***Roster.*** Keln Trigos (**priest**) + 2 **guards** + 3 Xanatharian agents (**thug** stat block).
+***Roster.*** Keln Trigos (**priest**) + 2 **guards** + 3 Guild agents (**thug** stat block).
 
-***Escalation.*** Xanathar moves to Suspicious (Tier 2). If a second Xanathar outpost has already been hit, he moves directly to Alert (Tier 3), and Gorath's team deploys within 2 days to the last known party location. **Founders' Day Clock: 2–4 days.**
+***Escalation.*** Xanathar moves to Suspicious (Tier 2). If a second Xanathar outpost has already been hit, it moves directly to Alert (Tier 3), and Gorath's team deploys within 2 days to the last known party location. **Founders' Day Clock: 2–4 days.**
 
 ### Grinda Garloth's — Encounter-Plus (Dock Ward, Mistshore)
 
 *Independent discovery path: any character asking about Xanathar weapons, black-market arms, or Guild suppliers in the Dock Ward is pointed to Grinda in Mistshore within a day (DC 12 Charisma check, no faction membership required). This is the Xanathar chain's street-level entry point.*
 
-Grinda runs her operation out of the standard Mistshore description, ignoring seasonal variants. She is Xanathar's black market armorer, equipping Xanatharian agents on request and freelancing to third parties for coin.
+Grinda runs her operation out of the standard Mistshore description, ignoring seasonal variants. She is Xanathar's black market armorer, equipping Guild agents on request and freelancing to third parties for coin.
 
 **Area D2 — Grinda's Chest.** 500 gp and the *Note Regarding Gladiatorial Weaponry* from Ahmaergo, confirming the weapon delivery to Terasse Estate and citing Xanathar's expectation of "exotic gutting."
 
@@ -64,7 +64,7 @@ Orb Confectioners is a sweets shop specializing in eye-shaped treats: smallcakes
 
 ## Escalation
 
-Xanathar's paranoia means his response to ambiguity is escalation. A single threat to an outpost pushes the faction directly from Suspicious to Alert, skipping the intermediate tier.
+Xanathar's paranoia means its response to ambiguity is escalation. A single threat to an outpost pushes the faction directly from Suspicious to Alert, skipping the intermediate tier.
 
 | Tier | Behavior |
 |---|---|

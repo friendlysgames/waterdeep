@@ -91,7 +91,7 @@ Nothing has happened to him. Yet. But the information is still yours, and what y
 
 ### The Holder: Renaer Neverember (Independent)
 
-Renaer Neverember is the estranged son of Dagult Neverember, the former Open Lord who looted the Vault of Dragons before his removal from office. Renaer is nothing like his father, which has cost him: politically exiled by association with Dagult's name, he works quietly to repair both his standing and his city.
+Renaer Neverember is the estranged son of Dagult Neverember, the former Open Lord who looted the Vault of Dragons before his removal from office. Renaer is nothing like his father, which has cost him: politically sidelined by association with Dagult's name, he works quietly to repair both his standing and his city.
 
 The information he passed to the character concerns a third party: a name, a location, a transaction implicating someone still active in Waterdeep whose corruption has nothing to do with Dagult's and has not reached public attention. Renaer shared it because he needed someone outside his usual circles to hold it, in case something happened to him. Nothing has. The information has not yet been used.
 
@@ -101,7 +101,7 @@ He makes contact once, in a setting that leaves room for the character to redire
 
 ## Redemption: Ahmaergo's Inventory
 
-The job was supposed to be clean. The Xanathar Guild was acquiring something from a rival organization, and you were hired to facilitate transit and paid well enough not to ask questions. What came out of there wasn't what you'd been told. What you left behind was considerably worse. The Guild got its item. The irregularities were absorbed into a larger accounting of that night, and your involvement went officially unnoted.
+The job was supposed to be clean. Xanathar's Guild was acquiring something from a rival organization, and you were hired to facilitate transit and paid well enough not to ask questions. What came out of there wasn't what you'd been told. What you left behind was considerably worse. The Guild got its item. The irregularities were absorbed into a larger accounting of that night, and your involvement went officially unnoted.
 
 Ahmaergo, Xanathar's dwarven majordomo and the man who actually runs the Guild's logistics, keeps a private ledger separate from the official records. Your name is in it, under a column that reads *Outstanding*.
 
@@ -109,7 +109,7 @@ Ahmaergo, Xanathar's dwarven majordomo and the man who actually runs the Guild's
 
 ### The Holder: Ahmaergo (Xanathar's Guild)
 
-Ahmaergo is the Xanathar Guild's majordomo: a shield dwarf of outward civility and exacting administrative competence who functions as the Guild's operational second-in-command. Most orders that bear Xanathar's name were drafted by Ahmaergo. His private ledger is separate from official Guild records because Xanathar doesn't know about every arrangement he makes, which is precisely the point.
+Ahmaergo is the majordomo of Xanathar's Guild: a shield dwarf of outward civility and exacting administrative competence who functions as the Guild's operational second-in-command. Most orders that bear Xanathar's name were drafted by Ahmaergo. His private ledger is separate from official Guild records because Xanathar doesn't know about every arrangement he makes, which is precisely the point.
 
 His first formal contact arrives as a logistics problem requiring someone unaffiliated, deniable, and capable. He won't frame it as debt repayment. Characters who complete the task find the *Outstanding* column now reads *Current*. Characters who refuse find their name appearing in official Guild records, in a context that requires immediate and uncomfortable explanation to the City Watch.
 
@@ -152,7 +152,7 @@ He presents the mutual-observation arrangement as workable because he means it. 
 
 ## Knowledge: Skeemo's Index
 
-Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Trades Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside the Xanathar Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
+Skeemo Weirdbottle maintains, out of a cramped shop on a side street in the Trades Ward, one of the most comprehensive indices of Waterdeep's criminal and semi-criminal activities that exist outside Xanathar's Guild's own records. He compiled it partly for business and partly because he finds the city's power structures intrinsically interesting. He sold you something from it (access, a specific piece of information, a document that enabled something you needed to do) and conducted the transaction with professional discretion.
 
 What he didn't mention was that he'd already entered it into the index as he filed it. Under your name. With a full record of what you purchased, what it suggests you were trying to accomplish, and a brief speculative notation about your likely future needs.
 
