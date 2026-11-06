@@ -44,14 +44,14 @@ The draft let a member decline for "partial access," which was soft, because the
 
 A member who accepts and then refuses when the favor is named loses the same things. This keeps the choice real in both directions, as the Doom Raiders' seat does.
 
-The draft's favor was "I genuinely do not know yet," which left the GM to improvise. The Event now settles it. The favor is a sealed letter for Rizzeryl, the drow mage of House Auvryndar in the Base de Résistance on the second level. It offers a safe road for an Auvryndar courier in exchange for the Xanathar Guild's mooring list. The cost is the secret, which the member keeps from any Zhentarim or Doom Raider ally in the party until Rizzeryl has read it. This is the old draft's "keeping a secret that conflicts with a party ally's interests" category, and it asks nothing of a companion. The host does not describe the favor because telling would change how the member carries it.
+The draft's favor was "I genuinely do not know yet," which left the GM to improvise. The Event now settles it. The favor is a sealed letter for Rizzeryl, the drow mage of House Auvryndar in the Base de Résistance on the second level. It offers a safe road for an Auvryndar courier in exchange for Xanathar's Guild mooring list. The cost is the secret, which the member keeps from any Zhentarim or Doom Raider ally in the party until Rizzeryl has read it. This is the old draft's "keeping a secret that conflicts with a party ally's interests" category, and it asks nothing of a companion. The host does not describe the favor because telling would change how the member carries it.
 
 ## Mad Mage Hooks and What Was Dropped
 
 The adventure supports three seeds.
 
 - House Auvryndar is a low-ranking Menzoberranzan house consolidating in Undermountain and allied with the Zhentarim. Rizzeryl works for it from the Base de Résistance and has no quarrel with anyone who leaves him alone.
-- The Xanathar Guild controls Skullport and is trying to secure the upper levels.
+- Xanathar's Guild controls Skullport and is trying to secure the upper levels.
 - Skull Island's two harbors are 60 feet deep, with steel augers that pierce the hulls of passing ships, so the *Scarlet Marpenoth* never enters either.
 
 The adventure contains nothing of Bregan D'aerthe, so every tie between the company and these people is stated as what the company has heard.

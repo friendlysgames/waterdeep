@@ -20,11 +20,11 @@
 
 ## Character Information
 
-**Persona.** To the world, Victoro is a devilishly handsome half-elf banker, philanthropist, and worshipper of Lathander whose profits fund charity, with an unreadable smile and a genuine warmth toward his younger children that makes the rest of what he is harder to see. To those he trusts, he is a secret priest of Asmodeus whose pact traded his three children's souls for power. Deep down, everything the Cassalanters tell the PCs about their situation is technically true; they do not mention that the ritual also requires poisoning 99 people at the Founders' Day feast. He cannot bring himself to go to the attic where Osvaldo is; that vigil belongs to Ammalia. He carries a ruby-tipped cane that functions as a rod of rulership.
+**Persona.** To the world, Victoro is a devilishly handsome half-elf banker, philanthropist, and worshipper of Lathander whose profits fund charity, with an unreadable smile and a genuine warmth toward his younger children that makes the rest of what he is harder to see. To those he trusts, he is a secret priest of Asmodeus whose pact traded his three children's souls for power. Deep down, everything the Cassalanters tell the PCs about their situation is technically true; they do not mention that the ritual also requires poisoning 99 people at the Founders' Day feast. He has not entered the attic where Osvaldo is in months and cannot bring himself to go; that vigil belongs to Ammalia. He carries a ruby-tipped cane that functions as a rod of rulership.
 
 **Morale.** In a fight, Victoro uses his priestly magic and social authority to de-escalate, negotiate, or bribe. If combat is unavoidable, he fights to protect his family and his secret, and he is slow to anger but devastating when pushed.
 
-**Relationships.** Victoro is the husband of Ammalia Cassalanter (co-conspirator), the father of Osvaldo (eldest, soul lost, transformed into a chain devil), Terenzio and Elzerina (the twins, intended sacrifice), and the employer of Willifort Crowelle (doppelganger butler who knows everything that happens in the villa).
+**Relationships.** Victoro is the husband of Ammalia Cassalanter (co-conspirator), the father of Osvaldo (eldest, soul lost, transformed into a chain devil), Terenzio and Elzerina (the twins, forfeit on their ninth birthday), and the employer of Willifort Crowelle (doppelganger butler who knows everything that happens in the villa).
 
 ## Overview
 

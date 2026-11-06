@@ -1,12 +1,12 @@
 # The Grand Game
 
-> Structuring draft. Content migrated from ch2-city-of-splendors.md.
+> Structuring draft.
 
 ---
 
 ### The Grand Game
 
-**Purpose:** Gives the DM the in-world frame for the faction competition — not faction stats, but the texture of how power actually works in Waterdeep.
+**Purpose:** Gives the GM the in-world frame for the faction competition — not faction stats, but the texture of how power actually works in Waterdeep.
 
 **Content:**
 
@@ -29,19 +29,19 @@
 
 | Faction | What they know | What they have | What they're doing |
 |---------|---------------|----------------|-------------------|
-| Xanathar Guild | Stone was with Dalakhar (now Gralhund/PCs); Dalakhar worked for Renaer | Eye #1 | Pursuing the Stone; hunting Dalakhar's trail |
+| Xanathar's Guild | Stone was with Dalakhar (now Gralhund/PCs); Dalakhar worked for Neverember | Eye #1 | Pursuing the Stone; hunting Dalakhar's trail |
 | Manshoon's Zhentarim | Stone was with Dalakhar; Gralhunds intercepted it | Nothing | Urstul Floxin redirected to Gralhund Villa |
-| Cassalanters | Vault exists (Lords' Alliance contact); have one Eye | Eye #2 | Accumulating soul coins; not yet pursuing Stone actively |
-| Bregan D'aerthe | Full intelligence via Nar'l Xibrindas inside Xanathar Guild | Eye #3 | Waiting to see which party proves most useful; observing all other factions |
+| Cassalanters | Vault exists (Lords' Alliance contact); have one Eye | Eye #2 | Raising the 999,999 gp and ninety-nine souls the contract demands (about 500,000 gp in hand, the Vault's 500,000 covers the rest); need the Stone plus Eyes #1 and #3 to open the Vault |
+| Bregan D'aerthe | Full intelligence via Nar'l Xibrindas inside Xanathar's Guild | Eye #3 | Waiting to see which party proves most useful; observing all other factions |
 | Doom Raiders | Aware of Grand Game at high level; not primary competitors for vault | Nothing | Maintaining territory; watching |
 
-**Tone:** Practical and in-world. The DM should finish this section with a working sense of how power moves in Waterdeep — the texture of it, not just the stats.
+**Tone:** Practical and in-world. The GM should finish this section with a working sense of how power moves in Waterdeep — the texture of it, not just the stats.
 
 ---
 
 ## Source References
 
-- `ch2-city-of-splendors.md` Section 2: "The Grand Game"
+- The retired Chapter 2 outline, Section 2: "The Grand Game"
 - `21. Faction Reports of the Grand Game.pdf` — what each faction knows at campaign start
 - `2. Other Factions.pdf` — supporting faction analysis
 

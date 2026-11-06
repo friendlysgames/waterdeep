@@ -12,7 +12,7 @@ The restored draft had an invented investigator, an arrival by *Dimension Door* 
 
 - Appendix C has Jarlaxle say "for Lolth's sake." The line is cut, because Bregan D'aerthe has rejected her.
 - WDH puts four drow with secret orders to kill Nar'l at the head of the Castle Ward staircase for a member with Renown 4 or more, and they carry those orders here. They give the Extraction route its sharpest beat, a loaded crossbow at the top of a stair where the party has just won.
-- The old draft's "case" is kept and now has a body. Ahmaergo's clerks hold three unsent reports and a fence's word, and the discredit route attacks both. The investigator is gone, because the sources say Xanathar himself is suspicious and Ahmaergo only does his paperwork.
+- The old draft's "case" is kept and now has a body. Ahmaergo's clerks hold three unsent reports and a fence's word, and the discredit route attacks both. The investigator is gone, because the sources say Xanathar itself is suspicious and Ahmaergo only does his paperwork.
 - Nar'l's tenure is a year, as WDH says, and not the three years in the Notable Figures page or the eleven in **Xanathar's Lair**.
 - The disownment of Soluun follows **The Killer's Fate**. If Soluun was expelled, the cover story is real and nobody calls it one. If he was killed, Nar'l grieves. If neither applies, Krebbyg calls it a story at the debrief.
 

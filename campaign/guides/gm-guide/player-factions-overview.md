@@ -160,7 +160,7 @@ Each of the six standard factions assigns a named contact who handles recruitmen
 | Emerald Enclave | **Melannor Fellbranch** | Aberrant threats to the city's water and wildlife, the unidentified infernal influence in the Sea Ward, the thing that dreams below the Castle Ward, and the defence of Phaulkonmere in the Southern Ward |
 | Order of the Gauntlet | **Savra Belabranta** | Combat support against known villain lairs; proof of whatever the Cassalanters are hiding, which she suspects and cannot yet name |
 | Force Grey | **Vajra Safahr** | The same outcomes the Open Lord wants, handled quietly and without the Lords' Alliance's politics |
-| Doom Raiders | **Davil Starsong** (Missions 1–2); **Tashlyn Yafeera** (Missions 3–6) | Intelligence on Manshoon's cell; containment of Xanathar Guild activity; anything that weakens their rivals |
+| Doom Raiders | **Davil Starsong** (Missions 1–2); **Tashlyn Yafeera** (Missions 3–6) | Intelligence on Manshoon's cell; containment of Xanathar's Guild activity; anything that weakens their rivals |
 
 ## Bregan D'aerthe
 

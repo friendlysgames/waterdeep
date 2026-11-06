@@ -10,7 +10,7 @@ Phase 1 is universal. After the reveal, the track splits based on whether the PC
 
 | When active | The mode |
 |-------------|----------|
-| Acts I–II *(Zord activity keyed to the party's contact: Jarlaxle Informed)* | The disguise; a plausible, theatrical Calishite eccentric who is too observant; PCs may like him before they know who he is; the performance holds but the intelligence behind it keeps slipping through |
+| Acts I–II *(Zord activity keyed to the party's contact: Jarlaxle Informed)* | The disguise; a plausible, theatrical Illuskan eccentric who is too observant; PCs may like him before they know who he is; the performance holds but the intelligence behind it keeps slipping through |
 
 *Trigger to Phase 2:* PCs penetrate the disguise, or Jarlaxle decides they've earned the reveal. Either way, "Zardoz Zord" ends here.
 
@@ -49,7 +49,7 @@ Phase 1 is universal. After the reveal, the track splits based on whether the PC
 | Xanathar | Target of management | The beholder is being handled via Nar'l's selective intelligence; Jarlaxle prefers a controlled beholder to a power vacuum |
 | Renaer Neverember | Political connection | Worth cultivating; Renaer's relationship with Laeral is an indirect path to the Open Lord's attention; Renaer doesn't know who he met |
 | The Cassalanters | Aware but uninvested | Knows about their infernal bargain through intelligence; not interested in getting involved unless strategic upside appears |
-| The PCs | Most interesting variable | Has been watching since **Finding Floon** (Nar'l reported them in the Xanathar sewer hideout); knows their names, faction ties, and general competence by **Sea Maidens Faire** |
+| The PCs | Most interesting variable | Has been watching since **Finding Floon** (Nar'l's reports reached him, and his agents were in the Xanathar sewer hideout); knows their names, faction ties, and general competence by **Sea Maidens Faire** |
 
 **Goals**
 

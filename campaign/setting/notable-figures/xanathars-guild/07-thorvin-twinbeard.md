@@ -23,8 +23,8 @@
 
 **Morale.** In a fight, Thorvin flees immediately through whichever stairs lead outside. He does not die for his employer.
 
-**Relationships.** Thorvin is a Xanathar Guild engineer, a secret Harper informant, the man who maintains the Lair's mechanical constructs and traps (and knows every failure condition), and the reason the smokepowder demolition option is viable.
+**Relationships.** Thorvin is an engineer of Xanathar's Guild, a secret Harper informant, the man who maintains the Lair's mechanical constructs and traps (and knows every failure condition), and the reason the smokepowder demolition option is viable.
 
 ## Overview
 
-Thorvin Twinbeard is an irritable dwarf engineer employed by the Xanathar Guild to maintain its mechanical constructs and devices. He takes no questions about his methods or his employers.
+Thorvin Twinbeard is an irritable dwarf engineer employed by Xanathar's Guild to maintain its mechanical constructs and devices. He takes no questions about his methods or his employers.

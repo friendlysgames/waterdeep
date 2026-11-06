@@ -10,7 +10,7 @@ Neither Zemk nor Krentz is watching the door from Q04. They are entirely focused
 
 #### Zemk
 
-Duergar. Hostile to anyone who isn't Xanathar Guild. He doesn't negotiate; the gray ooze problem made him pragmatic but not cooperative. He fights to incapacitation.
+Duergar. Hostile to anyone who isn't Xanathar's Guild. He doesn't negotiate; the gray ooze problem made him pragmatic but not cooperative. He fights to incapacitation.
 
 If the alert state is active, Zemk grabs his maul the moment the Q04 door opens.
 

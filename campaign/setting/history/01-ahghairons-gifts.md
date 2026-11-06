@@ -33,6 +33,7 @@
 - Halaster Blackcloak built his tower at the foot of the mountain and ruled the lands around it until he vanished into the depths below, as the Melairkyn had.
 - Later warlords claimed the harbor. Nimoar raised a wooden stockade around the settlement, which was then called Nimoar's Hold, the Town of Waters Deep.
 - Ahghairon first made his name as a young man, when his magic turned the war against the trolls that had been clawing at the town. He lived on in his prime for decades, either from a store of potions of longevity or from learning to make them.
+- The wiki dates the Trollwars to 932 DR and again from 940 DR to 952 DR. The second conflict was twelve years of troll raids on human settlements, and it ended in 952 DR when Ahghairon, then 32, used his magic to win a decisive victory. The six Warlords of the city died in that battle (Forgotten Realms Wiki, History of Waterdeep; City of Splendors boxed set Campaign Guide, 2e). `[research: wiki only]`
 - The campaign calls Ahghairon the true founder of Waterdeep: the founder of its first system of rule, though not of its first settlement. The old outline states this, and the published adventure does not, because the adventure describes earlier settlements.
 - Founders' Day commemorates the birth of the city, and mages veil Castle Waterdeep that day as Nimoar's log fortress. Ahghairon has a separate holiday, Ahghairon's Day, on Eleasis 1. The dates and rituals belong to **Timekeeping and the Festival Calendar**.
 
@@ -48,15 +49,16 @@
 - From the throne Ahghairon decreed that he would sit openly as lord while a council of other lords of nearly equal power ruled with him. He did not rule alone.
 - The identities of the other lords were hidden even from each other, so that none of them could be approached with a bribe or a threat. These are the Masked Lords.
 - The Open Lord is the only member of the government the public can name. The Commander of the Watch reports to the Open Lord.
-- The Forgotten Realms Wiki gives the Open Lord reserved powers: choosing and vetting new Lords, naming the next Open Lord, and fixing how many Lords sit. No campaign file or published-adventure line states them. `[research]`
+- The Forgotten Realms Wiki gives the Open Lord reserved powers: vetting and choosing new Lords, naming the next Open Lord, and fixing how many Lords sit (Forgotten Realms Wiki, Lords of Waterdeep; City of Splendors: Waterdeep p. 52 and City of Splendors boxed set Campaign Guide p. 68, 2e). No campaign file or published-adventure line states them.
 - The old outline described the Open Lord as designed to be removed if they fail the city. No source says so. The only removal on record is Dagult Neverember, whom the other Lords voted out, and that belongs to **The Open Lord's Fall**.
 - A magister's ruling can be overturned by any Masked Lord, though the published adventure notes that one is rarely present when a petitioner needs it.
 
 ### The Institutions
 
 - The published adventure says Ahghairon was instrumental in founding the black-robed magisters, the Griffon Cavalry and the guilds. The wiki dates the Griffon Cavalry to the siege of 1235 DR, when he flew food into the city on griffons, and the guilds to 1248 DR, when he ordered them as a defense against growing crime.
-- The wiki says the city's ward system began in 1035 DR with four wards: Castle, Trades, Dock and the Southern Ward, which it calls the Temple Ward. `[research]`
-- The wiki says Ahghairon restructured Raurlor's army and navy into the City Watch and the City Guard. The published adventure keeps both services and credits him with neither. `[research]`
+- The wiki says the city's ward system began in 1035 DR with four wards: Castle, Trades, Dock and the Southern Ward, which it calls the Temple Ward (Forgotten Realms Wiki, History of Waterdeep; City of Splendors boxed set Campaign Guide p. 30, 2e).
+- The wiki says Ahghairon restructured Raurlor's army and navy into the City Watch and the City Guard. The published adventure keeps both services and credits him with neither. The wiki's City Watch page never mentions Ahghairon, so the claim rests on History of Waterdeep alone (City of Splendors boxed set Campaign Guide p. 30, 2e).
+- The wiki also says Ahghairon banned slavery. Owners and traffickers had to free their slaves and stop the trade or be exiled, and all stopped, though some noble families, House Rosznar among them, kept the practice in secret (Forgotten Realms Wiki, History of Waterdeep; City of Splendors boxed set Who's Who in Waterdeep and Waterdeep: Dragon Heist p. 196). This is the root of the Rosznar secret in the published adventure. `[research: wiki only]`
 - Waterdeep's law is a body of custom and precedent whose main text is the Code Legal. Copies are kept at the Palace, and magisters have broad discretion in sentencing. No source says who wrote it or when. `[research]`
 - The old outline called the dragonward, the Code Legal and the City Watch protections built by someone who had seen what tyranny does. The only supported link is that Raurlor planned an empire and Ahghairon stopped him. The rest is campaign framing. `[research]`
 
@@ -76,7 +78,7 @@
 - The system failed once, after his death. The wiki records the Guildwars of 1256 DR to 1262 DR and the Lords Magister who followed, until Baeron and Shilarn restored the Lords in 1273 DR.
 - The campaign's closing idea for this era is that Ahghairon built Waterdeep to survive bad rulers, and the Grand Game is the test of whether he was right. `[research]`
 
-> *I have laid violets beneath Ahghairon's tower on his day, among a great many commoners who all kept a careful distance from the cage. I kept the same distance. The bones of the last fellow who tried it hang beyond the barrier still, and a single look at them settled my choice.*
+> *Dear reader, should you lay violets beneath Ahghairon's tower on his day, as I have, do it among the commoners and keep a long stride between yourself and the cage. Every one of them did, and so did I (a gentleman of letters ought to set an example, and mine was to stand at the back). The bones of the last fellow who tried it hang beyond the barrier still, and I looked at them rather longer than I intended before I made up my mind.*
 > *~Volo*
 
 ## Overview
@@ -90,7 +92,7 @@ Ahghairon was the wizard who founded Waterdeep's government and served as its fi
 > - Manshoon's cell holds Masked Lords Jelenn Urmbrusk and Corylus Thann through blackmail. House Gralhund joined the Zhentarim in order to learn the identities and weaknesses of the Masked Lords, and Yalah Gralhund wants a seat for herself. See **Manshoon**, **Jelenn Urmbrusk** and **Yalah Gralhund**.
 > - The Masked Lords are hidden from each other, but the Open Lord is the one who vets and names them, so the Open Lord can know them all. That is how Laeral can say in **Lioncrown** that she knows them. The reserved powers are wiki-only, so this reading is a campaign ruling. `[research]`
 > - Mirt is the least careful of the Masked Lords about hiding who he is, and he wears the Lord's ensemble only to official meetings with the others.
-> - The dragonward is a tradable object. The dragonstaff of Ahghairon passed from the archmage Maaril to Aurinax before the Spellplague, and Jarlaxle wants it as leverage over Waterdeep. See **Aurinax** and **Jarlaxle Baenre**.
+> - The dragonstaff is the tradable object, and the dragonward is not. The dragonstaff of Ahghairon passed from the archmage Maaril to Aurinax before the Spellplague, and Jarlaxle wants it as leverage over Waterdeep. See **Aurinax** and **Jarlaxle Baenre**.
 > - Ahghairon's tomb is the dragonward's source, and the Griffon statue rose in 1479 DR to defend the tower against intrusion.
 > - Halaster's Hold was sealed by Ahghairon in 1007 DR, according to the wiki, and Laeral calls Halaster the oldest danger under the city. Undermountain is outside the dragonward.
 
@@ -103,12 +105,12 @@ Ahghairon was the wizard who founded Waterdeep's government and served as its fi
 - `campaign/setting/history.md`, the Era 1 block (lines 15-20): the founder, Open Lord and Masked Lords, protections and closing idea.
 - `sources/adventure-wdh.json` lines 30470-30480: Raurlor in 1032 DR, the flaming throne, the council hidden from each other, the magisters, Griffon Cavalry and guilds, the two centuries, the tower and force cage, Ahghairon's Day. Lines 30472-30475: earlier settlements. Lines 494-496: the dragonward and the dragonstaff. Lines 30514-30516: the Code Legal and the magisters. Lines 31008-31010: the Palace and the throne. Lines 31190-31193: the Griffon statue. Lines 31447-31452: Founders' Day. Lines 31475-31479 and 6101: Ahghairon's Day and his statue. Lines 31745-31747: the dragonstaff's history. Lines 31886 and 452: the Commander of the Watch and Neverember voted out. Lines 30306-30313 and 32445: the Masked Lords' names and the Gralhunds' interest.
 - Forgotten Realms Wiki, Ahghairon (City of Splendors boxed set, 2e; Dragons of Faerun, 3e): birth, 1007 DR and 1256 DR dates.
-- Forgotten Realms Wiki, History of Waterdeep (City of Splendors boxed set, 2e; Dragons of Faerun, 3e): wards in 1035 DR, the dragonward in 1071 DR, the Watch and Guard, the siege of 1235 DR, guilds in 1248 DR, the Guildwars and the restoration of 1273 DR.
+- Forgotten Realms Wiki, History of Waterdeep (City of Splendors boxed set, 2e; Dragons of Faerun, 3e): the Trollwars, wards in 1035 DR, the slavery ban, the dragonward in 1071 DR, the Watch and Guard, the siege of 1235 DR, guilds in 1248 DR, the Guildwars and the restoration of 1273 DR.
 - Forgotten Realms Wiki, Lords of Waterdeep (City of Splendors boxed set, 2e; City of Splendors: Waterdeep, 3e): the Open Lord's reserved powers, the Lords known to each other, the Lord's ensemble.
 - `campaign/setting/waterdeep-lore.md` lines 14, 26-28 and 50: the dragonward wording and the Code Legal. `campaign/gazetteer/waterdeep/castle-ward.md`: the Palace, the throne and the dragonward ruling.
 - `campaign/setting/notable-figures/` (Manshoon, Jelenn Urmbrusk, Yalah Gralhund, Mirt, Aurinax, Jarlaxle Baenre): the GM Notes.
 - `campaign/quests/faction-events/lords-alliance/r50-lioncrown/ev-01-lioncrown.md` lines 247-253: Laeral on the Masked Lords and Halaster.
-- Not read: the Wiki's City Watch (Waterdeep) page was not opened in this pass. The Watch claim rests on History of Waterdeep.
+- Forgotten Realms Wiki, City Watch (Waterdeep) (edition cited: City of Splendors boxed set, 2e): read for the Watch claim. It never mentions Ahghairon, so the claim rests on History of Waterdeep.
 
 ## Cross-References
 
@@ -137,14 +139,14 @@ Ahghairon was the wizard who founded Waterdeep's government and served as its fi
 > - **Research:** The Span end year, 1256 DR, and the dates inside the era come from the wiki alone. The 460-year gap to the campaign is arithmetic.
 > - **Research:** Other Names. "The Lords' Rule Begins" is an in-world book title that the adventure cites, and nothing says it names the era.
 > - **Research:** The closing idea ("built to survive bad rulers, and the campaign is the test") is campaign framing with no source. So is the old claim that the dragonward, the Code Legal and the City Watch were protections built against tyranny. The Open Lord "designed to be removed if they fail the city" has been dropped, since only the Neverember vote supports any removal.
-> - **Research:** The Open Lord's reserved powers, the 1035 DR wards, the Watch and Guard origin, and the Code Legal's author and date are wiki-only or unstated.
+> - **Research:** The Open Lord's reserved powers, the 1035 DR wards, the Watch and Guard origin and the Trollwars dates are wiki-only, and each is now cited in the body. The Code Legal's author and date are in neither the wiki extracts nor any campaign file, so that tag stays.
 > - **Research:** Volo's aside (optional). It is a first-person anecdote of this page alone. It has no secret in it, and it assumes Volo attended Ahghairon's Day, which no source states. Keep it or cut it at the prose pass.
 > - **Conflicts:** Dragonward. `waterdeep-lore.md` line 50 says it bars dragons without the Open Lord's permission, and `castle-ward.md` lines 188 and 260 rule that this wording stands. `adventure-wdh.json` lines 494-496 say dragons are physically unable to enter at all, with an exception for a dragon touched by the dragonstaff. This page follows the campaign wording and shows the staff as the known exception. Dragondown (`adventure-wdh.json` lines 31441-31442) commemorates dragons the city fought in later centuries, which sits oddly with a ward set in 1071 DR.
 > - **Conflicts:** The Masked Lords' secrecy. `adventure-wdh.json` line 30477 hides them from each other. The wiki's Lords of Waterdeep page says they were known to each other (City of Splendors boxed set, 2e). The published adventure wins. Laeral says "I know them" in `r50-lioncrown/ev-01-lioncrown.md` lines 247-249, and the Warduke contact does not know the Lord in `r25-warduke/ev-01.md` line 227. The GM Notes reconcile the first by the Open Lord's reserved powers, which is a ruling for the user to confirm. The wiki also says most of the Lords were exposed and murdered after Ahghairon's death.
 > - **Conflicts:** The magisters. `adventure-wdh.json` line 30478 credits Ahghairon. The wiki says the Black Robes were instated in 1273 DR (History of Waterdeep, City of Splendors boxed set, 2e). The published adventure wins.
 > - **Conflicts:** The Watch and the Guard. The wiki says Ahghairon built both out of Raurlor's forces (City of Splendors boxed set, 2e), and its 4e material says the Guard was folded into the Watch by 1479 DR. The published adventure and `castle-ward.md` keep them separate.
 > - **Conflicts:** "True founder." `history.md` line 16 against `adventure-wdh.json` lines 30472-30475, which describe earlier settlements. The wiki says the town became a true city in 1032 DR. The page keeps the campaign's phrase with the qualifier.
-> - **Conflicts:** The wiki disagrees with itself on the gap in the Lords' rule. Lords of Waterdeep says six years, and History of Waterdeep runs from 1256 DR to 1273 DR. The page gives dates and no length.
+> - **Conflicts:** The gap in the Lords' rule. The six years in the wiki are the Guildwars of 1256 DR to 1262 DR, not the whole gap (History of Waterdeep; City of Splendors boxed set Campaign Guide pp. 27-28, 2e). The Lords of Waterdeep page gives no such figure and says only that the Lords regained governance in 1273 DR. The gap from Ahghairon's death in 1256 DR to the restoration in 1273 DR is 17 years. The page gives dates and no length.
 > - **Conflicts:** `waterdeep-lore.md` line 14 puts the Watch headquarters and the Masked Lords' seat in the Castle Ward. `adventure-wdh.json` names neither, and line 31008 says Castle Waterdeep is not where the city is governed. `castle-ward.md` line 170 already marks the headquarters as unsourced.
 > - **Routed facts:** Ahghairon's Day (Eleasis 1) and Founders' Day (Flamerule 1) go to **Timekeeping and the Festival Calendar**. The Ahghairon's Day ritual list is on this page for now.
 > - **Routed facts:** The Code Legal, the magisters and the Asmodean temple offense (capital) go to the governance pages. `waterdeep-lore.md` line 28, "1,200 guards across three shifts," is unsourced and goes to the City Watch page.

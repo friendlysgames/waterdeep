@@ -11,7 +11,7 @@
 
 **Resonance.** Ryvarra should inspire the particular unease of someone who has been cataloguing the party since before they knew they were interesting; quiet admiration for operational patience executed over months without slipping; and retroactive dread once the party understands that every move they made in the Yawning Portal was already filed and addressed to Jarlaxle.
 
-**Emotions.** Ryvarra most often feels analytical detachment, the practiced stillness of someone trained to read a room without being read, professional loyalty to Jarlaxle, private curiosity about the party (they are more interesting than most of what she observes), and a controlled impatience she has not let surface in three months of watching the well.
+**Emotions.** Ryvarra most often feels analytical detachment, the practiced stillness of someone trained to read a room without being read, professional loyalty to Jarlaxle, private curiosity about the party (they are more interesting than most of what she observes), and a controlled impatience she has not let surface in two weeks of watching the well.
 
 **Motivations.** Ryvarra wants to file accurate weekly reports to Jarlaxle on Undermountain traffic, maintain her cover as a Calimshan cloth merchant for as long as operationally viable, and avoid any action that would compromise Bregan D'Aerthe's Waterdeep network.
 

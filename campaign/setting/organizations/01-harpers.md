@@ -14,7 +14,7 @@
 
 The Harpers are a loose confederation of bards, spies, sages, and do-gooders who have worked for centuries to preserve freedom and prevent any single entity from seizing dominion over Faerûn. They oppose tyranny, protect the vulnerable, and hoard information the way other organizations hoard gold. Their symbol — a silver harp cradled within a crescent moon — is known across the continent, though most Harper operatives are careful never to display it openly.
 
-In Waterdeep, the Harpers maintain strong ties to the city's intellectual and artistic communities. Their primary concern in the current moment is the split in the Black Network and the ruthless half they call the Splinter, which seems to act on Harper information. They are also quietly alert to the Stone of Golorr — they believe it contains intelligence of strategic importance and want it in their hands.
+In Waterdeep, the Harpers maintain strong ties to the city's intellectual and artistic communities. Their primary concern in the current moment is the rivalry inside the Black Network and the ruthless newcomers they call the Splinter, which seems to act on Harper information. They are also quietly alert to the Stone of Golorr — they believe it contains intelligence of strategic importance and want it in their hands.
 
 **The Waterdeep cell is compromised.** Agents of the Splinter have infiltrated the Harpers' local network. Information shared with Harper contacts has a meaningful chance of reaching them. The Harpers do not know who leads the Splinter or where it is based.
 
@@ -28,7 +28,7 @@ In Waterdeep, the Harpers maintain strong ties to the city's intellectual and ar
 - **Remallia "Remi" Haventree** — Sun elf noblewoman; de facto Harper leader in Waterdeep, manages intelligence from House Ulbrinter. See the **Remallia "Remi" Haventree** page in Notable Figures.
 - **Mattrim "Threestrings" Mereg** — Human Harper spy embedded at the Yawning Portal under cover as a mediocre bard; the only person in Waterdeep who knows Bonnie's true nature. See the **Mattrim "Threestrings" Mereg** page in Notable Figures.
 - **Bonnie** — Doppelganger; leader of a five-doppelganger operation at the Yawning Portal; potential Harper operative after Mission 3. See the **Bonnie** page in Notable Figures.
-- **Corene Wyldath** — Halfling Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation; compromised by an intellect devourer three weeks before Mission 5 (four months under cover as Halla Ironstave). See the **Corene Wyldath** page in Notable Figures.
+- **Corene Wyldath** — Halfling Harper deep-cover agent embedded in the Dock Ward operation of Xanathar's Guild; compromised by an intellect devourer three weeks before Mission 5 (four months under cover as Halla Ironstave). See the **Corene Wyldath** page in Notable Figures.
 - **Variel Duskwhisper** — Wood elf bard; Harper courier operating under touring musician cover; passes one piece of network intelligence per tenday. See the **Variel Duskwhisper** page in Notable Figures.
 - **Corvin & Nessa Vayle** — Human twins; Corvin runs a minor Harper waypoint through a courier role; Nessa knows not to ask. See the **Corvin & Nessa Vayle** page in Notable Figures.
 - **Maxeene** — Draft horse with a permanent enchantment that lets her understand and speak Common; Harper intelligence asset who has overheard more at Waterdeep's hitching posts than most spies accumulate in a year. See the **Maxeene** page in Notable Figures.

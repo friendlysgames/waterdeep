@@ -36,7 +36,7 @@
 
 ## Dangers & Enemies
 
-**Day state:** Gralhund house guards (veterans), Hurv Taldred (cult fanatic) + 2 mastiffs in the yard, Hrabbaz (orog) at the master bedroom door, the household nimblewright (if the Alarm triggers or Yalah activates it). Optional homebrew escalation (animated armor, spell glyphs, proto-beholder) available if the DM needs additional challenge — see ev-03.
+**Day state:** Gralhund house guards (veterans), Hurv Taldred (cult fanatic) + 2 mastiffs in the yard, Hrabbaz (orog) at the master bedroom door, the household nimblewright (if the Alarm triggers or Yalah activates it). Optional homebrew escalation (animated armor, spell glyphs, proto-beholder) available if the GM needs additional challenge — see ev-03.
 
 **Night state:** Urstul Floxin (50 hp, no poison, CR 3) in the guest suite corridor; Hurv Taldred as shadow + 2 mastiff-shadows in the yard; 1–2 surviving Zhent thugs in the great hall and upstairs foyer; Hrabbaz; Yalah; the household nimblewright. Jarlaxle's gunslingers fire through the upstairs foyer windows if *Jarlaxle Informed* is set.
 

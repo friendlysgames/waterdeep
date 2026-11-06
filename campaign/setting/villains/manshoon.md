@@ -1,14 +1,14 @@
 # Manshoon (Zhentarim Splinter Cell)
 
-> Structuring draft. Content migrated from ch2-city-of-splendors.md.
+> Structuring draft.
 
 ---
 
 ### Manshoon (Zhentarim Splinter Cell)
 
-**Purpose:** Distinguishes Manshoon clearly from the Doom Raiders and gives the DM the tools to play the campaign's most intellectually dangerous villain — the one who is always further ahead than anyone believes.
+**Purpose:** Distinguishes Manshoon clearly from the Doom Raiders and gives the GM the tools to play the campaign's most intellectually dangerous villain — the one who is always further ahead than anyone believes.
 
-> **The Two Zhentarims — DM Note:** Manshoon's splinter cell and Davil Starsong's Doom Raiders are entirely separate organizations. They share a name and a history and nothing else. Never conflate them in NPC dialogue. See also: GM Guide Session Zero; the **Organizations** pages.
+> **The Two Zhentarims — GM Note:** Manshoon's splinter cell and Davil Starsong's Doom Raiders are entirely separate organizations. They share a name and a history and nothing else. Never conflate them in NPC dialogue. See also: GM Guide Session Zero; the **Organizations** pages.
 
 **Personality Phases**
 
@@ -29,7 +29,7 @@
 | NPC | Role | Nature of relationship |
 |-----|------|----------------------|
 | Urstul Floxin | Field lieutenant | Most effective operative; trusted with the Stone recovery at Gralhund Villa; his failure there is the first crack |
-| The Doom Raiders | Rival cell | Professional contempt; would absorb them if it were efficient; hasn't needed to yet |
+| The Doom Raiders | Rival cell | The clone peeled off their network and regards them as deserters; the two cells are at active war |
 | Xanathar | Rival | Useful; the Guild's visibility keeps the Watch occupied; when the beholder becomes a direct obstacle, Manshoon has a plan |
 | Jarlaxle | Mutual wariness | The only Grand Game player Manshoon takes seriously; non-interference arrangement, fragile; Jarlaxle has better intelligence and both know it |
 | The Cassalanters | Missed opportunity | Their infernal connections could have been leveraged; Manshoon chose independence over shared control |
@@ -47,7 +47,7 @@
 
 ## Source References
 
-- `ch2-city-of-splendors.md` Section 2: "Manshoon (Zhentarim Splinter Cell)"
+- The retired Chapter 2 outline, Section 2: "Manshoon (Zhentarim Splinter Cell)"
 - `adventure-wdh.json` Ch.8: Kolat Towers encounter area
 - `1. The Villains.pdf`: Alexandrian villain analysis — primary reference
 - `12. Lair Zhentarim Kolat Towers.pdf`: full lair reference

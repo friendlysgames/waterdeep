@@ -8,7 +8,7 @@
 >
 > - **Heartbreaker** and **Hellraiser**: docked galleons at the private pier, painted crimson and gold, flying Faire pennants. Boarding ramps open during daylight hours (6th bell of the morning to 10th bell of the evening).
 > - **Eyecatcher**: anchored a quarter-mile out in Deepwater Harbor. Not accessible by boarding ramp — requires skiff, swim, or direct invitation.
-> - **Scarlet Marpenoth**: Lantanese submersible, keel-docked beneath the Eyecatcher via a pressurized collar. Not visible from the surface except at night with a DC 18 Perception check from the water's edge.
+> - **Scarlet Marpenoth**: Lantanese submersible, keel-docked beneath the Eyecatcher via a pressurized collar. Not visible from the surface except at night with a DC 18 Perception check from the water's edge. It has been moored in the harbor since Jarlaxle reached Waterdeep in Marpenoth 1491 and keel-docks beneath the Eyecatcher when the fleet arrives on Ches 21. Jarlaxle keeps Eye #3 in his stateroom (U4).
 >
 > Carnival stalls and bright canvas awnings fill the pier between the docked ships. Performer accommodations and carnival supplies are distributed across the fleet's holds.
 >

@@ -8,7 +8,7 @@
 [ev-02] The Guild Gauntlet          ←── Emmek Stage 1 begins (−2 DC penalty)
          ↓
 [ev-03] The Neighbors               ←── Ryvarra spotted (BD surveillance thread)
-         ↓                               DM observation task begins
+         ↓                               GM observation task begins
 [ev-04] The Factions Come Calling  ←── Faction invitations arrive (parallel to ev-02–03)
          │  ↑                           Renovation financing secured
          │  └── MILESTONE: 1 Point
@@ -65,7 +65,7 @@ ev-07: Procession observation
 
 **Fireball Victim Selection:**
 ```
-DM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
+GM observation runs: ev-01 → ev-02 → ev-03 → ev-04 → ev-05 → ev-06
   └── ev-07: "Fireball Victim Designated: [NPC]" must be recorded before arc ends
 ```
 

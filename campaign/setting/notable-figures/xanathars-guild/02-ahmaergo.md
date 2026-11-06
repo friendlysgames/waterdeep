@@ -27,4 +27,4 @@
 
 ## Overview
 
-Ahmaergo is the Xanathar Guild's outward face for administrative matters — a civil shield dwarf who manages procurement, discipline, and operations with methodical competence. He is as polite as he is dangerous.
+Ahmaergo is the outward face of Xanathar's Guild for administrative matters — a civil shield dwarf who manages procurement, discipline, and operations with methodical competence. He is as polite as he is dangerous.

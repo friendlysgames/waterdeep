@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Tobrin does not fight. He disappears into the crowd and reports at the first opportunity. Once discovered, he negotiates: what he knows about the Guild's operations in this building is worth more to the party than his Guild debt, and he understands the math.
 
-**Relationships.** Tobrin is a Xanathar Guild operative embedded as the tavern's bartender, one of the Guild's two Trollskull infiltrators alongside Grevik Nass, and the trigger for the Guild's escalating response conditions (detailed in the **Trollskull Manor** guide); when the party crosses a threshold, Tobrin makes the call.
+**Relationships.** Tobrin is an operative of Xanathar's Guild embedded as the tavern's bartender, one of the Guild's two Trollskull infiltrators alongside Grevik Nass, and the trigger for the Guild's escalating response conditions (detailed in the **Trollskull Manor** guide); when the party crosses a threshold, Tobrin makes the call.
 
 ## Overview
 

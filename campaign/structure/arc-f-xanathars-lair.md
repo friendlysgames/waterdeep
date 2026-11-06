@@ -6,15 +6,15 @@
 
 ## Quest Opener
 
-Three months before the Trollskull fireball, Manshoon dispatched two Zhentarim lieutenants to Skullport carrying a gift: Eye #1 of the Stone of Golorr, recovered from a drow courier killed on the Trade Way. The Eye was offered as a peace overture — proof that Manshoon's splinter faction could be a valuable partner in the Grand Game. Xanathar received the envoys in his throne room, listened to their proposal, and ate them. The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting.
+Three months before the Trollskull fireball, Manshoon dispatched two Zhentarim lieutenants to Skullport carrying a gift: Eye #1 of the Stone of Golorr, stolen from the Protector's Enclave in Neverwinter. The Eye was offered as a peace overture — proof that Manshoon's splinter faction could be a valuable partner in the Grand Game. Xanathar received the envoys in its throne room, listened to their proposal, and ate them. It kept the Eye and has never learned what it is. The Eye passed to Ott Steeltoes, who placed it in Sylgar's fishbowl because it had a pretty color and Xanathar liked Sylgar's bowl to look interesting.
 
-The lair beneath Skullport has been sealed for weeks. Since the fireball disrupted the Street of Silver trade routes, Xanathar has withdrawn into paranoia — convinced that one of the other Grand Game factions has mapped the lair's entrances. Ahmaergo runs external operations while Xanathar broods in the Sanctum, running his eye rays across the empty room and interrogating Guild members whose faces he does not immediately recognize. The gladiatorial games continue because the arena revenue continues, and because stopping them would signal weakness. But Xanathar does not attend from his throne as he once did. He watches from invisibility, alone.
+The lair beneath Skullport has been sealed for weeks. Since the fireball disrupted the Street of Silver trade routes, Xanathar has withdrawn into paranoia — convinced that one of the other Grand Game factions has mapped the lair's entrances. Ahmaergo runs external operations while Xanathar broods in the Sanctum, running its eye rays across the empty room and interrogating Guild members whose faces it does not immediately recognize. The gladiatorial games continue because the arena revenue continues, and because stopping them would signal weakness. But Xanathar does not attend from its throne as it once did. It watches from invisibility, alone.
 
-Nihiloor has used this paranoia as cover. The illithid's three unauthorized projects — running in parallel for years — are now approaching critical phases. The Infiltration: intellect devourers inserted into four positions in Waterdeep's Watch and civic administration, with two additional placements pending. The Experiments: twelve captives from the gladiatorial arena modified into psionic relay organisms, intended to form the backbone of a city-wide intelligence network that would answer only to Nihiloor. The Puppet: four months ago, Nihiloor successfully applied Dominate Monster to Xanathar through a sustained psionic relay device in X26. The Xanathar who has been running the Guild since then — the Xanathar who killed Manshoon's envoys, who sent response teams against the party's allies in **Faction Outposts**, who holds the Eye in a fishbowl because he trusts Ott's aesthetic judgment — has been Nihiloor's instrument. The beholder does not know this. The domination does not feel like domination; it feels like his own decisions.
+Nihiloor has used this paranoia as cover. The illithid's three unauthorized projects — running in parallel for years — are now approaching critical phases. The Infiltration: intellect devourers inserted into four positions in Waterdeep's Watch and civic administration, with two additional placements pending. The Experiments: twelve captives from the gladiatorial arena modified into psionic relay organisms, intended to form the backbone of a city-wide intelligence network that would answer only to Nihiloor. The Puppet: four months ago, Nihiloor successfully applied Dominate Monster to Xanathar through a sustained psionic relay device in X26. The Xanathar who has been running the Guild since then — the Xanathar who killed Manshoon's envoys, who sent response teams against the party's allies in **Faction Outposts**, who holds the Eye in a fishbowl because it trusts Ott's aesthetic judgment — has been Nihiloor's instrument. The beholder does not know this. The domination does not feel like domination; it feels like its own decisions.
 
-The panopticus surveillance network — five ghostly beholder eyestalks wired through enchanted crystal to a monitoring station at X16 — was Nihiloor's gift to Xanathar three years ago. The beholder believes the network serves his paranoia. Nihiloor built a structural back door into the control array from the beginning.
+The panopticus surveillance network — five ghostly beholder eyestalks wired through enchanted crystal to a monitoring station at X16 — was Nihiloor's gift to Xanathar three years ago. The beholder believes the network serves its paranoia. Nihiloor built a structural back door into the control array from the beginning.
 
-Jarlaxle has known about Nar'l Xibrindas's double-agent role for eleven years. Through Nar'l's monthly reports, the Bregan D'aerthe have assembled a precise picture of the lair's layout — including the secret passage at X14 that bypasses the panopticus entirely and opens forty feet from the Sanctum door. Jarlaxle has been waiting for an opportunity to retrieve the Stone and its Eye. He has been in no hurry. He has always been certain the opportunity would come.
+Jarlaxle placed Nar'l Xibrindas in the Guild in 1491 and has relied on him as a double agent for the year since. Through Nar'l's monthly reports, the Bregan D'aerthe have assembled a precise picture of the lair's layout — including the secret passage at X14 that bypasses the panopticus entirely and opens forty feet from the Sanctum door. Jarlaxle has been waiting for an opportunity to retrieve the Stone and its Eye. He has been in no hurry. He has always been certain the opportunity would come.
 
 ---
 
@@ -72,7 +72,7 @@ Suborning: reaching X16 and altering two specific runes in the control array tak
 
 Without suborning the panopticus, the party must reroute entirely around monitored areas. X18 and X19 both have sensors; reaching the Sanctum through the main corridors without suborning or bypassing X18 means moving through active scrying coverage.
 
-*Xanathar's Location.* Xanathar is in X19 (the Sanctum) with Sylgar. He has barely left for weeks. The Eye is there. So is he.
+*Xanathar's Location.* Xanathar is in X19 (the Sanctum) with Sylgar. It has barely left for weeks. The Eye is there. So is Xanathar.
 
 This means the party cannot simply walk into X19 and take the Eye — not unless they create a window. The dream nullifier in X20 exists for this purpose: destroying it sends Xanathar into the corridor to find Ahmaergo, giving the party approximately 4 minutes. A party that found X20 through reconnaissance or Thorvin's guidance has a clean extraction opportunity. A party that didn't must extract the Eye while a paranoid beholder is in the room.
 
@@ -92,11 +92,11 @@ This means the party cannot simply walk into X19 and take the Eye — not unless
 
 Thorvin provides: a hand-drawn schematic of every mechanical trap in the service corridors; the location of the smokepowder kegs Nar'l cached in X36; identification of five structural weak points that, hit simultaneously, collapse the lair's central chambers within one hour; and the guard schedule for X18 and X19 during non-tournament periods.
 
-If the gazer is destroyed (13 HP, AC 13), Thorvin speaks openly for the first time. His relief is immediate and genuine. He confirms what the party may have begun to suspect: Nihiloor's domain (X23–X27) contains evidence that would change everything the party thinks they know about who has been running the Xanathar Guild.
+If the gazer is destroyed (13 HP, AC 13), Thorvin speaks openly for the first time. His relief is immediate and genuine. He confirms what the party may have begun to suspect: Nihiloor's domain (X23–X27) contains evidence that would change everything the party thinks they know about who has been running Xanathar's Guild.
 
 Thorvin will not evacuate himself. He has a family in the Trades Ward, and he intends to survive this. He will delay alarm responses to mechanical failures by "taking unusually long to diagnose the problem." A DC 12 Dexterity (Thieves' Tools) check creates a failure he can credibly explain.
 
-*Inside Ally: Nar'l Xibrindas (X35).* The only drow in the lair, which Xanathar considers proof of his own cosmopolitan generosity. Nar'l's grell bodyguard carries a kill-on-disloyalty order from Xanathar, an instruction the grell will carry out without hesitation. Nar'l cannot dismiss it. He can only avoid triggering it.
+*Inside Ally: Nar'l Xibrindas (X35).* The only drow in the lair, which Xanathar considers proof of its own cosmopolitan generosity. Nar'l's grell bodyguard carries a kill-on-disloyalty order from Xanathar, an instruction the grell will carry out without hesitation. Nar'l cannot dismiss it. He can only avoid triggering it.
 
 Without BD allegiance revealed: Nar'l is coolly professional. He offers mild operational assistance framed as Guild hospitality, pointing the party toward X28 as a rest point, confirming which guards accept bribes and at what rate. He reveals nothing about himself.
 
@@ -108,12 +108,12 @@ If a party member is BD: Nar'l recognizes them as colleagues and cooperates full
 
 Execution requires: one keg per target junction (a Bag of Holding carries one; the party needs to coordinate transport of five), clockwork detonators assembled from Thorvin's components (DC 15 Dexterity, 20 minutes, Thorvin's tools required), and a single pull-cord mechanism triggerable from up to 100 feet away.
 
-Consequences: Xanathar is destroyed if present in the lair, or escapes through the Undermountain connection at X4 if the DM wants to preserve the thread. The Guild collapses into factional fighting between Ahmaergo and surviving lieutenants. Nar'l and Thorvin must be evacuated or they die. Thorvin will not leave the lair's surviving workers; Nar'l will leave without hesitation. Nihiloor was not in his domain at the time and escapes to Undermountain Level 17 with his three projects intact.
+Consequences: Xanathar is destroyed if present in the lair, or escapes through the Undermountain connection at X4 if the GM wants to preserve the thread. The Guild collapses into factional fighting between Ahmaergo and surviving lieutenants. Nar'l and Thorvin must be evacuated or they die. Thorvin will not leave the lair's surviving workers; Nar'l will leave without hesitation. Nihiloor was not in his domain at the time and escapes to Undermountain Level 17 with his three projects intact.
 
 Permanent consequences: the Guild is gone as an intelligence resource. The **Vault of Dragons** approach loses access to Guild knowledge and contacts. The Undermountain connection from X4 is sealed. The party trades a dangerous faction they can understand for an unconstrained Nihiloor operating below the city with no leash.
-*The Dream Nullifier (X20).* A copper bowl the size of a serving dish, mounted in a maintenance alcove between X19 and X21. A Passive Perception score of 15 or higher notices it while passing through the corridor. A DC 13 Intelligence (Arcana) check identifies its function: it prevents Xanathar from dreaming of other beholders, waking him before the dream takes hold.
+*The Dream Nullifier (X20).* A copper bowl the size of a serving dish, mounted in a maintenance alcove between X19 and X21. A Passive Perception score of 15 or higher notices it while passing through the corridor. A DC 13 Intelligence (Arcana) check identifies its function: it prevents Xanathar from dreaming of other beholders, waking it before the dream takes hold.
 
-Destroying it (antimagic field or dispel magic against DC 15) triggers behavioral change within 3 minutes: intrusive dream-images of other beholders crowd Xanathar's perception. He leaves X19 to find Ahmaergo, demanding explanation, seeking confirmation that the lair is still secure. He moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
+Destroying it (antimagic field or dispel magic against DC 15) triggers behavioral change within 3 minutes: intrusive dream-images of other beholders crowd Xanathar's perception. It leaves X19 to find Ahmaergo, demanding explanation, seeking confirmation that the lair is still secure. It moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
 
 *Variable Difficulty: Escalation Tier.*
 
@@ -158,9 +158,9 @@ Destroying it (antimagic field or dispel magic against DC 15) triggers behaviora
 
 Xanathar is here. The party must extract the Eye with a paranoid beholder in the room — unless they have already used X20.
 
-Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. Xanathar snaps to attention: "What happened to Sylgar? What did you do to Sylgar?" If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. He begins with eye rays.
+Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12 Dexterity (Sleight of Hand) to remove a stone from the bottom without startling the fish. On a failure, Sylgar thrashes; the water splashes audibly. Xanathar snaps to attention: "What happened to Sylgar? What did you do to Sylgar?" If the fish is harmed — even accidentally — Xanathar becomes Hostile regardless of any prior rapport and does not negotiate. It begins with eye rays.
 
-**X20 — Dream Nullifier.** A copper bowl in a maintenance alcove between X19 and X21. Passive Perception 15 to notice while passing. Destroying it: antimagic field or dispel magic (DC 15). Effect: within 3 minutes, Xanathar experiences intrusive beholder-images and leaves X19 in agitation to find Ahmaergo — demanding explanation, seeking confirmation the lair is secure. He moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
+**X20 — Dream Nullifier.** A copper bowl in a maintenance alcove between X19 and X21. Passive Perception 15 to notice while passing. Destroying it: antimagic field or dispel magic (DC 15). Effect: within 3 minutes, Xanathar experiences intrusive beholder-images and leaves X19 in agitation to find Ahmaergo — demanding explanation, seeking confirmation the lair is secure. It moves toward X18 or X12. X19 is empty. The party has approximately 4 minutes.
 
 **X28 — Guild Recreation Hall.** No scrying sensor. Card games, arm wrestling, complaints about Xanathar. Off-duty Guild members here will not scrutinize strangers with a plausible story. The party can rest up to 1 hour, plan next steps, or wait out a patrol sweep.
 
@@ -175,11 +175,11 @@ Extraction without disturbing Sylgar: the sphere has a narrow top opening. DC 12
 - **X23 — Competitive Intelligence Files.** Nihiloor's research on all four villain factions, assembled as preparation for an eventual play for true control. The Manshoon section is the most detailed: intercepted Zhentarim communications, field reports on Kolat Towers' external security, a partial lieutenant roster, and a ground-level map of Kolat Towers. This is one of three clue paths to **Kolat Towers**.
 - **X24 — The Infiltration.** Placement records for four intellect devourers inserted into Watch and civic administration positions, with two additional placements pending. Each record: host name, position, insertion date, behavioral integration notes.
 - **X25 — The Experiments.** Research notes and twelve living specimens at various modification stages. The notes describe a process for creating psionic relay organisms. Reading them fully requires a DC 13 Wisdom saving throw or the reader gains one level of Exhaustion from the psychological impact.
-- **X26 — The Puppet.** A psionic relay device, currently active, maintaining a Dominate Monster effect on a psychic signature that matches Xanathar's. Detailed notes track behavioral corrections applied over four months: which tactical decisions were changed, which Guild members were elevated or removed at Nihiloor's direction, and the long-term strategic repositioning of the Guild toward Nihiloor's actual goals. The beholder who rules the Xanathar Guild does not rule the Xanathar Guild. Every Xanathar decision the party has encountered was Nihiloor's decision.
+- **X26 — The Puppet.** A psionic relay device, currently active, maintaining a Dominate Monster effect on a psychic signature that matches Xanathar's. Detailed notes track behavioral corrections applied over four months: which tactical decisions were changed, which Guild members were elevated or removed at Nihiloor's direction, and the long-term strategic repositioning of the Guild toward Nihiloor's actual goals. The beholder who rules Xanathar's Guild does not rule Xanathar's Guild. Every Xanathar decision the party has encountered was Nihiloor's decision.
 
 *Adversary Roster — Standard Configuration.*
 
-Xanathar's location is pre-set per Scene 2. His combat behavior is governed by the two-phase boss stat block in the **Bestiary** (not yet drafted): Phase 1 is the paranoid tyrant at full power; Phase 2 (below half HP) is the cornered megalomaniac — more dangerous in raw eye ray output, but less tactically focused. The ring of invisibility escape and flight toward X19 are designed into the Phase 2 transition. The party can predict this if they gathered intelligence; the **Xanathar** page in Notable Figures confirms Xanathar runs when genuinely frightened.
+Xanathar's location is pre-set per Scene 2. Its combat behavior is governed by the two-phase boss stat block in the **Bestiary** (not yet drafted): Phase 1 is the paranoid tyrant at full power; Phase 2 (below half HP) is the cornered megalomaniac — more dangerous in raw eye ray output, but less tactically focused. The ring of invisibility escape and flight toward X19 are designed into the Phase 2 transition. The party can predict this if they gathered intelligence; the **Xanathar** page in Notable Figures confirms Xanathar runs when genuinely frightened.
 
 Ahmaergo occupies X12 during non-tournament periods and patrols the X12–X18 corridor during tournaments. He never retreats while Xanathar is alive in the lair; if Xanathar falls, Ahmaergo fights to the death regardless. Nar'l is in X35 unless pre-arranged otherwise, with grell bodyguard. He covertly assists within cover constraints but will not enter open combat for the party. Nihiloor occupies X26 unless drawn by a specific threat, uses Dominate Monster on the most dangerous combatant, retreats toward X4 at half HP. Noska Ur'gray is in X8 during non-tournament periods, in X6 arena-side during games; responds to alarms with rust monster companion. Ott Steeltoes flees at first sign of violence.
 
@@ -213,7 +213,7 @@ Area-assigned: Guild Soldiers in pairs at X2, X4, X18 (doubled at Alert tier); X
 
 This event fires if all three conditions are met: (1) Jarlaxle is active in the Grand Game (conditional on **Fireball!** Sea Maidens Faire investigation), (2) the party has not allied with Jarlaxle or joined Bregan D'aerthe, and (3) the party has not yet recovered Eye #3 in **Sea Maidens Faire**.
 
-Jarlaxle's team — himself, one BD lieutenant, and a response team — uses whichever entry method the party did not. His specific advantage: Nar'l's reports over eleven years gave him knowledge of the secret passage at X14, which bypasses the panopticus entirely and opens forty feet from the Sanctum door.
+Jarlaxle's team — himself, one BD lieutenant, and a response team — uses whichever entry method the party did not. His specific advantage: Nar'l's reports over the past year gave him knowledge of the secret passage at X14, which bypasses the panopticus entirely and opens forty feet from the Sanctum door.
 
 | Party State | Jarlaxle's Action | Result |
 |-------------|------------------|--------|
@@ -227,7 +227,7 @@ The simultaneous heist is a pressure-release valve. If the party's heist collaps
 
 *The Cascade in Progress.*
 
-Once Stage 3 fires, the party has approximately 4 minutes before Ahmaergo's team reaches their reported location. Use this window to complete the extraction and reach an exit, destroy the dream nullifier to create a secondary distraction, coordinate with Jarlaxle's team if encountered, or detonate the smokepowder option (if prepared in Scene 3). The cascade timing is exact and pre-specified; the DM does not need to improvise escalation decisions.
+Once Stage 3 fires, the party has approximately 4 minutes before Ahmaergo's team reaches their reported location. Use this window to complete the extraction and reach an exit, destroy the dream nullifier to create a secondary distraction, coordinate with Jarlaxle's team if encountered, or detonate the smokepowder option (if prepared in Scene 3). The cascade timing is exact and pre-specified; the GM does not need to improvise escalation decisions.
 
 *Escape Routes.*
 
@@ -251,7 +251,7 @@ Once Stage 3 fires, the party has approximately 4 minutes before Ahmaergo's team
 
 *Stone of Golorr Upgrade — Three Scenarios.*
 
-**If this is the first Eye restored (neither **Cassalanter Villa** nor **Sea Maidens Faire** completed).** This is the scene's centerpiece. The DM should pause the action here. The party has been carrying an object. They are about to discover they've been carrying a consciousness.
+**If this is the first Eye restored (neither **Cassalanter Villa** nor **Sea Maidens Faire** completed).** This is the scene's centerpiece. The GM should pause the action here. The party has been carrying an object. They are about to discover they've been carrying a consciousness.
 
 The attuned character hears a voice for the first time. It is not warm. It is old and precise, like water that has been underground for a long time. It does not say hello. It says what it means and stops.
 
@@ -263,12 +263,12 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 **What It Does Not Say.** The vault's location, the command phrase, and the precise position of either remaining Eye (that requires 2 Eyes). The Stone communicates more than it did. It does not communicate everything.
 
-**Mad Mage Seed.** For one moment — brief, involuntary — the attuned character experiences the Stone's communication as something vaster than a Stone. Not just old. Something that once dreamed, much further below, in the dark under the dark. The impression passes in seconds. The Stone says nothing about it. The DM should not explain it. It is a seed, and it belongs to Undermountain.
+**Mad Mage Seed.** For one moment — brief, involuntary — the attuned character experiences the Stone's communication as something vaster than a Stone. Not just old. Something that once dreamed, much further below, in the dark under the dark. The impression passes in seconds. The Stone says nothing about it. The GM should not explain it. It is a seed, and it belongs to Undermountain.
 
 **If this is the second Eye restored (one of **Cassalanter Villa** or **Sea Maidens Faire** completed).** The Stone's voice deepens. It becomes more communicative — almost conversational, still alien and cold. New disclosures:
 
 - "One remains."
-- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If **Cassalanter Villa** was first (already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A bald elf who has been patient for eleven years." If **Sea Maidens Faire** was first (Jarlaxle's Eye already recovered), the final impression is: "A villa in the Sea Ward. A temple beneath it, stone floor engraved with the Cassalanter house mark. The children's laughter has a hollow quality." The Stone identifies each Eye by proximity-sense, not by name.
+- The remaining Eye's location resolves fully. Which impression sharpens depends on which arc the party completed first. If **Cassalanter Villa** was first (already raided), the final impression is: "A ship in the harbor. The Scarlet Marpenoth. A bald elf with a year of patience." If **Sea Maidens Faire** was first (Jarlaxle's Eye already recovered), the final impression is: "A villa in the Sea Ward. A temple beneath it, stone floor engraved with the Cassalanter house mark. The children's laughter has a hollow quality." The Stone identifies each Eye by proximity-sense, not by name.
 - The Vault's existence acknowledged: the Stone confirms it knows where the Vault is and that three Eyes will unlock the full knowledge. It does not reveal the location or command phrase.
 - The Stone's agenda deepens: "I am remembering what I was." The aboleth consciousness bleeds through more strongly — references to deep water, dreaming minds, geological patience. The Mad Mage seed intensifies.
 - What it does NOT reveal: the vault location, the command phrase, and Aurinax's nature. These require all three Eyes.
@@ -277,9 +277,9 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 
 *Faction State Changes.*
 
-**Xanathar Guild:** Set the "Xanathar operational?" flag to one of three states:
+**Xanathar's Guild:** Set the "Xanathar operational?" flag to one of three states:
 
-- *YES — Xanathar alive, Eye taken:* He doesn't know immediately what was stolen. He notices Sylgar's bowl was disturbed within hours. When he identifies what is missing — days of interrogation later — his response will be disproportionate. The party is now personally known to Xanathar. This intensifies **Vault of Dragons**'s difficulty.
+- *YES — Xanathar alive, Eye taken:* It doesn't know immediately what was stolen. It notices Sylgar's bowl was disturbed within hours. When it identifies what is missing — days of interrogation later — its response will be disproportionate. The party is now personally known to Xanathar. This intensifies **Vault of Dragons**'s difficulty.
 - *WOUNDED — Xanathar alive, fought and fled:* As above, plus Ahmaergo takes over lair security. Xanathar is less effective in **Vault of Dragons** but more enraged.
 - *GONE — Lair demolished or Xanathar killed:* Guild collapses into Ahmaergo-led factional fighting. Response teams disbanded. Nihiloor escapes to Undermountain Level 17. The party permanently loses Guild intelligence as a resource. **Vault of Dragons**'s approach routes through former Guild contacts who are now independent actors.
 
@@ -299,7 +299,7 @@ The attuned character hears a voice for the first time. It is not warm. It is ol
 - **Tashlyn or Davil:** "Is Xanathar still operational?" Direct and tactical — the Doom Raiders' expansion into former Guild territory depends on the answer. "And Ahmaergo?"
 - **Jarlaxle (if contacted):** Characteristically oblique. "I hear there was excitement near Skullport last night." If pressed on whether he was there: "I am always where I'm needed." He never confirms. He never denies.
 
-*Founders' Day Clock.* This quest consumes 1–2 tendays total: several days of intelligence briefing and casing (Scenes 1–3), 1–3 days for the operation and escape (Scenes 4–5), and 2–4 days of recovery and debrief (Scene 6). Update the campaign calendar. The DM communicates the advancing deadline through specific environmental details: festival preparations in the Market Ward are accelerating; a Cassalanter document recovered from the lair carries a date; a faction contact mentions the Open Lord's Founders' Day schedule is filling.
+*Founders' Day Clock.* This quest consumes 1–2 tendays total: several days of intelligence briefing and casing (Scenes 1–3), 1–3 days for the operation and escape (Scenes 4–5), and 2–4 days of recovery and debrief (Scene 6). Update the campaign calendar. The GM communicates the advancing deadline through specific environmental details: festival preparations in the Market Ward are accelerating; a Cassalanter document recovered from the lair carries a date; a faction contact mentions the Open Lord's Founders' Day schedule is filling.
 
 *Transition.* The party holds the Stone of Golorr and Eye #1. The Stone can talk. It wants to be whole. Two Eyes remain; the sharpened impressions point toward a Sea Ward villa and a ship in the harbor. **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** are available in any order. The party's next choice is informed by the Stone's impressions, the faction debrief intelligence, and whatever documents they recovered from the lair.
 
@@ -338,7 +338,7 @@ This quest's transition is open. The three remaining lair heists (**Cassalanter 
 - **Faction Outposts** escalation tiers — Party's outpost activity directly determines this quest's adversary roster. See Scene 3 variable difficulty table.
 - **Notable Figures** — Full NPC profiles for Xanathar, Ahmaergo, Nar'l Xibrindas, Nihiloor, Noska Ur'gray, Ott Steeltoes, Thorvin Twinbeard, Keln Trigos, Grinda Garloth, Korgstrod Uxgulm, Gorath.
 - **Bestiary** (not yet drafted) — Custom two-phase boss stat block for Xanathar. Custom stat blocks for Ahmaergo (minotaur veteran), Nar'l (drow mage + grell bodyguard), Nihiloor (mind flayer arcanist).
-- the **Xanathar's Guild** organization page — Xanathar Guild faction overview and NPC roster. **Xanathar's Guild** Factions guide page — outpost entries, response team compositions, escalation framework, Revelation List, Nihiloor's three-project breakdown.
+- the **Xanathar's Guild** organization page — Xanathar's Guild faction overview and NPC roster. **Xanathar's Guild** Factions guide page — outpost entries, response team compositions, escalation framework, Revelation List, Nihiloor's three-project breakdown.
 - **Cassalanter Villa** — Stone 1-Eye impressions (Sea Ward villa, hidden temple) point toward **Cassalanter Villa**. Cassalanter faction state reflects what the party's Cassalanter relationship has been.
 - **Sea Maidens Faire** — Stone 1-Eye impressions (ship in harbor, dark-skinned elf) and Report on Seven Masks Theater (X35) both point toward **Sea Maidens Faire**. Jarlaxle's simultaneous heist outcome shapes **Sea Maidens Faire** stakes directly.
 - **Kolat Towers** — Samara's testimony (X7), Nihiloor's Manshoon intelligence (X23), and a third clue seeded in **Cassalanter Villa** form the Three Clue Rule paths to **Kolat Towers**.
@@ -357,7 +357,7 @@ The panopticus is the mechanism that enforces this distinction. Suborning X16 be
 
 ## The Panopticus as Player-Facing Mechanic
 
-The panopticus has been written as a system the players interact with, not a background feature the DM manages. A common approach in published adventures makes surveillance systems invisible to players and uses them as a DM tool for applying pressure — enemies appear from unexpected directions, reinforcements arrive faster than expected. This creates frustration rather than tension. Players feel the consequences of a system they could not interact with, which reads as unfairness rather than challenge.
+The panopticus has been written as a system the players interact with, not a background feature the GM manages. A common approach in published adventures makes surveillance systems invisible to players and uses them as a GM tool for applying pressure — enemies appear from unexpected directions, reinforcements arrive faster than expected. This creates frustration rather than tension. Players feel the consequences of a system they could not interact with, which reads as unfairness rather than challenge.
 
 In this quest, the panopticus is a puzzle with visible pieces. The party can learn that sensors exist (through passive detection or faction briefings), learn which areas are monitored, understand the detection consequence, find the control room, and execute a solution. This converts the surveillance from an imposed threat into a problem the players can solve. The dramatic tension comes not from whether they'll be detected by something they don't know about, but from whether their plan for the thing they do know about will work.
 
@@ -365,7 +365,7 @@ In this quest, the panopticus is a puzzle with visible pieces. The party can lea
 
 Eye #1 has been intentionally placed in Sylgar's fishbowl rather than a vault, safe, or guarded chamber. The reason is characterization.
 
-Xanathar does not know the Eye's value. Ott Steeltoes thought it was a pretty stone and placed it where Xanathar likes his fish's habitat to look interesting. It has been sitting there for months, protected less by paranoid security than by the fact that nobody knows it's there. This placement tells the party more about Xanathar's nature in one beat than any amount of descriptive prose: a being of tremendous power who keeps a world-altering artifact as an inadvertent pet decoration.
+Xanathar does not know the Eye's value. Ott Steeltoes thought it was a pretty stone and placed it where Xanathar likes its fish's habitat to look interesting. It has been sitting there for months, protected less by paranoid security than by the fact that nobody knows it's there. This placement tells the party more about Xanathar's nature in one beat than any amount of descriptive prose: a being of tremendous power who keeps a world-altering artifact as an inadvertent pet decoration.
 
 Xanathar is in X19 when the party arrives. This is not conditional on tier or timing — it is the design. The question is not whether Xanathar is there but whether the party has found X20.
 
@@ -379,13 +379,13 @@ The 1-Eye upgrade has been written as a scene, not a mechanical footnote. The Al
 
 Making the Stone's awakening a moment — not just an item description update — changes the campaign's emotional texture from this point forward. The party is no longer carrying a MacGuffin. They are in a transaction with something that has its own interests, its own logic, and an agenda that currently overlaps with theirs. When the interests diverge, the Stone will communicate exactly what it is prepared to say and nothing more. This creates a different relationship with the artifact than "useful tool the party found." It creates something closer to an uneasy alliance with a party member who is ancient, cold, and patient in ways the party is not equipped to measure.
 
-The Mad Mage seed planted here — the brief impression of something vast and dreaming, far below — is a load-bearing element for Undermountain. The party won't have context for it until Undermountain Level 17. It should land as texture here: something the attuned character experienced and may or may not mention, not a revelation the DM explains. Leave it unresolved.
+The Mad Mage seed planted here — the brief impression of something vast and dreaming, far below — is a load-bearing element for Undermountain. The party won't have context for it until Undermountain Level 17. It should land as texture here: something the attuned character experienced and may or may not mention, not a revelation the GM explains. Leave it unresolved.
 
 ## Jarlaxle's Simultaneous Heist
 
 The simultaneous heist exists for three reasons, and all three are required to justify its design complexity.
 
-First, dramatic tension: the party should not be the only competent actor in Waterdeep. Jarlaxle has better lair intelligence than the party; he has had a spy embedded for eleven years. The heist's outcome is not guaranteed to favor the party simply because they are the protagonists.
+First, dramatic tension: the party should not be the only competent actor in Waterdeep. Jarlaxle has better lair intelligence than the party; he has had a spy embedded for a year. The heist's outcome is not guaranteed to favor the party simply because they are the protagonists.
 
 Second, failure-forward design: a heist that can fail completely needs a designed resolution that keeps the campaign moving. Jarlaxle claiming the Eye redirects the story to **Sea Maidens Faire** as a recovery operation rather than ending it. The party enters **Sea Maidens Faire** from behind, with less leverage, under pressure. This is a consequence.
 
@@ -405,21 +405,21 @@ This is a real trade.
 
 Nihiloor's three projects have been written as discoverable, not required. The party completes the heist by reaching X19 and extracting the Eye — nothing in X23–X27 is needed for that. What the secondary objective zone offers is the campaign's deepest active conspiracy, available to parties thorough enough to explore a dangerous area that even the Guild's guards avoid.
 
-The Puppet revelation is the most significant: Xanathar has been Nihiloor's instrument for four months. Every aggressive, paranoid, apparently irrational decision attributed to the beholder in **Faction Outposts** and this quest was Nihiloor's decision. This changes the party's understanding retroactively. The mastermind they've been treating as the main threat was itself controlled by something worse. The real threat from the Xanathar Guild faction was never Xanathar.
+The Puppet revelation is the most significant: Xanathar has been Nihiloor's instrument for four months. Every aggressive, paranoid, apparently irrational decision attributed to the beholder in **Faction Outposts** and this quest was Nihiloor's decision. This changes the party's understanding retroactively. The mastermind they've been treating as the main threat was itself controlled by something worse. The real threat from Xanathar's Guild faction was never Xanathar.
 
 The Manshoon intelligence in X23 is a designed cross-quest clue. Three independent clue paths lead to **Kolat Towers**: Samara's testimony in X7 (a tower in the North Ward), Nihiloor's intelligence files in X23 (partial Kolat Towers layout and lieutenant roster), and a third path seeded in **Cassalanter Villa**. The Three Clue Rule is satisfied across quests, not within a single location. This is the correct application of the rule in a campaign where quests run in variable order.
 
 ## Xanathar's Boss Stat Block
 
-Xanathar uses a custom two-phase boss stat block rather than the 2024 Monster Manual beholder entry. The two-phase structure reflects his psychological collapse under direct threat: Phase 1 is the paranoid tyrant at full power; Phase 2 (below half HP) is the cornered megalomaniac — more dangerous in raw output, less tactically controlled. The ring of invisibility escape and flight toward X19 are designed into the Phase 2 transition, not left to DM improvisation. A party that gathered intelligence knows to expect this; the **Xanathar** page in Notable Figures confirms Xanathar runs when genuinely frightened.
+Xanathar uses a custom two-phase boss stat block rather than the 2024 Monster Manual beholder entry. The two-phase structure reflects its psychological collapse under direct threat: Phase 1 is the paranoid tyrant at full power; Phase 2 (below half HP) is the cornered megalomaniac — more dangerous in raw output, less tactically controlled. The ring of invisibility escape and flight toward X19 are designed into the Phase 2 transition, not left to GM improvisation. A party that gathered intelligence knows to expect this; the **Xanathar** page in Notable Figures confirms Xanathar runs when genuinely frightened.
 
-The purpose of the two-phase design is to give Xanathar a combat identity that reflects character rather than just capability. A beholder is already terrifying by the numbers. The specific flavor of Xanathar's fight — the specific eye rays he prioritizes, the moment he breaks and runs, what he screams when he runs — comes from who he is. That specificity distinguishes this fight from any other beholder encounter the party might have.
+The purpose of the two-phase design is to give Xanathar a combat identity that reflects character rather than just capability. A beholder is already terrifying by the numbers. The specific flavor of Xanathar's fight — the specific eye rays it prioritizes, the moment it breaks and runs, what it screams when it runs — comes from what it is. That specificity distinguishes this fight from any other beholder encounter the party might have.
 
 *The stat block itself will be built in the **Bestiary** (not yet drafted) using `/boss-design`.*
 
 ## Variable Difficulty and Escalation State
 
-The four-tier difficulty table translates **Faction Outposts**' outpost consequences into this quest's environment without requiring DM judgment. The reason this must be table-specified is that it rewards player decisions in **Faction Outposts** with concrete, legible consequences here. If hitting outposts changes nothing about the lair, the party learns that outpost actions don't matter. If hitting outposts makes the lair harder in specifically defined ways they can discover through reconnaissance, the party learns that their actions have weight. The tier table makes this legible, repeatable, and consistent regardless of which DM runs it.
+The four-tier difficulty table translates **Faction Outposts**' outpost consequences into this quest's environment without requiring GM judgment. The reason this must be table-specified is that it rewards player decisions in **Faction Outposts** with concrete, legible consequences here. If hitting outposts changes nothing about the lair, the party learns that outpost actions don't matter. If hitting outposts makes the lair harder in specifically defined ways they can discover through reconnaissance, the party learns that their actions have weight. The tier table makes this legible, repeatable, and consistent regardless of which GM runs it.
 
 ## Faction Hooks
 
@@ -427,6 +427,6 @@ The four-tier difficulty table translates **Faction Outposts**' outpost conseque
 
 **Emerald Enclave.** Before the party enters Xanathar's lair, Jeryth Phaulkon provides an enchanted herb sprig that functions as a mild psychic shield. The holder gains advantage on the first saving throw made against an implanted intellect devourer, usable once. Jeryth asks that it be carried into the lair specifically — the enchantment is keyed to the environment's psychic signature and does not function elsewhere. See the Quest Hooks section of the **Emerald Enclave** Factions guide page.
 
-**Order of the Gauntlet.** Savra Belabranta considers the Xanathar Guild's use of intellect devourers a specific theological offense — aberrant intelligence overwriting natural souls. She offers to accompany the party into Xanathar's lair as her Renown 3 companion benefit (once per quest), but only if the party commits to eliminating Nihiloor permanently rather than bypassing him. If that commitment cannot be made, she does not join. The offer is genuine; so is the condition. Nihiloor always escapes, so she asks for the attempt, and she stays with the party when he gets away. See the Quest Hooks section of the **Order of the Gauntlet** Factions guide page.
+**Order of the Gauntlet.** Savra Belabranta considers the use of intellect devourers in Xanathar's Guild a specific theological offense — aberrant intelligence overwriting natural souls. She offers to accompany the party into Xanathar's lair as her Renown 3 companion benefit (once per quest), but only if the party commits to eliminating Nihiloor permanently rather than bypassing him. If that commitment cannot be made, she does not join. The offer is genuine; so is the condition. Nihiloor always escapes, so she asks for the attempt, and she stays with the party when he gets away. See the Quest Hooks section of the **Order of the Gauntlet** Factions guide page.
 
 **Force Grey.** The Force Grey mission **Destroy the Intellect Factory** is an objective layer inside this quest, played in Nihiloor's wing (X23 to X26) during Scene 4, and it is not a separate raid. Vajra's brief fires when a Force Grey member with **M3 Complete** prepares for the lair, and she sends her *Sending* while the party is preparing. The objective covers the Spawning Pool beside the twelve specimens in X25, the placement records in X24, and the captive strapped in X25, who is Zaibon Kyszalt unless **Soluun Expelled** is marked. The mission marks **Pool Destroyed**, **Placement Records Taken**, **Captive Freed** and **Nihiloor Fled**. Nihiloor always escapes, so the mission never kills him. If the lair has already run when the member finishes M3, the mission becomes a short debrief at Blackstaff Tower, and the GM marks the four outcomes from what the party did in X23 to X26. See the Quest Hooks section of the **Force Grey** Factions guide page.

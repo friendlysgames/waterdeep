@@ -45,7 +45,7 @@ On a failure (DC 15 Arcana), the ball activates but shows only static impression
 
 *Provisional — subject to revision at Sea Maidens Faire decomposition.*
 
-During Sea Maidens Faire, the Scarlet Marpenoth is Jarlaxle's designated extraction route and Sea Maidens Faire's highest-value intelligence target (it holds the *Stone of Golorr* in U4 if Jarlaxle has acquired it through arc conditions). The pressurized keel collar is unlocked from Jarlaxle's command (he expects to need it). The three drow gunslingers are at combat readiness in their staterooms.
+During Sea Maidens Faire, the Scarlet Marpenoth is Jarlaxle's designated extraction route and Sea Maidens Faire's highest-value intelligence target (it holds the *Stone of Golorr* in U4 if Jarlaxle has acquired it through quest conditions). Jarlaxle keeps Eye #3 in U4 in either case; it reached him the night before Ches 1. The pressurized keel collar is unlocked from Jarlaxle's command (he expects to need it). The three drow gunslingers are at combat readiness in their staterooms.
 
 The gnome pilots in U7b are under orders to submerge at Jarlaxle's signal — a two-tone chime from U7a. Submerging takes 5 minutes; the exterior hatch seals at 3 minutes. Any creature outside the hull when the hatch seals is left behind.
 

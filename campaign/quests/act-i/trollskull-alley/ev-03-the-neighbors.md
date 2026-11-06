@@ -9,7 +9,7 @@
 > - Six neighbors establish themselves as distinct people; this is the party's primary social investment in the community they are entering
 > - Ryvarra (the drow observer from the **Yawning Portal** Event) is spotted near the alley; BD surveillance is seeded
 > - The Two Zhentarims thread receives its first surface path via Fala's friendship with Ziraj
-> - The DM's fireball victim observation task begins: which NPC is the party most engaged with?
+> - The GM's fireball victim observation task begins: which NPC is the party most engaged with?
 >
 > This Event has no milestone.
 
@@ -46,9 +46,9 @@ She is professional and evasive if approached. Available only to parties with dr
 
 Award **Ryvarra Identified** if both checks succeed. Cross-ref the **Ryvarra** page in Notable Figures.
 
-### The DM's Observation Task
+### The GM's Observation Task
 
-Trollskull Alley's most important output is invisible. The party spends these scenes getting to know the Trollskull Alley community. The DM spends these scenes observing which NPC the players have bonded with. The observation is not optional; the fireball victim must be identified before Fireball begins.
+Trollskull Alley's most important output is invisible. The party spends these scenes getting to know the Trollskull Alley community. The GM spends these scenes observing which NPC the players have bonded with. The observation is not optional; the fireball victim must be identified before Fireball begins.
 
 Candidates and their loss logic are in ev-07. Begin tracking now.
 

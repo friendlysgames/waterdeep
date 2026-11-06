@@ -8,11 +8,11 @@
 >
 > - Two processions converge on the Market; the party participates as North Ward residents, not spectators
 > - The nimblewright sighting is the event's structural purpose: DC 14 Perception / DC 16 Arcana establishes the Fireball corroboration path
-> - The Sea Maidens Faire fleet arrived in harbor this morning; the first Sea Maidens Faire seed is visible from the parade route
+> - The Sea Maidens Faire carnival fleet sails into harbor this morning for Fleetswake; the first Sea Maidens Faire seed is visible from the parade route
 > - BD faction mission window (The Handkerchief Job) if party is Bregan D'Aerthe-enrolled
 > - Davil Starsong is visible in the crowd; Ammalia Cassalanter is at the charity booth
 > - The Festival Aftermath (Frewn's cask incident) provides closure on Emmek's arc and confirms Stage 4 misfired
-> - The DM's fireball victim selection must be finalized before this Event ends
+> - The GM's fireball victim selection must be finalized before this Event ends
 > - The quest hard-cuts to **Fireball!** at this Event's conclusion
 >
 > Full event structure: **`sources/24. Addendum The Twin Parades.pdf`**.
@@ -23,7 +23,7 @@
 
 Two processions converge on the Market: one moving south from the Castle Ward, one east from the Sea Ward. The crowd fills the intervening streets; vendors operate from temporary stalls; City Watch manages pedestrian flow with professional exasperation.
 
-The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire fleet arrived in harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. **Thread: Sea Maidens Faire reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
+The party is participating in Waterdeep civic life now — they have neighbors in this crowd, faction contacts, and a tavern that people here have already visited. The Twin Parades fall on Ches 21, the opening day of Fleetswake (Ches 21–30), the maritime festival that fills Waterdeep Harbor with tall ships. The **Sea Maidens Faire carnival fleet sails into harbor this morning**. From the parade route's eastern end, the party may notice the carnival flotilla's banners in the harbor. The *Scarlet Marpenoth* is not part of the arrival: Jarlaxle's submarine has been moored in the harbor all year, since he reached Waterdeep in Marpenoth 1491. **Thread: Sea Maidens Faire reconnaissance window begins.** The Fleetswake period (Ches 21–30) is when Jarlaxle's ships are in harbor and accessible.
 
 Cross-ref **Structural Rules** (GM Guide) (Festival Calendar).
 
@@ -58,7 +58,7 @@ If the party is Bregan D'Aerthe-enrolled and The Handkerchief Job (Level 2 Missi
 
 ### Finalize the Fireball Victim
 
-Before the Event ends, the DM must designate the fireball victim. The quest has provided six sessions of observation. The candidates:
+Before the Event ends, the GM must designate the fireball victim. The quest has provided six sessions of observation. The candidates:
 
 | NPC | Introduced | Loss Logic |
 |---|---|---|
@@ -69,7 +69,7 @@ Before the Event ends, the DM must designate the fireball victim. The quest has 
 | A hired staff member | ev-06 | Only if the party bonded with a specific candidate; requires observed investment during hiring |
 | A PC backstory NPC | Setup-dependent | Works if a Waterdeep backstory connection was activated during Trollskull Alley |
 
-The victim is whoever the DM watched become real to the table. Cross-ref **Ch. 3: Running the Campaign** (The Fireball Victim mechanic) for full guidance.
+The victim is whoever the GM watched become real to the table. Cross-ref **Ch. 3: Running the Campaign** (The Fireball Victim mechanic) for full guidance.
 
 Award **Fireball Victim Designated: [NPC Name]** attunement.
 
@@ -87,7 +87,7 @@ Recorded. Fireball reads this attunement to determine whether the party enters t
 
 #### Fireball Victim Designated: True / False
 
-Recorded. Fireball reads this attunement in its opening beat. The DM notes which NPC was designated in their own session notes.
+Recorded. Fireball reads this attunement in its opening beat. The GM notes which NPC was designated in their own session notes.
 
 > **[GM]**
 >
@@ -105,4 +105,4 @@ The Twin Parades brought both sides of the city together on Ches 21, the first d
 
 ## Summary
 
-The party attended the Twin Parades on Ches 21 as North Ward residents, may have noticed a nimblewright among the performers, saw the Sea Maidens Faire fleet arrive in harbor, and returned home to find a note of apology for the cask that cracked at the wrong tavern. The fireball strikes the following morning.
+The party attended the Twin Parades on Ches 21 as North Ward residents, may have noticed a nimblewright among the performers, saw the Sea Maidens Faire carnival fleet arrive in harbor, and returned home to find a note of apology for the cask that cracked at the wrong tavern. The fireball strikes the following morning.

@@ -310,7 +310,7 @@ A drop does four things for a member who shows the coin and says the phrase. The
 > The Menzoberranzan and Skullport leaves are the packet's two lines into **Dungeon of the Mad Mage**. They carry facts from the adventure and nothing more.
 >
 > - House Auvryndar is a low-ranking Menzoberranzan house consolidating its power in Undermountain, allied with the Zhentarim.
-> - Its drow mage Rizzeryl holds the Base de Résistance on the second level, with a quasit and eight wererats. He works for Auvryndar and the Zhentarim against the Xanathar Guild.
+> - Its drow mage Rizzeryl holds the Base de Résistance on the second level, with a quasit and eight wererats. He works for Auvryndar and the Zhentarim against Xanathar's Guild.
 > - Xanathar's Guild controls Skullport and is trying to secure the uppermost levels of Undermountain.
 >
 > Bregan D'aerthe does not appear in the adventure and has no scripted ties to these people. The leaves state what the company has heard, and the Menzoberranzan drop won't say how.
@@ -459,7 +459,7 @@ If **Jarlaxle Unmasked** is marked, read or paraphrase the following instead:
 >
 > - **Trigger:** the first day the member's party is in the same area as Rizzeryl on the second level, or the thirtieth day after the ceremony, whichever comes first.
 > - **Delivery:** Ilphrin Quiss sends the member word through the company's own Sending, naming the day and the place. A flying snake delivers the letter the same dusk.
-> - **Contents:** the company offers House Auvryndar a safe road for one of its couriers out of Skullport in return for the Xanathar Guild's mooring list, and nothing else.
+> - **Contents:** the company offers House Auvryndar a safe road for one of its couriers out of Skullport in return for Xanathar's Guild mooring list, and nothing else.
 >
 > The member must carry the letter to Rizzeryl unopened and hand it over in person. Until Rizzeryl has read it, the member says nothing of it to any Zhentarim, Doom Raider or other ally in the party who is not a Bregan D'aerthe member. Rizzeryl talks to a party that leaves him alone, as the adventure says, and he reads the letter without a fight. The cost is the secret, which may sit badly with an ally who works for the Zhentarim. The favor asks for no killing and no harm to a companion.
 >

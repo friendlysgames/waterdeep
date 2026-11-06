@@ -23,7 +23,7 @@
 
 **Morale.** Elzerina does not run when frightened. She interposes herself between Terenzio and the threat and looks for a weapon.
 
-**Relationships.** Elzerina is Terenzio's twin and the bolder of the two, an intended sacrifice at the Founders' Day feast alongside her brother, and a child who suspects something is wrong in this house without knowing what.
+**Relationships.** Elzerina is Terenzio's twin and the bolder of the two, forfeit to Asmodeus alongside her brother on their ninth birthday, Flamerule 11, 1492 DR (she is eight now), and a child who suspects something is wrong in this house without knowing what.
 
 ## Overview
 

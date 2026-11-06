@@ -3,7 +3,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - *Tiefling priest (Xanathar Guild), neutral evil*. Stat block: **Priest**.
+> - *Tiefling priest (Xanathar's Guild), neutral evil*. Stat block: **Priest**.
 > - **Affiliation:** Xanathar's Guild
 > - **Featured in:** **Faction Outposts**, **Xanathar's Lair**
 
@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Keln uses priestly spells to hold ground, calls his guards, and sends a message to Xanathar. He does not run — the building is his responsibility.
 
-**Relationships.** Keln is the Xanathar Guild's Tier 1 outpost keeper (Terasse Estate, Elsambul's Lane, Castle Ward), the manager of the gladiatorial transport route (healing services and Lair access under the same roof), and the keeper of two passphrases that access very different services.
+**Relationships.** Keln is the Tier 1 outpost keeper of Xanathar's Guild (Terasse Estate, Elsambul's Lane, Castle Ward), the manager of the gladiatorial transport route (healing services and Lair access under the same roof), and the keeper of two passphrases that access very different services.
 
 ## Overview
 

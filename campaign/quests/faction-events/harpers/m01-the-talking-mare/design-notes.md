@@ -2,7 +2,7 @@
 
 ## What the Source Gave
 
-Appendix C and the Dragon Heist table give a short errand: find a talking draft horse, earn her trust and hear what she has overheard. They also give Maxeene's act in public, the trust rules, the dislike of "girl" and mane-patting, and the sun elf and half-orc passengers, who match Davil Starsong and Yagra Stonefist. Dragon Heist puts the reward at 1 Renown. Both sources leave the watcher a minor Xanathar Guild Spy named Vosk, who reports to Keln Trigos.
+Appendix C and the Dragon Heist table give a short errand: find a talking draft horse, earn her trust and hear what she has overheard. They also give Maxeene's act in public, the trust rules, the dislike of "girl" and mane-patting, and the sun elf and half-orc passengers, who match Davil Starsong and Yagra Stonefist. Dragon Heist puts the reward at 1 Renown. Both sources leave the watcher a minor Xanathar's Guild Spy named Vosk, who reports to Keln Trigos.
 
 ## What Changed
 

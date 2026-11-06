@@ -18,7 +18,7 @@
 > - The journal has eight Era pages and one calendar page. The eras are told by theme and overlap in time, so each page gives its own span in Dale Reckoning years.
 > - It begins with Ahghairon's government in 1032 DR and ends on the evening of Ches 1, 1492 DR, when the party reaches the Yawning Portal.
 > - Three of the four villain factions came to Waterdeep from elsewhere. Xanathar's Guild rose from Skullport, Bregan D'aerthe came by way of Menzoberranzan and Luskan, and the Zhentarim came from Zhentil Keep.
-> - The Cassalanters and Dagult Neverember belong to the city itself. Their dealings in 1489 DR and the years just before it are the source of the Grand Game's prize and of the Founders' Day deadline.
+> - The Cassalanters belong to the city itself, and Dagult Neverember built his fortune in Waterdeep. Their dealings in 1489 DR and the years just before it are the source of the Grand Game's prize and of the Founders' Day deadline.
 > - Each page is a continuous narrative history, written so that one era sets up the next. No page carries a timeline table, and no page is organized by faction.
 
 The History of Waterdeep runs from a wizard's throne to the evening the party reaches the Yawning Portal, in eight eras that each lead into the next.
@@ -30,7 +30,7 @@ The History of Waterdeep runs from a wizard's throne to the evening the party re
 - **Bregan D'aerthe's Long Road** (10th century DR to 1492 DR): Jarlaxle's path from Menzoberranzan to Luskan, the company's rejection of Lolth, and the Sea Maidens Faire that brings him to Deepwater Harbor.
 - **The Founding of Chains** (1261 DR to 1492 DR): Manshoon's founding of the Zhentarim, and how the Doom Raiders and the Splinter now share its name in Waterdeep and will not cooperate.
 - **A Debt in Blood** (1489 DR to 1492 DR): The Cassalanters' bargain with Asmodeus and the Founders' Day deadline that follows from it.
-- **The Open Lord's Fall** (about 1467 DR to 1489 DR, with the aftermath running to 1492 DR): Dagult Neverember's years in office, the embezzled gold, the Stone of Golorr and the vote that removed him. It is the origin of the Grand Game's prize.
+- **The Open Lord's Fall** (about 1467 DR to 1489 DR, with the aftermath running to 1492 DR): Dagult Neverember's years in office, about 21 to 22 of them, the embezzled gold, the Stone of Golorr and the vote that removed him. It is the origin of the Grand Game's prize.
 - **A City Watching Itself** (about 1489 DR to 1492 DR): Laeral Silverhand's Waterdeep, what she knows and wants about the vault, and why a capable Open Lord is still behind the factions.
 - **The Players Arrive** (Marpenoth 1491 DR to Ches 1, 1492 DR): Where each faction and object stood on the night before the campaign, and which of those dates the sources fix.
 - **Timekeeping and the Festival Calendar** (Ches 1 to Flamerule 11, 1492 DR): The Calendar of Harptos basics, the campaign calendar, the festival table and Founders' Day.

@@ -10,22 +10,22 @@
 
 ## Roleplaying Information
 
-**Resonance.** Xanathar should inspire dread with his paranoid volatility, dark amusement with his obsessive love for Sylgar the goldfish, and discomfort when the party realizes that threatening the fish is both the easiest and the most dangerous leverage they have.
+**Resonance.** Xanathar should inspire dread with its paranoid volatility, dark amusement with its obsessive love for Sylgar the goldfish, and discomfort when the party realizes that threatening the fish is both the easiest and the most dangerous leverage they have.
 
-**Emotions.** Xanathar most often feels paranoid suspicion, megalomaniacal self-importance, obsessive tenderness toward Sylgar, volcanic rage at perceived conspiracies, smug satisfaction, and a terror of mortality that he projects outward as aggression.
+**Emotions.** Xanathar most often feels paranoid suspicion, megalomaniacal self-importance, obsessive tenderness toward Sylgar, volcanic rage at perceived conspiracies, smug satisfaction, and a terror of mortality that it projects outward as aggression.
 
-**Motivations.** Xanathar wants to eliminate every Zhentarim operative in Waterdeep, recover the Stone of Golorr, and ensure that no one takes anything that belongs to him, especially Sylgar.
+**Motivations.** Xanathar wants to eliminate every Zhentarim operative in Waterdeep, recover the Stone of Golorr, and ensure that no one takes anything that belongs to it, especially Sylgar.
 
 **Inspirations.** When playing Xanathar, channel Tony Montana (*Scarface*), Smaug (*The Hobbit*), and GLaDOS (*Portal*).
 
 ## Character Information
 
-**Persona.** To the world, Xanathar is a paranoid, megalomaniacal beholder who charms and bullies minions into servitude. To those in his lair, he destroys a character and offers the survivors a bargain. Deep down, the only creature he truly cares about aside from himself is Sylgar the goldfish, kept in a glass tank while his minions live in terror of the fish dying and scramble to replace it. He cannot tell one fish from another. His greatest weakness is his insane love for his pet; a DC 16 Intimidation check using Sylgar as leverage turns him into a blubbering mess.
+**Persona.** To the world, Xanathar is a paranoid, megalomaniacal beholder who charms and bullies minions into servitude. To those in its lair, it destroys a character and offers the survivors a bargain. Deep down, the only creature it truly cares about aside from itself is Sylgar the goldfish, kept in a glass tank while its minions live in terror of the fish dying and scramble to replace it. It cannot tell one fish from another. Its greatest weakness is its insane love for its pet; a DC 16 Intimidation check using Sylgar as leverage turns it into a blubbering mess.
 
-**Morale.** In a fight, Xanathar uses his eye rays without restraint. If reduced to half hit points or believing himself in mortal danger, he activates his ring of invisibility, screams for Ahmaergo to "tear the usurpers limb from limb," and flees to his sanctum.
+**Morale.** In a fight, Xanathar uses its eye rays without restraint. If reduced to half hit points or believing itself in mortal danger, it activates its ring of invisibility, screams for Ahmaergo to "tear the usurpers limb from limb," and flees to its sanctum.
 
-**Relationships.** Xanathar is the beholder crime lord of the Xanathar Guild, the employer of Ahmaergo (his majordomo), Nihiloor (his mind flayer, whom he considers an equal), and Nar'l Xibrindas (his drow advisor, whom he does not yet know is Jarlaxle's spy). He has a healthy fear of Laeral Silverhand and spares those in her employ.
+**Relationships.** Xanathar is the beholder crime lord of Xanathar's Guild, the employer of Ahmaergo (its majordomo), Nihiloor (its mind flayer, which has psionically dominated Xanathar for the last four months without Xanathar knowing), and Nar'l Xibrindas (its drow advisor, whom it does not yet know is Jarlaxle's spy). It has a healthy fear of Laeral Silverhand and spares those in her employ.
 
 ## Overview
 
-Xanathar is a beholder who styles himself master of Waterdeep's criminal underworld, commanding a vast network of thieves, smugglers, and killers from a lair deep beneath the city. He is known for his paranoid volatility and his obsessive tenderness for a goldfish named Sylgar.
+Xanathar is a beholder who styles itself master of Waterdeep's criminal underworld, commanding a vast network of thieves, smugglers, and killers from a lair deep beneath the city. It is known for its paranoid volatility and its obsessive tenderness for a goldfish named Sylgar.

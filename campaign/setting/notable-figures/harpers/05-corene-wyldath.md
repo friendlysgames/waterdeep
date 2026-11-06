@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Corene fights competently and tactically — the intellect devourer does not want to draw attention through reckless behavior.
 
-**Relationships.** Corene is a Harper deep-cover agent embedded in the Xanathar Guild's Dock Ward operation, the subject of Harper mission five (**The Sleeping Asset**), and the most dangerous kind of asset: one who cannot confirm her own loyalty.
+**Relationships.** Corene is a Harper deep-cover agent embedded in the Dock Ward operation of Xanathar's Guild, the subject of Harper mission five (**The Sleeping Asset**), and the most dangerous kind of asset: one who cannot confirm her own loyalty.
 
 ## Overview
 

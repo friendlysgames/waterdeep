@@ -7,7 +7,7 @@
 > This Exploration/Combat Event occurs when the party arrives at the Candle Lane warehouse. In this Event:
 >
 > - The party chooses an entry approach; their choice sets the kenku alert state
-> - Four kenku occupy the building, searching the wreckage of the Xanathar Guild raid that killed Manshoon's cell
+> - Four kenku occupy the building, searching the wreckage of the Xanathar's Guild raid that killed Manshoon's cell
 > - Renaer Neverember is hidden in Z02 — the party finds the wrong person, learns what happened, and gets new leads pointing down
 > - Three independent paths confirm the Xanathar sewer hideout as Floon's location
 >
@@ -52,7 +52,7 @@ Kenku speak only in mimicked voices — fragments captured from conversations th
 - Five Zhentarim grabbed him and Floon outside Old Xoblob Shop last night and brought them here
 - They questioned him about his father's embezzled gold — money Renaer has refused to help his father hide
 - The Zhentarim took his mourning locket, which he believed held a keepsake from his mother; he didn't know there was a hidden compartment
-- The Xanathar Guild attacked before the interrogation went further, and he did not see what became of the locket in the fighting
+- Xanathar's Guild attacked before the interrogation went further, and he did not see what became of the locket in the fighting
 - He slipped his bonds in the confusion and hid in Z02
 - Through a gap in the door he watched Xanathar agents drag an unconscious Floon through the main room, out through the yard, and down the alley toward a sewer grate
 
@@ -98,7 +98,7 @@ The kenku are neutralized (defeated, driven off, or subdued). The party controls
 
 ## Overview
 
-The Candle Lane warehouse held a surprise: the Zhentarim cell that kidnapped Floon is already dead, killed in an Xanathar Guild raid. Four kenku now search the wreckage. The party finds not Floon but Renaer Neverember — the Open Lord's estranged son, who was the kidnapping's actual target.
+The Candle Lane warehouse held a surprise: the Zhentarim cell that kidnapped Floon is already dead, killed in a Xanathar's Guild raid. Four kenku now search the wreckage. The party finds not Floon but Renaer Neverember — the former Open Lord's estranged son, who was the kidnapping's actual target.
 
 ## Read Aloud
 

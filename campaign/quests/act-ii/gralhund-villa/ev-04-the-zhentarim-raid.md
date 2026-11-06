@@ -14,7 +14,7 @@
 >
 > **Trigger:** Party arrives at Gralhund Villa on the night of Ches 24th (raid in progress), OR the party was inside during the day and the raid begins at nightfall.
 
-The raid began through the Pantry door. From here, events have their own momentum. The DM should enter the timeline at the beat that reflects how early the party arrived, then play the situation as it develops. Floxin had a plan; the raid has since departed from it.
+The raid began through the Pantry door. From here, events have their own momentum. The GM should enter the timeline at the beat that reflects how early the party arrived, then play the situation as it develops. Floxin had a plan; the raid has since departed from it.
 
 ### Floxin's Plan
 
@@ -24,7 +24,7 @@ He does not know about Jarlaxle's team across the street.
 
 ### The Ten-Beat Timeline
 
-Each beat is approximately 1–3 minutes of real-time action inside the building. The DM drops the party into whichever beat matches their arrival.
+Each beat is approximately 1–3 minutes of real-time action inside the building. The GM drops the party into whichever beat matches their arrival.
 
 **Beat 1 — Pantry Entry.** Floxin and three agents in black leather pick the Pantry (G6) lock. Two Zhents surprise the head butler and cook mid-liaison. The cook flees toward G5, screaming.
 

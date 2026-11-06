@@ -108,13 +108,13 @@ Within one to three days of the villa, the party's active faction contacts reque
 
 **Harpers (Mirt).** A Harper agent in the crowd outside the villa recognized at least one PC. If the party reports in first, Mirt receives the account with measured satisfaction and asks no follow-up questions. If they don't, he sends a note in his own handwriting: *"I heard Saerdoun Street was lively last night. Whenever you have a moment."* He would appreciate being told things that concern him before he learns them from someone else.
 
-**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a Far South Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with the Xanathar Guild or the Gralhund household.
+**Lords' Alliance (Jalester).** His debrief request arrives within twenty-four hours. The Watch officers on the Saerdoun Street beat were transferred to a Far South Ward assignment the week before the raid. Jalester has traced the reassignment to a request from inside the Watch hierarchy; the source is unknown. He wants to know if the party saw any evidence of Watch coordination with Xanathar's Guild or the Gralhund household.
 
-**Emerald Enclave (Melannor).** Gralhund Villa sits over a minor ley line the Enclave monitors as part of Jeryth Phaulkon's aberrant-activity survey. The Xanathar Guild's presence in the neighborhood destabilized it over the past week in a way that correlates with Nihiloor's movements below the city. Melannor wants to know what the party observed. For the map.
+**Emerald Enclave (Melannor).** Gralhund Villa sits over a minor ley line the Enclave monitors as part of Jeryth Phaulkon's aberrant-activity survey. Xanathar's Guild's presence in the neighborhood destabilized it over the past week in a way that correlates with Nihiloor's movements below the city. Melannor wants to know what the party observed. For the map.
 
 **Order of the Gauntlet (Savra).** Her debrief is a time and a location. She wants to know if any villa occupants showed signs of infernal corruption: unusual tattoos, branded symbols, liturgical items from proscribed cults. If the party found the G16 compartment, she confirms what they found and adds: *"The Cassalanters sent agents to Gralhund Villa during the confrontation. I have confirmed it from a separate source. This is not over."* She already knew.
 
-**Force Grey (Vajra).** A full operational debrief: which factions were present, where each one entered and exited, whether any Watch checkpoint in the surrounding blocks was compromised or unmanned during the raid, and any direct evidence of Nihiloor's involvement. Xanathar Guild activity approaching a Watch checkpoint the Guild has never previously targeted is, in her judgment, a test. She wants to know if the test succeeded.
+**Force Grey (Vajra).** A full operational debrief: which factions were present, where each one entered and exited, whether any Watch checkpoint in the surrounding blocks was compromised or unmanned during the raid, and any direct evidence of Nihiloor's involvement. Xanathar's Guild activity approaching a Watch checkpoint the Guild has never previously targeted is, in her judgment, a test. She wants to know if the test succeeded.
 
 **Doom Raiders (Tashlyn).** Already covered above. "Keep a low profile. I'll be in touch." No debrief. No elaboration.
 
@@ -130,7 +130,7 @@ In all cases, the operative is not blamed for outcomes beyond their control (the
 
 ### Gralhund Response Team (Forward Seed)
 
-If the party did not recover the Stone (if it remains with the Gralhunds at quest's end), Yalah will eventually use whatever she holds as leverage. A Gralhund Response Team becomes available to the DM for later quest complications. **This team is a forward seed only.** Roster and stats are new appendix content if this branch is ever exercised.
+If the party did not recover the Stone (if it remains with the Gralhunds at quest's end), Yalah will eventually use whatever she holds as leverage. A Gralhund Response Team becomes available to the GM for later quest complications. **This team is a forward seed only.** Roster and stats are new appendix content if this branch is ever exercised.
 
 ### Concluding the Event
 

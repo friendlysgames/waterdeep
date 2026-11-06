@@ -50,7 +50,7 @@ The team consists of two Guild members in civilian clothes. They probe what the 
 
 | Days since Ches 22nd | Team's Intel State | What They Share |
 |---|---|---|
-| 1+ days | Briefed on Dalakhar's death; knows Floxin was following him | Inadvertently confirms Floxin as a pursuer; can mention Floxin staying at the Yellowspire safe house (North Ward) → leads to Gralhund Villa if the party hasn't found it yet |
+| 1+ days | Briefed on Dalakhar's death; knows Floxin was following him | Inadvertently confirms Floxin as a pursuer; can mention Floxin staying at the Yellowspire safe house (Castle Ward) → leads to Gralhund Villa if the party hasn't found it yet |
 | 3+ days | Team has been pulled | Room empty; no contact |
 
 > **[GM]**

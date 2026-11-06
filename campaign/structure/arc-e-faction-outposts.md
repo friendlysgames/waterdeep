@@ -16,11 +16,11 @@ Ten outposts are distributed across Waterdeep's wards, maintained by four factio
 
 Two outpost types govern how each entry plays:
 
-**Mini-heist outposts** follow an abbreviated five-step framework: Gather Information, Case the Target, Acquire Supplies, The Operation, Getaway. These are the four targets warranting expanded treatment because each one gates a major lair approach or a critical mechanical resource. The party plans and executes; outcomes are not predetermined by the DM.
+**Mini-heist outposts** follow an abbreviated five-step framework: Gather Information, Case the Target, Acquire Supplies, The Operation, Getaway. These are the four targets warranting expanded treatment because each one gates a major lair approach or a critical mechanical resource. The party plans and executes; outcomes are not predetermined by the GM.
 
 **Encounter-plus outposts** have keyed areas, a roster, multiple approach options, and planted documents, but no extended planning framework. They are intelligence waypoints — worth hitting, not worth staging a full operation around.
 
-The ten outposts are not a gauntlet. They are a menu. The party's choices about which to hit, in which order, against which factions, are the gameplay of **Faction Outposts**. The DM's job is to keep all four threads visible and let the pressure mount.
+The ten outposts are not a gauntlet. They are a menu. The party's choices about which to hit, in which order, against which factions, are the gameplay of **Faction Outposts**. The GM's job is to keep all four threads visible and let the pressure mount.
 
 ---
 
@@ -32,9 +32,9 @@ The ten outposts are not a gauntlet. They are a menu. The party's choices about 
 
 When Dagult Neverember was removed from the Open Lord's chair eleven years ago, he did not surrender his deepest secret. The Vault of Dragons — five hundred thousand gold dragons cached below Waterdeep in a chamber sealed by the Stone of Golorr and commanded only by Neverember's spoken word — stayed hidden. He removed the Stone's eyes to blind it, then distributed all three Eyes to parties he calculated would keep them safe: one to a drow arms dealer whose silence could be purchased, one entrusted to agents whose infernal patrons guaranteed survival, and one brought deeper into the criminal networks beneath the city than any investigator would comfortably follow.
 
-That calculation is no longer accurate. Neverember is in Neverwinter. The parties holding his Eyes have been in Waterdeep long enough to develop their own plans for whatever the Stone might reveal. Jarlaxle Baenre holds his Eye aboard the *Scarlet Marpenoth*, where it serves as leverage and curiosity in equal measure. The Cassalanter family, working through a network of cult agents and infernal diviners, located a second Eye buried in the crypt of a noblewoman who died without heirs, and extracted it. Xanathar holds the third in the deep sanctum of the lair beneath Skullport, where it arrived years ago as payment for silence and has remained in the dark ever since.
+That calculation is no longer accurate. Neverember is in Neverwinter. The parties holding his Eyes have been in Waterdeep long enough to develop their own plans for whatever the Stone might reveal. Jarlaxle Baenre holds his Eye aboard the *Scarlet Marpenoth*, where it serves as leverage and curiosity in equal measure. The Cassalanter family, working through a network of cult agents and infernal diviners, located a second Eye buried in the crypt of a noblewoman who died without heirs, and extracted it. Xanathar holds the last in Sylgar's fishbowl in the lair beneath Skullport. Zhentarim envoys stole it from the Protector's Enclave in Neverwinter and carried it to Xanathar as a gift. Xanathar killed them, kept the stone, and has never learned what it is.
 
-Manshoon wants none of the Eyes. He wants the Stone itself — specifically, the compressed aboleth memory within it, which encodes structural knowledge of the Weave that Mystra's servants have never catalogued. The vault is an instrument he would use to fund his actual goal. The Stone is the goal. He does not hold an Eye because he never intended to open the vault the way Neverember did — only to hold the Stone long enough to extract what he needs.
+Manshoon holds no Eye. His envoys carried one to Xanathar and never came back. He wants the Stone itself — specifically, the compressed aboleth memory within it, which encodes structural knowledge of the Weave that Mystra's servants have never catalogued. The vault is an instrument he would use to fund his actual goal. The Stone is the goal. He needs the Stone and any two Eyes, but he never intended to open the vault the way Neverember did — only to hold the Stone long enough to extract what he needs.
 
 The Stone now sits with the party. The Watch crackdown following the Gralhund Villa incident has disrupted Manshoon's Brindul Alley operation, scattered the Zhentarim response teams, and landed Davil Starsong in Watch custody on circumstantial evidence. Xanathar's Guild is consolidating — pulling agents tighter, increasing surveillance. Jarlaxle watches the party with quiet interest and no urgency; he holds something they need, and he is in no hurry to discuss terms. The Cassalanters, undisturbed, continue their research. Below the city's peaceful surface, four factions know the Stone has surfaced. Three of them want it back.
 
@@ -66,7 +66,7 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 *Mad Mage Seed.* The attuning character's connection to the Stone changes something. Illuun's dreaming — the aboleth consciousness compressed within the Stone — leaks slightly more than before. Not enough to communicate. Enough to feel: a cold patience beneath the city, not geographic but geological, present in the stone itself rather than in any particular chamber. When the attuning character asks about this, the Stone changes the subject.
 
-*Founders' Day Clock.* Attunement occurs approximately Ches 25th in the campaign calendar. Founders' Day — Flamerule 1st — is roughly three months away (approximately 97 days). The party does not know this deadline yet. The DM tracks it.
+*Founders' Day Clock.* Attunement occurs approximately Ches 25th in the campaign calendar. Founders' Day — Flamerule 1st — is roughly three months away (approximately 97 days). The party does not know this deadline yet. The GM tracks it.
 
 **Tone:** Intimate and strange. The Stone is a compressed aboleth consciousness performing contractual service — it cooperates because it is compelled to, not because it wants to help. Its communication is efficient and alien. The party should feel they are using something that was not designed with their comfort in mind, and that the thing is simultaneously more and less than they expected.
 
@@ -98,11 +98,11 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 ### Scene 3: The Outpost Phase — How It Works
 
-**Purpose:** DM-facing structural guide. This is not a scene the players experience. It provides the operational framework needed to run ten outposts in any order, across four factions, as a coherent arc rather than a sequence of disconnected encounters.
+**Purpose:** GM-facing structural guide. This is not a scene the players experience. It provides the operational framework needed to run ten outposts in any order, across four factions, as a coherent arc rather than a sequence of disconnected encounters.
 
 **Content:**
 
-*Player-Driven Order.* The party chooses which faction to investigate first, which chain to complete first, and whether to pursue multiple chains in parallel. There is no prescribed sequence. The DM makes all four faction threads visible through Scene 2 and the Stone's impressions, then steps back. If the party pursues two chains simultaneously, each faction tracks its own escalation state independently, and spillover rules govern cross-faction effects.
+*Player-Driven Order.* The party chooses which faction to investigate first, which chain to complete first, and whether to pursue multiple chains in parallel. There is no prescribed sequence. The GM makes all four faction threads visible through Scene 2 and the Stone's impressions, then steps back. If the party pursues two chains simultaneously, each faction tracks its own escalation state independently, and spillover rules govern cross-faction effects.
 
 *Outpost Tiers.* Two types:
 
@@ -112,7 +112,7 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 *Finding Outposts Without Faction Help.* Every faction chain has at least one entry point discoverable without faction contacts and without prior outpost documents — through the party's own investigation. These are the street-level entry points:
 
-**Xanathar Guild:** Grinda Garloth's operates openly in Mistshore as a black-market armorer. Anyone asking about Xanathar weapons or Guild suppliers in the Dock Ward gets pointed to her within a day. No credentials required.
+**Xanathar's Guild:** Grinda Garloth's operates openly in Mistshore as a black-market armorer. Anyone asking about Xanathar weapons or Guild suppliers in the Dock Ward gets pointed to her within a day. No credentials required.
 
 **Manshoon's Zhentarim:** Parties who searched Urstul Floxin's effects at Gralhund Villa have documents pointing to Brindul Alley. Parties that did not can find the Interrogation House through Trade Ward canvassing — the safe house's traffic is unusual enough to notice if someone is looking (DC 14 Investigation over a day).
 
@@ -122,17 +122,17 @@ None of the visions identify who holds each Eye or where the holder can be found
 
 *Revelation Lists.* Every outpost yields intelligence about its own faction's lair and at least one clue pointing toward a different faction. Captured documents are live intelligence, not flavor text. See **Running the Villains** (GM Guide) for the authoritative revelation list. This quest orchestrates those lists; it does not reproduce them.
 
-*Escalation — Baked-In Consequences.* Each outpost entry specifies exactly what happens to that faction's alert state when the outpost is hit. No DM judgment between sessions is required. Each outpost's Getaway section names the exact tier the faction moves to, which response team deploys, and on what timeline. The four-tier system: **Unaware** (faction doesn't know the party exists as a threat), **Suspicious** (faction has noticed unexplained losses), **Alert** (faction knows the party is active, response teams deployed), **Lockdown** (faction in full security posture, lair defenses hardened). The DM reads the Getaway entry and applies it.
+*Escalation — Baked-In Consequences.* Each outpost entry specifies exactly what happens to that faction's alert state when the outpost is hit. No GM judgment between sessions is required. Each outpost's Getaway section names the exact tier the faction moves to, which response team deploys, and on what timeline. The four-tier system: **Unaware** (faction doesn't know the party exists as a threat), **Suspicious** (faction has noticed unexplained losses), **Alert** (faction knows the party is active, response teams deployed), **Lockdown** (faction in full security posture, lair defenses hardened). The GM reads the Getaway entry and applies it.
 
 *Cross-Faction Spillover.* Xanathar and Manshoon are actively at war; each monitors the other's losses. Hitting a Xanathar outpost raises Manshoon's alert tier by 1, and vice versa — both factions assume the other is responsible before they conclude it was the party. Cassalanter imp surveillance of the Sea Maidens Faire creates a reciprocal intelligence channel; Cassalanter losses alert Jarlaxle that something is moving against infernal-adjacent operations in the city. See **Running the Villains** (GM Guide) for full inter-faction dynamics.
 
-*Founders' Day Clock.* Every outpost entry includes a time estimate: how many in-game days the operation consumes. Encounter-plus operations run 1–3 days. Mini-heist operations run 3–7 days. Total duration: two to four tendays. The party learns about Founders' Day (Flamerule 1st) through Cassalanter intelligence and faction contacts, not through this section. The DM tracks the calendar and makes the approaching deadline legible through environmental detail — festival preparations appearing in the wards, Cassalanter documents referencing a family obligation in Flamerule, contacts mentioning the Open Lord's Founders' Day calendar.
+*Founders' Day Clock.* Every outpost entry includes a time estimate: how many in-game days the operation consumes. Encounter-plus operations run 1–3 days. Mini-heist operations run 3–7 days. Total duration: two to four tendays. The party learns about Founders' Day (Flamerule 1st) through Cassalanter intelligence and faction contacts, not through this section. The GM tracks the calendar and makes the approaching deadline legible through environmental detail — festival preparations appearing in the wards, Cassalanter documents referencing a family obligation in Flamerule, contacts mentioning the Open Lord's Founders' Day calendar.
 
-**Tone:** Operational. This section is the DM's tool reference. The language is precise and the voice is direct.
+**Tone:** Operational. This section is the GM's tool reference. The language is precise and the voice is direct.
 
 ---
 
-### Scene 4: Xanathar Guild Outposts
+### Scene 4: Xanathar's Guild Outposts
 
 **Purpose:** Present three Xanathar outposts as a linked intelligence chain, each one peeling back a layer of organized crime — a gentleman's clinic, an arms dealership, a confectioners' front over a duergar smuggling cellar. All three feed into **Xanathar's Lair**.
 
@@ -226,7 +226,7 @@ An eye-themed confectioners' shop — smallcakes, candied nuts, ocular sugar scu
 
 *Step 4 — The Operation.* Primary objective: locate and document the permanent teleportation circle to Kolat Towers. The circle is active. Stepping through it immediately means arriving at Kolat Towers unannounced and unprepared — a one-way trip that bypasses the force field, which is Yellowspire's entire value to Manshoon. Secondary: a crumpled note from Avareen, cross-referencing the Interrogation House. Tertiary: Agorn's pass-amulet to Kolat Towers, which he surrenders without hesitation in exchange for his life.
 
-*The Chirada Complication.* If the Gralhunds remain active following **Gralhund Villa**, Chirada may mount her own investigation of the tower, complicating the party's operation. She is not an enemy by default — she is a competing investigator following the same evidence trail. The DM determines whether she arrives during the operation, after it, or is dealt with beforehand based on whether the party noticed her during reconnaissance.
+*The Chirada Complication.* If the Gralhunds remain active following **Gralhund Villa**, Chirada may mount her own investigation of the tower, complicating the party's operation. She is not an enemy by default — she is a competing investigator following the same evidence trail. The GM determines whether she arrives during the operation, after it, or is dealt with beforehand based on whether the party noticed her during reconnaissance.
 
 *Step 5 — Getaway.* Amath fights with conviction; acolytes are less committed. Agorn flees. **Escalation: Manshoon moves to Suspicious (Tier 2) if the Interrogation House has not been hit; moves to Lockdown (Tier 4) if it has.** Agorn carries word to surviving Zhentarim contacts if he escapes. Response teams redeploy within 1d4 days.
 
@@ -364,7 +364,7 @@ Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the ba
 
 **Content:**
 
-*DM Checkpoint.* Before the debrief scene, the DM reviews: which outposts were hit, which documents were recovered, which NPCs were rescued or cultivated, and each faction's current escalation tier. This assessment determines which lair is most accessible (the faction with fewer hit outposts will have lower lair defenses) and which contacts have the most to offer.
+*GM Checkpoint.* Before the debrief scene, the GM reviews: which outposts were hit, which documents were recovered, which NPCs were rescued or cultivated, and each faction's current escalation tier. This assessment determines which lair is most accessible (the faction with fewer hit outposts will have lower lair defenses) and which contacts have the most to offer.
 
 *Mirt (Harpers).* Full intelligence briefing. If Xanathar outposts were hit, Mirt asks specifically about Nihiloor references — the Harper file on the mind flayer is extensive, and any new document strengthens the case for Watch action. If Cassalanter outposts were hit and the party brings the Mirror of the Fiend sigil identification, the Cassalanter cult documents, or the cultists' testimony, Mirt's response is: relief, then urgency. He has been building suspicion for years without evidence. What the party has found in one outpost run is more concrete than everything he gathered in three years of surveillance. "I knew it couldn't just be charity." He does not have enough to move on the Cassalanters legally — he needs **Cassalanter Villa** for that — but the calculus on Founders' Day has changed.
 
@@ -394,7 +394,7 @@ Malcolm Brizzenbright, the theater's ghost, is non-hostile. He appears in the ba
 
 Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a second chain earns intelligence, not points. The party remains 4th level through all of **Faction Outposts**, at 10 cumulative points. A party can attempt any lair heist (**Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, or **Kolat Towers**) after completing just one chain, or even none; this quest's outposts are the recommended on-ramp, not a hard gate. See the Milestone section in **Xanathar's Lair** (or any lair heist's) for how the heist phase carries the party from 4th to 7th level.
 
-*Transition.* The party holds enough intelligence to attempt at least one lair heist. The DM reviews each faction's escalation tier and communicates it through environmental detail: Dock Ward patrols are heavier than last tenday; a Castle Ward merchant notes that the old tower on the hill has gone dark; the Sea Maidens Faire hasn't performed in a week. Party chooses which lair first. **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** are available in any order.
+*Transition.* The party holds enough intelligence to attempt at least one lair heist. The GM reviews each faction's escalation tier and communicates it through environmental detail: Dock Ward patrols are heavier than last tenday; a Castle Ward merchant notes that the old tower on the hill has gone dark; the Sea Maidens Faire hasn't performed in a week. Party chooses which lair first. **Xanathar's Lair**, **Cassalanter Villa**, **Sea Maidens Faire**, and **Kolat Towers** are available in any order.
 
 *Founders' Day Clock.* This quest consumes two to four tendays. Founders' Day is 25–45 days away when the party enters the lair phase. The deadline enters the party's awareness through festival preparations appearing in the wards, Cassalanter documents referencing a family obligation in Flamerule, and contacts mentioning the Open Lord's Founders' Day calendar in passing.
 
@@ -412,7 +412,7 @@ Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a 
 
 5. **Player faction hooks gap-filled.** Enclave: infernal resonance confirmed as infernal but source unknown (→ Cassalanters). Gauntlet: Splinter intelligence trail (→ Manshoon). Force Grey: BD operational infrastructure (→ theater and message architecture).
 
-6. **Escalation baked-in.** Each outpost's Getaway section specifies the exact tier change, response team, and timeline. No DM judgment required between sessions.
+6. **Escalation baked-in.** Each outpost's Getaway section specifies the exact tier change, response team, and timeline. No GM judgment required between sessions.
 
 7. **Manshoon reveal sequence.** Name only at Interrogation House (*Directive to Zorbog*). Identity at **Kolat Towers**. Motivation at **Vault of Dragons**.
 
@@ -458,13 +458,13 @@ Total **Faction Outposts**: 1 Milestone Point, for the first completed chain; a 
 
 ## Modular Structure
 
-***The Problem of Non-Linear Content in a Linear Format.*** Every quest through **Gralhund Villa** moved in a single investigative current — a question asked, an investigation run, a confrontation resolved. **Faction Outposts** cannot function this way. Ten outposts in any order, at the party's discretion, cannot be scripted into a sequence without defeating the point. The nine-scene architecture is the solution: three framing scenes that run in order (Stone attunement, faction consultation, operational briefing), four faction sections that function as a menu, and two closing scenes that apply after the menu has been used. The faction sections are labeled as scenes to maintain the document's structural vocabulary — each has a Purpose, Content, and Tone — but the DM should understand that "Scene 4" does not mean "fourth in sequence." It means "this is the Xanathar section."
+***The Problem of Non-Linear Content in a Linear Format.*** Every quest through **Gralhund Villa** moved in a single investigative current — a question asked, an investigation run, a confrontation resolved. **Faction Outposts** cannot function this way. Ten outposts in any order, at the party's discretion, cannot be scripted into a sequence without defeating the point. The nine-scene architecture is the solution: three framing scenes that run in order (Stone attunement, faction consultation, operational briefing), four faction sections that function as a menu, and two closing scenes that apply after the menu has been used. The faction sections are labeled as scenes to maintain the document's structural vocabulary — each has a Purpose, Content, and Tone — but the GM should understand that "Scene 4" does not mean "fourth in sequence." It means "this is the Xanathar section."
 
 ***Two Tiers Prevent Two Failure Modes.*** If all ten outposts were mini-heists, the arc would stall for three to four sessions of planning-and-execution per outpost before the party reached any lair. If all ten were encounter-plus, the arc would lose the campaign's heist identity entirely. The tier split preserves both. Encounter-plus outposts provide intelligence efficiently and without extended planning friction. Mini-heist outposts apply the full framework to the four outposts warranting it: those that gate major resources (a lair entrance, a teleportation circle, the campaign's primary vault clue). Six encounter-plus and four mini-heist is the ratio that prevents fatigue while maintaining identity.
 
 ## Escalation Architecture
 
-***Baking In vs. Tracking.*** The Alexandrian's framework uses a five-stage escalation system requiring the DM to assess and advance stage between sessions. This guide's standing rule is that the DM must make no creative decisions between sessions that the text could make for them. Each outpost's Getaway entry is the implementation of that rule: it names exactly what changes (faction tier, response team, timeline), eliminating the DM's role as interpreter. Without it, lair defenses feel static regardless of how many outposts were hit, and player choices become invisible in their consequences. The baked-in system makes choices legible without requiring the DM to track them.
+***Baking In vs. Tracking.*** The Alexandrian's framework uses a five-stage escalation system requiring the GM to assess and advance stage between sessions. This guide's standing rule is that the GM must make no creative decisions between sessions that the text could make for them. Each outpost's Getaway entry is the implementation of that rule: it names exactly what changes (faction tier, response team, timeline), eliminating the GM's role as interpreter. Without it, lair defenses feel static regardless of how many outposts were hit, and player choices become invisible in their consequences. The baked-in system makes choices legible without requiring the GM to track them.
 
 ***Cross-Faction Spillover and the Xanathar–Manshoon War.*** The spillover rules — hitting Xanathar raises Manshoon's tier and vice versa — have a specific purpose beyond realism. They ensure that a party pursuing only one faction's chain still generates meaningful pressure across multiple fronts. A party that focuses entirely on Xanathar outposts will encounter Manshoon response teams without having engaged Manshoon directly, surfacing the inter-faction war as lived experience rather than exposition.
 

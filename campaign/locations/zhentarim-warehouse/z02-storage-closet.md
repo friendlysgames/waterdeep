@@ -11,10 +11,10 @@ Renaer won't emerge until the kenku are dealt with. If the party enters Z02 mid-
 Once the party clears the building, he comes out and speaks freely.
 
 **What he shares without prompting:**
-- Five Zhentarim grabbed him and Floon outside Old Xoblob Shop two nights ago
+- Five Zhentarim grabbed him and Floon outside Old Xoblob Shop last night
 - They brought both men here and questioned him about his father's embezzled hoard — gold Renaer refuses to help his father hide
 - They took his mourning locket; he believed it held a keepsake from his mother; he didn't know there was a compartment inside
-- The Xanathar Guild attacked before the interrogation went further; he slipped his bonds in the confusion and hid here
+- Xanathar's Guild attacked before the interrogation went further; he slipped his bonds in the confusion and hid here
 - He watched through a gap in the door as Xanathar agents dragged an unconscious Floon through Z01, out through the yard, and down the alley toward a sewer grate
 
 **What he doesn't know:** what the locket contained; where the Vault is; the Stone of Golorr's role in any of this. His ignorance is genuine.

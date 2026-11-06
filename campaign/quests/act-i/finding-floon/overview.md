@@ -26,11 +26,11 @@
 - **Durnan** (Masked Lords / independent) — innkeeper of the Yawning Portal; handles the troll; registers the party's competence
 - **Yagra Stonefist** (Doom Raiders) — Davil Starsong's bodyguard; present at the brawl; first Doom Raiders contact
 - **Ryvarra** (Bregan D'Aerthe) — drow field observer at the YP balcony; catalogues Undermountain traffic; unnamed in this quest
-- **Krentz** (Xanathar Guild) — thug leader Yagra confronts; eye-tattoos; may appear in the sewer hideout (Q05) if he survived Scene 1
+- **Krentz** (Xanathar's Guild) — thug leader Yagra confronts; eye-tattoos; may appear in the sewer hideout (Q05) if he survived Scene 1
 - **Renaer Neverember** (independent) — found in the Zhentarim Warehouse; knows the kidnapping backstory; key long-term ally
 - **Floon Blagmaar** (independent) — the rescue target; held in Q07 of the sewer hideout
 - **Urstul Floxin** (Manshoon's Zhentarim) — offscreen; led the kidnapping cell; already fled to Kolat Towers before the quest begins
-- **Nihiloor** (Xanathar Guild / Undermountain) — partial; observed briefly in Q07 before escaping through the Q11 portal; does not engage the party
+- **Nihiloor** (Xanathar's Guild / Undermountain) — partial; observed briefly in Q07 before escaping through the Q11 portal; does not engage the party
 
 ## Dangers & Enemies
 
@@ -46,10 +46,10 @@
 
 ## Overview
 
-A writer named Volo Geddarm hired the party to find his missing companion, Floon Blagmaar, last seen at a Dock Ward tavern two nights before. The party's first night in Waterdeep dropped them into a faction crossfire at the Yawning Portal: a bar brawl between Doom Raiders and Xanathar Guild operatives, then a troll emerging from the well, before Volo arrived and made his offer.
+A writer named Volo Geddarm hired the party to find his missing companion, Floon Blagmaar, last seen at a Dock Ward tavern last night. The party's first night in Waterdeep dropped them into a faction crossfire at the Yawning Portal: a bar brawl between Doom Raiders and Xanathar's Guild operatives, then a troll emerging from the well, before Volo arrived and made his offer.
 
 The Dock Ward investigation produced three independent paths to the perpetrators' identity and four to the warehouse address on Candle Lane. En route, they crossed a City Watch crime scene where Manshoon's Splinter Zhentarim thugs were under arrest — the aftermath of the same kidnapping that took Floon. The investigation established both Revelation #1 (who took Floon) and Revelation #2 (where to find them) before they reached the warehouse gate.
 
-Inside the warehouse, an Xanathar Guild raid had already wiped out Manshoon's cell. Four kenku were searching the wreckage. Floon wasn't there. The man they found was Renaer Neverember, the Open Lord's estranged son, grabbed by mistake and hidden in a back room when the raid hit. Renaer explained that Floon had been mistaken for him, dragged unconscious through a cellar trapdoor into the sewer below, and taken to an Xanathar Guild hideout following yellow chalk guildsigns. Three distinct leads confirmed the route.
+Inside the warehouse, a Xanathar's Guild raid had already wiped out Manshoon's cell. Four kenku were searching the wreckage. Floon wasn't there. The man they found was Renaer Neverember, the former Open Lord's estranged son, grabbed by mistake and hidden in a back room when the raid hit. Renaer explained that Floon had been mistaken for him, dragged unconscious through a cellar trapdoor into the sewer below, and taken to a Xanathar's Guild hideout following yellow chalk guildsigns. Three distinct leads confirmed the route.
 
 The sewer hideout — eleven rooms of a decommissioned vault beneath the Dock Ward — held Floon alive in the boss chamber. They cleared the hideout's guards and retrieved him. In the boss chamber, before it retreated, they saw Nihiloor: a mind flayer rising from its seat, setting something loose on the floor, and gliding purposefully through the far door toward a stone portal at the complex's western end. It pressed an orb to the pillar; a black doorway opened; it stepped through. The portal closed. They surfaced, delivered Floon to Volo, and received the deed to a derelict tavern in Trollskull Alley called Trollskull Manor. Trollskull Alley begins with that deed in hand.

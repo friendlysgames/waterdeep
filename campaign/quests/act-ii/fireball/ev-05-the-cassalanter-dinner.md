@@ -29,7 +29,7 @@ The villa sits in the Sea Ward behind an iron gate and a garden whose topiary ha
 
 She remembers every detail the party mentioned during Trollskull Alley — neighborhood politics, the state of the tavern, small personal observations the party may have already forgotten — and asks after them with genuine interest. She is not performing warmth; she possesses it in excess and deploys it without calculation.
 
-**DC 14 Wisdom (Insight):** She is watching to see how the party handles kindness, not suspicion. She is forming an opinion. The result of that opinion is Victoro's problem. A failed check produces no false read — the DM does not say she seems deceptive. She simply seems warm.
+**DC 14 Wisdom (Insight):** She is watching to see how the party handles kindness, not suspicion. She is forming an opinion. The result of that opinion is Victoro's problem. A failed check produces no false read — the GM does not say she seems deceptive. She simply seems warm.
 
 What she knows: the same as Victoro. She shares none of it. Her role at the table is to make the party comfortable enough that Victoro's question feels collaborative rather than predatory.
 

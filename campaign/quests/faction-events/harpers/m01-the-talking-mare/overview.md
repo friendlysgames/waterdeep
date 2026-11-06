@@ -36,7 +36,7 @@ Maxeene plays an ordinary horse in public. The party can see through the act, st
 
 ## What Maxeene Heard
 
-She carried a pale man with a carved wooden wand to an unmarked three-floor house on Shesstra Street in the Trades Ward, which has a red lantern in the upper window. Two days ago she also carried a sun elf and a half-orc woman who talked about hiring spies to find the Xanathar Guild's hideouts. She asks to leave the Dock Ward.
+She carried a pale man with a carved wooden wand to an unmarked three-floor house on Shesstra Street in the Trades Ward, which has a red lantern in the upper window. Two days ago she also carried a sun elf and a half-orc woman who talked about hiring spies to find Xanathar's Guild hideouts. She asks to leave the Dock Ward.
 
 ## The Watcher in the Coach
 

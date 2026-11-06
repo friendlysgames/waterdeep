@@ -14,7 +14,7 @@ The Cloak carries no token, because Jalester sends the new names to the Watch ho
 
 ## Departures
 
-The earlier draft cited the Candle Lane warehouse as a Xanathar Guild scene. The Finding Floon warehouse is the Splinter's dead cell with Guild kenku searching it, and Jalester's question now says which door the party used. Jalester, Laeral and every speaker say "the Splinter" until **Manshoon Named**. Jalester separates the cell upstairs from the Splinter without naming Jarlaxle, the carnival fleet or Kolat Towers. The corner table beside the well carries one GM line about something listening below, and that line does not name Illuun.
+The earlier draft cited the Candle Lane warehouse as a Xanathar's Guild scene. The Finding Floon warehouse is the Splinter's dead cell with Guild kenku searching it, and Jalester's question now says which door the party used. Jalester, Laeral and every speaker say "the Splinter" until **Manshoon Named**. Jalester separates the cell upstairs from the Splinter without naming Jarlaxle, the carnival fleet or Kolat Towers. The corner table beside the well carries one GM line about something listening below, and that line does not name Illuun.
 
 ## Invented Names and Open Items
 

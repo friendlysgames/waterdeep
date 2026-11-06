@@ -127,7 +127,7 @@ A character who speaks to Ossery or Emira in the taproom before their meetings c
 > - Why the Guild buys a dead investigator's papers.
 > - What the party might sell him instead.
 >
-> He will not discuss the Xanathar himself or what the Guild will do with the ledger.
+> He will not discuss the Xanathar itself or what the Guild will do with the ledger.
 
 > [!qna]**Who do you work for?**
 >

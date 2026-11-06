@@ -168,7 +168,7 @@ If the party also marked **Durnan Acknowledged**, add the following before she t
 > Players will ask why the owner of the most famous tavern in the city lets a Zhentarim cell work out of his upper floors. Durnan has several reasons, and all of them are practical.
 >
 > - **Davil pays.** Davil is a permanent resident who rents this room and the suite above it, and Durnan charges every paying guest the standard prices, whatever the guest does for a living. Durnan has no quarrel with the Doom Raiders, so he has no reason to turn away their money.
-> - **The Portal serves everyone.** The Xanathar Guild's thugs drink at Durnan's tables too, and he ejects them only when they start a fight. What a patron does elsewhere is the patron's business.
+> - **The Portal serves everyone.** Xanathar's Guild thugs drink at Durnan's tables too, and he ejects them only when they start a fight. What a patron does elsewhere is the patron's business.
 > - **The business stays behind the curtain.** The Doom Raiders lend money, hire out sword arms and trade information, and none of it is settled in the taproom. Istrid's collectors never call at the Portal.
 > - **Yagra keeps the door.** Her presence at the bar keeps out trouble that would otherwise follow Davil inside.
 > - **Two old adventurers understand each other.** Davil is a retired adventurer like Durnan, and neither asks the other about the past.
@@ -215,7 +215,7 @@ Once everyone has a glass and a chair, Davil begins.
 >
 > His smile fades a little, and he glances toward the curtain before he goes on.
 >
-> > "There is a complication, and I'd like you to hear it from me. A second cell of the Black Network has come to Waterdeep, and it isn't ours. It tried to take over the Xanathar Guild not long ago and failed, and the war it started has been running through the streets ever since. As far as we can tell, it's led by a man named Urstul Floxin. We want that cell gone, and I promise you the Watch does too, yes?"
+> > "There is a complication, and I'd like you to hear it from me. A second cell of the Black Network has come to Waterdeep, and it isn't ours. It tried to take over Xanathar's Guild not long ago and failed, and the war it started has been running through the streets ever since. As far as we can tell, it's led by a man named Urstul Floxin. We want that cell gone, and I promise you the Watch does too, yes?"
 
 > [!readaloud]
 >
@@ -255,7 +255,7 @@ Once everyone has a glass and a chair, Davil begins.
 >
 > The smile leaves his face while he talks.
 >
-> > "They come from the same Network we do, which is the embarrassing part. They arrived in Waterdeep with money and no manners, and they went after the Xanathar Guild before they'd learned who they were dealing with. When that failed, they took to the streets. Floxin is the name that keeps coming up, a large man in his forties who makes no effort to hide what he is."
+> > "They come from the same Network we do, which is the embarrassing part. They arrived in Waterdeep with money and no manners, and they went after Xanathar's Guild before they'd learned who they were dealing with. When that failed, they took to the streets. Floxin is the name that keeps coming up, a large man in his forties who makes no effort to hide what he is."
 
 > [!qna]**Does Floxin answer to someone?**
 >

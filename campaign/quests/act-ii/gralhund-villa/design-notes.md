@@ -20,9 +20,9 @@ The optional daytime escalation elements exist because the nighttime state provi
 
 The published Gralhund Villa chapter is a keyed dungeon: fixed NPC positions, a linear threat structure, a predetermined outcome. The Alexandrian's revision replaces this with adversary rosters: dynamic NPC positions that respond to PC actions and produce cascading reactions rather than static encounters.
 
-This quest follows that philosophy. The ten-beat raid timeline is a spine, not a script. The DM can drop the party into it at any beat, and party action can derail it entirely. Floxin does not inevitably succeed at anything. Jarlaxle's team arriving early changes the calculus. The party drawing the Barracks reinforcements away from Beat 9 may let Floxin hold the ground floor.
+This quest follows that philosophy. The ten-beat raid timeline is a spine, not a script. The GM can drop the party into it at any beat, and party action can derail it entirely. Floxin does not inevitably succeed at anything. Jarlaxle's team arriving early changes the calculus. The party drawing the Barracks reinforcements away from Beat 9 may let Floxin hold the ground floor.
 
-The DM running this quest should prepare the adversary rosters and understand each faction's goals, then play the situation as it develops.
+The GM running this quest should prepare the adversary rosters and understand each faction's goals, then play the situation as it develops.
 
 ## Jarlaxle's Test
 
@@ -46,7 +46,7 @@ If the chase fails and the Stone reaches a faction safe house, the campaign cont
 
 ## Optional Homebrew Escalation
 
-The daytime defense elements (animated armor, spell glyphs, proto-beholder) are sourced from community prep material and are not part of the Alexandrian Remix proper. They are included for DMs who find the standard household roster insufficient against a fully-equipped level 4 party during daytime entry.
+The daytime defense elements (animated armor, spell glyphs, proto-beholder) are sourced from community prep material and are not part of the Alexandrian Remix proper. They are included for GMs who find the standard household roster insufficient against a fully-equipped level 4 party during daytime entry.
 
 The proto-beholder in particular requires the boss-design skill to finalize. The concept is sound, but a stat block appropriate for this encounter needs proper CR math. Do not use a standard beholder. The antimagic cone at CR 13 would trivialize the party rather than challenge it.
 

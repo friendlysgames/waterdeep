@@ -14,7 +14,7 @@
 
 ### Dock Ward Environment
 
-Streets are dark — most streetlamps smashed, candles taken from doorways. Salt air and something worse underneath. Tall tenements press together until midday light barely reaches the cobblestones below. Yellow chalk eye-symbols mark a few alley walls for those who know them: DC 15 Wisdom (Perception) to spot; recognizing them as Xanathar Guild territory requires a DC 14 Intelligence (History) check or criminal/guild background.
+Streets are dark — most streetlamps smashed, candles taken from doorways. Salt air and something worse underneath. Tall tenements press together until midday light barely reaches the cobblestones below. Yellow chalk eye-symbols mark a few alley walls for those who know them: DC 15 Wisdom (Perception) to spot; recognizing them as Xanathar's Guild territory requires a DC 14 Intelligence (History) check or criminal/guild background.
 
 ### Revelation #1 — Who Took Floon and Renaer
 
@@ -28,7 +28,7 @@ These are **Manshoon's Splinter Zhentarim**. They report to Kolat Towers, not to
 
 #### Path B — Old Xoblob Shop
 
-**Xoblob** (deep gnome, Xanathar Guild informant, paranoid) witnessed the attack outside his own shop. He is reluctant; a bribe of any purple item or a DC 13 Charisma (Intimidation or Persuasion) check loosens him.
+**Xoblob** (deep gnome, Xanathar's Guild informant, paranoid) witnessed the attack outside his own shop. He is reluctant; a bribe of any purple item or a DC 13 Charisma (Intimidation or Persuasion) check loosens him.
 
 He describes five men in black leather armor grabbing Floon and a well-dressed companion outside his door. One had a winged snake tattoo on his neck. One of the attackers grabbed the companion's silver necklace — pendant shaped like a horse, or possibly a unicorn.
 
@@ -94,7 +94,7 @@ No attunements are awarded for this Event.
 >
 > #### Next Steps
 >
-> When the party has the Candle Lane warehouse address, proceed to the **Zhentarim Warehouse** Event. The warehouse is occupied by four kenku left by the Xanathar Guild — not Zhentarim. What the party expects to find and what they actually find are not the same thing.
+> When the party has the Candle Lane warehouse address, proceed to the **Zhentarim Warehouse** Event. The warehouse is occupied by four kenku left by Xanathar's Guild — not Zhentarim. What the party expects to find and what they actually find are not the same thing.
 
 ## Overview
 
@@ -106,4 +106,4 @@ The Dock Ward investigation leads through street crime scenes, a suspicious shop
 
 ## Summary
 
-The party investigated the Dock Ward and traced Floon Blagmaar's kidnapping to a warehouse on Candle Lane. The kidnappers wore Zhentarim tattoos. Xanathar Guild markings cover the ward's alley walls.
+The party investigated the Dock Ward and traced Floon Blagmaar's kidnapping to a warehouse on Candle Lane. The kidnappers wore Zhentarim tattoos. Xanathar's Guild markings cover the ward's alley walls.

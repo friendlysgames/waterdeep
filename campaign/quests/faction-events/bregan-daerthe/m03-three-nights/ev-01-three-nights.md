@@ -18,7 +18,7 @@
 >
 > Someone bound Ott in the iron bands of Bilarro and left him in the cellar of Trollskull Manor. The bands cannot be cut, picked, dispelled or forced open. Nobody knows who placed him there, including Ott and Bregan D'aerthe. The bands hold for three nights and then carry him away.
 >
-> Jarlaxle Baenre learned of the dwarf at dawn from the watchers he keeps on the alley and wrote the note himself. He wants to see what Xanathar spends to get his fishkeeper back. Fel'rekt Lafeen lies on the roof of the Bent Nail every night and counts on his fingers what comes through the doors. Fel'rekt never comes down, and if the party loses Ott, nobody in Bregan D'aerthe tries to recover him.
+> Jarlaxle Baenre learned of the dwarf at dawn from the watchers he keeps on the alley and wrote the note himself. He wants to see what Xanathar spends to get its fishkeeper back. Fel'rekt Lafeen lies on the roof of the Bent Nail every night and counts on his fingers what comes through the doors. Fel'rekt never comes down, and if the party loses Ott, nobody in Bregan D'aerthe tries to recover him.
 >
 > The attacks are the Guild's own. The bugbears are ordinary Guild muscle. Some of the four Dungsweepers carry intellect devourers from Nihiloor's stock. The Beholder Zombie is one of the lair's guard creatures. Ott knows the Guild's ways and tells the party what is coming when asked.
 >

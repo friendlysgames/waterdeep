@@ -18,7 +18,7 @@ In the center of the floor stands a stone pillar, roughly five feet tall and two
 
 **DC 14 Intelligence (Arcana):** This is a socket for a specific magical object: an activation mechanism. The portal's geometry is consistent with planar transit rather than teleportation.
 
-**DC 16 Intelligence (History):** The guildsign on the pillar is Xanathar's personal mark, the lidless eye symbol used by the Xanathar Guild. This specific arrangement (circle, ten spokes, indentation at center) appears in accounts of Xanathar's lair architecture. The pillar was placed here deliberately, as a fixed transit point.
+**DC 16 Intelligence (History):** The guildsign on the pillar is Xanathar's personal mark, the lidless eye symbol used by Xanathar's Guild. This specific arrangement (circle, ten spokes, indentation at center) appears in accounts of Xanathar's lair architecture. The pillar was placed here deliberately, as a fixed transit point.
 
 ### Xanathar's Lair Seed
 

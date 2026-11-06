@@ -8,7 +8,7 @@
 >
 > - The party navigates to the hideout using guildsign (three DC 13 Wisdom [Survival] checks; advantage if following guildsign from the alley entrance)
 > - A gazer guard blocks the junction midway — bypassed or defeated before reaching Q01
-> - The party infiltrates an eleven-room Xanathar Guild cell (Q01–Q11)
+> - The party infiltrates an eleven-room Xanathar's Guild cell (Q01–Q11)
 > - Floon is alive in Q07; Nihiloor flees through the Q11 portal before the party can engage it
 > - Q09 is a future Dock Ward resource (Trollskull Alley); Q11 is the Xanathar's Lair sewer-to-lair seed
 >
@@ -38,7 +38,7 @@ The party enters the sewers through the grate half a block east of the warehouse
 
 ### The Gazer
 
-Midway through the route, at a branching tunnel junction, a **gazer** (Xanathar Guild sentinel) watches the intersection. It is hostile and cannot be negotiated with.
+Midway through the route, at a branching tunnel junction, a **gazer** (Xanathar's Guild sentinel) watches the intersection. It is hostile and cannot be negotiated with.
 
 **Bypass:** Group DC 13 Dexterity (Stealth) check. On success, the party neutralizes or slips past the gazer without alerting the hideout.
 
@@ -46,7 +46,7 @@ Midway through the route, at a branching tunnel junction, a **gazer** (Xanathar 
 
 ### The Hideout — Q01 to Q11
 
-The complex is an eleven-room Xanathar Guild cell built into a decommissioned sewer vault. No natural light; goblins rely on darkvision. All interior doors are unlocked. Grum'shar assumes only those with guild business reach this place.
+The complex is an eleven-room Xanathar's Guild cell built into a decommissioned sewer vault. No natural light; goblins rely on darkvision. All interior doors are unlocked. Grum'shar assumes only those with guild business reach this place.
 
 Alert state (goblins awake) is set by the navigation result and the gazer encounter. Refer to the **Xanathar Sewer Hideout** journal for keyed room entries describing both states.
 
@@ -110,7 +110,7 @@ Floon is found alive in Q07 (1 hp) and survives the quest. He doesn't know why h
 
 #### Nihiloor Sighted: True / False
 
-The party witnessed a mind flayer in the Xanathar Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Xanathar's Lair.
+The party witnessed a mind flayer in the Guild's sewer cell. They don't yet know what it is. This attunement pays off when the mind flayer's role in the Grand Game surfaces in Xanathar's Lair.
 
 #### Trollskull Deed Accepted: True / False
 
@@ -130,7 +130,7 @@ The party holds legal title to a derelict tavern at 10 Trollskull Alley, North W
 
 ## Overview
 
-The sewers beneath the Dock Ward lead to an Xanathar Guild hideout carved into a decommissioned vault. Floon Blagmaar is alive inside. Barely. So is something else, something that leaves before the party can engage it.
+The sewers beneath the Dock Ward lead to a Xanathar's Guild hideout carved into a decommissioned vault. Floon Blagmaar is alive inside. Barely. So is something else, something that leaves before the party can engage it.
 
 ## Read Aloud
 
@@ -138,4 +138,4 @@ The sewers beneath the Dock Ward lead to an Xanathar Guild hideout carved into a
 
 ## Summary
 
-The party navigated the Dock Ward sewers to an Xanathar Guild hideout, rescued Floon Blagmaar from the boss chamber, and witnessed a mind flayer escape through a stone portal. Volo paid with a deed to a derelict tavern called Trollskull Manor in the North Ward.
+The party navigated the Dock Ward sewers to a Xanathar's Guild hideout, rescued Floon Blagmaar from the boss chamber, and witnessed a mind flayer escape through a stone portal. Volo paid with a deed to a derelict tavern called Trollskull Manor in the North Ward.

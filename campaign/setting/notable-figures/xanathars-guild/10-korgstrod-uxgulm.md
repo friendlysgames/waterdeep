@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Korgstrod enlarges himself, presses forward, and uses his whip to position the kobolds he expects to die first. He does not retreat from his own hideout.
 
-**Relationships.** Korgstrod is the duergar leader of the Orb Confectioners sewer hideout, the Xanathar Guild's second response team leader, the holder of a convincing fake Stone of Golorr, and the commander of a kobold retinue whose continued employment is contingent on not being in his field of vision when things go wrong.
+**Relationships.** Korgstrod is the duergar leader of the Orb Confectioners sewer hideout, the second response team leader of Xanathar's Guild, the holder of a convincing fake Stone of Golorr, and the commander of a kobold retinue whose continued employment is contingent on not being in his field of vision when things go wrong.
 
 ## Overview
 

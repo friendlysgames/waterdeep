@@ -16,7 +16,7 @@ Manshoon is a centuries-old wizard, a clone of a clone of the original Black Net
 
 The 500,000 gold dragons matter for what they buy: a private army, bribed magisters, time. Two Masked Lords on the Council are already compromised — Corylus Thann through scandal, Jelenn Urmbrusk through debt — and voting Manshoon's way without knowing why their interests have aligned. This leverage is his most carefully guarded intelligence. A character who brings evidence of the blackmail to Laeral Silverhand or the full Lords' Council collapses Manshoon's political position immediately, which is why the documentation lives at Kolat Towers and nowhere else.
 
-He keeps a simulacrum in Kolat Towers while the original Manshoon watches from safer ground. His approach reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction. This is deliberate. Drawing too much attention is the one mistake Manshoon won't make twice.
+He keeps a simulacrum in Kolat Towers while Manshoon watches from safer ground. His approach reflects his temperament: precision, patience, no unnecessary violence. The Zhentarim response teams are the weakest in raw muscle of any faction. This is deliberate. Drawing too much attention is the one mistake Manshoon won't make twice.
 
 ## Key Members
 

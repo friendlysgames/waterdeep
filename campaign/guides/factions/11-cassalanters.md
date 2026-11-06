@@ -2,9 +2,9 @@
 
 Game mechanics for running the Cassalanters as a villain faction. For who they are, see the **Cassalanters** organization page.
 
-## The Soul Pact: Active vs. Passive Mode
+## Grand Game Stance
 
-The Cassalanters' posture in the Grand Game shifts based on whether the party has agreed to work for them. The soul pact has a hard deadline on Flamerule 11, the twins' ninth birthday, and until that date the family needs the Stone of Golorr. Whether the party becomes an asset or a threat shapes how they pursue it.
+The Cassalanters' posture in the Grand Game shifts based on whether the party has agreed to work for them. The soul pact comes due on Flamerule 11, the twins' ninth birthday, which is the contract's due date. Flamerule 1, Founders' Day, is the feast and the real deadline, and until then the family needs the Stone of Golorr. Whether the party becomes an asset or a threat shapes how they pursue it.
 
 If the party agreed to help, the Cassalanters go quiet. With the characters in the field as their agents, drawing attention to themselves risks unraveling the arrangement. The Cassalanters may dispatch Seffia's team if the party requests backup or if they need to insert themselves without appearing to act. Willifort keeps tabs on the characters from a distance, reporting to Ammalia, and the family's response apparatus holds.
 
@@ -38,11 +38,13 @@ From the North Ward side of Aveen Street, an unremarkable residence. A second wa
 
 *Area 8 — The Hell Cyst.* The ancient lower level holds a glowing ball of hellish red light cradled in a stone niche. Leaning close reveals a distorted view through a literal pinprick of Hell. No traversal or communication is possible, but the cyst focuses demonic rites conducted above.
 
+The numbering skips Area 3. There is no Area 3, and the roster lists none.
+
 The apprentice wizard in Area 2 carries *Instructions from Lord Cassalanter*, directing that the next pair of summoned Imps be sent to surveil the Sea Maidens Faire.
 
 **Roster:** 1 **Cultist Fanatic** + 2 **Imps** (Area 1) | 1 **Apprentice Wizard** + 2 **Imps** (Area 2) | 2 **Cultist Fanatics** (Area 4).
 
-**Escalation:** Cassalanters move to Alert (Tier 3). Imp survivors report to the family within hours; Seffia's team deploys within 2 days. If Bregan D'aerthe outposts have also been hit, the Cassalanters flag the party as a threat to their Faire surveillance arrangement. **Founders' Day Clock (Flamerule 1): 1–2 days.**
+**Escalation:** Cassalanters move to Alert (Tier 3). Imp survivors report to the family within hours; Seffia's team deploys within 2 days. If Bregan D'aerthe outposts have also been hit, the Cassalanters flag the party as a threat to their Faire surveillance arrangement. **Founders' Day Clock (Flamerule 1): 1–2 days.** The clock is the number of in-game days the operation takes out of the time left before Founders' Day; the Windmill's 3–5 days is counted the same way.
 
 ### Converted Windmill — Mini-Heist (Southern Ward, Coachlamp Lane)
 
@@ -70,7 +72,7 @@ Use the Summer version of the Converted Windmill (DH p. 88). Arn Xalrondar and S
 | Alert | Seffia's team in passive mode; Seffia and Willifort combined in hostile mode. |
 | Lockdown | Bearded devil called up; Willifort targets a party ally to create leverage. Cassalanters exhaust city leverage first (Watch reports, noble complaints, guild sanctions), then infernal force. |
 
-The Cassalanters' escalation is binary. In passive mode, the soul-pact arrangement gives the family every reason to keep the party alive and useful, and they barely react to incidental threats. Hostile mode skips directly to Willifort's full operation. The switch is the party refusing to help or being identified as a threat to the pact before Flamerule 11.
+The Cassalanters' escalation runs through the four tiers above, and their stance (passive or hostile) decides how each tier plays. In passive mode, the soul-pact arrangement gives the family every reason to keep the party alive and useful, and they barely react to incidental threats. Hostile mode skips directly to Willifort's full operation. The switch is the party refusing to help or being identified as a threat to the pact before Flamerule 11.
 
 ## Revelation List
 

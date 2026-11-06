@@ -69,7 +69,7 @@ Never let the voices bleed. GM advice does not slip into lore narration, and lor
 > *Brevin is one of the first of a new type of settlement known as "seed settlements."*
 > *The Vile Dragon known as **Zerranyss** is the principal antagonist and central villain of our story.*
 
-Waterdeep form: *"The Xanathar Guild is the largest criminal organization in Waterdeep's sewers, and the only one run by a beholder."*
+Waterdeep form: *"Xanathar's Guild is the largest criminal organization in Waterdeep's sewers, and the only one run by a beholder."*
 
 After the first sentence, `ttrpg-sourcebook-style` governs participial and concessive openers and consequence-layering, and `ember-voice` governs rhythm: long, accumulative sentences of 25–35 words, and no short landing sentence.
 
@@ -112,12 +112,12 @@ Ember's signature device is the in-world historian's **signed first-person aside
 > *I've often spoken with Alar about her own creation … She believes she was formed before the Weave even took shape, speaking of those void-black memories with a terrifying glint in her golden eyes.*
 > *~Laeora*
 
-**In this campaign the historian is Volothamp Geddarm**, the author of *Volo's Guide to Monsters*, who appears in the Yawning Portal at the campaign's opening. His asides are vain, well-traveled, name-dropping, and not always reliable. That suits a campaign about secrets.
+**In this campaign the historian is Volothamp Geddarm**, the author of *Volo's Guide to Monsters*, who appears in the Yawning Portal at the campaign's opening. His asides are vain, well-traveled, name-dropping, and not always reliable. That suits a campaign about secrets. **Write every aside, and anything else Volo writes, in his written voice**: see "Volo's written voice" in `character-voices` (`voices/independents-allies.md`), modeled on his own *Volo's Guide to Cormyr*. In short: he addresses the reader, undercuts himself in a parenthesis, gives specific advice, prices or ratings, marks hearsay as hearsay, and learned it by getting into trouble.
 
 Rules:
 - **At most one aside per major entry** (deity, faction, ward, era). None on minor entries.
 - Placed **after one or two paragraphs** of third-person narration, as a blockquote signed `~Volo`.
-- 1–4 sentences, first person, with a personal detail the third-person prose could not know or would not say.
+- 2–5 sentences, first person, with a personal detail the third-person prose could not know or would not say. At most two parentheses, and no punchline closer.
 - The aside **never contains a GM secret**. Players may read it. Volo may be wrong; the GM Notes say where.
 - The aside replaces the closing folk quote from `ttrpg-sourcebook-style` on any entry that has one. Use one in-world voice per entry, not two. Gazetteer places and minor entries keep the folk quote if they need an in-world voice.
 

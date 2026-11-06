@@ -12,7 +12,7 @@ Two hard deadlines shape the campaign's second half. They fall in different mont
 
 **Tarsakh 20 — Sea Maidens Faire departure.** Jarlaxle departs Waterdeep aboard the *Sea Maidens Faire* fleet at dawn on Tarsakh 20. After that date, the **Sea Maidens Faire** alliance path is no longer available and the faction relationship defaults to adversarial. This is the **Sea Maidens Faire** deadline only; it has no connection to **Cassalanter Villa**.
 
-**Flamerule 1 — Founders' Day.** The city-wide holiday commemorating Waterdeep's founding as a unified city. The Cassalanter infernal contract's fulfillment window opens on this date. The twins' ninth birthday — the actual sacrifice deadline — falls one tenday later, on Flamerule 11. PCs who have not disrupted the contract before Flamerule 11 arrive to find the ceremony already completed.
+**Flamerule 1 — Founders' Day.** The city-wide holiday commemorating Waterdeep's founding as a unified city. The Cassalanters hold their charity feast on this date, and it is the party's real deadline. The twins' ninth birthday, when the infernal contract comes due, falls ten days later, on Flamerule 11. PCs who have not stopped the feast by Flamerule 1 find the ninety-nine souls already poisoned.
 
 **Tavern impact (Founders' Day):** Founders' Day is one of the highest-revenue days of the year. Foot traffic doubles across the North Ward as civic ceremonies and street celebrations draw crowds; taverns throughout the city — including Trollskull Alley — see dramatically increased walk-in custom. The Grand Game factions are all active in the streets. Revenue Roll for this day uses the Fame bonus as if Fame were 20 points higher, and the Events table roll is mandatory rather than optional.
 
@@ -24,7 +24,7 @@ By the time the Grand Game reaches its active phase, the tavern's status matters
 
 - **Harpers** may use it as a casual dead-drop point (rotating books via Rishaal).
 - **Doom Raiders** (if not hostile) may send a Response Team to drink and tip — showing normalcy. They know where you live. For now, that doesn't trouble them.
-- **Xanathar Guild** has no specific interest in the tavern, but a Guild operative may follow a target inside. This is the Guild's version of not caring about the tavern.
+- **Xanathar's Guild** has no specific interest in the tavern, but a Guild operative may follow a target inside. This is the Guild's version of not caring about the tavern.
 - **Bregan D'aerthe**, through Jarlaxle, finds the tavern charming. He has a table reserved — the party doesn't know this yet. He begins appearing occasionally in a different disguise each time.
 
 ### The Tavern and Undermountain (Post-Act IV)
