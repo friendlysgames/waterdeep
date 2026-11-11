@@ -88,7 +88,7 @@ Deneir is the god of writing, known as the First Scribe, a neutral good power wh
 
 - **Oghma** (Deities): the god Deneir serves, and the owner of the Font of Knowledge where his priests most likely work.
 - **Milil** (Deities), **Gond** (Deities): the other Deities of Knowledge and Invention.
-- **Mystra**, **Azuth** (Deities), **Savras** (Deities, page planned): the gods of magic who favor him in the wiki's 3e account.
+- **Mystra**, **Azuth** (Deities), **Savras** (Deities): the gods of magic who favor him in the wiki's 3e account.
 - **Lathander** (Deities): an ally, and the god of creativity that other artists follow instead.
 - **Lliira** (Deities): an ally who likes to tease him.
 - **Cyric**, **Mask**, **Shar**, **Malar**, **Talos** (Deities): the powers he opposes.

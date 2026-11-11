@@ -100,7 +100,7 @@ Milil is the Lord of Song, a neutral good god of poetry, eloquence and song whos
 - **Lliira** (Deities): his friend in the wiki accounts, and a goddess whose Grand Revel on Alturiak 14 shares a name with his Midsummer holiday.
 - **Mystra** (Deities): a god on very good terms with him in the wiki accounts.
 - **Cyric** (Deities): the god who became his enemy after the mocking ballad.
-- **Sune** (Deities, page planned): another friend, and a leader of the Alturiak 14 Grand Revel in *Dragon Heist*.
+- **Sune** (Deities): another friend, and a leader of the Alturiak 14 Grand Revel in *Dragon Heist*.
 - **Timekeeping and the Festival Calendar** (History): Midsummer and the campaign window.
 - **Staff and Hiring**, **Fame** (Trollskull Manor guide): Lysa of the White Lute and her effect on the tavern's Fame.
 

@@ -108,7 +108,7 @@ Tempus is the god of war, called the Lord of Battles and the Foehammer, and his 
 
 ## Cross-References
 
-- **The Red Knight** (Deities, page planned): the goddess of strategy whose ascension he sponsored and who looks to him as a father.
+- **The Red Knight** (Deities): the goddess of strategy whose ascension he sponsored and who looks to him as a father.
 - **Gond**, **Beshaba**, **Eldath**, **Sune** (Deities): his friend, his former lover and the two goddesses who differ from him.
 - **Selûne**, **Shar**, **Lathander** (Deities): the powers of the primordial clashes behind his rise and the 1345 DR unrest.
 - **Valkur**, **Eilistraee** (Deities, pages planned): a casual friend and the goddess whose followers call him the Butcher.
@@ -133,5 +133,4 @@ Tempus is the god of war, called the Lord of Battles and the Foehammer, and his 
 > - **Named worshipers:** None. A Grep of `campaign/` for Tempus returns only the gazetteer note and other Deities pages. Meloon Wardragon's page names no deity, so the page names no worshiper.
 > - **Names with no page:** Garagos, Uthgar and Nobanion are not on the roster, and Eldan Ambrose and the Abbey of the Sword are wiki-only, so all are plain text. Zardoz Zord has no Notable Figures page and appears only in quest files.
 > - **Left out:** The wiki's Description and Personality sections, since the template has no Appearance section. The insult "Slowhammer". The 3e and 4e wiki domains, the 4e channel divinity and the 1e Northmen row. The Moonshae Northlanders' worship of him as a god of storms and plunder. The Baldur's Gate III prayer. Chosen, since the campaign has none.
-> - **Pages that still say "page planned":** `campaign/setting/deities/gond.md:112`, `eldath.md:103`, `sune.md:104` and `beshaba.md:100` list Tempus as a planned page. Drop the note when this page lands.
 > - **Not run:** `voicecheck.py` was not run, since this drafting agent has no shell. The main session runs it.

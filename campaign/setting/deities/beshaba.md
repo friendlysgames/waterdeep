@@ -97,7 +97,7 @@ Beshaba is the chaotic evil goddess of misfortune, whom Waterdhavians know as La
 
 - **Tymora** (Deities): her twin sister and sworn enemy, born from the same goddess.
 - **Lathander** (Deities): his schemes are the wiki's cause of the Dawn Cataclysm, and Tyche was his earlier lover.
-- **Selûne**, **Tempus**, **Talos** (Deities, pages planned): the friend who split Tyche, the god who was her lover, and the god she turned down.
+- **Selûne**, **Tempus**, **Talos** (Deities): the friend who split Tyche, the god who was her lover, and the god she turned down.
 - **Timekeeping and the Festival Calendar** (History): the Reign of Misrule among the days after the window.
 
 > **[GM]**

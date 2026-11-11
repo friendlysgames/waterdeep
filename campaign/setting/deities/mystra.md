@@ -110,7 +110,7 @@ Mystra is the goddess of magic and of the Weave, the force from which every spel
 
 ## Cross-References
 
-- **Azuth**, **Savras** (Deities, pages planned): the wizards she raised to godhood, and the rivalry that ended with Savras in the Scepter.
+- **Azuth**, **Savras** (Deities): the wizards she raised to godhood, and the rivalry that ended with Savras in the Scepter.
 - **Oghma**, **Gond**, **Milil**, **Deneir** (Deities): the cadre she worked with, and the rival among them.
 - **Kelemvor**, **Selûne** (Deities): traditional allies of her Knights.
 - **Cyric** (Deities): the foremost enemy of her Knights and the god blamed for her murder.
