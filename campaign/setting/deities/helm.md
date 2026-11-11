@@ -47,7 +47,7 @@
   - He is a very old god. In 1358 DR, during the Time of Troubles, Lord Ao left him his full powers and set him to guard the Celestial Stairway, so that no god could return to the heavens without the stolen Tablets of Fate (*Forgotten Realms Campaign Setting*, 3e; FRHoF and SCAG agree on the guard duty).
   - When Mystra tried to force her way past him that Midsummer, he destroyed her in an explosion above Castle Kilgrave, north of Arabel (*Faiths & Avatars*, 2e). Gods and mortals alike held him in great contempt afterward, though his following stayed strong in the south.
   - After the Time of Troubles his worship faltered. It suffered further when his priests helped conquer Maztica (*Forgotten Realms Campaign Setting*, 3e).
-  - In 1384 DR he carried messages between Tyr and Tymora while the two courted. A misunderstanding led Tyr to accuse him of stealing Tymora's heart, and Tyr killed him in a duel. Cyric is suspected of arranging it (*The Grand History of the Realms*, 4e; FRHoF).
+  - In 1384 DR he carried messages between Tyr and Tymora while the two courted. A misunderstanding led Tyr to accuse him of stealing Tymora's heart, and Tyr killed him in a duel. Cyric is suspected of arranging it (*The Grand History of the Realms*, 4e; FRHoF), and *Dragon* 381 (4e) states that he did.
   - His worship never faded. His followers believed the Watcher could not be vanquished, and his return after the Second Sundering proved them right (FRHoF). The wiki dates his reappearance to Nightal 1486 DR, before his Chosen Kleef Kenric (*The Sentinel*, novel).
 - **In the campaign:** Helm is alive and present in 1492 DR. His temple is a working temple, his healers treat the poor, and no file treats him as dead or absent. The duel is history (see Draft Notes).
 

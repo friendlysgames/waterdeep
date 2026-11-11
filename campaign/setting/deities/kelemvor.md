@@ -106,8 +106,8 @@ Kelemvor is the lawful neutral god of the dead, and Waterdhavians call him the J
 ## Cross-References
 
 - **Asmodeus** (Deities): the priests who pitch the Fugue Plane wait against his judgment.
-- **Myrkul**, **Cyric**, **Jergal** (Deities, pages planned): the gods of the dead who came before him, and Jergal, who serves him.
-- **Mask** (Deities, page planned): the god disguised as the sword Godsbane in the wiki account.
+- **Myrkul**, **Cyric**, **Jergal** (Deities): the gods of the dead who came before him, and Jergal, who serves him.
+- **Mask** (Deities): the god disguised as the sword Godsbane in the wiki account.
 - **Talona** (Deities, page planned): the goddess whose diseases cause deaths he opposes.
 - **Mystra** (Deities): the goddess Midnight became, his mortal companion, and an ally of his order.
 - **Lathander**, **Helm** (Deities): allies against the undead.
