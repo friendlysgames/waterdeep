@@ -96,12 +96,12 @@ Cyric is the god of lies, called the Prince of Lies and the Dark Sun, and he is 
 - **Mystra** (Deities): the goddess he is blamed for killing, and the power whose Knights hunt his shrines.
 - **Shar** (Deities): his ally in the wiki's 1385 DR account.
 - **Tyr**, **Lathander** (Deities): two of the three powers who imprisoned him in the wiki's account.
-- **Sune** (Deities, page planned): the third.
+- **Sune** (Deities): the third.
 - **Helm** (Deities): the god he is said to have had killed in 1384 DR.
 - **Torm**, **Oghma**, **Deneir**, **Siamorphe** (Deities): powers that oppose him.
 - **Gond** (Deities): the god whose armor he commissioned in 1368 DR.
 - **Azuth** (Deities): the god whose staff, in the wiki's account, killed Mystra.
-- **Kelemvor**, **Myrkul**, **Bane**, **Bhaal**, **Mask**, **Leira**, **Jergal** (Deities, pages planned): the powers whose portfolios, worshipers or fates tie to his rise.
+- **Kelemvor**, **Myrkul**, **Bane**, **Bhaal**, **Mask**, **Leira**, **Jergal** (Deities): the powers whose portfolios, worshipers or fates tie to his rise.
 - **The Founding of Chains** (History): the one campaign line that names him.
 - **Timekeeping and the Festival Calendar** (History): Gods' Day and Liar's Night.
 - **Manshoon's Zhentarim** (Organizations): the Network that began in Zhentil Keep, the city the history line concerns. No file ties it to Cyric.

@@ -104,9 +104,9 @@ Siamorphe is the demigod of nobility, and her worship is strongest among the nob
 - **The Shrine on Aveen Street**, **Whitehawk** (Order of the Gauntlet missions and rank event): where the party receives the holy symbol.
 - **Asmodeus** (Deities): the power whose temple stands where hers was.
 - **Tyr** (Deities): the 1384 DR quarrel.
-- **Sune** (Deities, page planned): the goddess who sheltered her after the quarrel.
+- **Sune** (Deities): the goddess who sheltered her after the quarrel.
 - **Tymora** (Deities): the goddess Tyr courted after it.
-- **Amaunator** (Deities, page planned): the power she serves in 4e.
+- **Amaunator** (Deities): the power she serves in 4e.
 - **Bane**, **Cyric** (Deities): the powers she opposes.
 - **Lathander** (Deities): Victoro's public cover.
 - **Waukeen** (Deities): Waukeentide, the tenday honoring her, is when the Cassalanters hold their public galas.

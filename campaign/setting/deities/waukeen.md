@@ -113,9 +113,9 @@ Waukeen, the Coinmaiden, is the goddess of trade and wealth, and merchants, cara
 - **Helm** (Deities): the guardian of the Celestial Stairway whom she tried to bribe.
 - **Lliira**, **Gond**, **Shaundakul** (Deities, pages planned): her ally, her supporter among the gods, and the god of travelers and caravans.
 - **Mask**, **Graz'zt** (Deities, pages planned): her enemies, the god of thieves and the demon lord who imprisoned her.
-- **Leira** (Deities, page planned): the goddess buried under molten gold in the Leiruin tale.
-- **Tymora**, **Sune** (Deities, pages planned): two of the four powers who share her realm in the 3e books.
-- **Amaunator** (Deities, page planned): the sun god whose palace her realm surrounds in the 4e books.
+- **Leira** (Deities): the goddess buried under molten gold in the Leiruin tale.
+- **Tymora**, **Sune** (Deities): two of the four powers who share her realm in the 3e books.
+- **Amaunator** (Deities): the sun god whose palace her realm surrounds in the 4e books.
 - **Shar** (Deities): the goddess whose priest Midna Tauberth wears Waukeen's symbol.
 - **Siamorphe** (Deities): her page points here for Waukeentide.
 - **The Cassalanters** (Organizations): the family that hosts the public galas.

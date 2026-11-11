@@ -115,7 +115,7 @@ Bane, the Black Hand, is the lawful evil god of tyranny. Waterdhavians remember 
 - **Asmodeus** (Deities): keeps a pact with him in the wiki account.
 - **Malar** (Deities): sometimes worked beside him.
 - **Myrkul**, **Bhaal**, **Jergal** (Deities): the Dead Three, and the god of death they absorbed.
-- **Cyric**, **Loviatar**, **Talona**, **Mask**, **Amaunator** (Deities, pages planned): his rival, allies and enemy in the wiki account.
+- **Cyric**, **Loviatar**, **Talona**, **Mask**, **Amaunator** (Deities): his rival, allies and enemy in the wiki account.
 - **Maglubiyet**, **Tiamat** (Deities, pages planned): servants he brought under his rule.
 - **Manshoon's Zhentarim** (Organizations): the cell Amath is allied with.
 - **The Zhentarim (Doom Raiders)** (Organizations): the other cell, which robs her tower.

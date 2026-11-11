@@ -106,7 +106,7 @@ Helm is the lawful neutral god of watchfulness and protection. Guards, bodyguard
 - **Tymora** (Deities): the goddess whose courtship with Tyr set off the duel.
 - **Mystra** (Deities): the goddess Helm destroyed at the Celestial Stairway.
 - **Lathander** (Deities): the Morninglord Helm resents over the Dawn Cataclysm.
-- **Bane**, **Cyric**, **Mask**, **Shar**, **Malar**, **Talos** (Deities, pages planned): the powers he opposes.
+- **Bane**, **Cyric**, **Mask**, **Shar**, **Malar**, **Talos** (Deities): the powers he opposes.
 - **The Order of the Gauntlet** (Organizations): the faction that uses his temple.
 - **Savra Belabranta** (Notable Figures): the Order's contact, who vouches for members at the temple.
 - **Castle Ward** (Gazetteer): the ward of the Temple of Helm in the campaign.

@@ -101,7 +101,7 @@ Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people 
 
 - **Waukeen** (Deities): the friend whose portfolio and church Lliira held in trust.
 - **Tymora**, **Deneir**, **Oghma**, **Helm** (Deities): an ally who shares Brightwater in the 3e books, two allies, and the guardian of the Celestial Stairway.
-- **Sune**, **Milil**, **Leira**, **Shar**, **Loviatar** (Deities, pages planned): the goddess she served, her best friend, the goddess of the false murder rumor, the corrupter of Sharess, and the power whose followers her knights fight.
+- **Sune**, **Milil**, **Leira**, **Shar**, **Loviatar** (Deities): the goddess she served, her best friend, the goddess of the false murder rumor, the corrupter of Sharess, and the power whose followers her knights fight.
 - **Timekeeping and the Festival Calendar** (History): the date of Lliira's Night and the ten days between Founders' Day and the birthday.
 - **Cassalanter Villa** (quest): the quest whose Founders' Day deadline opens the ten days that hold Lliira's Night.
 

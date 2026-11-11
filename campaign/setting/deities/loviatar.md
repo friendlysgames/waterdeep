@@ -83,7 +83,7 @@ Loviatar is the goddess of pain, called the Maiden of Pain, and her symbol is a 
 
 ## Cross-References
 
-- **Bane**, **Bhaal**, **Talona** (Deities, pages planned): the god she serves and favors, the god she served before the Time of Troubles, and her rival.
+- **Bane**, **Bhaal**, **Talona** (Deities): the god she serves and favors, the god she served before the Time of Troubles, and her rival.
 - **Malar**, **Shar** (Deities): the power she was affiliated with and the goddess she served for a time.
 - **Ilmater**, **Eldath**, **Lliira** (Deities): the powers she opposes. Ilmater's followers shelter her victims, and Eldath and Lliira offer rewards without suffering.
 - **Dungeon of the Mad Mage** (published adventure): the Tower of the Seven Woes.

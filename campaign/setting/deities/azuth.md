@@ -108,7 +108,7 @@ Azuth is the god of wizardry, a lawful neutral power whom the faithful call the 
 
 - **Mystra** (Deities): the goddess he served, and the page that records the wiki account of his sponsorship.
 - **Asmodeus** (Deities): the archdevil who held him in a shared body in the wiki account.
-- **Oghma**, **Deneir**, **Leira** (Deities, pages planned): his allies, and Oghma is the one the FRHoF names as a friend.
+- **Oghma**, **Deneir**, **Leira** (Deities): his allies, and Oghma is the one the FRHoF names as a friend.
 - **Savras** (Deities, page planned): the demigod he imprisoned in the Scepter and later freed.
 - **Trades Ward** (Waterdeep lore): the ward of the Court of the White Bull.
 

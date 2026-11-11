@@ -90,7 +90,7 @@ Bhaal is the Lord of Murder, the god of assassins and killers, and one of the De
 - **Mask** (Deities): his avatar, in the form of the sword Godsbane, was the weapon that killed him in the wiki account.
 - **Tyr**, **Helm**, **Ilmater**, **Lathander** (Deities): four of the powers the wiki lists among his foes.
 - **Lliira**, **Chauntea** (Deities): two more of the foes the wiki lists.
-- **Talona**, **Loviatar** (Deities, pages planned): the goddesses who served him in the wiki account.
+- **Talona**, **Loviatar** (Deities): the goddesses who served him in the wiki account.
 - **Timekeeping and the Festival Calendar** (History): the Feast of the Moon and Gods' Day.
 
 > **[GM]**
