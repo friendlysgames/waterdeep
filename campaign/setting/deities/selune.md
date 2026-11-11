@@ -101,11 +101,11 @@ Selûne, the Moonmaiden, is the goddess of the moon, navigation and motherhood, 
 
 ## Cross-References
 
-- **Shar** (Deities, page planned): her twin and eternal enemy, and the power behind the Vanrakdoom cult.
+- **Shar** (Deities): her twin and eternal enemy, and the power behind the Vanrakdoom cult.
 - **Mystra** (Deities): her greatest ally against Shar.
 - **Lathander** (Deities): an ally, and the other temple on Keresta's map.
 - **Sune**, **Lliira**, **Eilistraee**, **Shaundakul**, **Valkur**, **Chauntea**, **Eldath**, **Tymora**, **Corellon** (Deities, pages planned): the allies the wiki names.
-- **Beshaba** (Deities, page planned): the other goddess born when she split Tyche.
+- **Beshaba** (Deities): the other goddess born when she split Tyche.
 - **Mask**, **Umberlee** (Deities, pages planned): the foes the wiki and the Swords of the Lady name.
 - **Timekeeping and the Festival Calendar** (History): the calendar, with the Feast of the Moon.
 - **Dungeon of the Mad Mage** (published adventure, Undermountain future work): Vanrakdoom and the Shar cult.

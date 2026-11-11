@@ -116,7 +116,7 @@ Waukeen, the Coinmaiden, is the goddess of trade and wealth, and merchants, cara
 - **Leira** (Deities, page planned): the goddess buried under molten gold in the Leiruin tale.
 - **Tymora**, **Sune** (Deities, pages planned): two of the four powers who share her realm in the 3e books.
 - **Amaunator** (Deities, page planned): the sun god whose palace her realm surrounds in the 4e books.
-- **Shar** (Deities, page planned): the goddess whose priest Midna Tauberth wears Waukeen's symbol.
+- **Shar** (Deities): the goddess whose priest Midna Tauberth wears Waukeen's symbol.
 - **Siamorphe** (Deities): her page points here for Waukeentide.
 - **The Cassalanters** (Organizations): the family that hosts the public galas.
 - **Istrid Horn**, **Victoro Cassalanter** (Notable Figures): a moneylender who worships Vergadain and a banker who is publicly a worshiper of Lathander.
