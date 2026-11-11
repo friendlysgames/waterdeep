@@ -97,7 +97,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - `campaign/setting/waterdeep-lore.md`: the illegal temple and the Code Legal offense.
 - `campaign/guides/gm-guide/structural-rules.md` and `design-notes-running-the-campaign.md`: the 999,999 gp and ninety-nine souls terms, the Flamerule 11 deadline.
 - `CLAUDE.md`, "Cassalanter secrecy" rule: who knows what.
-- `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md`: public worship of Lathander and the family's public devotion to Siamorphe.
+- `campaign/setting/notable-figures/cassalanters/01-victoro-cassalanter.md`: Victoro's public worship of Lathander. `campaign/setting/organizations/10-cassalanters.md`: the family's public devotion to Siamorphe.
 - `campaign/setting/notable-figures/bregan-daerthe/12-vessa.md` and `organizations/07-bregan-daerthe.md`: Vessa as Jarlaxle's source.
 - `campaign/setting/organizations/03-emerald-enclave.md`: Jeryth and the infernal influence.
 - `campaign/setting/notable-figures/order-of-the-gauntlet/01-savra-belabranta.md`: suspicion only.
