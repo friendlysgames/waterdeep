@@ -77,7 +77,7 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 > **[GM]**
 >
 > #### GM Notes
-> - **Jeryth as Mielikki's voice:** Jeryth speaks one or two short sentences at a time and never repeats herself. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest". Her approval shows in the garden, where flowers open along the path, the grass lies flat where a friendly visitor walks and the leaves move when she speaks. The Jeryth page says "Her direct interventions carry the weight of divine mandate."
+> - **Jeryth as Mielikki's voice:** Jeryth speaks one or two short sentences at a time and never repeats herself. She never swears and takes no side in mortal politics. She calls Mielikki "the Lady of the Forest". Her approval shows in the garden, where flowers open along the path, the grass lies flat where a friendly visitor walks and the leaves move when she speaks. The Jeryth page treats her direct interventions as backed by divine mandate.
 > - **What Mielikki does in play:** She acts only through her Chosen. Mielikki never appears in an event, and Jeryth is the whole of her reach. When asked about the vault gold, Jeryth answers once with "That question is for the Lords to settle", and the Enclave takes no side.
 > - **Messengers:** The Enclave's animals carry only Melannor Fellbranch's words, because Jeryth sends no one on missions. No scene uses the dryads, hawks or unicorns that FRHoF gives Mielikki as messengers.
 > - **The Sea Ward and the Castle Ward:** Jeryth senses an infernal influence in the Sea Ward, and the Enclave knows it is there. Nobody in the Enclave knows whose it is. The Shrines of Nature stand in the same ward, and no file connects them to it. Jeryth has also felt a presence dreaming below the Castle Ward for months, and her page says what a member can learn about it.
@@ -101,8 +101,8 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 
 ## Cross-References
 
-- **Silvanus** (Deities, page planned): the Oak Father she serves, who shares the Shrines of Nature.
-- **Chauntea**, **Eldath** (Deities, pages planned): the other nature gods who served Silvanus beside her.
+- **Silvanus** (Deities): the Oak Father she serves, who shares the Shrines of Nature.
+- **Chauntea**, **Eldath** (Deities): the other nature gods who served Silvanus beside her.
 - **Gwaeron Windstrom** (Deities, page planned): the Mouth of Mielikki, to whom many northern rangers pray.
 - **Malar**, **Talos**, **Talona**, **Myrkul** (Deities, pages planned): the powers the wiki lists as her enemies.
 - **Lathander** (Deities): an ally in the wiki's account.

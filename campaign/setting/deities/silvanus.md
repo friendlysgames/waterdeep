@@ -95,7 +95,7 @@ Silvanus, the Oak Father, is the god of wild nature. Druids, rangers and wood el
 ## Cross-References
 
 - **Mielikki** (Deities): his ally and the other god of the Shrines of Nature, whom the Emerald Enclave serves through Jeryth Phaulkon.
-- **Eldath**, **Chauntea** (Deities, pages planned): the allies who served him in the wiki's account.
+- **Eldath**, **Chauntea** (Deities): the allies who served him in the wiki's account.
 - **Lathander** (Deities): an ally against the Gods of Fury in the wiki's 1e account.
 - **Malar**, **Talona**, **Talos** (Deities, pages planned): the enemies he opposed, with Malar as his exarch in 4e.
 - **Tymora** (Deities): the Tower of Luck stands a block from the Shrines of Nature in the Sea Ward text.

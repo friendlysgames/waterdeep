@@ -125,7 +125,7 @@ Lathander, the Morninglord, is the god of dawn, birth and renewal. People across
 - **Tyr** (Deities): the god close to Lathander, who captured Cyric with him in the wiki's account.
 - **Zariel** (Deities): the archdevil who began as a solar under him.
 - **Amaunator** (Deities, page planned): the sun god the 4e books make his source.
-- **Chauntea**, **Tymora**, **Beshaba** (Deities, pages planned): the goddess he loved for centuries, and the two goddesses who came from his earlier lover Tyche.
+- **Chauntea**, **Tymora**, **Beshaba** (Deities): the goddess he loved for centuries, and the two goddesses who came from his earlier lover Tyche.
 - **Gond**, **Torm**, **Ilmater**, **Sune**, **Selûne**, **Oghma**, **Kelemvor**, **Mielikki** (Deities, pages planned): the allies the wiki names.
 - **Cyric**, **Talos**, **Shar**, **Bane** (Deities, pages planned): the powers he and the Dawnbringers oppose.
 - **Helm** (Deities): the god who resents him for Murdane's death.
