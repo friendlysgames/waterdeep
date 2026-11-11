@@ -100,7 +100,7 @@ Eldath is the goddess of peace and quiet water, and her followers call her the Q
 
 ## Cross-References
 
-- **Silvanus**, **Tempus** (Deities, pages planned): the Oak Father she serves in the older wiki rows, and the war god who opposes her without enmity.
+- **Silvanus**, **Tempus** (Deities): the Oak Father she serves in the older wiki rows, and the war god who opposes her without enmity.
 - **Mielikki**, **Chauntea**, **Selûne**, **Lathander** (Deities): her sister in the 3e sources, and the powers she is close to.
 - **Avi**, **Embric** (Notable Figures): her one known worshiper in the campaign, and Avi's husband.
 - **Trollskull Alley**, **Fireball!** (quests): the two quests in which Avi appears.

@@ -85,7 +85,7 @@ The Red Knight is the Lady of Strategy, a lawful neutral goddess of planning and
 
 ## Cross-References
 
-- **Tempus** (Deities, page planned): the god who sponsored her rise, whose altar every one of her temples carries and whose exarch she is in the wiki's 4e account.
+- **Tempus** (Deities): the god who sponsored her rise, whose altar every one of her temples carries and whose exarch she is in the wiki's 4e account.
 - **Torm** (Deities): the god she is fond of, whose page lists her as an ally.
 - **Tyr** (Deities): the god who urged Torm to befriend her in the wiki account.
 - **Cyric** (Deities): the god she holds in greatest contempt.
