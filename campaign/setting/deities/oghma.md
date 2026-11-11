@@ -46,7 +46,7 @@
   - He consults **Deneir**, **Milil** and **Gond** (Deities, pages planned) before he acts against a threat to knowledge, and he mulls over complex plots rather than intervening at once (FRHoF). The wiki makes the three his agents in the Deities of Knowledge and Invention, with Milil as the god of music, Deneir of writing and images, and Gond of crafts (*Faiths & Pantheons*, 3e).
   - Deneir is called the Scribe of Oghma and his right hand, and Milil is his left hand, also called the One True Hand. The wiki cites SCAG, 5e, for both titles.
   - Gond is the third hand and gives ideas physical form. Oghma admires his creativity but disapproves of how he places innovation above introspection and pushes technology too far, and the firearms made in Lantan in the 1360s DR strained their friendship (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
-  - His allies include **Mystra** and her servant **Azuth** (Deities), **Lathander** (Deities) and **Lliira** (Deities, page planned) (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
+  - His allies include **Mystra** and her servant **Azuth** (Deities), **Lathander** (Deities) and **Lliira** (Deities) (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
   - His most common foes are **Mask**, **Cyric**, **Talos** and **Bane**, whom he sees as the greatest threats to knowledge because each tries to lock it away, corrupt it or destroy it. He also opposed **Leira**, the former goddess of lies, and kept her revolutionary ideas confined to her small cult (*Faiths & Pantheons*, 3e).
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - His faithful tell that soon after the world was made, a traveler from a faraway realm found a land of vague concepts waiting for form. He gave each one a name that bound it to a physical shape, and this is said to be the origin of the title the Binder. Some also say he gave written language to the world. Sages debate these tales, and none dispute that his faith is older than recorded history (*Faiths & Pantheons*, 3e).
@@ -103,7 +103,7 @@ Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning w
 
 - **Deneir**, **Milil**, **Gond** (Deities, pages planned): the other Deities of Knowledge and Invention.
 - **Mystra**, **Azuth** (Deities): allies in the wiki's 2e and 3e accounts.
-- **Lathander** (Deities): ally in the wiki's accounts. **Lliira** (Deities, page planned): ally, and often mistaken for his servant.
+- **Lathander** (Deities): ally in the wiki's accounts. **Lliira** (Deities): ally, and often mistaken for his servant.
 - **Mask**, **Cyric**, **Talos**, **Bane**, **Leira** (Deities, pages planned): the powers he opposes.
 - **Eiruk Weskur**, **Renaer Neverember** (Notable Figures): the priest and his circle, the Black Tears.
 - **Remallia Haventree** (Notable Figures): host of the salon where the Font's archivist appears. **The Harpers** (Organizations): the faction whose mission uses the salon.

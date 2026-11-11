@@ -97,7 +97,7 @@ Shar is the god of darkness and loss, also known as the Lady of Loss and the Mis
 
 ## Cross-References
 
-- **Selûne** (Deities, page planned): her twin and eternal rival, and the goddess whose Sea Ward temple Keresta targets.
+- **Selûne** (Deities): her twin and eternal rival, and the goddess whose Sea Ward temple Keresta targets.
 - **Lathander** (Deities): the god Shar opposes, and the owner of the Spires of the Morning that Keresta targets.
 - **Mystra** (Deities): the goddess of the Weave, killed in the wiki's 4e account of 1385 DR.
 - **Helm** (Deities): the god of guardians who opposes her in the wiki's 2e sources.

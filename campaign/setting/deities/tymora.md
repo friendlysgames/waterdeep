@@ -105,8 +105,8 @@ Tymora is the chaotic good goddess of good fortune, called Lady Luck and picture
 
 ## Cross-References
 
-- **Beshaba** (Deities, page planned): her twin sister and fiercest foe.
-- **Selûne** (Deities, page planned): her oldest friend, who split Tyche and took her in at the Gates of the Moon, and whose temple shares the Sea Ward.
+- **Beshaba** (Deities): her twin sister and fiercest foe.
+- **Selûne** (Deities): her oldest friend, who split Tyche and took her in at the Gates of the Moon, and whose temple shares the Sea Ward.
 - **Lathander**, **Tyr**, **Helm** (Deities): Lathander is an ally, and Tyr and Helm are the pair in the 1384 DR quarrel.
 - **Siamorphe** (Deities): the goddess whose departure set off that quarrel.
 - **Lliira**, **Sune**, **Shaundakul**, **Azuth**, **Garl Glittergold**, **Bane** (Deities, pages planned): her allies and her named enemy.
