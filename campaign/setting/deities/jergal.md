@@ -81,7 +81,7 @@ Jergal is the Final Scribe, the lawful neutral god who keeps the records of the 
 ## Cross-References
 
 - **Kelemvor** (Deities): the god Jergal serves and helps.
-- **Myrkul**, **Bane**, **Bhaal**, **Cyric** (Deities, pages planned): the Dark Three who took his portfolios, and the god of the dead who held the office before Kelemvor.
+- **Myrkul**, **Bane**, **Bhaal**, **Cyric** (Deities): the Dark Three who took his portfolios, and the god of the dead who held the office before Kelemvor.
 - **Malar** (Deities): the Beastlord who arrives late in the Legend of Knucklebones.
 - **Deneir** (Deities): the god of records whose temples welcome his priests.
 

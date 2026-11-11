@@ -94,9 +94,9 @@ Myrkul is the god of death and decay, called the Lord of Bones and the Reaper, a
 ## Cross-References
 
 - **Kelemvor** (Deities): the god who took his portfolio and judges the souls the Reaper brings.
-- **Jergal** (Deities, page planned): the first god of the dead, who divided his influence among the three.
-- **Bane**, **Bhaal** (Deities, pages planned): the other two of the Dead Three, and Bane the partner in the theft of the Tablets of Fate.
-- **Cyric** (Deities, page planned): the mortal who took his portfolio and his home.
+- **Jergal** (Deities): the first god of the dead, who divided his influence among the three.
+- **Bane**, **Bhaal** (Deities): the other two of the Dead Three, and Bane the partner in the theft of the Tablets of Fate.
+- **Cyric** (Deities): the mortal who took his portfolio and his home.
 - **Shar** (Deities): his ally in the wiki's 2e account, whose Order of the Dark Moon finds allies in his cult.
 - **Chauntea**, **Lathander** (Deities): two of the powers the wiki lists among his foes.
 - **Mielikki** (Deities): a foe in the wiki, and the goddess who took autumn from him while he was dead.
