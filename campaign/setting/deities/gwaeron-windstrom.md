@@ -85,7 +85,7 @@ Gwaeron Windstrom is the god of tracking, a ranger who was once mortal and was r
 - **Mielikki** (Deities): the Forest Queen he serves, whose rangers pray to him.
 - **Silvanus** (Deities): the Oak Father, whom he serves through Mielikki.
 - **Malar** (Deities): the Beastlord he fights, whose avatars he killed to rise.
-- **Shaundakul** (Deities, page planned): an ally in the wiki's account.
+- **Shaundakul** (Deities): an ally in the wiki's account.
 - Lurue, Shiallia, Nobanion and Vaprak: powers outside the roster, named as servants, an ally and an enemy.
 
 > **[GM]**

@@ -103,10 +103,10 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 
 - **Silvanus** (Deities): the Oak Father she serves, who shares the Shrines of Nature.
 - **Chauntea**, **Eldath** (Deities): the other nature gods who served Silvanus beside her.
-- **Gwaeron Windstrom** (Deities, page planned): the Mouth of Mielikki, to whom many northern rangers pray.
+- **Gwaeron Windstrom** (Deities): the Mouth of Mielikki, to whom many northern rangers pray.
 - **Malar**, **Talos**, **Talona**, **Myrkul** (Deities): the powers the wiki lists as her enemies.
 - **Lathander** (Deities): an ally in the wiki's account.
-- **Shaundakul** (Deities, page planned): an ally in the wiki's account.
+- **Shaundakul** (Deities): an ally in the wiki's account.
 - **Corellon Larethian** (Deities, page planned): an elven ally in the wiki's account.
 - **Tymora** (Deities): the Tower of Luck stands a block from the Shrines of Nature.
 - **The Emerald Enclave** (Organizations): the faction centered on Phaulkonmere.
