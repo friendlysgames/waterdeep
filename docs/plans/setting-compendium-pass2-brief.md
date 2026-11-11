@@ -10,14 +10,14 @@ The Deities journal is a **character-building reference** as well as a setting r
 
 Corellon and Tiamat (and the other non-Faerûnian powers below) are in scope under the same ruling.
 
-### Roster (71 new pages and the hub)
+### Roster (72 new pages and the hub)
 
 | Group | Pages | Source of the stat fields |
 |---|---|---|
 | **Faerûnian pantheon** (50 new; Asmodeus is done) | Akadi, Amaunator, Auril, Azuth, Bane, Beshaba, Bhaal, Chauntea, Cyric, Deneir, Eilistraee, Eldath, Gond, Grumbar, Gwaeron Windstrom, Helm, Hoar, Ilmater, Istishia, Jergal, Kelemvor, Kossuth, Lathander, Leira, Lliira, Lolth, Loviatar, Malar, Mask, Mielikki, Milil, Myrkul, Mystra, Oghma, Savras, Selûne, Shar, Shaundakul, Silvanus, Sune, Talona, Talos, Tempus, The Red Knight, Torm, Tymora, Tyr, Umberlee, Valkur, Waukeen | 5etools `deities.json`: FRHoF first (epithet, worshipers, plane, text), SCAG for alignment, domains and symbol |
 | **Waterdeep's own** (1) | Siamorphe | Wiki and Dragon Heist only. She is not in `deities.json`; mark the stat fields `[research]` or take them from the wiki, tagged |
 | **Heads of other pantheons** (8) | Corellon Larethian, Moradin, Garl Glittergold, Yondalla, Gruumsh, Maglubiyet, Tiamat, Bahamut | 5etools (MTF, SCAG, PHB 2014) plus the wiki |
-| **Warlock and cleric patrons** (12), flagged as patrons, not deities | Archdevils: Mephistopheles, Mammon, Zariel. Demon princes: Orcus, Demogorgon, Graz'zt. Archfey: Titania, the Queen of Air and Darkness, Baba Yaga. Far Realm: Ilsensine, Ghaunadaur, Tharizdun | Wiki only for the first nine. Ghaunadaur and Tharizdun also have 5etools entries. Ilsensine is wiki only |
+| **Warlock and cleric patrons** (13), flagged as patrons, not deities | Archdevils: Mephistopheles, Mammon, Zariel. Demon princes: Orcus, Demogorgon, Graz'zt. Archfey: Titania, the Queen of Air and Darkness, Baba Yaga. Witch-queen: Iggwilv (added at the user's request, Session 48; her subclass fit is derived by the drafter). Far Realm: Ilsensine, Ghaunadaur, Tharizdun | Wiki only for the first ten (Iggwilv included). Ghaunadaur and Tharizdun also have 5etools entries. Ilsensine is wiki only |
 
 The user said "a couple" of each patron kind, so three of each is the main session's choice. The user may swap any patron when reading the research report. Asmodeus counts as the fourth archdevil.
 
@@ -57,7 +57,7 @@ Patron pages replace "A cleric PC" and "A paladin PC" with the warlock subclass 
 - **How to choose a deity** tables: by 5etools domain (SCAG), by alignment, and by the 2024 cleric subclass the page derives. One row per power. Link every row with a bold page name.
 - **Waterdeep's temples** table (name, power, ward, source). Only temples a source places in the city. Start from the "Major Temples of Waterdeep" table in `sources/adventure-wdh.json` (caption at about line 30910; columns Deity, Temple Name, Location) and add campaign-file temples. Where the campaign or the wiki gives a different ward (Tymora's Tower of Luck, Helm's Hall), put both in Draft Notes; the campaign file wins.
 - **The powers of other peoples** section: the eight pantheon heads, one row each.
-- **Patrons** section: the twelve patrons, grouped by 2024 warlock subclass, with one line on how they differ from a god.
+- **Patrons** section: the thirteen patrons, grouped by 2024 warlock subclass, with one line on how they differ from a god.
 - Overview, GM Notes, Source References, Cross-References.
 
 ## Rules that bind every researcher and drafter
