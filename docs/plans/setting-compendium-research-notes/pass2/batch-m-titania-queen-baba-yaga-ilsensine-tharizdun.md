@@ -1,4 +1,4 @@
-# Batch M research report: five warlock patrons (Titania, Queen of Air and Darkness, Baba Yaga, Ilsensine, Tharizdun)
+# Batch M research report: six warlock patrons (Titania, Queen of Air and Darkness, Baba Yaga, Ilsensine, Tharizdun, Iggwilv)
 
 ## Conventions
 
@@ -23,11 +23,11 @@
 > "No 5etools deities.json entry for this name."
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/5etools.md:1`
 
-**0b. Bundle files that are empty** (Read returned "the file exists but the contents are empty"): `titania/campaign-hits.txt`, `queen-of-air-and-darkness/campaign-hits.txt`, `queen-of-air-and-darkness/adventure-hits.txt`, `baba-yaga/campaign-hits.txt`, `baba-yaga/adventure-hits.txt`, `ilsensine/adventure-hits.txt`, `tharizdun/campaign-hits.txt`, `tharizdun/adventure-hits.txt`.
+**0b. Bundle files that are empty** (Read returned "the file exists but the contents are empty"): `titania/campaign-hits.txt`, `queen-of-air-and-darkness/campaign-hits.txt`, `queen-of-air-and-darkness/adventure-hits.txt`, `baba-yaga/campaign-hits.txt`, `baba-yaga/adventure-hits.txt`, `ilsensine/adventure-hits.txt`, `tharizdun/campaign-hits.txt`, `tharizdun/adventure-hits.txt`. The Iggwilv bundle's `campaign-hits.txt` and `adventure-hits.txt` are also empty (section 5A-0).
 
 **Non-empty bundle files.** `titania/adventure-hits.txt` is one line, the Fey Day paragraph (section 1f). `ilsensine/campaign-hits.txt` is one line, `arc-j-vault-of-dragons.md:154` (section 3f).
 
-**0c. Name searches confirmed against the sources.** Searched `sources/adventure-wdh.json` and `sources/adventure-wdmm.json` (Grep -n, case-insensitive) and all of `campaign/`. Terms: titania, queen of air, unseelie, seelie, baba yaga, tharizdun, chained god, elder elemental, eater of worlds, ilsensine, ilsen, great brain, elder brain, god-brain, maanzecorian, tentacled lord, archfey, great old one, grandmother, bone mother, mother of all witches, little grandmother, hyrsam, oberon.
+**0c. Name searches confirmed against the sources.** Searched `sources/adventure-wdh.json` and `sources/adventure-wdmm.json` (Grep -n, case-insensitive) and all of `campaign/`. Terms for the five original patrons: titania, queen of air, unseelie, seelie, baba yaga, tharizdun, chained god, elder elemental, eater of worlds, ilsensine, ilsen, great brain, elder brain, god-brain, maanzecorian, tentacled lord, archfey, great old one, grandmother, bone mother, mother of all witches, little grandmother, hyrsam, oberon. Terms for Iggwilv: section 5A-0.
 
 - **adventure-wdh.json.** Two lines match the name terms. One is the Fey Day paragraph (section 1f). The other is a false hit on the word "grandmother":
 
@@ -36,7 +36,7 @@
 
   This is Barnibus Blastwind's grandmother, not Baba Yaga.
 - **adventure-wdmm.json.** No line matches the name terms. The word "Far Realm" appears in many lines, and "elder brain" appears in four lines (section 3h). None names Ilsensine, the Great Brain, the god-brain or a mind flayer god.
-- **campaign/.** The name terms match one structure-file line (`arc-j-vault-of-dragons.md:154`, section 3f). "Warlock" and "archfey" match only `campaign/setting/deities/asmodeus.md:62` and `:123` (quoted in section 9). "Far Realm" and "Great Old One" match no campaign line.
+- **campaign/.** The name terms match one structure-file line (`arc-j-vault-of-dragons.md:154`, section 3f). "Warlock" and "archfey" match only `campaign/setting/deities/asmodeus.md:62` and `:123` (quoted in section 8). "Far Realm" and "Great Old One" match no campaign line.
 
 ---
 
@@ -279,7 +279,7 @@ Wiki page: `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17bec
 > "The '''Queen of Air and Darkness''' was a powerful archfey who ruled over the Unseelie Court.<ref name="DMG5eR-p360" /><ref name="MM"/>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/queen-of-air-and-darkness/wiki.txt:123`
 
-Stat note. No 5e statistics. `challenge5e` and `class5e` are empty (`queen-of-air-and-darkness/wiki.txt:35` and `:36`, with `:51` and `:52` for the 5e block).
+Stat note. No 5e statistics. `challenge5e` and `class5e` are empty in the infobox (`queen-of-air-and-darkness/wiki.txt:35`, `:36`, `:51`, `:52`).
 
 ### 2b. Form, possessions, realm
 
@@ -297,10 +297,10 @@ Stat note. No 5e statistics. `challenge5e` and `class5e` are empty (`queen-of-ai
 > "The Queen of Air and Darkness reigned over the Unseelie Court, the foes of the Seelie Court.<ref name="DHD-p92">{{Cite book/Demihuman Deities|92}}</ref> She was opposed by the elven deities of Seldarine, namely Corellon Larethian, Erevan Ilesere, Rillifane Rallathil, Sehanine Moonbow, Solonor Thelandira, and Angharradh. To them, she personified the corruption that could grow even in those of fey lineage.<ref>{{Cite book/Demihuman Deities|97,100,108,120,125,132-133}}</ref>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/queen-of-air-and-darkness/wiki.txt:138`
 
-> "[[Auril]] the Frostmaiden was believed to be synonymous with the Queen of Air and Darkness by some communities of fey, such as those of the Shiverpine Forest in the Deep Wilds.<ref>{{Cite dragon/367/Hall of the Frostmaiden|60}}</ref><ref group="note">In this [https://twitter.com/TheEdVerse/status/1228370295649599488 tweet], Ed Greenwood agrees that the Queen of Air and Darkness was impersonating Auril, with Auril's support, to gain more followers on Toril.</ref>"
+> "Auril the Frostmaiden was believed to be synonymous with the Queen of Air and Darkness by some communities of fey, such as those of the Shiverpine Forest in the Deep Wilds.<ref>{{Cite dragon/367/Hall of the Frostmaiden|60}}</ref><ref group="note">In this [https://twitter.com/TheEdVerse/status/1228370295649599488 tweet], Ed Greenwood agrees that the Queen of Air and Darkness was impersonating Auril, with Auril's support, to gain more followers on Toril.</ref>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/queen-of-air-and-darkness/wiki.txt:140`
 
-Note on the line 140 quote. The first link is kept as written (its brackets are the only markup removed here, shown as `Auril` in the text above). The wiki cites the Auril link to Dragon 367 (Hall of the Frostmaiden, a 5e-era adventure, per the cite name).
+Note on line 140. The wiki cites the Auril link to Dragon 367 (Hall of the Frostmaiden, a 5e-era adventure, per the cite name). The "[[Auril]]" and "[[Deep Wilds]]" link brackets are dropped in the quote above.
 
 > "She was served by unseelie fey, including brambles, quicklings,<ref name="DHD-p92"/> and spriggans.<ref name="PoC-TBoC-p90">{{Cite book/Planes of Chaos/The Book of Chaos|90}}</ref> She was also known to have a fondness for yeth hounds and hell hounds.<ref name="PoC-TBoC-p100">{{Cite book/Planes of Chaos/The Book of Chaos|100}}</ref>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/queen-of-air-and-darkness/wiki.txt:143`
@@ -317,14 +317,14 @@ Edition tag. The origin is cited to Monster Mythology pp. 117–118, which the i
 
 ### 2e. Warlock
 
-> "[[Category:Archfey patrons]]"
+> "Category:Archfey patrons"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/queen-of-air-and-darkness/wiki.txt:165`
 
-Brackets are dropped from this category line in the wiki's own form. The category is the only warlock-related text. No wiki line gives a pact or a warlock term for her.
+This category line is the only warlock-related text. No wiki line gives a pact or a warlock term for her.
 
 ### 2f. Not found and conflicts
 
-- Not found: Waterdeep (any kind). Clergy, holy days, temples, omens, messengers (holy-day and temple fields are empty, `queen-of-air-and-darkness/wiki.txt:96`, `:109`, `:120`, `:121`). Campaign and adventure mentions. Pact terms. 5e statistics. 5etools entry.
+- Not found: Waterdeep (any kind). Clergy, holy days, temples, omens, messengers (the wiki gives none). Campaign and adventure mentions. Pact terms. 5e statistics. 5etools entry.
 - Conflict: the wiki gives two homes for the Unseelie Court in one sentence, "Phlegethon in Pandemonium" (MM, Planes of Chaos) and "the Plane of Faerie" (SCAG) (`queen-of-air-and-darkness/wiki.txt:134`). Both are the wiki's own accounts.
 
 ---
@@ -440,10 +440,12 @@ Definition paragraph (one line):
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/wiki.txt:162` (the rest of the paragraph covers the rings' effect on mortals, cited to Dragon 255)
 
 > "Though often thought of as omnipresent mental energy, Ilsensine was strangely based underneath the Outlands, the outer plane of true neutrality, in its own vast, subterranean realm known as the Caverns of Thought, or sometimes simply Ilsensine's realm."
-— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/wiki.txt:165` (the rest of the paragraph covers persistence on other planes, cited to MMy2e, Planescape 2e)
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/wiki.txt:165` (the rest of the paragraph covers persistence on other planes, cited to MMy2e and Planescape 2e)
 
 > "Ilsensine was not welcoming of others into its realm, preferring those it could control.<ref name="PCS-17" /> Between that and the brain burn there was little reason to visit the Caverns of Thought save for one. If one could gain the god-brain's favor, likely requiring the surrender of part of one's mind (such as memory and/or sanity) as payment, they could beseech its cosmic knowledge. With Ilsensine's constant, reality-spanning sensory input and perfect memory, it likely knew more of dark secrets than any being in the cosmos, such as the weakness of any given foe.<ref name="PCS-SB2e-p32-33" /> From here it was said, one could learn the answer behind almost any planar activity, assuming they could stay sane enough to ask the question,<ref name="PCS-17" /> and most that got as far as Ilsensine's court never came back in the first place.<ref name="PCS-SB2e-p32-33" />"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/wiki.txt:193`
+
+Edition tag: the price of favor (line 193) cites Planescape 2e (`PCS-17`, `PCS-SB2e-p32-33`). It is the only wiki line on the cost of gaining the god's favor.
 
 > "Ilsensine's realm was primarily occupied by zombies, either the petitioners or planars who stayed too long. Only the very lucky left with their minds intact, and those few who left Ilsensine's court would be wise to question their wits, for none could stand before them for long without changing at least a little.<ref name="PCS-SB2e-p32-33" /> However, there were also mind flayer petitioners present, much the same in appearance and behavior as they were in life,<ref name="PGF3e-p148-149" /> and it was suspected secret portals to the Lower Planes were present as darker fiends of the Lower Planes also took up residence in and around the area when visiting the Outlands.<ref name="PCS-17" /> Even so, the only structures present were bits of wall and bedding left by those that attempted to establish themselves within.<ref name="PCS-SB2e-p32-33" />"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/ilsensine/wiki.txt:173`
@@ -657,6 +659,8 @@ Stat note. No 5e statistics. The 5e alignment, challenge and class fields are em
 
 > "Baba Yaga had three hag daughters named Skabatha, Bavlorna, and Endelyn.<ref name="WBW5e-p215" /> She also helped to raise two humans, Kostchtchie and Tasha. The former went on to become very well known on Toril,<ref name="tGHotR-55">{{Cite book/The Grand History of the Realms|55}}</ref><ref name="DiA-104">{{Cite book/Baldur's Gate: Descent into Avernus|104}}</ref> whilst the latter was mainly heard of on the world of Oerth and became a powerful archfey.<ref name="WBW5e-p215" /><ref name="drag336-di">{{Cite dragon/336/Spellcraft: The Demonomicon of Iggwilv}}</ref> Kostchtchie became a "distinctly Faerûnian demon lord"<ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref> and had conflicts with Gwynharwyf.<ref name="drag345-di">{{Cite dragon/345/Demonomicon of Iggwilv: Kostchtchie: Prince of Wrath}}</ref>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/baba-yaga/wiki.txt:101`
+
+Note: "Tasha" in this line is Iggwilv, per the infobox (`baba-yaga/wiki.txt:42`). See section 5A-5.
 
 > "Baba Yaga once prophesied that the ruler of Mag Tureah, a region of the Feydark with multiple portals to Toril,<ref name="frcg-p68">{{Cite book/Forgotten Realms Campaign Guide|68}}</ref> would be slain by his own son.<ref name="drag420-tf">{{Cite dragon/420/Court of Stars: Thrumbolg, First Lord of Mag Tureah}}</ref>"
 — `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/baba-yaga/wiki.txt:111`
@@ -897,12 +901,260 @@ Those two category lines are the wiki's only warlock text. The 5e channel divini
 
 ---
 
+## 5A. Iggwilv (the witch-queen, also Tasha and Natasha; sixth patron, added on coordinator request)
+
+Wiki page: `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt` (Person infobox, 195 lines). The bundle has no 5etools entry, and the coordinator confirmed there is none. `campaign-hits.txt` and `adventure-hits.txt` are empty. Search results are in 5A-0.
+
+### Answers (Iggwilv)
+
+**(1) Waterdeep cult, shrine or temple.** None. The one Waterdeep line in the wiki is the use of one of her spells in the city as a burglar deterrent (quoted in 5A-6). That is not a cult, shrine or temple. No cult, shrine or temple for her appears in any source.
+**(2) Campaign NPC, faction or quest that uses it.** None. No campaign file names Iggwilv, Tasha, Zybilna or the Witch of Perrenland. The campaign's only "Witch-Queen" is Laeral Silverhand (5A-6), and the only "Tasha" hits are "Natasha Romanoff" in Inspirations lines (5A-6).
+**(3) Wiki lines that mention Waterdeep.** One line: wiki line 96 (quoted in 5A-6). Grep for `waterdeep|waterdhav` on the file returned no other line.
+
+### 5A-0. Name searches (adventures and campaign)
+
+- `sources/adventure-wdh.json` (Grep for `iggwilv|tasha|queen of witches|witch-queen|witch queen`, and for Graz, Demonomicon, Madryck, Kettlesteam, Hourglass, Mintassan, Juiblex, Iuz): four lines. One is the spell in the rooftop table (line 8475, quoted in 5A-6). Two are Laeral "Witch-Queen" (lines 26646 and 32202, quoted in 5A-6). One is "grazing" (line 31038, quoted in 5A-6). None names Iggwilv.
+- `sources/adventure-wdmm.json` (same terms): six lines. Two are Juiblex (lines 6332 and 6341, a demon lord's altar and carvings). Two are the spell name "Tasha's hideous laughter" in spellbook lists (lines 26409 and 35701, quoted in 5A-6). Two are Grazthrae, a priestess (lines 29688 and 29693, quoted in 5A-6). None names Iggwilv.
+- Name searches for Zybilna, Hura of Ket, Witch of Perrenland, Prismeer, Palace of Heart, Kalimanzaros, Raezil, Iggrik, Roslof, Kettlesteam, Faceless Lord, Demonomicon and Iggwilv: no line in `campaign/`, `sources/adventure-wdh.json` or `sources/adventure-wdmm.json`.
+- `campaign/` (Grep for the same terms plus Graz, Madryck, Kettlesteam, Hourglass, Mintassan, Juiblex, Iuz): no Iggwilv, Tasha, Graz'zt, Demonomicon, Madryck, Kettlesteam or Mintassan line. "Hourglass" and "grazed" match unrelated text (5A-6).
+
+### 5A-1. Identity (wiki infobox)
+
+> "| titles         = The Witch Queen<ref name="TCE5e-p4">{{Cite book/Tasha's Cauldron of Everything|4}}</ref><br />The Witch of Perrenland<ref name="RotE-p55" /><br/>Dream Witch<ref name="dung196">{{Cite dungeon/196/Baba Yaga's Dancing Hut|26}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:13`
+
+> "| aliases        = Hura of Ket<ref name="TCE5e-p5" /><br />Tasha<br />Zybilna<ref name="WBW5e-p204">{{Cite book/The Wild Beyond the Witchlight|204}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:14`
+
+> "| nicknames      = Natasha the Dark"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:15`
+
+> "| true name      = Natasha<ref name="WBW5e-p188">{{Cite book/The Wild Beyond the Witchlight|188}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:16`
+
+> "| home           = Prismeer, Feywild<ref name="WBW5e-p171" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:17`
+
+> "| formerhomes    = Abyss<ref name="WBW5e-p171" /><Br />Niflheim, Hades<ref name="Dn149-p44-52">{{Cite dungeon/149/Enemies of My Enemy|44-52}}</ref><br />Oerth<ref name="ERG3e-p8-9">{{Cite book/Expedition to the Ruins of Greyhawk|8-9}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:18`
+
+> "| race           = Archfey<ref name="WBW5e-p171" /><ref name="WBW5e-p205" /><br />{{Former}} Human<ref name="Dn149-p44-52" /><ref name="WBW5e-p171" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:20`
+
+> "| occupation     = Demonologist<ref name="WBW5e-p171" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:22`
+
+> "| alignment1e    = Chaotic evil"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:47`
+
+> "| alignment35    = Chaotic evil"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:57`
+
+> "| challenge35    = 30"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:58`
+
+> "| alignment4e    = Chaotic evil"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:61`
+
+> "| alignment5e    = Chaotic neutral"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:64`
+
+> "| challenge5e    = 20"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:65`
+
+> "| class5e        = [[Wizard]]"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:66`
+
+Stat note. The wiki gives a 5e challenge of 20 and a 3.5e challenge of 30 (lines 58 and 65) but no 5e statblock. The 5e alignment is "Chaotic neutral" (line 64), against "Chaotic evil" in 1e, 3.5e and 4e (lines 47, 57, 61). The 2e alignment and class fields are empty (lines 50 to 52).
+
+Intro paragraph (one line, with the wiki's own note on the name):
+
+> "'''Iggwilv''', also known as '''Tasha''' or '''Natasha''',<ref name="TCE5e-p4" /><ref group="note">Iggwilv and Tasha were originally separate characters until they were retconned to be the same person in [[Wikipedia:Expedition to the Ruins of Greyhawk|''Expedition to the Ruins of Greyhawk'']] in 2007.</ref> and the alias '''Zybilna''',<ref name="WBW5e-p161">{{Cite book/The Wild Beyond the Witchlight|161}}</ref><ref name="WBW5e-p204">{{Cite book/The Wild Beyond the Witchlight|204}}</ref> was an Oerthian archmage and demonologist. She famously wrote the ''Demonomicon of Iggwilv'', a tome on demonic lore.<ref name="ERG3e-p8-9" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:69`
+
+Relation of the names. The wiki's own note (line 69) says Iggwilv and Tasha were merged in Expedition to the Ruins of Greyhawk (2007; the wiki cites the book as ERG 3e). The next line says the original name is uncertain:
+
+> "Iggwilv was born in the world of Oerth and was adopted by the witch Baba Yaga, at which time she was known as Natasha "the Dark".<ref name="Dr83-p42" /> She became known later as Tasha, before adopting her alias of Iggwilv, although it was not clear whether any of those was her original name. It was at that early point that she was credited with inventing the ''Tasha's hideous laughter'' spell.<ref name="Dr359-p30" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:117`
+
+Line 117 cites Dragon 83 (`Dr83-p42`), which the infobox tags 1e (`refs1e`, line 49).
+
+### 5A-2. Archfey status and abilities
+
+> "Later in life she created her own Domain of Delight in the Feywild,<ref name="WBW5e-p193" /> and ascended as one of the plane's powerful archfey.<ref name="WBW5e-p193" /><ref name="WBW5e-p206">{{Cite book/The Wild Beyond the Witchlight|206}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:71`
+
+> "During her stay in the Abyss, Iggwilv became extremely knowledgeable about the political hierarchy and goings on between the various powers within.<ref name="Dn149-p41" /> She was considered a master at summoning fiends, planar exploration, necromantic magic,<ref name="RotE-p55" /> and later in life, gained command over fey beings.<ref name="WBW5e-p205" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:78`
+
+> "As an archfey, Iggwilv was immortal and could not die from aging.<ref name="WBW5e-p205" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:80`
+
+> "Iggwilv was considered one of the most powerful beings in the multiverse, on par with demon lords.<ref name="Dn149-p41">{{Cite dungeon/149/Enemies of My Enemy|41}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:102`
+
+Category (wiki): "Category:Archfey patrons" at `iggwilv/wiki.txt:183`, and "Category:Archfey" at `:182`.
+
+### 5A-3. Warlock, pact and patron (Field 2)
+
+The wiki's only warlock text is the sponsorship line. It describes sponsorship, not a pact, and gives no terms.
+
+> "For centuries, Iggwilv was aided by the dwarven clerk named Kalimanzaros, who remained unfailingly loyal throughout their many years together.<ref name="WBW5e-p186">{{Cite book/The Wild Beyond the Witchlight|186}}</ref> During her time in the Feywild, Iggwilv garnered the aid of the high elf Raezil Uthemar, who spied on other fey courts on her behalf.<ref name="WBW5e-p193">{{Cite book/The Wild Beyond the Witchlight|193}}</ref> As Zybilna, she was known to sponsor at least two warlocks, the amenable old warlock Madryck Roslof and the kenku Kettlesteam.<ref name="WBW5e-p18">{{Cite book/The Wild Beyond the Witchlight|18}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:112`
+
+Pact cost: none sourced. Graz'zt's terms are not given either (5A-5). The Archfey mapping for the 2024 warlock (derived) comes from the wiki's archfey status (lines 71 and 80) and its "Archfey patrons" category (line 183). The wiki's demonology and hostility to the Nine Hells (line 108) belong to the fiend side and are not a pact.
+
+Her aims, as the wiki gives them:
+
+> "Some time later Iggwilv settled in the Abyss and immersed herself in the study of demon-summoning and lore regarding demonic spirits. She sought to garner more power for herself, but made many enemies among the chaotic fiends and fled to worlds beyond for her safety.<ref name="WBW5e-p171">{{Cite book/The Wild Beyond the Witchlight|171}}</ref> Eventually, Iggwilv moved to her own Domain of Delight, known as Prismeer, in the Feywild, where she ruled from the Palace of Heart's Desire in the guise of Zybilna.<ref name="WBW5e-p205" /> Over time she transformed into a fey being and refocused her studies on that newfound state of existence rather than demonology.<ref name="WBW5e-p171" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:121`
+
+> "The witch queen was an enemy of the Nine Hells, owing partially to her interest in Graz'zt. She had a quasit familiar<ref name="DM150" /> named Iggrik.<ref name="WBW5e-p203">{{Cite book/The Wild Beyond the Witchlight|203}}</ref> At one point she had four arcanaloth apprentices.<ref name="DM150">{{Cite dungeon/150/Prince of Demons|64}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:108`
+
+### 5A-4. Portfolio, spells and works (Field 3)
+
+No portfolio or domain field is filled in the infobox. The wiki gives her fields as demonology, summoning, planar exploration, necromancy and later command over fey (lines 22, 78, 121). Her works and spells:
+
+> "While Iggwilv was most famous for creation of her namesake ''Demonomicon'', she also authored the unpublished tome, ''The Faceless Lord'', a more focused study on the Demon Prince Juiblex,<ref name="WBW5e-p197">{{Cite book/The Wild Beyond the Witchlight|197}}</ref><ref name="WBW5e-p200">{{Cite book/The Wild Beyond the Witchlight|200}}</ref> and ''Tasha's Cauldron of Everything''.<ref name="TCE5e-p5">{{Cite book/Tasha's Cauldron of Everything|5}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:93`
+
+> "Apart from spells developed by her, Iggwilv was credited the creation of ''Tasha's Atrocious Robe'' that was brought to Toril by planeswalker Mintassan the Magnificent. The enchanted robe was among the wizard's extensive collection of curios from across the multiverse, displayed in Mintassan's Mysteries in Westgate as of the {{YearlinkName|1374}}.<ref name="NWN2M">{{Cite game/Neverwinter Nights 2: Mysteries of Westgate}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:98`
+
+The Waterdeep spell line is quoted in 5A-6.
+
+### 5A-5. Relations: Graz'zt, Baba Yaga, family
+
+Graz'zt. The wiki's Graz'zt paragraph (line 104), the children (line 106), the infobox children line (line 39) and the caption (line 101):
+
+> "Iggwilv had many confusing relationships with the demon prince Graz'zt. They were both lovers and enemies, their relationship constantly changing.<ref name="ERG3e-p8-9" /> Both have at various points been the consort, prisoner, and master to the other. While they had almost no trust between them, they also held no secrets from each other. Both Iggwilv and Graz'zt sought to use or betray the other, yet also supported or even rescued one another when in peril, and in their own twisted way, both genuinely shared a bond of love with the other. Iggwilv believed Graz'zt was the only demon worthy of her gaze while she was the only consort of Graz'zt that inspired feelings of jealousy (as evidenced when he attacked Fraz-Urb'luu).<ref name="Dr414-p1" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:104`
+
+> "While held prisoner by Graz'zt in his plane of the abyss, Iggwilv bore him many children. Graz'zt quickly and securely placed them in various locations and protected their identities from any beings that could bring them harm.<ref name="Dr414-p1">{{Cite dragon/414/History Check: The Iggwilv-Graz'zt Affair|1-5}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:106`
+
+> "| children       = Drelnza, Iuz, numerous children with the demon lord Graz'zt."
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:39`
+
+> "Iggwilv with her sometimes lover Graz'zt."
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:101` (image caption; the wiki's caption is `''Iggwilv with her sometimes lover [[Graz'zt]].''`, with the italic and link markup dropped here)
+
+Edition tags: the Graz'zt paragraph cites ERG 3e (`ERG3e-p8-9`) and Dragon 414 (`Dr414-p1`, "History Check: The Iggwilv-Graz'zt Affair"). The infobox children line (line 39) gives no source for the children's names or for the father of Iuz.
+
+Baba Yaga (her adoptive mother):
+
+> "| parents        = Baba Yaga (adoptive)"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:36`
+
+> "Iggwilv was the adopted daughter of Baba Yaga,<ref name="WBW5e-p161">{{Cite book/The Wild Beyond the Witchlight|161}}</ref> the archfey sorceress known across the planes as the 'Mother of All Witches'.<ref name="WBW5e-p171" /> She had three adoptive sisters that together formed the Hourglass Coven,<ref name="WBW5e-p4">{{Cite book/The Wild Beyond the Witchlight|4}}</ref> Bavlorna Blightstraw, Skabatha Nightshade, and Endelyn Moongrave.<ref name="WBW5e-p201">{{Cite book/The Wild Beyond the Witchlight|201}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:110`
+
+> "One of Iggwilv's most wondrous and powerful items was her ''personal cauldron'', an artifact that she crafted with the assistance of her adoptive mother. It held two different forms and many magical properties, including the power to permanently 'freeze time' for everyone within a {{SIAdj|1000|ft}} radius.<ref name="WBW5e-p209-211">{{Cite book/The Wild Beyond the Witchlight|209-211}}</ref>"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:86`
+
+> "She was eventually betrayed by the three daughters of Baba Yaga—Skabatha, Bavlorna, and Endelyn—the hags of the Hourglass Coven, and their cronies in the League of Malevolence.<ref name="WBW5e-p190">{{Cite book/The Wild Beyond the Witchlight|190}}</ref> who used the magic of her ''personal cauldron'' to freeze in time the Witch Queen and many of her palace's other inhabitants.<ref name="WBW5e-p4" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:123`
+
+Cross-page check. The Baba Yaga page names Tasha as the adoptive daughter in its children line (`/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/baba-yaga/wiki.txt:42`, quoted in section 4a: "Natasha (or Tasha)"). Its history line says the younger Tasha "became a powerful archfey" (`baba-yaga/wiki.txt:101`, quoted in section 4c). The Iggwilv page agrees on the adoption (line 110) and on the archfey status (line 71). The two pages are consistent on both points. Neither page gives a Graz'zt term for Baba Yaga.
+
+The enemy line, a second Graz'zt reference:
+
+> "The witch queen was an enemy of the Nine Hells, owing partially to her interest in Graz'zt."
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:108`
+
+### 5A-6. Campaign, adventures, and Waterdeep (Field 6)
+
+The wiki's only Waterdeep line (`iggwilv/wiki.txt:96`). It is quoted in full. The spell list is the wiki's own:
+
+> "Iggwilv was credited with a number of spells, most of which were described in the ''Demonomicon''.<ref name="Dr336-p76-84">{{Cite dragon/336/Spellcraft: The Demonomicon of Iggwilv|76-84}}</ref> Her spells included: ''Dolor''; ''ensnarement''; ''exaction''; ''imbrue''; ''implore'';<ref name="Dr336-p76-84" /> ''lover's call'';<ref name="Dn149-p44-52" /> ''minimus containment'';<ref name="Dr336-p76-84" /> ''Tasha's caustic brew'';<ref name="TCE5e-p105,115">{{Cite book/Tasha's Cauldron of Everything|105,115}}</ref> ''Tasha's hideous laughter'',<ref name="Dr359-p30" /> used ''circa'' the late 15{{th}} century DR in Waterdeep as a security measure against burglars;<ref name="WDH-p72">{{Cite book/Waterdeep: Dragon Heist|72}}</ref> ''Tasha's mind whip'';<ref name="TCE5e-p105,115" /> ''Tasha's otherworldly guise'';<ref name="TCE5e-p105,116">{{Cite book/Tasha's Cauldron of Everything|105,116}}</ref> and ''torment''.<ref name="Dr336-p76-84" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:96`
+
+The wiki cites the Waterdeep use to "Waterdeep: Dragon Heist, p.72" (`WDH-p72`). The published text that carries the spell is the rooftop table below. It gives the spell as a chase complication, not as a Waterdeep security measure.
+
+Published adventure, the rooftop chase (`sources/adventure-wdh.json`):
+
+> "This encounter uses the chase rules in chapter 8 of the {@book Dungeon Master's Guide|dmg}. It also uses the Rooftop Chase Complications table, which applies only to creatures moving across rooftops on foot. Flying creatures needn't roll on the table."
+— `/home/user/waterdeep/sources/adventure-wdh.json:8418`
+
+> "Rooftop Chase Complications"
+— `/home/user/waterdeep/sources/adventure-wdh.json:8431` (table caption)
+
+> "You trigger a {@spell glyph of warding} spell placed on the roof to discourage burglars. Make a {@dc 13} Wisdom saving throw. On a failed save, you are targeted by a {@spell Tasha's hideous laughter} spell, the effect of which lasts 1 minute."
+— `/home/user/waterdeep/sources/adventure-wdh.json:8475`
+
+Published adventure, spellbook lists (the spell name only; no Iggwilv):
+
+> "A character can recognize the miniature chest for what it is with a successful {@dc 15} Intelligence ({@skill Arcana}) check. Spite alone can use the replica to recall the larger chest, which contains two spellbooks titled {@i Spells of Spite}, volumes I and II. These books contain all the spells Spite has prepared, plus the following spells: {@spell arcane lock}, {@spell Bigby's hand}, {@spell disintegrate}, {@spell forcecage}, {@spell gaseous form}, {@spell glyph of warding}, {@spell Leomund's secret chest}, {@spell maze}, {@spell Melf's acid arrow}, {@spell Mordenkainen's private sanctum}, {@spell Otto's irresistible dance}, {@spell Tasha's hideous laughter}, {@spell telekinesis}, {@spell Tenser's floating disk}, and {@spell true polymorph}."
+— `/home/user/waterdeep/sources/adventure-wdmm.json:26409`
+
+> "Ulvir carries a black, leather-bound spellbook adorned with silver web filigree. It contains all the spells he has prepared, plus {@spell gaseous form}, {@spell magic weapon}, and {@spell Tasha's hideous laughter}."
+— `/home/user/waterdeep/sources/adventure-wdmm.json:35701`
+
+Campaign files. Grep found no Iggwilv, Tasha, Zybilna, Graz'zt, Demonomicon, Madryck, Kettlesteam, Hourglass Coven or Mintassan line. The following are the nearest hits and are not Iggwilv:
+
+> "- Laeral Silverhand is the fifth of the goddess Mystra's seven daughters, born in 765 DR. She was once the Witch-Queen of the North and led the adventuring company called the Nine."
+— `/home/user/waterdeep/campaign/setting/history/07-a-city-watching-itself.md:32`
+
+> "Laeral Silverhand is the Open Lord of Waterdeep, and she has held the office since about 1489 DR. In that year the Masked Lords voted Dagult Neverember out and asked her to take his place. She is the fifth of the goddess Mystra's seven daughters, an archmage of great age and renown who was once the Witch-Queen of the North and the wife of the wizard Khelben Arunsun. She governs from the Palace with the help of trusted deputies and advisors, among them Mirt, and the city has been quiet under her."
+— `/home/user/waterdeep/campaign/setting/history/07-a-city-watching-itself.md:78`
+
+> "**Inspirations.** When playing Kaevja, channel Elim Garak (*Deep Space Nine*), Lisbeth Salander (*The Girl with the Dragon Tattoo*), and Natasha Romanoff (*Marvel Cinematic Universe*)."
+— `/home/user/waterdeep/campaign/setting/notable-figures/manshoons-zhentarim/11-kaevja-cynavern.md:18`
+
+> "**Inspirations.** When playing Vira, channel Natasha Romanoff (*Marvel*), Elizabeth Jennings (*The Americans*, the embedded operative), and Margaery Tyrell (*Game of Thrones*, the patient infiltrator)."
+— `/home/user/waterdeep/campaign/setting/notable-figures/manshoons-zhentarim/09-vira-solkan.md:17`
+
+> "**Inspirations.** When playing Corene, channel Offred (*The Handmaid's Tale*), Cassian Andor (*Andor*), and Natasha Romanoff (*Marvel*, double-agent aspect)."
+— `/home/user/waterdeep/campaign/setting/notable-figures/harpers/05-corene-wyldath.md:18`
+
+> "Signed with a symbol: an hourglass with a coin at the bottom."
+— `/home/user/waterdeep/campaign/structure/arc-d-gralhund-villa.md:324` (an unrelated hourglass sign, not the Hourglass Coven)
+
+Adventure false hits, quoted so they can be ruled out:
+
+> "To Her Ageless Majesty, Laeral Silverhand, the Witch-Queen of Stornanter, Lady of the North, She of the Seven Sisters, Chosen of Mystra, and Open Lord of Waterdeep:"
+— `/home/user/waterdeep/sources/adventure-wdh.json:26646` (Laeral, not Iggwilv)
+
+> "Long ago, Laeral ruled a kingdom called Stornanter and held the title of Witch-Queen of the North. After that, she led a band of adventurers called the Nine. She met and married Khelben Arunsun, who would later become the Blackstaff, the Lord Mage of Waterdeep. After Khelben died, Laeral retired from public life. She resurfaced after the Spellplague and the Sundering, weakened by Mystra's death, rebirth, and withdrawal from the world."
+— `/home/user/waterdeep/sources/adventure-wdh.json:32202` (Laeral, not Iggwilv)
+
+> "Magic users should be wary in the Court of the White Bull. Long ago, this plaza was a grazing area for livestock, including an albino calf that was born here."
+— `/home/user/waterdeep/sources/adventure-wdh.json:31038` (the word "grazing", not Graz'zt; the rest of the paragraph covers the White Bull Tavern)
+
+> "- name: 10c. Altar to Juiblex" — the JSON key line reads `"name": "10c. Altar to Juiblex",` at `/home/user/waterdeep/sources/adventure-wdmm.json:6332` (Juiblex altar, a demon lord; no Iggwilv)
+
+> "Charinidia, Grazthrae, and T'riizlin were priestesses transformed into banshees by Lolth for their vanity. If their prayers are interrupted, they attack, staggering the timing of their life-draining wails as follows:"
+— `/home/user/waterdeep/sources/adventure-wdmm.json:29688` (Grazthrae, a priestess, not Graz'zt)
+
+### 5A-7. Servants, cults, worship (Field 4)
+
+- Servants and agents in the wiki: quasit familiar Iggrik and four arcanaloth apprentices (line 108); dwarven clerk Kalimanzaros, high elf spy Raezil Uthemar, and the warlocks Madryck Roslof and Kettlesteam, whom she sponsored (line 112, quoted in 5A-3).
+- Coven and league: the Hourglass Coven of three adoptive sisters (line 110) and the League of Malevolence (line 123), both quoted in 5A-5.
+- Worship: the wiki gives no worshipers field for Iggwilv (the infobox has none, lines 36 to 66). No cult, temple, shrine, holy day or omen is given anywhere on the page.
+- Palace and possessions: the Palace of Heart's Desire in Prismeer (line 84, below).
+
+> "Iggwilv had a vast collection of magic items, oddities and personal mementos that she kept within the Palace of Heart's Desire in her home plane of Prismeer. Notable among these were a magical mirror that showed the individual gazing into it what they desired most in the reflection within; three jars of time, that displayed the visage of a being at three different points in their life,<ref name="WBW5e-p199">{{Cite book/The Wild Beyond the Witchlight|199}}</ref> a magical chessboard gifted to her by the archmage Mordenkainen,<ref name="WBW5e-p200" /> and the vorpal greatsword ''Snicker-Snack''.<ref name="WBW5e-p203" />"
+— `/tmp/claude-0/-home-user-waterdeep/216ef8af-6fea-5411-b70d-ef6e17becbc7/scratchpad/research/deities/iggwilv/wiki.txt:84`
+
+Her end: the wiki gives none. Line 123 says she was frozen in time, and no later fate is given.
+
+### 5A-8. Iggwilv: not found and conflicts (Field 7)
+
+- Not found: Waterdeep cult, shrine or temple (the only Waterdeep line is a spell, line 96). Campaign mention of Iggwilv or Tasha (none; only Laeral "Witch-Queen" and "Natasha Romanoff"). Adventure naming of Iggwilv (none; only the spell name and the Laeral title). Holy days, temples, worshipers, omens. A Graz'zt pact or patron term (none; only the affair line 104 and children line 106). A Baba Yaga pact (none; adoption only). A 5e statblock (the wiki gives CR 20 at line 65 but no statblock). A 5etools entry (none, per the coordinator).
+- Conflict on alignment across editions: "Chaotic evil" in 1e, 3.5e and 4e (`iggwilv/wiki.txt:47`, `:57`, `:61`) against "Chaotic neutral" in 5e (`:64`). The wiki gives no reason for the change. These are different editions, so no single edition clashes.
+- Conflict on name: Iggwilv, Tasha and Natasha are one person in the 2007 retcon (`iggwilv/wiki.txt:69`), but the wiki says the earlier characters were "originally separate" and that the original name is not known (`:117`). The campaign has no Iggwilv line, so there is nothing to conflict with there.
+- Children: the infobox lists Drelnza and Iuz by name (line 39) without giving the father of either. Line 106 says Iggwilv bore Graz'zt "many children". Do not assert Graz'zt as Iuz's father from this bundle.
+
+---
+
 ## 6. Conflicts across the batch (summary)
 
 1. **Ilsensine and Laduguer.** `/home/user/waterdeep/campaign/structure/arc-j-vault-of-dragons.md:154` ("Dumathoin, Ilsensine, and Laduguer, god of the duergar, with hands clasped in a circle of friendship") against `ilsensine/wiki.txt:210` ("Ilsensine had also long sought vengeance against her superior Laduguer"). The campaign file is the Vault of Dragons authority. The wiki is the only source for the feud.
 2. **Titania and the Queen.** The Queen's wiki origin makes her Titania's sister (`queen-of-air-and-darkness/wiki.txt:148`). The Titania page says "rumored to be the dark sister" (`titania/wiki.txt:170`). These agree on the sisterhood and differ only in certainty.
 3. **Baba Yaga across editions.** "Neutral evil" (1e, 2e) against "Evil" (4e) (`baba-yaga/wiki.txt:49`, `:52`, `:63`).
-4. **Nihiloor.** The brief expected a Nihiloor link to Ilsensine. No campaign line supplies one (section 3g).
+4. **Iggwilv's alignment across editions.** "Chaotic evil" (1e, 3.5e, 4e) against "Chaotic neutral" (5e) (`iggwilv/wiki.txt:47`, `:57`, `:61`, `:64`).
+5. **Nihiloor.** The brief expected a Nihiloor link to Ilsensine. No campaign line supplies one (section 3g).
 
 ## 7. Cross-references (file:line for every batch name in the sources)
 
@@ -910,13 +1162,16 @@ Those two category lines are the wiki's only warlock text. The 5e channel divini
 - `/home/user/waterdeep/sources/adventure-wdh.json:31381` (Fey Day heading, section 1f)
 - `/home/user/waterdeep/sources/adventure-wdh.json:31385` (Titania, section 1f)
 - `/home/user/waterdeep/sources/adventure-wdh.json:31775` (grandmother, not Baba Yaga, section 0c)
+- `/home/user/waterdeep/sources/adventure-wdh.json:8475` (Tasha's hideous laughter, section 5A-6)
 - `/home/user/waterdeep/sources/adventure-wdh.json:15073` and `:2814` (Nihiloor as a mind flayer, section 3i)
 - `/home/user/waterdeep/sources/adventure-wdmm.json:47870`, `:48301`, `:64346` (elder brain lines, section 3h)
+- `/home/user/waterdeep/sources/adventure-wdmm.json:26409`, `:35701` (Tasha's hideous laughter in spellbooks, section 5A-6)
 - `/home/user/waterdeep/campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:61`, `:102`, `:115`, `:157` (Fey Day, section 1f)
 - `/home/user/waterdeep/campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:6`, `:16`, `:26`, `:30` (section 3g)
 - `/home/user/waterdeep/campaign/setting/villains/xanathar.md:50` (section 3g)
 - `/home/user/waterdeep/campaign/guides/trollskull-manor/08-notable-patrons.md:99` (section 4e)
 - `/home/user/waterdeep/campaign/setting/notable-figures/trollskull-community/08-broxley-fairkettle.md:26` (section 4e)
+- `/home/user/waterdeep/campaign/setting/history/07-a-city-watching-itself.md:32`, `:78` (Laeral "Witch-Queen", section 5A-6)
 - `/home/user/waterdeep/campaign/setting/deities/asmodeus.md:62` and `:123` (warlock lines for Asmodeus, not these patrons):
 
 > "> - **A warlock or oath PC:** The files give no rules for a Fiend patron or an oath tied to him. [research] For flavor, the Fugue Plane pitch (comfort from a devil, or a rank in the infernal host) is the hook a devout character would have heard, and the city treats an admitted follower with the same distrust as any other."
@@ -932,6 +1187,7 @@ Those two category lines are the wiki's only warlock text. The 5e channel divini
 - **Baba Yaga.** Waterdeep: none. Campaign: none. Adventures: none. Terms: Baba Yaga, Grandmother, Bone Mother, Mother of All Witches, Little Grandmother, Mother of Witches. 5etools: none. 5e statistics: none.
 - **Ilsensine.** Waterdeep: none. Campaign: one line (`arc-j-vault-of-dragons.md:154`). Nihiloor tie: none. Great Brain or elder brain in campaign: none. Either adventure JSON: no Ilsensine, Great Brain or god-brain line. Terms: Ilsensine, Ilsen, Great Brain, elder brain, God-Brain, Tentacled Lord, Maanzecorian. 5etools: none. 5e statistics: none.
 - **Tharizdun.** Waterdeep: none. Campaign: none. Adventures: none. Terms: Tharizdun, Chained God, Elder Elemental Eye, Elder Elemental, Eater of Worlds. Bundle campaign-hits and adventure-hits files: empty.
+- **Iggwilv.** Waterdeep cult, shrine or temple: none. Campaign: none (Laeral "Witch-Queen" and "Natasha Romanoff" are not Iggwilv). Adventures: the spell name only. Terms: Iggwilv, Tasha, Natasha, Zybilna, Hura of Ket, Witch Queen, Witch of Perrenland, Prismeer, Palace of Heart's Desire, Demonomicon, Kalimanzaros, Raezil, Iggrik, Roslof, Kettlesteam, Faceless Lord, Mintassan, Hourglass Coven. 5etools: none, per the coordinator.
 - **The force-grey folder named in the brief.** `campaign/setting/notable-figures/force-grey/` does not exist. The Nihiloor page is `campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md`.
 
 ## 9. Not readable
