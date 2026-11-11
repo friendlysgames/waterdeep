@@ -94,7 +94,7 @@ Malar, the Beastlord, is the god of the hunt and of the cruel side of nature, an
 
 - **Talos**, **Auril**, **Umberlee** (Deities, pages planned): the other Gods of Fury.
 - **Lolth**, **Bane**, **Loviatar** (Deities, pages planned): the powers he is allied with.
-- **Silvanus** (Deities, page planned): the Forest Father he served as an exarch in the 4e account.
+- **Silvanus** (Deities): the Forest Father he served as an exarch in the 4e account.
 - **Chauntea** (Deities): an opponent who nonetheless approved his revival in the novel.
 - **Helm**, **Deneir**, **Ilmater** (Deities): powers that oppose him.
 - **The Harpers** (Organizations): the wiki credits them with dismantling Malarite strongholds.
