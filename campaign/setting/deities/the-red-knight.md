@@ -89,7 +89,7 @@ The Red Knight is the Lady of Strategy, a lawful neutral goddess of planning and
 - **Torm** (Deities): the god she is fond of, whose page lists her as an ally.
 - **Tyr** (Deities): the god who urged Torm to befriend her in the wiki account.
 - **Cyric** (Deities): the god she holds in greatest contempt.
-- **Valkur** (Deities, page planned): her best ally in naval conflicts and a fellow exarch of Tempus in the wiki's 4e account.
+- **Valkur** (Deities): her best ally in naval conflicts and a fellow exarch of Tempus in the wiki's 4e account.
 - **Lathander** (Deities): the god Janol Famisso favored over her in Ankhapur in 1366 DR.
 - **Timekeeping and the Festival Calendar** (History): Tarsakh 1 as Caravance and Midwinter between Hammer and Alturiak.
 
