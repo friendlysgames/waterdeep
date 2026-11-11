@@ -103,11 +103,11 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 
 ## Cross-References
 
-- **Torm** (Deities, page planned): Tyr's war commander in the Triad, who receives his power in the wiki account.
+- **Torm** (Deities): Tyr's war commander in the Triad, who receives his power in the wiki account.
 - **Ilmater** (Deities): a member of the Triad with Tyr and Torm, and the one who left it in the wiki's 1384 DR account.
-- **Lathander** (Deities, page planned): close to Tyr, and one of the three who imprisoned Cyric.
-- **Siamorphe** (Deities, page planned): Waterdeep's own goddess, who quarreled with Tyr in 1384 DR.
-- **Helm** (Deities, page planned): the Temple of Helm, which the Order of the Gauntlet treats as friendly.
+- **Lathander** (Deities): close to Tyr, and one of the three who imprisoned Cyric.
+- **Siamorphe** (Deities): Waterdeep's own goddess, who quarreled with Tyr in 1384 DR.
+- **Helm** (Deities): the Temple of Helm, which the Order of the Gauntlet treats as friendly.
 - **Sune**, **Tymora** (Deities, pages planned): the peacemaker and the proposed bride in the 1384 DR account.
 - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities, pages planned): the powers he opposes.
 - **Bahamut** (Deities, page planned): absorbed his portfolio of justice in the wiki account.

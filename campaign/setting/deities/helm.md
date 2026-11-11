@@ -102,10 +102,10 @@ Helm is the lawful neutral god of watchfulness and protection. Guards, bodyguard
 ## Cross-References
 
 - **Tyr** (Deities): the god who killed Helm in the 1384 DR duel, and a neighbor in the Order's three temples.
-- **Torm** (Deities, page planned): Helm's one full ally, whose chapel is the third of the Order's friendly temples.
+- **Torm** (Deities): Helm's one full ally, whose chapel is the third of the Order's friendly temples.
 - **Tymora** (Deities, page planned): the goddess whose courtship with Tyr set off the duel.
-- **Mystra** (Deities, page planned): the goddess Helm destroyed at the Celestial Stairway.
-- **Lathander** (Deities, page planned): the Morninglord Helm resents over the Dawn Cataclysm.
+- **Mystra** (Deities): the goddess Helm destroyed at the Celestial Stairway.
+- **Lathander** (Deities): the Morninglord Helm resents over the Dawn Cataclysm.
 - **Bane**, **Cyric**, **Mask**, **Shar**, **Malar**, **Talos** (Deities, pages planned): the powers he opposes.
 - **The Order of the Gauntlet** (Organizations): the faction that uses his temple.
 - **Savra Belabranta** (Notable Figures): the Order's contact, who vouches for members at the temple.

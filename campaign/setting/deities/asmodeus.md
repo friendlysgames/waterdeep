@@ -112,7 +112,7 @@ Asmodeus is the god of indulgence and the ruler of the Nine Hells, an archdevil 
 - **Vessa** (Notable Figures): how Jarlaxle knows.
 - **Cassalanter Villa** (quest and location): the temple beneath the villa and the four resolutions of the pact. The Asmodean Shrine is the family's separate outpost on Aveen Street, in the North Ward.
 - **Kelemvor** (Deities, page planned): the judge of the Fugue Plane that the priests' pitch is aimed against.
-- **Lathander** (Deities, page planned): Victoro's public cover.
+- **Lathander** (Deities): Victoro's public cover.
 
 > **[GM]**
 >
