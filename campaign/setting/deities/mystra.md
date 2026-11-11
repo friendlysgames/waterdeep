@@ -111,10 +111,10 @@ Mystra is the goddess of magic and of the Weave, the force from which every spel
 ## Cross-References
 
 - **Azuth**, **Savras** (Deities, pages planned): the wizards she raised to godhood, and the rivalry that ended with Savras in the Scepter.
-- **Oghma**, **Gond**, **Milil**, **Deneir** (Deities, pages planned): the cadre she worked with, and the rival among them.
+- **Oghma**, **Gond**, **Milil**, **Deneir** (Deities): the cadre she worked with, and the rival among them.
 - **Kelemvor**, **Selûne** (Deities): traditional allies of her Knights.
 - **Cyric** (Deities): the foremost enemy of her Knights and the god blamed for her murder.
-- **Bane**, **Talos**, **Shar** (Deities, pages planned): the powers who captured her avatar, disliked her, and in the 4e wiki account helped kill her.
+- **Bane**, **Talos**, **Shar** (Deities): the powers who captured her avatar (Bane) or disliked her (Talos, Shar). The 4e wiki account of her death names Cyric and Shar, not Bane or Talos.
 - **Helm** (Deities): the god who destroyed her at the Celestial Stairway.
 - **Lathander** (Deities): the page that records the 4e account of her death.
 - **Laeral Silverhand**, **Vajra Safahr, the Blackstaff**, **Manshoon** (Notable Figures): the daughter, the holder of Khelben's staff, and the villain who means to supplant her.

@@ -97,7 +97,7 @@ Amaunator is the god of the sun and of law, known as the Keeper of the Eternal S
 - **Lathander** (Deities): the Morninglord whom some hold to be his aspect, and whom his followers and Lathander's dispute.
 - **Siamorphe** (Deities): the demigod of nobility who serves him as exarch in the 4e account.
 - **Waukeen** (Deities): the goddess who lives beside him on the Eternal Sun in the 4e account.
-- **Sune** (Deities, page planned): the goddess he found attractive in the 4e account.
+- **Sune** (Deities): the goddess he found attractive in the 4e account.
 - **Torm** (Deities): his good friend.
 - **Bane**, **Shar** (Deities): the powers who are his enemies in the wiki accounts.
 - **Silvanus** (Deities): the god to whom SCAG compares his temper.

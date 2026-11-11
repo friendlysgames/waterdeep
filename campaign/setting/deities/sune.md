@@ -100,7 +100,7 @@ Sune, called Lady Firehair, is the goddess of love and beauty, and she is pictur
 - **Tyr**, **Siamorphe**, **Tymora**, **Helm**, **Ilmater**, **Cyric** (Deities): the 1384 DR account of the quarrel, the proposed match, the duel in Brightwater and the imprisonment of Cyric.
 - **Lathander**, **Selûne**, **Mystra**, **Torm**, **Waukeen** (Deities): her allies, her old servant, the goddess she aided, a god smitten with her and a goddess who shared Brightwater.
 - **Shar** (Deities): the goddess whose corruption of Sharess Sune undid in the Time of Troubles.
-- **Milil**, **Amaunator** (Deities, pages planned): an ally who is also named for a Grand Revel, and a god smitten with her.
+- **Milil**, **Amaunator** (Deities): an ally who is also named for a Grand Revel, and a god smitten with her.
 - **Talos**, **Tempus**, **Talona**, **Umberlee**, **Malar**, **Auril** (Deities, pages planned): the powers she opposes or whom her myths pass over.
 
 > **[GM]**

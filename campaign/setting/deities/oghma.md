@@ -43,8 +43,8 @@
 - **Omen:** No source gives one. [research]
 - **Holy days:** Midsummer and Shieldmeet (wiki, 3e; the 5e row is blank). Midsummer falls between Flamerule 30 and Eleasis 1, and in 1492 DR both days come after Flamerule 30. No file ties a city festival to him.
 - **Relations:** Wiki-sourced, with the book or edition named on each fact.
-  - He consults **Deneir**, **Milil** and **Gond** (Deities, pages planned) before he acts against a threat to knowledge, and he mulls over complex plots rather than intervening at once (FRHoF). The wiki makes the three his agents in the Deities of Knowledge and Invention, with Milil as the god of music, Deneir of writing and images, and Gond of crafts (*Faiths & Pantheons*, 3e).
-  - Deneir is called the Scribe of Oghma and his right hand, and Milil is his left hand, also called the One True Hand. The wiki cites SCAG, 5e, for both titles.
+  - He consults **Deneir**, **Milil** and **Gond** (Deities) before he acts against a threat to knowledge, and he mulls over complex plots rather than intervening at once (FRHoF). The wiki makes the three his agents in the Deities of Knowledge and Invention, with Milil as the god of music, Deneir of writing and images, and Gond of crafts (*Faiths & Pantheons*, 3e).
+  - Deneir is called the Scribe of Oghma and his right hand, and Milil is his left hand, also called the One True Hand. SCAG (5e) gives both titles, in its Deneir and Milil entries.
   - Gond is the third hand and gives ideas physical form. Oghma admires his creativity but disapproves of how he places innovation above introspection and pushes technology too far, and the firearms made in Lantan in the 1360s DR strained their friendship (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
   - His allies include **Mystra** and her servant **Azuth** (Deities), **Lathander** (Deities) and **Lliira** (Deities) (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
   - His most common foes are **Mask**, **Cyric**, **Talos** and **Bane**, whom he sees as the greatest threats to knowledge because each tries to lock it away, corrupt it or destroy it. He also opposed **Leira**, the former goddess of lies, and kept her revolutionary ideas confined to her small cult (*Faiths & Pantheons*, 3e).
@@ -101,10 +101,10 @@ Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning w
 
 ## Cross-References
 
-- **Deneir**, **Milil**, **Gond** (Deities, pages planned): the other Deities of Knowledge and Invention.
+- **Deneir**, **Milil**, **Gond** (Deities): the other Deities of Knowledge and Invention.
 - **Mystra**, **Azuth** (Deities): allies in the wiki's 2e and 3e accounts.
 - **Lathander** (Deities): ally in the wiki's accounts. **Lliira** (Deities): ally, and often mistaken for his servant.
-- **Mask**, **Cyric**, **Talos**, **Bane**, **Leira** (Deities, pages planned): the powers he opposes.
+- **Mask**, **Cyric**, **Talos**, **Bane**, **Leira** (Deities): the powers he opposes.
 - **Eiruk Weskur**, **Renaer Neverember** (Notable Figures): the priest and his circle, the Black Tears.
 - **Remallia Haventree** (Notable Figures): host of the salon where the Font's archivist appears. **The Harpers** (Organizations): the faction whose mission uses the salon.
 - **Castle Ward** (Gazetteer): the ward of the Font of Knowledge.
@@ -119,7 +119,7 @@ Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning w
 > - **Epithet:** The line leads with the Lord of Knowledge because FRHoF, SCAG and the wiki all carry it. Eiruk's voice profile has him call Oghma "the Binder" (`.claude/skills/character-voices/voices/independents-allies.md:215`), and no campaign file shows which name the city uses.
 > - **Conflict, plane:** FRHoF gives the Outlands (bundle `5etools.md:5`) and the wiki's 5e row agrees (`wiki.txt:22`). The wiki's 3e row gives the House of Knowledge (`wiki.txt:67`), and its 2e row gives the House of Knowledge in Tir na Og (`wiki.txt:84`). The page follows FRHoF.
 > - **Conflict, doctrine by edition:** The wiki's 2e and 3e Oghma judges which ideas reach the world and favors the status quo (`wiki.txt:136`, `:182`). The 4e account has him unable to stand the suppression of any idea (`wiki.txt:144`), and SCAG's present text has the faithful spreading knowledge as widely as possible. The page lists them in order and treats the earlier judge role as history.
-> - **Conflict, SCAG on Deneir and Milil:** The wiki cites SCAG, 5e, for the Scribe of Oghma and the left hand titles (`wiki.txt:188`), but the SCAG text in the bundle does not contain them. The page tags them as the wiki's claim.
+> - **Checked, SCAG on Deneir and Milil:** The Deneir bundle lists "The Scribe of Oghma" among his other names, and the Milil bundle's SCAG text calls Milil the god's left hand, also referred to as the One True Hand. The titles are SCAG's own and need no wiki tag.
 > - **Gazetteer gap:** `campaign/gazetteer/waterdeep/castle-ward.md:164` ends its temple list with "(see Landmarks)", yet Landmarks has an entry only for the Halls of Justice. The Font, the Spires of the Morning and the Temple of the Seldarine have none. The page quotes the Services and Culture lines instead.
 > - **Checked and not tied:** Rishaal the Page-Turner and Book Wyrm's Treasure. His page has no link to Oghma and makes him a Watchful Order mage who sells arcane texts (`campaign/setting/notable-figures/trollskull-community/06-rishaal-the-page-turner.md:26`), and in **Fireball!** he supplies *Gond's Artifice*, a book about Gond (`campaign/quests/act-ii/fireball/ev-01-the-fireball.md:160`). Volo's page has no tie to Oghma either (`campaign/setting/notable-figures/independents-allies/01-volothamp-volo-geddarm.md`). The Dragon Heist Castle Ward text is narrated by an unnamed guide writer who calls the chapter an "enchiridion" (`sources/adventure-wdh.json:31600`), but the line names no one, so the page does not credit it to Volo.
 > - **Names with no Notable Figures page:** Zalara Moonwhisper appears only in the Harpers mission files. Cullen Kordamant, the Orthodox Church of Oghma, the Oghmanyte Church and the Pursuers of Pure Knowledge are wiki names and appear as plain text. The research note labelled Zalara a Harper, but the mission files list her only as a guest with a lead, so the page gives her no faction.

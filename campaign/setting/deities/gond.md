@@ -107,10 +107,10 @@ Gond is the Wonderbringer, the neutral god of craft and invention, and smiths, e
 
 ## Cross-References
 
-- **Oghma**, **Deneir**, **Milil** (Deities, pages planned): the other Deities of Knowledge and Invention, with Oghma the god the wiki has Gond serving.
+- **Oghma**, **Deneir**, **Milil** (Deities): the other Deities of Knowledge and Invention, with Oghma the god the wiki has Gond serving.
 - **Lathander** (Deities): a friendly power, and a partner of the Gatherers of Gond.
 - **Tempus**, **Waukeen**, **Chauntea** (Deities, pages planned): the partners and the friendly rival.
-- **Talos** (Deities, page planned): his one major foe among the Faerûnian gods.
+- **Talos** (Deities): his one major foe among the Faerûnian gods.
 - **Cyric** (Deities): the god who commissioned armor from Gond in 1368 DR.
 - **Moradin**, **Garl Glittergold** (Deities, pages planned): the dwarf All-Father who counts as his friend, and the head of the gnome pantheon in which gnomes know Gond as Nebelun.
 - **Valetta** (Notable Figures): the senior cleric of the House.

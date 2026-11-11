@@ -85,7 +85,7 @@ Talona is the Lady of Poison, the goddess of disease and poison, whom the people
 ## Cross-References
 
 - **Bhaal** (Deities): the god she served before the Time of Troubles in the wiki account.
-- **Loviatar** (Deities, page planned): her fellow servant and rival, whose sister Kiputytto challenged her.
+- **Loviatar** (Deities): her fellow servant and rival, whose sister Kiputytto challenged her.
 - **Shar** (Deities): her one regular ally in the wiki account.
 - **Tyr**, **Chauntea**, **Mielikki**, **Kelemvor** (Deities): the four powers the wiki says she despised.
 - **Silvanus**, **Ilmater** (Deities): two more powers whose pages list her as a foe.

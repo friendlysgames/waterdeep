@@ -82,7 +82,7 @@ Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers a
 - **Lathander**, **Gond**, **Selûne**, **Shar**, **Mystra** (Deities): the lover, the friendly rival, the two powers whose war produced her and the third goddess of The Three in Rashemen.
 - **Mielikki**, **Silvanus** (Deities): her fellow nature powers, and the Forest Father whose wilds her fields tame.
 - **Eldath** (Deities): Eldath's wiki page lists Chauntea among her close relationships, alongside Selûne and Lathander (*Faiths & Pantheons*, 3e). Chauntea's own wiki page states no relation.
-- **Talona**, **Talos**, **Malar**, **Bane** (Deities, pages planned): the powers she opposes.
+- **Talona**, **Talos**, **Malar**, **Bane** (Deities): the powers she opposes.
 - **Timekeeping and the Festival Calendar** (History): Greengrass and Highharvestide.
 
 > **[GM]**
