@@ -62,7 +62,7 @@
 
 ## Overview
 
-Chauntea, the Great Mother, is the goddess of farming, and Waterdeep eats what the farms beyond its walls grow. Farmers and gardeners pray to her for a good harvest, and city families thank her at the table and when a child is born. The city has no temple to her, though Holyhands House in the North Ward welcomes worshipers of every god. Her faithful offer cut flowers at Greengrass in spring and give thanks for the harvest at Highharvestide in autumn.
+Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers and gardeners pray to her for a good harvest, and city families thank her at the table and when a child is born. The city has no temple to her, though Holyhands House in the North Ward welcomes worshipers of every god. Her faithful offer cut flowers at Greengrass in spring and give thanks for the harvest at Highharvestide in autumn.
 
 **Tone:** Warm, patient and a little plain. Chauntea is a goddess of small acts, so describe the meal, the garden and the field before any larger power, and keep her at a distance, since the campaign writes no scene in which she acts.
 
@@ -80,8 +80,8 @@ Chauntea, the Great Mother, is the goddess of farming, and Waterdeep eats what t
 ## Cross-References
 
 - **Lathander**, **Gond**, **Selûne**, **Shar**, **Mystra** (Deities): the lover, the friendly rival, the two powers whose war produced her and the third goddess of The Three in Rashemen.
-- **Mielikki**, **Silvanus** (Deities, pages planned): her fellow nature powers, and the Forest Father whose wilds her fields tame.
-- **Eldath** (Deities, page planned): drawn beside her in the wiki's gathering of nature gods, with no stated relation.
+- **Mielikki**, **Silvanus** (Deities): her fellow nature powers, and the Forest Father whose wilds her fields tame.
+- **Eldath** (Deities): drawn beside her in the wiki's gathering of nature gods, with no stated relation.
 - **Talona**, **Talos**, **Malar**, **Bane** (Deities, pages planned): the powers she opposes.
 - **Timekeeping and the Festival Calendar** (History): Greengrass and Highharvestide.
 
@@ -93,7 +93,7 @@ Chauntea, the Great Mother, is the goddess of farming, and Waterdeep eats what t
 > - **Conflict, realm:** The wiki's 2e row gives Great Mother's Garden (`wiki.txt:88`) and its 4e row gives Green Fields (`wiki.txt:57`). FRHoF gives Elysium (Eronia) only, so the page lists both realms by edition and uses FRHoF for the Plane field.
 > - **Conflict, the Earthmother:** SCAG says the Ffolk of the Moonshae Isles treat the Earthmother as a separate power (`5etools.md:36`). The wiki lists her as an aspect of Chauntea (`wiki.txt:10`) and ties the name to Jannath in her early days (`wiki.txt:161`). The page gives both accounts.
 > - **Derived:** The edict, taken from the FRHoF and SCAG text on nurturing and replanting. Areas of Concern. The Life Domain fit, the Thaumaturge and Protector orders, and Oath of the Ancients. Greengrass falling inside the campaign window, and Highharvestide outside it.
-> - **Research:** How Waterdhavians feel about Chauntea and which of her names they use (the epithet line leads with the Great Mother because FRHoF and SCAG both list it and the Dragon Heist text never names her). The Overview's statement that the city eats what outlying farms grow is common sense and the brief's framing; no campaign file states it. Any shrine or priest in the city. Areas of Concern in print. No Chauntea holy days appear in the wiki's infobox for any edition.
+> - **Research:** How Waterdhavians feel about Chauntea and which of her names they use (the epithet line leads with the Great Mother because FRHoF and SCAG both list it and the Dragon Heist text never names her). Any shrine or priest in the city. Areas of Concern in print. No Chauntea holy days appear in the wiki's infobox for any edition.
 > - **Not found:** The wiki page has no Second Sundering text and no Spellplague text beyond the Malar episode. It also states no relation to **Eldath**; the wiki's only link is an image caption (`wiki.txt:144`) showing her with Mielikki, Eldath and Silvanus. The page records the caption as a cross-reference only. The Gond friendly rivalry is not on the wiki's Chauntea page and is taken from `campaign/setting/deities/gond.md:46`.
 > - **Names with no page:** Shiallia, Mystryl, Argon Bael and Sheela Peryroyl are plain text, since none is on the roster or in Notable Figures. No Notable Figure is a farmer, grain merchant or charity worker; searches of `campaign/setting/notable-figures/` found none. The only Field Ward text on a related topic is a hay and feed yard (`campaign/quests/faction-events/doom-raiders/r50-dread-lord/ev-01-dread-lord.md:184`), which names no worshiper.
 > - **Left out:** The wiki's physical description, her cleric and druid class tables, the favored weapon, the Wa underground sect, the 1e symbol, and the animals, plants and colors lists. The wiki's 4e servant Sheela Peryroyl and the 3e sphere lists are also out.

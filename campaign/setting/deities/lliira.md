@@ -82,7 +82,7 @@ Lliira, Our Lady of Joy, is the goddess of joy, dance and festivals, and people 
 >
 > #### GM Notes
 > - **Lliira's Night and the ten days:** The festival falls on Flamerule 7, six days after Founders' Day and four days before the twins' ninth birthday on Flamerule 11 (derived). The festival calendar lists it and Sornyn as the two festivals inside the ten days between the feast and the birthday. Its hook is cover. Envoys and strangers are expected in the city and fireworks boom until dawn, so unfamiliar faces and loud noises draw no notice.
-> - **No worshiper, no Chosen, no intervention:** No file has Lliira appear or speak, and none names a Chosen or a worshiper of hers. Her reach in the story is the festival date, and no scene is written for it.
+> - **Presence in the story:** No file has Lliira appear or speak, and none names a Chosen or a worshiper of hers. Her reach in the story is the festival date, and no scene is written for it.
 
 **Tone:** Warm and light, in the brisk reference register. Lliira is a goddess of celebration, so describe what the party can enjoy before what she forbids, and keep her at a distance, since the campaign writes no scene in which she speaks.
 
