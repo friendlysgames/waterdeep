@@ -128,8 +128,8 @@ Lathander, the Morninglord, is the god of dawn, birth and renewal. People across
 - **Chauntea**, **Tymora**, **Beshaba** (Deities, pages planned): the goddess he loved for centuries, and the two goddesses who came from his earlier lover Tyche.
 - **Gond**, **Torm**, **Ilmater**, **Sune**, **Selûne**, **Oghma**, **Kelemvor**, **Mielikki** (Deities, pages planned): the allies the wiki names.
 - **Cyric**, **Talos**, **Shar**, **Bane** (Deities, pages planned): the powers he and the Dawnbringers oppose.
-- **Helm** (Deities, page planned): the god who resents him for Murdane's death.
-- **Waukeen** (Deities, page planned): the goddess he shares Sornyn with.
+- **Helm** (Deities): the god who resents him for Murdane's death.
+- **Waukeen** (Deities): the goddess he shares Sornyn with.
 - **The Cassalanters** (Organizations): the family whose head is publicly a worshiper.
 - **Victoro Cassalanter** (Notable Figures): the public worshiper.
 - **Castle Ward** (Gazetteer): the ward of the Spires of the Morning.

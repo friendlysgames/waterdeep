@@ -102,12 +102,12 @@ Ilmater is the Crying God, a lawful good power of endurance, suffering and marty
 ## Cross-References
 
 - **Tyr** (Deities): the head of the Triad and Ilmater's ally since -243 DR.
-- **Torm** (Deities, page planned): the third power to join the Triad.
-- **Lathander** (Deities, page planned): an ally of Ilmater and of the Broken Ones.
+- **Torm** (Deities): the third power to join the Triad.
+- **Lathander** (Deities): an ally of Ilmater and of the Broken Ones.
 - **Sune** (Deities, page planned): invited him to Brightwater after the Triad broke.
 - **Loviatar** (Deities, page planned): the Maiden of Pain, whose victims he protects and whose followers the Broken Ones oppose.
 - **Bane**, **Bhaal**, **Malar**, **Myrkul**, **Shar**, **Talona**, **Talos** (Deities, pages planned): the other powers he opposes.
-- **Helm** (Deities, page planned): the Temple of Helm is one of the Order of the Gauntlet's three temples.
+- **Helm** (Deities): the Temple of Helm is one of the Order of the Gauntlet's three temples.
 - **The Order of the Gauntlet** (Organizations): its temples and its talk of the Triad.
 - **Kalain** (Notable Figures): the painter whose lodger works at the Hospice in the Dragon Heist text.
 - **Trollskull Manor** (guide, Staff and Hiring): Brother Aldric's entry.
