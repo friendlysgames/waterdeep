@@ -33,7 +33,7 @@
 - **The prayer:** The faithful repeat an aphorism as a prayer. It begins "An idea has no heft but it can move mountains" and ends "Before anything else can exist, the idea must exist" (SCAG, 2014).
 - **Who follows:** Archivists, cartographers and sages (FRHoF). SCAG adds wizards, artists, bards, clerks, inventors and scribes. The wiki says his clerics may be of any alignment, which is unusual for a neutral god (*Faiths & Pantheons*, 3e).
 - **Everyday prayer:** Students pray to him to fill their minds, and teachers pray that he will guide their instruction. People across Faerûn invoke his name while trying to remember something, and they curse him when a memory stays just out of reach (FRHoF).
-- **Temples:** His temples collect and distribute books, scrolls and lore, and most of them double as public libraries. Those temples hold a daily evening service called the Covenant, in which clergy and laypeople read works of wisdom, songs and new knowledge aloud. They support themselves by selling maps, Spell Scrolls and other work of scribes, and they partner with priests of **Deneir** (Deities, page planned), who has few temples of his own (FRHoF).
+- **Temples:** His temples collect and distribute books, scrolls and lore, and most of them double as public libraries. Those temples hold a daily evening service called the Covenant, in which clergy and laypeople read works of wisdom, songs and new knowledge aloud. They support themselves by selling maps, Spell Scrolls and other work of scribes, and they partner with priests of **Deneir** (Deities), who has few temples of his own (FRHoF).
 - **Clergy:** The clergy include cloistered sages and archivists who analyze, file and copy the temple's archives, and traveling scholars who seek out new learning (FRHoF).
 - **Organization:** Wiki and SCAG sources.
   - The faith was once one of the few in Faerûn with an established orthodoxy and a complete network of temples. Schisms during the Time of Troubles shattered that network, and the faith now runs as individual temples or small networks of allied temples (SCAG, 2014).
@@ -46,7 +46,7 @@
   - He consults **Deneir**, **Milil** and **Gond** (Deities, pages planned) before he acts against a threat to knowledge, and he mulls over complex plots rather than intervening at once (FRHoF). The wiki makes the three his agents in the Deities of Knowledge and Invention, with Milil as the god of music, Deneir of writing and images, and Gond of crafts (*Faiths & Pantheons*, 3e).
   - Deneir is called the Scribe of Oghma and his right hand, and Milil is his left hand, also called the One True Hand. The wiki cites SCAG, 5e, for both titles.
   - Gond is the third hand and gives ideas physical form. Oghma admires his creativity but disapproves of how he places innovation above introspection and pushes technology too far, and the firearms made in Lantan in the 1360s DR strained their friendship (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
-  - His allies include **Mystra** and her servant **Azuth** (Deities, pages planned), **Lathander** (Deities) and **Lliira** (Deities, page planned) (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
+  - His allies include **Mystra** and her servant **Azuth** (Deities), **Lathander** (Deities) and **Lliira** (Deities, page planned) (*Faiths & Avatars*, 2e; *Faiths & Pantheons*, 3e).
   - His most common foes are **Mask**, **Cyric**, **Talos** and **Bane**, whom he sees as the greatest threats to knowledge because each tries to lock it away, corrupt it or destroy it. He also opposed **Leira**, the former goddess of lies, and kept her revolutionary ideas confined to her small cult (*Faiths & Pantheons*, 3e).
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - His faithful tell that soon after the world was made, a traveler from a faraway realm found a land of vague concepts waiting for form. He gave each one a name that bound it to a physical shape, and this is said to be the origin of the title the Binder. Some also say he gave written language to the world. Sages debate these tales, and none dispute that his faith is older than recorded history (*Faiths & Pantheons*, 3e).
@@ -102,7 +102,7 @@ Oghma is the Lord of Knowledge, a neutral god of ideas, invention and learning w
 ## Cross-References
 
 - **Deneir**, **Milil**, **Gond** (Deities, pages planned): the other Deities of Knowledge and Invention.
-- **Mystra**, **Azuth** (Deities, pages planned): allies in the wiki's 2e and 3e accounts.
+- **Mystra**, **Azuth** (Deities): allies in the wiki's 2e and 3e accounts.
 - **Lathander** (Deities): ally in the wiki's accounts. **Lliira** (Deities, page planned): ally, and often mistaken for his servant.
 - **Mask**, **Cyric**, **Talos**, **Bane**, **Leira** (Deities, pages planned): the powers he opposes.
 - **Eiruk Weskur**, **Renaer Neverember** (Notable Figures): the priest and his circle, the Black Tears.
