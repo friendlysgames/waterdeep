@@ -47,6 +47,7 @@
   - He lost his right hand to Kezef while a coalition of gods chained the Chaos Hound. Kezef insisted that Tyr put his right hand in its mouth if the contest was to be fair, and Tyr agreed (*Polyhedron* 118; *Powers & Pantheons*).
   - Lord Ao put out his eyes at the start of the Time of Troubles, for failing to notice the theft of the Tablets of Fate and for questioning Ao's justice (*Sword Coast Adventurer's Guide*, 5e; *Faiths & Avatars*; *Faiths & Pantheons*).
   - In 1384 DR he quarreled with Siamorphe over a battle between Tethyrian and Calishite forces. She left the House of the Triad to make her realm with Sune in Brightwater, and Sune proposed a marriage between Tyr and Tymora as a way to restore balance (*The Grand History of the Realms*).
+  - Tyr had sent Helm to Brightwater as his messenger. Rumor, which Cyric is suspected of starting, said Helm loved Tymora, so Tyr challenged him to a duel and killed him. Tymora left Brightwater to be with Tyr out of duty, and Ilmater left the Triad to join Sune there (*The Grand History of the Realms*, 4e). Helm returned after the Second Sundering, and his page tells the same story.
   - After he and Sune, with Lathander's help, imprisoned Cyric for a thousand years, he gave up his godhood and passed all his power to Torm, having lost faith in his own ability to lead and judge. His portfolio of justice went to Bahamut, who later served Torm (*The Crystal Mountain*; *Dragon* 381, 4e).
   - He died between 1385 DR and 1479 DR fighting a demonic invasion of the upper realms (*Forgotten Realms Campaign Guide*, 4e). He returned to life in the Second Sundering, in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e).
 - **In the campaign:** Tyr is alive and present in 1492 DR. His temple is a working temple, his priests act in his name, and no file treats him as dead or absent. The 4e death is a conflict that this page does not use (see Draft Notes).
@@ -103,7 +104,7 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 ## Cross-References
 
 - **Torm** (Deities, page planned): Tyr's war commander in the Triad, who receives his power in the wiki account.
-- **Ilmater** (Deities, page planned): the third member of the Triad.
+- **Ilmater** (Deities): a member of the Triad with Tyr and Torm, and the one who left it in the wiki's 1384 DR account.
 - **Lathander** (Deities, page planned): close to Tyr, and one of the three who imprisoned Cyric.
 - **Siamorphe** (Deities, page planned): Waterdeep's own goddess, who quarreled with Tyr in 1384 DR.
 - **Helm** (Deities, page planned): the Temple of Helm, which the Order of the Gauntlet treats as friendly.
@@ -127,5 +128,5 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 > - **Derived:** The one-line edict is written from the FRHoF and SCAG text on lawfulness and honesty, because no source gives one. Areas of Concern are derived from the portfolio "Justice". The War Domain and Protector fits and Oath of Devotion are derived.
 > - **Research:** Omens (none sourced). The 5e holy days (the wiki row is blank). Which of his names ordinary Waterdhavians use: the epithet line leads with the Even-Handed because Isaldric Veyne, the high priest, says it and the published Order of the Even-Handed carries it, but the Dragon Heist text writes only "Tyr". Which City Watch captain is the worshiper in `campaign/setting/waterdeep-lore.md:37`; Lady Gondafrey was a captain in 1379 DR, but the line is in the present tense and names no one.
 > - **Names with no Notable Figures page:** Father Corwen Thale, Isaldric Veyne, Brother Haldric Wence and Sister Ilvane Haste appear only in quest files, so they are not bold cross-references. Their faction labels come from those files: Haldric is listed under the Order of the Gauntlet and Ilvane under the Temple of Tyr.
-> - **Left out:** The wiki's 1384 DR account continues with a duel in which Tyr kills Helm (*The Grand History of the Realms*). It is left out because it would contradict the Helm page. The wiki's one named Chosen, Ingrar Welven, is also left out, since the campaign has none.
+> - **Left out:** The wiki's one named Chosen, Ingrar Welven, since the campaign has none.
 > - **Checks for other pages:** The campaign puts the Temple of Helm in the Castle Ward (`campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md:201`), while the Dragon Heist table puts Helm's Hall in the Southern Ward (`sources/adventure-wdh.json:30938-30940`). The hub's temples table should show both.
