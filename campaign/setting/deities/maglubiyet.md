@@ -119,7 +119,7 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 - **Bane** (Deities): the 4e god who drew him into his command, and whose realm lies on the same layer.
 - **Zariel** (Deities): the archdevil whose cults take in hobgoblins who leave his pantheon.
 - **Tiamat** (Deities): the Dragon Queen who bargained with him for goblinoid armies.
-- **Queen of Air and Darkness** (Deities, page planned): the archfey whose Feywild court the first goblins served.
+- **Queen of Air and Darkness** (Deities): the archfey whose Feywild court the first goblins served.
 - **Xanathar's Guild** (Organizations): the employer of the goblins and bugbears in the campaign.
 - **The Long Shadow** (History): the Guild's watch posts on the upper levels of Undermountain.
 - **Noska Ur'gray**, **Ott Steeltoes** (Notable Figures): the bugbear response team's leader and the fishkeeper the bugbears hunt in **Three Nights**.
