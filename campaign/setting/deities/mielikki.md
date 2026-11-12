@@ -107,7 +107,7 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 - **Malar**, **Talos**, **Talona**, **Myrkul** (Deities): the powers the wiki lists as her enemies.
 - **Lathander** (Deities): an ally in the wiki's account.
 - **Shaundakul** (Deities): an ally in the wiki's account.
-- **Corellon Larethian** (Deities, page planned): an elven ally in the wiki's account.
+- **Corellon Larethian** (Deities): an elven ally in the wiki's account.
 - **Tymora** (Deities): the Tower of Luck stands a block from the Shrines of Nature.
 - **The Emerald Enclave** (Organizations): the faction centered on Phaulkonmere.
 - **The Harpers** (Organizations): the wiki says many Harpers follow Mielikki.

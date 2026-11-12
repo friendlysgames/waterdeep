@@ -23,7 +23,7 @@
 
 **Morale.** In a fight, Fala would use druid magic to entangle or restrain before resorting to harm. They would die before betraying Ziraj's location to the Watch.
 
-**Relationships.** Fala is a close friend of Ziraj the Hunter (Doom Raiders assassin, who keeps a room on Fala's second floor), a neighbor and confidant of Tally Fellbranch, and a member of the Guild of Apothecaries and Physicians. Fala uses they/them pronouns, reflecting Corellon Larethon's genderless nature.
+**Relationships.** Fala is a close friend of Ziraj the Hunter (Doom Raiders assassin, who keeps a room on Fala's second floor), a neighbor and confidant of Tally Fellbranch, and a member of the Guild of Apothecaries and Physicians. Fala uses they/them pronouns, reflecting Corellon Larethian's genderless nature.
 
 ## Overview
 

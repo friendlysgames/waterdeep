@@ -94,8 +94,8 @@ Eilistraee, the Dark Maiden, is the chaotic good goddess of song, dance and moon
 
 ## Cross-References
 
-- **Lolth** (Deities, page planned): her mother and chief enemy, and the goddess Bregan D'aerthe rejects.
-- **Corellon Larethian** (Deities, page planned): her father, who banished the dark elven gods.
+- **Lolth** (Deities): her mother and chief enemy, and the goddess Bregan D'aerthe rejects.
+- **Corellon Larethian** (Deities): her father, who banished the dark elven gods.
 - **Ghaunadaur** (Deities, page planned): the Elder Eye, whose avatar she trapped.
 - **Mystra**, **Selûne**, **Mielikki** (Deities): the allies the wiki names.
 - **Malar**, **Tempus** (Deities): the evil god of the hunt she opposes, and the god her followers call the Butcher.
