@@ -82,7 +82,7 @@ Graz'zt is the demon prince of pleasure and excess, called the Dark Prince, and 
 
 - **Waukeen** (Deities): the goddess he imprisoned in the Abyss and her chief enemy.
 - **Asmodeus** (Deities): the archdevil he served in two of the wiki's origin theories.
-- **Iggwilv** (Deities, page planned): the witch-queen who was his lover and his enemy.
+- **Iggwilv** (Deities): the witch-queen who was his lover and his enemy.
 - **Demogorgon** (Deities): the demon prince whose failed summoning in 1486 DR brought Graz'zt to the Underdark.
 - **Ott Steeltoes** (Notable Figures): the one campaign NPC who worships a demon power, Zuggtmoy, and not Graz'zt.
 
