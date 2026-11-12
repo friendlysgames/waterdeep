@@ -5,7 +5,7 @@
 > **[GM]**
 >
 > #### Gamemaster's Summary
-> - **What this page is:** the hub of the Deities journal. It holds three choosing tables for all 73 powers, the list of Waterdeep's temples, and sections for the powers of other peoples and for warlock patrons.
+> - **What this page is:** the hub of the Deities journal. It holds four choosing tables for all 73 powers (by domain, by alignment, by character fit and by subclass), the list of Waterdeep's temples, and sections for the powers of other peoples and for warlock patrons.
 > - **Where it is used:** a player opens it to pick a deity or patron for a cleric, paladin, warlock or any religious character. The GM opens it to see who is worshiped where in Waterdeep.
 > - **Featured in:** no single quest. The power pages tie into **Fireball!**, **Vault of Dragons**, and the Order of the Gauntlet, Force Grey, Doom Raiders and Bregan D'aerthe missions. GM Notes below names the powers.
 > - **Spoiler limit:** the tables and the temples list repeat the common-knowledge tier of each page and may be shown to players. GM Notes and Draft Notes are for the GM only. The hub holds no hidden fact, and each power page keeps its own secrets in its own boxes.
@@ -16,7 +16,7 @@ Waterdeep honors a great many gods, and no one temple speaks for the city. On Go
 
 ## How to choose a deity
 
-Each table below lists all 73 powers, one row each, and every name in bold has its own page. The domains come from the Sword Coast Adventurer's Guide (SCAG, 2014) unless a cell names another book, and they are 2014 material. The 2024 Player's Handbook offers four cleric subclasses (Life, Light, Trickery and War), two Divine Orders (Protector and Thaumaturge), four paladin oaths (Devotion, Glory, the Ancients and Vengeance) and four warlock patrons (Archfey, Celestial, Fiend and Great Old One). The third table gives the nearest 2024 choice for each power.
+The first three tables below list all 73 powers, one row each, and every name in bold has its own page. The domains come from the Sword Coast Adventurer's Guide (SCAG, 2014) unless a cell names another book, and they are 2014 material. The 2024 Player's Handbook offers four cleric subclasses (Life, Light, Trickery and War), two Divine Orders (Protector and Thaumaturge), four paladin oaths (Devotion, Glory, the Ancients and Vengeance) and four warlock patrons (Archfey, Celestial, Fiend and Great Old One). This campaign also allows every option that no 2024 book has reprinted, apart from Plane Shift and World of Warcraft material. That brings the list to fourteen cleric domains, ten paladin oaths and ten warlock patrons. The third table gives each power's best fit among all of them, and the fourth table sorts the powers by option.
 
 ### By domain
 
@@ -180,83 +180,124 @@ Alignments are SCAG, 2014 unless a cell names another source. Rows are sorted fr
 
 ### By 2024 character fit
 
-Each entry is a fit that the power's page derives, not published rules, and the word in brackets is the page's own measure of how close it is. Two oaths are sourced: Heroes of Faerûn (FRHoF) names Oath of Devotion for **Torm** and **Ilmater**. Rows are sorted by cleric subclass, then by name. A cell reading "None" means the page found no fit.
+Each entry is a fit that the power's page derives, not published rules. The cleric column gives the page's best domain and the book it comes from. XPHB is the 2024 Player's Handbook, FRHoF is Heroes of Faerûn, RHW is Ravenloft: The Horrors Within, AU is Arcana Unleashed, XGE is Xanathar's Guide to Everything, TCE is Tasha's Cauldron of Everything, and PHB 2014 and DMG 2014 are the 2014 books. Oath names are shortened, so Devotion means Oath of Devotion. A word in brackets is the page's own rating where the page calls a fit loose, weak, moderate or fair. A fit with no bracket is one the page calls close or exact, or rates in no word. Most pages also name an alternative for each fit, and this table leaves those out. Two oaths are sourced: Heroes of Faerûn (FRHoF) names Oath of Devotion for **Torm** and **Ilmater**. Rows are sorted by cleric domain, in the order of the next table, then by name. A cell reading "None" means the page found no fit.
 
-| Power | Cleric subclass | Divine Order | Paladin oath | Warlock patron |
+| Power | Cleric domain | Divine Order | Paladin oath | Warlock patron |
 |---|---|---|---|---|
-| **Bahamut** | Life or War (each exact) | Protector | Devotion (good) | None |
-| **Chauntea** | Life (exact) | Thaumaturge (Protector for a blight-fighter) | Ancients (loose) | None |
-| **Eldath** | Life (close) | Thaumaturge | Ancients (loose) | None |
-| **Helm** | Life (Light a close second) | Protector | Devotion (close, not exact) | None |
-| **Ilmater** | Life | Thaumaturge | Devotion (named in FRHoF) | None |
-| **Kelemvor** | Life (loose; Light second) | Protector | Ancients (loose) | None |
-| **Lliira** | Life (close) | Protector | Ancients (loose) | None |
-| **Mielikki** | Life (loose) | Thaumaturge | Ancients | Archfey (loose) |
-| **Selûne** | Life (Light second) | Thaumaturge (Protector for the Swords of the Lady) | Ancients (Devotion second) | Celestial (loose) |
-| **Silvanus** | Life (loose) | Protector | Ancients (loose) | None |
-| **Sune** | Life (close; Light second) | Protector | Ancients (close) | None; Celestial is the nearest |
-| **Yondalla** | Life (exact) | Protector | Devotion (good) | None |
-| **Amaunator** | Light (Life second) | Thaumaturge | Devotion | Celestial (loose) |
-| **Azuth** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Corellon Larethian** | Light | Thaumaturge | Ancients (moderate) | Archfey (loose) |
-| **Deneir** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Eilistraee** | Light (moderate; Life second) | Protector | Ancients (loose) | None |
-| **Jergal** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Kossuth** | Light (exact by name) | Thaumaturge | Devotion (loose) | None |
-| **Lathander** | Light (Life second) | Thaumaturge | Devotion (Glory second) | Celestial (loose) |
-| **Mephistopheles** | Light (loose) | Thaumaturge | None | Fiend |
-| **Milil** | Light (close by name, loose in flavor) | Thaumaturge (nearest; no strong match) | Glory (loose) | None |
-| **Mystra** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Oghma** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Savras** | Light (loose) | Thaumaturge | Devotion (loose) | None |
-| **Siamorphe** | Light (nearest) | Protector | Devotion | None |
-| **Akadi** | Trickery (moderate) | Thaumaturge | Glory (loose) | None |
-| **Beshaba** | Trickery (direct) | Thaumaturge | Vengeance (loose) | Fiend (loose) |
-| **Bhaal** | Trickery (loose) | Thaumaturge | None of the four (Vengeance loosest) | None |
-| **Cyric** | Trickery (direct) | Thaumaturge | None of the four | None |
-| **Demogorgon** | Trickery (loose) | Not stated | None | Fiend |
-| **Garl Glittergold** | Trickery (exact) | Thaumaturge (Protector second) | Devotion (good) | None |
-| **Graz'zt** | Trickery (loose) | Thaumaturge | None | Fiend (good) |
-| **Ilsensine** | Trickery (loose) | Thaumaturge | None | Great Old One |
-| **Leira** | Trickery (direct) | Thaumaturge | None of the four | None |
-| **Lolth** | Trickery (close; War with MTF) | Thaumaturge (Protector with War) | Vengeance (loose) | Fiend (moderate) |
-| **Loviatar** | Trickery (loose) | Protector | None of the four (Vengeance loosest) | Fiend (loose) |
-| **Mammon** | Trickery (nearest) | Not stated | None | Fiend |
-| **Mask** | Trickery (exact) | Thaumaturge | Glory (weak) | None |
-| **Myrkul** | Trickery (loose) | Thaumaturge | Vengeance (poor) | None |
-| **Orcus** | Trickery (loose) | Thaumaturge | None | Fiend |
-| **Queen of Air and Darkness** | Trickery (fair) | Thaumaturge | None | Archfey (close) |
-| **Shar** | Trickery (close) | Thaumaturge | Vengeance (loose) | None |
-| **Shaundakul** | Trickery (loose) | Thaumaturge | Glory (loose) | None |
-| **Talona** | Trickery (loose) | Thaumaturge | None of the four | None |
-| **Tharizdun** | Trickery (loose) | Thaumaturge | None | Great Old One |
-| **Tiamat** | Trickery (direct) | Protector | Vengeance (loose) | Fiend (loose) |
-| **Tymora** | Trickery (direct) | Thaumaturge (Protector second) | Glory (loose) | None |
-| **Waukeen** | Trickery (closer of her two domains) | Protector | Devotion (loose) | None |
-| **Auril** | War (loose) | Protector | Vengeance (loose) | Archfey (loose) |
-| **Bane** | War | Protector | Vengeance (loose) | Fiend (loose) |
-| **Ghaunadaur** | War (close) | Protector | None | Great Old One (close) |
-| **Gond** | War (loose, through Forge) | Thaumaturge | Devotion (weak) | None |
-| **Grumbar** | War (loose) | Protector | Devotion (loose) | None |
-| **Gruumsh** | War | Protector | Vengeance (loose) | None |
-| **Gwaeron Windstrom** | War (loose) | Protector | Ancients (moderate; Vengeance second) | None |
-| **Hoar** | War (close) | Protector | Vengeance (close) | None |
-| **Istishia** | War (loose) | Protector | Ancients (loose) | None |
-| **Maglubiyet** | War (close) | Protector | Glory (loose) | None |
-| **Malar** | War (loose) | Protector | Vengeance (loose) | None |
-| **Moradin** | War (loose, through Forge) | Protector | Devotion (loose) | None |
-| **The Red Knight** | War (close) | Protector | Devotion (loose) | None |
-| **Talos** | War (loose) | Protector | Vengeance (loose) | None |
-| **Tempus** | War (exact) | Protector | Glory | None |
-| **Torm** | War (close) | Protector | Devotion (named in FRHoF) | None |
-| **Tyr** | War | Protector | Devotion | None |
-| **Umberlee** | War (loose) | Protector | Vengeance (loose) | None |
-| **Valkur** | War (good) | Protector | Glory (loose) | None |
-| **Asmodeus** | Not stated on his page | Not stated on his page | Not stated on his page | Fiend (his page gives no warlock rules) |
-| **Baba Yaga** | None | None | None | Archfey |
-| **Iggwilv** | None | None | None | Archfey (Fiend second) |
-| **Titania** | None | None | None | Archfey |
-| **Zariel** | None | None | None | Fiend |
+| **Bahamut** | Life or War (XPHB) | Protector | Devotion | None |
+| **Chauntea** | Life (XPHB) | Thaumaturge | Ancients (loose) | None |
+| **Ilmater** | Life (XPHB) | Thaumaturge | Devotion (named in FRHoF) | None |
+| **Lliira** | Life (XPHB) | Protector | Redemption | None |
+| **Sune** | Life (XPHB) | Protector | Ancients | None (Celestial is the nearest) |
+| **Yondalla** | Life (XPHB) | Protector | Crown | None |
+| **Kossuth** | Light (XPHB) | Thaumaturge | Noble Genies (fair) | None |
+| **Lathander** | Light (XPHB) | Thaumaturge | Devotion | Celestial (loose) |
+| **Beshaba** | Trickery (XPHB) | Thaumaturge | Oathbreaker (loose) | Fiend (loose) |
+| **Cyric** | Trickery (XPHB) | Thaumaturge | Oathbreaker (loose) | None |
+| **Demogorgon** | Trickery (XPHB, loose) | Thaumaturge | None | Fiend |
+| **Garl Glittergold** | Trickery (XPHB) | Thaumaturge | Redemption | None |
+| **Graz'zt** | Trickery (XPHB, loose) | Thaumaturge | Conquest (loose) | Fiend |
+| **Leira** | Trickery (XPHB) | Thaumaturge | None | None |
+| **Lolth** | Trickery (XPHB) | Thaumaturge | Oathbreaker (loose) | Fiend (moderate) |
+| **Mammon** | Trickery (XPHB) | Thaumaturge | None | Fiend |
+| **Mask** | Trickery (XPHB) | Thaumaturge | Glory (weak) | None |
+| **Queen of Air and Darkness** | Trickery (XPHB) | Thaumaturge | None | Archfey |
+| **Tymora** | Trickery (XPHB) | Thaumaturge | Glory (loose) | None |
+| **Waukeen** | Trickery (XPHB) | Protector | Devotion (loose) | None |
+| **Ghaunadaur** | War (XPHB) | Protector | Oathbreaker (loose) | Great Old One |
+| **Gruumsh** | War (XPHB) | Protector | Conquest | None |
+| **Hoar** | War (XPHB) | Protector | Vengeance | None |
+| **Maglubiyet** | War (XPHB) | Protector | Conquest | None |
+| **The Red Knight** | War (XPHB) | Protector | Crown (loose) | None |
+| **Tempus** | War (XPHB) | Protector | Glory | None |
+| **Torm** | War (XPHB) | Protector | Devotion (named in FRHoF) | None |
+| **Zariel** | War (XPHB) | Protector | Conquest | Fiend |
+| **Baba Yaga** | Knowledge (FRHoF, loose) | Thaumaturge | None | Archfey (moderate) |
+| **Deneir** | Knowledge (FRHoF) | Thaumaturge | Devotion (loose) | None |
+| **Grumbar** | Knowledge (FRHoF) | Thaumaturge | Noble Genies (fair) | None |
+| **Ilsensine** | Knowledge (FRHoF) | Thaumaturge | Conquest | Great Old One |
+| **Jergal** | Knowledge (FRHoF) | Thaumaturge | Devotion (loose) | None |
+| **Milil** | Knowledge (FRHoF) | Thaumaturge | Glory (loose) | None |
+| **Oghma** | Knowledge (FRHoF) | Thaumaturge | Devotion (loose) | None |
+| **Savras** | Knowledge (FRHoF) | Thaumaturge | Devotion (loose) | None |
+| **Kelemvor** | Grave (RHW) | Protector | Ancients (loose) | None |
+| **Azuth** | Arcana (AU) | Thaumaturge | Devotion (loose) | None |
+| **Corellon Larethian** | Arcana (AU) | Thaumaturge | Ancients (moderate) | Archfey (loose) |
+| **Iggwilv** | Arcana (AU, loose) | Thaumaturge | None | Archfey |
+| **Mephistopheles** | Arcana (AU) | Thaumaturge | None | Fiend |
+| **Mystra** | Arcana (AU) | Thaumaturge | Devotion (loose) | None |
+| **Gwaeron Windstrom** | Nature (PHB 2014) | Protector | Vengeance | None |
+| **Malar** | Nature (PHB 2014) | Protector | Vengeance (loose) | None |
+| **Mielikki** | Nature (PHB 2014) | Thaumaturge | Ancients | Archfey (loose) |
+| **Silvanus** | Nature (PHB 2014) | Protector | Ancients (loose) | None |
+| **Akadi** | Tempest (PHB 2014) | Thaumaturge | Noble Genies (fair) | None |
+| **Auril** | Tempest (PHB 2014) | Thaumaturge | Conquest (loose) | Archfey (loose) |
+| **Istishia** | Tempest (PHB 2014) | Thaumaturge | Noble Genies (fair) | None |
+| **Shaundakul** | Tempest (PHB 2014, loose) | Thaumaturge | Glory (loose) | None |
+| **Talos** | Tempest (PHB 2014) | Protector | Vengeance (loose) | None |
+| **Umberlee** | Tempest (PHB 2014) | Thaumaturge | Vengeance (loose) | Fathomless (loose) |
+| **Valkur** | Tempest (PHB 2014) | Protector | Glory (fair) | None |
+| **Bhaal** | Death (DMG 2014) | Thaumaturge | Oathbreaker (loose) | None |
+| **Myrkul** | Death (DMG 2014) | Thaumaturge | Oathbreaker (loose) | None |
+| **Orcus** | Death (DMG 2014) | Thaumaturge | Oathbreaker | Undead |
+| **Talona** | Death (DMG 2014) | Thaumaturge | Oathbreaker (loose) | None |
+| **Tharizdun** | Death (DMG 2014) | Thaumaturge | None | Great Old One |
+| **Gond** | Forge (XGE) | Thaumaturge | Devotion (weak) | None |
+| **Moradin** | Forge (XGE) | Protector | Crown (loose) | None |
+| **Amaunator** | Order (TCE) | Thaumaturge | Crown | Vestige |
+| **Asmodeus** | Order (TCE) | Thaumaturge | Oathbreaker | Fiend |
+| **Bane** | Order (TCE) | Protector | Conquest | Fiend (loose) |
+| **Loviatar** | Order (TCE) | Protector | Oathbreaker (loose) | Fiend (loose) |
+| **Siamorphe** | Order (TCE) | Protector | Crown | None |
+| **Tiamat** | Order (TCE) | Protector | Conquest | Fiend (loose) |
+| **Tyr** | Order (TCE) | Protector | Devotion | None |
+| **Eldath** | Peace (TCE) | Thaumaturge | Redemption | None |
+| **Titania** | Peace (TCE, loose) | Protector | Ancients (loose) | Archfey |
+| **Eilistraee** | Twilight (TCE) | Protector | Redemption (loose) | None |
+| **Helm** | Twilight (TCE) | Protector | Crown | None |
+| **Selûne** | Twilight (TCE) | Thaumaturge | Ancients | Celestial (loose) |
+| **Shar** | Twilight (TCE) | Thaumaturge | Oathbreaker (loose) | None |
+
+### By subclass
+
+This table sorts the powers by option. A power is listed under an option only where its page gives that option as the best fit. **Bahamut** appears under both Life and War, because his page calls each an exact fit. The ratings are in the table above.
+
+| Class | Option | Source | Powers whose pages give it as the best fit |
+|---|---|---|---|
+| Cleric | Life Domain | Player's Handbook 2024 (XPHB) | **Bahamut**, **Chauntea**, **Ilmater**, **Lliira**, **Sune**, **Yondalla** |
+| Cleric | Light Domain | Player's Handbook 2024 (XPHB) | **Kossuth**, **Lathander** |
+| Cleric | Trickery Domain | Player's Handbook 2024 (XPHB) | **Beshaba**, **Cyric**, **Demogorgon**, **Garl Glittergold**, **Graz'zt**, **Leira**, **Lolth**, **Mammon**, **Mask**, **Queen of Air and Darkness**, **Tymora**, **Waukeen** |
+| Cleric | War Domain | Player's Handbook 2024 (XPHB) | **Bahamut**, **Ghaunadaur**, **Gruumsh**, **Hoar**, **Maglubiyet**, **The Red Knight**, **Tempus**, **Torm**, **Zariel** |
+| Cleric | Knowledge Domain | Forgotten Realms: Heroes of Faerûn (FRHoF) | **Baba Yaga**, **Deneir**, **Grumbar**, **Ilsensine**, **Jergal**, **Milil**, **Oghma**, **Savras** |
+| Cleric | Grave Domain | Ravenloft: The Horrors Within (RHW) | **Kelemvor** |
+| Cleric | Arcana Domain | Arcana Unleashed (AU) | **Azuth**, **Corellon Larethian**, **Iggwilv**, **Mephistopheles**, **Mystra** |
+| Cleric | Nature Domain | Player's Handbook 2014 | **Gwaeron Windstrom**, **Malar**, **Mielikki**, **Silvanus** |
+| Cleric | Tempest Domain | Player's Handbook 2014 | **Akadi**, **Auril**, **Istishia**, **Shaundakul**, **Talos**, **Umberlee**, **Valkur** |
+| Cleric | Death Domain | Dungeon Master's Guide 2014 | **Bhaal**, **Myrkul**, **Orcus**, **Talona**, **Tharizdun** |
+| Cleric | Forge Domain | Xanathar's Guide to Everything (XGE) | **Gond**, **Moradin** |
+| Cleric | Order Domain | Tasha's Cauldron of Everything (TCE) | **Amaunator**, **Asmodeus**, **Bane**, **Loviatar**, **Siamorphe**, **Tiamat**, **Tyr** |
+| Cleric | Peace Domain | Tasha's Cauldron of Everything (TCE) | **Eldath**, **Titania** |
+| Cleric | Twilight Domain | Tasha's Cauldron of Everything (TCE) | **Eilistraee**, **Helm**, **Selûne**, **Shar** |
+| Paladin | Oath of Devotion | Player's Handbook 2024 (XPHB) | **Azuth**, **Bahamut**, **Deneir**, **Gond**, **Ilmater**, **Jergal**, **Lathander**, **Mystra**, **Oghma**, **Savras**, **Torm**, **Tyr**, **Waukeen** |
+| Paladin | Oath of Glory | Player's Handbook 2024 (XPHB) | **Mask**, **Milil**, **Shaundakul**, **Tempus**, **Tymora**, **Valkur** |
+| Paladin | Oath of the Ancients | Player's Handbook 2024 (XPHB) | **Chauntea**, **Corellon Larethian**, **Kelemvor**, **Mielikki**, **Selûne**, **Silvanus**, **Sune**, **Titania** |
+| Paladin | Oath of Vengeance | Player's Handbook 2024 (XPHB) | **Gwaeron Windstrom**, **Hoar**, **Malar**, **Talos**, **Umberlee** |
+| Paladin | Oath of the Noble Genies | Forgotten Realms: Heroes of Faerûn (FRHoF) | **Akadi**, **Grumbar**, **Istishia**, **Kossuth** |
+| Paladin | Oathbreaker | Dungeon Master's Guide 2014 | **Asmodeus**, **Beshaba**, **Bhaal**, **Cyric**, **Ghaunadaur**, **Lolth**, **Loviatar**, **Myrkul**, **Orcus**, **Shar**, **Talona** |
+| Paladin | Oath of the Crown | Sword Coast Adventurer's Guide (SCAG) | **Amaunator**, **Helm**, **Moradin**, **The Red Knight**, **Siamorphe**, **Yondalla** |
+| Paladin | Oath of Conquest | Xanathar's Guide to Everything (XGE) | **Auril**, **Bane**, **Graz'zt**, **Gruumsh**, **Ilsensine**, **Maglubiyet**, **Tiamat**, **Zariel** |
+| Paladin | Oath of Redemption | Xanathar's Guide to Everything (XGE) | **Eilistraee**, **Eldath**, **Garl Glittergold**, **Lliira** |
+| Paladin | Oath of the Watchers | Tasha's Cauldron of Everything (TCE) | No page uses it |
+| Warlock | Archfey Patron | Player's Handbook 2024 (XPHB) | **Auril**, **Baba Yaga**, **Corellon Larethian**, **Iggwilv**, **Mielikki**, **Queen of Air and Darkness**, **Titania** |
+| Warlock | Celestial Patron | Player's Handbook 2024 (XPHB) | **Lathander**, **Selûne** |
+| Warlock | Fiend Patron | Player's Handbook 2024 (XPHB) | **Asmodeus**, **Bane**, **Beshaba**, **Demogorgon**, **Graz'zt**, **Lolth**, **Loviatar**, **Mammon**, **Mephistopheles**, **Tiamat**, **Zariel** |
+| Warlock | Great Old One Patron | Player's Handbook 2024 (XPHB) | **Ghaunadaur**, **Ilsensine**, **Tharizdun** |
+| Warlock | Undead Patron | Ravenloft: The Horrors Within (RHW) | **Orcus** |
+| Warlock | Vestige Patron | Arcana Unleashed (AU) | **Amaunator** |
+| Warlock | The Undying | Sword Coast Adventurer's Guide (SCAG) | No page uses it |
+| Warlock | The Fathomless | Tasha's Cauldron of Everything (TCE) | **Umberlee** |
+| Warlock | The Genie | Tasha's Cauldron of Everything (TCE) | No page uses it |
+| Warlock | The Hexblade | Xanathar's Guide to Everything (XGE) | No page uses it |
 
 ## Waterdeep's temples
 
@@ -301,18 +342,17 @@ Eight powers lead the faiths of peoples other than the humans of Faerûn. Their 
 
 ## Patrons
 
-A patron is a single powerful being that strikes a bargain with a warlock, where a god is worshiped by a whole faith. None of the thirteen patron pages places a temple in Waterdeep. **Asmodeus** is a god on the Faerûnian list and also the fourth archdevil, so he appears in the Fiend table beside the patrons.
+A patron is a single powerful being that strikes a bargain with a warlock, where a god is worshiped by a whole faith. None of the thirteen patron pages places a temple in Waterdeep. **Asmodeus** is a god on the Faerûnian list and also the fourth archdevil, so he appears in the Fiend table beside the patrons. The groups below follow the warlock patron that each page fits best, and the third table repeats the same fits.
 
 ### Fiend
 
 | Patron | Kind | Title | Realm | Warlock fit |
 |---|---|---|---|---|
 | **Zariel** | Archdevil | Lord of the First, Archduchess of Avernus | Avernus, first layer of the Nine Hells | Fiend (derived) |
-| **Asmodeus** | Archdevil and god | God of Indulgence | Nessus, the bottommost layer of the Nine Hells | Fiend (his page gives no warlock rules) |
+| **Asmodeus** | Archdevil and god | God of Indulgence | Nessus, the bottommost layer of the Nine Hells | Fiend (derived) |
 | **Mephistopheles** | Archdevil | Lord of the Eighth, Archduke of Cania | Cania, in the Nine Hells | Fiend (derived) |
 | **Mammon** | Archdevil | Lord of the Third, Archduke of Minauros | Minauros, in the Nine Hells | Fiend (derived) |
-| **Orcus** | Demon lord | Demon Lord of Undeath | The Abyss, in the layer of Thanatos | Fiend (derived) |
-| **Demogorgon** | Demon lord | Prince of Demons | The Abyss, in the Gaping Maw | Fiend (derived) |
+| **Demogorgon** | Demon lord | Prince of Demons | The Abyss, in the Gaping Maw | Fiend (derived); Great Old One is the alternative |
 | **Graz'zt** | Demon prince | The Dark Prince | The Abyss, in Azzagrat | Fiend (derived, a good fit) |
 
 ### Archfey
@@ -321,7 +361,7 @@ A patron is a single powerful being that strikes a bargain with a warlock, where
 |---|---|---|---|---|
 | **Titania** | Archfey | Summer Queen | The Feywild, in the palace Senaliesse | Archfey (derived) |
 | **Queen of Air and Darkness** | Archfey | Ruler of the Unseelie Court | The Feywild | Archfey (derived, a close fit) |
-| **Baba Yaga** | Archfey | Mother of All Witches | The Feywild, in the swamp Murkendraw (4e) | Archfey (derived) |
+| **Baba Yaga** | Archfey | Mother of All Witches | The Feywild, in the swamp Murkendraw (4e) | Archfey (derived, a moderate fit) |
 | **Iggwilv** | Witch-queen and archfey | The Witch Queen | Prismeer, her Domain of Delight in the Feywild | Archfey (derived, best fit); Fiend is the alternative, through Graz'zt |
 
 ### Great Old One
@@ -332,9 +372,15 @@ A patron is a single powerful being that strikes a bargain with a warlock, where
 | **Ghaunadaur** | Drow god | That Which Lurks | [research] | Great Old One (derived, a close fit) |
 | **Tharizdun** | Imprisoned elder power | The Chained God | Imprisoned in a demiplane | Great Old One (derived) |
 
+### Undead
+
+| Patron | Kind | Title | Realm | Warlock fit |
+|---|---|---|---|---|
+| **Orcus** | Demon lord | Demon Lord of Undeath | The Abyss, in the layer of Thanatos | Undead (derived); Fiend is the alternative |
+
 ### Celestial
 
-No patron page is Celestial. The Celestial patron is a loose fit for **Amaunator**, **Lathander** and **Selûne**, and **Sune** is the nearest by her messengers. No source presents any of the four as a patron. The warlock column of the third table also lists the gods whose pages give a Fiend or Archfey fit.
+No patron page is Celestial, but the Celestial patron is available. **Lathander** and **Selûne** give it as a loose fit, and **Amaunator** names it as the alternative to the Vestige patron for a warlock who serves the living god. **Sune** has no warlock connection in the sources, and her page names Celestial as the nearest fit through her couatl and deva messengers. No source presents any of the four as a patron. The warlock column of the third table also lists the gods whose pages give an Archfey, Fiend, Great Old One, Vestige or Fathomless fit.
 
 ## Overview
 
@@ -344,7 +390,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 >
 > #### GM Notes
 > - **Running a choice:** When a player settles on a power, open that power's page and read its Using box first. The tables on this page only point the player to it.
-> - **Reading the fit table:** Every subclass, order, oath and patron in the third table is a fit derived on the power's own page. The word in brackets is that page's own measure of how close it is. If a player wants a different fit, the page's Using box says what the alternatives cost.
+> - **Reading the fit table:** Every domain, order, oath and patron in the third table is a fit derived on the power's own page, except the Oath of Devotion for Torm and Ilmater, which Heroes of Faerûn names. The campaign allows fourteen cleric domains, ten paladin oaths and ten warlock patrons, and the fourth table shows which of them the pages use. A word in brackets is the page's own rating of a fit it calls loose, weak, moderate or fair. If a player wants a different fit, the page's Using box names its alternatives.
 > - **Bregan D'aerthe and Lolth:** Bregan D'aerthe has rejected Lolth as its goddess. No member worships her, keeps a shrine to her or invokes the Spider Queen with devotion, and members speak of her with contempt. Do not give any company member a shrine, a prayer or a kind word for her. Lolth's page quotes the campaign lines.
 > - **Powers with a quest, faction or character tie:**
 >   - **Fireball!:** Gond and Mystra.
@@ -366,6 +412,7 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 - `docs/plans/setting-compendium-pass2-brief.md` and `docs/plans/setting-compendium-pass2-drafter-instructions.md`: the roster of 73 powers, the hub spec and the Dragon Heist Major Temples table.
 - `sources/adventure-wdh.json`: the Major Temples of Waterdeep table (caption at line 30910, rows at lines 30921 to 30996); Marpenoth 15: Gods' Day (lines 31531 to 31535).
 - Every page in `campaign/setting/deities/` (all 73 powers): Title, Domains, Alignment, the Pantheon field, and the cleric, paladin and warlock lines of each Using box. The derived fits in the third table are copied from those lines.
+- `docs/plans/setting-compendium-pass2-subclass-reference.md` and `docs/plans/setting-compendium-pass2-repass-instructions.md`: the 34 available options with their sources, and the rules of the subclass re-pass that the fit tables follow.
 - `campaign/setting/waterdeep-lore.md` (line 36): Tymora and Selûne as the Sea Ward's major temples; the Halls of Justice and the House of Inspired Hands.
 - `campaign/gazetteer/waterdeep/castle-ward.md` (lines 164 to 166): the Castle Ward temples, the Tower of Luck and Temple of Helm placement notes, and the missing hooks.
 - `campaign/quests/faction-events/order-of-the-gauntlet/r03-marcheon/ev-01-marcheon.md` (lines 201 and 229), `r10-whitehawk/ev-01-whitehawk.md` (line 150) and `00-first-meeting/ev-01-first-meeting.md` (line 192): the Temple of Helm in the Castle Ward and the Chapel of the Steadfast Shield in the Dock Ward.
@@ -394,14 +441,19 @@ This journal gathers the powers that a character in Waterdeep might follow or ba
 > - **Conflict, the Queenspire:** The table above shows "Beach (Dragon Heist; no ward named)" (`sources/adventure-wdh.json:30993-30995`). The campaign calls the water "Deepwater Harbor" (`campaign/quests/faction-events/force-grey/m02-the-dragon-in-the-harbor/overview.md:21`) and Dragon Heist writes "Great Harbor" (`:31394`). No source says whether they are the same. [research]
 > - **Conflict, Shrines of Nature:** The table says "Shrines of Nature" (`sources/adventure-wdh.json:30954`) and the Sea Ward text says "Shrines to Nature" (`:30884`). The list follows the table, as the Mielikki and Silvanus pages do.
 > - **Left out of the temples table:** The Temple of Milil has no ward in any source, and its only mention is Lysa of the White Lute's history (`campaign/guides/trollskull-manor/03-staff-and-hiring.md:85`). The wiki's Chapel and Chalice of the Divine Right for Siamorphe has no ward either. The Court of the White Bull (Azuth) is a plaza, the City of the Dead (Kelemvor) is a necropolis, Phaulkonmere (Mielikki's Chosen) is an estate, and Bane's one campaign site is not a public temple. None of them is a temple a source places in a ward.
-> - **Gap, Asmodeus's page:** His Using box has no cleric subclass, Divine Order, paladin oath or warlock fit. It reads "A cleric PC" with domains only and "A warlock or oath PC" with `[research]`. The hub shows "Not stated on his page" in those cells and takes Fiend from the brief's hub facts. His page needs the derived fits added.
-> - **Gap, Demogorgon and Mammon:** Neither page states a Divine Order. The hub shows "Not stated".
-> - **Pages with combined bullets:** The patron pages use "A cleric or paladin PC" in one bullet, and Ghaunadaur, Mammon, Orcus, Demogorgon, Graz'zt, Mephistopheles, Ilsensine, Queen of Air and Darkness, Iggwilv, Baba Yaga and Titania do not give an oath. The hub reads those oath cells as "None".
-> - **Paladin lines with no oath:** Bhaal, Cyric, Leira, Loviatar and Talona say none of the four oaths fits. Mask's page calls Glory a weak fit. Myrkul's page calls Vengeance a poor fit. The hub reproduces each as written.
+> - **Asmodeus's page:** His Using box now gives Order Domain, the Thaumaturge order, Oathbreaker and Fiend Patron, all derived, so the hub no longer shows "Not stated" for him. Demogorgon and Mammon now state Thaumaturge, so no Divine Order cell is empty.
+> - **Pages with combined bullets:** Demogorgon, Mammon and Mephistopheles still use one "A cleric or paladin PC" bullet, and each says no oath fits. The hub reads their oath cells as "None". Baba Yaga, Iggwilv, Leira, the Queen of Air and Darkness and Tharizdun say the same in a separate paladin line, which makes eight powers with no oath.
+> - **Judgment-call fits:** The pages rate these fits below close, or choose them over an option the page lists. The hub reproduces each as written. No page now calls an oath poor.
+>   - **Cleric domains rated loose:** Baba Yaga (Knowledge), Demogorgon (Trickery), Graz'zt (Trickery), Iggwilv (Arcana), Shaundakul (Tempest) and Titania (Peace). None of the six has a SCAG domain, so each fit rests on the portfolio.
+>   - **Domains chosen over the listed one:** Amaunator takes Order over his listed Life and Light. Eilistraee takes Twilight over Light and Nature. Loviatar takes Order over Death. Milil takes Knowledge over Light, and his page says no Divine Order is a strong match and takes Thaumaturge as the nearest. Shar takes Twilight over Death and Trickery. Tharizdun takes Death over his printed Trickery, and Tiamat takes Order over hers. Each of those pages names one of the listed domains as the alternative. Bahamut's page calls Life and War equally exact, so he appears under both in the fourth table.
+>   - **Paladin oaths rated loose (31):** Devotion for Azuth, Deneir, Jergal, Mystra, Oghma, Savras and Waukeen. Oathbreaker for Beshaba, Bhaal, Cyric, Ghaunadaur, Lolth, Loviatar, Myrkul, Shar and Talona. Ancients for Chauntea, Kelemvor, Silvanus and Titania. Conquest for Auril and Graz'zt. Redemption for Eilistraee. Vengeance for Malar, Talos and Umberlee. Glory for Milil, Shaundakul and Tymora. Crown for Moradin and The Red Knight. Nine of the eleven Oathbreaker fits are loose, and the pages for Loviatar and Talona note that it is the only available oath that can serve an evil power. Oathbreaker is not rated loose for Asmodeus or Orcus.
+>   - **Paladin oaths rated weak, moderate or fair:** Gond (Devotion) and Mask (Glory) are weak, Corellon Larethian (Ancients) is moderate, and Akadi, Grumbar, Istishia and Kossuth (Noble Genies) and Valkur (Glory) are fair.
+>   - **Warlock patrons rated loose or moderate:** Corellon Larethian, Mielikki and Auril (Archfey), Lathander and Selûne (Celestial), Bane, Beshaba, Loviatar and Tiamat (Fiend), and Umberlee (the Fathomless) are loose. Baba Yaga (Archfey) and Lolth (Fiend) are moderate.
+>   - **Warlock patrons where the page weighed two options:** Orcus takes Undead over Fiend, Demogorgon takes Fiend over Great Old One, Iggwilv takes Archfey over Fiend, and Amaunator takes Vestige over Celestial. Amaunator's page says he is a living god in 1492 DR, so Vestige is a backstory choice for the player. Sune's page finds no warlock connection and names Celestial only as the nearest.
 > - **Sourced, not derived:** Torm's and Ilmater's Oath of Devotion come from FRHoF. Every other entry in the third table is derived.
 > - **Domain sources:** Heads and patrons use the PHB, MTF or wiki domains their pages cite, and the cell names the book. Shaundakul has no SCAG or FRHoF domain, so he sits with the powers that have none in 5etools.
 > - **Eilistraee and Corellon:** Their pages carry MTF's extra domains (Life for Eilistraee; Life and War for Corellon), and the hub shows them in brackets beside SCAG's.
 > - **Iggwilv:** She is listed under Archfey with Fiend as the alternative, as her page says.
-> - **Derived on this page:** The sort orders, the Kind column, the counts (73 powers: 52 gods, 8 powers of other peoples, 13 patrons) and the opening's claim that the larger temples stand mostly in the Castle and Sea Wards, which counts the table rows.
+> - **Derived on this page:** The sort orders, the Kind column, the By subclass grouping (read from the first fit on each page's cleric, paladin and warlock lines; 34 options, of which four have no page: the Oath of the Watchers, the Undying, the Genie and the Hexblade; all 14 domains are used), the counts (73 powers: 52 gods, 8 powers of other peoples, 13 patrons) and the opening's claim that the larger temples stand mostly in the Castle and Sea Wards, which counts the table rows.
 > - **Names with no page:** Meritide Blackfin has no Notable Figures page, so he is plain text. The Order of the Gauntlet temples' priests and door-wardens are named on the Tyr page only.
 > - **Not run:** `voicecheck.py` was not run on this file. The drafting agent had no shell. The main session runs it.
