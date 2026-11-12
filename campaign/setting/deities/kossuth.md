@@ -93,7 +93,7 @@ Kossuth, the Firelord, is the neutral god of fire and of purification through fi
 - **Akadi**, **Grumbar** (Deities): the other two elemental powers.
 - **Bane** (Deities): the god whose return pleased him.
 - **Talos** (Deities): the storm god whose view of destruction some Disciples of the Salamander share.
-- **Moradin** (Deities, page planned): the dwarf-father who honors him for the heat of the forge.
+- **Moradin** (Deities): the dwarf-father who honors him for the heat of the forge.
 - **Esloon Bezant**, **Kaevja Cynavern** (Notable Figures): the two Red Wizards in the campaign files.
 - **The Red Wizard's Price**, **Kolat Towers** (quests): where the two Red Wizards come into play.
 

@@ -106,7 +106,7 @@ Corellon Larethian is the elven god of art and magic, who made the elves and lea
 
 ## Cross-References
 
-- **Lolth**, **Eilistraee** (Deities, pages planned): the exiled first wife, who became the Spider Queen, and the daughter who stayed his ally.
+- **Lolth**, **Eilistraee** (Deities): the exiled first wife, who became the Spider Queen, and the daughter who stayed his ally.
 - **Gruumsh** (Deities, page planned): the orc god whose eye he took.
 - **Moradin**, **Garl Glittergold**, **Yondalla** (Deities, pages planned): the heads of the dwarven, gnomish and halfling pantheons, which the wiki lists as his allies.
 - **Azuth**, **Mystra**, **Savras** (Deities): the powers of magic on good terms with him.

@@ -111,7 +111,7 @@ Tempus is the god of war, called the Lord of Battles and the Foehammer, and his 
 - **The Red Knight** (Deities): the goddess of strategy whose ascension he sponsored and who looks to him as a father.
 - **Gond**, **Beshaba**, **Eldath**, **Sune** (Deities): his friend, his former lover and the two goddesses who differ from him.
 - **Selûne**, **Shar**, **Lathander** (Deities): the powers of the primordial clashes behind his rise and the 1345 DR unrest.
-- **Valkur**, **Eilistraee** (Deities, pages planned): a casual friend and the goddess whose followers call him the Butcher.
+- **Valkur**, **Eilistraee** (Deities): a casual friend and the goddess whose followers call him the Butcher.
 - **Castle Ward** (Gazetteer): the ward whose note lists Tempus among the city-wide faiths, and where the Plowing and Running races pass.
 - **Timekeeping and the Festival Calendar** (History): the festivals held at the Field of Triumph.
 - **Meloon Wardragon** (Notable Figures) and **Force Grey** (Organizations): the leader and team of the final round at the Field of Triumph.
