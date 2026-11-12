@@ -105,12 +105,12 @@ Quotes are full and exact, with the file and line. Cover only these fields, so t
 
 The Deities journal's cleric, paladin and warlock advice draws on every option below. Source: the 5etools class data (`class-cleric.json`, `class-paladin.json`, `class-warlock.json`). The user's ruling: "Anything that hasn't been reprinted yet goes into the available subclasses, except for Plane Shift subclasses. No Warcraft subclasses." So an older option is available only if no 2024 book has printed an equivalent. Where a 2024 version exists, use the 2024 version and drop the older one.
 
-**Cleric domains (13):** Life (PHB 2024 p.73), Light (p.74), Trickery (p.75), War (p.76), Knowledge (Heroes of Faerun p.18), Grave (Ravenloft: The Horrors Within p.19), Arcana (Arcana Unleashed p.8), Nature (PHB 2014), Tempest (PHB 2014), Death (DMG 2014), Forge (Xanathar's), Order (Tasha's), Peace (Tasha's), Twilight (Tasha's).
+**Cleric domains (14):** Life (PHB 2024 p.73), Light (p.74), Trickery (p.75), War (p.76), Knowledge (Heroes of Faerun p.18), Grave (Ravenloft: The Horrors Within p.19), Arcana (Arcana Unleashed p.8), Nature (PHB 2014), Tempest (PHB 2014), Death (DMG 2014), Forge (Xanathar's), Order (Tasha's), Peace (Tasha's), Twilight (Tasha's).
 
-**Paladin oaths (13):** Devotion (PHB 2024 p.113), Glory (p.114), the Ancients (p.115), Vengeance (p.116), the Noble Genies (Heroes of Faerun p.20), Oathbreaker (DMG 2014), the Crown (SCAG), Conquest (Xanathar's), Redemption (Xanathar's), the Watchers (Tasha's).
+**Paladin oaths (10):** Devotion (PHB 2024 p.113), Glory (p.114), the Ancients (p.115), Vengeance (p.116), the Noble Genies (Heroes of Faerun p.20), Oathbreaker (DMG 2014), the Crown (SCAG), Conquest (Xanathar's), Redemption (Xanathar's), the Watchers (Tasha's).
 
 **Warlock patrons (10):** Archfey (PHB 2024 p.159), Celestial (p.160), Fiend (p.161), Great Old One (p.162), Undead (Ravenloft: The Horrors Within p.24), Vestige (Arcana Unleashed p.13), the Undying (SCAG), the Fathomless (Tasha's), the Genie (Tasha's), the Hexblade (Xanathar's).
 
-Excluded: every World of Warcraft and Plane Shift: Amonkhet option; the 2014 Player's Handbook Life, Light, Trickery, War, Devotion, Ancients, Vengeance, Archfey, Fiend and Great Old One (2024 versions replace them); Xanathar's Celestial (the 2024 Celestial replaces it); Xanathar's Grave, Van Richten's Undead and Tasha's/SCAG Glory and Arcana (reprinted in 2024-format books).
+Arcana Unleashed is Wizards of the Coast's new Unearthed Arcana (the user's correction, Session 48), so its Arcana domain and Vestige patron count as official 2024-format options. Excluded: every World of Warcraft and Plane Shift: Amonkhet option; the 2014 Player's Handbook Life, Light, Trickery, War, Devotion, Ancients, Vengeance, Archfey, Fiend and Great Old One (2024 versions replace them); Xanathar's Celestial (the 2024 Celestial replaces it); Xanathar's Grave, Van Richten's Undead and Tasha's/SCAG Glory and Arcana (reprinted in 2024-format books).
 
 The pages written before this ruling derive fits from the four 2024 Player's Handbook options only. A re-pass over the 72 pages and the hub is pending the user's go-ahead.
