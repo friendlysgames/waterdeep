@@ -80,7 +80,7 @@ Iggwilv is the Witch Queen, a sorceress from the distant world of Oerth who wrot
 ## Cross-References
 
 - **Graz'zt** (Deities): the demon prince who was her lover, her prisoner, her master and her enemy.
-- **Baba Yaga** (Deities, page planned): her adoptive mother, and the archfey patron an Archfey warlock might compare her with.
+- **Baba Yaga** (Deities): her adoptive mother, and the archfey patron an Archfey warlock might compare her with.
 - **Orcus** (Deities): the demon lord who allied with her against Demogorgon.
 - **Demogorgon** (Deities): the Prince of Demons whom she and Orcus schemed to overthrow.
 - **Laeral Silverhand** (Notable Figures): the Open Lord of Waterdeep, whom Waterdhavians know as the Witch-Queen of the North and who is a different person.

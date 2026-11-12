@@ -94,7 +94,7 @@ Orcus is the demon lord of undeath, called the Prince of the Undead and the Bloo
 - **Myrkul** (Deities): the god of death whose followers include necromancers and undead.
 - **Demogorgon** (Deities): the Prince of Demons, his rival in the triad.
 - **Graz'zt** (Deities, page planned): the third demon lord of the triad.
-- **Iggwilv** (Deities, page planned): the witch-queen who schemed with him against Demogorgon.
+- **Iggwilv** (Deities): the witch-queen who schemed with him against Demogorgon.
 - **Tiamat** (Deities): the goddess on whose altar the wiki has the Wand of Orcus destroyed in 1358 DR.
 
 > **[GM]**
