@@ -88,8 +88,8 @@ Valkur is the Captain of the Waves, a chaotic good god of sailors, ships and fav
 - **Tempus** (Deities): casually friendly with him, and his lord in the wiki's 4e account.
 - **Selûne** (Deities): his friend and guide, who blessed his faithful with better navigation.
 - **Talos** (Deities): the leader of the Gods of Fury, whom he opposes.
-- **Umberlee** (Deities, page planned): his true nemesis, whose Queenspire takes the Fleetswake offerings.
-- **Istishia** (Deities, page planned): the elemental god of water, who has ties to him.
+- **Umberlee** (Deities): his true nemesis, whose Queenspire takes the Fleetswake offerings.
+- **Istishia** (Deities): the elemental god of water, who has ties to him.
 - **Timekeeping and the Festival Calendar** (History): Fleetswake, the one place the campaign names him.
 - **Sea Maidens Faire** (quest): its carnival fleet arrives on the first day of Fleetswake. No file ties Valkur to the quest.
 

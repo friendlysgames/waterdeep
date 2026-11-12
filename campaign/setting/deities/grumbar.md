@@ -88,12 +88,12 @@ Grumbar, the Earthlord, is the neutral god of earth and one of the four elementa
 
 ## Cross-References
 
-- **Akadi** (Deities, page planned): the goddess of air whom he opposes, and whose Knights of the Wind's Four Quarters fought his followers.
+- **Akadi** (Deities): the goddess of air whom he opposes, and whose Knights of the Wind's Four Quarters fought his followers.
 - **Kossuth**, **Istishia** (Deities, pages planned): the other two Elemental Lords. The wiki says Kossuth is the one elemental power with a large following.
 - **Garl Glittergold** (Deities, page planned): the gnome god of the wiki's list of loosely tied earth powers.
 - **Moradin** (Deities, page planned): the dwarf head of the pantheon, whose Hall of Moradin lies in the Vault of Dragons. No source in the Grumbar research ties him to Grumbar.
 - **Gruumsh** (Deities, page planned): the orc god kept in the dark about Grumbar's romance with Luthic.
-- **Umberlee** (Deities, page planned): his rival in the Kelthann belief.
+- **Umberlee** (Deities): his rival in the Kelthann belief.
 - **Shar** (Deities): the goddess whose lies prompted Luthic's gift.
 - **Silvanus**, **Chauntea**, **Mielikki**, **Eldath** (Deities): fellow nature powers of the First Circle.
 - **Vault of Dragons** (quest): the Hall of Moradin and Dumathoin's Secret, the nearest earth and dwarf material in the campaign.
