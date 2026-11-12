@@ -83,13 +83,13 @@ Graz'zt is the demon prince of pleasure and excess, called the Dark Prince, and 
 - **Waukeen** (Deities): the goddess he imprisoned in the Abyss and her chief enemy.
 - **Asmodeus** (Deities): the archdevil he served in two of the wiki's origin theories.
 - **Iggwilv** (Deities, page planned): the witch-queen who was his lover and his enemy.
-- **Demogorgon** (Deities, page planned): the demon prince whose failed summoning in 1486 DR brought Graz'zt to the Underdark.
+- **Demogorgon** (Deities): the demon prince whose failed summoning in 1486 DR brought Graz'zt to the Underdark.
 - **Ott Steeltoes** (Notable Figures): the one campaign NPC who worships a demon power, Zuggtmoy, and not Graz'zt.
 
 > **[GM]**
 >
 > #### Draft Notes
-> - **Brief premise checked, no Mad Mage tie:** `adventure-wdmm.json` has no line that names Graz'zt, Iggwilv, Azzagrat or the Argent Palace. The three demon-lord lines (Level 2, Level 12, Level 20) are quoted in Campaign ties and tie to no named prince but Baphomet and Juiblex. The page states no tie to Undermountain. Add one only if the GM Guide invents it.
+> - **Brief premise checked, no Mad Mage tie:** `adventure-wdmm.json` has no line that names Graz'zt or his realm of Azzagrat, and none names Iggwilv. The three demon-lord lines (Levels 2, 12 and 20) are quoted in Campaign ties and tie to no named prince but Baphomet and Juiblex. The page states no tie to Undermountain. Add one only if the GM Guide invents it.
 > - **Conflict, origin:** The wiki gives an archdevil-turned-demon origin (*Manual of the Planes* 4e; *Mordenkainen's Tome of Foes* 5e) and a Pale Night origin (*Dragon* 360) at lines 186 and 188 of its text, and calls them "competing, often contradictory theories." The page gives each its tag and picks none.
 > - **Conflict, challenge rating:** 24 in 5e against 32 in the wiki's 3e field, with 22 (*Fiendish Codex I*) and 24 (*Book of Vile Darkness*) in the wiki's note. The page lists the 5e figure, since the campaign uses 2024 rules, and records the others.
 > - **Wiki wording:** The wiki's template calls him a "demon lord" and its lead calls him a "demon prince". The page uses demon prince, as the brief does. The Waukeen page uses "demon lord" for him (`waukeen.md:47`); the two terms mean the same.
