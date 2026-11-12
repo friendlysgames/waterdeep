@@ -52,7 +52,7 @@
 > #### Using Tharizdun as a Patron
 > - **The ordinary Waterdhavian's view:** Almost none. A sage can repeat the Overview, and a priest of Mystra may repeat the claim that she kept him off Toril (derived from the wiki's credit to her). No source records a Waterdhavian opinion of him, a Waterdhavian rumor, or whether news of the cults in Chessenta, Akanûl or the Dessarin Valley reaches the city. [research]
 > - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Tharizdun, and no campaign file or wiki entry places a shrine or cult in the city. The wiki's cults are in Chessenta, Akanûl and the Dessarin Valley.
-> - **A warlock PC:** The Great Old One patron in the 2024 *Player's Handbook* fits him (derived), and the wiki files him under Great Old One patrons and elder evils. The Far Realm link in the 4e account supports the fit, since he looked through the Living Gate and brought a seed of chaos back from a dead universe. No source gives Tharizdun-specific features. What his cults want is power channeled to him, his lost relics and shrines found, and the world ended. A patron who answers only in babble suits the Great Old One's inscrutable voice (derived). What a pact costs is not sourced. [research] **Ilsensine** (Deities, page planned) is the other Great Old One patron on this journal's roster.
+> - **A warlock PC:** The Great Old One patron in the 2024 *Player's Handbook* fits him (derived), and the wiki files him under Great Old One patrons and elder evils. The Far Realm link in the 4e account supports the fit, since he looked through the Living Gate and brought a seed of chaos back from a dead universe. No source gives Tharizdun-specific features. What his cults want is power channeled to him, his lost relics and shrines found, and the world ended. A patron who answers only in babble suits the Great Old One's inscrutable voice (derived). What a pact costs is not sourced. [research] **Ilsensine** (Deities) is the other Great Old One patron on this journal's roster.
 > - **A cleric PC:** 5etools gives him the Trickery domain (PHB p.295, 2014), and Trickery is the nearest 2024 subclass among Life, Light, Trickery and War (derived). The fit is loose, because no source describes him as a trickster. The Thaumaturge Divine Order suits a cleric who channels power to a god (derived). The cults are the only clergy the sources describe. No paladin connection in the sources.
 > - **Campaign ties:** No campaign file uses this power. A search of `campaign/` finds the name only in the research notes and in the Draft Notes of other Deities pages. Neither adventure source names Tharizdun, the Chained God, the Elder Elemental Eye, Elemental Evil or the Cult of the Black Earth. The nearest material is Ghaunadaur in *Dungeon of the Mad Mage*, and none of it names Tharizdun:
 >   - Level 10 has "9a. The Elder Eye", where a statue that reshapes itself can be recognized with a DC 15 Intelligence (Religion) check: "it represents Ghaunadaur, god of oozes, slimes, and all things subterranean." (`sources/adventure-wdmm.json:29971` and `:29977`)
@@ -79,8 +79,8 @@ Tharizdun is the Chained God, a power of darkness and madness that the other god
 ## Cross-References
 
 - **Mystra** (Deities): the goddess some credit with keeping him off Toril.
-- **Ghaunadaur** (Deities, page planned): the god whose temple the Sabrak dwarves found the plague in, and whose Mad Mage shrines are the nearest campaign material.
-- **Ilsensine** (Deities, page planned): the other Great Old One patron on the roster.
+- **Ghaunadaur** (Deities): the god whose temple the Sabrak dwarves found the plague in, and whose Mad Mage shrines are the nearest campaign material.
+- **Ilsensine** (Deities): the other Great Old One patron on the roster.
 - **Lolth** (Deities): the head of the Dark Seldarine, whose pantheon the Mad Mage hall shows with Ghaunadaur.
 
 > **[GM]**

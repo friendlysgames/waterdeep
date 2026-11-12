@@ -44,7 +44,7 @@
 - **Relations in the drow pantheon:** Wiki-sourced (*Demihuman Deities* unless noted).
   - Every other member of the Dark Seldarine opposes her to some degree. She is the mother of **Eilistraee** (Deities) and Vhaeraun, and she considers Vhaeraun her real rival and Eilistraee a moody fool who is easy to manipulate (*Evermeet: Island of Elves*; *Menzoberranzan: The City*).
   - Kiaransalee and Selvetarm are her allies and act as her servants. Selvetarm is her grandchild and self-appointed champion.
-  - She feared that **Ghaunadaur** (Deities, page planned) could sway the drow, but he did not care enough about drow matters to attract many of them (*Menzoberranzan: The City*; *Races of Faerûn*, 3e).
+  - She feared that **Ghaunadaur** (Deities) could sway the drow, but he did not care enough about drow matters to attract many of them (*Menzoberranzan: The City*; *Races of Faerûn*, 3e).
   - MTF points out that she is far from omniscient. Some drow live without bending to her, and communities of renegades often raise another of the Dark Seldarine as their patron, which swaps one evil oppressor for another.
 - **Relations with other powers:** Wiki-sourced (*Demihuman Deities* unless noted).
   - She is the enemy of the Seldarine, above all **Corellon Larethian** (Deities), her former husband, then Sehanine Moonbow, who foiled her scheme, and Fenmarel Mestarine, who was her partner in adultery and did not join her betrayal. She put little effort into acting on the hatred and preferred to keep the drow fighting one another.
@@ -123,7 +123,7 @@ Lolth is the chaotic evil goddess of spiders and the drow, called the Spider Que
 
 - **Eilistraee** (Deities): her daughter, the goddess of the drow who left her web.
 - **Corellon Larethian** (Deities): her former husband and the chief enemy of her hatred.
-- **Ghaunadaur** (Deities, page planned): the Dark Seldarine rival she feared.
+- **Ghaunadaur** (Deities): the Dark Seldarine rival she feared.
 - **Gruumsh** (Deities): the orc god she helped against Corellon and then fought.
 - **Malar**, **Loviatar** (Deities): her occasional allies in the wiki account.
 - **Mystra** (Deities): the goddess whose Weave she tried to copy before 1479 DR.
