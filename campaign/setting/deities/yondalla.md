@@ -100,7 +100,7 @@ Yondalla is the lawful good halfling goddess of fertility and protection, shown 
 
 ## Cross-References
 
-- **Garl Glittergold** (Deities, page planned): the head of the gnome pantheon, one of her three close allies.
+- **Garl Glittergold** (Deities): the head of the gnome pantheon, one of her three close allies.
 - **Corellon Larethian**, **Moradin** (Deities): the elven and dwarven heads, who share the alliance.
 - **Bane**, **Cyric**, **Talona**, **Talos** (Deities): the evil powers she scorns.
 - **Tashlyn Yafeera** (Notable Figures): the Doom Raiders contact who sends the party to the shrine.

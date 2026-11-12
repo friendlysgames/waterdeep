@@ -112,7 +112,7 @@ Gond is the Wonderbringer, the neutral god of craft and invention, and smiths, e
 - **Tempus**, **Waukeen**, **Chauntea** (Deities): the partners and the friendly rival.
 - **Talos** (Deities): his one major foe among the Faerûnian gods.
 - **Cyric** (Deities): the god who commissioned armor from Gond in 1368 DR.
-- **Moradin**, **Garl Glittergold** (Deities, pages planned): the dwarf All-Father who counts as his friend, and the head of the gnome pantheon in which gnomes know Gond as Nebelun.
+- **Moradin**, **Garl Glittergold** (Deities): the dwarf All-Father who counts as his friend, and the head of the gnome pantheon in which gnomes know Gond as Nebelun.
 - **Valetta** (Notable Figures): the senior cleric of the House.
 - **Remallia Haventree**, **Vajra Safahr, the Blackstaff**, **Barnibus Blastwind**, **Rishaal the Page-Turner** (Notable Figures): the contacts who point the party to the House in **Fireball!**.
 - **Jalester Silvermane** (Notable Figures): the Lords' Alliance contact who arranges the introduction to Valetta in **Stingblade**.

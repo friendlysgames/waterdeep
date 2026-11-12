@@ -95,8 +95,8 @@ Garl Glittergold is the lawful good god of the gnomes, a joker and prankster pic
 
 ## Cross-References
 
-- **Moradin**, **Yondalla**, **Corellon Larethian** (Deities, pages planned): the allies the wiki names beyond the gnome gods. Moradin is also one of his targets in the MTF pranks.
-- **Gruumsh** (Deities, page planned): the orc god whose axe sprouts donkey heads in the MTF pranks.
+- **Moradin**, **Yondalla**, **Corellon Larethian** (Deities): the allies the wiki names beyond the gnome gods. Moradin is also one of his targets in the MTF pranks.
+- **Gruumsh** (Deities): the orc god whose axe sprouts donkey heads in the MTF pranks.
 - **Tymora** (Deities): counts him among her allies in the wiki.
 - **Grumbar** (Deities): the earth power with whom the wiki gives him loose ties.
 - **Gond** (Deities): the god whom gnomes know as Nebelun the Meddler, and whose House of Inspired Hands is the gnome characters' natural home in the city.

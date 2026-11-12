@@ -103,8 +103,8 @@ Moradin is the lawful good god of creation and the All-Father of the dwarves, an
 
 - **Gond**, **Helm**, **Torm**, **Tyr** (Deities): the Faerûnian gods the wiki lists among his allies.
 - **Kossuth** (Deities): the fire god, allied with him in the same account.
-- **Corellon Larethian**, **Garl Glittergold**, **Yondalla** (Deities, pages planned): the heads of the elven, gnome and halfling pantheons, who share the alliance.
-- **Maglubiyet**, **Gruumsh** (Deities, pages planned): the goblinoid and orc gods he opposes, and Maglubiyet is the one he loathes most.
+- **Corellon Larethian**, **Garl Glittergold**, **Yondalla** (Deities): the heads of the elven, gnome and halfling pantheons, who share the alliance.
+- **Maglubiyet**, **Gruumsh** (Deities): the goblinoid and orc gods he opposes, and Maglubiyet is the one he loathes most.
 - **Grumbar** (Deities): the elemental god of earth. No source ties him to Moradin, and his page links the two only through the Vault of Dragons.
 - **Ilsensine** (Deities, page planned): the illithid god in the vault's Broken Circle of Gods.
 - **Istrid Horn** (Notable Figures): a shield dwarf moneylender who worships Vergadain.

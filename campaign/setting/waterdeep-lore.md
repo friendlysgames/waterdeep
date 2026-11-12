@@ -15,7 +15,7 @@
 - **Sea Ward** (wealthy northwest): noble estates, major temples, the Field of Triumph; Cassalanter Villa is here
 - **North Ward** (established families, quieter money): quieter money, old names, established households; Trollskull Manor (the party's home base) is here — operating mechanics in the **Trollskull Manor** guide
 - **Trades Ward** (commerce, guilds, day-and-night activity): most guild halls; faction front businesses cluster here; Kolat Towers (Manshoon's fortress) occupies a fortified block here
-- **South Ward** (working class, immigrants, industry): where new arrivals settle first
+- **Southern Ward** (working class, immigrants, industry): where new arrivals settle first
 - **Dock Ward** (port, crime, contraband): the most dangerous ward; Xanathar's Guild's primary surface territory; Istrid Horn's moneylending operation works out of a warehouse here; the Sea Maidens Faire's carnival fleet moors here from Ches 21 for Fleetswake
 - **City of the Dead** (walled necropolis): the Brandath Mausoleum (vault entrance) is here, reached by the approach called the Brandath Crypts; patrolled but not well-staffed
 - **Undermountain** (below the city): the Yawning Portal well drops to Level 1; Skullport is three levels down; outside city jurisdiction

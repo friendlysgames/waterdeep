@@ -106,7 +106,7 @@ Talos, the Storm Lord, is the chaotic evil god of storms, forest fires, earthqua
 
 - **Auril**, **Umberlee** (Deities): the other Gods of Fury, with Umberlee's Queenspire in Waterdeep.
 - **Malar** (Deities): the member of the Gods of Fury who would kill him if he could.
-- **Gruumsh** (Deities, page planned): the orcish god the wiki folds him into during the Spellplague and separates from again after the Second Sundering.
+- **Gruumsh** (Deities): the orcish god the wiki folds him into during the Spellplague and separates from again after the Second Sundering.
 - **Akadi**, **Valkur**, **Savras**, **Sune** (Deities): the wind goddess whose limits he marks, the sailors' champion who is the Gods of Fury's sworn enemy, and two powers who oppose him.
 - **Beshaba** (Deities): the goddess of misfortune who turned down his courtship.
 - **Selûne**, **Shar** (Deities): the goddesses whose first battle produced him.
