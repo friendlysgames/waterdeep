@@ -86,7 +86,7 @@ Baba Yaga is the Mother of All Witches, an archfey and arch-hag whose Dancing Hu
 ## Cross-References
 
 - **Iggwilv** (Deities): her adoptive daughter, also called Tasha and Natasha, an archfey and the wiki's warlock sponsor.
-- **Titania** (Deities) and **the Queen of Air and Darkness** (Deities, page planned): the other archfey patrons, who respect her power and keep their distance in the wiki.
+- **Titania** (Deities) and **the Queen of Air and Darkness** (Deities): the other archfey patrons, who respect her power and keep their distance in the wiki.
 - **Ulkoria Stonemarrow** (Notable Figures): tells the story of the hag at Trollskull Manor.
 - **Volothamp Geddarm** (Notable Figures): the author the wiki credits, with Elminster, for the Rashemen report.
 
