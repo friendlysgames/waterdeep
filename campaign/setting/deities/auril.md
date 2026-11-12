@@ -104,7 +104,7 @@ Auril, the Frostmaiden, is the goddess of winter and cold, and Waterdhavians pic
 - **Akadi** (Deities): the wind goddess she clashed with after the Spellplague.
 - **Chauntea**, **Sune** (Deities): the goddess who was her mortal enemy and the goddess who opposed her.
 - **Silvanus**, **Mielikki**, **Eldath** (Deities): the other nature powers of the First Circle, and Silvanus as her wiki patron in the 4e account.
-- **Queen of Air and Darkness** (Deities, page planned): the archfey whom some fey took for the Frost Sprite Queen.
+- **Queen of Air and Darkness** (Deities): the archfey whom some fey took for the Frost Sprite Queen.
 - **Timekeeping and the Festival Calendar** (History): Midwinter, the one holy night of hers that the campaign calendar lists.
 
 > **[GM]**
