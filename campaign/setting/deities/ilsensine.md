@@ -1,0 +1,116 @@
+# Ilsensine
+
+> Structuring draft.
+
+> **[GM]**
+>
+> #### Gamemaster's Summary
+> - **What this page is:** the patron entry for Ilsensine, the god-brain that made the mind flayers, and a Great Old One patron for warlock characters. It is not a god of the Faerûnian pantheon and has no 5etools entry, so this page replaces the cleric and paladin guidance of a deity page with warlock guidance.
+> - **Where it is used:** Ilsensine never appears in the campaign. One Vault of Dragons structure document names it in a fresco, and the campaign and the published Undermountain both hold mind flayers, but no file gives any of them a god.
+> - **Featured in:** **Vault of Dragons** (the Broken Circle of Gods fresco). **Xanathar's Lair** and Undermountain Level 17 hold the nearest mind flayers, and the GM Notes say how far that goes.
+> - **Spoiler limit:** the Overview is the common-knowledge tier and never mentions Nihiloor, Xanathar's Guild or Undermountain. Everything above it may be read by the GM only.
+
+**Purpose:** Lets the GM voice what little an ordinary Waterdhavian knows about Ilsensine, gives a player what a Great Old One patron relationship with it costs, and states exactly which campaign lines touch it so that no later page invents a tie to Nihiloor or to the mind flayers below the city.
+
+*The Great Brain*
+
+- **Title:** The Tentacled Lord (*The Illithiad* 2e), the Great Brain (*On Hallowed Ground* 2e; *Planescape: Adventures in the Multiverse* 5e), the God-Brain (*Planescape Campaign Setting* 2e; *Phandelver and Below: The Shattered Obelisk* 5e). All via the wiki.
+- **Other Names:** None given. The name means "great brain" or "powerful brain" in Undercommon (*Dragon* 281; *Drizzt Do'Urden's Guide to the Underdark*). Mind flayers use no spoken name for it. They represent it with a series of visual images and symbols (*Monster Mythology* 2e).
+- **Pantheon:** None in the wiki. It is the creator god of the illithids, and a patron, not a god of the Faerûnian pantheon.
+- **Areas of Concern:** Mastery of the mind, psionics, mental dominion, knowledge, magic and conquest (the wiki's portfolio rows: 5e; 3e; 2e)
+- **Domains:** None in 5etools. The wiki lists the 3e domains Charm, Evil, Knowledge, Law, Magic, Mentalism, Mind, Slime and Tyranny.
+- **Symbol:** A glowing brain with two tentacles (wiki; 2e). The wiki's 3e row adds a stylized illithid face in jade green.
+- **Alignment:** Lawful Evil (wiki; 2e and 3e). The wiki's 5e field is empty.
+- **Challenge:** None. The wiki gives no 5e statistics. [research]
+- **Plane:** The Caverns of Thought, beneath the Outlands (wiki; 5e and 2e). The wiki's 5e row lists the Far Realm as a former home. Its 3e row places the Caverns in the Deep Caverns.
+- **Typical Followers:** Mind flayers (*Volo's Guide to Monsters* 5e), plus evil psions and other beings who enslave minds (*Expanded Psionics Handbook* 3e)
+
+> Gather every secret, and turn every mind you meet to your service. (derived)
+
+## Influence and Followers
+
+- **Rank:** The wiki rates Ilsensine a greater deity in its 2e and 3e rows and a deity in its 5e row. It is the creator god of the illithids, and since Maanzecorian died in the mid-14th century it has been their unquestioned supreme god (*Dead Gods*).
+- **What it is:** It has no body and exists as a vast emerald brain, with ganglionic tendrils that illithids picture running across all space and time (*Lords of Madness* 3e; *Monster Mythology* 2e). Its few avatars appear as a floating green brain about eight feet across, with two tentacles (*Monster Mythology* 2e).
+- **What it wants:** It is arrogant and megalomaniac, and it holds that the illithids are the greatest race and are meant to conquer every plane. Other peoples are cattle to be enslaved, used and eaten (*The Illithiad* 2e; *Monster Mythology* 2e). Its philosophy values information as the greatest commodity, darkness as the greatest illumination and the mind as the greatest strength (*Lords of Madness* 3e). The wiki quotes it saying "Knowledge is the only power" (*Finder's Bane*, novel).
+- **Dogma:** The faith teaches that the spawn of Ilsensine are destined to conquer the surface and rule every other race (*Drizzt Do'Urden's Guide to the Underdark*; *Forgotten Realms Campaign Setting* 2e).
+- **What it offers:** A mind flayer who dedicates itself to Ilsensine gains clerical spells, which lets it advance its psionics and a second path of power together. It can also seek answers to hard questions once it has the god's favor (*The Illithiad* 2e). Because Ilsensine promises power to anyone who follows the mind flayers, evil psions sometimes form cults to it (*Expanded Psionics Handbook* 3e).
+- **What it costs:** Favor in its own realm likely requires surrendering part of one's mind, such as memory or sanity (*Planescape Campaign Setting* 2e). A mind flayer cleric has its magic resistance cut so that it can channel divine power. In most communities a pledged servant also forfeits the right to join the elder brain after death (*The Illithiad* 2e). To illithids that displease it, Ilsensine has appeared in person and eaten half of them to encourage the rest (*Monster Mythology* 2e).
+- **How mind flayers worship:** The wiki says their egotism makes true worship impossible. They revere Ilsensine as an ideal state of mind, and the motions of their meditation are often mistaken for prayer. Many do not believe they have souls (*Volo's Guide to Monsters* 5e). A mind flayer may pray after eating an especially good brain, tracing the symbol on a nearby surface in the leftover ichor and praying telepathically with its tentacles held still (*Expanded Psionics Handbook* 3e).
+- **Clergy:** The priesthood is small. In an illithid community it forms the Venerator Creed, which is one faction among many and works with the Abysmal Creed, whose members act as missionaries to other peoples (*Drizzt Do'Urden's Guide to the Underdark*). Priests live like monks, seldom leave their temples, and serve as healers and thrallmasters (*Lords of Madness* 3e; *Expanded Psionics Handbook* 3e).
+- **Temples:** A community with Venerators keeps small, plain shrines in out-of-the-way corners (*Expanded Psionics Handbook* 3e). The Underdark city of Oryndoll held many shrines and a full temple, and the wiki calls it a holy site of the faith (*Drizzt Do'Urden's Guide to the Underdark*). The wiki also records a 14th-century cult under the Giant's Run Mountains on the Dragon Coast, led by the mind flayer Qooql (*Champions of Ruin*), and a forgotten temple near Mistfall house in the Dalelands that might have been its (*Volo's Guide to the Dalelands*).
+- **Holy days and omens:** None in the wiki or the campaign. [research]
+- **Messengers:** Ilsensine seldom stirs from its dreams of domination and sends a proxy, usually Lugribossk, far more often than an avatar (*The Illithiad* 2e; *Monster Mythology* 2e). Its other agents are eaters of knowledge, which are zombie petitioners implanted with its own brain matter, cranium rats used as spies, and thought slayers, which serve as heralds (*Monstrous Compendium Planescape Appendix II*; *The Illithiad* 2e; *Expanded Psionics Handbook* 3e).
+- **Relations with other powers:** Wiki-sourced.
+  - Maanzecorian, the mind flayer god of knowledge and philosophy, served Ilsensine and remained its rival. He died before the demon lord Orcus, then the god of undeath Tenebrous, in the mid-14th century (*Monster Mythology* 2e; *Dead Gods*).
+  - Besides Maanzecorian, its only ally is the drow goddess Kiaransalee. Its enemies include **Eilistraee**, **Lolth**, Selvetarm, Vhaeraun, the elven god Shevarash and the deep gnome god Callarduran Smoothhands (*Demihuman Deities*).
+  - It has an obscure, non-hostile tie to the dwarf god Dumathoin, but it hates the duergar god Deep Duerra, who stole psionic secrets from it, and it has long sought vengeance on her superior Laduguer (*Faiths and Pantheons* 3e; *Demihuman Deities*).
+- **Origin:** Its true origin is nearly impossible to discern (*The Illithiad* 2e). Illithids call it the Creator God and say it perfected the mind flayers over aeons while other powers blundered with their own creations (*Monster Mythology* 2e). Elven myths say it loosed them as a counter-creation after mortals existed (*The Illithiad* 2e).
+- **In the Realms:** Wiki-sourced.
+  - About -4000 DR, after the duergar rose against the illithids of Oryndoll, an avatar appeared and saved the city from collapse (*Drizzt Do'Urden's Guide to the Underdark*; *Forgotten Realms Campaign Setting* 2e).
+  - In 1358 DR, during the Time of Troubles, it manifested in Oryndoll again and took the city's elder brain as its avatar (*Drizzt Do'Urden's Guide to the Underdark*).
+  - The wiki then says it lost a shard of its consciousness without knowing how, and that the lost artifact was buried in caves on the Sembian coast. Mercenaries were hired to find it without being told what it was (Class Chronicles web articles, edition not given).
+
+> **[GM]**
+>
+> #### Using Ilsensine as a Patron
+> - **The ordinary Waterdhavian's view:** Almost none. The wiki says sages and scholars of most races know the name (*Monster Mythology* 2e), so a sage can repeat the Overview. A priest or a bar regular is unlikely to know it, and in the published adventure Durnan keeps his guess about an elder brain to himself so as not to alarm anyone "with rumors of mind flayers" (`sources/adventure-wdmm.json:491`). No source records a Waterdhavian opinion of Ilsensine. [research]
+> - **Waterdeep:** None. The Major Temples of Waterdeep table in *Dragon Heist* lists no temple of Ilsensine, and no campaign file or wiki entry places a shrine, a cult or a festival of it in the city. No source says whether the city would punish a cult of it.
+> - **A warlock PC:** The Great Old One patron in the 2024 *Player's Handbook* fits it (derived). The wiki never calls Ilsensine a patron, and the fit rests on its telepathic, psychic nature and the Far Realm as its former home in the wiki's 5e row (derived). No source gives Ilsensine-specific features. The wiki's evil psion cults are the nearest it comes to mortal servants (*Expanded Psionics Handbook* 3e). What it wants is a servant who helps the mind flayers conquer and gather knowledge. What it costs is part of the servant's mind, since favor likely requires surrendering memory or sanity (*Planescape Campaign Setting* 2e). Contact is remote because it stirs rarely, so a GM can use the wiki's proxies and agents as its voice, such as Lugribossk, eaters of knowledge, cranium rats and thought slayers (derived).
+> - **A cleric or paladin PC:** The wiki's clerics of Ilsensine are almost all mind flayers, and a human cleric would belong to a cult of evil psions (*Expanded Psionics Handbook* 3e). 5etools gives no domains, and the wiki's 3e list (Knowledge, Magic, Mind, Charm and the rest) has no 2024 counterpart. The closest 2024 subclass is Trickery, with the Thaumaturge Divine Order (both derived), because the cult deals in charm and control. The fit is loose. No paladin connection in the sources.
+> - **Campaign ties:** One fresco in the **Vault of Dragons** structure document names Ilsensine. Nihiloor and the Undermountain mind flayers are the nearest, and no line ties either to Ilsensine. The GM Notes quote all three.
+> - **Never reveal:** That Nihiloor has dominated Xanathar for the last four months, or that intellect devourers occupy Waterdavians such as Meloon Wardragon, before the party's own evidence supports it. A player who asks about the Great Brain gets the Overview.
+
+## Overview
+
+Ilsensine is the god-brain of the mind flayers, a vast disembodied mind that the illithids say created them. Sages call it the Great Brain and the Tentacled Lord, and they say it wants the mind flayers to rule every other people. The illithids themselves are said to revere it as an ideal of the mind more than as a god they pray to. It is said to dwell in a realm of caverns beneath the Outlands, and Waterdeep has no temple of it.
+
+> **[GM]**
+>
+> #### GM Notes
+> - **The Broken Circle of Gods (Vault of Dragons):** The structure document puts frescoes in the vault, "the Entrance Foyer's niches most explicitly", that show "Dumathoin visiting the illithid god Ilsensine, manifest as a disembodied emerald brain, and bathing in its psionic light". Others show "Dumathoin, Ilsensine, and Laduguer, god of the duergar, with hands clasped in a circle of friendship that official dwarven doctrine insists never existed" (`campaign/structure/arc-j-vault-of-dragons.md:154`). The same line says the party can walk past them, and that a party who investigates finds a thread to "the deep, patient intelligences (illithid and aboleth alike) that the Undermountain campaign will eventually make explicit". The emerald brain matches the wiki's description of Ilsensine (*Lords of Madness* 3e).
+> - **Nihiloor:** The published adventure says "The illithid Nihiloor works for Xanathar, spending its days creating intellect devourers and setting them loose in the sewers of Waterdeep" (`sources/adventure-wdh.json:32353`). The campaign gives it a Notable Figures page (`campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md:22`) and calls it a "plant for Mad Mage integration" (`campaign/setting/villains/xanathar.md:50`). Neither the adventure nor any campaign file gives Nihiloor a god, and the wiki says mind flayers cannot truly worship, so no shrine of Ilsensine belongs in the lair.
+> - **Nihiloor's escape to Level 17:** If Xanathar's lair is demolished, "Nihiloor was not in his domain at the time and escapes to Undermountain Level 17 with his three projects intact" (`campaign/structure/arc-f-xanathars-lair.md:111`; also `:284` and `:346`). This is the only campaign line that sends a mind flayer from the city to the colony below.
+> - **Level 17, Seadeeps:** "Mind flayers from the Underdark have formed a new colony on this level of Undermountain, though githyanki from level 16 are determined to wipe it out" (`sources/adventure-wdmm.json:46769`). The colony came from a larger one "controlled by an elder brain" (`:46776`). Its ulitharid leader, Extremiton, "will undergo a transformation ritual to become an elder brain" once the colony is secure (`:47870`). Extremiton uses telepathy to contact random Waterdavians, and the side quest Uncover the Telepathic Spy asks adventurers of 9th level or higher to find the source and end it if its intentions are hostile (`:491` and `:492`). The adventure never names Ilsensine. The wiki says mind flayers see the god as what an elder brain could become (*Lords of Madness* 3e), so a GM who wants Extremiton to speak of a god can draw on that account (derived), though no file does.
+> - **The vast dreaming seed:** The Xanathar's Lair structure document plants "the brief impression of something vast and dreaming, far below", which the party will not understand "until Undermountain Level 17" (`campaign/structure/arc-f-xanathars-lair.md:382`). The file does not say what the dreamer is, and this page does not claim it is Ilsensine (see Draft Notes).
+> - **Other mind flayers in the published adventure:** Ulquess, Skullport's ambassador on Level 3, implants intellect devourers in goblinoids to make them spies loyal to Xanathar (`sources/adventure-wdmm.json:10977`). Cephalossk, a solitary mind flayer arcanist on Level 9, is "a pariah among its own kind" (`:24426`). Level 15 holds a hidden statue of Deep Duerra, the duergar god of conquest and psionics, who holds "the skull of a long-dead mind flayer" (`:42417` and `:42418`). The wiki names her as an enemy of Ilsensine, but the adventure does not say so.
+
+**Tone:** Cold, patient and exact. Ilsensine is a mind that collects, so when a player asks about it, describe what it knows and the order it wants before the price of its favor, and keep it remote, since it rarely acts and no scene in the campaign puts it in the room.
+
+---
+
+## Source References
+
+- Forgotten Realms Wiki, Ilsensine (sources of 2e, 3e and 5e, as tagged on the page): titles, name meaning, portfolio rows, domains, symbol, alignment, plane, followers, what it wants, offers and costs, worship, clergy, temples, messengers and agents, relations, origin and the history in the Realms. Every fact above is tagged with the book the wiki cites, or with its edition where the infobox files the book.
+- 5etools `deities.json`: no entry for Ilsensine.
+- `sources/adventure-wdh.json`: the "Major Temples of Waterdeep" table (caption at about line 30910) has no temple of Ilsensine, and neither JSON names Ilsensine. Line 32353 is the Nihiloor entry in the appendix, and lines 2814 and 17802 to 17848 place it in the sewer hideout and the lair.
+- `sources/adventure-wdmm.json`: lines 491 and 492 (Durnan's side quest), 10977 (Level 3), 24426 (Level 9), 42417 and 42418 (Level 15), and 46769, 46776 and 47870 (Level 17).
+- `campaign/structure/arc-j-vault-of-dragons.md:154`: the Broken Circle of Gods.
+- `campaign/structure/arc-f-xanathars-lair.md` (lines 111, 284, 346 and 382): Nihiloor's escape to Level 17 and the dreaming seed.
+- `campaign/setting/notable-figures/xanathars-guild/04-nihiloor.md` and `campaign/setting/villains/xanathar.md:50`: Nihiloor.
+- `campaign/setting/deities/moradin.md:82`: the same fresco, as quoted on the Moradin page.
+
+## Cross-References
+
+- **Moradin** (Deities): the dwarven god whose hall lies in the same vault. He is not among the fresco figures.
+- **Lolth**, **Eilistraee** (Deities): the drow powers the wiki lists among Ilsensine's enemies.
+- **Orcus** (Deities): the demon lord, then the god Tenebrous, before whom Maanzecorian died in the wiki's account.
+- **Nihiloor**, **Xanathar**, **Meloon Wardragon**, **Durnan** (Notable Figures): the mind flayer, the beholder it works for, a host of its intellect devourers, and the Yawning Portal's owner, who asks the party to find the telepathic spy.
+- **Xanathar's Guild** (Organizations): the faction Nihiloor serves.
+- **Vault of Dragons** (quest): the Broken Circle of Gods.
+- **Xanathar's Lair** (quest): Nihiloor's domain and its escape to Undermountain Level 17.
+
+> **[GM]**
+>
+> #### Draft Notes
+> - **Brief premise not found:** The brief expected ties between Ilsensine and Nihiloor, the elder brain and the Undermountain mind flayer levels. Neither JSON names Ilsensine, the Great Brain or Maanzecorian (searched `sources/*.json`), and no campaign file names it except `arc-j-vault-of-dragons.md:154`. The Nihiloor files name a mind flayer and the domination of Xanathar and say nothing of a god. Level 17 names an elder brain only as the origin of Extremiton's colony (`adventure-wdmm.json:46776`). The page gives the quoted lines and invents no link.
+> - **Conflict, Laduguer:** The Vault fresco has Dumathoin, Ilsensine and Laduguer in "a circle of friendship" (`arc-j-vault-of-dragons.md:154`). The wiki says Ilsensine "had also long sought vengeance against her superior Laduguer for some ancient slight" (wiki line 210, citing *Demihuman Deities*). The campaign line governs the Vault, and the fresco's text already says the friendship predates a falling-out the Morndinsamman never explained, which fits the wiki. The page gives both. The wiki calls the Dumathoin tie "obscure, non-hostile" and does not contradict a visit.
+> - **Open decision, the dreaming seed:** `arc-f-xanathars-lair.md:382` does not say what "something vast and dreaming, far below" is. The wiki says Ilsensine spends its time in "brooding fantasies of tyrannical ascendance" (*Monster Mythology* 2e, wiki line 180), and Level 17 holds a colony led by an ulitharid that will become an elder brain. Whether the seed is Ilsensine, an elder brain or the aboleth the Vault line also names is for the user to rule. The page makes no choice.
+> - **Structure doc, not a quest journal:** The Level 17 escape and the dreaming seed come from `arc-f-xanathars-lair.md`, which is still the authority until the Xanathar's Lair quest journal exists. Retarget the references then. The escape line applies in the demolition outcome (`:111`) and the "GONE" branch (`:284`); `:346` lists it generally.
+> - **Name overlap:** The Level 9 mind flayer Cephalossk (`adventure-wdmm.json:24426`) shares a name with the wiki's Creedmaster of the Venerators in Oryndoll, a high priest of Ilsensine (wiki line 290, citing *Drizzt Do'Urden's Guide to the Underdark*). No source connects the two, and the Level 9 text calls Cephalossk a pariah among its own kind. The page does not link them.
+> - **Present tense:** The wiki writes Ilsensine in the past tense. The campaign treats every power as present in 1492 DR, so the page uses the present tense, and Maanzecorian's death, the Oryndoll appearances and the lost shard are history. The wiki's one mention of Pen'serre Awaiters wondering whether Ilsensine could meet Maanzecorian's fate is left out.
+> - **Pronoun:** "It", since the wiki's gender field is empty. The wiki mixes "its" with a few stray "his" (wiki lines 201 and 233), which the page does not follow.
+> - **Edition tags:** The infobox files *The Illithiad*, *On Hallowed Ground* and *Monster Mythology* under 2e, *Faiths and Pantheons*, *Expanded Psionics Handbook*, *Player's Guide to Faerûn* and *Lords of Madness* under 3e, and *Volo's Guide to Monsters*, *Phandelver and Below* and the Planescape 5e book under 5e. *Drizzt Do'Urden's Guide to the Underdark*, *Demihuman Deities*, *Dead Gods*, *Champions of Ruin*, *Volo's Guide to the Dalelands*, *Monstrous Compendium Planescape Appendix II* and the Class Chronicles articles have no edition in the infobox, so the page gives the book only. Planescape 2e is the wiki's tag for the Sigil and Beyond citations.
+> - **Derived:** The edict, the Great Old One fit, the Trickery subclass and Thaumaturge order, the use of proxies as a GM's voice for the patron, and the reading of Extremiton and the elder brain against the wiki's account. The wiki gives portfolio rows, so the Areas of Concern are quoted from them and not derived. The 2024 class descriptions were not checked against a file.
+> - **Research:** Challenge or any 5e statistics. Holy days and omens. A symbol in the 5e row. What Waterdhavians think of Ilsensine and which of its names they use: the epithet line leads with the Great Brain because the wiki's definition and the Overview use it, and Waterdhavian usage is unsourced. Ilsensine-specific warlock features. Whether Waterdeep's law covers a cult of it.
+> - **Names with no page:** Maanzecorian, Kiaransalee, Selvetarm, Vhaeraun, Shevarash, Callarduran Smoothhands, Dumathoin, Deep Duerra, Laduguer, Lugribossk, Qooql, Extremiton, Ulquess and Cephalossk are plain text, since none is on the roster or in Notable Figures. Extremiton and Dumathoin have published presence.
+> - **Not used:** The wiki's powers (spells, immunities, brain burn rules), the Caverns of Thought description, the Tendril rings of Ilsensine, the derro story of Diirinka and Diinkarazan, the shared realm with Gzemnid, the Flowstone Tapestry, the Rotting Oracle, Finder Wyvernspur's story, and the 2e class and sphere entries. The template has no Appearance or Powers section and the box needs none of it.
