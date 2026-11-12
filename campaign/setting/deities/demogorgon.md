@@ -85,7 +85,7 @@ Demogorgon is the two-headed demon lord who calls himself the Prince of Demons, 
 
 ## Cross-References
 
-- **Orcus** (Deities, page planned): the legendary hatred, and the rival for the title of Prince of Demons.
+- **Orcus** (Deities): the legendary hatred, and the rival for the title of Prince of Demons.
 - **Graz'zt** (Deities, page planned): the dedicated foe, and the other rival for the title.
 - **Helm** (Deities): the god whose followers call Demogorgon the Imprisoned One, and whose knights kept the seal at Watcher's Keep.
 - **Lolth** (Deities): the goddess whose plan the wiki credits for the 1486 DR summoning in Menzoberranzan.
