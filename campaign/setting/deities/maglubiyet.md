@@ -113,12 +113,12 @@ Maglubiyet is the lawful evil god of war and the ruler of the goblinoid gods. Go
 
 ## Cross-References
 
-- **Gruumsh** (Deities, page planned): the orc god he has fought across Acheron since before memory.
+- **Gruumsh** (Deities): the orc god he has fought across Acheron since before memory.
 - **Moradin** (Deities): the dwarven god who loathes him in particular.
 - **Corellon Larethian** (Deities): his page lists the goblinoid pantheon among the enemies of the elves.
 - **Bane** (Deities): the 4e god who drew him into his command, and whose realm lies on the same layer.
 - **Zariel** (Deities): the archdevil whose cults take in hobgoblins who leave his pantheon.
-- **Tiamat** (Deities, page planned): the Dragon Queen who bargained with him for goblinoid armies.
+- **Tiamat** (Deities): the Dragon Queen who bargained with him for goblinoid armies.
 - **Queen of Air and Darkness** (Deities, page planned): the archfey whose Feywild court the first goblins served.
 - **Xanathar's Guild** (Organizations): the employer of the goblins and bugbears in the campaign.
 - **The Long Shadow** (History): the Guild's watch posts on the upper levels of Undermountain.

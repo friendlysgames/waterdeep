@@ -110,7 +110,7 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 - **Helm** (Deities): the Temple of Helm, which the Order of the Gauntlet treats as friendly.
 - **Sune**, **Tymora** (Deities): the peacemaker and the proposed bride in the 1384 DR account.
 - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities): the powers he opposes.
-- **Bahamut** (Deities, page planned): absorbed his portfolio of justice in the wiki account.
+- **Bahamut** (Deities): absorbed his portfolio of justice in the wiki account.
 - **The Order of the Gauntlet** (Organizations): the Waterdeep chapter at the Halls of Justice.
 - **The Order of the Gauntlet** (Factions Guide): first meeting, ranks, missions.
 - **Force Grey** (Organizations): Mission 1 sends a member to Hlam.

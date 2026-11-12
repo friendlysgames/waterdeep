@@ -92,7 +92,7 @@ Mephistopheles is the archdevil of Cania, the frozen eighth layer of the Nine He
 - **Mask** (Deities): the god whose divinity he took a share of in the wiki's account.
 - **Azuth** (Deities): the god Asmodeus absorbed, which left Mephistopheles second-rate in the novel.
 - **Amaunator** (Deities): the god served by Vasen Cale, who ended Mephistopheles's hold on Mask's divinity.
-- **Mammon** (Deities, page planned): the archdevil who sold out Mephistopheles at the end of the Reckoning.
+- **Mammon** (Deities): the archdevil who sold out Mephistopheles at the end of the Reckoning.
 
 > **[GM]**
 >
