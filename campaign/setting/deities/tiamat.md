@@ -107,11 +107,11 @@ Tiamat is the five-headed Dragon Queen, a lawful evil goddess who rules the evil
 
 ## Cross-References
 
-- **Bahamut** (Deities, page planned): her brother and opposite, ruler of the metallic dragons.
+- **Bahamut** (Deities): her brother and opposite, ruler of the metallic dragons.
 - **Asmodeus** (Deities): the archdevil who gave her Avernus, confined her in some accounts and keeps a courteous tie with her.
 - **Bane** (Deities): the god she served reluctantly after the Spellplague.
 - **Zariel** (Deities): the archdevil of Avernus, whom the two accounts place as friend or enemy.
-- **Mammon** (Deities, page planned): the archdevil she resented for converting evil dragons.
+- **Mammon** (Deities): the archdevil she resented for converting evil dragons.
 - **Ilmater** (Deities): a Faerûnian god she counts as an enemy.
 - **Torm** (Deities): the god whom Bahamut came to serve in the wiki's 4e account.
 - **The Harpers** (Organizations): the faction whose First Meeting stages the opera.

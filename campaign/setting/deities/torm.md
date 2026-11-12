@@ -114,7 +114,7 @@ Torm is the lawful good god of courage and self-sacrifice, and his symbol is a w
 - **Tyr** (Deities): head of the Triad in the campaign, whose right hand Torm is.
 - **Ilmater** (Deities): the third god of the Triad and a staunch ally.
 - **Helm** (Deities): a friend whose temple is one of the Order's three.
-- **Lathander**, **The Red Knight**, **Amaunator**, **Bahamut** (Deities, pages planned): his allies and friends.
+- **Lathander**, **The Red Knight**, **Amaunator**, **Bahamut** (Deities): his allies and friends.
 - **Bane**, **Shar**, **Cyric** (Deities): his enemies.
 - **Zariel** (Deities): bargained with a priest of Torm named Thavius Kreeg in Elturel in 1444 DR, as her page records.
 - **The Order of the Gauntlet** (Organizations): the faction that treats the Chapel of the Steadfast Shield as one of its three temples.

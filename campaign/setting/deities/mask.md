@@ -100,7 +100,7 @@ Mask is the Lord of Shadows and the god of thieves, a chaotic neutral power whom
 
 - **Waukeen**, **Selûne**, **Shar**, **Kelemvor** (Deities): the goddess of trade who counts him her only real enemy, the moon goddess whose light exposes his thieves, the goddess who resents him and received his divinity in the wiki account, and the god of the dead whose page records Godsbane.
 - **Tyr**, **Helm**, **Oghma**, **Deneir** (Deities): powers that list him among those they oppose.
-- **Bane**, **Cyric**, **Leira**, **Mephistopheles** (Deities, pages planned): his ally and his enemy among the gods, the goddess who shares Liar's Night with him, and the archdevil who held part of his divinity in the wiki account.
+- **Bane**, **Cyric**, **Leira**, **Mephistopheles** (Deities): his ally and his enemy among the gods, the goddess who shares Liar's Night with him, and the archdevil who held part of his divinity in the wiki account.
 - **Character Creation** (Players' Guide): the Shadowmasters Exile background.
 - **Timekeeping and the Festival Calendar** (History): Liar's Night on the Waterdeep calendar.
 

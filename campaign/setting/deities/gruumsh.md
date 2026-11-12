@@ -100,8 +100,8 @@ Gruumsh, the One-Eyed God, is the chaotic evil god of war and conquest and the r
 
 - **Corellon Larethian** (Deities): the elven god whose duel with Gruumsh cost him an eye in the elven telling.
 - **Moradin** (Deities): the dwarf-father he hates and who loathes him in return.
-- **Garl Glittergold** (Deities, page planned): the gnome god whose pranks annoy him.
-- **Maglubiyet** (Deities, page planned): the goblinoid god whose pantheon fights his in Acheron.
+- **Garl Glittergold** (Deities): the gnome god whose pranks annoy him.
+- **Maglubiyet** (Deities): the goblinoid god whose pantheon fights his in Acheron.
 - **Lolth** (Deities): the spider goddess who once colluded with him and then became his enemy.
 - **Talos** (Deities): the Storm Lord, a separate god in 1492 DR and an aspect of Gruumsh in the 4e account.
 - **Bane** (Deities): the god who held Maglubiyet in the Spellplague era.
