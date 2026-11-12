@@ -68,7 +68,7 @@
 > - **A warlock PC:** No warlock connection in the sources.
 > - **Campaign ties:** No campaign file uses this power. The nearest links are two Red Wizards in the files and some fire seeds in Undermountain.
 >   - Esloon Bezant is a Thayan Red Wizard exile who runs an escort-and-protection crew in the Dock Ward, and Kaevja Cynavern is a former Red Wizard of Thay who now serves Manshoon in the Kolat Towers sanctum (`sources/adventure-wdh.json:3922`, `:29993`). The wiki ties many Red Wizards to Kossuth, but no file names a god for either of them, so do not make them his worshipers on the strength of Thay alone.
->   - In the published *Dungeon of the Mad Mage*, magic from the Elemental Plane of Fire runs the stove in the Dweomercore kitchen on Level 9 (`sources/adventure-wdmm.json:27128`) and drives the forges the azers tend on Level 13 and the three Elemental Forges on Level 14 (`:37506`, `:39591`). On Level 9 a burning tapestry in the dining hall releases an efreeti (`:27218`). No line names Kossuth or ties these fires to a god, and Undermountain is future work, so treat them as seeds and nothing more.
+>   - In the published *Dungeon of the Mad Mage*, magic from the Elemental Plane of Fire runs the stove in the Dweomercore kitchen on Level 9 (`sources/adventure-wdmm.json:27128`) and drives the forges the azers tend on Level 13 and the three Elemental Forges on Level 14 (`:37506`, `:39591`). On Level 9 a burning tapestry in the dining hall releases an efreeti (`:27218`). No line names Kossuth or ties these fires to a god, and Undermountain is future work, so treat them as seeds.
 
 ## Overview
 

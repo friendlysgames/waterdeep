@@ -99,7 +99,7 @@ Akadi is the neutral goddess of air, wind and flying creatures, and Waterdhavian
 - **Talos** (Deities): the Storm Lord, whose true storms she can neither make nor end.
 - **Umberlee**, **Auril** (Deities): the sea goddess who holds storms at sea, and the Frostmaiden who claimed wind and storms after the Spellplague.
 - **Grumbar** (Deities): the elemental god of earth, her enemy.
-- **Istishia**, **Kossuth** (Deities, pages planned): the elemental gods of water and fire, her fellow elemental powers.
+- **Istishia**, **Kossuth** (Deities): the elemental gods of water and fire, her fellow elemental powers.
 - **Shaundakul** (Deities): the Rider of the Winds, who counts her an ally.
 - **Savra Belabranta** (Notable Figures): the Order of the Gauntlet knight who served in the Howling Hatred.
 - **The Order of the Gauntlet** (Organizations): the faction that holds Savra's story.

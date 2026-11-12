@@ -45,7 +45,7 @@
 - **Relations:** Wiki-sourced, with the book or edition named on each fact.
   - He has ties to powers of water but no strong relationships. These include Deep Sashelas, Eadro, **Eldath**, Persana, Shekinester, Surminare, Trishina, **Umberlee**, **Valkur** and the Water Lion (*Faiths & Avatars*, 2e; *The Inner Planes*).
   - He works loosely with Sashelas, Trishina and Eldath to keep the life cycles of the sea going (*Sea of Fallen Stars*). He has no interest in Umberlee's storms or Valkur's sailors (*Forgotten Realms Campaign Guide*, 4e).
-  - He opposes **Kossuth** in every way (*The Inner Planes*). The wiki's Kossuth page says Kossuth was vehemently opposed to Istishia and his clergy (*Forgotten Realms Campaign Setting*, edition not stated).
+  - He opposes **Kossuth** in every way (*The Inner Planes*). The wiki's Kossuth page says Kossuth was vehemently opposed to Istishia and his clergy (*Forgotten Realms Campaign Setting*, 3e).
   - He watches the struggle between the archomentals of water, Ben-Hadar and Olhydra, and would presumably step in if one of them gained a real chance to control elemental water (*The Inner Planes*).
 - **Origin and rise:** No source gives an in-world origin or a dated event. The wiki's history section is a stub. The only edition note is that he is a primordial from the Elemental Chaos in 4e (*Forgotten Realms Campaign Guide*).
 - **In the campaign:** Istishia is present in 1492 DR, as every power is. The 4e primordial status is another edition's account, and this page does not use it as his present rank (see Draft Notes).
@@ -88,7 +88,7 @@ Istishia is the Water Lord, the elemental god of water itself and not of any par
 
 - **Eldath**, **Valkur** (Deities): two powers of water the wiki lists among his ties. Valkur is the sailors' god he has no interest in, and Eldath is the goddess of peace and quiet water whom Avi follows.
 - **Umberlee** (Deities): the sea goddess whose storms he ignores, and the one whose offerings the city collects at the Fair Seas Festival.
-- **Kossuth** (Deities, page planned): the elemental lord of fire, whom he opposes in every way.
+- **Kossuth** (Deities): the elemental lord of fire, whom he opposes in every way.
 - **Akadi**, **Grumbar** (Deities): the other two elemental lords, of air and earth.
 - **Avi** (Notable Figures): the water genasi armorsmith at Steam and Steel, who follows Eldath and not him.
 - **Timekeeping and the Festival Calendar** (History): Fleetswake and the Fair Seas Festival, which leave him out.
