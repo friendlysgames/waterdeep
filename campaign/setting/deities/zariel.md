@@ -88,9 +88,9 @@ Zariel is the archdevil who rules Avernus, the first layer of the Nine Hells, an
 
 - **Asmodeus** (Deities): her sovereign, who made her an archdevil and re-elevated her after Bel.
 - **Lathander** (Deities): the god she served as a solar.
-- **Tiamat** (Deities, page planned): the hostile relationship and the Thay alliance.
+- **Tiamat** (Deities): the hostile relationship and the Thay alliance.
 - **Mephistopheles** (Deities, page planned): the archdevil who looks for leverage over her.
-- **Maglubiyet** (Deities, page planned): the goblinoid god whose hobgoblins leave to join her cults.
+- **Maglubiyet** (Deities): the goblinoid god whose hobgoblins leave to join her cults.
 - **Torm** (Deities): the god of the priest Thavius Kreeg, who bargained with her.
 - **Faction Outposts** (quest): the Asmodean Shrine, whose Nine Hells mural shows Avernus.
 

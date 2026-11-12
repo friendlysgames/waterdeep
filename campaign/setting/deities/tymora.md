@@ -109,7 +109,7 @@ Tymora is the chaotic good goddess of good fortune, called Lady Luck and picture
 - **Selûne** (Deities): her oldest friend, who split Tyche and took her in at the Gates of the Moon, and whose temple shares the Sea Ward.
 - **Lathander**, **Tyr**, **Helm** (Deities): Lathander is an ally, and Tyr and Helm are the pair in the 1384 DR quarrel.
 - **Siamorphe** (Deities): the goddess whose departure set off that quarrel.
-- **Lliira**, **Sune**, **Shaundakul**, **Azuth**, **Garl Glittergold**, **Bane** (Deities, pages planned): her allies and her named enemy.
+- **Lliira**, **Sune**, **Shaundakul**, **Azuth**, **Garl Glittergold**, **Bane** (Deities): her allies and her named enemy.
 - **Meloon Wardragon** (Notable Figures): the campaign's devotee of Tymora.
 - **Force Grey** (Organizations): Meloon's faction.
 - **Castle Ward** (Gazetteer): records the Tower of Luck conflict. No Sea Ward gazetteer page exists yet, so the Sea Ward is plain text here.

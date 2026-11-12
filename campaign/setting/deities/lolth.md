@@ -48,7 +48,7 @@
   - MTF points out that she is far from omniscient. Some drow live without bending to her, and communities of renegades often raise another of the Dark Seldarine as their patron, which swaps one evil oppressor for another.
 - **Relations with other powers:** Wiki-sourced (*Demihuman Deities* unless noted).
   - She is the enemy of the Seldarine, above all **Corellon Larethian** (Deities), her former husband, then Sehanine Moonbow, who foiled her scheme, and Fenmarel Mestarine, who was her partner in adultery and did not join her betrayal. She put little effort into acting on the hatred and preferred to keep the drow fighting one another.
-  - She once helped **Gruumsh** (Deities, page planned) try to kill Corellon, and the two became enemies after he failed (*Faiths & Pantheons*, 3e).
+  - She once helped **Gruumsh** (Deities) try to kill Corellon, and the two became enemies after he failed (*Faiths & Pantheons*, 3e).
   - She had occasional alliances with **Loviatar** and **Malar** (*Faiths & Pantheons*, 3e). The Malar page records his long-standing alliance with her against the Seldarine.
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - Before her fall she was Araushnee, a lesser elven goddess of destiny and artisans and the consort of Corellon. She ruled with him and Sehanine as the heads of their pantheon (*Demihuman Deities*; *The Plane Above*, 4e).
@@ -124,7 +124,7 @@ Lolth is the chaotic evil goddess of spiders and the drow, called the Spider Que
 - **Eilistraee** (Deities): her daughter, the goddess of the drow who left her web.
 - **Corellon Larethian** (Deities): her former husband and the chief enemy of her hatred.
 - **Ghaunadaur** (Deities, page planned): the Dark Seldarine rival she feared.
-- **Gruumsh** (Deities, page planned): the orc god she helped against Corellon and then fought.
+- **Gruumsh** (Deities): the orc god she helped against Corellon and then fought.
 - **Malar**, **Loviatar** (Deities): her occasional allies in the wiki account.
 - **Mystra** (Deities): the goddess whose Weave she tried to copy before 1479 DR.
 - **Silvanus** (Deities): his Underdark followers oppose the Silken Stewards.
