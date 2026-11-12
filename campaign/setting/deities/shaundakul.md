@@ -93,7 +93,7 @@ Shaundakul, the Rider of the Winds, is the god of travel, and guides, explorers 
 - **Selûne**, **Tymora**, **Mielikki** (Deities): the goddess he was said to love, the goddess whose ground he took, and the goddess who took over his rangers.
 - **Waukeen**, **Lliira** (Deities): the goddess who took his merchants, and the goddess who held her portfolio and stayed his ally.
 - **Helm**, **Shar**, **Beshaba** (Deities): the god his portfolio threatens, the goddess he opposes over secrets, and the goddess who slandered him.
-- **Akadi** (Deities, page planned): an ally of the Rider of the Winds.
+- **Akadi** (Deities): an ally of the Rider of the Winds.
 
 > **[GM]**
 >

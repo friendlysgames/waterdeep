@@ -109,10 +109,10 @@ Umberlee is the chaotic evil god of the sea, called the Queen of the Depths and 
 ## Cross-References
 
 - **Talos**, **Malar** (Deities): the leader and the third member of the Gods of Fury.
-- **Auril** (Deities, page planned): the fellow Fury she calls on and then turns against.
+- **Auril** (Deities): the fellow Fury she calls on and then turns against.
 - **Selûne**, **Sune**, **Chauntea** (Deities): the goddesses she fights.
-- **Valkur** (Deities, page planned): the power sailors pray to for a safe return.
-- **Grumbar**, **Akadi** (Deities, pages planned): the earth god of the Kelthann belief and the wind goddess who cannot make true storms.
+- **Valkur** (Deities): the power sailors pray to for a safe return.
+- **Grumbar**, **Akadi** (Deities): the earth god of the Kelthann belief and the wind goddess who cannot make true storms.
 - **Silvanus**, **Mielikki**, **Eldath** (Deities): the First Circle and Deep Wilds powers named with her.
 - **Force Grey** (Organizations): the faction whose Mission 2 centers on the Queenspire's missing offerings.
 - **Vajra Safahr, the Blackstaff**, **Renaer Neverember**, **Zelifarn**, **Dagult Neverember** (Notable Figures): the people around the mission, and the lord the wiki ties to the 1484 DR storm.
