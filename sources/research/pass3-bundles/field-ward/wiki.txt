@@ -1,0 +1,443 @@
+=== WIKI PAGE: Waterdeep/Field Ward
+
+{{Location
+| image              = WDH-FieldWard.png
+| caption            = The Field Ward, ''circa'' 1492 DR. Click to enlarge.
+| name               = Field Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = City Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = 
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''Field Ward''' of [[Waterdeep]] was an unofficial ward of the city, located between the inner and outer walls on the north side of town. It was in fact the city's slums — possessing the poorest living conditions within the city, was rife with crime, and served as a home to the most destitute Waterdhavian citizens.<ref name="W.DH-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref>
+
+==Description==
+The ward had muddy, unpaved streets and no sanitation services or working [[sewer|sewer system]]. It was especially crowded, noisy and foul-smelling — stinking of slaughter-houses, tanneries, and waste. These [[Guild of Butchers|guild]] businesses whose industries were rather offensive to the nose and ears were all relegated to the Field Ward, outside the city proper.<ref name="FRCG-p196">{{Cite book/Forgotten Realms Campaign Guide|196}}</ref><ref name="W.DH-p180" />
+
+The [[City Watch (Waterdeep)|City Watch]] did not patrol here, but the [[City Guard (Waterdeep)|City Guard]] watched over the road between the inner and outer gates to protect those passing through.<ref name="W.DH-p180" />
+
+Many poor [[elves]], half-breeds, servants,<ref name="W.DH-p118">{{Cite book/Waterdeep: Dragon Heist|118}}</ref> homeless squatters<ref name="W.DH-p89">{{Cite book/Waterdeep: Dragon Heist|89}}</ref> and other disregarded Waterdhavians, such as those with obvious deformities, called this district their home.<ref name="FRCG-p196"/>
+
+==History==
+Originally a caravan yard during the 14{{th}} century [[DR]], the Field Ward was the last destination for the many refugees that came to Waterdeep following the [[Spellplague]].<ref name="FRCG-p196"/><ref name="W.DH-p180" />
+
+==Notable Locations==
+;Taverns:
+* [[Endshift Tavern]]: This establishment was popular among off-duty officers of the City Watch<ref name="W.DH-p180"/>
+
+==Appendix==
+===References===
+{{Refs}}
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Guild of Butchers
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Guild of Butchers
+| alt_spelling   = 
+| aliases        = 
+| type           = [[Guild]]
+| base           = [[Butchers' Guildhall]]
+| leadertitle    = Master Butcher
+| leader         = [[Kellatarn Nander]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p39-40" /><ref name="CoS-p44" />
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Guild of Butchers
+}}
+The '''Guild of Butchers''' was an organized [[guild]] of skilled meat processors and meat merchants who operated in the city of [[Waterdeep]].<ref name="WatN-p39-40">{{Cite book/Waterdeep and the North|39-40}}</ref><ref name="CoS-p44">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|44}}</ref><ref name="VGtW-p120">{{Cite book/Volo's Guide to Waterdeep|120}}</ref>
+
+==Organization==
+The Guild was led by a "Master Butcher". During the mid-14{{th}} century [[DR]], this title was held by [[Kellatarn Nander]]. The guild's public contact held the title of "Second Knife".<ref name="WatN-p39-40" /><ref name="CoS-p44" /> During this same period, that title was held by [[Morathin Belmonder]],<ref name="WatN-p39-40" /><ref name="CoS-p44" /><ref name="VGtW-p120" /><ref>{{Cite book/Waterdeep and the North|25}}</ref> who was also the proprietor of [[Belmonder's Meats]], one of the most popular meat counters in Waterdeep.<ref name="VGtW-p120" /><ref>{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|10}}</ref>
+
+Entry to the guild required paying a stiff entry fee of 25 [[gold piece]]s and passing a rigorous exam of their skills by the Master Butcher. Afterwards, guild members had to pay a monthly due of three gold pieces. Apprentice butchers were exempt from guild dues, as they were considered employees of full members.<ref name="WatN-p39-40" /><ref name="CoS-p44" />
+
+==Activities==
+The butchers of Waterdeep processed all manner of meat, including the likes of exotic fare like [[ankheg]]s and [[yeti]]. However, [[cattle]] and [[hog]]s were by far the most commonly processed animals, followed by [[horse]]s, which many people in [[the North]] had a taste for.<ref name="WatN-p39-40" /><ref name="CoS-p44" /> Some would even process carcasses brought in by customers.<ref name="VGtW-p120" />
+
+==Tactics==
+The rules of the guild outlined a standardized set of procedures for processing meat, so as to ensure both hygiene and quality, that members were expected to follow. This included how meat should be bled, hung, and smoked or seasoned.<ref name="WatN-p39-40" /><ref name="CoS-p44" /> If members ever had an overstock of meat, they could make use of their guildhall's cold cellar.<ref name="CoS-p22">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|22}}</ref>
+
+All butchers priced their meat similarly, at fairly expensive rates, despite the [[Lords of Waterdeep]] forbidding price-fixing. Though prices were slightly cheaper around the city's docks and slightly more expensive in its affluent neighborhoods.<ref name="WatN-p39-40" /><ref name="CoS-p44" />
+
+The guild occasionally bought exotic beasts from ship cargoes at bargain prices, then resold them to guild members at substantial savings. While members were not obligated by any guild law to pass these savings on to their customers, most chose to offer bargains on these exotic meats. This served not only to engender the goodwill of their clientele, but to encourage them to acquire new tastes in meat, tastes that would usually prove to be expensive.<ref name="WatN-p39-40" /><ref name="CoS-p44" />
+
+More regional fare was brought into the city at night by carts, typically heavily guarded by well-equipped [[sellsword]]s, which were then escorted by either a guild member or [[City Watch (Waterdeep)|City Watch]] patrol to a warehouse. Similar escorts would then accompany carts transporting meat from these warehouses to various butcher shops across Waterdeep.<ref name="VGtW-p120" /> Fresh meat tended to be in short supply around the winter time.<ref>{{Cite book/Waterdeep: Dragon Heist|64}}</ref>
+
+==Base of Operations==
+The guildhall for this guild was the [[Butchers' Guildhall]],<ref name="WatN-p39-40" /><ref name="CoS-p44" /><ref name="CoS-p55">{{Cite book/City of Splendors (boxed set)/Campaign Guide|55}}</ref> located along the [[Way of t
+
+=== LINKED WIKI PAGE (first 5000 chars): City Watch (Waterdeep)
+
+{{Organization
+| image          = City_watch-5e.jpg
+| caption        = Various members of the City Watch.
+| name           = City Watch
+| aliases        = Watchers<ref name="tCaT-p26">{{Cite book/To Catch a Thief|26}}</ref>
+| base           = [[Palace of Waterdeep]], [[Waterdeep]], [[Sword Coast North]]<ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35–37}}</ref>
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Any
+| memrefs        = <ref name="WDH5e-p198">{{Cite book/Waterdeep: Dragon Heist|198}}</ref>
+| allegiances    = [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="WDH5e-p198" />
+| showmembers    = yes
+| orgname        = the City Watch of Waterdeep
+}}
+The '''City Watch''' of [[Waterdeep]] served as the police force within the city.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p35" /> Its strict code of conduct and well trained operatives made the Watch one of the most trusted police forces in [[Faerûn]].<ref name="WDH5e-p168">{{Cite book/Waterdeep: Dragon Heist|168}}</ref>
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: [[City Guard (Waterdeep)|the Guard]] guards the walls while the Watch watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The Watch's purpose was not only to enforce the law, but also to ensure the well-being of Waterdhavians.<ref name="CoS.W-p35" />
+
+It had a centralized command led by the Commander of the Watch, who supervised three watchlords,<ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PoF-p29">{{Cite book/Power of Faerûn|29}}</ref> or senior commanders: the Mage Civilar in charge of the [[wizard]] corps; the Senior Armsmaster, who was in charge of supplies and reported directly to the Commander of the Watch; and the Grand Civilar, who commanded the ward civilars and held the same rank as the Mage Civilar.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" /> The Commander of the Watch reported directly to the [[Open Lord]].<ref name="WDH5e-p198" />
+
+Each ward of Waterdeep was patrolled by a division of the Watch under the command of a ward civilar, or [[Generic City Watch major (Waterdeep)|major]], who oversaw all the senior civilars commanding the watch stations of their respective wards.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />{{Border box float
+| theme        = 
+| float        = 
+| contentalign = center
+| width        = auto
+| styles       = 
+| content      = {{Split table|lca=center|rca=center|caption=City Watch Ranks|captionstyle=font-size:larger;font-family:Georgia,serif;font-weight:bold;text-align:center;
+|leftheader=Rank<ref name="WDH5e-p189" />|rightheader=Title<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| [[Generic City Watch patrolperson (Waterdeep)|Watchman/Watchwoman]] | ''Constable''
+| [[Generic City Watch sergeant (Waterdeep)|Sergeant]] | ''Armar''
+| [[Generic City Watch lieutenant (Waterdeep)|Lieutenant]] | ''Civilar''
+| [[Generic City Watch captain (Waterdeep)|Captain]] | ''Senior civilar''
+| [[Generic City Watch major (Waterdeep)|Major]] | ''Ward civilar''
+}}
+----
+'''Senior Commanders'''<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76" /><br />''Grand Civilar'' • ''Mage Civilar'' • ''Senior Armsmaster''
+----
+'''''Commander of the Watch'''''
+}}Each guard post was commanded by a senior civilar or [[Generic City Watch captain (Waterdeep)|captain]], sometimes referred to as a rorden,<ref name="THO2004" /><ref name="PoF-p29" /> who commanded a number of patrols. Senior civilars also performed duties as orsars, acting as envoys and prisoner escorts; and as guardswords, in charge of patrolling the docks and gates.<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /><ref name="THO2004" /><ref name="PoF-p29" />
+
+Each patrol was headed by a civilar, or [[Generic City Watch lieutenant (Waterdeep)|lieutenant]],<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /> also known as a [[swordcaptain]] or amlar.<ref name="ADDc-01"/> Typical patrol groups included one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], also known as a "sword", and two or more [[Generic City Guard private (Waterdeep)|constable]]s, also known as "blades"<ref name="PoF-p29" />, patrolmen,<ref name="ADDc-01"/> or watchmen/watchwomen.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />
+
+==Activities==
+[[File:Delzorin.png|thumb|300px|right|''A traffic warden gives directions at the corner of [[Delzorin Street
+
+=== LINKED WIKI PAGE (first 5000 chars): City Guard (Waterdeep)
+
+{{Organization
+| image          = <gallery>
+City_guard-5e.jpg|5e
+City Guardsmen-Vinod Rams.jpg|3e
+</gallery>
+| caption2       = The City Guard of Waterdeep.
+| name           = City Guard
+| aliases        = The Guard<br/>Guardsmen
+| base           = [[Castle Waterdeep]]
+| leader         = [[Simonetta Twoedged]]<br />(before [[1368 DR]])<br />[[Obryn Ironfist]] ([[1372 DR]])<br />[[Ezender Drayth]] ([[1491 DR]])<br />[[Elminster]] (1491 DR)
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="ADDc-01"/><ref name="CS.W-p33">{{Cite book/City of Splendors: Waterdeep|33-34}}</ref><ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref>
+| members        = 1200 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|on|off|off|on|on|off|off|off|off}}
+| races          = {{numeric table|[[Human]]s|770|[[Shield dwarf|Shield dwarves]]|130|[[Elves]]|110|[[Lightfoot halfling]]s|70|[[Half-elves]]|55|[[Gnome]]s|35|[[Half-orc]]s|25|Others|10}}
+| memrefs        = <ref name="CS.W-p33"/>
+| allegiances    = [[Lords of Waterdeep]], [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| showmembers    = yes
+| orgname        = the City Guard of Waterdeep
+}}
+The '''City Guard''' was a highly trained military organization of fully-armored soldiers responsible for defending the great city of [[Waterdeep]] and patrolling its surroundings.<ref name="CS.W-p33" /><ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS2e-p75-76" />
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while [[City Watch (Waterdeep)|the Watch]] watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The City Guard served many purposes related to defending the city. Within Waterdeep, the Guard protected the city walls, gates, and its important buildings, as well as provided escorts for government officials. It also patrolled the harbor and the roads leading from Waterdeep to [[Amphail (village)|Amphail]], [[Goldenfields]], and [[Daggerford]].<ref name="WDH5e-p197" />
+
+The exact size of the City Guard was a secret only known to the [[Lords of Waterdeep]], but it was thought to be around 1,200 strong.<ref name="CoS2e-p75-76" /> In times of war, it could enlist mercenaries and grow to a contingent of up to 12,000 members.<ref name="CS.W-p33"/>
+
+Members of the City Guard were paid a salary of 6 [[gp]] per month. No fee was required to join the ranks.<ref name="CS.W-p33"/>
+
+A special aquatic division of the Guard was recruited from the underwater residents of [[Deepwater Harbor]].<ref name="CS.W-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref> The [[merfolk]] of [[Tharqualnaar]] and the [[Aquatic elf|sea elves]] of [[T'Quession]] provided Guards who were responsible for defending Waterdeep against aquatic threats, recovering bodies, salvaging lost cargo, and patrolling a short distance outside the harbor.<ref name="CS.W-p111">{{Cite book/City of Splendors: Waterdeep|111}}</ref> In particular, they guarded the perimeter of [[Umberlee's Cache]], with the underwater lighthouse [[Deepwater Beacon]] serving as a guiding light and rally point.<ref name="CS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref>
+
+These underwater Guards were not provided with weapons and equipment by the city, but were given a monthly 25 gp stipend of food, medical supplies, and [[trade bar]]s as compensation.<ref name="CS.W-p111" />
+
+===Ranks===
+Like the [[City Watch (Waterdeep)|City Watch]], the City Guard had specific titles for the members of their forces. A City Guard patrol usually consisted of twelve members, whose commanding officer was called the civilar. A commanding officer holding the rank of [[generic City Guard captain (Waterdeep)|captain]] was known as an aumarr, or senior civilar, while one holding the rank of [[generic City Guard lieutenant (Waterdeep)|lieutenant]] was known as a shieldlar, or, simply, civilar. The patrol also contained one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], and ten [[Generic City Guard private (Waterdeep)|guardsmen or guardswomen]], or trusties.<ref name="CS.W-p33" /><ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PF-p29">{{Cite book/Power of Faerûn|29}}</ref> A patrol could also be led by a sergeant.<ref name="ADDc-01" />
+
+Other officer positions existed within the ranks of the Guard, not typically associated with regular patrols. In particular, the ranks of valabrar and torsin were responsible for escorting important individuals within the city, while also composing honor guards and bodyguards to diplomats and i
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Endshift Tavern
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Endshift Tavern
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 
+| location      = 
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WDH-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Endshift Tavern''' was a tavern in the [[Field Ward]] in [[Waterdeep]] in the late 15{{th}} century. It was a frequent stop for off-duty members of the [[City Guard (Waterdeep)|City Guard]].<ref name="WDH-p180"/>
+
+==Location==
+The tavern was located on the corner of [[Endshift Street]] and the [[Breezeway]].<ref name="WDH-p180"/>
+
+==History==
+Some time in [[1492 DR]],{{WDH-time}} there was an altercation between the innkeeper and a member of the [[Shard Shunners]], a gang of [[halfling]] [[wererat]]s. As retribution, the gang was frequently robbing the tavern and assaulting some of its patrons. As the City Watch did not patrol the Field Ward, the [[Order of the Gauntlet]] may have sent a group of adventurers to investigate the problem.<ref name="WDH-p39">{{Cite book/Waterdeep: Dragon Heist|39}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+* [[Waterdeep: Dragon Heist]]
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on Endshift Street]]
+[[Category:Locations on the Breezeway]]
+[[Category:Locations in the Field Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+

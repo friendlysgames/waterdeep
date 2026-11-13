@@ -1,0 +1,756 @@
+NOT FOUND: Open Lord of Waterdeep
+
+=== WIKI PAGE: Masked Lord
+
+'''Masked Lord''' could refer to one of the following:
+* One of the [[Lords of Waterdeep]], who normally only appeared in public wearing masks to hide their identity.
+* [[Vhaeraun]], patron deity of [[thieves|thievery]] and many male [[drow]].
+{{Disambig}}
+
+=== WIKI PAGE: Laeral Silverhand
+
+{{DEFAULTSORT:Silverhand, Laeral}}
+{{Person
+| image          = <gallery>
+Laeral-5e.jpg|5e
+Laeral.jpg|3e
+HL-Laeral.png|2e
+</gallery>
+| caption2       = Laeral Silverhand Arunsun.
+| name           = Anamanué Laeral Silverhand
+| alt_spelling   = 
+| titles         = Open Lord of Waterdeep, Lady Mage of Waterdeep, Lady Blackstaff,<ref name="tSummoning">{{Cite book/The Summoning/Paperback 2001}}</ref><br />Witch-Queen of Stornanter,<ref name="GHotR-103">{{Cite book/The Grand History of the Realms|103}}</ref> Witch-Queen of the North<ref name="WDH5e-p207" />
+| aliases        = Gelda<ref name="LCRB">{{Cite organized play/LC/Dragon's Deep|15}}</ref>
+| nicknames      = Laer<ref name="TH-19">{{Cite book/The Herald/Hardcover|237|13}}</ref>
+| true name      = Myroune<ref name="Sisters-29">{{Cite book/The Seven Sisters|29}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="DM">{{Cite book/Death Masks}}</ref>
+| formerhomes    = [[Rhymanthiin]], [[High Moor]]<ref name="BS">{{Cite book/Blackstaff/MMP}}</ref>
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Infernal language|Infernal]]<ref name="WDH5e-p207">{{Cite book/Waterdeep: Dragon Heist|207}}</ref>
+| reckoning      = 
+| dob            = 765
+| dobnotes       = <ref name="WDH5e-p207" />
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Magic-user]]|24}}
+| refs1e         = <ref name="CotR-20">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|20}}</ref>
+| alignment2e    = 
+| class2e        = {{class table|edition=2e|[[Ranger]]|9|[[Wizard]]|25}}
+| refs2e         = <ref name="7S-28">{{Cite book/The Seven Sisters|28}}</ref><ref name="CoS-CG-74">{{Cite book/City of Splendors (boxed set)/Campaign Guide|74}}</ref><ref name="FRCS2eR-RtR-37">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|37}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic good]]
+| challenge35    = 34
+| class35        = {{class table|edition=3e|[[Sorcerer]]|4|[[Ranger]]|7|[[Wizard]]|19}}
+| refs35         = <ref name="CoSW3e-p25">{{Cite book/City of Splendors: Waterdeep|25}}</ref><ref name="FRCS3e-280">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|280}}</ref>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 17
+| class5e        = {{Class table|edition=5e|[[Wizard]]|19}}
+| refs5e         = <ref name="WDH5e-p207" />
+}}
+'''Laeral Silverhand''' ({{Pronounce|LAIR|awl|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Anamanué Silverhand''' and formerly known as the Witch-Queen of the North<ref name="WDH5e-p207" /> and later the Lady Mage of Waterdeep, was one of the [[Seven Sisters]], a [[Chosen of Mystra]],<ref name="FRCS3e-280" /> and the [[Open Lord]] of [[Waterdeep]] during the late 15{{th}} century [[DR]].<ref name="WDH5e-p207" /> Together with her partner [[Khelben "Blackstaff" Arunsun]], they led the [[Moonstars]], a dissident faction of the [[Harpers]], which sought to guide the cities and countries of the [[North]] toward a shared destiny.<ref name="FRCS3e-280" />
+
+==Personality==
+Laeral was incredibly organized—it was the only way she could manage to fit all of her activities into a single day. She was friendly and accommodating, leading almost everyone who met her, even the haughty nobles of Waterdeep, to consider her a true friend. She was also proactive in her defense of the city, to the extent that certain Waterdhavians would stage calamitous events so that she would keep tabs on persons of interest for them without their needing to ask for her help or involve themselves directly.<ref name="SS-p117-118">{{Cite book/The Seven Sisters|117-118}}</ref>
+
+Having been in thrall to the ''Crown of Horns'' and forced to commit heinous acts by it, she felt that she understood the nature of evil better than most<ref name="SS-p32">{{Cite book/The Seven Sisters|32}}</ref> and often mediated disputes with rogues, undesirables, and sentient monsters, especially in [[Skullport]] where she kept an alias identity in the form of [[Irusyl Eraneth]].<ref name="SS-p117-118" />
+
+Laeral was infuriated by magic-users who employed their power to deceive and exert baleful influence over others. She disliked [[doppelganger]]s and slave-owners.<ref name="SS-p31" />
+
+Laeral was especially conscious of having both magic and weapons at the ready<ref name="SS-p29">{{Cite book/The Seven Sisters|29}}</ref> and always kept several [[dagger]]s hidden on her person.<ref name="SS-p30">{{Cite book/The Seven Sisters|30}}</ref>
+
+==Abilities==
+One of the most prolific [[magic item]] creators in recorded history, Laeral was particularly adept at determining the abilities of magic items and could potentially do so merely by holding one in her hand without activating it. She also hid a gift granted to her by [[Mystra]] to deactivate or cause malfunctions in magical items that touched her.<ref name="SS-p31" />
+
+As a centuries-old wizard, Laeral was one of the most accomplished spellcasters in [[Faerûn]], though her powers steadily declined as she had to increasingly devote her energies to maintaining her aging body.<ref name="DM" /> Like all Chosen, Laeral's divine blessings were much reduced in the wake of the [[Second Sundering]], as all gods took a more distant approach to interfering in mortal affairs.<ref name="DM" /> Nonetheless, her knowledge and facility with [[Weave]]-craft, as well as her [[silver fire]], made her a formidable opponent.<ref name="WDH5e-p207" />
+
+==Possessions==
+When Laeral became a Chosen, Mystra gifted Laeral with special power over magic items. As such, Laeral created many magic items in her lifetime. Notable and oft-copied examples include a magic steel [[shield]] that granted the wielder resistance to spell, and shields of this type were subsequently named ''[[Laeral's spell shield]]s''. In addition to the normal abilities of a Chosen of Mystra, Laeral had given herself the permanent benefit of wearing a ''[[ring of fire resistance]]''.<ref name="SS-p31">{{Cite book/The Seven Sisters|31}}</ref> Although there is a type of magic armor called ''[[Laeral's storm armor]]'', it is not clear what role Laeral had in its development.<ref>{{Cite book/Magic of Faerûn|138}}</ref>
+
+Laeral collected beautiful dresses and shoes. She liked to wear them to social occasions but didn't care if they were soiled or ruined while she wore them. Laeral also particularly valued hand-sized ornaments depicting [[frog]]s, [[snail]]s, and [[toad]]s. The pride of her collection was a set of jewels carved into the shape of snails and frogs that magically orbited her bedside table.<ref name="SS-p28-29" />
+
+During her reign as the Open Lord of Waterdeep, she wore a ''[[robe of the archmagi]]''.<ref name="WDH5e-p207" />
+
+==Activities==
+As of the mid-to-late 14{{th}} century DR, Laeral spent most of her day instructing and looking after her and her partner's [[wizard]] apprentices at [[Blackstaff Academy]]. She also maintained [[Blackstaff Tower]], ensuring its wards and stores were maintained. She also spent much of the day meeting with friends, allies and even strangers who wanted to speak with her.<ref name="CoS:W-p24">{{Cite book/City of Splendors: Waterdeep|24}}</ref>
+
+The rest of her time was spent coordinating the efforts of the [[Harpers]],<ref name="SS-p32" /> until the [[Harper schism]] and thereafter she worked with the [[Moonstars]].<ref>{{Cite book/Cloak & Dagger|22,27}}</ref><ref name="FRCS3e-280" />, carrying out duties for the [[Lords' Alliance]],<ref name="SS-p31" /><ref name="SS-p32" /> and acting as a spy for the [[Lords of Waterdeep]] both in the city and in Skullport as Irusyl.<ref name="SS-p117-118" /> She also kept constant watch on any of Khelben's apprentices who left Blackstaff Tower to ensure that no treachery was afoot.<ref name="SS-p32" /><ref name="SS-p117-118" />
+
+Her free time was spent either studying [[spell]]s,<ref name="SS-p29" /> exploring other [[plane]]s,<ref name="SS-p32" /> attending parties,<ref name="SS-p31" /> and shopping for clothes (which she refused to haggle over).<ref name="SS-p28-29" />
+
+Though she did not need to sleep, she insisted on being left alone for her "[[Hours of the day|highsun]] nap", during which time she did as she pleased without the constraints of her hectic schedule. Also, if, for some reason, she was unable to perform some of her more mundane daily tasks, she could call upon a long list of trusted Waterdhavian ladies (some of whom were powerful nobles) to do them for her.<ref name="SS-p28-29" />
+
+===Goals===
+Apart from attending to her duties, Laeral held as her objectives the addition of [[Cormyr]], [[Amn]], [[Westgate]], and [[Luskan]] to the Lords' Alliance. She also made efforts to remove [[Zhentarim]] influence from the [[Sword Coast]] and the North.<ref name="SS-p31-32">{{Cite book/The Seven Sisters|31-32}}</ref> Her ultimate goal however, was to unite all thinking races, be they [[dwarves]], [[elves]], [[human]]s, or [[orc]]s in a goodly purpose.<ref name="SS-p31" />
+
+===Bibliography===
+Laeral wrote ''[[Lifelong with Regrets]]'' in the {{YearlinkName|1391}}.<ref name="BlackstaffTower232">{{Cite book/Blackstaff Tower|232}}</ref>
+
+==Relationships==
+[[File:Khelben and laeral.png|thumb|''Waterdeep's own power couple.''|314x314px]]
+Laeral was one of seven female spellcasters born to the [[ranger]] [[Dornal Silverhand]] and his wife [[Elué]] (with the exception of [[Qilué Veladorn]] who, due to divine intervention, was [[drow]]). Collectively, they were known as the [[Seven Sisters]].<ref name="SS-p6-8">{{Cite book/The Seven Sisters|6-8}}</ref>
+
+Laeral was a tremendous influence on her partner and fellow chosen of Mystra [[Khelben Arunsun]]. She was able to recognize in him those small moments of personal growth where he kept his anger and his contempt of incompetence in check.<ref name="RotA.Sum-p130">{{Cite book/Return of the Archwizards/The Summoning|130}}</ref>
+
+She had three children, a girl named [[Maura Silverhand|Maura of Evermeet]], conceived by Laeral during her time under the influence of the ''Crown of Horns'' by an unknown father. Maura was in love with the Crown Prince of [[Evermeet]], [[Lamruil Moonflower|Lamruil]].<ref name="EGP">{{Cite web/Ed Greenwood's Patreon/Lore Look: Laeral Silverhand}}</ref> Laeral also had twins, a boy named [[Krehlan Arunsun]]<ref name="Blackstaff/MMP342-343">{{Cite book/Blackstaff/MMP|342-343}}</ref><ref name="BlackstaffTower234">{{Cite book/Blackstaff Tower|234}}</ref> and a girl named [[Kamaulra (Laerel's daughter)|Kamaulra]]<ref name=EGP/> fathered by her consort Chosen Khelben shortly before his death in [[1374 DR]].<ref name="Blackstaff/MMP342-343" /><ref name="BlackstaffTower234" />
+
+During her tenure as Open Lord, Laeral had a challenging relationship with [[Vajra Safahr]], the young and rather insecure 7{{th}} [[Blackstaff]].<ref name="WDH5e-p207" />
+
+[[Clarorna Amaerityl]], a Wizardess of [[Athkatla]], was Laeral's and Elminster's friend but shared no love with [[Alustriel Silverhand]] in the late 15{{th}} century DR.<ref name="tev">{{Cite web/theedverse/2024-06-10 - Clarorna Amaerityl}}</ref>
+
+==History==
+===Early Years===
+[[File:Laeral Crown of Horns.png|thumb|''Laeral Silverhand donning the Crown of Horns.''|459x459px]]
+Laeral was born in the {{YearlinkName|765}}, fifth of the seven daughters of the godess Mystra.<ref name="WDH5e-p207" /> After their mother died, Laeral, [[Dove Falconhand|Dove]], and [[Storm Silverhand|Storm]] were placed into the care of [[Elminster]] until they came of age. When her sisters left the Old Sage, Laeral elected to stay with him as his apprentice. When she had finished her studies, she left to join the [[Harpers]].<ref>{{Cite book/The Seven Sisters|8}}</ref>
+
+Laeral left the Harpers early and, in the {{YearlinkName|806}}, at age 41, she was a self-styled queen, ruling the realm of [[Stornanter]] from [[Port Llast]].<ref name="GHotR-103">{{Cite book/The Grand History of the Realms|103}}</ref> Many later sages believed that Laeral had named herself after this queen, not realizing that it was actually her.<ref name="7S-28" /> It was at this time that Laeral also attempted to rebuild and resettle the ruins of [[Illusk]]. Before she did so, she explored the [[Host Tower of the Arcane]], where she encountered several [[lich]]es who were members of the [[Grand Cabal]], rulers over Illusk from centuries before. She sealed the liches inside the tower with magic before continuing with her other works.<ref name="GHotR-103" />
+
+Barely ten years into her reign, Laeral's court mage, [[Khelben Arunsun|Malek Aldhanek]], with whom she had worked very closely, was apparently assassinated in a plot involving other nobles. Realizing too late that she was in love with Malek, Laeral quit her court and spent twenty five years wandering Stornanter. In truth, Malek was not dead—he'd never even existed—and was actually Khelben Arunsun in disguise. Khelben faked his death to deal with a dire prophecy he had discovered in the works of [[Alaundo]].<ref name="BS-?">{{Cite book/Blackstaff/MMP|?}}</ref>
+
+During this period of wandering, Laeral came into conflict with [[Slarkrethel]] in the {{YearlinkName|834}} and although the great [[kraken]] was driven off, he managed to steal Laeral's [[Soaring Throne of the Witch-Queen|magical throne]], which she had crafted with Malek.<ref name="Dr351">{{Cite dragon/351/Volo's Guide: Lost Regalia of the North: The Toppled Thrones|75}}</ref>
+
+Her activities attracted the attention of her sister [[Syluné Silverhand|Syluné]], who desired to rule over the same region, and the two were drawn (some say manipulated) into spell-battle in the {{YearlinkName|841}}. Having grown up separately, neither recognized the other so, before they destroyed each other, [[Mystra]] felt obliged to manifest herself before the two sisters and explain their heritage, offering them both the mantle of Chosen. They accepted and journeyed together for a time, under the guidance of [[Azuth]].<ref name="TGHotR-105">{{Cite book/The Grand History of the Realms|105}}</ref> 
+
+===Adventuring Years===
+[[File:Laeral Silverhand Arunsun.png|thumb|''Regal Laeral Silverhand Arunsun, the Open Lord of Waterdeep.''|459x459px]]
+Under an assumed name, Laeral eventually established herself as a hard-drinking and fearless adventurer, coming to lead an adventuring band known as [[the Nine]]. In the {{YearlinkName|1337}}, Laeral and the Nine discovered the ancient [[Netherese]] [[artifact]] known as the ''[[Crown of Horns]]'' in [[Yûlash]]. The ''Crown'' was actually planted for her to find by the Netherese [[lich]] [[Aumvor The Undying]], who wished to use the ''Crown'' to influence her to marry him. The plot failed when Laeral donned the headpiece and the ''Crown's'' powers conflicted with Laeral's [[spellfire]] and drove her into madness.<ref name="CoR-p126">{{Cite book/Champions of Ruin|126}}</ref>
+
+Twenty years later, in the {{YearlinkName|1357}}, Khelben Arunsun traveled to the [[Stronghold of the Nine]]  in the [[High Forest]], freed Laerel Silverhand from the ''Crown of Horns'', the malign intelligence contained within' and her madness. Laeral returned with him to Waterdeep for more healing, and after that, they were inseparable. She was referred to as Lady Arunsun,<ref>{{Cite book/City of Splendors: Waterdeep|24}}</ref> though they were never married. The mysterious circumstances surrounding Laeral and Khelben's meeting and subsequent partnership led some to believe that Laeral was enslaved to Khelben against her will. Laeral never denied this, instead preferring to let those who wished Khelben harm seek her out as an ally against him.<ref name="SS-p28-29">{{Cite book/The Seven Sisters|28-29}}</ref>
+
+Laerel soon came to be the caretaker of Blackstaff Tower and Blackstaff Academy, which was founded as apprentices flocked to the Tower to learn from Khelben and herself.<ref name="CoS:W-p24" />
+
+===Return of the Archwizards===
+Laeral played an important role in the series of events known as the [[Return of the Archwizards (event)|Return of the Archwizards]]. In [[Nightal 24]] in the {{YearlinkName|1371}}, Lord [[Gervas Imesfor]] appeared before Blackstaff Tower<ref name="RotA.Sum-p80-81">{{Cite book/Return of the Archwizards/The Summoning|80-81}}</ref> and informed Laeral, Khelben, and Elminster about the threat of the returned [[phaerimm]] from beyond the [[Sharn Wall]].<ref name="RotA.Sum-p98-104">{{Cite book/Return of the Archwizards/The Summoning|98-104}}</ref> During the early skirmishes of the growing conflict, she led a small force against the phaerimm at the [[Battle of Rocnest]] and was forced to retreat to the [[Marsh of Chelimber]].<ref name="RotA.Sum-p246">{{Cite book/Return of the Archwizards/The Summoning|246}}</ref>
+
+In the early months of the {{YearlinkName|1372}}, Laeral and her sister Storm led Waterdhavian forces to Evereska in relief of beleaguered [[Evereska]]. The sisters' forces were ambushed by the phaerimm's army of thralls, but were themselves rescued by the [[blue dragon|blue]] [[dracolich]] [[Malygris]] and his minions, allies of the returned [[Princes of Shade|princes]] of [[Thultanthar]].<ref name="PGtF-p167">{{Cite book/Player's Guide to Faerûn|167}}</ref> Laeral's forces arrived at Evereska not long after the Princes of Shade withdrew from the emerging alliance of the [[Heartlands]]. While Laeral was fortunate enough to reunite with her love Khelben—after being seperated from him for months since Lord Imesfor appeared at Blackstaff Tower—the army was devastated by a secret phaerimm assault and Laeral herself received a grievous injury in the form of a dismembered arm.<ref name="PGtF-p168">{{Cite book/Player's Guide to Faerûn|168}}</ref> 
+
+Not one to be stopped, Laeral joined her lover Khelben, along with sisters Storm, Dove, and Alustriel in a daring mission against Princes of Shade, who collectively posed a threat to the Realms as great as that of the phaerimm.<ref name="PGtF-p168" /> They infiltrated the [[Netherese enclave|flying city]] of Thultanthar and prevented [[Telamont Tanthul]] from reshaping the Heartlands in the form of returned [[Netheril]] by means of the ''[[Karsestone]]''.<ref name="PGtF-p169">{{Cite book/Player's Guide to Faerûn|169}}</ref>
+
+In the {{YearlinkName|1373}},{{LCRB}} a new shadowy organization came to Laeral's attention. This new thieves' guild that called itself [[Shadowhands (guild)|Shadowhands]], was led by a man only known as the "Shadowed Man." It secretly was a [[Tiamat]]-worshiping [[shadow dragon]] that somehow found a way into Waterdeep and staged an attack on the [[Embassy of Ravens Bluff (Waterdeep)|Embassy of Ravens Bluff]]. Under the guise of an ancient beggar woman named Gelda, Laeral spent three days staking the shadows moving in the night around the [[House of Gems]]. Under the same guise, she met a group of adventurers from Ravens Bluff who found themselves opposing the shadow dragon. Laeral informed the adventurers of the organization's activities and set them on a path that eventually ended the life of [[Whisper (shadow dragon)|Whisper]], a shadow dragon prince.<ref name="lcrb">{{Cite organized play/LC/Dragon's Deep|15-16}}</ref>
+
+When Khelben died in the {{YearlinkName|1374}}, Laeral returned from life in the public eye for some time.<ref name="WDH5e-p207" /> For years she and her sister [[Alustriel]] hid among the monks of [[Candlekeep]], in order to prepare the destruction of the library keep's wards so that no one could use them to gain control over the Weave.<ref name="TH-p-138">{{Cite book/The Herald/Hardcover|138|8}}</ref>
+
+===15{{th}} Century===
+In the {{YearlinkName|1487}}, [[Larloch]] foiled Laeral and Alustriel's plans and absorbed the wards of Candlekeep.<ref name="TH-p-238">{{Cite book/The Herald/Hardcover|238|13}}</ref> Shortly thereafter, Laeral, Alustriel, Elminster, and the [[Srinshee]] prevented Larloch's ascension to godhood.<ref name="TH-p-348-350">{{Cite book/The Herald/Hardcover|348-350|19}}</ref> Laeral remained a Chosen of the restored Mystra.<ref name="DM-p?1">{{Cite book/Death Masks|?}}</ref>
+
+After the fall of [[Myth Drannor]], Mystra herself appeared to Laeral. With the end of [[Luruar]], stability was once again needed in the [[Sword Coast North|northern Sword Coast]], and Mystra tasked Laeral with maintaining it by becoming Open Lord of Waterdeep. According to Mystra, her presence would actually restrain abuse of magic for personal gain, and therefore limit the possibility that the general population could turn against wizards, blaming them for eventual disasters, and blindly hunting all [[arcane magic|Art]]-wielders. Following Mystra's request, Laeral returned to Waterdeep, and swiftly managed to gain the support of the Masked Lords of the city, supplanting [[Dagult Neverember]] as Open Lord<ref name="DM-p?2">{{Cite book/Death Masks|?}}</ref><ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide}}</ref>{{Page needed}} ''circa'' the {{YearlinkName|1489}}.{{LaeralOpenLord}}
+
+She served as the representative of her home city during the [[Second Council of Waterdeep]], when the reborn the [[Cult of the Dragon]] threatened much of the [[Western Heartlands]] and Sword Coast North.<ref name="RoT-p14">{{Cite book/The Rise of Tiamat|14}}</ref>
+
+At some point during her Lordship, ''circa'' 1490s DR, Laeral Silverhand acquired a baby [[griffin]] and hired [[Traynov]], an [[animal trainer]], to raise the monster and train it to be a companion and loyal creature. Both baby griffin and its trainer were staying inside Laeral's mansion in Waterdeep.<ref name="tCaT-p4">{{Cite book/To Catch a Thief|4}}</ref> Unfortunately for the Open Lord, Traynov was bribed by the current [[Xanathar]] during that time, [[Zushaxx]], and the monster trainer aided in the griffon's kidnapping.<ref name="tCaT-p105-106">{{Cite book/To Catch a Thief|105-106}}</ref> Laeral Silverhand and her trusted [[City Watch (Waterdeep)|City Watch]] civilar [[Jauslo]] found a [[halfling]] thief not associated with the [[Xanathar's Thieves' Guild]] and recruited him in the dangerous rescue mission to [[Skullport]].<ref name="tCaT-p4" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances=== 
+:{{Appearances|adventures=''[[The Rise of Tiamat]]''; ''[[Waterdeep: Dragon Heist]]''|adventure refs=''[[Hellgate Keep (adventure)]]''|novels=[[The Best of the Realms II]] <small>(''Dark Talons Forbear Thee'')</small> ; [[Realms of Magic]] <small>(''Smoke Powder and Mirrors'')</small> ; [[Shandril's Saga]] <small>(''[[Spellfire]]'')</small> ; [[The Shadow of the Avatar]] <small>(''[[Shadows of Doom]]'' ; ''[[All Shadows Fled]]'' ; ''[[Cloak of Shadows]]'')</small> ; [[Songs & Swords]] <small>(''[[Elfshadow]]'' ; ''[[Elfsong]]'' ; ''[[Silver Shadows]]'' ; ''[[Thornhold (novel)]]'')</small> ; [[Silverfall]] ; [[Evermeet: Island of Elves]] ; [[The Temptation of Elminster]] ; [[Sage of Shadowdale]] <small>(''[[Elminster in Hell]]'')</small> ;  [[The Wizards]] <small>(''[[Blackstaff (novel)]]'')</small> ; [[Lady Penitent]] <small>(''[[Storm of the Dead]]'' ; ''[[Ascendancy of the Last]]'')</small> ; [[The Sundering ]] <small>(''[[The Herald]]'')</small> ; [[Death Masks]] ; [[Return of the Archwizards]] <small>(''[[The Summoning]]'' ; ''[[The Siege]]'' ; ''[[The Sorcerer]]'')</small>|novel refs=|films=|film refs=|comics=|comic refs=|gamebooks=''[[To Catch a Thief]]''|gamebook refs=|video games=''[[Idle Champions of the Forgotten Realms]]'' ; ''[[Warriors of Waterdeep]]''|video game refs=''[[Descent to Undermountain]]''|board games=|board game refs=|card games=|card game refs=|miniatures=''[[AD&D Miniatures]]'' ; ''[[Icons of the Realms]]''|miniature refs=|organized play=''[[Dragon's Deep]]''|organized play refs=}}
+
+===Gallery===
+<gallery widths="300">
+LaeralSilverhand.jpg|''Concept art of Laeral Silverhand by [[Vincent Proce]].''
+Laeral silverhand warriors of waterdeep.jpg|''Laeral Silverhand as she appeared in [[Warriors of Waterdeep]].''
+Laeral Silverhand.png|''Laeral Silverhand miniature.''
+Silverhand gear WoW.jpg|''[[Laeral Silverhand]] enchanting her signature ''[[Silverhand gear]]'' for adventurers fighting to maintain the peace of Waterdeep.''
+Laeral and khelben.png|''Laeral and Khelben''
+</gallery>
+
+===References===
+{{Refs}}
+[[fr:Laeral Maindargent]]
+[[Category:Rangers]]
+[[Category:Sorcerers]]
+[[Category:Wizards]]
+[[Category:Illuskans]]
+[[Category:Humans]]
+[[Category:Worshipers of Mystra]]
+[[Category:The Seven Sisters]]
+[[Category:Members of the Arunsun family]]
+[[Category:Members of the Nine]]
+[[Category:Members of the Harpers]]
+[[Category:Members of the Moonstars]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Rhymanthiin]]
+[[Category:Inhabitants of the High Moor]]
+[[Category:Inhabitants of the Western Heartlands]]
+[[Category:Inhabitants of West Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Members of the Lords' Alliance]]
+[[Category:Members of the Council of Waterdeep]]
+[[Category:Members of Blackstaff Academy]]
+
+=== WIKI PAGE: Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/Neverwinter Campaign Setting|88}}</ref> flair for diplomacy,<ref name="W:DH-p215" /> eloquence, and general preference for straight dealings rather than intrigue<ref name="NCS-p88" /><ref name="FRCG-p198" /> all meant that people considered him easy to like,<ref name="LCoN-p22" /> and he made a point of befriending nearly everyone he met.<ref name="NCS-p88" /><ref name="NCS-p140">{{Cite book/Neverwinter Campaign Setting|140-141}}</ref> [[Laeral Silverhand]], Dagult's successor as Open Lord, once described him as a no-nonsense, energetic, and practical person.<ref name="DM-p26">{{Cite book/Death Masks|26}}</ref>
+
+{{fq
+| text   = The commoners need strong leaders to protect them&mdash;and to do what must be done even when it is distasteful.
+| source = Dagult Neverember, 1489 DR<ref name="RT-p14-15" />
+| float  = 
+| width  = 
+| styles = 
+}}
+While he did have Waterdeep's and Neverwinter's best interests at heart,<ref name="NCS-p88" /><ref name="FRCG-p198" /> he frequently attempted to personally profit from the people's good fortune.<ref name="RT-p14-15" /> In private, Neverember could be disrespectful to his subordinates, although he was always diplomatic in public.<ref name="BST-p221" /> He admired wit and strength in others,<ref name="NCS-p88" /> and he expected and rewarded order and discipline.<ref name="RT-p14-15" /> He was an intelligent and calculating opportunist, and always made a point to outwardly appear disinterested in scandals or rumors while silently cataloguing and assessing the pros and cons of every person or piece of information he encountered.<ref name="NCS-p88" /> Ultimately, he was results-oriented above all else, and was ruthless in his tireless pursuit of his goals.<ref name="RT-p14-15" /> He was not above resorting to crimes like embezzlement<ref name="W:DH-p5">{{Cite book/Waterdeep: Dragon Heist|5-6}}</ref> or assassination to secure his positions,<ref name="NCS-p88" /> although once he had solidified his power in the late 1480s DR, he strove never to engage in outwardly illegal acts (however he was still known to seek out creative or "forgotten" legal justifications when he needed them).<ref name="RT-p14-15" /> He was adept at identifying potential allies, especially those with flexible morals<ref name="LCoN-p23">{{Cite book/Lost Crown of Neverwinter|23}}</ref> or those who were skilled at acting with discretion.<ref name="NCS-p87" />
+
+Neverember was rarely seen without a stiff drink in hand.<ref name="RT-p14-15" /> He enjoyed heavy drinking,<ref name="W:DH-p215" /><ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> especially when it involved conversing with successful male [[adventurer]]s or flirting with successful female adventurers.<ref name="LCoN-p22"/> He was notorious for his shameless and outrageous flirtations with beautiful women.<ref name="SCAG-p51" /><ref name="NCS-p88" /><ref name="DS-ch14">{{Cite book/Downshadow|14}}</ref>
+
+He had a morbid fascination with the effects of the [[Spellplague]],<ref name="NCS-p87">{{Cite book/Neverwinter Campaign Setting|87}}</ref> which included a healthy fear of its dangers.<ref name="BST-ch25">{{Cite book/Blackstaff Tower||25}}</ref> At one point, he outlawed the presence of [[spellscarred]] individuals within Neverwinter.<ref name="NCS-p165">{{Cite book/Neverwinter Campaign Setting|165}}</ref>
+
+Neverember did not back down from a fight,<ref name="CSaS-4">{{Cite book/Cold Steel and Secrets||4}}</ref> and would hurl taunts at his opponents in combat.<ref name="NCS-p88" /> It was said that every Waterdhavian man of a certain age had grown up wanting to train with him.<ref name="Bl-ch12" />
+
+==Possessions==
+[[File:Dagult.jpg|thumb|left|''Lord Neverember looking fine in 1479 DR.'']]
+Neverember wore colorful and extravagant clothes, including vests lined with [[ermine]] fur, [[cloak]]s made of [[velvet]], shirts of [[silk]] from [[Shou Lung]], and high boots of crimson [[Aglarondan]] [[leather]]. As Open Lord of Waterdeep, he wore a heavy medallion to indicate his position,<ref name="BST-ch25" /> and as Lord Protector of Neverwinter, he dressed in blues and golds and would wear gleaming [[Plate mail|plate]]<ref name="DDEK:DC" /> or [[chain mail]] armor. He always wore his [[signet ring]] and he both carried a [[longsword]]<ref name="NCS-p88"/> and kept a [[dagger]] hidden in his sleeve.<ref name="BST-p219">{{Cite book/Blackstaff Tower|219}}</ref> He possessed an undisclosed means to protect himself from [[scrying]], which caused [[magical]] backlash against spellcasters attempting to spy on him.<ref name="DM-ch7">{{Cite book/Death Masks||7}}</ref>
+
+He resided at a [[Neverember House|grand manor]] in Waterdeep (although technically it belonged to his wife)<ref name="BST-ch3">{{Cite book/Blackstaff Tower||3}}</ref> and also owned a "modest" villa in Neverwinter, from where he conducted much of his official business.<ref name="SCAG-p51" /> He maintained a large stash of alcohol, including drugged [[wine]] in case a need for it arose.<ref name="DM-ch30">{{Cite book/Death Masks||30}}</ref>
+
+He owned multiple [[ship]]s, including a prized [[caravel]] called ''[[Neverwinter's Pride]]''.<ref name="ToU-p3,5">{{Cite book/Talon of Umberlee|3,5}}</ref>
+
+In his office at [[Castle Waterdeep]] and at his old headquarters in the [[Hall of Justice]] in Neverwinter, Neverember kept a number of valuable (even priceless) artifacts. Among these were ''[[Ahghairon's Key]]'' (which found and opened any locked door within range) and one of the eleven fragments of the ''[[Staff of Waterdeep]]'' (a fake in his office and the real piece at his manor).<ref name="BST-p224-225">{{Cite book/Blackstaff Tower|224-225}}</ref> He was also in possession of the ''[[Crown of Neverwinter]]''.<ref name="CSaS-4" /><ref name="N">{{Cite game/Neverwinter}}</ref>
+
+==Activities==
+Neverember's goals could be somewhat enigmatic. While he acted in the best interests of his subjects, he always prioritized ways to enrich himself.<ref name="LCoN-p22" /> In his role as Lord Protector of Neverwinter, he worked diligently to repair and rebuild the city, attract new inhabitants, facilitate trade, and ensure security. His ambition was for the city to surpass Waterdeep in grandeur. He was also highly motivated to maintain his grip on power,<ref name="SCAG-p51" /><ref name="NCS-p86" /><ref name="SKT-p101" /> and ensured that even if he lost his political power, he would still retain leverage over Neverwinter's economy.<ref name="NCS-p87" />
+
+While he took his role at Lord Protector of Neverwinter seriously, he had little interest in the day-to-day operations of his government, and delegated these tasks.<ref name="NCS-p87" /> Whenever something went wrong, he was quick to pin the blame on one of his subordinates, and then try to position himself as a champion of the people as he made an example of that subordinate.<ref name="NCS-p140" />
+
+Neverember was noted as a legendarily shrewd negotiator<ref name="NCS-p88" /> and an accomplished orator.<ref name="NCS-p87" /> His primary political strategy for gaining the support of Neverwinter's population was to drum up nationalistic emotions, followed closely by the promise that only he could keep them safe. He was largely successful at ingratiating himself with the populace, but he was keenly aware that any attempt to claim a title more grand than "Lord Protector" would quickly lose him the support of the people,<ref name="NCS-p86" /> who largely saw him as a foreigner until quite late in the 15{{th}} century DR.<ref name="SCAG-p51"/>
+
+==Relationships==
+===Personal===
+Neverember was a member of the noble [[Neverember]] family, and claimed to be a descendant of [[Vers Never]], the supposed bastard son of [[Nasher Alagondar]] and brother to [[Bann Alagondar]], who served as Neverwinter's first kings. In order to cement his relations to the royal line, Neverember paid scribes to find or create books that gave legitimacy to his birthright, and to burn any books that cast doubts on it.<ref name="NCS-p88"/> One such scribe was [[Retrigal Bookbinder]].<ref name="N" /> However, there was enough genealogical data left intact to prove that his claim of lineage was completely fabricated, as discovered by the Neverwintan aristocrat, [[Indrina Lamsensettle]].<ref>{{Cite book/Vecna: Eve of Ruin|27}}</ref> 
+
+The relationship with his son, [[Renaer Neverember|Renaer]], was estranged and complicated,<ref name="BST-p22">{{Cite book/Blackstaff Tower|22}}</ref><ref name="BST-p223">{{Cite book/Blackstaff Tower|223}}</ref> eventually turning into mutual animosity.<ref name="W:DH-p215" /> During his time as Open Lord, it was rumored that he had left Renaer in charge of managing his properties,<ref name="BST-ch2">{{Cite book/Blackstaff Tower||2}}</ref> although his son frequently chafed at his father's wishes and expectations.<ref name="BST-ch1">{{Cite book/Blackstaff Tower||1}}</ref> Even so, Neverember was said to have shown a certain pride in his son's actions and good heart, even calling him a "hero" at one point.<ref name="BST-ch25" />
+
+His wife had been a member of the noble [[Brandarth]] family of Waterdeep. Dagult had married her for her money,<ref name="W:DH-p70">{{Cite book/Waterdeep: Dragon Heist|70}}</ref> but when she passed away, she left everything to Renaer instead, which contributed to Dagult's rocky relationship with his son.<ref name="BST-p22" /><ref name="BST-p223" /> Her will also stipulated that Dagult was not allowed to fire the [[halfling]] servants at his manor,<ref name="BST-ch3" /> whom Dagult vocally disliked for "sneaking" around the house. Most of his abuse was heaped on his halfling butler, [[Madrak]].<ref name="BST-p221" /> As a rule, all of his servants saw him as a terror, and knew that he expected them to do what he wanted before he asked.<ref name="DM-ch2">{{Cite book/Death Masks||2}}</ref>
+
+While Open Lord, Neverember had a lover in [[Kalain]], an eccentric [[half-elf]] painter.<ref name="W:DH-p88">{{Cite book/Waterdeep: Dragon Heist|88-89}}</ref> He had at least one other secret paramour,<ref name="GC-ch16">{{Cite book/The God Catcher||16}}</ref> and also often flirted with and sent valuable gifts to [[Talanna Taenfeather]], although she apparently was not his lover.<ref name="DS-p35">{{Cite book/Downshadow|35}}</ref> Even in old age, he was widely regarded as a desirable bachelor.<ref name="Bl-ch12" />
+
+===Political===
+{{fq
+| text   = You can buy paper crowns on the street in Waterdeep that children like to wear. They try to snatch them from each other and the last one left crowned becomes king or queen for a day. Then it starts all over again. In Neverwinter, the game of crowns is played by older, but not wiser, heads.
+| source = Dagult Neverember, 1478 DR<ref name="CSaS-4" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Prior to his ouster as Open Lord, Neverember was closely allied with [[House Margaster]] of Waterdeep, and was especially close with [[Inkeri Margaster]].<ref name="T-ch10">{{Cite book/Timeless||10}}</ref><ref name="T-ch23">{{Cite book/Timeless||23}}</ref> After his ouster, Neverember despised the [[Nobility of Waterdeep|nobility]] and [[Guilds of Waterdeep|guilds]] of Waterdeep for their perceived betrayal,<ref name="SKT-p101">{{Cite book/Storm King's Thunder|101}}</ref> and deeply resented Laeral Silverhand for taking his position,<ref name="RT-p14-15"/> although this sentiment was not mutual as Laeral appreciated his efforts to restore Waterdeep during his time as Open Lord.<ref name="DM-p305"/> Regardless, Neverember preferred to hire adventurers and [[mercenary|mercenaries]] to protect Neverwinter and train the local troops rather than accept the help of the armies of the [[Lords of Waterdeep]], who had deposed him as Open Lord.<ref name="SCAG-p51"/> Even so, he tried to avoid letting his feelings cloud his judgment whenever he had to fulfill his duties as a member of the Lords' Alliance.<ref name="RT-p14-15"/>
+
+The [[Harpers]] viewed Neverember's ambitions in Neverwinter as tyrannical and imperialistic.<ref name="NCS-p24">{{Cite book/Neverwinter Campaign Setting|24}}</ref> They spied on him, and even acquired letters of debts that he owed.<ref name="ToFaC-p10">{{Cite adventurers league/Tales of Fang and Claw|10}}</ref> They were also involved in organizing resistance against his rule in its early years, including leadership roles with the [[Sons of Alagondar]], a faction explicitly aligned against the Lord Protector and any right of his to rule the city of Neverwinter.<ref name="NCS-p24" /><ref name="NCS-p117">{{Cite book/Neverwinter Campaign Setting|117-119}}</ref> These rebels dubbed him the "Lord Pretender"<ref name="NCS-p140" /> and, perhaps unsurprisingly, Neverember was known to be brutal in his reprisals against the Sons.<ref name="NCS-p117" />
+
+On the other hand, Dagult was known to be a good friend to the [[Emerald Enclave]] and supported the [[wood elves]] of [[Neverwinter Wood]]. Under Dagult, Neverwintans practiced sensible logging practices there.<ref name="HAT-TJN-c10">{{Cite book/Honor Among Thieves: The Junior Novelization|72|10}}</ref><ref name="TDC">{{Cite book/Honor Among Thieves: The Druid's Call|?}}</ref>
+
+Neverember was initially on good terms with the [[Ashmadai]], although this was at least in part because he did not truly understand who they were, [[Asmodeus|who they worshiped]], or the threat that they posed to his regime,<ref name="NCS-p87" /> and he would eventually declare them to be his enemies.<ref name="FotDT-p3">{{Cite book/Forge of the Dawn Titan|3}}</ref> Likewise, he had several dealings with [[Shadovar]] agents, but was generally unaware of their true allegiance or the threat that they posed to Neverwinter. By contrast, he was aware of and opposed to the activities of agents from [[Thay]] in and around Neverwinter,<ref name="NCS-p88" /> although he would subsequently advocate for an alliance with the [[Red Wizards]] when practicality demanded it.<ref name="RT-p22">{{Cite book/The Rise of Tiamat|22}}</ref>
+
+Neverember was a fierce political opponent of [[Luskan]]'s secret leader, [[Jarlaxle]], and was an obstacle to the drow's designs to get Luskan admitted to the Lords' Alliance.<ref name="W:DH-p131">{{Cite book/Waterdeep: Dragon Heist|131}}</ref> He was also on poor terms with King [[Bruenor Battlehammer]] of [[Gauntlgrym]], with both sides regarding the other as greedy and untrustworthy. This rivalry kept Gauntlgrym isolated from potential trade with both Neverwinter and Waterdeep for as long as Neverember ruled both.<ref name="T-ch8" /><ref name="T-epilogue">{{Cite book/Timeless||epilogue}}</ref>
+{{fq
+| text   = There are many ways you can be of service to Neverwinter... and enrich yourself in the process.
+| source = Dagult Neverember<ref name="N" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Neverember's most reliable agents were his mercenary general, [[Sabine]], and his lackey [[Soman Galt]], who served as mayor of Neverwinter during its rebuilding.<ref name="NCS-p140" /> He also had a number of advisors in Neverwinter, including [[Drijm Stoneaxe]], [[Sudbury]], [[Shay Morningstar]], and [[Silwen Wiltfen]].<ref name="N" /> His Master of Trade and personal accountant in Neverwinter was [[Len-jes]].<ref name="LCoN-p19">{{Cite book/Lost Crown of Neverwinter|19}}</ref> He had ties to the [[Zhentarim]] via an advisor named [[Rian Nightshade]], and while he did not advertise this relationship, neither did he see a need to deny it if asked.<ref name="RT-p17">{{Cite book/The Rise of Tiamat|17}}</ref> Additionally, through the exchange of favors, trust, and coin, Neverember had managed to secure a network of faithful loyalists. These included [[Liset Cheldar]], the owner of the [[Moonstone Mask]] in Neverwinter;<ref name="NCS-p143">{{Cite book/Neverwinter Campaign Setting|143}}</ref> [[Harrag]], the proprietor of the [[Beached Leviathan]] in Neverwinter;<ref name="LCoN-p18">{{Cite book/Lost Crown of Neverwinter|18}}</ref><ref name="DungMag193">{{Cite dungeon/193/Tavern Profile:The Beached Leviathan|2}}</ref> [[Agada Vane]], a shopkeeper and spy in Waterdeep;<ref name="HoU-p13">{{Cite book/Halls of Undermountain|13}}</ref> [[Dalakhar]], a dedicated [[rock gnome]] spy;<ref name="W:DH-p5" /> [[Nazra Mrays]], a shrewd socialite and intelligence gatherer in Waterdeep;<ref name="GC-ch16" /> and many Neverwintian politicians who had agreed to support him.<ref name="GoN-p2">{{Cite book/Gates of Neverdeath|2}}</ref> He was not above working with criminals, but he preferred that they at least pretend to be lawful or reformed.<ref name="GC-ch16" /> He was known to reward his best mercenaries and adventurers with large homes in Neverwinter.<ref name="VEoR-p35">{{Cite book/Vecna: Eve of Ruin|35}}</ref>
+
+==History==
+===Early Life===
+Dagult Neverember was born into the noble Neverember family<ref name="NCS-p88"/> in the {{YearlinkName|1429}}.<ref name="LCoN-p22" /> He grew up in Neverwinter, and even from a young age, he began to dream about creating a mercantile empire for himself.<ref name="Ed-Dagult">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://web.archive.org/web/20230126033024/https://twitter.com/TheEdVerse/status/1061787997413236737?s=20|accessdate=2023-01-25}}</ref> At some point he moved to Waterdeep and firmly established himself there, so much so that the people of Neverwinter did not see him as one of their own when he eventually returned.<ref name="NCS-p20">{{Cite book/Neverwinter Campaign Setting|20}}</ref>
+
+From Waterdeep, he achieved his goal of building a mercantile empire,<ref name="NCS-p24">{{Cite book/Neverwinter Campaign Setting|24}}</ref> and became obscenely rich and thus influential.<ref name="NCS-p20" /><ref name="DM-p305">{{Cite book/Death Masks|305}}</ref> At some point, Neverember began to invest heavily in the island of [[Mintarn]], where he founded a ship-building company as well as facilities to train mercenaries. He also bankrolled the [[White Sails]] company, which grew to become the biggest [[Tarnian]] provider of soldiers and ships for hire.<ref name="SCAG-p66" />
+
+In Waterdeep, he married into the noble Brandarth family, adding his wife's broad property holdings and wealth to his own.<ref name="BST-p272">{{Cite book/Blackstaff Tower|272}}</ref> She bore him a son, Renaer, before dying when the boy was still in his youth and leaving everything to him instead of to Dagult.<ref name="BST-p22" /><ref name="BST-p223" />
+
+Neverember became the Open Lord of Waterdeep ''circa'' the {{YearlinkName|1467}}.{{NeveremberOpenLord}} By this time, he had become one of the richest men in the city, and thanks to both his resources and his political acumen, Waterdeep began to thrive after years of neglect.<ref name="DM-p305" /> Not all went smoothly, however. In an unpopular move among the nobility, he instituted a law that allowed for a limited number of Waterdhavian titles to be bought and sold.<ref name="SCAG-p55">{{Cite book/Sword Coast Adventurer's Guide|55}}</ref> He personally organized the sale of many noble titles to potential allies in exchange for the promise that he could rely on their support in the future, while also profiting in the present.<ref name="Ed2">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/1051297943985242112?s=20|accessdate=2019-01-30}}</ref> He also immediately implemented a tax on all residents of the city, requiring them to pay one [[Shard (coin)|shard]] each month when the [[City Guard (Waterdeep)|City Guard]] came knocking.<ref name="W:DH-p169">{{Cite book/Waterdeep: Dragon Heist|169}}</ref> Furthermore, within a year he had lost most of the [[City Navy]] after sending them to hunt [[Northlander]] pirates, and so hired a fleet of Tarnian mercenary ships to replace them (and proceeded to profit from spending Waterdeep's funds to hire companies in which he was an investor).<ref name="SCAG-p66" /><ref name="SCAG-p55" /> 
+
+===Lord Protector of Neverwinter===
+{{fq
+| text   = People of Neverwinter! I am here not as a conqueror but as a protector. The soldiers I bring come to bolster the defenses you have struggled to maintain, and to stop the lawlessness that threatens all you’ve already accomplished. Together, we will do more than rebuild. We will make a New Neverwinter!
+| source = Dagult Neverember<ref name="NCS-p6">{{Cite book/Neverwinter Campaign Setting|6}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+In the {{YearlinkName|1468}}, Neverember turned his attention to the ruined city of Neverwinter,<ref name="NCS-90">{{Cite book/Neverwinter Campaign Setting|90}}</ref><ref name="NCS-p138">{{Cite book/Neverwinter Campaign Setting|138}}</ref>{{NeveremberInNeverwinter}} which had been destroyed when [[Mount Hotenow]] erupted [[1451 DR|about 16 years earlier]].<ref name="N" /><ref name="G-p148">{{Cite book/Gauntlgrym/Paperback|148}}</ref> He started the "[[New Neverwinter]]" movement to rebuild the city, claiming himself to be the "Lord Protector of Neverwinter".<ref name="NCS-p86" /><ref name="NCS-p8">{{Cite book/Neverwinter Campaign Setting|8-9}}</ref> This role was commonly understood to be one of stewardship, with the recognition that he would legally step down if an heir to the Alagondar line of Neverwintian kings came forward to claim their throne.<ref name="SKT-p101" /> However, Neverember aimed to prove that he himself was a descendant of Neverwinter's former kings and thus a rightful king of Neverwinter. To lend credence to his claims, Neverember invested a great deal of his own personal fortune to rebuild the city's infrastructure, buy the interest of merchants, keep the city safe by employing an army of Tarnian mercenaries, and even ensure that Neverwintian refugees had enough food and [[Currency|gold]] in hand.<ref name="NCS-p86" /><ref name="NCS-p24" /> Within a decade, a steady flow of refugees were returning to the city<ref name="LCoN-p5">{{Cite book/Lost Crown of Neverwinter|5}}</ref> and Neverember had turned himself into the linchpin of Neverwinter's stability<ref name="NCS-p89">{{Cite book/Neverwinter Campaign Setting|89}}</ref> by providing Neverwintians with ever-improving security, work, and access to goods.<ref name="NCS-p86" />
+
+Neverember's true intentions were popularly understood to be imperialistic,<ref name="NCS-p10" /> and his efforts to increase the prosperity of the city were in order to gain the favor and love of the Neverwintians so that they would welcome him as their king in the future, thus transforming Neverwinter into the center of his powerful mercantile empire. While he was quite popular with refugees who returned to the city under his watch,<ref name="NCS-p86" /> Neverember's army of Tarnian "peacekeepers" soon aggravated many locals, notably among those who hadn't fled the city following the [[Ruining]].<ref name="DragMag402">{{Cite dragon/402/Character Themes: Neverwinter Redeemers|1-2}}</ref> In addition to his army of mercenaries, Neverember also paid for an army of carpenters, stonemasons, and artisans to rebuild Neverwinter.<ref name="NCS-p138" /><ref name="NCS-p167">{{Cite book/Neverwinter Campaign Setting|167}}</ref> To spur economic growth, he implemented a policy of few regulations on trade and low taxes on imported goods, hoping to attract back former residents as well as merchants from across [[Faerûn]].<ref name="SoN-p3">{{Cite book/Storm over Neverwinter|3}}</ref> This largely succeeded, and as the city grew, he took a keen mercantile interest in the trade and visitors coming and going via the docks.<ref name="NCS-p147">{{Cite book/Neverwinter Campaign Setting|147}}</ref> By the end of the 1470s DR, the docks had been rebuilt fully (at the cost of every tree on the [[Upland Rise]] north of the city)<ref name="CSaS-3">{{Cite book/Cold Steel and Secrets||3}}</ref> and a steep tariff had been imposed on incoming merchant ships.<ref name="NCS-p147" />
+
+Shortly after his arrival in the city, Neverember began prioritizing a fortification known as [[the Wall (Neverwinter)|the Wall]] to keep his New Neverwinter operation safe<ref name="NCS-p143" /> and to protect his base of operations at the Hall of Justice, a former temple to the then-dead [[god]] [[Tyr]], that he had selected largely because of its emotional significance to the people of Neverwinter. To make his occupation of the old temple more palatable to the locals, he initially staffed it with [[priest]]s of [[Torm]] to create the illusion that he was rededicating it to a still-living god.<ref name="NCS-p140" /><ref name="BA-ch9">{{Cite book/Brimstone Angels||9}}</ref> In the {{YearlinkName|1474}}, Neverember announced the completion of his "[[Protector's Enclave]]", a section in the southwest of Neverwinter that he declared to be (mostly) rebuilt and as safe as any other city. While it was more secure than the rest of the ruins&mdash;it was protected by the Wall and was centered on the Hall of Justice&mdash;it was also a veritable police state under the strict control of Neverember and his mercenaries who patrolled the streets, his spies who kept the residents in line, and his tax collectors who kept the operation funded.<ref name="NCS-p138" /> Any defiance or opposition against Neverember's rule was swiftly, and often violently, repressed within the Protector's Enclave.<ref name="NCS-p140" /> This ultimately led to the rise of the Sons of Alagondar, an underground movement associated with the Harpers, who were dedicated to resisting Neverember's reign in Neverwinter, fearing that his imperialistic goals would not aid the people of the city in the long run.<ref name="NCS-p24" /><ref name="NCS-p117" />
+
+At some point, Lord Neverember banned the [[High Sun Games]] that were being held in the city, considering them brutal.<ref name="HaT" /><ref name="HAT-TJN-c5" /><ref name="HAT-TJN-c11" /> For example, in the final Games, one contestant made it to the last round, only to be half-eaten by a [[remorhaz]].<ref name="HaT" /><ref name="HAT-TJN-c5" /><ref group="note">The date of this is unknown; it was when [[Edgin Darvis]] was young.</ref>
+
+{{fq
+| text   = I knew the task of rebuilding the city would not be easily done: For the cataclysm had struck not just the city walls and buildings, but its very heart. And all the wise men from whom I sought advice said Neverwinter was dead, that the restoration I hoped to make was impossible, even with a fortune far greater than all I had. Those were dark, hopeless days, and yet in this crowd before me, I see some of those brave faces from that dark time. 
+| source = Dagult Neverember<ref name="N" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Neverember increasingly began to spend most of his time in Neverwinter, and left much of the day-to-day running of Waterdeep to his trusted lieutenants, including clerks and bureaucrats loyal to him personally and allies among the Lords of Waterdeep.<ref name="NCS-p87"/><ref name="DM-ch23">{{Cite book/Death Masks||13}}</ref> He traveled to Waterdeep only irregularly, meaning his visits were hectic affairs in which he dealt with long-delayed legal and governance decisions as well as a flurry of meetings and events, including speeches, conferences with nobles and merchants, and summary court rulings.<ref name="NCS-p87"/> He was known to handle matters important to the city without communicating with the other Lords of Waterdeep, often using stalling tactics to keep them out of his way.<ref name="DM-ch5">{{Cite book/Death Masks||5}}</ref> Amidst all of this, he still found time for womanizing in Waterdeep, including a year-long torrid romance with Kalain, an artist whom he met when she painted his portrait in the {{YearlinkName|1475}}.<ref name="W:DH-p88" /> When he was busy with his new duties in Waterdeep, he left the day-to-day running of Neverwinter to General Sabine and Mayor Soman Galt.<ref name="NCS-p87"/>
+
+As of the {{YearlinkName|1477}}, news was finally beginning to spread that Neverwinter was rebuilding, and Neverember had put out a call to invite back all who had fled following Mount Hotenow's eruption.<ref name="BA-ch2">{{Cite book/Brimstone Angels||2}}</ref>
+
+===Threats and Rivals===
+In the {{YearlinkName|1478}}, upon returning to Neverwinter from a trip to Waterdeep, Neverember survived an assassination attempt led by his Neverwintian spymaster [[Dhafiyand]], who was secretly a member of the [[Red Wizards of Thay]] and who had acquired the legendary ''Crown of Neverwinter''. Neverember was saved thanks to the efforts of one of his agents, [[Rucas Sarfael]], and the aid of several members of the Sons of Alagondar who sought the ''Crown'' for themselves, but the affair ended with the ''Crown'' in Neverember's possession. It was said that the Lord Protector protested against his mercenary bodyguards' efforts to keep him safe during the attack, wishing to fight his enemies head-on. He also gave a rousing speech to onlookers once his former spymaster lay dead at his feet.<ref name="CSaS-4" />
+
+His focus in Neverwinter at this time was split between fully reclaiming the [[Neverwinter/Blacklake District|Blacklake District]]<ref name="NCS-p147">{{Cite book/Neverwinter Campaign Setting|147}}</ref> and defending the people from both [[Many-Arrows]] [[orc]]s occupying the city's northeast and [[plaguechanged]] horrors&mdash;sent by the [[Abolethic Sovereignty]]&mdash;rising from the [[Neverwinter/Chasm|Chasm]] in the city's southeast.<ref name="NCS-p86"/><ref name="NCS-p87"/> Despite great investment to ensure the city's security, Neverwinter was far from safe.<ref name="NCS-p88"/> Also in 1478 DR, he proclaimed the "[[Protector's Law]]", a controversial decree that any and all spellscarred or plaguechanged individuals were to be expelled from Neverwinter and sent to [[Helm's Hold]].<ref name="NCS-p165" /><ref name="N" /> This was accompanied by Neverember sending mercenaries to help police the town, and he quickly established sufficient political influence that the town could do little except acquiesce to his whims.<ref name="NCS-p167" /> 
+
+[[File:Dagult Neverember-NCSp89.jpg|thumb|left|250px|''Lord Neverember as of 1479 DR.'']]
+By the {{YearlinkName|1479}}, many in Waterdeep felt that Neverember was abusing his power, using the [[City Watch (Waterdeep)|City Watch]] for his personal errands,<ref name="BST-ch1" /> and wielding his influence to waive penalties for his son's reckless escapades.<ref name="BST-ch4">{{Cite book/Blackstaff Tower||4}}</ref> That year, he conspired with [[Khondar Naomal|Khondar "Ten-Rings" Naomal]] to find the ''[[Overlord's Helm]]'' in order to find out the secrets of his fellow Lords of Waterdeep,<ref name="BST-p23">{{Cite book/Blackstaff Tower|23}}</ref> but this relationship disintegrated when the full extent of Khondar's plans to establish [[wizards]] as the rulers of Waterdeep became known.<ref name="BST-ch25" /> Furthermore, his constant focus on Neverwinter caused concern among Waterdhavians, although he assured them that his efforts were meant to bring Neverwinter under Waterdeep's influence.<ref name="DragMag409">{{Cite dragon/409/Character Themes: Citizens of Splendor|5,7}}</ref>
+
+Also in 1479 DR, a self-proclaimed "[[Seldra Tylmarande|Lost Heir]]" of the Alagondar bloodline seemingly wearing the ''Crown of Neverwinter'' made public their claim to the throne of Neverwinter, rallying the support of the Sons of Alagondar and quickly turning public opinion against Neverember and his "tyrannical ambitions" for the city.<ref name="LCoN-p18" /><ref name="LCoN-p13">{{Cite book/Lost Crown of Neverwinter|13}}</ref> For his part, the Lord Protector claimed that he would be happy to hand over the city to a legitimate heir, but openly questioned the Lost Heir's methods, secrecy, and refusal to parlay. Privately, he had no desire to give up the city in which he had invested so much, and so he instructed General Sabine to hire a group of adventurers to track down the so-called heir and discover their true intentions.<ref name="LCoN-p22" /><ref name="LCoN-p23" /> This Lost Heir was ultimately revealed to be a fraud wearing a false ''Crown of Neverwinter''.<ref name="LCoN-p59-59">{{Cite book/Lost Crown of Neverwinter|56-59}}</ref> However, the real ''Crown'' was stolen that same year following the Thayan-led [[Siege of Neverwinter]] when members of the [[Nashers]]&mdash;a splinter faction of the Sons of Alagondar&mdash;plotted to place their leader, [[Arlon Bladeshaper]], on the throne.<ref name="N" />
+
+{{fq
+| text   = As you know, I have taken the beleaguered city of Neverwinter under my wing and sunk a great deal of time, coin, blood, and sweat into its reconstruction...
+| source = Dagult Neverember, 1479 DR<ref name="LCoN-p22" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Even after the ''Crown'' was recovered, Neverember would subsequently fend off yet another pretender to the throne in the wizard [[Gyrion]] and his [[Cloaked Ascendancy]], who also produced a false ''Crown'' and used it to rally the Nashers against him.<ref name="N" /> Neverember would take an increasingly aggressive stance toward tracking down and eliminating any descendants of the Alagondars with stronger claims to the throne than himself.<ref name="SKT-p101" /> In addition, he hired groups of [[Neverwinter's Rangers|volunteer rangers]] and adventurers to take care of other issues relating to the security of Neverwinter and the surrounding region,<ref name="N" /> including slaying [[Mordai Vell]], leader of the Ashmadai,<ref name="FotDT-p3" /> and recovering an artifact known as the ''[[Talon of Umberlee]]'', which was believed to have the power to protect the city against threats from the sea.<ref name="ToU-p3,5" /> He also sent troops to garrison points north of the city, including [[Rothé Valley]] and [[Raven Cliff Beach]].<ref name="N" /><ref name="N:EE">{{Cite game/Neverwinter: Elemental Evil}}</ref>
+
+Eventually, the many threats faced by Neverwinter&mdash;including the Many-Arrows orcs, the Thayans, and the horrors of the Chasm&mdash;were brought under control, leading Neverember to institute public celebrations such as an annual jubilee and the festival of the [[Masquerade of Liars]]. He also celebrated the opening of new trade relations with [[Icewind Dale]] and [[New Sharandar]].<ref name="N" />
+
+In the {{YearlinkName|1486}}, Neverember, along with General Sabine and [[Jelvus Grinch]], met with Bruenor Battlehammer and [[Emerus Warcrown]] in Neverwinter to discuss the reclamation of Gauntlgrym from the [[drow]].<ref name="AM-ch7" /> Neverember had been hiring adventurers to seek out the underground city for over seven years, hoping to rebuild it as his own,<ref name="NCS-p87"/> but the dwarves had brought an army to his doorstep to demand he relinquish any claim to Gauntlgrym's riches. Caught by surprise and left with no leverage, Neverember was merely able to insist that any new dwarven realm's borders would not touch the surface, and thus any trade in or out of Gauntlgrym could be taxed by him.<ref name="AM-ch7" /> Once the dwarves had secured the city, tensions remained high between Gauntlgrym and Neverember.<ref name="T-ch8" />
+
+===Ousted from Waterdeep===
+During his tenure as Open Lord, Neverember took advantage of several opportunities to enrich himself and to further his goals in Neverwinter at Waterdeep's expense. He hired mercenary companies in which he was an investor,<ref name="SCAG-p55" /> used Waterdhavian soldiers and laborers to rebuild the [[High Road]] to Neverwinter (at the expense of Waterdeep's own construction needs),<ref name="DM-ch14">{{Cite book/Death Masks||14}}</ref><ref name="HotDQ-p40">{{Cite book/Hoard of the Dragon Queen|40}}</ref> and&mdash;most egregiously&mdash;embezzled large sums of money. In one scheme, he stole half a million [[Dragon (coin)|dragons]] from Waterdeep's coffers, and to conceal this sum, he made an arrangement with the [[gold dragon]] [[Aurinax]]: in exchange for the ''[[Dragonstaff of Ahghairon]]'', Aurinax would guard the gold until Neverember wanted it back. For secrecy, he then removed the information about the gold's [[Vault of Dragons|secret location]] from his mind, and stored it in an artifact known as the ''[[Stone of Golorr]]''.<ref name="W:DH-p5" /> In the summer of the {{YearlinkName|1487}}, Neverember participated in a separate year-long scheme to launder another million gold pieces&mdash;mostly in [[platinum]]&mdash;out of Waterdeep with the aid of House Margaster: he "purchased" the ruined keep of [[Thornhold]] from the Margasters for a paltry sum of 40,000 [[gold pieces]], and House Margaster arranged to have the million funneled from Waterdeep to Neverwinter under the ruse of [[Clan Stoneshaft]] purchasing the Thornhold deed from Neverember.<ref name="T-ch13">{{Cite book/Timeless||13}}</ref> Following the completion of this scheme in the {{YearlinkName|1488}}, Neverember would also support an invasion of Luskan by the Margasters in exchange for the laundered money.<ref name="T-ch23" /><ref name="Bl-ch12" />
+
+Around the same time, Neverember ordered soldiers to reclaim the ruined town of [[Leilon]] that lay between Neverwinter and Waterdeep on the High Road. Shrewdly, he ensured that all those responsible for rebuilding the town would be loyal to him personally.<ref name="SKT-p96">{{Cite book/Storm King's Thunder|96}}</ref> By spring of 1488 DR, rumblings of the Waterdhavians' frustrations with his rule had already spread far and wide.<ref name="M-ch1">{{Cite book/Maestro/MMP||1}}</ref>
+
+[[File:Tyranny_of_Dragons_1_-_Lord_Neverember.jpg|thumb|left|300px|''Neverember receives bad news in 1489 DR.'']]
+Neverember was increasingly seen as a tyrannical ruler in Waterdeep,<ref name="DM-ch5" /> and ''circa'' the {{YearlinkName|1489}}, he was facing several political scandals. With his resources stretched thin between rebuilding Neverwinter and maintaining influence in Waterdeep, it was at this time that the [[Masked Lord]]s of Waterdeep decided to replace him as Open Lord in favor of Laeral Silverhand.<ref name="SCAG-p51" /><ref name="RT-p14-15" /><ref name="SKT-p101" />{{LaeralOpenLord}} Prior to his ouster, Neverember led the [[Council of Waterdeep]]&mdash;an alliance meant to stand against the rise of the [[Cult of the Dragon]] threatening the [[North]]&mdash;which had further made him not only ruler of Neverwinter and Waterdeep, but leader of the entire Lords' Alliance.<ref name="RT-p14-15" /> Thus, the loss of his status as Open Lord hit him particularly hard as it also cost him his place of leadership on the Council. Even so, he continued to join the meetings and to pledge his and Neverwinter's support for the fight against the Cult, hoping to restore his honor by demonstrating the strength of his leadership.<ref name="RT-p14-15" /><ref name="RT-p20">{{Cite book/The Rise of Tiamat|20-21}}</ref> He remained a voice of pragmatism on the Council, even supporting unsavory tactics such as forming an alliance with the Red Wizards.<ref name="RT-p22" />
+
+The decision to depose Neverember from the Open Lordship occurred while he was in Neverwinter and effectively exiled him from Waterdeep,<ref name="SCAG-p51"/><ref name="W:DH-p5" /> thus severing his connections to his assets in that city, which included the hoard of money he had embezzled and the ''Stone of Golorr'', which had been hidden in the [[Palace of Waterdeep]].<ref name="W:DH-p5" /> Many of his loyal clerks left alongside him, leaving Waterdeep's bureaucracy short-staffed.<ref name="DM-ch23" />
+
+===Refocus on Neverwinter===
+Having been ousted as Open Lord of Waterdeep, Neverember focused all of his efforts in his role of Lord Protector of Neverwinter, continuing to rebuild the city, revive Neverwinter's economy, and secure his grip on power.<ref name="SCAG-p51"/><ref name="SKT-p101" /> Slowly but surely, Neverwinter had begun to return to being a center of civilization on the Sword Coast under his stewardship.<ref name="SCAG-p51"/> However, bitter over his expulsion from Waterdeep, Neverember became more despotic and began to enforce more heavy-handed laws in Neverwinter. Blaming the nobles and guilds of Waterdeep for betraying him, he enacted high taxes and harsh regulations to constrain the Neverwintian nobility and abolish any Neverwintian guilds in an effort to stifle all political competition.<ref name="SKT-p101" /> This soon became a strategy of scapegoating the city's wealthy for all of Neverwinter's ails, a message that he found resonated well with the poorer citizens,<ref name="AI-p119">{{Cite book/Acquisitions Incorporated|119-120}}</ref> but perhaps complicated his efforts to attract wealthy families from Waterdeep to invest and settle in the city.<ref name="SCAG-p51"/> 
+
+The continued demand for construction work to rebuild the city served to funnel more coin into the pockets of poorer residents, earning Neverember greater popularity among them.<ref name="AI-p119" /> At some point, his seemingly bottomless pockets had begun to run dry,<ref name="N" /> perhaps leading to the ever-steeper taxes he imposed on Neverwinter's aristocrats and rich merchants.<ref name="AI-p119" /><ref name="AI-p121">{{Cite book/Acquisitions Incorporated|121}}</ref> He also began the process of training local Neverwintians to form their own army and city watch, known as the [[Wintershield watchmen]],<ref name="SCAG-p145">{{Cite book/Sword Coast Adventurer's Guide|145}}</ref> in order to reduce his reliance on paying Tarnian mercenaries. This also had the benefit of being quite popular with the citizenry, who still resented being policed by foreign soldiers.<ref name="SCAG-p51" /><ref name="Ed-Ww">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://web.archive.org/web/20230131000350/https://twitter.com/TheEdVerse/status/1168297608508522502?s=20|accessdate=2023-01-30}}</ref> Furthermore, he managed to finally coordinate the closing of the Chasm in the heart of the city, and&mdash;in an apparent show of humility&mdash;he moved his office into his private home and gifted the Hall of Justice to followers of Tyr to restore as a temple. These actions made him an even more worthy leader in the eyes of the Neverwintians.<ref name="SCAG-p51" />
+
+{{fq
+| text   = I am more than pleased to offer my services and gold to rebuilding this fine center of culture and trade. Through our combined efforts, Neverwinter will be reborn as a bastion of good in the [[Sword Coast North]]!
+| source = Dagult Neverember, 1479 DR<ref name="NCS-p86" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Due to this commitment and his many accomplishments helping the city and its citizens, the people of Neverwinter finally accepted him as the rightful leader of their city, despite the fact that people from other lands saw him as a tyrant. While he still faced opposition, even many of the Sons of Alagondar eventually began to join him to help replace the ranks of mercenaries.<ref name="SCAG-p51"/> However, he was still not recognized as a king or heir to the throne, and so throughout this period, Neverember continued to seek the death of any other person who claimed to be a descendant of the Alagondar family.<ref name="SKT-p101" /><ref name="RotFm-p14,264">{{Cite book/Icewind Dale: Rime of the Frostmaiden|14,264}}</ref>
+
+In a testament to Neverember's immense influence at this time, his ouster from Waterdeep combined with his draw down of mercenaries from Mintarn led to a crisis on the island nation as much of their reliable income dried up. At the same time, Neverember had stopped contributing to the payment of tribute to the [[red dragon]] [[Hoondarrh]], exposing the island realm to a greater threat from the beast. Needless to say, the Tarnians largely saw this as a betrayal.<ref name="SCAG-p66" />
+
+Resentment and suspicion of the former Open Lord remained rampant in Waterdeep,<ref name="DM-ch2" /> and some believed he intended to start a war to regain control of the city.<ref name="DM-ch24">{{Cite book/Death Masks||24}}</ref> When a number of the Lords of Waterdeep were murdered in the {{YearlinkName|1491}}, Neverember was immediately and unjustly accused of the deeds as people believed he wanted to take revenge on them over his exile. When Laeral asked him about this&mdash;using a [[spell]] to commune with him from Waterdeep and to read his mind in the process&mdash;she learned that Neverember was innocent, and he in turn learned that she wished for friendlier relations with Neverwinter.<ref name="DM-p305"/> Nevertheless, mistrust of Neverember remained high in Waterdeep, and spies were sent to keep an eye on his activities.<ref name="DDEK:SLW">{{Cite book/Dungeons & Dragons Essentials Kit/Storm Lord's Wrath}}</ref>
+
+Around this time, work on resettling Leilon neared completion.<ref name="DDEK:DC" /> Neverember remained the ''de facto'' ruler of the town,<ref name="SKT-p96" /> with Neverwintian soldiers occupying it&mdash;led by Sergeant [[Hazz Yorrum]]&mdash;and rebuilding efforts being overseen by his agents&mdash;notably [[Grizzelda Copperwraught]] and [[Valdi Estapaar]].<ref name="DDEK:SLW" /> Despite this, he still insisted that the settlers pay for the privilege of his troops securing the High Road between Leilon and Neverwinter. Following the [[Battle of Leilon]], in which the townsfolk fended off an assault from two cults dedicated to [[Talos]] and [[Myrkul]], Neverember took a more active role in the area's defense by posting large bounties on Leilon's enemies.<ref name="DDEK:DC" />
+
+In the {{YearlinkName|1492}}, Neverember sent his spies, among them the rock gnome Dalakhar, to Waterdeep to retrieve the ''Stone of Golorr''. None of them succeeded, and the ''Stone'' instead fell into the hands of others. This led to rumors swirling about the extent of Neverember's malfeasance as factions like the Zhentarim and the [[Xanathar's Thieves' Guild]] rushed to claim the stolen money for themselves.<ref name="W:DH-p5"/>{{Waterdeep-time}}
+
+When [[Indrina Lamsensettle]], a noblewoman and actress, assembled genealogical information which proved that Neverember was not legitimately descended from Nasher Alagondar, she feared that he would seek to make her disappear. However, by this time he was confident enough in his position to casually dismiss her claim as lacking evidence.<ref name="VEoR-p27">{{Cite book/Vecna: Eve of Ruin|27}}</ref><ref name="VEoR-p17">{{Cite book/Vecna: Eve of Ruin|17}}</ref>
+
+As of the {{YearlinkName|1496}}, Neverember was known as the man who had brought peace and stability to a mostly rebuilt Neverwinter.<ref name="AI-p119" />{{AI-time}} By then, he held autocratic power over the city, and his focus had turned to restoring [[Castle Never]] to its former glory.<ref name="AI-p121" /> To accomplish this, he had begun imposing new income taxes on merchants and [[:Category:Adventuring companies|adventuring companies]], and would sentence tax evaders to imprisonment and death in "[[the holes]]".<ref name="AI-p119" /><ref name="AI-p121" />
+
+===Illness===
+For all of his power, Lord Neverember suddenly took ill in the late 1490s DR,{{HAT-time}} causing him to slip into a vegetative state. The previously unknown [[Forge Fitzwilliam]] seized upon this opportunity and waged a political campaign for lordship of Neverwinter, describing Neverwinter's leaders as "corrupt and inept" and financing his bid for lordship using his own ill-gotten fortune. He was aided by the wizard [[Sofina]], his top advisor,<ref name="HaT">{{Cite video/Honor Among Thieves}}</ref><ref name="HAT-TJN-c5">{{Cite book/Honor Among Thieves: The Junior Novelization|43-45|5,6}}</ref> whom it was rumored had caused Neverember's sickness with her magic.<ref name="HaT" /><ref name="HAT-TJN-c9">{{Cite book/Honor Among Thieves: The Junior Novelization|62-63|9}}</ref> Once Forge ascended to lordship over Neverwinter, he soon revived the High Sun Games that Dagult had previously banned, much to the excitement of the people.<ref name="HaT" /><ref name="HAT-TJN-c11">{{Cite book/Honor Among Thieves: The Junior Novelization|76|11}}</ref> He also ordered destructive logging of Neverwinter Wood as part of reprisals against the elves and the Emerald Enclave for questioning his legitimacy.<ref name="HaT" /><ref name="HAT-TJN-c10" /><ref name="TDC" />
+
+[[File:DagultTreaty.png|thumb|400px|alt=Dagult handing the signed treaty to the druids of the Enclave.|Lord Neverember passing the signed protection treaty to the druids of the [[Emerald Enclave]].]]
+
+Forge would eventually be revealed as not only a conman scheming to use his position to steal from wealthy marks, but a co-conspirator in a plot by Sofina and [[Szass Tam]] to transform the attendees of the High Sun Games into [[undead]] minions of the Red Wizards of Thay. However, this plot was foiled by a group of thieves-turned-heroes: [[Edgin Darvis]], [[Holga Kilgore]], [[Simon Aumar]], [[Doric]], and Forge's fomer ward [[Kira]]. With the Red Wizard Sofina subdued and her magic negated, Neverember awoke from his coma and once again assumed lordship over the city. His first official act was to award medals of heroism to the five heroes and to pardon Darvis and Kilgore, who were both on the run after breaking out of the [[Revel's End]] prison. His second act was to grant formal protections to the wood elves of Neverwinter Wood and their land as well as to the Emerald Enclave. Meanwhile, the fleeing Forge Fitzwilliam was apprehended by the [[paladin]] [[Xenk Yendar]], and was sent to Revel's End.<ref name="HaT" />
+
+Lord Neverember continued to rule and rebuild Neverwinter as of the {{YearlinkName|1501}}.<ref name="HoF-p73" />
+
+==Appendix==
+===Background===
+In ''[[Dungeons & Dragons: Honor Among Thieves]]'', Lord Neverember is played by actor [https://www.imdb.com/name/nm0189858/?ref_=ttfc_fc_cl_t52 Richard Croxford].
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Lost Crown of Neverwinter]]'';''[[The Rise of Tiamat]]'';''[[Divine Contention]]'';''[[Vecna: Nest of the Eldritch Eye]]'';''[[Vecna: Eve of Ruin]]''
+| adventure refs      = ''[[Gates of Neverdeath]]'';''[[Halls of Undermountain]]'';''[[Storm over Neverwinter]]'';''[[Forge of the Dawn Titan]]'';''[[Talon of Umberlee (adventure)|Talon of Umberlee]]'';''[[Hoard of the Dragon Queen]]'';''[[Princes of the Apocalypse]]'';''[[Storm King's Thunder]]'';''[[Waterdeep: Dragon Heist]]'';''[[The Orrery of the Wanderer]]'';''[[Dragon of Icespire Peak]]'';''[[Storm Lord's Wrath]]'';''[[Sleeping Dragon's Wake]]'';''[[Icewind Dale: Rime of the Frostmaiden]]''
+| novels              = ''[[Waterdeep (series)|Waterdeep series]]''<small> (''[[Blackstaff Tower (novel)|Blackstaff Tower]]'', ''[[Downshadow (novel)|Downshadow]]'', ''[[The God Catcher]]'')</small>;''[[Cold Steel and Secrets]]''<small> (part 4)</small>;''[[Archmage (novel)|Archmage]]'';''[[Death Masks]]'';''[[Timeless]]''
+| novel refs          = ''[[Circle of Skulls (novel)|Circle of Skulls]]'';''[[Brimstone Angels]]'';''[[Maestro]]'';''[[Boundless]]'';''[[Starlight Enclave]]'';''[[Honor Among Thieves: The Junior Novelization]]''
+| films               = ''[[Honor Among Thieves]]''
+| film refs           = 
+| comics              = ''[[Tyranny of Dragons (comic)|Tyranny of Dragons]]''
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Heroes of Neverwinter]]'';''[[Neverwinter (game)|Neverwinter]]'';''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = 
+| organized play      = ''[[Mystery of Deepwater Harbor]]'';''[[Out of Hatred]]'';''[[Gilding a Noble]]''
+| organized play refs = ''[[Tales of Fang and Claw]]''
+}}
+
+===Gallery===
+<gallery>
+Lord Neverember.jpg|Dagult Neverember as he appears in the ''Neverwinter'' video game.
+Lord Neverember idle.png|''Lord Neverember circa late 1490s DR.''
+Richard Croxfrod as Lord Neverember.png|Dagult Neverember awakens from his magic-induced illness.
+Council of Waterdeep.jpg|Dagult Neverember (far left) argues with [[Ulder Ravengard]] at the [[Council of Waterdeep]].
+Neverember bodyguard.png|''One of the Neverember bodyguards.''
+</gallery>
+
+===External Links===
+* [https://web.archive.org/web/20160816192916/http://archive.wizards.com/dnd/files/excerpts/excerpt_20110801.pdf Excerpt from ''Neverwinter Campaign Setting''] focusing on Lord Dagult Neverember (.pdf file)
+* {{NWWiki|Lord Neverember}}
+
+===References===
+{{Refs}}
+[[Category:Humans]]
+[[Category:Fighters]]
+[[Category:Nobles]]
+[[Category:Lords and ladies]]
+[[Category:Rulers]]
+[[Category:Merchants]]
+[[Category:Lords of Waterdeep]]
+[[Category:Members of the Lords' Alliance]]
+[[Category:Members of the Council of Waterdeep]]
+[[Category:Members of the Alagondar family]]
+[[Category:Members of the Neverember family]]
+[[Category:Members of New Neverwinter]]
+[[Category:Inhabitants of the Protector's Enclave]]
+[[Category:Inhabitants of Neverwinter]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+
+=== WIKI PAGE: Piergeiron Paladinson
+
+{{Person
+| image          = LordPiergeiron.jpg
+| caption        = 
+| name           = Piergeiron Paladinson
+| true name      = 
+| alt_spelling   = 
+| titles         = Commander of the watch<br />Warden of the guard<br />Overmaster of the guilds
+| aliases        = Piergeiron the Paladinson
+| nicknames      = The Golden<br />The Thickskull
+| home           = [[Piergeiron's Palace]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]
+| occupation     = Ruler
+| age            = 
+| patron deity   = [[Tyr]]
+| languages      = [[Common]]
+| basicrefs      = <ref name="HoH-p92" /><ref name="CoS.W-p53" /><ref name="DDT2-TP" /><ref name="FRCS2e.RTR-p40"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1379
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Athar]]
+| spouses        = [[Shaleen]], [[Maethiira]]
+| siblings       = 
+| children       = [[Aleena Paladinstar]]
+| familyrefs     = <ref name="CoS.W-p24" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Lawful good]]
+| class1e        = {{Class table|edition=1e|[[Paladin]]|14}}
+| refs1e         = <ref name="FRCS1e-DM-p29">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|29}}</ref>
+| alignment2e    = [[Lawful good]]
+| class2e        = {{class table|edition=2e|[[Paladin]]|14}}
+| refs2e         = <ref name="FRCS2e.RTR-p40">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|40}}</ref>
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Lawful good]]
+| class35        = {{class table|edition=3e|[[Paladin]]|17}}
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Piergeiron Paladinson''' ({{Pronounce|peer|GEER|on|refs=<ref name="FRCS1e-DM-p29" />}}) was the [[Lords of Waterdeep|Open Lord of Waterdeep]] throughout most of the 1300s [[DR]] and leader of the [[Lords' Alliance]].<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref> He lived in [[Piergeiron's Palace]] in [[Waterdeep]].<ref name="CoS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> 
+
+Usually, the identities of the Lords of Waterdeep were concealed from the people, but Piergeiron was one of only four whose identities were known as of his tenure. He followed in the footsteps of his predecessors, Open Lords [[Ahghairon]], [[Baeron]], and [[Lhestyn]].<ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref>
+
+==Description==
+Piergeiron was a tall, muscular, and strikingly handsome man with a firm jaw, and dark eyes.<ref name="CoS.W-p53" /><ref name="HoH-p92">{{Cite book/Hall of Heroes|92}}</ref> His hair was curly slightly greying at the temples, adding to the man's regal aura.<ref name="HoH-p92" />
+
+==Personality==
+Piergeiron did not speak very often, understanding the tact of silence, and when he did, he spoke very slowly weighing his every word. This led to some of those around him nicknaming him "the Thickskull," although never in his presence.<ref name="CoS.W-p53" />
+
+He was aware of the nickname, sometimes even laughing about it. Piergeiron used this misconception of his mental capabilities to his advantage. Having his political enemies underestimate him led to often made slip-ups in the negotiations, giving the Open Lord an upper hand.<ref name="HoH-p93">{{Cite book/Hall of Heroes|93}}</ref>
+
+Piergeiron did not fear battle, he was quite capable of defending himself thanks to years of service prior to his life as a ruler. He preferred diplomacy to battle, but when he was pressed into a physical confrontation he fought with the knowledge he was blessed by his god.<ref name="HoH-p92" />
+
+==Activities==
+[[File:LordsOfWaterdeep.png|thumb|right|250px|Piergeiron the Open Lord of [[Waterdeep]].]]
+
+Every year on [[Ahghairon's Day]], Lord Piergeiron continued the tradition of stopping by a number of inns, taverns, and other establishments in order to offer his good will and best wishes to the Waterdhavian people.<ref name="CoS.W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+
+==Relationships==
+Piergerion's father [[Athar]], "the Shining Knight", was famed for slaying the great [[Red dragon|red wyrm]] [[Kistarianth|Kistarianth the Red]].<ref name="CoS.W-p53" /> 
+
+Piergeiron's first wife, [[Shaleen]], to whom he was married in his youth, died.  Piergeiron's second marriage was to [[Maethiira]], but she died as well in the {{YearlinkName|1344}}, leaving him with one daughter, [[Aleena Paladinstar]], who left Waterdeep to explore the [[Cosmology|planes]].<ref name="CoS.W-p53" /><ref name="CoS.W-p24">{{Cite book/City of Splendors: Waterdeep|24}}</ref> 
+
+Due to his position of power in Waterdeep, being above the guild law, he made a lot of enemies, including the [[Master Mariners' Guild]].<ref name="HoH-p92" /> Due to a number of potential threats, and assassination attempts,<ref name="CoS.W-p15" /> Piegeiron was personally guarded by [[Madeiron Sunderstone]], referred to as the "Champion of Piergeiron."<ref name="CoS.W-p53" /><ref name="CoS.W-p34">{{Cite book/City of Splendors: Waterdeep|34}}</ref>  
+
+Lord Piergeiron maintained strong ties with the royal family of the [[Moonshae Isles]]. He was an attendee at the wedding of [[Alicia Kendrick|Queen Alicia Kendrick]].<ref name="FRCS2e.RTR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|22}}</ref><ref name="NGSF.W-p10">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|10}}</ref>
+
+==Possessions==
+Piergerion's favorite steed was [[Dreadnought (horse)|Dreadnought]].<ref name="DDT1-TA" />
+
+He wore a set of [[full plate]] mail armor, his magical shining ''[[shield]] +1'', decorated with a warhammer and golden scales of [[Tyr]] atop its head. His [[holy avenger]] sword called ''[[Clamorour]]'' inherited from Piergerion's father [[Athar]].<ref name="HoH-p92" />
+
+Another notable [[holy avenger]] sword of his was ''[[Halcyon (sword)|Halcyon]]'', a beautiful blade decorated with filigreed etchings, extremely effective against doppelgangers.<ref name="DDS1-p13">{{Cite book/The Abduction|13}}</ref>
+
+==History==
+Piergeiron was born to [[Athar]], "the Shining Knight, the Arm of Tyr," a famous adventurer, and a paladin whose reputation saw spread throughout the entire Northland. The rumors floated all around the Sword Coast claiming that Athar was once a Lord of Waterdeep, but the truth of the matter was elusive. A lot of people have been saying that Piergeiron was destined for the position of the Lord of Waterdeep himself ever since his childhood.<ref name="HoH-p93" />
+
+Piergeiron believed that he would serve Tyr better not wandering the lands adventuring, but establishing a strong central location. After creating a name for himself with heroic deeds and a career in the [[City Guard (Waterdeep)|City Guard]], he gained great favor with then Open Lord Lhestyn. Lord Lhestyn designated the brave paladin as his successor; upon the former's death in the {{YearlinkName|1314}}, Piergeiron accepted the position of the Open Lord of Waterdeep.<ref name="CoS.W-p11">{{Cite book/City of Splendors: Waterdeep|11}}</ref><ref name="GHotR-p134">{{Cite book/The Grand History of the Realms|134}}</ref>
+
+Even Piergeiron's critics quickly came to understand and appreciate the young Lord's value. He became beloved by the general populace of Waterdeep for his diligence and ethics.<ref name="HoH-p93" />
+
+Piergeiron was severely wounded in the {{YearlinkName|1355}}, when [[Amril Zoar]] of the [[Zoar|exiled noble family]] maliciously attacked the Lords of Waterdeep, killing two others at the same time.<ref name="GHotR-p140">{{Cite book/The Grand History of the Realms|140}}</ref>
+
+{{fq
+| text   = ''"Matters of rulership in the Realms are never simple. If you think they are, there's something you've missed. Look behind you quickly, and if no dagger's coming at you, turn back and look again. Harder."''
+| source = Piergeiron the Paladinson<ref name="EFR-p68">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|68}}</ref>
+| float  = 
+| width  = 250px
+}}
+In the {{YearlinkName|1358}}, during the [[Time of Troubles]], a purported [[avatar]] of [[Selûne]] arrived in Waterdeep. Piergeiron and [[Khelben Arunsun]] covertly watched her arrival at the [[House of the Moon]], while discussing the need for caution.<ref name="ADDc-19">{{Cite comic/DC ADD comic 19|14}}</ref> [[Shar|The avatar]] was later invited to a party at [[Castle Waterdeep]], which was attended by Piergeiron and Khelben. [[Fenn Estelmer]] introduced [[Kyriani]] to Piergeiron, and she shared her concerns. While she spoke more with Khelben, the [[Dark Army of the Night]] crashed the party, seeking to kidnap the avatar. Piergeiron ordered the City Guard to stop them, though the avatar took care of them herself. Afterward, Kyriani confronted the avatar, but they fought a spell-battle, only stopped when Piergeiron intervened, commanding even the goddess to restrain herself. He had the City Guard apprehend Kyriani.<ref name="ADDc-20">{{Cite comic/Dark of the Moon|4-6,11,13,19}}</ref>
+
+Later, a group of [[lawyers (Waterdeep)|lawyers]] approached Lord Piergeiron with an offer. The lawyers promised to streamline the handling of civil disputes as these took up increasing amounts of the [[Lord's Court]]'s time. They pushed Piergeiron for an agreement and he unwisely and hastily agreed, signing a contract between the lawyers and the city. Furthermore, Piergeiron received his own attorney. However, the lawyers were more interested in the letter of the law, while Piergeiron simply made rulings based on their recommendations. Khelben hatched a plan to force the lawyers to renege on their contract and evict them from the city.<ref name="ADDc-23">{{Cite comic/Lawyers!|9-10,23}}</ref>
+
+He was noted as being "well past 50 winters" at the end of the {{YearlinkName|1367}}, but his actual age was unknown.<ref name="CS.CG-p70">{{Cite book/City of Splendors (boxed set)/Campaign Guide|70}}</ref>
+
+In the {{YearlinkName|1369}}, during [[Halaster's Higharvestide]], Piergeiron slew [[Kistarianth|Kistarianth the Red]] upon [[Mount Waterdeep]] when the dragon rose again as a [[dracolich]].<ref name="GHotR-149">{{Cite book/The Grand History of the Realms|149}}</ref> As of a century later, his great feat was celebrated on [[Kythorn 20]] as the Waterdhavian holiday known as [[Dragondown]].<ref name="W.DH-p186">{{Cite book/Waterdeep: Dragon Heist|186}}</ref>
+
+Still holding the seat of the Open Lord of Waterdeep in the {{YearlinkName|1371}},{{DDTS}}, Lord Piergeiron was in the middle of a lavish wedding ceremony to [[Eidola]] of [[Neverwinter]] (who looked a lot like the lord's long-lost love [[Shaleen]]), a descendant of the hero [[Boareskyr]]. The marriage was to bring prosperity to both Waterdeep and the Boareskyr family by establishing a profitable caravan route to [[Kara-Tur]], crossing the [[Boareskyr Bridge]]. In a swirl of conspiracies and murder attempts by ravenous [[doppelgangers]] and treacherous members of the [[Master Mariners' Guild]], the wedding was interrupted by a cloud of ''[[darkness]]'' and a group of summoned [[basal golem]]s who abducted the bride and disappeared with her into the faraway [[Utter East]].<ref name="DDT1-TA">{{Cite book/The Abduction|}}</ref> Following the events of the failed wedding, Piergeiron fell mysteriously ill to his daughter's great distress. [[Aleena Paladinstar]] joined the rescue team assembled by [[Khelben Arunsun]] to rescue both Eidola and Piergeiron himself.<ref name="DDT2-TP">{{Cite book/The Paladins|18}}</ref>
+
+In [[Tarsakh]] of the the {{YearlinkName|1372}}, Piergeiron, seven of his fellow Lords of Waterdeep, along with other heads of state from across the [[Heartlands]] and beyond held council with the [[Shadovar]] [[Princes of Shade|Prince]], [[Aglarel Tanthul]] of [[Thultanthar]], to discuss a potential alliance between the returned [[Netherese enclave|Netherese city]] and their new neighbors. The meeting went poorly, due in part to comments and actions made by Masked Lord [[Brian]], but lines of communication between the parties remained open.<ref name="RotA.Siege-p280-287">{{Cite book/Return of the Archwizards/The Siege|280-287}}</ref> Despite the diplomatic setback, Prince Aglarel directed Shadovar's allies to aid the [[Army of the North]]—led by Waterdeep's own [[Laeral Silverhand]]—in its fight against the phaerimm, a demonstration good will to Piergeiron and the Masked Lords. Once again, Lord Brian insulted the Shadovar prince, an affront that Piergeiron did not condemn, and one that could not be forgiven by Aglarel. The Shadovar subsequently recalled their forces from the battlefield and refocused their efforts against the phaerimm elsewhere.<ref name="RotA.Siege-p348-353">{{Cite book/Return of the Archwizards/The Siege|348-353}}</ref>
+
+Piergeiron was remained as the Open Lord as of the {{YearlinkName|1374}}.<ref name="CoS.W-p11" />
+
+In the {{YearlinkName|1379}} Piergeiron the Paladinson died in office of age and ill health, after several assassination attempts at the hands of those increasingly impatient to replace him with their various stooges.<ref name="EV-#2">{{cite web| url = https://twitter.com/TheEdVerse/status/1201318739339304961| title =TheEdVerse| accessdate = | accessmonthday = | accessyear = | author = [[Ed Greenwood]]| last = | first = | authorlink = | coauthors = | date = Dec 1, 2019| year = }}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Appearances===
+:;Novels
+::''[[Elfsong]]'' • ''[[The Abduction]]'' • ''[[Thornhold (novel)|Thornhold]]'' • ''[[Rising Tide]]'' • ''[[The City of Splendors: A Waterdeep Novel]]'' • ''[[The Paladins]]'' • ''[[The Siege]]''
+::{{Refonly}}
+::<small>''[[Tymora's Luck]]''</small>
+:;Comics
+::''[[Advanced Dungeons & Dragons (comic series)|Advanced Dungeons & Dragons]]'' <small>([[Lawyers!|#23]])</small>
+:;Gamebooks
+::''[[Spawn of Dragonspear]]''
+:;Video Games
+::''[[Dungeons & Dragons: Eye of the Beholder]]'' • ''[[Lords of Waterdeep (mobile game)|Lords of Waterdeep]]'' 
+::{{Refonly}}
+::<small>''[[Eye of the Beholder]]'' • ''[[Descent to Undermountain]]'' • ''[[Neverwinter Nights: Darkness over Daggerford]] • [[Baldur's Gate II: Shadows of Amn]]''</small>
+:;Board Games
+::''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]''
+
+===Gallery===
+<gallery>
+Piergeiron-HL.png|''The shining hero Piergeiron.''
+Piergeiron Paladinson2.jpg|''Piergerion as seen on the cover of the [[Lords of Waterdeep]] board game.''
+Piergeiron holding court.jpg|''Piergeiron holding court in Castle Waterdeep.''
+Lord's Court 2.jpg|''Khelben Arunsun addressing Piergeiron in the [[Lord's Court]].''
+Paladinson.png|''Piergeiron the Paladinson sporting a luscious beard, greeting heroes in the Lord's Court.''
+Piergeiron Paladinson eotb.png|''Piergeiron Paladinson greeting a group of heroes in his palace.''
+</gallery>
+
+===Notes===
+{{notes}}
+===References===
+{{refs}}
+[[FR:Piergeiron Paladinson]]
+[[Category:Paladins]]
+[[Category:Paladins of Tyr]]
+[[Category:Humans]]
+[[Category:Tethyrians]]
+[[Category:Worshipers of Tyr]]
+[[Category:Lords of Waterdeep]]
+[[Category:Members of the City Guard of Waterdeep]]
+[[Category:Members of the Lords' Alliance]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of lawful good alignment]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+

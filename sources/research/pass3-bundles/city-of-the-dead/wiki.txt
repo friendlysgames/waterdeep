@@ -1,0 +1,1536 @@
+=== WIKI PAGE: Waterdeep/City of the Dead
+
+{{Otheruses4|the cemetery in [[Waterdeep]]|other uses|City of the Dead (disambiguation)}}
+{{Location
+| image          = City of the Dead-Julian Kok.jpg
+| caption        = 
+| name           = City of the Dead
+| aliases        = The City<ref>{{Cite book/Volo's Guide to Waterdeep|38}}</ref>
+| type           = 
+| size           = Cemetery / ward
+| area           = [[Waterdeep]],<br /> [[Sword Coast North]]
+| languages      = 
+| races          = 
+| religion       = 
+| alignment      = 
+| established    = [[1248 DR]]
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| histrefs       = <ref>{{Cite book/City System|4}}</ref>
+| usethe         = yes
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| events         = yes
+| food and drink = 
+| items          = yes
+}}
+The '''City of the Dead''' was a large cemetery and ward in [[Waterdeep]]. Most of the city's dead were buried here.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref> By day, it also doubled as the city's major public park picnic area.<ref name="CoS:W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WDDH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref>
+
+==Activities==
+Besides burials and funerals, the City of the Dead was host to a variety of activities among Waterdhavians. These included, but were not limited to:  being an exercise run, a dueling ground, a playground, a highsun dining area, a meeting-moot, a place where courting lovers could meet in private, and a performance venue for [[minstrel]]s (and would-be minstrels).<ref>{{Cite web/Realmslore/Dawntree, Part One: Bold Dreams}}</ref>
+
+At night the City of the Dead was off-limits to the public, yet it was still used by many during those hours for more nefarious activities.<ref name="CoS:W-p102" />
+
+==History==
+The area that would eventually become the site of the City of the Dead was used as a burial site as far back as the days of [[Nimoar's Hold]].<ref>{{Cite adventurers league/Hero of the Troll Wars|5-7}}</ref>
+
+When Waterdeep was much smaller, a cemetery was established on the end of the plateau overlooking the plains east of the city. A low wall was built around the cemetery in [[1064 DR]] first establishing its boundaries north and east of the [[Trades Ward of Waterdeep|Trades Ward]] and south of the [[North Ward of Waterdeep|North Ward]]. Since that time, higher walls were built and gates into the City of the Dead were established which were only opened to the public during the daylight hours.<ref name="CoS-CG-p56-57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|56-57}}</ref>
+
+Space soon became hard to come by in the cemetery itself. Many of those who could not afford to be buried there found themselves interred in an area known as [[Grave Alley]] (later called [[Ilisar’s Alley]]). Their coffins were placed vertically below the cobblestones. This led to issues of the [[undead]] rising from the streets themselves and the practice was soon abandoned.<ref name="VGtW-p165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+
+In order to alleviate the overcrowding, in [[1250 DR]], [[Ahghairon]] and other mages of Waterdeep began to establish ''[[portals]]'' from tombs and mausoleums to uninhabited demiplanes of various types where the dead were laid to rest. Most notable among these wizards, except for Ahghairon himself, was the ''portal'' and ''teleportation'' specialist, [[Anacaster]]. Two of his more well known portals led from [[The House of the Homeless]] and [[Merchants’ Rest]].<ref name="CoS:W-p102" />
+
+Most noble houses, reportedly less than half, did not keep family tombs in the City of the Dead. They instead had crypts below their villas or were buried in family estates outside of Waterdeep.<ref name="CoS-CG-p56-57" />
+ 
+The cemetery suffered extensive damage during the [[Spellplague]].<ref name="BT.p107-8">{{Cite book/Blackstaff Tower|107-8}}</ref>
+
+==Notable Locations==
+[[File:Waterdeep_Wards-City-of-the-Dead_01.gif|thumb|250px|''Map of the City of the Dead''.]]
+===Gates===
+;[[Andamarr Gate]]: One of the public gates.<ref name="City of the Dead-p133">{{Cite book/City of the Dead|133}}</ref>
+;[[Coffinsmarch Gate]]: One of the public gates.<ref name="City of the Dead-p1">{{Cite book/City of the Dead|1}}</ref>
+;[[Dead End Gate]]: The hidden, private gate the Carver family uses to enter in order to conduct burials or perform maintenance on the tombs <ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Mhalsyymber Gate]]: One of the public gates.<ref name="City of the Dead-p173">{{Cite book/City of the Dead|173}}</ref>
+===Crypts, plots, tombs, vaults===
+;[[Deepwinter Vault]]: A tomb near the north end of the City of the Dead. It once housed the noble Deepwinter family, but was also the entry into the [[Dungeon of the Crypt]].<ref name="City of the Dead-p10">{{Cite book/City of the Dead|10}}</ref><ref name="CoS:W-p103" /><ref name="DM127-p62-89">{{Cite dungeon/127/Vampires of Waterdeep: Dungeon of the Crypt|62-89}}</ref>
+;[[Guildbones]]: A dedicated burial space for members of the different [[guilds of Waterdeep]]. Part of the site was made up of a glade which would be dug up from time-to-time to make up space for new dead, while older, forgotten bones were moved elsewhere. Many guildmasters would buy themselves and their families statue-guarded vaults within the forehalls of Guildbones.<ref name="TCoS.AWN-p331">{{Cite book/The City of Splendors: A Waterdeep Novel/MMP||331|19}}</ref>
+;[[Hall of Heroes (tomb)|The Hall of Heroes]]: A tomb with a trophy hall for fallen warriors. A ''portal'' led to an area of rolling grassy fields with row upon row of buried dead.<ref name="CoS:W-p103">{{Cite book/City of Splendors: Waterdeep|103}}</ref><ref name="CoS-CG-p56-57" />
+;[[Hall of the Sages]]: A tomb reserved for [[sage]]s.<ref name="CoS:W-p102" /><ref name="CoS-CG-p56-57" />
+;[[House of the Homeless]]: A mausoleum with a ''portal'' to a seemingly endless crypt.<ref name="CoS:W-p102" /><ref name="CoS-CG-p56-57" />
+;[[Lords' Respite]]: A tomb reserved for those [[Lords of Waterdeep]] who chose to be interred here.<ref name="CoS:W-p102" /><ref name="CoS-CG-p56-57" />
+;[[Markarl Tomb]]: A tomb near the north end<ref name="City of the Dead-p71">{{Cite book/City of the Dead|71}}</ref>
+;[[Mariner's Rest]]: A tomb for those who drowned at sea or sea captains. It contained a ''portal'' to the shores of a placid lake.<ref name="CoS-CG-p56-57" />
+;[[Merchants' Rest]]: Also known as "the Coinscoffer", was a tomb with a ''portal'' leading to a lightly wooded area with burial plaques set into the ground. One could have gotten interred here by prepaying for the honor.<ref name="CoS:W-p102" /> 
+;[[Narfuth crypt]]: A crypt near the north end.<ref name="City of the Dead-p94">{{Cite book/City of the Dead|94}}</ref>
+;[[Roads' End]]: A tomb for travelers who died within Waterdeep.<ref name="CoS:W-p102" /><ref name="CoS-CG-p56-57" />
+;[[Sultlue Vault]]: Secretly held a slumbering noble [[yuan-ti]] sorcerer.<ref name="CoS:W-p103" />
+;[[Vesham Tomb]]: A tomb near the north end.<ref name="City of the Dead-p71">{{Cite book/City of the Dead|71}}</ref>
+
+===Other locations===
+;[[Ahghairon's Statue]]: A marble monument to the first Open Lord.<ref name="CoS:W-p102" /><ref name="CoS-CG-p56-57" />
+;[[Dead End House]]: Not technically in the City of the Dead, but not really a part of another Ward. Home of the Carver family - a family of coffin-builders, stone carvers & performers of other tasks related to the funeral & burial process.<ref name="City of the Dead-p2">{{Cite book/City of the Dead|2}}</ref>
+;[[Guard Tower (City of the Dead)|Guard Tower]]: One of the major torchtowers of Waterdeep's Trollwall.<ref name="CoS-p101,104">{{Cite book/City of Splendors: Waterdeep|101,104}}</ref>
+;[[Thief's Knot]]: A hedge maze constructed to honor a long-dead thieves guildmaster.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Warriors' Monument]]: A sixty-foot tall sculpture and fountain depicting a battle between men and humanoids along with a griffon rider fighting a skeletal ally of [[Myrkul]]<ref name="WDDH-p179" /><ref name="CoS-CG-p56-57" />
+;[[Watchway Tower]]: Another major torchtower of the Trollwall.<ref name="CoS-p101,104" />
+
+==Known Burials==
+*[[Ilyndeira Dyre]], buried within Guildbones.<ref name="TCoS.AWN-p332">{{Cite book/The City of Splendors: A Waterdeep Novel/MMP|332|19}}</ref>
+*[[Sarel|Sarel the Trollscourge]]<ref name="BT.p107-8" />
+
+==Trivia==
+*Saying that someone was "in the City" was a slang phrase used by Waterdhavians to mean that person was dead.<ref name="ESh-p181">{{Cite book/Elfshadow/Paperback 2000|181}}</ref>
+*The City of the Dead was the only area of Waterdeep where the establishment of places to worship was forbidden. This was decreed by the Lords to ensure that no religion could claim areas as sacred and thus charge large fees to be buried there.<ref name="CoS-WW-p61">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|61}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Appearances===
+{{Appearances
+|comics = {{Comapp|Advanced Dungeons & Dragons (comic series)|5|6}}
+|novels = [[City of the Dead (novel)|''City of the Dead'']]
+|gamebooks = ''[[Knight of the Living Dead]]''
+|organized play = ''[[The Mad Mage's Revenge]]'';''[[The Woolmen's Restless Tomb]]'';''[[When the Lights Went Out in Candlekeep]]'';[[Beneath the City of the Dead (module)|''Beneath the City of the Dead'']]
+}}
+
+===Gallery===
+<gallery widths="200">
+TradesWardBoundary.jpg|''Map showing the boundary of the City of the Dead ''circa'' [[1357 DR]].''
+Nimoar's Hold Area - Rough Map.png|''The site of the future City of the Dead in [[940 DR]].''
+</gallery>
+
+===References===
+{{refs}}
+
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Graveyards]]
+[[Category:Wards]]
+[[Category:Locations in Waterdeep| ]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep
+
+{{GA}}
+{{otheruses4|the city|other uses|Waterdeep (disambiguation)}}
+{{redirect|Waterdhavian|the cheese|Waterdhavian cheese}}
+{{Location
+| image              = <gallery>
+Waterdeep symbol 5e.png|5e
+Waterdeep symbol.jpg|3e
+</gallery>
+| caption            = The seal of the City of Splendors
+| name               = Waterdeep
+| alt spelling       = 
+| aliases            = City of Splendors <br />Crown of the North
+| type               = 
+| region             = [[Sword Coast North]],<br /> [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS-pp178-180" /><ref name="CoS.W-p6" /><ref name="BST-pp306-307">{{Cite book/Blackstaff Tower|306-307}}</ref><ref name="FRCG-p84">{{Cite book/Forgotten Realms Campaign Guide|84}}</ref>
+| demonym            = Waterdhavian,<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref><br />Waterdavian<ref name="WDH5e">{{Cite book/Waterdeep: Dragon Heist}}</ref>
+| population         = 
+| races              = {{percentage table|[[Humans]]|64|[[Dwarves]]|10|[[Elves]]|10|[[Halflings]]|5|[[Half-elves]]|5|[[Gnomes]]|3|[[Half-orcs]]|2|Others|1}}
+| languages          = 
+| religion           = [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]]
+| alignment          = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| socrefs            = 
+| imports            = Grain, livestock, leather, ore, timber, and exotic goods from other lands
+| exports            = [[Ale]], arms, cloth, fish, furnishings, leather goods, pottery, refined metals, and all other sorts of finished goods
+| currency           = {{currency table|1pp|1 [[sun (coin)|sun]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sambar (coin)|sambar]]|100 silver [[shard (coin)|shard]]s|1000 copper [[nib]]s}}
+| comrefs            = <ref name="CoS.W-p6" /><ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name="RS2e-p18-19,21">{{Cite book/Realmspace|18-19,21}}</ref>
+| government         = [[Wikipedia:Oligarchy|Oligarchical]] [[city-state]]
+| rulertype          = 
+| ruler              = 
+| head of state      = [[Open Lord]]
+| leader1            = [[Laeral Silverhand]]
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = The [[Lords of Waterdeep]]
+| judiciary          = The [[Magisters of Waterdeep]]
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = [[Ahghairon]]'s coup
+| start date         = [[1032 DR]]
+| event1             = [[Kerrigan]]'s rebellion
+| date1              = [[1246 DR]]
+| event2             = [[Guildwars]]
+| date2              = [[1256 DR|1256]]-[[1262 DR]]
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = [[Nimoar's Hold]]
+| successor          = 
+| population1        = 1,347,680<ref name="FRCS-pp178-180" /><ref group="note">In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,800, though the metropolitan population (i.e., those in the city proper) is only 132,661.</ref>
+| popyear1           = 1372
+| population2        = up to 2,000,000<ref name="tFR.W">{{Cite web/The Forgotten Realms: Waterdeep}}</ref><ref group="note">The estimate most likely refers to the Waterdeep area, instead of just the metropolis. In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,840, though the ''metropolitan population'' is 132,661. This is because Waterdeep commands 40 mile stretches of farmland outside the borders of the city itself, and is counted in the population. Thus, the population in the city proper of Waterdeep is probably about 200,000.</ref> in the 15{{th}} century [[DR]]
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6}}</ref><ref name="FRGC3e-p118">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|118}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Waterdeep''', also known as '''the City of Splendors''' or the '''Crown of the Nor
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Trades Ward
+
+{{Location
+| type          = Ward
+| name          = Trades Ward of Waterdeep
+| image         = Waterdeep_Wards-Trades_Ward_01.gif
+| caption       = 
+| aliases       = 
+| capital       = 
+| area          = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-p105">{{Cite book/Volo's Guide to Waterdeep|105}}</ref><ref name="CoS-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         = 
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+}}
+The '''Trades Ward''' was one of the seven wards of the city of [[Waterdeep]]. It was the main shopping district of Waterdeep and housed many of the city's guildhalls.<ref name="VGtW-p105" /> 
+
+==Geography==
+The ward was bounded in the south by the [[Southern Ward of Waterdeep|Southern Ward]], in the west by [[Castle Ward]], in the north by [[North Ward of Waterdeep|North Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]] and in the east by the [[Trollwall]].<ref name="VGtW-p105" />
+
+==History==
+In the late 14{{th}} century [[DR]], over the course of a [[tenday]] and more, streets across the Trades Ward experienced a number of [[ghost]]ly sightings that left many citizens, scribes, and members of the [[City Watch (Waterdeep)|City Watch]] confused. Some speculated if a [[wizard]] experimenting with [[illusion]]s may have been the cause. Others speculated it was a wizard seeking to harm local businesses, drive down local property values, or simply spread fear&mdash;though all who put forward these theories admitted to having nothing to backup their claims.<ref name="WN.GS" />
+
+Some interpreted the apparitions as being a message &mdash; [[Sambral the Soothsayer]] would claim the dead were warning Waterdhavians of impending battles from underground invaders, [[Sheireera|Sheireera of the Prophecies]] would claim that it was the dead crying out against immorality and lawlessness in Waterdeep, and [[priest]] [[Thalomaun]] of the [[Church of Lathander]] would make a proclamation on [[Virgin's Square]] that it was a sign from the dead for the living of the affected neighborhoods to do away with old businesses and make way for new ones.<ref name="WN.GS">{{Cite web/Waterdeep News/Ghost Sightings}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Guildhalls===
+* [[Citadel of the Arrow]]: Headquarters of the [[Fellowship of Bowyers and Fletchers]].<ref name="VGtW-107" />
+* [[Cobblers' & Corvisers' House]]: Headquarters of the [[Order of Cobblers and Corvisers]].<ref name="VGtW-107" />
+* [[Costumers' Hall]]: Headquarters of the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="VGtW-107" />
+* [[Guild Paddock]]: Headquarters of the [[Stablemasters' & Farriers' Guild]].<ref name="VGtW-107" />
+* [[House of Cleanliness]]: Headquarters of the [[Launderers' Guild]].<ref name="VGtW-107" />
+* [[House of Light]]: Headquarters of the [[Guild of Chandlers and Lamplighters]].<ref name="VGtW-107" /><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+* [[House of Song]]: Headquarters of the [[Council of Musicians, Instrument-Makers, & Choristers]].<ref name="VGtW-107" />
+* [[House of Textiles]]: Headquarters of the [[Most Excellent Order of Weavers and Dyers|Most Excellent Order of Weavers & Dyers]].<ref name="VGtW-107" />
+* [[League Office]]: Headquarters of the [[League of Basketmakers & Wickerworkers]].<ref name="VGtW-107" />
+* [[Old Guildhall]]: Headquarters of the [[Cellarers' & Plumbers' Guild]].<ref name="VGtW-107" />
+* [[Stationers' Hall]]: Headquarters of the [[Stationers' Guild]].<ref name="VGtW-107" />
+* [[The Zoarstar]]: Headquarters of the [[Scriveners', Scribes', & Clerks' Guild]].<ref name="WatN-p25" /><ref name="VGtW-107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+* [[Wheel Hall]]: Headquarters of the [[Wheelwrights' Guild]].<ref name="VGtW-107" />
+
+===Taverns & Inns===
+* The [[Bowels of the Earth]]: Near Virgin's Square. Popular with adventurers and mercenaries.<ref name="WatN-p25" /><ref name="VGtW-108">{{Cite book/Volo's Guide to Waterdeep|108}}</ref><ref name="CoSW-55">{{Cite book/City of Splendors: Waterdeep|55}}</ref>
+* The [[Dagger's Rest]]: An affordable inn catering to adventurers.<ref name="Wate1.1-p4">{{Cite organized play/LFR/Heirloom|4}}</ref>
+*[[Felzoun's Folly]]: A place for a quick bite to eat a
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/North Ward
+
+{{Location
+| image              = Waterdeep_Wards-North_Ward_01.gif
+| caption            = 
+| name               = North Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="VGtW-p81">{{Cite book/Volo's Guide to Waterdeep|81}}</ref><ref name="CoS-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''North Ward''' was the northeastern sector of [[Waterdeep]].<ref name="WatN-p24" /><ref name="CoS-p92" /> It was famous for being the quietest ward of the city, consisting mostly of residential areas.<ref name="VGtW-p81" />
+
+==Geography==
+The North Ward was delimited by the walls of the [[Waterdeep/City of the Dead|City of the Dead]] to the southeast and the [[Trollwall]] to the east and north. Its southern border was at [[Andamaar's Street]] and [[Trader's Way]] up to [[Shield Street]], which marked the western border until [[Vondil Street]]. North of that, the western border was defined by the [[High Road]] the rest of the way to the Trollwall.<ref name="CoS.AG-12">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|12}}</ref>
+
+The architectural style of the North Ward was dominated by rowhouses, which filled the gaps between the villas of lesser [[Nobility of Waterdeep|noble houses]]. The ward also counted with a variety of taverns and shops.<ref name="VGtW-p81" /><ref name="WDH5e-p176">{{Cite book/Waterdeep: Dragon Heist|176}}</ref>
+
+===Geographical Features===
+The most prominent feature of the North Ward was the [[Cliffwatch]], a section of the Waterdeep plateau that was so steep and high that it provided a natural defense, so the area was marked by an interruption of the Trollwall between the [[Endcliff Tower]] and the [[Watchway Tower]] in the City of the Dead. A walkway traversed the entire Cliffwatch, along which some of the best inns and taverns of Waterdeep were located, taking advantage of the beautiful landscape to the east.<ref name="WDH5e-p176" /><ref name="CS-CG2e-p43">{{Cite book/City of Splendors (boxed set)/Campaign Guide|43}}</ref>
+
+==History==
+The North Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/Sea Ward|Sea Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+In [[1368 DR]], the noble [[Cassalanter]] family loaned two ten-million [[Golden lion (coin)|golden lions]] with a huge interest rate. The first loan was to [[Widow Silvermane]] who ran a [[lottery]] in the North Ward, and the second one went to the [[Field of Triumph]] Race Track in the [[Waterdeep/Sea Ward|Sea Ward]]. The astronomical loans were caused by goddess' [[Tymora]]s luck going out of control all over the Realms. Every
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahghairon
+
+{{Person
+| image     =Ahghairon.png 
+| caption   = 
+| name      = Ahghairon
+| aliases   = Ahghairon Belnoth Undrur<ref name="GG-Ahghairon's name">{{Cite archive/Greenwood's Grotto/2023-02-22/Ahghairon's full name}}</ref>
+| home      = [[Waterdeep]]
+| sex            = Male
+| race      = [[Human]]
+| reckoning = DR
+| dob       = 920
+| death     = 1256
+| destroyed = 
+| age       = 
+| ageyear   =
+| class     = [[Wizard]]
+| rules     = 
+| alignment = 
+}}
+'''Ahghairon''' ({{Pronounce|ah|GAIR|awn|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Ahghairon Belnoth Undrur''',<ref name="GG-Ahghairon's name" /> was a [[mage]] from [[the North]]<ref name="CoS.CG-p26">{{Cite book/City of Splendors (boxed set)/Campaign Guide|26}}</ref> and the first [[Lords of Waterdeep#Open Lord|Open Lord]] of [[Waterdeep]]. He created the [[Lords of Waterdeep]], the system by which Waterdeep had been ruled ever since, except for a six-year period immediately following his death.<ref name="CoS.CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref> 
+
+{{Quote|There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.|Ahghairon, ''circa'' [[1032 DR]]<ref name="CoS.CG-p25">{{Cite book/City of Splendors (boxed set)/Campaign Guide|25}}</ref>''}}
+
+==Personality==
+Ahghairon was known by several names during his youth, but went by only his first name during his time in Waterdeep.<ref name="GG-Ahghairon's name" />
+
+==History==
+{{quote|The original splendors of Waterdeep were Ahghairon's secrets, which keep us safe today and always, despite the predations of lesser so-called lords.|[[Agnan Crohal]], ''[[Tales Told Tavernside]]'', [[1268 DR]]<ref name="BS">{{Cite book/Blackstaff Tower||23}}</ref>}}<br/>
+Ahghairon was born on [[Midsummer]]'s Night, in the {{YearlinkName|920}}.<ref name="CoS.CG-p29" /> He was named after his great-grandfather.<ref name="GG-Ahghairon's name" /> Legends say that the symbol of [[Mystra]] was glowing in the sky at the time.<ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+===The Trollwars===
+The [[Trollwars#Second Trollwar|Second Trollwar]] broke out in [[940 DR]],<ref name="CoS.CG-p29" /> as [[troll]]s were pushed down into the area later known as the [[Evermoors|Trollmoors]] by [[orc]] uprisings further north. After a decade of battles, a young Ahghairon distinguished himself, using his magic to turn the war against the trolls.<ref name="CoS.CG-p26" /> First, the Waterdhavian defenders drove the trolls back from their walls. The human realms then united under Ahghairon, War Captain [[Aeroth of Silverymoon]], and [[Samular Caradoon]] of [[Tyr]], and together they eradicated trolls across the Evermoors, with war finally coming to an end in [[952 DR]].<ref name=GHR>{{Cite book/The Grand History of the Realms|113}}</ref>
+
+At some point during the 940's DR, Aghairon was in [[Waterdeep]], at the time called Nimoar's Hold. Fires set to hold of the trolls threatened to destroy a large part of the town, so Aghairon asked adventurers to find and bring him [[Halaster Blackcloak|Halaster]]'s wards to bolster a ritual that would allow him to stop the fires. (More info about this adventure can be found in [[Hero of the Troll Wars]])
+
+A third Trollwar almost took place in [[963 DR]], when the traitors [[Aviss]] and [[Fellandar]] led an army of trolls out of the [[Mere of Dead Men]] against the city. They knew well the city's defenses, and [[Castle Waterdeep]] had only just begun construction. But Ahghairon and a band of [[wizard]]s hurled Aviss and Fellandar into an extra-dimensional prison, thwarting the attack.<ref name="ADDc-33-p16">{{Cite comic/Summer in the City|16}}</ref> <ref group="note">The comic "[[Summer in the City]]" actually refers to "great Aglairon", but by the context it seems clear this is meant to be Ahghairon.</ref>
+
+===Rise to Power===
+At this time, Waterdeep was ruled by the Warlord [[Rhaulor]], who wanted to use the city's power and wealth to create an empire spanning [[northwest Faerûn]]. Ahghairon strongly disagreed with this, and when he voiced his concerns, Rhaulor attacked him. Ahghairon  used his magic to turn Rhaulor's sword into a snake, which bit and poisoned him. Rhaulor died and Ahghairon assumed control of Waterdeep, proclaiming himself the first Open Lord, and establishing a form of government involving Masked Lords, whose identities would remain private.<ref name="CoS.CG-p27" />
+
+===Rule===
+In [[1007 DR]], Ahghairon constructed his [[Ahghairon's Tower|wizard tower]], but positioned it outside the walls of Waterdeep (which since expanded). At the same time, he imposed magical barriers on [[Halaster's Hold]], which prevented the possibility of any dangers escaping into the city. He created a magical axe named ''[
+
+=== LINKED WIKI PAGE (first 5000 chars): Anacaster
+
+{{Person
+| image          = 
+| caption        = 
+| name           = Anacaster
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="WatN-p24"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Anacaster''' was a skilled [[wizard]] inhabiting [[Waterdeep]], the City of Splendors, centuries before the mid-to-late 14{{th}} century [[DR]].<ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref>
+
+==Activities==
+Anacaster was famous for his use of magical ''[[gate]]s'' placed within Waterdeep, specifically within the [[Waterdeep/City of the Dead|City of the Dead]]. One such gate found within the [[Mariners' Rest]] tomb led to a [[plane]] with an infinite number of burial plots that sat next to a placid lake. He left similar ''gates'' within the [[Hall of Heroes (tomb)|Hall of Heroes]], [[Merchants' Rest]], and the [[House of the Homeless]].<ref name="WatN-p24"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Wizards]]
+[[Category:Humans]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): House of the Homeless
+
+{{Building
+| image         = City of the Dead-Trades Ward-Spindle Street.png
+| caption       = A map showing the location of the House of the Homeless (labeled CD2) in the City of the Dead.
+| name          = House of the Homeless
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p102"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''House of the Homeless''' was a large mausoleum located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+The House of the Homeless was located in the western section of the City of the Dead near the entryway.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Description==
+A row of small steps led up to the mausoleum's tall metal gates and one of [[Anacaster]]'s magical portals. The portal led to a endless maze of underground caverns. The [[Guild of Chandlers and Lamplighters]] were paid to light the caverns.<ref name="CoSW-p102"/>
+
+==History==
+The dead of Waterdeep were interred within the House of the Homeless if they died without laying claim, or payment, to any other burial site. Their names, if known at the time of death, were carved into the stone above the hole where their cremated ashes were laid to rest.<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Mausoleums]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Deepwinter Vault
+
+{{Building
+| image         = City of the Dead-North Ward-Sammarin's Street.png
+| caption2      = The Deepwinter Vault (labeled <code>CD10</code>) in the City of the Dead, ''circa'' 1372 DR.
+| name          = Deepwinter Vault
+| aliases       = 
+| type          = Mausoleum
+| architecture  = White [[marble]]
+| floors        = 1
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = [[1129 DR]]
+| destroyed     = 
+| owner         = {{Former}} [[Deepwinter (family)|Deepwinter family]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="Dun127-66">{{Cite dungeon/127/Vampires of Waterdeep: Dungeon of the Crypt|66}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Deepwinter Vault''' was a mausoleum in the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]] that belonged to the defunct noble [[Deepwinter (family)|Deepwinter]] family. It was also one of the entrances to the former lair of [[Artor Morlin]], the [[vampire]] lord of Waterdeep,<ref name="Dun127-66" /> and was the reason his subterranean structure was called the [[Dungeon of the Crypt]].<ref name="CoS-CG-10">{{Cite book/City of Splendors (boxed set)/Campaign Guide|10}}</ref>
+
+==Location==
+The City of the Dead was a sprawling walled cemetery on the eastern edge of [[Waterdeep]].<ref name="WatN-cover">{{Cite book/Waterdeep and the North/Inside cover}}</ref><ref name="CoS-CG-9">{{Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="Dun127-65">{{Cite dungeon/127/Vampires of Waterdeep: Dungeon of the Crypt|65}}</ref> The Deepwinter Vault was located in the northern part of the cemetery near the wall that separated the burial grounds from [[Zendulth Street]],<ref name="CoSW-101,104">{{Cite book/City of Splendors: Waterdeep|101,104}}</ref> set back from the main path by a short walkway.<ref name="Dun127-66" />
+
+==Structure==
+[[File:Dungeon127-Deepwinter Vault-landscape-Lazzaretti.png|thumb|right|270px|''Floorplan of Deepwinter Vault, ''circa'' 1372 DR.'']]
+Deepwinter Vault was approximately {{SI|90|ft|long=yes}} square<ref name="Dun127-65" /> with two large wooden doors bound in iron in the center of the south wall, atop a wide, shallow staircase of five steps. As of the {{YearlinkName|1372}}, the one-story white [[marble]] structure showed signs of age with cracked masonry, [[lichen]] stains, and ivy-covered walls. The ivy hid carvings of landscapes covered in deep snow and the doors had broken locks and stood slightly ajar.<ref name="Dun127-66" />
+
+==Interior==
+The mausoleum was divided into three sections of equal measure: a forechamber, the Deepwinter crypts, and the Hall of the Patriarch.<ref name="Dun127-65" /><ref name="Du127WE-17">{{Cite web enhancement/Dungeon 127 Map and Handout Supplement|17}}</ref>
+
+===Forechamber===
+The double doors led into a grand chamber the full width of the structure and about {{SI|25|ft|long=yes}} deep.<ref name="Dun127-65" /><ref name="Du127WE-17" /> Its walls were filled with stone frescoes that revealed scenes of Deepwinter triumphs interspersed with symbols of the [[church of Auril]]. At any time of the year, the walls were coated with a thin film of ice and minor icicles hung from the ceiling—the remnants of a [[magical]] trap placed on the room in the days when the Deepwinters still thrived—that kept the room temperature at {{SI|32|F}}. Around the perimeter of the room were at least thirty short pillars once used as pedestals for displaying family heirlooms, but by 1372 DR most of them had been vandalized by treasure hunters looking for hidden caches. In the center of the floor was the crest of the Deepwinter family, a snow-capped mountain with a large, stylized snowflake above and to the left of the peak. The only other exit was a narrow door in the center of the north wall.<ref name="Dun127-66" />
+
+===Deepwinter Crypts===
+The middle third of the mausoleum was filled with individual crypts. A {{SIAdj|5|ft|adj=wide}} passage led from the forechamber to the Hall of the Patriarch and {{SI|10|ft|long=yes}} down this corridor were two narrow passages that branched off to the left and right containing the resting places of the Deepwinters.<ref name="Dun127-65" /><ref name="Du127WE-17" /> The tombs were once sealed with stone plaques marking the name of the noble and their death year in [[Marking the years#Northreckoning (NR)|Northreckoning]], but by 1372 DR most of the seals were broken and scattered on the floor along with bones from the ransacked tombs.<ref name="Dun127-66" /><ref name="Dun127-67">{{Cite dungeon/127/Vam
+
+=== LINKED WIKI PAGE (first 5000 chars): Hall of Heroes (tomb)
+
+{{Otheruses4|the tomb|the sourcebook|Hall of Heroes}}
+{{Building
+| image         = CityDeadSouth.png
+| caption       = A map showing the location of the Hall of Heroes (labeled CD8) in the City of the Dead.
+| name          = Hall of Heroes
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p104"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Hall of Heroes''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p104">{{Cite book/City of Splendors: Waterdeep|104}}</ref>
+
+==Location==
+The Hall of Heroes was located in the southern section of the City of the Dead.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Description==
+Blue [[marble]] was used for the tomb's walls. The interior was decorated with trophies of famous fallen [[warrior]]s including the [[sword]] hilt of [[Raurlor]]. One of [[Anacaster]]'s [[magic]]al portals within the tomb lead to a large grassy plane where the dead were interred in rows.<ref name="CoSW-p104"/>
+
+==History==
+The tomb was used to honor those [[fighter]]s and [[warrior]]s of Waterdeep who died in battle.<ref name="CoSW-p104"/>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| gamebooks = ''[[Knight of the Living Dead]]''
+| board games = ''[[Horrified: Dungeons & Dragons]]''
+}}
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Halls]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Hall of the Sages
+
+{{Building
+| image         = CityDeadSouth.png
+| caption       = A map showing the location of the Hall of the Sages (labeled CD7) in the City of the Dead.
+| name          = Hall of the Sages
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p102"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Hall of the Sages''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+The Hall of the Sages was located in the southern section of the City of the Dead.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Description==
+The tomb was small and dusty.<ref name="CoSW-p102"/>
+
+==History==
+As its name implied, the Hall of the Sages was reserved specifically for [[sage]]s. Approximately 80 sages were interred within as of the {{YearlinkName|1372}}. <ref name="CoSW-p102"/>
+
+==Rumors & Legends==
+A rumor persisted that some of the sages were buried with some of their rare and valuable [[tome]]s, making the place an enticing target for [[thieves]]. The rumor was spread by [[Laeral Silverhand]] and some of her allies in order to flush out black market dealers in forbidden lore.<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Halls]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords' Respite
+
+{{Building
+| image         = CityDeadSouth.png
+| caption       = A map showing the location of the Lords' Respite (labeled CD6) in the City of the Dead.
+| name          = Lords' Respite
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p102"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Lords' Respite''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+The Lords' Respite was located in the southern section of the City of the Dead.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Description==
+The small tomb was made from black [[marble]]. Statues of famous [[Open Lord]]s of Waterdeep faced all sides of the tomb with the exception of the western face. A door made from a mysterious material prevented anyone from seeing or passing through the opening.<ref name="CoSW-p102"/>
+
+==History==
+The Lords' Respite was reserved for any Lords of Waterdeep who wished to be buried there, though only a single Lord had been buried here within the past several decades as of the {{YearlinkName|1372}}. The identities of all Lords buried within the tomb remained a secret.<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Mariners' Rest
+
+{{Building
+| image         = CityDeadSouth.png
+| caption       = A map showing the location of Mariners' Rest (labeled CD9) in the City of the Dead.
+| name          = Mariners' Rest
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p104"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Mariners' Rest''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p104">{{Cite book/City of Splendors: Waterdeep|104}}</ref>
+
+==Location==
+Mariners' Rest was located in the far southeast corner of the City of the Dead near a guard watch tower.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==History==
+As its name implied, the tomb was reserved sailors and seamen who prepaid to be interred within.<ref name="CoSW-p104"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Merchants' Rest
+
+{{Building
+| image         = City of the Dead-Trades Ward-Spindle Street.png
+| caption       = A map showing the location of Merchants' Rest (labeled CD4) in the City of the Dead.
+| name          = Merchants' Rest
+| aliases       = The Coinscoffin
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p102"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Merchants' Rest''', which was also known as the '''Coinscoffin''', was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+Merchants' Rest was located in the central section of the City of the Dead near the entryway.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==History==
+Despite its name, Merchants' Rest was reserved for anyone, whether they were a merchant or not, who prepaid to be interred within.<ref name="CoSW-p102"/>
+
+==Rumors & Legends==
+A portal created by [[Anacaster]] was located within the tomb. The portal led to a wooded region with burial plots marked neatly on the ground.<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Roads' End
+
+{{Building
+| image         = CityDeadNorth.png
+| caption       = A map showing Roads' End (labeled CD1) in the City of the Dead.
+| name          = Roads' End
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p102"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Roads' End''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+Roads' End was located in the eastern section of the City of the Dead near the outer wall of the city.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==History==
+The tomb was used as a communal burial site for travelers who perished while visiting the City of Splendors. Any unclaimed possessions of the deceased were interred with their corpses, making Roads' End an appetizing target for [[thieves]].<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Sultlue Vault
+
+{{Building
+| image         = City of the Dead-Trades Ward-Spindle Street.png
+| caption       = A map showing the location of Sultlue Vault (labeled CD14) in the City of the Dead.
+| name          = Sultlue Vault
+| aliases       = 
+| type          = Tomb
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p104"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+'''Sultlue Vault''' was a tomb located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p104">{{Cite book/City of Splendors: Waterdeep|104}}</ref>
+
+==Location==
+Sultlue Vault was located in the western section of the City of the Dead.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Defenses==
+The tomb was heavily warded with [[magic]].<ref name="CoSW-p104"/>
+
+==Inhabitants==
+[[Sylsinssath Sultlue]], a [[yuan-ti pureblood]] and prior member of [[House Eselemas]], slumbered within the tomb which he used as a refuge. He was accompanied by a group of [[tainted one]]s and members of the [[Sultlue]] family visited on a regular basis to attend to his needs.<ref name="CoSW-p104"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tombs]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahghairon's Statue
+
+{{Item
+| image         = City of the Dead-Trades Ward-Spindle Street.png
+| caption       = A map showing the location of Ahghairon's Statue (labeled CD3) in the City of the Dead.
+| name          = Ahghairon's Statue
+| othernames    = 
+| nicknames     = 
+| type          = Statue
+| creator       = 
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| basicrefs     = <ref name="CoSW-p102"/>
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = 
+| attunement5e  = 
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = 
+| communication = 
+| languages     = 
+| alignment     = 
+| sentientrefs  = 
+}}
+'''Ahghairon's Statue''' was a large sculpture located within the [[Waterdeep/City of the Dead|City of the Dead]] in [[Waterdeep]].<ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Location==
+Ahghairon's Statue was located in the central section of the City of the Dead near the entryway.<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+
+==Description==
+Made completely from [[marble]], the tall statue depicted a detailed representation of the bearded [[wizard]] [[Ahghairon]] as an old man in his prime. The smiling statue stood atop a series of concentric steps and faced west toward the entryway into the City of the Dead with hands outstretched. Torches lit the steps at night.<ref name="CoSW-p102"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Statues]]
+[[Category:Items from the City of the Dead]]
+[[Category:Items from Waterdeep]]
+[[Category:Items from the Sword Coast North]]
+[[Category:Items from Northwest Faerûn]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Guard Tower (City of the Dead)
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Guard Tower
+| aliases       = 
+| type          = Sentry tower
+| architecture  = 
+| floors        = 4<ref name="CoS.W-p101,104" />
+| location      = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = Civic
+| staff         = [[City Watch (Waterdeep)|City Watch]]<ref name="edverse" /><ref name="CoS.W-p35" />
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref><ref name="CoS.W-p101,104">{{Cite book/City of Splendors: Waterdeep|101,104}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+This '''guard tower''' was one of the major torchtowers of [[Waterdeep]]'s [[Trollwall]], located in the city's graveyard district, the [[Waterdeep/City of the Dead|City of the Dead]].<ref name="CoS.W-p101,104" /><ref group="note" name="torchtower">Every tower connected to the Trollwall falls under the designation of "torchtower."</ref>
+
+==Location==
+This tower was located on the southeastern corner of the City of the Dead. Outside of the City of the Dead, in the [[Trades Ward of Waterdeep]], its exterior stood along [[Wall Way]].<ref name="CoS-map" /><ref name="CoS.W-p101,104" />
+
+==Structure==
+This tower stood four stories tall.<ref name="CoS.W-p101,104" />
+===Interior===
+Being a torchtower,<ref group="note" name="torchtower" /> this structure had all the interior features that were common among them. This included a debriefing room, a small armory, holding cells, storage rooms for the holding of evidence or confiscated items, some bedchambers, and some garderobes.<ref name="edverse">{{Cite web/theedverse/2021-10-17 - Waterdeep's Torchtowers}}</ref>
+
+==Activities==
+Like all other torchtowers, this structure had three beacon-fires that were constantly kept on standby.<ref name="edverse" />
+
+==Inhabitants==
+Like all torchtowers, this structure was manned by members of the City Watch.<ref name="edverse" /><ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35}}</ref> Four members of the Watch were always stationed inside of the tower, while one was posted outside to watch for any trouble in the nearby alleyways abutting the City of the Dead.<ref name="CoS.CG-p57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|57}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===References===
+{{Refs}}
+[[Category:Towers]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Warriors' Monument
+
+{{Location
+| image              = 
+| caption            = 
+| name               = Warriors' Monument
+| alt spelling       = 
+| aliases            = 
+| type               = Monument
+| region             = [[Waterdeep/City of the Dead|City of the Dead]], [[Waterdeep]]
+| size               = 
+| elevation          = {{SI|60|ft|long=yes}}
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p24" /><ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" />
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+'''Warriors' Monument,'''<ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="CoS.CG-p57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|57}}</ref><ref name="CoS.W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="W.DH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref> also occasionally known as the '''Warriors of Waterdeep''',<ref name="CS-p12">{{Cite book/City System|12}}</ref> was a monument in [[Waterdeep]]'s [[Waterdeep/City of the Dead|City of the Dead]] meant to honor all those who ever fought to defend the city.<ref name="WatN-p24" /><ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" />
+
+==Description==
+Carved of stone and standing roughly {{SI|60|ft|long=yes}} tall,<ref name="WatN-p24" /><ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" /><ref name="KotLD-p12" /> Warriors' Monument was one of the tallest structures in the City of the Dead.<ref name="KotLD-p12">{{Cite book/Knight of the Living Dead|12}}</ref> In addition to being an intricate statue, the monument acted as a fountain, with water gushing out from wounds on its stone figures.<ref name="W.DH-p179" />
+
+It depicted a group of [[warrior]]s in a circular formation,<ref name="WatN-p24" /><ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" /> three men and two women,<ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /> striking down hordes of enemies that were falling backward and outward from their circle. These enemies included [[barbarian]]s, [[hobgoblin]]s, [[orc]]s, [[troll]]s,<ref name="WatN-p24" /><ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" /> and [[bugbear]]s.<ref name="KotLD-p12" /> A later addition to the monument was a warrior riding upon a [[griffin]], high above the other stone figures, and [[spear]]ing<ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /><ref name="W.DH-p179" /> a [[Night rider|skeletal knight]] with a [[breastplate]] bearing the symbol of [[Myrkul]].<ref name="W.DH-p179" />
+
+==History==
+In [[1361 DR]],<ref name="CoS.CG-p57" /> three years following the event known as the [[Time of Troubles]], Warriors' Monument was renovated and magically altered to feature a minion of Myrkul.<ref name="CoS.CG-p57" /><ref name="CoS.W-p102" /> This addition was meant to commemorate those who perished fighting against the death god's invasion of Waterdeep.<ref name="CoS.CG-p57" />
+
+==Appendix==
+===Appearances===
+:;Gamebooks
+::''[[Knight of the Living Dead]]''
+===References===
+{{Refs}}
+[[Category:Statues]]
+[[Category:Landmarks]]
+[[Category:Locations in the City of the Dead]]
+[[Category:Locations in Waterde
+
+=== LINKED WIKI PAGE (first 5000 chars): Myrkul
+
+{{Deity
+| image               = <gallery>
+Myrkul bg3.jpg|BG3
+Myrkul, Lord of Bones CLB.jpg|CLB
+</gallery>
+| caption             = Myrkul, Lord of Bones
+| name                = Myrkul
+| title               = Crown Prince of Murghôm<ref name="DunMag.170-p.80" /><br/> Lord of Bones<ref name="HoF-p116" /><ref name="Dec" /><br/> Old Lord Skull<ref name="HoF-p116" /><ref name="Dec" /><br/> The Reaper<ref name="HoF-p116" /><ref name="SCAG5e-p35" /><br /> The Deathless Lord of Death<ref name="Dec">{{Cite game/Descent to Undermountain}}</ref><br /><small>'''Formerly:'''</small><br /> Lord of the Dead<ref name="Dec" /><br />
+| adjective           = Myrkulyte<ref name="FA-p127">{{Cite book/Faiths & Avatars|127}}</ref>
+| symbol              = 
+| aspects             = N'asr ([[Bedine]])<ref name="F&A-p124"/>
+| power               = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| serves              = 
+| servedby            = 
+| minions             = 
+| gender              = Masculine
+| died                = [[1358 DR]]<ref name="LEoF3e-p142">{{Cite book/Lost Empires of Faerûn|142}}</ref> <br/> (later restored after the Second Sundering)
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = Evil [[mage]]s and cultists, [[necromancer]]s, undertakers,<ref name="SCAG5e-p35"/> and powerful [[undead]]<ref name="F&A-p125"/>
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| race                = [[Human]]
+| sex                 = Male
+| mortalhomes         = [[Murghôm]], [[East Faerûn]]
+| apotheosis          = 
+| alignment           = 
+| class               = [[Necromancer]]
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Hades]] ([[Oinos]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Death, decay, old age, exhaustion, dusk, autumn
+| domains5eR          = 
+| worshipers5eR       = [[Necromancer]]s, [[undead]], undertakers, morticians
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,116">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,116}}</ref>
+| power5e             = [[Quasi-deity]]<ref name="dia-p231">{{Cite book/Baldur's Gate: Descent into Avernus|231}}</ref>
+| alignment5e         = [[Neutral evil]]
+| symbol5e            = White human skull<ref name="SCAG5e-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref>
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = [[Kelemvor]]
+| servedby5e          = 
+| portfolio5e         = Death, decay, old age, exhaustion, dusk, autumn
+| domains5e           = [[Death domain|Death]]
+| worshipers5e        = Undertakers
+| channel divinity5e  = ''[[Touch of death]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p35">{{Cite book/Sword Coast Adventurer's Guide|35}}</ref><ref name="PHB5e-p294">{{Cite book/Player's Handbook 5th edition|294}}</ref><ref name="DMG5e-p96-97">{{Cite book/Dungeon Master's Guide 5th edition|96-97}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Dead power]]
+| alignment3e         = [[Neutral evil]]
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Corruption, the dead, death, old age
+| domains3e           = [[Death domain|Death]], [[Evil domain|Evil]], [[Suffering domain|Suffering]], [[Undeath domain|Undeath]]
+| worshipers3e        = 
+| cleric alignments3e = {{Alignment grid | off | off | off | off | off | off | on | on | on }}
+| favored weapon3e    = [[Scythe]]
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="LEoF3e-p41">{{Cite book/Lost Empires of Faerûn|41}}</ref>
+| power2e             = [[Dead power]]<br/><small>Formerly:</small> [[Greater deity]]
+| alignment2e         = [[Neutral evil]]
+| symbol2e            = 
+| homeplane2e         = [[Hades]]/[[Oinos]]
+| realm2e             = [[Bone Castle]]
+| serves2e            = 
+| servedby2e          = [[Jergal]]
+| portfolio2e         = The dead, decay, wasting, corruption, parasites, old age, exhaustion, dusk, autumn
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = [[Feast of the Moon|Day the Dead are Most With Us]]
+| c
+

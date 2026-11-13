@@ -1,0 +1,2126 @@
+=== WIKI PAGE: Vault of Dragons
+
+{{Otheruses4|the location|the board game|Vault of Dragons (game)}}
+{{Building
+| image         = Vaultdragons.jpg
+| caption       = The front gate of the Vault of Dragons.
+| name          = Vault of Dragons
+| aliases       = 
+| type          = Vault
+| architecture  = 
+| floors        = 3
+| location      = [[Waterdeep]], [[Sword Coast North]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="W:DH-p94" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Vault of Dragons''' was a hidden underground location in [[Waterdeep]] built long ago by [[dwarves]].<ref name="W:DH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> As of the late 15{{th}} century [[DR]], the Vault could only be accessed using the ''[[Stone of Golorr]]'', which revealed its location as well as the keys needed to enter.<ref name="W:DH-p94">{{Cite book/Waterdeep: Dragon Heist|94}}</ref><ref name="W:DH-p5" />
+
+==Location==
+The exact location of the Vault of Dragons was unknown.<ref group="note">Per the ''[[Waterdeep: Dragon Heist]]'' adventure, the Vault of Dragons has four potential [[canon]] locations, with a fifth location given in ''[[Idle Champions of the Forgotten Realms]]''.</ref> It was said perhaps to be in the [[Castle Ward]] beneath the [[Pink Flumph]] theater,<ref name="W:DH-p58">{{Cite book/Waterdeep: Dragon Heist|58}}</ref><ref name="W:DH-p62">{{Cite book/Waterdeep: Dragon Heist|62}}</ref> in the [[Sea Ward]] under either an old tower owned by [[Esvele Rosznar]] or a [[windmill]] in which the artist [[Kalain]] lived,<ref name="W:DH-p60">{{Cite book/Waterdeep: Dragon Heist|60}}</ref> in the [[City of the Dead]] below the [[Brandath|Brandath family]] mausoleum,<ref name="W:DH-p61">{{Cite book/Waterdeep: Dragon Heist|61}}</ref><ref name="W:DH-p70">{{Cite book/Waterdeep: Dragon Heist|70}}</ref> or in the [[North Ward]] beneath a villa.<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+
+==Structure==
+The Vault was located underground with walls of [[mortar]]ed stone and doors made of solid stone slabs with stone handles and hinges. The only entrance was a {{SIAdj|20|foot|long=yes|adj=high}} corridor ending at a massive gate of solid [[adamantine]] inscribed with [[Dwarvish]] [[rune]]s that read "THE THREE KEYS. BRING THEM FORTH". This gate had no obvious handles or hinges, and opened by sliding into the wall only when three specific keys were brought near it.<ref name="W:DH-p94" />
+
+==Interior==
+Immediately inside the gates of the Vault was a tall foyer extending north with no sources of light. It featured three {{SIAdj|60|foot|long=yes|adj=tall}} columns supporting three crumbling bridges far overhead. The ground floor had with twelve [[iron]] doors embossed with images of dwarf warriors flanking the room. Of these doors, only the two in the far northeast corner of the room were real, with the other ten being immovable distractions. Behind the real doors was a chamber containing a {{SIAdj|20|foot|long=yes}} magical [[fresco]] of a battle between dwarves and [[goblin]]s that could [[charm]] any creatures who viewed it, causing them to gaze upon it until they collapsed from exhaustion.<ref name="W:DH-p94" /><ref name="W:DH-p95">{{Cite book/Waterdeep: Dragon Heist|95}}</ref> Across from this fresco was an expertly-carved staircase leading up {{SI|70|feet|long=yes}} to a long, {{SIAdj|20|foot|long=yes|adj=high}} corridor known as the Hall of [[Moradin]], from which the bridges above the foyer could be accessed via three archways along the eastern wall. This hall contained three pillars resembling upside-down [[warhammer]]s, and the western wall was adorned with an aged [[mosaic]] of a dwarven [[blacksmith]] crafting dwarves out of metal and [[diamond]]s. This mosaic concealed a secret door leading to a dust-filled room containing [[copper]] urns filled with [[coin]]s, [[gem]]s, and other treasures.<ref name="W:DH-p95" /><ref name="W:DH-p96">{{Cite book/Waterdeep: Dragon Heist|96}}</ref>
+
+Each of the three treacherous bridges ended in an adamantine door behind which was a small stone chamber dedicated to a different member of the [[Dwarven pantheon]]:
+* The northernmost of these chambers featured a {{SIAdj|10|foot|long=yes|adj=tall}} statue of [[Gorm Gulthyn]], the armored dwarf [[god]] of vigilance sometimes called "Old Fire Eyes". At its feet was a false trapdoor, and touching it triggered a [[trap]] of fire bursting from the statue's eyes.<ref name="W:DH-p96" />
+* The southernmost chamber could only be accessed by a dwarf, and contained frescoes of dwarven [[smith]]s and an iron [[anvil]]. Upon the anvil was an inscription reading, "Let the hammer fall and the anvil ring", while hidden within the fresco was a stone [[hammer]] inscribed with "Let hearts be lifted and battles won". If the anvil was struck with the hammer, all those who heard the sound were gifted with enhanced vitality for a day.<ref name="W:DH-p96" />
+* The middle chamber contained four suits of dwarven [[plate mail]], an adamantine trapdoor in the center of the room, and a dwarven inscription reading, "A secret never before told will part [[Dumathoin]]'s lips". The trapdoor opened if a secret was spoken aloud within the room, revealing a spiral staircase that descended {{SI|120|feet|long=yes}} into the main vault.<ref name="W:DH-p96" />
+
+Despite being so far underground, the main vault was illuminated by streams of sunlight from the ceiling. Ten large alcoves were located along the outer walls and twelve ornate columns supported the {{SIAdj|30|foot|long=yes|adj=high}} vaulted ceiling, which was decorated with carvings of dwarves being blessed by their gods.<ref name="W:DH-p94" /><ref name="W:DH-p96" />
+
+==Defenses==
+The only entrance was sealed by the adamantine front gate, which could only be opened (from either the outside or inside) by bringing three nontraditional "keys" within {{SI|5|feet|long=yes}} of it.<ref name="W:DH-p94" /> The exact nature of these "keys" was unknown, but they could be anything from a special object to a type of creature to a song.<ref name="W:DH-p90">{{Cite book/Waterdeep: Dragon Heist|90}}</ref> The gate could only be closed by uttering a [[command word]] ("azaam").<ref name="W:DH-p94" />
+
+In addition to the gate, the Vault was was magically protected to prevent any form of communication, [[scry]]ing, or [[teleport]]ation into it. The properties of the ''Stone of Golorr'' also contributed to the Vault's defenses, making it exceedingly difficult to not only find and access the Vault but even to remember information about it without the ''Stone''.<ref name="W:DH-p94" />
+
+==History==
+[[File:Vault of dragons-5e.jpg|thumb|350px|Aurinax defends the Vault of Dragons.]]
+As of the late 15{{th}} century DR, the Vault was very old and had fallen into disrepair.<ref name="W:DH-p94" /><ref name="W:DH-p5" />
+
+During [[Dagult Neverember]]'s tenure as [[Open Lord]] of Waterdeep, he embezzled half a million gold pieces from the city&mdash;known as "[[Currency#Waterdeep|dragons]]" within Waterdeep&mdash;and concealed the sum within the main vault of the Vault of Dragons. He then recruited the [[gold dragon]] [[Aurinax]] to protect the Vault, who agreed to allow only Neverember or his agents near the treasure in exchanged for the ''[[dragonstaff of Ahghairon]]''. Aurinax adopted the guise of an old dwarf named [[Barok Clanghammer]], and began his vigil within the Vault.<ref name="W:DH-p96" /> To further protect his treasure, Neverember hired a [[wizard]] to erase the memories of the Vault's location and means of access from both his own mind and the minds of his subordinates, and caused this information to become trapped within the ''Stone of Golorr''. Neveremver then concealed the ''Stone'' in the [[Palace of Waterdeep]] and caused the wizard to disappear.<ref name="W:DH-p5" />
+
+When Neverember was ousted from his position as Open Lord ''circa'' {{Yearlink|1489}},{{LaeralOpenLord}} he was cutoff from the ''Stone of Golorr''&mdash;which came into the possession of [[Xanathar]]&mdash;and thus became unable to access his ill-gotten gold.<ref name="W:DH-p5" /> During the {{YearlinkName|1492}},{{Waterdeep-time}} he dispatched a spy named [[Dalakhar]] to steal the ''Stone'' and to retrieve his treasure.<ref name="W:DH-p5" /><ref name="W:DH-p43">{{Cite book/Waterdeep: Dragon Heist|43}}</ref> However, by this time the public had come to learn about his embezzled money, and a hunt had begun to find his wealth<ref name="W:DH-p6">{{Cite book/Waterdeep: Dragon Heist|6-7}}</ref> involving everyone from individuals treasure hunters&mdash;such as the [[thief]] [[Braya]]<ref name="D+23">{{Cite dragon+/23/Fiction: Raven's Reckoning}}</ref>&mdash;to major factions including the [[Cult of the Dragon]],<ref name="IC" /> the [[Lords' Alliance]], the [[Harpers]], [[Force Grey]], the [[Emerald Enclave]], and the [[Order of the Gauntlet]],<ref name="W:DH-p97">{{Cite book/Waterdeep: Dragon Heist|97}}</ref> but most notably the [[Zhentarim]], the [[Xanathar's Thieves' Guild]], the [[Cassalanter]] family, and [[Bregan D'aerthe]].<ref name="W:DH-p6" /> While Dalakhar succeeded in acquiring the ''Stone of Golorr'', he would subsequently be killed by a ''[[fireball]]'' in Waterdeep's [[Trollskull Alley]], and the ''Stone'' would fall into the hands of a Zhentarim agent named [[Urstul Floxin]] who took it to the [[Gralhund Villa]].<ref name="W:DH-p43" /> This would lead to an event that would come to be called the "[[Gralhund Villa Bloodbath]]".<ref name="W:DH-p56">{{Cite book/Waterdeep: Dragon Heist|56}}</ref>
+
+==Inhabitants==
+The Vault had been long abandoned by the time that Dagult Neverember made use of it in the 15{{th}} century DR.<ref name="W:DH-p5" /> By 1492 DR, in addition to Aurinax, the Vault was the home of a single [[black pudding]] that laired in the Hall of Moradin.<ref name="W:DH-p95" /> 
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          =  ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = ''[[Dragon+]]'' [[Dragon+ 20|Issue #20]]: "[[Dragon+ 20/Fiction: Secrets of the Deep|Fiction: Secrets of the Deep]]";''Dragon+'' [[Dragon+ 23|Issue #23]]: "[[Dragon+ 23/Fiction: Raven's Reckoning|Fiction: Raven's Reckoning]]"
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]'';''[[Warriors of Waterdeep]]''
+| video game refs     = 
+| board games         = ''[[Vault of Dragons (game)|Vault of Dragons]]''
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = ''[[Once in Waterdeep]]''
+}}
+===Gallery===
+<gallery>
+Vault of dragons WoW.png|The Vault of Dragons PvP arena in ''[[Warriors of Waterdeep]]''.
+</gallery>
+===References===
+{{Refs}}
+[[Category:Vaults]]
+[[Category:Dungeons]]
+[[Category:Dwarven locations]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations on the Sword Coast]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Metropolises]]
+
+=== WIKI PAGE: Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/Neverwinter Campaign Setting|88}}</ref> flair for diplomacy,<ref name="W:DH-p215" /> eloquence, and general preference for straight dealings rather than intrigue<ref name="NCS-p88" /><ref name="FRCG-p198" /> all meant that people considered him easy to like,<ref name="LCoN-p22" /> and he made a point of befriending nearly everyone he met.<ref name="NCS-p88" /><ref name="NCS-p140">{{Cite book/Neverwinter Campaign Setting|140-141}}</ref> [[Laeral Silverhand]], Dagult's successor as Open Lord, once described him as a no-nonsense, energetic, and practical person.<ref name="DM-p26">{{Cite book/Death Masks|26}}</ref>
+
+{{fq
+| text   = The commoners need strong leaders to protect them&mdash;and to do what must be done even when it is distasteful.
+| source = Dagult Neverember, 1489 DR<ref name="RT-p14-15" />
+| float  = 
+| width  = 
+| styles = 
+}}
+While he did have Waterdeep's and Neverwinter's best interests at heart,<ref name="NCS-p88" /><ref name="FRCG-p198" /> he frequently attempted to personally profit from the people's good fortune.<ref name="RT-p14-15" /> In private, Neverember could be disrespectful to his subordinates, although he was always diplomatic in public.<ref name="BST-p221" /> He admired wit and strength in others,<ref name="NCS-p88" /> and he expected and rewarded order and discipline.<ref name="RT-p14-15" /> He was an intelligent and calculating opportunist, and always made a point to outwardly appear disinterested in scandals or rumors while silently cataloguing and assessing the pros and cons of every person or piece of information he encountered.<ref name="NCS-p88" /> Ultimately, he was results-oriented above all else, and was ruthless in his tireless pursuit of his goals.<ref name="RT-p14-15" /> He was not above resorting to crimes like embezzlement<ref name="W:DH-p5">{{Cite book/Waterdeep: Dragon Heist|5-6}}</ref> or assassination to secure his positions,<ref name="NCS-p88" /> although once he had solidified his power in the late 1480s DR, he strove never to engage in outwardly illegal acts (however he was still known to seek out creative or "forgotten" legal justifications when he needed them).<ref name="RT-p14-15" /> He was adept at identifying potential allies, especially those with flexible morals<ref name="LCoN-p23">{{Cite book/Lost Crown of Neverwinter|23}}</ref> or those who were skilled at acting with discretion.<ref name="NCS-p87" />
+
+Neverember was rarely seen without a stiff drink in hand.<ref name="RT-p14-15" /> He enjoyed heavy drinking,<ref name="W:DH-p215" /><ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> especially when it involved conversing with successful male [[adventurer]]s or flirting with successful female adventurers.<ref name="LCoN-p22"/> He was notorious for his shameless and outrageous flirtations with beautiful women.<ref name="SCAG-p51" /><ref name="NCS-p88" /><ref name="DS-ch14">{{Cite book/Downshadow|14}}</ref>
+
+He had a morbid fascination with the effects of the [[Spellplague]],<ref name="NCS-p87">{{Cite book/Neverwinter Campaign Setting|87}}</ref> which included a healthy fear of its dangers.<ref name="BST-ch25">{{Cite book/Blackstaff Tower||25}}</ref> At one point, he outlawed the presence of [[spellscarred]] individuals within Neverwinter.<ref name="NCS-p165">{{Cite book/Neverwinter Campaign Setting|165}}</ref>
+
+Neverember did not back down from a fight,<ref name="CSaS-4">{{Cite book/Cold Steel and Secrets||4}}</ref> and would hurl taunts at his opponents in combat.<ref name="NCS-p88" /> It was said that every Waterdhavian man of a certain age had grown up wanting to train with him.<ref name="Bl-ch12" />
+
+==Possessions==
+[[File:Dagult.jpg|thumb|left|''Lord Neverember looking fine in 1479 DR.'']]
+Neverember wore colorful and extravagant clothes, including vests lined with [[ermine]] fur, [[cloak]]s made of [[velvet]], shirts of [[silk]] from [[Shou Lung]], and high boots of crimson [[Aglarondan]] [[leather]]. As Open Lord of Waterdeep, he wore a heavy medallion to indicate his position,<ref name="BST-ch25" /> and as Lord Protector of Neverwinter, he dressed in blues and golds and would wear gleaming [[Plate mail|plate]]<ref name="DDEK:DC" /> or [[chain mail]] armor. He always wore his [[signet ring]] and he both carried a [[longsword]]<ref name="NCS-p88"/> and kept a [[dagger]] hidden in his sleeve.<ref name="BST-p219">{{Cite book/Blackstaff Tower|219}}</ref> He possessed an undisclosed means to protect himself from [[scrying]], which caused [[magical]] backlash against spellcasters attempting to spy on him.<ref name="DM-ch7">{{Cite book/Death Masks||7}}</ref>
+
+He resided at a [[Neverember House|grand manor]] in Waterdeep (although technically it belonged to his wife)<ref name="BST-ch3">{{Cite book/Blackstaff Tower||3}}</ref> and also owned a "modest" villa in Neverwinter, from where he conducted much of his official business.<ref name="SCAG-p51" /> He maintained a large stash of alcohol, including drugged [[wine]] in case a need for it arose.<ref name="DM-ch30">{{Cite book/Death Masks||30}}</ref>
+
+He owned multiple [[ship]]s, including a prized [[caravel]] called ''[[Neverwinter's Pride]]''.<ref name="ToU-p3,5">{{Cite book/Talon of Umberlee|3,5}}</ref>
+
+In his office at [[Castle Waterdeep]] and at his old headquarters in the [[Hall of Justice]] in Neverwinter, Neverember kept a number of valuable (even priceless) artifacts. Among these were ''[[Ahghairon's Key]]'' (which found and opened any locked door within range) and one of the eleven fragments of the ''[[Staff of Waterdeep]]'' (a fake in his office and the real piece at his manor).<ref name="BST-p224-225">{{Cite book/Blackstaff Tower|224-225}}</ref> He was also in possession of the ''[[Crown of Neverwinter]]''.<ref name="CSaS-4" /><ref name="N">{{Cite game/Neverwinter}}</ref>
+
+==Activities==
+Neverember's goals could be somewhat enigmatic. While he acted in the best interests of his subjects, he always prioritized ways to enrich himself.<ref name="LCoN-p22" /> In his role as Lord Protector of Neverwinter, he worked diligently to repair and rebuild the city, attract new inhabitants, facilitate trade, and ensure security. His ambition was for the city to surpass Waterdeep in grandeur. He was also highly motivated to maintain his grip on power,<ref name="SCAG-p51" /><ref name="NCS-p86" /><ref name="SKT-p101" /> and ensured that even if he lost his political power, he would still retain leverage over Neverwinter's economy.<ref name="NCS-p87" />
+
+While he took his role at Lord Protector of Neverwinter seriously, he had little interest in the day-to-day operations of his government, and delegated these tasks.<ref name="NCS-p87" /> Whenever something went wrong, he was quick to pin the blame on one of his subordinates, and then try to position himself as a champion of the people as he made an example of that subordinate.<ref name="NCS-p140" />
+
+Neverember was noted as a legendarily shrewd negotiator<ref name="NCS-p88" /> and an accomplished orator.<ref name="NCS-p87" /> His primary political strategy for gaining the support of Neverwinter's population was to drum up nationalistic emotions, followed closely by the promise that only he could keep them safe. He was largely successful at ingratiating himself with the populace, but he was keenly aware that any attempt to claim a title more grand than "Lord Protector" would quickly lose him the support of the people,<ref name="NCS-p86" /> who largely saw him as a foreigner until quite late in the 15{{th}} century DR.<ref name="SCAG-p51"/>
+
+==Relationships==
+===Personal===
+Neverember was a member of the noble [[Neverember]] family, and claimed to be a descendant of [[Vers Never]], the supposed bastard son of [[Nasher Alagondar]] and brother to [[Bann Alagondar]], who served as Neverwinter's first kings. In order to cement his relations to the royal line, Neverember paid scribes to find or create books that gave legitimacy to his birthright, and to burn any books that cast doubts on it.<ref name="NCS-p88"/> One such scribe was [[Retrigal Bookbinder]].<ref name="N" /> However, there was enough genealogical data left intact to prove that his claim of lineage was completely fabricated, as discovered by the Neverwintan aristocrat, [[Indrina Lamsensettle]].<ref>{{Cite book/Vecna: Eve of Ruin|27}}</ref> 
+
+The relationship with his son, [[Renaer Neverember|Renaer]], was estranged and complicated,<ref name="BST-p22">{{Cite book/Blackstaff Tower|22}}</ref><ref name="BST-p223">{{Cite book/Blackstaff Tower|223}}</ref> eventually turning into mutual animosity.<ref name="W:DH-p215" /> During his time as Open Lord, it was rumored that he had left Renaer in charge of managing his properties,<ref name="BST-ch2">{{Cite book/Blackstaff Tower||2}}</ref> although his son frequently chafed at his father's wishes and expectations.<ref name="BST-ch1">{{Cite book/Blackstaff Tower||1}}</ref> Even so, Neverember was said to have shown a certain pride in his son's actions and good heart, even calling him a "hero" at one point.<ref name="BST-ch25" />
+
+His wife had been a member of the noble [[Brandarth]] family of Waterdeep. Dagult had married her for her money,<ref name="W:DH-p70">{{Cite book/Waterdeep: Dragon Heist|70}}</ref> but when she passed away, she left everything to Renaer instead, which contributed to Dagult's rocky relationship with his son.<ref name="BST-p22" /><ref name="BST-p223" /> Her will also stipulated that Dagult was not allowed to fire the [[halfling]] servants at his manor,<ref name="BST-ch3" /> whom Dagult vocally disliked for "sneaking" around the house. Most of his abuse was heaped on his halfling butler, [[Madrak]].<ref name="BST-p221" /> As a rule, all of his servants saw him as a terror, and knew that he expected them to do what he wanted before he asked.<ref name="DM-ch2">{{Cite book/Death Masks||2}}</ref>
+
+While Open Lord, Neverember had a lover in [[Kalain]], an eccentric [[half-elf]] painter.<ref name="W:DH-p88">{{Cite book/Waterdeep: Dragon Heist|88-89}}</ref> He had at least one other secret paramour,<ref name="GC-ch16">{{Cite book/The God Catcher||16}}</ref> and also often flirted with and sent valuable gifts to [[Talanna Taenfeather]], although she apparently was not his lover.<ref name="DS-p35">{{Cite book/Downshadow|35}}</ref> Even in old age, he was widely regarded as a desirable bachelor.<ref name="Bl-ch12" />
+
+===Political===
+{{fq
+| text   = You can buy paper crowns on the street in Waterdeep that children like to wear. They try to snatch them from each other and the last one left crowned becomes king or queen for a day. Then it starts all over again. In Neverwinter, the game of crowns is played by older, but not wiser, heads.
+| source = Dagult Neverember, 1478 DR<ref name="CSaS-4" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Prior to his ouster as Open Lord, Neverember was closely allied with [[House Margaster]] of Waterdeep, and was especially close with [[Inkeri Margaster]].<ref name="T-ch10">{{Cite book/Timeless||10}}</ref><ref name="T-ch23">{{Cite book/Timeless||23}}</ref> After his ouster, Neverember despised the [[Nobility of Waterdeep|nobility]] and [[Guilds of Waterdeep|guilds]] of Waterdeep for their perceived betrayal,<ref name="SKT-p101">{{Cite book/Storm King's Thunder|101}}</ref> and deeply resented Laeral Silverhand for taking his position,<ref name="RT-p14-15"/> although this sentiment was not mutual as Laeral appreciated his efforts to restore Waterdeep during his time as Open Lord.<ref name="DM-p305"/> Regardless, Neverember preferred to hire adventurers and [[mercenary|mercenaries]] to protect Neverwinter and train the local troops rather than accept the help of the armies of the [[Lords of Waterdeep]], who had deposed him as Open Lord.<ref name="SCAG-p51"/> Even so, he tried to avoid letting his feelings cloud his judgment whenever he had to fulfill his duties as a member of the Lords' Alliance.<ref name="RT-p14-15"/>
+
+The [[Harpers]] viewed Neverember's ambitions in Neverwinter as tyrannical and imperialistic.<ref name="NCS-p24">{{Cite book/Neverwinter Campaign Setting|24}}</ref> They spied on him, and even acquired letters of debts that he owed.<ref name="ToFaC-p10">{{Cite adventurers league/Tales of Fang and Claw|10}}</ref> They were also involved in organizing resistance against his rule in its early years, including leadership roles with the [[Sons of Alagondar]], a faction explicitly aligned against the Lord Protector and any right of his to rule the city of Neverwinter.<ref name="NCS-p24" /><ref name="NCS-p117">{{Cite book/Neverwinter Campaign Setting|117-119}}</ref> These rebels dubbed him the "Lord Pretender"<ref name="NCS-p140" /> and, perhaps unsurprisingly, Neverember was known to be brutal in his reprisals against the Sons.<ref name="NCS-p117" />
+
+On the other hand, Dagult was known to be a good friend to the [[Emerald Enclave]] and supported the [[wood elves]] of [[Neverwinter Wood]]. Under Dagult, Neverwintans practiced sensible logging practices there.<ref name="HAT-TJN-c10">{{Cite book/Honor Among Thieves: The Junior Novelization|72|10}}</ref><ref name="TDC">{{Cite book/Honor Among Thieves: The Druid's Call|?}}</ref>
+
+Neverember was initially on good terms with the [[Ashmadai]], although this was at least in part because he did not truly understand who they were, [[Asmodeus|who they worshiped]], or the threat that they posed to his regime,<ref name="NCS-p87" /> and he would eventually declare them to be his enemies.<ref name="FotDT-p3">{{Cite book/Forge of the Dawn Titan|3}}</ref> Likewise, he had several dealings with [[Shadovar]] agents, but was generally unaware of their true allegiance or the threat that they posed to Neverwinter. By contrast, he was aware of and opposed to the activities of agents from [[Thay]] in and around Neverwinter,<ref name="NCS-p88" /> although he would subsequently advocate for an alliance with the [[Red Wizards]] when practicality demanded it.<ref name="RT-p22">{{Cite book/The Rise of Tiamat|22}}</ref>
+
+Neverember was a fierce political opponent of [[Luskan]]'s secret leader, [[Jarlaxle]], and was an obstacle to the drow's designs to get Luskan admitted to the Lords' Alliance.<ref name="W:DH-p131">{{Cite book/Waterdeep: Dragon Heist|131}}</ref> He was also on poor terms with King [[Bruenor Battlehammer]] of [[Gauntlgrym]], with both sides regarding the other as greedy and untrustworthy. This rivalry kept Gauntlgrym isolated from potential trade with both Neverwinter and Waterdeep for as long as Neverember ruled both.<ref name="T-ch8" /><ref name="T-epilogue">{{Cite book/Timeless||epilogue}}</ref>
+{{fq
+| text   = There are many ways you can be of service to Neverwinter... and enrich yourself in the process.
+| source = Dagult Neverember<ref name="N" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Neverember's most reliable agents were his mercenary general, [[Sabine]], and his lackey [[Soman Galt]], who served as mayor of Neverwinter during its rebuilding.<ref name="NCS-p140" /> He also had a number of advisors in Neverwinter, including [[Drijm Stoneaxe]], [[Sudbury]], [[Shay Morningstar]], and [[Silwen Wiltfen]].<ref name="N" /> His Master of Trade and personal accountant in Neverwinter was [[Len-jes]].<ref name="LCoN-p19">{{Cite book/Lost Crown of Neverwinter|19}}</ref> He had ties to the [[Zhentarim]] via an advisor named [[Rian Nightshade]], and while he did not advertise this relationship, neither did he see a need to deny it if asked.<ref name="RT-p17">{{Cite book/The Rise of Tiamat|17}}</ref> Additionally, through the exchange of favors, trust, and coin, Neverember had managed to secure a network of faithful loyalists. These included [[Liset Cheldar]], the owner of the [[Moonstone Mask]] in Neverwinter;<ref name="NCS-p143">{{Cite book/Neverwinter Campaign Setting|143}}</ref> [[Harrag]], the proprietor of the [[Beached Leviathan]] in Neverwinter;<ref name="LCoN-p18">{{Cite book/Lost Crown of Neverwinter|18}}</ref><ref name="DungMag193">{{Cite dungeon/193/Tavern Profile:The Beached Leviathan|2}}</ref> [[Agada Vane]], a shopkeeper and spy in Waterdeep;<ref name="HoU-p13">{{Cite book/Halls of Undermountain|13}}</ref> [[Dalakhar]], a dedicated [[rock gnome]] spy;<ref name="W:DH-p5" /> [[Nazra Mrays]], a shrewd socialite and intelligence gatherer in Waterdeep;<ref name="GC-ch16" /> and many Neverwintian politicians who had agreed to support him.<ref name="GoN-p2">{{Cite book/Gates of Neverdeath|2}}</ref> He was not above working with criminals, but he preferred that they at least pretend to be lawful or reformed.<ref name="GC-ch16" /> He was known to reward his best mercenaries and adventurers with large homes in Neverwinter.<ref name="VEoR-p35">{{Cite book/Vecna: Eve of Ruin|35}}</ref>
+
+==History==
+===Early Life===
+Dagult Neverember was born into the noble Neverember family<ref name="NCS-p88"/> in the {{YearlinkName|1429}}.<ref name="LCoN-p22" /> He grew up in Neverwinter, and even from a young age, he began to dream about creating a mercantile empire for himself.<ref name="Ed-Dagult">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://web.archive.org/web/20230126033024/https://twitter.com/TheEdVerse/status/1061787997413236737?s=20|accessdate=2023-01-25}}</ref> At some point he moved to Waterdeep and firmly established himself there, so much so that the people of Neverwinter did not see him as one of their own when he eventually returned.<ref name="NCS-p20">{{Cite book/Neverwinter Campaign Setting|20}}</ref>
+
+From Waterdeep, he achieved his goal of building a mercantile empire,<ref name="NCS-p24">{{Cite book/Neverwinter Campaign Setting|24}}</ref> and became obscenely rich and thus influential.<ref name="NCS-p20" /><ref name="DM-p305">{{Cite book/Death Masks|305}}</ref> At some point, Neverember began to invest heavily in the island of [[Mintarn]], where he founded a ship-building company as well as facilities to train mercenaries. He also bankrolled the [[White Sails]] company, which grew to become the biggest [[Tarnian]] provider of soldiers and ships for hire.<ref name="SCAG-p66" />
+
+In Waterdeep, he married into the noble Brandarth family, adding his wife's broad property holdings and wealth to his own.<ref name="BST-p272">{{Cite book/Blackstaff Tower|272}}</ref> She bore him a son, Renaer, before dying when the boy was still in his youth and leaving everything to him instead of to Dagult.<ref name="BST-p22" /><ref name="BST-p223" />
+
+Neverember became the Open Lord of Waterdeep ''circa'' the {{YearlinkName|1467}}.{{NeveremberOpenLord}} By this time, he had become one of the richest men in the city, and thanks to both his resources and his political acumen, Waterdeep began to thrive after years of neglect.<ref name="DM-p305" /> Not all went smoothly, however. In an unpopular move among the nobility, he instituted a law that allowed for a limited number of Waterdhavian titles to be bought and sold.<ref name="SCAG-p55">{{Cite book/Sword Coast Adventurer's Guide|55}}</ref> He personally organized the sale of many noble titles to potential allies in exchange for the promise that he could rely on their support in the future, while also profiting in the present.<ref name="Ed2">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://twitter.com/TheEdVerse/status/1051297943985242112?s=20|accessdate=2019-01-30}}</ref> He also immediately implemented a tax on all residents of the city, requiring them to pay one [[Shard (coin)|shard]] each month when the [[City Guard (Waterdeep)|City Guard]] came knocking.<ref name="W:DH-p169">{{Cite book/Waterdeep: Dragon Heist|169}}</ref> Furthermore, within a year he had lost most of the [[City Navy]] after sending them to hunt [[Northlander]] pirates, and so hired a fleet of Tarnian mercenary ships to replace them (and proceeded to profit from spending Waterdeep's funds to hire companies in which he was an investor).<ref name="SCAG-p66" /><ref name="SCAG-p55" /> 
+
+===Lord Protector of Neverwinter===
+{{fq
+| text   = People of Neverwinter! I am here not as a conqueror but as a protector. The soldiers I bring come to bolster the defenses you have struggled to maintain, and to stop the lawlessness that threatens all you’ve already accomplished. Together, we will do more than rebuild. We will make a New Neverwinter!
+| source = Dagult Neverember<ref name="NCS-p6">{{Cite book/Neverwinter Campaign Setting|6}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+In the {{YearlinkName|1468}}, Neverember turned his attention to the ruined city of Neverwinter,<ref name="NCS-90">{{Cite book/Neverwinter Campaign Setting|90}}</ref><ref name="NCS-p138">{{Cite book/Neverwinter Campaign Setting|138}}</ref>{{NeveremberInNeverwinter}} which had been destroyed when [[Mount Hotenow]] erupted [[1451 DR|about 16 years earlier]].<ref name="N" /><ref name="G-p148">{{Cite book/Gauntlgrym/Paperback|148}}</ref> He started the "[[New Neverwinter]]" movement to rebuild the city, claiming himself to be the "Lord Protector of Neverwinter".<ref name="NCS-p86" /><ref name="NCS-p8">{{Cite book/Neverwinter Campaign Setting|8-9}}</ref> This role was commonly understood to be one of stewardship, with the recognition that he would legally step down if an heir to the Alagondar line of Neverwintian kings came forward to claim their throne.<ref name="SKT-p101" /> However, Neverember aimed to prove that he himself was a descendant of Neverwinter's former kings and thus a rightful king of Neverwinter. To lend credence to his claims, Neverember invested a great deal of his own personal fortune to rebuild the city's infrastructure, buy the interest of merchants, keep the city safe by employing an army of Tarnian mercenaries, and even ensure that Neverwintian refugees had enough food and [[Currency|gold]] in hand.<ref name="NCS-p86" /><ref name="NCS-p24" /> Within a decade, a steady flow of refugees were returning to the city<ref name="LCoN-p5">{{Cite book/Lost Crown of Neverwinter|5}}</ref> and Neverember had turned himself into the linchpin of Neverwinter's stability<ref name="NCS-p89">{{Cite book/Neverwinter Campaign Setting|89}}</ref> by providing Neverwintians with ever-improving security, work, and access to goods.<ref name="NCS-p86" />
+
+Neverember's true intentions were popularly understood to be imperialistic,<ref name="NCS-p10" /> and his efforts to increase the prosperity of the city were in order to gain the favor and love of the Neverwintians so that they would welcome him as their king in the future, thus transforming Neverwinter into the center of his powerful mercantile empire. While he was quite popular with refugees who returned to the city under his watch,<ref name="NCS-p86" /> Neverember's army of Tarnian "peacekeepers" soon aggravated many locals, notably among those who hadn't fled the city following the [[Ruining]].<ref name="DragMag402">{{Cite dragon/402/Character Themes: Neverwinter Redeemers|1-2}}</ref> In addition to his army of mercenaries, Neverember also paid for an army of carpenters, stonemasons, and artisans to rebuild Neverwinter.<ref name="NCS-p138" /><ref name="NCS-p167">{{Cite book/Neverwinter Campaign Setting|167}}</ref> To spur economic growth, he implemented a policy of few regulations on trade and low taxes on imported goods, hoping to attract back former residents as well as merchants from across [[Faerûn]].<ref name="SoN-p3">{{Cite book/Storm over Neverwinter|3}}</ref> This largely succeeded, and as the city grew, he took a keen mercantile interest in the trade and visitors coming and going via the docks.<ref name="NCS-p147">{{Cite book/Neverwinter Campaign Setting|147}}</ref> By the end of the 1470s DR, the docks had been rebuilt fully (at the cost of every tree on the [[Upland Rise]] north of the city)<ref name="CSaS-3">{{Cite book/Cold Steel and Secrets||3}}</ref> and a steep tariff had been imposed on incoming merchant ships.<ref name="NCS-p147" />
+
+Shortly after his arrival in the city, Neverember began prioritizing a fortification known as [[the Wall (Neverwinter)|the Wall]] to keep his New Neverwinter operation safe<ref name="NCS-p143" /> and to protect his base of operations at the Hall of Justice, a former temple to the then-dead [[god]] [[Tyr]], that he had selected largely because of its emotional significance to the people of Neverwinter. To make his occupation of the old temple more palatable to the locals, he initially staffed it with [[priest]]s of [[Torm]] to create the illusion that he was rededicating it to a still-living god.<ref name="NCS-p140" /><ref name="BA-ch9">{{Cite book/Brimstone Angels||9}}</ref> In the {{YearlinkName|1474}}, Neverember announced the completion of his "[[Protector's Enclave]]", a section in the southwest of Neverwinter that he declared to be (mostly) rebuilt and as safe as any other city. While it was more secure than the rest of the ruins&mdash;it was protected by the Wall and was centered on the Hall of Justice&mdash;it was also a veritable police state under the strict control of Neverember and his mercenaries who patrolled the streets, his spies who kept the residents in line, and his tax collectors who kept the operation funded.<ref name="NCS-p138" /> Any defiance or opposition against Neverember's rule was swiftly, and often violently, repressed within the Protector's Enclave.<ref name="NCS-p140" /> This ultimately led to the rise of the Sons of Alagondar, an underground movement associated with the Harpers, who were dedicated to resisting Neverember's reign in Neverwinter, fearing that his imperialistic goals would not aid the people of the city in the long run.<ref name="NCS-p24" /><ref name="NCS-p117" />
+
+At some point, Lord Neverember banned the [[High Sun Games]] that were being held in the city, considering them brutal.<ref name="HaT" /><ref name="HAT-TJN-c5" /><ref name="HAT-TJN-c11" /> For example, in the final Games, one contestant made it to the last round, only to be half-eaten by a [[remorhaz]].<ref name="HaT" /><ref name="HAT-TJN-c5" /><ref group="note">The date of this is unknown; it was when [[Edgin Darvis]] was young.</ref>
+
+{{fq
+| text   = I knew the task of rebuilding the city would not be easily done: For the cataclysm had struck not just the city walls and buildings, but its very heart. And all the wise men from whom I sought advice said Neverwinter was dead, that the restoration I hoped to make was impossible, even with a fortune far greater than all I had. Those were dark, hopeless days, and yet in this crowd before me, I see some of those brave faces from that dark time. 
+| source = Dagult Neverember<ref name="N" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Neverember increasingly began to spend most of his time in Neverwinter, and left much of the day-to-day running of Waterdeep to his trusted lieutenants, including clerks and bureaucrats loyal to him personally and allies among the Lords of Waterdeep.<ref name="NCS-p87"/><ref name="DM-ch23">{{Cite book/Death Masks||13}}</ref> He traveled to Waterdeep only irregularly, meaning his visits were hectic affairs in which he dealt with long-delayed legal and governance decisions as well as a flurry of meetings and events, including speeches, conferences with nobles and merchants, and summary court rulings.<ref name="NCS-p87"/> He was known to handle matters important to the city without communicating with the other Lords of Waterdeep, often using stalling tactics to keep them out of his way.<ref name="DM-ch5">{{Cite book/Death Masks||5}}</ref> Amidst all of this, he still found time for womanizing in Waterdeep, including a year-long torrid romance with Kalain, an artist whom he met when she painted his portrait in the {{YearlinkName|1475}}.<ref name="W:DH-p88" /> When he was busy with his new duties in Waterdeep, he left the day-to-day running of Neverwinter to General Sabine and Mayor Soman Galt.<ref name="NCS-p87"/>
+
+As of the {{YearlinkName|1477}}, news was finally beginning to spread that Neverwinter was rebuilding, and Neverember had put out a call to invite back all who had fled following Mount Hotenow's eruption.<ref name="BA-ch2">{{Cite book/Brimstone Angels||2}}</ref>
+
+===Threats and Rivals===
+In the {{YearlinkName|1478}}, upon returning to Neverwinter from a trip to Waterdeep, Neverember survived an assassination attempt led by his Neverwintian spymaster [[Dhafiyand]], who was secretly a member of the [[Red Wizards of Thay]] and who had acquired the legendary ''Crown of Neverwinter''. Neverember was saved thanks to the efforts of one of his agents, [[Rucas Sarfael]], and the aid of several members of the Sons of Alagondar who sought the ''Crown'' for themselves, but the affair ended with the ''Crown'' in Neverember's possession. It was said that the Lord Protector protested against his mercenary bodyguards' efforts to keep him safe during the attack, wishing to fight his enemies head-on. He also gave a rousing speech to onlookers once his former spymaster lay dead at his feet.<ref name="CSaS-4" />
+
+His focus in Neverwinter at this time was split between fully reclaiming the [[Neverwinter/Blacklake District|Blacklake District]]<ref name="NCS-p147">{{Cite book/Neverwinter Campaign Setting|147}}</ref> and defending the people from both [[Many-Arrows]] [[orc]]s occupying the city's northeast and [[plaguechanged]] horrors&mdash;sent by the [[Abolethic Sovereignty]]&mdash;rising from the [[Neverwinter/Chasm|Chasm]] in the city's southeast.<ref name="NCS-p86"/><ref name="NCS-p87"/> Despite great investment to ensure the city's security, Neverwinter was far from safe.<ref name="NCS-p88"/> Also in 1478 DR, he proclaimed the "[[Protector's Law]]", a controversial decree that any and all spellscarred or plaguechanged individuals were to be expelled from Neverwinter and sent to [[Helm's Hold]].<ref name="NCS-p165" /><ref name="N" /> This was accompanied by Neverember sending mercenaries to help police the town, and he quickly established sufficient political influence that the town could do little except acquiesce to his whims.<ref name="NCS-p167" /> 
+
+[[File:Dagult Neverember-NCSp89.jpg|thumb|left|250px|''Lord Neverember as of 1479 DR.'']]
+By the {{YearlinkName|1479}}, many in Waterdeep felt that Neverember was abusing his power, using the [[City Watch (Waterdeep)|City Watch]] for his personal errands,<ref name="BST-ch1" /> and wielding his influence to waive penalties for his son's reckless escapades.<ref name="BST-ch4">{{Cite book/Blackstaff Tower||4}}</ref> That year, he conspired with [[Khondar Naomal|Khondar "Ten-Rings" Naomal]] to find the ''[[Overlord's Helm]]'' in order to find out the secrets of his fellow Lords of Waterdeep,<ref name="BST-p23">{{Cite book/Blackstaff Tower|23}}</ref> but this relationship disintegrated when the full extent of Khondar's plans to establish [[wizards]] as the rulers of Waterdeep became known.<ref name="BST-ch25" /> Furthermore, his constant focus on Neverwinter caused concern among Waterdhavians, although he assured them that his efforts were meant to bring Neverwinter under Waterdeep's influence.<ref name="DragMag409">{{Cite dragon/409/Character Themes: Citizens of Splendor|5,7}}</ref>
+
+Also in 1479 DR, a self-proclaimed "[[Seldra Tylmarande|Lost Heir]]" of the Alagondar bloodline seemingly wearing the ''Crown of Neverwinter'' made public their claim to the throne of Neverwinter, rallying the support of the Sons of Alagondar and quickly turning public opinion against Neverember and his "tyrannical ambitions" for the city.<ref name="LCoN-p18" /><ref name="LCoN-p13">{{Cite book/Lost Crown of Neverwinter|13}}</ref> For his part, the Lord Protector claimed that he would be happy to hand over the city to a legitimate heir, but openly questioned the Lost Heir's methods, secrecy, and refusal to parlay. Privately, he had no desire to give up the city in which he had invested so much, and so he instructed General Sabine to hire a group of adventurers to track down the so-called heir and discover their true intentions.<ref name="LCoN-p22" /><ref name="LCoN-p23" /> This Lost Heir was ultimately revealed to be a fraud wearing a false ''Crown of Neverwinter''.<ref name="LCoN-p59-59">{{Cite book/Lost Crown of Neverwinter|56-59}}</ref> However, the real ''Crown'' was stolen that same year following the Thayan-led [[Siege of Neverwinter]] when members of the [[Nashers]]&mdash;a splinter faction of the Sons of Alagondar&mdash;plotted to place their leader, [[Arlon Bladeshaper]], on the throne.<ref name="N" />
+
+{{fq
+| text   = As you know, I have taken the beleaguered city of Neverwinter under my wing and sunk a great deal of time, coin, blood, and sweat into its reconstruction...
+| source = Dagult Neverember, 1479 DR<ref name="LCoN-p22" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Even after the ''Crown'' was recovered, Neverember would subsequently fend off yet another pretender to the throne in the wizard [[Gyrion]] and his [[Cloaked Ascendancy]], who also produced a false ''Crown'' and used it to rally the Nashers against him.<ref name="N" /> Neverember would take an increasingly aggressive stance toward tracking down and eliminating any descendants of the Alagondars with stronger claims to the throne than himself.<ref name="SKT-p101" /> In addition, he hired groups of [[Neverwinter's Rangers|volunteer rangers]] and adventurers to take care of other issues relating to the security of Neverwinter and the surrounding region,<ref name="N" /> including slaying [[Mordai Vell]], leader of the Ashmadai,<ref name="FotDT-p3" /> and recovering an artifact known as the ''[[Talon of Umberlee]]'', which was believed to have the power to protect the city against threats from the sea.<ref name="ToU-p3,5" /> He also sent troops to garrison points north of the city, including [[Rothé Valley]] and [[Raven Cliff Beach]].<ref name="N" /><ref name="N:EE">{{Cite game/Neverwinter: Elemental Evil}}</ref>
+
+Eventually, the many threats faced by Neverwinter&mdash;including the Many-Arrows orcs, the Thayans, and the horrors of the Chasm&mdash;were brought under control, leading Neverember to institute public celebrations such as an annual jubilee and the festival of the [[Masquerade of Liars]]. He also celebrated the opening of new trade relations with [[Icewind Dale]] and [[New Sharandar]].<ref name="N" />
+
+In the {{YearlinkName|1486}}, Neverember, along with General Sabine and [[Jelvus Grinch]], met with Bruenor Battlehammer and [[Emerus Warcrown]] in Neverwinter to discuss the reclamation of Gauntlgrym from the [[drow]].<ref name="AM-ch7" /> Neverember had been hiring adventurers to seek out the underground city for over seven years, hoping to rebuild it as his own,<ref name="NCS-p87"/> but the dwarves had brought an army to his doorstep to demand he relinquish any claim to Gauntlgrym's riches. Caught by surprise and left with no leverage, Neverember was merely able to insist that any new dwarven realm's borders would not touch the surface, and thus any trade in or out of Gauntlgrym could be taxed by him.<ref name="AM-ch7" /> Once the dwarves had secured the city, tensions remained high between Gauntlgrym and Neverember.<ref name="T-ch8" />
+
+===Ousted from Waterdeep===
+During his tenure as Open Lord, Neverember took advantage of several opportunities to enrich himself and to further his goals in Neverwinter at Waterdeep's expense. He hired mercenary companies in which he was an investor,<ref name="SCAG-p55" /> used Waterdhavian soldiers and laborers to rebuild the [[High Road]] to Neverwinter (at the expense of Waterdeep's own construction needs),<ref name="DM-ch14">{{Cite book/Death Masks||14}}</ref><ref name="HotDQ-p40">{{Cite book/Hoard of the Dragon Queen|40}}</ref> and&mdash;most egregiously&mdash;embezzled large sums of money. In one scheme, he stole half a million [[Dragon (coin)|dragons]] from Waterdeep's coffers, and to conceal this sum, he made an arrangement with the [[gold dragon]] [[Aurinax]]: in exchange for the ''[[Dragonstaff of Ahghairon]]'', Aurinax would guard the gold until Neverember wanted it back. For secrecy, he then removed the information about the gold's [[Vault of Dragons|secret location]] from his mind, and stored it in an artifact known as the ''[[Stone of Golorr]]''.<ref name="W:DH-p5" /> In the summer of the {{YearlinkName|1487}}, Neverember participated in a separate year-long scheme to launder another million gold pieces&mdash;mostly in [[platinum]]&mdash;out of Waterdeep with the aid of House Margaster: he "purchased" the ruined keep of [[Thornhold]] from the Margasters for a paltry sum of 40,000 [[gold pieces]], and House Margaster arranged to have the million funneled from Waterdeep to Neverwinter under the ruse of [[Clan Stoneshaft]] purchasing the Thornhold deed from Neverember.<ref name="T-ch13">{{Cite book/Timeless||13}}</ref> Following the completion of this scheme in the {{YearlinkName|1488}}, Neverember would also support an invasion of Luskan by the Margasters in exchange for the laundered money.<ref name="T-ch23" /><ref name="Bl-ch12" />
+
+Around the same time, Neverember ordered soldiers to reclaim the ruined town of [[Leilon]] that lay between Neverwinter and Waterdeep on the High Road. Shrewdly, he ensured that all those responsible for rebuilding the town would be loyal to him personally.<ref name="SKT-p96">{{Cite book/Storm King's Thunder|96}}</ref> By spring of 1488 DR, rumblings of the Waterdhavians' frustrations with his rule had already spread far and wide.<ref name="M-ch1">{{Cite book/Maestro/MMP||1}}</ref>
+
+[[File:Tyranny_of_Dragons_1_-_Lord_Neverember.jpg|thumb|left|300px|''Neverember receives bad news in 1489 DR.'']]
+Neverember was increasingly seen as a tyrannical ruler in Waterdeep,<ref name="DM-ch5" /> and ''circa'' the {{YearlinkName|1489}}, he was facing several political scandals. With his resources stretched thin between rebuilding Neverwinter and maintaining influence in Waterdeep, it was at this time that the [[Masked Lord]]s of Waterdeep decided to replace him as Open Lord in favor of Laeral Silverhand.<ref name="SCAG-p51" /><ref name="RT-p14-15" /><ref name="SKT-p101" />{{LaeralOpenLord}} Prior to his ouster, Neverember led the [[Council of Waterdeep]]&mdash;an alliance meant to stand against the rise of the [[Cult of the Dragon]] threatening the [[North]]&mdash;which had further made him not only ruler of Neverwinter and Waterdeep, but leader of the entire Lords' Alliance.<ref name="RT-p14-15" /> Thus, the loss of his status as Open Lord hit him particularly hard as it also cost him his place of leadership on the Council. Even so, he continued to join the meetings and to pledge his and Neverwinter's support for the fight against the Cult, hoping to restore his honor by demonstrating the strength of his leadership.<ref name="RT-p14-15" /><ref name="RT-p20">{{Cite book/The Rise of Tiamat|20-21}}</ref> He remained a voice of pragmatism on the Council, even supporting unsavory tactics such as forming an alliance with the Red Wizards.<ref name="RT-p22" />
+
+The decision to depose Neverember from the Open Lordship occurred while he was in Neverwinter and effectively exiled him from Waterdeep,<ref name="SCAG-p51"/><ref name="W:DH-p5" /> thus severing his connections to his assets in that city, which included the hoard of money he had embezzled and the ''Stone of Golorr'', which had been hidden in the [[Palace of Waterdeep]].<ref name="W:DH-p5" /> Many of his loyal clerks left alongside him, leaving Waterdeep's bureaucracy short-staffed.<ref name="DM-ch23" />
+
+===Refocus on Neverwinter===
+Having been ousted as Open Lord of Waterdeep, Neverember focused all of his efforts in his role of Lord Protector of Neverwinter, continuing to rebuild the city, revive Neverwinter's economy, and secure his grip on power.<ref name="SCAG-p51"/><ref name="SKT-p101" /> Slowly but surely, Neverwinter had begun to return to being a center of civilization on the Sword Coast under his stewardship.<ref name="SCAG-p51"/> However, bitter over his expulsion from Waterdeep, Neverember became more despotic and began to enforce more heavy-handed laws in Neverwinter. Blaming the nobles and guilds of Waterdeep for betraying him, he enacted high taxes and harsh regulations to constrain the Neverwintian nobility and abolish any Neverwintian guilds in an effort to stifle all political competition.<ref name="SKT-p101" /> This soon became a strategy of scapegoating the city's wealthy for all of Neverwinter's ails, a message that he found resonated well with the poorer citizens,<ref name="AI-p119">{{Cite book/Acquisitions Incorporated|119-120}}</ref> but perhaps complicated his efforts to attract wealthy families from Waterdeep to invest and settle in the city.<ref name="SCAG-p51"/> 
+
+The continued demand for construction work to rebuild the city served to funnel more coin into the pockets of poorer residents, earning Neverember greater popularity among them.<ref name="AI-p119" /> At some point, his seemingly bottomless pockets had begun to run dry,<ref name="N" /> perhaps leading to the ever-steeper taxes he imposed on Neverwinter's aristocrats and rich merchants.<ref name="AI-p119" /><ref name="AI-p121">{{Cite book/Acquisitions Incorporated|121}}</ref> He also began the process of training local Neverwintians to form their own army and city watch, known as the [[Wintershield watchmen]],<ref name="SCAG-p145">{{Cite book/Sword Coast Adventurer's Guide|145}}</ref> in order to reduce his reliance on paying Tarnian mercenaries. This also had the benefit of being quite popular with the citizenry, who still resented being policed by foreign soldiers.<ref name="SCAG-p51" /><ref name="Ed-Ww">{{cite web|author=[[Ed Greenwood]]|title=Ed's Twitter|url=https://web.archive.org/web/20230131000350/https://twitter.com/TheEdVerse/status/1168297608508522502?s=20|accessdate=2023-01-30}}</ref> Furthermore, he managed to finally coordinate the closing of the Chasm in the heart of the city, and&mdash;in an apparent show of humility&mdash;he moved his office into his private home and gifted the Hall of Justice to followers of Tyr to restore as a temple. These actions made him an even more worthy leader in the eyes of the Neverwintians.<ref name="SCAG-p51" />
+
+{{fq
+| text   = I am more than pleased to offer my services and gold to rebuilding this fine center of culture and trade. Through our combined efforts, Neverwinter will be reborn as a bastion of good in the [[Sword Coast North]]!
+| source = Dagult Neverember, 1479 DR<ref name="NCS-p86" />
+| float  = 
+| width  = 
+| styles = 
+}}
+Due to this commitment and his many accomplishments helping the city and its citizens, the people of Neverwinter finally accepted him as the rightful leader of their city, despite the fact that people from other lands saw him as a tyrant. While he still faced opposition, even many of the Sons of Alagondar eventually began to join him to help replace the ranks of mercenaries.<ref name="SCAG-p51"/> However, he was still not recognized as a king or heir to the throne, and so throughout this period, Neverember continued to seek the death of any other person who claimed to be a descendant of the Alagondar family.<ref name="SKT-p101" /><ref name="RotFm-p14,264">{{Cite book/Icewind Dale: Rime of the Frostmaiden|14,264}}</ref>
+
+In a testament to Neverember's immense influence at this time, his ouster from Waterdeep combined with his draw down of mercenaries from Mintarn led to a crisis on the island nation as much of their reliable income dried up. At the same time, Neverember had stopped contributing to the payment of tribute to the [[red dragon]] [[Hoondarrh]], exposing the island realm to a greater threat from the beast. Needless to say, the Tarnians largely saw this as a betrayal.<ref name="SCAG-p66" />
+
+Resentment and suspicion of the former Open Lord remained rampant in Waterdeep,<ref name="DM-ch2" /> and some believed he intended to start a war to regain control of the city.<ref name="DM-ch24">{{Cite book/Death Masks||24}}</ref> When a number of the Lords of Waterdeep were murdered in the {{YearlinkName|1491}}, Neverember was immediately and unjustly accused of the deeds as people believed he wanted to take revenge on them over his exile. When Laeral asked him about this&mdash;using a [[spell]] to commune with him from Waterdeep and to read his mind in the process&mdash;she learned that Neverember was innocent, and he in turn learned that she wished for friendlier relations with Neverwinter.<ref name="DM-p305"/> Nevertheless, mistrust of Neverember remained high in Waterdeep, and spies were sent to keep an eye on his activities.<ref name="DDEK:SLW">{{Cite book/Dungeons & Dragons Essentials Kit/Storm Lord's Wrath}}</ref>
+
+Around this time, work on resettling Leilon neared completion.<ref name="DDEK:DC" /> Neverember remained the ''de facto'' ruler of the town,<ref name="SKT-p96" /> with Neverwintian soldiers occupying it&mdash;led by Sergeant [[Hazz Yorrum]]&mdash;and rebuilding efforts being overseen by his agents&mdash;notably [[Grizzelda Copperwraught]] and [[Valdi Estapaar]].<ref name="DDEK:SLW" /> Despite this, he still insisted that the settlers pay for the privilege of his troops securing the High Road between Leilon and Neverwinter. Following the [[Battle of Leilon]], in which the townsfolk fended off an assault from two cults dedicated to [[Talos]] and [[Myrkul]], Neverember took a more active role in the area's defense by posting large bounties on Leilon's enemies.<ref name="DDEK:DC" />
+
+In the {{YearlinkName|1492}}, Neverember sent his spies, among them the rock gnome Dalakhar, to Waterdeep to retrieve the ''Stone of Golorr''. None of them succeeded, and the ''Stone'' instead fell into the hands of others. This led to rumors swirling about the extent of Neverember's malfeasance as factions like the Zhentarim and the [[Xanathar's Thieves' Guild]] rushed to claim the stolen money for themselves.<ref name="W:DH-p5"/>{{Waterdeep-time}}
+
+When [[Indrina Lamsensettle]], a noblewoman and actress, assembled genealogical information which proved that Neverember was not legitimately descended from Nasher Alagondar, she feared that he would seek to make her disappear. However, by this time he was confident enough in his position to casually dismiss her claim as lacking evidence.<ref name="VEoR-p27">{{Cite book/Vecna: Eve of Ruin|27}}</ref><ref name="VEoR-p17">{{Cite book/Vecna: Eve of Ruin|17}}</ref>
+
+As of the {{YearlinkName|1496}}, Neverember was known as the man who had brought peace and stability to a mostly rebuilt Neverwinter.<ref name="AI-p119" />{{AI-time}} By then, he held autocratic power over the city, and his focus had turned to restoring [[Castle Never]] to its former glory.<ref name="AI-p121" /> To accomplish this, he had begun imposing new income taxes on merchants and [[:Category:Adventuring companies|adventuring companies]], and would sentence tax evaders to imprisonment and death in "[[the holes]]".<ref name="AI-p119" /><ref name="AI-p121" />
+
+===Illness===
+For all of his power, Lord Neverember suddenly took ill in the late 1490s DR,{{HAT-time}} causing him to slip into a vegetative state. The previously unknown [[Forge Fitzwilliam]] seized upon this opportunity and waged a political campaign for lordship of Neverwinter, describing Neverwinter's leaders as "corrupt and inept" and financing his bid for lordship using his own ill-gotten fortune. He was aided by the wizard [[Sofina]], his top advisor,<ref name="HaT">{{Cite video/Honor Among Thieves}}</ref><ref name="HAT-TJN-c5">{{Cite book/Honor Among Thieves: The Junior Novelization|43-45|5,6}}</ref> whom it was rumored had caused Neverember's sickness with her magic.<ref name="HaT" /><ref name="HAT-TJN-c9">{{Cite book/Honor Among Thieves: The Junior Novelization|62-63|9}}</ref> Once Forge ascended to lordship over Neverwinter, he soon revived the High Sun Games that Dagult had previously banned, much to the excitement of the people.<ref name="HaT" /><ref name="HAT-TJN-c11">{{Cite book/Honor Among Thieves: The Junior Novelization|76|11}}</ref> He also ordered destructive logging of Neverwinter Wood as part of reprisals against the elves and the Emerald Enclave for questioning his legitimacy.<ref name="HaT" /><ref name="HAT-TJN-c10" /><ref name="TDC" />
+
+[[File:DagultTreaty.png|thumb|400px|alt=Dagult handing the signed treaty to the druids of the Enclave.|Lord Neverember passing the signed protection treaty to the druids of the [[Emerald Enclave]].]]
+
+Forge would eventually be revealed as not only a conman scheming to use his position to steal from wealthy marks, but a co-conspirator in a plot by Sofina and [[Szass Tam]] to transform the attendees of the High Sun Games into [[undead]] minions of the Red Wizards of Thay. However, this plot was foiled by a group of thieves-turned-heroes: [[Edgin Darvis]], [[Holga Kilgore]], [[Simon Aumar]], [[Doric]], and Forge's fomer ward [[Kira]]. With the Red Wizard Sofina subdued and her magic negated, Neverember awoke from his coma and once again assumed lordship over the city. His first official act was to award medals of heroism to the five heroes and to pardon Darvis and Kilgore, who were both on the run after breaking out of the [[Revel's End]] prison. His second act was to grant formal protections to the wood elves of Neverwinter Wood and their land as well as to the Emerald Enclave. Meanwhile, the fleeing Forge Fitzwilliam was apprehended by the [[paladin]] [[Xenk Yendar]], and was sent to Revel's End.<ref name="HaT" />
+
+Lord Neverember continued to rule and rebuild Neverwinter as of the {{YearlinkName|1501}}.<ref name="HoF-p73" />
+
+==Appendix==
+===Background===
+In ''[[Dungeons & Dragons: Honor Among Thieves]]'', Lord Neverember is played by actor [https://www.imdb.com/name/nm0189858/?ref_=ttfc_fc_cl_t52 Richard Croxford].
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures          = ''[[Lost Crown of Neverwinter]]'';''[[The Rise of Tiamat]]'';''[[Divine Contention]]'';''[[Vecna: Nest of the Eldritch Eye]]'';''[[Vecna: Eve of Ruin]]''
+| adventure refs      = ''[[Gates of Neverdeath]]'';''[[Halls of Undermountain]]'';''[[Storm over Neverwinter]]'';''[[Forge of the Dawn Titan]]'';''[[Talon of Umberlee (adventure)|Talon of Umberlee]]'';''[[Hoard of the Dragon Queen]]'';''[[Princes of the Apocalypse]]'';''[[Storm King's Thunder]]'';''[[Waterdeep: Dragon Heist]]'';''[[The Orrery of the Wanderer]]'';''[[Dragon of Icespire Peak]]'';''[[Storm Lord's Wrath]]'';''[[Sleeping Dragon's Wake]]'';''[[Icewind Dale: Rime of the Frostmaiden]]''
+| novels              = ''[[Waterdeep (series)|Waterdeep series]]''<small> (''[[Blackstaff Tower (novel)|Blackstaff Tower]]'', ''[[Downshadow (novel)|Downshadow]]'', ''[[The God Catcher]]'')</small>;''[[Cold Steel and Secrets]]''<small> (part 4)</small>;''[[Archmage (novel)|Archmage]]'';''[[Death Masks]]'';''[[Timeless]]''
+| novel refs          = ''[[Circle of Skulls (novel)|Circle of Skulls]]'';''[[Brimstone Angels]]'';''[[Maestro]]'';''[[Boundless]]'';''[[Starlight Enclave]]'';''[[Honor Among Thieves: The Junior Novelization]]''
+| films               = ''[[Honor Among Thieves]]''
+| film refs           = 
+| comics              = ''[[Tyranny of Dragons (comic)|Tyranny of Dragons]]''
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Heroes of Neverwinter]]'';''[[Neverwinter (game)|Neverwinter]]'';''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = 
+| organized play      = ''[[Mystery of Deepwater Harbor]]'';''[[Out of Hatred]]'';''[[Gilding a Noble]]''
+| organized play refs = ''[[Tales of Fang and Claw]]''
+}}
+
+===Gallery===
+<gallery>
+Lord Neverember.jpg|Dagult Neverember as he appears in the ''Neverwinter'' video game.
+Lord Neverember idle.png|''Lord Neverember circa late 1490s DR.''
+Richard Croxfrod as Lord Neverember.png|Dagult Neverember awakens from his magic-induced illness.
+Council of Waterdeep.jpg|Dagult Neverember (far left) argues with [[Ulder Ravengard]] at the [[Council of Waterdeep]].
+Neverember bodyguard.png|''One of the Neverember bodyguards.''
+</gallery>
+
+===External Links===
+* [https://web.archive.org/web/20160816192916/http://archive.wizards.com/dnd/files/excerpts/excerpt_20110801.pdf Excerpt from ''Neverwinter Campaign Setting''] focusing on Lord Dagult Neverember (.pdf file)
+* {{NWWiki|Lord Neverember}}
+
+===References===
+{{Refs}}
+[[Category:Humans]]
+[[Category:Fighters]]
+[[Category:Nobles]]
+[[Category:Lords and ladies]]
+[[Category:Rulers]]
+[[Category:Merchants]]
+[[Category:Lords of Waterdeep]]
+[[Category:Members of the Lords' Alliance]]
+[[Category:Members of the Council of Waterdeep]]
+[[Category:Members of the Alagondar family]]
+[[Category:Members of the Neverember family]]
+[[Category:Members of New Neverwinter]]
+[[Category:Inhabitants of the Protector's Enclave]]
+[[Category:Inhabitants of Neverwinter]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+
+=== WIKI PAGE: Neverember
+
+{{DEFAULTSORT:Neverember}}
+{{Organization
+| image          = 
+| caption        = 
+| name           = House Neverember
+| aliases        = 
+| base           = [[Neverwinter]], [[Waterdeep]], [[Sword Coast North]]<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref>
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        =
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          =
+| allegiances    = 
+| enemies        = 
+| showmembers    = yes
+| orgname        = the Neverember family
+}}
+'''Neverember''' was a  [[Nobility of Waterdeep|noble family]] that lived in [[Waterdeep]] and [[Neverwinter]] in the 15{{th}} century [[DR]].<ref name="BST-p22">{{Cite book/Blackstaff Tower|22}}</ref><ref name="FRCG-p198"/>
+
+==Residence==
+The Neverember family lived in both cities of Waterdeep.<ref name="FRCG-p198"/><ref name="BST-p22"/> and [[Neverwinter]].<ref name="NCS-p86"/>
+
+==History==
+According to some conflicting records, [[Nasher Alagondar]], king of Neverwinter in the late years of the 14{{th}} century, had a bastard son named [[Vers Never]], who left Neverwinter and settled in Waterdeep, marrying [[Mirtria Ember]] and founding the Neverember family.<ref name="NCS-p86"/>
+
+Around [[1468 DR]],{{NeveremberOpenLord}} the Neverember family rose to prominence when [[Dagult Neverember]] became first the [[Lords of Waterdeep|Open Lord of Waterdeep]]<ref name="FRCG-p198"/> and then subsequently the Lord Protector of Neverwinter.<ref name="NCS-p86"/>
+
+==Known Members==
+*[[Vers Never]], presumed son of Nasher Alagondar and founder of the family.<ref name="NCS-p86"/>
+*[[Mirtria Ember]], wife of Vers Never.<ref name="NCS-p86"/>
+*[[Dagult Neverember]], a descendant of Vers Never who served as both Open Lord of Waterdeep and Lord Protector of Neverwinter.<ref name="STK-p101">{{Cite book/Storm King's Thunder|101}}</ref>
+*[[Renaer Neverember]], son of Dagult<ref name="BST-p22"/> and a member of the [[Moonstars]].<ref name="BST-p305">{{Cite book/Blackstaff Tower|305}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===References===
+{{Refs}}
+
+===Connections===
+{{Waterdhavian houses}}
+[[Category:Waterdhavian houses]]
+[[Category:Human organizations]]
+[[Category:Organizations in Neverwinter]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Stone of Golorr
+
+{{Item
+| image         = Stone_of_golorr-5e.png
+| caption       = 
+| name          = ''Stone of Golorr''
+| othernames    = 
+| nicknames     = 
+| type          = Wondrous item<ref name="WDH5e-p192">{{Cite book/Waterdeep: Dragon Heist|192}}</ref>
+| location      = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = [[Artifact]]
+| attunement5e  = Required
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = <ref name="WDH5e-p192" />
+| communication = Telepathic<ref name="WDH5e-p192" />
+| languages     = 
+| alignment     = [[Lawful evil]]<ref name="WDH5e-p192" />
+}}
+The '''''Stone of Golorr''''' was an [[artifact]] that contained the consciousness and memories of an [[aboleth]] named [[Golorr]].<ref name="WDH5e-p192" />
+
+==Description==
+The artifact was a small and glossy greenish-gray stone that could fit in the palm of a [[humanoid]]'s hand.<ref name="WDH5e-p192" />
+
+==Powers==
+The power of the ''Stone of Golorr'' could be called upon to access the aboleth's memory in a similar way as the ''[[legend lore]]'' spell. This power could be used up to three times, until the ''stone'' recharged at the next dawn.<ref name="WDH5e-p192" />
+
+However, knowledge given by the aboleth was fleeting. Once a creature broke the attunement to the ''Stone of Golorr'', there was a chance that any knowledge acquired via the stone, and even possession of the stone itself, was forgotten by the user. This magically induced amnesia could sometimes be removed by a ''[[remove curse]]'' spell, but more powerful spells such as ''[[greater restoration]]'' had a better chance of success.<ref name="WDH5e-p192" />
+
+As the trapped creature inside, the ''Stone of Golorr'' hungered for knowledge and did not like to stay attuned to the same individual for too long. It had an alien personality and saw itself as a [[god]]. If its user ignored the ''stone's'' demands, it could attempt to seize control of the user.<ref name="WDH5e-p192" />
+
+==History==
+The ''Stone of Golorr'' was in fact an aboleth that was transformed into an object. It could be freed if the stone was destroyed via an ''[[antipathy/sympathy]]'' spell cast with the appropriate parameters. If Golorr were freed in this way, it could go berserk and attack any nearby creatures.<ref name="WDH5e-p192" />
+
+In the late 15{{th}} century [[DR]], the ''Stone of Golorr'' was used to store the knowledge of the location of the [[Vault of Dragons]], which contained a treasure that had been embezzled by [[Dagult Neverember]] shortly before he was ousted as the [[Open Lord]] of [[Waterdeep]].<ref name="WDH5e-p192" /> At some point the stone fell into the hands of [[Xanathar]]. Then in [[1492 DR]],{{WDH-time}} Lord Dagult ordered many of his agents to obtain the stone from Xanathar's lair, with one [[Dalakhar]] ultimately being the one to do so while the crime lord was in the middle of a meeting with the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Items]]
+[[Category:Items from Toril]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Waterdeep]]
+[[Category:Magic items]]
+[[Category:Artifacts]]
+[[Category:Aboleths]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep: Dragon Heist
+
+{{Book
+| image        = Waterdeep-dragon-heist.png
+| caption      = 
+| code         = 
+| title        = Waterdeep: Dragon Heist
+| author       = [[Christopher Perkins]], [[James Haeck]], [[James Introcaso]], [[Adam Lee]], [[Matthew Sernett]]
+| editor       = [[Michele Carter]], [[Scott Fitzgerald Gray]], [[Kim Mohan]]
+| publisher    = [[Wizards of the Coast]]
+| type         = Adventure
+| languages    = <small>
+* English (original)
+* French (''Waterdeep: Le Vol Des Dragons'')
+* German (''Waterdeep: Drachenraub'')
+* Italian (''Waterdeep: Il Furto dei Dragoni'')
+* Russian (''Вотердип: Драконий куш'')
+* Spanish (''Waterdeep: El Golpe de los Dragones'')</small>
+| reprinted    = 
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = [[Mark Behm]], [[Eric Belisle]]
+| cartography  = [[Dyson Logos]]<br/>[[Jason A. Engle]] (poster map)
+| realm year   = [[1492 DR]]{{WDH-time}}
+| edition1     = 
+| binding1     = Hardcover
+| released1    = September 18, 2018
+| pages1       = 224
+| isbn10-1     = 
+| isbn13-1     = 978-0-7869-6625-7
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = ''[[Waterdeep: Dungeon of the Mad Mage]]''
+| Roll20number = 442484
+| EAN-UPC      = 9780786966257
+| Booksamillion= https://www.dpbolvw.net/click-101530721-13599892?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDd-Waterdeep-Dragon-Heist-Hc%2FWizards-Coast%2F9780786966257&cjsku=9780786966257
+| Booktopia    = https://booktopia.kh4ffx.net/WyBZ0P
+}}'''''Waterdeep: Dragon Heist''''' is a 5{{th}}-edition ''[[Dungeons & Dragons]]'' adventure that takes place in the city of [[Waterdeep]]. The adventure runs through levels 1&ndash;5 and is followed by the adventure ''[[Waterdeep: Dungeon of the Mad Mage]]''.
+
+{{Quote|<big>'''''Welcome to Waterdeep'''''</big>
+
+''Famed explorer [[Volothamp Geddarm]] needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city's most influential figures.''
+
+''A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you've never faced before, and let the [[dragon (coin)|dragon]] hunt begin!''
+
+''A Dungeons & Dragons<sup>&reg;</sup> adventure for characters of levels 1&ndash;5. For use with the fifth edition ''[[Player's Handbook 5th edition|Player's Handbook]]''<sup>&reg;</sup>, ''[[Monster Manual 5th edition|Monster Manual]]''<sup>&reg;</sup>, and ''[[Dungeon Master's Guide 5th edition|Dungeon Master's Guide]]''<sup>&reg;</sup>.''
+}}
+
+==Chronology==
+The adventure takes place after the events described in ''[[Hoard of the Dragon Queen]]'', ''[[The Rise of Tiamat]]'', ''[[Princes of the Apocalypse]]'',<ref name="WDH5e-p38-39">{{Cite book/Waterdeep: Dragon Heist|38-39}}</ref> and ''[[Tomb of Annihilation]]'',<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> but does not directly depend on them. It is not set in a particular year, but is assumed to be the [[1492 DR|Year of Three Ships Sailing, 1492 DR]] (see note).
+
+==Contents==
+* Pronunciation Guide
+* Introduction
+* Chapter 1: A Friend in Need
+* Chapter 2: Trollskull Alley
+* Chapter 3: Fireball
+* Chapter 4: Dragon Season
+* Chapter 5: Spring Madness
+* Chapter 6: Hell of a Summer
+* Chapter 7: Maestro's Fall
+* Chapter 8: Winter Wizardry
+* Chapter 9: Volo's Waterdeep Enchiridion
+* Appendix A: Magic Items
+* Appendix B: Monsters and NPCs
+* Appendix C: Handouts
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:;Dragonborn: {{P|[[Rishaal]]|33}} • {{P|[[Thrakkus]]|57,60,64}} • {{P|[[Valetta]]|47}}
+:;Dwarves: {{P|[[Ahmaergo]]|100,'''193'''}} • {{P|[[Elaspra Ulmarr]]|69-70}} • {{P|[[Istrid Horn]]|17,42,'''199'''}} • {{P|[[Jarbokken Frostbeard]]|78}} • {{P|[[Morana Huldark]]|82}} • {{P|[[Noska Ur'gray]]|66,100,'''213'''}} • {{P|[[Ott Steeltoes]]|34,100,'''214'''}} • {{P|[[Thorvin Twinbeard]]|100,101,'''216'''}} • {{P|[[Ulkoria Stonemarrow]]|42}} • {{P|[[Zemk]]|28}}
+:;Elves: {{P|[[Arannis Nur'zekk]]|101}} • {{P|[[Beldar Tlabbath]]|101}} • {{P|[[Davil Starsong]]|17,20,37,39,40,'''199-200'''}} • {{P|[[Draknafein Uriss]]|101}} • {{P|[[Fala Lefaliir]]|32,45,49}} • {{P|[[Fel'rekt Lafeen]]|15,34,72,'''201'''}} • {{P|[[Jarlaxle Baenre]]|6,11,14,15,35,37,48,49,57,60,63-64,67,75,101,'''206'''}} • {{P|[[Krebbyg Masq'il'yr]]|15,34,72,'''202'''}} • {{P|[[Nar'l Xibrindas]]|15,34,63-64,100,101,'''211'''}} • {{P|[[Remallia Haventree]]|16,30,37,68,69,74,76,'''214-215'''}} • {{P|[[Rylvar Tlabbath]]|101}} • {{P|[[Soluun Xibrindas]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Idle Champions of the Forgotten Realms
+
+{{Computer game
+|image        = Idle Champions of the Forgotten Realms cover.png
+|caption      = 
+|name         = Idle Champions of the Forgotten Realms
+|realm year   = ~[[1493 DR]]<ref name="Realms year" group="note">The character profile of [[Drizzt Do'Urden]] states his age to be 196 years old. Seeing as how he was born in [[1297 DR]] (''[[The Grand History of the Realms]]'', p. 132), ''Idle Champions'' must be set in 1493 DR. That being said, the developers have stated they intentionally keep the game's timeline vague, to allow them to pick and choose the characters (or character ''versions'') they want.</ref>
+|developer    = [[Wikipedia:Codename Entertainment|Codename Entertainment]]
+|publisher    = 
+|distributor  = [[Wikipedia:Steam (software)|Steam]]
+|designer     = 
+|released     = September 2017
+|genre        = [[Wikipedia:Incremental game|Idle game]]
+|modes        = Single player
+|ratings      = 
+|engine       = 
+|version      = 
+|platforms    = PC (Windows)<br />Android<br />iOS<br />PS4<br />Xbox One<br />Nintendo Switch
+|media        = 
+|requirements = 
+}}
+'''''Idle Champions of the Forgotten Realms''''' is a free-to-play [[Wikipedia:Incremental game|idle game]] developed by [[Wikipedia:Codename Entertainment|Codename Entertainment]]. It was released for early access on September 7, 2017.
+
+==Description==
+The core gameplay of ''Idle Champions'' revolves around the player selecting "champions" (such as [[Bruenor Battlehammer|Bruenor]], [[Minsc]], and [[Celeste]], among others) to defeat waves of increasingly difficult monsters, thereby accumulating gold. This gold is used to upgrade the player's champions, or unlock new ones. Each individual champion has its own set of unique abilities that empower either themselves or other champions. The player needs to place these champions in a "formation" that facilitates the overall strength of the party to ensure progress can be made against higher-level waves of monsters. As players complete objectives, or reset their current adventure, they accumulate "Favor" with a specific deity, which increases the amount of gold they find in future sessions. Furthermore, players can collect character-specific equipment that permanently boost their champions further, either as random drops, or through purchasing "chests" filled with random items. Equipment comes in four quality tiers, where "Epic" is the highest. Furthermore, equipment can be further boosted by being made "Shiny" (a rare chance at permanent improvement) or "Golden" (an even bigger improvement but generally limited to real-world currency purchases). Finally, "Epic" equipment can be forged into "Legendary" quality, which does not empower the item itself, but rather provides an additional positive effect for the party.
+
+The game can be automated to a degree using the "Modron Automation" system which allows the game to handle all necessary input to repeatedly play itself, in four separate instances, for a period of up to 7 days.
+
+The game is segmented into several "campaigns", each with its own unique Favor, ensuring Favor progress does not carry over between campaigns. Each campaign has a unique formation pattern, forcing players to rethink how to arrange their champions. Some of the campaigns are permanent, while others are event-based and only available for a short time. Event campaigns reward unique champions that are only available to unlock during their respective events. Permanent campaigns are usually adaptations of a tabletop adventure, such as ''[[Tomb of Annihilation]]''. All the campaigns are further divided into "adventures", which are narrative frames for the core gameplay, for example recounting how the champions help rescue a farmer's daughter who has been kidnapped by [[werewolf|werewolves]]. Most adventures also have additional challenge modes, unlocked after meeting various criteria. These challenge modes present the player with new obstacles to overcome, for example through limiting the champions available to choose from. The "Patron" system allows for these challenges to be replayed with even more limitations imposed on the player. For example, selecting the [[Strahd von Zarovich|Strahd]] patron means players are restricted to only using champions with a high intelligence score.
+
+The "end game" of ''Idle Champions'' is the "Trials of Mount Tiamat", a cooperative campaign where five players undertake missions to defeat [[Tiamat]]. Over the course of a week, players must succeed in daily missions to help reach their goal. Success yields "Scales of Tiamat", which is a currency used to forge "Legendary" equipment.
+
+==Index==
+[[File:Idle Champions campfire.png|thumb|300px|''The champions enjoy a well-deserved rest.'']]
+===Characters===
+<!-- Please do not add links to characters from streams. -->
+:;Lore Champions: [[Anson Iro|Anson]] (and [[Uggie]]) • [[Arkhan]] • [[Artemis Entreri|Artemis]] • [[Asharra]] • [[Astarion]] • [[Azaka Stormfang|Azaka]] • [[Baeloth Barrityl|Baeloth]] • [[Baldric
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Castle Ward
+
+{{Location
+| image              = Castle_ward-5e.jpg
+| caption            = A [[City Watch (Waterdeep)|City Watch]] patrol in the Castle Ward.
+| name               = Castle Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGW2e-p7">{{Template:Cite book/Volo's Guide to Waterdeep|7}}</ref><ref name="CoS-CG2e-p9">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1035}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS-CG2e-p30">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = yes
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Castle Ward''' was the central ward of the city of [[Waterdeep]]. It encompassed [[Mount Waterdeep]], [[Castle Waterdeep]], and much of the government of the city, which included the [[Palace of Waterdeep]], occupied by [[Piergeiron the Paladinson]] in the mid-14{{th}} century [[DR]], and the residences of many prosperous Waterdhavians.<ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> Among these citizens were celebrated retired adventurers such as [[Mirt the Moneylender]].<ref name="CoSW-p100"/>
+
+==Geography==
+The ward was delimited by [[Julthoon Street]] to the north, west of [[Shield Street]], and by [[Trader's Way]] between Shield Street and the [[High Road (Waterdeep)|High Road]], which delimited the ward's eastern border together with [[Snail Street]]. The southern border of the ward was delimited by [[Shesstra Street]], [[Gut Alley]], [[Belnimbra's Street]], and [[Lackpurse Lane]], until the ward met [[Deepwater Harbor]].<ref name="CoS-AG2e-p18">{{Template:Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|18}}</ref>
+
+===Geographical Features===
+Much of the territory of the Castle Ward was taken up by Mount Waterdeep, which consisted mostly of unused land.<ref name="CoS-CG2e-p9" /><ref name="CoS-AG2e-p18" />
+
+==History==
+The Castle Ward was one of the original wards of Waterdeep, established by [[Ahghairon]] in the {{Template:YearlinkName|1035}} together with the [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep/Southern Ward|Temple Ward]], and [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoS-CG2e-p30" />
+
+==Notable Locations==
+{{/Imagemap}}
+;[[Mount Waterdeep]]
+: The massive peak around which Waterdeep was built<ref name="CoSW-p96"/> encompassed the southwest portion of the city.<ref name="CoSW-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> Atop its summit was the [[Peaktop Aerie]], which housed the city's famed [[Griffon Cavalry]], and its sea-facing flank featured 11 triple-[[catapult]]s armed with rock and flammable pots. Beneath these armaments were the [[South Sea Caves (Waterdeep)|sea caves]], which allowed passage for ships to [[River Sargauth]] and the undercity of [[Skullport]].<ref name="CoSW-p96"/>
+
+;[[New Olamn]]
+:The bardic college was located on the rocky cliffside, in the western edge of the ward, overlooking the [[Sea of Swords]]. It was accessible by the [[cliffside (road)|cliffside]] pat
+
+=== LINKED WIKI PAGE (first 5000 chars): Pink Flumph
+
+{{Building
+| image         = File:Pink flumph - PaF.webp
+| caption       = 
+| name          = Pink Flumph
+| aliases       = 
+| type          = Theater
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep/Castle Ward|Castle Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Iokaste Daliano]]<br />{{Former}} [[Algondar Daliano]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WDH5e-p74-75">{{Cite book/Waterdeep: Dragon Heist|74-75}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Pink Flumph''' was a theater in the [[Waterdeep/Castle Ward|Castle Ward]] of [[Waterdeep]]. It featured plays of different genres in afternoon and evening sessions.<ref name="WDH5e-p74-75">{{Cite book/Waterdeep: Dragon Heist|74-75}}</ref>
+
+==Structure==
+The theater's façade featured a sign with its name and posters advertising the featured shows.<ref name="WDH5e-p74-75"/>
+
+==Interior==
+The lobby was decorated with a red carpet and wooden mannequins dressed as characters from several famous plays. Entrance into the auditorium was granted through two ticket booths with individual ticket offices one on each side. Offstage, the theater contained seven separate dressing rooms, a wing that stored numerous props, the stage manager's office, and a green room that connected the office, the dressing rooms, and the wing.<ref name="WDH5e-p73-74" />
+
+The auditorium had a total capacity of 140 seats, laid out in seven rows of 20 cushioned seats each. The wooden stage rose {{SI|5|ft|long=yes}} from the ground, with a large red curtain and several backdrops for the featured plays.<ref name="WDH5e-p73-74" />
+
+===Atmosphere===
+The interior of the Pink Flumph was lit by [[lantern]]s enchanted with ''[[continual flame]]'' [[spell]]s. Within the theater and backstage, the lights could be dimmed and raised via command words known to the stage managers.<ref name="WDH5e-p73-74">{{Cite book/Waterdeep: Dragon Heist|73-74}}</ref>
+
+==Services==
+Admission to any of the theater's plays cost 1 [[Shard (coin)|shard]] per person. On any given day, each performance typically drew an audience of between 20 and 200 paying customers.<ref name="WDH5e-p73-74" />
+
+In the spring of {{Yearlink|1492}},{{Waterdeep-time}} the two plays featured in the Pink Flumph were the following:<ref name="WDH5e-p74-75"/>
+* ''[[Meet the Goodberrys]]'', an afternoon comedy about a large family of [[halfling]] criminals.<ref name="WDH5e-p74-75"/>
+* ''[[Kiss of the Lamia]]'', an evening tragic play about a prince from [[Mulhorand]] who, after being banished to a desert and being charmed by a [[lamia]], returned home to reconquer his kingdom.<ref name="WDH5e-p74-75"/>
+
+==History==
+The theater was originally owned by [[Algondar Daliano]] and passed on to his wife [[Iokaste Daliano|Iokaste]] after his death sometime in the late 15{{th}} century [[DR]]. Lacking her late husband's passion for theater, Iokaste saw the business as a way to interact with and gain the favor of important citizens of Waterdeep. She delegated all artistic and management decisions to the theater's directors.<ref name="WDH5e-p74-75"/>
+
+==Inhabitants==
+The violet [[faerie dragon]] [[Wishes]] was originally Algondar's companion and continued working in the theater following his death. The dragon used its magic to provide special effects for the plays and donated all its earnings to Waterdhavians in need, by flying throughout the city while invisible and leaving coins at different locations.<ref name="WDH5e-p74-75"/>
+
+As of the late 15{{th}} century DR, notable performers at the Pink Flumph included the drag queen [[Chaotic Eva]],<ref name="PF-p60">{{Cite book/Puncheons and Flagons|60}}</ref> the [[bard]] [[Florizan Blank]],<ref name="PF-p64">{{Cite book/Puncheons and Flagons|64}}</ref> and the actress [[Yaliek Iltizmar]].<ref name="PF-p59">{{Cite book/Puncheons and Flagons|59}}</ref>
+
+==Rumors & Legends==
+The Pink Flumph was one of the locations that was potentially said to conceal the entrance to the [[Vault of Dragons]].<ref name="W:DH-p58">{{Cite book/Waterdeep: Dragon Heist|58}}</ref><ref name="W:DH-p62">{{Cite book/Waterdeep: Dragon Heist|62}}</ref>
+
+==Appendix==
+===See Also===
+* [[Flumph]]
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+}}
+===References===
+{{Refs}}
+[[Category:Theaters]]
+
+
+
+
+
+[[Category:Locations in Waterdeep]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Sea Ward
+
+{{Location
+| image              = Waterdeep_Wards-Sea_Ward_01.gif
+| caption            = 
+| name               = Sea Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGtW-p51">{{Cite book/Volo's Guide to Waterdeep|51}}</ref><ref name="CoS.W-p91">{{Cite book/City of Splendors: Waterdeep|91}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Sea Ward of Waterdeep''' was the wealthiest ward in [[Waterdeep]] and located in the northwest of the city.<ref name="VGtW-p51" /><ref name="CoS.W-p91" />
+
+==Geography==
+The ward was delimited by the [[Trollwall]] on the north and west, by [[Julthoon Street]] to the south, and by [[Shield Street]] to the east, extending to the [[High Road (Waterdeep)|High Road]] north of [[Vondil Street]].<ref name="CS-AG2e-p15">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|52}}</ref>
+
+The ward contained the [[Field of Triumph]], [[Heroes' Garden]] and the [[Sea's Edge Beach]].<ref name="CoS.W-p91" /> It also contained some of the city's largest temples.<ref name="CS-CG2e-p9">{{Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+
+==History==
+The Sea Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/North Ward|North Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+==Notable Locations==
+{{Main|:Category:Locations in the Sea Ward of Waterdeep}}
+{{/Imagemap}}
+===Inns & Taverns===
+*[[Banshee at Bay (Waterdeep)|Banshee at Bay]]<ref name="VGtW-p70">{{Cite book/Volo's Guide to Waterdeep|70}}</ref>
+*[[Broken Lance]]<ref name="CoS.W-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+*[[Dacer's Inn]]<ref name="CoS.W-p92" />
+*[[Demondraught]]<ref>{{Cite book/Blackstaff Tower|88}}</ref>
+*[[Fiery Flagon]]<ref name="CoS.W-p92" />
+*[[Golden Harp Inn]]<ref name="CoS.W-p92" /> - A two story inn that features a magical harp that sings ballads to the patrons.
+*[[Gounar's Tavern]]<ref name="CoS.W-p92" />
+*[[Maerghoun's Inn]]<ref name="CoS.W-p92" />
+*[[Pilgrim's Rest]]<ref name="CoS.W-p92" />
+*[[Sated Satyr]]<ref name="CoS.W-p92" />
+*[[Ship's Wheel]]<ref name="CoS.W-p92" />
+*[[Silken Sylph]]<ref name="CoS.W-p92" /><ref name="TDS-66">{{Cite book/The Dream Spheres|66}}</ref><ref group="note">The name of the tavern is misspelled as "Silken Slyph" in ''[[City of Splendors: Waterdeep]]'' but it is spelled correctly in the novel ''[[The Dream Spheres]]''.</ref>
+*[[Wandering Wemic]]<ref name="CoS.W-p92" />
+*[[Wyvern's Rest]]<ref name="CoS.W-p92" />
+
+===Shops & Businesses===
+*[[Aurora's Realms Shop, Singing Dolphin Catalogue Counter]]<ref name="CoS.W-p92" />
+*[[Chanszobur's Manywares]]<ref name="Dragon413">{{Cite dragon/413/Eye on the Realms: The Six Horned Crowns}}</ref>
+*[[Gerin's Breads]]<ref n
+
+=== LINKED WIKI PAGE (first 5000 chars): Esvele Rosznar
+
+{{DEFAULTSORT:Rosznar, Esvele}}
+{{Otheruses4|the [[thief]] known as the [[Black Viper]]|other uses|Esvele}}
+{{Person
+| image          = H.D&D Black Viper.webp
+| caption        = [[Esvele Rosznar]] as the Black Viper surrounded by [[displacer beast]]s
+| name           = Esvele Rosznar
+| alt_spelling   = 
+| titles         = The [[Black Viper]]<ref name="W-DH-p196" />
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]<ref name="W-DH-p196" />
+| formerhomes    = 
+| sex            = Female<ref name="W-DH-p196" />
+| race           = [[Human]]<ref name="W-DH-p196" />
+| ethnicity      = 
+| occupation     = Thief
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Thieves' cant]]<ref name="W-DH-p196" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Rolteme Rosznar]],<br />[[Azalea Rosznar]]<ref name="WDH-p118">{{Cite book/Waterdeep: Dragon Heist|118}}</ref>
+| spouses        = 
+| siblings       = [[Kressandro Rosznar]]<ref name="WDMM-p8">{{Cite book/Waterdeep: Dungeon of the Mad Mage|8}}</ref>
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic neutral]]
+| challenge5e    = 5
+| class5e        = [[Rogue]]<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+| refs5e         = <ref name="W-DH-p196" />
+}}
+'''Esvele Rosznar''' ({{Pronounce|EZ|veh|lay|_|RAWJ|nar|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a member of the [[Nobility of Waterdeep|noble]] [[Rosznar]] family of [[Waterdeep]]. Raised to be the perfect noble woman in an attempt to repair her family's sullied name after their banishment from Waterdeep, she eventually rebelled against her noble upbringing, embracing the legend of the [[Black Viper]].<ref name="W-DH-p196">{{Cite book/Waterdeep: Dragon Heist|196}}</ref>
+
+==Personality==
+Esvele was fully aware of the danger she put herself and her family's name in every time she went out in costume, but that did not deter her. She rested well satisfied that at least one member of the Rosznar family was earning the respect they deserved from Waterdeep's nobles.<ref name="W-DH-p196" />
+
+==Relationships==
+In the late 15{{th}} century [[DR]], the Rosznar family returned from their banishment from Waterdeep after being convicted of slavery 100 years prior. But they were unable to regain the respect they'd lost due to the scandal that got them banished in the first place. Many members were resentful of the loss, rationalizing that all families had skeletons in their closets and they were just unlucky that a family squabble had let their secret go public. They argued that the slave trade in [[Amn]] remained in good standing, as well as in other locations.<ref name="W-DH-p196" />
+
+==History==
+When she was younger, Esvele partook in dance lessons, proper etiquette, and poise, among others. Her education was intended to make sure that she was worthy of her title and position. She openly rebelled against her family's wishes, but when met with resistance she changed tactics. She taught herself to pick locks, pick pockets, move silently, and even fight. She was the perfect daughter by day, but by night she hid her identity with hoods and masks, snuck out, and cut loose.<ref name="W-DH-p196" />
+
+Esvele's escapades around the city of Waterdeep came to prominence when she embraced the title of the Black Viper, making her own costume to complete the transformation into the famous criminal who had died 100 years prior. Often she needed do nothing more than throw back her cloak and reveal her costume to have nobles throwing their money at her and running, maybe brandishing a dagger if they were brave. Though she understood the dangers of taking on such an identity, she knew how to fight if it came down to it.<ref name="W-DH-p196" />
+
+In [[1492 DR]],{{Waterdeep-time}} Esvele was investigating the fate of a large sum of money embezzled by [[Dagult Neverember]]. Her spies identified that Neverember had been close to a [[wizard]] residing in Waterdeep's [[Sea Ward]], and so she purchased the wizard's tower to investigate whether it was the [[Vault of Dragons|place where the gold was hidden]].<ref name="WDH-p78">{{Cite book/Waterdeep: Dragon Heist|78}}</ref> Around the same time, she discovered that her younger brother [[Kressando Rosznar]] disappeared in [[Undermountain]] while he was conducting meeting w
+
+=== LINKED WIKI PAGE (first 5000 chars): Kalain
+
+{{Person
+| image          = Kalain AFR.jpg
+| caption        = 
+| name           = Kalain
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep/Sea_Ward|Sea Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female
+| gender         = 
+| race           = [[Half-elf]]
+| ethnicity      = 
+| occupation     = Painter
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Elvish]]
+| basicrefs      = <ref name="W:DH-p88-89">{{Cite book/Waterdeep: Dragon Heist|88-89}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic evil]]<ref name="W:DH-p89">{{Cite book/Waterdeep: Dragon Heist|89}}</ref>
+| challenge5e    = 2
+| class5e        = {{class table|edition=5e|[[Bard]]|4}}
+| refs5e         = <ref name="W:DH-p195">{{Cite book/Waterdeep: Dragon Heist|195}}</ref>
+}}
+'''Kalain''' was a famously eccentric [[half-elf|half-elven]] [[painter]] and former lover of [[Dagult Neverember]] from [[Waterdeep]]. After separating from the then-[[Open Lord]], she started painting [[monster]]s that, thanks to her ability to draw upon the [[Weave]], could come to life.<ref name="W:DH-p88-89" />
+
+==Personality==
+After her relationship ended, Kalain became paranoid, thinking that every stranger she encountered was an assassin sent by Dagult.<ref name="W:DH-p88">{{Cite book/Waterdeep: Dragon Heist|88}}</ref>
+
+==Abilities==
+By harnessing the Weave, Kalain could bring her monstrous paintings to life.<ref name="W:DH-p88-89" />
+
+==Possessions==
+Kalain's house was a stone [[windmill]] in Waterdeep's [[Waterdeep/Sea_Ward|Sea Ward]] converted into an estate sometime prior to {{yearlinkName|1392}}.{{WDH-time}} By the time she was living there (over a century later), the building had entered a state of disrepair, and became infested with [[rat]]s.<ref name="W:DH-p88-89" />
+
+==Activities==
+When Kalain painted monsters, some of her common subjects included [[ankheg]]s, [[carrion crawler]]s, [[displacer beast]]s, [[ettercap]]s, [[gargoyle]]s, [[ghast]]s, [[gibbering mouther]]s, [[hell hound]]s, [[manticore]]s, [[minotaur]]s, [[mummy|mummies]], and [[werewolves]].<ref name="W:DH-p89" />
+
+==Relationships==
+Kalain loved Dagult dearly, and became furious when he broke their relationship off. The monsters she painted were meant to be representations of him.<ref name="W:DH-p88" />
+
+The one exception to Kalain's paranoid tendencies was [[Vhaspar Holmdreg]], an elderly [[Church of Ilmater|Ilmatari]] [[priest]] who periodically brought her food, firewood, and painting supplies. He rented a room in the west wing of Kalain's house, and as such was entrusted with a [[key]] to the building.<ref name="W:DH-p88-89" />
+
+Kalain had earned the loyalty of the rats living in her home, and they were always ready to defend her from attack.<ref name="W:DH-p89" />
+
+==History==
+In the {{yearlinkName|1475}}, Kalain got a commission to paint a portrait of Dagult Neverember. Their meeting sparked a passionate affair that lasted for more than a year, although it began falling apart when Dagult couldn't keep his promises and spent more and more time in [[Neverwinter]], culminating in him choosing the Jewel of the North over Kalain. After this rejection, she began painting monsters and turning them real.<ref name="W:DH-p88" />
+
+Dagult attempted to thoroughly ruin Kalain's career after leaving her, using his authority to separate her from the high society of Waterdeep and having her works and reputation gradually destroyed. This experience drove Kalain mad, and she became a recluse in her own house.<ref name="W:DH-p88" />
+
+==Rumors & Legends==
+Kalain's home was one of the locations that was potentially said to conceal the entrance to the [[Vault of Dragons]].<ref name="W:DH-p60">{{Cite book/Waterdeep: Dragon Heist|60}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| card games = {{MTGapp|AFR}}
+}}
+===References===
+{{Refs}}
+[[Category:Half-elves]]
+[[Category:Bards]]
+[[Category:Painters]]
+[[Category:Inhabitants of the Sea Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:I
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/City of the Dead
+
+{{Otheruses4|the cemetery in [[Waterdeep]]|other uses|City of the Dead (disambiguation)}}
+{{Location
+| image          = City of the Dead-Julian Kok.jpg
+| caption        = 
+| name           = City of the Dead
+| aliases        = The City<ref>{{Cite book/Volo's Guide to Waterdeep|38}}</ref>
+| type           = 
+| size           = Cemetery / ward
+| area           = [[Waterdeep]],<br /> [[Sword Coast North]]
+| languages      = 
+| races          = 
+| religion       = 
+| alignment      = 
+| established    = [[1248 DR]]
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| histrefs       = <ref>{{Cite book/City System|4}}</ref>
+| usethe         = yes
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| events         = yes
+| food and drink = 
+| items          = yes
+}}
+The '''City of the Dead''' was a large cemetery and ward in [[Waterdeep]]. Most of the city's dead were buried here.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref> By day, it also doubled as the city's major public park picnic area.<ref name="CoS:W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WDDH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref>
+
+==Activities==
+Besides burials and funerals, the City of the Dead was host to a variety of activities among Waterdhavians. These included, but were not limited to:  being an exercise run, a dueling ground, a playground, a highsun dining area, a meeting-moot, a place where courting lovers could meet in private, and a performance venue for [[minstrel]]s (and would-be minstrels).<ref>{{Cite web/Realmslore/Dawntree, Part One: Bold Dreams}}</ref>
+
+At night the City of the Dead was off-limits to the public, yet it was still used by many during those hours for more nefarious activities.<ref name="CoS:W-p102" />
+
+==History==
+The area that would eventually become the site of the City of the Dead was used as a burial site as far back as the days of [[Nimoar's Hold]].<ref>{{Cite adventurers league/Hero of the Troll Wars|5-7}}</ref>
+
+When Waterdeep was much smaller, a cemetery was established on the end of the plateau overlooking the plains east of the city. A low wall was built around the cemetery in [[1064 DR]] first establishing its boundaries north and east of the [[Trades Ward of Waterdeep|Trades Ward]] and south of the [[North Ward of Waterdeep|North Ward]]. Since that time, higher walls were built and gates into the City of the Dead were established which were only opened to the public during the daylight hours.<ref name="CoS-CG-p56-57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|56-57}}</ref>
+
+Space soon became hard to come by in the cemetery itself. Many of those who could not afford to be buried there found themselves interred in an area known as [[Grave Alley]] (later called [[Ilisar’s Alley]]). Their coffins were placed vertically below the cobblestones. This led to issues of the [[undead]] rising from the streets themselves and the practice was soon abandoned.<ref name="VGtW-p165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+
+In order to alleviate the overcrowding, in [[1250 DR]], [[Ahghairon]] and other mages of Waterdeep began to establish ''[[portals]]'' from tombs and mausoleums to uninhabited demiplanes of various types where the dead were laid to rest. Most notable among these wizards, except for Ahghairon himself, was the ''portal'' and ''teleportation'' specialist, [[Anacaster]]. Two of his more well known portals led from [[The House of the Homeless]] and [[Merchants’ Rest]].<ref name="CoS:W-p102" />
+
+Most noble houses, reportedly less than half, did not keep family tombs in the City of the Dead. They instead had crypts below their villas or were buried in family estates outside of Waterdeep.<ref name="CoS-CG-p56-57" />
+ 
+The cemetery suffered extensive damage during the [[Spellplague]].<ref name="BT.p107-8">{{Cite book/Blackstaff Tower|107-8}}</ref>
+
+==Notable Locations==
+[[File:Waterdeep_Wards-City-of-the-Dead_01.gif|thumb|250px|''Map of the City of the Dead''.]]
+===Gates===
+;[[Andamarr Gate]]: One of the public gates.<ref name="City of the Dead-p133">{{Cite book/City of the Dead|133}}</ref>
+;[[Coffinsmarch Gate]]: One of the public gates.<ref name="City of the Dead-p1">{{Cite book/City of the Dead|1}}</ref>
+;[[Dead End Gate]]: The hidden, private gate the Carver family uses to enter in order to conduct burials or perform maintenance on the tombs <ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Mhalsyymber Gate]]: One of the public gates.<ref name="City of the Dead-p173">{{Cite book/City of the Dead|173}}</ref>
+===Crypts, plots, tombs, vaults===
+;[[Deepwinter Vault]]: A tomb near the north end of the City of the Dead. It once housed the noble Deepwinter family, but was also the entry into the [[Dungeon of the Crypt]].<ref name="City of the Dead-p10">{{Cite book/City of the Dead|10}}</ref><re
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/North Ward
+
+{{Location
+| image              = Waterdeep_Wards-North_Ward_01.gif
+| caption            = 
+| name               = North Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="VGtW-p81">{{Cite book/Volo's Guide to Waterdeep|81}}</ref><ref name="CoS-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''North Ward''' was the northeastern sector of [[Waterdeep]].<ref name="WatN-p24" /><ref name="CoS-p92" /> It was famous for being the quietest ward of the city, consisting mostly of residential areas.<ref name="VGtW-p81" />
+
+==Geography==
+The North Ward was delimited by the walls of the [[Waterdeep/City of the Dead|City of the Dead]] to the southeast and the [[Trollwall]] to the east and north. Its southern border was at [[Andamaar's Street]] and [[Trader's Way]] up to [[Shield Street]], which marked the western border until [[Vondil Street]]. North of that, the western border was defined by the [[High Road]] the rest of the way to the Trollwall.<ref name="CoS.AG-12">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|12}}</ref>
+
+The architectural style of the North Ward was dominated by rowhouses, which filled the gaps between the villas of lesser [[Nobility of Waterdeep|noble houses]]. The ward also counted with a variety of taverns and shops.<ref name="VGtW-p81" /><ref name="WDH5e-p176">{{Cite book/Waterdeep: Dragon Heist|176}}</ref>
+
+===Geographical Features===
+The most prominent feature of the North Ward was the [[Cliffwatch]], a section of the Waterdeep plateau that was so steep and high that it provided a natural defense, so the area was marked by an interruption of the Trollwall between the [[Endcliff Tower]] and the [[Watchway Tower]] in the City of the Dead. A walkway traversed the entire Cliffwatch, along which some of the best inns and taverns of Waterdeep were located, taking advantage of the beautiful landscape to the east.<ref name="WDH5e-p176" /><ref name="CS-CG2e-p43">{{Cite book/City of Splendors (boxed set)/Campaign Guide|43}}</ref>
+
+==History==
+The North Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/Sea Ward|Sea Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+In [[1368 DR]], the noble [[Cassalanter]] family loaned two ten-million [[Golden lion (coin)|golden lions]] with a huge interest rate. The first loan was to [[Widow Silvermane]] who ran a [[lottery]] in the North Ward, and the second one went to the [[Field of Triumph]] Race Track in the [[Waterdeep/Sea Ward|Sea Ward]]. The astronomical loans were caused by goddess' [[Tymora]]s luck going out of control all over the Realms. Every
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Currency
+
+{{Item
+| image         = [[File:Currency-5e.jpg|250px]]
+| caption       = From top to bottom: [[copper]], [[silver]], [[gold]], [[electrum]], and [[platinum]] pieces.
+| name          = Currency
+| othernames    = 
+| nicknames     = 
+| type          = 
+| location      = 
+| value1e       = {{Currency table|1 platinum|1 [[pp]]|5 [[gp]]|10 [[ep]]|100 [[sp]]|1000 [[cp]]}}
+| weight1e      = 
+| refs1e        = <ref name="CotR-9" />
+| school2e      = 
+| level2e       = 
+| value2e       = {{Currency table|1 platinum|1 pp|5 gp|10 ep|50 sp|500 cp}}
+| weight2e      = 
+| refs2e        = <ref name="PH2ed-66">{{Cite book/Player's Handbook 2nd edition|66}}</ref><ref name="FRCS2e-p26-27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)|26-27}}</ref><ref name="FRA-129">{{Cite book/Forgotten Realms Adventures|129-130}}</ref>
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = {{Currency table|1 platinum|1 pp|10 gp|100 sp|1000 cp}}
+| weight3e      = 
+| refs3e        = <ref name="FRCS3e-p91">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|91}}</ref><ref name="PHB3e-p96">{{Cite book/Player's Handbook 3rd edition|96}}</ref><ref name="PHB|112">{{Cite book/Player's Handbook v.3.5|112}}</ref>
+| level4e       = 
+| value4e       = {{Currency table|1 platinum|1 pp|10 gp|100 sp|1000 cp}}
+| weight4e      = 
+| refs4e        = <ref name="FRCG4e-p45">{{Cite book/Forgotten Realms Campaign Guide|45}}</ref>
+| rarity5e      = 
+| attunement5e  = 
+| school5e      = 
+| level5e       = 
+| value5e       = {{Currency table|1 platinum|1 pp|10 gp|20 ep|100 sp|1000 cp}}
+| weight5e      = 
+| refs5e        = <ref name="SCAG5e-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name=PHB5e-p143>{{Cite book/Player's Handbook 5th edition|143}}</ref>
+| communication = 
+| languages     = 
+| alignment     = 
+}}
+'''Currency''' referred to the practice of using items with a somewhat universal value, namely precious [[metal]]s, [[gem]]s, and some minerals to determine wealth and in trade for goods and services. The most common forms of currency in everyday transactions among sentient beings of the [[Forgotten Realms|Realms]] were coins (or "pieces"). Usually, most coins were made of [[gold]], [[silver]], and [[copper]]. Less frequently, coins made of [[platinum]], [[electrum]], and even [[iron]] were also found. In all cases, the standard for measuring wealth was the gold piece, even if neither gold nor coins were involved in a transaction.<ref name="PHB5e-p143">{{Cite book/Player's Handbook 5th edition|143}}</ref><ref name="SCAG5e-p13" />
+
+A standard gold piece (gp) weighed {{SI|0.32|oz|long=yes}}, so 50 coins weighed about {{SI|1|lb|long=yes}}.<ref name="PHB5e-p143" /> Each piece was typically a flat disk 1{{Frac|4}} or {{SI|1.25|in|c|long=yes}} in diameter and {{Frac|8}} or {{SI|0.125|in|m|long=yes}} thick.<ref name="FRCS3e-p91" /><ref group="note">Unfortunately, for both of these statements to be true, a typical gold coin had very little gold in it and was either alloyed with a ''much'' lighter metal, like aluminum, or was made of a gold-clad wooden disk. The density of gold is 19.32 g/cm³ and a pure gold coin of those dimensions would weigh about {{SI|1.7|oz|long=yes}} or over five times the weight of a "standard" coin. This suggests that the dimensions of a standard coin should be smaller and thinner.</ref>
+
+The penalty for counterfeiting was death in most places, since cities, kingdoms, and nations relied on the acceptance and trust of their currency.<ref name="CotR-9">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|9}}</ref>
+
+When large sums were involved, it was common for traders to use [[trade bar]]s, which were valued by weight, instead of coins.<ref name="DMG5e-p19-20">{{Cite book/Dungeon Master's Guide 5th edition|19-20}}</ref>
+
+==Standard Exchange Rates==
+The everyday currency of the [[Realms]] consisted mainly of coins and [[trade bar]]s. With few exceptions, the standard currency adopted throughout the Realms made use of [[platinum]], [[gold]], [[electrum]], [[silver]], and [[copper]] pieces of equal value, so they could be used interchangeably across different regions, as well as trade bars of standardized weights with fixed conversion rates.<ref name="DMG5e-p19-20" /><ref name="FRCG4e-p45" />
+
+The exchange rates between coins of different materials has changed through history, but their relative value across regions remained mostly unaltered.<ref name="CotR-9">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|9}}</ref>
+
+===As of [[1357 DR]]===
+By the [[Year of the Prince]], standard exchange rates were the following:<ref name="CotR-9" /><ref group="note">The year [[1357 DR]] corresponds to the "present" in p. 6 of the 1st-edition ''[[Forgotten Realms Campaign Set]]''.</ref>
+
+{{Currency table|1 platinum piece|1 [[platinum]] |5 [[gold]]|10 [[electrum]]|100 [[silver]] |1000 [[copper]]}}
+
+In that time period, silver and electrum trade bars were available
+
+=== LINKED WIKI PAGE (first 5000 chars): Aurinax
+
+{{Person
+| image          = Vault_of_dragons-5e.jpg
+| caption        = Aurinax guarding the [[Vault of Dragons]].
+| name           = Aurinax
+| alt_spelling   = 
+| titles         = 
+| aliases        = Barok Clanghammer
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Gold dragon]]
+| ethnicity      = 
+| occupation     = 
+| age            = [[Dragon aging|Adult]] in [[1492 DR]]{{WDH-time}}
+| patron deity   = 
+| languages      = [[Common]], [[Draconic language|Draconic]]
+| basicrefs      = <ref name="WDH5e-p194">{{Cite book/Waterdeep: Dragon Heist|194}}</ref><ref name="MM5e-p114-115">{{Cite book/Monster Manual 5th edition|114-115}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful good]]
+| challenge5e    = 17
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p194" /><ref name="MM5e-p114-115" />
+}}
+'''Aurinax''' ({{Pronounce|OR|ah|nax|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a [[gold dragon]] resident of the [[Dragon Tower]] of [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p194" /> 
+
+==Description==
+Aurinax often disguised himself as an elderly [[dwarf]] called '''Barok Clanghammer'''. In that form, he used the ''dragonstaff'' as a walking stick.<ref name="WDH5e-p194" /><ref name="WDH5e-p96-97" />
+
+He had the power to entirely bypass ''[[Ahghairon's dragonward]]'' and freely enter into and out of the City of Splendors.<ref name="WDH5e-p194" />
+
+==Personality==
+As befitting a gold dragon, Aurinax had an enlightened outlook highlighted by compassion and keen vigilance. He was not so beholden to avarice as some other [[dragon]]s were.<ref name="WDH5e-p96-97" />
+{{-}}
+[[File:Aurinax-5e.jpg|thumb|right|200px|''Aurinax disguised as Barok Clanghammer.'']]
+
+==Relationships==
+Aurinax was rather fond of the [[Tyr]]ran [[monk]] [[Hlam]] who also lived in Waterdeep. The two had become good acquaintances after an encounter and kept in contact over the course of many years.<ref name="WDH5e-p98">{{Cite book/Waterdeep: Dragon Heist|98}}</ref> 
+
+He was good friends with [[Maaril|Maaril the Dragon Mage]].<ref name="WDH5e-p194" />
+
+==History==
+At some point, Aurinax was hired by [[Dagult Neverember]] to guard the [[gold]] stored in the [[Vault of Dragons]], in exchange for the ''[[dragonstaff of Ahghairon]]'' and payment in [[gem]]s.<ref name="WDH5e-p194" /><ref name="WDH5e-p96-97">{{Cite book/Waterdeep: Dragon Heist|96-97}}</ref>
+
+Although he understood that the gold he guarded had been obtained unfairly, he had let his greed cloud his judgement and agreed to guard the treasure. He was under orders not to let anyone except for Neverember himself or one of his vassals to remove the treasure.<ref name="WDH5e-p96-97" />
+
+During [[Wintershield]] festivities, Aurinax's apprentice [[Chadwick (person)|Chadwick]] drunkenly revealed the location of the ''dragonstaff of Ahghairon'' to the [[Cult of the Dragon]]. He was promptly kidnapped as the Cult prepared to raid Aurinax's vault, but was rescued shortly after by a group of adventurers passing by. The adventurers proceeded to Aurinax's abode, where they defeated the cultists and secured the ''dragonstaff'', returning it to Aurinax.<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| video games = ''[[Idle Champions of the Forgotten Realms]]''
+| board games = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]'';''[[Horrified: Dungeons & Dragons]]''
+}}
+
+===Gallery===
+<gallery>
+Barok_Clanghammer_-_Idle_Champions.jpg|''Aurinax in his guise as "Barok Clanghammer".''
+Aurinax dragon mini.png|''Aurinax in his dragon form.''
+Aurinax mini.png|''Aurinax miniature.''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Gold dragons]]
+[[Category:Adult dragons]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Males]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Aurinax
+
+{{Person
+| image          = Vault_of_dragons-5e.jpg
+| caption        = Aurinax guarding the [[Vault of Dragons]].
+| name           = Aurinax
+| alt_spelling   = 
+| titles         = 
+| aliases        = Barok Clanghammer
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Gold dragon]]
+| ethnicity      = 
+| occupation     = 
+| age            = [[Dragon aging|Adult]] in [[1492 DR]]{{WDH-time}}
+| patron deity   = 
+| languages      = [[Common]], [[Draconic language|Draconic]]
+| basicrefs      = <ref name="WDH5e-p194">{{Cite book/Waterdeep: Dragon Heist|194}}</ref><ref name="MM5e-p114-115">{{Cite book/Monster Manual 5th edition|114-115}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful good]]
+| challenge5e    = 17
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p194" /><ref name="MM5e-p114-115" />
+}}
+'''Aurinax''' ({{Pronounce|OR|ah|nax|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was a [[gold dragon]] resident of the [[Dragon Tower]] of [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p194" /> 
+
+==Description==
+Aurinax often disguised himself as an elderly [[dwarf]] called '''Barok Clanghammer'''. In that form, he used the ''dragonstaff'' as a walking stick.<ref name="WDH5e-p194" /><ref name="WDH5e-p96-97" />
+
+He had the power to entirely bypass ''[[Ahghairon's dragonward]]'' and freely enter into and out of the City of Splendors.<ref name="WDH5e-p194" />
+
+==Personality==
+As befitting a gold dragon, Aurinax had an enlightened outlook highlighted by compassion and keen vigilance. He was not so beholden to avarice as some other [[dragon]]s were.<ref name="WDH5e-p96-97" />
+{{-}}
+[[File:Aurinax-5e.jpg|thumb|right|200px|''Aurinax disguised as Barok Clanghammer.'']]
+
+==Relationships==
+Aurinax was rather fond of the [[Tyr]]ran [[monk]] [[Hlam]] who also lived in Waterdeep. The two had become good acquaintances after an encounter and kept in contact over the course of many years.<ref name="WDH5e-p98">{{Cite book/Waterdeep: Dragon Heist|98}}</ref> 
+
+He was good friends with [[Maaril|Maaril the Dragon Mage]].<ref name="WDH5e-p194" />
+
+==History==
+At some point, Aurinax was hired by [[Dagult Neverember]] to guard the [[gold]] stored in the [[Vault of Dragons]], in exchange for the ''[[dragonstaff of Ahghairon]]'' and payment in [[gem]]s.<ref name="WDH5e-p194" /><ref name="WDH5e-p96-97">{{Cite book/Waterdeep: Dragon Heist|96-97}}</ref>
+
+Although he understood that the gold he guarded had been obtained unfairly, he had let his greed cloud his judgement and agreed to guard the treasure. He was under orders not to let anyone except for Neverember himself or one of his vassals to remove the treasure.<ref name="WDH5e-p96-97" />
+
+During [[Wintershield]] festivities, Aurinax's apprentice [[Chadwick (person)|Chadwick]] drunkenly revealed the location of the ''dragonstaff of Ahghairon'' to the [[Cult of the Dragon]]. He was promptly kidnapped as the Cult prepared to raid Aurinax's vault, but was rescued shortly after by a group of adventurers passing by. The adventurers proceeded to Aurinax's abode, where they defeated the cultists and secured the ''dragonstaff'', returning it to Aurinax.<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| video games = ''[[Idle Champions of the Forgotten Realms]]''
+| board games = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]'';''[[Horrified: Dungeons & Dragons]]''
+}}
+
+===Gallery===
+<gallery>
+Barok_Clanghammer_-_Idle_Champions.jpg|''Aurinax in his guise as "Barok Clanghammer".''
+Aurinax dragon mini.png|''Aurinax in his dragon form.''
+Aurinax mini.png|''Aurinax miniature.''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Gold dragons]]
+[[Category:Adult dragons]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Males]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Palace of Waterdeep
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Palace of Waterdeep
+| aliases       = Lords' Palace<br />Piergeiron's Palace
+| type          = Palace
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward]], [[Waterdeep]]
+| built         = [[1287 DR]]
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CS.W"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Palace of Waterdeep''', also known as the '''Lords' Palace'''<ref name="RoT-p19" /> and previously often called '''Piergeiron's Palace''',<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> was the residence of the [[Open Lord]] of [[Waterdeep]].<ref name="WatN-p15">{{Cite book/Waterdeep and the North|15}}</ref><ref name="CS.W">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+
+==Location==
+The white [[marble]] palace was located at the foot of [[Mount Waterdeep]] at the intersection of the [[Street of Silks]] and [[Waterdeep Way]]. In the courtyard in front of the palace stood [[Ahghairon's Tower]], and just to the north were the palace stables, paddock, and guard barracks.<ref name="CS.W"/>
+
+==Structure==
+The palace featured a [[Lantan]]ese "golemwork clock" called 'Timehands' that comprised dials on three faces of its highest tower. Two bells of different tones would ring out each hour, marking the hour with their number of rings.<ref name="FRCG-p198" />
+
+==Interior==
+Inside Piergeiron's Palace was located a rare place of [[Ao]]ist worship, with a spacious chapel lined with [[oak]]en pews. Bright painted [[plaster]] walls were decorated with [[gold]], [[silver]], and carved [[limestone]] and its marble floors were covered with exotic carpets from [[Shou Lung]] and illuminated with [[jewel]]ed chandeliers. At the center of the furthest wall stood a large intricate stained glass window—the Eye of Ao. It gazed down on the chapel's visitors in radiant indifference.<ref name="TD">{{Cite book/The Diamond||1}}</ref>
+
+A deep well could be found in the prisons and dungeons of the Palace. It was gated with enchanted oaken doors, magically and physically barred, and ensorcelled with the message "DO NOT OPEN UNDER PAIN OF DEATH." The welled path connected the palace with [[Undermountain]].<ref name="TD-ch4">{{Cite book/The Diamond||4}}</ref>
+
+==Activities==
+The Palace served multiple functions for the administration of the city. It was the main office for many of the city's officials including  [[City Watch (Waterdeep)|City Watch]], [[City Guard (Waterdeep)|City Guard]], and city clerks. The [[Lords' Court]] also met in a large chamber on the second floor.<ref name="CS.W"/>
+
+There were embassies here from many other countries and cities, although they were not required to be on the palace grounds. Guest quarters for foreign dignitaries without embassies were also available.<ref name="CS.W"/>
+
+==History==
+The Palace was built over the ruins of an abbey dedicated to [[Chauntea]] that was destroyed during the [[Trollwars#Second_Trollwar|Second Trollwar]] in the mid–10{{th}} century [[DR]]. In the 1370s, relatively harmless [[ghost]]s of Chauntean monks and clerics could still be seen occasionally roaming halls and staircases that no longer existed, passing through the walls of the modern-day castle.<ref name="RBN-6">{{Cite web/Realms by Night/Part Six: The Monks of the Three Candles}}</ref>
+
+The construction and instillation of 'Timehands' was completed in the {{YearlinkName|1445}}.<ref name="FRCG-p198" />
+
+The four meetings of the [[Council of Waterdeep]] were hosted in the Lords' Palace some time during the 1480s DR.<ref name="RoT-p19">{{Cite book/The Rise of Tiamat|19}}</ref>{{ToD-time}}
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+:: ''[[The Rise of Tiamat]]''
+:;Novels
+::''[[The Abduction]]'' • ''[[The Diamond]]''
+:;Gamebooks
+::''[[Knight of the Living Dead]]''
+
+===References===
+{{Refs}}
+[[Category:Palaces]]
+[[Category:Locations on Waterdeep Way]]
+[[Category:Locations on the Street of Silks]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Temples]]
+[[Category:Temples to Ao]]
+[[Category:Aoist locations]]
+[[Category:Year of Miracles]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Dalakhar
+
+{{Person
+| image          = 
+| caption        = 
+| name           = Dalakhar
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Rock gnome]]
+| ethnicity      = 
+| occupation     = [[Thief]] and spy
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1492
+| deathnotes     = (hit by a [[fireball]])<ref name="WDH5e-p43-44" />
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Dalakhar''' was a [[thief]] and spy in [[Waterdeep]] working for Lord [[Dagult Neverember]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p11">{{Cite book/Waterdeep: Dragon Heist|11}}</ref>
+
+==History==
+In [[1492 DR]],{{WDH-time}} Dalakhar was spying upon [[Renaer Neverember]], the estranged son of his master.<ref name="WDH5e-p49">{{Cite book/Waterdeep: Dragon Heist|49}}</ref> At one point, however, Lord Dagult ordered many of his agents, including Dalakhar, to obtain the ''[[stone of Golorr]]'' from the lair of the [[Xanathar]]. The rock gnome managed to steal the stone, ruining a meeting between Xanathar and the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+Later, Dalakhar was targeted by agents of the Zhentarim, the [[Xanathar's Thieves' Guild]], [[Bregan D'aerthe]], and others, making it impossible for him to get out of Waterdeep as planned.<ref name="WDH5e-p43-44" /> For the time being, Dalakhar decided to entrust the stone to some adventurers who had saved Renaer.<ref name="WDH5e-p46" /> However, Dalakhar was ambushed by some Zhentarim led by [[Urstul Floxin]] and hit by a ''[[fireball]]'' launched by the [[nimblewright]] of [[Gralhund|House Gralhund]], killing the rock gnome along with ten more people.<ref name="WDH5e-p43-44">{{Cite book/Waterdeep: Dragon Heist|43-44}}</ref>
+
+==Personality==
+Dalakhar was very loyal to his master, believing Dagult to be the rightful [[Open Lord]] of Waterdeep.<ref name="WDH5e-p46">{{Cite book/Waterdeep: Dragon Heist|46}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video game refs = ''[[Idle Champions of the Forgotten Realms]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{refs}}
+[[Category:Rock gnomes]]
+[[Category:Gnomes]]
+[[Category:Thieves]]
+[[Category:Spies]]
+[[Category:Members of New Neverwinter]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Cult of the Dragon
+
+{{otheruses4|the semi-religious organization|the 2nd edition sourcebook|Cult of the Dragon (sourcebook)}}
+{{Organization
+| image          = <gallery>
+Cult of the Dragon Symbol - Heroes of Faerûn.png|5.5e
+Cult of the Dragon 4e.jpg|4e
+Cult_of_the_Dragon.jpg|3e
+Cult of the Dragon 2e.jpg|2e
+</gallery>
+| caption2       = Symbol of the Cult of the Dragon.
+| name           = Cult of the Dragon
+| aliases        = Wearers of Purple<ref name="LoD-p19" /><br/>Followers of the Scaly Way<ref name="DoF-p52" /><br/>Dragon Cult<ref name="DoF-p52" />
+| type           = Secret society,<ref name="DoF-p52" /><ref name="RtR-p60" /><ref name="FRCS-p272" /> [[beast cult]],<ref name="RtR-p60" /> magical cabal, mercantile and criminal organization<ref name="FRCG-p246" />
+| base           = [[Well of Dragons]], {{former}} None<ref name="LoD-p19" />
+| leadertitle    = 
+| leader         = {{split table|[[Sammaster]]|[[902 DR|902]]–[[916 DR]]|[[Algashon Nathaire]]|916–[[1018 DR]]|[[Tuelhalva Drakewings]]|972–1018 DR|Sammaster|[[1373 DR]]|[[The Triumvirate]]|[[1374 DR]]–?|[[Severin Silrajin]]|1480s [[DR]]<ref name="HotDQ-p5" />}}
+| symbol         = A black flame with eyes burning above a dragon's claw<ref name="LoD-p19" /><ref name="FRCS-p272" /><ref name="FRCS2e-Cards" />
+| favored deity  = No official deity;<ref name="LoD-p19" /> [[Bane]], [[Shar]], [[Talos]], [[Talona]], [[Velsharoon]],<ref name="LoD-p19" /><ref name="FRCS-p272" /> [[Cyric]], [[Gargauth]], [[Malar]],<ref name="LoD-p19" /><ref name="FRCS-p272" /> [[Tiamat]]<ref name="LoD-p19" /><ref name="FRCS-p272" /><ref name="HotDQ-p5"/>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p19" /><ref name="DoF-p52" /><ref name="FRCS-p272" /><ref name="FRCG-p246" /><ref name="DMSotR-p38" /><ref name="RtR-p25" />
+| members        = Almost 1,000 c. 1372 DR<ref name="LoD-p19" /><br/>5,730 c. 1374 DR<ref name="DoF-p52" />
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|on|off|on|on}}<ref name="LoD-p19" /><br/>{{alignment grid|off|off|off|off|off|off|on|on|on}}<ref name="DoF-p52" />
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = Many evil [[dragons]]<ref name="LoD-p21">{{Cite book/Lords of Darkness|21}}</ref>
+| enemies        = [[Harpers]];<ref name="FRCS-p272" /><ref name="LoD-p22">{{Cite book/Lords of Darkness|22}}</ref> churches of [[Mystra]], [[Lathander]], [[Torm]], and [[Tyr]]<ref name="FRCS-p272" />
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Cult of the Dragon
+}}
+The '''Cult of the Dragon''', also called the '''Dragon Cult''' and the '''Followers of the Scaly Way'''<ref name="DoF-p52" /> and, by the early 1370s DR, the '''Wearers of Purple''', was a semi-religious [[evil]] organization venerating [[undead]] [[dragons]], or [[dracoliches]], founded by [[Sammaster]], a powerful [[wizard]] and former [[Chosen of Mystra]] like [[Elminster]] and [[Khelben "Blackstaff" Arunsun]]. Their belief was that dracoliches were destined to one day rule [[Faerûn]] and beyond and that it was their purpose to help this come to pass.<ref name="LoD-p19">{{Cite book/Lords of Darkness|4,18-19}}</ref><ref name="DoF-p52">{{Cite book/Dragons of Faerûn|52-54}}</ref><ref name="FRCS-p272">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|272-273}}</ref><ref name="FRCG-p246">{{Cite book/Forgotten Realms Campaign Guide|246-247}}</ref><ref name="HotDQ-p5">{{Cite book/Hoard of the Dragon Queen|5}}</ref><ref name="DMSotR-p38">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|38}}</ref><ref name="RtR-p25">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|25-26}}</ref><ref name="FRCG-p155" /><ref name="TRoT-p8">{{Cite book/The Rise of Tiamat|8-9}}</ref> They were considered to be a secret society<ref name="DoF-p52" /><ref name="RtR-p60" /><ref name="FRCS-p272" /> or a [[beast cult]], albeit an overly large and powerful one,<ref name="RtR-p60">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|60}}</ref><ref name="FRCS-p272" /><ref name="CotR-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16}}</ref> and as a mercantile and criminal enterprise.<ref name="FRCG-p246" />
+{{TOC limit|3}}
+==Dogma==
+===Sammaster's Teachings===
+{{fq
+| text   = And naught will be left save shattered thrones with no rulers. But the dead dragons shall rule the world entire, and…
+| source = Sammaster's translation of Maglas's ''Chronicle of Years to Come''<ref name="CotD-p1">{{Cite boo
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords' Alliance
+
+{{Otheruses4|the coalition of political forces on the [[Sword Coast]]|other groups with a similar name|Council of Lords (disambiguation)}}
+{{Organization
+| image          = <gallery>
+Lords' Alliance 5e.png|c. 1480 DR
+Lords_Alliance.jpg|1370 DR
+</gallery>
+| caption2       = ''Various symbols of the Lords' Alliance.''
+| name           = Lords' Alliance
+| aliases        = Council of Lords
+| base           = 
+| leader         = {{Split table|Lord [[Piergeiron the Paladinson|Piergeiron of Waterdeep]]||As of [[1358 DR]]<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref>||Lord Protector [[Dagult Neverember]]||Around [[1467 DR]]<ref name="NCS-pp86-88">{{Cite book/Neverwinter Campaign Setting|86-88}}</ref>-[[1488 DR]]||Open Lord [[Laeral Silverhand]]||1488 DR-present}}
+| symbol         = 
+| favored weapon = 
+| basicrefs      = <ref name="FRCS3e-pp275-276" /><ref name="RoT-pp13-14" />
+| domains        =
+| formed         = [[1325 DR]]
+| disbanded      = 
+| members        = 
+| alignment      = [[Lawful good]]
+| races          = 
+| allegiances    = The [[Harpers]], the [[Emerald Enclave]], the [[Order of the Gauntlet]], the [[Zhentarim]] (as of 1488 DR)<ref name="RoT-pp13-14" />
+| enemies        = The Zhentarim (in the 14{{Th}} century), [[Luskan]], [[Shadow Thieves of Amn]],<ref name="SF-p9" /> [[Calimshan]]<ref name="SF-p9" /> the [[church of Bane]]<ref name="LoD-p119">{{Cite book/Lords of Darkness|119}}</ref>
+| relrefs        =
+| showmembers    = yes
+| orgname        = the Lords' Alliance
+}}
+The '''Lords' Alliance''', also known as the '''Council of Lords''', was a partnership of merchant cities founded in the early 14{{th}} century [[DR]].<ref name="LEoF-p141">{{Cite book/Lost Empires of Faerûn|141}}</ref><ref name="GHotR-p137">{{Cite book/The Grand History of the Realms|137}}</ref> Its members were from the [[Sword Coast]], [[the North]] and [[Western Heartlands]],<ref name="OOtA-p128">{{Cite book/Out of the Abyss|128}}</ref> including [[Waterdeep]], [[Silverymoon]], [[Baldur's Gate]], and [[Neverwinter]], as well as other free cities and towns in the region, which made up the bulk of the organization.<ref name="RoT-pp13-14" /> It was formed to oppose the growing influence of the [[Zhentarim|Black Network]] in the North, the [[Shadow Thieves of Amn]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /><ref name="CoV-p102">{{Cite book/Champions of Valor|102}}</ref> rampaging hordes of [[orc]]s, and [[Northlander]] raiders.<ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref>
+
+{{Quote|For a century and a half, and more, the Lords' Alliance has stood as the most important and influential group in the North. Its power has kept towns safe from the predations of larger powers, has kept the ambitions of Luskan in check, and has taught the rulers of many cities that it is better to cooperate, even for a time, then to merely shut one's doors and allow the storms to rage outside.|[[Andew Cururen]], a Lords' Alliance agent of note.<ref name="SCAG-p43" />}}
+
+==Organization==
+Depending on who was asked, the Lords' Alliance was considered either a strong coalition,<ref name="OOtA-p128" /> or unsteady pact of political powers. While the Alliance was said by some to be a collective of aggressive and self-serving figureheads,<ref name="PotA-p15-16">{{Cite book/Princes of the Apocalypse|15-16}}</ref><ref name="SKT-p12">{{Cite book/Storm King's Thunder|12}}</ref> others insisted they were among the most secure governing bodies in the west.<ref name="OOtA-p128" /> The truth, as it usually was, lay somewhere between the two extremes. While the members often held opposing views and held interests that conflicted with their peers, these rivalries were set aside when true danger emerged to threaten their collective safety and prosperity.<ref name="RoT-pp13-14">{{Cite book/The Rise of Tiamat|13-14}}</ref> The true strength of the alliance, it was said, manifested when its members banded together on collaborative endeavors.<ref name="OOtA-p128" /> 
+
+While some of these cities and city-states held more influence than others,<ref name="RoT-pp13-14" /> they aligned their goals for the greater good and prosperity of the whole alliance.<ref name="OOtA-p128" /> Collectively they believed in the preservation of civilization for the better of their people.<ref name="SCAG-p43" />
+
+The Lords' Alliance had the following ranks from lowest to highest: Cloak, Redknife, Stingblade, Warduke, and Lioncrown.<ref name="DMG-2014-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+The alliance's emblem was a golden crown set over a field of red.<ref name="KGV.P13">{{Cite book/Keys from the Golden Vault/Prisoner 13|?}}</ref>
+
+==Alliance Members and Leaders==
+These were the member states and their leaders as of [[1489 DR]].<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref><ref name="SCAG-p15">{{Cite book/Sword Coast Adventurer's Guide|15}}</ref>
+
+* [[Amphail]]: Lord [[Dauner Ilzimmer]]
+* [[Baldur's Gat
+
+=== LINKED WIKI PAGE (first 5000 chars): Harpers
+
+{{Organization
+| image               = <gallery>
+Harpers 5e.png|5e 
+Harpers4e.jpg|4e
+Harpers_symbol.jpg|3e
+HarpersSymbol.jpg|2e
+</gallery>
+| caption2            = Symbol of the Harpers.
+| name                = The Harpers
+| aliases             = Harpers at Twilight<ref name="CotH-p20"/><br />The Harpers in the Shadows<br />The Order of the Silver Moon and Harp<br />Those Who Harp<br />Harpers to the North
+| type                = Spy network
+| base                = [[Moongleam Tower]], [[Everlund]]<ref name="FRCG-p146">{{Cite book/Forgotten Realms Campaign Guide|146}}</ref><br /> [[Silverymoon]]<ref name="SF-p8">{{Cite book/The Savage Frontier|8}}</ref><ref name="SCAG-p54">{{Cite book/Sword Coast Adventurer's Guide|54}}</ref><br />[[Elminster]]'s house, [[Shadowdale]]<br />{{Former}}<br />[[Twilight Hall]], [[Berdusk]]<ref name="CotH-p85-86" /><ref name="FRA-p78" /><br />[[Harpers' Hold]], [[Waterdeep]]<ref name="CS.W-p73"/><ref name="DrM211.ISSDB-p29-34" />
+| leader              = The [[High Harpers]]
+| symbol              = Silver harp and crescent moon over black or royal blue
+| favored deity       = [[Azuth]], [[Deneir]], [[Eldath]], [[Lliira]], [[Mielikki]], [[Milil]], [[Mystra (Midnight)|Mystra]], [[Oghma]], [[Selûne]], [[Silvanus]], [[Tymora]], [[Seldarine]]
+| favored weapon      = 
+| domains             = 
+| basicrefs           = <ref name="CotH-p3-6" /><ref name="CotH-p12-13" /><ref name="FRCS3e-p274" /><ref name=SCAG-p123-124 />
+| formed              = [[324 DR]]
+| disbanded           = 
+| event1              = [[Harpers#Second Reformation|Second Reformation]]
+| date1               = [[1022 DR]]
+| event2              = [[Harpstar Wars]]
+| date2               = [[1182 DR]]
+| event3              = [[Harper Schism]]
+| date3               = [[1370 DR]]
+| event4              = [[Harpers#Fourth Reformation|Harpers' Revitalization]]
+| date4               = [[1479 DR]]
+| leader1             = [[Dathlue Mistwinter]]
+| leaderyear1         = 324 
+| leader2             = [[Elminster]]
+| leaderyear2         = 1022
+| leader3             = [[Storm Silverhand]]/[[Cylyria Dragonbreast]]
+| leaderyear3         = 1321
+| leader4             = [[Eaerlraun Shadowlyn]]
+| leaderyear4         = 1419
+| leader5             = Storm Silverhand
+| leaderyear5         = 1479
+| leadertable         = 
+| histrefs            = <ref name="FRCS3e-p269-270" /><ref name="CotH-p30"/><ref name=GHR-p150 /><ref name="CotD-p56">{{Cite book/Cult of the Dragon|56}}</ref><ref name="EE-p176" /><br /><ref name=GHR-p137 /><ref name="FRCG-p146" />
+| members             = 
+| memberstable        = 
+| memtableheader      = 
+| alignment           = {{Alignment grid|on|on|on|off|off|off|off|off|off}}
+| races               = Predominantly [[human]]s, [[elves]], [[half-elves]]
+| memrefs             = <ref name="CotH-p3-6" /><ref name="WPR-p9-13" /><ref name="DrM367-p7">{{Cite dragon/367/Epic Faerûn|7}}</ref>
+| allegiances         = [[Moonstars]], [[War Wizards]] of [[Cormyr]]<ref name="FRA-p92" />
+| enemies             = The [[church of Bane]], [[Cult of the Dragon]], [[Iron Throne]], groups of [[goblinoid]]s and [[orcs]], the [[malaugrym]], political powers in [[Amn]] and [[Calimshan]], [[Red Wizards]], [[Shadovar]], [[Zhentarim]]
+| relrefs             = <ref name="FRCG-p146"/><ref name="SF-p8" /><ref name="FRCS3e-p274" /><ref name="FRCS-p46-47" /><ref name="CotH-p118-120" /><ref name="FRA-p123-124" />
+| showmembers         = yes
+| orgname             = the Harpers
+}}
+The '''Harpers''', or '''Those Who Harp''', were a semi-secret organization dedicated to preserving historical lore, maintaining the balance between nature and civilization,<ref name="CotH-p3-6">{{Cite book/The Code of the Harpers|3-6}}</ref><ref name="FRA-p123-124" /><ref name="PGtF-p58">{{Cite book/Player's Guide to Faerûn|58}}</ref> and defending the innocent from the forces of [[evil]] across the Realms.<ref name=SCAG-p123-124 /><ref name="FRCS-p46-47" /><ref name="CoV-p101">{{Cite book/Champions of Valor|101}}</ref><ref name="CoS.W-p73">{{Cite book/City of Splendors: Waterdeep|73}}</ref> The Harpers involved themselves in many world-changing events that helped shape the course of [[Faerûn]]'s destiny.<ref name="SCAG-p147">{{Cite book/Sword Coast Adventurer's Guide|147}}</ref> Their power and influence waxed and waned over the years, as their order underwent a series of collapses and reformations.<ref name="RTR-p25-26">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|25-26}}</ref><ref name="DrM430.HW-p33-38" /> Their reputation amongst the people of the Realms varied just as wildly. They were often seen as wide-eyed idealists, but also just as often seen as insufferable meddlers who could not keep their business to themselves.<ref name="FRCS3e-p274" /><ref name="CotH-p7" />
+{{Quote|We are the Harpers. We are the Lord Protectors of the Realms, Fools, all―but the Gods look down and smile glory upon us. Weep for us, watch for us, and hope in us. We shall
+

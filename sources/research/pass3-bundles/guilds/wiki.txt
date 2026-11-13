@@ -1,0 +1,1391 @@
+=== WIKI PAGE: Guilds of Waterdeep
+
+The '''guilds''' of [[Waterdeep]] were organizations dedicated to ensuring quality work for Waterdhavians across the various trades<ref name="WDH5e-p13-14">{{Cite book/Waterdeep: Dragon Heist|13-14}}</ref><ref name="WDH5e-p172-173">{{Cite book/Waterdeep: Dragon Heist|172-173}}</ref> and good business practices.<ref name="CoS.AGttC-p4">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|4}}</ref> Since their inception in the 13{{th}} century [[DR]], the guilds had been a mainstay facet of the city.<ref name="CoS-p37">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|37}}</ref><ref name="CoS.W-p51">{{Cite book/City of Splendors: Waterdeep|51}}</ref> They had major influence over the city at large<ref name="CoS-p37" /> to widely varying degrees, though sans official authority, and dominated all avenues of economic activity. Through their deftness and stewardship, the guilds helped the City of Splendors grow into a mercantile center of the [[Sword Coast]].<ref name="CoS-p37" /><ref name="CoS.W-p51" /> As of {{Yearlink|1492}}, there was a total of over forty guilds in Waterdeep,<ref name="WDH5e-p13-14" /><ref name="WDH5e-p172-173" />{{Waterdeep-time}} a profusion that was infamous across the wider Realms.<ref name="EGP-p109">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|109}}</ref>
+
+{{Quote|At the risk of using a most-tired cliche, money is the heartblood of Waterdeep. [[Coin]], commerce, trade–call it what you will, but it is what drives this great city. Granted, the Lords rule it wisely and well, but the Guilds constantly believe that, since they control the majority of the city's lifeblood, they should control the city. Methinks they should be reminded of the houses [[Zoar]] and [[Gildeggh]].|[[Mirt the Moneylender]], ''circa'' [[1345 DR]].<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|31}}</ref>}}
+
+==Terminology==
+The term "guild" was traditionally used in Waterdeep to refer to associations of skilled craftsmen and merchants of a specific trade, which were officially recognized by and registered with the Waterdhavian government,<ref name="WDH5e-p13-14" /><ref name="WDH5e-p172-173" /><ref name="CoS-p37" /><ref name="CoS.W-p51" /><ref name="PoF-p74">{{Cite book/Power of Faerun|74}}</ref> and who as a collective controlled 80% or more of the economic activity within their sphere of trade.<ref name="PoF-p74" /> There was a dedicated guild for almost every sort of trade within the city,<ref name="WDH5e-p13-14" /> save for sages, [[thieves]],<ref>{{Cite book/Waterdeep and the North|37}}</ref><ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|59,69}}</ref> [[bounty hunter]]s (thanks to push back from the guilds),<ref>{{cite web| url = https://web.archive.org/web/20221127165352/https://twitter.com/TheEdVerse/status/1040032336237219841| title = No Bounty Hunter Guilds in Waterdeep | accessdate = 12-04-2025| date = 09-12-2009}}</ref> and legal advocates.<ref name="WDH5e-p172-173" /> However, more broadly speaking, one could classify almost any organization or group within the city as being a type of "guild".<ref name="CoS.W-p22">{{Cite book/City of Splendors: Waterdeep|22}}</ref><ref>{{Cite adventurers league/Chaos in the City of Splendors|3}}</ref><ref group="note" name="guild1">It must be noted that the more broad usage of the term "guild" in ''[[Chaos in the City of Splendors]]'' and ''[[City of Splendors: Waterdeep]]'' to refer to any organization or group within Waterdeep fundamentally used in an out-of-game context, not an in-universe context. Thus, while this article lists groups like the Harpers and institutions like Blackstaff Tower as "guilds" for the sake of completion, one should keep in mind that they are not actually thought of as "guilds" by Waterdhavians within the setting.</ref>
+
+==Governance==
+In order for a new guild to be formed in the city, an application had to be submitted to and approved by the [[Lords of Waterdeep]]. However, such applications were seldom recognized,<ref name="CoS-p37" /><ref name="CoS-p38" /> just as it was difficult for new noble houses to form, as few of those in power liked to upset the longheld status quo of things.<ref>{{cite web| url = https://web.archive.org/web/20221127165347/https://twitter.com/TheEdVerse/status/1040032635874172929| title = Difficulty Creating New Guilds | accessdate = 12-04-2025| date = 09-12-2009}}</ref> Applications for guilds were especially rejected if it would mean creating a rival within a trade that was already represented by an existing guild. To allow the creation of such would cause unnecessary competition between guilds.<ref name="CoS-p37" /><ref name="CoS-p38" />
+
+By the [[laws of Waterdeep]] it was illegal for guilds to create monopolies, restricting trade to only their members. Both the Lords of Waterdeep and the [[Black Robes]] were quite strict on this matter,<ref name="CoS.W-p51" /><ref name="WaTN-p19">{{Cite book/Waterdeep and the North|19}}</ref><ref name="CoS-p38">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|38}}</ref> determined to ensure the rights of merchants and tradesfolk to operate outside the strictures of the guilds.<ref name="CoS.W-p51" /> The guilds had no legal recourse to interfere with those who refused to join them.<ref name="WDH5e-p172-173" /> In lieu of this, the guilds relied upon their strength of numbers to outperform these independents,<ref name="CoS-p38" /> though would subtly seek to drive independents out of business.<ref name="WDH5e-p13-14"/> Spreading the word of their lack of membership and turning away their [[coin]]s when approached for goods.<ref name="WDH5e-p172-173" />
+===Law===
+Guilds enforced their own Guild Law which governed the conduct of their trade.<ref name="WDH5e-p172-173" /><ref name="CoS.W-p51" /><ref name="WaTN-p19" /><ref name="CoS-p38" /> Though distinct from the laws of the city<ref name="WDH5e-p172-173" /><ref name="CoS.W-p51" /><ref name="WaTN-p19" /><ref name="CoS-p38" /> and arguably no less important, helping as they did to maintain a fair and open economy in the city,<ref name="CoS.AGttC-p4" /> Guild Law could under no circumstances conflict with or override civic law.<ref name="CoS.W-p51" /><ref name="WaTN-p19" /><ref name="CoS-p38" />
+
+The [[Lords of Waterdeep|Open Lord of Waterdeep]] held the title of "Overmaster of the Guilds".<ref name="WaTN-p15">{{Cite book/Waterdeep and the North|15}}</ref><ref name="CoS.CG-p70">{{Cite book/City of Splendors (boxed set)/Campaign Guide|70}}</ref><ref>{{Cite book/Waterdeep (1989)|295|16}}</ref> This title denoted the Open Lord as the final arbiter and counselor for the guilds,<ref name="CoS.AGttC-p4" /> invested with the authority to override any Guild Law.<ref name="WaTN-p15" /><ref name="CoS.CG-p70" />
+
+The guilds of Waterdeep took their laws and traditions quite seriously, up to the point that they would carry out trials and punishments for those who flouted them. For example, a baker who strayed from their guild's standardized shape for [[bread]] could find themselves punished by being drenched in water and coated in their own [[flour]].<ref name="WDH5e-p172-173" />
+
+By the late 15{{th}} century DR,<ref name="WDH5e-p172-173" /> though the guilds had long been bereft of palpable authority in the city,<ref name="CoS-p37" /><ref name="CoS.W-p51" /> the guilds had begun exerting their influence upon citizenry by making them subject to some Guild Laws or traditions, such as the harassing of guild members and attempting to bypass working with the guilds entirely. For example, someone caught heckling a member of the [[Jesters' Guild]] might find themselves on the receiving end of public jeering by no less than four of their guildmates for a period of four days. Or a ship, failing to employ the [[Guild of Watermen]] in unloading its cargo, might find that cargo stolen or tossed into [[Deepwater Harbor]].<ref name="WDH5e-p172-173" />
+
+Some guild codes were even inter-factional, intertwining the necessity for citizenry seeking to get some work done to consult one or more additional guilds in the process. Outsiders seeking to understand the ins-and-outs of Guild Law could either consult a local legal advocate, a senior guild member, or just about anyone who was on duty at a given guild's headquarters.<ref name="WDH5e-p172-173" />
+
+===Membership Fees===
+Every guild within the city charged an entrance fee to new members, which varied widely in cost from guild to guild.<ref name="CoS.WWiW-p38-57">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|38-57}}</ref> They also charged membership fee. The price of guild fees, as well as whether they were paid monthly or yearly, likewise varied from guild to guild.<ref name="WDH5e-p13-14"/><ref name="CoS.WWiW-p38-57" /><ref name="WAT">{{Cite web/theedverse/2019-01-11 - Waterdeep's Annual Taxes}}</ref> In the case of those guilds who charged annual dues, they uniformly had payments made on [[Tarsakh 10]].<ref name="WDH5e-p185" /> Failure to pay one's guild dues could be grounds for expulsion.<ref name="WDH5e-p13-14"/>
+
+Guild fees had to be paid in the [[Coinage in Waterdeep|minted coinage]] of Waterdeep. However, it was also considered acceptable for members to pay their dues with coins from one of the member settlements of the [[Lords' Alliance]].<ref name="WDH5e-p168">{{Cite book/Waterdeep: Dragon Heist|168}}</ref>
+
+A segment of these fees, as well as the revenues a guild hall generated, were used by the guilds to pay for their members' daily market stall fees. In [[1368 DR]], this fee amounted to one [[copper piece]].<ref name="CoS-p32">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|32}}</ref> They also went towards paying an annual "head tax" to the city government, which depended upon the number of members a guild had.<ref name="WAT" />
+
+==Organization==
+The guilds of the city had varying ranks and titles, though their hierarchy typically followed a certain pattern. At the top was the guildmaster. Below them was a Council or group of Elders, usually made up of a guild's senior members, and this group had a say in governing the matters of the guild. Below them was a Speaker, a public spokesperson and contact for the guild.<ref name="CoS-p37" /><ref name="CoS.W-p51" /><ref name="WatN-p35-36">{{Cite book/Waterdeep and the North|35-36}}</ref> Not all guilds had a Speaker in their ranks, in which case the role was taken up by the guildmaster.<ref name="WatN-p35-36" /> Below the rank of Speaker lay the average guild member and beneath them the trainees. The term used for trainees, as well as the amount of power afforded to them, varied from guild to guild. Typically they were referred to as either Apprentices, Prentices, or Novices.<ref name="CoS-p37" /><ref name="CoS.W-p51" /><ref name="WatN-p35-36" />
+
+Guildmasters had the authority to close their guilds off for a time to new admissions<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|51-52}}</ref> and to expel members for any number of reasons.<ref name="WDH5e-p13-14"/>
+
+Without exception, the Speaker and senior members of a guild were all literate, capable of reading and writing. Such was necessary in a city of active commerce, contracts, and negotiations.<ref name="CoS-p38" /><ref name="WatN-p35-36" /> While it was relatively easy to locate any given guild's guild hall, unless one was a Lord or notable noble they would find it difficult to obtain an audience with the guild master. Those seeking to do business would have to work through several channels,<ref name="CoS-p38" /> namely a guild's Speaker<ref name="CoS-p37" /><ref name="WatN-p35-36" /> or one of the city's many [[Reaching Hand]]s.<ref>{{Cite web/Forging the Realms/So Many Reaching Hands}}</ref>
+
+Meetings among guild members were typically carried out within a guild's headquarters, though some of the larger guilds were often known to rent out the [[Cynosure (building)|Cynosure]] for their meetings.<ref name="CoS-p37" />
+
+Most individuals, save for guildmasters, could hold standing in more than one guild.<ref>{{Cite book/The City of Splendors: A Waterdeep Novel/Hardcover|315}}</ref>
+===Landmarks & Properties===
+All the guilds of the city had a headquarters of sorts, known as a "guild hall".<ref name="CoS-p37" /><ref name="CoS.W-p51" /><ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|40}}</ref> These buildings acted as meeting places for the guild's members, a central clearinghouse for all guild business, and housed the offices of a guild's officers. They also acted as a showcase of a guild's given trade and goods, as well as often served as businesses<ref name="CoS-p37" /><ref name="CoS.W-p51" /> whose profits benefited the reigning guildmaster.<ref name="CoS-p37" /> Beyond their headquarters, many guilds also owned dedicated warehouses<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|45,51,55}}</ref><ref name="CoS-p49">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|49}}</ref> for storing the materials of their trade.<ref name="CoS-p49" />
+
+Visiting non-guild members were barred from wandering the premises. Instead they would typically be sat down in one of a small number of meeting rooms.<ref name="VGtW-p5">{{Cite book/Volo's Guide to Waterdeep|5}}</ref>
+
+In the 14{{th}} century DR, having a trained [[watchspider]] in the cellar was fairly common among Waterdhavian guilds,<ref>{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|44}}</ref><ref name="TRoU-p28">{{Cite book/The Ruins of Undermountain/Undermountain Adventures|28}}</ref> as they were for guilds in many other cities of the Sword Coast.<ref name="TRoU-p28" />
+
+Guild headquarters were scattered amongst the various districts of Waterdeep, though above all others the one with the most was the ever mercantile [[Waterdeep/Trades Ward|Trades Ward]].<ref name="CoS.AGttC-p10">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|10}}</ref><ref name="FRCS2e-p107">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|107}}</ref><ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref> It was home to thirteen guild halls,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|50-51}}</ref> or over 40% of the total guilds in the city,<ref name="CoS.AGttC-p10" /> often based near businesses that the guilds commonly worked for or owned.<ref name="FRCS3e-p179" /> They were oft premiere attractions within the Trades Ward and landmarks in their own right, with many having large replicas of their trade goods aside their building or hired [[Broadsheet#Broadcryers|broadcryer]]s to advertise their wares.<ref name="CoS.AGttC-p10" />
+
+Within the [[City of the Dead]], the cemetery of Waterdeep, the city afforded all of the guilds a dedicated burial space that was referred to as [[Guildbones]]. Many guildmasters would buy themselves and their families statue-guarded vaults within its forehalls.<ref name="TCoS.AWN-p331">{{Cite book/The City of Splendors: A Waterdeep Novel/MMP|331|19}}</ref>
+
+===Livery===
+Nearly every guild within the City of Splendors had a distinct livery, a uniform, that denoted an individual's membership within a given guild.<ref name="WatN-p34">{{Cite book/Waterdeep and the North|34}}</ref><ref name="CoS-p3">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|3}}</ref><ref name="CoS.W-p14">{{Cite book/City of Splendors: Waterdeep|14}}</ref> The exceptions to this were the [[Fellowship of Innkeepers]]<ref name="WaTN-p39">{{Cite book/Waterdeep and the North|39}}</ref><ref name="CoS.WWiW-p42">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|42}}</ref> and the [[Saddlers' and Harness-makers' Guild]].<ref name="WaTN-p43">{{Cite book/Waterdeep and the North|43}}</ref><ref name="CoS.WWiW-p53">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|53}}</ref> The type of apparel and the complexity of its ornamentation varied widely across the city's guilds. Garment types typically spanned the likes of caps and hats, armbands, [[cloak]]s, jackets, [[robe]]s, [[sash]]es, [[surcoat]]s, and [[tunic]]s.<ref name="CoS.WWiW-p38-57" /> The cost of a uniform, plus materials, usually around three [[gold piece]]s.<ref name="WatN-p31">{{Cite book/Waterdeep and the North|31}}</ref><ref name="CoS-p35">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|35}}</ref>
+
+By the Laws of Waterdeep, it was illegal for anyone outside of a guild to wear its livery. Guild livery was typically only worn by guildsmen during certain occasions. These included when being out on official guild businesses, during holidays, when engaging in business ventures outside of the city<ref name="WatN-p34" /><ref name="CoS-p3" /><ref name="CoS.W-p14" /> or diplomatic business, when appearing before the [[Lords' Court]] on official business,<ref name="WatN-p34" /><ref name="CoS-p3" /> when appearing before one of the city's Black Robes, and during any private Guild functions that enforced its adornment through their Guild Law,<ref name="WatN-p34" /><ref name="CoS-p3" /> such as voting meetings.<ref name="WatN-p34" /><ref name="CoS-p3" /><ref name="CoS.W-p14" />
+
+==Activities==
+===Education===
+Most of the larger guilds of the city were able to arrange schooling for any interested guild members and apprentices.<ref>{{Cite web/theedverse/2022-01-04 - Does Waterdeep Have Mundane Universities?}}</ref> Apprentices worked under a shared guild-sponsored tutor, within a small class of fellow guild members,<ref>{{Cite archive/Greenwood's Grotto/2024-09-03/Schooling in Waterdeep}}</ref><ref name="CEiW">{{Cite web/theedverse/2022-11-19 - Child Education in Waterdeep}}</ref> Such tutoring sessions were especially open to the children of active guild members.<ref name="CEiW">{{Cite web/theedverse/2022-11-19 - Child Education in Waterdeep}}</ref>
+===Festivals and Holidays===
+Of the many festivals and holidays that were celebrated in the City of Splendors, there were three in particular that most concerned the city's guilds.<ref name="WDH5e-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref> Two of these, [[Guildsmeet]] and [[Leiruin]], were originally their own seperate holidays on [[Tarsakh 7]] and Tarsakh 10 respectively, but they later became assimilated into the [[tenday]]-spanning festival of [[Waukeentide]].<ref name="WDH5e-p185" /><ref name="CoS.AGttC-p29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref>
+
+On Guildsmeet, the guildmasters of the city would gather their members into the guild halls to announce new policies and celebrate the conclusion of the year's business.<ref name="WDH5e-p185" /> These seperate celebrations would eventually culminate in one big gala festival and dance, sponsored by several guilds. The second holiday, Leiruin, was a time for renewals. In guilds which had annual fees, members paid their dues this day, meanwhile guildmasters assembled within the Lords' Court alongside the Lords of Waterdeep to renew their charters.<ref name="WDH5e-p185" /><ref name="CoS.AGttC-p29" />
+
+The third major holiday to concern the city's guilds was that of [[Guildhall Day]] on [[Kythorn 11]]. All guilds would close up their businesses on this day and set up trade fairs, showing off the the latest and greatest of their wares. Beyond just extolling the quality of both their members' wares and services, many guilds used this day as an opportunity to try recruiting new members.<ref name="WDH5e-p185" />
+===Mercantilism===
+Alongside the [[nobility of Waterdeep]], the guilds collectively ruled the city's markets.<ref>{{Cite book/Power of Faerun|154}}</ref> Guilds set, or recommended, the prices of many goods and services that were available in Waterdeep.<ref name="WatN-p19">{{Cite book/Waterdeep and the North|19}}</ref><ref name="CoS-p33">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|33}}</ref> They even had guild-wide rates of currency exchange.<ref name="WDH5e-p169">{{Cite book/Waterdeep: Dragon Heist|169}}</ref>
+
+Independant merchants and tradesfolk, unbidden by these standards and oft competing with the guilds, would seek to undermine them by charging 5-10% less for their own services and wares. If a product was in high enough demand though, they would simply stick by the prices recommended by the guilds. Additionally, in contrast to independant shopkeepers, guilded ones rarely ever engaged in haggling. They could be persuaded to lower a cost as much as 10%, but no further, and if pressed would plainly explain to their client, "Guild law, friend."<ref name="WatN-p19" /><ref name="CoS-p33" />
+
+Many an individual guildsman, especially those of the city's more affluent guilds, were known to spend their wealth through investments both in<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|37,43,51}}</ref><ref name="MPM">{{Cite web/theedverse/2019-04-21 - The Market for Powerful Magic Items in Waterdeep}}</ref> and outside the City of Splendors,<ref name="EGP-p109" /> the latter being one of many facets to the scandalous notoriety that Waterdeeps' guilds held across the wider Realms.<ref name="EGP-p109" /> Some even did so through a guild investment plan.<ref name="CoS.WWiW-p92">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|92}}</ref>
+
+Occasionally guilds would invest in purchasing uncommon and powerful [[magical item]]s, regardless of their relation to a guild's field of trade, for the purpose of auctioning them off. These were either carried out through a third party, if anonymity was a concern, or in-house so as to sidestep paying a cut of the profits to an auctioneer. Whichever method was chosen, a guild would hire a [[Watchful Order of Magists and Protectors|Watchful Order]] member to provide security, a service that they always charged fifty gold pieces for.<ref name="MPM" />
+
+Beyond their legal investment practices, Waterdhavian guilds were also infamous across the wider Realms for their sideline dealings outside of the city.<ref name="EGP-p109" />
+
+==Relationships==
+Across the wider Realms, the guilds of Waterdeep were infamous for their incessant squabbles.<ref name="EGP-p109" /> They were rarely, if ever, a united front. Though guilds were constantly allying themselves with others, as well as prominent noble houses and established [[coster|trading costers]], they were just as often striving against such factions.<ref name="CoS.W-p51" /> Competition especially emerged between guilds when the fields of trade they held jurisdiction over overlapped,<ref name="CoS-p37" /> though the Lords of Waterdeep preferred internal competition within a guild over the guilds competing between themselves.<ref name="CoS-p37" /><ref name="CoS.W-p51" />
+
+In terms of organizations with more wider reach, the [[Zhentarim]] were making efforts to forge alliances with the city's guilds in the 15{{th}} century DR. And many guildmasters were supportive of the [[Harpers]].<ref>{{Cite book/Waterdeep: Dragon Heist|16-17}}</ref>
+
+By far the most active interfactional rivalry, not just among the guilds but the City of Splendors as a whole, was that between the guilds and the Lords of Waterdeep.<ref name="CoS-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref> While by the late 14{{th}} century DR, the guilds usually left the politicking to the Lords, keeping their focus on commercial and professional enterprises,<ref name="FRCS3e-p178">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|178}}</ref> they were still said to be frequently at odds with them. They vied to exert their influence, but were always held in check by the Lords.<ref name="CoS-p37" /> However, some guilds allied with the Lords<ref name="CoS.W-p51" /> or worked more closely with them. Such guilds were those that provided essential city services integral to Waterdeep's welfare.<ref name="CoS-p37" /><ref name="CoS.W-p51" />
+
+The perceived importance of each guild, as well as the amount of influence that they had over the city, varied depending upon the trade they held providence over.<ref name="CoS-p37" /> Some, being specialty guilds, only wielded influence over the Waterdhavian market.<ref name="CoS-p37" /><ref name="CoS.W-p51" /> In many cases, the perceived power of a guild was deceptive&ndash;while one might look down upon a dungsweeper, for example, their guild going on strike could have serious repercussions.<ref name="CoS-p37" />
+
+==History==
+The year {{YearlinkConvert|216|NR}} marked the formation of guilds within the City of Splendors.<ref name="CS-p4">{{Cite book/City System|4}}</ref><ref name="CoS-CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref><ref name="FRCS2e-p104">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|104}}</ref><ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|16}}</ref><ref name="TN.GttSF-p9">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|9}}</ref><ref name="FRCS3e-p180">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|180}}</ref> The First Lord of Waterdeep, [[Ahghairon]], called together a meeting of "the Noble Ones,"<ref name="CoS-CG-p27-28">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27-28}}</ref><ref name="WaTN-p13">{{Cite book/Waterdeep and the North|13}}</ref> the city's merchant gentry.<ref name="CS-p4" /><ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /> At this assembly he suggested they form guilds to combat the theft and poor-quality work that was going on from sham craftsmen amongst their professions, a solution that Aghairon had heard was similarly being carried out in [[Lands of Intrigue|the far South]]. The Lord's suggestion met some resistance amongst the assembly, for some even outrage, but most came to see the advantages that such an arrangement would have in store. They also saw it as a preferable alternative to having less favorable arrangements forced upon them, especially if they were all free to set up these guilds as they pleased. And so from these merchant gentry came Waterdeep's first guildmasters.<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" />
+
+During the reign of Aghairon, almost all of Waterdeep's guilds were controlled by the city's [[Nobility of Waterdeep|noble houses]], who had grown from both the transplanted lesser nobility of [[Cormyr]] and [[Sembia]] and rich merchant families that had came from all across the Sword Coast. Both groups had been attracted to the City of Splendors due to the freedom its guilds were afforded and the seeming lack of earnest political plotting between the guilds and Lords. Amongst the growing influence and unified power of the nobility and the guilds, Ahghairon's Lords would serve as a balancing force.<ref name="CoS-p5-6">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|5-6}}</ref>
+
+By the time Aghairon passed away in {{YearlinkConvert|224|NR}},<ref name="CS-p4" /><ref name="CoS-CG-p30" /><ref name="FRCS3e-p180" /> many of the guildmasters of the city were the patriarchs of noble houses.<ref name="CoS-p5-6" /> And in the power vacuum created by the First Lord's death, the guildmasters tried to seize power for themselves,<ref name="CS-p4" /><ref name="CoS-CG-p30" /><ref name="FRCS2e-p104" /><ref name="CoS-p5-6" /> using the power and resources they had amassed to assert the rule they felt was rightfully theirs.<ref name="CoS-p5-6" /> This would unfold into a series of bloody conflicts that came to be named "the [[Guildwars]]"<ref name="CS-p4" /><ref name="FRCS2e-p104" /><ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10">{{Cite book/City of Splendors: Waterdeep|10}}</ref> by sages, though they were never so formal or drawn-out like a proper war.<ref name="WaTN-p13" />
+
+Beyond just fighting amongst themselves,<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /> with hired bands of [[mercenaries]]<ref name="CoSW-p10" /> in street fights and midnight attacks<ref name="WaTN-p13" /> by [[assassin]]s,<ref name="CoSW-p10" /> some saw this as an opportunity to eliminate the Lords of Waterdeep.<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /><ref name="CoS-p5-6" /> Prior to Aghairon's death, some professionally curious guildmasters had learned the secret identities of the Lords over the years.<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /> These guildmasters would task their loyal servants with hunting down assassinating the secretive Lords.<ref name="CoS-CG-p27-28" /><ref name="CoS-p5-6" /><ref name="WaTN-p13" />
+
+After two months of deliberation,<ref name="CoSW-p10" /> the city's guildmasters came to the conclusion that they should rule Waterdeep together and formed the [[Guild Council]].<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /> Many townsfolk and lesser nobility protested, saying that the Lords of Waterdeep rightfully ruled the city. The Guild Council argued back that the Lords had not been seen since Aghairon's death, keeping private their belief that all of them had been slain and unaware of the survival of [[Baeron]] and [[Shilarn]].<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /> Further self-interested infighting amongst the Guild Council would lead to the death of all but two of its members after six years,<ref name="CoS-CG-p27-28" /><ref name="CoS-p5-6" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /><ref name="CoS-CG-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref><ref group="note" name="reign">The ''[[City of Splendors (boxed set)|City of Splendors]]'' boxed set, "Who's Who in Waterdeep", claims on page 6 that the Guild Council had ruled for 17 years. All other sources, including the "Campaign Guide to the City" within that same boxed set, date their rule as lasting only 6 years (1256-1262). This discrepancy can be explained as that particular passage ''conflating'' the reign of the Guild Council with the reign of the Lords Magisters (1262-1273).</ref> marking the formal end of the Guildwars in {{YearlinkConvert|230|NR}}.<ref name="CS-p4" /><ref name="TN.GttSF-p9" /><ref name="FRCS3e-p180" /><ref name="CoSW-p10" /> By the war's end Waterdeep's guilds were left in a state of disarray,<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /> the ranks of over 30 noble houses had been decimated, and eight noble houses fell to complete ruin.<ref name="CoS-p5-6" />
+
+The surviving guildmasters, [[Ehlemm Zoar]] and [[Lhorar Gildeggh]], would decide to rule the city jointly as its "Lords Magisters".<ref name="CS-p4" /><ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /><ref name="CoSW-p10" /><ref name="CoS-CG-p31" /> They would declare themselves the arbiters of all matters within Waterdeep, including the appointment of new masters for the city's leaderless guilds.<ref name="CoS-CG-p27-28" /><ref name="WaTN-p13" /> Remembered as the "Bloody Misrule of the Lords-Magister",<ref name="CS-p4" /><ref name="CoS-p5-6" /> the first year of their reign saw the rise of the [[Shadow Thieves]].<ref name="CoS-CG-p31" /> Up until then they were but a minor band of thieves, one that had been openly tolerated and recognized as a guild. But under this new lawless climate, their influence and power grew,<ref name="CoS.W-p11">{{Cite book/City of Splendors: Waterdeep|11}}</ref> allowing them to operate more blatantly within the city.<ref name="CS-p4" />
+
+In {{YearlinkConvert|241|NR}},<ref name="CS-p4" /> the long-hidden Lords Baeron and Shilarn revealed themselves before the court of the two Lords Magisters and slayed them. They returned Ahghairon's system of rule to Waterdeep,<ref name="CS-p4" /><ref name="CoS-CG-p27-28" /><ref name="CoS-p5-6" /><ref name="CoS.W-p11" /><ref>{{Cite book/Waterdeep and the North|13-14}}</ref> with Baeron declaring himself the new Open Lord of Waterdeep.<ref name="CoS-p5-6" /><ref name="CoS.W-p11" /> For their crimes against the people of Waterdeep, Lord Baeron exiled houses [[Gildeggh]] and [[Zoar]] from the city.<ref name="CoS-p5-6" />
+
+Twenty-five years later, in {{YearlinkConvert|266|NR}}, the Shadow Thieves would be infiltrated and exposed by their daughter [[Lhestyn Silmaeril]].<ref name="CS-p4" /><ref name="CoS-CG-p31" /><ref name="CoS.W-p11" /> This culminated in a bloody tenday fight between the guild, the [[City Watch (Waterdeep)|City Watch]],<ref name="CoS.W-p11" /><ref name="CoS-CG-p31" /> and the Lords' agents<ref name="CoS-CG-p31" /> that ultimately ended in the dismantling of the group,<ref name="CS-p4" /><ref name="CoS-CG-p31" /><ref name="CoS.W-p11" /> its survivors left fleeing to the land of [[Amn]].<ref name="WatN-p57-58">{{Cite book/Waterdeep and the North|57-58}}</ref>
+
+After the overthrow of the Lords Magisters, only two instances of guildmasters defying or discretly working against the edicts of the Lords of Waterdeep would occur in the City of Splendors. In both instances, the offending guildmasters were stripped of their title and they, along with their whole family, were expelled from their guild.<ref name="WaTN-p19" /><ref name="CoS-p38" />
+
+When [[Volothamp Geddarm]] wrote ''[[Volo's Guide to Waterdeep (in-universe)|Volo's Guide to Waterdeep]]'' in the 1360's DR, he wrote in the text's foreward of his decision to steer away from providing indepth information on the city's many guild halls. Volo found that guards would watch him closely during any visit and he wished not to garner the ire of the guilds by revealing their closely kept secrets.<ref name="VGtW-p5" />
+
+In the {{YearlinkName|1370}}, High Seeker [[Jhoadil Zulthind]] of the [[House of Inspired Hands]] partnered several of the guilds to build and actively market [[construct]]s of various materials to the city's wealthiest denizens.<ref>{{Cite book/City of Splendors: Waterdeep|39}}</ref>
+
+Sometime in the late 14{{th}} century DR, a [[wizard]] was selling minor magical items in Waterdeep that were of [[Thayan]] origin. After ignoring prohibitions on the sale of such items and evading levied fines against him, the City Watch attempted to arrest the mage, only to be intercepted by a group of [[Red Wizards]]. Amidst the chaos that followed, the merchant mage approached Open Lord Piergeiron and Masked Lord [[Khelben Arunsun]] with a petition to found a new guild in Waterdeep. His proposal was for a guild that would represent merchants who simply desired to sell magic wares and had no interest in [[spell]]casting.<ref>{{Cite web/More of Waterdeep and Lands of Intrigue}}</ref>
+
+==Guilds==
+===Arcane Schools and Practitioners===
+; [[Blackstaff Tower]] : Originally just the private residence of Khelben Arunsun and his consort [[Laeral Silverhand]],<ref name="ESh-p242-243">{{Cite book/Elfshadow/Paperback 2000|242-243}}</ref><ref name="CS.W-p23">{{Cite book/City of Splendors: Waterdeep|23}}</ref> overtime it became the site of the [[Blackstaff Academy]], an informal elite school for novice arcanists to receive tutoring.<ref name="CS.W-p23">{{Cite book/City of Splendors: Waterdeep|23}}</ref>
+; [[Eltorchul Academy]] : The magic school of Lord [[Thesp Eltorchul]].<ref name="CS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref>
+; [[Enclave of Red Magic]] : The Red Wizards of Thay use the [[Thayan Embassy]] in the [[Castle Ward of Waterdeep|Castle Ward]] to conduct their trade, via a ''[[portal]]'', to this enclave in the subterranean settlement of [[Skullport]].<ref name="CS.W-p26"/>
+; [[Halaster's Heirs]] : A hidden academy for dark arcanists, situated on the first level of the [[Undermountain]].<ref name="CS.W-p27">{{Cite book/City of Splendors: Waterdeep|27}}</ref>
+; [[New Olamn]] : A [[bard]]ic education center formed after [[Iriador Wintermist|Iriador "Garnet" Wintermist]]'s anger at the [[Harper]]s' deviance from their original ideals.<ref name="CS.W-p29">{{Cite book/City of Splendors: Waterdeep|29}}</ref>
+
+===Criminal and Underground===
+Since the expulsion of the Shadow Thieves in 1298 DR, the City of Splendors lacked a formal, truly organized [[thieves' guild]].<ref name="WaTN-p20">{{Cite book/Waterdeep and the North|20}}</ref><ref name="CoS.CG-p81">{{Cite book/City of Splendors (boxed set)/Campaign Guide|81}}</ref><ref name="FRCS2e-p106">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|106}}</ref><ref>{{Cite book/The Savage Frontier|6}}</ref><ref name="TN.GttSF-p20">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|20}}</ref> Many claimants to that position and title would arise over the years, though none with enough power to truly challenge the Lords of Waterdeep.<ref name="FRCS2e-p106" /> The Open Lords had a diligent policing effort, ruthlessly crushing even small rogue cabals, and were aided over the years by the likes of the [[Blackstaff]]s, [[Elaith Craulnober]], [[Elminster]], [[Mirt the Moneylender]],<ref name="GR">{{Cite web/theedverse/2018-11-13 - Gray Ribbons and Criminality in Waterdeep}}</ref> the [[Red Sashes]],<ref name="WaTN-p20" /><ref name="CoS.CG-p81" /> and a slew of Waterdhavians who had connections among fences and [[smuggler]]s. Even the nobility and the lawful guilds of the city aided in ensuring that a proper thieves' guild would not arise within the City of Splendors.<ref name="GR" /> Among the guilds, the Watchful Order especially played a part, acting as a powerful deterrent to any rogues thinking of defying the Lords and lawkeepers.<ref>{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2010)/04-18 - Notes on the Waterdhavian Army}}</ref>
+; [[Agents of the Eye]] : See [[Xanathar Thieves' Guild]]
+; [[Black Boar tribe (gang)|Black Boar tribe]] : A barbaric gang in the [[Waterdeep/Dock Ward|Dock Ward]] that was led by [[Myrnd Gundwyn]].<ref name="CS.W-p66">{{Cite book/City of Splendors: Waterdeep|66}}</ref>
+; [[Bull Elk Tribe]] : A barbaric gang composed primarily of [[half-orc]]s and outcast [[Uthgardt]] [[barbarian]]s that was led by Chief [[Hagar Hlutwigsson]].<ref name="CS.W-p66" />
+; [[Plague Rats]] : An elite organization of thieves and assassins operating mainly in the Dock Ward.<ref name="CS.W-p57">{{Cite book/City of Splendors: Waterdeep|57}}</ref>
+; [[Savants of the Dark Tide]] : A foul organization run by [[aboleth]]s deep in the [[Waterdeep/Sewers|Waterdeep sewer system]].<ref name="CS.W-p57" />
+; [[Shadow Thieves]] : The original "thieves' guild of Waterdeep".<ref name="CoS.W-p11" /><ref name="CoS.WWiW-p86">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|86}}</ref><ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|23}}</ref> It grew into one of the largest and most prosperous thieves' guild in [[Faerûn]] in the years following its exile from the City of Splendors, but it held on to a longstanding grudge against the city and its rulers,<ref name="CoS.WWiW-p86" /><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref> who over the years would see any discovered Shadow Thief quickly snuffed out.<ref name="CoS.WWiW-p86" /> When Waterdeep fell unto hard times in [[1373 DR]], the Shadow Thieves moved in to infiltrate and dominate much of its criminal underworld.<ref name="CS.W-p68" />
+; [[Unseen|The Unseen]] : An organization of [[shapechanger]]s, thieves and [[illusionist]]s.<ref name="CS.W-p57" /> Unbenownst to the official guilds of Waterdeep, many of them had been infiltrated by shapechangers of the Unseen.<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|87}}</ref> that they need to be eliminated, no matter the cost.
+; [[Xanathar Thieves' Guild]] : Agents of [[Xanathar (title)|The Xanathar]] (or "the Eye"), the most powerful [[beholder]] in Waterdeep.<ref name="CS.W-p64">{{Cite book/City of Splendors: Waterdeep|64}}</ref> Despite its name, this organization was deliberately operated by the [[Xanathar (original)|original Xanathar]] in such a manner as to not be a true "thieves' guild", working largely through freelancers and supporting hundreds of small independent rogue groups.<ref name="WatN-p57-58" /><ref name="CoS.WWiW-p88-89">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|88-89}}</ref> By operating in such a manner, Xanathar sought to prevent avoid so big a nuisance that the Lords of Waterdeep would feel compelled to eradicate the organization at any cost.<ref name="WatN-p57-58" /><ref name="GR" /><ref name="CoS.WWiW-p88-89" /> From some perspectives, this first beholder to bare the title of "Xanathar" had eventually tried to evolve his organization into a true "thieves' guild", but they were ultimately defeated and their network left ravaged by the intervention of a group of [[adventurer]]s sent by Open Lord Pergeiron.<ref name="FRCS2e-p106" />
+
+===Secret Organizations===
+; [[Harpers]] : An organization believing in the goodness of humankind and its allies.<ref name="CS.W-p73">{{Cite book/City of Splendors: Waterdeep|73}}</ref>
+; [[Knights of the Shield]] : An organization that exists to gather and manipulate information.<ref name="CS.W-p74">{{Cite book/City of Splendors: Waterdeep|74}}</ref>
+; [[Kraken Society]] : A secretive criminal organization dedicated to gaining information.<ref name="CS.W-p74">{{Cite book/City of Splendors: Waterdeep|74}}</ref> They had no association with the unofficial "thieves' guilds" of the city.<ref>{{Cite book/The Savage Frontier|9}}</ref>
+; [[Red Sashes]] : A vigilante group particularly active in the Dock Ward.<ref name="CS.W-p74">{{Cite book/City of Splendors: Waterdeep|74}}</ref>
+; [[Moonstars]] : A group of renegade Harpers and allies of the Blackstaff.<ref name="CS.W-p75">{{Cite book/City of Splendors: Waterdeep|75}}</ref>
+
+===Registered Guilds===
+The following guilds were active in Waterdeep prior to the [[Spellplague]] and after the [[Second Sundering]].<ref name="WDH5e-p13-14"/><ref>{{Cite book/City of Splendors: Waterdeep|51}}</ref>
+* [[Baker's Guild]]
+* [[Carpenters', Roofers', & Plaisterers' Guild]]
+* [[Cellarers' & Plumbers' Guild]]
+* [[Cere-Clothiers, Ossurists, and Grave-Diggers' Guild]]: A guild that represented the city's funerary trades.<ref>{{Cite book/Blackstaff Tower|49|3}}</ref>
+* [[Coopers' Guild]]
+* [[Council of Farmer-Grocers]]
+* [[Council of Musicians, Instrument-Makers, & Choristers]]
+* [[Dungsweepers' Guild]]
+* [[Fellowship of Bowyers and Fletchers]]
+* [[Fellowship of Carters and Coachmen]]
+* [[Fellowship of Innkeepers]]: A guild that represented the proprietors of Waterdeep's many inns. It was one of the city's oldest guilds, having originally been formed long ago out of a need for protection from rowdy patrons.<ref name="CoS-p42">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|42}}</ref>
+* [[Fellowship of Salters, Packers, and Joiners]]
+* [[Fishmongers' Fellowship]]
+* [[Guild of Apothecaries and Physicians]]
+* [[Guild of Butchers]]
+* [[Guild of Chandlers and Lamplighters]]
+* [[Guild of Fine Carvers]]
+* [[Guild of Glassblowers, Glaziers, and Spectacle-makers]]
+* [[Guild of Stonecutters, Masons, Potters, and Tile-makers]]
+* [[Guild of Trusted Pewterers and Casters]]
+* [[Guild of Watermen]]
+* [[Jesters' Guild]]: One of the newest guilds of the City of Splendors as of the 15{{th}} century DR,<ref name="WDH5e-p13-14"/> having originally been a branch of the city's Musicians' Guild that long sought independence.<ref name="BCD-p21">{{Cite comic/Beneath the City of the Dead|21}}</ref><ref name="SRLM-p17">{{Cite comic/Showtime! or Revenge of the Living Monologue|17}}</ref> It represented the interests of not only jesters, but clowns and comedians.<ref name="BCD-p20">{{Cite comic/Beneath the City of the Dead|20}}</ref>
+* [[Jewelers' Guild]]
+* [[Launderers' Guild]]
+* [[League of Basket-makers and Wickerworkers]]
+* [[League of Skinners and Tanners]]
+* [[Loyal Order of Street Laborers]]: A guild representing the tradesfolk who handled the maintenance of Waterdeep's streets.<ref name="CoS-p49" /> It was the second youngest of the city's guilds, having been founded in {{Yearlink|1360}}<ref name="CoS-p37">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|37}}</ref> by Lords' edict, with its initial 200 members taken from the ranks of the Guild of Stonecutters and the Cellarers' & Plumbers' Guild.<ref name="CoS-p49" />
+* [[Master Mariners' Guild]]
+* [[Most Careful Order of Skilled Smiths & Metalforgers]]
+* [[Most Diligent League of Sail-Makers and Cordwainers]]: A guild who represented tradesfolk skilled in crafting sails and [[rope]]s.<ref group="note" name="cordwainer">Historically, the term "[[Wikipedia:cordwainer|cordwainer]]" has referred to tradesmen who produce [[leather]] shoes, but for unknown reasons it's used in this guild's name to refer to its rope-makers (presumably on an assumption the word referred to cords). The actual shoemakers of Waterdeep were members of the Order of Cobblers and Corvisers.</ref>
+* [[Most Excellent Order of Weavers and Dyers]]
+* [[Order of Cobblers and Corvisers]]
+* [[Order of Master Shipwrights]]
+* [[Order of Master Tailors, Glovers, and Mercers]]
+* [[Saddlers' and Harness-makers' Guild]]
+* [[Scriveners', Scribes', and Clerks' Guild]]
+* [[Solemn Order of Recognized Furriers and Woolmen]]
+* [[Splendid Order of Armorers, Locksmiths, and Finesmiths]]
+* [[Stablemasters' and Farriers' Guild]]
+* [[Stationers' Guild]]
+* [[Surveyors', Map-, and Chart-makers' Guild|Surveyors', Map-makers', and Chart-makers' Guild]]
+* [[Vintners', Distillers', & Brewers' Guild]]
+* [[Wagon-makers' and Coach Builders' Guild]]
+* [[Watchful Order of Magists and Protectors]]: Originally formed to provide protection for weaker spellcasters against people opposed to magic, they grew to become the largest arcane school in Waterdeep<ref name="CS.W-p30">{{Cite book/City of Splendors: Waterdeep|30}}</ref> and one of the best known mage guilds in the Realms.<ref name="EGP-p180">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|180}}</ref> Arcane spellcasters were required to register with them, but were not required to join their guild.<ref name="WDH5e-p13-14"/> They were also notably the third youngest of the city's guilds, having been formed in {{Yearlink|1318}},<ref name="CoS-p37" />
+* [[Wheelwrights' Guild]]
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| novels = ''[[Blackstaff Tower (novel)|Blackstaff Tower]]'';''[[The City of Splendors: A Waterdeep Novel]]'';''[[Death Masks]]''
+| organized play = ''[[Chaos in the City of Splendors]]''
+}}
+===References===
+{{refs}}
+[[FR:Guildes (organisations d'Eauprofonde)]]
+[[Category:Year of Machinations]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+[[Category:Lists]]
+
+=== WIKI PAGE: Guildsmeet
+
+{{Event
+| image       = 
+| caption     = 
+| name        = Guildsmeet
+| partof      = [[Waukeentide]]
+| othernames  = 
+| type        = Festival
+| deity       = [[Waukeen]]
+| location    = [[Waterdeep]], [[Sword Coast North]]
+| date        = [[Tarsakh 7]]
+| duration    = One day
+| schedule    = 
+| frequency   = Annual
+| basicrefs   = <ref name="WDH5e-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = [[Guilds of Waterdeep|Guild]] announcements; gala dance
+| first       = 
+| cause       = 
+| responsible = 
+| subevents   = 
+| outcome     = 
+| histrefs    = <ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref>
+}}
+'''Guildsmeet''' was a festival held in [[Waterdeep]] as part of the [[Waukeentide]] holiday.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==Description==
+The festival started with the meeting of the various [[Guilds of Waterdeep]] in their respective halls for the announcement of new policies and a commemoration of their activities in the previous year. Following those meetings, the guilds sponsored a gala festival and dance that lasted from dusk to dawn. The dance was traditionally held in the [[Cynosure (building)|Cynosure]], the [[Field of Triumph]], and the [[Market (Waterdeep)|Market]], typically also dominating all the streets and locations in the area between them.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==History==
+Originally a separate holiday, Guildsmeet was incorporated into Waukeentide and became one of the [[tenday]]-long holiday's many festivities.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==Appendix==
+===See Also===
+*[[Caravance]]
+*[[Goldenight]]
+*[[Leiruin]]
+===References===
+{{Refs}}
+[[Category:Events in Tarsakh]]
+[[Category:Events on Toril]]
+[[Category:Events in Faerûn]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Waterdeep]]
+[[Category:Events in the Field of Triumph]]
+[[Category:Festivals]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Currency
+
+{{Item
+| image         = [[File:Currency-5e.jpg|250px]]
+| caption       = From top to bottom: [[copper]], [[silver]], [[gold]], [[electrum]], and [[platinum]] pieces.
+| name          = Currency
+| othernames    = 
+| nicknames     = 
+| type          = 
+| location      = 
+| value1e       = {{Currency table|1 platinum|1 [[pp]]|5 [[gp]]|10 [[ep]]|100 [[sp]]|1000 [[cp]]}}
+| weight1e      = 
+| refs1e        = <ref name="CotR-9" />
+| school2e      = 
+| level2e       = 
+| value2e       = {{Currency table|1 platinum|1 pp|5 gp|10 ep|50 sp|500 cp}}
+| weight2e      = 
+| refs2e        = <ref name="PH2ed-66">{{Cite book/Player's Handbook 2nd edition|66}}</ref><ref name="FRCS2e-p26-27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)|26-27}}</ref><ref name="FRA-129">{{Cite book/Forgotten Realms Adventures|129-130}}</ref>
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = {{Currency table|1 platinum|1 pp|10 gp|100 sp|1000 cp}}
+| weight3e      = 
+| refs3e        = <ref name="FRCS3e-p91">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|91}}</ref><ref name="PHB3e-p96">{{Cite book/Player's Handbook 3rd edition|96}}</ref><ref name="PHB|112">{{Cite book/Player's Handbook v.3.5|112}}</ref>
+| level4e       = 
+| value4e       = {{Currency table|1 platinum|1 pp|10 gp|100 sp|1000 cp}}
+| weight4e      = 
+| refs4e        = <ref name="FRCG4e-p45">{{Cite book/Forgotten Realms Campaign Guide|45}}</ref>
+| rarity5e      = 
+| attunement5e  = 
+| school5e      = 
+| level5e       = 
+| value5e       = {{Currency table|1 platinum|1 pp|10 gp|20 ep|100 sp|1000 cp}}
+| weight5e      = 
+| refs5e        = <ref name="SCAG5e-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name=PHB5e-p143>{{Cite book/Player's Handbook 5th edition|143}}</ref>
+| communication = 
+| languages     = 
+| alignment     = 
+}}
+'''Currency''' referred to the practice of using items with a somewhat universal value, namely precious [[metal]]s, [[gem]]s, and some minerals to determine wealth and in trade for goods and services. The most common forms of currency in everyday transactions among sentient beings of the [[Forgotten Realms|Realms]] were coins (or "pieces"). Usually, most coins were made of [[gold]], [[silver]], and [[copper]]. Less frequently, coins made of [[platinum]], [[electrum]], and even [[iron]] were also found. In all cases, the standard for measuring wealth was the gold piece, even if neither gold nor coins were involved in a transaction.<ref name="PHB5e-p143">{{Cite book/Player's Handbook 5th edition|143}}</ref><ref name="SCAG5e-p13" />
+
+A standard gold piece (gp) weighed {{SI|0.32|oz|long=yes}}, so 50 coins weighed about {{SI|1|lb|long=yes}}.<ref name="PHB5e-p143" /> Each piece was typically a flat disk 1{{Frac|4}} or {{SI|1.25|in|c|long=yes}} in diameter and {{Frac|8}} or {{SI|0.125|in|m|long=yes}} thick.<ref name="FRCS3e-p91" /><ref group="note">Unfortunately, for both of these statements to be true, a typical gold coin had very little gold in it and was either alloyed with a ''much'' lighter metal, like aluminum, or was made of a gold-clad wooden disk. The density of gold is 19.32 g/cm³ and a pure gold coin of those dimensions would weigh about {{SI|1.7|oz|long=yes}} or over five times the weight of a "standard" coin. This suggests that the dimensions of a standard coin should be smaller and thinner.</ref>
+
+The penalty for counterfeiting was death in most places, since cities, kingdoms, and nations relied on the acceptance and trust of their currency.<ref name="CotR-9">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|9}}</ref>
+
+When large sums were involved, it was common for traders to use [[trade bar]]s, which were valued by weight, instead of coins.<ref name="DMG5e-p19-20">{{Cite book/Dungeon Master's Guide 5th edition|19-20}}</ref>
+
+==Standard Exchange Rates==
+The everyday currency of the [[Realms]] consisted mainly of coins and [[trade bar]]s. With few exceptions, the standard currency adopted throughout the Realms made use of [[platinum]], [[gold]], [[electrum]], [[silver]], and [[copper]] pieces of equal value, so they could be used interchangeably across different regions, as well as trade bars of standardized weights with fixed conversion rates.<ref name="DMG5e-p19-20" /><ref name="FRCG4e-p45" />
+
+The exchange rates between coins of different materials has changed through history, but their relative value across regions remained mostly unaltered.<ref name="CotR-9">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|9}}</ref>
+
+===As of [[1357 DR]]===
+By the [[Year of the Prince]], standard exchange rates were the following:<ref name="CotR-9" /><ref group="note">The year [[1357 DR]] corresponds to the "present" in p. 6 of the 1st-edition ''[[Forgotten Realms Campaign Set]]''.</ref>
+
+{{Currency table|1 platinum piece|1 [[platinum]] |5 [[gold]]|10 [[electrum]]|100 [[silver]] |1000 [[copper]]}}
+
+In that time period, silver and electrum trade bars were available
+
+=== LINKED WIKI PAGE (first 5000 chars): Zoar
+
+{{Organization
+| image          = Andrethra Zoar.png
+| caption        = Andrethra Zoar of the Three-Headed Helm.
+| name           = Zoar
+| aliases        = 
+| type           = Noble family
+| base           = [[Waterdeep]], [[Sword Coast North]]<br/>[[Calling Horns]], [[Savage Frontier]]<ref name="SKT-p77" /><br/>[[Everlund]], [[Luruar]]<ref name="SKT-p81" /><br/>[[Luskan]], [[Scornubel]], [[Amn]]<ref name="WCS-p45" />
+| leadertitle    = 
+| leader         = 
+| symbol         = A severed head of an [[umber hulk]] impaled on a bloodied [[spear]] depicted on a red background.<ref name="WCS-p45">{{Cite book/Waterdeep and the North|45}}</ref>
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="tGHotR-p75">{{Cite book/The Grand History of the Realms|75}}</ref>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = Rulers of Waterdeep
+| relrefs        = <ref name="WCS-p45" />
+| showmembers    = yes
+| orgname        = the Zoar family
+}}
+The '''Zoar''' family once were members of the nobility in [[Waterdeep]] who lost their status amid a scandal and relocated to [[Everlund]] in [[Luruar]] in the 14{{th}} century [[DR]], where they became a significantly influential family.<ref name="SKT-p81" />
+
+{{quote|''At the risk of using a most-tired clichè, money is the heartblood of Waterdeep. Coin, commerce, trade, call it what you will, but it is what drives this great city. Granted, the Lords rule it wisely and well, but the Guilds constantly believe that, since they control the majority of the city's lifeblood, they should control the city. Methinks they should be reminded of the houses Zoar and Gildeggh...''|[[Mirt the Moneylender]]<ref name="W2-p31">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|31}}</ref>}}
+
+==History==
+The historic conflict known as the [[Guildwars]] concluded in Waterdeep in the {{YearlinkName|1262}}, leaving [[Ehlemm Zoar]] of the [[Gemcutters Guild]] – one of the two guildmasters to survive. The two – Ehlemm Zoar and [[Lhorar Gildeggh]], soon after declared themselves Two Lords Magister of the City of Splendors.<ref name="CS-p4">{{Cite book/City System|4}}</ref><ref name="WCS-p13" /> Their rule ended in the {{YearlinkName|1273}}<ref name="W-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> in an uproar of Waterdhavian nobility. The rulership of Waterdeep was restructured, and both Lords Magister's families were exiled.<ref name="WCS-p14">{{Cite book/Waterdeep and the North|14}}</ref>
+
+The Zoar family removed themselves from Waterdeep and relocated to Everlund after the scandal that stripped them of nobility. Over the century that followed, they gained political and financial power in Everlund, and by the late 15{{th}} century DR, the Zoar family held a position on Everlund's [[Council of Elders]].<ref name="SKT-p81">{{Cite book/Storm King's Thunder|81}}</ref> Other locales where the Zoars could be found by the mid-14{{th}} century DR were the cities of [[Luskan]], [[Scornubel]], and the nation of [[Amn]]. The family considered the rulers of Waterdeep their sworn enemies.<ref name="WCS-p45" />
+
+At some point between the {{YearlinkName|1346}} and the {{YearlinkName|1355}}, during [[Tamaeril Bladesemmer]]'s tenure as a [[Lord of Waterdeep]], a member of the Zoar family was slain by a knight of [[Waterdeep]]. That man was the father of [[Amril Zoar]]. In the years since, Amril Zoar came to possess a book written by a mage lord [[Ahghairon]] on the use of ''[[echo gate]]s'', capable of bypassing most of the wards in Waterdeep.<ref name="EiH-p157_165"/> On early [[Flamerule]] of 1355 DR,<ref name="EiH-RL">{{cite book/Elminster in Hell/Hardcover 2001|2|Realmslore}}</ref> he resolved to get revenge for his father's death, and using the ''echo gates''. Amril ambushed [[Piergeiron Paladinson]], the Open Lord at the time, and ''[[charm person|charm]]ed'' him, finding out the identities of all the [[Masked Lord]]s of Waterdeep. He then attacked the Open Lord, severely wounding him.<ref name="EiH-p153_156"/> Using that information, the murdered ended lives of Masked Lords [[Resengar]] and [[Tamaeril Bladesemmer]]<ref name="EiH-p126">{{cite book/Elminster in Hell/Hardcover 2001|126|9}}</ref><ref name="EiH-115_120">{{cite book/Elminster in Hell/Hardcover 2001|115-120|7}}</ref> His attempts on the lives of [[Mirt the Moneylender]], [[Durnan]], and [[Laeral Silverhand]], however, were unsuccessful
+
+=== LINKED WIKI PAGE (first 5000 chars): Mirt
+
+{{Person
+| image          = Mirt-5e.jpg
+| caption        = 
+| name           = Mirt
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Mertonius<ref name="HoH-p86" /><br/>Tonius<ref name="HoH-p86" />
+| nicknames      = Mirt the Moneylender<ref name="FRCS3e-p181-182" /><br/>Mirt the Merchant<ref name="DtU">{{Cite game/Descent to Undermountain}}</ref><br/>Mirt the Merciless<ref name="FRCS3e-p181-182" /><br/>Old Wolf<ref name="FRCS3e-p181-182" /><br/>Lord Walrus<ref name="ED-p15" /><br/>Sir Beer-Belly (by [[Nymara Scheiron]])<ref name="ES-p15">{{Cite book/Elfsong (1994)|15|1}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]<ref name="CoS.W-p54-55" />
+| occupation     = Moneylender<br/>[[Masked Lord]]<br/>{{Former}} [[adventurer]], [[mercenary]]
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]]<ref name="WDH5e-p210-211">{{Cite book/Waterdeep: Dragon Heist|210-211}}</ref>
+| basicrefs      = <ref name="FRCS3e-p181-182" /><ref name="CoS.W-p54-55" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = [[Asper]]
+| siblings       = 
+| children       = 
+| familyrefs     = <ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Fighter]]|9|[[Thief]]|7}}<br/>{{Class table|edition=2e|[[Fighter]]|11|[[Thief]]|7}}
+| refs2e         = <ref name="HoH-p86">{{Cite book/Hall of Heroes|p86}}</ref><ref name="CoS2e-WWW-p70">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|70}}</ref>
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 13
+| class3e        = {{class table|edition=3e|[[Rogue]]|5|[[Fighter]]|8}}
+| refs3e         = <ref name="FRCS3e-p181-182">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|181-182}}</ref><ref name="CoS.W-p54-55">{{Cite book/City of Splendors: Waterdeep|54-55}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 9
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p210-211" />
+}}
+'''Mertonius''', better known as '''Mirt "the Moneylender"''' ({{Pronounce|MERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}} {{Pronounce|MEERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>|alt=yes}}), was a [[human]] [[rogue]] and retired [[adventurer]] and a [[mercenary]] general, when he was known as '''Mirt the Merciless''' or '''the Old Wolf'''<ref name="FRCS3e-p181-182" /> or '''Lord Walrus'''.<ref name="ED-p15">{{Cite book/Elminster's Daughter/MMP|15|1}}</ref> He became a member of the [[Harpers]] as well as a [[Lords of Waterdeep|Masked Lord]] of [[Waterdeep]], which was commonly known.<ref name="FRCS3e-p181-182" /> Mirt was also one of the most infamous [[factor]]s of Waterdeep.<ref name="EFR-p114">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|114}}</ref>
+
+==Description==
+As of the 1370s DR, he was old, fat, and wheezy.<ref name="FRCS3e-p181-182" />
+
+==Personality==
+Outwardly, Mirt appeared to be a loud and drunken braggart who enjoyed telling long-winded stories of his exploits, as well as roughhousing and tavern brawls. However, this was a façade concealing his cunning and good judge of character, as well as his surprising agility. These traits helped him grow much wealthier in his investments later in life than being an adventurer or mercenary ever had. He had a good heart and desired to make [[Faerûn]] a better place than he'd found it.<ref name="FRCS3e-p181-182"/>
+
+Mirt was sometimes seen wearing multiple artificial [[roses]] on his shoulder, signaling his interest to find several romantic partners to spend the night with.<ref name="CF-LCF">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/02-20 - Lingerie, Courtship and Foreplay}}</ref>
+
+==Relationships==
+He was one of the few trusted friends of [[Evermeet]] and had a ''[[portal]]'' that could give him access to the elven island when he so wished. He carried a ''[[Purple Dragon ring]]'', which allowed him to speak in King [[Azoun IV]]'s name.<ref>{{Cite book/Crown of Fire/Paperback 1994|230}}</ref>
+
+===Family===
+His wife and heir,<ref>{{Cite book/Spellfire}}</ref> [[Asper]], was an informal member of the [[Gray Hands]]. She preceded him in death.<ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+
+===Associates===
+Due to Mirt's extended age, his many business dealings, his associ
+
+=== LINKED WIKI PAGE (first 5000 chars): Chaos in the City of Splendors
+
+{{DEFAULTSORT:Chaos in the City of Splendors}}
+{{Adventurers league
+| image        = Chaos in the City of Splendors.png
+| caption          = 
+| code         = DDEP08-01
+| title        = Chaos in the City of Splendors
+| design           = [[William Beers]], [[Iam Pace]], [[William Murakami-Brundage]]<ref name="DDEP08-01-p1">{{Cite adventurers league/Chaos in the City of Splendors|1}}</ref>
+| editor           = [[Claire Hoffman]], [[Travis Woodall]]<ref name="DDEP08-01-p1"/>
+| publisher        = [[Wizards of the Coast]] 
+| cover_artist     = 
+| inter_artist     = 
+| cartography      = 
+| pages            = 64
+| debut            = November 2018<small>(Gamehole Con)</small>
+| released         = 
+| story arc        = ''[[Adventurers League/Waterdeep|Waterdeep]]''
+| realm year       = 
+| setting          = [[Waterdeep]]
+| game_edition     = 5
+| play_time        = 3 hours
+| players          = 
+| levels           = 1{{st}} – 4{{th}}
+| series           = [[Adventurers League|Epic Adventures]]
+| preceded_by      = ''[[Drums of the Dead]]''
+| followed_by      = ''[[Stardock Under Siege]]''
+| source           = [http://dndadventurersleague.org/storyline-seasons/waterdeep-adventures/ Adventurer's League]
+}}
+'''''Chaos in the City of Splendors''''' is an Epic Adventures module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 5{{th}} edition ruleset. It is part of the ''[[Adventurers League/Waterdeep|Waterdeep]]'' series of adventures published for the [[Adventurers League|D&D Adventurers League]]. It focuses on [[Waterdeep]], and is an adventure designed for 1{{st}}- to 4{{th}}-level characters.
+
+{{Quote|''The hunt for the dragon’s cache has attracted ne’er-do-wells and fortune seekers to Waterdeep from far and wide and the gangs of Waterdeep are not about to let such a bounty of talent go to waste. Chaos and shenanigans await the brave and the bold in the City of Splendors!''<ref name="DDEP08-01-p1"/>|}}
+
+==Index==
+===Characters===
+:[[Filya]] • [[Himmer]] • [[Jarlaxle Baenre]] • [[Kluneman]] • [[Laeral Silverhand]] • [[Maggie Luskan]] • [[Mirt]] • [[Tad]]
+::{{Refonly}}
+::<small>{{P|[[Rognar Dennison]]|4-6,51,58,61}}</small>
+===Creatures===
+:[[bulette]] • [[displacer beast]] • [[doppelganger]] • [[drow]] • {{P|[[flies]]|13}} • [[ghast]] • [[ghoul]] • [[giant ape]] • [[girallon]] • [[griffon]] • [[human]] • [[mammoth]] • [[revenant]] • [[rot rat]] • [[Walking Statues of Waterdeep]] ({{P|[[Honorable Knight]]|7-8,42,46,51,59,61}}) • [[wolf]] • [[zombie]]
+::{{Refonly}}
+::<small>{{P|[[cricket]]|4}} • {{P|[[sheep]]|4}}</small>
+===Locations===
+;Buildings & Structures: [[Bullmore Grange]] • {{P|[[Field of Triumph]]|17,19,43,49,51,61}} • [[Pump Station 64]] • [[Waterdeep Maritime Academy]]
+:;Inns & Taverns: [[Kumarker Fest Hall]] • [[McKrawley’s Bar]] • [[The Runed Board]]
+;Districts: {{P|[[Waterdeep/City of the Dead|City of the Dead]]|1,4,41}} • {{P|[[Waterdeep/North Ward|North Ward]]|1,15,27,51,61}} • {{P|[[Waterdeep/Sea Ward|Sea Ward]]|1,4,7,19,27}} • {{P|[[Waterdeep/Southern Ward|South Ward]]|1,9,21,27,44,51,61}} • {{P|[[Waterdeep/Trades Ward|Trades Ward]]|1,17,19,23,27}}
+;Region: {{P|[[Sword Coast]]|1,3,27}}
+;Roads: {{P|[[Book Street]]|7}} • {{P|[[Shesstra's Street]]|7}}
+;Settlements: [[Waterdeep]]
+::{{Refonly}}
+::<small>{{P|[[Amn]]|13}} • {{P|[[Waterdeep/Castle Ward|Castle Ward]]|27}} • {{P|[[Chult]]|11,51,61}} • {{P|[[Waterdeep/Field Ward|Field Ward]]|27}} • {{P|[[Moonsea]]|23}} • {{P|[[Snail Street]]|51,61}} • {{P|[[Underdark]]|11,25}}</small>
+===Magic===
+;Items: ''[[bag of tricks]]'' • ''[[folding boat]]''
+;Potions: ''[[potion of healing]]''
+;Spells: ''[[bless]]'' • ''[[charm person]]'' • ''[[confusion]]'' • ''[[counterspell]]'' • ''[[cure wounds]]'' • ''[[dancing lights]]'' • ''[[darkness]]'' • ''[[detect magic]]'' • ''[[divination]]'' • ''[[dominate person]]'' • ''[[faerie fire]]'' • ''[[fly]]'' • ''[[friends]]'' • ''[[greater invisibility]]'' • ''[[greater restoration]]'' • ''[[healing word]]'' • ''[[heroism]]'' • ''[[hypnotic pattern]]'' • ''[[identify]]'' • ''[[invisibility]]'' • ''[[lesser restoration]]'' • ''[[light]]'' • ''[[mage armor]]'' • ''[[mage hand]]'' • ''[[misty step]]'' • ''[[prayer of healing]]'' • ''[[prestidigitation]]'' • ''[[raise dead]]'' • ''[[remove curse]]'' • ''[[revivify]]'' • ''[[sacred flame]]'' • ''[[sanctuary]]'' • ''[[shatter]]'' • ''[[Shield (spell)|shield]]'' • ''[[sleep]]'' • ''[[speak with dead]]'' • ''[[suggestion]]'' • ''[[thaumaturgy]]'' • ''[[thunderwave]]'' • ''[[true resurrection]]'' • ''[[vicious mockery]]'' • 
+===Organizations===
+:[[Bregan D'aerthe]] • [[City Watch (Waterdeep)|City Watch]] • {{P|[[Force Grey]]|3,27,55}} • {{P|[[Guild of Chandlers and Lamplighters]]|7,15}} • [[Watchful Order of Magists and Protectors]] • [[Xanathar's Thieves' Guild]]
+:;Player Factions:  [[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]
+::{{Refonly}}
+::<small>{{P|[[Dungsweepers' Guild]]|1}} • {{P|[[Jewelers' Guild]]|1}} • {{P|[[L
+
+=== LINKED WIKI PAGE (first 5000 chars): City of Splendors: Waterdeep
+
+{{otheruses4|the v.3.5 sourcebook|other uses|City of Splendors (disambiguation)}}
+{{Book
+|image     = [[Image:Waterdeep_cover.jpg|250px|City of Splendors: Waterdeep]]
+|code      = 881620000
+|title     = City of Splendors: Waterdeep
+|author    = [[Eric L. Boyd]]
+| editor       = [[Cindi Rice]], [[Gary Sarli]]
+| cover_artist = [[Scott M. Fischer]]
+| inter_artist = [[Steve Belledin]], [[Steve Ellis]], [[Wayne England]], [[Ralph Horsley]], [[William O'Connor]], [[Lucio Parrillo]], [[Vinod Rams]], [[Rick Sardinha]]
+| cartography  = [[Dennis Kauth]], [[Robert Lazzaretti]]
+|publisher = [[Wizards of the Coast]]
+|released  = June 2005
+|type      = Accessory
+|realm year = After [[Eleasis]], [[1372 DR]]<ref>{{Cite book/City of Splendors: Waterdeep|13}}</ref><ref>{{Cite book/The Grand History of the Realms|153}}</ref>
+|binding   = Hardback
+|pages     = 160
+| game_edition = 3.5
+|isbn      = 0-7869-3693-2
+| Roll20number = 25995
+}}
+'''''City of Splendors: Waterdeep''''' is an accessory for the ''[[Forgotten Realms]]'' campaign setting using the 3.5{{th}}-edition {{dnd}} ruleset.
+
+{{Quote|''The first in-depth look at [[Waterdeep]], the shining jewel of the [[Forgotten Realms]] setting, in many years.''
+
+City of Splendors: Waterdeep ''offers an in-depth examination of the great city of Waterdeep in the Forgotten Realms setting. An overview of the city includes history, a who’s who, information on laws, and rules for running and playing in a Waterdhavian campaign. Information on the people of Waterdeep covers non-player characters, arcane schools, armed forces, guilds, nobility, prestige classes specific to the city, and more. Also included in the book are discussions of specific Waterdeep locales, adventure locales, and new monsters. An extensive appendix gives information on new equipment, magic items, psionic powers, poisons, spells, and more.''}}
+
+==Contents==
+* Introduction
+* Chapter 1: The City of Splendors
+* Chapter 2: People of Waterdeep
+* Chapter 3: Prestige Classes
+* Chapter 4: Waterdeep Locales
+* Chapter 5: Adventures in Waterdeep
+* Chapter 6: Monsters of Waterdeep
+* Chapter 7: Heroes and Magic
+
+==Description==
+It details the city of [[Waterdeep]], including a history of the city, detailed city maps, descriptions of key locations, game statistics for important NPCs, information on local laws, and rules for running and playing in adventures in the City of Splendors. 
+
+==Index==
+{{IndexLink|Click here for page index}}
+{{Incomplete}}
+===Characters===
+:{{P|[[Achem el Zalath]]|23}} • {{P|[[Alathene Moonstar]]|30,44-45,61-62,87,120}} • {{P|[[Alaura Cartier]]|40}} • {{P|[[Aleena Paladinstar]]|24,53}} • {{P|[[Amrani]]|106}} • {{P|[[Araeralee Summerstar]]|24}} • [[Arnagus]] • {{P|[[Artor Morlin]]|41}} • {{P|[[Athosar]]|39}} • {{P|[[Aznar Thrul]]|24}} • {{P|[[Baerom Thunderstaff II]]|30}} • {{P|[[Bamaal Dunster]]|39}} • {{P|[[Blackrabbas Khuulthund]]|21,72}} • {{P|[[Crunch (Gondsman)|Crunch]]|29}} • {{P|[[Cyrtue]]|58}} • {{P|[[Corinna Lathankin]]|40-41}} • {{P|[[Dagsumn]]|30-31}} • {{P|[[Dahaerlin]]|151}} • {{P|[[Danilo Thann]]|13,24,29,61-63,87}} • [[Djarrus Gost]] • {{P|[[Drejjd]]|16,56}} • {{P|[[Errya Eltorchul]]|27}} • {{P|[[Essimuth]]|106}} • {{P|[[Ethur Anszim]]|27}} • {{P|[[Fea Eltorchul]]|26}} • {{P|[[Frethian]]|32}} • [[Gathgaer Milomynt]] • {{P|[[Ghentilara]]|39-40}} • {{P|[[Haerun Mhammaster]]|21,72,100}} • {{P|[[Hanor Kichavo]]|40,41}} • {{P|[[Haurier Brightshadow]]|40}} • [[Helve Moonstar]] • {{P|[[Hemmerem]]|106}} • {{P|[[Hlanta Melshimber]]|30}} • {{P|[[Hlethvagi Anteos]]|41-42}} • {{P|[[Horth Shalark]]|18,100}} • {{P|[[Hronkil Elgredesson]]|41}} • {{P|[[Huld Belabranta]]|30}} • {{P|[[Ildar Orsabbas]]|50}} • {{P|[[Ilbrost Mythyl]]|43}} • {{P|[[Ilighast Chamnabbar]]|21,72,116}} • {{P|[[Ilistar Maeringuld]]|24}} • {{P|[[Irbryth Authamaun]]|21,72,94}} • {{P|[[Iriador Wintermist]]|12,20,29}} • {{P|[[Irusyl Eraneth]]|25,76108,149}} • {{P|[[Jalarra Sakrel]]|24}} • {{P|[[Jandar Ilbaereth]]|40}} • {{P|[[Jannaxil Serpentil]]|19}} • {{P|[[Jasmal (person)|Jasmal]]|21,72}} • {{P|[[Javroun Lithkind]]|21,72}} • {{P|[[Jhandess Millomyr]]|29,73}} • {{P|[[Jhanthra Rowanmantle]]|24}} • [[Juz'la]] • {{P|[[Kadila adh Vitendi]]|41,90}} • {{P|[[Kappiyan Flurmastyr]]|13,31}} • {{P|[[Kelthul Majarra]]|29}} • {{P|[[Khallos Melshimber]]|29}} • {{P|[[Khostal Hannass]]|18,106}} • {{P|[[Kiirma Blackmane]]|24,76}} • {{P|[[Kromnlor Sernar]]|21,72}} • {{P|[[Lhoril Delhiirnyn]]|32,115}} • {{P|[[Loene]]|100}} • {{P|[[Maaril]]|13,20,32-33,43,115}} • {{P|[[Madame Garah]]|106}} • {{P|[[Maresta Rhanbuck]]|24}} • {{P|[[Maskar Wands]]|30,63}} • {{P|[[Maura Silverhand]]|24}} • {{P|[[Mhaere Dryndilstann]]|40}} • {{P|[[Mhair Szeltune]]|30,63}} • {{P|[[Mirrormul Tszul]]|21,72}} • {{P|[[Mother Tathlorn]]|61}} • {{P|[[Muiral]]|13,27-28,47,128,148}} • [[Mulgor]] • {{P|[[Nandel Greenward]]|27}} • {{P|[[Naneatha Lharilstar]]|75,100}} •{{P|[[Narthund Delzhour]]|21,72}} • {{P|[[Nelkaush]]|106}} • {{P|[[Nleera Tarannath Tesper]]|30,73}} • {{P|[[Nylaersyn Flosh
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Jesters' Guild
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Jesters' Guild
+| aliases        = Ancient and Revered Order of Merrymakers<ref name="BCD-p21" /><ref name="SRLM-p17" />
+| base           = [[Jesters' Clubhouse]], [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| leader         = [[Bazzle]] (early 14{{th}} century [[DR]] – [[1357 DR]])<ref name="SRLM-p18" />
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          = 
+| allegiances    = 
+| enemies        = 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Jesters' Guild''',<ref name="WDH-p13">{{Cite book/Waterdeep: Dragon Heist|13}}</ref> formerly known as the '''Ancient and Revered Order of Merrymakers''', was a branch of [[Waterdeep]]'s [[Council of Musicians, Instrument-Makers, & Choristers|Musicians' Guild]] that long sought to breakaway<ref name="BCD-p21">{{Cite comic/Beneath the City of the Dead|21}}</ref><ref name="SRLM-p17">{{Cite comic/Showtime! or Revenge of the Living Monologue|17}}</ref> and by the 15{{th}} century [[DR]] had succeeded in becoming their own guild.<ref name="WDH-p13" />
+
+==Members==
+The membership of the Jesters' Guild was made up of various clowns, comedians, and [[jester]]s.<ref name="BCD-p20">{{Cite comic/Beneath the City of the Dead|20}}</ref> The core elite of the guild was formed by [[magic-user]]s, who stood out from others by altering the [[verbal component]]s of their [[spell]]s into joke lines.<ref name="BCD-p23">{{Cite comic/Beneath the City of the Dead|23}}</ref> 
+
+==Activities==
+The Jesters' Guild was one of many in Waterdeep that had its own codes of conduct. One of these rules by which they abided by was that anyone who dared to heckle a member of the guild would in turn be publicly mocked and taunted for four days by no less than four members of the guild.<ref name="WDH-p173">{{Cite book/Waterdeep: Dragon Heist|173}}</ref>
+
+==Base of Operations==
+The main guildhall of the Jesters' Guild was the [[Jesters' Clubhouse]], a small building in the city's [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+
+==History==
+In the {{YearlinkName|1357}}, a plot was hatched by the Musicians' Guild to obtain the corpse of [[Myrrth]],<ref name="SRLM-p15-17">{{Cite comic/Showtime! or Revenge of the Living Monologue|15-17}}</ref> an infamous Waterdhavian jester from the 13{{th}} century [[DR]] who learned of a joke that had the power to kill,<ref name="ADDc-7-p.24">{{Cite comic/Showtime! or Revenge of the Living Monologue|24}}</ref><ref name="DL-p1-3">{{Cite comic/Die Laughing|1-3}}</ref> so that they may divine from it that "killing joke" and make a bid to cease control over all of Waterdeep. To this end they used a mole, [[Doofut]], to propose the plan the upstart breakaway Jester's Guild, thereby setting them up to take the fall and be discredited if the plan failed.<ref name="SRLM-p15-17" />
+
+Sensing that someone was planning to rob his grave, Myyrth's spirit manifested on the [[Prime Material plane]] and went in search of [[adventurer]]s at [[Selûne's Smile]] to prevent his remains from being disturbed. There he encountered the willing group of [[Kyriani Agrivar]], [[Onyx the Invincible]], and [[Vajra Valmeyjar]].<ref>{{Cite comic/The Spirit of Myrrth|2-4}}</ref> However, the party was beaten to the [[Anteos]] family's crypt in the [[City of the Dead]] by the Jester's Guild, who had taken Myrrth's remains to their headquarters, without the knowledge of the Musicians' Guild.<ref>{{Cite comic/The Spirit of Myrrth|2,6,10,14-15}}</ref><ref>{{Cite comic/Beneath the City of the Dead|22-24}}</ref>
+
+After securing Myrrth's skeleton, the Jester's Guild's magic-users, using a series of spells in the forms of joke set-ups, turned it into a skeletal colossus.<ref name="BCD-p23-25">{{Cite comic/Beneath the City of the Dead|23-25}}</ref> They also [[Imbue undead with spell ability|imbued it]] with a number of spells including ''[[flame breath]]'', ''[[frost breath]]'', and ''[[withering gaze]]''.<ref>{{Cite comic/Showtime! or Revenge of the Living Monologue|8}}</ref> Each spell having been memorized by one of the members.<ref name="SRLM-p18">{{Cite comic/Showtime! or Revenge of the Living Monologue|18}}</ref>
+
+The order set the skeleton loose to wreck havoc across the city until the [[Lords of Waterdeep]] yielded to their demand of being recognized as an official guild,<ref>{{Cite comic/Beneath the City of the Dead|21-25}}</ref><ref name="SRLM-p9">{{Cite comic/Showtime! or Revenge of the Living Monologue|9}}</ref> particularly directing its ire towards [[Castle Waterdeep]].<ref name="SRLM-p9" /> but the order quickly lost control of their undead creation and their guildmaster Bazzle died from its ''flame breath'' whilst trying to stop it.<ref>{{Cite comic/Beneath the City of the Dead|13-14,18}}</ref>
+
+Many tried in vain to stop the skeleton's 
+
+=== LINKED WIKI PAGE (first 5000 chars): Guild of Watermen
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Guild of Watermen
+| aliases        = 
+| base           = [[Watermens' Hall]], [[Dock Ward of Waterdeep|Dock Ward]] of [[Waterdeep]]
+| leader         = [[Zzundar Thul]] (early 1370s [[DR]])<br />[[Hyacinth]] (? - [[1474 DR]])<br />[[Sabbar]] ([[1475 DR]] -)
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p40"/><ref>{{Cite organized play/LFR/Mystery of Deepwater Harbor|12,14}}</ref>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Guild of Watermen
+}}
+The '''Guild of Watermen''' was a group of Waterdhavian dockmen and sailors that kept [[Deepwater Harbor]] clean and free from debris and ferried goods from ships moored to the dock. Due to the amount of ships coming in and out of [[Waterdeep]]'s port, their duties had them working round-the-clock. Fortunately, the importance of their labors was well-known.<ref name="WatN-p40">{{Cite book/Waterdeep and the North|40}}</ref><ref name="WatN-p41"/>
+
+They were the masters of the city's [[Dock Ward of Waterdeep|Dock Ward]] and knew all the harbor's currents, its varying depths, and every drain pipe that emptied from the sewers.<ref name="WatN-p41"/>
+
+==Activities==
+Using a fleet of skiffs and small ferries, the Watermen removed any errant crates or other debris that could possibly clog the harbor, cleared away seaweed from ship hulls and disposed of bodies they came across.<ref name="WatN-p40"/> In addition, they loaded and unloaded nearly all of the ships that came into the city's docks.<ref name="WatN-p41">{{Cite book/Waterdeep and the North|41}}</ref>
+
+They were allowed to keep any cargo they recovered, as long as it wasn't claimed by its previous owner within a period of seven months. If the owner identified lost goods, sufficient to the judgement of a local magister, but did not wish to immediately pick it up, the city stored the goods for some time and paid the Watermen a finder's fee of 1 [[gp]].<ref name="WatN-p41"/>
+
+==Costs==
+The guild charged 1 [[sp]] per man-hour to load or unload cargo from ships. This fee was increased to 2 sp if they had to handle hazardous or potentially deadly goods such as caged beasts, incendiary items or oil, or creatures that carried disease of the body or mind.<ref name="WatN-p41"/>
+
+==Uniform==
+Guild livery consisted of blue raincoats and white, formless hats.<ref name="WatN-p40"/>
+
+==Notable Members==
+* [[Zzundar Thul]]: "Master of the Harbor" during the late 14{{th}} century [[DR]].<ref name="WatN-p40"/>
+* [[Jaster Thul]]: The guild's spokesman in the same period.<ref name="WatN-p40"/>
+
+==Appendix==
+===Appearances===
+:;Organized Play & Licensed Adventures
+::''[[Mystery of Deepwater Harbor]]''
+===References===
+{{refs}}
+[[Category:Guilds]]
+[[Category:Organizations on Dock Street (Waterdeep)]]
+[[Category:Organizations in Watermens' Hall]]
+[[Category:Organizations in the Dock Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Deepwater Harbor
+
+{{Body of water
+| image          = Eyecatcher-5e.jpg
+| caption        = Ships anchored at Deepwater Harbor.
+| name           = Deepwater Harbor
+| aliases        = Waterdeep Harbor
+| type           = Harbor
+| region         = [[Waterdeep]], [[Sword Coast North]]
+| size           = 
+| depth          = 
+| river source   = 
+| river mouth    = 
+| tributaries    = 
+| tributary of   = 
+| georefs        = <ref name="CS-CG2e-p58-59">{{Cite book/City of Splendors (boxed set)/Campaign Guide|58-59}}</ref><ref name="CSW3e-p107-108">{{Cite book/City of Splendors: Waterdeep|107-108}}</ref>
+| races          = [[Merfolk]], [[aquatic elves]]
+| socrefs        = <ref name="CS-CG2e-p58-59" />
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| mountains      = 
+| events         = yes
+| food and drink = 
+| items          = 
+}}
+'''Deepwater Harbor''', also known as '''Waterdeep Harbor''', was a natural basin of the [[Sea of Swords]] off the [[Sword Coast North]] that gave the city of [[Waterdeep]] its name.<ref name="CS-CG2e-p58-59" /><ref name="CSW3e-p107-108" />
+
+==Description==
+Thanks to continuous efforts by the [[Guild of Watermen]] and its [[merfolk]] population, the cold waters of Deepwater Harbor were exceptionally clean.<ref name="CS-CG2e-p58-59" /><ref name="CSW3e-p107-108" />
+
+==Geography==
+[[File:Deepwater Harbor City of Splendors 1994.png|thumb|340px|''A map of Deepwater Harbor, showing off the division of Great Harbor and Naval Harbor, ''circa'' [[1368 DR]].'']]
+Deepwater Harbor was enclosed by [[Deepwater Isle]] to the south and [[Stormhaven Island]] to the west. It was divided into two parts: the [[Great Harbor]], where all trade and general seafaring traffic took place, and the [[Naval Harbor]], which was restricted for the [[City Navy (Waterdeep)|City Navy]].<ref name="CSW3e-p107-108" /><ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref> The harbor was considered part of the [[Waterdeep/Dock Ward|Dock Ward]] of Waterdeep.<ref name="CS-CG2e-p10">{{Cite book/City of Splendors (boxed set)/Campaign Guide|10}}</ref>
+
+The rocky bottom of the harbor was covered with a thin layer of mud that became thicker towards the south. The sea floor sloped down southward and rose in the eastern and western directions, forming a lopsided bowl shape.<ref name="CS-CG2e-p58-59" />
+
+===Geographical Features===
+From the west, Deepwater Isle provided a natural protection from harsh weather.<ref name="CS-CG2e-p10" /> South of the island, a formation of sharp rocks known as the [[Sea Stacks]] provided another natural barrier against the approach of ships.<ref name="CSW3e-p107-108" /> Northeast of Deepwater Isle, the sea floor sloped abruptly into a great depth in the area known as [[Umberlee's Cache]].<ref name="CS-CG2e-p58-59" />
+
+==Trade==
+[[File:Waterdeep Island AFR.jpg|thumb|240px|''A ship clearing the edge of Deepwater Harbor.'']]
+Groups of [[locathah]] and merfolk visited the communities at Deepwater Harbor regularly to trade.<ref name="CS-CG2e-p58-59" /><ref name="CSW3e-p107-108" />
+
+==Defenses==
+Surface access to Deepwater Harbor from the Sea of Swords was controlled by mariners of the [[City Guard (Waterdeep)|City Guard]], who operated walls and retractable chain nets that could block the harbor if necessary. Underwater access both from the sea and from the city's sewer exits was patrolled by a group of hired merfolk from the village in Deepwater Isle, whose watches regularly covered up to {{SI|0.25|mi|long=yes}} off the western shore of Deepwater Isle and up to {{SI|0.5|mi|long=yes}} north of [[Stormhaven Island]]. They were considered members of the Guard, but employed their own weapons and tactics independently. Unauthorized [[lizardfolk]] and [[sahuagin]] coming into the harbor were attacked on sight.<ref name="CS-CG2e-p58-59" />
+
+In exchange for protection and cleanup of the harbor, the [[Lords of Waterdeep]] paid the merfolk generously in the form of food, medical supplies, and [[trade bar]]s. The merfolk could also be hired for the recovery of sunken vessels or cargo and other services.<ref name="CS-CG2e-p58-59" />
+
+Under the Waterdhavian [[Laws of Waterdeep#Code Legal|Code Legal]], illegal entry into Deepwater Harbor was punishable by banishment from the city for one year, as well as a fine of 500 [[gp]].<ref name="CS-CG2e-p78">{{Cite book/City of Splendors (boxed set)/Campaign Guide|78}}</ref>
+
+==History==
+Regular meetings at Deepwater Harbor began in {{YearlinkName|-1088}}, as southern and northern [[human]] tribes gathered there annually to trade. The first permanent settlements dated back to {{YearlinkName|-980}} in what would later become the city of Waterdeep.<ref name="CS-CG2e-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+In the {{YearlinkName|-458}}, the village of [[Tharqualnaar]] was founded by merfolk settlers.<ref name="CSW3e-p111">{{Cite book/City of Splendors: Waterdeep|111}}</ref>
+
+
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords' Alliance
+
+{{Otheruses4|the coalition of political forces on the [[Sword Coast]]|other groups with a similar name|Council of Lords (disambiguation)}}
+{{Organization
+| image          = <gallery>
+Lords' Alliance 5e.png|c. 1480 DR
+Lords_Alliance.jpg|1370 DR
+</gallery>
+| caption2       = ''Various symbols of the Lords' Alliance.''
+| name           = Lords' Alliance
+| aliases        = Council of Lords
+| base           = 
+| leader         = {{Split table|Lord [[Piergeiron the Paladinson|Piergeiron of Waterdeep]]||As of [[1358 DR]]<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref>||Lord Protector [[Dagult Neverember]]||Around [[1467 DR]]<ref name="NCS-pp86-88">{{Cite book/Neverwinter Campaign Setting|86-88}}</ref>-[[1488 DR]]||Open Lord [[Laeral Silverhand]]||1488 DR-present}}
+| symbol         = 
+| favored weapon = 
+| basicrefs      = <ref name="FRCS3e-pp275-276" /><ref name="RoT-pp13-14" />
+| domains        =
+| formed         = [[1325 DR]]
+| disbanded      = 
+| members        = 
+| alignment      = [[Lawful good]]
+| races          = 
+| allegiances    = The [[Harpers]], the [[Emerald Enclave]], the [[Order of the Gauntlet]], the [[Zhentarim]] (as of 1488 DR)<ref name="RoT-pp13-14" />
+| enemies        = The Zhentarim (in the 14{{Th}} century), [[Luskan]], [[Shadow Thieves of Amn]],<ref name="SF-p9" /> [[Calimshan]]<ref name="SF-p9" /> the [[church of Bane]]<ref name="LoD-p119">{{Cite book/Lords of Darkness|119}}</ref>
+| relrefs        =
+| showmembers    = yes
+| orgname        = the Lords' Alliance
+}}
+The '''Lords' Alliance''', also known as the '''Council of Lords''', was a partnership of merchant cities founded in the early 14{{th}} century [[DR]].<ref name="LEoF-p141">{{Cite book/Lost Empires of Faerûn|141}}</ref><ref name="GHotR-p137">{{Cite book/The Grand History of the Realms|137}}</ref> Its members were from the [[Sword Coast]], [[the North]] and [[Western Heartlands]],<ref name="OOtA-p128">{{Cite book/Out of the Abyss|128}}</ref> including [[Waterdeep]], [[Silverymoon]], [[Baldur's Gate]], and [[Neverwinter]], as well as other free cities and towns in the region, which made up the bulk of the organization.<ref name="RoT-pp13-14" /> It was formed to oppose the growing influence of the [[Zhentarim|Black Network]] in the North, the [[Shadow Thieves of Amn]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /><ref name="CoV-p102">{{Cite book/Champions of Valor|102}}</ref> rampaging hordes of [[orc]]s, and [[Northlander]] raiders.<ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref>
+
+{{Quote|For a century and a half, and more, the Lords' Alliance has stood as the most important and influential group in the North. Its power has kept towns safe from the predations of larger powers, has kept the ambitions of Luskan in check, and has taught the rulers of many cities that it is better to cooperate, even for a time, then to merely shut one's doors and allow the storms to rage outside.|[[Andew Cururen]], a Lords' Alliance agent of note.<ref name="SCAG-p43" />}}
+
+==Organization==
+Depending on who was asked, the Lords' Alliance was considered either a strong coalition,<ref name="OOtA-p128" /> or unsteady pact of political powers. While the Alliance was said by some to be a collective of aggressive and self-serving figureheads,<ref name="PotA-p15-16">{{Cite book/Princes of the Apocalypse|15-16}}</ref><ref name="SKT-p12">{{Cite book/Storm King's Thunder|12}}</ref> others insisted they were among the most secure governing bodies in the west.<ref name="OOtA-p128" /> The truth, as it usually was, lay somewhere between the two extremes. While the members often held opposing views and held interests that conflicted with their peers, these rivalries were set aside when true danger emerged to threaten their collective safety and prosperity.<ref name="RoT-pp13-14">{{Cite book/The Rise of Tiamat|13-14}}</ref> The true strength of the alliance, it was said, manifested when its members banded together on collaborative endeavors.<ref name="OOtA-p128" /> 
+
+While some of these cities and city-states held more influence than others,<ref name="RoT-pp13-14" /> they aligned their goals for the greater good and prosperity of the whole alliance.<ref name="OOtA-p128" /> Collectively they believed in the preservation of civilization for the better of their people.<ref name="SCAG-p43" />
+
+The Lords' Alliance had the following ranks from lowest to highest: Cloak, Redknife, Stingblade, Warduke, and Lioncrown.<ref name="DMG-2014-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+The alliance's emblem was a golden crown set over a field of red.<ref name="KGV.P13">{{Cite book/Keys from the Golden Vault/Prisoner 13|?}}</ref>
+
+==Alliance Members and Leaders==
+These were the member states and their leaders as of [[1489 DR]].<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref><ref name="SCAG-p15">{{Cite book/Sword Coast Adventurer's Guide|15}}</ref>
+
+* [[Amphail]]: Lord [[Dauner Ilzimmer]]
+* [[Baldur's Gat
+
+=== LINKED WIKI PAGE (first 5000 chars): Cynosure (building)
+
+{{Otheruses4|the public forum|other uses|Cynosure}}
+{{Building
+| image         = 
+| caption       = 
+| name          = Cynosure
+| aliases       = House of the Overgod<ref name="CoS.AGttC-p20" /><br />Temple of the Overgod Ao<ref name="F&A-p30" />
+| type          = Public forum<br />{{former}} Temple
+| architecture  = Marble
+| floors        = 2<ref name="CoS.CG-p47" /><ref name="CoSW-p98" />
+| location      = [[Trader's Way (Waterdeep)|Trader's Way]], [[Waterdeep/Castle Ward|Castle Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Lords of Waterdeep]]<br />{{former}} [[Cult of Ao]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = {{former}} [[Ao]]
+| basicrefs     = <ref name="CoSW-p96" /><ref name="CoS.WWiW-p62" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Cynosure''',<ref name="F&A-p30">{{Cite book/Faiths & Avatars|30}}</ref><ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref><ref name="poly94-p12">{{Cite polyhedron/94/The Cult of Ao: Who Watches Those who Watch over You?|12}}</ref> formerly known as the '''Temple of the Overgod Ao'''<ref name="F&A-p30" /><ref name="CoS.WWiW-p60-61">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|60-61}}</ref> or the '''House of the Overgod''',<ref name="CoS.AGttC-p20">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|20}}</ref> was a temple turned public forum in the city of [[Waterdeep]].<ref name="CoS.AGttC-p20" /><ref name="F&A-p30" /><ref name="CoSW-p96" /><ref name="CoS.WWiW-p60-61" /><ref name="WDH-p167" />
+
+==Location==
+This building was located along [[Trader's Way (Waterdeep)|Trader's Way]],<ref name="CoSW-p96" /><ref name="CoS.WWiW-p62">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|62}}</ref><ref name="poly94-p12" /> in [[Waterdeep/Castle Ward|Castle Ward]] of Waterdeep.<ref name="CoS.AGttC-p20" /><ref name="CoS.CG-p47" /><ref name="CoSW-p98" /><ref name="CoSW-p96" />
+
+==Structure==
+Cynosure stood two stories tall<ref name="CoS.CG-p47">{{Cite book/City of Splendors (boxed set)/Campaign Guide|47}}</ref><ref name="CoSW-p98">{{Cite book/City of Splendors: Waterdeep|98}}</ref> and was constructed out of [[marble]].<ref name="CoSW-p96" /><ref name="CoS.WWiW-p62" /><ref name="poly94-p12" /><ref name="CoS.WWiW-p60-61" /><ref name="WDH-p167">{{Cite book/Waterdeep: Dragon Heist|167}}</ref> It featured many pillars.<ref name="WDH-p167" /> It had the words "High Temple of the Overgod" carved into a frieze, but this was magically altered to "Cynosure" following the temple's acquisition by the city.<ref name="poly94-p12" />
+
+Due to existing around the area in which [[Myrkul]] died, the building was subject to a minor, permanent planar breach into the [[Fugue Plane]], causing the casting of [[spell]]s to be impeded.<ref name="CoSW-p96" />
+===Interior===
+Inside of the building were paintings and sculptures depicting major events and participants of the [[Time of Troubles]].<ref name="WDH-p167" />
+
+==Services==
+Cynosure was available rent for events both public and private.<ref name="WDH-p167" /> Nobles and wealthy merchants alike often rented it out for events such as balls, parties, and weddings.<ref name="CoSW-p96" /><ref name="poly94-p12" /> Many of the city's populous guilds rented it out to conduct private meetings of full members.<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|37}}</ref> And it was often the site of negotiations between powerful spellcasters, who viewed it as a "neutral ground" due to the area's ambient impediment on spellcasting.<ref name="CoSW-p96" />
+
+==Activities==
+Whenever an event wasn't being held, people could freely enter the Cynosure free of charge.<ref name="WDH-p167" />
+
+On the annual holiday [[Gods' Day]], which took place on the [[Marpenoth 15|15{{th}} of Marpenoth]], the [[cult of Ao]] sponsored a day-long celebration within Cynosure that was followed in the evening by a solemn prayer service.<ref name="F&A-p30" /> And during [[Waukeentide]], it was one of the buildings that the [[Guilds of Waterdeep]] traditionally held the gala festival and dance of [[Guildsmeet]] in.<ref name=CoS.AGttC-p29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref><ref name="WDH-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref>
+
+==History==
+A month following the death of [[Myrkul]] in the Time of Troubles<ref name="CoSW-p96" /><ref name="poly94-p12" />&mdash;the aftermath of which had many made aware of [[Ao]]'s existence, as his voice was heard booming over top [[Mount Waterdeep]]&mdash;a dedicated temple to the [[Overgod]] was built upon the site of Myrkul's death.<ref 
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Trades Ward
+
+{{Location
+| type          = Ward
+| name          = Trades Ward of Waterdeep
+| image         = Waterdeep_Wards-Trades_Ward_01.gif
+| caption       = 
+| aliases       = 
+| capital       = 
+| area          = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-p105">{{Cite book/Volo's Guide to Waterdeep|105}}</ref><ref name="CoS-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         = 
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+}}
+The '''Trades Ward''' was one of the seven wards of the city of [[Waterdeep]]. It was the main shopping district of Waterdeep and housed many of the city's guildhalls.<ref name="VGtW-p105" /> 
+
+==Geography==
+The ward was bounded in the south by the [[Southern Ward of Waterdeep|Southern Ward]], in the west by [[Castle Ward]], in the north by [[North Ward of Waterdeep|North Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]] and in the east by the [[Trollwall]].<ref name="VGtW-p105" />
+
+==History==
+In the late 14{{th}} century [[DR]], over the course of a [[tenday]] and more, streets across the Trades Ward experienced a number of [[ghost]]ly sightings that left many citizens, scribes, and members of the [[City Watch (Waterdeep)|City Watch]] confused. Some speculated if a [[wizard]] experimenting with [[illusion]]s may have been the cause. Others speculated it was a wizard seeking to harm local businesses, drive down local property values, or simply spread fear&mdash;though all who put forward these theories admitted to having nothing to backup their claims.<ref name="WN.GS" />
+
+Some interpreted the apparitions as being a message &mdash; [[Sambral the Soothsayer]] would claim the dead were warning Waterdhavians of impending battles from underground invaders, [[Sheireera|Sheireera of the Prophecies]] would claim that it was the dead crying out against immorality and lawlessness in Waterdeep, and [[priest]] [[Thalomaun]] of the [[Church of Lathander]] would make a proclamation on [[Virgin's Square]] that it was a sign from the dead for the living of the affected neighborhoods to do away with old businesses and make way for new ones.<ref name="WN.GS">{{Cite web/Waterdeep News/Ghost Sightings}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Guildhalls===
+* [[Citadel of the Arrow]]: Headquarters of the [[Fellowship of Bowyers and Fletchers]].<ref name="VGtW-107" />
+* [[Cobblers' & Corvisers' House]]: Headquarters of the [[Order of Cobblers and Corvisers]].<ref name="VGtW-107" />
+* [[Costumers' Hall]]: Headquarters of the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="VGtW-107" />
+* [[Guild Paddock]]: Headquarters of the [[Stablemasters' & Farriers' Guild]].<ref name="VGtW-107" />
+* [[House of Cleanliness]]: Headquarters of the [[Launderers' Guild]].<ref name="VGtW-107" />
+* [[House of Light]]: Headquarters of the [[Guild of Chandlers and Lamplighters]].<ref name="VGtW-107" /><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+* [[House of Song]]: Headquarters of the [[Council of Musicians, Instrument-Makers, & Choristers]].<ref name="VGtW-107" />
+* [[House of Textiles]]: Headquarters of the [[Most Excellent Order of Weavers and Dyers|Most Excellent Order of Weavers & Dyers]].<ref name="VGtW-107" />
+* [[League Office]]: Headquarters of the [[League of Basketmakers & Wickerworkers]].<ref name="VGtW-107" />
+* [[Old Guildhall]]: Headquarters of the [[Cellarers' & Plumbers' Guild]].<ref name="VGtW-107" />
+* [[Stationers' Hall]]: Headquarters of the [[Stationers' Guild]].<ref name="VGtW-107" />
+* [[The Zoarstar]]: Headquarters of the [[Scriveners', Scribes', & Clerks' Guild]].<ref name="WatN-p25" /><ref name="VGtW-107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+* [[Wheel Hall]]: Headquarters of the [[Wheelwrights' Guild]].<ref name="VGtW-107" />
+
+===Taverns & Inns===
+* The [[Bowels of the Earth]]: Near Virgin's Square. Popular with adventurers and mercenaries.<ref name="WatN-p25" /><ref name="VGtW-108">{{Cite book/Volo's Guide to Waterdeep|108}}</ref><ref name="CoSW-55">{{Cite book/City of Splendors: Waterdeep|55}}</ref>
+* The [[Dagger's Rest]]: An affordable inn catering to adventurers.<ref name="Wate1.1-p4">{{Cite organized play/LFR/Heirloom|4}}</ref>
+*[[Felzoun's Folly]]: A place for a quick bite to eat a
+
+=== LINKED WIKI PAGE (first 5000 chars): Broadsheet
+
+{{Item
+| image         = Broadhsheet bg.png
+| caption       = A broadsheet being sold by a child in [[Baldur's Gate]].
+| name          = Broadsheet
+| othernames    = Short scroll
+| nicknames     = 
+| type          = [[Scroll]]<ref name="CoS|14"/>
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="CoS|14"/>
+| school        = 
+| level         = 
+| value         = 
+| weight        = 
+| rules         = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 1-10 [[cp]]<ref name="CoS-p18">{{Cite book/City of Splendors: Waterdeep|18}}</ref>
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = 
+| communication = 
+| languages     = 
+| alignment     = 
+}}
+
+A '''broadsheet''', also known as a '''short scroll''', was a short, printed document which usually contained tabloid-style news or political rants. They were most commonly found in [[Waterdeep]], where they were sold by broadcryers on the main streets.<ref name="CoS|14">{{Cite book/City of Splendors: Waterdeep|14}}</ref><ref name="downshadow-ch28">{{Cite digital book/Downshadow||28}}</ref>
+
+{{Quote|''Trade a nib for the wonders of the world!''|[[Haumbroad the Humble]] advertising a broadsheet, ''Broadcryers of Waterdeep I: News for Sale'' by [[Ed Greenwood]]<ref name="BoW1">{{Cite web/Realmslore/Broadcryers of Waterdeep I: News for Sale}}</ref>}}
+
+==Description==
+According to tradition, most Waterdhavian broadsheets were sold for 1 [[cp]], though more popular broadsheets commanded a few more nibs. Around the mid-to-late 14{{th}} century, thirty to forty broadsheets were produced regularly.<ref name="BoW1"/>
+
+Most broadsheets published new issues every three or four days, though important events would trigger the immediate production of "extras." Higher-quality broadsheets catering to wealthier clientele usually published once a tenday; these broadsheets often featured current events and serialized fiction.<ref name="BoW1"/>
+
+===Broadcryers===
+Broadsheet vendors often employed children to "cry" the headlines aloud in order to intrigue passersby, leading to the nickname "broadcryers."<ref name="BoW1"/> Though broadcryers could be found all over Waterdeep, they often congregated near the city gates or at busy intersections, such as the crossing between [[High Road (Waterdeep)|High Road]] and [[Waterdeep Way]], [[High Road (Waterdeep)|High Road]] and the [[Way of the Dragon (Waterdeep)|Way of the Dragon]], and the entrance to the [[Waterdeep/City of the Dead|City of the Dead]].<ref name="BoW3">{{Cite web/Realmslore/Broadcryers of Waterdeep III: Know Thy Sources, Part One}}</ref>
+
+To preserve the peace, broadcryers only sold broadsheets after dawn and before dusk, and moved streets regularly to avoid being accused of blocking business to the shops. [[City Watch (Waterdeep)|City Watch]] officials were often obliged to "move along" the broadcryers, asking them to carry their business to the next street.<ref name="BoW3"/>
+
+Broadcryers occasionally made deals with inn- and tavern-keepers to allow them to sell their broadsheets inside the buildings. This allowed them to preserve their voice, as well as reduce the risk of being asked to move by irritated shopkeepers on the street.<ref name="BoW3"/>
+
+===Production===
+Broadsheets were mechanically printed with the use of [[Printing press#Frame press|frame press]]es, which had been in use by the Waterdhavian [[gnome]] and [[halfling]] communities to produce [[chapbook]]s.<ref name="BoW2">{{Cite web/Realmslore/Broadcryers of Waterdeep II: Perils and Presses}}</ref> They were printed on "strips of parchment no longer than a human is tall and of widely varying widths, from chapbook width to thrice as broad." Despite being thoroughly dried before sale, the vegetable inks often ran when wet. Exclusive broadsheets would be baked before sale to prevent this effect.<ref name="BoW1"/>
+
+Popular poems, jokes, and phrases were kept for re-issue, though Waterdhavians considered the periodic re-printing of such things "coin skimming," or, a minor grift.<ref name="BoW2"/>
+
+===Comedy===
+{{Quote|''How did Lord Bladderblat decide if young Lady Glunder was a suitable match for his son? He tried her out himself, of course. Several times.''|a rude Waterdhavian street joke<ref name="EFR-p18">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|18}}</ref>}}
+
+Poking fun at the nobility was a time-honored Waterdhavian tradition, and one that sparked the creation of several fictitious noble surnames to enhance the game. The most recognizable were "Bladderblat" and "Glunder," and had been created centuries ago by gossiping nobles to mask the identities of their subjects. The surnames were often used by satiri
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/City of the Dead
+
+{{Otheruses4|the cemetery in [[Waterdeep]]|other uses|City of the Dead (disambiguation)}}
+{{Location
+| image          = City of the Dead-Julian Kok.jpg
+| caption        = 
+| name           = City of the Dead
+| aliases        = The City<ref>{{Cite book/Volo's Guide to Waterdeep|38}}</ref>
+| type           = 
+| size           = Cemetery / ward
+| area           = [[Waterdeep]],<br /> [[Sword Coast North]]
+| languages      = 
+| races          = 
+| religion       = 
+| alignment      = 
+| established    = [[1248 DR]]
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| histrefs       = <ref>{{Cite book/City System|4}}</ref>
+| usethe         = yes
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| events         = yes
+| food and drink = 
+| items          = yes
+}}
+The '''City of the Dead''' was a large cemetery and ward in [[Waterdeep]]. Most of the city's dead were buried here.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref> By day, it also doubled as the city's major public park picnic area.<ref name="CoS:W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WDDH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref>
+
+==Activities==
+Besides burials and funerals, the City of the Dead was host to a variety of activities among Waterdhavians. These included, but were not limited to:  being an exercise run, a dueling ground, a playground, a highsun dining area, a meeting-moot, a place where courting lovers could meet in private, and a performance venue for [[minstrel]]s (and would-be minstrels).<ref>{{Cite web/Realmslore/Dawntree, Part One: Bold Dreams}}</ref>
+
+At night the City of the Dead was off-limits to the public, yet it was still used by many during those hours for more nefarious activities.<ref name="CoS:W-p102" />
+
+==History==
+The area that would eventually become the site of the City of the Dead was used as a burial site as far back as the days of [[Nimoar's Hold]].<ref>{{Cite adventurers league/Hero of the Troll Wars|5-7}}</ref>
+
+When Waterdeep was much smaller, a cemetery was established on the end of the plateau overlooking the plains east of the city. A low wall was built around the cemetery in [[1064 DR]] first establishing its boundaries north and east of the [[Trades Ward of Waterdeep|Trades Ward]] and south of the [[North Ward of Waterdeep|North Ward]]. Since that time, higher walls were built and gates into the City of the Dead were established which were only opened to the public during the daylight hours.<ref name="CoS-CG-p56-57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|56-57}}</ref>
+
+Space soon became hard to come by in the cemetery itself. Many of those who could not afford to be buried there found themselves interred in an area known as [[Grave Alley]] (later called [[Ilisar’s Alley]]). Their coffins were placed vertically below the cobblestones. This led to issues of the [[undead]] rising from the streets themselves and the practice was soon abandoned.<ref name="VGtW-p165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+
+In order to alleviate the overcrowding, in [[1250 DR]], [[Ahghairon]] and other mages of Waterdeep began to establish ''[[portals]]'' from tombs and mausoleums to uninhabited demiplanes of various types where the dead were laid to rest. Most notable among these wizards, except for Ahghairon himself, was the ''portal'' and ''teleportation'' specialist, [[Anacaster]]. Two of his more well known portals led from [[The House of the Homeless]] and [[Merchants’ Rest]].<ref name="CoS:W-p102" />
+
+Most noble houses, reportedly less than half, did not keep family tombs in the City of the Dead. They instead had crypts below their villas or were buried in family estates outside of Waterdeep.<ref name="CoS-CG-p56-57" />
+ 
+The cemetery suffered extensive damage during the [[Spellplague]].<ref name="BT.p107-8">{{Cite book/Blackstaff Tower|107-8}}</ref>
+
+==Notable Locations==
+[[File:Waterdeep_Wards-City-of-the-Dead_01.gif|thumb|250px|''Map of the City of the Dead''.]]
+===Gates===
+;[[Andamarr Gate]]: One of the public gates.<ref name="City of the Dead-p133">{{Cite book/City of the Dead|133}}</ref>
+;[[Coffinsmarch Gate]]: One of the public gates.<ref name="City of the Dead-p1">{{Cite book/City of the Dead|1}}</ref>
+;[[Dead End Gate]]: The hidden, private gate the Carver family uses to enter in order to conduct burials or perform maintenance on the tombs <ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Mhalsyymber Gate]]: One of the public gates.<ref name="City of the Dead-p173">{{Cite book/City of the Dead|173}}</ref>
+===Crypts, plots, tombs, vaults===
+;[[Deepwinter Vault]]: A tomb near the north end of the City of the Dead. It once housed the noble Deepwinter family, but was also the entry into the [[Dungeon of the Crypt]].<ref name="City of the Dead-p10">{{Cite book/City of the Dead|10}}</ref><re
+
+=== LINKED WIKI PAGE (first 5000 chars): Fellowship of Innkeepers
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Fellowship of Innkeepers
+| aliases        = 
+| base           = [[Fellowship Hall]]
+| leader         = [[Brathan Zilmer]] (c. early 1370s [[DR]])
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          = 
+| allegiances    = 
+| enemies        = 
+| showmembers    = yes
+| orgname        = the Fellowship of Innkeepers
+}}
+The '''Fellowship of Innkeepers''' was one of the oldest [[Guilds of Waterdeep|guilds]] of [[Waterdeep]]. The collective of innkeepers and owners banded together to share information for their mutual protection, typically warning one another of problematic clientele such as [[thieves]], rowdy patrons, or troublesome [[wizard]]s.<ref name="W&tN-p39">{{Cite book/Waterdeep and the North|39}}</ref>
+
+==Activities==
+The fellowship collectively bargained for products they all used, such as drink, linens, and laundering services, to acquire them at a discount for their respective establishments. They also shared their funds to hire a band of well-armed guards whose services would otherwise be well beyond their budgets.<ref name="W&tN-p39"/>
+
+Every nine nights, the guildmaster opened up [[Fellowship Hall]] for its members, so they could enjoy the luxuries of staying in a quality inn for a change.<ref name="W&tN-p39"/>
+
+==Membership==
+Entrance into the fellowship had to be approved by a majority of the existing guild members and cost 25 [[gp]]. Annual dues were 20 gp.<ref name="W&tN-p39"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Guilds]]
+[[Category:Organizations on Waterdeep Way]]
+[[Category:Organizations in Fellowship Hall]]
+[[Category:Organizations in the Castle Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Saddlers' and Harness-makers' Guild
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Saddlers' and Harness-makers' Guild
+| aliases        = 
+| base           = [[Saddlers' and Harness-Makers' Hall]], [[Southern Ward of Waterdeep|Southern Ward]] of [[Waterdeep]]
+| leader         = [[Deljassa Rammathor]] (c. [[1357 DR]])
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          = 
+| allegiances    = 
+| enemies        = 
+| showmembers    = yes
+| orgname        = the Saddlers' and Harness-makers' Guild
+}}
+The '''Saddlers' and Harness-makers' Guild''' of [[Waterdeep]] was a group of allied leather-workers and [[bit and bridle|bridle]] and tack-makers who provided their services to equine enthusiasts in the city.<ref name="W&tN-p43">{{Cite book/Waterdeep and the North|43}}</ref>
+
+==Membership==
+Entrance into the guild cost 20 [[gp]] and its annual dues were 7 gp.<ref name="W&tN-p43"/>
+
+==History==
+Following her illustrious career as a [[thief]] and a jockey, [[Deljassa Rammathor|Deljassa "Lady Wind"]] began crafting her own tack and eventually rose to become the master of the guild by [[1357 DR]]. She proved to be a shrewd leader, quickly gaining preferential deals on leather with the [[League of Skinners and Tanners]].<ref name="W&tN-p43"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Guilds]]
+[[Category:Organizations in the Saddlers' & Harness-Makers' Hall]]
+[[Category:Organizations on Tulmaster's Street]]
+[[Category:Organizations on the Rising Ride]]
+[[Category:Organizations in the Southern Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lord's Court
+
+{{otheruses4|the court of Waterdeep|the meeting in Shadowdale|Shadowdale}}
+{{Organization
+| image          = File:Lord's Court 1.jpg
+| caption        = The Lord's Court in session.
+| name           = Lord's Court
+| aliases        = Lords' Court<ref name="CoS.W-p96"/>
+| base           = [[Piergeiron's Palace]], [[Waterdeep]]<ref name="CoS.W-p96"/>
+| leader         = Open Lord [[Piergeiron]]<ref name="CoS.W-p14"/>
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          = 
+| allegiances    = Waterdeep
+| enemies        = 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lord's Court''' was the highest court in the city of [[Waterdeep]] in the 14th century [[DR]].<ref name="WatN-p15">{{Cite book/Waterdeep and the North|15, 17}}</ref><ref name="AGTotR-p105">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|105}}</ref><ref name="CoS.CG-p77">{{Cite book/City of Splendors (boxed set)/Campaign Guide|77}}</ref><ref name="CoS.W-p14">{{Cite book/City of Splendors: Waterdeep|14}}</ref>
+
+==Leadership==
+In the mid-to-late 14th century DR, the Lord's Court was chaired by Open Lord [[Piergeiron]], and attended by two or more other [[Lords of Waterdeep]] (and no less than two) as well as two [[Magister (Waterdeep)|Magisters]].<ref name="WatN-p15"/><ref name="CoS.CG-p77"/><ref name="CoS.W-p14"/> Although there were sixteen Lords (as of 1357 DR), it was very rare for more than seven to attend at the same time. They wore identical robes and masks to hide their identities,<ref name="WatN-p15"/><ref name="CoS.CG-p68">{{Cite book/City of Splendors (boxed set)/Campaign Guide|68}}</ref> the Open Lords like Piergeiron might show their faces.<ref name="ADDc-23"/>
+
+==Base==
+The Lord's Court normally met in [[Piergeiron's Palace]], in a large chamber on the second floor accessed via the grand staircase from the entry hall.<ref name="CoS.W-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref><ref name="CoS.CG-p47">{{Cite book/City of Splendors (boxed set)/Campaign Guide|47}}</ref>
+
+==Activities==
+The Lord's Court handled all the most severe crimes in Waterdeep's [[Laws of Waterdeep#Code Legal|Code Legal]], such as murders and suspicious deaths, rape, misuse of [[magic]], and disputes over succession and inheritance.<ref name="WatN-p15"/><ref name="AGTotR-p105"/><ref name="CoS.CG-p77"/><ref name="CoS.W-p14"/> A head of one of the city's noble families could only proclaim a chosen heir (if not their eldest child) in the Lord's Court, where it could be heard and confirmed by the Lords.<ref name="CoS.W-p59">{{Cite book/City of Splendors: Waterdeep|59}}</ref><ref name="CoS.WWiW-p6">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|6}}</ref>
+
+In addition, citizens sentenced by a Magister in the [[Common Courts]] could appeal to the Lord's Court within two days, but appeals usually failed, with most judgements upheld or merely slightly rephrased, owing to the quality of the Magisters.<ref name="WatN-p15"/><ref name="AGTotR-p105"/><ref name="CoS.CG-p77"/><ref name="CoS.W-p14"/> Persons bringing frivolous appeals typically received stiffer fines than they would have got from the Magisters.<ref name="AGTotR-p105"/> Justice in the Lord's Court was said to be swift and sure.<ref name="ADDc-23"/>
+
+The Lord's Court formerly heard civil disputes around [[1358 DR]],<ref name="ADDc-23">{{Cite comic/Lawyers!|9-10,23}}</ref> but by 1372 DR these and lesser crimes were handled by the Common Courts.<ref name="CoS.W-p14"/>
+
+In the time of Lord Baeron, a person was given the length of time it took for a short candle to burn down in which to speak.<ref name="WatN-p14">{{Cite book/Waterdeep and the North|14}}</ref><ref name="CoS.CG-p28">{{Cite book/City of Splendors (boxed set)/Campaign Guide|28}}</ref>
+
+The Lord's Court was held around [[highsun]] each day.<ref name="WatN-p15"/><ref name="CoS.CG-p77"/>
+
+==History==
+The Lord's Court was established by Lord [[Baeron]] after he took power in [[1273 DR]], with the function of correcting and overruling the judgements of the Magisters (whom he'd also instituted), and told the people this did not mean to doubt or dismiss the Magisters' rulings. He encouraged people to speak freely and honestly before the court, without fear of embarrassment or reprisal, and to answer questions or counterarguments put to them by anyone present. He desired that legitimate grievances would be heard, no matter minor the issue or how humble the claimant.<ref name="WatN-p14"/><ref name="CoS.CG-p28"/>
+
+On [[Alturiak 1]] of the [[1346 DR|Year of the Bloodbird, 1346 DR]], the Lord's Court heard the case of the [[Maddgoth|Phyrgoth]], who'd been charged with attempting to abduct a woman from the [[Copper Cup]] festhall. However, the woman in question supported the manipulative mage in her testimony, claiming she was going to marry him. Therefore, the apparently pen
+
+=== LINKED WIKI PAGE (first 5000 chars): Leiruin
+
+{{Event
+| image       = 
+| caption     = 
+| name        = Leiruin
+| partof      = [[Waukeentide]]
+| othernames  = 
+| type        = Festival
+| deity       = [[Waukeen]]
+| location    = [[Waterdeep]], [[Sword Coast North]]
+| date        = [[Tarsakh 10]]
+| duration    = One day
+| schedule    = 
+| frequency   = Annual
+| basicrefs   = <ref name="WDH5e-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = Payment of [[Guilds of Waterdeep|guild]] dues; annual guild reports
+| first       = 
+| cause       = 
+| responsible = 
+| subevents   = 
+| outcome     = 
+| histrefs    = <ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref>
+}}
+'''Leiruin''' was a festival held in [[Waterdeep]] as part of the [[Waukeentide]] holiday.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==Description==
+The festival celebrated honest merchants. As part of the day's activities, members of the several [[guilds of Waterdeep]] renewed their memberships and paid their annual dues. Additionally, the guildmasters met the [[Lords of Waterdeep]] to keep them apprised of their charters for the coming year.<ref name="WDH5e-p185" />
+
+During the 14{{th}} century [[DR]], criminals charged with commercial crimes such as robbery and theft were subjected to public ridicule by being brought in front of the [[Palace of Waterdeep]], where guild members threw [[nib]]s at them. The [[copper]] collected in this way was donated to the city.<ref name="CS-AGC2e-p29" />
+
+==History==
+The festival was instituted to celebrate when the [[goddess]] [[Waukeen]] caught [[Leira]] trying to cheat her in an honest deal. As punishment, Waukeen buried Leira under a mountain of molten [[gold]].<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+Originally a separate holiday, Leiruin was incorporated into Waukeentide and became one of the [[tenday]]-long holiday's many festivities.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==Appendix==
+===See Also===
+*[[Caravance]]
+*[[Goldenight]]
+*[[Guildsmeet]]
+===References===
+{{Refs}}
+[[Category:Events on Toril]]
+[[Category:Events in Faerûn]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Waterdeep]]
+[[Category:Festivals]]
+[[Category:Events in Tarsakh]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waukeentide
+
+{{Event
+| image       = 
+| caption     = 
+| name        = Waukeentide
+| partof      = 
+| othernames  = 
+| type        = Holiday, festival
+| deity       = [[Waukeen]]
+| location    = [[Waterdeep]]
+| date        = [[Tarsakh]] [[Tarsakh 1|1]]‒[[Tarsakh 10|10]]
+| duration    = One [[tenday]]
+| schedule    = 
+| frequency   = Annual
+| basicrefs   = <ref name="WDH5e-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = Festivals celebrating commerce
+| first       = 
+| cause       = 
+| responsible = 
+| subevents   = [[Caravance]]<br />[[Goldenight]]<br />[[Guildsmeet]]<br />[[Leiruin]]
+| outcome     = 
+| histrefs    = <ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref>
+}}
+'''Waukeentide''' was a holiday observed in [[Waterdeep]] in honor of the [[god]]dess [[Waukeen]]. It consisted of a number of festivals bundled together into a single event.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==Description==
+The holiday was held in the form of a series of celebrations that also codified common business practices of Waterdeep, such as a review of the policies of the [[Guilds of Waterdeep]], as well as renewal of guild membership. Businesses also typically stayed open until late and offered promotions to customers during this period.<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+Some of the celebrations held during Waukeentide included:<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+* [[Tarsakh 1]]: [[Caravance]], a commemoration of the first trade caravans to reach Waterdeep;
+* [[Tarsakh 5]]: [[Goldenight]], a night festival celebrating money and [[gold]];
+* [[Tarsakh 7]]: [[Guildsmeet]], a gala festival in which guilds announced their new policies;
+* [[Tarsakh 10]]: [[Leiruin]], celebrating Waukeen's punishment of an attempt at deception by [[Leira]].<ref name="WDH5e-p185" /><ref name="CS-AGC2e-p29" />
+
+==History==
+The original festival used to be one day long and focused on celebrating Waterdeep's free trade and commerce. It was gradually expanded to include older festivities, to a point where its name was only maintained by force of habit. In the 14{{th}} century [[DR]], the tenday-long festival was already several centuries old.<ref name="CS-AGC2e-p29" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Events in Tarsakh]]
+[[Category:Events on Toril]]
+[[Category:Events in Faerûn]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Waterdeep]]
+[[Category:Festivals]]
+[[Category:Holidays]]
+[[Category:Religious events]]
+

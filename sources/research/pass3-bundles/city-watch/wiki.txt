@@ -1,0 +1,1979 @@
+=== WIKI PAGE: City Watch (Waterdeep)
+
+{{Organization
+| image          = City_watch-5e.jpg
+| caption        = Various members of the City Watch.
+| name           = City Watch
+| aliases        = Watchers<ref name="tCaT-p26">{{Cite book/To Catch a Thief|26}}</ref>
+| base           = [[Palace of Waterdeep]], [[Waterdeep]], [[Sword Coast North]]<ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35–37}}</ref>
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Any
+| memrefs        = <ref name="WDH5e-p198">{{Cite book/Waterdeep: Dragon Heist|198}}</ref>
+| allegiances    = [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="WDH5e-p198" />
+| showmembers    = yes
+| orgname        = the City Watch of Waterdeep
+}}
+The '''City Watch''' of [[Waterdeep]] served as the police force within the city.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p35" /> Its strict code of conduct and well trained operatives made the Watch one of the most trusted police forces in [[Faerûn]].<ref name="WDH5e-p168">{{Cite book/Waterdeep: Dragon Heist|168}}</ref>
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: [[City Guard (Waterdeep)|the Guard]] guards the walls while the Watch watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The Watch's purpose was not only to enforce the law, but also to ensure the well-being of Waterdhavians.<ref name="CoS.W-p35" />
+
+It had a centralized command led by the Commander of the Watch, who supervised three watchlords,<ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PoF-p29">{{Cite book/Power of Faerûn|29}}</ref> or senior commanders: the Mage Civilar in charge of the [[wizard]] corps; the Senior Armsmaster, who was in charge of supplies and reported directly to the Commander of the Watch; and the Grand Civilar, who commanded the ward civilars and held the same rank as the Mage Civilar.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" /> The Commander of the Watch reported directly to the [[Open Lord]].<ref name="WDH5e-p198" />
+
+Each ward of Waterdeep was patrolled by a division of the Watch under the command of a ward civilar, or [[Generic City Watch major (Waterdeep)|major]], who oversaw all the senior civilars commanding the watch stations of their respective wards.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />{{Border box float
+| theme        = 
+| float        = 
+| contentalign = center
+| width        = auto
+| styles       = 
+| content      = {{Split table|lca=center|rca=center|caption=City Watch Ranks|captionstyle=font-size:larger;font-family:Georgia,serif;font-weight:bold;text-align:center;
+|leftheader=Rank<ref name="WDH5e-p189" />|rightheader=Title<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| [[Generic City Watch patrolperson (Waterdeep)|Watchman/Watchwoman]] | ''Constable''
+| [[Generic City Watch sergeant (Waterdeep)|Sergeant]] | ''Armar''
+| [[Generic City Watch lieutenant (Waterdeep)|Lieutenant]] | ''Civilar''
+| [[Generic City Watch captain (Waterdeep)|Captain]] | ''Senior civilar''
+| [[Generic City Watch major (Waterdeep)|Major]] | ''Ward civilar''
+}}
+----
+'''Senior Commanders'''<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76" /><br />''Grand Civilar'' • ''Mage Civilar'' • ''Senior Armsmaster''
+----
+'''''Commander of the Watch'''''
+}}Each guard post was commanded by a senior civilar or [[Generic City Watch captain (Waterdeep)|captain]], sometimes referred to as a rorden,<ref name="THO2004" /><ref name="PoF-p29" /> who commanded a number of patrols. Senior civilars also performed duties as orsars, acting as envoys and prisoner escorts; and as guardswords, in charge of patrolling the docks and gates.<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /><ref name="THO2004" /><ref name="PoF-p29" />
+
+Each patrol was headed by a civilar, or [[Generic City Watch lieutenant (Waterdeep)|lieutenant]],<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /> also known as a [[swordcaptain]] or amlar.<ref name="ADDc-01"/> Typical patrol groups included one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], also known as a "sword", and two or more [[Generic City Guard private (Waterdeep)|constable]]s, also known as "blades"<ref name="PoF-p29" />, patrolmen,<ref name="ADDc-01"/> or watchmen/watchwomen.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />
+
+==Activities==
+[[File:Delzorin.png|thumb|300px|right|''A traffic warden gives directions at the corner of [[Delzorin Street]] and [[Whaelgond Way]].'']]
+{{Quote|I have sworn to uphold the laws and the edicts of the Lords of the city. For much of my life, I've dedicated myself to that goal of keeping the peace, and I'm happy with that. In Waterdeep, if wrong is being done or the spirit of the law is broken, the situation will be corrected by me and by the Watch, worry not of that. Law and order—sometimes it's all that separates us from becoming Undermountain or Hellgate Keep.|[[Captain Rulathon]]<ref name="CoS-CG-p75">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75}}</ref>}}
+
+The City Watch performed everyday policing duties. They never acted outside the walls of the city<ref name="ADDc-01"/> and did not pay much attention to the city's sewers.<ref name="WDH5e-p27">{{Cite book/Waterdeep: Dragon Heist|27}}</ref> They were a peacekeeping force, also responsible for solving crimes and apprehending criminals.<ref name="WDH5e-p198" />
+
+During particularly busy hours at important intersections, the Watch also employed traffic wardens to manage the flow of people and vehicles. Traffic wardens carried two flags: one blue, which signaled for traffic to proceed, and one yellow, which signaled for it to stop. They also employed whistles to call the attention of passersby, if necessary.<ref name="WDH5e-p171">{{Cite book/Waterdeep: Dragon Heist|171}}</ref>
+
+==Tactics==
+When within the walls of Waterdeep, the City Watch typically patrolled in groups of four, with two patrolmen, one armar, and one civilar.<ref name="ADDc-01"/><ref name="CoS.W-p35"/>
+
+In calmer districts such as the [[Castle Ward of Waterdeep|Castle Ward]], those detachments were even smaller, often consisting of only two officers. Conversely, locations such as the [[Dock Ward of Waterdeep|Dock Ward]] were patrolled by groups of eight during the day and twelve at night.<ref name="WDH5e-p168" />
+
+Many spellcasters within the City Watch were trained in the use of the spell ''[[trembling horn]]'', which was developed for the organization by [[Thyriellentha Snome|Thyri Snome]]. It allowed watchmen place an invisible, magical tracer that caused alarm-like effects that were widely recognizable among the Waterdhavian populace.<ref name="CoS.CG-p86"/>
+
+==Base of Operations==
+The Watch's main base of operations was the [[Palace of Waterdeep]].<ref name="CoS.W-p35" />
+
+There were multiple City Watch posts in Waterdeep. They were usually not located on the main streets, but were all identified by a green and gold lantern that hung outside, permanently lit by a ''[[continual flame]]'' [[spell]]. These posts served as local headquarters, armories, stations for people to report crimes, and temporary jailhouses to hold prisoners until they were moved to a courthouse.<ref name="WDH5e-p168" /> Watch stations were always led by a captain.<ref name="WDH5e-p198" />
+
+==Possessions==
+[[File:Badge_of_the_watch-5e.jpg|thumb|200px|right|''A  captain's ''[[badge of the Watch]]''.'']]
+Members of the City Watch typically wore [[leather armor|leather]] and [[chain mail|chain armor]] and carried sturdy rods like [[club]]s, [[short sword]]s, and [[dagger]]s.<ref name="ADDc-01"/><ref name="CoS.W-p35"/> Many of them also carried unique  sounding horns, that functioned along with [[trembling horn|specific spells]] unique to the members of their organization.<ref name="CoS.CG-p86">{{Cite book/City of Splendors (boxed set)/Campaign Guide|86}}</ref>
+
+In the 14{{th}} century [[DR]], City Watch captains carried an ''[[amulet of the Watch]]'', a [[magic item]] that allowed the wearer to summon reinforcements from the Watch or from the [[City Guard (Waterdeep)|City Guard]].<ref name="CoSW3e-p149">{{Cite book/City of Splendors: Waterdeep|149}}</ref> In the 15{{th}} century DR, officers who achieved the rank of captain were awarded a ''[[badge of the Watch]]'', a magic item that provided the wearer with additional protection against attacks and allowed the [[Open Lord]] to immediately know the wearer's location. Only the Open Lord could award ''badges of the Watch''.<ref name="WDH5e-p189">{{Cite book/Waterdeep: Dragon Heist|189}}</ref>
+
+In the late 14{{th}} century DR, some of the members of the Watch were given fashionable-looking ''[[cloak of protection versus evil|cloaks of protection versus evil]]'' by [[Khelben Arunsun]] and one of his apprentices who later opened his own shop that sold similar magic [[cloak]]s.<ref name="nwn">{{Cite game/Neverwinter Nights}}</ref>
+
+==History==
+By [[1479 DR]], the [[City Guard (Waterdeep)|City Guard]] had been folded into the Watch, becoming a division of its organization.<ref name="FRCG-p197">{{Cite book/Forgotten Realms Campaign Guide}}</ref><ref name="DS-ch1">{{Cite digital book/Downshadow||1}}</ref> As the Guard was better equipped and trained, particularly dangerous tasks inside Waterdeep were given to the Guard instead, such as patrolling the [[Waterdeep/Sewers|sewers]] and [[Undermountain]].<ref name="DS-ch7">{{Cite digital book/Downshadow||7}}</ref>
+
+==Members==
+[[File:City_watch_members-5e.jpg|thumb|250px|''Mergen Truff, Orvis Torval, and Rosko Bosh.'']]
+* [[Brace Ulmemur]]: former adventurer turned City Watchmen ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* [[Derek Windsfire]]: was The Grand Civilar in command of the seven ward civilars ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* [[Emmer Jundhyl]]: was a watch civilar of the [[North Ward of Waterdeep|North Ward]] ''circa'' [[1372 DR]]<ref name="CoS.W-p35" />
+* [[Jauslo]]: was a watch civilar who was in charge of the baby [[griffon]] recovery for [[Laeral Silverhand]] ''circa'' 1490s [[DR]].<ref name="tCaT-p1-2">{{Cite book/To Catch a Thief|1-2}}</ref>
+* [[Helve Urtrace]]: was the Senior Armsmaster ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* Captain [[Hyustus Staget]]<ref name="WDH5e-p27">{{Cite book/Waterdeep: Dragon Heist|27}}</ref> ''circa ''[[1492 DR]]
+* [[Mulgor|Mulgor of Tyr]]: was a collector-of-fees ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* [[Myrkuth Longpipe|Ilph]]: was the Senior Skulk of the [[Castle Ward of Waterdeep|Castle Ward]] ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* Captain [[Jalester Silvermane]]<ref name="WDMM5e-p10">{{Cite book/Waterdeep: Dungeon of the Mad Mage|10}}</ref> ''circa ''[[1492 DR]]
+* [[Olophin yn Zelmazzar]]: was a senior civilar of the [[Trades Ward of Waterdeep|Trades Ward]] ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* Captain [[Rulathon]]: was the Commander of the Watch ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* Sergeant [[Saeth Cromley]]: was retired, but sometimes helped with investigations<ref name="WDH5e-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref>
+* [[Thyriellentha Snome]]: was the Mage Civilar ''circa'' [[1372 DR]]<ref name="CoS.W-p35"/>
+* [[Mergen Truff]], [[Orvis Torval]], and [[Rosko Bosh]], a detachment of the Watch sent to guard the remains of the [[Jolly's Lamp Emporium]] warehouse in the [[Waterdeep/Dock Ward|Dock Ward]] in {{Yearlink|1496}}.<ref name="AI5e-p86">{{Cite book/Acquisitions Incorporated|86}}</ref>{{AI-time}}
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+:;Adventures
+::''[[Acquisitions Incorporated (sourcebook)|The Orrery of the Wanderer]]'' • ''[[Waterdeep: Dragon Heist]]''
+::{{Refonly}}
+::<small>''[[Waterdeep: Dungeon of the Mad Mage]]''</small>
+:;Novels
+::''[[Mistshore (novel)|Mistshore]]'' • ''[[To Catch a Thief]]''
+:;Video Games
+::''[[Dungeons & Dragons: Eye of the Beholder]]''
+::{{Refonly}}
+::<small>''[[Neverwinter Nights]]''</small>
+:;Miniatures
+::''[[Icons of the Realms]]''
+
+===External Links===
+* [http://archive.wizards.com/default.asp?x=dnd/rl/20050720a The City Watch of Waterdeep, Part One]<br/>
+* [http://archive.wizards.com/default.asp?x=dnd/rl/20050727a The City Watch of Waterdeep, Part Two]
+
+===References===
+{{Refs}}
+[[FR:Guet (organisation d'Eauprofonde)]]
+[[Category:Peacekeeping organizations]]
+[[Category:Organizations in the Armory of Waterdeep]]
+[[Category:Organizations in the North Tower]]
+[[Category:Organizations in Seaeyes Tower]]
+[[Category:Organizations in Seawatch Tower]]
+[[Category:Organizations in the East Torch Tower]]
+[[Category:Organizations on Black Well Court]]
+[[Category:Organizations in the Guard Barracks (Dock Ward)]]
+[[Category:Organizations in the Sea Ward of Waterdeep]]
+[[Category:Organizations in the Dock Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+[[Category:Law enforcement organizations]]
+
+=== WIKI PAGE: City Guard (Waterdeep)
+
+{{Organization
+| image          = <gallery>
+City_guard-5e.jpg|5e
+City Guardsmen-Vinod Rams.jpg|3e
+</gallery>
+| caption2       = The City Guard of Waterdeep.
+| name           = City Guard
+| aliases        = The Guard<br/>Guardsmen
+| base           = [[Castle Waterdeep]]
+| leader         = [[Simonetta Twoedged]]<br />(before [[1368 DR]])<br />[[Obryn Ironfist]] ([[1372 DR]])<br />[[Ezender Drayth]] ([[1491 DR]])<br />[[Elminster]] (1491 DR)
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="ADDc-01"/><ref name="CS.W-p33">{{Cite book/City of Splendors: Waterdeep|33-34}}</ref><ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref>
+| members        = 1200 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|on|off|off|on|on|off|off|off|off}}
+| races          = {{numeric table|[[Human]]s|770|[[Shield dwarf|Shield dwarves]]|130|[[Elves]]|110|[[Lightfoot halfling]]s|70|[[Half-elves]]|55|[[Gnome]]s|35|[[Half-orc]]s|25|Others|10}}
+| memrefs        = <ref name="CS.W-p33"/>
+| allegiances    = [[Lords of Waterdeep]], [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| showmembers    = yes
+| orgname        = the City Guard of Waterdeep
+}}
+The '''City Guard''' was a highly trained military organization of fully-armored soldiers responsible for defending the great city of [[Waterdeep]] and patrolling its surroundings.<ref name="CS.W-p33" /><ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS2e-p75-76" />
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: the Guard guards the walls while [[City Watch (Waterdeep)|the Watch]] watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The City Guard served many purposes related to defending the city. Within Waterdeep, the Guard protected the city walls, gates, and its important buildings, as well as provided escorts for government officials. It also patrolled the harbor and the roads leading from Waterdeep to [[Amphail (village)|Amphail]], [[Goldenfields]], and [[Daggerford]].<ref name="WDH5e-p197" />
+
+The exact size of the City Guard was a secret only known to the [[Lords of Waterdeep]], but it was thought to be around 1,200 strong.<ref name="CoS2e-p75-76" /> In times of war, it could enlist mercenaries and grow to a contingent of up to 12,000 members.<ref name="CS.W-p33"/>
+
+Members of the City Guard were paid a salary of 6 [[gp]] per month. No fee was required to join the ranks.<ref name="CS.W-p33"/>
+
+A special aquatic division of the Guard was recruited from the underwater residents of [[Deepwater Harbor]].<ref name="CS.W-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref> The [[merfolk]] of [[Tharqualnaar]] and the [[Aquatic elf|sea elves]] of [[T'Quession]] provided Guards who were responsible for defending Waterdeep against aquatic threats, recovering bodies, salvaging lost cargo, and patrolling a short distance outside the harbor.<ref name="CS.W-p111">{{Cite book/City of Splendors: Waterdeep|111}}</ref> In particular, they guarded the perimeter of [[Umberlee's Cache]], with the underwater lighthouse [[Deepwater Beacon]] serving as a guiding light and rally point.<ref name="CS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref>
+
+These underwater Guards were not provided with weapons and equipment by the city, but were given a monthly 25 gp stipend of food, medical supplies, and [[trade bar]]s as compensation.<ref name="CS.W-p111" />
+
+===Ranks===
+Like the [[City Watch (Waterdeep)|City Watch]], the City Guard had specific titles for the members of their forces. A City Guard patrol usually consisted of twelve members, whose commanding officer was called the civilar. A commanding officer holding the rank of [[generic City Guard captain (Waterdeep)|captain]] was known as an aumarr, or senior civilar, while one holding the rank of [[generic City Guard lieutenant (Waterdeep)|lieutenant]] was known as a shieldlar, or, simply, civilar. The patrol also contained one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], and ten [[Generic City Guard private (Waterdeep)|guardsmen or guardswomen]], or trusties.<ref name="CS.W-p33" /><ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PF-p29">{{Cite book/Power of Faerûn|29}}</ref> A patrol could also be led by a sergeant.<ref name="ADDc-01" />
+
+Other officer positions existed within the ranks of the Guard, not typically associated with regular patrols. In particular, the ranks of valabrar and torsin were responsible for escorting important individuals within the city, while also composing honor guards and bodyguards to diplomats and illustrious visitors to the city. Officers holding those positions outranked captains.<ref name="THO2004" /><ref name="PF-p29" /><ref name="CS.W-p33" />
+
+{{Border box float
+| theme        = 
+| float        = right
+| contentalign = center
+| width        = 350px
+| styles       = 
+| content      = 
+{{{!}} cellspacing=0 style="text-align:center; width:100%"
+{{!}}+ style="font-size:larger;font-family:Georgia,serif;font-weight:bold;text-align:center;" {{!}} City Guard Ranks
+{{!}}-
+! Rank<ref name="WDH5e-p197" />
+! Title<ref name="CoS2e-p75-76" /><ref name="CS.W-p33" /><ref name="WDH5e-p197" />
+{{!}}-
+{{!}} [[Generic City Guard private (Waterdeep)|Private]]
+{{!}} ''Trusty''
+{{!}}-
+{{!}} [[Generic City Guard sergeant (Waterdeep)|Sergeant]]
+{{!}} ''Armar'' or ''vigilant''
+{{!}}-
+{{!}} [[Generic City Guard lieutenant (Waterdeep)|Lieutenant]]
+{{!}} ''Civilar'' or ''Shieldlar''
+{{!}}-
+{{!}} style="border-bottom:1.5px solid black;" {{!}} [[Generic City Guard captain (Waterdeep)|Captain]]
+{{!}} style="border-bottom:1.5px solid black;" {{!}} ''Senior civilar'' or ''Aumarr''
+{{!}}-
+! colspan="2" style="font-size:normal;font-family:Georgia,serif;font-weight:bold;text-align:center;" {{!}}
+Special Branches
+{{!}}-
+{{!}}[[Griffon Cavalry]]
+{{!}} ''[[Generic Griffon Cavalry rider|Griffon Cavalry rider]]''
+{{!}}}
+----
+'''Perennial Command Positions'''<ref name="WDH5e-p197" /><ref name="PF-p29" /><br />''Seneschal of Castle Waterdeep'' • ''Defender of the Harbor'' • ''Master of the North Towers'' • ''Master of the South Towers''<br />'''Wartime Command Positions'''<br />''Lords' Hand'' • ''Lords' Champion''
+----
+'''''Warden of Waterdeep'''''
+}}
+The City Guard also had a special branch called the [[Griffon Cavalry]]. Its members were responsible for patrolling the skies of the city riding [[griffon]]s.<ref name="WDH5e-p197" />
+
+The commanding positions of the Guard held specific individual titles. Some of those positions existed at all times, while others only during war. The perennial command positions were [[Seneschal of Castle Waterdeep]], [[Defender of the Harbor]], [[Master of the North Towers]], and [[Master of the South Towers]]. Command positions only activated during wartime were the [[Lords' Hand]] and [[Lords' Champion]]. The [[Warden of Waterdeep]] commanded the entire organization.<ref name="WDH5e-p197" /><ref name="PF-p29" />
+
+==Activities==
+The City Guard's duty was to investigate foreign threats to Waterdeep and to protect the city against them.<ref name="ADDc-01" /> Their duties included guarding the city's gates, important locations, and citizens.<ref name="WDH5e-p197" /><ref name="Waterdeep">{{Cite web|url=http://www.wizards.com/default.asp?x=dnd/fr/20010516c|title=Waterdeep|author=[[Rob Heinsoo]], [[Ed Greenwood]], [[Sean K Reynolds]]|date=|work=Sneak Peek|publisher=[[Wizards of the Coast]]|archiveurl=https://web.archive.org/web/20071113084854/http://www.wizards.com:80/default.asp?x=dnd/fr/20010516c |archivedate=2007-11-13|accessdate=2019-03-11}}</ref> City Guards could be found posted at [[Castle Waterdeep]], [[Piergeron's Palace]], the city walls, and its surrounding countryside.<ref name="CS.W-p33" />
+
+City Guard patrols also kept watch on the roads leading from Waterdeep to [[Amphail (village)|Amphail]], [[Daggerford]], and [[Goldenfields]].<ref name="WDH5e-p197" /> As the [[City Watch (Waterdeep)|City Watch]] did not operate within the [[Waterdeep/Field Ward|Field Ward]], the guards assigned to the gates and walls were the only official form of protection. As it was technically outside of the city, they were obliged to assist anyone who was threatened while moving in or out of the city, just as they would when patrolling afield.<ref name="WDH5e-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref>
+
+==Possessions==
+Around [[1357]] and [[1358 DR]], soldiers of the City Guard wore yellow [[scale armor]] under green cloaks and [[tabard]]s. They wore matching conical helms of green and gold with fur trim, chainmail neck-guards, and topped by a spike.<ref name="ADDc-01" /><ref name="ADDc-20" /> They could also carry a shield. Both tabard and shield bore the symbol of Waterdeep, a crescent moon reflected over a bay, surrounded by seven stars. They wielded [[longsword]]s, [[dagger]]s, and [[dart]]s coated with a paralytic [[poison]]. On missions outside, they were also armed with [[bow]]s.<ref name="ADDc-01" />
+
+By [[1368 DR]], the standard uniform of the City Guard was silver scale mail under black, gold-trimmed tabards. Standard armament included daggers, [[rod]]s, [[shortbow]]s, and [[shortsword]]s, with the possibility of additional armament for specific assignments.<ref name="CoS2e-p75-76" />
+
+Around [[1372 DR]], Waterdeep's City Guards wore a uniform of polished [[chainmail]] covered with a tabard in black cloth with gold trim. They carried various weapons as their posts would require, including longswords, shortbows, [[shortspear]]s, shortswords, daggers and [[club]]s.<ref name="CS.W-p33" />
+
+Whenever Waterdeep reached highs of {{SIrange|80|89|F|long=yes}} in the summer season, the City Guard would dress down from sweltering full body armor into more appropriate protection. This included back and [[breastplate|breast]] plates, [[gorget]]s, metal [[codpiece]]s, and light helms. They would also abstain from wearing [[gauntlet]]s and dress in [[surcoat]]s that were of a white hue in order to minimize heat absorption.<ref>{{Cite web/theedverse/2019-05-16 - What the Waterdhavian Guard Wears in the Summer}}</ref>
+
+==History==
+[[File:City_guard_and_magister-5e.jpg|thumb|250px|''Members of the City Guard hold down a suspect while a [[Magister (Waterdeep)|magister]] dispenses judgment.'']]
+One day in the {{YearlinkName|1357}}, a huntsman informed the City Guard of a magical tower erected within a single day, a full day's hard ride north of Waterdeep's [[Trollwall]]. A City Guard patrol, including [[Pern]], investigated and attempted to scale the tower. [[Imgig Zu]], master of the tower, animated his [[gargoyle]] minions to attack the guardsmen.<ref name="ADDc-01" />
+
+In the {{YearlinkName|1358}}, when the skies over the city darkened and an interdimensional wormhole (from the [[Great Door]]) disgorged a swarm of [[gargoyle]]s and [[kenku (winged)|kenku]]s over the city, a City Guard troop and [[Khelben "Blackstaff" Arunsun]] arrived to hold them off. <ref name="ADDc-18">{{Cite comic/Day of the Darkening|5}}</ref> Shortly after, during the [[Time of Troubles]], members of the City Guard stationed in Castle Waterdeep during a party tried to stop a trio of the [[Dark Army of the Night]] from kidnapping a [[Shar|false avatar]] of [[Selûne]]. However, they were hindered by the Dark Army's utter darkness and then by blinding light. The avatar herself stopped the trio with a ''[[bind]]'' spell, and the City Guard arrested them. Later, Lord [[Piergeiron]] ordered [[Rathnar]] of the City Guard to arrest [[Kyriani]] after she fought with the avatar, but [[Khelben Arunsun]] took charge of the prisoner and let her go.<ref name="ADDc-20">{{Cite comic/Dark of the Moon|11-14,19-20}}</ref>
+
+The 3{{rd}} company of the High Guards fought in the final battle of the [[Second Dragonspear War]] at the [[Dragonspear Castle|castle]] in the {{YearlinkName|1363}}.<ref name="HoD-p26">{{Cite book/Hordes of Dragonspear|26}}</ref>
+
+When the [[Shining Crusade]] threatened the Sword Coast in the {{YearlinkName|1368}}, one hundred guardsmen joined the [[Coalition]] army under the command of [[Cedric deLancie|Torsin deLancie]].<ref name="BG.SoD">{{Cite game/Baldur's Gate: Siege of Dragonspear}}</ref>
+
+After the murder of Warden [[Ezender Drayth]] in [[1491 DR]], [[Elminster Aumar]] accepted the position of Warden of Waterdeep, answering directly to [[Open Lord]] [[Laeral Silverhand]].<ref name="WDH5e-p197" />
+
+==Appendix==
+===Appearances===
+;Adventures:
+*''[[Waterdeep: Dragon Heist]]''
+;Comics:
+*''[[The Gathering]]''
+*''[[Day of the Darkening]]''
+*''[[Dark of the Moon]]''
+;Miniatures:
+*''[[Icons of the Realms]]''
+
+===Gallery===
+<gallery>
+City-Guard-comic.jpg|A captain and soldier of the City Guard in 1357 DR.<ref name="ADDc-01"/>
+Gargoyles ADD comic.jpg|[[Gargoyle]]s attack the City Guard.<ref name="ADDc-01"/>
+NWN - HoU - Waterdeep Guard.png|A City Guard of Waterdeep from [[1372 DR]].
+<ref>{{Cite game/Neverwinter Nights: Hordes of the Underdark}}</ref>
+Lords_of_Waterdeep_-_Manual_-_City_Guard.png|A City Guard holding back a crowd, from  ''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]''.
+</gallery>
+
+===References===
+{{Refs}}
+[[Category:Military organizations]]
+[[Category:Organizations in the Bell Tower]]
+[[Category:Organizations in the Castle Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+
+=== WIKI PAGE: Watchful Order of Magists and Protectors
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Watchful Order of Magists and Protectors
+| aliases        = Watchful Order of Magisters<ref name="TDS-p40">{{Cite book/The Dream Spheres|40}}</ref><br />Watch-Wizards Guild of Waterdeep<ref name="WSC-V4-p1147">{{Cite book/Wizard's Spell Compendium Volume Four|1147}}</ref>
+| base           = [[Tower of the Order]], [[Waterdeep]]<ref name="CoS|30"/>
+| leader         = [[Mhair Szeltune]] (c. [[1372]])<ref name="CoS|30"/><br/>[[Khondar Naomal]] (c. [[1479]])<ref name="BST">{{Cite book/Blackstaff Tower}}</ref> [[Bowgentra Summertaen]] (c. [[1491]])
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1317 DR]]<ref name="CoSW-WW-p37">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|37}}</ref>
+| disbanded      = 
+| basicrefs      = 
+| members        = Approximately 1,000 in [[1372 DR]]
+| memberstable   = 
+| memtableheader = 
+| memrefs        = <ref name="CoS|30">{{Cite book/City of Splendors: Waterdeep|30}}</ref>
+| alignment      = 
+| races          = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Watchful Order of Magists and Protectors
+| source         = 
+}}
+The '''Watchful Order of Magists and Protectors''' was the [[guild]] of [[wizard]]s and [[sorcerer]]s for the city of [[Waterdeep]]. However, while technically a guild, the Watchful Order functioned primarily as a mage academy. The Watchful Order also policed the use of [[magic]] within Waterdeep, encouraging wizards to use magic wisely.<ref name="CoS|30" />
+
+==Activities==
+The Order provided many services to its members, including a venue for trading [[spell]] components and [[magical item]]s. The Order served Waterdeep by providing spell wards for wealthy inhabitants and fire fighting through the use of [[water elemental]]s.<ref name="CoS|30">{{Cite book/City of Splendors: Waterdeep|30}}</ref>
+
+The Order also provided many services to the city. Members could earn extra money serving as a fire guard, firefighter, or spell guard. A fire guard was hired to stand watch over a building and squelch any fires that may start as well as alert the firefighters. A firefighter is just that - they are summoned to put out fires with [[magic]]. A spell guard serves as a bodyguard to counter magical attacks. Pay was typically 5, 10, and 10 [[Gold|gold pieces]] per night/day, respectively.<ref name="CoSW-WW-p56">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|56}}</ref> 
+
+==Members==
+*[[Barnibus Blastwind]]<ref>{{Cite book/Waterdeep: Dragon Heist|195}}</ref>
+*[[Bowgentra Summertaen]]<ref name="DM-15">{{Cite book/Death Masks|15}}</ref>
+*[[Glenmaur]]<ref name="DM-15" />
+*[[Ilighast Chamnabbar]]<ref name="CoSW-WW-p69">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|69}}</ref><ref name="CoSW-3e-p72">{{Cite book/City of Splendors: Waterdeep|72}}</ref>
+*[[Lavalander]]<ref name="DM-15" />
+*[[Mhair Szeltune]]: was the Lady Master of the Order ''circa'' [[1367 DR]]<ref name="CoSW-WW-p83">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|83}}</ref><ref name="CoSW-3e-p30">{{Cite book/City of Splendors: Waterdeep|30}}</ref>
+*[[Naxene Drathkala]]
+*[[Olanhar Wands]]<ref name="CoSW-WW-p28">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|28}}</ref><ref name="CoSW-3e-p63">{{Cite book/City of Splendors: Waterdeep|63}}</ref>
+*[[Orlar Thammas]]: was the Speaker of the Order ''circa'' [[1367 DR]]<ref name="CoSW-WW-p56">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|56}}</ref><ref name="CoSW-3e-p30" />
+*[[Qasmult]]<ref name="DM-15" />
+*[[Thyriellentha Snome]]: Mage Civilar of the [[City Watch (Waterdeep)|City Watch]], ''circa'' [[1367 DR]]<ref name="CoSW-WW-p24">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|24}}</ref>
+*[[Vahje]]: former member turned wanted man<ref name="CoSW-WW-p88">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|88}}</ref>
+*[[Khondar Naomal|Khondar "Ten Rings" Naomal]]: was the guild master of the Order ''circa'' [[1479 DR]]<ref name="BST" />
+*[[Ulkoria Stonemarrow]]: was a representative of the Order ''circa'' [[1490 DR]]<ref>{{Cite book/Waterdeep: Dragon Heist|42}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Gallery===
+<gallery>
+Watchful Order Staff.png|''[[Ulkoria Stonemarrow]]'s [[Watchful Order staff]].''
+</gallery>
+===References===
+{{refs}}
+[[FR:Ordre vigilant des mages et des protecteurs]]
+[[Category:Mage guilds]]
+[[Category:Guilds]]
+[[Category:Organizations in the Tower of the Order]]
+[[Category:Organizations in the Castle Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+
+=== WIKI PAGE: Griffon Cavalry
+
+{{Organization
+| image          = [[File:Waterdeep-overview-5e.jpg|250px]]
+| caption        = The Griffon Cavalry flying over Waterdeep.
+| name           = Griffon Cavalry
+| aliases        = The Griffon Cavalry<br/>Griffon Cavalry Riders
+| base           = [[Peaktop Aerie]], [[Castle Waterdeep]]
+| leader         = [[Obryn Ironfist]] ([[1372 DR]])
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="ADDc-01"/><ref name="CS.W-p33"/><ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref>
+| members        = 100 (as of [[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|on|off|off|on|on|off|off|off|off}}
+| races          = {{numeric table|[[Human]]s|95|[[half-elves]]|3|[[Elves]]|2|}}
+| memrefs        = <ref name="CS.W-p33"/>
+| allegiances    = [[Lords of Waterdeep]], [[Piergeiron]], [[Laeral Silverhand]]
+| enemies        = 
+| relrefs        = <ref name="CS.W-p76">{{Cite book/City of Splendors: Waterdeep|76}}</ref>
+| showmembers    = yes
+| orgname        = the City Guard of Waterdeep
+}}
+The '''Griffon Cavalry''' was the air cavalry of the city of [[Waterdeep]] in the 13{{th}}, 14{{th}}, and 15{{th}} centuries [[DR]]. Part of the [[City Guard (Waterdeep)|City Guard]], it was a militia organization made up of soldiers, and [[griffon]]s, responsible for defending and patrolling the great city.<ref name="CS.W-p33">{{Cite book/City of Splendors: Waterdeep|33–34}}</ref><ref name="ADDc-01">{{Cite comic/The Gathering}}</ref>
+
+==History==
+The history of the Griffon Cavalry can perhaps be traced as far back as the second [[Trollwars]] ([[940 DR]] to [[952 DR]]) when [[Ilithrew Belabranta]] rode his griffon into battle. One of his later heirs, Lord [[Palinor Belabranta]], did the same versus the orc hordes of the Black Claw tribe in the {{YearlinkName|1026}}. Since then, House [[Belabranta]] was a noble family associated with the breeding and training of griffons.<ref name="CS.W-p133"/>
+
+In the {{YearlinkName|1235}}, [[Lords of Waterdeep|Open Lord]] [[Ahghairon]] officially declared the Griffon Cavalry part of the City Guard during a huge orc siege on the city. The riders not only fought the orc hordes again, but were also used to shuttle in much needed supplies to the city.<ref name="CoS-CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+
+The Griffon Cavalry later established a base of operations on the landward side of [[Mount Waterdeep]] called [[Peaktop Aerie]], or Peaktop Eyrie. There they stabled over twenty griffons with another half-dozen housed at [[Castle Waterdeep]].<ref name="CoS-WW-p54"/>
+
+As of [[1479 DR]], however, the Griffon Cavalry had been disbanded for years, as the griffons died in combat but were never replaced.<ref name="FRCG-p197">{{Cite book/Forgotten Realms Campaign Guide|197}}</ref>
+
+Then, in the {{YearlinkName|1491}}, Open Lord [[Laeral Silverhand]] proposed refounding the Griffon Cavalry, and threatened to make [[Mirt]] do it.<ref name="DM-ch5">{{Cite book/Death Masks|?|5}}</ref> Either way, this goal was achieved by the {{YearlinkName|1492}}, with the newly procured griffons continuing to be supplied by the Belabranta family.<ref name="WDH-p39">{{Cite book/Waterdeep: Dragon Heist|39}}</ref>
+
+==Notable Griffon Riders and/or Trainers==
+[[File:Griffoncavalry.png|thumb|250px|''The Griffon Cavalry flying overhead.'']]
+Although not all of the following people were official members of the Griffon Cavalry, each was known to ride and/or train a griffon in Waterdeep's defense:
+*Ilithrew Belabranta: Rode his mount during the Trollwars<ref name="CS.W-p133">{{Cite book/City of Splendors: Waterdeep|133}}</ref>
+*Lord Palinor Belabranta: Died in battle on his griffon in 1026 DR<ref name="CS.W-p133"/>
+*[[Jhalathan Ilzoond]]: Griffon-tamer of the [[Stablemasters' and Farriers' Guild]] ''circa'' [[1368 DR]], whose steed, [[Firebeak]], was also housed at [[Castle Waterdeep]]<ref name="CoS-WW-p54">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|54}}</ref>
+*[[Jynnia Gundwynd]]: Champion rider of many flying beasts ''circa'' 1368 DR.<ref name="CoS-WW-p15">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|15}}</ref>
+*[[Kerryn Belabranta]]: Griffon-tamer  ''circa'' 1368 DR.<ref name="CoS-WW-p11">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|11}}</ref>
+*[[Malchor Harpell]]: Adventurer  ''circa'' 1368 DR.<ref name="CoS-WW-p76">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|76}}</ref>
+*Lord [[Moedt Belabranta]]: Leader of the Griffon Cavalry ''circa'' [[1372 DR]].<ref name="CS.W-p33"/>
+*[[Xale of the Starry Glen]]: [[Aasimar]] [[paladin]] and leader of the [[Knight of the Blue Moon|Knights of the Blue Moon]] on his griffon [[Arimaspea]] ''circa'' 1372 DR.<ref name="CS.W-p83">{{Cite book/City of Splendors: Waterdeep|83-84}}</ref>
+*[[Sildar Hallwinter]]: Retired knight and an agent of the [[Lords' Alliance]] by [[1491 DR]].<ref>{{Cite book/Dungeons & Dragons Starter Set/Lost Mine of Phandelver|11, 61}}</ref><ref>{{Cite book/Acquisitions Incorporated|106}}</ref>
+*[[Thurl Merosska]]: Left the Griffon Cavalry to later become leader of the [[Feathergale Knights]] by 1491 DR.<ref name="PotA-p192">{{Cite book/Princes of the Apocalypse|192}}</ref>
+*[[Savra Belabranta]]: Member of the Feathergale Knights, but was freed from the cult's influence and joined the [[Order of the Gauntlet]] by [[1492 DR]].<ref name="PotA-p50">{{Cite book/Princes of the Apocalypse|50}}</ref><ref name="WDH-p39" />
+
+==Equipment==
+{{Fq
+| text = People think we flew high over the city to avoid weather vanes and laundry lines and whatnot. Truth is, if the griffons smelled how much [[horse]] meat trotted just below, folks would have worse than joy-flying [[mage]]s and [[stirge]]s to worry about
+| source = [[Sildar Hallwinter]], after retiring from the Griffon Cavalry<ref name="MM5eR-p159">{{Cite book/Monster Manual 5th edition (revised)|159}}</ref>
+}}
+A griffon cavalryman's uniform was similar to other guardsman's, with polished armor and a black [[tabard]] with gold trim, but the tabard was also emblazoned with griffon.<ref name="CS.W-p33" />
+
+Griffon riders were also given either a ''[[ring of feather falling]]''<ref name="WDH5e-p197" /> or a [[griffon badge of Waterdeep]], which performed essentially the same function.<ref name="CS.W-p33" />
+
+In addition to their other armament, the Griffon Cavalry often carried ''[[Lance of burning blackfire|lances of burning blackfire]]'' into battle, wielding them to great effect atop their griffon steeds.<ref name="CS.W-p148">{{Cite book/City of Splendors: Waterdeep|148}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+:;Novels
+::''[[Crucible: The Trial of Cyric the Mad]]'' • ''[[The Summoning]]''
+:;Miniatures
+::''[[Dungeons & Dragons Miniatures]]'' • ''[[Icons of the Realms]]''
+
+===Gallery===
+<gallery>
+D&amp;D_Icons_Waterdeep Dragon Heist_#042 Griffon Cavalry (R).jpg|A miniature of a Griffon Cavalry member.
+</gallery>
+
+===References===
+{{refs}}
+[[FR:Cavalerie griffon (organisation d'Eauprofonde)]]
+[[Category:Military organizations]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations]]
+[[Category:Organizations on Mount Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Palace of Waterdeep
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Palace of Waterdeep
+| aliases       = Lords' Palace<br />Piergeiron's Palace
+| type          = Palace
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward]], [[Waterdeep]]
+| built         = [[1287 DR]]
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CS.W"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Palace of Waterdeep''', also known as the '''Lords' Palace'''<ref name="RoT-p19" /> and previously often called '''Piergeiron's Palace''',<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> was the residence of the [[Open Lord]] of [[Waterdeep]].<ref name="WatN-p15">{{Cite book/Waterdeep and the North|15}}</ref><ref name="CS.W">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+
+==Location==
+The white [[marble]] palace was located at the foot of [[Mount Waterdeep]] at the intersection of the [[Street of Silks]] and [[Waterdeep Way]]. In the courtyard in front of the palace stood [[Ahghairon's Tower]], and just to the north were the palace stables, paddock, and guard barracks.<ref name="CS.W"/>
+
+==Structure==
+The palace featured a [[Lantan]]ese "golemwork clock" called 'Timehands' that comprised dials on three faces of its highest tower. Two bells of different tones would ring out each hour, marking the hour with their number of rings.<ref name="FRCG-p198" />
+
+==Interior==
+Inside Piergeiron's Palace was located a rare place of [[Ao]]ist worship, with a spacious chapel lined with [[oak]]en pews. Bright painted [[plaster]] walls were decorated with [[gold]], [[silver]], and carved [[limestone]] and its marble floors were covered with exotic carpets from [[Shou Lung]] and illuminated with [[jewel]]ed chandeliers. At the center of the furthest wall stood a large intricate stained glass window—the Eye of Ao. It gazed down on the chapel's visitors in radiant indifference.<ref name="TD">{{Cite book/The Diamond||1}}</ref>
+
+A deep well could be found in the prisons and dungeons of the Palace. It was gated with enchanted oaken doors, magically and physically barred, and ensorcelled with the message "DO NOT OPEN UNDER PAIN OF DEATH." The welled path connected the palace with [[Undermountain]].<ref name="TD-ch4">{{Cite book/The Diamond||4}}</ref>
+
+==Activities==
+The Palace served multiple functions for the administration of the city. It was the main office for many of the city's officials including  [[City Watch (Waterdeep)|City Watch]], [[City Guard (Waterdeep)|City Guard]], and city clerks. The [[Lords' Court]] also met in a large chamber on the second floor.<ref name="CS.W"/>
+
+There were embassies here from many other countries and cities, although they were not required to be on the palace grounds. Guest quarters for foreign dignitaries without embassies were also available.<ref name="CS.W"/>
+
+==History==
+The Palace was built over the ruins of an abbey dedicated to [[Chauntea]] that was destroyed during the [[Trollwars#Second_Trollwar|Second Trollwar]] in the mid–10{{th}} century [[DR]]. In the 1370s, relatively harmless [[ghost]]s of Chauntean monks and clerics could still be seen occasionally roaming halls and staircases that no longer existed, passing through the walls of the modern-day castle.<ref name="RBN-6">{{Cite web/Realms by Night/Part Six: The Monks of the Three Candles}}</ref>
+
+The construction and instillation of 'Timehands' was completed in the {{YearlinkName|1445}}.<ref name="FRCG-p198" />
+
+The four meetings of the [[Council of Waterdeep]] were hosted in the Lords' Palace some time during the 1480s DR.<ref name="RoT-p19">{{Cite book/The Rise of Tiamat|19}}</ref>{{ToD-time}}
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+:: ''[[The Rise of Tiamat]]''
+:;Novels
+::''[[The Abduction]]'' • ''[[The Diamond]]''
+:;Gamebooks
+::''[[Knight of the Living Dead]]''
+
+===References===
+{{Refs}}
+[[Category:Palaces]]
+[[Category:Locations on Waterdeep Way]]
+[[Category:Locations on the Street of Silks]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Temples]]
+[[Category:Temples to Ao]]
+[[Category:Aoist locations]]
+[[Category:Year of Miracles]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Volothamp Geddarm
+
+{{two other uses|the prolific traveler|the Waterdhavian thief|Marco Volo|the [[Calimshan|Calishite]] city|Volothamp}}
+{{DEFAULTSORT:Geddarm, Volothamp}}
+{{Person
+| image          = <gallery>
+Volo Honor Among Thieves.png|[[Honor Among Thieves|HAT]]
+Volo-BGIII.png|BG3
+Volo-5e.jpg|5e 
+D282-Volo-Ron Spencer.png|3e 
+Volo.jpg|2e 
+</gallery>
+| caption        = 
+| name           = Volothamp Geddarm
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Valhalaeria the Vaunted <small>(pen name)</small><ref name="Ed">{{Cite web/theedverse/2020-03-06 - Volo's Complete Guide to the Behavior of Nymphs}}</ref><br/>Pidge<ref name="BG3" />
+| nicknames      = Volo,<ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="ToA5e-p235-236" /><br/>Volo the Loose-Tongued<ref name="Dr243-p57" /><br/>Volo the Hunted<ref>{{Cite book/Empires of the Shining Sea|151}}</ref><br/>Pidge<ref name="BG3" />
+| home           = [[Faerûn]]<ref name="RtR-p44" />
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Writer, sage, traveler
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elven language|Elvish]],<ref name="MVA-p5" /><ref name="ToA5e-p235-236" /><ref name="WDH-p218" /> [[Halfling language|Halfling]],<ref name="MVA-p5" /><ref name="ToA5e-p235-236" /> [[Goblin language|Goblin]] (rudimentary)<ref name="NwN2:SoZ" />
+| basicrefs      = <ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="MVD-p7" /><ref name="MVA-p5" /><ref name="NwN2:MoWg" /><ref name="ToA5e-p235-236" /><ref name="WDH-p218" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Emmeros Silmerhelve]] (son)
+| familyrefs     = <ref name="Dr250-p80" /><ref name="NHoW" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|5}}
+| refs2e         = <ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="FRCS2e-Cards" /><ref name="MVD-p7" /><ref name="MVA-p5" />
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = {{Frac|1|4}}
+| class5e        = {{Class table|edition=5e|[[Wizard]]|1}}
+| refs5e         = <ref name="ToA5e-p235-236" /><ref name="WDH-p218" />
+}}
+'''Volothamp Geddarm''' ({{Pronounce|VOH|loh|thamp|_|geh|DARM|refs=<ref>{{Cite book/Tomb of Annihilation|4}}</ref><ref>{{Cite book/Waterdeep: Dragon Heist|4}}</ref>|audio=Volothamp Geddarm.ogg}}), or more often '''Volo''' for short, was a widely traveled [[human]] [[wizard]] and sage of [[Faerûn]] in the mid-to-late 14{{th}} century [[DR]]. He was a legendary traveler, explorer, and rogueish mage, and was most famous, or infamous, for his guidebooks<ref name="VGtW-p232-233">{{Cite book/Volo's Guide to Waterdeep|232-233}}</ref><ref name="RtR-p44">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|44}}</ref><ref name="FRCS2e-Cards">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Cardsheets}}</ref><ref name="MVD-p7">{{Cite book/Marco Volo: Departure|7}}</ref><ref name="MVA-p5">{{Cite book/Marco Volo: Arrival|5}}</ref><ref name="NwN2:MoWg" /><ref>{{Cite dragon/238/Wyrms of the North: Felgolos|51}}</ref><ref name="ToA5e-p235-236">{{Cite book/Tomb of Annihilation|24-25,235-236}}</ref><ref name="WDH-p218">{{Cite book/Waterdeep: Dragon Heist|218}}</ref><ref name="EGP-WiViD&D">{{Cite web/Ed Greenwood's Patreon/Who Is Volo in D&D? (His Creator Tells All)}}</ref> including the controversial and notorious ''Volo's Guide to All Things Magical''.<ref name="VGtW-p232-233" />
+{{quote|''This guidebook is the next in my ongoing tour of the Realms—I assure thee all, gentles, that you'll find no more diligent guide than your humble servant, Volothamp Geddarm. These last few seasons I've trudged, ridden, swum, sailed, and even flown from the icy wastes north of the Spine of the World to the hot, steaming jungles of the Shining South—and beyond—all in thy service, gentle traveler.''|Excerpt from Volo's introduction to ''Volo's Guide to the Sword Coast''<ref name="VGttSC-p4" />}}
+{{TOC limit|3}}
+==Personality==
+What is known of Volo comes via [[Elminster]], who edited, annotated, provided prefaces for, and indeed criticized Volo's guides.<ref name="VGtW-p4" /><ref name="VGttN-p4" /><ref name="VGtC-p4" /><ref name="VGttD-p4" /> In these, he described Volo as "impe
+
+=== LINKED WIKI PAGE (first 5000 chars): Generic City Watch patrolperson (Waterdeep)
+
+{{Person
+| image          = 
+| caption        = 
+| name           = City Watch patrolperson
+| true name      = 
+| alt_spelling   = 
+| titles         = Watchman, watchwoman<ref name="CoS.W-p37"/>
+| aliases        = 
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| gender         = Any<ref name="CoS.W-p37"/>
+| race           = Typically [[human]]<ref name="CoS.W-p37"/>
+| occupation     = City Watch
+| age            =
+| patron deity   = 
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| class1e        = {{class table|edition=1e|[[Fighter]]|1}}
+| class2e        =
+| class3e        =
+| class35        = {{class table|edition=3e|[[Expert]]|1|[[Warrior]]|1}}
+| class4e        =
+| class5e        =
+| refs1e         = <ref name="ADDc-01"/>
+| refs2e         =
+| refs3e         =
+| refs35         = <ref name="CoS.W-p37"/>
+| refs4e         =
+| refs5e         =
+| alignment      = Varies<ref name="CoS.W-p37"/>
+}}
+A '''watchman''' or '''watchwoman''' was a junior member of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]], serving as a patrolperson.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p37">{{Cite book/City of Splendors: Waterdeep|37}}</ref>
+
+==Activities==
+They typically patrolled inside the walls of Waterdeep in groups of four, with two patrolpersons, one [[Generic City Watch sergeant (Waterdeep)|sergeant]], and one [[Generic City Watch captain (Waterdeep)|captain]].<ref name="ADDc-01"/>
+
+==Possessions==
+''Circa'' [[1357 DR]], patrolmen and women of the City Watch typically had the standard City Watch kit of [[leather armor|leather]] and [[chain mail|chain armor]], [[short sword]]s, [[dagger]]s, and sturdy rods like [[club]]s.<ref name="ADDc-01"/>
+
+''Circa'' [[1372 DR]], in addition to their uniform, watchmen and women were outfitted in masterwork [[studded leather armor]], with a steel [[light shield]], and carried a masterwork [[short sword]] and [[club]]. They also possessed a ''[[potion]] of [[cure light wounds]]'' and an ''[[oil]] of [[Magic weapon (spell)|magic weapon]]''.<ref name="CoS.W-p37"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Members of the City Watch of Waterdeep|01]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Generic inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Generic City Watch sergeant (Waterdeep)
+
+{{Person
+| image          = 
+| caption        = 
+| name           = City Watch armar
+| true name      = 
+| alt_spelling   = 
+| titles         = Armar<ref name="CoS.W-p36"/><ref name="WatN-p17">{{Cite book/Waterdeep and the North|17}}</ref>
+| aliases        = Amlar<ref name="ADDc-01"/>
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| gender         = Any<ref name="CoS.W-p36"/>
+| race           = Typically [[human]]<ref name="CoS.W-p36"/>
+| occupation     = City Watch
+| age            =
+| patron deity   = 
+| languages      = [[Common]], [[Chondathan]]<ref name="CoS.W-p36"/>
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| class1e        = {{class table|edition=1e|[[Fighter]]|2}}
+| class2e        =
+| class3e        =
+| class35        = {{class table|edition=3e|[[Rogue]]|1|[[Fighter]]|1}}
+| class4e        =
+| class5e        =
+| refs1e         = <ref name="ADDc-01"/>
+| refs2e         =
+| refs3e         =
+| refs35         = <ref name="CoS.W-p36"/>
+| refs4e         =
+| refs5e         =
+| alignment      = Varies<ref name="CoS.W-p36"/>
+}}
+An '''armar''' or '''amlar''' was a low-ranking member of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]], holding a rank equivalent to a sergeant.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p36">{{Cite book/City of Splendors: Waterdeep|36–37}}</ref>
+
+==Activities==
+They typically patrolled inside the walls of Waterdeep in groups of four, with two [[Generic City Watch patrolperson (Waterdeep)|patrolpersons]], one sergeant, and one [[Generic City Watch captain (Waterdeep)|captain]].<ref name="ADDc-01"/><ref name="CoS.W-p36"/>
+
+==Possessions==
+''Circa'' [[1357 DR]], amlars of the City Watch typically had the standard City Watch kit of [[leather armor|leather]] and [[chain mail|chain armor]], [[short sword]]s, [[dagger]]s, and sturdy rods like [[club]]s.<ref name="ADDc-01"/><ref name="WatN-p17" /> Their uniforms always consisted of the colors green, black, and gold.<ref name="WatN-p17" />
+
+''Circa'' [[1372 DR]], in addition to their uniform, armars were outfitted in ''+1 [[studded leather armor]]'', with a steel [[light shield]], and carried a masterwork [[short sword]] and [[club]]. They also possessed a ''[[potion]] of [[cure light wounds]]'', an ''[[oil]] of [[bless weapon]]'', and an ''[[oil]] of [[Magic weapon (spell)|magic weapon]]''.<ref name="CoS.W-p36"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Members of the City Watch of Waterdeep|02]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Generic inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Generic City Watch captain (Waterdeep)
+
+{{Person
+| image          = 
+| caption        = 
+| name           = City Watch civilar
+| true name      = 
+| alt_spelling   = 
+| titles         = Civilar<ref name="ADDc-01"/><ref name="CoS.W-p36"/>
+| aliases        = 
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| gender         = Any<ref name="CoS.W-p36"/>
+| race           = Typically [[human]]<ref name="CoS.W-p36"/>
+| occupation     = City Watch
+| age            =
+| patron deity   = 
+| languages      = [[Common]], [[Chondathan]], [[Illuskan]]<ref name="CoS.W-p36"/>
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| class1e        = {{class table|edition=1e|[[Fighter]]|3}}
+| class2e        =
+| class3e        =
+| class35        = {{class table|edition=3e|[[Rogue]]|1|[[Fighter]]|3}}
+| class4e        =
+| class5e        =
+| refs1e         = <ref name="ADDc-01"/>
+| refs2e         =
+| refs3e         =
+| refs35         = <ref name="CoS.W-p36"/>
+| refs4e         =
+| refs5e         =
+| alignment      = Varies<ref name="CoS.W-p36"/>
+}}
+A '''civilar''' was a member of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]], holding a rank equivalent to a lieutenant or captain.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p36">{{Cite book/City of Splendors: Waterdeep|36}}</ref>
+
+==Activities==
+They typically patrolled inside the walls of Waterdeep in groups of four, with two [[Generic City Watch patrolperson (Waterdeep)|patrolpersons]], one [[Generic City Watch sergeant (Waterdeep)|sergeant]], and one captain or lieutenant.<ref name="ADDc-01"/><ref name="CoS.W-p36"/>
+
+==Possessions==
+''Circa'' [[1357 DR]], civilars of the City Watch typically had the standard City Watch kit of [[leather armor|leather]] and [[chain mail|chain armor]], [[short sword]]s, [[dagger]]s, and sturdy rods like [[club]]s.<ref name="ADDc-01"/>
+
+''Circa'' [[1372 DR]], in addition to their uniform, civilars were outfitted in a ''+1 [[chain shirt]]'', with a steel [[light shield]], and carried a ''+1 [[short sword]]'' and masterwork [[club]]. They also possessed a ''[[potion]] of [[cure light wounds]]'' and an ''[[amulet of the watch]]''.<ref name="CoS.W-p36"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Members of the City Watch of Waterdeep|03]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Generic inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Generic City Guard sergeant (Waterdeep)
+
+{{Person
+| image          = 
+| caption        = 
+| name           = City Guard sergeant
+| alt_spelling   = 
+| titles         = Armar<ref name="CoS.W-p34"/><ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref>
+| aliases        = Vigilant<ref name="PF-p29"/>
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| gender         = Any<ref name="CoS.W-p34"/>
+| race           = Any<ref name="WDH5e-p197" /> (typically [[human]]<ref name="CoS.W-p34"/>)
+| ethnicity      = 
+| occupation     = City Guard
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Fighter]]|5}}
+| refs1e         = <ref name="ADDc-01"/>
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = Varies
+| challenge35    = 
+| class35        = {{class table|edition=3e|[[Fighter]]|2}}
+| refs35         = <ref name="CoS.W-p34"/>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = Any
+| challenge5e    = {{Frac|1|8}}
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p197" /><ref name="MM5e-p347">{{Cite book/Monster Manual 5th edition|347}}</ref>
+}}
+An '''armar''' or '''vigilant''' was a junior member of the [[City Guard (Waterdeep)|City Guard]] of [[Waterdeep]], serving as a sergeant.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p34">{{Cite book/City of Splendors: Waterdeep|34}}</ref><ref name="PF-p29">{{Cite book/Power of Faerûn|29}}</ref>
+
+==Activities==
+They typically patrolled the environs of Waterdeep in groups of twelve, with ten [[Generic City Guard private (Waterdeep)|privates]], one sergeant, and one [[Generic City Guard captain (Waterdeep)|captain]] or [[Generic City Guard lieutenant (Waterdeep)|lieutenant]].<ref name="CoS.W-p34"/>
+
+==Possessions==
+''Circa'' [[1357 DR]], sergeants of the City Guard typically wore yellow [[scale armor]] under green cloaks and [[wikipedia:en:Tabard|tabards]] and carried a shield. Both tabard and shield bore the symbol of Waterdeep, a crescent moon reflected over a bay, surrounded by seven stars. They wielded [[longsword]]s, [[dagger]]s, and [[dart]]s coated with a paralytic [[poison]]. On missions outside, they were also armed with [[bow]]s.<ref name="ADDc-01"/>
+
+''Circa'' [[1372 DR]], sergeants wore a uniform of polished [[chainmail]] covered with a tabard in black cloth with gold trim. They carried a steel [[heavy shield]], and carried a masterwork [[longsword]] and [[club]], together with a composite [[shortbow]] and 20 arrows. However, depending on their posting, they could also have [[shortspear]]s, [[short sword]]s, and [[dagger]]s. They also possessed two ''[[potion]]s of [[cure light wounds]]'' and an ''[[oil]] of [[Magic weapon (spell)|magic weapon]]''.<ref name="CoS.W-p34"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Members of the City Guard of Waterdeep|02]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Generic inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Generic City Guard private (Waterdeep)
+
+{{Person
+| image          = 
+| caption        = 
+| name           = City Guard private
+| alt_spelling   = 
+| titles         = Guardsman, Guardswoman<ref name="CoS.W-p34"/>
+| aliases        = 
+| nicknames      = Trusty<ref name="PF-p29"/>
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| gender         = Any<ref name="CoS.W-p34"/>
+| race           = Any<ref name="WDH5e-p197">{{Cite book/Waterdeep: Dragon Heist|197}}</ref> (typically [[human]]<ref name="CoS.W-p34"/>)
+| ethnicity      = 
+| occupation     = City Guard
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Fighter]]|2}}
+| refs1e         = <ref name="ADDc-01"/>
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = Varies
+| challenge35    = 
+| class35        = {{class table|edition=3e|[[Warrior]]|2}}
+| refs35         = <ref name="CoS.W-p34"/>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = Any
+| challenge5e    = {{Frac|1|8}}
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p197" /><ref name="MM5e-p347">{{Cite book/Monster Manual 5th edition|347}}</ref>
+}}
+A '''Guardsman''' or '''Guardswoman''' was a junior member of the [[City Guard (Waterdeep)|City Guard]] of [[Waterdeep]], serving as a private.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p34">{{Cite book/City of Splendors: Waterdeep|34}}</ref> One was also called a '''"Trusty"'''.<ref name="PF-p29">{{Cite book/Power of Faerûn|29}}</ref>
+
+==Activities==
+They typically patrolled the environs of Waterdeep in groups of twelve, with ten privates, one [[Generic City Guard sergeant (Waterdeep)|sergeant]], and one [[Generic City Guard captain (Waterdeep)|captain]] or [[Generic City Guard lieutenant (Waterdeep)|lieutenant]].<ref name="CoS.W-p34"/>
+
+==Possessions==
+''Circa'' [[1357 DR]], privates of the City Guard typically wore yellow [[scale armor]] under green cloaks and [[wikipedia:en:Tabard|tabards]] and carried a shield. Both tabard and shield bore the symbol of Waterdeep, a crescent moon reflected over a bay, surrounded by seven stars. They wielded [[longsword]]s, [[dagger]]s, and [[dart]]s coated with a paralytic [[poison]]. On missions outside, they were also armed with [[bow]]s.<ref name="ADDc-01"/>
+
+''Circa'' [[1372 DR]], Guardsmen and women wore a uniform of polished [[chainmail]] covered with a tabard in black cloth with gold trim. They carried a steel [[heavy shield]], and carried a masterwork [[longsword]] and [[club]], together with a composite [[shortbow]] and 20 arrows. However, depending on their posting, they could also have [[shortspear]]s, [[short sword]]s, and [[dagger]]s. They also possessed two ''[[potion]]s of [[cure light wounds]]'' and an ''[[oil]] of [[Magic weapon (spell)|magic weapon]]''.<ref name="CoS.W-p34"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Members of the City Guard of Waterdeep|01]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Generic inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Delzorin Street
+
+{{Road
+| image          = Delzorin.png
+| caption        = Delzorin Street, ''circa'' [[1492 DR]].{{Waterdeep-time}}
+| name           = Delzorin Street
+| type           = Street
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = Tiles
+| location       = [[North Ward of Waterdeep|North Ward]], [[Waterdeep]]
+| starts         = [[Street of the Singing Dolphin]]
+| ends           = [[Whaelgond Way]]
+| built          = 
+| refs           = 
+| daggers        = 
+| usethe         = 
+| inhabitants    = yes
+| locations      = yes
+| settlements    = 
+| organizations  = yes
+| roads          = yes
+| events         = 
+}}
+'''Delzorin Street''' was a street in [[Waterdeep]] that ran east to west in the [[North Ward of Waterdeep|North Ward]]. The street ended on a left turn at [[Whaelgond Way]].<ref name="WDH-p166">{{Cite book/Waterdeep: Dragon Heist|166}}</ref>
+
+==Notable Locations==
+* [[Ulbrinter Villa]], the estate of the noble [[Ulbrinter]] family, was located here, between [[Vhezoar Street]] and [[Brondar's Way]].<ref name="WDH-p16">{{Cite book/Waterdeep: Dragon Heist|16}}</ref> Being the street's most remarkable building, the mansion was of beautiful architecture, with high-rising towers and conical turret-tops.<ref name="dm">{{Cite book/Death Masks}}</ref>
+* The [[Massalan]] and [[Lanngolyn]] families also owned villas on Delzorin Street.<ref name="CoS.CG-p44">{{Cite book/City of Splendors (boxed set)/Campaign Guide|44}}</ref><ref name="CoSW-p94">{{Cite book/City of Splendors: Waterdeep|94}}</ref>
+* [[Yellowcrest Manor]], once the home of the [[Yellowcrest]] family, stood on Delzorin Street. After most of the Yellowcrests were horrifically murdered, the [[Falgarst]] family assumed ownership of the manor.<ref name="CM.BotR-p103">{{Cite book/Candlekeep Mysteries/Sarah of Yellowcrest Manor|103}}</ref>
+* [[Nandar's Ride]], a small road leading up to the villa of the [[Nandar]] family.<ref name="Ask Ed">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2014)/Waterdeep alleys}}</ref>
+* The South entrance into [[Trollskull Alley]] was located on Delzorin Street.<ref name="WDH5e-p33">{{Cite book/Waterdeep: Dragon Heist|33}}</ref><ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+* One of the rowhouses between Delzorin Street and Trollskull Alley was a [[Harper]] safehouse, and contained a [[magic]]al entryway to [[Harpers' Hold]].<ref name="Dr211">{{Cite dragon/211/"I Sing a Song by the Deep-Water Bay"}}</ref>
+
+===Links to Sewers===
+Delzorin Street was used as a reference point for three different surface shafts to enter the [[Waterdeep/Sewers|sewers of Waterdeep]]:
+* One that was between [[Sul Street]] and [[Shield Street]] that allowed entrance into a junction room.<ref name="CoSW-121-122" />
+* One that was in the block for which the Delzorin Street represented one of its borders.<ref name="CoSW-121-122" />
+* One close to the intersection with the Whaelgond Way.<ref name="CoSW-121-122">{{Cite book/City of Splendors: Waterdeep|121-122}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===References===
+{{Refs}}
+[[Category:Locations on the Street of the Singing Dolphin]]
+[[Category:Locations on Flint Street]]
+[[Category:Locations on Nandar's Ride]]
+[[Category:Locations on Diamond Street]]
+[[Category:Locations on Ilzantil Street]]
+[[Category:Locations on Vhezoar Street]]
+[[Category:Locations on Mendever Street]]
+[[Category:Locations on Sul Street]]
+[[Category:Locations on Shield Street]]
+[[Category:Locations on Copper Street]]
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations on Windborne Way]]
+[[Category:Locations on Whaelgond Way]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in the Sea Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Whaelgond Way
+
+{{Road
+| image          = Map09-Wands-Hothemer-Lathluke-Roaringhorn-Kormallis-Majarra-Tarm-Villas.png
+| caption        = A map showing Whaelgond Way and surroundings in the North Ward of Waterdeep.
+| name           = Whaelgond Way
+| type           = Road
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/North Ward|North Ward]], [[Waterdeep]]
+| starts         = [[Immar Street]]
+| ends           = [[Suldown Street]]
+| refs           = <ref name="CS.M09"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+'''Whaelgond Way''' was a large road that was located in the city of [[Waterdeep]].<ref name="CS.M09">{{Cite book/City System/Map09}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+Whaelgond Way was located in the north and central sections of Waterdeep's [[Waterdeep/North Ward|North Ward]]. It stretched through much of the North Ward, orginating in the north on [[Immar Street]] and passing southeast then due south to eventually end on [[Suldown Street]]. Along its path Whaelgond Way was intersected by [[Sashtar Street]], [[Tower March]], [[Horn Street]], [[Saerdoun Street]], [[Delzorin Street]], [[Sulmor Street]], [[Hassantyr's Street]], the [[Street of the Manticore]], and [[Tarsar's Street]].<ref name="CS.M09"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Notable Locations==
+* [[Chapterhouse of the Radiant Heart]]
+* [[Hawkwinter Villa]]
+* [[Jardeth Villa]]
+* [[Nandar Villa]]
+* [[Tarm Villa]]
+* [[Lathkule Villa]]
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Locations on Saerdoun Street]]
+[[Category:Locations on Tarsar's Street]]
+[[Category:Locations on Sulmor Street]]
+[[Category:Locations on Immar Street]]
+[[Category:Locations on Hassantyr's Street]]
+[[Category:Locations on Suldown Street]]
+[[Category:Locations on Sashtar Street]]
+[[Category:Locations on Tower March]]
+[[Category:Locations on Horn Street]]
+[[Category:Locations on Delzorin Street]]
+[[Category:Locations on the Street of the Manticore]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Castle Ward
+
+{{Location
+| image              = Castle_ward-5e.jpg
+| caption            = A [[City Watch (Waterdeep)|City Watch]] patrol in the Castle Ward.
+| name               = Castle Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGW2e-p7">{{Template:Cite book/Volo's Guide to Waterdeep|7}}</ref><ref name="CoS-CG2e-p9">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1035}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS-CG2e-p30">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = yes
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Castle Ward''' was the central ward of the city of [[Waterdeep]]. It encompassed [[Mount Waterdeep]], [[Castle Waterdeep]], and much of the government of the city, which included the [[Palace of Waterdeep]], occupied by [[Piergeiron the Paladinson]] in the mid-14{{th}} century [[DR]], and the residences of many prosperous Waterdhavians.<ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> Among these citizens were celebrated retired adventurers such as [[Mirt the Moneylender]].<ref name="CoSW-p100"/>
+
+==Geography==
+The ward was delimited by [[Julthoon Street]] to the north, west of [[Shield Street]], and by [[Trader's Way]] between Shield Street and the [[High Road (Waterdeep)|High Road]], which delimited the ward's eastern border together with [[Snail Street]]. The southern border of the ward was delimited by [[Shesstra Street]], [[Gut Alley]], [[Belnimbra's Street]], and [[Lackpurse Lane]], until the ward met [[Deepwater Harbor]].<ref name="CoS-AG2e-p18">{{Template:Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|18}}</ref>
+
+===Geographical Features===
+Much of the territory of the Castle Ward was taken up by Mount Waterdeep, which consisted mostly of unused land.<ref name="CoS-CG2e-p9" /><ref name="CoS-AG2e-p18" />
+
+==History==
+The Castle Ward was one of the original wards of Waterdeep, established by [[Ahghairon]] in the {{Template:YearlinkName|1035}} together with the [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep/Southern Ward|Temple Ward]], and [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoS-CG2e-p30" />
+
+==Notable Locations==
+{{/Imagemap}}
+;[[Mount Waterdeep]]
+: The massive peak around which Waterdeep was built<ref name="CoSW-p96"/> encompassed the southwest portion of the city.<ref name="CoSW-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> Atop its summit was the [[Peaktop Aerie]], which housed the city's famed [[Griffon Cavalry]], and its sea-facing flank featured 11 triple-[[catapult]]s armed with rock and flammable pots. Beneath these armaments were the [[South Sea Caves (Waterdeep)|sea caves]], which allowed passage for ships to [[River Sargauth]] and the undercity of [[Skullport]].<ref name="CoSW-p96"/>
+
+;[[New Olamn]]
+:The bardic college was located on the rocky cliffside, in the western edge of the ward, overlooking the [[Sea of Swords]]. It was accessible by the [[cliffside (road)|cliffside]] pat
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Dock Ward
+
+{{Location
+| image              = Dockwardspring.png
+| caption            = The Dock Ward in Spring.
+| name               = Dock Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Dock Ward of Waterdeep''' was situated on the ''Great Harbor'' of [[Waterdeep]]. It contained the docks, shipbuilding yards, and warehouses for the sea trade. Compared to the rest of the city it was exceptionally dirty, smelly, and particularly dangerous. In the words of [[Elminster]] himself, the Dock Ward was a "riotous, nigh-perpetual brawl that covers entire acres, interrupted only by small buildings, intermittent trade businesses, an errant dog or two, and a few brave watchguards, who manage to keep the chaos from spreading beyond the docks; the whole lot wallowing in the stench of rotting fish."
+
+==History==
+''Circa'' [[1368 DR]], an enterprising [[halfling]] [[Joshuan Havabuck]] was involved in numerous schemes and business in the Dock Ward. His main profitable business was the [[lottery]] where the folk of Waterdeep placed bets on the total daily tonnage that entered the harbor. The numbers were reported by the dockmaster and the winnings were distributed accordingly. One ticket was sold for a single [[Golden lion (coin)|gold lion]] and the take, on average, was ten thousand coins. Amazingly, in 1368 DR, not ten people, picked the correct number, not even thirty. Every single gambler guessed it correctly. This was due the goddess of luck - [[Tymora]]'s power running amok in [[Faerûn]]. Joshuan Havabuck resorted to loaning ten million gold lions with steep interest from [[Mirt the Moneylender]] and pay the winnings out.<ref name="ty">{{Cite book/Tymora's Luck|101-104}}</ref>
+
+After the [[Spellplague]], the northern section of Waterdeep harbor became dilapidated with most of the harbor choked with sunken ship hulls. This section became known as [[Mistshore]].<ref>{{Cite book/Mistshore|?}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Inns, Taverns & Festhalls===
+* The [[Blackstar Inn]]: High-priced (for the Dock Ward) Inn run by [[Asiyra Boldwinter]].<ref name="VGtW-p206">{{Cite book/Volo's Guide to Waterdeep|206}}</ref>
+* The [[Bloody Fist]]: Tavern with near-constant brawls, run by [[Uglukh Vorl]].<ref name="VGtW-p204">{{Cite book/Volo's Guide to Waterdeep|204}}</ref>
+* The [[Blue Mermaid]]: Clean tavern; run by Mother [[Jalyth Hlommorath]].<ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200}}</ref>
+* The [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]]: On [[Net Street (south)|Net Street]]; a luxurious inn, taven & festhall; run by Lady [[Alathene Moonstar]].<ref name="VGtW-p193-196">{{Cite book/Volo's Guide to Waterdeep|193-196}}</ref>
+* [[Cookhouse Hall]]: Favorite festhall of sailors.<ref name="VGtW-p170">{{Cite book/Volo's Guide to Waterdeep|170}}</ref>
+* The [[Copper Cup]]: Off the [[Southyard]]; inn, tavern, & festhall owned by its dancers.<ref name="VGtW-p197-198">{{Cite 
+
+=== LINKED WIKI PAGE (first 5000 chars): Thyriellentha Snome
+
+{{DEFAULTSORT:Snome, Thyriellentha}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Thyriellentha Snome<ref name="CS.W-p36">{{Cite book/City of Splendors: Waterdeep|36}}</ref>
+| true name      = 
+| alt_spelling   = 
+| titles         = Mage Civilar
+| aliases        = Thyri
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="CS.W-p36" />
+| formerhomes    = 
+| sex            = Female<ref name="CS.W-p36" />
+| race           = [[Human]]<ref name="CS.W-p36" />
+| ethnicity      = [[Illuskan]]<ref name="CS.W-p36" />
+| occupation     = City Watch officer
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Lawful good]]
+| class35        = {{Class table|edition=3e|[[Wizard]]|13}}
+| refs35         = <ref name="CS.W-p36" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Thyriellentha Snome''' was the commander of the watch-[[wizard]] corps of the [[City Watch (Waterdeep)|City Watch]] in [[Waterdeep]] in [[1372 DR]].<ref name="CS.W-p36" />
+
+==Personality==
+Thyriellentha was a capable and friendly woman, but power-hungry, though only with legal methods and becoming petty and grasping. She had very strict standards for her subordinates. Thyriellentha cut all dealings with her family when her grandfather chose her cousin over her as heir.<ref name="CS.W-p36" />
+
+==History==
+Thyriellentha was born in the noble house of [[Snome]]. However, she distanced herself from the family when her grandfather Lord [[Arrabas Snome]] picked as his heir her cousin [[Dandobar Snome]]. Circa [[1362 DR]], she ascended to the position of leader of the watch-wizard contingent of the City Watch and commanded them efficiently. In the meantime, her cousin Dandobar chose her as his own heir, but this did not repair the fracture within her family.<ref name="CS.W-p36" /> 
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Thyriellentha Snome]]
+[[Category:Wizards]]
+[[Category:Illuskans]]
+[[Category:Humans]]
+[[Category:Members of the City Watch of Waterdeep]]
+[[Category:Inhabitants of the Tower of the Order]]
+[[Category:Inhabitants of the Castle Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Members of the Watchful Order of Magists and Protectors]]
+[[Category:Members of the Snome family]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Khelben Arunsun
+
+{{DEFAULTSORT:Arunsun, Khelben}}
+{{otheruses4|Khelben Arunsun the Elder|Khelben Arunsun the Younger|Khelben Arunsun the Younger}}
+{{Person
+| image          = LordBlackstaff.jpg
+| caption        = The Blackstaff
+| name           = Khelben "Blackstaff" Arunsun
+| true name      = 
+| alt_spelling   = 
+| titles         = Lord Blackstaff<br/>Lord Mage of Waterdeep<ref name="DIA">{{Cite book/The Diamond||1}}</ref>
+| aliases        = Malek Aldhanek
+| nicknames      = Blackstaff
+| home           = [[Blackstaff Tower]], [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]
+| languages      = 
+| basicrefs      = <ref name="tSummoning">{{Cite book/The Summoning/Paperback 2001}}</ref><ref name="CoS.W-p53"/>
+| reckoning      = DR
+| dob            = 414
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1374
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="tGHotR-p73">{{Cite book/The Grand History of the Realms|73}}</ref><ref name="tGHotR-p157">{{Cite book/The Grand History of the Realms|157}}</ref>
+| parents        = [[Arun Maerdrym]]<br />[[Arielimnda]]
+| spouses        = [[Cassandra Simtul]]<br />
+[[Laeral Silverhand]]
+| siblings       = [[Phaerl Hawksong]] (half-sister)
+| children       = [[Kessydra]]
+[[Zelphar Arunsun]]
+| familyrefs     = <ref name="CoS:CG-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref><ref name="Blackstaff-pp1-9">{{Cite book/Blackstaff/MMP|1-9|0}}</ref><ref name="Blackstaff-p146">{{Cite book/Blackstaff/MMP|146|16}}</ref>
+| alignment1e    = [[Lawful neutral]]
+| class1e        = {{Class table|edition=1e|[[Magic-user]]|26<ref group="note">The ''[[Forgotten Realms Campaign Set]]'' gives his level as "26+".</ref>}}
+| refs1e         = <ref name="DMSotR-24">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|24}}</ref>
+| alignment2e    = [[Lawful neutral]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|27}}
+| refs2e         = <ref name="RtR-36">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|36}}</ref>
+| alignment3e    = [[Lawful neutral]]
+| challenge3e    = 31
+| class3e        = {{class table|edition=3e|[[Wizard]]|24<ref group="note">The original 3rd-edition stats include four of the superseded "Epic" levels. Later sources added these to the Wizard levels.</ref>|[[Archmage]]|3}}
+| refs3e         = <ref name="FRCS3e-274">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|274-275}}</ref><ref name="ELH-pp299-300">{{Cite book/Epic Level Handbook|299-300}}</ref><ref name="CoS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref>
+| alignment35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Khelben "Blackstaff" Arunsun''' ({{Pronounce|KEL|ben|_|AIR|un|sun|refs=<ref name="DMSotR-24" />}}) was the Lord Mage of [[Waterdeep]], a masked [[Lords of Waterdeep|Lord of Waterdeep]], and powerful archmage.<ref name="ELH-pp299-300" /> He resided in [[Blackstaff Tower]] until his death.<ref name="CoWTM">{{Cite book/The City of Waterdeep Trail Map}}</ref> One of the few spellcasters to become one of [[Mystra's Chosen]],<ref name="B-p7-9">{{Cite book/Blackstaff/MMP|7-9|0}}</ref><ref name="tGHotR-p88">{{Cite book/The Grand History of the Realms|88}}</ref> and the last survivor of House [[Maerdrym]],<ref name="B-p62">{{Cite book/Blackstaff/MMP|62|6}}</ref> Khelben was a serious, imposing wizard and a grim proponent of law and order.<ref name="FRCS3e-274" />
+
+==Description==
+Khelben stood just over 6 feet (1.83 meters) tall and was well-muscled. He usually dressed in robes, wielding his trademark [[Blackstaff (staff)|Blackstaff]]. As of 1374 DR, he had a full beard, black hair with silver streaks, including a prominent one through his beard, and a distinguished, imposing manner.<ref name="B-p25">{{Cite book/Blackstaff/MMP|25|2}}</ref> He often dressed in black with a silver torque and a cape lined in gray fur.<ref name="ESh-p52-53">{{Cite book/Elfshadow/Paperback 2000|52-53}}</ref>
+
+==Personality==
+Often thought to be humorless and grave, Khelben was actually neither. He simply found it easier to deal with people if they were intimidated by or even frightened of him. He had numerous apprentices over the years and liked to encourage young people who displayed an aptitude for magic. Wielding [[magic|the Art]] could be a gravely dangerous business, however, and Khelben tried to instill an appreciation of that fact in his pupils by keeping up his "stern taskmaster" façade.<ref name=":1">{{Cite book
+| author    = [[Dale Donovan]], [[Paul Culotta]]
+| title     = [[Heroes' Lorebook]]
+| year      = August 1996
+| publisher = [[TSR, Inc]]
+| ISBN      = 0-7869-0412-7
+| pages = {{{1|62}}}
+}}</ref>
+
+In priv
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Sewers
+
+{{Location
+| image              = Map of Waterdeep's Sewers.png
+| caption            = Map of the sewers, circa [[1372 DR]]<ref group="note" name="map">''[[Waterdeep and the North]]'' (page 27), [[City of Splendors (boxed set)|''City of Splendors'' "Campaign Guide"]] (page 59), and ''[[City of Splendors: Waterdeep]]'' (page 121) all share a version of this same map and note that it is not to scale, with many features being distorted in size for the sake of clarity, such as the junction rooms and surface shafts.</ref>
+| name               = Sewers of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = [[Sewer system]]
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''sewers of Waterdeep''' were a sanitation system of tunnels beneath the city that connected to most locations throughout [[Waterdeep]], including its dungeons.<ref name ="WatN-p26">{{Cite book/Waterdeep and the North|26}}</ref><ref name="TRoU-p9">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|9}}</ref>
+
+{{Quote|It’s a trip neither pretty nor pleasant, but delve the sewers if you truly want to learn what goes on in Waterdeep.|''[[Down the Drain: A Life in the Guild of Cellarers and Plumbers]]'', [[1356 DR]]<ref name="BST-p25">{{Cite book/Blackstaff Tower|25}}</ref>}}
+
+==Structure==
+The depth of these sewers varied across Waterdeep,<ref name="SoW" /> with some areas having around two to three sub-levels.<ref>{{Cite game/Eye of the Beholder}}</ref><ref name="DtU">{{Cite game/Descent to Undermountain}}</ref> One reason for this was [[Mount Waterdeep]] and the plateau the northern portion of the city was built upon. Another was that the varied sizes and areas in which the sewer network was constructed at were both deliberate design decisions, made in order to optimally account for the ocean tides.<ref name="SoW" />
+
+The tunnels of this sewer system did not match up with the routes of the city's streets above them by the 14{{th}} century [[DR]]. This was partially due to the ever changing layout of Waterdeep, but also because the sewer's layout was dictated in part by where Mount Waterdeep's springs rose and flowed down to the sea.<ref name="SoW" />
+
+The [[Waterdeep/Field Ward|Field Ward]],<ref>{{Cite book/Waterdeep: Dragon Heist|180}}</ref> the harbor islands, and the heart of Mount Waterdeep were the only areas in the city that the sewers did not run beneath.<ref name="CoS.W-p121">{{Cite book/City of Splendors: Waterdeep|121}}</ref>
+===Functionality===
+Refuse, as well as air, were brought down into the sewers by numerous feeder pipes scattered throughout the city.<ref name="CoS.CG-p60">{{Cite book/City of Splendors (boxed set)/Campaign Guide|60}}</ref> These pipes measured less than {{SI|1|ft|long=yes}} in diameter.<ref name="CoS.W-p121" /> Thanks to the pipes, air supply was good in the sewers and those who traveled in them had little chance of suffocating.<ref name="dung30-p9">{{Cite dungeon/30/And a Dozen Eggs|9}}</ref>
+
+The sewer network operated on a system of t
+
+=== LINKED WIKI PAGE (first 5000 chars): Undermountain
+
+{{Cleanup||19:57, March 14, 2019 (UTC)}}
+{{Otheruses4|the dungeon beneath [[Waterdeep]]|the sourcebook of the same name|Undermountain (LGR)}}
+{{Dungeon
+| image         = Undermountain cross section.png
+| caption       = A cross-sectional view of Undermountain beneath Waterdeep's streets and sewers.
+| name          = Undermountain
+| alias         = The Domain of Haalvar the Mad<ref name="EasyBp49">{{Cite book/Easy Betrayals|49|4}}</ref>
+| level of      = 
+| level number  = 
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="W.DMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6}}</ref>
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = 
+| previous      = 
+| next          = 
+| locations     = yes
+| organizations = yes
+| settlements   = yes
+| bodies of water = yes
+| forests       = yes
+| events        = yes
+| food and drink = yes
+| items         = yes
+}}
+'''Undermountain''' was a multi-tiered dungeon, consisting of myriad of inter-connected chambers and lairs located deep beneath the city of [[Waterdeep]] and its [[Mount Waterdeep|namesake mountain]].<ref name="W.DMM-p5">{{Cite book/Waterdeep: Dungeon of the Mad Mage|5}}</ref> Originally home to the [[Dwarf|dwarves]] of [[Clan Melairkyn]], the ''Underhalls'' were eventually taken over by [[Halaster Blackcloak]], also known as the "Mad Mage", and his seven apprentices.<ref name="W.DMM-p6" />
+
+{{quote
+|Undermountain? Ah, yes. A great place to have fun, the most famous battlefield in which to earn a reputation as a veteran [[adventurer]] — and the largest known mass grave in [[Faerûn]] today.
+|[[Elminster]].<ref name= "WTAG">
+{{cite web
+| url            = http://rpg.nobl.ca/archive.php?x=dnd/ru/20050309a
+| title          = Return to Undermountain Introduction
+| accessdate     = 2023-02-03
+| author         = [[Matthew Sernett]]
+| date           = 2005-03-09
+| work           = Return to Undermountain
+| publisher      = [[Wizards of the Coast]]
+| archiveurl     = 
+| archivedate    = }}</ref>
+}}
+
+==Features==
+===Architecture===
+Generally speaking, Undermountain's natural chambers boast high ceilings of at least {{SI|16|ft}} and smooth floors made of gray [[granite]]. Many halls, rooms, and galleries were created by carving out the natural rock and were generally decorated in a way that made them look uniform and mundane. That said, exceptions existed.<ref name="RU.CGU-p16">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|16}}</ref>
+
+A corridor in Undermountain was usually {{SI|10|ft}} wide and high. Stairs typically had no railings.<ref name="RU.CGU-p16" />
+
+===Magical Features===
+Undermountain had lots of [[magical]] peculiarities that were created and utilized by Halaster. Undermountain's proprietor made it impossible to cast magic that teleported people into or out of Undermountain. Various forms of divination magic would also not function, though some magic objects and spells like wizard eye worked to some degree. This made it challenging if not impossible for would-be treasure hunters to gather information about what the dungeon had in store or what Halaster was doing. Summoning spells also had limitations; their functionality was limited to moving monsters that were already present in Undermountain, or trapping monsters from outside. However, magic items that summoned creatures worked, at least as a general rule.<ref name="RU.CGU-p16" />
+
+Destroying any wards or magical effects that managed these limitations was a task that was as good as impossible. A high understanding of magic was required to understand the many-layered incantations, particular knowledge to determine how to dissolve these effects, the skill to actually dispel these high level magics, combat prowess to protect oneself from monsters that were certainly attracted to people working to dissolve the layered magic, the ability to do this work at a speed that exceeded the speed at which the magic was restored, a lot of time, and the willingness to undertake this task despite the thankless and likely fruitless nature.<ref name="RU.CGU-p16" />
+
+Another effect of the many-layered magic of the Mad Mage was that most of the surfaces and features of the [[dungeon]] radiated some degree of magic, including the floor, ceilings, and walls. This made spells like ''[[detect magic]]'' largely useless because either the radiated magic was so strong that it was impossible to distinguish specific information or because the radiated magic masked the magical properties of other things.<ref name="RU.CGU-p16" />
+
+The complex magics of Undermountain were intertwined with Halaster himself. In the event of the Mad Mage's death or removal from Undermountain, its enchantments and spells would go wild. Countless ''[[gate]]s'' and ''[[portal]]s'' would become destabilized and available for many powerful monsters to utilize. The arcane chaos would continue to rage through Undermountain until [[Mystra|Mystra's]] [[Chosen of Mystra|Chosen]], [[We
+
+=== LINKED WIKI PAGE (first 5000 chars): Brace Ulmemur
+
+{{DEFAULTSORT:Ulmemur, Brace}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Brace Ulmemur
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p50">{{Cite book/Waterdeep and the North|50}}</ref><ref name="CS.W-p36">{{Cite book/City of Splendors: Waterdeep|36}}</ref>
+| formerhomes    = 
+| sex            = Male<ref name="CS.W-p36" />
+| race           = [[Human]]<ref name="CS.W-p36" />
+| ethnicity      = [[Chondathan]]<ref name="CS.W-p36" />
+| occupation     = City Watchman
+| age            = 
+| patron deity   = [[Tymora]]<ref name="WatN-p50" />
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = [[Chaotic neutral]]
+| class1e        = {{Class table|edition=1e|[[Fighter]]|4}}
+| refs1e         = <ref name="WatN-p50" />
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic neutral]]
+| class35        = {{Class table|edition=3e|[[Fighter]]|7}}
+| refs35         = <ref name="CS.W-p36" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Brace Ulmemur''' ({{Pronounce|BRAY|sss|_|ull|MEM|urr|refs=<ref name="WatN-p50" />}}) was a member of the [[Waterdeep]] [[City Watch (Waterdeep)|City Watch]] in the 14{{th}} century [[DR]].<ref name="CS.W-p36" />
+
+==Personality==
+Brace was very loyal to friends but was liable to hunt a betrayer to the end of the world. He was a little paranoid and distrustful of people he didn't know.<ref name="CS.W-p36" />
+
+==History==
+Brace was an adventurer devoted to [[Tymora]] but every adventuring party he joined was decimated by monsters. In time, most adventurers said that Brace was "kissed by [[Beshaba]]" and nobody wanted him in their party any more. So Brace joined the City Watch to have a regular income and home.<ref name="CS.W-p36" /> 
+
+==Appendix==
+===References===
+{{Refs}}
+[[FR:Brace Ulmemur]]
+[[Category:Fighters]]
+[[Category:Chondathans]]
+[[Category:Humans]]
+[[Category:Adventurers]]
+[[Category:Worshipers of Tymora]]
+[[Category:Members of the City Watch of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Derek Windsfire
+
+{{DEFAULTSORT:Windsfire, Derek}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Derek Windsfire
+| true name      = 
+| alt_spelling   = 
+| titles         = Grand Civilar<ref name="CoS.CG-p76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|76}}</ref><ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35}}</ref>
+| aliases        = 
+| nicknames      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="CoS.W-p35" />
+| formerhomes    = 
+| sex            = Male<ref name="CoS.W-p35" />
+| race           = [[half-elf|Half]]-[[moon elf]]<ref name="CoS.W-p35" />
+| ethnicity      = 
+| occupation     = [[Generic City Watch captain (Waterdeep)|Civilar]]<ref name="CoS.W-p35" />
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = DR
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Neutral good]]
+| class35        = {{Class table|edition=3e|[[Fighter]]|11}}
+| refs35         = <ref name="CoS.W-p35" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+Grand Civilar '''Derek Windsfire''' was one of the high commanders of the [[City Watch (Waterdeep)|City Watch]] of [[Waterdeep]].<ref name="CoS.W-p35" />
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Derek Brisefeu]]
+{{stub-person}}
+[[Category:Fighters]]
+[[Category:Half-elves]]
+[[Category:Members of the City Watch of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+

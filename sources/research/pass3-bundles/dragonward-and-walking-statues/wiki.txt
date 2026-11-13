@@ -1,0 +1,1720 @@
+NOT FOUND: Dragonward
+
+=== WIKI PAGE: Walking Statues of Waterdeep
+
+{{Creature
+| image        = <gallery>
+WalkingStatuesofWaterdeep5e.jpg|5e
+Walking_Statue_of_Waterdeep.jpg|3e
+</gallery>
+| caption2     = Walking Statues of Waterdeep
+| name         = Walking Statue of Waterdeep
+| size5e       = Gargantuan
+| type5e       = [[Construct]]
+| subtype5e    = 
+| alignment5e  = [[Unaligned]]
+| challenge5e  = 18
+| refs5e       = <ref name="WDH5e-p219">{{Cite book/Waterdeep: Dragon Heist|219}}</ref>
+| size4e       = 
+| origin4e     = 
+| type4e       = 
+| subtype4e    = 
+| alignment4e  = 
+| refs4e       = 
+| size3e       = Gargantuan
+| type3e       = [[Construct]]
+| subtype3e    = 
+| alignment3e  = [[Lawful neutral]]
+| challenge3e  = 18
+| refs3e       = <ref name="CSW3e-p139-140">{{Cite book/City of Splendors: Waterdeep|139-140}}</ref>
+| size2e       = 
+| alignment2e  = 
+| refs2e       = 
+| size1e       = 
+| alignment1e  = 
+| refs1e       = 
+| patron deity = 
+| vision       = [[truesight]]
+| activecycle  = 
+| diet         = 
+| lifespan     = 
+| location     = 
+| language     = none
+| subraces     = 
+| climate      = 
+| terrain      = 
+| height       = 
+| length       = 
+| wingspan     = 
+| weight       = 
+| skincolor    = 
+| haircolor    = 
+| hairstyles   = 
+| feathers     = 
+| eyecolor     = 
+| build        = 
+| distinctions = 
+| based        = 
+| first        = 
+}}'''The Walking Statues''' were mighty [[construct]]s built for the defense of holy temples, ancient vaults and the most important cities, castles and fortresses of [[Waterdeep]]. They often served as ethereal guardians that could attack other ethereal creatures approaching its guarded area. They were unswervingly loyal to their instructions or orders, carrying them out to the best of their abilities.<ref name="CSW3e-p139-140" />
+
+==Description==
+Unlike most constructs, walking statues were free-willed, thinking creatures who could reason, learn and remember. They were able to stand still for centuries at a time, remaining endlessly vigilant, but all the while they would be deep in thought. Walking statues were capable of understanding [[Common]] and [[Draconic language|Draconic]], but would speak only if they were commanded to do so by their creator or by any whom they recognized as an authority.<ref name="CSW3e-p139-140" />
+
+==History==
+[[File:Blackstaff of Waterdeep AFR.jpg|thumb|left|[[Vajra Safahr]] holding the [[Blackstaff (staff)|Blackstaff]] near one of the Walking Statues.]]
+Originally there was only one visible statue in the city, later known as [[The Sahuagin Humbled]], while seven other statues remained hidden on the ethereal plane around the city. During [[Spellplague|The Spellplague]] ([[1385 DR]]) six more of the statues exited the ethereal plane and begun rampaging the city. [[Tsarra Chaadren]], the [[Blackstaff]] at the time, was unable to control them or banish them back to [[Ethereal plane|The Ethereal plane]]. Once their rampage ended, the city rebuilt around, on top of, and sometimes inside the statues. Much later in [[1479 DR]] the eighth statue, [[The Griffon]], appeared. It defended [[Ahghairon's Tower]] (again, free from the control of the ''Blackstaff'') before settling down near [[The Peaktop Aerie]] on [[Mount Waterdeep]]. As the statues are unable to be removed from the city, they've come to be used as landmarks to navigate.<ref name="W-DH-p182">{{Cite book/Waterdeep: Dragon Heist|(182)}}</ref>
+
+==The Statues==
+[[File:walking statue and urchins-5e.jpg|thumb|270px|''The street urchins [[Nat]], [[Jenks]], and [[Squiddly]] playing below one of the Walking Statues.'']]
+*[[God Catcher|The God Catcher]] Settled in the [[Castle Ward of Waterdeep|Castle Ward of Waterdeep]] just north of The Market.<ref name="W-DH-p182">{{Cite book/Waterdeep: Dragon Heist|(182)}}</ref>
+*[[The Griffon]] Settled in the [[Castle Ward of Waterdeep]] on [[Mount Waterdeep]] near the [[Peaktop Aerie]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Sahuagin Humbled]] Settled in the [[Castle Ward of Waterdeep]] on the far northern slope of [[Mount Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Great Drunkard]] Settled in the [[Castle Ward of Waterdeep]] just south of The Market.<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Lady Dreaming]] Settled in the [[Castle Ward of Waterdeep]] on the far northern slope of [[Mount Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Honorable Knight]] Settled in the [[Trades Ward of Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Hawk Man]] Settled in the [[Castle Ward of Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[The Swordmaiden]] (Destroyed) Settled in the [[North Ward of Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep: Dragon Heist]]''
+| novels = {{Anthapp|Realms of the Deep|Fire is Fire}};''[[The City of Splendors: A Waterdeep Novel]]'';[[Blackstaff Tower (novel)|''Blackstaff Tower'']]
+| novel refs = ''[[Volo Breaks a Hot Tale]]''
+| video game refs = ''[[Demeo x Dungeons & Dragons: Battlemarked]]''
+| gamebook refs = ''[[Knight of the Living Dead]]''
+| board games = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+| board game refs = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[FR:Statues vivantes (Eauprofonde)]]
+[[Category:Constructs]]
+[[Category:Locations in Waterdeep]]
+[[Category:Items from Waterdeep]]
+[[Category:Statues]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+
+=== WIKI PAGE: Ahghairon
+
+{{Person
+| image     =Ahghairon.png 
+| caption   = 
+| name      = Ahghairon
+| aliases   = Ahghairon Belnoth Undrur<ref name="GG-Ahghairon's name">{{Cite archive/Greenwood's Grotto/2023-02-22/Ahghairon's full name}}</ref>
+| home      = [[Waterdeep]]
+| sex            = Male
+| race      = [[Human]]
+| reckoning = DR
+| dob       = 920
+| death     = 1256
+| destroyed = 
+| age       = 
+| ageyear   =
+| class     = [[Wizard]]
+| rules     = 
+| alignment = 
+}}
+'''Ahghairon''' ({{Pronounce|ah|GAIR|awn|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Ahghairon Belnoth Undrur''',<ref name="GG-Ahghairon's name" /> was a [[mage]] from [[the North]]<ref name="CoS.CG-p26">{{Cite book/City of Splendors (boxed set)/Campaign Guide|26}}</ref> and the first [[Lords of Waterdeep#Open Lord|Open Lord]] of [[Waterdeep]]. He created the [[Lords of Waterdeep]], the system by which Waterdeep had been ruled ever since, except for a six-year period immediately following his death.<ref name="CoS.CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref> 
+
+{{Quote|There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.|Ahghairon, ''circa'' [[1032 DR]]<ref name="CoS.CG-p25">{{Cite book/City of Splendors (boxed set)/Campaign Guide|25}}</ref>''}}
+
+==Personality==
+Ahghairon was known by several names during his youth, but went by only his first name during his time in Waterdeep.<ref name="GG-Ahghairon's name" />
+
+==History==
+{{quote|The original splendors of Waterdeep were Ahghairon's secrets, which keep us safe today and always, despite the predations of lesser so-called lords.|[[Agnan Crohal]], ''[[Tales Told Tavernside]]'', [[1268 DR]]<ref name="BS">{{Cite book/Blackstaff Tower||23}}</ref>}}<br/>
+Ahghairon was born on [[Midsummer]]'s Night, in the {{YearlinkName|920}}.<ref name="CoS.CG-p29" /> He was named after his great-grandfather.<ref name="GG-Ahghairon's name" /> Legends say that the symbol of [[Mystra]] was glowing in the sky at the time.<ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+===The Trollwars===
+The [[Trollwars#Second Trollwar|Second Trollwar]] broke out in [[940 DR]],<ref name="CoS.CG-p29" /> as [[troll]]s were pushed down into the area later known as the [[Evermoors|Trollmoors]] by [[orc]] uprisings further north. After a decade of battles, a young Ahghairon distinguished himself, using his magic to turn the war against the trolls.<ref name="CoS.CG-p26" /> First, the Waterdhavian defenders drove the trolls back from their walls. The human realms then united under Ahghairon, War Captain [[Aeroth of Silverymoon]], and [[Samular Caradoon]] of [[Tyr]], and together they eradicated trolls across the Evermoors, with war finally coming to an end in [[952 DR]].<ref name=GHR>{{Cite book/The Grand History of the Realms|113}}</ref>
+
+At some point during the 940's DR, Aghairon was in [[Waterdeep]], at the time called Nimoar's Hold. Fires set to hold of the trolls threatened to destroy a large part of the town, so Aghairon asked adventurers to find and bring him [[Halaster Blackcloak|Halaster]]'s wards to bolster a ritual that would allow him to stop the fires. (More info about this adventure can be found in [[Hero of the Troll Wars]])
+
+A third Trollwar almost took place in [[963 DR]], when the traitors [[Aviss]] and [[Fellandar]] led an army of trolls out of the [[Mere of Dead Men]] against the city. They knew well the city's defenses, and [[Castle Waterdeep]] had only just begun construction. But Ahghairon and a band of [[wizard]]s hurled Aviss and Fellandar into an extra-dimensional prison, thwarting the attack.<ref name="ADDc-33-p16">{{Cite comic/Summer in the City|16}}</ref> <ref group="note">The comic "[[Summer in the City]]" actually refers to "great Aglairon", but by the context it seems clear this is meant to be Ahghairon.</ref>
+
+===Rise to Power===
+At this time, Waterdeep was ruled by the Warlord [[Rhaulor]], who wanted to use the city's power and wealth to create an empire spanning [[northwest Faerûn]]. Ahghairon strongly disagreed with this, and when he voiced his concerns, Rhaulor attacked him. Ahghairon  used his magic to turn Rhaulor's sword into a snake, which bit and poisoned him. Rhaulor died and Ahghairon assumed control of Waterdeep, proclaiming himself the first Open Lord, and establishing a form of government involving Masked Lords, whose identities would remain private.<ref name="CoS.CG-p27" />
+
+===Rule===
+In [[1007 DR]], Ahghairon constructed his [[Ahghairon's Tower|wizard tower]], but positioned it outside the walls of Waterdeep (which since expanded). At the same time, he imposed magical barriers on [[Halaster's Hold]], which prevented the possibility of any dangers escaping into the city. He created a magical axe named ''[[Azuredge]]'' in [[1026 DR]].<ref name="CoS.CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+
+During his rule, Ahghairon also banned [[slavery]]. Though this was later reinstated by the [[History of Waterdeep#Reign of Guildmasters|Lords Magister]], it was soon outlawed again by Open Lord [[Baeron Silmaeril]] and had remained illegal ever since.<ref name="CoS-WWiW-p6">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|6-7}}</ref>
+
+===Death===
+Ahghairon used ''[[potion of longevity|potions of longevity]]'' to remain in prime physical form even though he was growing old by human standards.<ref name="CoS.CG-p26" /> Eventually, his health failed in [[1256 DR]], and he died and was buried in his tower in Waterdeep. The tower was sealed off and protected by magic, and it was believed that his resting place remained undisturbed ever since.<ref name="CoS.CG-p27" /><ref name="CoS.CG-p30" />
+
+==Appendix==
+{{Incomplete|}}
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = ''[[Undermountain: The Lost Level]]'';''[[Waterdeep: Dragon Heist]]'';''[[Waterdeep: Dungeon of the Mad Mage]]''
+| novels              = 
+| novel refs          = ''[[Elfsong]]'';''[[The City of Splendors: A Waterdeep Novel]]'';''[[Elminster in Hell]]'';''[[The Edge of Chaos]]'';''[[Blackstaff Tower (novel)|Blackstaff Tower]]'';''[[The God Catcher]]'';''[[Death Masks]]''
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = ''[[Knight of the Living Dead]]''
+| video games         = 
+| video game refs     = ''[[The Eye of the Beholder]]'';''[[Baldur's Gate (game)|Baldur's Gate]]''
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = ''[[The Hero of the Troll Wars]]'';''[[Purging the Blood]]'';''[[The Tower of Ahghairon]]''
+| organized play refs = ''[[Dragon's Deep]]'';''[[In Cold Blood]]'';''[[Once in Waterdeep]]'';''[[The Skull Square Murders]]'';''[[Poisoned Words]]'';''[[Xanathar's Wrath]]'';''[[Change of Address]]'';''[[Last Orders at the Yawning Portal]]''
+}}
+===References===
+{{refs}}
+[[Category:Wizards]]
+[[Category:Humans]]
+[[Category:Lords of Waterdeep]]
+[[Category:Writers]]
+[[Category:Inhabitants of Ahghairon's Tower]]
+[[Category:Inhabitants of the Castle Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[fr:Ahghairon]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Vajra Safahr
+
+{{DEFAULTSORT:Safahr, Vajra}}
+{{Otheruses4|the seventh [[Blackstaff]]|other women named Vajra|Vajra}}
+{{Person
+| image          = Vajra-5e.png
+| caption        = An artist's depiction of Vajra.
+| name           = Vajra Safahr
+| alt_spelling   = 
+| titles         = Blackstaff<ref name="BST-p258-259">{{Cite book/Blackstaff Tower|258-259}}</ref>
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref>
+| formerhomes    = [[Tethyr]], [[west Faerûn]]<ref name="BST-p247-251" />
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]<ref name="BST-p4">{{Cite book/Blackstaff Tower|4}}</ref>
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Halfling language|Halfling]]<ref name="WDH5e-p217">{{Cite book/Waterdeep: Dragon Heist|217}}</ref>
+| reckoning      = 
+| dob            = 1455
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = [[Tamik al Safahr]] and [[Parama yr Manshaka]]
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = <ref name="BST-p247-251" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 13
+| class5e        = {{Class table|edition=5e|[[Wizard]]|18}}
+| refs5e         = <ref name="WDH5e-p217" />
+}}
+'''Vajra Safahr''' ({{Pronounce|VAJ|rah|_|sah|FAR|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was the seventh [[Blackstaff]] of [[Waterdeep]], a title she ascended to in [[1479 DR]] when her mentor and lover, [[Samark Dhanzscul]], was killed.<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref> She was quite young when she became the Blackstaff,<ref name="BST-p4">{{Cite book/Blackstaff Tower|4}}</ref><ref name="BST-p1">{{Cite book/Blackstaff Tower|1}}</ref> and was the youngest Blackstaff in Waterdeep's history.<ref name="WoW">{{Cite game/Warriors of Waterdeep}}</ref>
+
+==Description==
+Vajra was diminutive, standing under {{SI|5|ft|c|long=yes}},<ref name="Schend-tweet">{{Cite web|url=https://web.archive.org/web/20230628202441/https://twitter.com/StevenESchend/status/1674134481840529408?cxt=HHwWgICzhZ-c3LsuAAAA|title=Howdy and welcome to a quick "Steven clarifies something he wrote long ago"|accessdate=28-06-2023| date=28-06-2023}}</ref> with olive skin, short black hair, and brown eyes.<ref name="BST-p4" /><ref name="BST-p1" /> However, for a time, she had the ability to change her eye color, and the color switched depending on which of the six previous Blackstaffs controlled her body at any given time.<ref name="Schend-tweet" />
+
+==Personality==
+Vajra loved an intriguing [[arcane]] challenge. She was patient and known to pursue multiple plans at once, often requiring her to get her rivals to act in her best interests instead of their own.<ref name="WoW" /> Although she was prone to self-doubt when she first assumed the role of the Blackstaff,<ref name="DM-ch1">{{Cite book/Death Masks||1}}</ref> she soon learned to ignore those doubts and to dismiss the envies of those who were skeptical of her role.<ref name="WoW" />
+
+==Activities==
+She was focused on turning Waterdeep, and specifically her [[Blackstaff Academy]], into the center of [[magical]] study in [[Faerûn]]. She would wander the libraries and laboratories of [[Blackstaff Tower]] under magical silence so as not to disturb the other wizards, save for when she made a sudden appearance to aid them in their studies. She allowed her best students access to her own personal [[spellbook]], and was said to even allow some of them to add their own creations to it.<ref name="WoW" />
+
+==Abilities==
+Though having become the Blackstaff at a young age, Vajra was a skilled wizard, even capable of casting a lone spell while entirely [[paralyze|paralyzed]], and thus incapable of performing verbal incantations or hand-gestures. The effect of this spell was to fire forth a few rays of amber-colored energy from her eyes.<ref name="Blackstaff Tower">{{Cite book/Blackstaff Tower}}</ref>
+
+==Possessions==
+[[File:Vajra signature work WoW.png|thumb|''Vajra's signature spellbook.'']]Vajra wielded the fabled [[Blackstaff (staff)|Blackstaff]], which was silver shod and towered over her head by several feet.<ref name="BST-p258-259">{{Cite book/Blackstaff Tower|258-259}}</ref>
+
+She was kno
+
+=== LINKED WIKI PAGE (first 5000 chars): Blackstaff (staff)
+
+{{otheruses4|the staff|other uses|Blackstaff (disambiguation)}}
+{{Item
+| image         = Vajra-5e.png 
+| caption       = Vajra Safahr holding a blackstaff.
+| name          = Blackstaff
+| othernames    = 
+| nicknames     = 
+| type          = [[Staff]]
+| location      = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = Legendary
+| attunement5e  = Required ([[wizard]] only; must be the [[Blackstaff]] heir)
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = <ref name="WDH5e-p190">{{Cite book/Waterdeep: Dragon Heist|190}}</ref>
+| communication = Telepathically<ref name="WDH5e-p190" />
+| languages     = 
+| alignment     = [[Neutral]]<ref name="WDH5e-p190" />
+}}
+The '''Blackstaff''' was the name for a series of powerful magical staves, created and used by [[Khelben "Blackstaff" Arunsun]] and/or his successor.<ref name="FRCS-p275">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|275}}</ref><ref name="BST-p260">{{Cite book/Blackstaff Tower|260}}</ref>
+
+==Description==
+===Khelben's Blackstaff===
+It was believed that Khelben Arunsun, who carried the first [[Blackstaff]] title, selected a new Blackstaff every time he left [[Blackstaff Tower]].<ref name="RGLoD-98">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|98}}</ref> However, it always appeared as a long wooden staff. It was longer than an average human was tall, roughly seven feet from base to tip.  A ring of bulbs circled the staff at about eye level, and the staff was topped by a curved claw shape. The entire staff was pure black in color.<ref name="FRCS-p275" /> 
+
+===Samark's Staff===
+[[Samark Dhanzscul]], the sixth Blackstaff, carried a staff known as the Duskstaff, which was a twisted metal staff with a crystal on top that flashed various colors.<ref name="BST-p1">{{Cite book/Blackstaff Tower|1}}</ref><ref name="BST-p139">{{Cite book/Blackstaff Tower|139}}</ref> It was unknown whether this was an iteration of a Blackstaff or a different staff. The Duskstaff could only be moved by the current Blackstaff or by someone wielding [[Ncral's Ring]].<ref name="BST-p139">{{Cite book/Blackstaff Tower|139}}</ref>
+
+===Vajra's Blackstaff===
+[[Vajra Safahr]], the seventh Blackstaff, carried a silver-shod Blackstaff.<ref name="BST-p252">{{Cite book/Blackstaff Tower|252}}</ref> The Blackstaff she carried when proclaiming her status as the new Blackstaff was the "true blackstaff", a large rune-inscribed [[duskwood]] staff with silver veins. The whole staff was blackened by use. Atop the staff was a large axe head in the shape of a snarling wolf's head, which had glowing green eyes.<ref name="BST-p250">{{Cite book/Blackstaff Tower|250}}</ref>
+
+==Known powers==
+The Blackstaff had all the powers of a [[staff of power]].<ref name="FRCS-p275" /> 
+
+The staff also had a [[permanent]] [[blackstaff (spell)]] upon it<ref name="FRCS-p275" /> that could&hellip;
+* &hellip;grant an [[enhancement]] when used in melee combat,<ref name="FRCS-p275" /> 
+* &hellip;[[dispel magic]] with a touch,<ref name="FRCS-p275" />  
+* &hellip;cause a spellcaster to lose a spell or expend a bit of their magical power,<ref name="FRCS-p275" /> and
+* &hellip;channel various [[mind-affecting]] spells.<ref name="FRCS-p275" /> 
+
+A Blackstaff's Heir needed to touch the Blackstaff in order to be centered in his or her new powers.<ref name="BST-p252">{{Cite book/Blackstaff Tower|252}}</ref> Only a Blackstaff or the Blackstaff's Heir could safely carry and wield a Blackstaff. As long as a Blackstaff's Heir was touching the Blackstaff, the powers of the actual Blackstaff (person) could be channeled through the staff.<ref name="BST-p260">{{Cite book/Blackstaff Tower|260}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|novels = [[Blackstaff (novel)|''Blackstaff'']]
+|novel refs = ''[[The Summoning]]''
+|video games = ''[[Descent to Undermountain]]'';''[[Warriors of Waterdeep]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+|card games = {{MTGapp|AFR}}
+}}
+
+===Gallery===
+<gallery>
+Blackstaff of Waterdeep AFR.jpg|''A depiction of the Blackstaff from [[Adventures in the Forgotten Realms]]''
+Blackstaff WoW.png|''The Blackstaff from [[Warriors of Waterdeep]].''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Magic items]]
+[[Category:Plus-4 items]]
+[[Category:Staves]]
+[[Category:Wooden items]]
+[[Category:Human items]]
+[[Category:Items from Waterdeep]]
+[[Category:Items from the Sword Coast North]]
+[[Category:Items from Northwest Faerûn]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Toril]]
+[[Category:Items]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Sahuagin Humbled
+
+{{Location
+| image              = 
+<gallery>
+SahuaginHumbled-Concept.png|Post-1370 DR
+Sahuaginhumbled.png|Pre-1370 DR
+</gallery>
+| caption2           = The Sahuagin Humbled towers over all.
+| name               = Sahuagin Humbled
+| alt spelling       = 
+| aliases            = The Walking Statue
+| type               = Landmark
+| region             = [[Waterdeep/Castle Ward|Castle Ward]], [[Waterdeep]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|183}}</ref><ref name="WDH-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The [[Walking Statues of Waterdeep|Walking Statue]], known as the '''Sahuagin Humbled,''' was originally the only Walking Statue visible in [[Waterdeep]].<ref name="CoS.W-p21">{{Cite book/City of Splendors: Waterdeep|21}}</ref><ref name="VGtW-9">{{Cite book/Volo's Guide to Waterdeep|9}}</ref>
+
+==Description==
+This Walking Statue was a {{SIAdj|90|ft|adj=tall}} stone colossus. It was one of a set of eight such [[construct]]s in Waterdeep.<ref name="CoS.W-p21" />
+
+Before being reshaped into the image of a [[sahuagin]], the Walking Statue took the form of a regal human man, facing the [[Sea of Swords]].<ref name="VGtW-9"/>
+
+==Location==
+The statue was positioned on [[Gull Leap]] at the western end of [[Julthoon Street]] in Waterdeep by [[Khelben "Blackstaff" Arunsun]] (the creator of the statue and most of its brethren)<ref name="WatN-23">{{Cite book/Waterdeep and the North|23}}</ref> to help defend the city.<ref name="CoS.W-p21" /><ref name="VGtW-9" />
+
+==History==
+In the 1360s, it was considered a minor crime under the Second Plaint to deface or vandalize the statue.<ref name="VGtW-9"/>
+
+Around the same time, members of the [[Watchful Order of Magists and Protectors]] would cast ''[[light]]'' spells upon the statue during particularly rough storms, in order to guide passing ships.<ref name="VGtW-9"/>
+
+After defending the city in the [[Deepwater War]] of {{Yearlink|1369}}, Khelben reshaped the statue into the image of a sahuagin, moved it to the base of [[Mount Waterdeep]], and had it pose down on one knee showing reverence toward the [[House of Heroes]] on the far side of the [[Field of Triumph]] to the north.<ref name="W-DH-p183" /><ref name="WDH-map" /><ref group="note">In ''[[Waterdeep: Dragon Heist]],'' a sahuagin invasion is described as occurring in {{yearlink|1370}}. However, it seems clear from context that they are referring to the Deepwater War, which occurred in {{yearlink|1369}}.</ref>
+
+==Appendix==
+===Notes===
+{{notes}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===Gallery===
+<gallery>
+WDH-FieldOfTriumph.png|''A map showing the location of the Sahuagin Humbled in 1492 DR.''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Items from Waterdeep]]
+[[Category:Constructs]]
+[[Category:Statues]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations on Julthoon Street]]
+[[Category:Locations on the Cliffride]]
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Catego
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Tsarra Chaadren
+
+{{DEFAULTSORT:Chaadren, Tsarra}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Tsarra Chaadren
+| aliases        = Autumnfire<ref name="charprof">{{Cite web|url=https://web.archive.org/web/20101025202534/http://ww2.wizards.com/books/mirrorstone/Article.aspx?doc=fr_blackstaffcp|title=Character Profile: Tsarra Chaadren|accessdate=2010-10-17|publisher=[[Wizards of the Coast]]|quote=(Archived by WebCite at http://www.webcitation.org/5vU3h3d42 on 2011-01-04).}}</ref>
+| home           = [[Blackstaff Tower]], [[Waterdeep]]
+| sex            = Female
+| race           = [[Half-elf]]
+| reckoning      = DR
+| dob            = 1340
+| dobnotes       = (12 Eleasias)<ref name="charprof"/>
+| death          = 1399
+| deathnotes     = <ref name="BlackstaffTower247"/><sup>,</sup><ref name="BlackstaffTower303"/>
+| destroyed      = 
+| destroyednotes = 
+| age            = 
+| ageyear        = 1374
+| class          = [[Arcane archer]],<ref name="B-p95">{{Cite book/Blackstaff/MMP|95}}</ref> [[sorcerer]]<ref name="BST-p260">{{Cite book/Blackstaff Tower|260}}</ref>
+| rules          = 
+| alignment      = 
+| patron deity   =
+| languages      = [[Common]], [[Elven language|Elven]]<ref name="Blackstaff-p14">{{Cite book/Blackstaff/MMP|14}}</ref>
+| source         = 
+| page           = 
+}}
+'''Tsarra Chaadren''' (known by the alias '''Autumnfire''') was a [[half-elf]] [[Sorcerer|sorceress]]<ref name="charprof"/> and the second [[Blackstaff]] of [[Waterdeep]].<ref name="BlackstaffTower226">[[Maliantor]] of Waterdeep, ''My Eyes Open Always: Memories of the Blackstaff'', Year of the Enchanted Puppet ([[1416 DR]]). {{Cite book/Blackstaff Tower|226}}</ref>
+
+==Appearance==
+Tsarra had long, curly auburn hair<ref name="charprof"/><ref name="B-p22">{{Cite book/Blackstaff/MMP|22}}</ref> Her eyes were hazel.<ref name="BST-p178">{{Cite book/Blackstaff Tower|178}}</ref> As of 28 Uktar [[1374 DR]], [[Khelben "Blackstaff" Arunsun]] had attached a [[kiira (disambiguation)|''kiira'']] to Tsarra's forehead, which consisted of an intricate tattoo with a green gem at its center.<ref name="B-p46">{{Cite book/Blackstaff/MMP|46}}</ref>
+
+==Personality==
+Tsarra was a patient teacher, although she did have a temper, which flared up when hearing lies, or when people treated children or animals poorly. She was stubborn when she believed herself to be right.<ref name="charprof"/>
+
+She preferred to spend time in the [[:Category:Woods|woods]] than in cities, but preferred cities at night.<ref name="B-p54">{{Cite book/Blackstaff/MMP|54}}</ref> She gained from her mother a knowledge of woodland herbs and their use in healing applications.<ref name="B-p92">{{Cite book/Blackstaff/MMP|92}}</ref>
+
+==Possessions==
+Tsarra inherited [[Mhaornathil]], a magical [[Rillifane Rallathil]]-blessed [[scimitar]] that could harm [[ghost]]s, from her mother, and she held a deep affection for it.<ref name="B-p22"/> Tsarra was given the [[Shield Belt of Storms]] to wear on 28 Uktar 1374 DR, through which she bore the majority of the spirit of her friend [[Danthra]].<ref name="B-p49">{{Cite book/Blackstaff/MMP|49}}</ref> As an [[arcane archer]],<ref name="B-p95">{{Cite book/Blackstaff/MMP|95}}</ref> Tsarra usually possessed a bow.<ref name="B-p99">{{Cite book/Blackstaff/MMP|99}}</ref>
+
+==Relationships==
+Tsarra's father was the human ranger [[Taalmuth Chaadren]]. Her mother was the sylvan elf [[Malruthiia Chaadren]] (originally an exiled bastard child of the [[Ilbaereth]] family).<ref name="charprof"/>
+
+==History==
+===Birth and early years===
+Tsarra was born to Taalmuth and Malruthiia on [[Eleasis 12]] [[1340 DR]]. She was nicknamed "Autumnfire" by her mother because she had curly auburn hair. Although she had [[Sorcerer|sorcerous]] abilities, both of her parents were rangers, so they encouraged those skills in her, taking her on hunts from a very young age.<ref name="charprof"/>
+
+While on a hunt in the [[Ardeep Forest]] in [[1357 DR]] with her father, Taalmuth became involved in a spell battle against a suspected [[lich]] (the true identity of the assailant was not known) and was killed. His entire body was burned by a ''[[fireball]]'' spell, and there were charred areas on nearby trees, destroyed [[skeleton]]s, a pile of stones from an arcane ritual, and a scrap of maroon cloth, which all pointed to a lich as the culprit.<ref name="charprof"/>
+
+Her mother pulled some favors and gained Tsarra an apprenticeship at [[Blackstaff Tower]]. Shortly afterwards, her mother was killed while protecting the [[Elfstone Tavern]] from an attack by [[Myrkul]]'s horde of undead. From losing both her parents to undead creatures, Tsarra formed a deep hatred for all manner of undead.<ref name="charprof"/>
+
+===Apprenticeship===
+As an orphan, Tsarra adopted the other inhabitants of Blackstaff Tower as her family. As a [[Sorcerer|sorceress]], her talents were left to develop by themselves, and Tsarra used her efforts to learn abilities to detect and destroy the undead. She gained a [[tressym]] fami
+
+=== LINKED WIKI PAGE (first 5000 chars): Blackstaff
+
+{{two other uses|Khelben's successors|the novel|Blackstaff (novel)|other uses|Blackstaff (disambiguation)}}
+'''Blackstaff''' was the title and name given to the master of the [[Blackstaff (staff)|eponymous staff]] and [[Blackstaff Tower]], including [[Blackstaff Academy]], as well as the [[Archmage]] of [[Waterdeep]].<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref> "Blackstaff" was originally a nickname given to [[Khelben "Blackstaff" Arunsun|Khelben Arunsun]] because of his powerful staff of the same name,<ref name="FRCS3e-p275">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|275}}</ref> but after his death it became the title used by his successors.<ref name="FRCG-p198" />
+
+==Blackstaffs==
+Over time, it became customary for the Blackstaff to choose an heir,<ref>{{Cite book/Blackstaff Tower|?|22}}</ref><ref>{{Cite book/Blackstaff Tower|?|24}}</ref> called the '''Blackstaff's Heir'''.<ref>{{Cite book/Blackstaff Tower|?|Prologue}}</ref>
+
+The magical quasi-spirits of the former Blackstaffs resided within the tower and served as advisors to the Blackstaff. They were not true spirits but were green-tinged facsimiles produced by the green ''[[kiira N'Vaelahr]]'' whose magic was bound to the tower.<ref name="BlackstaffTower235">{{Cite book/Blackstaff Tower|235|20}}</ref> The ''kiira N'Vaelhar'' once held the spirits and combined knowledge of the first three Blackstaffs—Khelben Arusun, [[Tsarra Chaadren]], and [[Kyriani Agrivar]]—but [[Krehlan Arunsun]] and the Grand Mages of [[Rhymanthiin]] dissipated the ''kiira'' in the [[1415 DR|Year of Staves Arcane, 1415 DR]], and bound its magic to Blackstaff Tower and its twin in Rhymanthiin, [[N'Vaerymanth]]. Thereafter, whenever someone became a Blackstaff or the heir, a template of their spirit, intellect, and knowledge became part of the Blackstaff and the tower (not the actual [[spirit]]s). These spirits could not leave the tower, but the Blackstaff could communicate with them or tap into their knowledge whenever he or she so wished. Krehlan merged the gem with the tower so that it could be the Blackstaff's advisor, rather than have all the combined consciousnesses of the previous Blackstaffs overwhelm the current Blackstaff.<ref name="BlackstaffTower252-254">{{Cite book/Blackstaff Tower|252–254|22}}</ref>
+
+The Blackstaff could also manipulate the tower at will, opening any door with a thought, and could listen in on the conversations of anyone within the tower. He or she also knew the location and nature of every [[magical item]] within the tower and could see the tower’s twin, N'Vaerymanth, in his or her mind.<ref name="BlackstaffTower252-254"/>
+
+The seventh Blackstaff was [[Vajra Safahr]]. The following were the Blackstaffs in order from earliest to latest:
+;[[Khelben "Blackstaff" Arunsun|Khelben Arunsun]]
+: A [[Chosen of Mystra]] and the original Blackstaff who created Blackstaff Tower, Khelben was almost a thousand years old when he sacrificed his life to raise Rhymanthiin, the Hidden City of Hope, on the [[Feast of the Moon]], [[1374 DR]].<ref name="Blackstaff337-342">{{Cite book/Blackstaff/MMP|337–342}}</ref> He was considered the greatest of the Blackstaffs.<ref>{{Cite book/Blackstaff Tower|?|22}}</ref>
+;[[Tsarra Chaadren]]
+: Tsarra was a [[half-elf]] [[Sorcerer|sorceress]] who became the Blackstaff after Khelben’s death. In public, she wore a magical illusion of Khelben so that others not close to the Blackstaff would believe Khelben was still alive. She could commune with Khelben’s spirit whenever she wished and had all the knowledge and memories of the previous Blackstaff. Tsarra was able to hold the [[Spellplague]] at bay the first time it struck Waterdeep, but the second time, when it surged from [[Undermountain]], it shattered her illusion as Khelben and revealed her true self before a crowd of gathered nobles at the palace. This revelation led to the two years known as the Retributive Years when Khelben’s enemies descended upon the city, only to be defeated by Tsarra.<ref name="BlackstaffTower226">{{Cite book/Blackstaff Tower|226|19}}</ref> Tsarra, her heir, and most of the [[Moonstars]] died in battle against a coven of [[vampire]]-[[wizard]]s in the [[Stump Bog]] in the [[1399 DR|Year of Fallen Friends, 1399]].<ref name="BlackstaffTower247">{{Cite book/Blackstaff Tower|247|22}}</ref><ref name="BlackstaffTower303">{{Cite book/Blackstaff Tower|303|Epilogue}}</ref>
+;[[Kyriani Agrivar]]
+: Kyriani, the mischievous and playful mistress of [[Selûne's Smile]] in Waterdeep and a [[Moonstar Agent|member of the Moonstars]], was the daughter of a [[human]] wizard and a [[drow]]. She had to reconcile and merge her warring natures of light and dark, and twice she had been split into separate bodies. Kyriani survived the battle against the vampires and, in honor of her friends, carried the Blackstaff back to Waterdeep, risking her sanity along the way due to the staff's sheer power, and she became the third Blackstaff.<ref name
+
+=== LINKED WIKI PAGE (first 5000 chars): Griffon (Walking Statue)
+
+{{Otheruses4|the [[Walking Statues of Waterdeep|Walking Statue of Waterdeep]]|the creature|Griffon}}
+{{Building
+| image         = 
+| caption       = 
+| name          = Griffon
+| aliases       = 
+| type          = Statue
+| architecture  = 
+| floors        = 
+| location      = [[Mount Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="W-DH-p182,183">{{Cite book/Waterdeep: Dragon Heist|182, 183}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The [[Walking Statue of Waterdeep]] known as the '''Griffon''' materialized in [[Waterdeep]]  in [[1479 DR]] in response to an attempted intrusion into [[Ahghairon's Tower]].<ref name="BST-p000">{{Cite book/Blackstaff Tower|000}}</ref> After flying over the city, it came to rest facing southeast toward the [[Dock Ward of Waterdeep|Dock Ward]] on [[Mount Waterdeep]] near [[Peaktop Aerie]]. Due to its location, many believed it was simply a monument to the [[Griffon Cavalry]], but that was not true.<ref name="W-DH-p182,183" />
+
+The statue itself appeared as its name implies—a [[griffon]] standing on all four legs, although it was approximately twenty feet tall and made of [[granite]].<ref name="W-DH-p182,183" />
+
+==Appendix==
+{{Template:Stub-geo}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[Category:Constructs]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations on Mount Waterdeep]]
+[[Category:Statues]]
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahghairon's Tower
+
+{{Building
+| image         = Ahghairon's tower.png
+| caption       =<nowiki>Melkar of Mirabar attempts to enter Ahgharion's Tower, only to find a shocking surprise.</nowiki> 
+| name          = Ahghairon's Tower
+| aliases       = 
+| type          = Tower
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward]], [[Waterdeep]]
+| built         = [[1007 DR]]
+| destroyed     = 
+| owner         = [[Ahghairon]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = <ref name="CoS-CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+'''Ahghairon's Tower''' was the home and eventually the final resting place of [[Ahghairon]], the first [[Open Lord]] of [[Waterdeep]].<ref name="CoS-CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref>
+
+==Location==
+Ahghairon's Tower was located in a courtyard at the intersection of the [[Street of Silks]] and [[Waterdeep Way]] in the [[Castle Ward of Waterdeep]].<ref name="BT"/>
+
+==Activities==
+Ahghairon's Tower was haunted by several grim sights. One was the skeleton of [[Melkar|Melkar of Mirabar]], a wizard who had attempted to breach the tower. His skeleton stood inside the magical fields facing the north side of the tower, with its arms stretched wide.<ref name="VGW-p8">{{Cite book/Volo's Guide to Waterdeep|8}}</ref>
+
+Local children made it a game to rearrange the bones inside the fields with a long stick, as the bones would always eventually drift back into position. The practice was eventually banned by the Open Lord, [[Piergeiron Paladinson]].<ref name="VGW-p8"/>
+
+Another set of skeletal remains was displayed within the tower's magical fields. These had once belonged to the wizard [[Khondar Naomal]], who nearly breached its defenses in {{Yearlink|1479}}.<ref name="BT-p261-299">{{Cite book/Blackstaff Tower|261-299}}</ref> Khondar's skeleton was condemned to forever be pursued by spectral wolves, torn apart, and then reformed.<ref name="BT-p300">{{Cite book/Blackstaff Tower|300}}</ref>
+
+The final, and perhaps strangest, sight was that of [[Ahghairon's Great Cloak]], which flew from the tower every 15{{th}} day of Ches to possess a chosen bearer. The Cloak was understood to be possessed by the spirit of Ahghairon, and its bearer would be under its command. The bearer could enter the tower if the Cloak so desired, though they would retain no memories of its interior after the Cloak removed itself from the bearer.<ref name="BT-290">{{Cite book/Blackstaff Tower|290}}</ref><ref name="RBN-SoA">{{Cite web/Realms by Night/Part Nine: The Spirit of Ahghairon}}</ref>
+
+==Defenses==
+A series of six barriers were put in place to prevent entry into the tower. To successfully gain entry to the tower, all wards required keys. Any item that Ahghairon himself had bespelled worked as a key, including [[Ahghairon's Amulet]], [[Ahghairon's Ring]], [[Anthaorl's Fang]], and [[Ahghairon's Key]].<ref name="BT-257">{{Cite book/Blackstaff Tower|257}}</ref><ref name="BT-216">{{Cite book/Blackstaff Tower|216}}</ref><ref name="BT-223">{{Cite book/Blackstaff Tower|223}}</ref> Opening each barrier gave a limited amount of time to open the next, as each would reactivate after a short time.<ref name="BT-p214">{{Cite book/Blackstaff Tower|214}}</ref>
+
+One of the wards was a permanent ''[[forcecage]]'' spanning ten feet out from the tower, invisible except for a slight shimmering in the air. Unless the ''forcecage'' was attacked, it would remain invisible. Within this ''forcecage'' was another ward, a ''[[prismatic sphere]]'' similarly enchanted to be invisible until attacked.<ref name="CoS-CG-p45">{{Cite book/City of Splendors (boxed set)/Campaign Guide|45}}</ref><ref name="WatN-p23">{{Cite book/Waterdeep and the North|23}}</ref><ref name="VGW-p8"/><ref name="CoS:W-p115">{{Cite book/City of Splendors: Waterdeep|115}}</ref>
+
+Within the ''prismatic sphere'' was a field enchanted with the ''[[time stop]]'' spell, and within the ''time stop'' field was a field enchanted with ''[[spell turning]].'' Within the ''spell turning'' field was an ''[[alarm]]'' spell that would ring a loud alarm in the [[Palace of Waterdeep]] and [[Blackstaff Tower]], as well as [[Herald's Holdfast]]. Upon the alarm being triggered, the [[Griffon (Walking Statue)|Griffon Statue]] would be teleported from Mount Waterdeep in order to defend the tower. A [[cyclocone]] would also be activated, creating a whirlwind to swirl about the tower.<ref name="CoS-CG-p45"/><ref name="WatN-p23"/><ref name="CoS:W-p115"/>
+
+Inside the tower, [[iron golem]]s and [[stone guard
+
+=== LINKED WIKI PAGE (first 5000 chars): Mount Waterdeep
+
+{{DEFAULTSORT:Waterdeep, Mount}}
+{{Mountain
+| image          = Mount Waterdeep (KoTLD).png
+| caption        = A view of Mount Waterdeep, ''circa'' [[1357 DR]]
+| name           = Mount Waterdeep
+| aliases        = 
+| type           = Mountain
+| region         = [[Waterdeep]]
+| elevation      = {{SI|700|ft}}
+| georefs        = <ref name="CS-CG2e-p8-9">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8-9}}</ref>
+| races          = 
+| socrefs        = 
+| usethe         = 
+| useon          = yes
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = 
+| mountains      = 
+| events         = yes
+| food and drink = 
+| items          = 
+}}
+'''Mount Waterdeep''' was the name of the mountain on and around which the city of [[Waterdeep]] was built. It was a rough, rocky mountain and stood some {{SI|700|ft|long=yes}} above the sea level, to the west of the city. Beneath the mountain was the notorious [[Undermountain]]. The whole of Mount Waterdeep was considered to be in the [[Castle Ward of Waterdeep|Castle Ward]].<ref name="CS-CG2e-p8-9" /><ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+{{Quote
+|"If, beneath the mountain, coursing rivers of magma are like blood, then the [[hammer]] blows, and thrumming forges of our kin are the beating heart. And [[mithral]], our precious metal, buried deep and hidden within stone, can only be the mountain's dream."
+|[[Melairkyn]] folklore<ref name="CotDK">{{Cite adventurers league/Crypt of the Dark Kiss|2}}</ref>}}
+
+==Geography==
+Mount Waterdeep shielded the city from the worst coastal storm winds.<ref name="FRCS3e-p179" /><ref name="CS-CG2e-p19">{{Cite book/City of Splendors (boxed set)/Campaign Guide|19}}</ref> Inside the heart of the mountain there was a freshwater spring, that once spewed out and down its seaward rocks and into the sea below. Later on this spring was redirected into large-cistern caverns that were built into the upper reaches of the mountain, which then went down pipes into the city's [[Waterdeep/Sewers|sewer system]].<ref name="MWFS">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2014)/Mount Waterdeep's Freshwater System}}</ref>
+
+==History==
+There was a ballad that spoke an ancient city sunk into the sea and the gods raised a head stone for it to mark the grave. That was Mount Waterdeep.<ref name="WW-p15">{{Cite book/Windwalker/Hardcover|15}}</ref>
+
+Mount Waterdeep was once home to the underhalls of [[Melairbode]], a shield dwarf hold.<ref name="WDMM5e-p86">{{Cite book/Waterdeep: Dungeon of the Mad Mage|86}}</ref>
+
+==Notable Locations==
+* Waterdeep's [[Peaktop Aerie]], which housed the [[Griffon Cavalry]] riders, sat on this mountain top.<ref name="WDH5e-p181">{{Cite book/Waterdeep: Dragon Heist|181}}</ref>
+* A lookout tower.<ref name="CS-CG2e-p46">{{Cite book/City of Splendors (boxed set)/Campaign Guide|46}}</ref>
+* A [[Celestial Stairway]]<ref>{{Cite comic/Total Eclipse|15-16}}</ref><ref>{{Cite book/Waterdeep|328}}</ref>
+* On its seaward side rested eleven gigantic triple catapults.<ref name="CoSW-p96" />
+* Several sea caves existed on the western side of the mountain. These were all watched by the [[City Guard (Waterdeep)|City Guard]].<ref name="CS-CG2e-p46" />
+* The [[South Sea Caves (Waterdeep)|South Sea Caves]] were connected to Undermountain by a set of hoists large enough to move a sailing ship.<ref name="CoSW-p96" />
+* The [[Cliffride]], a steep gravel path that ran along the western edge of Mount Waterdeep's northern spur, connecting the festhall [[Silavene's]], the rental villa of [[Fair Winds]], and, at its southern end, the [[bardic college]] of [[New Olamn]].<ref name="CS-CG2e-p46" />
+
+==Inhabitants==
+The reclusive [[monk]] [[Hlam]] lived in a cave halfway up the side of the mountain.<ref name="CSW3e-p49">{{Cite book/City of Splendors: Waterdeep|49}}</ref><ref name="WDH5e-p204">{{Cite book/Waterdeep: Dragon Heist|204}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Gallery===
+<gallery>
+Image:Celestial Stairway.jpg|The [[Celestial Stairway]] rising from Mount Waterdeep, observed by [[Luna]].
+</gallery>
+===References===
+{{Refs}}
+[[Category:Mountains]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Nat
+
+{{Person
+| image          = Nat1.png
+| caption        = Nat, age 10, with her wooden sword on [[Trolltide]] in Waterdeep.
+| name           = Nat
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female<ref name="WDH5e-p63">{{Cite book/Waterdeep: Dragon Heist|63}}</ref>
+| race           = [[Human]]<ref name="WDH5e-p63" />
+| ethnicity      = [[Illuskan]]<ref name="WDH5e-p63" />
+| occupation     = 
+| age            = 10 in [[1492 DR]]<ref name="WDH5e-p63" />{{WDH-time}}
+| patron deity   = 
+| languages      = Self-taught sign language<ref name="WDH5e-p63" />
+| reckoning      = 
+| dob            = 1482
+| dobnotes       = {{WDH-time}}
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Nat''' was a street urchin from [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p63" />
+
+==Description==
+Nat was tall and skinny for her age. She was [[deaf]] and communicated with her friends by using a sign language that she invented.<ref name="WDH5e-p63" />
+
+==Possessions==
+She carried a wooden toy [[sword]].<ref name="WDH5e-p63" />
+
+==Relationships==
+Nat led the group of street urchins that included her friends [[Jenks]] and [[Squiddly]].<ref name="WDH5e-p63" /> The three of them call themselves the Ragamuffins.<ref>https://youtu.be/Gi2gJ57Coko</ref><ref group="note">The three kids are described or named as "Ragamuffins" in design sketches, as shown in [https://youtu.be/Gi2gJ57Coko?t=1406 this] episode of Dragon Talk.</ref>
+
+==History==
+In the late 15{{th}} century DR, Nat and her friends were unwittingly entangled in the city-wide hunt for the ''[[Stone of Golorr]]'', sometimes innocently helping or hindering the efforts of adventurers in retrieving it.<ref name="WDH5e-ch4">{{Cite book/Waterdeep: Dragon Heist||4}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+===Gallery===
+<gallery>
+Waterdeep-autumn-5e.jpg|''Nat and Squiddly duel in the [[Dock Ward of Waterdeep]].''
+Waterdeep-summer-5e.jpg|''Jenks gets a glimpse of Lady [[Ammalia Cassalanter]] while Nat and Squiddly run.''
+Waterdeep-overview-5e.jpg|''The three urchins overlooking [[Castle Waterdeep]] and the docks.''
+WDH-spring-Eric Deschamps.jpg|''The street urchins play during [[Trolltide]].''
+WDH-winter-Eric Deschamps.jpg|''Nat and the urchins playing winter games.''
+DotMM-urchins.jpg|''The urchins play on the rope above the well to [[Undermountain]] in the [[Yawning Portal]] as patrons look either amused or alarmed.''
+Vault_of_dragons-5e.jpg|''Nat, Squiddly, and [[Aurinax]] in the [[Vault of Dragons]].''
+Urchins, giants.png|''Nat and her friends wandered through the wrong door in Waterdeep and three friendly [[giant]] youths.
+</gallery>
+
+===References===
+{{Refs}}
+[[Category:Inhabitants]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Humans]]
+[[Category:Illuskans]]
+[[Category:Street urchins]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Jenks
+
+{{Person
+| image          = Jenks1.png
+| caption        = Jenks, age 9, pauses on the streets of Waterdeep.
+| name           = Jenks
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male<ref name="WDH5e-p63">{{Cite book/Waterdeep: Dragon Heist|63}}</ref>
+| race           = [[Human]]<ref name="WDH5e-p63" />
+| ethnicity      = [[Turami]]<ref name="WDH5e-p63" />
+| occupation     = 
+| age            = 9 in [[1492 DR]]<ref name="WDH5e-p63" />{{WDH-time}}
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 1483
+| dobnotes       = <ref name="WDH5e-p63" />{{WDH-time}}
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Jenks''' was a street urchin from [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p63" />
+
+==Description==
+Jenks had a somewhat stocky build. Like most Turami, he had dark skin. His hair was a darker shade of brown than his skin, and was cut almost down to the roots.<ref name="WDH5e-p63" />
+
+==Personality==
+Despite being shy around strangers, Jenks was brave and fiercely defended his friends.<ref name="WDH5e-p63" />
+
+==Possessions==
+He wore a robe and carried a toy [[wand]] and a stuffed [[owlbear]], which he called his "[[familiar]]".<ref name="WDH5e-p63" />
+
+==Relationships==
+[[File:Jenks_portrait.webp|thumb|right|''A closeup of Jenks' likeness.'']]
+Jenks was part of the group of street urchins that included his friends [[Nat]] and [[Squiddly]]. Since Nat was [[deaf]], Jenks and Squiddly communicated with her using a sign language Nat had invented.<ref name="WDH5e-p63" />
+
+==History==
+In the late 15{{th}} century DR, Jenks and his friends were unwittingly entangled in the city-wide hunt for the ''[[Stone of Golorr]]'', sometimes innocently helping or hindering the efforts of adventurers in retrieving it.<ref name="WDH5e-ch4">{{Cite book/Waterdeep: Dragon Heist||4}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+===Gallery===
+<gallery>
+Waterdeep-autumn-5e.jpg|''Jenks observes Nat and Squiddly dueling in the [[Dock Ward of Waterdeep]].''
+Waterdeep-summer-5e.jpg|''Jenks gets a glimpse of Lady [[Ammalia Cassalanter]] while Nat and Squiddly run.''
+Waterdeep-overview-5e.jpg|''The three urchins overlook [[Castle Waterdeep]] and the docks.''
+WDH-spring-Eric Deschamps.jpg|''The street urchins play during [[Trolltide]].''
+WDH-winter-Eric Deschamps.jpg|''Jenks rides a makeshift toboggan during winter.''
+DotMM-urchins.jpg|The urchins play on the rope above the well to [[Undermountain]] in the [[Yawning Portal]] as patrons look either amused or alarmed.
+
+</gallery>
+===References===
+{{Refs}}
+[[Category:Inhabitants]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Humans]]
+[[Category:Turami]]
+[[Category:Street urchins]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Squiddly
+
+{{Person
+| image          = Squiddly1.png
+| caption        = Squiddly, age 9, on the docks in Waterdeep.
+| name           = Squiddly
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male<ref name="WDH5e-p63">{{Cite book/Waterdeep: Dragon Heist|63}}</ref>
+| race           = [[Tiefling]]<ref name="WDH5e-p63" />
+| ethnicity      = 
+| occupation     = 
+| age            = 9 in [[1492 DR]]<ref name="WDH5e-p63" />{{WDH-time}}
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 1483
+| dobnotes       = <ref name="WDH5e-p63" />{{WDH-time}}
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Squiddly''' was a street urchin from [[Waterdeep]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p63" />
+
+{{Quote|Squiddly's my name, and I'll be your guide to Trollskull Alley today, all for the low price of 5 nibs.|Squiddly.<ref name="ICFR">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>}}
+
+==Description==
+Squiddly had a slender build. He had red skin, a long tail, and the horns common of tieflings. His left eye was covered by a black eye patch.<ref name="WDH5e-p63" />
+
+==Personality==
+He was impulsive, rarely thinking before acting.<ref name="WDH5e-p63" />
+
+==Possessions==
+Squiddly wore an eye patch and carried a small [[bow]] and a [[quiver]] with a handful of toy [[arrow]]s.<ref name="WDH5e-p63" />
+
+==Relationships==
+[[File:Squiddly_portrait.webp|thumb|right|''A closeup of Squiddly's likeness.'']]
+Squiddly was part of the group of street urchins that included his friends [[Nat]] and [[Jenks]]. He communicated with the [[deaf]] Nat using a sign language Nat had invented.<ref name="WDH5e-p63" />
+
+==History==
+In the late 15{{th}} century DR, Squiddly and his friends were unwittingly entangled in the city-wide hunt for the ''[[Stone of Golorr]]'', sometimes innocently helping or hindering the efforts of adventurers in retrieving it.<ref name="WDH5e-ch4">{{Cite book/Waterdeep: Dragon Heist||4}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep: Dragon Heist]]''
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Idle Champions of the Forgotten Realms]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+===Gallery===
+<gallery>
+Waterdeep-autumn-5e.jpg|''Jenks observes Nat and Squiddly dueling in the [[Dock Ward of Waterdeep]].''
+Waterdeep-summer-5e.jpg|''Jenks gets a glimpse of Lady [[Ammalia Cassalanter]] while Nat and Squiddly run.''
+Waterdeep-overview-5e.jpg|''The three urchins overlook [[Castle Waterdeep]] and the docks.''
+WDH-spring-Eric Deschamps.jpg|''The street urchins play during [[Trolltide]].''
+WDH-winter-Eric Deschamps.jpg|''Squiddly throws snowballs at Nat during winter.''
+DotMM-urchins.jpg|''The urchins play on the rope above the well to [[Undermountain]] in the [[Yawning Portal]] as patrons look either amused or alarmed.''
+Vault_of_dragons-5e.jpg|''Nat, Squiddly, and [[Aurinax]] in the [[Vault of Dragons]].''
+Urchins, giants.png|''Squiddly, Nat, and Jenks wandered through the wrong door in Waterdeep and a met a trio of friendly [[giant]] youths.
+</gallery>
+
+===References===
+{{Refs}}
+[[Category:Inhabitants]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Tieflings]]
+[[Category:Street urchins]]
+
+=== LINKED WIKI PAGE (first 5000 chars): God Catcher
+
+{{Building
+| image         = God_catcher-5e.jpg
+| caption       = 
+| name          = God Catcher
+| aliases       = 
+| type          = Tenement
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep]], [[Waterdeep]]
+| owner         = [[Aundra Blacklock]]
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''God Catcher''' was a tenement building in the [[Waterdeep/Castle Ward|Castle Ward]] of [[Waterdeep]].<ref name="W-DH-p182">{{Cite book/Waterdeep: Dragon Heist|182}}</ref><ref name="tGC">{{Cite book/The God Catcher|?}}</ref>
+
+==Location==
+[[File:GodCatcher-Map.png|thumb|220px|''The God Catcher marked on a map.'']]
+This structure was situated near The Market, at the intersection of [[Sul Street]] and [[Heard Lane]].<ref name="W-DH-p182" /><ref name="tGC" />
+
+==History==
+The building was originally one of the colossal [[Walking Statues of Waterdeep]] but in [[1385 DR]] the [[Spellplague]] animated all the guardians of the city and they walked around Waterdeep wreaking havoc. The [[Blackstaff]] at the time, [[Tsarra Chaadren]], turned the ground to mud underneath the statue and it sank partway into the ground. As mysteriously as it animated, it stopped and settled in the Castle Ward, just north of the Market at the intersection of Sul Street and Heard Lane.<ref name="W-DH-p182" /><ref name="tGC" />
+
+Over time, the statue was hollowed out and partitioned into living quarters. The leg that sank into the ground penetrated a sewer line so a stairway was hollowed out inside of it allowing access to [[Waterdeep/Sewers|the sewer system]] of the city. As of [[1479 DR]], the statue/building was owned by the reclusive sorcerer [[Aundra Blacklock]], who lived in the hollowed-out stone sphere that floated above the statue's upraised right hand.<ref name="W-DH-p182" /><ref name="tGC" />
+
+==Appendix==
+===Appearances===
+{{Appearances
+| novels = ''[[The God Catcher]]''
+| board games = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+}}
+
+===References===
+{{refs}}
+[[Category:Buildings]]
+[[Category:Statues]]
+[[Category:Locations in Waterdeep]]
+[[Category:Walking structures]]
+[[Category:Mobile locations]]
+[[Category:Walking Statues of Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Castle Ward
+
+{{Location
+| image              = Castle_ward-5e.jpg
+| caption            = A [[City Watch (Waterdeep)|City Watch]] patrol in the Castle Ward.
+| name               = Castle Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGW2e-p7">{{Template:Cite book/Volo's Guide to Waterdeep|7}}</ref><ref name="CoS-CG2e-p9">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1035}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS-CG2e-p30">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = yes
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Castle Ward''' was the central ward of the city of [[Waterdeep]]. It encompassed [[Mount Waterdeep]], [[Castle Waterdeep]], and much of the government of the city, which included the [[Palace of Waterdeep]], occupied by [[Piergeiron the Paladinson]] in the mid-14{{th}} century [[DR]], and the residences of many prosperous Waterdhavians.<ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> Among these citizens were celebrated retired adventurers such as [[Mirt the Moneylender]].<ref name="CoSW-p100"/>
+
+==Geography==
+The ward was delimited by [[Julthoon Street]] to the north, west of [[Shield Street]], and by [[Trader's Way]] between Shield Street and the [[High Road (Waterdeep)|High Road]], which delimited the ward's eastern border together with [[Snail Street]]. The southern border of the ward was delimited by [[Shesstra Street]], [[Gut Alley]], [[Belnimbra's Street]], and [[Lackpurse Lane]], until the ward met [[Deepwater Harbor]].<ref name="CoS-AG2e-p18">{{Template:Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|18}}</ref>
+
+===Geographical Features===
+Much of the territory of the Castle Ward was taken up by Mount Waterdeep, which consisted mostly of unused land.<ref name="CoS-CG2e-p9" /><ref name="CoS-AG2e-p18" />
+
+==History==
+The Castle Ward was one of the original wards of Waterdeep, established by [[Ahghairon]] in the {{Template:YearlinkName|1035}} together with the [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep/Southern Ward|Temple Ward]], and [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoS-CG2e-p30" />
+
+==Notable Locations==
+{{/Imagemap}}
+;[[Mount Waterdeep]]
+: The massive peak around which Waterdeep was built<ref name="CoSW-p96"/> encompassed the southwest portion of the city.<ref name="CoSW-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> Atop its summit was the [[Peaktop Aerie]], which housed the city's famed [[Griffon Cavalry]], and its sea-facing flank featured 11 triple-[[catapult]]s armed with rock and flammable pots. Beneath these armaments were the [[South Sea Caves (Waterdeep)|sea caves]], which allowed passage for ships to [[River Sargauth]] and the undercity of [[Skullport]].<ref name="CoSW-p96"/>
+
+;[[New Olamn]]
+:The bardic college was located on the rocky cliffside, in the western edge of the ward, overlooking the [[Sea of Swords]]. It was accessible by the [[cliffside (road)|cliffside]] pat
+
+=== LINKED WIKI PAGE (first 5000 chars): Great Drunkard
+
+{{DEFAULTSORT:Great Drunkard}}
+{{Building
+| image         = 
+| caption       = 
+| name          = Great Drunkard
+| aliases       = 
+| type          = Statue
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep]], [[Waterdeep]]
+| owner         = 
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Great Drunkard''' was one of the colossal [[Walking Statues of Waterdeep]] located in the [[Castle Ward of Waterdeep|Castle Ward]] of [[Waterdeep]], south of The Market.<ref name="WDH-p183">{{Cite book/Waterdeep: Dragon Heist}}</ref>
+
+==History==
+During the [[Spellplague]] of [[1385 DR]], the walking statue appeared and rampaged through the city. When stopped, the statue tumbled backwards onto a building.<ref name="WDH-p183"/>
+
+[[Gralkyn's Tavern]] sat in the statue's lap by [[1492 DR]].<ref name="WDH-p183"/>{{Waterdeep-time}}
+
+==Description==
+The pose resembled that of a drunkard who had fallen asleep, its arms limp to the sides and its head tilted on its chest. The statue originally carried a large stone battleaxe, which was located nearby in the cobbles where it fell.<ref name="WDH-p183"/>
+
+==Appendix==
+===Appearances===
+:;Board Games
+::''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+===Notes===
+{{Notes}}
+
+===References===
+{{Refs}}
+[[Category:Buildings]]
+[[Category:Statues]]
+[[Category:Locations in Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+[[Category:Walking Statues of Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Lady Dreaming
+
+{{DEFAULTSORT:Lady Dreaming}}
+{{Building
+| image         = 
+| caption       = 
+| name          = Lady Dreaming
+| aliases       = 
+| type          = Statue
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep]], [[Waterdeep]]
+| owner         = 
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Lady Dreaming''' was one of the colossal [[Walking Statues of Waterdeep]] located in the [[Castle Ward of Waterdeep|Castle Ward]] of [[Waterdeep]] on the far northern slope of [[Mount Waterdeep]].<ref name="WDH-p183">{{Cite book/Waterdeep: Dragon Heist|183}}</ref>
+
+==History==
+During the [[Spellplague]] of [[1385 DR]], the walking statue appeared and rampaged through the city. When the statues were stopped, she fell onto her side, where she still lay by [[1492 DR]].<ref name="WDH-p183"/>{{Waterdeep-time}}
+
+==Description==
+It resembled a noble woman asleep in a garden. She bore the appearance of a female [[elf]] and, while active, her clothing and hair appeared to move naturally.<ref name="WDH-p183"/>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===References===
+{{Refs}}
+[[Category:Statues]]
+[[Category:Inhabitants of the Castle Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of West Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Honorable Knight
+
+{{DEFAULTSORT:Honorable Knight}}
+{{Building
+| image         = The Honorable Knight.jpg
+| caption       = ''The Honorable Knight of Waterdeep''
+| name          = Honorable Knight
+| aliases       = 
+| type          = Statue
+| architecture  = 
+| floors        = 
+| location      = [[Trades Ward of Waterdeep]], [[Waterdeep]]
+| owner         = 
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Honorable Knight''' was one of the colossal [[Walking Statues of Waterdeep]] located in the [[Trades Ward of Waterdeep|Trades Ward]] of [[Waterdeep]]. He resembled a warrior in plate armor with a sword and shield.<ref name="WDH-p183">{{Cite book/Waterdeep: Dragon Heist|183}}</ref>
+
+==History==
+During the [[Spellplague]] of [[1385 DR]], the walking statue appeared and rampaged through the city. When stopped, the statue bowed to those who had battled it. The statue then sheathed its sword and removed its shield, placing it into the ground, upright, by his side.<ref name="WDH-p183"/> 
+
+==Description==
+His final pose was that of a guard at ease, facing towards the harbor. This statue was viewed respectfully by those who resided in the southernmost wards of the city.<ref name="WDH-p183"/> 
+
+==Appendix==
+===Gallery===
+<gallery>
+Honorable Knight Miniature.jpg|A miniature of the Honorable Knight
+</gallery>
+===Appearances===
+{{Appearances
+|organized play = ''[[Chaos in the City of Splendors]]''
+}}
+===References===
+{{Refs}}
+[[Category:Statues]]
+[[Category:Inhabitants of the Trades Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Trades Ward
+
+{{Location
+| type          = Ward
+| name          = Trades Ward of Waterdeep
+| image         = Waterdeep_Wards-Trades_Ward_01.gif
+| caption       = 
+| aliases       = 
+| capital       = 
+| area          = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-p105">{{Cite book/Volo's Guide to Waterdeep|105}}</ref><ref name="CoS-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         = 
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+}}
+The '''Trades Ward''' was one of the seven wards of the city of [[Waterdeep]]. It was the main shopping district of Waterdeep and housed many of the city's guildhalls.<ref name="VGtW-p105" /> 
+
+==Geography==
+The ward was bounded in the south by the [[Southern Ward of Waterdeep|Southern Ward]], in the west by [[Castle Ward]], in the north by [[North Ward of Waterdeep|North Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]] and in the east by the [[Trollwall]].<ref name="VGtW-p105" />
+
+==History==
+In the late 14{{th}} century [[DR]], over the course of a [[tenday]] and more, streets across the Trades Ward experienced a number of [[ghost]]ly sightings that left many citizens, scribes, and members of the [[City Watch (Waterdeep)|City Watch]] confused. Some speculated if a [[wizard]] experimenting with [[illusion]]s may have been the cause. Others speculated it was a wizard seeking to harm local businesses, drive down local property values, or simply spread fear&mdash;though all who put forward these theories admitted to having nothing to backup their claims.<ref name="WN.GS" />
+
+Some interpreted the apparitions as being a message &mdash; [[Sambral the Soothsayer]] would claim the dead were warning Waterdhavians of impending battles from underground invaders, [[Sheireera|Sheireera of the Prophecies]] would claim that it was the dead crying out against immorality and lawlessness in Waterdeep, and [[priest]] [[Thalomaun]] of the [[Church of Lathander]] would make a proclamation on [[Virgin's Square]] that it was a sign from the dead for the living of the affected neighborhoods to do away with old businesses and make way for new ones.<ref name="WN.GS">{{Cite web/Waterdeep News/Ghost Sightings}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Guildhalls===
+* [[Citadel of the Arrow]]: Headquarters of the [[Fellowship of Bowyers and Fletchers]].<ref name="VGtW-107" />
+* [[Cobblers' & Corvisers' House]]: Headquarters of the [[Order of Cobblers and Corvisers]].<ref name="VGtW-107" />
+* [[Costumers' Hall]]: Headquarters of the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="VGtW-107" />
+* [[Guild Paddock]]: Headquarters of the [[Stablemasters' & Farriers' Guild]].<ref name="VGtW-107" />
+* [[House of Cleanliness]]: Headquarters of the [[Launderers' Guild]].<ref name="VGtW-107" />
+* [[House of Light]]: Headquarters of the [[Guild of Chandlers and Lamplighters]].<ref name="VGtW-107" /><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+* [[House of Song]]: Headquarters of the [[Council of Musicians, Instrument-Makers, & Choristers]].<ref name="VGtW-107" />
+* [[House of Textiles]]: Headquarters of the [[Most Excellent Order of Weavers and Dyers|Most Excellent Order of Weavers & Dyers]].<ref name="VGtW-107" />
+* [[League Office]]: Headquarters of the [[League of Basketmakers & Wickerworkers]].<ref name="VGtW-107" />
+* [[Old Guildhall]]: Headquarters of the [[Cellarers' & Plumbers' Guild]].<ref name="VGtW-107" />
+* [[Stationers' Hall]]: Headquarters of the [[Stationers' Guild]].<ref name="VGtW-107" />
+* [[The Zoarstar]]: Headquarters of the [[Scriveners', Scribes', & Clerks' Guild]].<ref name="WatN-p25" /><ref name="VGtW-107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+* [[Wheel Hall]]: Headquarters of the [[Wheelwrights' Guild]].<ref name="VGtW-107" />
+
+===Taverns & Inns===
+* The [[Bowels of the Earth]]: Near Virgin's Square. Popular with adventurers and mercenaries.<ref name="WatN-p25" /><ref name="VGtW-108">{{Cite book/Volo's Guide to Waterdeep|108}}</ref><ref name="CoSW-55">{{Cite book/City of Splendors: Waterdeep|55}}</ref>
+* The [[Dagger's Rest]]: An affordable inn catering to adventurers.<ref name="Wate1.1-p4">{{Cite organized play/LFR/Heirloom|4}}</ref>
+*[[Felzoun's Folly]]: A place for a quick bite to eat a
+
+=== LINKED WIKI PAGE (first 5000 chars): Hawk Man
+
+{{Building
+| image         =05-001.vajra-safahr-commands.png 
+| caption       = 
+| name          = Hawk Man
+| aliases       = 
+| type          = Statue, tower
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep|Castle Ward]], [[Waterdeep]]
+| owner         = 
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Hawk Man''' was one of the colossal [[Walking Statues of Waterdeep]] located in the [[Castle Ward of Waterdeep|Castle Ward]] of [[Waterdeep]]. Since its creation, the statue was hollowed out and officially became known as '''Sparaunt Tower''' and was occupied by several wealthy residents.<ref name="W.DH-p193">{{Cite book/Waterdeep: Dragon Heist|183}}</ref>
+
+==Description==
+This winged statue bore the head of a [[hawk]]. The right arm and the left foot were broken up for building material and the statue was hollowed out to form the Sparaunt Tower. The tower was accessed via a [[bell]] in the courtyard: after it was rung, a door guard lowered a [[rope ladder]] for residents or invited guests.<ref name="W.DH-p193"/>
+
+==History==
+During the [[Spellplague]], in the [[1385 DR|Year of Blue Fire, 1385 DR]], the walking statue became animated and rampaged through the city. When it stopped, its left arm was extended northward, palm up, in the "stop" position. <ref name="W.DH-p193"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Statues]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Swordmaiden
+
+{{DEFAULTSORT:Swordmaiden, The}}
+{{Building
+| image         = TarmVilla-WDH.png
+| caption       = Map showing the location of the head of the Swordmaiden, circa 1492 DR.
+| name          = Swordmaiden 
+| aliases       = 
+| type          = Statue, shops
+| architecture  = 
+| floors        = 
+| location      = [[North Ward of Waterdeep|North Ward]], [[Waterdeep]]
+| owner         = 
+| ownertable    = 
+| staff         = 
+| stafftable    = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Swordmaiden''' was one of the colossal [[Walking Statues of Waterdeep]] and its remains could be found in the [[North Ward of Waterdeep|North Ward]] of [[Waterdeep]].<ref name="W.DH-p193">{{Cite book/Waterdeep: Dragon Heist|183-184}}</ref>
+
+==Description==
+This statue resembled a female version of the [[Honorable Knight]] walking statue.<ref name="W.DH-p193"/>
+
+==Locations==
+By [[1492 DR]],{{Waterdeep-time}} the statue's head was a shop known as [[Thort's Findings]], located in a city square between [[Hassantyr's Street]], [[Tarsar's Street]], [[Whaelgond Way]], and [[Ussilbran Street]].<ref name="W.DH-p193"/>
+
+==History==
+During the [[Spellplague]], in the {{YearlinkName|1385}}, the walking statue appeared and rampaged through the city. When stopped, the residents of Waterdeep's North Ward dismantled it and used its pieces for construction.<ref name="W.DH-p193"/>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===References===
+{{refs}}
+[[Category:Statues]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+
+
+
+
+[[Category:Walking Statues of Waterdeep]]
+[[Category:Mobile locations]]
+[[Category:Walking structures]]
+

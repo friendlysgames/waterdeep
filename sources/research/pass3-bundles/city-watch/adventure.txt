@@ -1,0 +1,69 @@
+## sources/adventure-wdh.json lines 30541-30584
+sources/adventure-wdh.json:30541: "name": "City Watch",
+sources/adventure-wdh.json:30542: "page": 168,
+sources/adventure-wdh.json:30543: "id": "442",
+sources/adventure-wdh.json:30544: "entries": [
+sources/adventure-wdh.json:30545: "The first soldiers you see in service to the city will be the members of the City Guard who patrol the roads leading to Waterdeep, watch the walls, guard civic structures, and protect magisters. Waterdeep's streets, however, are policed by an altogether different force: the City Watch. The similarity of their names often confuses newcomers, so I offer this handy mnemonic: \"The Guard guards the walls while the Watch watches all.\"",
+sources/adventure-wdh.json:30546: "You can recognize any member of the City Watch by the uniform: a green-and-goldenrod doublet and a tall steel helmet. Each typically carries a long truncheon, a dagger, and a buckler. Because most citizens in Waterdeep don't bear weapons, these tools prove a more than ample deterrent to criminal activity. Members of the Watch typically don't carry crossbows or other weapons to attack at range, but running from the Watch\u2014though it may be a time-honored tradition for local miscreants\u2014rarely works out for newcomers to the city. I guarantee that all members of the Watch know the streets they patrol and that area's residents better than you do, even if you stay in Waterdeep for ten seasons.",
+sources/adventure-wdh.json:30547: "The City Watch has watch posts throughout the city. These stations are often off the main thoroughfares, tucked away in small courtyards or at cross streets. A watch post can be recognized by the green-and-gold lantern outside it, lit even during the day with a {@spell continual flame} spell. A watch post serves as an organizational headquarters and armory. Anyone who wishes to report a crime may do so at a watch post in the event a Watch constable can't be found elsewhere. A watch post typically contains a few holding cells where people arrested for crimes can be detained until they're marched to a courthouse jail before standing trial.",
+sources/adventure-wdh.json:30548: "Small squads head out from the watch posts on daily and nightly rounds of the city streets, or on special assignments involving protection or investigation. A mere pair of Watch operatives might discreetly patrol in the Castle Ward; in contrast, squads of eight walk the Dock Ward, increasing to as many as a dozen at night. If Watch members spot trouble they can't handle, they blow shrill tin whistles to summon more of their members-an act that alerts nearby citizens as well.",
+sources/adventure-wdh.json:30549: "City Watch members follow a strict code of conduct that makes them one of the most trusted police forces aside from paladin-patrolled Elturgard. As long as you don't engage in unlawful behavior, you can expect to be left untroubled by the Watch."
+sources/adventure-wdh.json:30550: ]
+sources/adventure-wdh.json:30551: },
+sources/adventure-wdh.json:30552: {
+sources/adventure-wdh.json:30553: "type": "inset",
+sources/adventure-wdh.json:30554: "name": "Watch Talk",
+sources/adventure-wdh.json:30555: "page": 168,
+sources/adventure-wdh.json:30556: "id": "443",
+sources/adventure-wdh.json:30557: "entries": [
+sources/adventure-wdh.json:30558: "Members of the City Watch employ a sort of slang in dealing with the public. As a visitor, it behooves you to know what they mean.",
+sources/adventure-wdh.json:30559: {
+sources/adventure-wdh.json:30560: "type": "list",
+sources/adventure-wdh.json:30561: "style": "list-hang-notitle",
+sources/adventure-wdh.json:30562: "items": [
+sources/adventure-wdh.json:30563: "\"What befalls?\" means \"Someone tell me what's going on here.\"",
+sources/adventure-wdh.json:30564: "\"Hold!\" means \"Don't move a muscle.\"",
+sources/adventure-wdh.json:30565: "\"Down arms!\" means \"Drop your weapons.\"",
+sources/adventure-wdh.json:30566: "\"Talk truth!\" means \"Answer me\" or \"Tell the whole story.\"",
+sources/adventure-wdh.json:30567: "\"Robes\" references the black robes-in other words, one of the magisters. \"Do we need robes here?\" or something similar should be taken as a threat."
+sources/adventure-wdh.json:30568: ]
+sources/adventure-wdh.json:30569: }
+sources/adventure-wdh.json:30570: ]
+sources/adventure-wdh.json:30571: },
+sources/adventure-wdh.json:30572: {
+sources/adventure-wdh.json:30573: "type": "entries",
+sources/adventure-wdh.json:30574: "name": "The Watchful Order of Magists and Protectors",
+sources/adventure-wdh.json:30575: "page": 168,
+sources/adventure-wdh.json:30576: "id": "444",
+sources/adventure-wdh.json:30577: "entries": [
+sources/adventure-wdh.json:30578: "Expect to be questioned at the gate, or when you register with a magister, regarding your ability to cast arcane magic. Wizards, sorcerers, and other arcane spellcasters who intend to stay in Waterdeep for any length of time are required to register with the city, and will be strongly encouraged to join the Watchful Order of Magists and Protectors, headed by the Blackstaff.",
+sources/adventure-wdh.json:30579: "Members of the Watchful Order are expected to render service to the city when called upon, acting as temporary members of the City Watch or City Guard. Their expertise often helps investigators determine whether magic was used to commit a crime in the city. Members can also expect to be tapped for assistance during and after fires, natural events that cause multiple casualties, or other nonmagical disasters.",
+sources/adventure-wdh.json:30580: "Members of the Watchful Order form a more or less sociable association in the city, working together to keep an eye on any spellcasters who opt not to join their guild. Any havoc caused by a spellcaster in Waterdeep risks drawing the wrath of the Lords of Waterdeep-so it behooves the Watchful Order to watch all its members."
+sources/adventure-wdh.json:30581: ]
+sources/adventure-wdh.json:30582: },
+sources/adventure-wdh.json:30583: {
+sources/adventure-wdh.json:30584: "type": "entries",
+
+## sources/adventure-wdh.json lines 31167-31187
+sources/adventure-wdh.json:31167: "name": "The Griffon Cavalry",
+sources/adventure-wdh.json:31168: "page": 181,
+sources/adventure-wdh.json:31169: "id": "468",
+sources/adventure-wdh.json:31170: "entries": [
+sources/adventure-wdh.json:31171: "Waterdeep doesn't have the fabled flying ships of Halruaa, but it does deploy an aerial defense force. Brave warriors of the City Guard light out from the Peaktop Aerie atop Mount Waterdeep, riding fearsome griffons that have been bred and trained for that purpose. Each of the riders is equipped with a ring of feather falling\u2014not merely to prevent death from mishap, but to allow them to perform stunning feats of aerial acrobatics.",
+sources/adventure-wdh.json:31172: "In both martial displays and in real battles against flying threats such as manticores, harpies, and outlaw wizards, the griffon riders actually leap off their mounts into the open air! For a breath-stealing moment, they fall like stones, closing in on their targets at incredible speed. Their opponents rarely see the death blow, distracted as they are by other mounted griffon riders. When they are past the danger, the free-falling riders then suddenly halt in the air, drifting like feathers until their griffon companions swoop in and they regain their saddles. Working in concert with one another in this fashion, members of the Griffon Cavalry can rapidly eliminate any threat to the city-and even catch the body of the offender before it hits the rooftops below.",
+sources/adventure-wdh.json:31173: "Riders of the Griffon Cavalry are trained to stay above the rooftops, not because they fear crashing into towers and weather vanes, but because the smell of so much horseflesh in the streets below can sometimes drive their griffons into a frenzy.",
+sources/adventure-wdh.json:31174: {
+sources/adventure-wdh.json:31175: "type": "image",
+sources/adventure-wdh.json:31176: "href": {
+sources/adventure-wdh.json:31177: "type": "internal",
+sources/adventure-wdh.json:31178: "path": "adventure/WDH/Griffon-Cavalry.webp"
+sources/adventure-wdh.json:31179: },
+sources/adventure-wdh.json:31180: "title": "Griffon Cavalry Patrol",
+sources/adventure-wdh.json:31181: "width": 1000,
+sources/adventure-wdh.json:31182: "height": 665
+sources/adventure-wdh.json:31183: }
+sources/adventure-wdh.json:31184: ]
+sources/adventure-wdh.json:31185: },
+sources/adventure-wdh.json:31186: {
+sources/adventure-wdh.json:31187: "type": "entries",
+
