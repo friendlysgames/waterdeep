@@ -14,7 +14,7 @@
 
 *The Lady of the Forest*
 
-- **Title:** God of Forests (FRHoF). SCAG and the 2014 Player's Handbook print "Goddess of forests", and the wiki gives her a feminine gender.
+- **Title:** God of Forests (FRHoF). FRHoF is newer and wins. SCAG and the 2014 Player's Handbook print "Goddess of forests" as the older printing, and the wiki gives her a feminine gender.
 - **Other Names:** Our Lady of the Forest, the Forest Queen (FRHoF); Mistress of the Forest (wiki, 1e and 2e), the Supreme Ranger and Daughter to Silvanus (wiki, 2e), and Khelliara in Rashemen, as scholars of other lands propose (wiki)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Forests, forest creatures, rangers, dryads, good folk and lost children in the woods (derived from the FRHoF, SCAG and wiki text; no entry lists Areas of Concern)
@@ -45,7 +45,7 @@
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - She came from the Finnish pantheon, where she was a forest goddess, and chose to build a new following on Toril among its nature-worshipers (*Cyclopedia of the Realms*, 1e; *Faiths & Avatars* and *On Hallowed Ground*, 2e).
   - In 720 DR she manifested at the Dancing Place in High Dale among more than a dozen gods to inspire the founding of the Harpers, and she has supported them since (*Forgotten Realms Campaign Setting*, 3e).
-  - She came through the Time of Troubles in 1358 DR with little trouble, since she already lived on the Prime Material plane. Afterward she took the portfolio of autumn from the dead Myrkul (*Faiths & Avatars*, 2e). Myrkul reclaimed it after his return in the Second Sundering (*Sword Coast Adventurer's Guide*, 5e).
+  - She came through the Time of Troubles in 1358 DR with little trouble, since she already lived on the Prime Material plane. Afterward she took the portfolio of autumn from the dead Myrkul (*Faiths & Avatars*, 2e). Myrkul reclaimed it after his return, which came after the Second Sundering (*Sword Coast Adventurer's Guide*, 5e).
   - As Silvanus's power grew, hers dwindled. In 1369 DR she restructured her clergy, which restored her strength and let her found her first divine realm in the Outer Planes (*Faiths & Avatars*, 2e).
   - That realm was the Grove of the Unicorns in Krigala, the top layer of the Beastlands (2e). In the 4e books she lives with Silvanus in his domain in the Deep Wilds (*Forgotten Realms Campaign Guide*, 4e).
 - **In the campaign:** Mielikki is alive and present in 1492 DR. Her Chosen speaks in Waterdeep, and no file has Mielikki herself appear, speak or act in a scene.
@@ -120,7 +120,7 @@ Mielikki is the Lady of the Forest, a neutral good goddess of woodlands, their c
 >
 > #### Draft Notes
 > - **Premise not in the files:** The brief calls Mielikki the Emerald Enclave's patron. No campaign file says this. The Enclave files call Jeryth "patron of Phaulkonmere" (`campaign/setting/organizations/03-emerald-enclave.md:29`), and only the wiki ties the Enclave to Mielikki (`mielikki/wiki.txt:221`, citing *Forgotten Realms Campaign Setting*, 3e, p.273). The page says so in the Campaign ties bullet. The Enclave page could carry one line naming Mielikki as the goddess most members follow if the main session wants the premise settled in a campaign file.
-> - **Conflict, title:** FRHoF prints "God of forests" (`mielikki/5etools.md:3`), and SCAG and the PHB print "Goddess of forests" (`mielikki/5etools.md:15`, `:24`). The page uses FRHoF for the title field, uses "she" because the FRHoF text does, and notes the other wording.
+> - **Settled by precedence, title:** FRHoF prints "God of forests" (`mielikki/5etools.md:3`), and SCAG and the PHB print "Goddess of forests" (`mielikki/5etools.md:15`, `:24`). FRHoF is newer and wins, so the title field uses FRHoF and keeps the SCAG and PHB wording as the older printing. The page uses "she" because the FRHoF text does. A separate decision covers the pronoun and the word "goddess" in prose.
 > - **Conflict, Silvanus:** FRHoF says "allied with Silvanus" (`mielikki/5etools.md:10`), the wiki says she was his servant (`mielikki/wiki.txt:190`), and SCAG says he is "sometimes thought of as her father" (`mielikki/5etools.md:31`). The wiki's note says the daughter claim was a mortal misunderstanding in 2e and stated outright in 3e (`mielikki/wiki.txt:192`). The page gives all three without ranking them.
 > - **Conflict, divine home:** FRHoF gives the Beastlands (Krigala) (`mielikki/5etools.md:5`). The wiki's 2e text puts her realm in the Grove of the Unicorns in Krigala from 1369 DR (`mielikki/wiki.txt:166-168`), and its 4e text puts her with Silvanus in the Deep Wilds (`mielikki/wiki.txt:170`). The Plane field follows FRHoF.
 > - **Conflict, shrine name:** The table says "Shrines of Nature" (`sources/adventure-wdh.json:30954`) and the Sea Ward text says "Shrines to Nature" (`sources/adventure-wdh.json:30884`). The page follows the table. The Silvanus page is drafted from the same batch and must use the same wording; the shared description is the first Waterdeep sub-bullet in the Using box and the Overview sentence.

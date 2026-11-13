@@ -14,7 +14,7 @@
 
 *The Lady of Mysteries*
 
-- **Title:** God of Magic (FRHoF); Goddess of Magic (SCAG, 2014)
+- **Title:** God of Magic (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of Magic".
 - **Other Names:** The Mother of All Magic, Our Lady of Spells (FRHoF); Mistress of Magic, Lady Magic, the One True Spell (wiki)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Magic, spells, the Weave, spellcasters and magical research (derived). The wiki portfolio is "Magic, Spells, The Weave" and no entry lists Areas of Concern.
@@ -126,7 +126,7 @@ Mystra is the goddess of magic and of the Weave, the force from which every spel
 >
 > #### Draft Notes
 > - **Conflict, the temple on the lore page:** `campaign/setting/waterdeep-lore.md:36` lists the Sea Ward's major temples as Tymora and Selûne only. The Dragon Heist table (`sources/adventure-wdh.json:30957-30961`), the Sea Ward text (`:30880`) and the Fireball! sweep (`campaign/quests/act-ii/fireball/ev-03-the-nimblewright-hunt.md:31`) all put the House of Wonder there, so this page follows them. The hub's temples table should show it in the Sea Ward.
-> - **Conflict, gender:** FRHoF titles her "God of magic" (`research/deities/mystra/5etools.md:3`) and calls her "a god" (`:7`). SCAG and the PHB say "Goddess of magic" (`:27`, `:18`), the wiki says feminine, and `sources/adventure-wdh.json:32201` says "the goddess Mystra". The Title bullet gives both and the prose uses "goddess" and "she".
+> - **Settled, title:** FRHoF titles her "God of magic" (`research/deities/mystra/5etools.md:3`) and calls her "a god" (`:7`). SCAG and the PHB say "Goddess of magic" (`:27`, `:18`), the wiki says feminine, and `sources/adventure-wdh.json:32201` says "the goddess Mystra". FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title bullet uses FRHoF's wording and names the older printings. The prose uses "goddess" and "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG gives Neutral Good (`5etools.md:28`) and the wiki's 1e and 2e rows give Lawful neutral (`wiki.txt:68`, `:82`). The page follows SCAG. The wiki's appendix says the clergy alignments are derived and can be altered (`wiki.txt:172`).
 > - **Conflict, plane:** FRHoF gives Elysium (Eronia) (`5etools.md:5`) and the wiki's 2e row gives Nirvana (`wiki.txt:70`). The page follows FRHoF.
 > - **Conflict, symbol:** SCAG gives a circle of seven stars, nine stars around a red mist, or a single star (`5etools.md:30`), and the wiki gives a blue-white star (`wiki.txt:10`). The page follows SCAG.

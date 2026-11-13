@@ -48,9 +48,9 @@
   - Lord Ao put out his eyes at the start of the Time of Troubles, for failing to notice the theft of the Tablets of Fate and for questioning Ao's justice (*Sword Coast Adventurer's Guide*, 5e; *Faiths & Avatars*; *Faiths & Pantheons*).
   - In 1384 DR he quarreled with Siamorphe over a battle between Tethyrian and Calishite forces. She left the House of the Triad to make her realm with Sune in Brightwater, and Sune proposed a marriage between Tyr and Tymora as a way to restore balance (*The Grand History of the Realms*).
   - Tyr had sent Helm to Brightwater as his messenger. Rumor, which *The Grand History of the Realms* has Cyric suspected of starting and *Dragon* 381 states he arranged (both 4e), said Helm loved Tymora, so Tyr challenged him to a duel and killed him. Tymora left Brightwater to be with Tyr out of duty, and Ilmater left the Triad to join Sune there (*The Grand History of the Realms*, 4e). Helm returned after the Second Sundering, and his page tells the same story.
-  - After he and Sune, with Lathander's help, imprisoned Cyric for a thousand years, he gave up his godhood and passed all his power to Torm, having lost faith in his own ability to lead and judge. His portfolio of justice went to Bahamut, who later served Torm (*The Crystal Mountain*; *Dragon* 381, 4e).
+  - After he and Sune, with Lathander's help, imprisoned Cyric for a thousand years in the 4e account (an imprisonment that does not hold in the campaign, where Cyric is free and active in 1492 DR), he gave up his godhood and passed all his power to Torm, having lost faith in his own ability to lead and judge. His portfolio of justice went to Bahamut, who later served Torm (*The Crystal Mountain*; *Dragon* 381, 4e). This is 4e history that the Second Sundering undid.
   - He died between 1385 DR and 1479 DR fighting a demonic invasion of the upper realms (*Forgotten Realms Campaign Guide*, 4e). He returned to life in the Second Sundering, in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e).
-- **In the campaign:** Tyr is alive and present in 1492 DR. His temple is a working temple, his priests act in his name, and no file treats him as dead or absent. The 4e death is a conflict that this page does not use (see Draft Notes).
+- **In the campaign:** Tyr is alive and present in 1492 DR. His temple is a working temple, his priests act in his name, and no file treats him as dead or absent. The 4e abdication, his death and Bahamut's stand-in as god of justice are history that the Second Sundering undid. Tyr reigns, heads the Triad and holds the justice portfolio (see Draft Notes).
 
 > **[GM]**
 >
@@ -103,14 +103,14 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 
 ## Cross-References
 
-- **Torm** (Deities): Tyr's war commander in the Triad, who receives his power in the wiki account.
+- **Torm** (Deities): Tyr's war commander in the Triad, who received his power in the 4e history and is again his right hand.
 - **Ilmater** (Deities): a member of the Triad with Tyr and Torm, and the one who left it in the wiki's 1384 DR account.
-- **Lathander** (Deities): close to Tyr, and one of the three who imprisoned Cyric.
+- **Lathander** (Deities): close to Tyr, and one of the three who imprisoned Cyric in the 4e account, which does not hold in the campaign.
 - **Siamorphe** (Deities): Waterdeep's own goddess, who quarreled with Tyr in 1384 DR.
 - **Helm** (Deities): the Temple of Helm, which the Order of the Gauntlet treats as friendly.
 - **Sune**, **Tymora** (Deities): the peacemaker and the proposed bride in the 1384 DR account.
 - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities): the powers he opposes.
-- **Bahamut** (Deities): absorbed his portfolio of justice in the wiki account.
+- **Bahamut** (Deities): held his portfolio of justice in the 4e history, until Tyr returned.
 - **The Order of the Gauntlet** (Organizations): the Waterdeep chapter at the Halls of Justice.
 - **The Order of the Gauntlet** (Factions Guide): first meeting, ranks, missions.
 - **Force Grey** (Organizations): Mission 1 sends a member to Hlam.
@@ -122,7 +122,7 @@ Tyr is the god of justice, a lawful good power whom Waterdhavians picture as a b
 >
 > #### Draft Notes
 > - **Conflict, resolved:** The Sea Ward versus the Castle Ward. The Dragon Heist table (`sources/adventure-wdh.json:30987-30991`), `campaign/setting/waterdeep-lore.md:37` and `campaign/gazetteer/waterdeep/castle-ward.md:66` all put the Halls of Justice in the Castle Ward, so this page uses the Castle Ward. The Order design notes (`campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/design-notes.md:24` and `r10-whitehawk/design-notes.md:21`) still say `waterdeep-lore.md:36` lists Tyr in the Sea Ward. Line 36 now names only Tymora and Selûne, so those notes cite a stale line.
-> - **Conflict, edition:** The wiki says Tyr died between 1385 DR and 1479 DR (*Forgotten Realms Campaign Guide*, 4e) and returned in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e). The campaign is set in 1492 DR and treats the Halls of Justice as a working temple, so the page keeps him alive and gives the death and return only as history. The wiki also has him abdicate to Torm in the same period and die afterward. The page lists both in order and takes no side on whether the abdication still stands.
+> - **Settled by ruling, edition:** The wiki says Tyr abdicated his godhood to Torm, with Bahamut taking the justice portfolio, and then died between 1385 DR and 1479 DR (*Forgotten Realms Campaign Guide*, 4e). It says he returned in the 1480s DR (*Sword Coast Adventurer's Guide*, 5e). The Sundering ruling undid every Spellplague-era change by 1492 DR, so the abdication, the death and Bahamut's stand-in are 4e history. In 1492 DR Tyr is alive, reigns, heads the Triad and holds the justice portfolio, and the Halls of Justice is a working temple. The page keeps the 4e account in order as tagged history.
 > - **Handedness:** Tyr lost his right hand (FRHoF; `campaign/quests/faction-events/order-of-the-gauntlet/s02-savras-past/ev-01-savras-past.md:106` carves the statue's right hand away). Father Corwen Thale is missing his left (`campaign/quests/faction-events/order-of-the-gauntlet/00-first-meeting/ev-01-first-meeting.md:242`). No file explains the difference, so the page states both and does not link them.
 > - **Iltyr rumor:** The wiki's Rumors section describes a hidden cult of "Iltyr the Blind but All-Seeing Eye", an aspect of Tyr venerated in secret after his death, with Waterdhavian and Cormyrian nobles among its members. The wiki cites it only by the reference tag `CF-QfEG2014-p9`, and the notes do not identify the book. No campaign file uses it and the page leaves it out. [research] on the citation.
 > - **Derived:** The one-line edict is written from the FRHoF and SCAG text on lawfulness and honesty, because no source gives one. Areas of Concern are derived from the portfolio "Justice". The Order Domain fit (War Domain as the alternative), the Protector Divine Order, and Oath of Devotion (Oath of Vengeance as the alternative) are derived. The warlock line keeps the fixed fallback.

@@ -14,7 +14,7 @@
 
 *The Great Mother*
 
-- **Title:** God of Agriculture (FRHoF). SCAG (2014) and the 2014 Player's Handbook print "Goddess of agriculture".
+- **Title:** God of Agriculture (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of agriculture".
 - **Other Names:** The Great Mother, the Grain Goddess (FRHoF). The wiki adds the Earthmother, the Golden Goddess, the Lady of the Harvest and the Mother of All Flowers, and the regional names Bhalla in Rashemen, Jannath in Netheril, Pahluruk near the Great Glacier and Grandmother among the Uthgardt.
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Agriculture, the harvest, gardens, hearth and home, and the birth of children (derived from the FRHoF and SCAG text; no entry lists Areas of Concern)
@@ -28,7 +28,7 @@
 
 ## Influence and Followers
 
-- **Rank:** Chauntea is a goddess of the Faerûnian pantheon and the most widely worshiped god among the common folk of Faerûn (FRHoF). The wiki files her among the greater deities in its 1e, 2e and 3e rows, and as plain "deity" in its 5e row.
+- **Rank:** Chauntea is a deity of the Faerûnian pantheon and the most widely worshiped god among the common folk of Faerûn (FRHoF). The wiki files her among the greater deities in its 1e, 2e and 3e rows, and as plain "deity" in its 5e row.
 - **What the faith asks:** Her teaching is full of farming parables. It tells folk to nurture, tend and plant wherever they can, and to put something new in the ground wherever something is torn down (FRHoF). Growing and reaping, the eternal cycle, is a common theme, and destruction for its own sake is anathema to her (SCAG, 2014). The wiki adds that she urges people in civilized lands to repair what they damage, and that blight on the natural world draws her fury (*Faiths & Pantheons*, 3e).
 - **Farm and hearth:** SCAG (2014) calls her a rural deity who is rarely prayed to behind city walls, except by kitchen gardeners. She is also the Great Mother of crib, hearth and home, so she is welcome in every house at mealtimes and at the birth of a child. FRHoF says city people pray to her at those two moments.
 - **Clergy and temples:** Her temples keep a great body of practical lore about farming and cultivation. Her priests work closely with rural communities, dress humbly in beige and muted green, and are happy to dig in the dirt beside the farmers (FRHoF; SCAG, 2014).
@@ -88,7 +88,7 @@ Chauntea, the Great Mother, is the goddess of farming and the harvest. Farmers a
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, title and gender:** FRHoF prints "God of agriculture" (`research/deities/chauntea/5etools.md:3`), and SCAG and the PHB print "Goddess of agriculture" (`:19`, `:28`). The wiki's gender row reads Feminine (`wiki.txt:16`). The page uses FRHoF for the title and notes the other, and writes "she" throughout.
+> - **Settled, title:** FRHoF prints "God of agriculture" (`research/deities/chauntea/5etools.md:3`), and SCAG and the PHB print "Goddess of agriculture" (`:19`, `:28`). The wiki's gender row reads Feminine (`wiki.txt:16`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose writes "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG and the wiki's 5e, 3e and 2e rows give Neutral Good (`5etools.md:29`; `wiki.txt:40`, `:69`, `:85`). The wiki's 4e row gives Lawful Good (`wiki.txt:54`). The page follows SCAG.
 > - **Conflict, realm:** The wiki's 2e row gives Great Mother's Garden (`wiki.txt:88`) and its 4e row gives Green Fields (`wiki.txt:57`). FRHoF gives Elysium (Eronia) only, so the page lists both realms by edition and uses FRHoF for the Plane field.
 > - **Conflict, the Earthmother:** SCAG says the Ffolk of the Moonshae Isles treat the Earthmother as a separate power (`5etools.md:36`). The wiki lists her as an aspect of Chauntea (`wiki.txt:10`) and ties the name to Jannath in her early days (`wiki.txt:161`). The page gives both accounts.

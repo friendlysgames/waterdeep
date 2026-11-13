@@ -14,7 +14,7 @@
 
 *The Quiet One*
 
-- **Title:** God of Peace (FRHoF). The 2014 Player's Handbook and SCAG print "Goddess of peace", and the wiki and every other source use "she".
+- **Title:** God of Peace (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of peace". The wiki and every other source use "she".
 - **Other Names:** The Guardian of Groves, The Mother of the Waters (FRHoF); the Mother Guardian of Groves, the Goddess of Shining Waters, the Goddess of Singing Waters, the Green Goddess, the Lady of Summer (wiki)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Peace, stillness, healing and comfort, waterfalls, springs, pools and quiet glades (derived from the FRHoF and SCAG text and the wiki portfolio lines; no entry lists Areas of Concern)
@@ -114,7 +114,7 @@ Eldath is the goddess of peace and quiet water, and her followers call her the Q
 > - **Conflict, pronouns:** The Dragon Heist entry writes Avi as "he", "his" and "him" (`sources/adventure-wdh.json:3406` and `:3411`). The campaign page writes "she" and "her" (`03-avi.md:12`, `:16`, `:26`, `:30`). The page follows the campaign file.
 > - **Conflict, Avi's guild membership:** `03-avi.md:26` makes Embric "a fellow member of the Splendid Order of Armorers, Locksmiths, and Finesmiths". The Dragon Heist text puts both smiths in the Most Careful Order and says only Avi, "as an armorer", also belongs to the Splendid Order (`sources/adventure-wdh.json:3397`). `02-embric.md:26` lists only the Most Careful Order. The Avi line may be an apposition slip. Not edited.
 > - **Conflict, Avi's trade:** `campaign/quests/act-i/trollskull-alley/overview.md:33` calls Embric and Avi "smith and ceramicist at Steam and Steel". `03-avi.md:6` and `sources/adventure-wdh.json:3406` make her an armorsmith. Not edited.
-> - **Conflict, title and gender:** FRHoF prints "God of peace" (`research/deities/eldath/5etools.md:3`), and the PHB and SCAG print "Goddess of peace" (`:13`, `:22`). The wiki's gender row reads Feminine (`wiki.txt:13`), and the Dragon Heist text writes "god of peace" (`sources/adventure-wdh.json:3406`). The page uses FRHoF for the title and "she" throughout.
+> - **Settled, title:** FRHoF prints "God of peace" (`research/deities/eldath/5etools.md:3`), and the PHB and SCAG print "Goddess of peace" (`:13`, `:22`). The wiki's gender row reads Feminine (`wiki.txt:13`), and the Dragon Heist text writes "god of peace" (`sources/adventure-wdh.json:3406`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose uses "she", which a separate decision covers.
 > - **Conflict, alignment:** SCAG and the wiki's 3e and 5e rows give Neutral Good (`5etools.md:23`; `wiki.txt:60`, `:30`). The wiki's 1e row gives Neutral (`wiki.txt:89`). The page follows SCAG.
 > - **Conflict, plane:** FRHoF gives Elysium (Eronia) (`5etools.md:5`). The wiki's 3e row gives the House of Nature (`wiki.txt:62`) and its 2e row gives Elysium/Eronia (`wiki.txt:77`). The page uses FRHoF for the Plane field and lists True Grove and the House of Nature under Divine realm.
 > - **Conflict, priests and conflict:** FRHoF says some priests avoid conflict and others step in quickly to soothe it (`5etools.md:9`). SCAG says most avoid conflicts rather than try to quell them (`5etools.md:29`). The page follows FRHoF, the current canon.

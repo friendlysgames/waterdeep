@@ -994,3 +994,5 @@ Added after the research. They settle the conflicts C2, C5, C11 and C12 above an
 - **All gods unmerged:** Lathander and Amaunator, Talos and Gruumsh, Azuth and Asmodeus, and every other Spellplague-era merger or absorption are undone. A source's "separate by 1491 DR" means it has already happened, so 1492 DR starts with every merger undone.
 - **Precedence:** *Heroes of Faerun* (2025) outranks the *Sword Coast Adventurer's Guide* (2014) because it is newer. Tymanther is "no more" (C5). Where *Heroes of Faerun* is silent, SCAG stands. The wiki and the novels rank below both.
 - Written into `CLAUDE.md` as the standing rule "Sundering canon and 5e source precedence".
+- **Laeral:** her magic waned with the Spellplague and has recovered since the Weave returned in 1487, "not fully, but yes".
+- **Zhentil Keep:** the rebuilding that FRHoF describes "hasn't happened *yet*" in 1492 DR; the campaign's "efforts are underway" stands.

@@ -14,7 +14,7 @@
 
 *The Moonmaiden*
 
-- **Title:** God of the Moon (FRHoF). SCAG (2014) and the 2014 Player's Handbook print "Goddess of the moon".
+- **Title:** God of the Moon (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of the moon".
 - **Other Names:** The Moonmaiden, the Night White Lady, Our Lady of Silver (FRHoF). The wiki adds She Who Guides, Selûne Moonmother, and the regional names Bright Nydra in the Farsea Marshes, Elah among the Bedine and Lucha in the Shining Lands.
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** The moon, stars, navigation, motherhood, the lost and the questing, and benevolent lycanthropes (derived from the FRHoF and SCAG text and the wiki portfolio; no entry lists Areas of Concern)
@@ -28,7 +28,7 @@
 
 ## Influence and Followers
 
-- **Rank:** Selûne is a goddess of the Faerûnian pantheon and one of the most ancient of Faerûn's deities (FRHoF; SCAG, 2014). The wiki's rank for her changes by edition: lesser deity in 1e, intermediate in 2e and 3e, greater in 4e, and plain "deity" in its 5e row.
+- **Rank:** Selûne is a deity of the Faerûnian pantheon and one of the most ancient of Faerûn's deities (FRHoF; SCAG, 2014). The wiki's rank for her changes by edition: lesser deity in 1e, intermediate in 2e and 3e, greater in 4e, and plain "deity" in its 5e row.
 - **How she appears:** As a woman of varying ages who sometimes passes slowly through the phases of aging as the moon passes through its cycle, and in any form she gives off the silvery-blue glow of the brightest full moon (FRHoF). Most Faerûnian humans take the moon to be the goddess gazing down on the world, and the trailing lights behind it to be her tears (SCAG, 2014).
 - **Temperament:** SCAG (2014) calls her a calm power. The wiki's 2e and 3e sources say her moods follow the moon, so she can be joyous and vivacious, motherly, remote with old sadness, or fierce and cold to her enemies. They also say she is generous, asks little of her followers, and always answers her clergy.
 - **What the faith offers:** Compassion and guidance. The words given to novices say that all on whom her light falls are welcome, that life waxes and wanes like the moon, and that she will be the true guide of anyone who turns to it (*Faiths & Avatars*, 2e, via the wiki). Couples ask her for children when the time is right, and women look to her for courage and strength (wiki, 2e and 3e).
@@ -117,7 +117,7 @@ Selûne, the Moonmaiden, is the goddess of the moon, navigation and motherhood, 
 > - **Placement, no conflict:** Every source that places the temple names the Sea Ward (`sources/adventure-wdh.json:30881` and `:30970`, `sources/adventure-wdmm.json:50537`, `campaign/setting/waterdeep-lore.md:36`, `campaign/gazetteer/waterdeep/castle-ward.md:165` and `:271`). The hub's temples table should show Sea Ward with the name "Tower of the Moon (also the House of the Moon)".
 > - **Conflict, the Wand:** *Dragon Heist* says the Wand of the Four Moons "miraculously appeared in Waterdeep after the Godswar" (`sources/adventure-wdh.json:31558`). The wiki's comic account has it already at the House of the Moon during the Time of Troubles (`research/deities/selune/wiki.txt:266` and `:274`). The page gives the *Dragon Heist* line in the Using box and the comic as wiki history.
 > - **Conflict, plane:** FRHoF gives Ysgard (`research/deities/selune/5etools.md:5`). The wiki's 3e field gives the Gates of the Moon (`research/deities/selune/wiki.txt:62`). The page follows FRHoF.
-> - **Conflict, title:** FRHoF prints "God of the moon" (`research/deities/selune/5etools.md:3`), and SCAG and the PHB print "Goddess of the moon". The page uses FRHoF and notes the other.
+> - **Settled, title:** FRHoF prints "God of the moon" (`research/deities/selune/5etools.md:3`), and SCAG and the PHB print "Goddess of the moon". FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The Rank bullet no longer credits "goddess" to FRHoF. The prose keeps "goddess" and "she", which a separate decision covers.
 > - **Conflict, Mad Mage seed:** The Keresta plan to destroy the temples is worded on the **Lathander** page (`campaign/setting/deities/lathander.md:82`). This page adds the House of the Moon and the assassination list from `sources/adventure-wdmm.json:48631` and `:50537`. The **Shar** page, drafted from the same batch, should say the same and keep the spelling Selûne.
 > - **Calendar:** `campaign/setting/history/09-timekeeping-and-the-festival-calendar.md` does not list Selûne's Hallowing, and its Draft Notes (line 157) record that no Selûne page was found for the calendar. It lists the Feast of the Moon (lines 33 and 50) with no tie to Selûne. The page does not tie them together, and the hub or the calendar page may want a Hallowing row for Uktar.
 > - **Derived:** The edict. Areas of Concern. The Twilight Domain fit with Life Domain as the alternative, the Thaumaturge and Protector orders, Oath of the Ancients with Oath of Vengeance as the alternative, the Celestial warlock fit, that the House of the Moon and the Tower of the Moon are one building, and that the Hallowing falls outside the campaign calendar.

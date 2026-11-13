@@ -46,9 +46,9 @@
 - **Origin and rise:** Wiki-sourced, with the book or edition named on each fact.
   - His purpose is to record. He searches for the Metatext, a single perfect work of writing reflected in snippets of every written work, which would unlock the secrets of the multiverse when read. Oghma embodies the creative spark, and Deneir records humanity's epiphanies (*Faiths & Pantheons*, 3e).
   - He works to see that everything known and true is accurately recorded in the Great Library, and he spends much of his time filing, indexing and maintaining what has been written and drawn (*Faiths & Avatars*, 2e).
-  - During the Spellplague he transcribed the Metatext into the remnants of the Weave and wrote himself into it, passing out of known existence (*The Ghost King*, novel; the wiki's 4e row calls him a dead power).
-  - By 1489 DR he had been revived and was worshiped by many (*Sword Coast Adventurer's Guide*, 5e).
-- **In the campaign:** Deneir is alive and present in 1492 DR, and no file treats him as dead or absent. The Spellplague account is history and a conflict between wiki sources, listed in Draft Notes.
+  - During the Spellplague he transcribed the Metatext into the remnants of the Weave and wrote himself into it, passing out of known existence (*The Ghost King*, novel; the wiki's 4e row calls him a dead power). This is Spellplague-era history that the Second Sundering undid.
+  - By 1489 DR he had been revived and was worshiped by many (*Sword Coast Adventurer's Guide*, 5e). The 1489 DR date is the SCAG's and is kept as a sourced date. The Sundering itself ended in 1487 DR.
+- **In the campaign:** Deneir is alive and present in 1492 DR, and no file treats him as dead or absent. The Spellplague account is history, settled by the Sundering canon (see Draft Notes).
 
 > **[GM]**
 >
@@ -98,7 +98,7 @@ Deneir is the god of writing, known as the First Scribe, a neutral good power wh
 > **[GM]**
 >
 > #### Draft Notes
-> - **Conflict, Deneir's fate:** The wiki says he wrote himself into the Weave during the Spellplague and passed out of known existence (`wiki.txt:162`, citing *The Ghost King*), and also that he was revived and worshiped by many by 1489 DR (`wiki.txt:166`, citing SCAG). The campaign has no Deneir line and is set in 1492 DR, so the page keeps him alive and gives the Spellplague account as history.
+> - **Settled by ruling, Deneir's fate:** The wiki says he wrote himself into the Weave during the Spellplague and passed out of known existence (`wiki.txt:162`, citing *The Ghost King*), and also that he was revived and worshiped by many by 1489 DR (`wiki.txt:166`, citing SCAG). The Second Sundering ended in 1487 DR with Mystra and the Weave restored, and every Spellplague-era loss is undone by 1492 DR. Deneir is alive and present in 1492 DR. The page keeps the Spellplague account as tagged history and keeps 1489 DR as the SCAG's date, not the end of the Sundering.
 > - **Conflict, plane:** The FRHoF gives Elysium (Amoria) (`5etools.md:5`). The wiki's 2e row gives the Beastlands and Brux (`wiki.txt:76`), its 3e row the House of Knowledge (`wiki.txt:60`), and its 5e home plane is blank (`wiki.txt:31`). The page follows the FRHoF.
 > - **Conflict, rank:** The wiki's 5e row calls him a lesser deity (`wiki.txt:28`) and its 1e row a demigod (`wiki.txt:87`). The page gives both.
 > - **Conflict, domains:** The PHB p.294 entry lists Knowledge alone (`5etools.md:16`) and the SCAG entry lists Arcana and Knowledge (`5etools.md:25`). The page follows SCAG.

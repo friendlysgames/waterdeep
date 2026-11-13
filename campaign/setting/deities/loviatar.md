@@ -14,7 +14,7 @@
 
 *The Maiden of Pain*
 
-- **Title:** God of Pain (FRHoF). The 2014 Player's Handbook and SCAG print "Goddess of pain", and the wiki and every other source use "she".
+- **Title:** God of Pain (FRHoF). The page uses FRHoF's title because FRHoF is newer than SCAG and the 2014 Player's Handbook, whose printings read "Goddess of pain". The wiki and every other source use "she".
 - **Other Names:** The Scourge Mistress, The Willing Whip (FRHoF); Patroness of Torturers (wiki, *Faiths & Avatars* 2e)
 - **Pantheon:** Faerûnian
 - **Areas of Concern:** Pain, torture, cruelty, secret cults (derived from the FRHoF and SCAG text and the wiki portfolio lines; no entry lists Areas of Concern)
@@ -93,7 +93,7 @@ Loviatar is the goddess of pain, called the Maiden of Pain, and her symbol is a 
 > #### Draft Notes
 > - **Conflict, the Dragon Heist line:** The brief says the notes show one Dragon Heist line. The line is in *Dungeon of the Mad Mage*, not Dragon Heist (`sources/adventure-wdmm.json:62705`, quoted in the Using box). `sources/adventure-wdh.json` has no Loviatar line, and `adventure-hits.txt` for this power holds only the Mad Mage line. The page uses the Mad Mage source.
 > - **Conflict, open worship:** FRHoF says her followers "never" worship openly (`research/deities/loviatar/5etools.md:11`). SCAG says open worship and temples are "rarely seen" except where slavery is accepted (`5etools.md:32`). The page gives both and follows FRHoF as the current canon.
-> - **Conflict, title and gender:** FRHoF prints "God of pain" (`5etools.md:3`), and the PHB and SCAG print "Goddess of pain" (`5etools.md:15`, `:24`). The wiki's gender row reads Feminine (`wiki.txt:34`). The page uses FRHoF for the title and "she" throughout.
+> - **Settled, title:** FRHoF prints "God of pain" (`5etools.md:3`), and the PHB and SCAG print "Goddess of pain" (`5etools.md:15`, `:24`). The wiki's gender row reads Feminine (`wiki.txt:34`). FRHoF outranks SCAG because it is newer (`CLAUDE.md`, Sundering canon and 5e source precedence), so the Title field uses FRHoF and names the older printings. The prose uses "she", which a separate decision covers.
 > - **Conflict, plane:** FRHoF gives Gehenna (Mungoth) (`5etools.md:5`). The wiki's 3e row gives the Barrens of Doom and Despair (`wiki.txt:86`). The page uses FRHoF and lists the 3e plane under Divine realm.
 > - **Conflict, Malar:** `campaign/setting/deities/malar.md:47` says Malar is allied with Loviatar, from the wiki's Malar page. Loviatar's wiki page says she was affiliated with Malar only before the Time of Troubles (`wiki.txt:156`). This page tags the tie as that period's.
 > - **Edition, tense:** The wiki writes of Loviatar in the past tense and gives no death, merge or Spellplague text for her. The page uses the present tense, as the campaign treats every power as present in 1492 DR.
