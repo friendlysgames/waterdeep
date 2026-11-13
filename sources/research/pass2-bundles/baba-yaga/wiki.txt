@@ -1,0 +1,144 @@
+WIKI PAGE: Baba Yaga
+
+{{Person
+| image          = 
+<gallery>
+Baba Yaga 5Re.png|5Re
+Baba Yaga 4e.jpg|4e 
+BabaYaga BoA.png|2e 
+BabaYaga dmg83.png|1e 
+</gallery>
+| caption2       = Various depictions of the Mother of All Witches.
+| name           = Baba Yaga
+| alt_spelling   = 
+| titles         = Mother of All Witches<ref name="DMG5eR-p354">{{Cite book/Dungeon Master's Guide 5th edition (revised)|354}}</ref><br />Mother of Witches<ref name="MM5eR-p21"/><br />Bone Mother<ref name="dung196-p3">{{Cite dungeon/196/Court of Stars: Baba Yaga|3}}</ref>
+| aliases        = 
+| nicknames      = Little Grandmother<ref name="dung196-p1">{{Cite dungeon/196/Court of Stars: Baba Yaga|1}}</ref>
+| true name      = 
+| home           = 
+| formerhomes    = 
+| sex            = 
+| gender         = Female
+| race           = [[Arch-hag]]<ref name="DMG5eR-pp354,358">{{Cite book/Dungeon Master's Guide 5th edition (revised)|354,358}}</ref><ref name="MM5eR-p21"/>
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Elven]], [[Giant]]<ref name="dung196-p2" />
+| basicrefs      = <ref name="drag420-tck"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Skabatha Nightshade]], [[Bavlorna Blightstraw|Bavlorna Blightstraw]], and [[Endelyn Moongrave]]<br>'''{{Small|adoptive}}''' [[Iggwilv|Natasha]] (or Tasha)
+| familyrefs     = <ref name="WBW5e-p215">{{Cite book/The Wild Beyond the Witchlight|215}}</ref>
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Neutral evil]]
+| class1e        = 
+| refs1e         = <ref name="dm83"/>
+| alignment2e    = [[Neutral evil]]
+| class2e        = 
+| refs2e         = <ref name="dh">{{Cite book/The Dancing Hut of Baba Yaga|61}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Evil]]
+| class4e        = {{class table|edition=4e|[[Controller]]|27}}
+| refs4e         = <ref name="dung196-p2">{{Cite dungeon/196/Court of Stars: Baba Yaga|2}}</ref>
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Baba Yaga''' ({{Pronounce|ba|ba|_|YA|guh|refs=<ref name="D93-APG-p25">{{Cite dragon/93/Ay pronunseeAYshun gyd|25}}</ref>}}) was an extraordinarily powerful [[mage]],<ref name="dmg1e-p156">{{Cite book/Dungeon Masters Guide 1st edition|156}}</ref> [[archfey]],<ref name="dung196-p3" /><ref name="MotP4e-p36">{{Cite book/Manual of the Planes 4th edition|36}}</ref> and [[arch-hag]].<ref name="DMG5eR-pp354,358" /><ref name="MM5eR-p21">{{Cite book/Monster Manual 5th edition (revised)|21}}</ref> Some described her as the most powerful female mage ever known, a sorceress with a reputation for passing throughout the [[planes]]. In doing so, her [[magic]]al [[Baba Yaga's Hut|hut]] also appeared elsewhere,<ref name="dmg1e-p156" /><ref name="VGtATM-p95" /><ref name="boa-p21">{{Cite book/Book of Artifacts|21}}</ref> and was reported to have arrived on [[Faerûn]].<ref name="VGtATM-p95">{{Cite book/Volo's Guide to All Things Magical|95}}</ref>
+
+{{Quote|Did you come of your own free will, or at another's bidding?|Baba Yaga, a question she typically asked visitors to her home.<ref name="dung196-p2" />}}
+
+==Description==
+The {{SIAdj|5|ft|adj=tall}} sorceress was said to be of godlike intelligence, but very physically ugly. She had a long warty nose, a skeletal frame, and thin white hair.<ref name="dm83" /><ref name="dh" /> She had sharp, [[iron]]-like teeth and fingers that curved into claws. On occasion she had a rather plump frame. It was uncertain whether her changing frame was due to having recently eaten or simply on a whim of preference.<ref name="dung196-p3" />
+
+==Personality==
+{{Fq
+| text = Heh! People who know too much grow old before their time. Ask me your questions, but be certain that every secret has its cost.
+| source = Baba Yaga<ref name="MM5eR-p21">{{Cite book/Monster Manual 5th edition (revised)|21}}</ref>
+}}
+She was known to have a fickle nature, being dangerously unpredictable, equally as likely to eat her worshipers as she was to aid them.<ref name="dung196-p3" /> Politeness would not guarantee her favor, nor would rudeness ensure incurring her wrath.<ref name="dung196-p2" />
+
+She was willing to offer people some of her secrets in return for another. The bargains she offered people were also far more dangerously worded than those of any [[fey]].<ref name="MotP4e-p45" />
+
+==Possessions==
+Baba Yaga had several guardian animals over her life time, with the most prominent being [[cat]]s. Some of these cats were mundane, while others were magical and intelligent. Beyond that she had guard [[dog]]s, [[wolves]], and occasionally [[dire wolves]]. These were typically malnourished and lived either on her hut's porch or in its stables.<ref name="dung196-p4-5">{{Cite dungeon/196/Court of Stars: Baba Yaga|4-5}}</ref> All of her servants, animal or otherwise, tended to be treated poorly.<ref name="dung196-p3" />
+
+Within the stables of her hut she kept a group of magnificently well-bred [[horse]]s<ref name="dung196-p3" /> and various types of a magical livestock. Her stables sometimes housed [[pegasi]], [[nightmare]]s, and even intelligent horses capable of traveling freely between planes.<ref name="dung196-p4-5" />
+
+Whenever traveling outside her hut, such as to chase after someone,<ref name="dung196-p3" /> she used a large, magical flying [[mortar and pestle]] made of [[iron]].<ref name="dung196-p4-5" /><ref name="TCoE-p121">{{Cite book/Tasha's Cauldron of Everything|121}}</ref> On occasion, the mortar resembled a cauldron. This mortar would hover close to the ground, while the pestle would be used to touch the ground and steer the vessel like a rudder. Finally, she carried a broomstick alongside her in order to sweep away any evidence of her travel as she moved.<ref name="dung196-p4-5" />
+
+==Realm==
+When not traveling around, she and her hut resided within the [[Feywild]], in a swamp known as [[Murkendraw]]. Many types of hags were also known to inhabit this swamp.<ref name="MotP4e-p45">{{Cite book/Manual of the Planes 4th edition|45}}</ref>
+
+Baba Yaga knew of many realms and had probably even visited them, including realms that were adverse to magic like [[Earth]], in her [[Baba Yaga's Hut|dancing hut]], which traveled all the worlds and planes. In its [[Hall of Gateways]], a portal called the [[World Gate]] linked to every world Baba Yaga knew of as well as their respective [[Shadowfell]]s and [[Feywild]]s.<ref>{{Cite dungeon/196/Baba Yaga's Dancing Hut|52}}</ref><ref group="note" name="Feys&Shadows">This statement could be interpreted as implying that Earth and many other realms might have their own Plane of Faerie and Plane of Shadow, much like Toril, but such thought would be purely speculative.</ref>
+
+==Relationships==
+[[File:Tasha and hut-5e.jpg|thumb|right|273px|''Baba Yaga (left), Tasha (middle), and a [[satyr]] guard (right).'']]
+Baba Yaga had three [[hag]] daughters named [[Skabatha Nightshade|Skabatha]], [[Bavlorna Blightstraw|Bavlorna]], and [[Endelyn Moongrave|Endelyn]].<ref name="WBW5e-p215" /> She also helped to raise two [[human]]s, [[Kostchtchie]] and [[Iggwilv|Tasha]]. The former went on to become very well known on [[Toril]],<ref name="tGHotR-55">{{Cite book/The Grand History of the Realms|55}}</ref><ref name="DiA-104">{{Cite book/Baldur's Gate: Descent into Avernus|104}}</ref> whilst the latter was mainly heard of on the world of [[Oerth]] and became a powerful [[archfey]].<ref name="WBW5e-p215" /><ref name="drag336-di">{{Cite dragon/336/Spellcraft: The Demonomicon of Iggwilv}}</ref> Kostchtchie became a "distinctly Faerûnian [[demon lord]]"<ref name="PGtF-p189">{{Cite book/Player's Guide to Faerûn|189}}</ref> and had conflicts with [[Gwynharwyf]].<ref name="drag345-di">{{Cite dragon/345/Demonomicon of Iggwilv: Kostchtchie: Prince of Wrath}}</ref>
+
+The powerful witch knew much about the deity [[Psilofyr]] (a deity worshiped by [[myconid]]s of Toril<ref name="DDuGttU">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|54}}</ref><ref name="OotA5e-p92">{{Cite book/Out of the Abyss|92}}</ref>), but did not share her knowledge with others.<ref name="drag420-tck">{{Cite dragon/420/Court of Stars: The Carrion King}}</ref>
+
+Many sages and adventurers were known to have sought her out for her vast knowledge of magic.<ref name="dung196-p3" /> [[Archfey]] respected her powers, but were very cautious. Her relationship with [[deities]] was similarly fickle,<ref name="dung196-p2" /> though she tended to associate with those of an [[evil]] alignment, as well as those who were tricksters or mischief makers. She was also known to associate with [[devil]]s.<ref name="dung196-p3" />
+
+==Worshipers==
+Some among the [[night hag]]s, [[green hag]]s, and [[annis hag]]s were known to worship Baba Yaga.<ref name="drag345-eah">{{Cite dragon/345/The Ecology of the Annis Hag}}</ref>
+
+==History==
+Baba Yaga once prophesied that the ruler of [[Mag Tureah]], a region of the [[Feydark]] with multiple portals to Toril,<ref name="frcg-p68">{{Cite book/Forgotten Realms Campaign Guide|68}}</ref> would be slain by his own son.<ref name="drag420-tf">{{Cite dragon/420/Court of Stars: Thrumbolg, First Lord of Mag Tureah}}</ref>
+
+==Rumors & Legends==
+One legend stated that she had been outwitted by heroes on occasion, who shoved her into an oven or trapped her in a lake of fire. The legend went on to state that despite seemingly dying, she would always appear again no worse for wear. Because of this some believed that she was impervious to fire.<ref name="dung196-p3" />
+
+Many noted that Baba Yaga was somehow related to the night hags, green hags, and annis hags.<ref name="dm83">{{Cite dragon/83/The Dancing Hut}}</ref>
+
+One folk tale claimed that Baba Yaga was so powerful that the very times of dawn, noon, and night were all subservient to her whims. Another rumor claimed that she had no legs and that her magical mortar and pestle were her only means of moving around.<ref name="dung196-p3" />
+
+In the 14{{th}} century [[DR]], [[Volo]] and [[Elminster]] stated that, according to reports, Baba Yaga's hut appeared near [[Rashemen]], [[northeast Faerûn]].<ref name="VGtATM-p95" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Gallery===
+<gallery>
+DancingHut-Gamebook.png|''A [[human]] being grabbed by Baba Yaga's [[dancing hut]].''
+</gallery>
+===Appearances===
+{{Appearances
+| adventure refs = ''[[The Wild Beyond the Witchlight]]''
+| organized play refs = ''[[Lost Laboratory of Kwalish]]''
+}}
+===External Links===
+{{External link disclaimer}}
+* {{Wikipedia external link|Baba Yaga}}
+===References===
+{{Refs}}
+[[Category:Archfey]]
+[[Category:Sorcerers]]
+[[Category:Mages]]
+[[Category:Arch-hags]]
+[[Category:Inhabitants of Oerth]]
+[[Category:Inhabitants of the Feywild]]

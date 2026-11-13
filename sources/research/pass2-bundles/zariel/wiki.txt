@@ -1,0 +1,305 @@
+WIKI PAGE: Zariel
+
+{{GA}}
+{{otheruses4|the lord of [[Avernus]]|the 14{{th}} century High Priestess of [[Tymora]]|Zariel (priestess)}}
+{{Person
+| image          = Zariel, Archduke of Avernus AFR.jpg
+| caption        = Zariel, Archduchess of Avernus.
+| name           = Zariel
+| true name      = 
+| alt_spelling   = 
+| titles         = Lord of the First<br />Archduchess of Avernus
+| aliases        = 
+| nicknames      = 
+| home           = [[Avernus]]
+| formerhomes    = [[Mount Celestia]]
+| sex            = Female
+| race           = [[Archdevil]]<br />{{Former}} [[Solar]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Asmodeus]]<br />{{Former}} [[Lathander]]
+| languages      = All
+| basicrefs      = <ref name="MOTP3">{{Cite book/Manual of the Planes 3rd edition|117}}</ref><ref name="MTF5e-p7">{{Cite book/Mordenkainen's Tome of Foes|7}}</ref><ref name="BGDA5e-p144">{{Cite book/Baldur's Gate: Descent into Avernus|144}}</ref><ref name="MTF5e-p180-181">{{Cite book/Mordenkainen's Tome of Foes|180-181}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = [[Bel]]
+| successor      = Bel
+| successionrefs = <ref name="MTF5e-p10-11">{{Cite book/Mordenkainen's Tome of Foes|10-11}}</ref><ref name="GtH2e-p39">{{Cite book/Guide to Hell|39}}</ref>
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 26
+| class5e        = 
+| refs5e         = <ref name="MTF5e-p180-181" />
+}}
+'''Zariel''' ({{Pronounce|ZAR|ee|el|refs=<ref name="BGDA5e-p4">{{Cite book/Baldur's Gate: Descent into Avernus|4}}</ref>|audio=Zariel.ogg}} {{Pronounce|ZAIR|ee|el|alt=yes|refs=<ref name="BGDA5e-p4" />|audio=Zariel2.ogg}}), titled the Archduchess of Avernus and the Lord of the First, was the [[archdevil]] ruler of [[Avernus]] who was dedicated to winning the unending [[Blood War]] between [[devil]]s and [[demons]]. She was originally an [[angel]] of the [[Seven Heavens]] before transforming into an [[archdevil]] and falling to the [[Nine Hells]].<ref name="MTF5e-p10-11"/><ref name="MM5e-p68">{{Cite book/Monster Manual 5th edition|68}}</ref>
+{{quote
+|My legions are the only thing standing between your precious [[Seven Heavens]] and the bottomless hunger of the [[Abyss]]. I did not fall into the clutches of [[evil]]. I rose to shoulder a cosmic burden.
+|Zariel<ref name="MTF5e-p7"/>
+}}
+
+==Description==
+Zariel's original form was that of a beautiful [[solar]] with flawless skin, gold-feathered wings, and a blindfold covering her eyes.<ref name="DMG5e-p64">{{Cite book/Dungeon Master's Guide 5th edition|64}}</ref><ref name="BGDA5e-p146-148">{{Cite book/Baldur's Gate: Descent into Avernus|146-148}}</ref><ref name="BGDA5e-p85">{{Cite book/Baldur's Gate: Descent into Avernus|85}}</ref>
+
+[[File:Zariel's shadow.jpg|thumb|right|250px|''Zariel's shadowy silhouette'']]
+After her descent, she took on a more diabolical appearance: a halo of fire burned atop her head, her once-fine skin was scorched, and her angelic wings, ruined by flame, turned leathery.<ref name="DMG5e-p64"/><ref name="BGDA5e-p146-148"/> Her blindfold was abandoned, fully revealing eyes that glowed with white-hot rage,<ref name="DMG5e-p64"/><ref name="BGDA5e-p85"/> and she had lost one of her hands and replaced it with a [[flail]].<ref name="BGDA5e-p7">{{Cite book/Baldur's Gate: Descent into Avernus|7}}</ref><ref name="BGDA5e-p243">{{Cite book/Baldur's Gate: Descent into Avernus|243}}</ref>
+
+==Personality==
+Zariel was a warmonger obsessed with battle, someone who lived to fight and judged others on their combat skills and willingness to use them. She prized zealous fury as much as discipline and training, and led her troops into battle herself with iron resolve, leaving many a structure in ruin as she carved her war path. However, neither her own battle prowess nor that of her forces could disguise the fact that Zariel was reckless and rash, relying on her troops' berserker rage and her own determination to win her fights.<ref name="MTF5e-p10-11"/>
+
+Her behavior had warped to match that of her infernal peers, for she had become a cruel being that inflicted psychological torment on her enemies and subjected those that displeased her to horrible fates.<ref name="MTF5e-p180-181"/><ref name="DMG5e-p64"/> She had also grown distrusting to the point of being taken aback by a heroic act of self-sacrifice, having become the kind of plotter to set numerous schemes in motion at once and deal in contracts to bind people into servitude.<ref name="BGDA-p149-155"/> While once a purveyor of blind justice,<ref name="BGDA5e-p146-148"/> Zariel had allowed her emotions to color her decisions, twisting it into rage-fueled vengeance, and she refused to forgive even decades after being wronged.<ref name="BGDA5e-p7"/><ref name="MTF5e-p180-181"/><ref name="BGDA-p149-155"/>
+
+===Flaws===
+{{fq
+| text   = Yeenoghu slaughtered those I swore to protect. I can stop him and others like him. I might have to give up all I stand for, but I could stem the tide of chaos and save many lives from the demonic terrors of the Abyss. Were you in my place, would you risk it all to save others?
+| source = A vision of Zariel from Lulu's memory<ref name="BGDA5e-p144"/>
+| float  = right
+| width  = 400px
+}}
+Zariel was notorious for her foul temper, with her poor emotional control impeding her ability to act rationally and pragmatically, as exemplified by her refusal to play politics. Her approach of charging headfirst into dangerous situations led by her righteous wrath was the opposite of the carefully calculating Bel.<ref name="MTF5e-p10-11"/> He was, at heart, a realist, aware that the infinite nature of [[demon]]kind left him only capable of a stalemate against their innumerable horde.<ref name="FC2-p35-36">{{Cite book/Fiendish Codex II: Tyrants of the Nine Hells|35-36}}</ref> Zariel, despite her cynicism, was an idealist; she genuinely believed that a mere host of mortals would fare well in Avernus, only for a great number of them to flee from the [[fear]]-radiating [[fiend]]s.<ref name="BGDA5e-p7"/>
+
+The nature of Hell was to corrupt, and Avernus in particular specialized in the abuse of a flaw that frequently affected angels: hubris.<ref name="MM5e-p15"/><ref name="BGDA-p75-76">{{Cite book/Baldur's Gate: Descent into Avernus|75-76}}</ref> Angels had a sense of infallibility about their actions, and Zariel's anger was only further inflamed by the righteousness with which she perceived it.<ref name="MTF5e-p10-11"/><ref name="MM5e-p15">{{Cite book/Monster Manual 5th edition|15}}</ref> [[Asmodeus]] praised her for the strength of her convictions, but it was her unswerving rage that had cemented her downfall.<ref name="BGDA5e-p7"/> She had become so zealously hell-bent on fighting that she was willing to abandon her principles and sacrifice the very innocent lives she had once sworn to protect in order to destroy the demonic menace.<ref name="BGDA5e-p7"/><ref name="BGDA-p75-76"/><ref name="BGDA5e-p103">{{Cite book/Baldur's Gate: Descent into Avernus|103}}</ref><ref name="BGDA5e-p142-145">{{Cite book/Baldur's Gate: Descent into Avernus|142-145}}</ref>
+
+===Hope===
+[[File:Zariel_Ponders.png|thumb|left|250px|''Zariel confronting elements of her past.'']]
+
+Zariel's pride and wrath had limits, and the burden of her duties weighed on her.<ref name="BGDA-p75-76"/> Confronting the memories of what she had lost to achieve her desire to fight filled her with sorrow, and she hesitated to destroy reminders of her past.<ref name="BGDA5e-p146-148"/><ref name="BGDA5e-p51">{{Cite book/Baldur's Gate: Descent into Avernus|51}}</ref> Even as she prided herself as a cosmic martyr, she could still be made to feel pangs of shame for the atrocities she committed to reach where she was.<ref name="BGDA5e-p146-148"/><ref name="MTF5e-p7"/> Despite her flaws, her conviction in the overall righteousness of her actions was not invincible, and if properly confronted it was possible for the small sparks of good within her to emerge once more.<ref name="BGDA5e-p146-148"/><ref name="BGDA-p75-76"/>
+
+==Abilities==
+[[File:Zariel_vs_Balor.jpg|thumb|right|250px|''Zariel taking on Yeenoghu's balor.'']]
+Together with [[Geryon]], Zariel was among the archdevils best known for their unmatched martial prowess.<ref name="MTF5e-p172">{{Cite book/Mordenkainen's Tome of Foes|172}}</ref> Such was her power that she could best a [[balor]] in one-on-one combat and only needed a few seconds afterwards to collect herself.<ref name="BGDA-p149-155"/>
+
+Following her fall, she was enhanced with fiendish powers, such as the typical archdevil ability to [[alter self|alter her form]]. In addition, many of her powers gained a distinct fire motif: she could create ''[[fireball]]s'' and ''[[wall of fire|walls of fire]]'' at will, her weapons seared with hellish flame, and her magical stare could cause spontaneous combustion.<ref name="MTF5e-p180-181" /> Whereas typical solars had the ability to cast ''[[resurrection]]'' three times a day and could remove ailments such as disease, [[poison]], blindness, or deafness with only a touch,<ref name="MM5e-p18">{{Cite book/Monster Manual 5th edition|18}}</ref> Zariel had instead the power to cast ''[[finger of death]]'' three times per day and was endowed with a horrid, poisoning touch that inflicted the same conditions that an angelic healing touch would reverse.<ref name="MTF5e-p180-181" />
+
+Zariel's fall had also come with undeniable drawbacks. She lacked the divine awareness that allowed all solars to detect lies, as well as their [[truesight]],<ref name="MM5e-p18" /> instead possessing the devil power to see through magical darkness.<ref name="MTF5e-p180-181" />
+
+==Possessions==
+While Zariel was still an [[angel]], she wielded a [[longsword]] that she later lost along with her hand during her original descent into Avernus. The ''[[Sword of Zariel]]'', as it came to be known, was hidden by her most loyal general, [[Yael]], and her [[hollyphant]] companion [[Lulu]].<ref name="BGDA5e-p7"/> The sword not only contained an angelic spark but had every ounce of a hollyphant's celestial energies poured into it, enough that a fortress against the evils of Avernus sprung up around the blade.<ref name="BGDA5e-p51"/><ref name="BGDA5e-p146-148"/> The sentient artifact was capable of destroying the nigh-indestructible, although only the sword could decide who was worthy of wielding it, and attuning to its power caused an irrevocable physical and magical transformation into an idealized, angelic version of one's former self.<ref name="BGDA5e-p226-227">{{Cite book/Baldur's Gate: Descent into Avernus|226-227}}</ref>
+
+Some time after her fall, Zariel managed to take the hammer ''[[Matalotok]]'', an ancient weapon forged by [[Thrym]], from the [[demon lord]] [[Kostchtchie]], and started wielding it herself.<ref name="BGDA-p104">{{Cite book/Baldur's Gate: Descent into Avernus|104}}</ref>
+
+Among Zariel's dangerous weapons were her flying fortresses, massive [[basalt]] citadels that were usually repaired and serviced at the rusting [[Stygian Docks]] and fueled by souls extracted directly from the River [[Styx]]. One such vehicle was a colossal structure shaped like a blade, a {{SIAdj|450|ft|long=yes}} tall fortress that was crewed by hundreds of devils and could be controlled telepathically only by Zariel herself.<ref name="BGDA-p123-124">{{Cite book/Baldur's Gate: Descent into Avernus|123-124}}</ref><ref name="BGDA-p130-131">{{Cite book/Baldur's Gate: Descent into Avernus|130-131}}</ref>
+
+==Realm==
+{{Main|Avernus}}
+[[File:Zariel_in_Avernus-5e.jpg|thumb|350px|left|''Zariel flying across the wastelands of Avernus, reaching for her sword.'']]
+Originally, the layer of Avernus was a beautiful domain, a bustling paradise filled with lush gardens, rural countryside, trade outposts, cities, and other grand locales. It had been so crafted by Asmodeus with the goal of tempting mortals. But as a result of the constant [[demon]]ic invasions coming through the Styx and the continuous carnage of the [[Blood War]], the pristine land was ruined, leaving behind only remnants of its former beauty such as ruins, mirages, pleasant sensory illusions without source, and ancient relics that caused fleeting moments of pure joy.<ref name="BGDA-p75-76"/><ref name="MTF5e-p10-11" /><ref name="BGDA-p9">{{Cite book/Baldur's Gate: Descent into Avernus|9}}</ref>
+
+During Zariel's rule, Avernus was a domain of ruin, a war-torn wasteland covered in layers of bones, collapsed structures, and enormous, broken war machines as far as the eye could see.<ref name="BGDA-p75-76"/> The rocky terrain was marked by rivers of blood, piles of corpses, and groaning [[nupperibo]] hordes that covered the landscape like living lakes as they trawled in search of food.<ref name="BGDA-p75-76"/><ref name="DMG5e-p64"/> Other natural hazards included bubbling [[tar pit]]s, [[quicksand]], lava lakes, and [[salt]] flats made from the mass tears of the damned.<ref name="BGDA-p75-76"/> Food and drink from Avernus was tainted if not inedible, and even if brought from another source it tasted ashy or spoiled. The rarity of good food encouraged mortal inhabitants to hoard it, and the plane itself supernaturally rewarded selfish behavior.<ref name="BGDA-p9"/>
+
+Avernus's sky was filled by an ambient, blood-red light that seemed to come from nine suns just below the horizon, with no visible celestial bodies in the sky. The light filtered through the nightmarish clouds that obscured the sky, and the constant twilight made it difficult to track the passage of time.<ref name="BGDA-p75-76"/><ref name="GtH2e-p28">{{Cite book/Guide to Hell|28}}</ref> A particularly dangerous phenomenon was the seemingly random, motion-tracking ''fireballs'' that rained from the sky and left smoking craters in their wake.<ref name="DMG5e-p64"/><ref name="FC2-p35-36"/>
+
+The air smelled of [[brimstone]] and burning tar and was often blasted by shrieking gusts of hot wind that occasionally stirred dark [[sand]]storms capable of tearing flesh from bone. The air was populated by biting flies, [[hellwasp]]s, and [[stirge]]s,<ref name="BGDA-p75-76"/> which were known to flock on [[Coward's Way]], feasting on the blood of Zariel's [[Hellrider]] betrayers as they hung crucified on metal trees.<ref name="BGDA-p92">{{Cite book/Baldur's Gate: Descent into Avernus|92}}</ref>
+
+===Lair===
+The seat of Zariel's power was a massive basalt citadel that spanned an area of {{SI|5|mi²|k|long=yes}}. Its walls were festooned with the partially burned bodies of those that disappointed the Lord of the First, many still screaming and moaning in dying agony and audible from up to {{SI|1|mile|k|long=yes}} away.<ref name="MTF5e-p180-181" />
+
+The citadel was manned by hundreds of various devils, both inside and out, and protected by high turrets that reinforced the walls. The region surrounding the citadel was also altered by Zariel's magic. {{SIAdj|10|ft|adj=high}} gouts of flame burst from the ground {{SI|60|ft|long=yes}} apart from each other within {{SI|1|mi|k|long=yes}} of the fortress, as well as sight-obscuring smoke that clouded it between {{SI|500|ft|long=yes}} and {{SI|2|mile|k|long=yes}} away, and the smell of charred meat and screaming voices that could be perceived from up to {{SI|9|mile|k|long=yes}} away. Within the bounds of this lair, Zariel could create more ''fireballs'', as well as ''[[major image]]s'' to frighten her enemies; she had a preference for images of loved ones being burned alive.<ref name="MTF5e-p180-181" />
+
+==Activities==
+{{fq
+| text   = Zariel stands exactly where she always does―where the fighting is fiercest.
+| source = [[Lulu]]<ref name="BGDA-p149-155">{{Cite book/Baldur's Gate: Descent into Avernus|149-155}}</ref>
+| float  = left
+| width  = 
+}}
+Prosecuting the Blood War took up much of Zariel's time and attention, and she had little room to deal with anything else.<ref name="BGDA-p82.90">{{Cite book/Baldur's Gate: Descent into Avernus|82,90}}</ref> Her offensive military campaign often had her at the forefront of invasions when she wasn't within a flying fortress overseeing Avernus's defense.<ref name="MTF5e-p10-11" /><ref name="BGDA-p130-131"/> She apparently had a penchant for spawning cambions to serve as leaders for her followers.<ref name="MTF5e-p21">{{Cite book/Mordenkainen's Tome of Foes|21}}</ref>
+
+It was also her responsibility to ensure the defense of the plane against outside attack, the River Styx being a particularly important area for demonic entry and infernal strikes against the Abyss. [[Styx devil]]s guarded the citadels and outposts overlooking the river, but it fell to Zariel to manage travel to and from Avernus, and she had the final say over who could pass through.<ref name="MTF5e-p180-181" /><ref name="BGDA-p123-124"/>
+
+==Relationships==
+Zariel's rule over Avernus was in some ways, at least before Bel's betrayal, ''less'' fierce and brutal than his more defensive reign.<ref name="Dragon-223-pp14">{{Cite dragon/223/The Lords of the Nine|14}}</ref> It was a tight ship held together by fear, and when met with treachery, Zariel brought swift and terrible vengeance.<ref name="BGDA-p75-76"/> Many Avernian denizens were power-hungry warlords roaming the wastes in infernal machines looking to create and improve their fiefs. Zariel opted to let the pests destroy each other rather than personally exterminate them, given her busy schedule of Blood War prosecution. Nevertheless, she had a particular arrangement with [[Mad Maggie]], a [[night hag]] obsessed with the tragic saga of Zariel's fall, that deal being that if Maggie kept the other warlords in check then Zariel would leave her alone.<ref name="BGDA-p82.90"/><ref name="BGDA5e-p80">{{Cite book/Baldur's Gate: Descent into Avernus|80}}</ref>
+
+===Archdevils===
+{{fq
+| text   = Keep wasting my time with your pointless words and die, or join my war band and live. Choose swiftly. I have a plane to conquer.
+| source = Zariel to emissaries from [[Dis]]<ref name="MTF5e-p10-11"/>
+| float  = 
+| width  = 350px
+}}
+Zariel's disdain for governmental machinations and refusal to make alliances made her a political pariah among her peers,<ref name="MTF5e-p10-11" /> and her origin was just one more justification for the devils scheming to overthrow her.<ref name="BGDA-p75-76"/> Each archdevil would happily depose her if given the chance, and many had made moves to do so in the past.<ref name="FC23e-p143">{{Cite book/Fiendish Codex II: Tyrants of the Nine Hells|143}}</ref> Her return to prominence set off the paranoia of [[Dispater]], compelling him to retreat deeper within his [[Iron Tower]],<ref name="MTF5e-p10-11" /> and [[Mephistopheles]] was wary of her wrath and sought to gain leverage over her.<ref name="BGDA5e-p99">{{Cite book/Baldur's Gate: Descent into Avernus|99}}</ref>
+
+Despite his banishment from Hell, the former archdevil [[Gargauth]] would gladly replace an archdevil like Zariel as Lord of Avernus after having been diminished in power, and Zariel in turn would order him destroyed if given the chance.<ref name="BGDA5e-p146-148" /><ref name="BGDA5e-p153">{{Cite book/Baldur's Gate: Descent into Avernus|153}}</ref> Asmodeus admired Zariel's passion for warfare and welcomed her into the fold of the archdevils, the angel-turned-fiend being something of a jewel in his crown.<ref name="MTF5e-p7"/><ref name="BGDA5e-p243"/><ref name="BGDA-p75-76"/> Despite this, it was said she actually desired vengeance against the Raging Fiend, and planned to drive him from the Hells.<ref name="MTF5e-p180-181" />
+
+Zariel's most direct opponent was likely [[Bel]], former Lord of the First.<ref name="BGDA-p75-76"/> Despite instructions by Asmodeus to cooperate, the two utterly detested each other and invented distractions to avoid having to deal with one another. Zariel placed her assigned advisor in charge of weapons production to keep him busy, though that did nothing to stop his treasonous schemes.<ref name="BGDA-p75-76"/><ref name="BGDA5e-p114-115">{{Cite book/Baldur's Gate: Descent into Avernus|114-115}}</ref> Because Asmodeus supported Zariel, Bel couldn't directly challenge her, though he would take steps to make her seem incompetent,<ref name="BGDA5e-p146-148"/> and allowed her to continue her reckless maneuvers in the hopes she'd overextend her forces and be removed after a defeat.<ref name="MTF5e-p10-11"/> He'd even go so far as to help her be redeemed, even despite the low odds of success, since it would lead to him becoming archduke once more.<ref name="BGDA5e-p146-148"/>
+
+The haughty and aloof [[Tiamat]] had a somewhat complex relationship with Zariel, although it was certainly a hostile one. Zariel resented the draconic goddess, as the fallen angel had been at her mercy during the time of her demotion,<ref name="DMG359-p68">{{Cite dragon/359/1d20 Villains: D&D's Most Wanted; Preferably Dead|68}}</ref><ref name="RoT5e-p10,44">{{Cite book/The Rise of Tiamat|10,44}}</ref> and she had once sent her agents to steal from Tiamat's treasure hoards.<ref name="BGDA-p28">{{Cite book/Baldur's Gate: Descent into Avernus|28}}</ref> At the same time, Zariel once gifted the ''[[Burning Orb of Etiol the Abandoned]]'', to one of her diplomat's successors,<ref name="DMG359-p68"/> and had attempted to help her escape from Hell by assisting mortals with related goals. The attempts to free her, however, were only made because Zariel was unable to kill the Dragon Queen, and so seeing her leave Avernus was the next best option.<ref name="RoT5e-p10,44"/>
+
+===Others===
+{{fq
+| text   = This is who I am. When demons die, they cry out my name in terror.
+| source = Zariel's last words to Lulu<ref name="BGDA5e-p51"/>
+| float  = left
+| width  = 300px
+}}
+Zariel relished slaying demons and was known to do so personally when the opportunity presented itself, though she had specific relations with a few of them.<ref name="BGDA-p149-155"/> She defeated the misogynistic Kostchtchie, stole his hammer, and chained him to the bottom of a chasm in Avernus since killing him would simply cause him to reform,<ref name="BGDA-p104"/> and she wouldn't necessarily be so rash as to directly confront him if he showed up demanding his hammer back.<ref name="BGDA-p149-155"/> She and [[Yeenoghu]], Demon Prince of [[Gnoll]]s, had some history before her transformation into an archdevil, for it was his slaughter of a village under her protection before she knocked him back into the Abyss that was potentially the final straw that led to her descent.<ref name="BGDA5e-p140-144">{{Cite book/Baldur's Gate: Descent into Avernus|140-144}}</ref> Yeenoghu, for his part, hated Zariel with a passion and would love to destroy her.<ref name="BGDA5e-p51"/>
+
+[[File:Zariel vs.Devils.png|thumb|right|250px|''Zariel's initial assault against Avernus with the Hellriders and Lulu.'']]
+Zariel was friends with the hollyphant Lulu before her descent, a friendship that dated back centuries.<ref name="BGDA5e-p51"/> Lulu also served as Zariel's war mount and traveling companion, and the two inspired sorrow in each other, Lulu for what Zariel had become and Zariel for the friendship she had lost.<ref name="BGDA5e-p51"/><ref name="BGDA5e-p146-148"/> Other reminders of Zariel's past were more morbid, such as the horrific fates of some of her knights. There was the mortal knight [[Haruman]], a heartless crusader even before his descent that transformed into a [[hell knight]] of undying loyalty to her. There was also the [[death knight]] [[Olanthius]], who had taken his life as a result of Zariel's corruption and was brought back to serve her while supernaturally bound. Though he hated her, he partially blamed himself for not seeing the warning signs leading to her fall, and Zariel felt guilt for having left her loyal friend to a horrible fate.<ref name="BGDA5e-p103"/><ref name="BGDA5e-p146-148"/><ref name="BGDA5e-p101-102">{{Cite book/Baldur's Gate: Descent into Avernus|101-102}}</ref>
+
+A few [[tiefling]]s carried the blood of Zariel. They were stronger on average than typical tieflings and possessed a few innate magical abilities connected to aggression and battle.<ref name="MTF5e-p23">{{Cite book/Mordenkainen's Tome of Foes|23}}</ref>
+
+==Worshipers==
+{{fq
+| text   = By the power of Avernus, I call on the hordes of the Nine Hells! To me, my servants! Unleash chaos in Zariel's name!
+| source = A cultist of Zariel<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+| float  = left
+| width  = 
+}}
+Zariel's worshipers were those that wished to fight but lacked the necessary experience, training, skill, talent, and bravery in martial affairs to do so, all of which her agents could offer.<ref name="MTF5e-p10-11"/><ref name="MTF5e-p21"/> Ordinary cultists showed greater ferocity than they would normally, and cult leaders had a keen tactical eye. Her cults were often headed by her own cambions.<ref name="MTF5e-p21"/>
+
+Those that wished to prove themselves on the battlefield, those who sought fame and fortune through military achievement, refugees lacking the ability to fight, and those who simply desired the skills to survive were all attracted to the cults of Zariel. On the more experienced side, militant conquerors, already established warriors desiring a combat edge, and [[hobgoblin]]s that escaped the [[goblinoid]] [[pantheon]] of [[Maglubiyet]] were also typical members. Entire orders of knights, fighter's guilds, and mercenary companies could fall under the sway of Avernus' Archduchess.<ref name="MTF5e-p21"/>
+
+Zariel desired the souls of the greatest warriors and expected only the best from those under her. She allowed them relatively fuller lives, if only so they could hone their skills in life and join her ranks of universally disciplined and capable servants after death.<ref name="MTF5e-p180-181" /> Those mortals who pleased her while alive were sometimes allowed to keep their memories and be promoted into higher forms of devils rather than become pathetic [[lemure]]s. She also demanded loyalty from her servants, her hard bargains being eternal and indissoluble things akin to ultimatums.<ref name="MTF5e-p180-181" /><ref name="BGDA-p149-155"/>
+
+===Manipulation===
+{{fq
+| text   =  I claim your souls, mortals. The bravest of the world will serve me―or I will destroy all that is precious to you. Make your choice.
+| source = Zariel to her mortal assailants<ref name="IC"/>
+| float  = right
+| width  = 300px
+}}
+However, just because service to the former angel had some advantages didn't mean she wasn't willing to use underhanded means to get her way. Prosecuting the Blood War constantly taxed Zariel's armies, with her legions always being depleted by the ceaseless fighting. To keep Hell in the war, she aggressively recruited mortal souls and looked for evildoers on the [[Material Plane]] who could bring her more, thus guaranteeing her more infernal soldiers.<ref name="MTF5e-p10-11"/><ref name="BGDA-p75-76"/>
+
+Though violence was a crucial tool in the scheme, the methodology of Zariel's lead soul harvesters was nonetheless diabolical.<ref name="BGDA-p75-76"/> Zariel's cults flourished in regions wracked by war,<ref name="MTF5e-p21"/> and her agents effectively acted as war-profiteers, sowing corruption by destroying harmony and stability, thus setting up the right circumstances for mortals to perform heinous deeds. They gave mortals the means to harm each other by funding evil organizations and distributing weapons, and incited hatred between them by coercing them into acts of sectarian violence justified by the need to defeat some arbitrary enemy.<ref name="BGDA-p75-76"/>
+
+Another deceptive method of Zariel was the exploitation of the mortal desire for spiritual leadership.<ref name="BGDA-p75-76"/> A key example of both these strategies could be seen in [[Gideon Lightward]], one of Zariel's most loyal servitors. Zariel took advantage of his fervor by sending devils disguised as angels to offer him power if he would help fight off the demonic menace, slowly eroding his sanity until he was a tyrannical leader obsessed with the destruction of demons on a level reaching madness.<ref name="BGDA5e-p65.67-68">{{Cite book/Baldur's Gate: Descent into Avernus|65,67-68}}</ref> Some cultists of Zariel were known to heap praise on her for her tireless efforts to win the Blood War and defeat the demons that threatened to destroy the cosmos.<ref name="BGDA5e-p65.67-68"/><ref name="BGDA5e-p39">{{Cite book/Baldur's Gate: Descent into Avernus|39}}</ref>
+
+===Size===
+After Bel's uprising, Zariel's worshiper base entered a period of decline as her followers scattered and her cults crumbled, their devotion having not transferred to the Pretender.<ref name="FC23e-p143"/> Once she was reinstated, however, Zariel's cult began to grow once more. If Zariel were to die, and thus all her contracts voided, a fair amount of cosmic chaos would ensue.<ref name="BGDA5e-p152">{{Cite book/Baldur's Gate: Descent into Avernus|152}}</ref>
+
+==History==
+[[File:Zariel Descent.jpg|thumb|175px|left|''Zariel as an angel…'']]
+[[File:Zariel_fall-5e.jpg|thumb|175px|''…and after her fall.'']]
+Originally, Zariel was a solar under the command of the Morning Lord [[Lathander]],<ref name="BGDA5e-p144"/> her name, according to [[Reya Mantlemorn]], meaning "Companion of Light".<ref name="BGDA5e-p44">{{Cite book/Baldur's Gate: Descent into Avernus|44}}</ref> From the Seven Heavens of Mount [[Celestia]], Zariel was tasked with tracking the progress of the Blood War in Avernus, but from continued exposure to the conflict, she developed an obsession with the War and a taste for battle. Zariel was impetuous in nature, and couldn't ignore the desire to fight within her, but her requests were consistently blocked by her angelic peers.<ref name="MTF5e-p10-11" /><ref name="BGDA5e-p7"/>
+
+Zariel believed that it was the responsibility of the angelic host to defeat evil, and was of the opinion that an assault from the hosts of Celestia could wipe out both sides of the Blood War in one stroke, freeing the [[multiverse]] from the fiends who destroyed each other and vast chunks of it in the process. Despite chastising her superiors for their stance as neutral observers, Zariel was repeatedly forbidden from entering the conflict. Zariel was frustrated by her their refusal to engage in the war,<ref name="MTF5e-p10-11" /><ref name="BGDA5e-p7"/> and drew the line when Yeenoghu slaughtered a village under her protection.<ref name="BGDA5e-p144"/>
+
+[[File:Zariel vs yeenoghu-5e.jpg|thumb|right|250px|''Zariel swoops down to end the slaughter of the Gnoll Lord.'']]
+Late in the {{YearlinkName|1354}},<ref name="IT2-p16">{{Cite comic/Infernal Tides 2|16}}</ref> Zariel defied her superiors and led the [[Hellriders]] of [[Elturel]], a host of personally trained mortal allies, into Avernus, in the battle that became known as [[Ride (conflict)|the Ride]]. Outnumbered by the devils, the army was defeated and the survivors fled in terror and shame. Asmodeus sent a delegation of [[osyluth]]s to retrieve her unconscious body from underneath a mountain of the dead, whereupon the Lord of the Nine allowed her to recover and congratulated her. Zariel succumbed to the corrupting nature of Hell and Asmodeus made her an archdevil and dubbed her his champion.<ref name="MTF5e-p10-11" /><ref name="MTF5e-p180-181" /><ref name="BGDA5e-p7"/><ref group="note">The date 1354 DR coincides with devils occupying [[Dragonspear Castle]], some way north of Elturel, also via portals from Avernus. However, a connection between them, or even which came first, is presently unknown.</ref><ref group="note">The story of the Hellriders has changed and evolved significantly in each edition. The 1{{st}}- and 2{{nd}}-edition campaign settings mention "the story" of a small rescue mission of a single person "in the past" from the perspective of [[1356]]/[[1357 DR]], but ''Sword Coast Adventurer's Guide'' and ''Baldur's Gate: Descent into Avernus'' expand this into a major campaign only two years before the 1{{st}}-edition account, which seems contradictory. It may be that the story has grown in the telling over 140 years and that elements have been misremembered or propagandized. Meanwhile, the change from rescue mission to major campaign suggests a case of "mission creep", giving extra cause for the deserters to abandon Zariel's crusade. All in all, given its horrific fate, they would seem to be the sensible ones.</ref>
+
+At some point during her rule, she had the demonym for Avernus changed from "Avernan" to "Avernal", to the mild confusion of the Hell's denizens.<ref name="TDYK-p206">{{Cite book/The Devil You Know|13|206}}</ref>
+
+===Fall and Rise===
+{{fq
+| text   = Do not pity the fallen angel. Fallen angels survive the fall. How many souls did Zariel bring down with her?
+| source = [[Mordenkainen]]<ref name="MTF5e-p180-181" />
+| float  = 
+| width  = 
+}}
+At some point, Bel managed to defeat Zariel and take her place as Archduke of Avernus.<ref name="MTF5e-p10-11" /> Through his tactical genius, he had become her faithful right hand, but Zariel had made a crucial mistake—she came to trust him.<ref name="GtH2e-p39"/> Using an unknown method possibly learnt from the [[tanar'ri]], he imprisoned the forlorn lord<ref name="GtH2e-p39"/> in his [[Bronze Citadel]] while siphoning her power to increase his own infernal abilities. Zariel was constantly tortured by [[abishai]] servants of Bel, who continuously carved off bits of her flesh to feed their master for several centuries, with the new Lord of the First hoping to eventually reduce her into a mere [[soul shell]].<ref name="FC23e-p143" /><ref name="MotP3e-p117">{{Cite book/Manual of the Planes 3rd edition|117}}</ref><ref group="note"> The timeline of events regarding the date of Zariel's rises and falls seem to have been retconned from past editions. Zariel's imprisonment at the hands of Tiamat, as noted in ''[[The Rise of Tiamat]]'', remains constant, but earlier editions stated that she had fallen far earlier than current Realmsian sources. ''[[Guide to Hell]]'' has her as part of the ancient [[Reckoning]], having sided with the fellow fallen celestial [[Baalzebul]]'s faction in rebellion against Asmodeus, being betrayed by Bel upon her return after centuries of service, while the ''Codex of Betrayal'' for ''[[Dungeon magazine 197]]'' and ''The Lords of the Nine'' article in ''[[Dragon magazine 223]]'' put her as an archdevil back at the founding of Hell, the original lord of Avernus tasked by Asmodeus to protect it from vengeful angels.</ref>
+
+Asmodeus had allowed Bel to rule so long as he kept fighting the Blood War, but had done so partially out of the knowledge that he'd be too busy with the Blood War to scheme against his peers.<ref name="GtH2e-p39"/> In fact, it was possible that Asmodeus was the one truly behind Zariel's defeat, and that rather than publicly demote her, he put the [[Dark Eight]] in charge. The pit fiend generals hunted down and imprisoned Zariel, and established Bel as a puppet Lord of the First in their stead.<ref name="DU197-p4">{{Cite dungeon/197/Codex of Betrayal: Glasya|4}}</ref>
+
+Eventually, Bel fell out of favor with Asmodeus after his inability to successfully repel a demonic invasion of Avernus, his overly cautious methods having proved inadequate to deal with the encroaching Abyssal offenses. Following Bel's demotion, Zariel was reinstated and reclaimed her title as Lord of Avernus before nearly driving all the demons out of Hell with her unrelenting offense.<ref name="MTF5e-p180-181" /><ref name="MTF5e-p10-11" />
+
+Shortly after her reinstatement as Archduchess in the late 15{{th}} century [[DR]], Zariel allied herself with the [[Red Wizards of Thay]] at the time of [[Severin Silrajin]]'s attempt to summon Tiamat into [[Toril]]. She assisted in their efforts by sending out mortal agents and by facilitating rituals of devil summoning. Her efforts, however, were opposed by Bel and his allies, who instead wished to keep Tiamat in Avernus.<ref name="RoT5e-p10,44" />
+
+===Zariel's Revenge===
+{{fq
+| text   = Be it known to all that I, Thavius Kreeg, High Overseer of Elturel, have sworn to my master, Zariel, lord of Avernus, to keep the agreements contained in this oath.<br/> I hereby submit to Zariel in all matters and for all time. I will place Her above all creatures, living and dead. I will obey Her all my days and beyond with fear and servility.<br/> I recognize the dispensation of the device called the Solar Insidiator, hereafter called the Companion. In my capacity as High Overseer of Elturel and its vassal territories, I acknowledge that all lands falling under the light of the Companion are forfeit to Zariel. All persons bound by oath to defend Elturel are also considered forfeit. I further recognize that this dispensation will last fifty years, after which the Companion will return whence it came, taking Elturel and its oath-bound defenders with it, if that is Zariel's wish.<br/> All this is my everlasting pledge.<br/>
+| source = Thavius Kreeg's copy of his infernal contract with Zariel.<ref name="BGDA5e-p47">{{Cite book/Baldur's Gate: Descent into Avernus|47}}</ref>
+| float  = 
+| width  = 
+}}
+Zariel never forgot those who deserted the battlefield during her failed invasion of Avernus and had long been waiting to exact her revenge. Such an opportunity arose in the {{YearlinkName|1444}}, when a [[vampire]] lord conquered the city of Elturel and a [[Torm]]ite priest by the name of [[Thavius Kreeg]] called out to any power to save his city, a call answered by the Lord of Avernus. The instant his plea was made, Zariel emerged from a pillar of fire, offering him a deal he readily accepted. Zariel gave Thavius a tool known as the [[Solar Insidiator]], more commonly known as the Companion, a glowing sphere as radiant as the sun that bathed Elturel in holy light, destroying the vampire lord's army and sending him back to the shadows.<ref name="BGDA5e-p7-8">{{Cite book/Baldur's Gate: Descent into Avernus|7-8}}</ref>
+
+Thavius took credit for the appearance of the Companion and was hailed as a savior, rising to become the High Overseer under which the holy nation of [[Elturgard]] blossomed. The price for this salvation however was later damnation, as well Thavius knew.<ref name="BGDA5e-p7-8" /> In the {{YearlinkName|1492}},{{BG-DiA-time}} after politically conspiring to weaken the neighboring city of [[Baldur's Gate]] and ensure his own safety, Thavius watched from a safe distance as the radiant sun Zariel had provided transformed into a black orb crackling with lightning. The Solar Insidiator ripped Elturel from the Material Plane and transported it and its inhabitants<ref name="BGDA5e-p7-8" /> (all previously made to swear an oath to protect it by Kreeg and therefore included in the deal with the city itself)<ref name="BGDA5e-p47" /> directly into Avernus, leaving only a crater behind.<ref name="BGDA5e-p7-8" />
+
+Even after damning an entire city, Zariel's ultimate plan had not yet come to fruition. Elturel was simply one in a list of cities she planned to drag down to the Hells, as beyond her desire for vengeance she had the pragmatic intent to use the citizens as fodder in her prosecution of the Blood War. She had already made a deal with her devout disciple [[Thalamra Vanthampur]], whereby the current rulership of her next target, Baldur's Gate, would fall and she would become the Grand Duke, paving the way for the fall of that metropolis as well. Important to said plan was the [[Shield of the Hidden Lord]], the artifact in which Gargauth was trapped and which had contributed to the moral decay of Baldur's Gate for years and was going to be used by Thavius and Thalamra to doom the city in much the same way as the last.<ref name="BGDA5e-p5-6">{{Cite book/Baldur's Gate: Descent into Avernus|5-6}}</ref>
+
+{{fq
+| text   = That which falls from grace may yet rise to regain it. If Zariel were to return to her celestial self, how glorious would be the tales!
+| source = [[Mordenkainen]]<ref name="MPMM-p280">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|280}}</ref>
+| float  = right
+| width  = 300px
+}}
+Elturel and its devastated populace would have immediately fallen under Zariel's control if not for intensified attacks by demonic forces from the River Styx once it appeared, requiring Zariel's forces to focus on keeping them from overrunning it. Even so, the city was slowly and erratically being pulled down by chains into the Styx, whereupon, without outside intervention, it would permanently merge with the Nine Hells.<ref name="BGDA5e-p5-6" /><ref name="BGDA-p54">{{Cite book/Baldur's Gate: Descent into Avernus|54}}</ref> Fortunately, a group of adventurers managed to save the city from total damnation, yet Zariel remained the Archduchess of Avernus even after Elturel was released from its chains and returned to the Material Plane, her moral fate unclear.<ref>{{Cite game/Baldur's Gate III}}</ref>
+
+On a [[Founders' Day]] in the late 15{{th}} century, Zariel was summoned onto [[Waterdeep]]'s [[Field of Triumph]]. She, in turn, summoned a host of devils and bid them spread chaos in the city. Waterdeep briefly became a battlefield in the [[Blood War]], as demons were attracted by the sudden presence of devils. Zariel hoped that strong [[adventurer]]s would appear to defeat the fiendish invasion, and that she could lure or blackmail them into her service. A group of adventurers, commanded by [[Blackstaff]] [[Vajra Safahr]] to restore order to the city, was able to defeat Zariel and banish her back to the Nine Hells.<ref name="IC"/>
+
+==Rumors & Legends==
+[[File:Zariel-panels.jpeg|thumb|right|350px|''The Saga of Zariel.'']]
+Zariel was mentioned in ''[[The Trial of Asmodeus]]'', a theater play written by the [[aasimar]] [[bard]] [[Anodius]] allegedly based on real events. According to the play, the angels of Celestia had taken Asmodeus to court for his crimes, with the supremely [[law]]ful [[Primus]] serving as the impartial judge. As the angels testified, Asmodeus made the case that his actions served everyone, appealing to pragmatism and tradition.<ref name="MTF5e-p9-10">{{Cite book/Mordenkainen's Tome of Foes|9-10}}</ref>
+
+But even Primus could run out of patience, and when he declared that only a few more angels would be heard, Zariel protested. She ignored the bureaucracy demanding to be heard, cutting to the front of the line before scuffling with her fellow angels. Asmodeus watched with a smile as the brawl became a battle before Primus demanded order, scolding the angels for infighting and presenting Asmodeus with a ''[[Ruby Rod of Asmodeus|Ruby Rod]]'' to ensure his adherence to the law.<ref name="MTF5e-p9-10"/>
+
+Legends held that Zariel had a measure of environmental control over the entire layer of Avernus. This effect manifested itself as the seemingly random ''fireballs'' that constantly detonated throughout the place, which were believed to be generated by the spite and rage of Zariel during her temporary imprisonment.<ref name="FC2-p35-36"/><ref name="GtH2e-p28"/> The meteors were also said to be fragments of Avernus' former structures.<ref name="BGDA-p9"/>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===See Also===
+*[[Malkizid]]
+*[[Raziel]]
+
+===Appearances===
+{{Appearances
+| adventures     = ''[[Baldur's Gate: Descent into Avernus]]''
+| adventure refs = ''[[The Rise of Tiamat]]''
+| comics         = ''[[A Darkened Wish 3|A Darkened Wish #3]]''; ''[[Infernal Tides 5|Infernal Tides #5]]''
+| video games    = ''[[Idle Champions of the Forgotten Realms]]''
+| card games     = {{MTGapp|AFR}}
+| miniatures     = ''[[Icons of the Realms]]''
+|video game refs=''[[Baldur's Gate III]]''}}
+
+===Gallery===
+<gallery>
+Zariel-5e.png|''An early depiction of Zariel.''
+Zariel.jpg|''Zariel wielding ''[[Matalotok]]''.''
+ZarielIC.png|''Zariel from [[Idle Champions of the Forgotten Realms]]''
+Zariel Borderless AFR.jpg|''Zariel from [[Adventures in the Forgotten Realms]]''
+Zariel2-5e.jpg|''Zariel from [[Baldur's Gate: Descent into Avernus]]''
+Zariel mini.jpg|''A miniature of Zariel.''
+Zariel Painting.webp|''The Fall of Elturel painting in [[Baldur's Gate III]]''
+Tale of two Zariels.jpg|''Two Zariel designs from [[Neverwinter (game)|Neverwinter]].''
+Zariel_from_Neverwinter_Avernus.png|''Neverwinter: Avernus promotional image''
+</gallery>
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Archdevils}}
+[[Category:Lords and ladies]]
+[[Category:Archdevils]]
+[[Category:Inhabitants of the Nine Hells]]
+[[Category:Inhabitants of Mount Celestia]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Rulers]]
+[[Category:Archfiends]]
+[[Category:Fallen angels]]
+[[Category:Fiend patrons]]

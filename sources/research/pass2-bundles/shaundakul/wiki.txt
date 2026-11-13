@@ -1,0 +1,184 @@
+WIKI PAGE: Shaundakul
+
+{{Deity
+| image               = Shaundakul p62-1-.jpg
+| caption             = Shaundakul, the Rider of the Winds.
+| name                = Shaundakul
+| title               = The Helping Hand<ref name="HoF-p121">{{Cite book/Forgotten Realms: Heroes of Faerûn|121}}</ref><ref name="FRCS3e-250"/><br />Rider of the Winds<ref name="HoF-p121" /><ref name="FRCS3e-250"/>
+| adjective           = Shaundakun<ref name="FA-p144">{{Cite book/Faiths & Avatars|144}}</ref>
+| aspects             = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]<ref name="HoF-pp99,121" /><ref name="FRCS-235" />
+| race                = 
+| gender              = Masculine<ref name="HoF-p121" /><ref name="FRCS3e-250"/>
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Ysgard]] ([[Ysgard (layer)|Ysgard]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Travel
+| domains5eR          = 
+| worshipers5eR       = [[Rangers]], explorers, guides, travelers
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,121">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,121}}</ref>
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Chaotic neutral]]
+| symbol3e            = A wind-walking bearded man in traveler's cape and boots
+| homeplane3e         = [[Gates of the Moon]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Caravans, exploration, miners, [[portal]]s, travel
+| domains3e           = [[Air domain|Air]], [[Chaos domain|Chaos]], [[Portal domain|Portal]], [[Protection domain|Protection]], [[Trade domain|Trade]], [[Travel domain|Travel]]
+| mantles3e           = {{Mantles|Chaos|Elements|Freedom|The Planes}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Caravaneers, explorers, [[half-elves]], [[rangers]], and portal-walkers
+| cleric alignments3e = {{alignment grid |off|off|on|off|off|on|off|off|on}}
+| favored weapon3e    = ''[[Sword of Shadows]]'' ([[greatsword]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Ranger]]|20|[[Wizard]]|10|[[Cleric]]|10}}
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="FaP-60">{{Cite book/Faiths and Pantheons|60-61}}</ref>
+| power2e             = [[Lesser deity]]<br/><small>Formerly:</small> [[Demigod]]<br/><small>Formerly:</small> [[Intermediate deity]]
+| alignment2e         = [[Chaotic neutral]]
+| symbol2e            = Upright silver left hand with palm out and fingers together, its wrist fading away into rippling winds on a black or deep purple background of circling winds
+| homeplane2e         = [[Ysgard]]/[[Ysgard (layer)|Ysgard]]
+| realm2e             = [[Shaunidaur]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Caravans, explorations, long-range traders, miners, travel, [[windghost]]s
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Ranger]]|30|[[Fighter]]|21|[[Cleric]]|21|[[Wizard]]|20}}
+| refs2e              = <ref name="F&A-142">{{Cite book/Faiths & Avatars|142-143}}</ref><ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|59}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = [[Gull]]s, [[hawk]]s, [[rabbit]]s, [[squirrel]]s, [[wolf|wolves]]
+| plants              = 
+| monsters            = [[Air elemental]]s
+| minerals            = 
+| colors              = Brown, deep purple, silver
+| misc manifestations = Glowing hands surrounded by winds, wind walls
+| manifestation refs  = <ref name="DD&D-p14">{{Cite web enhancement/Deity Do's and Don'ts|14}}</ref>
+| church              = yes
+}}
+
+'''Shaundakul''' ({{Pronounce|SHAWN|da|kul|refs=<ref name="FRCS3e-250">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|250}}</ref><ref name="FaP-60" />}}) was the [[Faerûn]]ian [[lesser deity]] of travel, exploration, and more recently [[portal]]s. The '''Rider of the Winds''' was the patron of those that ventured into uncharted territory and distant lands, including traders, miners, rangers, caravanners, and adventurers.<ref name="FaP-60" /><ref name="F&A-142" />
+
+==Description==
+Shaundakul appeared as a handsome man of regal bearing, standing somewhere between the normal but notably tall height of {{SI|6|ft|long=yes}} to the incredible stature of {{SI|18|ft|long=yes}}. He was clad in plain [[leather armor]] favored by most [[ranger]]s as well as a dark, swirling cloak being constantly whipped about as if buffeted by the wind. Usually only his dark-haired head, his arms, and his massive sword could be seen clearly. Since his booted feet never quite touched the ground he walked in silence, but was constantly accompanied by the keening whistle of the wind.<ref name="F&A-142" />
+
+==Personality==
+Shaundakul was a stern yet kind deity who spoke few words, preferring to let his actions speak for him. He did occasionally get lonely however, disliking secrecy and enjoying interaction with others. He liked to spread word of hidden places and have a good chat, particularly if he could trade jokes, often displaying a rugged sense of humor.<ref name="F&A-142" /><ref name="FaP-60" />
+
+==Possessions==
+Shaundakul wielded an enchanted [[greatsword]] called the ''[[Sword of Shadows]]'', a weapon harmful towards [[goblinoid]]s and [[giant]]s and extremely dangerous to the [[undead]].<ref name="F&A-142" />
+
+==Divine Realm==
+The Rider of the Wind maintained his [[Divine realm|realm]] called Shaunidaur on [[Ysgard]]'s first layer.<ref name="F&A-142"/>
+
+[[File:Shaundakul symbol.jpg|thumb|left|200x200px|The [[holy symbol]] of Shaundakul]]
+
+== Relationships ==
+A primary problem for Shaundakul was that of his rather broad portfolio. His spheres of influence frequently overlapped, however slightly, with many other gods, none of which were likely to tolerate any further encroachments on their domains, which would be a potential hindrance to his long-term success.<ref name="F&A-142" /> This applied even to allied deities of air, travel, nature, and night.<ref name="FRCS3e-250" />
+
+For example, most rangers venerated [[Mielikki]] (or failing that one of her allies)<ref name="FaP-60" /><ref name="FA-p113">{{Cite book/Faiths & Avatars|113}}</ref> and his following among them was absorbed by her when he fell from power,<ref name="F&A-142" /> even as in more recent times she was known to be friendly towards him.<ref name="FRCS3e-246">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|246}}</ref> He similarly lost his following among merchants during that time to [[Waukeen]], although he managed to resurge in that area while [[Lliira]] was holding her portfolio<ref name="F&A-142" /> and even though she eventually returned she was still closely allied with him, viewing their domains as complementary.<ref name="FaP-88">{{Cite book/Faiths and Pantheons|88}}</ref>
+[[File:Priest of Shaundakul.png|thumb|424x424px|right|''A priest of Shaundakul.'']]
+Shaundakul encroached on [[Tymora]]'s portfolio in particular, though they were still allies and at one point enjoyed a brief dalliance.<ref name="F&A-142" /> He was also said to have once had a romantic relationship with [[Selûne]], another deity with a broad portfolio (which included navigation) from which ensued the birth of their daughter, [[Bright Nydra]].<ref>{{Cite polyhedron/117/Forgotten Deities: Bright Nydra}}</ref>
+Since the Time of Troubles, Shaundakul had been romantically linked with [[elf|elven]] goddess [[Aerdrie Faenya]], with whom he'd been firmly allied for a long time already.<ref>{{Cite book/Demihuman Deities|94}}</ref>
+Other allies of the Helping Hand included the [[magical beast]] deities [[Lurue]] and [[Nobanion]], and more daring members of the [[Seldarine]] (namely [[Shevarash]] and [[Solonor]]).<ref name="FaP-60" /> Finally, the Rider of the Winds was an ally of [[Akadi]].<ref name="F&A-142" />
+
+While neither his ally nor enemy, [[Helm]] was one of the deities potentially threatened by the the Helping Hand's broad portfolio. Shaundakul's dislike of secrets also put him at odds with [[Shar]].<ref name="FaP-60" /> He opposed [[Beshaba]] for sullying his good name as revenge for once spurning her, making trouble for the [[Bedine]] nomads while posing as him under the title of the '''Treacherous Lurker in the Sands'''.<ref name="FaP-60" /><ref name="F&A-142" />
+
+== History ==
+Shaundakul was known to have achieved divinity at least before the events of the [[Dawn Cataclysm]] transpired.<ref name="FaP-60" />
+
+Shaundakul was mostly worshiped in and around [[Myth Drannor]], where his main temple was located. However, the majority of his worshipers and all of his clergy perished in the final battle of the [[Weeping War]].<ref name="RoMDcg-p99">{{Cite book/The Ruins of Myth Drannor/Campaign Guide to Myth Drannor|99}}</ref>
+
+By the {{YearlinkName|1358}}, he was known to have only six priests spread throughout [[Faerûn]], but he appeared as either a manifestation, or in his avatar form<ref name="RoMDcg-p99" /> frequently to those who did worship him, or those who desperately needed his help, in an effort to grow his mortal flock.<ref>{{Cite book/The Ruins of Myth Drannor/Campaign Guide to Myth Drannor|100}}</ref>
+
+This amount of divine intervention appeared to work in his favor, as, in the decade following the disappearance of Waukeen, he gained many new caravaneers as followers, and retained quite a few of them after Waukeen returned, prompting healthy growth in his church from then on.<ref name="FaP-60" />
+
+In the [[1385 DR|year of the Blue Fire, 1385 DR]], Shaundakul disappeared without a trace during the [[Spellplague]].<ref name="Sky">{{Cite book/Temple of the Sky God|4}}</ref>
+
+At least some of his worshipers kept the faith, with one temple outside of the city of [[Arabel]] continuing to receive [[pilgrim]]s for the next century.<ref name="Sky" /> After the magical chaos of the Spellplague subsided, Shaundakul returned to [[Toril]] at the head of a throng of displaced people and creatures, who had been lost on other worlds. He began travelling the world in mortal disguises, revealing his true identity only to his most devout followers and priests.<ref>{{cite web |url=https://www.sageadvice.eu/2020/05/04/what-ever-happened-to-shaundakuls-following/ |title=Sage Advice: What ever happened to Shaundakul’s following? |accessdate=2020-05-23 |author=[[Ed Greenwood]] |date=2020-02-10}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+
+===Sources===
+* {{Cite book/Faiths and Pantheons}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Bedine Pantheon}}
+{{Deity list}}
+[[de:Shaundakul]]
+[[Category:Chaotic neutral deities]]
+[[Category:Air domain deities]]
+[[Category:Chaos domain deities]]
+[[Category:Portal domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Trade domain deities]]
+[[Category:Travel domain deities]]
+[[Category:Exarchs]]
+[[Category:Lesser deities]]
+[[Category:Demipowers]]
+[[Category:Intermediate deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Human deities]]
+[[Category:Inhabitants of Ysgard]]
+[[Category:Inhabitants of Ysgard (layer)]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Gates of the Moon]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of Argentil]]

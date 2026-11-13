@@ -1,0 +1,78 @@
+The '''Wailing Years''', also known as the '''Plague Years''', was a cataclysmic time period in the chronology of [[Toril]] and [[Abeir]]. Taking place between [[1385 DR]], the Year of Blue Fire, and [[1395 DR]], the Year of Silent Death, the Wailing Years was a period of ten years during which the effects of the [[Spellplague]] were at their worst.<ref name="S.tWY">{{Cite web/Dragon Features Archive|url=http://forum.candlekeep.com/topic.asp?TOPIC_ID=10705|title=Spellplague: The Wailing Years|author=[[Brian R. James]]|date=2008-02-27|accessdate=2008-04-14}}</ref>
+
+== Summary ==
+After the death of [[Mystra (Midnight)|Mystra]], assassinated by [[Shar]] and [[Cyric]] in 1385 DR, the [[Weave]] collapsed triggering the Spellplague, a cataclysm of [[Cosmology|multiversal]] proportions that unraveled and reshaped flesh, stone, magic, and even space and time in its wake.<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref> A storm of virulent blue flames swept across the face of Toril and into the planes, until it reached the world of Abeir, where its devastating effects also changed that world.<ref name="Dra375">{{Cite dragon/375/Gontal: Dominions of Nehu|78}}</ref> In the following decade, the effects of the Spellplague destroyed or reshaped entire regions, killed or mutated thousands of people, and even the [[gods]] and reality itself were forever changed.<ref name="S.tWY"/><ref name="FRCG-p50"/>
+
+==Timeline==
+
+; [[1385 DR]] (Year of Blue Fire)
+* Mystra was assassinated by Cyric, an act that destroyed the Weave and triggered the Spellplague.<ref name="S.tWY"/><ref name="FRCG-p50"/>
+* The temple of Mystra in [[Harrowdale]] was destroyed when all the temple wards go haywire simultaneously, killing head priestess [[Llewan Aspenhold]] and most of her clergy.<ref name="DALE1">[http://www.wizards.com/default.asp?x=rpga/news/20080519a DALE1-1 The Prospect] ''by Pierre van Rooden''</ref>
+* The Fall of Stars in Harrowdale is shrouded in a halo of blue flames for a  full day, but otherwise seems untouched.<ref name="DALE1"/> 
+* At the same time, the worlds of Toril and Abeir were undergoing their periodic planar conjunction. This proved to be apocalyptic, because it allowed the Spellplague to unravel both worlds.<ref name="FRCG-p50-51">{{Cite book/Forgotten Realms Campaign Guide|50-51}}</ref>
+* [[Dweomerheart]] was destroyed, killing [[Savras]] in the process.<ref name="S.tWY"/> [[Azuth]] and [[Velsharoon]] were sent across the planes and disappeared without a trace.<ref name="S.tWY"/> While Velsharoon actually died,<ref name="FRCG-p88">{{Cite book/Forgotten Realms Campaign Guide|88}}</ref> Azuth was only presumed dead. [[Asmodeus]] fused with the dying Azuth, saving the God of Wizards' life but stealing his divine powers, and thus the [[archdevil]] underwent his apotheosis.<ref name="FRCG-p73">{{Cite book/Forgotten Realms Campaign Guide|73}}</ref><ref name="AotT-398-399">{{Cite book/Ashes of the Tyrant/Hardcover|398-399}}</ref>
+* [[Halruaa]], [[Sespech]], the [[Golden Plains]], and the [[Nagalands]] were destroyed by the blue fire storm caused by the destruction of the Weave, and were reshaped into the [[Plaguewrought Land]]s.<ref name="S.tWY"/>
+* The Spellplague infected [[portal]]s and planar magic, shaking the planes and spreading to the world of Abeir.<ref name="FRCG-p50"/>
+* In Abeir, the fortress of [[Glaur]] exploded on contact with the Spellplague, in a blast of power akin to the [[Tearfall]], sending the continent of [[Laerakond]] to Toril. The cataclysm created the [[Glaur Barrens]] in [[Gontal]].<ref name="Dra375"/><ref name="HotECp-33">{{Cite book/Heroes of the Elemental Chaos|33}}</ref>
+* [[Djerad Thymar]] was separated from [[Skelkor]] and fell on [[Unther]], creating the [[Black Ash Plain]] and sending Unther to the continent of [[Shyr]] in Abeir.<ref name="FRCG-p212">{{Cite book/Forgotten Realms Campaign Guide|212}}</ref><ref name="FRCG186">{{Cite book/Forgotten Realms Campaign Guide|186}}</ref><ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|13-14}}</ref><ref name="TDYK-54">{{Cite book/The Devil You Know|54}}</ref>
+* Laerakond was sent to the [[Trackless Sea]], were it subsumed the lands of [[Maztica]]. Maztica was transported to Abeir, and Laerakond, which became known as 'Returned Abeir', remained on Toril.<ref name="FRCG-p87-200">{{Cite book/Forgotten Realms Campaign Guide|87, 200}}</ref>
+* Taking advantage of the planar instability, the new god Asmodeus sent the [[Abyss]] to the [[Elemental Chaos]] in a failed attempt to end the [[Blood War]].<ref name="FRCG-p50"/><ref name="FRCG-p73">{{Cite book/Forgotten Realms Campaign Guide|73}}</ref><ref name="FitB-94">{{Cite book/Fire in the Blood/Hardcover 2014|94}}</ref>
+* [[Cormyr]] was struck hard by the Spellplague, but not so violently as other nations. Roughly one third of all the [[War Wizards]] were slain, driven mad, or simply disappeared in the year following Mystra's death.<ref name="S.tWY"/>
+* [[Kepeshkmolik Thymara]], guided by the goddess [[Selûne]], reconstructed Djerad Thymar above the God-Tomb of the death Untherite god [[Nanna-Sin]].<ref name="AotT/Hardcover-p291-294">{{Cite book/Ashes of the Tyrant/Hardcover|291-294}}</ref> The [[dragonborn]] spent the rest of the year fighting the [[spellscar]]red horrors of the former lands of Unther while founding the nation of [[Tymanther]].<ref name="FRCG186"/><ref name="TDYK/Hardcover-p460">{{Cite book/The Devil You Know|460}}</ref>
+
+; [[1386 DR]] (Year of the Halfling's Lament)
+* A portion of Shyr violently changed places with large sections of [[Chondath]] and western [[Chessenta]]. Displaced genasi quickly set about creating a kingdom of their own, [[Akanûl]].<ref name="S.tWY" />
+* Large portions of the [[Sea of Fallen Stars]] collapsed into the [[Underdark]]. When the sea level reached its new equilibrium, the average drop in water level measured nearly 50 feet.<ref name="S.tWY"/>
+* The waters of the [[Vilhon Reach]] were similarly drained, uncovering several ruins from ancient [[Jhaamdath]].<ref name="S.tWY"/>
+* The [[Arnrock]] volcano in the [[Lake of Steam]] erupts violently, wiping out the [[halfling]] settlement that had sprung up on its long dormant crater.<ref name="FRCG145">{{Cite book/Forgotten_Realms_Campaign_Guide|145}}</ref>
+
+; [[1387 DR]] (Year of the Emerald Ermine)
+* The [[Emerald Enclave]] sent agents throughout the [[Vilhon Wilds]] to try to counter the effects of the Spellplague. As time passed, their original mission changed from one of respect for and guardianship of nature to a vain struggle against forces far beyond their control.<ref name="S.tWY"/>
+
+; [[1388 DR]] (Year of the Tanarukka)
+* [[Bullywug]] tribes from the [[Farsea Marshes]] began to thwart [[Zhentarim]] forces operating throughout the [[Tunlands]], diminishing Black Network activities in the region.<ref name="S.tWY"/>
+* Some of the remaining War Wizards began cross-training with the [[Purple Dragons]] in swordplay and martial defense, eventually becoming [[swordmage]]s.<ref name="S.tWY"/>
+* [[Fiirnel'ther Vandree]] of [[House Vandree]] of [[Menzoberranzan]] assassinated her mother, [[Troken'ther]], and took the leadership of her House.<ref name="FRCG231">{{Cite book/Forgotten_Realms_Campaign_Guide|231}}</ref>
+* The [[Gundwynd Clan]] was rendered extinct in [[Waterdeep]] after the Spellplague first struck the city. All members were permanently transformed into [[troll]]s or [[giant]]s.<ref name="BT.pg107-108">{{Cite book/Blackstaff Tower|107-108}}</ref>
+
+; [[1389 DR]] (Year of the Forgiven Foes)
+* A strange black [[Xxiphu|monolith]] appeared along Cormyr's coast, never in the same place twice.<ref name="S.tWY"/><ref name="FRCG-p106-107">{{Cite book/Forgotten Realms Campaign Guide|106-107}}</ref>
+
+; [[1390 DR]] (Year of the Walking Man)
+* [[Filfaeril Obarskyr]] died. [[Alusair Obarskyr]] disappeared shortly after her burial.<ref name="S.tWY"/>
+*  [[Arilyn Moonblade]] began training [[Azariah Craulnober]] at the behest of the latter's father, [[Elaith Craulnober]].<ref name="RoV-TMTC">{{Cite book/Realms of Infamy/The More Things Change}}</ref>
+
+; [[1391 DR]] (Year of the Wrathful Eye)
+* The [[human]] [[druid]] [[Zalaznar Crinios]], transformed into a [[treant]] for his service to nature, took hold of the druid circle in [[Cedarspoke]]. A lesser druid called [[Firemane]], rose to prominence in the same circle.<ref name="S.tWY"/>
+* The [[elves]] of the militant [[Eldreth Veluuthra]] seized control of the [[Hullack Forest]] to use it as a base for their anti-human operations.<ref name="FRCG108">{{Cite book/Forgotten_Realms_Campaign_Guide|108}}</ref>
+* The [[Eye of Justice]] drove out [[Manshoon|Orbakh]] and the [[Night Masks]] from [[Westgate]].<ref name="SBE|3071">{{Cite digital book/Eye of Justice|3071}}</ref>
+* [[Auril]]'s Winter Hall assimilated the [[Aerdrie Faenya|Winged Mother]]'s floating palace into her domain.<ref name="Dra367">{{Cite dragon/367/Hall of the Frostmaiden}}</ref>
+* [[Randal Morn]], the legendary leader of [[Daggerdale]] died. [[Sathrin Cormaeril]] arrived to Daggerdale not long after, and claimed the throne.<ref>{{Cite dungeon/192/Backdrop: Daggerdale}}</ref>
+
+; [[1392 DR]] (Year of the Scroll)
+* The city of [[Pros]] became a vassal-state of Cormyr in order to protect it from the ravages of the Spellplague. By year's end, [[Ilipur]] joined Cormyr as well.<ref name="S.tWY"/>
+* The receding waters of the Sea of Fallen Stars ruined small trading towns along its shore.<ref name="S.tWY"/>
+
+; [[1393 DR]] (Year of the Ring)
+* [[Sembia]]n investors began to buy lands in the southern [[Dales]]. Concerned, [[Azoun V]] issued a formal objection to the Dale's Council in [[Archendale]], but the King's emissary was rebuffed.<ref name="S.tWY"/>
+* Spellscarred beings and pilgrims hoping to obtain a spellscar began to journey to Plaguewrought Lands.<ref name="S.tWY"/>
+
+; [[1394 DR]] (Year of Deaths Unmourned)
+* The Grand Cabal of the Emerald Enclave began to stem the tide of spellscarred pilgrims that journeyed through [[Turmish]].<ref name="S.tWY"/>
+* The city of [[Daerlun]] became a vassal-state of Cormyr.<ref name="S.tWY"/>
+* The war between Cormyr and Sembia began.<ref name="FRCG108"/>
+
+; [[1395 DR]] (Year of Silent Death)
+* The Empire of [[Netheril]] came across the [[Lost Vale]] and displaced the [[saurials]] there into the Underdark.<ref name="FRCG112">{{Cite book/Forgotten Realms Campaign Guide|112}}</ref>
+* [[Sakkors]], a Netherese enclave, reappeared over Daerlun. Civil unrest broke out throughout the city, and Azoun V sends elite swordmages to restore order.<ref name="S.tWY"/>
+* A great plague known as the [[Putrescent Anathema]] devastated the [[Goldenfields]] and Waterdeep, primarily to the poor as the supply of grain plummeted.<ref>{{Cite book/Forgotten_Realms_Campaign_Guide|194-195}}</ref>
+* Most of the effects of the Spellplague had come to an end by this year and most arcane magic had returned to a semblance of normality, with a handful of major changes to the way spells were cast.<ref name="S.tWY" />
+
+==References==
+{{Refs}}
+[[Category:History]]
+[[Category:Events]]
+[[Category:Events in Faerûn]]
+[[Category:Events on Toril]]
+[[Category:Events on Abeir]]
+[[Category:Events in Laerakond]]

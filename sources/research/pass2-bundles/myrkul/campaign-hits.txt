@@ -1,0 +1,1 @@
+campaign/gazetteer/waterdeep/castle-ward.md:195: - Gods' Day (Marpenoth 15) ends with a Griffon Cavalry bonfire on Mount Waterdeep, in memory of Myrkul's fires that burned through the Southern, Dock and Castle Wards.

@@ -1,0 +1,260 @@
+WIKI PAGE: Hoar
+
+{{Deity
+| image               = Hoar 3e.jpg
+| caption             = 
+| name                = Hoar
+| title               = The Doombringer<ref name="SCAG-p21,29-30" /><br />God of Revenge<ref name="OE-p61">{{Cite book/Old Empires|61}}</ref><br />Lord of Three Thunders<br />Hurler of Thunders<ref name="CoS-ch14">{{Cite book/Cloak of Shadows||14}}</ref><br />Poet of Justice<ref name="SCAG-p21,29-30" />
+| symbol              = 
+| adjective           = Hoarite<ref name="FRCG-pg81" />
+| aspects             = Assuran ([[Unther]], [[Chessenta]])<ref name="P&P-28"/>
+| power               = 
+| status              = 
+| primordial          = 
+| pantheon            = 
+| home                = 
+| formerhomes         = 
+| serves              = 
+| servedby            = 
+| minions             = 
+| died                = 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| race                = 
+| gender              = 
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5e             = [[God]] 
+| alignment5e         = [[Lawful neutral]]
+| symbol5e            = A coin with a two-faced head
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Revenge, retribution
+| domains5e           = [[War domain|War]]
+| worshipers5e        = Seekers of vengeance, bounty hunters, jailers, headsmen
+
+| channel divinity5e  = ''[[Guided strike]]''<br />''[[War god's blessing]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG-p21,29-30">{{Cite book/Sword Coast Adventurer's Guide|21,29-30}}</ref><ref name="PHB5e-p63">{{Cite book/Player's Handbook 5th edition|63}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = [[Banehold]]
+| realm4e             = 
+| serves4e            = [[Bane]]
+| servedby4e          = 
+| sphere4e            = Revenge
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-pg81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Demigod]]
+| alignment3e         = [[Lawful neutral]]
+| symbol3e            = Black-gloved hand holding a coin with a two-faced head
+| homeplane3e         = [[Banehold]]<br /> {{former}} [[Zigguraxus]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Poetic Justice <br /> Retribution
+| domains3e           = [[Avarice domain|Avarice]], [[Envy domain|Envy]], [[Fate domain|Fate]], [[Law domain|Law]], [[Retribution domain|Retribution]], [[Travel domain|Travel]], [[Wrath domain|Wrath]]
+| worshipers3e        = [[Assassins]], [[fighters]], [[rogues]], seekers of retribution
+| cleric alignments3e = {{alignment grid|on|off|off|on|off|off|on|off|off}}
+| favored weapon3e    = [[Retribution's Sting]] <br /> ([[javelin]] of lightning)
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="F&P3e-p97">{{Cite book/Faiths and Pantheons|97}}</ref><ref name="PGF3e-p165">{{Cite book/Player's Guide to Faerûn|165}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Demipower]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Black-gloved right hand holding a coin with a two-faced head<br />Three lightning bolts<br />Three deep rolls of thunder
+| homeplane2e         = [[Mechanus]]
+| realm2e             = [[Doomcourt]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Revenge, retribution, poetic justice
+| spheres2e           = 
+| worshipers2e        = Bounty hunters, assassins, those seeking vengeance
+| cleric alignments2e = 
+| holy days2e =
+| class2e             = {{Class table|edition=2e|[[Thief]]|23|[[Fighter]]|20|[[Cleric]]|18|[[Wizard]]|18}}
+| refs2e              = <ref name="P&P-28">{{Cite book/Powers & Pantheons|28-30}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = [[Aerial servant]]s<br />[[Invisible stalker]]s<br />[[Curst]]s<br />[[Feyr]]s<br />[[Harrla]]s<br />[[Haunt]]s<br />[[Justice incarnate]]s<br />[[Kere]]s<br />[[Living steel]]s<br />[[Revenant]]s<br />[[Lhiannan shee]]<br />[[Marut]]s
+| minerals            = Red tear-shaped [[gem]]s
+| colors              = 
+| misc manifestations = Three strikes of thunder, ghostly hand
+| manifestation refs  = <ref name="P&P-28"/><ref name="DD&D-p12">{{Cite web enhancement/Deity Do's and Don'ts|12}}</ref>
+| church              = yes
+| temples             = yes
+}}
+'''Hoar''' ({{Pronounce|HOR|refs=<ref name="F&P3e-p97" />}}) was the [[Faerûnian pantheon|Faerûnian]] god of retribution, revenge, and poetic justice.<ref name="F&P3e-p97" /> '''The Doombringer''' spent some time as an [[exarch]] of [[Bane]]<ref name="FRCG-pg81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref> and was invoked by those who would have an eye for an eye.<ref name="F&P3e-p97" /> 
+
+{{quote|''Violence repays violence. Evil repays evil. Good repays good. These are the tenets of Hoar, who brings justice and retribution to each according to their actions. Allowances? Excuses set forth to falsely acquit the condemned. Allowances exploit, pervert, and impede the course of justice. If you cannot see this, we've nothing to discuss.''|[[Mercy Whitedove]]<ref name="bg2">{{Cite game/Baldur's Gate II: The Black Pits II – Gladiators of Thay}}</ref>}}
+
+==Description==
+Hoar's favorite avatar appeared as a tall (either {{SI|6.5|ft|long=yes}} or {{SI|10|ft|long=yes}} tall) dark, gaunt man wearing a pair of gold [[bracer]]s and the clothes of a noble or rich merchant, typically of [[Unther]] but sometimes of [[Chessenta]] or [[west Faerûn]]. He had jet black eyes and dark hair shaped into long, ringleted strands and a pointed goatee.<ref name="P&P-28"/>
+
+The Doombringer usually seemed tired and battered, with several poorly healed, serious cuts across his body, a dry, hollow chuckle, and an overall haunted appearance.<ref name="P&P-28"/>
+
+===Manifestations===
+Hoar's favorite manifestation were three deep rolls of thunder that echoed across the skies, often punctuating fitting punishment dispersed upon a guilty individual. Another common manifestation was a ghostly grinning face that presented itself only to the guilty party as it delivered its ironic punishment.<ref name="P&P-28"/>
+
+The Doombringer's good will could be discerned through appearance of red-colored [[gemstones]] shaped as a tear, while Hoar's fury was communicated via discovery of pulverized [[Laeral's tears]]. His servants were various [[aerial servant]]s, [[invisible stalker]]s, [[curst]]s, [[feyr]]s, [[harrla]]s, [[haunt]]s, [[justice incarnate]]s, [[kere]]s, [[living steel]]s, [[revenant]]s, [[lhiannan shee]], and [[marut]]s.<ref name="P&P-28"/>
+
+==Personality==
+Hoar was a god prone to violence, mood swings, and had a penchant for bitter humor. He had a morbid fascination with doomed mortals and sought to unleash misfortune on those who deserved it.<ref name="P&P-28"/>
+
+==Powers==
+[[File:Hoar symbol.jpg|thumb|''The late-14{{th}} century holy symbol of Hoar.'']]
+The God of Revenge could produce [[spell]]s from any divine sphere or school of magic. However, he preferred wielding ''[[illusion]]s'', ''[[charm]]''s, and magics that affected the weather. With careful use of these spells, Hoar could craft appropriately ironic tools to smite his enemies with. Additionally, Hoar could cast any spells of electrical nature.<ref name="P&P-28"/>
+
+The avatar of the Doombringer easily swung his massive two-handed sword, ''Hand of Retribution'', with his right hand, while dispersing ''javelins of lightning'' with his left hand. When in battle, Hoar liked to use variations of ''[[Bigby's hand]]'', ''[[Caligarde's claw]]'', or ''[[Geirdorn's grappling grasp]]''. Unlike mortals, Hoar could concentrate on three similar spells simultaneously without having to drop them in close combat.<ref name="P&P-28"/>
+
+When Hoar's avatar clapped his hands or stomped his feet, it created a deafening blast of thunder, similar to the effects of the ''[[Great shout]]'' spell.<ref name="P&P-28"/>
+
+==Possessions==
+Hoar's avatar wielded a massive ''[[enchanted]] +3 [[broadsword]]'' named ''[[Hand of Retribution]]'', and carried an endless [[quiver]] of immensely powerful magic ''[[javelin of lightning|javelins of lightning]]'' on his back.<ref name="P&P-28"/>
+
+==Divine Realm==
+In the [[Great Wheel cosmology]], Hoar held his [[Doomcourt]], as his divine realm was known, on the lawful plane of [[Mechanus]].<ref name="P&P-28"/> His realm was tastefully decorated with heads of mortals on the [[pike (weapon)|pikes]] that gave it the atmosphere of crushing despair and crawling horror. The Court itself was an elegant building of frosted cold [[marble]] with spacious halls that produced intimidating echo.<ref name="PGtF-p145">{{Cite book/Player's Guide to Faerûn|145}}</ref>
+
+Following the cosmic chaos of the ''[[Spellplague]],'' Hoar became a exarch of [[Bane]], relocating his realm to [[Banehold]].<ref name="FRCG-pg62">{{Cite book/Forgotten Realms Campaign Guide|62}}</ref>
+
+==Relationships==
+Hoar's bitter rivals were [[Untheric]] gods [[Anhur]] and [[Ramman]], both at one point banished Hoar from the region. Centuries later, Ramman was killed by Hoar's avatar.<ref name="FaP-96" />
+
+The human deities [[Beshaba]]<ref name="P&P-28" /> and [[Bhaal]] were among few allies of the Hurler of Thunders.<ref name="fa-p45">{{Cite book/Faiths & Avatars|45}}</ref> In other pantheons, Hoar was allied with the [[drow]] goddess of [[necromancy]], [[Kiaransalee]],<ref name="DD-p23">{{Cite book/Demihuman Deities|23}}</ref> the god [[Shevarash]] who embodied elven hate for the drow,<ref name="DD-p129-130">{{Cite book/Demihuman Deities|129-130}}</ref>
+
+As a deity whose domains included a very specific type of luck, Hoar's relationship with [[Tymora]] was complicated. At times, Hoar attempted to flatter and charm the goddess to bless him with better luck, yet occasionally treated her as an enemy. Tymora's sister Beshaba was an ally, and Hoar sought her aid when cursing mortals with ill fortune.<ref name="P&P-28"/>
+
+Both [[Tyr]] and [[Shar]] tried to influence Hoar. The Dark Goddess pushed him to become more like his "Doombringer" persona and be her servant of bitter vengeance at all costs. The Maimed God cajoled him to embrace the humor and irony of life and bring poetic and satisfying justice to those with a sad view of fate. But Hoar rebuffed them and dallied with Beshaba instead, working with Lady Doom to spread misfortune to those that did not honor them.<ref name="FaP-98" />
+
+==Worshipers==
+[[File:Hoar Symbol-5e.png|thumb|''The 15{{th}} century holy symbol of Hoar.'']]
+{{Main|Church of Hoar}}
+{{quote|''He is the righter of wrongs. I heard you whisper [[Tymora]]'s name earlier. Like that goddess, Hoar is a bringer of luck-bad luck, but only to those who have called it down upon themselves by their own actions. He seals their doom– and in the process, saves those who are doomed.''|[[Nicco]] of Hoar<ref name="VT-ch11">{{Cite book/House of Serpents Omnibus|134}}</ref>}}<br/>
+Hoar's worshipers rarely held official sermons and participated in organized worship. The god's name appeared on the lips of those seeking vengeance. Hoar's hand was said to be responsible for unlucky accidents that took lives of wrongdoers.<ref name="P&P-28" />
+
+If one wanted to seek vengeance on another by praying to Hoar, it was believed that writing prayers down made them more likely to be answered. To ensure a long-lasting reach for prayers, some vengeance seekers carved them into items made of lead. These were then buried to keep others from knowing about them.<ref name="SCAG-p21,29-30" />
+
+In the lands around the [[Sea of Fallen Stars]], Hoar was worshiped as Assuran, a deity of revenge,<ref name="SCAG-p21,29-30" /> While in [[North Faerûn]], Hoar was seen as the deity of poetic justice.<ref name="P&P-28" />
+
+Besides those seeking justice, Hoar was worshiped by bounty hunters and some assassins. Prayers to the Hurler of Thunders were uttered before operations. The most devout among his worshipers tried to emulate Hoar by killing or capturing the marks in an ironic style.<ref name="P&P-28" /> Some pirates of the [[Sea of Fallen Stars]] who survived unfair struggles of life came to worship Assuran.<ref name="piraat-p16">{{Cite book/Pirates of the Fallen Stars|16}}</ref>
+
+===Non-Human Worshipers===
+Among other deities, Hoar was an appealing god for [[githyanki]] renegades found in the [[Realmspace]], who did not sway too much to extremes of good nor evil.<ref name="poly-p159">{{Cite polyhedron/159/Incursion: Knights of the Lich-Queen|29}}</ref> Fey [[wild hunter]]s were creatures who sought to exact vengeance on behalf of fellow fey. They venerated both Hoar and [[Silvanus]].<ref name="exp">{{Cite book/Expedition to the Demonweb Pits/Errata}}</ref> [[Half-orc]]s were among less exotic non-humans who often turned to the worship of Hoar.<ref name="RoF-p68">{{Cite book/Races of Faerûn|68}}</ref>
+
+===Places of Worship===
+Temples to Hoar were rare and usually found in antique parts of Chessenta and Unther.<ref name="SCAG-p21,29-30" /> By the late-15{{th}} century [[DR]], smaller shrines of Hoar spread further north. One such shrine could be found in [[Baldur's Gate]].<ref name="murder">{{Cite book/Murder in Baldur's Gate/Campaign Guide|34}}</ref> Another well-maintained shrine to the deity could be found on [[Dragonisle]] in the Sea of Fallen Stars.<ref name="piraat-p16" /> Some of the other notable places of worship found in north and south [[Faerûn]] were:
+*[[Amphitheater of the First Thunder]], a coliseum temple in [[Mourktar]] where the accused and accusers clashed in gladiatorial battles.<ref name="P&P-28" />
+*[[Hidden Hand of Fate]], a temple in the [[Arch Wood]] that saw growth in worshipers following the Time of Troubles.<ref name="P&P-28" />
+*[[Temple of Hoar (Bezantur)|Temple of Hoar]] in [[Bezantur]], the City of a Thousand Temples, was the main place of worship of Doombringer in [[Thay]].<ref name="SPB-p25">{{Cite book/Spellbound/Campaign Guide|25}}</ref>
+*[[Thunderous Hand of Vengeance]], a loyalist temple in [[Akanax]] that sought to claim the leadership of the faith.<ref name="P&P-28" />
+
+===Holy Days===
+The worshipers of Hoar were encouraged to celebrate vengeance and punishments on a personal level. There were only two festivals holy to the Doombringer: the [[Penultimate Thunder]] and the [[Impending Doom]]. The Penultimate Thunder celebrated Hoar's triumph over [[Ramman]], on [[Eleint 11]], with lavish feasts. The Impending Doom was a ceremony honoring future justice, celebrated on [[Marpenoth 11]]. The observance of the holiday lasted for an entire day, filled with ceremonies of oaths, exhausting acts of purification, all performed to the music of rumbling [[drum]]s.<ref name="P&P-28" />
+
+==History==
+[[File:Hoar vs Ramman.png|thumb|''The fateful battle between Hoar and Ramman.''|380x380px]]
+Hoar's recorded origins stated that he was worshiped in the ancient Unther, where he was known as Assuran in the nations of the eastern [[Inner Sea]]. Many centuries before the [[Godswar]], Hoar battled Ramman, the god of war of the [[Untheric pantheon]]. The battle of divinities was ruinous for Hoar as he and his devotees were pushed out of Unther by Ramman.<ref name="P&P-28" /> Following the banishment, [[Ao]] allowed Hoar to gain power in [[Faerûn]] in exchange for giving [[Mystra]] influence in Unther.<ref name="FaP-96">{{Cite book/Faiths and Pantheons|96}}</ref>
+
+Despite losing a majority of his worshipers in Unther, the cult of the Doombringer remained active in Unther, Chessenta, and the cities of [[Akanax]] and [[Mourktar]]. However, Assuran was no longer worshiped as part of the Untheric pantheon. With time, even the cult of the Doombringer lost worshipers to [[Anhur]], the [[Mulhorandi]] god of war, introduced to Unther by Chessentan mercenaries.<ref name="FaP-98" />
+
+In the {{YearlinkName|1358}}, during the [[Time of Troubles]], the deities of Unther and [[Mulhorand]] were greatly reduced in power as they stalked the [[Old Empires]]. The god-king avatars attempted to increase their divine powers by absorbing powers vested in their mortal incarnations; however, that plan failed. In [[Akanax]], Hoar took the body of King [[Hippartes]] as his [[avatar]]. Then he appeared in [[Thay]] to obtain a cache of weapons,<ref name="P&P-28" /> where the avatar that held Hoar's essence became a target for a power-hungry [[Red Wizard of Thay]] known as the [[Masked One]]. The ambitious wizard saw an opportunity to claim powers of a weakened deity, but with the aid of Overgod Ao and [[Elminster]], the Masked One's hunt was unsuccessful.<ref name="CoS-ch14" /> As King Hippartes, Hoar led mercenary companies of Akanax against the cities of [[Cimbar]], [[Soorenar]], and [[Luthcheq]]. His armies reignited old conflicts and grievances, plunging Chessenta into a series of long-winded armed conflicts that culminated in a forged alliance between Akanax and its old rivals – Cimbar, Soorenar, and Luthcheq. After this, Hoar led his armies to Unther, targeting the [[Church of Ramman]]. The Doombringer and Ramman faced off in an epic battle. Hoar exercised his love for poetic justice as he weaved a [[spell]] that turned Ramman's own ''[[lightning]]'' against him, slaying the ancient rival. However, Anhur swooped in and was gifted Ramman's portfolio by the dying avatar before Hoar could gain control. Empowered, Anhur led Mulhorandi armies against Hoar's Chessentan mercenaries, repelling them from Unther and swaying many of Hoar's worshipers to his side in the process. The Doombringer lost his place in the nation of Unther once again.<ref name="P&P-28" /><ref name="FaP-98">{{Cite book/Faiths and Pantheons|98}}</ref>
+
+As the gods returned to the planes and the Time of Troubles came to an end, Hoar withdrew from the Realms. His church was slowly growing throughout the Heartlands. As of the {{YearlinkName|1368}}, Hoar's thunder has not been heard for a decade, and theories of the deity being dead started appearing. In reality, Hoar's divinity was reduced to that of a demipower, and he retreated to plot revenge against Anhur.<ref name="FaP-98" />
+
+By the 1370s DR, Mulhorand took control of the two-thirds of Unther while faith in Hoar was lit anew with zealot passion. Along with Hoar, zealots of [[Tiamat]], [[Anhur]], [[Selûne]], and [[Horus-Re]] all fought for religious dominance. While Hoarites waged vengeful war against Untheri and Mulhorandi enemies, Hoar himself was searching for a worthy emissary in Unther to guide the faith to its former glory. Hoar enjoyed the poetic justice of taking back territory from his long-slain opponent, even if it took him centuries to accomplish.<ref name="dragmag">{{Cite dragon/358/Volo's Guide: War upon the Sands|70-71}}</ref>
+
+With Tyr's death, [[Bane]] recruited Hoar as an [[exarch]], causing Hoar to take on a more cruel persona.<ref name="FRCG-pg81" /><ref name="FRCG-238">{{Cite book/Forgotten Realms Campaign Guide|238}}</ref>
+
+Following the [[Second Sundering]], Hoar shifted back to his more neutral outlook. He became something of a counterpoint to Tyr&mdash;concerned with punishing those who would break the law, whereas Tyr focused more on his role as an arbiter.<ref name="SCAG-p21,29-30" />
+
+==Notable Worshipers==
+*[[Twilight Knight]], a young 15{{th}} century [[vampire]] member of [[Westgate]]'s [[Night Masters]].<ref name="drag428">{{Cite dragon/428/Backdrop: Westgate|8}}</ref>
+
+==Rumors & Legends==
+*In [[Threskel]], locals believed that Hoar, or Assuran, made a home in the [[Mount Thulbane]] volcano. In the 14{{th}} century DR, the volcano was the lair of [[Jaxanaedegor]], a very old [[vampiric dragon]]. The undead [[green dragon]] assumed the guise of Assuran's aspect to lead the local worshipers of the Doombringer..<ref name="dragof-p71">{{Cite book/Dragons of Faerûn|71}}</ref>
+
+==Appendix==
+===Gallery===
+<gallery>
+Hoar symbol 2e.png|''A holy symbol of Hoar.''
+Hoar holy symbol.png|''Another variant of Hoar's holy symbol.''
+Powers & Pantheons priests 1.jpg|''A priest of Hoar, among others.''
+</gallery>
+
+===Appearances ===
+:;Adventures
+::{{refonly}}
+::<small>''[[Four from Cormyr]]'' &bull; ''[[Murder in Baldur's Gate]]''</small>
+:;Novels
+::''[[Cloak of Shadows]]'' &bull; ''[[Bloodwalk]]''
+::{{refonly}}
+::<small>''[[The Yellow Silk]]'' &bull; ''[[Venom's Taste]]'' &bull; ''[[Viper's Kiss]]'' &bull; ''[[Vanity's Brood]]'' &bull; ''[[Eye of Justice]]'' &bull; ''[[Cry of the Ghost Wolf]]''</small>
+:;Video Games
+::{{refonly}}
+::<small>''[[Icewind Dale (game)|Icewind Dale]]'' &bull; ''[[Neverwinter Nights]]'' &bull; ''[[Neverwinter (game)|Neverwinter]]''</small>
+:;Organized Play & Licensed Adventures
+::{{refonly}}
+::<small>''[[The Worst of All Snares]]'' &bull; ''[[Twisted Roots Run Deep]]''</small>
+
+===References===
+{{Refs}}
+===Connections===
+{{Untheric pantheon}}
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Exarchs]]
+[[Category:Demipowers]]
+[[Category:Lawful neutral deities]]
+[[Category:Fate domain deities]]
+[[Category:Law domain deities]]
+[[Category:Retribution domain deities]]
+[[Category:Travel domain deities]]
+[[Category:War domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Untheric pantheon]]
+[[Category:Human deities]]
+[[Category:Avarice domain deities]]
+[[Category:Envy domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of Mechanus]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Banehold]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of Zigguraxus]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Year of Miracles]]

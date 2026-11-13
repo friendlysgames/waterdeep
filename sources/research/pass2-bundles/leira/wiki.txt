@@ -1,0 +1,176 @@
+WIKI PAGE: Leira
+
+{{Deity
+| image               = Leira Symbol-5e.png
+| caption             = [[Holy symbol]] of Leira.
+| name                = Leira
+| title               = The Guardian of Liars<ref name="FaA-93" /><br/>Lady of Mists<ref name="LEoF-p42" /><br />Lady of the Mists<ref name="HoF-p112">{{Cite book/Forgotten Realms: Heroes of Faerûn|112}}</ref><ref name="SCAG5e-p21,32" /><ref name="FaA-93" /><ref name="CotR-11-12" /><br />The Mistshadow<ref name="HoF-p112"/><ref name="SCAG5e-p21,32" /><ref name="FaA-93" /><br />Mother of Illusionists<ref name="FaA-93" /><br />The Lady of Deception<ref name="HoF-p112"/><ref name="SCAG5e-p21,32" /><br />Mother of All Illusion<ref name="bg">{{Cite game/Baldur's Gate}}</ref><br/>Lady of Mists<ref name="bg"/><br/>Guardian of Deception<ref name="bg"/>
+| adjective           = Leiran<ref name="FaA-95">{{Cite book/Faiths & Avatars|95}}</ref>
+| aspects             = 
+| pantheon            = [[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| gender              = Feminine
+| died                = [[1358 DR]] (apparently)
+| dominion            = 
+| formerdominion      = 
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = Limbo
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = [[Illusion]]s, disguises, deception
+| domains5eR          = 
+| worshipers5eR       = Actors, con artists, [[Illusionist]]s, [[Rogue]]s
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,112">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,112}}</ref>
+| power5e             = [[Deity]]
+| alignment5e         = [[Chaotic neutral]]
+| symbol5e            = Point-down triangle containing a swirl of mist
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = [[Illusion]], deception
+| domains5e           = [[Trickery domain|Trickery]]
+| worshipers5e        = [[Illusionist]]s, liars, [[con artist]]s
+
+| channel divinity5e  = ''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,32">{{Cite book/Sword Coast Adventurer's Guide|21,32}}</ref><ref name="PHB5e-p62-63,294">{{Cite book/Player's Handbook 5th edition|62-63,294}}</ref>
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = [[Dead power]]
+| alignment3e         = [[Chaotic neutral]]
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Deception, illusion<ref name="LEoF-p42" />
+| domains3e           = [[Charm domain|Charm]], [[Illusion domain|Illusion]], [[Spell domain|Spell]], [[Trickery domain|Trickery]]
+| worshipers3e        = [[Illusion]]ists, liars
+| cleric alignments3e = 
+| favored weapon3e    = [[Dagger]]
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="LEoF-p42">{{Cite book/Lost Empires of Faerûn|41,42}}</ref>
+| power2e             = [[Lesser deity]], presumed dead
+| alignment2e         = [[Chaotic neutral]]
+| symbol2e            = A cloudy gray triangle of mist, point downward
+| homeplane2e         = [[Limbo]]
+| realm2e             = The [[Courts of Illusion]]
+| serves2e            = 
+| servedby2e          = [[Gerron]]
+| portfolio2e         = Deception, illusion
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Charm sphere|Charm]], [[Creation sphere|Creation]], [[Divination sphere|Divination]], [[Healing sphere|Healing]], [[Protection sphere|Protection]], [[Summoning sphere|Summoning]], [[Time sphere|Time]], [[Weather sphere|Weather]], <small>'''minor:'''</small> [[Chaos sphere|Chaos]], [[Combat sphere|Combat]], [[Elemental sphere|Elemental]], [[Guardian sphere|Guardian]], [[Necromantic sphere|Necromantic]]
+| worshipers2e        = [[Illusionist]]s, liars
+| cleric alignments2e = {{Alignment grid | off | off | on | on | on | on | off | off | on }}
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Cleric]]|16|[[Illusionist]]|30|[[Wizard]]|22|[[Thief]]|10}}
+| refs2e              = <ref name="FA-93-96">{{Cite book/Faiths and Avatars|93-96}}</ref><ref name="OHG-182">{{Cite book/On Hallowed Ground|182}}</ref>
+| power1e             = [[Demigod]]
+| alignment1e         = [[Chaotic neutral]]
+| symbol1e            = A swirling gray triangle, point downward
+| homeplane1e         = [[Limbo]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Deception, illusion
+| worshipers1e        = [[Illusionist]]s
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-11-12">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|11-12}}</ref>
+| church              = yes
+}}
+'''Leira''' ({{Pronounce|LAIR|ah|audio=Leira.ogg|refs=<ref name="CotR-11-12" />}} {{Pronounce|LAIR|uh|refs=<ref name="FaA-93">{{Cite book/Faiths & Avatars|93}}</ref>|alt=yes}}), also known as '''Lady of Deception''' or the '''Lady of Mists''', was the goddess of deception and [[illusion]]s and patroness of [[illusionist]]s and liars.<ref name="LEoF-p42" /><ref name="SCAG5e-p21,32" />
+{{quote
+|Leira is the Goddess of Deception, this wouldn’t be the first time she obscured her whereabouts from us, simply to prove her power to hide outstrips our ability and patience to seek.
+|[[Oghma]], god of knowledge and long-time enemy of Leira<ref name="PoL3">{{Cite book/Prince of Lies|chapter=3}}</ref><ref name ="FAP54" />
+}}
+
+==Personality==
+She was an enigma, never telling the truth when falsehood would do. Everything she did and said was shrouded in layers of illusion and lies.<ref name="FA-93-96" />
+
+==Divine Realm==
+Leira maintained a [[divine realm]] called the [[Courts of Illusion]] on the chaotic plane of [[Limbo]]. After her apparent demise, her body was thought to be adrift on the [[Astral Plane]], like those of other dead powers.<ref name="FaA-93"/>
+
+==Worshipers==
+Leira had quite a small following. Her priests, known as Leirans, or Worshipers of the Mistshadow, wore silver [[mask (object)|masks]] and often disguised themselves to deceive those around them. Leirans would speak the truth only to other Leirans. High-level [[cleric]]s of the Leiran faith were called Mistcallers.<ref name="FA-94-95">{{Cite book/Faiths & Avatars|94-95}}</ref>
+
+Every morning, and on every moonlit night, Leirans lay face down and prayed to the Lady of the Mists. If there was any mist, Leirans would walk through it and pray. The most revered act in the Leiran faith was the ''"Unmasking"'', a purification ritual performed when new followers entered the faith or if a follower changed rank. During the ritual, the follower would walk barefaced among its peers while the clergy would hold up candles and reflective surfaces.<ref name="FA-94-95" />
+
+The faith of Leira was the state religion on the island of [[Nimbral]]<ref name="TRoN-5">{{Cite web/Realmslore/The Realm of Nimbral, Part Five: Laws and Heralds}}</ref><ref name="TRoN-6">{{Cite web/Realmslore/The Realm of Nimbral, Part Six: Of Heralds and of the Nimbrese Character}}</ref><ref>{{Cite book/Champions of Valor|85}}</ref> and its vassal state [[Samarach]].<ref name="SK-p116">{{Cite book/Serpent Kingdoms|116}}</ref> When the people of Nimbral rebelled against the influence of Leira's clergy following her apparent death in the Time of Troubles,and banned state religions,<ref name="TRoN-5" /><ref name="TRoN-6" /> the Leiran priests fled to Samarach and continued to hold sway there.<ref name="SK-p116" />
+
+Not widely worshiped, the majority of her worshipers were users of [[illusion]] magic. While Leira may have had few dedicated followers, a worshiper of the [[Faerûnian pantheon]] often would pay homage to her before an important decision or judgment.<ref name="LEoF-p42"/>
+
+===Orders===
+;[[Mistcaller]]s: 
+: Specialty priests of Leira with limited powers of illusion, the Mistcallers were the clerical order most commonly associated with the church, though no one could be sure how many there were.<ref name="FA-94-95" />
+
+;[[Mistwalker]]s: 
+: A sect of the church first appearing after the [[Time of Troubles]], the [[Mistcaller]]s continued to display the ability to cast divine magic, but were purposefully ambiguous about the "alleged" death of their goddess and whether their magic was granted by a living Leira or by Cyric.<ref name="WPotR-p87">{{Cite book/Warriors and Priests of the Realms|87}}</ref>
+
+==Relationships==
+Leira's allies were [[Mask]], who betrayed her, and [[Azuth]]. Though she had no enemies,<ref name="FaA-93" /> she was opposed by [[Oghma]], as her lies were a hindrance to knowledge.<ref name ="FAP54">{{Cite book/Faiths and Pantheons|54}}</ref>
+
+==History==
+Months after the [[Time of Troubles|Avatar Crisis]],<ref name="TGHotR-144">{{Cite book/The Grand History of the Realms|144}}</ref> Leira was slain by the new deity of death, [[Cyric]],<ref name="LEoF-p42"/> at the village [[Blackfeather Bridge]],<ref name="FRCS-130">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|130}}</ref> wielding the sword ''[[Godsbane]]'', which was in fact an avatar of Mask.<ref name="LEoF-p42"/> Her portfolios were subsequently absorbed by the mad god.<ref name="FaA-93" />
+
+Upon her death, her godly power erupted in a blast that reached her places of worship all across [[Faerûn]]. Motes of her divinity coalesced into incorporeal beings known as [[Glamer (outsider)|glamers]].<ref name="DrM.299">{{Cite dragon/299/The Dragon's Bestiary}}</ref>
+
+Some still believed Leira was alive and that she had used her death as a grand illusion, but the general consensus was that she was a dead power.<ref name="FaA-93-94>{{Cite book/Faiths & Avatars|93-94}}</ref> Leiran traditionalists on [[Nimbral]] who believed her to be alive in fact gained spells from Cyric.<ref name="SS-11">{{Cite book/Shining South|11}}</ref>
+
+By the late 15{{th}} century [[DR]], it became known that Leira was in fact alive and delighted in the confusion created by rumors of her demise and return. At this time, the faithful of Cyric also considered her to be his daughter.<ref name="SCAG5e-p21,32" />
+
+==Appendix==
+===Notes===
+In the ''[[Player's Handbook 5th edition]]'', Leira is listed in the "Deities of the Forgotten Realms" table, suggesting she is officially considered alive once more in the 5{{th}} edition of the setting.
+
+===Gallery===
+<gallery>
+Priest of Leira.png|''A male priest of Leira.''
+</gallery>
+
+===References===
+{{refs}}
+[[de:Leira]]
+[[Category:Chaotic neutral deities]]
+[[Category:Deception domain deities]]
+[[Category:Illusion domain deities]]
+[[Category:Mist domain deities]]
+[[Category:Shadow domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Human deities]]
+[[Category:Lesser deities]]
+[[Category:Trickery domain deities]]
+[[Category:Inhabitants of Limbo]]
+[[Category:Inhabitants of the Astral Plane]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Courts of Illusion]]
+[[Category:Inhabitants of feminine gender]]

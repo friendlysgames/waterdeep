@@ -1,0 +1,217 @@
+WIKI PAGE: Chauntea
+
+{{Deity
+| image               = Chauntea p19-1-.jpg
+| caption             = 
+| name                = Chauntea
+| alt_spelling        = 
+| title               = The Great Mother<ref name="HoF-p104">{{Cite book/Forgotten Realms: Heroes of Faerûn|104}}</ref><ref name="SCAG5e-p21,27" /><ref name="FRCS.CotR-p10">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|10}}</ref><br /> The Grain Goddess<ref name="HoF-p104"/><ref name="SCAG5e-p21,27" /><ref name="FA-p47"/><br /> The Golden Goddess<ref name="Ne-TWoN-p37"/><br/>Goddess of Agriculture<ref name="NWNAOL">{{Cite game/Neverwinter Nights (AOL game)}}</ref><br /> Earthmother<ref name="Ne-TWoN-p37"/><br /> The Forest Mother<ref name="Ne-TWoN-p37"/><br /> She Who Shapes All<ref name="FA-p47">{{Cite book/Faiths & Avatars|47-48}}</ref><br /> Guardian of the Wilds and Deeps<ref name="Ne-TWoN-p37"/><br /> Keeper of the Wild<ref name="Ne-TWoN-p37" /><br/>Goddess of Bountiful Nature<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>The Mother of All Flowers<ref name="VGtD-p18">{{Cite book/Volo's Guide to the Dalelands|18}}</ref><br/>The Lady of the Harvest<ref name="UI-p8">{{Cite book/Under Illefarn|8}}</ref><br/>Grandmother ([[Uthgardt]])<ref name="TSF-pp11,21">{{Cite book/The Savage Frontier|11,21}}</ref>
+| adjective           = Chauntean<ref name="FA-p48">{{Cite book/Faiths & Avatars|48}}</ref>
+| aspects             = Bhalla ([[Rashemen]])<ref name="FA-p47"/><br />Chantea ([[Wa]])<ref name="KT-TERv2-p176">{{Cite book/Kara-Tur: The Eastern Realms/Volume II|176}}</ref><br />[[Earthmother]] ([[Moonshae]])<ref name="FA-p47"/><br />Jannath ([[Netheril]])<ref name="FA-p47"/><ref name="Ne-TWoN-p37">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|37}}</ref><br />Pahluruk ([[Great Glacier]])<ref name="TGG-p39">{{Cite book/The Great Glacier|39}}</ref>
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]<br/>[[Netherese pantheon]]<br/>The [[First Circle]]
+| home                = 
+| formerhomes         = 
+| gender              = Feminine
+| died                = 
+| basicrefs           = 
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Elysium]] ([[Eronia]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Agriculture
+| domains5eR          = 
+| worshipers5eR       = Farmers, gardeners, homesteaders
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,104">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,104}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral good]]
+| symbol5e            = Sheaf of grain or a blooming rose over grain
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Agriculture
+| domains5e           = [[Life domain|Life]]
+| worshipers5e        = [[Druid]]s, farmers, gardeners
+| channel divinity5e  = ''[[Preserve life]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,27">{{Cite book/Sword Coast Adventurer's Guide|21, 27}}</ref><ref name="PHB5e-p60,69,294">{{Cite book/Player's Handbook 5th edition|60, 69, 294}}</ref>
+| power4e             = 
+| alignment4e         = [[Lawful good]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = [[Green Fields]]
+| serves4e            = 
+| servedby4e          = [[Sheela Peryroyl]]
+| sphere4e            = Life
+| domains4e           = [[Earth domain|Earth]], [[Hope domain|Hope]], [[Life domain|Life]]
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Chauntea's blessing]]''
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="FRPG-132">{{Cite book/Forgotten Realms Player's Guide|132}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral good]]
+| symbol3e            = Blooming rose on a [[wreath]] of golden grain
+| homeplane3e         = [[House of Nature]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Agriculture <br /> Crops <br /> Farmers <br /> Gardeners <br /> Summer
+| domains3e           = [[Animal domain|Animal]], [[Generosity domain|Generosity]], [[Good domain|Good]], [[Plant domain|Plant]], [[Protection domain|Protection]], [[Renewal domain|Renewal]]
+| mantles3e           = {{Mantles|Good|Guardian|Life|Natural World}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Peasants and indentured servants, druids, farmers, and gardeners
+| cleric alignments3e = {{Alignment grid|on|on|on|off|on|off|off|off|off}}
+| favored weapon3e    = A shock of grain ([[scythe]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Cleric]]|20|[[Druid]]|20|[[Ranger]]|8}}
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="FP-p17">{{Cite book/Faiths and Pantheons|17}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral good]]
+| symbol2e            = 
+| homeplane2e         = [[Elysium]]/[[Eronia]]
+| realm2e             = [[Great Mother's Garden]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Agriculture <br /> Crops <br /> Farmers <br /> Gardeners <br /> Summer
+| spheres2e           = 
+| worshipers2e        = {{Alignment grid|on|on|on|on|on|on|off|off|off}}
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Druid]]|40|[[Cleric]]|20}}
+| refs2e              = <ref name="FA-p47"/><ref name="OHG-181">{{Cite book/On Hallowed Ground|181}}</ref>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Neutral good]]
+| symbol1e            = Budding flower on a [[wreath]] of golden grain, or encircled by the sun ([[Wa]])<ref name="TotS-p-11">{{Cite book/Test of the Samurai|11}}</ref>
+| homeplane1e         = [[Elysium]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Agriculture
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS.CotR-p10"/>
+| animals             = Larks<br />Robins<br />Red hens
+| plants              = Seeds
+| monsters            = [[Sprite (creature)|Sprites]]<br />Talking trees
+| minerals            = 
+| colors              = Forest green, white, yellow
+| misc manifestations = Unexpected flowers growing with great speed<br />Light motes
+| manifestation refs  = <ref name="DD&D-p10">{{Cite web enhancement/Deity Do's and Don'ts|10}}</ref>
+| church              = yes
+}}
+'''Chauntea''' ({{Pronounce|chawn|TEE|ah|audio=Chauntea.ogg|refs=<ref name="FRCS.CotR-p10"/><ref name="FP-p17" />}}) was the [[Faerûnian pantheon|Faerunian]] [[god]]dess of life and bounty, who viewed herself as the embodiment of all things agrarian. '''The Earthmother''' was seen as the tamer parallel of [[Silvanus]], the Forest Father of [[druid]]ry and wilderness, as she was the deity of agriculture and plant cultivation.<ref name="FA-p48" /><ref name="FP-p18" /><ref name="FRCG-p80"/><ref>{{Cite book/Forgotten Realms Campaign Guide|73}}</ref>
+
+{{quote
+|The Earthmother is everything, and her health is our health. She feeds us, clothes us, waters us, and shelters us. No god is greater than her, though many are noisier. No god is more forgiving, more nurturing, or more essential. Truly, Chauntea is All.
+|The creed of the [[Church of Chauntea]]<ref name="EFR-pp143-144">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|143-144}}</ref>
+}}
+==Description==
+Chauntea, when in her home realms, manifested with the appearance of a giant beautiful [[human]] woman. The Earthmother had long shiny white hair, gathered in a long braid she wrapped around her head. The length of her braid suggested the woman's great age. She had pleasant features and brown skin. Chauntea's body was lean but toned, muscled similarly to a farmer's body, shaped by hard work. She carried herself with strength and femininity. If one was to forget that they observed a deity, they could assume the beautiful woman in front of them was in her middle-age. Some described her appearance as "a rose in full bloom."<ref name="tymore9">{{Cite book/Tymora's Luck|3-4|1}}</ref>
+
+Chauntea was dressed in an unbleached [[linen]] [[tunic]] and carried a green seed pouch, slung over one shoulder. Even though she was working her divine realm's fields barefoot, with face stained with dirt, her beauty was accentuated by wildflowers and [[ivy]] weaved into the goddess' long hair. She also wore a [[girdle]] embroidered with images of various fruits.<ref name="tymore9" />
+
+==Personality==
+Chauntea was a wise and quiet goddess given to neither pomp nor paegentry.<ref name="FA-p48" /> Over the millenia she had learned the virtue of patience,<ref name="FP-p17" /> being both slow to anger and not prone to hasty action, although she sometimes took this to the point of being ponderous.<ref name="FA-p48" /><ref name="FP-p18" />
+
+This was not to be mistaken for passivity however,<ref name="FA-p48" /> for the Earthmother was a vibrant and caring goddess who loved the inhabitants of [[Toril]] and enjoyed nothing more than showing them how her world might enrich their lives.<ref name="FP-p17" /> The most recent centuries had seen Chauntea become completely enamored with them, especially humans, to the point she focused all her attention on helping them live off the land.<ref name="FP-p18" />
+
+This relationship was not one-way however, for Chauntea also preached reverence towards nature. She urged the people of civilized lands to repair that which they damage,<ref name="FP-p18" /> calling her followers to perform small acts of devotion.<ref name="FA-p48" /> Furthermore, while she would prefer diplomacy to open conflict, to bring blight to the natural world would surely evoke the fury of the Earthmother.<ref name="FP-p18" />
+
+==Divine Realm==
+In the [[Great Wheel cosmology]], Chauntea maintained her [[divine realm]] named [[Great Mother's Garden]] on [[Elysium]]'s second layer of [[Eronia]].<ref name="FA-p47"/><ref name="OHG-181">{{Cite book/On Hallowed Ground|181}}</ref> She shared it with the otherworldly god of crops Liu from the [[Wikipedia:Chinese mythology|Chinese pantheon]]<ref>{{Cite book/Legends & Lore 2nd edition|79}}</ref><ref>{{Cite book/On Hallowed Ground|152, 178}}</ref> and the [[Mystara]]n [[Mystara#Religion|Immortal]] of growth, [[Djaea]].<ref>{{Cite book/Warriors of Heaven|92}}</ref>
+
+Chauntea's realm was a representation of her dominion over the Realms. During the annual planting season, the goddess worked her realm's sprawling fields, planting handfuls of seeds in furrows and closing them with her bare feet. The goddess took her duties with intense diligence, knowing that if she was late to plant or the fields were damaged, it caused the fertility of the Realms to suffer. A churned plot of earth in one spot of the field could cause crop failure in [[Halruaa]], in another spot - scorched earth could create famine in [[Amn]]. Her realm's fields were teeming with life: insects bussed about, [[earthworm]]s filled the soil, [[robin]]s flittered about.<ref name="tymore5-6" />
+
+==Relationships==
+[[File:Gods of Nature.jpg|thumb|right|250px|''A gathering of the gods of nature: [[Mielikki]] and her unicorn, Chauntea, [[Eldath]], and [[Silvanus]].'']]
+She had strong ties with other deities concerned with nature, such as [[Shiallia]] and [[Mielikki]], and she shared a close relationship with [[Silvanus]], but that diminished over time. She was also known to have romantic affiliations with [[Lathander]].<ref name="FP-p18">{{Cite book/Faiths and Pantheons|18}}</ref><ref name="tymore5-6">{{Cite book/Tymora's Luck|5-6|1}}</ref>
+
+Her most despised enemy was [[Talona]], the Lady of Pestilence, whose disposition to wreak suffering, disease and decay upon the natural world led her to oppose her with utmost vehemence. She was always in conflict with [[Talos]]. Chauntea battled deities who sought to desecrate and expunge nature; she opposed evil deities such as [[Malar]] and [[Bane]], and viewed the latter's resurgence as portentous.<ref name="FP-p18" />
+
+==Worshipers==
+{{Main|Church of Chauntea}}
+[[File:Chauntea symbol.jpg|thumb|right|''The holy symbol of Chauntea during the 14{{th}} century DR.'']]
+[[File:Chauntea symbol - Mike Schely.jpg|thumb|right|''A holy symbol of Chauntea during the 15{{th}} century DR.'']]
+[[File:Chauntea 5eR - Clint Lockwood.webp|thumb|right|''A holy symbol of Chauntea from the turn of the 16{{th}} century DR.'']]
+Chauntea was seen by [[Faerûn]]ians as a critical aspect of the assumed cycle of life. Private land owners and destitute farmers (perhaps as a consequence of an unproductive harvest) visited the clerics of Chauntea for any divine suggestions for aiding the harvest. If at any time plague or drought struck the crops, farmers looked to Chauntea, since they hoped she would save the harvest, due to her love of nature.<ref name="FP-p17" /> Though she had a diverse collection of followers, Chauntea was fanatically worshiped by peasants, servants, druids, gardeners, and any others who earned pay from working on farmland.<ref name="FP-p17" /> Her clergy were known for ministering in rural communities, and for their willingness to work in the community's fields next to the local farmers.<ref name="SCAG-p27">{{Cite book/Sword Coast Adventurer's Guide|27}}</ref>
+
+Chauntea was one of the main deities worshiped in [[Rashemen]], where she was known as Bhalla.<ref name="SB.CG-p71">{{Cite book/Spellbound/Campaign Guide|74}}</ref> In the [[Uthgardt]] tribes, Chauntea was exclusively worshiped by women, and served by female [[shaman]]s. They believed the "Grandmother" gave birth to numerous daughters from [[Uthgar]] after his ascension, which became the wives of their beast gods.<ref name="TSF-pp11,21"/>
+
+Chauntea was also worshiped in worlds other than [[Toril]], although under a different name.<ref name="PG-PoP">{{Cite web/Perilous Gateways/Portals of the Harvest Gods:The Portal of Plenty}}</ref>
+
+==Aspects==
+Before her days as the Great Mother, she was known as Jannath, the Earthmother and in her early days, she frequented places of overgrown nature, wilderness, and packs of animals. In the [[Moonshae Isles]], Chauntea was still worshiped as Jannath.<ref name="FP-p17" />
+
+In [[Rashemen]], she was worshiped as a member of the triumvirate of goddesses praised there known as [[The Three]] with [[Mielikki]] (Khelliara) and [[Mystra]] (The Hidden One). Here, she was known as "Bhalla".<ref name="Una-p-139">{{Cite book/Unapproachable East|139}}</ref>
+
+She was worshiped as Pahluruk in and around the [[Great Glacier]].<ref name="TGG-p39" />
+
+In [[Wa]], she was worshiped as "Chantea" but only by an underground sect who were viewed with distrust or outright hostility. Followers of Chantea were immediately put to death upon discovery. The [[Juzimura rebellion]] was noted as the official eradication of her religion in Wa,<ref name="TotS-p-5">{{Cite book/Test of the Samurai|5}}</ref> but there were suspected cells of underground worshipers in isolated areas.<ref name="KT-TERv2-p176" />
+
+==History==
+Chauntea was believed to be one of the eldest gods in Faerûn&mdash;she was born when Toril was created by the primeval battles between [[Shar]] and [[Selûne]]. Selûne favored her and nurtured her with her light, with the help of [[Mystryl]].<ref name="FP-p17" />
+
+Following Malar's apparent death after the [[Spellplague]], Chauntea leant her blessing to an effort by [[Argon Bael]] to revive the Beastlord in the late 15{{th}} century DR. Her motivations for willing his return remained unclear, but she indicated that her reasons were far beyond mortal conceptions of [[good]] or [[evil]].<ref name="RoS-ch3">{{Cite digital book/The Rose of Sarifal/Kindle||3,6,9}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Appearances===
+{{Appearances
+| novels = ''[[Tymora's Luck]]'';''[[The Rose of Sarifal]]''
+| novel refs = ''[[Honor Among Thieves: The Road to Neverwinter]]''
+| video game refs = ''[[Neverwinter Nights (AOL game)]]''
+}}
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Netheril deities}}
+{{Deity list}}
+[[de:Chauntea]]
+[[Category:Animal domain deities]]
+[[Category:Earth domain deities]]
+[[Category:Generosity domain deities]]
+[[Category:Good domain deities]]
+[[Category:Hope domain deities]]
+[[Category:Life domain deities]]
+[[Category:Nature deities]]
+[[Category:Plant domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Renewal domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Greater deities]]
+[[Category:Neutral good deities]]
+[[Category:Human deities]]
+[[Category:Deities]]
+[[Category:The Three]]
+[[Category:Inhabitants of Green Fields]]
+[[Category:Inhabitants of Great Mother's Garden]]
+[[Category:Inhabitants of Eronia]]
+[[Category:Inhabitants of Elysium]]
+[[Category:Inhabitants of the House of Nature]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Neutral Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants]]
+[[Category:Members of the Circle of Greater Powers]]
+[[Category:Members of the First Circle]]

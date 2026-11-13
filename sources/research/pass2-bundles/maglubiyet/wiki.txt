@@ -1,0 +1,316 @@
+WIKI PAGE: Maglubiyet
+
+{{otheruses4|Fiery-Eyes, the chief deity of goblinoids|the spell|Fiery eyes (spell)}}
+{{Deity
+| image               =
+<gallery>
+Maglubiyet4e.png|4e
+Maglubiyet-1e.jpg|1e
+</gallery>
+| caption             = A depiction of the Lord of Depths and Darkness.
+| name                = Maglubiyet
+| title               = 
+Fiery-Eyes<ref name="DF3e-p92,94">{{Cite book/Defenders of the Faith|92,94}}</ref><br/>
+The Mighty<ref name="LGOL">{{Cite web/Living Greyhawk: Official Listing of Deities for Use in the Campaign, Version 2.0}}</ref><br/>
+The Mighty One<ref name="DD1e-p94">{{Cite book/Deities & Demigods 1st edition|94}}</ref><br/>
+The Great One<ref name="VGM5e-p162">{{Cite book/Volo's Guide to Monsters|162}}</ref><br/>
+The Great Scourge<ref name="MFF">{{Cite book/Mordenkainen's Fiendish Folio, Volume 1: Monsters Malevolent and Benign|17}}</ref><br/>
+The High Chieftain<ref name="DF3e-p92,94" /><br/>
+The Battle Lord<ref name="DF3e-p92,94" /><br/>
+The Lord of Depths and Darkness<ref name="DD1e-p94" /><br/>
+The Conquering God<ref name="VGM5e-p40">{{Cite book/Volo's Guide to Monsters|40}}</ref><br/>
+All-Conquering Maglubiyet<ref name="BGIII" />
+| adjective           = Maglubiyan<ref name="FRCG-pg81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| aspects             = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Goblinoid pantheon]]<ref name="VGM5e-p44">{{Cite book/Volo's Guide to Monsters|44}}</ref>
+| home                = 
+| formerhomes         = 
+| minions             = 
+| gender              = Masculine<ref name="FRCG-pg81"/>
+| died                = 
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = [[Greater deity]]
+| alignment5e         = [[Lawful evil]]
+| symbol5e            = Bloody headsman's [[axe]]
+| homeplane5e         = [[Acheron]]
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = War
+| domains5e           = [[Order domain|Order]], [[War domain|War]]
+| worshipers5e        = [[Goblinoid]]s
+| channel divinity5e  = ''[[Guided strike]]''<br />''[[War god's blessing]]''<br />''[[Order's demand]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p63,296">{{Cite book/Player's Handbook 5th edition|63,296}}</ref><ref name="VGM5e-p46-47">{{Cite book/Volo's Guide to Monsters|46-47}}</ref><ref name="VGM5e-p48-50">{{Cite book/Volo's Guide to Monsters|48-50}}</ref><ref name="VGM5e-p52">{{Cite book/Volo's Guide to Monsters|52}}</ref><ref name="GMR5e-p25-26">{{Cite book/Guildmasters' Guide to Ravnica|25-26}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = [[Evil]]
+| symbol4e            = 
+| dominion4e          = [[Banehold]]
+| realm4e             = 
+| serves4e            = [[Bane]]
+| servedby4e          = 
+| sphere4e            = [[Goblin]]s
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-pg81">{{Cite book/Forgotten Realms Campaign Guide|81}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral Evil]]
+| symbol3e            = Bloody axe
+| homeplane3e         = [[Acheron]]/[[Avalas]]
+| realm3e             = [[Clangor]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = [[Goblin]]s, [[goblinoid]]s, leadership, rulership war
+| domains3e           =  [[Competition domain|Competition]], [[Chaos domain|Chaos]], [[Destruction domain|Destruction]], [[Evil domain|Evil]], [[Planning domain|Planning]], [[Strength domain]], [[Trickery domain|Trickery]], [[Tyranny domain]]
+| worshipers3e        = [[Goblinoid]]s
+| cleric alignments3e = {{Alignment grid|off|off|off|off|on|off|on|on|on}}
+| favored weapon3e    = ''+1 [[Mighty cleaving]] [[battleaxe]]'' or ''+1 [[Mighty cleaving]] small [[greataxe]]''<ref group="note">In p.221 of ''[[Faiths and Pantheons]]'', Maglubiyet's favored weapon is listed as a [[warhammer]]. A correction was later posted by the author in his [http://www.seankreynolds.com/rpgfiles/we/ZZZcorrectedmonsterdeitytable.html website] listing it as a battleaxe instead.</ref>
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FP3e-p221">{{Cite book/Faiths and Pantheons|221}}</ref><ref name="MP3e-p123-125">{{Cite book/Manual of the Planes 3rd edition|123-125}}</ref><ref name="DF3e-p92,94" /><ref name="MMWEHO3e-p5">{{Cite web enhancement/Hobgoblin Outpost|6}}</ref><ref name="MM3e-p134,154">{{Cite book/Monster Manual 3.5|134,154}}</ref><ref name="MM3err-p5">{{Cite web/Monster Manual v.3.5/Errata|5}}</ref><ref name="LGOL" />
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful evil]]
+| symbol2e            = Bloody [[axe]]
+| homeplane2e         = [[Acheron]]/[[Avalas]]
+| realm2e             = [[Clangor]]
+| serves2e            = 
+| servedby2e          = [[Bargrivyek]], [[Khurgorbaeyag]], [[Nomog-Geaya]]<ref name="MMyth2e-p44">{{Cite book/Monster Mythology|43-44}}</ref>
+| portfolio2e         = War, rulership
+| spheres2e           = <small>Major:</small> [[All sphere|All]], [[Combat sphere|Combat]], [[Divination sphere|Divination]], [[Healing sphere|Healing]], <small>'''reversed:'''</small> [[Sun sphere|Sun]], <small>'''reversed:''' for 4th level [[spell]]s or higher</small> [[Necromantic sphere|Necromantic]],  [[War sphere|War]]<br/><small>Minor:</small> [[Charm sphere|Charm]], [[Creation sphere|Creation]], [[Guardian sphere|Guardian]], [[Protection sphere|Protection]], [[Summoning sphere|Summoning]], [[Wards sphere|Wards]]
+| worshipers2e        = [[Goblin]]s
+| cleric alignments2e = {{Alignment grid|off|off|off|off|off|off|on|off|off}}
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Fighter]]|16|[[Cleric]]|12}}
+| refs2e              = <ref name="PL-Ach2e-p14-15">{{Cite book/Planes of Law/Acheron|14-15}}</ref><ref name="OHG2e-p176">{{Cite book/On Hallowed Ground|176}}</ref><ref name="MMyth2e-p49">{{Cite book/Monster Mythology|49-50}}</ref>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful evil]]
+| symbol1e            = Bloody axe
+| homeplane1e         = The [[Nine Hells]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = [[Goblin]]s, [[hobgoblin]]s
+| cleric alignments1e = {{Alignment grid|off|off|off|off|off|off|on|off|off}}
+| holy days1e         = 
+| class1e             = {{Class table|edition=1e|[[Cleric]]|10|[[Fighter]]|16|[[Illusionist]]|6|[[Assassin]]|10}}
+| refs1e              = <ref name="DD1e-p94" />
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  =
+| church              = yes
+}}
+'''Maglubiyet''' ({{Pronounce|ma|GLUB|i|yet|refs=<ref name="D93-APG-p28">{{Cite dragon/93/Ay pronunseeAYshun gyd|28}}</ref>}}), known as '''The Mighty One''' or '''The High Chieftain''' was the chief [[deity]] of the [[goblinoid]]s and ruler of the [[goblinoid pantheon]], lording over mortal heroes and immortal gods alike with an iron fist.<ref name="DD1e-p94" /><ref name="RF3e-p137">{{Cite book/Races of Faerûn|137}}</ref> Maglubiyet was truly the '''Conquering God''', for he took many races and deities, once and indeed still distinct in tendency, outlook, culture, and faith, and made them one, setting them marching to his beat in service to his purpose, the purpose of conquest itself. For those laid low by the infamous '''Battle Lord''', as so many others had been, there was but one choice left to make: break, or bend; die, or serve;  fall beneath his bloody axe, or bow before his iron throne.<ref name="DF3e-p92,94" /><ref name="VGM5e-p40" />
+
+{{quote
+|Praise his ever-bleedin' axe, praise his throne of flamin' iron. Praise Maglubiyet!
+|[[Brakkal]], loyalist follower of Maglubiyet<ref name="BGIII" />
+}}
+
+==Description==
+Maglubiyet appeared as a terrifying, battle-scarred {{SIrange|9|11|ft|long=yes}} tall [[goblinoid]] entity (be it a [[goblin]] or [[hobgoblin]]). He had ebony black skin, glowing red eyes from which red flames licked, flickered, sputtered, and erupted, sharp fangs, and muscular arms ending in vicious talons.<ref name="DD1e-p94" /><ref name="MMyth2e-p49" /><ref name="MM5p165">{{Cite book/Monster Manual 5th edition|165}}</ref><ref name="DADB33">{{Cite dragon/372/Deities and Demigods: Bane|33}}</ref>
+
+===Manifestations===
+Omens from Maglubiyet took the form of blood seeping from an axe's edge, unusual behavior from the [[wolves]] and [[worgs]] amid the mounts of the goblins.<ref name="MMyth2e-p49" /> He dominated his followers through visions sent to his [[shaman]]s, or sometimes the clan chieftains themselves, and might directly communicate to the goblins through the shamans through utterances spoken in trances.<ref name="MMyth2e-p49" /><ref name="OHG2e-p132">{{Cite book/On Hallowed Ground|132}}</ref> Maglubiyet's goblin acolytes also sought signs of his favor in other ways, constantly looking out for his approval in forms such as auspicious rolls of thunder or the nearby landing of a bird of prey.<ref name="MM24e131">{{Cite book/Monster Manual 2 4th edition|131}}</ref>
+
+When hobgoblins encountered other goblinoids, whether on purpose or by accident, it was viewed as a divine sign by all that Maglubiyet had called them together to do his bidding on a grand scale. When a gathered host began to fail and fall to infighting, [[bugbears]] took the disarray as a sign that Maglubiyet was no longer looking, and would soon turn on their hobgoblin leaders (taking a few of their heads as trophies) before leaving.<ref name="VGM5e-p48-50"/>
+
+==Personality==
+In many ways, Maglubiyet was a [[power]] similar to the [[orc]] god Gruumsh. For one, like Gruumsh, his [[alignment]] was difficult to define, for he was both an iron-fisted tyrant and a whimsical, capricious ruler prone to changing his mind. Both gods eternally urged their people on to conflict and strife, wishing to see war waged for their people's glory and for them to wipe out the surface races. The difference between them laid primarily in their motivation.<ref name="MMyth2e-p49" /><ref name="OHG2e-p130-132" /><ref name="DF3e-p92,94" /><ref name="CD123">{{Cite book/Complete Divine|123}}</ref><ref name="CEM">{{Cite web/theedverse/2023-10-27 - Maglubiyet}}</ref>
+
+Where Gruumsh sent his people to war primarily in the name of seizing new territory, Maglubiyet's missions of conquest and devastation were simply for the sake of the glory of war, battle and carnage itself. War and destruction were Maglubiyet's true passions, and though he tolerated no dissent between the goblins and hobgoblins that worked against their mutual expansion or survival, it fell to their specific racial gods to actually push for such things.<ref name="MMyth2e-p49" /><ref name="OHG2e-p130-132" /> Transgressions by even the devout might be punished with horrible curses until they caused enough harm to compensate for their offenses, assuming he did not consider them so severe as to simply subject the soul to eternal torture.<ref name="GL36">{{cite dungeon/1/Grakhirt's Lair|36}}</ref>
+
+Maglubiyet was a truly intimidating figure, commanding fear despite being utterly devoid of charisma even by the reckoning of goblinkind. At the same time, while not truly fearful, he was also a paranoid deity. He tolerated no infringements on his power, nor for others in his pantheon to rise to true power of their own. He was one to crush all interlopers, and such was his paranoia that he found interlopers everywhere.<ref name="MMyth2e-p49" /><ref name="OHG2e-p130-132" /><ref name="DADB33"/><ref name="DD1e-p94" />
+
+Maglubiyet was not just a suspicious deity, but also legendarily treacherous. He taught his people, if anything, to be self-serving, always looking out for themselves before anyone else. The Conquering God made them what they were in modern times, and with his "lessons" instilled, they had become as nasty, as grasping, and otherwise as "goblin-like" as their deity.<ref name="OHG2e-p130-132" /><ref name="RF3e-p137"/><ref name="VGM5e-p48-50" /><ref name= "GToN">{{cite web
+| url            = https://web.archive.org/web/20050214235214/http://www.wizards.com/default.asp?x=books/dnd/goblins
+| title          = Goblins: Threat or Nuisance?
+| accessdate     = 2026-01-03
+| author         = [[Robert Wiese]]
+| date           = 2002-22-07
+| work           = Tactics and Tips
+| publisher      = [[Wizards of the Coast]]
+| archiveurl     = 
+| archivedate    = }}</ref>
+
+==Powers==
+A powerful war god and great general, Maglubiyet created avatars of dangerous physical strength, speed, and endurance. Swinging his axe at his foes, his sweeping arcs could strike multiple enemies at once, and those who fought back could expect a vengeful slash in return. This was assuming he did not simply hack them apart with his claws, knocking them to the ground or taking them violently into his clutches. And when he was wounded, the rage he entered made him even more dangerous, if easier to strike. The god of the goblins was also known to take on the qualities of his people, such as the gritty resilience of the hobgoblins.<ref name="DADB33"/><ref name="DD1e-p94" />
+
+Besides their physical prowess, Maglubiyet's avatars possessed a host of supernatural abilities. Not only could they resist fire and easily withstand the scorch of radiant light, they could project fire as through the ''[[burning hands]]'' spell, and unleash unholy fire to weaken and blind their targets. By speaking an ''[[unholy word]]'', they could kill any significantly injured foe near them instantly, with only the mightiest of monsters and champions able to survive the mental pain. And should an avatar be slain, they would explode in a ''[[fireball]]'' of unholy vengeance, destroying those nearby with flame and psychic power.<ref name="MMyth2e-p49" /><ref name="DADB33"/>
+
+Beyond the more specific abilities, avatars of Maglubiyet, had access to all [[cleric]]al spells. They could also [[teleport]] and accelerate with the ''[[haste]]'' spell once per day, and would slow the injured down with their deathly aura, rendering them incapable of escape.<ref name="MMyth2e-p49" /><ref name="DADB33"/>
+
+===Tactics===
+Maglubiyet usually preferred to unleash fire on his enemies as he approached before chopping and shredding them when he got into melee, although he was also known to hurl the enemies he grasped at each other. Should he be surrounded by a couple of bloodied and battered foes at once, he made use of the dire power of his ''unholy word''.<ref name="DADB33"/>
+
+==Possessions==
+Maglubiyet's avatar fought with a huge, jagged axe, bloodied and black as coal, seemingly fully capable of cleaving the world itself in twain. It acted as a ''[[sword of sharpness]]'', and those it slashed continued to take damage in perpetuity.<ref name="DADB33"/><ref name="MMyth2e-p49" />
+
+==Divine Realm==
+Maglubiyet's divine realm was [[Clangor]], located in [[Avalas]], the first layer of the plane of [[Acheron]], [[Banehold]] in the [[World Axis cosmology]], and its own separate [[Fiendish planes|fiendish plane]] in the [[World Tree cosmology]]. It was a realm of endless war where victory was all that ultimately mattered, and the surest path to victory was the strength that came through order and discipline. Physically it took the form of a cold, iron cube, thoroughly tunneled and colonized where there was not a pitted, rusted desert. At the end of each day, the blood-red sunset would herald the magical revival of all who died fighting on the fields of battle.<ref name="MP3e-p123-125" /><ref name="FRCG-pg81" /><ref name="PL-Ach2e-p14-15" /><ref name="PGF3e-p147-148">{{Cite book/Player's Guide to Faerûn|147-148}}</ref>
+
+The primary cube face of Clangor was completely encircled by the wide, fast-moving River Lorfang. The river welled up from a spring before traveling a few miles to circle the realm, and then plunged back into the cube not far from where it rose out. Maglubiyet, Lord of Depths and Darkness, was said to live at the bottom of the plummeting waterfall where the river ended, ruling from his throne of flaming iron in a magnificently carved steel cavern that dripped with moisture. Great sacrifices were offered to him there from the top of the waterfall before every major campaign, usually against the orcs of [[Nishrek]].<ref name="PL-Ach2e-p14-15" /><ref name="MP3e-p123-125" /><ref name="TGMMp116-117">{{Cite book/The Great Modron March|116-117}}</ref><ref name="OHG-130">{{Cite book/On Hallowed Ground|130}}</ref>
+
+Clangor also contained the temple-city and capital fortress of Maglubiyet known as Grashmog, the Heart of Battle. About a day's march away from the main goblin city of [[Clangor#Shetring|Shetring]], it was located within the interior of the Lorfang's circle, and usually far from the lines of battle. In this respect, Grashmog was surprisingly an escape from war, a quiet, unwalled, warrior's retreat and sacred place of Maglubiyet's mysteries, occupied mainly with temples, monuments, and places holy or important to the goblin god. Regardless, war still loomed in Grashmog; it served as a training camp for the elite forces of the goblin and hobgoblin army, and its clerics advised generals on upcoming battles, ruling behind every great legion.<ref name="TGMMp116-117" /><ref name="PGF3e-p147-148"/><ref name="PL-Ach2e-p14-15" />
+
+==Activities==
+From his plane he called home, Maglubiyet commanded innumerable goblinoid legions, marshaling his infamous "Army of Immortals" against the slavering orc hordes in a mythic contest that had pitted the races against each other since time immemorial. The shamans of the goblins and hobgoblins claimed that Maglubiyet always won the battles of this eternal war, but the lack of permanent death in the plane allowed the enemy to always reform. In truth, both sides endlessly tried to wipe each other's troops out, but the battle was futile, neither side able to gain the upper hand.<ref name="MM5Rp142">{{Cite book/Monster Manual 5th edition (revised)|142}}</ref><ref name="DD1e-p94" /><ref name="HTBWp69">{{Cite book/Hellbound: The Blood War/The Dark of the War|69}}</ref><ref name="PCS49">{{Cite book/Planescape Campaign Setting/A DM Guide to the Planes|49}}</ref>
+
+Both Maglubiyet and Gruumsh had to commit the bulk of their troops to the fight against each other, only able to redirect if the other let up, which would be quickly followed by the same laxing faction taking advantage of the lull to press hard against their opponent. All troops sent elsewhere, such as to aid the [[baatezu]] in the [[Blood War]], had to be ready to return home at a moment's notice to resume the principal fight. What aid Maglubiyet did lend to the devils, to look good to their leaders and anger the orcs, was subtle by the standards of the [[Dark Eight]] and exceedingly precise, every move and action worked covertly through proxies and his minions, with a carefully laid spy network streaming rumors back home.<ref name="HTBWp69"/><ref name="D75">{{Cite dragon/75/The Nine Hells|17}}</ref>
+
+To say that Maglubiyet and Gruumsh were locked in battle was an accurate reflection of the true nature of their situation.<ref name="D75">{{Cite dragon/75/The Nine Hells|17}}</ref> For all his love of war, Maglubiyet's bid to dominate the orcs had left him forced to spend much of time dealing with the unending conflict. Unlike Gruumsh, Maglubiyet had no capable second-rank [[Category:Intermediate deities|intermediate gods]] to command his troops in his absence. Much to the contrary, he also had to eternally watched over the weaker gods to ensure they didn't conspire to overthrow him. So fearful was he of extending any of his strength away from his dismal base of power that he dispatched [[avatar]]s only infrequently, when enough [[dwarves]] or [[gnomes]] (the primary enemies and competitors of the goblins) were away from their homes that there was potential for significant decimation.<ref name="MM5Rp142"/><ref name="MMyth2e-p49"/>
+
+It was for this reason that Maglubiyet's [[priest]]s and [[shaman]]s were of such major importance to him, important enough that he communicated with them fairly often. They were the vital tools for his purposes on the [[Prime Material plane]], for they had major influence on the goblin tribes. Maglubiyet demanded sacrifices from the priesthood, who taught that such things gave life-energy that Maglubiyet would then consume and use in his sacred war against the treacherous orc spirits.<ref name="MMyth2e-p49"/>
+
+[[M'Khiin Grubdoubler]], a goblin shaman, claimed that Maglubiyet ate whole cows.<ref>Baldur's Gate, Siege of Dragonspear</ref>
+
+==Relationships==
+
+===Goblinoid Pantheon===
+Maglubiyet was the head of the [[goblinoid]] pantheon, ruling all others gods of his people with an iron fist. The pantheon was smaller and more divided than that of Gruumsh, with most local goblin pantheons consisting of a number of minor gods, demigods and lesser gods. Maglubiyet allowed them to wield only a certain degree of considerable strength, and any who seemed to be gaining power past that point, or who merely threatened to become powerful enough to contend with him, he crushed, destroying the potential challenge before it emerged. Thus did the remaining gods of the goblinoids bow to the wishes of Maglubiyet, content to fulfill their roles and afraid to even think of revolt.<ref name="DD1e-p94" /><ref name="MMyth2e-p44" /><ref name="MMyth2e-p49"/><ref name="ohg-p130">{{Cite book/On Hallowed Ground|130}}</ref>
+
+Ruling over both goblins and hobgoblins, Maglubiyet allowed other pantheon members to focus on one race or the other, leaving them to push for things like their survival or expansion. It was in his knowledge that each of the goblin races needed specific patron deities - totems of a sort - that Maglubiyet allowed Khurgorbaeyag and Nomog-Geaya to exist, if not to grow or strengthen, and through long eons both gods had learned to bow before the flaming iron throne from which Maglubiyet rules.<ref name="ohg-p130" /><ref name="ohg-p132"/><ref name="MMyth2e-p44" /> 
+
+Maglubiyet relationships with the other major goblinoid gods could arguably be portrayed as patriarchal, with Nomog-Geaya being the upstanding eldest son, Hruggek the younger one that went their own way, and Khurgorbaeyag the perpetually inept. The lieutenants Khurgorbaeyag and Nomog-Geaya remained fierce rivals for the attention of the Almighty One.<ref name="PoL.A-p8">{{Cite book/Planes of Law/Acheron|8}}</ref><ref name="PoL.A-p14" >{{Cite book/Planes of Law/Acheron|14}}</ref><ref name= "TLG">{{cite web
+| url = https://web.archive.org/web/20131021043328/http://www.wizards.com/DnD/Article.aspx?x=dnd/4wand/20131016
+| title = The Little Guys
+| accessdate = 2026-03-24
+| author = [[James Wyatt]]
+| date = 2013-10-16
+| work = Wandering Monsters
+| publisher = [[Wizards of the Coast]]
+| archiveurl =
+| archivedate = }}</ref> To maintain cohesion between the species under his command, possibly because of the seemingly pointless war against Gruumsh he drives them to fight, Maglubiyet also allowed the demigod [[Bargrivyek]] to mediate some of the disputes between goblins and hobgoblins, giving the goblinoid pantheon a mediator deity role unknown to the orcs.<ref name="MMyth2e-p44" />
+
+Maglubiyet forced the sadistic Nomog-Geaya to fall in line, and in doing so acquired a very valuable asset. Nomog-Geaya was likely second in personal power only to Maglubiyet, yet too weak to be a threat, and one of the finest military commanders in the planes, speaking only if he must. In fact, although Maglubiyet would never believe it, Nomog-Geaya did not even wish to supplant Maglubiyet, knowing too well his place and the fact he was not qualified for the work of a [[greater god]].<ref name="MMyth2e-p49"/><ref name="ohg-p132"/><ref name="VGM5e-p40" /><ref name="THpg26-30">{{Cite dragon/63/The humanoids|26-30}}</ref>
+
+Bargrivyek leapt to Maglubiyet's commands as quick as possible, doing nothing that might infuriate him. <ref name="ohg-p132">{{Cite book/On Hallowed Ground|132}}</ref> He could be seen as both a goblin and hobgoblin, and while he maintained fair relations with Khurgorbaeyag, Nomog-Geaya saw the Peacekeeper as a weakling and could barely control his hatred for him. In hobgoblin stories, Bargrivyek served as Nomog-Geaya's second-in-command, and while Nomog-Geaya would have preferred to fill the position with someone more like himself, Bargrivyek was all he was left with after Maglubiyet's conquest. Yet, Maglubiyet allowed both of them to retain some of their influence because their philosophies aligned with his own, and Nomog-Geaya knew that to smite Bargrivyek would invite his master's wrath, something he wasn't ready for, not yet at least.<ref name="VGM5e-p46-47" /><ref name="ohg-p132"/><ref name="MMyth2e-p51">{{Cite book/Monster Mythology|51}}</ref> 
+
+Maglubiyet put his foot on Khurgorbaeyag's neck, but left the cruel god alive to serve as a harsh overseer to keep the goblins under his heel. Khurgorbaeyag was actually the trusted lieutenant of Maglubiyet, or at least as trusted a lieutenant as any deity could be. In truth, Maglubiyet had no trusted lieutenant, and felt this lack keenly.<ref name="VGM5e-p40" /><ref name="MMyth2e-p49"/><ref name="FRCS2E">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|64}}</ref><ref name="VGM5e-p182">{{Cite book/Volo's Guide to Monsters|182}}</ref> Khurgorbaeyag was loyal,<ref name="PoL.A-p8"/> bowing only to Maglubiyet, but obeyed him mainly because he had seen what happened to those who got too assertive. In his secret heart, he planned ways to depose the tyrant, remaining as loyal as possible until he concocts a foolproof plot. His rivalry with Nomog-Geaya stemmed in part from his knowledge that the most successful servitor species was most likely to curry favor with Maglubiyet, and he was determined to have his goblins climb to the top of the heap.<ref name="ohg-p132"/>
+
+Though Maglubiyet intended only to leave Khurgorbaeyag alive, a trickster god of the original goblin pantheon was determined to get the last laugh. Maglubiyet shattered its essence, but the god survived in splintered form as a possessing spirit. When goblinoids formed a host, such spirits arose to cause disorder and fear in the ranks of the hobgoblins and bugbears unless it was appeased. Goblins had no name for the deity and dared not name it lest Maglubiyet use its name to ensnare and crush it, instead calling the spirit and those it possessed [[nilbog]]s.<ref name="VGM5e-p182"/> 
+
+Maglubiyet bound the will of intractable Hruggek,<ref name="VGM5e-p40" /> yet the god of the bugbears remained greatly independent. Maglubiyet forced him to submit but showed him mercy and a degree of honor by mostly setting him free, if still under his control, and did the same for his brother Grankhul.<ref name="VGM5e-p44" /> As such, Hruggek's place in the Battle Lord's wars was that of a mighty hero, going out to fight his own personal battles and settle his own personal grudges. Yet, despite having no true respect for Maglubiyet's authority, Hruggek got the job done, and so Maglubiyet didn't rein him in, perhaps to his detriment.<ref name= "TLG" />
+
+Bugbears were an opportunistic race, and Hruggek had no special enmities with other deities over past slights, remaining happy to go for the head of any creature, including goblinoids. Hruggek actively kept the goblins divided to prevent them competing with the bugbears, quietly urging Khurgorbaeyag to act against Maglubiyet, usually flattering his ego and commenting on how his plans were sound while Maglubiyet's were small-minded, while stirring up Maglubiyet against Bargrivyek.<ref name="MMyth2e-p52">{{Cite book/Monster Mythology|52}}</ref>
+
+Maglubiyet used to have a pair of sons as lieutenants, but such was the very nature of goblin life that he decided he could not trust them, and so he disposed of them by sending them on disastrous assaults against the orcs and dwarves. So it was that the Conquering God later wished he had servants he could trust to go on important missions.<ref name="ohg-p132"/>
+
+Maglubiyet coveted the fertility portfolio of [[Kikanuti]], the [[good]]-[[alignment|aligned]] [[goblinoid]] goddess of the desert goblins known as [[bhuka]], so that he could extend his dominion. Kikanuti meanwhile considered Maglubiyet her sworn enemy, an enslaver of his people who kept them beneath the earth and blind to the full joy of living.<ref name="SS3e-p46">{{Cite book/Sandstorm: Mastering the Perils of Fire and Sand|46}}</ref>
+
+===Other Gods===
+Maglubiyet had few friends beyond his own pantheon, isolation he attributed to the demands of his station, though in truth, there were other gods of his power and status not so shunned.<ref name="ohg-p132"/>
+
+Maglubiyet had fought against Gruumsh for a time beyond reckoning, the reason for their persistence in the futile struggle largely unknown. Some believed it was to sharpen their skills in war, to test out strategies for other battles, or that it was simple envy and malice. In truth, both gods had their own reasons. To Gruumsh, the conflict was an opportunity, a chance to put his people against an eager enemy, thus allowing them to prove their worth to him and his pantheon. For Maglubiyet meanwhile, the war was a bid for the Conquering God to dominate yet another pantheon, to bring the Tribe of He Who Watches to heel as he had so many others.<ref name="MMyth2e-p44" /><ref name="VGM5e-p48-50" /><ref name="VGM5e-p82">{{Cite book/Volo's Guide to Monsters|82}}</ref>
+
+Notably, Gruumsh's wife Luthic, goddess of home, fertility and wisdom, took a longer view of the war in Acheron. She understood the cosmic implications of Maglubiyet's offensive and so urged her children to reproduce rapidly and teach their offspring the ways of battle in part to keep Maglubiyet at bay. The [[archmage]] [[Tzunk]] noted that Maglubiyet had never faced a foe as ferociously protective as the Cave Mother of the orcs, a goddess who would not hesitate to take to the field herself and claw Maglubiyet's eyes from his face to prevent him stealing her children from her. Tzunk predicted the war between orcs and goblinoids would end with Luthic triumphant, ascending to rule her warrior children as the only survivor.<ref name="VGM5e-p82">{{Cite book/Volo's Guide to Monsters|82}}</ref>
+
+The kobold god [[Kurtulmak]] was reluctant to oppose other goblinoid gods as a rule, but he especially feared Maglubiyet.<ref name="MMyth2e-p54">{{Cite book/Monster Mythology|54}}</ref> Though many demihuman deities opposed the goblinkin pantheon, [[Moradin]] was noted to loathe Maglubiyet more specifically.<ref name="DD78">{{Cite book/Demihuman Deities|78}}</ref> [[Lei Kung]] of the [[Celestial Empire]] pantheon, being the only god in Acheron whose realm was not devoted to war, obtained many converts from those fleeing the wars between Maglubiyet and Gruumsh.<ref name="PoL.A-p8">{{Cite book/Planes of Law/Acheron|8}}</ref>
+
+===Others===
+When it came to the [[Blood War]], Maglubiyet would, when willing and able, help the baatezu. The denizens of both the Hells and the Abyss were only too happy to have their war overlap with his and enjoyed serving as advisors to all sides, but it was a handful of baatezu advisors that Maglubiyet retained, including his [[cornugon]] [[proxy]] Rostorhan, even if he was always wary of infernal treachery. That said, Maglubiyet didn't really care if the baatezu won the Blood War, or really who won at all, figuring that the victors would eventually seek to conquer Acheron and that he would have eventually fight them regardless.<ref name="HTBWp69"/><ref name="PGF3e-p147-148"/><ref name="OHG2e-p130-132">{{Cite book/On Hallowed Ground|130-132}}</ref>
+
+Acheron was also home to a war-like race known as the [[bladeling]]s, who despite usually dwelling in isolation on the fourth layer of [[Ocanthus]] occasionally ventured elsewhere and occasionally made war amongst the cubes. Bladeling mercenaries were welcome additions to the armies of Maglubiyet and eagerly recruited, and the goblin god also sometimes found use for the creatures on the Material Plane, assigning them to serve as elite warriors in the hobgoblin tribes he favored.<ref name="308EHp56">{{Cite dragon/309/Ecology of Hobgoblins|56}}</ref>
+
+==Worshipers==
+:{{Main|Church of Maglubiyet}}
+{{Fq
+| width  = 275px
+| source = Advisor [[Balthazar (necromancer)|Balthazar]]<ref name="BGIII" />
+| text   = The key to recruiting a tribe of goblins is their profound respect for their priests, who lead the tribe members in the worship of the All-Conquering Maglubiyet.
+}}
+
+Maglubiyet claimed to be the god of goblins, hobgoblins and bugbears, and was considered the god of goblinoids broadly. Specific subspecies and tribes all feared and served him, but their interpretations of him and method of servitude varied.<ref name="VGM5e-p48-50" /><ref name="MM5p165" /><ref name="MM5Rp142"/>
+
+When Maglubiyet conquered the gods of the hobgoblins, he took the race firmly in hand, and from him they learned discipline, and thus they became the natural leaders among the goblinoids. Most hobgoblins revered Maglubiyet and did not fear dying, instead relishing the opportunity to join his Army of Immortals and gain greater glory in his name, for his thirst for conquest matched their own/<ref name="VGM5e-p48-50"/><ref name= "TLG" /><ref name="MM3e-p134,154" /><ref name="MM5p186">{{Cite book/Monster Manual 5th edition|186}}</ref><ref name="MM5Rp170">{{Cite book/Monster Manual 5th edition (revised)|170}}</ref>
+
+When Maglubiyet conquered the goblins, he taught them to fear his cruelty, and showed them how easily dominated their race was. This in turn led them to dominate others in their impotent frustration at their situation. By contrast to the hobgoblins, goblins worshiped Maglubiyet out of fear, their dread at the prospect of serving under his and the hobgoblin's eternal tyranny causing them to absolutely fear death. Once forced to join a war host, they had no choice but to resign themselves to their possible fate even more, further reducing their mercy, but not completing destroying their will to keep on surviving.<ref name="VGM5e-p48-50" /><ref name="VGM5e-p40" /><ref name="MM5p165" /><ref name= "TLG" />
+
+When Maglubiyet conquered the bugbears, he taught them the benefits of cold, brutal practicality. Bugbears did not worship Maglubiyet directly, but acknowledged that by worshiping their own brother gods that they were indirectly paying homage to the brothers' overlord as well. They were largely indifferent to the prospect of joining Maglubiyet's Army of Immortals in the afterlife, seeing it as more of the same for them, but accepted service only grudgingly, and often went so far as to demand bribes of loot, drink, or holy severed heads before aiding the cause of the Conquering God.<ref name="VGM5e-p48-50" /><ref name="VGM5e-p44"/><ref name= "TLG" />
+
+===Dogma===
+Goblinoids were indoctrinated in their youth to believe that Maglubiyet and his servants were the only true gods, and that the world would be wracked with chaos and despair until all other lesser, false deities had been conquered. As a result, goblinoids hated enemy [[cleric]]s, and though they might accept conversions to Maglubiyet worship or spare the followers of "harmless" gods, in the end, no false god could be allowed to stand.<ref name="VGM5e-p48-50"/>
+
+In truth, Maglubiyet desired the destruction of the surface races, craving the glory of war and slaughter for its own sake. He drove his servants to destroy the dwarves and gnomes who were their primary competition, urging his followers to overbreed so the competition could be overrun with superior numbers. The war in Acheron was framed as a sacred battle against the treacherous spirits of the orcs, but Maglubiyet was legendarily treacherous himself and also taught his people to overwhelm them through trickery.<ref name="MM3e-p134,154"/><ref name= "GToN"/><ref name="MMyth2e-p49" /><ref name="RF3e-p136">{{Cite book/Races of Faerûn|136}}</ref>
+
+When different goblinoid species encountered each other, it was seen as a sign that Maglubiyet was calling for a host, where every one of them would be given the opportunity to prove themselves in battle and earn their place in his "Army of Immortals" once they reached the afterlife. Once assembled and ready, a host went off in pursuit of ever-greater glory for Maglubiyet, kept on the move by their leaders.<ref name="VGM5e-p40"/><ref name="VGM5e-p48-50"/><ref name= "TLG" />
+
+===Rituals===
+Maglubiyet demanded that his priests regularly sacrificed souls to him, which they taught he consumed the life energy from to use in his war against the orcs. Ideal subjects were captured dwarves and/or gnomes, then any other [[demihumans]] or [[humans]], and failing these other goblinoids, and even hapless junior members of the cult. Once each month, usually on nights of a new moon, the victims would be ceremonially beheaded with his holy weapon, the [[battleaxe]], and the shamans would sacrifice their still-living hearts. Regular sacrifices were needed for shamans to maintain their abilities, and the sacrifice of a warrior bested by the shaman for them to grow more powerful.<ref name="DD1e-p94" /><ref name="DF3e-p92,94" /><ref name="MMyth2e-p49"/><ref name="DD1e-p141">{{Cite book/Deities & Demigods 1st edition|141}}</ref><ref name="D141OTS">{{Cite dragon/141/Orcs Throw Spells, Too!|28}}</ref><ref name="EETSatGMp12-13">{{Cite book/Elminster's Ecologies/The Stonelands and the Goblin Marches|12-13}}</ref>
+
+===Temples===
+The holy symbol of Maglubiyet was the headsman's axe, and the block was where it was fed, blessed with the lifeblood of conquered foes and neglectful goblinoids. Near the block of Maglubiyet would stand a post or rack with various weapons representing the symbols of the goblinoid pantheon, placed in order of rank with the axe at the top. This was then followed by [[Nomog-Geaya]]'s [[sword]] and [[handaxe]], [[Bargrivyek]]'s white-tipped [[flail]], and at the bottom, often touching the ground, the red-and-yellow [[whip]] of Khurgorbaeyag. Notably absent were weapons symbolizing the bugbear gods, which were instead represented by severed heads hanging in bunches around the block or impaled upon spikes with their eyelids removed and mouths open, honoring [[Hruggek]] and [[Grankhul]]'s separate but subordinate positions in Maglubiyet's rule.<ref name="VGM5e-p52"/> 
+
+===Notable Worshipers===
+* [[Brakkal]], a devoted goblin follower who incurred the wrath of [[the Absolute]].<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>
+* [[Doomcrown]], a hobgoblin devotee of Maglubiyet who envisioned the brutal tyranny of the [[fire giant]]s sweeping across [[Faerûn]] and their ascension to the top of the [[Ordning]]. He dreamt of ruling the remnants of the [[High Forest]] once the trees were reduced to burnt spines and the forest-dwellers were eradicated.<ref name="WDMM5e-p179">{{Cite book/Waterdeep: Dungeon of the Mad Mage|179}}</ref>
+* [[Magalvahg]], a [[hobgoblin]] [[cleric]] of Maglubiyet from [[Doomspire]] village in the [[Dragondoom]] mountain.<ref name="SM14">{{Cite book/Silver Marches|14}}</ref>
+* The [[Malauthar]], a collective of seven powerful priests who ruled the goblin kingdom of [[Malauth]], the most central and sinister of its kind on the slopes of the [[Rauvin Mountains]]. The Malauthar loved to concoct new mystic rituals, guiding the kingdom in observance of the "true signs" of Maglubiyet; suspicion had been growing for years that the signs were invented on a whim.<ref name="SM18">{{Cite book/Silver Marches|18}}</ref>
+* [[Skaran Bendbone]], a hobgoblin woman who served as one of Maglubiyet's powerful [[proxies]].<ref name="ohg-p132"/>
+
+==History==
+===The Conquering God===
+Maglubiyet's origins were unclear, but despite what certain goblinoid myths might imply, he was not the divine creator nor ancestor of the goblinoids. The goblinoid peoples, even if many had forgotten, first appeared in the Feywild millenia ago, tracing their origin to ancient Feywild courts where they first appeared together. Early goblins were a subterranean folk known to serve in the court of the Queen of Air and Darkness, while early bugbears resided in the hidden, hard-to-reach, shadowed spaces.<ref name="MPMotMp153">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|153}}</ref><ref name="308EHp52">{{Cite dragon/309/Ecology of Hobgoblins|52}}</ref><ref name="MPMotMp8">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|8}}</ref><ref name="MPMotMp20">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|20}}</ref><ref name="MPMotMp23">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|23}}</ref><ref name="D41MtM">{{Cite dragon+/41/Migrating the Multiverse}}</ref> Though related, their species were more distinct, with separate faiths and different customs. Then came Maglubiyet,<ref name="VGM5e-p40" /> who in that distant time witnessed the destructive propensity of goblinoids, from the reckless ruination of the goblins to the expansionist nature of the hobgoblins to the lurking menace of the bugbears, and determined that he would harness their talents.<ref name="MM5Rpg62">{{Cite book/Monster Manual 5th edition (revised)|62}}</ref><ref name="MM5Rpg142">{{Cite book/Monster Manual 5th edition (revised)|142}}</ref><ref name="MM5Rpg170">{{Cite book/Monster Manual 5th edition (revised)|170}}</ref>
+
+The [[norker]]s were believed to be Maglubiyet's first conquest and initial, unwilling recruits in his bloody crusade. In ancient days they were found deep within the earth, kept there by a long-lost tyrant god who kept his children close and the outside world far. The notion that the norkers, lazy and untamed as the hobgoblins perceived them, had the honor of being Maglubiyet's first followers made hobgoblins chafe and left them loathe to utilize them as more than laborers.<ref name="MFF" /> There were also folktales of questionable reliability suggesting that [[banderhobb]]s were the first goblins or the elite soldiers of Maglubiyet.<ref name="DM195-p6">{{Cite dungeon/195/The Ecology of the Banderhobb|6}}</ref> On it went until Maglubiyet conquered the gods and peoples before him and united the goblinoids under his tyrannical rule, destroying what they once were.<ref name="VGM5e-p40" />
+
+After conquering the goblinoids, Maglubiyet relocated a population of them, driving them from the Feywild to his realm in Acheron, and eventually turning them into a force that spread across the multiverse, many ending up on the [[Material Plane]]. More martially-minded goblinds flourished, as did the hobgoblin followers marshaled as soldiers who could now endlessly indulge their war obsession and drive to dominate. The former would find their way to the Material Plane and act as vanguard, sowing ruin to prepare for their god's conquest, while the latter employed elaborate tactics and strange weapons that they would sometimes unleash on worlds of the Material Plane.<ref name="MM5Rp170"/><ref name="MM5Rp142" /><ref name="MPMotMp23"/><ref name="MPMotMp153"/><ref name="D41MtM"/> So too were the bugbears urged to spread throughout the multiverse by Maglubiyet.<ref name="MPMotMp8"/>
+
+Thus had the goblinoid pantheon been since before the descent of [[Araushnee]] into the demon queen [[Lolth]].<ref name="IOE3">{{Cite book/Evermeet: Island of Elves/MMP|CH|3}}</ref> Eventually Maglubiyet would turn his eye to the orc pantheon and attempt to bring them under his dominion, a war he had been waging so long that its origin extended past memory or known record.<ref name="VGM5e-p48-50" /> At one point he was believed to have bargained with the General of [[Gehenna]] for aid, who provided [[yugoloth]]s who died in his service only for Maglubiyet to renege, prompting the general to create the goblinoid-soul-devouring [[barghests]] in vengeance. Each had to consume seventeen goblinoid souls before it could properly return home to Gehenna, because Maglubiyet broke seventeen oaths when he denied the General, and in consuming those souls Maglubiyet was denied his soldiers.<ref name="VGM5e-p123">{{Cite book/Volo's Guide to Monsters|123}}</ref>
+
+===Modern Times===
+Maglubiyet continued to scheme and war as he had for thousands of years. When [[Tiamat]] became impatient with the [[Dragonfall War]], it was believed she brokered a deal with Maglubiyet to quickly marshal armies of goblinoids, intent on scouring the [[Material Plane]] of [[metallic dragon]]s one world at a time.<ref name="D359p68">{{Cite dragon/359/1d20 Villains: D&D's Most Wanted; Preferably Dead|68}}</ref> For a period [[Bane]] was ascendant and managed to draw Maglubiyet into his command, claiming lordship over him and reducing him to an [[exarch]],<ref name="FRCG-pg73">{{Cite book/Forgotten Realms Campaign Guide|73}}</ref> only to later lose this power after the [[Second Sundering]] and be reduced himself to a shadow of his former power.<ref name="dia-p231">{{Cite book/Baldur's Gate: Descent into Avernus|231}}</ref>
+
+Yet, though Maglubiyet had returned to his greater status of authority, his control over the goblinoids was not as sure as it might first appear, and could very well be loosening. Most goblinoids encountered on the [[Material Plane]] were members of lineages that had been separated from the Feywild for centuries, but there were still many goblinoids in the multiverse who remembered the roots of their people, and had stories apart from the Conquering God. Even those goblinoids beneath Maglubiyet did not always stay there. Centuries after their domination, many bugbears had since snuck away from the Mighty One's influence, and though mortal goblins no longer remembered the fey realm they inhabited before Maglubiyet's rise, many goblins still pursued their own destinies, escaping the plots of All-Conquering Maglubiyet and any other [[power]] that would seek to control them.<ref name="MPMotMp153"/><ref name="D41MtM"/><ref name="MPMotMp20"/>
+
+==Appendix==
+===Background===
+''Mağlubiyet'' means "defeat" in Turkish, as defined [https://dictionary.cambridge.org/dictionary/english-turkish/defeat here]. Maglubiyet was added to [[Dungeons & Dragons]] while [[Ed Greenwood]] was still a freelance writer and he does not know the story behind the name's origin.<ref name="EVTGN">{{Cite web/theedverse/2024-12-12- Turkish God Names}}</ref>
+
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| video game refs     = ''[[Baldur's Gate III]]''
+}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Goblinoid deities}}
+{{Deity list}}
+
+[[Category:Greater deities]]
+[[Category:Exarchs]]
+[[Category:Monster deities]]
+[[Category:Goblinoid pantheon]]
+[[Category:Chaos domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Trickery domain deities]]
+[[Category:War domain deities]]
+[[Category:Inhabitants of Clangor]]
+[[Category:Inhabitants of Avalas]]
+[[Category:Inhabitants of Acheron]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Fiendish Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of Banehold]]
+[[Category:Order domain deities]]
+[[Category:Inhabitants of masculine gender]]
+[[es:Maglubiyet]]

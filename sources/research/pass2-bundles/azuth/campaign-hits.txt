@@ -1,0 +1,2 @@
+campaign/setting/deities/asmodeus.md:46: - He consumed the god Azuth after the Spellplague of 1385 DR and became a god (*Forgotten Realms Campaign Guide* 4e). The Toril Thirteen's ritual had already made all tieflings his "descendants" (*Sword Coast Adventurer's Guide* 5e).
+campaign/setting/deities/asmodeus.md:47: - Azuth was separated from him on Hammer 10, 1487 DR (*The Devil You Know*, novel). By 1492 DR he had demoted Bel and re-elevated Zariel as archdevil of Avernus (*Dungeon Master's Guide* 2014; *Mordenkainen's Tome of Foes* 5e).

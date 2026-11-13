@@ -1,0 +1,169 @@
+{{Event
+| image       = AvatarCrisis.png
+| caption     = Depiction of the Arrival of the avatars to Toril.
+| name        = Time of Troubles
+| partof      = 
+| othernames  = 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Toril]]
+| date        = [[1358 DR]]
+| duration    = 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="GHR3e-p142">{{Cite book/The Grand History of the Realms|142}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Theft of the [[Tablets of Fate]]
+| responsible = [[Ao]]
+| subevents   = 
+| outcome     = Significant rearrangement of the [[Faerûnian pantheon]]
+| histrefs    = <ref name="GHR3e-p142" />
+}}
+The '''Time of Troubles''' was a cataclysmic time period in the chronology of [[Faerûn]]. Taking place during the {{YearlinkName|1358}},<ref name="FRCS-p271">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|271}}</ref> the Time of Troubles was a period during which the [[deities]] of [[Faerûn]] were forced to walk the earth in their mortal [[avatar]] forms. Several major deities died during the Time of Troubles (see [[#Deaths, Ascensions, and Resurrections|Deaths, Ascensions, and Resurrections]]) and a handful of mortals rose to divinity.<ref name="FRCS-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref>
+
+==Etymology==
+Other names that this cataclysmic period was known by included '''the Arrival''',<ref name="FRCS-p271" /> the '''Avatar Crisis''', the '''Godswar''',<ref name="FRCS-p271" /><ref name="P&P-p3">{{Cite book/Powers & Pantheons|3}}</ref><ref name="F&A-p23">{{Cite book/Faiths & Avatars|23}}</ref> the '''Time of the Avatars''', the '''Fall of the Gods''', and the '''Intervention of Ao'''.<ref name="P&P-p3" />
+
+==Summary==
+The Time of Troubles was precipitated by an attempt by the gods [[Bane]] and [[Myrkul]] to steal the [[Tablets of Fate]] from the overdeity [[Ao]]. Angry at the gods for their habitual pursuit of power and negligence toward their mortal faithful,<ref name="FRCS-p264"/> Lord Ao relegated every god (except for the guardian god [[Helm]], who was selected to protect the gates to the heavens<ref name="SD-p1">{{Cite book/Shadowdale/MMP (1989)|1-8|0}}</ref>) to walk among their followers on Toril.<ref name="FRCS-p264"/> This included the gods of [[pantheon]]s far removed from Faerûn, such as the [[Kara-Turan pantheon]] and [[Maztican pantheon]].<ref name="PBF">{{Cite web/theedverse/2018-10-13 - Time of Troubles - Pantheons Beyond Faerûn}}</ref>
+
+The immediate effects of this edict were threefold. First, [[divine magic]] (spells granted to [[cleric]]s by their [[deity|patron deities]]) ceased to function altogether<ref name="Siege">{{Cite book/Siege of Darkness}}</ref> unless the cleric was within {{SI|1|mile|k|long=yes}} of their deity's avatar. Second, [[Magic|arcane magic]] (a force channeled from the [[Weave]] by [[wizard]]s and [[sorcerer]]s) ceased to be regulated by its steward, [[Mystra]], and became dangerously unpredictable.<ref name="FRCS-p264"/> Third, the characteristically immortal and aloof deities were now vulnerable (though still devastatingly powerful) and dwelling among the civilizations of Faerûn.<ref name="FRCS-p265">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|265}}</ref>
+
+==History==
+* Ao cast the gods down in the early evening of [[Kythorn 15]].<ref name="TFRA-p128" />
+* Helm destroyed Mystra for attempting to ascend the Celestial Stairway on [[Midsummer]].<ref name="TFRA-p128" />
+* Bane and the Celestial Stairway were destroyed on [[Flamerule 18]].<ref name="TFRA-p128" />
+* Myrkul brought Bane back to Toril and he possessed [[Fzoul Chembryl]] on [[Flamerule 25]].<ref name="TFRA-p128" />
+* Bane and Torm destroyed each other on [[Eleasis 13]].<ref name="TFRA-p128" />
+* Cyric slew Bhaal on [[Eleint 26]].<ref name="TFRA-p128" />
+* Myrkul was slain by Midnight on [[Marpenoth 15]].<ref name="TFRA-p129" />
+* Midnight and Cyric ascended to godhood on Marpenoth 15.<ref name="TFRA-p129" />
+{{sectstub}}
+
+Thanks to the efforts of [[Midnight]], [[Cyric]], [[Kelemvor]], and the cleric [[Adon]], Ao recovered the Tablets of Fate. However, the Overgod himself destroyed the tablets, grinding them into powder.<ref name="Wat-p331">{{Cite book/Waterdeep|331-332}}</ref> This act unraveled the laws of [[Realmspace]] and began the chaotic period of time known as the [[Era of Upheaval]].<ref name="Youtube">{{Cite web|url=https://www.youtube.com/watch?v=eAoq-vwWHHg|title=What is the Sundering? (Part 1)|accessmonthday=September 7th|accessyear=2017|author=[[Ed Greenwood]],  [[Erin M. Evans]], [[Paul S. Kemp]], [[R.A. Salvatore]], [[Richard Lee Byers]], [[Troy Denning]], [[James Wyatt]] |date=August 21th, 2012}}</ref>
+
+==Deaths, Ascensions, and Resurrections==
+===Deaths===
+The Time of Troubles was a time of significant turnover among the gods of the [[Faerûnian pantheon]].<ref name="FRCS-p265"/> Several deities were "destroyed" (see below) during this period. The following are deities who were killed or incapacitated during the Time of Troubles:
+* [[Midsummer]]: [[Mystra]], greater goddess of [[magic]] and among the most powerful of the gods, was destroyed<ref name="FRCS-p264"/> when she attempted to bypass Helm at the [[Celestial Stairway]] and he slew her.<ref name="Sd-p141">{{Cite book/Shadowdale/MMP (1989)|141-151|7}}</ref><ref name="TFRA-p128">{{Cite book/Forgotten Realms Atlas|128}}</ref>
+* [[Eleasis 13]]: [[Bane]], greater god of tyranny, strife, and hatred, a member of the [[Dead Three]], was slain in a climactic battle with the [[demigod]] [[Torm]] in battle outside of [[Tantras]].<ref name="FRCS-p264"/><ref name="TFRA-p128" />
+* Eleasis 13: [[Torm]], demigod and patron deity of paladins, was annihilated by Bane with his dying breath. He was later resurrected by Ao because he died fulfilling the obligations of his portfolio.<ref name="FRCS-p264"/><ref name="TFRA-p128" />
+* [[Eleint 16]]: [[Bhaal]], intermediate god of murder, was slain by the young mortal [[Cyric]] with the sword ''[[Godsbane]]''.<ref name="FRCS-p264"/><ref name="TFRA-p128" /><ref name="F&A-p45">{{Cite book/Faiths & Avatars|45}}</ref> What remained of his essence was absorbed by the [[Winding Water]].<ref name="F&A-p45" /> However, Bhaal had foreseen his own death, and had populated Faerûn with his progeny, the ''[[Bhaalspawn]]'', in a bid to resurrect himself.<ref name="FRCS-p264"/>
+* [[Tiamat]]'s three-headed incarnation was slain by [[Gilgeam]]. Her essence was divided among three [[dragon]]s, the [[Red dragon|red]] [[Tchazzar]], the [[Blue dragon|blue]] [[Gestaniius]], and the [[Green dragon|green]] [[Skuthosiin]]. Tchazzar consumed the other two and was subsumed by Tiamat. The Dragon Queen then destroyed Gilgeam late in the Godswar.<ref name="F&Pp108">{{Cite book/Faiths and Pantheons|108}}</ref>
+* [[Gilgeam]], demigod and king of [[Unther]], was slain by Tiamat.<ref name="FRCS-p265"/>
+* [[Herne]], a corrupted avatar of the [[Master of the Hunt]] worshiped in the [[High Forest]], was hunted and killed by Malar who then subsumed his worship.<ref name="F&A-p105">{{Cite book/Faiths & Avatars|105}}</ref>
+* [[Ibrandul]], a lesser god of caverns, was destroyed by [[Shar]], who then masqueraded as the dead deity.<ref name="FaithsNAvatarsp72">{{Cite book/Faiths & Avatars|72}}</ref>
+* [[Moander]], demigod of decay, was slain by [[Finder Wyvernspur]].<ref name="F&Pp94">{{Cite book/Faiths and Pantheons|94}}</ref>
+* [[Ramman]], Untheric lesser god of war and storms, was slain by [[Hoar]]<ref name="FRCS-p264"/><ref name="AHoU">{{Cite web/Books/The Alabaster Staff: A History of Unther}}</ref> by having one of his thunderous lightning attacks repelled back at him. But before Hoar could steal his portfolio, Ramman transferred it to [[Anhur]] of the [[Mulhorandi pantheon]].<ref name="AHoU" />
+* [[Waukeen]], lesser goddess of wealth, attempted to reclaim her divinity during the Time of Troubles by leaving her portfolio in the care of [[Lliira]] and dealing with the demon prince [[Graz'zt]] but was captured by him and imprisoned in the [[Argent Palace]] in the [[Abyss]] for more than a decade.<ref name="F&Pp87">{{Cite book/Faiths and Pantheons|87}}</ref>
+*The dragon goddess of magic, [[Kereska]], entirely subsumed the worship and portfolio of [[Kalzareinad]], a demigod of dragon magic. Kalzareinad died shortly thereafter.<ref name="CotD">{{Cite book/Cult of the Dragon|120}}</ref>
+* [[Marpenoth 15]]: [[Myrkul]], greater god of the dead and another of the Dead Three, was killed in a duel with [[Midnight]], a mortal woman wielding the powers of Mystra, in the skies over the city of [[Waterdeep]].<ref name="Waterdeep">{{Cite book/Waterdeep (1989)|?}}</ref><ref name="TFRA-p129">{{Cite book/Forgotten Realms Atlas|129}}</ref>
+
+===Ascensions===
+{{quote|Gods have ascended through far stranger means – a circle drawn on a globe, a walk in a swamp, the destruction of a [[Finder's Stone|magical stone]]. Why not with a [[Crown of Karsus|symbol]] of such innate authority?|[[Gale]] of [[Waterdeep]]<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}<br/>
+Furthermore, a selection of mortals were chosen by Lord Ao to ascend to the heavens to fill the void left by those deities who died:
+* [[Cyric]], a petty, sadistic mercenary, slew Bhaal with the sword ''[[Godsbane]]'' (actually the god [[Mask]] in disguise). After the end of the Time of Troubles, he was granted control of nearly all the portfolios of the Dead Three by Ao, making him briefly the most powerful of the gods.<ref name="FRCS-p240">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|240}}</ref><ref name="FRCS-p264"/>
+* [[Kelemvor]], a sullen adventurer and companion of Cyric and Midnight, was killed by Cyric with ''Godsbane'', but his soul was hidden by Mask<ref name="FRCS-p264"/> and unintentionally gained the portfolio of death by defeating Cyric with the help of ''Godsbane'' in the {{yearlinkName|1368}}, ten years after the Time of Troubles.<ref name="PrinceofLies">{{Cite book/Prince of Lies|?}}</ref> He then strove to change the horrifying image of death promoted by his predecessors.<ref name="FRCS-p243">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|243}}</ref>
+* After her death, the goddess Mystra entrusted her essence with the young mage [[Midnight]], who ascended after the Time of Troubles as the new Mystra.<ref name="FRCS-p264"/>
+* The exceptional adventurer [[Finder Wyvernspur]] absorbed and adapted Moander's portfolio, making it the cycle of life.<ref name="F&Pp93">{{Cite book/Faiths and Pantheons|93}}</ref>
+
+Finally, Lord Ao lifted the barrier that prevented the [[Mulhorand]]i god-kings from reuniting with their divine selves on the [[Outer Planes]]. The physical incarnations of the Mulhorandi gods departed Faerûn and left governance of the empire to mortal rulers under their guidance.<ref name="P&P-p96">{{Cite book/Powers & Pantheons|96}}</ref>
+
+===Resurrections===
+However, death is anything but permanent in the Realms, and many of these deities did in some way circumvent their own destruction:
+* After Bane's death, his portfolio was divided among the newly anointed god Cyric and Bane's own half-demonic son [[Iyachtu Xvim]]. Upon the death of one of the greatest forces of evil in existence, all of Faerûn breathed a sigh of relief; however, in [[1372 DR]], Bane was resurrected, destroying Iyachtu Xvim and reestablishing his church.<ref name="FRCS-p264"/>
+* Bhaal had already foreseen his own demise and had populated the world with scores of his own progeny in previous years, all as part of a grand scheme for his own reincarnation.<ref name="FRCS-p264"/>
+* Myrkul infused the sinister ''[[Crown of Horns]]'' with the remnants of his essence, and teleported it away. While its location was unknown, the semi-sentient [[artifact]] presumably was fomenting a plan for Myrkul's resurrection.<ref name="MF-p171">{{Cite book/Magic of Faerûn|171}}</ref> He also left behind a curse called the [[Akachi|Spirit-eater]], actually the half-destroyed soul of one of his [[Chosen]].<ref>{{Cite game/Neverwinter Nights 2: Mask of the Betrayer}}</ref>
+* Though Ao had decreed that none of the gods fallen during the Time of Troubles should be reinstated, a complex convergence of factors regarding Torm's death led the overgod to make a single exception in his case, resurrecting him and elevating him to the status of lesser god.<ref name="Waterdeep" />
+* After a decade of isolation from her followers, Waukeen was freed from her prison in [[1371 DR]] by a band of adventurers, and resumed her place in the heavens.<ref name="F&Pp87"/> 
+
+==Other Appearances==
+Aside from those slain or risen to divinity, several deities' avatars appeared all over [[Toril]]:
+* The gods of the Kara-Turan and Maztican pantheons appeared on Toril, but most of them kept a much lower profile compared to the deities of other pantheons, either hiding or seeing to personal business.<ref name="PBF" />
+* The whereabouts of the [[Elemental Lords]]—[[Akadi]], [[Grumbar]], [[Istishia]], and [[Kossuth]]—during this time were unknown, as none of them were spotted in the Realms.<ref>{{Cite book/Forgotten Realms Adventures|36}}</ref><ref>{{Cite book/Faiths & Avatars|24,66,78,88}}</ref>
+* [[Aerdrie Faenya]] and [[Shaundakul]] initiated a romantic relationship.<ref>{{Cite book/Demihuman Deities|94}}</ref>
+* [[Anhur]] appeared in [[Serôs]] and battled and defeated [[Sekolah]] in the [[Alamber Sea]].<ref name="SoFS-72">{{Cite book/Sea of Fallen Stars|72}}</ref>
+* [[Azuth]] kept a portion of Mystra's divine essence, stored in a statue of her, safe in the [[Pool of Yeven]].<ref name="FRE2-p12">{{Cite book/Tantras(adventure)}}</ref>
+* The avatars of [[Clangeddin]] and [[Labelas]] fought on [[Ruathym]], with Labelas winning the conflict.<ref>{{Cite book/Demihuman Deities|49,117}}</ref><ref>{{Cite comic/Possessions}}</ref><ref>{{Cite comic/Mad Gods and Paladins}}</ref><ref>{{Cite comic/Divine Rights}}</ref><ref>{{Cite comic/On Earth As It Is In Heaven}}</ref>
+* [[Deep Duerra]] masqueraded as the regent of the [[duergar]] city of [[Underspires]], creating an elite army that went on to attack [[Ironfang Deep]] and [[Undraeth]], and expanded the city's territory.<ref>{{Cite book/Demihuman Deities|55}}</ref><ref>{{Cite book/Races of Faerûn|15}}</ref>
+* [[Eilistraee]] appeared in the [[High Forest]], in the location which became known as [[Darkmaiden's Leap]]. The goddess rescued a group of [[drow]] refugees and led them to the safety of the temple of the [[Promenade of the Dark Maiden|Promenade]].<ref name="CoV">{{Cite book/Champions of Valor|133-135}}</ref>
+* [[Eldath]] spent a lot of time with [[Mielikki]] and the two were seen embracing as sisters.<ref>{{Cite book/Faiths & Avatars|57}}</ref>
+* [[Garagos]] slaughtered many people in [[Westgate]]'s harbor district before wading into the sea.<ref>{{Cite web enhancement/Westgate Timeline}}</ref>
+* [[Gond]] washed up on the shores of [[Lantan]] in the form of a [[gnome]]. His true nature quickly discovered, the Lantanna sheltered and worshiped him until the crisis had passed.<ref name="F&A-p62">{{Cite book/Faiths & Avatars|62}}</ref><ref name="FRA-p20">{{Cite book/Forgotten Realms Adventures|20}}</ref><ref name="FRCS-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref>
+* [[Gwaeron Windstrom]] hunted Malar through [[the North]] when he appeared there.<ref name="F&A-p105" />
+* [[Hoar]] retrieved a cache of weapons from under [[Thaymount]] (while avoiding the schemes of a [[Red Wizard]] called the [[Masked One]]<ref name="CoS-p189-191">{{Cite book/Cloak of Shadows|189-191}}</ref>) with which he armed and mobilized the army of [[Akanax]] to attack [[Cimbar]], [[Soorenar]], and [[Luthcheq]]. This sparked a greater civil war in [[Chessenta]] until they rallied behind Hoar to attack [[Unther]] and the church of Ramman.<ref name="P&P-p29">{{Cite book/Powers & Pantheons|29}}</ref>
+* [[Ilsensine]] appeared in [[Oryndoll]], inspiring [[mind flayer]]s there to great levels of ingenuity and the creation of the religious [[Venerator Creed]].<ref name="DDGttUp78">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|78}}</ref> 
+* [[Lolth]] briefly appeared in [[Menzoberranzan]], granting [[Yvonnel Baenre]] the power to destroy [[House Oblodra]] after the crisis.<ref name="M.CoI">{{Cite book/Menzoberranzan: City of Intrigue|11-12}}</ref>
+* [[Loviatar]] was assumed by [[Bane]] to be in [[Waterdeep]], where he planned to send his chosen emissary, [[Tempus Blackthorne]], to summon her.<ref>{{Cite book/Shadowdale/MMP (1989)|251-252|12}}</ref>
+* [[Milil]] stayed in [[Arbalest's House]], a temple dedicated to him in the city of [[Athkatla]], [[Amn]], and founded a singing circle.<ref>{{Cite book/Faiths & Avatars|117}}</ref>
+* [[Nobanion]] fought and defeated Malar in the [[Gulthmere Forest]].<ref name="F&A-p105" />
+* [[Sekolah]] appeared in Serôs.<ref name="SoFS-72" />
+* [[Selvetarm]] rampaged through the drow city of [[Eryndlyn]], attacking followers of [[Vhaeraun]] and [[Ghaunadaur]] until their combined cults drove him off into the wild Underdark.<ref name="DD-34">{{Cite book/Demihuman Deities|35}}</ref>
+* [[Set]] forged an alliance of convenience with Tiamat after her resurrection.<ref name="PPp126">{{Cite book/Powers and Pantheons|126}}</ref>
+* [[Shar]] appeared in Waterdeep, where she impersonated and imprisoned her twin sister [[Selûne]]. The Moonmaiden was eventually freed by her followers<ref name="CoS.W">{{Cite book/City of Splendors: Waterdeep|?}}</ref><ref>{{Cite comic/Selune Rising}}</ref><ref>{{Dark of the Moon}}</ref><ref>{{Cite comic/Lunatics}}</ref><ref>{{Cite comic/Total Eclipse}}</ref> and Shar retreated into [[Undermountain]] where she attacked and killed Ibrandul.<ref>{{Cite book/Faiths & Avatars|72}}</ref> The Dark Goddess later tried to subsume [[Sharess]] in [[Calimport]] as well but was foiled.<ref name="P&P-52">{{Cite book/Powers & Pantheons|52}}</ref>
+* [[Shiallia]] worked to undo the damage Malar had caused during his hunts, forging an alliance with Gwaeron Windstrom.<ref name="P&P-55">{{Cite book/Powers & Pantheons|55}}</ref>
+* [[Siamorphe]] was rumored to have manifested in the [[Assumbar Villa]] in Waterdeep, protecting many [[North Ward]] and [[Sea Ward]] buildings from [[Myrkul's Legion (disambiguation)|Myrkul's Legion]].<ref name="P&P-60">{{Cite book/Powers & Pantheons|60}}</ref>
+* [[Sseth]] appeared over the [[Black Jungles]] as an enormous winged snake.<ref name="SK-p20">{{Cite book/Serpent Kingdoms|20}}</ref> After battling [[Ubtao]] in [[Chult]],<ref name="P&P-90" /> he entered a deep sleep. While asleep, a [[sarrukh]] priest trapped Sseth and prevented him from waking up, allowing [[Set]] to usurp Sseth's worship.<ref name="SK-p20" />
+* [[Sune]] saved Sharess from assassination at the hands of Shar and then freed her from the influence and corruption of the Lady of Loss.<ref name="P&P-52"/>
+* [[Tempus]] appeared in [[Battledale]] and [[Mistledale]].<ref>{{Cite book/Faiths & Avatars|159}}</ref> He also slew a drow [[lich]] named [[Malyk (demipower)|Malyk]] in the Underdark beneath [[Castle Crag]].<ref name="Poly116-p11">{{Cite polyhedron/116/Forgotten Deities: Malyk|11}}</ref>
+* [[Tymora]]'s avatar appeared in [[Suzail]], Cormyr,<ref>{{Cite book/Forgotten Realms Adventures|1}}</ref> and then traveled to the [[Lady's House]], a temple devoted to her worship in [[Arabel]]. She protected that city during the crisis.<ref name="Tour-45">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|45}}</ref>
+* [[Tyr]] was blinded by Ao's rage at the theft of the [[Tablets of Fate]].<ref>{{Cite book/Faiths & Avatars|169}}</ref><ref name="F&P-p79">{{Cite book/Faiths and Pantheons|79}}</ref>
+* [[Umberlee]] wandered the seas surrounding the [[Pirate Isles]] attacking any pirates she met with storms.<ref name="SoFS-7">{{Cite book/Sea of Fallen Stars|7}}</ref> She also secretly appeared in the [[Trackless Sea]] after foreseeing the return of [[Iakhovas]] to make [[Slarkrethel]] her seraph.<ref name="TGHotR-p142">{{Cite book/The Grand History of the Realms|142}}</ref>
+* [[Ubtao]] appeared in Chult in the form of a [[tyrannosaurus]] and roamed the jungles. On the eastern edge, he fought with [[Sseth]], the battle ending in a draw.<ref name="P&P-90">{{Cite book/Powers & Pantheons|90}}</ref>
+* [[Urdlen]] attacked several rural [[gnome]] communities, leaving the curse of [[lycanthropy]] in his wake that turned the survivors into [[weremole]]s.<ref name="DhD-p158">{{Cite book/Demihuman Deities|158-159}}</ref>
+* The [[Red Knight]], a little-known servant of Tempus, appeared as an avatar, and possessed the mortal [[Kaitlin Tindall Bloodhawk]]. She led a group of adventurers called the [[Order of the Red Falcon]] in battle against a horde of monsters in [[Tethyr]]. After the war she built the [[Citadel of Strategic Militancy]] in honor of her family and the Red knight.<ref name="CoV-p103">{{Cite book/Champions of Valor|103}}</ref>
+
+==Lasting effects==
+* [[Wild magic|Wild]] and [[Dead-magic zone]]s, areas where magic behaved erratically or ceased to function, were lasting effects of the Time of Troubles.<ref name="CaN-p287">{{Cite book/Cormyr: A Novel/Paperback 1998|287}}</ref> Some referred to them as "The Legacy of Helm."<ref name="FRA-p21">{{Cite book/Forgotten Realms Adventures|21}}</ref>
+* Public opinion on the [[Church of Helm]] significantly worsened in [[the North]], owing to the havoc wreaked there. Direct worship of the faith decreased, while persecution of its followers increased.<ref name="FRA-p21" /><ref>{{Cite book/Faiths & Avatars|69}}</ref>
+* Mortals became aware of Ao's existence, leading to the development of many short-lived cults, with the longest-lasting being the [[Cult of Ao]] in Waterdeep and their temple [[Cynosure (building)|Cynosure]].<ref>{{Cite book/Faiths & Avatars|30}}</ref><ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+* The stricture that all [[dwarven]] priests must be the same gender as their god was relaxed.<ref>{{Cite book/Demihuman Deities|42}}</ref>
+* With the Mulhorandi pantheon reunited with their divine essence on the Outer Planes, their mortal incarnations or "lesser avatars" lost their innate divinity, leaving [[Horustep III]] as the first truly mortal [[pharaoh]] of Mulhorand.<ref name="P&P-p96" />
+* Because of the destruction of the Tablets of Fate, the planar barrier that separated the worlds of [[Abeir]] and Toril weakened, and both worlds began to exchange small, almost imperceptible parts of their lands between them.<ref name="FRCG-p50-51">{{Cite book/Forgotten Realms Campaign Guide|50-51}}</ref>
+* Some denizens of the Outer Planes theorized that the gods of Realmspace became interested in becoming multi-spheric because of the heavy-handed methods used by Ao during the Time of Troubles.<ref name="OHG-p168">{{Cite book/On Hallowed Ground|168}}</ref>
+* The amount of accessible [[incarnum]] increased dramatically throughout the Realms.<ref name="CC.I">{{Cite web/Class Chronicles: Incarnum}}</ref>
+* The Winding Water became poisoned by the absorbed essence of Bhaal, turning jet-black and foul-smelling. The taint spanned from [[Boareskyr Bridge]] to [[Trollclaw Ford]].<ref name="F&A-p45" />
+
+==Appendix==
+===Appearances===
+{{Appearances
+| adventures          = [[Avatar series]] <small>(''[[Shadowdale (adventure)|Shadowdale]]'';''[[Tantras (adventure)|Tantras]]'';''[[Waterdeep (adventure)|Waterdeep]]'')</small>
+| adventure refs      = ''[[For Duty & Deity]]''
+| novels              = ''[[Siege of Darkness]]'';[[Avatar series]] <small>(''[[Shadowdale (novel)|Shadowdale]]'';''[[Tantras (novel)|Tantras]]'';''[[Waterdeep (novel)|Waterdeep]]'')</small> ;''[[The Summoning]]''
+| novel refs          = ''[[Elfshadow]]'';''[[The Nether Scroll]]'';''[[Beyond the High Road]]'';''[[Crucible: The Trial of Cyric the Mad]]''
+| films               = 
+| film refs           = 
+| comics              = [[Avatar series (comic)|Avatar series]] <small>(''[[Shadowdale (comic)|Shadowdale]]''; ''[[Tantras (comic)|Tantras]]''; ''[[Waterdeep (comic)|Waterdeep]]'')</small>; [[Advanced Dungeons & Dragons (comic series)|Advanced Dungeons & Dragons]] <small>(''[[Selune Rising]]''; ''[[Dark of the Moon]]''; ''[[Lunatics]]''; ''[[Total Eclipse]]'')</small>; [[Forgotten Realms (comic)|Forgotten Realms]] <small>(''[[Possessions]]''; ''[[Mad Gods and Paladins]]''; ''[[Divine Rights]]''; ''[[On Earth as it is in Heaven]]'')</small>
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = [[Baldur's Gate series]]
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===External Links===
+{{External link disclaimer}}
+* {{BGW}}
+
+===References===
+{{refs}}
+
+===Connections===
+{{Ages}}
+[[de:Zeit der Sorgen]]
+[[es:Era de los Trastornos]]
+[[pl:Czas Kłopotów]]
+[[Category:History]]
+[[Category:Events in Faerûn]]
+[[Category:Events on Toril]]

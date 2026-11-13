@@ -1,0 +1,251 @@
+WIKI PAGE: Valkur
+
+{{Deity
+| image               = Valkur 3e.png
+| caption             = 
+| name                = Valkur
+| title               = Captain of the Waves<ref name="F&P3e-p110">{{Cite book/Faiths and Pantheons|110}}</ref><br />The Mighty<ref name="F&P3e-p110" /><ref name="FRCS-p17" />
+| adjective           = Valkuryte<ref name="FRCG-p81">{{Cite book/Forgotten Realms Campaign Guide|65,81}}</ref>
+| aspects             = 
+| power               = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]]
+| home                = 
+| formerhomes         = 
+| serves              = 
+| servedby            = 
+| minions             = 
+| died                = 
+| dominion            = 
+| formerdominion      = 
+| realm               = 
+| sphere              = 
+| portfolio           = 
+| domains             = 
+| spheres             = 
+| worshipers          = 
+| cleric alignments   = 
+| favored weapon      = 
+| holy days           = 
+| channel divinity    = 
+| race                = 
+| gender              = Masculine
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5e             = [[Deity#14th century DR|Hero-god]]<br/> [[Lesser deity]]
+| alignment5e         = [[Chaotic Good]]
+| symbol5e            = A cloud and three lightning bolts
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Sailors
+| domains5e           = [[Tempest domain|Tempest]], [[War domain|War]]
+| worshipers5e        = [[Northlander]]s
+| channel divinity5e  = ''[[Destructive wrath]]''<br />''[[Guided strike]]''<br />''[[War god's blessing]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,68">{{Cite book/Sword Coast Adventurer's Guide|21,68}}</ref><ref name="PHB5e-p62-63">{{Cite book/Player's Handbook 5th edition|62-63}}</ref><ref name="skt-p106">{{Cite book/Storm King's Thunder|106}}</ref>
+| power4e             = [[Exarch]]
+| alignment4e         = [[Good]]
+| symbol4e            = 
+| dominion4e          = [[Warrior's Rest]]
+| realm4e             = 
+| serves4e            = [[Tempus]]
+| servedby4e          = 
+| sphere4e            = Sailors
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p81"/><ref name="FRCG-p65">{{Cite book/Forgotten Realms Campaign Guide|65}}</ref>
+| power3e             = [[Demigod]]
+| alignment3e         = [[Chaotic Good]]
+| symbol3e            = A shield depicting a cloud with three lightning bolts
+| homeplane3e         = [[Warrior's Rest]]
+| realm3e             = [[Safe Harbor]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Favorable winds, naval combat, sailors, ships
+| domains3e           = [[Air domain|Air]], [[Chaos domain|Chaos]], [[Good domain|Good]], [[Ocean domain|Oceans]], [[Protection domain|Protection]], [[Wrath domain|Wrath]]
+| worshipers3e        = [[Fighters]], [[rogues]], sailors
+| cleric alignments3e = {{alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = ''[[The Captain's Cutlass]]'' ([[cutlass]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="F&P3e-p110" /><ref name="FRCS-234-245">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234-235}}</ref><ref name="PGtF-p164">{{Cite book/Player's Guide to Faerûn|164}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Demipower]]/[[Lesser deity|Lesser Power]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = Shield showing a thundercloud with three lightning bolts descending from it
+| homeplane2e         = [[Ysgard]]/[[Ysgard (layer)|Ysgard]]
+| realm2e             = [[Safe Harbor]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Sailors, safety of ships, favorable winds, naval combat
+| spheres2e           = <small>Major:</small>[[All sphere|All]], [[charm sphere|Charm]], [[combat sphere|Combat]], [[divination sphere|Divination]], [[elemental sphere|Elemental]] (Air and Water), [[healing sphere|Healing]], [[protection sphere|Protection]], [[sun sphere|Sun]], [[Summoning sphere|Summoning]], [[weather sphere|Weather]]<br/><small>Minor:</small>[[Creation sphere|Creation]], [[Necromantic sphere|Necromantic]], [[War sphere|War]], [[Wards sphere|Wards]]
+| worshipers2e        = 
+| cleric alignments2e = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Fighter]]|24|[[Wizard]]|19|[[Cleric]]|14|[[Bard]]|10}}
+| refs2e              = <ref name="P&P">{{Cite book/Powers & Pantheons|72}}</ref><ref name="FRBS59">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|59-60}}</ref>
+| power1e             = 
+| alignment1e         = [[Chaotic good]]
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = Sailors in [[the North]]
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS-p17">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|17}}</ref>
+| animals             = <small>'''Favor:'''</small> [[Albatross]], silver [[sea gull]]<br /><small>'''Disfavor:'''</small> Black [[raven]]<br /><small>'''General:'''</small> Intelligent and benevolent sea creatures, [[dolphin]]s, [[whale]]s <small>(particularly [[narwhal]]s)</small>
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = Blue, white
+| misc manifestations = [[Aurora polaris|Aurora polaris]], [[ghost ship]]
+| manifestation refs  = <ref name="P&P-p73">{{Cite book/Powers & Pantheons|73}}</ref><ref name="DD&D-p15">{{Cite web enhancement/Deity Do's and Don'ts|15}}</ref>
+| church              = yes
+| temples             = yes
+}}
+'''Valkur''' ({{Pronounce|val|KURR|refs=<ref name="F&P3e-p110"/>}}) was a minor [[Faerûnian pantheon|Faerûnian]] [[god]] of sailors and their ships, as well as favorable winds and naval combat.<ref name="FRCG-p81"/><ref name="F&P3e-p110"/> The '''Captain of the Waves''' was the very picture of the daring sea captain, one capable of sailing his vessel through any disaster that the [[Gods of Fury]] could unleash.<ref name="P&P-p73" />
+{{quote
+|Valkur, speed his path, fill his sails, and calm his seas.
+|A prayer for the deceased in Valkur's name.<ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+}}
+
+==Description==
+Valkur's [[avatar]] appeared as a {{SIAdj|10|ft|adj=tall}} man of broad girth with a full, black beard and brown eyes that sparkled with derring-do. He had a great belly laugh, but when driven to anger his voice would crack like rolling thunder.<ref name="P&P-p73" /> He was often depicted wading through the ocean, the water only coming up to his knees, and was known to actually make such appearances.<ref name="P&P-p73" /><ref name="FRBS59" />
+
+As buffeted by uncountable storms as he seemed, Valkur always looked dapper. His fantastic captain's outfit consisted of a blue frock coat with gold braid trim and brass buttons over a colorful brocade vest and white shirt with a ruffled collar and cuffs, along with knee-length trousers, hose, and shoes with silver buckles. His [[tricorn]] hat shared the same color scheme: blue, but trimmed in gold braid and featured a large, white plume.<ref name="P&P-p73" />
+
+===Manifestations===
+Valkur often manifested as an [[aurora polaris|aurora borealis or aurora australis]] and sailors swore that he appeared to becalmed ships at sea as a ghostly wind in which his image could be faintly glimpsed. Sometimes he manifested as a ghostly ship on the horizon, which always sailed to the nearest port but never seemed to get closer or farther away.<ref name="P&P-p73" />
+
+Valkur was served by many intelligent and benevolent animals, including [[dolphin]]s, [[whale]]s (especially [[narwhal]]s), and seabirds. He used the latter to indicate his mood; manifesting as a silver [[albatross]] or [[gull]] drifting on the wind currents to indicate his favor, and as a night-black [[raven]] to convey his displeasure.<ref name="P&P-p73" />
+
+==Personality==
+Valkur was usually jolly and never held a grudge. He was a figure of endless luck and great boldness, emphasizing his points by shaking his fist in the air and never backing away from a challenge.<ref name="P&P-p73" /> However, he was not always available for his followers, and there was no guarantee that he would answer a call for aid. He was fickle and unpredictable,<ref name="WAP122">{{Cite book/Warriors and Priests of the Realms|122}}</ref><ref name="FRBS59" /> his moods as mercurial as the weather, but he was always extremely loyal to his crew and did in fact feel his primary responsibility was protecting sailors. Though still unreliable, he had become more responsive to his faithful's petitions after the [[Time of Troubles]].<ref name="P&P-p73" />
+
+==Powers==
+Valkur could pilot any sailing craft in any conditions, and no ship on which he stood would ever sink, regardless of its condition or the surrounding weather. He specialized in the use of [[cutlass]]es, [[harpoon]]s, and [[trident]]s, but was proficient in the use of all melee weapons and naval armaments; as well as the [[arquebus]]. He favored [[conjuration]], [[divination]], and [[evocation]] spells, as well as those from the [[sphere]]s of [[Divination sphere|divination]], [[Elemental air sphere|air]], [[elemental water sphere|water]], and [[weather sphere|weather]].<ref name="P&P-p73" />
+
+The Captain of the Waves functioned just as well in water as he could above it and could stride knee-deep through water of any depth using a form of modified ''[[water walk]]ing'', hence his ability to seemingly wade through the ocean. Each hour he could call 2-5 whales to come to his aid, usually a pod of narwhals or [[orca]]s, but on rare occasions (about 1 in 20 times) a single [[leviathan (creature)|leviathan]] would answer his summons.<ref name="P&P-p73" />
+
+Valkur could change the weather within a {{SIAdj|1|mile|long=yes}} radius of himself, calming stormy seas simply by placing his hand on the water's surface or stirring up storms by swirling his hand within it. He could breathe a ''[[gust of wind]]'' every minute and breathe water as air. In addition to being undrownable, he was immune to [[elemental water]] [[spell]]s, [[water elemental]]s and related creatures, and electricity and lightning. He could bestow all of these immunities, and the ability to swim, to anyone he touched; a blessing known as the "shield of Valkur" which lasted for a day.<ref name="P&P-p73" />
+
+==Possessions==
+Valkur wielded the ''[[Captain's Cutlass]]'', a ''+3'' weapon able to cast a weather-related spell every minute; its power varying based on the aptitude of the wielder. Though normally a cutlass, it could transform into a trident or harpoon with an unbreakable [[rope]] tether attached to the wielder's wrist that could extend as required by the user. The weapon was sized for Valkur, had increased range in his hand, and (so long as the line was attached to him) left him unable to be knocked over or toppled from a deck that he stood upon. Sometimes he loaned it to the faithful or those on special missions for him, but in anyone else's hands, it was normal-sized and had normal range.<ref name="P&P-p73" />
+
+Valkur also possessed a great [[shield]] with which he turned back the worst that nature had to throw at him. In some religious images he was at the helm of the great [[galleon]] ''[[Windjammer]];'' a ship able to not only sail across any sea, but even through the heavens.<ref name="P&P-p73" />
+
+==Realm==
+Valkur's realm was located in either [[Ysgard]] in the [[Great Wheel Cosmology]],<ref name="P&P-p73" /> or [[Warrior's Rest]] (as part of [[Tempus]]'s realm) in the [[World Tree cosmology|World Tree]] and [[World Axis cosmology|World Axis Cosmologies]].<ref name="FRCG-p65" /><ref name="FRCS-258">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|258}}</ref> His domain stood apart from the others, primarily due to the terrain but also for its relative calm. [[Safe Harbor]], as it was called, was a placid range of saltwater between two warzones: a desert battlefield and a larger, watery expanse of raging naval battles.<ref name="PGtF-p164" />
+
+==Activites==
+Valkur often used the tether ability of the Captain's Cutlass to tow ships to shore, hauling them in hand-over-hand, and there was at least one occurrence where he harpooned a sea monster and used it for tow. Some claimed to have seen him stride through the waves dragging a small boat to sailors who went overboard, feeding them with the [[sea biscuit]]s and [[cask]]s of water contained within.<ref name="P&P-p73" />
+
+==Relationships==
+Valkur looked to [[Selune]] for guidance across the oceans of Faerun, the two sharing such a friendship that the moon goddess passed on a minor blessing to Valkur's faithful in the form of improved navigational abilities.<ref name="P&P-p73" /> In more recent times, [[Deep Sashelas]] of the [[Seldarine]] lent his aid to the Captain of the Waves so that he could better act as a counterweight to [[Umberlee]]'s burgeoning influence;<ref name="DD-104">{{Cite book/Demihuman Deities|104}}</ref> and [[Istishia]], the elemental god of water, had ties to Valkur even if he was uninterested in his sailors (or Umberlee's storms for that matter).<ref name="FRCG-p81" /><ref name="F&A78">{{Cite book/Faiths and Avatars|78}}</ref>
+
+The [[Red Knight]], and by extension [[Tempus]], attempted to persuade Valkur to take a greater interest in the area of naval conflict.<ref name="F&P3e-p110" /> Her expectations of him sometimes exceeded his demonstrated commitment to anything but protecting sailors,<ref name="P&P44">{{Cite book/Powers & Pantheons|44}}</ref> but she still saw him as her best ally in that field despite his unreliability.<ref name="F&P3e-p104">{{Cite book/Faiths and Pantheons|104}}</ref> Tempus himself was casually friendly with Valkur, as he was at least somewhat martially inclined,<ref name="F&P3e-p71">{{Cite book/Faiths and Pantheons|71}}</ref> and at one point the sailor's god become an [[exarch]] of his.<ref name="FRCG-p81" />
+
+Valkur was the sworn foe of the Gods of Fury, as the Captain of the Waves protected ships from the destruction wrought by their leader [[Talos]], invoked as he was by sailors to intercede with favorable winds.<ref name="FRBS17">{{Cite book/Forgotten Realms Campaign Setting 2nd edition|17}}</ref><ref name="P&P-p73" /><ref name="F&P3e-p110" /> His true nemesis among them however was the Sea Queen Umberlee, whose cruel whimsy he defended sailors against.<ref name="P&P-p73" /><ref name="F&P3e-p110" /> She might yet try to destroy the upstart for daring to challenge her dominion, but as far as could be discerned he continued to defy her without significant retribution.<ref name="P&P" /><ref name="P&P-p73" />
+
+==Worshipers==
+[[File:Valkur symbol.jpg|thumb|''The holy symbol of Valkur.'']]
+Valkur was little known by those who dwelled inland.<ref name="P&P-p73" /> While there were many gods that Faerûnian sailors might pray to in regards to their work, Valkur was invoked in hopes of good tidings for the ship, all hands onboard, and the voyage as a whole.<ref>{{Cite web/Candlekeep forum
+| title      = Gods
+| author     = [[Ed Greenwood]], [[The Hooded One]]
+| topicid    = 3684
+| postid     = 
+| whichpage  = 50
+| url        = http://candlekeep.com/forum/topic.asp?TOPIC_ID=3684&whichpage=50
+| archiveurl = 
+| date       = 2005-08-27
+| archivedate= 
+| accessdate = 2023-06-14
+}}</ref> Besides sailors, he was venerated by many along the coasts who made their living from the sea; ranging from rich merchants to simple fisherfolk.<ref name="P&P-p73" /> His clergy was loosely organized, with many of its [[cleric]]s serving as captains or sailors aboard ships. Usually they met each other only by happenstance, such as when they were both serving the same ship or were present in the same port.<ref name="F&P3e-p110"/>
+
+In the past, [[Northlander]]s only honored Valkur occasionally; as a result of the unreliability of his protection.<ref name="FRBS59" /><ref name="TSF">{{Cite book/The Savage Frontier|19}}</ref> In more recent times he had become their unique god; the mighty deity that they revered and honored above all others. In him they saw embodied and exemplified the traits that they, particularly their warriors, most admired and treasured: strength, courage, ferocity, guile, and sailing skill. To question, let alone insult, this veneration was not advisable.<ref name="SCAG5e-p21,68" /><ref name="SCAG5e-p69">{{Cite book/Sword Coast Adventurer's Guide|69}}</ref>
+
+Valkur was venerated by the humans and general [[half-elf]] populance of [[Aglarond]].<ref name="UE">{{Cite book/Unapproachable East|103}}</ref><ref name="ROF91">{{Cite book/Races of Faerûn|91}}</ref><ref name="ROF60">{{Cite book/Races of Faerûn|60}}</ref> He was a favored deity in [[Impiltur]],<ref name="ROF91" /> [[Altumbel]],<ref name="PGtF-p11">{{Cite book/Player's Guide to Faerûn|11}}</ref> [[Tharsult]],<ref name="PGtFE1">{{Cite web/Player's Guide to Faerûn Errata|1}}</ref> and [[Wizard's Reach]],<ref name="PGtF-p16">{{Cite book/Player's Guide to Faerûn|16}}</ref> appeased and beseeched by sea traders in [[Amn]],<ref name="LOIA4-5">{{Cite book/Lands of Intrigue/Amn|4-5}}</ref> and significiant in areas where [[Illuskan]]s and [[Tethyrian]]s lived together.<ref name="ROF94">{{Cite book/Races of Faerûn|94}}</ref>
+
+[[Water genasi]] tended towards deities of water, including Valkur. Those who revered him were respected by common sailors and welcomed aboard by captains, as even those without a taste for adventure loved working on boats. Clerics among [[air genasi]] were also known to choose Valkur as a patron.<ref name="ROF115.129">{{Cite book/Races of Faerûn|115, 129}}</ref>
+===Dogma===
+Valkur's doctrine placed emphasis on the importance of defying the odds and daring the impossible. This exploratory spirit was seen as both necessary to spread the reach of humanity and for the thrill in and of itself. It was a philosophy of carpe diem that embraced risk and viewed life on a ship - feeling and fighting the elements themselves - as the greatest, most invigorating feeling in the world. Notably, his dogma encouraged self-sufficiency and independence in his followers and placed himself third in their list of priorities; their loyalties going first to their crew and second to their ship.<ref name="F&P3e-p110" />
+
+===Rituals===
+Clerics of Valkur prayed for their spells around dawn, upon the stirring of the first breeze.<ref name="F&P3e-p110" /> Valkur's church celebrated only one holy day known as the Shattering. The exact date of the festival varied but it was always celebrated in the spring. The purpose of the festival was to celebrate the breaking up of ice floes in the north, which marked the beginning of the sailing season.<ref name="F&P3e-p110" />
+
+Valkur's name was spoken to bless the spirits of dead sailors and lost ships.<ref name="P&P" />
+
+==History==
+Valkur's worship originated in [[North Faerûn]] centuries before the 13{{th}} century. He seemed tied to the story of a legendary captain from [[Mintarn]], a mortal sailor (possibly himself) who challenged Umberlee and emerged victorious against all odds.<ref name="P&P" /><ref name="F&P3e-p110" /> One thing that was known about Valkur's mortal life was that he once was friends with the [[mage]] [[Gullwyn]] who, after retiring from his life at sea, gifted Valkur his famous enchanted [[dagger]] called the ''[[Dagger of Safe Harbor]]''.<ref name="IWD">{{Cite game/Icewind Dale: Heart of Winter}}</ref> From there his faith spread quickly to Tethyr and Amn; where it became centered,<ref name="P&P" /> steadily increasing southward.<ref name="LOIA">{{Cite book/Lands of Intrigue/Amn|57}}</ref>
+
+Valkur's activities during the [[Time of Troubles]] were unclear.<ref name="TAT:TGWT">{{cite web/The Avatar Trilogy: The Gods Walk Toril}}</ref> Since then, he had worked on his unresponsiveness; which had resulted in northern sailors trying to placate the Gods of Fury rather than seek his unreliable protection. Although his help still could not be relied upon, he had become more attentive to entreaties from his faithful.<ref name="P&P" /> In the 15{{th}} century [[DR]], his focus had notably recentered to the North to the point that he was considered a deity of Northlander sailors.<ref name="SCAG5e-p21,68" />
+
+==Trivia==
+The sight of a species of spined fish named [[Valkur's fish]], so named for the belief that Valkur left the dark, eye-like spot on their side with his thumb, was considered good luck.<ref name="Nw-SKT">{{Cite game/Neverwinter: Storm King's Thunder}}</ref>
+
+In the Valkuryte faith, the northern tropic was called [[Trethen]] and the southern tropic [[Lonthen]].<ref name="EdGreenwood">{{Cite web/Candlekeep forum
+     | title      = Questions For Ed Greenwood
+     | author     = [[Ed Greenwood]]
+     | topicid    = 
+     | postid     = 
+     | whichpage  = 
+     | date       = 
+     | accessdate = 2022-09-30}}</ref>
+==Appendix==
+===Gallery===
+<gallery>
+Valkur Symbol PP.png|The symbol of Valkur from ''[[Powers & Pantheons]]''
+Valkur Symbol Box Set.png|The symbol of Valkur from ''[[Forgotten Realms Campaign Setting 2nd edition (revised)]]''
+Sword coast corsair - CHIPPY.jpg|A [[Sword Coast corsair]] standing in front of Valkur's holy symbol.
+</gallery>
+===Appearances=== 
+:;Novels
+::{{Refonly}}
+::<small>''[[Prophet of Moonshae]]''</small> 
+:;Video Games
+::{{Refonly}}
+::<small>''[[Baldur's Gate (game)|Baldur's Gate]]'' &bull; ''[[Icewind Dale: Heart of Winter]]''</small>
+===References===
+{{Refs}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[Category:Exarchs]]
+[[Category:Demipowers]]
+[[Category:Chaotic good deities]]
+[[Category:Air domain deities]]
+[[Category:Chaos domain deities]]
+[[Category:Good domain deities]]
+[[Category:Ocean domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Human deities]]
+[[Category:Formerly mortal deities]]
+[[Category:Tempest domain deities]]
+[[Category:War domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:Inhabitants of Safe Harbor]]
+[[Category:Inhabitants of Ysgard (layer)]]
+[[Category:Inhabitants of Ysgard]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Warrior's Rest]]
+[[Category:Inhabitants of the Neutral Planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of Mintarn]]
+[[Category:Inhabitants of the Moonshae Isles]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants of the Sea of Swords]]

@@ -1,0 +1,406 @@
+WIKI PAGE: Shar
+
+{{Deity
+| image               = <gallery>
+Shar 5.5.png|5.5e
+Shar.jpg|3e
+</gallery>
+| caption2            = Various depictions of Shar.
+| name                = Shar
+| title               = Mistress of the Night<ref name="CotR-p14" /><ref name="FRA-30" /><ref name="FRCS2e-Cards" /><ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-p76" /><ref name="FRPG4e-p152" /><ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120">{{Cite book/Forgotten Realms: Heroes of Faerûn|120}}</ref><br /> The Lady of Loss<ref name="CotR-p14" /><ref name="FRCS2e-Cards" /><ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><br /> Nightsinger<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><br /> The Nightbringer<ref name="cru-p30">{{Cite book/Crucible|30}}</ref> Singer of Eternal Night<ref name="POD2" /><br/> Dark Lady<ref name="FRA-30" /><ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120"/><br /> Dark Goddess<ref name="FRCS3e-p249" /><ref name="FaP-p58" /><br/> Dark Deity<ref name="FRCS3e-p249" /><br/> Goddess of Loss<ref name="cru-p30" /><br/> Mistress of Pain<ref name="POD2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/> God of Thieves (in Netheril)<ref name="mc">{{Cite book/Mortal Consequences}}</ref><br/> The Unseen Lady (in Netheril)<ref name="TWoN-p55" /><br/> The Dark Traitor<ref name="TWoN-p55" /><br/> The Shadowy Seductress<ref name="TWoN-p55" /><br/> Our Lady of Loss<ref name="SCAG5e-p21,36-37" /><ref name="HoF-p120"/><br/>Lady of Sorrows<ref name="bg3" />
+| adjective           = Sharran<ref name="F&A-p138" />
+| aspects             = [[Ibrandul]]<ref name="F&A-p138" /><br/>[[Eshowdow]]<ref name="F&P">{{Cite book/Faiths and Pantheons|109}}</ref><ref name="RoF">{{Cite book/Races of Faerûn|106}}</ref>
+| status              = 
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]], {{former}} [[Netherese pantheon]]
+| home                = 
+| formerhomes         = 
+| gender              = Feminine
+| died                = 
+| basicrefs           = <ref name="CotR-p14" /><ref name="FRA-30" /><ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-p76" /><ref name="FRPG4e-p152" /><ref name="SCAG5e-p21,36-37" />
+| mortalrace          = 
+| mortalsex           = 
+| mortalhomes         = 
+| apotheosis          = 
+| mortalrefs          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Hades]] ([[Niflheim]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Darkness, loss, night, secrets, forgetfulness
+| domains5eR          = 
+| worshipers5eR       = Anyone suffering pain or loss
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,120">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,120}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral evil]]
+| symbol5e            = Black disk with a purple border
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Darkness, loss, night, secrets, forgetfulness
+| domains5e           = [[Death domain|Death]], [[Trickery domain|Trickery]]
+| worshipers5e        = Miners, those seeking to forget
+| channel divinity5e  = ''[[Touch of death]]''<br />''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p62-63,294">{{Cite book/Player's Handbook 5th edition|62-63,294}}</ref><ref name="SCAG5e-p21,36-37">{{Cite book/Sword Coast Adventurer's Guide|21,36-37}}</ref><ref name="DMG5e-p96-97">{{Cite book/Dungeon Master's Guide 5th edition|96-97}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Evil]]
+| symbol4e            = A black disk with a purple border
+| dominion4e          = [[Towers of Night]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Shadows<ref name="HotDQ-61">{{Cite book/Hoard of the Dragon Queen|61}}</ref>
+| domains4e           = [[Darkness domain|Darkness]], [[Knowledge domain|Knowledge]], [[Undeath domain|Undeath]]
+| worshipers4e        = Anarchists, [[assassins]], avengers, [[Order of the Dark Moon|dark moon]] [[monks]], nihilists, [[rogues]], [[shadow adept]]s, [[shadowcaster]]s, and [[shadowdancer]]s
+| cleric alignments4e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p76">{{Cite book/Forgotten Realms Campaign Guide|76}}</ref><ref name="FRCG4e-80,240">{{Cite book/Forgotten Realms Campaign Guide|80,240}}</ref><ref name="FRPG4e-p152">{{Cite book/Forgotten Realms Player's Guide|152}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral evil]]
+| symbol3e            = Black disk with deep purple border
+| homeplane3e         = [[Plane of Shadow]]
+| realm3e             = [[Palace of Loss]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Caverns, dark, dungeons, forgetfulness, loss, night, the [[Underdark]], unrevealed secrets
+| domains3e           = [[Cavern domain|Cavern]], [[Darkness domain|Darkness]], [[Evil domain|Evil]], [[Knowledge domain|Knowledge]]. [[Night domain|Night]], [[Pride domain|Pride]]
+| mantles3e           = {{Mantles|Deception|Evil|Knowledge|Light and Darkness}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Anarchists, [[assassin]]s, avengers, [[monk]]s, nihilists, [[rogue]]s, [[shadow adept]]s, [[shadowdancer]]s
+| cleric alignments3e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| favored weapon3e    = The ''[[Disk of Night]]'' ([[chakram]])
+| holy days3e         = Rising of the Dark ([[Feast of the Moon]])
+| challenge3e         = 
+| class3e             = {{class table|edition=3e|[[Rogue]]|10|[[Shadowdancer]]|10|[[Assassin]]|10|[[Sorcerer]]|9|[[Shadow adept]]|10}}
+| refs3e              = <ref name="FRCS3e-p249">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|249-250}}</ref><ref name="PGtF-163">{{Cite book/Player's Guide to Faerûn|163}}</ref><ref name="FaP-p58">{{Cite book/Faiths & Pantheons|58-60}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="D342-89">{{Cite dragon/342/The Wild Hunt|89}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral evil]]
+| symbol2e            = A black disk with a border of deep purple
+| homeplane2e         = [[Hades]]/[[Niflheim]]
+| realm2e             = [[Palace of Loss]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Caverns, dark, dungeons, forgetfulness, loss, night, the [[Underdark]], unrevealed secrets; {{former}} hatred, sleep, nightmares, illusions, lies, trickery, hiding places, betrayal, treachery, seduction, thieves, thievery, murder, winter<ref name="TWoN-p55" />
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Charm sphere|Charm]], [[Combat sphere|Combat]], [[Divination sphere|Divination]] (reverses only), [[Guardian sphere|Guardian]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Sun sphere|Sun]] (darkness only), [[Time sphere|Time]], [[Thought sphere|Thought]], <small>'''minor:'''</small> [[Creation sphere|Creation]], [[Elemental sphere|Elemental]], [[Healing sphere|Healing]]<ref name="F&A-p141"/>
+| worshipers2e        = Those feeling bitterness, loss, and slights; those who embrace the dark
+| cleric alignments2e = {{alignment grid|on|on|on|on|on|on|on|on|on}} (primarily evil)
+| holy days2e         = Rising of the Dark ([[Feast of the Moon]])
+| class2e             = {{class table|edition=2e|[[Cleric]]|35|[[Wizard]]|20|[[Mystic]]|30|[[Thief]]|20}}
+| refs2e              = <ref name="FRA-30">{{Cite book/Forgotten Realms Adventures|30}}</ref><ref name="RtR-p48">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|48}}</ref><ref name="FRCS2e-Cards">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Cardsheets}}</ref><ref name="F&A-p138">{{Cite book/Faiths & Avatars|138,140}}</ref><ref name="TWoN-p55">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|55}}</ref><ref name="OHG-p170">{{Cite book/On Hallowed Ground|170}}</ref>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Neutral evil]]
+| symbol1e            = Circle of black with a border of deep purple
+| homeplane1e         = [[Hades]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Darkness, night, loss, forgetfulness
+| worshipers1e        = Beings that shun light, jilted and grieving lovers, people hiding something
+| cleric alignments1e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-p14">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|14}}</ref>
+| animals             = [[Raven]]s<br />[[Crow]]s
+| plants              = 
+| monsters            = [[Death tyrant]]s<br />[[Nightshade]]s
+| minerals            = 
+| colors              = Purple, black
+| misc manifestations = Shapeless tendrils of darkness<br />Violet auras
+| manifestation refs  = <ref name="DD&D-p14">{{Cite web enhancement/Deity Do's and Don'ts|14}}</ref>
+| usethe              = 
+| church              = yes
+| temples             = 
+}}
+'''Shar''' ({{Pronounce|shahr|refs=<ref name="CotR-p14" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" />}} {{Pronounce|SHAHR|refs=<ref name="F&A-p138" />}}), also known as '''Mistress of the Night''' and the '''Lady of Loss''', was the [[goddess]] of darkness and the night in the [[Faerûnian pantheon]] and the malevolent twin sister and counterpart to the goddess of the moon, [[Selûne]]. In the 14{{th}} and 15{{th}} centuries [[DR]], she held the [[portfolio]]s of darkness, forgetfulness, loss, and night<ref name="CotR-p14" /><ref name="FRA-30" /><ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="SCAG5e-p21,36-37" /> and after she slew the underground god [[Ibrandul]] she claimed the portfolios of caverns, dungeons, and the [[Underdark]].<ref name="F&A-p138" /> In the time of ancient [[Netheril]], Shar also held the portfolios of hatred, sleep, nightmares, illusions, lies, trickery, hiding places, betrayal, treachery, seduction, thieves, thievery, murder, winter, before she lost these to other deities.<ref name="TWoN-p55" />
+
+Shar was the goddess of darkness, not only as the absence of light but also as the metaphorical darkness that dwelled in one's heart, mind, and soul.<ref name="SCAG5e-p21,36-37" /> The domain of the Mistress of the Night was not only that of dark places, but of deeds done under darkness, of secrets, loss, hidden pain, and wanting to forget.<ref name="F&A-p138" /> She was also the creator of the [[Shadow Weave]], a dark counterpart and attack upon the [[Weave]] of [[Mystryl]] and her successors, before both of the Weaves fell into ruin during the [[Spellplague]].<ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref>
+
+{{quote|I am nothing. I am the empty room. The dreamless sleep. The shadow's shadow. There was no pain before my sister set the sun aflame. Now you exist to suffer until you find your way back to my embrace.|Shar<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+{{TOC limit|3}}
+==Description==
+[[File:Avatar of shar.jpg|thumb|left|''An avatar of Shar.'']]
+In religious artwork, Shar was depicted as a darkly beautiful human woman with long raven-black hair and clad all in black, swirling attire.<ref name="CotR-p14" /><ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="FaP-p58" /> In Netheril, she also had black- or purple-hued skin and was shown with a cowled cloak that flowed into shadows.<ref name="TWoN-p55" /> Her eyes were large and haunting, and were solid purple with pupils as black as coal and reflecting the void at the dawn of time, and when she smiled it was cold as night.<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="FaP-p58" /> When visiting mortals in dreams, her dark hair would move and swirl regardless of gravity or outside forces, such as wind.<ref name="EGPEFR-p161">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|161}}</ref>
+
+An alternative image was that of a simple black sphere limned in rushing purple flames; these were typically magically animated.<ref name="F&A-p138" /><ref name="FaP-p58" />
+
+[[File:Nightsinger avatar of shar.jpg|thumb|left|''The Nightsinger avatar of Shar.'']]
+When she appeared in person, Shar had two [[avatar]]s that she favored. The first was the Nightsinger,<ref name="F&A-p138" /><ref name="FaP-p58" /> a figure standing over {{SI|10|feet|long=yes}}<ref name="FaP-p58" /> or even {{SI|12|feet|long=yes}} tall,<ref name="F&A-p138" /> shrouded entirely in a vast cowled [[cloak]] that disguised her figure and flowed into all shadows and areas of darkness around her. She wore a mask of feathers of every kind, which concealed her face and disappeared into the dark depths of her cowl. Never simply speaking, she sung her every word with sounds of sorrow and loss, forming a song that was at once heartbreaking and hauntingly beautiful.<ref name="F&A-p138" /><ref name="FaP-p58" /> It compelled listeners to obey her every command or else to stand helpless with despair.<ref name="TWoN-p55" />
+
+Her other avatar was the Dark Dancer, appearing as a human woman {{SI|7|feet|long=yes}} in height and with a lithe, dancer's build and divinely beautiful. With little attire, her skin was black as [[jet]] but sparkling with starlight, while her eyes were dark and hypnotic, capable of projecting magic that could help or harm in equal measure. Her dance was graceful and beguiling, even erotic, and her sensual performance and suggestive stares were enough to make any mortal fall down and obey her.<ref name="F&A-p138" /><ref name="FaP-p58" />
+
+==Personality==
+
+The misfortune of outliving her offspring threw the goddess in a never-ending spiral of depression.<ref name="TEV-TOSD"/> A force of destruction and darkness, the very existence of Shar was paradoxical; the Nightbringer was brought into existence by the creation of [[Realmspace]], but was the living embodiment of the void, the perfect nothing that existed before she was born. The emptiness that she originally reflected had itself been erased at the start of time, and she longed to return to the ancient calm of nonexistence. And so she would disrupt order, bring down established systems, and undo everything.<ref name="FaP-p58" />
+
+By her very nature, Shar was defined by loss, the foolishness of hope, and life's inherent emptiness. She was a goddess of pains and wrongs kept hidden yet never forgotten, of concealed hatred and unnatural desires that lurked in one's heart, of nursed grudges and hungered-for revenge cultivated in secret for any slight or offense, however old and cold it was. She enjoyed concealing things and keeping secrets for their own sake, so they never saw the light of day.<ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="FRCG4e-p76" /><ref name="FRPG4e-p152" /><ref name="SCAG5e-p21,36-37" /> Her tools were temptation, subterfuge, trickery, clandestine deals,<ref name="FaP-p58" /> schemes, and manipulations and, to her, the means were always justified by the ends.<ref name="TWoN-p55" /> (Despite some similarities, Shar and [[Leira]] had a subtle yet distinct difference: Shar was a goddess of secrecy and concealment; Leira was a goddess of deceit and disguise.)<ref name="F&A-p138" />
+
+The depths of Shar's evil were too extreme to be described by words. She was deeply twisted and perverse, a being of ceaseless, petty hate and jealousy. She plotted from the shadows to undermine all creation. Though she was not [[chaotic]] herself, like her sister was, Shar nonetheless sought to destroy all order.<ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /> Even her own devoted worshipers were simply pawns in her overarching scheme against everything there ever was and ever would be.<ref name="FaP-p58" />
+
+{{fq
+| text   = Dahl told me once you worship Shar when grief overtakes you. You give her a little honor so that she eases the sadness through your life. That the evil of Shar is that she'll try to pull you down into that darkness, to make you stay.
+| source = [[Farideh]].<ref name="TDYK">{{Cite book/The Devil You Know|39|3}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+Although Shar purported to be a healer, soothing the grief-stricken by letting them forget their woes, she was in truth a sadist, and enjoyed inflicting the pain of loss on her worshipers. Her alleged help was not release from that pain, but numbness to it, the acceptance of it as normal and the removal of any expectation otherwise. The Lady of Loss did not truly believe in healing grief, not even her own, but in harnessing it, in nurturing spite, nursing indignity, and reinforcing regret until minor slights, at least in one's own mind, become transgressions worthy of bitter vengeance.<ref name="CotR-p14" /><ref name="RtR-p48" /><ref name="F&A-p138" /><ref name="OHG-p170" /><ref name="FaP-p58" /><ref name="SCAG5e-p21,36-37" /><ref name="TH-3">{{Cite book/The Herald/MMP (2014)||3}}</ref> She taught her faithful to be cynical, that they could not look for any good in the world, nor in themselves.<ref name="OHG-p170" />
+
+==Abilities==
+[[File:Selûne vs Shar.jpg|thumb|left|250px|''Selûne battling Shar, while her Shards swoop overhead.'']]
+When manifested as an avatar, she could cast a wide variety of magical [[spell]]s from her eyes, bar those that primarily produced light (spells of fire or heat were acceptable). As the Nightsinger, she could conjure ''[[darkness]]'' or ''[[continual darkness]]'' as often as desired with but a thought and fought with the strike of her hand.<ref name="F&A-p138" /><ref name="TWoN-p55" /> Her very touch could instill a sense of solace or cause momentary forgetfulness, or even complete amnesia. She moved amongst shadows, carefully sculpted in her path.<ref name="TWoN-p55" /> Her dirgeful song could cause chilling harm, drain a listener's wits or their memories, or slay outright. As the Dark Dancer, all her [[charm]] spells, such as ''[[charm person]]'' and those from the [[charm sphere]], were thrice as strong in all respects and just as hard to resist. But most devastating was her kiss; a touch of her lips compelled one to become her loyal and faithful servant, or else risk death that very moment—all they could do was choose. One who accepted Shar was charmed, their goals and beliefs swayed to hers, and they would even gladly kill or be killed for her. Only a ''[[wish]]'' or ''[[limited wish]]'' could dispel this charming effect.<ref name="F&A-p138" /><ref name="TWoN-p55" />
+
+However, Shar rarely deigned to manifest an avatar in Faerûn.<ref name="FaP-p58" /> Instead, Shar most often manifested as ever-writhing, swirling tendrils of shapeless darkness, even in places where no shadow should exist, which bore a purple aura. On occasion, a single, unblinking purple eye could be glimpsed at their center, and, eye or not, all who stood amongst the dark tendrils felt they were being watched and coolly considered. These tendrils might be used to deliver a message directly into the minds of the faithful with only a touch, or they could be used to point out something important or a direction to take. A touch from one of these tendrils could also cause numbness and the capacity to tolerate pain; rather than heal, it drove the followers of Shar to push on and on until they died of their injuries or exhaustion.<ref name="F&A-p138" /><ref name="TWoN-p55" />
+
+To act as her messengers or guardians or to enact her will, Shar would send [[darktentacles]] or [[undead]] [[beholder]]s known as doom tyrants,<ref group="note">''Faiths & Avatars'' p. 140 says "doom tyrants", but no such creature is known. Instead, this is presumed to be an error for the [[death tyrant]] or [[doomsphere]].</ref> or mysterious monsters of shadow.<ref name="F&A-p138" />
+
+Most notable among her array of powers was the ability to perfectly perceive every thing, every person, and every deed of betrayal or nihilism that was hidden or done in the dark.<ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /> She could also instantly create any [[magical item]] that concealed or obscured what was true or that conjured magical darkness.<ref name="FaP-p58" />
+
+==Activities==
+She reigned over the darkness between the stars and over the shadows in places so deep that even Mask feared to tread there.<ref name="FRCS2e-Cards" /> She was also patron of the Shadow Weave, a force of magic she created out of nothingness and disturbing secrets that would corrupt those who used it. Because she created it, she could deny its power to any being, mortal or deity.<ref name="FaP-p58" />
+
+Shar was in constant conflict with Selûne, her sister and the goddess of the moon.<ref name="FRPG4e-p152" /><ref name="FRCG4e-80,240" /> Their war was the eternal drama of the sky, vital to the balance of nature: the dark of the night devouring the light of the moon, before the moon was renewed and the cycle repeated.<ref name="ADDc-22" /> In their never-ending struggle across the sky, Selûne was slain by Shar at every new moon.<ref name="CotR-p14" /> They fought incessantly to undercut the other.<ref name="OHG-p170" /> Shar spent most of her energy and attention on this eternal conflict,<ref name="FRCS3e-p249" /> but rather than assault Selûne directly, she preferred to target what her sister loved, such as her faithful.<ref name="FaP-p58" />
+
+Against other rival deities, she adopted a subtle approach, working to sway and subvert their own mortal followers to turn to her faith.<ref name="FRCS3e-p249" /> However, sometimes she would strike outright, such when she slew [[Ibrandul]], but only because she'd had the opportunity.<ref name="FaP-p58" />
+
+==Divine Realm==
+Shar's [[divine realm]] was originally the [[Palace of Loss]],<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /><ref name="PGtF-p163" /> which in the [[Great Wheel cosmology]] was found in [[Niflheim]], the second gloom of the [[Hades|Gray Waste of Hades]],<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /> and in the [[World Tree cosmology]] stood on the [[Plane of Shadow]].<ref name="PGtF-p163" /> Wherever it was, it was a tower that had no obvious entrances nor exits. She would trap those who enjoyed their freedom inside, savoring their despair at their loss, though she would allow [[petitioner]]s and visiting worshipers to freely come and go (perhaps to further torture the trapped ones).<ref name="F&A-p138" /><ref name="OHG-p170" /><ref name="PGtF-p163">{{Cite book/Player's Guide to Faerûn|163}}</ref>
+
+When she created the [[Shadowfell]], Shar created a new realm in the [[Astral Sea]], larger than any of the others there. Among the dark scenery, with its black sand and shadowy natural features, lay the [[Towers of Night]]. Her new abode, a more palatial one than her old home, was built atop the tallest mountain of this realm. Access to the Shadowfell was easy from here and she shared the realm with [[Talona]], [[Sseth]], and [[Zehir]]. Her former home became the Foundation of Loss, which formed a passage to Towers of Night.<ref name="FRCG-65">{{Cite book/Forgotten Realms Campaign Guide|65,69}}</ref>
+
+==Possessions==
+In battle, Shar fought with twin ''+5 [[keen]] [[Unholy (weapon quality)|unholy]] [[Wounding (weapon quality)|wounding]] [[short sword]]s'', dual-wielding them with great finesse. She also had her ''[[Disk of Night|disks of the night]]'', which were ''+5 [[returning]] [[speed]] [[chakram]]s'' that she threw with ease.<ref name="FaP-p58" />
+
+==Relationships==
+{{fq
+| text   = Shar won't bother us here. She's far too busy writing poetry and crying about how much people prefer her sister.
+| source = Auntie Ethel a [[hag]] insulting Shar<ref name="bg3"/>
+| float  = 
+| width  = 
+| styles = 
+}}
+Her eternal enemy was her sister [[Selûne]], goddess of the moon, a war that had been waged since before all other Faerûnian gods existed, before time was recorded. They fought constantly in all realms of existence, across the sky at night and in other planes, waged through their mortal followers and their servitor beings, and in person. Selûne labored always to thwart Shar's dark plots. They would never forgive and never forget.<ref name="CotR-p14"/><ref name="FRA-30"/><ref name="RtR-p48"/><ref name="F&A-p138"/><ref name="TWoN-p55"/><ref name="FRCS3e-p249"/><ref name="FaP-p58" /><ref name="OHG-p170" /><ref name="TWoN-p51">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|51-52}}</ref>
+
+The first goddess of magic, [[Mystryl]], bore no hatred for her "mother" Shar, but did not trust her either. Shar had long tried to gain control over her.<ref name="TWoN-p49">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|49}}</ref> The creation of the Shadow Weave made Shar the eternal enemy of the later goddess of [[magic]], [[Mystra (Midnight)|Mystra]]. This resulted in the brewing of a terrible war between these two powerful deities.<ref name="FaP-p58" /> This fight escalated shortly before the [[Second Sundering]], when Shar sought to usurp the Weave, and thus become the new Goddess of Magic.<ref name="TH-19">{{Cite book/The Herald/MMP (2014)||19}}</ref>
+
+By her very nature, Shar was of course opposed to all the gods of light and fire, namely [[Lathander]], god of the morning (her crushing of creative spirit also put her counter to his emphasis on creativity<ref name="OHG-p170" />), and [[Amaunator]], the god of the sun, at least while they were together in the Netherese pantheon. She also was an enemy of [[Ibrandul]], god of the dark underground, whom she later slew, and the unsecretive [[Shaundakul]], god of travelers.<ref name="F&A-p138"/><ref name="TWoN-p55" /><ref name="FRCS3e-p249"/><ref name="FaP-p58" /><ref>{{Cite book/Faiths & Avatars|27,72,90,142}}</ref><ref>{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|34}}</ref> Shar was in turn opposed by [[Helm]], god of guardians;<ref>{{Cite book/Faiths & Avatars|68}}</ref> [[Gargauth]], the ascended [[archdevil]];<ref>{{Cite book/Powers & Pantheons|22,24}}</ref> and [[Hanali Celanil]] and [[Sehanine Moonbow]] of the [[elven pantheon]].<ref>{{Cite book/Demihuman Deities|114,125 }}</ref> Shar also saw herself as an enemy of the [[Cerilia]]n goddess [[Nesirie]], who worked to heal grief, which was anathema to the Lady of Loss. Rumor had it that even some of Shar's [[proxies]] sought refuge in Nesirie's realm, the Waves of Grief, further antagonizing the Dark Lady.<ref name="OHG-p170" />
+
+She harbored a cold fury at [[Mask]], god of shadows and thievery, out of jealousy at him holding what she thought ought to be hers, and at [[Hoar]], god of retribution, so she might claim the portfolio of revenge.<ref name="FaP-p58" /> Yet she tried to corrupt Hoar into a being of blind and bitter revenge<ref>{{Cite book/Powers & Pantheons|29}}</ref> and Mask would ally with her except that he feared losing what was left of his power to her.<ref name="OHG-p170" /> She had also been a foe of [[Tyche]], goddess of fortune, during the time of Netheril.<ref name="TWoN-p55" /><ref>{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|60}}</ref>
+
+Shar counted as an ally [[Myrkul]], the god of the dead,<ref name="CotR-p17">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|17}}</ref><ref name="F&A-p138" /><ref>{{Cite book/Faiths & Avatars|124}}</ref> and after Myrkul's death, she briefly considered an alliance with his successor Kelemvor, but this seemed unlikely given their moral differences.<ref name="OHG-p170" /> Her only regular ally was [[Talona]], goddess of poison and disease.<ref name="F&A-p138" /><ref name="FRCS3e-p249" /><ref name="FaP-p58" /><ref name="F&A-p152">{{Cite book/Faiths & Avatars|152}}</ref> Their alliance was a recent one as of 1370 DR;<ref name="F&A-p152" /> it's possible Talona would one day serve Shar fully in order to keep her own rival [[Loviatar]] at bay, even to have Shar slay her for her.<ref name="FRCS3e-p249" /><ref name="FaP-p58" /> During the time of the Netherese pantheon, Shar had been an ally of [[Jergal]], the then god of death and the dead, who at the time admired her seductive grace and unspeakable evil and even formally courted more than once, though he knew full well she only tried to manipulate him.<ref name="TWoN-p55" /><ref>{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|40}}</ref> Meanwhile, she had also been an ally of [[Kozah]], god of destruction, and [[Moander]], god of rot and decay; both were of similar mind to her.<ref name="TWoN-p55" /><ref>{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|42,45}}</ref> [[Targus]], the god of war, was infatuated with Shar for her beauty and grace, believing her to be perfect and foolishly defending her honor against all evidence otherwise, so she could easily persuade him to do as she desired.<ref name="TWoN-p55" /><ref>{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|58}}</ref> Even after he became [[Garagos]], he wouldn't let his battle-hungry faithful attack those of Shar, though he wouldn't let them ally either.<ref>{{Cite book/Powers & Pantheons|20}}</ref>
+
+Shar enjoyed a working relationship with [[Vhaeraun]].<ref name="DD-36">{{Cite book/Demihuman Deities|36}}</ref><ref name="F&P-114">{{Cite book/Faiths and Pantheons|114}}</ref> Vhaeraun was the [[drow]] patron of [[shadow magic]]<ref name="DDGU-93">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|93}}</ref> and Shar was the owner of the Shadow Weave.<ref name="FRCS-57">{{Cite book/Forgotten Realms Campaign Setting|57}}</ref> They worked together in projects that concerned this magic, like the [[School of the Shadow Weave]], which had followers of both Vhaeraun<ref name="AotL-74">{{Cite book/Ascendancy of the Last|74}}</ref><ref name="DDGU-90">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|90}}</ref> and Shar among them.<ref name="U-175">{{Cite book/Underdark|175}}</ref> When Vhaeraun died, Shar was also one of the prime choices to whom his followers might convert.<ref name="SofD-61">{{Cite book/Storm of the Dead/Paperback (2007)|61}}</ref>
+
+Even the elven god of vengeance [[Shevarash]] had grown close to Shar, her with soothing touch giving him some small solace. This worried the other elven deities greatly.<ref>{{Cite book/Demihuman Deities|130,131 }}</ref>
+
+==Symbol==
+[[File:Shar symbol BG3.png|thumb|right|''The holy symbol of Shar.'']]
+Her [[holy symbol]] was a black disc ringed with deep purple.<ref name="CotR-p14" /><ref name="FRA-30" /><ref name="RtR-p48" /><ref name="F&A-p138" />
+
+In the time of ancient Netheril, Shar had two different holy symbols. One was a glistening eye, purple with a black pupil and outlined in black. The other was a cowled cloak designed for hunting, black and plain and spread out flat.<ref name="TWoN-p55" />
+
+==Worshipers==
+{{Main|Church of Shar}}
+{{Quote|Mother of Night, darken my step as I walk among the light. Hear my prayer.|A basic prayer to Shar.<ref name="bg3"/>}}
+
+People turned to Shar's dark embrace in order to forget, whether it was pain at the loss of a loved one or bitterness at a betrayal.<ref name="CotR-p14" /><ref name="RtR-p48" /><ref name="FaP-p58" /><ref name="SCAG5e-p21,36-37" /> Those who were [[blind]], particularly blinded later in life by the cruelty or carelessness of others, would also pray to her for guidance. The mentally ill and the mad, and the anarchistic and the nihilistic, might also turn to her if they had a natural affinity for her ways.<ref name="FaP-p58" /> Those sunk deep in depression would also pray to Shar.<ref name="SCAG5e-p21,36-37" /> Though they all knew her to be dark and vindictive, they came to her anyway in the desperate belief that she and her clergy would give solace, not thinking they would use their feelings to corrupt them. Good priests, especially those of Selûne, Mystra, and Lathander, warned them away, but often in vain. In this way, the clergy of Shar grew.<ref name="FaP-p58" /> Ultimately, they were simply consumed by bitterness, loss, and vengefulness.<ref name="FRPG4e-p152" /> She was also venerated, or at last paid lip service, by beings who avoided or despised light, those who operated at night like thieves and killers, and those with something to hide or bury.<ref name="CotR-p14" /><ref name="RtR-p48" />
+
+{{fq
+| text   = Of course, there is no reason to try to hide anything from the Mistress of the Night—once one has realized this, and has opened one's self to her cold, comforting embrace, there is no going back... For the Dark Lady rewards loyalty with power beyond imagination.
+| source = [[Oruana Drearon]]<ref name="nwn2">{{Cite game/Neverwinter Nights 2: Mysteries of Westgate}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+However, folk who only had to work at night or in the dark, such as miners, would offer prayers to Shar to keep dangers at bay. Even those who'd simply lost something might beg her help finding it.<ref name="SCAG5e-p21,36-37" /> So, she might be worshiped by people of any morality, whether [[lawful]] or [[chaotic]] or even [[good]], but most often by those of [[evil]] nature,<ref name="F&A-p138" /><ref name="TWoN-p55" /><ref name="OHG-p170" /> such as villainous [[thieves]].<ref name="CotR-p14" />
+
+Although she was a [[human]] deity, Shar was also commonly worshiped by [[goblinoid]]s and other creatures who abhorred light, whether it was because they lived underground or they acted at night. Either way, they paid her homage when working in the dark.<ref name="FRA-30" /><ref name="RtR-p48" /><ref name="FaP-p58" />
+
+Under her stolen alias as Ibrandul, the Lurker in Darkness, Shar was also worshiped by the [[Ibrandulin]]. She still granted spells to their priests.<ref name="F&A-p138" />
+
+The clergy of Shar were a secretive organization that pursued subversive tactics rather than direct confrontation with its rivals. In many cities where worshiping Shar was barred, these churches and temples were hidden because of their illegal nature. In addition to her clerics, Shar maintained an elite order of [[sorcerer]] [[monks]], the [[Order of the Dark Moon]], who could tap Shar's Shadow Weave.<ref name="FaP-p58" /><ref name="LoD-p122">{{Cite book/Lords of Darkness|122}}</ref>
+
+In the time of ancient [[Netheril]], Shar was among the deities venerated by the lower classes.<ref>{{Cite book/Powers & Pantheons|3}}</ref> Among her worshipers were the [[Shadovar]] of [[Thultanthar]], who fled into the Plane of Shadow before [[Karsus's Folly]] and devoted their whole society to her.<ref name="RoF-p149">{{Cite book/Races of Faerûn|149}}</ref><ref name="SCAG5e-p21,36-37" /> In their restored Empire of Netheril in the 15{{th}} century, the Shadovar made worship of Shar the state religion and the basis for their law, with all other faiths forbidden.<ref name="FRCG4e-p76" /><ref>{{Cite book/Forgotten Realms Campaign Guide|165,176-177}}</ref> Their fanaticism and tyranny, and their crimes for the glory of Shar, caused much loss and grief and led to widespread bans on her faith by the late 1400s.<ref name="SCAG5e-p21,36-37" />
+
+Shar was also venerated by many of those who used the Shadow Weave.<ref name="FRCS-p37">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|37}}</ref>
+
+===Heresies===
+Those who believed in the [[Dark Moon heresy]] believed that Shar and Selûne were two faces of the same goddess.<ref name="PoF-p47">{{Cite book/Power of Faerûn|47}}</ref>
+
+The [[She-Spider Cult]] of [[Thay]] tried to combine the faiths of Shar and [[Lolth]], but both goddesses ultimately rejected them, leaving them no divine aid.<ref>{{Cite book/Demihuman Deities|130,131}}</ref>
+
+==History==
+===Creation===
+[[File:Shar vs Selune.jpeg|thumb|left|250px|''The goddesses Shar and Selûne locked in their eternal battle of dark and light.'']]
+According to one of the most ancient myths of the creation of the world and the heavens, after [[Realmspace|the universe]] and its [[crystal sphere]] were created by Lord [[Ao]], there was naught but the primordial essence, the protoplasmic raw stuff of existence. Described as chaos and timeless nothingness, the sphere was filled with no more than dim misty shadows, neither light nor dark, for such things had not yet separated. (All that moved here were the [[shadevari]], the thirteen lords of shadow, whose origin, whether from elsewhere or from the shadow itself, is unknown.<ref name="F&A-p141"/>) In time, Shar coalesced from the primordial essence, alongside her twin sister, Selûne. The goddesses were beautiful, identical but polar opposites, raven-haired and silver-haired, one representing the dark, the other the light in the manner of [[Wikipedia:Yin and yang|yin and yang]]. Yet they were so close they saw themselves as one being, known later as the '''Two-Faced Goddess''' or the '''Sisters-Who-Were-One'''. They complemented each other<ref name="FRCS3e-p249"/><ref name="F&A-p141">{{Cite book/Faiths & Avatars|141}}</ref><ref name="FRCS3e-p260">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|260}}</ref> and brought order out of the chaos.<ref name="FRCG4e-80,240"/>
+
+Together, they created from the cosmic ether [[Abeir-Toril]] and the other heavenly bodies and infused these worlds with life. In the process, they formed the goddess [[Chauntea]] (at that time, the embodiment of all matter in Realmspace, later only of the world of Abeir-Toril), whom they worked with to bless the worlds with life.<ref name="FRCS3e-p249"/><ref name="FaP-p56">{{Cite book/Faiths & Pantheons|56}}</ref><ref name="F&A-p141"/><ref name="FRCS3e-p260"/><ref name="FRCG4e-80,240"/> This universe was darkened by the hair and welcoming embrace of Shar and illuminated by the cool radiant face of Selûne. However, there was no fire or heat on any of these bodies. Desiring to nurture life on the worlds that formed her body and limbs, Chauntea asked the Two-Faced Goddess for warmth. Then, for the first time, Shar and Selûne were divided, being of two minds on whether they should let there be more life on the worlds or not.<ref name="FaP-p56"/><ref name="F&A-p141"/><ref name="FRCS3e-p260"/>
+
+===The War of Light and Darkness===
+The two goddesses then fought over the fate of their creations. From the residues of these struggles emerged the original deities of magic, war, disease, murder, death, and others.<ref name="FRCS3e-p249"/><ref name="FaP-p56"/><ref name="F&A-p141"/><ref name="FRCS3e-p260"/> Seizing an advantage, Selûne reached out of the universe altogether and into a [[Elemental Plane of Fire|plane of fire]] and, though it burned her painfully, brought forth a fragment of [[elemental fire|ever-living flame]]. She ignited a heavenly body—the [[Sun]]—in order to give warmth to Chauntea.<ref name="FaP-p56"/><ref name="F&A-p141"/><ref name="FRCS3e-p260"/><ref group="note">''[[Faiths & Avatars]]'' page 141 has Selûne create the Sun after the beginning of the war with Shar, while ''[[Faiths & Pantheons]]'' page 56 has this as the trigger for the war with Shar.</ref>
+
+{{fq
+| float  = right
+| width  = 
+| text   = In the twilight of battle, one sister falters,<br />But Selûne hurls magic in desperate power.<br />From two sisters, one child the balance alters—<br />Mystryl's aid to Selûne ends Shar's dark hour!
+| source = An excerpt from a ballad by [[Veseene|Veseene the Lark]]<ref name="MotN-p8">{{Cite book/Mistress of the Night|8}}</ref>
+}}
+This greatly enraged Shar; she renewed her assault on her injured sister and began to blot out all light and warmth in the universe, or the lights of Selûne, gravely weakening her. To protect the early life, Selûne tore out some of her own divine essence, though it nearly killed her, and hurled it at her sister. Selûne's essence tore through Shar, bonding with some of Shar's essence and pulling it loose. This magical energy combined to form the goddess [[Mystryl]], the original goddess of [[magic]]. Although Mystryl was composed of both light and dark magic, she initially sided with Selûne, her first mother, giving her the upper hand. Mystryl balanced the conflict and mediated an uneasy truce.<ref name="FRCS3e-p249"/><ref name="FaP-p56"/><ref name="F&A-p141"/><ref name="FRCS3e-p260"/> Shar was cast into her darkness for centuries, enabling light and warmth to bathe Abeir-Toril and the other worlds.<ref name="FaP-p56"/>
+
+The battle left Selûne deeply wounded, and thereafter her power would wax and wane with the ages, though she would gain strength from alliances with her daughters and sons, as well as interloper deities from other [[planes]]. Meanwhile, Shar, who'd retained much of her might, once again grew strong, and was aided by the shadevari. Consumed with bitterness and loneliness, she vowed revenge and lurked in the darkness until her time to strike. The war between the sisters would go on forever more, but life struggled and flourished on the worlds, watched over by Chauntea.<ref name="FaP-p56"/><ref name="FRCS3e-p260"/>
+
+===The Dawn War===
+When the [[primordial]]s began to attack the newly born worlds of Realmspace, Shar and Selûne set aside their differences temporarily and moved to defend those worlds against the threat. Other gods were born from the conflict or were summoned from other [[Cosmology|universes]] to aid the native gods in their struggles against the primordials and their servants. This conflict was later known as the [[Dawn War]].<ref name="FRCG-p42">{{Cite book/Forgotten Realms Campaign Guide|42}}</ref><ref>{{Cite book/Heroes of the Elemental Chaos|32}}</ref>
+
+===Tears of a Mother===
+Much as Selûne experienced [[Tears of Selûne|heartbreak]], her sister was not spared from the cruelty of fate. In a time before time, tragedy struck the goddess—the death of her very own child. This blow shrouded in mystery became a pivotal moment in Shar's life, anchoring all of her actions to that dreadful day.<ref name="TEV-TOSD">{{Cite web/theedverse/2021-07-04 - The Origin of Shar's Depression}}</ref> 
+
+===Early History===
+Once, Shar schemed to remake the whole world of Toril to suit her desires. She was aided in this by the shadevari, the Lords of Shadow, who themselves preferred darkness to the light they found blinding, and they roamed the Realms turning darkness and light back into the primeval shadow and chaos. They threatened to extinguish life on Toril. But their efforts were thwarted when the god of mages [[Azuth]], consort to Mystra, created an illusory realm of shadows and lured the shadevari in to investigate. Before they realized they'd been fooled, he'd trapped the shadevari in the [[Shadowstar]], a key of shadows forged by [[Gond]] containing a [[crystal sphere]] no larger than a pocket. This he threw outside [[Realmspace]] and into the farthest parts of the universe.<ref name="F&A-p141" />
+
+After the [[Dark Diviners]] of [[Windsong Tower]] found the ''[[Book of the Black]]'', which contained [[Augathra the Mad]]'s secret [[Black Chronology]], they compiled the ''[[Leaves of One Night]]'', a tome that revealed many of Shar's own secrets. In the {{YearlinkName|684}}, both books were stolen by Sharrans and remained lost for centuries.<ref>{{Cite book/The Grand History of the Realms|97}}</ref>
+
+Some time after the early 8{{th}} century DR, the goddess [[Bast]] started to explore the darker pleasures, and so came to be swayed by Shar. In the teachings of the Sharrans, they were closely entwined, called the Maidens of the Forbidden Fruit. Bast became known as [[Sharess]], a goddess of lust who led the way to inevitable loss and despair. Over her time, her faith declined and her beauty and delight faded.<ref name="P&P-p52">{{Cite book/Powers & Pantheons|51,52}}</ref> By the mid–14{{th}} century DR, Sharess was commonly seen as merely an aspect of Shar and seemed set to be fully absorbed by her.<ref name="CotR-p17" /><ref name="P&P-p52" /><ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|59}}</ref>
+
+===The Time of Troubles===
+During the [[Time of Troubles]] of the [[1358 DR|Year of Shadows, 1358 DR]], magic went awry and the gods were forced to dwell in the mortal world. The avatar of Shar came to the city of [[Waterdeep]] in the guise of her sister Selûne. One evening, she called the faithful of Selûne to her. The next, she descended from the sky and onto the steps of the [[House of the Moon]] temple, greeted the faithful, promised her grace and protection, and encouraged them to proclaim her to be Selûne. Priests and common folk alike did so eagerly. When [[Luna]] (the true avatar of Selûne) and [[Vajra Valmeyjar]] approached, she called them unbelievers and roused the mob against Vajra while Luna confronted her. The false Selûne called her deluded, and used a ''[[sink]]'' spell to trap her, but Luna escaped with ''[[blink]]'' and flew. However, her ''[[prismatic spray]]'' failed and Shar used the ''[[Wand of the Four Moons]]'' (given to her by the temple priests) to knock Luna out. The temple guards took Luna prisoner, and Shar declared she would drive her mad before killing her.<ref name="ADDc-19">{{Cite comic/Selune Rising}}</ref>
+
+{{fq
+| text   = This is the battle you and I must fight ''forever'', Shar—night devouring the light of the moon, the moon ''replenishing'' itself. That is ''our place'' in the balance of nature. The fragile, eternal balance ''Lord Ao'' has charged us gods to uphold.
+| float  = right
+| width  = 
+| source = Selûne to Shar during their battle over Waterdeep.<ref name="ADDc-22">{{Cite comic/Total Eclipse}}</ref>
+}}
+Now posing as Selûne, Shar became mistress of the temple and enjoyed its hospitality, residing in high priestess [[Naneatha Suaril]]'s own quarters. Meanwhile, her true identity unknown, Luna was also kept as a "special guest"—prisoner— for a dozen days. Shar had her completely under her control,<ref name="ADDc-21">{{Cite comic/Lunatics}}</ref> using her stolen identity to confuse Luna and make her doubt herself. Shar broke her spirit and bent her to her will. Forgetting who she really was, Luna was reinvented as a faithful servant of "Selûne" and a member of the [[Swords of the Lady|Lunatics]], a fanatic Selûnite order.<ref name="ADDc-22">{{Cite comic/Total Eclipse}}</ref>
+
+Later, a party was held at [[Castle Waterdeep]] in honor of the supposed avatar of the goddess Selûne. It was attended by Lord [[Piergeiron]], [[Khelben Arunsun]], [[Tertius Wands]], [[Mirt]] and [[Asper]], and [[Fenn Estelmer]] and [[Kyriani]], a friend of Luna who came to investigate the avatar. However, a trio of the [[Dark Army of the Night]]—ironically, a cult devoted to Shar—crashed the party and attempted to kidnap the avatar, believing she was Selûne.<ref group="note">The irony of the Dark Army kidnapping their own goddess is unmentioned in the comic, but it is possible this was a ruse to lend credence to Shar's disguise as Selûne and draw attention elsewhere. Khelben is briefly more inclined to accept she is Selûne, while the heroes are convinced other opponents are really Shar. This is supported by the Dark Army only kidnapping, not trying to kill, Shar.</ref> She freed herself and caught them with a ''[[bind]]'' spell before they were arrested by the [[City Guard (Waterdeep)|City Guard]]. Afterward, Shar retired to the kitchen to compose herself and be alone, but Kyriani confronted her, declaring she would expose her and save Luna. Shar attacked Kyriani with ''[[minute meteors]]'', ''[[lightning bolt]]'', and ''[[magic missile]]s'', while Kyriani fought back with her ''[[ring of telekinesis]]''. Lord Piergeiron intervened and, though Kyriani was overcome, she'd revealed the avatar's reckless temper, sowing doubts among the nobility. Piergeiron ordered Kyriani arrested by the City Guard, but later escaped.<ref name="ADDc-20">{{Cite comic/Dark of the Moon}}</ref>
+
+[[File:Selune v Shar DC Comics.jpg|thumb|right|250px|''Selûne's light blasting Shar's Rod of Oblivion, during their battle over Waterdeep.'']]
+One night, Luna's friends [[Timoth Eyesbright]] and [[Onyx the Invincible]] infiltrated the temple and eavesdropped on the false avatar speaking with Naneatha and assuaging her doubts and concerns, before they were surprised by the Lunatics. Vajra and Kyriani came to their rescue, caught Luna thinking she was Shar, and unmasked her, shocked to find Luna.<ref name="ADDc-21"/> Luna continued to fight until Vajra tackled her and convinced her of the truth. Meanwhile, Naneatha also began to question the false Selûne, who soon revealed her murderous intent. Learning that Luna was truly Selûne and that the false avatar was in fact Shar, Naneatha defiantly shoved her off the temple balcony, falling over herself. However, both were saved by Shar's ''[[featherfall]]'' spell. Shar took out her rage on Naneatha, hurling a ''[[meteor swarm]]''; Naneatha somehow diverted the spell, but not before both were knocked unconscious. Her near self-sacrifice bought time for Luna and her friends to escape. Armed with the [[Rod of Oblivion]], Shar went ahead and destroyed Luna's inn, the [[Selûne's Smile]], and ambushed the returning adventurers. Shar was determined to revenge herself on the heroes for ruining her scheme to break Selûne's spirit and to finally slay Selûne herself. Powerless, Luna fell victim to the rod. Kyriani pleaded with Shar to leave Luna alone, and hurled an ''[[ice storm]]'' at the goddess when she could not, but Shar deflected it with a ''[[wall of force]]''. Kyriani valiantly held Shar off while Timoth, Vajra, and Onyx struggled to open the dimensional doorway to Luna's inner room, where her godly power was stored, and released Selûne's godly power to Luna. She transformed into the true avatar of Selûne and with her ''[[light]]'' blasted away Shar's darkness and Rod of Oblivion, reminding her of their unceasing battle and the balance they must uphold, a balance restored by her friends. Shar vanished, and Selûne became Luna once more.<ref name="ADDc-22"/>
+
+Also during the Time of Troubles, Shar happened upon Ibrandul, a lesser deity of subterranean spaces, in a deep chasm in a lost level of [[Undermountain]], and killed him in outrage at him swaying those who revered the dark away from her grasp. From him, she seized not only the portfolios of caverns, dungeons, and the Underdark, but also his church and very name. To her secret joy, she used his faith as a puppet church with which to subvert that of her sister, Selûne.<ref name="F&A-p138" /><ref name="FaP-p58" /><ref name="TRoU-175" /><ref>{{Cite book/Faiths & Avatars|72}}</ref>
+
+However, Shar missed the opportunity to also kill Sharess, whom she had been slowly corrupting. Sharess had adopted as her avatar the favored concubine of Syl-Pasha [[Rashid el Djenispool]] in Calimport, and was enjoying a life of debauchery in his harem when Shar came to kill her and completely claim her. But the goddess of love [[Sune]] appeared and purified Sharess with the waters of [[Evergold]], giving her back her beauty and her confidence with which to defy the Dark Dancer.<ref name="P&P-p52" /><ref name="TRoU-175">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|175}}</ref>
+
+===Shadowstorm===
+On [[Eleint 20]] in the {{YearlinkName|1373}}, the ''Leaves of One Night'' was recovered by Shadovar agents. From the empty spaces in its text, they learned a ritual for summoning the [[Shadowstorm]], catastrophic magic that could place Shar over all other deities. On [[Nightal 1]], the priestess [[Elyril Hraven]] completed it and opened a planar rift above the city of [[Ordulin]] in [[Sembia]]. Out of the Plane of Shadow, a piece of that plane called the [[Adumbral Calyx]] emerged, obliterating Ordulin. From it came a being known as Volumvax the Divine One—in fact, [[Kesson Rel]], the First Chosen of Mask—at the head of an army of undead [[shadow]]s and [[shadow giant]]s, who raised the slain as yet more shadows.<ref>{{Cite book/The Grand History of the Realms|154,157-158}}</ref>
+
+===Spellplague===
+In the {{yearlinkName|1385}}, with the support and assistance of Shar, Cyric infiltrated [[Dweomerheart]] and brutally murdered Mystra. This caused the collapse of the Weave, the reshaping of the [[plane]]s, and the cataclysmic event known as the [[Spellplague]].<ref name="FRCG4e-50" /><ref>{{Cite book/The Grand History of the Realms|159}}</ref> But Shar, who had planned to seize control of the Weave for herself, found that it collapsed so completely that she lost not only the Weave but her own Shadow Weave, leaving her with neither.<ref name="FRCG4e-50" />
+
+Instead, Shar combined the Plane of Shadow with the remnant death energy of the [[Negative Energy Plane]] to create the [[Shadowfell]], where she ruled over darkness ever since.<ref name="FRCG-65" />
+
+Shar's plots were defeated but she did absorb most of the divinity of her son [[Mask]],<ref name="Sr 3548">{{Cite digital book/Shadowrealm/Kindle|3548}}</ref> but not before he managed to secret a portion of this power to his Chosen, [[Erevis Cale]], using the [[Black Chalice]]. This portion was, however, absorbed not only by Erevis but also by [[Rivalen Tanthul]] and [[Drasek Riven]].<ref name="Sr 3143">{{Cite digital book/Shadowrealm/Kindle|3143}}</ref>
+
+===Second Sundering===
+====Attack on Cormyr====
+Around the {{YearlinkName|1486}}, the Shadovar attempted to conquer the nearby kingdom of [[Cormyr]]. Shar's agents infiltrated even some noble ranks, such as the then-princess [[Raedra Obarskyr]]'s husband [[Lindon Huntcrown]], and her lady-in-waiting, [[Sulue Thundersword]]. The combined efforts of the [[War Wizards]], [[Harpers]], and [[Farideh]] lead to many an agent's capture or demise.<ref name="FitB-8">{{Cite book/Fire in the Blood/Paperback 2015||8}}</ref><ref name="FitB-17">{{Cite book/Fire in the Blood/Paperback 2015||17}}</ref>
+
+A Shadovar army led by [[Yder Tanthul]] laid siege to [[Arabel]], and succeeded in relieving [[Wheloon]], a prison city that was once cordoned off due to its many Shar worshipers.<ref name="FitB-3">{{Cite book/Fire in the Blood/Paperback 2015||3}}</ref><ref name="FitB-21">{{Cite book/Fire in the Blood/Paperback 2015||21}}</ref> The same army marched on [[Suzail]], rumored to be accompanied by the fabled [[black dragon]] [[Thauglorimorgorus]]. Murders and explosions rocked the city, enacted by the Shadovar looking to weaken the defenses and ruin morale. With the Shadovar at their doorstep, King [[Irvel Obarskyr]] mounted a charge, in which he perished. The subsequent charge led by Raedra and her allies was highly successful, routing the Shadovar and cementing her popularity as the new Monarch.<ref name="FitB-29">{{Cite book/Fire in the Blood/Paperback 2015||29}}</ref>
+
+====Draining of Mythals====
+On the cusp of the [[Second Sundering]], in the {{YearlinkName|1487}}, Shar acted through her servants in the [[Netherese]] empire of [[Thultanthar]] and its vassal state [[Sembia]]. She sought to usurp the Weave before the [[Tablets of Fate]] could be renewed, an act that would forever seal her as the new Goddess of Magic. She manifested herself before [[Telamont Tanthul]], whose Shadovar agents spread across the land, hunting [[Chosen]] of all other gods, and draining locations where the Weave held strong.<ref name="TH-3"/>
+
+This put her at odds with [[Elminster]] and his allies, who were likewise looking to strengthen the Weave. The conflict came to a head when Elminster infiltrated [[Candlekeep]], looking for instructions left by [[Khelben Arunsun]] for repairing the Weave. He discovered that several monks had been replaced by agents of the Shadovar led by the highly skilled [[Maerandor]]. By an error of judgement, Elminster helped [[Larloch]] drain the ''[[mythal]]'' of Candlekeep. Even so, Shar's plans here were thus foiled, and all her agents at Candlekeep perished.<ref name="TH-4">{{Cite book/The Herald/MMP (2014)||4}}</ref><ref name="TH-13">{{Cite book/The Herald/MMP (2014)||13}}</ref> 
+
+Meanwhile, the Shadovar assisted by mercenaries hired with Sembian coin were laying siege to [[Myth Drannor]]. The elves therein were powerful and, assisted by their ''mythal'', their magical prowess was fearsome as well. But the deluge of mercenaries and Shadovar arcana slowly but surely wore them thin. Their defensive line was pushed back with each passing day. Another skilled agent of Telamont, [[Helgore Ulitarathulm]], infiltrated the crypts below the city. He destroyed several [[baelnorn]], draining the tombs of magic before being slain by the [[Srinshee]]. The concerted efforts of the Chosen of Mystra and elves of Myth Drannor inflicted significant casualties onto the mercenaries and Shadovar, even if it was at the cost of the city.<ref name="TH-5">{{Cite book/The Herald/MMP (2014)||5}}</ref><ref name="TH-18">{{Cite book/The Herald/MMP (2014)||18}}</ref>
+
+Telamont brought the floating city of Thultanthar to Myth Drannor and, after a failed attempt on his life by a Thultanthan rebel, rallied several arcanists to collectively drain the ''mythal'' of its power. Soon after, Larloch crippled their minds, and set to work to draining the ''mythal'' himself. His attempt was foiled when Elminster accepted that, in order to preserve the Realm, this last remaining ''mythal'' had to be sacrificed. As the elves escaped via ''[[portal]]s'', the floating city was dragged off course by Elminster and brought to crash upon the ruins of once-mighty Myth Drannor.<ref name="TH-18"/><ref name="TH-19"/>
+
+Shar attempted to intervene in person, but retreated when Mystra manifested to stop her. The aftermath of these events left Shar shorn of some of her greatest assets: Thultanthar, control over Sembia, most of the Tanthuls, and a large number of Shadovar.<ref name="TH-19" />
+
+===New Chosen===
+{{quote|Blessed Nightsinger, witness our adoration. See how we serve you, only you. We have emptied our hearts of falsehoods. We have vanquished your foes. In darkness, we see your truth. Embrace us, your loyal warriors. Cloak us in your shadow. Guide us to your victory. Shar's will shall be done. As sure as night will fall.|[[Shadowheart]]'s prayer to Shar<ref name="bg3">{{Cite game/Baldur's Gate III}}</ref>}}
+In the late 1400s DR, Shar crafted a plan to shape a daughter of Selûnites to become her next Chosen. A begrudging Mother Superior [[Viconia DeVir]] and the goddess' other servants were commanded to abduct the [[half-elf]] girl Jenevelle from her parents [[Emmeline Hallowleaf|Emmeline]] and [[Arnell Hallowleaf]], both devoted servants of Selûne. As part of Shar's plot, Arnell and Emmeline were imprisoned within the Chamber of Loss in the [[Cloister of Sombre Embrace]] in [[Baldur's Gate]], where an avatar of the goddess herself would appear. Meanwhile, the girl now named [[Shadowheart]] was raised in the cloister as a Sharran, and her memories were stripped of her. In the {{YearlinkName|1492}}, the cleric Shadowheart was sent on a perilous mission for Viconia, along with four other agents of the cloister. They were bidden to steal the ''[[Astral Prism]]'' and return the artifact to the [[House of Grief]]. During her adventures as part of the [[Absolute crisis]], Shadowheart was led to the [[Gauntlet of Shar]] by her goddess, in order for her to pass its trials and become the first member of a new order of [[Dark Justiciars]].<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = ''[[Mistress of the Night]]''; ''[[Shadowrealm]]''
+| novel refs          = ''[[The Council of Blades]]''
+| comics              = "[[Selune Rising]]"; "[[Dark of the Moon]]"; "[[Lunatics]]"; "[[Total Eclipse]]"
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = ''[[Baldur's Gate III]]''
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Spellfire: Master the Magic]]''
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===Gallery===
+<gallery>
+Shar BG3.png|Shar in Baldur's Gate III
+File:Selune vs shar.jpg|<i>Concept Art of the two goddesses side by side.</i>
+Selune and Shar.png|Shar and Selûne in 5.5
+Shar symbol.jpg|A different version of Shar's holy symbol.
+Shar Symbol 4e.jpg|And another version, too.
+</gallery>
+
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Netheril deities}}
+{{Deity list}}
+[[de:Shar]]
+[[FR:Shar]]
+[[Category:Clerics]]
+[[Category:Wizards]]
+[[Category:Mystics]]
+[[Category:Thieves]]
+[[Category:Assassins]]
+[[Category:Rogues]]
+[[Category:Shadow adepts]]
+[[Category:Shadowdancers]]
+[[Category:Sorcerers]]
+[[Category:Faerûnian pantheon]]
+[[Category:Netherese pantheon]]
+[[Category:Human deities]]
+[[Category:Cavern domain deities]]
+[[Category:Darkness domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Undeath domain deities]]
+[[Category:Death domain deities]]
+[[Category:Greater deities]]
+[[Category:Trickery domain deities]]
+[[Category:Neutral evil deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of the Palace of Loss]]
+[[Category:Inhabitants of the Shadowfell]]
+[[Category:Inhabitants of the Towers of Night]]
+[[Category:Inhabitants of Niflheim]]
+[[Category:Inhabitants of Hades]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of the World Axis planes]]
+[[Category:Inhabitants of feminine gender]]
+[[Category:Members of the Circle of Greater Powers]]

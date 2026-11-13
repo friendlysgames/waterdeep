@@ -1,0 +1,3 @@
+campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:94: - **The ten days between.** Sornyn (Flamerule 3 to 5) and Lliira's Night (Flamerule 7) fall inside them. See the hooks below.
+campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:109: | Flamerule 7 | Lliira's Night | Dances and balls through the night, with smokepowder fireworks set off by the City Guard until dawn. |
+campaign/setting/history/09-timekeeping-and-the-festival-calendar.md:119: - **Sornyn and Lliira's Night, Flamerule 3 to 7.** Envoys and strangers are expected in the city and smokepowder fireworks boom until dawn on Flamerule 7, so unfamiliar faces and loud noises draw no notice in the ten days between the feast and the birthday.

@@ -1,0 +1,7 @@
+campaign/setting/deities/siamorphe.md:39: - **Opposed powers:** She opposes those who foster tyranny and corruption, above all Bane, Cyric and Gargauth (2e and 3e).
+campaign/setting/deities/siamorphe.md:110: - **Bane**, **Cyric** (Deities, pages planned): the powers she opposes.
+campaign/setting/deities/tyr.md:43: - He is close to Lathander, and he opposes Bane, Bhaal, Cyric, Mask, Talona and Talos.
+campaign/setting/deities/tyr.md:50: - After he and Sune, with Lathander's help, imprisoned Cyric for a thousand years, he gave up his godhood and passed all his power to Torm, having lost faith in his own ability to lead and judge. His portfolio of justice went to Bahamut, who later served Torm (*The Crystal Mountain*; *Dragon* 381, 4e).
+campaign/setting/deities/tyr.md:107: - **Lathander** (Deities, page planned): close to Tyr, and one of the three who imprisoned Cyric.
+campaign/setting/deities/tyr.md:111: - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities, pages planned): the powers he opposes.
+campaign/setting/history/04-the-founding-of-chains.md:35: - Zhentil Keep fell in stages. Its northern half was ruined about 1369 DR after Cyric's fall, and the Shadovar razed the whole city in 1383 DR over the Zhentarim's alliance with the phaerimm.

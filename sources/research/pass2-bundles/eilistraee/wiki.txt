@@ -1,0 +1,564 @@
+WIKI PAGE: Eilistraee
+
+{{FA}}
+{{Deity
+| image               = Eilistraee.jpg
+| caption             = A depiction of Eilistraee.
+| name                = Eilistraee
+| title               = 
+The Dark Maiden<ref name="FRHoF-p106">{{Cite book/Forgotten Realms: Heroes of Faerûn|106}}</ref><ref name="FRCS3e-237"/><ref name="DotU-20"/><ref name="OHG-99,173"/><ref name="DD"/><br />
+The Dark Dancer<ref name="SSotSS">{{Cite book/Silverfall/Paperback 1999/Qilué}}</ref><br />
+The Dancing Goddess<ref name="Res-p21">{{Cite book/Resurrection/Paperback|21}}</ref><br />
+Lady of the Dance<ref name="FRHoF-p106" /><ref name="FRCS3e-237"/><ref name="DD" /><br />
+Lady Silverhair<ref name="FRHoF-p106" /><ref name="DD" /><br />
+The Masked Lady (from [[Nightal 20]], [[1375 DR]] to [[1379 DR]]).<ref name="SofD">{{Cite book/Storm of the Dead/Paperback (2007)}}</ref><ref name="tGHotR-p158" /><ref group="note">After her return, during the Second Sundering, Eilistraee no longer holds the title of Masked Lady.</ref><br/>
+Darkfire-of-Love (nickname among the Seven Sisters)<ref name="tev-love">{{Cite web/theedverse/2023-01-13 - Drow Words for Love}}</ref>
+| adjective           = Eilistraean<ref name="dhd-p17">{{Cite book/Demihuman Deities|17}}</ref>
+| aspects             = 
+| pantheon            = [[Dark Seldarine]] <small>formerly:</small> the [[Seldarine]]<br/>[[Faerûnian pantheon]]<ref name="HoF-pp99,106"/>
+| gender              = Feminine
+| died                = [[Flamerule]], [[1379 DR]]<ref name="AotL" /><br />Returned to life during the [[Second Sundering]]<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|23, 108}}</ref><ref name="MTF5e-p53-57">{{Cite book/Mordenkainen's Tome of Foes|53-57}}</ref><ref name="DM">{{Cite book/Death Masks}}</ref>, in Flamerule, [[1489 DR]]<ref name="EdGreenwood-p468322">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2015)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 19841
+| postid     = 468322
+| whichpage  = 11
+| date       = 2015-04-17
+| accessdate = 
+}}</ref><ref name="EdGreenwood-p476639">{{Cite web/Candlekeep forum
+     | title      = Questions for Ed Greenwood (2015)
+     | author     = [[Ed Greenwood]]/The Hooded One
+     | topicid    = 19841
+     | postid     = 476639
+     | whichpage  = 18
+     | date       = 2015-11-14
+     | accessdate = }}</ref><ref group="note" name="note3">As said [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476688 here], in answer to [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476640 this question], only the following lines of text in the last reference are to be considered [[Forgotten Realms Wiki:Canon|canon]]: ''"After Flamerule 1489, Vhaeraun and Eilistraee are separate deities with the same powers and portfolios they had before 1375, but a new understanding, respect, and even friendship for each other. Some of their followers still war with each other, but the two deities do not. Thus far, Eilistraee’s teachings after the Sundering are the same as before the Sundering"''</ref>
+| mortalhomes         = 
+| apotheosis          = 
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| power2e             = [[Lesser deity]]
+| alignment2e         = [[Chaotic good]]
+| symbol2e            = Silver longsword over a silver moon with a nimbus of silver hair
+| homeplane2e         = [[Ysgard]], [[Nidavellir]]
+| realm2e             = [[Svartalfheim]]
+| serves2e            = None
+| servedby2e          = 
+| portfolio2e         = Beauty, dance, hunting, moonlight, song, swordwork
+| spheres2e           = [[All sphere|All]], [[Combat sphere|Combat]], [[Creation sphere|Creation]], [[Elemental sphere|Elemental]], [[Guardian sphere|Guardian]], [[Healing sphere|Healing]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Sun sphere|Sun]], [[Wards sphere|Wards]], <small>'''minor:'''</small> [[Animal sphere|Animal]], [[Charm sphere|Charm]], [[Divination sphere|Divination]], [[Plant sphere|Plant]], [[Summoning sphere|Summoning]], [[Travelers sphere|Travelers]], [[Weather sphere|Weather]]<ref group="note">''[[The Drow of the Underdark]]'' sourcebook lists [[Weather sphere|Weather]] as a major sphere (see p. 23), whereas ''[[Demihuman Deities]]'' lists it as minor (see p. 17). Also, the [[Plant sphere]] is granted in the DotU, but was changed to the [[Wards sphere]] in DD.</ref>
+| worshipers2e        = Good-aligned [[drow]], hunters, surface-dwelling [[elves]], some [[human]]s and [[half-elves]]
+| cleric alignments2e = {{Alignment grid|on|on|on|off|off|off|off|off|off}}
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Bard]]|29|[[Cleric]]|24|[[Fighter]]|21|[[Ranger]]|21}}<br style="clear:right;"/><small>formerly:</small>{{class table|edition=2e|[[Fighter]]|9|[[Cleric]]|11|[[Bard]]|16}}
+| refs2e              = <ref name="DotU-20">{{Cite book/The Drow of the Underdark|20-25}}</ref><ref name="OHG-99,173">{{Cite book/On Hallowed Ground|99, 173}}</ref><ref name="DD">{{Cite book/Demihuman Deities|13-16}}</ref>
+| power3e             = [[Lesser deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = Unclad female drow with long hair dancing before a full moon with a silver bastard sword
+| homeplane3e         = [[Arvandor]] <small>also:</small> the [[Demonweb Pits]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Beauty, dance, hunting, moonlight, song, swordwork
+| domains3e           = [[Chaos domain|Chaos]], [[Charm domain|Charm]], [[Drow domain|Drow]], [[Elf domain|Elf]], [[Good domain|Good]], [[Lust domain|Lust]], [[Moon domain|Moon]], [[Portal domain|Portal]], [[Hunt domain|Hunt]], [[Night domain|Night]]
+| mantles3e           = {{Mantles|Chaos|Good|Freedom|Light and Darkness}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Good drow, surface-dwelling elves, hunters
+| cleric alignments3e = {{Alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = The ''[[Moonsword]]'' ([[bastard sword]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Bard]]|20|[[Fighter]]|15|[[Cleric]]|5}}
+| refs3e              = <ref name="FRCS3e-237">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|237, 240-241}}</ref><ref name="F&P-p23">{{Cite book/Faiths and Pantheons|23-25}}</ref><ref name="PGtF-85">{{Cite book/Player's Guide to Faerûn|85, 86, 87, 89}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref>{{Cite dragon/342/The Wild Hunt|89}}</ref>
+| power4e             = [[Dead power]]
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power5e             = [[Lesser deity]]
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Unclad female drow with long hair dancing before a full moon with a silver bastard sword
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Beauty, dance, freedom, hunting, moonlight, song, swordwork
+| domains5e           = [[Light domain|Light]], [[Nature domain|Nature]], [[Life domain|Life]]
+| worshipers5e        = Drow exiles; drow seeking an alternative to their society
+
+| channel divinity5e  = [[Preserve life]]<br />[[Radiance of the dawn]]<br />[[Charm animals and plants]]
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|23, 108}}</ref><ref name="EdGreenwood-p468322"/><ref name="MTF5e-p53-57"/><ref name="EdGreenwood-p476639"/><ref group="note"  name="note3" />
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Arborea]] ([[Arvandor (layer)|Arvandor]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Beauty, dance, hunting, moonlight, song, swordplay
+| domains5eR          = 
+| worshipers5eR       = [[Bladesinger]]s, [[Elf|elves]], performing artists
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,106">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,106}}</ref>
+| animals             = Silver moths<br />Silver-striped tabby [[cat]]s
+| plants              = 
+| monsters            = [[Aasimar]]<br />[[Lantern archon|Light archons]]<br />[[Lythari]]<br />[[Pixie]]<br />[[Silver dragon]]s
+| minerals            = [[Mithral]], [[Moonstone]], [[Silver]]
+| colors              = Silver
+| misc manifestations = Hunting horns in the distance<br />A silvery radiance<br />Harp notes
+| manifestation refs  = <ref name="DD&D-p11">{{Cite web enhancement/Deity Do's and Don'ts|11}}</ref>
+| church              = yes
+}}
+'''Eilistraee''' ({{Pronounce|EYEL|iss|TRY|ee|primary stress=1|audio=Eilistraee.ogg}}<ref name="EdGreenwood-p476639"/>) was the [[chaotic good]] [[drow]] goddess of beauty, song, dance, freedom, moonlight, swordwork, and hunting, within the drow pantheon known as the [[Dark Seldarine]]. She was the patroness and protector of the few dark elves who longed to return to the surface and live there, at peace with other races, and to abandon the endless conflicts and intrigues that dominated the lives of most drow.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /><ref name="MTF5e-p53-57"/><ref name="SCAG"/> She was often referred to as the '''The Dark Maiden''', the '''Lady of the Dance''', or '''Lady Silverhair''',<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /> and sometimes '''The Dark Dancer''', among other titles<ref name="SSotSS"/> Briefly, she was known as '''The Masked Lady''', when her faith subsumed that of the Masked Lord Vhaeraun, her divine brother,<ref name="SofD"/><ref name="tGHotR-p158"/> while the Seven Sisters nicknamed her '''Darkfire of Love'''.<ref name="tev-love">{{Cite web/theedverse/2023-01-13 - Drow Words for Love}}</ref> Eilistraee pronounced her own name {{Pronounce|alt=none|EYEL|iss|TRY|ee|primary stress=1}},<ref name="EdGreenwood-p476639"/> but her name has been mispronounced variously as {{Pronounce|alt=none|eel|ISS|tray|ee|primary stress=2}},<ref name="DotU-20"/> {{Pronounce|alt=none|EEL|iss|TRAY|yee|primary stress=1}},<ref name="DD"/> {{Pronounce|alt=none|eel|iss|TRAY|ee|primary stress=3}},<ref name="FRCS3e-237"/> {{Pronounce|alt=none|eyel|iss|TRAY|yee|primary stress=3}},<ref name="F&P-p23"/> while [[Elminster Aumar]], [[Qilué Veladorn]], and the rest of the [[Seven Sisters]] pronounced it {{Pronounce|alt=none|eyel|ISS|tree|primary stress=2}}, even when addressing the goddess face to face.<ref name="EdGreenwood-p476688">{{Cite web/Candlekeep forum
+     | title      = Questions for Ed Greenwood (2015)
+     | author     = [[Ed Greenwood]]/The Hooded One
+     | topicid    = 19841
+     | postid     = 476688
+     | whichpage  = 19
+     | date       = 2015-11-14
+     | accessdate = }}</ref>
+
+She was the daughter of [[Araushnee]] (later [[Lolth]]) and [[Corellon Larethian]], a free-spirited and kind-hearted goddess, with a fiery streak in her personality.<ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /><ref name="E.IoE" /> When, during her youth, a host of evil deities assaulted [[Arvandor]] (her home), Araushnee's treachery almost tricked Eilistraee into slaying her own father. Even though she was cleared from any guilt, Eilistraee chose to share her mother's exile, because she knew that the drow would need her light in the times to come.<ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /> After the [[Crown Wars#Fourth Crown War|descent of the drow]], Eilistraee tried to be a mother goddess to her people and bring them the hope of a new life. She fought to lead them back to the lands of light, helping them to flourish and prosper in harmony with other races, free from Lolth's tyranny and the conflicts that dominated their lives.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DotU-20"/><ref name="DD" /><ref name="EdGreenwood-p129882" /> Hers was an uphill battle, however, as her power was little and she was opposed by all the gods of the Dark Seldarine. But, despite having to overcome many hardships and setbacks, Eilistraee never gave up fighting for her people.<ref name="DD" /> In the 1370s DR, her conflict with her mother over the souls of the drow race ultimately led to Eilistraee's defeat and disappearance.<ref name="AotL" /> It lasted for about a century, until the [[Second Sundering]] (''circa'' 1480s DR), when Eilistraee returned to life and to her followers.<ref name="SCAG"/><ref name="MTF5e-p53-57"/><ref name="EdGreenwood-p468322" />
+
+{{quote
+|A rightful place awaits you in the Realms Above, in the Land of the Great Light. Come in peace, and live beneath the sun again, where trees and flowers grow.
+|The message of Eilistraee<ref name="DD"/>
+}}
+
+==Description==
+{{fq
+| float  = left
+| width  = 300px
+| source = ''[[Evermeet: Island of Elves]]''
+| text   = His face was suffused with awe, and he gazed at the ebony goddess—for that she certainly was—as if she was the answer to that question which every soul felt, but no words could frame.
+}}As an [[avatar]], Eilistraee appeared as a drow female of glowing beauty. She was tall (9 feet/2.7 meters in height) and lithe, with graceful, strong limbs and a glossy, obsidian-dark skin. She usually appeared unclad, cloaked only by her ankle-length hair that shone with a bright silvery hue, and by motes of moonlight that were ever-dancing about her body.<ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /><ref name="E.IoE">{{Cite book/Evermeet: Island of Elves}}</ref>
+
+Her face bore a certain similarity to that of her mother, [[Lolth]], as it possessed delicately sculpted features and shape, but her eyes were large, with irises that held the shifting hint of blue of a moonstone, and expressive of her mood or emotions.<ref name="E.IoE"/><ref name="SotW 2">{{Cite book/Sacrifice of the Widow|2}}</ref>
+
+When Eilistraee spoke, her voice always carried a soft musicality that made mortals instinctively drawn to it. Such attraction didn't cloud their minds, nor was of magical origin—it was as simple as the sound of a beautiful song.<ref name="E.IoE" /><ref name="MTF5e-p53-57" />
+
+Overall, the Dark Maiden's appearance inspired utter awe and astonishment, as well as emotions so deep to move mortals to tears.<ref name="SotW 2" /> Those who contemplated and listened to her felt as if they had found the answer to all that their soul ever longed for. However, upon her leaving, they would experience a feeling of deep loss, or even desolation, though only for a brief time (as [[Sharlario Moonflower]] and his son, [[Cornaith Moonflower|Cornaith]], felt when the Dark Dancer manifested to them, warning them of the dangers of [[Ilythiir]]).<ref name="E.IoE">{{Cite book/Evermeet: Island of Elves}}</ref>
+
+==Personality==
+{{fq
+| float  = left
+| width  = 300px
+| source = [[Lolth|Araushnee]], on Eilistraee.<ref name="E.IoE" />
+| text   = One moment she was a carefree child dancing like a moonbeam or running like a silver wolf through the forest; the next moment, she was either as seductive as a siren or as serious as a dwarven god.
+}}Due to a history of grief and losses, and to the suffering of her people, melancholy and sadness were deeply rooted in Eilistraee's heart. It was a hard battle to endure, one that could weigh her down. However, it had also taught her to search for and nurture beauty everywhere, even in places like the Underdark, where it didn't seem to belong. Eilistraee fought her melancholy by striving to bring hope and joy where there was sorrow, so that no moment was lost to gloom, and to make life flourish wherever she went. She learned to find happiness in peace and arts, especially music and dance; in simple things like seeing artists composing and performing, craftsmen at their work, and people doing acts of kindness. She especially took delight in helping the needy in various practical ways, with a soft spot for outcasts, and in blessing artists with sudden bursts of creativity and inspiration.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /> Eilistraee valued love in all its forms, be it passion and dedication towards something or someone (''nor'' in [[elven language|elvish]]), the act of deep and unselfish love (''alurlssrin'' in [[drow language|drowish]]), longing (''ssinssrig'' in drowish), noble sacrifice (''lurraggath'' in drowish), lovemaking (''raggath'' in drowish; ''arkhlavae'' in elvish), and love and loyalty towards one's family and kin (''immaea'' in elvish). She knew all the elven and drow words for all kinds of love,<ref name="tev-love"/> and seeing lovers during tender moments made her happy.<ref name="DD" /> Among the Seven Sisters, this earned her the nickname of ''Darkfire of Love''.<ref name="tev-love"/>
+
+Eilistraee dreamt of finding the love of her life with whom she can share eternity with, marry and have a proper family. At the same time, the prospect of childbearing was faced with the cruel reality where her mother still lingered over her life. Not wanting her children to be born in a world where Lolth's web holds dominion, the goddess wished for their first breaths to be the trumpets of a new dawn free of the Spider Queen's tyranny. The Dark Dancer would treasure the love of an immortal human, cherishing them above all else. Such a human would act as a trusted confidant, best friend and (if the stars align) a consort. How long such a relationship can last heavily depended on the human's depth and character, if they could meet and match Eilistraee's fierceness.<ref name="TEV-ELL">{{Cite web/theedverse/2025-08-12 - Eilistraee's love life}}</ref>
+
+As a young goddess, Eilistraee was a free spirit with an unpredictable temper.<ref name="E.IoE" /> Even as she matured, these traits never really left her: she had a fiery streak and was prone to wild action, especially in protection of her faithful when they were harmed. The evil that was inflicted upon—and perpetuated by—most drow caused a burning anger within her, one that could cause her to lash out,<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DotU-20" /><ref name="DD" /> but she was comforted that some worked their way free of the [[Lolth|Spider Queen's]] web.<ref name="F&P-p23" />
+
+The Dark Maiden was particularly close to her people. Aside from providing practical help in their everyday life, she was known to offer comfort and support in various ways, including listening to them as they let out or vented their personal emotions and experiences (see [[Eilistraee#Activities|Activities]]).<ref name="DD" /> When the right time came, she also personally accompanied her followers who didn't die in battle to their [[afterlife]] in a moving celebration known as the [[Church of Eilistraee#The Last Dance|Last Dance]].<ref name="DD" /> According to [[Rowaan Vrinn]], Eilistraee didn't test her followers, as the challenges of life were enough of a test themselves. She valued the intent behind their actions more than the actual success.<ref name="SotW" /> Moreover, Eilistraee refused to act as a commander: she saw herself fit to give advice and help in practical ways, to uplift and make people fulfill their potential, never order.<ref name="EG-YT">[https://www.youtube.com/watch?v=6rz42XOUhvI Ed Greenwood on YouTube: The Court of the Dance]</ref>
+
+{{fq
+| float  = right
+| width  = 250px
+| source = [[Lords of Waterdeep (board game)|''Lords of Waterdeep'']]
+| text   = The Dark Lady smiles on those who see the deeper beauty within.
+}}
+
+Though focused on the drow, Eilistraee accepted folk of all races who danced along her path, who delighted in life and in the free-form expression of it in all its forms. She fought so that all races could live peacefully together, helping and accepting each other despite their differences,<ref name="DD" /><ref name="AL-40" /> and strongly believed in the possibility of redemption for those who had fallen to evil, especially the drow.<ref name="AL-40">{{Cite book/Ascendancy of the Last|40|3}}</ref><ref name="AL-50">{{Cite book/Ascendancy of the Last|50|3}}</ref>
+
+==Powers==
+===Manifestations===
+[[File:Eilistraeeans - Drow of the Underdark.jpg|thumb|left|Eilistraee watches over a gathering of her faithful.]]
+Her most common sign was a silvery radiance (sometimes accompanied by a snatch of song or a few echoing notes of a harp) that could also take the form of a handful of dancing moonbeams or moon-motes. Eilistraee used this light to assist her people: she was known to use it as a beacon guiding those lost in the woods, to shine a light on something dropped in the dark, to illuminate a dark place where women gave birth, or to generally guide those who saw the manifestation. She also used it to bless a worshiper in various ways. Swords enveloped by the silvery light could not be broken or damaged and struck with maximum force. Living creatures would always react first in battle, could better evade or withstand blows, could strike more accurately, and could wound even creatures that needed magic to be harmed.<ref name="DotU-20" /><ref name="DD" /><ref name="EG-159791">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2006)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 5812
+| postid     = 159791
+| whichpage  = 56
+| date       = 2006-11-06
+| accessdate = 
+}}</ref>
+
+Her song was another iconic manifestation, and the Dark Maiden's way of calling the drow to her, luring them towards a different life. However and whenever the goddess appeared, her song was heard. It was a tune of unearthly beauty, moving many to tears<ref name="DotU-20" /><ref name="DD" /> but also a sweet and tempting lullaby, or the soothing voice of a loving mother.<ref name="MTF5e-p53-57">{{Cite book/Mordenkainen's Tome of Foes|53-57}}</ref> At times, Eilistraee would appear in person, to show her favor, give a blessing, or hearten her followers. Mortals lucky enough to see her would always hear her tune, but usually only glimpsed her from afar, balanced atop a distant hillock or battlement, with her silver hair flowing behind her. At times, she could also appear during celebrations dedicated to her, leaping inside the flames of bonfires, or manifest herself by night, cloaked and cowled and with her radiance dimmed, to travelers in the woodlands, usually to test their kindness.<ref name="DotU-20" /><ref name="DD" />
+
+Sometimes, Eilistraee would use her radiance to bless the faithful or even non-faithful who decided to honor her with a solitary dance, turning the creature's hair into a mane of silvery, dancing flames. This could last as long as a month, or even be permanent. She would also very often<ref group="note">About 68% of the time.</ref> manifest when one of her priests led a new convert to her faith in prayer, which was itself an offering to Eilistraee.<ref name="DotU-20" /><ref name="DD" />
+
+On rare occasions, she could decide to grant a lay follower who nevertheless did her work with the temporary ability to manifest her [[Eilistraee's moonfire|''moonfire'']]. This could be to show her blessing or support, or simply to provide some light. However, the bearer had no control over the ''moonfire''&#39;s duration, intensity, or location—such things were solely up to the goddess.<ref name="DotU-20" /><ref name="DD" />
+
+The sound of a high and distant hunting horn was another sign associated to the Dark Maiden. She was known to conjure it to rally or hearten her followers, or to scare off bandits or [[orc]] raiders, who would believe reinforcements were coming for those harassed. When there were no enemies about, worshipers took the sound of the horn to mean there was someone close by they needed to aid.<ref name="DotU-20" /><ref name="DD" />
+
+Eilistraee demonstrated her favor and happiness through the discovery of particular minerals or gems (like [[mithral]], [[moonbar]]s, [[moonstone]]s, and [[silver]]) or with a sudden inspiration to write a beautiful song or poem, or to craft a magnificent sword for those who had the ability.<ref name="DD" />
+
+However, the Dark Dancer could also let her displeasure be known, and did so by making a cold breeze rise, by making the disfavored ones feel a chill in their hands or feet, through a sudden lack of inspiration or talent in any form of art, or through the failure to catch anything while hunting.<ref name="DD" />
+
+===Abilities===
+Eilistraee's identity as a nurturing and artistic goddess<ref name="EdGreenwood-p129882" /> showed in her magic and skills. Despite having access to all kinds of magic,<ref name="DD" /> she focused on powers related to nature, life, creation, and enchantment.<ref name="DD" /> She was also an excellent crafter and weaponsmith, and could freely create almost any magical item pertaining to beauty, music, moonlight, hunting, or swordwork.<ref name="F&P-p23" />.
+
+Furthermore, before being a warrior or a huntress, Eilistraee was first and foremost a bard and an artist.<ref name="FaP 24">{{Cite book/Faiths and Pantheons|24}}</ref><ref name="EdGreenwood-p129882" /> She was a sublime dancer and singer, a terrific acrobat, and a brilliant musician. Her art had the power to elicit intense emotions in her allies and foes alike (to the point of sometimes leaving them stunned),<ref name="DD" /> or to inspire courage, dispel uncertainty and hopelessness, and enhance her allies' focus. She delighted in performing, and such was the beauty she created, that it could even move beings who were normally incapable of feeling emotions, or that could shrug them off due to training, magic, or nature.<ref name="F&P-p23" />
+
+Music and song held a particular meaning, as they were the intimate nature of Eilistraee's iconic magic, the Spellsong. Its melody was capable of physically healing, creating, and protecting,<ref name="DD" /> and allowed its practitioners to travel to places far away and see the world.<ref>{{Cite book/Windwalker/Paperback|107-109}}</ref> Through the Spellsong, Eilistraee taught to listen to the songs of distant lands, the melody that a place and its people "sung" when lit by the moon, and to travel to such places along beams of moonlight, summoned by singing and dancing to its rhythm.<ref>{{Cite book/Windwalker/Paperback|107-109}}</ref>
+
+That said, while her warrior skills came second to her bardic magic and artistic abilities,<ref name="FaP 24">{{Cite book/Faiths and Pantheons|24}}</ref> Eilistraee could indeed fight. She was a protectress to her people, who wielded her bastard sword combining the agility of her dance with the lethality of her swordplay.<ref name="F&P-p23" /> Her hunting skills and precision as an archer (though she abandoned the bow after she was tricked into nearly slaying her father with it) were also undeniable, like her knowledge in matters of magic, nature, and faith.<ref name="F&P-p23" />
+
+Finally, along with all the standard powers and godly senses of a deity of her rank, the Dark Dancer could instantly become aware of threats posed to good-aligned drow, to her followers, or to drow thinking of rejecting the faith of the deities of the Dark Seldarine, but only if their number was equal to or greater than five hundred.<ref name="F&P-p23" />
+
+===Eilistraee's Avatar===
+[[File:Eilistraee - DD.jpg|thumb|right|Eilistraee's avatar was often seen dancing against the full moon.]]Eilistraee's avatar appeared as the goddess herself, described above.<ref name="DotU-20" /><ref name="DD" />
+
+She could use any kind of spell from any school or [[sphere]] of magic, but preferred those from the [[Animal sphere|animal]], [[Plant sphere|plant]], [[Healing sphere|healing]], [[Creation sphere|creation]], and [[Charm sphere|charm/enchantment]] spheres.<ref name="DD" /> She had continuous ''[[true seeing]]'', enabling her to see all things as they truly were, whether invisible, disguise, blurred, or hidden. She could instantly, at will, unleash nine silvery ''[[magic missile]]s'' (more potent against evil) or [[spell turning|turn spells]] back against their casters; could ''[[levitate]]'' at will; and quickly regenerate wounds or even lost limbs. Also at will, she could conjure a silvery ''[[light]]'', ''[[dancing lights]]'', or [[Eilistraee's moonfire|''moonfire'']] and make the sounds of flutes, harps, or horns. Her music had the power to [[repulsion|repel]] [[evil]] beings and [[undead]], briefly stun a creature, and unlock things as a ''[[knock]]'' spell.<ref name="DotU-20" /><ref name="DD" />
+
+In battle, she could wield either two identical ''[[singing sword]]s of [[Sword of dancing|dancing]] +3'',<ref name="DD" /> or a single blade, the ''[[Moonsword]]'', a ''+5 [[Sword of dancing|dancing]] [[keen]] [[bastard sword]]''.<ref name="FRCS3e-237" /><ref name="F&P-p23" /> Only enchanted weapons could harm her.<ref name="DD" />
+
+When she wished to appear clothed, Eilistraee's avatar could manifest wearing deep brown leather boots that allowed her to move in total silence and without leaving any trace at will. It combined the powers of the ''[[boots of elvenkind]]'', ''[[boots of varied tracks]]'', and ''[[boots of the north]]''. She could also wear a dappled green cloak that shifted its color according to the surrounding environment (combining a ''[[cloak of elvenkind]]'' and a ''[[ring of chameleon power]]'', rendering the goddess' avatar invisible in natural areas).<ref name="DD" />
+
+==Realm==
+Under the [[Great Wheel cosmology]], Eilistraee had her home in [[Svartalfheim]], the drow domain of [[Nidavellir]], the third layer of the plane of [[Ysgard]].<ref name="DD" /><ref name="MotP-p92">{{Cite book/Manual of the Planes 3rd edition|92}}</ref> Svartalfheim was an underground realm of tunnels heated by hot springs, characterized by precious or semiprecious minerals and subterranean forests that only needed heat to live.<ref name="MotP-p92" />
+
+Under the [[World Tree cosmology]], Eilistraee had her home in [[Arvandor]], a plane of natural beauty, with the elven gods of the Seldarine. Within its borders, the night was perpetual, with the moon ever-shining in the deep blue sky. Faith was more potent here than in the rest of Arvandor, and all followers of the other drow gods of the Dark Seldarine suffered minor impediments. Her realm here was small, however, as she split her divine energy between it and another small domain within the [[Demonweb Pits]], home of the other drow gods of the Dark Seldarine. This place was almost abandoned, however.<ref name="F&P-p23" /><ref>{{Cite book/Player's Guide to Faerun|143}}</ref>
+
+After the [[Spellplague]] and the introduction of the [[World Axis cosmology]], Eilistraee's realm within Arvandor continued existing, even with the goddess' disappearance.<ref name="AotL" />
+
+After the [[Second Sundering]], which saw Eilistraee's return (''circa'' the 1480s DR),<ref name="EdGreenwood-p468322" /> the planes were rearranged under the Great Wheel cosmology once again,<ref>{{Cite book/Player's Handbook 5th edition}}</ref> and the Dark Dancer made herself a humble home in the underground of Ysgard, which went under the name of ''"The Court of the Dance"''.<ref name="EG-YT"/>
+
+==Activities==
+:''See also: [[Church of Eilistraee#Eilistraee's Teachings|Eilistraee's teachings]]''
+
+{{fq
+| float  = left
+| width  = 300px
+| source = ''[[Demihuman Deities]]''
+| text   = Rare is the individual—dark elf or not—who appreciates that Eilistraee is forging her own path, one that welcomes beings of all races who revel in life and the free form expression of all that entails.
+}}
+Eilistraee took the role of a nurturing and protecting mother-goddess for the whole drow race, working to lead them out of the Underdark and back to the surface world, in the great forests they'd left behind long before.<ref name="DD-p12" /><ref name="EdGreenwood-p129882">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2006)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 5812
+| postid     = 129882
+| whichpage  = 22
+| date       = 2006-04-13
+| accessdate = 
+}}</ref>
+
+When she was a young goddess, the Dark Maiden chose to share the dark elves' exile, so that she could be by their side when they would need her the most, to provide a light in the darkness and a beacon of hope in the difficult times that—as she had foreseen—would come upon them.<ref name="DotU-20" /><ref name="DD" /> As such, Eilistraee taught her children kindness and love, showed them the freedom and joy of life that they were denied, and all around cared after them. Even though she couldn't promise safety,<ref name="MTF5e-p53-57">{{Cite book/Mordenkainen's Tome of Foes|53-57}}</ref> she strove to protect and help them strengthen, grow, and flourish in a surface world that had become hostile to them, but that was their rightful home. She aided them in hunting, swordcraft, and other practical matters of their everyday lives, in immediately useful ways.<ref name="DotU-20" /><ref name="DD" /><ref name="EdGreenwood-p129882" />
+
+Eilistraee's help could come in the form of direct action—and she was not unwilling to retaliate in protection of her followers, if the situation called for it<ref name="CoV">{{Cite book/Champions of Valor|133-135}}</ref><ref name="FRCS3e-237" /><ref name="F&P-p23" />—but she far preferred her assistance to not be intrusive, or even openly revealing of her involvement. In fact, it wasn't Eilistraee's way to intrude in her people's lives, because she felt that a forceful interference would prevent them from making their own choices. On the contrary, she strove to empower each drow to find their own path in the world,<ref name="DD-p12" /> and did so by watching over them in their "journey", and by offering them the tools to travel it themselves and overcome its challenges—both large and daunting, and the smaller ones posed by daily life. For example, she could subtly lead a drow braving the surface to a community of her followers to find a sense of belonging, support, or even a home.<ref name="DotD-p116">{{Cite book/Daughter of the Drow/2003|116}}</ref><ref name="DotD-p144">{{Cite book/Daughter of the Drow/2003|144}}</ref> Her hunting horn sounded to hearten her faithful and scare away dangerous creatures which threatened them. Her song,<ref name="CoV">{{Cite book/Champions of Valor|133-135}}</ref> or her silvery radiance and silvery moths,<ref name="DotU-20" /><ref name="DD" /> guided drow who were lost in the darkness or in the Underdark to a safe place, or yet lightened childbirths that occurred in the dark,<ref name="DotU-20" /><ref name="DD" /> and hers was the force that brought a stag within the reach of hungry drow.<ref name="EdGreenwood-p129882" />
+
+Likewise, Eilistraee intervened when her people needed visible comfort or emotional help. She could make them know that they were not alone, and that someone was watching over them, when they felt lost (usually through her own light,<ref name="DotU-20" /><ref name="DD" /><ref name="EdGreenwood-p129882" /> or as a protecting, shadowy, tall female dark elf that danced with the drow).<ref name="DotD">{{Cite book/Daughter of the Drow/2003}}</ref><ref name="DotD">{{Cite book/Daughter of the Drow/2003}}</ref> She could provide them with insight and inspiration to reach an important goal,<ref name="TW-252-253">{{Cite book/Tangled Webs/MMP (1998)|252-253}}</ref> or even lend her magic, if needed, to break any shackle preventing them from freely embracing the path they wanted to walk, or so that they didn't have to give themselves to Lolth in exchange for help when they felt overwhelmed (an example was the situation that saw her helping [[Liriel Baenre]] to heal her companion, [[Fyodor]], from a fatal wound).<ref name="TW-345-346">{{Cite book/Tangled Webs/MMP (1998)|345-346}}</ref> Furthermore, in the daily ritual known as the [[Church of Eilistraee#Evensong and Flamesong|Evensong]], Eilistraee would "listen" to the (usually) wordless messages of her followers as they let out the emotions, experiences, and reflections gathered during the day.<ref name="DD" /> After the Second Sundering, unlike many other deities. Eilistraee kept routinely interacting with mortals. She welcomed all who sought her help and had no ill intentions in her Court of the Dance in Svartalfheim. There, she listened to them and gave them advice, comfort, or material help such as healing, depending on what was required in the situation. She could even be persuaded to temporarily boost a person's abilities and prowess through her magic, but only if she deemed it an actual necessity and if she didn't think there could be negative consequences to it. Moreover, after having been betrayed and deceived in her past, she had become wary and careful in choosing of whom to gift with power.<ref name="EG-YT" />
+
+The Dark Maiden sang her call to all dark elves—from the highest matron mother to the lowest male slave—sending them dreams or visions, showing them a different, better life, and the beauty of the world (especially when they were close to the surface).<ref name="MTF5e-p53-57" /> Lolth was powerless to stop these visions, as too much interference from two goddesses could easily bring a mortal's mind to insanity,<ref name="EG-159733" /> and despite her continued efforts to suppress any knowledge of her daughter,<ref name="MTF5e-p53-57" /> the drow definitely came to "feel" the Dark Dancer at some point in their lives, with varying reactions. 
+
+While many would either not understand their dreams and emotions, or chose to ignore, disbelieve, or reject them, many others secretly yearned for the goddess and all that she wished for them. In fact, it was not unusual for them—if they thought they could get away with it, without the knowledge of a priestess of Lolth—to choose to spare the life of a worshiper of Eilistraee, decline to tell other drow what they'd seen of their activities, or linger to watch one of their dances rather than breaking it up. That said, despite those feelings, not many drow could find the strength and resources to make the final step and leave their past behind to cleave to Eilistraee on their own.<ref name="EG-159733">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2006)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 5812
+| postid     = 159733
+| whichpage  = 56
+| date       = 2006-11-05
+| accessdate = 
+}}</ref><ref name="MTF5e-p53-57">{{Cite book/Mordenkainen's Tome of Foes|53-57}}</ref> Furthermore, the Dark Maiden's efforts were opposed by the power of Lolth and the other evil drow gods, and what she could do was very limited.<ref name="DD-p12" />
+
+Despite her focus on the drow, Eilistraee took to heart the cause of aiding the needy wherever and whenever possible, no matter their race, gender, or strength. She believed in offering kindness, shelter, and acceptance to anyone not working evil, especially if outcasts.<ref name="DD" /> She and her church also worked to spread joy and merriment, and to bring confort and hope to those who were taken by sorrow.<ref name="DD" /> Finally, the Dark Maiden was, among the other things, a goddess of beauty; as such, she was known for her efforts to nurture and spread enthusiasm for arts—especially music and dance—and for blessing artists and bards with bursts of creativity and inspiration.<ref name="DD" />
+
+==Relationships==
+[[File:Dark Seldarine - F&P.jpg|thumb|left|The deities of the Dark Seldarine: Vhaeraun, Kiaransalee, Lolth, Selvetarm, Ghaunadaur, and Eilistraee.]]
+
+===Allies===
+Eilistraee's allies were the elven gods of the [[Seldarine]], as well as [[Mystra]], [[Selûne]], [[Lurue]], [[Mielikki]], [[Haela Brightaxe]], [[Callarduran Smoothhands]], and the other good deities of the [[Underdark]] races.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DD" /><ref name="EG-159733" />
+
+====Relationship with Mystra====
+Eilistraee was surprisingly close to the [[human]] goddess of magic Mystra, through [[Qilué Veladorn]], seventh of the [[Seven Sisters]], who served both goddesses as Chosen of [[Mystra]] and as Chosen of Eilistraee.<ref name="DD" /> Mystra commanded her followers to promote the growth of magic everywhere, which included encouraging the development of spellcraft among races with high affinity to magic, like the drow, and nurturing them.<ref name="SSotSS" /> It was one more reason for the Lady of Mysteries to choose the Dark Maiden as a friend, and their relationship continued even after the human wizard Midnight took Mystra's mantle.<ref name="F&P-p23" /><ref group="note">A concept further reinforced by Ed Greenwood's explanation of how Mystra worked to help Eilistraee during the War of the Spider Queen crisis.</ref> After the Second Sundering, [[Mystra (Midnight)|Mystra]] chose to share the Weave with Eilistraee, among others.<ref name="Spellstorm" />
+
+====Relationship with the Seldarine====
+While the Dark Maiden and the Seldarine were allies, and despite her efforts towards the reconciliation of elves and drow, their relationship was a difficult one because of the division between the two people, and because of the perception that many elves had of their "dark kin". This was especially true for [[Shevarash]], with whom Eilistraee barely managed to keep an uneasy truce. Eilistraee was polite to all the elven powers, but she was only close to [[Erevan Ilesere]].<ref name="DD" /> Her relationship with [[Vandria Gilmadrith]], despite being her only full-blooded sibling still among the Seldarine, was unclear.<ref>{{Cite book/Races of the Wild|23-24}}</ref> In the 1370s DR Eilistraee, moved her divine realm from Ysgard to Arvandor. It wasn't known whether the Seldarine allowed her to do so out of the material necessity presented by a shift in the cosmology, or if that was the first sign of her efforts towards reconciliation bearing results.{{speculation}}
+
+====Relationship with Erevan Ilesere====
+Although not romantic, the way they trusted and cared for one another was beyond a normal friendship. In fact, they were able to "meld their powers" (an intimate action where two gods would fly and temporarily merge, sharing information and memories with each other), which was possible only for deities who shared the strongest of bonds.<ref name="LordGosumba-Gabbin349">{{cite web 
+ |url=https://youtu.be/ROqbnQMmw1Q?si=oGekmvRRCumWgKNE&t=6096
+ |title= ED GREENWOOD! Canadian Legends of Rock N Roll, plus D&D/Q&A on Gabbin #349!
+ |accessdate=2025-04-15 
+ |author=[[Ed Greenwood]]
+ |date=2025-04-14
+ |work= Lord Gosumba's YouTube channel}}</ref> Sages speculated that Eilistraee and Erevan governed Savartalfheim together and that the Fey Jester would visit the plane whenever he wanted to distance himself from Arborea’s goody two-shoes nature.<ref name="BoC-127">
+{{Cite book/Planes of Chaos/The Book of Chaos|127}}</ref><ref name="OHG-100">{{Cite book/On Hallowed Ground|100}}</ref>
+
+Cooperation between the two churches and Erevan spreading his faith among the drow were done far away from the limelight. For one, they didn't want to cause controversy among the surface races, many of whom held animosities, biases and preconceptions about the drow and showed discriminatory behavior against them, seeing "good" drow as infiltrators and liars, looking at anyone who helped them in the surface world with even more judgement. Furthermore, to add insult to injury, there was the big elephant in the room by that name of Lolth, who wanted total control of the drow and didn't allow anyone to meddle in her plans for them, much less to spread their faith, and would crush anyone who strayed from her flock. Erevan had drow priests, temples and congregations but not much was known about them.<ref name="LordGosumba-Gabbin390">{{cite web 
+ |url=https://youtu.be/nVXe57NSqXs?si=PQNXyzGaDGKrZtsd&t=3115
+ |title= ED GREENWOOD! - Gabbin #390: Local Towns, Lore, Personalities of GH & FR!
+ |accessdate=2026-01-19 
+ |author=[[Ed Greenwood]]
+ |date=2026-01-19
+ |work= Lord Gosumba's YouTube channel}}</ref>
+
+===Enemies===
+Eilistraee's enemies were the drow gods of the [[Dark Seldarine]]—namely [[Kiaransalee]], [[Ghaunadaur]], her nephew [[Selvetarm]], her brother [[Vhaeraun]] (only until 1489 DR), and especially her own mother [[Lolth]]. She also counted as foes the other evil deities of the Underdark: [[Deep Duerra]] and [[Laduguer]], [[Blibdoolpoolp]], the [[Blood Queen]], [[Diinkarazan]] and [[Diirinka]], the [[Great Mother]], [[Gzemnid]], [[Ilsensine]], [[Ilxendren]], [[Laogzed]], and [[Maanzecorian]] before his death. She also counted as an enemy [[Malar]], a rival and evil god of the hunt in the surface world.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DD" /><ref name="FRCS2eR.RtR-64">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|64}}</ref>
+
+====Relationship with Lolth====
+Lolth was Eilistraee's chief enemy. The Dark Maiden was infuriated by her mother's evil and corruption, and constantly strove to help the drow break free from her oppression and find their way back to the surface world.<ref name="DD" />
+
+Lolth ordered the persecution of all the worshipers of the Dark Maiden and the suppression of all information and records about her. The Spider Queen's clergy worked to hide Eilistraee's existence to the drow, fearing the impact that such knowledge would have on the status quo. They were particularly wary of the Dark Maiden's [[Eilistraee#Activities|call]], that would lure the dark elves to the surface and show them the beauty of a kind of life that they were denied, and did all they could to prevent the drow from hearing and feeling it, afraid that they would choose to follow it and abandon the Way of Lolth.<ref name="MTF5e-p53-57" />
+
+====Relationship with Vhaeraun====
+The relationship between Eilistraee and Vhaeraun went through significant changes over the ages. After her self-imposed exile, the Dark Maiden fought Vhaeraun's warmongering influence on the dark elves of [[Ilythiir]]. After the Descent of the drow, while the two siblings shared certain goals, their views on how to achieve them clashed. Eilistraee wished the drow to peacefully return to the surface and build friendships with other races, while Vhaeraun wanted the drow to claim back the ancient prestige of Ilythiir through violence and conquest.<ref name="DD" /><ref name="DD 36-38">{{Cite book/Demihuman Deities|36-38}}</ref>
+
+The Dark Maiden didn't hate her brother,<ref name="DD" /> but was saddened by his cruelty and selfishness.<ref name="DD" /> Nonetheless, their conflict eventually escalated in 1375 DR, when Vhaeraun's plan to assassinate his sister backfired, and she temporarily took his portfolio.<ref name="SotW" /> However, post-1489 DR, after their return during the Second Sundering, Eilistraee and Vhaeraun had gained a new understanding of each other. As a consequence, they were closer and became more open to each other's ways and goals. They reached a truce and even friendship, although some of their followers still remained foes and skirmished often.<ref name="EdGreenwood-p476496" /><ref name="EdGreenwood-p476639" />
+
+====Relationship with Selvetarm====
+Selvetarm wasn't always among the Dark Dancer's enemies—once, he admired his aunt and she inspired him to turn toward goodness. The two grew very close, and Eilistraee even hoped that Selvetarm's good heart could convince the Seldarine to work with her to reunite the drow and the elves. However, her hope was destined to die when Lolth tricked the young demigod into a terrible fall.<ref name="DD-p34" />
+
+====Relationship with Ghaunadaur====
+The Dark Maiden hated the influence that Ghaunadaur had on the drow, and fought it on many occasions.<ref name="DD" /> The Elder Eye held a grudge against Eilistraee due to her efforts in defeating and trapping his avatar near the [[Promenade of the Dark Maiden]], in order to protect the city of [[Waterdeep]] from it.<ref name="7S-58">{{Cite book/The Seven Sisters|58}}</ref>
+
+===Patronage===
+Eilistraee was among the good deities who looked kindly on [[Those Who Harp]],<ref name="DotU-20" /><ref name="DD" /> while they in turn supported her church on the surface.<ref name="F&P-p23" /> Furthermore, she personally taught individual harpers and [[Chosen of Mystra]], while asking them to act as her eyes and ears in the world, one of the many privileges that she had as a friend of Mystra.<ref name="MnSP-FoEG">{{cite web 
+ |url=https://www.youtube.com/live/aGI_imIXet4?si=3B0w-KXSmdLJdpW4&t=4831
+ |title= Baldur's Gate Creator Plays BG3 {{!}} Pt 6 (Please BEAR with me)
+ |accessdate=2025-08-18
+ |author=[[Ed Greenwood]]
+ |date=2025-07-27
+ |work= Ed Greenwood YouTube}}</ref>
+
+===Servitors===
+Eilistraee was served by the following creatures, whom she also sent as her agents: [[aasimar]], [[aasimon]] (particularly lights), [[asura]]s, [[cath shee]], [[einheriar]], [[eladrin]]s, [[mercury dragon]]s, [[elven cat]]s, [[feystags]], [[frosts]], [[hollyphant]]s, [[incarnate|incarnates of faith and hope]], [[lythari]], [[mist dragon]]s, [[moon dog]]s, [[moon horse]]s, [[pixie]]s, [[radiance quasielemental]]s, [[revered one]]s, [[silver dog]]s, [[silver dragon]]s, [[sprite]]s, [[sunfly|sunflies]], [[tiefling]]s, and silver-striped tabby [[cat]]s or normal-looking animals with solid silver-colored eyes. Silver moths could also be used as a message from the goddess.<ref name="DD" />
+
+==Worshipers==
+:''Main article: [[Church of Eilistraee]]''
+{{Quote|Run thy sword across my chains, Silver Lady, that I may join your dance.|A basic prayer.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}
+
+The worshipers of Eilistraee mostly consisted of those drow who hoped to escape the danger and darkness of the Underdark and Lolth's evil, taking back their place in the surface world. However, in line with her ideals, Eilistraee would welcome beings of all races (though, among her non-drow followers, [[elves]], [[humans]], and especially [[half-elves]] were the most numerous).<ref name="DotU-20" /><ref name="DD" /> They shared the desire of seeing all races living in harmony, without pointless discrimination or wars, and worked towards that goal (and those among them who were drow also fought to build their own place on the Realms above).<ref name="DD" /> Most followers of Eilistraee were of a [[good]] nature.<ref name="DotU-20" /><ref name="DD" /> 
+
+Eilistraean communities were often of matriarchal nature.<ref name=".0">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2006)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 5812
+| postid     = 159791
+| whichpage  = 56
+| date       = 2006-11-06
+| accessdate = 
+}}</ref><ref name="EG2006 1">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2006)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 5812
+| postid     = 159733
+| whichpage  = 56
+| date       = 2006-11-05
+| accessdate = 
+}}</ref> However, differently from Lolth's, theirs was a nurturing matriarchy, meant to empower all—males and females alike—<ref>[http://web.archive.org/web/20030219070501/http://www.wizards.com/default.asp?x=books/fr/drowsocial Sean K. Reynolds (October 2002), Drow social relationships, Wizards of the Coast]</ref>to thrive on the surface world,<ref name="EdGreenwood-p129882" /> and characterized by a very loose hierarchy.<ref name="FP">{{Cite book/Faiths and Pantheons}}</ref> In fact, the clerics of Eilistraee, commonly known as [[Sword Dancer of Eilistraee|Sword Dancers]], acted as an extension of Eilistraee's own motherhood of the drow, and took the role of teachers, protectresses, and diplomats.<ref name="EdGreenwood-p129882" /><ref name="FP" /> The priestesses aided their people to learn to live and forge their own path in a hostile world, and to rediscover a sense of belonging and community.<ref name="EdGreenwood-p129882" /> They also protected their people from danger, and built a place for them to live by establishing friendships and relationships with other races.<ref name="FP" /> The Eilistraeans were also known to offer aid and shelter to those who came asking them (no matter the race), and even to actively travel to other places in order to bring food, cures, arts, and practical help where there was need of it and to those met along the way.<ref name="DD" />
+
+Many followers of Eilistraee, and especially her clerics, strove to learn and promote arts—with a soft spot for music and dance—as well as teaching them and passing along the knowledge of particular pieces, songs, or dances learned during travels or created by them. They would also take care of broken musical instruments, or craft new ones. Those who didn't know an art, were instead known to support bards by hiring them when they could afford it. This was part of their way to promote joy and merriment in their communities and during their travels.<ref name="DD" />
+
+That said, despite their efforts, the faithful of Eilistraee, were little known and poorly understood by inhabitants of both the Realms Above and the Underdark. Her worshipers were figures of myth and superstition and were targets of prejudice and wild mistruths. Some surface dwellers believed they were the disguised vanguard of the Spider Goddess's plan to take over the surface, while those drow who followed Lolth or other evil deities suspected them of being surface elf spies and saboteurs posing as drow as a prelude to invasion. Most non-elves could not comprehend the existence of a good drow deity, while surface elves were uncomfortable considering it, finding Eilistraee a threat to their doctrine that the dark elves were wholly to blame for the Crown Wars and other ancient tragedies.<ref name="F&P-p23" /><ref name="DD" />
+
+Eilistraee was commonly worshiped in [[Cormanthor]] among the drow there, in the [[Dalelands]] among the [[half-elves]],<ref>{{Cite book/Player's Guide to Faerun|22, 25}}</ref> in Waterdeep and [[Skullport]],<ref name="DD" /> and had a following among the [[Aevendrow]] of [[Callidae]] as well.<ref name="GE"/> She also had followers (mostly [[human]]s, elves, and half-elves) living in [[Silverymoon]] and its surroundings.<ref name="DD" /> [[Imberlur]] was an Eilistraean drow city under the [[Border Kingdoms]]; its inhabitants were characterized by a strong drive to excel at their crafts and innovate, and became known to the wider Faerun through the creation of [[Imberlur#Economy|Spellbones]], magic items that could release spells under the control of the user and made magic accessible to anyone.<ref>{{Cite web/Ed Greenwood's Patreon/Imberlur the Drow City}}</ref>
+
+The Dark Dancer was worshiped through song and dance, if at all possible in the surface world under the moon (preferably in wooded places). Worship of her was usually accompanied by a feast.<ref name="DotU-20" /><ref name="DD" />
+
+==Symbol==
+[[File:Eilistraee - old holy symbol.jpg|thumb|right|The former holy symbol of Eilistraee.]]
+[[File:Eilistraee_symbol.jpg|thumb|right|The later holy symbol of Eilistraee was a depiction of the goddess herself.]]
+Eilistraee's holy symbol was formerly a [[longsword]], standing vertically with point upward, outlined against a full moon, which was surrounded by a nimbus of filaments representing her hair, all in [[silver]].<ref name="DotU-20" /><ref name="DD" /> However, a more elaborate variant that entered common usage from [[1372 DR]] depicted a nude female drow with long hair, bearing a silver sword and dancing before the full moon.<ref name="FRCS3e-237" /><ref name="F&P-p23" /> This symbol was still in use in the 1480s DR, after Eilistraee's return with the Second Sundering.<ref name="SCAG" />
+
+==History==
+Eilistraee was born the daughter of [[Corellon Larethian]], head of the elven gods, and [[Araushnee|Araushnee the Weaver]] (who later took the name of Lolth), a minor elven goddess. She was the sister of [[Vhaeraun]].<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DD-p12">{{Cite book/Demihuman Deities|12-13}}</ref>
+
+===Exile===
+The commonly accepted version of the story or myth of how Eilistraee came to her role in the [[Dark Seldarine]] ran as follows.
+
+Around {{Yearlink|-30000}}, ambitious and traitorous, envious of the authority that her consort Corellon had over the elven people, Araushnee (with the cooperation of her son, Vhaeraun) gathered a host of deities who were opposed to the Seldarine, tricking them into assaulting [[Arvandor]] in an attempt to overthrow Corellon.<ref name="E.IoE" /> The Weaver also tried to seduce [[Fenmarel Mestarine]], elven god of outcasts and rebels, to join her in the imminent rebellion. As her adulterous lover, he was initially tempted by her advances, but he ultimately declined the offer.<ref name="DD-p135">{{Cite book/Demihuman Deities|135}}</ref>
+
+The only deity of Arvandor who took steps to stop Araushnee's plan before it could unfold was [[Sehanine Moonbow]]. Through her connection to moonlight, she had in fact witnessed the Weaver crafting a [[scabbard]] meant for Corellon, imbued with cursed magic devised to bring defeat in battle to its owner. The item had been crafted by Araushnee before a meeting between Corellon and [[Gruumsh]] that was supposedly meant to establish the terms of a truce, but that in truth she had orchestrated with the orc god with the purpose of slaying her lover. This attempt was however a failure, and the sheath was lost in the battle, only to be later retrieved by Sehanine. The Lady of Dreams—-aware of Araushnee's betrayal, but knowing how important her love was to Corellon—tried to dissuade her from such madness, but the Weaver reacted violently, defeating and imprisoning the moon goddess with the aid of Vhaeraun. With the only meaningful obstacle out of their way, Araushnee and Vhaeraun proceeded with their plan, working to lead Eilistraee to find the cursed item. They exploited the Dark Maiden's adoration for her father, knowing that she would have been more than eager to search for the sheath, and overjoyed to return such a prized possession to him, making her the perfect scapegoat.<ref name="E.IoE" />
+
+When the attack began, Eilistraee (whose skills in archery, scouting, and hunting were widely known among the [[Seldarine]]) was the first to spot the threat, allowing her father and the other elven deities to prepare a defense. The Dark Maiden took part in the battle, enthusiastic and proud to be able to fight by her father's side in defense of their home. In the heat of the battle that ensued, when [[Ghaunadaur]] made its entrance, Corellon painfully realized that the threat had to have come from within the Seldarine itself, as a being like Ghaunadaur could only enter Arvandor if a true evil already lurked within the plane. His sorrow grew even more intense when he realized that his lover, Araushnee, was behind it, as she stood observing the battle in triumph. Seeing the distraction and shock of the elven lord, an [[ogre]] god took advantage of the situation and charged towards his position: he almost managed to end his life, but Eilistraee acted swiftly to defend her father, loosing an arrow at the charging ogre-god. The young goddess didn't know, however, that the scabbard that Araushnee had crafted for Corellon's sword was imbued with a curse which magically drew the shaft of the arrow, changing its path to instead pierce his chest. Seeing the scene from the skies, [[Aerdrie Faenya]], unaware of the deception, struck the still-shocked Eilistraee down, incapacitating her. Despite Corellon being almost fatally wounded, the battle was ultimately won by the forces of the Seldarine and, as soon as the last invader was driven from Arvandor, the elven deities—still unbelieving that the Dark Maiden could act against her father—gathered around the unconscious elven lord, trying to aid him and save his life.<ref name="DD" /><ref name="E.IoE" /><ref name="DD-p97">{{Cite book/Demihuman Deities|97}}</ref>
+
+It was then that Araushnee, faking grief, put in motion the second part of her plan (as she had intended for the invaders to be defeated). Pretending to do her best to save her lover, she tried to use a concoction of poisonous [[herb]]s, prepared by Eilistraee for the arrows of the mortal dark elves, to finish Corellon, passing it for a healing elixir made up of water from [[Elysium]] and healing herbs. She hoped that if her treachery was uncovered, she could still blame Eilistraee, as the potion had been her work. This plan didn't go well: [[Sehanine Moonbow]] had in fact managed to free herself, and intervened in time to save Corellon (together with Aerdrie Faenya and [[Hanali Celanil]], in the form of the triune goddess [[Angharradh]]) and free Eilistraee from guilt.<ref name="DD" /><ref name="E.IoE" /><ref name="DD-p12" /><ref name="DD-p97" />
+
+After the elven lord regained consciousness and the truth was made clear, he had to take the painful decision to banish all the dark elven deities for their roles in the war against the Seldarine. Eilistraee was cleared from any wrongdoing, considered only an unwitting participant, but regardless she insisted upon this punishment: she foresaw that the dark elves would need a beacon of good within their reach and her help and support in the times to come. Reluctant yet proud, Corellon conceded her wish.<ref name="FRCS3e-237" /><ref name="F&P-p23" /><ref name="DD" /><ref name="E.IoE" /><ref name="DD-p12" /> 
+
+After very nearly slaying her own father with a misplaced arrow, Eilistraee swore never to use ranged weaponry again, lest her missile go astray. Thereafter, the sword was the only weapon for her.<ref name="DD" />
+
+===Wandering===
+After her exile, the Dark Maiden wandered [[Toril]], the same world that the elves had chosen as their home. For centuries, she fought Vhaeraun's corruption of the [[Ilythiiri]], thwarting his efforts to gain influence over all the dark elves of the south. Eilistraee had in fact foreseen that the influence of Vhaeraun (and of her mother, whom she knew would later come to Toril), would have led the [[elf|Tel'Quessir]] to war against each other, and she worked to prevent that.<ref name="E.IoE" />
+
+When Sharlario and Cornaith Moonflower traveled towards Ilythiir as representatives of the elves, to establish diplomatic ties with the dark elves there, Eilistraee personally appeared to both of them. The Dark Dancer came to seek friends in the two elves, and to warn them of the danger represented by Vhaeraun and his followers, and of the strife and conflict that they (and even darker deities) would have brought to the [[elf|People]]. Both elves offered to become her followers, to support the goddess in her struggle, but—although honored—Eilistraee kindly refused, as she only wanted the elves to be aware, and as she feared that soon her own people would become exiles like she was.<ref name="E.IoE" />
+
+Eilistraee eventually managed to gain some followers in Ilythiir,<ref name="DD" /> but her strength wasn't enough for her to prevail. On the contrary, she and her followers became hunted by the Masked Lord and the Ilythiiri,<ref name="E.IoE" /> and the conflict allowed Ghaunadaur to rise and gain influence over the dark elves, posing an even greater threat than Vhaeraun.<ref name="DD" /><ref name="DD-p12" /><ref name="DD-p37">{{Cite book/Demihuman Deities|37}}</ref> Lolth's attention turned to the dark elves of Toril only later, when the moon elf [[Kethryllia Amarillis]] intruded into the [[Demonweb Pits]], reminding the Spider Queen of a way to regain more of her divinity by having the surface elves worship her again.<ref name="E.IoE" /><ref name="DD-p28/29">{{Cite book/Demihuman Deities|28-29}}</ref> Her power started to rise after the [[First Sundering]] and the death of many Vhaeraunites in the destruction of [[Atorrnash]],<ref name="E.IoE" /> which contributed to the decline of the Masked Lord, and the further marginalization of Eilistraee.<ref name="DD" /><ref name="DD-p12" /><ref name="DD-p37">{{Cite book/Demihuman Deities|37}}</ref>
+
+After dark and green elven refugees from [[Aryvandaar]] founded [[Miyeritar]] in {{Yearlink|-18800}},<ref name="GHotR-10">{{Cite book/The Grand History of the Realms|10}}</ref> the Dark Maiden's faith concentrated there, as the goddess became a major patroness of the nation,<ref name="DD" /> which would flourish and grow into an important center of arts and magic.<ref name="GHotR-12">{{Cite book/The Grand History of the Realms|12}}</ref> However, the following centuries inflicted blow after blow to Eilistraee and her followers. During the [[Crown Wars]] ({{Yearlink|-12000}} to {{Yearlink|-9000}}), she could only mitigate the growing control Lolth, Vhaeraun, and Ghaunadaur had over the dark elves. In {{Yearlink|-10500}}, the [[Dark Disaster]]—a magical cataclysm unleashed by the elves of [[Aryvandaar]]—caused the death of many of her people in [[Miyeritar]], severely weakening the goddess' power. Meanwhile, Lolth and Ghaunadaur gained great influence among the dark elves, culminating in {{Yearlink|-10000}}, when the Seldarine and the elves gathered at the [[Elven Court]] cursed and exiled all dark elves (including Eilistraee's followers), turning them into drow. This harsh punishment was motivated by the corruption that Lolth and the [[balor]] [[Wendonai]] were spreading among the noble houses of Ilythiir, and by the worship of Lolth that had begun to spread among the Ilythiiri.<ref name="TGHotR">{{Cite book/The Grand History of the Realms}}</ref><ref name="CEotE">{{Cite book/Cormanthyr: Empire of the Elves}}</ref> Ultimately, Eilistraee could not rival Lolth's power, and the Spider Queen became the major deity of the dark elves. After this event, Lolth's and Ghaunadaur's persecution of worshipers of rival deities further marginalized the influence of the Lady of the Dance for millennia.<ref name="DD" /><ref name="DD-p12" />
+
+Eilistraee found an unlikely protégé in her nephew-god, [[Selvetarm]]. He was the son of Vhaeraun and [[Zandilar the Dancer]] (who would later become one with [[Bast]], forming [[Sharess]]), but had spurned both his parents and walked alone for centuries, neither good nor evil. After Eilistraee found and befriended him, Selvetarm came to admire her goodness and appreciate her teachings, and the two grew close to each other. A hope was sparked in the Dark Maiden's heart: that her nephew could become an exemplar, and aid her in healing the rift between the dark elves and the Seldarine. However, said hope and friendship ended in the late 3rd century after [[Dalereckoning]], when Lolth tricked Selvetarm into slaying [[Zanassu]] (a [[demon lord]] whom Lolth considered her rival, as he claimed to have power over spiders), by promising him that doing so would gain him the admiration of the Dark Maiden. But Selvetarm was overwhelmed by the demonic essence and he fell wholly to evil, ending up as Lolth's champion. Spiteful Lolth did this to prevent her daughter gaining an ally among the Dark Seldarine.<ref name="DD-p34">{{Cite book/Demihuman Deities|34}}</ref>
+
+Despite all these setbacks, Eilistraee kept fighting to bring her hope to the drow and lead them back to their rightful place in the light. It was only in the centuries after [[Dalereckoning]] that her faith regained a degree of prominence in Faerûn.<ref name="DD" /><ref name="DD-p12" />
+
+===The Time of Troubles===
+In [[1358 DR]], when all the deities of the various pantheons were forced to walk [[Toril]] in their mortal [[avatar]] forms by [[Ao]]'s decree (an event known as the [[Time of Troubles]], or the "Avatar Crisis"),<ref name="FRCS-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref> Eilistraee too was affected. She appeared to mortals at least once during the Time of Troubles. The Lady of Dance manifested in the [[High Forest]], in the location that became known as [[Darkmaiden's Leap]], a site of pilgrimage sacred to her. The goddess ventured there to rescue a group of drow refugees and lead them to the safety of the temple of the [[Promenade of the Dark Maiden|Promenade]].<ref name="CoV">{{Cite book/Champions of Valor|133-135}}</ref>
+
+===Post-Avatar Crisis===
+During the 1360s DR, Eilistraee took to heart the young drow [[Liriel Baenre]] and her travels on the surface. While Lolth constantly tried to claim Liriel as her own chosen, Eilistraee kept subtly singing her call to the girl, guiding her and letting her channel her magic on multiple occasions, in order to help her find her own path.<ref name="DDGttU-p65">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|65}}</ref><ref name="DotD">{{Cite book/Daughter of the Drow/2003}}</ref><ref name="TW">{{Cite book/Tangled Webs/MMP (1998)}}</ref><ref name="WW">{{Cite book/Windwalker/Paperback}}</ref><ref>{{Cite book/Windwalker/Paperback|338}}</ref> For example, the emotion of Eilistraee's dance, and that of her moon magic, helped Liriel to envision and create her personal rune to carve in the [[Yggdrasil's Child]]<ref name="TW-252-253">{{Cite book/Tangled Webs/MMP (1998)|252-253}}</ref>—the goal of her quest, that would have allowed her to preserve her drow magic (and therefore, to her, identity) on the surface,<ref name="TW" /> and which also granted all drow the same ability (although that effect was not something that Liriel had intended to happen).<ref>{{Cite book/Windwalker/Paperback|190-191}}</ref> Eilistraee's Moonsong, the ability to hear the song of people and places lit by the moon, guided Liriel to free the elven souls that had been trapped in a magical tapestry by the [[illithid]] [[Vestress]] of the [[Kraken Society]],<ref>{{Cite book/Windwalker/Paperback|302, 303}}</ref> and made her feel a connection to the followers of the goddess.<ref>{{Cite book/Windwalker/Paperback|309, 310}}</ref> The Dark Maiden also helped the young drow bring back her lover [[Fyodor]] from the brink of death.<ref name="TW-345-346">{{Cite book/Tangled Webs/MMP (1998)|345-346}}</ref> and [[Thorn]]—Eilistraee's own champion—assisted her in her travel to [[Rashemen]].<ref>{{Cite book/Windwalker/Paperback|172-173}}</ref> All in all, Eilistraee spoke to Liriel's emotional side, providing her a sense of sisterhood, and reminding her of the beauty and joy that could be found in life.<ref>{{Cite web/Candlekeep forum
+| title      = Questions for Elaine Cunningham &lsqb;II&rsqb;
+| author     = [[Elaine Cunningham]]
+| topicid    = 13887
+| postid     = 497528
+| whichpage  = 31
+| date       = 2017-07-16
+| accessdate = 
+}}</ref>
+
+At the beginning of the 1370s DR, the cosmology rearranged under the [[World Tree]] model. After her millennia-long exile, Eilistraee was allowed to move her divine realm, and the souls of all her followers (including drow), back to [[Arvandor]]. She kept a small realm in the [[Demonweb Pits]], but it remained mostly empty, and Eilistraee herself very rarely visited it.<ref name="F&P-p23">{{Cite book/Faiths and Pantheons|23-25}}</ref><ref name="PGtF">{{Cite book/Player's Guide to Faerun|143}}</ref> It wasn't known whether moving from [[Ysgard]] to Arvandor happened out of material necessity, or was the first sign of her efforts towards reconciliation bearing results.{{speculation}}
+
+===War of the Spider Queen===
+In the [[1372 DR|Year of Wild Magic, 1372 DR]], the goddess Lolth went into a state of hibernation, a period called the [[Silence of Lolth]], with [[Selvetarm]] protecting her, as part of a plan to increase her power and separate her divine realm, the [[Demonweb Pits]], from the [[Abyss]]. For about one year, she stopped granting spells to her followers and became effectively inactive. During this time, Lolth's absence led a considerable number of her followers to seek alternatives in the other deities of the [[Dark Seldarine]] and this resulted in Eilistraee gaining followers and influence. She chose one of her new converts, [[Halisstra Melarn]], to wield the artifact known as the ''[[Crescent Blade]]'', which could be used to kill Lolth before her awakening (in [[1373 DR]]). Halisstra went on a mission to the Demonweb Pits, leading two fellow priestesses of the Dark Maiden, [[Uluyara]] and [[Feliane]]. However, after being defeated at the hand of [[Quenthel Baenre]], Halisstra ultimately decided to betray Eilistraee and convert back to the awakened Lolth. The Spider Queen punished her former heresy by turning her into the ''Lady Penitent'', whose duty was to hunt drow who tried to turn to other faiths. The ''Crescent Blade'' was left broken, lying in the Demonweb Pits.<ref>{{Cite book/Extinction}}</ref><ref>{{Cite book/Annihilation}}</ref><ref>{{Cite book/Resurrection}}</ref>
+
+Even after Lolth emerged from her Silence, the deities of the Dark Seldarine continued battling for supremacy over the drow or, in Eilistraee's case, to free them from Lolth's renewed grasp.
+
+Lolth convinced Eilistraee to play a divine game of ''[[sava]]'', with the stakes being the players' lives and therefore the very fate of the drow. The Dark Maiden accepted, seeing an opportunity to finally end the torment that Lolth had been inflicting on the drow for millennia and to set her people free, and put herself on the line for them.<ref name="SotW-3">{{Cite book/Sacrifice of the Widow|3}}</ref> After the end of the Silence, working on the Spider Queen's side, Selvetarm ordered his [[Drow Judicator|Judicators]] to initiate a series of attacks against the shrines and temples of Eilistraee. At the same time, [[Vhaeraun]] was plotting against his sister and working to devise a method to slay her. As a result, his worshipers planned to cast a [[Elven High Magic|High Magic]] spell to allow Vhaeraun to enter his sister's realm and assassinate her. However, that kind of magic was very taxing, and would have required the sacrifice of the souls of the casters. Because of that, the followers of the Masked Lord started to kill various priestesses of Eilistraee and collect their souls in their masks (a technique which they called "soultheft"), in order to use them as a fuel for the ritual.<ref name="SotW" />
+
+Eventually, [[Qilué Veladorn]], leader of the [[church of Eilistraee]], managed to learn about their plan and started working to disrupt it, alongside the drow mage [[Q'arlynd Melarn]] (who had turned to the faith of Eilistraee). Q'arlynd's task was to take the place of one of the Vhaerunites and try to disrupt their ritual. Meanwhile, Eilistraee sought to recover the lost ''Crescent Blade''; to that purpose, [[Cavatina Xarann]], a [[Darksong Knight]] serving the Dark Dancer, went on a mission into the Demonweb Pits, where the sword was seen last.<ref name="SotW">{{Cite book/Sacrifice of the Widow}}</ref>
+
+With the Dark Maiden and her followers struggling against multiple fronts, Selvetarm made another move, trying to strike at the heart of his aunt's forces, as his followers attacked the [[Promenade of the Dark Maiden]]. However, his attempts ultimately failed: on [[Nightal 20]] of the [[1375 DR|Year of Risen Elfkin, 1375 DR]], the defenders of the Promenade (led by Qilué) bested the assailants,<ref name="SotW" /> while Cavatina killed the demigod himself in the Demonweb Pits (with the help of the Lady Penitent), using the ''Crescent Blade'', which she had recovered almost intact<ref name="tGHotR-p158">{{Cite book/The Grand History of the Realms|158-159}}</ref><ref name="SotW" /> (but which was no longer the original artifact, and had become a vessel for the balor [[Wendonai]]).<ref name="SotW 296">{{Cite book/Sacrifice of the Widow|296}}</ref>
+
+On the same date, Q'arlynd failed to accomplish his mission and Vhaeraun managed to enter his sister Eilistraee's realm and attempted to assassinate her. Despite that, the Dark Maiden did not receive her brother unprepared, as she had been warned by her priestesses about his intentions. No mortal actually witnessed the battle that ensued, so what happened remained largely unknown. However, Eilistraee emerged from the battle alive, suggesting that Vhaeraun had failed and perished at the hand of his sister. Chaos and despair spread among the followers of the Masked Lord, but some thought that their god was still alive, and that the twins had a plan and agreed to merge and work together against their mother for a time. Others were convinced that Vhaeraun had succeeded and was disguised as Eilistraee. Either way, it was certain that after the event, Eilistraee was changed: she held both her brother's and her own portfolios, she gained the title of "Masked Lady", and caused her followers and Vhaeraun's to cooperate, albeit uneasily.<ref name="tGHotR-p158" /><ref name="SotW" /><ref group="note">''[[The Grand History of the Realms]]'' explicitly says that Vhaeraun's assassination attempt failed and Eilistraee killed him. However, in [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476639 one of his answers], [[Ed Greenwood]] suggests that Eilistraee actually spared her brother's life. The Dark Maiden defeated Vhaeraun with the indirect help of her ally [[Mystra (Midnight)|Mystra]], as the [[Weave]] frustrated the Masked Lord's magic while enhancing Eilistraee's. The goddess temporarily took her brother's portfolio, and trapped his sentience in the Weave, where it was enfolded in a dream by Mystra. The Lady of Mysteries did that to ensure that the two drow siblings would survive the cataclysm that she knew was coming—the [[Spellplague]]—in which she would be "killed" to renew the Weave, and magic would go wild.</ref>
+
+In the [[1377 DR|Year of the Haunting, 1377 DR]], [[Kiaransalee]] and her cultists initiated hostilities against the Masked Lady and her followers. Furthermore, the church of the Revenancer tried to call an army of [[undead]] from [[Death Heart]], a city on the [[Negative Energy Plane]], by feeding the ''[[faerzress]]'' with [[negative energy]]. As a byproduct, this increased the drow's urge to go back to the [[Underdark]], which clashed with the Dark Maiden's goal of leading her people back to the surface. Eilistraee answered to that through a High Magic ritual performed by Q'arlynd Melarn, which erased the demigoddess' name from the minds of every Torillian being, including Kiaransalee herself, leading to her disappearance. Her temple was also destroyed, and her followers' plan thwarted.<ref name="SotD-170-172, 248, 250">{{Cite book/Storm of the Dead/Paperback (2007)|170-172, 248, 250}}</ref><ref name="tGHotR-p158" />
+
+Following those events, by Eilistraee's will,<ref name="AotL 146">{{Cite book/Ascendancy of the Last|146}}</ref> Qilué began helping Q'arlynd Melarn prepare a High Magic spell meant to sever the link between the faerzress and the drow who didn't worship Lolth, and make it easier to lead them away from the Underdark and to the surface.<ref name="AotL 146, 162">{{Cite book/Ascendancy of the Last|146, 162}}</ref><ref name="AotL 262-265">{{Cite book/Ascendancy of the Last|262-265}}</ref> Meanwhile, Qilué also took possession of the Wendonai-possessed ''Crescent Blade'',<ref name="SotW 296">{{Cite book/Sacrifice of the Widow|296}}</ref> and hatched a plan to kill the demon (whom Lolth had originally used to corrupt the drow into following her) by taking its essence into her and destroying it with Mystra's ''[[silver fire]]'' in the place where he had been summoned for the first time. If successful, she would have freed the drow from him, but in the time that it took her to prepare for the plan, his presence would affect and influence her.<ref name="AotL">{{Cite book/Ascendancy of the Last}}</ref>
+
+In 1379 DR, [[Ghaunadaur]] joined the conflict between Lolth and Eilistraee, focusing his attention on the latter<ref name="AotL" /> (who, through her chosen, had previously banished The Elder Eye's avatar from Toril<ref name="DD" />). As a result, with the help of some traitors among the former Vhaeraunites who had joined the Masked Lady, his cultists managed to attack the Promenade. Their goal was to destroy the prison—guarded by the followers of Eilistraee—that prevented their god from creeping into Toril. The attempt failed, but the inhabitants of the temple, and the followers of the goddess who used the [[Church of Eilistraee#Portal Magic|Moonspring portals]] to aid them, suffered heavy losses.<ref name="AotL" />
+
+In [[Flamerule]] of the [[1379 DR|Year of the Lost Keep, 1379 DR]], the High Magic spell that Q'arlynd Melarn and Qilué had prepared was cast with the intervention of Eilistraee (although the goddess would withdraw her presence early during the ritual).<ref name="AotL 262-265">{{Cite book/Ascendancy of the Last|262-265}}</ref> Qilué was supposed to be the main caster,<ref name="AotL 146, 162">{{Cite book/Ascendancy of the Last|146, 162}}</ref> but she had realized that she couldn't have taken part in the spell, for Wendonai's influence would have compromised it, and had assigned her role to Q'arlynd instead.<ref name="AotL 146, 162">{{Cite book/Ascendancy of the Last|146, 162}}</ref> Despite being meant to sever the link between the faerzress and the drow, the ritual also transformed hundreds among the followers of Eilistraee (who, as [[lesser deity]], had at least a few thousands of worshipers)<ref name="FP 5-6">{{Cite book/Faiths and Pantheons|5-6}}</ref> and those drow who were not tainted by [[Wendonai]]'s blood, back to their original [[dark elf|dark elven]] form.<ref name="AotL 302-308">{{Cite book/Ascendancy of the Last|302-308}}</ref><ref group="note">Considering Eilistraee's ideals of acceptance, that—in over 10,000 years—Eilistraee never once acted or suggested the idea of such a change; and that her main goal was always to help the drow rediscover the kind of life that they had lost, and to establish them as rightful, non-evil citizens of the surface world, it could be that the goddess herself was opposed to the forceful transformation of her people. This would be further supported by her belief that the drow needed to find their own path in life, and her gentle and never direct approach in helping them in such endeavour (''[[Demihuman Deities]] p. 12 and 14''). It could explain why the spell—which saw her intervention—only affected a minority of her people and why, after the goddess' return, both she and her followers are still drow</ref>
+
+At the same time, in order to enact the plan to destroy Wendonai, Qilué and her sister [[Laeral Silverhand]] traveled to the only place where such a task could be accomplished: the royal court of ancient [[Ilythiir]], where the balor had been summoned for the first time. Fearing that Qilué would lose her life in the ritual, Laeral froze her in time and went to seek help, but in the meantime the drow priestess was found by the Lady Penitent, who took hold of the ''Crescent Blade''. Eilistraee inhabited the body of her chosen to try to save her, free Halisstra's from Lolth's influence, and offer relief from torment. However, Wendonai tricked the Lady Penitent into killing Qilué and the goddess before that could happen, making her believe that the chosen and her deity were actually Lolth.<ref name="AotL">{{Cite book/Ascendancy of the Last}}</ref><ref group="note">In the [http://forum.candlekeep.com/topic.asp?TOPIC_ID=19841&whichpage=22#476639 same answer] mentioned in the previous note, Ed Greenwood hints that Eilistraee actually managed to survive Halisstra's attempt to kill her, albeit much weakened. When Qilué Veladorn was killed, since the Masked Lady was inhabiting her body, a great part of her power was dragged into the [[Weave]] with the Chosen's soul (the souls of Mystra's chosen often become "Voices in the Weave" after their death, as explained in the novel [[Spellstorm (novel)|''Spellstorm'']], and their memories and experiences are shared by Mystra). After that, for about a century, Eilistraee could only manfest herself only as a floating black mask surrounded by moonlight, capable of silently communicating with mortals, but not of answering prayers or granting spells (except by direct touch). After Mystra and the Weave were completely restored in [[1487 DR]], the goddess of magic could finally give Eilistraee her own lost power, and do the same with Vhaeraun, after having awakened him from his dream.</ref> After that, the souls of the newly transformed [[dark elves]] among the faithful of Eilistraee were allowed by Corellon Larethian to enter [[Arvandor]] (even though Eilistraee's realm, which continued existing,<ref name="AotL">{{Cite book/Ascendancy of the Last}}</ref> had already been moved to Arvandor almost a decade before, alongside the souls of her followers within it).<ref name="F&P-p23">{{Cite book/Faiths and Pantheons|23-25}}</ref> Despite Corellon's decision, Qilué's soul didn't go to his realm in Arvandor, and became a [[Weaveghost]] instead.<ref name="EGtQilué&Trelasarra">{{cite web
+| url            = https://twitter.com/TheEdVerse/status/1235039364763115522
+| title          = Ed Greenwood on Twitter
+| accessdate     = 2020-03-04
+| author         = [[Ed Greenwood]]
+| date           = 2020-03-04
+}}</ref>
+
+===Return===
+Eilistraee managed to return to life during the event known as the [[Second Sundering]]<ref name="SCAG" /><ref name="MTF5e-p53-57" /><ref name="EdGreenwood-p468322" />, in Flamerule, 1489 DR<ref name="EdGreenwood-p476639" />. The goddess took the title of Dark Maiden once again, as her brother too had returned and taken back his portfolio.<ref name="EdGreenwood-p468290">{{Cite web/Candlekeep forum
+     | title      = Questions for Ed Greenwood (2015)
+     | author     = [[Ed Greenwood]]/The Hooded One
+     | topicid    = 19841
+     | postid     = 468290
+     | whichpage  = 11
+     | date       = 2015-04-16
+     | accessdate = }}</ref> Despite Q'arlynd's ritual, the returned Dark Dancer was still a drow goddess and most of her followers drow.<ref name="SCAG" /> She also gained the portfolio of freedom, in addition to her traditional portfolios of beauty, dance, song, moonlight, swordwork, and hunting.<ref name="MTF5e-p53-57" /><ref name="SCAG" />
+
+After their reappearance, Eilistraee and Vhaeraun reached a reciprocal understanding, and the enmity between them was no more.<ref name="EdGreenwood-p476496">{{Cite web/Candlekeep forum
+| title      = Questions for Ed Greenwood (2015)
+| author     = [[Ed Greenwood]]/The Hooded One
+| topicid    = 19841
+| postid     = 476469
+| whichpage  = 18
+| date       = 2015-11-11
+| accessdate = 
+}}</ref> Both siblings personally let their return be known, manifesting through their avatars to their followers, who enthusiastically spread the word.<ref name="EdGreenwood-p468322" /> Eilistraee, in particular, was seen dancing and speaking to mortals in many places, especially along the [[Sword Coast]]. For example, the citizens of [[Waterdeep]] witnessed the Dark Dancer, as she danced in the moonlight, near the walls of the city, up the road to [[Amphail]]. This led many moondancers to the City of Splendors, with the goal of creating a shrine to their goddess (the [[The Dancing Haven|Dancing Haven]]) within its walls.<ref name="DM" /> After the Second Sundering, Eilistraee also had a following in the [[Aevendrow]] enclave of [[Callidae]].<ref name="GE">{{Cite book/Glacier's Edge}}</ref>
+
+Eilistraee's alliance with [[Mystra (Midnight)|Mystra]] continued after the return of the two goddesses, as the Lady of Mysteries chose to share the [[Weave]] with the Dark Maiden<ref name="Spellstorm">{{Cite book/Spellstorm}}</ref> and other allied deities (like [[Azuth]]).<ref name="SharedWeave">{{cite web
+| url            = https://twitter.com/TheEdVerse/status/1235270061948112897
+| title          = Ed Greenwood on Twitter
+| accessdate     = 2020-03-04
+| author         = [[Ed Greenwood]]
+| date           = 2020-03-04
+}}</ref> This was meant to both stabilize the Weave, and prevent it from crumbling due to disruptive actions (like Lolth's failed plan to build her own [[Demon Weave]] by parasitizing the original), or attempts on Mystra's own life (like that which caused the [[Spellplague]]).<ref name="SharedWeave" /> Furthermore, while Eilistraee's and Mystra's shared chosen, Qilué, remained a [[Weaveghost]], Eilistraee didn't want to give up on her, and made sure that her priestess had full access to her divine realm.<ref name="EGtQilué&Trelasarra" />
+
+==Appendix==
+===Background===
+Eilistraee was first created for the original home campaign run by [[Ed Greenwood]] himself, appearing by manifestation, dream vision, and in person. At the behest of editor [[Newton Ewell]], who wanted a deity for good drow in the game, Greenwood used the opportunity to make the Dark Dancer official and added Eilistraee to ''[[The Drow of the Underdark]]'' (1991) and thus to the official ''[[Forgotten Realms]]''.<ref name="EdGreenwood-p129882" /><ref>{{cite web
+| url            = https://disqus.com/home/discussion/edverse/hello_internet/?utm_source=reply&utm_medium=email&utm_content=read_more#comment-1534073727
+| title          = The Ed Verse
+| accessdate     = 2015-08-09
+| author         = [[Ed Greenwood]]
+| date           = 2014-08-09
+}}</ref>
+
+Greenwood designed Eilistraee as a nurturing mother goddess, even a fertility goddess. The popular dancing-naked-under-moonlight aspect of the goddess and her faith was inspired by British traditions of fairies, and was intended to show her as non-warlike and non-violent, rather than capricious. She could be a protectress of her people and a terrific sword dancer, but she was intended to be a [[bard]], not a huntress herself, only encouraging these skills in her followers, in order to help them survive on the surface. Neither was she a moon goddess, only one found under the moon as drow stole onto the surface at night. Nevertheless, by association, the official Eilistraee acquired such skills and powers herself under later writers and development. Ed Greenwood denies a connection to [[Wikipedia:Artemis|Artemis]]/[[Wikipedia:Diana (mythology)|Diana]] of Greek and Roman mythology,<ref name="EdGreenwood-p129882" /> though the later development appears to have made the official Eilistraee a little more similar.
+
+===Notes===
+{{Notes}}
+
+===Further reading===
+* [[Dragon magazine 176|''Dragon'' #176]], "If You Need Help – Ask the Drow"
+* [[Dragon magazine 172|''Dragon'' #172]], "Seeing the Sights in Skullport"
+* [[Dragon magazine 227|''Dragon'' #227]], "Report from Undermountain"
+* [[Dragon magazine 251|''Dragon'' #251]], "Magic of the Seldarine"
+* [[Dragon magazine 315|''Dragon'' #315]], "Sin Eaters of Eilistraee"
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = ''[[Evermeet: Island of Elves]]'';''[[Spellstorm (novel)|Spellstorm]]'';''[[Death Masks]]'';''[[Starlight & Shadows]]'' <small>(''[[Daughter of the Drow]]'', ''[[Tangled Webs]]'', ''[[Windwalker (novel)|Windwalker]]'')</small>;''[[War of the Spider Queen]]'' <small>(''[[Condemnation]]'', ''[[Extinction]]'', ''[[Annihilation]]'', ''[[Resurrection (novel)|Resurrection]]'')</small>;''[[The Lady Penitent]]'' <small>(''[[Sacrifice of the Widow]]'', ''[[Storm of the Dead]]'', ''[[Ascendancy of the Last]]'')</small>;''[[Glacier's Edge]]''
+| novel refs          = ''[[Silverfall]]'';''[[The Lone Drow]]''
+| comics              = 
+| comic refs          = 
+| video games         = 
+| video game refs     = {{BGapp|ToB|III}};{{NWNapp|HU|NWN2}}
+| board games         = 
+| board game refs     = ''[[Lords of Waterdeep: Scoundrels of Skullport]]''
+| card games          = 
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Drow pantheon}}
+{{Deity list}}
+[[de:Eilistraee]]
+[[Category:Bards]]
+[[Category:Clerics]]
+[[Category:Fighters]]
+[[Category:Rangers]]
+[[Category:Dark Seldarine]]
+[[Category:Lesser deities]]
+[[Category:Chaos domain deities]]
+[[Category:Chaotic good deities]]
+[[Category:Charm domain deities]]
+[[Category:Drow domain deities]]
+[[Category:Elf domain deities]]
+[[Category:Good domain deities]]
+[[Category:Hunt domain deities]]
+[[Category:Moon domain deities]]
+[[Category:Portal domain deities]]
+[[Category:Light domain deities]]
+[[Category:Nature domain deities]]
+[[Category:Life domain deities]]
+[[Category:Articles needing page numbers]]
+[[Category:Lust domain deities]]
+[[Category:Inhabitants of Svartalfheim]]
+[[Category:Inhabitants of Nidavellir]]
+[[Category:Inhabitants of Ysgard]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of Arvandor]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of feminine gender]]

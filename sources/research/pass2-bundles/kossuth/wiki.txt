@@ -1,0 +1,210 @@
+WIKI PAGE: Kossuth
+
+{{Deity
+| image               = Kossuth - Lars Grant-West.jpg
+| caption             = Kossuth, the Firelord.
+| name                = Kossuth
+| title               = The Firelord<ref name="FP-p35" /><br />Lord of Flames<ref name="FP-p35" /><br />The Tyrant-King<br />Tyrant Among Fire<ref name="FRCS2e-p61">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|61}}</ref><ref name="FRCS-p16" />
+| adjective           = Kossuthan<ref name="F&A-p90">{{Cite book/Faiths & Avatars|90}}</ref>
+| aspects             = 
+| primordial          = 
+| pantheon            = 
+| race                = 
+| gender              = Masculine
+| mortalhomes         = 
+| apotheosis          = 
+| alignment           = 
+| class               = 
+| power5e             = [[Deity]]
+| alignment5e         = [[Neutral]]
+| symbol5e            = Flame
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = [[Fire]]
+| domains5e           = [[Light domain|Light]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Radiance of the dawn]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-pp21,125">{{Cite book/Sword Coast Adventurer's Guide|21,125}}</ref><ref name="PHB5e-p60-61">{{Cite book/Player's Handbook 5th edition|60-61}}</ref>
+| power4e             = [[Primordial]]
+| alignment4e         = [[Unaligned]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = [[Undying Pyre]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Fire
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG4e-p79,81">{{Cite book/Forgotten Realms Campaign Guide|79, 81}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Neutral]]
+| symbol3e            = A twining red flame
+| homeplane3e         = [[Elemental Plane of Fire]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Elemental fire, purification through fire
+| domains3e           = [[Destruction domain|Destruction]], [[Fire domain|Fire]], [[Renewal domain|Renewal]], [[Suffering domain|Suffering]], [[Wrath domain|Wrath]]
+| mantles3e           = {{Mantles|Destruction|Elements|Energy|The Planes}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = [[Druids]], [[Elemental archon (prestige class)|elemental archons]] of fire, fire creatures, and [[Thayans]]
+| cleric alignments3e = {{alignment grid |on|on|off|on|on|on|on|on|off}}
+| favored weapon3e    = ''[[Tendril of Flame]]'' ([[spiked chain]])
+| holy days3e         = 
+| class3e             = {{Class table|edition=3e|[[Fighter]]|20|[[Wizard]]|20}}
+| refs3e              = <ref name="FP-p35">{{Cite book/Faiths and Pantheons|35-36}}</ref><ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Neutral]]
+| symbol2e            = Springing flame or flaming orb
+| homeplane2e         = [[Elemental Plane of Fire]]
+| realm2e             = [[Crimson Pillar|The Crimson Pillar]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = [[Fire|Elemental fire]], [[fire elementalist]]s, purification through fire
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Cleric]]|30|[[Wizard]]|30}}<ref group="note">Also a 30 HD [[fire elemental]].</ref>
+| refs2e              = <ref name="OHG2e-p181">{{Cite book/On Hallowed Ground|181}}</ref><ref name="IP">{{Cite book/The Inner Planes|46-48}}</ref><ref name="F&A-p88">{{Cite book/Faiths & Avatars|88}}</ref>
+| power1e             = [[Lesser power]]
+| alignment1e         = [[Neutral]]
+| symbol1e            = 
+| homeplane1e         = [[Elemental Plane of Fire]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = [[Fire]]
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16,18,39}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+}}
+'''Kossuth''' ({{Pronounce|koh|SOOTH|refs=<ref name="FP-p35" />}}) was the [[god]] of [[elemental fire]] and purification through fire.<ref name="FRCS-p244">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|244}}</ref> The '''Lord of Flames'''<ref name="FRCS-p244" /> was not considered a true god in the late 15{{th}} century [[DR]], but an elemental [[primordial]], a being whose power rivaled that of a true deity.<ref name="FRCG4e-p79,81" /> 
+
+==Description==
+Kossuth appeared as a red-hot column of awesome flame more than {{SI|60|ft|long=yes}} high and {{SI|20|ft|long=yes}} in diameter. His voice could be heard for hundreds of yards in every direction, a hissing whisper mixed with disturbing crackling and popping.<ref name="F&A-p88" />
+
+==Relationships==
+The supremely powerful elemental being known as Kossuth had lorded over fire since the earliest moments of the multiverse, though whether or not the contemporary Kossuth was the same primordial being or one in a long line of similarly named successors is a matter of much conjecture.  The Lord of Flames rarely intervened in affairs in the mortal world, spending most of his time embroiled in the intrigues of the [[Inner Planes]].<ref name="FP-p35" />
+
+Kossuth's doctrine of elemental supremacy virtually assured conflict with the other elemental lords. Kossuth was vehemently opposed to [[Istishia]] and his clergy.<ref name="FRCS-p244" /> He was watchful of the upstart [[archomental]] [[Imix]], who was always trying to undermine his better but while Kossuth remained clearly the true master of the element of fire, the [[Grand Sultan of the Efreet]] was the only being on the [[plane]] who held even a slightly comparable level of power.<ref name="IP" /> The Firelord interacted very little with the other deities of [[Faerûn]]. [[Moradin]] and [[Flandal Steelskin]] honored him for the heat of the forge, but he barely responded. The return of [[Bane]] pleased Kossuth, however; the two deities seemed to agree on the importance of a strong religious hierarchy and had a common intolerance for the ephemeral and unpredictable nature of chaos.<ref name="FP-p36">{{Cite book/Faiths and Pantheons|36}}</ref>
+
+==Divine Realm==
+Kossuth dwelled in the Crimson Pillar, a {{SIAdj|10|mile|k|long=yes|adj=wide}} globe made of the primordial power of fire that floated over the Sea of Fire on the [[Elemental Plane of Fire]]. It was said that the blue-white flames of the Pillar gave off a heat that made the rest of the plane seem chilly in comparison.<ref name="IP" />
+
+==Worshipers==
+{{Main|Church of Kossuth}}
+[[File:Kossuth symbol.jpg|thumb|''The holy symbol of Kossuth.'']]
+The church of Kossuth was rather hierarchical and mostly impersonal. The Church's aims tended to revolve around the acquisition of land, power, and wealth. The followers and [[clerics]] were often [[lawful neutral|lawful, without regard for good or evil]].<ref name="FRCS-p244" />
+
+Many [[Red wizard]]s of Thay worshiped Kossuth<ref name="FRCS-p244" /><ref name="AUD-p16">{{Cite book/Arcana Unleashed: Deadfall|16}}</ref> and the [[Flaming Brazier]] of [[Eltabbar]] was supposedly the largest temple of Kossuth in all the Realms.<ref name="U-p96">{{Cite book/Unclean|96}}</ref>
+
+After death, bodies of worshipers were cremated.<ref name="U-p107">{{Cite book/Unclean|107}}</ref>
+
+===Orders===
+:;Priesthoods
+* [[Burning Braziers]]<ref name="U-p104">{{Cite book/Unclean|104}}</ref>
+* [[Black Flame Zealots]]<ref name="U-p108">{{Cite book/Unclean|108}}</ref>
+* [[Brothers and Sisters of the Pure Flame]]<ref name="U-p108" />
+* [[Order of the Salamander]]<ref name="U-p108" />
+:;Monastic orders
+* [[Disciples of the Phoenix]]: The good branch of the three. They rigidly ordered their members' studies and behaviors and put their focus on the purifying aspect of their deity.<ref name="FaPWEDDaD-7">{{Cite web enhancement/Deity Do's and Don'ts|7}}</ref>
+* [[Disciples of the Salamander]]: The evil branch of the three. They saw fire as necessary for the renewal aspect of their deity, though some members' view on destruction bordered on [[Talos]]'s.<ref name="FaPWEDDaD-7" />
+* [[Brothers and Sisters of the Purifying Flame]]: The neutral branch of the three. Their goal was to strike a balance between purification and destruction and acted as the go-betweens of the other two monasteries.<ref name="FaPWEDDaD-7" />
+Kossuth's monks could learn to become [[cleric]]s of the Firelord without sacrificing their potential as monks.<ref name="FaPWEDDaD-7" />
+
+===Worship in Zakhara===
+On the continent of [[Zakhara]], Kossuth was called one of the "[[Zakharan pantheon#The cold gods of the elements|cold gods of the elements]]". They were "cold" because those were seen as uncaring for human affairs and opposed to the Land of Fate's pervasive culture of [[Enlightenment]]. Only a few [[Zakharans]] were willing to worship a cold god in order to gain power.<ref>{{Cite book/Land of Fate/Adventurer's Guide to Zakhara|57}}</ref>
+
+===Temples===
+{{Main|:Category:Temples to Kossuth}}
+
+==History==
+===Early History===
+In the {{YearlinkName|-150}}, powerful [[Raumathar]]an [[wizard]]s managed to summon Kossuth from his elemental home and instructed him to destroy a besieging army of hated [[Narfell]]. This he did, but he soon turned against the wizards, incinerating their city for their arrogance. The resulting conflagration consumed much of the northern coast of the [[Alamber Sea]], and the fires of Kossuth's anger burned strong for more than a decade after his withdrawal from Toril.<ref name="FP-p36" />
+
+Kossuth appeared in the Realms once again in the {{YearlinkName|801}}, to assist some of his faithful with the destruction of a [[giant octopus|colossal octopus]].<ref name="IWD.HoW">{{Cite game/Icewind Dale: Heart of Winter}}</ref>
+
+===Modern History===
+Kossuth was credited by his faithful with limiting the disastrous [[Salamander War]] of the {{YearlinkName|1357}} in [[Thay]]. Without his influence, they say, the War would have turned into an even greater debacle.<ref name="FP-p36" />
+
+Kossuth was not among the deities sighted in [[Faerûn]] during the exile of the gods by [[Ao]] during the [[Time of Troubles]] in the {{YearlinkName|1358}}.<ref name="FP-p36" />
+
+==Appendix==
+{{stub}}
+===Background===
+Originally, [[Ed Greenwood]] adopted Kakatal, one of [[Wikipedia:Michael Moorcock|Michael Moorcock]]'s elemental gods appearing in the original ''[[Deities & Demigods 1st edition|Deities & Demigods]]'', for an elemental god of fire in his home ''Dungeons & Dragons'' campaign set in the ''Forgotten Realms''. He noted in "Down-to-earth Divinity" in [[Dragon magazine 54|''Dragon'' #54]] (October 1981) that Moorcock's elemental gods "may later be replaced in [his] universe by 'official' ''[[AD&D]]'' beings as these are published".<ref>{{Cite dragon/54/Down-to-earth divinity|54}}</ref>
+
+Kossuth proper first appeared in ''[[Manual of the Planes 1st edition|Manual of the Planes]]'' (1987),<ref>{{Cite book/Manual of the Planes 1st edition|40}}</ref> and was listed as an elemental god for the ''Forgotten Realms'' in the ''[[Forgotten Realms Campaign Set]]''<nowiki>'s</nowiki> ''Cyclopedia of the Realms''.<ref name="FRCS-p16"/> Kossuth was further described in ''[[Forgotten Realms Adventures]]'' (1990),<ref>{{Cite book/Forgotten Realms Adventures|36}}</ref> the ''[[Forgotten Realms Campaign Setting 2nd edition]]''<nowiki>'s</nowiki> ''Running the Realms'' (1993)<ref name="FRCS2e-p61"/> and then fleshed out fully in ''[[Faiths & Avatars]]'' (1996).<ref name="F&A-p88"/> Kossuth went on to be one of the major deities of the ''Forgotten Realms'' in ''[[Forgotten Realms Campaign Setting 3rd edition]]'' (2001),<ref name="FRCS-235"/> and ''[[Faiths and Pantheons]]'' (2002).<ref name="FP-p35"/>
+
+Kossuth appeared in the 4{{th}}-edition ''[[Forgotten Realms Campaign Guide]]'', now as a primordial.<ref name="FRCG4e-p79,81"/>
+
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = ''[[Icewind Dale (game)|Icewind Dale]]'';''[[Icewind Dale II]]'';''[[Sword Coast Legends]]''
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = ''[[Scrutiny on the Bounty]]''
+}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Primordial list}}
+{{Zakharan pantheon}}
+{{Deity list}}
+[[Category:Faerûnian pantheon]]
+[[Category:Primordials]]
+[[Category:Fire elementals]]
+[[Category:Greater deities]]
+[[Category:Destruction domain deities]]
+[[Category:Fire domain deities]]
+[[Category:Renewal domain deities]]
+[[Category:Suffering domain deities]]
+[[Category:Light domain deities]]
+[[Category:Wrath domain deities]]
+[[Category:True neutral deities]]
+[[Category:Zakharan pantheon]]
+[[Category:Savage gods of Zakhara]]
+[[Category:Primordials from the Elemental Chaos]]
+[[Category:Inhabitants of the Elemental Plane of Fire]]
+[[Category:Inhabitants of the Inner Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Elemental Planes]]
+[[Category:Inhabitants of the World Tree planes]]

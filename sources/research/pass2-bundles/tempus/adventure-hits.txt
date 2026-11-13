@@ -1,0 +1,2 @@
+sources/adventure-wdh.json:30879: "Must-see locations in the Sea Ward begin, of course, with the Field of Triumph, but just across the street is the no less remarkable House of Heroes-the largest temple in the city. Dedicated to Tempus, its many grand halls celebrate the city's champions of both battle and sport. The winners of ward competitions are paraded here after their victories, often carried on shoulders or passed from hand to hand over the heads of a crowd. It is a sight you shouldn't miss.",
+sources/adventure-wdh.json:30978: "Tempus",

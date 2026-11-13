@@ -1,0 +1,344 @@
+WIKI PAGE: Orcus
+
+{{Deity
+| image          = <gallery>
+Orcus AFR.jpg|5e
+4e orcus.jpg|4e
+Orcus.jpg|3e
+DeadGods_-_Orcus_-_p37.gif|2e
+Monster_manual_1e_-_Orcus_-_p17_.jpg|1e
+</gallery>
+| caption2       = Various depictions of Orcus.
+| name           = Orcus
+| titles         = Lord of the Undead<br /> Lord of Undeath<ref name="DuM149-p52">{{Cite dungeon/149/Enemies of My Enemy|52}}</ref><br /> Prince of the Undead<ref name="BW-p4">{{Cite book/The Bloodstone Wars|4}}</ref><br /> Prince of Undeath<br /> Blood Lord<br /> Lord of Specters<br /> Master of Vampires<br /> The Goat-Horned Demon<ref name="MoB-p22">{{Cite book/The Mines of Bloodstone|22}}</ref><br /> Sovereign of Thanatos<ref name="DuM149-p52" /><br /> Keeper of Everlost<ref name="DuM149-p52" /><br /> Master of the Last Word<ref name="DuM149-p52" /><br /> Mighty Orcus<ref name="DuM149-p52" /><br /> The Shadow That Was<ref name="ToM-p48">{{Cite book/Tome of Magic 3.5|48}}</ref>
+| aspects             = Tenebrous<ref name="Dead Gods-p36">{{Cite book/Dead Gods|36}}</ref><ref name="wnw">{{Cite game/Neverwinter Nights: Tyrants of the Moonsea}}</ref>
+| status              = 
+| primordial          = 
+| pantheon            = 
+| home                = [[Thanatos (layer)|Thanatos]]<ref name="DD-p23-25" /><ref name="ToB-p46">{{Cite book/The Throne of Bloodstone|46}}</ref><ref name="OHG-p180">{{Cite book/On Hallowed Ground|180}}</ref><ref group="note" name="Layers">In ''[[The Throne of Bloodstone]]'', Orcus's realm is the 333{{rd}} layer of the Abyss. In the [[Dungeons & Dragons]] sourcebook ''[[Fiendish Codex I: Hordes of the Abyss]]'' and Planescape sourcebook ''[[On Hallowed Ground]]'', his realm is the 113{{th}} layer. The 333{{rd}} was attributed to the deity [http://dragonlancenexus.com/lexicon/index.php?title=Hiddukel Hiddukel] of [[Krynn]] and called [[Broken Scale]].</ref>
+| formerhomes         = 
+| minions             = 
+| died                = 
+| formerdominion      = 
+| mortalrace          = 
+| gender              = Masculine
+| reckoning           = DR
+| basicrefs           = <ref name="BoVD-pp71">{{Cite book/Book of Vile Darkness|71}}</ref><ref name="OotA-p244-245" />
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = [[Demon lord]]
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = 
+| homeplane5e         = [[Abyss]]
+| realm5e             = [[Thanatos (layer)|Thanatos]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="OotA-p244-245">{{Cite book/Out of the Abyss|244-245}}</ref><ref name="MM5e-p52" />
+| power4e             = 
+| alignment4e         = [[Chaotic evil]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = [[Thanatos (layer)|Thanatos]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="MotM-p203-204">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|203-204}}</ref><ref name="MM4e-p206" /><ref name="Demonomicon-p80">{{Cite book/Demonomicon|80}}</ref>
+| power3e             = [[Demon lord]]
+| alignment3e         = [[Chaotic evil]]
+| symbol3e            = A black, skull-topped [[mace]]
+| homeplane3e         = [[Abyss]] 
+| realm3e             = [[Thanatos (layer)|Thanatos]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = [[Chaos domain|Chaos]], [[Death domain|Death]], [[Demonic domain|Demonic]], [[Evil domain|Evil]]
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = [[Morningstar]]
+| holy days3e         = 
+| challenge3e         = 28
+| class3e             = 
+| refs3e              = <ref name="BoVD-pp136-138">{{Cite book/Book of Vile Darkness|136-138}}</ref><ref name="FCI-p73-74">{{Cite book/Fiendish Codex I: Hordes of the Abyss|73-74}}</ref>
+| power2e             =
+| alignment2e         = 
+| symbol2e            = 
+| homeplane2e         = 
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = 
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = 
+| power1e             = [[Demon lord]]
+| alignment1e         = [[Chaotic evil]]
+| symbol1e            = A horned goat's head<ref name="MoB-p6">{{Cite book/The Mines of Bloodstone|6}}</ref><ref name="BL-p6"/>
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="MM1e-17">{{Cite book/Monster Manual 1st edition|17}}</ref><ref name="ToB-p75-77" />
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| rules               = 
+| first               = ''[[wikipedia:en:Eldritch Wizardry|Eldritch Wizardry]]''
+| based               = [[wikipedia:en:Orc|Orc]]
+| histrefs            = <ref name="DrM375-p123" />
+|challenge5e=26}}
+'''Orcus''', also known as '''Tenebrous'''<ref name="ToM-p48" /><ref name="DD-p23-25" /><ref name="DrM359.MWV-p62" /> was a [[demon lord|demon prince]] and purported [[primordial]]<ref name="MM4e-p52">{{Cite book/Monster Manual 4th edition|52}}</ref> that served as master of the [[undead]] from the depths of the [[Abyss]].<ref name="OotA-p244-245" /><ref name="Demonomicon-p8">{{Cite book/Demonomicon|8}}</ref> Returned from undeath but not technically alive, the '''Demon Lord of Undeath''' was the multiverse's staunchest advocate for stagnation, seeking to exterminate all life, to darken and desolate all worlds, until all that remained in his static reality were undead moved only by his will.<ref name="OotA-p244-245" /><ref name="FCI-p73-74" /><ref name="MM5e-p52" /><ref name="MToF-p26-29" /> The '''Blood Lord'''<ref name="OotA-p244-245" /> was believed to be one of the mightiest demon lords, one that inspired dread in the hearts of [[god]]s.<ref name="MM4e-p206">{{Cite book/Monster Manual 4th edition|206}}</ref> '''The Shadow That Was'''<ref name="DrM417.STW-p12-14" /> was among the powers of the Abyss most often worshiped as deity by the mortals of the [[Prime Material plane]] and, even more than the [[Demogorgon|Prince of Demons]] himself, was close to obtaining true divinity.<ref name="FCI-p73-74" /><ref name="LM-p18" />
+
+{{quote
+|I will be the last creature when I am done. The cosmos will then be perfect, free of the braying abominations that are all other living things. 
+|''Orcus''<ref name="MToF-p26-29">{{Cite book/Mordenkainen's Tome of Foes|26-29}}</ref>
+}}
+
+{{TOC limit|3}}
+==Description==
+[[File:Rage_of_demons_-_Orcus_-_D&D_5.jpg|thumb|right|350px|''The Prince of Undeath in all his majesty''.]]
+Orcus was the very picture of demonic, an imposing figure of vaguely [[humanoid]] form standing some {{SI|15|feet}} to {{SI|20|feet}} tall.<ref name="ToB-p75-77" /><ref name="FCI-p73-74" /> His frame was immense, a twisted fusion of corpulence, muscle and rot-bloated flesh.<ref name="FCI-p73-74" /><ref name="MM4e-p206" /><ref name="MToF-p152-153">{{Cite book/Mordenkainen's Tome of Foes|152-153}}</ref> His physique was marked by bestial features: the horned, desiccated head of a [[ram]], thick-furred legs and cloven hooves of a [[goat]],  massive, black wings of a [[bat]], a great maw filled with tusks, and a long, thick, constantly moving tail, [[poison]]-tipped and covered in spines.<ref name="MM5e-p52" /><ref name="MotM-p203-204" /><ref name="FCI-p73-74" /><ref name="MM4e-p206" />
+
+Foul and hideous, Orcus seemed to walk the line between life and undeath. His wings stirred clouds of reeking, diseased air and his body was riddled with sores, suggesting he was alive, albeit sickly, while his skull-like head, nearly bereft of flesh, and the glowing red eyes within hinted he was undead.<ref name="FCI-p73-74" /><ref name="MM4e-p206" /><ref name="MToF-p152-153" />
+
+==Personality==
+Orcus was wholly misanthropic and self-absorbed with his hatred of all things,<ref name="LM-p18" /> a nihilistic and brooding being<ref name="MM5e-p52" /> who sought to put an end to all hope.<ref name="MToF-p26-29" /> He cared for nothing save himself—not even his devotees and undead servants—and focused only on spreading the evil and agony that resided within him. Despite his all-consuming hatred towards existence itself,<ref name="LM-p18" /> Orcus was not an aimless force of chaotic destruction. Rather he was an exceedingly brilliant strategist,<ref name="ToB-p75-77" /><ref name="FCI-p73-74" /> wholly consumed with inflicting agony upon those he despised.<ref name="MM5e-p52">{{Cite book/Monster Manual 5th edition|52}}</ref> Interestingly enough, Orcus did appear to find some modicum of joy and appreciation in the misery he caused.<ref name="MM4e-p206" /><ref name="MToF-p152-153" />
+
+Several aspects of Orcus' personality were paradoxical. In spite of his close association with undeath, it was said by some that he held no true affinity for the undead. He was believed to merely tolerate his hordes of once-living minions, considering them tools to strike out at his rivals,<ref name="FCI-127-128" /> and that he even detested the mindless creatures.<ref name="LM-p18" /> Yet other scholars maintained that Orcus truly hated the living, the mere presence of most driving him into a rage,<ref name="MM4e-p206" /> that he saw their activities as crude, sense-raking noise,<ref name="MToF-p26-29" /> and that his ultimate goal was to spread undeath across the planes of the multiverse.<ref name="MotM-p203-204" /><ref name="OotA-p244-245" /> At least one theory linked these driving forces, postulating that Orcus sought to exterminate those he believed guilty of creating the very existence that he so despised.<ref name="MoP4e-p68">{{Cite book/Manual of the Planes 4th edition|68}}</ref> Only when all was dead would existence finally know true peace.<ref name="MToF-p26-29" />
+
+While undead typically did not require food for sustenance, for much of his existence, Orcus had a gluttonous hunger that could never be satiated. His servants gathered food from across the [[planes of existence]] in the ongoing futile attempt to sate his cravings. Throughout his existence he has tasted among the finest delicacies originating from myriad worlds across the multiverse.<ref name="ToB-p75-77">{{Cite book/The Throne of Bloodstone|75-77}}</ref> Only when the Blood Lord drank the blood of the living did he feel satisfaction.<ref name="MM4e-p206" />
+
+==Abilities==
+{{Quote|Praise Orcus! May he give me the power to spread death, decay, and undeath in his name!|[[Zargash]], priest of the [[League of Malevolence]].<ref name="WBW-p223">{{Cite book/The Wild Beyond the Witchlight|223}}</ref>}}
+The Prince of the Undead held dominion over the [[portfolio]] of [[undeath]], and held influence over the [[divine domain|domains]] of [[chaos domain|chaos]], [[death domain|death]], [[evil domain|evil]], [[darkness domain|darkness]],<ref name="LM-p18" /> and [[undeath domain|undeath]].<ref name="F&P-p221">{{Cite book/Faiths and Pantheons|221}}</ref>
+
+Orcus did grant limited powers to the meager mortals that slew others in his name, transforming them into mindless [[zombie]]s or [[ghoul]]s.<ref name="OotA-p244-245" /> He was said to have made a [[bonegouge assassin|unique form of undead]] from among the members of a single guild of [[assassin]]s.<ref name="Demonomicon-p106">{{Cite book/Demonomicon|106}}</ref> Orcus would also bless some demons with transformation into undeath,<ref name="MM5e-p52">{{Cite book/Monster Manual 5th edition|52}}</ref> the most revered example of which involved the creation of a [[devourer]].<ref name="MotM-p93">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|93}}</ref>
+
+===Powers===
+{{Fq
+| width  = 300px
+| source = An unknown author from the [[Prime Material Plane]].<ref name="Dead Gods-p6-9" />
+| text   = That is not dead which can eternal lie, and with strange aeons even death may die.
+}}
+Orcus could not be harmed by non-[[item enchantment|magical]] weapons, was highly resistant to the elements,<ref name="OotA-p244-245" /> nearly impervious to [[magic]],<ref name="ToB-p75-77" /> and wholly immune to any [[magic]]al or mundane [[charm]] or [[fear]].<ref name="OotA-p244-245" /> He could appear as an aspect of himself to any of his deathpriests that performed the appropriate [[ritual]].<ref name="MM4e-p208">{{Cite book/Monster Manual 4th edition|208}}</ref>
+
+The Prince of Undeath was versed in [[Dark Speech]], the language of ancient evil deities.<ref name="FCI-p73-74" /> He held the unique ability to see through the eyes and readily access the memory of any [[bodak]], the lingering remains created when one of his followers succumbed to death.<ref name="ToA-p215">{{Cite book/Tomb of Annihilation|215}}</ref><ref name="MotM-p64">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|64}}</ref>
+
+He was believed to be capable of destroying the [[phylactery]] of any lich at will, and would readily do so if they displeased him. Similarly, if the physical form and phylactery of any lich was destroyed, Orcus could return them to existence as a [[vestige]].<ref name="MM4e-p177">{{Cite book/Monster Manual 4th edition|177}}</ref>
+
+===Combat===
+While Orcus most often directed his servants to carry out his will, he was capable of fighting with a [[berserker]]-like frenzy as he sought to utterly annihilate his foes.<ref name="ToB-p75-77" /><ref name="FCI-p73-74" />
+
+Anyone that dared to enter within Orcus' lair would be subject to mental onslaught that could leave them with a form of madness. These poor souls could be struck with intense feelings of self-loathing and hopelessness, compelled to inflict to cruelty upon others, or left with the spread undeath throughout existence. By merely speaking a single, resounding word Orcus could ''[[power word, kill|instantly slay mortals]]'' that stood within his lair. He could similarly raise scores of undead within moments and conjure massive skeletal arms to instantly neutralize any threats.<ref name="OotA-p244-245" />
+
+==Possessions==
+{{Quote|The only way to corral that there demon an' git him off'n your backs once and for all is to corral that big skull stick o' his and bring it to me at my spread out [[Mercuria]] way, over in the [[Seven Heavens]], and I'll tell yuh how to get rid o' it.|[[Saint Sollars]] the Twice-Martyred, referring to the ''[[Wand of Orcus]]''.<ref name="ToB-p30">{{Cite book/The Throne of Bloodstone|30}}</ref>}}
+
+On the occasions when Orcus decided to personally engage in battle, he occasionally wielded a distinctly evil ''[[mace of disruption]]''.<ref name="ToB-p75-77" />
+
+===Wand of Orcus===
+[[File:Wand of Orcus AFC.jpg|thumb|right|300px|''The Wand of Orcus within the demon lord's grasp.'']]
+The relic most-often associated with the Prince of the Undead was the artifact known as the ''[[Wand of Orcus]]'', a skull-topped wand with the power to slay any living being.<ref name="OotA-p244-245" /> The wand believed by some to be the only means to nullify Orcus' power,<ref name="ToB-p30" /> and was highly coveted across the planes. It was occasionally left available for mortals to seize, in order to grant them the power to wreak chaos and evil across their worlds.<ref name="DMG5e-p227">{{Cite book/Dungeon Master's Guide 5th edition|227}}</ref>
+
+While the ''Wand of Orcus'' had been destroyed on several occasions,<ref name="DoF-p9" /><ref name="GHotR-144" /> it could be rebuilt by Orcus over the course of one hundred years. Despite this, the wand has reappeared throughout the planes numerous times after being destroyed, within a single century's time.<ref name="DD-p23-25" /><ref name="OA-p219" /> Orcus himself was greatly weakened during the decades when his wand was vanished from existence.<ref name="ToB-p82">{{Cite book/The Throne of Bloodstone|82}}</ref>
+
+===Other Artifacts===
+Orcus also held a powerful artifact known as the ''[[Orcusword]]'', the blade he wielded during his existence as a balor. It was later held in [[Tchian-Sumere]], Orcus's fortress on the [[Negative Energy Plane]].<ref name="DrM359.MWV-p62">{{Cite dragon/359/1d20 Villains: D&D's Most Wanted; Preferably Dead|62}}</ref>
+
+Orcus himself crafted the infamous [[evil]] [[artifact]] known as the ''[[Crown of Narfell]]'', which was used to corrupt the souls of many regents in the [[Cold Lands]]. It was eventually destroyed,<ref name="RoF-p89">{{Cite book/Races of Faerûn|89}}</ref> and reforged into the ''[[Shadow Crown of Ndu]]''.<ref name="CoV-p71">{{Cite book/Champions of Valor|71}}</ref>
+
+==Realm==
+Orcus' realm was [[Thanatos (layer)|Thanatos]],<ref name="OotA-p244-245" /><ref name="Demonomicon-p80" /> which was believed to be the [[Layers of the Abyss#Layer 333: Thanatos|333{{rd}} layer]] of the Abyss.<ref name="ToB-p46" /> It was a barren landscape dotted with shattered necropoles and hordes of undead that roamed its surface. Orcus ruled from his palace of [[Everlost]]<ref name="DMG5e-p62" /><ref name="FCI-HotA-p129">{{Cite book/Fiendish Codex I: Hordes of the Abyss|129}}</ref> in the bone-meal desert of [[Oblivion's End]].<ref name="DMG5e-p62">{{Cite book/Dungeon Master's Guide 5th edition|62}}</ref><ref name="MoP4e-p83">{{Cite book/Manual of the Planes 4th edition|83}}</ref>
+
+The Prince of the Undead previously court within the fortress city of [[Naratyr]], which sat within the [[Frozen Sea (Thanatos)|Frozen Sea]], fed by the [[River Styx]].<ref name="OotA-p244-245" /> It later became the seat of power of Orcus' one-time slayer, [[Kiaransalee]]. Her taint could still be found in Naratyr, as well within the so-called [[Forbidden Citadel]] in the city of [[Lachrymosa]] in the Final Hills.<ref name="FCI-HotA-pp130-131">{{Cite book/Fiendish Codex I: Hordes of the Abyss|130-131}}</ref><ref group="note" name="Layers" />
+
+==Activities==
+[[File:Maganus orcus.png|thumb|right|300px|''Orcus torturing the wizard [[Maganus]] deep in the Abyss.'']]
+Much of Orcus' existence was spent in an ongoing war with rival demon lords, [[Graz'zt]] and [[Demogorgon]], the Prince of Demons.<ref name="FCI-p73-74">{{Cite book/Fiendish Codex I: Hordes of the Abyss|73-74}}</ref><ref name="FCI-127-128" /><ref name="LM-p18" /><ref name="MM1e-p39">{{Cite book/Monster Manual II 1st edition|39}}</ref> The mutual hatred shared between Orcus and Demogorgon was legendary and the two battled against one another for millennia.<ref name="DrM376-p12">{{Cite dragon/376/Demonomicon of Iggwilv: Turaglas, the Ebon Maw|12}}</ref><ref name="DrM375-p123">{{Cite dragon/375/D&D Alumni}}</ref>
+
+He shifted his focus over time however, later seeking out the means to slay [[Raven Queen|a god of death]] and supplant them in divinity.<ref name="MM4e-p206" />
+
+Throughout the millennia, Orcus was believed responsible for creating the rituals and curses used to create the first of several types of undead, including ghouls,<ref name="NCS-p205" /><ref name="Uprising-p9" /> [[zovvut]]s,<ref name="MMII3e-p60">{{Cite book/Monster Manual II 3rd edition|60}}</ref> death knights,<ref name="MM4e-p50">{{Cite book/Monster Manual 4th edition|50}}</ref> and [[dream vestige]]s.<ref name="LM-p96">{{Cite book/Libris Mortis|96}}</ref>
+
+==Relationships==
+===Enemies & Allies===
+Orcus was one third of the triad of demon lords―including Graz'zt and Demogorgon―that engaged in ongoing war with one another.<ref name="CoR-p131">{{Cite book/Champions of Ruin|131}}</ref><ref name="FCI-p73-74" /><ref group="note" name="Rivals">While ''[[Champions of Ruin]]'' state [[Eltab]] was among the three demon lords in constant battle with one another, nearly every other source includes Demogorgon among the trio.</ref> He viewed Graz'zt as a self-aggrandized narcissist,<ref name="SC-p44" /> and was believed to have warred with Demogorgon for hundreds of thousands of years.<ref name="FCI-63">{{Cite book/Fiendish Codex I: Hordes of the Abyss|63}}</ref> Their conflict predated the [[Days of Thunder]] if not the formation of [[Toril]] itself.<ref name="ToB-p34">{{Cite book/The Throne of Bloodstone|34}}</ref>{{Speculation}}
+
+The Prince of the Undead developed strong enmity with the [[Raven Queen]], the goddess of death that dwelled within the [[Shadowfell]].<ref name="SGB-p8" /> Followers of the Raven Queen vehemently opposed those that venerated Orcus due to their conflicting views on undeath.<ref name="DrM397.FH-p4">{{Cite dragon/397/Faith & Heresy|4}}</ref> At one point, Orcus and his minions carried out a series of schemes in an ongoing effort to strip her of her divine powers.<ref name="SGB-p8">{{Cite book/The Shadowfell: Gloomwrought and Beyond|8}}</ref>
+
+After Kiaransalee took control of Orcus's ream of Thanatos in the mid&ndash;14{{th}} century DR, the drow goddess became obsessed with destroying all traces of Orcus.<ref name="FP-p113">{{Cite book/Faiths and Pantheons|113}}</ref> Her followers accordingly wiped out his [[Cult of the Goat's Head]] in [[Vaasa]].<ref name="DD-p25">{{Cite book/Demihuman Deities|25}}</ref>
+
+For a brief time, he forged a tenuous alliance with [[Yeenoghu]] the Lord of Savagery,<ref name="ToB-p64">{{Cite book/The Throne of Bloodstone|64}}</ref> and [[Iggwilv]], the mortal daughter of [[Baba Yaga]]. Orcus and Iggwilv became involved in an elaborate scheme to overthrow Demogorgon as Prince of Demons.<ref name="DrM359.MWV-p62" /><ref name="DuM150-p62">{{Cite dungeon/150/Prince of Demons|62}}</ref>
+
+Orcus was a patron of sorts to the [[Oerth]]ian mage [[Vecna]], and was said to have offered him the ritual by which he became the first lich.<ref name="DMG5e-p224">{{Cite book/Dungeon Master's Guide 5th edition|224}}</ref> He was even pleased with the work of Vecna's one-time follower [[Acererak]], who traveled the planes in search of new and horrific ways to slay innocents.<ref name="SC-p44">{{Cite adventurers league/Streams of Crimson|44}}</ref> Acererak even turned to the worship of Orcus for a time.<ref name="ToH4e-p4-5">{{Cite book/Tomb of Horrors (4th edition)|4-5}}</ref>
+
+===Offspring===
+Orcus sired a number of [[half-fiend]] children with women of the [[Darakh Dynasty]] of Narfell, in the centuries leading up to [[Dale Reckoning]]. Among his near-mortal sons were [[Jesthren Darakh]], born to [[Larnaeril Darakh]], as well as [[Heldakar Darakh]], [[Yannos Darakh|Yannos "the Slayer" Darakh]], [[Garthelaun Darakh|Garthelaun "the Goreclaw" Darakh]], and [[Ilithkar Darakh]]. Nearly all of their mothers said to have been sacrificed to Orcus following their births.<ref name="GHotR-81" />
+
+==Worshipers==
+{{quote
+|Bloated goat prince of undeath, master of vampires and lord of specters, Orcus, grant me your crushing might and the deadly power of your skull-headed wand!
+|The Skull King [[Quah-Nomog]]<ref name="BoVD-pp71"/>
+}}
+Worship of Orcus was spread across numerous isolated cults that operated independently of one another. They operated within the shadows of society, often congregating in locales linked to the dead, including graveyards and secluded tombs.<ref name="MM4e-p210">{{Cite book/Monster Manual 4th edition|210}}</ref>
+
+{{fq
+| text   = Through consultation of wise men, use of the mystic arts, and the craft of military intelligence, we now know that our opponent is in league with powerful demons. We suspect the Prince of the Undead, Orcus, whose name I shudder to even mention.
+| source = [[Tranth]], Baron of [[Bloodstone (barony)|Bloodstone]].<ref name="ToB-p9">{{Cite book/The Throne of Bloodstone|9}}</ref>
+| float  = 
+| width  = 
+| styles = 
+}}
+His worship often attracted malevolent [[human]]s, [[orc]]s, [[ogre]]s, [[giant]]s, and [[goblinoid]]s,<ref name="FCI-127-128" /><ref name="BL-p23">{{Cite book/The Bloodstone Lands|23}}</ref><ref name="LM-p18" /> along with at least one line of [[red dragon]]s .<ref name="ToB-p49">{{Cite book/The Throne of Bloodstone|49}}</ref> His cults also attracted twisted creatures with a morbid fascination for undeath. Notable among these followers were [[necromancer]]s<ref name="HOH-p87">{{Cite book/Heroes of Horror|87}}</ref> and others deliberately seeking the path to unlife via [[lichdom]] or [[vampirism]].<ref name="FCI-p73-74" /><ref name="MM4e-p259">{{Cite book/Monster Manual 4th edition|259}}</ref> Among the undead that dwelled within [[Palace of Orcus|Orcus' palace]] or otherwise joined his armies  were zombies, [[wight]]s,<ref name="MM5e-p300">{{Cite book/Monster Manual 5th edition|300}}</ref> [[shadow]]s, [[huecuva]]e, [[nightwalker]]s, [[sheet phantom]]s, and [[death knight]]s.<ref name="ToB-p46" /><ref name="MoP4e-p55">{{Cite book/Manual of the Planes 4th edition|55}}</ref>
+
+Leaders within the various cults of Orcus were known as Skull Lords. To attain this title, Orcus' followers were tasked with taking control of a horde of undead from the [[Plains of Hunger]] and setting them loose in an invasion upon the prime material plane. Those that failed were slain and raised as liches, doomed to dwell within Thanatos for eternity.<ref name="FCI-127-128" />
+
+===Regions===
+Orcus had cults dedicated to his worship all across [[Faerûn]], including the realms of Vaasa and [[Damara]].<ref name="RoF-p91">{{Cite book/Races of Faerûn|91}}</ref><ref name="PGtF-p15">{{Cite book/Player's Guide to Faerûn|15}}</ref> In the [[Bloodstone Lands]], Orcus' worship was coordinated by the [[Cult of the Goat's Head]],<ref name="DD-p23-25">{{Cite book/Demihuman Deities|23-25}}</ref><ref name="BL-p17">{{Cite book/The Bloodstone Lands|17}}</ref> and in the [[Neverwinter Wood]], by the [[Hunt Lords]].<ref name="SKT-p101">{{Cite book/Storm King's Thunder|101}}</ref> Despite its transformation into a realm of undeath, Orcus viewed [[Thay]] under the [[Szass Tam]] as a mere petty fiefdom.<ref name="SC-p44">{{Cite adventurers league/Streams of Crimson|44}}</ref>
+
+Temples of Orcus could be found throughout the many planes of existence,<ref name="LM-p18" /> including at least one on Toril in the [[Temple of Orcus (Deepearth)|caverns of Deepearth]].<ref name="MoB-p22-26">{{Cite book/The Mines of Bloodstone|22-26}}</ref>
+
+His influence was not limited to the Abyss and the Prime Material Plane. Many of Orcus' dark servants spread out across the [[Shadowfell]], determined to commit horrific deeds in his name.<ref name="FRCG-p69">{{Cite book/Forgotten Realms Campaign Guide|69}}</ref> In the Shadowfell, Orcus' cultists took over the dark settlements of [[Moil]],<ref name="EE-p129">{{Cite book/Exemplars of Evil|129}}</ref><ref name="BVD.DMB-p52">{{Cite book/The Book of Vile Darkness/Dungeon Master's Book|52}}</ref><ref name="MoP4e-p60">{{Cite book/Manual of the Planes 4th edition|60}}</ref> and [[Evernight]], the dark echo of [[Neverwinter]] in Faerûn.<ref name="NCS-p202">{{Cite book/Neverwinter Campaign Setting|202}}</ref> Several Shadowfell cults even banded together for a time to raise up Orcus as a new God of Death, to take the place of the [[Raven Queen]],<ref name="DR-p6">{{Cite book/Death's Reach|6}}</ref> going so far as to scour the [[Plane of Dreams]] for clues to their quest.<ref name="MoP4e-p31">{{Cite book/Manual of the Planes 4th edition|31}}</ref><ref name="MoP4e-p53">{{Cite book/Manual of the Planes 4th edition|53}}</ref>
+
+===Symbols===
+Orcus' holy symbol was described as the horned head of a [[goat]],<ref name="BL-p6">{{Cite book/The Bloodstone Lands|6}}</ref><ref name="LM-p18">{{Cite book/Libris Mortis|18}}</ref> sometimes set over a skull-topped mace.<ref name="AM-p45">{{Cite adventurers league/Assault on Maerimydra|45}}</ref> This symbol was not universally used throughout his cult however. Some cells adopted similar, but distinctly different iconography.<ref name="MM4e-p210">{{Cite book/Monster Manual 4th edition|210}}</ref>
+
+===Notable Worshipers of Orcus===
+[[File:OrcusAndDoresain.png|thumb|right|350px|''A deathpriest of Orcus (left) along with the ghoul Doresain.'']]
+* [[Banak]], high priest of Orcus in the [[Bloodstone Lands]]<ref name="BP-p29">{{Cite book/Bloodstone Pass|29}}</ref><ref name="BL-p44">{{Cite book/The Bloodstone Lands|44}}</ref>
+* [[Doresain]], Orcus' [[exarch]];<ref name="MM4e-p119">{{Cite book/Monster Manual 4th edition|119}}</ref><ref name="KG-p13">{{Cite book/Kingdom of the Ghouls|13}}</ref> an [[elf]] that feasted upon of flesh of others to become the first [[ghoul]] in existence.<ref name="MM5e-p148">{{Cite book/Monster Manual 5th edition|148}}</ref><ref name="NCS-p205">{{Cite book/Neverwinter Campaign Setting|205}}</ref><ref name="Uprising-p9">{{Cite adventurers league/Uprising|9}}</ref>
+* [[Ghur-Tha]] the Cleaver, leader of the [[Ragnor (tribe)|Ragnor]] tribe of the [[Firward Mountains]].<ref name="UE-p143">{{Cite book/Unapproachable East|143}}</ref>
+* [[Kel'zull]], the Hierophant of Annihilation.<ref name="SC-p44" />
+* [[Kyuss]], an [[elder evil]] that was believed to have once been a priest of Orcus.<ref name="MotM-p2225">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|225}}</ref>
+* [[Malagors]] the Corpse King, a priest that committed horrific deeds and was rewarded by Orcus with transformation into a demon.<ref name="SC-p44">{{Cite adventurers league/Streams of Crimson|44}}</ref>
+* [[Soneillon]], the [[succubus]] Queen of Whispers that claimed Orcus as her patron.<ref name="CoR-p137">{{Cite book/Champions of Ruin|137}}</ref>
+* [[Zargash]], a priest of Orcus and member of the [[League of Malevolence]].<ref name="WBW-p112">{{Cite book/The Wild Beyond the Witchlight|112}}</ref>
+* [[Zhengyi]], the Witch-King of Vaasa.<ref name="BL-p6" />
+
+==History==
+===Rise to Power===
+Like many of the most powerful demon lords who struggled for power in the Abyss, Orcus started his existence as a mortal on the [[Prime Material Plane|Prime Plane]]. He was apparently a wicked spellcaster of some sort, most probably a priest to some dark deity. After his death, his soul journeyed to [[Pazunia]]<ref name="DrM359.MWV-p62" /> in the Abyss and Orcus began his [[afterlife]] as a lowly [[larva]].Orcus proceeded to climb through the demonic ranks over the next several thousand years, going from [[larva]] to [[mane]], from mane to [[dretch]], from dretch to [[rutterkin]], from rutterkin to [[vrock]], from vrock to [[glabrezu]], from glabrezu to [[nalfeshnee]], and eventually in the form of a balor.<ref name="FCI-127-128">{{Cite book/Fiendish Codex I: Hordes of the Abyss|127-128}}</ref> 
+
+There existed for Orcus a different origin, stating he was one of the primordials present during the [[Dawn War]] and was older than the Abyss itself. Along with fellow primordials Baphomet and Demogorgon, Orcus was said to have brought down the then-current [[Prince of Demons]], [[Obox-ob]]. Obox-Ob had attained the shard of pure evil ventured out to the [[Astral Plane]], to gain ultimate power over the entire multiverse. While in the midst of attaining their demonic forms, the trio cast the Prince of Demons down into the point form which the Abyss first formed. They then rode along the [[Blood Rift]] and ascended to the ranks of full-fledged demon lords.<ref name="Demonomicon-p8">{{Cite book/Demonomicon|8}}</ref>
+
+However it began, Orcus became the Prince of the Undead and took dominion over Thanatos, the Belly of Death.<ref name="FCI-127-128" /> Ever hungry for more power, Orcus sought to dethrone Demogorgon as the 'Prince of Demons', a title also coveted by Graz'zt.<ref name="DrM359.MWV-p62" /><ref name="DuM150-p62" />
+
+===Gaining Worship in the Realms===
+[[File:Orcus MM 4e.jpg|thumb|left|250px|Orcus stomping about.]]
+In {{Yearlink|-1025}}, a servant of Orcus named [[Thargaun Crell]] became the first [[Nentyarch]] of [[Tharos]], the realm that later came to be known as [[Narfell]].<ref name="GHotR-81" /> Some 50 years later, ''circa'' {{YearlinkName|-970}},<ref name="RoF-p88">{{Cite book/Races of Faerûn|88}}</ref> Prince of the Undead bestowed upon Crell the ''Crown of Narfell'', a powerful [[artifact]] that would corrupt the royal line and their descendants for centuries.<ref name="CoR-p131" /> His dynasty would rule until {{Yearlink|-633}}, when the [[lich]]-king [[Belevan Crell|Belevan]] was slain by the twin sons of Graz'zt.<ref name="GHotR-81">{{Cite book/The Grand History of the Realms|81}}</ref>
+
+At some point in their history Orcus managed to capture his long-time foe Baphomet, and imprisoned him within the dungeons of his lair in Thanatos.<ref name="ToB-p40">{{Cite book/The Throne of Bloodstone|40}}</ref>
+
+Orcus became the patron of the [[Red Wizards of Thay|Red Wizard]] [[Zhengyi]] in the 10{{th}} [[DR]], aiding him in his quest to become a [[lich]].<ref name="ToB-p20">{{Cite book/The Throne of Bloodstone|20}}</ref> Priests of Orcus supported Zhengyi in the {{YearlinkName|1347}}, when the lich created the [[Castle Perilous]] and gained control over many undead creatures. Zhengyi attacked [[Damara]] the [[1348 DR|following year]] and finally brought it under his control after [[1357 DR|nearly a decade]] of conflict.<ref name="BL-p4-6">{{Cite book/The Bloodstone Lands|4-6}}</ref> 
+
+In the {{YearlinkName|1358}}, the [[duergar]] of [[Deepearth]] attempted to summon an avatar of Orcus to the Realms.<ref name="MB-p42">{{Cite book/The Mines of Bloodstone|42}}</ref> They were thwarted by the future king of [[Damara]] [[Gareth Dragonsbane]] and his company of adventurers.<ref name="BL-p4-6" /> Following their victory, the adventurers defeated the Witch-King Zhegyi and banished the Lord of Undeath's influence over the region by stealing the ''Wand of Orcus''. They traveled to Orcus' domain of Thanatos,<ref name="ToB-p30-45">{{Cite book/The Throne of Bloodstone|30-45}}</ref> stole the wand away to the Astral Plane,<ref name="ToB-p75-77" /> and destroyed it upon an altar of the dragon goddess [[Tiamat]],<ref name="DoF-p9">{{Cite book/Dragons of Faerûn|9}}</ref><ref name="GHotR-144">{{Cite book/The Grand History of the Realms|144}}</ref> With Orcus' wand destroyed, the Witch-King was defeated. Castle Perilous and his undead army disintegrated.<ref name="BL-p6">{{Cite book/The Bloodstone Lands|6}}</ref>
+
+===Deaths & Rebirths===
+{{Quote|I am close to my goal and godhood is within my grasp. I will not be hindered by the likes of you. Not ever again!|Orcus, following two consecutive deaths and rebirths.<ref name="PoD-p62-63">{{Cite book/Prince of Undeath|62-63}}</ref>}}
+By this time in his existence, Orcus achieved some form of actual divinity.<ref name="DrM359.MWV-p62" /> He also however had grown indolent and no longer concerned himself with the eternal conflict between himself, Demogorgon and Graz'zt.<ref name="FCI-p73-74" /><ref name="DrM417.STW-p12-14" /> His realm became a hushed desolation of idle undeath, considered a humorous oddity among [[planewalker]]s of the multiverse. Orcus' sloth and carelessness made him vulnerable within his Abyssal palace, and he was slain by the [[drow]] [[demi-goddess]] [[Kiaransalee]].<ref name="Dead Gods-p6-9">{{Cite book/Dead Gods|6-9}}</ref><ref name="PGtF-p87">{{Cite book/Player's Guide to Faerûn|187}}</ref><ref name="CSQ-p5">{{Cite book/City of the Spider Queen|5}}</ref> She then took over rulership of Orcus' realm of Thanatos in the Abyss and reshaped it in her own image. Despite its apparent recent destruction,<ref name="DoF-p9" /><ref name="GHotR-144" /> Kiaransalee decreed that the ''Wand of Orcus'' be hidden away in [[Pandemonium]] and Orcus' name be erased from all recorded existence.<ref name="DD-p23-25" /><ref name="Dead Gods-p6-9" />
+
+[[File:Tenebrous 4e.jpg|thumb|right|300px|''The Prince of Undeath during his existence as Tenebrous''.]]
+Despite the drow demi-goddess' efforts, Orcus was restored as a burst of [[negative energy]] named Tenebrous<ref name="ToM-p48" /><ref name="DD-p23-25" /> and struck out to reclaim power in opportune moments.<ref name="FCI-p73-74" /> Upon his return, Tenebrous discovered the [[Last Word]], one of the [[words of power]].<ref name="FCI-127-128" /> This utterance so powerful that it could destroy deities, including the being that uttered it, unless they were themselves a true deity. Tenebrous sought out the lost ''Wand of Orcus'' to attain this divinity and restore himself to power.<ref name="Dead Gods-p6-9" />
+
+In his quest for the ''Wand of Orcus'', Tenebrous manipulated one of the [[Great Modron March]]es to gain access to the planes of the [[Great Wheel]]. He outright killed several gods, including [[Primus]], god of the [[modron]]s,<ref name="DrM414.EM-p7">{{Cite dragon/414/Ecology of the Modron|7}}</ref> and [[Maanzecorian]].<ref name="Dead Gods-p36" /><ref name="DDGU-p22">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|22}}</ref> Unfulfilled with his divine power, Tenebrous sought to reincarnate himself as Orcus the divine.<ref name="ToM-p48" /> His efforts were stymied by a group of adventurers from the Prime and the entity once known as Orcus was destroyed by the power of the Last Word.<ref name="MP3e-p103" /><ref name="DrM417.STW-p12-14">{{Cite dragon/417/History Check: The Shadow that Was|12-14}}</ref> The ''Wand of Orcus'' however manifested into existence once more.<ref name="MP3e-p103">{{Cite book/Manual of the Planes 3rd edition|103}}</ref>
+
+However, Orcus was resurrected by [[Quah-Nomag]], one of his foremost high priests and thralls, in a blasphemous ritual carried out in the Astral Plane.<ref name="MP3e-p103" /><ref name="FCI-HotA-p131">{{Cite book/Fiendish Codex I: Hordes of the Abyss|131}}</ref> Orcus then reclaimed his name, his kingdom of Thanatos, and proclaimed himself Prince of the Undead once again.<ref name="FCI-p73-74" /><ref name="DrM417.STW-p12-14" /><ref name="PGtF-p149">{{Cite book/Player's Guide to Faerûn|149}}</ref> After his second death and resurrection, Orcus retained his status as a demon lord and was no longer content with remaining in the palace within his Realm. He immediately sought to claim the realms of his two most hated rivals and dispatched his hordes of undead and demons to claim their powers.<ref name="FCI-p73-74" /><ref name="FCI-127-128" />
+
+The lost divinity of Tenebrous existed as a wandering essence of the planes, a vestige that could be called upon by [[warlock]]s.<ref name="ToM-p48" /><ref name="GEP-p47">{{Cite book/A Guide to the Ethereal Plane|47}}</ref> Orcus came to fear the possibility that if this vestige were restored to power, the personality of Tenebrous might subsume him, thus when the activities of a [[githyanki]] rebel known as [[Kastya Zurith-Movya]] threatened to create a conduit for Tenebrous to revive, Orcus forged a pact with the Lich-Queen [[Vlaakith CLVII]] to oppose him.<ref name="EE-p130">{{Cite book/Exemplars of Evil|130}}</ref>
+
+At some point after his restoration as a demon lord, Orcus orchestrated a complicated plot to steal power from the [[Heart of the Abyss]] and used it to attack the Raven Queen at her palace in the Shadowfell.<ref name="PoD-p54-58">{{Cite book/Prince of Undeath|54-58}}</ref> He was thwarted once again by a band of intrepid adventurers, and unsuccessful in claiming the goddess' divinity.<ref name="PoD-p62-63" />
+
+===Plots on Toril===
+In the {{YearlinkName|1373}}, the [[Moonsea]] region was plunged into chaos as the mysterious [[Order of the Crippled Fang]] rose to power under leadership of [[Archmage]] [[Maganus]]. The wizard harbored a grudge against the [[Zhentarim]] and against [[Fzoul Chembryl]], the father the organization who was to blame for the deaths of Maganus' parents. He developed a plan to destroy Zhentil Keep and spent a decade putting the events into motion. This plan resulted in the Archmage's trading his soul in exchange for summoning Orcus to the [[Prime Material plane]].<ref name="nwnt" /> 
+
+The Order of the Crippled Fang crisis culminated in a full-blown demon attack on Zhentil Keep led by Orcus, his lieutenants Quah-Nomag the Skull-King, [[vampire lord]] [[Kauvra]], and lich [[Harthoon]]. While a pirate blockade led by a mysteriously returned [[Avagard]], a legendary pirate and enemy of Zhentil Keep (in reality, an agent of the [[Unseen]]). The conflict cost many lives of the city's defenders and citizens as well as many structures destroyed or damaged. Eventually, the battle culminated in a battle between Maganus and Fzoul Chembryl, while the [[Hero of Daggerford]], ''[[Beirmoura]]'', [[Lyressa]], and [[Sharalyn Lockleaf]] stood against the demon lord. When the dust settled, the demon hordes were sent back to the [[Abyss]] alongside their master, while Maganus faced Zhentil Keep's justice, a very slow and painful death.<ref name="nwnt">{{Cite game/Neverwinter Nights: Tyrants of the Moonsea}}</ref>
+
+[[File:OrcusMindflayers.jpg|thumb|right|400px|Orcus using his power to bring back [[Cyrog (elder brain)|Cyrog]]]]
+In the late 15{{th}} century [[DR]], Orcus found himself summoned to the [[Underdark]] of Faerûn along with other demon lords. There he used his necromantic powers to raise and take control over a dead [[elder brain]] named [[Cyrog (elder brain)|Cyrog]].<ref name="OA-p158">{{Cite book/Out of the Abyss|158}}</ref> A short time later, Orcus was cast back down to the Abyss by the [[Prince of Demons]] Demogorgon. The ''Wand of Orcus'' was once again left in the Realms to corrupt some mortal foolish enough to claim it for themselves.<ref name="OA-p219">{{Cite book/Out of the Abyss|219}}</ref>
+
+When the [[death curse]] afflicted Toril some years later, and fewer souls were sent down to the River Styx, Orcus and the other demon lords of the Abyss took immediate notice. Graz'zt managed to waylay both Orcus and even Demogorgon himself, by the Prince of the Undead outmaneuvered his rivals in the end.<ref name="SC-p45">{{Cite adventurers league/Streams of Crimson|45}}</ref> Orcus managed to open a ''[[portal]]'' within the land of [[Chult]], so that his minions could recover the source of the death curse, the artifact known as the ''[[Soulmonger]]''.<ref name="SC-p3">{{Cite adventurers league/Streams of Crimson|3}}</ref>
+
+===Rumors & Legends===
+While many mortals worshiped Orcus as a god, he was not capable of granting them powers as a true deity. His followers did receive [[cleric]]al powers albeit from some unknown source. Some believed these powers originated from the [[Negative Energy plane]] itself.<ref name="LM-p18" />
+
+It was speculated that Orcus was responsible for informing mortals of the secret means by which Eltab could be bound to the Prime Material Plane.<ref name="CoR-p131" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+::''[[The Mines of Bloodstone]]'' • ''[[The Throne of Bloodstone]]'' • ''[[The Great Modron March]]'' • ''[[Dead Gods]]'' • ''[[Prince of Undeath]]'' • ''[[Out of the Abyss]]''
+::{{refonly}}
+::<small>''[[Bloodstone Pass (adventure)|Bloodstone Pass]]'' • ''[[The Bloodstone Wars]]'' • ''[[City of the Spider Queen]]'' • ''[[Tomb of Horrors (4th edition)]]'' • ''[[Storm King's Thunder]]'' • ''[[The Wild Beyond the Witchlight]] • [[Dungeons & Dragons Starter Set (2022)/Dragons of Stormwreck Isle|Dragons of Stormwreck Isle]]''</small>
+:;Video Games
+::''[[Idle Champions of the Forgotten Realms]]'' • ''[[Neverwinter Nights: Tyrants of the Moonsea]]'' • {{NWapp|ME}}
+:;Gamebooks
+::''[[Knight of the Living Dead]]''
+:;Card Games
+::{{MTGapp|AFR}}
+:;Miniatures
+::''[[Dungeons & Dragons Miniatures]]'' • ''[[Icons of the Realms]]''
+:;Organized Play & Licensed Adventures
+::{{Refonly}}
+::<small>[[Adventurers League/Rage of Demons|Rage of Demons]] (''[[Assault on Maerimydra]]'') • [[Adventurers League/Tomb of Annihilation|Tomb of Annihilation]] (''[[Streams of Crimson]]'') • [[Adventurers League/Dreams of the Red Wizards|Dreams of the Red Wizards]] (''[[Uprising]]'')</small>
+
+===Further Reading===
+* {{Cite dragon/364/Ashen Covenant}}
+* {{Cite dragon/388/D&D Alumni}}
+===Gallery===
+<gallery widths="300px">
+Big orcus.png|''Orcus, after being summoned to the [[Prime Material plane]] by [[Maganus]].''
+Gromph Baenre and Orcus.png|''[[Gromph Baenre]], the [[Archmage]] of [[Menzoberranzan]] and Orcus, summoned by him.''
+Orcus TotM.png|''Orcus grinning happily. Or maliciously.''
+</gallery>
+===References===
+{{refs|2}}
+[[Category:Inhabitants of masculine gender]]
+[[Category:Humans]]
+[[Category:Larvae]]
+[[Category:Manes]]
+[[Category:Dretches]]
+[[Category:Rutterkin]]
+[[Category:Vrocks]]
+[[Category:Glabrezus]]
+[[Category:Nalfeshnee]]
+[[Category:Balors]]
+[[Category:Tanar'ri]]
+[[Category:Demon lords]]
+[[Category:Primordials]]
+[[Category:Deities]]
+[[Category:Inhabitants of Everlost]]
+[[Category:Inhabitants of Oblivion's End]]
+[[Category:Inhabitants of Naratyr]]
+[[Category:Inhabitants of the Frozen Sea (Thanatos]]
+[[Category:Inhabitants of Thanatos]]
+[[Category:Inhabitants of Pazunia]]
+[[Category:Inhabitants of the Prime Material Plane]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Lower Planes]]
+[[Category:Inhabitants of the Abyss]]
+[[Category:Inhabitants of chaotic evil alignment]]

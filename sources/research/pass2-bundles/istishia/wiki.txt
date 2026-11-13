@@ -1,0 +1,181 @@
+WIKI PAGE: Istishia
+
+{{Deity
+| image               = Istishia.jpg
+| caption             = 
+| name                = Istishia
+| title               = The Water Lord<ref name="FaP-p98"/><br />King of the Water Elementals<ref name="FaP-p98"/><br />God-King of Undines<ref name="FRCS2e-p61">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|61}}</ref>
+| adjective           = Istishian<ref name="F&A-p81">{{Cite book/Faiths & Avatars|81}}</ref>
+| aspects             = Ri'dea'shia<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| primordial          = yes
+| pantheon            = [[Faerûnian pantheon]]<ref name="SCAG5e-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref>
+| race                = 
+| gender              = Masculine
+| power5e             = [[Deity]]
+| alignment5e         = [[Neutral]]
+| symbol5e            = Wave
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = [[Water]]
+| domains5e           = [[Tempest domain|Tempest]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Destructive wrath]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG5e-p21,125">{{Cite book/Sword Coast Adventurer's Guide|21,125}}</ref><ref name="PHB5e-p62">{{Cite book/Player's Handbook 5th edition|62}}</ref>
+| power4e             = [[Primordial]]
+| alignment4e         = [[Unaligned]]
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = [[Cresting Spires]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = [[Water]]
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p81">{{Cite book/Forgotten Realms Campaign Guide|79, 81}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[True neutral|Neutral]]
+| symbol3e            = Cresting wave
+| homeplane3e         = [[Elemental Plane of Water]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = [[Destruction domain|Destruction]], [[Ocean domain|Ocean]], [[Storm domain|Storm]], [[Travel domain|Travel]], [[Water domain|Water]]
+| worshipers3e        = [[Bards]], elemental archons of water, sailors, travelers
+| cleric alignments3e = {{alignment grid|off|on|off|on|on|on|off|on|off}}
+| favored weapon3e    = A wave ([[Warhammer]])
+| holy days3e         = None known
+| class3e             = 
+| refs3e              = <ref name="FaP-p98"/><ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[True neutral|Neutral]]
+| symbol2e            = 
+| homeplane2e         = [[Elemental Plane of Water]]
+| realm2e             = [[Sea of Timelessness]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = 
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = <ref group="note">Also a 30 HD [[water elemental]].</ref>{{Class table|edition=2e|[[Cleric]]|30|[[Wizard]]|30}}
+| refs2e              = <ref name="F&A-p78">{{Cite book/Faiths & Avatars|78}}</ref>
+| power1e             = [[Lesser power]]
+| alignment1e         = [[Neutral]]
+| symbol1e            = 
+| homeplane1e         = [[Elemental Plane of Water]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = [[Water]]
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS-p16">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|16}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+}}
+'''Istishia''' ({{Pronounce|is|TISH|ee|ah|refs=<ref name="FaP-p98">{{Cite book/Faiths and Pantheons|98}}</ref>}}) was the [[true neutral|neutral]] [[primordial]] deity of [[elemental water]] and purification.<ref>{{Cite book/Forgotten Realms Campaign Guide|79, 81}}</ref> While other powers governed oceans, pools, streams, storms, or simply those that had business with the water, Istishia was far more abstract. '''The Water Lord''' was mutable and dynamic, representing constant change with an essential constant at its core, the god not of any specific body or state of water, but the water itself.<ref name="F&A-p78" />
+
+==Description==
+Istishia was depicted in a wide variety of forms ranging from a drop of rain or ocean wave to a [[water weird]] or gigantic [[water elemental]]. When he manifested, it was as a {{SIrange|40|60|ft|long=yes}} tall, {{SIrange|20|30|ft|long=yes}} thick, column of water. This form maneuvered effortlessly over or through any obstacles in its path, its movements sounding like the surf pounding on the shore, and was known to divide into several parts in an effort by the Water Lord to confuse his enemies. When he spoke, his voice was at once the sound of rushing water, a babbling brook, and a gentle rain.<ref name="F&A-p78" />
+
+==Personality==
+[[File:Istishia symbol.jpg|thumb|''The [[holy symbol]] of the Water Lord.'']]
+Istishia was a slippery, dispassionate power whose reasons and logic were incomprehensible to most. He provided an atmosphere for life and provided a vital resource, yet would not grant the life itself and cared not how his gifts were used. He was relatively aloof towards his own followers, ignoring and favoring them seemingly on a whim, so alien, uncaring, and utterly random that his unpredictability was itself predictable.<ref name="F&A-p78" />
+
+==Divine Realm==
+Though Istishia did not have a court in the conventional sense,<ref>{{Cite book/Planescape Campaign Setting/A DM Guide to the Planes|32}}</ref> and despite his followers belief that he encompassed the whole [[Elemental Plane of Water]],<ref name="TIP-55" /> he did maintain a distinct [[divine realm]] on that plane within the [[Great Wheel cosmology]] called [[Sea of Timelessness]].<ref name="F&A-p78" />
+
+==Relationships==
+Istishia had ties to deities with a relation to water, but no strong relationships. These included the likes of like [[Deep Sashelas]], [[Eadro]], [[Eldath]], [[Persana]], [[Shekinester]], [[Surminare]], [[Trishina]], [[Umberlee]], [[Valkur]], and the [[Water Lion]].<ref name="F&A-p78" /><ref name="TIP-55">{{Cite book/The Inner Planes|55-56}}</ref> Of these, he worked loosely with Sashelas, Trishina, and Eldath to maintain the life cycles of the sea.<ref name="SoFS-p58">{{Cite book/Sea of Fallen Stars|58}}</ref> Conversely, he had no interest in Umberlee's storms or Valkur's sailors.<ref name="FRCG-p81" />
+
+Istishia opposed [[Kossuth]] in every way. He sat back and watched the struggle of the archomentals of water, Ben-Hadar and Olhydra; presumably he would intervene if one would achieve a real chance to get control of elemental water.<ref name="TIP-55" />
+
+==Worshipers==
+[[File:Priest of Istishia.png|thumb|''A pompous priest of Istishia in ceremonial garb.''|478x478px]]
+Istishia was worshiped by sailors, pirates, water Elementals, water genasi, some [[Aquatic elf|aquatic elves]],<ref>{{Cite book/Nightwatch in the Living City|9}}</ref> and others who felt a bond with the ocean's destructive power.
+
+===Centers of Worship===
+[[Calimshan]] had a number of important shrines and temples to Istishia. The city of [[Keltar]] had a shrine known as the [[Steps of Istishia]] that was built thousands of years before the 14{{th}} century [[DR]].<ref name="EotSS-p109">{{Cite book/Empires of the Shining Sea|109}}</ref> The city of [[Calimport]] had the massive, seven-story [[Palace of the Cresting Wave]].<ref name="Calimport-p63">{{Cite book/Calimport|63}}</ref> 
+
+===Worship in Zakhara===
+On the continent of [[Zakhara]], Istishia was called one of the [[Zakharan pantheon#The cold gods of the elements|cold gods of the elements]]. As those were seen as uncaring for human affairs, they were considered opposed to the Land of Fate's pervasive culture of [[Enlightenment]]. Few Zakharans were willing to worship a cold god in order to gain power.<ref>{{Cite book/Land of Fate/Adventurer's Guide to Zakhara|57}}</ref>
+
+==History==
+{{sectstub}}
+
+==Temples==
+''Main article: [[:Category:Temples to Istishia]]''
+
+==Appendix==
+===Publication History ===
+;Advanced Dungeons & Dragons 1st edition (1977–1988)
+[[Ed Greenwood]] initially used '''Straasha''', one of [[Michael Moorcock|Moorcock]]'s Elemental gods as found in the original ''[[Deities & Demigods 1st edition|Deities &amp; Demigods]]'', as the elemental lord of water for his home ''Dungeons & Dragons'' campaign set in the [[Forgotten Realms]]. (In fact, Straasha still appears as an apparent misprint in the ''Forgotten Realms Campaign Set's'' "Cyclopedia of the Realms" booklet (1987) on p. 18.) As Greenwood indicated in his article "Down-to-earth Divinity" in ''[[Dragon (magazine)|Dragon]]'' #54 (October 1981), Moorcock's elemental gods "may later be replaced in [his] universe by 'official' ''[[AD&D]]'' beings as these are published".<ref name="Dragon 54">[[Ed Greenwood|Greenwood, Ed]]. "Down to Earth Divinity." ''[[Dragon (magazine)|Dragon]]'' #54 (TSR, 1981)</ref> Istishia first appeared in the original ''[[Manual of the Planes 1st edition|Manual of the Planes]]'' (1987),<ref>{{Cite book/Manual of the Planes 1st edition}}</ref> and was featured as one of the elemental lords for the Forgotten Realms in the ''Forgotten Realms Campaign Set's'' "Cyclopedia of the Realms" booklet (1987).<ref>{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms}}</ref>
+
+;Advanced Dungeons & Dragons 2nd edition (1989–1999)
+Istishia was described in the hardback ''[[Forgotten Realms Adventures]]'' (1990),<ref>{{Cite book/Forgotten Realms Adventures}}</ref> the ''Forgotten Realms Campaign Setting'' (1993) in the "Running the Realms" booklet,<ref>{{Cite book/Forgotten Realms Campaign Setting 2nd edition}}</ref> and ''[[Faiths & Avatars]]'' (1996).<ref>{{Cite book/Faiths & Avatars}}</ref>
+
+;Dungeons & Dragons 3rd edition (2000–2007)
+Istishia appears as one of the major deities of the Forgotten Realms setting again, in ''Forgotten Realms Campaign Setting'' (2001),<ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition}}</ref> and is further detailed in ''[[Faiths and Pantheons]]'' (2002).<ref>{{Cite book/Faiths and Pantheons}}</ref>
+
+;Dungeons & Dragons 4th edition (2008–2013)
+Istishia appears in the fourth edition as a primordial.<ref name="Dungeons 2008">{{Cite book/Forgotten Realms Campaign Guide}}</ref>
+
+===Notes===
+{{notes}}
+===Appearances===
+:;Video Games
+::{{refonly}}
+::<small>''[[Icewind Dale (game)|Icewind Dale]]''</small>
+===Further Reading===
+*{{Cite book/Faiths and Pantheons|98}}
+*{{Cite book/Forgotten Realms Campaign Guide|79, 81}}
+
+===References===
+{{Refs}}
+[[FR:Istishia]]
+===Connections===
+{{Faerûnian pantheon}}
+{{Primordial list}}
+{{Zakharan pantheon}}
+[[Category:Human deities]]
+[[Category:True neutral deities]]
+[[Category:Primordials from the Elemental Chaos]]
+[[Category:True neutral primordials]]
+[[Category:Destruction domain primordials]]
+[[Category:Ocean domain primordials]]
+[[Category:Storm domain primordials]]
+[[Category:Travel domain primordials]]
+[[Category:Water domain primordials]]
+[[Category:Greater deities]]
+[[Category:Primordials]]
+[[Category:Water elementals]]
+[[Category:Zakharan pantheon]]
+[[Category:Savage gods of Zakhara]]
+[[Category:Inhabitants of Cresting Spires]]
+[[Category:Inhabitants of the Elemental Chaos]]
+[[Category:Inhabitants]]
+[[Category:Tempest domain deities]]
+[[Category:Inhabitants of the Elemental Plane of Water]]
+[[Category:Inhabitants of the Inner Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Elemental Planes]]
+[[Category:Inhabitants of the World Tree planes]]

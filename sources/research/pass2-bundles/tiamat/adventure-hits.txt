@@ -1,0 +1,4 @@
+sources/adventure-wdh.json:3834: "Enclosed are tickets for the entire party to {@i The Fall of Tiamat}, an opera sung in Giant describing the evil dragon queen's defeat at the Well of Dragons.",
+sources/adventure-wdmm.json:45990: "name": "12b. Tiamat Shrine",
+sources/adventure-wdmm.json:45999: "{@b Carving}. Carved into the floor is a stylized, 15-foot-diameter disk-shaped engraving of Tiamat, her five chromatic dragon heads spewing their breath weapons."
+sources/adventure-wdmm.json:46002: "One tapestry depicts Tiamat combating twelve storm giants. The other shows Tiamat battling a bearded and bloodied old man in wizard robes with seven golden canaries circling his head. A character who succeeds on a {@dc 15} Intelligence ({@skill Religion}) check recognizes the old man as a representation of Bahamut, the god of good dragons, in human form, and the seven canaries as his polymorphed gold dragon advisors.",

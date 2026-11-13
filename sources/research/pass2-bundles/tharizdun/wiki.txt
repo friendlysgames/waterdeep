@@ -1,0 +1,201 @@
+WIKI PAGE: Tharizdun
+
+{{Two other uses|the deity called the Elder Elemental Eye|the adventure module|The Elder Elemental Eye|the Elder Eye and Elder Elemental God|Ghaunadaur}}
+{{Deity
+| image               = <gallery>
+Image:Pelor v. Tharizdun.png|5e
+Image:Tharizdun.jpg|3e
+</gallery>
+| caption2            = ''Various depictions of Tharizdun, the Chained God.''
+| name                = Tharizdun
+| title               = The Chained God<ref name="DMG-163">{{Cite book/Dungeon Master's Guide 4th edition|163}}</ref><ref name="MToF-p237">{{Cite book/Mordenkainen's Tome of Foes|237}}</ref><ref name="MPMotM-p226">{{Cite book/Mordenkainen Presents: Monsters of the Multiverse|226}}</ref><ref name="PHB5eR-p162">{{Cite book/Player's Handbook 5th edition (revised)|162}}</ref><ref name="DMG5eR-pp356,362">{{Cite book/Dungeon Master's Guide 5th edition (revised)|356,362}}</ref><br/>The Elder Elemental Eye<ref name="DMG-163"/><ref name="MToF-p237" /><br/>The Eater of Worlds<ref name="DMG5eR-pp148-149">{{Cite book/Dungeon Master's Guide 5th edition (revised)|148-149}}</ref>
+| aspects             = 
+| status              = 
+| primordial          = 
+| pantheon            = [[:Category:Oerthly pantheon|Oerthly pantheon]]
+| home                = 
+| formerhomes         = 
+| minions             = 
+| died                = 
+| race                =
+| gender              = Masculine<ref name="DMG5eR-p362">{{Cite book/Dungeon Master's Guide 5th edition (revised)|362}}</ref>
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Lesser deity]]<br>[[Elder evil]]
+| alignment5eR        = 
+| symbol5eR           = Spiral rune
+| homeplane5eR        = Imprisoned in a [[demiplane]]
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = 
+| domains5eR          = 
+| worshipers5eR       = Nihilistic cultists
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="DMG5eR-pp148,149,362">{{Cite book/Dungeon Master's Guide 5th edition (revised)|148,149,362}}</ref>
+| power5e             = [[Deity]]
+| alignment5e         = [[Chaotic evil]]
+| symbol5e            = Dark spiral or inverted ziggurat
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Eternal darkness
+| domains5e           = [[Trickery domain|Trickery]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p63,295">{{Cite book/Player's Handbook 5th edition|63,295}}</ref>
+| power4e             = 
+| alignment4e         = [[Chaotic evil]]
+| symbol4e            = 
+| dominion4e          = [[Abyss]]
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Annihilation, madness
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="DMG-162">{{Cite book/Dungeon Master's Guide 4th edition|162}}</ref><ref name="Demonomicon-8">{{Cite book/Demonomicon|8}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Neutral evil]]
+| symbol3e            = Dark Spiral
+| homeplane3e         = None (sealed in a prison plane)
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Darkness, elemental power, entropy, insanity, ruin, vengeance
+| domains3e           = [[Air domain|Air]], [[Avarice domain|Avarice]], [[Chaos domain|Chaos]], [[Destruction domain|Destruction]], [[Earth domain|Earth]], [[Envy domain|Envy]], [[Evil domain|Evil]], [[Fire domain|Fire]], [[Force domain|Force]], [[Madness domain|Madness]], [[Water domain|Water]]
+| worshipers3e        = Fanatic nihilists, evil elemental beings
+| cleric alignments3e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| favored weapon3e    = Curved dagger
+| holy days3e         = 
+| class3e             = {{Class table|edition=3e|[[Cleric]]|20|[[Wizard]]|20}}
+| refs3e              = <ref name="CD-121">{{Cite book/Complete Divine|121}}</ref><ref name="D323-63">{{Cite dragon/323/Seven Deadly Domains|63}}</ref><ref name="D294-31">{{Cite dragon/294/Beings of POWER: Four Gods of Greyhawk|31}}</ref><ref name="MMIV-p7">{{Cite book/Monster Manual IV|7}}</ref>
+| power2e             = [[Intermediate deity]]
+| alignment2e         = [[Neutral evil]]
+| symbol2e            = 
+| homeplane2e         = Unknown [[demiplane]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Dark, decay, insanity
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = {{alignment grid|off|off|off|off|off|off|on|on|on}}
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="OHG2e-p180">{{Cite book/On Hallowed Ground|180}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+}}
+'''Tharizdun''' ({{Pronounce|thar|IZ|dun|refs=<ref name="D93-APG-p30">{{Cite dragon/93/Ay pronunseeAYshun gyd|30}}</ref>}}), also known as '''The Chained God''' and '''The Elder Elemental Eye''',<ref name="DMG-163"/> was a long-forgotten interloper god originating from [[Oerth]] who sought to destroy all that is. During the [[Dawn War]], he created the [[Abyss]], an act for which he was imprisoned by the gods. His followers hoped to set him free.<ref name="Demonomicon-8" />
+
+{{quote
+|Light must be snuffed, perfection decayed, order dissolved, and minds fragmented.
+|An inscription in one of Tharizdun's black pyramids.<ref name="D294-31" />}}
+
+==Description==
+Tharizdun appeared as an amorphous, roiling pitch-blackness.<ref name="D294-31" />
+
+==Personality==
+Tharizdun was not simply [[neutral evil]]; his evil transcended [[law]] and [[chaos]], reflecting a primal nature so ancient it went back to the early days of the [[Great Wheel cosmology]].<ref name="D359">{{Cite dragon/359/1d20 Villains: D&D's Most Wanted; Preferably Dead|59}}</ref>
+
+==Dogma==
+{{Fq
+| text = Dread Tharizdun, power of the Elder Elemental Eye and master of all destructive forces, I am the Champion of Elemental Evil and am ready to carry out your wishes.
+| source = Rites of the [[Cult of Elemental Evil]]<ref name="MM5eR-p84">{{Cite book/Monster Manual 5th edition (revised)|84}}</ref>
+}}
+Tharizdun's exact dogma was a mystery, as the ages he was imprisoned in the Abyss along with his own growing insanity left him unable to communicate in a meaningful manner. Even when he appeared to his followers, he only spoke to them in the form of a shrieking babble that was impossible for mortals to comprehend. While his true commands were unknown, his cults taught that his power must be channeled to help him break free of his bonds, that his lost relics and shrines were to be found, and that they should pursue the end of the world in anticipation of their mad god's return.<ref name="DMG-163" />
+
+==Worshipers==
+Tharizdun was one of the evil deities within the [[Oerthly pantheon|Oerthly]], [[Dawn War pantheon|Dawn War]],<ref>{{Cite book/Dungeon Master's Guide 5th edition|10-11}}</ref><ref name="DMG4e-p198">{{Cite book/Dungeon Master's Guide 4th edition|198}}</ref> and [[w:c:criticalrole:Deity|Exandrian pantheons]].<ref name="EGW-p24">{{Cite book/Explorer's Guide to Wildemount|24}}</ref> He was worshiped only by mad people.<ref name="DMG4e-p198"/>
+
+==History==
+===Ancient History===
+[[File:Tharizdun 3e.png|right|300px|thumb|Tharizdun's symbol]]
+In the time when the [[multiverse]] was young, Tharizdun was a power hungry deity who was not happy with the idea of sharing the multiverse with the other gods, and for a long time he searched for something that would give him an edge against them.<ref name="MM4e-p52>{{Cite book/Monster Manual 4th edition|52}}</ref> In those times, he joined his fellow Oerthian deity [[Pelor]] and a [[Nerath]]ian deity, [[Ioun (deity)|Ioun]], who were also interested to discover the secrets of the multiverse. They eventually found the [[Living Gate]], that separated the [[Far Realm]] from the [[Astral Sea]]. The three gods peered through it, learning terrible secrets that changed them forever, among them the weapon he was searching for.<ref name="PHB34e-p4">{{Cite book/Player's Handbook 3|4}}</ref><ref name="TGoM">{{Cite book/The Gates of Madness}}</ref><ref name="PP-p95">{{Cite book/Psionic Power|95}}</ref>
+
+Some time later, when the gods were fighting the [[primordial]]s during the initial stages of what would be known later as the [[Dawn War]], Tharizdun returned, killed the guardian of the Living Gate and opened it, releasing corruptive energy from the Far Realm into the multiverse.<ref name="PHB34e-p4"/><ref name="TGoM"/><ref name="PP-p95"/> From the Far Realm he retrieved a "seed of chaos" from a dead [[universe]], the [[Shard of Pure Evil]] of the [[obyrith]]s. Through the shard, the obyriths changed his mind and spirit, corrupting him in an instant, driving the deity to madness.<ref name="Demo-p7">{{Cite book/Demonomicon|7}}</ref>
+
+But the obyriths' plan to seize the celestial realms controlled by Tharizdun and his kind was met with resistance and a twist they had not anticipated. The obyriths demanded Tharizdun to plant the seed of evil within the [[Astral Sea]], promising him total dominion of that realm in exchange for his fealty. Even within his madness, Tharizdun recognized that his fellow gods would turn on him before he could fully seize the power the obyriths promised. Instead, the mad god traveled to the farthest reaches of the cosmos, planting the seed of evil in a primordial expanse of the churning [[Elemental Chaos]], which he hoped to seize as his own.<ref name="Demo-p7"/>
+
+This seed eventually grew into the Abyss, and though the act gained him great power, the other gods of the multiverse temporarily put aside their differences in order to imprison him.<ref name="MM4e-p52/><ref name="TEEE-p4">{{Cite book/The Elder Elemental Eye|4}}</ref>
+
+===Modern History===
+In [[1340 DR]], a cult of Tharizdun formed in western [[Chessenta]]. It hired bandits, consorted with [[demon]]s, and caused much havoc before an alliance of forces destroyed it. Some credit the fact that Tharizdun did not gain a permanent foothold on [[Toril]] to the personal intervention of the goddess [[Mystra]].<ref name="SotG-112">{{Cite book/Sword of the Gods|112}}</ref>
+
+A new cult of Tharizdun was formed by the [[plague demon]] [[Murmur]] in [[1479 DR]] after a burnt portion of its corpse was discovered by the [[Firestorm Cabal]] in [[Akanûl]]. It possessed [[Leheren]], one of the members of the Cabal, and created a secret order within the order devoted to freeing Tharizdun and releasing him on the continent of [[Faerûn]].<ref name="SotG-180">{{Cite book/Sword of the Gods|180}}</ref>
+
+At roughly the same time, the last of the [[Clan Sabrak|Sabrak clan]] of [[dwarves]] discovered an intrusion of the [[Abyssal Plague]] in a temple of [[Ghaunadaur]] in the mountains south of [[Easting]] and devised a way to transform victims of the plague into plague demons with which they hoped to create an army that would fight for the Elder Elemental Eye.<ref name="TEEE-p4" /><ref>{{Cite dungeon/214/The Elder Elemental Eye|66-67}}</ref>
+
+In the late 15{{th}} century [[DR]], several cults dedicated to the Elder Elemental Eye arose in the [[Dessarin Valley]] trying to summon the [[Archomental|Princes of Elemental Evil]].<ref name="PotA5e-p4,248">{{Cite book/Princes of the Apocalypse|4,248}}</ref>
+
+==Appendix==
+{{Incomplete|}}
+===Gallery===
+<gallery>
+Module 33.5- Monoliths of Madness.jpg|''Tharizdun's Monoliths of Madness appearing on the turn of the 16{{th}} century [[DR]].''
+Monoliths of Madness Menzoberranzan.webp|''One of the Monoliths of Madness in [[Menzoberranzan]].''
+</gallery>
+===Appearances===
+:;Adventures
+::''[[The Elder Elemental Eye]]'' • ''[[Princes of the Apocalypse]]''
+:;Video Games
+::''[[Neverwinter: Monoliths of Madness]]''
+
+===External Links===
+{{External link disclaimer}}
+* {{CRW}}
+* {{D&DW}}
+* {{DnD 4e Wiki external link}}
+* {{EW}}
+* {{Greyhawk Wiki external link}}
+
+===References===
+{{Refs}}
+===Connections===
+{{Oerthly Pantheon}}
+{{Deity list}}
+[[Category:Clerics]]
+[[Category:Wizards]]
+[[Category:Neutral evil deities]]
+[[Category:Intermediate deities]]
+[[Category:Avarice domain deities]]
+[[Category:Chaos domain deities]]
+[[Category:Destruction domain deities]]
+[[Category:Envy domain deities]]
+[[Category:Evil domain deities]]
+[[Category:Force domain deities]]
+[[Category:Madness domain deities]]
+[[Category:Inhabitants of Oerth]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Oerthly pantheon]]
+[[Category:Elder evils]]
+[[Category:Great Old One patrons]]

@@ -1,0 +1,246 @@
+WIKI PAGE: Helm
+
+{{otheruses4|the deity}}
+{{Deity
+| image               = Helm p29-1-.jpg
+| caption             = Helm battles a [[marilith]] [[demon]].
+| name                = Helm
+| title               = 
+He of the Unsleeping Eyes<ref name="HoF-p108">{{Cite book/Forgotten Realms: Heroes of Faerûn|108}}</ref><ref name="SCAG5e-p21,29" /><ref name="CotR-11">{{Cite book/Cyclopedia of the Realms|11}}</ref><ref name="FRA-20">{{Cite book/Forgotten Realms Adventures|20}}</ref><ref name="FA-68">{{Cite book/Faiths & Avatars|68}}</ref><br />
+God of Guardians<ref name="FA-68" /><ref name="FRCS2eR-RtR-51">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|51}}</ref><br /> The Great Guard<ref name="FA-68" /><br /> The Watcher<ref name="HoF-p108"/><ref name="SCAG5e-p21,29" /><ref name="FA-68" /><ref name="FaP-28,29">{{Cite book/Faiths & Pantheons|28, 29}}</ref><ref name="FRCS3e-242">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|242}}</ref><br /> The Vigilant<ref name="HoF-p108"/><ref name="SCAG5e-p21,29" /><ref name="FA-68" /><br />The Vigilant One<ref name="FA-68" /><ref name="FaP-28,29" /><ref name="FRCS3e-242" /><br />
+| adjective           = Helmite<ref name="F&A-p69"/>
+| aspects             = 
+| pantheon            = [[Faerûnian pantheon]]
+| gender              = Masculine
+| died                = [[1384 DR]] (Returned in Nightal [[1486 DR]])
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Mechanus]]
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Protection, vigilance, watchfulness
+| domains5eR          = 
+| worshipers5eR       = Explorers, [[Fighter]]s, guards, [[Paladin]]s
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,108">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,108}}</ref>
+| power5e             = [[Deity]]
+| alignment5e         = [[Lawful neutral]]
+| symbol5e            = An upright left gauntlet with a staring eye on it
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Protection, vigilance, watchfulness
+| domains5e           = [[Life domain|Life]], [[Light domain|Light]], [[Twilight domain|Twilight]]
+| worshipers5e        = Bodyguards, guards, watchers
+| channel divinity5e  = ''[[Preserve life]]''<br />''[[Radiance of the dawn]]''<br />''[[Twilight sanctuary]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p60-61,294">{{Cite book/Player's Handbook 5th edition|60-61,294}}</ref><ref name="SCAG5e-p21,29">{{Cite book/Sword Coast Adventurer's Guide|21,29}}</ref><ref name="TCE5e-p34-35">{{Cite book/Tasha's Cauldron of Everything|34-35}}</ref>
+| power4e             = [[Dead power]]
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="GHotR-159">{{Cite book/The Grand History of the Realms|159}}</ref><ref name="FRCG-44">{{Cite book/Forgotten Realms Campaign Guide|44}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Lawful neutral]]
+| symbol3e            = Staring eye with blue pupil on an upright war gauntlet
+| homeplane3e         = [[House of the Triad]]
+| realm3e             = [[Everwatch]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Guardians, protectors, protection
+| domains3e           = [[Humility domain|Humility]], [[Law domain|Law]], [[Planning domain|Planning]], [[Pride domain|Pride]], [[Protection domain|Protection]], [[Strength domain|Strength]]
+| mantles3e           = {{Mantles|Guardian|Law|Physical Power|Repose}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Explorers, guards, fighters, paladins, mercenaries
+| cleric alignments3e = {{alignment grid|on|off|off|on|off|off|on|off|off}}
+| favored weapon3e    = ''[[Ever Watchful]]'' ([[bastard sword]])
+| holy days3e         = [[Shieldmeet]]
+| class3e             = {{class table|edition=3e|[[Cleric]]|10|[[Fighter]]|20|[[Ranger]]|10}}
+| refs3e              = <ref name="FaP-28,29" /><ref name="FRCS3e-234,235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234, 235}}</ref><ref name="PGtF-159">{{Cite book/Player's Guide to Faerûn|159}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref><ref name="D355-26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref>
+
+| power2e             = [[Lesser deity]],<ref name="FRA-20" /> [[Intermediate deity]]<ref name="FA-68" /><ref name="FRCS2eR-RtR-51" /> 
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = An open eye with a blue pupil and outline painted on either the back of a right-hand gauntlet or palm of a left-hand gauntlet
+| homeplane2e         = [[Mechanus]]
+| realm2e             = [[Everwatch]]
+| serves2e            = 
+| servedby2e          = 
+| portfolio2e         = Guardians, protectors, protection
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Combat sphere|Combat]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Protection sphere|Protection]], [[Sun sphere|Sun]], [[Wards sphere|Wards]] <small>'''minor:'''</small> [[Creation sphere|Creation]], [[Elemental sphere|Elemental]], [[Healing sphere|Healing]], [[War sphere|War]]
+| worshipers2e        = Guardians
+| cleric alignments2e = {{alignment grid|on|on|on|on|on|on|off|off|off}}
+| holy days2e         = [[Shieldmeet]]<ref name="F&A-p69"/>
+| class2e             = {{class table|edition=2e|[[Cleric]]|23|[[Fighter]]|35}}
+| refs2e              = <ref name="FRA-20" /><ref name="FA-68" /><ref name="FRCS2eR-RtR-51" /><ref name="OHG-181">{{Cite book/On Hallowed Ground|181}}</ref>
+| power1e             = [[Lesser deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = An open, staring eye, usually on a metal gauntlet
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = Guardians
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-11" />
+| animals             = 
+| plants              = 
+| monsters            = [[Helmed horror]]s, [[Planetar]]s,<ref name="HoF-p108"/> [[spectator]]s
+| minerals            = 
+| colors              = [[Steel]], red
+| misc manifestations = Metal [[gauntlet]] held upright; closed war [[helmet]]; glow on consecrated weapons
+| manifestation refs  = <ref name="DD&D-p12">{{Cite web enhancement/Deity Do's and Don'ts|12}}</ref>
+| church              = yes
+| temples             = yes
+}}
+'''Helm''' ({{Pronounce|HELM|audio=Helm.ogg|refs=<ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|242}}</ref><ref name="FaP-28,29" />}}) was the [[Faerûnian pantheon|Faerûnian]] [[god]] of guardians and protectors,<ref name="F&A-p68">{{Cite book/Faiths & Avatars|68}}</ref><ref name="F&P-p28">{{Cite book/Faiths and Pantheons|28}}</ref> worshiped by guards and [[paladin]]s both. '''The Vigilant One''' had long been seen as a cold and focused deity who impartially took the role of defender, and sometimes enforcer,<ref name="SCAG-p29"/> but his activities in the [[Time of Troubles]] caused the folk of [[Faerûn]] to view him differently.<ref name="FRCS3e-p242"/> '''The Watcher''' was the epitome of the vigilant guardian and embodiment of the spirit of watchfulness, whether used for [[Lawful good|good]] or [[Lawful evil|ill]].<ref name="SCAG-p29"/> In the late 15<sup>th</sup> century [[DR]], he returned to Faerûn with the restored faith of his [[chosen]], [[Kleef Kenric]].<ref name="Sent-p264" /><ref>{{Cite book/The Sentinel/Hardcover|1=266|chapter=18}}</ref>
+{{Quote
+|I guard this path! Do not approach. This way is forbidden...<ref name="WD40">{{Cite book/Waterdeep (adventure)|40}}</ref>
+|Helm, guarding the [[Celestial Stairway]].
+}}
+
+==Description==
+Helm always appeared as a {{SIrange|14|20|ft|long=yes}} tall man in [[plate mail]] armor, his face concealed by his helm.<ref name="F&A-p68"/>
+
+His avatar appeared in front of his [[chosen]] Kleef as a fully armored blue knight, a [[giant]] tall knight in blue plate with fire-hail pinging off his armor and helmet.<ref name="Sent-p264" />
+
+==Personality==
+{{Quote|''"Vigilance"''.|Helm's [[Avatar|avatar]] permanently empowering his chosen [[Kleef Kenric]].<ref name="Sent.H-p265">{{Cite book/The Sentinel/Hardcover|265|18}}</ref>}}A very old deity, Helm was the eternal sentry<ref name="SCAG-p29"/> and was always seen wearing a full suit of armor that represented the weight of his heavy responsibility.<ref name="F&A-p68"/> Yet Helm always got the job at hand done without complaint. The people of the Realms widely admired these qualities in what they saw as a humble and reassuring god.<ref name="FRCS3e-p242"/>
+
+Helm was particularly fond of children, and often forgave their minor transgressions.<ref name="FRCS3e-p242"/>
+
+==Realm==
+[[File:Helm_-_Ravenloft_Strahd's_Possession.png|thumb|300px|right|''Helm, God of Guardians, sitting on a throne in his plane.'']]
+Helm lived within his divine realm that was known as [[Everwatch]], a watchtower which moved around the four mountains of the [[House of the Triad]].<ref name="PGtF-159" />
+==Relationships==
+{{Quote
+|Helm sees the world as nothing but some vague prize to be protected from an even more vague adversary. That would have to be [[Mask]], I suppose. Who would the  God of Guardians hate more than the Patron of Thieves?
+|The reincarnated [[Mystra]] regarding Helm.<ref name="PoL7">{{Cite book/Prince of Lies|chapter=7}}</ref>
+}}
+
+Far back in time, the deity [[Lathander]] caused a divine purge known as the [[Dawn Cataclysm]] in which Helm's lover, a lesser deity of pragmatism called [[Murdane]], was a victim. Helm begrudged the Morninglord for this.<ref name="F&P-p38">{{Cite book/Faiths and Pantheons|38}}</ref> However, Helm reserved his real opposition for deities whose plots threatened the people and stability of Faerûn, especially [[Bane]], [[Cyric]], [[Mask]], and [[Shar]]. He was also especially at odds with the uncontrolled violence and careless destruction of the deities [[Garagos]], [[Malar]], and [[Talos]].<ref name="F&P-p28"/>
+
+The only god who could have been considered a full ally of the Watcher was [[Torm]], the god of paladins. Strongly held ideological differences caused a great rivalry verging on hatred between the clergy of the two gods, but the deities themselves remained close.<ref name="F&P-p28"/>
+
+A forbidding guardian of unknown name or nature in [[mithral]] [[full plate]] manned Everwatch, unfailingly detecting [[alignment]]s and the purposes of visitors.<ref name="PGtF-159" />
+==Worshipers==
+{{Main|Church of Helm}}
+[[File:Helm_symbol.jpg|thumb|right|''The holy symbol of Helm.'']]{{Quote|Keep my path in your unfettered gaze, Lord. I shall not err if you are watching.|A basic prayer to Helm.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}
+Prior to the Time of Troubles, Helmites were long respected and revered for their dedication and purpose, especially in the frontiers of [[the North]]. Throughout the divine crisis, and beyond, they unfailingly pledged to come to the defense of those who called for it.<ref name="F&A-p68"/>
+
+They wore polished full suits of armor, often enchanted as ''[[everbright]]'',<ref name="F&P-p29">{{Cite book/Faiths and Pantheons|29}}</ref> and typically wore plumed [[helmet]]s.<ref name="F&A-p6">{{Cite book/Faiths & Avatars|6}}</ref> Their hierarchy was strict and militaristic, with specific groups such as the order of paladins called the [[Vigilant Eyes of the God]], and originally also a single pontiff as head of the church—the ''Supreme Watcher''. However, there had not been someone in that post since [[992 DR]].<ref name="F&P-p29"/>
+
+The faith was especially popular in [[Cormyr]], the [[Dragon Coast]], [[Tethyr]], the [[Vilhon Reach]], and the [[Western Heartlands]].<ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|23}}</ref>
+
+===Festivals===
+Helmites celebrated the festival known as the [[Ceremony of Honor to Helm]] on [[Shieldmeet]].<ref name="F&A-p69"/>
+
+===Orders===
+* [[Companions of the One True Vision]]: Known for being loyal shock troops and defenders against overwhelming odds, this order fell into some disgrace after events in the [[Maztica]]n campaign.<ref name="F&A-p69" />
+* [[Watchers over the Fallen]]: A small fellowship of battlefield healers.<ref name="F&A-p69" />
+* [[Everwatch Knights]]: This group of dedicated bodyguards was hired out by Helmite temples to generate revenue for the church.<ref name="F&A-p69" />
+* [[Vigilant Eyes of the God]]: One of the Helmite orders of paladins.<ref name="F&A-p69" />
+
+==Temples==
+:''Main article: [[:Category:Temples to Helm]]''
+* [[Noble Hand]], in [[Tsurlagol]]<ref name="F&A-p69" />
+* The [[House Invincible]], in [[Silverymoon]]<ref name="TSF-p32">{{Cite book/The Savage Frontier|32}}</ref><ref name="VGttN-p173">{{Cite book/Volo's Guide to the North|173}}</ref><ref name="TN-GttSF-C&C-p52">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|52}}</ref>
+* [[Helm's Shieldhall]], in [[Elturel]]<ref name="FRA-p84">{{Cite book/Forgotten Realms Adventures|84}}</ref>
+* [[Temple of the Vigilant Guard]], in [[Iljak]]<ref name="F&A-p69" />
+* [[Helm's Cathedral]] in [[Helm's Hold]]<ref name="NCS-p165">{{Cite book/Neverwinter Campaign Setting|165}}</ref>
+* [[Keep of Vigilance]] in [[Everlund]]<ref name="SM-p78">({{Cite book/Silver Marches|78}}</ref>
+
+==History==
+===Time of Troubles===
+[[File:Helm_DenBeauvais_Spellfire.jpg|thumb|right|300px|''Helm guarding the Celestial Stairway during the Time of Troubles.'']]
+During the [[Time of Troubles]] in [[1358 DR]], when the gods walked [[Toril]], it was reliable Helm whom [[Ao|Lord Ao]] trusted with the task of keeping the other deities from returning to their divine realms in the planes without returning the stolen [[Tablets of Fate]]. For this task, Ao left Helm with all his divine abilities, guarding the [[Celestial Stairway]] to the planes.<ref name="FRCS3e-p264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref>
+
+On [[Midsummer]], when the goddess [[Mystra]]—who had spirited away a portion of her divine power in the realms, which she then recovered once the gods were cast from the heavens—attempted to pass him without the Tablets, she was turned back by the Watcher, and when she forcibly tried to pass the Watcher, he destroyed her<ref name="F&A-p15">{{Cite book/Faiths & Avatars|15}}</ref> with a catastrophic explosion in the skies above [[Castle Kilgrave]], north of [[Arabel]]. Following Mystra's death, Helm shed a single tear that fell to [[Toril]], but stopped before hitting ground. Hovering over the crater of destruction left below, the [[Guardian's Tear|teardrop]] appeared as a magnificent [[Kings' tears|gemstone]], filled with the torment and guilt that Helm felt inside.<ref name="VGATM-p108">{{Cite book/Volo's Guide to All Things Magical|108}}</ref>
+
+This action had enormous repercussions for Helm. Whilst it put off any of the other earthbound deities attempting the same action, it also caused the other deities and mortals alike to hold Helm in great contempt.<ref name="F&A-p69">{{Cite book/Faiths & Avatars|69}}</ref> Surprisingly, however, Helm's following remained strong in [[South Faerûn|the south]].<ref name="F&A-p68"/>
+
+After the Time of Troubles ended and other gods were restored to their former existences, Helm himself was no longer bound to stand guard against them and much of his worship had faltered. The reputation of [[Church of Helm|his clergy]] was made worse when the natives of recently discovered [[Maztica]], whom the priests of Helm were subjugating in their conquest of the region, highlighted their cause.<ref name="FRCS3e-p242">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|242}}</ref>
+
+===Death===
+In [[1384 DR]], while conveying messages from [[Tyr]] to [[Tymora]] during the pair's courtship, a strange and fateful misunderstanding resulted in the accusation that Helm had stolen Tymora's heart. Helm was subsequently slain in a duel by Tyr. Cyric was suspected to have had a hand in these events.<ref name="GHotR-159" />
+
+The [[Heresy of the Threefold God]], a belief held by the [[Eye of Justice]] maintained that Helm wasn't truly destroyed by Tyr, but rather had his divine essence merged into Tyr's upon his death.<ref name="DS">{{Cite book/Downshadow}}</ref>
+
+===Return===
+After the [[Second Sundering]], Helm returned to the Realms.<ref name="Reddit.AMA">{{cite web| url = https://www.reddit.com/r/Fantasy/comments/2zl2l0/we_are_ed_greenwood_and_robert_b_marks_ask_us/cpjzb8t| title = We are Ed Greenwood and Robert B. Marks – Ask Us Anything!| author = Ed Greenwood| year = 2015}}</ref> He appeared before his chosen [[Kleef Kenric]] in Nightal of the {{YearlinkName|1486}}, as the guardsmen and his companions ventured into [[Sadrach's Splinter]].<ref name="Sent-p264">{{Cite book/The Sentinel/Hardcover|264|chapter=18}}</ref>
+
+While the faith of Helm endured dark times during the century that he was dead, or at the very least incorporated into Tyr's essence, his worship never truly disappeared across the realms of Faerûn.<ref name="SCAG-p29">{{Cite book/Sword Coast Adventurer's Guide|29}}</ref> Since his return, his faith steadily rebounded across Faerûn.<ref>{{Cite game/Neverwinter}}</ref> As of the {{YearlinkName|1492}}, a statue of Helm is situated in the [[Stormshore Tabernacle]]'s shrine alongside Tyr, Mystra and Selûne.<ref>{{Cite game/Baldur's Gate III}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| novels = ''[[Shadowdale (novel)|Shadowdale]]'';''[[Waterdeep (novel)|Waterdeep]]'';''[[The Sentinel]]''
+| card games = ''[[Spellfire: Master the Magic]]''
+| organized play refs = ''[[Queen for a Day]]''
+}}
+
+===Gallery===
+<gallery>
+Helm Symbol-5e.png|''Post-Second Sundering holy symbol.''
+MystraVsHelm.jpg|''Mystra facing Helm.''
+Helm statue.jpg|''A shrine statue of Helm.''
+Helm stormshore.png|''The [[Stormshore Tabernacle]]'s shrine to Helm.''
+</gallery>
+
+===External Links===
+{{External link disclaimer}}
+* {{BG3|Helm (God)}}
+
+===References===
+{{refs}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Deity list}}
+[[de:Helm]]
+[[FR:Heaum]]
+[[Category:Lawful neutral deities]]
+[[Category:Humility domain deities]]
+[[Category:Law domain deities]]
+[[Category:Life domain deities]]
+[[Category:Light domain deities]]
+[[Category:Planning domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Strength domain deities]]
+[[Category:Twilight domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Intermediate deities]]
+[[Category:Human deities]]
+[[Category:Lesser deities]]
+[[Category:Clerics]]
+[[Category:Fighters]]
+[[Category:Rangers]]
+[[Category:Inhabitants of Mechanus]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the House of the Triad]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Inhabitants of masculine gender]]
+[[Category:Members of The Circle of Nine]]
+[[Category:Inhabitants of Everwatch]]

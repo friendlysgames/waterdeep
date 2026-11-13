@@ -1,0 +1,197 @@
+WIKI PAGE: Garl Glittergold
+
+{{Deity
+| image               = 
+<gallery>
+Garl p70-Matt Cavotta.jpg|3e
+Garl Glittergold spellfire.png|2e
+</gallery>
+| caption             = Garl Glittergold.
+| name                = Garl Glittergold
+| title               = The Joker<ref name="FP-p135"/><ref name="DD-151"/> <br/> The Priceless Gem<ref name="DD-151"/> <br/> The Sparkling Wit<ref name="FP-p135"/><ref name="DD-151"/> <br/> The Watchful Protector<ref name="FP-p135"/><ref name="DD-151"/><br/>The Father of All Gnomes<ref>{{Cite book/Prince of Lies|231}}</ref>
+| adjective           = Garlian<ref name="DD-p153">{{Cite book/Demihuman Deities|153}}</ref>
+| aspects             = 
+| status              = 
+| primordial          = 
+| pantheon            = [[Lords of the Golden Hills]]
+| home                = 
+| formerhomes         = 
+| minions             = 
+| died                = 
+| race                = 
+| gender              = Masculine
+| mortalhomes         = 
+| apotheosis          = 
+| power5e             = [[Deity]]
+| alignment5e         = [[Lawful good]]
+| symbol5e            = [[Gold]] nugget
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Primary god of gnomes
+| domains5e           = [[Trickery domain|Trickery]]
+| worshipers5e        = 
+
+| channel divinity5e  = ''[[Invoke duplicity]]''<br/>''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="MTF5e-p110-111">{{Cite book/Mordenkainen's Tome of Foes|110-111}}</ref><ref name="SCAG5e-p24">{{Cite book/Sword Coast Adventurer's Guide|24}}</ref><ref name="PHB5e-p63">{{Cite book/Player's Handbook 5th edition|63}}</ref>
+| power4e             = [[Deity]]<ref name="FRCG-p80"/>
+| alignment4e         = [[Good]]<ref name="FRCG-p80"/>
+| symbol4e            = 
+| dominion4e          = [[Arvandor]]<ref name="FRCG-p80"/>
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = [[Baervan Wildwanderer]], [[Baravar Cloakshadow]], [[Callarduran Smoothhands]]<ref name="FRCG-p80"/>
+| sphere4e            = Protection<ref name="FRCG-p80"/>
+| domains4e           = [[Creation domain|Creation]], [[Trickery domain|Trickery]]<ref>{{Cite dragon/Domains in Eberron and the Forgotten Realms|32,33,37}}</ref>
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Glittergold's gambit]]''<ref>{{Cite book/Forgotten Realms Player's Guide|133}}</ref>
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|62,80}}</ref><ref name="FRPG-p154">{{Cite book/Forgotten Realms Player's Guide|154}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Lawful good]]
+| symbol3e            = 
+| homeplane3e         = [[Golden Hills|The Golden Hills]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Humor, Gemcutting, [[Gnome]]s, Protection, Trickery
+| domains3e           = [[Avarice domain|Avarice]], [[Craft domain|Craft]], [[Envy domain|Envy]], [[Gnome domain|Gnome]], [[Good domain|Good]], [[Law domain|Law]], [[Protection domain|Protection]], [[Trickery domain|Trickery]]
+| mantles3e           = {{Mantles|Good|Guardian|Deception|Knowledge}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Adventurers, [[Bard]]s, Defending soldiers, Gemcutters, [[Gnome]]s, [[Illusionist]]s, Jewelers, Miners, [[Rogue]]s, [[Smith]]s
+| cleric alignments3e = {{Alignment grid | on | on  | off | on | off | off | off  | off | off }}
+| favored weapon3e    = [[Arumdina]] ([[Battleaxe]])
+| holy days3e         = 
+| class3e             = 
+| refs3e              = <ref name="FRCS-240">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|240}}</ref><ref name="FP-p135">{{Cite book/Faiths and Pantheons|135-136}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful good]]
+| symbol2e            = [[Gold]] nugget
+| homeplane2e         = [[Bytopia]]/[[Dothion]]
+| realm2e             = [[Golden Hills|The Golden Hills]] ([[Glitterhome]])
+| serves2e            = 
+| servedby2e          = [[Baervan Wildwanderer]],<ref>{{Cite book/Demihuman Deities|137}}</ref> [[Baravar Cloakshadow]],<ref>{{Cite book/Demihuman Deities|141}}</ref> [[Callarduran Smoothhands]],<ref>{{Cite book/Demihuman Deities|143}}</ref> [[Flandal Steelskin]],<ref>{{Cite book/Demihuman Deities|146}}</ref> [[Gaerdal Ironhand]],<ref>{{Cite book/Demihuman Deities|149}}</ref> [[Segojan Earthcaller]]<ref>{{Cite book/Demihuman Deities|154}}</ref> 
+| portfolio2e         = Protection, humor, trickery, [[gem]] cutting, [[finesmith]]ing and lapidary, the [[gnome]] race
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = {{Class table|edition=2e|[[Thief]]|37|[[Illusionist]]|34|[[Cleric]]|32|[[Fighter]]|30}}
+| refs2e              = <ref name="DD-151">{{Cite book/Demihuman Deities|151}}</ref>
+| power1e             = 
+| alignment1e         = 
+| symbol1e            = 
+| homeplane1e         = 
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = 
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = 
+| animals             = [[Badger]]s<br>[[Chipmunk]]s<br>[[Mole]]s<br>[[Raccoon]]s<br>[[Squirrel]]s<br>[[Weasel]]s<br>[[Dire badger]]s<br>[[Dire weasel]]s
+| plants              = 
+| monsters            = [[Animate objects|Animated]] weapons
+| minerals            = Any carved gems
+| colors              = Gold
+| misc manifestations = A disembodied mouth<br>Cloud of golden dust
+| manifestation refs  = <ref name="DD&D-p11">{{Cite web enhancement/Deity Do's and Don'ts|11}}</ref>
+}}
+'''Garl Glittergold''' ({{Pronounce|garl|refs=<ref name="FP-p135"/>}}), also known as '''The Watchful Protector''', was a [[lawful good]] [[greater deity]] of [[gnome]]s. Garl led the [[Lords of the Golden Hills]] as the [[deity]] of luck, protection, and trickery.<ref name="FP-p135"/>
+{{Quote|Most splendiferous, gregarious, and overall duplicitous of Gods (especially for the gnomes who embody those attributes quite cheerfully) is Garl Glittergold.|The introduction to ''[[Gnomefather]]'', a book featuring Garl Glittergold<ref name="BG3"/>}}
+
+==Relationships==
+Aside from the other non-[[evil]] members of the gnomish pantheon, Garl was allied with [[Yondalla]], [[Corellon Larethian]], and [[Moradin]]. His main companion was his intelligent battleaxe, [[Arumdina|Arumdina the Justifier]].<ref name="FP-p135"/>
+
+Garl's tendency to jest with the various deities worshiped by the creatures and monsters of the [[Underdark]] resulted in him garnering many enemies, but chief among them was the [[kobold]] god, [[Kurtulmak]].<ref name="FP-p135"/>
+
+==Worshipers==
+{{Quote|Grant me but a fraction of thy wit, sire. It is all one could need.|A basic prayer.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}
+Garl was the most popular of the gnomish deities, and honored, in one way or another, by nearly all gnomes. His [[cleric]]s, known as Glitterbrights, wore war helms and gold belts. <ref name="FP-p135"/>
+
+===Orders===
+*[[Golden Watchful]]: A small knightly order of gnome paladins of Garl Glittergold<ref>{{Cite web/theedverse/2019-01-06 - Gnome paladins of Garl Glittergold}}</ref>
+
+===Rituals===
+On the 13{{th}} day of each month, the Forgotten Folk held the [[Communion of Laughter]] in his honor. It consisted of joke-telling contests, communal meals, dancing, prayers, and storytelling, and donations of [[gold]], which Garl's church used to the benefit of the entire community.<ref name="FP-p135"/>
+
+==History==
+According to legend, Garl Glittergold was exploring underground when he found a new cavern, and inside, a new people—the gnomes. He told them a joke and then led them out into the wider world.<ref name="DD-151"/>
+
+According to legend, Garl let himself be captured by Kurtulmak, only to escape and cause the entire roof of Kurtulmak's cavern to fall on his head.<ref name="FP-p135"/>
+
+==Temples==
+''Main article: [[:Category:Temples to Garl Glittergold]]''
+
+==Appendix==
+{{Incomplete}}
+
+===Further Reading===
+*{{Cite book/Deities and Demigods}}
+*{{Cite book/Faiths and Pantheons}}
+
+===External Links===
+{{External link disclaimer}}
+*{{Wikipedia external link}}
+
+===Gallery===
+<gallery widths="200">
+Garl Glittergold priest.png|''A priestess of Garl Glittergold.''
+Garl Glittergold symbol.jpg
+Garl Symbol.jpg|Symbol of Garl Glittergold.
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = 
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = ''[[Blood Wars]]''
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = ''[[Dungeons & Dragons Miniatures]]''
+| organized play      = 
+| organized play refs = 
+}}
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Gnome pantheon}}
+{{deity list}}
+[[Category:Lords of the Golden Hills]]
+[[Category:Greater deities]]
+[[Category:Avarice domain deities]]
+[[Category:Craft domain deities]]
+[[Category:Creation domain deities]]
+[[Category:Envy domain deities]]
+[[Category:Gnome domain deities]]
+[[Category:Good domain deities]]
+[[Category:Law domain deities]]
+[[Category:Protection domain deities]]
+[[Category:Trickery domain deities]]
+[[Category:Inhabitants of the Golden Hills]]
+[[Category:Inhabitants of Dothion]]
+[[Category:Inhabitants of Bytopia]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]

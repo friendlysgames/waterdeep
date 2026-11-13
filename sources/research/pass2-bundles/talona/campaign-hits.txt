@@ -1,0 +1,2 @@
+campaign/setting/deities/tyr.md:43: - He is close to Lathander, and he opposes Bane, Bhaal, Cyric, Mask, Talona and Talos.
+campaign/setting/deities/tyr.md:111: - **Bane**, **Bhaal**, **Cyric**, **Mask**, **Talona**, **Talos** (Deities, pages planned): the powers he opposes.

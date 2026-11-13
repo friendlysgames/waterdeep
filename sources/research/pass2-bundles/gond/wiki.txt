@@ -1,0 +1,250 @@
+WIKI PAGE: Gond
+
+{{Deity
+| image               = Gond.jpg
+| caption             = Gond the Wonderbringer.
+| name                = Gond
+| title               = Holy Maker of All Things<ref name="HoF-p107">{{Cite book/Forgotten Realms: Heroes of Faerûn|107}}</ref><ref name="SCAG5e" /><br /> Lord of All Smiths<ref name="F&P-p25" /> <br /> The Gearsmith<ref>{{Cite book/Prince of Lies|177}}</ref><br/> Inspiration Divine<ref name="HoF-p107"/><ref name="SCAG5e" /><br /> The Meddler<ref name="DD-p154" /> <br />Wonderbringer<ref name="HoF-p107"/><ref name="SCAG5e" /><ref name="F&P-p25" /><br/>{{Derogatory}} Gond of the Forgestinking Breath<ref name="cru-p1">{{Cite book/Crucible|1}}</ref>
+| adjective           = Gondar<ref name="FA-p62">{{Cite book/Faiths and Avatars|62}}</ref><br/>Gondsmen<ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|80}}</ref><br/>Nebelunan<ref name="DD-p154">{{Cite book/Demihuman Deities|154}}</ref>
+| aspects             = Nebelun ([[Gnome]]s)<ref name="DD-188">{{Cite book/Demihuman Deities|188}}</ref><br/> Zionil (in the [[Shining Lands]])<ref name="FA">{{Cite book/Faiths & Avatars|62}}</ref><br />Arnaglaerus<ref name="PFtF-p6">{{Cite book/Prayers from the Faithful|6}}</ref><br />Balateng<ref name="PFtF-p6"/><br />Daerosdaeros<ref name="PFtF-p6"/><br />Klannauda<ref name="PFtF-p6"/><br />Mrangor<ref name="PFtF-p6"/><br />Tattaba<ref name="PFtF-p6"/><br />
+| primordial          = 
+| pantheon            = [[Faerûnian pantheon]], [[Lords of the Golden Hills]]
+| race                = 
+| gender              = Male<ref name="FRCG-p80" />
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Outlands]] (as Gond)
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Craft (as Gond)
+| domains5eR          = [[Knowledge domain|Knowledge]] (as Gond)<ref name="HoF-p18">{{Cite book/Forgotten Realms: Heroes of Faerûn|18}}</ref>
+| worshipers5eR       = [[Artificer]]s, crafters, engineers, inventors
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,107">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,107}}</ref>
+| power5e             = 
+| alignment5e         = [[Neutral]] (as Gond) <br/> [[Chaotic good]] (as Nebelun)
+| symbol5e            = Toothed cog with four spokes (as Gond) <br/> Bellows and a lizard tail (as Nebelun)
+| homeplane5e         = [[Outlands]]
+| realm5e             = [[Wonderhome]]
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Craft (as Gond) <br/> Invention, Luck (as Nebelun)
+| domains5e           = [[Forge domain|Forge]], [[Knowledge domain|Knowledge]] (as Gond) <br/> [[Knowledge domain|Knowledge]], [[Trickery domain|Trickery]] (as Nebelun)
+| worshipers5e        = Blacksmiths, woodworkers, engineers, inventors, Gnomes
+| channel divinity5e  = ''[[Artisan's blessing]]''<br />''[[Knowledge of the ages]]''<br />''[[Read thoughts]]''<br />''[[Invoke duplicity]]''<br />''[[Cloak of shadows (channel divinity)|Cloak of shadows]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p59-60,296">{{Cite book/Player's Handbook 5th edition|59-60,296}}</ref><ref name="SCAG5e">{{Cite book/Sword Coast Adventurer's Guide|21,24,28-29,115}}</ref><ref name="XGE5e-p18">{{Cite book/Xanathar's Guide to Everything|18}}</ref><ref name="SatO-p96">{{Cite book/Planescape: Adventures in the Multiverse/Sigil and the Outlands|96}}</ref>
+| power4e             = 
+| alignment4e         = [[Unaligned]]
+| symbol4e            = 
+| dominion4e          = [[House of Knowledge (plane)|House of Knowledge]]
+| realm4e             = [[Wonderhome]]
+| serves4e            = [[Oghma]]
+| servedby4e          = 
+| sphere4e            = Craftsmanship
+| domains4e           = [[Creation domain|Creation]], [[Knowledge domain|Knowledge]]<ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref>
+| worshipers4e        = Artisans, craftsmen, [[gnome]]s, [[human]]s
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Gond's craft]]''<ref name="FRPG-134">{{Cite book/Forgotten Realms Player's Guide|134}}</ref>
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p80" /><ref>{{Cite organized play/LFR/Sense of Wonder|32}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[True neutral]]
+| symbol3e            = A toothed metal, bone, or wood cog with four spokes
+| homeplane3e         = [[House of Knowledge]]
+| realm3e             = [[Wonderhome]]
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = Artifice, construction, craft, smithwork
+| domains3e           = [[Craft domain|Craft]], [[Earth domain|Earth]], [[Fire domain|Fire]], [[Knowledge domain|Knowledge]], [[Metal domain|Metal]], [[Planning domain|Planning]], [[Pride domain|Pride]]
+| mantles3e           = {{Mantles|Creation|Elements|Knowledge|Repose}}<ref name="CP-p11">>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Blacksmiths, crafters, engineers, [[gnomes]], inventors, [[Lantan]]ese, and woodworkers
+| cleric alignments3e = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| favored weapon3e    = ''[[Craftmaster]]'' ([[warhammer]])
+| holy days3e         = 
+| class3e             = {{class table|edition=3e|[[Rogue]]|10|[[Wizard]]|12|[[Cleric]]|8|[[Bard]]|10}}
+| refs3e              = <ref name="FRCS-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|235}}</ref><ref name="F&P-p26" /><ref name="F&P-p223">{{Cite book/Faiths & Pantheons|223}}</ref><ref name="D323-65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref>
+| power2e             = [[Intermediate deity]]
+| alignment2e         = [[Neutral]]
+| symbol2e            = 
+| homeplane2e         = [[Outlands]]
+| realm2e             = [[Wonderhome]]
+| serves2e            = [[Oghma]]
+| servedby2e          = 
+| portfolio2e         = Artifice, construction, craft, smithwork
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| holy days2e         = 
+| class2e             = {{class table|edition=2e|[[Wizard]]|27|[[Cleric]]|20|[[Thief]]|19|[[Fighter]]|15}}
+| refs2e              = <ref name="F&A-p62, 131"/>
+| power1e             = [[Lesser power]]
+| alignment1e         = [[Neutral]]
+| symbol1e            = A toothed wheel of [[brass]], [[bronze]], [[iron]], or bone
+| homeplane1e         = [[Concordant Opposition]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = 
+| portfolio1e         = [[Artificer]]s, [[blacksmith]]s, construction, crafts
+| worshipers1e        = [[Alchemist]]s, builders, tinkerers, and the people of [[Lantan]]
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="FRCS1e-CotR-p11">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|11}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = [[Golem]]s<br />[[Pseudodragon]]s<br />[[Animated object|Animated furniture]]
+| minerals            = 
+| colors              = Saffron, crimson
+| misc manifestations = Hammer wrapped in smoke<br />Black eye in smoke with sound of hammering
+| manifestation refs  = <ref name="DD&D-p12">{{Cite web enhancement/Deity Do's and Don'ts|12}}</ref>
+| usethe              = 
+| church              = yes
+| temples             = yes
+}}
+'''Gond''' ({{Pronounce|GAHND|refs=<ref name="FRCS3e-p241">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|241}}</ref>}} {{Pronounce|GOND|alt=yes|audio=Gond.ogg|refs=<ref name="FRCS1e-CotR-p11">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|11}}</ref>}}), known as '''Zionil''' in the [[Shining Lands]], was the [[Faerûnian pantheon|Faerûnian]] [[god]] of craft, smithing, and inventiveness.<ref name="DD-188"/><ref name="F&P-p25">{{Cite book/Faiths and Pantheons|25}}</ref> The '''Lord of All Smiths''' had many forms and names, and under all of them pushed for innovation and imaginativeness, sometimes to a dangerous degree, as a result of his short-sighted desire to create.<ref name="F&A-p62, 131"/><ref name="DD-p154" />
+
+Gond was also known as '''Nebelun''' ({{Pronounce|NEHB|eh|luhn|refs=<ref name="DD-p154" />}}) among [[gnome]]s of the Realms, who venerated him alongside the other [[Lords of the Golden Hills]].<ref name="DD-p136">{{Cite book/Demihuman Deities|136}}</ref> The Six Secret Names of Gond were (in appropriate order): '''Aranlaerus''', '''Balateng''', '''Daerosdaeros''', '''Klannauda''', '''Mrangor''', and  '''Tattaba'''.<ref name="PFtF-p6"/>
+{{quote
+|...It doesn’t matter to me what you use the armor for, just so long as it ain’t turned against my faithful. Beyond that, I just want the world to see that artifice can outdo [[magic]], given the right smith and a good set of raw materials.
+|Gond<ref name="PoL11">{{Cite book/Prince of Lies|chapter=11}}</ref>
+}}
+
+==Description==
+[[Avatar]]s of Gond took several forms, including that of a brawny, red-hued smith, a short, slight man with straw-blond hair, or a [[gnome]]. No matter his form, Gond had a forge-scarred face with dark (but nonetheless sharp and bright) eyes and a constantly attentive and inquisitive expression. He wore ordinary leathers under his scorched smith smock, though he could also summon a set of [[glassteel]] [[plate armor]] over himself (hovering close to his body piece by piece rather than actually encasing him) at will.<ref name="F&A-p62, 131">{{Cite book/Faiths & Avatars|62, 131}}</ref>
+
+Gond's manifestations included a forge hammer wrapped with wisps of black smoke, or striking eyes set within dark clouds with the ringing sounds of hammers on [[anvil]]s.<ref name="F&A-p62, 131" />
+
+==Personality==
+The divine personality of the Wonderbringer was as varied as his desire to innovate was intense. He would at times act wholly disciplined and methodical, while at others become easily distracted. He was just as often insightful and accommodating as he was sardonic or condescending.<ref name="F&A-p62, 131" />
+
+Gond remained ever-concerned with making real any theoretical concept or schematic, and held little concern for any complications or problems that arose therefrom. He would readily accept commissions from any unscrupulous patron, so long as compensation was substantial and he was given opportunity to create novel and innovative devices.<ref name="F&A-p62, 131" />
+
+Gond was not anti-magic as some may think, but viewed magic as simply another means by which to craft new inventions.<ref name="F&P-p25" />
+
+==Abilities==
+The god of invention posses immense strength and immunity to any [[firearm]]s, or any weapon that had been crafted by means of smithing, forged, or otherwise worked with tools made of [[metal]]. In fact any mundane metal weapon that struck Gond's form, immediately ''[[disintegrate]]d''.<ref name="F&A-p62, 131" />
+
+At will, Gond could ''[[Mordenkainen's disjunction|disjunct]]'' any nearby [[item enchantment|magical items]].<ref name="F&A-p62, 131" />
+
+==Possessions==
+Gond possessed a mighty ''[[Hammer of Thunderbolts]]'' called ''[[Craftmaster]]'',<ref name="F&P-p26" /> that he used both as a tool at his divine forge and (if needed) as a weapon.<ref name="F&A-p62, 131" />
+
+==Divine Realm==
+Gond's [[divine realm]] was the plane of [[Wonderhome]], which manifested as a grand library in the [[House of Knowledge]]<ref name="FRCG-p64">{{Cite book/Forgotten Realms Campaign Guide|64}}</ref><ref name="PGtF-p158">{{Cite book/Player's Guide to Faerûn|158}}</ref> within the [[Outlands]].<ref name="F&A-p62, 131" /><ref name="FD&D-p27">{{Cite book/For Duty & Deity|27}}</ref><ref name="FRA-p12" />
+
+==Relationships==
+===Deities===
+{{quote
+|I thank you again for your assistance, Wonderbringer. You prove there are things better left to the [[hammer]]s of your smiths than the [[spell]]s of my faithful.
+|[[Mystra]] recognizing Gond.<ref name="PoL17">{{Cite book/Prince of Lies|chapter=17}}</ref>
+}}
+
+Along with [[Milil]], [[Deneir]], and [[Oghma]], Gond was one of the [[Deities of Knowledge and Invention]].<ref name="F&A-p64">{{Cite book/Faiths & Avatars|64}}</ref> He was on relatively good terms with Oghma, though sometimes their relationship could be tense, due to Gond's tendency to push new inventions being rapidly introduced across Faerûn without thinking of the consequences.<ref name="F&A-p62, 131" /> His relationship with Milil was strained as they had little in common.<ref name="F&A-p116">{{Cite book/Faiths & Avatars|116}}</ref> Beyond the Deities of Knowledge and Invention, Gond was known to have a friendly rivalry with [[Chauntea]], the Goddess of Bounty,<ref name="F&A-p48">{{Cite book/Faiths & Avatars|48}}</ref> and amiable relationships with [[Lathander]], [[Waukeen]],<ref name="F&P-p26" /> and [[Tempus]].<ref name="F&A-p158">{{Cite book/Faiths & Avatars|158}}</ref><ref name="FRCS-242">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|242}}</ref>
+
+He was a friend and ally to many other gods of craftsmanship and invention. He shared bonds with [[Cyrrollalee]] of the [[Yondalla's Children|halfling pantheon]],<ref name="DD-p169">{{Cite book/Demihuman Deities|169}}</ref> along with several of the [[Morndinsamman]], including [[Dugmaren Brightmantle]],<ref name="DD-p57">{{Cite book/Demihuman Deities|57}}</ref> [[Dumathoin]],<ref name="DD-p60">{{Cite book/Demihuman Deities|60}}</ref> [[Vergadain]],<ref name="DD-p88">{{Cite book/Demihuman Deities|88}}</ref> and even [[Moradin]] the All-Father.<ref name="DD-p78">{{Cite book/Demihuman Deities|78}}</ref> Gond shared an especially strong connection to the [[Lords of the Golden Hills|gnomish deity]] of smithing, [[Flandal Steelskin]],<ref name="DD-p146">{{Cite book/Demihuman Deities|146}}</ref> who maintained a ''[[portal]]'' to Gond's divine realm.<ref name="PGtF-p155">{{Cite book/Player's Guide to Faerûn|155}}</ref>
+
+Gond had one major foe among the Faerûnian deities, [[Talos]] the Destroyer.<ref name="F&A-p62, 131" /> Talos' urge to demolish all devices of creation threatened the entirety of Gond's work in the Realms and beyond.<ref name="F&P-p26">{{Cite book/Faiths & Pantheons|26}}</ref>
+
+===Followers===
+While Gond was wholly devoted to his mortal followers, he remained too busy at times to answer their prayers in a timely manner.<ref name="F&A-p62, 131" /> While the Wonderbringer directed them to promote invention and new ideas, he was not opposed to his followers accumulating significant personal wealth in the process.<ref name="EFR-p147">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|147}}</ref> To many this was seen as an appropriate means for Gondar priests to demonstrate their worthiness of his blessing.<ref name="F&A-p63">{{Cite book/Faiths & Avatars|63}}</ref>
+
+At times, he would dispatch [[golem]]s, [[lightning mephit]]s, [[baku]] holy ones, [[einheriar]], [[marut]]s, and even [[steel dragon|steel]] or [[crystal dragon]]s to serve as guides to aid his devotees, or demonstrate his blessing to mortals.<ref name="F&A-p62, 131" />
+
+==Activities==
+The Wonderbringer constantly worked on new inventions. Gond was credited in legends for the creation of a number of [[artifact]]s. These included the [[Shadowstar]]<ref name="F&A-p141">{{Cite book/Faiths & Avatars|141}}</ref> and the unbreakable leash that bound [[Kezef|Kezef the Chaos Hound]].<ref name="CoR-p146">{{Cite book/Champions of Ruin|146}}</ref><ref name="SCAG-p139>{{Cite book/Sword Coast Adventurer's Guide|139}}</ref>
+
+He often spent time sparking inspiration in his most devout followers, or offering them new insights for how existing technology could be otherwise utilized.<ref name="F&A-p62, 131" />
+
+==Worshipers==
+{{Main|Church of Gond}}
+<gallery widths="250px" type="slideshow" position="right">
+Image:Gondsymbol.png|''The 15th century holy symbol of Gond (5e).''
+Image:Gond symbol.jpg|''The late-14th holy symbol of Gond (3e).''
+</gallery>
+Up until the late 14{{th}} century [[DR]], the primary center of Gond worship in the realms was the island nation of [[Lantan]].<ref name="F&A-p62, 131" /><ref name="F&P-p25" /> The [[Lantanese]] brought their worship of Gond to the [[Sword Coast]] of [[Faerûn]] via [[Waterdeep]]. The inventions of the Gondar clergy greatly contributed to the ascendance of Waterdhavian mercantilism.<ref name="CoS.W-p38-39" /> Similarly, their influence in [[Baldur's Gate]] was evident in civic projects led by Gond's church and the wholesale incorporation of their devices into Baldurian daily life.<ref name="FRA-p76">{{Cite book/Forgotten Realms Adventures|76}}</ref><ref name="BG.DiA-p166">{{Cite book/Baldur's Gate: Descent into Avernus|166}}</ref>
+
+The faith of Gond spread far and wide beyond the Sword Coast, to inland cities such as [[Tilverton]] in [[Cormyr]],<ref name="Cormyr-p24">{{Cite book/Cormyr|24}}</ref> [[Essembra]] in the [[Dalelands]],<ref name="Dales-p17">{{cite book/The Dalelands|17}}</ref> and [[Ravens Bluff]] in [[Vesperin]].<ref name="CoRB-p28" /> Gond's religion could even be found in the far off [[Unapproachable East]], in the magocratic realm of [[Thay]],<ref name="DRW-p49">{{Cite book/Dreams of the Red Wizards|49}}</ref> and among a community of gnomes that dwelled within a [[Great Spire of the Ice Sea|solitary isle]] within the [[Yal Tengri]] sea.<ref name="Horde.I-p53">{{Cite book/The Horde/Volume I|53}}</ref>
+
+Gond was accepted among the gnomish pantheon as Nebelun the Meddler, though a few small groups believed that Nebelun was a separate deity. Though the latter was correct, Nebelun was only active in other [[crystal sphere]]s, leaving the Faerûnian Lord of All Smiths free to take his place in the Realms.<ref name="DD-188"/><ref>{{Cite book/Monster Mythology|36}}</ref>
+
+===Notable Worshipers===
+* [[Nadul DaRoni]], a gnome hermit and inventor whose creations were regularly featured for sale in [[Aurora's Whole Realms Catalogue]].<ref name="DD-p154" />
+* [[Torlin Silvershield]], High Artificer of Gond in Baldur's Gate during the late 15{{th}} century DR.<ref name="MiBG.Cg-p16">{{Cite book/Murder in Baldur's Gate/Campaign Guide|16}}</ref>
+* [[Uthlan Abardreth]], the patriarch of Gond in [[Chessenta]].<ref name="PFtF-p7">{{Cite book/Prayers from the Faithful|7}}</ref>
+* [[Zelphar Thann]], Count of Rivershire and Estate Chancellor of [[Tethyr]].<ref name="CoS.W-p63">{{Cite book/City of Splendors: Waterdeep|63}}</ref><ref name="LoI.A-p50">{{Cite book/Lands of Intrigue/Amn|50}}</ref>
+
+===Temples===
+''Main article: [[:Category:Temples to Gond]]''
+
+Gond had various temples throughout Faerûn, such as the grand High House of Wonders in Baldur's Gate.<ref name="MiBG.CG-p14">{{Cite book/Murder in Baldur's Gate/Campaign Guide|14}}</ref> Many temples to Gond were not just ordinary places of worship, but within, machines such as [[internal combustion engine]]s were displayed,<ref name="ICE">{{Cite web/theedverse/2019-06-17 - Internal Combustion Engine}}</ref> and vehicles such as [[gondroller]]s were sold.<ref name="Gndrlr">{{Cite web/theedverse/2020-05-20 - Gondroller}}</ref>
+
+Notable temples to Gond included:
+* [[High House of Wonders]], the [[Baldurian]] holy house of Gond that served as an expansive testing grounds and laboratory for the city's Gondar priests.<ref name="BG.DiA-p166" />
+* [[High Holy Crafthouse of Inspiration]], a monastery in [[Illul]] on the isle of Lantan run by the High Artificer [[Danactar]], Most Holy Servant of Gond.<ref name="F&A-p62, 131" /><ref name="F&P-p25" />
+* [[House of Inspired Hands]], one of the largest temples in [[Waterdeep]] led by High Seeker [[Jhoadil Zulthind]].<ref name="CoS.W-p38-39">{{Cite book/City of Splendors: Waterdeep|38-39}}</ref><ref name="CoS.WW-p61">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|61}}</ref>
+* [[Turning Wheel|The Turning Wheel]], a prosperous temple to the Wonderbringer found in [[Ravens Bluff]].<ref name="CoRB-p28">{{Cite book/The City of Ravens Bluff|28}}</ref>
+
+==History==
+Worship of Gond as Zionel―among practitioners of the [[Adama]]―emerged several years pre-[[Dalereckoning]], in the {{YearlinkName|-256}}.<ref name="GHotR-p51">{{Cite book/The Grand History of the Realms|51}}</ref>
+
+During the [[Time of Troubles]], in the {{YearlinkName|1358}}, the gods of the Faerûnian pantheon were cast down to the mortal realms of [[Toril]] by the Overgod [[Ao]]. Gond's avatar took the form of a [[gnome]] who washed up on the shores of Lantan in the [[Trackless Sea]]. His divinity was quickly recognized by the Lantanna people and Gond was revered for the duration his avatar remained in the Realms.<ref name="F&A-p68" /><ref name="FRA-p29">{{Cite book/Forgotten Realms Adventures|29}}</ref>
+
+In recognition and gratitude for their supplication, Gond bestowed upon the people of Lantan the secret for making [[smokepowder]].<ref name="FRCS-264">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|264}}</ref> This allowed the Lantanna to rapidly begin formulation of firearms, which were continually shipped off to purchasers across the western coast of Faerûn.<ref name="F&A-p62, 131" /><ref name="FRA-p12">{{Cite book/Forgotten Realms Adventures|12}}</ref> While worship of Gond grew swiftly in the years that followed,<ref name="F&A-p68">{{Cite book/Faiths & Avatars|68}}</ref> the introduction of these new weapons was viewed as a foreboding change in warfare by leads from across Faerûn.<ref name="F&P-p25" />
+
+A mere decade later, in the {{YearlinkName|1368}}, Gond was commissioned by the recently-arisen god [[Cyric]] to commission powerful suits of armor to carry out his own schemes. Cyric armed his inquisitors with these horrific weapons of war and initiated the [[Second Banedeath]] in cities across the [[Heartlands]].<ref name="PoL-p74-75">{{Cite book/Prince of Lies|74-75}}</ref><ref name="RZK.CB-p24">{{Cite book/Ruins of Zhentil Keep/Campaign Book|24}}</ref><ref name="PoL-p224-225">{{Cite book/Prince of Lies|224-225}}</ref><ref name="GHotR-p148">{{Cite book/The Grand History of the Realms|148}}</ref>
+
+==Appendix==
+===See Also===
+*{{Cite book/Monster Mythology|36}}
+*{{Cite book/On Hallowed Ground|110}}
+===Appearances===
+:;Novels
+::''[[Prince of Lies]]''
+:;Video Games
+::{{refonly}}
+::<small>''[[Neverwinter Nights: Darkness over Daggerford]]''</small>
+:;Card games
+::<small>''[[Spellfire: Master the Magic]]''</small>
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+* {{SJW|Nebelun}}
+===References===
+{{refs|2}}
+===Connections===
+{{Faerûnian pantheon}}
+{{Gnome pantheon}}
+{{Deity list}}
+[[de:Zionel]]
+[[Category:Deities of Knowledge and Invention]]
+[[Category:Craft domain deities]]
+[[Category:Creation domain deities]]
+[[Category:Earth domain deities]]
+[[Category:Fire domain deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Metal domain deities]]
+[[Category:Planning domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Lords of the Golden Hills]]
+[[Category:Human deities]]
+[[Category:Intermediate deities]]
+[[Category:True neutral deities]]
+[[Category:Forge domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Inhabitants of the Outlands]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the House of Knowledge]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Trickery domain deities]]

@@ -1,0 +1,318 @@
+WIKI PAGE: Tyr
+
+{{Deity
+| image               =
+<gallery>
+Tyr.jpg|3e
+Tyr1e.png|1e
+</gallery>
+| caption2            = Various depictions of Tyr, the Maimed God.
+| name                = Tyr
+| title               =
+God of Justice<ref name="FRCS-CotR-pp15-16">{{Cite book/Cyclopedia of the Realms|15}}</ref><ref name="FRCS2e-RtR-p50">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|50}}</ref><ref name="SCAG-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref><ref name="SCAG-p40">{{Cite book/Sword Coast Adventurer's Guide|40}}</ref>
+The Even-Handed<ref name="FRCS-CotR-pp15-16" /><ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="FRA-p35">{{Cite book/Forgotten Realms Adventures|35}}</ref><ref name="Realmspace-p78">{{Cite book/Realmspace|78}}</ref><ref name="F&A-pp169-170">{{Cite book/Faiths & Avatars|169}}</ref><ref name="FRCS3e-pp253-254">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|253-254}}</ref><ref name="F&P-pp79-82">{{Cite book/Faiths & Pantheons|79}}</ref><br />Grimjaws<ref name="HoF-p126">{{Cite book/Forgotten Realms: Heroes of Faerûn|126}}</ref><ref name="FRCS-CotR-pp15-16" /><ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><br />
+The Maimed God<ref name="HoF-p126"/><ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><br/>The Evenhanded<ref name="HoF-p126"/><ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>God of Justice<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>
+Blind, Blind Tyr<ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><br />
+Wounded Tyr<ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><br />
+The Lord of Justice<ref name="SCAG-p40" /><br />
+The Just God<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><br />
+The Blind Overlord<ref name="F&A-pp169-170" /><br />
+The Wounded One<ref name="F&A-pp169-170" /><br />
+The One-Handed<ref name="OHG-pp148-149">{{Cite book/On Hallowed Ground|148-149}}</ref><br/>
+Blind One<ref name="cru-p33">{{Cite book/Crucible|33}}</ref><br/>
+The Eyeless One<ref name="cru-p102">{{Cite book/Crucible|102}}</ref><br/>
+{{Derogatory}} No-Eyes<ref name="cru-p32">{{Cite book/Crucible|32}}</ref>
+| adjective           = Tyrran<ref name="FA-p171">{{Cite book/Faiths & Avatars|171}}</ref>
+| aspects             = Anachtyr ([[Calimshan]])<ref name="F&A-pp169-170" /><ref name="EotSS-p55">{{Cite book/Empires of the Shining Sea|55}}</ref>
+| status              = 
+| pantheon            = [[Faerûnian pantheon]]<ref name="FRCS-CotR-pp15-16" /><ref name="SCAG-p21" /><ref name="SCAG-p40" /><ref name="FRA-p35" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><ref name="OHG-pp148-149" /><ref name="F&P-pp222-223">{{Cite book/Faiths and Pantheons|222-223}}</ref><ref name="OHG-pp178,181">{{Cite book/On Hallowed Ground|178,181}}</ref><br />[[Norse Pantheon]]<ref name="FRCS-CotR-pp15-16" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="D&D-p108">{{Cite book/Deities & Demigods 1st edition|108}}</ref><ref name="L&L2e-p183">{{Cite book/Legends & Lore 2nd edition|183}}</ref>
+| home                = 
+| formerhomes         = 
+| died                = 
+| race                = 
+| sex                 = 
+| gender              = Masculine
+| mortalhomes         = 
+| apotheosis          = 
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Mount Celestia]] ([[Lunia]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Justice
+| domains5eR          = 
+| worshipers5eR       = Judges, law enforcers, lawyers, [[Paladin]]s
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,126">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,126}}</ref>
+| power5e             = [[Deity]]
+| alignment5e         = [[Lawful good]]
+| symbol5e            = Balanced scales resting on a [[warhammer]]
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = Justice
+| domains5e           = [[Order domain|Order]], [[War domain|War]]
+| worshipers5e        = Judges, [[knight]]s
+
+| channel divinity5e  = ''[[Guided strike]]''<br />''[[War god's blessing]]''<br />''[[Order's Demand]]''
+| holy days5e         = 
+| challenge5e         = 
+| class5e             = 
+| refs5e              = <ref name="SCAG-p21" /><br /><ref name="SCAG-p40" /><ref name="PHB5e-pp63,294">{{Cite book/Player's Handbook 5th edition|63,294}}</ref><ref name="GMGtR5e-pp25-26">{{Cite book/Guildmasters' Guide to Ravnica|25-26}}</ref>
+| power4e             = [[Dead power]]<ref group="note">According to Realms designer [[Richard Baker]], Tyr was originally intended to be a greater god in the 4{{th}} edition pantheon of the Realms, but was removed in mid-development and replaced with [[Torm]], mainly due to fan reactions towards Tyr's slaying of [[Helm]] in ''[[The Grand History of the Realms]]''. This was stated in [http://forums.gleemax.com/showthread.php?t=702942&page=41 The one and only "Ask the Realms authors/designers thread" 3] in November of 2007.</ref>
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRCG-p77">{{Cite book/Forgotten Realms Campaign Guide|77}}</ref>
+| power3e             = [[Greater deity]]
+| alignment3e         = [[Lawful good]]
+| symbol3e            = Balanced scales resting on upright [[warhammer]]
+| homeplane3e         = [[House of the Triad]]
+| realm3e             = [[The Court]]
+| serves3e            = 
+| servedby3e          = [[Torm]], [[Ilmater]]
+| portfolio3e         = Justice
+| domains3e           = [[Good domain|Good]], [[Knowledge domain|Knowledge]], [[Law domain|Law]], [[Patience domain|Patience]],<ref name="D-355-p26">{{Cite dragon/355/Seven Saintly Domains|26}}</ref> [[Pride domain|Pride]],<ref name="D-323-p65">{{Cite dragon/323/Seven Deadly Domains|65}}</ref> [[Retribution domain|Retribution]], [[Temperance domain|Temperance]],<ref name="D-355-p26" /> [[War domain|War]]
+| mantles3e           = {{Mantles|Good|Justice|Knowledge|Law}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Judges, lawyers, magistrates, the oppressed, [[paladins]], police
+| cleric alignments3e = {{Alignment grid|on|on|off|on|off|off|off|off|off}}
+| favored weapon3e    = [[Justicar (sword)|''Justicar'']] ([[longsword]])
+| holy days3e         = 1{{st}}, 13{{th}}, & 22{{nd}} of every month
+| challenge3e         = 
+| class3e             = {{Class table|edition=3e|[[Cleric]]|20|[[Paladin]]|20}}
+| refs3e              = <ref name="FRCS3e-pp253-254" /><br /><ref name="F&P-pp79-82" /><ref name="F&P-pp222-223" /><ref name="D-355-p26" /><ref name="D-323-p65" /><ref name="FRCS3e-pp234-235">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|234-235}}</ref><ref name="FaP-79-80">{{Cite book/Faiths & Pantheons|79-80}}</ref><ref name="PGtF-pp159-160">{{Cite book/Player's Guide to Faerûn|159-160}}</ref>
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful good]]
+| symbol2e            = Balanced scales resting on a [[warhammer]]
+| homeplane2e         = [[Mount Celestia]]<ref name="FRA-p35" /><ref name="Realmspace-p78" /><ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="PCS-ADMGttP-p62">{{Cite book/Planescape Campaign Setting/A DM Guide to the Planes|62}}</ref><ref name="PCS-TPbP">{{Cite book/Planescape Campaign Setting/Map: The Powers by Plane}}</ref><ref name="PoL-MC-p9">{{Cite book/Planes of Law/Mount Celestia|9}}</ref><br />[[Ysgard]]<ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="PCS-TPbP" />
+| realm2e             = [[The Court]], [[Lunia]]<ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><br />[[Asgard]], [[Ysgard (layer)|Ysgard]]<ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="PoC-TBoC-pp111-112">{{Cite book/Planes of Chaos/The Book of Chaos|111-112}}</ref>
+| serves2e            = 
+| servedby2e          = [[Torm]], [[Ilmater]]
+| portfolio2e         = Justice
+| spheres2e           = [[All sphere|All]], [[Astral sphere|Astral]], [[Charm sphere|Charm]], [[Combat sphere|Combat]], [[Creation sphere|Creation]], [[Divination sphere|Divination]], [[Guardian sphere|Guardian]], [[Healing sphere|Healing]], [[Law sphere|Law]], [[Necromantic sphere|Necromantic]], [[Protection sphere|Protection]], [[Summoning sphere|Summoning]], [[Sun sphere|Sun]], [[Wards sphere|Wards]], [[War sphere|War]]<br />'''<small>Minor:</small>''' [[Elemental sphere|Elemental]]
+| worshipers2e        = Knights, bureaucrats, judges, merchants
+| cleric alignments2e = {{Alignment grid|on|on|off|on|off|off|off|off|off}}
+| holy days2e         = 1{{st}}, 13{{th}}, & 22{{nd}} of every month
+| class2e             = {{Class table|edition=2e|[[Cleric]]|25|[[Fighter]]|38}}
+| refs2e              = <ref name="FRCS2e-RtR-p50" /><br /><ref name="FRA-p35" /><ref name="Realmspace-p78" /><ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="PCS-ADMGttP-p62" /><ref name="PCS-TPbP" /><ref name="PoL-MC-p9" /><ref name="PoC-TBoC-pp111-112" />
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful good]]
+| symbol1e            = Balanced scales sitting on the head of a [[warhammer]]
+| homeplane1e         = [[Seven Heavens]]<ref name="FRCS-CotR-pp15-16" /><br />[[Gladsheim]]<ref name="D&D-p108" />
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Torm]], [[Ilmater]]<ref name="FRCS-CotR-p17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| portfolio1e         = Justice
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = {{Class table|edition=1e|[[Bard]]|10|[[Druid]]|13|[[Illusionist]]|10|[[Monk]]|10|[[Paladin]]|25|[[Thief]]|15}}
+| refs1e              = <ref name="FRCS-CotR-pp15-16" /><ref name="D&D-p108" />
+| animals             = [[War dog]]s
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = Blue, purple, white
+| misc manifestations = Resounding gong<br />Chord song by male choir<br />Glowing [[warhammer]]
+| manifestation refs  = <ref name="F&A-pp169-170" /><ref name="F&P-WE-DD&D-p15">{{Cite web enhancement/Deity Do's and Don'ts|15}}</ref>
+| first                = 
+| based               = [[wikipedia:en:Týr|Tyr]] (Norse)
+| histrefs            = 
+| church              = yes
+}}
+'''Tyr''' ({{Pronounce|TEER|refs=<ref name="FRCS-CotR-pp15-16" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" />}}), known as '''Anachtyr''' in [[Calimshan]],<ref name="F&A-pp169-170" /><ref name="EotSS-p55" /> was the [[lawful good]] [[greater deity|greater god]] of law and justice in the [[Faerûnian pantheon]]<ref name="FRCS-CotR-pp15-16" /><ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p21" /><ref name="SCAG-p40" /><ref name="FRA-p35" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><ref name="F&P-pp222-223" /><ref name="FRCS3e-pp234-235" /> and leader of the coalition of deities known as [[the Triad]].<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /> The titles of '''The God of Justice''' allegorized his nature to his followers.<ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /> He bore his title of the '''Maimed God''' for his missing right hand,<ref name="FRCS3e-pp253-254" /> lost in an act of bravery and self-sacrifice<ref name="SCAG-p40" /> and his title of '''the Even-Handed''' referred to his position as the god of justice, though was also seen as dark humor.<ref name="FRCS-CotR-pp15-16" /> The wounded eyes of the '''Blind Overlord'''<ref name="F&A-pp169-170" /> meanwhile were seen as symbolic of "blind justice" and the cost that sometimes came with living a lawful life.<ref name="F&P-pp79-82" /> His symbol however, balanced scales upon a [[warhammer]], truly symbolized his nature;  justice upheld with armed vigilance and benevolent might.<ref name="F&A-pp169-170" />
+
+An interloper deity,<ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /> Tyr, known as the '''One-Handed''' across the [[Outer Planes]],<ref name="OHG-pp148-149" /> was the same power as the god of the same name in the [[Norse pantheon]],<ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /><ref name="PCS-TPbP" /><ref name="FRCS1e-CotR-p18">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|18}}</ref><ref name="S-ADDAiS-CoAS-pp16,18">{{Cite book/Spelljammer: AD&D Adventures in Space/Concordance of Arcane Space|16,18}}</ref> although in the Realms he was worshiped only as a god of justice and not as a god of war.<ref name="FRCS-CotR-pp15-16" /> As the only Norse power worshiped in [[Faerûn]],<ref name="FRCS1e-CotR-p18" /><ref group="note">While sometimes counted among the [[Norse pantheon]], the gods [[Surtur]] and [[Thrym]] properly belonged to the rival [[Giant pantheon]], according to other sources.</ref> if a [[cleric]] of the Norse pantheon came to [[Toril]] from another world, they would be granted spells through Tyr.<ref name="S-ADDAiS-CoAS-pp16,18" />
+
+{{quote|''A good man is a hammer in the hand of Tyr.''|[[Miltiades]] of [[Phlan]]<ref name="EB">{{Cite book/Easy Betrayals|71|5}}</ref>}} 
+
+==Description==
+[[File:Tyr p196-Glen Angus.jpg|thumb|right|250px|''A depiction of Tyr from other worlds, incorrectly showing his left hand missing.'']]
+Tyr was portrayed as blind<ref name="FRCS2e-RtR-p50" /><ref name="FRCS3e-pp253-254" /> or with a bloody bandage over his eyes<ref name="SCAG-p40" /><ref name="F&P-pp79-82" /> and missing his right hand,<ref name="FRCS-CotR-pp15-16" /><ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><ref name="D&D-p108" /><ref name="L&L2e-p183" /> and he did not try to hide or bandage his stump.<ref name="F&A-pp169-170" /> He usually was shown as a burly,<ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="L&L2e-p183" /> noble warrior<ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="L&L2e-p183" /> with a powerful build and a bearded face.<ref name="D&D-p108" /><ref name="L&L2e-p183" /> Tyr was often shown wielding a powerful magic sword<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /><ref name="D&D-p108" /><ref name="L&L2e-p183" /> or [[warhammer]]<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /> and dressed in light armor<ref name="F&A-pp169-170" /> or [[chainmail]].<ref name="F&P-pp79-82" />
+
+When an [[avatar]] of Tyr appeared to his followers, his eyes (or eye) were at first the color of bright steel, but they faded away to empty sockets before the avatar vanished.<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /> His brow always shone with a white radiance or halo, leaving no doubt as to his divine nature.<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" />
+
+Besides his avatar, Tyr might send an intelligent [[war dog]] as a representative, or he might use a resounding gong, a choir of male voices, or a floating warhammer to express his will.<ref name="F&A-pp169-170" /><ref name="F&P-WE-DD&D-p15" /> The colors blue, white, and purple were considered sacred to his followers.<ref name="F&P-WE-DD&D-p15" />
+
+==Personality==
+Tyr was strong-spirited and noble.<ref name="FRCS3e-pp253-254" /> He was considered the bravest and the most honorable of all the Aesir of the Norse pantheon.<ref name="OHG-pp148-149" /><ref name="D&D3e-pp195-197">{{Cite book/Deities and Demigods|195-197}}</ref> He was primarily concerned with the punishment of wrong-doers and the general furthering of law and good in the world.<ref name="FRCS2e-RtR-p50" /><ref name="F&A-pp169-170" /> Tyr hated duplicity, trickery, rule-breaking, and wanton destruction.<ref name="F&A-pp169-170" /> He likewise hated lies and the breaking of oaths and was disgusted by persons who earned from such things.<ref name="OHG-pp148-149" /> For his own part, he never would break a promise.<ref name="OHG-pp148-149" />
+
+Tyr was a fair judge,<ref name="OHG-pp148-149" /> but he was hard to understand to those outside his faith,<ref name="F&A-pp169-170" /> as they more readily perceived him as a stern and rigid punisher.<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /> On the other hand, he was seen as a brave father-figure to his followers. In truth, he was well aware that a lawful utopia would never be possible in the imperfect [[Prime Material plane|Material Plane]], yet this did not stop him from trying to make the world a better place for his mortal followers.<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /> He wanted his followers to see themselves as a "perfect family", not made of perfect individuals but rather of members who ''tried'' and wanted to be perfect, who acted out of trust, courage, and love toward each other.<ref name="F&A-pp169-170" /> His knowledge that such a dream would never be achieved among the mortal realm filled him with genuine sadness.<ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" />
+
+Tyr was at first more willing than many other gods to manifest in some form or other to his followers, because of his fierce feelings of fatherly protection toward them.<ref name="F&A-pp169-170" /> By the late 14{{th}} century [[DR]], however, Tyr had tired of appearing in the Realms and began limiting his appearances to cases with important repercussions that were not obvious to mortals.<ref name="F&P-pp79-82" />
+
+Tyr urged the establishment of moral and ethical codes for sentient beings in all lands.<ref name="F&P-pp79-82" />
+==Powers==
+Tyr was said to be able to instantly perceive any thief coming near him and to [[See invisibility|see invisible objects and persons]].<ref name="F&A-pp169-170" /><ref name="D&D-p108" /><ref name="L&L2e-p183" /> He could create magical items that also bore such powers.<ref name="F&P-pp79-82" /> He always knew anyone's moral and ethical viewpoint and could [[Discern lies|detect any lies]].<ref name="F&A-pp169-170" /> Tyr was immune to all illusions, fear, or magics affecting one's emotions.<ref name="F&A-pp169-170" />
+
+If casting magic, Tyr never used damaging [[Necromantic sphere|necromantic]] spells. His spells from the [[law sphere]] were three times as powerful as normal.<ref name="F&A-pp169-170" />
+
+Tyr was powerful enough to grant his clerics their spells even if they traveled to another [[crystal sphere]]. However, not all deities were powerful enough to do this, and if one of his clerics found her- or himself in the presence of a cleric of one of these lesser powers, Tyr would only grant spells of the same power as those granted by the other weaker cleric. He did this out of a sense of fairness.<ref name="Realmspace-p78" />
+
+As god of justice, Tyr could foretell any injustice up to six months before it occurred and felt the pang of that injustice for six months afterward.<ref name="F&P-pp79-82" />
+
+==Possessions==
+Tyr's [[longsword]] was named [[Justicar (sword)|''Justicar'']].<ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><ref name="F&P-pp222-223" /><ref name="FRCS3e-pp234-235" /> It was said to have been a gift either from Tyr's predecessor or from [[Lord Ao]] himself. It was crafted with the aid of [[Mystra]]. Tyr's warhammer was especially disrupting to [[undead]].<ref name="F&A-pp169-170" />
+
+==Divine Realm==
+Within the [[Great Wheel cosmology]], Tyr had his [[divine realm]] called [[the Court]] on [[Lunia]], the first of the [[Mount Celestia|Seven Heavens of Mount Celestia]]. He also still considered [[Asgard]] on the [[Ysgard (layer)|first layer]] of [[Ysgard]] his home, the joint realm of most of the Norse pantheon.<ref name="FRCS2e-RtR-p50" /><ref name="FRA-p35" /><ref name="F&A-pp169-170" /><ref name="OHG-pp148-149" /><ref name="OHG-pp178,181" /> In the [[World Tree cosmology]], the Court was located on a mountain surrounding Mount Celestia, one of three mountains each held by each member of the Triad. In that cosmology, all ''four'' mountains were considered the [[House of the Triad]].<ref name="PGtF-pp159-160" />
+
+==Activities==
+In the [[divine realm]] of [[Asgard]], Tyr was responsible for ensuring that only the most valiant of warriors were permitted access to the great hall of [[Valhalla]].<ref name="OHG-pp148-149" /><ref name="D&D-p108" /><ref name="L&L2e-p183" />
+
+==Relationships==
+[[File:The Triad.jpg|thumb|right|250px|''The members of [[the Triad]]: Tyr, supporting [[Ilmater]], follows behind [[Torm]].'']]
+Tyr was said to be the son of the god [[Odin]] and his wife Frigga.<ref name="D&D3e-pp195-197" />
+
+Tyr was the head of the group of deities known as the Triad. The two other gods who made up the Triad were [[Ilmater]] and [[Torm]].<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /> Torm served as Tyr's war commander<ref name="F&P-pp79-82" /> and was known as the "good right hand of Tyr."<ref name="SCAG-p39">{{Cite book/Sword Coast Adventurer's Guide|39}}</ref>
+
+Among the greater deities of Faerûn, Tyr was the only one of [[lawful good]] alignment.<ref name="FRCS2e-RtR-p50" /> Along with the Triad, Tyr was close to [[Lathander]].<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /> He opposed the deities [[Bane]], [[Bhaal]], [[Cyric]], [[Mask]], [[Talona]], and [[Talos]].<ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" />
+
+Tyr gave great respect to [[Zaphkiel]] and the archons of Mount Celestia, but it was not believed that he had authority over them.<ref name="PGtF-pp159-160" />
+
+==Worshipers==
+{{Main|Church of Tyr}}
+[[File:Tyr symbol.jpg|thumb|right|200px|''The [[holy symbol]] of Tyr.'']]
+{{Quote|Let me be your eyes, Blind One, and cast your justice upon this world.|A basic prayer to Tyr.<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref>}}
+Among Tyr's worshipers were judges, lawyers, magistrates, the oppressed, [[paladins]], and police.<ref name="F&P-pp79-82" />
+
+Tyr was particularly popular in the lands of [[Calimshan]], [[Cormyr]], the [[Dalelands]], the [[Moonsea]], [[Sembia]], [[Tethyr]], and the [[Vilhon Reach]].<ref name="FRCS3e-p23">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|23}}</ref>
+
+The highly organized church of Tyr was strong in the more civilized lands of the Realms. They were known for never refusing service or aid to the faithful when they were in distress.<ref name="FRCS3e-pp253-254" /> The blind god ruled over law and justice, encouraging valiant acts from his followers and relentlessly pursuing [[Oathbreaker|oathbreakers]].<ref name="BG3">{{Cite game/Baldur's Gate III}}</ref> Followers of Tyr were expected to show fairness, wisdom, and kindness to the innocent.<ref name="F&P-pp79-82" /> Tyrrans never enforced an unjust law.<ref name="F&P-pp79-82" />
+
+After the Time of Troubles, an entire decade passed where Tyr forbid specialty priests within his church. The clergy believed that he wished to ensure that no members of the faith were treated with greater favor than others. After other churches mocked them for this, Tyr established special orders of priests beginning after the [[Feast of the Moon]] in [[1369 DR]].<ref name="F&A-pp169-170" />
+
+===Chosen of Tyr===
+*[[Ingrar Welven]], also known as the Voice of Tyr,<ref name="UA-p85">{{Cite book/Uneasy Alliances|85|6}}</ref> was a pirate from the [[Utter East]], who became possessed by the Maimed God after himself being maimed by a [[fiend]]. With powers granted by Tyr, Ingrar was tasked with destroying the [[Fallen Temple]] and bring long-lost reverence of his god back to the Five Kingdoms in the late-14{{th}} century DR.<ref name="UA-p76-77">{{Cite book/Uneasy Alliances|76-77|5}}</ref>
+
+==History==
+===Early History===
+As the only lawful member of the Norse pantheon, Tyr faded largely from prominence. For this reason, he sought a means of strengthening his power by obtaining worshipers from other worlds. He chose the crystal sphere of [[Realmspace]] and submitted himself to the authority of the overgod Ao.<ref name="OHG-pp148-149" />
+
+The first recorded instance of Tyr on Toril was in the [[Lake of Steam region]], ''circa'' {{Yearlink|-2600}}. A warrior known as [[Belaros]] and a group of priests were said to have met with Tyr in person in the mountains near the northern border of [[Turmish]]. In response, Belaros crafted the mighty [[artifact]], the ''[[Balance of Belaros]]''.<ref name="PftF-p9">{{Cite book/Prayers from the Faithful|9}}</ref>
+
+For at least 5,000 years of Faerûnian history, Tyr also seemed to appear under other names—'''Achanatyr''', '''Iltyr the Blind but All-Seeing Eye''', '''Arrtyr Judge of All''', and Anachtyr, among others. Under one of these names, he was a member of [[Jhaamdathan pantheon]] before that empire's fall.<ref name="CF-QfEG2014-p9">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2014)/Tyr's ancient past}}</ref><!--per Ed on Patreon and Discord, he was a member of the Coramshite? (Calsihite Nine) as Anachtyr, and was *not* the same entity as the Norse Tyr-->
+
+In Calimshan, Anachtyr had been worshiped for far longer than Tyr had been in other parts of Faerûn.<ref name="EotSS-p55" /> For example, Anachtyr's followers were known to have slain the [[great wyrm]] [[Rivenaurlgoth|Rivenaurlgoth the Darkly Pious]] in the [[Marching Mountains]] in {{Yearlink|-284}}.<ref name="EotSS-p9">{{Cite book/Empires of the Shining Sea|9}}</ref> Among the Calishites, religious legends suggested that the god who was Tyr passed on his portfolio to another at the end of each millennium, and that Anachtyr was actually an earlier Tyr who passed his portfolio on to the Norse newcomer.<ref name="EotSS-p55" />
+
+===Rise to Prominence===
+{{Fq
+| align  = right
+| text   = I am the [[planetar]] Antonia of Hjördis, known to mortals as [[Resounding Justice]], and I bring good tidings to you, [[Thelasand IV|Thelasand]], fourth of that name. Grimjaws is nigh! In the name of Tyr, this land shall be cleansed of wickedness and anarchy. The seed of [[Valigan|Valigan Thirdborn]] shall be extinguished. Those with evil in your hearts beware—Tyr's justice is both merciful and swift.
+| source = The words of Resounding Justice before she opened the ''[[portal]]'' that began the [[Procession of Justice]], as recorded by Exarch Thelasand IV of [[Jhaamdath]] before he turned and fled.<ref name="TGHotR-p54">{{Cite book/The Grand History of the Realms|54}}</ref>
+}}
+Tyr, in his most recent form, first made a major historical impact on the world of Toril in a campaign to pacify the remnants of the fallen empire of Jhaamdath in the {{YearlinkName|-247}}. This was known as the [[Procession of Justice]], in which the god himself appeared on Toril by ''[[portal]]'' near future [[Alaghôn]] in Turmish to lead a host of ten scores of [[Celestial archon|archons]] against the chaotic and evil forces arrayed in the [[Vilhon Reach]], in the remains of the fallen empire.<ref name="F&P-pp79-82" /><ref name="TGHotR-p52">{{Cite book/The Grand History of the Realms|52}}</ref>
+
+Ilmater aligned himself with Tyr in {{Yearlink|-243}}, being impressed by the sacrifices made by Tyr, and the conflict continued until {{Yearlink|-238}}.<ref name="F&P-pp79-82" /><ref name="TGHotR-p52" /> At the end of the great Procession, most of Tyr's archon warriors had been slain or banished,<ref name="F&P-pp79-82" /> but he was successful in destroying [[Valigan Thirdborn|Valigan]], a god of anarchy,<ref name="F&P-pp79-82" /><ref name="TGHotR-p52" /> and by this time, Tyr was committed to inspiring justice on Toril as a whole. Torm joined them to complete the Triad some years later.<ref name="F&P-pp79-82" />
+
+However, the faith of Tyr did not become a dominant one in Faerûn until shortly before the establishment of the [[Standing Stone]],<ref name="FRCS-CotR-pp15-16" /><ref name="FRCS2e-RtR-p50" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /> when most of the other members of the pantheon were already well-established in their roles,<ref name="F&A-pp169-170" /> but after some 1,600 years since the Procession of Justice, Tyr successfully had become known over all of Faerûn.<ref name="F&P-pp79-82" />
+
+Tyr lost his right hand to [[Kezef the Chaos Hound]],<ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="FRCS3e-pp253-254" /><ref name="F&P-pp79-82" /><ref name="Polyhedron-118-pp20-21">{{Cite polyhedron/118/Forgotten Deities: Dendar; Kezef|20-21}}</ref><ref name="P&P-pp189-190">{{Cite book/Powers & Pantheons|189-190}}</ref><ref name="BotG-TEEEotFR">{{Cite web/Bane of the Gods: The Elder Eternal Evils of the Forgotten Realms}}</ref><ref name="CoR-pp145-146">{{Cite book/Champions of Ruin|145-146}}</ref> in a test of his honor and strength of will.<ref name="FRCS2e-RtR-p50" /><ref name="SCAG-p40" /><ref name="F&A-pp169-170" /> The [[Circle of Greater Powers]] had previously banned all mortals and powers from any contact with Kezef, but he was still free to consume souls, and a coalition of gods joined together to stop the Chaos Hound once and for all. This alliance included Tyr.<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /><ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> They pursued the [[primordial]] beast to the [[Barrens of Doom and Despair]],<ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> where they offered him a deal.<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /><ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> They would lift the ban on him if he could escape from chains forged for him by [[Gond]]. Kezef insisted that if this were truly a fair challenge then Tyr must be willing to place his right hand into the elder evil's mouth. Tyr agreed.<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /><ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> Kezef was enchained, the chain was anchored deep in [[Cocytus]] in [[Pandemonium]],<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /> and [[Mystra]] placed an enchantment to prevent the chain from ever being severed.<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /><ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> Furious, Kezef bit off Tyr's hand. It was said that he feasted on the god's hand, drawing power from it, for centuries.<ref name="Polyhedron-118-pp20-21" /><ref name="P&P-pp189-190" /><ref name="BotG-TEEEotFR" /><ref name="CoR-pp145-146" /> (Among the [[Asgard]]ians, the story of the loss of Tyr's hand was similar but involved the members of the Aesir and the entity Fenris Wolf instead.<ref name="OHG-pp148-149" /><ref name="D&D-p108" /><ref name="L&L2e-p183" />{{Loss of Tyr's hand}})
+
+[[File:Tyr - comics.jpg|thumb|right|233px|''The god Tyr holding the [[Claw of Malar]] and standing over the cowering [[Pasha]] [[Abon Duum]].'']]
+
+At some point, the conman [[Conner]] made a deal with Tyr: he promised to bring the god the ''[[Claw of Malar]]'', (which was then in the possession of the tyrannical crime-lord [[Pasha]] [[Abon Duum]],) in exchange for some unknown service, debt, or crime. Finally, in the {{YearlinkName|1357}}, emboldened by Conner's apparent death, Abon Duum used the power of the [[Catlord (old)|Catlord]] to travel to Tyr's realm in [[Gladsheim]] to confront Tyr with the ''Claw of Malar'', apparently seeking to seize the power of the gods. However, "Tyr" was revealed to be Conner in a cloak, having faked his death and been spirited to Gladsheim. The Catlord stole the ''Claw of Malar'' and passed it to Conner, before the real Tyr appeared and took the artifact. With a warning that he would keep an eye on Conner and the scales of justice, he sent the heroes home, while Duum was left to face Justice himself.<ref name="TLB-pp10-14">{{Cite comic/The Last Betrayal|10-14}}</ref>
+
+===Time of Troubles===
+At the onset of the [[Time of Troubles]],<ref name="FRCS2e-RtR-p50" /><ref name="FRA-p35" /><ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /> Tyr's eyes were put out by [[Lord Ao]]<ref name="SCAG-p40" /><ref name="F&A-pp169-170" /><ref name="F&P-pp79-82" /> for failing to notice the theft of the [[Tablets of Fate]]<ref name="F&P-pp79-82" /> and for questioning the justice of Ao's response.<ref name="SCAG-p40" /> Ilmater, true to his ethos, worked to teach Tyr to live with his blindness and to rely upon his feelings instead,<ref>{{Cite book/Faiths & Avatars|75}}</ref> though in truth they were not a great hindrance in view of his power as a greater god.<ref name="F&P-pp79-82" />
+
+===The Spellplague===
+In the {{YearlinkName|1384}}, shortly before the catastrophic events of the [[Spellplague]], Tyr and [[Siamorphe]], who then dwelt in the House of the Triad, had a great disagreement over a battle between [[Tethyr]]ian and Calishite forces. The argument was so severe that Siamorphe left the House of the Triad to make her realm with [[Sune]] in [[Brightwater]]. Tyr sent [[Helm]] as a messenger to Sune to explain his position, and Sune tried to act as a peacemaker. As the goddess of love, she proposed a marriage between Tyr and [[Tymora]] as a way to restore balance to the [[Celestial Planes]]. Tyr agreed and began a formal courtship with the goddess of good fortune.<ref name="TGHotR-p159">{{Cite book/The Grand History of the Realms|159}}</ref>
+
+It was suspected that [[Cyric]] plotted to corrupt the arrangement, for rumors came to Tyr that Helm, who had been delivering messages from the House of the Triad to Brightwater for Tyr, had been having a secret affair with Tymora and that she loved the god of guardians instead of the god of justice. Tyr believed that the only way to reach the truth of the matter was to challenge Helm to a duel, and Helm felt that it was the honorable act to accept the challenge.<ref name="TGHotR-p159" />
+
+In the duel that followed, Helm was slain, leading to more chaos in the Celestial realms. Heartbroken, Tymora left Brightwater to be with Tyr out of duty, but Ilmater left the Triad and accepted Sune's invitation to Brightwater.<ref name="TGHotR-p159" />
+
+More tragedy among the gods shortly followed. In the next year, [[1385 DR]], Cyric teamed with [[Shar]] to bring about the death of [[Mystra (Midnight)|Mystra]] and the resulting [[Spellplague]]. At least this event brought Sune and Tyr onto the same side again, and the two of them, with Lanthander's aid, pursued and captured Cyric, imprisoning him for a sentence of one thousand years.<ref name="TGHotR-p159" /><ref name="FRCG-p74">{{Cite book/Forgotten Realms Campaign Guide|74}}</ref>
+
+After imprisoning Cyric, Tyr abdicated his godhood and granted Torm all his deific power, because the Even-Handed had lost faith in himself and in his ability to lead and judge. Tyr counseled all of his followers to offer their allegiance to Torm.<ref name="TCM-p241">{{Cite book/The Crystal Mountain/MMP|241}}</ref> Tyr's portfolio of justice was subsequently absorbed by [[Bahamut]], who later became a subservient deity of Torm.<ref name="DR381-p92">{{Cite dragon/381/Channel Divinity: Champions of Torm|92}}</ref>
+
+At some point, Tyr sent the [[deva]] [[Ayrx]] into [[Undermountain]] to try and talk sense into [[Fazrian]]. Unfortunately, [[Halaster Blackcloak|Halaster]] was able to capture Aryx, and trapped her in a shield in his [[Mad Wizard's Lair|Lair]].<ref name="WDMM-p293">{{Cite book/Waterdeep: Dungeon of the Mad Mage|293}}</ref>
+
+===Death===
+At some point between 1385 DR and [[1479 DR]], Tyr died fighting off a [[demon]]ic invasion of the upper realms in an act of heroic sacrifice. Tyr's absence reinforced the role of Torm as the new master of Celestia.<ref name="FRCG-p77" />
+
+===Resurrection===
+Tyr managed to return to life during the event known as the [[Second Sundering]], in the 1480s DR.<ref name="SCAG">{{Cite book/Sword Coast Adventurer's Guide|51}}</ref>
+
+==Rumors==
+One of the many ancient aspects of Tyr, Iltyr the Blind but All-Seeing Eye, was still being venerated in secret, even after Tyr's death after the Spellplague. This ancient cult involved a number of [[Waterdeep|Waterdhavian]] and [[Cormyr]]ian nobles and even included some [[beholder]] and [[elven]] followers. Iltyr was depicted as an entirely black, flying, weeping eyeball with a prehensile tail. Iltyr's hidden shrines, however, often included large portraits that included one or a pair of large but normal staring eyes, which his followers often dismissed to visitors as the only surviving portrait of an ancestor. Iltyr supposedly communicated with followers with a booming, telepathic voice.<ref name="CF-QfEG2014-p9" />
+
+Some suggested that Tyr invented the concept of trial by combat.<ref name="OHG-pp148-149" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+| novels = ''[[Pool of Twilight]]'';''[[The Paladins]]'';''[[Errand of Mercy]]'';''[[Uneasy Alliances]]''
+| comics = {{Comapp|Advanced Dungeons & Dragons (comic series)|16}}
+| card games = ''[[Blood Wars]]''
+| organized play refs = ''[[Queen for a Day]]''
+}}
+===Gallery===
+<gallery>
+Tyr bg3.jpg|''A statue of Tyr from the [[Stormshore Tabernacle]] in [[Baldur's Gate]].''
+</gallery>
+===External Links===
+{{External link disclaimer}}
+* {{BG3}}
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Faerûnian pantheon}}
+{{Norse Pantheon}}
+{{Deity list}}
+[[fr:Tyr]]
+[[Category:Bards]]
+[[Category:Druids]]
+[[Category:Illusionists]]
+[[Category:Monks]]
+[[Category:Paladins]]
+[[Category:Thieves]]
+[[Category:Fighters]]
+[[Category:Good domain deities]]
+[[Category:Knowledge domain deities]]
+[[Category:Law domain deities]]
+[[Category:Patience domain deities]]
+[[Category:Pride domain deities]]
+[[Category:Retribution domain deities]]
+[[Category:Temperance domain deities]]
+[[Category:War domain deities]]
+[[Category:Faerûnian pantheon]]
+[[Category:Norse pantheon]]
+[[Category:Greater deities]]
+[[Category:Human deities]]
+[[Category:Lawful good deities]]
+[[Category:The Triad]]
+[[Category:Inhabitants of the Court]]
+[[Category:Inhabitants of Lunia]]
+[[Category:Inhabitants of Mount Celestia]]
+[[Category:Inhabitants of Asgard]]
+[[Category:Inhabitants of Ysgard (layer)]]
+[[Category:Inhabitants of Ysgard]]
+[[Category:Inhabitants of the Outer Planes]]
+[[Category:Inhabitants of the Great Wheel planes]]
+[[Category:Inhabitants of the House of the Triad]]
+[[Category:Inhabitants of the Celestial planes]]
+[[Category:Inhabitants of the World Tree planes]]
+[[Category:Order domain deities]]
+[[Category:Members of The Circle of Nine]]
+[[Category:Members of the Circle of Greater Powers]]
