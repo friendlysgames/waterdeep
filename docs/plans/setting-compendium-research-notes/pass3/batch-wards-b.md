@@ -176,7 +176,7 @@ Fields with no source: Population (ward figure), Lifestyle, Languages, Governanc
 **8. Ruid's Stroll** (haunted avenue)
 > "All attempts to banish or turn the spirit have failed. Those who brave its unearthly approach and allow Ruid to pass through them learn a secret truth about someone or something in their life—if they survive."
 > — `sources/adventure-wdh.json:31294`
-- Wiki street listing: "* [[Ruid's Stroll]]<ref ...>" (`sources/research/pass3-bundles/southern-ward/wiki.txt:143`).
+- Wiki street listing: "* [[Ruid's Stroll]]" (`sources/research/pass3-bundles/southern-ward/wiki.txt:143`).
 - Journal: none.
 
 **9. The Converted Windmill, Coachlamp Lane** (Asmodean shrine; Cassalanter response team base)
@@ -187,7 +187,7 @@ Fields with no source: Population (ward figure), Lifestyle, Languages, Governanc
 - Runs it: "She leads the Cassalanter response team from the Converted Windmill on Coachlamp Lane in the Southern Ward." (`campaign/setting/notable-figures/cassalanters/10-seffia-naelryke.md:19`)
 - Hook: "Jeryth has felt a wound in the ley lines near Coachlamp Lane for a tenday and a half. It is not healing. The Enclave has no lead on the cause." (`campaign/quests/faction-events/emerald-enclave/r03-summerstrider/ev-01-summerstrider.md:189`)
 - Journal: none. Quest structure: `campaign/structure/arc-e-faction-outposts.md:273`.
-- Published windmill references, not stated to be the same building: "The key that the characters found in the mausoleum leads them to an old windmill in the Southern Ward." (`sources/adventure-wdh.json:13184`); "She reveals that the cult fanatics, Arn Xalrondar and Seffia Naelryke, would likely have taken the stone to an old windmill in the Southern Ward, where they hold their own ceremonies worshiping Asmodeus." (`sources/adventure-wdh.json:8318`)
+- Published windmill references, not stated to be the same building: "The key that the characters found in the mausoleum leads them to an old windmill in the Southern Ward." (`sources/adventure-wdh.json:13184`); "If she is healed, Vaelle regains consciousness." and, in the same paragraph, "She reveals that the cult fanatics, Arn Xalrondar and Seffia Naelryke, would likely have taken the stone to an old windmill in the Southern Ward, where they hold their own ceremonies worshiping Asmodeus." (`sources/adventure-wdh.json:8318`)
 
 **10. Xanathar Guild hideout "under the Southern Ward"** (Orb Confectioners cellar)
 > "The characters have been encouraged to explore a Xanathar Guild hideout under the Southern Ward. They enter the location through {@area B1|1e2}."
@@ -287,7 +287,7 @@ Published Major Temples table (`sources/adventure-wdh.json:30909-30997`, caption
 Best candidate: the Converted Windmill is an Asmodean shrine, held by Seffia Naelryke and Arn Xalrondar.
 > "**Persona.** To the world, Seffia maintains a decrepit windmill in the Southern Ward, sleeps in one of its upper rooms, and does not receive visitors. To those who investigate, she and Arn have converted the windmill into an Asmodean shrine and a cult fallback location." — `campaign/setting/notable-figures/cassalanters/10-seffia-naelryke.md:59`
 
-Other factions in the file hold only the question. Bregan D'aerthe's mission treats the windmill as an open question: "What does the family keep in that windmill?" (`campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md:518`). The public rumour names only a place: "a windmill in the Southern Ward where lanterns burn on moonless nights." (`campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/ev-01-the-wazoo-affair.md:100`)
+Other factions in the file hold only the question. Bregan D'aerthe's mission treats the windmill as an open question: "What does the family keep in that windmill?" (`campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/ev-01-the-theaters-back-room.md:518`). The public rumour names only a place: "A cellar somewhere off Aveen Street is mentioned by the footmen, and so is a windmill in the Southern Ward where lanterns burn on moonless nights." (`campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/ev-01-the-wazoo-affair.md:100`)
 
 Other hidden-affiliation notes that change play:
 - Kolat Towers: "{@creature Manshoon|WDH} posts no visible guards outside Kolat Towers, since he wants others to believe the site is abandoned." (`sources/adventure-wdh.json:26798`). Campaign: "Until **Manshoon Named** is marked, every Doom Raider says "Floxin's cell", "the other cell" or "the Splinter", and calls Kolat Towers "the towers in the Trades Ward"." (`campaign/quests/faction-events/doom-raiders/m05-the-yellowspire-job/ev-01-the-yellowspire-job.md:27`)
@@ -322,7 +322,7 @@ Emerald Enclave (Phaulkonmere sits in each):
 - **The Water Table Stirs** (s02): "Every meeting in this Event takes place at Phaulkonmere in the Southern Ward, about two hours' walk from Trollskull Alley." (`campaign/quests/faction-events/emerald-enclave/s02-the-water-table-stirs/ev-01-the-water-table-stirs.md:47`)
 
 Bregan D'aerthe:
-- **The Wazoo Affair** (m02): "Your correspondent has it on good authority, by which is meant the word of three footmen and a wine merchant, ... " is not used; the Southern line is: "A cellar somewhere off Aveen Street is mentioned by the footmen, and so is a windmill in the Southern Ward where lanterns burn on moonless nights." (`campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/ev-01-the-wazoo-affair.md:100`)
+- **The Wazoo Affair** (m02): "A cellar somewhere off Aveen Street is mentioned by the footmen, and so is a windmill in the Southern Ward where lanterns burn on moonless nights." (`campaign/quests/faction-events/bregan-daerthe/m02-the-wazoo-affair/ev-01-the-wazoo-affair.md:100`)
 - **The Theater's Back Room** (m05): "Brimel Crestfall is a household steward in the Cassalanter villa, a careful man in his forties. For years he has carried baskets of candles, salt, black wax and wine to a converted windmill on Coachlamp Lane in the Southern Ward." (`campaign/quests/faction-events/bregan-daerthe/m05-the-theaters-back-room/overview.md:26`)
 
 Order of the Gauntlet:
@@ -345,7 +345,7 @@ Lords' Alliance:
 
 **Politics**: no source. Mascot and flags only (`sources/adventure-wdh.json:31050`).
 
-**Economy**: "This was considered the "poor" ward ..." see Q1 (`sources/research/pass3-bundles/southern-ward/wiki.txt:101`).
+**Economy**: the wiki's "Caravan City" sentence, quoted in Q1 (`sources/research/pass3-bundles/southern-ward/wiki.txt:101`).
 
 **Lore**
 > "Others think it's haunted by the ghosts of the Kolat brothers. They're wrong, of course." — `sources/adventure-wdh.json:26797`
@@ -382,12 +382,13 @@ Lords' Alliance:
 > "The South Gate was found in southern Waterdeep where the [[Waterdeep/Dock Ward|Dock Ward]] and [[Waterdeep/Southern Ward|Southern Ward]] met."
 > — `sources/research/pass3-bundles/southern-ward/wiki.txt:856`
 
-> "The stretch of buildings and alleyways ... " is not used. The Southern Ward wiki's Dock Ward boundary: "On the west and south side was [[Dock Ward of Waterdeep|Dock Ward]] across the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]." — `sources/research/pass3-bundles/southern-ward/wiki.txt:96`
+> "On the west and south side was [[Dock Ward of Waterdeep|Dock Ward]] across the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]."
+> — `sources/research/pass3-bundles/southern-ward/wiki.txt:96` (the Southern Ward article, describing the Dock Ward as its west and south neighbour)
 
 > "After the [[Spellplague]], the northern section of Waterdeep harbor became dilapidated with most of the harbor choked with sunken ship hulls. This section became known as [[Mistshore]]."
 > — `sources/research/pass3-bundles/dock-ward/wiki.txt:98`
 
-> "Mistshore" orientation: "North and east? You're in the Dock Ward." — `sources/adventure-wdh.json:30693`
+> "North and west? The Southern Ward. South and east? The Castle Ward. North and east? You're in the Dock Ward." — `sources/adventure-wdh.json:30693` (Honorable Knight orientation text, quoted in full under Southern Q1)
 
 The Dock Ward wiki page has no boundary paragraph. No source gives a full boundary.
 
@@ -423,7 +424,7 @@ Campaign: "- The wiki says the city's ward system began in 1035 DR with four war
 > — `sources/adventure-wdh.json:31062`
 
 > "Someone is killing elf and half-elf sailors in the Dock Ward. Three are dead so far, and every one of them was beheaded by a blade in the dead of night."
-> — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:31` (inside Davil's dialogue; the sentence "Three are dead so far, and every one of them was beheaded by a blade in the dead of night." is in the same line)
+> — `campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/ev-01-the-dockside-killer.md:31` (inside Davil's dialogue)
 
 **Languages**: no source fills this field (`sources/research/pass3-bundles/dock-ward/wiki.txt:20`, blank). Literacy only: "least literate" (`sources/adventure-wdh.json:31062`).
 
@@ -433,7 +434,7 @@ Campaign: "- The wiki says the city's ward system began in 1035 DR with four war
 Dominant faith: no source. The published table has no Dock Ward row (`sources/adventure-wdh.json:30909-30997`).
 
 **Governance**
-> "Captain Staget" is not used. The published line: "Staget once had the warehouse under surveillance, but elected to pull the detail to bolster patrols throughout the Dock Ward-a decision he now regrets." — `sources/adventure-wdh.json:2185`
+> "Staget once had the warehouse under surveillance, but elected to pull the detail to bolster patrols throughout the Dock Ward-a decision he now regrets." — `sources/adventure-wdh.json:2185`
 > "Characters who stir up trouble in the Dock Ward are likely to run into Captain Staget again." — `sources/adventure-wdh.json:2205`
 > "They are arrested for one or more crimes and taken to a courthouse in the Dock Ward to face sentencing by a magister (encounter 8, \"Courthouse\")." — `sources/adventure-wdh.json:6672` (see Q9 item 2)
 > "The Dock Ward Watch post smells of wet wool and lamp oil, and a duty sergeant sits at a ledger behind a long desk." — `campaign/quests/faction-events/emerald-enclave/m04-the-grells-in-the-dock-ward/ev-02-the-nest.md:240`
@@ -449,7 +450,7 @@ Ward-level governing body: no source.
 **Economy**
 > "It contained the docks, shipbuilding yards, and warehouses for the sea trade." — `sources/research/pass3-bundles/dock-ward/wiki.txt:93`
 > "* [[Seaswealth Hall]], located on the waterfront and overlooking the city's fish markets, was the guildhall of the [[Fishmonger's Fellowship]]." — `sources/research/pass3-bundles/dock-ward/wiki.txt:150`
-> "Istrid Horn is a shield dwarf moneylender running a lending operation from a guarded Dock Ward warehouse." — `campaign/setting/notable-figures/doom-raiders/03-istrid-horn.md:30`
+> "A shield dwarf moneylender running a lending operation from a guarded Dock Ward warehouse — her rates look competitive, her manner is warm, and the terms of a missed payment are not discussed at the table." — `campaign/setting/notable-figures/doom-raiders/03-istrid-horn.md:30`
 > "Access to a Black Network safe house in the Dock Ward." — `campaign/guides/factions/07-doom-raiders.md:57`
 
 **Organizations**
@@ -457,7 +458,7 @@ Ward-level governing body: no source.
 > "* [[Shippers' Hall]], located along Oar Alley, was the guildhall of the [[Fellowship of Salters, Packers, and Joiners]]." — `sources/research/pass3-bundles/dock-ward/wiki.txt:151`
 > "* [[Metal House of Wonders]], located along Belnimbra's Street and Gut Alley, was the guildhall of the [[Splendid Order of Armorers, Locksmiths, and Finesmiths]]." — `sources/research/pass3-bundles/dock-ward/wiki.txt:148`
 > "* [[Jesters' Clubhouse]], located at the corner of [[Shrimp Alley]] and [[Pressbow Lane]], was the guildhall of the [[Jesters' Guild]]." — `sources/research/pass3-bundles/dock-ward/wiki.txt:146`
-> Faction presence: "A dim Dock Ward dive, operated by **Manshoon's Splinter Zhentarim** as an informal ward headquarters." (`campaign/quests/act-i/finding-floon/ev-02-dock-ward-investigation.md:43`); "Seven Masks Theater — Mini-Heist (Dock Ward)" (`campaign/guides/factions/08-bregan-daerthe.md:101`); "Corene is a Harper deep-cover agent embedded in the Dock Ward operation of Xanathar's Guild" (`campaign/setting/notable-figures/harpers/05-corene-wyldath.md:26`).
+> Faction presence: "A dim Dock Ward dive, operated by **Manshoon's Splinter Zhentarim** as an informal ward headquarters." (`campaign/quests/act-i/finding-floon/ev-02-dock-ward-investigation.md:43`); "### Seven Masks Theater — Mini-Heist (Dock Ward)" (`campaign/guides/factions/08-bregan-daerthe.md:101`); "Corene is a Harper deep-cover agent embedded in the Dock Ward operation of Xanathar's Guild" (`campaign/setting/notable-figures/harpers/05-corene-wyldath.md:26`).
 
 Fields with no source: Population (ward figure), Languages, dominant Religion, Governance body.
 
@@ -488,7 +489,7 @@ Fields with no source: Population (ward figure), Languages, dominant Religion, G
 
 **4. The Seven Masks Theater** (Bregan D'aerthe front; Krebbyg as booking manager)
 > "She asks the characters to retrieve the stone, for the good of Waterdeep, and deliver it to her at the Seven Masks Theater in the Dock Ward." — `sources/adventure-wdh.json:7152`
-- Campaign: "A drow gunslinger who operates as "Kreb Sorrush," booking manager of the Seven Masks Theater in the Dock Ward" (`campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:30`)
+- Campaign: "A drow gunslinger who operates as "Kreb Sorrush," booking manager of the Seven Masks Theater in the Dock Ward — handles casting inquiries, performance schedules, and other requests with equal efficiency, switching between them mid-sentence." (`campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:30`)
 - Hook: "The Seven Masks Theater appears on every list of Dock Ward Bregan D'aerthe assets the party might assemble from outpost intelligence." (`campaign/guides/factions/08-bregan-daerthe.md:31`)
 - Journal: none.
 
@@ -561,7 +562,7 @@ Also available, outside the 14: the Rusted Anchor ("Find Pell at the Rusted Anch
 **Krebbyg Masq'il'yr** (Drow gunslinger, chaotic neutral; no pronoun field on the page)
 > "# Krebbyg Masq'il'yr" — `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:1`
 > "- *Drow gunslinger, chaotic neutral*. Stat block: **Drow Gunslinger**." — `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:6`
-> "A drow gunslinger who operates as "Kreb Sorrush," booking manager of the Seven Masks Theater in the Dock Ward, handles casting inquiries, performance schedules, and other requests with equal efficiency, switching between them mid-sentence." — `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:30`
+> "A drow gunslinger who operates as "Kreb Sorrush," booking manager of the Seven Masks Theater in the Dock Ward — handles casting inquiries, performance schedules, and other requests with equal efficiency, switching between them mid-sentence." — `campaign/setting/notable-figures/bregan-daerthe/04-krebbyg-masqilyr.md:30`
 
 **Esloon Bezant** (Thayan human Red Wizard exile, Neutral, he/him)
 > "# Esloon Bezant" — `campaign/setting/notable-figures/independents-allies/16-esloon-bezant.md:1`
@@ -644,7 +645,7 @@ Other campaign quests and structure files:
 - **Faction Outposts** (structure): "*Dock Ward.* — **Street-level entry point for the BD chain.**" (`campaign/structure/arc-e-faction-outposts.md:323`); "elven and half-elven victims found dead in the Dock Ward after Seven Masks Theater performances" (`campaign/structure/arc-h-sea-maidens-faire.md:39`). Pier conflict: `campaign/quests/faction-events/bregan-daerthe/m06-the-dive/design-notes.md:67` (Q9).
 
 Faction events:
-- Doom Raiders, The Dockside Killer (m01): "Sit, please, and thank you for coming so promptly." is dialogue; the set-up sentence is "Davil Starsong asks the Doom Raiders to stake out the docks and find the killer before he strikes again." — not used. Use: "A Doom Raiders member who reaches 2nd level receives a flying snake at Trollskull Manor carrying a line in Davil's looping hand." (`campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/overview.md:17`) and "...asks them to find whoever is killing elf and half-elf sailors in the Dock Ward." — the sentence: "He receives the members in his curtained room on the second floor of the Yawning Portal, pours for each of them, and asks them to find whoever is killing elf and half-elf sailors in the Dock Ward." (`...overview.md:17`).
+- Doom Raiders, The Dockside Killer (m01): "He receives the members in his curtained room on the second floor of the Yawning Portal, pours for each of them, and asks them to find whoever is killing elf and half-elf sailors in the Dock Ward." (`campaign/quests/faction-events/doom-raiders/m01-the-dockside-killer/overview.md:17`)
 - Doom Raiders, The Missing Snobeedle (m03): "The party can take Dasher's claim to Istrid Horn at her Dock Ward warehouse." (`campaign/quests/faction-events/doom-raiders/m03-the-missing-snobeedle/overview.md:49`)
 - Doom Raiders, Wolf (r03): "The safe house is the third floor above Tarrow's Tallow and Wick, a chandler's shop at 22 Sail Street in the Dock Ward, a five-minute walk from the fish market." (`campaign/quests/faction-events/doom-raiders/r03-wolf/ev-01-wolf.md:162`)
 - Doom Raiders, Ardragon (r25): "The target waits in the cellar of Istrid Horn's Dock Ward warehouse, unharmed beyond what the taking needed." (`campaign/quests/faction-events/doom-raiders/r25-ardragon/ev-01-ardragon.md:280`)
@@ -705,8 +706,8 @@ Faction events:
 **Politics**
 > "The war with Manshoon's Zhentarim is an active, low-level street war in the Dock Ward. It began when Manshoon's envoys came to Skullport three months before the fireball with Eye #1 of the Stone of Golorr, and Xanathar killed them." — `campaign/setting/history/02-the-long-shadow.md:72`
 > "The Dock Ward is the Guild's primary surface territory." — `campaign/setting/history/02-the-long-shadow.md:47`
-> "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward | Manshoon's operatives probe Guild territory, and Xanathar's kill order on Manshoon has failed twice." — `campaign/guides/gm-guide/running-the-villains.md:71` (the row continues in the file)
-> "Brawls between the Xanathar's Guild and the Zhentarim have become common in the Dock Ward, and the City Watch is called to them often." — `campaign/setting/history/08-the-players-arrive.md:75`
+> "| **Xanathar vs. Manshoon** | Active street war — low-level, in the Dock Ward | Manshoon's operatives probe Guild territory, and Xanathar's kill order on Manshoon has failed twice. Manshoon knows Xanathar killed his envoys and kept Eye #1. Agorn Fuoco monitors Orb Confectioners. Xanathar suspects a mole; it's hunting in the wrong direction. | *Report to Agorn Fuoco* |" — `campaign/guides/gm-guide/running-the-villains.md:71`
+> "Brawls between the Xanathar's Guild and the Zhentarim have become common in the Dock Ward, and the City Watch is called to them often." — `campaign/setting/history/08-the-players-arrive.md:75` (campaign history, not published)
 
 **Economy**
 > "Istrid Horn is a shield dwarf moneylender operating out of a guarded warehouse in the Dock Ward, serving as the Doom Raiders' Master of Trade and Coin." — `campaign/guides/gm-guide/debts-of-the-city.md:37`
@@ -884,7 +885,7 @@ Best candidate: Thrakkus's butcher shop is a Zhentarim body-disposal site (publi
 > "The dragonborn allows squatters to dwell in his home. Those who can perform menial chores are spared and fed scraps of cooked meat; the rest end up on the chopping block." — `sources/adventure-wdh.json:13403`
 > "If {@creature Manshoon|WDH} is the villain, the stone is brought to {@creature Thrakkus|wdh}, a dragonborn butcher in the Field Ward who chops up bodies for the Zhentarim." — `sources/adventure-wdh.json:6172` (conditional on the chosen villain)
 
-Campaign hidden-affiliation note: "It has also paid three gang leaders to look away when Guild men are hurt, and Pell has noticed." (`campaign/quests/faction-events/order-of-the-gauntlet/m01-breaking-up-the-brawl/ev-01-breaking-up-the-brawl.md:20`) — the sentence is a Splinter fact, not a Field Ward resident fact.
+Campaign hidden-affiliation note: "It has also paid three gang leaders to look away when Guild men are hurt, and Pell has noticed." (`campaign/quests/faction-events/order-of-the-gauntlet/m01-breaking-up-the-brawl/ev-01-breaking-up-the-brawl.md:20`) — a Splinter fact about the Field Ward gangs.
 
 ## Q6. Quests, faction events and location journals set in the Field Ward
 
@@ -892,7 +893,7 @@ Location journals: none. `campaign/locations/` holds seven journals and none nam
 
 Campaign quests and events:
 - **Trollskull Alley** (ev-04): "| Order of the Gauntlet | Breaking Up the Brawl | Stop a mob hired by the Splinter from cornering a Xanathar's Guild dealer in a Field Ward market square |" (`campaign/quests/act-i/trollskull-alley/ev-04-the-factions-come-calling.md:74`)
-- **Order: Breaking Up the Brawl** (m01): "Four men were hired to corner a Guild dealer named Pell in Mudlark Square, in the Field Ward, at noon today." (`...m01-breaking-up-the-brawl/ev-01-breaking-up-the-brawl.md:34`); "### The Field Ward at Noon" (`...ev-01-breaking-up-the-brawl.md:87`)
+- **Order: Breaking Up the Brawl** (m01): "Four men were hired to corner a Guild dealer named Pell in Mudlark Square, in the Field Ward, at noon today." (`campaign/quests/faction-events/order-of-the-gauntlet/m01-breaking-up-the-brawl/ev-01-breaking-up-the-brawl.md:34`); "### The Field Ward at Noon" (`...ev-01-breaking-up-the-brawl.md:87`)
 - **Order: The Shard Shunners** (m03): "Someone is robbing the night guards of the Endshift Tavern on Endshift Street in the Field Ward." (`campaign/quests/faction-events/order-of-the-gauntlet/m03-the-shard-shunners/ev-01-the-shard-shunners.md:94`); "A halfling gang is robbing the night guards of a Field Ward tavern." (`...ev-01-the-shard-shunners.md:434`)
 - **Order: Spined Devils in Twelvedog Court** (m04): "Spined devils in Twelvedog Court, Field Ward, two streets east of the soup house." (`campaign/quests/faction-events/order-of-the-gauntlet/m04-spined-devils-in-twelvedog-court/ev-01-twelvedog-court.md:75`)
 - **Order: The Shrine on Aveen Street** (m05): "Aveen Street runs along the line between the Field Ward and the North Ward." (`campaign/quests/faction-events/order-of-the-gauntlet/m05-the-shrine-on-aveen-street/ev-01-the-shrine-on-aveen-street.md:19`)
@@ -955,7 +956,7 @@ How the Watch and the city government reach it:
 > "The Watch doesn't patrol this area, however, and many crimes go uninvestigated. The City Guard oversees the Field Ward from the walls around it, but its members get involved only when folk moving into or out of the city are threatened." — `sources/adventure-wdh.json:31104`
 > "The City Watch did not patrol here, but the City Guard watched over the road between the inner and outer gates to protect those passing through." — `sources/research/pass3-bundles/field-ward/wiki.txt:98`
 > Campaign: "The Watch's Field Ward post sends two Guards an hour later to rope off the court, and the sergeant asks no questions of anyone." (`campaign/quests/faction-events/order-of-the-gauntlet/m04-spined-devils-in-twelvedog-court/ev-01-twelvedog-court.md:187`)
-> Undercliff prison farm: "a prison farm run by the City Watch (called Amendsfarm)" (`sources/adventure-wdh.json:31125`)
+> Undercliff prison farm: "It is also the site of a large and well-protected training camp for the City Guard, and a prison farm run by the City Watch (called Amendsfarm) where those convicted of minor offenses work off their debt to the city." — `sources/adventure-wdh.json:31125`
 
 ## Q9. Conflicts (Field Ward)
 
