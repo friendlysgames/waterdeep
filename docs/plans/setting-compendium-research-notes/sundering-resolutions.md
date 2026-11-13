@@ -983,3 +983,14 @@ Verdict key: reversed (the Sundering undid the 4e change); kept (the 4e change s
 | Dawn Cataclysm (`wiki/Dawn_Cataclysm.txt:25`) | No Sundering link; date unknown | unaddressed |
 
 END OF REPORT
+
+---
+
+## 14. Rulings (user, Session 48)
+
+Added after the research. They settle the conflicts C2, C5, C11 and C12 above and bind every campaign page.
+
+- **Canon date:** the Second Sundering ended in 1487 DR (wiki, *Second Sundering*, "As 1487 DR came to a close, the Second Sundering ended with the full return of Mystra and the Weave, the separation of the worlds Abeir and Toril"). Not 1480 (the wiki's Spellplague page) and not 1489 (SCAG's end of the wars; the wiki's Era of Upheaval end).
+- **All gods unmerged:** Lathander and Amaunator, Talos and Gruumsh, Azuth and Asmodeus, and every other Spellplague-era merger or absorption are undone. A source's "separate by 1491 DR" means it has already happened, so 1492 DR starts with every merger undone.
+- **Precedence:** *Heroes of Faerun* (2025) outranks the *Sword Coast Adventurer's Guide* (2014) because it is newer. Tymanther is "no more" (C5). Where *Heroes of Faerun* is silent, SCAG stands. The wiki and the novels rank below both.
+- Written into `CLAUDE.md` as the standing rule "Sundering canon and 5e source precedence".
