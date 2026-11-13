@@ -1,0 +1,750 @@
+=== WIKI PAGE: Stone of Golorr
+
+{{Item
+| image         = Stone_of_golorr-5e.png
+| caption       = 
+| name          = ''Stone of Golorr''
+| othernames    = 
+| nicknames     = 
+| type          = Wondrous item<ref name="WDH5e-p192">{{Cite book/Waterdeep: Dragon Heist|192}}</ref>
+| location      = 
+| value1e       = 
+| weight1e      = 
+| refs1e        = 
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = 
+| weight3e      = 
+| refs3e        = 
+| level4e       = 
+| value4e       = 
+| weight4e      = 
+| refs4e        = 
+| rarity5e      = [[Artifact]]
+| attunement5e  = Required
+| school5e      = 
+| level5e       = 
+| value5e       = 
+| weight5e      = 
+| refs5e        = <ref name="WDH5e-p192" />
+| communication = Telepathic<ref name="WDH5e-p192" />
+| languages     = 
+| alignment     = [[Lawful evil]]<ref name="WDH5e-p192" />
+}}
+The '''''Stone of Golorr''''' was an [[artifact]] that contained the consciousness and memories of an [[aboleth]] named [[Golorr]].<ref name="WDH5e-p192" />
+
+==Description==
+The artifact was a small and glossy greenish-gray stone that could fit in the palm of a [[humanoid]]'s hand.<ref name="WDH5e-p192" />
+
+==Powers==
+The power of the ''Stone of Golorr'' could be called upon to access the aboleth's memory in a similar way as the ''[[legend lore]]'' spell. This power could be used up to three times, until the ''stone'' recharged at the next dawn.<ref name="WDH5e-p192" />
+
+However, knowledge given by the aboleth was fleeting. Once a creature broke the attunement to the ''Stone of Golorr'', there was a chance that any knowledge acquired via the stone, and even possession of the stone itself, was forgotten by the user. This magically induced amnesia could sometimes be removed by a ''[[remove curse]]'' spell, but more powerful spells such as ''[[greater restoration]]'' had a better chance of success.<ref name="WDH5e-p192" />
+
+As the trapped creature inside, the ''Stone of Golorr'' hungered for knowledge and did not like to stay attuned to the same individual for too long. It had an alien personality and saw itself as a [[god]]. If its user ignored the ''stone's'' demands, it could attempt to seize control of the user.<ref name="WDH5e-p192" />
+
+==History==
+The ''Stone of Golorr'' was in fact an aboleth that was transformed into an object. It could be freed if the stone was destroyed via an ''[[antipathy/sympathy]]'' spell cast with the appropriate parameters. If Golorr were freed in this way, it could go berserk and attack any nearby creatures.<ref name="WDH5e-p192" />
+
+In the late 15{{th}} century [[DR]], the ''Stone of Golorr'' was used to store the knowledge of the location of the [[Vault of Dragons]], which contained a treasure that had been embezzled by [[Dagult Neverember]] shortly before he was ousted as the [[Open Lord]] of [[Waterdeep]].<ref name="WDH5e-p192" /> At some point the stone fell into the hands of [[Xanathar]]. Then in [[1492 DR]],{{WDH-time}} Lord Dagult ordered many of his agents to obtain the stone from Xanathar's lair, with one [[Dalakhar]] ultimately being the one to do so while the crime lord was in the middle of a meeting with the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video games = ''[[Idle Champions of the Forgotten Realms]]''
+|board games = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Items]]
+[[Category:Items from Toril]]
+[[Category:Items from Faerûn]]
+[[Category:Items from Waterdeep]]
+[[Category:Magic items]]
+[[Category:Artifacts]]
+[[Category:Aboleths]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Vault of Dragons
+
+{{Otheruses4|the location|the board game|Vault of Dragons (game)}}
+{{Building
+| image         = Vaultdragons.jpg
+| caption       = The front gate of the Vault of Dragons.
+| name          = Vault of Dragons
+| aliases       = 
+| type          = Vault
+| architecture  = 
+| floors        = 3
+| location      = [[Waterdeep]], [[Sword Coast North]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="W:DH-p94" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Vault of Dragons''' was a hidden underground location in [[Waterdeep]] built long ago by [[dwarves]].<ref name="W:DH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> As of the late 15{{th}} century [[DR]], the Vault could only be accessed using the ''[[Stone of Golorr]]'', which revealed its location as well as the keys needed to enter.<ref name="W:DH-p94">{{Cite book/Waterdeep: Dragon Heist|94}}</ref><ref name="W:DH-p5" />
+
+==Location==
+The exact location of the Vault of Dragons was unknown.<ref group="note">Per the ''[[Waterdeep: Dragon Heist]]'' adventure, the Vault of Dragons has four potential [[canon]] locations, with a fifth location given in ''[[Idle Champions of the Forgotten Realms]]''.</ref> It was said perhaps to be in the [[Castle Ward]] beneath the [[Pink Flumph]] theater,<ref name="W:DH-p58">{{Cite book/Waterdeep: Dragon Heist|58}}</ref><ref name="W:DH-p62">{{Cite book/Waterdeep: Dragon Heist|62}}</ref> in the [[Sea Ward]] under either an old tower owned by [[Esvele Rosznar]] or a [[windmill]] in which the artist [[Kalain]] lived,<ref name="W:DH-p60">{{Cite book/Waterdeep: Dragon Heist|60}}</ref> in the [[City of the Dead]] below the [[Brandath|Brandath family]] mausoleum,<ref name="W:DH-p61">{{Cite book/Waterdeep: Dragon Heist|61}}</ref><ref name="W:DH-p70">{{Cite book/Waterdeep: Dragon Heist|70}}</ref> or in the [[North Ward]] beneath a villa.<ref name="IC">{{Cite game/Idle Champions of the Forgotten Realms}}</ref>
+
+==Structure==
+The Vault was located underground with walls of [[mortar]]ed stone and doors made of solid stone slabs with stone handles and hinges. The only entrance was a {{SIAdj|20|foot|long=yes|adj=high}} corridor ending at a massive gate of solid [[adamantine]] inscribed with [[Dwarvish]] [[rune]]s that read "THE THREE KEYS. BRING THEM FORTH". This gate had no obvious handles or hinges, and opened by sliding into the wall only when three specific keys were brought near it.<ref name="W:DH-p94" />
+
+==Interior==
+Immediately inside the gates of the Vault was a tall foyer extending north with no sources of light. It featured three {{SIAdj|60|foot|long=yes|adj=tall}} columns supporting three crumbling bridges far overhead. The ground floor had with twelve [[iron]] doors embossed with images of dwarf warriors flanking the room. Of these doors, only the two in the far northeast corner of the room were real, with the other ten being immovable distractions. Behind the real doors was a chamber containing a {{SIAdj|20|foot|long=yes}} magical [[fresco]] of a battle between dwarves and [[goblin]]s that could [[charm]] any creatures who viewed it, causing them to gaze upon it until they collapsed from exhaustion.<ref name="W:DH-p94" /><ref name="W:DH-p95">{{Cite book/Waterdeep: Dragon Heist|95}}</ref> Across from this fresco was an expertly-carved staircase leading up {{SI|70|feet|long=yes}} to a long, {{SIAdj|20|foot|long=yes|adj=high}} corridor known as the Hall of [[Moradin]], from which the bridges above the foyer could be accessed via three archways along the eastern wall. This hall contained three pillars resembling upside-down [[warhammer]]s, and the western wall was adorned with an aged [[mosaic]] of a dwarven [[blacksmith]] crafting dwarves out of metal and [[diamond]]s. This mosaic concealed a secret door leading to a dust-filled room containing [[copper]] urns filled with [[coin]]s, [[gem]]s, and other treasures.<ref name="W:DH-p95" /><ref name="W:DH-p96">{{Cite book/Waterdeep: Dragon Heist|96}}</ref>
+
+Each of the three treacherous bridges ended in an adamantine door behind which was a small stone chamber dedicated to a different member of the [[Dwarven pantheon]]:
+* The northernmost of these chambers featured a {{SIAdj|10|foot|long=yes|adj=tall}} statue of [[Gorm Gulthyn]], the armored dwarf [[god]] of vigilance sometimes called "Old Fire Eyes". At its feet was a false trapdoor, and touching it triggered a [[trap]] of fire bursting from the statue's eyes.<ref name="W:DH-p96" />
+* The southernmost chamber could only be accessed by a dwarf, and contained frescoes of dwarven [[smith]]s and an iron [[anvil]]. Upon the anvil 
+
+=== LINKED WIKI PAGE (first 5000 chars): Dagult Neverember
+
+{{DEFAULTSORT:Neverember, Dagult}}
+{{Person
+| image          = Dagult Neverember.jpg
+| caption        = Dagult Neverember circa 1490 DR.
+| name           = Dagult Neverember
+| alt_spelling   = 
+| titles         = Lord Protector of [[Neverwinter]]<br />{{Former}}<small> Open Lord of [[Waterdeep]]</small>
+| aliases        = 
+| nicknames      = "Dagger" Neverember<br />Lord Pretender<br />The Protector
+| true name      = 
+| home           = [[Neverwinter]], [[Sword Coast North]]
+| formerhomes    = [[Waterdeep]]
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elvish]]
+| basicrefs      = <ref name="SCAG-p51"/><ref name="NCS-p88" /><ref name="NCS-p140" /><ref name="RT-p14-15"/><ref name="AM-ch7" />
+| reckoning      = DR
+| dob            = 1429
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="LCoN-p22" />
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Renaer Neverember]]
+| familyrefs     = <ref name="W:DH-p215" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = Lord of Neverwinter:<br />[[Forge Fitzwilliam]] (temporary)<ref name="HAT-TJN-c5" /><br/><br/>Open Lord:<br />[[Laeral Silverhand]]
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Unaligned]]
+| class4e        = {{class table|edition=4e|Soldier|7|}}
+| refs4e         = <ref name="NCS-p88"/>
+| alignment5e    = [[Lawful neutral]]
+| challenge5e    = 
+| class5e        = [[Fighter]]
+| refs5e         = <ref name="RT-p14-15"/>
+}}
+'''Dagult Neverember''' was the wealthy Lord Protector of [[Neverwinter]] during the late 15{{th}} century and turn of the 16{{th}} century [[DR]], as well as the former [[Open Lord]] of [[Waterdeep]].<ref name="SCAG-p51">{{Cite book/Sword Coast Adventurer's Guide|51-52}}</ref><ref name="NCS-p86">{{Cite book/Neverwinter Campaign Setting|86}}</ref><ref name="HoF-p73">{{Cite book/Forgotten Realms: Heroes of Faerûn|73}}</ref> He was a member of the [[Lords' Alliance]]<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref> and one of the most powerful and well-respected men on the entire [[Sword Coast]].<ref name="Bl-ch12">{{Cite book/Boundless||12}}</ref>
+
+==Description==
+Neverember was tall, broad-shouldered,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> and strikingly good-looking,<ref name="W:DH-p215">{{Cite book/Waterdeep: Dragon Heist|215}}</ref> with angular features,<ref name="T-ch8">{{Cite book/Timeless||8}}</ref> a mane of silver-flecked "pumpkin-brown" hair, and deep-set but shining dark eyes.<ref name="LCoN-p22">{{Cite book/Lost Crown of Neverwinter|22}}</ref><ref name="BST-p218">{{Cite book/Blackstaff Tower|218}}</ref> He was often called a "lion of a man" for both his appearance and bearing,<ref name="BST-p218" /> and was said to have the look of a strong ruler.<ref name="FRCG-p198">{{Cite book/Forgotten Realms Campaign Guide|198}}</ref><ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref>
+
+By the end of his tenure as Open Lord, Neverember sported a short but thick beard<ref name="RT-p14-15"/><ref name="DDEK:DC">{{Cite book/Dungeons & Dragons Essentials Kit/Divine Contention}}</ref> that had gone grey.<ref name="DDEK:DC" /><ref name="AM-ch7">{{Cite book/Archmage/MMP (2016)||7}}</ref>
+
+==Personality==
+A consummate politician, Neverember was a capable and inspiring leader<ref name="SCAG-p51" /><ref name="LCoN-p22" /> who was known to be both brave and stately in the face of opposition.<ref name="BST-ch18">{{Cite book/Blackstaff Tower||18}}</ref> He outwardly embodied the ideals of moderation, honesty, and responsibility. He always acted decisively and firmly, with a clear-eyed view of the costs and sacrifices that his decisions entailed,<ref name="RT-p14-15">{{Cite book/The Rise of Tiamat|14-15}}</ref> although his cunning and brutal pragmatism had earned him the nickname "Dagger" Neverember.<ref name="SCAG-p66">{{Cite book/Sword Coast Adventurer's Guide|66}}</ref> He was also ambitious, proud, manipulative, and considered himself to be superior to everyone else&mdash;which made him overconfident<ref name="LCoN-p22" />&mdash;and his quick temper was known to interfere with his judgment,<ref name="W:DH-p215" /><ref name="BST-p221">{{Cite book/Blackstaff Tower|221}}</ref> making him boisterous and dangerous.<ref name="NCS-p10">{{Cite book/Neverwinter Campaign Setting|10}}</ref> However, his charisma,<ref name="LCoN-p22" /> affability,<ref name="NCS-p88">{{Cite book/N
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Dalakhar
+
+{{Person
+| image          = 
+| caption        = 
+| name           = Dalakhar
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Rock gnome]]
+| ethnicity      = 
+| occupation     = [[Thief]] and spy
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1492
+| deathnotes     = (hit by a [[fireball]])<ref name="WDH5e-p43-44" />
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Dalakhar''' was a [[thief]] and spy in [[Waterdeep]] working for Lord [[Dagult Neverember]] in the late 15{{th}} century [[DR]].<ref name="WDH5e-p11">{{Cite book/Waterdeep: Dragon Heist|11}}</ref>
+
+==History==
+In [[1492 DR]],{{WDH-time}} Dalakhar was spying upon [[Renaer Neverember]], the estranged son of his master.<ref name="WDH5e-p49">{{Cite book/Waterdeep: Dragon Heist|49}}</ref> At one point, however, Lord Dagult ordered many of his agents, including Dalakhar, to obtain the ''[[stone of Golorr]]'' from the lair of the [[Xanathar]]. The rock gnome managed to steal the stone, ruining a meeting between Xanathar and the [[Zhentarim]].<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+Later, Dalakhar was targeted by agents of the Zhentarim, the [[Xanathar's Thieves' Guild]], [[Bregan D'aerthe]], and others, making it impossible for him to get out of Waterdeep as planned.<ref name="WDH5e-p43-44" /> For the time being, Dalakhar decided to entrust the stone to some adventurers who had saved Renaer.<ref name="WDH5e-p46" /> However, Dalakhar was ambushed by some Zhentarim led by [[Urstul Floxin]] and hit by a ''[[fireball]]'' launched by the [[nimblewright]] of [[Gralhund|House Gralhund]], killing the rock gnome along with ten more people.<ref name="WDH5e-p43-44">{{Cite book/Waterdeep: Dragon Heist|43-44}}</ref>
+
+==Personality==
+Dalakhar was very loyal to his master, believing Dagult to be the rightful [[Open Lord]] of Waterdeep.<ref name="WDH5e-p46">{{Cite book/Waterdeep: Dragon Heist|46}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+
+===Appearances===
+{{Appearances
+|adventures = ''[[Waterdeep: Dragon Heist]]''
+|video game refs = ''[[Idle Champions of the Forgotten Realms]]''
+|organized play refs = ''[[Once in Waterdeep]]''
+}}
+
+===References===
+{{refs}}
+[[Category:Rock gnomes]]
+[[Category:Gnomes]]
+[[Category:Thieves]]
+[[Category:Spies]]
+[[Category:Members of New Neverwinter]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep: Dragon Heist
+
+{{Book
+| image        = Waterdeep-dragon-heist.png
+| caption      = 
+| code         = 
+| title        = Waterdeep: Dragon Heist
+| author       = [[Christopher Perkins]], [[James Haeck]], [[James Introcaso]], [[Adam Lee]], [[Matthew Sernett]]
+| editor       = [[Michele Carter]], [[Scott Fitzgerald Gray]], [[Kim Mohan]]
+| publisher    = [[Wizards of the Coast]]
+| type         = Adventure
+| languages    = <small>
+* English (original)
+* French (''Waterdeep: Le Vol Des Dragons'')
+* German (''Waterdeep: Drachenraub'')
+* Italian (''Waterdeep: Il Furto dei Dragoni'')
+* Russian (''Вотердип: Драконий куш'')
+* Spanish (''Waterdeep: El Golpe de los Dragones'')</small>
+| reprinted    = 
+| cover_artist = [[Tyler Jacobson]]
+| inter_artist = [[Mark Behm]], [[Eric Belisle]]
+| cartography  = [[Dyson Logos]]<br/>[[Jason A. Engle]] (poster map)
+| realm year   = [[1492 DR]]{{WDH-time}}
+| edition1     = 
+| binding1     = Hardcover
+| released1    = September 18, 2018
+| pages1       = 224
+| isbn10-1     = 
+| isbn13-1     = 978-0-7869-6625-7
+| cite1        = 
+| edition2     = 
+| binding2     = 
+| released2    = 
+| pages2       = 
+| isbn10-2     = 
+| isbn13-2     = 
+| cite2        = 
+| edition3     = 
+| binding3     = 
+| released3    = 
+| pages3       = 
+| isbn10-3     = 
+| isbn13-3     = 
+| cite3        = 
+| edition4     = 
+| binding4     = 
+| released4    = 
+| pages4       = 
+| isbn10-4     = 
+| isbn13-4     = 
+| cite4        = 
+| edition5     = 
+| binding5     = 
+| released5    = 
+| pages5       = 
+| isbn10-5     = 
+| isbn13-5     = 
+| cite5        = 
+| series       = 
+| preceded_by  = 
+| followed_by  = ''[[Waterdeep: Dungeon of the Mad Mage]]''
+| Roll20number = 442484
+| EAN-UPC      = 9780786966257
+| Booksamillion= https://www.dpbolvw.net/click-101530721-13599892?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FDd-Waterdeep-Dragon-Heist-Hc%2FWizards-Coast%2F9780786966257&cjsku=9780786966257
+| Booktopia    = https://booktopia.kh4ffx.net/WyBZ0P
+}}'''''Waterdeep: Dragon Heist''''' is a 5{{th}}-edition ''[[Dungeons & Dragons]]'' adventure that takes place in the city of [[Waterdeep]]. The adventure runs through levels 1&ndash;5 and is followed by the adventure ''[[Waterdeep: Dungeon of the Mad Mage]]''.
+
+{{Quote|<big>'''''Welcome to Waterdeep'''''</big>
+
+''Famed explorer [[Volothamp Geddarm]] needs you to complete a simple quest. Thus begins a mad romp through the wards of Waterdeep as you uncover a villainous plot involving some of the city's most influential figures.''
+
+''A grand urban caper awaits you. Pit your skill and bravado against villains the likes of which you've never faced before, and let the [[dragon (coin)|dragon]] hunt begin!''
+
+''A Dungeons & Dragons<sup>&reg;</sup> adventure for characters of levels 1&ndash;5. For use with the fifth edition ''[[Player's Handbook 5th edition|Player's Handbook]]''<sup>&reg;</sup>, ''[[Monster Manual 5th edition|Monster Manual]]''<sup>&reg;</sup>, and ''[[Dungeon Master's Guide 5th edition|Dungeon Master's Guide]]''<sup>&reg;</sup>.''
+}}
+
+==Chronology==
+The adventure takes place after the events described in ''[[Hoard of the Dragon Queen]]'', ''[[The Rise of Tiamat]]'', ''[[Princes of the Apocalypse]]'',<ref name="WDH5e-p38-39">{{Cite book/Waterdeep: Dragon Heist|38-39}}</ref> and ''[[Tomb of Annihilation]]'',<ref name="WDH5e-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> but does not directly depend on them. It is not set in a particular year, but is assumed to be the [[1492 DR|Year of Three Ships Sailing, 1492 DR]] (see note).
+
+==Contents==
+* Pronunciation Guide
+* Introduction
+* Chapter 1: A Friend in Need
+* Chapter 2: Trollskull Alley
+* Chapter 3: Fireball
+* Chapter 4: Dragon Season
+* Chapter 5: Spring Madness
+* Chapter 6: Hell of a Summer
+* Chapter 7: Maestro's Fall
+* Chapter 8: Winter Wizardry
+* Chapter 9: Volo's Waterdeep Enchiridion
+* Appendix A: Magic Items
+* Appendix B: Monsters and NPCs
+* Appendix C: Handouts
+
+==Index==
+{{IndexLink|Click here for page index}}
+===Characters===
+:;Dragonborn: {{P|[[Rishaal]]|33}} • {{P|[[Thrakkus]]|57,60,64}} • {{P|[[Valetta]]|47}}
+:;Dwarves: {{P|[[Ahmaergo]]|100,'''193'''}} • {{P|[[Elaspra Ulmarr]]|69-70}} • {{P|[[Istrid Horn]]|17,42,'''199'''}} • {{P|[[Jarbokken Frostbeard]]|78}} • {{P|[[Morana Huldark]]|82}} • {{P|[[Noska Ur'gray]]|66,100,'''213'''}} • {{P|[[Ott Steeltoes]]|34,100,'''214'''}} • {{P|[[Thorvin Twinbeard]]|100,101,'''216'''}} • {{P|[[Ulkoria Stonemarrow]]|42}} • {{P|[[Zemk]]|28}}
+:;Elves: {{P|[[Arannis Nur'zekk]]|101}} • {{P|[[Beldar Tlabbath]]|101}} • {{P|[[Davil Starsong]]|17,20,37,39,40,'''199-200'''}} • {{P|[[Draknafein Uriss]]|101}} • {{P|[[Fala Lefaliir]]|32,45,49}} • {{P|[[Fel'rekt Lafeen]]|15,34,72,'''201'''}} • {{P|[[Jarlaxle Baenre]]|6,11,14,15,35,37,48,49,57,60,63-64,67,75,101,'''206'''}} • {{P|[[Krebbyg Masq'il'yr]]|15,34,72,'''202'''}} • {{P|[[Nar'l Xibrindas]]|15,34,63-64,100,101,'''211'''}} • {{P|[[Remallia Haventree]]|16,30,37,68,69,74,76,'''214-215'''}} • {{P|[[Rylvar Tlabbath]]|101}} • {{P|[[Soluun Xibrindas]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Idle Champions of the Forgotten Realms
+
+{{Computer game
+|image        = Idle Champions of the Forgotten Realms cover.png
+|caption      = 
+|name         = Idle Champions of the Forgotten Realms
+|realm year   = ~[[1493 DR]]<ref name="Realms year" group="note">The character profile of [[Drizzt Do'Urden]] states his age to be 196 years old. Seeing as how he was born in [[1297 DR]] (''[[The Grand History of the Realms]]'', p. 132), ''Idle Champions'' must be set in 1493 DR. That being said, the developers have stated they intentionally keep the game's timeline vague, to allow them to pick and choose the characters (or character ''versions'') they want.</ref>
+|developer    = [[Wikipedia:Codename Entertainment|Codename Entertainment]]
+|publisher    = 
+|distributor  = [[Wikipedia:Steam (software)|Steam]]
+|designer     = 
+|released     = September 2017
+|genre        = [[Wikipedia:Incremental game|Idle game]]
+|modes        = Single player
+|ratings      = 
+|engine       = 
+|version      = 
+|platforms    = PC (Windows)<br />Android<br />iOS<br />PS4<br />Xbox One<br />Nintendo Switch
+|media        = 
+|requirements = 
+}}
+'''''Idle Champions of the Forgotten Realms''''' is a free-to-play [[Wikipedia:Incremental game|idle game]] developed by [[Wikipedia:Codename Entertainment|Codename Entertainment]]. It was released for early access on September 7, 2017.
+
+==Description==
+The core gameplay of ''Idle Champions'' revolves around the player selecting "champions" (such as [[Bruenor Battlehammer|Bruenor]], [[Minsc]], and [[Celeste]], among others) to defeat waves of increasingly difficult monsters, thereby accumulating gold. This gold is used to upgrade the player's champions, or unlock new ones. Each individual champion has its own set of unique abilities that empower either themselves or other champions. The player needs to place these champions in a "formation" that facilitates the overall strength of the party to ensure progress can be made against higher-level waves of monsters. As players complete objectives, or reset their current adventure, they accumulate "Favor" with a specific deity, which increases the amount of gold they find in future sessions. Furthermore, players can collect character-specific equipment that permanently boost their champions further, either as random drops, or through purchasing "chests" filled with random items. Equipment comes in four quality tiers, where "Epic" is the highest. Furthermore, equipment can be further boosted by being made "Shiny" (a rare chance at permanent improvement) or "Golden" (an even bigger improvement but generally limited to real-world currency purchases). Finally, "Epic" equipment can be forged into "Legendary" quality, which does not empower the item itself, but rather provides an additional positive effect for the party.
+
+The game can be automated to a degree using the "Modron Automation" system which allows the game to handle all necessary input to repeatedly play itself, in four separate instances, for a period of up to 7 days.
+
+The game is segmented into several "campaigns", each with its own unique Favor, ensuring Favor progress does not carry over between campaigns. Each campaign has a unique formation pattern, forcing players to rethink how to arrange their champions. Some of the campaigns are permanent, while others are event-based and only available for a short time. Event campaigns reward unique champions that are only available to unlock during their respective events. Permanent campaigns are usually adaptations of a tabletop adventure, such as ''[[Tomb of Annihilation]]''. All the campaigns are further divided into "adventures", which are narrative frames for the core gameplay, for example recounting how the champions help rescue a farmer's daughter who has been kidnapped by [[werewolf|werewolves]]. Most adventures also have additional challenge modes, unlocked after meeting various criteria. These challenge modes present the player with new obstacles to overcome, for example through limiting the champions available to choose from. The "Patron" system allows for these challenges to be replayed with even more limitations imposed on the player. For example, selecting the [[Strahd von Zarovich|Strahd]] patron means players are restricted to only using champions with a high intelligence score.
+
+The "end game" of ''Idle Champions'' is the "Trials of Mount Tiamat", a cooperative campaign where five players undertake missions to defeat [[Tiamat]]. Over the course of a week, players must succeed in daily missions to help reach their goal. Success yields "Scales of Tiamat", which is a currency used to forge "Legendary" equipment.
+
+==Index==
+[[File:Idle Champions campfire.png|thumb|300px|''The champions enjoy a well-deserved rest.'']]
+===Characters===
+<!-- Please do not add links to characters from streams. -->
+:;Lore Champions: [[Anson Iro|Anson]] (and [[Uggie]]) • [[Arkhan]] • [[Artemis Entreri|Artemis]] • [[Asharra]] • [[Astarion]] • [[Azaka Stormfang|Azaka]] • [[Baeloth Barrityl|Baeloth]] • [[Baldric
+
+=== LINKED WIKI PAGE (first 5000 chars): Dungeons & Dragons Dice Masters: Adventures in Waterdeep
+
+{{Game
+| image         = [[File:Dice masters adv wtd.jpg|thumb]]
+|caption        = ''Team Pack.''
+| title         = Adventures in Waterdeep
+| code          = 
+| realmyear     = 
+| manufacturer  = 
+| publisher     = [[Wikipedia:WizKids|WizKids]]
+| distributor   = [[Wizards of the Coast]]
+| editor        = 
+| designer      = [[Mike Elliott]], [[Eric M. Lang]]
+| illustrator   = 
+| cover         = 
+| released      = January 2020 
+| type          = Board Game
+| ratings       = 
+| website       = [https://wizkids.com/dicemasters/dd-dice-masters-adventures-in-waterdeep-team-pack/] 
+| isbn          =
+| isbn10        = 
+| isbn13        = 
+| source        =
+| players       = 2
+| age           = 14+
+| setup_time    = 
+| playing_time  = 30-60 min
+| random_chance = 
+| mechanics     =  Deck, Bag, and Pool Building, Dice Rolling, Variable Player Powers 
+| materials     = 
+}}
+'''''Dungeons & Dragons Dice Masters: Adventures in Waterdeep''''' is a  24-card and 16-dice team pack for a dice-building game set in ''[[Forgotten Realms]]''. It utilizes WizKids Games' proprietary Dice Building Game platform in which two players take the role of warlords, collect and assemble their "party" of adventurer dice and battle in head-to-head gameplay.
+
+{{Quote|''The Dungeons & Dragons Dice Masters: Adventures in Waterdeep Team Packfeatures the most beloved characters from Waterdeep, including Brawlwin Chainminer, the Black Viper, Jarlaxle, Durnan, and several characters making their very first appearances in Dice Masters!''}}
+
+==Gameplay==
+Each turn, players roll the dice to see what resources they have available, buy dice, send their party members into the field, and then strike at the enemy warlord. There are multiple cards available for each type of die so players get to choose which one to use. This lets players specialize dice to suit play style.
+
+==Index==
+;Characters: [[Black Viper]] &bull; [[Brawlwin Chainminer]] &bull; [[Dagny Halvor]] &bull;  [[Durnan]] &bull; [[Jarlaxle]] &bull; [[Vajra Safahr]]
+::{{refonly}}
+::[[Hitch]]
+
+;Creatures: [[aboleth]] &bull; [[drow]] &bull; [[dwarf]] &bull; [[half-orc]] &bull; [[human]] ([[Tethyrian]])
+::{{refonly}}
+::[[Walking Statues of Waterdeep]]
+
+;Locations: [[Waterdeep]] &bull; [[Yawning Portal]]
+::{{refonly}}
+::[[Undermountain]]
+
+;Organizations: [[Force Grey]] &bull; [[Lords' Alliance]]
+
+;Religions: [[Gond]]
+
+;Other: ''[[Blackstaff (staff)]]'' &bull; ''[[Stone of Golorr]]''
+::{{refonly}}
+::[[ale]]
+
+==Appendix==
+===External Links===
+{{External link disclaimer}}
+* [https://wizkids.com/dicemasters/dd-dice-masters-adventures-in-waterdeep-team-pack/ Dungeons & Dragons Dice Masters: The Zhentarim]
+[[Category:Board games]]
+[[Category:Dice Masters games]]
+[[Category:Published in 2020]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Once in Waterdeep
+
+{{DEFAULTSORT:Once in Waterdeep}}
+{{Adventurers league
+| image        = Once in Waterdeep.png
+| caption          = 
+| code         = DDEP08-00
+| title        = Once in Waterdeep
+| design           = [[Will Doyle]]<ref name="DDEP08-p1">{{Cite adventurers league/Once in Waterdeep|1}}</ref>
+| editor           = [[Claire Hoffman]], [[Travis Woodall]]<ref name="DDEP08-p1"/>
+| publisher        = [[Wizards of the Coast]] 
+| cover_artist     = 
+| inter_artist     = 
+| cartography      = 
+| pages            = 45
+| debut            = August 2018 <small>(Dragon Con/Tri-Con)</small>
+| released         = September 4, 2018
+| story arc        = ''[[Adventurers League/Waterdeep|Waterdeep]]''
+| realm year       = [[1492 DR]]{{WDH-time}}<ref group="note">The presence of characters and storylines from ''[[Waterdeep: Dragon Heist]]'' implies it is contemporaneous with that adventure, so the same presumed date is assumed here.</ref>
+| setting          = [[Waterdeep]]
+| game_edition     = 5
+| play_time        = 4 hours
+| players          = 
+| levels           = 1{{st}} – 4{{th}}
+| series           = [[Adventurers League]]
+| preceded_by      = 
+| followed_by      = ''[[The Map with No Names]]''
+| Roll20number     = 250993
+}}
+'''''Once in Waterdeep''''' is an adventure module set in the ''Forgotten Realms'' using the ''Dungeons & Dragons'' 5{{th}} edition ruleset. It is part of the ''[[Adventurers League/Waterdeep|Waterdeep]]'' series of adventures published for the [[Adventurers League|D&D Adventurers League]]. It focuses on [[Waterdeep]], and is an adventure designed for 1{{st}}- to 4{{th}}-level characters.
+
+{{Quote|''Who knows why adventurers are drawn together? The lust for gold, a common foe, or the whimsy of fate? Pull up a stool, stoke the hearth, and let YOUR story begin!''<ref name="DDEP08-p1"/>|}}
+
+==Index==
+===Characters===
+:[[Bellwish Grady]] • [[Blossom Snobeedle]] • [[Bonnie]] • [[Diahne Icewilder]] • [[Durnan]] • [[Helmagog]] • [[Jalester Silvermane]] • [[Lug Grimsditch]] • [[Malleus Grimehouse]] • [[Mattrim Mereg]] • [[Meloon Wardragon]] • [[Merry Dwindlejoy]] • [[Rusty Bighat]] • [[Savra Belabranta]] • [[Sh'vis Jhalavar]] • [[Urlon Vhrule]] • [[Valas Trapp]] • [[Yagra Stonefist]]
+:;{{Refonly}}
+::<small>[[Ammalia Cassalanter]] • [[Dalakhar]] • [[Jarlaxle Baenre]] • [[Manshoon]] • [[Victoro Cassalanter]]</small>
+
+===Creatures===
+:[[animated armor]] • [[cat]] • [[doppelganger]] • [[drow]] • [[goblin]] • [[halfling]] • [[half-elf]] • [[half-orc]] • [[human]] • [[imp]] • [[kenku]]
+:;{{Refonly}}
+::<small>[[gnome]]</small>
+
+===Locations===
+;Buildings: [[Yawning Portal]]
+;Region: [[Sword Coast]]
+;Settlements: [[Waterdeep]]
+:;{{Refonly}}
+::<small>[[Menzoberranzan]]</small>
+
+===Magic===
+;Spells: ''[[burning hands]]'' • ''[[cone of cold]]'' • ''[[counterspell]]'' • ''[[cure wounds]]'' • ''[[detect magic]]'' • ''[[disguise self]]'' • ''[[divination]]'' • ''[[fire bolt]]'' • ''[[fireball]]'' • ''[[fly]]'' • ''[[greater invisibility]]'' • ''[[greater restoration]]'' • ''[[hypnotic pattern]]'' • ''[[ice storm]]'' • ''[[identify]]'' • ''[[illusory script]]'' • ''[[infernal calling]]'' • ''[[lesser restoration]]'' • ''[[light]]'' • ''[[locate creature]]'' • ''[[mage armor]]'' • ''[[mage hand]]'' • ''[[magic missile]]'' • ''[[mending]]'' • ''[[misty step]]'' • ''[[prayer of healing]]'' • ''[[prestidigitation]]'' • ''[[raise dead]]'' • ''[[remove curse]]'' • ''[[revivify]]'' • ''[[Shield (spell)|shield]]'' • ''[[speak with dead]]'' • ''[[suggestion]]'' • ''[[true resurrection]]''
+:;{{Refonly}}
+::<small>[[stone of Golorr]]</small>
+
+===Organizations===
+:[[City Watch (Waterdeep)|City Watch]] • [[Force Grey]]
+:;Player Factions:  [[Emerald Enclave]] • [[Harpers]] • [[Lords' Alliance]] • [[Order of the Gauntlet]] • [[Zhentarim]]
+:;{{Refonly}}
+::<small>[[Cassalanter]] • [[Cult of the Howling Hatred]]</small>
+
+===Religions===
+:;{{Refonly}}
+::<small>[[Eilistraee]] • [[Tyr]]</small>
+
+===Miscellaneous===
+:;Food and drink: [[Welcomer's Brew]]
+
+==Credits==
+* '''D&D Adventurers League Guildmaster:''' [[Chris Lindsay]]
+* '''D&D Adventurers League Wizards Team:''' [[Chris Lindsay]], [[Adam Lee]], [[Mike Mearls]], [[Matt Sernett]]
+* '''D&D Adventurers League Administrator(s):''' [[Claire Hoffman]], [[Lysa Chen]], [[Bill Benham]], [[Travis Woodall]], [[Greg Marks]], [[Alan Patrick]]
+* '''Art Director & Graphic Design:''' [[Rich Lescouflair]]
+* '''Playtesters:''' Alex Crouzen, Arthur Saucier, Ben Siekert, Chris McGovern, Dan Taylor, Daniel Oliveira, David N Krolnik, Gary Affeldt, Genesis Martinez, GM Tim, Greg Marks, Justin Faris, Lee Brimmicombe-Wood, Marcello Valazquez, Mik Calow, Monika Milkova, Sean Mittelstaedt, Thomas Valley
+==Appendix==
+===Notes===
+{{notes}}
+===External Links===
+{{External link disclaimer}}
+* {{DMsGuild-AL}}
+* {{DriveThruRPG-AL}}
+* [https://web.archive.org/web/20201129103539/dndadventurersleague.org/storyline-seasons/waterdeep-adventures/ Waterdeep Adventurer's League]
+===References===
+{{Refs}}
+===Connections===
+
+{{Adventurers
+

@@ -1,0 +1,141 @@
+## sources/adventure-wdh.json lines 30461-30502
+sources/adventure-wdh.json:30461: "name": "A Long History (in Brief)",
+sources/adventure-wdh.json:30462: "page": 164,
+sources/adventure-wdh.json:30463: "id": "43e",
+sources/adventure-wdh.json:30464: "entries": [
+sources/adventure-wdh.json:30465: {
+sources/adventure-wdh.json:30466: "type": "quote",
+sources/adventure-wdh.json:30467: "entries": [
+sources/adventure-wdh.json:30468: "There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true."
+sources/adventure-wdh.json:30469: ],
+sources/adventure-wdh.json:30470: "by": "Ahghairon, the first Open Lord of Waterdeep, circa 1032 DR"
+sources/adventure-wdh.json:30471: },
+sources/adventure-wdh.json:30472: "People have inhabited the plateau upon which Waterdeep stands for longer than human histories record. But as is the way across the dangerous North, civilization at the foot of Mount Waterdeep has crested and ebbed in great waves. Elf scholars assure me that it was once the site of Aelinthaldaar, the capital of their ancient empire of Illefarn. So it was already a glorious place when a dwarf prospector named Melair discovered mithral beneath the mountain. In agreement with the Illefarni, Melair called kith and kin to mine under the mountain and in the plateau, and thus Clan Melairkyn came to rule below as the Illefarni did above.",
+sources/adventure-wdh.json:30473: "But this fruitful alliance lasted less than the lifetime of a dwarf, for the emperor of the elves\u2014what they call a \"coronal\"\u2014commanded that all leave in the Retreat, that great exodus of elves from Faerûn to their mystical isle of Evermeet. Not all elves agreed with this edict, and many were determined to stay. Well, what emperor has ever willingly allowed another to sit in his throne? The coronal had all of Aelinthaldaar razed by magic, and the remaining elves splintered into separate kingdoms. The Melairkyn, of course, saw this as a breaking of their bargain, and never again did they deal with elves. Instead, they tunneled ever deeper under the mountain, never to be heard from again.",
+sources/adventure-wdh.json:30474: "So it was that the humans who came to the deepwater harbor found it empty and suitable for their own purposes. For more than a thousand years, folk lived and traded at the site of what would become Waterdeep, but their identities remain a mystery\u2014with a curious exception. We know that at some point during this period, the wizard Halaster Blackcloak built his tower at the base of Mount Waterdeep and came to rule the lands around\u2014until he, like the Melairkyn, vanished under the mountain.",
+sources/adventure-wdh.json:30475: "Various warlords later claimed the plateau's harbor as their own, but it was one known as Nimoar who is best remembered. A History of Waterdeep: Age One, The Rise of the Warlord records how Nimoar raised a wooden stockade to protect the settlement around the harbor, claiming rule over the town that by then was being called \"Nimoar's Hold, the Town of Waters Deep.\" War between orcs and elves in lands farther north drove hordes of trolls south to claw at the fledgling city, and amid this danger, Nimoar died of old age. Many bloody struggles unfolded between local folk and {@creature troll||trolls}, until the magic of a youth named Ahghairon turned the fortunes of war against the \"everlasting ones, \"which were destroyed or scattered. Ahghairon improved slowly in skill and power with the passage of the years, until he became a great mage. He is said to have discovered a supply of potions of longevity, or learned the art of making such, for he lived on and on, still physically in his prime for decade after decade. {@i A History of Waterdeep: Age Two}, The Lords' Rule Begins records that in the year 1032 DR, Ahghairon (then in his 112th winter) argued with Raurlor, who was then Warlord of Waterdeep. Raurlor wanted to use Waterdeep's acquired wealth and strength of arms to create a northern empire. Ahghairon defied him before all the people, and Raurlor ordered the mage to be chained. But when Ahghairon magically turned aside all who sought to lay hands on him, Raurlor struck at the mage with his own sword. Ahghairon then rose into the air, just out of reach, and used his magic to transmute Raurlor's blade into a hissing serpent. When the serpent struck Raurlor, he died in full view of his shocked followers.",
+sources/adventure-wdh.json:30476: "Ahghairon then gathered the leaders of Waterdeep's armies and powerful families. While runners sought to bring them to the castle, flames roared and crackled in the empty warlord's throne at Ahghairon's bidding, so that none could sit there. Then, when the gathered host of worthies met in the audience chamber, the wizard seated himself on the flaming throne. Immediately the fires died away, leaving both the throne and Ahghairon unharmed.",
+sources/adventure-wdh.json:30477: "From this seat-the very one on which the Open Lord sits to this day-Ahghairon decreed how the city would be governed. While he would sit as lord openly, a council of other lords of nearly equal power would rule with him. But the identity of those other lords would be hidden even from each other, thus preventing any of them from being approached and influenced by bribe or threat. So it was that Ahghairon established Waterdeep's system of governance.",
+sources/adventure-wdh.json:30478: "Ahghairon was instrumental in establishing many of Waterdeep's other institutions, such as its black-robed magisters, its Griffon Cavalry, and the city's many guilds. The first Open Lord ruled wisely for over two centuries before the magic sustaining his health failed. He now lies entombed in his tower, which you can still see standing in the courtyard of the Palace of Waterdeep. Beware that you don't approach too close, however, lest you stumble into the invisible barrier-a \"force cage,\" I am told-that surrounds the tower.",
+sources/adventure-wdh.json:30479: "Within that barrier lie additional protective wards, as demonstrated by the floating bones of the last person who tried to defy them. The name of this poor soul has been lost to time, but the miscreant was likely a wizard who sought to steal the magic treasures that had been entombed with their former owner. Now they hang in the air beyond the invisible force cage in rough semblance of their natural position, occasionally displaced temporarily by strong winds or mischievous children with long sticks.",
+sources/adventure-wdh.json:30480: "Ahghairon's wise rule is celebrated on the first day of Eleasis, which has come to be known as Ahghairon's Day. For more about this day, see \"City Celebrations.\"",
+sources/adventure-wdh.json:30481: "Many significant events stand out in Waterdeep's history. But none have had so great an effect on daily life than the three apocalyptic periods known as the Time of Troubles, the Spellplague, and the Sundering-the most recent (and hopefully final). On all these occasions, the actions of gods at war with one another led to the loss or the twisting of magic in the world. During the Time of Troubles, Waterdeep stood at the center of events. But the effects of the more recent crises can still be seen in the city today, even though they occurred a great distance from where Waterdeep stands.",
+sources/adventure-wdh.json:30482: "When the gods walked among mortals during the Time of Troubles, they were cast down to the world by the mysterious Overgod Ao in 1358 DR. Until then, none but the gods had known of Ao's existence, and since then, we have learned little more. As all know, the crisis began with the theft of the Tablets of Fate by the vile and ambitious gods Bane and Myrkul, later joined by Bhaal. These mystic artifacts supposedly determine the extent of the gods' power, and dictate how they use that power. As punishment for this affront, Ao cast down the gods (or the ones that humans worshiped, at any rate) and then demanded that they return the tablets to him.",
+sources/adventure-wdh.json:30483: "But Ao was not omniscient, it seems, nor overly wise. The gods didn't seek out the tablets, and thus it was left to mortal heroes to sort out the mess. They did so, their efforts culminating in Waterdeep. It was on the slopes of Mount Waterdeep that Ao was last seen, when he granted godhood to the human heroes Kelemvor, Midnight (who became Mystra), and Cyric.",
+sources/adventure-wdh.json:30484: "It is no surprise, then, that Waterdeep has since attracted a steady stream of pilgrims who worship Midnight at Mystra's temple and pay homage to Kelemvor in the City of the Dead. It might surprise you, though, to learn that Waterdavians had a short-lived penchant for worshiping Ao. The Cynosure-that great marble-pillared structure on the edge of the Market, now rented out for private and public events-was built as a temple to Ao. But his worship fell from favor when all prayers to him went unanswered, and folk realized they had no idea what he stood for or who he was. You can visit the Cynosure to see sculptures and paintings of all the major participants and events in the Time of Troubles. Entrance is free to the public on any day when no event (such as a meeting of guilds, a noble's coming-of-age ball, or some such) is scheduled.",
+sources/adventure-wdh.json:30485: "In the Year of Blue Fire (1385 DR), the Spellplague gripped the world. None knew it at the time, but it has since been divined that Cyric's long hatred for Mystra boiled over and led to his murder of the goddess of magic. I was absent from the world at this time-indisposed by the force of an {@spell imprisonment} spell. Elminster has since explained the events to me, but I must confess that much of what he said made little sense. It was a long lecture having something to do with stars, \"crystal spheres,\" and \"demiplanar reality mirrors.\" Suffice it to say, parts of our world switched with parts of another one, and magic was again disrupted.",
+sources/adventure-wdh.json:30486: "During this period, the powerful magical fields that protect and affect Waterdeep became unstable. This led to the disastrous activation of most of Waterdeep's amazing walking statues during an earthquake. In the years before, the walking statues were often hidden on the Ethereal Plane, to be called forth only in times of great peril. Many in the city doubted that such massive, sapient constructs were even real, let alone that they guarded the city invisibly. The Spellplague confirmed their existence for all to see, though, and each carved a swath of destruction through Waterdeep before it was stopped. Now the walking statues stand about the city in various states of readiness or disarray-one of the most obvious of Waterdeep's so-called splendors.",
+sources/adventure-wdh.json:30487: "After the Spellplague came the Sundering. Elf scholars insist on calling it the Second Sundering, asserting that the creation of Evermeet thousands of years ago was a similar happening. Regardless of the name you give it, the event that unfolded beginning in 1482 DR was the result of another world-called Abeir, I am told-passing again into our own. The gods were once more cast into the mortal realm, this time embodied in mortal beings known as Chosen. The old troublemaker Ao seems to be the cause of it all, though why he chose to cast down the gods was a matter of dispute even among those entities while they were with us.",
+sources/adventure-wdh.json:30488: "Apparently, all of this was foreseen by Waterdeep's legendary wizard Khelben Arunsun, and it was only through his wisdom and the efforts of Elminster, {@creature Laeral Silverhand|WDH}-now the Open Lord of Waterdeep-and a handful of others that the world was saved. According to Elminster, Ao remade the Tablets of Fate as a result, restoring the divine order and separating Abeir from Toril. But take that as you may. According to that roguish longbeard, he saves the world without anyone noticing every other month or so.",
+sources/adventure-wdh.json:30489: {
+sources/adventure-wdh.json:30490: "type": "image",
+sources/adventure-wdh.json:30491: "href": {
+sources/adventure-wdh.json:30492: "type": "internal",
+sources/adventure-wdh.json:30493: "path": "adventure/WDH/Sea-Maiden's-Faire.webp"
+sources/adventure-wdh.json:30494: },
+sources/adventure-wdh.json:30495: "title": "The Sea Maiden's Faire Parade",
+sources/adventure-wdh.json:30496: "width": 1000,
+sources/adventure-wdh.json:30497: "height": 691
+sources/adventure-wdh.json:30498: }
+sources/adventure-wdh.json:30499: ]
+sources/adventure-wdh.json:30500: },
+sources/adventure-wdh.json:30501: {
+sources/adventure-wdh.json:30502: "type": "section",
+
+## sources/adventure-wdh.json lines 31188-31282
+sources/adventure-wdh.json:31188: "name": "The Walking Statues",
+sources/adventure-wdh.json:31189: "page": 182,
+sources/adventure-wdh.json:31190: "id": "469",
+sources/adventure-wdh.json:31191: "entries": [
+sources/adventure-wdh.json:31192: "Over a century ago, just one of these eight behemoth statues stood visible at the northern foot of Mount Waterdeep, on a bluff called Gull Leap. Ninety feet tall, it resembled a bald human staring out to sea. Later events (discussed below) caused it to be transformed into the statue known today as the Sahuagin Humbled.",
+sources/adventure-wdh.json:31193: "When the Spellplague gripped Waterdeep in 1385 DR, six more walking statues suddenly appeared in the city, wandering to wreak havoc even as the Sahuagin Humbled remained motionless. The authorities and citizens of Waterdeep succeeded in stopping three of these new statues, breaking the Swordmaiden and the Hawk Man, and sinking the God Catcher into the street up to its waist. Then all the statues mysteriously stopped their rampage just as quickly as they had begun it. Tsarra Chaadren, the Blackstaff at the time, couldn't command them to return to their former hiding places on the Ethereal Plane. Consequently, the city repaired itself and built up around them. Much later, in 1479 DR, the eighth statue-the Griffon-emerged from the Ethereal Plane to defend Ahghairon's Tower against intrusion. It roosted there for a time before flying to its current position near Peaktop Aerie on Mount Waterdeep. Once more, this activity seemed to be outside the Blackstaff's control. Thankfully, all the walking statues have been dormant for well over a decade now, serving only as beautiful, cyclopean reminders of Waterdeep's might.",
+sources/adventure-wdh.json:31194: {
+sources/adventure-wdh.json:31195: "type": "entries",
+sources/adventure-wdh.json:31196: "name": "The God Catcher",
+sources/adventure-wdh.json:31197: "page": 182,
+sources/adventure-wdh.json:31198: "id": "46a",
+sources/adventure-wdh.json:31199: "entries": [
+sources/adventure-wdh.json:31200: "This is perhaps the most famous walking statue in the city, thanks to its dramatic pose, its nearness to the Market, and the self-evident magic of its existence. The statue is of a well-muscled but impassive male human with its left leg sunk to the hip in the street, the result of a spell cast by the Blackstaff at the time of its rampage. Its left hand and right foot press against the ground as if it is trying to pull itself out. Its right arm is raised skyward, and above its open palm floats a sphere of stone. Its gaze looks up toward the sphere, and the pattern of bird droppings around its eyes gives it the appearance of weeping.",
+sources/adventure-wdh.json:31201: "All about the statue, climbing up its chest and on its knee and shoulders, is a tenement that carries the name \"the God Catcher.\" The tenement's landlord is Aundra Blackcloak, an unsociable sorcerer who is rarely seen in the city except when she alights from the door carved in the floating sphere, which serves as her home. On the rare occasions when she wants to meet with city folk (typically to purchase odd substances for magical purposes), she appears unannounced on balconies or rooftops after dark. Her dealings are polite, though, and she pays fair coin. She never confides in anyone or talks about her own doings-and if anyone but she has ever seen the inside of her spherical home, they've said nothing publicly about it.",
+sources/adventure-wdh.json:31202: {
+sources/adventure-wdh.json:31203: "type": "image",
+sources/adventure-wdh.json:31204: "href": {
+sources/adventure-wdh.json:31205: "type": "internal",
+sources/adventure-wdh.json:31206: "path": "adventure/WDH/God-Catcher.webp"
+sources/adventure-wdh.json:31207: },
+sources/adventure-wdh.json:31208: "title": "The God Catcher looming in the background",
+sources/adventure-wdh.json:31209: "width": 1000,
+sources/adventure-wdh.json:31210: "height": 681
+sources/adventure-wdh.json:31211: }
+sources/adventure-wdh.json:31212: ]
+sources/adventure-wdh.json:31213: },
+sources/adventure-wdh.json:31214: {
+sources/adventure-wdh.json:31215: "type": "entries",
+sources/adventure-wdh.json:31216: "name": "The Griffon",
+sources/adventure-wdh.json:31217: "page": 183,
+sources/adventure-wdh.json:31218: "id": "46b",
+sources/adventure-wdh.json:31219: "entries": [
+sources/adventure-wdh.json:31220: "The walking statue called the Griffon is shaped like the beast for which it is named. Though it stands on all four legs, its back is fully twenty feet off the ground, making it a mount fit for a storm giant. Although it has shown itself to be capable of flight, with the granite feathers of its wings spreading like a bird's, the Griffon now merely stands in a regal pose near Peaktop Aerie atop Mount Waterdeep, looking to the southeast over the Dock Ward. Newcomers sometimes assume it to be a monument to Waterdeep's Griffon Cavalry, but Waterdavians know better."
+sources/adventure-wdh.json:31221: ]
+sources/adventure-wdh.json:31222: },
+sources/adventure-wdh.json:31223: {
+sources/adventure-wdh.json:31224: "type": "entries",
+sources/adventure-wdh.json:31225: "name": "The Sahuagin Humbled",
+sources/adventure-wdh.json:31226: "page": 183,
+sources/adventure-wdh.json:31227: "id": "46c",
+sources/adventure-wdh.json:31228: "entries": [
+sources/adventure-wdh.json:31229: "For years, the only visible walking statue of Waterdeep was known simply as \"the walking statue.\" It stood at the foot of Mount Waterdeep near the head of Julthoon Street. Then, after its critical role in defending the city against an invasion of sahuagin in 1370 DR, Khelben Blackstaff reshaped the statue into a sahuagin. It now bows low toward the House of Heroes on bended knee-a gesture of obeisance to the city, and an acknowledgment of the sacrifice of all who fought for the city in that war."
+sources/adventure-wdh.json:31230: ]
+sources/adventure-wdh.json:31231: },
+sources/adventure-wdh.json:31232: {
+sources/adventure-wdh.json:31233: "type": "entries",
+sources/adventure-wdh.json:31234: "name": "The Great Drunkard",
+sources/adventure-wdh.json:31235: "page": 183,
+sources/adventure-wdh.json:31236: "id": "46d",
+sources/adventure-wdh.json:31237: "entries": [
+sources/adventure-wdh.json:31238: "This walking statue stopped its rampage as it approached the Market, then fell backward and sat upon a building. When it settled, its arms fell limp at its sides and its head tilted forward onto its chest, giving the impression that it had fallen asleep. The statue's huge stone battleaxe still stands nearby, its haft angled upright and its blade half buried in the cobbles. The rubble of the crushed building was long ago rebuilt into a broad stone stair (with railings and a ramp that drunkards are often rolled down) that ascends from the cobbles to the statue's lap. That lap now holds a two-story tavern also built from the rubble, called Gralkyn's Tankard. The {@condition unconscious} pose of the statue and the tavern in its lap made the name of the Great Drunkard a natural fit."
+sources/adventure-wdh.json:31239: ]
+sources/adventure-wdh.json:31240: },
+sources/adventure-wdh.json:31241: {
+sources/adventure-wdh.json:31242: "type": "entries",
+sources/adventure-wdh.json:31243: "name": "The Lady Dreaming",
+sources/adventure-wdh.json:31244: "page": 183,
+sources/adventure-wdh.json:31245: "id": "46e",
+sources/adventure-wdh.json:31246: "entries": [
+sources/adventure-wdh.json:31247: "This fair lady caused much chaos when she was active. The statue has the appearance of a female elf, whose hair and clothing appeared to flow naturally as it walked through the city during the Spellplague. When the walking statues stopped, this one toppled onto its side, taking on the appearance of a titanic sculpture of a noble lady asleep in her garden."
+sources/adventure-wdh.json:31248: ]
+sources/adventure-wdh.json:31249: },
+sources/adventure-wdh.json:31250: {
+sources/adventure-wdh.json:31251: "type": "entries",
+sources/adventure-wdh.json:31252: "name": "The Honorable Knight",
+sources/adventure-wdh.json:31253: "page": 183,
+sources/adventure-wdh.json:31254: "id": "46f",
+sources/adventure-wdh.json:31255: "entries": [
+sources/adventure-wdh.json:31256: "The Honorable Knight is a statue of a male warrior in plate armor with a shield and {@item longsword|PHB}. When the walking statues stopped, it bowed to those opposing it, straightened, sheathed its sword, and doffed its shield, setting it point down on the ground and upright by its side. It then ceased motion in this position, facing southwest toward the harbor, and looking for all the world like a castle guard standing at ease. The pose it assumed led to its naming, and it is viewed with respect by the citizens of the southerly wards."
+sources/adventure-wdh.json:31257: ]
+sources/adventure-wdh.json:31258: },
+sources/adventure-wdh.json:31259: {
+sources/adventure-wdh.json:31260: "type": "entries",
+sources/adventure-wdh.json:31261: "name": "The Hawk Man",
+sources/adventure-wdh.json:31262: "page": 183,
+sources/adventure-wdh.json:31263: "id": "470",
+sources/adventure-wdh.json:31264: "entries": [
+sources/adventure-wdh.json:31265: "This statue looks like a winged, hawk-headed being, and thus locals call it the Hawk Man. I can reveal that in fact it bears much resemblance to an aarakocra, one of the bird-people said to live in the Star Mounts in the High Forest. The statue's wings are folded tightly against its back and have never unfurled, leaving its flight capability uncertain. It was brought low during its rampage across the city, and now it tilts decidedly toward the northeast due to a missing right foot-long ago broken up for building rubble, along with its right arm. Its left arm is extended out toward the north, palm forward as if in a gesture to say, \"Stop.\"",
+sources/adventure-wdh.json:31266: "The body has been hollowed out and turned into a tower shared by several wealthy tenants, which is officially known as Sparaunt Tower after its owner. The statue's left hand extends over a courtyard to the north, wherein lies the entrance of a tunnel carved through the arm. Visitors and residents can ring a bell in the courtyard, whereupon a door guard acknowledges the ringer and lowers a rope ladder for tenants and expected guests (or a rope chair that is drawn up for guests who are infirm or laden with heavy items)."
+sources/adventure-wdh.json:31267: ]
+sources/adventure-wdh.json:31268: },
+sources/adventure-wdh.json:31269: {
+sources/adventure-wdh.json:31270: "type": "entries",
+sources/adventure-wdh.json:31271: "name": "The Swordmaiden",
+sources/adventure-wdh.json:31272: "page": 183,
+sources/adventure-wdh.json:31273: "id": "471",
+sources/adventure-wdh.json:31274: "entries": [
+sources/adventure-wdh.json:31275: "This statue appears virtually identical to the Honorable Knight, except for its female form and open-faced helm. It was felled during the Spellplague after causing much chaos and slaughter. The residents of Waterdeep's North Ward funneled much of their frustrated and dismayed reaction to its rampage into dismantling the statue, parts of which can now be found all over the North Ward, either incorporated into buildings or as bits of freestanding sculpture.",
+sources/adventure-wdh.json:31276: "The head of the Swordmaiden sits in a stand of tall trees in the center of the block of the North Ward bounded by Hassantyr's Street, Tarsar's Street, Whaelgond Way, and Ussilbran Street. The center of its jaw and mouth have been replaced by a door, which leads into the shop known as Thort's Findings. Undevvur Thort is a wizened ex-adventurer who leans on a cane (which some locals insist is more than just a cane). He lives in the small shop, whose many levels, staircases, and landings fill the hollowed-out interior of the head, and which is crammed with oddments sold to Thort by adventurers and other travelers. These items bear little placards in Thort's beautiful, flowing handwriting that identify them (or at least provide speculation as to their origin and purpose). Nobles and wealthy merchants who desire props for themed revels often rent some of Thort's wares as decoration-and many sages, alchemists, and wizards visit him regularly in search of potentially useful items."
+sources/adventure-wdh.json:31277: ]
+sources/adventure-wdh.json:31278: }
+sources/adventure-wdh.json:31279: ]
+sources/adventure-wdh.json:31280: },
+sources/adventure-wdh.json:31281: {
+sources/adventure-wdh.json:31282: "type": "inset",
+

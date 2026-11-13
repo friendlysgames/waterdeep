@@ -1,0 +1,33 @@
+## sources/adventure-wdh.json lines 30510-30540
+sources/adventure-wdh.json:30510: "name": "The Code Legal",
+sources/adventure-wdh.json:30511: "page": 167,
+sources/adventure-wdh.json:30512: "id": "440",
+sources/adventure-wdh.json:30513: "entries": [
+sources/adventure-wdh.json:30514: "Waterdeep is no village led by hidebound hierarchs or petty fiefdom ruled by the whim of a warlord. It is a city of laws molded by Tyr's spirit of justice. As a rule, you can trust members of the City Watch to do their duty diligently, and you can expect that the city's magisters will be fair. If you have cause to come before the Masked Lords or the Open Lord herself, rest assured that if your cause be just, justice will be done. If, however, you find yourself in the wrong, know that though it might take time to weigh that wrong on Tyr's scales, his hammer will fall\u2014and it will be wielded by Waterdeep with a vengeance.",
+sources/adventure-wdh.json:30515: "Unlike in less civilized settlements, punishment for crimes in Waterdeep isn't typically used as public entertainment. Scheduled executions occur behind the high walls of Castle Waterdeep, and floggings are carried out in the watch post nearest the sentencing. The Watch makes every effort to take individuals into custody quietly, so as not to disrupt other citizens. Those bystanders generally return the favor by giving altercations between criminals and the Watch a wide berth.",
+sources/adventure-wdh.json:30516: "Waterdeep has a complex library of law and custom set by precedent, the main body of which can be read in the Code Legal. This document is available in multiple languages at the Palace of Waterdeep, and (in the Common tongue) provided on request by the magisters at the gates and in the harbor. Be aware that the Code Legal provides only an outline of typical sentences for various offenses, and magisters have broad discretion when meting out justice as they see fit. Any Masked Lord can overturn a magister's ruling, but there's rarely a Masked Lord around when you need one.",
+sources/adventure-wdh.json:30517: {
+sources/adventure-wdh.json:30518: "type": "image",
+sources/adventure-wdh.json:30519: "href": {
+sources/adventure-wdh.json:30520: "type": "internal",
+sources/adventure-wdh.json:30521: "path": "adventure/WDH/Street-Scene.webp"
+sources/adventure-wdh.json:30522: },
+sources/adventure-wdh.json:30523: "width": 1000,
+sources/adventure-wdh.json:30524: "height": 686
+sources/adventure-wdh.json:30525: }
+sources/adventure-wdh.json:30526: ]
+sources/adventure-wdh.json:30527: },
+sources/adventure-wdh.json:30528: {
+sources/adventure-wdh.json:30529: "type": "entries",
+sources/adventure-wdh.json:30530: "name": "Arms, Armor, and Combat",
+sources/adventure-wdh.json:30531: "page": 167,
+sources/adventure-wdh.json:30532: "id": "441",
+sources/adventure-wdh.json:30533: "entries": [
+sources/adventure-wdh.json:30534: "Individuals accustomed to the rough-and-tumble life in much of the North are often surprised by the fact that Waterdavians go about unarmed and unarmored. Yet Waterdeep doesn't have any law that forbids carrying weapons or armor. Instead, it has a culture of civility that makes such behavior unnecessary.",
+sources/adventure-wdh.json:30535: "Dueling has long been illegal in Waterdeep, as has any sort of act involving assault. Individuals caught brawling by the Watch will all be arrested and judged regardless of who started the fracas, or why. (The tavern brawls that typically break out under the influence of too much drink will often be overlooked by the Watch, as long as the proprietor doesn't seek payment for damages and no one is significantly injured.) Sport fighting, such as boxing or wrestling, is legal only if it occurs in a location registered with the city for that purpose. Additionally, any blade more than one foot in length is subject to an extra tax whenever it is sold, which helps to explain why Waterdavians prefer to carry knives and knuckledusters for self-defense.",
+sources/adventure-wdh.json:30536: "Businesses and individuals do employ armed guards, but except for nobles or foreign envoys, few people travel about the city with such protection. As such, the sight of armed and armored individuals walking the streets who aren't in the livery of the city or one of its noble houses inspires caution in most Waterdavians. Folk assume that you wouldn't bother lugging around such equipment unless you either intend violence or expect that it might soon be visited upon you."
+sources/adventure-wdh.json:30537: ]
+sources/adventure-wdh.json:30538: },
+sources/adventure-wdh.json:30539: {
+sources/adventure-wdh.json:30540: "type": "entries",
+

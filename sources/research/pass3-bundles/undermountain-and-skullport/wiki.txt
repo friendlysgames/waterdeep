@@ -1,0 +1,2000 @@
+=== WIKI PAGE: Undermountain
+
+{{Cleanup||19:57, March 14, 2019 (UTC)}}
+{{Otheruses4|the dungeon beneath [[Waterdeep]]|the sourcebook of the same name|Undermountain (LGR)}}
+{{Dungeon
+| image         = Undermountain cross section.png
+| caption       = A cross-sectional view of Undermountain beneath Waterdeep's streets and sewers.
+| name          = Undermountain
+| alias         = The Domain of Haalvar the Mad<ref name="EasyBp49">{{Cite book/Easy Betrayals|49|4}}</ref>
+| level of      = 
+| level number  = 
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="W.DMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6}}</ref>
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = 
+| previous      = 
+| next          = 
+| locations     = yes
+| organizations = yes
+| settlements   = yes
+| bodies of water = yes
+| forests       = yes
+| events        = yes
+| food and drink = yes
+| items         = yes
+}}
+'''Undermountain''' was a multi-tiered dungeon, consisting of myriad of inter-connected chambers and lairs located deep beneath the city of [[Waterdeep]] and its [[Mount Waterdeep|namesake mountain]].<ref name="W.DMM-p5">{{Cite book/Waterdeep: Dungeon of the Mad Mage|5}}</ref> Originally home to the [[Dwarf|dwarves]] of [[Clan Melairkyn]], the ''Underhalls'' were eventually taken over by [[Halaster Blackcloak]], also known as the "Mad Mage", and his seven apprentices.<ref name="W.DMM-p6" />
+
+{{quote
+|Undermountain? Ah, yes. A great place to have fun, the most famous battlefield in which to earn a reputation as a veteran [[adventurer]] — and the largest known mass grave in [[Faerûn]] today.
+|[[Elminster]].<ref name= "WTAG">
+{{cite web
+| url            = http://rpg.nobl.ca/archive.php?x=dnd/ru/20050309a
+| title          = Return to Undermountain Introduction
+| accessdate     = 2023-02-03
+| author         = [[Matthew Sernett]]
+| date           = 2005-03-09
+| work           = Return to Undermountain
+| publisher      = [[Wizards of the Coast]]
+| archiveurl     = 
+| archivedate    = }}</ref>
+}}
+
+==Features==
+===Architecture===
+Generally speaking, Undermountain's natural chambers boast high ceilings of at least {{SI|16|ft}} and smooth floors made of gray [[granite]]. Many halls, rooms, and galleries were created by carving out the natural rock and were generally decorated in a way that made them look uniform and mundane. That said, exceptions existed.<ref name="RU.CGU-p16">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|16}}</ref>
+
+A corridor in Undermountain was usually {{SI|10|ft}} wide and high. Stairs typically had no railings.<ref name="RU.CGU-p16" />
+
+===Magical Features===
+Undermountain had lots of [[magical]] peculiarities that were created and utilized by Halaster. Undermountain's proprietor made it impossible to cast magic that teleported people into or out of Undermountain. Various forms of divination magic would also not function, though some magic objects and spells like wizard eye worked to some degree. This made it challenging if not impossible for would-be treasure hunters to gather information about what the dungeon had in store or what Halaster was doing. Summoning spells also had limitations; their functionality was limited to moving monsters that were already present in Undermountain, or trapping monsters from outside. However, magic items that summoned creatures worked, at least as a general rule.<ref name="RU.CGU-p16" />
+
+Destroying any wards or magical effects that managed these limitations was a task that was as good as impossible. A high understanding of magic was required to understand the many-layered incantations, particular knowledge to determine how to dissolve these effects, the skill to actually dispel these high level magics, combat prowess to protect oneself from monsters that were certainly attracted to people working to dissolve the layered magic, the ability to do this work at a speed that exceeded the speed at which the magic was restored, a lot of time, and the willingness to undertake this task despite the thankless and likely fruitless nature.<ref name="RU.CGU-p16" />
+
+Another effect of the many-layered magic of the Mad Mage was that most of the surfaces and features of the [[dungeon]] radiated some degree of magic, including the floor, ceilings, and walls. This made spells like ''[[detect magic]]'' largely useless because either the radiated magic was so strong that it was impossible to distinguish specific information or because the radiated magic masked the magical properties of other things.<ref name="RU.CGU-p16" />
+
+The complex magics of Undermountain were intertwined with Halaster himself. In the event of the Mad Mage's death or removal from Undermountain, its enchantments and spells would go wild. Countless ''[[gate]]s'' and ''[[portal]]s'' would become destabilized and available for many powerful monsters to utilize. The arcane chaos would continue to rage through Undermountain until [[Mystra|Mystra's]] [[Chosen of Mystra|Chosen]], [[Weaveghost]]s, and other servants "set in" the spells and enchantments once again.<ref name="TEV-UndMag">{{Cite web/theedverse/2022-11-08 - Undermountain Magic & Halaster}}</ref>
+
+Undermountain featured some locations where magic simply did not work at all. The origins of these "[[Dead-magic zone|dead zones]]" were not entirely understood but they were suspected to be the result of magical experiments.<ref name="RU.CGU-p17">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|17}}</ref>
+
+===Atmosphere===
+Undermountain had quite good ventilation due to a plethora of air sources of natural and magical design. While areas where the ventilation was poor did exist, for example due to long-sealed doors blocking "bad air" or areas directly connected to the [[Waterdeep/Sewers|sewers]], death from suffocation or gas explosion was not a regular hazard.<ref name="RU.CGU-p16" />
+
+All in all, Undermountain's climate could be compared to a normal Waterdhavian cellar; cold and a bit dank. A more humid than normal area could mean that a water source was nearby, or the presence of fungal growth. When the dungeon air was drier than normal, it usually meant that one was far from a water source.<ref name="RU.CGU-p16" />
+
+Interestingly, deeper levels were a bit warmer than upper ones. This was attributed to volcanic activities, but this was more a theory than proven fact.<ref name="RU.CGU-p16" />
+
+== Entrances and Exits ==
+The halls of Undermountain were linked to the surface world in many ways, both physical and magical. Some worked by means of one-way portals. The dungeon had a number of connections with Waterdeep's sewers which indirectly connected to other dungeons. Halaster used his network of portals to bring in monsters from all across Faerûn to restock his dungeon.<ref name="RU.CGU-p9">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|9}}</ref> Some of the notable physical links are described below:
+
+* '''Blue Mermaid Passage''': This connected a dry well in the cellar of the [[Blue Mermaid]] tavern to [[Skullport]].<ref>{{Cite book/City of Splendors: Waterdeep|126}}</ref>
+* '''Castle Corkscrew''': This passage corkscrewed down from the cellars of [[Castle Waterdeep]] to Skullport, bypassing the first two levels.{{fact}}
+* '''Falling Stair''': This connected the dungeons of Castle Waterdeep and the [[Citadel of the Bloody Hand]] with Undermountain's first level.<ref name="RU.CGU-p35-36">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|35-36}}</ref> 
+* '''Knight n'Shadow''': Built over the ruins of the [[Sea Knight|Sea Knight Tavern]] which collapsed in [[1425 DR]], the cellar of this tavern connected to [[Downshadow]].<ref name="DS">{{Cite book/Downshadow}}</ref>
+* '''Long Dark Stair''': This linked the oubliette or more a rubbish heap near the [[Blushing Nymph]] festhall with Undermountain's first level.<ref name="RU.CGU-p47">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|47}}</ref> 
+* '''[[River Sargauth]]''': This river ultimately led to the [[Sea of Swords]].<ref name="RU.CGU-p9" />
+* '''[[Yawning Portal|The Yawning Portal Inn]]''': Built atop the ruins of Halaster's Hold, The Yawning Portal Inn contained the only publicly known entrance into Undermountain: a large well that dropped down into Undermountain's Dungeon Level. There was also a second entrance in the form of a functional well.<ref name="RU.CGU-p8">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|8}}</ref>
+
+== Levels of Undermountain ==
+===Major Levels===
+[[Image:Undermountain-Profile.jpg|thumb]]
+;[[Dungeon Level|The Dungeon Level]]: 
+:The Dungeon Level was long used by the [[Lords of Waterdeep]] as a dumping ground for undesirables, hence its most common name. It was also known as the ''Temple Level'', for the many temples of dark gods that were constructed here over the years, as well as the ''Tomb Level'', for the many lords and kings that were interred here. Explorers of Undermountain often visited this level first, and its features were common tavern-talk of Waterdeep. Notable features of the Dungeon Level included the ''Bone Throne'',<ref name="RU.CGU-p49">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|49}}</ref> the ''Cavern of Eyes'', the ''Falling Stair'',<ref name="RU.CGU-p35">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|35}}</ref> the ''Grim Statue'',<ref name="RU.CGU-p32">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|32}}</ref> the ''Hall of Sleeping Kings'',<ref name="RU.CGU-p26">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|26}}</ref> the'' Hall of Three Lords'',<ref name="RU.CGU-p50">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|50}}</ref> the ''House of Pain'',{{fact}} the ''Lanceboard Room'',<ref name="RU.CGU-p44">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|44}}</ref> the ''Sundered Throne'',<ref name="RU.CGU-p33">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|33}}</ref> the ''Temple of Gulkulath'', and the ''Temple of the All-Seeing One''.{{fact}}
+
+;[[Arcane Chambers]]: 
+:On this level, Halaster and his apprentices excavated the rough stone caverns and mining tunnels left by the dwarves to house their acquisitions and magical experiments.<ref name="W.DMM-p28">{{Cite book/Waterdeep: Dungeon of the Mad Mage|28}}</ref> Notable features of the Arcane Chambers included the ''Doomgate'',{{fact}} the ''Helmwatch'',<ref name="RU.CGU-p59">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|59}}</ref> and ''[[Hund Hillgauntlet|Lord Hund Hillgauntlet's]] tomb''.<ref name="RU.CGU-p65">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|65}}</ref>
+
+;[[Sargauth Level|The Sargauth Level]]: 
+:Known for the [[River Sargauth]], which winds through this massive level, Undermountain's third level consisted of two major sections.<ref name="W.DMM-p43">{{Cite book/Waterdeep: Dungeon of the Mad Mage|43}}</ref> The southern portion of this level consisted of the remnants of the [[Sargauth Enclave]], which was later split by a massive cave-in leading to [[Skullport]] and the Promenade of the Dark Maiden. The northern two-thirds of this level were constructed by Halaster and his apprentices, and served much the same role as Undermountain's second level. The most notable features of this level were the ''Lair of the Eye'', the rubble-filled ''Pit of Ghaunadaur'', a mile-deep shaft that led from the [[Prime Material Plane]] through an intermittently-existent planar breach into the [[Cauldron of Slime]],{{fact}} along with the subterranean settlement of [[Stromkuhldur]], among others.<ref name="W.DMM-p43"/>
+
+;[[Twisted Caverns]]:
+:Also known as ''the Farms'',{{fact}} this level of Undermountain contained farms that no surface dweller would recognize. Halaster's mightiest magic brought the ''River of the Depths'', also known as the River Sargauth, to this level, where it linked huge caverns in broad, sweeping curves, and was navigable by barges.<ref name="W.DMM-p60">{{Cite book/Waterdeep: Dungeon of the Mad Mage|60}}</ref> Notable features included...{{fact}} 
+
+;[[Maze Level|The Maze Level]]: 
+:This level<ref name="W.DMM-p159">{{Cite book/Waterdeep: Dungeon of the Mad Mage|159}}</ref> contained five major features of note - the drow outpost of [[Kyorlamshin]], the ''lair of the Umber Hulks'', the ''Maze of Madness'', an old dwarf hold built by [[Melairkyn|Clan Melairkyn]] and expanded by the [[duergar]], and the winding channels of the [[River Graymurk]].{{fact}}
+
+;[[Seadeeps|The Seadeeps]]:
+:The Seadeeps<ref name="W.DMM-p221">{{Cite book/Waterdeep: Dungeon of the Mad Mage|221}}</ref> had numerous connections to the [[Swordsea Depths]], as the Underdark beneath the Sea of Swords was known.{{fact}} 
+
+;[[Caverns of Ooze|The Caverns of Ooze]]: 
+:The Caverns of Ooze<ref name="W.DMM-p243">{{Cite book/Waterdeep: Dungeon of the Mad Mage|243}}</ref> were long home to all manner of [[slime|slimy]] creatures serving [[That Which Lurks]]. Countless slimes, [[ooze]]s, [[jelly|jellies]], and other amorphous creatures frequented these natural caverns.{{fact}}
+
+;[[Terminus Level|The Terminus Level]]: 
+:Also known as the ''Deep Mines'', this level was a mix of dwarf-built chambers, depleted [[mithral]] mines, and vast natural caverns.<ref name="W.DMM-p265">{{Cite book/Waterdeep: Dungeon of the Mad Mage|265}}</ref> Many of the one-way portals used by Halaster to restock Undermountain with dangerous monsters opened into the sprawling caverns of Undermountain's eighth layer. Additionally, Halaster's failed or free experiments also wandered this level. The Terminus Level connected with the heart of Undermountain through the Shaft.{{fact}}
+
+;[[Mad Wizard's Lair|The Mad Wizard's Lair]]: 
+:Said to hold the treasure of Halaster the Mad,<ref name="W.DMM-p289">{{Cite book/Waterdeep: Dungeon of the Mad Mage|289}}</ref> this level was spoken about in [[Waterdeep (city)|Waterdhavian]] taverns late at night by those who dared to dream of plumbing the depths of Undermountain. Of course, Halaster himself spread many of these rumors, in hopes of inducing more adventurers to die foolish deaths in his trap-filled Underhalls.{{fact}}
+
+===Sub-Levels===
+* '''[[Waterdeep/Sewers|The sewers of Waterdeep]]''': Typical of many large cities, Waterdeep had its share of sewer passages beneath its streets. What was not typical of these sewer tunnels however, were the links to the famed Halls of Undermountain which ensured a constant supply of creatures to inhabit them and an even more constant supply of adventurers to combat them. Many adventurers also used the sewers as an access point, bypassing the more notable entrances to the dungeon complex below.{{fact}}
+
+* '''[[Citadel of the Bloody Hand|The Citadel of the Bloody Hand]]''': Dug into the heart of Mount Waterdeep, the Citadel of the Bloody Hand has until recently{{timescale}} been occupied by the Guard. After Halaster's Higharvestide, the Citadel of the Bloody Hand became the preserve for the living spells that escaped Halaster.{{fact}}
+
+* '''[[Wyllowwood]]''': Halaster created the Wyllowwood over two centuries before the [[Second Sundering]] for an elf druid named [[Wyllow]], the beloved of his apprentice [[Yinark]]. Set in a cavernous region carved by a tributary of the River Sargauth, this thriving forest was nourished by sunlight filtered through a massive portal in the "sky" above.<ref name="W.DMM-p69">{{Cite book/Waterdeep: Dungeon of the Mad Mage|69}}</ref> Notable features included a ''temple of [[the Destroyer]]'' and a long-abandoned lakeside village built by the dwarves of Clan Melairkyn.{{fact}}
+
+* '''[[Maddgoth's Castle]]''': This small sub-level famed for the presence of the miniature, floating castle built by Halaster for his serial-killer apprentice [[Maddgoth]]. It was enveloped in a reduction field that reduced all creatures within it to one-twelfth their normal size.<ref name="W.DMM-p95">{{Cite book/Waterdeep: Dungeon of the Mad Mage|95}}</ref>
+
+* '''[[Lost Level|The Lost Level]]''': Entombed in solid rock, the Lost Level was almost entirely inaccessible.<ref name="W.DMM-p81">{{Cite book/Waterdeep: Dungeon of the Mad Mage|81}}</ref>
+
+* '''[[Slitherswamp|The Slitherswamp]]''': Located deep beneath the city of Waterdeep, the Slitherswamp was a largely unexplored sub-level between the Farms Level and the Maze Level.{{fact}}
+
+* '''[[Muiral's Gauntlet]]''': Muiral's Guantlet was a sub-level built by the [[drow]] soon after their initial invasion that included living quarters and a warrior academy. [[Muiral]] transformed these chambers into a trap-filled gauntlet haunted by giant [[spider]]s, [[undead]], and [[drider]]s. Although the monstrous mage abandoned this area,{{timescale}} his deadly creations remained.{{fact}}
+
+* '''The [[Troglodyte Warrens]]''': This region of caves was accessible only by a two-way random portal. It was home to two warring tribes of [[troglodyte]]s - the [[Urggroth-Kyan]] clan and the [[Szygmog-Thurgin]] clan.{{fact}}
+
+* '''[[Trobriand's Graveyard]]''': The dwarves originally mined this sub-level for [[mithral]], leaving it, by chance or for mysterious reasons, in the crude image of a [[scorpion]]. Before Halaster's Higharvestide, the Realm of the Metal Masters was home to [[Trobriand]]'s rejected constructs, built before he had perfected his [[scaldar]]s. By Halaster's Higharvestide, Trobriand's cast-offs had organized themselves into a self-governing community for mutual defense, and they took advantage of the chaos to escape through a portal to their master's secret sanctum and claim it for themselves. In the wake of their departure, this level was largely abandoned, but it didn't remain that way for long.{{timescale}} After being driven from [[Skullport]] by the Eye, [[Misker]] the Pirate Tyrant fled to this level and made it his own. Now{{timescale}} a portal linked the [[beholder]]'s lair to the Ilzimmer Villa, and [[House Ilzimmer]] began storing its ill-gotten gains there.{{fact}}
+
+* '''The Obstacle Course''': The Obstacle Course was a sub-level composed of a long chain of trap-filled rooms. Carved from the earth by the will of [[Tyr]], this sub-level was intended as a potentially lethal test for conceited, cocky braggarts who did not respect the dangers of adventuring.{{fact}}
+
+* '''[[Arcturiadoom]]''': This level was long the private domain of [[Arcturia]] one of Halaster's most ambitious apprentices. After her death during Halaster's Higharvestide, contingency magics whisked her corpse to her sanctuary, leaving the illusion of a body in their wake. Thanks to careful preparations, Arcturia was reborn as a vile form of [[undead]]. She now{{timescale}} worked to restock the monsters guarding this level, which was known to a handful of daring explorers as Arcturiadoom.{{fact}}
+
+* '''The [[Crystal Labyrinth]]''': The [[drow]] constructed this chamber as a training ground for their young in [[148 DR]]. Halaster discovered it in [[326 DR]] and made it his own, with transparent crystal walls, floors and ceilings, and a coral-floored cavern filled with seawater directly below. At the heart of the labyrinth lay Halaster's Aqitocrun, a treasure chamber in which he stored prized possessions.<ref name="US-5">{{Cite book/Undermountain: Stardock|5}}</ref>
+
+* '''[[Vanrakdoom]]''': This sub-level was claimed by Lord [[Vanrak Moonstar]] for the followers of the Night Maiden in [[1130 DR]]. A sprawling shadow-cloaked temple of [[Shar]] and an army of creatures from the [[Plane of Shadow]] that defended the abbey dominate Vanrakdoom.{{fact}}
+
+* '''The [[Runestone Level]]''': Not much was known about this small sub-level located between The Caverns of Ooze and The Terminus Level. It remained largely unexplored though rumors stated it was linked to The Shaft by multiple small, twisting passages.{{fact}}
+
+* '''[[Shadowdusk Hold]]''': This sub-level was among the deepest known sub-levels of Undermountain. It may or may not have been connected to Halaster's Lair which lay just seaward of this sub-level.{{fact}}
+
+==History==
+[[Aelinthaldaar]], the capital city of [[Illefarn]], was founded around {{Yearlink|-8500}} and its inhabitants were the first peoples to dig crypts in the area.<ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6}}</ref> Various power groups lived in Undermountain, sometimes at the same time:
+
+===Melairkyn Clan===
+In {{Yearlink|-1288}}, a [[shield dwarf]] named [[Melair]] explored the area and found [[mithril]] in the mountain that would come to be called Mount Melairbode, after Melair.<ref name="CGtU-4">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|4}}</ref> Clan [[Melairkyn]], a dwarven clan that eventually traced its ancestry back to Melair<ref name="CGtU-4"/> built in the same year the Underhalls inside the mountain.<ref name="TGHotR-37">{{Cite book/The Grand History of the Realms|37}}</ref> They then established an arrangement with the elves of Illefarn, trading dwarven mithril for the elven [[magic]], namely enchantments that would prevent the caverns from collapse.<ref name="CoS.W-6-7">{{Cite book/City of Splendors: Waterdeep|6-7}}</ref> This clan of dwarves operated two mithril mines in the [[Seadeeps]].<ref name="CGtU-4"/>
+
+Around [[34 DR]],<ref name="TGHotR-61">{{Cite book/The Grand History of the Realms|61}}</ref> a combined force of [[drow]] and [[duergar]]<ref name="CGtU-4"/> pushed the dwarves into deeper sections of Underhalls.<ref name="TGHotR-61" /> The mithril mines were taken over by the duergar, who departed after the mines dried out.<ref name="CGtU-4"/> The drow continued to force the dwarves into ever lower areas until the dwarves died out in [[211 DR]]. Underhalls was then named [[Kyorlamshin]] by the drow.<ref name="TGHotR-67">{{Cite book/The Grand History of the Realms|67}}</ref>
+
+===Halaster Blackcloak===
+In [[168 DR]], [[Halaster Blackcloak]] and his seven apprentices came to Kyorlamshin, and he began building [[Halaster's Hold]] in the [[Deepwater Plateau]].<ref name="TGHotR-66" /> He used summoned creatures to dig cellars and tunnels. This work went on for decades, delving deeper and deeper, until his creatures managed to break into the Underhalls.<ref name="CGtU-4" /> The mage started to explore the underground complex and claimed them for himself.<ref name="TGHotR-66">{{Cite book/The Grand History of the Realms|66}}</ref>
+
+What remained of both the drow and the duergar fell victim to Halaster in [[309 DR]].<ref name="TGHotR-66" /> Halaster experimented on captured drow, making them into his servants. He then began a genocidal domination of the Underhalls that led to the term "Halaster's Hunt" to be coined. This term came to mean "berserk raid" or "willful slaughter", and was still in use in [[the North]] of the 14{{th}} century [[DR]].<ref name="CGtU-4" /> Halaster then started to move into the underground complex and began to modify it by building traps. He turned the complex into storage for his belongings, and the results of his many magical experiments.<ref name="CGtU-4" /> His apprentices, who were already starting to carve out their own territories by [[307 DR]],<ref name="TGHotR-66" /> put serious effort into finding their master, who had become more and more reclusive and unreachable. Their mettle was tested by Halaster, and two were killed in the process. The rest were employed by the Mad Mage to enhance the growing underground complex's security. Over the years, the upper levels became abandoned storage areas and defunct research facilities, as Halaster's experiments became more elaborate and dangerous, and were moved ever deeper into the complex. Halaster started to utilize the upper levels as a buffer zone designed to kill intruders and thieves. To enhance this outcome, he went to other Planes and places, collected exotic and terrible monsters, and set them loose to protect these levels from intruders. These levels of the dungeon gained the reputation as being in part Halaster's "playground" which he used to satisfy his curiosity and prove or disprove his magical theories.<ref name="CGtU-4-5">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|4-5}}</ref>
+
+In the {{YearlinkName|658}}, a ''portal'' was built in secret between the [[Hall of Naturalists]] in Cormanthyr and Undermountain. The [[Guild of Naturalists]] started to break into Halaster's dungeon to abduct monsters for their own purposes. Halaster started to abduct wizards from [[Cormanthyr]] as an act of retaliation. It was only in [[680 DR]] that the Guild of Naturalists managed to work out that these abductions were done as a response to their own intrusions into Halaster's research. After a well-prepared expedition team with the goal of bringing back their abductees did not return, the Guild of Naturalists stopped poaching, but they were incapable of shutting down the ''portal'' that connected the two places.<ref name="TGHotR-94, 96">{{Cite book/The Grand History of the Realms|94, 96}}</ref>
+
+===Waterdeep===
+At some point in history, Halaster create a duplicate of himself, possibly a ''[[clone]]'', infected it with [[leprosy]], and let the corpse be found by Waterdeep's police force. The news of Halaster's death spread far and wide in Waterdeep. By 1371 DR, the idea that a powerful, crazy wizard living in Undermountain was the stuff of rumors. However, among Undermountain travelers, it was common to at least think that Halaster was still alive.<ref name="CGtU-15">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|15}}</ref> 
+
+News of The Mad Mage's death spreading throughout the Realms was intentional and designed to ensure that nobody bothered him while he continued to conduct his arcane research. However, the idea that the powerful mage was dead led to many folks thinking that the major obstacle to plundering the wizard's abode had been removed. These people became burglars bent on taking whatever they could from Halaster's dungeon. Killing these thieves either by devious traps and roaming creatures was a major source of joy for the Mad Mage, as was the false sense of security that his death instilled in people.<ref name="CGtU-5" />
+
+As [[Waterdeep]] grew, the city inevitably began to bump up against the dungeon. This included literal contact in the form of sewers that broke into Halaster's dungeon as they were dug. [[Lords of Waterdeep|The Lords of Waterdeep]] started to use the dungeon to get rid of criminals they considered particularly hard to handle<ref name="CGtU-5" /> in the {{YearlinkName|1302}}.<ref name="TGHotR-132">{{Cite book/The Grand History of the Realms|132}}</ref> A criminal would be released from their prison and thrown into uncharted parts of Undermountain. This act orchestrated by Waterdeep's rulers led to Undermountain gaining a bad reputation.<ref name="CGtU-5">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|5}}</ref>
+
+Also in 1302 DR, [[Durnan]] the Wanderer and Mirt the Merciless began to venture into Undermountain. Unlike many others, they did not just come back out alive, but also filthy rich.<ref name="TGHotR-132" /> With his share of wealth, Durnan built the [[Yawning Portal]] inn where the ruins of [[Halaster's Hold]]'s stood. He also began to spread information about Undermountain's size and wealth to attract people to the city and to his new business.<ref name="CGtU-5" />
+
+What was later referred to as The [[Citadel of the Bloody Hand]] was once the headquarters of the [[Shadow Thieves|Thieves' Guild of Waterdeep]] before they were driven out of the city.<ref name="CGtU-5" />
+
+Various criminal groups have used portions of the ruins as their headquarters, as have many followers of evil gods. Halaster's death in [[1375 DR]] and the earthquake that accompanied it altered the terrain of the dungeon and also upset the balance of power among the various groups. Around ten years later when the [[Spellplague]] occurred, further drastic change came to Undermountain. Many of the numerous portals in the ruins were destroyed, cutting off entire levels. Other portals were warped and seemingly granted access to previously unknown levels.
+
+== Undermountain and Halaster Blackcloak ==
+{{main|Halaster Blackcloak}}
+{{quote|''Have you not heard the tales of the Mad Mage of Undermountain? The dwarves built the passages under the mountain long ago, but they've belonged to Halaster for the last thousand years. He toys with anyone who enters the dungeon; the deeper you go, the more dangerous his games.''|[[Durnan]]<ref name="dtu">{{Cite game/Descent to Undermountain}}</ref>}}
+Over a thousand years ago,{{timescale}} the wizard [[Halaster Blackcloak]] whirled to the base of [[Mount Waterdeep]], called there from a distant country by chance or providence. Some say he hailed from the [[Cradlelands]], the nearly forgotten empire that spread humanity across [[Faerûn]], [[Kara-Tur]], and [[Zakhara]], from what became the Plains of Purple Dust, a wasteland created by conflict between the gods. Whatever his origins, Halaster brought with him the Seven, as his apprentices were known, and with their help and his power, Halaster summoned beings from other planes to build himself a wizard's tower. Halaster ringed his tower with a great wall set with lesser towers for each of his apprentices, and he created fields and farms to be worked by his apprentices and their servants.{{fact}}
+
+For a time,{{timescale}} it seemed a good life for the Seven, but as the days wore on, they saw less and less of their master. Halaster continued to use fell creatures from other planes for construction beneath his tower, and he kept his dealings with them and the nature of the tunnels from the Seven. At length, Halaster's tunneling broke into the Underhalls, a complex of tunnels built by dwarves around a mithral mine beneath [[Mount Waterdeep]]. The [[dwarf|dwarves]] who built the dungeons, the [[Melairkyn]] clan, had long since been killed or dispersed, replaced by warring [[duergar]] and [[drow]]. Halaster began a crusade against both races, participating in wild hunts through the tunnels with allies called from the [[Outer Planes]]. The duergar stubbornly remained until the mithral was largely mined out, but then they left the drow to fight Halaster and his minions alone. Halaster captured or killed the remaining drow, entrapping their souls for dark magic or twisting their bodies and enslaving their minds. When the last of the drow were defeated, Halaster Blackcloak tunneled on, continuing his obsession with delving beneath the mountain.{{fact}}
+
+After Halaster was absent for more than a year,{{timescale}} some of his apprentices ventured into his tower in search of the great wizard. They found traps, monsters, and tantalizing hints about power beneath the earth. Individually they explored the dungeons, encountering ever more deadly traps and more powerful foes. For their efforts, they were rewarded with riches and magic. When the Seven were reduced to five,{{timescale}} Halaster appeared to his students and explained that he had built the tunnels to guard his experiments and treasures. He enlisted their aid to make his dungeons even more secure.{{fact}}
+
+What happened after that is unclear, but only one apprentice is known to have left Undermountain, and she fled the area, never to return. Halaster continued to live beneath the mountain, using it as a base from which he traveled to other planes and distant lands, entrapping strange creatures and bringing them back to live as prisoners or guardians in his home. In time, Halaster sought out magic to extend his life, and some say that it was these spells and items that finally drove Halaster beyond all reason. While before he had been obsessed and deranged, his quest for immortality seemed to drive him truly mad.{{fact}}
+
+While Halaster quested on other planes and sequestered himself in his tunnels, his tower fell into ruin.{{timescale}} When Halaster was yet active in the outside world, his home was considered cursed, so settlers in the area largely left the crumbling tower alone. In time, the city now known as [[Waterdeep (city)|Waterdeep]] came to huddle against the mountain and reach down to the harbor. As the city sprawled outward, it reached and encompassed the ruins of Halaster's home. Undermountain was known to these early settlers, and they often punished criminals by sending them into its depths. This continued for many years until an adventurer named [[Durnan]] delved into the depths beneath the tower and returned, laden with riches, to tell the tale. Durnan demolished the last remnants of Halaster's above-ground abode and built an inn over the well he had used to descend into the depths. He called his inn the [[Yawning Portal]], and Durnan works there to this day,{{timescale}} serving patrons and inviting the brave or the foolish to try their hands at the halls of Undermountain.{{fact}}
+
+== Timeline ==
+* {{Yearlink|-1288}}: [[King Melair I]] discovers [[mithral|mithril]] ore underneath [[Mount Waterdeep]] and creates a home for his [[Melairkyn]] dwarves, beginning to carve out caverns and tunnels.
+* {{Yearlink|-750}}: [[Netherese]] wizards occupy the third level of Undermountain and seal it off against the Melairkyn Clan. Some scholars call this the [[Sargauth Enclave]].
+* {{Yearlink|-677}}: The [[drow]] begin to occupy more and more of the area held by the Melairkyn Clan.
+* [[34 DR]]: In a large shift of territory following a massive drow invasion, the Melairkyn lose a significant amount of their territory.
+* [[168 DR]]: [[Halaster Blackcloak]] claims the [[Underhalls]] of the ousted Melairkyn Clan for himself.
+* [[171 DR]]: Halaster begins [[Halaster's Hunts]] which wipe out large numbers of the drow and [[duergar]] from Undermountain and continue until [[308 DR]]. Many drow and duergar are forced out during this time.
+* [[268 DR]]: Known mithril veins are completely depleted.
+* [[284 DR]]: The duergar leave Undermountain, having no reason to stay without the mithril resource.
+* [[309 DR]]: Halaster becomes ruler of the Underhalls.
+* [[493 DR]]: The drow leave Undermountain entirely.
+* [[1355 DR]]: [[Qilué Veladorn]] constructs the [[Promenade of the Dark Maiden]] - a temple of the good-aligned drow goddess [[Eilistraee]] - northeast of [[Skullport]].
+* [[1375 DR]]: Halaster Blackcloak dies.
+* [[1385 DR]]: The Spellplague hits Undermountain, drastically altering the landscape of the dungeon.
+
+==Appendix==
+===Gallery===
+<gallery>
+Undermountain - Descent.jpg|''One of many chambers adventurers encounter on their [[descent to Undermountain]].''
+Chris-dien-Undermountain.jpg|''Another location in Undermountain.''
+</gallery>
+
+===Appearances===
+{{Appearances
+| adventures = {{Anthapp|The Ruins of Undermountain II: The Deep Levels|Survival of the Fittest}};{{Anthapp|The Ruins of Undermountain II: The Deep Levels|Troglodyte Warren}};''[[Undermountain: The Lost Level]]'';''[[Undermountain: Maddgoth's Castle]]'';''[[Undermountain: Stardock]]'';''[[The Great Modron March]]'';''[[Expedition to Undermountain]]'';''[[Halls of Undermountain]]'';{{Duapp|204|What’s Up in Downshadow}};''[[Waterdeep: Dungeon of the Mad Mage]]''
+| adventure refs = ''[[The Return of Randal Morn]]'';{{Duapp|69|Slave Vats of the Yuan-ti}};{{Duapp|127|Vampires of Waterdeep: Dungeon of the Crypt}};{{Duapp|128|Vampires of Waterdeep: The Fireplace Level}};''[[The Orrery of the Wanderer]]'';{{Anthapp|Candlekeep Mysteries|Kandlekeep Dekonstruktion}};''[[Phandelver and Below: The Shattered Obelisk]]''
+| novels = ''[[Escape from Undermountain]]'';''[[The Paladins]]'';''[[Errand of Mercy]]'';''[[Easy Betrayals]]'';''[[Downshadow (novel)|Downshadow]]''
+| novel refs = ''[[Waterdeep (novel)|Waterdeep]]'';''[[The Abduction]]'';''[[Conspiracy]]'';''[[Uneasy Alliances]]'';''[[The Diamond]]'';''[[The Fallbacks: Bound for Ruin]]''
+| gamebooks = ''[[Knight of the Living Dead]]'';''[[The Mad Mage's Academy]]'';''[[To Catch a Thief]]''
+| video games = ''[[Eye of the Beholder (game)|Eye of the Beholder]]'';''[[Descent to Undermountain]]'';''[[Dungeons & Dragons: Eye of the Beholder]]'';{{NWNapp|HotU|ID}};''[[Arena of War (game)|Arena of War]]'';{{NWapp|Undermountain|Uprising}};''[[Idle Champions of the Forgotten Realms]]''
+| video game refs = {{NWNapp|NWN2}};''[[Baldur's Gate III]]''
+| board games = ''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]'';''[[Lords of Waterdeep: Scoundrels of Skullport]]'';''[[Vault of Dragons (game)|Vault of Dragons]]'';''[[Waterdeep: Dungeon of the Mad Mage (board game)|Waterdeep: Dungeon of the Mad Mage]]'';''[[Dungeon Scrawlers: Heroes of Undermountain]]'';''[[Dungeons & Dragons: The Tyrant's Eye]]''
+| board game refs = ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]'';''[[Dungeons & Dragons: The Yawning Portal]]''
+| card games = {{MTGapp|AFC}};''[[Spellfire: Master the Magic]]''
+| organized play = ''[[Dragon's Deep]]'';''[[Book Knowledge]]'';''[[Undermountain (LGR)|Undermountain]]'';''[[Dark Secrets of Downshadow]]'';''[[Undermountain: Halaster's Lost Apprentice]]'';''[[Stardock Under Siege]]'';''[[Rescue from Vanrakdoom]]'';''[[Last Orders at the Yawning Portal]]'';''[[Forge of Fangs]]'';''[[A Change of Address]]'';''[[The Tower of Ahghairon]]'';''[[Moving Day]]''
+| organized play refs = ''[[Dock Ward Double-Cross]]'';''[[A Fool's Errand]]'';''[[Unsafe Harborage]]''
+}}
+
+===Further Reading===
+* {{Cite book/The Ruins of Undermountain}}
+* {{Cite book/The Ruins of Undermountain II}}
+* {{Cite book/Skullport}}
+* {{Cite book/Escape from Undermountain}}
+* {{Cite book/Expedition to Undermountain}}
+
+===External Links===
+* [http://archive.wizards.com/default.asp?x=dnd/archfr/ru Return to Undermountain archive]
+* [http://archive.wizards.com/dnd/images/UM_level1/FRMAP_lores.zip ZIP file poster map of 1st level]
+* [http://archive.wizards.com/dnd/images/UM_level1/Undermountain_Pieces.zip ZIP file poster maps in 8.5" x 11" format]
+* [http://archive.wizards.com/default.asp?x=dnd/ru/20051026a&page=2 100 Dungeon Room Descriptions]
+* [http://archive.wizards.com/default.asp?x=dnd/ru/20060405a Return to Undermountain: The Dragon's Legacy (adventure)]
+
+===References===
+{{Refs}}
+
+===Connections===
+{{Undermountain}}
+{{Undermountain sourcebooks}}
+
+[[de:Unterberg]]
+[[es:Bajomontaña]]
+[[fr:Montprofond]]
+[[pt-br:Montanha Subterrânea]]
+[[Category:Dungeons|Undermountain]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Locations]]
+[[Category:Magical locations]]
+[[Category:Locations with mythals]]
+
+=== WIKI PAGE: Skullport
+
+{{otheruses4|the city of Skullport|the sourcebook|Skullport (sourcebook)}}
+{{Location
+| image              = <gallery>
+Skullport-Julian Kok.jpg|5e 
+Skullport - Richard Sardinha.jpg|3e 
+</gallery>
+| caption            = Various depictions of Skullport.
+| name               = Skullport
+| alt spelling       = 
+| aliases            = Port of Shadows
+| type               = Settlement
+| region             = [[Sargauth Level]], [[Undermountain]]
+| size               = Large town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="W.DoMM-p303"/><ref name="CoS.W-p108"/>
+| demonym            = Skulker
+| population         = 
+| races              = {{Numeric table|[[Human]]s|832|[[Half-orc]]s|405|[[Goblin]]s|225|[[Kobold]]s|157|[[Elves]] (mostly [[drow]])|113|[[Dwarves]] (mostly [[duergar]])|68|Others|450}}
+| languages          = 
+| religion           = 
+| alignment          = {{Alignment grid|off|off|off|off|off|off|on|on|on}}
+| socrefs            = <ref name="CoS.W-p108"/>
+| imports            = 
+| exports            = Body parts, cadavers, [[:category:drugs|drugs]], evil magic, mercenaries, slaves, smuggling services, [[poison]]s, vile magic, [[undead]]
+| currency           = 
+| comrefs            = <ref name="CoS.W-p109"/>
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 2250
+| popyear1           = 1372
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Skulls of Skullport]]
+| ruleryear1         = -339
+| ruler2             = [[Shradin Mulophor]]
+| ruleryear2         = 1148
+| ruler3             = [[Xanathar]]
+| ruleryear3         = 1492
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p108"/><ref name="Du200.BS"/><ref name="W.DoMM-p304"/><ref name="Skullport-p6-9"/>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = yes
+| forests            = 
+| events             = 
+| food and drink     = yes
+| items              = 
+}}
+'''Skullport''', also known as the '''Port of Shadows''', was a subterranean city located far below [[Waterdeep]], within the 3{{rd}} level of [[Undermountain]] known as the [[Sargauth Level]].<ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref> While rumors of this subterranean domain of villainy persisted throughout the surface world, few of its inhabitants had any knowledge of any points of entry.<ref name="W.DoMM-p303">{{Cite book/Waterdeep: Dungeon of the Mad Mage|303}}</ref>
+
+{{Quote|''The Port of Shadow is unlike any port above or below the surface of Abeir-Toril. Not surprisingly, it is much like the Underhalls that surround it: difficult to quantify, enigmatic, dangerous and yet alluring, all at the same time.''|Alphraxis of Deneir, ''[[Skullport (sourcebook)]]'' by [[Joseph Wolf]]<ref name="Sk-p5">{{Cite book/Skullport|5}}</ref>}}
+
+==Structure==
+Built on an ancient [[Netherese]] [[Sargauth Enclave|ruin]], within an immense subterranean cavern, the shadowy port was a dark reflection of the ''City of Splendors'' above. Its structure was built in three tiers, interconnected by narrow catwalks and rickety scaffolding. Creaking houses built on stilts were haphazardly built in a dense network that formed a near shantytown.<ref name="W.DoMM-p303"/><ref name="Du200.BS">{{Cite dungeon/200/Backdrop: Skullport}}</ref>
+
+Exact divisions between regions was a matter of debate, but Skullport was divided into four generally accepted wards: [[Skull Island]], [[Skullport/Port|the Port]], [[Skullport/Trade Lanes|the Trade Lanes]], and [[Skullport/Heart|the Heart]].<ref name="SP-p12">{{Cite book/Skullport|12}}</ref> Although no clear vertical boundaries existed, locals divided Skullport into three vertical tiers to aid navigation: the Crown, the Venter and the Dredge.<ref name="Du200.BS"/>
+
+Although the cavern of Skullport was pervaded by dim light overall, it benefited from a variety of natural sources of illumination. Phosphorescent [[Moss|mosses]] and [[fungi]] thrived on the cavern walls, while veins of luminescent minerals and clusters of crystals emitted diffuse, multicolored glows that contributed to the ambient lighting. For stronger illumination, residents relied on conventional methods, including braziers fueled by [[charcoal]], [[candle]]s, [[Torch|torches]], [[lantern]]s, and, on occasion, [[driftglobe]]s, though the latter were considered a luxury beyond the means of most inhabitants. Additionally, some Skulkers obtained more unusual light sources from the [[Underdark]], such as the luminescent larvae of [[fire beetle]]s, [[glowworm]]s, and various bioluminescent fish and amphibians.<ref name="SP-p13">{{Cite book/Skullport|13}}</ref>
+
+===Entrances===
+As of the {{YearlinkName|1492}}, there were several entrances to Skullport through the third level of Undermountain. Travelers could follow the underground river Sargauth and cross Murkspan Bridge in order to reach the Port of Shadows. Skullport was also connected to five tunnels within Undermountain: [[Beggar's Rest Pass]], [[Shadow Pass]], [[Steamfall Pass]], [[Taglath's Gap]], and [[Whisperhaunt Pass]].<ref name="W.DoMM-p304"/>
+
+Another entrance could be found through the [[South Sea Caves (Waterdeep)|South Sea Caves]] of Waterdeep. By following a series of caverns, travelers could reach [[Skull Pool]]. Locks throughout the caves magically controlled the water level to avoid flooding the entrance. The route ended at a large wall, where a crane could be used to hoist boats over the wall and into the city's port. As of {{Yearlink|1492}}, the crane had fallen into disrepair and was unusable.<ref name="W.DoMM-p304"/>
+
+As of {{Yearlink|1492}}, Skullport could be accessed via a long tunnel in the [[Xanathar (Zushaxx)|Xanathar's]] lair.<ref name="WDH-p100">{{Cite book/Waterdeep: Dragon Heist|100}}</ref>
+
+==Geography==
+Skullport was situated over {{SI|1|mi|k|long=yes}} beneath the surface.<ref name="SP-p12" />
+
+===Geographical Features===
+Passage through the locks that separated Skullport from the [[South Sea Caves (Waterdeep)|South Sea Caves]] of Waterdeep required permission from the [[Keepers]]. However, a talented mage could "piggyback" another ship passing through the portal at the same time.<ref name="TW-p17-20">{{Cite book/Tangled Webs/Hardcover|17-20|1}}</ref>
+
+==Climate==
+Skullport's considerable depth and the presence of a substantial population contributed to a stable, moderate ambient temperature averaging approximately {{SI|65|F|long=yes}}. Certain establishments, such as [[Gyudd's Distillery]] and [[Thaglar's Foundry]], produced significant amounts of heat. Consequently, residents living in proximity to these facilities, as well as to businesses such as bakeries, open-air kitchens, and smithies, typically experienced temperatures up to five degrees higher than the average.<ref name="SP-p13" />
+
+Owing to its subterranean location, Skullport was largely insulated from surface conditions; diurnal cycles and seasonal changes had minimal impact on its climate. Temperature fluctuations related to seasonal variation rarely exceeded increases of three degrees during the summer or decreases of five degrees in the winter.<ref name="SP-p13" />
+
+The subterranean environment of Skullport was characterized by high humidity, a result of the continual influx of salty sea air through the South Sea Caves and the persistent seepage of mineral-laden water from the cavern ceiling. This moisture-rich atmosphere has contributed to the deterioration of many structures, which displayed signs of swelling, wear, and fungal growth on both wooden and masonry surfaces.<ref name="SP-p13" /> 
+
+The residents of Skullport were similarly affected, often exhibiting a damp and matted appearance due to the pervasive condensation and dripping water. To mitigate these conditions, many inhabitants wore oiled leather ponchos and hooded cloaks for protection against the moisture. The pervasive scent of must and mildew was a defining characteristic of the city's atmosphere. Over time, it was possible to distinguish individual wards by their unique combination of mildew, trade-related odors, and the presence of general refuse.<ref name="SP-p13" />
+
+Skullport required a consistent supply of relatively fresh air. The cumulative demands of several thousand inhabitants, along with the widespread use of fire for illumination, cooking, and smelting, would render the cavern's atmosphere uninhabitable in the absence of effective ventilation systems. Approximately 60 percent of Skullport's fresh air was supplied via the South Sea Caves, which connected directly to the Sargauth. In addition, an intricate network of subterranean pipes and channels embedded within the cavern walls served to extract harmful gases through a system of suction.<ref name="SP-p13" />
+
+Minor contributions to the air supply were provided by the periodic opening and closing of gates along the Sargauth, as well as from a one-way portal to the [[Elemental Plane of Air]]. This portal, located in [[Whisperhaunt Pass]], played a critical role in maintaining atmospheric balance.<ref name="SP-p13" />
+
+==Inhabitants==
+{{Quote
+|For every fortune you win, a score of mates are looking to take it from you.
+|Local saying.<ref name="SP-p15" />
+}}
+
+The population of Skullport consisted primarily of immigrants who, as a result, tended to lack a strong sense of civic pride or collective identity associated with the city itself. Most residents continued to define themselves in terms of their places of origin and retained the allegiances tied to their homelands. While few characterized themselves as patriots willing to defend Skullport as their own, the community nonetheless shared certain common behaviors and social norms.<ref name="SP-p15">{{Cite book/Skullport|15}}</ref>
+
+Inhabitants were generally private and reserved, preferring not to involve themselves in the affairs of others. Displays of curiosity were uncommon, typically arose only when potential personal gain, such as financial profit or an opportunity to improve one's social standing, was readily apparent. This tendency toward discretion and indifference was not merely cultural, but was regarded as a prudent survival strategy within the often perilous environment of Skullport. Visitors were similarly advised to adopt this mindset during their stay.<ref name="SP-p15" />
+
+Despite this, gossip was a favored pastime among the city's residents. While they were generally disinclined to intervene in unusual or suspicious situations, they readily speculated among themselves regarding observed events, criticized the conduct of others, fabricated stories for amusement, and expressed dissatisfaction with their own circumstances.<ref name="SP-p15" />
+
+The typical Skulker embodied a combination of opportunism and survival instinct. Personal needs and desires were prioritized above all else, with greed serving as a predominant motivator within Skullport's social and economic environment. It was widely acknowledged among residents that trust was scarce, particularly in matters involving wealth or financial gain. This pervasive awareness of the competitive and often duplicitous nature of their peers contributed to a defining aspect of Skulker behavior: a pronounced sense of protectiveness, particularly concerning their own interests and well-being.<ref name="SP-p15" />
+
+Residents of Skullport were notably territorial and highly protective of their possessions, which they had acquired while residing in what was widely regarded as one of the most perilous ports in all of Faerûn. As a result, Skulkers exercised constant vigilance over their belongings and remained perpetually alert to potential threats, fostering a pervasive sense of paranoia that was generally considered both natural and prudent in such an environment.<ref name="SP-p15" />
+
+Distrust was deeply ingrained within Skullport's social fabric. Skulkers were typically slow to place confidence in others, and in many cases, they were themselves not regarded as trustworthy. A widespread understanding existed among the populace that personal gain often came at the expense of others, and many were prepared to seize any advantageous opportunity, even if it involved depriving another of their property. While this did not imply that all Skulkers were inherently malevolent, a significant portion exhibited traits commonly associated with moral ambiguity or outright wickedness.<ref name="SP-p15" />
+
+==Trade==
+Just about anything was available for trade in Skullport. In order of importance, the largest trades were slaves, drugs and poisons, cadavers and body parts, [[Mercenary|hireswords]], and smugglers.<ref name="CoS-CG-p104">{{Cite book/City of Splendors (boxed set)/Campaign Guide|104}}</ref> Other trades included rare and magical weapons, spellbooks, and salvage. Most of the trade was conducted in the Trade Lanes.<ref name="SP-p24">{{Cite book/Skullport|24}}</ref>
+
+Trade was recorded by the [[Skullport Island Registry]], which kept tabs on shipping records, predicted arrival and departure
+schedules, bills of sale, and cargo manifests. Though the Registry claimed loyalty to whomever had the most coin, it was secretly controlled by the [[Iron Ring]], a slaving operation.<ref name="SP-p36">{{Cite book/Skullport|36}}</ref>
+
+Bodies, as well as separate body parts, were also traded for purposes of spellcraft and necromancy. This grim trade was conducted by [[Cryptkey Facilitations]], who robbed the City of the Dead in Waterdeep.<ref name="SP-p42">{{Cite book/Skullport|42}}</ref>
+
+Drow in particular made up a good many traders, and trade between Skullport and the drow city of [[Karsoluthiyl]] was led by [[House Tanor'Thal]].<ref name="SP-p18">{{Cite book/Skullport|18}}</ref>
+
+===Slavery===
+Slave trading made up a large portion of Skullport's profits, and the most prominent operations were conducted by the Iron Ring. The Iron Ring was responsible for ensuring the "safety" of slaves, as well as regulating their sale at the Slavers' Market. The Ring conducted a twisted form of public service, in which they would force slaves to perform maintenance and repair on Skullport.<ref name="SP-p19">{{Cite book/Skullport|19}}</ref>
+
+Skullport also employed "snatch bands": groups of slavers hired to kidnap people from Waterdeep and sell them as slaves.<ref name="CoS-CG-p104"/> Rich and important citizens went for a premium; oftentimes the snatch bands held their wealthier victims for ransom—though rarely would the victim ever be freed.<ref name="SP-p10">{{Cite book/Skullport|10}}</ref> In {{Yearlink|1368}}, the leaders of some such gangs were [[Zstulkk Ssarmn]] and [[Ahmaergo]].<ref name="CoS-CG-p104"/>
+
+==Government==
+The government of Skullport was notably unconventional, characterized by the absence of elected officials, hereditary rulers, nobility, or any feudal structure. To the casual observer, the city appeared to function in a state of anarchy; however, in practice, it operated with surprising order. More discerning visitors typically classified Skullport's governance as a form of oligarchy, dominated by various competing power groups.<ref name="SP-p13">{{Cite book/Skullport|13}}</ref>
+
+These factions, while influential, were far from stable. Alliances and rivalries shifted frequently, with governance emerging through temporary and often fragile coalitions of groups whose selfish objectives align for limited periods. No single faction maintained dominance for extended durations, and control was constantly in flux.<ref name="SP-p14">{{Cite book/Skullport|14}}</ref>
+
+Despite this apparent decentralization of authority, the true power in Skullport rested with the [[Skulls of Skullport]]<ref name="SP-p14" />, [[magic|magically]] transformed remnants of the original [[Netheril|Netherese]] [[mage]]s who settled in the cavern.<ref name="Du200.BS" /> Though the Skulls generally remained aloof from daily affairs, they retained absolute authority. When they choose to intervene, their will was final and unchallenged. Ultimately, Skullport functioned as a tyranny veiled in the guise of chaotic oligarchy, with the Skulls serving as its silent and unpredictable overlords.<ref name="SP-p14" />
+
+As of [[1479 DR]] most control over day-to-day activities was managed by gangs such as the [[Lowfellows]] or the [[Mandible]].<ref name="Du200.BS" /> Within a few decades,{{Waterdeep-time}} Skullport came under the domain of the being known as [[Xanathar]] and became the base of operations for his [[Xanathar's Thieves' Guild|thieves' guild]].<ref name="W.DoMM-p304"/>
+[[File:Skulls of Skullport 2e.png|300px|thumb|Do not make a disturbance in Skullport.]]
+
+===Law & Order===
+
+{{Quote|''This be safe haven to all traders and customers; keep thine weapons and thine uncivil tongue sheathed, lest ye find the grinning skull of Death smiling in thy face.''|the Skulls of Skullport, ''[[City of Splendors (boxed set)]]'' by [[Steven Schend]] and [[Ed Greenwood]]<ref name="CoS-CG-p107">{{Cite book/City of Splendors (boxed set)/Campaign Guide|107}}</ref>}}
+
+Order in Skullport was largely defined by the preservation of the status quo, which was upheld less by formal law and more by a combination of fear, convenience, and apathy. Among the denizens of the city, this informal order was self-enforced. Individuals tended to avoid provoking one another, motivated primarily by fear of collective retaliation.<ref name="SP-p14" />
+
+Should a Skulker antagonize another, the consequences were rarely limited to a personal dispute. Such actions often invited the ire of every power group to which the offended party belongs, be it familial, racial, religious, mercantile, or secret in nature. The threat of unified and overwhelming reprisal from these interconnected factions served as a powerful deterrent, reinforcing the unspoken rule that maintaining the status quo was essential for survival in Skullport.<ref name="SP-p14" />
+
+Skullport operated without any formal system of law; instead, order was maintained by the universal imperative to avoid drawing the attention of the Skulls. The Skulls were easily roused by significant disruptions, particularly those that interfere with trade or resulted in wanton property destruction.<ref name="SP-p14" />
+
+As such, most Skulkers go to great lengths to uphold the status quo and prevent circumstances that might prompt the Skulls to intervene. Actions perceived as threatening to the city's delicate balance often provoked swift and brutal retribution from the populace. Offenders faced mob justice in the form of branding, torture, maiming, or even execution, punishments meted out freely and without restraint, so long as a Skull was not present to witness or address the matter directly.<ref name="SP-p14" />
+
+Activities that drew the attention of the Skulls would often garner seemingly random punishments.<ref name="Du200.BS"/> However, the Skulls occasionally took part in a bizarre form of court. Disruptors that were not immediately disintegrated by the Skulls would sometimes face trial in Skull Square, where witnesses would testify against them. Gathering audiences would act as jury, but the Skulls had the ultimate say as judges.<ref name="SP-p41">{{Cite book/Skullport|41}}</ref>
+
+Some form of legal defense did exist. In {{Yearlink|1370}}, the orator Amet'ned-thoth was paid to argue cases before the Skulls in Skull Square.<ref name="SP-p76">{{Cite book/Skullport|76}}</ref> Minor offenses would land a person in stocks or in crow's cages, where they would face minor verbal and physical abuse from Skulkers before being released. Persons committing major offenses, however, were often sentenced to the dungeons, or sold into slavery.<ref name="SP-p41"/>
+
+==Culture==
+===Religion===
+Organized religious activity was subject to considerable restriction and social disapproval. Although residents were no less devout than individuals elsewhere in the Realms, the expression of faith within the city was required to be discreet. Historical precedent demonstrated the dangers of overt religious endeavors; attempts by followers of lawful or good-aligned deities to suppress or reform the chaotic and often malevolent character of Skullport had repeatedly resulted in severe reprisals. On such occasions, the Skulls intervened, frequently inflicting significant destruction and loss of life. Those deemed responsible for provoking the Skulls were typically expelled into Undermountain or killed.<ref name="SP-p15" />
+
+Religious groups seeking to establish themselves within Skullport must operate covertly. Dedicated religious structures such as churches, shrines, or temples were expressly prohibited. No public places of worship existed in the city in [[1370 DR]], though some individuals maintained private shrines within their residences or attempted to construct concealed sanctuaries. These efforts, however, carried considerable risk; if detected, the Skulls and the summoned [[wizshade]]s they commanded destroyed such sites, often killing any persons present.<ref name="SP-p15" /> With that being said, in [[1372 DR]] a cult dedicated to [[Cyric]] had finally managed to successfully establish a prominent temple, known as the [[House of Cyric (Skullport)|House of Cyric]], within the city, somehow figuring out a way to stay even after catching the attention of the Skulls.<ref name="MC.MoF-p18">{{Cite book/Monsters of Faerûn|18}}</ref>
+
+Despite these harsh measures, the Skulls did not indiscriminately target religious figures such as [[priest]]s, [[paladin]]s, or [[ranger]]s. Private expressions of faith, including vocal declarations and personal gestures, were generally tolerated. The Skulls' hostility was reserved for conspicuous religious acts, such as the turning of [[undead]], public gatherings for worship, street healing accompanied by proselytization, and other displays that suggested formal or collective religious activity.<ref name="SP-p15" />
+
+===Festivals & Holidays===
+Every year, at midnight before [[Highharvestide]], the Skulls disappeared from Skullport for an entire day, journeying to places unknown. The holiday was one of few days for celebration in Skullport; chaos reigned, and Skulkers were free to settle old scores. As the day came to a close, most folk retired to their quarters lest they be caught by the returning Skulls.<ref name="SP-p74">{{Cite book/Skullport|74}}</ref>
+
+===Food & Drink===
+More than half of the food consumed in Skullport must be imported from the surface realms. Due to the absence of natural light and arable soil within the subterranean environment, this includes all fruits, vegetables, and grains. The principal local food source consisted of fungi cultivated in small outlying caverns and various levels of Undermountain. These mushrooms formed the dietary staple for the majority of the population and were transported into the city for sale in its markets.<ref name="SP-p13" />
+
+In addition to cultivated fungi, residents supplemented their diets through the exploitation of native fauna. Various subterranean animals were hunted and consumed, with certain species regarded as delicacies. Fishing was also practiced, particularly in the Sargauth, which was inhabited by a species of large, blind fish known locally as "[[gumpfish]]." Although lacking in flavor, gumpfish were considered a nutritious food source. Furthermore, some Skulkers harvested sizable clams and shellfish in the southern areas of the Port during low tide. These shellfish, sustained by the abundance of microscopic sea life in the nutrient-rich underground waters, were capable of reaching considerable size.<ref name="SP-p13" />
+
+To address the ongoing demand for meat, Skullport established trade relations with Underdark races such as the [[duergar]] and [[drow]], who supplied meat from their [[rothé]] herds. Rothé meat, while more affordable than beef or fowl, was characterized by a gamy flavor and distinctive seasoning qualities, yet it had steadily gained popularity among residents. Efforts by certain Skulkers to raise rothé herds locally had been met with limited success, primarily due to predation by various creatures inhabiting Undermountain.<ref name="SP-p13" />
+
+The waters of both the Sargauth and [[Skull Pool]] were highly saline and, as such, were unsuitable for consumption by most races. The majority of Skullport's potable water was sourced from deep wells located throughout the lower levels of the city. In addition to these primary sources, some inhabitants collected limited quantities of water from natural seepage, which dripped from the cavern ceiling or condenses on various structures. This water was typically gathered in containers such as pans, tuns, and barrels. However, the volume obtained through such means was minimal in comparison to that drawn from the wells and was frequently subject to contamination by undesirable substances, including mineral deposits as well as ash and soot generated by the city's numerous fires.<ref name="SP-p13" />
+
+==Notable Locations==
+[[Image:Skullport-Zstulkk.jpg|right|thumb|280px|Overview of Skullport showing location of the "Snake Pit"]]
+
+;[[Skullport/Port|Port]]:
+The Port was located directly north of Skull Island and east of the Trade Lanes in Skullport's main cavern. It was the rowdiest ward of Skullport, hosting a large number of [[festhall]]s and buccaneers on shore leave. The cavern ceiling was nearly 100 feet tall. The Port had a lower (Dredge) and central (Venter) level.<ref name="S-p24">{{Cite book/Skullport|24}}</ref>
+
+;[[Skullport/Heart|Heart]]:
+The Heart was the easternmost part of the main Skullport cavern, opening from the Trade Lanes to the west to round off at the cavern's eastern wall. It was the primary residential ward and highest-class area of Skullport, and also contained some businesses. Its ceiling was 300 feet. It had a rougher, more natural cave-like appearance than the other wards due to the hundreds of overhanging stalactites.<ref name="S-p45">{{Cite book/Skullport|45}}</ref>
+
+;[[Skullport/Trade Lanes|Trade Lanes]]:
+The Trade Lanes was a ward that connected the Port ward to the west and the Heart ward to the east. It was a long corridor with fairly straight north and south cavern walls, containing the bulk of Skullport's trades and services. The ceiling rose from {{SIrange|100|300|ft|long=yes}} as it angled up from the Port to the Heart. The Trade Lanes had three levels, Dredge, Venter and Crown.<ref name="S-p24" />
+
+;[[Skull Island]]:
+Located south of Skullport proper, within the Sargauth River across the [[Murkspan Bridge]], this small isle was a well-defended fortress.
+
+;Other Locations:
+*[[Hall of Mental Splendor]]: A small stronghold that housed a cadre of [[psionic]] spies that worked on contract, led by [[Vhondryl]].<ref name="PGtF-174">{{Cite book/Player's Guide to Faerûn|174}}</ref>
+*[[Snake Pit]]: The Snake Pit was located in the heart of Skullport's mercantile district.<ref name="SK-p134">{{Cite book/Serpent Kingdoms|134}}</ref>
+*[[Threads|The Threads]]: A series of tunnels north of the main cavern.<ref name="Du200.BS" />
+
+==History==
+Though the ancient [[Clan Melairkyn]] dwarves had lived from {{Yearlink|-1288}} in the Underhalls—later known as the upper levels of Undermountain—the dwarves had never entered the area that would become Skullport.<ref name="Skullport-p5">{{Cite book/Skullport|5}}</ref>
+
+In {{YearlinkName|-750}}, a group of [[Netherese]] mages, referred to as the [[Sargauth Enclave]], built Skullport as a place to study and experiment, especially with [[mythal]] magic. The mythal cast on the Enclave's domain provided lighting, magical protection, and supported the cavern ceilings, and was referred to as the mantle.<ref name="GHotR-p47">{{Cite book/The Grand History of the Realms|47}}</ref> The mantle was inspired by both elven and Netherese magic.<ref name="Skullport-p6-9">{{Cite book/Skullport|6-9}}</ref>
+
+However, not all of the experimentation was benevolent. The Enclave had also built a laboratory with a series of cells to house their test subjects, many of whom were kept in chains.<ref name="Skullport-p67-8">{{Cite book/Skullport|67-68}}</ref>
+
+Eager to export their experiments, the Enclave magically connected the Sargauth basin, later known as the [[Skull Pool]], to the [[South Sea Caves (Waterdeep)|South Sea Caves]]. Though the Enclave had begun as a place of study and experiments, it became a mile-long city decorated with incredible temples to Netherese gods. One such temple was dedicated to [[Moander]], an ancient, evil god of rot and decay.<ref name="Skullport-p6-9"/><ref name="d176-p18">{{Cite dragon/176/If You Need Help - Ask the Drow!|18}}</ref> The Enclave also built an extensive system of sewers to dispose of waste.<ref name="Skullport-p67-8"/>
+
+In the {{YearlinkName|-339}}, the explosion of magic resulting from the [[Karsus's Folly|fall of Netheril]] temporarily damaged the [[Weave]]. The effects on the Enclave were threefold: the mantle backfired, causing the cavern ceilings to collapse and bury the Sargauth settlement, killing many of its inhabitants; the locks in the Sea Caves were damaged and rendered inactive; and the essence of the Netherese wizards was absorbed into the mantle, transforming thirteen of them into the flaming [[Skulls of Skullport]].<ref name="Skullport-p6-9"/>
+
+The Skulls were trapped magically in the Enclave, and for centuries they wandered the ruins. With a collective consciousness, eventually the Skulls lost all sense of individuality and became insane. The lesser wizards and apprentices, whose essence still remained trapped in the mythal, could only appear in the form of [[Wizshade|wizshades]], and only when summoned by the Skulls.<ref name="SP-p22">{{Cite book/Skullport|22}}</ref>
+
+In the {{YearlinkName|168}}, the mad mage Halaster Blackcloak arrived in the Underhalls and ruled them by {{Yearlink|309}}. He began to construct the Undermountain from the Underhalls, beginning a dungeon that would eventually span twenty-three levels.<ref name="SP-p22"/>
+
+When Halaster discovered the ruins of the Sargauth Enclave, he recognized the dangers of the Skulls and retreated from the caverns, never stepping foot there again. He forbade his apprentices to enter the Enclave, and used the Netherese mantle to maintain the wards of Undermountain, linking the two inextricably with one another.<ref name="SP-p22">{{Cite book/Skullport|22}}</ref>
+
+In {{Yearlink|1148}}, one of Halaster's [[Seven|seven apprentices]], [[Shradin Mulophor]], ventured into the ruins despite his master's warnings.<ref name="Skullport-p6-9"/><ref name="W.DoMM-p5">{{Cite book/Waterdeep: Dungeon of the Mad Mage|5}}</ref> Hoping to build a lair and trading post, Shradin obtained permission from Halaster to settle there.<ref name="CoS.W-p109">{{Cite book/City of Splendors: Waterdeep|109}}</ref> After doing so, he similarly entered into contract with the Skulls and established his intent to found Skullport.<ref name="SP-p93">{{Cite book/Skullport|93}}</ref>
+
+Shradin expanded a considerable amount of effort to make the area habitable. Working with a group of dwarves, Shradin re-opened the Netherese sewer system, inadvertently freeing large numbers of Underdark monsters that had made the sewers their home. Capturing them, he and the dwarves established a waste disposal system that utilized the otyughs, slimes, and jellies, allowing them to feed without harming the denizens of Skullport.<ref name="Skullport-p67-8"/>
+
+Now with the title of Lord of Bones, Shradin expanded the trading settlement. Word spread of the settlement, and it began to attract other races from the Underdark, such as drow, illithids, and duergar. Trade was further encouraged by Shradin's magic, which redirected Underdark waterways to connect to the river Sargauth, and established ''gates'' linking to distant seas.<ref name="Skullport-p6-9"/>
+
+Within twenty-five years, Skullport prospered as one of the main trading ports of the Underdark. It also served as a convenient place to banish criminal Waterdhavians from the City of Splendors.<ref name="Skullport-p6-9"/><ref name="Du200.BS"/>
+
+As the subterranean city drew wizards to its caverns, the Skulls discovered that magic-users slain within Skullport were occasionally absorbed by the mantle, increasing its power. The Skulls were able to use this new essence in order to create vassal skulls, able to survey Skullport and summon wizshades.<ref name="SP-p22"/>
+
+The ultimate plan of the Skulls, however, was to eventually gather enough magical essence in order to escape their magical prison. They believed that if they were able to create thirteen similar entities, capable of extracting magical essence and channeling it into the mantle, the Skulls would be able to leave Skullport.<ref name="SP-p22"/>
+
+In {{Yearlink|1166}}, the Keepers, a mysterious group of wizards led by Lochlord [[Gideona]], arrived in Skullport and claimed control of its ports, particularly the entrance to Skullport through the South Sea Caves. They rediscovered the magical locks and had restored them by {{Yearlink|1168}}.<ref name="GHotR-p123">{{Cite book/The Grand History of the Realms|123}}</ref><ref name="Skullport-p6-9"/>
+
+In {{Yearlink|1172}}, the Lords of Waterdeep constructed a hoist that would allow ships to enter Skull Pool with the permission of the Keepers. Though the Lords controlled this hoist for a time, it fell to the Keepers after sixty years.<ref name="Skullport-p6-9"/> The Keepers hoped to control all routes along the river Sargauth.<ref name="SP-p20">{{Cite book/Skullport|20}}</ref>
+
+By the {{YearlinkName|1184}}, Shradin had been exploring the lower levels of the Underhalls. To all who saw him, he appeared insane and unstable—though, in truth, he was unchanged. Shradin faked his insanity to relieve himself from the responsibilities of his role, and retired to run [[Shradin's Excellent Zombies]], a zombie-for-hire shop in the Lower Heart.<ref name="SP-p93"/>
+
+Unbeknownst to all, Shradin had created a palatial lair for himself underneath his shop out of the remnants of a kuo-toa temple, spreading below the streets of Skullport.<ref name="SP-p47">{{Cite book/Skullport|47}}</ref><ref name="CoS-CG-p108">{{Cite book/City of Splendors (boxed set)/Campaign Guide|108}}</ref> At some point, he had also created a clone of himself, which was placed in magical stasis and resided in a storeroom.<ref name="SP-p73">{{Cite book/Skullport|73}}</ref>
+
+Around the mid-13{{th}}-century, a series of earthquakes shook the Underhalls and created a fissure along the southern wall of the main cavern in the Lower Heart. This rupture, referred to as [[Rumblecleft Pass]] by the late 14{{th}} century, released a lethal gas that claimed the lives of many residents. Although the gas was eventually vented away, it caused several hundred deaths before dissipating.<ref name="SP-p46">{{Cite book/Skullport|46}}</ref>
+
+The gas also reanimated the corpses of those it killed, transforming them into [[zombie]]s. These undead briefly menaced the lower districts of the city until Shradin assumed magical control over them. Some accounts suggested that the earthquake may have been engineered as a diversion, enabling Shradin to conceal his involvement while replenishing his supply of undead laborers.<ref name="SP-p46"/>
+
+In {{Yearlink|1355}}, a group of drow constructed the [[Promenade of the Dark Maiden]], a temple of [[Eilistraee]], in part of the original Sargauth Enclave. Though this cavern had been separated from the area of Skullport for hundreds of years from the collapsing stone in {{Yearlink|-339}}, it marked the start of their influence in the Port of Shadows. The [[Chosen of Eilistraee]] made it their work to free slaves and rescue adventurers, caring for them in the Promenade.<ref name="SP-p16-17">{{Cite book/Skullport|16-17}}</ref>
+
+In {{Yearlink|1358}}, the [[Time of Troubles|Fall of the Gods]] provoked a slight tremor in Halaster's wards. The Skulls, able to briefly access this power, transformed an unfortunate visiting drow archmage into the [[Fourteenth Skull]]. The Fourteenth Skull was able to command [[Raggamoffyn|raggamoffyns]], and, like the Skulls, extract the magical energy of its victims and channel it into the mantle. The Fourteenth Skull gained the name of the Rag Mage from his lair amongst the trash of the Upper Trade Lanes, where he appeared as a form made entirely of rags.<ref name="SP-p22"/><ref name="SP-p62">{{Cite book/Skullport|62}}</ref>
+
+In {{Yearlink|1369}}, owing to the events of [[Halaster's Higharvestide]], Shradin was left without the protection of his master. The Skulls seized this opportunity to attack and destroy him, reasserting themselves to all as the true masters of Skullport.<ref name="GHotR-p150">{{Cite book/The Grand History of the Realms|150}}</ref> Upon Shradin's destruction, the zombies occupying Shradin's Excellent Zombies were freed and ran amuck, causing chaos in Skullport. Some citizens stood watch outside the shop, waiting for a return that would never come.<ref name="SP-p47"/>
+
+However, while Shradin's physical form was destroyed, his soul became bound to the mantle, and to the collective minds of the Skulls. This rendered him effectively immortal, though unable to leave the Undermountain. In this state, he appeared as a cloud of red mist and would attack victims in order to siphon their physical and magical energies, using it to sustain the mantle.<ref name="SP-p93"/>
+
+In the late 14{{th}} century, just prior to the [[Spellplague]], the [[slaad]] [[Azriim]] weakened the mantle. Once again, the caverns collapsed and buried the city. Only a few years later, in {{Yearlink|1385}}, the Spellplague caused the mantle to fire blasts of [[wild magic]] before all but disappearing. The remains of the mantle lingered in the cavern's rock, but required much fuel to support it. From then on, the essence of all residing in Skullport was partially drained to feed the mantle, leaving the denizens alive, but depressed and aged. Some, in order to maintain the small amount of magic left, fed the mantle with the live sacrifice of magic-users.<ref name="Du200.BS-p2">{{Cite dungeon/200/Backdrop: Skullport|2}}</ref>
+
+[[File:Skullport.jpg|thumb|left|200px|Skullport in 1479 DR]]
+
+After the Spellplague, most survivors fled Skullport, and its population dwindled into the hundreds. The Skulls, having survived the Spellplague and the caverns' collapse, continued to rule. However, in the latter 15{{th}} century, interest in Skullport was revived due to the discovery of [[mithral]] within its ruins. [[Miriam Sequora]], a young adventurer, convinced a small number of miners to join her in her next excursion by showing them the mithral she had collected.<ref name="Du200.BS-p2"/>
+
+Soon a few merchants and miscreants settled in the town, and the population began to grow once more.<ref name="Du200.BS-p2"/> By the [[1492 DR|Year of Three Ships Sailing, 1492 DR]], Skullport had come under the control of the [[Xanathar (Zushaxx)|Xanathar]], who made the city a haven for its [[Xanathar's Thieves' Guild|namesake criminal organization]].<ref name="W.DoMM-p304"/>
+
+The various businesses and shops were forced to pay it for protection, lest they be shut down permanently. Though the Skulls continued to haunt the city, by 1492 they rarely communicated and did not interfere with the Xanathar Guild's activities.<ref name="W.DoMM-p304"/>{{Waterdeep-time}}
+
+{{sectstub}}
+
+===Notable Organizations===
+* [[Keepers|The Keepers]], hired [[mage]]s who raised ships through the magical locks that led from the port to the sea caves south of Waterdeep.
+* [[Xanathar's Thieves' Guild]], the infamous criminal organization helmed by the [[Xanathar (title)|Xanathar]].
+
+===14{{th}} Century===
+* [[Iron Ring]]
+* [[Hired Horrors]], a company that bred [[deepspawn]] and [[Teleport|teleported]] them to select locations.
+
+===15{{th}} Century===
+* [[Fray|The Fray]], thirteen mages who helped the Fourteenth Skull maintain what was left of the Mantle.<ref name="Du200.BS" />
+* [[Mandible|The Mandible]], the most influential gang in town.<ref name="Du200.BS" />
+* [[Reforged Ring|The Reforged Ring]], an unpopular ring of criminals that dealt in slavery.<ref name="Du200.BS" />
+* [[Riverborn|The Riverborn]], a disorganized group of pirates.<ref name="Du200.BS" />
+* [[Bregan D'aerthe]], a drow mercenary group led by [[Jarlaxle|Jarlaxle Baenre]].<ref name="EDV-04-08-2020-BDiS">{{Cite web/theedverse/2020-04-08 - Bregan D'aerthe in Skullport}}</ref>
+
+===Notable Inhabitants===
+* [[Skulls of Skullport]], thirteen ancient [[flameskull]]s defended the town of Skullport since its founding. They were remnants of the ancient Sargauth Enclave of [[Netheril]], having lost all touch with reality over their millennia spent beneath [[Faerûn]]. Their consciousness could not differentiate their current existence with that of their past and considered themselves the rulers of Skullport.<ref name="W.DoMM-p304">{{Cite book/Waterdeep: Dungeon of the Mad Mage|303-304}}</ref>
+* [[Fourteenth Skull]], the legendary 14{{th}} floating skull that was actually the spirit of a drow.<ref name="Du200.BS" />
+* [[Moriana Duskwalker]], an [[eladrin]] and a former pirate captain.
+* [[Naren Dafyre]], a merchant, and a lesser lord of the [[Mandible]] gang, who aimed to obtain the ''[[Dragon's Tooth]]''.
+* [[Nhyris D'Hothek]], a [[yuan-ti]] turned abomination during the [[Spellplague]] when he held the ''[[Crown of Horns]]''.
+* [[Blind|The Blind]], a pitiful old [[beholder]] that claimed to be the [[Kirukeskai|Eye]], a former Xanathar that faked his death.
+* [[Zstulkk Ssarmn]]
+* Irusyl Eraneth, an alias of [[Laeral Silverhand]], who spied on Skullport for the Lords of Waterdeep.<ref name="CoS-CG-p108"/>
+
+==Trivia==
+* The people of Skullport measured time in 'bells' of approximately four hours each.<ref name="Du200.BS" />
+* The town was bathed in dim light from phosphorescent fungus known as the [[gloam]].<ref name="Du200.BS" />
+
+==Rumors & Legends==
+It was thought—incorrectly—that the locks in the Sea Caves were established by Halaster Blackcloak.<ref group="note">The 1999 [[Skullport (sourcebook)|Skullport sourcebook]] refers to the sea locks being established by Netherese mages. However, the 1998 novel ''Tangled Webs'' refers to the locks in the Sea Caves as being created by Halaster Blackcloak. As sourcebooks supersede novels in the canon hierarchy, it is accepted that the locks were created by the Netherese mages.</ref>
+
+==Appendix==
+{{Incomplete|Needs 2e, 3e, 4e information from [[Skullport (sourcebook)|Skullport]], [[City of Splendors (boxed set)|CoS]], [[City of Splendors: Waterdeep|CoS:W]] among others}}
+===Appearances===
+{{Appearances
+| adventures          = ''[[Waterdeep: Dungeon of the Mad Mage]]''
+| adventure refs      = 
+| novels              = ''[[Daughter of the Drow]]''; ''[[Tangled Webs]]''; ''[[The Paladins]]''; ''[[Dawn of Night]]''; ''[[To Catch a Thief]]''
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = ''[[Descent to Undermountain]]'';{{NWNapp|SoS}}
+| board games         = ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''; ''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]''
+| board game refs     = 
+| card games          = {{MTGapp|AFR}}
+| card game refs      = 
+| miniatures          = 
+| miniature refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+
+===Notes===
+{{Notes}}
+
+===References===
+{{Refs}}
+
+===Sources===
+* {{Cite book/Skullport}}
+* {{Cite book/Serpent Kingdoms|134}}
+
+===Connections===
+{{Enclaves of Netheril}}
+{{Wards of Waterdeep}}
+[[FR:Port-crâne]]
+[[de:Schädelhafen]]
+[[Category:Large towns]]
+[[Category:Settlements]]
+[[Category:Netherese locations]]
+[[Category:Locations on the Sargauth]]
+[[Category:Locations in Undermountain]]
+[[Category:Locations in Waterdeep]]
+[[Category:Ports]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Mount Waterdeep
+
+{{DEFAULTSORT:Waterdeep, Mount}}
+{{Mountain
+| image          = Mount Waterdeep (KoTLD).png
+| caption        = A view of Mount Waterdeep, ''circa'' [[1357 DR]]
+| name           = Mount Waterdeep
+| aliases        = 
+| type           = Mountain
+| region         = [[Waterdeep]]
+| elevation      = {{SI|700|ft}}
+| georefs        = <ref name="CS-CG2e-p8-9">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8-9}}</ref>
+| races          = 
+| socrefs        = 
+| usethe         = 
+| useon          = yes
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = 
+| mountains      = 
+| events         = yes
+| food and drink = 
+| items          = 
+}}
+'''Mount Waterdeep''' was the name of the mountain on and around which the city of [[Waterdeep]] was built. It was a rough, rocky mountain and stood some {{SI|700|ft|long=yes}} above the sea level, to the west of the city. Beneath the mountain was the notorious [[Undermountain]]. The whole of Mount Waterdeep was considered to be in the [[Castle Ward of Waterdeep|Castle Ward]].<ref name="CS-CG2e-p8-9" /><ref name="FRCS3e-p179">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|179}}</ref><ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+{{Quote
+|"If, beneath the mountain, coursing rivers of magma are like blood, then the [[hammer]] blows, and thrumming forges of our kin are the beating heart. And [[mithral]], our precious metal, buried deep and hidden within stone, can only be the mountain's dream."
+|[[Melairkyn]] folklore<ref name="CotDK">{{Cite adventurers league/Crypt of the Dark Kiss|2}}</ref>}}
+
+==Geography==
+Mount Waterdeep shielded the city from the worst coastal storm winds.<ref name="FRCS3e-p179" /><ref name="CS-CG2e-p19">{{Cite book/City of Splendors (boxed set)/Campaign Guide|19}}</ref> Inside the heart of the mountain there was a freshwater spring, that once spewed out and down its seaward rocks and into the sea below. Later on this spring was redirected into large-cistern caverns that were built into the upper reaches of the mountain, which then went down pipes into the city's [[Waterdeep/Sewers|sewer system]].<ref name="MWFS">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2014)/Mount Waterdeep's Freshwater System}}</ref>
+
+==History==
+There was a ballad that spoke an ancient city sunk into the sea and the gods raised a head stone for it to mark the grave. That was Mount Waterdeep.<ref name="WW-p15">{{Cite book/Windwalker/Hardcover|15}}</ref>
+
+Mount Waterdeep was once home to the underhalls of [[Melairbode]], a shield dwarf hold.<ref name="WDMM5e-p86">{{Cite book/Waterdeep: Dungeon of the Mad Mage|86}}</ref>
+
+==Notable Locations==
+* Waterdeep's [[Peaktop Aerie]], which housed the [[Griffon Cavalry]] riders, sat on this mountain top.<ref name="WDH5e-p181">{{Cite book/Waterdeep: Dragon Heist|181}}</ref>
+* A lookout tower.<ref name="CS-CG2e-p46">{{Cite book/City of Splendors (boxed set)/Campaign Guide|46}}</ref>
+* A [[Celestial Stairway]]<ref>{{Cite comic/Total Eclipse|15-16}}</ref><ref>{{Cite book/Waterdeep|328}}</ref>
+* On its seaward side rested eleven gigantic triple catapults.<ref name="CoSW-p96" />
+* Several sea caves existed on the western side of the mountain. These were all watched by the [[City Guard (Waterdeep)|City Guard]].<ref name="CS-CG2e-p46" />
+* The [[South Sea Caves (Waterdeep)|South Sea Caves]] were connected to Undermountain by a set of hoists large enough to move a sailing ship.<ref name="CoSW-p96" />
+* The [[Cliffride]], a steep gravel path that ran along the western edge of Mount Waterdeep's northern spur, connecting the festhall [[Silavene's]], the rental villa of [[Fair Winds]], and, at its southern end, the [[bardic college]] of [[New Olamn]].<ref name="CS-CG2e-p46" />
+
+==Inhabitants==
+The reclusive [[monk]] [[Hlam]] lived in a cave halfway up the side of the mountain.<ref name="CSW3e-p49">{{Cite book/City of Splendors: Waterdeep|49}}</ref><ref name="WDH5e-p204">{{Cite book/Waterdeep: Dragon Heist|204}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Gallery===
+<gallery>
+Image:Celestial Stairway.jpg|The [[Celestial Stairway]] rising from Mount Waterdeep, observed by [[Luna]].
+</gallery>
+===References===
+{{Refs}}
+[[Category:Mountains]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Clan Melairkyn
+
+{{DEFAULTSORT:Melairkyn, Clan}}
+{{Organization
+| image          = 
+| caption        = 
+| name           = Clan Melairkyn
+| alt_spelling   = 
+| aliases        = 
+| type           = 
+| base           = [[Melairbode]], [[Undermountain]]
+| leadertitle    = 
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = [[Dwarf]]
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = 
+| orgname        = 
+}}
+'''Clan Melairkyn''' was an ancient [[Dwarf|dwarven]] clan of artisans, explorers, and traders.<ref name="Sk-p6">{{Cite book/Skullport|6}}</ref> Its mark was [[Dumathoin]]'s symbol with an axe as the inner gem's border.<ref name="U.tLL-p29" />
+
+==History==
+When King [[Melair I]] discovered deposits of [[mithral]] in the rock beneath [[Mount Waterdeep]] in {{Yearlink|-1288}}, the area was rapidly expanded into [[Melairbode]], later known as [[Undermountain]]. Their home was under increasing threat from the [[drow]] over the course of the centuries, until a huge attack in the {{YearlinkName|34}}, killed King [[Melair IV]], who was their ruler at the time, and forced them deeper into the mountain. They were driven out of Undermountain in the {{YearlinkName|211}}.<ref name="Sk-p6"/>
+
+Some of the surviving Clan Melairkyn worshipers of [[Clangeddin Silverbeard]] assembled [[Clangeddin's Hearth]], an organization with one goal: to take back the clan's ancient home deep in Undermountain. With Halaster's disappearance in [[Halaster's Higharvestide]] in the {{YearlinkName|1369}}, Clangeddin's Hearth seized the opportunity to establish an outpost in the clan's abandoned temple of Clangeddin Silverbeard in Undermountain. During the same period of time, [[drow]] reestablished their presence in Undermountain, often clashing with the dwarves.<ref name="Dec">{{Cite game/Descent to Undermountain}}</ref>
+
+In the {{YearlinkName|1370}}, Clangeddin's Hearth's dwarves attempted to wash a tribe of [[kobold]]s out of Undermountain's sewers. The drow used the kobolds as scouts and overwatch by the drow, led by Matron [[Azurna]], and this attack angered her enough to take decisive action against Clangeddin's Hearth. She led the squad of drow assassins to slaughter almost every dwarf in the temple of Clangeddin Silverbeard. To add insult to injury, she gifted the temple to her [[lich]] ally [[Morik Stormhand]], who desecrated the fallen dwarves' memory by bringing them back as his [[undead]] servants. Following the disastrous events of 1370 DR, only a handful of Clangeddin's Hearth members remained alive. Notably, [[Urkantor]] avoided the slaughter by being imprisoned at the time in [[Horazak]]'s ancient dwarven prison.<ref name="Dec" />
+
+==Rumors==
+Some scholars said that around one hundred dwarves from the Melairkyn clan escaped the final slaughter, fled Undermountain, and ventured west or south. Some claimed that they were involved in the creation of [[Phalorm]], the Fallen Kingdom, yet some maintained that the Melairkyn still populated the depths of Undermountain.<ref name="Sk-p6" />
+
+==Survivors==
+In actual fact, a tiny number of members of the Melairkyn clan still existed by [[1370 DR]]:
+* [[Bandaerl]], son of Rykos, a dwarven priest of [[Dumathoin]] who became an [[archlich]] and still guarded the tomb of King Melair in lower Undermountain.<ref name="U.tLL-p29">{{Cite book/Undermountain: The Lost Level|29}}</ref>
+* [[Belkram]], high priest of Dumanthoin that gifted King Melair I the [[Crown Adamant]] who was cursed with undeath after betraying the clan.<ref>{{Cite book/Expedition to Undermountain|214-215}}</ref>
+* [[Corman Shieldstar]]<ref name="U.tLL-p19">{{Cite book/Undermountain: The Lost Level|29}}</ref>
+* Lady [[Darlas Shieldstar]]<ref name="U.tLL-p19" />
+* [[Daizez]], a dwarven historian who authored ''[[A Brief History of Undermountain]]''.<ref name="Sk-p6" />
+* [[Gyudd]], a master brewer and the last direct descendant of the Melairkyn dwarves in [[Waterdeep]] as of [[1375 DR]].<ref name="EtU-p113">{{Cite book/Expedition to Undermountain|113}}</ref>
+* [[Jaerloon Bucklebar]]<ref name="U.tLL-p19" />
+* [[Jemuril]]<ref name="U.tLL-p19" />
+* [[Kolrathanin]], Clangeddin's Hearth's dwarf who attempted to flush kobolds out of Undermountain's sewers in 1370 DR.<ref name="Sk-p6" />
+* [[Urkantor]], a member of Clangeddin's Hearth ''circa'' 1370 DR.<ref name="Sk-p6" />
+
+==Appendix==
+===Appearances===
+{{App
+
+=== LINKED WIKI PAGE (first 5000 chars): Halaster Blackcloak
+
+{{DEFAULTSORT:Blackcloak, Halaster}}
+{{Person
+| image          = 
+<gallery>
+Halaster DotMM.png|5e
+Halaster Neverwinter.png|4e
+Halaster2.jpg|3e
+Halister Villains' Lorebook.png|2e
+</gallery>
+| caption2       = Depictions of Halaster Blackcloak.
+| name           = Halaster Blackcloak
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Hilather Blackcloak<br/>Haalvar the Mad<ref name="EasyBp49">{{Cite book/Easy Betrayals|49|4}}</ref>
+| nicknames      = 
+| home           = [[Undermountain]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Raurinese]]
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Alzhedo]]<ref name="WitW-pp8,11">{{Cite adventurers league/A Wrinkle in the Weave|8,11}}</ref>, [[Abyssal]], [[Celestial]], [[Common]], [[Draconic]], [[Dwarvish]], [[Elvish]], [[Infernal]], [[Undercommon]]<ref name="W.DotMM-p310"/>
+| basicrefs      = <ref name="FRCS3e-p180-181" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1375
+| deathnotes     = , [[Eleint]] 30<ref name="GHR158"/>
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic evil]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|29}}
+| refs2e         = <ref name="CoS2e-WWW-p76">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|76}}</ref>
+| alignment3e    = [[Chaotic evil]]
+| challenge3e    = 30
+| class3e        = {{Class table|edition=3e|[[Wizard]]|25|[[Archmage]]|5}}
+| refs3e         = <ref name="FRCS3e-p180-181">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|180-181}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic evil]]
+| challenge5e    = 23
+| class5e        = {{Class table|edition=5e|[[Wizard]]|20}}
+| refs5e         = <ref name="W.DotMM-p310">{{Cite book/Waterdeep: Dungeon of the Mad Mage|310}}</ref>
+}}
+'''Halaster Blackcloak''' (formerly '''Hilather Blackcloak''' {{Pronounce|HILL|a|thur|refs=<ref name="WitW-p12">{{Cite adventurers league/A Wrinkle in the Weave|12}}</ref>}}) was a notorious, ancient, and utterly insane [[wizard]] who resided within his lair, the infamous [[Undermountain]].<ref name="FRCS3e-p180-181" />
+
+==Personality==
+Halaster seemed, in a word, insane. He muttered and chuckled to himself ceaselessly and had difficulty holding the thread of any conversation or debate for very long. Nevertheless, he remained fully aware of threats and hazards, and reacted and defended himself with great speed and efficiency. While in Undermountain, he had only rare moments of lucidity, but if he was ever outside the dungeon, he became lucid for much of the time.<ref name="FRCS3e-p180-181" />
+
+At these times, Halaster was cold, well-mannered, and dignified and fastidious and meticulous in his habits, though still thoroughly evil. He did not tolerate any insult or insolence in any case and remembered any offense or help given his way. He pushed to have his own way in all things, heedless of the havoc or harm done to others in the way.<ref name="FRCS3e-p180-181" />
+
+His main hobbies were collecting new monsters and kinds of [[magic]]. However, having lived for millennia, he finds very little that he hasn't seen before. Thus, until such things came along, Halaster meddled in politics and goings-on in the world according to his whims for his own entertainment.<ref name="FRCS3e-p180-181" />
+
+He was more gregarious as a young man, creating and hosting [[magefair]]s and [[spellmoot]]s, and taking many apprentices. However, as his power grew, he dealt more and more with beings from other [[planes]], which led to his growing madness.<ref name="TRoU-p3"/>
+
+==Abilities==
+As a mighty [[archmage]], Halaster Blackcloak had a vast array of spells and magical powers at his command. Among them, he could make use of ''[[contingency]]'' spells and [[clone]]s of himself to ensure his survival in any spell-battle.<ref name="FRCS3e-p180-181" />
+
+Inside Undermountain, he could command all kinds of [[construct]]s, including [[crawling claw]]s, [[helmed horror]]s, and various [[golem]]s. He also made use of its countless traps and surprises, such as a "moving [[portal]]" that could pick up either himself or his victims and deposit them somewhere else.<ref name="FRCS3e-p180-181" />
+
+In addition to his great magical prowess, Halaster was well-versed in many areas, from [[gem]]-cutting to engineering to the breeding, care, and containment of monsters, both alive and undead, particularly from those hailing from other [[plane]]s.<ref name="FRCS3e-p180-181" />
+
+
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Elminster
+
+{{Person
+| image          = 
+<gallery>
+Elminster BGIII.png|BG3
+Elminster CLB alt.jpg|CLB
+Elmisnter_5e.jpg|5e
+Elminster 4e.jpg|4e
+Elminster2.jpg|thumb|3e
+Elminster_2e_Shadowdale.jpg|thumb|2e
+</gallery>
+| caption2       = ''Various depictions of Elminster.''
+| name           = Elminster Aumar
+| true name      = 
+| alt_spelling   = 
+| titles         = Armathor<ref name="CotH-p20" /><br />Court Mage<ref name="ToE-p190" /><br/>Lord of Summerstag<ref name="Unf-p41">{{Cite web/The Unforking Family Tree|41}}</ref>
+| aliases        = Eladar the Dark<ref name="D228-33">{{Cite dragon/228/The Athalantan Campaign|33}}</ref><ref name="E.MoM-p68" /><br />Wanlorn<ref name="tToE-p52">{{Cite book/The Temptation of Elminster/Paperback 1999|52}}</ref><br />Minstrel<ref name="Tantras.adv-p30-32">{{Cite book/Tantras (adventure)|30-32}}</ref><br />El'Minster<ref name="EE:A-p4">{{Cite book/Elminster's Ecologies/Anauroch|4}}</ref><br />Terminsel<ref name="BGII">{{Cite game/Baldur's Gate II: Shadows of Amn}}</ref><br />Elgorn<ref name="EMD-p35" /><br/>Farwalker<ref name="e-mm-p331">{{Cite book/Elminster: The Making of a Mage/MMP|331}}</ref><br/>El Min Star<ref name="MMvstDC-p12">{{Cite book/Mad Monkey vs the Dragon Claw|12}}</ref>
+| nicknames      = Stinkbeard<ref name="RotA.Sum-p100">{{Cite book/Return of the Archwizards/The Summoning|100}}</ref><br />Cleverbrows<ref name="Unf-p7">{{Cite web/The Unforking Family Tree|7}}</ref><br/>The Crafty<ref name="FMD-p26-27" /><br />The One Who Walks<ref name="ToE-p143-144" /><br />Old Sage<ref name="EE-3746">{{Cite digital book/Elminster Enraged/Kindle|3746}}</ref><br />The Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />The Old Mage<ref name="FRCS3E-266">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|266}}</ref>
+<br />The Sage of Shadowdale<ref name="FRCS3E-7" /><br />The Great Oversorcerer<ref name="CaN-p77">{{Cite book/Cormyr: A Novel/Paperback 1998|76}}</ref><br />Doombringer of Mystra<ref name="EE-3746" /><br/>The Meddler of Mystra<br />Old Weird-Beard<ref name="EiH-ch1">{{Cite book/Elminster in Hell||1}}</ref><ref name="ToE-p403-410" /><br/>Elminster the Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />Weavemaster<ref name="Spellstorm-p31-34" />
+| home           = [[Suzail]], [[Cormyr]]<ref name="EMD-p35" /><ref name="BED-p197">{{Cite book/Bury Elminster Deep|197}}</ref>
+| formerhomes    = [[Shadowdale (town)|Shadowdale]], [[Dalelands]]<ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><br />[[Galadorna]]<ref name="ToE-p190" /><br />[[Myth Drannor]], [[Cormanthyr]]<ref name="EiMD">{{Cite book/Elminster in Myth Drannor}}</ref><br />[[Hastarl]], [[Athalantar]]<ref name="E.MoM-p68" /><br />[[Wind Cavern]]<ref name="E.MoM-p29">{{Cite book/Elminster: The Making of a Mage/MMP|29}}</ref><br />[[Heldon]], [[Athalantar]]<ref name="D228-27">{{Cite dragon/228/The Athalantan Campaign|27}}</ref>
+| sex            = Male<br />{{Former}} Female<ref name="E.MoM-p132" /><ref name="EE-p62-65" /><ref name="ED-chp4" />
+| race           = [[Human]]<br />{{Former}} [[Drow]] (briefly)<ref name="EE-p62-65" />
+| ethnicity      = 
+| occupation     = [[Sage]]
+| age            = 1,280 (as of [[1492 DR]])
+| patron deity   = [[Mystra]]
+| languages      = 
+| basicrefs      = <ref name="FRCS3E-7" /><ref name="ED-chp4" /><ref name="HL-p48"/><ref name="HoH-p27-29" />
+| reckoning      = 
+| dob            = 212
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="FRCS3E-7" />
+| parents        = [[Elthryn Aumar]] (father)<br />[[Amrythale Goldsheaf]] (mother)
+| spouses        = 
+| siblings       = 
+| children       = [[Narnra Shalace]], [[Filfaeril Obarskyr]] (allegedly), [[Laspeera Inthré]] (allegedly), [[Amarune Whitewave]] (great-great granddaughter), [[Simon Aumar]] (great-great grandson)
+| familyrefs     = <ref name="E.MoM-p11-14" /><ref name="E.MoM-p18" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Chaotic good]]
+| class1e        = {{class table|edition=1e|[[Magic-user]]|26}}
+| refs1e         = <ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><ref name="HoH-p27-29">{{Cite book/Hall of Heroes|27-29}}</ref><ref name="CAB-p87">{{Cite book/Curse of the Azure Bonds|87}}</ref>
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{class table|edition=2e|[[Wizard]]|29}}
+| refs2e         = <ref name="HL-p48">{{Cite book/Heroes' Lorebook|48-50}}</ref><ref name="CotH-p42">{{Cite book/The Code of the Harpers|42}}</ref><ref name="Dales-p44-45" />
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 39
+| class3e        = {{class table|edition=3e|[[Fighter]]|1|[[Rogue]]|2|[[Cleric]]|3|[[Wizard]]|24|[[Archmage]]|5}}
+| refs3e   
+
+=== LINKED WIKI PAGE (first 5000 chars): Mystra
+
+{{GA}}{{see also|Mystryl|Mystra (Midnight)}}
+{{Deity
+| image               = Mystra cover.jpg
+| caption             = 
+| name                = Mystra
+| title               = The Lady of Mysteries<ref name="SCAG5e-p21,35,125-126">{{Cite book/Sword Coast Adventurer's Guide|21, 35, 125-126}}</ref><ref name="CotR-13">{{Cite book/Cyclopedia of the Realms|13}}</ref><ref name="FRCS2e.RtR-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|47}}</ref><ref name="FRA-27">{{Cite book/Forgotten Realms Adventures|27}}</ref> <br /> The Mother of All Magic<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128">{{Cite book/Faiths & Avatars|128}}</ref> <br />Mistress of Magic<ref name="ElMotM-p122" /><br/> Our Lady of Spells<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128" /><br />The Mother of Mystery<ref name="por2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>Lady Magic<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Lady of Magic<ref name="cru-p31">{{Cite book/Crucible|31}}</ref><br/>Lady of Might<ref name="ElMotM-p122" /><br/>One True Spell<ref name="ElMotM-p122">{{Cite book/Elminster: The Making of a Mage/MMP|122|7}}</ref><br/>Goddess of Magic<ref name="cru-p35">{{Cite book/Crucible|35}}</ref><br />{{Derogatory}} The Whore<ref>{{Cite book/Prince of Lies|176,319}}</ref><br/>The Harlot<ref name="cru-p160,194">{{Cite book/Crucible|160,194}}</ref>
+| adjective           = Mystran<ref name="FA-p130">{{Cite book/Faiths & Avatars|130}}</ref>
+| symbol              = A blue-white star<ref name="CotR-13" />
+| aspects             = Ri'dea'mystra<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| pantheon            = [[Faerûnian pantheon]]
+| servedby            = [[Azuth]]<ref name="CotR-17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| gender              = Feminine
+| died                = [[1358 DR]]<ref name="Shadow-21">{{Cite book/Shadowdale (adventure)|21}}</ref>
+| portfolio           = [[Magic]], Spells, [[The Weave]]
+| worshipers          = [[Bard]]s, [[wizard]]s, seekers of arcane lore, mostly [[human]]<ref name="FA-129">{{Cite book/Faiths and Avatars|129}}</ref>
+| mortalrace          = [[Human]]<ref name="N.EoM-12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref>
+| mortalsex           = Female<ref name="N.EoM-12" />
+| mortalhomes         = [[Netheril]]<ref name="N.EoM-12" />
+| apotheosis          = {{Yearlink|-339}}<ref name="N.EoM-12" />
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = 
+| alignment3e         = 
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = 
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = 
+| holy days3e         = 
+| class3e             = 
+| refs3e              = 
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Blue-white star
+| homeplane2e         = [[Nirvana]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = [[Azuth]]
+| portfolio2e         = Magic
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="FRCS2e.RtR-47"/><ref name="FA-128"/>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = Blue-white star
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Azuth]]
+| portfolio1e         = Magic
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-13" /><ref>{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Mystra''' ({{Pronounce|MISS|trah|audio=Mystra.ogg|refs=<ref name="CotR-13" /><ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|247}}</ref><ref name="FP3e-p50">{{Cite book/Faiths and Pantheons|50}}</ref>}}) was a [[greater deit
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Sewers
+
+{{Location
+| image              = Map of Waterdeep's Sewers.png
+| caption            = Map of the sewers, circa [[1372 DR]]<ref group="note" name="map">''[[Waterdeep and the North]]'' (page 27), [[City of Splendors (boxed set)|''City of Splendors'' "Campaign Guide"]] (page 59), and ''[[City of Splendors: Waterdeep]]'' (page 121) all share a version of this same map and note that it is not to scale, with many features being distorted in size for the sake of clarity, such as the junction rooms and surface shafts.</ref>
+| name               = Sewers of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = [[Sewer system]]
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''sewers of Waterdeep''' were a sanitation system of tunnels beneath the city that connected to most locations throughout [[Waterdeep]], including its dungeons.<ref name ="WatN-p26">{{Cite book/Waterdeep and the North|26}}</ref><ref name="TRoU-p9">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|9}}</ref>
+
+{{Quote|It’s a trip neither pretty nor pleasant, but delve the sewers if you truly want to learn what goes on in Waterdeep.|''[[Down the Drain: A Life in the Guild of Cellarers and Plumbers]]'', [[1356 DR]]<ref name="BST-p25">{{Cite book/Blackstaff Tower|25}}</ref>}}
+
+==Structure==
+The depth of these sewers varied across Waterdeep,<ref name="SoW" /> with some areas having around two to three sub-levels.<ref>{{Cite game/Eye of the Beholder}}</ref><ref name="DtU">{{Cite game/Descent to Undermountain}}</ref> One reason for this was [[Mount Waterdeep]] and the plateau the northern portion of the city was built upon. Another was that the varied sizes and areas in which the sewer network was constructed at were both deliberate design decisions, made in order to optimally account for the ocean tides.<ref name="SoW" />
+
+The tunnels of this sewer system did not match up with the routes of the city's streets above them by the 14{{th}} century [[DR]]. This was partially due to the ever changing layout of Waterdeep, but also because the sewer's layout was dictated in part by where Mount Waterdeep's springs rose and flowed down to the sea.<ref name="SoW" />
+
+The [[Waterdeep/Field Ward|Field Ward]],<ref>{{Cite book/Waterdeep: Dragon Heist|180}}</ref> the harbor islands, and the heart of Mount Waterdeep were the only areas in the city that the sewers did not run beneath.<ref name="CoS.W-p121">{{Cite book/City of Splendors: Waterdeep|121}}</ref>
+===Functionality===
+Refuse, as well as air, were brought down into the sewers by numerous feeder pipes scattered throughout the city.<ref name="CoS.CG-p60">{{Cite book/City of Splendors (boxed set)/Campaign Guide|60}}</ref> These pipes measured less than {{SI|1|ft|long=yes}} in diameter.<ref name="CoS.W-p121" /> Thanks to the pipes, air supply was good in the sewers and those who traveled in them had little chance of suffocating.<ref name="dung30-p9">{{Cite dungeon/30/And a Dozen Eggs|9}}</ref>
+
+The sewer network operated on a system of t
+
+=== LINKED WIKI PAGE (first 5000 chars): Blue Mermaid
+
+{{Building
+| image         = CodLane.JPG
+| caption       = A map showing the Blue Mermaid on Ship Street.
+| name          = Blue Mermaid
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 2
+| location      = [[Dock Ward of Waterdeep|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p26"/><ref name="CoS-CG-p55"/><ref name="VGtW-p200"/><ref name="CoS-W-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 2
+| coins         = 3
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-p200"/>
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Blue Mermaid''' was a tavern in the [[Dock Ward of Waterdeep|Dock Ward]] of [[Waterdeep]] in the mid–14{{th}} century [[DR]].<ref name="WatN-p26">{{Cite book/Waterdeep and the North|26}}</ref><ref name="CoS-CG-p55">{{Cite book/City of Splendors (boxed set)/Campaign Guide|55}}</ref><ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200,237,240}}</ref><ref name="CoS-W-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref> It was owned by Mother [[Jalyth Hlommorath]] in the mid-1360s DR.<ref name="VGtW-p200"/>
+
+==Location==
+This tavern stood along [[Ship Street (Waterdeep)|Ship Street]], between [[Keel Alley]] and [[Oar Alley]].<ref>{{Cite book/City of Splendors (boxed set)/Map}}</ref>
+
+==Atmosphere==
+[[Volo]] described it as a perfectly safe place with perfectly safe patrons, and accordingly he called it "boring".<ref name="VGtW-p200"/>
+
+==Description==
+The tavern was well appointed and clean, if a bit tired.<ref name="VGtW-p200"/>
+
+==Services==
+It was known for good [[ale]] and bad [[wine]].<ref name="VGtW-p200"/>
+
+==Features==
+From a dry well in the cellar, a passage known as the Blue Mermaid Passage led down into [[Skullport]].<ref name="CoS-W-p126">{{Cite book/City of Splendors: Waterdeep|126}}</ref>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Taverns]]
+[[Category:Locations on Oar Alley]]
+[[Category:Locations on Ship Street (Waterdeep)]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Castle Waterdeep
+
+{{Building
+| image         = [[File:Waterdeep Castle Level 1.jpg|250px]]
+| caption       = A plan of Castle Waterdeep.
+| name          = Castle Waterdeep
+| aliases       = 
+| type          = Castle
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep|Castle Ward]], [[Waterdeep]]
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| quality       = 
+| price         = 
+| inhabitants   = yes
+| locations     = Rooms in Castle Waterdeep
+| organizations = yes
+}}
+'''Castle Waterdeep''' was a castle located in the city of [[Waterdeep]].<ref name="CoS.W-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> It was the seat of the city's government.<ref name="ADDc-23"/><ref name="CoS.M">{{Cite book/City of Splendors (boxed set)/Map/Castle Waterdeep}}</ref>
+
+==Defenses==
+[[File:Castle Waterdeep.jpg|thumb|right|''Castle Waterdeep at sunset.'']]
+Its walls were 60-ft-thick (18 m) on average, and high enough that when banners were displayed in honor of visiting parties, they were visible from many areas of the southern city.<ref name="CoS.W-p96"/> They were also enchanted with magic spells.<ref name="CoS.CG-p46">{{Cite book/City of Splendors (boxed set)/Campaign Guide|46}}</ref>
+
+The road up to the castle's main entrance was steep-sided and winding, with towers guarding it at regular points.<ref name="ADDc-23">{{Cite comic/Lawyers!|7}}</ref><ref name="CoS.CW">{{Cite book/City of Splendors (boxed set)/Map/Castle Waterdeep}}</ref>
+
+==Interior==
+Most of the castle's passageways were permanently lit by ''[[continual light]]'' spells.<ref name="CoS.CG-p46" />
+
+==Supplies==
+The castle held enough food to feed 50,000 people for ten days, and could accommodate up to 540 prisoners in 90 cells. There were many dungeons beneath the castle, mainly used for storage, which linked through to the [[Citadel of the Bloody Hand]], creating a security concern.<ref name="CoS.W-p98">{{Cite book/City of Splendors: Waterdeep|98}}</ref> There were also deep wells beneath the castle that provided clean drinking water.<ref name="CoS.CG-p11">{{Cite book/City of Splendors (boxed set)/Campaign Guide|11}}</ref>
+
+==Personnel==
+The castle was garrisoned by 1,400 of the [[City Guard (Waterdeep)|City Guard]], who, along with members of the [[City Watch (Waterdeep)|City Watch]], were trained in its courtyard. Seventy [[Horse#Terms|warhorses]] were kept in the castle stables. Thirty guards were always armed and keeping watch on the battlements, while twenty crossbowmen and two wizards were always on duty in a guardroom close to the castle gates.<ref name="CoS.W-p98" />
+
+==Activities==
+The battlements of Castle Waterdeep were used for the hanging of non-nobles.<ref name="CoS.CG-p79-80">{{Cite book/City of Splendors (boxed set)/Campaign Guide|79-80}}</ref>
+
+==History==
+Work began on the castle in the [[963 DR|Year of the Thundering Horde, 963 DR]], outside and to the north of the city walls. It was finished on [[Higharvestide]], the [[974 DR|Year of the Haunting Harpy, 974 DR]], the same year [[Laroun]] rose to War Lord.<ref name="CoS.W-p9">{{Cite book/City of Splendors: Waterdeep|9}}</ref><ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+During the [[Time of Troubles]] of the [[1358 DR|Year of Shadows, 1358 DR]], a party was held at Castle Waterdeep in honor of a [[Shar|supposed avatar]] of the goddess [[Selûne]]. It was attended by Lord [[Piergeiron]], [[Khelben Arunsun]], [[Tertius Wands]], [[Mirt]] and [[Asper]], and [[Fenn Estelmer]] and [[Kyriani]], who came to investigate the avatar. However, a trio of the [[Dark Army of the Night]] crashed the party and made a failed attempt to kidnap the avatar, before they were arrested by the [[City Guard (Waterdeep)|City Guard]]. Kyriani later confronted the avatar in the castle kitchens, but the two fought a [[spell]]-battle that spilled out into the corridor before Lord Piergeiron intervened. Khelben helped Kyriani escape with a ''[[passwall]]'' through the castle walls. Dramatically, she leaped out of the cliff-side castle and was caught by her lover [[Rellamyn]] on his [[asperii|flying horse]]. He and his companions swooped the castle, dodged flaming arrows from its defenders, before they departed.<ref name="ADDc-20">{{Cite comic/Dark of the Moon}}</ref>
+
+As of [[1372 DR]], it had long since been inside the city walls.<ref name="CoS.W-p103">{{Cite book/City of Splendors: Waterdeep|103}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| adventures = ''[[Marco Volo: Departure]]''
+| adventure refs = ''[[Halls of Undermountain]]''
+| novels = ''[[To Catch a Thief]]''
+| novel refs = ''[[Elminster in Hell]]'';''[[Volo Breaks a Hot Tale]]'';''[[Eye of Justice (novel)|Eye of Justice]]'';{{Drapp|425|Spin a Yarn: The Night Thelva Clovenaxe Flew}};''[[The Unforking Family Tree]]'';''[[The Fallbacks: Bound for Ruin]]''
+| comics = 
+
+=== LINKED WIKI PAGE (first 5000 chars): Citadel of the Bloody Hand
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Citadel of the Bloody Hand
+| aliases       = Citadel of the Black Hand<ref name="tRoU-CGtU-p127"/>
+| type          = Stronghold
+| architecture  = 
+| floors        = 
+| location      = [[Mount Waterdeep]], [[Undermountain]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = 
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Citadel of the Bloody Hand''' was a notorious stronghold hidden high inside [[Mount Waterdeep]] and considered part of the upper [[Dungeon Level]] of [[Undermountain]].<ref name="tRoU-CGtU-p5">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|5}}</ref><ref name="Dragon211-p30">{{Cite dragon/211/"I Sing a Song by the Deep-Water Bay"|30}}</ref> Some insisted it should be called the '''Citadel of the Black Hand'''.<ref name="tRoU-CGtU-p127">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|127}}</ref>
+
+==History==
+The Citadel of the Bloody Hand was first developed in the {{YearlinkName|1262}} as a base of operations for a local [[thieves' guild]]—either the [[Shadow Thieves]]<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> or the [[Thieves' Guild of Waterdeep]]. The thieves managed to secure the area against Undermountain's monsters and defended it with many traps, and named it for their guildmaster.<ref name="tRoU-CGtU-p5"/>
+
+However, the thieves' guild was later run out of Waterdeep. The fate of their base afterward was unknown; it might've been abandoned, seized by the [[Lords of Waterdeep]], or infested again by monsters.<ref name="tRoU-CGtU-p5"/>
+
+However, by the 1360s [[DR]], part of the Citadel of the Bloody Hand had been taken over by the [[Harpers]] and made part of [[Harpers' Hold]].<ref name="Dragon211-p30"/> The rest was occupied by the [[City Guard (Waterdeep)|City Guard]], who walled off the head of the Falling Stair to block incursions from Undermountain to the dungeons of [[Castle Waterdeep]].<ref name="tRoU-CGtU-p35">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|10,35}}</ref>
+
+==Defenses==
+The Citadel of the Bloody Hand contained many lethal traps and wards left by the Shadow Thieves; some were repurposed to defend a passageway to Harpers' Hold.<ref name="tRoU-CGtU-p5"/><ref name="Dragon211-p30"/> The area of Undermountain around it was also rife with traps and guardian creatures, as well as spy-holes and secret passages.<ref name="tRoU-CGtU-p5"/>
+
+Under the City Guard, the Citadel was occupied by some 46 Guardsmen and a number of [[wizard]]s and [[priest]]s.<ref name="tRoU-CGtU-p35"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Citadelle de la Main Sanglante]]
+[[Category:Fortresses]]
+[[Category:Locations on Mount Waterdeep]]
+[[Category:Locations in Undermountain]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Sea Knight
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Sea Knight
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 
+| location      = [[Waterdeep]], [[Northwest Faerûn]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="DS">{{Cite book/Downshadow||2}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Sea Knight''' was a tavern in [[Waterdeep]].<ref name="DS"/>
+
+== History ==
+It completely collapsed in the {{YearlinkName|1425}}. The cause was unknown; some locals said it was a [[wizard]]'s duel, others said [[Spellplague]]. A entrepreneurial miner excavated the cellar and found a passage to [[Undermountain]], and went on to build the [[Knight 'n Shadow]] tavern on the site.<ref name="DS"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Taverns]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Downshadow
+
+{{Split|Grim Statue|Knight n' Shadow}}
+{{otheruses4|the location|the novel|Downshadow (novel)}}
+{{Location
+| image              = Downshadow-map.png
+| caption            = A map of Downshadow.
+| name               = Downshadow
+| alt spelling       = 
+| aliases            = 
+| type               = Cavern
+| region             = [[Undermountain]], [[Waterdeep]]<ref name="W.DMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6}}</ref>
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="Dun-204" /><ref name="DS" />
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = Around 200<ref name="UHLA-p4">{{Cite book/Undermountain: Halaster's Lost Apprentice|4}}</ref> to 1000<ref name="DS">{{Cite book/Downshadow}}</ref>
+| popyear1           = 1479
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+'''Downshadow''' was a cavernous area in the south-east corner of [[Undermountain]]'s [[Dungeon Level|first level]], below the [[Waterdeep/Dock Ward|Dock Ward]] of [[Waterdeep]].<ref name="Dun-204">{{Cite dungeon/204/What's up in Downshadow}}</ref><ref name="DS">{{Cite book/Downshadow}}</ref>
+
+==Description==
+Downshadow was home to hundreds of people, functioning as an unofficial ward of Waterdeep, but the population and borders changed constantly, as safe ground was lost or gained as adventurers fought through Undermountain. In addition to common Waterdhavian inhabitants such as [[human]]s and [[dwarves]], the Downshadow folk included less-common races such as [[half-orc]]s, [[half-ogre]]s, and [[hobgoblin]]s. The many fires used for cooking and lighting meant that the cavern ceiling was obscured by a constant haze of smoke, which escaped though cracks in the stone and caused inexplicable smoke clouds in the streets above. Most of the structures that the people of Downshadow lived and worked in were makeshift shanties made of scavenged materials and mushroom wood from Undermountain, and whatever construction materials that could be brought from the surface.<ref name="DS" />
+
+==History==
+In the years after the [[Spellplague]] in the {{yearlinkName|1385}}, the vast cavern of Downshadow turned into a sort of village made of dirty tents, curtained-off areas, and crude shacks made from salvaged materials.<ref name="Dun-204" /> It was inhabited by outcasts, criminals, and down-on-their-luck adventurers exploring the lower levels.<ref name="Dun-204" /> The cavern even had crude taverns and merchants who sold questionable goods, most famous of which was the Shadow.<ref name="DS" />
+
+As of [[1479 DR]], the top levels of Undermountain were mostly cleared of monsters, although some creatures still roamed the halls and many magical traps remained active.<ref name="DS" />
+
+By [[Mirtul]] of the {{yearlinkName|1491}}, however, Downshadow was largely depopulated, abandoned by its inhabitants. A mysterious illness had erupted in the slums, killing many residents and prompting the rest to flee to Waterdeep proper. This in turn contributed to a growing crisis of homelessness in the city, as the poorest of the city had also been driven out of the [[Waterdeep/Field Ward|Field Ward]] and [[Mistshore]] slums when they were destroyed. The disease seemed to strike suddenly and lethally, killing the victim o
+
+=== LINKED WIKI PAGE (first 5000 chars): Blushing Nymph
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Blushing Nymph
+| aliases       = 
+| type          = Festhall
+| architecture  = 
+| floors        = 
+| location      = [[Castle Ward of Waterdeep|Castle Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoS-CG-p65"/><ref name="CoS-W-p100"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Blushing Nymph''', or just the '''Nymph''', was a festhall in the [[Castle Ward of Waterdeep|Castle Ward]] of [[Waterdeep]] in the mid–14{{th}} century [[DR]].<ref name="CoS-CG-p65">{{Cite book/City of Splendors (boxed set)/Campaign Guide|65}}</ref><ref name="CoS-W-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+
+==Location==
+It stood on the north side of [[Rainrun Street]], two buildings west of the corner with [[Cook Street]].<ref name="CoS-CG-p65"/>
+
+==Inhabitants==
+The mage [[Zabbas Thuul]] rented rooms here around [[1372 DR]].<ref name="CoS-W-p71">{{Cite book/City of Splendors: Waterdeep|19,71}}</ref>
+
+==Features==
+The backyard or alley behind the Blushing Nymph was the haunt of stray [[cat]]s and garbage. The staff tossed drunks out the door here too.<ref name="CoS-CG-p65"/>
+
+From an oubliette (in fact, a covered garbage pit) in the alley, a passage known as the Long Dark Stair led down into the [[Dungeon Level|first level]] of [[Undermountain]].<ref name="CoS-CG-p65"/><ref name="CoS-W-p126">{{Cite book/City of Splendors: Waterdeep|126}}</ref>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Festhalls]]
+[[Category:Businesses]]
+[[Category:Locations on Rainrun Street]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Sargauth
+
+{{Body of water
+| image          = 
+| caption        = 
+| name           = Sargauth
+| aliases        =River of the Depths<ref name="tRoUCGtU-p6">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|6}}</ref> 
+| type           = River
+| region         = [[Skullport]], [[Northdark]]
+| size           = 
+| depth          = 
+| river source   = 
+| river mouth    = 
+| tributaries    = 
+| tributary of   = 
+| georefs        = <ref name="CS.W-p108">{{Cite book/City of Splendors: Waterdeep|108}}</ref>
+| races          = 
+| socrefs        = 
+| usethe         = yes
+| useon          = yes
+| inhabitants    = 
+| locations      = yes
+| organizations  = 
+| settlements    = 
+| mountains      = 
+| events         = 
+| food and drink = 
+| items          = 
+}}
+The '''Sargauth''' was a subterranean river in the [[Northdark]] that ran deep under the city of [[Waterdeep]].<ref name="CS.W-p108" />
+
+== Geography ==
+The River Sargauth meandered through the third level of [[Undermountain]], passing the Lair of the Eye and the [[Promenade of the Dark Maiden]] on its way, before it flowed into the estuary basin of the [[Skull Pool]], south of [[Skullport]] from the east.<ref name="Sk-p26">{{Cite book/Skullport|26}}</ref>
+
+The river itself was brackish and mineral-laden, but not saltwater. The current was moderate and moved ships along at a fair, though not rapid, pace. Barges and rafts had no problem navigating most of its length, but ships must know the routes along it, or they sometimes ran aground on sandbars and shallow, gravel-covered spots. Fortunately, the Sargauth, as it neared [[Skullport]], was rather deep and could easily accommodate even keeled vessels for a distance.<ref name="Sk-p26"/>
+
+==Inhabitants==
+The town of [[Skullport]] was found on the banks of the river.<ref name="CS.W-p108" />
+
+Large, bland, and blind fish that the locals called [[gumpfish]] lived in the Sargauth, along with some other varieties of [[fish]], [[clam]]s, other mollusks, and ghost shrimp. All of these fed on smaller fish, tiny crustaceans, and larvae.<ref name="Sk-p26" />
+
+An ancient, legendary [[aboleth]] was rumored to lie slumbering in the Sargauth.<ref name="CoS:W-p57">{{Cite book/City of Splendors: Waterdeep|57}}</ref>
+
+==Appendix==
+===Appearances===
+:;Novels
+::''[[The Paladins]]'' &bull; ''[[To Catch a Thief]]''
+===References===
+{{Refs}}
+[[FR:Sargathe]]
+[[Category:Rivers]]
+[[Category:Locations in Skullport]]
+[[Category:Locations in Undermountain]]
+[[Category:Locations in the Sargauth Level]]
+[[Category:Locations in the Underdark]]
+[[Category:Locations in the Northdark]]
+[[Category:Underground locations]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Bodies of water]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Sea of Swords
+
+{{DEFAULTSORT:Swords, Sea}}
+{{Otheruses4|the ocean|the novel by [[R.A. Salvatore]]|Sea of Swords (novel)}}
+{{Body of water
+| image          = SeaOfSwords-1489DR.jpg
+| caption        = Map showing the Sea of Swords, the Moonshaes, the Nelanther Isles, and other nearby islands off the Sword Coast. Click to enlarge.
+| name           = Sea of Swords
+| aliases        = 
+| type           = Sea
+| region         = [[West Faerûn]]
+| size           = 
+| depth          = 
+| river source   = 
+| river mouth    = 
+| tributaries    = 
+| tributary of   = 
+| georefs        = 
+| races          = [[Sea elves]]
+| socrefs        = 
+| usethe         = yes
+| useon          = yes
+| usein+on       = yes
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| mountains      = 
+| events         = 
+| food and drink = 
+| items          = 
+}}
+The '''Sea of Swords''' was a region of the [[Trackless Sea]] that separated the western coast of [[Faerûn]] (known as the [[Sword Coast]]) from the [[Nelanther Isles]] and the [[Moonshae Isles]].<ref name="CotR-74">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|74}}</ref>  
+
+==Geography==
+The major island chains of the Moonshaes and the Nelanther Isles and the jutting [[Tethyr Peninsula]] formed a rough boundary for the Sea of Swords. However, various authors have described the Sea of Swords as extending around the peninsula to meet the [[Purple Cliffs]]<ref name="LoI.T-73">{{Cite book/Lands of Intrigue/Tethyr|73}}</ref> (the western edge of the [[Purple Hills]] in [[Tethyr]]). On the northern end, at least one author placed the island of [[Ruathym]] in the Sea of Swords,<ref name="GHotR-29">{{Cite book/The Grand History of the Realms|29}}</ref> and another added the island of [[Gundarlun]] and even the [[Purple Rocks]].<ref name="DoF-43">{{Cite book/Dragons of Faerûn|43}}</ref> It was not unusual for the Sea of Swords to be considered extending as far north as [[Luskan]].<ref name="NWN-map">{{Cite game/Neverwinter Nights}}</ref><ref name="DoF-44">{{Cite book/Dragons of Faerûn|44}}</ref>
+[[File:PortMap.png|thumb|right|272px|''Map of Luskan and Neverwinter on the shore of the Sea of Swords.'']]
+
+Prevailing winds in the northern parts of the Sea of Swords tended to blow west-to-east. A major current known as the [[Southern Drift]] moved south along the Sword Coast before turning west toward [[Maztica]] once it had passed the Moonshae Isles.<ref name="FRCS3e-p79">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|79}}</ref> A northward current flowed from the coast of [[Alaron]] of the Moonshae Isles toward Waterdeep.<ref name="M-p12">{{Cite book/Moonshae|12}}</ref>
+
+==Inhabitants==
+At least one kingdom of [[sea elves]], known as [[Nindrol]], claimed the waters around the island of [[Toaridge-at-the-Sun's-Setting]]<ref name="D267-83">{{Cite dragon/267/The New Adventures of Volo: Onward!|83}}</ref> just north of the Nelanther (or the northernmost island of that group, according to some maps<ref name="FRatlas-5">{{Cite book/The Forgotten Realms Atlas|5}}</ref>). 
+
+Dangerous raiders and sea-loving [[adventurer]]s known as [[Sword Coast corsair]]s plied the waters.<ref name="FRPG-p66">{{Cite book/Forgotten Realms Player's Guide|66}}</ref> Many explorers and [[:Category:Pirates|pirates]], like [[Shala Lonstur]] or [[Bob Holmes]], made the Sea of Swords practically their second home through their constant voyages.<ref>[[BioWare]] (September 2000). Designed by [[James Ohlen]], [[Kevin Martens]]. ''[[Baldur's Gate II: Shadows of Amn]]''. [[Black Isle Studios]].</ref><ref>[[Ed Greenwood]] (2021-09-24). [https://web.archive.org/web/20240605191448/https://threadreaderapp.com/thread/1441466478650445825.html Early Development History of Baldur's Gate] (Tweet). [https://x.com/theedverse theedverse]. Twitter. Archived from [https://x.com/TheEdVerse/status/1441466478650445825 the original] on 2024-06-05. Retrieved on 2024-06-05.</ref>
+
+==Notable Locations==
+* [[Red Rocks]], an archipelago located off the stretch of the coast near Waterdeep.<ref name="CoS.W-p44">{{Cite book/City of Splendors: Waterdeep|44}}</ref>
+
+==History==
+* Vials filled with saltwater from the Sea of Swords were often carried by sailors when on land as good luck charms.<ref name="SCL">{{Cite game/Sword Coast Legends}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| adventures = ''[[The Rise of Tiamat]]'';''[[Storm King's Thunder]]'';''[[Dragons of Stormwreck Isle]]''
+| novels = ''[[Sea of Swords (novel)|Sea of Swords]]''
+| video games = ''[[Sword Coast Legends]]''
+| video game refs = ''[[Neverwinter Nights (AOL game)]]'';''[[Baldur's Gate (game)|Baldur's Gate]]''
+}}
+===Gallery===
+<gallery>
+Voyage to stormwreck - Linda Lithén.webp|''A storm approaches on the Sea of Swords.''
+</gallery>
+===External Links===
+{{External link disclaimer}}
+* {{BGW}}
+===References===
+{{Refs}}
+===Connections===
+{{Toril}}
+[[FR:Mer des Épées]]
+[[pl:Morze Mieczy]]
+[[Category:Locations in the Trackless Se
+
+=== LINKED WIKI PAGE (first 5000 chars): Yawning Portal
+
+{{Building
+| image         = Yawning Portal HoU.jpg
+| caption       = Adventurers farewell the patrons and staff of the Yawning Portal as they head down the well into Undermountain.
+| name          = Yawning Portal
+| aliases       = The Yawning Portal<ref name="WatN-p16" /><ref name="Dr167" /><ref name="TRoU-CG-p5" /><br/>Inn of the Yawning Portal<ref name="EfU-c0" /><br/>Yawning Portal Tavern<ref name="LC-DD-p3" />
+| type          = Inn, tavern<ref name="WDH-p20" />
+| architecture  = 
+| floors        = 3,<ref name="CoG-CG-p50" /><ref name="TftYP-p6">{{Cite book/Tales from the Yawning Portal|6}}</ref> 4<ref name="TheEdVerse2020" /><ref group="note" name="floors" />
+| location      = [[Rainrun Street]], [[Waterdeep/Castle Ward|Castle Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Durnan]]<ref name="TftYP-p6" /><ref name="EtU-p44" />
+| staff         = 14 ''circa'' [[1375 DR]]<ref name="EtU-p44" />
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p16" /><ref name="HoH-p71" /><ref name="CoG-CG-p64" /><ref name="RtU" /><ref name="EtU-p41" /><ref name="HoU-p10" /><ref name="WDH-p20" /><ref name="WDotMM-p6" /><ref name="TftYP-p6" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Yawning Portal''' was an inn and tavern in the city of [[Waterdeep]] that was renowned for being the primary open route into [[Undermountain]]. A well within its walls led down into the [[Dungeon Level|first level]] of the vast dungeon complex. It was owned and run by the famous adventurer [[Durnan|Durnan the Wanderer]].<ref name="WatN-p16">{{Cite book/Waterdeep and the North|16,23}}</ref><ref name="HoH-p71">{{Cite book/Hall of Heroes|71}}</ref><ref name="CoG-CG-p64">{{Cite book/City of Splendors (boxed set)/Campaign Guide|64}}</ref><ref name="CoS.W-p126">{{Cite book/City of Splendors: Waterdeep|126}}</ref><ref name="RtU">{{Cite web/Return to Undermountain/Introduction}}</ref><ref name="EtU-p41">{{Cite book/Expedition to Undermountain|41}}</ref><ref name="HoU-p10">{{Cite book/Halls of Undermountain|10}}</ref><ref name="WDH-p20">{{Cite book/Waterdeep: Dragon Heist|20}}</ref><ref name="WDotMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6-7}}</ref><ref name="TftYP-p6">{{Cite book/Tales from the Yawning Portal|6}}</ref><ref>{{Cite book/Heroes' Feast|xx-xxv|0}}</ref> The name "Yawning Portal" referred to the deep well and also alluded to the habit of its patrons to tell wild stories.<ref name="Wd-N-p273" /><ref name="HoU-p10" /> Naturally, the inn was a popular attraction among visitors to Waterdeep and a common point of departure as well as a refuge for expeditions into the extensive dungeons.<ref name="RtU" />
+{{quote|I'll give you a free flagon of ale if you don't talk to me about the weather.|Durnan<ref name="WDH-p221" />}}
+{{TOC limit|3}}
+
+==Location==
+[[File:Yawning Portal - Heroes Feast 2.png|thumb|right|250px|''Adventurers Sasha, Bri'an, Deelia, and Squirladax do a dine-and-dash at the Yawning Portal, pursued by Durnan and City Watch.'']]
+The Yawning Portal was located on [[Rainrun Street]]<ref name="RtU" /><ref name="EtU-p41" /><ref name="TheEdVerse2020">{{Cite web/theedverse/2020-12-01 - Yawning Portal Appearance}}</ref> in the southern part of Waterdeep's [[Waterdeep/Castle Ward|Castle Ward]] between [[Waterdeep Castle]] and [[Snail Street]]<ref name="CoS.W-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref><ref name="EtU-p41" /> and close to [[Mount Waterdeep]]'s eastern slope.<ref name="WDotMM-p6" /> Fronting onto the north side of the road,<ref name="TheEdVerse2020" /><ref>{{cite web
+| url = https://twitter.com/TheEdVerse/status/1247965295043633154
+| title = Yawning Portal location
+| accessdate = 2024-03-11
+| archiveurl = https://web.archive.org/web/20200408191315/https://twitter.com/TheEdVerse/status/1247965295043633154
+| archivedate = 2020-04-08
+| author = [[Ed Greenwood]]
+| date = 2020-04-08
+| format = Tweet
+| work = [https://twitter.com/theedverse theedverse]
+| publisher = Twitter
+}}</ref> it stood next door to [[Mother Salinka's House of Pleasure]], and beyond that, [[The Empty Keg]] tavern,<ref name="TRoU-CG-p5" /><ref name="TRoU-CG-p8" /><ref name="CoG-CG-p64" /><ref name="EtU-p41" /> on the west side, and next door [[Lankathla Dree's Bakery]] on the east side.<ref name="TheEdVerse2020"  /> Nearby also stood the magician [[Sobrey]]'s Magic Shoppe and the smithy of [[Argali Smith]].<ref name="HotU" /> The inn's relative proximity to the city's docks helped it do good business.<ref name="TRoU-CG-p5" /><ref name="TRoU-CG-p8" /><ref name="CoG-CG-p64" /><ref name="EtU-p41" />
+
+Its site was exactly that of the former [[Halaster's Hold]], th
+
+=== LINKED WIKI PAGE (first 5000 chars): Dungeon Level
+
+{{Dungeon
+| image         =Dungeonlevel.png 
+| caption       = 
+| name          = Dungeon Level
+| level of      = [[Undermountain]]<ref name="WDMM-p6">{{Cite book/Waterdeep: Dungeon of the Mad Mage|6}}</ref>
+| level number  = 1
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="WDMM-p6" />
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = [[Xanathar's Thieves' Guild]], [[bandit]]s<ref name="WDMM-p6" />
+| previous      = 
+| next          = [[Arcane Chambers]]
+}}
+The '''Dungeon Level''' was the first level of [[Undermountain]].<ref name="WDMM-p6" />
+
+==Entrance==
+===Yawning Portal===
+The dungeon of the Undermountain was accessible via a winch over the pit in the common room of the [[Yawning Portal]], with a fee of 1 [[gp]] per person. It took roughly a minute to lower or raise the [[rope]]-and-[[pulley]] mechanism that powered the machine.<ref name="WDMM-p6"/> The well descended for {{SI|140|ft|long=yes}} to a floor of rough-hewn rock that was covered by a thin later of sand and the skeletal remains of a number of different creatures, some of which were [[humanoid]] in form.<ref name="RU.CGU-p18">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|18}}</ref>
+
+Sixty battered and cracked shields hung on the walls of the entrance chamber. They featured the heraldry of many [[Waterdhavian]] familial crests, some of which were recognizable as belong to the [[Nobility of Waterdeep|noble families]] of the 14{{th}} and 15{{th}} centuries [[DR]].<ref name="RU.CGU-p18"/> These ancient shields were so fragile that they broke when touched. Behind one of the shields was a message written in blood in [[Elvish]]:<ref name="WDMM-p14">{{Cite book/Waterdeep: Dungeon of the Mad Mage|14}}</ref>
+
+{{quote|Beyond the pillar forest, the Mad Mage waits. Casting spells behind magic gates.<ref name="WDMM-p14"/>}}
+The "gates" likely referenced the gates required to transport between the levels (although other passages could also be used for that purpose).{{Speculation}}
+
+===Gates===
+The Dungeon Level held at least one ''[[portal]]'' that connected it to [[Calimport]], which was used by an adventurer company called the [[Black Banners]] in [[1371 DR]] that met its end at the hand of a group of [[bugbears]].<ref name="RUCGU-20">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|20}}</ref>
+
+;[[Myth Drannor Road]]:
+:The Myth Drannor Road was a name given to a total of four one-way ''portals'' that connected from the, by 1371 DR, ruined [[Hall of the Beast-Tamers]] to Undermountain. One reached the destination through walking through a mirror. However, they were not very reliable.  On trying, one could reach either the [[Hall of Sleeping Kings]], the Sinister Stairs, or the Grim Statue. However, the entire device was originally set up to poach monsters from Undermountain and from time to time it happened that the ''portal'' caused creatures to appear either in a spot west of the Hall of Sleeping Kings or through the mirrors of the Hall of the Beast-Tamers.<ref name="RUCGU-10">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|10}}</ref>
+
+===Sewers===
+[[Sewers of Waterdeep|Waterdeep's sewers]] and Undermountain had several connections. Criminal organization and guilds were, at least according to rumor, in control of these connections.<ref name="TRUCG-9">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|9}}</ref>
+
+;The Grim Statue:
+A sewer entrance that was under nobody's control led to the Dungeon Level. It opened directly above the Grim Statue, a {{SI|60|ft|long=yes}} high room with a partially destroyed {{SI|40|ft|long=yes}} statue. People had to come with their own ways to get to the ground and to deal with an electrical discharge similar to ''[[lightning bolt]]'' that happened every eight minutes. One way to deal with the latter was to cast ''dispel magic'' on either the ''lightning bolt'' or the statue. Doing the former dissipated the bolt, doing the latter cancelled the statue's next release. The door automatically closed at latest after a dozen days, something Halaster made sure happened. The statue itself hosted a secret entry into the Arcane Chamber, the second level, in the form of stairs that spiraled below.<ref name="TRUCG-9, 32-33">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|9, 32-33}}</ref> The statue was located in the south-south-west of the Entry Hall.<ref name="TRULM1">{{Cite book/The Ruins of Undermountain/Level 1 map}}</ref>
+
+===Other Entrances===
+;[[Long Dark Stair]]:
+The Long Dark Stair was an entrance into Undermountain that was a popular urban lore<ref name="TRUCG-11" /> but forgotten as a fact by 1371 DR.<ref name="TRUCG-47">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|47}}</ref> It was situated north-west of the Entry Well.<ref name="TRULM1" /> They reached {{SI|170|ft|long=yes}} high. The stair had neither railing nor lighting. 
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Arcane Chambers
+
+{{Dungeon
+| image         =Arcanechambers.jpg 
+| caption       = 
+| name          = The Arcane Chambers
+| level of      = [[Undermountain]]<ref name="WDotMM-p27">{{Cite book/Waterdeep: Dungeon of the Mad Mage|27}}</ref>
+| level number  = 2
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="WDotMM-p27" />
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = 
+| previous      = [[Dungeon Level]]
+| next          = [[Sargauth Level]]
+}}
+The '''Arcane Chambers''' made up the second level of [[Undermountain]]. It used to serve as a laboratory for [[Halaster Blackcloak]]'s apprentices, and was thus infested with sentient magical experiments and other leftovers.<ref name="WDotMM-p27" />
+
+==Geography==
+===Rooms===
+;[[Hall of the Black Helm]]:The Hall of the Black Helm was a 80-feet (24 meters) high dark room. It was once decorated with tapestries of armored [[Pegasus|pegasi]]-riders hunting [[dragon]]s. It was also the destination of a ''gate'' in a room from the [[Dungeon Level]].<ref name="CGRU-58-59">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|58-59}}</ref>
+
+;[[Helmwatch]]:People who passed the ''Ghost Gate'' entered the center of the Helmwatch-room.<ref name="CGRU-11" /> This 60-feet (18 meters) high room had a number of peculiarities. A white sphere with a translucent female [[elf]] inside that was circled by sixteen [[helmed horror]] guardians. The 10-feet (3 meters) radius circle that worked as the entry point of the ''gate'' and the 20-feet (6 meters) radius circle that worked as the protective circle formed by the helmed horrors were the only two places in the entire room, where magic worked. The rest of the room was effectively a [[dead-magic zone]].<ref name="CGRU-59-60">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|59-60}}</ref>
+
+;[[Lord Hund's Tomb]]:Lord Hund's Tomb was not a single room, but an entire complex that was not created by Halaster, but by people hired by Lord [[Hund Hiilgauntlet]], a [[necromancer]] who eventually became a [[mummy]].<ref name="CGRU-65-69">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|65-69}}</ref>
+
+;[[Pillars of the Society]]:Pillars of the Society was a 10-feet (6 meters) high warm room. It was illuminated by a green-white glowing mold. The entire room smelled like yeast and it had two pillars. One of them was plain, the other had cracks or other irregularities. The former was warm and Halaster enchanted it so that organic material that touched it were glued to it for about five hours, the victim effectively being at the mercy of whatever monster comes across.<ref name="CGRU-58">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|58}}</ref>
+
+===Traffic===
+Halaster built a number of [[magic]]al entrances and exits in this level.<ref name="CGRU-11">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|11}}</ref>
+
+===Entrance===
+;''[[Ghost Gate]]'':The ''Ghost Gate'' was a one-way ''[[portal|gate]]''.<ref name="CGRU-11" /> It was found in a shaft in a dead-end in one of [[Waterdeep]]'s southern wards.<ref name="UA-2">{{Cite book/The Ruins of Undermountain/Undermountain Adventures|2}}</ref> It led to the Helmwatch-room.<ref name="CGRU-11" />
+
+===Exit===
+The following ways could be used to leave the Arcane Chambers:
+* An Archgate in the northern part of this level connected it to an eastern cavern on Level 4.<ref name="WDotMM-p31">{{Cite book/Waterdeep: Dungeon of the Mad Mage|31}}</ref>
+* An Archgate in the western part of this level connected it to a house in the center of Level 5.<ref name="WDotMM-p35">{{Cite book/Waterdeep: Dungeon of the Mad Mage|35}}</ref>
+* An Archgate in the south-west part of this level connected it to a chamber in the east of Level 6.<ref name="WDotMM-p38-39">{{Cite book/Waterdeep: Dungeon of the Mad Mage|38-39}}</ref>
+* The so-called Doomgate connected the [[Carnelian Cavern]] on the Sargauth Level with the [[Chamber of the Fallen]].<ref name="CGRU-11" />
+* There was also the Old Xoblob Gate that linked the [[Old Xoblob Shop]] in Waterdeep with the [[Cloaker's Chest]] in the Arcane Chambers.<ref name="CGRU-11" />
+
+==Inhabitants==
+;Goblins: The [[Rustbone]] tribe of [[goblins]] secured a large complex of chambers in the north of this level. It was a bazaar by [[1493 DR]]. There were rumors it was originally a throne room.<ref name="WDotMM-p27"/>
+
+;Xanathar Guild: Unlike the [[Xanathar's Thieves' Guild]]'s goals for the [[Dungeon Level]], the representatives on this level would rather plunder it and sell the takings in [[Skullport]] to help their horrid economy. Around 1493 DR, they had two watch posts on this level, one commanded by [[Shunn Shurreth|Shunn "Spider Eyes" Shurreth]], a [[drow]], and [[Nadia the Unbent]], a [[human]] [[berserker]].<ref name="WDotMM-p27"/>
+
+;Drow: A drow mage allied with the [[Zhentarim]] had a hidden base in the center of this level around 1493 DR.<ref name=
+
+=== LINKED WIKI PAGE (first 5000 chars): Sargauth Level
+
+{{Dungeon
+| image         = Sea hag coven 5e.jpg
+| caption       = 
+| name          = The Sargauth Level
+| level of      = [[Undermountain]]<ref name="WDMM-p43">{{Cite book/Waterdeep: Dungeon of the Mad Mage|43}}</ref>
+| level number  = 3
+| levels        = 
+| location      = [[Waterdeep]], [[Sword Coast North]]<ref name="WDMM-p43" />
+| construction  = 
+| architecture  = 
+| size          = 
+| denizens      = [[Drow]], [[hobgoblin]]s, [[sea hag]]s<ref name="WDMM-43-44"/>
+| previous      = [[Arcane Chambers]]
+| next          = [[Twisted Caverns]]
+}}The '''Sargauth Level''' made up the third level of [[Undermountain]]. It connected to [[Skullport]] by way of a tunnel and the [[River Sargauth]]. It once held the ancient town of [[Stromkuhldur]], which fell into ruins before the late 15{{th}} century. [[Drow]] and [[goblinoid]] parties sought to gain control of these ruins, previously inhabited by the [[Netherese]] and the [[Clan Melairkyn|Melairkyn]] [[dwarves]].<ref name="WDMM-p43" />
+
+==Geography==
+The Sargauth Level was named after the River Sargauth that wound its way through this level of Undermountain.<ref name="EtU-21">{{Cite book/Expedition to Undermountain|21}}</ref>
+
+Broadly, the Sargauth Level could be divided in two big areas. First, ruins that were once a Netherese enclave,<ref name="CoSW-126-127" /> as a matter of convenience called the Sargauth Enclave,<ref name="TGHoR-40" /> which suffered a major cave-in. Second, north to the first part was the part that was excavated by [[Halaster Blackcloak]] and his apprentices. The latter part took about two-third of the entire Sargauth Level.<ref name="CoSW-126-127">{{Cite book/City of Splendors: Waterdeep|126-127}}</ref>
+
+===Entrances===
+During the 14{{th}} century [[DR]], a number of ways to enter the Sargauth Level existed, although none were immediately apparent:
+*The Sargauth Level housed a [[carnelian]] mine that was abandoned by 1371 DR. It also housed the connection to the [[Arcane Chambers]] in the form of a two-way ''[[portal|gate]]'' called the [[Doomgate]] that led to the [[Chamber of the Fallen]].<ref name="TRUCG-96">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|96}}</ref>
+*The Shimmering Gate was the one operated and controlled by [[Kirukeskai]]. The [[beholder]] could open it to link its [[Eye's Lair|lair]] with any other place within Waterdeep and south of the [[Castle Ward of Waterdeep|Castle Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]].<ref name="TRUCG-12">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|12}}</ref>
+
+===Notable Locations===
+;[[Cavern of the Throne]]:
+:The Cavern of the Throne was the destination for people who used one of ''[[Halaster's teleport ring]]s''. It led to a cavern with a magical throne that was once dedicated to [[Tempus]] inhabited by [[Aragauthos]], an imprisoned [[blue dragon]] who killed everybody who entered the cavern because she was promised freedom from the cave when she killed enough people, the Mad Mage had no intention of keeping the promise, in 1371 DR. The entire situation was more dangerous for entering people than it sounded. The reason was that ''Halaster's teleport ring'' was one of Halaster's joke items. On using it, the user lost every possession, including the ring, and arrived into the cavern with no clothes or other equipment.<ref name="TRUCG-103, 119">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|103, 119}}</ref>
+;[[Hall of Many Pillars]]:
+:The Hall of Many Pillars, set in the north-west of the Sargauth Level, was a room with thirty pillars, creating five by six rows.<ref name="TRULM3N">{{Cite book/The Ruins of Undermountain/Level 3 - North map}}</ref> By [[1371 DR]], it was the lair of the vampire [[Thearyn Shalahd]]. The pillars in this room could fell into either of two categories: magical ones and those that had secret doors, the outermost ones. The former caused living creatures that touched such a pillar to suffer an effect like ''[[imprisonment]]'' getting out from which was difficult. It required either the mental command of Thearyn, a ''[[freedom]]'' spell, a ''[[limited wish]]'' or ''[[wish]]'', or forcing the pillar to absorb magic, be it from [[magic item]]s or [[spell]]s. When the pillars were exposed to magic, they harmlessly absorbed it and each time they did so, showed an increasing number of glowing letters that formed a word in [[Thorass]]. Speaking the word out caused the imprisoned one's release. Technically, there was a fifth method to free the imprisoned by means of physical destruction of a pillar, but this way also caused the death of the person alongside his or her freedom. The second category of pillars had physical secret doors.<ref name="TRUCG-92-95">{{Cite book/The Ruins of Undermountain/Campaign Guide to Undermountain|92-95}}</ref>
+;[[Island Temple]]:
+:The Island Temple was a temple that was run by [[kuo-toa]] and dedicated to a giant frog-like entity. By 1371 DR, it was
+

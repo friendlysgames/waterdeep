@@ -1,0 +1,1549 @@
+=== WIKI PAGE: Waterdeep/Trades Ward
+
+{{Location
+| type          = Ward
+| name          = Trades Ward of Waterdeep
+| image         = Waterdeep_Wards-Trades_Ward_01.gif
+| caption       = 
+| aliases       = 
+| capital       = 
+| area          = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-p105">{{Cite book/Volo's Guide to Waterdeep|105}}</ref><ref name="CoS-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         = 
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+}}
+The '''Trades Ward''' was one of the seven wards of the city of [[Waterdeep]]. It was the main shopping district of Waterdeep and housed many of the city's guildhalls.<ref name="VGtW-p105" /> 
+
+==Geography==
+The ward was bounded in the south by the [[Southern Ward of Waterdeep|Southern Ward]], in the west by [[Castle Ward]], in the north by [[North Ward of Waterdeep|North Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]] and in the east by the [[Trollwall]].<ref name="VGtW-p105" />
+
+==History==
+In the late 14{{th}} century [[DR]], over the course of a [[tenday]] and more, streets across the Trades Ward experienced a number of [[ghost]]ly sightings that left many citizens, scribes, and members of the [[City Watch (Waterdeep)|City Watch]] confused. Some speculated if a [[wizard]] experimenting with [[illusion]]s may have been the cause. Others speculated it was a wizard seeking to harm local businesses, drive down local property values, or simply spread fear&mdash;though all who put forward these theories admitted to having nothing to backup their claims.<ref name="WN.GS" />
+
+Some interpreted the apparitions as being a message &mdash; [[Sambral the Soothsayer]] would claim the dead were warning Waterdhavians of impending battles from underground invaders, [[Sheireera|Sheireera of the Prophecies]] would claim that it was the dead crying out against immorality and lawlessness in Waterdeep, and [[priest]] [[Thalomaun]] of the [[Church of Lathander]] would make a proclamation on [[Virgin's Square]] that it was a sign from the dead for the living of the affected neighborhoods to do away with old businesses and make way for new ones.<ref name="WN.GS">{{Cite web/Waterdeep News/Ghost Sightings}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Guildhalls===
+* [[Citadel of the Arrow]]: Headquarters of the [[Fellowship of Bowyers and Fletchers]].<ref name="VGtW-107" />
+* [[Cobblers' & Corvisers' House]]: Headquarters of the [[Order of Cobblers and Corvisers]].<ref name="VGtW-107" />
+* [[Costumers' Hall]]: Headquarters of the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="VGtW-107" />
+* [[Guild Paddock]]: Headquarters of the [[Stablemasters' & Farriers' Guild]].<ref name="VGtW-107" />
+* [[House of Cleanliness]]: Headquarters of the [[Launderers' Guild]].<ref name="VGtW-107" />
+* [[House of Light]]: Headquarters of the [[Guild of Chandlers and Lamplighters]].<ref name="VGtW-107" /><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+* [[House of Song]]: Headquarters of the [[Council of Musicians, Instrument-Makers, & Choristers]].<ref name="VGtW-107" />
+* [[House of Textiles]]: Headquarters of the [[Most Excellent Order of Weavers and Dyers|Most Excellent Order of Weavers & Dyers]].<ref name="VGtW-107" />
+* [[League Office]]: Headquarters of the [[League of Basketmakers & Wickerworkers]].<ref name="VGtW-107" />
+* [[Old Guildhall]]: Headquarters of the [[Cellarers' & Plumbers' Guild]].<ref name="VGtW-107" />
+* [[Stationers' Hall]]: Headquarters of the [[Stationers' Guild]].<ref name="VGtW-107" />
+* [[The Zoarstar]]: Headquarters of the [[Scriveners', Scribes', & Clerks' Guild]].<ref name="WatN-p25" /><ref name="VGtW-107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+* [[Wheel Hall]]: Headquarters of the [[Wheelwrights' Guild]].<ref name="VGtW-107" />
+
+===Taverns & Inns===
+* The [[Bowels of the Earth]]: Near Virgin's Square. Popular with adventurers and mercenaries.<ref name="WatN-p25" /><ref name="VGtW-108">{{Cite book/Volo's Guide to Waterdeep|108}}</ref><ref name="CoSW-55">{{Cite book/City of Splendors: Waterdeep|55}}</ref>
+* The [[Dagger's Rest]]: An affordable inn catering to adventurers.<ref name="Wate1.1-p4">{{Cite organized play/LFR/Heirloom|4}}</ref>
+*[[Felzoun's Folly]]: A place for a quick bite to eat and drink.<ref name="VGtW-125" />
+*[[The Gentle Rest]]: An expensive inn on the [[High Road]].<ref name="VGtW-126">{{Cite book/Volo's Guide to Waterdeep|126}}</ref>
+*[[Gondalim's]]: A comfortable inn on the High Road with rooms of various sizes and costs.<ref name="VGtW-127">{{Cite book/Volo's Guide to Waterdeep|127}}</ref>
+*[[The Grey Serpent]]: An expensive inn on the [[Way of the Dragon (Waterdeep)|Way of the Dragon]].<ref name="VGtW-128">{{Cite book/Volo's Guide to Waterdeep|128}}</ref>
+*[[Inn of the Dripping Dagger]]: A cozy inn and tavern on the [[High Road]]. Once run by the ex-mercenary, [[Filiare]].<ref name="VGtW-111-115">{{Cite book/Volo's Guide to Waterdeep|111-115}}</ref>
+*[[Underdark (tavern)|Underdark]] was a shady tavern that dealt in stolen property<ref name="CoS.AGttC-p11">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|11}}</ref> and had a secret pathway to [[Skullport]] in its basement.<ref name="tCaT-p46-47">{{Cite book/To Catch a Thief|46-47}}</ref>
+*[[The Unicorn's Horn]]: A very expensive inn located where the High Road met [[Waterdeep Way]].<ref name="VGtW-128" />
+
+===Open Areas===
+* [[Caravan Court]]: Popular place where caravans mustered and disbanded.<ref name="VGtW-116">{{Cite book/Volo's Guide to Waterdeep|116}}</ref> Technically, this was on the border with and belonged to [[Southern Ward of Waterdeep|Southern Ward]].<ref name="VGtW-135">{{Cite book/Volo's Guide to Waterdeep|135}}</ref>
+* [[Court of the White Bull]]: Livestock trading. Once the site of a tavern of the same name that vanished during a wizard's duel<ref name="CoS-p100" /><ref name="WatN-20">{{Cite book/Waterdeep and the North|20}}</ref><ref name="VGtW-106,116">{{Cite book/Volo's Guide to Waterdeep|106,116}}</ref><ref name="WDH-178" />
+* [[Virgin's Square]]: Mustering place for mercenaries looking for work.<ref name="CoS-p100" /><ref name="VGtW-116" /><ref name="WatN-24">{{Cite book/Waterdeep and the North|24}}</ref>
+
+===Religious Centers===
+* The [[Plinth]]: An all-faiths temple.<ref name="WatN-p25" /><ref name="VGtW-p105" /><ref name="CoS-p100" /> The plinth was, however, destroyed by the [[spellplague]], and by [[1479 DR]], hadn't been rebuild.<ref>{{Cite book/City of the Dead|chp.16}}</ref>
+* [[Temple of Finder Wyvernspur]]: Converted out of a building with a storefront and two floors of clerics' living quarters in [[1372 DR]], giving the worshipers of the Nameless Bard an open place of worship.<ref name="EFR-p146">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|146}}</ref>
+* The Zoarstar: This Guildhall also had a chapel dedicated to [[Deneir]].<ref name="CoSW-43">{{Cite book/City of Splendors: Waterdeep|43}}</ref>
+
+===Residences===
+*[[Mhair's Tower]]: A wizard's tower on [[Spindle Street]].<ref name="VGtW-106">{{Cite book/Volo's Guide to Waterdeep|106}}</ref>
+*[[The Snookery]]: Once home to the weapons tutor, [[Myrmith Splendon]]<ref name="VGtW-118">{{Cite book/Volo's Guide to Waterdeep|118}}</ref>
+
+===Shops & Businesses===
+* [[Aurora's Emporium|Aurora's Realms Shop Catalogue Counter]]<ref name="VGtW-120">{{Cite book/Volo's Guide to Waterdeep|120}}</ref>
+*[[Belmonder's Meats]]: A very popular meat counter.<ref name="VGtW-120">{{Cite book/Volo's Guide to Waterdeep|120}}</ref>
+*The [[Golden Horn Gambling House]]: On [[Snail Street]].<ref name="VGtW-120" />
+*[[Hendever's Coffins and Coffers]]: On [[Coffinmarch]], made and sold what the name implies.<ref name="BoM-p76">{{Cite dungeon/126/Vampires of Waterdeep: Blood of Malar|76}}</ref>
+*[[Orsabbas's Fine Imports]]:Located on [[Vellarr's Lane]], exotic goods from all over the Realms could have been found here.<ref name="VGtW-121" />
+*[[Riautar's Weaponry]]:On the [[High Road]], it sold mostly second-hand weapons and fine bows.<ref name="VGtW-123">{{Cite book/Volo's Guide to Waterdeep|123}}</ref> 
+*The [[Riven Shield Shop]]:Sold second-hand arms and armor, many pieces from famous adventurers. Run by [[Delborggan the Blade]].<ref name="VGtW-123" />
+*[[Saern's Fine Swords]]: Had a huge selection of blades for sale. Run by [[Zygarth "Slayer" Saern]].<ref name="VGtW-125">{{Cite book/Volo's Guide to Waterdeep|125}}</ref>
+*[[Thentavva's Boots]]: A cobbler on [[Vellarr's Lane]].<ref name="VGtW-121">{{Cite book/Volo's Guide to Waterdeep|121}}</ref>
+* The [[Weirdbottle's Concoctions]]: A potion and elixir shop run by [[Skeemo Weirdbottle]].<ref name="WDH-199">{{Cite book/Waterdeep: Dragon Heist|199}}</ref>
+
+===Warehouses===
+* [[House of Light Storage]]: A warehouse that was owned by the Guild of Chandlers and Lamplighters.<ref name="WatN-p25" />
+* [[League of Basketmakers & Wickerworkers Storage]]: A warehouse that was owned by the Waterdhavian guild of the same name.<ref name="WatN-p25" />
+
+==Appendix==
+{{Stub-geo}}
+===Gallery===
+<gallery widths="200">
+TradesWardBoundary.jpg|''Map showing the boundary of Trades Ward ''circa'' [[1357 DR]].''
+Trades Ward.jpg|''Map showing the Trades Ward circa [[1372 DR]].''
+</gallery>
+===References===
+{{refs}}
+[[FR:Quartier des affaires (Eauprofonde)]]
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep|Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Southern Ward
+
+{{Location
+| image              = Waterdeep_Wards-Southern_Ward_01.gif
+| caption            = The Southern Ward of Waterdeep, highlighted in yellow.
+| name               = Southern Ward of Waterdeep
+| alt spelling       = 
+| aliases            = South Ward, Temple Ward, Caravan City
+| type               = City ward
+| region             = [[Waterdeep]], [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p11">{{Cite book/Waterdeep and the North|11}}</ref><ref name="VGtW-p135">{{Cite book/Volo's Guide to Waterdeep|135}}</ref><ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+'''Southern Ward''' was the southeastern sector of the city of [[Waterdeep]].<ref name="WatN-p11" /><ref name="VGtW-p135" /><ref name="CoSW-p106" /> It was named for the many settlers from [[South Faerûn|southern Faerûn]] as well as its geographic location within the city. As of the [[1491 DR|Year of the Scarlet Witch, 1491 DR]], only outsiders called it '''South Ward''', according to famed author [[Volo]] in his ''[[Volo's Waterdeep Enchiridion|Waterdeep Enchiridion]]''.<ref name="WDH-178" /> Interestingly, this custom changed from just the opposite, as reported by Volo in his ''[[Volo's Guide to Waterdeep|Guide to Waterdeep]]'' written in the early 1360s [[DR]].<ref name="VGtW-p135" />
+
+==Geography==
+The northern boundary with [[Trades Ward of Waterdeep|Trades Ward]] lay across [[Telshambra's Street]] and [[Caravan Court]]. On the west and south side was [[Dock Ward of Waterdeep|Dock Ward]] across the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]. To the east, the Ward was bounded by the city walls (circa [[1372 DR]]), specifically the "[[Trollwall]]", which included the southern inner gate leading to the [[Caravan Grounds]] and the [[South Gate (Waterdeep)|South Gate]] beyond.<ref name="VGtW-p135" /><ref name="WatN-cover">{{Cite book/Waterdeep and the North/Inside cover}}</ref><ref name="CoSW-93">{{Cite book/City of Splendors: Waterdeep|93}}</ref><ref name="CS-???">{{Cite book/City System}}</ref>
+
+The stretch of buildings and alleyways in this Ward that stood between the Way of the Dragon and the [[High Road (Waterdeep)|High Road]] was an area that locals referred to as the Tween Run.<ref name="VGtW-p155">{{Cite book/Volo's Guide to Waterdeep|155}}</ref>
+
+==Inhabitants==
+This was considered the "poor" ward and was often known as '''Caravan City''' due to the large numbers of caravan merchants, teamsters and guards that swelled the population of the ward most of the year.<ref name="VGtW-p135" /><ref name="CoSW-p106" />
+
+Dust and mud were common on the streets and most buildings were old, multi-story tenements with shops or businesses on the ground floor.<ref name="VGtW-p135" /> Many visited the ward to experience the wonder of the [[Moon Sphere]]; a miraculous event occurring on the nights of the full [[Selûne|moon]] in [[Dancing Court]],<ref name="VGtW-p142">{{Cite book/Volo's Guide to Waterdeep|142}}</ref> adjacent to the Jade D
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Castle Ward
+
+{{Location
+| image              = Castle_ward-5e.jpg
+| caption            = A [[City Watch (Waterdeep)|City Watch]] patrol in the Castle Ward.
+| name               = Castle Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGW2e-p7">{{Template:Cite book/Volo's Guide to Waterdeep|7}}</ref><ref name="CoS-CG2e-p9">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1035}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS-CG2e-p30">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = yes
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Castle Ward''' was the central ward of the city of [[Waterdeep]]. It encompassed [[Mount Waterdeep]], [[Castle Waterdeep]], and much of the government of the city, which included the [[Palace of Waterdeep]], occupied by [[Piergeiron the Paladinson]] in the mid-14{{th}} century [[DR]], and the residences of many prosperous Waterdhavians.<ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> Among these citizens were celebrated retired adventurers such as [[Mirt the Moneylender]].<ref name="CoSW-p100"/>
+
+==Geography==
+The ward was delimited by [[Julthoon Street]] to the north, west of [[Shield Street]], and by [[Trader's Way]] between Shield Street and the [[High Road (Waterdeep)|High Road]], which delimited the ward's eastern border together with [[Snail Street]]. The southern border of the ward was delimited by [[Shesstra Street]], [[Gut Alley]], [[Belnimbra's Street]], and [[Lackpurse Lane]], until the ward met [[Deepwater Harbor]].<ref name="CoS-AG2e-p18">{{Template:Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|18}}</ref>
+
+===Geographical Features===
+Much of the territory of the Castle Ward was taken up by Mount Waterdeep, which consisted mostly of unused land.<ref name="CoS-CG2e-p9" /><ref name="CoS-AG2e-p18" />
+
+==History==
+The Castle Ward was one of the original wards of Waterdeep, established by [[Ahghairon]] in the {{Template:YearlinkName|1035}} together with the [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep/Southern Ward|Temple Ward]], and [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoS-CG2e-p30" />
+
+==Notable Locations==
+{{/Imagemap}}
+;[[Mount Waterdeep]]
+: The massive peak around which Waterdeep was built<ref name="CoSW-p96"/> encompassed the southwest portion of the city.<ref name="CoSW-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> Atop its summit was the [[Peaktop Aerie]], which housed the city's famed [[Griffon Cavalry]], and its sea-facing flank featured 11 triple-[[catapult]]s armed with rock and flammable pots. Beneath these armaments were the [[South Sea Caves (Waterdeep)|sea caves]], which allowed passage for ships to [[River Sargauth]] and the undercity of [[Skullport]].<ref name="CoSW-p96"/>
+
+;[[New Olamn]]
+:The bardic college was located on the rocky cliffside, in the western edge of the ward, overlooking the [[Sea of Swords]]. It was accessible by the [[cliffside (road)|cliffside]] pat
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/North Ward
+
+{{Location
+| image              = Waterdeep_Wards-North_Ward_01.gif
+| caption            = 
+| name               = North Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = Ward
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p24">{{Cite book/Waterdeep and the North|24}}</ref><ref name="VGtW-p81">{{Cite book/Volo's Guide to Waterdeep|81}}</ref><ref name="CoS-p92">{{Cite book/City of Splendors: Waterdeep|92}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1276}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="GHR3e-p128">{{Cite book/The Grand History of the Realms|128}}</ref><ref name="CS-CG2e-p31">{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''North Ward''' was the northeastern sector of [[Waterdeep]].<ref name="WatN-p24" /><ref name="CoS-p92" /> It was famous for being the quietest ward of the city, consisting mostly of residential areas.<ref name="VGtW-p81" />
+
+==Geography==
+The North Ward was delimited by the walls of the [[Waterdeep/City of the Dead|City of the Dead]] to the southeast and the [[Trollwall]] to the east and north. Its southern border was at [[Andamaar's Street]] and [[Trader's Way]] up to [[Shield Street]], which marked the western border until [[Vondil Street]]. North of that, the western border was defined by the [[High Road]] the rest of the way to the Trollwall.<ref name="CoS.AG-12">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|12}}</ref>
+
+The architectural style of the North Ward was dominated by rowhouses, which filled the gaps between the villas of lesser [[Nobility of Waterdeep|noble houses]]. The ward also counted with a variety of taverns and shops.<ref name="VGtW-p81" /><ref name="WDH5e-p176">{{Cite book/Waterdeep: Dragon Heist|176}}</ref>
+
+===Geographical Features===
+The most prominent feature of the North Ward was the [[Cliffwatch]], a section of the Waterdeep plateau that was so steep and high that it provided a natural defense, so the area was marked by an interruption of the Trollwall between the [[Endcliff Tower]] and the [[Watchway Tower]] in the City of the Dead. A walkway traversed the entire Cliffwatch, along which some of the best inns and taverns of Waterdeep were located, taking advantage of the beautiful landscape to the east.<ref name="WDH5e-p176" /><ref name="CS-CG2e-p43">{{Cite book/City of Splendors (boxed set)/Campaign Guide|43}}</ref>
+
+==History==
+The North Ward was officially included as one of the official wards of Waterdeep in the {{YearlinkName|1276}}, together with the [[Waterdeep/Sea Ward|Sea Ward]].<ref name="GHR3e-p128" /><ref name="CS-CG2e-p31" />
+
+In [[1368 DR]], the noble [[Cassalanter]] family loaned two ten-million [[Golden lion (coin)|golden lions]] with a huge interest rate. The first loan was to [[Widow Silvermane]] who ran a [[lottery]] in the North Ward, and the second one went to the [[Field of Triumph]] Race Track in the [[Waterdeep/Sea Ward|Sea Ward]]. The astronomical loans were caused by goddess' [[Tymora]]s luck going out of control all over the Realms. Every
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/City of the Dead
+
+{{Otheruses4|the cemetery in [[Waterdeep]]|other uses|City of the Dead (disambiguation)}}
+{{Location
+| image          = City of the Dead-Julian Kok.jpg
+| caption        = 
+| name           = City of the Dead
+| aliases        = The City<ref>{{Cite book/Volo's Guide to Waterdeep|38}}</ref>
+| type           = 
+| size           = Cemetery / ward
+| area           = [[Waterdeep]],<br /> [[Sword Coast North]]
+| languages      = 
+| races          = 
+| religion       = 
+| alignment      = 
+| established    = [[1248 DR]]
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| histrefs       = <ref>{{Cite book/City System|4}}</ref>
+| usethe         = yes
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| events         = yes
+| food and drink = 
+| items          = yes
+}}
+The '''City of the Dead''' was a large cemetery and ward in [[Waterdeep]]. Most of the city's dead were buried here.<ref name="City of the Dead">{{Cite book/City of the Dead}}</ref> By day, it also doubled as the city's major public park picnic area.<ref name="CoS:W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WDDH-p179">{{Cite book/Waterdeep: Dragon Heist|179}}</ref>
+
+==Activities==
+Besides burials and funerals, the City of the Dead was host to a variety of activities among Waterdhavians. These included, but were not limited to:  being an exercise run, a dueling ground, a playground, a highsun dining area, a meeting-moot, a place where courting lovers could meet in private, and a performance venue for [[minstrel]]s (and would-be minstrels).<ref>{{Cite web/Realmslore/Dawntree, Part One: Bold Dreams}}</ref>
+
+At night the City of the Dead was off-limits to the public, yet it was still used by many during those hours for more nefarious activities.<ref name="CoS:W-p102" />
+
+==History==
+The area that would eventually become the site of the City of the Dead was used as a burial site as far back as the days of [[Nimoar's Hold]].<ref>{{Cite adventurers league/Hero of the Troll Wars|5-7}}</ref>
+
+When Waterdeep was much smaller, a cemetery was established on the end of the plateau overlooking the plains east of the city. A low wall was built around the cemetery in [[1064 DR]] first establishing its boundaries north and east of the [[Trades Ward of Waterdeep|Trades Ward]] and south of the [[North Ward of Waterdeep|North Ward]]. Since that time, higher walls were built and gates into the City of the Dead were established which were only opened to the public during the daylight hours.<ref name="CoS-CG-p56-57">{{Cite book/City of Splendors (boxed set)/Campaign Guide|56-57}}</ref>
+
+Space soon became hard to come by in the cemetery itself. Many of those who could not afford to be buried there found themselves interred in an area known as [[Grave Alley]] (later called [[Ilisar’s Alley]]). Their coffins were placed vertically below the cobblestones. This led to issues of the [[undead]] rising from the streets themselves and the practice was soon abandoned.<ref name="VGtW-p165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+
+In order to alleviate the overcrowding, in [[1250 DR]], [[Ahghairon]] and other mages of Waterdeep began to establish ''[[portals]]'' from tombs and mausoleums to uninhabited demiplanes of various types where the dead were laid to rest. Most notable among these wizards, except for Ahghairon himself, was the ''portal'' and ''teleportation'' specialist, [[Anacaster]]. Two of his more well known portals led from [[The House of the Homeless]] and [[Merchants’ Rest]].<ref name="CoS:W-p102" />
+
+Most noble houses, reportedly less than half, did not keep family tombs in the City of the Dead. They instead had crypts below their villas or were buried in family estates outside of Waterdeep.<ref name="CoS-CG-p56-57" />
+ 
+The cemetery suffered extensive damage during the [[Spellplague]].<ref name="BT.p107-8">{{Cite book/Blackstaff Tower|107-8}}</ref>
+
+==Notable Locations==
+[[File:Waterdeep_Wards-City-of-the-Dead_01.gif|thumb|250px|''Map of the City of the Dead''.]]
+===Gates===
+;[[Andamarr Gate]]: One of the public gates.<ref name="City of the Dead-p133">{{Cite book/City of the Dead|133}}</ref>
+;[[Coffinsmarch Gate]]: One of the public gates.<ref name="City of the Dead-p1">{{Cite book/City of the Dead|1}}</ref>
+;[[Dead End Gate]]: The hidden, private gate the Carver family uses to enter in order to conduct burials or perform maintenance on the tombs <ref name="City of the Dead">{{Cite book/City of the Dead}}</ref>
+;[[Mhalsyymber Gate]]: One of the public gates.<ref name="City of the Dead-p173">{{Cite book/City of the Dead|173}}</ref>
+===Crypts, plots, tombs, vaults===
+;[[Deepwinter Vault]]: A tomb near the north end of the City of the Dead. It once housed the noble Deepwinter family, but was also the entry into the [[Dungeon of the Crypt]].<ref name="City of the Dead-p10">{{Cite book/City of the Dead|10}}</ref><re
+
+=== LINKED WIKI PAGE (first 5000 chars): Trollwall
+
+{{Location
+| image              = 
+| caption            = 
+| name               = Trollwall
+| alt spelling       = 
+| aliases            = 
+| type               = Wall
+| region             = [[Waterdeep]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" />
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''Trollwall''' was a defensive barrier that encircled nearly the entirety of the city of [[Waterdeep]].<ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" /><ref name="WatN-p11">{{Cite book/Waterdeep and the North|11}}</ref>
+
+==Location==
+The Trollwall fully surrounded Waterdeep's eastern perimeter, from its southern tip at [[Deepwater Harbor]] to the northern end of the [[City of the Dead]],<ref name="CoS.CG-p8" /><ref name="WatN-p11" /> along the way acting as the eastern boundary of the [[Waterdeep/Southern Ward|Southern Ward]].<ref>{{Cite book/Volo's Guide to Waterdeep|135}}</ref> It stopped at the northeastern corner of the City of the Dead, at a small stretch of land known as the [[Cliffwatch]],<ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" /> whose steep {{SI|100|ft}} cliff of the [[Cliffwatch (cliff)|same name]] acted as a natural barrier.<ref name="CoS.CG-p8" /><ref name="WatN-p11" /><ref name="CoS.CG-p43" /><ref name="CoS.W-p94">{{Cite book/City of Splendors: Waterdeep|94}}</ref> The Trollwall then continued around Waterdeep's northern perimeter,<ref name="CoS.CG-p8" /><ref name="WatN-p11" /> beginning at the point in which the Cliffwatch's height was negligible enough for attackers to scale it,<ref name="WatN-p11" /> and formed the southern boundary of the [[Waterdeep/Field Ward|Field Ward]]<ref>{{Cite book/Forgotten Realms Player's Guide|128}}</ref><ref>{{Cite book/Forgotten Realms Campaign Guide|196}}</ref> before doubling back south to surrounded the western seacoast.<ref name="CoS.CG-p8" /><ref name="WatN-p11" />
+
+==Structure==
+In the [[Present Age]], the Trollwall was made of stone and measured {{SI|40|ft|long=yes}} tall.<ref name="CoS.W-p18-19">{{Cite book/City of Splendors: Waterdeep|18-19}}</ref> The thickness of the barrier varied from {{SIrange|10|20|ft|long=yes}} in places,<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref> but was most commonly {{SI|15|ft|long=yes}} thick. The wall had crenellations on both of its sides.<ref name="CoS.W-p18-19" />
+
+Throughout its length the Trollwall was studded with watch towers.<ref name="CS-p5">{{Cite book/City System|5}}</ref><ref name="FRCS2e-p105">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|105}}</ref> These were known as Trollwall Towers<ref>{{Cite book/Volo's Guide to Waterdeep|167}}</ref> or torchtowers,<ref name="edverse">{{Cite web/theedverse/2021-10-17 - Waterdeep's Torchtowers}}</ref> with those bearing names being considered "major towers".<ref name="CS-p6">{{Cite book/City System|6}}</ref>
+
+It was pierced by four major gates, one for each cardinal direction - the [[North Gate (Waterdeep)|North Gate]], [[River Gate (Waterdeep)|River Gate]], [[South Gate (Waterdeep)|South Gate]], and [[We
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): City Watch (Waterdeep)
+
+{{Organization
+| image          = City_watch-5e.jpg
+| caption        = Various members of the City Watch.
+| name           = City Watch
+| aliases        = Watchers<ref name="tCaT-p26">{{Cite book/To Catch a Thief|26}}</ref>
+| base           = [[Palace of Waterdeep]], [[Waterdeep]], [[Sword Coast North]]<ref name="CoS.W-p35">{{Cite book/City of Splendors: Waterdeep|35–37}}</ref>
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = 
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Any
+| memrefs        = <ref name="WDH5e-p198">{{Cite book/Waterdeep: Dragon Heist|198}}</ref>
+| allegiances    = [[Open Lord]]
+| enemies        = 
+| relrefs        = <ref name="WDH5e-p198" />
+| showmembers    = yes
+| orgname        = the City Watch of Waterdeep
+}}
+The '''City Watch''' of [[Waterdeep]] served as the police force within the city.<ref name="ADDc-01">{{Cite comic/The Gathering}}</ref><ref name="CoS.W-p35" /> Its strict code of conduct and well trained operatives made the Watch one of the most trusted police forces in [[Faerûn]].<ref name="WDH5e-p168">{{Cite book/Waterdeep: Dragon Heist|168}}</ref>
+
+{{Quote|To distinguish between Waterdeep's different groups of guardians, keep this handy mnemonic in mind: [[City Guard (Waterdeep)|the Guard]] guards the walls while the Watch watches all.|[[Volo]]<ref name="MM5eR-p162">{{Cite book/Monster Manual 5th edition (revised)|162}}</ref>}}
+
+==Organization==
+The Watch's purpose was not only to enforce the law, but also to ensure the well-being of Waterdhavians.<ref name="CoS.W-p35" />
+
+It had a centralized command led by the Commander of the Watch, who supervised three watchlords,<ref name="THO2004">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/Ranks of the Waterdeep City Guard and City Watch}}</ref><ref name="PoF-p29">{{Cite book/Power of Faerûn|29}}</ref> or senior commanders: the Mage Civilar in charge of the [[wizard]] corps; the Senior Armsmaster, who was in charge of supplies and reported directly to the Commander of the Watch; and the Grand Civilar, who commanded the ward civilars and held the same rank as the Mage Civilar.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" /> The Commander of the Watch reported directly to the [[Open Lord]].<ref name="WDH5e-p198" />
+
+Each ward of Waterdeep was patrolled by a division of the Watch under the command of a ward civilar, or [[Generic City Watch major (Waterdeep)|major]], who oversaw all the senior civilars commanding the watch stations of their respective wards.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />{{Border box float
+| theme        = 
+| float        = 
+| contentalign = center
+| width        = auto
+| styles       = 
+| content      = {{Split table|lca=center|rca=center|caption=City Watch Ranks|captionstyle=font-size:larger;font-family:Georgia,serif;font-weight:bold;text-align:center;
+|leftheader=Rank<ref name="WDH5e-p189" />|rightheader=Title<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76">{{Cite book/City of Splendors (boxed set)/Campaign Guide|75-76}}</ref>
+| [[Generic City Watch patrolperson (Waterdeep)|Watchman/Watchwoman]] | ''Constable''
+| [[Generic City Watch sergeant (Waterdeep)|Sergeant]] | ''Armar''
+| [[Generic City Watch lieutenant (Waterdeep)|Lieutenant]] | ''Civilar''
+| [[Generic City Watch captain (Waterdeep)|Captain]] | ''Senior civilar''
+| [[Generic City Watch major (Waterdeep)|Major]] | ''Ward civilar''
+}}
+----
+'''Senior Commanders'''<ref name="CoS.W-p35"/><ref name="WDH5e-p189" /><ref name="CoS2e-p75-76" /><br />''Grand Civilar'' • ''Mage Civilar'' • ''Senior Armsmaster''
+----
+'''''Commander of the Watch'''''
+}}Each guard post was commanded by a senior civilar or [[Generic City Watch captain (Waterdeep)|captain]], sometimes referred to as a rorden,<ref name="THO2004" /><ref name="PoF-p29" /> who commanded a number of patrols. Senior civilars also performed duties as orsars, acting as envoys and prisoner escorts; and as guardswords, in charge of patrolling the docks and gates.<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /><ref name="THO2004" /><ref name="PoF-p29" />
+
+Each patrol was headed by a civilar, or [[Generic City Watch lieutenant (Waterdeep)|lieutenant]],<ref name="WDH5e-p198" /><ref name="CoS.W-p35" /> also known as a [[swordcaptain]] or amlar.<ref name="ADDc-01"/> Typical patrol groups included one armar, or [[Generic City Guard sergeant (Waterdeep)|sergeant]], also known as a "sword", and two or more [[Generic City Guard private (Waterdeep)|constable]]s, also known as "blades"<ref name="PoF-p29" />, patrolmen,<ref name="ADDc-01"/> or watchmen/watchwomen.<ref name="CoS2e-p75-76" /><ref name="CoS.W-p35" /><ref name="WDH5e-p198" />
+
+==Activities==
+[[File:Delzorin.png|thumb|300px|right|''A traffic warden gives directions at the corner of [[Delzorin Street
+
+=== LINKED WIKI PAGE (first 5000 chars): Church of Lathander
+
+{{Organization
+| image          = 
+<gallery>
+Lathander Symbol-5e.png|1489 DR
+Lathander symbol.jpg|1372 DR
+</gallery>
+| caption        = 
+| name           = Church of Lathander
+| aliases        = Lathanderism,<ref name="F&P-p37-38" /><br />Demonym: Lathanderite,<ref name="CoS.W-p151" /><ref name="RZK.MC-p2">{{Cite book/Ruins of Zhentil Keep/Monstrous Compendium|2}}</ref> Lathanderian<ref name="GHotR-p103">{{Cite book/The Grand History of the Realms|103}}</ref>
+| type           = Religious organization
+| base           = 
+| leader         = ''None''
+| symbol         = Stylized depiction of a sunrise
+| favored deity  = [[Lathander]]
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="F&A-p91-92" /><ref name="F&P-p223">{{Cite book/Faiths and Pantheons|223}}</ref>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+<tabber>
+3e = {{Alignment grid|on|on|on|off|off|off|off|off|off}}|-|
+2e = {{Alignment grid|on|on|on|on|off|off|off|off|off}}
+</tabber>
+| races          = [[Human]]s,<ref name="RoF-p87">{{Cite book/Races of Faerûn|87}}</ref><ref name="RoF-p104">{{Cite book/Races of Faerûn|104}}</ref><ref name="RoF-p106-107">{{Cite book/Races of Faerûn|106-107}}</ref> [[elves]]<ref name="SCAG-p108">{{Cite book/Sword Coast Adventurer's Guide|108}}</ref>
+| memrefs        = <ref name="F&P-p37-38">{{Cite book/Faiths and Pantheons|37-38}}</ref><ref name="F&A-p91-92" /><ref name="CoS.W-p39" />
+| allegiances    = [[Church of Chauntea|Churches of Chauntea]] and [[Church of Waukeen|Waukeen]], [[Fellowship of the Purple Staff]], [[Order of the Sun Soul]]
+| enemies        = [[Cult of the Dragon]], [[Twisted Rune]]
+| relrefs        = <ref name="CoS.W-p89">{{Cite book/City of Splendors: Waterdeep|89}}</ref><ref name="EFR-p149" /><ref name="EFR-p175">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|175}}</ref><ref name="CoV-p81">{{Cite book/Champions of Valor|81}}</ref><ref name="CotD-p29">{{Cite book/Cult of the Dragon|29}}</ref><ref name="LoD-p179">{{Cite book/Lords of Darkness|179}}</ref>
+| showmembers    = 
+| orgname        = 
+}}
+The '''Church of Lathander''' was an organization that comprised the collective practitioners of the faith surrounding [[Lathander]] the Morninglord. It was among the most well-respected,<ref name="PGtF-p66-67" /> popular, and wealthiest churches in all of [[Faerûn]],<ref name="F&A-p91-92">{{Cite book/Faiths & Avatars|91-92}}</ref><ref name="FRCS2e.RTR-p46-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|46-47}}</ref><ref name="F&P-p37-38" /> albeit one that experienced much tumult during the early [[Era of Upheaval]].<ref name="LEoF-p25-28" /><ref name="GHotR-p155">{{Cite book/The Grand History of the Realms|155}}</ref><ref name="PoF-p61" /> Lathander's church languished for decades following the Morninglord's apparent "death",<ref name="FRCG-p72" /> and true to his divine domain of rebirth, was restored following the conclusion of the [[Era of Upheaval]].<ref name="SCAG-p32" /><ref name="Reaver-chp12" />
+
+==Organization==
+The Lathanderian faith held no singular authority over the faith or hierarchy that bound individual churches to one another.<ref name="F&P-p37-38" /> Each priest held sole jurisdiction over their own temple, shrine, or congregation, regardless of their rank or title within the church.<ref name="F&A-p91-92" />
+
+Heads of Lathander's temples occasionally met at conferences whenever issues affecting the church at large had to be addressed.<ref name="F&A-p91-92" />
+
+===Titles===
+Titles within the church included (in descending order): Sunrise Lord, High Mornmaster, Mornmaster, High Morninglord, Morninglord, Dawnmaster, High Dawnlord, Dawnlord, Dawngreeter, Dawnbringer,<ref name="F&P-p37-38" /> and Awakened for novitiates.<ref name="F&A-p91-92" /><ref name="EFR-p149" /> Despite the numerous titles, Lathanderian clergy commonly referred to one another as "Dawnbringer"<ref name="F&P-p37-38" /> or "Dawn Priest".<ref name="FRA-p22" /> 
+
+In old [[Athalantar]], clergy members were referred to as "Lights of Lathander".<ref name="Dragon228.AC-p32">{{Cite dragon/228/The Athalantan Campaign|32}}</ref>
+
+It was customary for priests to take on a new name for themselves, as revealed to them by Lathander. This act symbolized their "rebirth" as an official member of the clergy.<ref name="HoH-p108">{{Cite book/Hall of Heroes|108}}</ref> 
+
+===Factions===
+{{Quote|The [[Netherese]] of old knew [[Amaunator]], the great sun lord, whose light and order filled the world for an age. We know him now as Lathander...Just as the sun brightens while it climbs into the sky, so will Lathander's glory and radiance grow as he resumes the glory and mastery that were his of old.|[[Sunmaster]] [[Andar]], espousing beliefs of the [[Risen Sun heresy|Risen Sun]].<ref name="LEoF-p25-28" />}}
+
+Within the greater church was a faction that believed Lathander was in fact the reincarnation of th
+
+=== LINKED WIKI PAGE (first 5000 chars): Virgin's Square
+
+{{Road
+| image          = 
+<gallery>
+Scroll-Simple-Soothsayer-Virgin-Quaff WDH-map.png|1492 DR
+VirginsSquare-Plinth-1372.png|1372 DR
+Virgin's Square VGTW-map.png|1360's DR
+</gallery>
+| caption        = 
+| name           = Virgin's Square
+| type           = Courtyard
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = Cobblestone<ref name="CoS.AG-p11" /><ref name="CoS-map" />
+| location       = [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| starts         = 
+| ends           = 
+| built          = 
+| refs           = <ref name="CoS.AG-p11">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|11}}</ref><ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref><ref name="VGtW">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| organizations  = 
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+'''Virgin's Square''' was a prominent, cobblestone paved,<ref name="CoS.AG-p11" /><ref name="CoS-map" /> courtyard in the [[Waterdeep/Trades Ward|Trades Ward]] of the city of [[Waterdeep]].<ref name="CoS.AG-p11" /><ref name="CoS-map" /><ref name="VGtW" /><ref name="WDH5e-map" /><ref name="WatN-p24-25">{{Cite book/Waterdeep and the North|24-25}}</ref><ref name="CoS.CG-p50">{{Cite book/City of Splendors (boxed set)/Campaign Guide|50}}</ref><ref name="CoS.W-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+
+==Description==
+Despite its name, Virgin's Square had a roughly round shape to it.<ref name="VGtW-p116">{{Cite book/Volo's Guide to Waterdeep|116}}</ref>
+
+==Geography==
+This courtyard was located in the center of a block of buildings bounded by the [[High Road (Waterdeep)|High Road]], [[Scroll Street]], [[Simple's Street]], [[Snail Street]], and the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]. Most of it opened southward on to Simple's Street, but it could also be entered from the north through [[Atkiss Alley]].<ref name="CoS-map" /><ref>{{Cite book/Waterdeep and the North/Map}}</ref>
+
+==Activities==
+Virgin's Square acted as a marketplace,<ref name="WatN-p24-25" /><ref name="CoS.CG-p50" /><ref name="CoS.W-p100" /> but was also the place in Waterdeep where bodyguards and [[hiresword]]s typically gathered to seek employment.<ref name="CoS.AG-p11" /><ref name="WatN-p24-25" /><ref name="CoS.CG-p50" /><ref name="CoS.W-p100" /><ref name="VGtW-p106,116-117,217">{{Cite book/Volo's Guide to Waterdeep|106,116-117,217}}</ref><ref name="CoS.WWiW-p33">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|33}}</ref> Fully armed and often sinister looking, these mercenaries originated from all across [[Faerûn]].<ref name="VGtW-p116" /> Many of them spoke out and advertised their abilities or skills, some even approaching known mercenary contacts.<ref name="CoS.WWiW-p33" />
+
+Waterdhavian citizenry often lingered in Virgin's Square to watch the boastful warriors,<ref name="CoS.AG-p11" /> with women often giving them dirty looks,<ref name="VGtW-p116" /> or to watch the constant traffic from the nearby main avenues,<ref name="CoS.AG-p11" /> the High Road and the Way of the Dragon.<ref name="CoS-map" />
+
+==History==
+Virgin's Square was named for a local legend that claimed long before Waterdeep's founding, the spot the square stood on was used by nomadic [[barbarian]] tribes to sacrifice virgins,<ref name="WatN-p24-25" /><ref name="CoS.CG-p50" /><ref name="CoS.W-p100" /><ref name="VGtW-p117">{{Cite book/Volo's Guide to Waterdeep|117}}</ref> both male and female,<ref name="VGtW-p117" /> to [[dragon]]s.<ref name="WatN-p24-25" /><ref name="CoS.CG-p50" /><ref name="CoS.W-p100" /> In later centuries, Virgin's Square would become a traditional meeting place for members of the [[Cult of the Dragon]].<ref name="WatN-p24-25" /><ref name="CoS.CG-p50" /><ref name="CoS.W-p100" />
+
+One of the more notable incidences to occur in Virgin's Square was when a [[mimic]] took up the share of a statue in the courtyard,<ref name="VGtW-p116" /> shoving the real statue in a nearby [[Waterdeep/Sewers|sewers]] entrance that had a depth of {{SI|60|ft|long=yes}}.<ref name="VGtW-p117" /> The mimic lingered there for two winters undetected,<ref name="VGtW-p116" /> preying upon drunkards every night and heaping their bones atop the real statue.<ref name="VGtW-p117" />
+
+Eventually the nightly disappearances prompted an investigation by the [[City Watch (Waterdeep)|City Watch]]. Not expecting to find anything amiss, two Watchmen prodded the mimic with their [[spear]]s, who retaliated by devouring them. After this, the Watch found that the statue's sculptor did not recognize it and discovered the hiding place of the real statue, along with the huge heap of bones that had been amassed atop it.<ref name="VGtW-p117" />
+
+In the late 14{{th}} century [[DR]], over the course of a
+
+=== LINKED WIKI PAGE (first 5000 chars): Citadel of the Arrow
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Citadel of the Arrow
+| type          = Guildhall
+| architecture  = 
+| floors        = 3<ref name="CoS.CG-p50" /><ref name="CoS.W-p100" />
+| location      = [[Burnt Wagon Way]], [[Trades Ward of Waterdeep|Trades Ward]], [[Waterdeep]]
+| basicrefs     = <ref name="WatN-p38" /><ref name="CoS.WWiW-p41" />
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = yes
+}}
+'''Citadel of the Arrow''' was the guildhall of the [[Fellowship of Bowyers and Fletchers|Fellowship of Bowers and Fletchers]].<ref name="WatN-p38">{{Cite book/Waterdeep and the North|38}}</ref><ref name="CoS.WWiW-p41" /><ref name="CS-p12">{{Cite book/City System|12}}</ref>
+
+==Location==
+This guildhall was located along [[Burnt Wagon Way]],<ref name="WatN-p38" /><ref name="CoS.WWiW-p41" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]].<ref name="WatN-p38" /><ref name="CoS.W-p100" /><ref name="CoS.WWiW-p41">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|41}}</ref><ref name="VGtW-p107,239">{{Cite book/Volo's Guide to Waterdeep|107,239}}</ref>
+
+==Structure==
+This guildhall stood three-stories tall.<ref name="CoS.CG-p50">{{Cite book/City of Splendors (boxed set)/Campaign Guide|50}}</ref><ref name="CoS.W-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Guildhalls]]
+[[Category:Buildings]]
+[[Category:Locations on Burnt Wagon Way]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Fellowship of Bowyers and Fletchers
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Fellowship of Bowyers and Fletchers
+| aliases        = 
+| base           = [[Citadel of the Arrow]], [[Trades Ward of Waterdeep|Trades Ward]] of [[Waterdeep]]
+| leader         = [[Halassiter Ahrian]] (early 1370s [[DR]])
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| members        = 
+| alignment      = 
+| races          = 
+| allegiances    = 
+| enemies        = 
+| showmembers    = yes
+| orgname        = the Fellowship of Bowyers and Fletchers
+}}
+The '''Fellowship of Bowyers and Fletchers''' was a [[Guilds of Waterdeep|guild]] in the city [[Waterdeep]] made up of the city's [[bow]]-and-[[arrow]] crafters, still young by [[1357 DR]]. Despite the high demand for their wares, they maintained a carefree outlook and were not overly concerned with intense mercantile competition.<ref name="W&tN-p38">{{Cite book/Waterdeep and the North|38}}</ref>
+
+==Activities==
+The fellowship maintained a strict inspection protocol that ensured the goods produced by its members were all of the highest quality. All of their arrow shafts were made straight, fletches were secure allowing for sure flight, and arrow-heads were symmetrical and sharp.<ref name="W&tN-p38"/>
+
+They kept an exclusive contract with the city to produce the shafts that were used with the city's siege [[ballista]]e.<ref name="W&tN-p38"/>
+
+==Uniform==
+Guild livery consisted of white jackets and cloaks that were decorated with diagonal red stripes.<ref name="W&tN-p38"/>
+
+==Membership==
+The fellowship regularly accepted new members for an entrance fee of 5 [[gp]]. Their regular dues were a monthly fee of 8 [[sp]].<ref name="W&tN-p38"/>
+
+==Notable Members==
+* [[Halassiter Ahrian]]: A skilled bowman who ran the [[Master of the Bow]]<ref name="W&tN-p38"/>
+* [[Zorondar Riautar|Zorondar "the Nimble"]]: An expert on the [[crossbow]] and proprietor of [[Riautar's Weaponry]]<ref name="W&tN-p38"/>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Guilds]]
+[[Category:Organizations in the Citadel of the Arrow]]
+[[Category:Organizations in the Trades Ward of Waterdeep]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Cobblers' & Corvisers' House
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Cobblers' & Corvisers' House
+| aliases       = 
+| type          = Guildhall
+| architecture  = 
+| floors        = 2<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" />
+| location      = [[Soothsayer's Way]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Order of Cobblers & Corvisers]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p42" /><ref name="CoS.WWiW-p51" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Cobblers' and Corvisers' House''' was the guildhall of a [[Guilds of Waterdeep|Waterdhavian guild]] of the [[Order of Cobblers & Corvisers|same name]].<ref name="CoS.CG-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="CoS.W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WatN-p42">{{Cite book/Waterdeep and the North|42}}</ref><ref name="CoS.WWiW-p51">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|51}}</ref><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CS-p12">{{Cite book/City System|12}}</ref>
+
+==Location==
+This guildhall was located along [[Soothsayer's Way]],<ref name="WatN-p42" /><ref name="CoS.WWiW-p51" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]].<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" /><ref name="WatN-p42" /><ref name="CoS.WWiW-p51" /><ref name="VGtW-p107" /> 
+
+==Structure==
+This guildhall stood two stories tall.<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" />
+
+==Services==
+This guildhall offered clothing services,<ref name="CoSW-p18">{{Cite book/City of Splendors: Waterdeep|18}}</ref> specifically the selling or repairing of footwear of all forms.<ref name="WatN-p42" />
+
+==Reputation==
+Like other guildhalls in Waterdeep, this building was considered by locals to be a landmark.<ref name="VGtW-p107" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Shops]]
+[[Category:Shoe shops]]
+[[Category:Clothing shops]]
+[[Category:Businesses]]
+[[Category:Guildhalls]]
+[[Category:Locations on Soothsayer's Way]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Order of Cobblers and Corvisers
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Order of Cobblers and Corvisers
+| alt_spelling   = Cobblers' and Corvisers' Guild<ref name="CoS.CG-p51" /><br/>Order of Cobblers & Corvisers<ref name="WatN-p42" /><ref name="CoS-p51" /><ref>{{Cite book/City of Splendors: Waterdeep|51}}</ref>
+| aliases        = 
+| type           = [[Guild]]
+| base           = [[Cobblers' & Corvisers' House]]
+| leadertitle    = Senior Merchant
+| leader         = [[Falloor Malthind]]
+| symbol         = A brown footprint of a right, bare [[human]] foot
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p42" /><ref name="CoS-p51" />
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Order of Cobblers and Corvisers
+}}
+The '''Order of Cobblers and Corvisers''' was a registered [[guild]] in [[Waterdeep]] representing skilled tradesmen who crafted and repaired all manner of footwear.<ref name="WatN-p42">{{Cite book/Waterdeep and the North|42}}</ref><ref name="CoS-p51">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|51}}</ref><ref name="W.DH-p13">{{Cite book/Waterdeep: Dragon Heist|13}}</ref> Due to the area of expertise they presided over, this unostentatious guild's tradesmen were both feverishly active and quite wealthy.<ref name="WatN-p42" /><ref name="CoS-p51" />
+
+==Organization==
+The Order was governed by a Council of Senior Merchants, made up of those who had been members of the guild for 15 or more continuous years, with a central guild leader. In the mid–14{{th}} century [[DR]], this leader was [[Falloor Malthind]]. The guild's public contact held the title of "Spokesman of the Order".<ref name="WatN-p42" /><ref name="CoS-p51" /> During this same period, that title was held by [[Darion Sulmest]], proprietor of the expensive footwear boutique [[Sulmest's Splendid Shoes & Boots]].<ref name="WatN-p42" /><ref name="CoS-p51" /><ref>{{Cite book/Volo's Guide to Waterdeep|82,218}}</ref>
+
+Admittance to the Order required submitting an application to the Council of Senior Merchants. Once approved, new entrants had to pay an entrance fee of 15 [[gold piece]]s. Full members were expected to pay an annual due of 10 gold pieces. Part of these dues went towards the guild's annual fall order of materials.<ref name="WatN-p42" /><ref name="CoS-p51" />
+
+By Guild law each full member could have up to a maximum of nine apprentices serve under them. Apprentices had to pay their own annual due to the Order, which was 5 gp more expensive.<ref name="WatN-p42" /><ref name="CoS-p51" />
+
+==Activities==
+The members of the Order were all dedicated and hard-working craftsmen, kept busy by a constant influx of demands for [[boot]]s and shoes to be mended or crafted anew, including the thick-soled wooden [[clog]]s that Waterdhavians wore in rain and snow. Some Waterdhavians would go so far as to pay or promise them extra in return for expediting their order, moving it ahead of other waiting clients, and when a dozen or so pulled this in quick succession it could cause a Guild members' shop to get a bit hectic.<ref name="WatN-p42" /><ref name="CoS-p51" />
+
+==Base of Operations==
+The headquarters of this guild was [[Cobblers' & Corvisers' House]],<ref name="CoS.CG-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="WatN-p42" /><ref name="CoS-p51" /><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref> situated on [[Soothsayer's Way]]<ref name="WatN-p42" /><ref name="CoS-p51" /> in the city's [[Waterdeep/Trades Ward|Trades Ward]].<ref name="CoS.CG-p51" /><ref name="WatN-p42" /><ref name="CoS-p51" /><ref name="VGtW-p107" />
+
+==Possessions==
+Most guilds in Waterdeep had some form of livery, a uniform that denoted an individual's membership and was legally only wearable by members of their guild.<ref name="WatN-p34">{{Cite book/Waterdeep and the North|34}}</ref><ref name="CoS-p3,35">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|3,35}}</ref> Members of this guild had the option between a grey [[cloak]] or cap for their livery. Both garments would be adorned with the symbol of the guild, on the right shoulder and cap-front respectively.<ref name="WatN-p42" /><ref name="CoS-p51" />
+
+==Relationships==
+Annually during the fall season, this guild would put in a large order to the [[League of Skinners and Tanners]] fo
+
+=== LINKED WIKI PAGE (first 5000 chars): Costumers' Hall
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Costumers' Hall
+| aliases       = 
+| type          = Guildhall
+| architecture  = 
+| floors        = 2<ref name="CoS-p50" /><ref name="CoSW-p100" />
+| location      = The [[High Road (Waterdeep)|High Road]] and [[Spendthrift Alley]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Order of Master Taylors, Glovers, and Mercers]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p43">{{Cite book/Waterdeep and the North|43}}</ref><ref name="CoS-p52">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|52}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Costumers' Hall''' was the guildhall of the [[Guilds of Waterdeep|Waterdhavian guild]] known as the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="WatN-p43" /><ref name="CoS-p52" /><ref name="CoS-p10">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|10}}</ref><ref>{{Cite book/City System|12}}</ref>
+
+==Location==
+Costumers' Hall was located along the [[High Road (Waterdeep)|High Road]] and [[Spendthrift Alley]],<ref name="WatN-p43" /><ref name="CoS-p52" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]].<ref name="CoSW-p100" /><ref name="WatN-p43" /><ref name="CoS-p52" />
+
+==Structure==
+This guildhall stood two-stories tall.<ref name="CoS-p50">{{Cite book/City of Splendors (boxed set)/Campaign Guide|50}}</ref><ref name="CoSW-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+
+===Interior===
+The second floor of this building was used as the guild's meeting rooms.<ref name="CoS-p10" />
+
+==Services==
+This guildhall offered clothing services,<ref name="CoSW-p18">{{Cite book/City of Splendors: Waterdeep|18}}</ref> in the form of costumes, as well as props.<ref name="CoS-p10" />
+
+==Reputation==
+The Costumers' Hall was among some of the more notable and recognizable guildhalls in the Trades Ward. Like other guildhalls in the Trades Ward, it was considered by locals to be a landmark.<ref name="CoS-p10" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Guildhalls]]
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations on Spendthrift Alley]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Order of Master Tailors, Glovers, and Mercers
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Order of Master Tailors, Glovers, and Mercers
+| alt_spelling   = Order of Master Tailors, Glovers, & Mercers<ref>{{Cite book/City of Splendors: Waterdeep|51}}</ref><br/>Order of Master Taylors, Glovers, and Mercers<ref name="WatN-p43" /><ref name="CoS-p52-53" /><br/>Order of Master Taylors, Glovers, & Mercers<ref name="CoS.CG-p50" /><ref name="VGtW-p107" />
+| aliases        = 
+| type           = [[Guild]]
+| base           = [[Costumers' Hall]]
+| leadertitle    = 
+| leader         = [[Alurra Tarbrossen]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p43" /><ref name="CoS-p52-53" />
+| members        = 600+
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = <ref name="WatN-p43" /><ref name="CoS-p52-53" />
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Order of Master Tailors, Glovers, and Mercers
+}}
+The '''Order of Master Tailors, Glovers, and Mercers''' was a registered [[guild]] in [[Waterdeep]] representing skilled tradesmen of clothing and textiles.<ref name="WatN-p43">{{Cite book/Waterdeep and the North|43}}</ref><ref name="CoS-p52-53">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|52-53}}</ref><ref name="W.DH-p13">{{Cite book/Waterdeep: Dragon Heist|13}}</ref>
+
+==Organization==
+In the mid–14{{th}} century [[DR]], the guild was led by [[Alurra Tarbrossen]], who bore the title "Lady Master of the Order". She also held the role of the guild's public contact during this time.<ref name="WatN-p43" /><ref name="CoS-p52-53" />
+
+Upon entrance into the guild, a new member had to pay an entry fee of 25 [[gold piece]]s. Afterwards, full members had to pay an annual due of 12 gold pieces.<ref name="WatN-p43" /><ref name="CoS-p52-53" />
+
+==Activities==
+This guild's activities revolved around the crafting of literal tons of clothing from textiles, ranging all manner of fashions and sizes, from to the party [[mask (object)|masks]] women wore at high-society parties to work clothing, like the [[leather]] [[breeches]] worn by [[smith]]s.<ref name="WatN-p43" /><ref name="CoS-p52-53" />
+
+Every member of the guild specialized in some particular garment or another, like [[gown]]s or [[glove]]s. Additionally, the speed of work, the prices charged, and the durability of wares vary widely across members.<ref name="WatN-p43" /><ref name="CoS-p52-53" />
+
+The guild's members imported a great deal of cloth, thread, and other supplies. The guild itself served to help its members save money by bulk importing much of their trade's needed supplies. Guild members also heavily made use of materials produced by the other [[guilds of Waterdeep]], including textiles, leather, carved and cast buttons, and [[needle]]s.<ref name="WatN-p43" /><ref name="CoS-p52-53" />
+
+==Base of Operations==
+The headquarters of this guild was the [[Costumers' Hall]],<ref name="WatN-p43" /><ref name="CoS-p52-53" /><ref name="CoS.CG-p50">{{Cite book/City of Splendors (boxed set)/Campaign Guide|50}}</ref><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoS.AGttC-p10">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|10}}</ref> situated on at the intersection of [[Spendthrift Alley]] and the [[High Road (Waterdeep)|High Road]]<ref name="WatN-p43" /><ref name="CoS-p52-53" /> in the city's [[Waterdeep/Trades Ward|Trades Ward]].<ref name="WatN-p43" /><ref name="CoS-p52-53" /><ref name="CoS.CG-p50" /><ref name="VGtW-p107" /><ref name="CoS.AGttC-p10" />
+
+==Possessions==
+Most guilds in Waterdeep had some form of livery, a uniform that denoted an individual's membership and was legally only wearable by members of their guild.<ref name="WatN-p34">{{Cite book/Waterdeep and the North|34}}</ref><ref name="CoS-p3,35">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|3,35}}</ref> The standard livery of this guild consisted of a white half-[[cloak]] with a connected white left-sleeve and glove. All three were adorned in blue and green [[sequin]]s, arranged in a repeating pattern of interwoven thread, leading up to a threaded needle along the forearm that was highlighted by sequins.<ref name="WatN-p43" /><ref name="CoS-p52-53" /> Like most livery in the city, this garment would likely cost around 3 gp.<ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|35}}</ref>
+
+This livery was worn during holiday
+
+=== LINKED WIKI PAGE (first 5000 chars): Guild Paddock
+
+{{Building
+| image         = Court of the White Bull CS-map.png
+| caption       = The location of the Guild Paddock (#195) on a ca. [[1357 DR]] map of Waterdeep
+| name          = Guild Paddock
+| aliases       = 
+| type          = Guildhall
+| architecture  = 
+| floors        = 2<ref name="CoS-p51" /><ref name="CoSW-p102" />
+| location      = [[Walltower Walk]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Stablemasters' & Farriers' Guild]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p43" /><ref name="CoS-p54" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = yes
+}}
+The '''Guild Paddock''' was the guildhall of the [[Guilds of Waterdeep|Waterdhavian guild]] known as the [[Stablemasters' & Farriers' Guild]].<ref name="WatN-p43">{{Cite book/Waterdeep and the North|43}}</ref><ref name="CoS-p54">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|54}}</ref><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref>{{Cite book/City System|12}}</ref>
+
+==Location==
+The Guild Paddock was located along [[Walltower Walk]],<ref name="WatN-p43" /><ref name="CoS-p54" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]].<ref name="CoSW-p102" /><ref name="WatN-p43" /><ref name="CoS-p54" /><ref name="VGtW-p107" />
+
+==Structure==
+This guildhall stood two stories tall.<ref name="CoS-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="CoSW-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+==Services==
+[[Mount]]s and gear related to them, such as [[bit and bridle|bits, bridles]], and [[saddle]]s, could be purchased here.<ref name="CoSW-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref>
+
+==Reputation==
+Like other guildhalls, the Guild Paddock was considered by locals to be a landmark.<ref name="VGtW-p107" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Shops]]
+[[Category:Tack shops]]
+[[Category:Horsetraders]]
+[[Category:Stables]]
+[[Category:Businesses]]
+[[Category:Guildhalls]]
+[[Category:Locations on Walltower Walk]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Stablemasters' and Farriers' Guild
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Stablemasters' and Farriers' Guild
+| alt_spelling   = Stablemasters' & Farriers' Guild
+| aliases        = 
+| type           = [[Guild]]
+| base           = [[Guild Paddock]]
+| leadertitle    = Senior Master
+| leader         = 
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p43" /><ref name="CoS-p54" />
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = [[Belihands Maskar]]<ref name="WatN-p43" /><ref name="CoS-p54" />
+| leaderyear1    = 1357
+| leader2        = [[Arilos Amcathra]]<ref name="CS:W-p61" /><ref name="CoS.NHoW-p2" />
+| leaderyear2    = 1372
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Stablemasters' and Farriers' Guild''' was a registered [[guild]] in [[Waterdeep]] composed of skilled tradesmen who specialized in the care of [[horse]]s and most other types of [[mount]]s.<ref name="WatN-p43">{{Cite book/Waterdeep and the North|43}}</ref><ref name="CoS-p54">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|54}}</ref><ref>{{Cite book/Waterdeep: Dragon Heist|13}}</ref>
+
+==Organization==
+The guild was led by a Senior Master, who in the mid–14{{th}} century [[DR]] was one [[Belihands Maskar]]. He also held the role of the guild's public contact.<ref name="WatN-p43" /><ref name="CoS-p54" /> He was later succeeded by [[Arilos Amcathra]].<ref name="CS:W-p61">{{Cite book/City of Splendors: Waterdeep|61}}</ref><ref name="CoS.NHoW-p2">{{Cite web enhancement/Noble Houses of Waterdeep|2}}</ref>
+
+Upon being accepted into the Stablemasters' and Farriers' Guild, one had to pay an entrance fee of 15 [[gold piece]]s. Afterwards, members had to pay a monthly due of 3 [[silver piece]]s.<ref name="WatN-p43" /><ref name="CoS-p54" />
+
+==Activities==
+The tradesmen represented by this guild dealt in the breeding, capturing, taming, training, housing, and care of horses and most other riding mounts.<ref name="WatN-p43" /><ref name="CoS-p54" /><ref>{{Cite book/Waterdeep and the North|36-37}}</ref><ref>{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|57-59}}</ref> And the guild virtually set the standards of care for such creatures across the city. Other riding mounts included the likes of aerial steeds, like [[hippogriff]]s, [[pegasi]], and [[wind steed]]s. It did not, however, include the likes of aquatic creatures, [[lizard]]s, and [[cat|great cats]].<ref name="WatN-p43" /><ref name="CoS-p54" />
+
+The guild maintained a registry of [[Branding iron|brands]] and pedigrees, so as to discourage theft of mounts and to aid the [[City Watch (Waterdeep)|City Watch]] tracking down any riding animal that wound up stolen. The guild also provided its members with cheap rates on animal feed, as it bought in bulk, as well as [[veterinarian|veterinary]] aid.<ref name="WatN-p43" /><ref name="CoS-p54" />
+
+Some average prices from guild members ranged from 8 gp for a [[donkey]] or [[mule]], sometimes as much as 20 gp for a mule, 25–75 gp for a riding horse, 30–200 gp for a [[draft horse]], and 150–400 gp for a [[war horse]]. Additionally, guildmembers were known to accept trades of worn out mounts for a lesser value.<ref name="WatN-p43" /><ref name="CoS-p54" /><ref>{{Cite book/Players Handbook 1st edition|36}}</ref><ref>{{Cite book/Player's Handbook 2nd edition (revised)|90}}</ref><ref group="note" name="price">The text of both ''[[Waterdeep and the North]]'' and the ''[[City of Splendors (boxed set)|City of Splendors]]'' boxed set state that readers should address their respective edition's game rules for the "Prices for guild members' mounts." The prices presented here are largely taken from the "Equipment list" in the 2nd edition ''[[Player's Handbook 2nd edition (revised)|Player's Handbook]]'', mixed with the costs of draft horses, mules, and riding horses from the 1st edition ''[[Players Handbook 1st edition|Player's Handbook]]''.</ref>
+
+==Base of Operations==
+The headquarters of this guild was the [[Guild Paddock]],<ref name="WatN-p43" /><ref name="CoS-p54" /><ref name="CoS-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref> situated on [[Walltower Walk]] in the city's [[Waterdeep/Trades Ward|Trades Ward]].<ref name="WatN-p43" /><ref name="CoS-p54" />
+
+==Possessions==
+Most guilds in Waterdeep had some form of livery, a uniform that denoted an individual's membership and was
+
+=== LINKED WIKI PAGE (first 5000 chars): House of Cleanliness
+
+{{Building
+| image         = 
+| caption       = 
+| name          = House of Cleanliness
+| aliases       = 
+| type          = Guildhall
+| architecture  = 
+| floors        = 1<ref name="CoS-p51" /><ref name="CoSW-p100" />
+| location      = [[Slipstone Street]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Launderers' Guild]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p41" /><ref name="CoS-p47" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = yes
+}}
+The '''House of Cleanliness''' was the guildhall of the [[Guilds of Waterdeep|Waterdhavian guild]] known as the [[Launderers' Guild]].<ref name="WatN-p41">{{Cite book/Waterdeep and the North|41}}</ref><ref name="CoS-p47">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|47}}</ref><ref name="VGtW-p107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref>{{Cite book/City System|12}}</ref>
+
+==Location==
+The House of Cleanliness was located along the [[Slipstone Street]],<ref name="WatN-p41" /><ref name="CoS-p47" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]].<ref name="CoSW-p100" /><ref name="WatN-p41" /><ref name="CoS-p47" /><ref name="VGtW-p107" />
+
+==Structure==
+This guildhall stood one-story tall.<ref name="CoS-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="CoSW-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+
+==Reputation==
+Like other guildhalls, the House of Cleanliness was considered by locals to be a landmark.<ref name="VGtW-p107" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Guildhalls]]
+[[Category:Locations on Slipstone Street]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Launderers' Guild
+
+{{Organization
+| image          = 
+| caption        = 
+| name           = Launderers' Guild
+| alt_spelling   = 
+| aliases        = 
+| type           = [[Guild]]
+| base           = [[House of Cleanliness]]
+| leadertitle    = Master Launderer
+| leader         = [[Jeldeth Khondar]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="WatN-p41" /><ref name="CoS-p47-48" />
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Launderers' Guild
+}}
+The '''Launderers' Guild''' was one of the officially registered [[guild]]s of [[Waterdeep]], representing the interests of the city's laundry workers.<ref name="WatN-p41">{{Cite book/Waterdeep and the North|41}}</ref><ref name="CoS-p47-48">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|47-48}}</ref><ref>{{Cite book/Waterdeep: Dragon Heist|13}}</ref>
+
+==Organization==
+The guild was led by a "Master Launderer". During the mid–14{{th}} century [[DR]], this title was held by [[Ulraen Caulbor]]. The guild's public contact held the title of "Soap Master". During this same period, that title was held by [[Ulraen Caulbor]].<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+Entrance to the guild required paying an entry fee of 5 [[gold piece]]s . Afterwards, guild members had to pay a monthly due of a single gold piece.<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+==Activities==
+The launderers of Waterdeep worked long hours, often overworked, and underpaid for their services. Most often they operated family businesses, with the family working in shifts. Waterdhavians would leave their clothes with a business and then either wait there for garment, receiving it back sopping wet, or wait for it to be done overnight. These costed 2 and 1 [[silver piece]] respectively.<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+Washing was done in open-topped tubs of boiling water, stirred by [[ten-foot pole]]s, and an accompaniment of some manner of odor cleansing material. This could range from either scented [[soap]], [[perfume]], strong [[herb]]s, [[cider]], and even [[wine]]. The guild itself offered members {{SIAdj|10|gallon|long=yes}} barrels of a sludgy soap mixture for 1 gp.<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+Launderers made no guarantees of clothing surviving under their care and the expectations most Waterdhavians placed on these businesses reflected this. As a filing system, most launderers would give patrons a wooden tag and place their garments in a numbered bin. If a client could not provide the requisite tag they could not retrieve their clothes. They would offer to provide a replacement tag, though only for a fee of 2 gp or more. Additionally, to account for a margin of mistaken garments and other customers coming to claim the same clothes, launderers had a waiting period of three to four days.<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+==Base of Operations==
+The guildhall for this guild was the [[House of Cleanliness]],<ref name="WatN-p41" /><ref name="CoS-p47-48" /><ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref>{{Cite book/Volo's Guide to Waterdeep|239}}</ref> located along [[Slipstone Street]] in the city's [[Waterdeep/Trades Ward|Trades Ward]].<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+==Possessions==
+Most guilds in Waterdeep had some form of livery, a uniform that denoted an individual's membership and was legally only wearable by members of their guild.<ref name="WatN-p34">{{Cite book/Waterdeep and the North|34}}</ref><ref name="CoS-p3,35">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|3,35}}</ref> The standard livery of members of the Launderers' Guild consisted of a white cap and [[cloak]]. Upon the breast of the cloak and center peak of the cap would be a silver depiction of the uppermost fingers of an open [[human]] hand .<ref name="WatN-p41" /><ref name="CoS-p47-48" />
+
+==Relationships==
+The guild had special cleaning arrangements with the [[Grey Serpent]].<ref>{{Cite book/Volo's Guide to Waterdeep|128}}</ref>
+
+==History==
+By [[1357 DR]], the [[Magisters of Waterdeep (Black Robes)|Magisters of Waterdeep]] made it law that payments had to be provided upfront as clothing was left with launderers, due to several past incidences of [[nobility of Waterdeep|nobles]] refusing to pay for their clothes on grounds of being u
+
+=== LINKED WIKI PAGE (first 5000 chars): House of Light
+
+{{Building
+| image         = House of light spy.png
+| caption       = ''A competitor guild's spy on the ledge outside the House of Light's decorated windows.''
+| name          = House of Light
+| aliases       = 
+| type          = Guildhall
+| architecture  = 
+| floors        = 3<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" />
+| location      = [[Scroll Street]], [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Guild of Chandlers and Lamplighters]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p40" /><ref name="CoS.WWiW-p44-45" />
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = yes
+}}
+The '''House of Light''' was the guildhall of a [[Guilds of Waterdeep|Waterdhavian guild]] known as the [[Guild of Chandlers and Lamplighters]].<ref name="CoS.CG-p51">{{Cite book/City of Splendors (boxed set)/Campaign Guide|51}}</ref><ref name="CoS.W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref><ref name="WatN-p40">{{Cite book/Waterdeep and the North|40}}</ref><ref name="CoS.WWiW-p44-45">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|44-45}}</ref><ref name="CoS.AGttC-p10" /><ref name="VGtW-p107,240">{{Cite book/Volo's Guide to Waterdeep|107,240}}</ref><ref name="CS-p12">{{Cite book/City System|12}}</ref>
+
+==Location==
+The House of Light was located along [[Scroll Street]],<ref name="WatN-p40" /><ref name="CoS.WWiW-p44-45" /> in the [[Waterdeep/Trades Ward|Trades Ward]] of [[Waterdeep]]. Behind the guildhall stood [[House of Light Storage|a warehouse]] used by the guild.<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" /><ref name="WatN-p40" /><ref name="CoS.WWiW-p44-45" /><ref name="VGtW-p107,240" /><ref name="CoS.AGttC-p10" />
+
+==Structure==
+This guildhall was three-stories tall.<ref name="CoS.CG-p51" /><ref name="CoS.W-p102" /> The building was a row house that was near constantly bright. Out front of it stood a {{SI|4|ft|long=yes}} tall [[candle]] that would be lit at night &mdash; this was one of the brightest spots in the Trades Ward at such hours and it was easily found by the [[lemon]] scent its wax gave off.<ref name="CoS.AGttC-p10" />
+
+==Services==
+During the day, members of the Guild of Chandlers and Lamplighters crafted candles, mostly from tallow, that they would sell. They also worked on repairing [[lamp]]s during daylight hours.<ref name="CoS.WWiW-p44-45" />
+
+==Reputation==
+The House of Light was among some of the more notable and recognizable guildhalls in the Trades Ward.<ref name="CoS.AGttC-p10">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|10}}</ref>
+
+==Appendix==
+===Appearances===
+{{Appearances
+| video games         = ''[[Lords of Waterdeep (mobile game)|Lords of Waterdeep]]''
+| board games         = ''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]''
+}}
+
+===References===
+{{Refs}}
+[[Category:Shops]]
+[[Category:Businesses]]
+[[Category:Houseware shops]]
+[[Category:Guildhalls]]
+[[Category:Locations on Scroll Street]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+

@@ -1,0 +1,1872 @@
+=== WIKI PAGE: Waterdeep
+
+{{GA}}
+{{otheruses4|the city|other uses|Waterdeep (disambiguation)}}
+{{redirect|Waterdhavian|the cheese|Waterdhavian cheese}}
+{{Location
+| image              = <gallery>
+Waterdeep symbol 5e.png|5e
+Waterdeep symbol.jpg|3e
+</gallery>
+| caption            = The seal of the City of Splendors
+| name               = Waterdeep
+| alt spelling       = 
+| aliases            = City of Splendors <br />Crown of the North
+| type               = 
+| region             = [[Sword Coast North]],<br /> [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS-pp178-180" /><ref name="CoS.W-p6" /><ref name="BST-pp306-307">{{Cite book/Blackstaff Tower|306-307}}</ref><ref name="FRCG-p84">{{Cite book/Forgotten Realms Campaign Guide|84}}</ref>
+| demonym            = Waterdhavian,<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref><br />Waterdavian<ref name="WDH5e">{{Cite book/Waterdeep: Dragon Heist}}</ref>
+| population         = 
+| races              = {{percentage table|[[Humans]]|64|[[Dwarves]]|10|[[Elves]]|10|[[Halflings]]|5|[[Half-elves]]|5|[[Gnomes]]|3|[[Half-orcs]]|2|Others|1}}
+| languages          = 
+| religion           = [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]]
+| alignment          = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| socrefs            = 
+| imports            = Grain, livestock, leather, ore, timber, and exotic goods from other lands
+| exports            = [[Ale]], arms, cloth, fish, furnishings, leather goods, pottery, refined metals, and all other sorts of finished goods
+| currency           = {{currency table|1pp|1 [[sun (coin)|sun]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sambar (coin)|sambar]]|100 silver [[shard (coin)|shard]]s|1000 copper [[nib]]s}}
+| comrefs            = <ref name="CoS.W-p6" /><ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name="RS2e-p18-19,21">{{Cite book/Realmspace|18-19,21}}</ref>
+| government         = [[Wikipedia:Oligarchy|Oligarchical]] [[city-state]]
+| rulertype          = 
+| ruler              = 
+| head of state      = [[Open Lord]]
+| leader1            = [[Laeral Silverhand]]
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = The [[Lords of Waterdeep]]
+| judiciary          = The [[Magisters of Waterdeep]]
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = [[Ahghairon]]'s coup
+| start date         = [[1032 DR]]
+| event1             = [[Kerrigan]]'s rebellion
+| date1              = [[1246 DR]]
+| event2             = [[Guildwars]]
+| date2              = [[1256 DR|1256]]-[[1262 DR]]
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = [[Nimoar's Hold]]
+| successor          = 
+| population1        = 1,347,680<ref name="FRCS-pp178-180" /><ref group="note">In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,800, though the metropolitan population (i.e., those in the city proper) is only 132,661.</ref>
+| popyear1           = 1372
+| population2        = up to 2,000,000<ref name="tFR.W">{{Cite web/The Forgotten Realms: Waterdeep}}</ref><ref group="note">The estimate most likely refers to the Waterdeep area, instead of just the metropolis. In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,840, though the ''metropolitan population'' is 132,661. This is because Waterdeep commands 40 mile stretches of farmland outside the borders of the city itself, and is counted in the population. Thus, the population in the city proper of Waterdeep is probably about 200,000.</ref> in the 15{{th}} century [[DR]]
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6}}</ref><ref name="FRGC3e-p118">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|118}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Waterdeep''', also known as '''the City of Splendors''' or the '''Crown of the North''',<ref name="CoS.CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref> was the most important and influential city in [[Northwest Faerûn|the North]] and perhaps in all [[Faerûn]]. It was a truly marvelous cosmopolitan city of great culture that attracted the most talented artisans, artists, and scholars from across the Realms, as well as a commercial hub for financial interests along the coast and beyond.<ref name="FRCS-pp178-180">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|178-180}}</ref><ref name="CoS.W-p13" />
+
+It was one of if not the most powerful and influential member-states of the [[Lords' Alliance]], the coalition of nations and city-states that sought to maintain order along the [[Sword Coast]] and the North.<ref name="W.DH-p16">{{Cite book/Waterdeep: Dragon Heist|16}}</ref>
+
+{{Quote|''Though it may seem as if all Waterdeep rushes and bustles about with eyes and minds only for their own business at hand, it profits everyone to always remember that part of their business is watching what is unfolding around them, without seeming to, in hopes of seizing on the next big thing, the next road to riches. Even if only to sneer, Waterdeep always watches.''|Largreth the Good Knight, Chapter 5 of ''[[The Rise of Randral: A Chapbook Adventure]]'' by [[Sandreth Yendrel]]<ref name="DMip23">{{Cite book/Death Masks|23|2}}</ref>}}
+
+==Description==
+Originally a farming community of [[humans]] that developed into a settlement known as [[Bloodhand Hold]] before being conquered and renamed [[Nimoar's Hold]]. The name "Waterdeep" was originally used by the sea captains docking at the port to trade, a moniker that originated from the city's outstanding natural deep-water harbor.<ref name="FRCS-pp178-180" /><ref name="CoS.W-p8">{{Cite book/City of Splendors: Waterdeep|8}}</ref>
+
+As of the late 14{{th}} century [[DR]] more than 100,000 people made their home in the city proper of Waterdeep.<ref name="FRCS-pp178-180" />
+
+==Geography==
+[[File:Waterdeep - City System.jpg|thumb|200px|left|''An aerial view of Waterdeep from the southwest and the Dock Ward.'']]
+Due to its great importance as a highly influential metropolitan city, Waterdeep was considered part of the [[Western Heartlands]] of the Realms, even though it lay {{SI|150|mi|k|long=yes}} north of [[Daggerford]] on the shores of the [[Sword Coast North]]. The city sat "slightly above the 45 degree north latitude line on [[Toril]]."<ref name="FRCS-p79">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|79}}</ref>
+
+The City of Splendors laid claim to the surrounding lands for approximately {{SI|100|mi|k|long=yes}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+The various roads to Waterdeep were well paved and well patrolled.<ref name="FRCS-pp178-180" /> The major trade routes included:
+* [[Trade Way]], the trade route to the south.<ref name="CS.W-p15" />
+* [[Long Road]], the inland trade route to the north.<ref name="CS.W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+* [[High Road]], the coastal trade route to the north, not to be confused with the [[High Road (Waterdeep)|stretch of the road]] that passed through the city.<ref name="CS.W-p15" />
+
+===Geographical Features===
+Waterdeep was built on the site of the ancient [[elven]] settlement of [[Aelinthaldaar]].<ref name="CoS.W-p6" /> It sprawled northward from the sea, spreading along the flanks of [[Mount Waterdeep]], which used to be home to the [[Melairkyn]], a [[mithral]]-mining [[dwarf|dwarven]] clan,<ref name="Sk-p6">{{Cite book/Skullport|6}}</ref> and the entire length and great depth of the mountain was riddled with passages and tunnels, most of which were occupied by deadly creatures whose presence in the mountain predated the founding of the city itself.<ref name="FRCS-pp178-180" /> 
+
+The halls of [[Undermountain]] located beneath the city were a popular target for adventurers,<ref name="FRCS-pp178-180" /> who enjoyed the close vicinity of the city's main taverns and temples where aid could be purchased through donations.<ref name="CoS.W-p46">{{Cite book/City of Splendors: Waterdeep|46}}</ref>
+
+==Government==
+{{main|Lords of Waterdeep}}
+Waterdeep was ruled by a sixteen-seat council whose membership was largely secret. These hidden Lords of Waterdeep maintained their identities behind magical masks, called the ''[[Lord's Helm]]'', and while they ruled in public, none knew the true identities of most of them. The subject of who the Lords were became a common topic of noble conversation, and some considered it a game to discover the Lords' identities, a game made more confusing by the fact the Lords themselves set their own rumors afloat.<ref name="FRCS-pp178-180" />
+
+===Law & Order===
+[[File:Delzorin.png|thumb|250px|left|''A traffic warden giving directions at the corner of [[Delzorin Street]] and [[Whaelgond Way]].'']]
+{{main|Laws of Waterdeep}}
+The [[City Watch (Waterdeep)|City Watch]] was the local police force<ref name="FRCS-pp178-180" /> whose duty it was to capture criminals, settle petty disputes, give directions, summon medical and priestly aid, generally performing duties that promoted the idea that Waterdeep was a city open to all who knew how to behave themselves.<ref name="CS.W-p35">{{Cite book/City of Splendors: Waterdeep|35}}</ref>
+
+Rulings on the city's laws were issued by the Magisters, more commonly referred to as Black Robes. They had the duty of running the courts and issuing sentences to those that were found guilty.<ref name="CS.W-p14" /> The Black Robes were each protected by at least six members of the [[City Guard (Waterdeep)|City Guard]] while traveling the streets of Waterdeep.<ref name="CoS.CG-p77">{{Cite book/City of Splendors (boxed set)/Campaign Guide|77}}</ref> Those who were convicted could request trial by the Lord's Court and appeal to the masked lords themselves,<ref name="CS.W-p14" /> but faced strict punishment if their claims were ruled as frivolous.<ref name="FRCS3e.GTotR-p105">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|105}}</ref>
+
+===Crime===
+The last official thieves' guild that openly conducted business in Waterdeep was dismantled in the early 14{{th}} century [[DR]].<ref name="NGSF.W-p9">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|9}}</ref> While many others made claims as the head of various criminal organizations there were none that posed a real threat to the Lords of Waterdeep.<ref name="CS.W-p64">{{Cite book/City of Splendors: Waterdeep|64}}</ref><ref name="CS.W-p70">{{Cite book/City of Splendors: Waterdeep|70}}</ref> As the Lords were able to govern the city with anonymity, thieves and other ne'er-do-wells could hardly trust their partners-in-crime. Since the Lords were secret, criminals did not know if trusted partners were truly on their side or not.<ref name="FRCS3e.GTotR-p106">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|106}}</ref>
+
+This is not to say that there were no thieves or crime in the streets of Waterdeep. Rather, crime there was random and dispersed, with no one leader or organization to take command. One attempt was made by the crime lord known as [[Xanathar (original)|Xanathar]], a [[beholder]] with a well developed secret network in his service. This network was savaged and Xanathar defeated through the actions of bold adventuring companies at the command of [[Piergeiron the Paladinson|Lord Piergeiron]].<ref name="FRCS3e.GTotR-p18">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|18}}</ref> The beholder's legacy lived on however, and by [[1492 DR]]{{WDH-time}} the [[Xanathar's Thieves' Guild|Xanathar Guild]] was perhaps Waterdeep's most prominent criminal organization, competing mainly with various [[Zhentarim]] subfactions.<ref name="WDH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref> Other criminal groups active at that time included the [[halfling]] [[wererat]] gang known as the [[Shard Shunners]].<ref name="WDH-p30">{{Cite book/Waterdeep: Dragon Heist|30}}</ref>
+
+==Trade==
+The city was the hub of trading from the mineral-rich lands to the north, the merchant kingdoms of [[Amn]] and [[Calimshan]] to the south, the kingdoms of the [[Inner Sea]] to the east, and the sea kingdoms and traders to the west. Waterdeep's authority extended between {{SI|30|mi|k}} to {{SI|40|mi|k}} from its walls.<ref name="FRCS-pp178-180" />
+
+As of the early 1370s DR, stone was imported from [[Mirabar]] via [[Luskan]] for use in construction, having been magically transported. This was an expensive process.<ref name="VoloN-p152">{{Cite book/Volo's Guide to the North|152}}</ref> During that time it was witnessed that wagons and carts overcrowded the city's markets as foreign vendors attempted to sell as much as possible before returning home for the winter. This was a practice ignored by the Guard, the Watch, and the guilds.<ref name="B-p32">{{Cite book/Blackstaff/MMP|32}}</ref>
+
+[[File:Waterdeep-air-2e.jpg|thumb|300px|''Aerial view of Waterdeep from an approaching [[spelljammer]].'']]
+The city was also the largest [[Spelljammer|spelljamming]] port of [[Faerûn]]. Although welcoming to most spacefaring races, Waterdeep's laws required that all ships landed on the ocean several miles from the city and made their final approach by sea. Transgressors were punished with harsh fines and imprisonment. This rule prevented some types of ships from ever reaching Waterdeep, but was enforced to avoid mass panic from the population. Departing vessels were subject to the same rules.<ref name="RS2e-p18-19,21" />
+
+Docking at Waterdeep's port incurred a fee of 1 [[cp]] per {{SI|10|ft|long=yes}} of keel length per week. Sages and traders from Waterdeep were eager to listen to stories from [[wildspace]] and traded on all the products the city had to offer.<ref name="RS2e-p18-19,21" />
+
+==Culture==
+{{Quote|Many [[dragon]]s like to dwell among [[humans]] - and not only because your kind can serve as ready food, or as a source of wealth for us to seize and hoard. Some wyrms come to love your energy, your restlessness, your clever strivings… Waterdeep is a fine cauldron of such things.|[[Taraunramorlamurla]] the [[song dragon]]<ref name="Keeper of Secrets">{{Cite book/Realms of the Dragons/The Keeper of Secrets}}</ref>}}<br />
+[[File:Waterdeep streets WatN.jpg|thumb|left|250px|''A cold day in cosmopolitan Waterdeep.'']]
+Given its size and influence, Waterdeep was a cosmopolitan city with a diverse population of citizens. While humans comprised the majority of its populace, it was home to large number of elves, predominantly [[moon elves]], dwarves, [[lightfoot halfling]]s, [[half-elves]] and [[gnome]]s. Waterdhavians tended to be social, stalwart and outspoken people who maintained a worldly perspective of the cultures throughout [[Toril]].<ref name="CoS.W-p13">{{Cite book/City of Splendors: Waterdeep|13}}</ref> While they were proud of their realm's history, they typically kept from dismissing cultures from foreign lands. While they often sought the improvement of their lives through the accumulation of wealth and self-importance, as a people, they would not stand for military conquest or the thought of imperialization.<ref name="CoS.W-p14">{{Cite book/City of Splendors: Waterdeep|14}}</ref> Waterdeep was among several locations in Faerûn where [[cooking competition]]s were commonplace. They usually occurred during feasts or festivals that coincided with local market days. Winners could expect prizes in some cases. Such competitions were used to promote produce vendors that received orders for whatever ingredients were used. Savory pies and [[sausage]]s were always the most popular items ordered in bulk by eateries, [[festhall]]s, nobles' estates, and fortresses. Those who won cooking competitions were considered highly desirable hires and were sought after by local and foreign noble houses, regents, fanciful eateries, and other wealth individuals.<ref name="SSEd10-16">{{cite web| url = https://web.archive.org/web/20211028234155/http://candlekeep.com/downloads/So_Saith_Ed_Part25_%282010-2016%29.zip| title = So Saith Ed 2010-2016| accessdate = 25-11-2021| date = 25-11-2021}}</ref>
+
+===Fashion===
+Waterdhavian culture was called for a sort of resigned display of status when it came to the clothes one would wear. While all manner of dress could be seen on the city streets, guild members would only don their livery when conducting official business or meetings, during important holidays or while on ventures outside Waterdeep proper. Nobles would only display their crests or coat-of-arms in subtle affectations, such as a signet ring or other understated jewelry, while their servants wore clothes that were fully emblazoned with their house heraldry.<ref name="CoS.W-p14" />
+
+In contrast, women were known to maintain a high sense of fashion, often wearing elegant silk gowns, furs and sparkling jewelry, as the season dictated.<ref name="CoS.W-p14" />
+
+[[File:Visiting Waterdeep.jpg|thumb|right|''Waterdeep at night.'']]
+
+===Religion===
+{{main|Temples of Waterdeep}}
+Waterdeep had a huge variety of faiths, and the odds were that if a deity was worshiped somewhere in Faerûn, it had at least a follower (or likely a wandering priest or two, and maybe a shrine) in the City of Splendors. The largest temples in the city were dedicated to [[Oghma]], [[Tyr]], [[Tempus]], [[Gond]], [[Selûne]], [[Mystra]], [[Silvanus]] and [[Mielikki]], [[Lathander]], [[Sune]], [[Tymora]],<ref name="FRCS3e.GTotR-p106" /><ref name="CS.W-p38" /> along with a temple dedicated to [[Baravar Cloakshadow]] located within the [[Warrens]] beneath Waterdeep.<ref name="BT-p130">{{Cite book/Blackstaff Tower|130}}</ref> There was also a large temple known as the [[Plinth]], which was open to all faiths.<ref name="CS.W-p38">{{Cite book/City of Splendors: Waterdeep|38}}</ref> 
+
+In addition to the city's famous temples, a number of minor shrines and other holy houses could be found in Waterdeep. Among the deities venerated at these sites were the Grain Goddess [[Chauntea]],<ref name="CS.W-p116">{{Cite book/City of Splendors: Waterdeep|116}}</ref> [[Lliira]],<ref name="CoS.AGC-p41">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|41}}</ref> as well as the two powers that were considered to be "local divinities", [[Sharess]], and [[Siamorphe]].<ref name="CoS.WWW-p61">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|61}}</ref>  Waterdeep even housed the [[cult of Ao]] that became active in the city for a short while following the [[Time of Troubles]].<ref name="FRCS3e.GTotR-p106" /><ref name="CS.W-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref>
+
+As was found in many metropolises in the Realms, Waterdeep housed a great many secret places of worship where devotees of dark powers could exercise their secretive faiths. Waterdeep held secluded shrines and temples held in undisclosed locations to [[Cyric]], [[Shar]], and at least two of [[Deities of Fury]] in [[Auril]] and [[Umberlee]]. Even marginalized groups such as the [[Cult of the Dragon]] and so called "beast cultists" could meet within the city to conduct the business related to their malevolent deities.<ref name="FRCS3e.GTotR-p106" /><ref name="CoS.WWW-p94">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|94}}</ref> 
+
+Although the faith of [[Talona]] was considered misguided or bad, it did not mean small groups of lay followers could not practice their personal faith. However, the building of a public house of worship to her was forbidden in Waterdeep. It was also illegal to form a public priesthood dedicated to her.<ref name="SCAG-p22">{{Cite book/Sword Coast Adventurer's Guide|22}}</ref>
+
+As of the early 1490s [[DR]], a [[Wavehall of Valkur|new temple to Valkur]] had already been built in the city. In the same year, the returned [[drow]] goddess [[Eilistraee]] was witnessed as she danced in the moonlight, near the walls of the city, up the road to [[Amphail]]. This led many of her followers to Waterdeep, with the goal of creating a shrine to their goddess within its walls. The project was supported by the [[Harper]] leading delegate [[Remallia Haventree]].<ref name="DM">{{Cite book/Death Masks}}</ref>
+
+===Festivals and Holidays===
+In addition to the standard festivals of the [[Calendar of Harptos]], there were several festivals and holy days held in Waterdeep:
+{{Border box <!--Hammer,Alturiak,Ches,Tarsakh,Mirtul,Kythorn,Flamerule,Eleasias,Eleint,Marpenoth,Uktar,Nightal-->
+| title        = 
+| subtitle     = 
+| contentalign = 
+| width        = 230px
+| styles       = float:right;
+| content      = {{Split table
+| rca=
+| caption=Waterdeep Festival Calendar
+| captionstyle=font-family:serif;font-style:bold;font-size:16px;
+| leftheader=Dates
+| rightheader=Event
+| Hammer 1 | [[Wintershield]]
+| Alturiak 14 | [[Grand Revel]]
+| Ches 1 | [[Rhyestertide]]
+| Ches 19 | [[Fey Day]]
+| Ches 21&ndash;30 | [[Fleetswake]]
+| Tarsahk 1&ndash;10 | [[Waukeentide]]
+| Mirtul 6&ndash;9 | [[Plowing and Running]]
+| Kythorn 1 | [[Trolltide]]
+| Kythorn 14 | [[Guildhall Day]]
+| Kythorn 20 | [[Dragondown]]
+| Flamerule 1 | [[Founders' Day]]
+| Flamerule 3&ndash;5 | [[Sornyn]]
+| Flamerule 7 | [[Lliira's Night]]
+| Eleasias 1 | [[Ahghairon's Day]]
+| Eleint 21 | [[Brightswords]]
+| First frost | [[Auril's Blesstide]]
+| Marpenoth 3 | [[Day of Wonders]]
+| Marpenoth 7 | [[Stoneshar]]
+| Marpenoth 10 | [[Reign of Misrule]]
+| Marpenoth 15 | [[Gods' Day]]
+| Marpenoth 30 | [[Liar's Night]]
+| Uktar 20 | [[Last Sheaf]]
+| Uktar full moon | [[Selûne's Hallowing]]
+| Nightal 11 | [[Howldown]]
+| Nightal 20 | [[Simril]]
+}}}}
+* [[Ahghairon's Day]]: A holiday celebrated on the first day of [[Eleasias]], commemorating [[Ahghairon]]'s birthday. It consisted of small details, like toasting for the Lords; leaving violets at the base of [[Ahghairon's Tower]], [[the Plinth]], or atop the altars of the [[House of Wonder]]; and [[bard]]s performing songs in honor of the Old Mage. The Open Lords visited taverns and inns across the city, to wish the people well.<ref name="CS.W-p15" /><ref name="CoS-AG-26-27">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|26-27}}</ref><ref name="WDH-p186">{{Cite book/Waterdeep: Dragon Heist|186}}</ref>
+* [[Auril's Blesstide]]: Held on the day of [[Calendar of Harptos|winter]]'s first frost, this day saw everyone in the city wearing white clothes, not serving or eating hot meals, and a parade of naked men and women wearing only white cloaks going from [[Cliffwatch]] in the North Ward, across the city and to the beaches. There, participants dived into the icy waters, sacrificing their warmth to the [[Auril|Frostmaiden]].<ref name="CS.W-p15" /><ref name="CoS-AG-27">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|27}}</ref>
+*[[Brightswords]]: On the day of the [[Eleint 21|Autumn Equinox]], Waterdhavians held a series of displays and competitions of martial skill and open enlistment by the [[City Guard (Waterdeep)|City Guard]] and [[City Watch (Waterdeep)|City Watch]], topped off by an aerial demonstration by the [[Griffon Cavalry]].<ref name="WDH-p186" />
+*[[Day of Wonders]]: On [[Marpenoth 3]], worshipers of [[Gond]] held a parade to reveal their recent inventions. Due to the experimental nature of the inventions on display, it was very common for devices to fail and cause disruptions to the celebrations.<ref name="WDH-p186" /><ref name="CoS-AG-29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|29}}</ref>
+*[[Divine Pageantry]]: This festival was celebrated in the summer by worshipers of Siamorphe, goddess of the divine right to rule. Nobles would dress in archaic costumes, speak in antiquated languages, and throw coins at commoners.<ref name="FaP-p107">{{Cite book/Faiths and Pantheons|107}}</ref>
+*[[Dragondown]]: This holiday was celebrated on [[Kythorn 20]]. It reenacted and celebrated the occasions in which [[Dragon|dragons]] that attacked the city were either defeated or driven off. Parades reenacted each individual event, and bonfires and rituals to symbolically tame or bring down dragons were common across the city.<ref name="WDH-p186" />
+*[[Fey Day]]: Held on [[Ches 19]], the barriers between the [[Prime Material plane|Prime Material Plane]] and the [[Feywild]] were thought to be weakest on this day. While rural areas were trepidatious and held many superstitions, it is a day of celebration for Waterdhavians.<ref name="WDH-p184-185">{{Cite book/Waterdeep: Dragon Heist|184-185}}</ref>
+* [[Fleetswake]]: A festival celebrating the sea, the sea trade and the gods of the sea. It spanned the last tenday of [[Ches]], and included boat races, the Shipwright's Ball at the [[Shipwright's House]], and guild-sponsored galas at the [[Copper Cup]] festhall. The festival was concentrated in Dock Ward and the [[Fiery Flagon]] in Sea Ward.<ref name="CS.W-p15" /><ref name="CoS-AG-27-28">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|27-28}}</ref><ref name="WDH-p185">{{Cite book/Waterdeep: Dragon Heist|185}}</ref>
+*[[Founders' Day]]: Waterdhavians celebrated the founding of the city on [[Flamerule 1]]. Several locations in the city commemorated the holiday, and it was also common for festhalls throughout the city to hold costume contests.<ref name="WDH-p186" /><ref name="CoS-AG-28">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|28}}</ref>
+*[[Gods' Day]]: This holiday observed the anniversary of the end of the [[Time of Troubles|Godswar]] on [[Marpenoth 15]]. It was considered a solemn and serious event, especially at night, when Waterdhavians offered prayers in the city's temples to thank the [[God|gods]] for their lives and in remembrance of the catastrophic events of the Time of Troubles.<ref name="CoS-AG-28" /><ref name="WDH-p187">{{Cite book/Waterdeep: Dragon Heist|187}}</ref>
+*[[Grand Revel|The Grand Revel]]: Organized and led by the clergy of [[Sune]], [[Sharess]], [[Lliira]], this holiday was celebrated on [[Alturiak 14]]. It consisted of numerous music and dance events, as well as the partaking of different kinds of sweet treats and traditional romantic getaways and exchanging of gifts by young couples.<ref name="WDH-p184">{{Cite book/Waterdeep: Dragon Heist|184}}</ref>
+*[[Guildhall Day]]: This holiday was held on [[Kythorn 14]], and was a celebration of the fruits of peoples' labor. On this day, most shops remained closed, and instead numerous street fairs showcased new products and hosted entertainment programs performed by magicians, jugglers, and singers.<ref name="WDH-p185" />
+*[[Howldown]]: On [[Nightal 11]], members of the City Guard honored [[Malar]] by leaving the city in groups to hunt known threats to farmers and travelers, including bandits, beasts, and monsters that haunted the roads and wilderness. During the same time, the City Watch engaged in its own hunt for malefactors within the city walls.<ref name="WDH-p188">{{Cite book/Waterdeep: Dragon Heist|188}}</ref>
+*[[Last Sheaf]]: Sometimes called "The Small Feast," this day of residential feasting was held on [[Uktar 20]] in celebration of the year's bounty. Small gifts were exchanged among neighbors, and "last letters" were gathered for carriage—so called because they are the last to leave the city before travel becomes difficult.<ref name="WDH-p188" />
+*[[Liar's Night]]: This holy day paid tribute to [[Leira]] and [[Mask]]. On [[Marpenoth 30]], to avoid those deities' unwanted attention, celebrants would don costumes or [[Glamer|glamers]] to disguise one's self and pretend to be that which they were not.<ref name="WDH-p187-188">{{Cite book/Waterdeep: Dragon Heist|187-188}}</ref>
+* [[Lliira's Night]]: A celebration honoring the [[Lliira|Lady of Joy]] with dances and balls, held the night of [[Flamerule 7]]. Although the celebration was shared all over the city in many festhalls, the highlight of the night was the Cynosure Ball, which was sponsored by the Lords, the local clergy of Lliira, and several noble families.<ref name="CS.W-p15" /><ref name="WDH-p186" /><ref name="CoS-AG-29" />
+*[[Plowing and Running|The Plowing and Running]]: Held on [[Mirtul 6]] - [[Mirtul 9]], it celebrated the plowing of fields and running of livestock, and also involved numerous racing competitions within the city.<ref name="WDH-p185" />
+*[[Reign of Misrule]]: On [[Marpenoth 10]], this day honored [[Beshaba]]. From dawn to dusk, people were expected to cheat, break oaths, and go against the social order, albeit without breaking any actual laws or doing anything unforgivable.<ref name="WDH-p187" />
+*[[Rhyestertide]]: This holiday was celebrated on [[Ches 1]] in honor of [[Lathander]]'s miraculous restoration of [[Rhyester]]'s vision in [[717 DR]].<ref>{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|48}}</ref> Followers of Lathander celebrated the holiday by dressing in bright red and other sunrise hues and by keeping one eye covered until the next dawn.<ref name="CoS-AG-29" /><ref name="WDH-p184" />
+*[[Selûne's Hallowing]]: On whatever night in [[Calendar of Harptos|Uktar]] the moon was fullest, worshipers of [[Selûne]] would lead a parade, beginning at the [[House of the Moon]] and wound through the streets of the [[Waterdeep/Sea Ward|Sea Ward]], south through the [[Waterdeep/Castle Ward|Castle Ward]], and ending at the docks in the harbor.<ref name="CoS-AG-29" /><ref name="WDH-p188" /><ref name="PP-154">{{Cite book/Powers & Pantheons|154}}</ref>
+*[[Simril]]: After dusk on [[Nightal 20]], this holiday was celebrated by Waterdhavians by locating stars associated with themselves or their ancestors in the night sky. People tried to stay awake the entire night gathered around bonfires with plenty of music, food, and warm drinks.<ref name="WDH-p188" />
+*[[Sornyn]]: This three-day festival held between [[Flamerule 3]] and [[Flamerule 5]] honored both Waukeen and Lathander. Celebrants planned business operations and signed meetings and agreements. Copious amounts of [[wine]] were consumed during the festival, accompanying all the meetings.<ref name="WDH-p186" /><ref name="FA-179">{{Cite book/Faiths & Avatars|179}}</ref>
+*[[Stoneshar]]: Followers of all faiths celebrated [[Marpenoth 7]] as a day to start new projects and avoid idleness. People who begun working on new projects during Stoneshar believed that their work would be blessed during the following year.<ref name="WDH-pp186-187">{{Cite book/Waterdeep: Dragon Heist|186-187}}</ref>
+* [[Trolltide]]: This lesser holiday celebrated the end of the [[Second Trollwar]] at the start of [[Kythorn]]. On this day, Waterdhavian children would run about the city, dressed as [[troll]]s demanding treats from citizens and shop owners lest the children pull pranks on them at sundown.<ref name="WDH-p185" /><ref name="CoS-AG-28-29">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|28-29}}</ref>
+*[[Waukeentide]]: Celebrated for the first [[tenday]] of [[Calendar of Harptos|Tarsahk]] in honor of [[Waukeen]], it consisted of a number of festivals bundled together into a single event.<ref name="CoS-AG-29" /><ref name="WDH-p185" />
+*[[Wintershield]]: Marking the start of the new year, it was celebrated on [[Hammer 1]] as a day off work when people stayed at home reminiscing the previous year and discussing their expectations for the upcoming year.<ref name="WDH-p184" />
+
+==Defenses==
+{{main|Armed forces of Waterdeep}}
+{{Quote|''For Waterdeep to remain the City of Splendors, it needs heroes and folk of valor to carry her banners higher than commerce or politics. Splendor is not a right but a privilege, and one that must be earned by courage, not bought by coin nor conjured by magic.''|[[Aleena Paladinstar]], ''[[Of Fathers, Faiths, and Fortunes]]'', [[1403 DR]]<ref name="BST-p300">{{Cite book/Blackstaff Tower|300}}</ref>}}<br />
+[[File:Waterdeep-overview-5e.jpg|thumb|300px|left|''The [[Griffon Cavalry]] patrols the Waterdhavian docks in the sunset.'']]
+Waterdeep maintained two separate armed forces, the [[City Guard (Waterdeep)|City Guard]] and the [[City Watch (Waterdeep)|City Watch]]. The City Guard served as Waterdeep's soldiery and its members staffed garrisons, road patrols, and watchposts, and served as bodyguards and gate guards. The Watch was the local police force, acting as a constabulary within the city.<ref name="FRCS-pp178-180" /> More delicate missions taken in the name of the City of Splendors were handled by [[Force Grey]], an elite force of a dozen or so skilled [[spellcaster]]s and cunning warriors.<ref name="CoS.CG-p73">{{Cite book/City of Splendors (boxed set)/Campaign Guide|73}}</ref>
+
+Waterdeep had strong walls on its landward sides and was protected in part by Mount Waterdeep on the seaward side.<ref name="CoS.AGC-p3">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|3}}</ref> Mount Waterdeep was studded with watch towers and defensive positions, and patrolled by special guard units on flights of [[griffon]]s known as the [[Griffon Cavalry]].<ref name="CS.W-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref> 
+
+Aside from this, Waterdeep also benefited from a large native population of adventurers that were often more than willing to deal with any and all miscreants that threatened their home city.<ref name="CoS.AGC-p30-31">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|30-31}}</ref> Notable companies that arose to aid Waterdeep in times of peril included the [[Heroes of Waterdeep|band of heroes]] that slew the first Xanathar,<ref name="EotB">{{Cite game/Eye of the Beholder}}</ref> the all-halfling group known as the [[Defenders Three]],<ref name="CS.W-p73">{{Cite book/City of Splendors: Waterdeep|73}}</ref> the [[Dawnbringer Company]],<ref name="CS.W-p9">{{Cite book/City of Splendors: Waterdeep|9}}</ref> and perhaps most famously, the [[Company of Crazed Venturers]].<ref name="CS.W-p117-118">{{Cite book/City of Splendors: Waterdeep|117-118}}</ref>
+
+The city was also home to the eight enormous [[Walking Statues of Waterdeep]]. Seven of these statues could be animated by the [[Blackstaff]] of Waterdeep to defend the city, while one was too damaged to be activated. These statues were extremely destructive, and only used to fend off armies or win otherwise impossible battles.<ref name="W.DH-p182, 219">{{Cite book/Waterdeep: Dragon Heist|182, 219}}</ref>
+
+The city was protected against attacks from [[dragon]]s by a powerful ''[[mythal]]'' known as ''[[Ahghairon's dragonward]]''.<ref name="DoF-p121">{{Cite book/Dragons of Faerûn|121}}</ref>
+
+==Transportation==
+Waterdeep was characterized by its broad and busy streets and boulevards. Its heavy traffic, a constant during all day and most of the night, was monitored by the [[traffic warden]]s of the City Watch. The streets were kept well maintained and signaled by the [[Scriveners', Scribes', and Clerks' Guild]], who manufactured and installed labels and signs in all intersections.<ref name="WDH5e-pp170-171">{{Cite book/Waterdeep: Dragon Heist|170-171}}</ref>
+
+Public transportation was available in Waterdeep through several options:
+* [[Dray]]s were large, two-floored collective carriages that held a large number of seats and traveled through preset trajectories along the main boulevards. Fares varied between 2 and 4 [[nib]]s.<ref name="WDH5e-pp170-171" />
+* [[Hire-coach]]es were two-wheeled, two-seat carriages that could be called and dispatched to specific locations. Hire-coach drivers roamed the city streets in search for passengers, who could call a free coach with a shout. Fares, agreed upon in advance, rarely exceeded 6 [[Shard (coin)|shard]]s.<ref name="WDH5e-pp170-171" />
+* [[Carriage]]s were luxury vehicles that could accommodate up to 8 passengers comfortably. Prices varied, but usually carriages and their respective drivers and servants were hired for an entire day.<ref name="WDH5e-pp170-171" />
+
+[[File:Waterdeep_traffic-5e.jpg|thumb|center|upright=4.5|''Public transportation in Waterdeep: a dray (left), and two hire-coaches (right).'']]
+
+==History==
+{{main|History of Waterdeep}}
+The region that would later be called Waterdeep was originally a trading stop utilized by the local tribesmen of [[the North]] and merchants that came up from the cities to the south. Early accounts of permanent farms being established in the area varied slightly, with some [[sage]]s stating that they were first observed as early as the {{YearlinkName|52}},<ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref> while others noted their appearance ''circa'' to mid–4{{th}} century DR.<ref name="FRCS3e.GTotR-p104">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|104}}</ref>
+
+The actual name "Waterdeep" was first used ''circa'' the 10{{th}} by sea captains to refer to the warlord-controlled town at whose port they docked. It did not become a true city until the {{YearlinkName|1032}}, the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]], and the date from which [[Marking the Years|Northreckoning]] is counted.<ref name="FRCS3e.GTotR-p104" /> 
+
+Its size and population grew at a tremendous pace. By the mid–13{{th}} century Waterdeep's [[Guilds of Waterdeep|famous guilds]] had taken root in the city and construction of the [[Waterdeep/City of the Dead|City of the Dead]] graveyard had been completed. Waterdeep's guild masters seized control of the the City of Splendors shortly after the {{YearlinkName|1248}}, beginning an era of great turmoil and political conflict referred to as the [[Guildwars]]. This dark period ended after a couple decades, and the more modern form of governance was put in place in the {{YearlinkName|1273}}. The secretive Lords of Waterdeep took power, aided by the diligent and astute Blackcloaks.<ref name="FRCS-pp178-180" /><ref name="FRCS3e.GTotR-p104" />
+
+People from all across Faerûn and beyond traveled to Waterdeep to take their chance at earning wealth and renown. They were afforded their chances by the city's stable and fair system of government, its stalwart defenders of the City Guard and vigilant members of the Watch. By the 14{{th}} century, Waterdeep earned the reputation as a place of tolerance for the myriad of different cultures, lifestyles, and religions that were associated with the people of the Realms.<ref name="FRCS-pp178-180" /><ref name="CS.W-p14">{{Cite book/City of Splendors: Waterdeep|14}}</ref><ref name="FRCS3e.GTotR-p104" />
+
+When the [[Time of Troubles]] came upon [[Toril]] in the {{yearlinkName|1358}}, Waterdeep became the battleground of the gods. The goddess [[Shar]] orchestrated the abduction of [[Luna]], the [[avatar]] of moon-goddess [[Selûne]], and masqueraded as her in the city. Selûne was freed by the efforts of Luna's adventuring companions and proceeded to defeat Shar and prevent any great destruction from befalling Waterdeep.<ref name="ADDc-19">{{Cite comic/Selune Rising}}</ref><ref name="ADDc-22">{{Cite comic/Total Eclipse}}</ref> That same year saw the avatar of [[Myrkul]] and his legion of [[night rider]]s invade the city in pursuit of the mortal [[Midnight]], who possessed one of the ''[[Tablets of Fate]]''.<ref name="WatAdv-p36">{{Cite book/Waterdeep (adventure)|36}}</ref> The Lord of the Dead was ''[[disintegrate]]d'' atop [[Blackstaff Tower]] by Midnight in a great battle that led to the opening of the [[Celestial Staircase]] atop [[Mount Waterdeep]], and the ascension of three mortals to deific status: [[Cyric]], [[Kelemvor]], and the restored [[Mystra (Midnight)|Mystra]].<ref name="FRCS-p265">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|265}}</ref><ref name="CS.W-p12">{{Cite book/City of Splendors: Waterdeep|12}}</ref><ref name="GHotR-p144">{{Cite book/The Grand History of the Realms}}</ref>
+
+While Waterdeep did not face ruin as some other cities did when the [[Spellplague]] struck the Realms in the {{YearlinkName|1385}}, the magical network that wound through its infrastructure was greatly altered. The cataclysm "awakened" the remaining Walking Statues that previously only existed on the [[Ethereal Plane]] and brought them back to Waterdeep on the [[Prime Material plane]]. They each ran rampant in the city, causing some extent of destruction before they were stopped by various means.<ref name="W.DH-p167">{{Cite book/Waterdeep: Dragon Heist|167}}</ref>
+
+Waterdeep was struck with another catastrophic event in the {{YearlinkName|1395}}, when the [[Putrescent Anathema]] spread throughout its region of the North. The plague hit [[Goldenfields]] particularly hard, destroying much of the city's primary grain supply. The catastrophe reduced the city's population greatly, hitting its poorer citizens particularly hard.<ref name="FRCG-p194-195>{{Cite book/Forgotten Realms Campaign Guide|194-195}}</ref>
+
+In the {{YearlinkName|1492}}{{Waterdeep-time}}, a number of agents and organizations including the shady Xanathar's Thieves' Guild, the greedy [[Zhentarim]], the enigmatic [[Harpers]], and even the stalwart Lords' Alliance sought to recover a cache of 500,000 [[gp|gold dragons]] that was hidden somewhere within the city, a sum that was embezzled by the ousted former Open Lord of the city, [[Dagult Neverember]].<ref name="W.DH-p5">{{Cite book/Waterdeep: Dragon Heist|5}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+Since the mid−11{{th}} century,<ref name="CoS.CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref> Waterdeep had been divided into a number of city wards. Like ancient cities of old, such as those found near the [[Sea of Fallen Stars]], each ward was originally protected by its own walls and guardsmen; the need for greater urban development led to many of these barriers being broken down. Eventually, only the walls around the City of the Dead remained.<ref name="FRCS3e.GTotR-p104" /><ref name="CS.W-p91">{{Cite book/City of Splendors: Waterdeep|91}}</ref>
+
+;[[Waterdeep/Castle Ward|Castle Ward]]:
+: This central ward encompassed [[Mount Waterdeep]] and much of the government of the city. Located within was [[Castle Waterdeep]], the place of government, as well as the [[Palace of Waterdeep]] (also known as Piergeiron's Palace), Lord Piergeiron's private residence,<ref name="FRCS-pp178-180" /> and [[Blackstaff Tower]], the residence of the [[Blackstaff|Archmage of Waterdeep]].<ref name="WTM">{{Cite book/The City of Waterdeep Trail Map}}</ref> This ward was also a common place for retired adventurers such as [[Mirt|Mirt the Moneylender]] to make their homes.<ref name="CS.W-p54">{{Cite book/City of Splendors: Waterdeep|54}}</ref>
+;[[Waterdeep/City of the Dead|City of the Dead]]:
+: This park-like area was surrounded by high walls. Before the Spellplague, it was often visited during the day by wanderers and the odd picnicker; at night, the gates of the City of the Dead were closed, for it was Waterdeep's graveyard. However, after the Spellplague, it fell into disrepair.<ref name="BST-p107">{{Cite book/Blackstaff Tower|107}}</ref> The more important personages had their own personal graves or family shrines, while others were confined to larger crypts. The reason for the guards was not to protect the graves, but rather to protect the city from the occasional restless [[undead]] creature that did not appreciate its accommodations.<ref name="CS.W-p102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+
+[[File:Great Harbor.jpg|thumb|300px|right|''The Great Harbor of Waterdeep.'']]
+;[[Waterdeep/Dock Ward|Dock Ward]]:
+: As one might assume, the Dock Ward was situated hard on the Great Harbor of Waterdeep and held the docks, shipbuilding yards, and warehouses for the sea trade.<ref name="CS.W-p104">{{Cite book/City of Splendors: Waterdeep|104}}</ref> The harbor was inhabited by [[merfolk]] who kept the peace within their own aquatic city.<ref name="CS.W-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref>
+;[[Downshadow]]:
+: Actually the uppermost level of [[Undermountain]], Downshadow was the new "undercity" developed in the 15{{th}} century DR.<ref name="BST-pp306-307">{{Cite book/Blackstaff Tower|306-307}}</ref>
+;[[Waterdeep/Field Ward|Field Ward]]:
+: The unofficial Field Ward was the ward between North Trollwall and most-recently built north-facing city walls. It was the poorest ward of the city, rife with crime and home to many destitute demi-humans.<ref name="BST-pp306-307" /><ref name="W.DH-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref>
+;[[Mistshore]]:
+: Not strictly a ward, Mistshore was the ruined naval harbor. The area was home to outcasts and criminals who lived along the shoreline or on wrecked ships half-sunk in the harbor.<ref name="BST-pp306-307" />
+;[[Mountainside]]:
+: Mountainside was developed on the north and northeastern slopes of Mount Waterdeep after the [[Second Pestilars]] as rich nobles and those of rising fortunes fled to cleaner air.<ref name="BST-pp306-307" /><ref name="BST-p173">{{Cite book/Blackstaff Tower|173}}</ref>
+;[[Waterdeep/North Ward|North Ward]]:
+: Tucked in the northeastern portion of the city,<ref name="CS.W-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> North Ward was the home of the nobility and their villas. The moneyed classes made their homes here, far removed from the hustle and bustle of the lower classes by the docks and in Southern Ward.<ref name="FRCS-pp178-180" />
+;[[Waterdeep/Sea Ward|Sea Ward]]:
+: The wealthiest of the wards, Sea Ward contained many of the temples of Waterdeep, along with a good helping of the newer noble families and retired adventurers who could afford the odd villa or two. The [[Field of Triumph]], Waterdeep's arena, was located here.<ref name="FRCS-pp178-180" /><ref name="CS.W-p91" />
+;[[Waterdeep/Southern Ward|Southern Ward]]:
+: Sometimes referred to by the locals as simply "South", the Southern Ward was a place of caravan masters and traders, for it was close to the South Gate, the opening to the Trade.<ref name="FRCS-pp178-180" />
+;[[Waterdeep/Trades Ward|Trades Ward]]:
+: Waterdeep's commercial section.<ref name="FRCS-pp178-180" />
+;[[Undercliff]]:
+: The latest ward (in [[1479 DR]]) formed at the base of the eastern cliffs. It was connected to the rest of the city through subterranean tunnels.<ref name="BST-pp306-307" />
+
+==Inhabitants==
+[[File:Waterdeep at Night.jpg|thumb|right|400px|''Waterdeep at night.'']]
+===Guilds===
+{{main|Guilds of Waterdeep}}
+It was said that the Lords ruled Waterdeep but did not always truly run it.<ref name="CS.W-p10">{{Cite book/City of Splendors: Waterdeep|10}}</ref> This was quite true, in that there were a number of other factions who made up Waterdeep.<ref name="CS.W-p4">{{Cite book/City of Splendors: Waterdeep|4}}</ref> The most noticeable were the [[Guilds of Waterdeep|guilds]]—powerful merchant and craft organizations that controlled much of the life-blood of the city. Once, the guilds ruled the city, and it almost destroyed itself in a series of internal commercial wars. No one wanted to see those days return.<ref name="FRCS-pp178-180" />
+
+===Nobility===
+{{main|Nobility of Waterdeep}}
+A second important Waterdhavian faction was the local [[Nobility of Waterdeep|nobility]]. It consisted of 76 families of varying degrees of power, most of whom could trace their lines to before the founding of Waterdeep itself.<ref name="CS.W-p59">{{Cite book/City of Splendors: Waterdeep|59}}</ref> Many powerful names came out of Waterdeep, including the [[Amcathra]]s (whose scion became Lord of [[Shadowdale]]);<ref name="CS.W-p61">{{Cite book/City of Splendors: Waterdeep|61}}</ref> the [[Cassalanter]]s, wealthy moneylenders;<ref name="WatN-p46">{{Cite book/Waterdeep and the North|46}}</ref> as well as the [[Wands]], a family of powerful and noble wizards.<ref name="CS.W-p63">{{Cite book/City of Splendors: Waterdeep|63}}</ref>
+
+===Merchants===
+[[File:Merchantstall.png|thumb|285x285px|''You could buy almost anything in Waterdeep, including jars.'']]
+Third, a rising merchant class existed outside the standard guilds. These were caravan and coaster operators, and they used Waterdeep as a destination for their caravan goods.<ref name="CS.W-p13">{{Cite book/City of Splendors: Waterdeep|13}}</ref> More shops offered a variety of different goods because of this growing group. The most notable of these new merchants was the retired wizardess [[Aurora]], who established a magical retail organization to supply a wide number of patrons across the North with specialized items.<ref name="CoS.AGC-p12">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|12}}</ref>
+
+===Adventurers===
+A large host of adventurers flooded the city at any given time, some of whom established themselves as citizens of good standing and remained permanently.<ref name="CS.W-p144">{{Cite book/City of Splendors: Waterdeep|144}}</ref> With the exception of Force Grey,<ref name="CS.W-p37">{{Cite book/City of Splendors: Waterdeep|37}}</ref> secret societies such as the Harpers<ref name="CS.W-p73">{{Cite book/City of Splendors: Waterdeep|73}}</ref> and the [[Red Sashes]] made up the closest thing resembling official organizations that drew from the city's resident adventuring population.<ref name="CS.W-p74">{{Cite book/City of Splendors: Waterdeep|74}}</ref>
+
+==Rumors & Legends==
+In the early 1360s DR, there was a rumor in circulation that the [[Red Wizards of Thay]] wanted to open a public ''[[teleport]]'' ''[[gate]]'' between the cities of [[Suzail]] and Waterdeep, but the project was shut down by a merchants' guild in one of the two cities.<ref name="UA">{{Cite game/Forgotten Realms: Unlimited Adventures}}</ref>
+
+==Appendix==
+===See Also===
+* [[Skullport]], a shady city in the [[Underdark]] two miles below Waterdeep.
+
+===Notes===
+{{Notes}}
+
+===Interactive Map===
+A 15{{th}} century [[DR]] map of Waterdeep. Index and references can be found [https://forgottenrealms.fandom.com/wiki/File:Waterdeep_map-5e.jpg here].
+{{Map:Waterdeep}}
+
+===Appearances===
+:;Adventures
+::''[[Dragon magazine 64|Assassin's Run]]'' • ''[[Halls of Undermountain]]'' • ''[[Hoard of the Dragon Queen]]'' • ''[[Marco Volo: Departure]]'' • ''[[Acquisitions Incorporated (sourcebook)|Orrery of the Wanderer]]'' • ''[[Princes of the Apocalypse]]'' • ''[[The Rise of Tiamat]]'' • ''[[The Ruins of Undermountain]]'' • ''[[Storm King's Thunder]]'' • ''[[Dungeon magazine 126|Vampires of Waterdeep: Blood of Malar]]'' • ''[[Dungeon magazine 127|Vampires of Waterdeep: Dungeon of the Crypt]]'' •  ''[[Dungeon magazine 128|Vampires of Waterdeep: The Fireplace Level]]'' • ''[[Waterdeep (adventure)|Waterdeep]]'' • ''[[Waterdeep: Dragon Heist]]'' • ''[[Waterdeep: Dungeon of the Mad Mage]]'' • ''[[Candlekeep Mysteries/Sarah of Yellowcrest Manor|Sarah of Yellowcrest Manor]]''
+::{{Refonly}}
+::<small>''[[Curse of Strahd]]'' • ''[[Dungeon magazine 71|Mere of Dead Men: Dreadful Vestiges]]'' • ''[[Dungeon magazine 69|Mere of Dead Men: Eye of Myrkul]]'' • ''[[Dungeon magazine 72|Mere of Dead Men: Mistress on the Mere]]'' • ''[[Dungeon magazine 70|Mere of Dead Men: Ssscaly Thingsss]]'' • ''[[Dungeon magazine 69|Mere of Dead Men: Slave Vats of the Yuan-ti]]'' • ''[[Tales from the Yawning Portal]]'' • ''[[Tomb of Annihilation]]''</small>
+
+:;Novels
+::''[[Blackstaff Tower (novel)|Blackstaff Tower]]'' • ''[[Lesser Evils]]'' • ''[[Circle of Skulls (novel)|Circle of Skulls]]'' • ''[[City of the Dead (novel)|City of the Dead]]'' • ''[[The City of Splendors: A Waterdeep Novel]]'' • ''[[Downshadow (novel)|Downshadow]]'' • ''[[The Dream Spheres]]'' • ''[[Elfshadow]]'' • ''[[Elfsong]]'' • ''[[Escape from Undermountain]]'' • ''[[Tymora's Luck]]'' • ''[[The Abduction]]'' • ''[[The Paladins]]'' • ''[[The Glass Prison]]'' • ''[[The God Catcher]]'' • ''[[The Halfling's Gem]]'' • ''[[The Lost Library of Cormanthyr]]'' • ''[[Mistshore (novel)|Mistshore]]'' • ''[[Passage to Dawn]]'' • ''[[Sea of Swords (novel)|Sea of Swords]]'' • ''[[The Silent Blade]]'' • ''[[The Spine of the World]]'' • ''The [[Stone of Tymora trilogy]]'' • ''[[Waterdeep (novel)|Waterdeep]]'' • ''[[To Catch a Thief]]'' • ''[[Escape the Underdark]]'' • ''[[The Fallbacks: Bound for Ruin]]''
+::{{Refonly}}
+::<small>''[[The Ring of Winter (novel)|The Ring of Winter]]''</small>
+
+:;Short Stories
+::''[[The Collected Stories: The Legend of Drizzt Anthology]]'': "The Dowery" • ''[[Peril at the Greenhow]]''
+
+:;Video Games
+::''[[Forgotten Realms: Demon Stone]]'' • ''[[Neverwinter Nights: Hordes of the Underdark]]'' • {{EoBapp|EoB|LoD|AMD}} • ''[[Idle Champions of the Forgotten Realms]]''
+::{{Refonly}}
+::<small>''[[Forgotten Realms: Unlimited Adventures]]'' • {{BGapp|BG|TotSC}}</small>
+
+:;Board Games
+::''[[Lords of Waterdeep (board game)|Lords of Waterdeep]]'' • ''[[Dungeons & Dragons Dice Masters: Adventures in Waterdeep]]'' • ''[[Dungeons & Dragons Dice Masters: Trouble in Waterdeep]]''
+
+:;Card Games
+::''[[AD&D Trading Cards]]'' • ''[[Dragonfire]]'' • {{MTGapp|AFR}} • {{Spellfireapp|1st|2nd|3rd}} 
+
+:;Organized Play & Licensed Adventures
+::''[[When the Lights Went Out in Candlekeep]]''
+::{{Refonly}}
+::<small>''[[Where the Teak Snakes Slither]]''</small>
+
+===Gallery===
+<gallery>
+WDH-spring-Eric Deschamps.jpg|''[[Trolltide]] in the Waterdhavian spring.''
+Waterdeep-summer-5e.jpg|''A hot summer day in the streets of Waterdeep.''
+Waterdeep-autumn-5e.jpg|''The docks of the [[Dock Ward of Waterdeep|Dock Ward]] in the autumn.''
+WDH-winter-Eric Deschamps.jpg|''Winter fun in Waterdeep. Mysterious [[flying snake]]s brave the cold to watch street urchins.''
+Waterdeep3e.jpg|''Waterdeep as seen from the harbor.''
+Waterdeep -A&A.jpg|''An aerial, seaside view of Waterdeep.''
+WarriorsOfWaterdeep Wallpaper.jpg|''Waterdeep, bathed in dying light of the day.''
+Waterdeep In Eye of The Beholder 3.png|''The streets of Waterdeep, as depicted in ''[[Eye of the Beholder III: Assault on Myth Drannor]]''.''
+The City of Splendors - J.P. Targete.jpg|''A good view of Waterdeep.''
+NWO Waterdeep.webp|''Waterdeep at night, as depicted in ''[[Neverwinter (game)|Neverwinter]]''.''
+Waterdhavian Fashion.png|''Waterdhavian fashion circa late 15{{th}} century [[DR]]-famously dazzling and luxurious design.'' 
+</gallery>
+====Maps====
+<gallery widths="150">
+Waterdeep med.jpg|''The location of Waterdeep, ''circa'' {{Yearlink|1372}}.''
+Waterdeep environs.jpg|''A map of Waterdeep's environs.''
+Waterdeep-1479 DR.jpg|''The location of Waterdeep, ''circa'' {{Yearlink|1479}}.''
+EOTB-map-of-waterdeep.jpg|''Map of Waterdeep from the ''[[Eye of the Beholder (game)|Eye of the Beholder]]'' game manual, ''circa'' {{Yearlink|1358}}.''
+Map of Waterdeep - Lords of Waterdeep.jpg|''Map of Waterdeep.''
+Sewers of Waterdeep.jpg|''The sewers of Waterdeep, ''circa'' 1372 DR.''
+Waterdeep (W.-City of Splendors).jpg|''Map of Waterdeep before the [[Spellplague]].''
+</gallery>
+
+===Further Reading===
+* {{Cite dragon/128/Welcome to Waterdeep}}
+* {{Cite book/Forgotten Realms Player's Guide|128-129}}
+* {{Cite web/More of Waterdeep and Lands of Intrigue}}
+* {{Cite web/Waterdeep News}}
+
+===External Links===
+{{External link disclaimer}}
+* {{BGW}}
+* {{BG3}}
+* {{NWNW}}
+* {{NWN2W}}
+
+===References===
+{{Refs|2}}
+
+===Connections===
+{{Wards of Waterdeep}}
+{{Waterdhavian houses}}
+[[Category:City-states]]
+[[Category:Metropolises]]
+[[Category:Oligarchies]]
+[[Category:Settlements]]
+[[Category:Cities]]
+[[Category:Ports]]
+[[Category:Spelljamming ports]]
+[[Category:Human locations]]
+[[Category:Locations on the Trade Way]]
+[[Category:Locations on the High Road]]
+[[Category:Locations on the Long Road]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Exports ale]]
+[[Category:Exports furniture]]
+[[Category:Exports metals]]
+[[Category:Exports pottery]]
+[[Category:Exports textiles]]
+[[Category:Exports weapons]]
+[[Category:Imports grain]]
+[[Category:Imports leather]]
+[[Category:Imports livestock]]
+[[Category:Imports ore]]
+[[Category:Imports timber]]
+[[de:Tiefwasser]]
+[[es:Aguas Profundas]]
+[[fr:Eauprofonde]]
+[[pl:Waterdeep]]
+[[pt-br:Águas Profundas]]
+[[Category:Magical locations]]
+[[Category:Locations with mythals]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Mystra
+
+{{GA}}{{see also|Mystryl|Mystra (Midnight)}}
+{{Deity
+| image               = Mystra cover.jpg
+| caption             = 
+| name                = Mystra
+| title               = The Lady of Mysteries<ref name="SCAG5e-p21,35,125-126">{{Cite book/Sword Coast Adventurer's Guide|21, 35, 125-126}}</ref><ref name="CotR-13">{{Cite book/Cyclopedia of the Realms|13}}</ref><ref name="FRCS2e.RtR-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|47}}</ref><ref name="FRA-27">{{Cite book/Forgotten Realms Adventures|27}}</ref> <br /> The Mother of All Magic<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128">{{Cite book/Faiths & Avatars|128}}</ref> <br />Mistress of Magic<ref name="ElMotM-p122" /><br/> Our Lady of Spells<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128" /><br />The Mother of Mystery<ref name="por2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>Lady Magic<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Lady of Magic<ref name="cru-p31">{{Cite book/Crucible|31}}</ref><br/>Lady of Might<ref name="ElMotM-p122" /><br/>One True Spell<ref name="ElMotM-p122">{{Cite book/Elminster: The Making of a Mage/MMP|122|7}}</ref><br/>Goddess of Magic<ref name="cru-p35">{{Cite book/Crucible|35}}</ref><br />{{Derogatory}} The Whore<ref>{{Cite book/Prince of Lies|176,319}}</ref><br/>The Harlot<ref name="cru-p160,194">{{Cite book/Crucible|160,194}}</ref>
+| adjective           = Mystran<ref name="FA-p130">{{Cite book/Faiths & Avatars|130}}</ref>
+| symbol              = A blue-white star<ref name="CotR-13" />
+| aspects             = Ri'dea'mystra<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| pantheon            = [[Faerûnian pantheon]]
+| servedby            = [[Azuth]]<ref name="CotR-17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| gender              = Feminine
+| died                = [[1358 DR]]<ref name="Shadow-21">{{Cite book/Shadowdale (adventure)|21}}</ref>
+| portfolio           = [[Magic]], Spells, [[The Weave]]
+| worshipers          = [[Bard]]s, [[wizard]]s, seekers of arcane lore, mostly [[human]]<ref name="FA-129">{{Cite book/Faiths and Avatars|129}}</ref>
+| mortalrace          = [[Human]]<ref name="N.EoM-12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref>
+| mortalsex           = Female<ref name="N.EoM-12" />
+| mortalhomes         = [[Netheril]]<ref name="N.EoM-12" />
+| apotheosis          = {{Yearlink|-339}}<ref name="N.EoM-12" />
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = 
+| alignment3e         = 
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = 
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = 
+| holy days3e         = 
+| class3e             = 
+| refs3e              = 
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Blue-white star
+| homeplane2e         = [[Nirvana]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = [[Azuth]]
+| portfolio2e         = Magic
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="FRCS2e.RtR-47"/><ref name="FA-128"/>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = Blue-white star
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Azuth]]
+| portfolio1e         = Magic
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-13" /><ref>{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Mystra''' ({{Pronounce|MISS|trah|audio=Mystra.ogg|refs=<ref name="CotR-13" /><ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|247}}</ref><ref name="FP3e-p50">{{Cite book/Faiths and Pantheons|50}}</ref>}}) was a [[greater deit
+
+=== LINKED WIKI PAGE (first 5000 chars): Ale
+
+{{Item
+| image         = <gallery>
+Coins, books, ale.jpg|5e 
+Ale-2e.jpg|2e 
+Ale dragmag13.png|1e 
+</gallery>
+| caption2      = Various depictions of ale.
+| name          = Ale
+| othernames    = Engel <small>([[Giant language|Giant]])</small><ref name="GC-p28">{{Cite book/Giantcraft|28}}</ref>
+| nicknames     = 
+| type          = Alcoholic beverage
+| location      = 
+| value1e       = {{Plain table|Pint|1 [[sp]]}}
+| weight1e      = 
+| refs1e        = <ref name="PH1e-p36">{{Cite book/Player's Handbook 1st edition|36}}</ref>
+| school2e      = 
+| level2e       = 
+| value2e       = 
+| weight2e      = 
+| refs2e        = 
+| school3e      = 
+| casterlevel3e = 
+| itemlevel3e   = 
+| value3e       = {{Plain table|Mug|4 [[cp]]|Gallon|2 sp}}
+| weight3e      = {{Plain table|Mug|1 lbs.|Gallon|8 lbs.}}
+| refs3e        = <ref name="PHB35e-p129">{{Cite book/Player's Handbook v.3.5|129}}</ref>
+| level4e       = 
+| value4e       = {{Plain table|Pitcher|2 sp}}
+| weight4e      = 
+| refs4e        = <ref name="PHB4-p222">{{Cite book/Player's Handbook 4th edition|222}}</ref>
+| rarity5e      = 
+| attunement5e  = 
+| school5e      = 
+| level5e       = 
+| value5e       = {{Plain table|Mug|4 cp|Gallon|2 sp}}
+| weight5e      = 
+| refs5e        = <ref name="PHB5e-p158">{{Cite book/Player's Handbook 5th edition|158}}</ref>
+| communication = 
+| languages     = 
+| alignment     = 
+}}
+'''Ale''' was a type of [[beer]] widely available beverage in the [[Forgotten Realms|Realms]].<ref name="AWR-p127-129">{{Cite book/Aurora's Whole Realms Catalogue|127-129}}</ref>
+
+{{quote|''I'm as dry as a [[fire elemental]]'s jockstrap on a hot day in [[Anauroch]], barkeep. Get me some ale!''|[[Hero of Daggerford]]<ref name="NWNDoD" />}}
+
+==Notable Brews==
+Most taverns provided their own supplies from regional brewers. A few ales, however, due to their high quality or ease of transport, were famous and available in wider areas.<ref name="AWR-p127-129" />
+
+===Ales of Unspecified type===
+* [[Aftermath Abbey Ale]]: A variety of [[enchanted]] and expensive ale from the [[Yawning Portal]].<ref name="AL">{{Cite adventurers league/Last Orders at the Yawning Portal|63}}</ref>
+* [[Bitter-ale]]: A type of dark, thick, and strong foul-tasting [[duergar]] ale.<ref name="IWD">{{Cite game/Icewind Dale II}}</ref>
+* [[Bitterroot beer]]: A smoky beer from [[Candlekeep]] and [[Daggerford]] made out of [[bitterroot]] plant.<ref name="NWNDoD">{{Cite game/Neverwinter Nights: Darkness over Daggerford}}</ref>
+* [[Black Bottom]]: A rough, smoky ale from [[Cormyr]].<ref name="CaN-p227">{{Cite book/Cormyr: A Novel/Paperback 1998|227}}</ref>
+* [[Black grog ale]]: A watered down libation from the [[Immurk's Hold]], [[Pirate Isles]].<ref name="VoloWD-39">{{Cite book/Volo's Guide to Waterdeep|39}}</ref>
+* [[Crystal Ale]]: A type of weak and refreshing ale from the alesmith of [[Ravens Bluff]] named [[Bowser]] in the late 14{{th}} century [[DR]].<ref name="Lo" />
+* [[Crystal Ale]]: A completely average in strength and quality ale from Ravens Bluff.<ref name="Lo" />
+* [[Darndarr]]: A nutty-tasting ale from the [[Sword Coast]] used for pranks, marinades, and preserving food.<ref name="scl">{{Cite game/Sword Coast Legends}}</ref><ref name="egp">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|95}}</ref>
+* [[Deadman's Ale]]: A variety of ale from the alesmith of Ravens Bluff named Bowser in the late 14{{th}} century DR, named after a dead taste-tester, whose death was unrelated to the drink.<ref name="Lo" />
+* [[Deep Ale]]: A frothy reinforced ale from [[Waterdeep]], also known as [[Fire Ale|fire ale]].<ref name="scl" />
+* [[Dragon's Breath Beer]]: A strong and harsh brew from [[Sembia]].<ref name="AWR-p127-129" />
+* [[Dragontail]]: A dark, nutty ale with a warm, yeasty taste from [[Tulmene]].<ref name="VGtBG2-p86">{{Cite book/Volo's Guide to Baldur's Gate II|86}}</ref>
+* [[Elminster's Choice]]: A heavy, bitter, dark, and cloudy beer from [[Immersea]], favored by [[adventurer]]s from around the [[Wyvernwater]].<ref name="AWR-p127-129" />
+* [[Everard's Black Barleywine]]: A strong and expensive ale made with [[barley]] and enhanced with magic.<ref name="AL" />
+* [[Firesword]]: A wide variety of ales of similar recipes brewed across the [[Moonsea]] and often reinforced with [[honey]].<ref name="SSEd10-16" />
+* [[Frostkiss Ale]]: A sour aged variety of ale name after [[Auril]] the Frostmaiden.<ref name="bg">{{Cite game/Baldur's Gate III}}</ref>
+* [[Goat's Head ale]]: an ale created and sold by [[Gyudd]] of [[Gyudd's Distillery]] in [[Skullport]].<ref name="S-p82-83">{{Cite book/Skullport|82-83}}</ref>
+* [[Highwater ale]]: A minty-flavored cream throat-burning ale from [[Highcastle]].<ref name="Volo-D-p164">{{Cite book/Volo's Guide to the Dalelands|164-165}}</ref>
+* [[Iriaeboran North Brew]]: A dark amber brew with a bitter aftertaste from [[Iriaebor]]. The producers called it "the bite of the North winds".<ref name="AWR-p127-129" />
+* [[Mint ale]]: A [[Gnome|gnomish]] brew from Sembia
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords of Waterdeep
+
+{{otheruses4|the in-universe organization|the real-world boardgame|Lords of Waterdeep (board game)}}
+{{Organization
+| image          = 
+<gallery>
+Lords of Waterdeep CoS.png|1368 DR
+CoatOfLordsOfWaterdeep.jpg|1367 DR
+</gallery>
+| caption        = The coat-of-arms of the Lords of Waterdeep.
+| name           = Lords of Waterdeep
+| aliases        = 
+| base           = [[Waterdeep]]
+| leader         = [[Laeral Silverhand]]<br />{{Former}} [[Piergeiron the Paladinson|Piergeiron]]
+| symbol         = 
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = [[1032 DR]]
+| disbanded      = —
+| basicrefs      = <ref name="CoS.CG-p8" /><ref name="CS.W-p52" /><ref name="GHotR-p116" /><ref name="BT">{{Cite book/Blackstaff Tower}}</ref>
+| members        = 16 ([[1368 DR]])<br />21 ([[1372 DR]])
+| memberstable   = 
+| memtableheader = 
+| alignment      = 
+| races          = Predominantly [[human]]
+| memrefs        = <ref name="CoS.WW-p4">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|4}}</ref><ref name="CoS.W-p13,52-55>{{Cite book/City of Splendors: Waterdeep|13, 52-55}}</ref><ref name="SCAG-p7,54-56>{{Cite book/Sword Coast Adventurer's Guide|7, 54-56}}</ref>
+| allegiances    = [[Harpers]], [[Lords' Alliance]]
+| enemies        = [[Knights of the Shield]], [[Shadow Thieves]], [[Confluence]]
+| relrefs        = <ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref><ref name="CoS.WW-p85">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|85}}</ref><ref name="CS.W-p68">{{Cite book/City of Splendors: Waterdeep|68}}</ref><ref name="DoF-p93">{{Cite book/Dragons of Faerûn|93}}</ref> 
+| showmembers    = 
+| orgname        = 
+}}
+The '''Lords of Waterdeep''' were the mysterious and predominantly anonymous ruling council of [[Waterdeep]], having governed the city from the 11{{th}} century onwards.<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref><ref name="CS.W-p52" /> They oversaw the regional economy,<ref name="CS.W-p17" /><ref name="CS.W-p60" /> maintained security,<ref name="CS.W-p37" /> performed diplomacy,<ref name="CS.W-p53" /> and held legal jurisdiction over the city<ref name="WatN-p18" /> and exert their will over the surrounding lands for approximately {{SI|100|mi|k}} beyond its walls.<ref name="FRCS3e-p299">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|299}}</ref>
+
+==Organization==
+A full council comprised 20 Lords, though this number might vary from 16 to 29.<ref>{{Cite book/Death Masks|87}}</ref> The full number of Lords was not always known and some Lords were kept secret 
+
+===Open Lord===
+[[File:LordsOfWaterdeep.png|thumb|right|300px|Open Lord [[Piergeiron the Paladinson|Piergeiron]] and a Masked Lord in official garments ''circa'' [[1372 DR]].]]
+The Open Lord of Waterdeep (also called the "Unmasked Lord")<ref name="NGSF.CC-p9">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|9}}</ref> was the sole member of the Lords of Waterdeep whose identity was publicly known.<ref name="CS.W-p52" /> They held a number of additional titles including [[City Guard (Waterdeep)#Ranks|Warden]] of Waterdeep, Overmaster of the [[Waterdeep#Guilds|Guilds]], and Commander of [[City Watch (Waterdeep)|the Watch]].<ref name="CS.W-p53">{{Cite book/City of Splendors: Waterdeep|53}}</ref> The Open Lord was also the city's chief diplomat.<ref name="CS.W-p53" />
+
+There were seven [[Lords of Waterdeep#Open Lord|Open Lords]] of [[Waterdeep]] to [[1489 DR]]:<ref name="CS.W-p52" /><ref name="CoS.CG-p67">{{Cite book/City of Splendors (boxed set)/Campaign Guide|67}}</ref><ref name="DtU-M-p118">{{Cite game/Descent to Undermountain/Manual|118}}</ref><ref name="SCAG-p55" >{{Cite book/Sword Coast Adventurer's Guide|55}}</ref>
+* [[Ahghairon]] the Mage
+* [[Baeron Silmaeril]]
+* [[Lhestyn]] the Masked Lady
+* [[Piergeiron the Paladinson]]
+* [[Caladorn Cassalanter]]
+* [[Dagult Neverember]]
+* [[Laeral Silverhand]]
+
+=== Masked Lords ===
+The Lords of Waterdeep were only seen in public when sitting in the Lord's Court or when appearing every four years at [[Shieldmeet]] Council when the Lord's Rule is reaffirmed.<ref name="CoS.CG-p68" /> The identities of the Lords, other than the Open Lord, were not supposed to be known to the public, although they were known to each other.<ref name="CoS.CG-p68" /> The intent of this was to ensure that the Lords were free of coercion and could be drawn from any social strata within the city.<ref name="CoS.CG-p67" /> While the masked Lords were considered to be equal to the Open Lord in authority, some executive authority was reserved for the Open Lord, including the vetting and selection of new Lords,<ref name="CS.W-p52" /> the naming of the next Open Lord,<ref>{{Cite book/City of Splendors (boxed set)/Campaign Guide|31}}</ref> and determining the needed number of Lords.<ref name="CoS.CG-p68" />
+
+=== Becoming a Lord ===
+Any prospective Lord was chosen by a shortlist compiled by the current Masked Lords. In 
+
+=== LINKED WIKI PAGE (first 5000 chars): Laeral Silverhand
+
+{{DEFAULTSORT:Silverhand, Laeral}}
+{{Person
+| image          = <gallery>
+Laeral-5e.jpg|5e
+Laeral.jpg|3e
+HL-Laeral.png|2e
+</gallery>
+| caption2       = Laeral Silverhand Arunsun.
+| name           = Anamanué Laeral Silverhand
+| alt_spelling   = 
+| titles         = Open Lord of Waterdeep, Lady Mage of Waterdeep, Lady Blackstaff,<ref name="tSummoning">{{Cite book/The Summoning/Paperback 2001}}</ref><br />Witch-Queen of Stornanter,<ref name="GHotR-103">{{Cite book/The Grand History of the Realms|103}}</ref> Witch-Queen of the North<ref name="WDH5e-p207" />
+| aliases        = Gelda<ref name="LCRB">{{Cite organized play/LC/Dragon's Deep|15}}</ref>
+| nicknames      = Laer<ref name="TH-19">{{Cite book/The Herald/Hardcover|237|13}}</ref>
+| true name      = Myroune<ref name="Sisters-29">{{Cite book/The Seven Sisters|29}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]<ref name="DM">{{Cite book/Death Masks}}</ref>
+| formerhomes    = [[Rhymanthiin]], [[High Moor]]<ref name="BS">{{Cite book/Blackstaff/MMP}}</ref>
+| sex            = Female
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]
+| languages      = [[Common]], [[Draconic language|Draconic]], [[Elven language|Elvish]], [[Giant language|Giant]], [[Infernal language|Infernal]]<ref name="WDH5e-p207">{{Cite book/Waterdeep: Dragon Heist|207}}</ref>
+| reckoning      = 
+| dob            = 765
+| dobnotes       = <ref name="WDH5e-p207" />
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = {{class table|edition=1e|[[Magic-user]]|24}}
+| refs1e         = <ref name="CotR-20">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|20}}</ref>
+| alignment2e    = 
+| class2e        = {{class table|edition=2e|[[Ranger]]|9|[[Wizard]]|25}}
+| refs2e         = <ref name="7S-28">{{Cite book/The Seven Sisters|28}}</ref><ref name="CoS-CG-74">{{Cite book/City of Splendors (boxed set)/Campaign Guide|74}}</ref><ref name="FRCS2eR-RtR-37">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|37}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic good]]
+| challenge35    = 34
+| class35        = {{class table|edition=3e|[[Sorcerer]]|4|[[Ranger]]|7|[[Wizard]]|19}}
+| refs35         = <ref name="CoSW3e-p25">{{Cite book/City of Splendors: Waterdeep|25}}</ref><ref name="FRCS3e-280">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|280}}</ref>
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 17
+| class5e        = {{Class table|edition=5e|[[Wizard]]|19}}
+| refs5e         = <ref name="WDH5e-p207" />
+}}
+'''Laeral Silverhand''' ({{Pronounce|LAIR|awl|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Anamanué Silverhand''' and formerly known as the Witch-Queen of the North<ref name="WDH5e-p207" /> and later the Lady Mage of Waterdeep, was one of the [[Seven Sisters]], a [[Chosen of Mystra]],<ref name="FRCS3e-280" /> and the [[Open Lord]] of [[Waterdeep]] during the late 15{{th}} century [[DR]].<ref name="WDH5e-p207" /> Together with her partner [[Khelben "Blackstaff" Arunsun]], they led the [[Moonstars]], a dissident faction of the [[Harpers]], which sought to guide the cities and countries of the [[North]] toward a shared destiny.<ref name="FRCS3e-280" />
+
+==Personality==
+Laeral was incredibly organized—it was the only way she could manage to fit all of her activities into a single day. She was friendly and accommodating, leading almost everyone who met her, even the haughty nobles of Waterdeep, to consider her a true friend. She was also proactive in her defense of the city, to the extent that certain Waterdhavians would stage calamitous events so that she would keep tabs on persons of interest for them without their needing to ask for her help or involve themselves directly.<ref name="SS-p117-118">{{Cite book/The Seven Sisters|117-118}}</ref>
+
+Having been in thrall to the ''Crown of Horns'' and forced to commit heinous acts by it, she felt that she understood the nature of evil better than most<ref name="SS-p32">{{Cite book/The Seven Sisters|32}}</ref> and often mediated disputes with rogues, undesirables, and sentient monsters, especially in [[Skullport]] where she kept an alias identity in the form of [[Irusyl Eraneth]].<ref name="SS-p117-118" />
+
+Laeral was infuriated by magic-users who employed their power to deceive and exert baleful influence over others. She disliked [[doppelganger]]s and slave-owners.<ref name="SS-p31" />
+
+Laeral was especially conscious of having both magic and wea
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahghairon
+
+{{Person
+| image     =Ahghairon.png 
+| caption   = 
+| name      = Ahghairon
+| aliases   = Ahghairon Belnoth Undrur<ref name="GG-Ahghairon's name">{{Cite archive/Greenwood's Grotto/2023-02-22/Ahghairon's full name}}</ref>
+| home      = [[Waterdeep]]
+| sex            = Male
+| race      = [[Human]]
+| reckoning = DR
+| dob       = 920
+| death     = 1256
+| destroyed = 
+| age       = 
+| ageyear   =
+| class     = [[Wizard]]
+| rules     = 
+| alignment = 
+}}
+'''Ahghairon''' ({{Pronounce|ah|GAIR|awn|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Ahghairon Belnoth Undrur''',<ref name="GG-Ahghairon's name" /> was a [[mage]] from [[the North]]<ref name="CoS.CG-p26">{{Cite book/City of Splendors (boxed set)/Campaign Guide|26}}</ref> and the first [[Lords of Waterdeep#Open Lord|Open Lord]] of [[Waterdeep]]. He created the [[Lords of Waterdeep]], the system by which Waterdeep had been ruled ever since, except for a six-year period immediately following his death.<ref name="CoS.CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref> 
+
+{{Quote|There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.|Ahghairon, ''circa'' [[1032 DR]]<ref name="CoS.CG-p25">{{Cite book/City of Splendors (boxed set)/Campaign Guide|25}}</ref>''}}
+
+==Personality==
+Ahghairon was known by several names during his youth, but went by only his first name during his time in Waterdeep.<ref name="GG-Ahghairon's name" />
+
+==History==
+{{quote|The original splendors of Waterdeep were Ahghairon's secrets, which keep us safe today and always, despite the predations of lesser so-called lords.|[[Agnan Crohal]], ''[[Tales Told Tavernside]]'', [[1268 DR]]<ref name="BS">{{Cite book/Blackstaff Tower||23}}</ref>}}<br/>
+Ahghairon was born on [[Midsummer]]'s Night, in the {{YearlinkName|920}}.<ref name="CoS.CG-p29" /> He was named after his great-grandfather.<ref name="GG-Ahghairon's name" /> Legends say that the symbol of [[Mystra]] was glowing in the sky at the time.<ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+===The Trollwars===
+The [[Trollwars#Second Trollwar|Second Trollwar]] broke out in [[940 DR]],<ref name="CoS.CG-p29" /> as [[troll]]s were pushed down into the area later known as the [[Evermoors|Trollmoors]] by [[orc]] uprisings further north. After a decade of battles, a young Ahghairon distinguished himself, using his magic to turn the war against the trolls.<ref name="CoS.CG-p26" /> First, the Waterdhavian defenders drove the trolls back from their walls. The human realms then united under Ahghairon, War Captain [[Aeroth of Silverymoon]], and [[Samular Caradoon]] of [[Tyr]], and together they eradicated trolls across the Evermoors, with war finally coming to an end in [[952 DR]].<ref name=GHR>{{Cite book/The Grand History of the Realms|113}}</ref>
+
+At some point during the 940's DR, Aghairon was in [[Waterdeep]], at the time called Nimoar's Hold. Fires set to hold of the trolls threatened to destroy a large part of the town, so Aghairon asked adventurers to find and bring him [[Halaster Blackcloak|Halaster]]'s wards to bolster a ritual that would allow him to stop the fires. (More info about this adventure can be found in [[Hero of the Troll Wars]])
+
+A third Trollwar almost took place in [[963 DR]], when the traitors [[Aviss]] and [[Fellandar]] led an army of trolls out of the [[Mere of Dead Men]] against the city. They knew well the city's defenses, and [[Castle Waterdeep]] had only just begun construction. But Ahghairon and a band of [[wizard]]s hurled Aviss and Fellandar into an extra-dimensional prison, thwarting the attack.<ref name="ADDc-33-p16">{{Cite comic/Summer in the City|16}}</ref> <ref group="note">The comic "[[Summer in the City]]" actually refers to "great Aglairon", but by the context it seems clear this is meant to be Ahghairon.</ref>
+
+===Rise to Power===
+At this time, Waterdeep was ruled by the Warlord [[Rhaulor]], who wanted to use the city's power and wealth to create an empire spanning [[northwest Faerûn]]. Ahghairon strongly disagreed with this, and when he voiced his concerns, Rhaulor attacked him. Ahghairon  used his magic to turn Rhaulor's sword into a snake, which bit and poisoned him. Rhaulor died and Ahghairon assumed control of Waterdeep, proclaiming himself the first Open Lord, and establishing a form of government involving Masked Lords, whose identities would remain private.<ref name="CoS.CG-p27" />
+
+===Rule===
+In [[1007 DR]], Ahghairon constructed his [[Ahghairon's Tower|wizard tower]], but positioned it outside the walls of Waterdeep (which since expanded). At the same time, he imposed magical barriers on [[Halaster's Hold]], which prevented the possibility of any dangers escaping into the city. He created a magical axe named ''[
+
+=== LINKED WIKI PAGE (first 5000 chars): Kerrigan
+
+{{Person
+| image     = 
+| caption   = 
+| name      = Kerrigan
+| aliases   = 
+| home      = [[Waterdeep]], [[Sword Coast North]]
+| sex            = Male
+| race      = [[Human]]
+| reckoning = DR
+| dob       = 
+| death     = 1246
+| destroyed = 
+| age       = 
+| ageyear   =
+| class     = [[Wizard]]
+| alignment = 
+}}
+'''Kerrigan''' was a [[human]] Masked [[Lords of Waterdeep|Lord]] of [[Waterdeep]]. He was the only Lord known to have betrayed Waterdeep. After murdering three other Lords in an attempt to gain sole power in the city, his betrayal was discovered by Open Lord [[Ahghairon]], and a [[spell]] battle ensued. The battle ended when Kerrigan was killed in the [[Southern Ward of Waterdeep|Southern Ward]].<ref name="CoS.CG-p30">{{Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+
+==References==
+{{refs}}
+[[FR:Kerrigan]]
+{{Stub-person}}
+[[Category:Wizards]]
+[[Category:Illuskans]]
+[[Category:Humans]]
+[[Category:Lords of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Guildwars
+
+The '''Guildwars''' were a series of conflicts within the city of [[Waterdeep]], between the years [[1256 DR]] and [[1262 DR]]. These years would see the deaths of all the known [[Lords of Waterdeep|Lords of the city]], and the emergence of the [[Council of Guildmasters]] rise to power, which lasted until [[1273 DR|1273]].<ref name="CoSW-p10"/>
+
+==Overview==
+Beginning with the death of [[Lords of Waterdeep#Open Lord|Open Lord]] [[Ahghairon]],<ref name="CoS.CG-p28">{{Cite book/City of Splendors (boxed set)/Campaign Guide|28}}</ref> and the disappearance of [[Khelben Arunsun|Khelben "Blackstaff" Arunsun]] from the city, the Guildwars left a small vacuum of power within Waterdeep of which the guildmasters sought to take advantage.<ref name="CoSW-p10">{{Cite book/City of Splendors: Waterdeep|10}}</ref>  
+
+The guildmasters had discovered the identities of all but two of the Lords, and had them killed in secret. Following this mass assassination, they were left to argue about how to share power but ended up turning on one another. The heads of the city's various guilds hired additional assassins to kill one another and pitted their [[mercenary]] armies against one another in the city, leading to the deaths of members of several mercantile families. After the initial two months of strife, it was agreed the Council of Guildmasters would rule as a single governing body. The feuds between various guilds were temporarily set aside, but not forgotten.<ref name="CoSW-p10"/> 
+
+With an unsteady truce, the fighting and selfish bickering continued for six years of shared rule. However, in [[1262 DR]], the troubles brewing beneath the surface came to a boil in the form of total bloodshed. All but two of the guildmasters were killed; only [[Ehlemm Zoar]] of the [[Gemcutters guild (Waterdeep)|Gemcutters guild]] and [[Lhorar Gildeggh]] of the [[Master Order of Shipwrights|Shipwrights guild]] were left alive. Exhausted from years of backstabbing, violence and death, the two remaining guildmasters agreed to rule together as Lords Magister,<ref name="CoSW-p10"/>  albeit with continued bickering.<ref name="CoSW-p11">{{Cite book/City of Splendors: Waterdeep|11}}</ref>  
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Guerre des guildes]]
+[[Category:Battles]]
+[[Category:Conflicts]]
+[[Category:Events in Waterdeep]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events in Faerûn]]
+[[Category:Events on Toril]]
+[[Category:Events]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep
+
+{{GA}}
+{{otheruses4|the city|other uses|Waterdeep (disambiguation)}}
+{{redirect|Waterdhavian|the cheese|Waterdhavian cheese}}
+{{Location
+| image              = <gallery>
+Waterdeep symbol 5e.png|5e
+Waterdeep symbol.jpg|3e
+</gallery>
+| caption            = The seal of the City of Splendors
+| name               = Waterdeep
+| alt spelling       = 
+| aliases            = City of Splendors <br />Crown of the North
+| type               = 
+| region             = [[Sword Coast North]],<br /> [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS-pp178-180" /><ref name="CoS.W-p6" /><ref name="BST-pp306-307">{{Cite book/Blackstaff Tower|306-307}}</ref><ref name="FRCG-p84">{{Cite book/Forgotten Realms Campaign Guide|84}}</ref>
+| demonym            = Waterdhavian,<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref><br />Waterdavian<ref name="WDH5e">{{Cite book/Waterdeep: Dragon Heist}}</ref>
+| population         = 
+| races              = {{percentage table|[[Humans]]|64|[[Dwarves]]|10|[[Elves]]|10|[[Halflings]]|5|[[Half-elves]]|5|[[Gnomes]]|3|[[Half-orcs]]|2|Others|1}}
+| languages          = 
+| religion           = [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]]
+| alignment          = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| socrefs            = 
+| imports            = Grain, livestock, leather, ore, timber, and exotic goods from other lands
+| exports            = [[Ale]], arms, cloth, fish, furnishings, leather goods, pottery, refined metals, and all other sorts of finished goods
+| currency           = {{currency table|1pp|1 [[sun (coin)|sun]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sambar (coin)|sambar]]|100 silver [[shard (coin)|shard]]s|1000 copper [[nib]]s}}
+| comrefs            = <ref name="CoS.W-p6" /><ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name="RS2e-p18-19,21">{{Cite book/Realmspace|18-19,21}}</ref>
+| government         = [[Wikipedia:Oligarchy|Oligarchical]] [[city-state]]
+| rulertype          = 
+| ruler              = 
+| head of state      = [[Open Lord]]
+| leader1            = [[Laeral Silverhand]]
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = The [[Lords of Waterdeep]]
+| judiciary          = The [[Magisters of Waterdeep]]
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = [[Ahghairon]]'s coup
+| start date         = [[1032 DR]]
+| event1             = [[Kerrigan]]'s rebellion
+| date1              = [[1246 DR]]
+| event2             = [[Guildwars]]
+| date2              = [[1256 DR|1256]]-[[1262 DR]]
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = [[Nimoar's Hold]]
+| successor          = 
+| population1        = 1,347,680<ref name="FRCS-pp178-180" /><ref group="note">In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,800, though the metropolitan population (i.e., those in the city proper) is only 132,661.</ref>
+| popyear1           = 1372
+| population2        = up to 2,000,000<ref name="tFR.W">{{Cite web/The Forgotten Realms: Waterdeep}}</ref><ref group="note">The estimate most likely refers to the Waterdeep area, instead of just the metropolis. In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,840, though the ''metropolitan population'' is 132,661. This is because Waterdeep commands 40 mile stretches of farmland outside the borders of the city itself, and is counted in the population. Thus, the population in the city proper of Waterdeep is probably about 200,000.</ref> in the 15{{th}} century [[DR]]
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6}}</ref><ref name="FRGC3e-p118">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|118}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Waterdeep''', also known as '''the City of Splendors''' or the '''Crown of the Nor
+
+=== LINKED WIKI PAGE (first 5000 chars): Forgotten Realms Campaign Setting 3rd edition
+
+{{Book
+| image        = FRCS.jpg
+| caption      = The cover for 3{{rd}} edition's campaign setting book.<ref name="NN" group="note">The text in the cover sigil is composed of transcriptions from English into two different Forgotten Realms alphabets. The first reads, "We remember sities [sic] now in ruin and forests murdered, yet still we sing to the stars and hope for renewal," in [[Espruar]], while [[Dethek]] runes read, "The secret fires of our hearts burn with the memory of wars lost and heroes slain, but like the stone from which we came, we endure."</ref><ref>{{cite web/theedverse/2020-08-24 - Book cover sigil}}</ref>
+| code         = 882360000
+| title        = Forgotten Realms Campaign Setting
+| author       = [[Ed Greenwood]]<br />[[Sean K. Reynolds]]<br />[[Skip Williams]]<br /> [[Rob Heinsoo]]
+| editor       = [[Michele Carter]]<br />[[Julia Martin]]<br />[[John D. Rateliff]]
+| publisher    = [[Wizards of the Coast]]
+| volume       = 
+| type         = Accessory
+| languages    = English
+| reprinted    = 
+| cover_artist = [[Sherry Floyd]]<br />[[Robert Campbell]]<br />[[Robert Raper]]
+| inter_artist = [[Todd Lockwood]]<br />[[Sam Wood]]<br />[[Matt Wilson]]<br />[[Carlo Arellano]]<br />[[Stephanie Pui-Mun Law]]
+| cartography  = [[Robert Lazzaretti]]<br />[[Todd Gamble]]<br />[[Dennis Kauth]]
+| typography   = [[Angelika Lokotz]]<br />[[Sonya Percival]]
+| realm year   = up to [[1372 DR]]<ref name="FRCS3e-78">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|78}}</ref>
+| setting      = [[Faerûn]]
+| game_edition = 3
+| edition1     = <!-- leave blank if there is only one -->
+| binding1     = Hardcover
+| released1    = June 2001
+| pages1       = 320
+| isbn10-1     = 07-8691-836-5
+| isbn13-1     = 
+| cite1        = 
+| preceded_by  = [[Forgotten Realms Campaign Setting 2nd edition (revised)|''Forgotten Realms Campaign Setting'' 2{{nd}} edition (revised)]]
+| followed_by  = ''[[Forgotten Realms Campaign Guide]]''
+| maps         = yes
+| Roll20number = 28729
+}}
+The '''''Forgotten Realms Campaign Setting''''' is a 3{{rd}}-edition ''Dungeons & Dragons'' accessory for the ''[[Forgotten Realms]]''.
+
+{{Quote|<big>'''Dark perils and great deeds await'''</big>
+
+Welcome to [[Faerûn]], a land of high [[magic]], terrifying monsters, ancient ruins, and hidden wonders. From the forbidding forests of the [[Silver Marches]] to the teeming cities of the [[Inner Sea]], Faerûn encompasses shining kingdoms, monster-infested wastes, endless caverns, and sinister citadels. The {{SmallCaps|[[Forgotten Realms]]}}® Campaign Setting presents the most comprehensive fantasy world ever described!
+
+This book contains all the details you need to play {{SmallCaps|[[Dungeons & Dragons]]}}® adventures in the {{SmallCaps|Forgotten Realms}} setting:
+
+* A new full-color poster map of Faerûn.
+* Dozens of new races, feats, and prestige classes for your characters.
+* The [[Faerûnian pantheon]], including over 100 deities and powers.
+* Highly detailed regions, new monsters, mysterious sites, and two short adventures to begin your campaign.}}
+{{TOC limit|3}}
+==Description==
+[[File:Elminster2.jpg|thumb|175px|left|''[[Elminster]], as illustrated by [[Sam Wood]].'']]
+''Forgotten Realms Campaign Setting'' was published in 2001 by [[Wizards of the Coast, Inc.]] It is a [[Forgotten Realms]] campaign sourcebook for use with the 3{{rd}} edition of the ''[[Dungeons & Dragons]]'' role-playing game. The book was written by [[Ed Greenwood]], [[Sean K. Reynolds]], [[Skip Williams]], and [[Rob Heinsoo]], with the contributions of members of the Wizards company staff. The book is 320 pages in length, illustrated in color, and hardbound.
+
+This is the third-edition release of the ''Forgotten Realms'' campaign setting for ''Dungeons & Dragons'' and a number of changes were made since the previous books were published by the former [[TSR, Inc.]] The most important update was to incorporate the significant revisions to the game system with the 3{{rd}}-edition update. Various regional feats, character attributes, prestige classes, spells, and NPC statistics all used the new rule set.
+
+The work also made some notable updates to the campaign setting, including the widespread presence of [[Red Wizard]] enclaves in various cities, the presence of a mysterious group called the [[Shadovar]] in the southern [[Anauroch]] desert, and the increasing surface presence of [[drow]] in the [[Dalelands]]. The setting history was updated to reflect the various major events, such as the changes to the [[Faerûnian pantheon]] since the [[Time of Troubles]] and the defeat of the [[Tuigan Horde]].
+
+The book was organized into nine chapters, covering in broad detail the campaign setting. The primary emphasis was on the continent of Faerûn, and the other continents of [[Toril]] were only briefly mentioned.
+
+In addition to the nine chapters, this work includes two short adventures and a number of maps, including a fold-out map of the continent of Faerûn. There are also many sidebar topics
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Northwest Faerûn
+
+{{redirect|The North|the sourcebook|The North: Guide to the Savage Frontier}}
+{{Location
+| image              = [[Image:Northwest_faerun_250.gif|250px]]
+| caption            = ''Map of Faerûn highlighting Northwest Faerûn''
+| name               = Northwest Faerûn
+| alt spelling       = 
+| aliases            = The Barbaric North<br />The Barbaric Lands<br />The Barbarian North<br />The Frontier<br />The North<br />The Northern Barbarian Territory<br />The Savage Frontier<br />The Savage Coast North<br />The Savage North<br />The Wildlands
+| type               = Region
+| region             = [[Faerûn]], [[Toril]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="N.GSFW-p4">{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|4}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Northwest Faerûn''', generally referred to as '''the North''' or even '''the Savage North''',<ref name="CoS.CG-p25"/> was a region of [[Faerûn]] full of untamed wilderness, wracked with difficult winter weather, and home of many hardy folks and fearsome beasts. In spite of this reputation, the North was home to three of the greatest cities in all of Faerûn: [[Neverwinter]], Jewel of the North, [[Waterdeep]], the City of Splendors, and [[Silverymoon]], Gem of the North.<ref name="FRCS3e-p165">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|165}}</ref><ref name="N.GSFW-p4" /><ref name="SM-p57" />
+
+The inhabitants of areas further south, in [[West Faerûn]], described this area in condescension as "the Savage North," which was a reference to the [[Savage Frontier]] and a time when its inhabitants were less civilized.<ref name="CoS.CG-p25">{{Cite book/City of Splendors (boxed set)/Campaign Guide|25}}</ref>
+
+{{Quote|''So as you shiver in the cold and the dark,''
+''Look into the fire and see in its spark—''
+
+''My eye''
+''Watching over you.''|The opening stanza of a time-honored Northern trail song.<ref name="VGttN-p1">{{Cite book/Volo's Guide to the North|1}}</ref>}}
+{{TOC limit|3}}
+
+==Geography==
+The North, savage as it was, was difficult to truly delimit, especially when its boundaries so often shifted depending on the person studying them. Most, however, would agree that its northern end followed the [[Spine of the World]] and the frozen wastes past it, while reaching as far south as [[Daggerford]], its southern border drawn west from there to the [[Sea of Swords]] and east, through the [[Mines of Dekanter]], to the great [[Anauroch]] desert.<ref name="N.GSFW-p4" /> The nearby folk of the [[Dalelands]] and [[Cormyr]] generally accepted this notion, simplifying it to say that the [[High Moor]] was the North's southermost edge.<ref name="FRCS3e-p165" />
+
+The broadest definition for the North came from faraway [[Calimport]], whose merchants amalgamated anything beyond their neighboring [[Tethyr]] into a singular ''"Barbaric"'' North, but even those cities who called the region home rarely agreed. Though the Silvaeren people of Silverymoon considered their northern walls its southernmost border, for example, the Gem of the North was distinctly northern terri
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Lords' Alliance
+
+{{Otheruses4|the coalition of political forces on the [[Sword Coast]]|other groups with a similar name|Council of Lords (disambiguation)}}
+{{Organization
+| image          = <gallery>
+Lords' Alliance 5e.png|c. 1480 DR
+Lords_Alliance.jpg|1370 DR
+</gallery>
+| caption2       = ''Various symbols of the Lords' Alliance.''
+| name           = Lords' Alliance
+| aliases        = Council of Lords
+| base           = 
+| leader         = {{Split table|Lord [[Piergeiron the Paladinson|Piergeiron of Waterdeep]]||As of [[1358 DR]]<ref name="SF-p9">{{Cite book/The Savage Frontier|9}}</ref>||Lord Protector [[Dagult Neverember]]||Around [[1467 DR]]<ref name="NCS-pp86-88">{{Cite book/Neverwinter Campaign Setting|86-88}}</ref>-[[1488 DR]]||Open Lord [[Laeral Silverhand]]||1488 DR-present}}
+| symbol         = 
+| favored weapon = 
+| basicrefs      = <ref name="FRCS3e-pp275-276" /><ref name="RoT-pp13-14" />
+| domains        =
+| formed         = [[1325 DR]]
+| disbanded      = 
+| members        = 
+| alignment      = [[Lawful good]]
+| races          = 
+| allegiances    = The [[Harpers]], the [[Emerald Enclave]], the [[Order of the Gauntlet]], the [[Zhentarim]] (as of 1488 DR)<ref name="RoT-pp13-14" />
+| enemies        = The Zhentarim (in the 14{{Th}} century), [[Luskan]], [[Shadow Thieves of Amn]],<ref name="SF-p9" /> [[Calimshan]]<ref name="SF-p9" /> the [[church of Bane]]<ref name="LoD-p119">{{Cite book/Lords of Darkness|119}}</ref>
+| relrefs        =
+| showmembers    = yes
+| orgname        = the Lords' Alliance
+}}
+The '''Lords' Alliance''', also known as the '''Council of Lords''', was a partnership of merchant cities founded in the early 14{{th}} century [[DR]].<ref name="LEoF-p141">{{Cite book/Lost Empires of Faerûn|141}}</ref><ref name="GHotR-p137">{{Cite book/The Grand History of the Realms|137}}</ref> Its members were from the [[Sword Coast]], [[the North]] and [[Western Heartlands]],<ref name="OOtA-p128">{{Cite book/Out of the Abyss|128}}</ref> including [[Waterdeep]], [[Silverymoon]], [[Baldur's Gate]], and [[Neverwinter]], as well as other free cities and towns in the region, which made up the bulk of the organization.<ref name="RoT-pp13-14" /> It was formed to oppose the growing influence of the [[Zhentarim|Black Network]] in the North, the [[Shadow Thieves of Amn]],<ref name="SF-p9" /><ref name="FRCS3e-pp275-276" /><ref name="CoV-p102">{{Cite book/Champions of Valor|102}}</ref> rampaging hordes of [[orc]]s, and [[Northlander]] raiders.<ref name="SCAG-p43">{{Cite book/Sword Coast Adventurer's Guide|43}}</ref>
+
+{{Quote|For a century and a half, and more, the Lords' Alliance has stood as the most important and influential group in the North. Its power has kept towns safe from the predations of larger powers, has kept the ambitions of Luskan in check, and has taught the rulers of many cities that it is better to cooperate, even for a time, then to merely shut one's doors and allow the storms to rage outside.|[[Andew Cururen]], a Lords' Alliance agent of note.<ref name="SCAG-p43" />}}
+
+==Organization==
+Depending on who was asked, the Lords' Alliance was considered either a strong coalition,<ref name="OOtA-p128" /> or unsteady pact of political powers. While the Alliance was said by some to be a collective of aggressive and self-serving figureheads,<ref name="PotA-p15-16">{{Cite book/Princes of the Apocalypse|15-16}}</ref><ref name="SKT-p12">{{Cite book/Storm King's Thunder|12}}</ref> others insisted they were among the most secure governing bodies in the west.<ref name="OOtA-p128" /> The truth, as it usually was, lay somewhere between the two extremes. While the members often held opposing views and held interests that conflicted with their peers, these rivalries were set aside when true danger emerged to threaten their collective safety and prosperity.<ref name="RoT-pp13-14">{{Cite book/The Rise of Tiamat|13-14}}</ref> The true strength of the alliance, it was said, manifested when its members banded together on collaborative endeavors.<ref name="OOtA-p128" /> 
+
+While some of these cities and city-states held more influence than others,<ref name="RoT-pp13-14" /> they aligned their goals for the greater good and prosperity of the whole alliance.<ref name="OOtA-p128" /> Collectively they believed in the preservation of civilization for the better of their people.<ref name="SCAG-p43" />
+
+The Lords' Alliance had the following ranks from lowest to highest: Cloak, Redknife, Stingblade, Warduke, and Lioncrown.<ref name="DMG-2014-p22">{{Cite book/Dungeon Master's Guide 5th edition|22}}</ref>
+
+The alliance's emblem was a golden crown set over a field of red.<ref name="KGV.P13">{{Cite book/Keys from the Golden Vault/Prisoner 13|?}}</ref>
+
+==Alliance Members and Leaders==
+These were the member states and their leaders as of [[1489 DR]].<ref name="SCAG-p7">{{Cite book/Sword Coast Adventurer's Guide|7}}</ref><ref name="SCAG-p15">{{Cite book/Sword Coast Adventurer's Guide|15}}</ref>
+
+* [[Amphail]]: Lord [[Dauner Ilzimmer]]
+* [[Baldur's Gat
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep
+
+{{GA}}
+{{otheruses4|the city|other uses|Waterdeep (disambiguation)}}
+{{redirect|Waterdhavian|the cheese|Waterdhavian cheese}}
+{{Location
+| image              = <gallery>
+Waterdeep symbol 5e.png|5e
+Waterdeep symbol.jpg|3e
+</gallery>
+| caption            = The seal of the City of Splendors
+| name               = Waterdeep
+| alt spelling       = 
+| aliases            = City of Splendors <br />Crown of the North
+| type               = 
+| region             = [[Sword Coast North]],<br /> [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="FRCS-pp178-180" /><ref name="CoS.W-p6" /><ref name="BST-pp306-307">{{Cite book/Blackstaff Tower|306-307}}</ref><ref name="FRCG-p84">{{Cite book/Forgotten Realms Campaign Guide|84}}</ref>
+| demonym            = Waterdhavian,<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref><br />Waterdavian<ref name="WDH5e">{{Cite book/Waterdeep: Dragon Heist}}</ref>
+| population         = 
+| races              = {{percentage table|[[Humans]]|64|[[Dwarves]]|10|[[Elves]]|10|[[Halflings]]|5|[[Half-elves]]|5|[[Gnomes]]|3|[[Half-orcs]]|2|Others|1}}
+| languages          = 
+| religion           = [[Deneir]], [[Mystra]], [[Oghma]], [[Tempus]]
+| alignment          = {{alignment grid|on|on|on|on|on|on|on|on|on}}
+| socrefs            = 
+| imports            = Grain, livestock, leather, ore, timber, and exotic goods from other lands
+| exports            = [[Ale]], arms, cloth, fish, furnishings, leather goods, pottery, refined metals, and all other sorts of finished goods
+| currency           = {{currency table|1pp|1 [[sun (coin)|sun]]|10 gold [[dragon (coin)|dragon]]s|20 electrum [[sambar (coin)|sambar]]|100 silver [[shard (coin)|shard]]s|1000 copper [[nib]]s}}
+| comrefs            = <ref name="CoS.W-p6" /><ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref><ref name="RS2e-p18-19,21">{{Cite book/Realmspace|18-19,21}}</ref>
+| government         = [[Wikipedia:Oligarchy|Oligarchical]] [[city-state]]
+| rulertype          = 
+| ruler              = 
+| head of state      = [[Open Lord]]
+| leader1            = [[Laeral Silverhand]]
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = The [[Lords of Waterdeep]]
+| judiciary          = The [[Magisters of Waterdeep]]
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = [[Ahghairon]]'s coup
+| start date         = [[1032 DR]]
+| event1             = [[Kerrigan]]'s rebellion
+| date1              = [[1246 DR]]
+| event2             = [[Guildwars]]
+| date2              = [[1256 DR|1256]]-[[1262 DR]]
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = [[Nimoar's Hold]]
+| successor          = 
+| population1        = 1,347,680<ref name="FRCS-pp178-180" /><ref group="note">In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,800, though the metropolitan population (i.e., those in the city proper) is only 132,661.</ref>
+| popyear1           = 1372
+| population2        = up to 2,000,000<ref name="tFR.W">{{Cite web/The Forgotten Realms: Waterdeep}}</ref><ref group="note">The estimate most likely refers to the Waterdeep area, instead of just the metropolis. In the ''[[Forgotten Realms Campaign Setting 3rd edition]]'', the population of Waterdeep is stated to be 1,347,840, though the ''metropolitan population'' is 132,661. This is because Waterdeep commands 40 mile stretches of farmland outside the borders of the city itself, and is counted in the population. Thus, the population in the city proper of Waterdeep is probably about 200,000.</ref> in the 15{{th}} century [[DR]]
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6}}</ref><ref name="FRGC3e-p118">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|118}}</ref>
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Waterdeep''', also known as '''the City of Splendors''' or the '''Crown of the Nor
+
+=== LINKED WIKI PAGE (first 5000 chars): Daggerford
+
+{{GA}}
+{{Location
+| image              = NWN.DoD cinematic Daggerford.png
+| caption            = Daggerford circa [[1372 DR]].
+| name               = Daggerford
+| alt spelling       = 
+| aliases            = 
+| type               = Settlement
+| region             = [[Delimbiyr Vale]], [[Sword Coast]]
+| size               = Small town
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="FRCS3e-p227" /><ref name="UI.DIA">{{Cite book/Under Illefarn/Daggerford Immediate Area}}</ref>
+| demonym            = 
+| population         = 
+| races              = [[Dwarves]], [[halfling]]s, [[human]]s
+| languages          = 
+| religion           = [[Amaunator]], [[Chauntea]], [[Lathander]], [[Tempus]], [[Tymora]]
+| alignment          = 
+| socrefs            = <ref name="VoloSC-p34" /><ref name="NGSF-CC-p63">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|63}}</ref><ref name="SSC-p20" />
+| imports            = Green wood
+| exports            = Furs, garments
+| currency           = 
+| comrefs            = <ref name="VGSC-p32" /><ref name="NGSF-CC-p3">{{Cite book/The North: Guide to the Savage Frontier/Cities & Civilization|3}}</ref>
+| government         = Oligarchy
+| rulertype          = Duke/Duchess<br />(head of state)
+| ruler              = [[Council of Guilds]]
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="NGSF-D-p3" /><ref name="UF-p7" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = Castle Daggerford built
+| date1              = 931
+| event2             = Council of Guilds founded
+| date2              = 1320
+| event3             = [[Battle of Daggerford]]
+| date3              = 1363
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 300 (1000 overall)
+| popyear1           = 1347
+| population2        = 500
+| popyear2           = 1370
+| population3        = 891
+| popyear3           = 1372
+| population4        = 1200
+| popyear4           = 1485
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = [[Conan Daggerford]]
+| ruleryear1         = 1320
+| ruler2             = [[Pryden Daggerford]]
+| ruleryear2         = 1356
+| ruler3             = [[Pwyll Daggerford|"Greatshout" Daggerford]]
+| ruleryear3         = 1370
+| ruler4             = [[Maldwyn Daggerford]]
+| ruleryear4         = 1485
+| ruler5             = [[Morwen Daggerford]]
+| ruleryear5         = 1489
+| rulertable         = 
+| histrefs           = <ref name="VoloSC-p34" /><ref name="NGSF-D-p2" /><ref name="NGSF-D-p3" /><ref name="UF-p7" /><ref name="FRCS3e-p227">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|227}}</ref><ref name="GHotR-p146">{{Cite book/The Grand History of the Realms|146}}</ref><ref name="GCS-p134" /><ref name="SCAG-p47" />
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = yes
+}}
+'''Daggerford''' was a small but consequential town located in the [[Delimbiyr Vale]] within the greater [[Sword Coast]].<ref name="NGSF-D-p2" /><ref name="SSC-p12" /><ref name="GCS-p134">{{Cite book/Ghosts of Dragonspear Castle|134}}</ref> While it was primarily a farming community, and considered by some to be a mere stopover, the town had great ambitions to grow and be seen as an alternative to their northern neighbor of [[Waterdeep]].<ref name="NGSF-D-p3" /><ref name="FRCS3e-p227" /> 
+
+Despite its modest size and somewhat inflated sense of importance, Daggerford was resilient. It was something of a relic from the old kingdom of [[Delimbiyr]],<ref name="SSC-p12">{{Cite book/Scourge of the Sword Coast|12}}</ref> too stubborn to fall even when a series of wars, crusades, and other conflicts threatened the entirety of the Sword Coast.<ref name="BG.SoD" /> Daggerford's coat-of-arms was a ''[[silver]] [[dagger]]'', covered in blood atop a field of dark blue.<ref name="VoloSC-p34" />
+
+{{TOC limit|3}}
+==Description==
+It was a walled settlement with a population that by and large lived in the outlying hamlets, farms, and estates, rather than within the town proper. As such, the streets of Daggerford were not densely populated.<ref name="FH-p76" /> The town was significantly refurbished during the 13{{th}} century when many of its 40-odd wooden structures were remade in stone by the dwarves of [[Clan Ironeater]].<ref name="NGSF-D-p2" /><ref name="FRC
+
+=== LINKED WIKI PAGE (first 5000 chars): Trade Way
+
+{{Road
+| image          = twjpg.png
+| caption        = The Sword Coast, with the Trade Way highlighted in red.
+| name           = Trade Way
+| type           = 
+| aliases        = Trade Road<ref>{{Cite book/Calimport|5,35,96}}</ref>
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Faerûn]]
+| starts         = [[Calimport]]
+| ends           = [[Waterdeep]]
+| built          = 
+| refs           = 
+| usethe         = yes
+| locations      = yes
+| settlements    = yes
+| roads          = yes
+| events         = 
+}}
+The '''Trade Way''' was a long, well traveled trade road along the west coast of [[Faerûn]].<ref name="FRCG-p125">{{Cite book/Forgotten Realms Campaign Guide|125}}</ref> It was classed among the central trade arteries of the continent,<ref name="PoF-p66">{{Cite book/Power of Faerûn|66}}</ref> being crucial to the economic lifeblood of some nations<ref name="PoF-p27" /> and city-states.<ref name="PoF-p27">{{Cite book/Power of Faerûn|27}}</ref><ref name="FRCG-p86">{{Cite book/Forgotten Realms Campaign Guide|86}}</ref><ref name="SCAG-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref> Members of the [[Lords' Alliance]] each made contributions to maintain and protect it.<ref name="LoI.A-p11">{{Cite book/Lands of Intrigue/Amn|11}}</ref>
+
+==Geography==
+The Trade Way spanned from [[Calimport]] in the south and along the coast line,<ref name="EotS-p54" /> known as the [[Sword Coast]],<ref name="FRCG-p86">{{Cite book/Forgotten Realms Campaign Guide|86}}</ref> all the way through the [[Lands of Intrigue]]<ref name="EotS-p54" /> and perpendicular to the [[Starspire Peninsula]],<ref name="LoI-map">{{Cite book/Lands of Intrigue/Map of Lands of Intrigue}}</ref> until ending in the north at [[Waterdeep]].<ref name="EotS-p54" /> The section of road between [[Baldur's Gate]] and [[Amn]] was also known as the [[Coast Way]] on some maps,<ref name="Atlas-p5">{{Cite book/The Forgotten Realms Atlas|5}}</ref><ref group="note">The names Coast Way and Trade Way seem to be used interchangeably, both on maps and in text. Notably, ''The Forgotten Realms Atlas'' names this stretch of road as the Trade Way, but the 2{{nd}}-edition ''Forgotten Realms Campaign Setting'' calls it the Coast Way. Its text has it continuing to Waterdeep, whereas its map has this be the Trade Way instead, with the Trade Way itself continuing south. Strangely, ''City of Splendors: Waterdeep'' describes two Coast Ways, starting northward from Waterdeep but ending at Baldur's Gate in the south. Taken together, it may be that the names are used interchangeably, especially after the two were joined, or that "Coast Way" refers more to the coastal sections of the Trade Way.</ref> although some maps used this name all the way up to Waterdeep.<ref name="AGTotR-p87">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|87,88}}</ref><ref name="CoSW-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref> The section of road that crossed through Amn's northern border, between the cities of [[Crimmor]] and [[Nashkel]], was called the [[Bitter Road]].<ref name="LoI2.A-p34">{{Cite book/Lands of Intrigue/Amn|34}}</ref> And the thoroughfare between Crimmor and [[Purskul]] was known as the [[Orc Road]].<ref name="LoI2.A-p34" /><ref>{{Cite book/Volo's Guide to Baldur's Gate II|53}}</ref>
+
+==Geographical features==
+[[File:Calimshan 2e.jpg|thumb|250px|''A map of Calimshan showing off both the Trade Way and the Coast Trail.'']]
+[[File:Bitten Road.png|thumb|250px|''A segment of a map showing off The Fangs and Fang Pass.'']]
+;[[Calim Desert]]: The final leg of the Trade Way in the south.<ref name="EotS-p52">{{Cite book/Empires of the Sands|52}}</ref> There it stretched between the cities of Calimport to [[Memnon]], with several oases along the way that helped to mark the road.<ref name="EotS-p59">{{Cite book/Empires of the Sands|59}}</ref> For traders heading north, it was considered an early test of a caravan's strength, whilst for traders coming in from the north it was considered the final challenge of a long and wearisome journey.<ref name="EotS-p52" /> Those without the will to brave the desert would skirt it by taking the [[Coast Trail]].<ref name="EotSS-p80">{{Cite book/Empires of the Shining Sea|80}}</ref> Additionally, sticking to the Trade Way was considered essential for not getting lost within the desert.<ref name="EotS-p59" /> In [[Calimshan]]'s distant past, this stretch of the road was once fully paved stone, capable of supporting three carts or six [[horse]]s traveling abreast. During the [[Shoon Imperium]], some basic [[magical]] protections and tricks of [[engineering]] were built into this stone road, ensuring its protection from both [[Memnon's Crackle]] and threats beneath, such as [[purple worm]]s. Over a millennia this road was broken by erosion and sinkholes or buried beneath the [[sand]]s of the desert, though many of its Shoonite protections survived.<ref name="EotSS-p80">{{Cite
+
+=== LINKED WIKI PAGE (first 5000 chars): Long Road
+
+{{otheruses|Long Road (disambiguation)}}
+{{Road
+| image          = Long Road crossing High Road.png
+| caption        = 
+| name           = Long Road
+| type           = 
+| aliases        = Amphail Road<ref name="DoW" />
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Northwest Faerûn]]
+| starts         = [[Waterdeep]]
+| ends           = [[Mirabar]]
+| built          = 
+| refs           = 
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| inhabitants    = 
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+The '''Long Road''' was the inland trade route stretching from [[Waterdeep]] in the south to [[Mirabar]] in the north.<ref name="CoS.W-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref><ref name="VoloN-p127">{{Cite book/Volo's Guide to the North|127}}</ref>
+
+==Geographical features==
+===Rivers and streams===
+* [[River Mirar]]
+
+==Travel Times or Distances==
+* Waterdeep to [[Amphail (village)|Amphail]], ''Three days ride''<ref name="VGttN-p189">{{Cite book/Volo's Guide to the North|189}}</ref>
+* Waterdeep to [[Red Larch]], ''Seven days ride''<ref name="VGttN-p79">{{Cite book/Volo's Guide to the North|79}}</ref>
+
+==Notable Inhabitants==
+* [[Emmera Dunphalon]], a legendary [[animal trainer|trainer]] and [[veterinarian]] of [[dog]]s and [[house cat|cats]]. She lived on the east side of the road, halfway between Rassalantar and Waterdeep.<ref name="DoW" />
+
+==Notable Locations==
+===Buildings===
+* [[Roondan Kennels]], a dog training and rental business that stood on the east side of the road, halfway between Rassalantar and Waterdeep.<ref name="DoW">{{Cite web/theedverse/2022-01-22 - Dogbreeders of Waterdeep}}</ref>
+* [[Harvest Inn]]<ref name="S-p231">{{Cite book/Sojourn/MMP (1991)|231|20}}</ref><ref name="PotA-p38">{{Cite book/Princes of the Apocalypse|38}}</ref>
+* [[Swinging Sword|Swinging Sword Inn]]<ref name="VGttN-p82">{{Cite book/Volo's Guide to the North|82}}</ref>
+
+===Settlements===
+The primary towns on this road, from north to south, were:
+* [[Mirabar]]
+* [[Xantharl's Keep]]
+* [[Longsaddle]]
+* [[Triboar]]&mdash;where the Long Road and [[Evermoor Way]] meet.
+* [[Westbridge]]
+* [[Red Larch]]
+* [[Amphail (village)|Amphail]]
+* [[Rassalantar]]
+* [[Waterdeep]]
+
+==Appendix==
+===References===
+{{refs}}
+[[FR:Longue route (Côte des Épées)]]
+[[Category:Roads]]
+[[Category:Locations on the River Mirar]]
+[[Category:Locations on the Trade Way]]
+[[Category:Locations on the High Road]]
+[[Category:Locations on the Kheldell Path]]
+[[Category:Locations on the Cairn Road]]
+[[Category:Locations on the Stone Trail]]
+[[Category:Locations on the Evermoor Way]]
+[[Category:Locations on the Triboar Trail]]
+[[Category:Locations on the Blackford Road]]
+[[Category:Locations in Longsaddle]]
+[[Category:Locations in Triboar]]
+[[Category:Locations in Westbridge]]
+[[Category:Locations in Red Larch]]
+[[Category:Locations in Amphail]]
+[[Category:Locations in Rassalantar]]
+[[Category:Locations in the Crags]]
+[[Category:Locations in the Sumber Hills]]
+[[Category:Locations in the Dessarin Valley]]
+[[Category:Locations in the Savage Frontier]]
+[[Category:Locations in the Sword Mountains]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Locations]]
+
+=== LINKED WIKI PAGE (first 5000 chars): High Road
+
+{{Otheruses4|the road on the [[Sword Coast North]]|other uses|High Road (disambiguation)}}
+{{Road
+| image          = [[File:ScnMap.png]]
+| caption        = Map showing the High Road from Waterdeep to Luskan.
+| name           = High Road
+| type           = Trade route
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = 
+| starts         = [[Waterdeep]]
+| ends           = [[Luskan]]
+| built          = 
+| refs           = 
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| inhabitants    = yes
+| organizations  = yes
+| locations      = yes
+| settlements    = yes
+| roads          = yes
+| events         = yes
+}}
+The '''High Road''' was an inland trade route along the [[Sword Coast North]] that stretched from [[Waterdeep]] in the south to [[Luskan]] in the north.<ref name="VGttN-144">{{Cite book/Volo's Guide to the North|144}}</ref> For travelers, it was the key route linking Waterdeep and Leilon with "civilization" in [[the North]].<ref>{{Cite book/The North: Guide to the Savage Frontier/The Wilderness|35}}</ref>
+
+==Geography==
+[[File:Southern High Road.png|thumb|''A portion of southern High Road.''|415x415px]]
+At its southernmost point, the High Road entered Waterdeep, where it passed through the city as one of its most important [[High Road (Waterdeep)|streets]] and continued south as the [[Trade Way]].<ref name="CSW3e-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref> Hence, some accounts referred to the Trade Way as part of the High Road.<ref>{{Cite book/Volo's Guide to the North|195}}</ref><ref group="note">While some sources merge the High Road and the Trade Way, and the High Road within Waterdeep, this wiki keeps all three separate for ease of handling.</ref> The adjoining [[Long Road]] separated from the High Road a dozen miles (20 kilometers) north of Waterdeep.<ref name="CSW3e-p15" /><ref name="SKT-p91" />
+
+From the [[North Gate (Waterdeep)|North Gate]] of Waterdeep, it skirted [[Thornhold]] and the eastern edge of the [[Mere of Dead Men]] where it passed beneath [[Iniarv's Tower]] and beside the [[Sword Mountains]], before going through [[Leilon]]. Shortly afterward, it intersected with the western [[Triboar Trail|Triboar Cutoff]]<ref name="CSW3e-p15" /><ref name="LMoP-27">{{Cite book/Dungeons & Dragons Starter Set/Lost Mine of Phandelver|27}}</ref><ref name="VGttN-196">{{Cite book/Volo's Guide to the North|196}}</ref> then went through [[Neverwinter]] and [[Port Llast]] before coming to Luskan.<ref name="CSW3e-p15" /> It was roughly {{SI|100|mile|k|long=yes}} between Leilon and Neverwinter and {{SI|35|mile|k|long=yes}} between Neverwinter and Port Llast.<ref name="WatN-p9" /><ref name="CoS-CG-p21" />
+
+==History==
+The High Road was older than the Long Road, which ran from Waterdeep to [[Mirabar]].<ref>{{Cite book/Waterdeep and the North|3}}</ref> However, both roads predated Waterdeep, having been develop to connect to the harbor city.<ref name="TFRA-p152">{{Cite book/The Forgotten Realms Atlas|152}}</ref>
+
+As the Mere of Dead Men swelled over the centuries, it flooded the lands from the sea to the road, and the High Road was repeatedly rerouted further inland, but could never be moved far enough to escape the ever-encroaching swamp.<ref name="WotN-V">{{Cite web/Wyrms of the North/Voaraghamanthar, "the Black Death"}}</ref><ref name="HotDQ-p39">{{Cite book/Hoard of the Dragon Queen|39-40}}</ref>
+
+While it once passed [[Castle Naerytar]], [[Holk House]], [[Mornhaven Towers]], and [[Wolfhill House]], all lay within the swamp by the mid–14{{th}} century [[DR]].<ref name="WotN-V" />
+
+The rise to the power of the [[orc]] kingdom of [[Uruth Ukrypt]] around [[930 DR]] saw the end of trade along the High Road, until at least the kingdom's collapse in [[1026 DR]].<ref name="WotN-V" />
+
+"The Mad Dwarf", [[Gulyaikin Dzrund]], who dwelled in the caves of [[Mount Sar]] north of Waterdeep in the 1280s DR, was known to roll boulders down onto the High Road, killing hapless travelers there.<ref name="CoS-CG-p19" /><ref name="EoW-p14">{{Cite web enhancement/Environs of Waterdeep|14}}</ref>
+
+After the [[Mount Hotenow]] eruption in the {{YearlinkName|1451}} and the devastation of Neverwinter, and with common monster attacks occurring, the High Road fell into disuse.<ref name="HotDQ-p39" /><ref name="SKT-p91">{{Cite book/Storm King's Thunder|91,96}}</ref><ref name="NW" /> It went unmaintained and efforts to shift it away from the Mere of Dead Men were abandoned.<ref name="HotDQ-p39" /> By the late 1470s DR, the Mere of Dead Men had fully encompassed the High Road. It passed through the swamp and [[lizardfolk]] territory.<ref>{{Cite book/Neverwinter Campaign Setting|10}}</ref> Meanwhile, a key threat north of Neverwinter were the [[Blackdagger Bandits]]; patrols could not prevent them, and from their stronghold of [[Cragmire Keep]], they were hard to uproot.<ref name="NW">{{Cite game/Neverwinter}}</ref>
+
+However, with rebuilding efforts in Neverwinter, the H
+
+=== LINKED WIKI PAGE (first 5000 chars): High Road (Waterdeep)
+
+{{Otheruses4|the part of the [[High Road]] that crossed [[Waterdeep]]|other uses|High Road (disambiguation)}}
+{{Road
+| image          = 
+| caption        = 
+| name           = High Road (Waterdeep)
+| type           = Street
+| aliases        = The High<ref name="drag410-p29" />
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep]], [[Sword Coast North]]
+| starts         = [[South Gate (Waterdeep)|South Gate]]
+| ends           = [[North Gate (Waterdeep)|North Gate]]
+| built          = 
+| refs           = <ref name="CSW3e-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| linkname       = High Road (Waterdeep)
+| inhabitants    = yes
+| locations      = yes
+| settlements    = 
+| roads          = yes
+| events         = 
+}}
+The '''High Road''', largely known to citizens as just '''the High''',<ref name="drag410-p29">{{Cite dragon/410/Eye on the Realms: The Talking Door|29}}</ref> was one of the main streets of [[Waterdeep]], connecting its southern and northern regions. Together with the other boulevards that ran through the city in the north-south direction, it was heavily trafficked, and one of the main routes of the city's [[dray]]s and [[hire-coach]]es.<ref name="WDH5e-p170">{{Cite book/Waterdeep: Dragon Heist|170}}</ref>
+
+==Geography==
+The High Road started at the [[South Gate (Waterdeep)|South Gate]] of Waterdeep, where it continued south as the [[Trade Way]]. From there it led northward, crossing the city and exiting it from the [[North Gate (Waterdeep)|North Gate]], from where it continued north along the [[Sword Coast North]] as the [[High Road|road of the same name]].<ref name="CSW3e-p15" />
+
+==Notable Locations==
+In southern Waterdeep, the intersection between the High Road and the [[Way of the Dragon (Waterdeep)|Way of the Dragon]] was known as the [[Waymoot (Waterdeep)|Waymoot]]. A [[magic]] signpost at the center of the intersection indicated the direction and distance to locations outside the city.<ref name="WDH5e-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref> [[Berendarr's World of Words]], a [[broadsheet]] store, was located here.<ref name="BoW">{{Cite web/Realmslore/Broadcryers of Waterdeep I: News for Sale}}</ref>
+
+==Appendix==
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[FR:Grand-route (Côte des Épées septentrionale)]]
+[[Category:Locations in the Field Ward of Waterdeep]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in the Sea Ward of Waterdeep]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations on the Trade Way]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+[[Category:Locations on Smuggler's Run]]
+[[Category:Locations on Coach Street]]
+[[Category:Locations on the Specterwalk]]
+[[Category:Locations on Trollwall Way]]
+[[Category:Locations on the Forcebar]]
+[[Category:Locations on Brian's Street]]
+[[Category:Locations on the Street of Smiths]]
+[[Category:Locations on Telshambra's Street]]
+[[Category:Locations on Buckle Alley]]
+[[Category:Locations on Sahtyra's Lane]]
+[[Category:Locations on Shoor Street]]
+[[Category:Locations on River Street]]
+[[Category:Locations on Lathin's Cut]]
+[[Category:Locations on Slipstone Street]]
+[[Category:Locations on Scroll Street]]
+[[Category:Locations on Snail Street]]
+[[Category:Locations on Waterdeep Way]]
+[[Category:Locations on the Coffinmarch]]
+[[Category:Locations on Selduth Street]]
+[[Category:Locations on Lamp Street]]
+[[Category:Locations on Andamaar's Street]]
+[[Category:Locations on Bazaar Street]]
+[[Category:Locations on Suldown Street]]
+[[Category:Locations on Trader's Way (Waterdeep)]]
+[[Category:Locations on Tarnath Street]]
+[[Category:Locations on Julthoon Street]]
+[[Category:Locations on Hassantyr's Street]]
+[[Category:Locations on Sulmor Street]]
+[[Category:Locations on Sidle Street]]
+[[Category:Locations on Delzorin Street]]
+[[Category:Locations on Vondil Street]]
+[[Category:Locations on Sashtar Street]]
+[[Category:Locations on Chasso's Trot]]
+[[Category:Locations on Thunderstaff Way]]
+[[Category:Locations on Skulls Street]]
+[[Category:Locations on Trollkill Street]]
+[[Category:Locations on the Fieldway]]
+[[Category:Locations on Gawenknife Street]]
+[[Category:Locations on Slipgate Street]]
+[[Category:Locations on the High Road]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Aelinthaldaar
+
+{{Location
+| image              = 
+| caption            = 
+| name               = Aelinthaldaar
+| alt spelling       = 
+| aliases            = 
+| type               = Settlement
+| region             = [[Sword Coast North]], [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="CoS.W-p6"/>
+| demonym            = 
+| population         = 
+| races              = [[Elves]]
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = <ref name="CoS.W-p6"/>
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = c. {{Yearlink|-8500}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = c. {{Yearlink|-1100}}
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS.W-p6"/>
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+'''Aelinthaldaar''' was the capital city of [[Illefarn]], an ancient [[elf|elven]] civilization in [[northwest Faerûn]]. The city was located where [[Waterdeep]] would later stand.<ref name="CoS.W-p6">{{Cite book/City of Splendors: Waterdeep|6-7}}</ref>
+
+==History==
+The city was founded ''circa'' {{Yearlink|-8500}} and stood for some seven thousand years.<ref name="CoS.W-p6"/>
+
+However, the elves destroyed their own city in {{Yearlink|-1100}} when they [[retreat]]ed to [[Evermeet]]. The coronal of Illefarn ordered the whole city razed with [[elven high magic]], leaving very little behind to indicate it had ever been there.<ref name="CoS.W-p6"/>
+
+==Legacy==
+The elves of Aelinthaldaar created a magical effect, or ''[[mythal]]'', known as the [[Melairshield]], which prevented the plateau from collapsing, regardless of activities below the surface. It remained in effect into the 14{{th}} century [[DR]].<ref name="CoS.W-p6"/><ref name="CoS.W-p20">{{Cite book/City of Splendors: Waterdeep|20}}</ref>
+
+All that physically remained of Aelinthaldaar were crypts below the [[Pantheon Temple of the Seldarine]] in Waterdeep.<ref name="CoS.W-p6"/>
+
+==Appendix==
+===Gallery===
+<gallery>
+The Destruction of Aelinthaldaar.jpg|''The elves destroying their own city.''
+</gallery>
+===References===
+{{refs}}
+[[FR:Aelinthaldaar]]
+[[Category:Settlements]]
+[[Category:Elven locations]]
+[[Category:Locations in Illefarn]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+

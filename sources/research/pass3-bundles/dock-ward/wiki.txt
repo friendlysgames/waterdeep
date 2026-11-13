@@ -1,0 +1,1613 @@
+=== WIKI PAGE: Waterdeep/Dock Ward
+
+{{Location
+| image              = Dockwardspring.png
+| caption            = The Dock Ward in Spring.
+| name               = Dock Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Dock Ward of Waterdeep''' was situated on the ''Great Harbor'' of [[Waterdeep]]. It contained the docks, shipbuilding yards, and warehouses for the sea trade. Compared to the rest of the city it was exceptionally dirty, smelly, and particularly dangerous. In the words of [[Elminster]] himself, the Dock Ward was a "riotous, nigh-perpetual brawl that covers entire acres, interrupted only by small buildings, intermittent trade businesses, an errant dog or two, and a few brave watchguards, who manage to keep the chaos from spreading beyond the docks; the whole lot wallowing in the stench of rotting fish."
+
+==History==
+''Circa'' [[1368 DR]], an enterprising [[halfling]] [[Joshuan Havabuck]] was involved in numerous schemes and business in the Dock Ward. His main profitable business was the [[lottery]] where the folk of Waterdeep placed bets on the total daily tonnage that entered the harbor. The numbers were reported by the dockmaster and the winnings were distributed accordingly. One ticket was sold for a single [[Golden lion (coin)|gold lion]] and the take, on average, was ten thousand coins. Amazingly, in 1368 DR, not ten people, picked the correct number, not even thirty. Every single gambler guessed it correctly. This was due the goddess of luck - [[Tymora]]'s power running amok in [[Faerûn]]. Joshuan Havabuck resorted to loaning ten million gold lions with steep interest from [[Mirt the Moneylender]] and pay the winnings out.<ref name="ty">{{Cite book/Tymora's Luck|101-104}}</ref>
+
+After the [[Spellplague]], the northern section of Waterdeep harbor became dilapidated with most of the harbor choked with sunken ship hulls. This section became known as [[Mistshore]].<ref>{{Cite book/Mistshore|?}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Inns, Taverns & Festhalls===
+* The [[Blackstar Inn]]: High-priced (for the Dock Ward) Inn run by [[Asiyra Boldwinter]].<ref name="VGtW-p206">{{Cite book/Volo's Guide to Waterdeep|206}}</ref>
+* The [[Bloody Fist]]: Tavern with near-constant brawls, run by [[Uglukh Vorl]].<ref name="VGtW-p204">{{Cite book/Volo's Guide to Waterdeep|204}}</ref>
+* The [[Blue Mermaid]]: Clean tavern; run by Mother [[Jalyth Hlommorath]].<ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200}}</ref>
+* The [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]]: On [[Net Street (south)|Net Street]]; a luxurious inn, taven & festhall; run by Lady [[Alathene Moonstar]].<ref name="VGtW-p193-196">{{Cite book/Volo's Guide to Waterdeep|193-196}}</ref>
+* [[Cookhouse Hall]]: Favorite festhall of sailors.<ref name="VGtW-p170">{{Cite book/Volo's Guide to Waterdeep|170}}</ref>
+* The [[Copper Cup]]: Off the [[Southyard]]; inn, tavern, & festhall owned by its dancers.<ref name="VGtW-p197-198">{{Cite book/Volo's Guide to Waterdeep|197-198}}</ref>
+* The [[Friendly Flounder]]: Small tavern; run by [[Eaengul Skullcrown]].<ref name="VGtW-p201">{{Cite book/Volo's Guide to Waterdeep|201}}</ref>
+*The [[Grog House]]: a tavern frequented by locals, [[:category:sailors|sailors]] and [[adventurer]]s.<ref name="AL-DWDC-p6">{{Cite adventurers league/Dock Ward Double Cross|6}}</ref>
+*[[Heartflame]]: A festhall on Snail Street owned by [[Nauloene Tharantra]] before it burned down on the [[Night of Pirates]] in late [[Uktar]], [[1367 DR]], the Year of the Shield.<ref name="WN">{{Cite web/Waterdeep News/Tharantra Husband-Hunting Again}}</ref>
+*The [[Hanged Man]]: Tavern for those of a literary bent, owned by [[Auldenuth Orbrymm]].<ref name="VGtW-p202">{{Cite book/Volo's Guide to Waterdeep|202}}</ref>
+* The [[Hanging Lantern]]: A festhall and escort service.<ref name="VGtW-p171-2">{{Cite book/Volo's Guide to Waterdeep|171-172}}</ref>
+* [[The Laughing Lass (Waterdeep)|The Laughing Lass]]: A brothel on Ship Street, run by [[Alanthra Ghellowsar]].<ref>{{Cite dungeon/184/Eye on the Realms: Rastigur Stornont|58}}</ref>
+* The [[Mermaid's Arms]]: A rowdy tavern and festhall run by [[Calathia Frost]] and favored by the crew of the [[Sea Sprite]]; located on Dock Street.<ref name="RGLoD-144" /><ref name="VGtW-p207">{{Cite book/Volo's Guide to Waterdeep|207}}</ref>
+* The [[Purple Palace]]: A festhall and boudoir.<ref name="VGtW-p208">{{Cite book/Volo's Guide to Waterdeep|208}}</ref>
+* The [[Rearing Hippocampus]]: An inn favored by caravan masters and run by [[Barl Shardrin]].<ref name="VGtW-p206" />
+* The [[Ship's Prow]]: An inn at the intersection of [[Fish Street (Waterdeep)|Fish Street]] and [[Ship Street (Waterdeep)|Ship Street]], run by [[Jhambrote Harkharedest]].<ref name="VGtW-p190-192">{{Cite book/Volo's Guide to Waterdeep|190-192}}</ref>
+* [[Shipmaster's Hall]]: Private inn and dining club for ship captain, owners, first mates and their guests.<ref name="VGtW-p170" />
+*The [[Skewered Dragon]]: A dilapidated tavern that faced an alley between Net Street and [[Fillet Lane]] with a ship's anchor lodged in the roof.<ref name="WDH-24">{{Cite book/Waterdeep: Dragon Heist|24}}</ref>
+* The [[Sleeping Snake]]: Rowdy tavern for dockhands and dancers, owner by [[Alard Belaerl]]<ref name="VGtW-p206" />
+* The [[Sleeping Wench]]: Somewhat quiet tavern, owned by [[Peldan Thrael]]<ref name="VGtW-p206" /><ref name="RGLoD-144" />
+* The [[Splintered Stair]]: Three-story inn run by [[Shalanna Duthmere]] .<ref name="VGtW-p206" />
+* The [[Thirsty Sailor]]: A dive bar at the intersection of Fish and Ship Street, run by [[Kaeroven Yuluth]].<ref name="VGtW-p187-189">{{Cite book/Volo's Guide to Waterdeep|187-189}}</ref>
+* The [[Thirsty Throat]]: Run down tavern, run by [[Bulaedo Ledgileer]].<ref name="VGtW-p203">{{Cite book/Volo's Guide to Waterdeep|203}}</ref>
+* [[Three Pearls Nightclub]]: On [[Pearl Alley]]; Run by [[Halidara Urinshoon]]; Entertainment, food & drink.<ref name="VGtW-p184-186">{{Cite book/Volo's Guide to Waterdeep|184-186}}</ref>
+*[[Warm Beds]]: A quiet inn run by [[Shalath Lythryn]].<ref name="RGLoD-144">{{Cite book/A Reader's Guide to R. A. Salvatore's the Legend of Drizzt|144}}</ref><ref name="VGtW-p205">{{Cite book/Volo's Guide to Waterdeep|205}}</ref>
+
+===Shops & Businesses===
+* [[Aurora's Realms Shop, Slut Street Catalogue Counter|Aurora's Whole Realms Shop Catalogue Counter]]: Goods retail chain.<ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200}}</ref>
+* [[Felhaur's Fine Fish]]: A fishmongery on Spices Street.<ref name="VGtW-p193-196" />
+* [[Gelfuril the Trader]]: sells or trades just about anything<ref name="RGLoD-144" /><ref name="VGtW-p199">{{Cite book/Volo's Guide to Waterdeep|199}}</ref>
+* [[Helmstar Warehouse]]: On [[Dock Street (Waterdeep)|Dock Street]]; run by [[Chuldan Helmstar]], a known fence.<ref name="VGtW-p173-175">{{Cite book/Volo's Guide to Waterdeep|173-175}}</ref>
+* The [[House of Pride]]: perfume shop; run by [[Arleeth Harmeth|Arleeth]] and [[Ilitel Harmeth]]
+* [[Magpie & Gannon's]]: One of the biggest and best book and map shops in the city as of the late 15{{th}} century DR.<ref name="GaN-p31">{{Cite organized play/LFR/Gilding a Noble|31}}</ref><ref name="CaD-p7">{{Cite organized play/LFR/Closing a Deal|7}}</ref>
+* [[Nestaur's Ropes]]
+* [[Old Xoblob Shop]]: trinkets and curios.<ref name="VGtW-p176-179">{{Cite book/Volo's Guide to Waterdeep|176-179}}</ref>
+*[[Red Sails Warehouse]]: economic storage in the form of "coffin-sized lockboxes"; located near [[Cod Lane]].<ref name="RGLoD-144" /><ref name="VGtW-p199">{{Cite book/Volo's Guide to Waterdeep|199}}</ref>
+* [[Serpent Books & Folios]]: On [[Book Street]]; Run by [[Jannaxil Serpentil]]; Maps, charts, and books.<ref name="VGtW-p180-183">{{Cite book/Volo's Guide to Waterdeep|180-183}}</ref>
+*[[Arnagus the Shipwright's residence|Shipwright]]: large building located on Dock Street used for shipbuilding. Owned by [[Arnagus|Arnagus the Shipwright]].<ref name="VGtW-p170" /><ref name="RGLoD-144" />
+*[[Torpus's Tannery]]
+
+===Guildhalls===
+* [[Coopers' Rest]], located in front of Shipper's Hall between Ship Street and Pressbow Lane, was the guildhall of the [[Coopers' Guild]].<ref name="RGLoD-144" />
+* [[Full Sails]], located along Dock Street, was the guildhall of the [[Most Diligent League of Sail-Makers and Cordwainers]] and it also doubled as a tavern.<ref name="CoS-p50">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|50}}</ref>
+* [[Jesters' Clubhouse]], located at the corner of [[Shrimp Alley]] and [[Pressbow Lane]], was the guildhall of the [[Jesters' Guild]].<ref>{{Cite comic/Night of the Moonpenguin|25}}</ref><ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref>
+* [[League Hall]], located along Tower Trail, was the guildhall of the [[League of Skinners & Tanners]].<ref name="CoS-p48">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|48}}</ref>
+* [[Metal House of Wonders]], located along Belnimbra's Street and Gut Alley, was the guildhall of the [[Splendid Order of Armorers, Locksmiths, and Finesmiths]].<ref name="CoS.WWiW-p54">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|54}}</ref>
+* [[Muleskull Tavern]], located along Ship Street, was the guildhall of the [[Dungsweepers' Guild]] and it also doubled as a tavern.<ref name="RGLoD-144" />
+* [[Seaswealth Hall]], located on the waterfront and overlooking the city's fish markets, was the guildhall of the [[Fishmonger's Fellowship]].<ref name="RGLoD-144" />
+* [[Shippers' Hall]], located along Oar Alley, was the guildhall of the [[Fellowship of Salters, Packers, and Joiners]].<ref name="CoS-p43">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|43}}</ref>
+* [[Shipwrights' House]], located along Dock Street, was the guildhall of the [[The Order of Master Shipwrights]].<ref name="RGLoD-144" />
+
+===Streets & Alleys===
+*[[Aline's Way]]
+*[[Cod Lane]], alley north of the Mermaid's Arms.<ref name="RGLoD-144" />
+*[[Dock Street (Waterdeep)|Dock Street]], a busy street the lines the harbor.<ref name="RGLoD-144" />
+*[[Hog Street]]
+*[[Keel Alley]]
+*[[Oar Alley]]
+*[[Odd Street]]
+*[[Nag Street]]
+*Net Street, street that continues east from the harbor.<ref name="RGLoD-144" />
+*[[Presper Street]], small street shooting off of Ship Street and ending in a cul-de-sac.<ref name="RGLoD-144" />
+*[[Pressbow Lane]], street running north-south and intersecting with Ship Alley.<ref name="RGLoD-144" />
+*[[Ship Street (Waterdeep)|Ship Street]], which curves north from the harbor.<ref name="RGLoD-144" />
+*[[Shrimp Alley]], street intersecting Ship Street and curving around northward.<ref name="RGLoD-144" />
+*[[Smuggler's Run]]
+*[[Snail Street]], intersected Presper Street at Shrimp Alley.<ref name=VGtW-204">{{Cite book/Volo's Guide to Waterdeep|204}}</ref>
+*[[Tower Trail]]
+
+===Miscellaneous===
+*[[Chaserperi warehouse]], a warehouse owned by the [[Chaserperi]] family, beginning with [[Auldo Chaserperi]].<ref name="SotM-p79">{{Cite book/Secrets of the Magister|79}}</ref>
+*[[East Torch Tower]]
+*[[Foggy Haven]], located on Dock Street.<ref name="RGLoD-144" />
+*[[Guard Barracks/Dock Ward|Guard Barracks]]
+*[[Ilmater's Safe Harbor]], a soup kitchen.
+*[[Sailor's Last Request]]
+*[[Shippers' Hall]], located behind the Coopers Guild between Ship Street and Pressbow Lane.<ref name="RGLoD-144" />
+*[[Stinking Sands]]
+
+==Appendix==
+{{Incomplete}}
+===Appearances===
+{{Appearances
+| adventures = ''[[Waterdeep (adventure)|Waterdeep]]'';''[[Waterdeep: Dragon Heist]]'';{{Anthapp|Acquisitions Incorporated (sourcebook)|The Orrery of the Wanderer}}
+| adventure refs = {{Duapp|128|Vampires of Waterdeep: The Fireplace Level}}
+| novels = ''[[The More Things Change]]'';''[[The Dream Spheres]]'';''[[The City of Splendors: A Waterdeep Novel]]'';''[[Volo Breaks a Hot Tale]]'';''[[The Unforking Family Tree]]'';''[[The Fallbacks: Bound for Ruin]]''
+| novel refs = ''[[Waterdeep (novel)|Waterdeep]]'';''[[Tymora's Luck]]'';{{Drapp|425|Spin a Yarn: The Night Thelva Clovenaxe Flew}}
+| comics = {{Comapp|Advanced Dungeons & Dragons (comic series)|30}};{{Comapp|Dungeons & Dragons: Forgotten Realms|1|3|4}}
+| comic refs = {{Comapp|Advanced Dungeons & Dragons (comic series)|27}}
+| video games = ''[[Idle Champions of the Forgotten Realms]]''
+| board games = ''[[Vault of Dragons (game)|Vault of Dragons]]''
+| gamebooks = ''[[Knight of the Living Dead]]''
+| organized play = ''[[Heirloom]]'';''[[Mystery of Deepwater Harbor]]'';''[[The Missing and the Missed]]'';''[[Closing a Deal]]'';''[[The Map with No Names]]'';''[[Dock Ward Double-Cross]]''
+| organized play refs = ''[[Hero of the Troll Wars]]''
+}}
+
+===Gallery===
+<gallery widths=200>
+DockWardBoundary.jpg|''Map showing the boundary of Doc Ward ''circa'' [[1357 DR]].''
+Dock_Ward.jpg|''The Dock Ward of Waterdeep.''
+</gallery>
+===References===
+{{refs}}
+[[FR:Quartier du port (Eauprofonde)]]
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep| ]]
+
+=== WIKI PAGE: Dock Ward
+
+'''Dock Ward''' might refer to the area or quarter containing the docks in any city or town.
+* [[Dock Ward of Waterdeep]]
+* [[Docks District (Neverwinter)]]
+* [[Calimport/Dock Ward]]
+
+{{Disambig}}
+
+=== LINKED WIKI PAGE (first 5000 chars): Elminster
+
+{{Person
+| image          = 
+<gallery>
+Elminster BGIII.png|BG3
+Elminster CLB alt.jpg|CLB
+Elmisnter_5e.jpg|5e
+Elminster 4e.jpg|4e
+Elminster2.jpg|thumb|3e
+Elminster_2e_Shadowdale.jpg|thumb|2e
+</gallery>
+| caption2       = ''Various depictions of Elminster.''
+| name           = Elminster Aumar
+| true name      = 
+| alt_spelling   = 
+| titles         = Armathor<ref name="CotH-p20" /><br />Court Mage<ref name="ToE-p190" /><br/>Lord of Summerstag<ref name="Unf-p41">{{Cite web/The Unforking Family Tree|41}}</ref>
+| aliases        = Eladar the Dark<ref name="D228-33">{{Cite dragon/228/The Athalantan Campaign|33}}</ref><ref name="E.MoM-p68" /><br />Wanlorn<ref name="tToE-p52">{{Cite book/The Temptation of Elminster/Paperback 1999|52}}</ref><br />Minstrel<ref name="Tantras.adv-p30-32">{{Cite book/Tantras (adventure)|30-32}}</ref><br />El'Minster<ref name="EE:A-p4">{{Cite book/Elminster's Ecologies/Anauroch|4}}</ref><br />Terminsel<ref name="BGII">{{Cite game/Baldur's Gate II: Shadows of Amn}}</ref><br />Elgorn<ref name="EMD-p35" /><br/>Farwalker<ref name="e-mm-p331">{{Cite book/Elminster: The Making of a Mage/MMP|331}}</ref><br/>El Min Star<ref name="MMvstDC-p12">{{Cite book/Mad Monkey vs the Dragon Claw|12}}</ref>
+| nicknames      = Stinkbeard<ref name="RotA.Sum-p100">{{Cite book/Return of the Archwizards/The Summoning|100}}</ref><br />Cleverbrows<ref name="Unf-p7">{{Cite web/The Unforking Family Tree|7}}</ref><br/>The Crafty<ref name="FMD-p26-27" /><br />The One Who Walks<ref name="ToE-p143-144" /><br />Old Sage<ref name="EE-3746">{{Cite digital book/Elminster Enraged/Kindle|3746}}</ref><br />The Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />The Old Mage<ref name="FRCS3E-266">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|266}}</ref>
+<br />The Sage of Shadowdale<ref name="FRCS3E-7" /><br />The Great Oversorcerer<ref name="CaN-p77">{{Cite book/Cormyr: A Novel/Paperback 1998|76}}</ref><br />Doombringer of Mystra<ref name="EE-3746" /><br/>The Meddler of Mystra<br />Old Weird-Beard<ref name="EiH-ch1">{{Cite book/Elminster in Hell||1}}</ref><ref name="ToE-p403-410" /><br/>Elminster the Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />Weavemaster<ref name="Spellstorm-p31-34" />
+| home           = [[Suzail]], [[Cormyr]]<ref name="EMD-p35" /><ref name="BED-p197">{{Cite book/Bury Elminster Deep|197}}</ref>
+| formerhomes    = [[Shadowdale (town)|Shadowdale]], [[Dalelands]]<ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><br />[[Galadorna]]<ref name="ToE-p190" /><br />[[Myth Drannor]], [[Cormanthyr]]<ref name="EiMD">{{Cite book/Elminster in Myth Drannor}}</ref><br />[[Hastarl]], [[Athalantar]]<ref name="E.MoM-p68" /><br />[[Wind Cavern]]<ref name="E.MoM-p29">{{Cite book/Elminster: The Making of a Mage/MMP|29}}</ref><br />[[Heldon]], [[Athalantar]]<ref name="D228-27">{{Cite dragon/228/The Athalantan Campaign|27}}</ref>
+| sex            = Male<br />{{Former}} Female<ref name="E.MoM-p132" /><ref name="EE-p62-65" /><ref name="ED-chp4" />
+| race           = [[Human]]<br />{{Former}} [[Drow]] (briefly)<ref name="EE-p62-65" />
+| ethnicity      = 
+| occupation     = [[Sage]]
+| age            = 1,280 (as of [[1492 DR]])
+| patron deity   = [[Mystra]]
+| languages      = 
+| basicrefs      = <ref name="FRCS3E-7" /><ref name="ED-chp4" /><ref name="HL-p48"/><ref name="HoH-p27-29" />
+| reckoning      = 
+| dob            = 212
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="FRCS3E-7" />
+| parents        = [[Elthryn Aumar]] (father)<br />[[Amrythale Goldsheaf]] (mother)
+| spouses        = 
+| siblings       = 
+| children       = [[Narnra Shalace]], [[Filfaeril Obarskyr]] (allegedly), [[Laspeera Inthré]] (allegedly), [[Amarune Whitewave]] (great-great granddaughter), [[Simon Aumar]] (great-great grandson)
+| familyrefs     = <ref name="E.MoM-p11-14" /><ref name="E.MoM-p18" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Chaotic good]]
+| class1e        = {{class table|edition=1e|[[Magic-user]]|26}}
+| refs1e         = <ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><ref name="HoH-p27-29">{{Cite book/Hall of Heroes|27-29}}</ref><ref name="CAB-p87">{{Cite book/Curse of the Azure Bonds|87}}</ref>
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{class table|edition=2e|[[Wizard]]|29}}
+| refs2e         = <ref name="HL-p48">{{Cite book/Heroes' Lorebook|48-50}}</ref><ref name="CotH-p42">{{Cite book/The Code of the Harpers|42}}</ref><ref name="Dales-p44-45" />
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 39
+| class3e        = {{class table|edition=3e|[[Fighter]]|1|[[Rogue]]|2|[[Cleric]]|3|[[Wizard]]|24|[[Archmage]]|5}}
+| refs3e   
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Mirt
+
+{{Person
+| image          = Mirt-5e.jpg
+| caption        = 
+| name           = Mirt
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Mertonius<ref name="HoH-p86" /><br/>Tonius<ref name="HoH-p86" />
+| nicknames      = Mirt the Moneylender<ref name="FRCS3e-p181-182" /><br/>Mirt the Merchant<ref name="DtU">{{Cite game/Descent to Undermountain}}</ref><br/>Mirt the Merciless<ref name="FRCS3e-p181-182" /><br/>Old Wolf<ref name="FRCS3e-p181-182" /><br/>Lord Walrus<ref name="ED-p15" /><br/>Sir Beer-Belly (by [[Nymara Scheiron]])<ref name="ES-p15">{{Cite book/Elfsong (1994)|15|1}}</ref>
+| home           = [[Waterdeep]], [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Tethyrian]]<ref name="CoS.W-p54-55" />
+| occupation     = Moneylender<br/>[[Masked Lord]]<br/>{{Former}} [[adventurer]], [[mercenary]]
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]]<ref name="WDH5e-p210-211">{{Cite book/Waterdeep: Dragon Heist|210-211}}</ref>
+| basicrefs      = <ref name="FRCS3e-p181-182" /><ref name="CoS.W-p54-55" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = [[Asper]]
+| siblings       = 
+| children       = 
+| familyrefs     = <ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Fighter]]|9|[[Thief]]|7}}<br/>{{Class table|edition=2e|[[Fighter]]|11|[[Thief]]|7}}
+| refs2e         = <ref name="HoH-p86">{{Cite book/Hall of Heroes|p86}}</ref><ref name="CoS2e-WWW-p70">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|70}}</ref>
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 13
+| class3e        = {{class table|edition=3e|[[Rogue]]|5|[[Fighter]]|8}}
+| refs3e         = <ref name="FRCS3e-p181-182">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|181-182}}</ref><ref name="CoS.W-p54-55">{{Cite book/City of Splendors: Waterdeep|54-55}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = 9
+| class5e        = 
+| refs5e         = <ref name="WDH5e-p210-211" />
+}}
+'''Mertonius''', better known as '''Mirt "the Moneylender"''' ({{Pronounce|MERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}} {{Pronounce|MEERT|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>|alt=yes}}), was a [[human]] [[rogue]] and retired [[adventurer]] and a [[mercenary]] general, when he was known as '''Mirt the Merciless''' or '''the Old Wolf'''<ref name="FRCS3e-p181-182" /> or '''Lord Walrus'''.<ref name="ED-p15">{{Cite book/Elminster's Daughter/MMP|15|1}}</ref> He became a member of the [[Harpers]] as well as a [[Lords of Waterdeep|Masked Lord]] of [[Waterdeep]], which was commonly known.<ref name="FRCS3e-p181-182" /> Mirt was also one of the most infamous [[factor]]s of Waterdeep.<ref name="EFR-p114">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|114}}</ref>
+
+==Description==
+As of the 1370s DR, he was old, fat, and wheezy.<ref name="FRCS3e-p181-182" />
+
+==Personality==
+Outwardly, Mirt appeared to be a loud and drunken braggart who enjoyed telling long-winded stories of his exploits, as well as roughhousing and tavern brawls. However, this was a façade concealing his cunning and good judge of character, as well as his surprising agility. These traits helped him grow much wealthier in his investments later in life than being an adventurer or mercenary ever had. He had a good heart and desired to make [[Faerûn]] a better place than he'd found it.<ref name="FRCS3e-p181-182"/>
+
+Mirt was sometimes seen wearing multiple artificial [[roses]] on his shoulder, signaling his interest to find several romantic partners to spend the night with.<ref name="CF-LCF">{{Cite web/Candlekeep forum/Questions for Ed Greenwood (2004)/02-20 - Lingerie, Courtship and Foreplay}}</ref>
+
+==Relationships==
+He was one of the few trusted friends of [[Evermeet]] and had a ''[[portal]]'' that could give him access to the elven island when he so wished. He carried a ''[[Purple Dragon ring]]'', which allowed him to speak in King [[Azoun IV]]'s name.<ref>{{Cite book/Crown of Fire/Paperback 1994|230}}</ref>
+
+===Family===
+His wife and heir,<ref>{{Cite book/Spellfire}}</ref> [[Asper]], was an informal member of the [[Gray Hands]]. She preceded him in death.<ref name="CoS.W-p54-55" /><ref name="WDH5e-p210-211" />
+
+===Associates===
+Due to Mirt's extended age, his many business dealings, his associ
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Mistshore
+
+{{otheruses4|a location in Waterdeep|the novel|Mistshore (novel)}}
+{{Location
+| image              = Mistshore.jpg
+| caption            = Mistshore at night.
+| name               = Mistshore
+| alt spelling       = 
+| aliases            = 
+| type               = Neighborhood
+| region             = [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WDH5e-p65-66">{{Cite book/Waterdeep: Dragon Heist|65-66}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+'''Mistshore''' was the name given to the dilapidated north shore of [[Waterdeep]]'s harbor in the late 15{{th}} century [[DR]].<ref name="Mistshore">{{Cite book/Mistshore}}</ref>
+
+==History==
+After the [[Spellplague]] of {{Yearlink|1385}}, Waterdeep went into a decline and maintenance of the harbor was neglected. Many ships sank or were scuttled in the northern harbor and eventually Waterdeep's outcasts created a small community on the wrecked ship hulls. The harbor water was polluted and smelled horribly.<ref name="Mistshore"/>
+
+In [[Mirtul]] of {{Yearlink|1491}}, Mistshore was largely destroyed in a massive fire, with most ships burning down to the waterline and having to be towed out of the harbor to prevent other vessels from running afoul the wreckage.<ref>{{Cite book/Death Masks|?}}</ref> By {{Yearlink|1492}}, most buildings in the neighborhood were still burned and abandoned.<ref name="WDH5e-p65-66" />{{Waterdeep-time}}
+
+==Description==
+Mistshore was considered so dangerous that the [[City Watch (Waterdeep)|City Watch]] refused to send patrols into the area.<ref name="Mistshore"/>
+
+==Notable Locations==
+;Crib:
+:This collection of partially sunken ships was the hideout of the crime lord [[Arowell]] prior to his death at the hands of [[Cerest Elenithil]]. The ships were arranged in a circle with suspended platforms in the center. Arowell sponsored [[gladiator]]ial contests to amuse the inhabitants of Mistshore.
+;[[Dusk to Dawn]]
+:This tavern was nothing more than a [[tent]] that moved to different locations in Mistshore nightly.<ref name="LFR-p15">{{Cite organized play/LFR/Mystery of Deepwater Harbor|15}}</ref>
+;Hearthfire:
+:The wretched inhabitants of Mistshore created a permanent firepit on which to cook.
+;Waltzing Ferryman:
+: Sea wraiths kept the inhabitants of Mistshore from approaching this old wreck. It was inhabited by an old [[spellscar]]red mage and his friend.<ref name="Mistshore"/>
+
+==Inhabitants==
+The treasure hunter [[Grinda Garloth]] lived in a small residence in Mistshore. She often used her ''[[apparatus of Kwalish]]'' to search for treasure in [[Deepwater Harbor]].<ref name="WDH5e-p65-66" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+:;Gamebooks
+::''[[To Catch a Thief]]''
+
+===References===
+{{Refs}}
+[[FR:Rivebrume (Eauprofonde)]]
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep]]
+
+
+
+
+
+[[Category:Locations in the Dock Ward of Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): The Blackstar Inn
+
+{{DEFAULTSORT:Blackstar Inn}}
+{{Building
+| image         = BlackstarLane.JPG
+| caption       = A map showing the Blackstar Inn (labeled #9) on Blackstar Lane.
+| name          = The Blackstar Inn
+| aliases       = 
+| type          = [[Inn]]
+| architecture  = 
+| floors        = 
+| location      = [[Gut Alley]], the [[Waterdeep/Dock Ward|Dock Ward]]
+| built         = 
+| destroyed     = 
+| owner         = [[Asiyra Boldwinter]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WDH.M"/><ref name="CS.M7"/><ref name="CS-p13"/><ref name="IA.W"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 3
+| tankards      = 
+| coins         = 4
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-p206">{{Cite book/Volo's Guide to Waterdeep|206}}</ref>
+| usethe        = 
+| useon         = 
+| inhabitants   = Inhabitants of the Blackstar Inn
+| locations     = 
+| organizations = 
+}}
+The '''Blackstar Inn''' was an [[inn]] located in the city of [[Waterdeep]] during the 14{{th}} century [[DR]].<ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="CS.M7">{{Cite book/City System/Map07}}</ref><ref name="CS-p13">{{Cite book/City System|13}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Description==
+The exterior windows were all barred for security, giving the inn the look of a fortress from the outside.<ref name="VGtW-p206"/>
+
+==Location==
+The inn was located on the east side of [[Gut Alley]] were it was intersected by [[Blackstar Lane]] in Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]].<ref name="WDH.M"/><ref name="CS.M7"/><ref name="CS-p13"/><ref name="IA.W"/>
+
+==Inhabitants==
+The Blackstar Inn was owned by [[Asiyra Boldwinter]] during the mid-to-late 14{{th}} century [[DR]]. Armed guards protected the entryway and the stables.<ref name="VGtW-p206"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Inns]]
+[[Category:Locations on Gut Alley]]
+[[Category:Locations on Blackstar Lane]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Asiyra Boldwinter
+
+{{DEFAULTSORT:Boldwinter, Asiyra}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Asiyra Boldwinter
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]], the [[Sword Coast North]]
+| formerhomes    = 
+| sex            = Female
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Innkeep
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="VGtW-p206"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Asiyra Boldwinter''' was an innkeep inhabiting the city of [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="VGtW-p206">{{Cite book/Volo's Guide to Waterdeep|206}}</ref>
+
+==Personality==
+She carried an air of superiority around her.<ref name="VGtW-p206"/>
+
+==Activities==
+Asiyra owned [[the Blackstar Inn]], an expensive establishment located on [[Gut Alley]] and [[Blackstar Lane]] in the [[Waterdeep/Dock Ward|Dock Ward]] of Waterdeep.<ref name="VGtW-p206"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Innkeeps]]
+[[Category:Businesspeople]]
+[[Category:Humans]]
+[[Category:Inhabitants of the Blackstar Inn]]
+[[Category:Inhabitants of the Dock Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Bloody Fist
+
+{{Building
+| image         = PearlAlley.JPG
+| caption       = A map showing the Bloody Fist on Presper Street.
+| name          = Bloody Fist
+| aliases       = 
+| type          = [[Tavern]]
+| architecture  = 
+| floors        = 1
+| location      = [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p104"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Bloody Fist''' was a [[tavern]] located in [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoSW-p104">{{Cite book/City of Splendors: Waterdeep|104}}</ref>
+
+==Description==
+The building stood just one story tall.<ref name="CoSW-p104"/>
+
+==Location==
+The Bloody Fist was located in Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]] where [[Presper Street]] and [[Shrimp Alley]] joined [[Snail Street]].<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref><ref name="CS-p13-14">{{Cite book/City System|13-14}}</ref><ref name="CS.M7">{{Cite book/City System/Map07}}</ref><ref name="IA">{{Cite interactive atlas|Volo 5308a}}</ref>
+
+==Activities==
+A man named [[One-Eyed Jukk]] dealt in stolen goods within the Bloody Fist.<ref name="CoSW-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on Presper Street]]
+[[Category:Locations on Shrimp Alley]]
+[[Category:Locations on Snail Street]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Uglukh Vorl
+
+{{DEFAULTSORT:Vorl, Uglukh}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Uglukh Vorl
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| gender         = 
+| race           = [[Half-orc]]
+| ethnicity      = 
+| occupation     = Barkeep
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="VGtW-p204">{{Cite book/Volo's Guide to Waterdeep|204}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Lawful evil]]
+| class2e        = {{class table|edition=2e|[[Fighter]]|6}}
+| refs2e         = <ref name="VGtW-p231">{{Cite book/Volo's Guide to Waterdeep|231}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Uglukh Vorl''' was a [[half-orc]] barkeep and proprietor of the [[Bloody Fist]] tavern in the city of [[Waterdeep]] in the 14{{th}} century [[DR]].<ref name="VGtW-p204" />
+
+==Personality==
+Uglukh was well known to yawn in the face of combat.<ref name="VGtW-p204" />
+
+==Possessions==
+The personal weapon of Uglukh was a [[greataxe]], whose central shaft ended in a [[spear]]head, and was laced with [[Drow knockout poison|sleep poison]].<ref name="VGtW-p204" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Barkeeps]]
+[[Category:Half-orcs]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Fighters]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Blue Mermaid
+
+{{Building
+| image         = CodLane.JPG
+| caption       = A map showing the Blue Mermaid on Ship Street.
+| name          = Blue Mermaid
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 2
+| location      = [[Dock Ward of Waterdeep|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="WatN-p26"/><ref name="CoS-CG-p55"/><ref name="VGtW-p200"/><ref name="CoS-W-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 2
+| coins         = 3
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-p200"/>
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Blue Mermaid''' was a tavern in the [[Dock Ward of Waterdeep|Dock Ward]] of [[Waterdeep]] in the mid–14{{th}} century [[DR]].<ref name="WatN-p26">{{Cite book/Waterdeep and the North|26}}</ref><ref name="CoS-CG-p55">{{Cite book/City of Splendors (boxed set)/Campaign Guide|55}}</ref><ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200,237,240}}</ref><ref name="CoS-W-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref> It was owned by Mother [[Jalyth Hlommorath]] in the mid-1360s DR.<ref name="VGtW-p200"/>
+
+==Location==
+This tavern stood along [[Ship Street (Waterdeep)|Ship Street]], between [[Keel Alley]] and [[Oar Alley]].<ref>{{Cite book/City of Splendors (boxed set)/Map}}</ref>
+
+==Atmosphere==
+[[Volo]] described it as a perfectly safe place with perfectly safe patrons, and accordingly he called it "boring".<ref name="VGtW-p200"/>
+
+==Description==
+The tavern was well appointed and clean, if a bit tired.<ref name="VGtW-p200"/>
+
+==Services==
+It was known for good [[ale]] and bad [[wine]].<ref name="VGtW-p200"/>
+
+==Features==
+From a dry well in the cellar, a passage known as the Blue Mermaid Passage led down into [[Skullport]].<ref name="CoS-W-p126">{{Cite book/City of Splendors: Waterdeep|126}}</ref>
+
+==Appendix==
+===References===
+{{refs}}
+[[Category:Taverns]]
+[[Category:Locations on Oar Alley]]
+[[Category:Locations on Ship Street (Waterdeep)]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Jalyth Hlommorath
+
+{{DEFAULTSORT:Hlommorath, Jalyth}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Jalyth Hlommorath
+| alt_spelling   = 
+| titles         = Mother
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Blue Mermaid]], [[Dock Ward of Waterdeep|Dock Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female
+| gender         = 
+| race           = 
+| ethnicity      = 
+| occupation     = Tavern keeper
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200}}</ref>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+Mother '''Jalyth Hlommorath''' was the proprietress of the [[Blue Mermaid]] tavern in [[Waterdeep]] in the mid-1360s [[DR]]. She was motherly, friendly, and kind.<ref name="VGtW-p200"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tavern owners]]
+[[Category:Inhabitants of the Blue Mermaid]]
+[[Category:Inhabitants of the Dock Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Blushing Mermaid (Waterdeep)
+
+{{Otheruses4|the festhall in Waterdeep|the tavern in Baldur's Gate|Blushing Mermaid}}
+{{Building
+| image         = BlushingMermaid-Valerie Valusek-VgtW-194.png
+| caption       = Customers enjoy the food and service at the Blushing Mermaid.
+| name          = Blushing Mermaid
+| aliases       = 
+| type          = Tavern, inn, festhall
+| architecture  = Connected buildings
+| floors        = 2 and 3 stories
+| location      = [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = Lady [[Alathene Moonstar]]
+| staff         = [[Reetha (barbarian)|Reetha]], [[Leilatha Subraira]]
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="VGtW-193">{{Cite book/Volo's Guide to Waterdeep|193}}</ref><ref name="VGtW-194">{{Cite book/Volo's Guide to Waterdeep|194}}</ref><ref name="CoSW-106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 3
+| tankards      = 3
+| coins         = 4
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-193" />
+| usethe        = yes
+| useon         = 
+| inhabitants   = Inhabitants of the Blushing Mermaid (Waterdeep)
+| locations     = 
+| organizations = Organizations in the Blushing Mermaid (Waterdeep)
+}}
+The '''Blushing Mermaid''' was a tavern, inn, and [[festhall]] in [[Waterdeep]] managed by Lady [[Alathene Moonstar]] ''circa'' the {{YearlinkName|1372}}.<ref name="CoSW-106" /> It was well-known for its luxurious atmosphere, privacy, and unique dining with [[merfolk]] servers.<ref name="VGtW-193" /><ref name="VGtW-194" />
+
+==Location==
+[[File:NetStreet-1372.png|thumb|right|270px|''The Blushing Mermaid (labeled <code>D36</code>) ''circa'' 1372 DR.'']]
+This establishment was located on [[Net Street (south)|Net Street]] in the [[Waterdeep/Dock Ward|Dock Ward]], just one door up from [[Dock Street (Waterdeep)|Dock Street]] and its intersection with [[Keel Alley]].<ref name="CS-14">{{Cite book/City System|14}}</ref><ref name="CSmap07">{{Cite book/City System/Map07}}</ref><ref name="WatN-26">{{Cite book/Waterdeep and the North|26}}</ref><ref name="VGtW-195">{{Cite book/Volo's Guide to Waterdeep|195}}</ref><ref name="VGtW-map">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="CoS-CG-55">{{Cite book/City of Splendors (boxed set)/Campaign Guide|55}}</ref><ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref><ref name="CoSW-105">{{Cite book/City of Splendors: Waterdeep|105}}</ref>
+[[File:SpicesStreet-VgtW-195.png|thumb|right|270px|''Map showing the Blushing Mermaid on Net Street, ''circa'' 1367 DR.'']]
+
+==Structure==
+The Blushing Mermaid was a converted villa<ref name="PP-156">{{Cite book/Powers & Pantheons|156}}</ref><ref name="CoSW-45">{{Cite book/City of Splendors: Waterdeep|45}}</ref><ref name="V-2">{{Cite web enhancement/Vanrakdoom|2}}</ref> that consisted of three two- and three-story connected buildings.<ref name="VGtW-193" /><ref name="CoSW-106" /><ref name="CoS-CG-55" /> The lowest level was connected to a series of well-secured secret tunnels once used for smuggling. The merfolk staff used these to commute to work, swimming in from the harbor and exiting the same way when their shift was over.<ref name="VGtW-193" />
+
+==Interior==
+The rooms were luxuriously appointed and each one was a suite composed of a reception area that could also be an office, a private bedroom, and a private bathroom. The common areas were partitioned with thin curtains and had many cushions for comfortable lounging. The carpets were thick and sound-absorbent. The main attraction was a large heated pool filled with scented water where guests could soak while being served food and drink by mermaids and mermen.<ref name="VGtW-193" />
+
+It was a well-known fact that the Blushing Mermaid was riddled with secret passages. Nearly every room had a sliding panel in the wall, but they were spell-locked so only Lady Alathene or a trusted staff member carrying one of four enchanted [[silver]] hands could operate them. Guests seldom if ever managed to circumvent Lady Alathene's spells.<ref name="VGtW-193" />
+
+===Atmosphere===
+The Blushing Mermaid was a refuge from the loud and noisome harbor. Many hanging lamps gave off pleasant scents and warm [[amber]] glows. The plush carpets and gauzy curtains made cozy nooks for socializing between guests and escorts. All the waitstaff, maids, and escorts (and even Lady Alathene herself<ref name="VGtW-194" />) wore black masks made of thin, light metal with black veils to hide their faces, adding an air of mystery.<ref name="VGtW-193" /> Even more macabre was the spiral staircase that wound from the main dining pool room up to a rooftop greenhouse or garden under a glass cupola. The railings and risers were decorated with human bones affixed by thin wire.<ref name="VGtW-196">{{Cite book/Volo's Guide to Waterdeep|196}}</r
+
+=== LINKED WIKI PAGE (first 5000 chars): Net Street (south)
+
+{{Road
+| image          = NetStreetS.JPG
+| caption        = A map showing Net Street in the Dock Ward of Waterdeep.
+| name           = Net Street
+| type           = Road
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = The [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| starts         = The [[Way of the Dragon (Waterdeep)|Way of the Dragon]]
+| ends           = [[Dock Street (Waterdeep)|Dock Street]]
+| built          = 
+| refs           = <ref name="CS.M7"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| linkname       = Net Street (south)
+| inhabitants    = 
+| locations      = Locations on Net Street (south)
+| organizations  = 
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+'''Net Street''' was a road that was located in the city of [[Waterdeep]].<ref name="CS.M7">{{Cite book/City System/Map07}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+Net Street was located in the south section of Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]]. It branched west off of the [[Way of the Dragon (Waterdeep)|Way of the Dragon]] then turned southwest to terminate on [[Dock Street (Waterdeep)|Dock Street]] on the waterfront with an intersection with [[Keel Alley]]. [[Snail Street]] and [[Pressbow Lane]] connected with Net Street near its midpoint.<ref name="CS.M7"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Notable Locations==
+The [[Hanged Man (Waterdeep)|Hanged Man]] tavern was located at the intersection of Net Street and Snail Street and [[Full Sails]] tavern was located on the waterfront. The [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]] sat on the intersection with Keel Alley.<ref name="CS.M7"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Locations on Dock Street (Waterdeep)]]
+[[Category:Locations on Snail Street]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+[[Category:Locations on Pressbow Lane]]
+[[Category:Locations on Keel Alley]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Alathene Moonstar
+
+{{DEFAULTSORT:Moonstar, Alathene}}
+{{Person
+| image          = Alathene Moonstar-VgtW-196.png
+| caption        = Lady Alathene watches over her festhall.
+| name           = Alathene Moonstar
+| alt_spelling   = 
+| titles         = Lady
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = The [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]] festhall, [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = [[Illuskan]]
+| occupation     = Proprietress
+| age            = 
+| patron deity   = [[Selûne]]
+| languages      = 
+| basicrefs      = <ref name="VGtW-194">{{Cite book/Volo's Guide to Waterdeep|194}}</ref><ref name="PP-157">{{Cite book/Powers & Pantheons|157}}</ref><ref name="CoS.W-p62">{{Cite book/City of Splendors: Waterdeep|62}}</ref>
+| reckoning      = 
+| dob            = 1083
+| dobnotes       = <ref name="Alathene" group="note">This assumes she reached adulthood in 1099 DR at the age of 16 as stated in [[Powers & Pantheons]] on page 156.</ref>
+| turned         = 1195
+| turnednotes    = became an [[archlich]]
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="PP-156">{{Cite book/Powers & Pantheons|156}}</ref>
+| parents        = [[Andvarran Moonstar]] (father)
+| spouses        = 
+| siblings       = Lord [[Vanrak Moonstar]] (twin brother)
+| children       = 
+| familyrefs     = <ref name="PP-156" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|19}}
+| refs2e         = <ref name="VGtW-214">{{Cite book/Volo's Guide to Waterdeep|214}}</ref>
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Chaotic good]]
+| challenge35    = 
+| class35        = {{Class table|edition=3e|[[Wizard]]|15|[[Arcane devotee]]|5}}
+| refs35         = <ref name="CoS.W-p62" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Alathene Moonstar''' was the proprietress of the [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]] inn, tavern, and festhall in Waterdeep ''circa'' the {{YearlinkName|1372}}.<ref name="CoS.W-p62" /> She was also an [[archlich]], the leader of the [[Maids of the Midnight Moon]], and a former matriarch of House [[Moonstar (family)|Moonstar]].<ref name="PP-156" />
+
+==Description==
+Lady Alathene was very old but maintained her stunning good looks by magical means. She always dressed in the formal style with long, elaborately decorated gowns, [[corset]]s that accentuated her bust, and veils on her head.<ref name="VGtW-194" /><ref name="PP-157" /> She had an aristocratic bearing and manner of speaking that gave the impression of royalty.<ref name="CoS.W-p62" /> When interacting with her staff or clients of the Blushing Mermaid, she usually donned the same black metal mask and face veil as her employees wore.<ref name="VGtW-194" />
+
+==Personality==
+Lady Alathene was always a devout worshiper of [[Selûne]] and a staunch supporter of her [[Church of Selûne|church]]. When her twin brother [[Vanrak Moonstar|Vanrak]] turned to [[Shar]], it began a family conflict that lasted for centuries. Alathene became obsessed with bringing her wayward brother to justice, even to the point of embracing [[undeath]] to carry on the quest for as long as it took.<ref name="PP-157" /> She was a [[wizard]] of great accomplishment and did not hesitate to use her powers when defending her home and her staff at the Blushing Mermaid.<ref name="VGtW-195">{{Cite book/Volo's Guide to Waterdeep|195}}</ref> She found joy and amusement watching young people enjoy the festivities in her establishment and monitored it closely for any signs of trouble.<ref name="VGtW-196">{{Cite book/Volo's Guide to Waterdeep|196}}</ref> She had few close friends and was always on the lookout for people she could trust with important tasks.<ref name="PP-157" /><ref name="VGtW-214" />
+
+==Abilities==
+She was a master of wizardry, able to cast spells from any [[school of magic]].<ref name="PP-157" /><ref name="VGtW-214" /> She was an [[arcane devotee]] of Selûne<ref name="CoS.W-p62" /> and created [[Arcane magic|arcane]] versions of many of the [[Divine magic|divine]] spells granted only to [[Specialty priest|favored priests]] of the Moonmaiden,<ref name="PP-157" /> such as ''[[moon blade]]'', ''[[wall of moonlight]]'', ''[[moon path]]'', and ''[[moonweb]]''.<ref name="FA-137-138">{{Cite book/Faiths & Avatars|137-138}}</ref>
+
+Lady Alathene could control her undead powers, switching them on or off at will. She was immune to being [[Turn undead|turned]] by [[cleric]]s.<ref name="PP-157" /><ref name="VGtW-214" />
+
+==Activities==
+As of 1372 DR, Lady Alathene was the 
+
+=== LINKED WIKI PAGE (first 5000 chars): Cookhouse Hall
+
+{{Building
+| image         = Map06-Fishmongers-Smokehouse.png
+| caption       = A map showing Cookhouse Hall (labeled 230) southwest of Smuggler's Run.
+| name          = Cookhouse Hall
+| aliases       = 
+| type          = Civic building
+| architecture  = 
+| floors        = 2
+| location      = [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = 
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+'''Cookhouse Hall''' was a civic building located in [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+
+==Description==
+The building stood two storys tall.<ref name="CoSW-p106"/>
+
+==Location==
+Cookhouse Hall was located in the far southeast corner of Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]] near the city's outer wall just southwest of [[Smuggler's Run]] at the end of [[Tower Trail]].<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref><ref name="CS-p13">{{Cite book/City System|13}}</ref><ref name="CS.M6">{{Cite book/City System/Map06}}</ref><ref name="IA">{{Cite interactive atlas|Dock South Ward}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Official buildings]]
+[[Category:Halls]]
+[[Category:Locations on Tower Trail]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Copper Cup
+
+{{Building
+| image         = CopperCup.png
+| caption       = A map showing the Copper Cup on Smuggler's Run.
+| name          = Copper Cup
+| aliases       = 
+| type          = [[Festhall]]
+| architecture  = 
+| floors        = 4 or 5
+| location      = [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Copper Cup''' was a [[festhall]] located in [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+
+==Description==
+The building compound was four and five stories tall.<ref name="CoSW-p106"/>
+
+==Location==
+The Copper Cup was located in the southeast corner of Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]] on [[Smuggler's Run]] and bordering the [[Southyard]] near the [[High Road (Waterdeep)|High Road]].<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref><ref name="CS-p13-14">{{Cite book/City System|13-14}}</ref><ref name="CS.M6">{{Cite book/City System/Map06}}</ref><ref name="IA">{{Cite interactive atlas|Volo 5305}}</ref>
+
+==Activities==
+The Copper Cup hosted annual guild-sponsored galas celebrating [[Fleetswake]] during the last days of [[Ches]].<ref name="CoSW-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Festhalls]]
+[[Category:Businesses]]
+[[Category:Locations on Smuggler's Run]]
+[[Category:Locations on the Southyard]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Friendly Flounder
+
+{{Building
+| image         = StreetCurtains.JPG
+| caption       = A map showing the Friendly Flounder on Book Street.
+| name          = The Friendly Flounder
+| type          = Tavern
+| location      = [[Book Street]],<br /> [[Dock Ward of Waterdeep]]<ref name="VGtW-p201">{{Cite book/Volo's Guide to Waterdeep|201}}</ref>
+| owner         = [[Eaengul Skullcrown]]
+| staff         = 
+| services      = Food and drink ([[blackbread]], fried fish, [[ale]], [[wine]])
+| worship       = 
+| pipes         = 
+| tankards      = 3
+| coins         = 3
+| daggers       = 
+| inhabitants   = Inhabitants of the Friendly Flounder
+| locations     = 
+| organizations = 
+}}
+'''The Friendly Flounder''' was a tavern in the [[Dock Ward of Waterdeep|Dock Ward]] of [[Waterdeep]]<ref name="VGtW-p201"/> known for its excellent fried fish.<ref name="ESh-p191">{{Cite book/Elfshadow/Paperback 2000|191}}</ref>
+
+==Description==
+The owner in the 1360s DR was [[Eaengul Skullcrown]], a giant man known for his ability to see magical enchantments.<ref name="VGtW-p201"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on Book Street]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Eaengul Skullcrown
+
+{{DEFAULTSORT:Skullcrown, Eaengul}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Eaengul Skullcrown
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = The [[Waterdeep/Dock Ward|Dock Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Tavern owner
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="VGtW-p201"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Eaengul Skullcrown''' was a tavern owner inhabiting the city of [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="VGtW-p201">{{Cite book/Volo's Guide to Waterdeep|201}}</ref>
+
+==Description==
+He was bald and towered over most men. He was rumored to be able to naturally see the auras of magical enchantments.<ref name="VGtW-p201"/>
+
+==Activities==
+Eaengul owned the [[Friendly Flounder]], a tavern located on [[Book Street]] in Waterdeep's [[Waterdeep/Dock Ward|Dock Ward]].<ref name="VGtW-p201"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Tavern owners]]
+[[Category:Businesspeople]]
+[[Category:Humans]]
+[[Category:Inhabitants of the Friendly Flounder]]
+[[Category:Inhabitants of the Dock Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Nauloene Tharantra
+
+{{DEFAULTSORT:Tharantra, Nauloene}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Nauloene Tharantra
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = the Flouncing Flame
+| home           = [[Castle Ward of Waterdeep|Castle Ward]], [[Waterdeep]]
+| formerhomes    = 
+| sex            = Female
+| race           = 
+| ethnicity      = 
+| occupation     = Lady of pleasure, festhall proprietress
+| age            = 
+| patron deity   = 
+| languages      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Nauloene Tharantra''' was a notorious hedonist and businesswoman living in [[Waterdeep]] in the latter half of the [[:Category:14th century|14th century DR]].<ref name="WN">{{Cite web/Waterdeep News/Tharantra Husband-Hunting Again}}</ref>
+
+==Description==
+Judging by her nickname and her profession, she was probably a redhead who honored [[Sune]], but this is uncertain.{{Speculation}} She lived on [[Sevenlamps Cut]] in the [[Castle Ward of Waterdeep]]. Her last known public appearance was sometime around the [[1374 DR|Year of Lightning Storms, 1374 DR]], when she stood on the stage of the [[Splendid Falcon]] theater and dancehall (also in the Castle Ward) and announced that she was looking to marry again, stating she felt sufficient time had passed since enduring her last husband's cruel nature. She wore a sparkling [[gown]] made of chains in a crisscross pattern adorned with blue [[diamond]] teardrop pendants dangling from various locations.<ref name="WN" />
+
+==Personality==
+She was a lady of pleasure, known to be free-loving and free-spending.<ref name="WN" />
+
+==Activities==
+For many years, Nauloene was the manager and hostess of the [[Heartflame]] festhall on [[Snail Street]] in the [[Dock Ward of Waterdeep]] until it burned down on the [[Night of Pirates]] in [[Uktar]], the [[1367 DR|Year of the Shield, 1367 DR]].<ref name="WN" />
+
+==History==
+Nauloene was married nine times before her announcement on the stage of the Splendid Falcon theater. Five of her husbands died; two fled Waterdeep citing personality and lifestyle conflicts; one was exposed as a [[doppelganger]] and killed in the streets of Waterdeep; and the ninth husband, merchant [[Mharelk Thorlkan]] from [[Innarlith]], she threw out and paid to have the marriage dissolved.<ref name="WN" />
+
+==Rumors and legends==
+The rumors in Waterdeep were that Nauloene had a hand in the death of at least two of her husbands.<ref name="WN" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Businesspeople]]
+[[Category:Inhabitants of the Dock Ward of Waterdeep]]
+[[Category:Inhabitants of the Castle Ward of Waterdeep]]
+[[Category:Inhabitants of Waterdeep]]
+[[Category:Inhabitants of the Sword Coast North]]
+[[Category:Inhabitants of Northwest Faerûn]]
+[[Category:Inhabitants of Faerûn]]
+[[Category:Inhabitants of Toril]]
+[[Category:Inhabitants]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Night of Pirates
+
+The '''Night of Pirates''' was an event that took place in the [[Dock Ward of Waterdeep]] late in the month of [[Uktar]] in the [[1367 DR|Year of the Shield, 1367 DR]].
+
+A pirate-lord hailing from the [[Nelanther Isles]], [[Elro Starankh]], led ninety-six crewmen from three ships into the [[Heartflame]] festhall on [[Snail Street]]. He proceeded to offer the proprietress, famed madam [[Nauloene Tharantra]], a commission of twenty [[Dragon (coin)|dragons]] for each girl who agreed to marry one of the seadogs. Each bride was to receive ten thousand dragons as a dowry in reverse. Only two of the ladies of the evening turned down the offer and a wild celebration with drinking and dancing ensued.
+
+At some point in the revels, Starankh set fire to the festhall and it burned beyond the point of salvation. The relatively fancy [[Arrowsar Apartments]] were eventually built on the site of the former festhall.<ref name="WN">{{Cite web/Waterdeep News/Tharantra Husband-Hunting Again}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Events on Snail Street]]
+[[Category:Events in the Dock Ward of Waterdeep]]
+[[Category:Events in Waterdeep]]
+[[Category:Events in Northwest Faerûn]]
+[[Category:Events on the Sword Coast North]]
+[[Category:Events in Faerûn]]
+[[Category:Events on Toril]]
+[[Category:Events]]
+

@@ -1,0 +1,1608 @@
+NOT FOUND: Code Legal
+
+=== WIKI PAGE: Magister
+
+[[File:Talatha Vaerovree 3e.png|thumb|right|250px|''Talatha Vaerovree, a Magister, shows spells to children.'']]
+The '''Magister''' was a personal champion of [[Mystra]], devoted to spreading the use of magic. It was a lonely office, whose holder was often besieged by challengers looking to take it for themselves.<ref name="SotM-p5"/>
+
+==Duties==
+The central task of the Magister was to spread the use and teaching of magic, encouraging its use, and promoting its availability and utility. Specific Magisters sometimes received different tasks, but the common thread was always spreading magic.<ref name="SotM-p5"/>
+
+Though a number of magisters, from [[Shornthal Imynster]]<ref name="SotM-p30"/> up to [[Maldiglas Turntower]]<ref name="SotM-p72">{{cite book/Secrets of the Magister|72}}</ref> devoted notable amounts of effort to influencing rulers, by {{yearlink|1370}}, the Magister was strongly advised to steer clear of politics.<ref name="SotM-p5">{{cite book/Secrets of the Magister|5}}</ref>
+
+==Succession==
+The most common manner of acquiring the title of the Magister was by slaying the previous holder with magic. Duels by 1370 could be simple spell duels, or they could be nonfatal, when Azuth sought to shield the Magister or the challenger from death. In those cases, Azuth converted all their spells into a force that would force a green flame provided by the deity of wizardry closer or further to the challengers; a challenger touched by the flame would lose the office. Azuth would heal both mages, and then spirit away the loser, with their wits broken but otherwise protected from all things, to some remote location for about a month. At the end of this time, they would regain their wits.<ref name="SotM-p7_10"/>
+
+The Magister was not allowed to refuse a duel, but Azuth could judge that a duel could not be fair, to prevent a succession of challengers from wearing down the incumbent. In such cases, the god himself or some [[shadowstaff|shadowstaves]] would cloak their location and perhaps ''teleport'' one or both parties to other locations.<ref name="SotM-p7_10"/>
+
+Question duels were also an option; challengers could instead ask each other obscure magical trivia, and by quizzing each other, demonstrate their superiority in arcane knowledge. Azuth was the sole judge of such duels; clergy of Azuth and Savras were granted knowledge of the duel's questions and answers when it happened, but they did not receive knowledge of the challengers' identities.<ref name="SotM-p7_10"/>
+
+By {{yearlink|1370}} trial by combat was still a means of acquiring the office,<ref name="SotM-p7_10">{{cite book/Secrets of the Magister|7-10}}</ref> but by {{yearlink|1372}}, Mystra and Azuth had completely abandoned trial by combat as a method of succession.<ref name="MoF-">{{cite book/Magic of Faerun}}</ref>
+
+Whenever a Magister died to something other than another mage (or if the other mage slew that Magister and died in the process, or if their combat was far too one-sided for whatever reason), [[Azuth]] selected another mage whom he believed would work to spread magic, and offered them the office; it could be refused without disfavor.<ref name="SotM-p7">{{cite book/Secrets of the Magister|7}}</ref> Before the recorded Magisters, Mystra had made a number of offers herself.<ref name="SotM-p7"/>
+
+Other Magisters had voluntarily sought release from the office, judging they were not suited to it. When Mystra judged this to be honest, the Magisters could be made into [[Chosen of Mystra]] instead, or thrust directly into [[Mystra's Choice]]. This path had been selected by both [[Alvaerele Tasundrym]] and [[Azuth]]. They still went through [[Mystra's Choice]] upon death.<ref name="SotM-p14">{{cite book/Secrets of the Magister|14}}</ref>
+
+Whenever a new Magister was named, every mage casting a spell at the moment felt a sudden, violent sensation; priesthood of Mystra, Azuth or Savras found a manifestation in their temples, where the symbol of the Magister appeared on all scrying surfaces, afterwards transforming into the [[mage sigil]] employed by the mage who had gained the office, for about ten minutes. Magisters who eschewed a sigil or whose sigil was too close to that of another mage instead got their name spelled out in [[Common]].<ref name="SotM-p9_10">{{cite book/Secrets of the Magister|9-10}}</ref>
+
+==Relationships==
+Though the office made them targets for endless waves of ambitious mages, leading to the severing of many relationships, the Magister could count on a few groups to behave in specific ways. The clergy of [[Azuth]] and [[Mystra]] were generally allies of the Magister, while the clergy of [[Savras]] was unfriendly to them; nonetheless, even those of Savras took care not to antagonize the Magister, and might even be counted on to render a small amount of aid. The clergy of [[Velsharoon]] was a constant enemy, and they had attempted to trap, rather than kill, the Magister simply to prove the might of Velsharoon.<ref name="SotM-p5_6">{{cite book/Secrets of the Magister|5-6}}</ref>
+
+Mystra ruled the Magister, though lightly, and seldom making pronouncements. Azuth, on the other hand, was known to advise the Magister, and appeared far more often than Mystra to them.<ref name="SotM-p5_6"/>
+
+==Powers==
+Mystra conferred a plethora of powers upon the Magister, which she changed on occassion, in response to specific events.
+
+===Powers upon Succession===
+By 1370 DR, immediately upon becoming the Magister, a mage would have their brow encircled by silver fire; this granted their weapons the ability to strike and harm just about any creature, though it did not really improve their attacks. Furthermore, they gained a short-term immunity to all magic, and protection equivalent to an ''[[ironguard]]'' spell. The ''ironguard'' spell faded after nine days; the immunity to all magic stopped protecting against one school every four to seven months, though never against ''[[enchantment]]''.<ref name="SotM-p11_12"/> Mystra began granting strong immunities against magic starting in the [[Night of Fourteen Magisters]], [[Eleasis 4]] of the {{YearlinkName|709}}.<ref name="SotM-p50">{{cite book/Secrets of the Magister|50}}</ref>
+
+===Constant Powers===
+By 1370 DR, Magisters were provided with ''magesight'': a special insight into the [[Weave]], allowing them to know when their own spellcasting was somehow impaired, when large magical discharges were nearby, or whenever anyone within {{SI|60|feet|long=yes}} cast a spell. They could also sense [[wild magic]] and [[dead magic]] areas, the boundaries of sorcerous wards, magical traps, and untriggered spells within {{SI|90|feet|long=yes}}.<ref name="SotM-p11_12">{{cite book/Secrets of the Magister|11-12}}</ref>
+
+By 1370 DR, the Magister could employ ''[[dimension door]]'' and ''[[water walk]]'' six times a day, they were always protected by ''[[feather fall]]'' and could ''[[levitate]]'' at will, without the need for spells, for instance, preventing them from falling into a chasm suddenly opening under their feet,<ref name="SotM-p11_12"/> as was the cause of death of the Magister [[Horgyl Tusselvarr]] in the {{yearlinkName|1204}}.<ref name="SotM-p65">{{cite book/Secrets of the Magister|65}}</ref> By concentrating, Magisters could activate ''[[true seeing]]'' at will. These abilities were not spells, and could be used at the same time as a spell.<ref name="SotM-p11_12"/>
+
+The Magister [[Onsilur Maerdrathom]] was imprisoned inside a ''[[kiira]]'' at some point prior to the {{yearlink|326}}.<ref name="SotM-p39"/> By 1370 DR, the Magister was immune to the spells ''[[imprisonment]]'' and ''[[sink]]''; the Magister was also undetectable by any [[divination]] spells,<ref name="SotM-p11_12"/> an ability that made some aspects of [[Athelzedar's rest]] redundant, developed by the Magister [[Imrul Athelzedar]] shortly before the {{yearlink|1354}}.<ref name="SotM-p82">{{cite book/Secrets of the Magister|82}}</ref>
+
+By 1370 DR, the Magister was immune to all glyphs, runes, symbols, and other such wards based on enchanted inscriptions. They could also cross through any barriers generated by spells less powerful than a ''[[limited wish]]'', without the need to break them. They were also immune, much like the Chosen, to nine spells of their choice, which had to be of different power.<ref name="SotM-p11_12"/>
+
+Magisters [[Shornthal Imynster]]<ref name="SotM-p30"/> and [[]] were recorded to have battled constructs during their time in office; by 1370 DR, the Magister was always intangible to all magical constructs and automatons.<ref name="SotM-p11_12"/> 
+
+The Magister [[Tyvbolt Arsurath]] was struck insane by studying a magical mirror at some point before the {{yearlinkName|544}}.<ref name="SotM-p43">{{cite book/Secrets of the Magister|43}}</ref> After his fate, and that of a later Magister,<ref name="TWEET3">{{cite web/theedverse/2022-06-13 - Urboltar and Mind Shielding}}</ref> Mystra had granted the Magister absolute immunity to all mind-affecting magic, all [[enchantment]] spells, and all psionics, by 1370 DR. This ability exceeded the defense which Mystra granted her chosen, extending even to artifacts and to the powers of other divinities.<ref name="SotM-p11_12"/> It could only be bypassed by the Magister's own doing;<ref name="TWEET">{{cite web/theedverse/2022-06-13 - Magister Self-Enchantment}}</ref> Magister [[Veldrin Daerivyn]] had been known to accidentally drive himself near-catatonic shortly before his death.<ref name="SotM-p51_52">{{cite book/Secrets of the Magister|51-52}}</ref>
+
+By 1370 DR, the Magister had a resistance to all magic that could nullify any spell just under half the time. At the Magister's option, the nullified spell could also be redirected back at the source or at a third party, or even turned into a surge of wild magic prior to redirection. No ''[[teleport]]'' spells or similar of theirs were subject to any chance of failure.<ref name="SotM-p11_12"/>
+
+Finally, a Magister could hear their own name whenever it was spoken anywhere in Faerûn, as well as the title of the Magister, much like the [[Chosen of Mystra]]. They could turn this ability off, but it turned back on whenever they awoke, which allowed them to sleep from time to time.<ref name="SotM-p11_12"/>
+
+===Spellcasting===
+The spells of the Magister were also boosted in a number of ways. Those who would otherwise save themselves from the worst of the Magister's magic too narrowly were struck in full, due to the perfection granted to their magic. They also needed no [[material component]]s to cast spells, only through development. They were able to cast any spell that took less than a full wizard's title to cast without moving a muscle.<ref name="SotM-p12_13">{{cite book/Secrets of the Magister|12-13}}</ref>
+
+They were also granted up to nine spells of varying power, that once per day, they could cast without having prepared before. The selection could be changed only yearly.<ref name="SotM-p12_13"/>
+
+Magisters who specialized in a school of magic were able to change specialization with but three months of work. Most were not specialized in the first place, however.<ref name="SotM-p12_13"/> They also regained their spells within minutes of study,<ref name="SotM-p12_13"/> and were granted visions of any magic created by previous Magisters that resembled spells they were interested in developing. One specific spell, the ''[[mantle (spell)|mantle]]'', which used to cause permanent degradation of the user's ability to protect themselves, had this requirement waived for the Magister.<ref name="SotM-p12_13"/>
+
+===Greater Powers===
+A Magister could grant a target they touched the ability to cast a given spell. At their option, it could be cast thrice an hour for a tenday (a total of roughly 720 uses) or instead once for each year of their lives per year, with one less every year until fully fading. A third option was to allow it to be used twice a night, so long as the Moon was full. The Magister was forbidden, however, from informing the frequency bestowed, and the ability cost them a permanent impairment in their vitality.<ref name="SotM-p12_13"/> Magister [[Immué Dathril]] was known to have imbued ''[[fly]]'' spells upon an entire [[Calishite]] dancing establishment during her tenure, at some point between the {{yearlink|1066}} and the {{yearlink|1104}}.<ref name="SotM-p62_63">{{cite book/Secrets of the Magister|62-63}}</ref>
+
+The apex of a Magister's powers, however, was the ''Magister's Ban'', the ability to substitute, Toril-wide, the effects of one spell for those of another. This ability, however, could only be used to further magic: Mystra immediately ended a ban used lightly or for the Magister's own gain. Such prohibitions had lasted for a tenday, or perhaps a month, though some had been recorded to last for a year. Mages usually found out the hard way that a spell's effect had been substituted.<ref name="SotM-p12_13"/>
+
+The Magister had other powers, but only those two were revealed immediately to a new Magister.<ref name="SotM-p12_13">{{cite book/Secrets of the Magister|12-13}}</ref> For instance, they could be granted the [[metamagic]] powers of a [[Weavespinner]], were they to inquire about them.<ref name="SotM-p126">{{cite book/Secrets of the Magister|126}}</ref>
+
+Magisters also had the ability to use the spells banned by [[Mystra]] after [[Karsus' Folly]], but this thrust them into [[Mystra's Choice]] immediately and attracted the attention of both her and [[Azuth]].<ref name="SotM-91">{{cite book/Secrets of the Magister|91}}</ref>
+
+==History==
+The office of the Magister was first occupied by [[Azuth]] during his mortal days; after his ascension to divinity, the office was given to a different mage, and held by a number of them over the years.<ref name="SotM-p4">{{cite book/Secrets of the Magister|4}}</ref>
+
+There was no record of the Magisters prior to [[Shornthal Imynster]];<ref name="SotM-p30">{{cite book/Secrets of the Magister|30}}</ref> however, at least one such Magister employed a spell forbidden by [[Mystra]] to slay a city's inhabitants in [[Halruaa]] after they decided not to heed his warnings as to the use of magic, which Mystra immediately reverted, creating a zone of wild magic. One later Magister took to the long task of restoring magic in the city to normal.<ref name="SotM-p91">{{cite book/Secrets of the Magister|91}}</ref> By {{yearlink|1370}}, the Magister's duties specifically excluded maintenance of the Weave, save when specifically instructed.<ref name="SotM-p5"/>
+
+During the early 1370s DR, the clergy of [[Velsharoon]] had managed to trap at least one Magister and attempted to convert them into undead. Mystra personally broke the Magister out of confinement.<ref name="SotM-p5_6"/><ref name="NN" group="note">Velsharoon ascended in 1369 DR; as the events referred to in Secrets of the Magister do not extend into 1372, this narrows down the time in which such an event could have happened.</ref>
+
+Talatha Vaerovree was the last Magister recorded before the Spellplague of {{yearlink|1385}}, when she was slain by [[Orbakh]] of [[Westgate]].<ref name="RotD-MMoM">{{cite book/Realms of the Dead/The Many Murders of Manshoon}}</ref> Sages have claimed that the Magister's head exploded at the time of the Spellplague: there may have been another Magisters after her, whose career may have been too short for a proper record, or only the appearance of Azuth could carry the the entitlement.<ref name="TWEET2">{{cite web/theedverse/2022-05-25 - Magister and the Spellplague}}</ref>
+
+There was no Magister after the [[Spellplague]], until the [[Second Sundering]].<ref name="TWEET2"></ref> In [[1442 DR]], [[Tannathra]] of [[Hardcastle]] was offered by [[Azuth]] to be Magister in the absence of Mystra. After Tannathra's retirement in [[1490 DR]], Mystra and Azuth appointed [[Valargrim Hond]] to be Magister, who died by battle in [[1496 DR]]. [[Ramarthant Horaerays]] was the Magister of the turn of the century.<ref name="Patreon-magister" /> The Magister's identity was not revealed as of the late 15th century [[DR]].<ref name="TWEET3"></ref>
+
+==Rumors & Legends==
+Though Mystra and Azuth were loath to give out any information on previous Magisters, it had been possible by 1370 to refute, amongst other things, that the Magister could command all [[dragon]]s in Faerûn, that they could teleport at will, that their spells were boosted by a permanent connection to the Weave, and that they could eavesdrop into the minds of all mages at will.<ref name="SotM-p11_12"/>
+
+==List of Known Magisters==
+* [[Azuth]]
+* [[Shornthal Imynster]] ([[136 DR]] – [[148 DR]])
+* [[Flaerivus Grevauldyn]] ([[151 DR]]–[[154 DR]])
+* [[Malanthus Stormstaern]] ([[154 DR]] – [[177 DR]])
+* [[Dorgon Heamilolothtar]] ([[177 DR]] – [[241 DR]]) The magister that met a young [[Elminster Aumar]].
+* [[Azuth]] offered the position to [[Faerndel]] of [[Mourktar]], who was the only mage to refuse the post.
+* [[Nelorth Broamshoulder]] ([[241 DR]] – [[242 DR]])
+* [[Weldrarn Orblin]] (early [[242 DR]])
+* [[Tsanbrin Aulmeroevler]] (late [[242 DR]] – [[244 DR]])
+* [[Brymmyn Thorl]] ([[244 DR]] – [[246 DR]])
+* [[Corthas Muhleer]] (one day in [[246 DR]])
+* [[Galeerie Mulurkrath]] ([[246 DR]] – [[249 DR]]) Galeerie was hit over the head with a dung [[shovel]] by a jealous husband.
+* [[Talana Brakuularn]] ([[249 DR]] – [[256 DR]]) The "Lady of Spells" from Shoonach organized the first [[Magefair]].
+* [[Eirl Rauthantannar]] ([[256 DR]] – [[276 DR]]) He became [[Greentree Haven]] in the Wildlands of the Sword Coast North, frequented by [[Dove Falconhand]].
+* [[Ergrith Klavulgrun]] ([[276 DR]] – [[278 DR]])
+* [[Adriyana Voudsarr]] ([[278 DR]] – [[292 DR]]) The "Leaf in the Wind" became the artifact ''[[Adriyana's Garter]]''.
+* [[Nasana Melnuthquel]] ([[293 DR]] – [[297 DR]])
+* [[Sabral Faryre]] ([[298 DR]]) Reigned for six days before being pinned to his throne with a harpoon.
+* [[Malkith Undree]] ([[298 DR]] – [[302 DR]])
+* [[Oldo Tappard]] ([[302 DR]] – [[316 DR]])
+* [[Iolaeden Stonehallow]] ([[316 DR]] – [[318 DR]]). She was still in the service of Mystra as of [[1375 DR]] as an entity of unknown purpose or power.
+* [[Loaradden Derviir]] ([[319 DR]] – [[321 DR]])
+* [[Onsilur Maerdrathom]] ([[321 DR]] – [[326 DR]]), the "Ruling Magister" of [[Tashalar]].<ref>{{Cite book/Serpent Kingdoms|102}}</ref> His soul was trapped in a [[Tel'kiira|''kiira'']] and went stark raving mad.<ref name="SotM-p39">{{Cite book/Secrets of the Magister|39}}</ref>
+* [[Gelthin Hornreach]] ([[326 DR]] – [[337 DR]])
+* [[Hortil Droone]] ([[337 DR]] – [[345 DR]]) Became the ''[[Crown of the Undying Flame]]'', a royal crown of [[Westgate]].
+* [[Phambra Chalyphar]] (six months in [[345 DR]]). She continued to attend Magefairs as a stunningly beautiful ''Shadowstaff.''
+* [[Arghorst Talandor]] ([[345 DR]] – [[404 DR]]) The first magister to be beloved by wizards since Dorgon, his good and trusting nature was his downfall.
+* [[Anaslas Raldimmar]] ([[404 DR]] – [[407 DR]])
+* [[Eleedra Nathchant]] ([[407 DR]] – [[409 DR]])
+* [[Eldrus Wands]] ([[409 DR]] – [[516 DR]]). Infamous Patriarch of the Waterdeep [[Wands]] Family.
+* [[Thardon Ilvynner]] ([[516 DR]] – [[522 DR]])
+* [[Morglord Iltriune]] ([[522 DR]] – [[527 DR]]) Following his tenure, he was transformed into a ''[[gate]]'' somewhere in or around Waterdeep.
+* [[Tsjancy Yildree]] ([[528 DR]] – [[531 DR]])
+* [[Urboltar Highymhelver]] ([[531 DR]] – [[537 DR]])
+* [[Tyvbolt Arsurath]] ([[537 DR]] – [[544 DR]])
+* [[Annath Sunfall]] ([[544 DR]] – [[576 DR]]) Transformed into a [[grell]]-like creature.
+* [[Alvaerele Tasundrym]] ([[576 DR]] – [[592 DR]])
+* [[Ozgor Hyelvel]] ([[592 DR]] – [[601 DR]])
+* [[Velgorn Kataclath]] ([[601 DR]] – [[607 DR]]). Became the ''[[Haunted Flagon]]''.
+* [[Velomar Dauntcastle]] ([[607 DR]] – [[612 DR]]) Became a ''Shadowstaff'' that sometimes took mortal form to help young mages.
+* [[Irithra Dawntanthra]] ([[612 DR]] – [[641 DR]])
+* [[Dathchaunt Sandrach]] ([[641 DR]] – [[657 DR]]) Dathchaunt continued to serve [[Mystra]] in another form.
+* [[Jhesiyra Kestellharp]] ([[658 DR]] – [[667 DR]]). An apprentice of [[Halaster Blackcloak]].<ref name="SotM-p47">{{Cite book/Secrets of the Magister|47}}</ref>
+* [[Nerren Prentiyuel]] ([[667 DR]] – [[669 DR]])
+* [[Filverel Donnathlascen]] ([[669 DR]] – [[694 DR]])
+* [[Larongar Veverell]] ([[694 DR]] – [[699 DR]]). A [[gold elf]] nicknamed "Firehands" was the creator of several very powerful staves.
+* [[Quaervaxthanus]] ([[699 DR]] – [[705 DR]]). A [[beholder mage]].
+* [[Almer Galarthund]] ([[705 DR]] – [[709 DR]])
+* [[Turnock Draether]] ([[709 DR]] – [[762 DR]])
+* [[Veldrin Daerivyn]] ([[762 DR]] – [[797 DR]])
+* [[Kurtal]] ([[797 DR]] – [[886 DR]])
+* [[Sharglar Dulrathran]] ([[887 DR]])
+* [[Kalgrathur Daycloaks]] ([[887 DR]] – [[889 DR]])
+* [[Jonsryn Daerathal]] ([[889 DR]] – [[902 DR]])
+* [[Taline Telgara]] ([[902 DR]] – [[946 DR]]) [[Ahghairon]]'s inspiration. Wife of her accidental successor, Caldauvur.
+* [[Caldauvur Maerglauthyn]] ([[946 DR]] – [[949 DR]]) Born a weredragon, he became Magister by accidentally killing his beloved wife, Taline, in their wedding bed during the winter. He taught [[the Schooled]] since the spring after her death. He was the first Magister to formally train novices into standard wizards.
+* [[Ildathchance Orlaer]] ([[949 DR]] – [[952 DR]])
+* [[Baerzlus Anagathiir]] ([[952 DR]]). A [[Red Wizard]] fated for a short reign.
+* [[Bilnur Faerglamer]] ([[952 DR]] – [[977 DR]])
+* [[Malune Nalonkrivar]] ([[977 DR]] – [[983 DR]])
+* [[Constulgrael]] ([[983 DR]] – [[986 DR]]). A [[great wyrm]] [[black dragon]] of the [[Tunlands]]. 
+* [[Meldryn Jalensifer]] ([[986 DR]] – [[998 DR]]) Once possessed the [[Scepter of Mystra]].
+* [[Sarndaen Dalabar]] ([[998 DR]] – [[1066 DR]]) Creator of the most extensively cataloged map of [[Faerûn]]'s ''gates''. After his death, [[Mystra]] and [[Azuth]] scattered his tile floor map across the continent. Some of the pieces were kept in temples and at the [[Herald's Holdfast]].
+* [[Immué Dathril]] ([[1066 DR]] – [[1104 DR]])
+* [[Nelnfaen Sauntarae]] ([[1104 DR]] – [[1126 DR]]). The only [[drow]] Magister, who hailed from [[Sshamath]].
+* [[Olohmber Starnardyn]] ([[1126 DR]] – [[1153 DR]])
+* [[Horgyl Tusselvarr]] ([[1153 DR]] – [[1204 DR]]) Creator of the fabled ''[[power gauntlets]]''.
+* [[Haelvar Ildagh]] ([[1204 DR]] – [[1221 DR]])
+* [[Isilger Mountrant]] ([[1221 DR]] – [[1274 DR]]) Once described as "more [[Bane]]'s creature than Mystra's", he created ''[[blast globes]]'' for the [[Zhentarim]]. He was offered [[Mystra's Choice]], but was ultimately slain by a dozen archmages.
+* [[Thornar Fleetmoor]] ([[1274 DR]] – [[1278 DR]]). The first master of ''metamagic''.
+* [[Uldinus Lawkland]] ([[1278 DR]] – [[1280 DR]]) Once ran afoul of [[the Simbul]], who wished to destroy him. First mention: a [[Chosen of Mystra]] is forbidden to purposefully destroy a Magister without [[Mystra]]'s permission. Through this loophole, [[the Simbul]] trained a young mage in the best ways to rid her of Uldinus and thus the next Magister came about. The Simbul was severely reproved by Mystra for her actions.
+* [[Ohland Grethgar]] ([[1280 DR]] – [[1282 DR]])
+* [[Inhil Lauthdryn]] ([[1282 DR]] – [[1294 DR]])
+* [[Aralagath Tarsil]] ([[1294 DR]] – [[1306 DR]])
+* [[Orten Imdrar]] ([[1306 DR]] – [[1317 DR]]) Died attacking [[Scsilda Starshield]] of [[High Emmerock]].
+* [[Qilder Yarven]] ([[1317 DR]] – [[1318 DR]], a month in each year)
+* [[Maldiglas Turntower]] ([[1318 DR]] – [[1322 DR]]). Creator of countless [[Refuge]]s, the location of one has been revealed at every [[Magefair]] since his death. 
+* [[Phelarnden Ghemelt]] (four months in [[1322 DR]])
+* [[Maxiladanarr Torstren]] ([[1322 DR]] – [[1328 DR]])
+* [[Imrul Athelzedar]] ([[1328 DR]] – [[1354 DR]]) Became the ''shadowstaff'' protector of Noumea.
+* [[Nouméa Drathchuld]] ([[1354 DR]] – [[1370 DR]]) Given "[[Mystra's Choice]]", she became a [[Reborn]] whom many call "The Gentle Teacher".<ref name="Secrets-82">{{Cite book/Secrets of the Magister|82}}</ref>
+* [[Talatha Vaerovree]] ([[1370 DR]] – [[1385 DR]]) Killed by [[Manshoon]].<ref>{{Cite book/Realms of the Dead/The Many Murders of Manshoon}}</ref>
+* [[Helacorte Darimmon]] ([[1385 DR]]). Slain by mental damage from the [[Spellplague]], the death of Mystra. There were no more Magisters for nearly 60 years.<ref name="Patreon-magister">{{Cite web/Ed Greenwood's Patreon/The Magister: A Look at the Mortal "Gunslinger" Mage of Mystra}}</ref>
+* [[Tannathra]] of [[Hardcastle]] ([[1442 DR]] - [[1490 DR]]). The first Magister after the Spellplague, offered by [[Azuth]]. Retired to serve Mystra in different ways.<ref name="Patreon-magister"/>
+* [[Valargrim Hond]] ([[1490 DR]] - [[1496 DR]]) A hardened duelist and mercenary mage who perished in a fight with six [[Red Wizards]], slew the last wizard's slayer posthumously.<ref name="Patreon-magister"/>
+* [[Ramarthant Horaerays]] ([[1496 DR]] - ??) An experienced for three decades adventurer who possessed a large cache of [[Netherese]] [[enchanted]] devices.<ref name="Patreon-magister"/>
+
+==Appendix==
+{{incomplete|Needs information from both ''The Magister'' and ''Magic of Faerûn'', as well as likely ''Making of a Mage'' and the Many Murders of Manshoon.}}
+===Background===
+A Magister NPC or even PC class may have been intended for the 4{{th}}-edition ''[[Forgotten Realms Player's Guide]]''. As discussed [https://www.deviantart.com/ironshod/art/Magister-96929729 here], artist [[Anne Stokes]] was commissioned to paint four illustrations for the FRPG, but only three were printed for paragon paths. The fourth is titled "Magister", possibly suggesting a Magister paragon path or epic destiny was intended.
+
+===Notes===
+{{Notes}}
+
+===Gallery===
+<gallery>
+Magister - Anne Stokes.jpg|''Unused "Magister" artwork by Anne Stokes.''
+</gallery>
+
+===References===
+{{refs}}
+[[FR:Magister]]
+[[Category:Titles]]
+[[Category:Epic destinies]]
+
+=== WIKI PAGE: Waterdeep/Castle Ward
+
+{{Location
+| image              = Castle_ward-5e.jpg
+| caption            = A [[City Watch (Waterdeep)|City Watch]] patrol in the Castle Ward.
+| name               = Castle Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="VGW2e-p7">{{Template:Cite book/Volo's Guide to Waterdeep|7}}</ref><ref name="CoS-CG2e-p9">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|9}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = {{Yearlink|1035}}
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="CoS-CG2e-p30">{{Template:Cite book/City of Splendors (boxed set)/Campaign Guide|30}}</ref>
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = yes
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Castle Ward''' was the central ward of the city of [[Waterdeep]]. It encompassed [[Mount Waterdeep]], [[Castle Waterdeep]], and much of the government of the city, which included the [[Palace of Waterdeep]], occupied by [[Piergeiron the Paladinson]] in the mid-14{{th}} century [[DR]], and the residences of many prosperous Waterdhavians.<ref name="CoSW-p96">{{Cite book/City of Splendors: Waterdeep|96}}</ref> Among these citizens were celebrated retired adventurers such as [[Mirt the Moneylender]].<ref name="CoSW-p100"/>
+
+==Geography==
+The ward was delimited by [[Julthoon Street]] to the north, west of [[Shield Street]], and by [[Trader's Way]] between Shield Street and the [[High Road (Waterdeep)|High Road]], which delimited the ward's eastern border together with [[Snail Street]]. The southern border of the ward was delimited by [[Shesstra Street]], [[Gut Alley]], [[Belnimbra's Street]], and [[Lackpurse Lane]], until the ward met [[Deepwater Harbor]].<ref name="CoS-AG2e-p18">{{Template:Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|18}}</ref>
+
+===Geographical Features===
+Much of the territory of the Castle Ward was taken up by Mount Waterdeep, which consisted mostly of unused land.<ref name="CoS-CG2e-p9" /><ref name="CoS-AG2e-p18" />
+
+==History==
+The Castle Ward was one of the original wards of Waterdeep, established by [[Ahghairon]] in the {{Template:YearlinkName|1035}} together with the [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep/Southern Ward|Temple Ward]], and [[Waterdeep/Dock Ward|Dock Ward]].<ref name="CoS-CG2e-p30" />
+
+==Notable Locations==
+{{/Imagemap}}
+;[[Mount Waterdeep]]
+: The massive peak around which Waterdeep was built<ref name="CoSW-p96"/> encompassed the southwest portion of the city.<ref name="CoSW-p93">{{Cite book/City of Splendors: Waterdeep|93}}</ref> Atop its summit was the [[Peaktop Aerie]], which housed the city's famed [[Griffon Cavalry]], and its sea-facing flank featured 11 triple-[[catapult]]s armed with rock and flammable pots. Beneath these armaments were the [[South Sea Caves (Waterdeep)|sea caves]], which allowed passage for ships to [[River Sargauth]] and the undercity of [[Skullport]].<ref name="CoSW-p96"/>
+
+;[[New Olamn]]
+:The bardic college was located on the rocky cliffside, in the western edge of the ward, overlooking the [[Sea of Swords]]. It was accessible by the [[cliffside (road)|cliffside]] path along [[Mount Waterdeep]], or [[Mount Melody Walk]], the subterranean passageway that was dug through the mountain's side.<ref name="CoSW-p96"/>
+
+;[[Walking Statues of Waterdeep]]
+:No less than six of the statues resided in this Ward:<ref name="W-DH-p182">{{Cite book/Waterdeep: Dragon Heist|(182)}}</ref>
+*[[God Catcher|The God Catcher]]: Settled just north of the Market.
+*[[The Great Drunkard]]: Settled just south of the Market.
+*[[The Griffon]]: Settled on Mount Waterdeep near the Peaktop Aerie.
+*[[The Hawk Man]]
+*[[The Lady Dreaming]]: Settled on the lower north slopes of Mount Waterdeep.
+*[[The Sahuagin Humbled]]: Settled on the lower north slopes of Mount Waterdeep.<ref name="W-DH-p182"/>
+
+===Castles, keeps and towers===
+;[[Castle Waterdeep]]
+:The great fortress of Waterdeep loomed over the surrounding ward from the side of Mount Waterdeep. Its hanging banners and heraldry were so massive they signaled diplomatic arrivals and ceremonial announcements to those even in the southern wards of the city.<ref name="CoSW-p96"/> It was used by the [[City Guard (Waterdeep)|city guard]] and the [[City Watch (Waterdeep)|watch]] for training, housed the stables for some 70 [[horse|warhorse]]s and held several levels of subterranean dungeons.<ref name="WatN-p22">{{Cite book/Waterdeep and the North|22}}</ref>
+
+;[[Palace of Waterdeep]]
+: The white marble palace of the city's [[Lords of Waterdeep|Lords]] stood as a beacon of the incorruptibility of their rule over the city. The shining tower housed the Lords' court, embassies from other city-states and nations and the offices of city officials, including those from the [[City Guard (Waterdeep)|City Guard]] and [[City Watch (Waterdeep)|Watch]].<ref name="CoSW-p96"/> 
+
+*[[Ahghairon's Tower]]: This small, stone tower was the former residence of Waterdeep's first Lord Magister, [[Ahghairon]]. It had a modest appearance<ref name="WatN-p22">{{Cite book/Waterdeep and the North|22}}</ref> but was protected by [[spell]]s like ''[[prismatic sphere]]'' and a ''[[forcecage]]''.<ref name="WatN-p23">{{Cite book/Waterdeep and the North|23}}</ref> As of [[1357 DR]], no one was believed to have entered its walls since Ahghairon's death.<ref name="WatN-p22"/>
+*[[Blackstaff Tower]]
+*[[Syndra Wands' Tower]]
+
+===Civic Buildings===
+*[[Cynosure (building)|Cynosure]]: This former "temple of the Overgod", which had been erected in veneration of [[Lord Ao]] after the [[Time of Troubles]], was converted into a public hall, which could be rented to use for weddings, balls and other special events.<ref name="CoSW-p96"/> 
+*[[Peaktop Aerie]]
+*[[Thayan embassy (Waterdeep)|Thayan embassy]]: Established in [[1370 DR]], the embassy within the Castle Ward was built around a [[portal]] that allowed those visiting the [[Thayan]] representatives to access the [[Red Wizards of Thay|Red Wizard]] [[Enclave of Red Magic|enclave]] that was located in the depths of [[Skullport]].<ref name="CoSW-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref>
+
+===Open Areas===
+;[[Fetlock Court]]
+:The paved courtyard served as a rallying point for Waterdeep's cavalry before they went on patrol in the countryside. It also served as a concert area for [[bard]]s from the [[New Olamn|college]] who needed a venue outside their quarters to practice their art.<ref name="CoSW-p96"/>
+
+;Market
+:The largest open area within the city was the marketplace between [[Trader's Way]] and [[Bazaar street]].<ref name="CoSW-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref> It was full of merchants carts and stalls both day and night and was the best place in the city to find a good price for any trade good found in [[Faerûn]], assuming one had some skill at haggling.<ref name="CoSW-p96"/>
+
+===Religious Centers===
+*[[Font of Knowledge]]: Known too as the ''Great Library'', this sprawling repository of knowledge was tended by the [[Church of Oghma|clergy]] of [[Oghma]] who worked with various groups like the [[Scriveners', Scribes', & Clerks' Guild]] and the [[bard]]s college of [[New Olamn]] to provide wisdom and understanding to all the citizens of Waterdeep.<ref name="CoSW-p43">{{Cite book/City of Splendors: Waterdeep|43}}</ref>
+*[[Halls of Justice]]: Overseen by head priest [[Hykros Allumen]], this famous temple of [[Tyr]] was the home of two of the ''Maimed God's'' most renowned groups of worship: the [[Holy Order of the Knights of Samular]] and the monastic [[Order of the Even-Handed]].<ref name="CoSW-p47">{{Cite book/City of Splendors: Waterdeep|47}}</ref>
+*[[House of Two Hands]]
+*[[Pantheon Temple of the Seldarine]]
+*[[Spires of the Morning]]: This Waterdhavian temple of [[Lathander]] housed the local [[church of Lathander|church's]] militaristic branch, the [[Order of the Aster]].<ref name="CoSW-p40">{{Cite book/City of Splendors: Waterdeep|40}}</ref>
+
+===Inns===
+*[[The Castlegate]]
+*[[Jade Jug]]
+*[[Pampered Traveler]]
+*[[Sapphire House]]
+*[[Wyrmbones Inn]]
+*[[Yawning Portal]]
+
+===Festhalls and Taverns===
+*[[Asp's Strike]]
+*[[Azuth's Mug]]
+*[[Blue Jack]]
+*[[Blushing Nymph]]
+*[[Crawling Spider]]
+*[[Dragon's Head|Dragon's Head Tavern]]
+*[[Elfstone Tavern]]
+*[[Gralkynd's Tankard]]: Built in the lap of [[The Great Drunkard]] [[Walking Statues of Waterdeep]].<ref name="W-DH-p183">{{Cite book/Waterdeep: Dragon Heist|(183)}}</ref>
+*[[Jhrual's Dance]]
+*[[Mighty Manticore]] Tavern
+*[[Mother Tathlorn's House of Pleasure and Healing|Mother Tathlorn’s House of Pleasure]]
+*[[Quaffing Quaggoth]]
+*[[Red-eyed Owl]]
+*[[The Sailors' Own|Sailors' Own]]
+*[[Silavene's]]
+*[[Sleepy Slyph]]
+*[[Smiling Siren]]
+*[[Tavern of the Flagon Dragon]]
+
+===Guildhalls===
+*[[Fellowship Hall]]: This building was home to the oldest guild in Waterdeep, the [[Fellowship of innkeepers]]. Once per [[tenday]] it was opened for use as an inn.<ref name="WatN-p39">{{Cite book/Waterdeep and the North|39}}</ref>
+*[[Guildhall of the Order]]: Headquarters of the [[Solemn Order of Recognized Furriers and Woolmen]].<ref name="WatN-p43">{{Cite book/Waterdeep and the North|43}}</ref>
+*[[House of the Fine Carvers]]: Located on the western side of the [[High Road]] within the city, this guildhall was home to the hundred or so members of the [[Guild of fine carvers]].<ref name="CoSW-p101">{{Cite book/City of Splendors: Waterdeep|101}}</ref>
+*[[House of Gems  (Waterdeep)|House of Gems]]: The headquarters for the [[Jeweller's guild (Waterdeep)|jeweller's guild]],<ref name="WatN-p22"/> led by Master [[Stromquil Halazar]].<ref name="WatN-p41">{{Cite book/Waterdeep and the North|41}}</ref>
+*[[Map House (Waterdeep)|Map House]]: This building served as the meeting place for members of the [[Surveyors', map and chart-makers guild]] within the city.<ref name="WatN-p44">{{Cite book/Waterdeep and the North|44}}</ref>
+*[[Market Hall]]: Located on [[Trader's Way]], this guildhall served as the meeting site for the wealthy farmers of the [[Council of farmer-grocers]] guild.<ref name="WatN-p38">{{Cite book/Waterdeep and the North|38}}</ref>
+*[[Master Bakers' Hall]]: Home to the [[Baker's guild (Waterdeep)|baker's guild]] of the city, whose members were known to employ runners to both deliver their freshly-baked goods to Waterdhavians and protect the bakers' incoming cash payments.<ref name="WatN-p37">{{Cite book/Waterdeep and the North|37}}</ref>
+*[[Pewterers' and Casters’ Guildhall]]: The office of the [[Guild of trusted pewterers and casters]], some 400-plus metal-casters who worked throughout the city.<ref name="WatN-p40">{{Cite book/Waterdeep and the North|40}}</ref>
+*[[Tower of the Order]]: This tower was home to the [[Watchful Order of Magists and Protectors]], a group of [[wizard]]s that sought to maintain the respect and dignity of their kind, by regulating the use of [[magic]] within the city to protect its less-powerful [[arcane]] spellcasters.<ref name="WatN-p44">{{Cite book/Waterdeep and the North|44}}</ref>
+
+===Shops & Businesses===
+*[[Aurora's Realms Shop, Waterdeep Way Catalogue Counter]]
+*[[Balthorr's Rare and Wondrous Treasures]]: A store that specialized in [[gem]]s and rare coins, [[Balthorr Olaskos|Balthorr's]] shop was known to buy "secondhand" items at 40% of the usual street value.<ref name="WatN-p32">{{Cite book/Waterdeep and the North|32}}</ref>
+*[[Curious Past]]: This antiquities shop was run by the [[Harper]] [[Bronwyn Caradoon]], who served as a wealth of knowledge about obscure items and ancient texts. The presence of her employee, and fellow Harper, [[Alice Tinker]], made the shop a popular meeting place for [[gnome]]s and [[halfling]]s within the city.<ref name="CoSW-p74">{{Cite book/City of Splendors: Waterdeep|74}}</ref>
+*[[Diloontier's Apothecary]]
+*[[Eilean’s Maztican Delight]]
+*[[Halambar Lutes & Harps]]
+*[[Halls of Hilmer]]
+*[[Hilmer Storage]]
+*[[Lightsinger Theater]]
+*[[Nurneene's Marvelous Masks]]
+*[[Old Knot Shop]]
+*[[Olmhazan's Jewels]]
+*[[Paethier's Pipeweed]]
+*[[Phalantar's Philtres & Components]]: This specialty shop on the [[Street of Bells]] was run by the known fence [[Phalantar Orivan]]. He primarily dealt in exotic [[herb]]s, medicines and other difficult to-find [[:category:substances|substances]].<ref name="WatN-p51">{{Cite book/Waterdeep and the North|51}}</ref>
+*[[Rebeleigh's Elegant Headwear]]
+*[[“Sharkroar” Horth Shalark's Broadsheets]]
+*[[Sorynth's Silverware]]
+
+=== Education ===
+
+* [[Mother Tamra's House of Graces]]: an academy intended for young noble ladies to learn etiquette, maintaining your wardrobe, and social skills.<ref name="EGP-EFR-p32">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|32}}</ref>
+
+===Residences===
+*[[Ammathair Hawkfeather|Ammathair Hawkfeather's]] residence
+*[[Delzimmer_(family)|Delzimmer]] residence
+*[[Fair Winds]]: A rental villa.<ref name="WatN-p23">{{Cite book/Waterdeep and the North|23}}</ref>
+*[[Irlingstar]] residence
+*[[Haerun Mhammaster|Haerun Mhammaster's]] residence 
+*[[Heroes' Rest]]: A rental villa.<ref name="WatN-p23"/>
+*[[Larissa Neathal|Larissa Neathal's]] residence
+*[[Leone|Leone the Fighter's]] house
+*[[Marblehearth]]: A rental villa.<ref name="WatN-p23"/>
+*[[Naneatha Lharilstar|Lady Naneatha Lhaurilstar's]] residence
+*[[Mirt|Mirt's mansion]]: This well-guarded, fortress-like home of [[Mirt the Moneylender]] was where the retired adventurer practiced his business in the mornings.<ref name="WatN-p23"/> 
+*[[Shyrrhr|Shyrrhr's]] house
+*[[Stormwatch]]: A rental villa.<ref name="WatN-p23"/>
+*[[Tolgar Anuvien|Tolgar Anuvien's]] residence 
+*[[Velstrode|Velstrode the Venturer’s]] house
+
+===Streets & Alleys===
+{{sectstub}}
+
+==Appendix==
+{{incomplete}}
+===Gallery===
+<gallery widths="200">
+CastleWardBoundary.jpg|''Map showing the boundary of Castle Ward ''circa'' {{Yearlink|1357}}''.
+Castle_Ward.jpg|''Map of the northern portion of the Castle Ward ''circa'' {{Yearlink|1372}}''.
+</gallery>
+===Appearances===
+{{Appearances
+| adventures          = 
+| adventure refs      = 
+| novels              = ''[[The Fallbacks: Bound for Ruin]]''
+| novel refs          = 
+| films               = 
+| film refs           = 
+| comics              = 
+| comic refs          = 
+| gamebooks           = 
+| gamebook refs       = 
+| video games         = 
+| video game refs     = 
+| board games         = 
+| board game refs     = 
+| card games          = 
+| card game refs      = 
+| organized play      = 
+| organized play refs = 
+}}
+===References===
+{{refs}}
+[[FR:Quartier de la citadelle (Eauprofonde)]]
+===Connection===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep| ]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Mystra
+
+{{GA}}{{see also|Mystryl|Mystra (Midnight)}}
+{{Deity
+| image               = Mystra cover.jpg
+| caption             = 
+| name                = Mystra
+| title               = The Lady of Mysteries<ref name="SCAG5e-p21,35,125-126">{{Cite book/Sword Coast Adventurer's Guide|21, 35, 125-126}}</ref><ref name="CotR-13">{{Cite book/Cyclopedia of the Realms|13}}</ref><ref name="FRCS2e.RtR-47">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (Revised)/Running the Realms|47}}</ref><ref name="FRA-27">{{Cite book/Forgotten Realms Adventures|27}}</ref> <br /> The Mother of All Magic<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128">{{Cite book/Faiths & Avatars|128}}</ref> <br />Mistress of Magic<ref name="ElMotM-p122" /><br/> Our Lady of Spells<ref name="SCAG5e-p21,35,125-126" /><ref name="FA-128" /><br />The Mother of Mystery<ref name="por2">{{Cite game/Pool of Radiance: Ruins of Myth Drannor}}</ref><br/>Lady Magic<ref name="cru-p30">{{Cite book/Crucible|30}}</ref><br/>Lady of Magic<ref name="cru-p31">{{Cite book/Crucible|31}}</ref><br/>Lady of Might<ref name="ElMotM-p122" /><br/>One True Spell<ref name="ElMotM-p122">{{Cite book/Elminster: The Making of a Mage/MMP|122|7}}</ref><br/>Goddess of Magic<ref name="cru-p35">{{Cite book/Crucible|35}}</ref><br />{{Derogatory}} The Whore<ref>{{Cite book/Prince of Lies|176,319}}</ref><br/>The Harlot<ref name="cru-p160,194">{{Cite book/Crucible|160,194}}</ref>
+| adjective           = Mystran<ref name="FA-p130">{{Cite book/Faiths & Avatars|130}}</ref>
+| symbol              = A blue-white star<ref name="CotR-13" />
+| aspects             = Ri'dea'mystra<ref name="SFS2e-p56">{{Cite book/Sea of Fallen Stars|56}}</ref> 
+| pantheon            = [[Faerûnian pantheon]]
+| servedby            = [[Azuth]]<ref name="CotR-17">{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| gender              = Feminine
+| died                = [[1358 DR]]<ref name="Shadow-21">{{Cite book/Shadowdale (adventure)|21}}</ref>
+| portfolio           = [[Magic]], Spells, [[The Weave]]
+| worshipers          = [[Bard]]s, [[wizard]]s, seekers of arcane lore, mostly [[human]]<ref name="FA-129">{{Cite book/Faiths and Avatars|129}}</ref>
+| mortalrace          = [[Human]]<ref name="N.EoM-12">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|12}}</ref>
+| mortalsex           = Female<ref name="N.EoM-12" />
+| mortalhomes         = [[Netheril]]<ref name="N.EoM-12" />
+| apotheosis          = {{Yearlink|-339}}<ref name="N.EoM-12" />
+| power5e             = 
+| alignment5e         = 
+| symbol5e            = 
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = 
+| worshipers5e        = 
+
+| channel divinity5e  = 
+| holy days5e         = 
+| class5e             = 
+| refs5e              = 
+| power4e             = 
+| alignment4e         = 
+| symbol4e            = 
+| dominion4e          = 
+| realm4e             = 
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = 
+| domains4e           = 
+| worshipers4e        = 
+| cleric alignments4e = 
+| channel divinity4e  = 
+| holy days4e         = 
+| class4e             = 
+| refs4e              = 
+| power3e             = 
+| alignment3e         = 
+| symbol3e            = 
+| homeplane3e         = 
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = 
+| domains3e           = 
+| worshipers3e        = 
+| cleric alignments3e = 
+| favored weapon3e    = 
+| holy days3e         = 
+| class3e             = 
+| refs3e              = 
+| power2e             = [[Greater deity]]
+| alignment2e         = [[Lawful neutral]]
+| symbol2e            = Blue-white star
+| homeplane2e         = [[Nirvana]]
+| realm2e             = 
+| serves2e            = 
+| servedby2e          = [[Azuth]]
+| portfolio2e         = Magic
+| spheres2e           = 
+| worshipers2e        = 
+| cleric alignments2e = 
+| holy days2e         = 
+| class2e             = 
+| refs2e              = <ref name="FRCS2e.RtR-47"/><ref name="FA-128"/>
+| power1e             = [[Greater deity]]
+| alignment1e         = [[Lawful neutral]]
+| symbol1e            = Blue-white star
+| homeplane1e         = [[Nirvana]]
+| realm1e             = 
+| serves1e            = 
+| servedby1e          = [[Azuth]]
+| portfolio1e         = Magic
+| worshipers1e        = 
+| cleric alignments1e = 
+| holy days1e         = 
+| class1e             = 
+| refs1e              = <ref name="CotR-13" /><ref>{{Cite book/Cyclopedia of the Realms|17}}</ref>
+| animals             = 
+| plants              = 
+| monsters            = 
+| minerals            = 
+| colors              = 
+| misc manifestations = 
+| manifestation refs  = 
+| church              = yes
+| temples             = yes
+}}
+'''Mystra''' ({{Pronounce|MISS|trah|audio=Mystra.ogg|refs=<ref name="CotR-13" /><ref>{{Cite book/Forgotten Realms Campaign Setting 3rd edition|247}}</ref><ref name="FP3e-p50">{{Cite book/Faiths and Pantheons|50}}</ref>}}) was a [[greater deit
+
+=== LINKED WIKI PAGE (first 5000 chars): Manshoon
+
+{{Person
+| image          = Manshoon.jpg
+| caption        = Manshoon, Lord of the Zhentarim.
+| name           = Manshoon
+| alt_spelling   = 
+| titles         = 
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Citadel of the Raven]], [[Moonsea]]
+| formerhomes    = [[Zhentil Keep]], [[Moonsea]]<ref name="Drag415.tMDoM">{{Cite dragon/415/History Check: The Many Deaths of Manshoon}}</ref>
+| sex            = Male
+| gender         = Masculine
+| race           = [[Human]]
+| ethnicity      = [[Vaasan]]<ref>{{Cite web/theedverse/2018-02-21 - Manshoon's appearance and heritage}}</ref>
+| occupation     = 
+| age            = 
+| patron deity   = [[Mystra]]<ref name="DMSotR-25">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|25}}</ref>
+| languages      = Common, Draconic, Infernal, Undercommon<ref name="FRAiF-p265" />
+| basicrefs      = <ref name="MotM-p156">{{Cite book/Mysteries of the Moonsea|156}}</ref>
+| reckoning      = 
+| dob            = 1229
+| dobnotes       = <ref name="Drag415.tMDoM"/>
+| death          = 1370
+| deathnotes     = resurrected as clones<ref name="Drag415.tMDoM"/>
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Lawful evil]]
+| class1e        = {{Class table|edition=1e|[[Magic-user]]|16}}
+| refs1e         = <ref name="FRCS1e-DM-p25-26">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|25-26}}</ref>
+| alignment2e    = 
+| class2e        = {{Class table|edition=2e|[[Mage]]|19}} 
+| refs2e         = <ref name="VL-pp46-48">{{Cite book/Villains' Lorebook|46-48}}</ref> 
+| alignment3e    = [[Lawful evil]]
+| challenge3e    = 25
+| class3e        = {{class table|edition=3e|[[Archmage]]|5|[[Wizard]]|20}}
+| refs3e         = <ref name="ELH-pp301-302">{{Cite book/Epic Level Handbook|301-302}}</ref><ref name="FRCS-p283" /><ref name="MotM-p156"/>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = [[Evil]]
+| class4e        = {{class table|edition=4e|[[Controller]] (Elite)|28}}
+| refs4e         = <ref name="FRCG-p284-285">{{Cite book/Forgotten Realms Campaign Guide|284-285}}</ref>
+| alignment5e    = [[Lawful evil]]
+| challenge5e    = 13
+| class5e        = {{Class table|edition=5e|[[Wizard]]|18}}
+| refs5e         = <ref name="WDH5e-p208-209">{{Cite book/Waterdeep: Dragon Heist|208-209}}</ref>
+| alignment55    = [[Lawful evil]]
+| challenge55    = 13
+| class55        = [[Wizard]]
+| refs55         = <ref name="FRAiF-p265">{{Cite book/Forgotten Realms: Adventures in Faerûn|265}}</ref>
+}}
+'''Manshoon''' ({{Pronounce|man|SHOON|refs=<ref name="FRCS1e-DM-p25-26" /><ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}) was the founder of the [[Zhentarim]],<ref name="FRCS-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> also known as the Black Network, until he was "slain" by [[Fzoul Chembryl]], his ally, and Lord [[Orgauth]] in [[1370 DR]]. However, it transpired that Manshoon had created a dozen or more [[clone]]s that the murderous duo then found themselves facing. Only three of these clones were known to have survived into the late 1370s [[DR]] and once more headed the evil organization known as the Zhentarim.<ref name="FRCS-p283">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|283}}</ref>
+
+==Personality==
+Completely fitting the archetype of the sly-tongued, sinister, and decadent master spellcaster, Manshoon ruthlessly crushed revolts within his own ranks of the Black Network, easily slaughtered his rivals and weeded the weak out the ranks of the young and ambitious by sending upstarts on nigh-impossible suicide missions. Hated and mistrusted by Fzoul, Manshoon manipulated him much as he did all others—remaining arrogant, untouchable in his power, and faintly amused by it all.<ref name="FRCS-p283" />
+
+==Relations==
+He had contacts with many creatures, mainly [[beholder]]s, such as [[Xarlandralath]] and [[Xualahuu]], some of whom held much respect and loyalty to him. For example, Xualahuu was deeply loyal to him and tried to advance the Black Network's plots.<ref name="A-p52">{{Cite book/Anauroch|52}}</ref>
+
+==History==
+===Early Life===
+Manshoon was born in Zhentil Keep in the {{YearlinkName|1229}},<ref name="GHotR-p125">{{Cite book/The Grand History of the Realms|125}}</ref> to [[Harlshoon]], the first lord of Zhentil Keep. Manshoon, his brother [[Asmuth]]; and [[Chess]], the son of their father's chief rival, [[Calkontor]], were sent off together as [[adventurer]]s to prove themselves worthy of being lords like their fathers. While his sons were away, Harlshoon was poisoned by Calkontor, but, with his dying breaths, he threw Calkontor out of a tower window. The 
+
+=== LINKED WIKI PAGE (first 5000 chars): Spellplague
+
+{{Event
+| image       = Sanitorium - Mark Winters.jpg
+| caption     = Victims of the Spellplague.
+| name        = Spellplague
+| partof      = 
+| othernames  = Blue Breath of Change 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1385 DR]]–[[1395 DR]]
+| duration    = 10 years 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = Death of [[Mystra (Midnight)|Mystra]]
+| responsible = [[Cyric]] and [[Shar]]
+| subevents   = 
+| outcome     = Global turmoil, temporary destruction of the [[Weave]]
+| histrefs    = <ref name="SCAG5e-p17" />
+}}
+The '''Spellplague''', called the '''Blue Breath of Change''' by the inhabitants of [[Abeir]],<ref name="FRCG-p200">{{Cite book/Forgotten Realms Campaign Guide|200}}</ref> was a disaster that struck [[Realmspace]] and even the [[planes]] themselves on the date of [[Tarsakh 29]] in the {{YearlinkName|1385}}, and was caused by [[Mystra (Midnight)|Mystra]]'s assassination at the hands of [[Cyric]] and [[Shar]].<ref name="FRCG-p50">{{Cite book/Forgotten Realms Campaign Guide|50}}</ref><ref name="Ud-p64">{{Cite book/Undead|64}}</ref> It continued for a decade, leading to the [[Wailing Years]], during which [[arcane magic]] ceased to function and the planet of [[Toril]] was transformed.<ref name="TWY">{{Cite dragon/362/Countdown to the Realms: Spellplague: The Wailing Years}}</ref>
+
+{{Quote|In the infamous, calamitous year of [[1385 DR]], a conspiracy between the goddess of darkness, Shar, and the god of trickery, Cyric, sought to end Mystra's control over the Weave and influence over the realms by cravenly assassinating her. But instead of merely breaking the goddess of magic's dominance, her death threw the Weave into utter chaos and collapse. Magic spells faltered, or failed entirely. Countless spellcasters were killed or driven insane. A vast storm of blue flame arose from the [[Mhair Jungles]] and swept the continent, churning and reshaping the land, and leaving whole regions devastated.|''[[Magical Histories]], Volume 2: The Spellplague''<ref name="BGIII">{{Cite game/Baldur's Gate III}}</ref>}}
+
+==Omens==
+{{Quote|''"The white queen is troubled but can't say why. The black queen hates the white and gives the assassin a black coat. The assassin steals upon the white queen. She can't see him gliding through the shadows. The sword screams. The white queen falls. Her city falls. Stones fall in the cavern to crush the soothsayer. The tree burns and thrashes in agony. Branches break. Branches twist and grow together..."''|A vision of the Spellplague from the [[diviner]] [[Yaphyll]]<ref name="Ud-p7">{{Cite book/Undead|7}}</ref>}}
+
+In her vision, the diviner Yaphyll referred to Mystra as the white queen and to Shar, goddess of the night, as the black queen. Cyric, god of murder, was the assassin;<ref name="Ud-p75">{{Cite book/Undead|75}}</ref> [[Savras]], the god of divination, was the soothsayer,{{speculation}}, and [[Dweomerheart|the city]], cavern and [[World Tree cosmology|tree]] symbolized the ordered structures of magic crumbling into chaos.<ref name="Ud-p75"/>
+
+==Origins==
+The most popular and widely accepted theory about the origins of the Spellplague was that this calamity was caused by the death of Mystra, the [[god]]dess of [[Magic]]. For eons, magic had been bound within Mystra's [[Weave]], the universal structure of arcane forces, and her death tore the Weave apart and unleashed the [[raw magic]] contained within it, creating the cataclysm that was later known as the Spellplague.<ref name="FRCG-p50"/><ref name="NV">{{Cite game/Neverwinter}}</ref>
+
+Other scholars, however, didn't consider this to be a logical explanation. Historically, two earlier incarnations of Mystra had died before only to be reborn, and the Weave maintained its hold over the power of magic for the duration of her deaths. In these scholars' views, the truth would never be fully known to mortals, and perhaps not even to the [[god]]s.<ref name="NV"/><ref name="PoS-p79">{{Cite book/Plague of Spells|79}}</ref>
+
+Around [[1396 DR]], the sentient [[construct]] [[Cynosure (construct)|Cynosure]] theorized that the escape of an entity named the [[Carnis|Traitor]] from its confinement in the dungeons of [[Stardeep]], around the same time Mystra was murdered, may have also influenced the Spellplague's virulent onslaught.<ref name="PoS-p79"/>
+
+Around [[1479 DR]], scholars and sages who studied the [[Neverwinter/Chasm|Chasm]] of [[Neverwinter]], such as [[Rhazzad]], believed the [[aboleth]]s of the [[Abolethic Sovereignty]] may have been the actual creators of the Spellplague, although there were no definite proof.<ref name="NV"/>
+
+==The Plague==
+Mystra's death caused the Weave to collapse and, without the Weave, the [[Shadow Weave]] was unable to be maintained and collapsed as well. The breakdown of the Weave
+
+=== LINKED WIKI PAGE (first 5000 chars): Second Sundering
+
+{{Otheruses4|the cataclysmic events of the 15{{th}} century DR|other uses|Sundering (disambiguation)}}
+{{Event
+| image       = SunderingEraHeroes.jpg
+| caption     = ''The heroes of Toril's Second Sundering''
+| name        = Second Sundering
+| partof      = 
+| othernames  = 
+| type        = Cataclysm
+| deity       = 
+| location    = [[Abeir]] and [[Toril]]
+| date        = [[1482 DR]] to [[1487 DR]]
+| duration    = 
+| schedule    = 
+| frequency   = 
+| basicrefs   = <ref name="SCAG5e-p17-18">{{Cite book/Sword Coast Adventurer's Guide|17-18}}</ref><ref name="WDH5e-p167">{{Cite book/Waterdeep: Dragon Heist|167}}</ref>
+| observedby  = 
+| affected    = 
+| activities  = 
+| first       = 
+| cause       = 
+| responsible = [[Ao]]
+| subevents   = The [[Great Rain]]
+| outcome     = Remaking of the [[Tablets of Fate]]<br />Separation of Abeir and Toril<br />End of the [[Spellplague]]
+| histrefs    = <ref name="SCAG5e-p17-18" /><ref name="WDH5e-p167" />
+}}
+The '''Second Sundering''', also known as the '''Sundering of Toril and Abeir''',<ref>{{Cite book/The Herald/Hardcover|38-39|3}}</ref> was a great catastrophic event in the history of the worlds of [[Abeir]] and [[Toril]], that took place during the decade of the [[1480 DR|1480s DR]].<ref name="SCAG-p17"/>
+{{Quote|The gods are stirring, mark my words, and in a way we've never seen before. The wars? The way powers who were content to bide their time have all leaped at each others' throats?―if that isn't the hand of the gods moving things, I don't know what is.|The [[Harper]] [[Tharra (Harper)|Tharra]].<ref name="adversary-p182">{{Cite book/The Adversary/Hardcover|182}}</ref>}}
+
+==Prelude==
+When [[Ao]] the [[Overgod]] destroyed the [[Tablets of Fate]] at the conclusion of the [[Time of Troubles]], he instigated the [[Era of Upheaval]]. The Tablets defined the laws of [[Realmspace]] and kept it relatively stable. Without them, chaos ensued and the worlds of Abeir and Toril, separated many thousands of years ago, slowly started to overlap. The [[Spellplague]] drastically sped up this process.<ref name="Youtube">{{Cite web|url=https://www.youtube.com/watch?v=eAoq-vwWHHg|title=What is the Sundering? (Part 1)|accessmonthday=September 7th|accessyear=2017|author=[[Ed Greenwood]], [[Erin M. Evans]], [[Paul S. Kemp]], [[R.A. Salvatore]], [[Richard Lee Byers]], [[Troy Denning]], [[James Wyatt]] |date=August 21th, 2012}}</ref>
+
+The Second Sundering started with Ao's decision to recreate the Tablets of Fate, and to separate the worlds of Abeir and Toril once more. The [[deities]] were unsure of what this would do to them and their power, and made efforts using their most powerful servants to prepare for that event.<ref name="Youtube"/><ref name="Kemp">{{cite web|url = https://web.archive.org/web/20140327123608/http://paulskemp.com/blog/the-sundering/|title = The Sundering|author = [[Paul S. Kemp]]|date = 2012-08-20|accessdate = 2016-12-13}}</ref>
+
+The Second Sundering was somehow connected to the [[First Sundering]] that took place around {{Yearlink|-17600}}, when an [[elven]] [[High Magic]] [[ritual]] went both forward and backward in time to create [[Evermeet]]; and with a prehistoric cataclysm known as the [[Tearfall]], that took place in {{Yearlink|-31000}}.<ref name="Youtube"/>
+
+==Timeline==
+=== –17,600 DR ===
+Around [[-17,600 DR]], the elf [[Elliandreth]] of [[Orishaar]] wrote a [[Eliandreth's prophecy|prophecy]] concerning the events of the Second Sundering.<ref name="prophecy">See the prologue of each novel in [[The Sundering (series)|The Sundering series]].</ref>
+
+===1482 DR===
+{{main|1482 DR}}
+
+[[Abdel Adrian]] of [[Baldur's Gate]], son of [[Bhaal]], was attacked by his last remaining [[Bhaalspawn|sibling]], and as one slew the other, the Lord of Murder returned to life, reclaiming the portfolio of murder from [[Cyric]].<ref name="SCAG-p17">{{Cite book/Sword Coast Adventurer's Guide|17}}</ref><ref name="MiBG">{{Cite book/Murder in Baldur's Gate}}</ref>
+
+===1484 DR===
+{{main|1484 DR}}
+{{Quote|''When the trials begin,<br />in soul-torn solitude despairing,<br />the hunter waits alone.<br />The companions emerge<br />from fast-bound ties of fate<br />uniting against a common foe.''|The first stanza of Elliandreth's prophecy.<ref name="prophecy" />}}
+Most of the [[god]]s created many [[Chosen]] among mortals, trying to gather as much power as possible to be as high in divine ranking as they could before Ao completed the new Tablets of Fate, sealing their status and portfolio.<ref>{{Cite web/Candlekeep forum| title = Questions for Ed Greenwood (2015)| author = [[Ed Greenwood]]/The Hooded One| topicid = 19841| postid = 464851| whichpage = 7| date = 2015-02-13| accessdate = }}</ref> People started to claim they had been "chosen" by the gods and granted special powers, some apparently for "divine purposes" while others had no idea why.<ref name="SCAG-p17" /> Meanwhile, both [[Telamont Tanthul]] of [[Thultanthar]] and [[Szass Tam]] of [[Thay]] ordered their forces to capture all th
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Elminster
+
+{{Person
+| image          = 
+<gallery>
+Elminster BGIII.png|BG3
+Elminster CLB alt.jpg|CLB
+Elmisnter_5e.jpg|5e
+Elminster 4e.jpg|4e
+Elminster2.jpg|thumb|3e
+Elminster_2e_Shadowdale.jpg|thumb|2e
+</gallery>
+| caption2       = ''Various depictions of Elminster.''
+| name           = Elminster Aumar
+| true name      = 
+| alt_spelling   = 
+| titles         = Armathor<ref name="CotH-p20" /><br />Court Mage<ref name="ToE-p190" /><br/>Lord of Summerstag<ref name="Unf-p41">{{Cite web/The Unforking Family Tree|41}}</ref>
+| aliases        = Eladar the Dark<ref name="D228-33">{{Cite dragon/228/The Athalantan Campaign|33}}</ref><ref name="E.MoM-p68" /><br />Wanlorn<ref name="tToE-p52">{{Cite book/The Temptation of Elminster/Paperback 1999|52}}</ref><br />Minstrel<ref name="Tantras.adv-p30-32">{{Cite book/Tantras (adventure)|30-32}}</ref><br />El'Minster<ref name="EE:A-p4">{{Cite book/Elminster's Ecologies/Anauroch|4}}</ref><br />Terminsel<ref name="BGII">{{Cite game/Baldur's Gate II: Shadows of Amn}}</ref><br />Elgorn<ref name="EMD-p35" /><br/>Farwalker<ref name="e-mm-p331">{{Cite book/Elminster: The Making of a Mage/MMP|331}}</ref><br/>El Min Star<ref name="MMvstDC-p12">{{Cite book/Mad Monkey vs the Dragon Claw|12}}</ref>
+| nicknames      = Stinkbeard<ref name="RotA.Sum-p100">{{Cite book/Return of the Archwizards/The Summoning|100}}</ref><br />Cleverbrows<ref name="Unf-p7">{{Cite web/The Unforking Family Tree|7}}</ref><br/>The Crafty<ref name="FMD-p26-27" /><br />The One Who Walks<ref name="ToE-p143-144" /><br />Old Sage<ref name="EE-3746">{{Cite digital book/Elminster Enraged/Kindle|3746}}</ref><br />The Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />The Old Mage<ref name="FRCS3E-266">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|266}}</ref>
+<br />The Sage of Shadowdale<ref name="FRCS3E-7" /><br />The Great Oversorcerer<ref name="CaN-p77">{{Cite book/Cormyr: A Novel/Paperback 1998|76}}</ref><br />Doombringer of Mystra<ref name="EE-3746" /><br/>The Meddler of Mystra<br />Old Weird-Beard<ref name="EiH-ch1">{{Cite book/Elminster in Hell||1}}</ref><ref name="ToE-p403-410" /><br/>Elminster the Wise<ref name="cotab-p15">{{Cite book/Curse of the Azure Bonds|15}}</ref><br />Weavemaster<ref name="Spellstorm-p31-34" />
+| home           = [[Suzail]], [[Cormyr]]<ref name="EMD-p35" /><ref name="BED-p197">{{Cite book/Bury Elminster Deep|197}}</ref>
+| formerhomes    = [[Shadowdale (town)|Shadowdale]], [[Dalelands]]<ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><br />[[Galadorna]]<ref name="ToE-p190" /><br />[[Myth Drannor]], [[Cormanthyr]]<ref name="EiMD">{{Cite book/Elminster in Myth Drannor}}</ref><br />[[Hastarl]], [[Athalantar]]<ref name="E.MoM-p68" /><br />[[Wind Cavern]]<ref name="E.MoM-p29">{{Cite book/Elminster: The Making of a Mage/MMP|29}}</ref><br />[[Heldon]], [[Athalantar]]<ref name="D228-27">{{Cite dragon/228/The Athalantan Campaign|27}}</ref>
+| sex            = Male<br />{{Former}} Female<ref name="E.MoM-p132" /><ref name="EE-p62-65" /><ref name="ED-chp4" />
+| race           = [[Human]]<br />{{Former}} [[Drow]] (briefly)<ref name="EE-p62-65" />
+| ethnicity      = 
+| occupation     = [[Sage]]
+| age            = 1,280 (as of [[1492 DR]])
+| patron deity   = [[Mystra]]
+| languages      = 
+| basicrefs      = <ref name="FRCS3E-7" /><ref name="ED-chp4" /><ref name="HL-p48"/><ref name="HoH-p27-29" />
+| reckoning      = 
+| dob            = 212
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = <ref name="FRCS3E-7" />
+| parents        = [[Elthryn Aumar]] (father)<br />[[Amrythale Goldsheaf]] (mother)
+| spouses        = 
+| siblings       = 
+| children       = [[Narnra Shalace]], [[Filfaeril Obarskyr]] (allegedly), [[Laspeera Inthré]] (allegedly), [[Amarune Whitewave]] (great-great granddaughter), [[Simon Aumar]] (great-great grandson)
+| familyrefs     = <ref name="E.MoM-p11-14" /><ref name="E.MoM-p18" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = [[Chaotic good]]
+| class1e        = {{class table|edition=1e|[[Magic-user]]|26}}
+| refs1e         = <ref name="FRCS1e.DMSotR-20">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|20}}</ref><ref name="HoH-p27-29">{{Cite book/Hall of Heroes|27-29}}</ref><ref name="CAB-p87">{{Cite book/Curse of the Azure Bonds|87}}</ref>
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{class table|edition=2e|[[Wizard]]|29}}
+| refs2e         = <ref name="HL-p48">{{Cite book/Heroes' Lorebook|48-50}}</ref><ref name="CotH-p42">{{Cite book/The Code of the Harpers|42}}</ref><ref name="Dales-p44-45" />
+| alignment3e    = [[Chaotic good]]
+| challenge3e    = 39
+| class3e        = {{class table|edition=3e|[[Fighter]]|1|[[Rogue]]|2|[[Cleric]]|3|[[Wizard]]|24|[[Archmage]]|5}}
+| refs3e   
+
+=== LINKED WIKI PAGE (first 5000 chars): Tashalar
+
+{{Location
+| image              = Tashalar.jpg
+| caption            = Map showing the Tashalar.
+| name               = Tashalar
+| alt spelling       = 
+| aliases            = The Tashalar
+| type               = Country
+| region             = [[Chultan peninsula]],<br />[[southwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = [[Tashluta]]
+| largest city       = 
+| georefs            = <ref name="SK-124">{{Cite book/Serpent Kingdoms|124}}</ref><ref name="SotS.M">{{Cite book/Sands of the Soul/Map}}</ref>
+| demonym            = Tashlutar<br />Tashalarans<ref name="SK-p124" />
+| population         = 
+| races              = {{Percentage table|[[Humans]]|94|[[Lizardfolk]]|4|[[Yuan-ti]]|1|Other|1}}{{Split table|rca=right|caption=Human ethnicities|[[Tashalan]]s|83%|[[Calishite]]s|12%|[[Chultan (ethnicity)|Chultans]]|3%|[[Shaaran]]s|1%|Other|1%}}
+| languages          = [[Tashalan language|Tashalan]]<ref name="FRCS3e-p32">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|32}}</ref>
+| religion           = [[Chauntea]], [[Malar]], [[Savras]], [[Talona]], [[Talos]] (as [[Bhaelros]]),<ref name="PFtF-p18">{{Cite book/Prayers from the Faithful|18}}</ref> [[Waukeen]], the [[World Serpent]] ([[Sseth]] or [[Set]])
+| alignment          = {{Alignment grid|off|off|off|off|on|on|off|on|off}}
+| socrefs            = <ref name="SK-124" /><ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| imports            = Beef, [[calantra]], fruit, [[kaeth]],<ref name="EFR-p92" /> [[silver]], [[slave]]s
+| exports            = Calantra carvings, [[cheese]], [[coffee]],<ref name="SC-p177">{{Cite book/The Sapphire Crescent|177|8}}</ref> [[crossbow]]s, dyed fabric, glass, [[olive oil]], [[olive]]s, perfume,<ref name="EFR-p127">{{Cite book/Ed Greenwood Presents Elminster's Forgotten Realms|127}}</ref> seafood, [[:Category:Ships|ships]], [[spices]], [[wine]], wood<ref name="MotM-p49">{{Cite book/Mysteries of the Moonsea|49}}</ref>
+| currency           = 
+| comrefs            = <ref name="SK-124" /><ref name="FRCS-p105" />
+| government         = Merchant [[oligarchy]]
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = <ref name="SK-124" />
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 889,920
+| popyear1           = 1372
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = <ref name="SK-124" />
+| usethe             = 
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = yes
+| roads              = yes
+| mountains          = yes
+| bodies of water    = yes
+| forests            = yes
+| events             = yes
+| food and drink     = yes
+| items              = yes
+}}
+'''Tashalar''', also referred to as '''the Tashalar''', was a small, self-contained country located on a strip of coast along the southern [[Shining Sea]]. It lay just east of the [[Chult]] peninsula, and west of the magic realm of [[Halruaa]]. It was famous for beautiful weather, beautiful people, excellent crossbows, and the richest wine-producing region in the world.<ref name="FRCS-p105">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|105}}</ref><ref name="SK-p124" />
+{{TOC limit|3}}
+
+==Description==
+The country was a lush and bountiful land of great natural wealth and goods that were considered exotic to many northern realms.<ref name="SK-p124" /> It comprised a number of small city-states,<ref name="FRCS-p105" /> scattered rural villages and vast jungle wilderness.<ref name="SK-p124" /><ref name="SK-p125" />
+
+==Geography==
+While "the Tashalar" was the name commonly used to refer to the entirety of the [[Tashtan Coast]], the country itself comprised the [[Tashalar Basin]] set within the [[Hazur Mountains]].<ref name="SK-p124" />
+
+===Geographical Features===
+====Jungles====
+* [[Black Jungles]], home to many [[yuan-ti]] tribes, at least one of which was allied with the [[Rundeen]] consortium.<ref name="FRCS-
+
+=== LINKED WIKI PAGE (first 5000 chars): Eldrus Wands
+
+{{DEFAULTSORT:Wands, Eldrus}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Eldrus Wands
+| alt_spelling   = 
+| titles         = Magister<ref name="SotM-p41" />
+| aliases        = Eldrus Sunstaff<ref name="CoS.W-p63" />
+| nicknames      = 
+| true name      = 
+| home           = 
+| formerhomes    = 
+| sex            = Male
+| gender         = 
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = 
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 516
+| deathnotes     = Died of fever, exposure, or [[heartstop]]<ref name="SotM-p41" />
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    =[[Eleedra Nathchant]] 
+| successor      =[[Thardon Ilvynner]] 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+}}
+'''Eldrus Wands''' was a mage of the 4{{th}} and 5{{th}} centuries [[DR]], the [[Magister]] from [[409 DR]] to [[516 DR]], and the founder of the famous [[Wands]] noble house of [[Waterdeep]].<ref name="SotM-p41">{{Cite book/Secrets of the Magister|41}}</ref>
+
+==History==
+Originally named '''Eldrus Sunstaff''', he was a [[wizard]] from another world who arrived on [[Toril]] in the {{YearlinkName|395}}. He changed his surname to "Wands" at some point.<ref name="CoS.W-p63">{{Cite book/City of Splendors: Waterdeep|63}}</ref>
+
+In the {{YearlinkName|409}}, he was hired by Lord [[Irgult Wheivron]], ruler of [[Narubel]], to take Irgult's form and wait in his bedchamber for a prearranged tryst with the then-current Magister, [[Eleedra Nathchant]], who used her powers to seduce and influence the rulers of the Realms and kill those who defied her. Eldrus challenged Eleedra and killed her in the ensuing spell-duel. After slaying her, Eldrus inherited the position of Magister.<ref name="SotM-p41"/> 
+
+In his early days, Eldrus discovered some handily positioned ''[[gate]]s'' that permitted him to swiftly and easily move up and down the [[Sword Coast]] and travel to the [[Vilhon Reach]]. He also found a wizard's tower that had been completely robbed, yet two chests full of potions, among them several ''[[potion of longevity|potions of longevity]]'' had been overlooked. These would aid him as Magister.<ref name="SotM-p41"/> 
+
+He had many adventures in his time. For example, Eldrus once found a wrecked [[spelljammer]] ship in the [[Wood of Sharp Teeth]], and flew it to the bottom of the [[Lake of the Long Arm]] on a joyride. Another was when he destroyed the fortress of [[Sorlauv]] of [[Athkatla]] to "persuade" him to release the captured [[treant]]s he was experimenting on. Eldrus also thieved the ''[[Evard's black tentacles]]'' spell from [[Candlekeep]] and sold many copied [[scroll]]s of it across [[Faerûn]] in the guise of a poor and simple former adventurer, charging mere handfuls of [[copper piece]]s.<ref name="SotM-p41"/> 
+
+One of his legacies as Magister was many standing stones around the Realms. When Eldrus found a wizard being pointlessly cruel or harsh, he sometimes transformed them to stone, followed by a second spell to sheathe them in an additional layer of rock. The result was a sort of stone prison, one that was protected from the elements, could not be identified as a petrified person, and was immune to the effects of a simple, accidental ''[[dispel magic]]'' (it would remove an outer layer of stone, but not undo the petrification).<ref name="SotM-p41"/>
+
+Although he used a number of longevity magics, Eldrus survived into old age. His skill at concealing his true nature ensured that no challenging wizards came calling during his reign as Magister. He died in the {{YearlinkName|516}}, reportedly sick and raving whilst wandering alone in the winter snow near [[Hill's Edge]], presumably of fever, exposure, or [[heartstop]]. He was succeeded as Magister by [[Thardon Ilvynner]].<ref name="SotM-p41" />
+
+===Legacy===
+From his many children, Eldrus was the founder of what would become House Wands of Waterdeep.<ref name="CoS.W-p63"/><ref name="SotM-p41" />
+
+==Personality==
+As an old man, he was good-natured, interested more in jokes than wealth or power and using his magic for kindness.<ref name="SotM-p41" />
+
+==Activities==
+Eldrus focused primarily on protecting himself, and he maintained many houses and disguises around the [[Realms]]. He traveled regularly and randomly, albeit relatively calmly, between his homes and hideouts.<ref name="SotM-p41"/> 
+
+Eldrus was a romantic who found lovers in all the places he went. He housed each of these women in cottages and established them as soothsayers or shopkeepers dealing in magical novelties. After he went away, he magically 
+
+=== LINKED WIKI PAGE (first 5000 chars): Wands
+
+{{Organization
+| image          = Wands insignia.jpg
+| caption        = 
+| name           = Wands
+| aliases        = 
+| base           = [[Waterdeep]], [[northwest Faerûn]]
+| leader         = 
+| symbol         = A black sleeve below three gold stars against a field of purple
+| favored deity  = 
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="CSW3e-WE-p8">{{Cite web enhancement/Noble Houses of Waterdeep|8}}</ref>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{Alignment grid|on|on|on|on|on|on|off|off|off}}
+| races          = [[Human]] ([[tethyrian]])
+| memrefs        = <ref name="CSW3e-WE-p8" />
+| allegiances    = 
+| enemies        = 
+| relrefs        = 
+| showmembers    = yes
+| orgname        = the Wands family
+}}
+'''Wands''' ({{Pronounce|WANDS|refs=<ref name="CS-WW2e-p28">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|28}}</ref>}}) was a distinguished [[Waterdhavian]] noble house that had a strong history of magic within the city.<ref name="CSW p.63">{{Cite book/City of Splendors: Waterdeep|63}}</ref>
+
+==Base of Operations==
+The family owned [[Wands Villa|a villa]] in the [[Waterdeep/North Ward|North Ward]], at the corner of [[Shando Street]] and the [[Magecourt]].<ref name="CSW3e-p94,101">{{Cite book/City of Splendors: Waterdeep|94,101}}</ref><ref name="WDH5e-map">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+
+==Members==
+* [[Eldrus Wands]]
+* [[Ellidis Wands]]
+* [[Hyacia Wands]]
+* [[Jehan Wands]]
+* [[Marcus Wands]]
+* [[Maskar Wands]]
+* [[Nharaen Wands]] ([[1479 DR]])<ref name="BST-p300-301">{{Cite book/Blackstaff Tower|300-301}}</ref>
+* [[Olanhar Wands]]
+* [[Scirkhel Wands]]
+* [[Syndra Wands]]
+* [[Tertius Wands]]
+* [[Torlyn Wands]] ([[1479 DR]])<ref name="BST-p11-12">{{Cite book/Blackstaff Tower|11-12}}</ref>
+* [[Hamiklar Wands]] (deceased)
+
+==History==
+In [[1370 DR]], the Wands family suffered a public embarrassment when Marcus Wands stole the family heirloom of [[Mulhorand]]i origins, the ''[[golden scarab beetle]]'', that was said to bring magic luck to any Wands family member possessing it. The ''scarab'' was lost in [[Undermountain]] and Maskar Wands, the family [[wizard]] patriarch, requested [[Khelben Arunsun]]'s aid in the matter. The heirloom was subsequently retrieved from the [[Tomb of Ankh-Kephra]] and returned to the Wands family.<ref name="Dec">{{Cite game/Descent to Undermountain}}</ref>
+
+==Appendix==
+{{Incomplete}}
+===Appearances===
+:;Video Games
+::''[[Descent to Undermountain]]''
+===References===
+{{Refs}}
+===Connections===
+{{Waterdhavian houses}}
+[[Category:Waterdhavian houses]]
+[[Category:Human houses]]
+[[Category:Families]]
+[[Category:Noble houses]]
+[[Category:Organizations on Toril]]
+[[Category:Organizations in Faerûn]]
+[[Category:Organizations in Northwest Faerûn]]
+[[Category:Organizations on the Sword Coast North]]
+[[Category:Organizations in Waterdeep]]
+[[Category:Organizations in the North Ward of Waterdeep]]
+[[Category:Organizations in Wands Villa]]
+[[Category:Organizations on Shando Street]]
+[[Category:Organizations on the Magecourt]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Jhesiyra Kestellharp
+
+{{DEFAULTSORT:Kestellharp, Jhesiyra}}
+{{Person
+| image          = 
+| caption        = 
+| name           = Jhesiyra Kestellharp
+| alt_spelling   = 
+| titles         = Magister<ref name="SotM-p47"/><ref name="EtU-p8"/>
+| aliases        = 
+| nicknames      = 
+| true name      = 
+| home           = [[Undermountain]], [[Waterdeep]]<ref name="EtU-p18" />
+| formerhomes    = [[Myth Drannor]], [[Cormanthyr]]<ref name="SotM-p47"/>
+| sex            = Female<ref name="EtU-p18" />
+| gender         = 
+| race           = [[Arcanaweave]] (''[[wish]]'' [[living spell]]), {{former}} [[human]]<ref name="EtU-p18" />
+| ethnicity      = 
+| occupation     = Mage
+| age            = 
+| patron deity   = 
+| languages      = 
+| basicrefs      = <ref name="SotM-p47"/><ref name="EtU-p18"/>
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| death          = 
+| deathnotes     = 
+| turned         = 
+| turnednotes    = 
+| destroyed      = 
+| destroyednotes = 
+| daterefs       = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = 
+| class2e        = 
+| refs2e         = 
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = [[Neutral good]]
+| challenge35    = 
+| class35        = {{class table|edition=3e|[[Sorcerer]]|19}}
+| refs35         = <ref name="EtU-p18" />
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = 
+| challenge5e    = 
+| class5e        = 
+| refs5e         = 
+}}
+'''Jhesiyra Kestellharp''' was a [[human]] [[sorceress]] and one of [[Halaster]]'s apprentices, known as the [[Seven]], who accompanied him into [[Undermountain]]. She later reigned as [[Magister]] over [[658 DR|658]]–[[667 DR]].<ref name="SotM-p47">{{Cite book/Secrets of the Magister|47-48}}</ref><ref name="EtU-p8">{{Cite book/Expedition to Undermountain|8}}</ref> She was noted as the primary source of information on Halaster, as she was the only one of the Seven to leave his halls.<ref name="VLb-p30">{{Cite book/Villains' Lorebook|30}}</ref><ref name="EtU-p18" /> She transformed herself into an [[arcanaweave]], a ''[[wish]]'' [[living spell]]<ref name="EtU-p18">{{Cite book/Expedition to Undermountain|18}}</ref> and finally became fused with Undermountain itself.<ref name="DotMM-10">{{Cite book/Waterdeep: Dungeon of the Mad Mage|10}}</ref>
+
+==Description==
+In life, Jhesiyra was described by a fellow mage in [[Cormanthor]] as "short, broad-shouldered, curvaceous more than muscular, with snapping dark brown eyes and lustrous light brown hair, worn long but curbed by magic into graceful shapes, never a flurry before her eyes or a tangle anywhere." Another considered her "more a fierce flame, splendid in her energy, than a rose of placid beauty."<ref name="SotM-p47"/> A portrait in Undermountain made when she was still Halaster's apprentice depicted her as a young and plain woman with a faint hint of a smile, wearing yellow and blue robes.<ref name="DotMM-p300">{{Cite book/Waterdeep: Dungeon of the Mad Mage|300-301}}</ref>
+
+As a living spell, she was but a web of magical energy, shimmering and silvery, with a blue-white glow at its heart.<ref name="EtU-p75"/>
+
+==History==
+Alongside the other six apprentices of Halaster, Jhesiyra departed from [[Halaster's Hold]] in the {{YearlinkName|307}}. They apparently all went underground, planning to establish their own underground holds.<ref name="EtU-p8"/><ref>{{Cite book/The Grand History of the Realms|69}}</ref> But following Halaster's test, she left his service,<ref name="SotM-p47"/> and fled, knowing him to be utterly mad.<ref name="DotMM-10"/> Her writings afterward would tell the world what little was known of the Mad Mage.<ref name="VLb-p30"/>
+
+{{fq
+| text   = ...see magic made mighty without the madness and twisted evil I have grown all too used to.
+| source = Jhesiyra's stated purpose for journeying to Myth Drannor.<ref name="SotM-p47"/>
+| float  = 
+| width  = 
+| styles = 
+}}
+Instead, Jhesiyra traveled to [[Myth Drannor]] in [[Cormanthyr]], where she studied [[arcane magic]] among the [[elf|elven]] masters for several years. She almost alone developed the principle that even great masters of magic could still learn something from their lessers, and therefore that all [[wizard]]s should be forever students.<ref name="SotM-p47"/>
+
+She had become quite interested in the [[spell web]]s weaved by groups of elven mages,<ref name="SotM-p47"/> before she became [[Magister]] in the {{YearlinkName|658}}, after the electrocution of [[Dathchaunt Sandrach]] the year before.<ref name="SotM-p47"/> Excited by her new power, Jhesiyra experimented with the creation of [[arcanaweave]]s, a type of elven spell web developed long before her arrival, and re-invigorated their idle research with her human passion. Hers wou
+
+=== LINKED WIKI PAGE (first 5000 chars): Halaster Blackcloak
+
+{{DEFAULTSORT:Blackcloak, Halaster}}
+{{Person
+| image          = 
+<gallery>
+Halaster DotMM.png|5e
+Halaster Neverwinter.png|4e
+Halaster2.jpg|3e
+Halister Villains' Lorebook.png|2e
+</gallery>
+| caption2       = Depictions of Halaster Blackcloak.
+| name           = Halaster Blackcloak
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Hilather Blackcloak<br/>Haalvar the Mad<ref name="EasyBp49">{{Cite book/Easy Betrayals|49|4}}</ref>
+| nicknames      = 
+| home           = [[Undermountain]]
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = [[Raurinese]]
+| occupation     = 
+| age            = 
+| patron deity   = 
+| languages      = [[Alzhedo]]<ref name="WitW-pp8,11">{{Cite adventurers league/A Wrinkle in the Weave|8,11}}</ref>, [[Abyssal]], [[Celestial]], [[Common]], [[Draconic]], [[Dwarvish]], [[Elvish]], [[Infernal]], [[Undercommon]]<ref name="W.DotMM-p310"/>
+| basicrefs      = <ref name="FRCS3e-p180-181" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 1375
+| deathnotes     = , [[Eleint]] 30<ref name="GHR158"/>
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = 
+| familyrefs     = 
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic evil]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|29}}
+| refs2e         = <ref name="CoS2e-WWW-p76">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|76}}</ref>
+| alignment3e    = [[Chaotic evil]]
+| challenge3e    = 30
+| class3e        = {{Class table|edition=3e|[[Wizard]]|25|[[Archmage]]|5}}
+| refs3e         = <ref name="FRCS3e-p180-181">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|180-181}}</ref>
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic evil]]
+| challenge5e    = 23
+| class5e        = {{Class table|edition=5e|[[Wizard]]|20}}
+| refs5e         = <ref name="W.DotMM-p310">{{Cite book/Waterdeep: Dungeon of the Mad Mage|310}}</ref>
+}}
+'''Halaster Blackcloak''' (formerly '''Hilather Blackcloak''' {{Pronounce|HILL|a|thur|refs=<ref name="WitW-p12">{{Cite adventurers league/A Wrinkle in the Weave|12}}</ref>}}) was a notorious, ancient, and utterly insane [[wizard]] who resided within his lair, the infamous [[Undermountain]].<ref name="FRCS3e-p180-181" />
+
+==Personality==
+Halaster seemed, in a word, insane. He muttered and chuckled to himself ceaselessly and had difficulty holding the thread of any conversation or debate for very long. Nevertheless, he remained fully aware of threats and hazards, and reacted and defended himself with great speed and efficiency. While in Undermountain, he had only rare moments of lucidity, but if he was ever outside the dungeon, he became lucid for much of the time.<ref name="FRCS3e-p180-181" />
+
+At these times, Halaster was cold, well-mannered, and dignified and fastidious and meticulous in his habits, though still thoroughly evil. He did not tolerate any insult or insolence in any case and remembered any offense or help given his way. He pushed to have his own way in all things, heedless of the havoc or harm done to others in the way.<ref name="FRCS3e-p180-181" />
+
+His main hobbies were collecting new monsters and kinds of [[magic]]. However, having lived for millennia, he finds very little that he hasn't seen before. Thus, until such things came along, Halaster meddled in politics and goings-on in the world according to his whims for his own entertainment.<ref name="FRCS3e-p180-181" />
+
+He was more gregarious as a young man, creating and hosting [[magefair]]s and [[spellmoot]]s, and taking many apprentices. However, as his power grew, he dealt more and more with beings from other [[planes]], which led to his growing madness.<ref name="TRoU-p3"/>
+
+==Abilities==
+As a mighty [[archmage]], Halaster Blackcloak had a vast array of spells and magical powers at his command. Among them, he could make use of ''[[contingency]]'' spells and [[clone]]s of himself to ensure his survival in any spell-battle.<ref name="FRCS3e-p180-181" />
+
+Inside Undermountain, he could command all kinds of [[construct]]s, including [[crawling claw]]s, [[helmed horror]]s, and various [[golem]]s. He also made use of its countless traps and surprises, such as a "moving [[portal]]" that could pick up either himself or his victims and deposit them somewhere else.<ref name="FRCS3e-p180-181" />
+
+In addition to his great magical prowess, Halaster was well-versed in many areas, from [[gem]]-cutting to engineering to the breeding, care, and containment of monsters, both alive and undead, particularly from those hailing from other [[plane]]s.<ref name="FRCS3e-p180-181" />
+
+
+
+=== LINKED WIKI PAGE (first 5000 chars): Ahghairon
+
+{{Person
+| image     =Ahghairon.png 
+| caption   = 
+| name      = Ahghairon
+| aliases   = Ahghairon Belnoth Undrur<ref name="GG-Ahghairon's name">{{Cite archive/Greenwood's Grotto/2023-02-22/Ahghairon's full name}}</ref>
+| home      = [[Waterdeep]]
+| sex            = Male
+| race      = [[Human]]
+| reckoning = DR
+| dob       = 920
+| death     = 1256
+| destroyed = 
+| age       = 
+| ageyear   =
+| class     = [[Wizard]]
+| rules     = 
+| alignment = 
+}}
+'''Ahghairon''' ({{Pronounce|ah|GAIR|awn|refs=<ref name="WDH5e-p4">{{Cite book/Waterdeep: Dragon Heist|4}}</ref>}}), born '''Ahghairon Belnoth Undrur''',<ref name="GG-Ahghairon's name" /> was a [[mage]] from [[the North]]<ref name="CoS.CG-p26">{{Cite book/City of Splendors (boxed set)/Campaign Guide|26}}</ref> and the first [[Lords of Waterdeep#Open Lord|Open Lord]] of [[Waterdeep]]. He created the [[Lords of Waterdeep]], the system by which Waterdeep had been ruled ever since, except for a six-year period immediately following his death.<ref name="CoS.CG-p27">{{Cite book/City of Splendors (boxed set)/Campaign Guide|27}}</ref> 
+
+{{Quote|There shall come a time when our city and its deepwater bay shall grow in fame and fortune across many realms and many worlds. Folk shall know of Waterdeep, our City of Splendors, and sing its praises. I have seen it thus, and I endeavor to make it true.|Ahghairon, ''circa'' [[1032 DR]]<ref name="CoS.CG-p25">{{Cite book/City of Splendors (boxed set)/Campaign Guide|25}}</ref>''}}
+
+==Personality==
+Ahghairon was known by several names during his youth, but went by only his first name during his time in Waterdeep.<ref name="GG-Ahghairon's name" />
+
+==History==
+{{quote|The original splendors of Waterdeep were Ahghairon's secrets, which keep us safe today and always, despite the predations of lesser so-called lords.|[[Agnan Crohal]], ''[[Tales Told Tavernside]]'', [[1268 DR]]<ref name="BS">{{Cite book/Blackstaff Tower||23}}</ref>}}<br/>
+Ahghairon was born on [[Midsummer]]'s Night, in the {{YearlinkName|920}}.<ref name="CoS.CG-p29" /> He was named after his great-grandfather.<ref name="GG-Ahghairon's name" /> Legends say that the symbol of [[Mystra]] was glowing in the sky at the time.<ref name="CoS.CG-p29">{{Cite book/City of Splendors (boxed set)/Campaign Guide|29}}</ref>
+
+===The Trollwars===
+The [[Trollwars#Second Trollwar|Second Trollwar]] broke out in [[940 DR]],<ref name="CoS.CG-p29" /> as [[troll]]s were pushed down into the area later known as the [[Evermoors|Trollmoors]] by [[orc]] uprisings further north. After a decade of battles, a young Ahghairon distinguished himself, using his magic to turn the war against the trolls.<ref name="CoS.CG-p26" /> First, the Waterdhavian defenders drove the trolls back from their walls. The human realms then united under Ahghairon, War Captain [[Aeroth of Silverymoon]], and [[Samular Caradoon]] of [[Tyr]], and together they eradicated trolls across the Evermoors, with war finally coming to an end in [[952 DR]].<ref name=GHR>{{Cite book/The Grand History of the Realms|113}}</ref>
+
+At some point during the 940's DR, Aghairon was in [[Waterdeep]], at the time called Nimoar's Hold. Fires set to hold of the trolls threatened to destroy a large part of the town, so Aghairon asked adventurers to find and bring him [[Halaster Blackcloak|Halaster]]'s wards to bolster a ritual that would allow him to stop the fires. (More info about this adventure can be found in [[Hero of the Troll Wars]])
+
+A third Trollwar almost took place in [[963 DR]], when the traitors [[Aviss]] and [[Fellandar]] led an army of trolls out of the [[Mere of Dead Men]] against the city. They knew well the city's defenses, and [[Castle Waterdeep]] had only just begun construction. But Ahghairon and a band of [[wizard]]s hurled Aviss and Fellandar into an extra-dimensional prison, thwarting the attack.<ref name="ADDc-33-p16">{{Cite comic/Summer in the City|16}}</ref> <ref group="note">The comic "[[Summer in the City]]" actually refers to "great Aglairon", but by the context it seems clear this is meant to be Ahghairon.</ref>
+
+===Rise to Power===
+At this time, Waterdeep was ruled by the Warlord [[Rhaulor]], who wanted to use the city's power and wealth to create an empire spanning [[northwest Faerûn]]. Ahghairon strongly disagreed with this, and when he voiced his concerns, Rhaulor attacked him. Ahghairon  used his magic to turn Rhaulor's sword into a snake, which bit and poisoned him. Rhaulor died and Ahghairon assumed control of Waterdeep, proclaiming himself the first Open Lord, and establishing a form of government involving Masked Lords, whose identities would remain private.<ref name="CoS.CG-p27" />
+
+===Rule===
+In [[1007 DR]], Ahghairon constructed his [[Ahghairon's Tower|wizard tower]], but positioned it outside the walls of Waterdeep (which since expanded). At the same time, he imposed magical barriers on [[Halaster's Hold]], which prevented the possibility of any dangers escaping into the city. He created a magical axe named ''[
+
+=== LINKED WIKI PAGE (first 5000 chars): Red Wizards of Thay
+
+{{Organization
+| image          = <gallery>
+Red wizards onslaught.png|5e
+Symbol_of_the_Red_Wizards.jpg|3e
+</gallery>
+| caption2       = ''The symbol of the Red Wizards across the ages.''
+| name           = Red Wizards of Thay
+| aliases        = Red Wizards of Thay<br />Red Magic Cult<ref name=CotD-p57">{{Cite book/Cult of the Dragon|57}}</ref><br />Red Wizards of Mulhorand<ref name="NS-p51" />
+| type           = 
+| base           = [[Thaymount (tharch)|Thaymount]], [[Thay]]
+| leader         = [[Szass Tam]] and the [[Council of Zulkirs]]
+| symbol         = 
+| favored deity  = [[Kossuth]] <small>(also: [[Bane]], [[Cyric]], [[Loviatar]], [[Malar]], [[Shar]])</small>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="SB.CG-p8">{{Cite book/Spellbound/Campaign Guide|8}}</ref><ref name="F&A-p89"/><ref name="LoD-p56"/><ref name="GTotR-p121"/><ref name="FRCG-p180"/><ref name="SCAG-p141"/>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|on|off|off|on|on|on}}
+| races          = [[Human]] (mostly [[Mulan]])
+| memrefs        = <ref name="RoF-p98">{{Cite book/Races of Faerûn|98}}</ref><ref name="LoD-p59"/>
+| allegiances    = [[Church of Kossuth]], [[Council of Zulkirs]], [[Cult of the Dragon]], [[Guild of Foreign Trade]], [[Trail Lords]]
+| enemies        = [[The Harpers]], [[Lords' Alliance]], [[Rashemaar berserkers]], [[Wychlaran]], [[Zhentarim]]
+| relrefs        = <ref name="F&A-p89">{{Cite book/Faiths & Avatars|89}}</ref><ref name="LoD-p56"/><ref name="CoS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref><ref name="CoV-p9">{{Cite book/Champions of Valor|9}}</ref><ref name="CoR-p74">{{Cite book/Champions of Ruin|74}}</ref><ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref><ref name="PoF-p76">{{Cite book/Power of Faerûn|76}}</ref>
+| showmembers    = yes
+| orgname        = the Red Wizards of Thay
+}}
+The '''Red Wizards of Thay''', colloquially known as the '''Red Magic Cult''' in the [[Eastern Heartlands]], were the notorious and nefarious magocratic ruling class of the inhospitable but well-inhabited country of [[Thay]].<ref name="SCAG-p141">{{Cite book/Sword Coast Adventurer's Guide|141}}</ref> Historically they owed their power to being cruel slavers,<ref name="SB.CG-p14">{{Cite book/Spellbound/Campaign Guide|14}}</ref><ref name="CoR-p63">{{Cite book/Champions of Ruin|63}}</ref> demonologists,<ref name="SB.CG-p17">{{Cite book/Spellbound/Campaign Guide|17}}</ref><ref name="RoT-p7">{{Cite book/The Rise of Tiamat|7}}</ref> and arcane experimenters,<ref name="MotM-p60">{{Cite book/Mysteries of the Moonsea|60}}</ref> before most of their numbers wholly dedicated themselves to creating a nation of [[undeath|undead]].<ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref>
+
+==Organization==
+For centuries, the leaders of the Red Wizards and in fact all of Thay was the [[Council of Zulkirs]].<ref name="FRCS2e.RTR-p27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|27}}</ref> The ruling body comprised eight of the most powerful Red Wizards, each of whom represented one of the [[schools of magic]].<ref name="LoD-p56"/> Each of the zulkirs and their subordinates fomented intense rivalries with one another, leading to great feuds and near-crippling internal strife.<ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref>
+
+In the years following the [[War of the Zulkirs]], the Red Wizards of Thay were led by the feared [[lich]] and supreme regent, [[Szass Tam]].<ref name="SCAG-p13"/><ref name="FRCG-p5">{{Cite book/Forgotten Realms Campaign Guide|5}}</ref><ref name="DrM.366.RK">{{Cite dragon/366/Rose Keep}}</ref>
+
+Since Szass Tam's takeover, the exiled Red Wizards have transformed enormously, becoming a loosely organized chain of merchant enclaves who specialized in procuring magical items.<ref name="DrM.366.RK"/>
+
+===Factions===
+The Red Wizards have historically been fraught with in-fighting and turmoil. As the stakes rose over the years, these conflicts became more dramatic and impactful to their operations.<ref name="SB.CG-p11">{{Cite book/Spellbound/Campaign Guide|11}}</ref><ref name="SB.CG-p15">{{Cite book/Spellbound/Campaign Guide|15}}</ref>
+
+In the years before the mid–14{{th}} century [[DR]], the Red Wizards divided themselves into two separate ideological groups. The influential Imperialists sought to conquer Faerûn, by military might, subterfuge, or any other means necessary.<ref name="SB.CG-p8"/> The Researchers took a more isolationist stance, preferring to focus on arcane research within the safety of the [[Thayan Plateau]].<ref name="SB.CG-p9">{{Cite book/Spellbound/Campaign Guide|9}}</ref>
+
+After Szass Tam seized power from the Council of Zulkirs, the Red Wizards underwent a more severe divide. Both the zulkirs and the Red Wizards loyal to their respective schools were forced to choose a faction in the growing conflict: eith
+
+=== LINKED WIKI PAGE (first 5000 chars): Tunlands
+
+{{Location
+| image              = FRCS2eR-SunsetMountains.jpg
+| caption            = 
+| name               = Tunlands
+| alt spelling       = 
+| aliases            = Tun Plain<ref name="Po-p20">{{Cite polyhedron/84/The Everwinking Eye: The Schemes of the Zhentarim|20}}</ref><br />Plains of Tun<ref name="Ud-p166">{{Cite book/Underdark|166}}</ref><br />The God's Theater<ref name="tGHotR-p15">{{Cite book/The Grand History of the Realms|15}}</ref>
+| type               = Region
+| region             = [[Western Heartlands]], [[Faerûn]]<ref name="Western Heartlands" group="note">The [[Forgotten Realms Campaign Setting 3rd edition|3{{rd}} edition ''Forgotten Realms Campaign Setting'']] defines the Western Heartlands as stretching from the Storm Horns of Cormyr to the Sword Coast.</ref>
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| poptable           = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''Tunlands''', also known as the '''Tun Plain'''<ref name="Po-p20" /> or '''Plains of Tun'''<ref name="Ud-p166" /> was a region in the [[Western Heartlands]]<ref name="Western Heartlands" group="note" /> roughly encompassing the area between the [[Sunset Mountains]] and the [[Storm Horns]] north of [[Proskur]].<ref name="Dr365-p45">{{Cite dragon/365/Backdrop: Cormyr|45}}</ref>
+
+==Description==
+The Tunlands consisted largely of grassy steppes and large swathes of wetlands,<ref name="Po-p20" /> with most of the ground marshy and wet.<ref name="FRCS.2e.CotR-p49">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|49}}</ref> The soil was largely considered too damp and marshy for farming, especially since the plains were often flooded by the [[Tun River]].<ref name="EE.TCM-p3">{{Cite book/Elminster's Ecologies/The Cormyrean Marshes|3}}</ref>
+
+==Geography==
+Bounded by the Sunset Mountains and [[Far Hills]] to the west, the [[Sunset Foothills]] to the north, the Storm Horns to the east, and Proskur to the south,<ref name="Dr365-p45" /> the Tunlands were often described as the vale of the [[Tun River]]<ref name="FRCS.2e.RtR-p20">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|20}}</ref> which originated in the Farsea Marshes<ref name="FRCS.2e.CotR-p49" /> and flowed south<ref name="EE.TCM-p3" /> and then east to reach the [[Dragonmere]].<ref name="Po-p20" />
+
+===Geographical Features===
+
+===Flora & Fauna===
+==Government==
+The Tunlands were generally considered to be part of Cormyr,<ref name="Co-p5">{{Cite book/Cormyr|5}}</ref> though this was largely a nominal claim by the Forest Kingdom as it exercised little direct control of the region.<ref name="PoF-p86">{{Cite book/Power of Faerûn|86}}</ref> The closest thing to an organized government was the "bandit kingdom" of [[Thaalim Torchtower]], which per definition was a rather lawless affair.<ref name="Co-p5" />
+
+==Trade==
+==Defenses==
+==History==
+===Early History===
+The earliest recorded event in the Tunlands (known at the time as the God's Theater) was the [[Battle of the Gods' Theater]] ''circa'' {{Yearlink|-10750}}, one of the largest and deadliest battles of the [[Crown Wars]]. The Tunlands, which were part of the [[elf|elven]] realm of [[Shantel Othreier]], were invaded by the aggressive elven kingdom of [[Aryvandaar]]. As the two armies fought, a massive [[orc]] horde, 100,000 strong, fell upon them both. Ultimately, the orcs were beaten back at the cost of more than 70,000 elven lives. Aryvandaar prevailed and seized a large portion of Shantel Othreier's territory.<ref name="tGHotR-p15" />
+
+The first known settlement of the Tunlands was achieved by the [[dwarf|dwarves]] of [[Oghrann]]<ref name="DDGttU-p96">{{Cite book/Drizzt Do'Urden's Guide to the Underdark|96}}</ref> between [[-5125 DR|-5125]]<ref name="tGHotR-p23">{{Cite book/The Grand History of the Realms|23}}</ref> and {{Yearlink|-3770}}.<ref name="tGHotR-p27">{{Cite book/The Grand History of the Realms|27}}</ref> Although most of that ancient kingdom lay beneath the surface in the [[Underdark]], the dwarves maintained a number of surface holdings to raise livestock.<ref name="DDGttU-p96" /><ref name="DD-p58">{{Cite book/Dwarves Deep|58}}</ref><ref name="LoI.T-p22">{{Cite book/Lands of Intrigue/Tethyr|22}}</ref>
+
+[[Human]] settlement of the Tunlands stretched back to at least 
+
+=== LINKED WIKI PAGE (first 5000 chars): Faerûn
+
+{{Location
+| title       = 
+| image          = Sword-Coast-Map HighRes-Compressed.jpg
+| caption        = Map of the Sword Coast and surrounding areas in western Faerûn in [[1489 DR]]
+| name           = Faerûn
+| aliases        = The Great Island <small>(for [[Northlander]])</small><ref name="TN.GttSF-p16">{{Cite book/The North: Guide to the Savage Frontier|16}}</ref>
+| type           = Continent
+| size           = 
+| capital        = 
+|demonym         = Faerûnian<ref name="WotW">{{Cite polyhedron/74/The Everwinking Eye: Words To The Wise}}</ref>
+| area           = [[Toril]]
+| languages      = 
+| races          = 
+| religion       = 
+| currency       = 
+| population1    = 
+| popyear1       = 
+| population2    = 
+| popyear2       = 
+| population3    = 
+| popyear3       = 
+| imports        = 
+| exports        = 
+| alignment      = 
+| allegiances    = 
+| government     = 
+| rulertype      = 
+| ruler1         = 
+| ruleryear1     = 
+| ruler2         = 
+| ruleryear2     = 
+| ruler3         = 
+| ruleryear3     = 
+| ruler4         = 
+| ruleryear4     = 
+| ruler5         = 
+| ruleryear5     = 
+| rulertable     =
+| usethe         = 
+| useon          = 
+| inhabitants    = yes
+| locations      = yes
+| organizations  = yes
+| settlements    = yes
+| events         = yes
+| food and drink = yes
+| items          = yes
+}}
+'''Faerûn''' ({{Pronounce|fay|ROON|refs=<ref name="FRCS2e-r-p4">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|4}}</ref>|audio=Faerûn.ogg}} {{Pronounce|FAY|er|OON|primary stress=3|refs=<ref name="FRCS1e-DM-p4">{{Cite book/Forgotten Realms Campaign Set/DM's Sourcebook of the Realms|4}}</ref>|alt=yes}}) was a major continent on the planet of [[Toril]].<ref name="FRCS-p5">{{Cite book/Forgotten Realms Campaign Setting|5}}</ref><ref name="TFRA-p1">{{Cite book/The Forgotten Realms Atlas|1-3}}</ref><ref group="note">As the key setting of the ''[[Forgotten Realms]]'', the majority of official ''Forgotten Realms'' material covers this continent, and it has had more attention than any other area of the planet.</ref>
+{{quote|''Someone should have dared, long ago, and done so as often as it took to break you of this serenely wrong view of the ways of the world. Hear this, [[Narantha Crownsilver|Narantha]], and hear it well: Faerûn is not going to change to your will. Either you must change to dwell in it, or it will break you.''|[[Florin Falconhand]] of the [[Knights of Myth Drannor]]<ref name="soe-p72">{{Cite book/Swords of Eveningstar/Hardcover 2006|72}}</ref>}}
+
+==Etymology==
+The word "Faerûn" was a modified version of "Faerie", the name of the homeland of ancient [[elves]]. The term was coined by [[Durothil (prince)|Durothil]], prince of [[Tintageer]], [[Faerie]].<ref name="e:ioe-p97">{{Cite book/Evermeet: Island of Elves/MMP|97}}</ref>
+
+==Geography==
+{{main|Portal:Geography}}
+The continent included terrain that was as varied as any other. Besides the exterior coastline to the west and south, the most dominant feature on the continent was the [[Sea of Fallen Stars]]. This was an irregular inland sea that kept the interior lands fertile, connected the west and east regions of Faerûn and served as a major trade route for many of the bordering nations.<ref name="TFRA-p1" /><ref name="FRCS-p142">{{Cite book/Forgotten Realms Campaign Setting|142}}</ref>
+
+Next in significance was the [[Shaar]], a broad region of grasslands in the south that,<ref name="FRCS-p196">{{Cite book/Forgotten Realms Campaign Setting|196}}</ref> together with the Lake of Steam, separated the area around the inland sea from the coastal nations at the southern edge of the continent. To the east, Faerûn was bordered by a vast region of steppes from [[Kara-Tur]],<ref name="FRCS-p230">{{Cite book/Forgotten Realms Campaign Setting|230}}</ref> and in the north were massive glaciers ([[Pelvuria]] and [[Reghed]]) and tundra.<ref name="TFRA-p1" /> South of the continent, separated by the [[Great Sea]], was the sub-tropical land of [[Zakhara]].<ref name="FRCS-p230"/>
+
+The continent included the following geographic regions.<ref group="note">The following division of Faerûn by compass directions was developed for organizational purposes on the Forgotten Realms Wiki, and is not closely reflected by descriptions in source text. In particular, terms like "the North" and "the South" in the sources can be much more wide-ranging in scope, and as ambiguous, than what is defined here.</ref>
+
+===Northwest===
+[[File:Northwest faerun 250.gif|thumb|right|200px|''Northwest Faerûn'']]
+{{main|Northwest Faerûn}}
+A region of wilderness, difficult winter weather, [[orc]] hordes, and barbarian tribes, this region was generally referred to as "The North", which also contained most of the "[[Sword Coast North]]". It was a mostly untamed region that lay between the large [[Anauroch]] desert in the east and the expansive [[Sea of Swords]] in the west, north of the [[High Moor]].<ref name="TFRA-p1" /><ref name="FRCS-p165">{{Cite book/Forg
+
+=== LINKED WIKI PAGE (first 5000 chars): Zhentarim
+
+{{Distinguish|Zhentilar}}
+{{Organization
+| image          = 5e Zhentarim Symbol.png
+| caption        = The banner of the Zhentarim circa [[1489 DR]].
+| name           = Zhentarim
+| alt_spelling   = 
+| aliases        = Black Network<ref name="FRCS3e-p281" /><br /> Black Robes ([[Bedine]])<ref name="EE:A-p3">{{Cite book/Elminster's Ecologies/Anauroch|3}}</ref><br />Keepers<ref name="ab-p205">{{Cite book/Azure Bonds|205}}</ref><br />Zheeks<ref name="ab-p235">{{Cite book/Azure Bonds|235}}</ref><br/>Zhentarians<ref name="RoA-p60">{{Cite book/Ruins of Adventure|60}}</ref>
+| type           = 
+| base           = [[Darkhold]]<ref name="SCAG-p78" /> <br/> {{former}} <br /> [[Zhentil Keep]], [[Moonsea]]<ref name="LoD-p96"/> <br/> [[Citadel of the Raven]]<ref name="RoZK-CB-p36" /> <br/> [[Stormwatch]]<ref name="FRCG-p282" />
+| leadertitle    = 
+| leader         = [[Pereghost]]<ref name="SCAG-p78" /> <br /> {{former}} <br /> [[Fzoul Chembryl]]<ref name="LoD-p96"/> <br/> [[Manshoon]] (founder)<ref name="LoD-p96"/> and [[Sememmon]]<ref name="RoZK:CB-p32" />
+| symbol         = Silhouette of a winged snake biting a coin<ref name="Factions" /><ref name="WDH-p24-p44-p157-p159">{{Cite book/Waterdeep: Dragon Heist|24,44,157,159}}</ref> {{former}} <br /> Dark skull emitting black rays on a golden disc<ref name="FRCG-p282" /> <br/> Black scepter emitting green rays on gold disc, clutched in the talons of a black wyrm<ref name="LoD-p96"/> {{Former}} Stylized spearhead bearing white disc with scrawled Z in [[Dethek]]<ref name="LoD-p96"/>
+| favored deity  = [[Bane]] {{former}} [[Cyric]]
+| favored weapon = 
+| domains        = 
+| formed         = [[1261 DR]]<ref name="LoD-p96" /><ref name="tGHotR-p128" />
+| disbanded      = 
+| basicrefs      = <ref name="LoD-p96">{{Cite book/Lords of Darkness|96}}</ref>
+| members        = At least 10,000 c. [[1372 DR]]<ref name="LoD-p96"/>
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|off|off|off|on|on|off}}<ref name="LoD-p96"/>
+| races          = 
+| memrefs        = 
+| event1         = 
+| date1          = 
+| event2         = 
+| date2          = 
+| event3         = 
+| date3          = 
+| event4         = 
+| date4          = 
+| leader1        = 
+| leaderyear1    = 
+| leader2        = 
+| leaderyear2    = 
+| leader3        = 
+| leaderyear3    = 
+| leader4        = 
+| leaderyear4    = 
+| leader5        = 
+| leaderyear5    = 
+| leadertable    = 
+| histrefs       = 
+| allegiances    = 
+| enemies        = [[Harpers]], [[Lords' Alliance]], [[Cult of the Dragon]], the [[Rundeen]], [[Netheril]]
+| relrefs        = <ref name="LoD-p98"/>
+| showmembers    = yes
+| orgname        = the Zhentarim
+}}
+The '''Zhentarim''' ({{Pronounce|zz|HENT|ah|rim|refs=<ref name="FRCS1e-CR-p92">{{Cite book/Forgotten Realms Campaign Set/Cyclopedia of the Realms|92}}</ref>}}) also known as the '''Black Network''',<ref name="FRCS3e-p281">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|281}}</ref> was a mercenary company and greater mercantile organization in [[Faerûn]],<ref name="SCAG-p78">{{Cite book/Sword Coast Adventurer's Guide|78}}</ref> who, over their 200 years of existence, had a storied history as a cadre of self-serving [[thieves]], spies, [[assassin]]s, and malevolent [[wizard]]s,<ref name="SCAG-p77">{{Cite book/Sword Coast Adventurer's Guide|77}}</ref> who for a time, were indentured by their leaders to serve dark gods [[Bane]]<ref name="FRCS3e-p282">{{Cite book/Forgotten Realms Campaign Setting 3rd edition|282}}</ref> and [[Cyric]].<ref name="C&D-p9">{{Cite book/Cloak & Dagger|9}}</ref> Over the decades, the organization experienced several leaps and bounds in terms of successes,<ref name="RoZK:CB-p34" /> but also major misfortune, particularly for their historical strongholds around the [[Moonsea]].<ref name="FRCG-p151">{{Cite book/Forgotten Realms Campaign Guide|151}}</ref> As of [[1489 DR]] the Zhentarim was headquartered in the [[Western Heartlands]], at [[Darkhold|Darkhold Castle]], nestled in the [[Darkhold Vale|valley of the same name]].<ref name="SCAG-p78" />
+{{quote|As distasteful as [[Hillsfar]]'s policies might be, you can hardly expect us to deal with the baby-slaying Keepers. I've heard that they plight their troth with succubi, eat the brains of elves, and worship gods so black they make [[Moander]] seem nice. Their names are feared as far south as my native land. And the council who rules them, the Zhentarim, are twice as dark as the Keepers.|[[Akabar Bel Akash]]<ref name="ab-p205" />}}
+{{TOC limit|3}}
+==Aims & Goals==
+As an extension of the will of the dark wizard [[Manshoon]], the Zhentarim was initially formed as a mercenary company to support his rule over the [[Moonsea]] with the aim of spreading that control over all of Faerûn.<ref name="CaD-p32">{{Cite book/Cloak & Dagger|32}}</ref> After he recruited the faithful of Bane, unscrupulous merchants and lesser [[mage]]s to his cause,<ref name="RoZK:CB-p15">{{Cite book/Ruins of Zhentil Keep/Campaign Book|15}
+
+=== LINKED WIKI PAGE (first 5000 chars): Red Wizards of Thay
+
+{{Organization
+| image          = <gallery>
+Red wizards onslaught.png|5e
+Symbol_of_the_Red_Wizards.jpg|3e
+</gallery>
+| caption2       = ''The symbol of the Red Wizards across the ages.''
+| name           = Red Wizards of Thay
+| aliases        = Red Wizards of Thay<br />Red Magic Cult<ref name=CotD-p57">{{Cite book/Cult of the Dragon|57}}</ref><br />Red Wizards of Mulhorand<ref name="NS-p51" />
+| type           = 
+| base           = [[Thaymount (tharch)|Thaymount]], [[Thay]]
+| leader         = [[Szass Tam]] and the [[Council of Zulkirs]]
+| symbol         = 
+| favored deity  = [[Kossuth]] <small>(also: [[Bane]], [[Cyric]], [[Loviatar]], [[Malar]], [[Shar]])</small>
+| favored weapon = 
+| domains        = 
+| formed         = 
+| disbanded      = 
+| basicrefs      = <ref name="SB.CG-p8">{{Cite book/Spellbound/Campaign Guide|8}}</ref><ref name="F&A-p89"/><ref name="LoD-p56"/><ref name="GTotR-p121"/><ref name="FRCG-p180"/><ref name="SCAG-p141"/>
+| members        = 
+| memberstable   = 
+| memtableheader = 
+| alignment      = {{alignment grid|off|off|off|on|off|off|on|on|on}}
+| races          = [[Human]] (mostly [[Mulan]])
+| memrefs        = <ref name="RoF-p98">{{Cite book/Races of Faerûn|98}}</ref><ref name="LoD-p59"/>
+| allegiances    = [[Church of Kossuth]], [[Council of Zulkirs]], [[Cult of the Dragon]], [[Guild of Foreign Trade]], [[Trail Lords]]
+| enemies        = [[The Harpers]], [[Lords' Alliance]], [[Rashemaar berserkers]], [[Wychlaran]], [[Zhentarim]]
+| relrefs        = <ref name="F&A-p89">{{Cite book/Faiths & Avatars|89}}</ref><ref name="LoD-p56"/><ref name="CoS.W-p26">{{Cite book/City of Splendors: Waterdeep|26}}</ref><ref name="CoV-p9">{{Cite book/Champions of Valor|9}}</ref><ref name="CoR-p74">{{Cite book/Champions of Ruin|74}}</ref><ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref><ref name="PoF-p76">{{Cite book/Power of Faerûn|76}}</ref>
+| showmembers    = yes
+| orgname        = the Red Wizards of Thay
+}}
+The '''Red Wizards of Thay''', colloquially known as the '''Red Magic Cult''' in the [[Eastern Heartlands]], were the notorious and nefarious magocratic ruling class of the inhospitable but well-inhabited country of [[Thay]].<ref name="SCAG-p141">{{Cite book/Sword Coast Adventurer's Guide|141}}</ref> Historically they owed their power to being cruel slavers,<ref name="SB.CG-p14">{{Cite book/Spellbound/Campaign Guide|14}}</ref><ref name="CoR-p63">{{Cite book/Champions of Ruin|63}}</ref> demonologists,<ref name="SB.CG-p17">{{Cite book/Spellbound/Campaign Guide|17}}</ref><ref name="RoT-p7">{{Cite book/The Rise of Tiamat|7}}</ref> and arcane experimenters,<ref name="MotM-p60">{{Cite book/Mysteries of the Moonsea|60}}</ref> before most of their numbers wholly dedicated themselves to creating a nation of [[undeath|undead]].<ref name="SCAG-p13">{{Cite book/Sword Coast Adventurer's Guide|13}}</ref>
+
+==Organization==
+For centuries, the leaders of the Red Wizards and in fact all of Thay was the [[Council of Zulkirs]].<ref name="FRCS2e.RTR-p27">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|27}}</ref> The ruling body comprised eight of the most powerful Red Wizards, each of whom represented one of the [[schools of magic]].<ref name="LoD-p56"/> Each of the zulkirs and their subordinates fomented intense rivalries with one another, leading to great feuds and near-crippling internal strife.<ref name="LoD-p60">{{Cite book/Lords of Darkness|60}}</ref>
+
+In the years following the [[War of the Zulkirs]], the Red Wizards of Thay were led by the feared [[lich]] and supreme regent, [[Szass Tam]].<ref name="SCAG-p13"/><ref name="FRCG-p5">{{Cite book/Forgotten Realms Campaign Guide|5}}</ref><ref name="DrM.366.RK">{{Cite dragon/366/Rose Keep}}</ref>
+
+Since Szass Tam's takeover, the exiled Red Wizards have transformed enormously, becoming a loosely organized chain of merchant enclaves who specialized in procuring magical items.<ref name="DrM.366.RK"/>
+
+===Factions===
+The Red Wizards have historically been fraught with in-fighting and turmoil. As the stakes rose over the years, these conflicts became more dramatic and impactful to their operations.<ref name="SB.CG-p11">{{Cite book/Spellbound/Campaign Guide|11}}</ref><ref name="SB.CG-p15">{{Cite book/Spellbound/Campaign Guide|15}}</ref>
+
+In the years before the mid–14{{th}} century [[DR]], the Red Wizards divided themselves into two separate ideological groups. The influential Imperialists sought to conquer Faerûn, by military might, subterfuge, or any other means necessary.<ref name="SB.CG-p8"/> The Researchers took a more isolationist stance, preferring to focus on arcane research within the safety of the [[Thayan Plateau]].<ref name="SB.CG-p9">{{Cite book/Spellbound/Campaign Guide|9}}</ref>
+
+After Szass Tam seized power from the Council of Zulkirs, the Red Wizards underwent a more severe divide. Both the zulkirs and the Red Wizards loyal to their respective schools were forced to choose a faction in the growing conflict: eith
+

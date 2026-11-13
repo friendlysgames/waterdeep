@@ -1,0 +1,1567 @@
+=== WIKI PAGE: Waterdeep/Southern Ward
+
+{{Location
+| image              = Waterdeep_Wards-Southern_Ward_01.gif
+| caption            = The Southern Ward of Waterdeep, highlighted in yellow.
+| name               = Southern Ward of Waterdeep
+| alt spelling       = 
+| aliases            = South Ward, Temple Ward, Caravan City
+| type               = City ward
+| region             = [[Waterdeep]], [[northwest Faerûn]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="WatN-p11">{{Cite book/Waterdeep and the North|11}}</ref><ref name="VGtW-p135">{{Cite book/Volo's Guide to Waterdeep|135}}</ref><ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+'''Southern Ward''' was the southeastern sector of the city of [[Waterdeep]].<ref name="WatN-p11" /><ref name="VGtW-p135" /><ref name="CoSW-p106" /> It was named for the many settlers from [[South Faerûn|southern Faerûn]] as well as its geographic location within the city. As of the [[1491 DR|Year of the Scarlet Witch, 1491 DR]], only outsiders called it '''South Ward''', according to famed author [[Volo]] in his ''[[Volo's Waterdeep Enchiridion|Waterdeep Enchiridion]]''.<ref name="WDH-178" /> Interestingly, this custom changed from just the opposite, as reported by Volo in his ''[[Volo's Guide to Waterdeep|Guide to Waterdeep]]'' written in the early 1360s [[DR]].<ref name="VGtW-p135" />
+
+==Geography==
+The northern boundary with [[Trades Ward of Waterdeep|Trades Ward]] lay across [[Telshambra's Street]] and [[Caravan Court]]. On the west and south side was [[Dock Ward of Waterdeep|Dock Ward]] across the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]. To the east, the Ward was bounded by the city walls (circa [[1372 DR]]), specifically the "[[Trollwall]]", which included the southern inner gate leading to the [[Caravan Grounds]] and the [[South Gate (Waterdeep)|South Gate]] beyond.<ref name="VGtW-p135" /><ref name="WatN-cover">{{Cite book/Waterdeep and the North/Inside cover}}</ref><ref name="CoSW-93">{{Cite book/City of Splendors: Waterdeep|93}}</ref><ref name="CS-???">{{Cite book/City System}}</ref>
+
+The stretch of buildings and alleyways in this Ward that stood between the Way of the Dragon and the [[High Road (Waterdeep)|High Road]] was an area that locals referred to as the Tween Run.<ref name="VGtW-p155">{{Cite book/Volo's Guide to Waterdeep|155}}</ref>
+
+==Inhabitants==
+This was considered the "poor" ward and was often known as '''Caravan City''' due to the large numbers of caravan merchants, teamsters and guards that swelled the population of the ward most of the year.<ref name="VGtW-p135" /><ref name="CoSW-p106" />
+
+Dust and mud were common on the streets and most buildings were old, multi-story tenements with shops or businesses on the ground floor.<ref name="VGtW-p135" /> Many visited the ward to experience the wonder of the [[Moon Sphere]]; a miraculous event occurring on the nights of the full [[Selûne|moon]] in [[Dancing Court]],<ref name="VGtW-p142">{{Cite book/Volo's Guide to Waterdeep|142}}</ref> adjacent to the Jade Dancer; one of the best-known festhalls in the city.<ref name="VGtW-p155" />
+
+==Notable Locations==
+===Entertainment===
+* The [[Jade Dancer]]: Tavern and festhall famous for its dancing statue.<ref name="VGtW-p155" />
+* The [[Moon Sphere]]: Appeared in Dancing Court when the full moon was out.<ref name="VGtW-p142" />
+
+===Taverns===
+* The [[Full Cup]]: Caravan worker's and hauler's choice. Brawls were common.<ref name="VGtW-161" />
+* The [[Red Gauntlet]]: Old, dim, and mostly quiet.<ref name="VGtW-160">{{Cite book/Volo's Guide to Waterdeep|160}}</ref>
+* The [[Spouting Fish (Waterdeep)|Spouting Fish]]: Large, noisy, and popular.<ref name="VGtW-159" />
+* The [[Sword's Rest]]: Quiet, professional sword-swingers retreat.<ref name="VGtW-161">{{Cite book/Volo's Guide to Waterdeep|161}}</ref>
+===Guildhalls===
+* [[Builders' Hall]]: Headquarters of the [[Guild of Stonecutters, Masons, Potters, & Tile-makers]].<ref name="WatN-40">{{Cite book/Waterdeep and the North|40}}</ref>
+* The [[House of Good Spirits]]: Inn, tavern, winery, and headquarters of the [[Vintners', Distillers', & Brewers' Guild]].<ref name="WatN-44">{{Cite book/Waterdeep and the North|44}}</ref><ref name="VGtW-152">{{Cite book/Volo's Guide to Waterdeep|152}}</ref>
+* [[Metalmasters' Hall]]: Headquarters of the [[Most Careful Order of Skilled Smiths & Metalforgers]].<ref name="WatN-41">{{Cite book/Waterdeep and the North|41}}</ref>
+* The [[Road House]]: Headquarters of the [[Fellowship of Carters and Coachmen]].<ref name="WatN-39">{{Cite book/Waterdeep and the North|39}}</ref>
+* [[Saddlers' & Harness-Makers' Hall]]: Headquarters of the guild of the [[Saddlers' and Harness-makers' Guild|same name]].<ref name="WatN-43">{{Cite book/Waterdeep and the North|43}}</ref>
+* The [[Stone House (Waterdeep)|Stone House]]: Headquarters of the [[Carpenters', Roofers', & Plaisterers' Guild]].<ref name="WatN-37">{{Cite book/Waterdeep and the North|37}}</ref>
+
+===Open Areas===
+* [[Caravan Court]]: Popular place where caravans mustered and disbanded.<ref name="VGtW-116">{{Cite book/Volo's Guide to Waterdeep|116}}</ref>
+
+===Residences===
+* House of [[Kappiyan Flurmastyr]]: A kindly old [[potion]]-maker.<ref name="WatN-53">{{Cite book/Waterdeep and the North|53}}</ref><ref name="VGtW-138">{{Cite book/Volo's Guide to Waterdeep|138}}</ref>
+
+===Shops & Businesses===
+* [[Aurora's Realms Shop, South High Road Catalogue Counter]]: The Southern Ward outlet of [[Aurora's Emporium]].<ref name="VGtW-159" />
+* [[Bellister's House]]: Warehouse for [[Bellister's Hand]]; rumored to accept stolen goods.<ref name="CoSW-19">{{Cite book/City of Splendors: Waterdeep|19}}</ref>
+* [[Brian the Swordmaster's Smithy]]: Business and residence of [[Brian]] the Swordmaster.<ref name="CoSW-p106" /><ref name="WatN-25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-136">{{Cite book/Volo's Guide to Waterdeep|136}}</ref>
+* [[Nueth's Fine Nets]]: Nets, rope, tarpaulins, hammocks, and similar items.<ref name="VGtW-159">{{Cite book/Volo's Guide to Waterdeep|159}}</ref>
+* The [[Old Monster Shop]]: Unusual creatures bought and sold.<ref name="VGtW-146">{{Cite book/Volo's Guide to Waterdeep|146}}</ref>
+* [[Pelauvir's Counter]]: A general store for non-food items.<ref name="VGtW-159" />
+
+===Streets & Alleys===
+* [[Blacklock Alley]]<ref name="VGtW-163">{{Cite book/Volo's Guide to Waterdeep|163}}</ref>
+* The [[Forcebar]]<ref name="VGtW-164">{{Cite book/Volo's Guide to Waterdeep|164}}</ref>
+* [[Ilisar's Alley]]<ref name="VGtW-165">{{Cite book/Volo's Guide to Waterdeep|165}}</ref>
+* [[Mouse Alley]]<ref name="VGtW-165" />
+* [[Rednose Alley]]<ref name="VGtW-166">{{Cite book/Volo's Guide to Waterdeep|166}}</ref>
+* [[Ruid's Stroll]]<ref name="VGtW-166" />
+* [[Sethma's Court]]<ref name="VGtW-167">{{Cite book/Volo's Guide to Waterdeep|167}}</ref>
+
+==Appendix==
+{{Stub-geo}}
+===Appearances===
+:;Organized Play & Licensed Adventures
+::''[[When the Lights Went Out in Candlekeep]]''
+===Gallery===
+<gallery widths=200>
+DockWardBoundary.jpg|''Map showing the boundary of Southern Ward ''circa'' [[1357 DR]].''
+South Ward.jpg|''The Southern Ward circa [[1372 DR]].''
+</gallery>
+
+===References===
+{{refs}}
+===Connections===
+{{Wards of Waterdeep}}
+[[Category:Wards]]
+[[Category:Locations in Waterdeep| ]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Volothamp Geddarm
+
+{{two other uses|the prolific traveler|the Waterdhavian thief|Marco Volo|the [[Calimshan|Calishite]] city|Volothamp}}
+{{DEFAULTSORT:Geddarm, Volothamp}}
+{{Person
+| image          = <gallery>
+Volo Honor Among Thieves.png|[[Honor Among Thieves|HAT]]
+Volo-BGIII.png|BG3
+Volo-5e.jpg|5e 
+D282-Volo-Ron Spencer.png|3e 
+Volo.jpg|2e 
+</gallery>
+| caption        = 
+| name           = Volothamp Geddarm
+| true name      = 
+| alt_spelling   = 
+| titles         = 
+| aliases        = Valhalaeria the Vaunted <small>(pen name)</small><ref name="Ed">{{Cite web/theedverse/2020-03-06 - Volo's Complete Guide to the Behavior of Nymphs}}</ref><br/>Pidge<ref name="BG3" />
+| nicknames      = Volo,<ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="ToA5e-p235-236" /><br/>Volo the Loose-Tongued<ref name="Dr243-p57" /><br/>Volo the Hunted<ref>{{Cite book/Empires of the Shining Sea|151}}</ref><br/>Pidge<ref name="BG3" />
+| home           = [[Faerûn]]<ref name="RtR-p44" />
+| formerhomes    = 
+| sex            = Male
+| race           = [[Human]]
+| ethnicity      = 
+| occupation     = Writer, sage, traveler
+| age            = 
+| patron deity   = 
+| languages      = [[Common]], [[Dwarvish]], [[Elven language|Elvish]],<ref name="MVA-p5" /><ref name="ToA5e-p235-236" /><ref name="WDH-p218" /> [[Halfling language|Halfling]],<ref name="MVA-p5" /><ref name="ToA5e-p235-236" /> [[Goblin language|Goblin]] (rudimentary)<ref name="NwN2:SoZ" />
+| basicrefs      = <ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="MVD-p7" /><ref name="MVA-p5" /><ref name="NwN2:MoWg" /><ref name="ToA5e-p235-236" /><ref name="WDH-p218" />
+| reckoning      = 
+| dob            = 
+| dobnotes       = 
+| turned         = 
+| turnednotes    = 
+| death          = 
+| deathnotes     = 
+| destroyed      = 
+| destroyednotes = 
+| parents        = 
+| spouses        = 
+| siblings       = 
+| children       = [[Emmeros Silmerhelve]] (son)
+| familyrefs     = <ref name="Dr250-p80" /><ref name="NHoW" />
+| dynasty        = 
+| start of reign = 
+| end of reign   = 
+| predecessor    = 
+| successor      = 
+| successionrefs = 
+| alignment      = 
+| class          = 
+| rules          = 
+| alignment1e    = 
+| class1e        = 
+| refs1e         = 
+| alignment2e    = [[Chaotic good]]
+| class2e        = {{Class table|edition=2e|[[Wizard]]|5}}
+| refs2e         = <ref name="VGtW-p232-233" /><ref name="RtR-p44" /><ref name="FRCS2e-Cards" /><ref name="MVD-p7" /><ref name="MVA-p5" />
+| alignment3e    = 
+| challenge3e    = 
+| class3e        = 
+| refs3e         = 
+| alignment35    = 
+| challenge35    = 
+| class35        = 
+| refs35         = 
+| alignment4e    = 
+| class4e        = 
+| refs4e         = 
+| alignment5e    = [[Chaotic good]]
+| challenge5e    = {{Frac|1|4}}
+| class5e        = {{Class table|edition=5e|[[Wizard]]|1}}
+| refs5e         = <ref name="ToA5e-p235-236" /><ref name="WDH-p218" />
+}}
+'''Volothamp Geddarm''' ({{Pronounce|VOH|loh|thamp|_|geh|DARM|refs=<ref>{{Cite book/Tomb of Annihilation|4}}</ref><ref>{{Cite book/Waterdeep: Dragon Heist|4}}</ref>|audio=Volothamp Geddarm.ogg}}), or more often '''Volo''' for short, was a widely traveled [[human]] [[wizard]] and sage of [[Faerûn]] in the mid-to-late 14{{th}} century [[DR]]. He was a legendary traveler, explorer, and rogueish mage, and was most famous, or infamous, for his guidebooks<ref name="VGtW-p232-233">{{Cite book/Volo's Guide to Waterdeep|232-233}}</ref><ref name="RtR-p44">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Running the Realms|44}}</ref><ref name="FRCS2e-Cards">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/Cardsheets}}</ref><ref name="MVD-p7">{{Cite book/Marco Volo: Departure|7}}</ref><ref name="MVA-p5">{{Cite book/Marco Volo: Arrival|5}}</ref><ref name="NwN2:MoWg" /><ref>{{Cite dragon/238/Wyrms of the North: Felgolos|51}}</ref><ref name="ToA5e-p235-236">{{Cite book/Tomb of Annihilation|24-25,235-236}}</ref><ref name="WDH-p218">{{Cite book/Waterdeep: Dragon Heist|218}}</ref><ref name="EGP-WiViD&D">{{Cite web/Ed Greenwood's Patreon/Who Is Volo in D&D? (His Creator Tells All)}}</ref> including the controversial and notorious ''Volo's Guide to All Things Magical''.<ref name="VGtW-p232-233" />
+{{quote|''This guidebook is the next in my ongoing tour of the Realms—I assure thee all, gentles, that you'll find no more diligent guide than your humble servant, Volothamp Geddarm. These last few seasons I've trudged, ridden, swum, sailed, and even flown from the icy wastes north of the Spine of the World to the hot, steaming jungles of the Shining South—and beyond—all in thy service, gentle traveler.''|Excerpt from Volo's introduction to ''Volo's Guide to the Sword Coast''<ref name="VGttSC-p4" />}}
+{{TOC limit|3}}
+==Personality==
+What is known of Volo comes via [[Elminster]], who edited, annotated, provided prefaces for, and indeed criticized Volo's guides.<ref name="VGtW-p4" /><ref name="VGttN-p4" /><ref name="VGtC-p4" /><ref name="VGttD-p4" /> In these, he described Volo as "impe
+
+=== LINKED WIKI PAGE (first 5000 chars): Volo's Guide to Waterdeep
+
+{{Book
+| image     = Volo's Guide to Waterdeep.jpg
+| code      = TSR9379
+| title     = Volo's Guide to Waterdeep
+| author    = [[Ed Greenwood]]
+| editor       = [[Julia Martin]]
+| cover_artist = [[Robh Ruppel]]
+| inter_artist = [[Valerie Valusek]]
+| cartography  = [[Joel Meyer]]<br/>[[Dennis Kauth]]
+| typography   = [[Angelika Lokotz]]
+| publisher = [[TSR, Inc.]]
+| released  = January 1993<ref>{{cite web|url=http://www.dmsguild.com/product/16836/Volos-Guide-to-Waterdeep-%282e%29?affiliate_id=4782917|title=Volo's Guide to Waterdeep (2e)|author=Shannon Appelcline|publisher=Dungeon Masters Guild|accessdate=2014-01-10}}</ref>
+| type      = Accessory
+| binding   = Paperback
+| realm year  = [[1363 DR|1363]] - [[1367 DR]]
+| pages     = 240
+| isbn10    = 1-56076-335-3
+| isbn13    = 978-1560763352
+| Roll20number = 16836
+}}
+'''''Volo's Guide to Waterdeep''''' is a 2{{nd}}-edition ''Advanced Dungeons & Dragons'' accessory for the ''[[Forgotten Realms]]''.
+{{quote|''Well met, traveler!''
+
+''You hold in your hands an amusing and insightful guide to [[Waterdeep]] - the [[metropolis]] of [[the North]], the City of Splendors. This handy pouch-sized tome presents [[Volo]]'s choice of the finest, most spectacular, and least known (but most desired) information about the people, customs, and locations in Waterdeep - ranked with a handy coin, dagger, pipe, and tankard ratings system.''
+
+''Discover:''
+* ''What it's like to attend a private party hosted by Waterdhavian nobles,''
+* ''Where Waterdeep's ghosts walk,''
+* ''Legends and clues about famous, as-yet-unrecovered treasures,''
+* ''What fare a typical Waterdhavian menu offers you,''
+* ''The best moon-kissed spots to meet Waterdhavians of the opposite sex,''
+* ''Waterdeep's best shops and craftsmen,''
+* ''The best places to dine, stay, see -- and, of course, avoid!''
+
+''Special note: This edition of Volo's Guide to Waterdeep, intended for travelers from beyond the borders of [[Faerûn]], contains notes and commentary by the famous archmage and sage [[Elminster]]."''}}
+==Description==
+''Volo's Guide to Waterdeep'' is one in a series of guidebooks written by famed explorer and raconteur [[Volothamp Geddarm]] (under the editorial control of [[Elminster]] of [[Shadowdale]]).
+==Contents==
+* Preface: From Elminster
+* Introduction: A Word From Volo
+* Castle Ward
+* Sea Ward
+* North Ward
+* Trades Ward
+* Southern Ward
+* Dock Ward
+* Appendix I: Folk Of Waterdeep
+* Appendix II: Index of Places
+* Appendix III: Color Map Key
+==Index==
+{{IndexLink|Click here for page index}}
+
+===Characters===
+:{{P|[[Aglatha Shrey]]|200,214}} • {{P|[[Ahghairon]]|8}} • {{P|[[Alsible Blackhorn]]|129}} • {{P|[[Amaratha Ruendarr]]|215}} • {{P|[[Ansilver]]|16}} • {{P|[[Aurora]]|14-15}} • {{P|[[Balarg Dathen]]|25}} • {{P|[[Balthorr Olaskos]]|15}} • {{P|[[Blazidon "One-Eye"]]|}} • {{P|[[Cathal Sunspear]]|15}} • {{P|[[Cathliira]]|139}} • {{P|[[Dlarna Suone]]|153}} • {{P|[[Elguth Iramblin]]|}} • {{P|[[Felestin]]|154}} • {{P|[[Felzoun Thar]]|220}} • {{P|[[Gordrym Zhavall]]|153}} • {{P|[[Hilmer]]|18-19,221}} • {{P|[[Ilmairen Arnskull]]|222}} • {{P|[[Ilphara]]|139}} • {{P|[[Imbaerl]]|139}} • {{P|[[Immithar]]|21}} • {{P|[[Jaerloon Bucklebar]]|222}} • {{P|[[Jathaliira Thindrel]]|222}} • {{P|[[Jannaxil Serpentil]]|223}} • {{P|[[Jhauntar Olmhazan]]|19}} • {{P|[[Kaeroven Yuluth]]|188-189,223,230}} • {{P|[[Kappiyan Flurmastyr]]|136,138-140,218,223,229,236,240}} • {{P|[[Khelben Arunsun]]|9,17}} • {{P|[[Klarargh Skullbold]]|124}} • {{P|[[Kriios Halambar]]|17}} • {{P|[[Larithmae]]|139}} • {{P|[[Loene]]|224}} • {{P|[[Masked Minstrel]]|225}} • {{P|[[Mhair Szeltune]]|225}} • {{P|[[Minthalue]]|139}} • {{P|[[Mintiper Moonsilver]]|16-16,185}} • {{P|[[Mirt]]|11}} • {{P|[[Moarinskoar Irlingstar]]|69}} • {{P|[[Mrorn Halduth]]|153}} • {{P|[[Nain Keenwhistler]]|13}} • {{P|[[Narthindlar]]|43,226}} • {{P|[[Nesmorae]]|139}} • {{P|[[Ouldra]]|148}} • {{P|[[Orlpiir Hammerstar]]|228}} • {{P|[[Phalantar Orivan]]|20-21}} • {{P|[[Phantrara]]|139}} • {{P|[[Piergeiron the Paladinson]]|7-8}} • {{P|[[Relchoz Hriiat]]|94,229}} • {{P|[[Ruufdeidel Ressatar]]|165,229}} • {{P|[[Sabbar]]|74,229}} • {{P|[[Shalara Malarkkin]]|138-140,229-230}} • {{P|[[Shyrrhr]]|230}} • {{P|[[Simon Thrithyn]]|230}} • {{P|[[Snilloc]]|233}} • {{P|[[Tathlorn]]|231}} • {{P|[[Thunturn]]|165-166}} • {{P|[[Volothamp Geddarm]]|232-233}} • {{P|[[Vorn Laskadarr]]|24}} • {{P|[[Welvreene Thalmit]]|22}} • {{P|[[Xanatrar Hillhorn]]|15}} • {{P|[[Xandos Waeverym]]|233-234}} • {{P|[[Yaereene Ilbaereth]]|25,234}} • {{P|[[Zalanthess]]|186,234}} • {{P|[[Zarondar Riautar]]|123,234}} • {{P|[[Zobia Shrinsha]]|96,234}} • {{P|[[Zygarth Saern]]|125,234}}
+
+===Creatures===
+:{{P|[[battle horror]]|19}} • {{P|[[blue dragon]]|23}} • {{P|[[boar]]|153,161}} • {{P|[[cockatrice]]|146,149-150}} • {{P|[[crab]]|25}} • {{P|[[crawling claw]]|130}} • {{P|[[death tyrant]]|227}} • {{P|[[deepspawn]]|149}} • {{P|[[deer]]|25}} • {{P|[[dragonet]]|54,101}} • {{P|[[duck]]|113}} • {{P|[[dung beetle]]|233}} • {{P|[[eye of the deep
+
+=== LINKED WIKI PAGE (first 5000 chars): Marking the years
+
+{{Roll of years|1|Sunrise|nocat=true}}
+''Example conversion between the years for [[1 DR]]''
+
+Years (winters)<ref name="GTotR-p22" /> are referred to by names, each name consistent across the Realms. Each kingdom or city-state numbers years differently, usually to measure the reign of a dynasty or the current monarch, or since the founding of the country. The result is a hodgepodge of overlapping numbers that serve to confuse the ordinary person and frustrate the sage. The widespread differing year dates include the following:
+
+==Methods of Reckoning==
+===Dalereckoning (DR)===
+Dalereckoning is taken from the {{YearlinkName|1}}, when the [[Standing Stone]] was raised by the [[elves]] of [[Cormanthyr]] and the [[human]]s of the [[Dalelands]]. Since this time, humans were permitted by the [[Elven Court]] to settle in the more open regions of the forests. In some texts, primarily those which do not have direct ties to Dalesfolk history, Dalereckoning is called Freeman's Reckoning (FR). The calendar is widely used in [[Faerûn]] but has not spread beyond its shores.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Cormyr Reckoning (CR)===
+[[Cormyr]] Reckoning begins at the foundation of [[House Obarskyr]], the dynasty that still rules that land. The 25-year gap between Cormyr Reckoning and Dalereckoning has caused much of the confusion regarding elder days. Timelines and calendars of the period often use DR designators, but place the founding of Cormyr at 1 DR instead of [[26 DR]]. This is understandable, given that the two reckonings are from two nearby parties and spread by a third (the merchants of Sembia), but it causes learned sages to slam their heads violently against their desks trying to figure things out.<ref name="GTotR-p22">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22}}</ref><ref name="TGHotR-p4">{{Cite book/The Grand History of the Realms|4}}</ref>
+
+===Tethyreckoning (TR)===
+Tethyreckoning begins with Founding Year, Year 0 TR, in {{Yearlink|-212}}, when [[Darrom Ithal]] of [[Clan Ithal]] retook the city of [[Myratma]] from the [[Calimshan|Calishites]] in the [[Battle of the Purple Marches]] and was crowned king of [[Tethyr]] by the clans. This dating system was rarely used outside of official legal documents in Tethyr.<ref name="LoI1-T-p25">{{Cite book/Lands of Intrigue/Tethyr|25}}</ref>
+
+===Northreckoning (NR)===
+Used in the City of [[Waterdeep]], Northreckoning dates from the year [[Ahghairon]] became the first [[Lords of Waterdeep|Lord of Waterdeep]] ([[1032 DR]]). A more archaic system called Waterdeep Years (WY) dates from the supposed first use of Waterdeep as a trading post. This reckoning is now largely abandoned except in ancient texts.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Mulhorand Calendar (MC)===
+One of the oldest calendars in use in the Realms, this ancient scheme of record-keeping dates from the founding of [[Skuld]], the City of Shadows, reputedly by a [[Mulhorand]]i god.<ref name="GTotR-p22" /><ref name="TGHotR-p4" />
+
+===Netheril Year Calendar (NY)===
+Used by the [[Netherese]], it places 0 NY on {{Yearlink|-3859}}, when several villages on the shore of the [[Narrow Sea]] combined for mutual protection, forming the [[Alliance of Seventon]], which later became [[Netheril]].<ref name="NEoM-p5">{{Cite book/Netheril: Empire of Magic/The Winds of Netheril|5}}</ref> The Netheril Year calendar was created by [[Nether]] to celebrate the union.<ref name="TGHotR-27">{{Cite book/The Grand History of the Realms|27}}</ref>
+
+===Present Reckoning (PR)===
+In an attempt to get a handle on the various number systems in use, a new type of reckoning has been implemented with the approval of such worthies as [[Khelben "Blackstaff" Arunsun]] of Waterdeep and [[Vangerdahast]] of Cormyr and carried abroad by the [[Harpers]]. All year-dates trace back to the [[Time of Troubles]] in the {{YearlinkName|1358}}, as year 0.<ref name="GTotR-p22-23">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|22-23}}</ref>
+
+===Amnian Calendar===
+The local calendar of [[Amn]] was based on the founding of [[Athkatla]] and the opening of its market on [[Shieldmeet]] in {{YearlinkName|100}}, which served as year 0. However, the Amnian calendar was largely irrelevant and rarely used outside of some official documents, with the vast majority of the population using Dalereckoning instead.<ref name="LoI2-A-p19">{{Cite book/Lands of Intrigue/Amn|19}}</ref>
+
+===Impilturan Calendar===
+The old calendar of [[Impiltur]] was the primary reckoning tradition in the so-called [[Demonlands]], including [[Damara]], the [[Great Dale]], Impiltur, [[Narfell]], and [[Vaasa]]. It began with the founding of the kingdom of Impiltur, which in Dalereckoning occurred in the {{YearlinkName|-74}}.<ref name="DunMag.177-p77">{{Cite dungeon/177/Realmslore: Vaasa|77}}</ref><ref name="tGHotR-p58">{{Cite book/The Grand History of the Realms|58}}</ref
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Trades Ward
+
+{{Location
+| type          = Ward
+| name          = Trades Ward of Waterdeep
+| image         = Waterdeep_Wards-Trades_Ward_01.gif
+| caption       = 
+| aliases       = 
+| capital       = 
+| area          = [[Waterdeep]], [[Sword Coast North]]<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="VGtW-p105">{{Cite book/Volo's Guide to Waterdeep|105}}</ref><ref name="CoS-p100">{{Cite book/City of Splendors: Waterdeep|100}}</ref>
+| size          = 
+| ruler1        = 
+| ruleryear1    = 
+| ruler2        = 
+| ruleryear2    = 
+| ruler3        = 
+| ruleryear3    = 
+| ruler4        = 
+| ruleryear4    = 
+| ruler5        = 
+| ruleryear5    = 
+| rulertype     = 
+| government    = 
+| languages     = 
+| races         = 
+| religion      = 
+| currency      =
+| reckoning     = DR
+| population1   = 
+| popyear1      = 
+| population2   = 
+| popyear2      = 
+| population3   = 
+| popyear3      = 
+| imports       = 
+| exports       = 
+| alignment     = 
+| allegiance    = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = yes
+| organizations = yes
+| settlements   = 
+}}
+The '''Trades Ward''' was one of the seven wards of the city of [[Waterdeep]]. It was the main shopping district of Waterdeep and housed many of the city's guildhalls.<ref name="VGtW-p105" /> 
+
+==Geography==
+The ward was bounded in the south by the [[Southern Ward of Waterdeep|Southern Ward]], in the west by [[Castle Ward]], in the north by [[North Ward of Waterdeep|North Ward]] and the [[City of the Dead (Waterdeep)|City of the Dead]] and in the east by the [[Trollwall]].<ref name="VGtW-p105" />
+
+==History==
+In the late 14{{th}} century [[DR]], over the course of a [[tenday]] and more, streets across the Trades Ward experienced a number of [[ghost]]ly sightings that left many citizens, scribes, and members of the [[City Watch (Waterdeep)|City Watch]] confused. Some speculated if a [[wizard]] experimenting with [[illusion]]s may have been the cause. Others speculated it was a wizard seeking to harm local businesses, drive down local property values, or simply spread fear&mdash;though all who put forward these theories admitted to having nothing to backup their claims.<ref name="WN.GS" />
+
+Some interpreted the apparitions as being a message &mdash; [[Sambral the Soothsayer]] would claim the dead were warning Waterdhavians of impending battles from underground invaders, [[Sheireera|Sheireera of the Prophecies]] would claim that it was the dead crying out against immorality and lawlessness in Waterdeep, and [[priest]] [[Thalomaun]] of the [[Church of Lathander]] would make a proclamation on [[Virgin's Square]] that it was a sign from the dead for the living of the affected neighborhoods to do away with old businesses and make way for new ones.<ref name="WN.GS">{{Cite web/Waterdeep News/Ghost Sightings}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Guildhalls===
+* [[Citadel of the Arrow]]: Headquarters of the [[Fellowship of Bowyers and Fletchers]].<ref name="VGtW-107" />
+* [[Cobblers' & Corvisers' House]]: Headquarters of the [[Order of Cobblers and Corvisers]].<ref name="VGtW-107" />
+* [[Costumers' Hall]]: Headquarters of the [[Order of Master Taylors, Glovers, and Mercers]].<ref name="VGtW-107" />
+* [[Guild Paddock]]: Headquarters of the [[Stablemasters' & Farriers' Guild]].<ref name="VGtW-107" />
+* [[House of Cleanliness]]: Headquarters of the [[Launderers' Guild]].<ref name="VGtW-107" />
+* [[House of Light]]: Headquarters of the [[Guild of Chandlers and Lamplighters]].<ref name="VGtW-107" /><ref name="WDH-178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+* [[House of Song]]: Headquarters of the [[Council of Musicians, Instrument-Makers, & Choristers]].<ref name="VGtW-107" />
+* [[House of Textiles]]: Headquarters of the [[Most Excellent Order of Weavers and Dyers|Most Excellent Order of Weavers & Dyers]].<ref name="VGtW-107" />
+* [[League Office]]: Headquarters of the [[League of Basketmakers & Wickerworkers]].<ref name="VGtW-107" />
+* [[Old Guildhall]]: Headquarters of the [[Cellarers' & Plumbers' Guild]].<ref name="VGtW-107" />
+* [[Stationers' Hall]]: Headquarters of the [[Stationers' Guild]].<ref name="VGtW-107" />
+* [[The Zoarstar]]: Headquarters of the [[Scriveners', Scribes', & Clerks' Guild]].<ref name="WatN-p25" /><ref name="VGtW-107">{{Cite book/Volo's Guide to Waterdeep|107}}</ref><ref name="CoSW-102">{{Cite book/City of Splendors: Waterdeep|102}}</ref>
+* [[Wheel Hall]]: Headquarters of the [[Wheelwrights' Guild]].<ref name="VGtW-107" />
+
+===Taverns & Inns===
+* The [[Bowels of the Earth]]: Near Virgin's Square. Popular with adventurers and mercenaries.<ref name="WatN-p25" /><ref name="VGtW-108">{{Cite book/Volo's Guide to Waterdeep|108}}</ref><ref name="CoSW-55">{{Cite book/City of Splendors: Waterdeep|55}}</ref>
+* The [[Dagger's Rest]]: An affordable inn catering to adventurers.<ref name="Wate1.1-p4">{{Cite organized play/LFR/Heirloom|4}}</ref>
+*[[Felzoun's Folly]]: A place for a quick bite to eat a
+
+=== LINKED WIKI PAGE (first 5000 chars): Telshambra's Street
+
+{{Road
+| image          = Beacon-Blackmul-Drover-Salabar WDH-map.png
+| caption        = Telshambra's Street on a circa. [[1492 DR]] map
+| name           = Telshambra's Street
+| type           = Road
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = Dirt & gravel<ref name="CoS-map" />
+| location       = [[Waterdeep/Southern Ward|Southern Ward]] & [[Waterdeep/Trades Ward|Trades Ward]], [[Waterdeep]]
+| starts         = [[High Road (Waterdeep)|High Road]]
+| ends           = [[Way of the Dragon (Waterdeep)|Way of the Dragon]]
+| built          = 
+| refs           = <ref name="CS">{{Cite book/City System/Map07}}</ref><ref name="WatN.M">{{Cite book/Waterdeep and the North/Map}}</ref><ref name="TCoWTM">{{Cite book/The City of Waterdeep Trail Map}}</ref><ref name="W.DH">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = yes
+| events         = 
+}}
+'''Telshambra's Street''' was a road paved in hard-packed dirt and [[gravel]],<ref name="CoS-map">{{Cite book/City of Splendors (boxed set)/Map}}</ref> that stood on the boundary line of the city of [[Waterdeep]]'s [[Waterdeep/Southern Ward|Southern Ward]] and [[Waterdeep/Trades Ward|Trades Ward]].<ref name="TCoWTM" /><ref name="VGtW-p105,135">{{Cite book/Volo's Guide to Waterdeep|105,135}}</ref><ref name="CoS.AGttC-p7">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|7}}</ref>
+
+==Geography==
+This road ran from east to west, spanning between the [[High Road (Waterdeep)|High Road]] and the [[Way of the Dragon (Waterdeep)|Way of the Dragon]]. Along the way it acted as the southern terminus of [[Blackmul Street]] and the terminus for both ends of the curving [[Ilisar's Alley]].<ref name="CS" /><ref name="WatN.M" /><ref name="TCoWTM" /><ref name="W.DH" />
+
+==Notable Locations==
+;[[Blackstone House (Waterdeep)|Blackstone House]]: A rowhouse on the corner of Telshambra's Street and the Way of the Dragon.<ref>{{Cite book/City of Splendors: Waterdeep|102,105}}</ref>
+;[[Stone House (Waterdeep)|The Stone House]]: Guildhall of the [[Carpenters', Roofers', & Plaisterers' Guild]].<ref name="WatN-p37">{{Cite book/Waterdeep and the North|37}}</ref><ref name="CoS-p38">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|38}}</ref>
+
+==Appendix==
+===Gallery===
+<gallery>
+TradesWardBoundary.jpg|''A map of minimal detail from [[1357 DR]] that features an indicator for Telshambra's Street's location.''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+[[Category:Locations on Ilisar's Alley]]
+[[Category:Locations in the Tween Run]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Caravan Court
+
+{{Road
+| image          = Caravan Court CS-map.png
+| caption        = A map showing Caravan Court and surroundings in the Southern Ward of Waterdeep.
+| name           = Caravan Court
+| type           = Courtyard
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| starts         = 
+| ends           = 
+| refs           = <ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = 
+| inhabitants    = 
+| locations      = yes
+| organizations  = 
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+'''Caravan Court''' was a large courtyard that was located in the city of [[Waterdeep]].<ref name="CS.M08">{{Cite book/City System/Map08}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+Caravan Court was located in the northeast section of Waterdeep's [[Waterdeep/Southern Ward|Southern Ward]]. The northern side of the courtyard bordered the [[Waterdeep/Trades Ward|Trades Ward]]. Streets connecting with Caravan Court included [[Quarrel's Flight]], [[Sahtyra's Lane]], [[Ruid's Stroll]], [[the Rising Ride]], [[Belzer's Walk]], and [[Caravan Street]].<ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Activities==
+The court was a popular spot for old men to gather and watch others perform hard labor and sweat. Many brought their own stools or crates for the occasion.<ref name="VGtW-p116">{{Cite book/Volo's Guide to Waterdeep|116}}</ref>
+
+==Appendix==
+===Gallery===
+<gallery>
+TradesWardBoundary.jpg|''A map of minimal detail from [[1357 DR]] that features an indicator for Caravan Court's location.''
+</gallery>
+===References===
+{{Refs}}
+[[Category:Locations on Caravan Street]]
+[[Category:Locations on the Rising Ride]]
+[[Category:Locations on Belzer's Walk]]
+[[Category:Locations on Ruid's Stroll]]
+[[Category:Locations on Sahtyra's Lane]]
+[[Category:Locations on Quarrel's Flight]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Waterdeep/Dock Ward
+
+{{Location
+| image              = Dockwardspring.png
+| caption            = The Dock Ward in Spring.
+| name               = Dock Ward of Waterdeep
+| alt spelling       = 
+| aliases            = 
+| type               = 
+| region             = [[Waterdeep]], [[Sword Coast North]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = 
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = yes
+| useon              = 
+| inhabitants        = yes
+| locations          = yes
+| organizations      = yes
+| settlements        = 
+| roads              = yes
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = yes
+| food and drink     = 
+| items              = 
+}}
+The '''Dock Ward of Waterdeep''' was situated on the ''Great Harbor'' of [[Waterdeep]]. It contained the docks, shipbuilding yards, and warehouses for the sea trade. Compared to the rest of the city it was exceptionally dirty, smelly, and particularly dangerous. In the words of [[Elminster]] himself, the Dock Ward was a "riotous, nigh-perpetual brawl that covers entire acres, interrupted only by small buildings, intermittent trade businesses, an errant dog or two, and a few brave watchguards, who manage to keep the chaos from spreading beyond the docks; the whole lot wallowing in the stench of rotting fish."
+
+==History==
+''Circa'' [[1368 DR]], an enterprising [[halfling]] [[Joshuan Havabuck]] was involved in numerous schemes and business in the Dock Ward. His main profitable business was the [[lottery]] where the folk of Waterdeep placed bets on the total daily tonnage that entered the harbor. The numbers were reported by the dockmaster and the winnings were distributed accordingly. One ticket was sold for a single [[Golden lion (coin)|gold lion]] and the take, on average, was ten thousand coins. Amazingly, in 1368 DR, not ten people, picked the correct number, not even thirty. Every single gambler guessed it correctly. This was due the goddess of luck - [[Tymora]]'s power running amok in [[Faerûn]]. Joshuan Havabuck resorted to loaning ten million gold lions with steep interest from [[Mirt the Moneylender]] and pay the winnings out.<ref name="ty">{{Cite book/Tymora's Luck|101-104}}</ref>
+
+After the [[Spellplague]], the northern section of Waterdeep harbor became dilapidated with most of the harbor choked with sunken ship hulls. This section became known as [[Mistshore]].<ref>{{Cite book/Mistshore|?}}</ref>
+
+==Notable Locations==
+{{/Imagemap}}
+===Inns, Taverns & Festhalls===
+* The [[Blackstar Inn]]: High-priced (for the Dock Ward) Inn run by [[Asiyra Boldwinter]].<ref name="VGtW-p206">{{Cite book/Volo's Guide to Waterdeep|206}}</ref>
+* The [[Bloody Fist]]: Tavern with near-constant brawls, run by [[Uglukh Vorl]].<ref name="VGtW-p204">{{Cite book/Volo's Guide to Waterdeep|204}}</ref>
+* The [[Blue Mermaid]]: Clean tavern; run by Mother [[Jalyth Hlommorath]].<ref name="VGtW-p200">{{Cite book/Volo's Guide to Waterdeep|200}}</ref>
+* The [[Blushing Mermaid (Waterdeep)|Blushing Mermaid]]: On [[Net Street (south)|Net Street]]; a luxurious inn, taven & festhall; run by Lady [[Alathene Moonstar]].<ref name="VGtW-p193-196">{{Cite book/Volo's Guide to Waterdeep|193-196}}</ref>
+* [[Cookhouse Hall]]: Favorite festhall of sailors.<ref name="VGtW-p170">{{Cite book/Volo's Guide to Waterdeep|170}}</ref>
+* The [[Copper Cup]]: Off the [[Southyard]]; inn, tavern, & festhall owned by its dancers.<ref name="VGtW-p197-198">{{Cite 
+
+=== LINKED WIKI PAGE (first 5000 chars): Way of the Dragon (Waterdeep)
+
+{{otheruses4|the road in [[Waterdeep]]|the road in [[Cormyr]]|Way of the Dragon}}
+{{Road
+| image          = DockWardBoundary.jpg
+| caption        = A map showing the Way of the Dragon and surroundings in Waterdeep.
+| name           = Way of the Dragon 
+| type           = Road
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| starts         = [[High Road (Waterdeep)|High Road]]
+| ends           = High Road
+| refs           = <ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| linkname       = Way of the Dragon (Waterdeep)
+| inhabitants    = 
+| locations      = yes
+| organizations  = yes
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+The '''Way of the Dragon''' was a prominent road that was located in the city of [[Waterdeep]].<ref name="CS.M08">{{Cite book/City System/Map08}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+The Way of the Dragon was located in southern Waterdeep. It formed much of the border between the [[Waterdeep/Southern Ward|Southern Ward]] and [[Waterdeep/Dock Ward|Dock Ward]]. The Way of the Dragon originated in the north in the [[Waterdeep/Trades Ward|Trades Ward]] where it branched south from the [[High Road (Waterdeep)|High Road]]. It continued south, turning southwest in a curve near its end to merge with the High Road again at [[Waymoot (Waterdeep)|Waymoot]] just northwest of the [[South Gate]].<ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/> The Way of the Dragon also formed the western edge of what locals called the [[Tween Run]].<ref name="VGtW-p155">{{Cite book/Volo's Guide to Waterdeep|155}}</ref>
+
+Many smaller roads connected with the way of the Dragon including [[Simple's Street]], [[Soothsayer's Way]], [[Drakiir Street]], [[Zastrow Street]], [[Fillet Lane]], [[Net Street (south)|Net Street]], [[Spices Street]], [[Hog Street]], [[Nag Street]], [[Sambril Lane]], [[Slop Street]], [[Brian's Street]], the [[Street of Smiths]], [[Telshambra's Street]], [[Blackhorn Alley]], [[Candle Lane]], [[Hunters' Alley]], [[Manysteps Alley]], [[Odd Street]], and [[Tsarnen Alley]].<ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/><ref name="CoS.MTT">{{Cite book/City of Splendors (boxed set)/Map/The Thirsty Throat}}</ref>
+
+==Notable Locations==
+* [[Aurora's Realms Shop, South High Road Catalogue Counter]]
+* [[Butchers' Guildhall]]
+* [[Spouting Fish (Waterdeep)|Spouting Fish]]
+* [[Stationers' Hall]]
+
+==Appendix==
+===Appearances===
+{{Appearances
+| novels              = ''[[The Fallbacks: Bound for Ruin]]''
+| novel refs          = 
+}}
+===References===
+{{Refs}}
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations on Simple's Street]]
+[[Category:Locations on Soothsayer's Way]]
+[[Category:Locations on Drakiir Street]]
+[[Category:Locations on Zastrow Street]]
+[[Category:Locations on Fillet Lane]]
+[[Category:Locations on Net Street (south)]]
+[[Category:Locations on Spices Street]]
+[[Category:Locations on Hog Street]]
+[[Category:Locations on Nag Street]]
+[[Category:Locations on Sambril Lane]]
+[[Category:Locations on Slop Street]]
+[[Category:Locations on Manysteps Alley]]
+[[Category:Locations on Brian's Street]]
+[[Category:Locations on the Street of Smiths]]
+[[Category:Locations on Telshambra's Street]]
+[[Category:Locations on Blackhorn Alley]]
+[[Category:Locations on Candle Lane]]
+[[Category:Locations on Hunters' Alley]]
+[[Category:Locations on Odd Street]]
+[[Category:Locations on Tsarnen Alley]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Trollwall
+
+{{Location
+| image              = 
+| caption            = 
+| name               = Trollwall
+| alt spelling       = 
+| aliases            = 
+| type               = Wall
+| region             = [[Waterdeep]]
+| size               = 
+| elevation          = 
+| depth              = 
+| capital            = 
+| largest city       = 
+| georefs            = <ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" />
+| demonym            = 
+| population         = 
+| races              = 
+| languages          = 
+| religion           = 
+| alignment          = 
+| socrefs            = 
+| imports            = 
+| exports            = 
+| currency           = 
+| comrefs            = 
+| government         = 
+| rulertype          = 
+| ruler              = 
+| head of state      = 
+| leader1            = 
+| head of government = 
+| leader2            = 
+| executive          = 
+| legislature        = 
+| judiciary          = 
+| allegiances        = 
+| govrefs            = 
+| established        = 
+| start event        = 
+| start date         = 
+| event1             = 
+| date1              = 
+| event2             = 
+| date2              = 
+| event3             = 
+| date3              = 
+| event4             = 
+| date4              = 
+| disestablished     = 
+| end event          = 
+| end date           = 
+| predecessor        = 
+| successor          = 
+| population1        = 
+| popyear1           = 
+| population2        = 
+| popyear2           = 
+| population3        = 
+| popyear3           = 
+| population4        = 
+| popyear4           = 
+| population5        = 
+| popyear5           = 
+| poptable           = 
+| ruler1             = 
+| ruleryear1         = 
+| ruler2             = 
+| ruleryear2         = 
+| ruler3             = 
+| ruleryear3         = 
+| ruler4             = 
+| ruleryear4         = 
+| ruler5             = 
+| ruleryear5         = 
+| rulertable         = 
+| histrefs           = 
+| usethe             = 
+| useon              = 
+| inhabitants        = 
+| locations          = 
+| organizations      = 
+| settlements        = 
+| roads              = 
+| mountains          = 
+| bodies of water    = 
+| forests            = 
+| events             = 
+| food and drink     = 
+| items              = 
+}}
+The '''Trollwall''' was a defensive barrier that encircled nearly the entirety of the city of [[Waterdeep]].<ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" /><ref name="WatN-p11">{{Cite book/Waterdeep and the North|11}}</ref>
+
+==Location==
+The Trollwall fully surrounded Waterdeep's eastern perimeter, from its southern tip at [[Deepwater Harbor]] to the northern end of the [[City of the Dead]],<ref name="CoS.CG-p8" /><ref name="WatN-p11" /> along the way acting as the eastern boundary of the [[Waterdeep/Southern Ward|Southern Ward]].<ref>{{Cite book/Volo's Guide to Waterdeep|135}}</ref> It stopped at the northeastern corner of the City of the Dead, at a small stretch of land known as the [[Cliffwatch]],<ref name="CoS.CG-p8" /><ref name="CoS.W-p18-19" /> whose steep {{SI|100|ft}} cliff of the [[Cliffwatch (cliff)|same name]] acted as a natural barrier.<ref name="CoS.CG-p8" /><ref name="WatN-p11" /><ref name="CoS.CG-p43" /><ref name="CoS.W-p94">{{Cite book/City of Splendors: Waterdeep|94}}</ref> The Trollwall then continued around Waterdeep's northern perimeter,<ref name="CoS.CG-p8" /><ref name="WatN-p11" /> beginning at the point in which the Cliffwatch's height was negligible enough for attackers to scale it,<ref name="WatN-p11" /> and formed the southern boundary of the [[Waterdeep/Field Ward|Field Ward]]<ref>{{Cite book/Forgotten Realms Player's Guide|128}}</ref><ref>{{Cite book/Forgotten Realms Campaign Guide|196}}</ref> before doubling back south to surrounded the western seacoast.<ref name="CoS.CG-p8" /><ref name="WatN-p11" />
+
+==Structure==
+In the [[Present Age]], the Trollwall was made of stone and measured {{SI|40|ft|long=yes}} tall.<ref name="CoS.W-p18-19">{{Cite book/City of Splendors: Waterdeep|18-19}}</ref> The thickness of the barrier varied from {{SIrange|10|20|ft|long=yes}} in places,<ref name="CoS.CG-p8">{{Cite book/City of Splendors (boxed set)/Campaign Guide|8}}</ref> but was most commonly {{SI|15|ft|long=yes}} thick. The wall had crenellations on both of its sides.<ref name="CoS.W-p18-19" />
+
+Throughout its length the Trollwall was studded with watch towers.<ref name="CS-p5">{{Cite book/City System|5}}</ref><ref name="FRCS2e-p105">{{Cite book/Forgotten Realms Campaign Setting 2nd edition (revised)/A Grand Tour of the Realms|105}}</ref> These were known as Trollwall Towers<ref>{{Cite book/Volo's Guide to Waterdeep|167}}</ref> or torchtowers,<ref name="edverse">{{Cite web/theedverse/2021-10-17 - Waterdeep's Torchtowers}}</ref> with those bearing names being considered "major towers".<ref name="CS-p6">{{Cite book/City System|6}}</ref>
+
+It was pierced by four major gates, one for each cardinal direction - the [[North Gate (Waterdeep)|North Gate]], [[River Gate (Waterdeep)|River Gate]], [[South Gate (Waterdeep)|South Gate]], and [[We
+
+=== LINKED WIKI PAGE (first 5000 chars): South Gate (Waterdeep)
+
+{{Building
+| image         = Map06-Fishmongers-Smokehouse.png
+| caption       = A map showing the South Gate in southern Waterdeep.
+| name          = South Gate
+| aliases       = 
+| type          = Gate
+| architecture  = 
+| floors        = 4
+| location      = [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p107"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''South Gate''' was the southern point of entrance through the [[Trollwall]] into [[Waterdeep]], City of Splendors.<ref name="CoSW-p107">{{Cite book/City of Splendors: Waterdeep|107}}</ref>
+
+==Description==
+The gate featured a single tower on either side of the [[High Road (Waterdeep)|High Road]]. Each tower stood four stories tall.<ref name="CoSW-p107"/>
+
+==Location==
+The South Gate was found in southern Waterdeep where the [[Waterdeep/Dock Ward|Dock Ward]] and [[Waterdeep/Southern Ward|Southern Ward]] met.<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref><ref name="CS.M6">{{Cite book/City System/Map06}}</ref><ref name="IA">{{Cite interactive atlas|Dock South Ward}}</ref>
+
+==Law & Order==
+Any large caravan that wished to enter through South Gate had to register with one of the [[Magisters of Waterdeep]], who was always accompanied by members of the [[City Guard (Waterdeep)|City Guard]]. Small parties and individuals only had to register with one if their stay extended beyond a [[tenday]]. In both cases, discovery of a failure to do so would result in either a fine or being put to forced labor.<ref name="WDH5e-p164">{{Cite book/Waterdeep: Dragon Heist|164}}</ref>
+
+==Defenses==
+Access to the South Gate from outside of the city was only possible through [[Southfort Keep]], situated a short way to the southeast.<ref name="CS.M6"/>
+
+Prior to the {{YearlinkName|1385}},<ref name="W-DH-p182">{{Cite book/Waterdeep: Dragon Heist|(182)}}</ref> as a defensive measure one of the [[Walking Statues of Waterdeep]] were stationed beneath the South Gate and hidden away on the [[Ethereal plane]]. It actively defended against ethereal intrusion, attacking any ethereal creatures it perceived within Waterdeep's bounds, but would ignore ethereal [[humanoid]]s unless there was a group of ten or more of them.<ref name="CoSW-p21">{{Cite book/City of Splendors: Waterdeep|21}}</ref> In 1385 DR, it and six of the other hidden Walking Statues exited the Ethereal plane and left their positions to rampage across the city.<ref name="W-DH-p182" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Official buildings]]
+[[Category:Gates]]
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations on Trader's Way]]
+[[Category:Locations in the Dock Ward of Waterdeep]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): High Road (Waterdeep)
+
+{{Otheruses4|the part of the [[High Road]] that crossed [[Waterdeep]]|other uses|High Road (disambiguation)}}
+{{Road
+| image          = 
+| caption        = 
+| name           = High Road (Waterdeep)
+| type           = Street
+| aliases        = The High<ref name="drag410-p29" />
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep]], [[Sword Coast North]]
+| starts         = [[South Gate (Waterdeep)|South Gate]]
+| ends           = [[North Gate (Waterdeep)|North Gate]]
+| built          = 
+| refs           = <ref name="CSW3e-p15">{{Cite book/City of Splendors: Waterdeep|15}}</ref>
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| linkname       = High Road (Waterdeep)
+| inhabitants    = yes
+| locations      = yes
+| settlements    = 
+| roads          = yes
+| events         = 
+}}
+The '''High Road''', largely known to citizens as just '''the High''',<ref name="drag410-p29">{{Cite dragon/410/Eye on the Realms: The Talking Door|29}}</ref> was one of the main streets of [[Waterdeep]], connecting its southern and northern regions. Together with the other boulevards that ran through the city in the north-south direction, it was heavily trafficked, and one of the main routes of the city's [[dray]]s and [[hire-coach]]es.<ref name="WDH5e-p170">{{Cite book/Waterdeep: Dragon Heist|170}}</ref>
+
+==Geography==
+The High Road started at the [[South Gate (Waterdeep)|South Gate]] of Waterdeep, where it continued south as the [[Trade Way]]. From there it led northward, crossing the city and exiting it from the [[North Gate (Waterdeep)|North Gate]], from where it continued north along the [[Sword Coast North]] as the [[High Road|road of the same name]].<ref name="CSW3e-p15" />
+
+==Notable Locations==
+In southern Waterdeep, the intersection between the High Road and the [[Way of the Dragon (Waterdeep)|Way of the Dragon]] was known as the [[Waymoot (Waterdeep)|Waymoot]]. A [[magic]] signpost at the center of the intersection indicated the direction and distance to locations outside the city.<ref name="WDH5e-p180">{{Cite book/Waterdeep: Dragon Heist|180}}</ref> [[Berendarr's World of Words]], a [[broadsheet]] store, was located here.<ref name="BoW">{{Cite web/Realmslore/Broadcryers of Waterdeep I: News for Sale}}</ref>
+
+==Appendix==
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[FR:Grand-route (Côte des Épées septentrionale)]]
+[[Category:Locations in the Field Ward of Waterdeep]]
+[[Category:Locations in the North Ward of Waterdeep]]
+[[Category:Locations in the Sea Ward of Waterdeep]]
+[[Category:Locations in the Trades Ward of Waterdeep]]
+[[Category:Locations in the Castle Ward of Waterdeep]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations on the Trade Way]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+[[Category:Locations on Smuggler's Run]]
+[[Category:Locations on Coach Street]]
+[[Category:Locations on the Specterwalk]]
+[[Category:Locations on Trollwall Way]]
+[[Category:Locations on the Forcebar]]
+[[Category:Locations on Brian's Street]]
+[[Category:Locations on the Street of Smiths]]
+[[Category:Locations on Telshambra's Street]]
+[[Category:Locations on Buckle Alley]]
+[[Category:Locations on Sahtyra's Lane]]
+[[Category:Locations on Shoor Street]]
+[[Category:Locations on River Street]]
+[[Category:Locations on Lathin's Cut]]
+[[Category:Locations on Slipstone Street]]
+[[Category:Locations on Scroll Street]]
+[[Category:Locations on Snail Street]]
+[[Category:Locations on Waterdeep Way]]
+[[Category:Locations on the Coffinmarch]]
+[[Category:Locations on Selduth Street]]
+[[Category:Locations on Lamp Street]]
+[[Category:Locations on Andamaar's Street]]
+[[Category:Locations on Bazaar Street]]
+[[Category:Locations on Suldown Street]]
+[[Category:Locations on Trader's Way (Waterdeep)]]
+[[Category:Locations on Tarnath Street]]
+[[Category:Locations on Julthoon Street]]
+[[Category:Locations on Hassantyr's Street]]
+[[Category:Locations on Sulmor Street]]
+[[Category:Locations on Sidle Street]]
+[[Category:Locations on Delzorin Street]]
+[[Category:Locations on Vondil Street]]
+[[Category:Locations on Sashtar Street]]
+[[Category:Locations on Chasso's Trot]]
+[[Category:Locations on Thunderstaff Way]]
+[[Category:Locations on Skulls Street]]
+[[Category:Locations on Trollkill Street]]
+[[Category:Locations on the Fieldway]]
+[[Category:Locations on Gawenknife Street]]
+[[Category:Locations on Slipgate Street]]
+[[Category:Locations on the High Road]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Moon Sphere
+
+{{Event
+| image       = Moon sphere VGW.jpeg
+| caption     = Waterdhavians enjoying the magic of the Moon Sphere.
+| name        = Moon Sphere
+| partof      = 
+| othernames  = 
+| type        = Natural wonder
+| deity       = [[Selûne]]
+| location    = [[Dancing Court]], [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| date        = 
+| duration    = 
+| schedule    = 
+| frequency   = Every full moon
+| basicrefs   = 
+| observedby  = Waterdhavians
+| affected    = 
+| activities  = Dancing
+| first       = 
+| cause       = 
+| responsible = 
+| subevents   = 
+| outcome     = 
+| histrefs    = <ref name="VGW-p142">{{Cite book/Volo's Guide to Waterdeep|142}}</ref>
+}}
+The '''Moon Sphere''' was a magical radiance that appeared every full [[moon]] in the [[Dancing Court]] in the [[Waterdeep/Southern Ward|Southern Ward]] of [[Waterdeep]].<ref name="WDH-p178">{{Cite book/Waterdeep: Dragon Heist|178}}</ref>
+
+==Description==
+The Moon Sphere appeared as a glowing field of blue light that hovered above the Dancing Court. The sphere was about {{SI|40|feet|long=yes}} in diameter, and allowed anyone within the field to fly about.<ref name="VGW-p137">{{Cite book/Volo's Guide to Waterdeep|137}}</ref> At its highest, the sphere extended {{SI|30|feet|long=yes}} above the court.<ref name="VGW-p143">{{Cite book/Volo's Guide to Waterdeep|143}}</ref>
+
+The Moon Sphere would come into being as the full moon shone upon the Dancing Court, and would slowly fade as the moonlight waned.<ref name="VGW-p142"/>
+
+==Location==
+The Moon Sphere was located within the Dancing Court, which had been left empty to accommodate the sphere. In fact, the nearby [[Jade Dancer]] had been built in order to give their guests the best view of the field.<ref name="VGW-p142"/>
+
+==Activities==
+By the [[laws of Waterdeep]], none were allowed to charge for admittance into the Moon Sphere, nor restrict anyone from entering. Spellcasting was prohibited out of fear of disturbing the Moon Sphere's magic; certain spells cast within the sphere would result in bursts of [[wild magic]].<ref name="VGW-p142"/><ref name="VGW-p143"/> This law was enforced by a [[City Guard (Waterdeep)|City Guard]] patrol, as well as a supervising member of the [[Watchful Order of Magists and Protectors]].<ref name="VGW-p142"/> They also kept a sharp eye for any visitor attempting to experiment with the sphere in order to learn its magic.<ref name="VGW-p143"/>
+
+Courting couples often came to the Moon Sphere to dance and kiss one another, though there were tales of more passionate encounters. Guests of the Jade Dancer often continued their revelry by flying with drinks in hand—particularly daring guests would jump from the Jade Dancer's balcony into the Moon Sphere. Doing this without spilling their drink was considered a mark of exceeding sophistication.<ref name="VGW-p143"/>
+
+Whenever the Moon Sphere appeared, the [[House of the Moon]] sent at least one priestess to dance and pray within the field's glow.<ref name="VGW-p145">{{Cite book/Volo's Guide to Waterdeep|145}}</ref>
+
+The Moon Sphere was also used as a common temple by sailors throughout Waterdeep. Whenever the sphere appeared, able sailors journeyed across the city to see it. Traditionally, sailors extended a hand into the field and asked Selûne to guide them safely to their next destination.<ref name="VGW-p142"/>
+
+A style of flying dance had been developed by Waterdhavians in order to perform within the sphere.<ref name="WDH-p178"/>
+
+===Magical Effects===
+Besides granting the ability to [[fly]], the sphere had many powerful magical effects. If the correct words were recited, the sphere could recharge some [[magical item]]s, including ''[[Wand of magic missiles|wands of magic missiles]]''.<ref name="VGW-p145"/>
+
+Falling within the Moon Sphere was similar to the effects of a ''[[feather fall]]'' spell, though falling entirely outside of the sphere was governed by the normal laws of gravity. One person could not drag another person down by descending; the sphere's magic affected each person individually.<ref name="VGW-p143"/>
+
+Devout worshipers of [[Selûne]] could also be granted healing of wounds, [[poison]], mental illness, [[disease]], and [[curse]]s after certain rituals were performed with the sphere.<ref name="VGW-p143"/>
+
+[[Abjuration]], [[enchantment]], [[charm]], and [[divination]] spells cast by [[chaotic good]] [[wizard]]s or [[priest]]s of Selûne all worked to their fullest potential within the sphere, along with any spell connected to moonlight or starlight. Fire-based spells, in contrast, were reduced to their lowest potential within the sphere.<ref name="VGW-p143"/>
+
+==History==
+The Moon Sphere had existed for centuries, having resulted from an ancient spell cast by Selûne herself.<ref name="VGW-p142"/><ref name="WDH-p178"/> The [[Cult of the Howling Moon]], a group of good-aligned [[lycanthrope]]s and the progenitors of Waterdeep's branch of the [[church of Selûne]], had gathered in the Dancing Court since {{Yearlink|3
+
+=== LINKED WIKI PAGE (first 5000 chars): Selûne
+
+{{GA}}
+{{Otheruses4|the goddess|the moon|Selûne (moon)}}
+{{Deity
+| image               = Selune.jpg
+| caption             = Three avatars of the Moonmaiden.
+| name                = Selûne
+| title               = Our Lady of Silver<ref name="FRCS1e-p13"/><ref name="FRA-p29"/><ref name="FRCS2e-p52"/><ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/><ref name="HoF-p119">{{Cite book/Forgotten Realms: Heroes of Faerûn|119}}</ref><br />The Moonmaiden<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="FRCS3e-p248"/><ref name="FaP-p55"/><ref name="SCAG-p36"/><ref name="HoF-p119"/><ref name="OHG-p170"/><ref name="FRPG-p152"/><ref name="FRCG-p80"/><br/>The Night White Lady<ref name="F&A-p134"/><ref name="tWoN-p51"/><ref name="SCAG-p36"/><ref name="HoF-p119"/><br/>She Who Guides<ref name="tWoN-p51"/><br/>Selûne Moonmother<ref>{{Cite polyhedron/98/Elminster's Everwinking Eye: More Hidden Powers of Turmish|23}}</ref><br/>Moon Bitch (derogatory)<ref name="BG3" />
+| adjective           = Selûnite<ref name="FA-p137">{{Cite book/Faiths & Avatars|137}}</ref><ref name="DragonAn89">{{Cite dragon annual/1998/By Dragons Ruled and Divided|14}}</ref>
+| aspects             = [[Sehanine Moonbow]]<ref name="DiEatFR">{{Cite dragon/Domains in Eberron and the Forgotten Realms|37}}</ref><br/>Bright Nydra ([[Farsea Marshes]])<ref name="F&A-p134"/><br/>Elah ([[Bedine]])<ref name="F&A-p134"/><br/>Lucha ([[Shining Lands]])<ref name="F&A-p134"/>
+| pantheon            = [[Faerûnian pantheon]]
+| race                = 
+| gender              = Feminine
+| power5eR            = [[Deity]]
+| alignment5eR        = 
+| symbol5eR           = 
+| homeplane5eR        = [[Ysgard]] ([[Ysgard (layer)|Ysgard]])
+| realm5eR            = 
+| serves5eR           = 
+| servedby5eR         = 
+| portfolio5eR        = Moon, stars, navigation, motherhood
+| domains5eR          = 
+| worshipers5eR       = [[Lycanthrope]]s, sailors, spellcasters
+| channel divinity5eR = 
+| holy days5eR        = 
+| challenge5eR        = 
+| class5eR            = 
+| refs5eR             = <ref name="HoF-pp99,119">{{Cite book/Forgotten Realms: Heroes of Faerûn|99,119}}</ref>
+| power5e             = 
+| alignment5e         = [[Chaotic good]]
+| symbol5e            = Pair of eyes surrounded by seven stars
+| homeplane5e         = 
+| realm5e             = 
+| serves5e            = 
+| servedby5e          = 
+| portfolio5e         = 
+| domains5e           = [[Knowledge domain|Knowledge]], [[Life domain|Life]], [[Twilight domain|Twilight]]
+| worshipers5e        = 
+| channel divinity5e  = ''[[Knowledge of the ages]]''<br />''[[Read thoughts]]''<br />''[[Preserve life]]''<br />''[[Twilight sanctuary]]''
+| holy days5e         = 
+| class5e             = 
+| refs5e              = <ref name="PHB5e-p59-60,294">{{Cite book/Player's Handbook 5th edition|59-60,294}}</ref><ref name="SCAG-p21">{{Cite book/Sword Coast Adventurer's Guide|21}}</ref><ref name="TCE5e-p34-35">{{Cite book/Tasha's Cauldron of Everything|34-35}}</ref>
+| power4e             = [[Greater deity]]
+| alignment4e         = [[Good]]
+| symbol4e            = Two female eyes surrounded by seven stars
+| dominion4e          = [[Gates of the Moon]]
+| realm4e             = [[Argentil]]
+| serves4e            = 
+| servedby4e          = 
+| sphere4e            = Moon
+| domains4e           = [[Arcana domain|Arcana]], [[Change domain|Change]], [[Moon domain|Moon]], [[Selûne domain|Selûne]]
+| worshipers4e        = Mariners, travelers, people needing comfort
+| cleric alignments4e = 
+| channel divinity4e  = ''[[Eyes of Selûne]]''<br/>''[[Life and Light]]''
+| holy days4e         = 
+| class4e             = 
+| refs4e              = <ref name="FRPG-p152">{{Cite book/Forgotten Realms Player's Guide|133,152}}</ref><ref name="FRCG-p80">{{Cite book/Forgotten Realms Campaign Guide|63,76,80}}</ref><ref name="Dragon378-32">{{Cite dragon/Domains in Eberron and the Forgotten Realms|32}}</ref><ref name="NCS-p60">{{Cite book/Neverwinter Campaign Setting|60-61}}</ref>
+| power3e             = [[Intermediate deity]]
+| alignment3e         = [[Chaotic good]]
+| symbol3e            = Pair of female eyes surrounded by seven silver stars
+| homeplane3e         = [[Gates of the Moon]]
+| realm3e             = 
+| serves3e            = 
+| servedby3e          = 
+| portfolio3e         = [[Moon]], stars, navigation, navigators, non-[[evil]] [[lycanthropes]], questers, wanderers
+| domains3e           = [[Chaos domain|Chaos]], [[Chastity domain|Chastity]], [[Good domain|Good]], [[Moon domain|Moon]], [[Night domain|Night]], [[Protection domain|Protection]], [[Travel domain|Travel]]
+| mantles3e           = {{Mantles|Chaos|Freedom|Good|Light and Darkness}}<ref>{{Cite book/Complete Psionic|11}}</ref>
+| worshipers3e        = Female spellcasters, [[good]] and [[neutral]] lycanthropes, navigators, [[Sun Soul|Sun Soul monks]], sailors
+| cleric alignments3e = {{Alignment grid|off|on|on|off|off|on|off|off|off}}
+| favored weapon3e    = ''[[Rod of Four
+
+=== LINKED WIKI PAGE (first 5000 chars): Dancing Court
+
+{{Road
+| image          = DancingCourt.JPG
+| caption        = A map showing the Dancing Court and surroundings in the Southern Ward of Waterdeep.
+| name           = Dancing Court
+| type           = Cul-de-sac
+| aliases        = 
+| length         = 
+| width          = 
+| pavement       = 
+| location       = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| starts         = [[Slop Street]]
+| ends           = Dead end
+| refs           = <ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| daggers        = 
+| volorefs       = 
+| usethe         = yes
+| inhabitants    = 
+| locations      = yes
+| organizations  = 
+| settlements    = 
+| roads          = yes
+| bodies of water= 
+| events         = 
+}}
+The '''Dancing Court''' was a cul-de-sac that was located in the city of [[Waterdeep]].<ref name="CS.M08">{{Cite book/City System/Map08}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Location==
+The Dancing Court was located in the south section of Waterdeep's [[Waterdeep/Southern Ward|Southern Ward]]. It branched northeast off of the southern end of [[Slop Street]].<ref name="CS.M08"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+
+==Activities==
+A tavern and festhall called [[the Jade Dancer]] sat at the end of the Dancing Court.<ref name="VGtW-p116">{{Cite book/Volo's Guide to Waterdeep|116}}</ref>
+
+==History==
+The Dancing Court was famous for the [[Moon Sphere]], a [[magical]] radiance that appeared on nights of the full moon.<ref name="VGtW-p142">{{Cite book/Volo's Guide to Waterdeep|142}}</ref>
+
+Since the {{YearlinkName|390}}, a group of good-aligned [[lycanthrope]]s would gather regularly at the Dancing Court. The group was known as the Cult of the Howling Moon, and would later develop into Waterdeep's church of [[Selûne]]. This cult would be driven out by [[Nimoar|Nimoar the Reaver]], but returned later.<ref name="CoS:W-p44">{{Cite book/City of Splendors: Waterdeep|44}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Locations on Slop Street]]
+[[Category:Locations in the Tween Run]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Jade Dancer
+
+{{Building
+| image         = SlopStreet.JPG
+| caption       = A map showing the Jade Dancer on the Dancing Court.
+| name          = Jade Dancer
+| aliases       = 
+| type          = [[Festhall]]</br>[[Tavern]]
+| architecture  = 
+| floors        = 3
+| location      = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = 
+| locations     = 
+| organizations = 
+}}
+The '''Jade Dancer''' was a [[festhall]] and [[tavern]] located in [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+
+==Description==
+The building stood three stories tall.<ref name="CoSW-p106"/>
+
+==Location==
+The Jade Dancer was located in the southern section of the [[Waterdeep/Southern Ward|Southern Ward]] on the [[Dancing Court]] just off of the southern end of [[Slop Street]].<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|104}}</ref><ref name="CS-p12,14">{{Cite book/City System|12,14}}</ref><ref name="CS.M7">{{Cite book/City System/Map07}}</ref><ref name="IA">{{Cite interactive atlas|Volo 5298}}</ref>
+
+== Services ==
+A variety of beverages were available for purchase at the Jade Dancer, all of which could be served in a handglass for 5 sp or a tall flagon for 1 gp.<ref name="VGtW-p157">{{Cite book/Volo's Guide to Waterdeep|157}}</ref>
+
+* [[Al & Tal's Slurp Syrup]], a spiked cherry syrup
+* [[Fool's Thirst-Quencher]], a mix of [[Winter Wine|winter wine]] and six different [[Beer|beers]] 
+* [[Shondath Icewine]], a cool, minty green wine that was popular with [[Elf|elves]] and [[Halfling|halflings]]
+* [[Thorl beldarakul]], a glowing [[Dwarf|dwarven]] drink who's name translates to "Old Trickster"
+* [[Zzar]], a fortified, almond scented [[sherry]]<ref name="VGtW-p152">{{Cite book/Volo's Guide to Waterdeep|152}}</ref>
+The staff would also serve loaves of hot-garlic buttered bread and skewered roast fowl, for 2 sp and 3 sp, respectively. Free bowls of salted nuts were also available for all patrons.<ref name="VGtW-p157" />
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Festhalls]]
+[[Category:Taverns]]
+[[Category:Businesses]]
+[[Category:Locations on the Dancing Court]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): The Full Cup
+
+{{DEFAULTSORT:Full Cup}}
+{{Building
+| image         = CoachStreet.JPG
+| caption       = A map showing the location of the Full Cup on Coach Street.
+| name          = The Full Cup
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 
+| location      = [[Coach Street]] & [[Carter's Way]], [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Gulth Djanczo]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CS.M9"/><ref name="WDH.M"/><ref name="VGtW.M"/><ref name="IA.W"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 1
+| coins         = 2
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-p161-163"/>
+| usethe        = 
+| useon         = 
+| inhabitants   = Inhabitants of the Full Cup
+| locations     = 
+| organizations = 
+}}
+The ''' Full Cup''' was a tavern located in the city of [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoS.AGttC-p7">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|7}}</ref><ref name="VGtW-p161-163">{{Cite book/Volo's Guide to Waterdeep|161-163}}</ref>
+
+==Location==
+The tavern stood at the southeast intersection of [[Coach Street]] and [[Carter's Way]] in Waterdeep's [[Waterdeep/Southern Ward|Southern Ward]].<ref name="CS.M9">{{Cite book/City System/Map04}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Description==
+The Full Cup was a one story building.<ref name="CoS.CG-p53">{{Cite book/City of Splendors (boxed set)/Campaign Guide|53}}</ref> The interior was small and poorly lit. A long bar dominated the main room. An impressive array of bottles adorned the wall behind the bar. The bottles were covered by an equally impressive layer of dust.<ref name="VGtW-p161-163"/>
+
+==Activities==
+The Full Cup's patrons were mostly caravan drovers. Brawls were a common occurance in this seedy tavern.<ref name="CoS.AGttC-p7"/><ref name="VGtW-p161-163"/>
+
+==Services==
+Aside from the frequent brawls and frigid winter drafts, the Full Cup was known for serving delicious buttered [[mushroom]]s for 1 [[cp]] per bowl. The mushrooms were actually grown in-house in the dung cellars beneath the tavern. The dung pile was quite deep and the Full Cup's proprietor would hide items beneath it for customers who knew how to ask for a fee of 5 [[gp]] for a month, after which time the items were forfeited if not claimed.<ref name="VGtW-p161-163"/>
+
+==Inhabitants==
+The Full Cup was owned by a man named [[Gulth Djanczo]].<ref name="VGtW-p161-163"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on Coach Street]]
+[[Category:Locations on Carter's Way]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): The Red Gauntlet
+
+{{DEFAULTSORT:Red Gauntlet}}
+{{Building
+| image         = RedGauntlet.JPG
+| caption       = A map showing the location of the Red Gauntlet on the Way of the Dragon in the Southern Ward.
+| name          = The Red Gauntlet
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 
+| location      = [[Way of the Dragon (Waterdeep)|Way of the Dragon]], [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Daunt Buirune]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="VGtW-p160-161"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 3
+| coins         = 2
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGtW-p160-161"/>
+| usethe        = 
+| useon         = 
+| inhabitants   = Inhabitants of the Red Gauntlet
+| locations     = 
+| organizations = 
+}}
+The ''' Red Gauntlet''' was a tavern located in the city of [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="VGtW-p160-161">{{Cite book/Volo's Guide to Waterdeep|160-161}}</ref>
+
+==Location==
+The tavern stood on the north side of the southern stretch of the [[Way of the Dragon (Waterdeep)|Way of the Dragon]] in the [[Tween Run]] of Waterdeep's [[Waterdeep/Southern Ward|Southern Ward]].<ref name="CS.M9">{{Cite book/City System/Map04}}</ref><ref name="WDH.M">{{Cite book/Waterdeep: Dragon Heist/Map}}</ref><ref name="VGtW.M">{{Cite book/Volo's Guide to Waterdeep/Map}}</ref><ref name="IA.W">{{Cite interactive atlas|Waterdeep}}</ref>
+
+==Description==
+The tavern stood two stories tall.<ref name="CoS.CG-p53">{{Cite book/City of Splendors (boxed set)/Campaign Guide|53}}</ref> The interior was poorly lit and shabby.<ref name="VGtW-p160-161"/>
+
+==Services==
+Food served here consisted mostly of dried fish, waybread, and rabbit-and-fowl stew. Drink consisted of a house [[wine]]. The fares were cheap in the Red Gauntlet with a plate of food running just 3 [[cp]] and a tankard 2 cp.<ref name="VGtW-p160-161"/>
+
+==Activities==
+The Red Gauntlet allowed patrons to drink themselves to sleep and stay, provided they did not snore too loudly. Anyone becoming rowdy or threatening was slipped a sleep syrup in their drink to placate them.<ref name="VGtW-p160-161"/>
+
+==Inhabitants==
+The Red Gauntlet was owned by a retired [[thief]] named [[Daunt Buirune]].<ref name="VGtW-p160-161"/>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+[[Category:Locations in the Tween Run]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+
+=== LINKED WIKI PAGE (first 5000 chars): The Spouting Fish (Waterdeep)
+
+{{Building
+| image         = SlopStreet.JPG
+| caption       = A map showing the location of the Spouting Fish on the Way of the Dragon.
+| name          = Spouting Fish
+| aliases       = 
+| type          = Tavern
+| architecture  = 
+| floors        = 4
+| location      = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = [[Janess Imristar]]
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="VGW2e-p159-160">{{Cite book/Volo's Guide to Waterdeep|159-160}}</ref><ref name="CS-CG-p53">{{Cite book/City of Splendors (boxed set)/Campaign Guide|53}}</ref>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 2
+| coins         = 3
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = <ref name="VGW2e-p159-160" />
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Spouting Fish''' was a popular tavern in the [[Waterdeep/Southern Ward|Southern Ward]] of [[Waterdeep]].<ref name="VGW2e-p159-160" /><ref name="CS-AG2e-p7">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|7}}</ref><ref group="note">On p. 27 of ''[[Waterdeep: Dragon Heist]]'', it is claimed that the tavern is located in the Dock Ward, but this is incompatible with all previous sources, as well as all maps of the city across all previous editions. For that reason, we assume that the location given in ''Dragon Heist'' is in error.</ref>
+
+==Location==
+The tavern was located on the east side of the [[Way of the Dragon (Waterdeep)|Way of the Dragon]], at the corner where it turned north after branching west from the [[High Road (Waterdeep)|High Road]] at the [[Waymoot (Waterdeep)|Waymoot]].<ref name="CSW3e-p105-106">{{Cite book/City of Splendors: Waterdeep|105-106}}</ref> Its popularity was largely due to its strategic location, which prompted many travelers entering the city from [[South Gate]] to stop there for a drink.<ref name="VGW2e-p159-160" />
+
+==Structure==
+The tavern was characterized by a large water fountain shaped like an upright spouting fish. The large building had several floors built with a labyrinthine structure.<ref name="VGW2e-p159-160" />
+
+==Interior==
+The interior of the Spouting Fish was brightly lit. All of the tavern's booths and benches, as well as the building's structural beams and posts were unpainted and, for that reason, very flammable. As a result of the fire hazard, two members of the [[Watchful Order of Magists and Protectors]] were hired to remain constantly on guard within the tavern.<ref name="VGW2e-p159-160" />
+
+The tavern's cellar contained an entrance to a surface shaft that led to a small junction in the Waterdhavian sewer system.<ref name="CSW3e-p123-124">{{Cite book/City of Splendors: Waterdeep|123-124}}</ref><ref name="CS-CG2e-p7">{{Cite book/City of Splendors (boxed set)/Campaign Guide|62}}</ref>
+
+===Atmosphere===
+{{fq
+| text   = A bit like drinking in the thick of a street brawl.
+| source = A patron of the Spouting Fish<ref name="VGW2e-p159-160" />
+| float  = 
+| width  = 
+}}
+The Spouting Fish was notoriously noisy<ref name="VGW2e-p159-160" /> and boisterous.<ref name="CS-CG2e-p7" />
+
+==Services==
+The tavern offered numerous drinks, including [[zzar]], [[wine]]s, and [[beer]]s. The food, which included roast fowl, sausages, and [[bread]], was heavily [[salt]]ed to induce patrons to consume more beverages.<ref name="VGW2e-p159-160" />
+
+Another reason for the tavern's popularity was intense advertising performed by street criers across the city.<ref name="CS-CG2e-p7" />
+
+==History==
+By the {{YearlinkName|1492}},{{Waterdeep-time}} the sewer intersection that connected to the Spouting Fish's cellar was an access point to one of the [[Xanathar Guild]] hideouts. It was guarded by a [[gazer]].<ref name="WDH5e-p27">{{Cite book/Waterdeep: Dragon Heist|27}}</ref>
+
+==Inhabitants==
+In the mid‒14{{th}} century [[DR]], the Spouting Fish was owned by the fearless [[human]] [[Janess Imristar]].<ref name="VGW2e-p159-160" />
+
+==Appendix==
+===Notes===
+{{Notes}}
+===Appearances===
+:;Adventures
+::''[[Waterdeep: Dragon Heist]]''
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations in the Tween Run]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations on the Way of the Dragon (Waterdeep)]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Swords' Rest
+
+{{Building
+| image         = SwordsRest.png
+| caption       = A map showing the Swords' Rest (labeld #1) at the end of Telshambra's Street.
+| name          = Swords' Rest
+| aliases       = 
+| type          = [[Tavern]]
+| architecture  = 
+| floors        = 1
+| location      = [[Waterdeep/Southern Ward|Southern Ward]], [[Waterdeep]]
+| built         = 
+| destroyed     = 
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| basicrefs     = <ref name="CoSW-p106"/>
+| ownertable    = 
+| stafftable    = 
+| histrefs      = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| stars         = 
+| coinstacks    = 
+| skulls        = 
+| quality       = 
+| price         = 
+| volorefs      = 
+| usethe        = yes
+| useon         = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+}}
+The '''Swords' Rest''' was a [[tavern]] located in [[Waterdeep]] during the mid-to-late 14{{th}} century [[DR]].<ref name="CoSW-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+
+==Description==
+The tavern stood one story tall.<ref name="CoSW-p106"/>
+
+==Location==
+The Swords' Rest was located in the northern section of Waterdeep's [[Waterdeep/Southern Ward|Southern Ward]] on the east side of the [[High Road (Waterdeep)|High Road]] where it was intersected by [[Telshambra's Street]].<ref name="CoSW-p105">{{Cite book/City of Splendors: Waterdeep|105}}</ref><ref name="CS-p13-14">{{Cite book/City System|13-14}}</ref><ref name="CS.M7">{{Cite book/City System/Map07}}</ref><ref name="IA">{{Cite interactive atlas|Dock South Ward}}</ref>
+
+==Activities==
+The tavern was a good place to hire [[mercenaries]].<ref name="CoSW-p19">{{Cite book/City of Splendors: Waterdeep|19}}</ref>
+
+==Inhabitants==
+[[Elgorel]] was the bartender at the Swords' Rest.<ref name="WatN-p52">{{Cite book/Waterdeep and the North|52}}</ref>
+
+==Appendix==
+===References===
+{{Refs}}
+[[Category:Taverns]]
+[[Category:Locations on Telshambra's Street]]
+[[Category:Locations on the High Road (Waterdeep)]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+[[Category:Locations in Faerûn]]
+[[Category:Locations on Toril]]
+[[Category:Year of Manuscripts]]
+
+=== LINKED WIKI PAGE (first 5000 chars): Builders' Hall
+
+{{Building
+| image         = 
+| caption       = 
+| name          = Builders' Hall
+| type          = Guildhall
+| architecture  = 
+| floors        = 2, with basement<ref name="CoS.AGttC-p52">{{Cite book/City of Splendors (boxed set)/Adventurer's Guide to the City|52}}</ref>
+| location      = [[Southern Ward of Waterdeep|Southern Ward]], [[Waterdeep]]<ref name="VGtW-p137">{{Cite book/Volo's Guide to Waterdeep|137}}</ref><ref name="CoS.W-p51">{{Cite book/City of Splendors: Waterdeep|51}}</ref><ref name="CoS.W-p106">{{Cite book/City of Splendors: Waterdeep|106}}</ref>
+| owner         = 
+| staff         = 
+| occupants     = 
+| services      = 
+| worship       = 
+| pipes         = 
+| tankards      = 
+| coins         = 
+| daggers       = 
+| inhabitants   = yes
+| locations     = 
+| organizations = 
+| usethe        = 
+| useon         = 
+}}
+'''Builders' Hall''' was the guildhall of the [[Guild of Stonecutters, Masons, Potters, & Tile-makers]] in the [[Southern Ward of Waterdeep|Southern Ward]] of [[Waterdeep]].<ref name="WatN-p25">{{Cite book/Waterdeep and the North|25}}</ref><ref name="CoS.W-p51" /><ref name="CoS.W-p106" />
+
+==Location==
+This guildhall was located at the intersection of [[Coach Street]] and [[Carters' Way]] in the Southern Ward.<ref name="CoS.WWiW-p46">{{Cite book/City of Splendors (boxed set)/Who's Who in Waterdeep|46}}</ref><ref group="note">''[[The Ruins of Undermountain II: The Deep Levels]]'' sourcebook states Builder's Hall is at the intersection of [[Street of the Singing Dolphin]] and [[Ivory Street]], which is in the [[Sea Ward of Waterdeep]], but ''[[Volo's Guide to Waterdeep]]'', ''[[City of Splendors (boxed set)]]'', and ''[[City of Splendors: Waterdeep]]'' all place it at [[Coach Street]] and [[Carter's Way]] in the [[South Ward of Waterdeep]].</ref><ref name="RoU2.CG-p15">{{Cite book/The Ruins of Undermountain II/Campaign Guide|15}}</ref>
+
+==Structure==
+Builders' Hall was a two-stories tall building made from wood.<ref name="CoS.AGttC-p52" />
+
+==Interior==
+In the basement of Builders' Hall, there was a gate to [[Wyllowwood]] in [[Undermountain]] in the shape of a pair of marble statues.<ref name="RoU2.CG-p15" />
+
+==Reputation==
+Like other guildhalls in the Southern Ward, this building was used as a landmark by locals.<ref>{{Cite book/Volo's Guide to Waterdeep|137}}</ref>
+
+==Appendix==
+===Notes===
+{{Notes}}
+===References===
+{{refs}}
+[[Category:Guildhalls]]
+[[Category:Buildings]]
+[[Category:Locations on Coach Street]]
+[[Category:Locations on Carter's Way]]
+[[Category:Locations in the Southern Ward of Waterdeep]]
+[[Category:Locations in Waterdeep]]
+[[Category:Locations on the Sword Coast North]]
+[[Category:Locations in Northwest Faerûn]]
+

@@ -1,0 +1,68 @@
+## sources/adventure-wdh.json lines 30849-30872
+sources/adventure-wdh.json:30849: "name": "The Wards of Waterdeep",
+sources/adventure-wdh.json:30850: "page": 174,
+sources/adventure-wdh.json:30851: "id": "458",
+sources/adventure-wdh.json:30852: "entries": [
+sources/adventure-wdh.json:30853: "Newcomers to the city of Waterdeep are often confused by the importance that Waterdavians give to wards. In other cities, such as Baldur's Gate and Neverwinter, districts are bounded by rivers or walls. But in Waterdeep, one can traverse from ward to ward by crossing a street-a fact that offers the drivers of hire-coaches some amusement when an ignorant tourist requests a ride to an adjacent ward.",
+sources/adventure-wdh.json:30854: "Each ward has its own history, legends, and traditions based around who lived there in the past, famous or infamous events, and the uncanny things that continue to occur. For example, children (and even some adults) hop on one foot when crossing Asmagh's Alley in the Castle Ward. Why? Well, Asmagh was an apothecary who {@condition poisoned} many patients, then buried them upright beneath the alley under cover of night. He was discovered, and some say that as many as eighty bodies were subsequently pulled up from holes under the alley's wide flagstones. Though this happened over a century ago, children passing through the alley still sing a song: \"Hop for the hollows, hop for the dead, hop on the flagstones, hop on their heads.\" As you stroll down Warrior's Way or the Street of Silver, listen for the children's delighted screams and go give it a try.",
+sources/adventure-wdh.json:30855: "These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you're sure to see some version of this display of civic spirit.",
+sources/adventure-wdh.json:30856: {
+sources/adventure-wdh.json:30857: "type": "inset",
+sources/adventure-wdh.json:30858: "name": "Speak like a Native",
+sources/adventure-wdh.json:30859: "page": 174,
+sources/adventure-wdh.json:30860: "id": "459",
+sources/adventure-wdh.json:30861: "entries": [
+sources/adventure-wdh.json:30862: "The many idioms and slang expressions of Waterdavians would take a whole book to explore, but here I explain a few that might otherwise mystify.",
+sources/adventure-wdh.json:30863: "{@b \"Dabbler but no master\" and \"No mastery blazing forth\"} These idioms trace their origin to Ahghairon, who early on in his studies of magic humbly said, \"I am no wizard. I am a dabbler but no master of magic; it seems no mastery burns within me.\" Both now serve as expressions of false modesty applied to any skill or craft, not just magic use.",
+sources/adventure-wdh.json:30864: "{@b \"Sharpjaws,\" \"fastfists,\" \"bullyblades,\" and \"alleyblades\"} Those who boast of martial skill but who shrink from violence or lack real ability are \"sharpjaws.\" In sharp contrast are Waterdeep's \"fastfists\" (any lout easily provoked to violence), \"bullyblades\" (battle-hardened mercenaries hired as muscle), and \"alleyblades\" (muggers and thieves).",
+sources/adventure-wdh.json:30865: "{@b \"Longride\" and \"Last ride\"} To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is \"longride,\" and dusk is \"last ride.\"",
+sources/adventure-wdh.json:30866: "{@b \"Which the greater thief?\"} Tuezaera Hallowhand was a famous \"lone cat\" thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: \"I take things. You take freedom with your spells. Which of us is the greater thief?\" Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.",
+sources/adventure-wdh.json:30867: "{@b \"Doth thy mirror crack?\" or \"Hurl but think not?\" or \"Take but not count cost? Be nothing, then!\"} {@creature Laeral Silverhand|WDH}, then the Lady Mage of Waterdeep when she was married to Khelben \"Blackstaff\" Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: \"If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?\"",
+sources/adventure-wdh.json:30868: "These scornful words are remembered and used almost daily in Waterdeep even a century later."
+sources/adventure-wdh.json:30869: ]
+sources/adventure-wdh.json:30870: },
+sources/adventure-wdh.json:30871: {
+sources/adventure-wdh.json:30872: "type": "entries",
+
+## sources/adventure-wdh.json lines 31092-31131
+sources/adventure-wdh.json:31092: "name": "Outside the City Proper",
+sources/adventure-wdh.json:31093: "page": 180,
+sources/adventure-wdh.json:31094: "id": "461",
+sources/adventure-wdh.json:31095: "entries": [
+sources/adventure-wdh.json:31096: "There's more to the city of Waterdeep than just the wards within its walls. If you have need to visit the environs of the city, here's what you'll need to know.",
+sources/adventure-wdh.json:31097: {
+sources/adventure-wdh.json:31098: "type": "entries",
+sources/adventure-wdh.json:31099: "name": "Field Ward",
+sources/adventure-wdh.json:31100: "page": 180,
+sources/adventure-wdh.json:31101: "id": "462",
+sources/adventure-wdh.json:31102: "entries": [
+sources/adventure-wdh.json:31103: "This district was once a caravan yard between Waterdeep's two northernmost walls, kept free of settlement to serve as a killing field in times of war. As refugees from various calamities settled there after not being allowed into the city's wealthy northern neighborhoods, the area has grown up into a lawless town of its own.",
+sources/adventure-wdh.json:31104: "Though not an official ward of the city, the Field Ward is commonly referred to as one. The Watch doesn't patrol this area, however, and many crimes go uninvestigated. The City Guard oversees the Field Ward from the walls around it, but its members get involved only when folk moving into or out of the city are threatened.",
+sources/adventure-wdh.json:31105: "The area is a muddy mess, populated by the poorest people and those who take advantage of those folks' desperation. It has no sewer system and isn't served by the Dungsweepers' Guild-a fact that will be quite evident to your nose if you venture here. I don't recommend that you spend any more time here than it takes to pass through from one gate to the next.",
+sources/adventure-wdh.json:31106: "The Guild of Butchers operates several slaughterhouses, smokehouses, and leather-making facilities in the area-noisome operations that have been pushed out of the city proper. A word to the wise: being friendly with a burly fellow who is good with a knife is one of your best defenses in the Field Ward. The other place you might solicit aid is Endshift Tavern, a popular stop for off-duty members of the City Guard, situated on the corner of Endshift Street and the Breezeway. Though the guards might not be inclined to assist you, your status as a visitor to Waterdeep technically obliges them to help you reach the city proper in safety."
+sources/adventure-wdh.json:31107: ]
+sources/adventure-wdh.json:31108: },
+sources/adventure-wdh.json:31109: {
+sources/adventure-wdh.json:31110: "type": "inset",
+sources/adventure-wdh.json:31111: "name": "The Wonders of the Waymoot",
+sources/adventure-wdh.json:31112: "page": 180,
+sources/adventure-wdh.json:31113: "id": "463",
+sources/adventure-wdh.json:31114: "entries": [
+sources/adventure-wdh.json:31115: "The place where the High Road and the Way of the Dragon meet in the south of the city is called the Waymoot. At the center of the crossroads, a high signpost stands with hanging arrows pointing toward the harbor and each of the city gates. Created by the Watchful Order of Magists and Protectors and funded by local merchants, the signpost magically directs travelers to well-known distant locations when the names of those locations are spoken into a crystal on the post. The magic of the Waymoot writes the destination onto the proper arrow of the signpost and indicates its distance from Waterdeep in miles. Folk are thereby sent out of the harbor or the appropriate gate leading north, east, or south, depending on their destination.",
+sources/adventure-wdh.json:31116: "Unfortunately for newcomers, the Waymoot is of no use whatsoever in finding locations within Waterdeep. You will, however, find a number of enterprising individuals near the crossroads who take advantage of this fact to offer their services as city guides. Though some reputable members of this cadre will guide you true for a fair fee, plenty of citizens with nothing to lose or gain by doing so will also readily set you on the right course if you're simply polite."
+sources/adventure-wdh.json:31117: ]
+sources/adventure-wdh.json:31118: },
+sources/adventure-wdh.json:31119: {
+sources/adventure-wdh.json:31120: "type": "entries",
+sources/adventure-wdh.json:31121: "name": "Undercliff",
+sources/adventure-wdh.json:31122: "page": 180,
+sources/adventure-wdh.json:31123: "id": "464",
+sources/adventure-wdh.json:31124: "entries": [
+sources/adventure-wdh.json:31125: "This area of rolling grassland and small wooded areas east of the city is a rural community focused on farming and animal husbandry, and which caters to travelers. It is also the site of a large and well-protected training camp for the City Guard, and a prison farm run by the City Watch (called Amendsfarm) where those convicted of minor offenses work off their debt to the city. Many gnomes and halflings live in this region, and most buildings are built to reflect their stature.",
+sources/adventure-wdh.json:31126: "Two noble families have estates in Undercliff. The Amcathra estate is used for the housing and final training of horses bred in the town of Amphail, many of which are sold to the City Guard. The Hothemer noble house has an estate where its members conduct business in overland trade-beyond the reach of Waterdeep's auditors.",
+sources/adventure-wdh.json:31127: "If you visit this area, I recommend the Snobeedle Orchard and Meadery, owned and run by the Snobeedle halflings. They have a delightful drinking hall and a shop sized for larger patrons, and you can pick your own fruit when it is in season."
+sources/adventure-wdh.json:31128: ]
+sources/adventure-wdh.json:31129: },
+sources/adventure-wdh.json:31130: {
+sources/adventure-wdh.json:31131: "type": "entries",
+

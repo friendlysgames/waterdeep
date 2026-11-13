@@ -1,0 +1,141 @@
+## sources/adventure-wdh.json lines 30849-30872
+sources/adventure-wdh.json:30849: "name": "The Wards of Waterdeep",
+sources/adventure-wdh.json:30850: "page": 174,
+sources/adventure-wdh.json:30851: "id": "458",
+sources/adventure-wdh.json:30852: "entries": [
+sources/adventure-wdh.json:30853: "Newcomers to the city of Waterdeep are often confused by the importance that Waterdavians give to wards. In other cities, such as Baldur's Gate and Neverwinter, districts are bounded by rivers or walls. But in Waterdeep, one can traverse from ward to ward by crossing a street-a fact that offers the drivers of hire-coaches some amusement when an ignorant tourist requests a ride to an adjacent ward.",
+sources/adventure-wdh.json:30854: "Each ward has its own history, legends, and traditions based around who lived there in the past, famous or infamous events, and the uncanny things that continue to occur. For example, children (and even some adults) hop on one foot when crossing Asmagh's Alley in the Castle Ward. Why? Well, Asmagh was an apothecary who {@condition poisoned} many patients, then buried them upright beneath the alley under cover of night. He was discovered, and some say that as many as eighty bodies were subsequently pulled up from holes under the alley's wide flagstones. Though this happened over a century ago, children passing through the alley still sing a song: \"Hop for the hollows, hop for the dead, hop on the flagstones, hop on their heads.\" As you stroll down Warrior's Way or the Street of Silver, listen for the children's delighted screams and go give it a try.",
+sources/adventure-wdh.json:30855: "These shared stories and traditions impart to each ward a different culture, just as much as distinctions of class and wealth. Yet nothing drives residents to identify with their wards as much as festivals and sport. Nearly every race and parade in the city features a competition between wards as part of the festivities. On such days, homes and businesses fly the colors of their wards, trot out their mascots, and sing rousing songs that celebrate where they live. If you stay in the city for even a month, you're sure to see some version of this display of civic spirit.",
+sources/adventure-wdh.json:30856: {
+sources/adventure-wdh.json:30857: "type": "inset",
+sources/adventure-wdh.json:30858: "name": "Speak like a Native",
+sources/adventure-wdh.json:30859: "page": 174,
+sources/adventure-wdh.json:30860: "id": "459",
+sources/adventure-wdh.json:30861: "entries": [
+sources/adventure-wdh.json:30862: "The many idioms and slang expressions of Waterdavians would take a whole book to explore, but here I explain a few that might otherwise mystify.",
+sources/adventure-wdh.json:30863: "{@b \"Dabbler but no master\" and \"No mastery blazing forth\"} These idioms trace their origin to Ahghairon, who early on in his studies of magic humbly said, \"I am no wizard. I am a dabbler but no master of magic; it seems no mastery burns within me.\" Both now serve as expressions of false modesty applied to any skill or craft, not just magic use.",
+sources/adventure-wdh.json:30864: "{@b \"Sharpjaws,\" \"fastfists,\" \"bullyblades,\" and \"alleyblades\"} Those who boast of martial skill but who shrink from violence or lack real ability are \"sharpjaws.\" In sharp contrast are Waterdeep's \"fastfists\" (any lout easily provoked to violence), \"bullyblades\" (battle-hardened mercenaries hired as muscle), and \"alleyblades\" (muggers and thieves).",
+sources/adventure-wdh.json:30865: "{@b \"Longride\" and \"Last ride\"} To a caravan merchant, a drover, or a farmer from the lands around Waterdeep, as well as any Waterdavian who rides for sport, recreation, hunting, or falconry, the late afternoon is \"longride,\" and dusk is \"last ride.\"",
+sources/adventure-wdh.json:30866: "{@b \"Which the greater thief?\"} Tuezaera Hallowhand was a famous \"lone cat\" thief of Waterdeep in the 1200s DR, who disappeared suddenly and is thought to have come to a violent end. She once robbed a wizard and wrote this on his wall with a fingertip dipped in his favorite red wine: \"I take things. You take freedom with your spells. Which of us is the greater thief?\" Waterdavians now use this phrase in argument with one another over all kinds of matters when comparing wrongs done.",
+sources/adventure-wdh.json:30867: "{@b \"Doth thy mirror crack?\" or \"Hurl but think not?\" or \"Take but not count cost? Be nothing, then!\"} {@creature Laeral Silverhand|WDH}, then the Lady Mage of Waterdeep when she was married to Khelben \"Blackstaff\" Arunsun, once publicly rebuked an overambitious wizard of the Watchful Order of Magists and Protectors thusly: \"If I hurl spells but think not of consequences, I am nothing. If I take lives but count not the cost, I am nothing. If I steal in the night and see not the faces of the devastated come the next morning, I am nothing. If I make decrees like a ruler but undertake none of the other responsibilities of the throne, I am nothing. And if I do all these things in the name of the Watchful Order, I am less than nothing. Doth thy mirror crack?\"",
+sources/adventure-wdh.json:30868: "These scornful words are remembered and used almost daily in Waterdeep even a century later."
+sources/adventure-wdh.json:30869: ]
+sources/adventure-wdh.json:30870: },
+sources/adventure-wdh.json:30871: {
+sources/adventure-wdh.json:30872: "type": "entries",
+
+## sources/adventure-wdh.json lines 31057-31069
+sources/adventure-wdh.json:31057: "name": "Dock Ward",
+sources/adventure-wdh.json:31058: "page": 178,
+sources/adventure-wdh.json:31059: "id": "45f",
+sources/adventure-wdh.json:31060: "entries": [
+sources/adventure-wdh.json:31061: "The Dock Ward was long considered the most dangerous district in the city, but the Field Ward has since taken that title. I don't doubt the residents of the Dock Ward are glad of it, for in some respects this area has never truly deserved its bad reputation.",
+sources/adventure-wdh.json:31062: "Yes, aside from the Field Ward, this is the area where most of Waterdeep's poor reside. Yes, it is home to some of the least literate people in the city. Yes, most of its taverns are inhabited by habitual drinkers, and far too many inns charge by the hour. But all must concede this: the residents of the Dock Ward often work the hardest while living under the harshest conditions.",
+sources/adventure-wdh.json:31063: "Warehouses, poorhouses, and tenements dominate much of the area. Streets are steep throughout, and few have space alongside for pedestrians. Wandering through the ward can be a bewildering journey without a guide. Except in the immediate vicinity of the piers, shop signs and advertising of any kind are rare, and warehouses and other businesses often have no sign at all. You either know where you are going and have reason to be there-or you are lost, and a likely mark for pickpockets or worse.",
+sources/adventure-wdh.json:31064: "Streetlamps don't fare well in the Dock Ward. Their candles, oils, and glass are too regularly stolen or smashed. The Guild of Chandlers and Lamplighters makes a halfhearted attempt to repair the streetlamps at the start of each season, but for most of the year, locals are forced to carry their own light when traveling these streets at night.",
+sources/adventure-wdh.json:31065: "The colors of the Dock Ward are burgundy and orange, and its mascot is a swordfish that has always been depicted as green for reasons lost to time. The folk of the Dock Ward take competition seriously, and they frequently draft their champions from the rough-and-tumble sailors who come to the city. (Some say they draft pirates, but that is pure slander.) Frequent complaints arise that these women and men are more citizens of the sea than of the Dock Ward itself. But if they register with a magister and pay taxes, they are as welcome to compete as any long-term resident of Waterdeep."
+sources/adventure-wdh.json:31066: ]
+sources/adventure-wdh.json:31067: },
+sources/adventure-wdh.json:31068: {
+sources/adventure-wdh.json:31069: "type": "entries",
+
+## sources/adventure-wdh.json lines 30905-31002
+sources/adventure-wdh.json:30905: "As these servants spread out to knock on doors and begin their work, the residents of the ward take their exits, parting fondly with spouses and children, their footsteps tramping along the sidewalks or taking them into rattling hire-coaches. In the span of just an hour, the North Ward comes to noisy life and then settles again into quiescence, until later in the day when the process reverses itself, as residents return from work and servants leave.",
+sources/adventure-wdh.json:30906: "The liveliest, and perhaps the loveliest, part of the ward is the Cliffwatch. Here, the plateau upon which Waterdeep sits features cliffs so steep and high that the city wall is interrupted to either side of them. Some of the most lavish residences and most luxurious taverns and inns of Waterdeep stand along this space, boasting terraces and balconies that allow one to take in the beautiful sight of the countryside to the east. Yet you need not pay their high prices, for a public walkway along the cliff's edge offers pedestrians ample opportunity to enjoy the view.",
+sources/adventure-wdh.json:30907: "The North Ward's colors are green and orange, and its mascot is the gentle white dove, depicted in flight. Many North Ward homes have dovecotes on their roofs, and the great flocks of the birds that circle over the city at dawn and dusk are a delight to behold.",
+sources/adventure-wdh.json:30908: {
+sources/adventure-wdh.json:30909: "type": "table",
+sources/adventure-wdh.json:30910: "caption": "Major Temples of Waterdeep",
+sources/adventure-wdh.json:30911: "colLabels": [
+sources/adventure-wdh.json:30912: "Deity or Deities",
+sources/adventure-wdh.json:30913: "Temple Name",
+sources/adventure-wdh.json:30914: "Location"
+sources/adventure-wdh.json:30915: ],
+sources/adventure-wdh.json:30916: "colStyles": [
+sources/adventure-wdh.json:30917: "col-3",
+sources/adventure-wdh.json:30918: "col-6",
+sources/adventure-wdh.json:30919: "col-3"
+sources/adventure-wdh.json:30920: ],
+sources/adventure-wdh.json:30921: "rows": [
+sources/adventure-wdh.json:30922: [
+sources/adventure-wdh.json:30923: "All deities",
+sources/adventure-wdh.json:30924: "Holyhands House",
+sources/adventure-wdh.json:30925: "North Ward"
+sources/adventure-wdh.json:30926: ],
+sources/adventure-wdh.json:30927: [
+sources/adventure-wdh.json:30928: "All elven deities",
+sources/adventure-wdh.json:30929: "Temple of the Seldarine",
+sources/adventure-wdh.json:30930: "Castle Ward"
+sources/adventure-wdh.json:30931: ],
+sources/adventure-wdh.json:30932: [
+sources/adventure-wdh.json:30933: "Gond",
+sources/adventure-wdh.json:30934: "House of Inspired Hands",
+sources/adventure-wdh.json:30935: "Sea Ward"
+sources/adventure-wdh.json:30936: ],
+sources/adventure-wdh.json:30937: [
+sources/adventure-wdh.json:30938: "Helm",
+sources/adventure-wdh.json:30939: "Helm's Hall",
+sources/adventure-wdh.json:30940: "Southern Ward"
+sources/adventure-wdh.json:30941: ],
+sources/adventure-wdh.json:30942: [
+sources/adventure-wdh.json:30943: "Ilmater",
+sources/adventure-wdh.json:30944: "Hospice of St. Laupsenn",
+sources/adventure-wdh.json:30945: "North Ward"
+sources/adventure-wdh.json:30946: ],
+sources/adventure-wdh.json:30947: [
+sources/adventure-wdh.json:30948: "Lathander",
+sources/adventure-wdh.json:30949: "Spires of the Morning",
+sources/adventure-wdh.json:30950: "Castle Ward"
+sources/adventure-wdh.json:30951: ],
+sources/adventure-wdh.json:30952: [
+sources/adventure-wdh.json:30953: "Mielikki, Silvanus",
+sources/adventure-wdh.json:30954: "Shrines of Nature",
+sources/adventure-wdh.json:30955: "Sea Ward"
+sources/adventure-wdh.json:30956: ],
+sources/adventure-wdh.json:30957: [
+sources/adventure-wdh.json:30958: "Mystra",
+sources/adventure-wdh.json:30959: "House of Wonder",
+sources/adventure-wdh.json:30960: "Sea Ward"
+sources/adventure-wdh.json:30961: ],
+sources/adventure-wdh.json:30962: [
+sources/adventure-wdh.json:30963: "Oghma",
+sources/adventure-wdh.json:30964: "Font of Knowledge",
+sources/adventure-wdh.json:30965: "Castle Ward"
+sources/adventure-wdh.json:30966: ],
+sources/adventure-wdh.json:30967: [
+sources/adventure-wdh.json:30968: "Selûne",
+sources/adventure-wdh.json:30969: "Tower of the Moon",
+sources/adventure-wdh.json:30970: "Sea Ward"
+sources/adventure-wdh.json:30971: ],
+sources/adventure-wdh.json:30972: [
+sources/adventure-wdh.json:30973: "Sune",
+sources/adventure-wdh.json:30974: "Temple of Beauty",
+sources/adventure-wdh.json:30975: "Sea Ward"
+sources/adventure-wdh.json:30976: ],
+sources/adventure-wdh.json:30977: [
+sources/adventure-wdh.json:30978: "Tempus",
+sources/adventure-wdh.json:30979: "House of Heroes",
+sources/adventure-wdh.json:30980: "Sea Ward"
+sources/adventure-wdh.json:30981: ],
+sources/adventure-wdh.json:30982: [
+sources/adventure-wdh.json:30983: "Tymora",
+sources/adventure-wdh.json:30984: "Tower of Luck",
+sources/adventure-wdh.json:30985: "Castle Ward"
+sources/adventure-wdh.json:30986: ],
+sources/adventure-wdh.json:30987: [
+sources/adventure-wdh.json:30988: "Tyr",
+sources/adventure-wdh.json:30989: "Halls of Justice",
+sources/adventure-wdh.json:30990: "Castle Ward"
+sources/adventure-wdh.json:30991: ],
+sources/adventure-wdh.json:30992: [
+sources/adventure-wdh.json:30993: "Umberlee",
+sources/adventure-wdh.json:30994: "The Queenspire",
+sources/adventure-wdh.json:30995: "Beach"
+sources/adventure-wdh.json:30996: ]
+sources/adventure-wdh.json:30997: ]
+sources/adventure-wdh.json:30998: }
+sources/adventure-wdh.json:30999: ]
+sources/adventure-wdh.json:31000: },
+sources/adventure-wdh.json:31001: {
+sources/adventure-wdh.json:31002: "type": "entries",
+
